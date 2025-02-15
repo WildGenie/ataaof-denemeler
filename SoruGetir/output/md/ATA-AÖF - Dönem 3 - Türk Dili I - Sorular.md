@@ -93,12 +93,19 @@
     - D-) Doğuştancı G&ouml;r&uuml;ş
     - E-) Antropolojik G&ouml;r&uuml;ş
     ***
-1. <strong>İlahiyat&ccedil;ı Dil T&uuml;reyiş Teorisi hakkında aşağıda verilen bilgilerden hangisi doğrudur?</strong>
+1. <strong>İlahiyat&ccedil;ı Dil T&uuml;reyiş Teorisi hakkında aşağıda verilenlerden hangisi doğrudur?</strong>
     - A-) Dil, kişinin kendi &ccedil;abası ile &uuml;remiş ve gelişmiştir.
     - B-) Dil, sosyal etkileşimden doğmuştur.
     - **Cevap C-) Dil, Hz. &Acirc;dem&rsquo;e ve onun şahsında insanlara doğuştan verilmiş ilah&icirc; bir yetenektir.**
     - D-) İnsanda doğuştan var olan dil yeteneği zamanla taklit, jest ve mimiklerle ortaya &ccedil;ıkmıştır.
     - E-) İnsanda var olan dil taklitle ortaya &ccedil;ıkmıştır.
+    ***
+1. <strong>K&uuml;lt&uuml;r dili aşağıdakilerden hangisinde doğru tanımlanmıştır?</strong>
+    - A-) Bir toplumun yerel olarak kullandığı dildir.
+    - B-) Toplumun sanat anlayışının jargon dilidir.
+    - C-) Dilin k&uuml;lt&uuml;re olan etkisini araştıran dil bilim dalıdır.
+    - **Cevap D-) Milletlerin k&uuml;lt&uuml;r merkezi olarak gelişen yerleşim diline verilen addır.**
+    - E-) Dil ile k&uuml;lt&uuml;r&uuml;n ortak noktalarının belirlendiği &ouml;zel araştırma alanıdır.
     ***
 1. <strong>T&uuml;rkiye T&uuml;rklerinin yazı dili aşağıdakilerden hangisidir?</strong>
     - A-) Erzurum ağzı
@@ -305,6 +312,14 @@ III. K&uuml;lt&uuml;rel değerlerin izlerini dil &uuml;zerinde s&uuml;rmek m&uum
     - D-) anlatım
     - E-) edeb&icirc;
     ***
+1. Scollon&#39;a (1995) g&ouml;re ortak bir k&uuml;lt&uuml;r&uuml; paylaşan insanlar, ...........................................................<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi <u>getirilemez</u>?</strong> 
+    - A-) birbirlerini daha kolay anlarlar.
+    - B-) kendi aralarında &uuml;retken ilişkiler kurarlar.
+    - **Cevap C-) birbirlerine karşı eleştirel davranabilirler.**
+    - D-) &ouml;znel bir kimlik oluşturabilirler.
+    - E-) kendi aralarında yapıcı bir ilişki kurabilirler.
+    ***
 1. .............................. g&ouml;ndericinin d&uuml;ş&uuml;nceleri, hisleri, ilkeleri, &ouml;ncelikleri, &ouml;n yargıları hakkında anlatıcıya bilgi verir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
     - A-) Betimleme işlevi
@@ -327,6 +342,14 @@ III. K&uuml;lt&uuml;rel değerlerin izlerini dil &uuml;zerinde s&uuml;rmek m&uum
     - C-) Edeb&icirc; işlev
     - D-) Betimleme işlevi
     - **Cevap E-) &Ouml;yk&uuml;leme işlevi**
+    ***
+1. Bireyler arasında anlaşamayı sağlayan, k&uuml;lt&uuml;r ve medeniyetin yapıcısı ve bu unsurları ge&ccedil;mişten g&uuml;n&uuml;m&uuml;ze ve g&uuml;n&uuml;m&uuml;zden de geleceğe aktaran, temeli bilinmeyen zamanlarda atılan ve seslerden &ouml;r&uuml;lm&uuml;ş doğal bir vasıtadır.<br />
+<strong>Tanımı verilen kavram aşağıdakilerden hangisidir?</strong>
+    - A-) Din
+    - B-) K&uuml;lt&uuml;r
+    - C-) T&ouml;rel değerler
+    - **Cevap D-) Dil**
+    - E-) Tarihsel miras
     ***
 1. <strong>Aşağıdakilerden hangisi k&uuml;lt&uuml;r&uuml;n &ouml;zg&uuml;n bir grup yaratma işlevine <u>uygun olamaz</u>?</strong>
     - A-) İnsanların birbirlerini kolay anlamaları
@@ -452,6 +475,13 @@ III. T&uuml;rk&ccedil;e, diğer T&uuml;rk dilleriyle birlikte Altay dil ailesini
     - D-) &nbsp;Bu d&ouml;neme ait yazılı belgeler incelendiğinde, yazı dili tarihinin, edeb&icirc; dil olarak &ccedil;ok eskilere kadar gittiği a&ccedil;ık&ccedil;a g&ouml;r&uuml;lmektedir.
     - **Cevap E-) &nbsp;Bu d&ouml;nemde T&uuml;rk toplulukları &Ouml;n Afrika ve Avrasya coğrafyasına yayılmaya başlamışlardır.**
     ***
+1. <strong>Aşağıdakilerden hangisi Gagauz T&uuml;rk&ccedil;esinin konuşulduğu yerlerden biri <u>değildir</u>?</strong>
+    - A-) Moldova
+    - B-) Bulgaristan
+    - C-) Romanya
+    - **Cevap D-) Afganistan**
+    - E-) Kazakistan
+    ***
 1. <strong>T&uuml;rk&ccedil;e aşağıdaki dillerden hangisiyle en &ccedil;ok benzerlik g&ouml;steren dildir?</strong><br />
 <br />
 
@@ -476,16 +506,23 @@ III. T&uuml;rk&ccedil;e, diğer T&uuml;rk dilleriyle birlikte Altay dil ailesini
     - D-) Şinasi Tekin, Ahmet Temir, Muharrem Ergin
     - E-) Muharrem Ergin, Şinasi Tekin, Osman Fikri Sertkaya
     ***
-1. I. T&uuml;rk&ccedil;e s&ouml;zc&uuml;klerde s&ouml;z başında bulunabilen &uuml;ns&uuml;z sayısı sınırlıdır: b, &ccedil;, d, g, k, s, t, v, y, c &uuml;ns&uuml;z&uuml;, s&ouml;z başında başka &uuml;ns&uuml;zlerden değişmiş olarak birka&ccedil; s&ouml;zc&uuml;kte bulunur: cibinlik &lt;&ccedil;ıpın vb.<br />
+1. I. T&uuml;rk&ccedil;e s&ouml;zc&uuml;klerde s&ouml;z başında bulunabilen &uuml;ns&uuml;z sayısı sınırlıdır. B, &ccedil;, d, g, k, s, t, v, y, c &uuml;ns&uuml;z&uuml;, s&ouml;z başında başka &uuml;ns&uuml;zlerden değişmiş olarak birka&ccedil; s&ouml;zc&uuml;kte bulunur: cibinlik &lt;&ccedil;ıpın vb.<br />
 II. n &uuml;ns&uuml;z&uuml; T&uuml;rk&ccedil;e k&ouml;kenli s&ouml;zc&uuml;kler i&ccedil;inde yalnız ne ve t&uuml;revlerinde bulunur: ne, neden, ni&ccedil;in, nasıl vb.<br />
-III. p &uuml;ns&uuml;z&uuml; de s&ouml;z başında, birka&ccedil; T&uuml;rk&ccedil;e s&ouml;zc&uuml;kte b&#39;den değişmiş olarak bulunur: piş- &lt;biş-, parmak &lt;barmak vb.<br />
-<strong>T&uuml;rk&ccedil;e ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong><br />
+III. p &uuml;ns&uuml;z&uuml; de s&ouml;z başında, birka&ccedil; T&uuml;rk&ccedil;e s&ouml;zc&uuml;kte b&#39;den değişmiş olarak bulunur: piş-<br />
+<biş-, barmak="&quot;&quot;" br="&quot;&quot;" parmak="&quot;&quot;"> <strong>T&uuml;rk&ccedil;e ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong></biş-,><br />
 
     - A-) Yalnız I
     - B-) I ve II
     - **Cevap C-) I, II ve III**
     - D-) II ve III
     - E-) I ve III
+    ***
+1. <strong>Suci, Şine-Usu, Karabalgasun Yazıtları T&uuml;rk&ccedil;enin hangi d&ouml;nemine aittir?</strong>
+    - A-) Altay Dil Birliği D&ouml;nemi
+    - **Cevap B-) Eski T&uuml;rk&ccedil;e D&ouml;nemi**
+    - C-) Orta T&uuml;rk&ccedil;e D&ouml;nemi
+    - D-) Yeni T&uuml;rk&ccedil;e D&ouml;nemi
+    - E-) Modern T&uuml;rk&ccedil;e D&ouml;nemi
     ***
 1. <strong>Aşağıdaki dillerden hangisi &ccedil;ekimli dillerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Rus&ccedil;a
@@ -507,6 +544,14 @@ III. p &uuml;ns&uuml;z&uuml; de s&ouml;z başında, birka&ccedil; T&uuml;rk&cced
     - C-) Atabet&uuml;&#39;l-Hakayık
     - D-) D&icirc;van&uuml; L&uuml;gati&#39;t- T&uuml;rk
     - **Cevap E-) Kısas&uuml;&#39;l-Enbiya**
+    ***
+1. D&uuml;nyanın en b&uuml;y&uuml;k dil ailesidir. Y&uuml;zlerce dil ve leh&ccedil;e i&ccedil;erir. D&uuml;nyada 2,5 milyardan fazla insanın ana dilidir.<br />
+<strong>&Ouml;zellikleri verilen dil ailesi aşağıdakilerden hangisidir?</strong> 
+    - A-) Ural-Altay Dil Ailesi
+    - **Cevap B-) Hint-Avrupa Dil Ailesi**
+    - C-) Dravid Dilleri Ailesi
+    - D-) Afroasya Dilleri Ailesi
+    - E-) Nijer-Kongo Dilleri Ailesi
     ***
 1. Kitap her iki d&uuml;nyada da mutluluğa kavuşmak i&ccedil;in gidilmesi gereken yolu g&ouml;stermek amacıyla kaleme alınmıştır. Yazara g&ouml;re bir insanın erdemi ancak başka insanlar arasındayken belli olur. &Ccedil;&uuml;nk&uuml; sadece kendisine fayda d&uuml;ş&uuml;nen biri &ouml;l&uuml;lere benzer.<br />
 <strong>İ&ccedil;eriği hakkında bilgi verilen kitap aşağıdakilerden hangisidir?</strong>
@@ -600,13 +645,13 @@ III. G&ouml;&ccedil;ler<br />
     - **Cevap E-) I, II ve III**
     ***
 1. <strong>&nbsp;Aşağıdakilerden hangisi T&uuml;rklerin tarih boyunca kullandığı alfabelerden biri <u>değildir</u>?</strong>
-    - A-) &nbsp;İbrani Alfabesi
-    - B-) &nbsp;&Ccedil;in Alfabesi
-    - C-) &nbsp;Soğd Alfabesi
-    - **Cevap D-) &nbsp;Japon Alfabesi**
-    - E-) &nbsp;Uygur Alfabesi
+    - A-) İbrani Alfabesi
+    - B-) &Ccedil;in Alfabesi
+    - C-) Soğd Alfabesi
+    - **Cevap D-) Japon Alfabesi**
+    - E-) Uygur Alfabesi
     ***
-1. Dil bilimcilere g&ouml;re d&uuml;nya &uuml;zerinde g&uuml;n&uuml;m&uuml;zde yaklaşık olarak &hellip;&hellip;&hellip;&hellip;&rsquo;den fazla dil konuşulmaktadır?<br />
+1. Dil bilimcilere g&ouml;re d&uuml;nya &uuml;zerinde g&uuml;n&uuml;m&uuml;zde yaklaşık olarak &hellip;&hellip;&hellip;&hellip;&rsquo;den fazla dil konuşulmaktadır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) 2000
     - **Cevap B-) 3000**
@@ -776,7 +821,7 @@ Bu durumda eğitimli birey i&ccedil;in doğru davranış aşağıdakilerin hangi
     - D-) &Acirc;lim unutmuş, kalem unutmamış.
     - **Cevap E-) Dost ile ye i&ccedil;, alışveriş etme.**
     ***
-1. <strong>&nbsp;T&uuml;rk&ccedil;ede renk ve akrabalık kavramlarının geniş bir yelpazede olması aşağıdakilerden hangisini ifade eder?</strong>
+1. <strong>T&uuml;rk&ccedil;ede renk ve akrabalık kavramlarının geniş bir yelpazede olması aşağıdakilerden hangisini ifade eder?</strong>
     - A-) &nbsp;Bir&ccedil;ok leh&ccedil;e ve ağza sahip olmasını
     - B-) &nbsp;Sahip olduğu kelime sayısının fazlalığını
     - **Cevap C-) &nbsp;T&uuml;rk&ccedil;enin k&ouml;kl&uuml; bir ge&ccedil;mişe ve deneyime sahip olduğunu**
@@ -819,6 +864,13 @@ Soramadım.<br />
     - **Cevap C-) Son derece ağırbaşlı bir &ccedil;ocuktu.**
     - D-) Son kitabını okurları i&ccedil;in imzaladı.
     - E-) Son otob&uuml;ste otogara girdi.
+    ***
+1. <strong>&ldquo;Derin&rdquo; s&ouml;zc&uuml;ğ&uuml; aşağıdaki c&uuml;mlelerin hangisinde &ldquo;İ&ccedil;inde ona karşı derin bir sevgi besliyordu.&rdquo; c&uuml;mlesindeki anlamıyla kullanılmıştır?</strong> 
+    - A-) Ortamı derin bir sessizlik kapladı.
+    - **Cevap B-) En derin saygılarımı sunarım.**
+    - C-) Y&uuml;zmek i&ccedil;in derin suları se&ccedil;mem.
+    - D-) Okyanusun derinliği burada y&uuml;z metreyi buluyor.
+    - E-) Derinlere dalıp gidiyordu.
     ***
 1. <strong>T&uuml;rk&ccedil;enin sondan eklemeli bir dil olması ona hangi &ouml;zelliği kazandırmıştır?</strong>
     - **Cevap A-) Kolay kelime ve kavram &uuml;retimi**
@@ -884,7 +936,7 @@ IV. G&ouml;zleri s&uuml;z&uuml;lmek<br />
     - D-) &Uuml;rkek
     - **Cevap E-) Otomobil**
     ***
-1. <strong>&nbsp;Aşağıdakilerin hangisinde &quot;T&uuml;rk&ccedil;edeki &uuml;ns&uuml;zlerin sınıflandırılması&quot; <u>yanlıştır</u>?</strong>
+1. <strong>Aşağıdakilerin hangisinde &quot;T&uuml;rk&ccedil;edeki &uuml;ns&uuml;zlerin sınıflandırılması&quot; <u>yanlıştır</u>?</strong>
     - A-) Dudak &uuml;ns&uuml;zleri: b, p, m
     - **Cevap B-) Diş-dudak &uuml;ns&uuml;zleri: f, v, c**
     - C-) &Ouml;n damak &uuml;ns&uuml;zleri: g, k, l, r, y
@@ -979,9 +1031,8 @@ Sen kalemsin ben u&ccedil; muyum?<br />
     - D-) &Ouml;n ek değil, son ek kullanılır.
     - E-) Soru ekle yapılır.
     ***
-1. Eşyalarımın hepsi sahilde <u>kaybolmuş</u>.<br />
-<strong>Altı &ccedil;izili s&ouml;zc&uuml;kte g&ouml;r&uuml;len ses olayı aşağıdakilerin hangisinde verilmiştir?</strong>
-
+1. O <u>g&ouml;nl&uuml;</u> y&uuml;ce biridir.<br />
+<strong>Altı &ccedil;izili s&ouml;zc&uuml;kte g&ouml;r&uuml;len ses olayının benzeri aşağıdaki c&uuml;mlelerin hangisinde yapılmıştır?</strong> 
     - **Cevap A-) Oğlunu gencecik yaşta yitirmenin acısını yaşıyordu.**
     - B-) Ona karşı hissettiği her şey bitti.
     - C-) Beni hep sen mutlu ettin.
@@ -994,6 +1045,13 @@ Sen kalemsin ben u&ccedil; muyum?<br />
     - **Cevap C-) Hastayı başka yere nakil ettiler.**
     - D-) Bunu yapamayacağını zannediyordum.
     - E-) Bizi umutsuz g&uuml;nlere sevk etti.
+    ***
+1. <strong>Aşağıdakilerden hangisi ses organlardan biri <u>değildir</u>?</strong>
+    - A-) Akciğer
+    - **Cevap B-) Karaciğer**
+    - C-) K&uuml;&ccedil;&uuml;k dil
+    - D-) Burun
+    - E-) Dudaklar
     ***
 1. <strong>Aşağıdakilerden hangisi T&uuml;rkiye T&uuml;rk&ccedil;esinin ses &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) T&uuml;rkiye T&uuml;rk&ccedil;esinde i&ccedil;inde &quot;j&quot; bulunan s&ouml;zc&uuml;kler T&uuml;rk&ccedil;e değildir.
@@ -1034,6 +1092,13 @@ IV. Ayağımla konuşup, ağzımla d&ouml;n&uuml;nce&nbsp;<br />
     - **Cevap C-) T&uuml;m hatalarına rağmen o iyi bir insandı.**
     - D-) Sazını eline aldığında kendinden ge&ccedil;iyordu.
     - E-) D&uuml;şmanca s&ouml;ylemlerinden pek sevilmezdi.
+    ***
+1. <strong>Aşağıdakilerin hangisinde yapım ekinin kullanımı kural dışı bir uygulamaya &ouml;rnektir?</strong> 
+    - A-) Akıllı d&uuml;şman, akılsız dosttan iyidir.
+    - **Cevap B-) Y&uuml;zdelik dilime giremeyince atanamadı.**
+    - C-) G&ouml;n&uuml;ll&uuml;ler sayesinde ağa&ccedil; yoldan kaldırıldı.
+    - D-) Bildiğim kadarıyla hi&ccedil; evlenmemişti.
+    - E-) Bu konularda olduk&ccedil;a tecr&uuml;belidir.
     ***
 1. <strong>Aşağıdakilerden hangisinde soru eki c&uuml;mleye zaman anlamı katmaktadır?</strong> 
     - A-) Birden bire bana soru sormasın mı!
@@ -1168,9 +1233,1098 @@ IV.Tepe<br />
     - **Cevap E-) I,II,III ve IV**
     ***
 ## Unite 8
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde altı &ccedil;izili s&ouml;zc&uuml;k mecaz anlamıyla kullanılmıştır?</strong>
+    - A-) <u>Gelecek</u> hafta yapılacak toplantıda bu konu g&ouml;r&uuml;ş&uuml;lmelidir.
+    - B-) Az sonra i&ccedil;eri beyazlar i&ccedil;erisinde bir <u>gelin</u> girdi.
+    - C-) Annesi, &ccedil;ocuğun <u>uyku</u> probleminden bahsediyordu.
+    - **Cevap D-) <u>Boş</u> s&ouml;zlerle bug&uuml;ne kadar zar zor geldik işte.**
+    - E-) Patronla <u>g&ouml;r&uuml;şmek</u> ve zam istemek istiyordu.
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerde altı &ccedil;izili s&ouml;zc&uuml;klerden hangisi ger&ccedil;ek anlamda kullanılmıştır?</strong>
+    - A-) Geminin <u>burun</u> kısmında ciddi bir hasar oluşmuştu.
+    - B-) Hamur makinesinin <u>kolu</u> kırılınca o g&uuml;n ekmek &ccedil;ıkmadı.
+    - C-) D&uuml;ğ&uuml;nde &uuml;&ccedil; <u>el</u> silah sıkılınca herkes ka&ccedil;ışmaya başladı.
+    - **Cevap D-) İri <u>g&ouml;vdesinin</u> ardında yumuşacık bir kalbi vardı.**
+    - E-) Koltukların <u>y&uuml;z&uuml;</u> eskiyince koltuklar depoya indirildi.
+    ***
+1. <strong>Aşağıdakilerin hangisinde bir terim kullanılmıştır?</strong>
+    - **Cevap A-) T&uuml;rkiye&rsquo;de y&uuml;r&uuml;tme g&ouml;revi h&uuml;k&ucirc;metindir.**
+    - B-) &Ouml;zg&uuml;rl&uuml;kler temelinde yeni bir yapı kurulmalı.
+    - C-) Sanat ile bilim arasında ciddi farklar bulunmaktadır.
+    - D-) Bilim adamının tarafsızlığı ne kadar m&uuml;mk&uuml;n olabilir ki?
+    - E-) Sanatın ham maddesi duygudur.
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde somut anlamlı bir s&ouml;zc&uuml;k soyut anlam ifade etmektedir?</strong>
+    - A-) Karikat&uuml;r hazırlamak ciddi entelekt&uuml;el bilgi gerektirir.
+    - **Cevap B-) Başarısızlığımızda acaba birilerinin parmağı mı var?**
+    - C-) Kafasından ge&ccedil;enleri sadece kendisi bilirdi.
+    - D-) &Ccedil;ocukluk, &ouml;mr&uuml;n en neşeli zaman dilimidir.
+    - E-) Hi&ccedil;bir şeyden korkmayan cesur bir adamdı.
+    ***
+1. <u>Ne olursa olsun</u> bu işi bitireceğim.<br />
+<strong>Bu c&uuml;mleye altı &ccedil;izili s&ouml;z&uuml;n kattığı anlam aşağıdakilerin hangisinde vardır?</strong>
+    - A-) B&uuml;t&uuml;n hakikatler g&uuml;n y&uuml;z&uuml;ne &ccedil;ıktı.
+    - **Cevap B-) D&uuml;ğ&uuml;ne mutlaka geleceğim.**
+    - C-) Hi&ccedil; vakit kaybetmeden yola koyulduk.
+    - D-) Bunların hi&ccedil;birini ben s&ouml;ylemedim.
+    - E-) Eşyaların tamamı selden zarar g&ouml;rd&uuml;.
+    ***
+1. <u>Gelir gelmez</u> odasına ge&ccedil;ti.<br />
+<strong>Bu c&uuml;mlede altı &ccedil;izili s&ouml;z&uuml;n kattığı anlam aşağıdakilerin hangisinde vardır?</strong>
+    - A-) <u>Olur olmaz</u> işlerle uğraşmandan sıkıldım.
+    - B-) <u>Belli belirsiz</u> konuşmalardan &ccedil;ok sıkıldım.
+    - **Cevap C-) Yastığa başını <u>koyar koymaz</u> uyurdu.**
+    - D-) <u>Zamanlı zamansız</u> gelişleriyle meşhurdu.
+    - E-) <u>Bilir bilmez</u> her s&ouml;ze karışırdı.
+    ***
+1. I. <u>Hafif hafif</u> bir r&uuml;zg&acirc;r esiyordu.<br />
+II. <u>Hemen hemen</u> işi bitirdik.<br />
+III. <u>Zaman zaman</u> yağmur yağıyordu.<br />
+IV. <u>Aşağı yukarı</u> sekiz ayı kaldı.<br />
+V. <u>Ara sıra</u> iş yerine uğrardı.<br />
+<strong>Bu c&uuml;mlelerde altı &ccedil;izili s&ouml;zc&uuml;kler birbirine yakın olma durumuna g&ouml;re gruplandırıldığında hangisi dışarıda kalır?</strong>
+    - **Cevap A-) I**
+    - B-) II
+    - C-) III
+    - D-) IV
+    - E-) V
+    ***
+1. Bu ağrıyı <u>&ccedil;ok &ccedil;ok</u> on g&uuml;n daha &ccedil;ekersin.<br />
+<strong>Altı &ccedil;izili kelime grubunun c&uuml;mleye kattığı anlam aşağıdakilerden hangisidir?</strong>
+    - A-) Oldum olası bu işlerden hi&ccedil; anlamam.
+    - B-) Hemen hemen askerliği bitti.
+    - C-) Oldu olacak istifa da etseydin.
+    - D-) Kendimi bildim bileli yumurta yemem.
+    - **Cevap E-) Bu araba olsa olsa bir tondur.**
+    ***
+1. <strong>&Ccedil;ekmek kelimesi aşağıdakilerden hangisinde ger&ccedil;ek anlamda <u>kullanılmamıştır</u>?</strong>
+    - A-) Asker&icirc; te&ccedil;hizat kağnılarla &ccedil;ekiliyordu.
+    - B-) Sınıf rahatsız olmasın diye kapıyı yavaş&ccedil;a &ccedil;ekti.
+    - C-) Balık&ccedil;ılar ağları yavaş&ccedil;a &ccedil;ekmeye başladılar.
+    - **Cevap D-) Kimseye &ccedil;aktırmadan bizim b&uuml;t&uuml;n depoyu &ccedil;ekmiş.**
+    - E-) Eskimiş bayrağın ipini yere doğru &ccedil;ektiler.
+    ***
+1. Bir tatil d&ouml;n&uuml;ş&uuml; evinin kapısını a&ccedil;mak i&ccedil;in elini cebine attığı anda, herkesi bir g&uuml;n kavrayacak olan karanlık onu da kavradı.<br />
+<strong>Bu c&uuml;mle ve onu oluşturan s&ouml;zc&uuml;kler i&ccedil;in aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) &ldquo;attığı&rdquo; s&ouml;zc&uuml;ğ&uuml;, başka bir s&ouml;zc&uuml;ğ&uuml;n anlamca yerini tutmuştur.
+    - B-) &ldquo;kavradı&rdquo; s&ouml;zc&uuml;ğ&uuml; ger&ccedil;ek anlamı dışında kullanılmıştır.
+    - C-) &ldquo;karanlık&rdquo; s&ouml;zc&uuml;ğ&uuml; ger&ccedil;ek anlamının dışında kullanılmıştır.
+    - D-) &ldquo;elini cebine atmak&rdquo; bu c&uuml;mlede deyim olarak kullanılmıştır.
+    - **Cevap E-) &ldquo;elini&rdquo; s&ouml;zc&uuml;ğ&uuml; ger&ccedil;ek anlamının dışında kullanılmıştır.**
+    ***
+1. I.&nbsp; &Ccedil;ocukluğumun en g&uuml;zel anıları <u>birden</u> aklıma geldi.<br />
+II.&nbsp; &Ccedil;ocuklarının bir yetişkin gibi davranmasına&nbsp;&nbsp; <u>&ouml;ylesine</u> şaşırıyordu ki&hellip;<br />
+III.&nbsp; İ&ccedil;imden <u>bir an</u> &ccedil;ocukluğumun ge&ccedil;tiği sokaklarda y&uuml;r&uuml;mek geldi.<br />
+IV. Giderken <u>ansızın</u> d&ouml;n&uuml;p yaşlı g&ouml;zleriyle bize baktı.<br />
+<strong>Yukarıda numaralanmış c&uuml;mlelerin hangi ikisinde altı &ccedil;izili s&ouml;zc&uuml;kler anlamca en yakındır?</strong>
+    - A-) I ve II
+    - **Cevap B-) I ve IV**
+    - C-) II ve III
+    - D-) II ve IV
+    - E-) III ve IV
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde mecaz anlamlı s&ouml;zc&uuml;k <u>kullanılmamıştır</u>?</strong>
+    - A-) Soğuk memleketin sıcak t&uuml;rk&uuml;leriyle b&uuml;y&uuml;d&uuml;m ben.
+    - B-) Benden bilgi sızdırmak i&ccedil;in benimle samimi olmaya &ccedil;alıştığını &ccedil;ok ge&ccedil; fark ettim.
+    - C-) Katıldığımız etkinlikten aklımızda kalan en g&uuml;zel şey, &ccedil;ocukların y&uuml;reklerimizi ısıtan g&uuml;l&uuml;msemesiydi.
+    - D-) Ne zaman bu yollardan ge&ccedil;sem bir ozanın yanık sesi &ccedil;ınlar kulaklarımda.
+    - **Cevap E-) Kara g&ouml;zleriyle etrafına baktı ve kalabalık caddeye doğru ilerledi.**
+    ***
+1. <strong>Aşağıdakilerden hangisi yakın anlamlı kelimelerin tekrarıyla oluşan bir ikileme <u>değildir</u>?</strong>
+    - A-) Doğru d&uuml;r&uuml;st
+    - B-) Ağrı sızı
+    - **Cevap C-) Enine boyuna**
+    - D-) Sorgu sual
+    - E-) Yer yurt
+    ***
+1. <strong>Anlatıma akıcılık ve zenginlik kazandırmak i&ccedil;in birden fazla s&ouml;zc&uuml;kten en az birinin ger&ccedil;ek anlamından uzaklaştırılmasıyla oluşturulmuş s&ouml;z gruplarına ne ad verilir?</strong>
+    - **Cevap A-) Deyim**
+    - B-) Atas&ouml;z&uuml;
+    - C-) Kalıp s&ouml;z
+    - D-) İkileme
+    - E-) Argo
+    ***
+1. <strong>Aşağıdakilerden hangisinde zıt anlamlı kelimeler bir arada <u>verilmemiştir</u>?</strong>
+    - A-) Yakın-Uzak
+    - **Cevap B-) İleri-Yukarı**
+    - C-) İleri-Geri
+    - D-) Kolay-Zor
+    - E-) Az-&Ccedil;ok
+    ***
 ## Unite 9
+1. <strong>Aşağıdaki c&uuml;mlelerde veya dizelerde kullanılan ikilemelerden hangisi c&uuml;mleye abartma anlamı katmıştır?</strong>
+    - A-) Ağır ağır &ccedil;ıkacaksın bu merdivenlerden
+    - B-) T&uuml;rk&uuml;lerde t&uuml;ter dağ dağ, yayla yayla / K&ouml;y&uuml;m&uuml;z k&ouml;yl&uuml;m&uuml;z t&uuml;rk&uuml;lerimiz
+    - **Cevap C-) Şu yalan d&uuml;nyaya geldim geleli / Tas tas i&ccedil;tim ağuları sağ iken**
+    - D-) &Ouml;n&uuml;nde sonunda benim elime d&uuml;şeceksin
+    - E-) Her yer vıcık vıcık &ccedil;amurdu
+    ***
+1. <strong>Ağşağıdakilerden hangisi &quot;kalıp / ilişki s&ouml;zlerin&quot; &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - A-) Bu s&ouml;zler ekleme ve &ccedil;ıkarma yapılamayan, değiştirilemeyen t&uuml;rden dil birimleridir.
+    - B-) Genellikle c&uuml;mle veya kelime &ouml;beği dizilişiyle var olurlar.
+    - C-) Kimi c&uuml;mle ve kelime &ouml;beği t&uuml;rlerinde yer alırlar.
+    - **Cevap D-) Bu t&uuml;r s&ouml;zlerde kelimelerin yer değiştirmesi anlamda değişmeye neden olmaz.**
+    - E-) Az sayıda kelimeden oluşurlar.
+    ***
+1. <strong>Aşağıdaki atas&ouml;zlerinden hangisinde &quot;bir başkasının hakkında h&uuml;k&uuml;m verme&quot; gerek&ccedil;esi vurgulanmıştır?</strong>
+    - A-) B&uuml;lb&uuml;l&uuml; altın kafese koymuşlar &ldquo;Ah vatanım!&rdquo; demiş.
+    - B-) Sabreden derviş muradına ermiş.
+    - **Cevap C-) Tarlada izi olmayanın harmanda y&uuml;z&uuml; olmaz.**
+    - D-) Tembele iş buyur sana akıl &ouml;ğretsin.
+    - E-) Ağlamayan &ccedil;ocuğa meme vermezler.
+    ***
+1. <strong>Aşağıdaki atas&ouml;zlerinden hangisi &ouml;l&ccedil;&uuml;l&uuml; ve kafiyeli olarak s&ouml;ylenmiştir?</strong>
+    - **Cevap A-) At &ouml;l&uuml;r meydan kalır, yiğit &ouml;l&uuml;r şan kalır.**
+    - B-) Deveye boynun eğri demişler; nerem doğru ki demiş.
+    - C-) Bol bol yiyen, bel bel bakar.
+    - D-) Akıllı d&uuml;şman, akılsız dosttan hayırlıdır.
+    - E-) Kaynayan kazan kapak tutmaz.
+    ***
+1. <strong>Aşağıda deyimlerle ilgili verilen bilgilerden hangisi <u>yanlıştır</u>?</strong><br />
+<br />
+
+    - A-) Belli bir durum ve olayı anlatmada kullanılırlar.
+    - B-) En az iki s&ouml;zc&uuml;kten oluşurlar.
+    - C-) Deyimler &ccedil;ekim ekleri vasıtasıyla &ccedil;ekimlenebilir.
+    - **Cevap D-) Deyimlerde s&ouml;zc&uuml;kler hep ger&ccedil;ek anlamlarıyla kullanılırlar.**
+    - E-) Deyimler kısa &ouml;zl&uuml; ifadelerdir.
+    ***
+1. <strong>&ldquo;</strong>Dolu k&uuml;p&uuml;n sesi &ccedil;ıkmaz.<strong>&rdquo; atas&ouml;z&uuml;nde anlatılmak istenen aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Bilen kişi her yerde konuşmaz.**
+    - B-) Karnı tok olan konuşmaz.
+    - C-) İ&ccedil;i doldurulan nesne ses &ccedil;ıkarmaz.
+    - D-) Cahil insan sessiz kalır.
+    - E-) Sıkıntılı insanlar her zaman sessizdir.
+    ***
+1. <strong>&ldquo;Kapı&rdquo; s&ouml;zc&uuml;ğ&uuml;, aşağıdaki c&uuml;mlelerin hangisinde deyim i&ccedil;inde <u>kullanılmamıştır</u>?</strong>
+    - A-) Patrona karşı geldiği i&ccedil;in kapı dışarı edileceğini biliyordu.
+    - B-) K&uuml;&ccedil;&uuml;k &ccedil;ocuk her g&uuml;n doksan kapının ipini &ccedil;ekerdi.
+    - C-) Babam işten &ccedil;ıkınca alacaklılar kapıya dayandı.
+    - **Cevap D-) Odanın kapısına yaslanarak derin bir oh &ccedil;ekti.**
+    - E-) B&uuml;t&uuml;n kapılar tek tek y&uuml;z&uuml;ne kapandı.
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde ikileme c&uuml;mleye &quot;zorlukla&quot; anlamı katmıştır?</strong><br />
+<br />
+
+    - A-) Gece g&uuml;nd&uuml;z demeden &ccedil;alışıyordu.
+    - **Cevap B-) &Ccedil;amurlara bata &ccedil;ıka y&uuml;r&uuml;yor.**
+    - C-) Yaptığı yanlışı er ge&ccedil; anlayacak
+    - D-) Bu işte onun da az &ccedil;ok payı var.
+    - E-) Seninle koşa koşa gitmiştik.
+    ***
+1. <strong>Aşağıdaki ikilemelerden hangisi diğerlerinden farklıdır?</strong><br />
+<br />
+
+    - A-) Fabrikada işler ağır aksak y&uuml;r&uuml;yor.
+    - B-) Aldığımız kumaş delik deşikti.
+    - **Cevap C-) Olanlardan az &ccedil;ok haberim var.**
+    - D-) Bir s&uuml;r&uuml; sorgu sualden sonra salıverdiler.
+    - E-) Sınıfta ses seda kesildi.
+    ***
+1. I. D&uuml;ş&uuml;nmeden, tutarsız s&ouml;z s&ouml;ylemek<br />
+II. &Ouml;&ccedil; almak<br />
+III. Bir işi yapmakta acele etmemek<br />
+IV. Ağzında bakla ıslanmamak<br />
+<strong>Aşağıdakilerden hangisi, yukarıda a&ccedil;ıklaması verilen deyimlerden biri <u>değildir</u>?</strong> 
+    - A-) Abuk sabuk konuşmak
+    - B-) Acısını &ccedil;ıkarmak
+    - C-) Ağırdan almak
+    - **Cevap D-) Ağzı kulaklarına varmak**
+    - E-) Sır saklamayı becerememek
+    ***
+1. <strong>Aşağıdakilerden hangisi &ldquo;bir istek bildiren&rdquo; ilişki s&ouml;z/kalıp s&ouml;zd&uuml;r? </strong>
+    - A-) Senden iyi olmasın.
+    - B-) Alacağın olsun.
+    - C-) Tarih tekerr&uuml;rden ibarettir.
+    - D-) İyi saatte olsunlar.
+    - **Cevap E-) Sadede gelelim.**
+    ***
+1. <strong>Aşağıdakilerden hangisi &ldquo;konuşanı ve dinleyeni y&uuml;celtme&quot; bildiren bir kalıp s&ouml;zd&uuml;r?</strong> 
+    - A-) Hoş&ccedil;a kal.
+    - B-) Alacağın olsun.
+    - C-) Her şey olacağına varır.
+    - D-) G&ouml;r&uuml;şmek &uuml;zere.
+    - **Cevap E-) S&ouml;z&uuml;n&uuml; balla kestim.**
+    ***
+1. <strong>&ldquo;Akıl k&acirc;rı olmamak&rdquo; deyiminin doğru karşılığı aşağıdakilerden hangisidir?</strong><br />
+
+    - A-) &Ccedil;ok cahil olmak
+    - B-) K&ouml;t&uuml;l&uuml;k yapmak
+    - C-) Beğenmemek
+    - **Cevap D-) Akıllı bir kişinin yapacağı iş olmamak**
+    - E-) Kolayca şeytana uymak
+    ***
+1. <strong>Aşağıdaki atas&ouml;zlerinden hangisinde deyim <u>kullanılmamıştır</u>?</strong><br />
+<br />
+
+    - A-) Isıracak it dişini g&ouml;stermez.
+    - B-) Ne ekersen onu bi&ccedil;ersin.
+    - C-) G&ouml;zden ırak olan g&ouml;n&uuml;lden de ırak olur.
+    - D-) Etek &ouml;pmekle ağız aşınmaz.
+    - **Cevap E-) At &ouml;l&uuml;r meydan kalır, yiğit &ouml;l&uuml;r şan kalır.**
+    ***
+1. <strong>Aşağıdaki atas&ouml;zlerinden hangisi aynı veya yakın anlamlıdır?</strong><br />
+<br />
+
+    - A-) Dost ile ye i&ccedil;; alışveriş yapma/Bug&uuml;n&uuml;n işini yarına bırakma.
+    - B-) Fazla mal g&ouml;z &ccedil;ıkarmaz./Azıcık aşım, kaygısız başım.
+    - C-) İyilik eden iyilik bulur./İyilikten maraz doğar.
+    - D-) Damlaya damlaya g&ouml;l olur./Taşıma suyla değirmen d&ouml;nmez.
+    - **Cevap E-) Mum dibine ışık vermez./Terzi kendi s&ouml;k&uuml;ğ&uuml;n&uuml; dikemez.**
+    ***
+1. <strong>Aşağıdaki ikilemelerden hangisi kuruluşu y&ouml;n&uuml;yle diğerlerinden farklıdır?</strong> 
+    - A-) Yamru yumru
+    - B-) Eğri b&uuml;ğr&uuml;
+    - C-) Eski p&uuml;sk&uuml;
+    - D-) Yırtık pırtık
+    - **Cevap E-) Ev bark**
+    ***
+1. <strong>Aşağıdaki ilişki s&ouml;zlerin hangisi diğerlerinden farklıdır?</strong>
+    - **Cevap A-) İyi saatte olsunlar.**
+    - B-) Yediğin i&ccedil;tiğin senin olsun gezdiğin g&ouml;rd&uuml;ğ&uuml;n yerleri anlat.
+    - C-) &Ouml;l&uuml;lerin ardından k&ouml;t&uuml; s&ouml;z s&ouml;ylenmez.
+    - D-) K&uuml;&ccedil;&uuml;klerin g&ouml;zlerinden b&uuml;y&uuml;klerin ellerinden &ouml;perim.
+    - E-) Ayıptır s&ouml;ylemesi.
+    ***
+1. <strong>&nbsp;Aşağıdakilerden hangisi zıt anlamlı kelimelerden oluşan bir ikileme <u>değildir</u>?</strong>
+    - A-) İleri geri
+    - B-) Az &ccedil;ok
+    - **Cevap C-) &Ccedil;er &ccedil;&ouml;p**
+    - D-) Bata &ccedil;ıka
+    - E-) B&uuml;y&uuml;k k&uuml;&ccedil;&uuml;k
+    ***
+1. <strong>&ldquo;Dolu k&uuml;p&uuml;n sesi &ccedil;ıkmaz&rdquo; atas&ouml;z&uuml;nde anlatılmak istenen aşağıdakilerden hangisidir?</strong><br />
+<br />
+
+    - **Cevap A-) Bilen kişi her yerde konuşmaz.**
+    - B-) Karnı tok olan konuşmaz.
+    - C-) İ&ccedil;i doldurulan nesne &ccedil;ıkarmaz.
+    - D-) Cahil insan sessiz kalır.
+    - E-) Sıkıntılı insanlar her zaman sessizdir.
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde deyim, a&ccedil;ıklamasıyla birlikte <u>verilmemiştir</u>?</strong>
+    - **Cevap A-) Bu da benim kulağıma k&uuml;pe olsun, seninle t&uuml;m bağlarımı koparıyorum.**
+    - B-) Kuzenim aile şirketlerinin y&ouml;netimini &uuml;stlendi, dizginleri ele aldı artık.
+    - C-) Amcası, kasabada cimriliğiyle bilinir; eli sıkıdır.
+    - D-) Bu işi benden başka yapacak kimse olmadığı i&ccedil;in iş başa d&uuml;şt&uuml;.
+    - E-) K&uuml;&ccedil;&uuml;c&uuml;k elleriyle yaptığı &ccedil;izimler herkeste şaşkınlık ve hayranlık uyandırdı, &ccedil;ocuk herkese parmak ısırttı.
+    ***
+1. <strong>Aşağıdaki ikilemelerden hangisi oluşum y&ouml;n&uuml;yle diğerlerinden farklıdır?</strong>
+    - A-) İşlerini yarım yamalak yaptığı i&ccedil;in, patronu onu herkesin i&ccedil;inde azarladı.
+    - B-) Akrabalar bayramda c&uuml;mb&uuml;r cemaat bize gelince bu bayram evde oturmak zorunda kaldık.
+    - C-) Yırtık pırtık kıyafetlerine ve &ccedil;evresinin meraklı bakışlarına aldırmadan herkese g&uuml;zel bir ders verdi.
+    - D-) Atandığım k&ouml;ye giderken eğri b&uuml;ğr&uuml; yolların yanındaki cılız ağa&ccedil;lar karşıladı beni.
+    - **Cevap E-) Onun nasıl bir yalancı olduğunu d&uuml;nya &acirc;lem biliyordu.**
+    ***
+1. <strong>Aşağıdakilerden hangisi deyime &ouml;rnek <u>değildir</u>?</strong>
+    - A-) Kara g&uuml;n dostu
+    - B-) Korktuğum başıma geldi
+    - C-) Bir K&ouml;roğlu bir Ayvaz
+    - **Cevap D-) Bol bol yiyen, bel bel bakar**
+    - E-) Bi&ccedil;ilmiş kaftan
+    ***
+1. <strong>Aşağıdakilerden hangisi eksiz ikilemeye &ouml;rnek <u>değildir</u>?</strong>
+    - A-) Ses seda
+    - B-) Estek k&ouml;stek
+    - C-) Gele gide&nbsp;
+    - D-) Fıldır fıldır
+    - **Cevap E-) Ancak ve ancak**
+    ***
 ## Unite 10
+1. <strong>Aşağıdakilerden hangisi &quot;vurgu&quot; kavramı ile ilgili &ouml;zelliklerden biri <u>değildir</u>?</strong>
+    - A-) Vurgu, konuşurken bir hece &uuml;zerine d&uuml;şen hava şiddeti veya soluk baskısıdır.
+    - **Cevap B-) Vurgu, s&ouml;z i&ccedil;inde bir heceyi, bir kelimeyi diğerlerine g&ouml;re daha al&ccedil;ak ses tonuyla, s&ouml;yleyiş s&uuml;resini uzatarak &ouml;teki hece ya da kelimelerden daha az&nbsp; belirgin bir bi&ccedil;imde s&ouml;yleme işlemidir.**
+    - C-) Vurgu, konuşurken bir hece &uuml;zerine d&uuml;şen hava şiddeti veya soluk baskısı olarak da tanımlanır.
+    - D-) T&uuml;rkiye T&uuml;rk&ccedil;esinde vurgu, c&uuml;mlenin diziliş bi&ccedil;imiyle olduğu kadar konuşanın ruh h&acirc;li ile de yakından ilgilidir.
+    - E-) Vurgunun konuşmadaki en &ouml;nemli fonksiyonu konuşmayı tekd&uuml;zelikten kurtararak s&ouml;ze duygu ve ahenk katmasıdır.
+    ***
+1. <b>Aşağıdaki c&uuml;mlelerin hangisinde yer bildiren kelime vurgulu s&ouml;ylenmiştir?</b>
+    - **Cevap A-) Bug&uuml;n arkadaşımla k&uuml;t&uuml;phanede &ccedil;alıştım.**
+    - B-) Bug&uuml;n okula Ahmet gelmedi.
+    - C-) Nehir kenarında b&uuml;y&uuml;k bir ağa&ccedil; vardı.
+    - D-) Yarın Ankara&#39;ya u&ccedil;akla gideceğiz.
+    - E-) Erzurum T&uuml;rkiye&#39;nin en soğuk ilidir.
+    ***
+1. <strong>&quot;D&uuml;n akşam evin bah&ccedil;esinde kimi g&ouml;rd&uuml;n?&quot; c&uuml;mlesinde vurgu hangi kelime &uuml;zerindedir?</strong>
+    - A-) D&uuml;n
+    - B-) Akşam
+    - C-) Bah&ccedil;esinde
+    - **Cevap D-) Kimi**
+    - E-) Evin
+    ***
+1. Dilimizde bulunan Arap&ccedil;a- Fars&ccedil;a k&ouml;kenli bazı kelimelerde uzun heceler vardır. Uzun seslerde istisnai bir durum olarak vurgu, uzatılan hece &uuml;zerinde g&ouml;r&uuml;n&uuml;r.<br />
+<strong>Aşağıdaki kelimelerden hangisi buna bir &ouml;rnek <u>olamaz</u>?</strong>
+    - A-) M&uuml;cadele
+    - B-) K&acirc;tip
+    - C-) Şair
+    - D-) Zeki
+    - **Cevap E-) Kaya**
+    ***
+1. <strong>Aşağıdaki dizelerin hangisinde şiddet vurgusu vardır?</strong>
+    - A-) Fersiz g&ouml;zlerimi dağlama gurbet
+    - B-) Sessizlik i&ccedil;inde &ccedil;ağlama gurbet
+    - C-) Ne s&ouml;ylemez akan suların dili
+    - D-) Bir &ouml;ğretmen g&ouml;rd&uuml;m &ccedil;ocukların başında
+    - **Cevap E-) Zafer ırak mı? dedim; Aha diyordu**
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde &rdquo;yer&rdquo; kavramı daha &ccedil;ok vurgulanmıştır?</strong>
+    - A-) İş&ccedil;iler, sabahtan beri &ccedil;alışıyorlardı.
+    - **Cevap B-) Her hafta sonu k&ouml;y&uuml;m&uuml;ze giderdik.**
+    - C-) Kaybolan ehliyetimi arkadaşım bulmuş.
+    - D-) Bir saattir &ccedil;alışma masasını d&uuml;zenliyor.
+    - E-) Akşamki ma&ccedil;a Ali de katılacak.
+    ***
+1. Konuşma esnasında s&ouml;zc&uuml;kler ve s&ouml;zc&uuml;kleri oluşturan seslerin ifadesi hep aynı d&uuml;zeyde olmaktan ziyade duruma, ifadeye duyguya g&ouml;re al&ccedil;alıp y&uuml;kselir. Buna &hellip;&hellip;&hellip;... denir.<br />
+<strong>Bu par&ccedil;ada boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
+<br />
+
+    - A-) vurgu
+    - B-) &uuml;ns&uuml;z benzeşmesi
+    - C-) ulama
+    - D-) &uuml;nl&uuml; daralması
+    - **Cevap E-) tonlama**
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde altı &ccedil;izili s&ouml;zc&uuml;k vurguludur?</strong>
+    - A-) <u>Sana</u> yapılanları hatırla.
+    - **Cevap B-) <u>Bekleme</u> arkasına bakmadan gidenleri.**
+    - C-) <u>Karanlıkta</u> uyumayı &ccedil;ok severim.
+    - D-) <u>Azar azar</u> &ccedil;ayını yudumladı.
+    - E-) <u>Evin kapısını</u> a&ccedil;ık unutmuştu.
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde vurgu y&uuml;klem &uuml;zerindedir?</strong><br />
+<br />
+
+    - A-) Evler bir s&uuml;re sonra eskimeye başladı.
+    - B-) Okuldan &ccedil;ıkınca apar topar eve vardı.
+    - **Cevap C-) G&ouml;rmektir insana verilen en &ouml;nemli organ.**
+    - D-) Hocamızın şiir okuyuşu hepimizi b&uuml;y&uuml;ler.
+    - E-) Adam ekmekleri hep b&uuml;feden alıyordu.
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde vurgu altı &ccedil;izili s&ouml;zc&uuml;ğ&uuml;n &uuml;zerindedir?</strong>
+    - A-) <u>Sıkıntılı g&uuml;nler</u>&nbsp;&ccedil;ok uzaklarda kaldı.
+    - B-) Evin kapısını <u>s&uuml;rekli </u>hızlı kapatıyordu.
+    - C-) <u>Anlayıp dinlemeden</u> her şeye karışma.
+    - D-) Babam <u>evimizin </u>direğidir.
+    - **Cevap E-) <u>Beklemek</u>, beklenen kadar değerleniyor bazen.**
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde vurgu, zaman kavramı &uuml;zerindedir?</strong>
+    - A-) D&uuml;n beni Melis okulda beklemiş.
+    - B-) Melis, d&uuml;n okulda seni beklemiş.
+    - C-) D&uuml;n okulda seni Melis beklemiş.
+    - **Cevap D-) Okulda Melis, seni d&uuml;n beklemiş.**
+    - E-) Okulda seni Melis beklemiş.
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde bir eylemin nasıl yapıldığı vurgulanmıştır?</strong>
+    - **Cevap A-) Okuldan &ccedil;ıkınca eve hızlıca giderim.**
+    - B-) Arkadaşına kalem hediye etti.
+    - C-) D&uuml;n beni &Ouml;zge aramış.
+    - D-) Pazar g&uuml;n&uuml; sinemaya gideceğiz.
+    - E-) Annem yarın akşam gelecekmiş.
+    ***
+1. T&uuml;rk&ccedil;e kelimelerde vurgu genellikle son hecede bulunur.<br />
+<strong>Aşağıdakilerin hangisinde buna aykırı bir durum vardır?</strong>
+    - A-) Getirdim
+    - **Cevap B-) Benimle**
+    - C-) Sizlerden
+    - D-) Kurtuluş
+    - E-) Heyecanlı
+    ***
+1. <strong>Aşağıdaki kelimelerden hangisi vurgu y&ouml;n&uuml;nden diğerlerinden farklıdır?</strong><br />
+<br />
+
+    - **Cevap A-) Fransızca**
+    - B-) Teyze
+    - C-) Erzurum
+    - D-) H&acirc;ri&ccedil;
+    - E-) Masalar
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde &ouml;znenin yaptığı işten etkilenen bir &ouml;ge vurgulanmıştır?</strong> 
+    - A-) Annemin hastalığında kardeşimi okula babam g&ouml;t&uuml;rd&uuml;.
+    - **Cevap B-) Pervasız hareketleri ve tavırları hepimizi &uuml;z&uuml;yordu.**
+    - C-) Yaptığının sonu&ccedil;larını sana sabah anlatacağım.
+    - D-) İkramiye kazandığını radyodan &ouml;ğrenmiş.
+    - E-) Yatağını sobalı odaya taşımış.
+    ***
+1. <strong>&nbsp;Aşağıdaki c&uuml;mlelerin hangisinde vurgu, zaman &uuml;zerindedir?</strong><br />
+<br />
+
+    - A-) Ahmet, yarın akşam u&ccedil;akla Ankara&rsquo;ya gidecek.
+    - B-) Yarın akşam u&ccedil;akla Ankara&rsquo;ya Ahmet gidecek.
+    - **Cevap C-) Ahmet, Ankara&rsquo;ya u&ccedil;akla yarın akşam gidecek.**
+    - D-) Ahmet, yarın Ankara&rsquo;ya akşam u&ccedil;akla gidecek.
+    - E-) U&ccedil;akla Ankara&rsquo;ya yarın akşam Ahmet gidecek.
+    ***
+1. <strong>&quot;Ovada sıralanan arsaların i&ccedil;inde koca koca binalar hızla y&uuml;kseliyordu.&quot; c&uuml;mlesinde hangi s&ouml;zc&uuml;kte c&uuml;mle vurgusu vardır?</strong><br />
+<br />
+<br />
+
+    - **Cevap A-) Hızla**
+    - B-) Koca koca
+    - C-) Binalar
+    - D-) Arsaların i&ccedil;inde
+    - E-) Arsaların
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde &ldquo;zaman&rdquo; vurgulanmaktadır?</strong>
+    - **Cevap A-) İki aydır beklediğim diplomam yarın gelecek.**
+    - B-) Tatilde teyzemler bize geleceği i&ccedil;in hazırlık yapıyoruz.
+    - C-) O yıllarda birilerinin bana destek olmasını ne &ccedil;ok isterdim.
+    - D-) Yurt dışından gelecek olan misafirlerimiz, &ouml;ğleye burada olur.
+    - E-) Dedesi, elindeki saati torununun eline tutuşturdu.
+    ***
+1. <strong>S&ouml;z i&ccedil;inde bir heceyi, bir kelimeyi diğerlerine g&ouml;re daha y&uuml;ksek ses tonuyla, s&ouml;yleyiş s&uuml;resini uzatarak &ouml;teki hece ya da kelimelerden daha baskılı ve belirgin bir bi&ccedil;imde s&ouml;ylemeye ne ad verilir?</strong>
+    - A-) Tonlama
+    - B-) Boğumlama
+    - C-) Sesletim
+    - **Cevap D-) Vurgu**
+    - E-) Heceleme
+    ***
+1. <strong>Aşağıdakilerden hangisi vurgu t&uuml;rlerinden biri <u>değildir</u>?</strong>
+    - A-) C&uuml;mle vurgusu
+    - B-) Mısra vurgusu
+    - C-) Şiddet vurgusu
+    - D-) Kelime vurgusu
+    - **Cevap E-) &Uuml;ns&uuml;z vurgusu**
+    ***
 ## Unite 11
+1. <strong>Aşağıdakilerden hangisinde &quot;T&uuml;rk&ccedil;ede&nbsp;c&uuml;mle i&ccedil;erisinde anlam y&uuml;k&uuml;n&uuml; temel olarak taşıyan &ouml;geler&quot; bir arada verilmiştir?</strong>
+    - **Cevap A-) Y&uuml;klem ve &ouml;zne**
+    - B-) Y&uuml;klem ve nesne
+    - C-) Y&uuml;klem ve dolaylı t&uuml;mle&ccedil;
+    - D-) &Ouml;zne ve nesne
+    - E-) &Ouml;zne ve zarf t&uuml;mleci
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde dolaylı t&uuml;mle&ccedil; <u>yoktur</u>?</strong>
+    - A-) Tolga sinemaya gidiyordu.
+    - **Cevap B-) Ali evi &ccedil;ok dağıtmıştı.**
+    - C-) Ahmet&#39;ten zarar gelmez.
+    - D-) Babamla evde oturduk.
+    - E-) Akşam vakti nehirden ge&ccedil;tik.
+    ***
+1. <strong>Aşağıdakilerden hangisi c&uuml;mle <u>değildir</u>?</strong>
+    - A-) Okuyordum.
+    - B-) Sınıfta okuyordum.
+    - C-) Sınıfta arkadaşımla okuyordum.
+    - D-) Okumuyordum k&uuml;t&uuml;phanede.
+    - **Cevap E-) Arkadaşımla gezerken.**
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde belirtisiz nesne vardır?</strong>
+    - A-) Babam balıkları akvaryumdan &ccedil;ıkardı.
+    - **Cevap B-) Ayşe ekmek almıştı.**
+    - C-) Bana dargın gibi bakıyor.
+    - D-) Okulun bah&ccedil;esini ağa&ccedil;landırdık.
+    - E-) D&uuml;nyanın nasıl d&ouml;nd&uuml;ğ&uuml;n&uuml; kavrayamamıştı.
+    ***
+1. Yakıcı g&uuml;neşin altında tarlada &ccedil;alışan iş&ccedil;ilerin umutları da onlar gibi&nbsp; yanıyordu.<br />
+<strong>Yukarıdaki c&uuml;mlenin &ouml;gelerinin sıralanışı hangisinde doğru verilmiştir?</strong>
+    - A-) Dolaylı T&uuml;mle&ccedil; &ndash; Nesne &ndash; Y&uuml;klem &ndash; &Ouml;zne
+    - B-) Dolaylı T&uuml;mle&ccedil; &ndash; &Ouml;zne &ndash; Y&uuml;klem &ndash; Nesne
+    - **Cevap C-) &Ouml;zne &ndash; Zarf T&uuml;mleci &ndash; Y&uuml;klem**
+    - D-) Dolaylı T&uuml;mle&ccedil; &ndash; Y&uuml;klem &ndash; &Ouml;zne
+    - E-) Nesne &ndash; Y&uuml;klem &ndash; &Ouml;zne
+    ***
+1. Ufak bir tepeyi aşan izciler ağa&ccedil;lıklar arasından ge&ccedil;erek kamp yerine ulaştılar.<br />
+<strong>C&uuml;mlenin &ouml;gelerinin sıralanışı aşağıdakilerden hangisinde doğru verilmiştir?</strong>
+    - A-) Nesne &ndash; &Ouml;zne &ndash; Zarf T&uuml;mleci &ndash; Y&uuml;klem
+    - B-) Nesne &ndash; &Ouml;zne &ndash; Dolaylı T&uuml;mle&ccedil; &ndash; Y&uuml;klem
+    - C-) &Ouml;zne &ndash; Dolaylı T&uuml;mle&ccedil; &ndash; Zarf T&uuml;mleci &ndash; Y&uuml;klem
+    - **Cevap D-) &Ouml;zne &ndash; Zarf T&uuml;mleci &ndash; Dolaylı T&uuml;mle&ccedil; &ndash; Y&uuml;klem**
+    - E-) Nesne &ndash; Zarf T&uuml;mleci &ndash; Dolaylı T&uuml;mle&ccedil; &ndash; Y&uuml;klem
+    ***
+1. Dostları onu k&ouml;t&uuml; g&uuml;n&uuml;nde yalnız bırakmadılar.<br />
+<strong>Yukarıdaki c&uuml;mlenin &ouml;gelerinin sıralanışı hangisinde doğru verilmiştir?</strong><br />
+<br />
+
+    - A-) &Ouml;zne - Dolaylı T&uuml;mle&ccedil; - Y&uuml;klem
+    - B-) &Ouml;zne - Nesne - Zarf T&uuml;mleci - Zarf T&uuml;mleci - Y&uuml;klem
+    - **Cevap C-) &Ouml;zne - Nesne - Zarf T&uuml;mleci - Y&uuml;klem**
+    - D-) &Ouml;zne - Nesne - Dolaylı T&uuml;mle&ccedil; - Zarf T&uuml;mleci - Y&uuml;klem
+    - E-) &Ouml;zne - Dolaylı T&uuml;mle&ccedil; - Zarf T&uuml;mleci - Y&uuml;klem
+    ***
+1. En zor anlarımda bile yanımda olan dostlarımın beni bug&uuml;n&uuml;mde yalnız&nbsp; bırakmayacaklarını sanmıştım.<br />
+<strong>Yukarıdaki c&uuml;mlenin &ouml;gelerinin sıralanışı hangisinde doğru verilmiştir?</strong><br />
+<br />
+
+    - A-) Zarf T&uuml;mleci &ndash; Dolaylı T&uuml;mle&ccedil; &ndash; Nesne &ndash; Y&uuml;klem
+    - B-) &Ouml;zne &ndash; Nesne &ndash; Y&uuml;klem
+    - C-) &Ouml;zne &ndash; Nesne &ndash; Zarf T&uuml;mleci &ndash; Y&uuml;klem
+    - D-) &Ouml;zne &ndash; Y&uuml;klem
+    - **Cevap E-) Nesne &ndash; Y&uuml;klem**
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerde kullanılan ara s&ouml;zlerden hangisi farklı bir &ouml;genin&nbsp; a&ccedil;ıklayıcısıdır?</strong><br />
+<br />
+
+    - A-) Melis, canımın i&ccedil;i, bug&uuml;n doğmuştu.
+    - B-) Oğlum, minik yaramaz, konuşmaya başladı.
+    - **Cevap C-) Okulumda, ikinci evimde, &ccedil;ok mutluyum.**
+    - D-) Kardeşim, akıllı bıdığım, birinci oldu.
+    - E-) Evime, yuvama, kavuşmama &ccedil;ok az kaldı.
+    ***
+1. Sınıftaki sessizliğin devamı d&uuml;n akşam evde de devam etti.<br />
+<strong>Bu c&uuml;mlede aşağıdaki &ouml;gelerden hangisi <u>kullanılmamıştır</u>?</strong><br />
+
+    - A-) &Ouml;zne
+    - B-) Y&uuml;klem
+    - C-) Yer tamlayıcısı
+    - D-) Zarf t&uuml;mleci
+    - **Cevap E-) Nesne**
+    ***
+1. Karışıklığa karşı m&uuml;cadele vermek yabani otlara karşı m&uuml;cadele vermeye benzer.<br />
+<strong>Yukarıdaki c&uuml;mlenin &ouml;gelerinin sıralanışı hangisinde doğru verilmiştir?</strong>
+    - A-) &Ouml;zne &ndash; Nesne &ndash; Yer tamlayıcısı &ndash; Y&uuml;klem
+    - B-) &Ouml;zne &ndash; Yer tamlayıcısı &ndash; Nesne &ndash; Y&uuml;klem
+    - **Cevap C-) &Ouml;zne &ndash; Yer tamlayıcısı &ndash; Y&uuml;klem**
+    - D-) &Ouml;zne &ndash; Nesne &ndash; Y&uuml;klem
+    - E-) Nesne- Zarf t&uuml;mleci- Y&uuml;klem
+    ***
+1. Korkma, s&ouml;nmez <u>bu şafaklarda y&uuml;zen al sancak</u>;<br />
+S&ouml;nmeden yurdumun &uuml;st&uuml;nde t&uuml;ten, en son ocak.<br />
+<strong>Altı &ccedil;izili &ouml;ge aşağıdakilerden hangisidir?</strong><br />
+<br />
+
+    - A-) Y&uuml;klem
+    - **Cevap B-) &Ouml;zne**
+    - C-) Nesne
+    - D-) Yer tamlayıcısı
+    - E-) Zarf t&uuml;mleci
+    ***
+1. <strong>&ldquo;T&uuml;rk&uuml; s&ouml;yleyen kimdi?&rdquo; sorusunun cevabı hangi &ouml;geyi bulmaya y&ouml;neliktir?</strong>
+    - A-) Y&uuml;klem
+    - B-) Nesne
+    - **Cevap C-) &Ouml;zne**
+    - D-) Yer tamlayıcısı
+    - E-) Zarf t&uuml;mleci
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde &ouml;geleri ayırmada yanlışlık yapılmıştır?</strong><br />
+<br />
+
+    - A-) Buraya kadar geldiğiniz i&ccedil;in / teşekk&uuml;r ederim.
+    - B-) Sorulara ş&ouml;yle bir g&ouml;z atıp / kitabı / kapattı.
+    - C-) Biraz daha rahat yaşamak i&ccedil;in / &ccedil;abalıyordu
+    - **Cevap D-) Vapurdan / &ccedil;ıkarken / onu / fark etmiştim.**
+    - E-) Okuldan &ccedil;ıkarken/ kitabımı unuttuğumu/bana/Ahmet/ s&ouml;yledi.
+    ***
+1. <strong>Aşağıdakilerden hangisinde s&ouml;zde &ouml;zne vardır?</strong><br />
+
+    - **Cevap A-) Konular bug&uuml;n &ouml;zetlendi.**
+    - B-) Soruyu doğru cevapladı.
+    - C-) Konuyu yavaş&ccedil;a bize anlattı.
+    - D-) Kardeşini bizimle tanıştırdı.
+    - E-) Okula yeni başlayan &ouml;ğrenciler andımızı ezberledi.
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde y&uuml;klem isim tamlamasından oluşmuştur?</strong>
+    - A-) &Ccedil;ocuklarla iletişim kurmak zor bir iştir.
+    - **Cevap B-) G&uuml;n&uuml;m&uuml;zde teknoloji ve bilim, uygarlığın g&ouml;stergesidir.**
+    - C-) Matematik &ouml;ğretmenimiz sinirli bir adamdı.
+    - D-) H&uuml;lya&rsquo;nın uğurlu g&uuml;n&uuml; salıymış.
+    - E-) G&ouml;mleğinin rengi ceketine hi&ccedil; uymamış.
+    ***
+1. Savuruyordu d&ouml;rt yana umutlarımızı bir &ouml;m&uuml;rden arta kalmanın h&uuml;zn&uuml;.<br />
+<strong>Yukarıdaki c&uuml;mlenin &ouml;gelerinin sıralanışı hangisinde doğru sırayla verilmiştir?</strong><br />
+<br />
+
+    - A-) Y&uuml;klem &ndash; zarf t&uuml;mleci &ndash; nesne &ndash; &ouml;zne
+    - B-) Y&uuml;klem &ndash; dolaylı t&uuml;mle&ccedil; &ndash; zarf t&uuml;mleci &ndash; &ouml;zne
+    - **Cevap C-) Y&uuml;klem &ndash; dolaylı t&uuml;mle&ccedil; &ndash; nesne &ndash; &ouml;zne**
+    - D-) Y&uuml;klem &ndash; nesne &ndash; dolaylı t&uuml;mle&ccedil; &ndash; &ouml;zne
+    - E-) Y&uuml;klem &ndash; nesne &ndash; zarf t&uuml;mleci &ndash; &ouml;zne
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde zarf t&uuml;mleci vurgulanmıştır?</strong><br />
+<br />
+<br />
+
+    - **Cevap A-) Annemi okuldan &ccedil;ıkınca ararım.**
+    - B-) Arkadaşına kalem hediye etti.
+    - C-) D&uuml;n beni &Ouml;zge aramış.
+    - D-) Pazar g&uuml;n&uuml; sinemaya gideceğiz.
+    - E-) Babamla d&uuml;n akşam ma&ccedil;a gittik.
+    ***
+1. <strong>Aşağıdakilerden hangisi iki &ouml;geli bir c&uuml;mledir?</strong>
+    - A-) Hayatındaki problemleri &ccedil;&ouml;zmeden &ouml;nce onları anlaman gerekir.
+    - B-) Onun aniden gidişi bu saf, temiz ailede b&uuml;y&uuml;k bir etki bıraktı.
+    - C-) Vatan toprağının her k&ouml;şesinde toplum ruhunun yansımaları vardır.
+    - D-) T&uuml;rk milleti, ge&ccedil;mişten bug&uuml;ne sahip olduğu her kutsala sadık kalmıştır.
+    - **Cevap E-) Gurbet mektupları, en saf duyguların, sevgilerin hazinesidir.**
+    ***
+1. D&uuml;nyada yer alan olaylar ve olgular &uuml;zerine derinlikli d&uuml;ş&uuml;nceler, varoluşun felaketimsi &ccedil;ekilmezliğini ve dayanılmazlığını ifşa eder.<br />
+<strong>C&uuml;mlenin &ouml;gelerinin doğru sıralanışı aşağıdakilerden hangisidir?</strong>
+    - A-) Nesne / &Ouml;zne / Zarf T&uuml;mleci / Y&uuml;klem
+    - B-) &Ouml;zne / Dolaylı T&uuml;mle&ccedil; / Zarf T&uuml;mleci / Nesne Y&uuml;klem
+    - **Cevap C-) &Ouml;zne / Nesne / Y&uuml;klem**
+    - D-) Dolaylı T&uuml;mle&ccedil; / Nesne / Y&uuml;klem
+    - E-) Nesne / &Ouml;zne / Y&uuml;klem
+    ***
 ## Unite 12
+1. <strong>Aşağıdakilerden hangisi kurallı bir isim c&uuml;mlesidir?</strong>
+    - **Cevap A-) Okulumuz, eve birka&ccedil; y&uuml;z metre uzaklıktaydı.**
+    - B-) Oyundan, sahneye aktarılamayacak b&ouml;l&uuml;mleri &ccedil;ıkardık.
+    - C-) Sanma gidersen gelirim arkandan.
+    - D-) İncecikten bir yağmur yağıyordu yollara.
+    - E-) Kitaplarımı g&uuml;zelce ciltledim.
+    ***
+1. <strong>Aşağıdakilerden hangisi bir isim c&uuml;mlesidir?</strong>
+    - A-) B&uuml;t&uuml;n gece yağmurda dolaştım.
+    - B-) Seni g&ouml;rd&uuml;m sokakta koşarken.
+    - C-) Okuyordu g&uuml;zel sesiyle şiiri.
+    - **Cevap D-) Seninle ge&ccedil;irdiğimiz g&uuml;nler ne kadar g&uuml;zeldi.**
+    - E-) Her g&uuml;n yeni bir işe koyulurdu.
+    ***
+1. <strong>Aşağıdakilerden hangisi kurallı bir c&uuml;mledir?</strong>
+    - A-) B&uuml;t&uuml;n g&uuml;n d&uuml;ş&uuml;nd&uuml;m yalnızlığımı ve &ccedil;aresizliğimi.
+    - **Cevap B-) Komiser, elli yaşlarında, babacan, g&uuml;ler y&uuml;zl&uuml; bir adamdı.**
+    - C-) Karda gezip izini belli etmeyen bir tilkidir o.
+    - D-) Muhabbet bir K&ouml;roğlu&rsquo;dur artık.
+    - E-) Boş değil ettiğin niyaz.
+    ***
+1. <strong>Aşağıdakilerden hangisi eksiltili bir c&uuml;mledir?</strong>
+    - **Cevap A-) Dar g&uuml;n&uuml;mde el uzattığınız i&ccedil;in teşekk&uuml;rler.**
+    - B-) İlacını geciktirirsek babaannem keser iflahımızı.
+    - C-) Kim bu cennet vatanın uğruna olmaz ki feda!
+    - D-) Kuş kanadıyla selam g&ouml;nderilir.
+    - E-) H&acirc;lden bilmiyor kimseler.
+    ***
+1. <strong>&quot;Arkadaşımın evinde g&ouml;rd&uuml;ğ&uuml;m tablolar bana &ccedil;ocukluğumda yaşadığım yerleri b&uuml;t&uuml;n ayrıntılarıyla anımsattı.&quot; ifadesi y&uuml;klemin c&uuml;mledeki yerine g&ouml;re nasıl bir c&uuml;mledir?</strong>
+    - A-) Devrik c&uuml;mle
+    - B-) Eksiltili c&uuml;mle
+    - **Cevap C-) Kurallı c&uuml;mle**
+    - D-) Fiil c&uuml;mlesi
+    - E-) İsim c&uuml;mlesi
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerden hangisi y&uuml;kleminin yerine g&ouml;re diğerlerinden farklıdır?</strong>
+    - A-) Soldum g&uuml;n y&uuml;z&uuml; g&ouml;rmemiş bir &ccedil;i&ccedil;ek gibi.
+    - B-) Ellerimi arkadan bağladım kimse g&ouml;rmeden.
+    - **Cevap C-) İnsan yery&uuml;z&uuml;n&uuml;n hastalığıdır.**
+    - D-) Kol kanat gerdim ben sana her d&uuml;şt&uuml;ğ&uuml;nde.
+    - E-) Dildir insanın başına bela olan.
+    ***
+1. I. Eylem<br />
+II. İsim<br />
+III. Zarf<br />
+IV. Zamir<br />
+<strong>&ldquo;Kalpler kırılınca eller bir mana ifade etmez.&rdquo; c&uuml;mlesi yukarıdaki c&uuml;mle &ccedil;eşitlerinden hangisi ya da hangilerinin kapsamına girer?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - **Cevap D-) I ve IV**
+    - E-) I, II ve III
+    ***
+1. <strong>&ldquo;Uzanıp sıcacık kuma saatlerce hayal kurmak isterdi&rdquo; c&uuml;mlesi y&uuml;kleminin yerine g&ouml;re nasıl bir c&uuml;mledir?</strong><br />
+<br />
+
+    - A-) Devrik
+    - B-) Birleşik
+    - C-) Basit
+    - **Cevap D-) Kurallı**
+    - E-) Bağlı
+    ***
+1. <strong>Eksiltili (Kesik) c&uuml;mle ile ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong><br />
+<br />
+
+    - A-) Y&uuml;klemi kullanılmadığı h&acirc;lde yargı bildiren c&uuml;mlelerdir.
+    - B-) Eksiltili c&uuml;mleler iyi kurulmak ve yerinde kullanılmak şartıyla anlatıma g&uuml;&ccedil; kazandırır, &ouml;zl&uuml;l&uuml;k sağlar.
+    - C-) Karşılıklı konuşmalarda da eksiltili yapılar sıklıkla kullanılır.
+    - D-) Olasılık, kesinlik gibi &ouml;zel anlamlar katmak ama&ccedil;lanmadığında ek eylem kullanılmaz; c&uuml;mle eksiltili &ouml;zellik kazanır.
+    - **Cevap E-) Eksiltili c&uuml;mlede her zaman bir gizli &ouml;zne bulunur.**
+    ***
+1. T&uuml;rk&ccedil;ede c&uuml;mleler y&uuml;klemin t&uuml;r&uuml;ne g&ouml;re isim ve fiil c&uuml;mlesi olarak iki gruba ayrılmaktadır. Fiil c&uuml;mleleri olumsuzluk ekleri (-ma, -me) ile olumsuz şekle d&ouml;n&uuml;şt&uuml;r&uuml;l&uuml;rken; isim c&uuml;mleleri &ldquo;değil&rdquo; kelimesi ile olumsuz h&acirc;le getirilmektedir.<br />
+<strong>Aşağıdaki c&uuml;mlelerden hangisi bu kurala &ouml;rnek teşkil <u>etmez</u>?</strong><br />
+<br />
+
+    - A-) D&uuml;n akşam da ge&ccedil; saate kadar gelmedi.
+    - B-) Senin adın Mahmut değil.
+    - C-) İstemem eksik olsun.
+    - **Cevap D-) Kolları bileklerine kadar &ccedil;amura saplanmıştı.**
+    - E-) Sana tavsiyem gece ge&ccedil; saatte yemek yeme.
+    ***
+1. <strong>Aşağıdakilerden hangisi y&uuml;klemine g&ouml;re c&uuml;mle &ccedil;eşitlerinden biri <u>değildir</u>?</strong><br />
+<br />
+
+    - **Cevap A-) Zarf**
+    - B-) Kurallı
+    - C-) Devrik
+    - D-) Kesik
+    - E-) İsim
+    ***
+1. <strong>&ldquo;G&ouml;zleri aşka g&uuml;len taze s&ouml;ğ&uuml;t dalısın.&rdquo; c&uuml;mlesinin y&uuml;klemi, &ccedil;eşidine g&ouml;re aşağıdakilerden hangisidir?</strong><br />
+<br />
+
+    - **Cevap A-) Ad**
+    - B-) Eylem
+    - C-) Zarf
+    - D-) Zamir
+    - E-) Sıfat
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisi devrik isim c&uuml;mlesidir?</strong><br />
+<br />
+<br />
+
+    - A-) Kardeşi &ccedil;ok tatlı bir &ccedil;ocuktu.
+    - B-) Herkesi yemeğe davet etmişti.
+    - **Cevap C-) Her şeyiyle bir mucizeydi hayat.**
+    - D-) Bizi tanımayanlar uzaktan gelenlerdi.
+    - E-) Seni bilmeyenler belki inanır.
+    ***
+1. <strong>Aşağıdakilerden hangisi bir isim c&uuml;mlesi <u>değildir</u>?</strong><br />
+
+    - A-) Aldığımız biberlerin hepsi acı.
+    - B-) Bu, yıkanınca dağılan bir boya.
+    - C-) Ne heyecanlı bir g&uuml;reş!
+    - **Cevap D-) Sen de tat bu g&uuml;zel tatlıdan.**
+    - E-) Sonucu k&ouml;t&uuml; bir savaş bu.
+    ***
+1. <strong>Aşağıdakilerden hangisi eylem c&uuml;mlesidir?</strong><br />
+
+    - A-) Bu onun son konuşmasıydı.
+    - **Cevap B-) Bu konuda hi&ccedil; laf etmezdi.**
+    - C-) Nelerdir o inanacağımız, bağlanacağımız doğrular?
+    - D-) G&ouml;zleri ışıl ışıldı.
+    - E-) Sanatsal eylemin ilk koşulu algılamaktır.
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde y&uuml;klem, ek eylem <u>almamıştır</u>?</strong> 
+    - **Cevap A-) Şiir bizi bir iklimden diğerine g&ouml;t&uuml;r&uuml;r.**
+    - B-) Ozan, rapor yazan kimse değildir.
+    - C-) El ne kadar h&uuml;nerli olursa olsun, ona h&uuml;kmeden kafadır.
+    - D-) İnsanı ayakta tutan tek şey mutluluktur.
+    - E-) Şiir d&uuml;ş&uuml;ncenin duyguya d&ouml;n&uuml;şm&uuml;ş şeklidir.
+    ***
+1. <strong>&lsquo;&rsquo;Su &ouml;ylesine neşeli akıyordu ki insanın ruhu &acirc;deta su y&uuml;zeyindeki k&ouml;p&uuml;kle dans ediyordu.&rsquo;&rsquo; c&uuml;mlesi y&uuml;kleminin yerine g&ouml;re nasıl bir c&uuml;mledir?</strong><br />
+<br />
+
+    - A-) Birleşik
+    - B-) Basit
+    - **Cevap C-) Kurallı**
+    - D-) İsim
+    - E-) Devrik
+    ***
+1. &hellip;&hellip;&hellip;&hellip; c&uuml;mle, y&uuml;klemi kullanılmadığı h&acirc;lde yargı bildiren c&uuml;mlelerdir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Devrik
+    - **Cevap B-) Eksiltili**
+    - C-) Kurallı
+    - D-) Basit
+    - E-) Sıralı
+    ***
+1. Kurallı c&uuml;mle &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. c&uuml;mle olarak da adlandırılmaktadır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Sıradan
+    - B-) Uygun
+    - **Cevap C-) D&uuml;z**
+    - D-) Alışkın
+    - E-) Kapalı
+    ***
+1. <strong>&ldquo;Sudan sebeplerle beni terk edemezsin.&rdquo; c&uuml;mlesi y&uuml;klemin t&uuml;r&uuml;ne g&ouml;re aşağıdakilerden hangisidir?</strong> 
+    - A-) İsim
+    - B-) Sıfat
+    - **Cevap C-) Eylem**
+    - D-) Zarf
+    - E-) Zamir
+    ***
+1. <strong>Aşağıdakilerden hangisi &ldquo;eylem (fiil) c&uuml;mlesi&rdquo; <u>değildir</u>?</strong>
+    - A-) Şampiyon sporcu, bayrağımızı farklı &uuml;lkelerde dalgalandırmayı başardı.
+    - **Cevap B-) O gece k&acirc;bustan uyandığından beri benzi soluktu.**
+    - C-) Hediye g&ouml;t&uuml;rd&uuml;ğ&uuml;m&uuml;z &ouml;ğrenciler, kendilerine &ouml;zel paketleri a&ccedil;ınca &ccedil;ok neşelendiler.
+    - D-) Beni hi&ccedil; beklemediği bir anda karşısında g&ouml;r&uuml;nce şaşırdı.
+    - E-) O g&uuml;n kasabadan evimize &ccedil;ok ge&ccedil; saatlerde vardık.
+    ***
+1. <strong>T&uuml;rk&ccedil;enin Grameri isimli eser aşağıdakilerden hangisine aittir?</strong>
+    - A-) Zeynep Korkmaz
+    - B-) G&uuml;nay Karaağa&ccedil;
+    - **Cevap C-) Tahsin Banguoğlu**
+    - D-) Leyla Karahan
+    - E-) Efrasiyap Gemalmaz
+    ***
+1. <strong>Aşağıdakilerden hangisi kurallı bir c&uuml;mledir?</strong>
+    - A-) B&uuml;t&uuml;n g&uuml;n d&uuml;ş&uuml;nd&uuml;m yalnızlığımı ve &ccedil;aresizliğimi.
+    - B-) Karda gezip izini belli etmeyen bir tilkidir o.
+    - C-) Boş değil ettiğin niyaz.
+    - **Cevap D-) Sabahları burası sessiz olur.**
+    - E-) H&acirc;lden bilmiyor kimseler.
+    ***
 ## Unite 13
+1. <strong>Aşağıdaki c&uuml;mlelerden</strong><strong>&nbsp;hangisi</strong><strong>&nbsp;yapı bakımından olumsuz olduğu h&acirc;lde soru yolu ile olumlu anlam kazanmıştır?</strong>
+    - A-) Bug&uuml;n derse neden gelmedin?
+    - B-) Kapıyı &ccedil;alanı ni&ccedil;in bana s&ouml;ylemedin?
+    - C-) Doktor i&ccedil;eride mi?
+    - **Cevap D-) Bana yalvaran sen değil miydin?**
+    - E-) Ni&ccedil;in bu kadar ge&ccedil; kaldınız?
+    ***
+1. <strong>Aşağıdakilerden hangisi bi&ccedil;imce olumsuz anlamca olumlu bir c&uuml;mledir?</strong>
+    - A-) Ger&ccedil;ek belirince yalan ortadan kalkar.
+    - B-) Dedesi iyi bir insan değildi.
+    - C-) Her g&uuml;zel g&ouml;r&uuml;nen iyi değildir.
+    - D-) Para ile satın alınan sadakat, daha fazla para ile de satılır.
+    - **Cevap E-) Nasıl cevap vereceğini bilmiyor değildi.**
+    ***
+1. <strong>Aşağıdakilerden hangisi sıralı birleşik c&uuml;mledir?</strong>
+    - **Cevap A-) Bana ulaşmak i&ccedil;in &ouml;nce telefon etmiş, sonra biriyle haber yollamış, olmayınca kendisi gelmek zorunda kalmıştı.**
+    - B-) Balığın yanına bir de salata yaptık mı ziyafet hazır.
+    - C-) Akıllı d&uuml;şman, akılsız dosttan yeğdir.
+    - D-) D&uuml;ş&uuml;ncelerini bana aktararak kendi yolunu belirlemeye &ccedil;alışıyordu.
+    - E-) Daha &ouml;nce bu soruyu sorsa idi şimdi bu tuzağa d&uuml;şmeyecekti.
+    ***
+1. <strong>Aşağıdakilerden hangisi birleşik c&uuml;mle &ccedil;eşitlerinden biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Şartlı birleşik c&uuml;mle
+    - B-) Ki&rsquo;li birleşik c&uuml;mle
+    - C-) İ&ccedil; i&ccedil;e birleşik c&uuml;mle
+    - D-) Girişik birleşik c&uuml;mle
+    - **Cevap E-) De&#39;li birleşik c&uuml;mle**
+    ***
+1. <strong>Aşağıdakilerden hangisi şartlı birleşik c&uuml;mledir?&nbsp;</strong>
+    - A-) Bu kadar işi tek başına yapmak zor olabilir.&nbsp;
+    - **Cevap B-) Beni ne kadar erken ararsan sana o kadar yardımcı olabilirim.**
+    - C-) Duydum ki unutmuşsun g&ouml;zlerimin rengini.
+    - D-) Dostu ağırlamak, d&uuml;şmanı ağırlamaktan &ccedil;ok zordur.
+    - E-) Konuşmayı erken &ouml;ğrendim ama susmayı &ouml;ğrenmem i&ccedil;in yaşlanmam gerekti.
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde &ldquo;bağımlı sıralı&rdquo; bir yapı s&ouml;z konusudur?</strong> 
+    - A-) Bize gelirsen beraber gideriz.
+    - **Cevap B-) Sen &ouml;devlerini yap, sonra dışarı &ccedil;ık.**
+    - C-) Ahmet sana bakıyordu, sen g&ouml;rm&uuml;yordun.
+    - D-) O kadar g&uuml;zeldi ki, size anlatamam.
+    - E-) Beni anlayan kimse yoktu.
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde soru sormak değil, bilinen bir şeyi vurgulamak s&ouml;z konusudur?</strong>
+    - A-) Nereye gideceğinize karar verebildiniz mi?
+    - B-) Bu yıl okulun başarısı nasıl?
+    - C-) Kiminle konuştuğumu biliyor musun?
+    - D-) Kimi aramayı d&uuml;ş&uuml;n&uuml;yorsunuz?
+    - **Cevap E-) Hangimiz sohbet etmeyi sevmeyiz?**
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde yan c&uuml;mlecik temel c&uuml;mlenin nesnesidir?</strong><br />
+<br />
+
+    - A-) Dizeler, ruhumuza seslenen notalar zinciridir.
+    - B-) Kanunun h&uuml;z&uuml;n veren sesi kulaklarımda &ccedil;ınladı.
+    - C-) Yurdundan uzaklara d&uuml;şm&uuml;ş minik kuş gibiydi.
+    - **Cevap D-) Duygularımı canlandıran bir ses duyuyorum.**
+    - E-) Bizi g&ouml;ren &ccedil;ocuklar, minik kollarıyla boynumuza atıldılar.
+    ***
+1. <strong>Aşağıdakilerden hangisi, &ouml;znesi ortak bir sıralı c&uuml;mledir?</strong><br />
+<br />
+
+    - A-) Radyo &ccedil;alışıyor; oturanlar onu ilgiyle dinliyorlardı.
+    - B-) Evden sessizce &ccedil;ıktık; sokakta lambalar yanmıyordu.
+    - **Cevap C-) Konuşa konuşa geldiler; evin &ouml;n&uuml;nde durdular.**
+    - D-) Kentin g&uuml;neyine bakıyorum; evler sisten g&ouml;z&uuml;km&uuml;yor.
+    - E-) G&uuml;r&uuml;lt&uuml;ler artıyor; kimse kimseyi duymuyordu.
+    ***
+1. <strong>Aşağıdakilerden hangisi bağlı c&uuml;mleye &ouml;rnek <u>oluşturmaz</u>?</strong>
+    - A-) Kuşlar u&ccedil;ardı ve doru atlar d&ouml;rt nala giderdi.
+    - **Cevap B-) Duman her tarafı sarmıştı.**
+    - C-) Omzuma başını koyup &uuml;z&uuml;ld&uuml; ama asla ağlamadı.
+    - D-) Uyurgezer bir &ccedil;ocuktu fakat &ccedil;ok da uyanıktı.
+    - E-) İnanılmaz bir acı duydu bileklerinde ancak bu ilk değildi.
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerden hangisi &quot;mi&quot;li soru c&uuml;mlesine &ouml;rnektir?</strong>
+    - A-) Koşabilir mi koşamaz mı bilemiyorum
+    - **Cevap B-) Doğum g&uuml;n&uuml;n 3 Nisan mıydı**
+    - C-) Şu ma&ccedil;ı da aldık mı şampiyonuz
+    - D-) Ellerimden tuttun muydu hi&ccedil;bir engel aşılmaz değil evladım
+    - E-) Şu sınav bitti miydi rahatız
+    ***
+1. <strong>&lsquo;&rsquo;Ellerini arkadan bağlamıştı ve beylik tabancası belindeydi.&rsquo;&rsquo; c&uuml;mlesinin &ouml;zellikleri aşağıdaki se&ccedil;eneklerden hangisinde doğru olarak verilmiştir?</strong>
+    - **Cevap A-) Olumlu/Bağlı/Kurallı/İsim**
+    - B-) Olumlu/Bağlı/kurallı/Eylem
+    - C-) Olumlu/Sıralı/Kurallı/İsim
+    - D-) Olumlu/Bağlı/Devrik/İsim
+    - E-) Olumsuz/Bağlı/Kurallı/Eylem
+    ***
+1. <strong>&lsquo;&rsquo;Doğmazsa g&uuml;neş yery&uuml;z&uuml;ne aydınlıklar karanlıkta kalır, dedi.&rsquo;&rsquo; c&uuml;mlesi yapısına g&ouml;re aşağıdaki c&uuml;mle &ccedil;eşitlerinden hangisine &ouml;rnektir?</strong>
+    - A-) Bağlı
+    - B-) Sıralı
+    - C-) Eylem
+    - D-) Basit
+    - **Cevap E-) Birleşik**
+    ***
+1. <strong>Girişik birleşik c&uuml;mleye aşağıdaki c&uuml;mlelerden hangisi &ouml;rnek teşkil eder?</strong> 
+    - A-) Su, dere yatağında &ouml;ylece akıp gidiyordu.
+    - B-) Kuşlar gibi &ouml;zg&uuml;r&uuml;m artık.
+    - **Cevap C-) Elini bana uzatarak kuyudan &ccedil;ıktı.**
+    - D-) S&ouml;n&uuml;k bir lamba alevi bu aşk.
+    - E-) Kitabın başında uyuya kalmış.
+    ***
+1. <strong>Aşağıdakilerden hangisi olumsuz c&uuml;mleye &ouml;rnek <u>değildir</u>?</strong> 
+    - **Cevap A-) Elleri g&ouml;ğs&uuml;nde bağlı uyuyordu.**
+    - B-) Hi&ccedil; kimse susturamazdı onu.
+    - C-) Duramazdı, devam etmek zorundaydı.
+    - D-) G&ouml;zleri g&ouml;rmezdi hi&ccedil;bir g&uuml;zelliği.
+    - E-) Gece boyu uyanık kalır hi&ccedil; uyumazdı.
+    ***
+1. &lsquo;&rsquo;Şart c&uuml;mlesi temel c&uuml;mleyi genellikle şart, zaman, sebep, benzetme gibi anlamlarla tamamlar ve temel c&uuml;mlenin zarfı olur.&rsquo;&rsquo;<br />
+<strong>Aşağıdaki c&uuml;mlelerden hangisi verilen bilgiye uygun bir &ouml;rnek <u>değildir</u>?</strong><br />
+<br />
+
+    - A-) Mutluluk d&uuml;nyaya yayılırsa sorunlar &ccedil;&ouml;z&uuml;l&uuml;r.
+    - B-) Atlar eğerlenirse geziye &ccedil;ıkarız.
+    - C-) Sular durulursa enkazın boyutunu g&ouml;r&uuml;rler.
+    - D-) Bana karşı kin kusmaya devam ederse &ouml;l&uuml;r.
+    - **Cevap E-) D&uuml;n neden derse ge&ccedil; kaldın?**
+    ***
+1. <strong>&lsquo;&rsquo;G&ouml;zleri maviydi, elleri bembeyaz ve sa&ccedil;ları alabildiğine kumral&rsquo;&rsquo; c&uuml;mlesinin &ouml;zellikleri aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong><br />
+<br />
+
+    - A-) Olumlu/Sıralı/Kurallı/İsim
+    - **Cevap B-) Olumlu/Bağlı/Kurallı/İsim**
+    - C-) Olumsuz/Sıralı/Kurallı/İsim
+    - D-) Olumsuz/Bağlı/Kurallı/İsim
+    - E-) Olumlu/Sıralı/Devrik/İsim
+    ***
+1. <strong>Aşağıdakilerden hangisi anlamına g&ouml;re c&uuml;mle &ccedil;eşitlerinden biridir?</strong><br />
+
+    - A-) Bağlı
+    - B-) Sıralı
+    - C-) Basit
+    - D-) Birleşik
+    - **Cevap E-) Soru**
+    ***
+1. <strong>&ldquo;O zaman vecd ile bin secde eder varsa taşım.&rdquo; c&uuml;mlesinin &ouml;zellikleri aşağıdakilerin hangisinde doğru olarak verilmiştir?</strong>
+    - A-) Kurallı, isim, bağlı, olumlu
+    - B-) Kurallı, fiil, şartlı birleşik, olumlu
+    - **Cevap C-) Devrik, fiil, şartlı birleşik, olumlu**
+    - D-) Devrik, isim, şartlı birleşik, olumsuz
+    - E-) Devrik, isim, sıralı, olumlu
+    ***
+1. <strong>Sıralı c&uuml;mle i&ccedil;in aşağıdakilerden hangisi s&ouml;ylenebilir?</strong>
+    - A-) Yalnızca tek yargı bildirir.
+    - B-) İki veya daha fazla c&uuml;mle ile kurulur ve tek yargı bildirir.
+    - C-) Sıralı c&uuml;mleler, birbirinden virg&uuml;l veya noktalı virg&uuml;lle ayrılmaz.&nbsp;
+    - **Cevap D-) Tek başına bağımsız yargı bildiren iki veya daha fazla c&uuml;mlenin bir anlam b&uuml;t&uuml;nl&uuml;ğ&uuml; i&ccedil;inde sıralanmasıyla kurulan c&uuml;mlelerdir.&nbsp;**
+    - E-) İki ayrı c&uuml;mle birbirine bağla&ccedil; ile bağlanır.
+    ***
+1. <strong>Aşağıdakilerden hangisi yapısı y&ouml;n&uuml;yle basit bir c&uuml;mledir?</strong>
+    - A-) Vedalaşmak i&ccedil;in terminale gittiğimde otob&uuml;s &ccedil;oktan hareket etmişti.
+    - B-) Memlekete giderken yolda &ouml;ğrencilerimle karşılaştım.
+    - C-) &Ccedil;ok beğendiğim bu k&ouml;yde bir sene yaşamaya karar verdim.
+    - **Cevap D-) Bazı anıların, bizim i&ccedil;in &ccedil;ok &ouml;zel bir yeri vardır.**
+    - E-) İnsanın bilgisi ve g&ouml;rg&uuml;s&uuml; kitap okuduk&ccedil;a artar.
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerden hangisi nesnesi ortak bağımlı sıralı bir c&uuml;mledir?</strong>
+    - A-) Bana s&ouml;ylediklerine inanamıyor, neden b&ouml;yle davrandığını anlamıyordum.
+    - B-) Sonunda g&uuml;neş doğdu, muhabbetle bizi selamladı.
+    - **Cevap C-) Meyveleri dalından topladık, kasalara &ouml;zenle yerleştirdik.**
+    - D-) Yağmur yağınca toprak ıslandı, sokaklar &ccedil;amura boyandı.
+    - E-) Aylarca uykusuz kalarak &ccedil;alıştı, sonunda istediği b&ouml;l&uuml;me yerleşti.
+    ***
+1. T&uuml;rk&ccedil;ede anlamına g&ouml;re c&uuml;mlede y&uuml;klem ...........-..................-................ şeklinde olabilir.<br />
+<strong>C&uuml;mlesinde boş bırakılan yerlere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Olumlu-Olumsuz-Devrik
+    - B-) Olumsuz-Olumlu-Bileşik
+    - **Cevap C-) Olumlu-Olumsuz-Soru**
+    - D-) Olumlu-Olumsuz-Sıralı
+    - E-) Olumlu-Olumsuz-Kurallı
+    ***
+1. <strong>&quot;Girişik, i&ccedil; i&ccedil;e, şartlı&quot; gibi ifadeler aşağıdakilerden hangisiyle birlikte kullanılır?</strong>
+    - **Cevap A-) Birleşik**
+    - B-) Bağlı
+    - C-) Basit
+    - D-) Sıralı
+    - E-) Devrik
+    ***
+1. D&uuml;n gece &ccedil;ok ağladım ama sesimi duyan olmadı.&nbsp;<br />
+<strong>Verilen c&uuml;mle aşağıdaki c&uuml;mle &ccedil;eşitlerinden hangisine &ouml;rnektir?</strong>
+    - A-) Birleşik
+    - B-) Sıralı
+    - C-) Kurallı
+    - **Cevap D-) Bağlı**
+    - E-) Basit
+    ***
 ## Unite 14
+1. <strong>C&uuml;mle &ccedil;&ouml;z&uuml;mlemesinde aşağıdaki &ouml;zelliklerden hangisi <u>aranmaz</u>?</strong>
+    - A-) Y&uuml;klemin t&uuml;r&uuml;
+    - B-) Y&uuml;klemin c&uuml;mledeki yeri
+    - C-) C&uuml;mlenin anlamı
+    - D-) C&uuml;mlenin &ouml;gelerine g&ouml;re sıralanışı
+    - **Cevap E-) C&uuml;mledeki kelime sayısı**
+    ***
+1. <strong>Aşağıdakilerden hangisi anlamına g&ouml;re olumsuz soru c&uuml;mlesidir?</strong>
+    - A-) Hasan fabrikadan &ccedil;ıkmış mıydı?
+    - B-) Bah&ccedil;enin etrafını kazmak istiyor muydunuz?
+    - C-) Ge&ccedil;en g&uuml;n buraya gelmiş miydi?
+    - **Cevap D-) Odanın her k&ouml;şesi nergis kokmuyor muydu?**
+    - E-) Okulun &ouml;n&uuml;nde bekledin mi?
+    ***
+1. <strong>Aşağıdakilerden hangisi yapısına g&ouml;re basit bir c&uuml;mledir?</strong>
+    - **Cevap A-) &Ccedil;anakkale i&ccedil;inde vurdular beni.**
+    - B-) &Ouml;n&uuml;ne engeller &ccedil;ıkaracaklardır, sen bunlara dayanacaksın.
+    - C-) Lokman Hekim gelse yaram azdırır.
+    - D-) &Ouml;nce okudu ve sonra anlattı.
+    - E-) O kadar &ccedil;alıştı ki sonunda başardı.
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisi fiil (eylem) c&uuml;mlesi <u>değildir</u>?</strong><br />
+
+    - A-) Hırsızlar kapıyı kırıp i&ccedil;eri girmişler.
+    - B-) &Ccedil;anakkale i&ccedil;inde vurdular beni.
+    - C-) Ertesi g&uuml;n hi&ccedil; kimse &ouml;lmedi.
+    - **Cevap D-) Akıl akıldan &uuml;st&uuml;nd&uuml;r.**
+    - E-) El elin eşeğini t&uuml;rk&uuml; &ccedil;ağırarak arar.
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerden hangisi yapısına g&ouml;re diğerlerinden farklıdır?</strong><br />
+
+    - **Cevap A-) Kuralları insanlar koyar ve oyun bu kurallarla oynanır.**
+    - B-) Hayat, kuralları basit bir oyundur.
+    - C-) Bazen en g&uuml;zel tepki susmaktır.
+    - D-) Havalar yavaş yavaş soğudu.
+    - E-) Atlar insanların en iyi dostlarındandır.
+    ***
+1. <strong>&lsquo;&rsquo;&Ccedil;ocuklar inanın, İnanın &ccedil;ocuklar.&rsquo;&rsquo; c&uuml;mlesinin &ouml;zellikleri aşağıdaki se&ccedil;eneklerden hangisinde doğru olarak verilmiştir?</strong><br />
+<br />
+
+    - A-) Basit/İsim/Olumsuz/Devrik
+    - B-) Birleşik/Eylem/Olumlu/Devrik
+    - C-) Sıralı/İsim/Olumsuz/Kurallı
+    - **Cevap D-) Sıralı/Eylem/Olumlu/Kurallı**
+    - E-) Bağlı/Eylem/Olumlu/Devrik
+    ***
+1. T&uuml;rk&ccedil;e, d&uuml;nya dilleri arasında en sağlam matematiksel yapıya sahip dillerden biridir. C&uuml;mlede &ouml;nce &ouml;zne sonra nesne en son y&uuml;klem gelir.<br />
+<strong>Paragrafta verilen bilgilerden hareketle aşağıdaki c&uuml;mlelerden hangisi &ouml;zne-nesne-y&uuml;klem şeklinde <u>sıralanmamıştır</u>?</strong><br />
+<br />
+
+    - A-) Zayıflıklar insanı sıradanlaştırır.
+    - **Cevap B-) Vedalaştık bir ikindi &ouml;ncesi.**
+    - C-) Sen de onu getir.
+    - D-) Mehmet &ouml;devini getirmemiş.
+    - E-) Kadın soyadını unutmuştu.
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerden hangisi y&uuml;kleminin yerine g&ouml;re diğerlerinden farklıdır?</strong><br />
+
+    - A-) Kapattık d&uuml;kk&acirc;nı g&uuml;zel kardeşim.
+    - B-) Soğuk gelir pencereyi kapatmazsan.
+    - C-) Kin g&uuml;derler bize karşı.
+    - D-) Nefret s&ouml;ylemi var dillerinde.
+    - **Cevap E-) Yavaş adımlarla eve doğru y&uuml;r&uuml;d&uuml;ler.**
+    ***
+1. <strong>&ldquo;Sora sora Bağdat bulunur.&rdquo; c&uuml;mlesinin &ouml;zellikleri aşağıdakilerin hangisinde belirtilmiştir?</strong> 
+    - A-) Olumlu&nbsp;&ndash;&nbsp;basit&nbsp;&ndash;&nbsp;devrik&nbsp;&ndash;&nbsp;eylem
+    - **Cevap B-) Olumlu&nbsp;&ndash;&nbsp;birleşik&nbsp;&ndash;&nbsp;kurallı&nbsp;&ndash;&nbsp;eylem**
+    - C-) Olumsuz&nbsp;&ndash;&nbsp;sıralı&nbsp;&ndash;&nbsp;kurallı&nbsp;&ndash;&nbsp;ad
+    - D-) Olumlu&nbsp;&ndash;&nbsp;sıralı&nbsp;&ndash;&nbsp;devrik&nbsp;&ndash;&nbsp;ad
+    - E-) Olumsuz&nbsp;&ndash;&nbsp;birleşik&nbsp;&ndash;&nbsp;kurallı&nbsp;&ndash;&nbsp;eylem
+    ***
+1. <strong>Aşağıdakilerden hangisi &quot;olumlu, isim, kurallı, basit&quot; c&uuml;mle şeklindedir? </strong>
+    - **Cevap A-) İnsan, &ccedil;ok y&ouml;nl&uuml; bir varlıktır.**
+    - B-) Onlar, onlardan korkarlar ve ka&ccedil;arlar.
+    - C-) G&ouml;ky&uuml;z&uuml;nde sayısız yıldız bulunur, yıldızlar birer ışık huzmesi gibi g&ouml;r&uuml;n&uuml;r.
+    - D-) Sen onunla konuşmadık&ccedil;a seni affetmeyeceğim.
+    - E-) Vardır ellerimde sayısız &ccedil;i&ccedil;eğin kokusu.
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerden hangisi bi&ccedil;imce olumlu, anlamca olumsuz bir c&uuml;mledir?</strong>
+    - A-) Yazılmış ilk tiyatro eseri, Şin&acirc;si&rsquo;nin yazdığı &ldquo;Ş&acirc;ir Evlenmesi&rdquo; adlı eserdir.
+    - B-) Fransız İhtil&acirc;li&#39;nin &ccedil;ok uluslu devletler &uuml;zerinde olumsuz etkileri olmuştur.
+    - C-) T&uuml;rk&ccedil;ede c&uuml;mle d&uuml;zeni genel olarak &ldquo;&ouml;zne, nesne, y&uuml;klem&rdquo; şeklindedir.
+    - D-) Yery&uuml;z&uuml;nde yaşayan hi&ccedil;bir dil, T&uuml;rk&ccedil;e kadar geniş alanlara yayılmamıştır.
+    - **Cevap E-) Kendi k&uuml;lt&uuml;r&uuml;n&uuml;n değersiz olduğunu d&uuml;ş&uuml;nenlerde mill&icirc; bilin&ccedil; nasıl gelişebilir?**
+    ***
+1. T&uuml;rk halk zek&acirc;sının ve halkın, olayları karikat&uuml;rize etme g&uuml;c&uuml;n&uuml;n b&uuml;y&uuml;k sanatlarından biri olan meddahlık, y&uuml;zyıllar boyu yaşamış, T&uuml;rk halkı arasında &ccedil;ok ilgi g&ouml;rm&uuml;şt&uuml;r.<br />
+<strong>Bu c&uuml;mlenin &ouml;zellikleri aşağıdakilerin hangisinde doğru sıralanmıştır?</strong>
+    - A-) Basit&nbsp;&ndash;&nbsp;olumlu&nbsp;&ndash;&nbsp;kurallı&nbsp;&ndash;&nbsp;isim c&uuml;mlesi
+    - B-) Basit&nbsp;&ndash;&nbsp;olumlu&nbsp;&ndash;&nbsp;eksiltili&nbsp;&ndash;&nbsp;isim c&uuml;mlesi
+    - **Cevap C-) Bağımlı sıralı&nbsp;&ndash;&nbsp;olumlu&nbsp;&ndash;&nbsp;kurallı&nbsp;&ndash;&nbsp;fiil c&uuml;mlesi**
+    - D-) Basit&nbsp;&ndash;&nbsp;olumlu&nbsp;&ndash;&nbsp;devrik&nbsp;&ndash;&nbsp;fiil c&uuml;mlesi
+    - E-) Sıralı&nbsp;&ndash;&nbsp;olumsuz&nbsp;&ndash;&nbsp;kurallı&nbsp;&ndash;&nbsp;isim c&uuml;mlesi
+    ***
+1. <strong>Aşağıdakilerden hangisi c&uuml;mleyi yapısına g&ouml;re&nbsp; incelerken <u>aranmaz</u>?</strong>
+    - A-) Basit
+    - **Cevap B-) Devrik**
+    - C-) Birleşik
+    - D-) Bağlı
+    - E-) Sıralı
+    ***

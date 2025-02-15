@@ -97,6 +97,13 @@ III. Fransa Ankara ile anlaşma yolları aramaya başladı.<br />
     - **Cevap D-) Doğu Cephesi&nbsp;**
     - E-) Kanal Cephesi&nbsp;
     ***
+1. <strong>D&uuml;şman işgallerine karşı halk tarafından oluşturulmuş silahlı milis kuvvetlerinin genel adı aşağıdakilerden hangisidir?&nbsp;</strong>
+    - A-) Kuva-yı Seyyare
+    - B-) Kuva-yı İnzibatiye
+    - **Cevap C-) Kuva-yı Mill&icirc;ye**
+    - D-) Temsil Heyeti&nbsp;
+    - E-) Hamidiye Alayları&nbsp;
+    ***
 1. <strong>İzmir Yunanlılar tarafından hangi tarihte işgal edilmiştir?&nbsp;</strong>
     - **Cevap A-) 15 Mayıs 1919**
     - B-) 15 Haziran 1919
@@ -240,6 +247,13 @@ Aşağıdakilerin hangisiyle bu durumun giderilmesine &ccedil;alışılmıştır
     - C-) T&uuml;rk-Yunan sınırı tespit edildi.
     - D-) Boğazların denetimi uluslararası bir komisyona bırakıldı.
     - E-) D&uuml;yun-ı Umumiye İdaresinin varlığına son verildi.
+    ***
+1. <strong>S&uuml;leyman Şah&rsquo;ın mezarının bulunduğu Caber Kalesi&rsquo;nde T&uuml;rk bayrağının dalgalanması ve Caber Kalesi&lsquo;nin T&uuml;rk toprağı olarak kalması aşağıdaki antlaşmalardan hangisi ile kabul edilmiştir?</strong>
+    - **Cevap A-) Ankara Antlaşması**
+    - B-) Lozan Antlaşması
+    - C-) Mudanya M&uuml;tarekesi
+    - D-) Sevr Antlaşması
+    - E-) Mondros M&uuml;tarekesi
     ***
 1. <strong>TBMM 5 Ağustos 1921 tarihinde &ccedil;ıkarmış olduğu bir kanunla Mustafa Kemal&#39;e hangi g&ouml;revi vermiştir?&nbsp; </strong><br />
 
@@ -414,6 +428,13 @@ IV. Osmanlı Devleti<br />
     - **Cevap D-) İttihat ve Terakki Grubu**
     - E-) M&uuml;dafaa-i Hukuk Grubu
     ***
+1. <strong>Aşağıdakilerden hangisi orduyu siyasetin dışına &ccedil;ıkarmak i&ccedil;in yapılan değişikliklerden biridir?</strong>
+    - **Cevap A-) Erk&acirc;n-ı Harbiye-i Umumiye Vek&acirc;leti&#39;nin kaldırılması**
+    - B-) Saltanatın kaldırılması
+    - C-) Şeriye ve Evkaf Vekaleti&#39;nin kaldırılması
+    - D-) Tevhid-i Tedrisat Kanunu&#39;nun &ccedil;ıkarılması
+    - E-) Siyasi Partiler Kanunu&#39;nun &ccedil;ıkarılması
+    ***
 1. <strong>Şeyh Sait İsyanı sonu&ccedil;ları itibarıyla aşağıdaki devletlerden hangisinin işine yaramıştır?</strong>
     - **Cevap A-) İngiltere**
     - B-) Fransa
@@ -434,6 +455,13 @@ IV. Osmanlı Devleti<br />
     - C-) Ali Fuat Cebesoy
     - D-) Refet Bele
     - **Cevap E-) Ali Fethi Okyar**
+    ***
+1. <strong>Terakkiperver Cumhuriyet Fırkası&rsquo;nın savunduğu fikirler arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
+    - A-) Egemenliğin halka ait olduğu
+    - B-) Cumhuriyet y&ouml;netimini yaşatmak ve geliştirmenin esas gayeleri olduğu
+    - C-) Demokratik, liberal, d&uuml;ş&uuml;nce ve inan&ccedil;lara saygılı olunacağı
+    - D-) Anayasanın milletten vek&acirc;let alınmadan değiştirilemeyeceği
+    - **Cevap E-) Ekonomide devlet&ccedil;iliğin esas alınacağı**
     ***
 1. <strong>&ldquo;Amacımız iktidara gelmek değil, Halk Fırkası&rsquo;na muhalefet etmek.&rdquo; şeklinde d&uuml;ş&uuml;ncelerini a&ccedil;ıklayan siyasi parti aşağıdakilerden hangisidir?</strong>
     - A-) Millet Partisi
@@ -581,6 +609,13 @@ III. Kuvvetler Birliği İlkesi esas alınmıştır.<br />
     - C-) 1961 Anayasası
     - D-) 1876 Kanun-ı Esasi&#39;si
     - E-) 1982 Anayasası
+    ***
+1. <strong>&ldquo;Bireyle birey; bireyle toplum arasındaki ilişkileri, d&uuml;zeni sağlayan ve maddi m&uuml;eyyideleri olan kurallar b&uuml;t&uuml;n&uuml;d&uuml;r.&rdquo; şeklinde ifade edilen kavram aşağıdakilerden hangisidir?</strong>
+    - A-) Anayasa
+    - **Cevap B-) Hukuk**
+    - C-) Mecelle
+    - D-) Norm
+    - E-) Meşrutiyet
     ***
 1. <strong>Medeni Kanun&rsquo;la hangi t&uuml;r toplumsal ilişki veya y&ouml;ntem d&uuml;zenlenir?</strong>
     - A-) Hırsızlık yapanla malı &ccedil;alınan arasındaki ilişki
@@ -802,6 +837,13 @@ III. &Uuml;niversite reformunun hazırlanması<br />
     - D-) II. Abd&uuml;lhamit&nbsp;
     - E-) Vahdettin&nbsp;
     ***
+1. <strong>Aşağıdakilerden hangisi T&uuml;rk Mill&icirc; Eğitim Sistemi&#39;nin temel ilkelerinden biri <u>değildir</u>?&nbsp;</strong>
+    - A-) Mill&icirc;dir
+    - B-) Laiktir
+    - C-) Bilimseldir
+    - D-) Karmadır
+    - **Cevap E-) Gelenekseldir**
+    ***
 1. ......... D&ouml;nemi&rsquo;nde ilk&ouml;ğretim zorunlu h&acirc;le getirilmiştir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Mustafa Kemal Atat&uuml;rk
@@ -811,6 +853,13 @@ III. &Uuml;niversite reformunun hazırlanması<br />
     - **Cevap E-) II. Mahmut**
     ***
 ## Unite 7
+1. <strong>Kadınlara milletvekili se&ccedil;me ve se&ccedil;ilme hakkını veren Anayasa değişikliği hangi tarihte ger&ccedil;ekleşmiştir?</strong>
+    - A-) 3 Mart 1924
+    - B-) 1 Kasım 1928
+    - **Cevap C-) 5 Aralık 1934**
+    - D-) 5 Mayıs 1937
+    - E-) 14 Mayıs 1950
+    ***
 1. <strong>Cumhuriyet&#39;in ilanından sonra tekke, zaviye ve t&uuml;rbelerin kapatılması Atat&uuml;rk İlkeleri&#39;nden hangisiyle ilgilidir?</strong> 
     - A-) Cumhuriyet&ccedil;ilik
     - B-) Milliyet&ccedil;ilik
@@ -924,9 +973,866 @@ V. Miladi takvimin kabul edilmesi<br />
     - E-) Adnan Adıvar
     ***
 ## Unite 8
+1. <strong>Lozan Konferansı&#39;nın kesintiye uğradığı d&ouml;nemde, 17 Şubat-4 Mart 1923 tarihleri arasında İzmir&#39;de toplanan I. T&uuml;rkiye İktisat Kongresi&#39;ne başkanlık yapan devlet adamı aşağıdakilerden hangisidir?</strong>
+    - A-) Mustafa Kemal Paşa
+    - B-) Rauf (Orbay) Bey
+    - **Cevap C-) Kazım Karabekir Paşa**
+    - D-) Ali Fuat (Cebesoy) Paşa
+    - E-) Refet (Bele) Paşa
+    ***
+1. <strong>Aşağıdakilerden hangisi Atat&uuml;rk D&ouml;nemi ekonomik sisteminin temel ilke ve ama&ccedil;larından biri <u>değildir</u>?</strong>
+    - A-) &Uuml;lkenin tam bağımsızlığını bu alanda da ger&ccedil;ekleştirmek
+    - B-) Ekonomide mill&icirc; ve millileştirme &ccedil;abalarını s&uuml;rd&uuml;rmek
+    - C-) &Ouml;zel teşebb&uuml;s&uuml; harekete ge&ccedil;irmek
+    - **Cevap D-) Sosyalist ekonomik sistem kurmak**
+    - E-) D&uuml;nya ticaretinde yer edinmek
+    ***
+1. <strong>Bir ekonomik etkinlik olarak aşağıdakilerden hangisi s&ouml;ylenebilir?</strong>
+    - A-) Kitap okuma
+    - B-) Y&uuml;r&uuml;y&uuml;ş yapma
+    - **Cevap C-) Tarla s&uuml;rme**
+    - D-) Televizyon seyretme
+    - E-) Dinlenirken d&uuml;ş&uuml;nme
+    ***
+1. <strong>İzmir&#39;de 1923 yılında toplanan I. T&uuml;rkiye İktisat Kongresi&#39;nin &ouml;nemi aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Sanayinin kurulması i&ccedil;in ilk &ouml;nemli plan yapılmıştır.**
+    - B-) Vergi reformunun esasları saptanmıştır.
+    - C-) Tarım sorunlarının g&ouml;r&uuml;ş&uuml;lmesinden vazge&ccedil;ilmiştir.
+    - D-) T&uuml;rk tarihinde ilk kez bu nitelikte bir kongre toplanmıştır.
+    - E-) Kongre&#39;yi a&ccedil;an İsmet Paşa devlet&ccedil;iliği &ouml;vm&uuml;şt&uuml;r.
+    ***
+1. <strong>Teşvik-i Sanayi Kanunu ne zaman &ccedil;ıkarılmıştır?</strong>
+    - A-) 1918
+    - **Cevap B-) 1927**
+    - C-) 1928
+    - D-) 1933
+    - E-) 1937
+    ***
+1. <strong>Devlet&ccedil;i ekonomiye ge&ccedil;işin nedeni aşağıdakilerden hangisidir?</strong>
+    - A-) B&uuml;t&ccedil;e a&ccedil;ığının giderek &ccedil;oğalması
+    - B-) Sanayi sekt&ouml;r&uuml;n&uuml;n gelişememesi
+    - C-) Tarımdan beklenen &uuml;r&uuml;n&uuml;n alınamaması
+    - D-) Kamu harcamalarının artması
+    - **Cevap E-) D&uuml;nya&#39;da b&uuml;y&uuml;k bir ekonomik krizin yaşanması**
+    ***
+1. <strong>T&uuml;rkiye Cumhuriyeti H&uuml;k&uuml;meti Merkez Bankası ne zaman kurulmuştur?</strong>
+    - A-) 1924
+    - B-) 1927
+    - **Cevap C-) 1930**
+    - D-) 1935
+    - E-) 1937
+    ***
+1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Atat&uuml;rk D&ouml;nemi&rsquo;nde ekonomik alanda yapılan &ccedil;alışmaların ama&ccedil;ları arasında <u>yer almaz</u>?</strong>
+    - A-) Ekonomide mill&icirc; ve millileştirme &ccedil;abalarını s&uuml;rd&uuml;rmek
+    - **Cevap B-) IMF&rsquo;ye &uuml;ye olmak**
+    - C-) B&uuml;y&uuml;k yatırımları devlet eliyle yapmak
+    - D-) D&uuml;nya ticaretinde yer edinmek
+    - E-) Ekonomide modern teknikleri kullanarak &uuml;retim yapmak
+    ***
+1. <strong>I. T&uuml;rkiye İktisat Kongresi&rsquo;nde &uuml;lkede sanayinin geliştirilmesi i&ccedil;in alınan kararlar arasında aşağıdakilerden hangisi <u>bulunmaz</u>?</strong>
+    - A-) Sanayinin teşviki
+    - B-) Sanayiciye kredi temini
+    - C-) Sanayi i&ccedil;in m&uuml;hendis ve teknik eleman eğitimi
+    - D-) Yerli malının teşviki
+    - **Cevap E-) Milli Korunma Kanunu&rsquo;nun kaldırılması**
+    ***
+1. &ldquo;T&uuml;rkiye&rsquo;nin ger&ccedil;ek sahibi, efendisi T&uuml;rk k&ouml;yl&uuml;s&uuml;d&uuml;r.&rdquo;<br />
+<strong>Aşağıdakilerden hangisinin Atat&uuml;rk&rsquo;&uuml;n bu s&ouml;z&uuml; doğrultusunda yapılan d&uuml;zenlemelerden biri olduğu s&ouml;ylenebilir?</strong>
+    - A-) Kabotaj Kanunu&rsquo;nun kabul edilmesi
+    - B-) Teşvik-i Sanayi Kanunu&rsquo;nun kabul edilmesi
+    - **Cevap C-) Aşar vergisinin kaldırılması**
+    - D-) Devlet&ccedil;ilik politikasının uygulamaya konulması
+    - E-) Misak-ı İktisadi kararlarının alınması
+    ***
+1. <strong>Osmanlı ekonomisi ile ilgili genel yargılar arasında aşağıdakilerden hangisi <u>bulunmaz</u>?</strong>
+    - A-) Temel sanayi kurulamamıştır.
+    - B-) Mamul madde alan, hammadde ve yiyecek maddeleri satan bir devlettir.
+    - C-) Varolan sanayi kuruluşları da yabancıların denetimindedir.
+    - **Cevap D-) Yurdun genelinde maden işletmeleri T&uuml;rklerin elindedir.**
+    - E-) Maliyetler y&uuml;ksektir.
+    ***
+1. <strong>&ldquo;Misak-ı İktisad&icirc;&rdquo; kararları aşağıdaki hangi kongrede alınmıştır?</strong>
+    - A-) Erzurum Kongresi&rsquo;nde
+    - **Cevap B-) I. T&uuml;rkiye İktisat Kongresi&rsquo;nde**
+    - C-) Sivas Kongresi&rsquo;nde
+    - D-) Alaşehir Kongresi&rsquo;nde
+    - E-) İstanbul İhracat&ccedil;ılar Kongresi&rsquo;nde
+    ***
+1. <strong>Aşağıdakilerden hangisi Atat&uuml;rk&#39;&uuml;n halka ağır gelmesi sebebiyle kaldırdığı vergiler ve har&ccedil;lar arasında yer alır?</strong>
+    - A-) Stopaj Vergisi
+    - B-) Katma Değer Vergisi
+    - **Cevap C-) Aşar Vergisi**
+    - D-) Gelir Vergisi
+    - E-) Tediye Vergisi
+    ***
+1. <strong>Aşağıdaki gelişmelerden hangisiyle birlikte T&uuml;rk denizlerinde (T&uuml;rk karasularında) ticaretin kontrol&uuml; T&uuml;rk t&uuml;ccarlarının eline ge&ccedil;miştir?&nbsp;</strong>
+    - A-) Teşvik-i Sanayi Kanunu
+    - B-) Aşar Vergisi&#39;nin Kaldırılması
+    - C-) İzmir İktisat Kongresi&nbsp;
+    - D-) Takrir-i S&uuml;k&ucirc;n Kanunu&nbsp;
+    - **Cevap E-) Kabotaj Kanunu**
+    ***
+1. <strong>Osmanlı Devleti&nbsp; hangi savaş sırasında İngiltere ve Fransa&#39;dan para alarak ilk dış bor&ccedil;lanmayı ger&ccedil;ekleştirmiştir?</strong>
+    - A-) I. Balkan Savaşı
+    - **Cevap B-) Kırım Savaşı**
+    - C-) Edirne Savaşı
+    - D-) Sakarya Savaşı&nbsp;
+    - E-) Trablusgarp&nbsp;Savaşı
+    ***
 ## Unite 9
+1. <strong>Lozan Antlaşması gereğince &ouml;denmesi gereken Osmanlı bor&ccedil;ları konusunda Cumhuriyet D&ouml;nemi&#39;nde en fazla sıkıntı yaşanan &uuml;lke aşağıdakilerden hangisidir?</strong>
+    - A-) Almanya
+    - B-) İngiltere
+    - **Cevap C-) Fransa**
+    - D-) İtalya
+    - E-) Amerika Birleşik Devletleri
+    ***
+1. T&uuml;rkiye ile Suriye arasındaki sınır 20 Ekim 1921&#39;de T&uuml;rkiye ve Fransa arasında imzalanan Ankara İtilafnamesi ile &ccedil;izilmiş ve Lozan Antlaşması ile onaylanmıştır.<br />
+<strong>Bu antlaşmalara g&ouml;re sınırlarımız dışında kalmasına rağmen 1930&#39;lu yıllarda ortaya &ccedil;ıkan uluslararası gelişmelerden yararlanılarak 29 Haziran 1939&#39;da anavatana katılan ilimiz aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Hatay**
+    - B-) Şanlıurfa
+    - C-) Adana
+    - D-) Mersin
+    - E-) Gaziantep
+    ***
+1. I. Hatay<br />
+II. Batum<br />
+III. Musul<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri 1926 Ankara Antlaşması&rsquo;yla T&uuml;rkiye&rsquo;nin sınırları dışında kalmıştır?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - **Cevap C-) Yalnız III**
+    - D-) I ve II
+    - E-) I, II ve III
+    ***
+1. Montr&ouml; Boğazlar S&ouml;zleşmesi&#39;nin;<br />
+I. Boğazlar Komisyonu&#39;nun kaldırılması ve g&ouml;revinin T&uuml;rk tarafına ge&ccedil;mesi<br />
+II. Yabancı savaş gemilerinin Boğazlar&#39;dan ge&ccedil;işinin sınırlandırılarak T&uuml;rkiye&#39;nin denetimine bırakılması<br />
+III.Yabancı devletlere ait ticaret gemilerinin her iki y&ouml;nde Boğazlar&#39;dan ge&ccedil;işlerinin serbest olması,<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri, T&uuml;rkiye&#39;nin d&uuml;nya devletleri arasındaki saygınlığının daha da arttığını g&ouml;sterir?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) Yalnız III
+    - **Cevap D-) I ve II**
+    - E-) I, II ve III
+    ***
+1. <strong>Atat&uuml;rk D&ouml;nemi&rsquo;nde azınlıklarla ilgili konularda aşağıdaki &uuml;lkelerden hangisiyle sorunlar yaşanmıştır?</strong>
+    - A-) Bulgaristan
+    - **Cevap B-) Yunanistan**
+    - C-) Arnavutluk
+    - D-) Yugoslavya
+    - E-) Makedonya
+    ***
+1. <strong>Sadabad Paktı&rsquo;nın kurulmasına neden olan gelişme aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) İtalya&rsquo;nın Asya ve Afrika&rsquo;ya doğru yayılma siyaseti izlemesi**
+    - B-) Boğazlardan ge&ccedil;mek isteyen yabancı savaş gemilerinin T&uuml;rkiye&rsquo;den izin almak durumunda olması
+    - C-) 1929 yılında Amerika&rsquo;nın ekonomik kriz yaşaması
+    - D-) Birleşmiş Milletler Teşkilatı&rsquo;nın kurulması
+    - E-) İngiltere&rsquo;nin Kıbrıs&rsquo;ı işgal etmesi
+    ***
+1. <strong>Balkan Antantı&rsquo;nın kurulmasında aşağıdaki gelişmelerden hangisi etkili olmuştur?</strong>
+    - A-) Milletler Cemiyeti&rsquo;ne olan g&uuml;vensizlik durumu
+    - **Cevap B-) Almanya ve İtalyan&rsquo;ın emperyalist politikalar izlemesi**
+    - C-) Rusya&rsquo;nın Balkanlara y&ouml;nelik tarihi politikalarını s&uuml;rd&uuml;rmesi
+    - D-) B&ouml;lge &uuml;lkeleriyle ekonomik işbirliği &ccedil;abaları
+    - E-) T&uuml;rkiye Cumhuriyeti&rsquo;nin b&ouml;lgesel liderlik politikaları
+    ***
+1. <strong>İngiltere,&nbsp; Musul ve Kerk&uuml;k&rsquo;&uuml; elinden &ccedil;ıkarmamak i&ccedil;in aşağıdaki olaylardan hangilerini desteklemiştir?</strong>
+    - **Cevap A-) Şeyh Said Ayaklanması&rsquo;nı-Nasturi Ayaklanması&rsquo;nı**
+    - B-) &Ccedil;erkez Ethem Ayaklanması&rsquo;nı-Şeyh Bedrettin Ayaklanması&rsquo;nı
+    - C-) Menemen Olayı&rsquo;nı-Ermeni Ayaklanması&rsquo;nı
+    - D-) Saltanatın Kaldırılması&rsquo;nı-Nasturi Ayaklanması&rsquo;nı
+    - E-) Varlık Vergisi&rsquo;ni-S&uuml;ryani Ayaklanması&rsquo;nı
+    ***
+1. <strong>Montr&ouml; Boğazlar S&ouml;zleşmesi&rsquo;ni aşağıdaki devletlerden hangisi imzalamamıştır?</strong>
+    - A-) Sovyetler Birliği
+    - **Cevap B-) İtalya**
+    - C-) İngiltere
+    - D-) Japonya
+    - E-) Fransa
+    ***
+1. I. Balkan Paktı&rsquo;nın kurulması<br />
+II. Milletler Cemiyeti&rsquo;ne &uuml;ye olma<br />
+III. Boğazlar Komisyonu&rsquo;nun kaldırılması<br />
+IV. Sadabat Paktı&rsquo;na katılması<br />
+V. Hatay&rsquo;ın Anavatana katılması<br />
+<strong>T&uuml;rkiye Cumhuriyeti&rsquo;nin dış politikasıyla ilişkili ger&ccedil;ekleştirilen bazı olaylar, yukarıya &ccedil;ıkarılmıştır. Bunlardan hangisi ya da hangileri Atat&uuml;rk&rsquo;&uuml;n sağlığında <u>ger&ccedil;ekleştirilememiştir</u>?</strong>
+    - A-) Yalnız I
+    - B-) II ve V
+    - C-) Yalnız III
+    - D-) III, IV, V
+    - **Cevap E-) Yalnız V**
+    ***
+1. <strong>Hatay&rsquo;ın T&uuml;rkiye&rsquo;ye katılması Atat&uuml;rk ilkelerinden hangisiyle ilgilidir?</strong>
+    - **Cevap A-) Milliyet&ccedil;ilik**
+    - B-) Halk&ccedil;ılık
+    - C-) Devlet&ccedil;ilik
+    - D-) Cumhuriyet&ccedil;ilik
+    - E-) İnkılap&ccedil;ılık
+    ***
+1. <strong>Atat&uuml;rk tarafından belirlenen T&uuml;rkiye Cumhuriyeti&rsquo;nin dış politikasında benimsenen ilkeler arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
+    - A-) Yurtta sulh cihanda sulh
+    - B-) İnsan haklarını korumak
+    - C-) Bağımsızlık
+    - **Cevap D-) S&ouml;m&uuml;rgecilik**
+    - E-) Uluslararası eşitlik
+    ***
+1. <strong>Şeyh Sait İsyanı TBMM&rsquo;nin dış politikasında etkili rol oynamıştır. Bu isyan, aşağıdaki sorunlardan hangisinin T&uuml;rkiye&rsquo;nin aleyhine sonu&ccedil;lanmasına sebep olmuştur?</strong>
+    - A-) Boğazlar
+    - B-) Hatay
+    - C-) Kapit&uuml;lasyonlar
+    - **Cevap D-) Musul**
+    - E-) Yabancı okullar
+    ***
+1. <strong>Yaklaşık bir yıl varlığını s&uuml;rd&uuml;ren Hatay Cumhuriyeti&#39;nin ilk ve tek cumhurbaşkanı aşağıdakilerden hangisidir?&nbsp;</strong>
+    - A-) İsmet İn&ouml;n&uuml;&nbsp;
+    - **Cevap B-) Tayfur S&ouml;kmen&nbsp;**
+    - C-) Fevzi &Ccedil;akmak&nbsp;
+    - D-) Rauf Orbay
+    - E-) Ali Fuat Cebesoy
+    ***
+1. <strong>T&uuml;rkiye hangi tarihte Milletler Cemiyetine &uuml;ye olmuştur?</strong>
+    - **Cevap A-) 18 Temmuz 1932**
+    - B-) 18 Temmuz 1949
+    - C-) 18 Temmuz 1950
+    - D-) 18 Temmuz 1951
+    - E-) 18 Temmuz 1952
+    ***
+1. <strong>Hatay, Ana Vatan&#39;a ne zaman katılmıştır?</strong>
+    - A-) 27 Ocak 1937
+    - B-) 29 Kasım 1937
+    - C-) 7 Mart 1938
+    - D-) 2 Eyl&uuml;l 1938
+    - **Cevap E-) 29 Haziran 1939**
+    ***
 ## Unite 10
+1. <strong>II. D&uuml;nya Savaşı&#39;nın sonlarına doğru T&uuml;rkiye&#39;nin de katıldığı San Fransisco Konferansı&#39;nda kurulması kararlaştırılan uluslararası &ouml;rg&uuml;t aşağıdakilerden hangisidir?</strong>
+    - A-) NATO
+    - B-) CENTO
+    - C-) Avrupa Ekonomik Topluluğu
+    - D-) Varşova Paktı
+    - **Cevap E-) Birleşmiş Milletler**
+    ***
+1. <strong>Aşağıdakilerden hangisi k&ouml;ylerde doğup b&uuml;y&uuml;m&uuml;ş &ccedil;ocukları&nbsp; ileride k&ouml;y okullarında hizmet verecek &ouml;ğretmenler olarak yetiştirmek &uuml;zere 17 Nisan 1940&#39;ta yapılandırılan eğitim kurumlarıdır?</strong>
+    - A-) Halk Mektepleri
+    - **Cevap B-) K&ouml;y Enstit&uuml;leri**
+    - C-) K&ouml;y Muallim Mektepleri
+    - D-) Halk Odaları
+    - E-) Eğitim Fak&uuml;lteleri
+    ***
+1. <strong>II. D&uuml;nya Savaşı&#39;nın T&uuml;rk ekonomisi &uuml;zerindeki olumsuz etkilerini azaltmak &uuml;zere y&uuml;ksek gelir ve servet sahibi olanlardan yeni bir vergi alınması yoluna gidilmesi nedeniyle, 1 Kasım 1942&#39;de &ccedil;ıkarılan kanun aşağıdakilerden hangisidir?</strong>
+    - A-) İaşe Kanunu
+    - B-) Stopaj Vergisi Kanunu
+    - **Cevap C-) Varlık Vergisi Kanunu**
+    - D-) Gelir Vergisi Kanunu
+    - E-) Yol Vergisi Kanunu
+    ***
+1. II. D&uuml;nya Savaşı&#39;ndan sonra s&ouml;m&uuml;rge durumunda olan bazı Asya ve Afrika &uuml;lkelerinin T&uuml;rkiye&#39;yi &ouml;rnek aldıkları g&ouml;r&uuml;lm&uuml;şt&uuml;r.<br />
+<strong>T&uuml;rkiye&#39;nin bu &uuml;lkeleri etkileyen y&ouml;n&uuml; aşağıdakilerden hangisi olmuştur?</strong>
+    - A-) Yurtta ve d&uuml;nyada barışı korumaya &ccedil;alışması
+    - B-) Başka ulusların haklarına saygılı olması
+    - C-) Orta Doğu&rsquo;da g&uuml;&ccedil; dengesini koruması
+    - D-) Batı demokrasi ilkelerini benimsemesi
+    - **Cevap E-) Bağımsızlığını kazanma ve s&uuml;rd&uuml;rmedeki başarısı**
+    ***
+1. <strong>K&ouml;y Enstit&uuml;leri&rsquo;nin kurulmasında emeği ge&ccedil;en Mill&icirc; Eğitim Bakanı aşağıdakilerden hangisidir?</strong>
+    - A-) Abd&uuml;lhalik Renda
+    - B-) Ş&uuml;kr&uuml; Kaya
+    - **Cevap C-) Hasan Ali Y&uuml;cel**
+    - D-) Tevfik R&uuml;şt&uuml; Aras
+    - E-) Şemsettin G&uuml;naltay
+    ***
+1. <strong>30 Ocak 1943&rsquo;te Adana&rsquo;ya gelerek Cumhurbaşkanı İsmet İn&ouml;n&uuml; ile bir araya gelen İngiliz Başbakanı aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Winston Churchill**
+    - B-) Benjamin Disraeli
+    - C-) William Ewart Gladstone
+    - D-) David Lloyd George
+    - E-) Stanley Baldwin
+    ***
+1. T&uuml;rkiye II. D&uuml;nya Savaşı&#39;na fiilen katılmamasına rağmen &ouml;zellikle ekonomik alanda b&uuml;y&uuml;k sıkıntılar &ccedil;ekmiştir<strong>.<br />
+Buna g&ouml;re, aşağıdakilerden hangisi ekonomik sıkıntılara &ouml;nlem niteliği <u>taşımaz</u>?</strong>
+    - A-) Mill&icirc; Korunma Kanunu&#39;nu &ccedil;ıkarmıştır.
+    - **Cevap B-) Milli Savunmaya &ouml;nemli yatırımlar yapılmıştır.**
+    - C-) Zorunlu &ccedil;alışma y&uuml;k&uuml;ml&uuml;l&uuml;ğ&uuml; getirmiştir.
+    - D-) Bazı &uuml;r&uuml;nlerden alınan vergi oranım d&uuml;ş&uuml;r&uuml;lm&uuml;şt&uuml;r.
+    - E-) Temel gıda maddelerinin tasarruflu bir şekilde t&uuml;ketilmesini sağlamıştır.
+    ***
+1. T&uuml;rkiye, Atat&uuml;rk D&ouml;nemi&#39;nde, iki kez &ccedil;ok partili hayata ge&ccedil;me denemesinde bulunmuş; ancak bazı sebeplerden dolayı bu durum ger&ccedil;ekleşmemiştir.<br />
+<strong>T&uuml;rkiye, aşağıda verilen hangi tarihte ilk kez &ccedil;ok partili hayata ge&ccedil;miştir?</strong>
+    - A-) 1939
+    - **Cevap B-) 1945**
+    - C-) 1950
+    - D-) 1955
+    - E-) 1960
+    ***
+1. <strong>Atat&uuml;rk&rsquo;&uuml;n &ouml;l&uuml;m&uuml;nden sonra yaşanan gelişmeler arasında aşağıdakilerden hangisi <u>bulunmaz</u>?</strong>
+    - A-) İsmet İn&ouml;n&uuml; cumhurbaşkanı se&ccedil;ilmiştir.
+    - B-) İlk h&uuml;k&uuml;meti Celal Bayar kurmuştur.
+    - C-) İlk CHP kurultayında Atat&uuml;rk &ldquo;Ebedi Şef&rdquo;, İn&ouml;n&uuml; &ldquo;Milli Şef &ldquo; ilan edilmiştir.
+    - **Cevap D-) T&uuml;rk Ocakları kapatılmıştır.**
+    - E-) Kazım Karabekir, Ali Fuat Cebesoy, H&uuml;seyin Cahit gibi k&uuml;sk&uuml;nlerin CHP&rsquo;ye katılmaları ve milletvekili se&ccedil;ilmeleri sağlanmıştır.
+    ***
+1. <strong>&ldquo;Mason Dernekleri&rdquo; hangi d&ouml;nemde kapatılmıştır?</strong>
+    - A-) Celal Bayar D&ouml;nemi&rsquo;nde
+    - **Cevap B-) Mustafa Kemal Atat&uuml;rk D&ouml;nemi&rsquo;nde**
+    - C-) B&uuml;lent Ecevit D&ouml;nemi&rsquo;nde
+    - D-) Turgut &Ouml;zal D&ouml;nemi&rsquo;nde
+    - E-) İsmet İn&ouml;n&uuml; D&ouml;nemi&rsquo;nde
+    ***
+1. <strong>Alternatif bir resm&icirc; ideoloji yaratma ve yeni bir se&ccedil;kinler grubu oluşturma girişiminde bulunmak &uuml;zere 1932-1934 yılları arasında Yakup Kadri Karaosmanoğlu ve arkadaşlarınca &ccedil;ıkarılan dergi hangisidir?</strong>
+    - A-) Darulf&uuml;nun
+    - B-) Belleten
+    - **Cevap C-) Kadro**
+    - D-) Milli Mecmua
+    - E-) &Uuml;lk&uuml;
+    ***
+1. <strong>Mustafa Kemal Atat&uuml;rk&rsquo;&uuml;n &ouml;l&uuml;m&uuml;nden sonra 1938-1950 yılları arasında aşağıdaki devlet adamlarından hangisi cumhurbaşkanlığı yapmıştır?</strong>
+    - A-) Celal Bayar
+    - B-) Adnan Menderes
+    - C-) Fethi Okyar
+    - D-) Cemal G&uuml;rsel
+    - **Cevap E-) İsmet İn&ouml;n&uuml;**
+    ***
+1. &ldquo;&Uuml;retimin denetimi, &ccedil;alışma şartlarını d&uuml;zenleme, ihtiya&ccedil; hasıl olunca bazı malların stoklanması, t&uuml;ketimi engelleyici tedbirler alma gibi &ccedil;ok &ouml;nemli yetkileri kapsayan kanun, 19 Şubat 1940&rsquo;tan itibaren de uygulamaya konulmuştur.&rdquo;&nbsp;<br />
+<strong>Bu kanun veya karar aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Milli Korunma Kanunu**
+    - B-) Milli İktisat Kanunu
+    - C-) M&uuml;stakil Grup Kararı
+    - D-) Toprak Reformu
+    - E-) Yerli Malı Kullanma Kanunu
+    ***
+1. &hellip;&hellip;&hellip;&hellip;&hellip;.. Dergisi etrafında toplanan Recep Peker ve ekibi ise Kemalizm&rsquo;e sosyok&uuml;lt&uuml;rel bir i&ccedil;erik kazandırmaya &ccedil;alışıyordu. Her iki kesimin ortak noktası bir se&ccedil;kinler grubu &ouml;nderliğinde otoriter bir ideoloji oluşturmaktı.<br />
+<strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Kadro
+    - B-) K&uuml;&ccedil;&uuml;k Mecmua
+    - **Cevap C-) &Uuml;lk&uuml;**
+    - D-) Servet-i F&uuml;nun
+    - E-) Belleten
+    ***
+1. <strong>&ldquo;D&ouml;neminde&nbsp; T&uuml;rk Ocakları, T&uuml;rk Kadınlar Birliği, Mason Dernekleri lağvedildi. Halkevleri, halkodaları kurularak b&uuml;t&uuml;n &uuml;lkede &ouml;rg&uuml;tlenmesi sağlandı.&rdquo; ifadesinde yaptığı işlerden bahsedilen devlet adamı aşağıdakilerden hangisidir?</strong>
+    - A-) Reşit Galip
+    - B-) Ziya G&ouml;kalp
+    - C-) Ş&uuml;kr&uuml; Kaya
+    - D-) Hasan Ali Y&uuml;cel
+    - **Cevap E-) Recep Peker**
+    ***
+1. <strong>Aşağıdakilerden hangisi 18 Ocak 1940 tarihinde kabul edilen Milli Koruma Kanunu&#39;nun kapsamı dışındadır?&nbsp;</strong>
+    - A-) &Uuml;retimin denetlenmesi
+    - B-) &Ccedil;alışma şartlarının d&uuml;zenlenmesi
+    - C-) İhtiya&ccedil; durumunda bazı malların stoklanması
+    - D-) T&uuml;ketimi engelleyici tedbirler alınması
+    - **Cevap E-) T&uuml;ketimi teşvik edici tedbirler alınması**
+    ***
+1. <strong>Mustafa Kemal Atat&uuml;rk&#39;&uuml;n &ouml;l&uuml;m&uuml;nden sonra aşağıdaki devlet adamlarından hangisi Cumhurbaşkanı olarak se&ccedil;ilmiştir?</strong>
+    - A-) Cemal G&uuml;rsel
+    - **Cevap B-) İsmet İn&ouml;n&uuml;**
+    - C-) Fethi Okyar
+    - D-) Hasan Ali Y&uuml;cel
+    - E-) Adnan Menderes
+    ***
+1. <strong>Şerafettin Turan&#39;a g&ouml;re &Ccedil;ift&ccedil;iyi Topraklandırma Yasası&#39;nın (Toprak Kanunu) amacı aşağıdakilerden hangisidir?</strong>
+    - A-) Devletin topraklarını genişletmek
+    - B-) &Ccedil;ift&ccedil;ilerin b&uuml;y&uuml;k şehirlere yerleşmesini sağlamak
+    - **Cevap C-) Arazisi olmayan &ccedil;ift&ccedil;ilere toprak vermek ve yurt topraklarının s&uuml;rekli işlenmesini sağlamak, buraları boş bırakmamak**
+    - D-) Arazileri nadasa bırakarak verimli h&acirc;le getirmek
+    - E-) Belirli &uuml;r&uuml;nler dışında &uuml;r&uuml;n ekmemek
+    ***
 ## Unite 11
+1. <strong>Aşağıdakilerden hangisi II. D&uuml;nya Savaşı&#39;nın sebeplerinden biri <u>değildir</u>?</strong>
+    - A-) I. D&uuml;nya Savaşı&#39;ndan sonra kurulan yeni d&uuml;nya d&uuml;zenine tepkiler
+    - B-) Almanya&#39;nın kaybettiği s&ouml;m&uuml;rgelerini geri almak istemesi
+    - C-) Milletler Cemiyetinin sorumluluklarını yerine getirememesi
+    - D-) İtalya&#39;da iktidara gelen faşistlerin saldırgan politikaları
+    - **Cevap E-) Orta Doğu&#39;da İsrail Devleti&#39;nin kurulması**
+    ***
+1. <strong>Aşağıdakilerden hangisi II. D&uuml;nya Savaşı&#39;nın sonu&ccedil;larından biri <u>değildir</u>?&nbsp;</strong><br />
+
+    - A-) ABD yeni d&uuml;nya d&uuml;zeninin en b&uuml;y&uuml;k akt&ouml;r&uuml; oldu.
+    - B-) Almanya, Doğu ve Batı Almanya olarak ikiye ayrıldı.
+    - **Cevap C-) Almanya&#39;da Hitler ve Nazi Partisi iktidara geldi.**
+    - D-) Soğuk Savaş d&ouml;nemi başladı.
+    - E-) Kom&uuml;nizme karşı NATO kuruldu.
+    ***
+1. <strong>I. D&uuml;nya Savaşı sonrası kurulan Yeni D&uuml;nya D&uuml;zeni&rsquo;nde Fransa&rsquo;nın g&uuml;venlik endişelerini gidermek ve d&uuml;nya barışına katkı sağlamak i&ccedil;in 16 Ekim 1925&rsquo;te katılımcı devletlerin &uuml;zerinde uzlaştığı antlaşma aşağıdakilerden hangisidir?</strong>
+    - A-) Sevr Antlaşması
+    - B-) Milletler Cemiyeti Paktı
+    - C-) Lozan Antlaşması
+    - **Cevap D-) Lokarno Antlaşması**
+    - E-) Dawes Planı
+    ***
+1. <strong>I. D&uuml;nya Savaşı&rsquo;ndan galip &ccedil;ıkmasına rağmen kazanımlarından memnun kalmayan, Adriyatik&rsquo;te, Balkanlar&rsquo;da, Anadolu&rsquo;da ve Alman s&ouml;m&uuml;rgelerinin paylaşımında kendilerine haksızlık edildiğini hatta fakir akraba muamelesi yapıldığını d&uuml;ş&uuml;nen devlet aşağıdakilerden hangisidir?</strong>
+    - A-) Rusya
+    - B-) Yunanistan
+    - C-) Fransa
+    - D-) Japonya
+    - **Cevap E-) İtalya**
+    ***
+1. I. Japonya&rsquo;nın Man&ccedil;urya&rsquo;ya saldırması<br />
+II. Mussolini&rsquo;nin Akdeniz ve Orta Doğu h&acirc;kimiyetine y&ouml;nelik siyaset izlemesi<br />
+III. Hızlı silahlanan Almanya&rsquo;nın Versailles Antlaşması&rsquo;nı tanımadığını belirtmesi<br />
+IV. Montreux Antlaşması&rsquo;yla Boğazların T&uuml;rkiye&rsquo;nin egemenliğine bırakılması<br />
+V. Orta Doğu&rsquo;da İsrail Devleti&rsquo;nin kurulması<br />
+<strong>Yukarıdakilerden hangilerinin II. D&uuml;nya Savaşı&rsquo;nın başlamasında etkili olduğu <u>s&ouml;ylenemez</u>?</strong>
+    - A-) I ve II
+    - B-) II ve IV
+    - C-) III ve IV
+    - **Cevap D-) IV ve V**
+    - E-) II, III ve IV
+    ***
+1. <strong>II. D&uuml;nya Savaşı hangi olay &uuml;zerine patlak vermiştir?</strong>
+    - **Cevap A-) Almanların Polonya&rsquo;yı işgali &uuml;zerine**
+    - B-) İtalyanların Arnavutluk&rsquo;a saldırması &uuml;zerine
+    - C-) Japonların Pasifik&rsquo;te ABD donanmasına saldırması &uuml;zerine
+    - D-) Almanların Kuzey Afrika&rsquo;ya saldırması &uuml;zerine
+    - E-) Sovyetlerin Polonya&rsquo;ya saldırması &uuml;zerine
+    ***
+1. Casablanca Konferansı<br />
+II. Quebec Konferansı<br />
+III. Moskova Konferansı<br />
+IV. Tahran Konferansı<br />
+V. Postdam Konferansı<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri T&uuml;rkiye&rsquo;nin II. D&uuml;nya Savaşı&rsquo;na girişi ile ilgili gelişmelerden <u>değildir</u>?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) Yalnız III
+    - D-) I ve IV
+    - **Cevap E-) II ve V**
+    ***
+1. &ldquo;Kom&uuml;nist Enternasyonal; &Uuml;&ccedil;&uuml;nc&uuml; Enternasyonal olarak da bilinir. Vladimir Lenin ve Sovyetler Birliği Kom&uuml;nist Partisi tarafından kurulan, silahlı kuvvetler de d&acirc;hil t&uuml;m m&uuml;mk&uuml;n ara&ccedil;larla uluslararası burjuvaziyi yıkmak ve devletin tamamen yok oluşu i&ccedil;in bir ge&ccedil;iş aşaması demek olan uluslararası bir kom&uuml;nist &ouml;rg&uuml;tt&uuml;r.&rdquo;&nbsp;<br />
+<strong>Yukarıda tanımı verilen kavram aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Komintern**
+    - B-) Revizyonist
+    - C-) Mihver
+    - D-) Anschluss
+    - E-) Sudet
+    ***
+1. <strong>II. D&uuml;nya Savaşı&rsquo;nın sebepleri arasında aşağıdakilerden hangisi <u>bulunmaz</u>?</strong>
+    - **Cevap A-) T&uuml;rkiye&rsquo;nin saldırgan ve emperyalist politikalar takip etmesi**
+    - B-) I. D&uuml;nya Savaşı sonunda Yeni D&uuml;nya D&uuml;zeni&rsquo;ni kurma g&ouml;revi verilen Milletler Cemiyeti&rsquo;nin sorumluluklarını yerine getirememesi
+    - C-) Almanya&rsquo;da Nazilerin iktidarı ele ge&ccedil;irmesiyle revizyonist politikalar s&uuml;rd&uuml;rmesi
+    - D-) İtalya&rsquo;da faşistlerin iktidara gelmesiyle saldırgan politikalar takip edilmesi
+    - E-) Uzak Doğu&rsquo;da Japonya&rsquo;nın s&ouml;m&uuml;rgeci politikalar g&uuml;tmesi
+    ***
+1. <strong>II. D&uuml;nya Savaşı&rsquo;nın sonu&ccedil;ları arasında aşağıdakilerden hangisi <u>bulunmaz</u>?</strong>
+    - A-) ABD, Yeni D&uuml;nya D&uuml;zeni&rsquo;nin en b&uuml;y&uuml;k akt&ouml;r&uuml; oldu.
+    - **Cevap B-) Milletler Cemiyeti kuruldu.**
+    - C-) Nazizm, faşizm gibi totaliter rejimler yıkıldı.
+    - D-) Japonya&rsquo;da atılan atom bombaları sonucu binlerce sivil katledildi.
+    - E-) Almanya, Doğu ve Batı Almanya diye ikiye ayrıldı.
+    ***
+1. <strong>Anlamı şef, lider, yol g&ouml;sterici olan &ldquo;F&uuml;hrer&rdquo; unvanı hangi tarih&icirc; şahsiyete verilmiştir?</strong>
+    - A-) Mussolini
+    - B-) Stalin
+    - C-) Saddam H&uuml;seyin
+    - **Cevap D-) Hitler**
+    - E-) Lenin
+    ***
+1. <strong>İkinci D&uuml;nya Savaşı&rsquo;nın &ccedil;ıkmasının en &ouml;nemli nedeni aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Versay Antlaşması&rsquo;nda saptanan Avrupa siyasal yapısının ger&ccedil;ek&ccedil;i olmaması**
+    - B-) 1938 yılından itibaren Almanya&rsquo;nın saldırgan politika g&uuml;tmesi
+    - C-) Rusya&rsquo;nın Akdeniz&rsquo;de saldırgan bir politikalar izlemesi
+    - D-) Almanya&rsquo;nın &Ccedil;ekoslovakya&rsquo;nın bir b&ouml;l&uuml;m&uuml;n&uuml;, işgal etmesi
+    - E-) ABD&rsquo;nin yeni bir d&uuml;nya d&uuml;zeni kurmak istemesi
+    ***
+1. <strong>1919 ile 1933 yılları arasında Almanya&#39;yı y&ouml;netmiş olan cumhuriyetin adı aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Weimar Cumhuriyeti**
+    - B-) Versailles Cumhuriyeti
+    - C-) Wolfgang Kapp Cumhuriyeti
+    - D-) Wilhelm Cumhuriyeti
+    - E-) Nazi Cumhuriyeti
+    ***
+1. <strong>II. D&uuml;nya Savaşı sonrası hayata ge&ccedil;irilen NATO&rsquo;ya karşı kurulan uluslararası &ouml;rg&uuml;t aşağıdakilerden hangisidir?</strong>
+    - A-) Balkan Paktı
+    - B-) Orta Doğu Paktı
+    - C-) Avrupa Paktı
+    - **Cevap D-) Varşova Paktı**
+    - E-) Moskova Paktı
+    ***
+1. <strong>Aşağıdaki devletlerden hangisi II. D&uuml;nya Savaşı &ouml;ncesi İtalya&#39;nın saldırgan politikaları sonucu kurulan Akdeniz Paktına &uuml;ye <u>değildir</u>?&nbsp;</strong>
+    - A-) T&uuml;rkiye&nbsp;
+    - B-) Yunanistan&nbsp;
+    - C-) Yugoslavya
+    - D-) İngiltere&nbsp;
+    - **Cevap E-) Afganistan&nbsp;**
+    ***
+1. <strong>Aşağıdaki devletlerden hangisi&nbsp;Akdeniz Paktı&#39;nı <u>imzalamamıştır</u>?</strong>
+    - A-) T&uuml;rkiye
+    - B-) Yunanistan
+    - **Cevap C-) İtalya**
+    - D-) İngiltere
+    - E-) Yugoslavya
+    ***
 ## Unite 12
+1. <strong>T&uuml;rkiye&#39;nin, Kore Savaşı&#39;na asker g&ouml;ndermesi sonucunda 1952 yılında kabul edildiği uluslararası asker&icirc; g&uuml;venlik teşlilatı aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) NATO**
+    - B-) Birleşmiş Milletler
+    - C-) Varşova Paktı
+    - D-) CENTO
+    - E-) Balkan Antantı
+    ***
+1. II. D&uuml;nya Savaşı demokratik rejimlerin otoriter ve totaliter rejimlere karşı zaferle sonu&ccedil;lanınca d&uuml;nyada demokratik değerler y&uuml;kselmeye başladı. Buna bağlı olarak T&uuml;rkiye&#39;de tek partili siyasi rejim yumuşadı ve &ccedil;ok partili siyasi hayata ge&ccedil;iş s&uuml;reci hızlandı.<br />
+<strong>İfade edilen ilgili&nbsp;s&uuml;re&ccedil;te iktidardaki Cumhuriyet Halk Partisi&#39;ne karşı 5 Eyl&uuml;l 1945&#39;te kurulan ilk muhalefet partisi aşağıdakilerden hangisidir?&nbsp;</strong>
+    - A-) Adalet Partisi
+    - **Cevap B-) Mill&icirc; Kalkınma Partisi**
+    - C-) Liberal Parti
+    - D-) Anavatan Partisi
+    - E-) Mill&icirc; Selamet Partisi
+    ***
+1. <strong>27 Mayıs Asker&icirc; M&uuml;dahalesi&rsquo;ni yapan grubun adı ve lideri aşağıdakilerden hangisinde doğru verilmiştir?</strong>
+    - A-) Mill&icirc; Birlik Komitesi-Alparslan T&uuml;rkeş
+    - **Cevap B-) Mill&icirc;&nbsp;Birlik Komitesi-Cemal G&uuml;rsel**
+    - C-) Mill&icirc;&nbsp;Birlik Komitesi-Celal Bayar
+    - D-) Tahkikat Komisyonu-Alparslan T&uuml;rkeş
+    - E-) Mill&icirc;&nbsp;G&uuml;venlik Konseyi -Kenan Evren
+    ***
+1. <strong>1946 se&ccedil;imlerinden sonra kurulan CHP H&uuml;k&ucirc;meti&#39;nin başbakanı aşağıdaki siyaset&ccedil;ilerden hangisidir?</strong>
+    - **Cevap A-) Recep Peker**
+    - B-) İsmet İn&ouml;n&uuml;
+    - C-) Hasan Saka
+    - D-) Cel&acirc;l Bayar
+    - E-) Nuri Demirağ
+    ***
+1. <strong>T&uuml;rkiye&#39;nin siyasal tarihindeki ilk ve ger&ccedil;ek anlamda yarışmacı se&ccedil;imi aşağıdakilerden hangisidir?</strong>
+    - A-) 1946
+    - **Cevap B-) 1950**
+    - C-) 1957
+    - D-) 1961
+    - E-) 1965
+    ***
+1. <strong>1960 darbesi sonucunda kurulan Kurucu Meclis&rsquo;te temsil edilen gruplar arasında aşağıdakilerden hangisi <u>bulunmaz</u>?</strong>
+    - A-) Barolar
+    - B-) Gen&ccedil;lik &ouml;rg&uuml;tleri
+    - **Cevap C-) Demokrat Parti &uuml;yeleri**
+    - D-) Basın dernekleri
+    - E-) Yargı organları
+    ***
+1. <strong>T&uuml;rkiye&#39;de 1945 ile 1950 yılları arasında yaşanan siyasal gelişmeler aşağıdakilerden hangisiyle adlandırılabilir?</strong>
+    - A-) Parlamentarizm
+    - B-) Mill&icirc; Şef D&ouml;nemi
+    - C-) Sivilleşme s&uuml;reci
+    - D-) Tek parti anlayışının s&uuml;rd&uuml;r&uuml;lmesi
+    - **Cevap E-) Demokratikleşme s&uuml;reci**
+    ***
+1. <strong>T&uuml;rkiye hangi partinin iktidarında NATO&rsquo;ya &uuml;ye olmuştur?</strong>
+    - A-) İttihat ve Terakki Partisi
+    - **Cevap B-) Demokrat Parti**
+    - C-) Anavatan Partisi
+    - D-) Adalet Partisi
+    - E-) Cumhuriyet Halk Partisi
+    ***
+1. <strong>T&uuml;rkiye Cumhuriyeti&rsquo;nin 3. Cumhurbaşkanı ve Demokrat Parti&rsquo;nin kurucuları arasına bulunan T&uuml;rk siyaset&ccedil;i ve devlet adamı aşağıdakilerden hangisidir?</strong>
+    - A-) Adnan Menderes
+    - B-) Fuat K&ouml;pr&uuml;l&uuml;
+    - C-) Refik Saydam
+    - **Cevap D-) Celal Bayar**
+    - E-) Cevdet Sunay
+    ***
+1. <strong>&ldquo;D&ouml;rtl&uuml; Takrir&rdquo; diye bilinen &ouml;nergede imzası bulunan isimler arasında aşağıdakilerden hangisi <u>bulunmaz</u>?</strong>
+    - A-) Adnan Menderes
+    - B-) Refik Koraltan
+    - C-) Celal Bayar
+    - D-) Fuat K&ouml;pr&uuml;l&uuml;
+    - **Cevap E-) Kazım Karabekir**
+    ***
+1. <strong>T&uuml;rkiye&rsquo;nin &ccedil;ok partili siyasal hayata ge&ccedil;işinde aşağıdakilerden hangisi etkin bir rol <u>oynamamıştır</u>?</strong>
+    - A-) II. D&uuml;nya Savaşı&rsquo;nı demokratik devletlerin kazanması
+    - B-) Demokratik y&ouml;netimin Atat&uuml;rk ilkeleri gereği sayılması
+    - C-) Ekonomik sorunlar karşında halkın yeni y&ouml;netimler isteği
+    - D-) Sovyet Rusya&rsquo;nın T&uuml;rkiye&rsquo;yi tehdit etmesi
+    - **Cevap E-) TBMM oluşturulan &ldquo; M&uuml;stakil Grubun&rdquo; yaralı olması**
+    ***
+1. <strong>T&uuml;rkiye&rsquo;nin 1945&rsquo;te &ccedil;ok partili hayata ge&ccedil;iş s&uuml;recinde Celal Bayar ve arkadaşlarının fikren ve fiilen destekledikleri i&ccedil;in gazete ve matbaaları baskına uğrayan Zekeriya ve Sabiha Sertel&rsquo;in &ccedil;ıkardığı gazete aşağıdakilerden hangisidir?</strong>
+    - A-) Sabah Gazetesi
+    - **Cevap B-) Tan Gazetesi**
+    - C-) İrade-i Milliye Gazetesi
+    - D-) Cumhuriyet Gazetesi
+    - E-) Zafer Gazetesi
+    ***
+1. <strong>T&uuml;rkiye, Kore Savaşı&rsquo;na hangi siyasi iktidar d&ouml;neminde katılmıştır?</strong>
+    - A-) Anavatan Partisi
+    - **Cevap B-) Demokrat Parti**
+    - C-) Cumhuriyet Halk Partisi
+    - D-) İttihat ve Terakki Fırkası
+    - E-) Adalet Partisi
+    ***
+1. <strong>25 Haziran 1950 tarihinde başlayan Kore Savaşı&#39;na ABD&#39;den sonra asker g&ouml;nderen ilk &uuml;lke aşağıdakilerden hangisidir?&nbsp;</strong>
+    - A-) İngiltere
+    - B-) Fransa
+    - **Cevap C-) T&uuml;rkiye**
+    - D-) Japonya
+    - E-) Rusya
+    ***
+1. <strong>Aşağıdakilerden hangisi &ccedil;ok partili hayata ge&ccedil;iş s&uuml;recinde Celal Bayar ve arkadaşlarını destekleyen Tan Gazetesi&#39;nin sahibi veya sahipleridir?</strong>
+    - A-) H&uuml;seyin Hilmi&nbsp;
+    - B-) Velid Eb&uuml;ziyya&nbsp;
+    - C-) Hakkı Tarık Us&nbsp;
+    - **Cevap D-) Zekeriya-Sabiha Sertel&nbsp;**
+    - E-) Refik Halit Karay&nbsp;
+    ***
+1. <strong>Demokrat Parti&#39;nin ilk genel başkanlığına se&ccedil;ilen siyaset&ccedil;i aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Celal Bayar**
+    - B-) Adnan Menderes
+    - C-) Fuat K&ouml;pr&uuml;l&uuml;
+    - D-) K&acirc;zım Karabekir
+    - E-) Recep Peker
+    ***
+1. <strong>&ldquo;D&ouml;rtl&uuml; Takrir&rdquo; diye bilinen &ouml;nergede aşağıdaki isimlerden hangisinin imzası bulunmaktadır?</strong>
+    - A-) İsmet İn&ouml;n&uuml;
+    - B-) Cemal G&uuml;rsel
+    - C-) K&acirc;zım Karabekir
+    - **Cevap D-) Celal Bayar**
+    - E-) Alparslan T&uuml;rkeş
+    ***
+1. <strong>Aşağıdakilerden hangisi Demokrat Parti&rsquo;nin kurucularından&nbsp;<u>değildir</u>?</strong>
+    - A-) Celal Bayar
+    - **Cevap B-) Recep Peker**
+    - C-) Adnan Menderes
+    - D-) Refik Koraltan
+    - E-) Fuat K&ouml;pr&uuml;l&uuml;
+    ***
 ## Unite 13
+1. <strong>Atat&uuml;rk&#39;&uuml;n, T&uuml;rk toplumunu sınıfsız, imtiyazsız, kaynaşmış bir kitle olarak tanımlamladığı ilke aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Halk&ccedil;ılık**
+    - B-) İnkılap&ccedil;ılık
+    - C-) Devlet&ccedil;ilik
+    - D-) Cumhuriyet&ccedil;ilik
+    - E-) Laiklik
+    ***
+1. <strong>Aşağıda&nbsp; verilen ifadelerden hangisi doğru <u>değildir</u>?</strong>
+    - **Cevap A-) Monarşik y&ouml;netimler veraset şartını reddeder.**
+    - B-) Her Cumhuriyet demokratik değildir.
+    - C-) Cumhuriyet rejiminde mutlaka se&ccedil;im vardır.
+    - D-) En gelişmiş toplum d&uuml;zenine millet denir.
+    - E-) Cumhuriyet rejiminde egemenlik milletindir
+    ***
+1. <strong>T&uuml;rk inkılabının korunması, aklın ve bilimin yol g&ouml;stericiliğinde &ccedil;ağın ger&ccedil;eklerine g&ouml;re s&uuml;rekli olarak geliştirilmesi ve yenilenmesi aşağıdaki Atat&uuml;rk ilkelerinden hangisidir?</strong>
+    - A-) Milliyet&ccedil;ilik
+    - B-) Devlet&ccedil;ilik
+    - C-) Halk&ccedil;ılık
+    - **Cevap D-) İnkılap&ccedil;ılık**
+    - E-) Cumhuriyet&ccedil;ilik
+    ***
+1. <strong>Altı Atat&uuml;rk ilkesinin Anayasa&#39;ya girmesi hangi yıl olmuştur?</strong>
+    - A-) 1921
+    - B-) 1924
+    - C-) 1928
+    - D-) 1935
+    - **Cevap E-) 1937**
+    ***
+1. <strong>Atat&uuml;rk milliyet&ccedil;iliğinin temel &ouml;ğesi aşağıdakilerden hangisidir?</strong>
+    - A-) Irk birliği
+    - **Cevap B-) Birlikte yaşama konusunda ortak istek**
+    - C-) Siyasi birlik
+    - D-) Vatan birliği
+    - E-) Din birliği
+    ***
+1. <strong>T&uuml;rkiye&rsquo;de Cumhuriyet idaresi hangi ilkenin doğal sonucu olarak kurulmuştur?</strong>
+    - A-) Halk&ccedil;ılık ilkesinin
+    - B-) Laiklik ilkesinin
+    - **Cevap C-) Cumhuriyet&ccedil;ilik ilkesinin**
+    - D-) Milliyet&ccedil;ilik ilkesinin
+    - E-) İnkılap&ccedil;ılık ilkesinin
+    ***
+1. <strong>Halk&ccedil;ılık, aşağıdaki Atat&uuml;rk ilkelerinden hangilerinin doğal bir sonucudur?</strong>
+    - A-) Devlet&ccedil;ilik ve Laiklik
+    - B-) İnkılap&ccedil;ılık ve Laiklik
+    - C-) Devlet&ccedil;ilik ve İnkılap&ccedil;ılık
+    - **Cevap D-) Cumhuriyet&ccedil;ilik ve Milliyet&ccedil;ilik**
+    - E-) Laiklik ve Milliyet&ccedil;ilik
+    ***
+1. <strong>Toplumsal sınıfları ve ayrıcalıkları ortadan kaldıran ilke aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Halk&ccedil;ılık**
+    - B-) Milliyet&ccedil;ilik
+    - C-) Cumhuriyet&ccedil;ilik
+    - D-) Devlet&ccedil;ilik
+    - E-) Laiklik
+    ***
+1. <strong>&ldquo;Her millet, kendi devletini kurup, kendi isteğine g&ouml;re kendisini y&ouml;netmelidir.&rdquo; g&ouml;r&uuml;ş&uuml; aşağıda verilen hangi iki ilkeye uygundur?</strong>
+    - A-) İnkılap&ccedil;ılık-Laiklik
+    - **Cevap B-) Milliyet&ccedil;ilik-Halk&ccedil;ılık**
+    - C-) Laiklik-Halk&ccedil;ılık
+    - D-) Devlet&ccedil;ilik-Laiklik
+    - E-) Devlet&ccedil;ilik-İnkılap&ccedil;ılık
+    ***
+1. &ldquo;Cumhuriyetin en &ouml;nemli &ouml;zelliği, millet egemenliğine dayanması ve demokrasiyi benimsemesidir.&rdquo;<br />
+<strong>Bu bilgiye g&ouml;re aşağıdakilerden hangisi Cumhuriyet rejiminin nitelikleri arasında <u>sayılmaz</u>?</strong>
+    - A-) Millet egemenliğine dayanması
+    - B-) &Ccedil;ağa en uygun bir sistem olması
+    - C-) Demokrasinin en gelişmiş şekli olması
+    - D-) Milli iradeyi her şeyden &uuml;st&uuml;n tutması
+    - **Cevap E-) T&uuml;m devlet g&ouml;revlilerinin se&ccedil;imle iş başına gelmesi**
+    ***
+1. <strong>İnan&ccedil; &ouml;zg&uuml;rl&uuml;ğ&uuml;n&uuml; g&uuml;vence altına alma amacını aşağıdaki ilkelerden hangisi taşımaktadır?</strong>
+    - A-) Devlet&ccedil;ilik
+    - B-) Halk&ccedil;ılık
+    - **Cevap C-) Laiklik**
+    - D-) Cumhuriyet&ccedil;ilik
+    - E-) Milliyet&ccedil;ilik
+    ***
+1. <strong>Cumhuriyet&ccedil;ilik ilkesinin &ouml;zellikleri arasında aşağıdakilerden hangisi <u>bulunmaz</u>?</strong>
+    - A-) Y&ouml;netimde millet egemenliğini esas alan ilkedir.
+    - B-) Veraset sistemi yoktur.
+    - **Cevap C-) Se&ccedil;imler muhakkak beş yılda bir yapılır.**
+    - D-) Y&ouml;neticilerin belirlenmesinde se&ccedil;im esas alınmıştır.
+    - E-) Karar verecek en &ouml;nemli organ millettir.
+    ***
+1. <strong>Aşağıdakilerden hangisi Atat&uuml;rk ilkelerinden biri <u>değildir</u>?</strong>
+    - A-) Milliyet&ccedil;ilik
+    - B-) Halk&ccedil;ılık
+    - C-) Laiklik
+    - D-) Devlet&ccedil;ilik
+    - **Cevap E-) Mill&icirc; Egemenlik**
+    ***
+1. Millet h&acirc;kimiyetine dayanan, millet h&acirc;kimiyetinin belli s&uuml;reler i&ccedil;in se&ccedil;ilmişler vasıtasıyla kullanıldığı devlet şeklidir. Egemenliği kullanan halkın işbaşına geldiği devletin adıdır.<br />
+<strong>Yukarıdaki ifade Atat&uuml;rk ilkelerinden hangisi ile bağdaşmaktadır?</strong><br type="_moz" />
+
+    - **Cevap A-) Cumhuriyet&ccedil;ilik**
+    - B-) Milliyet&ccedil;ilik
+    - C-) Halk&ccedil;ılık
+    - D-) Devlet&ccedil;ilik
+    - E-) Laiklik
+    ***
+1. Devletin kısa zamanda kalkınması i&ccedil;in &ouml;zellikle ekonomik alanda fertlerin yapamayacağı yatırımları devletin yapması ve ekonomiyi geliştirmek, sosyal ve k&uuml;lt&uuml;rel kalkınmayı sağlamak i&ccedil;in bir&ccedil;ok &ccedil;alışma yapılmıştır.<br />
+<strong>Yukarıdaki ifade Atat&uuml;rk İlkeleri&#39;nden hangisine dayanır?</strong>
+    - A-) Cumhuriyet&ccedil;ilik
+    - B-) Halk&ccedil;ılık
+    - **Cevap C-) Devlet&ccedil;ilik**
+    - D-) Laiklik
+    - E-) Milliyet&ccedil;ilik
+    ***
+1. <strong>Din ve devlet işlerinin birbirinden ayrılması, din&icirc; inan&ccedil;ların devlet y&ouml;netiminde ve siyasette rol oynamaması esasına dayanan ilke aşağıdakilerden hangisidir?</strong>
+    - A-) İnkılap&ccedil;ılık
+    - B-) Milliyet&ccedil;ilik
+    - C-) Cumhuriyet&ccedil;ilik
+    - D-) Halk&ccedil;ılık
+    - **Cevap E-) Laiklik**
+    ***
 ## Unite 14
+1. <strong>&quot;H&acirc;kimiyet kayıtsız şartsız milletindir.&quot; ifadesi aşağıdaki Atat&uuml;rk ilkelerinden hangisini tamamlar?</strong>
+    - A-) Devlet&ccedil;ilik
+    - **Cevap B-) Cumhuriyet&ccedil;ilik**
+    - C-) İnkılap&ccedil;ılık
+    - D-) Halk&ccedil;ılık
+    - E-) Laiklik
+    ***
+1. <strong>Atat&uuml;rk&#39;&uuml;n, &quot;D&uuml;nyada her şey i&ccedil;in, medeniyet i&ccedil;in, hayat i&ccedil;in, muvaffakiyet i&ccedil;in en hakiki m&uuml;rşit ilimdir, fendir. İlim ve fennin haricinde m&uuml;rşit aramak gaflettir, cehalettir, dalalettir.&quot; s&ouml;z&uuml;yle ifade ettiği d&uuml;nya g&ouml;r&uuml;ş&uuml;n&uuml;n temelindeki b&uuml;t&uuml;nleyici ilke aşağıdakilerden hangisidir?&nbsp;</strong><br type="_moz" />
+
+    - A-) Mill&icirc; birlik ve beraberlik
+    - **Cevap B-) Bilimsellik ve akılcılık**
+    - C-) Tam bağımsızlık
+    - D-) İnsan ve insanlık sevgisi
+    - E-) Mill&icirc; egemenlik
+    ***
+1. <strong>Atat&uuml;rk&#39;&uuml;n &ccedil;ağdaşlaşma anlayışı, her zaman yeni gelişmelere, bilim ve teknolojiye a&ccedil;ık olmayı ve T&uuml;rk milletini en ileri seviyeye ulaştırmayı hedeflediğini vurgulayan ilke aşağıdakilerden hangisidir?</strong>
+    - A-) Cumhuriyet&ccedil;ilik
+    - B-) Laiklik
+    - C-) Milliyet&ccedil;ilik
+    - **Cevap D-) İnkılap&ccedil;ılık**
+    - E-) Halk&ccedil;ılık
+    ***
+1. <strong>Aşağıdakilerden hangisi Atat&uuml;rk&ccedil;&uuml;l&uuml;ğ&uuml;n temel niteliklerinden biri <u>değildir</u>?</strong>
+    - A-) Mill&icirc; birlik ve beraberlik
+    - B-) Tam bağımsızlık
+    - C-) Akılcılık ve bilimsellik
+    - D-) Vatan ve millet sevgisi
+    - **Cevap E-) Hayalperestlik**
+    ***
+1. <strong>T&uuml;rkiye&rsquo;de Laiklik ilkesinin yerleşmesinin aşamaları arasında aşağıdakilerden hangisi bulunmaktadır?</strong>
+    - A-) I. T&uuml;rkiye İzmir İktisat Kongresi&rsquo;nin toplanması
+    - B-) Tek&acirc;lif-i Mill&icirc;ye kararlarının ilanı
+    - C-) Aşar Vergisi&rsquo;nin kaldırılması
+    - **Cevap D-) T&uuml;rk Medeni Kanunu&rsquo;nun kabul&uuml;**
+    - E-) Planlı ekonomiye ge&ccedil;ilmesi
+    ***
+1. Soyadı Kanunu&rsquo;nun &ccedil;ıkması ile .................. ilkesinin ger&ccedil;ekleşmesinde &ouml;nemli bir adım atılmış oldu.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
+
+    - A-) &Ccedil;ağdaşlaşma
+    - B-) Devlet&ccedil;ilik
+    - C-) Laiklik
+    - D-) Milliyet&ccedil;ilik
+    - **Cevap E-) Halk&ccedil;ılık**
+    ***
+1. <strong>Atat&uuml;rk&ccedil;&uuml;l&uuml;ğ&uuml;n laiklik ilkesine aşağıdakilerden hangisi <u>uymaz</u>?</strong>
+    - A-) Her T&uuml;rk vatandaşı dinini se&ccedil;mekte &ouml;zg&uuml;rd&uuml;r.
+    - B-) Hi&ccedil; kimse din değiştirmeye zorlanamaz.
+    - C-) Hi&ccedil; kimsenin ibadetine dokunulamaz.
+    - **Cevap D-) Devlet bazı din&icirc; inanışların yayılmasına yardımcı olur.**
+    - E-) Devletin resm&icirc; dini yoktur.
+    ***
+1. <strong>Atat&uuml;rk&ccedil;&uuml; D&uuml;ş&uuml;nce Sistemi&rsquo;nde Halk&ccedil;ılık ilkesinin gerektirdiği unsurlar arasında aşağıdakilerden hangisi <u>bulunmaz</u>?</strong>
+    - **Cevap A-) Sınıf ayrımı**
+    - B-) Kanun &ouml;n&uuml;nde eşitlik
+    - C-) Sosyal dayanışma
+    - D-) Ayrıcalıklara karşı olma
+    - E-) Siyas&icirc; demokrasi
+    ***
+1. <strong>Atat&uuml;rk&rsquo;&uuml;n b&uuml;t&uuml;nleyici ilkelerinden hangisi Cumhuriyet&ccedil;ilik temel ilkesini b&uuml;t&uuml;nler?</strong>
+    - A-) Mill&icirc; Birlik ve Beraberlik İlkesi
+    - **Cevap B-) Mill&icirc; Egemenlik İlkesi**
+    - C-) Yurtta Sulh, Cihanda Sulh İlkesi
+    - D-) Tam Bağımsızlık İlkesi
+    - E-) Akılcılık ve Bilimsellik İlkesi
+    ***
+1. <strong>&ldquo;Millet ve biz yok, birlik h&acirc;linde millet var. Biz ve millet ayrı ayrı şeyler değiliz.&rdquo; Atat&uuml;rk&rsquo;&uuml;n bu ifadesi hangi b&uuml;t&uuml;nleyici ilke ile ilgilidir?</strong>
+    - **Cevap A-) Mill&icirc; birlik, beraberlik ve &uuml;lke b&uuml;t&uuml;nl&uuml;ğ&uuml;**
+    - B-) Mill&icirc; egemenlik
+    - C-) Barış&ccedil;ılık
+    - D-) Bilimsellik
+    - E-) &Ccedil;ağdaşlık
+    ***
+1. -Bir milletin h&uuml;r şekilde yaşamasını ifade eder.<br />
+-Başka bir devlete bağımlı olmamak demektir.<br />
+-Devletin dış politikasının temel ilkelerindendir.<br />
+-Y&ouml;netim ve ekonomi alanındaki gelişmelerle doğrudan ilgilidir.<br />
+<strong>Yukarıda &ouml;zellikleri verilen b&uuml;t&uuml;nleyici ilke hangisidir?</strong>
+    - A-) Mill&icirc; egemenlik
+    - B-) Bilimsellik ve akılcılık
+    - **Cevap C-) Tam bağımsızlık**
+    - D-) Yurtta sulh, cihanda sulh
+    - E-) &Ccedil;ağdaşlaşma ve Batılılaşma
+    ***
+1. <strong>Atat&uuml;rk&ccedil;&uuml; D&uuml;ş&uuml;nce Sisteminin temel nitelikleri arasında aşağıdakilerden hangisi <u>bulunmaz</u>?</strong>
+    - **Cevap A-) Yayılmacılık ve s&ouml;m&uuml;rgecilik**
+    - B-) H&acirc;kimiyetin millete ait oluşu
+    - C-) Mill&icirc; tarih ve mill&icirc; dil
+    - D-) Akılcılık ve bilimsellik
+    - E-) Mill&icirc; birlik ve beraberlik anlayışı
+    ***
+1. <strong>Atat&uuml;rk&ccedil;&uuml;l&uuml;k&#39;le aşağıdakilerden hangisi <u>bağdaşmaz</u>?</strong>
+    - A-) &Uuml;lkenin bağımsızlığını koruma
+    - **Cevap B-) Ekonomik kalkınmayı yabancı sermayeye dayandırma**
+    - C-) Y&ouml;netimi ulus egemenliğine bağlı tutma
+    - D-) &Ccedil;ağdaş uygarlık d&uuml;zeyine ulaştırma
+    - E-) Kalkınmada aklın ve bilimin rehberliğini temel alma
+    ***
+1. Atat&uuml;rk&ccedil;&uuml; d&uuml;ş&uuml;nce sistemini oluşturan Atat&uuml;rk&rsquo;&uuml;n temel ilkelerini, &ccedil;eşitli y&ouml;nleriyle destekleyen ve tamamlayan ilkelere &hellip;&hellip;&hellip;&hellip;&hellip;.. ilkeler denir.<br />
+<strong>C&uuml;mlesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Bilimsel
+    - B-) İnsancıl
+    - **Cevap C-) B&uuml;t&uuml;nleyici**
+    - D-) Barış&ccedil;ı
+    - E-) Akılcı
+    ***
+1. <strong>Atat&uuml;rk&ccedil;&uuml;l&uuml;ğ&uuml;n &ouml;zellikleri arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
+    - A-) Akla, mantığa ve bilime dayanır.
+    - B-) &Ccedil;ok y&ouml;nl&uuml; idealler b&uuml;t&uuml;n&uuml;d&uuml;r.
+    - C-) Kendi i&ccedil;inde tutarlı ve birbirine bağlı ilkelerdir.
+    - D-) Mill&icirc; bir &ouml;zelliğe sahiptir.
+    - **Cevap E-) Yabancı ideolojilerden etkilenmiştir.**
+    ***
+1. D&uuml;nyada her şey i&ccedil;in, medeniyet i&ccedil;in, hayat i&ccedil;in, muvaffakiyet i&ccedil;in en hakiki m&uuml;rşit ilimdir, fendir.<br />
+<strong>Atat&uuml;rk&rsquo;&uuml;n bu s&ouml;z&uuml; b&uuml;t&uuml;nleyici ilkelerden hangisiyle ilgilidir?</strong>
+    - A-) &Uuml;lke b&uuml;t&uuml;nl&uuml;ğ&uuml;
+    - B-) Mill&icirc; egemenlik
+    - C-) Tam bağımsızlık
+    - D-) &Ccedil;ağdaşlaşma
+    - **Cevap E-) Bilimsellik ve akılcılık**
+    ***
+1. <strong>T&uuml;rkiye Cumhuriyeti&rsquo;nin kurulmasından sonra da dış politika prensibi olarak kabul edilen ve her zaman barıştan yana olan&nbsp; b&uuml;t&uuml;nleyici ilke aşağıdakilerden hangisidir?</strong>
+    - A-) &Ccedil;ağdaşlaşma ve Batılılaşma
+    - **Cevap B-) Yurtta Sulh, Cihanda Sulh**
+    - C-) Mill&icirc; Birlik, Beraberlik ve &Uuml;lke B&uuml;t&uuml;nl&uuml;ğ&uuml;
+    - D-) Tam Bağımsızlık
+    - E-) Mill&icirc; Egemenlik
+    ***

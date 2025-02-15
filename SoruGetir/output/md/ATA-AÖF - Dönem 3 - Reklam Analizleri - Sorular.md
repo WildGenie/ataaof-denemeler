@@ -90,6 +90,13 @@ IV. Pazarlama stratejileri<br />
     - D-) Kuramla ilişkilendirme
     - E-) Se&ccedil;me-İndirgeme
     ***
+1. <strong>Aşağıdakilerden hangisi i&ccedil;erik analizi tekniğinin karşıladığı sosyopolitik ihtiya&ccedil;lar kapsamında <u>yer almaz</u>?</strong> 
+    - A-) Toplumların kendini ger&ccedil;ekleştirme ihtiyacına g&ouml;re incelenmesi
+    - B-) Propaganda analizi
+    - C-) Sosyal etki s&uuml;re&ccedil;leri
+    - D-) Dış politika kararlarının incelenmesi
+    - **Cevap E-) Hedef kitle gelirinin incelenmesi**
+    ***
 1. <strong>Aşağıdakilerden hangisi g&ouml;rsel-işitsel ortamlardaki reklam kontrol noktalarından biri <u>değildir</u>?</strong> 
     - A-) Reklamın yerleşimi
     - B-) Reklamın dili
@@ -330,6 +337,23 @@ III. Yaratıcı fikrin hedef kitleye ulaşabilmesi i&ccedil;in g&uuml;&ccedil;l&
     - D-) &Uuml;r&uuml;n&uuml;n hedef t&uuml;keticinin zihninde yer etmesine
     - E-) T&uuml;keticide marka bağlılığı yaratılmasına
     ***
+1. I.&nbsp;Marka ve hedef kitle arasında ilişki kurmak<br />
+II.&nbsp;Satış fikri sunmak<br />
+III. Beklenmedik olmak<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri yaratıcı reklamın başlıca &ouml;zelliklerindendir?</strong>
+    - A-) Yalnız II
+    - B-) I ve II
+    - C-) I ve III
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. <strong>Aşağıdakilerden hangisi bilgisel stratejiler i&ccedil;erisinde <u>yer almaz</u>?</strong>
+    - A-) Jenerik
+    - B-) Karşılaştırmalı
+    - **Cevap C-) Duyumsama**
+    - D-) &Ouml;nc&uuml; &uuml;st&uuml;nl&uuml;k
+    - E-) Abartma
+    ***
 1. <strong>Aşağıdakilerden hangisi transformasyonel stratejilerden biridir?</strong>
     - A-) Karşılaştırmalı strateji
     - B-) Abartma stratejisi
@@ -352,11 +376,9 @@ III. Yaratıcı fikrin hedef kitleye ulaşabilmesi i&ccedil;in g&uuml;&ccedil;l&
     - E-) Akılda kalan
     ***
 1. I. Diğerlerinden ayrılan tek ya da &uuml;st&uuml;n &ouml;zellikli &uuml;r&uuml;nler i&ccedil;in kullanılmaktadır.<br />
-II. &Uuml;r&uuml;n&uuml;n/hizmetin diğer markalardan farklı olarak taşıdığı biricik &ouml;zellik, vaat olarak sunulmaktadır.<br />
-III. &Uuml;st&uuml;nl&uuml;k iddiası taşıdığı i&ccedil;in rakipleri tarafından taklit edilemez.<br />
-IV. Rakipleri ancak agresif stratejiler kullanarak markanın karşısına &ccedil;ıkabilir.<br />
-V. Genellikle teknolojik &ouml;zelliklerin &ouml;nemli olduğu kategoriler i&ccedil;in uygun bir stratejidir.<br />
-VI. &ldquo;T&uuml;ketici markayı hangi &ouml;zelliği y&uuml;z&uuml;nden satın almalı?&rdquo; ve &ldquo;T&uuml;ketici bu markayı satın almakla nasıl farklı bir fayda kazanmalı?&rdquo; sorularına yanıt aramaktadır.<br />
+II. &Uuml;st&uuml;nl&uuml;k iddiası taşıdığı i&ccedil;in rakipleri tarafından taklit edilemez.<br />
+III. Rakipleri ancak agresif stratejiler kullanarak markanın karşısına &ccedil;ıkabilir.<br />
+IV. Genellikle teknolojik &ouml;zelliklerin &ouml;nemli olduğu kategoriler i&ccedil;in uygun bir stratejidir.<br />
 <strong>&Ouml;zellikleri verilen strateji aşağıdakilerden hangisidir?</strong>
     - A-) Marka imajı
     - B-) Abartma
@@ -591,6 +613,13 @@ III. Derinlik<br />
     - D-) Tasarımın kendi karakteristiğine uygun se&ccedil;ilen renkler
     - **Cevap E-) Rastgele, herhangi bir unsura bağlı kalınmadan se&ccedil;ilen renkler**
     ***
+1. <strong>Aşağıdakilerden hangisi izleyici &uuml;zerinde hareket algısı uyandırmaktadır?</strong>
+    - **Cevap A-) &Ccedil;apraz &ccedil;izgiler**
+    - B-) D&uuml;z &ccedil;izgiler
+    - C-) Yatay &ccedil;izgiler
+    - D-) Dikey &ccedil;izgiler
+    - E-) Teğet &ccedil;izgiler
+    ***
 ## Unite 4
 1. .........................., genelde &ccedil;er&ccedil;eveden hafif taşacak şekilde arka planı ortadan kaldıran bir yapıya sahiptir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
@@ -677,6 +706,13 @@ III. Derinlik<br />
     - D-) Arka ışık
     - E-) Dolgu ışık
     ***
+1. <strong>Amerikan plan ya da 3/4 &ccedil;ekim &ouml;l&ccedil;eği olarak adlandırılan &ccedil;ekim aşağıdakilerden hangisidir?</strong> 
+    - A-) Detay &ccedil;ekim
+    - B-) Boy &ccedil;ekim
+    - **Cevap C-) Diz &ccedil;ekim**
+    - D-) Genel &ccedil;ekim
+    - E-) Uzak &ccedil;ekim
+    ***
 1. .................. kullanmanın dramatik etkisiyle sahnelerde kişi &ccedil;aresiz, zavallı, aşağılanmış, sıkıntılı bir durumda yansıtılabilir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
     - A-) Alt a&ccedil;ı
@@ -721,7 +757,7 @@ III. Derinlik<br />
     - D-) &Ccedil;izgi
     - **Cevap E-) Dolly**
     ***
-1. <strong>Kompozisyonda dengenin d&uuml;zenlenmesiyle ilgili olarak verilen aşağıdaki ifadelerden hangisi doğru <u>değildir</u>?</strong> 
+1. <strong>Kompozisyonda dengenin d&uuml;zenlenmesiyle ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong> 
     - **Cevap A-) Sabit bir nesne hareketli bir nesneden daha ağırdır.**
     - B-) Resmin &uuml;st b&ouml;l&uuml;m&uuml; alt b&ouml;l&uuml;m&uuml;nden daha ağırdır.
     - C-) D&uuml;zg&uuml;n şekilli nesneler daha ağırdır.
@@ -734,6 +770,15 @@ III. Derinlik<br />
     - C-) Flycam
     - **Cevap D-) Tilt**
     - E-) Dolly
+    ***
+1. Genellikle reklamcılar &ccedil;ekecekleri reklam filmleri i&ccedil;in&nbsp;...................... (resimli taslak) &ccedil;alışmaları yaparak reklam filminin her karesini&nbsp;tasarlamaktadırlar.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
+
+    - A-) flashback
+    - **Cevap B-) storyboard&nbsp;**
+    - C-) flycam
+    - D-) zoom
+    - E-) dolly
     ***
 1. <strong>Amerikan plan ya da 3/4 &ccedil;ekim &ouml;l&ccedil;eği olarak da adlandırılan &ccedil;ekim &ouml;l&ccedil;eği aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Diz &ccedil;ekim**
@@ -770,6 +815,17 @@ III. Derinlik<br />
     - C-) Seyirci bu bakış a&ccedil;ısından sahnede verilen olayı tarafsız bir bakışla izler.
     - D-) Sahneyi, o sahne i&ccedil;inde yer alan herhangi bir kişinin bakış a&ccedil;ısından sunmadıkları i&ccedil;in kişisel değildir.
     - **Cevap E-) İzleyici perde hareketine kişisel bir deneyim olarak katılır, &acirc;deta film i&ccedil;erisine yerleştirilir.**
+    ***
+1. I.&nbsp; &nbsp;Kamera yukarı doğru eğimlidir.<br />
+II.&nbsp; Kamera &ccedil;ekimi yapılacak nesneden aşağıdadır.<br />
+III. Dramatik olarak yarattığı etki; saygınlık, y&uuml;celik ve g&uuml;&ccedil; kazandırıcıdır.<br />
+IV. Bu a&ccedil;ıyla &ccedil;ekilen kişiler daha heybetli bir g&ouml;r&uuml;nt&uuml; kazanırlar.<br />
+<strong>&Ouml;zellikleri verilen kamera a&ccedil;ısı aşağıdakilerden hangisidir?</strong> 
+    - A-) &Uuml;st a&ccedil;ı
+    - B-) &Ouml;znel a&ccedil;ı
+    - C-) Eğik a&ccedil;ı
+    - D-) G&ouml;z hizası
+    - **Cevap E-) Alt a&ccedil;ı**
     ***
 1. <strong>Psikolojik dengenin yitirilmesini sergilemek ya da sarhoşluk anlatımlarında kullanılan kamera a&ccedil;ısı aşağıdakilerden hangisidir?&nbsp;</strong>
     - A-) Alt a&ccedil;ı
@@ -953,6 +1009,13 @@ III.&nbsp;S&ouml;zs&uuml;z iletişim gizli anlamlar iletme &ouml;zelliğine sahi
     - D-) I ve III
     - **Cevap E-) I, II ve III**
     ***
+1. <strong>Genellikle s&ouml;zel ifadelerin g&uuml;&ccedil;lendirilmesi amacı ile ortaya &ccedil;ıkan el, kol ve&nbsp;bacak hareketlerine ne ad verilmektedir?</strong>
+    - A-) &Uuml;slup
+    - B-) Geri bildirim
+    - **Cevap C-) Jest**
+    - D-) Y&ouml;ndeşme
+    - E-) İleti
+    ***
 1. Kişiler arası mesafe t&uuml;rleri, merkezinde kişinin yer aldığı, sınırları ve alanı gittik&ccedil;e artan &ccedil;emberler (alanlar) olarak nitelenebilir.<br />
 <strong>Bu anlamda kişinin &ccedil;ok yakınları ile paylaştığı (en yakın) alan aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Mahrem alan**
@@ -985,6 +1048,13 @@ IV. Vurgulamak<br />
     - C-) S&ouml;zs&uuml;z iletişim gizli anlamlar iletme &ouml;zelliğine sahiptir.
     - D-) Bir s&ouml;zs&uuml;z davranış, i&ccedil;inde yer aldığı bağlam dikkate alınmaksızın yorumlandığında yanlış anlamlar y&uuml;klenebilir.
     - **Cevap E-) S&ouml;zs&uuml;z iletişim, seslerin s&ouml;zc&uuml;klere d&ouml;n&uuml;şmesiyle ger&ccedil;ekleşir.**
+    ***
+1. <strong>Aşağıdakilerden hangisi renklerin karakter &uuml;zerindeki anlamlarından biri <u>değildir</u>?&nbsp;</strong>
+    - A-) Beyaz:&nbsp;Temiz, &ouml;l&ccedil;&uuml;l&uuml;, sade
+    - **Cevap B-) Siyah: Neşeli, mantıksal d&uuml;ş&uuml;nen**
+    - C-) Yeşil: Sabırlı, teredd&uuml;tl&uuml;
+    - D-) Mor: &Uuml;z&uuml;nt&uuml;l&uuml;, melankolik
+    - E-) Mavi: Sakin, dingin
     ***
 1. <strong>Aşağıdakilerden hangisi reklamın başarılı olmasında s&ouml;zs&uuml;z iletişimin rol&uuml;n&uuml; <u>yansıtmaz</u>?</strong>
     - A-) Reklamlarda s&ouml;zs&uuml;z g&ouml;stergeler aracılığıyla kişilere orada oldukları hissi verilebilir.
@@ -1038,8 +1108,7 @@ IV. Vurgulamak<br />
     - D-) Etkinlik y&ouml;nelimi
     - E-) İnsan-zaman y&ouml;nelimi
     ***
-1. UNESCO tarafından d&uuml;zenlenen D&uuml;nya K&uuml;lt&uuml;r Politikaları Konferansı Sonu&ccedil; Bildirgesi&rsquo;ne g&ouml;re k&uuml;lt&uuml;r, &ldquo;bir toplumu ya da bir sosyal grubu maddi, manevi, entelekt&uuml;el ve duygusal &ouml;zellikleri kapsayan, diğerlerinden ayırt edici &ouml;zelliklerin toplamı&rdquo; olarak tanımlanmaktadır.<br />
-<strong>Bu tanımlama aşağıdaki k&uuml;lt&uuml;r sınıflandırmasından hangisini ifade etmektedir?</strong> 
+1. <strong>Bir toplumun ya da &uuml;lkenin her sosyal grubu ve coğrafyasında ge&ccedil;erli olan, benimsenen ve yaşanan egemen değer ve unsurları kapsayan k&uuml;lt&uuml;r aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Ulusal k&uuml;lt&uuml;r**
     - B-) Alt k&uuml;lt&uuml;r
     - C-) Pop&uuml;ler k&uuml;lt&uuml;r
@@ -1164,6 +1233,14 @@ III. Zaman &ouml;ncelikler temelinde planlanır ve d&uuml;zenli kullanılır.<br
     - D-) Y&uuml;ksek K&uuml;lt&uuml;r
     - **Cevap E-) Ulusal k&uuml;lt&uuml;r**
     ***
+1. Aynı k&uuml;lt&uuml;rdeki bireyler i&ccedil;in belirli anlamlara sahip olan s&ouml;zc&uuml;kler, jestler, resim ya da nesneler ................... olarak ifade edilebilir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) değer
+    - B-) rit&uuml;el
+    - C-) kahraman
+    - **Cevap D-) sembol**
+    - E-) norm
+    ***
 1. <strong>Bir toplumdaki cinsiyete dayalı rollerin birbiri ile kesişmesi, hem kadın hem de erkeklerin al&ccedil;ak g&ouml;n&uuml;ll&uuml;, duyarlı ve dayanışmaya &ouml;nem veren &ouml;zelliklere sahip olduğu k&uuml;lt&uuml;rel yapı aşağıdakilerden hangisidir?</strong> 
     - **Cevap A-) Dişil**
     - B-) Eril
@@ -1177,6 +1254,16 @@ III. Zaman &ouml;ncelikler temelinde planlanır ve d&uuml;zenli kullanılır.<br
     - C-) Ger&ccedil;ek k&uuml;lt&uuml;r
     - D-) Ulusal k&uuml;lt&uuml;r
     - E-) Alt k&uuml;lt&uuml;r
+    ***
+1. I. K&uuml;lt&uuml;r, zaman i&ccedil;erisinde toplumda ortaya &ccedil;ıkan ihtiya&ccedil;lar doğrultusunda değişebilme &ouml;zelliği g&ouml;sterir.<br />
+II. K&uuml;lt&uuml;r soyut bir &ouml;zelliğe sahiptir, ancak g&ouml;zlemlenebilir d&uuml;zeydeki olaylar, konular ya da kurumlar aracılığı ile g&ouml;r&uuml;n&uuml;r h&acirc;le gelmektedir.<br />
+III. K&uuml;lt&uuml;r, zaman i&ccedil;inde gelenek, g&ouml;renek, t&ouml;ren vb. şekillerde aktarılarak s&uuml;rd&uuml;r&uuml;lmektedir.&nbsp;<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri k&uuml;lt&uuml;r&uuml;n &ouml;zellikleri arasında yer almaktadır?&nbsp;</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) Yalnız III
+    - D-) I ve II
+    - **Cevap E-) I, II ve III**
     ***
 1. <strong>Bir toplumda toplumsal gereklilik ifade eden ve bu nedenle korunan kolektif uygulamalar aşağıdakilerden hangisidir?</strong>
     - A-) Değerler
@@ -1289,12 +1376,27 @@ III. K&uuml;lt&uuml;rel<br />
     - D-) Arzu
     - **Cevap E-) İhtiya&ccedil;**
     ***
+1. İkinci K&uuml;reselleşme, ................... ile ifade edilmektedir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidi</strong>r?
+    - A-) Fransız Devrimi
+    - B-) İletişim Devrimi
+    - **Cevap C-) Sanayi Devrimi**
+    - D-) Amerikan Devrimi
+    - E-) Enformasyon Devrim
+    ***
 1. <strong>H&uuml;k&ucirc;metin tanımlanmış bir toprak par&ccedil;ası &uuml;zerinde egemen g&uuml;&ccedil; olduğu ve n&uuml;fus kitlelerinin kendilerini tek bir ulusun bir par&ccedil;ası olan vatandaşlar olarak g&ouml;rd&uuml;kleri devlet tipi aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Ulus devlet**
     - B-) Federal devlet
     - C-) Feodal devlet
     - D-) K&uuml;resel devlet
     - E-) &Ccedil;ok uluslu devlet
+    ***
+1. <strong>Aşağıda t&uuml;ketim toplumuyla ilgili verilenlerden hangisi doğrudur?</strong>
+    - A-) T&uuml;ketim toplumunda t&uuml;ketim, hayatın hizmetindedir.
+    - B-) T&uuml;ketim toplumu, durağan bir kavramdır.
+    - C-) T&uuml;ketim toplumu, kom&uuml;nist topluma &ouml;zg&uuml; bir kavramlaştırmadır.
+    - **Cevap D-) T&uuml;ketim toplumu, t&uuml;ketimin ve t&uuml;ketim k&uuml;lt&uuml;r&uuml;n&uuml;n egemen olduğu bir toplumdur.**
+    - E-) T&uuml;ketim toplumu, end&uuml;strileşmeden bağımsız bir kavramdır.
     ***
 1. ........; t&uuml;m d&uuml;nyanın ekonomik, siyasal, k&uuml;lt&uuml;rel a&ccedil;ıdan b&uuml;t&uuml;nleşerek ortak ve tek bir k&uuml;lt&uuml;r oluşturmasıdır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -1330,9 +1432,1187 @@ IV. K&uuml;lt&uuml;rel<br />
     - **Cevap E-) T&uuml;ketim toplumu arzulardan ziyade ihtiya&ccedil;lara odaklanan bir toplumdur.**
     ***
 ## Unite 8
+1. ...................., anlamı bilinmeyen bir durumu a&ccedil;ıklamak i&ccedil;in, anlamı bilinen bir durumu, olguyu, nesneyi kullanmaktır.<br />
+<strong>​C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Simge
+    - B-) Mit
+    - C-) Yan anlam
+    - **Cevap D-) Eğretileme**
+    - E-) D&uuml;z anlam
+    ***
+1. .........................., birbiriyle doğrudan bağlantısı olan kelime veya nesnelerin birbirinin yerine kullanılmasıdır.<br />
+<strong>​C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - **Cevap A-) D&uuml;zdeğişmece**
+    - B-) Metafor
+    - C-) Kod
+    - D-) G&ouml;steren
+    - E-) G&ouml;sterge
+    ***
+1. <div>
+	I. Algılama kodları<br />
+	​II. G&ouml;r&uuml;nt&uuml;sel kodlar<br />
+	​III. İkonbilimsel kodlar<br />
+	<strong>Umberto Eco&#39;ya g&ouml;re yukarıdakilerden hangisi ya da hangileri kod t&uuml;rleri arasında yer alır?</strong></div>
+
+    - A-) Yalnız I
+    - B-) Yalnız III
+    - C-) I ve II
+    - D-) I ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. <strong>Metin-okur ilişkisine odaklanan alımlama g&ouml;stergebilimini oluşturan d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
+    - A-) Roland Barthes
+    - B-) Louis Porcher
+    - **Cevap C-) Umberto Eco**
+    - D-) Ferdinand de Saussure
+    - E-) Charles Sanders Peirce
+    ***
+1. <strong>Aşağıdakilerden hangisi Peirce&#39;a g&ouml;re g&ouml;sterge kategorilerinden biri <u>değildir</u>?</strong>
+    - A-) Belirtisel G&ouml;sterge
+    - B-) Kural G&ouml;sterge
+    - C-) Nitel G&ouml;sterge
+    - D-) Yalın G&ouml;sterge
+    - **Cevap E-) &Ccedil;oğul G&ouml;sterge**
+    ***
+1. G&ouml;stergelerin bir araya gelerek oluşturdukları iletinin tamamı ......... olarak adlandırılabilmektedir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) mit
+    - B-) eğretileme
+    - C-) metafor
+    - **Cevap D-) yapı**
+    - E-) d&uuml;zdeğişmece
+    ***
+1. <strong>Aşağıdaki isimlerden hangisi g&ouml;stergebilim alanında &ccedil;alışan kuramcılardan biri <u>değildir</u>?</strong> 
+    - A-) Charles Sanders Peirce
+    - B-) Roland Barthes
+    - **Cevap C-) Noam Chomsky**
+    - D-) Ferdinand de Saussure
+    - E-) Charles William Morris
+    ***
+1. <strong>Aşağıdakilerden hangisi Saussure&rsquo;un anlam &ouml;gelerinden biri <u>değildir</u>?</strong> 
+    - A-) G&ouml;sterge
+    - B-) G&ouml;sterilen
+    - C-) G&ouml;steren
+    - D-) Anlamlandırma
+    - **Cevap E-) Yanılsama**
+    ***
+1. I.&nbsp; &nbsp;Edimbilim<br />
+II.&nbsp; Anlambilim<br />
+III. S&ouml;zdizim<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri Charles William Morris&#39;in g&ouml;stergebilimi tanımladığı temellerdendir?</strong>
+    - A-) Yalnız I
+    - B-) I ve II
+    - C-) I ve III
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. ...................., bir g&ouml;stergenin bir başkasını doğurmasını ve &ouml;zellikle de bir d&uuml;ş&uuml;ncenin bir başka d&uuml;ş&uuml;nceyi &uuml;retmesini sağlayan kuralları ortaya &ccedil;ıkarmaktır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Kritik
+    - B-) Etimolojik
+    - C-) Pragmatik
+    - **Cevap D-) Retorik**
+    - E-) Etik
+    ***
+1. <strong>&ldquo;G&ouml;sterge, g&ouml;steren ve g&ouml;sterilenden meydana gelmektedir.&rdquo; tanımı aşağıda yer alan g&ouml;stergebilim kuramcılarından hangisine aittir?</strong> 
+    - **Cevap A-) Ferdinand de Saussure**
+    - B-) Charles William Morris
+    - C-) Charles Sanders Peirce
+    - D-) Roland Barthes
+    - E-) Umberto Eco
+    ***
+1. <strong>Aşağıdakilerden hangisi Umberto Eco tarafından tanımlanan &ldquo;algılama kodlarından&rdquo; biri <u>değildir</u>?</strong> 
+    - A-) Leke
+    - B-) &Ccedil;izgi
+    - C-) Bi&ccedil;im
+    - D-) Renk
+    - **Cevap E-) Heykel**
+    ***
+1. <strong>G&ouml;sterge&#39;ye ilişkin olarak aşağıdakilerden hangisi&nbsp;<u>yanlıştır</u>?</strong> 
+    - A-) G&ouml;steren ve g&ouml;sterilenden meydana gelir.
+    - **Cevap B-) G&ouml;sterilerin bilimidir.**
+    - C-) G&ouml;rsel iletişim s&uuml;recinde, bir oluşumu, nesneyi, duyguyu, yaklaşımı vb. temsil eden kavramlara verilen addır.
+    - D-) Her bir kuramcı g&ouml;sterge, g&ouml;steren ve g&ouml;sterilen ilişkisini farklı yorumlamıştır.
+    - E-) Duman ateşin g&ouml;stergesidir.
+    ***
+1. <strong>Aşağıdakilerden hangisi bir tasarımda g&ouml;sterilen <u>olamaz</u>?</strong> 
+    - A-) Duygusallık
+    - B-) Rahatlık
+    - C-) Konfor
+    - **Cevap D-) Kırmızı renk**
+    - E-) Asalet
+    ***
+1. <strong>Aşağıdakilerden hangisi bir reklamda g&ouml;steren <u>olamaz</u>?</strong> 
+    - **Cevap A-) Yenilik**
+    - B-) Mor renk
+    - C-) Yatay &ccedil;izgiler
+    - D-) Metin
+    - E-) Elbise
+    ***
+1. <strong>Aşağıdakilerden hangisi ikonbilimsel kodun tanımıdır?</strong> 
+    - A-) Nesnelerin ayrı ayrı tanımlanmasıdır.
+    - B-) Leke, &ccedil;izgi, bi&ccedil;in, renk incelemesidir.
+    - **Cevap C-) Resim, heykel vb. sanat eserlerinin incelenmesidir.**
+    - D-) Toplumun &ouml;nde gelen isimlerinin incelenmesidir.
+    - E-) Yeniliklerin incelenmesidir.
+    ***
+1. <strong>Aşağıdakilerden hangisi algılama kodu <u>değildir</u>?</strong> 
+    - **Cevap A-) Duygu**
+    - B-) Leke
+    - C-) &Ccedil;izgi
+    - D-) Bi&ccedil;im
+    - E-) Renk
+    ***
+1. .................... d&uuml;zeyi, g&ouml;stergenin g&ouml;reni ve g&ouml;sterileni arasındaki ilişkiyi ve g&ouml;stergenin dışsal ger&ccedil;eklikteki g&ouml;ndergesiyle ilişkisini betimler.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdaki ifadelerden hangisi getirilmelidir?</strong> 
+    - A-) Mit
+    - B-) Yananlam
+    - **Cevap C-) D&uuml;zanlam**
+    - D-) Simge
+    - E-) Metafor
+    ***
+1. <strong>Aşağıdakilerden hangisi bir d&uuml;zdeğişmece &ouml;rneğidir?</strong> 
+    - A-) Ateş &ndash; Duman
+    - **Cevap B-) Ta&ccedil; &ndash; Krallık**
+    - C-) Anne &ndash; Bebek
+    - D-) G&uuml;l &ndash; Kırmızı
+    - E-) Soğuk &ndash; Sıcak
+    ***
+1. <strong>&ldquo;Dalgalar kayalıklara &ccedil;arpıyordu.&rdquo; c&uuml;mlesi yerine &ldquo;Dalgalar kayalıkları yalıyordu.&rdquo; c&uuml;mlesinin kullanılması, aşağıda sıralanan anlamlandırma d&uuml;zeylerinden hangisine işaret etmektedir?</strong> 
+    - **Cevap A-) Eğretileme**
+    - B-) Yananlam
+    - C-) D&uuml;zdeğişmece
+    - D-) Mit
+    - E-) Simgeler
+    ***
+1. Charles Sanders Peirce&rsquo;a g&ouml;re g&ouml;stergebilimin &uuml;&ccedil; dalı aşağıdakilerden hangisidir?
+    - **Cevap A-) Salt Dilbilgisi &ndash; Mantık &ndash; Salt S&ouml;zbilim**
+    - B-) Dilbilim &ndash; Matematik - Fizik
+    - C-) Anlambilim &ndash; Dilbilim - Retorik
+    - D-) Alegori &ndash; Mantık - S&ouml;zbilim
+    - E-) Psikoloji &ndash; Sosyoloji &ndash; Filoloji
+    ***
+1. <strong>Aşağıdakilerden hangisi &ldquo;belirtisel g&ouml;sterge&rdquo; ilişkisini ortaya koymaktadır?</strong>
+    - A-) Şehir - Haritalar
+    - B-) Tuvalet - Tuvalet kapısındaki simgeler
+    - C-) Y&ouml;n - Yol tabelaları
+    - **Cevap D-) Duman - Ateş**
+    - E-) S&ouml;zler - Metin
+    ***
+1. <strong>G&ouml;rsel iletişim s&uuml;recinde bir oluşumu, nesneyi, duyguyu, yaklaşımı, vb. temsil eden kavram aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) G&ouml;sterge**
+    - B-) G&ouml;sterilen
+    - C-) Kod
+    - D-) Eğretileme
+    - E-) Mit
+    ***
+1. <strong>&quot;Anlamı bilinmeyen bir durumu a&ccedil;ıklamak i&ccedil;in anlamı bilinen bir durumu, olguyu, nesneyi kullanmak&quot; anlamına gelen kavram aşağıdaki kavramlardan hangisidir?</strong>
+    - A-) D&uuml;zdeğişmece (Metonymy)
+    - B-) Mit
+    - **Cevap C-) Eğretileme (Metaphor)**
+    - D-) &Ccedil;er&ccedil;eveleme
+    - E-) &Ouml;l&ccedil;ek
+    ***
 ## Unite 9
+1. <strong>Marx&#39;a g&ouml;re y&ouml;netilen sınıf konumundaki bireylerin s&ouml;m&uuml;r&uuml;ld&uuml;klerinin farkına varmalarını zorlaştıran ve y&ouml;netici sınıf tarafından kendini meşrulaştırmak &uuml;zere kurgulandığı kabul edilen toplumsal değerler ve k&uuml;lt&uuml;rel inan&ccedil;lar b&uuml;t&uuml;n&uuml;ne ne ad verilir?</strong>
+    - A-) Yabancılaşma
+    - B-) Sınıf &ccedil;atışması
+    - **Cevap C-) İdeoloji**
+    - D-) Maddecilik
+    - E-) &Uuml;st yapı
+    ***
+1. ......................., ekonomik ilişkileri kapsayan maddi ilişkileri ifade etmektedir.<br />
+<strong>​C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) &Uuml;st yapı
+    - **Cevap B-) Altyapı**
+    - C-) Maddecilik
+    - D-) Yanlış bilin&ccedil;
+    - E-) İdeoloji
+    ***
+1. <strong>Burjuva kahramanları ile ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Kahramanlar, sıradan kişiler olabilir.
+    - B-) Kahramanlar, hayvanlar olabilir.
+    - **Cevap C-) Kahramanlar, var olan yapıyı tehdit etmezler.**
+    - D-) Kahramanlar, cansız imgelerden oluşabilir.
+    - E-) Kahramanlar, &uuml;nl&uuml; kişiler olabilir.
+    ***
+1. <strong>Hegemonya ile ilgili olarak aşağıdakileden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Hegemonya, ideolojiden daha geniş bir kategoridir.
+    - B-) Hegemonya, h&acirc;kimiyet ya da egemenlik anlamına gelen bir kavramdır.
+    - **Cevap C-) Hegemonya, tek başına &uuml;retim ve ekonomi alanında kazanılır.**
+    - D-) Hegemonya, topluma y&ouml;n veren y&ouml;netici sınıfın d&uuml;nya&nbsp;g&ouml;r&uuml;ş&uuml;d&uuml;r.
+    - E-) Hegemonya, g&uuml;&ccedil; ve rızanın bileşimine dayanır.
+    ***
+1. <strong>Marksizm&#39;in ortaya koyduğu yabancılaşma kavramı ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Yabancılaşmanın oluşmasında bireyin karşı karşıya kaldığı ekonomik baskı etkilidir.
+    - B-) Yabancılaşmanın temelinde, bireyin i&ccedil;inde bulunduğu toplumdan uzaklaşma endişesi yatmaktadır.
+    - **Cevap C-) Burjuva sınıfının sosyolojik olarak bulunduğu yeri kabullenmesine &quot;sosyal yabancılaşma&quot; denir.**
+    - D-) Yabancılaşma nedeniyle bireyde bir bilin&ccedil; yoksunluğu oluşur.
+    - E-) S&ouml;m&uuml;r&uuml;, iş&ccedil;i sınıfının yabancılaşmasına sebep olur.
+    ***
+1. <strong>Marksist perspektife g&ouml;re kapitalist d&uuml;zen i&ccedil;erisinde medya-kitle iletişim ara&ccedil;ları aşağıdaki kavramlardan hangisi ile tanımlanmaktadır?</strong>
+    - **Cevap A-) Devletin ideolojik aygıtları**
+    - B-) Kamuoyu inşacıları
+    - C-) Devletin baskıcı aygıtları
+    - D-) Eşik bek&ccedil;ileri
+    - E-) Bilgi ara&ccedil;ları
+    ***
+1. <strong>Yasal Sistem, Marksist Analizin hangi temel ilkesine karşılık gelmektedir?</strong> 
+    - A-) T&uuml;ketim toplumu
+    - B-) Sınıf &ccedil;atışması
+    - C-) Maddecilik
+    - D-) Yabancılaşma
+    - **Cevap E-) &Uuml;st yapı**
+    ***
+1. <strong>Marksist bakış a&ccedil;ısıyla y&ouml;neten sınıfın diğerleri &uuml;zerindeki egemenliğini ifade etmek i&ccedil;in kullanılan kavram aşağıdakilerden hangisidir?</strong>
+    - A-) Burjuva kahramanları
+    - **Cevap B-) Hegemonya**
+    - C-) Yanlış bilin&ccedil;
+    - D-) Sınıf &ccedil;atışması
+    - E-) Yabancılaşma
+    ***
+1. &Ccedil;alışma iş&ccedil;i i&ccedil;in dışsaldır. Yani &ccedil;alışma onun doğasının bir par&ccedil;ası değildir; kendini &uuml;r&uuml;n ve &uuml;retimi i&ccedil;in harcadığı emek ile b&uuml;t&uuml;nleştiremez, ancak kendini yadsır; bir refah duygusu i&ccedil;inde değil sefalet duygusu i&ccedil;indedir.<br />
+<strong>Paragrafta ifade edilen kavram aşağıdakilerden hangisidir?</strong>
+    - A-) Diyalektik
+    - B-) İdeoloji
+    - C-) Yanlış bilin&ccedil;
+    - **Cevap D-) Yabancılaşma**
+    - E-) Sınıf
+    ***
+1. İletişim ara&ccedil;larında sunulan film, dizi, roman ve reklam gibi &uuml;r&uuml;nlerdeki iyi ve k&ouml;t&uuml; karakterler var olan toplumsal yapı ya da yeni bir toplumsal yapıya ilişkin mesajların sunulması g&ouml;revini &uuml;stlenir.<br />
+<strong>Paragraftaki ifade&nbsp;Marksist Analiz kapsamındaki hangi temel ilkeyi tanımlamaktadır?</strong> 
+    - **Cevap A-) Burjuva kahramanları**
+    - B-) Y&ouml;netici sınıf
+    - C-) İş&ccedil;i sınıfı
+    - D-) Yabancılaşan birey
+    - E-) &Uuml;st yapı
+    ***
+1. Marx&rsquo;a g&ouml;re ..............., y&ouml;netilen sınıf konumundaki bireylerin s&ouml;m&uuml;r&uuml;ld&uuml;klerinin farkına varmalarını zorlaştıran ve y&ouml;netici sınıf tarafından kendini meşrulaştırmak &uuml;zerine kurgulandığı kabul edilmiş toplumsal değerler ve k&uuml;lt&uuml;rel inan&ccedil;lar b&uuml;t&uuml;n&uuml;d&uuml;r.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
+
+    - A-) akıl tutulması
+    - **Cevap B-) ideoloji**
+    - C-) metalaşma
+    - D-) alt yapı
+    - E-) k&ouml;rleşme
+    ***
+1. <strong>Aşağıdakilerden hangisi &uuml;st yapı unsurlarından biridir?</strong> 
+    - A-) Ekonomik ilişkiler
+    - B-) &Uuml;retim g&uuml;&ccedil;leri
+    - C-) T&uuml;ketim g&uuml;&ccedil;leri
+    - D-) &Uuml;retim ara&ccedil;ları
+    - **Cevap E-) Yasal sistem**
+    ***
+1. <strong>Aşağıdakilerden hangisi İdeoloji kavramını oluşturan unsurlar arasında <u>değildir</u>?</strong> 
+    - A-) &Uuml;retim ilişkileri
+    - B-) Sınıfsal ilişkiler
+    - C-) D&uuml;ş&uuml;nme bi&ccedil;imleri, fikirler
+    - **Cevap D-) Kas g&uuml;c&uuml;**
+    - E-) Y&ouml;netim felsefesi
+    ***
+1. <strong>Aşağıdakilerden hangisi Althusser&rsquo;in ortaya koyduğu bir kavram olan &ldquo;Devletin İdeolojik Aygıtları&rdquo;na karşılık gelmektedir?</strong> 
+    - A-) Maddecilik
+    - **Cevap B-) Kitle İletişim Ara&ccedil;ları-Medya**
+    - C-) Sınıf
+    - D-) Alt yapı
+    - E-) Yabancılaşma
+    ***
+1. <strong>Aşağıdakilerden hangisi y&ouml;netici sınıfın k&uuml;lt&uuml;r alanında egemenlik kurduğu alanlardan biri <u>değildir</u>?</strong> 
+    - A-) Politika
+    - B-) Reklam
+    - **Cevap C-) Alt yapı**
+    - D-) Halkla ilişkiler
+    - E-) Haber toplama
+    ***
+1. <strong>Marx&rsquo;ın dile getirdiği sınıf &ccedil;atışmasının taraflarından biri olan y&ouml;netici sınıf aşağıdakilerden hangisine karşılık gelmektedir?</strong> 
+    - **Cevap A-) Burjuvazi**
+    - B-) Emek&ccedil;i sınıf
+    - C-) İş&ccedil;i sınıfı
+    - D-) Yabancılaşan birey
+    - E-) Alt sınıf
+    ***
+1. <strong>Bireyin i&ccedil;inde bulunduğu toplumdan ayrımlaşması, diğerleriyle bağlantısının kopması Marksizm&rsquo;in hangi temel ilkesi ile a&ccedil;ıklanabilir?</strong> 
+    - A-) Maddecilik
+    - B-) Alt- &uuml;st yapı
+    - C-) Burjuva kahramanları
+    - **Cevap D-) Yabancılaşma**
+    - E-) Hegemonya-h&acirc;kimiyet
+    ***
+1. <strong>K&uuml;lt&uuml;r&uuml;n halktan/kitlelerden kaynaklanmadığı, halk veya kitlelerin bu k&uuml;lt&uuml;r&uuml; &uuml;retmediği vurgusu aşağıdaki kavramların hangisine karşılık gelmektedir?</strong> 
+    - **Cevap A-) K&uuml;lt&uuml;r end&uuml;strisi**
+    - B-) &Uuml;st k&uuml;lt&uuml;r
+    - C-) Elit k&uuml;lt&uuml;r
+    - D-) Alt yapı
+    - E-) Maddecilik
+    ***
+1. <strong>İletişim ara&ccedil;larında sunulan &uuml;r&uuml;nler olarak filmler, diziler, romanlar ve reklamlardaki iyi ve k&ouml;t&uuml; karakterler Marksizm&rsquo;in hangi temel ilkesi kapsamında değerlendirilmektedir?</strong> 
+    - A-) Emek&ccedil;i Sınıf
+    - B-) Pop&uuml;ler K&uuml;lt&uuml;r
+    - **Cevap C-) Burjuva Kahramanları**
+    - D-) Maddecilik
+    - E-) Sınıf &Ccedil;atışması
+    ***
+1. <strong>Marksizm&#39;e g&ouml;re y&ouml;netici sınıf tarafından s&ouml;m&uuml;r&uuml;len ve durumları her an &uuml;mitsizleşen sınıf aşağıdakilerden hangisidir?</strong>
+    - A-) Burjuva&nbsp;
+    - **Cevap B-) Emek&ccedil;i**
+    - C-) Aristokrat
+    - D-) Feodal
+    - E-) Egemen
+    ***
+1. <strong>Aşağıdakilerden hangisi Marksist Analiz&#39;in temel ilkelerinden biri <u>değildir</u>?</strong>
+    - A-) Alt ve &Uuml;st Yapı
+    - B-) Burjuva Kahramanları
+    - **Cevap C-) Kamuoyu**
+    - D-) Yabancılaşma
+    - E-) T&uuml;ketim Toplumu
+    ***
+1. Aşağıdakilerden hangisi alt yapı kavramına karşılık gelmektedir?
+    - **Cevap A-) &Uuml;retim-t&uuml;ketim g&uuml;&ccedil;leri**
+    - B-) Dinsel inan&ccedil;lar
+    - C-) Sanat-k&uuml;lt&uuml;r
+    - D-) Kurumlar
+    - E-) Fikirler
+    ***
+1. <strong>Topluma y&ouml;n veren y&ouml;netici sınıfın d&uuml;nya g&ouml;r&uuml;ş&uuml; olarak tanımlanabilen ve iletişim s&uuml;recinin &uuml;r&uuml;n&uuml; olan filmlerde, dizilerde, reklamlarda, kitaplarda ifadesini bulan kavram aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Hegemonya**
+    - B-) Yabancılaşma
+    - C-) Alt yapı
+    - D-) &Uuml;st yapı
+    - E-) Tektipleşme
+    ***
+1. <strong>Marksizm&rsquo;e g&ouml;re bireyin i&ccedil;inde bulunduğu toplumdan ayrımlaşması, diğerleriyle bağlantısının kopması aşağıdakilerden hangisidir?</strong>
+    - A-) Alt Yapı
+    - B-) İdeoloji
+    - **Cevap C-) Yabancılaşma**
+    - D-) &Uuml;st Yapı
+    - E-) Hegemonya
+    ***
 ## Unite 10
+1. Marksist bakış a&ccedil;ısısından değerlendirildiğinde kitle iletişim olgusunun toplumda &uuml;retim g&uuml;&ccedil;lerini elinde bulunduran y&ouml;netici sınıf yani ...................... etkisinde şekillendirildiği g&ouml;r&uuml;lmektedir.<br />
+<strong>​C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) kanaat &ouml;nderlerinin
+    - B-) politikacıların
+    - C-) proletaryanın
+    - **Cevap D-) burjuvazinin**
+    - E-) aracıların
+    ***
+1. I.&nbsp; &nbsp;Postmodernizm&#39;den &ccedil;ok, Modernizm etkisinde ger&ccedil;ekleşen bir s&uuml;re&ccedil;tir.<br />
+​II.&nbsp; Daha &ccedil;ok şeyin satın alınması ile beslenen bir s&uuml;re&ccedil;tir.<br />
+II.&nbsp; Bireyin ger&ccedil;ekliği satın alınanlar yoluyla g&uuml;nl&uuml;k olarak yeniden yaratılır.<br />
+<b>T&uuml;ketimcilik kavramı ile ilgili olarak yukarıdakilerden hangisi ya da hangileri <u>yanlıştır</u>? </b>
+    - **Cevap A-) Yalnız I**
+    - B-) Yalnız II
+    - C-) Yalnız III
+    - D-) I ve III
+    - E-) II ve III
+    ***
+1. I. Ekonomik<br />
+​II. Psikolojik<br />
+​III. Sosyal ve k&uuml;lt&uuml;rel<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri t&uuml;keticinin satın alma kararını etkileyen fakt&ouml;rlerdendir?</strong> 
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. <strong>T&uuml;ketim toplumu ile ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) T&uuml;ketim toplumunda sosyal aktiviteler ve duygular ekonomik aktivitelere d&ouml;n&uuml;ştr&uuml;lm&uuml;şt&uuml;r.
+    - **Cevap B-) T&uuml;ketim toplumu sosyalizm ile hızlı bir ekonomik gelişme sağlayan toplumları işaret eder.**
+    - C-) T&uuml;ketim toplumunun temelinde imajlarla &ccedil;evrelenmiş bir d&uuml;nya yatmaktadır.
+    - D-) T&uuml;ketim toplumu hedonizm ile ilişikili anlık doyumlarla ilgili bir kavramdır.
+    - E-) T&uuml;ketim toplumu maddi &uuml;r&uuml;nlerin toplanması ve t&uuml;ketimi yoluyla y&ouml;nlendirilen bir kavramdır.
+    ***
+1. Sembolik t&uuml;ketimin &ccedil;ıkış noktası olarak değerlendirilen ......................, t&uuml;ketim olgusunun g&uuml;n&uuml;m&uuml;zdeki temel ilkesi h&acirc;line gelmiştir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) hedonizm**
+    - B-) rasyonalizm
+    - C-) kapitalizm
+    - D-) materyalizm
+    - E-) idealizm
+    ***
+1. <strong>Sembolik t&uuml;ketimin &ccedil;ıkış noktası olarak değerlendirilen ve t&uuml;ketim olgusunun g&uuml;n&uuml;m&uuml;zdeki temel ilkesi h&acirc;line gelen kavram aşağıdakilerden hangisidir?</strong>
+    - A-) Stat&uuml;
+    - B-) Yabancılaşma
+    - C-) Kimlik
+    - **Cevap D-) Hedonizm**
+    - E-) Rasyonalizm
+    ***
+1. .................; uygun yaşam bi&ccedil;imlerini aktaran, sınıf farklılıklarını vurgulayan ve yaratılmış benlikler sunan mesaj i&ccedil;erikleriyle y&ouml;netici sınıfın d&uuml;ş&uuml;nce yapısını, egemen ideolojiyi yaymaya &ccedil;alışır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
+
+    - A-) Propaganda
+    - B-) Retorik
+    - C-) Yanlış bilin&ccedil;
+    - D-) Halkla ilişkiler
+    - **Cevap E-) Reklam**
+    ***
+1. <strong>Marksist analize g&ouml;re kapitalist toplumun en gelişmiş h&acirc;lini ifade eden kavram aşağıdakilerden hangisidir?</strong> 
+    - A-) Alt yapı
+    - B-) Hegemonya
+    - C-) İdeoloji
+    - **Cevap D-) T&uuml;ketim toplumu**
+    - E-) Sembolik t&uuml;ketim
+    ***
+1. <strong>Marksist bakış a&ccedil;ısına g&ouml;re kitle iletişim s&uuml;reci aşağıdakilerden hangisinin etkisinde şekillenmektedir?</strong>
+    - A-) Proleterya
+    - B-) Feodalite
+    - **Cevap C-) Burjuvazi**
+    - D-) B&uuml;rokrasi
+    - E-) Kamuoyu
+    ***
+1. T&uuml;ketim ve reklam aracılığıyla ger&ccedil;ekleşen toplumsallaşmanın genel olarak hedefi; hedonist ve bencil bireyselliğin inşasıdır.<br />
+<strong>Paragraftaki ifadeye g&ouml;re t&uuml;ketim toplumunun temel dayanak noktası aşağıdakilerden hangisidir?</strong> 
+    - A-) İdealizm
+    - **Cevap B-) Materyalizm**
+    - C-) Pozitivizm
+    - D-) Pluralizm
+    - E-) Naturalizm
+    ***
+1. &ldquo;T&uuml;ketim toplumunun &hellip;&hellip;&hellip;&hellip;&hellip; dayandığı g&ouml;r&uuml;lmektedir.&rdquo;<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) &Uuml;retim
+    - B-) &Uuml;retim ara&ccedil;ları
+    - C-) Hegemonya
+    - **Cevap D-) Materyalizm**
+    - E-) Kollektivizm
+    ***
+1. &hellip;......&hellip;&hellip;&hellip;. &ccedil;ıkış noktası olarak değerlendirilen Hedonizm, t&uuml;ketim olgusunun temel ilkesi olarak değerlendirilmektedir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) Yabancılaşma
+    - B-) &Uuml;styapı
+    - C-) Altyapı
+    - D-) Sınıf &ccedil;atışması
+    - **Cevap E-) Sembolik t&uuml;ketim**
+    ***
+1. &hellip;&hellip;...... t&uuml;ketimi k&ouml;r&uuml;kleme ve topluma ve kendine yabancılaşan bireyi kendine bağlamanın yanı sıra d&uuml;zenin devamlılığını sağlama işlevini verdiği mesajlarla ger&ccedil;ekleştirmektedir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) Haberler
+    - B-) İdeoloji
+    - **Cevap C-) Reklam**
+    - D-) K&uuml;lt&uuml;r
+    - E-) &Uuml;retim
+    ***
+1. Reklamlarda kullanılan &hellip;&hellip;.......&hellip;., t&uuml;keticileri ihtiya&ccedil;ları olmasa da t&uuml;ketim yapmaya itmekte ya da kendilerini ifade etmeleri, kimliklerini şekillendirmeleri a&ccedil;ısından etkilemektedir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) ideoloji
+    - B-) egemenlik
+    - C-) alt yapı
+    - D-) yanlış bilin&ccedil;
+    - **Cevap E-) sembolik &ccedil;ağrışımlar**
+    ***
+1. &ldquo;&hellip;&hellip;.. toplumu denildiğinde kapitalist d&uuml;zenin devamlılığını sağlamak &uuml;zere t&uuml;ketim yapan bir toplum yapısı anlaşılmaktadır.&rdquo;<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) &Uuml;retim
+    - **Cevap B-) T&uuml;ketim**
+    - C-) Sosyalist
+    - D-) Feodal
+    - E-) Tarım
+    ***
+1. T&uuml;ketim toplumunda t&uuml;keticilere yapay ihtiya&ccedil; ve istekler aşılanmakta ve &hellip;&hellip; &hellip;&hellip;&hellip; ziyade sembolik t&uuml;ketime y&ouml;nlendirilmektedirler.&rdquo;<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) Sembolik t&uuml;ketim
+    - B-) Haz y&ouml;nl&uuml; t&uuml;ketim
+    - **Cevap C-) Faydacı t&uuml;ketim**
+    - D-) İdeoloji
+    - E-) Kapitalizm
+    ***
+1. <strong>Marksist Analiz a&ccedil;ısından t&uuml;ketim toplumunun bir taşıyıcısı olan reklam mesajlarında aşağıdaki kavramlardan &ouml;ncelikle hangisi &ouml;n plana <u>&ccedil;ıkarılmamaktadır</u>?</strong> 
+    - **Cevap A-) &Uuml;r&uuml;nlerin rasyonel &ouml;zellikleri**
+    - B-) Sınıf farklılıkları
+    - C-) Sembolik &ccedil;ağrışımlar
+    - D-) T&uuml;ketim toplumu
+    - E-) Maddecilik
+    ***
+1. &ldquo;Marksist bakış a&ccedil;ısından değerlendirildiğinde kitle iletişimi olgusunun toplumda &uuml;retim g&uuml;&ccedil;lerini elinde bulunduran &hellip;&hellip;&hellip;&hellip;&hellip;.. etkisinde şekillendirildiği g&ouml;r&uuml;lmektedir.&rdquo;<br />
+C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? 
+    - **Cevap A-) Burjuvazi**
+    - B-) Y&ouml;netilen sınıf
+    - C-) Alt yapı
+    - D-) İş&ccedil;i sınıfı
+    - E-) T&uuml;ketim toplumu
+    ***
+1. &ldquo;Birey kendi sahip olduğu benliğine, kişiliğine &hellip;&hellip;&hellip;&hellip;.., kendini yeniden ve reklamda sunulduğu şekilde oluşturmak i&ccedil;in reklamı yapılan &uuml;r&uuml;n&uuml; almaya zorunlu hisseder.&rdquo;<br />
+<strong>C&uuml;mlede boş bırakılan yere Marksist Analiz a&ccedil;ısından aşağıdaki kavramlardan hangisi getirilmelidir?</strong> 
+    - A-) Maddecilik
+    - B-) &Uuml;st yapı
+    - **Cevap C-) Yabancılaşma**
+    - D-) Sınıf &ccedil;atışması
+    - E-) Hegemonya
+    ***
+1. <strong>Reklamda sunulanın, ger&ccedil;ekten bu &uuml;r&uuml;n&uuml;n alıcısı olmadığını ve reklamda bireyin ger&ccedil;ekte olmadığı ama &ouml;zendiği, olmak istediği kişilik &ouml;zelliklerinin yansıtılarak sunulduğunu ileri s&uuml;ren ve reklama kişinin yabancılaşması, egemen ideolojinin sunduğu d&uuml;nya g&ouml;r&uuml;ş&uuml;n&uuml; benimsemesi, kendinden uzaklaşması işlevlerini y&uuml;kleyen bakış a&ccedil;ısı&nbsp;aşağıdakilerden hangisidir?</strong>
+    - A-) T&uuml;ketime Dayalı Bakış A&ccedil;ısı&nbsp;
+    - **Cevap B-) Marksist&nbsp;Bakış A&ccedil;ısı**
+    - C-) Sosyalist&nbsp;Bakış A&ccedil;ısı
+    - D-) K&uuml;reselleşmeye Dayalı Bakış A&ccedil;ısı
+    - E-) &Uuml;retime Dayalı&nbsp;Bakış A&ccedil;ısı
+    ***
 ## Unite 11
+1. <strong>Aşağıdakilerden hangisi s&uuml;per egonun işlevlerinden biri <u>değildir</u>?</strong>
+    - A-) Kendine ceza verme
+    - B-) Hataların d&uuml;zeltilmesi
+    - C-) Kendi kendini beğenme
+    - D-) Benliğin eleştirilmesi
+    - **Cevap E-) İ&ccedil;g&uuml;d&uuml;lerin denetimi**
+    ***
+1. <strong>Alıcı i&ccedil;in bir uyaran olarak işlev g&ouml;ren sinyale ya da sinyaller birleşimine ne ad verilir?</strong>
+    - A-) Akım
+    - **Cevap B-) Mesaj**
+    - C-) G&uuml;r&uuml;lt&uuml;
+    - D-) Eşik
+    - E-) Sinerji
+    ***
+1. <strong>Aşağıdakilerden hangisi egonun işlevlerinden biri <u>değildir</u>?</strong>
+    - A-) Ger&ccedil;eği sınama
+    - B-) Yargılama
+    - **Cevap C-) Pişmanlık**
+    - D-) Savunma
+    - E-) Sentez
+    ***
+1. I. Geleneksel<br />
+​II. Raslantısal<br />
+III. Evrensel<br />
+​IV. Yerel<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri sembol sınıflandırmalarından biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız III
+    - **Cevap C-) Yalnız IV**
+    - D-) I ve II
+    - E-) III ve IV
+    ***
+1. <strong>Algı, motor, bellek, duygulanım, savunma ve ikincil s&uuml;re&ccedil;le ilgili entellekt&uuml;el işlevlerin yerleşim yerine ne ad verilir?</strong>
+    - A-) İd
+    - B-) S&uuml;per ego
+    - C-) Sembol
+    - **Cevap D-) Ego**
+    - E-) Kaynak
+    ***
+1. <strong>Aşağıdakilerden hangisi ruhsal aygıtın en eski par&ccedil;asıdır?</strong> 
+    - A-) Hipnoz
+    - **Cevap B-) İd**
+    - C-) Bilin&ccedil;
+    - D-) S&uuml;perego
+    - E-) Ego
+    ***
+1. İdden gelişen bir yapıdır. İdden gelen d&uuml;rt&uuml;leri modifiye ederek haz alamama ve acı &ccedil;ekme durumlarına engel olmaya &ccedil;alışmakta; yaşama adapte olabilmek i&ccedil;in &ccedil;eşitli savunma mekanizmalarını harekete ge&ccedil;irmektedir.<br />
+<strong>Paragrafta bahsedilen kavram aşağıdakilerden hangisidir?</strong> 
+    - A-) Varsayım
+    - B-) İd
+    - C-) Bilin&ccedil; dışı
+    - **Cevap D-) Ego**
+    - E-) S&uuml;perego
+    ***
+1. <strong>Sigmund Freud&rsquo;un aralarındaki ilişkiyi &ldquo;at sırtında bir adam&rdquo;a benzettiği zihin katmanları aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) İd &ndash; Ego**
+    - B-) Bilin&ccedil; &ndash; Bilin&ccedil; dışı
+    - C-) Ego &ndash; S&uuml;perego
+    - D-) İd &ndash; S&uuml;perego
+    - E-) S&uuml;perego &ndash; Bilin&ccedil; dışı
+    ***
+1. <strong>Algı, motor, bellek, duygulanım, savunma ve ikincil s&uuml;re&ccedil;le ilgili entelekt&uuml;el işlevlerin yerleşim yeri aşağıdakilerden hangisidir?</strong> 
+    - A-) İ&ccedil;g&uuml;d&uuml;
+    - B-) Tutum
+    - **Cevap C-) Ego**
+    - D-) Zihin
+    - E-) Sağduyu
+    ***
+1. <strong>Bir şeyi temsil eden, ama onunla doğrudan ya da doğal bir ilişkisi olmayan sinyale ne ad verilir?</strong>
+    - A-) Logo
+    - B-) Kod
+    - C-) İleti
+    - D-) Mit
+    - **Cevap E-) Sembol**
+    ***
+1. <strong>Aşağıdakilerden hangisi i&ccedil;g&uuml;d&uuml;sel sembol ve sembolleştirme ile ilişkili olup insanların ortak deneyimlerinden kaynaklanmaktadır?</strong> 
+    - A-) Geleneksel semboller
+    - B-) Psikanalitik semboller
+    - C-) Rastlantısal semboller
+    - D-) Varsayımsal semboller
+    - **Cevap E-) Evrensel semboller**
+    ***
+1. <strong>Sembolik gruplar h&acirc;linde d&uuml;ş&uuml;n&uuml;ld&uuml;ğ&uuml;nde, aşağıdakilerden hangisi diğerlerinden farklı bir grupta yer almaktadır?</strong> 
+    - A-) Şişe
+    - B-) Kutu
+    - **Cevap C-) U&ccedil;ak**
+    - D-) &Ccedil;i&ccedil;ek
+    - E-) Kapı
+    ***
+1. I. Bilin&ccedil; dışı kuralları ge&ccedil;erlidir.<br />
+II. Duygusaldır, &ouml;rg&uuml;tlenmemiştir.<br />
+III. Dış d&uuml;nya ile bağlantısı yoktur.<br />
+<strong>Yukarıda sıralanan maddelerden hangisi ya da hangileri idin &ouml;zelliklerindendir?</strong> 
+    - A-) Yalnız I
+    - B-) Yalnız III
+    - C-) II ve III
+    - D-) I ve II
+    - **Cevap E-) I, II ve III**
+    ***
+1. <strong>Aşağıdakilerden hangisi mesajın işlevleri arasında <u>yer almaz</u>?</strong> 
+    - A-) Uyarmak
+    - B-) Tavsiye etmek
+    - C-) Bilgi vermek
+    - **Cevap D-) Y&ouml;nlendirmek**
+    - E-) İkna etmek
+    ***
+1. <strong>Aşağıdakilerden hangisi rastlantısal sembollere &ouml;rnektir?</strong> 
+    - **Cevap A-) &ldquo;İzmir&rdquo; isminin farklı bireylerin zihinlerinde temsil ettikleri**
+    - B-) Ateş ve duman ilişkisi
+    - C-) İngilizce s&ouml;zc&uuml;kler
+    - D-) Araba plakasında g&ouml;r&uuml;len tekerlekli sandalye işareti
+    - E-) T&uuml;rk Bayrağı
+    ***
+1. <strong>Aşağıdakilerden hangisi sembolik gruplar h&acirc;linde d&uuml;ş&uuml;n&uuml;ld&uuml;ğ&uuml;nde diğerlerinden farklı bir grupta yer almaktadır?</strong> 
+    - A-) Ağa&ccedil;
+    - **Cevap B-) Bah&ccedil;e**
+    - C-) &Ccedil;eki&ccedil;
+    - D-) Şemsiye
+    - E-) Kalem
+    ***
+1. <strong>G&uuml;&ccedil;l&uuml; bir reklam mesajında semboller hangi işlevi yerine <u>getirmez</u>?</strong> 
+    - **Cevap A-) Hedef kitlenin eğlenmesini sağlamak**
+    - B-) Hedef kitlenin ilgisine maruz kalmak
+    - C-) Hedef kitlede satın alma isteği yaratmak
+    - D-) Hedef kitleyi harekete ge&ccedil;irmek
+    - E-) Hedef kitlenin dikkatini &ccedil;ekmek
+    ***
+1. Zihin bir buzdağına benzetilirse; &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; buzdağının g&ouml;r&uuml;nen kısmıdır.<br />
+<strong>C&uuml;mledeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) Bilin&ccedil; &ouml;ncesi
+    - B-) Bilin&ccedil; dışı
+    - **Cevap C-) Bilin&ccedil;**
+    - D-) Ego
+    - E-) S&uuml;perego
+    ***
+1. <strong>İd ile dış &ccedil;evre arasındaki arabuluculuk g&ouml;revini &uuml;stlenen yapı hangisidir?</strong> 
+    - A-) Topografik varsayım
+    - **Cevap B-) Ego**
+    - C-) Yapısal varsayım
+    - D-) Bilin&ccedil; dışı
+    - E-) Bilin&ccedil; &ouml;ncesi
+    ***
+1. I. &Ouml;zeleştiri sonucu kendine ceza verme<br />
+II. Hataların d&uuml;zeltilmesi ve pişmanlık<br />
+III. Ger&ccedil;ekle ilişki kurması<br />
+IV. Konuşma, soluma, y&uuml;r&uuml;me<br />
+<strong>Yukarıdaki maddelerden hangisi ya da hangileri s&uuml;peregonun işlevlerindendir?</strong> 
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - **Cevap C-) I ve II**
+    - D-) III ve IV
+    - E-) I, II, III ve IV
+    ***
+1. R&uuml;yalarda olan işleyişe benzetilen zihinsel işleyiş aşağıdakilerden hangisidir?
+    - A-) İd
+    - B-) S&uuml;perego
+    - C-) Bilin&ccedil;
+    - **Cevap D-) Bilin&ccedil; dışı**
+    - E-) Bilin&ccedil; &ouml;ncesi
+    ***
+1. Bir şeyi temsil eden; ama onunla doğrudan ya da doğal bir ilişkisi olmayan sinyale &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. denir. C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? 
+    - A-) Psikanaliz
+    - B-) İD
+    - C-) Ego
+    - D-) S&uuml;perego
+    - **Cevap E-) Sembol**
+    ***
+1. <strong>Aşağıdakilerden hangisi iletişim s&uuml;recinin temel &ouml;gelerinden biri olan mesajın işlevleri arasında <u>yer almaz</u>?</strong>
+    - A-) Tavsiye etmek
+    - B-) Bilgi vermek
+    - C-) Eğlendirmek
+    - D-) Uyarmak
+    - **Cevap E-) Belirginliği azaltmak**
+    ***
+1. <strong>Bilin&ccedil;altını ve insanların davranışlarının ger&ccedil;ek nedenlerini ortaya &ccedil;ıkarmaya &ccedil;alışan ve bunları reklam mesajlarını &ccedil;&ouml;z&uuml;mlemede kullanan &ccedil;&ouml;z&uuml;mleme y&ouml;ntemi aşağıdakilerden hangisidir?&nbsp;</strong>
+    - A-) G&ouml;stergebilim
+    - B-) İ&ccedil;erik Analizi
+    - C-) S&ouml;ylem Analizi
+    - **Cevap D-) Psikanalitik Yaklaşım**
+    - E-) Netnografi
+    ***
 ## Unite 12
+1. I. Sosyoekonomik sınıf<br />
+​II. Stat&uuml;<br />
+III. Değerler<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri bir reklamın toplumbilimsel a&ccedil;ıdan analiz edilebilmesi i&ccedil;in incelenmesi gereken kavramlardandır?</strong>
+    - A-) Yalnız II
+    - B-) I ve II
+    - C-) II ve III
+    - D-) I ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. I. Toplumsal g&uuml;&ccedil; ve iktidar ilişkilerini irdeler.<br />
+​II. Toplumda kabul g&ouml;ren mit ve masalları yaygınlaştırmaya &ccedil;alışır.<br />
+III. Eşitlik, hakkaniyet, adalet gibi değer yargılarını inceleme alanı olarak belirler.<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri Ekonomi-Politik Yaklaşım&#39;ın &ouml;zelliklerinden&nbsp;<u>değildir</u>?</strong>
+    - A-) Yalnız I
+    - **Cevap B-) Yalnız II**
+    - C-) Yalnız III
+    - D-) I ve III
+    - E-) II ve III
+    ***
+1. I. Nesnellik Kuralı<br />
+​II. &Ouml;znellik Kuralı<br />
+III. Kanıtların İleri S&uuml;r&uuml;lmesi Kuralı<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri Durkheim&#39;in Toplumbilimsel Analiz Y&ouml;ntemi&#39;nin kurallarındandır?</strong>
+    - A-) Yanlız I
+    - B-) Yalnız II
+    - C-) Yalnız III
+    - **Cevap D-) I ve III**
+    - E-) I, II ve III
+    ***
+1. <strong>Aşağıdakilerden hangisi Weber&#39;in Toplumbilimsel Analiz Y&ouml;ntemi&#39;nde geliştirdiği ilkelerden biri <u>değildir</u>?</strong>
+    - A-) Nesnellik&nbsp;İlkesi
+    - B-) İdeal Tip Oluşturma&nbsp;İlkesi
+    - **Cevap C-) Toplumsal Tiplerin Oluşturulması&nbsp;İlkesi**
+    - D-) Anlayıcı Toplumbilimsel İlkesi
+    - E-) Değer Yargılarından Arınma İlkesi
+    ***
+1. <span>I.Reklam, bir manip&uuml;lasyon aracıdır.<br />
+​II.Reklam, toplumun estetik anlayışının bir g&ouml;stergesidir.<br />
+​III.Reklam, genel olarak toplumsal değişimin ve d&ouml;n&uuml;ş&uuml;m&uuml;n g&ouml;stergesidir.</span><br />
+<b><span>Yukarıdakilerden hangisi ya da hangileri reklamın toplumbilimsel analizinde toplumbilimcilerin reklama y&ouml;nelik temel g&ouml;r&uuml;şleri arasında yer alır?</span></b> 
+    - A-) Yalnız I
+    - B-) Yalnız III
+    - C-) I ve II
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. <strong>Toplumbilimsel perspektiften bakıldığında reklamların hangi iki boyutu &ouml;nem kazanmaktadır?</strong> 
+    - **Cevap A-) Toplumsal ve ekonomik boyutu**
+    - B-) Sadelik ve yalınlık boyutu
+    - C-) S&uuml;reklilik ve dinamik boyutu
+    - D-) Hesapverilebilirlik ve hukuki boyutu
+    - E-) Ahlaki ve etik boyutu
+    ***
+1. <strong>Toplumbilimciler reklam analizlerine neden başvururlar?</strong> 
+    - A-) Toplumu y&ouml;nlendirmek i&ccedil;in
+    - B-) Reklamları eğlenceli buldukları i&ccedil;in
+    - **Cevap C-) Toplum hakkında yargılara varmak i&ccedil;in**
+    - D-) Gelecek hakkında bir &ouml;ng&ouml;r&uuml;ye sahip olmak i&ccedil;in
+    - E-) Reklamın manip&uuml;lasyon etkisini arttırabilmek i&ccedil;in
+    ***
+1. I.&nbsp; &nbsp;Toplumsal g&uuml;&ccedil; ve iktidar ilişkilerini irdeler.<br />
+II.&nbsp;&nbsp;Var olan egemen yapıya karşı &ccedil;ıkar.<br />
+III.&nbsp;değer yargılarını inceleme alanı olarak belirler.<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri ekonomi-politik yaklaşımın &ouml;zellikleri arasında yer alır?</strong>
+    - A-) Yalnız I
+    - B-) I ve II
+    - C-) I ve III
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. I.&nbsp; &nbsp;Reklam bir manip&uuml;lasyon aracıdır.<br />
+II.&nbsp; Reklam toplumun estetik anlayışının bir g&ouml;stergesidir.<br />
+III. Reklam genel olarak toplumsal değişimin ve d&ouml;n&uuml;ş&uuml;m&uuml;n g&ouml;stergesidir.<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri reklama dair temel g&ouml;r&uuml;şlerdendir?</strong> 
+    - A-) Yalnız I
+    - B-) I ve II
+    - C-) I ve III
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. <strong>Aşağıdaki ifadelerden hangisi toplumbilimsel analiz i&ccedil;in ge&ccedil;erlidir?</strong> 
+    - A-) Toplumbilimsel analiz, &ouml;znel yargıya dayanan bir araştırma tekniğidir.
+    - **Cevap B-) Toplumbilimsel analiz, sosyolojik kuramların t&uuml;m&uuml;n&uuml; kapsamaktadır.**
+    - C-) Toplumbilimsel analiz, psikolojik unsurları merkeze alan bir sistemdir.
+    - D-) Toplumbilimsel analiz, felsefi yaklaşımlardan faydalanmaktadır.
+    - E-) Toplumbilimsel analizin temelinde teknolojik icatlar bulunmaktadır.
+    ***
+1. <strong>Toplumbilimsel analizin inceleme ve değerlendirme s&uuml;recinde bulunan bir araştırmacı aşağıdakilerden hangisini <u>yapmamalıdır</u>?</strong> 
+    - A-) Reklamın toplumsal boyutunu analiz s&uuml;recine katmalıdır.
+    - B-) Analiz s&uuml;recinde reklamın ekonomik boyutunu dikkate almalıdır.
+    - **Cevap C-) Kendi duygu, inan&ccedil; ve değerlerini analize karıştırmalıdır.**
+    - D-) Reklamın yansıttığı değerleri inceleme aşamasında tespit etmelidir.
+    - E-) Değerlendirme s&uuml;recinde reklamın temsil ettiği toplumsal stat&uuml;leri belirlemelidir.
+    ***
+1. <strong>Aşağıdakilerden hangisi Weber&rsquo;in İdeal Tip olarak tanımladığı kavramın &ouml;zelliklerinden biri <u>değildir</u>?&nbsp;</strong>
+    - A-) Tek tek toplumsal olayların saptanması, anlaşılması ve a&ccedil;ıklanmasında kullanılması
+    - B-) Akıl yoluyla ulaşılan soyut zihinsel kurgular olması
+    - C-) İdeal yapısı gereği toplumsal yaşamda yer almaması
+    - **Cevap D-) Toplumsal olarak tipik olmayan &ouml;zellikleri yapısında barındırması**
+    - E-) Tarihsel d&ouml;nemlerde ve toplumsal yaşamda ger&ccedil;ekleşen olayların g&ouml;zlemi sonucunda oluşturulması
+    ***
+1. <strong>Aşağıdakilerden hangisi bir reklamın toplumbilimsel analizinde incelenen temel kavramlardan biri <u>değildir</u>?</strong> 
+    - A-) Sınıf
+    - B-) Azınlıklar
+    - C-) Stereotip
+    - D-) Değerler
+    - **Cevap E-) &Ouml;dipus Kompleksi**
+    ***
+1. <strong>1980 yıllarda gelişen ve bilimde salt akılcılığa ve nesnelliğe karşı bir tutum sergileyen d&uuml;ş&uuml;nce akımı aşağıdakilerden hangisidir?</strong> 
+    - A-) Psikanaliz
+    - **Cevap B-) Postmodernizm**
+    - C-) Emperyalizm
+    - D-) Feminizm
+    - E-) Modernizm
+    ***
+1. <strong>Reklam ve toplum arasında nasıl bir etkileşim s&ouml;z konusudur?</strong> 
+    - A-) Etkileşim yoktur.
+    - B-) Etkileşim tek y&ouml;nl&uuml;d&uuml;r.
+    - C-) Etkileşim ters y&ouml;nl&uuml;d&uuml;r.
+    - **Cevap D-) Etkileşim karşılıklıdır.**
+    - E-) Etkileşim daireseldir.
+    ***
+1. <strong>Toplumsal olguları &ldquo;şeyler&rdquo; olarak inceleyen sosyolog aşağıdakilerden hangisidir?</strong> 
+    - A-) Max Weber
+    - **Cevap B-) Emile Durkheim**
+    - C-) Anthony Giddens
+    - D-) Ralf Dahrendorf
+    - E-) ErichFromm
+    ***
+1. <strong>Toplumbilimsel analiz s&uuml;recinde araştırmacının g&ouml;z &ouml;n&uuml;nde bulundurması gereken unsur aşağıdakilerden hangisidir?</strong> 
+    - **Cevap A-) Araştırmacı, inceleme ve değerlendirme s&uuml;recinde kişisel duygu, inan&ccedil; ve değerlerinden arınmalıdır.**
+    - B-) Araştırmacı, siyasi ve dini g&ouml;r&uuml;şlerini toplumbilimsel analiz s&uuml;recine katmalıdır.
+    - C-) Araştırmacı, toplumbilimsel analiz s&uuml;recinde hangi mesajın verildiğini a&ccedil;ığa &ccedil;ıkarmalıdır.
+    - D-) Araştırmacı, tarihsel gelişimleri ve toplumsal olayları toplumbilimsel analiz s&uuml;recinin dışında tutmalıdır.
+    - E-) Araştırmacı, toplumsal analiz s&uuml;recinde kişisel değer yapısından faydalanmalıdır.
+    ***
+1. <strong>Hangi mesajın verildiğinden ziyade mesajın nasıl verildiği hususunu inceleyen bilimsel analiz y&ouml;ntemi aşağıdakilerden hangisidir?</strong> 
+    - A-) Feminist Analiz
+    - B-) İdeolojik Analiz
+    - **Cevap C-) Toplumbilimsel Analiz**
+    - D-) G&ouml;stergebilimsel Analiz
+    - E-) Marksist Eleştiri
+    ***
+1. ..................., bilincin ve iletişimin toplumda egemen olan siyasi ve ekonomik g&uuml;&ccedil;ler tarafından belirlendiğini ifade eder.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
+
+    - **Cevap A-) Yapısalcılık**
+    - B-) K&uuml;lt&uuml;rc&uuml;l&uuml;k
+    - C-) Bireyselcilik
+    - D-) Evrensellik
+    - E-) &Ccedil;atışmacılık
+    ***
+1. <strong>Aşağıdakilerden hangisi Durkheim&rsquo;in toplumbilimsel analize dair geliştirdiği kurallardan biridir?</strong>
+    - A-) Değer Yargılarından Arınma Kuralı
+    - B-) Anlayıcı Toplumbilimsel Kuralı
+    - **Cevap C-) Toplumsal Tiplerin Oluşturulması Kuralı**
+    - D-) İdeal Tip Oluşturma Kuralı
+    - E-) Toplumsal Eylem Kuramı
+    ***
+1. <strong>Toplumbilimlere dayanan bir y&ouml;ntem olarak toplumbilimsel analiz, reklamların ne şekilde değerlendirilmesine imk&acirc;n sağlar?</strong> 
+    - **Cevap A-) Tek tek toplumsal olayların saptanması, anlaşılması ve a&ccedil;ıklanmasında kullanılması**
+    - B-) Akıl yoluyla ulaşılan soyut zihinsel kurgular olması
+    - C-) İdeal yapısı gereği toplumsal yaşamda yer almaması
+    - D-) Toplumsal olarak tipik olmayan &ouml;zellikleri yapısında barındırması
+    - E-) Tarihsel d&ouml;nemlerde ve toplumsal yaşamda ger&ccedil;ekleşen olayların g&ouml;zlemi sonucunda oluşturulması
+    ***
+1. <strong>&quot;Toplumbilimsel Y&ouml;ntemin Kuralları&rdquo; adlı eserinde, toplumun bir t&uuml;r organizma olduğunu ifade eden, s&ouml;z konusu organizmanın kendiliğinden var olduğunu, kendine has yasaları bulunduğunu ve her bir par&ccedil;asının kendine &ouml;zg&uuml; işleve sahip olduğunu belirten kişi aşağıdakilerden hangisidir?</strong><br />
+
+    - A-) Max Weber
+    - **Cevap B-) Emile Durkheim**
+    - C-) Karl Marx
+    - D-) Auguste Comte
+    - E-) Herbert Spencer
+    ***
+1. <strong>Toplumsal olay ve olgulara neden olan toplumsal ilişkiler, sorunlar ve &ccedil;atışmalar hakkında bilgiye ulaşılabilmek ve gelecekte yaşanabilecek toplumsal değişimler &uuml;zerine tahminler geliştirilebilmek i&ccedil;in kullanılan analiz y&ouml;ntemi aşağıdakilerden hangisidir?&nbsp;</strong>
+    - **Cevap A-) Toplumbilimsel Analiz**
+    - B-) Psikanalitik Analiz
+    - C-) G&ouml;stergebilim
+    - D-) İ&ccedil;erik Analizi
+    - E-) S&ouml;ylem Analizi
+    ***
 ## Unite 13
+1. <strong>&Ccedil;eşitli gruplar hakkında sahip olduğumuz kaba fikir, kanaat ve imajlara ne ad verilir?</strong>
+    - **Cevap A-) Stereotip**
+    - B-) Rol
+    - C-) Stat&uuml;
+    - D-) Sınıf
+    - E-) G&ouml;sterge
+    ***
+1. <strong>Aşağıdakilerden hangisi Rutherford&#39;a g&ouml;re toplumsal cinsiyet&ccedil;i rol a&ccedil;ısından reklamda temsil edilen kadına ait fiziki &ouml;zelliklerden biri <u>değildir</u>?</strong>
+    - **Cevap A-) Kaba**
+    - B-) Zayıf
+    - C-) Duygusal
+    - D-) Nazik
+    - E-) Uyumlu
+    ***
+1. <strong>Bir şeyi halka tanıtmak, beğendirmek ve b&ouml;ylelikle s&uuml;r&uuml;m&uuml;n&uuml; sağlamak i&ccedil;in denenen her t&uuml;rl&uuml; yola ne ad verilir?</strong>
+    - A-) Sembol
+    - **Cevap B-) Reklam**
+    - C-) Mesaj
+    - D-) Kaynak
+    - E-) Stereotip
+    ***
+1. <strong>Aşağıdakilerden hangisi cinsiyet rollerinin oluşumuna ilişkin yaklaşımlardandır?</strong>
+    - **Cevap A-) Biyolojik Yaklaşım - K&uuml;lt&uuml;rel Yaklaşım**
+    - B-) Biyolojik Yaklaşım - Demografik Yaklaşım
+    - C-) Demografik Yaklaşım - K&uuml;lt&uuml;rel Yaklaşım
+    - D-) Biyolojik Yaklaşım - Politik Yaklaşım
+    - E-) K&uuml;lt&uuml;rel Yaklaşım - Politik Yaklaşım
+    ***
+1. <strong>Ataerkil anlayışın bireye kadın ve erkek olmayı iki kutup olarak dayattığını ileri s&uuml;ren Navaro&#39;ya g&ouml;re aşağıdakilerden hangisi erkek i&ccedil;in &quot;Ş&ouml;yle ol!&quot; kalıplardan biri <u>değildir</u>?</strong> 
+    - A-) G&uuml;&ccedil;l&uuml;
+    - B-) Kararlı
+    - C-) H&uuml;kmeden
+    - **Cevap D-) Edilgen**
+    - E-) Sert
+    ***
+1. ...................... cinsiyet rolleri, bireyin toplum i&ccedil;indeki konumunu belirlerken aynı zamanda davranışlarını da bi&ccedil;imlendirmekte ve sosyal stat&uuml;s&uuml;ne belli anlamlar y&uuml;klemektedir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) Politik
+    - B-) Psikolojik
+    - C-) K&uuml;lt&uuml;rel
+    - **Cevap D-) Toplumsal**
+    - E-) Biyolojik
+    ***
+1. Talcott Parsons, erkek ve dişi cinsiyet rolleri &uuml;zerine yaptığı &ccedil;alışmalarda bu rolleri &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. ve &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. roller olarak tanımlamaktadır.<br />
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - **Cevap A-) ara&ccedil;sal - dışavurumsal**
+    - B-) mekanik - ara&ccedil;sal
+    - C-) dışavurumsal - teknik
+    - D-) ara&ccedil;sal - teknik
+    - E-) d&uuml;ş&uuml;nsel - dışavurumsal
+    ***
+1. K&uuml;lt&uuml;rel yaklaşıma g&ouml;re kadın ve erkek rolleri &hellip;&hellip;&hellip;&hellip;.. olarak belirlenmektedir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) kalıtımsal
+    - B-) tarihsel
+    - C-) bireysel
+    - D-) siyasal
+    - **Cevap E-) toplumsal**
+    ***
+1. I.&nbsp; &nbsp;Rol&uuml;n &ouml;ğrenilmesi<br />
+II.&nbsp; Toplumsallaşma<br />
+III. İ&ccedil;selleştirme<br />
+<strong>Cinsiyet&ccedil;i rol s&uuml;reci yukarıdakilerden hangisi ya da hangileri aracılığıyla ger&ccedil;ekleşmektedir?</strong>
+    - A-) Yalnız I
+    - B-) I ve II
+    - C-) I ve III
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. .....................................; &ccedil;eşitli gruplar hakkında sahip olduğumuz kaba fikirler, kanaatler ve imajlardır; g&uuml;nl&uuml;k sohbetlerde, kitle iletişim ara&ccedil;larında, edebiyat ve sanat &uuml;r&uuml;nlerinde vb. geliştirilen ve iletilen iddia ve yorumlardır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) Kalıtımsal yaklaşım
+    - B-) Toplumsal cinsiyet
+    - **Cevap C-) Stereotipler**
+    - D-) Cinsiyet rol&uuml;
+    - E-) Eril/ dişil rol
+    ***
+1. ..........................................erkek ve dişi cinsiyet rolleri &uuml;zerine yaptığı &ccedil;alışmalarda bu rolleri &quot;ara&ccedil;sal&quot; ve &quot;dışavurumsal&quot; roller olarak tanımlamaktadır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) S. Freud
+    - **Cevap B-) T. Parsons**
+    - C-) R. W. Connell
+    - D-) A. Giddens
+    - E-) J. Habermas
+    ***
+1. Cinsiyet rol&uuml; teorisi, bireylerin toplumsal ilişkilere yerleştirilmesini betimlemek &uuml;zere basit bir &ccedil;er&ccedil;eve &ouml;nermektedir. Temel g&ouml;r&uuml;ş bu s&uuml;recin &quot;.......................&quot;, &quot;.........................&quot; veya &quot;.........................&quot; aracılığıyla ger&ccedil;ekleştiğidir.<br />
+<strong>Paragrafta boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - **Cevap A-) rol&uuml;n &ouml;ğrenilmesi - toplumsallaşma - i&ccedil;selleştirme**
+    - B-) araştırma - dinleme - i&ccedil;selleştirme
+    - C-) duyma - i&ccedil;selleştirme - toplumsallaşma
+    - D-) g&ouml;rme - i&ccedil;selleştirme - toplumsallaşma
+    - E-) sosyalleşme - i&ccedil;selleştirme - okuma
+    ***
+1. <strong>Rol kavramının toplumsal cinsiyet uyarlamalarının ana fikri, kişinin cinsiyetiyle belirlenen genel bir rol&uuml;n canlandırılmasıdır. Bu bağlamda iki cinsiyet rol&uuml; mevcuttur. Bunlar aşağıdakilerden hangileridir?</strong> 
+    - A-) &Ccedil;ocuk Rol&uuml;
+    - B-) Yetişkin Rol&uuml;
+    - C-) Anne /Baba Rol&uuml;
+    - D-) Yaşlı/Gen&ccedil; Rol&uuml;
+    - **Cevap E-) Eril Rol / Dişil Rol**
+    ***
+1. Bir toplumda yer alan &quot;kadınlık&quot; ve &quot;erkeklik&quot; tanımları&quot; ve bunlara ilişkin imajlar, stereotipler, bunlara atfedilen &ouml;zellikler; cinsiyet ve rol stat&uuml;leri, davranış kalıpları, cinsiyete dayalı işb&ouml;l&uuml;m&uuml;; cinsiyet kimlikleri ve bunların oluşum s&uuml;reci; cinsler arası ilişkilerin d&uuml;zenlenmesi; evlenme adetleri, aşk ve g&uuml;zellik anlayışları o toplumun ...................................... oluşturmaktadır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) &Ouml;nyargılarını
+    - **Cevap B-) Cinsiyet k&uuml;lt&uuml;r&uuml;n&uuml;**
+    - C-) Ahlaki değerlerini
+    - D-) K&uuml;lt&uuml;rel yapısını
+    - E-) Geleneklerini
+    ***
+1. <strong>Kadın ve erkek arasındaki kapasite ve yetenek farklılıklarının, toplum i&ccedil;indeki &ccedil;eşitli rolleri yerine getirmede temel karakteristikler olduğunu ileri s&uuml;ren yaklaşım aşağıdakilerden hangisidir?</strong> 
+    - A-) Psikolojik Yaklaşım
+    - B-) K&uuml;lt&uuml;rel Yaklaşım
+    - C-) Politik Yaklaşım
+    - **Cevap D-) Biyolojik Yaklaşım**
+    - E-) Sosyolojik Yaklaşım
+    ***
+1. <strong>Hangi yaklaşıma g&ouml;re kadın ve erkek rolleri toplumsal olarak belirlenmektedir?</strong> 
+    - A-) Kalıtımsal Yaklaşım
+    - B-) Biyolojik Yaklaşım
+    - C-) Ataerkil yaklaşım
+    - D-) Psikolojik Yaklaşım
+    - **Cevap E-) K&uuml;lt&uuml;rel yaklaşım**
+    ***
+1. <strong>Reklam filmlerinde erkekler genellikle hangi roller &ccedil;er&ccedil;evesinde temsil <u>edilmez</u>?</strong> 
+    - A-) Başarılı/g&uuml;&ccedil;l&uuml;
+    - B-) Akıllı/sportif
+    - **Cevap C-) Duygusal/&Ccedil;alışmayan**
+    - D-) Cesur/Hırslı
+    - E-) Sert/Kararlı
+    ***
+1. Aşağıdaki a&ccedil;ıklamalardan hangisi cinsiyet kavramının doğru tanımıdır? 
+    - A-) Bireyin sosyolojik &ouml;zelliklerini i&ccedil;erir.
+    - **Cevap B-) Bireyin biyolojik cinsiyetine dayalı olarak belirlenmektedir.**
+    - C-) Bireyin yaşını, demografik &ouml;zelliklerini i&ccedil;eren bir kavramdır.
+    - D-) K&uuml;lt&uuml;rel olarak inşa edilen değerlerdir.
+    - E-) Toplumsal alanda bireye y&uuml;klenen değerlerdir.
+    ***
+1. Bandura&#39;ya g&ouml;re &ccedil;ocuklar, hayran oldukları insanların standart davranışlarını ve kişilik &ouml;zelliklerini kendilerine model almaktadırlar.<br />
+<strong>Buna g&ouml;re aşağıdakilerden hangisi &ccedil;ocuklar tarafından başlangı&ccedil;ta taklit i&ccedil;in model alınır?</strong>
+    - **Cevap A-) Anne**
+    - B-) &Ouml;ğretmen
+    - C-) Kardeş
+    - D-) Arkadaş
+    - E-) &Uuml;nl&uuml; sporcu
+    ***
+1. <strong>İnsanların &ccedil;eşitli gruplar hakkında sahip oldukları kaba fikirler, kanaatler ve imajlar; g&uuml;nl&uuml;k sohbetlerde, kitle iletişim ara&ccedil;larında, edebiyat ve sanat &uuml;r&uuml;nlerinde vb. geliştirilen ve iletilen iddia ve yorumlar ile gruplara y&uuml;klenen olumlu ya da olumsuz imajlar aşağıdaki hangi kavramın a&ccedil;ıklamasıdır?</strong>
+    - **Cevap A-) Stereotip**
+    - B-) Cinsiyet
+    - C-) Toplumsal cinsiyet
+    - D-) Kalıtımsal Yaklaşım
+    - E-) Rol
+    ***
+1. <strong>Aşağıdakilerden hangisi reklam filmlerinde kadına y&uuml;klenen&nbsp;toplumsal cinsiyet stereotiplerinden biri&nbsp;<u>değildir</u>?</strong>
+    - A-) G&uuml;&ccedil;s&uuml;z
+    - B-) Kararsız
+    - **Cevap C-) H&uuml;kmeden**
+    - D-) Bağımlı
+    - E-) Uyum g&ouml;steren
+    ***
+1. <strong>Cinsiyetin biyolojik tanımının &#246;tesinde&#160; psikolojik olarak “erkeklik” ve “kadınlık” idealinin k&#252;lt&#252;rel boyutta toplumsal olarak oluşturulmasını ifade eden kavram aşağıdakilerden hangisidir?</strong>
+    - A-) Cinsiyet
+    - **Cevap B-) Toplumsal cinsiyet**
+    - C-) Stereotip
+    - D-) Rol
+    - E-) K&#252;lt&#252;r
+    ***
 ## Unite 14
+1. <strong>Aşağıda feminizm ile ilgili yer alan ifadelerden hangisi <u>yanlıştır</u><span>?</span></strong>
+    - **Cevap A-) 2000&#39;li yılların başlarında &ouml;zg&uuml;rl&uuml;k&ccedil;&uuml; akımların bir par&ccedil;ası olarak g&ouml;r&uuml;n&uuml;rl&uuml;k kazanmıştır.**
+    - B-) Kadınların siyasi, k&uuml;lt&uuml;rel ve ekonomik alanlarda erkekler ile aynı haklara sahip olması gerektiğini savunur.
+    - C-) Erkekler lehine işleyen cinsiyet ayrımcılığı dolayısıyla ortaya &ccedil;ıkmıştır.
+    - D-) Kadınların kamusal alana etkin bir bi&ccedil;imde katılabilmesini ama&ccedil;layan&nbsp;eşitlik m&uuml;cadelesidir.
+    - E-) Erkek egemen k&uuml;lt&uuml;r tarafından kadınlar i&ccedil;in belirlenen rollere karşı &ccedil;ıkar.
+    ***
+1. <strong>Feminist analiz ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Kitle iletişim &uuml;r&uuml;nlerinde kadının erkeklerle eşit bir konumda sunulup sunulmadığını inceler.
+    - B-) Kadının klişeleşmiş temsillerle sunulmasına karşı eleştirel bir tavır i&ccedil;erir.
+    - C-) Kendini &ouml;zg&uuml;rce ifade edebilen kadın imgelerin g&ouml;r&uuml;n&uuml;rl&uuml;k kazanmasını sağlama amacı taşır.
+    - D-) Kitle iletişim &uuml;r&uuml;nlerinde ideal kadın olarak sunulan modelin sorgulanmasını ama&ccedil;lar.
+    - **Cevap E-) Kadınların k&uuml;lt&uuml;rel &uuml;retim s&uuml;recinde etkin olmayan roller &uuml;stlenmesini teşvik eder.**
+    ***
+1. <b><span>Filmlerde f</span></b><strong>eminist analiz y&ouml;nteminin kullanılışı ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - **Cevap A-) Erkeğin kadın iktidarını pekiştiren bir zemin olarak kullanılıp kullanılmadığı incelenir.**
+    - B-) Kadının nasıl temsil edildiği ve kadın karakterlerin nasıl şekillendirildiği ortaya konur.
+    - C-) Kadına y&uuml;klenen cinsiyet rolleri ve filmin anlatısı arasındaki bağlantılar irdelenir.
+    - D-) Kadına ilişkin ger&ccedil;eği yansıtan toplumsallaşma &ouml;r&uuml;nt&uuml;lerinin izi s&uuml;r&uuml;l&uuml;r.
+    - E-) Ataerkil toplumsal yapının izlerinin ne &ouml;l&ccedil;&uuml;de taşındığı a&ccedil;ığa &ccedil;ıkarılır.
+    ***
+1. I.&nbsp; &nbsp;&Ccedil;ocuksu karakter<br />
+II.&nbsp; Sadık eş<br />
+III. Yatıştırıcı anne<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri filmlerde kadınların yer alış bi&ccedil;imleriyle ilgili kalıplaşmış temsillerdendir?</strong> 
+    - A-) Yalnız II
+    - B-) Yalnız III
+    - C-) I ve III
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
+1. Douglas ve Kellner&#39;ın belirttiği gibi feminist film kuramları sinemanın &ouml;z&uuml; itibarıyla .................. olduğunu &ouml;ne s&uuml;rmektedir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) akılcı
+    - B-) stat&uuml;kocu
+    - C-) devrimci ve değişimci
+    - **Cevap D-) dikizci ve g&ouml;zetlemeci**
+    - E-) yorumsayıcı
+    ***
+1. Feminist analiz y&ouml;ntemi aracılığıyla kadınların erkek egemen zihniyetin bakış a&ccedil;ısı &uuml;zerinden konumlandırılmasının &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; karşılığı ortaya konur.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - **Cevap A-) film anlatısındaki**
+    - B-) ev yaşamındaki
+    - C-) istatistiki verilerdeki
+    - D-) end&uuml;striyel değişimlerdeki
+    - E-) toplumsal cinsiyete dair yaklaşımlardaki
+    ***
+1. <strong>Aşağıdakilerden hangisi feminist hareketin doğduğu toplumsal bağlamın bir par&ccedil;ası <u>değildir</u>?</strong> 
+    - A-) Hippi k&uuml;lt&uuml;r&uuml;
+    - B-) Siyahların haklarına ilişkin hareketler
+    - C-) Eşcinsel hareketi
+    - D-) Kapitalizm karşıtı hareketler
+    - **Cevap E-) Hollywood st&uuml;dyo sisteminin doğuşu**
+    ***
+1. Kadının k&uuml;lt&uuml;rel olarak kendisine dayatılan rolden farklı bir rol &uuml;stlenebilme &ouml;zg&uuml;rl&uuml;ğ&uuml; i&ccedil;in m&uuml;cadele eden feminizm, bu bağlamda &hellip;&hellip;&hellip;&hellip;&hellip;&hellip; olarak tanımlanan &ouml;zelliklerin ve kalıpların sorgulamaya tabi tutulmasını hedefler.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) Marksist
+    - **Cevap B-) kadın doğası**
+    - C-) kitle iletişim ara&ccedil;ları
+    - D-) eşcinsellik
+    - E-) sosyoloji
+    ***
+1. I. Kamera a&ccedil;ıları<br />
+II. Kurgu<br />
+III. Olay &ouml;rg&uuml;s&uuml;<br />
+IV. Kamera hareketleri<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri bir filmde Feminist Analiz Y&ouml;ntemi&#39;nin değerlendireceği bi&ccedil;imsel &ouml;zellikler arasında <u>yer almaz</u>?</strong> 
+    - **Cevap A-) Yalnız III**
+    - B-) Yalnız II
+    - C-) I ve IV
+    - D-) I ve III
+    - E-) II, III ve IV
+    ***
+1. <strong>&quot;Feminist Hareket&#39;in ve Kuramı&#39;n işaret ettiği gibi, erkeklik ve kadınlık kategorileri par&ccedil;alı ve değişkendir.&rdquo; &ouml;nermesi aşağıdakilerden hangisini ifade etmektedir?</strong> 
+    - **Cevap A-) Toplumsal cinsiyet rollerinin sabit olmadığını**
+    - B-) Kadınların geleneksel rolleri i&ccedil;ine sıkışıp kaldığını
+    - C-) Feminist hareketin t&uuml;ketim toplumunun etkisi altında kaldığını
+    - D-) Eşcinsellerin ve kadınların baskı altında olduğunu
+    - E-) Filmlerdeki kadın temsillerinin, y&ouml;netmenin bi&ccedil;imsel tercihlerinden bağımsız olduğunu
+    ***
+1. Feminist analiz y&ouml;ntemi, erkekler tarafından yaratılmış kadın karakterler &uuml;zerinden, kalıplaşmış kadınlık rollerinin nasıl &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. ya da aksi durumda kadınların geleneksel rol kalıplarının nasıl d&ouml;n&uuml;şt&uuml;r&uuml;ld&uuml;ğ&uuml;n&uuml; sorgulama amacı taşır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) &ouml;zg&uuml;rleştirici olduğunu
+    - B-) yok olduğunu
+    - **Cevap C-) yeniden &uuml;retildiğini**
+    - D-) sarsıldığını
+    - E-) eleştirildiğini
+    ***
+1. Feminist kuram ve eleştiri kadınların &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; s&uuml;recinde daha etkin roller &uuml;stlenmesini teşvik eder.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) geleneksel rollerin &uuml;retimi
+    - **Cevap B-) k&uuml;lt&uuml;rel &uuml;retim**
+    - C-) annelik rol&uuml;n&uuml;n devamı
+    - D-) l&uuml;ks t&uuml;ketimin artırılması
+    - E-) sabit kadınlık kategorilerinin sağlamlaştırılması
+    ***
+1. Kadınların da siyasi, k&uuml;lt&uuml;rel ve ekonomik alanlarda erkeklerle aynı haklara sahip olması, s&ouml;z konusu alanlarda etkin bir rol &uuml;stlenmesi ve karar alabilmesi ..................&nbsp;hareketin temel m&uuml;cadele alanını oluşturmuştur.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
+
+    - A-) muhafazak&acirc;r
+    - **Cevap B-) feminist**
+    - C-) feodal
+    - D-) ataerkil
+    - E-) emperyalist
+    ***
+1. Aşağıdakilerden hangisi feminist analiz i&ccedil;in doğrudan &ouml;nemli <strong><u>değildir</u></strong>? 
+    - A-) Toplumsal cinsiyet
+    - B-) Psikanaliz
+    - C-) Marksist analiz
+    - D-) İdeoloji
+    - **Cevap E-) Kişisel gelişim**
+    ***
+1. I. Film-Kurumsal değerlerin aktarılması<br />
+II. Geleneksel kadınlık rolleri-Ataerkil k&uuml;lt&uuml;r<br />
+III. Filmde kameranın işleyiş bi&ccedil;imi- İdeoloji<br />
+IV. G&ouml;rsel haz nesnesi olarak kadın-Kadın karakterin &ouml;zg&uuml;rleşimi<br />
+Feminist analiz &ccedil;er&ccedil;evesinde yukarıdaki eşleştirmelerden hangisi veya hangileri anlam taşır? 
+    - A-) Yalnız II
+    - B-) II ve III
+    - **Cevap C-) I, II ve III**
+    - D-) III ve IV
+    - E-) I, III ve IV
+    ***
+1. <strong>Feminizmle ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Kadına &ouml;zg&uuml; olarak tanımlanan &ouml;zelliklerin ve kalıpların sorgulamaya tabi tutulmasını hedefler.
+    - B-) Kadınların ataerkil ifade bi&ccedil;imlerine başvurmasına ve ataerkil sisteme rıza g&ouml;stermesine y&ouml;nelik g&uuml;&ccedil;l&uuml; bir eleştiri mevcuttur.
+    - C-) Kadınların k&uuml;lt&uuml;rel &uuml;retim s&uuml;recinde daha etkin roller &uuml;stlenmesini teşvik eder.
+    - **Cevap D-) Kadınların kamusal alanda yer almaması gerektiğini savunarak erkek egemenliğini destekler.**
+    - E-) Kadınların kendi hik&acirc;yelerini anlatmaları, kendi anlatılarında &ouml;zne ve eyleyen olmaları feminizmin m&uuml;cadele alanı i&ccedil;indedir.
+    ***
+1. <strong>Aşağıdakilerden hangisi reklam filmlerinde genellikle g&ouml;sterilen kadın temsillerinden biri <u>değildir</u>?</strong>
+    - A-) Kadınlar sıklıkla erkekler ile ilişkileri &uuml;zerinden anlam kazanır.
+    - B-) Kadınların g&ouml;rsel temsili erkek egemen bir k&uuml;lt&uuml;r&uuml;, erkeğin bakışın sahibi olduğu bir k&uuml;lt&uuml;r&uuml; yansıtır.
+    - C-) Kadının seyir nesnesi olması &uuml;zerinden işleyen bir g&ouml;rsel haz deneyimi ve kadın bedeninin t&uuml;ketim nesnesi olarak g&ouml;r&uuml;lmesi s&ouml;z konusudur.
+    - **Cevap D-) Kadınlar, ayakları &uuml;zerinde duran g&uuml;&ccedil;l&uuml; bireyler olarak g&ouml;sterilir.**
+    - E-) Kadınlar sıklıkla anne, eve bağımlı kadın rol&uuml; ile ya da g&uuml;zelliği ile &ouml;n plana &ccedil;ıkan arzu nesnesi olarak sunulur.
+    ***
