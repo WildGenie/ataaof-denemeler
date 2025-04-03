@@ -3059,6 +3059,25 @@
     "CevapSira": 2
   },
   {
+    "SoruID": 173379,
+    "SoruMetni": "<strong>Fotografik bir sahneyi aydınlatmak i&ccedil;in kullanılan g&uuml;n ışığını taklit eden flaşlar ka&ccedil; Kelvin derecedeki renk sıcaklığına g&ouml;re kalibre edilmiştir?</strong>",
+    "A": "3600",
+    "B": "1200",
+    "C": "7500",
+    "D": "5500",
+    "E": "2700",
+    "DogruCevap": "D",
+    "DersAd": "Sayısal Fotoğraf",
+    "Somestre": 0,
+    "DogruCevapSirasi": 4,
+    "Unite": 8,
+    "OlusturmaTarihi": "2025-01-22T08:52:23.62+03:00",
+    "GelYer": 1,
+    "DersId": 442,
+    "OBSDersId": 73380,
+    "CevapSira": 4
+  },
+  {
     "SoruID": 173382,
     "SoruMetni": "<strong>Dijital fotoğraf makinesiyle &ccedil;ekilen fotoğrafların sayısal veri olarak depolandığı bir gere&ccedil; olan hafıza kartı aşağıdakilerden hangisiyle ifade edilir?</strong>",
     "A": "CF-SD-SDHC-SDXC",
@@ -3969,6 +3988,25 @@
     "DersId": 442,
     "OBSDersId": 73380,
     "CevapSira": 4
+  },
+  {
+    "SoruID": 180217,
+    "SoruMetni": "<strong>Aşağıdakilerden hangisi sayısal fotoğraf işleme programı Lightroom&rsquo;un &ouml;zelliklerinden biri <u>değildir</u>?</strong>",
+    "A": "Sayısal fotoğraflar &uuml;zerinde ışık d&uuml;zenlemelerinin yapılması",
+    "B": "Sayısal fotoğraflar &uuml;zerinde&nbsp;renk d&uuml;zenlemelerinin yapılması",
+    "C": "Sayısal fotoğraflar &uuml;zerinde istenmeyen p&uuml;r&uuml;zlerin giderilmesi",
+    "D": "Sayısal fotoğrafları yeniden croplaması",
+    "E": "Sayısal fotoğraflara m&uuml;dahale konusunda olduk&ccedil;a sınırlı olması",
+    "DogruCevap": "E",
+    "DersAd": "Sayısal Fotoğraf",
+    "Somestre": 0,
+    "DogruCevapSirasi": 5,
+    "Unite": 10,
+    "OlusturmaTarihi": "2025-01-22T08:52:23.62+03:00",
+    "GelYer": 1,
+    "DersId": 442,
+    "OBSDersId": 73380,
+    "CevapSira": 5
   },
   {
     "SoruID": 180218,
@@ -5149,6 +5187,25 @@
     "CevapSira": 2
   },
   {
+    "SoruID": 180272,
+    "SoruMetni": "<strong>Aşağıdaki DPI değerlerinden hangisi standart baskı değeri olarak kabul edilir?</strong>",
+    "A": "72 DPI",
+    "B": "500 DPI",
+    "C": "300 DPI",
+    "D": "100 DPI",
+    "E": "200 DPI",
+    "DogruCevap": "C",
+    "DersAd": "Sayısal Fotoğraf",
+    "Somestre": 0,
+    "DogruCevapSirasi": 3,
+    "Unite": 14,
+    "OlusturmaTarihi": "2025-01-22T08:52:23.62+03:00",
+    "GelYer": 1,
+    "DersId": 442,
+    "OBSDersId": 73380,
+    "CevapSira": 3
+  },
+  {
     "SoruID": 180275,
     "SoruMetni": "<strong>Aşağıdaki yazıcı t&uuml;rlerinden hangisinde m&uuml;rekkep yerine toner kullanılır?</strong>",
     "A": "Lazer yazıcı ",
@@ -5166,6 +5223,25 @@
     "DersId": 442,
     "OBSDersId": 73380,
     "CevapSira": 1
+  },
+  {
+    "SoruID": 180276,
+    "SoruMetni": "<strong>G&ouml;r&uuml;nt&uuml;ler A4 boyutunda, hızlı bir şekilde ve &ccedil;ok sayıda kopyalar h&acirc;linde alınması gerektiğinde aşağıdaki yazıcılardan hangisi tercih edilmelidir?</strong> ",
+    "A": "Nokta vuruşlu yazıcı ",
+    "B": "Lazer yazıcı ",
+    "C": "Piezo yazıcı ",
+    "D": "Katı m&uuml;rekkepli yazıcı",
+    "E": "Termal yazıcı",
+    "DogruCevap": "B",
+    "DersAd": "Sayısal Fotoğraf",
+    "Somestre": 0,
+    "DogruCevapSirasi": 2,
+    "Unite": 14,
+    "OlusturmaTarihi": "2025-01-22T08:52:23.62+03:00",
+    "GelYer": 1,
+    "DersId": 442,
+    "OBSDersId": 73380,
+    "CevapSira": 2
   },
   {
     "SoruID": 180277,

@@ -2413,6 +2413,25 @@
     "CevapSira": 5
   },
   {
+    "SoruID": 376871,
+    "SoruMetni": "<strong>Kullanıcının yaptığı rutin işleri daha hızlı ve otomatik yapabilmesi i&#231;in aşağıdaki hangi gruptaki komutları kullanılması gerekmektedir?</strong>",
+    "A": "Pencere",
+    "B": "Yazım",
+    "C": "Değişiklikler",
+    "D": "Makrolar",
+    "E": "Sırala ve Filtre Uygula",
+    "DogruCevap": "D",
+    "DersAd": "Temel Bilgi Teknolojileri I",
+    "Somestre": 0,
+    "DogruCevapSirasi": 4,
+    "Unite": 8,
+    "OlusturmaTarihi": "2025-01-22T08:52:23.62+03:00",
+    "GelYer": 1,
+    "DersId": 315,
+    "OBSDersId": 34122,
+    "CevapSira": 4
+  },
+  {
     "SoruID": 376873,
     "SoruMetni": "<strong>A3 s&uuml;tununda yer alan sayısal verinin ondalıktan sonra 3 basamak g&ouml;r&uuml;nt&uuml;lenmesi&nbsp;i&ccedil;in hangi ayarlamaların yapılması gerekmektedir?</strong>",
     "A": "H&uuml;cre bi&ccedil;imlendirmesindeki &ldquo;Sayı&rdquo; sekmesinde yer alan &ldquo;Metin&rdquo; se&ccedil;eneğinden gerekli ayarlamalar yapılmalıdır.",
@@ -2641,6 +2660,25 @@
     "CevapSira": 4
   },
   {
+    "SoruID": 376880,
+    "SoruMetni": "<strong>Excel programını yeni &ouml;ğrenen Ahmet A4 h&uuml;cresine &ldquo;=(A1+ A2+ A3)/3&rdquo; form&uuml;l&uuml;n&uuml; yazmıştır. Ahmet aşağıdaki fonksiyonlardan hangisini kullanarak bu işlemi daha kısa bir şekilde yapabilir?</strong>",
+    "A": "ORTALAMA",
+    "B": "TOPLAMA",
+    "C": "EGER",
+    "D": "EGERSAY",
+    "E": "BAG_DEG_SAY",
+    "DogruCevap": "A",
+    "DersAd": "Temel Bilgi Teknolojileri I",
+    "Somestre": 0,
+    "DogruCevapSirasi": 1,
+    "Unite": 9,
+    "OlusturmaTarihi": "2025-01-22T08:52:23.62+03:00",
+    "GelYer": 1,
+    "DersId": 315,
+    "OBSDersId": 34122,
+    "CevapSira": 1
+  },
+  {
     "SoruID": 392907,
     "SoruMetni": "<strong>Excel programında &quot;=D1+D2+D3+D4+D5+D6&quot; form&uuml;l&uuml; aşağıdakilerden hangisi ile aynıdır?</strong>",
     "A": "=TOPLA(D1,D6)",
@@ -2867,6 +2905,25 @@
     "DersId": 315,
     "OBSDersId": 34122,
     "CevapSira": 2
+  },
+  {
+    "SoruID": 376909,
+    "SoruMetni": "<strong>Aşağıdakilerden hangisi&nbsp;&Ouml;ğrenme Y&ouml;netim Sistemlerinin</strong> (<strong>&Ouml;YS) sistem d&uuml;zeyindeki rollerdendir?</strong>",
+    "A": "Tema/Aray&uuml;z sorumlusu",
+    "B": "Eğitimci",
+    "C": "&Ouml;ğrenci",
+    "D": "D&uuml;zenleme yapamayan eğitimci",
+    "E": "Misafir",
+    "DogruCevap": "A",
+    "DersAd": "Temel Bilgi Teknolojileri I",
+    "Somestre": 0,
+    "DogruCevapSirasi": 1,
+    "Unite": 10,
+    "OlusturmaTarihi": "2025-01-22T08:52:23.62+03:00",
+    "GelYer": 1,
+    "DersId": 315,
+    "OBSDersId": 34122,
+    "CevapSira": 1
   },
   {
     "SoruID": 376911,
@@ -3133,6 +3190,25 @@
     "DersId": 315,
     "OBSDersId": 34122,
     "CevapSira": 3
+  },
+  {
+    "SoruID": 376913,
+    "SoruMetni": "<strong>Farklı mek&acirc;nlarda bulunan &ouml;ğretici ve &ouml;ğrenenlerin aynı anda web destekli cihazlarla katılım sağladıkları &ouml;ğrenme ortamı aşağıdakilerden hangisidir?</strong><br />\r\n",
+    "A": "Eş zamanlı",
+    "B": "Y&uuml;z y&uuml;ze",
+    "C": "Karma",
+    "D": "Eş zamanlı olmayan",
+    "E": "Geleneksel",
+    "DogruCevap": "A",
+    "DersAd": "Temel Bilgi Teknolojileri I",
+    "Somestre": 0,
+    "DogruCevapSirasi": 1,
+    "Unite": 11,
+    "OlusturmaTarihi": "2025-01-22T08:52:23.62+03:00",
+    "GelYer": 1,
+    "DersId": 315,
+    "OBSDersId": 34122,
+    "CevapSira": 1
   },
   {
     "SoruID": 376914,
@@ -3418,6 +3494,25 @@
     "DersId": 315,
     "OBSDersId": 34122,
     "CevapSira": 2
+  },
+  {
+    "SoruID": 376925,
+    "SoruMetni": "I. Dosya transfer etme<br />\r\nII. Hiperlinkler g&ouml;nderme<br />\r\nIII. Video chat yapma<br />\r\nIV. Sesli/g&ouml;r&uuml;nt&uuml;l&uuml; dosya g&ouml;nderme<br />\r\n<strong>Yukarıdakilerden hangisi ya da hangileri anlık mesajlaşma uygulamalarının sunduğu olanaklar arasında yer alır?</strong>",
+    "A": "Yalnız I",
+    "B": "Yalnız II",
+    "C": "I ve III",
+    "D": "I, III ve IV",
+    "E": "I, II, III ve IV",
+    "DogruCevap": "E",
+    "DersAd": "Temel Bilgi Teknolojileri I",
+    "Somestre": 0,
+    "DogruCevapSirasi": 5,
+    "Unite": 12,
+    "OlusturmaTarihi": "2025-01-22T08:52:23.62+03:00",
+    "GelYer": 1,
+    "DersId": 315,
+    "OBSDersId": 34122,
+    "CevapSira": 5
   },
   {
     "SoruID": 376927,
@@ -3950,5 +4045,24 @@
     "DersId": 315,
     "OBSDersId": 34122,
     "CevapSira": 4
+  },
+  {
+    "SoruID": 393000,
+    "SoruMetni": "A&ccedil;ık ve uzaktan &ouml;ğretimde kullanılan materyaller arasında olan e-kitaplar, animasyonlar, videolar, sesli okumaların&nbsp;hazırlanmasında &ouml;ğretim tasarımcısı, grafikerler, ses ve video uzmanları, kameramanlar, senaryo geliştiriciler gibi alanında uzman kişiler g&ouml;rev alır.<br />\r\n<strong>A&ccedil;ıklamada bahsedilen a&ccedil;ık ve uzaktan &ouml;ğretim paydaşı aşağıdakilerden hangisidir?</strong>",
+    "A": "İ&ccedil;erik Geliştiriciler",
+    "B": "Bilgi İşlem Uzmanları",
+    "C": "Destek Sağlayıcılar",
+    "D": "&Ouml;l&ccedil;me Değerlendirme Uzmanları",
+    "E": "&Ouml;ğretici",
+    "DogruCevap": "A",
+    "DersAd": "Temel Bilgi Teknolojileri I",
+    "Somestre": 0,
+    "DogruCevapSirasi": 1,
+    "Unite": 14,
+    "OlusturmaTarihi": "2025-01-22T08:52:23.62+03:00",
+    "GelYer": 1,
+    "DersId": 315,
+    "OBSDersId": 34122,
+    "CevapSira": 1
   }
 ]
