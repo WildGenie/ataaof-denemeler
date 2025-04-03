@@ -82,25 +82,57 @@ public class Soru
 public class Program
 {
     private static readonly HttpClient client = new HttpClient();
+    private static string outputDirectory;
+    private static string jsonDirectory;
+    private static string mdDirectory;
+    private static string pdfDirectory;
 
     public static async Task Main(string[] args)
     {
+        // Create output directories
+        SetupOutputDirectories();
+        
         await SorularMain(args);
         //await SinavKitapcikMain(args);
+    }
+
+    private static void SetupOutputDirectories()
+    {
+        // Get project directory (parent of the executing directory)
+        string projectDirectory = Directory.GetCurrentDirectory();
+        // ./bin/Debug/net8.0
+        // Get the parent directory
+        projectDirectory = Directory.GetParent(projectDirectory).Parent.Parent.FullName;
+        
+        // Create main output directory
+        outputDirectory = Path.Combine(projectDirectory, "output");
+        Directory.CreateDirectory(outputDirectory);
+        
+        // Create subdirectories
+        jsonDirectory = Path.Combine(outputDirectory, "json");
+        mdDirectory = Path.Combine(outputDirectory, "md");
+        pdfDirectory = Path.Combine(outputDirectory, "pdf");
+        
+        Directory.CreateDirectory(jsonDirectory);
+        Directory.CreateDirectory(mdDirectory);
+        Directory.CreateDirectory(pdfDirectory);
     }
 
     public static async Task SorularMain(string[] args)
     {
         // Ders listesini dersler.json dosyasından oku
         var dersler = JsonSerializer.Deserialize<List<Ders>>(File.ReadAllText("dersler.json"));
-        string readmeDosyaAdi = $"readme.md";
+        string readmeDosyaAdi = Path.Combine(mdDirectory, "readme.md");
         var readmeBuilder = new StringBuilder();
         readmeBuilder.AppendLine("# ATA-AÖF Grafik Sanatlar Soruları");
 
         foreach (var ders in dersler)
         {
-            string markdownDosyaAdi = $"{ders.DersiVeren ?? "ATA-AÖF"} - Dönem {ders.Donem} - {ders.CourseName} - Sorular.md";
-            readmeBuilder.AppendLine($"- [Dönem {ders.Donem} - {ders.CourseName}](<{markdownDosyaAdi}>)");
+            string markdownFileName = $"{ders.DersiVeren ?? "ATA-AÖF"} - Dönem {ders.Donem} - {ders.CourseName} - Sorular.md";
+            string markdownFilePath = Path.Combine(mdDirectory, markdownFileName);
+            
+            // Use just the file name in links, not the full path
+            readmeBuilder.AppendLine($"- [Dönem {ders.Donem} - {ders.CourseName}](<{markdownFileName}>)");
 
             var markdownBuilder = new StringBuilder();
             markdownBuilder.AppendLine($"# {ders.CourseName}");
@@ -118,9 +150,11 @@ public class Program
             }
 
             // Tüm soruları JSON olarak dosyaya kaydet
-            KaydetJson($"{ders.DersiVeren ?? "ATA-AÖF"} - Dönem {ders.Donem} - {ders.CourseName} - Tüm Sorular.json", tumSorular);
+            string jsonFileName = $"{ders.DersiVeren ?? "ATA-AÖF"} - Dönem {ders.Donem} - {ders.CourseName} - Tüm Sorular.json";
+            string jsonFilePath = Path.Combine(jsonDirectory, jsonFileName);
+            KaydetJson(jsonFilePath, tumSorular);
 
-            File.WriteAllText(markdownDosyaAdi, markdownBuilder.ToString());
+            File.WriteAllText(markdownFilePath, markdownBuilder.ToString());
         }
 
         File.WriteAllText(readmeDosyaAdi, readmeBuilder.ToString());
@@ -138,7 +172,9 @@ public class Program
                 using var response = await client.GetAsync($"https://oys.ataaof.edu.tr/ktpcik/{ders.DersId}.pdf");
                 response.EnsureSuccessStatusCode();
                 var pdfBytes = await response.Content.ReadAsByteArrayAsync();
-                File.WriteAllBytes($"{ders.Donem} - {ders.CourseName} - 2024-2025 Bütünleme Sınavı Soruları - ATA-AÖF.pdf", pdfBytes);
+                string pdfFileName = $"{ders.Donem} - {ders.CourseName} - 2024-2025 Bütünleme Sınavı Soruları - ATA-AÖF.pdf";
+                string pdfFilePath = Path.Combine(pdfDirectory, pdfFileName);
+                File.WriteAllBytes(pdfFilePath, pdfBytes);
             }
             catch (HttpRequestException ex)
             {
