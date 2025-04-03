@@ -916,6 +916,13 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) Rebus taslaklar
     - E-) &Ccedil;er&ccedil;eveli taslaklar
     ***
+1. <strong>Aşağıdakilerden hangisi reklam afişlerinden <u>değildir</u>?</strong>
+    - A-) X isimli ayakkabı afişi
+    - **Cevap B-) G isimli şarkıcı afişi**
+    - C-) K isimli peynir afişi
+    - D-) Ş isimli mağaza afişi
+    - E-) M isimli telefon operat&#246;r afişi
+    ***
 1. <strong>Belirli ve g&ouml;receli dar kapsamlı bir konuya ilişkin, derlenmiş bilgi par&ccedil;asına ne ad verilir?</strong>
     - A-) Bilim
     - B-) Teknoloji
@@ -1047,6 +1054,14 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) Bilgilendirici
     - E-) İkna edici
     ***
+1. İnsanlar, dikkat &#231;ekme ve s&#252;rd&#252;rmede rol oynayan &#231;izgi filmlerden hoşlanırlar; animasyon, &#39;deterjan yiyen lekeler' gibi ……… bir fikre bi&#231;im verebilir.<br />
+<strong>C&#252;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Basit
+    - B-) Detaylı
+    - C-) Karmaşık
+    - D-) Somut
+    - **Cevap E-) Soyut**
+    ***
 1. <strong>&ldquo;İnsanlar, dikkat &ccedil;ekme ve s&uuml;rd&uuml;rmede rol oynayan &ccedil;izgi filmlerden hoşlanırlar; animasyon, &hellip;&hellip;&hellip;&hellip;.. aracılığıyla benzersiz kimlikler yaratır.&rdquo; İfadesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) M&uuml;şteriler
     - B-) Cihazlar
@@ -1126,6 +1141,14 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - C-) İll&uuml;srasyonlar
     - D-) Renkler
     - E-) Layoutlar
+    ***
+1. ………………….; bir mal veya hizmetin s&#252;r&#252;leceği piyasa ve bu mal veya hizmetin alıcısı olanlar tarafından tanınması i&#231;in yapılacak araştırmaların, amacının, giderlerinin ve mesaj t&#252;rlerinin tasarlanması, b&#252;t&#231;esi, ne zaman yapılacağı, hangi iletişim ara&#231;larının kullanılacağı konusundaki kararlar ve reklam grafiklerinin hazırlanması gibi faaliyetlerin b&#252;t&#252;n&#252;d&#252;r.<br />
+<strong>C&#252;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Tasarım
+    - B-) İletişim
+    - C-) Layout
+    - **Cevap D-) Reklam**
+    - E-) Ajans
     ***
 1. G&ouml;stergebilimci Roland Barthes, fotoğrafik mesajla ilgili &ldquo;Image, Music, Text&rdquo; adlı eserinde fotoğrafın &ccedil;eşitli anlam d&uuml;zeylerinde anlaşıldığını belirtmiştir.<br />
 <strong>Roland Barthes&rsquo;ın bu ifadesinde vurgulamak istediği d&uuml;ş&uuml;nce aşağıdakilerden hangisidir?</strong>
@@ -1256,6 +1279,13 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) Geri d&ouml;n&uuml;ş&uuml;m
     - E-) İletişim
     ***
+1. <strong>Aşağıdakilerden hangisi ambalajın &uuml;retimi aşamasında dikkat edilecek hususlardan <u>değildir</u>?</strong>
+    - A-) Uygun &uuml;retim teknolojisi
+    - B-) &Uuml;retim maliyetleri
+    - C-) &Uuml;retim planlaması
+    - **Cevap D-) Kalite ve değer algısı**
+    - E-) Tasarım ve &uuml;retim kalitesi
+    ***
 ## Unite 12
 1. <strong>Reklam grafiklerindeki mesajlar nasıl <u>olmamalıdır</u>?</strong>
     - A-) Kolay algılanmalı
@@ -1333,6 +1363,13 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - C-) Yayınlanma s&uuml;recinin uzun olması
     - **Cevap D-) Daha &ccedil;ok insana daha hızlı ulaşabilmesi**
     - E-) &Ouml;l&ccedil;&uuml;mlenmesinin zor olması
+    ***
+1. <strong>Aşağıdakilerden hangisi reklam grafikleri a&#231;ısından iletişim s&#252;re&#231;lerinden biri&#160;<u>değildir</u>?</strong>
+    - A-) Fotoğraf
+    - B-) İll&#252;strasyon
+    - **Cevap C-) Kurum**
+    - D-) Yazı
+    - E-) Resim
     ***
 1. <strong>Reklam kelimesi dilimize hangi yabancı dilden ge&ccedil;miştir?</strong>
     - A-) İngilizce
@@ -1461,6 +1498,13 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) Raket
     - E-) CLP
     ***
+1. <strong>Aşağıdaki a&ccedil;ıkhava reklam &uuml;r&uuml;nlerinden hangisi aynı anda 6 adet posterin g&ouml;sterimine olanak sağlar?</strong>
+    - A-) Kuleboard
+    - **Cevap B-) Silindir**
+    - C-) Mesh
+    - D-) Raket
+    - E-) Parapet
+    ***
 ## Unite 14
 1. <strong>Aşağıdakilerden hangisi t&uuml;keticiyi etkilemek i&ccedil;in reklamlarda kullanılan uyarıcılar arasında <u>yer almaz</u>?</strong>
     - A-) Duygusal
@@ -1546,4 +1590,11 @@ Buna g&ouml;re aşağıdakilerden hangisi reklamlar tasarlanmadan &ouml;nce hede
     - C-) Logo tasarımı
     - **Cevap D-) Bloknot**
     - E-) Dosya
+    ***
+1. <strong>Aşağıdaki gerilla reklamcılık &#246;rneklerinden hangisi i&#231; mek&#226;n reklam &#252;r&#252;nlerine d&#226;hildir?</strong>
+    - A-) Marka hakkında yazılan bir kitap
+    - B-) Dizi ya da filmlere entegre edilen marka
+    - C-) Konusal i&#231;erikli haber olarak medyada yer almak
+    - D-) Akıllı tasarlanmış SMS veya E-posta
+    - **Cevap E-) Zemin reklam uygulamaları**
     ***

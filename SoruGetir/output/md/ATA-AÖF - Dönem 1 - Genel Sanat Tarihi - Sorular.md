@@ -1268,6 +1268,13 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) Keban
     - E-) Harput
     ***
+1. <strong>Anadolu Sel&#231;uklu'nun ilk başkenti aşağıdakilerden hangisidir?</strong>
+    - A-) Konya
+    - B-) Bursa
+    - C-) Edirne
+    - D-) Ahlat
+    - **Cevap E-) İznik**
+    ***
 1. Anadolu Sel&ccedil;uklularından g&uuml;n&uuml;m&uuml;ze gelen en erken tarihli cami, yapımına Sultan Mesud ve Kılı&ccedil; Arslan D&ouml;nemi&#39;nde başlanan ve Alaaddin Keykubad tarafından 1220 yılında tamamlanan &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; &#39;dir.<strong>&nbsp;<br />
 C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Erzurum Ulu Camii
@@ -1398,6 +1405,13 @@ Buna g&ouml;re aşağıdakilerden hangisi Artuklu mimari yapısı <u>değildir</
     - C-) Sel&ccedil;uk İsa Bey Camii
     - D-) İbrahim Bey İmareti
     - **Cevap E-) İsmail Bey K&uuml;lliyesi**
+    ***
+1. <strong>Sel&ccedil;uklu D&ouml;nemi plan &ouml;zelliğini s&uuml;rd&uuml;ren Aydınoğlu Mehmed Bey tarafından 1312&rsquo;de yaptırılan cami aşağıdakilerden hangisidir?</strong>
+    - A-) Firuz Bey Camii
+    - B-) Manisa Ulu Camii
+    - C-) Sel&ccedil;uk İsa Bey Camii
+    - **Cevap D-) Birgi Ulu Camii**
+    - E-) Milas Ulu Camii
     ***
 1. <strong>Aşağıdakilerden hangisi</strong><strong>&nbsp;İlhanlı D&ouml;nemi eserleri arasında yer alır?</strong>
     - A-) Vacidiye Medresesi
@@ -1650,6 +1664,17 @@ III. Klasik d&ouml;nem &ndash;S&uuml;leymaniye Camii<br />
     - D-) Ampir D&ouml;nem-Ortak&ouml;y Cami
     - **Cevap E-) Eklektik D&ouml;nem- Nuru Osmaniye**
     ***
+1. I. Edirne Selimiye Camii<br />
+II. Sultanahmet Camii<br />
+III. Bursa Ulu Camii<br />
+IV. Nuriosmaniye Camii<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri Osmanlı'nın erken d&#246;nem mimari &#246;zelliklerini taşır?</strong>
+    - A-) I ve II
+    - B-) Yalnız IV
+    - C-) II ve III
+    - **Cevap D-) Yalnız III**
+    - E-) &#160;Yalnız II
+    ***
 ## Unite 11
 1. <strong>R&ouml;nesans D&ouml;nemi&rsquo;ne ait &ldquo;K&ouml;y D&uuml;ğ&uuml;n&uuml;&rdquo; adlı tablo aşağıdakilerden hangisidir?</strong>
     - A-) Bernini
@@ -1693,6 +1718,13 @@ III. Klasik d&ouml;nem &ndash;S&uuml;leymaniye Camii<br />
     - C-) Strasbourg Katedrali
     - D-) Salisbury Katedrali
     - E-) Notre Dame Katedrali
+    ***
+1. <strong>17. ve 18. y&uuml;zyıllarda, Roma&rsquo;da gelişmiş ve oradan b&uuml;t&uuml;n Avrupa&rsquo;ya yayılmış olan sanat akımı aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Barok**
+    - B-) Rokoko
+    - C-) R&ouml;nesans
+    - D-) Romanik
+    - E-) Gotik
     ***
 1. <strong>1452-1519 yılları arasında yaşayan; ressam, heykeltıraş, mimar, m&uuml;hendis ve araştırmacı olarak R&ouml;nesans D&ouml;nemi&rsquo;nin kendine &ouml;zg&uuml; filozof-sanat&ccedil;ı tipleri arasında en &ouml;nemli isim olan &ccedil;ok y&ouml;nl&uuml; sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Bernini
@@ -1827,6 +1859,13 @@ III. Klasik d&ouml;nem &ndash;S&uuml;leymaniye Camii<br />
     - C-) Dadaizm
     - **Cevap D-) Soyut resim**
     - E-) Eklektizm
+    ***
+1. <strong>Ekspresyonist mimari &#252;zerinde etkisi olan Bauhaus Okulu&#39;nun kurucusu aşağıdakilerden hangisidir?</strong>
+    - A-) Salvador Dali
+    - B-) Michelangelo
+    - C-) Raphael
+    - D-) Vedat Tek
+    - **Cevap E-) Walter Gropius**
     ***
 1. <strong>&nbsp;Aşağıdakilerden hangisi&nbsp;</strong><strong>Empresyonizm (İzlenimcilik) D&ouml;nem sanat&ccedil;ıları arasında&nbsp;<u>yer almaz</u>?</strong>
     - **Cevap A-) Michelangelo**
@@ -2001,6 +2040,13 @@ III. Fovizm &ndash;Henri Matisse-Okuyan Kadın<br />
     - D-) Roma ve Yunan
     - **Cevap E-) Sasani ve Bizans**
     ***
+1. <strong>Maden sanatında hangi yapım teknikleri g&ouml;r&uuml;l&uuml;r?</strong>
+    - A-) Savatlama ve kabartma
+    - B-) Sır altı ve sır &uuml;st&uuml;
+    - C-) &Ccedil;eşmib&uuml;lb&uuml;l ve mavi beyaz
+    - **Cevap D-) D&ouml;k&uuml;m ve d&ouml;vme**
+    - E-) Tombak ve billur
+    ***
 1. T&uuml;rk dokuma sanatında &hellip;...............&hellip;. olduk&ccedil;a yaygın bir şekilde kullanılmıştır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>
     - **Cevap A-) d&uuml;z dokuma tekniği**
@@ -2075,6 +2121,13 @@ III. Uşak<br />
     - C-) Sır Altı
     - D-) Mozaik
     - E-) Halk&acirc;r
+    ***
+1. <strong>Minyat&uuml;r sanatı kapsamında Varka ve G&uuml;lş&acirc;h ile Kelile ve Dimne hangi d&ouml;nem eserleridir?</strong> 
+    - A-) Abbasi
+    - **Cevap B-) Sel&ccedil;uklu**
+    - C-) Emevi
+    - D-) Beylikler
+    - E-) Osmanlı
     ***
 1. <strong>20. y&uuml;zyılda minyat&uuml;r sanatına en &ccedil;ok emeği ge&ccedil;en ve eserlerin resimleri ile kaydedilmesi fikrini hayata ge&ccedil;iren kişi aşağıdakilerden hangisidir?</strong>
     - A-) Abdullah Buhari

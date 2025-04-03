@@ -871,6 +871,13 @@
 &nbsp;
     - E-) Rengi vurgulama
     ***
+1. <strong>Aşağıdakilerden hangisi aynı zamanda birbirlerinin vurgu g&#252;c&#252;n&#252; arttıran zıt renklere verilen diğer isimdir?</strong>
+    - **Cevap A-) Tamamlayıcı renkler**
+    - B-) Doygun renkler
+    - C-) A&#231;ık renkler
+    - D-) Koyu renkler
+    - E-) Tonlama
+    ***
 1. <strong>Aşağıdakilerden hangisi kompozisyon tasarımı bakımından, mavi bir zeminde turuncu bir nesnenin kullanılması ile sağlanır?</strong>
     - A-) Asimetrik kullanım
     - B-) Netsizlik
@@ -991,6 +998,13 @@
     - D-) Süzülmüş ışık
     - E-) Reflekt&ouml;r
     ***
+1. <strong>Aşağıdakilerden hangisi &#252;r&#252;n, yiyecek, takı ve diğer &#231;eşitli nesnelerin profesyonel kalitede fotoğraflarını &#231;ekmek i&#231;in kullanılan, ışığı daha iyi kontrol etmeyi sağlayan, hafif ve &#231;oğunlukla formu değiştirilebilir ekipmanlardır?</strong>
+    - **Cevap A-) &#199;ekim &#231;adırları**
+    - B-) Tripod
+    - C-) Flaşlar
+    - D-) Led paneller
+    - E-) Tetikleyiciler
+    ***
 ## Unite 10
 1. <strong>Aşağıdakilerden hangisi başarılı &uuml;r&uuml;n fotoğrafının en &ouml;nemli y&ouml;nlerinden biridir?</strong>
     - A-) &Uuml;r&uuml;n&uuml;n transferini kolaylaştırması
@@ -1103,6 +1117,13 @@
     - C-) İzleyicilerde psikolojik bir tepkiye neden olmak
     - D-) Dinamik gerilim yaratmak
     - E-) Uyum sağlamak
+    ***
+1. <strong>Aşağıdakilerden hangisi tanıtım fotoğraf&#231;ısının sorumluluğunda olan ve aydınlatma yoluyla iletmesi gereken &#252;r&#252;n&#252;n &#246;zellikleri arasında <u>yer almaz</u>?</strong>
+    - A-) &#220;r&#252;n&#252;n rengi
+    - B-) &#220;r&#252;n&#252;n boyutu
+    - C-) &#220;r&#252;n&#252;n şekli
+    - D-) &#220;r&#252;n&#252;n dokusu
+    - **Cevap E-) &#220;r&#252;n&#252;n fiyatı**
     ***
 1. <strong>Aşağıdakilerden hangisi saydam bir &uuml;r&uuml;n&uuml;n &ouml;zellikleri nedeniyle ışıklandırmada sıklıkla kullanılan bir y&ouml;ntemdir?</strong>
     - **Cevap A-) Arkadan aydınlatma**
@@ -1227,6 +1248,13 @@
     - **Cevap D-) Panoramik**
     - E-) Orta format
     ***
+1. <strong>Sanatsal ifade i&#231;eren mimari &#231;ekimlerde ve emlak fotoğraf&#231;ılığında, i&#231; mek&#226;n detaylarının korunarak manzaraların daha canlı bir şekilde g&#246;r&#252;nmesini sağlamak i&#231;in aşağıdakilerden hangi y&#246;ntemi kullanmak gerekir?</strong>
+    - A-) SLR
+    - **Cevap B-) HDR**
+    - C-) RAW
+    - D-) Panorama
+    - E-) Işıkla boyama
+    ***
 ## Unite 12
 1. <strong>Aşağıdakilerden hangisi ticari firmaların reklam kampanyalarında hedefledikleri ama&ccedil; ve hedefler doğrultusunda hedef kitleye y&ouml;nelik mesajların iletilmesi amacıyla &uuml;retilen ticari bir fotoğraf t&uuml;r&uuml;d&uuml;r?</strong>
     - A-) Stok Fotoğraf&ccedil;ılığı
@@ -1333,6 +1361,13 @@
     - D-) Retoucher
     - **Cevap E-) Birinci Asistan**
     ***
+1. <strong>Aşağıdakilerden hangisi reklam ajanslarının yaratıcı grup i&#231;erisinde g&#246;rev alan profesyoneller arasında <u>yer almaz</u>?</strong>
+    - A-) Kreatif direkt&#246;r
+    - B-) Metin yazarı
+    - **Cevap C-) M&#252;şteri ilişkileri temsilcisi**
+    - D-) Grafiker
+    - E-) Sanat y&#246;netmeni
+    ***
 ## Unite 13
 1. <strong>Aşağıdakilerden hangisinde Renk modellerine g&ouml;re renklerin &uuml;&ccedil; ana &ouml;zelliği yer almaktadır?</strong>
     - A-) Renk tonu / Doygunluk / Siyah-Beyaz
@@ -1427,6 +1462,13 @@
     - D-) G&uuml;n ışığı<br />
 &nbsp;
     - **Cevap E-) Spor modu**
+    ***
+1. <strong>RGB renk sisteminde bulunan ve &quot;B&quot; harfi ile temsil edilen renk aşağıdakilerden hangisidir?</strong>
+    - A-) Siyah
+    - B-) Kırmızı
+    - **Cevap C-) Mavi**
+    - D-) Sarı
+    - E-) Beyaz
     ***
 1. <strong>CMYK renk modelinin bir rengi tanımlamak i&ccedil;in kullandığı d&ouml;rt ana renk aşağıdakilerden hangisinde doğru verilmiştir?</strong>
     - A-) Cyan – Magenta – Yeşil – Siyah
@@ -1533,6 +1575,13 @@
     - C-) G&uuml;venlik
     - D-) Evrensellik
     - **Cevap E-) G&uuml;ndelik**
+    ***
+1. <strong>Hangi mafya lideri yakalanmasına sebep olan şey aşağıdakilerden hangisidir?</strong>
+    - A-) Google sokak g&#246;r&#252;nt&#252;leri
+    - B-) Youtube videoları
+    - **Cevap C-) Paylaştığı &#246;z &#231;ekimleri**
+    - D-) WhatsApp durum mesajları
+    - E-) Instagram yorumları
     ***
 1. <strong>İlk kez 8 Ağustos 2019&rsquo;da Anadolu Parsı&rsquo;nı belgeleyen kamera aşağıdakilerden hangisidir?</strong>
     - A-) Drone

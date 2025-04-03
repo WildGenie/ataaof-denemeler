@@ -1528,6 +1528,13 @@ III. S&ouml;zdizim<br />
     - D-) Renk
     - **Cevap E-) Heykel**
     ***
+1. <strong>&ldquo;Şeker&rdquo; kelimesinin, &ldquo;yiyeceklere tat veren gıda maddesi&rdquo; anlamında kullanılması aşağıdaki kavramlardan hangisini ifade eder?</strong> 
+    - **Cevap A-) D&uuml;z anlam**
+    - B-) Yananlam
+    - C-) Mit
+    - D-) Eğretileme
+    - E-) Metafor
+    ***
 1. <strong>G&ouml;sterge&#39;ye ilişkin olarak aşağıdakilerden hangisi&nbsp;<u>yanlıştır</u>?</strong> 
     - A-) G&ouml;steren ve g&ouml;sterilenden meydana gelir.
     - **Cevap B-) G&ouml;sterilerin bilimidir.**
@@ -1656,6 +1663,13 @@ III. S&ouml;zdizim<br />
     - C-) Devletin baskıcı aygıtları
     - D-) Eşik bek&ccedil;ileri
     - E-) Bilgi ara&ccedil;ları
+    ***
+1. <strong>&Uuml;retim-t&uuml;ketim g&uuml;&ccedil;leri Marksist analizin hangi temel ilkesine karşılık gelmektedir?</strong> 
+    - A-) Burjuvazi
+    - B-) Yabancılaşma
+    - **Cevap C-) Alt yapı**
+    - D-) &Uuml;st yapı
+    - E-) Hegemonya
     ***
 1. <strong>Yasal Sistem, Marksist Analizin hangi temel ilkesine karşılık gelmektedir?</strong> 
     - A-) T&uuml;ketim toplumu
@@ -1924,6 +1938,14 @@ II.&nbsp; Bireyin ger&ccedil;ekliği satın alınanlar yoluyla g&uuml;nl&uuml;k 
     - D-) T&uuml;ketim toplumu
     - E-) Maddecilik
     ***
+1. <strong>Aşağıdakilerden hangisi insan gereksinimlerini harekete ge&ccedil;irme ve y&ouml;nlendirmede reklamcının başvurduğu psikolojik s&uuml;re&ccedil;ler i&ccedil;erisinde <u>yer almaz</u>?</strong><br />
+
+    - A-) Dikkat
+    - B-) Motivasyon
+    - C-) Anımsatma
+    - D-) İlgi
+    - **Cevap E-) Fiyatlandırma**
+    ***
 1. &ldquo;Marksist bakış a&ccedil;ısından değerlendirildiğinde kitle iletişimi olgusunun toplumda &uuml;retim g&uuml;&ccedil;lerini elinde bulunduran &hellip;&hellip;&hellip;&hellip;&hellip;.. etkisinde şekillendirildiği g&ouml;r&uuml;lmektedir.&rdquo;<br />
 C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? 
     - **Cevap A-) Burjuvazi**
@@ -2101,6 +2123,13 @@ IV. Konuşma, soluma, y&uuml;r&uuml;me<br />
     - D-) III ve IV
     - E-) I, II, III ve IV
     ***
+1. <strong>Aşağıdakilerden hangisi &quot;ego&quot;nun işlevlerinden biri <u>değildir</u>?</strong>
+    - A-) Ger&ccedil;ekle ilişkiyi sağlama
+    - B-) İ&ccedil;g&uuml;d&uuml;lerin denetimi
+    - C-) Uyuma y&ouml;nelik gerilemeler
+    - D-) Uyaran &ouml;nleyiciliği
+    - **Cevap E-) Saldırganlık g&uuml;d&uuml;s&uuml;n&uuml; oluşturma**
+    ***
 1. R&uuml;yalarda olan işleyişe benzetilen zihinsel işleyiş aşağıdakilerden hangisidir?
     - A-) İd
     - B-) S&uuml;perego
@@ -2274,6 +2303,16 @@ III. Reklam genel olarak toplumsal değişimin ve d&ouml;n&uuml;ş&uuml;m&uuml;n
     - D-) G&ouml;stergebilimsel Analiz
     - E-) Marksist Eleştiri
     ***
+1. I. Toplumsal g&#252;&#231; ve iktidar ilişkilerini irdeler.<br />
+II. Toplumda kabul g&#246;ren yaygın inan&#231;lar olan mit ve masalları yıkmayı ama&#231;lar.<br />
+III. Eşitlik, hakkaniyet, adalet, toplumsal ve kamusal &#231;ıkarları gibi değer yargılarını inceleme alanı olarak belirler.<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri ekonomi-politik yaklaşımın &#246;zelliklerindendir?</strong>
+    - A-) Yalnız I
+    - B-) I ve II
+    - C-) I ve III
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
 1. ..................., bilincin ve iletişimin toplumda egemen olan siyasi ve ekonomik g&uuml;&ccedil;ler tarafından belirlendiğini ifade eder.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
 
@@ -2442,6 +2481,15 @@ III. İ&ccedil;selleştirme<br />
     - D-) Cesur/Hırslı
     - E-) Sert/Kararlı
     ***
+1. İletişim &ccedil;alışmalarında ............... kavramı basmakalıp veya kalıplaşmış &ouml;rnek anlamında kullanılmaktadır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
+
+    - A-) kod
+    - **Cevap B-) stereotip**
+    - C-) mesaj
+    - D-) g&uuml;r&uuml;lt&uuml;
+    - E-) geri besleme
+    ***
 1. Aşağıdaki a&ccedil;ıklamalardan hangisi cinsiyet kavramının doğru tanımıdır? 
     - A-) Bireyin sosyolojik &ouml;zelliklerini i&ccedil;erir.
     - **Cevap B-) Bireyin biyolojik cinsiyetine dayalı olarak belirlenmektedir.**
@@ -2574,6 +2622,13 @@ IV. Kamera hareketleri<br />
     - C-) annelik rol&uuml;n&uuml;n devamı
     - D-) l&uuml;ks t&uuml;ketimin artırılması
     - E-) sabit kadınlık kategorilerinin sağlamlaştırılması
+    ***
+1. <strong>Geniş izleyici kitlesine hitap eden, ticari kaygılar i&#231;eren ve klasik anlatım bi&#231;imlerine dayanan filmler aşağıdaki hangi t&#252;r sinema anlayışı kapsamındadır?</strong>
+    - A-) S&#252;rrealist sinema
+    - **Cevap B-) Ana akım sinema**
+    - C-) Marksist sinema
+    - D-) Postmodern sinema
+    - E-) Eleştirel sinema
     ***
 1. Kadınların da siyasi, k&uuml;lt&uuml;rel ve ekonomik alanlarda erkeklerle aynı haklara sahip olması, s&ouml;z konusu alanlarda etkin bir rol &uuml;stlenmesi ve karar alabilmesi ..................&nbsp;hareketin temel m&uuml;cadele alanını oluşturmuştur.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />

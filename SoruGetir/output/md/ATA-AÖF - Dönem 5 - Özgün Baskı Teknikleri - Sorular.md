@@ -930,6 +930,13 @@ Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
     - D-) Pablo Picasso
     - E-) Marc Chagall
     ***
+1. <strong>Andy Warhol&#39;un tercih ettiği baskı tekniği hangisidir ve bu tekniği neden tercih etmiştir?</strong>
+    - A-) Grav&#252;r baskı; b&#252;y&#252;k ebatlarda resim yapabilme &#246;zelliği nedeniyle
+    - **Cevap B-) Serigrafi baskı; lokal renkleri yansıtma &#246;zelliği nedeniyle**
+    - C-) Litoğrafi baskı; sınırları belli olan resimler &#252;retebilme &#246;zelliği nedeniyle
+    - D-) Monotip baskı; &#231;oğaltılabilme yeteneği nedeniyle
+    - E-) Şablon baskı; fotomekanik pozlama ile uyumlu olması nedeniyle
+    ***
 ## Unite 9
 1. <strong>Aşağıdakilerden hangisi alternatif baskı tekniklerinden biri <u>değildir</u>?</strong>
     - A-) Monobaskı
@@ -1007,6 +1014,13 @@ Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
     - C-) Y&uuml;zey ıslakken, yani boyalar kurumamışken başka bir k&acirc;ğıda yapılan baskı işlemidir.
     - **Cevap D-) İpek kalıp &uuml;zerine baskı yapılır.**
     - E-) Monotip baskı tekniğinde edisyon sayısı 1&rsquo;dir.
+    ***
+1. <strong>1931 yılında Cellocut Tekniği&#39;ni ilk uygulayan kimdir?</strong>
+    - A-) Glen Alps
+    - B-) Henri Goetz
+    - C-) Ernst Ludwig Kirchner
+    - D-) Rolf Nesch
+    - **Cevap E-) Boris Margo**
     ***
 1. <strong>Eksiltmeli teknikler i&ccedil;in ideal plaka hangi malzemedir?</strong>
     - A-) Linolyum
@@ -1121,6 +1135,13 @@ Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
     - D-) G&uuml;nl&uuml;k hayatın zevk ve eğlencesini g&ouml;stermek
     - **Cevap E-) Budizm bilgisini yaymak**
     ***
+1. <strong>Japonya'da Ukiyo-e sanatının ortaya &#231;ıkıp geliştiği d&#246;nem aşağıdakilerden hangisidir?</strong>
+    - A-) Nara D&#246;nemi
+    - B-) Meiji D&#246;nemi
+    - **Cevap C-) Edo D&#246;nemi**
+    - D-) Taisho D&#246;nemi
+    - E-) Heian D&#246;nemi
+    ***
 1. <strong>İlk b&uuml;y&uuml;k Ukiyo-e sanat&ccedil;ısı aşağıdakilerden hangisinde doğru verilmiştir?</strong>
     - **Cevap A-) Hishikawa Moronobu**
     - B-) Kitagawa Utamaro
@@ -1206,6 +1227,13 @@ Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
     - C-) 1991
     - D-) 1869
     - E-) 1976
+    ***
+1. <strong>Klasik resim anlayışının &#246;tesinde, hazır nesne ve atık malzemelerin kullanıldığı akım hangisidir?</strong>
+    - A-) Dışavurumculuk
+    - B-) Pop Art
+    - C-) K&#252;bizm
+    - D-) S&#252;rrealizm
+    - **Cevap E-) Dada**
     ***
 1. <strong>K&auml;the Kollwitz&#39;in &quot;&Ccedil;ift S&uuml;renler&quot; adlı grav&uuml;r&uuml;yle ilgili aşağıdakilerden hangisi doğrudur?</strong>
     - A-) Şehir yaşamını yansıtmış ve renkleri kullanmıştır.
@@ -1320,6 +1348,13 @@ Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
     - **Cevap D-) İpek baskı ve monotip teknikleri kullanılmış, litografi &uuml;retilmiştir.**
     - E-) Sadece taş baskı tekniği kullanılmış, tablolar &uuml;retilmiştir.
     ***
+1. <strong>Aliye Berger, grav&#252;r tekniğinde hangi t&#252;r malzemeleri kullanarak &#246;zg&#252;n bir kimlik yaratmıştır?</strong>
+    - A-) Tuval ve fır&#231;a kullanarak
+    - B-) Sadece siyah ve beyaz renkleri kullanarak
+    - C-) Yalnızca tahta levhaları kullanarak
+    - **Cevap D-) Kasap k&#226;ğıdı, zımpara k&#226;ğıdı ve t&#252;lbent gibi malzemeleri kullanarak**
+    - E-) Seramik ve cam malzemeleri kullanarak
+    ***
 ## Unite 13
 1. <strong>Anadolu&rsquo;da tahtayı kazıyarak, oyarak kalıp yapmak ve bu kalıbı boyayarak baskı yapmak hangi adla anılırdı?</strong>
     - A-) Basmacılık
@@ -1404,6 +1439,13 @@ Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
     - C-) Portrelerdir.
     - **Cevap D-) Kuş bakışı g&ouml;r&uuml;nt&uuml;ler ya da uzun panoramalardır.**
     - E-) Kıyafet ve g&uuml;nl&uuml;k yaşam tasvirleridir.
+    ***
+1. <strong>Grav&uuml;rlerinde İstanbul&rsquo;un en &ouml;nemli camilerinden biri olan S&uuml;leymaniye Camii&rsquo;ni resmeden sanat&ccedil;ı kimdir?</strong>
+    - A-) John Frederick Lewis
+    - B-) Gaspare Fossati
+    - **Cevap C-) William Henry Bartlett**
+    - D-) Thomas Allom
+    - E-) Joseph Schranz
     ***
 1. <strong>Grav&uuml;r sanat&ccedil;ıları olan William Henry Bartlett, Thomas Allom ve Henri Cayol, hangi Osmanlı padişahı zamanında İstanbul&rsquo;da &ccedil;alışmalar yapmıştır?</strong>
     - **Cevap A-) II. Mahmut**
@@ -1524,6 +1566,13 @@ Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
     - C-) Otomobil, teknoloji, end&uuml;stri vb.
     - D-) Kaya, taş, ağa&ccedil;, toprak vb.
     - E-) Spor, yarışma, konser vb.
+    ***
+1. <strong>Ekslibris koleksiyonculuğu kimler tarafından yapılır?</strong>
+    - A-) Sanat&ccedil;ılar ve tasarımcılar
+    - B-) Meslek sahipleri
+    - **Cevap C-) &Ccedil;eşitli ilgi alanlarına sahip kişiler**
+    - D-) Kitap ve k&uuml;t&uuml;phane sahipleri
+    - E-) Sanat galerileri
     ***
 1. <strong>Ekslibris sanatının doruğunu yaşadığı d&ouml;nemlerin &ouml;nemli isimleri arasında hangi sanat&ccedil;ılar bulunmaktadır?</strong>
     - A-) Leonardo da Vinci ve Michelangelo

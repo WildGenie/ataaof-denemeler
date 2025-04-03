@@ -995,6 +995,13 @@ IV. K&uuml;resel alanda Meta Tag olarak isimlendirilir.<br />
     - **Cevap D-) Hemen hemen t&uuml;m tarayıcılar tarafından desteklenir.**
     - E-) Duyarlı ve uyarlanabilir web tasarımı s&uuml;recini zorlaştırır.
     ***
+1. <strong>CSS Flexbox flex-wrap &#246;zelliği hangi işlem i&#231;in kullanılır?</strong>
+    - A-) Esnek kutu d&#252;zenin rengini değişmek i&#231;in
+    - B-) Esnek kutu d&#252;zeninde dikey hizalama i&#231;in
+    - C-) Esnek kutu d&#252;zeninde yatay hizalama i&#231;in
+    - **Cevap D-) Esnek kutu d&#252;zeninde birden &#231;ok satıra yaymak i&#231;in**
+    - E-) Esnek kutu d&#252;zeninde ki metinleri b&#252;y&#252;tmek i&#231;in
+    ***
 1. <strong>Flexbox &ouml;zelliklerinden order &ouml;zelliğinin işlevi ile ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
     - A-) Esnek kapsayıcı i&ccedil;indeki esnek kutu &ouml;gelerinin &ccedil;apraz eksende hizalamasını ayarlar.
     - **Cevap B-) Esnek kapsayıcı i&ccedil;indeki &ouml;gelerin ka&ccedil;ıncı sırada g&ouml;r&uuml;nmesi gerektiğini belirler.**
@@ -1104,6 +1111,13 @@ IV. K&uuml;resel alanda Meta Tag olarak isimlendirilir.<br />
     - C-) Scale
     - D-) ScaleX
     - E-) ScaleY
+    ***
+1. <strong>Aşağıdakilerden hangisi bir nesnenin x ve y eksenindeki eğimini artırıp azaltmak i&ccedil;in kullanılır?</strong>
+    - A-) SkewX
+    - B-) SkewY
+    - C-) Scale
+    - **Cevap D-) Skew**
+    - E-) Translate
     ***
 1. <strong>Aşağıdakilerden hangisi ge&ccedil;iş&nbsp;işleminin hız eğrisini belirlemek i&ccedil;in kullanılır?</strong>
     - A-) transition-delay
@@ -1218,6 +1232,13 @@ IV. Tables (Tablolar)<br />
     - D-) Small ekran boyutu i&ccedil;in &ldquo;sm&rdquo; class tanımı kullanılır.
     - E-) Medium ekran boyutu i&ccedil;in &ldquo;md&rdquo; class tanımı kullanılır.
     ***
+1. <strong>Aşağıdakilerden hangisi mouse (fare) imlecinin &uuml;zerinde bulunduğu satırı renklendirmek i&ccedil;in kullanılan tablo yapısıdır?</strong>
+    - A-) table-mouseover
+    - **Cevap B-) table-hover**
+    - C-) table-responsive
+    - D-) table-cursor
+    - E-) table-pointer
+    ***
 1. <strong>Aşağıdakilerden hangisi Windows işletim sistemi tarafından desteklenen internet tarayıcıları arasında <u>yer almaz</u>?</strong>
     - A-) Chrome
     - B-) Firefox
@@ -1318,6 +1339,13 @@ IV. Tables (Tablolar)<br />
     - D-) Modal
     - E-) Toast
     ***
+1. <strong>Bir form elementinin sunucuya hi&ccedil;bir şekilde veri g&ouml;ndermemesi i&ccedil;in kullanılan &ouml;zellik aşağıdakilerden hangisidir?</strong>
+    - A-) readonly
+    - **Cevap B-) disabled**
+    - C-) closed
+    - D-) form-readonly
+    - E-) form-disabled
+    ***
 1. <strong>Aşağıdakilerden hangisi &ldquo;Form Validation (Doğrulama)&rdquo; işlemi i&ccedil;in form elementine eklenmesi gereken bir &ouml;zelliktir?</strong>
     - **Cevap A-) novalidate**
     - B-) validate-form
@@ -1388,6 +1416,13 @@ IV. Tables (Tablolar)<br />
     - **Cevap C-) İki tasarım prensibinin de web sitesini mobil uyumlu hale getirmesi**
     - D-) Duyarlı web siteleri uyarlanabilir web sitelerine g&ouml;re daha yavaştır.
     - E-) Uyarlanabilir web siteleri duyarlı web sitelerine g&ouml;re daha esnektir.
+    ***
+1. <strong>Mobil uyumlu web site k&uuml;t&uuml;phanelerinden birisi aşağıdakilerden hangisidir?</strong>
+    - A-) Unification
+    - B-) Summarize
+    - **Cevap C-) Foundation**
+    - D-) Digitalize
+    - E-) Performance
     ***
 1. <strong>Aşağıdakilerden hangisi uyarlanabilir tasarım &ouml;zelliklerinden biridir?</strong>
     - **Cevap A-) JavaScript kodları, uyarlanabilir tasarımlarda web site bileşenlerini kontrol etmek i&ccedil;in kullanılabilir.**
@@ -1526,6 +1561,13 @@ IV. Eski teknolojiler kullanmak<br />
     - D-) Microsoft Accsess
     - E-) Paint
     ***
+1. <strong>CSS ve JavaScript kodlarının farklı tarayıcılarda ge&ccedil;erli olup olmadığını kontrol eden &ccedil;apraz tarayıcı uyumluluğu test par&ccedil;ası aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Kod uyumluluğu**
+    - B-) Ara y&uuml;z uyumluluğu
+    - C-) Davranış uyumluluğu
+    - D-) Mobil uyumluluk
+    - E-) Performans uyumluluğu
+    ***
 1. <strong>Kod uyumluluğu&nbsp;testi ile ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
     - A-) Web sitesinin istenilen şekilde g&ouml;r&uuml;n&uuml;p g&ouml;r&uuml;nmediğini kontrol eder.
     - B-) Web sitesinin istenildiği gibi davranıp davranmadığını kontrol eder.
@@ -1645,6 +1687,13 @@ IV. Eski teknolojiler kullanmak<br />
     - **Cevap C-) Geliştirilen web sitesinde bulunması gereken &ouml;zellikleri belirlemek**
     - D-) &Uuml;r&uuml;n&uuml;n s&ouml;zel olarak anlatılması zor olan &ouml;zelliklerini de i&ccedil;eren bir sunum olarak da kullanmak
     - E-) Kullanıcılara fikrin kolay aktarılabilmesi sebebiyle geri bildirim toplamayı kolaylaştırmak
+    ***
+1. <strong>Aşağıdakilerden hangisi oluşturduğunuz prototipi size html, css ve ilişkili javascript kodları ile tamamlanmış bir web sitesi şeklinde hazır getirebilir?</strong>
+    - A-) Balsamiq
+    - **Cevap B-) webFlow**
+    - C-) InDesign
+    - D-) Adobe XD
+    - E-) Sketch
     ***
 1. <strong>Aşağıdakilerden hangisi prototip hazırlamanın avantajlarından biri&nbsp;<u>değildir</u>?</strong>
     - A-) Hata tespiti yapar.

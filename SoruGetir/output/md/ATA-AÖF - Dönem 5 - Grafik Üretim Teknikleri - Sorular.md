@@ -891,6 +891,13 @@ III. Tifdruk<br />
     - D-) G&#246;rsel etkiyi artırmak i&#231;in
     - E-) Renk tonlaması oluşturmak i&#231;in
     ***
+1. <strong>Esnek ambalaj &uuml;reticileri renk y&ouml;netim sisteminde aşağıdakilerden hangisini oluştururlar?</strong>
+    - **Cevap A-) Baskı CMYK profillerini**
+    - B-) Silindir a&ccedil;ılarını
+    - C-) Baskı Set-up s&uuml;relerini
+    - D-) Tasarım renklerini
+    - E-) Tasarım renk &ouml;l&ccedil;&uuml;mlerini
+    ***
 1. <strong>Tasarımlarda kullanılan yazı ve logo b&uuml;y&uuml;kl&uuml;kleri aşağıdakilerden hangisine g&ouml;re uyumlu olmalıdır?</strong>
     - A-) Esnek ambalaj &uuml;retici kurallarına
     - B-) Grafik tasarım kurallarına
@@ -1005,6 +1012,13 @@ III. Tifdruk<br />
     - D-) Bobin beslemeli dijital baskı tekniği donanımları
     - E-) Flekso baskı tekniği donanımları
     ***
+1. <strong>Aşağıdakilerden hangisi “Bobin Beslemeli Dijital Baskı Tekniği” ile ilgili donanımların genel &#246;zellikleri arasında <u>yer almaz</u>?</strong>
+    - A-) Az tirajlı, y&#252;ksek kaliteli baskı sunma avantajı ile sezonluk tasarım yeniliklerine imk&#226;n sunar.
+    - B-) Bobinden bobine &#252;retim yapabilme &#246;zelliği ile esnek ambalaj uygulamaları yapabilir.
+    - **Cevap C-) &#220;&#231; boyutlu objelere direkt baskı yapılabilir.**
+    - D-) Talebe y&#246;nelik &#246;zel baskı altı malzemesi kullanabilir.
+    - E-) &#220;reticileri ve hizmet alan marka sahiplerini, tedarik zinciri ve stok maliyet risklerinden kurtarır.
+    ***
 1. <strong>Aşağıdakilerden hangisi &ldquo;B&uuml;y&uuml;k (geniş) Format Dijital Baskı Teknikleri&rdquo; ile ilgili donanımların genel &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
     - A-) K&acirc;ğıt d&acirc;hil, kumaş, branda, plastik, metal, ahşap ve cam gibi &ccedil;ok &ccedil;eşitli baskı altı malzemesine baskı yapabilmekte
     - **Cevap B-) Bobinden bobine &uuml;retim yapabilme &ouml;zelliği ile esnek ambalaj uygulamaları yapabilir**
@@ -1104,6 +1118,13 @@ III. Tifdruk<br />
     - D-) IBM
     - E-) CERN
     ***
+1. <strong>CMYK renk modelindeki “K” harfi aşağıdakilerden hangisini temsil etmektedir?</strong>
+    - A-) Kırmızı
+    - **Cevap B-) Siyah**
+    - C-) Mavi
+    - D-) Yeşil
+    - E-) Beyaz
+    ***
 1. <strong>İki s&uuml;tun veya metin bloğu arasındaki boşluk veya s&uuml;tun oluğu veya s&uuml;tun marjini olarak da bilinen terim aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Alley**
     - B-) Glyph
@@ -1181,6 +1202,13 @@ III. Tifdruk<br />
     - C-) Kuşe karton
     - D-) Japon kartonu
     - **Cevap E-) Krome karton**
+    ***
+1. <strong>K&acirc;ğıdın ilk bi&ccedil;imi olarak kabul edilen papir&uuml;s k&acirc;ğıdını ilk olarak aşağıdakilerden hangisi bulmuş ve kullanmıştır?</strong>
+    - **Cevap A-) Eski Mısırlılar**
+    - B-) S&uuml;merler
+    - C-) Finikeliler
+    - D-) &Ccedil;inliler
+    - E-) Uygurlar
     ***
 1. <strong>K&acirc;ğıt hamuru tabaka h&acirc;linde d&ouml;k&uuml;ld&uuml;ğ&uuml; sırada liflerin izlediği y&ouml;n k&acirc;ğıdın hangi &ouml;zelliğini belirtir?</strong>
     - A-) K&acirc;ğıdın yoğunluğunu
@@ -1304,6 +1332,13 @@ III. Tifdruk<br />
     - D-) CMY renk modeli
     - E-) RGBK renk modeli
     ***
+1. <strong>D&ouml;rt renk veya altı renk baskılarda bir g&ouml;rselin basılabilmesi i&ccedil;in her rengin farklı a&ccedil;ılara karşılık hangi eylemin yapılması gerekir?</strong>
+    - A-) Renk şişirme
+    - B-) Renk kontrol&uuml;
+    - C-) Renk ayarı
+    - **Cevap D-) Tramlama**
+    - E-) Renk &ccedil;ubuğu
+    ***
 ## Unite 13
 1. <strong>Aşağıdakilerden hangisi dış mek&acirc;n grafik tasarım &uuml;r&uuml;nleri uygulama/yayınlama mecralarından biri&nbsp;<u>değildir</u>?&nbsp;</strong>
     - A-) Billboard
@@ -1368,6 +1403,17 @@ III. Tifdruk<br />
     - C-) Pleksiglass
     - D-) EPS Strafor
     - **Cevap E-) Cast Folyo**
+    ***
+1. I. Bayrak ve flamalarda kullanılan kumaş t&uuml;revi baskı altı malzemelerine baskılar<br />
+II.&nbsp;Billboard ve clp gibi şehir mobilyalarında kullanılan &ccedil;ok farklı &ouml;zellikteki k&acirc;ğıt t&uuml;revi baskı altı malzemelerine baskılar<br />
+III. Renkli gazete ve dergilerde tam sayfa reklam i&ccedil;in yapılan baskılar<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri bobin beslemeli b&uuml;y&uuml;k format dijital baskı teknikleri ile yapılabilen baskılardır?</strong><br type="_moz" />
+
+    - A-) Yalnız II
+    - B-) Yalnız III
+    - C-) I, II ve III<br type="_moz" />
+    - D-) II ve III
+    - **Cevap E-) I ve II<br type="_moz" />**
     ***
 1. <strong>Aşağıdakilerden hangisi &ldquo;CNC Router Makinaları&rdquo; tarafından işlem yapılan malzemelerden biri&nbsp;<u>değildir</u>?&nbsp;</strong>
     - **Cevap A-) Cam**
@@ -1460,6 +1506,13 @@ III. Tifdruk<br />
     - C-) Geniş a&ccedil;ı
     - D-) Dar a&ccedil;ı
     - **Cevap E-) Kamera hareketliliği**
+    ***
+1. <strong>&ldquo;G&ouml;r&uuml;nt&uuml;leri, sesi, hareketi ve &ouml;yk&uuml;y&uuml; birleştirerek film jenerikleri, m&uuml;zik videosu, web, televizyon, etkileşimli medya ve taşınabilir telefonlar i&ccedil;in ardışık canlandırma sahneleri oluşturur.&rdquo; tanımı aşağıdakilerden hangisine aittir?</strong>
+    - A-) Reklam tasarımı
+    - B-) Yeni medya
+    - C-) G&ouml;sterme bi&ccedil;imi
+    - D-) G&ouml;rsel, işitsel kombinasyon
+    - **Cevap E-) Hareketli grafik tasarımı**
     ***
 1. <strong>D&ouml;nd&uuml;r&uuml;ld&uuml;k&ccedil;e hareket ediyormuş izlenimi oluşturan antik buluntu aşağıdakilerden hangisidir?</strong>
     - A-) Phenakistoscope

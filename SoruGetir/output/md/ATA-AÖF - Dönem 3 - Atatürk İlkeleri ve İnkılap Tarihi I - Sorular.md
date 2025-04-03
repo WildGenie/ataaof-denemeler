@@ -1379,6 +1379,13 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
     - D-) Muhipler Cemiyeti- Yararlı Cemiyet
     - E-) İstanbul&#39;da M&uuml;dafaa-i Milliye Teşkilatı- Zararlı Cemiyet
     ***
+1. <strong>Vilayat-ı Şarkiye M&uuml;dafaa-i Hukuk-ı Milliye Cemiyeti&#39;nin İstanbul Şubesi&#39;nin T&uuml;rk&ccedil;e yayın organı aşağıdakilerden hangisidir?</strong>
+    - A-) İstikbal
+    - B-) A&ccedil;ıks&ouml;z
+    - **Cevap C-) Hadisat**
+    - D-) Emel
+    - E-) Tanin
+    ***
 1. İngilizlerin bir an &ouml;nce idareye el koymasını isteyen ve İngiliz himayesi projesini hazırlayan, mill&icirc; g&uuml;&ccedil; ve g&uuml;venden yoksun cemiyet &uuml;yeleri, T&uuml;rkiye&rsquo;yi İngiltere mandası altına sokarak Halifeliği ve Osmanlı Saltanat&#39;ını kurtarabileceklerine inanıyorlardı. H&uuml;rriyet ve İtilaf Fırkası ile tam bir iş birliği i&ccedil;erisinde olmuşlardır.<br />
 <strong>Bahsi ge&ccedil;en cemiyet aşağıdakilerden hangisidir?</strong>
     - A-) Wilson Prensipleri Cemiyeti
@@ -1429,6 +1436,13 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
     - C-) Kilikyalılar Cemiyeti
     - D-) Pontus Rum Cemiyeti
     - **Cevap E-) Wilson Prensipleri Cemiyeti**
+    ***
+1. <strong>Aşağıdakilerden hangisi Mustafa Kemal Paşa&rsquo;nın IX. Ordu Kıtaat-ı M&uuml;fettişliğine atanmasının sebeplerinden biri <u>değildir</u>?</strong>
+    - A-) Mustafa Kemal Paşa&rsquo;nın, Padişah Vahidettin&rsquo;in fahri yaverliğini yapmış olması sebebiyle, padişahın ona olan g&uuml;veni
+    - B-) Vatanperver devlet adamlarının tavsiye ve yardımları
+    - C-) İngiliz protestosu karşısında telaşlanan saray ve Babıali&rsquo;nin, onu bu meseleyi halledebilecek iradede g&ouml;rmeleri
+    - **Cevap D-) İttihat ve Terakki Fırkası&rsquo;na mensub olması**
+    - E-) Mustafa Kemal Paşa&rsquo;nın şahsi hırsları ve ileri g&ouml;r&uuml;şl&uuml;l&uuml;ğ&uuml;
     ***
 1. <strong>Aşağıdakilerden hangisi IX. Ordu Kıtaat-ı M&uuml;fettişi Mustafa Kemal Paşa&rsquo;nın g&ouml;reviyle ilgili <u>değildir</u>?</strong><br />
 
@@ -1699,6 +1713,13 @@ III. Vatanın b&uuml;t&uuml;nl&uuml;ğ&uuml; milletin bağımsızlığı tehlike
     - D-) Sivas Genelgesi
     - E-) TBMM Genelgesi
     ***
+1. <strong>Havza Genelgesi ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Mill&icirc; M&uuml;cadele&rsquo;nin ilk genelgesidir.
+    - B-) Ferd&icirc; bilin&ccedil;ten mill&icirc; bilince ulaşılması ama&ccedil;lanmıştır.
+    - **Cevap C-) Mill&icirc; M&uuml;cadele&rsquo;nin bir anlamda plan ve programı yapılmıştır.**
+    - D-) Ordu birliklerine askerin terhis, silahların teslim edilmemesi bildirilmiştir.
+    - E-) Mustafa Kemal Paşa bu genelge ile yetkilerinin dışına &ccedil;ıkmıştır.
+    ***
 ## Unite 11
 1. <strong>&ldquo;Manda ve himaye kabul edilemez.&rdquo; h&uuml;km&uuml; aşağıdakilerden hangisinde yer almıştır?</strong> 
     - A-) Sivas Kongresi
@@ -1772,6 +1793,13 @@ III. Vatanın b&uuml;t&uuml;nl&uuml;ğ&uuml; milletin bağımsızlığı tehlike
     - C-) Heyet-i Temsiliye
     - D-) İrade-i Seniyye
     - E-) Kuva-yi İnzibatiye
+    ***
+1. <strong>Aşağıdakilerden hangisi Batı Anadolu&rsquo;da ger&ccedil;ekleştirilen kongrelerden biridir?</strong>
+    - A-) Ardahan Kongresi
+    - B-) Oltu Şura H&uuml;k&ucirc;meti Kongresi
+    - **Cevap C-) Nazilli Kongresi**
+    - D-) Trakya kongreleri
+    - E-) Sivas Kongresi
     ***
 1. <strong>Batı Anadolu&rsquo;da kurulan direnme &ouml;rg&uuml;tlerine genel olarak ne ad verilmiştir?</strong>
     - A-) İttihat ve Terakki Cemiyeti
@@ -2087,6 +2115,13 @@ III. Son Osmanlı Meclis-i Mebusanı<br />
     - D-) Erzurum
     - E-) Sivas
     ***
+1. <strong>İtilaf Devletleri&rsquo;nin aşağıdaki girişimlerinden hangisi doğrudan mill&icirc; iradeyi yok etmeyi ama&ccedil;lamıştır?</strong>
+    - A-) Boğazların y&ouml;netimine el koyma
+    - **Cevap B-) Mebusan Meclisi&rsquo;ni dağıtma**
+    - C-) Osmanlı ordusunun b&uuml;y&uuml;k bir kısmını terhis ettirme
+    - D-) Karadeniz kıyısındaki bazı &ouml;nemli noktaları kontrol altına alma
+    - E-) Ulaşım ve haberleşme sistemlerinin işletilmesine el koyma
+    ***
 1. <strong>Aşağıdakilerden hangisi Misak-ı Mill&icirc; kararlarından biridir?</strong><br />
 
     - A-) Havza Genelgesi&rsquo;nin yayımlanması
@@ -2320,6 +2355,13 @@ III. Mondros M&uuml;tarekesi<br />
     - C-) Yalnız III
     - D-) I ve II
     - E-) I, II ve
+    ***
+1. <strong>İngiliz gizli servis elamanlarından Papaz Fru&rsquo;nun da maddi destekleriyle Manyas, Susurluk, Biga, G&ouml;nen, Ulubat taraflarında &ccedil;ıkan ayaklanma/isyan aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Anzavur Ayaklanması**
+    - B-) Kuva-yı İnzibatiye Ayaklanması
+    - C-) Konya İsyanları
+    - D-) Mill&icirc; Aşireti Ayaklanması
+    - E-) Şeyh Eşref Olayı
     ***
 1. <strong>Tarihte &quot;&ouml;l&uuml; doğan bir antlaşma&quot; olarak nitelendirilen antlaşma aşağıdakilerden hangisidir?</strong>
     - A-) Londra Antlaşması

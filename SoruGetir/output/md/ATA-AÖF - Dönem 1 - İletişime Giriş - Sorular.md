@@ -1402,6 +1402,16 @@ III. Broş&uuml;r<br />
     - **Cevap D-) Destekleyici ve savunmacı**
     - E-) Y&uuml;ksek ve d&uuml;ş&uuml;k performanslı
     ***
+1. I. Kurumsal vizyon<br />
+II. Kurumsal misyon<br />
+III. Kurumsal analiz<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri kurum felsefesinin bileşenleri i&ccedil;erisinde yer almaktadır?</strong> 
+    - A-) I ve III
+    - B-) II ve III
+    - C-) I, II ve III
+    - **Cevap D-) I ve II**
+    - E-) Yalnız III
+    ***
 1. <strong>Aşağıdakilerden hangisi kurumsal iletişimin ama&ccedil;ları arasında <u>yer almaz</u>?</strong>
     - A-) Kurumsal iletişim, kurumsal tutanakların y&ouml;nlendirilmesinde ve &ccedil;alışanların kurumsal ama&ccedil;lar doğrultusunda g&uuml;d&uuml;l&uuml;nmelerinde en &ouml;nemli ara&ccedil;tır.
     - B-) Kurumun hissedarlara ve sermaye piyasasına y&ouml;nelik olarak piyasa hareketlerine ilişkin bilgileri s&uuml;rekli bir şekilde duyurması hissedarlara ve hissedar olmak isteyenlere yol g&ouml;stermektedir.
@@ -1550,6 +1560,13 @@ III. Amacı bilgiyi yaymaktır.<br />
     - C-) Abartılar &uuml;zerine kurulmuştur.
     - D-) Az araştırmaya dayanır.
     - **Cevap E-) İletişimin işleyişi &ccedil;ift y&ouml;nl&uuml;d&uuml;r.**
+    ***
+1. <strong>Aşağıdakilerden hangisi SWOT (GZFT) Analiz matrisindeki g&uuml;&ccedil;l&uuml; y&ouml;nler i&ccedil;erisinde <u>yer almaz</u>?</strong> 
+    - A-) Teknolojik yeterlilikler
+    - **Cevap B-) Yeni pazarlar**
+    - C-) &Uuml;r&uuml;n kalitesi
+    - D-) Paydaş bağlılığı
+    - E-) Finansal kaynaklar
     ***
 1. <strong>Aşağıdakilerden hangisi Basın Ajanslığı Modeli&rsquo;nin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) İletişimin işleyişi tek y&ouml;nl&uuml;d&uuml;r.
@@ -1812,6 +1829,14 @@ III. Sonu&ccedil;larının &ccedil;arpıtılarak toplumun manip&uuml;le edilmesi
     - **Cevap D-) II ve III**
     - E-) I, II ve III
     ***
+1. .................; yasal olarak herhangi bir dayanakları olmayan, ancak belli ama&ccedil;lar i&ccedil;in bir araya gelen kişilerin oluşturdukları gruplardır. Hen&uuml;z tam olarak kurumsallaşamayan bu gruplar, kimi kez tek bir konu i&ccedil;in bir araya gelir ve sonu&ccedil; almaya &ccedil;alışırlar.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
+    - **Cevap A-) Baskı grupları**
+    - B-) Sivil toplum grupları
+    - C-) Yerel y&ouml;netim grupları
+    - D-) Siyasal parti grupları
+    - E-) Mesleki oda grupları
+    ***
 1. <strong>Aşağıdakilerden hangisi Wolton&rsquo;a g&ouml;re siyasal iletişim kavramının ortaya &ccedil;ıkışında etkili <u>olmamıştır</u>?</strong> 
     - A-) Genel oy hakkı
     - B-) Kamuoyu araştırmaları
@@ -1911,6 +1936,13 @@ III. Farklı &ouml;zelliklere sahip bireylerde değişik etkilerin olacağının
     - **Cevap C-) Sadece eğitim s&uuml;resince devam etmesi**
     - D-) Eğitimlere hem kamu kuruluşlarının hem de &ouml;zel kuruluşların d&acirc;hil edilmesi
     - E-) &Ouml;ğrencilerin &uuml;reterek, yaşayarak &ouml;ğrenmelerine &ouml;nem verilmesi
+    ***
+1. <strong>Aşağıdakilerden hangisi medya mesajlarına ilişkin doğru bir &ouml;nermedir?</strong> 
+    - A-) Sadece a&ccedil;ık anlamlar taşırlar.
+    - B-) Anlam tek katmanlıdır.
+    - C-) Alıcısı &uuml;zerinde yalnızca doğrudan bir etkiye sahiptirler.
+    - **Cevap D-) Karmaşık ilişkiler ağının bir yansımasıdır.**
+    - E-) Her izleyicide aynı etkiyi oluştururlar.
     ***
 1. <strong>Aşağıdakilerden hangisi kitle k&uuml;lt&uuml;r&uuml;n&uuml;n &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - **Cevap A-) Yaratıcı d&uuml;ş&uuml;nceyi besler.**
@@ -2166,6 +2198,14 @@ III. 1990&rsquo;larda SSCB&rsquo;nin dağılması sonucu g&uuml;&ccedil; dengesi
     - **Cevap D-) &Ccedil;ok y&ouml;nl&uuml;**
     - E-) Uluslararası
     ***
+1. Uluslararası iletişim d&uuml;zeninde k&uuml;resel medya faaliyetleri, birbiriyle ilişkili ve t&uuml;ketici/bağımlı durumdaki &uuml;lkelerin gelişme karakterine ve durumuna g&ouml;re bunlardan bir veya ikisinin b&uuml;y&uuml;k ağırlık kazandığı, d&ouml;rt ilişki bi&ccedil;iminde ele alınmaktadır.<br />
+<strong>Aşağıdakilerden hangisi bunlardan biri <u>değildir</u>?</strong>
+    - **Cevap A-) Sosyolojik destek**
+    - B-) İletişim teknolojisi ve ilişkileri
+    - C-) İletişim teknolojisinin &ouml;rg&uuml;tlenmesi ve &ouml;rg&uuml;t transferi
+    - D-) İletişim teknolojisinin &uuml;r&uuml;n &uuml;retimi ve dağıtımı
+    - E-) İdeolojik destek
+    ***
 1. <strong>&ldquo;Varoluşsal boşluk&rdquo;tan s&ouml;z eden psikolog aşağıdakilerden hangisidir?</strong> 
     - A-) Clark
     - **Cevap B-) Frankl**
@@ -2292,6 +2332,13 @@ IV. Enformasyon hizmetleri<br />
     - C-) Web 1.0
     - D-) kitlesel medya
     - E-) manip&uuml;lasyon
+    ***
+1. <strong>Aşağıdakilerden hangisi bir sosyal paylaşım ağı <u>değildir</u>?</strong> 
+    - A-) Facebook
+    - **Cevap B-) Hipermedya**
+    - C-) Instagram
+    - D-) Twitter
+    - E-) Youtube
     ***
 1. <strong>Aşağıdakilerden hangisi sosyal medyayı geleneksel medya karşısında daha g&uuml;&ccedil;l&uuml; bir konuma getiren &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Depolama
@@ -2442,6 +2489,13 @@ III. Meta etik<br />
     - C-) Kendi i&ccedil;erisinde a&ccedil;ıklayıcı ve tanımlayıcıdır.
     - D-) Herhangi bir davranışı ahlakilik kriterlerine g&ouml;re saptar.
     - E-) Doğrudan İyi olanın ne olduğuyla ilgilenir.
+    ***
+1. <strong>Siyaset&ccedil;ilerin gazetecilere kayıt dışı kalması, dolayısıyla yayımlanmaması koşuluyla bazı &ouml;nemli bilgiler vermesi aşağıdaki ifadelerden hangisiyle adlandırılır?</strong> 
+    - **Cevap A-) Off the record**
+    - B-) On the record
+    - C-) Kontroll&uuml; haber
+    - D-) Depo haber
+    - E-) Gizli bilgi
     ***
 1. <strong>Aşağıdakilerden hangisi etik kavramı i&ccedil;in doğru <u>değildir</u>?</strong>
     - A-) Etik, erdemin felsefi incelenişidir.

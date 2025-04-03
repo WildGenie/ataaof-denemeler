@@ -1099,6 +1099,13 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) Form&uuml;ller yazılarak &ccedil;eşitli hesaplamalar yapılmaktadır.
     - **Cevap E-) Herkes tarafından kullanılabilen &uuml;cretsiz yazılımdır.**
     ***
+1. <strong>Kullanıcının yaptığı rutin işleri daha hızlı ve otomatik yapabilmesi i&#231;in aşağıdaki hangi gruptaki komutları kullanılması gerekmektedir?</strong>
+    - A-) Pencere
+    - B-) Yazım
+    - C-) Değişiklikler
+    - **Cevap D-) Makrolar**
+    - E-) Sırala ve Filtre Uygula
+    ***
 1. <strong>A3 s&uuml;tununda yer alan sayısal verinin ondalıktan sonra 3 basamak g&ouml;r&uuml;nt&uuml;lenmesi&nbsp;i&ccedil;in hangi ayarlamaların yapılması gerekmektedir?</strong>
     - **Cevap A-) H&uuml;cre bi&ccedil;imlendirmesindeki &ldquo;Sayı&rdquo; sekmesinde yer alan &ldquo;Metin&rdquo; se&ccedil;eneğinden gerekli ayarlamalar yapılmalıdır.**
     - B-) H&uuml;cre bi&ccedil;imlendirmesindeki &ldquo;Hizalama&rdquo; sekmesinde yer alan &ldquo;Dikey&rdquo; se&ccedil;eneğinden gerekli ayarlamalar yapılmalıdır.
@@ -1210,6 +1217,13 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - **Cevap D-) =EĞER(A8&gt;=65;&rdquo;Aşı Zorunluluğu Var&rdquo;;&rdquo;Aşı Zorunluluğu Yok&rdquo;)<br />
 &nbsp;**
     - E-) =EĞER(A8&gt;65;&rdquo;Aşı Zorunluluğu Var&rdquo;;&rdquo;Aşı Zorunluluğu Yok&rdquo;)
+    ***
+1. <strong>Excel programını yeni &ouml;ğrenen Ahmet A4 h&uuml;cresine &ldquo;=(A1+ A2+ A3)/3&rdquo; form&uuml;l&uuml;n&uuml; yazmıştır. Ahmet aşağıdaki fonksiyonlardan hangisini kullanarak bu işlemi daha kısa bir şekilde yapabilir?</strong>
+    - **Cevap A-) ORTALAMA**
+    - B-) TOPLAMA
+    - C-) EGER
+    - D-) EGERSAY
+    - E-) BAG_DEG_SAY
     ***
 1. <strong>Excel programında &quot;=D1+D2+D3+D4+D5+D6&quot; form&uuml;l&uuml; aşağıdakilerden hangisi ile aynıdır?</strong>
     - A-) =TOPLA(D1,D6)
@@ -1327,6 +1341,13 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) Blog Mod&uuml;l&uuml;<br />
 &nbsp;
     - E-) Dahili mesajlaşma mod&uuml;l&uuml;
+    ***
+1. <strong>Aşağıdakilerden hangisi&nbsp;&Ouml;ğrenme Y&ouml;netim Sistemlerinin</strong> (<strong>&Ouml;YS) sistem d&uuml;zeyindeki rollerdendir?</strong>
+    - **Cevap A-) Tema/Aray&uuml;z sorumlusu**
+    - B-) Eğitimci
+    - C-) &Ouml;ğrenci
+    - D-) D&uuml;zenleme yapamayan eğitimci
+    - E-) Misafir
     ***
 1. <strong>&Ouml;ğretim Y&ouml;netim Sistemi&#39;nde (&Ouml;YS) &ouml;ğrenen ve eğitimcinin aynı anda bağlanıp ders işleyebileceği mod&uuml;l aşağıdakilerden hangisidir?</strong>
     - A-) Duyuru mod&uuml;l&uuml;
@@ -1467,6 +1488,14 @@ IV. Geleneksel eğitimi ortadan kaldırma<br />
     - D-) Focus To-Do<br />
 &nbsp;
     - E-) XMind
+    ***
+1. <strong>Farklı mek&acirc;nlarda bulunan &ouml;ğretici ve &ouml;ğrenenlerin aynı anda web destekli cihazlarla katılım sağladıkları &ouml;ğrenme ortamı aşağıdakilerden hangisidir?</strong><br />
+
+    - **Cevap A-) Eş zamanlı**
+    - B-) Y&uuml;z y&uuml;ze
+    - C-) Karma
+    - D-) Eş zamanlı olmayan
+    - E-) Geleneksel
     ***
 1. <strong>George Siemens ve Stephen Downes&rsquo;ın MOOC uygulaması aşağıdaki kuramlardan hangisi &uuml;zerine kurulmuştur?</strong> 
     - A-) Bilişsel
@@ -1614,6 +1643,17 @@ IV. &Ouml;ğrencilerin teknik eksikliklerinin olması (mikrofon, kamera)<br />
     - D-) Sanal sınıflar<br />
 &nbsp;
     - E-) Web konferans sistemleri
+    ***
+1. I. Dosya transfer etme<br />
+II. Hiperlinkler g&ouml;nderme<br />
+III. Video chat yapma<br />
+IV. Sesli/g&ouml;r&uuml;nt&uuml;l&uuml; dosya g&ouml;nderme<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri anlık mesajlaşma uygulamalarının sunduğu olanaklar arasında yer alır?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve III
+    - D-) I, III ve IV
+    - **Cevap E-) I, II, III ve IV**
     ***
 1. <strong>Aşağıdakilerden hangisi blog uygulamalarından biri&nbsp;<u>değildir</u>?</strong>
     - A-) Medium
@@ -1896,4 +1936,12 @@ IV. Kullanıcı &uuml;retkenliğini ve verimliliğini artırır.<br />
     - C-) Uzaktan &ouml;ğretimin her ders i&ccedil;in uygun olmaması
     - **Cevap D-) Bireysel y&ouml;netim**
     - E-) Teknik beceri ve deneyim ihtiyacı
+    ***
+1. A&ccedil;ık ve uzaktan &ouml;ğretimde kullanılan materyaller arasında olan e-kitaplar, animasyonlar, videolar, sesli okumaların&nbsp;hazırlanmasında &ouml;ğretim tasarımcısı, grafikerler, ses ve video uzmanları, kameramanlar, senaryo geliştiriciler gibi alanında uzman kişiler g&ouml;rev alır.<br />
+<strong>A&ccedil;ıklamada bahsedilen a&ccedil;ık ve uzaktan &ouml;ğretim paydaşı aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) İ&ccedil;erik Geliştiriciler**
+    - B-) Bilgi İşlem Uzmanları
+    - C-) Destek Sağlayıcılar
+    - D-) &Ouml;l&ccedil;me Değerlendirme Uzmanları
+    - E-) &Ouml;ğretici
     ***

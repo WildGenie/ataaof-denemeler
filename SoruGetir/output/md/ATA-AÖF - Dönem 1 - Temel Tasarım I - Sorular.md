@@ -1253,6 +1253,13 @@ III. Kimyasal tepkime<br />
     - D-) Richard Langton
     - E-) Susan Hirth
     ***
+1. <strong>&Ccedil;ok y&ouml;nl&uuml; bir d&uuml;ş&uuml;nme ile yaşamda karşılaşabildiğimiz tekrar niteliğindeki g&ouml;rsel d&uuml;nya g&ouml;r&uuml;nt&uuml;lerinden biri aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) G&ouml;ky&uuml;z&uuml;ndeki yıldızların algılanması ve bulutların ardı sıra kayıp giden g&ouml;r&uuml;nt&uuml;leri**
+    - B-) Bazı hayvan sesleri
+    - C-) Yağmur ya da dolu sesi
+    - D-) Kalp ritmi
+    - E-) Bir şarkıda tekrar eden s&ouml;zc&uuml;kler
+    ***
 1. <strong>Yaşamda tekrar, ritim ve hareketin etkinliğiyle ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Tekrara bağlı olarak hız ve hareket, g&ouml;rd&uuml;ğ&uuml;m&uuml;z g&ouml;rsel d&uuml;nya g&ouml;r&uuml;nt&uuml;s&uuml;nde yanılsamaya da neden olabilmektedir.
     - B-) G&ouml;rme duyumuz tekrar, ritim ve harekete duyarlıdır.
@@ -1311,6 +1318,13 @@ III. Kimyasal tepkime<br />
     - C-) Tasarımda sınırlar dengeyi bozan ya da dengeyi var eden ana unsurdur.
     - D-) Grafik tasarım bir y&uuml;zeyle sınırlıdır.
     - **Cevap E-) Tasarımın sınırlandırılması boşluğu yaratır.**
+    ***
+1. <strong>Alan ve mek&acirc;nın tasarımdaki &ouml;nemi a&ccedil;ısından aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Her tasarım fikri &ouml;z&uuml;nde &ouml;n-arka plan ilişkisi barındırır.
+    - B-) Her tasarım zeminle var olur.
+    - C-) Bir tasarım d&uuml;ş&uuml;ncesi alan ve mek&acirc;nla uyumlu bir birlikteliğe sahip olmalıdır.
+    - **Cevap D-) Bir tasarım d&uuml;ş&uuml;ncesi alan ve mek&acirc;nla uyumlu bir birlikteliğe sahip olmak zorunda değildir.**
+    - E-) Alan ve mek&acirc;n, tasarımın temelini oluşturur.
     ***
 1. <strong>Aşağıdakilerden hangisi tasarımın ilk aşamasını oluşturur?</strong>
     - **Cevap A-) Boşluk**
@@ -1431,6 +1445,13 @@ Yukarıda verilen se&ccedil;eneklerden hangisi/hangileri alan ve mek&acirc;n yar
     - C-) Tipografi
     - D-) &Ccedil;izgi
     - **Cevap E-) Anlam**
+    ***
+1. <strong>Hollandalı tasarımcı Hans van Halem'in tasarladığı “Bisiklet T&#252;neli”, hangi grup tasarımdan uygulanmıştır?</strong>
+    - A-) Fluxus grubu
+    - **Cevap B-) De Strakke Hand**
+    - C-) The Beach Boys
+    - D-) D grubu
+    - E-) Milton Glaser ve grubu
     ***
 1. <strong>Kurgunun yaşamdaki etkinliğiyle ilgili olarak aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
     - A-) Kurgu, pozitif bir etkide insanı geliştiren ve başarıya g&ouml;t&uuml;ren bir kavramdır.
@@ -1633,6 +1654,14 @@ III.&nbsp;Asimetri, tasarım y&uuml;zeyinin birbirine eşit olmayan bir etkide d
     - D-) Yalnız I
     - E-) I, II, ve III
     ***
+1. Tasarımda.......... denge yaratmak kolaydır. Zor olan........... dengenin var olduğu bir d&uuml;zlemi tasarlamaktır.<br />
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Fiziksel-Sanatsal
+    - **Cevap B-) Simetri-Asimetri**
+    - C-) Bi&ccedil;imsel-Şekilsel
+    - D-) Kurgusal-Asimetri
+    - E-) Simetri-Fiziksel
+    ***
 1. <strong>Asimetrik tasarımın temel amacı aşağıdakilerden hangisidir?</strong>
     - A-) Denge algısının oluşumu sağlamak
     - **Cevap B-) Şaşırtma sağlayartak dikkati &ccedil;ekme**
@@ -1672,6 +1701,13 @@ III. Tasarımda denge, i&ccedil;eriğe aykırı bir etkide olmamalıdır.<br />
     - C-) Organik bi&ccedil;imler, doğada kendiliğinden var olan bi&ccedil;imlerdir.
     - D-) İmgelere kimlik kazandırabilen organik bi&ccedil;im, i&ccedil;erikle tutarlı bir ilişki kurmalıdır.
     - E-) Organik tasarımlarda tasarımcının &ouml;ne &ccedil;ıkaracağı hedef, bi&ccedil;imin doğallık i&ccedil;ermesidir.
+    ***
+1. <strong>Organik pigmentlerle ilgili olarak aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
+    - A-) K&uuml;&ccedil;&uuml;k par&ccedil;acıklarıdır.
+    - B-) Suyla olan etkileşime diren&ccedil; g&ouml;sterirler.
+    - **Cevap C-) Suyla olan etkileşime diren&ccedil; g&ouml;stermezler.**
+    - D-) Ton değerini belirgin kılarlar.
+    - E-) Dolgun bir yapıya sahiptirler.
     ***
 1. &ldquo;Tasarımda doğası gereği imgelere kimlik kazandıran organik ve inorganik bi&ccedil;im, &hellip;&hellip;&hellip;&hellip;. tutarlı bir ilişki kurmalıdır.&rdquo;<br />
 <strong>Yukarıda boş bırakılan yere aşağıdaki se&ccedil;eneklerden hangisi getirilmelidir?</strong>
@@ -1796,11 +1832,11 @@ III. Tasarımda organik olanı &ouml;ne &ccedil;ıkarmak, tasarımın i&ccedil;e
     ***
 ## Unite 13
 1. <strong>Tasarımda g&ouml;rsel hiyerarşiyle ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) Tasarım y&uuml;zeyindeki &ouml;ğeleri &ouml;nem sırasına g&ouml;re birbiriyle ilişkilendirerek yapılandırmaktır.
+    - A-) Tasarım y&uuml;zeyindeki &ouml;geleri &ouml;nem sırasına g&ouml;re birbiriyle ilişkilendirerek yapılandırmaktır.
     - B-) Tasarım &ouml;gelerinin g&ouml;rsel hiyerarşisinde sıra d&uuml;zen ilkesi g&uuml;d&uuml;lmelidir.
     - **Cevap C-) G&ouml;rsel hiyerarşi, orantısal bir d&uuml;zen i&ccedil;erisinde vurguyu &ouml;ne &ccedil;ıkarmamanın bir y&ouml;ntemidir.**
     - D-) Tasarımda g&ouml;rsel hiyerarşi, &ouml;l&ccedil;&uuml;lendirmeyle esastır.
-    - E-) Bir tasarımda kullanılan tasarım &ouml;ğelerinin &ouml;nem derecelerine bağlı olarak sıralanmasıdır.
+    - E-) Bir tasarımda kullanılan tasarım &ouml;gelerinin &ouml;nem derecelerine bağlı olarak sıralanmasıdır.
     ***
 1. G&ouml;rsel hiyerarşi, tasarım i&ccedil;indeki g&ouml;rsel unsurları vurgulamak istenen mesaja g&ouml;re &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. anlamına gelir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -1926,6 +1962,13 @@ III. Tasarım s&uuml;recine yansıtılmayan kavramlardır.<br />
     - D-) Bir tasarımda belirgin olarak algılanan boş y&uuml;zeyler, vurgu aracılığıyla dikkat &ccedil;ekmenin bir başka y&ouml;ntemi olabilmektedir.
     - **Cevap E-) Tasarımcı, g&ouml;rsel hiyerarşi ve vurgu aracılığıyla izleyenin g&ouml;z&uuml;n&uuml;n tasarıma y&ouml;nlendirmeyi ama&ccedil;lamaz.**
     ***
+1. <strong>Yaşamda g&#246;rsel hiyerarşi ve vurgu i&#231;in aşağıdakilerden hangisi <u>s&#246;ylenemez</u>?</strong>
+    - A-) Hiyerarşik bir yapıya sahip olan canlı ve cansız varlıklar, kendine &#246;zg&#252; vurgu alanına sahiptir.
+    - **Cevap B-) Doğal yaşamın ekolojik dengesi, ekolojik bir hiyerarşi i&#231;ermemektedir.**
+    - C-) G&#246;rsel hiyerarşi, bir bakıma toplumsal yaşamdaki d&#252;zenin omurgasını oluşturur.
+    - D-) Evrendeki hiyerarşik d&#252;zen, ekolojik dengenin sağlayıcısı ve b&#246;ylece s&#252;rd&#252;r&#252;lebilir yaşamı elde eden dengenin kendisidir.
+    - E-) Doğal yaşama insan eklentisi olarak d&#226;hil edilen tasarım anlayışı da kendi i&#231;inde hiyerarşik d&#252;zene sahiptir
+    ***
 ## Unite 14
 1. <strong>Aşağıdakilerden hangisi tasarım kurgusunun &uuml;st&uuml;nde yapılandırılacağı temeli ifade etmektedir?</strong>
     - A-) Doku
@@ -2002,6 +2045,13 @@ III. Hareket<br />
     - C-) Form
     - D-) Zemin
     - E-) &Ccedil;izgi
+    ***
+1. <strong>Aşağıdakilerden hangisi tasarımda kullanılan &#231;izgi &#231;eşitlerinden <u>değildir</u>?</strong>
+    - A-) Yatay &#231;izgiler
+    - B-) Dikey &#231;izgiler
+    - **Cevap C-) Kalın &#231;izgiler**
+    - D-) Kavis &#231;izgiler
+    - E-) Kesişen &#231;izgiler
     ***
 1. <strong>Gestalt Kuramı&#39;yla ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
     - A-) B&uuml;t&uuml;n&uuml;n par&ccedil;aların toplamından daha k&uuml;&ccedil;&uuml;k olduğunu iddia eder.

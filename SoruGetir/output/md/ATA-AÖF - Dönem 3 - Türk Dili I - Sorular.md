@@ -517,6 +517,14 @@ III. p &uuml;ns&uuml;z&uuml; de s&ouml;z başında, birka&ccedil; T&uuml;rk&cced
     - D-) II ve III
     - E-) I ve III
     ***
+1. <strong>T&uuml;rk dilinin tarihsel d&ouml;nemlerinden Orta T&uuml;rk&ccedil;e D&ouml;nemi hangi y&uuml;zyılları kapsar?</strong><br type="_moz" />
+
+    - A-) VI.-X. y&uuml;zyıllar<br type="_moz" />
+    - B-) XVII.-XVIII. y&uuml;zyıllar<br type="_moz" />
+    - C-) XIV.-XIX. y&uuml;zyıllar<br type="_moz" />
+    - D-) IX.-XI. y&uuml;zyıllar<br type="_moz" />
+    - **Cevap E-) XI.-XVI. y&uuml;zyıllar<br type="_moz" />**
+    ***
 1. <strong>Suci, Şine-Usu, Karabalgasun Yazıtları T&uuml;rk&ccedil;enin hangi d&ouml;nemine aittir?</strong>
     - A-) Altay Dil Birliği D&ouml;nemi
     - **Cevap B-) Eski T&uuml;rk&ccedil;e D&ouml;nemi**
@@ -1486,6 +1494,13 @@ IV. Ağzında bakla ıslanmamak<br />
     - D-) K&uuml;&ccedil;&uuml;klerin g&ouml;zlerinden b&uuml;y&uuml;klerin ellerinden &ouml;perim.
     - E-) Ayıptır s&ouml;ylemesi.
     ***
+1. <strong>Aşağıdaki ilişki s&#246;zlerden hangisi diğerlerinden farklıdır?</strong>
+    - A-) Sadede gelelim.
+    - **Cevap B-) Baş &#252;st&#252;ne**
+    - C-) Bize de buyurun.
+    - D-) Gereğini arz ederim.
+    - E-) Bana m&#252;saade
+    ***
 1. <strong>&nbsp;Aşağıdakilerden hangisi zıt anlamlı kelimelerden oluşan bir ikileme <u>değildir</u>?</strong>
     - A-) İleri geri
     - B-) Az &ccedil;ok
@@ -1638,6 +1653,14 @@ IV. Ağzında bakla ıslanmamak<br />
     - D-) H&acirc;ri&ccedil;
     - E-) Masalar
     ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde vurgu, zaman kavramı &uuml;zerindedir?</strong><br />
+
+    - **Cevap A-) Okula Ahmet otob&uuml;sle d&uuml;n gitmiş.**
+    - B-) Ahmet okula d&uuml;n otob&uuml;sle gitmiş.
+    - C-) Otob&uuml;sle okula d&uuml;n Ahmet gitmiş.
+    - D-) Ahmet d&uuml;n otob&uuml;sle okula gitmiş.
+    - E-) D&uuml;n Ahmet okula otob&uuml;sle gitmiş
+    ***
 1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde &ouml;znenin yaptığı işten etkilenen bir &ouml;ge vurgulanmıştır?</strong> 
     - A-) Annemin hastalığında kardeşimi okula babam g&ouml;t&uuml;rd&uuml;.
     - **Cevap B-) Pervasız hareketleri ve tavırları hepimizi &uuml;z&uuml;yordu.**
@@ -1713,6 +1736,13 @@ IV. Ağzında bakla ıslanmamak<br />
     - C-) Bana dargın gibi bakıyor.
     - D-) Okulun bah&ccedil;esini ağa&ccedil;landırdık.
     - E-) D&uuml;nyanın nasıl d&ouml;nd&uuml;ğ&uuml;n&uuml; kavrayamamıştı.
+    ***
+1. <strong>&quot;Nasıl, ne zaman, ne kadar?&rdquo; soruları y&uuml;kleme y&ouml;neltildiğinde alınan cevap c&uuml;mlenin hangi &ouml;gesini karşılar?</strong>
+    - **Cevap A-) Zarf t&uuml;mleci**
+    - B-) Dolaylı t&uuml;mle&ccedil;
+    - C-) Belirtili nesne
+    - D-) Belirtisiz nesne
+    - E-) &Ouml;zne
     ***
 1. Yakıcı g&uuml;neşin altında tarlada &ccedil;alışan iş&ccedil;ilerin umutları da onlar gibi&nbsp; yanıyordu.<br />
 <strong>Yukarıdaki c&uuml;mlenin &ouml;gelerinin sıralanışı hangisinde doğru verilmiştir?</strong>
@@ -1995,6 +2025,17 @@ IV. Zamir<br />
     - D-) İsim
     - E-) Devrik
     ***
+1. I. Kurallı<br />
+II. Birleşik<br />
+III. Basit<br />
+IV. Devrik<br />
+<strong>T&#252;rk Dili dersinde c&#252;mle &#231;eşitleri &#252;nitesine &#231;alışan Nazlı, y&#252;klemi yerine g&#246;re incelemek istemektedir. Nazlı yukarıdakilerden hangisini ya da hangilerini kullanırsa y&#252;klemi yerine g&#246;re doğru incelemiş olur?</strong>
+    - A-) Yalnız I
+    - B-) I ve II
+    - C-) I, III ve IV
+    - **Cevap D-) I ve IV**
+    - E-) I, II, III ve IV
+    ***
 1. &hellip;&hellip;&hellip;&hellip; c&uuml;mle, y&uuml;klemi kullanılmadığı h&acirc;lde yargı bildiren c&uuml;mlelerdir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Devrik
@@ -2190,6 +2231,13 @@ IV. Zamir<br />
     - **Cevap D-) Tek başına bağımsız yargı bildiren iki veya daha fazla c&uuml;mlenin bir anlam b&uuml;t&uuml;nl&uuml;ğ&uuml; i&ccedil;inde sıralanmasıyla kurulan c&uuml;mlelerdir.&nbsp;**
     - E-) İki ayrı c&uuml;mle birbirine bağla&ccedil; ile bağlanır.
     ***
+1. <strong>Aşağıdaki c&uuml;mlelerden hangisi yapısı y&ouml;n&uuml;yle diğerlerinden farklıdır?</strong>
+    - A-) Yazılarımı genellikle geceleri kaleme alırım.
+    - B-) Ger&ccedil;ek bir sanat&ccedil;ı i&ccedil;in yaşam koşullarının bir &ouml;nemi yoktur.
+    - **Cevap C-) Yazarlıkta &ouml;zg&uuml;nl&uuml;ğ&uuml; ve doğallığı yakalamak, yazar i&ccedil;in kolay bir iş değildir.**
+    - D-) Her sanat yapıtında, sanat&ccedil;ının yaşamından ve d&uuml;ş&uuml;nce d&uuml;nyasından izler bulunur.
+    - E-) Bir&ccedil;ok şair, başlangı&ccedil;ta sevdiği yazar ve şairleri taklit etmiştir.
+    ***
 1. <strong>Aşağıdakilerden hangisi yapısı y&ouml;n&uuml;yle basit bir c&uuml;mledir?</strong>
     - A-) Vedalaşmak i&ccedil;in terminale gittiğimde otob&uuml;s &ccedil;oktan hareket etmişti.
     - B-) Memlekete giderken yolda &ouml;ğrencilerimle karşılaştım.
@@ -2291,6 +2339,13 @@ IV. Zamir<br />
     - C-) Kin g&uuml;derler bize karşı.
     - D-) Nefret s&ouml;ylemi var dillerinde.
     - **Cevap E-) Yavaş adımlarla eve doğru y&uuml;r&uuml;d&uuml;ler.**
+    ***
+1. <strong>Birbiriyle anlam bağlantısı olan en az iki y&#252;klem ve bağla&#231;larla kurulan c&#252;mle yapısına ne denir?</strong>
+    - A-) Sıralı
+    - B-) Basit
+    - **Cevap C-) Bağlı**
+    - D-) Birleşik
+    - E-) Girişik birleşik
     ***
 1. <strong>&ldquo;Sora sora Bağdat bulunur.&rdquo; c&uuml;mlesinin &ouml;zellikleri aşağıdakilerin hangisinde belirtilmiştir?</strong> 
     - A-) Olumlu&nbsp;&ndash;&nbsp;basit&nbsp;&ndash;&nbsp;devrik&nbsp;&ndash;&nbsp;eylem

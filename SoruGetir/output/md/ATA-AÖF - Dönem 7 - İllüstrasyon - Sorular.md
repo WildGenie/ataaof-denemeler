@@ -762,6 +762,13 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - D-) Gotik &Ccedil;ağ
     - E-) R&ouml;nesans &Ccedil;ağı
     ***
+1. <strong>Romantizmin vurguladığı &ouml;zelliklerden hangisi&nbsp;<u>yanlıştır</u>?</strong>
+    - **Cevap A-) Mantık**
+    - B-) Duygu
+    - C-) İ&ccedil;g&uuml;d&uuml;&nbsp;
+    - D-) Bireysel tecr&uuml;be
+    - E-) Hayal g&uuml;c&uuml;
+    ***
 1. <strong>Doğayı k&ouml;r&uuml; k&ouml;r&uuml;ne taklit etmek yerine, onun verdiği ilhamı uyandırmak ve izleyicinin hayal g&uuml;c&uuml;ne izin vermek d&uuml;ş&uuml;ncesindeki sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Catlin
     - **Cevap B-) Cole**
@@ -848,6 +855,13 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - D-) Birbiri ile ilişkisiz renkler
     - E-) Rastgele se&ccedil;ilmiş renkler
     ***
+1. <strong>&quot;Piet&agrave;&quot; hangi ekspresyonist sanat&ccedil;ının &uuml;rettiği afiş &ccedil;alışmasıdır?</strong>
+    - A-) Henri Toulouse Lautrec
+    - B-) Jules Cheret
+    - C-) Gustav Klimt
+    - D-) Egon Schiele
+    - **Cevap E-) Oskar Kokoschka**
+    ***
 ## Unite 10
 1. <strong>Aşağıdakilerden hangisi edit&ouml;ryal/yayın ill&uuml;strasyonları arasında <u>bulunmamaktadır</u>?</strong>
     - A-) Gazete
@@ -919,6 +933,13 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - C-) Yalnızca televizyonlarda
     - D-) Yalnızca gazete ve dergilerde
     - **Cevap E-) Basılı ve dijital ortamlarda**
+    ***
+1. <strong>Yayın ill&uuml;strasyonları aşağıdaki ifadelerden hangisi ile tanımlanabilir?</strong>
+    - **Cevap A-) Beraberindeki metni tanıtan ve konu hakkında bilgi verme amacı ile tasarlanan ill&uuml;strasyonlardır.**
+    - B-) Beraberindeki metni etkili kılan ill&uuml;strasyonlardır.
+    - C-) Beraberindeki metni a&ccedil;ıklayan ill&uuml;strasyonlardır.
+    - D-) Beraberindeki metni temsil eden ill&uuml;strasyonlardır.
+    - E-) Beraberindeki metinle ilişki kuran ill&uuml;strasyonlardır.
     ***
 1. <strong>Gazetelerdeki ill&uuml;strasyonlar aşağıdakilerden hangisine g&ouml;re değişim g&ouml;stermektedir?</strong>
     - A-) Gazetenin ismine
@@ -1013,6 +1034,13 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - **Cevap D-) Rokoko D&ouml;nemi**
     - E-) İzlenimci D&ouml;nem
     ***
+1. <strong>19. y&uuml;zyılda k&uuml;&ccedil;&uuml;k şapka ve t&uuml;ylerin mutlaka kullanıldığı ill&uuml;strasyonlar hangi d&ouml;nemi tanımlıyor olabilir?</strong>
+    - A-) Edward D&ouml;nemi
+    - B-) Romantik D&ouml;nem
+    - C-) Art Nouveau
+    - **Cevap D-) Belle Epoque**
+    - E-) Akıl &Ccedil;ağı
+    ***
 1. <strong>Aşağıdakilerden hangisi II. D&uuml;nya Savaşı zamanında İngiliz H&uuml;k&ucirc;meti tarafından halka aşılanmıştır?</strong>
     - A-) Savaş Modası&nbsp;
     - B-) Feminen Giyim
@@ -1106,6 +1134,13 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - D-) Randolph Caldecott
     - E-) Chris Riddell
     ***
+1. <strong>Aşağıdakilerden hangisi 21. y&uuml;zyılda T&uuml;rkiye&rsquo;de &ouml;nde gelen &ccedil;ocuk kitabı ill&uuml;strat&ouml;rlerinden biri <u>değildir</u>?</strong>
+    - A-) Deniz &Uuml;&ccedil;başaran
+    - B-) Necdet Yılmaz
+    - C-) Sedat Girgin
+    - D-) Kıymet Erg&ouml;&ccedil;en
+    - **Cevap E-) İhap Hulusi**
+    ***
 ## Unite 13
 1. <strong>Animasyon ifadesi ile ilgili aşağıdakilerden hangisi doğrudur?</strong>
     - A-) Mağara duvarlarına yaşadıkları olayları aktarmak i&ccedil;in resimler &ccedil;izen insan, aklı ve fikri geliştik&ccedil;e hayatlarında yaşadıkları pek &ccedil;ok &ouml;nemli olayı da gelecek nesillere aktarmak i&ccedil;in &ccedil;eşitli bi&ccedil;imlerde arayışlar sergilemiştir.
@@ -1120,6 +1155,13 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - C-) Zoopraxiscope
     - D-) Adventure of Prince Achmed
     - E-) Mickey Mouse
+    ***
+1. <strong>Her sahnenin ve sahnelerdeki her karenin el ile tek tek &ccedil;izilerek &uuml;retildiği ilk animasyon &ouml;rneklerini kapsayan t&uuml;r&uuml;&nbsp;aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Temel Animasyon**
+    - B-) Duraklı Animasyon
+    - C-) 3D animasyon
+    - D-) Clay Animasyon
+    - E-) VR Animasyon
     ***
 1. <strong>&Ccedil;izgi roman olarak tanımlanan mecranın ilk d&ouml;neminde sırasıyla hangi &uuml;lkelerde b&uuml;y&uuml;k kitleler tarafından ilgi g&ouml;rd&uuml;ğ&uuml; kabul edilmektedir?</strong>
     - **Cevap A-) Amerika, Fransa, Bel&ccedil;ika, Japonya**
@@ -1201,6 +1243,13 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - E-) Amerikan yapımı &ldquo;Simpsons&rdquo; &ccedil;izgi filmi, hareketli grafik kullanımlarının en &ouml;nemli ve ilk &ouml;rneklerindendir.
     ***
 ## Unite 14
+1. <strong>Aşağıdaki malzemelerden hangisi bir ill&uuml;strat&ouml;r&uuml;n mutlaka bulundurması gereken materyallerdendir?</strong>
+    - A-) Sulu boya
+    - **Cevap B-) Kurşun kalem**
+    - C-) Guaj boya
+    - D-) Pastel boya
+    - E-) Marker
+    ***
 1. <strong>Kuru boya &ccedil;alışması yapılırken dikkat edilmesi gereken nokta aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) A&ccedil;ık tonlardan boyanmaya başlanması**
     - B-) K&acirc;ğıt se&ccedil;imi

@@ -1800,6 +1800,14 @@ B: She has been there for 5 days.<br />
     - D-) losed
     - E-) loses
     ***
+1. We need to buy some .......................... for our kitchen: a table and four chairs.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) room
+    - B-) desk
+    - C-) wardrobe
+    - D-) bed
+    - **Cevap E-) furniture**
+    ***
 1. I .............................. this car for five years.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) having
@@ -1995,6 +2003,14 @@ B: For two hours.<br />
     - C-) has be feeling
     - D-) feeling
     - **Cevap E-) has been feeling**
+    ***
+1. Emin, where have you been? here is she? We .......................... for you since midday.<br />
+C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
+    - A-) have been wait
+    - B-) waited
+    - C-) wait
+    - **Cevap D-) have been waiting**
+    - E-) are waiting
     ***
 1. Jane: When did you graduate from university?<br />
 Alice: I graduated in 2006.&nbsp;<br />
@@ -2221,6 +2237,14 @@ Terry: .............................................. .<br />
     - D-) easy
     - **Cevap E-) disappointing**
     ***
+1. The bus ................... before I got to the bus station.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) leaves
+    - B-) is leaving
+    - C-) was leaving
+    - **Cevap D-) had left**
+    - E-) has left
+    ***
 1. She couldn&rsquo;t buy the shoes because she................ her money.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
     - A-) lose
@@ -2378,6 +2402,14 @@ B: ____________________.<br />
     - C-) easygoing
     - D-) optimistic
     - **Cevap E-) pessimistic**
+    ***
+1. I am sorry. I ___________ finish a project. I will help you later.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) have
+    - B-) will to
+    - **Cevap C-) am going to**
+    - D-) had
+    - E-) has
     ***
 1. 1. A: What would you like to drink, tea or coffe?<br />
 B: I (have) __________ a cup of tea.<br />
@@ -2577,6 +2609,14 @@ B: ___________________<br />
     - D-) into
     - E-) onto
     ***
+1. I am going to live ___________ England.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) on
+    - **Cevap B-) in**
+    - C-) at
+    - D-) with
+    - E-) over
+    ***
 1. Go ................. this street and take the first left into the high street. It&rsquo;s between the cinema and the theatre<br />
 <b>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</b>
     - A-) on
@@ -2749,6 +2789,15 @@ Aşağıdakilerden hangisi yukarıdaki t&uuml;mceyi doğru şekilde tamamlar?</s
     - **Cevap D-) in**
     - E-) on
     ***
+1. A: When did you arrive at the station?<br />
+B: _______________________________.<br />
+<strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) It left on time.
+    - B-) Yes, we did.
+    - **Cevap C-) We arrived in time.**
+    - D-) By bus..
+    - E-) We returned on Sunday.
+    ***
 1. Z&uuml;beyde started working for Paradise Boutique ..................... 2011.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) in**
@@ -2914,6 +2963,14 @@ Aşağıdakilerden hangisi yukarıdaki t&uuml;mceyi doğru şekilde tamamlar?</s
     - **Cevap C-) more beautiful**
     - D-) ugly
     - E-) ugliest
+    ***
+1. A kilogram of bananas is _______________ than an apple.<br />
+<b>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</b>
+    - **Cevap A-) less expensive**
+    - B-) expensive
+    - C-) the most expensive
+    - D-) more expensive
+    - E-) least expensive
     ***
 1. The River Nile is the ......................river in the world.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />

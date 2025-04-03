@@ -1178,6 +1178,13 @@ III. Konuya uzaklık<br />
     - D-) Video
     - E-) Sens&ouml;r
     ***
+1. <strong>Fotografik bir sahneyi aydınlatmak i&ccedil;in kullanılan g&uuml;n ışığını taklit eden flaşlar ka&ccedil; Kelvin derecedeki renk sıcaklığına g&ouml;re kalibre edilmiştir?</strong>
+    - A-) 3600
+    - B-) 1200
+    - C-) 7500
+    - **Cevap D-) 5500**
+    - E-) 2700
+    ***
 1. <strong>Dijital fotoğraf makinesiyle &ccedil;ekilen fotoğrafların sayısal veri olarak depolandığı bir gere&ccedil; olan hafıza kartı aşağıdakilerden hangisiyle ifade edilir?</strong>
     - **Cevap A-) CF-SD-SDHC-SDXC**
     - B-) Renk Kartı
@@ -1517,6 +1524,13 @@ III. Konuya uzaklık<br />
     - C-) Men&uuml; &ccedil;ubuğu
     - **Cevap D-) Camera RAW**
     - E-) Color paneli
+    ***
+1. <strong>Aşağıdakilerden hangisi sayısal fotoğraf işleme programı Lightroom&rsquo;un &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - A-) Sayısal fotoğraflar &uuml;zerinde ışık d&uuml;zenlemelerinin yapılması
+    - B-) Sayısal fotoğraflar &uuml;zerinde&nbsp;renk d&uuml;zenlemelerinin yapılması
+    - C-) Sayısal fotoğraflar &uuml;zerinde istenmeyen p&uuml;r&uuml;zlerin giderilmesi
+    - D-) Sayısal fotoğrafları yeniden croplaması
+    - **Cevap E-) Sayısal fotoğraflara m&uuml;dahale konusunda olduk&ccedil;a sınırlı olması**
     ***
 1. <strong>Genellikle profesyonel fotoğraf&ccedil;ıların tercih ettiği, analog d&ouml;nemdeki karanlık odada hen&uuml;z işlenmemiş film negatifine benzetilen, dijital negatif olarak da adlandırılan dosya t&uuml;r&uuml; a</strong><strong>şağıdakilerden hangisidir?</strong>
     - A-) .jpeg
@@ -1973,12 +1987,26 @@ IV. Yeşil<br />
     - D-) RGB
     - E-) CMYK
     ***
+1. <strong>Aşağıdaki DPI değerlerinden hangisi standart baskı değeri olarak kabul edilir?</strong>
+    - A-) 72 DPI
+    - B-) 500 DPI
+    - **Cevap C-) 300 DPI**
+    - D-) 100 DPI
+    - E-) 200 DPI
+    ***
 1. <strong>Aşağıdaki yazıcı t&uuml;rlerinden hangisinde m&uuml;rekkep yerine toner kullanılır?</strong>
     - **Cevap A-) Lazer yazıcı**
     - B-) Termal yazıcı
     - C-) Piezo yazıcı
     - D-) Katı m&uuml;rekkepli yazıcı
     - E-) Nokta vuruşlu yazıcı
+    ***
+1. <strong>G&ouml;r&uuml;nt&uuml;ler A4 boyutunda, hızlı bir şekilde ve &ccedil;ok sayıda kopyalar h&acirc;linde alınması gerektiğinde aşağıdaki yazıcılardan hangisi tercih edilmelidir?</strong> 
+    - A-) Nokta vuruşlu yazıcı
+    - **Cevap B-) Lazer yazıcı**
+    - C-) Piezo yazıcı
+    - D-) Katı m&uuml;rekkepli yazıcı
+    - E-) Termal yazıcı
     ***
 1. <strong>Geniş format yazıcıların baskı boyutu genel olarak en az ka&ccedil; in&ccedil;&rsquo;dir?</strong>
     - A-) 40 in&ccedil;

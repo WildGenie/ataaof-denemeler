@@ -1083,6 +1083,13 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - **Cevap D-) Kişisel tercihler**
     - E-) Taşıyıcı y&uuml;zeyler
     ***
+1. <strong>&nbsp;Aşağıdakilerden hangisi Thibaudeau sınıflandırma sisteminin alt kategorilerinden biri <u>değildir</u>?</strong>
+    - A-) &ldquo;Elz&eacute;vir&rdquo;ler
+    - B-) &ldquo;Didot&rdquo;lar
+    - **Cevap C-) Non-Latin karakterler**
+    - D-) &ldquo;&Eacute;gyptienne&rdquo;lar
+    - E-) &ldquo;Antiques&rdquo;
+    ***
 1. <strong>Aşağıdakilerden hangisi Maxmilien Vox tarafından 1952 yılında &ouml;nerilen Vox sınıflandırma sisteminde yer alan bir sınıf <u>değildir</u>?</strong>
     - A-) Humanistic
     - B-) Transitional (R&eacute;ales)
@@ -1167,6 +1174,13 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - **Cevap C-) Garalde (Old Face)**
     - D-) Gotik (Fraktur)
     - E-) Didone (Modern Klasik)
+    ***
+1. <strong>Aşağıdakilerden hangisi Didone (Modern Neoklasik) yazı karakterleri tasarlayan tasarımcılardan biridir?</strong>
+    - A-) John Baskerville
+    - **Cevap B-) Giambattista Bodoni**
+    - C-) Marcel Jacno
+    - D-) Robert Bringhurst
+    - E-) Nicolas Jenson
     ***
 1. <strong>Aşağıdakilerden hangisi Neo-Grotesk (Neoklasik Sans Serifler) sınıfına d&acirc;hil bir yazı karakteri <u>değildir</u>?</strong>
     - A-) Helvetica
@@ -1280,6 +1294,13 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - C-) Romen rakamları
     - D-) Min&uuml;sk&uuml;ller
     - E-) Maj&uuml;sk&uuml;ller
+    ***
+1. <strong>Aşağıdakilerden hangisi orantılı boşluklu rakamların &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - A-) Her bir rakamın kendi genişlik değeri vardır.
+    - B-) Yan yana ve alt alta geldiklerinde d&uuml;zg&uuml;n s&uuml;tunlar oluşturmazlar.
+    - **Cevap C-) Mali kayıtlarda, matematik işlemlerinde tercih edilirler.**
+    - D-) Hesaplamalarda tercih edilmezler.
+    - E-) Metin i&ccedil;inde maj&uuml;sk&uuml;l harfler gibi hareket ederler.
     ***
 1. <strong>Bir fontun &ldquo;Turk&rdquo; veya &ldquo;Tu&rdquo; kısaltması taşıması ne anlama gelir?</strong>
     - A-) Batı Avrupa dillerindeki b&uuml;t&uuml;n karakterleri i&ccedil;erdiğini g&ouml;sterir.
@@ -1395,6 +1416,13 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - D-) Işıma yanılsaması
     - **Cevap E-) Ouchi yanılsaması**
     ***
+1. <strong>Aşağıdakilerden hangisi sivri bitişli harflerin yanlarına gelen harflerle optik olarak aynı y&#252;kseklikte g&#246;r&#252;nebilmelerine y&#246;nelik bir &#231;&#246;z&#252;md&#252;r?</strong>
+    - A-) Sivri bitişli harflerin kapital harf y&#252;ksekliğinden daha kısa tasarlanmaları gerekir.
+    - B-) Sivri bitişli harflerin yanlarına gelen harflere kıyasla daha geniş tasarlanmaları gerekir.
+    - **Cevap C-) Sivri bitişli harflerin taban &#231;izgisini ve kapital harf y&#252;ksekliğini aşacak şekilde tasarlanmaları gerekir.**
+    - D-) Sivri bitişli harflerin yanlarına gelen harflere kıyasla daha dar tasarlanmaları gerekir.
+    - E-) Sivri bitişli harflerin yanlarına gelen harflere kıyasla daha k&#246;şeli tasarlanmaları gerekir.
+    ***
 1. <strong>&ldquo;&Ouml;&rdquo;, &ldquo;&Uuml;&rdquo; gibi &ccedil;ift noktalı harflerin noktalarının dengeli g&ouml;r&uuml;nebilmelerine y&ouml;nelik &ccedil;&ouml;z&uuml;m aşağıdakilerin hangisinde yer almaktadır?</strong>
     - A-) Noktalar harfin &uuml;st orta noktasından &uuml;&ccedil; nokta mesafede olacak şekilde konumlandırılmalıdır.
     - B-) Noktalar harfin &uuml;st orta noktasına değecek şekilde konumlandırılmalıdır.
@@ -1486,6 +1514,13 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - **Cevap C-) Uyumlama**
     - D-) Gaga
     - E-) Mahmuz
+    ***
+1. <strong>Aşağıdakilerden hangisi tek bir karakterde birleştirilerek uyum i&ccedil;inde tasarlanan iki ya da daha fazla karaktere verilen isimdir?</strong>
+    - **Cevap A-) Bitişik karakter**
+    - B-) Dizgi genişliği
+    - C-) İki b&ouml;l&uuml;ml&uuml; harf
+    - D-) D&uuml;zeltme işareti
+    - E-) İlmek
     ***
 1. <strong>Aşağıdakilerden hangisi bir yazı ailesinin &uuml;yelerinden biri <u>değildir</u>?</strong>
     - A-) Bold
@@ -1607,6 +1642,13 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - D-) S&ouml;zc&uuml;klerin anlamına bağlı olarak değiştirilir.
     - E-) Her satırda farklılaştırılır.
     ***
+1. <strong>Aşağıdakilerden hangisi kendinden sonra boşluk verilmeyen karakterlerdendir?</strong>
+    - A-) Telif hakları sembol&uuml;
+    - **Cevap B-) Alt &ccedil;izgi**
+    - C-) Madde imi
+    - D-) Paragraf işareti
+    - E-) Form&uuml;ller i&ccedil;in kullanılan matematik sembolleri
+    ***
 ## Unite 14
 1. <strong>Aşağıdakilerden hangisi uzun alıntıların metnin b&uuml;t&uuml;n&uuml;nden ayrılması i&ccedil;in kullanılan bir paragraf ayrım y&ouml;ntemidir?</strong>
     - **Cevap A-) S&uuml;rekli girintili paragraf kullanımı**
@@ -1677,6 +1719,13 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - C-) Fibonacci Serisi
     - **Cevap D-) Grid Sistemi**
     - E-) DIN
+    ***
+1. <strong>Aşağıdakilerden hangisinde web alanında sık&ccedil;a tercih edilen ve okurun paragrafları kolaylıkla ayırt edebildiği paragraf yapısı yer almaktadır?</strong>
+    - **Cevap A-) Satır arası boşluk kullanımı**
+    - B-) S&uuml;rekli girintili paragraf kullanımı
+    - C-) Asılı girinti ile paragraf ayrımı
+    - D-) &ldquo;Pilcrow&rdquo; veya &ouml;zel işaretlerin kullanımı
+    - E-) Satır başı girintisi kullanımı
     ***
 1. <strong>Bir paragrafın son satırının &ccedil;ok kısa olması veya bu satırın tek bir s&ouml;zc&uuml;kten oluşması h&acirc;linde metin bloğunun dokusunu, b&uuml;t&uuml;nl&uuml;ğ&uuml;n&uuml; bozan satıra ne ad verilir?</strong>
     - A-) Asılı girinti

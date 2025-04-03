@@ -1380,6 +1380,13 @@ IV. Daha &ccedil;ok makro &ccedil;ekimler ve dramatik bir vurgu yapılmak istene
     - D-) ND filtre ayarları
     - **Cevap E-) Basamaklı pozlama (Auto Bracketing) ayarları**
     ***
+1. <strong>Fotoğrafta oluşacak beyaz veya parlak ışıkları ortadan kaldırarak orantılı bir aydınlığa sahip kareler yakalamak i&ccedil;in makinede yapılması gereken ayar aşağıdakilerden hangisidir?</strong>
+    - A-) Color space
+    - **Cevap B-) Highlights**
+    - C-) Shadows
+    - D-) HDR mode
+    - E-) Picture style
+    ***
 1. <strong>Işığın viz&ouml;r&uuml;n orta kısmından y&uuml;zde 70&rsquo;ini, kalan y&uuml;zde 30&rsquo;u ise g&ouml;r&uuml;nt&uuml;n&uuml;n diğer kısmı olan kenarlardan aldığı, portre veya ters ışık &ccedil;ekimleri i&ccedil;in &ouml;nerilen &ouml;l&ccedil;&uuml;m modu aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Merkez ağırlıklı ortalama**
     - B-) Noktasal &ouml;l&ccedil;&uuml;m
@@ -1597,6 +1604,13 @@ V. G&ouml;r&uuml;nt&uuml;deki renklerin tonlarını değiştirmeden renk doygunl
     - D-) Odak uzaklığı normal objektiften fazladır.
     - E-) 100 mm&rsquo;nin &uuml;zerindeki objektifler dar a&ccedil;ılı objektif olarak kabul edilir.
     ***
+1. <strong>Siyah-beyaz fotoğraf&ccedil;ılıkta kontrast azaltmak i&ccedil;in aşağıdaki filtrelerden hangisi kullanılır?</strong>
+    - **Cevap A-) Mavi filtre**
+    - B-) Kırmızı filtre
+    - C-) Turuncu filtre
+    - D-) Mor filtre
+    - E-) Sarı filtre
+    ***
 1. <strong>Objektifin işlevleri ve &ouml;zellikleri arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
     - A-) Konudan yansıyan ışığın kamera i&ccedil;indeki y&uuml;zeye d&uuml;şmesini sağlar.
     - B-) Konudan yansıyan ışınları belli bir noktaya odaklar.
@@ -1771,6 +1785,13 @@ III. Fotoğraf&ccedil;ı ile konu arasındaki mesafe minimum d&uuml;zeyde olduğ
     - D-) Odak d&uuml;zlemi ile konu d&uuml;zlemi arasında paralellik sağlanmalıdır.
     - **Cevap E-) Pozlama s&uuml;resi arttırılmalıdır.**
     ***
+1. <strong>Vahşi yaşam fotoğraf&ccedil;ılığında genellikle hangi objektifler tercih edilir?</strong>
+    - A-) Balıkg&ouml;z&uuml; objektifler
+    - B-) Kısa odak uzaklıklı objektifler
+    - C-) Makro objektifler
+    - **Cevap D-) Teleobjektifler**
+    - E-) Geniş a&ccedil;ılı objektifler
+    ***
 1. <strong>Konuya g&ouml;re objektif se&ccedil;iminde etkili olan temel nedenler arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong> 
     - A-) Konunun genişliği
     - B-) Konunun uzaklığı
@@ -1859,6 +1880,13 @@ III. Soyut<br />
     - E-) Odak noktası her zaman i&ccedil;in konunun g&ouml;zleri olmalıdır. B&ouml;ylece diğer alanlar bulanık &ccedil;ıksa da konunun net g&ouml;r&uuml;nt&uuml;s&uuml; elde edilebilir.
     ***
 ## Unite 11
+1. <strong>Aşağıdakilerden hangisi her pozlamadan sonra kameranın konumunun ve yakınlaştırma seviyesinin değiştiği zaman aralıklı bir fotoğraf&ccedil;ılık tekniğidir?</strong>
+    - A-) Portfolyo tekniği
+    - B-) Timelapse tekniği
+    - C-) Panaromik &ccedil;ekim tekniği
+    - **Cevap D-) Hyperlapse tekniği**
+    - E-) High Dynamic Range tekniği
+    ***
 1. I. Roma İmparatorluğu devrinde, kendi işlerini idare edemeyecek kişilere, hastalara, reşit olmayanlar gibi kişilere vekil olarak atanan devlet memurlarına verilen addır.<br />
 II. M&uuml;zecilik kavramı ile birlikte ortaya &ccedil;ıkmış ve zamanla kendine &ouml;zg&uuml; bir meslek h&acirc;line d&ouml;n&uuml;şm&uuml;şt&uuml;r.<br />
 III. Fotoğraf sanatı ya da fotoğraf&ccedil;ılar i&ccedil;in ise, bireysel etkinliklerin sergilenmesi, kişinin fotoğraflarını tanıtması olarak tanımlanabilir.<br />
@@ -2109,6 +2137,13 @@ III. &Uuml;nl&uuml; Hollandalı ressam Rembrandt resimlerinde bu tekniği kullan
     - D-) Tonlama
     - E-) B&uuml;t&uuml;nleşik renkler
     ***
+1. <strong>Işığın parlak ve h&uuml;zme halinde olduğu, koyu g&ouml;lgeler ve parlak aydınlık alanlar oluşturduğu aydınlatma bi&ccedil;imi aşağıdakilerden hangisidir?</strong>
+    - A-) Soğuk ışık<br type="_moz" />
+    - B-) Serin ışık
+    - **Cevap C-) Sert ışık**
+    - D-) Sıcak ışık
+    - E-) Yumuşak ışık<br type="_moz" />
+    ***
 1. <strong>Bir fotoğrafta, normalde d&uuml;z duran yatay veya dikey &ccedil;izgilerin &ouml;ne-arkaya veya sağa-sola yatıkmış gibi durması aşağıdakilerden hangisidir?</strong>
     - A-) Diyafram hatası
     - B-) Işık hatası
@@ -2241,6 +2276,16 @@ III. Diyafram değerleri<br />
     - C-) Altın kesim kuralı uygulanarak simetrinin etkisi artırılmalıdır.
     - D-) Ger&ccedil;eğinin ya da yansımasının bir kısmı kadrajın dışında bırakılmalıdır.
     - E-) Arka planda fon flulaştırılmalıdır.
+    ***
+1. I. &Ccedil;apraz (diyagonal) olarak kullanılarak fotoğrafta bir hareket ve dinamizm oluşturulur.<br />
+II. İlgi merkezlerini oluşturan nesnelerin, birbiri &uuml;zerine gelmesi-&ccedil;akışması engellenerek bi&ccedil;imlerinin daha belirgin olması sağlanmış olur.<br />
+III. İki adet ilgi merkezi bulunuyorsa &ccedil;apraz (diyagonal) olan altın noktalar yerine yan yana veya &uuml;st &uuml;ste olan &ccedil;izgiler kullanılır.<br />
+<strong>&Ccedil;apraz (diyagonal) olan altın noktalar ile ilgili olarak yukarıdakilerden hangisi ya da hangileri <u>yanlıştır</u>?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - D-) I, II ve III
+    - **Cevap E-) Yalnız III**
     ***
 1. I. Kompozisyonu oluşturan &ouml;geler kadrajın i&ccedil;erisinde başlamakta ve kenarlara doğru giderek kadrajın dışına &ccedil;ıkmaktadır.<br />
 II. Egemen &ouml;genin sadece bir par&ccedil;ası kadraja alınarak ger&ccedil;ekliğin fotoğrafın dışında devam etmesi sağlanır.<br />
@@ -2440,6 +2485,13 @@ III. Fotoğraf makinesine yakın olan doğal &ccedil;er&ccedil;evenin ışık de
     - C-) Negatif alan, izleyiciyi pozitif alana y&ouml;nlendirir.
     - D-) Negatif alan, kadraj i&ccedil;erisinde daha fazla alan kaplar.
     - **Cevap E-) Negatif alanda grafiksel &ouml;geler bulunmalıdır.**
+    ***
+1. <strong>Fotoğrafta anlatım dili oluştururken kullanılacak boşluk alanı hangi oranda olmalıdır?</strong>
+    - A-) 5/4
+    - **Cevap B-) 2/3**
+    - C-) 16/9
+    - D-) 16/10
+    - E-) 1/5
     ***
 1. <strong>Fotoğrafta kompozisyonu etkili hale getiren anlatım bi&ccedil;imleri arasında aşağıdakilerden hangisi <u>bulunmaz</u>?</strong> 
     - A-) Boşluk

@@ -99,6 +99,13 @@ Aşağıdakilerden hangisi k&uuml;&ccedil;&uuml;k harflerin ortaya &ccedil;ıkma
     - D-) &Ccedil;ivi Yazısı
     - E-) &Ccedil;in Alfabesi
     ***
+1. <strong>Aşağıdakilerden hangisi s&#246;zl&#252; iletişimin avantajlarından biri <u>değildir</u>?</strong> 
+    - **Cevap A-) B&#252;y&#252;k kitlelerle iletişim kurmaya uygun olması**
+    - B-) Kolaylıkla iletişim kurmaya uygun olması
+    - C-) Hızlı iletişim kurmaya uygun olması
+    - D-) Doğal bir iletişim y&#246;ntemi olması
+    - E-) Etkili bir iletişim y&#246;ntemi olması
+    ***
 1. <strong>Aşağıdakilerden hangisi insanların g&ouml;rsel iletişime ihtiya&ccedil; duymasının temel sebeplerinden biridir?</strong>
     - A-) S&ouml;zl&uuml; iletişimin zor olması
     - B-) İnsanların hen&uuml;z konuşmayı &ouml;ğrenmemiş olması
@@ -1069,6 +1076,14 @@ III. Hiyerarşi<br />
     - D-) Afiş tasarımı, g&ouml;rsel iletişim tekniklerine dayanan ve yaratıcılık gerektiren bir alandır.
     - **Cevap E-) Afiş tasarımı yalnızca manip&uuml;le edilmiş ill&uuml;strasyonların ve fotoğrafların kullanıldığı bir tasarım alanıdır.**
     ***
+1. Milton Glaser'a g&#246;re grafik tasarım uygun unsurları i&#231;inde bulundururken aynı zamanda bir b&#252;t&#252;nl&#252;k kavramına da erişmelidir.<br />
+<strong>Yukarıdaki c&#252;mleye g&#246;re b&#252;t&#252;nl&#252;k kavramının &#246;nemi aşağıdakilerden hangisidir?</strong> 
+    - **Cevap A-) Grafik tasarımda i&#231;erik ve bi&#231;im uyumlu olmalıdır.**
+    - B-) Grafik tasarım unsurları g&#252;zel g&#246;r&#252;nmelidir.
+    - C-) Grafik tasarımda kullanılan g&#246;rsel &#246;geler birbirine benzemelidir.
+    - D-) Grafik tasarımda her zaman belirli &#252;sluplar kullanılmalıdır.
+    - E-) Grafik tasarımda kullanılan g&#246;r&#252;nt&#252;ler b&#252;t&#252;nl&#252;k sağlar.
+    ***
 1. <strong>Aşağıdakilerden hangisi afiş tasarımında kullanılan g&ouml;r&uuml;nt&uuml;lerin temel &ouml;zelliklerinden biri <u>değildir</u>?</strong> 
     - A-) Anlaşılabilirlik
     - B-) Basitlik
@@ -1186,6 +1201,13 @@ III. Tipografik afişler<br />
     - D-) Ekransız arabirimler
     - E-) Giyilebilir teknoloji arabirimleri
     ***
+1. <strong>Aşağıdaki &ouml;nermelerden hangisi g&uuml;n&uuml;m&uuml;z grafik tasarımcıların &ccedil;alışma ekosistemi ile &ouml;rt&uuml;şmektedir?</strong> 
+    - A-) Grafik Tasarımcılar basılı medyaların &uuml;retilmesi ile sorumludur.
+    - B-) Grafik Tasarımcılar bireysel &ccedil;alışma alışkanlığını s&uuml;rd&uuml;rmektedir.
+    - **Cevap C-) Grafik Tasarımın sınırları her ge&ccedil;en g&uuml;n bulanıklaşmaktadır.**
+    - D-) Baskı teknolojilerindeki gelişim grafik tasarımın y&ouml;n&uuml;n&uuml; tayin eder.
+    - E-) Grafik tasarımcılar iletişim problemlerini i&ccedil;g&uuml;d&uuml;sel yetenekleri ile &ccedil;&ouml;zerler.
+    ***
 1. <strong>Minimum fiziksel etkileşimle maksimum verim almayı hedefleyen arabirim medyumu aşağıdakilerden hangisidir?</strong>
     - A-) Ekransız arabirimler
     - B-) Masa&uuml;st&uuml; arabirimleri
@@ -1288,6 +1310,13 @@ III. Tipografik afişler<br />
     - **Cevap C-) Toplumsal olaylardan**
     - D-) Markalardan
     - E-) &Ouml;ren yerlerinden
+    ***
+1. <strong>Anıtsal sergilemelerin tarih sergilemelerinden farkı aşağıdakilerden hangisidir?</strong> 
+    - **Cevap A-) Mek&#226;nın kendisinin aracı olarak kullanılması**
+    - B-) Mermerden yapılması
+    - C-) Y&#246;nlendirme işaretlerinin olması
+    - D-) Ses &#246;gelerinin kullanımı
+    - E-) 3D olarak da gezilebilmesi
     ***
 1. <strong>G&uuml;n&uuml;m&uuml;z galeri ve m&uuml;ze sergilemelerine &ouml;nc&uuml;l&uuml;k eden sınıflandırma sistemi aşağıdakilerden hangisidir?</strong>
     - A-) Tutankhamun&rsquo;un mezar odası
@@ -1405,6 +1434,14 @@ III. Katlama y&ouml;ntemi<br />
     - **Cevap D-) İ&ccedil;erik**
     - E-) Kompozisyon
     ***
+1. ......................... kullanımda pratiklik sağlanabileceği gibi aynı zamanda hem kolaylıkla g&uuml;ncellenme hem de yaratıcı ve g&uuml;ncel yaklaşımların &uuml;retilmesine imk&acirc;n tanıyacaktır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) Hazır şablonların kullanımı
+    - B-) &Ouml;rnek tasarımların uyarlanması
+    - C-) Format
+    - **Cevap D-) Ciltleme y&ouml;ntemi**
+    - E-) Sayfa d&uuml;zeni
+    ***
 1. <strong>Portfolyo i&ccedil;eriği hazırlarken yapılması gerekenlerle ilgili aşağıdakilerden hangisi <u>yanlıştır</u>? </strong>
     - A-) Portfolyo sahibi hakkında bilgi sunma
     - B-) Portfolyoya eklenecek eserleri konsepte g&ouml;re se&ccedil;me
@@ -1505,6 +1542,13 @@ III. Katlama y&ouml;ntemi<br />
     - C-) İll&uuml;strasyon
     - D-) Kamera g&ouml;r&uuml;nt&uuml;s&uuml;
     - **Cevap E-) Dekor**
+    ***
+1. <strong>Bir fotoğraf karesi, peş peşe değişen durağan imajlar ya da akan g&ouml;r&uuml;nt&uuml;n&uuml;n &uuml;zerine yerleştirilmiş metinsel bilgilerle oluşturulan jenerik t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong> 
+    - **Cevap A-) Ger&ccedil;ek G&ouml;r&uuml;nt&uuml; &Uuml;zerine S&uuml;perimpoze**
+    - B-) Karakter Tanıtım Kurgusu
+    - C-) Fotoğraf Kurgusu
+    - D-) Animasyon ve Hareketli Grafik Kurgusu
+    - E-) Tipografik Kurgu
     ***
 1. <strong>En sık kullanılan jenerik t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Boş arka plan &uuml;zerine s&uuml;perimpoze
@@ -1628,6 +1672,14 @@ III. Tasarımcı, mesleğinin onuruna uygun davranmalıdır.<br />
     - D-) bireysel-g&ouml;n&uuml;ll&uuml;
     - E-) sezgizel-g&ouml;n&uuml;ll&uuml;
     ***
+1. Tasarımcı, …………. ikilemle başa &#231;ıkmak zorundadır.<br />
+<strong>C&#252;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) Sosyal
+    - B-) Ticari
+    - C-) &#214;zg&#252;n
+    - **Cevap D-) Etik**
+    - E-) Kurumsal
+    ***
 1. <strong>Aşağıdakilerden hangisi tasarımın sosyal potansiyeliyle ilgili dikkat edilmesi gereken unsurdur?</strong>
     - **Cevap A-) Tasarımcı, her t&uuml;rl&uuml; &uuml;retimini tasarım etiği a&ccedil;ısından değerlendirmelidir.**
     - B-) Tasarımcı, tasarım problemine y&ouml;nelik &ccedil;&ouml;z&uuml;m &uuml;retirken kaynak israfından ka&ccedil;ınmalıdır.
@@ -1732,6 +1784,13 @@ IV. Yargısız uygulamalardan ka&ccedil;ınılması<br />
     - C-) Saygı
     - **Cevap D-) Eşitsizlik**
     - E-) Sorumluluk
+    ***
+1. <strong>Etik dışı bir yaklaşım sergileyen kurum i&ccedil;in aşağıdakilerden hangisi ge&ccedil;erli <u>olmaz</u>?</strong> 
+    - A-) M&uuml;şteriyi kaybetme
+    - B-) İmaj zedelenmesi
+    - C-) İş birliği &ccedil;alışmalarının etkililiğini yitirmesi
+    - D-) Saygınlığı yitirme
+    - **Cevap E-) Anemik davranışların ortadan kalkması**
     ***
 1. <strong>Aşağıdakilerden hangisi grafik tasarımında etik sorunların ortaya &ccedil;ıkma nedenlerindendir?</strong>
     - A-) Profesyonel grafik tasarımcılarının sayısının artması

@@ -937,6 +937,13 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) &Ouml;d&uuml;ller + hedef belirlemek
     - **Cevap E-) Beklemek + ertelemek**
     ***
+1. <strong>&quot;Zihinsel eylem ve bilgiyi elde etme ve d&#252;ş&#252;nce, deneyim yoluyla anlama s&#252;reci ve duyu&quot; anlamına gelen tanım aşağıdakilerden hangisine aittir?</strong>
+    - A-) Iraksak d&#252;ş&#252;nme
+    - B-) Iraksak d&#252;ş&#252;nce
+    - C-) İ&#231;sel d&#252;rt&#252;
+    - D-) G&#246;r&#252;ş
+    - **Cevap E-) Biliş**
+    ***
 1. &Uuml;st&uuml;noğlu (2006) .......................... becerilerini eleştirel d&uuml;ş&uuml;nme, yaratıcı d&uuml;ş&uuml;nme, analitik d&uuml;ş&uuml;nme, yansıtıcı d&uuml;ş&uuml;nme ve problem &ccedil;&ouml;zme olarak beşe ayırmıştır.&nbsp;<br />
 <strong>Yukarıdaki boşluğa aşağıdaki ifadelerden hangisi getirilmelidir.&nbsp;</strong>
     - **Cevap A-) &Uuml;st D&uuml;zey D&uuml;ş&uuml;nme**
@@ -1037,6 +1044,13 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) Y&uuml;zme havuzları
     - E-) Duvar resimleri
     ***
+1. <strong>Tasarım estetiğinde g&uuml;zel kavramı nasıl a&ccedil;ıklanır?</strong>
+    - A-) G&uuml;zellik toplumun &ouml;nemli bir değeridir.
+    - **Cevap B-) G&uuml;zellik g&ouml;receli bir kavramdır ve k&uuml;lt&uuml;rlere g&ouml;re değişir.**
+    - C-) İnsanlar g&uuml;zeli ararlar.
+    - D-) Sadece sanat&ccedil;ılar g&uuml;zeli tasarlar.
+    - E-) G&uuml;zel ancak resimde g&ouml;r&uuml;l&uuml;r.
+    ***
 ## Unite 10
 1. <strong>Aşağıdakilerden hangisi grafik tasarım alanında en &ccedil;ok tercih edilen sekt&ouml;r lideri yazılım firmasıdır?</strong>
     - A-) Corel
@@ -1107,6 +1121,13 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - **Cevap C-) Sadece yapay zeka ve derin &ouml;ğrenme teknolojilerinin desteklediği bir &ccedil;alışma sahasıdır.**
     - D-) Tasarımlar sadece &uuml;&ccedil; boyutlu değil, aynı zamanda iki boyutlu ortamlar i&ccedil;in de yapılmaktadır.
     - E-) Tasarımcılara farklı ger&ccedil;eklik t&uuml;rleri &uuml;zerinde &ccedil;alışma yapma olanağı sağlar.
+    ***
+1. <strong>Aşağıdakilerden hangisi tasarım s&uuml;recinde kullanılan Adobe yazılımlarından biri <u>değildir</u>?</strong>
+    - A-) Illustrator
+    - B-) InDesign
+    - **Cevap C-) Publisher**
+    - D-) Photoshop
+    - E-) After Effects
     ***
 1. <strong>Aşağıdaki cihazlardan hangisi dijital ill&uuml;strasyon yaparken kullanılan &ouml;ncelikli ara&ccedil;lardan biridir?</strong>
     - A-) Harici bellek
@@ -1208,6 +1229,13 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - C-) CTP Baskı
     - D-) Serigrafi Baskı
     - **Cevap E-) 3B Baskı**
+    ***
+1. <strong>Aşağıdakilerden hangisi dijital baskının bize sağlamış olduğu faydalardan biri&nbsp;<u>değildir</u>?</strong>
+    - **Cevap A-) Y&uuml;ksek maliyetler**
+    - B-) Ger&ccedil;ek zamanlı prova
+    - C-) Esneklik ve daha parlak renkler
+    - D-) Talep edilen miktarda baskı sayısı
+    - E-) Geleneksel baskı ile bağlantılı olması
     ***
 1. <strong>Aşağıdakilerden hangisi bir hareket yakalama teknolojisi <u>değildir</u>?</strong>
     - **Cevap A-) Doğrusal Sistemler**
@@ -1312,6 +1340,13 @@ IV. S&uuml;rekli &uuml;retim yapmak<br />
     - D-) Fabrikaların kapatılması
     - E-) Ara&ccedil;ların azaltılması
     ***
+1. <strong>4 Eyl&#252;l 2002&#39;de Johannesburg toplantısı sonu&#231;ları aşağıdakilerden hangisidir?</strong>
+    - A-) Tarım aletlerini &#231;oğaltmak
+    - B-) Petrol&#252; daha iyi arıtmak
+    - C-) K&#246;ye d&#246;n&#252;ş&#252; teşvik etmek
+    - **Cevap D-) Biyolojik &#231;eşitlilik kaybının durdurulması**
+    - E-) Denizlerdeki balık avını &#231;oğaltmak
+    ***
 1. I. Yoksullukla m&uuml;cadele<br />
 II.&nbsp;Sorumlu &uuml;retim ve t&uuml;ketim<br />
 III.&nbsp;Sağlıklı yaşam<br />
@@ -1415,6 +1450,13 @@ III.&nbsp;Sağlıklı yaşam<br />
     - D-) Disiplinlerarasılık
     - E-) Yaratıcılık
     ***
+1. <strong>T&#252;rk&#231;e literat&#252;rde hangi kavramlarla birlikte anılıyor olması inovasyonun daha &#231;ok ekonomi alanına ait bir kavram olmasını desteklemektedir?</strong>
+    - **Cevap A-) Y&#246;netim, &#252;r&#252;n-hizmet, k&#226;r-zarar, satış**
+    - B-) Moda, &#252;r&#252;n, icat
+    - C-) Renk, grafik, eskiz
+    - D-) K&#226;r-zarar, grafik, icat
+    - E-) ArGe, Planlama, Renk
+    ***
 1. <strong>Aşağıdakilerden hangisi tasarımcının tasarımında başarılı olmasında gerekli olan unsurlardan biri <u>değildir</u>?</strong>
     - A-) Basit ama odaklı olması
     - **Cevap B-) Olmayanı tasarlama kaygısına sahip olması**
@@ -1499,6 +1541,13 @@ III.&nbsp;Sağlıklı yaşam<br />
     - C-) Hedef kitleye/m&uuml;şterilere dayalı kullanıcı kişilikleri geliştirmek
     - D-) Bir &uuml;r&uuml;n etkileşimiyle ilgili t&uuml;m hedefleri, ihtiya&ccedil;ları, davranışları ve sorunlu noktaları belirlemek i&ccedil;in kullanıcı profillerini araştırmak&nbsp;
     - E-) Bir m&uuml;şterinin bir &uuml;r&uuml;nle nasıl etkileşime girdiğini analiz etmek i&ccedil;in kullanıcı yolculuk haritaları oluşturmak
+    ***
+1. <strong>Aşağıdakilerden hangisi &ldquo;Kullanıcı Aray&uuml;z&uuml;&rdquo; ifadesinin D&uuml;nya genelinde kullanılan kısaltmasıdır?</strong>
+    - A-) UX
+    - **Cevap B-) UI**
+    - C-) HCI
+    - D-) IHA
+    - E-) KA
     ***
 1. <strong>Aşağıdaki lerden hangisi Etkileşim Tasarımının 5 Boyutu ile ilgili maddeler arasında <u>yer almaz</u>?</strong>
     - A-) Kelimeler
