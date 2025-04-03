@@ -85,6 +85,12 @@ public class Program
 
     public static async Task Main(string[] args)
     {
+        await SorularMain(args);
+        //await SinavKitapcikMain(args);
+    }
+
+    public static async Task SorularMain(string[] args)
+    {
         // Ders listesini dersler.json dosyasından oku
         var dersler = JsonSerializer.Deserialize<List<Ders>>(File.ReadAllText("dersler.json"));
         string readmeDosyaAdi = $"readme.md";
@@ -120,7 +126,7 @@ public class Program
         File.WriteAllText(readmeDosyaAdi, readmeBuilder.ToString());
     }
 
-    public static async Task MainKitapcik(string[] args)
+    public static async Task SinavKitapcikMain(string[] args)
     {
         var dersler = JsonSerializer.Deserialize<List<Ders>>(File.ReadAllText("dersler.json"));
 
@@ -132,7 +138,7 @@ public class Program
                 using var response = await client.GetAsync($"https://oys.ataaof.edu.tr/ktpcik/{ders.DersId}.pdf");
                 response.EnsureSuccessStatusCode();
                 var pdfBytes = await response.Content.ReadAsByteArrayAsync();
-                File.WriteAllBytes($"{ders.CourseName} - 2024 Yaz Sınavı Soruları - {ders.DersiVeren ?? "ATA-AÖF"} - Dönem {ders.Donem}.pdf", pdfBytes);
+                File.WriteAllBytes($"{ders.Donem} - {ders.CourseName} - 2024-2025 Bütünleme Sınavı Soruları - ATA-AÖF.pdf", pdfBytes);
             }
             catch (HttpRequestException ex)
             {
