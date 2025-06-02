@@ -7,6 +7,14 @@
     - D-) Ofset Baskı
     - **Cevap E-) Tampon Baskı**
     ***
+1. &hellip;&hellip;&hellip;&hellip;, bir &uuml;r&uuml;n&uuml;n dış muhafazasının fiziksel bi&ccedil;imini ve g&ouml;rsel g&ouml;r&uuml;n&uuml;m&uuml;n&uuml; kavramsallaştırma ve uygulama s&uuml;recidir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) Ambalaj tasarımı**
+    - B-) Reklamcılık
+    - C-) Tipografi
+    - D-) Animasyon
+    - E-) Montaj
+    ***
 1. <strong>1823 yılında İngiliz Peter Durand tarafından patenti alınan ilk ambalaj t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Plastik Ambalaj
     - **Cevap B-) Metal Ambalaj**
@@ -103,6 +111,13 @@ III. Selofan<br />
     - D-) Ambalajın bilgi verme fonksiyonu
     - E-) Ambalajın depolama fonksiyonu
     ***
+1. <strong>Mukavemet gerektiren, ağır ambalajlarının depolanması i&ccedil;in taşıma ve nakliye ambalajı se&ccedil;iminde hangi &ldquo;TİP dalga&rdquo; karton kullanılmalıdır?</strong>
+    - A-) B dalga
+    - **Cevap B-) BC dalga**
+    - C-) BE dalga
+    - D-) C dalga
+    - E-) E dalga
+    ***
 1. <strong>&Uuml;r&uuml;n&uuml;n raf &ouml;mr&uuml;n&uuml; uzatan ambalaj fonksiyonu aşağıdakilerden hangisidir?</strong>
     - A-) Tutundurma fonksiyonu
     - B-) G&ouml;rsel fonksiyonu
@@ -197,6 +212,14 @@ Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - E-) İyileştirme
     ***
 ## Unite 3
+1. <strong>Aşağıdaki ambalaj tasarımı </strong><strong>ilkelerinden hangisi mesajın en doğru ve gereksiz ayrıntılardan arındırılmış olması gerektiğini ifade eder?</strong><br type="_moz" />
+
+    - A-) Markaya ve &uuml;r&uuml;ne uygunluk
+    - **Cevap B-) Sadelik**
+    - C-) Fark edilebilirlik
+    - D-) &Ouml;zg&uuml;nl&uuml;k
+    - E-) Hedef kitleye uygunluk
+    ***
 1. <strong>Ambalaj tasarımının benzersiz olmasını isteyen firma i&ccedil;in yapılacak ambalaj tasarımında, aşağıdaki tasarım ilkelerinden hangisine &ouml;zellikle dikkat edilmesi gerekir?</strong>
     - **Cevap A-) &Ouml;zg&uuml;nl&uuml;k**
     - B-) End&uuml;striyellik
@@ -296,6 +319,13 @@ Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - D-) KB
     - E-) Byte
     ***
+1. <strong>Bir ekrandaki piksel sayısının fazla olması aşağıdakilerden hangisine sebep olur?</strong>
+    - A-) G&ouml;r&uuml;nt&uuml; netliği d&uuml;şer.
+    - B-) &Ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k d&uuml;şer.
+    - C-) Renk sayısı artar.
+    - **Cevap D-) G&ouml;r&uuml;nt&uuml; netliği artar.**
+    - E-) Ekran boyutu b&uuml;y&uuml;r.
+    ***
 1. <strong>Aşağıdakilerden hangisi bilgisayarın t&uuml;m donanımları arasındaki iletişimi koordine ederek verileri işleyen donanımdır?</strong>
     - **Cevap A-) Merkezi işlem birimi**
     - B-) Ekran kartı
@@ -374,6 +404,13 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - C-) Konstr&uuml;ktiyon-montaj-perforaj
     - D-) Baskı kalıbı hazırlığı-taşma payı ve kesim &ccedil;izgileri hazırlığı-montaj
     - E-) Maket oluşturma-Lup ile kontrol-basım s&uuml;reci
+    ***
+1. <strong>En yaygın kullanım alanı ambalaj tasarımı olan ve &ccedil;oğunlukla flexible adı verilen esnek ambalajların (cips, &ccedil;orba, makarna, gofret) &uuml;retiminde kullanılan baskı tekniği aşağıdakilerden hangisidir?</strong>
+    - A-) Tipo
+    - B-) Serigrafi
+    - **Cevap C-) Flekso**
+    - D-) Ofset
+    - E-) Tifdruk
     ***
 1. <strong>Aşağıdakilerden hangisi &ldquo;Tiraj&rdquo; teriminin karşılığıdır?</strong>
     - A-) Taşma payı ve kesim &ccedil;izgileri i&ccedil;in işaret
@@ -461,6 +498,13 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - C-) Hemisel&uuml;loz
     - D-) Pektin
     - E-) Polietilen
+    ***
+1. <strong>Aşağıdakilerden hangisi &ccedil;eliği oluşturmak gerekli karbon miktarı aralığıdır?</strong>
+    - **Cevap A-) %0,02-2,06**
+    - B-) %3,1-5,1
+    - C-) %7,3-8,4
+    - D-) %0,001-0,01
+    - E-) %10-20
     ***
 1. <strong>Aşağıdakilerden hangisi camın kimyasal bileşimi g&ouml;z &ouml;n&uuml;ne alınarak yapılan sınıflandırmanın i&ccedil;erisinde <u>yer almaz</u>?</strong>
     - A-) Soda-kire&ccedil; camı
@@ -555,6 +599,14 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - C-) Siyah
     - D-) Mavi
     - E-) Mor
+    ***
+1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.; dijital tasarımda rengin ton, doygunluk ve parlaklığını ifade eden renk değeridir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) CMYK
+    - B-) RGB
+    - C-) LAB
+    - **Cevap D-) HSB**
+    - E-) HEX
     ***
 1. &ldquo;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;; ışığın eşya &uuml;zerine &ccedil;arpması ile yansıyan ışınlardan g&ouml;z&uuml;m&uuml;zde meydana gelen duyumların her biridir.&rdquo;<br />
 <strong>C&uuml;mleden boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>

@@ -764,13 +764,6 @@ III. Derinlik<br />
     - D-) &Ccedil;er&ccedil;evenin sağ tarafı sol tarafından daha fazla dikkat &ccedil;eker.
     - E-) Dikey şekilli bir nesne eğimli bir nesneden daha ağır g&ouml;r&uuml;nmektedir.
     ***
-1. <strong>Aşağıdakilerden hangisi kamera destek sistemlerinden biri <u>değildir</u>?</strong> 
-    - A-) Steadicam
-    - B-) Crane
-    - C-) Flycam
-    - **Cevap D-) Tilt**
-    - E-) Dolly
-    ***
 1. Genellikle reklamcılar &ccedil;ekecekleri reklam filmleri i&ccedil;in&nbsp;...................... (resimli taslak) &ccedil;alışmaları yaparak reklam filminin her karesini&nbsp;tasarlamaktadırlar.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
 

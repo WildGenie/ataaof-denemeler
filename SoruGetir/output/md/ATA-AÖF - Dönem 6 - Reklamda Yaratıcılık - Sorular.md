@@ -127,6 +127,13 @@
     - D-) &Ouml;d&uuml;l
     - E-) G&ouml;zetim
     ***
+1. <strong>Aşağıdakilerden hangisi sağ beyne &ouml;zg&uuml; &ouml;zelliklerden biri <u>değildir</u>?</strong>
+    - **Cevap A-) Sayılar**
+    - B-) Boyut
+    - C-) Uzaysal farkındalık
+    - D-) Holistik bilin&ccedil;
+    - E-) Renk
+    ***
 1. <strong>Aşağıdakilerden hangisi analitik d&uuml;ş&uuml;nme bi&ccedil;imine &ouml;zg&uuml; &ouml;zelliklerden biridir?</strong>
     - A-) Bir&ccedil;ok farklı &ccedil;&ouml;z&uuml;m &ouml;nerisinin olduğu bir s&uuml;re&ccedil; yaşanmaktadır.
     - B-) Ayrışan d&uuml;ş&uuml;nce yapısı vardır.
@@ -159,6 +166,13 @@ IV. Yapay zek&acirc;<br />
     - C-) Organize bir s&uuml;re&ccedil;tir.
     - D-) İş stratejilerinin bir par&ccedil;ası olarak değerlendirilmektedir.
     - **Cevap E-) Tek bir kişinin bilgisi ile sınırlandırılabilir.**
+    ***
+1. <strong>Aşağıdakilerden hangisi iş yaşamında yaratıcılığın &ouml;n plana &ccedil;ıkmasının nedenlerinden biri <u>değildir</u>?</strong>
+    - A-) Hızla değişen i&ccedil; ve dış &ccedil;evre fakt&ouml;rlerinin &ouml;rg&uuml;tlere baskı yapması
+    - B-) Y&ouml;netimlerin s&uuml;rekli değişen koşullara uyum g&ouml;sterme &ccedil;abası
+    - **Cevap C-) Bireysel yaratıcı g&uuml;c&uuml; kurum i&ccedil;erisinde geliştirme &ccedil;abası**
+    - D-) &Ccedil;evrenin sunduğu fırsatları rakiplerden &ouml;nce değerlendirme isteği
+    - E-) &Ccedil;evreden kaynaklanan kısıtları fırsata &ccedil;evirme isteği
     ***
 1. <strong>Aşağıdakilerden hangisi kurumsal yaratıcılığı besleyen bileşenlerden biri <u>değildir</u>?</strong>
     - A-) İşletme i&ccedil;indeki bireylerin doğru y&ouml;nlendirilmesi
@@ -271,6 +285,14 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - **Cevap C-) Sekt&ouml;rdeki yaratıcı insan kaynağının yetersizliği**
     - D-) Reklamın hedef kitlesinin cinsiyeti
     - E-) Reklam ajansının y&ouml;netim yapısının farklılıklara a&ccedil;ık olması
+    ***
+1. Temel Satış Vaadi&nbsp; Stratejisi&rsquo;nde &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;...... satın almaya değer olması reklamın başarısını g&ouml;steren bir yaratıcılık g&ouml;stergesidir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) duygusal fayda
+    - B-) marka imajı
+    - **Cevap C-) &uuml;r&uuml;n&uuml;n kendine has &ouml;zelliği**
+    - D-) hedef kitlenin kim olduğu vurgusu
+    - E-) hedonik fayda
     ***
 1. &Uuml;r&uuml;n&uuml;n kendisinden kaynaklanan &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..... bir &ccedil;arpıcılık reklamlardaki yaratıcılığı tanımlar.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -403,6 +425,13 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - C-) Aynı problem i&ccedil;in farklı takımlar oluşturularak ger&ccedil;ekleştirilir.
     - **Cevap D-) &Ccedil;ok sayıda fikir &uuml;retilmesine sorular sorularak rehberlik edilir.**
     - E-) Potansiyel kombinasyonları sağlamak hedeflenir.
+    ***
+1. <strong>Aşağıdakilerden hangisi başarılı olan yaratıcı fikirlerin ortak &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - A-) Basitlik
+    - **Cevap B-) Esneklik**
+    - C-) Beklenmediklik
+    - D-) Somutluk
+    - E-) G&uuml;venilirlik
     ***
 1. <strong>Aşağıdaki &ouml;zelliklerden hangisi kulu&ccedil;ka aşamasına ait <u>değildir</u>?</strong>
     - A-) G&ouml;n&uuml;ll&uuml; bir s&uuml;re&ccedil;tir.
@@ -545,6 +574,13 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - **Cevap C-) Konumlandırma Stratejisi**
     - D-) Jenerik Strateji
     - E-) Marka İmajı Stratejisi
+    ***
+1. <strong>Rosser Reeves&#39;in reklamcılık alanına kazandırdığı temel yaratıcı strateji aşağıdakilerden hangisidir?</strong>
+    - A-) Marka İmajı Stratejisi
+    - B-) Jenerik Strateji
+    - C-) Yankılama Yaklaşımı
+    - **Cevap D-) Temel Satış Vaadi Stratejisi**
+    - E-) Konumlandırma Stratejisi
     ***
 1. <strong>Aşağıdakilerden hangisi yaratıcılığı y&uuml;ksek reklam i&ccedil;eriklerinin &uuml;retilmesinde etkili olan unsurlardan biri&nbsp;<u>değildir</u>?</strong>
     - A-) Hedef kitle
@@ -695,6 +731,13 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - C-) Eli Acıman ve Ege Ernart
     - D-) S&uuml;heyl G&uuml;rbaşkan ve Eli Acıman
     - **Cevap E-) Ege Ernart ve Ferit Edg&uuml;**
+    ***
+1. <strong>Yurt dışından gelerek Anavatan Partisi se&ccedil;im kampanyasını y&uuml;r&uuml;ten &uuml;nl&uuml; reklamcı aşağıdakilerden hangisidir?</strong>
+    - A-) Rosser Reeves
+    - B-) David Ogilvy
+    - C-) Oliviero Toscani
+    - D-) John Hegarty
+    - **Cevap E-) Jacques S&eacute;gu&eacute;la**
     ***
 1. <strong>Aşağıdaki reklamcı ve marka eşleşmelerinden hangisi doğru olarak verilmiştir?</strong>
     - A-) David Ogilvy - Levi&rsquo;s
@@ -931,6 +974,13 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
 1. <strong>Bir reklamda 0 faiz ve &ouml;zel vergi indirimi gibi mesajların sunulması reklam &ccedil;ekicilik t&uuml;rlerinden hangisine &ouml;rnek verilebilir?</strong>
     - **Cevap A-) Rasyonel &ccedil;ekicilik**
     - B-) Duygusal &ccedil;ekicilik
+    - C-) Mizah &ccedil;ekiciliği
+    - D-) Korku &ccedil;ekiciliği
+    - E-) Yaratıcı &ccedil;ekicilik
+    ***
+1. <strong>Bir şeker markasının din&icirc; bayramlarda yaşlı insanların sevdiklerinin yolunu beklediğini anlattığı reklam aşağıdaki reklam &ccedil;ekicilik t&uuml;rlerinden hangisine &ouml;rnek verilebilir?</strong>
+    - A-) Rasyonel &ccedil;ekicilik
+    - **Cevap B-) Duygusal &ccedil;ekicilik**
     - C-) Mizah &ccedil;ekiciliği
     - D-) Korku &ccedil;ekiciliği
     - E-) Yaratıcı &ccedil;ekicilik

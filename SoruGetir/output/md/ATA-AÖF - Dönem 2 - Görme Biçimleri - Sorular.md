@@ -44,6 +44,13 @@
     - D-) &Ouml;klid
     - E-) Demokritos
     ***
+1. <strong>Işık ve g&ouml;rmeyi matematiksel bağlamda ele alan, geometrik olduğu gibi optik alanda da bir model geliştirmiş olan filozof aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) &Ouml;klid**
+    - B-) Eflatun
+    - C-) Krotonlu Alkemeon
+    - D-) Sokrates
+    - E-) Rene Descartes
+    ***
 1. <strong>G&ouml;rmenin ger&ccedil;ekleşebilmesi i&ccedil;in hem g&ouml;z&uuml;n hem de cismin aydınlık olması gerektiğini s&ouml;yleyen filozof aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Rene Descartes**
     - B-) Eflatun
@@ -165,6 +172,13 @@
     - **Cevap C-) Karl Marks**
     - D-) James Gibson
     - E-) David Hume
+    ***
+1. <strong>Şekil kelimesini dar anlamıyla &lsquo;&rsquo;Bir alanın diğer alanla sınırlandırılmasından başka bir şey değildir.&rsquo;&rsquo; tanımını yapan sanat&ccedil;ı teorisyen aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Vasili Vasilyevi&ccedil; Kandinsky**
+    - B-) Piet Mondrain
+    - C-) Paul Cezanne
+    - D-) Jackson Pollock
+    - E-) Kasimir Malevich
     ***
 1. <strong>Yaşamı devam ettirmek, bir şeyleri yapabilmek, &ouml;ğrenebilmek i&ccedil;in beynimiz bu g&ouml;rsel d&uuml;nyanın verilerinin bazılarını yok sayar, bazılarını değiştirir, bazılarını indirger ve o an yapılan işe g&ouml;re de bazı objelere odaklanır. Buna algıda ne ad verilir?</strong> 
     - **Cevap A-) Se&ccedil;icilik**
@@ -321,6 +335,14 @@ IV. Ağırlık<br />
     - D-) G&ouml;rsel alan g&ouml;rsel d&uuml;nyanın sahip olduğu değerlerin azaltılmış h&acirc;line sahiptir.
     - **Cevap E-) G&ouml;rsel alan g&ouml;rme eyleminin sıradan bir izlenimidir.**
     ***
+1. G&ouml;z &ccedil;evreyi tararken doğal hareketi sırasında g&ouml;rsel d&uuml;nyanın ve g&ouml;rsel alanın renkli y&uuml;zeyleri ................ g&ouml;z&uuml;k&uuml;r.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) hareketli
+    - **Cevap B-) hareketsiz**
+    - C-) ışıklı
+    - D-) ışıksız
+    - E-) sıralı
+    ***
 1. <strong>Ger&ccedil;ek d&uuml;nya algımızın bozulmasına aşağıdakilerden hangisi neden olur?</strong>
     - A-) Yer değiştirmemiz
     - **Cevap B-) Dengeyi sağlayan i&ccedil; kulak rahatsızlığı**
@@ -460,6 +482,14 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - E-) nesnenin hacmini
     ***
 ## Unite 4
+1. Yapıtlarda ışık anlatım i&ccedil;in bir ara&ccedil; değil ama&ccedil;tır. G&uuml;n ışığı resmin ana konusu olmuştur. Sanat&ccedil;ılar ışığın peşine d&uuml;şerek, optik değerleri ortaya &ccedil;ıkarmaya uğraşmışlardır.<br />
+<strong>Bu a&ccedil;ıklamalar aşağıdaki hangi sanat akımını ifade eder?</strong>
+    - A-) R&ouml;nesans
+    - B-) Gotik
+    - C-) K&uuml;bizm
+    - D-) Barok
+    - **Cevap E-) Empresyonizm**
+    ***
 1. <strong>T&uuml;m zamanların en başarılı sanat fotoğraflarından biri olarak bilinen &ldquo;G&uuml;verte&rdquo; isimli fotoğraf aşağıdaki hangi sanat&ccedil;ıya aittir?</strong>
     - **Cevap A-) Alfred Stieglitz**
     - B-) Paul StrandMan
@@ -619,6 +649,14 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - **Cevap C-) Costantin Brancusi**
     - D-) Alberto Giacometti
     - E-) Ernst Barlach
+    ***
+1. ......................ressamları g&ouml;lgeyi, tuval &uuml;zerinde yaratmak istedikleri tuhaf, mistik, gizemli ve zaman zaman &uuml;rk&uuml;t&uuml;c&uuml; d&uuml;nyanın vazge&ccedil;ilmez &ouml;geleri olarak kullanmışlar.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Suprematizm
+    - **Cevap B-) S&uuml;rrealizm**
+    - C-) K&uuml;bizm
+    - D-) Empresyonizm
+    - E-) Dadaizm
     ***
 1. <strong>1981&rsquo;de Roma&rsquo;da ger&ccedil;ekleştirdiği &ldquo;Warhol De Chirico&rsquo;ya Karşı&rdquo; adlı sergiyi ger&ccedil;ekleştiren sanat&ccedil;ı aşağıdakilerden hangisidir?</strong> 
     - A-) Kazimir Malevi&ccedil;
@@ -851,6 +889,13 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - D-) Lao Tzu
     - E-) Descartes
     ***
+1. <strong>Resimsel boşluk ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Ger&ccedil;ek anlamda uzam i&ccedil;ermez.
+    - B-) İki boyutlu bir d&uuml;zlem &uuml;zerindedir.
+    - C-) G&ouml;rme duyusu ile algılanır.
+    - D-) Yanılsama şeklindedir.
+    - **Cevap E-) &Uuml;&ccedil; boyutludur.**
+    ***
 ## Unite 7
 1. <strong>Geometrik ilkelere dayalı yaptığı resimlerinde uyguladığı y&ouml;ntem ile yaptığı &ccedil;izimin ger&ccedil;ek d&uuml;nyadaki g&ouml;rsel algımız ile benzerliğini ortaya koyan Floransalı sanat&ccedil;ı ve mimar aşağıdakilerden hangisidir?</strong>
     - A-) Raffaello Sanzio
@@ -858,6 +903,13 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - C-) Jan van Eyck
     - **Cevap D-) Flippo Brunesleschi**
     - E-) Piero della Francesca
+    ***
+1. <strong>&ldquo;Ressamların resmetmeye &ccedil;alıştıkları şey aslında g&ouml;r&uuml;lmez boşluktur.&rdquo; ifadesiyle boşluğun ressamlar i&ccedil;in &ouml;nemini belirten ressam ve yazar aşağıdakilerden hangisidir?</strong>
+    - A-) Umberto Eco
+    - **Cevap B-) Jhon Berger**
+    - C-) George Kepes
+    - D-) Vasili Kandisky
+    - E-) Jerry Saltz
     ***
 1. <strong>&ldquo;Her şey bir şeyle dolmuştur, hi&ccedil; boşluk yoktur.&rdquo; diyen İslam d&uuml;ş&uuml;n&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) İbn el-Farah el Farabi**
@@ -1002,8 +1054,8 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - **Cevap D-) 17. yy.**
     - E-) 13. yy.
     ***
-1. Sanat&ccedil;ılar eserlerine konu ettikleri zenginlik ve ihtişamı anlatmak i&ccedil;in parlak renkleri kullanmışlardır.<strong><br />
-Bu c&uuml;mle ile aşağıdaki hangi d&ouml;nem sanat&ccedil;ıları ifade edilmektedir?</strong>
+1. Sanat&ccedil;ılar eserlerine konu ettikleri zenginlik ve ihtişamı anlatmak i&ccedil;in parlak renkleri kullanmışlardır.<br />
+<strong>Bu c&uuml;mle ile aşağıdaki hangi d&ouml;nem sanat&ccedil;ıları ifade edilmektedir?</strong>
     - A-) Barok
     - B-) R&ouml;nesans
     - C-) Maniyerizm
@@ -1425,8 +1477,8 @@ III. Dikkatimizi dağıtır.<br />
     - D-) Kapalılık ve benzerlik
     - E-) S&uuml;reklilik ve kapalılık
     ***
-1. Algımızda her &ccedil;izgi kendi doğasında bir i&ccedil; devinime, kinetik g&uuml;ce sahiptir.<strong><br />
-Kırık bir &ccedil;izginin tekrarı hangi duyguyu oluşturur?</strong>
+1. Algımızda her &ccedil;izgi kendi doğasında bir i&ccedil; devinime, kinetik g&uuml;ce sahiptir.<br />
+<strong>Kırık bir &ccedil;izginin tekrarı hangi duyguyu oluşturur?</strong>
     - **Cevap A-) S&uuml;reklilik**
     - B-) Yakınlık
     - C-) Kapalılık

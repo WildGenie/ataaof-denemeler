@@ -44,6 +44,13 @@
     - **Cevap D-) Otto Neurath, Gerd Arntz**
     - E-) El Lissitzky, Gerd Arntz
     ***
+1. <strong>Aşağıdakilerden hangisi modern tasarım hareketi Art Deco&rsquo;nun temel yaklaşımlarından biri <u>değildir</u>?</strong>
+    - **Cevap A-) Yuvarlak diyagonal &ccedil;izgiler**
+    - B-) Yalınlık
+    - C-) Simetri
+    - D-) İki boyutluluk
+    - E-) Geometri
+    ***
 1. <strong>Aşağıdakilerden hangisi 19. y&uuml;zyıl sonu ve 20. y&uuml;zyıl modern grafik sanat tarihinde yeni bir d&ouml;nemin başlangıcını tanımlamasının yanında Vincent van Gogh, Claude Monet, Degas, Toulouse-Lautrec gibi sanat&ccedil;ılar &uuml;zerinde etki g&ouml;steren bir hareketi ifade etmektedir?</strong>
     - A-) İsvi&ccedil;re Tasarım Okulu
     - B-) Arts and Crafts Hareketi
@@ -157,6 +164,14 @@ III. Bauhaus ve Yeni Tipografi Sanat Hareketi, soyut ve ruhsal bir ifade bi&cced
     - C-) Doğu sanatı
     - D-) yeni sanat
     - E-) Avrupa sanatı
+    ***
+1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.. resimleyen ill&uuml;strasyonlar olarak başlayan ukiyo-e baskıları, kısa zamanda &ccedil;ay evlerini, geyşaları ve belli Kabuki oyuncularını tanıtarak g&uuml;nl&uuml;k yaşam i&ccedil;erisinde kendi yerini bulmuştur.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) Takvimleri
+    - **Cevap B-) Hikaye kitaplarını**
+    - C-) Sumo g&uuml;reş&ccedil;ilerini
+    - D-) Manzara resimlerini
+    - E-) Batı sanatını
     ***
 1. <strong>Japonya sanat&ccedil;ılarından Toshusai Sharaku hangi &ccedil;alışmaları ile tanınmaktadır?</strong><br />
 
@@ -420,6 +435,13 @@ III. Bauhaus ve Yeni Tipografi Sanat Hareketi, soyut ve ruhsal bir ifade bi&cced
     - D-) A.W.N Pugin
     - E-) T.J. Cobden-Sanderson
     ***
+1. <strong>Arts and Crafts Hareketi&rsquo;nin misyonu ile ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) İngiliz Arts and Crafts hareketi, yapısı gereği dekoratif ve doğaya &ouml;yk&uuml;nen, stilistik ve artistik y&ouml;n&uuml;n&uuml;n yanı sıra; toplumsal bir misyon da edinmiştir.
+    - B-) End&uuml;stri Devrimi ile baş g&ouml;steren, istenmeyen sonu&ccedil;ları d&uuml;zeltmeyi ama&ccedil;lamıştır.
+    - C-) Arts and Crafts Hareketi&rsquo;nin estetik anlayışı temel olarak end&uuml;striyel &uuml;retimin sıradanlığına bir tepkidir.
+    - D-) Hareketin ana temsilcileri, John Ruskin (1819-1900) ve William Morris (1834- 1896)&rsquo;tir.
+    - **Cevap E-) Malzemenin &ouml;nemli olmadığı ve tasarımcıların, kaliteli &uuml;r&uuml;nleri yaratmak i&ccedil;in malzemeyi tanımadan hayal g&uuml;&ccedil;lerini kullanmaları gerektiğini vurgular.**
+    ***
 1. <strong>&ldquo;The Story of the Glittering Plain&rdquo; (Pırıltılı D&uuml;zl&uuml;ğ&uuml;n &Ouml;yk&uuml;s&uuml;) adlı eserin tasarımcısı aşağıdakilerden hangisidir?</strong>
     - A-) T. J. Cobden-Sanderson
     - B-) John Ruskin
@@ -438,6 +460,13 @@ III. Ruskin&rsquo;in inancına g&ouml;re Orta &Ccedil;ağ &uuml;retim sistemi, t
     - **Cevap E-) I, II ve III**
     ***
 ## Unite 4
+1. <strong>Modern reklam afişinin gelişimine olanak sağlayarak, afişi bir sanat yapıtına d&ouml;n&uuml;şt&uuml;ren, sanat &ccedil;alışmalarının artık resim galerilerinin dışına &ccedil;ıkarak sokaklara taşmaya başladığı hareket ve &uuml;lke aşağıdakilerin hangisinde doğru verilmiştir?</strong> 
+    - A-) İspanya, Modernismo
+    - **Cevap B-) Fransa, Art Nouveau**
+    - C-) Almanya, Jugendstil
+    - D-) Avusturya, Secession
+    - E-) İngiltere, Arts and Crafts
+    ***
 1. <strong>Tipografinin bir tasarım &ouml;ğesi olarak ge&ccedil;erlilik kazanmasında b&uuml;y&uuml;k payı olan hareket aşağıdakilerden hangisidir?</strong> 
     - A-) İspanya, Modernismo
     - B-) Almanya, Jugendstil
@@ -621,6 +650,14 @@ III. Bu yeni sanat &uuml;slubu i&ccedil;erisinde etkin rol oynayan sanat&ccedil;
     - D-) İkinci Bahar
     - E-) İlk Bahar
     ***
+1. G&ouml;sterişsiz s&uuml;slemelerden, d&uuml;z bir y&uuml;zeyden ve minimum renk tonlarıyla sonsuz renklilikten meydana gelen yeni Avusturya &uuml;slubunu yaratan sanat&ccedil;ılardan Van de Velde, &hellip;&hellip;&hellip;&hellip;&hellip;&hellip; afişiyle Art Nouveau &ouml;rneklerinin en dikkate değer &ccedil;alışmalarından birini yaratmıştır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) Chap- Book
+    - B-) Jugend
+    - **Cevap C-) Tropon**
+    - D-) Pan
+    - E-) Simplicissimus
+    ***
 1. Avusturya Secession hareketi sanat&ccedil;ıları, &ccedil;ıkardıkları bir dergide manifesto niteliğinde bir yaklaşım sergilemişlerdir. Yabancıların &ccedil;ıkarlarına hizmet etmeyen ancak yabancı olan herhangi bir şeyde nefret duygusu uyandırmayan bir sanat istediklerini belirtiyorlardı. Diğer &uuml;lkelerdeki sanatın, kendi yaratılarını yaratmak i&ccedil;in kam&ccedil;ılayıcı bir işlevinin olduğunu, onu tanımak ve takdir etmek istemekteydiler. Ancak onu taklit etmek istemiyorlardı.<br />
 <strong>Bu yaklaşımla &ccedil;ıkan dergi aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Ver Sacrum**
@@ -730,6 +767,13 @@ Bilgisinden hareketle aşağıdaki se&ccedil;eneklerin hangisinde Uluslararası 
     - C-) Hugo Ball
     - D-) Edvard Munch
     - E-) El Lissitzky
+    ***
+1. <strong>Ekspresyonistlerin kullandıkları en &ouml;nemli baskı tekniği aşağıdakilerden hangisidir?</strong> 
+    - A-) Kolaj<br />
+    - **Cevap B-) Ağa&ccedil; Baskı<br />**
+    - C-) İpek Baskı<br />
+    - D-) Fotokopi<br />
+    - E-) Grav&uuml;r
     ***
 1. <strong>Ekspresyonizm ile ilgili olarak aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong> 
     - A-) Renkleri &ccedil;arpıtmak<br />
@@ -869,6 +913,13 @@ III. K&ouml;pr&uuml; grubu sanat&ccedil;ılarının ama&ccedil;ları, zamanın g
     - **Cevap D-) Mesajın izleyiciye doğrudan ve okunabilir olarak iletilmesi.<br />
 <br />**
     - E-) S&ouml;zc&uuml;k ve harflerin g&ouml;rsel imgelere d&ouml;n&uuml;şmesi.
+    ***
+1. <strong>F&uuml;t&uuml;rist tipografinin &ouml;zelliklerini taşıyan sembolik bir &ouml;rnek olan Marinetti&rsquo;nin g&ouml;rsel şiir &ccedil;alışması aşağıdakilerden hangisidir?</strong> 
+    - A-) Beethoven Afişi<br />
+    - **Cevap B-) Zang Tumb Tumb<br />**
+    - C-) Giselle Afişi<br />
+    - D-) Merz<br />
+    - E-) Fuji dağının otuz altı g&ouml;r&uuml;n&uuml;m&uuml;
     ***
 1. <strong>Dada Hareketi&#39;nin d&uuml;zensizlik, anarşi, par&ccedil;alama, b&ouml;lme, bozma gibi &ouml;zellikler &uuml;zerine temellendirilmesi onu aşağıdaki hangi &uuml;retim tekniğine yakın kılmıştır?</strong> 
     - **Cevap A-) Kolaj-fotomontaj**
@@ -1262,13 +1313,13 @@ Malzeme bilgisine odaklanmıştır; &ouml;ğrencilerine, metal, boya, cam, ağa&
 <strong>Yukarıdaki bauhaus eğitmenlerinden hangisi veya hangileri bu tanımlamaya uyar?</strong> 
     - A-) Yalnız I<br />
 <br />
-    - **Cevap B-) Yalnız III<br />
+    - B-) Yalnız II<br />
+&nbsp;
+    - **Cevap C-) Yalnız III&nbsp;<br />
 <br />**
-    - C-) I ve II<br />
+    - D-) I ve II<br />
 <br />
-    - D-) II ve III<br />
-<br />
-    - E-) Yalnız II
+    - E-) I ve III
     ***
 1. <strong>Aşağıdakilerden hangisi Yeni Tipografi&#39;nin (Die Neue Typographie) g&ouml;rsel &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Sayfa d&uuml;zenlemesinde tipografinin ve geometrik şekillerin asimetrik bloklandırması

@@ -80,6 +80,15 @@ aşağıdakilerden hangisidir?</strong><br />
     - D-) She is able speak to French.
     - E-) She is able to French speak.
     ***
+1. A: Sorry. Can I send these two parcels and this letter, please?<br />
+B: .............................................................................................<br />
+<strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Oh, where are you from?
+    - B-) Oh, where did you send them?&nbsp;
+    - **Cevap C-) Yes, of course. Where would you like to send?**
+    - D-) Oh, no. Why do you want to see them?
+    - E-) No, where are they coming from?
+    ***
 1. Vincent yarın İstanbul&#39;da olabilir.<br />
 <strong>Yukarıdaki c&uuml;mlenin İngilizce karşılığı aşağıdakilerden hangisidir?</strong>
     - A-) Vincent will be in İstanbul today.
@@ -306,6 +315,14 @@ They look so alike. Which of the following completes the sentence above?<br />
     - **Cevap D-) Could**
     - E-) Have
     ***
+1. She &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. wear a uniform at work.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) has to**
+    - B-) have to
+    - C-) has
+    - D-) have
+    - E-) don&rsquo;t have to
+    ***
 1. Bu ilacı almalı mıyım? (tavsiye, nasihat alma)<br />
 <strong>Yukarıdaki c&uuml;mlenin İngilizce karşılığı aşağıdakilerden hangisidir?</strong><br />
 
@@ -490,6 +507,14 @@ Which of the following is Turkish translation of the sentence above?<br />
     - C-) Kimse onun arsasının yerini bilmiyordu.
     - D-) O, arsa konusunda kimsenin s&ouml;z&uuml;n&uuml; dinlemiyordu.
     - **Cevap E-) O, toprağını satması i&ccedil;in hi&ccedil; kimse tarafından ikna edilemedi.**
+    ***
+1. The room ....................... yesterday.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) cleaned
+    - B-) will clean
+    - **Cevap C-) was cleaned**
+    - D-) have been cleaned
+    - E-) had has cleaned
     ***
 1. She waters the flowers weekly.<br />
 <strong>C&uuml;mlenin olumsuz edilgen bi&ccedil;imi aşağıdakilerden hangisidir?</strong>
@@ -701,6 +726,15 @@ Which of the following completes the passive sentence above?<br />
     - D-) are
     - **Cevap E-) is**
     ***
+1. She .......... born in London in 1795.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
+
+    - A-) is
+    - B-) has
+    - **Cevap C-) was**
+    - D-) had
+    - E-) being
+    ***
 1. I will carry her boxes.<br />
 <strong>Yukarıdaki c&uuml;mlenin edilgen&nbsp;h&acirc;li aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Her boxes will be carried by me.&nbsp;**
@@ -843,6 +877,14 @@ Which of the following completes the dialogue above?<br />
     - C-) is knowing
     - D-) knows
     - **Cevap E-) knew**
+    ***
+1. If you ......................... for the presentation well, you would get the job.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) prepared**
+    - B-) had prepared
+    - C-) had been preparing
+    - D-) will prepare
+    - E-) prepare
     ***
 1. If robots ............................. like human beings, they would control the whole world.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
@@ -1018,6 +1060,14 @@ Which of the following completes the dialogue above?<br />
     - **Cevap C-) could**
     - D-) was
     - E-) had
+    ***
+1. I miss my sister a lot. I wish she ........................... here now.&nbsp;<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) is
+    - B-) will be
+    - **Cevap C-) were**
+    - D-) had been
+    - E-) has been
     ***
 1. My friend broke his leg. I wish he ................. more careful.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -1201,6 +1251,14 @@ B: So how far is it?<br />
     - D-) which
     - E-) why
     ***
+1. This is the school ......................... was built last year.&nbsp;<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) who
+    - **Cevap B-) which**
+    - C-) where
+    - D-) whose
+    - E-) when
+    ***
 1. &quot;Seyit Onbaşı&quot; is a national ...................... . He carried weapons weighing 275 kg in &Ccedil;anakkale in the First World War.&nbsp;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) scientist
@@ -1251,7 +1309,7 @@ B: So how far is it?<br />
     - E-) who
     ***
 1. The man &hellip;&hellip;&hellip;... arm was broken was taken to the hospital.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>Yukarıdaki c&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) whose**
     - B-) who
     - C-) which
@@ -1364,7 +1422,7 @@ B: So how far is it?<br />
     - E-) which
     ***
 1. No one knows&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; I will do next summer.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>Yukarıdaki c&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) where
     - B-) which
     - C-) whose
@@ -2083,7 +2141,7 @@ B: .....................................<br />
     - **Cevap E-) Although**
     ***
 1. People should be ................. and respectful of&nbsp;other cultures.&nbsp;<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>Yukarıdaki c&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
     - A-) organized
     - B-) reduce
     - **Cevap C-) tolerant**
@@ -2189,7 +2247,7 @@ Which of the following completes the dialogue above?<br />
     - E-) OK. Thank you very much.
     ***
 1. He always wanted to learn new things.<br />
-<strong>C&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisi aşağıdakilerden hangisidir?</strong>
+<strong>Yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisi aşağıdakilerden hangisidir?</strong>
     - A-) Onun yaşamı &ouml;ğrenmek ve &ouml;ğretmekle ge&ccedil;ti.
     - B-) Onun t&uuml;m yaşamında yeni şeyler &ouml;ğrenmek &ouml;nemliydi.
     - C-) O genellikle yeni şeyler &ouml;ğrenmekten ka&ccedil;ındı.

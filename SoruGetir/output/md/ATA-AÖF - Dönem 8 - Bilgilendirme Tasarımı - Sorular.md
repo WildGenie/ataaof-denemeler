@@ -78,6 +78,14 @@
     - D-) Felsefi d&uuml;ş&uuml;nce yansıtıcı bir d&uuml;ş&uuml;nme faaliyetinin sonucudur.
     - **Cevap E-) Felsefi bilgi bir olgunun doğru olup olmadığının araştırılması etkinliğidir.**
     ***
+1. Bilgi toplumu farklı d&uuml;ş&uuml;n&uuml;r ve yazarlar tarafından farklı isimlerle adlandırılmıştır.<br />
+<strong>Aşağıdakilerden hangisi bu isimler arasında <u>yer almaz</u>?</strong>
+    - A-) Sanayi sonrası toplum
+    - **Cevap B-) Kapitalist toplum**
+    - C-) Enformasyon toplumu
+    - D-) &Uuml;&ccedil;&uuml;nc&uuml; dalga
+    - E-) Teknokratik &ccedil;ağ
+    ***
 ## Unite 2
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımının hedeflerinden biri <u>değildir</u>?</strong>
     - A-) Anlaşılabilirlik
@@ -171,6 +179,13 @@
     - D-) Standart renkler kullanılmalıdır.
     - E-) Uluslararası olarak anlaşılır olmalıdır.
     ***
+1. <strong>Aşağıdakilerden hangisi bilgilendirme grafiğidir?</strong>
+    - A-) S&uuml;reli Yayınlar
+    - B-) Dergi Reklamları
+    - C-) Gazete Reklamları
+    - **Cevap D-) Haritalar**
+    - E-) Logo Tasarımları
+    ***
 ## Unite 3
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımı t&uuml;rlerinden biri <u>değildir</u>?</strong>
     - A-) Dok&uuml;man Tasarımı
@@ -241,6 +256,13 @@
     - C-) Ge&ccedil;ici sergiler
     - D-) S&uuml;rekli sergiler
     - **Cevap E-) Kılavuz Sergiler**
+    ***
+1. <strong>Bilgiye duyulan, giderek artan bağımlılık ve bilginin anlaşılır olmasına duyulan ihtiya&ccedil; ile hangi tasarım alanı ortaya &ccedil;ıkmıştır?</strong>
+    - A-) Harita Tasarımı
+    - **Cevap B-) Bilgilendirme Tasarımı**
+    - C-) İnfografik Tasarımı
+    - D-) Belge Tasarımı
+    - E-) Kılavuz Tasarımı
     ***
 1. <strong>Aşağıdakilerden hangisi &ldquo;belge&rdquo; kavramını doğru olarak tanımlamaktadır?</strong>
     - A-) Akıl ile &uuml;retilen ve insan aklının algılayabileceği olgu, ger&ccedil;ek ve ilkeler b&uuml;t&uuml;n&uuml;d&uuml;r.
@@ -319,6 +341,13 @@
     - C-) &Ouml;n &ccedil;alışma ger&ccedil;ekleştirilerek tasarımda yer alacak bilgilerin toplanması
     - D-) Kullanılacak tasarım t&uuml;rlerinin belirlenmesi
     - E-) Verilerin hedeflere ulaşmaya yardımcı olacak şekilde d&uuml;zenlenmesi
+    ***
+1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımlarının eğitim ve &ouml;ğretim alanında kullanılmasının kazanımları arasında <u>yer almaz</u>?</strong>
+    - A-) Bilişsel y&uuml;k&uuml;n asgari d&uuml;zeye indirgenmesi
+    - B-) Dikkat ve odağın arttırılması
+    - **Cevap C-) Davranıştaki değişimin ge&ccedil;ici s&uuml;reli olması**
+    - D-) Bilinenler &ouml;ğrenilenler arasındaki ilişkinin somutlaşması
+    - E-) &Ouml;ğrenilenin hızlı ve anlaşılır bi&ccedil;imde kavranması
     ***
 1. <strong>Aşağıdakilerden hangisi eğitim materyali olarak kullanılabilecek bilgilendirme tasarımlarının sahip olması gereken nitelikler arasında <u>yer almaz</u>?</strong>
     - A-) Dolaysız, net ve anlaşılır olmalıdır.
@@ -412,6 +441,13 @@
     - D-) Verileri sadece uzmanlara y&ouml;nlendirmek
     - E-) İstatistik bilimini eleştirel olarak g&ouml;rmemek
     ***
+1. <strong>Verinin bir anlam ifade edebilmesi i&ccedil;in aşağıdakilerden hangisi yapılmalıdır?</strong>
+    - **Cevap A-) Ayıklanması ve gruplandırılması**
+    - B-) Performans değerlendirmesi
+    - C-) Tahmin edilmesi
+    - D-) Optimize edilmesi
+    - E-) Veriye ilişkin karar alınması
+    ***
 1. <strong>&ldquo;Sayısal ger&ccedil;eklerin bir toplamı veya koleksiyonu&rdquo; olarak tanımlanan &ouml;ge aşağıdakilerden hangisidir?</strong>
     - A-) Veri
     - B-) Grafik
@@ -489,6 +525,13 @@
     - C-) Lux Feininger
     - **Cevap D-) Mies van der Rohe**
     - E-) L&aacute;szl&oacute; Moholy-Nagy
+    ***
+1. <strong>İzotiplerin geliştirilmesi hangi bilim dalı kapsamında ger&ccedil;ekleşmiştir?</strong>
+    - A-) Felsefe
+    - B-) Sosyoloji
+    - C-) G&ouml;stergebilim
+    - D-) Eğitim Bilimleri
+    - **Cevap E-) Birleşik Bilim**
     ***
 1. <strong>Sanatsal &ccedil;alışmalarını, haritalar ve haritalandırma y&ouml;ntemi &uuml;zerine kuran akım aşağıdakilerden hangisidir?</strong>
     - A-) Dadaizm
@@ -581,6 +624,13 @@
     - C-) Kolay ulaşım sağlamada
     - D-) Aray&uuml;zlere basit erişim sağlamakta
     - **Cevap E-) Verilerin basit bir anlatımla sunulmasında**
+    ***
+1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımı kapsamında kullanılan y&ouml;nlendirme grafiklerinin ama&ccedil;larından biridir?</strong>
+    - **Cevap A-) Kişinin gideceği yeri basit bilgilendirme grafikleri ile rahatlıkla bulabilmek**
+    - B-) Basit etkileşimler sağlamak
+    - C-) Arama motorlarında &ouml;ne &ccedil;ıkmak
+    - D-) Konuya olan ilgi ve talebin artması
+    - E-) Farklı pazarlama stratejileri kullanmak
     ***
 1. <strong>Editoryal infografikler nerede kullanılmaktadır?</strong>
     - A-) Eğitimde
@@ -866,7 +916,10 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - D-) G&ouml;z merceğinin netleyememesi
     - E-) Kişinin arkasında kalan alan
     ***
-1. <strong>Algılama s&uuml;recinde duyu organı ile beyin arasındaki ilişki aşağıdakilerden hangisine benzetilebilir?</strong>
+1. <strong>Algılama s&uuml;recinde duyu organı ile beyin arasındaki ilişki aşağıdakilerden hangisine benzetilebilir?</strong><br />
+<br />
+<br />
+
     - A-) Otob&uuml;s şof&ouml;r&uuml; - Otob&uuml;s yolcusu
     - B-) Bilgisayar oyunu - Bilgisayar işlemcisi
     - C-) Fotoğraf filmi - fotoğraf baskısı
@@ -1043,7 +1096,7 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - D-) Canlandırma
     - E-) Yakınlaştırılabilen
     ***
-1. <strong>Arttırılmış ger&ccedil;eklik nedir?</strong>
+1. <strong>Arttırılmış ger&ccedil;ekliğin tanımı aşağıdakilerden hangisidir?</strong>
     - A-) Bir kişiye ger&ccedil;eklik hissi veren sentetik veya sanal bir ortam yaratılmasıdır.
     - B-) Kullanıcıların, kurgusal bir ortamda karakterlerin rollerini &uuml;stlendiği ve ona g&ouml;re hareket ettiği anlatım tarzıdır.
     - **Cevap C-) Kullanıcının ger&ccedil;ek d&uuml;nya g&ouml;r&uuml;ş&uuml;n&uuml;n bilgisayar grafikleri, metin, ses ve diğer y&ouml;ntemler gibi bir bilgisayar tarafından &uuml;retilen ek bilgilerle zenginleştirildiği veya arttırıldığı bir teknolojidir.**

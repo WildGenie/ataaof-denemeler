@@ -105,6 +105,14 @@
     - **Cevap D-) Neolitik**
     - E-) İlkel
     ***
+1. <strong>Ge&ccedil; Tun&ccedil; &Ccedil;ağı&rsquo;ndan sonra ge&ccedil;işi temsil eden d&ouml;nem aşağıdakilerden hangisidir?</strong><br />
+
+    - A-) Bakır &Ccedil;ağı
+    - **Cevap B-) Demir &Ccedil;ağı**
+    - C-) İlkel &Ccedil;ağ
+    - D-) Kapitalist D&ouml;nem
+    - E-) Post Kapitalist D&ouml;nem
+    ***
 1. <strong>Tanrı&ccedil;a Afrodit heykeli aşağıdakilerden hangisi tarafından yapılmıştır?</strong><br />
 
     - A-) Michelangelo
@@ -158,6 +166,13 @@
     - E-) Milattan &Ouml;nce
     ***
 ## Unite 2
+1. <strong>Sanat ve sanat eseri ile ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Sanat eseri, belirli bir topluma ve tarihsel d&ouml;neme aittir.
+    - B-) Eski zamanlarda sanatsal yapıtlar hayata dokunan ve fayda g&ouml;zeten eserlerdi.
+    - C-) Eski zamanlarda sanat, toplum ve g&uuml;ndelik hayatla b&uuml;t&uuml;nleşmiş bir şeydi.
+    - **Cevap D-) Orta &Ccedil;ağ D&ouml;nemi&#39;ndeki Skolastik d&uuml;ş&uuml;nce, sanatı toplumsal ve g&uuml;ndelik hayattan kopardı.**
+    - E-) Sanat, d&uuml;ş&uuml;nceyi ve d&uuml;şlemeyi geliştirmenin ara&ccedil;larından biridir.
+    ***
 1. <strong>Aşağıdakilerden hangisi sanatın toplumsal işlevlerinden biri <u>değildir</u>?</strong>
     - A-) Sanat ile toplumsal yapı arasında doğrusal bir ilişki mevcuttur.
     - B-) Sanatın, farklı toplumsal kesimleri b&uuml;t&uuml;nleştiren bir y&ouml;n&uuml; vardır.
@@ -351,6 +366,13 @@
     - D-) Estetik yargı
     - E-) Estetik nesne
     ***
+1. <strong>Sanat kavramı aşağıdaki hangi terimlerden t&uuml;remiştir?</strong>
+    - **Cevap A-) Tekhne ve ars**
+    - B-) Estetik ve dis
+    - C-) Zanaat ve haz
+    - D-) Abis ve a&ccedil;elya
+    - E-) Ekso ve Değgin
+    ***
 1. <strong>Grek&ccedil;e &quot;aisthesis&quot; s&ouml;zc&uuml;ğ&uuml;ne karşılık gelecek şekilde, &ccedil;ok incelmiş kavramsal d&uuml;ş&uuml;nce alanına karşıt olarak t&uuml;m insani algı ve duyum alanına g&ouml;ndermede bulunan bir kavram olarak estetiği kullanan d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - A-) Aristoteles
     - B-) Platon
@@ -468,6 +490,14 @@
     - C-) T&uuml;ketim s&uuml;reci
     - D-) Pazarlama s&uuml;reci
     - E-) Anlatma s&uuml;reci
+    ***
+1. <strong>Marksistlere g&ouml;re sanat eseri ile ilgili a</strong><strong>şağıdakilerden hangisi&nbsp;<u>yanlıştır</u>?</strong><br />
+
+    - A-) Sanat eserinin &uuml;retimi insan emeğinin ve etkinliğinin &uuml;r&uuml;n&uuml;d&uuml;r.
+    - B-) Sanat eseri t&uuml;ketim i&ccedil;in &uuml;retilmiştir.
+    - **Cevap C-) Sanat eserinin &uuml;retimi doğrudan toplumu yansıtır.**
+    - D-) Sanat&ccedil;ı esere hayal g&uuml;c&uuml;n&uuml; de katar.
+    - E-) Eser s&uuml;rekli değişen bir bi&ccedil;imden oluşur.
     ***
 1. <strong>Aşağıdakilerden hangisi postmodern sanatın &ouml;zelliklerinden biri <u>değildir</u>?</strong><br />
 
@@ -644,6 +674,13 @@
     - D-) Ahmet Hamdi Tanpınar
     - E-) Reşat Nuri G&uuml;ntekin
     ***
+1. <strong>Mimar Sinan&#39;ın abidevi eseri S&uuml;leymaniye Camii ve Michalengolo&rsquo;nun majestik şaheseri olarak kabul edilen Davut Heykeli sanatın hangi boyutunun en g&uuml;zel &ouml;rneklerindendir?&nbsp;</strong>
+    - **Cevap A-) İnan&ccedil;**
+    - B-) Paylaşma ve beğenilme
+    - C-) Para kazanma
+    - D-) Eleştiri
+    - E-) Kalıcı kılma
+    ***
 1. <strong>Aşağıdakilerden hangisi toplumun sanata ve sanat&ccedil;ıya bakış a&ccedil;ısını oluşturan fakt&ouml;rlerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Siyasi değerler
     - **Cevap B-) Maddi değerler**
@@ -801,6 +838,13 @@
     - D-) Din ve sanat&nbsp;
     - E-) Hamilik
     ***
+1. <strong>Pop&uuml;ler k&uuml;lt&uuml;r &uuml;zerinde &ouml;nemli etkisi olan Leonardo DaVinci&#39;nin en tanınmış eseri aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Son Akşam Yemeği**
+    - B-) Ven&uuml;s&#39;&uuml;n Doğuşu
+    - C-) &Ccedil;ığlık
+    - D-) Guernica
+    - E-) Yıldızlı gece
+    ***
 ## Unite 7
 1. <strong>İnsan yarınını d&uuml;ş&uuml;nmeye başlar ve daldan toplanan yiyecekler biriktirilir. Bu noktada&nbsp;aşağıdaki &ccedil;elişkilerden hangisi başlamıştır?</strong>
     - **Cevap A-) İnsan-insan**
@@ -928,6 +972,13 @@
     - C-) Alet kullanımı
     - D-) Yerleşik yaşam
     - **Cevap E-) Kapitalizm**
+    ***
+1. <strong>Sanatın başlangı&ccedil;ta b&uuml;y&uuml; olduğu, ger&ccedil;ek ama bilinmeyen bir d&uuml;nyaya egemen olmaya yarayan tılsımlı bir ara&ccedil; olduğunu savunan d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Fischer**
+    - B-) Sartwell
+    - C-) Huizinga
+    - D-) Marcuse
+    - E-) B&uuml;rger
     ***
 1. <strong>Johan Huizinge&#39;ye g&ouml;re sanat nasıl ortaya &ccedil;ıkmıştır?</strong>
     - **Cevap A-) Oyunla**
@@ -1427,7 +1478,7 @@ IV. Herakles<br />
     - **Cevap D-) Tweening**
     - E-) Matching
     ***
-1. <strong>Kavislerle tanınan, dijital mimarinin en &ouml;nemli mimarı aşağıdakilerden hangisidir?</strong>
+1. <strong>Kavislerle tanınan, dijital mimarinin temsilcisi aşağıdakilerden hangisidir?</strong>
     - A-) Ftank Gehry
     - B-) Renzo Piano
     - C-) Rem Koolhaas

@@ -2888,25 +2888,6 @@
     "CevapSira": 4
   },
   {
-    "SoruID": 156433,
-    "SoruMetni": "<strong>Aşağıdakilerden hangisi Paris Barış Konferansı&rsquo;nı y&uuml;r&uuml;t&uuml;c&uuml; egemen devletlerden biri <u>değildir</u>?</strong>",
-    "A": "İtalya",
-    "B": "İngiltere",
-    "C": "Almanya",
-    "D": "Fransa",
-    "E": "ABD",
-    "DogruCevap": "C",
-    "DersAd": "Atatürk İlkeleri ve İnkılap Tarihi I",
-    "Somestre": 1,
-    "DogruCevapSirasi": 3,
-    "Unite": 7,
-    "OlusturmaTarihi": "2024-12-20T17:40:23.477+03:00",
-    "GelYer": 2,
-    "DersId": 26,
-    "OBSDersId": 14170,
-    "CevapSira": 3
-  },
-  {
     "SoruID": 156434,
     "SoruMetni": "<strong>Almanya&rsquo;nın I. D&uuml;nya Savaşı sonrası imzalamak zorunda kaldığı antlaşma aşağıdakilerden hangisidir?</strong>",
     "A": "Versailles Barış Antlaşması",

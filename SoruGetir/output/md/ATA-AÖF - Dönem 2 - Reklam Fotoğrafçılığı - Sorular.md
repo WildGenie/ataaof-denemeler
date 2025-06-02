@@ -115,6 +115,14 @@
     - D-) Kaydetmek
     - **Cevap E-) Propaganda yapmak**
     ***
+1. <strong>Aşağıdakilerden hangisi &ccedil;ekim esnasında &ccedil;ektiği fotoğraf ile fotoğraf&ccedil;ıyı farklılaştırır?</strong><br />
+
+    - A-) Kullandığı kameranın markası
+    - **Cevap B-) Kullandığı bakış a&ccedil;ısı**
+    - C-) Kameranın rengi
+    - D-) Fotoğraf&ccedil;ı yeleği
+    - E-) Fotoğraf&ccedil;ı kaskı
+    ***
 1. <strong>Fotoğrafın &ccedil;ağdaş bir tarih anlatıcısı olmasını sağlayan &ouml;zellik aşağıdakilerden hangisidir?</strong><br />
 
     - A-) Resim sanatının al&ccedil;ak g&ouml;n&uuml;ll&uuml; bir hizmetk&acirc;rı olması
@@ -275,6 +283,13 @@
     - D-) su damlacıklarının yakalanması - s&uuml;t damlacıklarının havada yakalanması
     - E-) manzara - portre
     ***
+1. <strong>Diyafram a&ccedil;ıldık&ccedil;a (rakamsal olarak k&uuml;&ccedil;&uuml;ld&uuml;k&ccedil;e) alan derinliği ne olur?</strong> 
+    - **Cevap A-) Azalır.**
+    - B-) Artar.
+    - C-) Sabit kalır.
+    - D-) Enstantane y&uuml;kselir.
+    - E-) İso değişir.
+    ***
 1. <strong>ISO (International Standarts of Organization) değeri unutularak t&uuml;m fotoğraflar &ccedil;ekildiğinde ışık şartları arasındaki farklılıklar aşağıdaki olumsuzluklardan hangisi şeklinde fotoğraflarda karşımıza &ccedil;ıkar?</strong> 
     - A-) Işık patlaması
     - **Cevap B-) Noise (g&uuml;r&uuml;lt&uuml;)**
@@ -425,6 +440,14 @@ IV. Odak uzaklığı<br />
     - **Cevap C-) Ritm**
     - D-) Zıtlık
     - E-) Simetri
+    ***
+1. <strong>Aşağıdakilerden hangisi iki ya da daha fazla fig&uuml;r&uuml;n birbirini tamamlayarak anlam oluşumuna katkı sağlayarak uyum ya da armoni olarak ifade edilmesini sağlayabilir?</strong><br />
+
+    - A-) Renk
+    - B-) Ton
+    - C-) Y&ouml;n
+    - D-) Bi&ccedil;im
+    - **Cevap E-) Zıtlık**
     ***
 1. <strong>G&ouml;rsel sanat disiplinleri i&ccedil;erisinde nesnelerin anlamlı ve estetik bir b&uuml;t&uuml;n oluşturacak şekilde yerleştirilmeleri i&ccedil;in kabul edilmiş oranın adı aşağıdakilerden hangisidir?</strong>
     - A-) Pozlama
@@ -577,6 +600,16 @@ III. Hareketin y&ouml;n&uuml;<br />
     - D-) Netleme butonu
     - E-) LCD paneli
     ***
+1. I. Y&uuml;ksek kalitede g&ouml;r&uuml;nt&uuml; barındırması ve bir&ccedil;ok program tarafından okunabilmektedir.&nbsp;<br />
+II. Hem fotoğraflar&nbsp;&uuml;zerinde yapılacak m&uuml;dahalelere hem de a&ccedil;ılıp yeniden kaydetmeye imkan vermektedir.&nbsp;<br />
+III. Boyutlarının b&uuml;y&uuml;k olması sebebiyle&nbsp;kartlarda, taşıyıcı belleklerde ya da bilgisayarlarda daha b&uuml;y&uuml;k yer&nbsp;kaplar.<br />
+<strong>&Ouml;zellikleri verilen g&ouml;r&uuml;nt&uuml; kaydetme formatı aşağıdakilerden hangisidir?</strong>
+    - A-) JPEG Format
+    - B-) RAW Format
+    - **Cevap C-) TIFF Format&nbsp;**
+    - D-) Foveon X3 Formatı&nbsp;
+    - E-) CMOS Formatı&nbsp;
+    ***
 1. SLR analog fotoğraf makinelerinde kullanılan filmin yerine, DSLR dijital fotoğraf makinelerinde ..................... kullanılmaktadır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) sens&ouml;rler**
@@ -693,6 +726,13 @@ III. Hareketin y&ouml;n&uuml;<br />
     - C-) Gazete &ndash; Dergi - Internet
     - D-) Tiyatro
     - **Cevap E-) Sinema**
+    ***
+1. <strong>Aşağıdakilerden hangisi reklamın yazılı ve g&ouml;rsel &ouml;gelerinden biri <u>değildir</u>?</strong>
+    - A-) G&ouml;rmek ve algılamak&nbsp;
+    - B-) G&ouml;rseller
+    - C-) Tipografi&nbsp;
+    - **Cevap D-) Teknoloji**
+    - E-) Renk&nbsp;
     ***
 1. <strong>Bir mal veya hizmeti kamuya duyurmak, tanıtmak, &uuml;r&uuml;ne ilişkin bilgi vermek, &ouml;vmek veya &uuml;r&uuml;n&uuml;n satışını artırmak i&ccedil;in kullanılacak olan g&ouml;rsel materyallerin, profesyonel ve/veya profesyonel olmayan kişiler tarafından &uuml;retilmesini ifade etmek i&ccedil;in kullanılan kavram aşağıdakilerden hangisidir?</strong> 
     - A-) Tipografi
@@ -856,6 +896,16 @@ III. Hareketin y&ouml;n&uuml;<br />
     - C-) manzara
     - D-) &uuml;r&uuml;n&nbsp;
     - E-) magazin&nbsp;
+    ***
+1. I. Hemen her konuya &ccedil;&ouml;z&uuml;m oluşturması gerektiği i&ccedil;in adeta &ldquo;maymuncuk&rdquo; gibi her kapıyı a&ccedil;ar.<br />
+II. Ajansın yaptığı anlaşmaları takip eden ve anlaşma ekseninde yerine getirilmesi gerekenleri organize eder.<br />
+III. &Uuml;r&uuml;n tanıtımı i&ccedil;in gelen m&uuml;şterinin o &uuml;r&uuml;n tanıtımı i&ccedil;in ne t&uuml;r beklentilere sahip olduğunu &ouml;ğrenip ekibe aktarır.<br />
+<strong>G&ouml;revleri sıralanan ajans birimi aşağıdakilerden hangisidir?</strong> 
+    - A-) Sekreter
+    - **Cevap B-) Prod&uuml;ks&uuml;yon yardımcısı**
+    - C-) Tasarım ekibi
+    - D-) &Ccedil;ekim ekibi
+    - E-) Sanat y&ouml;netmeni
     ***
 1. I. &Ccedil;ekim &ouml;ncesi gereksinimleri belirleyen ve en ideal &ccedil;ekim şartlarına y&ouml;nelik &ouml;neriler ortaya koyan kişidir.<br />
 II. Modellerin giyeceği kost&uuml;mlerden &uuml;zerinde&nbsp;taşıyacakları aksesuarlara, &ccedil;ekimin yapılacağı mek&acirc;nın se&ccedil;iminden, dekorun&nbsp;tasarlanmasına ve yerleştirilmesine değin pek &ccedil;ok şeyi denetler.<br />
@@ -1031,6 +1081,13 @@ IV. Genellikle, yardımcı ışık ana ışığa oranla daha şiddetli kullanıl
     - D-) Ortam Işığı
     - E-) Tepe Işığı&nbsp;
     ***
+1. <strong>İster doğal ister yapay olsun ışığın konuyu aydınlatma h&acirc;lleri aşağıdakilerden hangisinde doğru verilmiştir?</strong> 
+    - **Cevap A-) Doğrudan aydınlatma, yansıyarak aydınlatma ve s&uuml;z&uuml;lerek aydınlatma**
+    - B-) Doğrudan aydınlatma, tepe aydınlatma ve fon aydınlatma
+    - C-) Doğrudan aydınlatma, yansıyarak aydınlatma, fon Aydınlatma
+    - D-) Cephe aydınlatma, yansıyarak aydınlatma ve fon aydınlatma
+    - E-) Cephe aydınlatma, tepe aydınlatma, s&uuml;z&uuml;lerek aydınlatma
+    ***
 1. <strong>Bir fotoğrafta ana ışıkla konunun bir b&ouml;l&uuml;m&uuml; aydınlanırken diğer b&ouml;l&uuml;m&uuml;nde kullanılan ve ana ışığa oranla daha d&uuml;ş&uuml;k şiddette olan ışık t&uuml;r&uuml;ne verilen ad aşağıdakilerden hangisidir?</strong>
     - A-) Ters ışık
     - B-) Tepe ışığı
@@ -1061,7 +1118,7 @@ IV. Genellikle, yardımcı ışık ana ışığa oranla daha şiddetli kullanıl
     - E-) Pop&uuml;ler fotoğraflara yorum yapılmalıdır.
     ***
 1. Kitle iletişim ara&ccedil;ları &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;, &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. ve &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.. g&ouml;rsellikleri yeniden tasarlar.<br />
-<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br />
+<strong>Yukarıdaki c&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br />
 
     - **Cevap A-) reel &ndash; sanal &ndash; sayısal**
     - B-) s&ouml;zl&uuml; &ndash; yazılı &ndash; sembolik
@@ -1225,10 +1282,10 @@ III. Herhangi bir metal kap, teneke ya da siyah kutu iğne deliği fotoğraf mak
     - E-) BMP
     ***
 1. <strong>Aşağıdakilerden hangisi g&ouml;r&uuml;nt&uuml; işleme yazılımı <u>değildir</u>?</strong>
-    - A-) Photoshop
-    - B-) Lightroom
+    - A-) CaptureOne
+    - B-) Phocus
     - **Cevap C-) Bridge**
-    - D-) Capture NX
+    - D-) NikonCapture NX
     - E-) CanonDigital Photo Pro
     ***
 1. <strong>Birden fazla fotoğrafta yer alan obje ya da nesnelerin bir araya getirildiği katman birleştirme işlemlerinde doğal bir g&ouml;r&uuml;n&uuml;m i&ccedil;in aşağıdakilerden hangisi &ouml;nemli <u>değildir</u>?</strong>
@@ -1288,7 +1345,7 @@ III. Herhangi bir metal kap, teneke ya da siyah kutu iğne deliği fotoğraf mak
     - D-) Mimari fotoğraf&ccedil;ılığı
     - E-) Turizm fotoğraf&ccedil;ılığı
     ***
-1. <strong>Genellikle orta ve b&uuml;y&uuml;k &ouml;l&ccedil;ekli mal ve hizmet &uuml;reten/satan sanayi kuruluşlarının fotoğraf ihtiya&ccedil;larını gidermek i&ccedil;in yapılan fotoğraf &ccedil;alışmaları aşağıdaki reklam fotoğraf&ccedil;ılığı uzmanlık alanlarından hangisi i&ccedil;erisinde yer alır?</strong>
+1. <strong>Aşağıdakilerden hangisi, genellikle orta ve b&uuml;y&uuml;k &ouml;l&ccedil;ekli mal ve hizmet &uuml;reten/satan sanayi kuruluşlarının fotoğraf ihtiya&ccedil;larını gidermek i&ccedil;in yapılan fotoğraf &ccedil;alışmalarının yer aldığı reklam fotoğraf&ccedil;ılığı uzmanlık alanıdır?</strong>
     - A-) Moda fotoğraf&ccedil;ılığı
     - **Cevap B-) End&uuml;stri fotoğraf&ccedil;ılığı**
     - C-) Mimari fotoğraf&ccedil;ılığı
@@ -1631,7 +1688,7 @@ III. &Ccedil;ok sayıda anahtar s&ouml;zc&uuml;k yoluyla geliştirilir.<br />
     - D-) ironik
     - E-) metafizik
     ***
-1. <strong>Bir eşyayı, objeyi, yeri, işleyişi ya da kavramı resim yoluyla temsil eden sembole ne ad verilir?</strong>
+1. <strong>Aşağıdakilerden hangisi, bir eşyayı, objeyi, yeri, işleyişi ya da kavramı resim yoluyla temsil eden sembole verilen addır?</strong>
     - A-) Somutlaştırma
     - B-) Amblem
     - C-) Logo
@@ -1732,8 +1789,8 @@ III. T&uuml;ketim toplumu<br />
     - A-) Sinema - Edebiyat
     - **Cevap B-) Şiir - Roman**
     - C-) Resim - Fotoğraf
-    - D-) Fotoğraf - Grafik
-    - E-) Sinema - M&uuml;zik
+    - D-) Fotoğraf - Metin
+    - E-) M&uuml;zik - Heykel
     ***
 1. <strong>Aşağıdakilerden hangisi g&ouml;stergelerarası y&ouml;ntemlerden biri <u>değildir</u>?</strong>
     - A-) Alıntı

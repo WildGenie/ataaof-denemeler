@@ -91,6 +91,13 @@
     - D-) Zaman tasarrufu sağlanması
     - **Cevap E-) Başarı oranlarında artış sağlanması**
     ***
+1. <strong>McLuhan&rsquo;ın yapmış olduğu sınıflama aşağıdaki sıralamalardan hangisidir?</strong>
+    - A-) Edebiyat &ccedil;ağı &ndash; Basım &ccedil;ağı &ndash; Kabilecilik &ccedil;ağı &ndash; Elektronik &ccedil;ağ
+    - B-) Basım &ccedil;ağı &ndash; Kabilecilik &ccedil;ağı &ndash; Edebiyat &ccedil;ağı &ndash; Elektronik &ccedil;ağ
+    - C-) Kabilecilik &ccedil;ağı &ndash; Basım &ccedil;ağı &ndash; Elektronik &ccedil;ağ &ndash; Edebiyat &ccedil;ağı
+    - **Cevap D-) Kabilecilik &ccedil;ağı &ndash; Edebiyat &ccedil;ağı &ndash;&nbsp; Basım &ccedil;ağı &ndash; Elektronik &ccedil;ağ**
+    - E-) Edebiyat &ccedil;ağı &ndash; Elektronik &ccedil;ağ &ndash; Basım &ccedil;ağı &ndash; Kabilecilik &ccedil;ağı
+    ***
 1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Masuda&rsquo;nın bilginin evrimselleştirilmesi sınıflamasında yer alan devrimlerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Basım devrimi
     - B-) Dil devrimi
@@ -207,6 +214,13 @@ IV. Dijital Toplum<br />
     - C-) Instagram
     - D-) Facebook
     - E-) LinkedIn
+    ***
+1. <strong>Aşağıdakilerden hangisi &ldquo;t&uuml;ketiyorum &ouml;yleyse varım&rdquo; mottosunun &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Kişinin giyim tarzını s&uuml;rekli sosyal medyada paylaşması
+    - B-) Kişinin gittiği restoranları sosyal medyada paylaşması
+    - **Cevap C-) Kişinin &ccedil;alıştığı kurumunun web sitesini sosyal medyada paylaşması**
+    - D-) Kişinin yaptığı alışverişleri sosyal medyada paylaşması
+    - E-) Kişinin gezdiği yerleri sosyal medyada paylaşması
     ***
 1. <strong>Sim&uuml;lasyon kavramını aşağıdaki yazarlardan hangisi ortaya atmıştır?</strong>
     - **Cevap A-) Jean Baudrillard**
@@ -357,6 +371,13 @@ III. Dijital mek&acirc;nlar<br />
     - D-) Emoji kullananlar
     - E-) X kuşağı
     ***
+1. <strong>Emoji kavramı ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Emojiler canlı ve cansız varlıkları temsil edebilir.
+    - B-) Emojiler insanları tembelleştirebilir.
+    - C-) Emojiler yanlış anlaşılmalara neden olabilir.
+    - **Cevap D-) Emojiler &ccedil;oğaltılamaz.**
+    - E-) Emojiler emotikonlardan farklıdır.
+    ***
 1. <strong>Kitle iletişiminde detaylı a&ccedil;ıklanması gereken bir durumda iletişimi emoji ile sonu&ccedil;landırmak emojinin hangi &ouml;zelliğini g&ouml;sterir?</strong>
     - **Cevap A-) İnsanları tembelliğe g&ouml;t&uuml;rd&uuml;ğ&uuml;**
     - B-) İnsanları iş yapmada hızlandırdığı ve zamandan kazandırdığı
@@ -479,6 +500,13 @@ III. Dijital mek&acirc;nlar<br />
     - C-) Ekonomideki gelişmeler
     - D-) Siyaset alanındaki gelişmeler
     - E-) Sosyal hayattaki gelişmeler
+    ***
+1. <strong>Aşağıdakilerden hangisi Web 2.0 teknolojisinin &ouml;zellikleri arasında <u>değerlendirilemez</u>?</strong>
+    - A-) &Ccedil;ift y&ouml;nl&uuml; iletişimin m&uuml;mk&uuml;n olması<br type="_moz" />
+    - B-) Kullanıcının i&ccedil;erik &uuml;retebilmesi
+    - C-) Sosyal katılıma uygun olması
+    - **Cevap D-) Anlamsal web teknolojisi kullanılması**
+    - E-) Kullanıcının aktif olması<br type="_moz" />
     ***
 1. Her kuşağın yaşamı algılama bi&ccedil;imleri, farklı iletişim kurma ve kullanma tarzlarıyla kendine &ouml;zg&uuml; &ouml;zellikleri bulunmaktadır.<br />
 <strong>Aşağıdakilerden hangisi literat&uuml;rde yer alan kuşak sınıflandırması i&ccedil;erisinde <u>yer almaz</u>?</strong>
@@ -608,6 +636,13 @@ III. Dijital mek&acirc;nlar<br />
     - **Cevap C-) Korumacı Yaklaşım**
     - D-) G&uuml;&ccedil;lendirmeci Yaklaşım
     - E-) &Ccedil;&ouml;z&uuml;mlemeci Yaklaşım
+    ***
+1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>dijital medya okuryazarlığı alanını doğrudan ilgilendiren faaliyetler arasında <u>yer almaz</u>?</strong>
+    - A-) İnternette s&ouml;rf yapma
+    - B-) Sosyal medyada paylaşım yapma
+    - C-) Online alış-veriş yapma
+    - **Cevap D-) Televizyon dizilerine bağımlı olma**
+    - E-) Elektronik y&ouml;ntemlerle haberleşme
     ***
 1. <strong>Aşağıdakilerden hangisi medyaya y&ouml;nelik okuryazarlık t&uuml;rlerinden biri <u>değildir</u>?</strong>
     - A-) &Ccedil;oklu okuryazarlık
@@ -760,6 +795,13 @@ III.&nbsp;13+ ve 18+ sembolleri programın yayını s&uuml;resince ekranın bir 
     - D-) Twitter
     - E-) Facebook
     ***
+1. <strong>2004 yılında Marc Zuckerberg tarafından kullanıcıların arkadaşlarıyla metin, fotoğraf ve video paylaşmalarına ve iletişim kurmalarına olanak sağlayan olduk&ccedil;a yaygın bir sosyal medya mecrası aşağıdakilerden hangisidir?</strong>
+    - A-) YouTube
+    - B-) WhatsApp
+    - **Cevap C-) Facebook**
+    - D-) Twitter (X)
+    - E-) Instagram
+    ***
 1. <strong>Dawley tarafından sınıflandırılan sosyal paylaşım siteleri ile ilgili aşağıda verilen eşleştirmelerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Sosyal Siteler: MySpace, Facebook, Twitter
     - B-) Sanal D&uuml;nyalar: SL, Active Worlds, There, Whyville, Club Penguin, HİPİH
@@ -837,6 +879,13 @@ III.&nbsp;13+ ve 18+ sembolleri programın yayını s&uuml;resince ekranın bir 
     - C-) Kullanıcının k&uuml;lt&uuml;rel değerleri yaymak istemesi
     - D-) Kullanıcının paylaşım yaparak maddi kazan&ccedil; sağlamak istemesi
     - E-) Kullanıcının toplumsal değerleri korumak istemesi
+    ***
+1. <strong>Aşağıdakilerden hangisi mahremiyetin kelime anlamına karşılık <u>gelmez</u>?</strong>
+    - A-) Bir şeyin gizli h&acirc;li olan
+    - B-) Başkalarının bilmemesi gereken
+    - C-) Paylaşılması izin gerektiren
+    - D-) Kişiye &ouml;zel boyutta olan
+    - **Cevap E-) Kamusal nitelikte olan**
     ***
 1. <strong>Guy Debord&rsquo;un &ldquo;g&ouml;steri toplumu&rdquo; kavramı aşağıdakilerden hangisiyle ilişkilendirilmiştir?</strong>
     - **Cevap A-) T&uuml;ketim k&uuml;lt&uuml;r&uuml;**

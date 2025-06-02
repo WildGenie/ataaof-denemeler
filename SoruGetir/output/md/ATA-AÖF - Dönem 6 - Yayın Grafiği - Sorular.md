@@ -70,6 +70,13 @@
     - D-) Haber ve bilgi paylaşım hedeflidir
     - E-) Basılı ve elektronik olarak &uuml;retilir
     ***
+1. <strong>Aşağıdakilerden hangisi Sanayi Devrimi ile gelişen matbaa makineleri arasında <u>yer almaz</u>?</strong>
+    - A-) D&ouml;kme demir matbaa makineleri
+    - B-) Buharlı matbaa makineleri
+    - C-) Linotype matbaa makineleri
+    - D-) Litografik rotatif matbaa
+    - **Cevap E-) Gutenberg matbaa makineleri**
+    ***
 1. <strong>Aşağıdakilerden hangisi elektronik yayıncılığın kazanımları arasında <u>yer almaz</u>?</strong>
     - A-) K&acirc;ğıt israfını azaltmıştır.
     - B-) Bilgiye erişim hızlanmıştır.
@@ -169,6 +176,13 @@
     - D-) Gider kalemi oluşturmak
     - E-) &Ccedil;alışmayı daha g&uuml;zel g&ouml;stermek
     ***
+1. <strong>Aşağıdakilerden hangisi tasarımın sanattan farklı bir hedefidir?</strong>
+    - A-) G&uuml;zel g&ouml;r&uuml;nmek
+    - B-) Yenilik&ccedil;i olmak
+    - C-) İlgi &ccedil;ekici olmak
+    - D-) Farklı olmak
+    - **Cevap E-) Bir sorunu &ccedil;&ouml;zmek**
+    ***
 1. <strong>Beyin fırtınası tekniği ger&ccedil;ekleştirilirken ilk aşamada hangi nitelikte fikirler ortaya sunulmalıdır?</strong>
     - A-) K&ouml;t&uuml; fikirler sunulmalıdır.
     - B-) Hi&ccedil; kullanılmamış fikirler sunulmalıdır.
@@ -253,6 +267,13 @@
     - C-) Bir nesnenin algılanmasını sağlayan yapısal &ouml;zelliklerdir.
     - **Cevap D-) Bir nesnenin boşlukta kapladığı alandır.**
     - E-) Tasarımdaki nesnelerin &ouml;nem sırasıdır.
+    ***
+1. <strong>Aşağıdakilerin hangisinde sıcak ve soğuk renkler sıralanmıştır?</strong>
+    - **Cevap A-) Sarı, kırmızı, turuncu - mavi, mor, yeşil**
+    - B-) Mavi, kırmızı, turuncu - sarı, magenta, yeşil
+    - C-) Sarı, kırmızı, cyan - mavi, mor, yeşil
+    - D-) Sarı, kırmızı, turuncu - siyah, mor, yeşil
+    - E-) Sarı, beyaz, turuncu - mavi, mor, kırmızı
     ***
 1. <strong>Aşağıdakilerden hangisi yayın grafiklerinde tasarımcının duyarlılık geliştirmesi a&ccedil;ısından &ouml;nemli olup, belli standartları gerektiren bir arg&uuml;mandır?</strong>
     - A-) Oran Orantı
@@ -339,6 +360,13 @@
     - D-) G&ouml;rsel
     - E-) RGB
     ***
+1. <strong>Damlalık aracı aşağıdakilerden hangisini yapmamızı sağlamaktadır?</strong>
+    - **Cevap A-) Fotoğrafları kopyalamak**
+    - B-) Metinleri convertlemek
+    - C-) Renk kopyalamak ve kodlarını g&ouml;rmek
+    - D-) Sayfa boyutunu d&uuml;zenlemek
+    - E-) Alanları se&ccedil;mek
+    ***
 1. <strong>Masa&uuml;st&uuml; yayıncılık i&ccedil;in daha &ccedil;ok ara&ccedil; bulunduran yazılım hangisidir?</strong>
     - A-) Adobe Premiere Pro
     - B-) Adobe Lightroom
@@ -423,6 +451,13 @@
     - C-) Resim, Grafik, S&uuml;tun, Denge, Ritim, Renk
     - D-) Form, Bi&ccedil;im, Baskı, Birim, Vurgu, Başlık
     - E-) Fotoğraf, Metin, Kağıt, S&uuml;tun, Marj
+    ***
+1. <strong>Aşağıdakilerden hangisinde s&uuml;reli yayın grafiği s&uuml;re&ccedil;leri doğru bir şekilde verilmiştir?</strong>
+    - A-) Bilgi toplama- araştırma / eskiz -taslak-yerleşim (layout) / problem durumu / &ccedil;&ouml;z&uuml;mleme / baskı s&uuml;re&ccedil;leri / uygulama
+    - **Cevap B-) Problem durumu / bilgi toplama-araştırma / eskiz- taslak-yerleşim (layout) / &ccedil;&ouml;z&uuml;mleme /uygulama / baskı s&uuml;re&ccedil;leri**
+    - C-) Problem durumu / &ccedil;&ouml;z&uuml;mleme / bilgi toplama-araştırma / eskiz- taslak-yerleşim (layout) / baskı s&uuml;re&ccedil;leri / uygulama
+    - D-) Problem durumu / eskiz- taslak-yerleşim (layout) / bilgi toplama-araştırma / &ccedil;&ouml;z&uuml;mleme /uygulama / baskı s&uuml;re&ccedil;leri
+    - E-) Bilgi toplama-araştırma / Problem durumu / eskiz- taslak-yerleşim (layout) / uygulama / baskı s&uuml;re&ccedil;leri / &ccedil;&ouml;z&uuml;mleme
     ***
 1. <strong>Aşağıdakilerden hangisi s&uuml;reli yayın grafiği baskı ve &ccedil;oğaltım aşamasındaki s&uuml;re&ccedil;lerden biri <u>değildir</u>?</strong>
     - A-) Forma d&uuml;zeni
@@ -523,6 +558,13 @@
     - D-) Kırıntı
     - **Cevap E-) Nehir**
     ***
+1. <strong>Aşağıdakilerken hangisi yazı sınıflarından biri <u>değildir</u>?</strong>
+    - A-) Modern
+    - **Cevap B-) Post-modern**
+    - C-) Tırnaklı
+    - D-) Tırnaksız
+    - E-) Dekoratif
+    ***
 ## Unite 7
 1. <strong>Fotoğraf makinalarındaki fotoğraflanması hedeflenen alanı tanımlayan &ccedil;er&ccedil;eve aşağıdakilerden hagisidir?</strong>
     - A-) Diyafram
@@ -603,6 +645,13 @@ III. Şekil<br />
     - C-) Giyim etiketi
     - D-) Sarı renk
     - E-) Film
+    ***
+1. <strong>Aşağıdakilerden hangisi fotoğrafın işlevleri arasında <u>yer almaz</u>?</strong>
+    - A-) Duygulandırmak
+    - B-) Belgelemek
+    - C-) Bilgilendirmek
+    - **Cevap D-) Sayı bildirmek**
+    - E-) D&uuml;ş&uuml;nd&uuml;rmek
     ***
 1. <strong>Bir kompozisyonda aşağıdaki &ouml;zelliklerden hangisi <u>aranmaz</u>?</strong>
     - A-) Oran-orantı
@@ -918,7 +967,7 @@ III. Şekil<br />
     - D-) Ofset Baskı
     - E-) Tipo Baskı
     ***
-1. <strong>Aşağıdakilerden hangisi baskı &ouml;ncesi dikkat edilmesi gereken g&ouml;revler biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi baskı &ouml;ncesi dikkat edilmesi gereken g&ouml;revlerden biri <u>değildir</u>?</strong>
     - A-) Yayın grafiğinde metin ve fontların doğruluğundan ve bozulmadığından emin olmak i&ccedil;in en az iki kez kontrol etmek.
     - B-) Ofset matbaa CMYK sistemine g&ouml;re &ccedil;alışır bu sebeple RGB dosyalar veya g&ouml;r&uuml;nt&uuml;ler varsa bu formatları uygun şekilde d&ouml;n&uuml;şt&uuml;r&uuml;n&uuml;z.
     - C-) Dosyanın yerleştirilmesini, yani forma d&uuml;zenini ayarlayın, sayfaları yazdırmak i&ccedil;in doğru sırada yerleştirin.

@@ -34,6 +34,13 @@ V. Yeni &uuml;r&uuml;nler yarın yada &ouml;b&uuml;r g&uuml;n elimizde olacak.<b
     - D-) I, II, III ve IV
     - E-) I, II, III, IV ve V
     ***
+1. <strong>Aşağıdakilerden hangisinde &ldquo;mi&rdquo; soru edatı başka bir anlamda kullanılmıştır?</strong>
+    - **Cevap A-) Yağmur yağdı mı toprağı g&uuml;zel bir koku kaplar.**
+    - B-) Soğuk mu soğuk bir kış g&uuml;n&uuml;yd&uuml;.
+    - C-) Annesini &ccedil;ok mu &ccedil;ok &ouml;zlemişti.
+    - D-) G&uuml;zel mi g&uuml;zel bir arabası vardı.
+    - E-) Hızlı mı hızlı bir şekilde ge&ccedil;ti yanımızdan.
+    ***
 1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde b&uuml;y&uuml;k harflerin kullanımı ile ilgili bir <u>yanlış</u>&nbsp;yapılmıştır?</strong>
     - A-) K&uuml;&ccedil;&uuml;k pencereden vuran g&uuml;neş, evi aydınlatıyordu.
     - B-) Ağrı ve Cudi dağları T&uuml;rkiye&rsquo;nin en y&uuml;ksek noktalarıdır.
@@ -186,6 +193,13 @@ III. Sıra sayı sıfatını belirtmek i&ccedil;in kullanılır.<br />
     - **Cevap C-) Tırnak işareti**
     - D-) &Uuml;nlem
     - E-) Kesme işareti
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde parantezle ( ) belirtilen yere, noktalı virg&uuml;l (;) getirilmelidir?</strong>
+    - **Cevap A-) Zenginlik, gurbeti vatana ( ) yoksulluk, vatanı gurbete &ccedil;evirir.**
+    - B-) Bana yaşamı iki şey sevdirir ( ) &Ouml;zg&uuml;rl&uuml;k ve aşk.
+    - C-) Aşk ( ) &ouml;zg&uuml;r ve kendiliğinden olduğu zaman yeşerir.
+    - D-) At &ouml;l&uuml;r ( ) meydan kalır; yiğit &ouml;l&uuml;r, şan kalır.
+    - E-) Aklımız bir s&uuml;ngerdir ( ) y&uuml;reğimiz ise bir nehirdir.
     ***
 1. &Uuml;&ccedil; &ccedil;eşit arkadaşlık vardır: Birincisi su gibidir (I) her zaman yanında istersin (II) ikincisi ila&ccedil; gibidir (III) ihtiyacın olduğunda ararsın (IV) &uuml;&ccedil;&uuml;nc&uuml;s&uuml; mikrop gibidir(V)<br />
 <strong>Yukarıdaki par&ccedil;ada numaralanmış yerlerden hangi ikisine virg&uuml;l (,) getirilmelidir?</strong>
@@ -421,6 +435,14 @@ III. Sıra sayı sıfatını belirtmek i&ccedil;in kullanılır.<br />
     - D-) &Ccedil;arşamba g&uuml;n&uuml;ne randevunuz oluşturuldu.<br />
     - E-) Akşam yemeğinde arkadaşlarımla birlikteydim.
     ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde anlatım bozukluğu <u>yoktur</u>?</strong><br />
+
+    - A-) Toplumlar eğitimle ilerler, m&uuml;nevver insanlar geliştirir.<br />
+    - B-) Erzurum&rsquo;da kış &ccedil;etin ve zorlu ge&ccedil;ecek.<br />
+    - C-) Bu dersten kalmamı sen sağladın.<br />
+    - D-) Bir&ccedil;ok &ccedil;i&ccedil;ekleri beslemek &ccedil;ok zor.<br />
+    - **Cevap E-) Onun i&ccedil;in k&ouml;t&uuml; g&uuml;nler geride kaldı.**
+    ***
 1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde anlatım bozukluğu vardır?</strong>
     - A-) Fabrikanın en yeni, en tecr&uuml;besiz elemanı benim.
     - B-) Olayları bir de bu a&ccedil;ıdan ele alsak iyi olur.
@@ -611,6 +633,14 @@ IV. Bir ortamın ya da duygunun tasvir edildiği s&ouml;zc&uuml;klere sıklıkla
     - D-) I, II ve III
     - E-) I, II ve IV
     ***
+1. Mitler, kutsal merasimler esnasında anlatılırlar. Bu merasimler icra edilirken şarkılar s&ouml;ylenir, dans edilir ve aynı zamanda bir tiyatro oyunu gibi mitler sahnelenir. Bu y&uuml;zden tiyatronun, dansın ve şarkıların ortaya &ccedil;ıkışında mitlerin rol&uuml; &ccedil;ok b&uuml;y&uuml;kt&uuml;r.<br />
+<strong>Paragrafta kullanılan anlatım t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+    - A-) Betimleyici
+    - B-) &Ouml;yk&uuml;leyici
+    - **Cevap C-) A&ccedil;ıklayıcı**
+    - D-) Tartışmacı
+    - E-) Kanıtlayıcı
+    ***
 ## Unite 5
 1. <strong>Alanında &uuml;n yapmış kişilerin hayatlarının bir başkası tarafından anlatıldığı yazılı anlatım t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Dilek&ccedil;e
@@ -632,6 +662,13 @@ IV. Bir ortamın ya da duygunun tasvir edildiği s&ouml;zc&uuml;klere sıklıkla
     - C-) Dilek&ccedil;ede verilen tarih, arz/rica ifadesinden sonra konulmalıdır.
     - D-) Dilek&ccedil;e verilen kurumun adı, dilek&ccedil;enin baş tarafına tam olarak yazılmalıdır.
     - E-) Dilek&ccedil;e metninde a&ccedil;ık, anlaşılır bir anlatım kullanılmalıdır.
+    ***
+1. <strong>Ani gelişen bir olayın ya da sonradan tekrar edilmesi m&uuml;mk&uuml;n olmayan bir durumun, katılımcıların veya şahitlerin ifadelerine dayanarak yazıya ge&ccedil;irilmesi ve resmiyet kazandırılması işlemine ne ad verilir?</strong>
+    - A-) Rapor
+    - B-) Biyografi
+    - C-) Dilek&ccedil;e
+    - D-) Otobiyografi
+    - **Cevap E-) Tutanak**
     ***
 1. <strong>Dilek&ccedil;e yazımı ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Dilek&ccedil;e yazılırken mavi ya da siyah m&uuml;rekkepli kalem kullanılır.
@@ -785,6 +822,13 @@ IV. Bir ortamın ya da duygunun tasvir edildiği s&ouml;zc&uuml;klere sıklıkla
     - **Cevap B-) Anı**
     - C-) Deneme
     - D-) Eleştiri
+    - E-) Makale
+    ***
+1. <strong>Marco Polo, İbni Batuta, Puşkin gibi yazarların &ouml;rneklerini verdikleri yazı t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Gezi yazısı**
+    - B-) Deneme
+    - C-) Mektup
+    - D-) R&ouml;portaj
     - E-) Makale
     ***
 1. <strong>Frankfurt Seyahatnamesi isimli eser aşağıdaki yazarlardan hangisine aittir?</strong>
@@ -987,6 +1031,13 @@ III. &Ccedil;&ouml;z&uuml;m<br />
     - D-) II ve III
     - **Cevap E-) I, II ve III**
     ***
+1. <strong>Roman kelimesi aşağıdaki dillerin hangisinden T&uuml;rk&ccedil;eye ge&ccedil;miştir?</strong>
+    - A-) İngilizce
+    - **Cevap B-) Fransızca**
+    - C-) Rus&ccedil;a
+    - D-) İtalyanca
+    - E-) İspanyolca
+    ***
 1. Roman veya hik&acirc;ye t&uuml;r&uuml;nde olayların oluşmasında etkili olan, olayları yaşayan insanlar şahıs kadrosunu (kişileri) oluşturur. Şahıs kadrosundaki insanlar, olaylar karşısında takındıkları tavırlara g&ouml;re .................. ve ................... şeklinde ikiye ayrılırlar.<br />
 <strong>Paragrafta boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br />
 
@@ -1149,10 +1200,10 @@ Yalağında bulutlar yıkanan &ccedil;eşmeye.<br />
     ***
 1. <strong>&Ouml;zet &ccedil;ıkarma ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Metnin &ouml;z&uuml;n&uuml; yansıtan c&uuml;mleler kullanılmalıdır.
-    - **Cevap B-) &Ouml;zet yaparken metinden alınan c&uuml;mlelerin aslına dokunulmamalıdır.**
+    - **Cevap B-) &Ouml;zet yaparken metinden alınan c&uuml;mlelerin aslına dokunulmamalıdır.<br type="_moz" />**
     - C-) &Ouml;ncelikle metin dikkatlice okunmalıdır.
     - D-) &Ouml;zet, metnin paralelinde olmalıdır.
-    - E-) &Ouml;zet, metnin aslını bozmadan metni kısaltma işidir.
+    - E-) &Ouml;zet, metnin aslını bozmadan metni kısaltma işidir.<br type="_moz" />
     ***
 1. <strong>Aşağıdakilerden hangisi d&uuml;ş&uuml;ncenin merkezi olarak kabul edilen d&ouml;rt temel dil becerisinden biri <u>değildir</u>?</strong>
     - A-) Konuşma
@@ -1661,7 +1712,7 @@ III. Etkili soru sorma becerisine sahiptir.<br />
     - B-) A&ccedil;ık oturum
     - C-) M&uuml;nazara
     - **Cevap D-) Konferans**
-    - E-) Sempozyum
+    - E-) Sempozyum<br type="_moz" />
     ***
 1. <strong>M&uuml;nazaralarda konuşmacıların aşağıdaki &ouml;zelliklerinden hangisi <u>&ouml;l&ccedil;&uuml;lmez</u>?</strong>
     - A-) Konuyu a&ccedil;ma
@@ -1851,7 +1902,7 @@ IV. Sempozyum<br />
     - D-) II ve III
     - **Cevap E-) III ve IV**
     ***
-1. <strong>A&ccedil;ık oturumdan farklı olarak konuşmacıların g&ouml;r&uuml;şlerini bildirmelerinden sonra izleyicilerin soru sorarak tartışmaya katılabildikleri, kendi g&ouml;r&uuml;ş ve d&uuml;ş&uuml;ncelerini a&ccedil;ıklayabildikleri s&ouml;zl&uuml; anlatım t&uuml;r&uuml;ne ne ad verilir?</strong>
+1. <strong>A&ccedil;ık oturumdan farklı olarak konuşmacıların g&ouml;r&uuml;şlerini bildirmelerinden sonra izleyicilerin soru sorarak tartışmaya katılabildikleri, kendi g&ouml;r&uuml;ş ve d&uuml;ş&uuml;ncelerini a&ccedil;ıklayabildikleri s&ouml;zl&uuml; anlatım t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Panel**
     - B-) M&uuml;nazara
     - C-) Konferans

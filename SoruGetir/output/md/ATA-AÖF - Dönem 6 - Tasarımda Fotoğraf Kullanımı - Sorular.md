@@ -73,6 +73,13 @@
     - D-) &nbsp;Sanat ve tasarım ilişkisi
     - E-) Tasarım alanında yenilikler
     ***
+1. <strong>G&uuml;ncel araştırmalar ışığında bilinen en eski duvar resmi g&uuml;n&uuml;m&uuml;zden ka&ccedil; yıl &ouml;nce yapılmıştır?</strong>
+    - A-) 2.050
+    - B-) 1.200
+    - C-) 200.000
+    - **Cevap D-) 45.000**
+    - E-) 35.000
+    ***
 1. <strong>Aşağıdakilerden hangisi tasarım kelimesinin karşıladığı anlamlardan biri <u>değildir</u>?</strong>
     - A-) Zihinde canlandırılan bi&ccedil;im, tasavvur tasarım kelimesinin karşılığıdır.
     - B-) Tasar &ccedil;izim, dizayn anlamında; bir sanat eserinin, yapının veya teknik &uuml;r&uuml;n&uuml;n ilk taslağını da belirtir, en yeni teknolojik alt yapıya sahip olmak
@@ -165,6 +172,13 @@
     - D-) Silindir
     - E-) K&uuml;re
     ***
+1. <strong>Aşağıdakilerin hangisinde ana (birincil) renkler doğru ve eksiksiz olarak belirtilmiştir?</strong>
+    - A-) Sarı, kırmızı, mor
+    - **Cevap B-) Sarı, kırmızı, mavi**
+    - C-) &nbsp;Sarı, kırmızı, yeşil
+    - D-) Mavi, kırmızı, yeşil
+    - E-) Mavi, mor, kırmızı
+    ***
 1. <strong>Aşağıdaki renk &ccedil;iftlerinden hangisinin her ikisi de sıcak renklerdendir?</strong>
     - A-) Mavi ve yeşil
     - B-) Mavi ve mor
@@ -242,6 +256,13 @@
     - **Cevap C-) Fotoğrafta sadece d&uuml;z &ccedil;izgilerden yararlanabiliriz.**
     - D-) &Ccedil;izgilerle, g&ouml;r&uuml;nt&uuml;ye hareket hissi katabiliriz.
     - E-) Yatay &ccedil;izgilerle izleyicide dingin bir his uyandırabiliriz.
+    ***
+1. <strong>Aşağıdakilerin hangisinde doğal ışık kaynağı doğru olarak verilmiştir?</strong>
+    - A-) Odun ateşi, gaz ocağı
+    - B-) Tungsten lamba, mum
+    - C-) Ay, yakamaz
+    - D-) Florasan, led amp&uuml;l
+    - **Cevap E-) Şimşek, kuzey ışıkları, ateş b&ouml;ceği**
     ***
 1. <strong>F1.4 i&ccedil;in aşşağıdakilerden hangisi s&ouml;ylenebilir?</strong>
     - A-) Diyafram a&ccedil;ıklığı değişmez.
@@ -338,6 +359,13 @@ III. Mısır Piramitleri<br />
     - D-) Fotoğraf
     - **Cevap E-) Tiyatro**
     ***
+1. <strong>Aşağıdakilerden hangisi simgesel g&ouml;stergeye &ouml;rnek <u>teşkil etmez</u>?</strong>
+    - A-) G&uuml;n doğumu
+    - B-) Merdiven
+    - C-) Kırık testi
+    - D-) Ufuk
+    - **Cevap E-) Karanlık**
+    ***
 ## Unite 5
 1. <strong>Aşağıdakilerden hangisi iletişimin ama&ccedil;ları arasında <u>yer almaz</u>?</strong>
     - A-) &Ouml;ğrenmeye y&ouml;nelik olması
@@ -415,6 +443,13 @@ III. Mısır Piramitleri<br />
     - **Cevap C-) Ekipten ayrı tek başına &ccedil;alışmamalıdır.**
     - D-) Ticaretle ilgilenmemelidir.
     - E-) Meraklı olmamalıdır.
+    ***
+1. <strong>Reklam ile ilgili olarak a</strong><strong>şağıdakilerden </strong><strong>hangisi <u>yanlıştır</u>?</strong>
+    - A-) Belirli bir bedel karşılığında ger&ccedil;ekleşir.
+    - **Cevap B-) Plansız şekilde, doğa&ccedil;lama ger&ccedil;ekleşir.**
+    - C-) &Uuml;r&uuml;n veya hizmet ya da d&uuml;ş&uuml;nceyi satmak amacıyla tasarlanır.
+    - D-) Mesajların belirlenen iletişim kanalları aracılığıyla t&uuml;keticiye iletilmesidir.
+    - E-) Yer ve zaman satın alınır.
     ***
 1. <strong>Başarılı reklam fotoğrafları oluşturmak ile ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
     - **Cevap A-) Fotoğrafın reklam alanının tamamının en az &uuml;&ccedil;te birini kaplaması gerekir.**
@@ -500,6 +535,13 @@ III. Mısır Piramitleri<br />
     - C-) Abidin Dino
     - D-) Aliye Berger
     - **Cevap E-) Osman Hamdi**
+    ***
+1. <strong>17. y&uuml;zyılda hangi Hollandalı bir ressam, soyu t&uuml;kenmiş didus ineptus kuşunu resmetmiştir?</strong>
+    - A-) Picasso
+    - **Cevap B-) Roelant Savery**
+    - C-) Salvador Dali
+    - D-) Frida Kahlo
+    - E-) Osman Hamdi
     ***
 1. <strong>Aşağıdakilerden hangisi son yıllarda yapılan deneysel ekslibris tasarımları arasında <u>yer almaz</u>?</strong>
     - **Cevap A-) Ağa&ccedil; Baskı Ekslibris**
@@ -592,6 +634,13 @@ III. Mısır Piramitleri<br />
     - C-) Tipografi
     - **Cevap D-) Fonograf**
     - E-) Fotoğraf
+    ***
+1. <strong>Aşağıdakilerden hangisi &ldquo;graphishe kunst&rdquo; kavramını a&ccedil;ıklar?</strong>
+    - A-) Grafik tasarımda &ccedil;arpıcı imgelerin &uuml;retimi &ldquo;grafik ger&ccedil;ek&rdquo; anlamına gelen Almanca &ldquo;graphishe kunts&rdquo; kavramıyla ifade edilmiştir.
+    - B-) Grafik tasarımda fotoğrafın kullanılmaya başlandığı ilk d&ouml;nem &ldquo;fotografik d&ouml;nem&rdquo; anlamına gelen Almanca &ldquo;graphishe kunts&rdquo; kavramıyla ifade edilmiştir.
+    - C-) &Ouml;zg&uuml;n baskı sanatlarında fotoğrafın kullanılmaya başlandığı d&ouml;nem &ldquo;grafik baskı&rdquo; anlamına gelen Almanca &ldquo;graphishe kunts&rdquo; kavramıyla ifade edilmiştir.
+    - **Cevap D-) &Ouml;zg&uuml;n baskı sanatlarında g&ouml;rsellerin bir y&uuml;zey &uuml;zerine kazınarak &ccedil;izilmeleri nedeniyle bu sanat dalı &ldquo;grafik sanatı&rdquo; anlamına gelen Almanca &ldquo;graphishe kunts&rdquo; kavramıyla ifade edilmiştir.**
+    - E-) Grafik tasarımda fotoğrafın kullanımıyla elde edilen grafik &ccedil;alışmalar &ldquo;grafik-foto&rdquo; anlamına gelen Almanca &ldquo;graphishe kunts&rdquo; kavramıyla ifade edilmiştir.
     ***
 1. <strong>Fotoğrafta ilk kez negatif-pozitif tekniğin uygulanabildiği g&ouml;r&uuml;nt&uuml;leme tekniğinin adı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Kalotip**
@@ -686,7 +735,7 @@ III. Mısır Piramitleri<br />
     - D-) Fotoğrafların bazı yazılımlar aracılığı ile renkleri &uuml;zerinde oynanması
     - E-) Yazının renginin belirlenmesi
     ***
-1. <strong>Bulunduğu d&ouml;nemi anlatması bakımında diğer &ouml;gelere g&ouml;re daha belirleyici bir etkiye sahip olan afişin temel bileşeni hangisidir?</strong>
+1. <strong>Bulunduğu d&ouml;nemi anlatması bakımından diğer &ouml;gelere g&ouml;re daha belirleyici bir etkiye sahip olan afişin temel bileşeni aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Renk**
     - B-) İmge
     - C-) Tipografi

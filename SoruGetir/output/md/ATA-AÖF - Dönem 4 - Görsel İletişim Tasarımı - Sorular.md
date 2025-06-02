@@ -131,6 +131,13 @@ III. Algılama farklılıkları<br />
     - D-) Arkeoloji
     - **Cevap E-) G&ouml;stergebilim**
     ***
+1. <strong>Aşağıdakilerden hangisinde iletişimin temel &ouml;geleri doğru olarak sıralanmıştır?</strong>
+    - **Cevap A-) Kaynak - Kodlayıcı - İleti - Kanal - Koda&ccedil;an - Alıcı**
+    - B-) İleti - Kaynak - Kodlayıcı - Kanal - Koda&ccedil;an - Alıcı
+    - C-) Kaynak - İleti - Kodlayıcı - Kanal - Koda&ccedil;an - Alıcı
+    - D-) İleti - Kaynak - Kodlayıcı - Koda&ccedil;an - Kanal - Alıcı
+    - E-) Kaynak - Koda&ccedil;an - İleti-Kanal - Kodlayıcı - Alıcı
+    ***
 1. <strong>Aşağıdakilerden hangisi s&ouml;zl&uuml; iletişimin temel &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) S&ouml;zl&uuml; iletişimde kullanılan dil geliştik&ccedil;e iletişimin d&uuml;zeyi de artmaktadır.
     - B-) Bireyler ve gruplar hakkında bilgi edinme fırsatı sunar.
@@ -429,6 +436,13 @@ III. G&ouml;rsel iletişimde yararlanılan farklı disiplinler aktarılmak isten
     - D-) Sanal-Ger&ccedil;ek Ayrımı
     - E-) R&ouml;ntgencilik-Teşhircilik
     ***
+1. <strong>G&ouml;rsel okur yazarlık ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) İlk olarak John L. Debes tarafından kullanılan g&ouml;rsel okuryazarlık, &ouml;zellikle 1990&rsquo;lı yıllardan itibaren bir&ccedil;ok alanda tartışılmıştır.
+    - B-) G&ouml;rsel okuryazarlık g&ouml;rme, &ccedil;&ouml;z&uuml;mleme, kodlama, değerlendirme, tasarımlama ve kurgulama olarak sayılan işlemsel s&uuml;re&ccedil;lerden oluşmaktadır.
+    - C-) G&ouml;rsel okuryazarlık i&ccedil;in &ccedil;ok perspektifli bir yaklaşım ve donanım gereklidir.
+    - D-) G&ouml;rsel okuryazarlık bir&ccedil;ok disiplinin etkin olduğu ve kullanıldığı bir okuma t&uuml;r&uuml;d&uuml;r.
+    - **Cevap E-) G&ouml;rsel okuryazarlık, eleştirel d&uuml;ş&uuml;nmeyi gerektirmez.&nbsp;**
+    ***
 1. <strong>Aşağıdakilerden hangisi televizyonun &ouml;zelliklerinden biri <u>değildir</u>?&nbsp;</strong>
     - A-) Geniş bir hedef kitleye sahiptir.
     - **Cevap B-) Etki d&uuml;zeyi d&uuml;ş&uuml;kt&uuml;r.**
@@ -528,6 +542,13 @@ III. G&ouml;rsel iletişimde yararlanılan farklı disiplinler aktarılmak isten
     - C-) Algılama kişinin bilgi, deneyim ve değer yapısıyla ilgili bir durumdur.
     - D-) Algılama bilgi alma, se&ccedil;me ve anlamlandırma s&uuml;recidir.
     - E-) Algı bir &ouml;rg&uuml;tleme olayıdır.
+    ***
+1. <strong>Aşağıdakilerden hangisi Gestalt Kuramı ile ilintili <u>değildir</u>?</strong> 
+    - A-) İlk defa Alman psikologlar tarafından kullanılmıştır.
+    - B-) G&ouml;rsel bilginin nasıl anlamlı bir b&uuml;t&uuml;ne d&ouml;n&uuml;şt&uuml;ğ&uuml;n&uuml; araştırır.
+    - C-) Almanca form anlamındadır.
+    - D-) G&ouml;rseldeki b&uuml;t&uuml;n, kendini oluşturan par&ccedil;alarından fazlasıdır.
+    - **Cevap E-) Algılamanın kişilere g&ouml;re değişmeyeceğini savunur.**
     ***
 1. <strong>Aşağıdakilerden hangisi algısal &ouml;rg&uuml;tleme yasalarından biri <u>değildir</u>?</strong> 
     - A-) Şekil-zemin ilişkisi
@@ -646,6 +667,13 @@ III. Anlık yaşama<br />
     - D-) iletişime
     - E-) yaratıcılığa
     ***
+1. <strong>Sokrates&rsquo;in kullandığı iletişim tekniği aşağıdakilerden hangisidir?</strong> 
+    - **Cevap A-) Diyalog**
+    - B-) G&ouml;zlem
+    - C-) Savunma
+    - D-) T&uuml;mevarım
+    - E-) T&uuml;mleşik İletişim
+    ***
 1. <strong>Limonata post-modern k&uuml;lt&uuml;rde nasıl &uuml;retilir?</strong> 
     - A-) Yerel lezzetiyle
     - B-) Fabrikalarda
@@ -740,6 +768,13 @@ III. Tek renkle basıldığında &ouml;zelliklerini kaybetmemelidir.<br />
     - C-) Beyin Fırtınası Y&ouml;ntemi (Brainstorming)
     - D-) Kulu&ccedil;ka Y&ouml;ntemi
     - E-) Sentez Y&ouml;ntemi
+    ***
+1. <strong>Aşağıdakilerden hangisi grafik tasarım ilkelerinden benzerlik / zıtlık ilkesini tanımlar?</strong> 
+    - **Cevap A-) Bir kompozisyonda b&uuml;t&uuml;nl&uuml;ğ&uuml; yakalamak i&ccedil;in uyumlu ve benzer yapıların tasarımsal birliğidir.**
+    - B-) Bir kompozisyonun g&ouml;rsel unsurlarının birleşmiş bir b&uuml;t&uuml;ne bir araya getirdiği algısıdır.
+    - C-) Estetik a&ccedil;ıdan g&ouml;ze hoş gelen kompozisyonlar yaratabildiğimiz bir tasarım prensibidir.
+    - D-) Gruplama ve vurgu ile yakından ilişkili olan bir tasarım prensibidir.
+    - E-) Seyircinin veya t&uuml;keticinin g&ouml;rmesi gereken g&ouml;rsel veri miktarını sınırlamak anlamına gelir.
     ***
 1. <strong>Aşağıdakilerden hangisi Brief kelimesinin anlamıdır?</strong> 
     - **Cevap A-) Y&ouml;n bilgi / a&ccedil;ıklama**
@@ -907,6 +942,13 @@ III. Sembol, tek renkle basıldığında &ouml;zelliklerini kaybetmemelidir.<br 
     - C-) Cilalar ve sıvı kaplamalar en iyi kaplanmış k&acirc;ğıtlar &uuml;zerinde &ccedil;alışır.
     - D-) Kaplamaların kullanılan m&uuml;rekkep t&uuml;r&uuml;yle de uyumlu olmaları gerekir.
     - E-) UV kaplamalar sıvı olarak yayılır, ardından ultraviyole ışıkla sertleştirilir.
+    ***
+1. <strong>Aşağıdakilerden hangisi &ccedil;oğunlukla sanatsal &uuml;retimlerde kullanılan ve g&ouml;r&uuml;nt&uuml;n&uuml;n ipekten yapılmış bir kalıp &uuml;zerine ge&ccedil;irildiği m&uuml;rekkepli baskı t&uuml;r&uuml;d&uuml;r ?&nbsp;</strong>
+    - A-) Flekso baskı
+    - B-) Rotarav&uuml;r
+    - C-) Pantone altı renkli baskı
+    - D-) Rotatif
+    - **Cevap E-) Serigrafi**
     ***
 1. <strong>&Uuml;r&uuml;n&uuml;n&uuml;n tasarlanarak g&ouml;rselleştirilmesi aşamasında başvurulan teknik işlemler b&uuml;t&uuml;n&uuml; aşağıdakilerden hangisiyle ifade edilir?&nbsp;</strong>
     - A-) Tipografi&nbsp;

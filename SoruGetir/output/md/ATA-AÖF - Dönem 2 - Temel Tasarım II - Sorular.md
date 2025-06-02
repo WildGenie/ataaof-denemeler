@@ -1,5 +1,12 @@
 # Temel Tasarım II
 ## Unite 1
+1. <strong>Yaşamdaki boşluk algısına y&ouml;nelik olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Karar verme yetimizi etkiler.
+    - B-) Eylemde bulunma yetimizi etkiler.
+    - **Cevap C-) D&uuml;ş&uuml;nme bi&ccedil;imimizi etkilemez.**
+    - D-) Hareketlerimizin temel dayanaklarından biridir.
+    - E-) İnsan, boşluk i&ccedil;erisinde varlık kazanır.
+    ***
 1. Boş alan, &hellip;&hellip;&hellip;&hellip;. değildir. Boş olan bir alandır, bir mek&acirc;ndır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) g&ouml;rsel &ouml;ge
@@ -169,6 +176,13 @@ III. Katman<br />
     - **Cevap D-) Katmanlar, temel bir d&uuml;ş&uuml;nme y&ouml;ntemi olarak tasarımcının yaratıcı fikrine ışık tutmaz.**
     - E-) Tasarımcının g&ouml;rsel dilini zenginleştiren katmanlar, tasarıma &ouml;znel bir kimlik kazandırabilir.
     ***
+1. <strong>&Ccedil;ok katmanlı y&uuml;zeyi aşağıdakilerden hangisi a&ccedil;ıklar?</strong>
+    - A-) Arka plan olarak tanımlanan bir zemin &uuml;zerinde, bir veya birden fazla grafik &ouml;genin aynı d&uuml;zlemde algılandığı bir tasarımdır.
+    - B-) Arka plan olarak tanımlanan bir zemin &uuml;zerinde, &uuml;&ccedil; grafik &ouml;genin aynı d&uuml;zlemde algılandığı bir tasarımdır.
+    - C-) Arka plan olarak tanımlanan bir zemin &uuml;zerinde, &ouml;n plandaki katmanın yer aldığı bir tasarımdır.
+    - D-) Arka plan olarak tanımlanan bir zemin &uuml;zerinde, iki veya &ccedil;ok sayıdaki grafik &ouml;ge arasındaki ilişkilere bağlı olarak iki katmanın yer aldığı bir tasarımdır.
+    - **Cevap E-) Arka plan olarak tanımlanan bir zemin &uuml;zerinde, birden fazla grafik &ouml;ge arasındaki ilişkiye bağlı olarak &ccedil;ok sayıda katmanın yer aldığı bir tasarımdır.**
+    ***
 1. <strong>Tek, iki ve &ccedil;ok katmanlı y&uuml;zeye y&ouml;nelik yapılacak g&ouml;rsel araştırmaların tasarımdaki &ouml;nemiyle ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) İ&ccedil;erik ve bi&ccedil;im arasında doğru saptamalarda bulunmayı etkileyecek
     - B-) Yaratıcılığın gelişmesine neden olacak
@@ -265,6 +279,14 @@ III. Yardımcı &ouml;ge<br />
     - C-) Cayton
     - **Cevap D-) Arnheim**
     - E-) Bone
+    ***
+1. Kompozisyon, &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.. arasındaki etkileşimin &uuml;r&uuml;n&uuml;d&uuml;r.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) form ve doku
+    - B-) şekil ve doku
+    - C-) g&ouml;rsel &ouml;ge ve renk
+    - D-) &ouml;n-arka plan
+    - **Cevap E-) bi&ccedil;im ve i&ccedil;erik**
     ***
 1. I. Yerleştirme<br />
 II. D&uuml;zenleme<br />
@@ -403,6 +425,13 @@ III. Perspektif barok d&ouml;nemiyle kullanıma başladığı kabul edilir.<br /
     - D-) Ka&ccedil;ış &ccedil;izgileri
     - E-) G&ouml;lgelerin ka&ccedil;ış noktası
     ***
+1. <strong>Tasarımda perspektif y&ouml;ntemlerinden yararlanarak mesajı &ouml;ne &ccedil;ıkarmak i&ccedil;in aşağıdakilerden hangisi kullanılır?</strong>
+    - A-) Metafor
+    - B-) Deformasyon
+    - C-) Tipografi
+    - D-) Işık kaynağı
+    - **Cevap E-) Hiyerarşi**
+    ***
 1. Demir yolunun ortasında durarak ileriye doğru bakılırsa bu paralel doğruların ufka doğru daraldıkları ve nihayet ta uzaklarda bir noktada birleşmiş duruma geldikleri g&ouml;r&uuml;l&uuml;r.<br />
 <strong>Yukarıda hangi perspektif y&ouml;ntemine ait bir &ouml;rnek verilmiştir?</strong>
     - A-) A&ccedil;ısal perspektif
@@ -511,6 +540,14 @@ III. G&uuml;neş ışınları yapay aydınlatmaların tersine radyal bi&ccedil;i
     - C-) postmodernistler / heykeller
     - **Cevap D-) ger&ccedil;ek&uuml;st&uuml;c&uuml;ler / fotomontajlar**
     - E-) konstr&uuml;ktivistler / asamblajlar
+    ***
+1. Postmodernist akımın temsilcilerinden April Greiman kolaj &ouml;gelerini ........................ kurgulanmış, bu durum kompozisyonlarda kargaşadan &ccedil;ok yeni bir d&uuml;zen anlayışını oluşturacak g&ouml;r&uuml;nt&uuml;y&uuml; ortaya koymuştur.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) sezgisel bi&ccedil;imde**
+    - B-) sistematik bi&ccedil;imde
+    - C-) simetrik bi&ccedil;imde
+    - D-) &ccedil;ok renkli olarak
+    - E-) dokusal olarak
     ***
 1. I. Fotomontaj y&ouml;ntemi K&uuml;bizm ile birlikte uygulanmaya başlamıştır.<br />
 II. Kolaj, analitik ve sentetik K&uuml;bizme kolay uyum sağlayacak yapıdaydı.<br />
@@ -653,6 +690,13 @@ III. Marksist Estetik, sanatı yaşamın bir yansıması olarak ele alır.<br />
     - C-) Sezgi-Algılama-Duyum-Bi&ccedil;imlendirme
     - D-) Bi&ccedil;imlendirme-Sezgi-Duyum-Algılama
     - E-) Algılama-Bi&ccedil;imlendirme-Duyum-Sezgi
+    ***
+1. <strong>Sanatsal imgenin &ouml;zelliklerinden biri olarak aşağıdakilerden hangisi&nbsp;<u>d&uuml;ş&uuml;n&uuml;lemez</u>?</strong>
+    - A-) Depolanmış imgeler &ouml;znel yaklaşımlarla birleştirilerek kullanılır.
+    - **Cevap B-) Duyumlardan &ccedil;ok tasvirlere dayanır.**
+    - C-) Yaratma eyleminin devreye girmesiyle ortaya &ccedil;ıkar.
+    - D-) Ger&ccedil;ekliğin imgelem yoluyla anlatılması durumudur.
+    - E-) Soyutlama yetisinin sonucudur.
     ***
 1. <strong>&ldquo;İmajinasyon&rdquo; i&ccedil;in aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
     - **Cevap A-) İmgelerin zihinde depolanmasıdır.**
@@ -890,6 +934,13 @@ III. Terapotik<br />
     - C-) Aristotales
     - D-) Agustinus
     - E-) Thomas Hobbes
+    ***
+1. <strong>Metaforun temelleri ve gelişmesiyle ilgili olarak aaşağıdaki ifadelerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Kavramın temelleri Platon&rsquo;a kadar dayanan, kendi d&uuml;ş&uuml;nce sistemlerini geliştirmiş filozoflarca atılmış ve geliştirilmiştir.
+    - B-) &quot;Geleneksel Metafor Yaklaşımları&rdquo; kavramın ş&uuml;pheci, negatif bi&ccedil;imde ikincil planda ele alındığı d&ouml;nemleri ifade eder.
+    - C-) Orta &Ccedil;ağ d&uuml;ş&uuml;n&uuml;rleri ise teolojiye (tanrıbilim) dair bilgileri metaforlarla anlaşılır kılmaya &ccedil;alışmışlardır.
+    - **Cevap D-) Modern d&ouml;nemlerde de metafora karşı eleştirel yaklaşılmamıştır.**
+    - E-) Metafor kavramının geleneksel tanımlamalarına karşı yeni fikirler geliştirilen d&uuml;ş&uuml;n&uuml;rler arasında ilk Nietzsche gelir.
     ***
 1. Sanat&ccedil;ı, deneyimlerini ve i&ccedil;sel kaygılarını ele alırken &ccedil;eşitli g&ouml;rsel meteforlardan faydalanmaktadır.<strong><br />
 Aşağıdakilerden hangisi g&ouml;rsel metafor &uuml;retmek i&ccedil;in kullanılan alt başlıklardan biri <u>değildir</u>?</strong>

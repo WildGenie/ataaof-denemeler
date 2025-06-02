@@ -110,6 +110,13 @@
     - **Cevap D-) Kitlesizleştirme**
     - E-) Etkileşim
     ***
+1. <strong>Masa&uuml;st&uuml; yayıncılıkta kullanılan bilgisayarlar hangi a&ccedil;ıdan tasarruf sağlamaktadır?</strong>
+    - A-) B&uuml;t&ccedil;e a&ccedil;ısından
+    - **Cevap B-) İş g&uuml;c&uuml; ve insan ihtiyacı a&ccedil;ısından**
+    - C-) K&acirc;ğıt masrafları a&ccedil;ısından
+    - D-) Dağıtım a&ccedil;ısından
+    - E-) Baskı a&ccedil;ısından
+    ***
 1. <strong>&nbsp;İşletmeler a&ccedil;ısından aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılık avantajlarından biridir?</strong>
     - A-) Dijital yayınlara ulaşma, iki taraflı iletişim
     - B-) &Ccedil;ağdaş bilgisayar teknolojilerinden yararlanma
@@ -161,6 +168,14 @@
     - C-) Tasarımda ama&ccedil;lanan etkiyi elde etmek i&ccedil;in rengin nasıl sunulacağı ve hangi etkinin istenildiği, yayıncılık i&ccedil;in &ouml;nem teşkil etmektedir.
     - D-) &Ouml;zel karışımlı renklendirme sisteminde tasarım &uuml;zerinde belirlenen renk tonları, ana m&uuml;rekkep değerlerinin belirli oranda karıştırılmasıyla elde edilmektedir.
     - E-) Masa&uuml;st&uuml; yayıncılıkta renk sayısının ne olacağı hususunda dok&uuml;man i&ccedil;erisinde resim kullanılmadıysa baskının daha kaliteli, renklerin ise daha parlak olması i&ccedil;in pantone renkleri kullanılır.
+    ***
+1. &hellip;&hellip;&hellip;&hellip;.. kavramı alanyazında, ışığın madde &uuml;zerine &ccedil;arpması, soğrulması sonucunda değişik dalga boylarının g&ouml;z&uuml;n belirli b&ouml;lgelerine ulaşması sonucunda beyinde meydana gelen algı olarak tanımlanmaktadır.<br />
+<strong>Yukarıdaki c&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) Renk**
+    - B-) Piksel
+    - C-) &Ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k
+    - D-) Tipo
+    - E-) Mizanpaj
     ***
 1. <strong>Aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılıkta kullanılan temel kavramlardan biri <u>değildir</u>?</strong>
     - A-) Renk<br />
@@ -381,6 +396,13 @@ III.&nbsp;Ofset baskı<br />
     - **Cevap D-) Yazı Tipi Tercihleri**
     - E-) Metin D&uuml;zeni
     ***
+1. <strong>Aşağıdakilerden hangisi masa&uuml;st&uuml; yayımcılıkta genellikle &ouml;nceden oluşturulmuş şablonların kullanım faydalarından biri <u>değildir</u>?</strong>
+    - A-) Zamandan kazanma
+    - B-) Daha d&uuml;ş&uuml;k maliyetle yayın yapma
+    - C-) Birbiriyle ilişkili olan yayınlarda pratiklik sağlama
+    - D-) Acemi tasarımcılara kolaylık sağlama
+    - **Cevap E-) B&uuml;t&uuml;n yayımlarda aynı formu kullanma**
+    ***
 1. <strong>Masa&uuml;st&uuml; yayımcılıkta belge oluşturulduktan sonra aşağıdaki aşamalardan hangisine ge&ccedil;ilmektedir?</strong>
     - A-) Şablon belirleme
     - B-) Sayfa boyutu
@@ -521,6 +543,13 @@ IV. Farklı renk kullanma<br />
     - D-) İki yana hizalama
     - **Cevap E-) Ortaya hizalama**
     ***
+1. <strong>&nbsp;Aşağıdakilerden hangisi metin tasarımını tamamlayıcı unsurlardan biri <u>değildir</u>?</strong>
+    - A-) Resimler
+    - B-) Grafikler
+    - C-) Şekiller
+    - D-) SmartArt grafikler
+    - **Cevap E-) Yazı tipi boyutu**
+    ***
 1. <strong>&nbsp;Kesintisiz bir s&uuml;reci g&ouml;stermek i&ccedil;in kullanılan SmartArt grafik t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) &nbsp;Matris&nbsp;
     - B-) İşlem
@@ -652,6 +681,13 @@ III. Kalın yazma<br />
     - **Cevap D-) Dosya**
     - E-) Sayfa Tasarımı
     ***
+1. <strong>Aşağıdaki durumlardan hangisi broş&uuml;r uygulamasında 2. aşamada, tasarım &ouml;ğelerini belirlemek i&ccedil;in <u>yapılmaz</u>?</strong>
+    - A-) Broş&uuml;r&uuml;n yapısının ve sayfa sayısının belirlenmesi
+    - B-) Broş&uuml;rde hangi g&ouml;rsel ve s&ouml;zel ifadelerin kullanılacağının belirlenmesi
+    - **Cevap C-) Broş&uuml;r&uuml;n amacının belirlenmesi**
+    - D-) Her bir sayfada &ouml;gelerin yerleşim d&uuml;zeninin tespit edilmesi
+    - E-) Broş&uuml;r&uuml;n zemin ve yazı renginin belirlenmesi
+    ***
 1. I.&nbsp;Kurum, kuruluş ya da birimlerin reklamlarını yapmak<br />
 II. Bir &uuml;r&uuml;n veya hizmet satmaya zorlamak<br />
 III.&nbsp;Eğitim, sağlık, ticaret, ulaşım, eğlence ve iletişim programları ile bilgi vermek<br />
@@ -775,6 +811,13 @@ III.&nbsp;Eğitim, sağlık, ticaret, ulaşım, eğlence ve iletişim programlar
     - D-) Fotoğraf kalitesinde &uuml;retim yapılamamaktadır.
     - E-) Doğrudan web ortamında kullanılabilmektedir.
     ***
+1. <strong>Aşağıdakilerden hangisi Adobe Fireworks yazılımının proje dosyalarının uzantısıdır?</strong>
+    - A-) JPEG
+    - B-) GIF
+    - C-) PDF
+    - **Cevap D-) PNG**
+    - E-) PSD
+    ***
 1. <strong>Aşağıdakilerden hangisi g&ouml;rsel tasarım unsurlarından biri <u>değildir</u>?</strong>
     - A-) &Ccedil;izgi
     - B-) Şekil
@@ -810,6 +853,13 @@ III.&nbsp;Eğitim, sağlık, ticaret, ulaşım, eğlence ve iletişim programlar
     - C-) Kes-yapıştır
     - D-) İki boyutlu
     - E-) &Uuml;&ccedil; boyutlu
+    ***
+1. <strong>Aşağıdakilerden hangisi Adobe Edge Animate programı hakkında doğru bir ifade <u>değildir</u>?</strong>
+    - A-) Tasarımcıların ve web geliştiricilerin HTML5 tabanlı animasyonlar geliştirmek i&ccedil;in kullandığı bir programdır.
+    - B-) Zaman &ccedil;izgisi paneli kullanılarak nesnelere kolayca hareket kazandırma &ouml;zelliğine sahiptir.
+    - C-) Tasarlanan grafiklere kolayca g&ouml;lge, bulanıklık ve renk doygunluğu gibi CSS filtreleri uygulanabilir.
+    - D-) Oluşturulan animasyonlar her boyuttaki cihaz ekranına uyum sağlayabilecek boyutlandırma &ouml;zelliklerine sahiptir.
+    - **Cevap E-) Oluşturulan animasyonlar web sayfalarında yayınlanacak formatta paketlenemezler.**
     ***
 1. <strong>&nbsp;Animasyonun oynatma hızını ifade etmek i&ccedil;in aşağıdaki terimlerden hangisi kullanılır?</strong>
     - A-) CSS: Cascading Style Sheet

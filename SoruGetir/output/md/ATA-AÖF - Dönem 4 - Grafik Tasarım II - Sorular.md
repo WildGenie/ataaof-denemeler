@@ -91,6 +91,13 @@
     - D-) Bhimbetka Mağarası
     - E-) Eller Mağarası
     ***
+1. <strong>Toplumcu Yaklaşım hangi d&ouml;nemde &ouml;nem kazanmaya başlamıştır?</strong> 
+    - A-) Orta &Ccedil;ağ
+    - **Cevap B-) R&ouml;nesans**
+    - C-) Aydınlanma
+    - D-) Postmodernizm
+    - E-) Modernizm
+    ***
 1. <strong>Aşağıdakilerden hangisi afiş tasarımında Plakatstil tarzının &ouml;zelliklerinden biridir?</strong> 
     - A-) Yoğun &ccedil;izgiler
     - B-) Karışık renkler
@@ -183,6 +190,13 @@
     - **Cevap D-) &Ccedil;ok b&uuml;y&uuml;k ebatlı baskı imk&acirc;nı**
     - E-) D&uuml;ş&uuml;k &ccedil;ıkış maliyeti
     ***
+1. <strong>Aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılık amacıyla kullanılan bilgisayarın monit&ouml;r&uuml;nden beklenen &ouml;zelliklerden biri <u>değildir</u>?</strong> 
+    - A-) B&uuml;y&uuml;k olması
+    - B-) Hızlı tepki s&uuml;resine sahip olması
+    - C-) Y&uuml;ksek &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğe sahip olması
+    - **Cevap D-) &Ccedil;ok y&uuml;ksek kontrastlı olması**
+    - E-) Renk tutarlılığına sahip olması
+    ***
 1. <strong>Bilgisayarın kullanılmadığı manuel grafik tasarım d&ouml;neminde, tasarımda kullanılacak g&ouml;rselleri ve diğer tasarım elemanlarını tasarım planına g&ouml;re sayfalara (veya astrolona) yapıştıran meslek elemanı aşağıdakilerden hangisidir?</strong> 
     - A-) Agrandiz&ouml;r
     - **Cevap B-) Pikaj&ouml;r**
@@ -274,6 +288,13 @@
     - C-) Alpha ve Delta s&ouml;zc&uuml;klerinin bir araya gelmesinden t&uuml;remiştir.
     - D-) Beta ve Gama s&ouml;zc&uuml;klerinin bir araya gelmesinden t&uuml;remiştir.
     - E-) Tetra ve Gama s&ouml;zc&uuml;klerinin bir araya gelmesinden t&uuml;remiştir.
+    ***
+1. <strong>Gutenberg aşağıdakilerden hangisini icat etmiştir?</strong>
+    - A-) K&acirc;ğıt
+    - B-) Yapışkan
+    - **Cevap C-) M&uuml;rekkep**
+    - D-) Bı&ccedil;ak
+    - E-) Kalem
     ***
 ## Unite 4
 1. <strong>Aşağıdakilerden hangisi &ccedil;evre grafiği alanlarından biri <u>değildir</u>?</strong> 
@@ -463,6 +484,13 @@ III. Mek&acirc;nla uyum sağlayan grafikler<br />
     - D-) Linol blok &uuml;zerindeki negatif alanların oyulması&nbsp;
     - E-) Baskı m&uuml;rekkebinin d&uuml;z bir y&uuml;zey &uuml;zerine spatula ile s&uuml;r&uuml;lmesi
     ***
+1. <strong>Aşağıdaki baskı tekniklerinden hangisinde sadece bir eser basılabilir?</strong>
+    - **Cevap A-) Mono baskı**
+    - B-) Linol baskı
+    - C-) Serigrafi baskı
+    - D-) Ofset baskı
+    - E-) Litografi (taş) baskı
+    ***
 1. <strong>Aşağıdaki tekniklerin hangisinde oluşturulan g&ouml;r&uuml;nt&uuml; baskıda pozitif olarak &ccedil;ıkar?</strong>
     - A-) Leke baskı
     - **Cevap B-) Y&uuml;ksek yedirme**
@@ -566,6 +594,13 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - D-) Diğer yazı elemanları
     - E-) Renk
     ***
+1. <strong>Aşağıdakilerden hangisi logo tasarımı yapılırken g&ouml;z &ouml;n&uuml;ne <u>alınmaz</u>?</strong>
+    - **Cevap A-) Kurumun &uuml;rettiği &uuml;r&uuml;n ve hizmetlerin maliyeti**
+    - B-) Kurumun felsefesi
+    - C-) Kurumun diğer kurumlardan farklı &ouml;zellikleri
+    - D-) Kurumun misyonu
+    - E-) Kurumun vizyonu
+    ***
 1. <strong>Stil y&ouml;nergesinde <u>bulunmaması </u>gereken unsur aşağıdakilerden hangisidir?</strong>
     - A-) Logo
     - B-) Renk
@@ -579,6 +614,13 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - C-) Tasarım yapılırken sulu boya kullanılması şarttır.
     - D-) Tasarım yapılırken kurumun b&uuml;t&ccedil;esi yazılmalıdır.
     - E-) Tasarım yapılırken pastel renk kullanılması şarttır.
+    ***
+1. <strong>Aşağıdakilerden hangisi yazı tipi se&ccedil;iminde &ouml;nemli <u>değildir</u>?</strong>
+    - A-) Kurumsal kimliğin diğer &ouml;geleri ile uyumu
+    - B-) Okunurluk
+    - C-) Kurumun vizyonunu g&ouml;stermesi
+    - D-) Kurumun felsefesini yansıtması
+    - **Cevap E-) Serif i&ccedil;ermeyen bir font olması zorunluluğu**
     ***
 ## Unite 7
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımı dallarından biridir?</strong>
@@ -657,6 +699,13 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - C-) Y&ouml;nlendirme tasarımı
     - **Cevap D-) Harita tasarımı**
     - E-) Kitap tasarımı
+    ***
+1. <strong>Aşağıdakilerden hangisi bilgiyi <u>tanımlamaz</u>?</strong>
+    - A-) İnsan aklının erebileceği olgu
+    - B-) &Ouml;ğrenme, araştırma veya g&ouml;zlem yolu ile elde edilen ger&ccedil;ek
+    - C-) İnsan zek&acirc;sının &ccedil;alışması sonucu ortaya &ccedil;ıkan d&uuml;ş&uuml;nce &uuml;r&uuml;n&uuml;
+    - **Cevap D-) Zihinde canlandırılan bi&ccedil;im**
+    - E-) Kurallardan yararlanarak kişinin veriye y&ouml;nelttiği anlam
     ***
 1. <strong>Aşağıdakilerden hangisi tasarım kavramını <u>a&ccedil;ıklamaz</u>?</strong>
     - A-) Zihinde canlandırılan bi&ccedil;im

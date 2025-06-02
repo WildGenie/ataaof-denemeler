@@ -24,6 +24,13 @@ III. TBMM H&uuml;k&ucirc;meti&#39;nin imzaladığı ilk siyasi antlaşmadır.<br
     - D-) Spa Konferansı
     - E-) Lozan Konferansı
     ***
+1. <strong>I. İn&ouml;n&uuml; Savaşı&#39;nın kazanılmasından sonra TBMM H&uuml;k&ucirc;meti ile Sovyet Rusya arasında imzalanan antlaşma aşağıdakilerden hangisidir?</strong>
+    - A-) G&uuml;mr&uuml; Antlaşması
+    - B-) Kars Antlaşması
+    - C-) Ankara Antlaşması
+    - D-) İstanbul Antlaşması
+    - **Cevap E-) Moskova Antlaşması**
+    ***
 1. <strong>Aşağıdaki hangi gelişmeyle&nbsp;</strong><strong>Kuva-yı Milliye sonra ermiştir?</strong>
     - A-) Sakarya Savaşı&rsquo;ndan sonra
     - **Cevap B-) I. İn&ouml;n&uuml; Savaşı&rsquo;ndan sonra**
@@ -255,6 +262,13 @@ Aşağıdakilerin hangisiyle bu durumun giderilmesine &ccedil;alışılmıştır
     - D-) Sevr Antlaşması
     - E-) Mondros M&uuml;tarekesi
     ***
+1. <strong>Aşağıdaki antlaşmalardan hangisiyle S&uuml;leyman Şah&#39;ın mezarının bulunduğu Caber Kalesi&#39;nde T&uuml;rk bayrağının dalgalanması ve Caber Kalesi&#39;nin T&uuml;rk toprağı olarak kalması kabul edilmiştir?&nbsp;</strong>
+    - A-) Moskova Antlaşması&nbsp;
+    - B-) Kars Antlaşması&nbsp;
+    - C-) G&uuml;mr&uuml; Antlaşması&nbsp;
+    - **Cevap D-) Ankara Antlaşması**
+    - E-) Mudanya Ateşkes Antlaşması&nbsp;
+    ***
 1. <strong>TBMM 5 Ağustos 1921 tarihinde &ccedil;ıkarmış olduğu bir kanunla Mustafa Kemal&#39;e hangi g&ouml;revi vermiştir?&nbsp; </strong><br />
 
     - **Cevap A-) Başkomutanlık&nbsp;**
@@ -295,6 +309,13 @@ III. Mill&icirc; egemenlik ilkesi uygulamaya ge&ccedil;ti.<br />
     - C-) Hilafetin kaldırılması
     - D-) Halk Fırkas&#39;ının kuruluşu
     - E-) TBMM&#39;nin a&ccedil;ılması
+    ***
+1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Ankara&#39;nın yeni T&uuml;rk Devleti&#39;nin başkenti olarak kabul edilmesinde etkili <u>olmamıştır</u>?</strong>
+    - A-) Mill&icirc; M&uuml;cadele&#39;nin merkezi olması
+    - B-) Coğrafi konumu nedeniyle işgal edilmesinin zor olması
+    - C-) Ulaşım imk&acirc;nlarının iyi olması
+    - **Cevap D-) Yabancı devletlerin Ankara&#39;yı tercih etmeleri**
+    - E-) Jeopolitik konumu nedeniyle İstanbul&#39;un işgallere a&ccedil;ık olması
     ***
 1. <strong>Aşağıdakilerden hangisinde&nbsp;</strong><strong>T&uuml;rkiye Cumhuriyeti&#39;nin ilk cumhurbaşkanı ile ilk başbakanı&nbsp;</strong><strong>doğru verilmiştir?</strong>
     - **Cevap A-) Mustafa Kemal Paşa-İsmet Paşa**
@@ -456,6 +477,14 @@ IV. Osmanlı Devleti<br />
     - D-) Refet Bele
     - **Cevap E-) Ali Fethi Okyar**
     ***
+1. Şeyh Sait İsyanı s&uuml;recinde Cumhuriyet Halk Fırkası Grubu toplantısında, isyanın bastırılması ile ilgili olarak Başbakan Ali Fethi Bey&rsquo;in almış olduğu tedbirler ve olaya bakış a&ccedil;ısı b&uuml;y&uuml;k tenkit g&ouml;rd&uuml;. Bunun &uuml;zerine Fethi Bey H&uuml;k&uuml;meti istifa etmek zorunda kaldı.<br />
+<strong>İsyanla daha etkin m&uuml;cadele edebilmek i&ccedil;in yeni h&uuml;k&ucirc;meti kuran kişi aşağıdakilerden hangisidir?</strong>
+    - A-) Ali Fuat Paşa
+    - **Cevap B-) İsmet Paşa**
+    - C-) Fevzi Paşa
+    - D-) Celal Bayar
+    - E-) Adnan Menderes
+    ***
 1. <strong>Terakkiperver Cumhuriyet Fırkası&rsquo;nın savunduğu fikirler arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
     - A-) Egemenliğin halka ait olduğu
     - B-) Cumhuriyet y&ouml;netimini yaşatmak ve geliştirmenin esas gayeleri olduğu
@@ -616,6 +645,14 @@ III. Kuvvetler Birliği İlkesi esas alınmıştır.<br />
     - C-) Mecelle
     - D-) Norm
     - E-) Meşrutiyet
+    ***
+1. <strong>Tanzimat ile Cumhuriyet arası d&ouml;nemde hukuk&icirc; gelişmelerin sebepleri arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong><br type="_moz" />
+
+    - A-) Avrupa&rsquo;da b&uuml;rokraside ve bilgi d&uuml;zeyindeki gelişmeler
+    - B-) Sosyok&uuml;lt&uuml;rel hayatta ortaya &ccedil;ıkan gelişmeler
+    - C-) Ticari ve iktisadi usullerdeki değişiklikler
+    - D-) Batılı devletlerin Osmanlı Devleti nezdindeki baskıları
+    - **Cevap E-) Osmanlı&rsquo;nın bor&ccedil;larını &ouml;deyememesi**
     ***
 1. <strong>Medeni Kanun&rsquo;la hangi t&uuml;r toplumsal ilişki veya y&ouml;ntem d&uuml;zenlenir?</strong>
     - A-) Hırsızlık yapanla malı &ccedil;alınan arasındaki ilişki
@@ -852,6 +889,13 @@ III. &Uuml;niversite reformunun hazırlanması<br />
     - D-) Abd&uuml;lmecit
     - **Cevap E-) II. Mahmut**
     ***
+1. <strong>1924 yılında alfabe konusunda Arap harflerinin yetersizliğini TBMM&rsquo;de ilk defa g&uuml;ndeme getiren milletvekili aşağıdakilerden hangisidir?</strong>
+    - A-) Halide Edip Adıvar
+    - B-) Kazım Karabekir
+    - **Cevap C-) Ş&uuml;kr&uuml; Sara&ccedil;oğlu**
+    - D-) Celal Bayar
+    - E-) Ziya G&ouml;kalp
+    ***
 ## Unite 7
 1. <strong>Kadınlara milletvekili se&ccedil;me ve se&ccedil;ilme hakkını veren Anayasa değişikliği hangi tarihte ger&ccedil;ekleşmiştir?</strong>
     - A-) 3 Mart 1924
@@ -964,6 +1008,13 @@ V. Miladi takvimin kabul edilmesi<br />
     - C-) 25 Kasım 1924&nbsp;
     - **Cevap D-) 25 Kasım 1925&nbsp;**
     - E-) 25 Kasım 1926&nbsp;
+    ***
+1. <strong>Şapka Kanunu ile &ouml;zdeşleşen ilimiz aşağıdakilerden hangisidir?&nbsp;</strong>
+    - A-) Bolu
+    - **Cevap B-) Kastamonu**
+    - C-) &Ccedil;orum&nbsp;
+    - D-) &Ccedil;ankırı&nbsp;
+    - E-) Niğde
     ***
 1. <strong>Mustafa Kemal Paşa&#39;ya &quot;Atat&uuml;rk&quot; soyadının verilmesini teklif eden milletvekili aşağıdakilerden hangisidir?</strong>
     - A-) Ş&uuml;kr&uuml; Sara&ccedil;oğlu
@@ -1598,7 +1649,7 @@ V. Postdam Konferansı<br />
     - D-) Cumhuriyet&ccedil;ilik
     - E-) Laiklik
     ***
-1. <strong>Aşağıda&nbsp; verilen ifadelerden hangisi doğru <u>değildir</u>?</strong>
+1. <strong>Y&ouml;netim ile ilgili olarak aşağıdaki ifadelerden hangisi <u>yanlıştır?</u></strong>
     - **Cevap A-) Monarşik y&ouml;netimler veraset şartını reddeder.**
     - B-) Her Cumhuriyet demokratik değildir.
     - C-) Cumhuriyet rejiminde mutlaka se&ccedil;im vardır.

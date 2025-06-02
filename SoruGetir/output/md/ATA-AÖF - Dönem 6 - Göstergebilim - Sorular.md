@@ -142,6 +142,14 @@ III. &Ccedil;eviribilim<br />
     - **Cevap D-) Yalnız III**
     - E-) I, II ve III
     ***
+1. <strong>Bir g&ouml;stergenin başka bir anlam amacıyla başka bir anlama ge&ccedil;mek i&ccedil;in kullanılmasına ne ad verilir?</strong><br />
+
+    - **Cevap A-) Yan anlam**
+    - B-) D&uuml;z anlam
+    - C-) &Ccedil;oklu anlam
+    - D-) İkili anlam
+    - E-) Metafor
+    ***
 1. <strong>G&ouml;sterge Kuramının Temelleri (Foundation of the Theory of Signs) adlı yapıt aşağıdakilerden hangisine aittir?</strong><br />
 
     - A-) Charles Sanders Peirce
@@ -325,6 +333,14 @@ III. Yorum<br />
     - **Cevap D-) Chomsky**
     - E-) Grimm
     ***
+1. <strong>Evrensel Dil Bilgisi g&ouml;r&uuml;ş&uuml;ne karşı &ccedil;ıkan, dilin bilişsel s&uuml;re&ccedil;lerin &uuml;r&uuml;n&uuml; olduğunu, dolayısıyla t&uuml;m insanlar i&ccedil;in ge&ccedil;erli bir dil bilgisel sistemin var olamayacağını savunan teori aşağıdakilerden hangisidir?</strong><br />
+
+    - A-) D&ouml;n&uuml;ş&uuml;msellik
+    - B-) &Uuml;retimsellik
+    - C-) Yapısalcılık
+    - D-) İşlevselcilik
+    - **Cevap E-) Bilişselcilik**
+    ***
 1. <strong>Dilde anlam problemini ciddi bir bi&ccedil;imde inceleyen ve Antik Yunan&rsquo;da dil alanındaki ilk eser olan Kratylos&#39;u yazan filozof aşağıdakilerden hangisidir?</strong>
     - A-) Homeros
     - B-) Marcus Terentius Varro
@@ -451,6 +467,14 @@ III. K&uuml;lt&uuml;r dile benzer.<br />
     - C-) Claude L&eacute;vi-Strauss
     - D-) Karl Marx
     - E-) Max Weber
+    ***
+1. <strong>Aşağıdakilerden hangisi yapısalcılığın, Ferdinand de Saussure tarafından ortaya koyulan dil bilimsel kurallara bağlılık g&ouml;steren şeklinin temel &ouml;zellikleri arasında <u>yer almaz</u>?</strong><br />
+
+    - A-) Dil ile ilgilenme
+    - B-) &Ouml;znelciliğe saldırı
+    - C-) H&uuml;manizme saldırı
+    - **Cevap D-) Tarihselcilikten yararlanma**
+    - E-) İkili karşıtlıklarla ilgilenme
     ***
 1. <strong>&quot;Genel Dilbilim Dersleri&quot; adlı eseriyle dilbilimin kurucularından biri olarak tanınan &uuml;nl&uuml; İsvi&ccedil;reli dilbilimci kimdir?</strong>
     - A-) Megill
@@ -632,6 +656,14 @@ III. K&uuml;lt&uuml;r dile benzer.<br />
     - D-) Kristeva
     - E-) Foucault
     ***
+1. <strong>Lacan&rsquo;ın babanın dili olarak kabul ettiği evre aşağıdakilerden hangisidir?</strong><br />
+
+    - A-) G&ouml;stergesel dil
+    - **Cevap B-) Sembolik dil**
+    - C-) Ego evresi
+    - D-) İd evresi
+    - E-) Oedipus&nbsp; evresi
+    ***
 1. <strong>&Ouml;zne kavramı ilk olarak aşağıdakilerden hangisi tarafından tartışmaya a&ccedil;ılmıştır?</strong>
     - **Cevap A-) Michel Foucault**
     - B-) Paul De Man
@@ -756,6 +788,14 @@ III. K&uuml;lt&uuml;r dile benzer.<br />
     - C-) G&ouml;sterenle g&ouml;sterilen arasındaki ilişkide her zaman nedensellik bulunur.
     - D-) Belli sesler belli kavramları ifade eder.
     - E-) Her toplumun farklı uzlaşımları bulunabilir.
+    ***
+1. <strong>&ldquo;Dilin se&ccedil;tiği g&ouml;steren yerine bir başkası kullanılamaz.&rdquo; diyen Saussure, g&ouml;stergenin hangi &ouml;zelliğini vurgulamaktadır?</strong><br />
+
+    - A-) G&ouml;stergenin g&ouml;sterenlerini
+    - B-) G&ouml;stergenin nedensizliğini
+    - **Cevap C-) G&ouml;stergenin değişmezliğini**
+    - D-) G&ouml;stergenin simgeselliğini
+    - E-) G&ouml;stergenin &ccedil;izgiselliğini
     ***
 1. <strong>G&ouml;stergebilimle ilgili olarak aşağıdaki kavramlardan hangisi <u>yanlıştır</u>?</strong><br />
 
@@ -924,6 +964,17 @@ III. Simge<br />
     - D-) Ferdinand de Saussure
     - E-) Michael Riffaterre
     ***
+1. I. &Ouml;nerme<br />
+II. Belirtisel G&ouml;sterge/İndeks<br />
+III. Kavramsal/Kural G&ouml;sterge<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri Peirce&rsquo;in belirlediği &uuml;&ccedil;&uuml;nc&uuml; &ouml;bek i&ccedil;erisinde yer alır?</strong><br />
+
+    - A-) Yalnız II
+    - B-) Yalnız III
+    - C-) I, II ve III
+    - **Cevap D-) Yalnız I**
+    - E-) I ve II
+    ***
 1. <strong>G&ouml;stergebilimi semeotic olarak adlandıran d&uuml;ş&uuml;n&uuml;r kimdir?</strong><br />
 
     - A-) Paul de Man
@@ -978,6 +1029,15 @@ III. Simge<br />
     - C-) Derin metinler
     - D-) Meteforlar
     - E-) Metonimler
+    ***
+1. <b>Aşağıdakilerden hangisi&nbsp;Barthes&#39;in etkilendiği isimlerden biri <u>değildir</u>?</b><br />
+<br type="_moz" />
+
+    - **Cevap A-) Grunig**
+    - B-) Marx
+    - C-) Freud
+    - D-) Nietzsche
+    - E-) Saussure
     ***
 1. <strong>S&ouml;zl&uuml; k&uuml;lt&uuml;r&uuml;n &uuml;retimi olan masallar, romanlar, hik&acirc;yeler ve destanlar gibi i&ccedil;erikler aşağıdakilerden hangisine aittir?</strong><br />
 
