@@ -1919,6 +1919,25 @@
     "CevapSira": 1
   },
   {
+    "SoruID": 176016,
+    "SoruMetni": "<strong>Aşağıdakilerden hangisi kamera destek sistemlerinden biri <u>değildir</u>?</strong> ",
+    "A": "Steadicam ",
+    "B": "Crane ",
+    "C": "Flycam ",
+    "D": "Tilt ",
+    "E": "Dolly",
+    "DogruCevap": "D",
+    "DersAd": "Reklam Analizleri",
+    "Somestre": 1,
+    "DogruCevapSirasi": 4,
+    "Unite": 4,
+    "OlusturmaTarihi": "2024-12-20T17:40:23.477+03:00",
+    "GelYer": 2,
+    "DersId": 258,
+    "OBSDersId": 39129,
+    "CevapSira": 4
+  },
+  {
     "SoruID": 294776,
     "SoruMetni": "Genellikle reklamcılar &ccedil;ekecekleri reklam filmleri i&ccedil;in&nbsp;...................... (resimli taslak) &ccedil;alışmaları yaparak reklam filminin her karesini&nbsp;tasarlamaktadırlar.<br />\r\n<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />\r\n",
     "A": "flashback",

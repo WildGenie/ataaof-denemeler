@@ -1126,6 +1126,13 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
     - **Cevap D-) Rauf Bey**
     - E-) Enver Bey
     ***
+1. <strong>Aşağıdakilerden hangisi Paris Barış Konferansı&rsquo;nı y&uuml;r&uuml;t&uuml;c&uuml; egemen devletlerden biri <u>değildir</u>?</strong>
+    - A-) İtalya
+    - B-) İngiltere
+    - **Cevap C-) Almanya**
+    - D-) Fransa
+    - E-) ABD
+    ***
 1. <strong>Almanya&rsquo;nın I. D&uuml;nya Savaşı sonrası imzalamak zorunda kaldığı antlaşma aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Versailles Barış Antlaşması**
     - B-) G&uuml;mr&uuml; Antlaşması
