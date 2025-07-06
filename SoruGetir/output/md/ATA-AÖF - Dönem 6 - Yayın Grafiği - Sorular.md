@@ -732,6 +732,14 @@ III. Şekil<br />
     - **Cevap D-) Izgara**
     - E-) Hiyerarşi
     ***
+1. &ldquo;Reklamın konusu ve mesajı hakkında hedef kitleye ayrıntılı bilgilendirme sunmaktadır.&rdquo;<br />
+<strong>Bu tanım aşağıdakilerden hangisine aittir?</strong>
+    - A-) Başlık
+    - B-) Alt Başlık
+    - **Cevap C-) Metin**
+    - D-) Slogan
+    - E-) Fotoğraf
+    ***
 1. <strong>&quot;Markayı ifade eden harf, kelime veya rakamlardan meydana gelmektedir.&quot; şeklinde tanımlanan kavram aşağıdakilerden hangisidir?</strong><br />
 
     - **Cevap A-) Logo**
@@ -754,6 +762,13 @@ III. Şekil<br />
     - C-) İ&ccedil;indekiler
     - D-) Referanslar
     - E-) K&uuml;nye
+    ***
+1. <strong>Aşağıdakilerden hangisi &ccedil;ok sayfalı yayınlarda başlıkların işlevlerinden biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Sayfada g&uuml;&ccedil;l&uuml; bir giriş noktası yaratır.
+    - B-) Metni b&ouml;l&uuml;mlemeye yardımcı olur.
+    - **Cevap C-) Metinde sunulan iddiayı destekler.**
+    - D-) Okuma kolaylığı sağlar.
+    - E-) Fark edilebilirliğe yardımcı olur.
     ***
 1. <strong>Aşağıdakilerden hangisi &ouml;n kapakta yer alan unsurlardan birisi <u>değildir</u>?</strong>
     - **Cevap A-) Barkod**
@@ -826,6 +841,13 @@ III. Şekil<br />
     - **Cevap E-) Master/Parent pages**
     ***
 ## Unite 10
+1. <strong>Aşağıdakilerden hangisi geleneksel k</strong><strong>&acirc;</strong><strong>ğıt standartlarından biri <u>değildir</u>?</strong>
+    - A-) Emperor/İmparator
+    - **Cevap B-) Giraffe/Z&uuml;rafa**
+    - C-) Grand Eagle/B&uuml;y&uuml;k Kartal
+    - D-) Elephant/Fil
+    - E-) Royal/Asil
+    ***
 1. <strong>Otokopi t&uuml;r&uuml; k&acirc;ğıtlar arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
     - A-) İrsaliye kağıdı
     - B-) Makbuz kağıdı
@@ -925,6 +947,13 @@ III. Şekil<br />
     - D-) Matbaa / Layout / Scanner / Perforaj / Gofre
     - E-) Varak / Gofre / Lak / Pantone / CMYK
     ***
+1. <strong>Aşağıdakilerden hangisi tabaka k</strong><strong>&acirc;</strong><strong>ğıdın standart ebatlarına g&ouml;re uyarlanmış bir forma d&uuml;zeni <u>değildir</u>?</strong>
+    - A-) 4+4 8&rsquo;li forma sistemi
+    - B-) 16+16 32&rsquo;li forma sistemi
+    - C-) 24+24 48&rsquo;li forma sistemi
+    - **Cevap D-) 7+7 14&rsquo;l&uuml; forma sistemi**
+    - E-) 8+8 16&rsquo;lı forma sistemi
+    ***
 1. <strong>Aşağıdakilerden hangisi yayın grafiği aşamalarında ve yayının sonu&ccedil;landırılmasındaki g&ouml;revlilerden biri <u>değildir</u>?</strong>
     - A-) Tasarımcı
     - B-) Edit&ouml;r
@@ -996,6 +1025,13 @@ III. Şekil<br />
     - E-) Black
     ***
 ## Unite 12
+1. <strong>Dijital ortamda yayınlanacak bir yayın grafiği tasarımı &uuml;r&uuml;n&uuml;n&uuml;n ekran &uuml;zerinde g&ouml;r&uuml;nt&uuml;lenebilmesi i&ccedil;in hangi renk ve dosya bi&ccedil;imi formatlarında d&uuml;zenlenmiş olması gerekmektedir?</strong>
+    - A-) CMYK &ndash; PDF
+    - **Cevap B-) RGB - PDF**
+    - C-) CMYK &ndash; Jpeg
+    - D-) RGB &ndash; Pantone
+    - E-) PDF &ndash; Jpeg
+    ***
 1. <strong>Aşağıdakilerden hangisi e-gazetelerin avantajlarından biri <u>değildir</u>?</strong>
     - A-) G&uuml;ncel haberlere ulaşabilme kolaylığının olması
     - **Cevap B-) Geleneksel okuyucuya hitap etmesi**
@@ -1091,6 +1127,13 @@ III. Şekil<br />
     - D-) Sayfa numaraları i&ccedil;in bırakılır.
     - E-) Diyagonal &ccedil;izgilerle bağ kurar.
     ***
+1. <strong>Aşağıdakilerden hangisi mod&uuml;ler ızgara &ccedil;arpanları (&ouml;r&uuml;nt&uuml;) arasında <u>yer almaz</u>?</strong>
+    - A-) 3x4
+    - B-) 3x6
+    - C-) 5x8
+    - D-) 5x12
+    - **Cevap E-) 7x14**
+    ***
 1. <strong>Aşağıdakilerden hangisi dijital ortamda ızgara anatomisi ve kavramlarından <u>değildir</u>?</strong>
     - A-) Sayfa bi&ccedil;imi ve format
     - B-) Kenar boşlukları (kenar espasları)
@@ -1168,6 +1211,13 @@ III. Şekil<br />
     - **Cevap C-) &Ccedil;eviri ama&ccedil;lı alt yazılar**
     - D-) Televizyonda yayımlanan canlandırmalar
     - E-) Film jenerikleri
+    ***
+1. <strong>Aşağıdakilerden hangisi, hareketin yavaşlayarak veya hızlanarak ger&ccedil;ekleştirilmesinin projeye kattığı bir katkıdır?</strong>
+    - A-) Projenin tasarımını &ouml;ne &ccedil;ıkarması
+    - B-) S&uuml;resinin uzaması
+    - C-) Renklerin etkisinin artması
+    - **Cevap D-) Hareketlerin doğal g&ouml;r&uuml;nmesi**
+    - E-) İzleyicinin konuyu anlaması
     ***
 1. <strong>Aşağıdakilerden hangisi vekt&ouml;r tabanlı g&ouml;r&uuml;nt&uuml; ile &uuml;retilmiş bir hareketli grafik g&ouml;r&uuml;nt&uuml;n&uuml;n piksel tabanlı hareketli g&ouml;r&uuml;nt&uuml;ye karşı avantajıdır?</strong>
     - A-) Saniyede ge&ccedil;en kare sayısının ayarlanabilmesi

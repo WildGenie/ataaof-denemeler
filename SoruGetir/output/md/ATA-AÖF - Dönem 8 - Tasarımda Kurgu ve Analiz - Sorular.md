@@ -860,6 +860,13 @@
 &nbsp;**
     - E-) Ambalaj Tasarımları
     ***
+1. <strong>Aşağıdakilerden hangisi m&uuml;şterinin ihtiya&ccedil;larının tam olarak anlaşılması, tasarımcıların yaratıcı &ccedil;&ouml;z&uuml;mlerini belirli iş hedefleriyle uyumlu hale getirmelerine olanak tanıyan s&uuml;re&ccedil;lerden biridir?</strong>
+    - A-) Yaratıcı Fikir
+    - B-) &Ccedil;&ouml;z&uuml;m Bulma<br />
+    - C-) Mizanpaj<br />
+    - D-) Bilgi Toplama<br />
+    - **Cevap E-) Problemin Tanımı ve &Ouml;zet**
+    ***
 ## Unite 9
 1. Aşağıdakilerden hangisi tasarımın kontrol&uuml; s&uuml;re&ccedil;lerinden biri <u>değildir</u>?
     - **Cevap A-) Baskıyla ilgili sorunu &ccedil;&ouml;zd&uuml; m&uuml;?**
@@ -959,6 +966,13 @@
     - D-) Se&ccedil;ilen baskı tekniklerinin avantaj ve dezavantajları nelerdir?<br />
     - E-) Baskı s&uuml;reci sorunları neler olabilir?
     ***
+1. <strong>Film &ccedil;ıkış̧ makinesi ve bilgisayardan kalıba pozlandırma hangi &uuml;nite vasıtasıyla otomatik olarak yapılır?</strong>
+    - A-) Holajen&uuml;r Plate
+    - B-) Computer To Plate<br />
+    - **Cevap C-) Raster Image Processor<br />**
+    - D-) Elektrofotoğrafik Processor<br />
+    - E-) Krom Processor
+    ***
 ## Unite 10
 1. Aşağıdakilerden hangisi k&uuml;lt&uuml;r&uuml;n tanımlarından <u>değildir</u>?
     - A-) K&uuml;lt&uuml;r, bir toplumun ya da b&uuml;t&uuml;n toplumların birikimli uygarlığıdır.
@@ -1047,6 +1061,13 @@
     - D-) Sayfa d&uuml;zeni<br />
 &nbsp;
     - E-) Tipografi
+    ***
+1. <strong>&Uuml;r&uuml;n&uuml;n hemen satın alınmasını ya da &uuml;r&uuml;ne ait daha &ccedil;ok bilgi elde edilmesini teşvik eden reklam t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+    - A-) &Uuml;r&uuml;n yerleştirme
+    - **Cevap B-) Doğrudan reklam<br />**
+    - C-) İll&uuml;strasyon<br />
+    - D-) Dolaylı reklam<br />
+    - E-) Gerilla reklam
     ***
 1. <strong>Aşağıdakilerden hangisi bir d&uuml;ş&uuml;nceyi, olguyu, nesneyi g&ouml;steren semboller b&uuml;t&uuml;n&uuml;d&uuml;r?</strong>
     - A-) Kurumsal kimlik
@@ -1137,6 +1158,13 @@
     - C-) G&ouml;stergelerin kitle iletişim ara&ccedil;ları bağlamında işlevlerini inceleyen bir bilim dalıdır.<br />
     - D-) Sosyok&uuml;lt&uuml;rel değişiklikleri inceleyen bir bilim dalıdır.<br />
     - E-) G&ouml;sterge sistemlerini inceleyen bir bilim dalıdır.
+    ***
+1. <strong>Jean Marie Floch, tasarımda hangi y&ouml;ntemi geliştirmiştir?</strong>
+    - A-) Sembiyosis
+    - **Cevap B-) Brikolaj<br />**
+    - C-) Anlam &uuml;retimi
+    - D-) Sentagmatik sistem<br />
+    - E-) Paradigmatik sistem
     ***
 ## Unite 12
 1. G&ouml;rsel algı aşağıdakilerden hangisini ifade eder?
@@ -1237,6 +1265,13 @@
     - **Cevap C-) E. Bruce Goldstein**
     - D-) Metin İnceoğlu
     - E-) Dabney Townsend
+    ***
+1. <strong>G&ouml;rsel algıda kendiliğinden ortaya &ccedil;ıkan bir vurguyu ifade eden Gestalt ilkesi aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Odak Noktası**
+    - B-) Pragnanz<br />
+    - C-) Bağlantılılık<br />
+    - D-) Kapanış<br />
+    - E-) Simetri
     ***
 ## Unite 13
 1. Aşağıdakilerden hangisi yaratıcılık s&uuml;recinin &ouml;zelliklerinden biri <u>değildir</u>?
@@ -1350,6 +1385,13 @@
     - D-) Yaratıcılık &ouml;ğretilemez.
     - **Cevap E-) Yaratıcılık bulaşıcıdır.**
     ***
+1. <strong>Aşağıdakilerden hangisini Emre Becer&rsquo;in sunduğu yaratıcı y&ouml;ntemlerden biri olan Kulu&ccedil;ka Y&ouml;ntemi i&ccedil;in s&ouml;ylemek uygun olur?</strong>
+    - A-) Kulu&ccedil;ka y&ouml;nteminde araştırma yapmak gerekli değildir, fikir kendiliğinden gelir.
+    - B-) Kulu&ccedil;ka y&ouml;nteminde &ccedil;alışılan konunun dışına &ccedil;ıkılmamalıdır, sadece ana konuya odaklanılmalıdır.<br />
+    - C-) Kulu&ccedil;ka y&ouml;ntemi aniden gelişen bir s&uuml;re&ccedil;tir, hızlı sonu&ccedil; verir.<br />
+    - **Cevap D-) Kulu&ccedil;ka y&ouml;ntemi, araştırılan konu hakkında derin bir araştırma yapılmasını gerektirir, farklı bir konuya odaklanıldığında bilin&ccedil;altı araştırmaları &ouml;z&uuml;mser ve &ccedil;&ouml;z&uuml;mler &uuml;retmeye devam eder.<br />**
+    - E-) Kulu&ccedil;ka s&uuml;resinde bilin&ccedil;altı etkisizdir, bunun yerine aktif olarak daha &ccedil;ok araştırma yapılmalıdır.
+    ***
 ## Unite 14
 1. <strong>&Ccedil;izgisel anlatımın grafik tasarımdaki temel amacı aşağıdakilerden hangisidir?</strong>
     - A-) Renk paletini belirlemek
@@ -1454,4 +1496,11 @@
     - C-) Fig&uuml;rleri detaylı bir şekilde tasvir etmek<br />
     - D-) G&ouml;rsel &ouml;geleri karıştırmak<br />
     - E-) Şekilleri g&ouml;stermek
+    ***
+1. <strong>Tasarımın lekeselleştirme teknikleriyle ilgili olarak a&ccedil;ık tonlar hangi ama&ccedil;la kullanılır?</strong>
+    - A-) Derinlik ve zenginlik hissi yaratmak
+    - B-) Soyut kavramları temsil etmek<br />
+    - C-) Sadeleştirme tekniklerini g&ouml;rmek<br />
+    - **Cevap D-) Dikkatin &ccedil;ekilmesi gereken noktaları vurgulamak<br />**
+    - E-) G&ouml;rsel dilin inceliklerini kullanmak
     ***

@@ -722,6 +722,14 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - **Cevap D-) Font**
     - E-) Comic Sans
     ***
+1. <strong>Aşağıdakilerden hangisi bir yazı fontudur?</strong><br type="_moz" />
+
+    - A-) Garamond
+    - B-) Cheltenham
+    - **Cevap C-) Arial Regular**
+    - D-) Helvetica
+    - E-) Perpetua
+    ***
 ## Unite 9
 1. <strong>Aşağıdakilerden hangisi, genel olarak grafik tasarım ve bilgilendirme tasarımı &ccedil;alışmalarında kullanılan g&ouml;stergelerin &ouml;zelliğidir?</strong>
     - A-) Yerel
@@ -799,6 +807,13 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - C-) G&ouml;stergebilim, g&ouml;stergelerin, sosyo-k&uuml;lt&uuml;rel &ouml;zelliklerini inceleyen bir bilim dalıdır.
     - D-) G&ouml;stergebilim, k&uuml;lt&uuml;rel değişiklikleri inceleyen bir bilim dalıdır.
     - E-) G&ouml;stergebilim, kitle iletişim sistemlerini inceleyen bir bilim dalıdır.
+    ***
+1. <strong>Bir g&ouml;sterge olarak &quot;Sembol&quot; kavramının anlamı aşağıdakilerden hangisidir?</strong>
+    - A-) Bir şeye işaret eden ve uyaran bir g&ouml;stergedir.
+    - B-) Bir metnin temsil ettiği g&ouml;stergedir.
+    - **Cevap C-) Herhangi bir şeyi simgeleyen ve temsil eden bir g&ouml;stergedir.**
+    - D-) G&ouml;sterdiği şeye aynen benzeyen ve fiziksel olarak s&ouml;zkonusu şey ile &ouml;rt&uuml;şen bir g&ouml;stergedir.<br type="_moz" />
+    - E-) Bir metnin g&ouml;stergesel kod sistemidir.<br type="_moz" />
     ***
 1. <strong>Peirce&rsquo;in G&ouml;sterge Modeli&#39;ne g&ouml;re g&ouml;stergenin nesnesi nasıl adlandırılır?</strong><br type="_moz" />
 
@@ -887,6 +902,13 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - D-) Yazı
     - E-) Izgara Sistemi
     ***
+1. <strong>Aşağıdakilerden hangisi ilk modern bilgilendirme tasarımı &ouml;rneklerinden olan Harry Beck tarafından hazırlanan ve h&acirc;len benzer &ouml;rnekleri kullanılan bir tasarımdır?</strong>
+    - A-) Su Isıtıcısı Kullanım Klavuzu Sayfası
+    - **Cevap B-) Londra Metro hattı haritası**
+    - C-) Grafik sistemli veri raporu
+    - D-) Izgara sistemli infografik
+    - E-) Topkapı sarayı tanıtım tasarımı
+    ***
 1. <strong>Bilgilendirme tasarımlarında g&ouml;r&uuml;nt&uuml;ler başlığı adı altında aşağıdakilerden hangisi <u>sayılamaz</u>?</strong>
     - A-) Fotoğraf
     - B-) Video
@@ -968,6 +990,13 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - D-) Otokinetik etki
     - E-) Monok&uuml;ler İpu&ccedil;ları
     ***
+1. <strong>Aşağıdakilerden hangisi yanılsamanın tanımıdır?</strong>
+    - A-) Uyarıcı madde alımı sonrasında garip şekiller g&ouml;rmek
+    - **Cevap B-) Beynin duyu organlarından aldığı iletileri ger&ccedil;ekte olduklarından farklı yorumlaması**
+    - C-) G&ouml;rsel bozukluklar nedeniyle yakını g&ouml;rememek
+    - D-) Duyu organından beyne g&ouml;nderilen sinyallerin yolda kaybolması
+    - E-) Beynin duyu organlarından aldığı iletileri olduğu gibi yorumlaması
+    ***
 1. <strong>Aşağıdakilerden hangisi algısal gruplamanın unsurlarından <u>değildir</u>?</strong>
     - **Cevap A-) Alanda y&uuml;kseklik**
     - B-) Şekil-zemin ilişkisi
@@ -1046,6 +1075,13 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - **Cevap D-) 4**
     - E-) 5
     ***
+1. <strong>Aşağıdakilerden hangisi fantezi karton &ccedil;eşitlerinden biri&nbsp;<u>değildir</u>?</strong>
+    - **Cevap A-) K&ouml;p&uuml;ks&uuml;z maket karton**
+    - B-) Tintoretto gesso
+    - C-) Acquarello
+    - D-) Tuale karton
+    - E-) Flok karton
+    ***
 ## Unite 13
 1. <strong>Aşağıdakilerden hangisi geleneksel medyadan dijital medyaya ge&ccedil;iş &ouml;rneği <u>değildir</u>?</strong>
     - A-) Radyo yayınlarının yerini podcastların alması
@@ -1117,6 +1153,13 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - **Cevap D-) Mind the Graph**
     - E-) PicMonkey
     ***
+1. <strong>Aşağıdakilerden hangisinin ne kadar b&uuml;y&uuml;t&uuml;l&uuml;rse b&uuml;y&uuml;t&uuml;ls&uuml;n g&ouml;r&uuml;n kalitesinin bozulmayacağı var sayılabilir?</strong>
+    - A-) Noktasal g&ouml;r&uuml;nt&uuml; dosyaların
+    - B-) Y&uuml;ksek &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;kl&uuml; dosyaların
+    - C-) D&uuml;ş&uuml;k &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;kl&uuml; dosyaların
+    - D-) HDR g&ouml;r&uuml;nt&uuml;lerin
+    - **Cevap E-) Vekt&ouml;rel g&ouml;r&uuml;nt&uuml; dosyaların**
+    ***
 ## Unite 14
 1. <strong>Aşağıdakilerden hangisi teknolojik gelişmeler sonucunda ortaya &ccedil;ıkan değişimler arasında <u>yer almaz</u>?</strong>
     - A-) Dijital ara&ccedil;ların daha geniş bir kitleye ulaşması
@@ -1187,6 +1230,13 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - C-) After Effects
     - D-) Photoshop
     - **Cevap E-) Unity**
+    ***
+1. <strong>Aşağıdakilerden hangisi bilgi &ldquo;Border City&quot; sergisi i&ccedil;in <u>s&ouml;ylenemez</u>?</strong>
+    - A-) Veriye dayalı dijital bir sergi tasarımı
+    - B-) N&uuml;fus ve g&ouml;&ccedil; temasını işlemesi
+    - **Cevap C-) Durağan grafiklere yer vermesi**
+    - D-) Animasyon uygulamalarına yer vermesi
+    - E-) Dijital ekran kullanımına yer vermesi
     ***
 1. <strong>Clever Franke tasarım st&uuml;dyosunun yaptığı web sitesinde mobil cihazlarda kullanıcı deneyimini sağlamak i&ccedil;in aşağıdakilerden hangisi yapılmıştır?</strong>
     - **Cevap A-) Optimize edilmesi**

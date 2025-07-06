@@ -1088,6 +1088,13 @@ III. Vernikler ve koruyucu sıvı kaplamalar<br />
     - D-) PSD
     - E-) PCX
     ***
+1. <strong>Aşağıdakilerden hangisi basın fotoğraf&ccedil;ılığının temel &ouml;zelliklerinden biridir?</strong>
+    - A-) Fotoğrafların sanatsal kompozisyonlarla oluşturulması
+    - B-) Kurguya dayalı olarak sahnelenmesi
+    - C-) Yalnızca st&uuml;dyo ortamında &ccedil;ekilmesi
+    - D-) Renk d&uuml;zenlemeleriyle yaratıcı efektler eklenmesi
+    - **Cevap E-) Haber olaylarını belge niteliğinde sunması**
+    ***
 ## Unite 9
 1. .............. kavramı, en basit tanımıyla belirli bir mal veya hizmetin, belirli bir &uuml;cret karşılığında kitle iletişim ara&ccedil;ları kullanılarak kitlelere tanıtılmasını ve kitlelerin &uuml;r&uuml;n ve hizmeti satın alabilmesine y&ouml;nelik ikna edilmesini ama&ccedil;layan iletişim s&uuml;recini ifade etmektedir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
@@ -1220,6 +1227,13 @@ IV. Yaygın kullanıma sahip olması<br />
     - **Cevap C-) Gazete**
     - D-) İnternet
     - E-) Sosyal Medya&nbsp;
+    ***
+1. <strong>Aşağıdakilerden hangisi iletişimin en temel tanımıdır?</strong>
+    - **Cevap A-) İnsanlar arasında bilgi ve duygu alışverişidir.<br type="_moz" />**
+    - B-) Sadece s&ouml;zl&uuml; mesajların aktarılmasıdır.
+    - C-) Salt yazılı metinler &uuml;zerinden ger&ccedil;ekleşir.<br type="_moz" />
+    - D-) Teknolojik ara&ccedil;lar olmadan gercekleştirilemez.<br type="_moz" />
+    - E-) Sadece resm&icirc; kurumlar tarafından y&uuml;r&uuml;t&uuml;len bir s&uuml;re&ccedil;tir.
     ***
 ## Unite 10
 1. Bir tipografik karakterin, farklı et kalınlıklarında, daraltılmış, genişletilmiş, italik gibi t&uuml;rlerinin tasarlanarak oluşturulduğu gruba .......... ailesi denir.<br />
@@ -1356,6 +1370,13 @@ IV. Yaygın kullanıma sahip olması<br />
     - D-) Afişler toplumun sosyok&uuml;lt&uuml;rel, bireylerin psikolojik &ouml;zellikleri, sergilendiği &ccedil;evre şartları dikkate alınmalıdır.
     - E-) Dikkat &ccedil;ekmek, fark edilmek, bilgilendirmek, bireyleri harekete ge&ccedil;irmek gibi &ouml;zellikleri bulunan afişlerde, kısa ve etkili bir slogan tercih edilmelidir.
     ***
+1. <strong>Aşağıdakilerden hangisi ill&uuml;strasyonun temel işlevlerinden biridir?</strong> &nbsp;
+    - A-) S&ouml;zel unsurları yazıyla betimlemek
+    - B-) Hedef kitleyle yazılı iletişim kurmak
+    - C-) Tek bir tarzda &uuml;retimde bulunmak
+    - D-) Salt propaganda mesajları &uuml;retmek
+    - **Cevap E-) S&ouml;zel unsurları betimleyerek mesajı desteklemek**
+    ***
 ## Unite 11
 1. <strong>Fotoğrafın bilinen ilk &ouml;rneği aşağıdakilerden hangisine aittir?</strong>
     - A-) Thomas Edison
@@ -1473,6 +1494,13 @@ III. Şaryo&nbsp;<br />
     - D-) I ve II
     - E-) &nbsp;I ve III
     ***
+1. <strong>Kurgu alanında &ouml;nemli &ccedil;alışmalarıyla bilinen Sovyet sinema kuramcısı aşağıdakilerden hangisidir?</strong>
+    - A-) Sergei Eisenstein
+    - B-) Alfred Hitchcock
+    - **Cevap C-) Lev Kuleşov**
+    - D-) Georges M&eacute;li&egrave;s
+    - E-) Orson Welles
+    ***
 ## Unite 12
 1. <strong>Aşağıdakilerden hangisi medyanın genel ama&ccedil;larından biri <u>değildir</u>?</strong> 
     - A-) Bilgi verme
@@ -1487,6 +1515,13 @@ III. Şaryo&nbsp;<br />
     - C-) Yerelleşme
     - D-) K&uuml;lt&uuml;r şoku
     - E-) Bilgi gediği
+    ***
+1. <strong>Aşağıdakilerden hangisi yeni medyanın eleştirildiği alanlardan biridir?</strong> 
+    - A-) &Uuml;retim ve dağıtımda geleneksel medyaya g&ouml;re daha ekonomik olması
+    - B-) Kanalların birbirine bağlanabilir olması
+    - C-) G&uuml;ncellenebilir olması
+    - **Cevap D-) İ&ccedil;erikte g&uuml;venilirlik sorunları**
+    - E-) Zaman ve mek&acirc;n kısıtlı olmaması
     ***
 1. <strong>Global k&ouml;y kavramı aşağıdakilerden hangisini ifade etmektedir?</strong> 
     - A-) Geleneksel medyayı
@@ -1617,6 +1652,14 @@ III. Haber kaynakları, izleyiciler, reklamcılar a&ccedil;ısından yaşanan de
     - **Cevap C-) &Ccedil;er&ccedil;eveler**
     - D-) Komutlar
     - E-) Ara&ccedil; &ccedil;ubukları
+    ***
+1. <strong>Aşağıdakilerden hangisi interaktif tasarım uygulaması hazırlama aşamalarından biri <u>değildir</u>?</strong><br type="_moz" />
+
+    - A-) Analiz<br type="_moz" />
+    - B-) Değerlendirme<br type="_moz" />
+    - C-) Uygulama<br type="_moz" />
+    - **Cevap D-) Gruplama<br type="_moz" />**
+    - E-) Geliştirme<br type="_moz" />
     ***
 1. <strong>Aşağıdakilerden hangisi başarılı bir grafik aray&uuml;z tasarımı i&ccedil;in g&ouml;z &ouml;n&uuml;ne alınması gereken temel ilkelerden biri <u>değildir</u>?</strong> 
     - **Cevap A-) Tasarımda canlı renkler kullanmak**
@@ -1752,6 +1795,13 @@ III. Haber kaynakları, izleyiciler, reklamcılar a&ccedil;ısından yaşanan de
     - C-) İLESAM
     - D-) GESAM
     - **Cevap E-) ASAM**
+    ***
+1. <strong>Aşağıdakilerden hangisi fikri m&uuml;lkiyetin korunması ile ama&ccedil;lanan hususlardan biri <u>değildir</u>?</strong> 
+    - A-) Yaratıcılığın desteklenmesi
+    - B-) Teknolojik ve k&uuml;lt&uuml;rel ilerlemenin desteklenmesi
+    - C-) Adil bir rekabetin s&uuml;rd&uuml;r&uuml;lmesi
+    - **Cevap D-) Eser sahibi ve bağlantılı hak sahiplerinin maddi varlığının artması**
+    - E-) Toplumsal bilgi ve k&uuml;lt&uuml;r&uuml;n zenginleşmesi
     ***
 1. <strong>Aşağıdakilerden hangisi fikir ve sanat eserlerinden biri <u>değildir</u>?</strong> 
     - A-) Musiki eserler

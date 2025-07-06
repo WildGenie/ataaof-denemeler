@@ -1115,6 +1115,13 @@ III. Sinema salonlarındaki reklamlara y&ouml;nelik t&uuml;keticilerin tepkileri
     - D-) T&uuml;rkiye
     - E-) Fransa
     ***
+1. <strong>Aşağıdakilerden hangisi reklamcılıkta kullanılan geleneksel mecralar arasında <u>yer almaz</u>?</strong>
+    - A-) Televizyon
+    - **Cevap B-) Sosyal Medya**
+    - C-) Gazete
+    - D-) Dergi
+    - E-) Radyo
+    ***
 ## Unite 9
 1. <strong>Aşağıdakilerden hangisi geleneksel medyanın &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
     - A-) Geniş kitleleri aynı anda hedef alması
@@ -1203,6 +1210,13 @@ III. Sinema salonlarındaki reklamlara y&ouml;nelik t&uuml;keticilerin tepkileri
     - C-) iki - &uuml;&ccedil;
     - D-) maddi &ndash; manevi
     - E-) toplumsal &ndash; bireysel
+    ***
+1. <strong>Aşağıdakilerden hangisi semantik web kavramının ortaya &ccedil;ıktığı d&ouml;nem olarak bilinmektedir?</strong>
+    - A-) Web 0.0 D&ouml;nemi
+    - B-) Web 1.0 D&ouml;nemi
+    - C-) Web 2.0 D&ouml;nemi
+    - **Cevap D-) Web 3.0 D&ouml;nemi**
+    - E-) Web 4.0 D&ouml;nemi
     ***
 1. <strong>Aşağıdakilerden hangisi hedef kitleye sunulan i&ccedil;erik t&uuml;rlerinden biri <u>değildir</u>?</strong>
     - A-) Bilginin yapısına g&ouml;re i&ccedil;erik t&uuml;rleri
@@ -1335,6 +1349,13 @@ III. Sinema salonlarındaki reklamlara y&ouml;nelik t&uuml;keticilerin tepkileri
     - C-) Başarı sırası testleri
     - D-) Doğrudan postalama testleri
     - E-) Reklam kalabalığı testleri
+    ***
+1. <strong>Aşağıdakilerden hangisi &ouml;d&uuml;ll&uuml; reklamlara ilişkin ger&ccedil;ekleştirilen bir &ccedil;alışmada, yaratıcılık d&uuml;zeyini &ouml;l&ccedil;&uuml;mlemeye y&ouml;nelik olarak uzmanlarca belirlenmiş 7 adet ana yaratıcılık kriterinden biri <u>değildir</u>?</strong>
+    - A-) Benmerkezcilik
+    - B-) Zıtlık
+    - **Cevap C-) Zaman**
+    - D-) Somut veri
+    - E-) G&ouml;rsel uyarıcı
     ***
 1. I. Hafıza testleri<br />
 II. Durumsal tepki testleri<br />
@@ -1477,6 +1498,13 @@ IV. Reklamların tasarımı ve ill&uuml;strasyonlarından sorumludurlar.<br />
     - D-) Yaratıcı iklimi geliştirecek meslek i&ccedil;i eğitime &ouml;nem verilir.
     - **Cevap E-) Metin yazma, sunum, medya satın alma gibi ajansın temel fonksiyonlarına y&ouml;nelik kararlar alır.**
     ***
+1. <strong>Reklamverenlerin iletişim problemlerine &ccedil;&ouml;z&uuml;m bulma amacıyla, farklı uzmanlık alanlarından gelen bireylerin yer aldığı yapı</strong>&nbsp;<strong>aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Reklam ajansları**
+    - B-) Reklam verenler
+    - C-) Ara y&ouml;neticiler
+    - D-) Takım &ccedil;alışanları
+    - E-) Şefler
+    ***
 1. Bir ajanstaki ........................... reklam ajansının &ccedil;alışma ilişkilerini d&uuml;zenleme gereksinimine yanıt vermek &uuml;zere oluşturulmuş bir yapı g&ouml;stermektedir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) insan kaynakları birimi**
@@ -1563,6 +1591,13 @@ IV. Reklamların tasarımı ve ill&uuml;strasyonlarından sorumludurlar.<br />
     - C-) &Ouml;zel işler
     - D-) Yemek tarifleri
     - E-) P&uuml;f noktaları
+    ***
+1. <strong>SWOT analizindeki &ldquo;O&rdquo; harfi aşağıdakilerden hangisini tanımlamaktadır?</strong>
+    - A-) Tehditler
+    - **Cevap B-) Fırsatlar**
+    - C-) G&uuml;&ccedil;l&uuml; y&ouml;nler
+    - D-) Zayıf y&ouml;nler
+    - E-) Avantajlar
     ***
 1. <strong>Aşağıdakilerden hangisi t&uuml;rdeş alanlı portfolyoların &ouml;zelliğidir?</strong>
     - A-) İş portfolyosudur.&nbsp;
@@ -1687,6 +1722,13 @@ III. Reklam&nbsp;portfolyosu<br />
     - **Cevap C-) Reklamda rakip markanın logosunun ya da renklerinin kullanılması**
     - D-) Reklamdaki &uuml;r&uuml;nle ilgili yanlış bilgi verilmesi
     - E-) Reklamda promosyonların olduğunun verilmesi
+    ***
+1. <strong>Aşağıdakilerden hangisi &ccedil;ocukların kullanıldığı reklamların hedeflerinden biridir?</strong>
+    - **Cevap A-) Gelecekte &uuml;r&uuml;n&uuml;n t&uuml;keticisi olacak potansiyel hedef kitle yaratmak**
+    - B-) Mizahi &ouml;geler i&ccedil;eren reklamlar &uuml;retmek
+    - C-) Reklamda duygusal &ouml;geleri kullanmak
+    - D-) Aldatıcı mesaj i&ccedil;eriğiyle reklam &uuml;reterek satışları artırmak
+    - E-) Hızlı t&uuml;ketim &uuml;r&uuml;nlerini reklamlarda kullanmak
     ***
 1. <strong>Reklamların denetimi ile ilgili olarak aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
     - A-) Reklamlarda uyulması gereken yazılı kurallar bulunmaktadır.
@@ -1821,6 +1863,13 @@ III. Reklam&nbsp;portfolyosu<br />
     - C-) Always
     - D-) Turkcell
     - E-) T&uuml;rk Telekom
+    ***
+1. <strong>Aşağıdakilerden hangisi T&uuml;rk Telekom - Telefon K&uuml;t&uuml;phanesi kampanyasının sonu&ccedil;larından biri <u>değildir</u>?</strong>
+    - A-) 5 milyon dakika dinleme alması
+    - B-) G&ouml;n&uuml;ll&uuml;l&uuml;k hareketine olumlu etki etmesi
+    - C-) Binlerce kitabın seslendirilmesi
+    - **Cevap D-) Yeni reklam mecralarını ortaya &ccedil;ıkması**
+    - E-) Sosyal fayda sunan bir platform oluşturması
     ***
 1. Yayınlandığı d&ouml;nemde olumlu tepkiler alan T&uuml;rk Telekom&rsquo;un ........................ Projesi, 24. Kristal Elma &Ouml;d&uuml;llerinde &ldquo;En İyi Sosyal Sorumluluk Reklamı, En İyi Kurumsal İmaj Reklamı, En İyi Yapım ve En İyi Medya Kullanımı&rdquo; olmak &uuml;zere 4&rsquo;&uuml; Kristal Elma olmak &uuml;zere toplam 5 &ouml;d&uuml;l ile d&ouml;nm&uuml;şt&uuml;r.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>

@@ -1404,6 +1404,14 @@ B: So how far is it?<br />
     - D-) that
     - E-) where
     ***
+1. Artvin ,.......... my father-in-law was born, is a natural wonder.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) what
+    - B-) why
+    - **Cevap C-) where**
+    - D-) when
+    - E-) how
+    ***
 1. Artvin .................. my father-in-low was born is a natural wonder.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) on which
@@ -1422,7 +1430,7 @@ B: So how far is it?<br />
     - E-) which
     ***
 1. No one knows&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; I will do next summer.<br />
-<strong>Yukarıdaki c&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) where
     - B-) which
     - C-) whose
@@ -1541,6 +1549,14 @@ Which of the following completes the dialogue above?<br />
     - C-) Bana nasıl olduğunu s&ouml;yleyebilir misin?
     - D-) Bana nerede olduğunu s&ouml;yleyebilir misin?
     - E-) Bana bunun ne olduğunu s&ouml;yleyebilir misin?
+    ***
+1. Do you know ................. the window in the classroom?<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) whether he broken
+    - **Cevap B-) who broke**
+    - C-) whom did break
+    - D-) how did he break
+    - E-) that when he broke
     ***
 1. <strong>Oprah:&nbsp;</strong>Do you belive in magic and witchcraft?&nbsp;<br />
 <strong>Ellen:</strong> No! I believe in ................. and technology.&nbsp;<br />
@@ -1681,6 +1697,16 @@ Which of the following completes the statement in the dialogue above?<br />
     - C-) warn
     - D-) tell
     - **Cevap E-) told**
+    ***
+1. The police ................... motorists to slow down around schools.<br />
+Which of the following completes the reported speech imperative statement above?<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilirse dolaylı anlatım emir ifadesini tamamlar? </strong><br type="_moz" />
+
+    - **Cevap A-) told**
+    - B-) will tell
+    - C-) would tell
+    - D-) will have told
+    - E-) is going to tell
     ***
 1. She asked me .............................. the window.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
@@ -1823,6 +1849,16 @@ Which of the following is the Turkish translation of the sentence above?<br />
     - C-) to going
     - D-) from going
     - E-) in going
+    ***
+1. A: I would like to invite you to my wedding ceremony next Friday.<br />
+B: ..................................................................................................<br />
+<strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br type="_moz" />
+
+    - A-) I am getting married.
+    - **Cevap B-) Oh really? Thank you very much.**
+    - C-) You are lucky.
+    - D-) Yes. I&rsquo;ve invited all of them.
+    - E-) I prefer Folk Music.
     ***
 1. I miss .......... in Artvin.&nbsp;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -1970,6 +2006,14 @@ Which of the following is the Turkish translation of the sentence above?<br />
     - D-) yet
     - E-) for
     ***
+1. I love pets, ................. I&#39;m allergic to cats.&nbsp;<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) and
+    - B-) or
+    - **Cevap C-) but**
+    - D-) so
+    - E-) for
+    ***
 1. <strong>Patient:</strong> Hello, ...................................................<br />
 <strong>Secretary: </strong>OK. When would you like to see him?<br />
 <strong>Patient: </strong>Today, if possible.<br />
@@ -2107,6 +2151,14 @@ Which of the following conjunctions completes the statement above?<br />
     - D-) After
     - E-) While
     ***
+1. .......................... you feel depressed, please call me.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) Whenever**
+    - B-) Where
+    - C-) Why
+    - D-) Which
+    - E-) Who
+    ***
 1. 2003&#39;ten beri bu &uuml;niversitede &ccedil;alışıyorum.<br />
 <strong>C&uuml;mlesinin İngilizce karşılığı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Since 2003, I have been working in this university.**
@@ -2141,7 +2193,7 @@ B: .....................................<br />
     - **Cevap E-) Although**
     ***
 1. People should be ................. and respectful of&nbsp;other cultures.&nbsp;<br />
-<strong>Yukarıdaki c&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
     - A-) organized
     - B-) reduce
     - **Cevap C-) tolerant**
@@ -2309,4 +2361,12 @@ Which of the following completes the dialogue above?<br />
     - C-) Let&#39;s buy some food for you.
     - D-) Why don&#39;t you go with them?
     - **Cevap E-) Would you like to come over for dinner tonight?**
+    ***
+1. Can you ................. my cat when I&#39;m away at the weekend?<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+    - A-) figure out
+    - **Cevap B-) look after**
+    - C-) come back
+    - D-) give away
+    - E-) get over
     ***

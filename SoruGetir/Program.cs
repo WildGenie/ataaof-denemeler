@@ -172,7 +172,7 @@ public class Program
                 using var response = await client.GetAsync($"https://oys.ataaof.edu.tr/ktpcik/{ders.DersId}.pdf");
                 response.EnsureSuccessStatusCode();
                 var pdfBytes = await response.Content.ReadAsByteArrayAsync();
-                string pdfFileName = $"{ders.Donem} - {ders.CourseName} - 2024-2025 Final Sınavı Soruları - ATA-AÖF.pdf";
+                string pdfFileName = $"{ders.Donem} - {ders.CourseName} - 2024-2025 Bütünleme Sınavı Soruları - ATA-AÖF.pdf";
                 string pdfFilePath = Path.Combine(pdfDirectory, pdfFileName);
                 File.WriteAllBytes(pdfFilePath, pdfBytes);
             }

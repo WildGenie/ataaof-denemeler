@@ -1084,6 +1084,16 @@ III. K&acirc;ğıt t&uuml;r&uuml;<br />
     - D-) Fransa
     - E-) Arap
     ***
+1. I. Okunabilir olmalı<br />
+II. Anlaşılabilir olmalı<br />
+III. Uygun renkler kullanılmalı<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri i&ccedil;eriklerin g&ouml;rsel tasarımında dikkat edilmesi gereken hususlardandır?</strong> 
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
 1. <strong>Sessizlik, verimlilik, hayat, b&uuml;y&uuml;me, doğa, bilgelik ve inancı &ccedil;ağrıştıran renk aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Yeşil**
     - B-) Sarı
@@ -1168,6 +1178,13 @@ III. K&acirc;ğıt t&uuml;r&uuml;<br />
     - C-) Sayfa sayısı
     - **Cevap D-) Hizalama**
     - E-) Yerleşim
+    ***
+1. <strong>Scribus&rsquo;ta belgeye herhangi bir nesne eklendiğinde nesne ile ilgili ayarları yapmak i&ccedil;in aşağıdaki kısa yollardan hangisi kullanılır?</strong>
+    - A-) F5
+    - B-) F4
+    - C-) F3
+    - **Cevap D-) F2**
+    - E-) F1
     ***
 1. <strong>Scribus&rsquo;ta iki nesne birbiri &uuml;zerine gelecek şekilde konumlandırılacaksa aşağıdaki se&ccedil;eneklerden hangisi kullanılır?</strong>
     - **Cevap A-) Seviye**
@@ -1297,6 +1314,14 @@ III. K&acirc;ğıt t&uuml;r&uuml;<br />
     - **Cevap D-) Rebus İlkesi**
     - E-) Virgo İlkesi
     ***
+1. Tek kaynağı &hellip;&hellip;&hellip;&hellip;&hellip;. olan papir&uuml;s kamışlarının talebi karşılayamaması nedeniyle deri yazma aracı olarak sık&ccedil;a kullanılmıştır.<br />
+<strong>C&uuml;mlede boş bırakılan yerlere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - **Cevap A-) Mısır**
+    - B-) Fenike
+    - C-) Arabistan
+    - D-) S&uuml;mer
+    - E-) Roma
+    ***
 1. I. Kitap ucuzlamıştır.<br />
 II. Okuryazar sayısı artmıştır.<br />
 III. Sanatta gerileme olmuştur.<br />
@@ -1409,6 +1434,13 @@ III. &Ccedil;ok &ccedil;eşitli &ccedil;oklu ortam &ouml;gelerini destekler.<br 
     - D-) İ&ccedil;erikte hızlı ve kolay gezinme olanağı sunması
     - **Cevap E-) Kısa vadede maliyetinin d&uuml;ş&uuml;k olması**
     ***
+1. <strong>Aşağıdakilerden hangisi Crawford tarafından ortaya konulan e-kitap t&uuml;rlerinden biridir?</strong>
+    - **Cevap A-) Instabooks**
+    - B-) Konuşan kitaplar
+    - C-) &Ccedil;oklu ortam kitaplar
+    - D-) Akıllı e-kitaplar
+    - E-) Cyberbooks
+    ***
 1. <strong>E-kitaplara y&ouml;nelik olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - **Cevap A-) E-kitaplar t&uuml;m e-kitap okuyucularla kullanılabilmektedir.**
     - B-) Uzun s&uuml;reli kullanımlarda baş ağrısı ve g&ouml;z yorulması gibi etkileri olabilir.
@@ -1505,6 +1537,16 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - C-) Katmanlar
     - D-) Şekiller
     - **Cevap E-) Kontur**
+    ***
+1. I. Sadece d&uuml;z &ccedil;izimler yapılabilir.<br />
+II. &Ccedil;izgilerin uzunluğu s&uuml;r&uuml;kleme ile belirlenebilir.<br />
+III. Bağlantı noktaları sayesinde &ccedil;okgen &ccedil;izimler elde edilebilir.<br />
+<strong>InDesign programı kalem aracı ile ilgili yukarıdakilerden hangisi ya da hangileri doğrudur?</strong> 
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - **Cevap D-) II ve III**
+    - E-) I, II ve III
     ***
 1. <strong>InDesign programında yollara, şekillere, metin &ccedil;er&ccedil;evelerine veya metin ana hatlarına &ccedil;izgi eklemek i&ccedil;in aşağıdakilerden hangisi takip edilir?&nbsp;</strong>
     - **Cevap A-) Pencere / Kontur**
@@ -1607,6 +1649,13 @@ III. Profesyonel ışıklandırma sistemleri<br />
     - C-) Online ses yayını yapılabilir.
     - **Cevap D-) Sadece Windows işletim sisteminde &ccedil;alışır.**
     - E-) Ses ve videolara filtre eklenebilir.
+    ***
+1. <strong>&nbsp;Aşağıdakilerden hangisi PDF belgesine eklenen videonun harici bir oynatıcıda &ccedil;alıştırılması i&ccedil;in ortam panelinde se&ccedil;ilmesi gereken &ouml;zelliktir?</strong>
+    - **Cevap A-) Videoyu y&uuml;zen pencerede oynat**
+    - B-) Videoyu harici pencerede oynat
+    - C-) Videoyu yeni pencerede oynat
+    - D-) Videoyu tam ekran oynat
+    - E-) Videoyu yeni sekmede oynat
     ***
 1. <strong>Aşağıdakilerden hangisi &ccedil;evrimi&ccedil;i video d&uuml;zenleme ve oluşturmaya imk&acirc;n sunan bir web sayfası <u>değildir</u>?</strong>
     - A-) WeVideo
@@ -1733,4 +1782,12 @@ III. Dijital Filigran<br />
     - C-) iBooks
     - D-) Kindle
     - E-) Adobe PDF Okuyucu
+    ***
+1. Linux, MacOS ve Windows işletim sistemlerinde &ccedil;alışabilen ve farklı e-kitap formatları arasında d&ouml;n&uuml;ş&uuml;m yapabilen bir uygulamadır. Meta verileri ve kapak tasarımlarını d&uuml;zenleme &ouml;zellikleri sunmasının yanı sıra, aynı zamanda bir e-kitap okuma yazılımı olarak da kullanılabilir.<br />
+<strong>Belirtilen &ouml;zelliklere sahip e-kitap okuma yazılımı aşağıdakilerden hangisidir?</strong>
+    - A-) iBooks
+    - B-) Readium
+    - C-) Kindle
+    - D-) Adobe PDF Okuyucu
+    - **Cevap E-) Calibre**
     ***

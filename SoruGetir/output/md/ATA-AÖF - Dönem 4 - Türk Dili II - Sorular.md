@@ -112,7 +112,7 @@ V. Yeni &uuml;r&uuml;nler yarın yada &ouml;b&uuml;r g&uuml;n elimizde olacak.<b
     - D-) Kuzey Avrupa&rsquo;nın &ouml;nemli bir kısmı soğuk kuşakta yer alır.
     - E-) Evin kuzey tarafındaki duvarı yosun tutmuştu.
     ***
-1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde yazım <u>yanlışı</u> yapılmıştır?</strong>
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde yazım yanlışı yapılmıştır?</strong>
     - A-) Doğum g&uuml;n&uuml;ndeki s&uuml;slemeleri &ccedil;ok beğendim.<br />
     - **Cevap B-) Ahmet ve Aylin&rsquo;de hasta olmuş.<br />**
     - C-) Annem ve babam 20. evlilik yıl d&ouml;n&uuml;mlerini kutladı.<br />
@@ -1183,6 +1183,17 @@ Yalağında bulutlar yıkanan &ccedil;eşmeye.<br />
     - D-) Fecr-i &Acirc;ticiler
     - E-) İkinci Yeniciler
     ***
+1. Ok atılır kal&#39;asından<br />
+Hak saklasın belasından<br />
+K&ouml;roğlu&#39;nun narasından<br />
+Dağlar g&uuml;mb&uuml;r g&uuml;mb&uuml;rlenir<br />
+<strong>Yukarıdaki şiir konusuna g&ouml;re hangi şiir t&uuml;r&uuml; i&ccedil;erisinde yer alır?</strong>
+    - A-) Didaktik
+    - **Cevap B-) Epik**
+    - C-) Lirik
+    - D-) Satirik
+    - E-) Pastoral
+    ***
 1. <strong>Aşağıdakilerden hangisi yapay destana &ouml;rnek olarak g&ouml;sterilebilir?</strong>
     - A-) Manas
     - B-) G&ouml;&ccedil;
@@ -1309,6 +1320,13 @@ III. Etkili soru sorma becerisine sahiptir.<br />
     - **Cevap D-) II ve&nbsp;III**
     - E-) I,&nbsp;II ve&nbsp;III
     ***
+1. <strong>Aktif dinleme becerisine sahip biri, dinleme s&uuml;recinde aşağıdaki davranışlardan hangisini&nbsp;&nbsp;<u>yapmamalıdır</u>?</strong>
+    - **Cevap A-) Konuşmacıyı rahatsız etmemek i&ccedil;in, konuşmacıyla g&ouml;z teması kurmaz.**
+    - B-) Son s&ouml;z&uuml; s&ouml;ylemek i&ccedil;in &ccedil;abalamaz.
+    - C-) Konuşmacıyı su&ccedil;lamadan dinler.
+    - D-) Konuşmacıya sıkıldığını g&ouml;steren davranışlardan ka&ccedil;ınır.
+    - E-) Beden duruşunu konuşan kişiye g&ouml;re ayarlar.
+    ***
 1. <strong>Aşağıdakilerden hangisi dinleme s&uuml;re&ccedil;lerinden biri <u>değildir</u>?</strong>
     - A-) Se&ccedil;me ve alma
     - B-) İlgilenme / hazır bulunma
@@ -1433,6 +1451,13 @@ III. Etkili soru sorma becerisine sahiptir.<br />
     - D-) G&uuml;&ccedil;s&uuml;zl&uuml;k<br />
     - E-) Parazit sesler
     ***
+1. <strong>Aşağıdakilerden hangisi konuşmayı meydana getiren unsurlardan biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Ses
+    - B-) Solunum
+    - C-) Boğumlama
+    - **Cevap D-) &Ouml;rg&uuml;tleme**
+    - E-) Kelime hazinesi
+    ***
 ## Unite 11
 1. Bakışların karşıdaki insanın g&ouml;zleri ve ağzı arasındaki kısma y&ouml;nelmesi olarak adlandırılmaktadır. Bu daha &ccedil;ok resm&icirc; bir bakıştır.<br />
 <strong>A&ccedil;ıklaması yapılan bakış &ccedil;eşidi aşağıdakilerden hangisidir?</strong>
@@ -1442,8 +1467,7 @@ III. Etkili soru sorma becerisine sahiptir.<br />
     - D-) Yan bakış
     - E-) Dik bakış
     ***
-1. Beden dili davranışlarında g&ouml;z bebeklerinin hem fiziksel yapısı hem de y&ouml;neldikleri nokta birtakım mesajlar vermektedir.<br />
-<strong>Buna g&ouml;re g&ouml;z bebeklerinin b&uuml;y&uuml;mesi aşağıdakilerden hangisini işaret eder?</strong>
+1. <strong>Beden dili davranışlarında g&ouml;z bebeklerinin b&uuml;y&uuml;mesi aşağıdakilerden hangisini işaret eder?</strong>
     - A-) Kişinin ilgisinin azalmaya başladığını ya da kaygılandığını
     - B-) Kişinin &ouml;fkelendiğini, mutsuz olduğunu
     - C-) Kişinin bir şeyi olumsuz ya da ş&uuml;pheli g&ouml;rd&uuml;ğ&uuml;n&uuml;
@@ -1533,6 +1557,13 @@ III. Etkili soru sorma becerisine sahiptir.<br />
     - C-) G&ouml;zlerine bakarak insanların karakterini anlatabiliriz.
     - D-) G&ouml;z renkleri beden dilini yansıtır.
     - E-) G&ouml;zleri parlak olan insanları g&uuml;&ccedil;l&uuml; karakterler olarak tanımlayabiliriz.
+    ***
+1. <strong>Beden dili &ouml;gelerinden g&ouml;zlerin ifade ettiği mesajlarla ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
+    - A-) G&ouml;z bebekleri ortamın ışık durumuna g&ouml;re değişiklik g&ouml;stermez.<br />
+    - B-) G&ouml;z kapaklarının birbirinden uzaklaşması bir olaya karşı ilgisizliğin g&ouml;stergesidir.<br />
+    - C-) G&ouml;z bebeklerinin k&uuml;&ccedil;&uuml;lmesi kişinin heyecanlandığını anlatır.<br />
+    - D-) Konuşma esnasında g&ouml;z teması kesinlikle kurulmamalıdır.<br />
+    - **Cevap E-) G&ouml;z bebeklerinin sağa ya da sola kayması kişilerin d&uuml;ş&uuml;nceleri hakkında fikir verir.**
     ***
 ## Unite 12
 1. <strong>Başı &ouml;ne eğik, g&ouml;z teması kurmaktan ka&ccedil;ınan bir &ccedil;ocuğun beden duruşu aşağıdakilerden hangisiyle ifade edilir?</strong>
@@ -1647,6 +1678,13 @@ III. Etkili soru sorma becerisine sahiptir.<br />
     - D-) Reddetme
     - **Cevap E-) Korkma**
     ***
+1. <strong>İletişim s&uuml;recinde kişiler arasındaki sosyal mesafenin sınırları temelde neye g&ouml;re belirlenir?</strong>
+    - A-) Yaş
+    - B-) Cinsiyet
+    - C-) Stat&uuml;
+    - D-) G&uuml;ven
+    - **Cevap E-) Yakınlık**
+    ***
 1. <strong>İletişim anında, bireyin omuzlarını aşağı d&uuml;ş&uuml;r&uuml;p i&ccedil;eri doğru b&uuml;kmesi ne t&uuml;r bir beden dili anlamı i&ccedil;erir?</strong>
     - A-) M&uuml;tavazı olma
     - **Cevap B-) Kendinden emin olamama**
@@ -1662,6 +1700,13 @@ III. Etkili soru sorma becerisine sahiptir.<br />
     - **Cevap E-) Muhataplar arasında sağlıklı bir iletişimin kurulduğu**
     ***
 ## Unite 13
+1. <strong>M&uuml;nazara ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Ağırlıklı olarak g&uuml;ncel, sosyal ve siyasi meseleler tartışılır.
+    - B-) Sunum esnasında daha &ouml;nce alınan notlardan yararlanılabilir.
+    - C-) Karşıt g&ouml;r&uuml;şleri savunan iki takım vardır.
+    - D-) Konuşmalar j&uuml;ri tarafından değerlendirilir.
+    - **Cevap E-) Karşı takım konuşurken benimsenmeyen fikirler derh&acirc;l &ccedil;&uuml;r&uuml;t&uuml;lmelidir.**
+    ***
 1. A&ccedil;ık oturumda izleyicilerin sorularını almak ve cevaplamak m&uuml;mk&uuml;nd&uuml;r.<br />
 <strong>Bu durumda a&ccedil;ık oturum aşağıdakilerden hangisine d&ouml;n&uuml;ş&uuml;r?</strong>
     - A-) Panel
@@ -1924,6 +1969,16 @@ IV. Sempozyum<br />
     - **Cevap C-) Telekonferans<br />**
     - D-) M&uuml;nazara<br />
     - E-) A&ccedil;ılış konuşması
+    ***
+1. I. Konuşmacı ve dinleyicilerin aynı mek&acirc;nda olması zorunluluğu ortadan kalkar.<br />
+II. Konuşmacılar birden fazla mek&acirc;nda bulunan dinleyicilere hitap etme imk&acirc;nı bulurlar.<br />
+III. Katılımcı ve d&uuml;zenleyicilere zaman ve maliyet a&ccedil;ısından tasarruf imk&acirc;nı sunar.<br />
+<strong>Yukarıda &ouml;zellikleri verilen s&ouml;zl&uuml; anlatım t&uuml;r&uuml;ne ne ad verilir?</strong>
+    - A-) M&uuml;nazara
+    - B-) S&ouml;yleşi
+    - C-) Konferans
+    - **Cevap D-) Telekonferans**
+    - E-) Kongre
     ***
 1. Toplumu yakından ilgilendiren herhangi bir konu hakkında, dinleyiciler karşısında farklı uzman kişilerin konu ya da olayla ilgili yaptığı seri konuşmalara ............ adı verilir. Bu t&uuml;r konuşmalarda belirlenen bir konu &uuml;zerinde &ccedil;alışma yapan alanın uzmanları bir araya getirilir ve sunulacak konular tasnif edilerek oturumlar d&uuml;zenlenir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>

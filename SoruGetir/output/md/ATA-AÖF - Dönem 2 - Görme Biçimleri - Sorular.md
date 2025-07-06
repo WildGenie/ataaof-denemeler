@@ -778,7 +778,7 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - A-) K&uuml;bizm
     - B-) Empresyonizm
     - C-) F&uuml;t&uuml;rizm
-    - **Cevap D-) Soyut Sanat**
+    - **Cevap D-) Soyut Resim**
     - E-) Konstr&uuml;ktivizm
     ***
 1. <strong>&ldquo;Resim y&uuml;zeyinde alışıldık mek&acirc;n algısını deneyimlememize karşın, bu mek&acirc;n i&ccedil;inde yer alan nesneler oluşları ve konumları ile fiziksel ger&ccedil;ekliğe uymaz.&rdquo; c&uuml;mlesi hangi sanat akımını tarif eder?</strong>
@@ -1040,6 +1040,13 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - E-) Minimalizm
     ***
 ## Unite 8
+1. <strong>A&ccedil;ık sarı rengin toprağa, yeşil rengin suya, mavi rengin havaya ve kırmızı rengin ateşe, siyahın ise karanlığa ait olduğunu referans g&ouml;steren sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
+    - A-) Van Gogh
+    - B-) El Greco
+    - **Cevap C-) Leonardo da Vinci**
+    - D-) Peter Paul Rubens
+    - E-) Giotto di Bondone
+    ***
 1. <strong>Ruhsal değerlerin &ouml;nemini vurgulamak amacı ile resimlerinde canlı renkler yerine renklerin a&ccedil;ık ve koyu tonlarını kullanmayı benimseyen R&ouml;nesans sanat&ccedil;ısı aşağıdakilerden hangisidir?</strong>
     - A-) Peter Paul Rubens
     - B-) Michelangelo
@@ -1054,8 +1061,7 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - **Cevap D-) 17. yy.**
     - E-) 13. yy.
     ***
-1. Sanat&ccedil;ılar eserlerine konu ettikleri zenginlik ve ihtişamı anlatmak i&ccedil;in parlak renkleri kullanmışlardır.<br />
-<strong>Bu c&uuml;mle ile aşağıdaki hangi d&ouml;nem sanat&ccedil;ıları ifade edilmektedir?</strong>
+1. <strong>&quot;Sanat&ccedil;ılar eserlerine konu ettikleri zenginlik ve ihtişamı anlatmak i&ccedil;in parlak renkleri kullanmışlardır.&quot; c&uuml;mlesi ile aşağıdaki hangi d&ouml;nem sanat&ccedil;ıları ifade edilmektedir?</strong>
     - A-) Barok
     - B-) R&ouml;nesans
     - C-) Maniyerizm
@@ -1201,6 +1207,14 @@ III. &Ccedil;izgisel uyumluluk<br />
     - **Cevap C-) Yalnız II**
     - D-) I ve III
     - E-) Yalnız III
+    ***
+1. <strong>İki birimin b&uuml;y&uuml;kl&uuml;k, renk değeri, &ccedil;izgisel uyumluluk gibi simetri esasına dayalı karşıtlığı ile aşağıdakilerden hangisi sağlanır?</strong><br />
+
+    - A-) Dinamik denge
+    - B-) Renk dengesi
+    - **Cevap C-) Statik denge**
+    - D-) Derinlik
+    - E-) Ritmik denge
     ***
 1. <strong>Resim y&uuml;zey &ouml;zelliklerini analiz ederken hareket kavramını tansiyon kavramı ile değiştirerek terminolojide değişim yapmış olan sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Wassily Kandinsky**
@@ -1388,6 +1402,13 @@ III. Dikkatimizi dağıtır.<br />
     - D-) George Braque
     - E-) Paul Cezanne
     ***
+1. <strong>&ldquo;Herhangi bir tarih d&ouml;neminin psikolojik ve tinsel mizacını anlamak istiyorsanız, bunu o d&ouml;nemin sanatının derinlerinde aramaktan daha iyisini yapamazsınız.&rdquo; diyen psikolog, yazar aşağıdakilerden hangisidir?</strong> 
+    - A-) Paul Tillich
+    - **Cevap B-) Rollo May**
+    - C-) Umberto Eco
+    - D-) Henry Bergson
+    - E-) Leon Chestov
+    ***
 1. Yapım s&uuml;resi boyunca sanat&ccedil;ının hareketinin g&uuml;c&uuml;, hızı ve y&ouml;n&uuml; yapıta yansır.<br />
 <strong>Bunu hangi sanat hareketlerinde g&ouml;zlemlenebilir?</strong> 
     - A-) Maniyerizm
@@ -1499,6 +1520,14 @@ III. Dikkatimizi dağıtır.<br />
     - C-) John Logie Baird
     - D-) Alexander Graham Bell
     - E-) Guglielmo Marconi
+    ***
+1. Kelimeleri yaklaşıp uzaklaşan ses k&uuml;meleri olarak duyar, yazıldığında ise harf k&uuml;meleri olarak g&ouml;r&uuml;r&uuml;z.<br />
+<strong>C&uuml;mlede hangi plastik d&uuml;zenleme ilkesinden bahsedilmektedir?</strong>
+    - A-) Kapalılık
+    - **Cevap B-) Yakınlık**
+    - C-) S&uuml;reklilik
+    - D-) Duygusal Alan
+    - E-) Benzerlik/eşitlik
     ***
 1. <strong>Resim y&uuml;zeyinde, iki boyutlu alanda uzaysal deneyimler, algımızda &uuml;&ccedil; boyuta ulaşma &ccedil;abası aşağıdaki hangi ilke ya da ilkeler doğrultusunda hareket eder?</strong>
     - A-) Yakınlık, benzerlik
@@ -1670,6 +1699,14 @@ IV. Minimalizm<br />
     - D-) I, II ve IV
     - **Cevap E-) II, III ve IV**
     ***
+1. Malevi&ccedil; ve Kandinsky kendi anlatım dilleri ile yeni yarattıkları bi&ccedil;im anlayışında ......................... ulaşmak istemişlerdir.&quot;<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) b&uuml;t&uuml;nselliğe
+    - B-) sadeliğe
+    - C-) felsefeye
+    - **Cevap D-) tinselliğe**
+    - E-) bi&ccedil;imselliğe
+    ***
 ## Unite 13
 1. <strong>Aşağıdakilerden hangisi bilginin kaynağının deneyden bağımsız &uuml;st d&uuml;zey bir duyum olduğunu s&ouml;yleyen us&ccedil;uluk felsefe akımının d&uuml;ş&uuml;n&uuml;rlerinden biri <u>değildir</u>?</strong>
     - A-) Aristoteles
@@ -1745,8 +1782,7 @@ Zihnimizin izlenimler ve fikirlerden oluşan iki t&uuml;r &ouml;zelliği olduğu
     - **Cevap D-) David Hume**
     - E-) Bertrand Russel
     ***
-1. Konunun sanat&ccedil;ının zihninde bi&ccedil;im kazanmış h&acirc;lidir. Sanat&ccedil;ının zihninde tasarladığı nesnedir.<br />
-<strong>Bu tanımlama sanat yapıtının oluşum s&uuml;recinden hangisini ifade eder?</strong>
+1. <strong>&quot;Konunun sanat&ccedil;ının zihninde bi&ccedil;im kazanmış h&acirc;lidir. Sanat&ccedil;ının zihninde tasarladığı nesnedir.&quot; tanımı sanat yapıtının oluşum s&uuml;recinden hangisini ifade eder?</strong>
     - A-) Mevcut nesne
     - **Cevap B-) Zihinsel tasarım nesnesi**
     - C-) Bitmemiş nesne
@@ -1774,6 +1810,13 @@ Zihnimizin izlenimler ve fikirlerden oluşan iki t&uuml;r &ouml;zelliği olduğu
     - C-) Georg Wilhelm Friedrich Hegel
     - D-) Bertrand Russel
     - E-) Ludwing Wittgwnstein
+    ***
+1. <strong>Sanat&ccedil;ıların doğaya ve topluma ve toplumsal sorunlara y&ouml;nelmeye, kendi duygu ve kavrayışlarını yapıtlarında ifadeye d&ouml;n&uuml;şt&uuml;rmeye başladığı d&ouml;nem hangi sanat akımını d&uuml;ş&uuml;nd&uuml;rmelidir?</strong>
+    - A-) Minimalizm
+    - **Cevap B-) Romantizm**
+    - C-) Empresyonizm
+    - D-) R&ouml;nesans
+    - E-) Rokoko
     ***
 1. <strong>&ldquo;Sanat&ccedil;ı tarafından estetik erek ve estetik tavır sonucu, estetik değer ve sanatsal kaygılarla &uuml;retilen, alımlayıcı tarafından estetik y&ouml;nelimle kavranan tek ve benzersiz nesnedir.&rdquo; c&uuml;mlesi aşağıdakilerden hangisini tanımlar?</strong>
     - A-) Mevcut nesne
@@ -1884,6 +1927,14 @@ End&uuml;striyel &uuml;retim nesnelerinin insanlar arasında eşitlik&ccedil;i b
     - C-) Rene Magritte
     - D-) Diego Velazquez
     - E-) Leonardo da Vinci
+    ***
+1. <strong>İmgenin ışık&ndash;g&ouml;lge kullanımıyla en belirgin &ouml;zelliğe sahip olduğu sanat d&ouml;nemi aşağıdakilerden hangisidir?</strong><br type="_moz" />
+
+    - A-) Maniyerizm
+    - B-) Antik Yunan
+    - C-) R&ouml;nesans
+    - D-) Gotik
+    - **Cevap E-) Barok**
     ***
 1. <strong>&ldquo;Resimlerde ağırlıklı olarak aşk, &ouml;l&uuml;m, kahramanlık, tabiat konularını işlemişlerdir. İmgeler, nesnel ger&ccedil;ekliğin &ouml;tesinde temsil ettiği şeyin duygusunun aktarım unsurudur.&rdquo; ifadeleri ile hangi d&ouml;nem sanatından bahsedilmektedir?</strong>
     - A-) R&ouml;nesans

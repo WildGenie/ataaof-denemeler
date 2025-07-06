@@ -1052,7 +1052,7 @@ III.&nbsp;13+ ve 18+ sembolleri programın yayını s&uuml;resince ekranın bir 
     - D-) Trollemek
     - E-) Avatar oluşturmak
     ***
-1. <strong>Aşağıdaki ifadelerden hangisinin internet kafelerde g&ouml;r&uuml;len davranışlar arasında olduğu <u>s&ouml;ylenemez</u>?</strong>
+1. <strong>Aşağıdakilerden hangisinin internet kafelerde g&ouml;r&uuml;len davranışlar arasında olduğu <u>s&ouml;ylenemez</u>?</strong>
     - A-) Boş zaman harcaması
     - B-) Şans oyunları
     - C-) Yalnızlaşma
@@ -1072,6 +1072,13 @@ III.&nbsp;13+ ve 18+ sembolleri programın yayını s&uuml;resince ekranın bir 
     - **Cevap C-) Kaybedenler**
     - D-) Sosyalleşenler
     - E-) Katiller
+    ***
+1. <strong>Aşağıdakilerden hangisi dijital oyun okuryazarlığının ilkelerinden biri <u>değildir</u>?</strong>
+    - A-) Dijital oyunlar ger&ccedil;eği yansıtmayıp, sim&uuml;lasyondan oluşmaktadır.
+    - **Cevap B-) Dijital oyunlar, kullanıcının bilgi d&uuml;zeyini artırır.**
+    - C-) Oyun i&ccedil;erisinde sosyal ve siyasi mesajlar bulunabilir.
+    - D-) Oyun i&ccedil;erisinde şekil ve i&ccedil;erik birbiri ile bağlantılıdır.
+    - E-) Ticari işletmeler tarafından para kazanmak amacıyla oluşturulmaktadır.
     ***
 ## Unite 9
 1. <strong>Bir kurumun meşruiyet kaynakları arasında aşağıdakilerden hangisi <u>sayılamaz</u>?</strong>
@@ -1210,6 +1217,16 @@ III. K&uuml;reselleşme<br />
     - D-) Elektronik posta
     - E-) Kapalı ağlar
     ***
+1. I.&nbsp;CİMER: Vatandaşların telefonla ya da internet ortamında &ccedil;eşitli konulardaki g&ouml;r&uuml;ş, istek ve şik&acirc;yetlerini Cumhurbaşkanlığına ya da Cumhurbaşkanlığı koordinasyonunda kamu kurumlarına iletebildikleri bir uygulamadır.<br />
+II. MHRS: Vatandaşın telefon, web ve mobil uygulama aracılığıyla Sağlık Bakanlığı&#39;na bağlı hastane, aile hekimlikleri ve ağız diş sağlığı merkezlerinden istediği hastaneden ya da hekimden randevu alabildiği bir sistemdir.<br />
+III.&nbsp;UYAP: Kamu y&ouml;netimi unsurlarının mevzuat dayanaklarıyla birlikte tespitinin yapılıp elektronik ortama aktarıldığı ve geliştirilen e-Devlet uygulamalarının birbirine entegre edilerek&nbsp;tek merkezden y&ouml;netildiği, b&ouml;ylece Devlete ge&ccedil;ilmesini sağlayan bir sistemdir.&nbsp;<br />
+<strong>Yukarıdaki kamu kurumlarında dijital katılımı sağlayan uygulama ile uygulamanın işlevi eşleştirmelerinden hangisi ya da hangiileri doğrudur?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - **Cevap C-) I ve II**
+    - D-) II ve III
+    - E-) I, II ve III
+    ***
 ## Unite 10
 1. <strong>Sağlıkla ilgili yapılan tanımların k&uuml;lt&uuml;rden k&uuml;lt&uuml;re farklılıklar g&ouml;stermesinin&nbsp;</strong><strong>nedeni aşağıdakilerden hangisi <u>değildir</u>?</strong>
     - A-) Yapılan bireysel yorumlar
@@ -1302,6 +1319,13 @@ III. K&uuml;reselleşme<br />
     - D-) Sağlık veri setleri oluşturma
     - **Cevap E-) Sağlık profesyonelleri arasında sosyal bir ağ oluşturma**
     ***
+1. <strong>Aşağıdakilerden hangisi sosyal medyanın sağlık iletişimindeki kullanım alanlarından biri <u>değildir</u>?</strong>
+    - A-) Sağılığın geliştirilmesi
+    - B-) Kronik hastalıklar y&ouml;netimi
+    - **Cevap C-) Sağlığın reklam mecrası**
+    - D-) Sağlık kuruluşları kurumsal iletişimi
+    - E-) Sağlık profesyonelleri iletişim y&ouml;netimi
+    ***
 1. <strong>Aşağıdakilerden hangisi sosyal medyanın sağlık hizmetlerinde kullanılmasının doğurduğu risklerden biri <u>değildir</u>?</strong>
     - A-) Sağlık Personelinin disiplin soruşturmasına maruz kalması
     - **Cevap B-) Tıbbi teşhislerde başarısızlığın artması**
@@ -1393,6 +1417,13 @@ III. K&uuml;reselleşme<br />
     - C-) Uydu
     - **Cevap D-) İnternet**
     - E-) Gazete
+    ***
+1. <strong>Aşağıdakilerden hangisi internet teknolojisinin siyasal iletişim alanına etkilerinden biri <u>değildir</u>?</strong>
+    - A-) Se&ccedil;imlere katılımı artırmaktadır.
+    - **Cevap B-) Mesaj aktarımında sesin etkisini artırmıştır.**
+    - C-) İnteraktif demokrasiyi teşvik etmektedir.
+    - D-) D&uuml;ş&uuml;k b&uuml;t&ccedil;eli kampanyalara imk&acirc;n vermektedir.
+    - E-) G&uuml;venlik sorunu oluşabilmektedir.
     ***
 1. <strong>Medya ve kullanıcı/izleyici arasındaki kesin sınırları yumuşatan kitle iletişim aracı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Sosyal medya**
@@ -1521,6 +1552,16 @@ III. K&uuml;reselleşme<br />
     - D-) G&ouml;r&uuml;nt&uuml;l&uuml; Ağ (Display) Reklamları
     - E-) Arama Motoru (Search Engine) Reklamları
     ***
+1. I. Click : Bir kullanıcının reklama ka&ccedil; defa tıkladığını ortaya koyan rakamdır.<br />
+II. UTM tracking (UTM takibi): UTM kodu, d&ouml;n&uuml;ş&uuml;m&uuml;n hangi kanal &uuml;zerinden geldiğini ortaya koyan metriktir.<br />
+III. Landing page: Sergilenen reklam tıklandığında y&ouml;nlendirilen sayfadır.<br />
+<strong>Yukarıdaki</strong><strong>&nbsp;sık kullanılan dijital reklam terimleri ve tanımlarından hangisi ya da hangileri <u>yanlıştır</u>?</strong>
+    - A-) Yalnız I
+    - **Cevap B-) Yalnız II**
+    - C-) Yalnız III
+    - D-) I ve II
+    - E-) II ve III
+    ***
 ## Unite 13
 1. <strong>G&uuml;n&uuml;m&uuml;zde Kayseri il sınırları i&ccedil;inde kalan&nbsp;</strong><strong>M&Ouml; 20. y&uuml;zyılda</strong><strong>&nbsp;K&uuml;ltepe&rsquo;yi ticari koloni olarak kuran ve Anadolu-Suriye-Mezopotamya arasında olduk&ccedil;a hareketli ticari faaliyetler y&uuml;r&uuml;ten devlet aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Asurlular**
@@ -1634,6 +1675,13 @@ III. K&uuml;reselleşme<br />
     - D-) Portf&ouml;y
     - **Cevap E-) İş Planı**
     ***
+1. <strong>Aşağıdakilerden hangisi, t&uuml;keticilerin e-posta adreslerine tanıtım materyalleri g&ouml;ndererek pazarlama yapılmasını kapsamaktadır?</strong>
+    - A-) Halkla ilişkiler
+    - B-) Lokasyon bazlı &ccedil;alışmalar
+    - C-) Gerilla &ccedil;alışmalar
+    - **Cevap D-) E-posta pazarlama**
+    - E-) Reklam
+    ***
 1. <strong>Devletlerin kendi sınırları i&ccedil;inde kurulmuş kurum, kuruluş ve organizasyonlar gibi t&uuml;zel kişiliklere verdiği dijital ortamdaki hizmetleri kapsayan e- ticaret modeli aşağıdakilerden hangisidir?</strong>
     - A-) B2B&nbsp;(Business to Business - İşletmeden İşletmeye)
     - **Cevap B-) G2B&nbsp;(Government to Business - Devletten İşletmeye)**
@@ -1739,6 +1787,13 @@ III. K&uuml;reselleşme<br />
     - C-) Ceza İnfaz İlkesi
     - D-) Yargı İlkesi
     - E-) Ceza ve Muhakemede Yargı İlkesi
+    ***
+1. <strong>5651 Sayılı İnternet Kanunu&rsquo;na g&ouml;re barındırma (hosting) hizmeti veren işletmeler ve i&ccedil;eriğini kullanıcıların oluşturduğu sosyal medya platformları aşağıdaki kavramlardan hangisiyle a&ccedil;ıklanmaktadır?</strong>
+    - A-) Maddi sağlayıcı
+    - B-) İ&ccedil;erik sağlayıcı
+    - C-) Erişim sağlayıcı
+    - **Cevap D-) Yer sağlayıcı**
+    - E-) Manevi sağlayıcı
     ***
 1. <strong>Bir sosyal medya platformunda hi&ccedil; tanımadığı bir kullanıcıyı sadece farklı siyasi g&ouml;r&uuml;şte olduğu i&ccedil;in tehdit eden kişi, TCK&rsquo;ya g&ouml;re şik&acirc;yet edilmesi durumunda hangi madde kapsamında yargılanması <u>beklenmez</u>?</strong>
     - A-) Tehdit

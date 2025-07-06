@@ -1285,6 +1285,13 @@ III. B&uuml;t&uuml;n olağan&uuml;st&uuml; masallar yapıları a&ccedil;ısında
     - **Cevap D-) Olaylar masalların temel b&ouml;l&uuml;mlerini oluşturur.**
     - E-) Kişilerin işlevleri masalın temel b&ouml;l&uuml;mlerini oluşturur.
     ***
+1. <strong>Victor Shlovsky&#39;nin kaleme aldığı, edebiyat dilinin g&uuml;nl&uuml;k dil kullanımından farklı olması ve alışkanlıkları kırarak farkına varma bilinci oluşturması gerektiğini savunduğu eser aşağıdakilerden hangisidir?</strong>
+    - A-) Bilim Olarak Edebiyat
+    - **Cevap B-) Teknik Olarak Sanat**
+    - C-) Yeniden Sanat
+    - D-) Edeb&icirc; Eleştiri
+    - E-) Edebiyat G&uuml;nl&uuml;ğ&uuml;
+    ***
 1. I. Dil yoluyla algılama s&uuml;recini uzatmak<br />
 II. Anlaşılmayı zorlaştırmak<br />
 III. Alışkanlıkları kırmak<br />
@@ -1416,6 +1423,15 @@ III. &Ouml;rnekleri arasında amblemler, m&uuml;zik harfleri ve matematiksel g&o
     - D-) Buluş
     - E-) Doğrudan g&ouml;sterge
     ***
+1. Eco G&ouml;stergebilim Kuramı&#39;nı temellendirirken bazı kavramsal durumlara da kendi d&uuml;ş&uuml;nceleri ekseninde a&ccedil;ıklamalar yapmış ve kavramlar kullanmıştır. Bu durumda ilk olarak &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; bahsetmektedir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
+
+    - **Cevap A-) sistemsel kodlardan**
+    - B-) bi&ccedil;im teorisinden
+    - C-) a&ccedil;ık metinden
+    - D-) metin- okur diyalektiğinden
+    - E-) g&ouml;sterge kavramından
+    ***
 1. I. Genel itibarıyla her kesime a&ccedil;ık olan kitle iletişim ara&ccedil;larından gelen iletilerdir.<br />
 II. Yorum d&uuml;zeyinin olduk&ccedil;a y&uuml;ksek olabileceği bir şekilde kurulur.<br />
 III. Genel olarak aydın kesime ait ve edebimetinlerin &ouml;zelliğidir.<br />
@@ -1535,6 +1551,14 @@ III. Doğrudanlık<br />
     - **Cevap C-) belirtisel g&ouml;sterge**
     - D-) simge
     - E-) işaret
+    ***
+1. <strong>Aşağıdakilerden hangisi postmodernizmin temel s&ouml;ylemlerinden biri <u>değildir</u>?</strong><br />
+
+    - A-) Dil kapalı u&ccedil;lu bir yapıdan ziyade a&ccedil;ık u&ccedil;lu ve &ouml;znel bir s&uuml;re&ccedil;tir.
+    - B-) Dil işaretinin belirlenmesinde keyfilik s&ouml;z konusudur.
+    - **Cevap C-) Dış d&uuml;nya nesnel olarak temsil edilebilir.**
+    - D-) Dil nesnel ger&ccedil;ekliği yansıtmaya uygun bir ara&ccedil; değildir.
+    - E-) Doğru ve nesnel ger&ccedil;ekliği yansıttığı iddiasını taşıyan t&uuml;m kuramlar ge&ccedil;ersizdir.
     ***
 1. <strong>Postmodern fotoğraf sanatında bir temsil stratejisi olarak sahnelemenin ana gerek&ccedil;elerinden biri aşağıdakilerden hangisidir?</strong><br />
 
@@ -1660,6 +1684,14 @@ III. Simgesel g&ouml;sterge<br />
     - C-) &Ccedil;ete &uuml;yesi
     - D-) &Ccedil;ift&ccedil;i
     - E-) Doktor
+    ***
+1. <strong>Eco&rsquo;nun A Theory of Semiotics adlı kitabında oluşturmuş olduğu ve g&ouml;stergebilimle ilgili g&ouml;r&uuml;şlerinin temelini oluşturan kavram aşağıdakilerden hangisidir?</strong><br />
+
+    - A-) Tamamlılık
+    - B-) A&ccedil;ıklılık
+    - **Cevap C-) Yalan Teorisi**
+    - D-) Simge
+    - E-) Belirti
     ***
 1. <strong>Eco&rsquo;nun James Bond serisini 9 işlev &uuml;zerine kurması aşağıdaki isimlerden hangisinin 31 işleviyle benzerlik g&ouml;stermektedir?</strong><br />
 
@@ -1798,6 +1830,14 @@ III. Ses efektleri<br />
     - D-) Kamu yararı g&ouml;zetilmeli
     - E-) Kısa ve a&ccedil;ık c&uuml;mleler kurulmalı
     ***
+1. <strong>Aşağıdakilerden hangisi sık yaşanan olayların hep aynı tarzda haberleştirildiğini ifade eden s&ouml;ylemsel stratejidir?</strong><br />
+
+    - A-) Dramatikleştirme
+    - B-) Magazinelleştirme
+    - C-) Kişiselleştirme
+    - D-) Kategorileştirme
+    - **Cevap E-) Tipleştirme**
+    ***
 1. Medya egemen ideolojinin sembolik inşasını oluştururken eylem ya da olguyu kendi g&uuml;ncel ve somut b&uuml;t&uuml;nl&uuml;ğ&uuml;n&uuml;n dışında değerlendirir.&nbsp;<br />
 <strong>Bu tanımlama i&ccedil;in aşağıdaki kavramlardan hangisi&nbsp; kullanılır?</strong>
     - A-) Meşrulaştırma
@@ -1932,6 +1972,17 @@ III. Ekonomi<br />
     - C-) Sembolik kod
     - D-) Enigmatik kod
     - E-) Yan anlamsal kod
+    ***
+1. I. Bilgilendirme<br />
+II. İkna Etme<br />
+III. Sınırlandırma<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri reklamın işlevleri arasında <u>yer almaz</u>?</strong><br />
+
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - **Cevap C-) Yalnız III**
+    - D-) I ve II
+    - E-) I, II ve III
     ***
 1. I. Enigmatik kod<br />
 II. Yananlamsal kod<br />
@@ -2068,6 +2119,14 @@ III. Kullanım engeli<br />
     - C-) Enformasyon paylaşılması ve dağıtılması &ccedil;ok daha hızlı ve kolay h&acirc;le gelmiştir.
     - D-) Enformasyon &uuml;zerinde her zaman g&uuml;ncelleme yapma olanaklı olmuştur.
     - **Cevap E-) Enformasyonun &uuml;retimi ve dağıtımı y&uuml;ksek maliyet gerektirmiştir.**
+    ***
+1. <strong>Yapay zek&acirc;, 3D yazıcılar, robotik, nano ve uzay teknolojisi alanlarında yaşanan gelişmeler &ccedil;er&ccedil;evesinde belirli bir ekonomik değere sahip canlı-cansız her nesnenin internet bağlantılarıyla diğer nesnelerle iletişime ve etkileşime ge&ccedil;ebileceği akıllı &uuml;retim d&ouml;nemine ne ad verilir?</strong><br />
+
+    - A-) Bilgi &Ccedil;ağı
+    - B-) Sanayileşme
+    - **Cevap C-) End&uuml;stri 4.0**
+    - D-) Enformasyon Devrimi
+    - E-) Web 2.0
     ***
 1. <strong>&quot;Dolapta eksik olan gıda maddelerini alışveriş listesi h&acirc;linde cep telefonumuza g&ouml;nderen buzdolapları veya hangi otob&uuml;s&uuml;n durağa yaklaşmak &uuml;zere olduğunu bildiren akıllı duraklar&hellip;&quot;&nbsp;ifadesinde ge&ccedil;en &ouml;rnekleri m&uuml;mk&uuml;n kılan teknoloji aşağıdakilerden hangisidir?</strong><br />
 

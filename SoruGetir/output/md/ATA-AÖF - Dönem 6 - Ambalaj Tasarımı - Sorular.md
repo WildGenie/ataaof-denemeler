@@ -696,6 +696,13 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - D-) Script yazı
     - E-) Serif
     ***
+1. <strong>Bir &uuml;r&uuml;n ambalajında &uuml;r&uuml;n&uuml;n &ldquo;&ouml;zg&uuml;n ve eğlenceli&rdquo; olduğu algısını uyandırmak i&ccedil;in hangi yazı tipi tercih edilmelidir?</strong>
+    - A-) Serif
+    - B-) Bold (kalın) yazı
+    - **Cevap C-) Display (dekoratif) yazı**
+    - D-) Sans serif
+    - E-) Script yazı
+    ***
 1. <strong>Aşağıdakilerden hangisi ambalaj tasarımında tipografinin kullanım bi&ccedil;imlerindendir?</strong>
     - A-) &Uuml;retici odaklı kullanım
     - **Cevap B-) Enformasyon ama&ccedil;lı kullanım**
@@ -767,6 +774,14 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - E-) Dekoratif yazı t&uuml;rlerinden faydalanmak
     ***
 ## Unite 9
+1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;; herhangi bir &uuml;r&uuml;n ya da hizmet hakkında bilgi vermek, &uuml;r&uuml;n&uuml; tanıtarak satın almaya ikna etmek amacıyla afiş, ilan, etiket ve ambalaj &uuml;zerinde kullanılan ill&uuml;strasyonlardır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) Reklam ill&uuml;strasyonları**
+    - B-) Kent ill&uuml;strasyonları
+    - C-) Bilimsel ill&uuml;strasyonlar
+    - D-) Karakter ill&uuml;strasyonları
+    - E-) Editoryal ill&uuml;strasyonlar
+    ***
 1. <strong>Ambalaj tasarımı g&ouml;rsel se&ccedil;iminde aşağıdakilerden hangisi etkili <u>değildir</u>?</strong>
     - **Cevap A-) &Uuml;r&uuml;n&uuml;n rengi**
     - B-) &Uuml;r&uuml;n&uuml; i&ccedil;eriği
@@ -863,6 +878,13 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - D-) Holistik (B&uuml;t&uuml;nsel) Anlayışlı Yaklaşım
     - E-) Satış Anlayışlı Yaklaşım
     ***
+1. <strong>Aşağıdakilerde hangisi, n&ouml;rometrik &ouml;l&ccedil;&uuml;m teknikleri i&ccedil;erisinde <u>yer almaz</u>?</strong>
+    - A-) SPT (Sabit Hal İnceleme Tipografisi)
+    - B-) MEG (Manyetik Beyin Grafisi)
+    - C-) PET (Pozitron Emisyon Tomografi)
+    - D-) FMRI (Fonksiyonel Manyetik Rezonans G&ouml;r&uuml;nt&uuml;leme Tekniği)
+    - **Cevap E-) Facial Coding (Y&uuml;z Okuma Tekniği)**
+    ***
 1. <strong>Aşağıdakilerden hangisi n&ouml;ropazarlama yaklaşımlarının &uuml;st&uuml;n y&ouml;nleri arasında <u>yer almaz</u>?</strong>
     - A-) G&uuml;venilir olması
     - B-) &Ouml;l&ccedil;&uuml;m&uuml; daha &ouml;nce yapılmamış alanlarda kullanılabilmesi
@@ -958,6 +980,13 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - D-) g&uuml;veni
     - E-) imajı
     ***
+1. <strong>Markanın vaatlerini yerine getirmesiyle t&uuml;keticide markaya karşı artış g&ouml;steren unsur aşağıdakilerden hangisidir?</strong>
+    - A-) Tekrar almama isteği
+    - B-) Satın alma ihtiyacı
+    - **Cevap C-) G&uuml;ven ve bağ duygusu**
+    - D-) Rakip firmalardan alışveriş isteği
+    - E-) Marka sevgisi
+    ***
 1. <strong>&Uuml;r&uuml;n&uuml;n; isim, logo ve diğer g&ouml;rsel işaret ve sembollerle rakiplerinden farklılaşması olarak tanımlanmasına ne denir?</strong>
     - A-) Ambalaj
     - B-) Kurum
@@ -1036,6 +1065,13 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - **Cevap D-) &Uuml;r&uuml;nlerini geri d&ouml;n&uuml;şt&uuml;rebilirler.**
     - E-) &Uuml;r&uuml;n&uuml; deneyimleyebilirler.
     ***
+1. <strong>Aşağıdakilerden hangisi akıllı ambalaj uygulamalarındandır?</strong>
+    - A-) Veri &ouml;l&ccedil;er
+    - **Cevap B-) Barkod**
+    - C-) T&uuml;ketici sistemi
+    - D-) Dinamik veri
+    - E-) Ardışık bilgi aracı
+    ***
 1. <strong>Bir ambalajın &ldquo;s&uuml;rd&uuml;r&uuml;lebilir inovatif&rdquo; olma &ouml;zelliği aşağıdakilerden hangisi ile ilişkilidir?</strong>
     - A-) Muadillerinden daha farklı g&ouml;r&uuml;nmesi
     - **Cevap B-) Doğada kolayca &ccedil;&ouml;z&uuml;nmesi**
@@ -1107,6 +1143,13 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - E-) Bioteknoloji
     ***
 ## Unite 13
+1. <strong>Aşağıdakilerden hangisi cam ambalajların &ccedil;evreye etkilerinden biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Camın ham maddesinde petrol ve t&uuml;revleri yoktur.
+    - B-) Cam ambalajların &uuml;r&uuml;n&uuml;n tadına etkisi yoktur.
+    - C-) Cam malzemeler %100 geri d&ouml;n&uuml;şt&uuml;r&uuml;lebilir.
+    - D-) Cam malzemeler &uuml;r&uuml;n&uuml;n uzun s&uuml;re tazeliğini muhafaza eder.
+    - **Cevap E-) Cam kimyasal olarak aktif olan malzemelerden &uuml;retilmektedir.**
+    ***
 1. <strong>Aşağıdakilerden hangisi ambalajların yeniden kullanımına &ouml;rnektir?</strong>
     - **Cevap A-) Su damacanaları**
     - B-) Cam ambalajlardan avize yapılması
@@ -1205,6 +1248,14 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - **Cevap C-) Yarım**
     - D-) Tam
     - E-) Diagonal
+    ***
+1. &hellip;&hellip;&hellip;&hellip;&hellip;; motif, renk ve doku i&ccedil;inde kamufle edilerek g&ouml;z&uuml;n sanat eseri i&ccedil;inde hoş ve rahat bir şekilde hareket etmesini sağlamalıdır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Tam raport
+    - **Cevap B-) Tekrar**
+    - C-) Tasarım
+    - D-) Ambalaj
+    - E-) Ambalaj k&acirc;ğıdı
     ***
 1. <strong>Aşağıdakilerden hangisi ambalaj k&acirc;ğıdının kullanım işlevlerinden biri <u>değildir</u>?</strong>
     - A-) Paketlemek, saklamak

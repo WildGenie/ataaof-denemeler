@@ -807,6 +807,13 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - D-) kırmızı
     - E-) turuncu
     ***
+1. <strong>G&ouml;r&uuml;n&uuml;r ışık tayfındaki dalga boyları i&ccedil;inde baskın olan renklerden birini ifade etmek kullanılan terim aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Renk &Ouml;z&uuml; (Hue)**
+    - B-) Doygunluk (Saturation / Chroma)
+    - C-) Akromatik
+    - D-) Değer (Value / Val&ouml;r)
+    - E-) Ton (Tone)
+    ***
 1. <strong>Renkler ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Sıcak renkler daha yakındaymış hissi verirler.
     - B-) Soğuk renkler h&uuml;z&uuml;n ruh h&acirc;li ile bağlantılıdır.
@@ -908,6 +915,13 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - D-) Enter
     - E-) Ctrl
     ***
+1. <strong>Uzun metin i&ccedil;eren grafik tasarım &uuml;r&uuml;nlerindeki yazıların dizgisi i&ccedil;in aşağıdaki yazılım t&uuml;rlerinden hangisi uygundur?</strong>
+    - A-) Vekt&ouml;rel &ccedil;izim yazılımları
+    - **Cevap B-) Kelime işlemci yazılımlar**
+    - C-) G&ouml;r&uuml;nt&uuml; işleme yazılımları
+    - D-) Sistem yazılımları
+    - E-) Sayfa d&uuml;zenleme yazılımları
+    ***
 ## Unite 10
 1. <strong>Aşağıdakilerden hangisi &ccedil;alışmanın &ccedil;&ouml;z&uuml;mlenebilmesini ama&ccedil;layan kısa s&uuml;reli &ccedil;izimlerden biridir?</strong>
     - A-) Resmetmek
@@ -992,6 +1006,13 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - **Cevap C-) Defter**
     - D-) &Ccedil;izim ara&ccedil;ları
     - E-) Renklendirme
+    ***
+1. <strong>Aşağıdakilerden hangisi g&ouml;rselleştirme anlatım dilinin temel elemanlarından biri <u>değildir</u>?</strong>
+    - A-) &Ccedil;izgi
+    - B-) Leke
+    - C-) Renk
+    - **Cevap D-) Dizgi**
+    - E-) İmge
     ***
 1. <strong>Bir tasarımcı tasarıma hangi evreden başlar?</strong>
     - A-) Modelleme
@@ -1095,6 +1116,14 @@ III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir.&nbsp;<br />
     - D-) İnter grafik
     - E-) Bilinear grafik
     ***
+1. <strong>Piksel başına 2 bit veri bulunan bitmap grafikte her pikselin sahip olabileceği renk sayısı ka&ccedil; olur?</strong><br type="_moz" />
+
+    - A-) 1
+    - B-) 2
+    - **Cevap C-) 4**
+    - D-) 16
+    - E-) 256
+    ***
 ## Unite 12
 1. <strong>Aşağıdakilerden hangisi metal konserve kutunun icadına sebep olmuştur?</strong>
     - **Cevap A-) Fransız ordusunun yiyecekleri taşıma ihtiyacı**
@@ -1183,6 +1212,13 @@ III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir.&nbsp;<br />
     - D-) Ambalajı b&uuml;y&uuml;t&uuml;p birim fiyatı artırarak
     - **Cevap E-) Ambalajı b&uuml;y&uuml;t&uuml;p fiyatı değiştirmeyerek**
     ***
+1. <strong>M&Ouml; 6000 yıllarında Mısırlılar tarafından saklama ve taşıma i&ccedil;in kullanılmaya başlayan malzeme aşağıdakilerden hangisidir?</strong>
+    - A-) Toprak malzeme
+    - **Cevap B-) Cam malzeme**
+    - C-) Taş malzeme
+    - D-) Ahşap malzeme
+    - E-) Plastik malzeme
+    ***
 ## Unite 13
 1. <strong>Aşağıdakilerden hangisi ekranın boyutuna g&ouml;re i&ccedil;eriğin otomatik olarak yeniden boyutlanıp konumlandığı sayfa d&uuml;zenidir?</strong>
     - A-) Embed layout
@@ -1260,6 +1296,13 @@ III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir.&nbsp;<br />
     - C-) D&uuml;z Metin formatı (.txt)
     - **Cevap D-) Sayfa sayısı d&uuml;zeni**
     - E-) Amazon Kindle eReader formatı (.azw, .azw3)
+    ***
+1. <strong>Aşağıdakilerden hangisi dijital ekranlarda okunabilirliğe katkı sağlamak i&ccedil;in yapılması gerekenlerden biri <u>değildir</u>?</strong>
+    - A-) Font boyutu ve stil se&ccedil;eneklerinin e-kitap dosyasına d&acirc;hil edilmesi
+    - B-) Tırnaksız (sans-serif) yazı karakterlerinin k&uuml;&ccedil;&uuml;k boyutlarda kullanılmaması
+    - C-) İtalik &ouml;zelliği kullanılmaması
+    - **Cevap D-) A&ccedil;ık standartta i&ccedil;erik kullanılması**
+    - E-) Yazı ile arka planın yeterince zıt renklerden se&ccedil;ilmesi
     ***
 ## Unite 14
 1. <strong>Aşağıdakilerden hangisi tasarımın tanımında kullanılan eş anlamlı ifadelerinden biri <u>değildir</u>?</strong>
@@ -1346,6 +1389,13 @@ III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir.&nbsp;<br />
     - C-) M&uuml;zikler
     - D-) Videolar
     - **Cevap E-) Derlemeler**
+    ***
+1. <strong>Tasarımda dijital ortamların kullanılmasının sebepleri aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
+    - **Cevap A-) Geleneksel olması**
+    - B-) S&uuml;rd&uuml;r&uuml;lebilir olması
+    - C-) Erişilebilir olması
+    - D-) Ekonomik olması
+    - E-) Yenilik&ccedil;i olması
     ***
 1. <strong>İnsanın nesnelerle kurduğu en temel iletişim modeli aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Tasarım**

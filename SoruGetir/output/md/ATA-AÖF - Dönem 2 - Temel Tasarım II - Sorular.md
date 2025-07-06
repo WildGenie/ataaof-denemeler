@@ -273,7 +273,7 @@ III. Yardımcı &ouml;ge<br />
     - D-) Her tasarım kompozisyon, her kompozisyon tasarım a&ccedil;ısından değer taşımaktadır.
     - **Cevap E-) Kompozisyon, g&ouml;rme ile d&uuml;ş&uuml;nme arasındaki diyalektiğin dışındadır.**
     ***
-1. <strong>&ldquo;Kompozisyon d&uuml;zeninin hiyerarşisi, &ouml;r&uuml;nt&uuml;n&uuml;n tamamında hangi &ouml;gelerin bir arada g&ouml;r&uuml;lmesini gerektiğini ve hangi &ouml;gelerin oransız olduğunu belirler&rdquo; ifadesi aşağıdakilerden hangisine aittir?</strong>
+1. <strong>&ldquo;Kompozisyon d&uuml;zeninin hiyerarşisi, &ouml;r&uuml;nt&uuml;n&uuml;n tamamında hangi &ouml;gelerin bir arada g&ouml;r&uuml;lmesini gerektiğini ve hangi &ouml;gelerin oransız olduğunu belirler.&rdquo; ifadesi aşağıdakilerden hangisine aittir?</strong>
     - A-) Ocvirk
     - B-) Milani
     - C-) Cayton
@@ -951,6 +951,14 @@ Aşağıdakilerden hangisi g&ouml;rsel metafor &uuml;retmek i&ccedil;in kullanı
     - **Cevap E-) Romantizm**
     ***
 ## Unite 8
+1. ...................; g&ouml;rsel iletişim ile ilgili alanlardaki, yani simgeler ve etkileri &uuml;zerindeki bağlantının incelendiği G&ouml;stergebilim alt grubudur.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Semantik
+    - B-) Semiyotik
+    - **Cevap C-) Pragmatik**
+    - D-) Sigmatik
+    - E-) Sentaks
+    ***
 1. <strong>G&uuml;n&uuml;m&uuml;zde yaygın olarak kullanılan ikon ve emojiler i&ccedil;in aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?</strong>
     - **Cevap A-) Daha statik bir yapıda, sınırları belirgin &ouml;zellik g&ouml;sterirler.**
     - B-) Hem Piksel, hem de Vekt&ouml;rel y&ouml;ntemlerde &ccedil;izim &ouml;rnekleri bulunur.
@@ -1184,6 +1192,13 @@ III. Sentaks<br />
     - **Cevap D-) Tasarımcının i&ccedil;eriğe yaklaşım bi&ccedil;imi, bir d&uuml;zen gerektirmez.**
     - E-) İ&ccedil;erikle ilişkilendirilen kavram ve anahtar kelimeler, grafik &uuml;r&uuml;n&uuml;n bi&ccedil;imsel yaklaşımı etkileyecektir.
     ***
+1. <strong>İ&ccedil;erik ve bi&ccedil;imin anlam &uuml;retimindeki etkisi ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) İ&ccedil;erik ve bi&ccedil;im arasındaki ilişki anlamla dengelenmelidir.
+    - B-) İ&ccedil;erik ve bi&ccedil;im arasındaki uyumlu birliktelik, anlamın g&ouml;rsel iletişimdeki başarı kriterini y&uuml;kseltir.
+    - **Cevap C-) Bir tasarımın kalitesinin, i&ccedil;erik ve bi&ccedil;imle yakından ilişkisi yoktur.**
+    - D-) Bir tasarım fikrine y&uuml;klenen anlam katmanı, i&ccedil;erik ve bi&ccedil;im arasındaki bağlantıları bulma &ccedil;abasındadır.
+    - E-) İ&ccedil;erik, bi&ccedil;im ve anlam grafik tasarımın temel kavramlarındandır.
+    ***
 1. <strong>&ldquo;Geri d&ouml;n&uuml;ş&uuml;m&rdquo; temalı bir afiş tasarımı i&ccedil;in yapılacak araştırma i&ccedil;in aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Geri d&ouml;n&uuml;ş&uuml;mle ilgili olarak bilimsel veri niteliği taşıyan kongre veya sempozyumların d&uuml;zenlenip d&uuml;zenlenmediği araştırılabilir.&nbsp;
     - **Cevap B-) Belirlenen bir zaman dilimine ve incelemeye gerek yoktur.**
@@ -1305,12 +1320,19 @@ III. Anlam<br />
     - E-) Soyutlamanın en &uuml;st aşaması, ger&ccedil;ekliği referans almayan soyuttur.
     ***
 1. ............, doğa izlenimine y&ouml;nelik bir d&uuml;ş&uuml;ncenin bi&ccedil;imlendirilmesidir. ............... ise, doğayla ilişkisi kesilmiş bir d&uuml;ş&uuml;ncenin bi&ccedil;imidir.<br />
-<strong>Paragrafta boş bırakılan yerlere aşağıdakilerden hangisi sırasıyla getirilmelidir?</strong>
+<strong>Paragrafta boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) Soyutlama, soyut**
     - B-) Grafik, tasarım
     - C-) Resim, desen
     - D-) Enteriy&ouml;r, eksterior
     - E-) İşaret, sembol
+    ***
+1. <strong>İletişim &ouml;gesi olarak soyutlama ile ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) İlk insanların mağara tasvirleri, doğal d&uuml;nyanın g&ouml;r&uuml;nt&uuml;s&uuml;nden hareketle tasarlanmış soyutlamalardır.
+    - B-) Soyutlama, Mısır ve Mezopotamya B&ouml;lgesi&#39;nde k&ouml;keni resme dayanan yazının gelişim s&uuml;reci ile &ouml;nemli bir konuma y&uuml;kselmiştir.
+    - **Cevap C-) Eski Mısır Hiyerogliflerdeki fig&uuml;r soyutlamaları iletişimsel bir ama&ccedil; taşımaz.**
+    - D-) Hiyeroglif, Mısırlıların yazı sistemidir. Hiyerogliflerde yer alan fonem (ses birim) adı verilen resimler, insanların duygu ve d&uuml;ş&uuml;ncelerini ifade etme aracına d&ouml;n&uuml;şm&uuml;şt&uuml;r.
+    - E-) Papir&uuml;slerde, tabletlerde, &Ccedil;in k&uuml;lt&uuml;r&uuml;nde var olan piktogramlarda, Doğu ve İslam sanatları i&ccedil;erisinde yer alan minyat&uuml;rlerde ve pek &ccedil;ok eski k&uuml;lt&uuml;re ait yazının gelişim s&uuml;recinde soyutlama &ouml;rnekleri bulunmaktadır.
     ***
 ## Unite 11
 1. <strong>Tasarıma ait &ouml;gelerin &ouml;ncesinde belirlenen kadrajın sınırları i&ccedil;inden &ccedil;ıkmaması, &ouml;nemli &ouml;gelerin daha &ccedil;ok merkeze taşıma anlayışı hangi kompozisyon anlayışını ifade eder?</strong>
@@ -1459,6 +1481,13 @@ III. Merkezi ağırlıktadır.<br />
     - D-) Denge
     - E-) Ritm
     ***
+1. <strong>Kadrajla ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Kadraj, kompozisyona ait &ouml;gelerin sınırları belirli olan bir alan i&ccedil;ine yerleştirilmiş bi&ccedil;imi, kadraj alma da dış alanda devam eden g&ouml;r&uuml;nt&uuml; etkisi i&ccedil;inden belirli bir alanı se&ccedil;me olarak tanımlanabilir.
+    - B-) G&ouml;rme ile se&ccedil;ilen, &ccedil;er&ccedil;eve i&ccedil;ine alınan g&ouml;r&uuml;nt&uuml;, algılanma yoluyla belirlenmiş olarak bir mek&acirc;na d&ouml;n&uuml;şt&uuml;r&uuml;l&uuml;r.
+    - C-) Sanat ve tasarımda ger&ccedil;eğin temsiline dayalı her bir &ccedil;alışma aslında g&ouml;r&uuml;nt&uuml;n&uuml;n bir &ccedil;er&ccedil;eveleme alanı i&ccedil;inde belirlenmiş yorumudur.
+    - D-) &Ccedil;er&ccedil;evelenmiş olan alanın dışı, &ccedil;alışmanın i&ccedil;eriğine dair izleyiciyi daha geniş d&uuml;ş&uuml;nmeye iten bir unsurdur.
+    - **Cevap E-) Kadrajla tespit edilen nesne, durum ya da kurgu burada konunun odak noktası değildir.**
+    ***
 1. <strong>Tasarımda kadraj uygulamalarıyla ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) G&ouml;rsel iletişimde tasarımcının bilgiyi doğru bir bi&ccedil;imde aktarması i&ccedil;in bilin&ccedil;li bir d&uuml;zen oluşturması ve izleyeni y&ouml;nlendirmesi &ouml;ncelikli kaygılardan biri olmalıdır.
     - **Cevap B-) G&ouml;z&uuml;n tasarım alanı i&ccedil;inde istenilen şekilde dolaşabilmesine gerek yoktur.**
@@ -1576,6 +1605,13 @@ III. İş yerine ne kadar s&uuml;rede gideceğimiz<br />
     - D-) I ve II
     - E-) Yalnız I
     ***
+1. <strong>Tasarım s&uuml;reci ve olasılık &uuml;zerine aşağıdakilerden hangisi doğrudur?</strong>
+    - A-) Olasılık, i&ccedil;erik ve bi&ccedil;im arasında yanlış bir etkileşimin sağlanmasına katkı sunmaktadır.
+    - **Cevap B-) Bazen i&ccedil;erik tek bir olasılık &uuml;zerinde tasarımı sonu&ccedil;landırmayı gerektirirken bazen de farklı olasılıklar &uuml;zerine yoğunlaşmayı gerektirebilir.**
+    - C-) Olasılığın tasarımcı algısındaki etkinliği tasarım s&uuml;recinin son aşamasına yansımaktadır.
+    - D-) Tasarım s&uuml;recindeki olasılık se&ccedil;eneklerini &ccedil;oğaltmak, tasarımcıya sınırlı bir bakış a&ccedil;ısı kazandırabilmektedir.
+    - E-) Araştırma s&uuml;recindeki se&ccedil;enekleri &ccedil;oğaltmak, d&uuml;ş&uuml;ncenin iyi bir tasarımla sonu&ccedil;lanmaması a&ccedil;ısından &ouml;nemlidir.
+    ***
 1. Yaşamdaki pek &ccedil;ok davranış, tutum ve tercihimizi belirleyen olasılık, en doğru &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; ulaşmamızı m&uuml;mk&uuml;n kılmaktadır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) hedef ve ger&ccedil;eğe
@@ -1636,6 +1672,13 @@ III. G&ouml;rsel hiyerarşi<br />
     - C-) Ara&ccedil; giydirme
     - D-) Dergi ilanı
     - E-) Kurumsal desen
+    ***
+1. <strong>Taklit yazı bloğu aşağıdakilerden hangisidir?</strong>
+    - A-) S&uuml;tun
+    - B-) Harf y&uuml;ksekliği
+    - C-) Taban &ccedil;izgisi
+    - D-) Satır &ccedil;izgisi
+    - **Cevap E-) Lorem Ipsun**
     ***
 1. <strong>İhtiyaca g&ouml;re uygulanması gereken tasarımlara y&ouml;nelik aydınlatıcı bilgi i&ccedil;eren grafik &uuml;r&uuml;n aşağıdakilerden hangisidir?</strong>
     - A-) Afiş tasarımı
@@ -1822,4 +1865,11 @@ III. Hareket<br />
     - C-) Tasarımda y&ouml;n; başarılı bir g&ouml;rsel mesaja hizmet edecek g&ouml;rsel &ouml;gelerin, i&ccedil;erikle olan ilişkisini etkilemektedir.
     - **Cevap D-) Y&ouml;n kavramının bir kurgulamadaki etkinliği, tasarımın i&ccedil;eriğine zarar verici bir &ouml;zelliğe sahiptir.**
     - E-) Bir tasarım s&uuml;recinde y&ouml;n kavramına y&ouml;nelik kurgulamanın dayandığı temel, tasarımın i&ccedil;eriğidir.
+    ***
+1. <strong>Aşağıdakilerden hangisi y&ouml;n kavramının tasarım s&uuml;recindeki rol&uuml;ne uygun bir a&ccedil;ıklama <u>değildir</u>?</strong>
+    - **Cevap A-) Renk se&ccedil;iminden tamamen bağımsızdır.**
+    - B-) G&ouml;rsel &ouml;geler arasındaki ilişkiyi d&uuml;zenler.
+    - C-) G&ouml;z hareketlerini y&ouml;nlendirir.
+    - D-) G&ouml;rsel hiyerarşiyi destekler.
+    - E-) Tasarımın anlam katmanlarını belirler.
     ***

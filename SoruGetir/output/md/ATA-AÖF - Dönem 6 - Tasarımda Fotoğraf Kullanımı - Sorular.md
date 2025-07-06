@@ -763,6 +763,16 @@ III. Mısır Piramitleri<br />
     - **Cevap D-) Tırnaklı-tırnaksız**
     - E-) İnce-kalın
     ***
+1. I. Dikkat &ccedil;ekmesi<br />
+II. G&ouml;ze hitap etmesi<br />
+III. Tasarımda ahengin sağlanması<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri afişte renk kullanımının sağladığı avantajlar arasında yer alır?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız III
+    - C-) I ve II
+    - D-) I ve III
+    - **Cevap E-) I, II ve III**
+    ***
 ## Unite 9
 1. <strong>Aşağıdakilerden hangisi g&ouml;r&uuml;nt&uuml; işleme işlemlerinden biri <u>sayılamaz</u>?</strong>
     - A-) G&ouml;r&uuml;nt&uuml;de oynamalar yapılması
@@ -834,7 +844,7 @@ III. Mısır Piramitleri<br />
     - **Cevap D-) Yapay zek&acirc; d&uuml;zenlemesi**
     - E-) Işık efektleri
     ***
-1. <strong>Aşağıdakilerden hangisi g&ouml;r&uuml;nt&uuml; işleme i&ccedil;in <u>s&ouml;ylenemez</u>?&nbsp; &nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi g&ouml;r&uuml;nt&uuml; işleme ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) G&ouml;r&uuml;nt&uuml; işleme, g&ouml;rsel veri &uuml;zerinde oynanılmasıdır.
     - B-) G&ouml;r&uuml;nt&uuml; işleme, veri &uuml;zerinde anlamlı ve istendik değişiklik yapmaktır.
     - C-) G&ouml;r&uuml;nt&uuml;n&uuml;n renk dengesinin d&uuml;zenlenmesi g&ouml;r&uuml;nt&uuml; işleme işlemidir.
@@ -854,6 +864,13 @@ III. Mısır Piramitleri<br />
     - C-) Piksel tabanlı yazılımlara g&ouml;re &ccedil;ok daha verimli ve sağlıklı &ccedil;alışır.
     - D-) Video &ccedil;alışmaları i&ccedil;in en ideal yazılımlardır.
     - E-) Piksel tabanlı yazılımlara g&ouml;re kullanımını daha kolaydır.
+    ***
+1. <strong>Aşağıdaki işlemlerden hangisi katman stil men&uuml;s&uuml;nde yer alır?</strong>
+    - **Cevap A-) Kontur ekleme**
+    - B-) Katman gruplama
+    - C-) Kopyalama
+    - D-) Katman se&ccedil;me
+    - E-) Katmanı kaydetme
     ***
 ## Unite 10
 1. <strong>Aşağıdakilerden hangisi end&uuml;striyel tasarımın tanımıdır?</strong>
@@ -925,6 +942,13 @@ III. Mısır Piramitleri<br />
     - C-) Mekanik tasarım
     - D-) Sanatsal tasarımı
     - **Cevap E-) M&uuml;hendislik tasarım**
+    ***
+1. <strong>Aşağıdakilerden hangisi end&uuml;striyel tasarımın &uuml;r&uuml;n aracılığı ile pazarda rakiplere karşı sağladığı bir &uuml;st&uuml;nl&uuml;k <u>değildir</u>?</strong>
+    - A-) Kalite
+    - B-) Performans
+    - **Cevap C-) Kullanıcı lokasyonu**
+    - D-) Stil
+    - E-) Fiyat
     ***
 1. <strong>Aşağıdakilerden hangisi end&uuml;striyel tasarımın bir adımı <u>değildir</u>?</strong>
     - A-) Detay tasarımı
@@ -1017,6 +1041,13 @@ III. Mısır Piramitleri<br />
     - C-) Martin Muncaski
     - D-) Man Ray
     - E-) Lee&nbsp; Miller
+    ***
+1. <strong>Aşağıdakilerden hangisi iyi bir moda fotoğraf&ccedil;ısının &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - A-) Doğru renkleri ve ışığı doğru kullanabilecek estetik bir g&ouml;z terbiyesine sahip olmalıdır.
+    - B-) Modayı yakından takip etmeli, hayal g&uuml;c&uuml; ve yaratıcılığı y&uuml;ksek olmalıdır.
+    - **Cevap C-) Fotoğraf tekniği konusunda bilgisi olmasına gerek yoktur.**
+    - D-) Giyim, kuşam ve bunların kuşattığı insan bedenleriyle ilgili temel bilgi sahibi olmalıdır.<br type="_moz" />
+    - E-) &Ccedil;ekim sonrasında ise fotoğraf&ccedil;ının post prod&uuml;ksiyon ekibi ile fotoğraf &uuml;zerinde son r&ouml;t&uuml;şları yapacak yeterli bilgisi olabilmelidir.
     ***
 1. <strong>Aşağıdakilerden hangileri yapay ışık kaynaklarından biri <u>değildir</u>?</strong>
     - A-) Led amp&uuml;ller
@@ -1117,6 +1148,13 @@ III. Mısır Piramitleri<br />
     - D-) Zaha Hadid
     - **Cevap E-) Le Corbusier**
     ***
+1. <strong>Mek&acirc;ndaki işitsel yansıma aşağıdakilerden hangisi ile &ccedil;&ouml;z&uuml;l&uuml;r?</strong>
+    - A-) İ&ccedil; mek&acirc;n peyzajıyla
+    - B-) Kapalı mek&acirc;n &ccedil;&ouml;z&uuml;mlemesiyle
+    - C-) Teknik ekipmanlarla
+    - **Cevap D-) Akustikle**
+    - E-) Kalabalık ortam oluşturmayla
+    ***
 ## Unite 13
 1. <strong>Aşağıdakilerden hangisi seramik malzemenin kullanıldığı alanlardan <u>değildir</u>?</strong>
     - A-) Mimari yapılar
@@ -1188,6 +1226,13 @@ III. Mısır Piramitleri<br />
     - D-) Isıl işlem uygulama
     - E-) Perdahlama
     ***
+1. <strong>Seramik malzemenin sanat malzemesi olarak kullanımı net olarak aşağıda yer alan hangi hareket ile başlamıştır?</strong>
+    - A-) Sanayi devrimi
+    - B-) Yerleşik d&uuml;zene ge&ccedil;iş
+    - C-) Milenyum
+    - **Cevap D-) St&uuml;dyo &ccedil;&ouml;mlek&ccedil;iliği**
+    - E-) End&uuml;stri devrimi
+    ***
 ## Unite 14
 1. <strong>Sanat eserlerinde fotoğrafın kullanma şekli hangisinde yanlış verilmiştir?</strong>
     - A-) Orijinal haliyle
@@ -1258,6 +1303,13 @@ III. Mısır Piramitleri<br />
     - C-) SherieLevine
     - D-) Lisa Kokin
     - E-) Melisa Zexter.
+    ***
+1. <strong>Fotoğrafın &ouml;zellikleri ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - **Cevap A-) Sanat alanın dışındadır.**
+    - B-) K&uuml;lt&uuml;rel bir nesnedir.
+    - C-) Ge&ccedil;mişle kurulan duygusal bağları yansıtır.
+    - D-) Tarihsel hareketleri yansıtır.
+    - E-) Haber değeri vardır.
     ***
 1. <strong>PopArt temsilcileri olan sanat&ccedil;ıların doğru eşleştirilmesi aşağıdakilerden hangisidir?</strong>
     - A-) David Cata- Robert Rauchenberg

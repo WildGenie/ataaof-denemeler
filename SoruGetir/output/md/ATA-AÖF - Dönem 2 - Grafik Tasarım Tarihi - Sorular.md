@@ -1173,6 +1173,16 @@ Bahsedilen sanat&ccedil;ı grubu aşağıdakilerden hangisidir?</strong>
 <br />
     - E-) Seventeen Sisters
     ***
+1. I. Negatif mek&acirc;nla &ccedil;evreli karelerin ve dikd&ouml;rtgenlerin sembolik yerleştirmesiyle tanımlanmış ancak fig&uuml;ratif olmayan sanattır.<br />
+II. Resimsel betimleme yerine &ldquo;duygunun dışavurumunu&rdquo; yakalamayı ama&ccedil;lamıştır.<br />
+III. Temelinde bir sanat&ccedil;ının sanatla deneyim kazanabilmesi i&ccedil;in &ouml;ncelikle renkle deneyim kazanması gerekliliği vardır.<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri S&uuml;prematizm&#39;in &ouml;zelliklerindendir?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) Yalnız III
+    - D-) I ve II
+    - **Cevap E-) I, II ve III**
+    ***
 1. <strong>S&uuml;prematizm&#39;i; &ldquo;Mutlak bir sistem ve bu sistem i&ccedil;inde renk, onun ger&ccedil;ek gelişimini sağlamıştır.&rdquo; şeklinde tanımlayan sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Antoine Pevsner
     - **Cevap B-) Kasimir Malevich**
@@ -1199,6 +1209,14 @@ Bahsedilen sanat&ccedil;ı grubu aşağıdakilerden hangisidir?</strong>
     - D-) Konstr&uuml;ktivizm<br />
 <br />
     - E-) Neo-plastizm
+    ***
+1. Die neue Typographie, sans serif yazı karakterleriyle dizilmesine karşın; 1935&rsquo;te yayınladığı Typographische Gestaltung (Tipografik Tasarım) adlı &ccedil;alışma &hellip;&hellip;..harfle (Bodoni gibi) hazırlanmıştır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) sans serif
+    - B-) display
+    - C-) el yazısı
+    - **Cevap D-) serif (tırnaklı)**
+    - E-) monospace
     ***
 1. <strong>Aşağıdakilerden hangisi Albers&#39;in beş ana &ouml;zelliğe sahip olduğuna inandığı malzemeleri oluşturan &ouml;gelerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Boyut<br />
@@ -1503,6 +1521,13 @@ IV. Mimarlık<br />
 <br />
     - E-) Karmaşık g&ouml;rsel mesajları hızlı bir şekilde iletmek adına sembollerin ve soyutlamanın kullanımına dikkat &ccedil;ekilmiştir.
     ***
+1. <strong>Aşağıdakilerden hangisi &ccedil;ok disiplinli ve katı bir anlayışı yansıtan&nbsp;De Stijl grafik&nbsp;tasarımcıları tarafından <u>kullanılmamıştır</u>?</strong>
+    - A-) D&uuml;z yatay ve dikey &ccedil;izgiler
+    - B-) Katı dikd&ouml;rtgen bloklar
+    - **Cevap C-) Simetrik sayfa d&uuml;zeni**
+    - D-) Grafik sayfa d&uuml;zeni i&ccedil;erisinde grid ve s&uuml;tun anlayışı
+    - E-) Geleneksel harflerin gereksiz s&uuml;slemelerinden ka&ccedil;ınarak Sans Serif yazı karakterinin versiyonları
+    ***
 1. <strong>Aşağıdakilerden hangisi&nbsp;Art Deco tasarımcılarının &ccedil;alışmalarındaki g&ouml;rsel &ouml;zelliklerden biri <u>değildir</u>?</strong>
     - A-) Optik yalınlığa &ouml;nem vermişler ve eksiltme, anahtar rol oynamıştır.
     - B-) G&ouml;zler iki nokta olmuş, arka plan ayrıntısı azaltılmış ya da ortadan kaldırılmıştır.
@@ -1544,15 +1569,22 @@ IV. Mimarlık<br />
 <br />**
     - E-) &Uuml;r&uuml;n satışı yapmak
     ***
+1. I. Sağlık ve g&uuml;venlik programları<br />
+II. Seyahat ve turizm<br />
+III. Nazi Karşıtlığı<br />
+IV. Sanat sergilerini, tiyatro ve m&uuml;zik temsilleri<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri FAP afişlerinin ele aldığı konular arasında <u>yer almaz</u>?</strong> 
+    - A-) Yalnız I
+    - **Cevap B-) Yalnız III**
+    - C-) III ve IV
+    - D-) I, II ve III
+    - E-) I, II ve IV
+    ***
 1. <strong>FAP sanat&ccedil;ı ve tasarımcıları, afişlerini daha &ccedil;ok hangi y&ouml;ntem ile <u>basmamışlardır</u>?</strong> 
-    - A-) Ağa&ccedil; baskı<br />
-<br />
-    - B-) Serigrafi (ipek baskı)<br />
-<br />
-    - C-) Taş baskı (litografi)<br />
-<br />
-    - D-) Grav&uuml;r<br />
-<br />
+    - A-) Ağa&ccedil; baskı
+    - B-) Serigrafi (ipek baskı)
+    - C-) Taş baskı (litografi)
+    - D-) Grav&uuml;r
     - **Cevap E-) Dijital baskı**
     ***
 1. <strong>FAP (Federal Sanat Projesi) Hangi yıllar arası devam etmiştir?</strong> 
@@ -1682,16 +1714,12 @@ IV. Federal Yazarlar&rsquo;ın Projesi (FWP)&nbsp;<br />
     - D-) İletilmek istenen mesaja izleyicinin dikkatini hemen &ccedil;ekmesi gerekir.<br />
     - **Cevap E-) İşaretler fig&uuml;rleri romantik bir şekilde betimleyen imgeleridir.**
     ***
-1. 1930&rsquo;da Leipzig&rsquo;de basılan, yayınlanan ve Toplum ve Ekonomi teması &uuml;zerine şekillendirilen &hellip;&hellip;&hellip;&hellip;., sayfaları &ccedil;ıkabilen g&ouml;rsel istatistiklerin ana koleksiyonudur ve standartlaşmış g&ouml;rsel bir dili kullanarak, dil bariyerlerine bakılmaksızın karmaşık bilginin nasıl ulaşılabilir kılınacağına dair &ouml;rnek bir referans kitap olmuştur.<br />
+1. 1930&rsquo;da Leipzig&rsquo;de basılan, yayınlanan ve Toplum ve Ekonomi teması &uuml;zerine şekillendirilen &hellip;&hellip;&hellip;&hellip;., sayfaları &ccedil;ıkabilen g&ouml;rsel istatistiklerin ana koleksiyonudur ve standartlaşmış g&ouml;rsel bir dili kullanarak dil bariyerlerine bakılmaksızın karmaşık bilginin nasıl ulaşılabilir kılınacağına dair &ouml;rnek bir referans kitap olmuştur.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong> 
-    - A-) Modern Man in the Making<br />
-<br />
-    - B-) Şehir Planlama M&uuml;zesi kataloğu<br />
-<br />
-    - **Cevap C-) Atlas<br />
-<br />**
-    - D-) İki Millet<br />
-<br />
+    - A-) Modern Man in the Making
+    - B-) Şehir Planlama M&uuml;zesi kataloğu
+    - **Cevap C-) Atlas**
+    - D-) İki Millet
     - E-) The Home Market
     ***
 1. <strong>Isotype sembolleri ile ilgili olarak aşağıdakilerden hangisi doğrudur?&nbsp;</strong>
@@ -1833,7 +1861,22 @@ III. Dil ve k&uuml;lt&uuml;r bariyerlerinin &uuml;stesinden gelmek<br />
     - **Cevap D-) Gotik D&ouml;nemi&#39;ne ait amblemler**
     - E-) &Ccedil;ocuk kitabı ill&uuml;strasyonları
     ***
+1. <strong>Aşağıdakilerden hangisi linolyum tekniği ile basılan piktogramların kullanım alanlarından biri <u>değildir</u>?</strong>
+    - A-) Eğitim
+    - B-) Ticaret
+    - C-) İletişim
+    - D-) Kitaplar
+    - **Cevap E-) Mimari tasarım**
+    ***
 ## Unite 13
+1. <strong>&quot;Ulusun savaş politikalarının Amerikan halkı tarafından anlaşılmasını sağlamak, pozitif duyguları işleyerek halkı ikna ve motive etmek ama&ccedil;lı bir&ccedil;ok afiş serisini yaratmıştır.&quot; şeklinde ifade edilen kurum aşağıdakilerden hangisidir?</strong><br />
+
+    - **Cevap A-) Savaş ve Enformasyon Dairesi**
+    - B-) Nazi Propaganda Bakanlığı
+    - C-) Amerikan Kızılha&ccedil;ı
+    - D-) WPA
+    - E-) Wall Street Borsası
+    ***
 1. <strong>&ldquo;Tek Halk, Tek Reich, Tek Lider&rdquo; sloganı hangi devletin propaganda afişlerinde slogan olarak kullanılmıştır?</strong> 
     - A-) ABD<br />
     - B-) SSCB<br />
@@ -2074,4 +2117,11 @@ IV. Tınaksız font kullanımının yasaklanması<br />
     - C-) Geometrik şekillerin kullanımı
     - **Cevap D-) &Ouml;znel fotoğrafın kullanılması**
     - E-) Tipografi temelli minimal &ouml;gelerin kullanılması
+    ***
+1. <strong>İsvi&ccedil;re tasarımında ortaya &ccedil;ıkan iki d&uuml;ş&uuml;nce okulu aşağıdakilerden hangisidir?</strong>
+    - A-) Bauhaus ve De Stijl Okulu
+    - B-) Art Nouveau ve F&uuml;t&uuml;rizm Okulu
+    - **Cevap C-) Z&uuml;rih ve Basel Okulu**
+    - D-) Konstr&uuml;ktivizm ve Dadaizm Okulu
+    - E-) Minimalizm ve Postmodernizm Okulu
     ***

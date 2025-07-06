@@ -994,7 +994,7 @@
     - D-) Skolastik d&uuml;ş&uuml;nce
     - **Cevap E-) D&uuml;nyevileşme**
     ***
-1. <strong>Sanatta Modern D&ouml;nemi&#39;n sona erdiğini Postmodern D&ouml;nem&#39;e ge&ccedil;ildiğini a&ccedil;ıklayan tarih&ccedil;i aşağıdakilerden hangisidir?</strong>
+1. <strong>Sanatta Modern D&ouml;nem&#39;in sona erdiğini Postmodern D&ouml;nem&#39;e ge&ccedil;ildiğini a&ccedil;ıklayan tarih&ccedil;i aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Arnold Toynbee**
     - B-) Jean Lyoterd
     - C-) J&uuml;rgen Habermas
@@ -1135,6 +1135,16 @@ Buna g&ouml;re aşağıdakilerden hangisi krallıktan empresyonist d&ouml;neme k
     - D-) Sosyal sermaye
     - **Cevap E-) K&uuml;lt&uuml;rel sermaye**
     ***
+1. I. Halk Sanatı<br />
+II. Pop&uuml;ler Sanatı<br />
+III. Aydın Sanatı<br />
+<strong>Arnold Hauser&#39;e g&ouml;re burjuva tabakalarının karşılığı olarak estetik tabakalara ayrılmıştır. Yukardakilerden hangileri bu tabakalardır?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) Yalnız III
+    - D-) I ve II
+    - **Cevap E-) I, II ve III**
+    ***
 1. <strong>İ&ccedil;inde bir grup insanın kendi iradelerine rağmen tutuldukları, başkalarının m&uuml;lk&uuml; olarak g&ouml;r&uuml;ld&uuml;kleri, sahipleri tarafından alınıp satılabilen insanlardan oluşan tabakalaşma bi&ccedil;imi aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) K&ouml;lelik**
     - B-) Kast Sistemi
@@ -1268,6 +1278,13 @@ Buna g&ouml;re aşağıdakilerden hangisi krallıktan empresyonist d&ouml;neme k
     - D-) Goethe
     - E-) Kant
     ***
+1. <strong>Bazı d&uuml;ş&uuml;ncelerin, duyguların veya olayların deneyimlerinin beceri ve d&uuml;ş g&uuml;c&uuml;n&uuml;n kullanılmasıyla diğer insanlara iletilmesi durumunu ifade eden kavram aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Sanat**
+    - B-) Edebiyat
+    - C-) Sosyoloji
+    - D-) Felsefe
+    - E-) Tarih
+    ***
 1. <strong>Rastlantıdan doğduğunu ileri s&uuml;ren d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Nunez<br />**
     - B-) Kant<br />
@@ -1396,6 +1413,14 @@ Buna g&ouml;re aşağıdakilerden hangisi krallıktan empresyonist d&ouml;neme k
     - D-) İngiliz
     - **Cevap E-) Fransız**
     ***
+1. D&uuml;nyayı kuran ve d&uuml;zenleyen tanrıların, evrenin, yaratılışın hik&acirc;yesini anlatan mitler &hellip;............&nbsp; bir &ouml;zellik taşırken, ortaya &ccedil;ıktıkları toplumların yaşamını, zihin d&uuml;nyasını, norm ve değerlerini, kural ve yasaklarını yansıtan mitler ise &hellip;............ &ouml;zellik taşır.<br />
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) toplumsal/değişken
+    - B-) değişken/toplumsal
+    - C-) değişken/dinsel
+    - **Cevap D-) dinsel/toplumsal**
+    - E-) dinsel/değişken
+    ***
 1. I. Gılgamış<br />
 II. Akhilleus<br />
 III. Oğuz Kağan<br />
@@ -1498,6 +1523,14 @@ IV. Herakles<br />
     - C-) Bilgisayar y&ouml;nelimli dijital sanat
     - D-) Bilgisayar işlemcili dijital sanat
     - E-) Bilgisayar t&uuml;ketimli dijital sanat
+    ***
+1. <strong>2. K&ouml;rfez Savaşı sırasındaki hava saldırılarını eleştiren ve savaş karşıtı bir s&ouml;ylemi olan dijital sanat &uuml;r&uuml;n&uuml; aşağıdakilerden hangisidir?</strong><br />
+
+    - A-) İrannica
+    - B-) L&uuml;bnanica
+    - **Cevap C-) Iraqnica**
+    - D-) T&uuml;rkonica
+    - E-) Armenica
     ***
 1. <strong>Dijital sanat&ccedil;ıların g&ouml;rsel işlerinde sık&ccedil;a kullandıkları Illustrator ve Photoshop programlarının sahibi olan firma hangisidir?</strong><br />
 <br />
@@ -1639,6 +1672,13 @@ IV. Herakles<br />
     - **Cevap D-) F. Fukuyama**
     - E-) K. Lynch
     ***
+1. <strong>K&uuml;reselleşmenin akıntıları i&ccedil;inde rahat&ccedil;a hareket eden ve t&uuml;ketim toplumunun aktif &uuml;yeleri olarak adlandırılan toplumsal grup aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Turistler**
+    - B-) Aylaklar
+    - C-) &Ccedil;aylaklar
+    - D-) Hiperaktifler
+    - E-) D&uuml;zenbazlar
+    ***
 1. <strong>Aşağıdakilerden hangisi Londra&rsquo;da bulunan m&uuml;zelerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Tate Modern M&uuml;zesi
     - **Cevap B-) Louvre M&uuml;zesi**
@@ -1746,6 +1786,16 @@ IV. Herakles<br />
     - C-) Etik
     - D-) Norm
     - E-) &Uuml;retim
+    ***
+1. I. İnan&ccedil;<br />
+II. Gelenekler<br />
+III. Yazısız kurallar<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri manevi k&uuml;lt&uuml;r &ouml;geleri arasında yer alır?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
     ***
 1. <strong>Sanat d&uuml;nyasında &quot;zevkten yoksun, bayağı, ucuz edebiyat&quot; olarak tanımlanan sanat akımı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Kitsch**
@@ -1872,6 +1922,13 @@ IV. Onlar Grubu<br />
     - C-) Abidin Dino
     - **Cevap D-) Bedri Baykam**
     - E-) Turgut Atalay
+    ***
+1. <strong>Farklı sanat disiplinlerinin bir arada uygulanmasını anlatan &uuml;slup aşağıdakilerden hangisidir</strong>?
+    - A-) I. Ulusal Mimari Akım
+    - B-) Batılılaşma
+    - **Cevap C-) Eklektizm**
+    - D-) Barok
+    - E-) R&ouml;nesans
     ***
 1. <strong>Cumhuriyet D&ouml;nemi&rsquo;nin ilk sanat&ccedil;ı topluluğu aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) M&uuml;stakil Ressamlar ve Heykeltıraşlar Birliği**

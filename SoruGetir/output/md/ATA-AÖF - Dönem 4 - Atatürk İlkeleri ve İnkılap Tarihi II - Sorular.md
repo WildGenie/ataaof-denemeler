@@ -1116,6 +1116,13 @@ V. Miladi takvimin kabul edilmesi<br />
     - D-) Gelir Vergisi
     - E-) Tediye Vergisi
     ***
+1. <strong>Osmanlı Devleti&#39;nde XVII. y&uuml;zyıldan itibaren toprak gelirlerinin bir kısmının peşin para karşılığında m&uuml;ltezim adı verilen kişilere devredilerek toplanması usul&uuml;ne ne ad verilir?&nbsp;</strong>
+    - **Cevap A-) İltizam**
+    - B-) Lonca
+    - C-) Veraset
+    - D-) Vakıf
+    - E-) Mevkuf
+    ***
 1. <strong>Aşağıdaki gelişmelerden hangisiyle birlikte T&uuml;rk denizlerinde (T&uuml;rk karasularında) ticaretin kontrol&uuml; T&uuml;rk t&uuml;ccarlarının eline ge&ccedil;miştir?&nbsp;</strong>
     - A-) Teşvik-i Sanayi Kanunu
     - B-) Aşar Vergisi&#39;nin Kaldırılması
@@ -1249,6 +1256,13 @@ V. Hatay&rsquo;ın Anavatana katılması<br />
     - D-) 18 Temmuz 1951
     - E-) 18 Temmuz 1952
     ***
+1. <strong>5 Haziran 1926&rsquo;da imzalanan Ankara Antlaşması ile aşağıdaki b&ouml;lgelerden hangisi İngiltere&rsquo;ye bırakılmıştır?</strong>
+    - A-) Hatay
+    - B-) Girit
+    - **Cevap C-) Musul**
+    - D-) Batum
+    - E-) Halep
+    ***
 1. <strong>Hatay, Ana Vatan&#39;a ne zaman katılmıştır?</strong>
     - A-) 27 Ocak 1937
     - B-) 29 Kasım 1937
@@ -1366,6 +1380,13 @@ Buna g&ouml;re, aşağıdakilerden hangisi ekonomik sıkıntılara &ouml;nlem ni
     - C-) Ş&uuml;kr&uuml; Kaya
     - D-) Hasan Ali Y&uuml;cel
     - **Cevap E-) Recep Peker**
+    ***
+1. <strong>Mustafa Kemal Atat&uuml;rk vefat ettiğinde g&ouml;revde olan T&uuml;rkiye Cumhuriyeti Başbakanı ve TBMM Başkanı aşağıdakilerden hangisinde doğru verilmiştir?</strong>
+    - **Cevap A-) Celal Bayar&nbsp;-&nbsp;Mustafa Abd&uuml;lhalik Renda**
+    - B-) İsmet İn&ouml;n&uuml; - Tunalı Hilmi
+    - C-) Fethi Okyar&nbsp;-&nbsp;Mustafa Kalemli
+    - D-) Adnan Menderes- Mustafa Abd&uuml;lhalik Renda
+    - E-) Celal Bayar&nbsp;-&nbsp;Halil Menteşe
     ***
 1. <strong>Aşağıdakilerden hangisi 18 Ocak 1940 tarihinde kabul edilen Milli Koruma Kanunu&#39;nun kapsamı dışındadır?&nbsp;</strong>
     - A-) &Uuml;retimin denetlenmesi
@@ -1492,6 +1513,13 @@ V. Postdam Konferansı<br />
     - D-) Wilhelm Cumhuriyeti
     - E-) Nazi Cumhuriyeti
     ***
+1. <strong>İtalya&rsquo;nın saldırgan politikaları, Balkanları ve Anadolu&rsquo;yu tehdit eder h&acirc;le gelince T&uuml;rkiye, Yunanistan, Yugoslavya ve İngiltere arasında imzalanan pakt aşağıdakilerden hangisidir?</strong>
+    - A-) Balkan Paktı
+    - B-) Orta Doğu Paktı
+    - C-) Afrika Paktı
+    - **Cevap D-) Akdeniz Paktı**
+    - E-) Avrasya Paktı
+    ***
 1. <strong>II. D&uuml;nya Savaşı sonrası hayata ge&ccedil;irilen NATO&rsquo;ya karşı kurulan uluslararası &ouml;rg&uuml;t aşağıdakilerden hangisidir?</strong>
     - A-) Balkan Paktı
     - B-) Orta Doğu Paktı
@@ -1605,6 +1633,13 @@ V. Postdam Konferansı<br />
     - C-) Cumhuriyet Halk Partisi
     - D-) İttihat ve Terakki Fırkası
     - E-) Adalet Partisi
+    ***
+1. <strong>Aşağıdakilerden hangisi Demokrat Parti&#39;nin kurucularından biri <u>değildir</u>?&nbsp;</strong>
+    - A-) Refik Koraltan&nbsp;
+    - B-) Celal Bayar
+    - C-) Adnan Menderes
+    - D-) Fuat K&ouml;pr&uuml;l&uuml;&nbsp;
+    - **Cevap E-) İsmet İn&ouml;n&uuml;&nbsp;**
     ***
 1. <strong>25 Haziran 1950 tarihinde başlayan Kore Savaşı&#39;na ABD&#39;den sonra asker g&ouml;nderen ilk &uuml;lke aşağıdakilerden hangisidir?&nbsp;</strong>
     - A-) İngiltere
@@ -1726,6 +1761,13 @@ V. Postdam Konferansı<br />
     - **Cevap C-) Se&ccedil;imler muhakkak beş yılda bir yapılır.**
     - D-) Y&ouml;neticilerin belirlenmesinde se&ccedil;im esas alınmıştır.
     - E-) Karar verecek en &ouml;nemli organ millettir.
+    ***
+1. <strong>Hatay&rsquo;ın T&uuml;rkiye&rsquo;ye katılması Atat&uuml;rk ilkelerinden hangisiyle ilgilidir?</strong>
+    - A-) Halk&ccedil;ılık
+    - B-) Devlet&ccedil;ilik
+    - C-) Cumhuriyet&ccedil;ilik
+    - **Cevap D-) Milliyet&ccedil;ilik**
+    - E-) İnkılap&ccedil;ılık
     ***
 1. <strong>Aşağıdakilerden hangisi Atat&uuml;rk ilkelerinden biri <u>değildir</u>?</strong>
     - A-) Milliyet&ccedil;ilik
@@ -1886,4 +1928,11 @@ V. Postdam Konferansı<br />
     - C-) Mill&icirc; Birlik, Beraberlik ve &Uuml;lke B&uuml;t&uuml;nl&uuml;ğ&uuml;
     - D-) Tam Bağımsızlık
     - E-) Mill&icirc; Egemenlik
+    ***
+1. <strong>Aşağıdakilerden hangisi Atat&uuml;rk&ccedil;&uuml; D&uuml;ş&uuml;nce Sistemi incelendiğinde temel alınan ilkelerden biri&nbsp;<u>olamaz</u>?</strong>
+    - A-) Mill&icirc; tarih ve mill&icirc; dil
+    - B-) Mill&icirc; birlik ve beraberlik anlayışı
+    - C-) H&acirc;kimiyetin millete ait oluşu
+    - **Cevap D-) İlk fırsatta devletin topraklarını genişletmek**
+    - E-) Tam bağımsızlık
     ***

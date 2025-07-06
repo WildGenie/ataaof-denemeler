@@ -1059,7 +1059,7 @@ IV. Genellikle, yardımcı ışık ana ışığa oranla daha şiddetli kullanıl
     - D-) Rembrandt aydınlatması, &ccedil;oklu aydınlatma, &uuml;&ccedil;l&uuml; aydınlatma
     - E-) İkili aydınlatma, &uuml;&ccedil;l&uuml; aydınlatma, &ccedil;oklu aydınlatma
     ***
-1. <strong>Fotoğraf&ccedil;ılıkta anahtar ışığın diğer adı aşağıdakilerin hangisinde doğru olarak verilmiştir?</strong><br />
+1. <strong>Fotoğraf&ccedil;ılıkta anahtar ışığın diğer adı aşağıdakilerin hangisidir?</strong><br />
 
     - **Cevap A-) Ana ışık**
     - B-) Tepe ışığı
@@ -1213,6 +1213,14 @@ III. Herhangi bir metal kap, teneke ya da siyah kutu iğne deliği fotoğraf mak
     - D-) Beyonce
     - E-) Taylor Swift
     ***
+1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>2000&rsquo;li yıllardan sonra ortaya &ccedil;ıkan sosyal medya platformları arasında&nbsp;<u>yer almaz</u>?</strong><br />
+
+    - A-) Youtube
+    - B-) Facebook
+    - C-) Twitter
+    - D-) MySpace
+    - **Cevap E-) Ringterest**
+    ***
 1. Julie Creswell tarafından kaleme alınan ve 22 Haziran 2008 tarihinde New York Times dergisinde&nbsp;yayımlanan makalede &quot;hi&ccedil; bir şeyin &uuml;nl&uuml;ler kadar satmadığı&quot; ifadesi kullanılmıştır.<br />
 <strong>Aşağıdakilerden hangisi Julie Creswll&#39;in bu ifadesinin kullanım amacını a&ccedil;ıklamaktadır?</strong>
     - A-) Yıldızların (&uuml;nl&uuml;lerin) nasıl para kazandıklarına vurgu yapılmaktadır.
@@ -1330,6 +1338,14 @@ III. Herhangi bir metal kap, teneke ya da siyah kutu iğne deliği fotoğraf mak
     - D-) Photo Stich
     - E-) Photoshop
     ***
+1. <strong>Dijital fotoğraf teknolojisinde &ccedil;ekilen fotoğrafların kameraya takılarak kaydedilmesini sağlayan donanım aşağıdakilerden hangisidir?</strong><br />
+
+    - A-) Ram
+    - B-) DVD
+    - **Cevap C-) Bellek Kartı**
+    - D-) Disket
+    - E-) Kart okuyucu
+    ***
 1. <strong>&Ccedil;ekim sonrası&nbsp;(Post-Prod&uuml;ksiyon)&nbsp;aşamasından baskı aşamasına kadarki s&uuml;re&ccedil;te kullanılan monit&ouml;rlerin renk kalibrasyonunun doğruluğunun &ouml;nemi aşağıdakilerin hangisinde a&ccedil;ık&ccedil;a belirtilmiştir?</strong>
     - A-) Kalibrasyonu doğru olmayan monit&ouml;rlerde &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k y&uuml;ksek olacaktır.
     - B-) Kalibrasyonu doğru olmayan monit&ouml;rler maliyeti ucuz olduğu i&ccedil;in tercih edilir.
@@ -1345,7 +1361,7 @@ III. Herhangi bir metal kap, teneke ya da siyah kutu iğne deliği fotoğraf mak
     - D-) Mimari fotoğraf&ccedil;ılığı
     - E-) Turizm fotoğraf&ccedil;ılığı
     ***
-1. <strong>Aşağıdakilerden hangisi, genellikle orta ve b&uuml;y&uuml;k &ouml;l&ccedil;ekli mal ve hizmet &uuml;reten/satan sanayi kuruluşlarının fotoğraf ihtiya&ccedil;larını gidermek i&ccedil;in yapılan fotoğraf &ccedil;alışmalarının yer aldığı reklam fotoğraf&ccedil;ılığı uzmanlık alanıdır?</strong>
+1. <strong>Aşağıdakilerden hangisi genellikle orta ve b&uuml;y&uuml;k &ouml;l&ccedil;ekli mal ve hizmet &uuml;reten/satan sanayi kuruluşlarının fotoğraf ihtiya&ccedil;larını gidermek i&ccedil;in yapılan fotoğraf &ccedil;alışmalarının yer aldığı reklam fotoğraf&ccedil;ılığı uzmanlık alanıdır?</strong>
     - A-) Moda fotoğraf&ccedil;ılığı
     - **Cevap B-) End&uuml;stri fotoğraf&ccedil;ılığı**
     - C-) Mimari fotoğraf&ccedil;ılığı
@@ -1450,6 +1466,17 @@ III. Herhangi bir metal kap, teneke ya da siyah kutu iğne deliği fotoğraf mak
     - C-) Piyasadaki iş taleplerinin azlığı
     - D-) Reklam b&uuml;t&ccedil;elerinde fotoğrafa ayrılan payların azlığı
     - E-) Rekabet&ccedil;i ve dengesiz iş koşulları
+    ***
+1. I. Portre ve Moda fotoğraf&ccedil;ılığı<br />
+II.&nbsp;Stok ve Turizm fotoğraf&ccedil;ılığı<br />
+III. Haber ve Savaş fotoğraf&ccedil;ılığı<br />
+IV.&nbsp;Mimari ve End&uuml;stri fotoğraf&ccedil;ılığı<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;reklam fotoğraf&ccedil;ılığı mesleğinin alt uzmanlık alanları&nbsp;arasında <u>yer almaz</u>?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - **Cevap C-) Yalnız III**
+    - D-) I ve II
+    - E-) III ve IV
     ***
 1. <strong>Aşağıdakilerden hangisi bina, otel, alışveriş merkezi, k&ouml;pr&uuml;, fabrika, okul vb. yapıların i&ccedil; ve dış g&ouml;r&uuml;n&uuml;mlerini, detaylarını, işlevsel ve bi&ccedil;imsel &ouml;zelliklerini konu edinen reklam fotoğraf&ccedil;ılığı uzmanlık alanlarından biridir?</strong>
     - A-) Portre fotoğraf&ccedil;ılığı
@@ -1561,6 +1588,13 @@ III. Kumaş y&uuml;zeyli &uuml;r&uuml;nler<br />
     - C-) Zemin katta olması
     - D-) Girişlerin kontroll&uuml; olması
     - **Cevap E-) Işıktan yalıtılmılş olması**
+    ***
+1. <strong>Aşağıdakilerden hangisi parlak y&uuml;zeyli nesnelerde oluşan yansımaları azaltmak i&ccedil;in kullanılan bir st&uuml;dyo malzemesidir?</strong>
+    - A-) Sonsuz fon
+    - B-) Softbox
+    - **Cevap C-) &Ccedil;adır**
+    - D-) Şemsiye
+    - E-) Paraflash
     ***
 1. K&uuml;&ccedil;&uuml;k boyutlu &uuml;r&uuml;nlerin &ccedil;ekiminde ............. masası olarak ifade edilen ve &ccedil;oğunlukla pleksiglas bir malzemeden sonsuz fon oluşturulan d&uuml;zenekler kullanılmaktadır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -1688,7 +1722,7 @@ III. &Ccedil;ok sayıda anahtar s&ouml;zc&uuml;k yoluyla geliştirilir.<br />
     - D-) ironik
     - E-) metafizik
     ***
-1. <strong>Aşağıdakilerden hangisi, bir eşyayı, objeyi, yeri, işleyişi ya da kavramı resim yoluyla temsil eden sembole verilen addır?</strong>
+1. <strong>Bir eşyayı, objeyi, yeri, işleyişi ya da kavramı resim yoluyla temsil eden sembole ne ad verilir?</strong>
     - A-) Somutlaştırma
     - B-) Amblem
     - C-) Logo
@@ -1702,6 +1736,13 @@ III. &Ccedil;ok sayıda anahtar s&ouml;zc&uuml;k yoluyla geliştirilir.<br />
     - C-) kampanya
     - D-) iş
     - E-) işveren
+    ***
+1. <strong>Reklamların hedef kitlesini etkilemesinde aşağıdakilerden hangisi &ouml;ne <u>&ccedil;ıkmaz</u>?</strong>
+    - A-) Yaratıcı unsur
+    - B-) &Uuml;r&uuml;n kategorisi
+    - C-) Marka
+    - **Cevap D-) Yapımcı**
+    - E-) Mesaj
     ***
 1. <strong>Aşağıdakilerden hangisi reklam metni yazımı sırasında g&ouml;z &ouml;n&uuml;nde bulundurulan unsurlardan&nbsp;biri&nbsp;<u>değildir</u>?</strong>
     - A-) Rakip firma ile benzerlik ve farklılıklar
@@ -1734,6 +1775,14 @@ III. Nesnelerin istenmeyen y&ouml;nlerini karartarak belirsizleştirmek<br />
     - C-) Eksilti
     - **Cevap D-) Tasarım ilkeleri**
     - E-) &Ccedil;&ouml;z&uuml;mleme
+    ***
+1. ....................., &ccedil;ok iyi tanındığı veya aleniyete ihtiyacı olmadığı i&ccedil;in &uuml;r&uuml;n adının sarf edilmediği ve bir sır saklanıyormuş gibi tasarımlanan reklamlardır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) Eksilti
+    - B-) Dolaylı eksilti
+    - **Cevap C-) Preterition**
+    - D-) Erteleme
+    - E-) Gereksiz yineleme
     ***
 1. I. Altyapı-&uuml;styapı<br />
 II. Yabancılaşma<br />
@@ -1963,6 +2012,13 @@ IV. Se&ccedil;ilen fotoğraflar<br />
     - C-) II ve IV
     - D-) I, II ve III
     - **Cevap E-) I, II, III ve IV**
+    ***
+1. <strong>Bir foto-r&ouml;portaj i&ccedil;in ideal fotoğraf sayısı aşağıdakilerden hangisinde doğru verilmiştir?</strong>
+    - A-) 4 &ndash; 5 adet
+    - B-) 6 - 12 adet
+    - C-) 8 &ndash; 10 adet
+    - **Cevap D-) 10 &ndash; 12 adet**
+    - E-) 10 &ndash; 20 adet
     ***
 1. <strong>Usta fotoğraf&ccedil;ıların, fotoğraf se&ccedil;mek i&ccedil;in &ccedil;ekimden sonra altı ay&nbsp;gibi bir s&uuml;renin ge&ccedil;mesini &ouml;nermesinin nedeni aşağıdakilerden hangisidir?</strong>
     - A-) Proje i&ccedil;in alınan izin s&uuml;relerini etkili kullanılarak eksiksiz bir &ccedil;ekim yapılması istenmektedir.
