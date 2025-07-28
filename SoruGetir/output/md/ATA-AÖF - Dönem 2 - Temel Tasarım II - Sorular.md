@@ -126,7 +126,7 @@ III. Katman<br />
     - D-) Tasarımdaki boşluk anlayışı, her bir tasarım &uuml;r&uuml;n&uuml;n&uuml;n bir diğeriyle olan farklılığında belirleyici rol oynamaktadır.
     - E-) Her bir grafik &ouml;ge kadar boşluğunda kendine ait bir tasarım dili vardır.
     ***
-1. <strong>Yaşamda boşluk algısıyla ilgili olarak aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
+1. <strong>Yaşamda boşluk algısıyla ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Boşluk varlığı ve var olanı belirleyen alandır.
     - B-) Boşluk, varlık alanını temsil eden sonsuzluğun kendisidir. Bu sonsuzluk, evrenin zemin oluşturduğu mek&acirc;ndır.
     - **Cevap C-) Boşluk, yokluk anlamına gelmektedir.**
@@ -136,7 +136,7 @@ III. Katman<br />
 1. <strong>Tasarımda boşluk kavramıyla ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Her tasarım &uuml;r&uuml;n&uuml; tasarlanacak bir boşluğa ihtiya&ccedil; duyar.
     - B-) Tasarımda boşluk, i&ccedil;eriğin belirlediği bir kavramdır ve i&ccedil;eriğin belirlediği bir bi&ccedil;im diline yansıtılır.
-    - C-) Boşluk, bir bakıma yaratıcı d&uuml;ş&uuml;nmenin ilk adımına karşılık gelir, &Ouml;ncelikle tasarımcının zihinsel s&uuml;recine yansıyan boşluk algısı, nasıl bir tasarım d&uuml;ş&uuml;ncesi &uuml;retileceğine dair tasarımcıya zemin teşkil eder.
+    - C-) Boşluk, bir bakıma yaratıcı d&uuml;ş&uuml;nmenin ilk adımına karşılık gelir; &ouml;ncelikle tasarımcının zihinsel s&uuml;recine yansıyan boşluk algısı, nasıl bir tasarım d&uuml;ş&uuml;ncesi &uuml;retileceğine dair tasarımcıya zemin teşkil eder.
     - **Cevap D-) Tasarımda boşluğa gerek yoktur.**
     - E-) Boşluk anlayışı, tasarımcının yaratıcı d&uuml;ş&uuml;nmeye bağlı olarak tasarım s&uuml;recinin her aşamasına yansır.
     ***
@@ -305,7 +305,7 @@ III. Kurgulama<br />
     - D-) Tasarım y&uuml;zeyine &ouml;znel bir kimlik kazandırmak hedefi taşımalıdır.
     - **Cevap E-) Tasarımcının d&uuml;ş d&uuml;nyasını yansıtmaz.**
     ***
-1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;; bir tasarımdaki g&ouml;rsel &ouml;ge/&ouml;gelerin herhangi bir par&ccedil;asını, hayali bir algılamaya y&ouml;nelik tasarımı &ccedil;evreleyen sınırların dışına taşacak bir şekilde yerleştirmektir.<br />
+1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;; bir tasarımdaki g&ouml;rsel &ouml;ge/&ouml;gelerin herhangi bir par&ccedil;asını, hayal&icirc; bir algılamaya y&ouml;nelik tasarımı &ccedil;evreleyen sınırların dışına taşacak bir şekilde yerleştirmektir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Kapalı kompozisyon
     - B-) Yaratıcı d&uuml;ş&uuml;nme
@@ -392,6 +392,13 @@ V.&nbsp;Bir grafik kompozisyonun tasarım s&uuml;recinde, d&ouml;rt temel kavram
     - C-) kenarlara / Modern Sanat
     - D-) &uuml;st kısıma / Barok
     - E-) alt kısıma / R&ouml;nesans
+    ***
+1. <strong>Derinlik etkisini oluşturan iki temel y&ouml;ntemden biri &ccedil;izgisel perspektif ise diğeri aşağıdakilerden hangisidir?</strong> 
+    - A-) Eğik perspektif
+    - B-) A&ccedil;ısal perspektif
+    - C-) Doğrusal perspektif
+    - D-) Merkez&icirc; perspektif
+    - **Cevap E-) Hava perspektifi**
     ***
 1. <strong>Aşağıdakilerden hangisi tasarımda derinlik etkisi oluşturma y&ouml;ntemlerinden biri <u>değildir</u>?</strong>
     - A-) &Ouml;gelerin geriye doğru giderek k&uuml;&ccedil;&uuml;lmesi
@@ -559,6 +566,13 @@ III. Kolaj K&uuml;bizm ile etkin bir şekilde tekrar g&uuml;ndeme gelmiştir.<br
     - D-) I ve II
     - **Cevap E-) II ve III**
     ***
+1. <strong>Pop Art akımı ve kolaj ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Dada&rsquo;da olduğu sanatsal kolajlar başkaldırı aracı olarak kullanılmıştır.
+    - B-) Robert Rauschenberg kolajı uygulayan temsilcilerden biridir.
+    - C-) Hamilton, dergilerden yaptığı alıntıları basarak kolajlar &uuml;retmiştir.
+    - **Cevap D-) Pop art sanat&ccedil;ıları kolajı minimal bir g&ouml;r&uuml;n&uuml;m yaratmak i&ccedil;in kullanmışlardır.**
+    - E-) Warhol kolaj y&ouml;ntemi ile birlikte moda olan her şeyi baskı y&ouml;ntemleri ile tekrar tekrar &ccedil;oğaltmıştır.
+    ***
 1. Farklı elemanları bir araya getirerek yeni bir b&uuml;t&uuml;n oluşturma anlayışın gelişimi kolaj tekniğini ................... temellerinin atan bir d&ouml;n&uuml;ş&uuml;me doğru g&ouml;t&uuml;rd&uuml;ğ&uuml; s&ouml;ylenebilir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) heykel sanatının
@@ -574,7 +588,7 @@ III. Kolaj K&uuml;bizm ile etkin bir şekilde tekrar g&uuml;ndeme gelmiştir.<br
     - D-) Punk
     - E-) Pentagram
     ***
-1. <strong>Kolaj mantığındaki bir &uuml;retim ile ilgili olarak aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
+1. <strong>Kolaj mantığındaki bir &uuml;retim ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Kolaj, sayısız kompozisyon oluşturma imk&acirc;nı sağlar.
     - B-) Asamblaj &uuml;&ccedil; boyutlu kolajdır.
     - **Cevap C-) Atık nesneler kolaj malzemesi olarak kullanılmaz.**
@@ -803,13 +817,20 @@ III.&nbsp;Duyu bilgileri ile tasarımları imgeler<br />
 1. <strong>Sanatsal imgelerin gelişimiyle ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) İmgeye dair ilk &ouml;rnekler ilkel insanın mağara duvarlarına ya da kayalara resmettikleri betimlemelerde g&ouml;r&uuml;l&uuml;r.
     - B-) Arkaik toplumlarda temsil ettiği nesneyi ve durumu &ccedil;ağrıştıran, soyutlayan piktogram ve ideogram oluşumları dikkat &ccedil;ekmektedir.
-    - C-) Mısır medeniyetinde ruhun imgede ve imge sayesinde yasayacağına inanılır.&nbsp;
+    - C-) Mısır Medeniyeti&#39;nde ruhun imgede ve imge sayesinde yasayacağına inanılır.&nbsp;
     - D-) Orta &Ccedil;ağ Sanatı&rsquo;nda imgeler &ccedil;oğunlukla kutsal &ouml;ğretileri ileten unsurlar olarak karşımıza &ccedil;ıkmıştır.
     - **Cevap E-) R&ouml;nesans ile birlikte imge yeniden insan ve onun &ccedil;evresinin dini anlayışına odaklanmıştır.**
     ***
+1. <strong>Simge ve sembol arasındaki fark ile ilgili olarak aşağıdakilerden hangisi doğrudur?&nbsp;</strong>
+    - A-) Simge, soyut kavramların somutlaştırılmasıdır; sembol ise doğrudan bir anlam ifade eder.
+    - B-) Simge, evrensel bir anlam taşırken; sembol k&uuml;lt&uuml;rel olarak değişebilir.
+    - C-) Simge ve sembol aynı anlama gelir, aralarında bir fark yoktur.
+    - D-) Simge, yalnızca sanatta kullanılan bir kavramdır; sembol ise g&uuml;ndelik hayatta daha &ccedil;ok yer alır.
+    - **Cevap E-) Sembol, daha geniş anlamlar i&ccedil;erirken; simge belirli bir kavrama işaret eder.**
+    ***
 ## Unite 7
 1. George Orwell, Hayvan &Ccedil;iftliği isimli kitabında bir &ccedil;iftlikteki hayvanları, politik kimliklerle simgesel olarak eşleştirir.<br />
-<strong>C&uuml;mlede kullanılan metafori &ouml;rneği aşağıdakilerden hangisidir?</strong>
+<strong>C&uuml;mlede kullanılan metafor &ouml;rneği aşağıdakilerden hangisidir?</strong>
     - A-) İroni
     - B-) Benzetme
     - C-) Abartma
@@ -998,7 +1019,7 @@ Aşağıdakilerden hangisi g&ouml;rsel metafor &uuml;retmek i&ccedil;in kullanı
 1. I. Estetik<br />
 II. Bilgilendirici<br />
 III. Soyut<br />
-<strong>Yukarıdaki hangisi ya da hangileri piktogramların yapısal &ouml;zelliklerindendir?</strong> 
+<strong>Yukarıdakilerden hangisi ya da hangileri piktogramların yapısal &ouml;zellikleri arasında yer alır?</strong> 
     - A-) Yalnız I
     - **Cevap B-) I ve II**
     - C-) II ve III
@@ -1077,6 +1098,14 @@ III. Sentaks<br />
     - D-) Mors ve Braille Alfabesi
     - **Cevap E-) Emojiler**
     ***
+1. G&ouml;stergebilim (Semiyotik) bilim dalında işaretler d&ouml;rt&nbsp;temel alanda &ccedil;&ouml;z&uuml;mlemeci bir anlayışla incelenmektedir.<strong><br />
+Aşağıdakilerden hangisi bu d&ouml;rt temel alandan biri <u>değildir</u>?</strong>
+    - A-) Sentatik (Sentaks)
+    - **Cevap B-) İkonik**
+    - C-) Semantik
+    - D-) Pragmatik
+    - E-) Sigmatik
+    ***
 ## Unite 9
 1. <strong>İ&ccedil;eriğin tasarımdaki etkisiyle ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Tasarımcı zihnini geliştiren ve eğiten bir kavramdır.
@@ -1099,13 +1128,20 @@ III. Sentaks<br />
     - D-) &Ouml;ge
     - E-) Algı
     ***
-1. &ldquo;Bir tasarımda i&ccedil;erik &hellip;&hellip;&hellip;&hellip;, &hellip;&hellip;&hellip;&hellip; ise anlam arar&rdquo;<br />
-<strong>C&uuml;mlede boş bırakılan yerlere aşağıdakilerden hangisi getirilmelidir?</strong>
-    - **Cevap A-) Bi&ccedil;im, bi&ccedil;im**
-    - B-) Anlam, bi&ccedil;im
-    - C-) Bi&ccedil;im, anlam
-    - D-) Anlam, anlam
-    - E-) Anlam, hedef kitle
+1. <strong>Dijital &ccedil;ağ ve internetle birlikte sıklıkla ifade edilen kavram aşağıdakilerden hangisidir?</strong>
+    - A-) Algı
+    - B-) Anlam
+    - C-) Bi&ccedil;im
+    - **Cevap D-) İ&ccedil;erik**
+    - E-) Hedef kitle
+    ***
+1. Bir tasarımda i&ccedil;erik &hellip;&hellip;&hellip;&hellip;, &hellip;&hellip;&hellip;&hellip; ise anlam arar.<br />
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) bi&ccedil;im, bi&ccedil;im**
+    - B-) anlam, bi&ccedil;im
+    - C-) bi&ccedil;im, anlam
+    - D-) anlam, anlam
+    - E-) anlam, hedef kitle
     ***
 1. <strong>Bir tasarım &uuml;r&uuml;n&uuml;nde anlam, &ouml;z, tema gibi g&ouml;r&uuml;nmeyen d&uuml;ş&uuml;nce aşağıdakilerden hangisidir?</strong>
     - A-) Bi&ccedil;im
@@ -1334,6 +1370,13 @@ III. Anlam<br />
     - D-) Hiyeroglif, Mısırlıların yazı sistemidir. Hiyerogliflerde yer alan fonem (ses birim) adı verilen resimler, insanların duygu ve d&uuml;ş&uuml;ncelerini ifade etme aracına d&ouml;n&uuml;şm&uuml;şt&uuml;r.
     - E-) Papir&uuml;slerde, tabletlerde, &Ccedil;in k&uuml;lt&uuml;r&uuml;nde var olan piktogramlarda, Doğu ve İslam sanatları i&ccedil;erisinde yer alan minyat&uuml;rlerde ve pek &ccedil;ok eski k&uuml;lt&uuml;re ait yazının gelişim s&uuml;recinde soyutlama &ouml;rnekleri bulunmaktadır.
     ***
+1. <strong>S&uuml;prematizmin &ouml;nc&uuml;s&uuml; aşağıdakilerden hangisidir?</strong>
+    - A-) Pablo Picasso
+    - **Cevap B-) Kazimir Malevich**
+    - C-) Piet Mondrian&nbsp;
+    - D-) Vincent Van Gogh
+    - E-) Paul C&eacute;zanne
+    ***
 ## Unite 11
 1. <strong>Tasarıma ait &ouml;gelerin &ouml;ncesinde belirlenen kadrajın sınırları i&ccedil;inden &ccedil;ıkmaması, &ouml;nemli &ouml;gelerin daha &ccedil;ok merkeze taşıma anlayışı hangi kompozisyon anlayışını ifade eder?</strong>
     - A-) A&ccedil;ık Kompozisyon
@@ -1342,12 +1385,12 @@ III. Anlam<br />
     - D-) Dengeli Kompozisyon
     - E-) Baskın Kompozisyon
     ***
-1. <strong>Kadrajın &ouml;zellikleri i&ccedil;in aşağıdaki ifadelerden hangisi <u>s&ouml;ylenemez</u>?</strong>
-    - **Cevap A-) Işık ve G&ouml;lge ile ortaya &ccedil;ıkar**
-    - B-) Y&uuml;zeye dair kurgudur
-    - C-) Boşluk, derinlik, hacim gibi bir teknik unsurdur
-    - D-) G&ouml;z&uuml;n hareket edeceği alanı belirler
-    - E-) Belirli sınırları olan bir mekanı ifade eder
+1. <strong>Kadrajın &ouml;zellikleri i&ccedil;in aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?</strong>
+    - **Cevap A-) Işık ve G&ouml;lge ile ortaya &ccedil;ıkar.**
+    - B-) Y&uuml;zeye dair kurgudur.
+    - C-) Boşluk, derinlik, hacim gibi bir teknik unsurdur.
+    - D-) G&ouml;z&uuml;n hareket edeceği alanı belirler.
+    - E-) Belirli sınırları olan bir mek&acirc;nı ifade eder.
     ***
 1. I. Pozitif alanların değerini ortaya &ccedil;ıkartır<br />
 II. Anlamı kuvvetlendirir<br />
@@ -1406,10 +1449,10 @@ III. İzleyiciyi y&ouml;nlendirir<br />
     - D-) kadraj
     - E-) kompozisyon
     ***
-1. I. Simetrik kurgu ile ortaya &ccedil;ıkar<br />
-II. G&ouml;z&uuml;n kadraj i&ccedil;inde dolaşmasını sağlar<br />
-III. Altın oranla ilişkilidir<br />
-<strong>Hiyerarşik bir d&uuml;zen i&ccedil;inde kurgusu i&ccedil;in yukarıdaki ifadelerden hangisi ya da hangileri doğrudur?</strong>
+1. I. Simetrik kurgu ile ortaya &ccedil;ıkar.<br />
+II. G&ouml;z&uuml;n kadraj i&ccedil;inde dolaşmasını sağlar.<br />
+III. Altın oranla ilişkilidir.<br />
+<strong>Hiyerarşik bir d&uuml;zen i&ccedil;inde kurgusu i&ccedil;in yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>
     - A-) Yalnız I
     - B-) I ve II
     - C-) II ve III
@@ -1495,6 +1538,14 @@ III. Merkezi ağırlıktadır.<br />
     - D-) Tasarımda taşma olarak ifade edilen g&ouml;rselin dışarıda devam etmesi ilkesi &ouml;nemlidir. Bazen kısmi ya da yarım taşma şeklindeki g&ouml;r&uuml;nt&uuml;lerin kadraj i&ccedil;inde kullanıldığı da g&ouml;r&uuml;lmektedir.
     - E-) Tasarımda kadraj ve etkili kompozisyon kurma ilişkisindeki &ouml;nemli kullanımlardan biri de beyaz boşluk kullanımıdır.
     ***
+1. ......................................., &ccedil;er&ccedil;eveleme tekniklerinden biri olup g&ouml;rsel kompozisyonda odak noktalarının belirlenmesine yardımcı olur.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Simetri kuralı
+    - B-) Asimetri kuralı
+    - **Cevap C-) 1/3 kuralı**
+    - D-) Renk dengesi&nbsp;kuralı
+    - E-) Perspektif&nbsp;kuralı
+    ***
 ## Unite 12
 1. <strong>Olasılık kavramının yaşamdaki yeri ve &ouml;nemiyle ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - **Cevap A-) G&ouml;receli olmayan bir yapısı vardır.**
@@ -1526,12 +1577,13 @@ III. Merkezi ağırlıktadır.<br />
     - E-) Zaha Hadid, Emily Roebling, Paula Scher
     ***
 1. &ldquo;Olasılık, herhangi bir karar aşamasında en doğru &hellip;&hellip;&hellip;&hellip;&hellip;. yapmamızda bize yardımcı olan bir kavramdır.&rdquo;<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-    - A-) Sonucu
-    - B-) Ger&ccedil;eği
-    - **Cevap C-) Geleceği**
-    - D-) Tercihi
-    - E-) Bilinci
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br type="_moz" />
+
+    - A-) sonucu
+    - B-) ger&ccedil;eği
+    - C-) geleceği
+    - **Cevap D-) tercihi**
+    - E-) bilinci
     ***
 1. <strong>Op Art&rsquo;ın en &ouml;nemli temsilcilerinden biri aşağıdakilerden hangisidir?</strong>
     - A-) Scher
@@ -1744,7 +1796,7 @@ III. Yapılandırma<br />
     - D-) I ve II
     - **Cevap E-) I, II ve III**
     ***
-1. <strong>Bir tasarımda kullanılan ızgaranın aşağıdakilerden hangi &ouml;geye katkısı <u>bulunmamaktadır</u>?</strong>
+1. <strong>Bir tasarımda kullanılan ızgaranın aşağıdakilerden hangisine katkısı <u>yoktur</u>?</strong>
     - A-) Denge
     - B-) Ritm
     - C-) &Ouml;n-arka plan

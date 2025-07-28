@@ -91,7 +91,7 @@
     - D-) Canon
     - E-) Sony
     ***
-1. <strong>Fotoğrafın en yoğun bir bi&ccedil;imde kitlelerce kullanımına y&ouml;nelik olarak geliştirilip, 1 dolar karşılığında piyasaya s&uuml;r&uuml;len model hangisidir?</strong><br />
+1. <strong>Fotoğrafın en yoğun bir bi&ccedil;imde kitlelerce kullanımına y&ouml;nelik olarak geliştirilip 1 dolar karşılığında piyasaya s&uuml;r&uuml;len model aşağıdakilerden hangisidir?</strong><br />
 
     - A-) No:1
     - B-) No:2
@@ -130,6 +130,14 @@
     - **Cevap C-) G&uuml;ncel hayatın kameraların tanıklığında yaşanması**
     - D-) Kameraların hafiflemesi
     - E-) Cep telefonlarında kamera kullanımı
+    ***
+1. <strong>Aşağıdaki fotoğraf&ccedil;ılardan hangisi Art et Decoration dergisi i&ccedil;in &ccedil;ektiği moda ve tanıtım fotoğraflarıyla bilinen bir fotoğraf&ccedil;ıdır?</strong><br />
+
+    - A-) Richard Avedon
+    - B-) Man Ray
+    - C-) Alfred Stiglitz
+    - **Cevap D-) Edward Steichen**
+    - E-) Edward Weston
     ***
 1. <strong>Fotoğraf tarihinde se&ccedil;im stratejisi ama&ccedil;lı lider tanıtım fotoğrafını ilk olarak aşağıdakilerden hangisi &ccedil;ekmiştir?</strong><br />
 
@@ -234,7 +242,7 @@
     - **Cevap D-) Sahip olmak**
     - E-) Paylaşmak
     ***
-1. <strong>Aşağıdakilerden hangi enstantane/&ouml;rt&uuml;c&uuml; değeri deklanş&ouml;re basıldığı s&uuml;rece perdenin a&ccedil;ık kalıp, pozlamanın devam ettiğinin g&ouml;stergesidir?</strong><br />
+1. <strong>Aşağıdakilerden hangi enstantane/&ouml;rt&uuml;c&uuml; değeri deklanş&ouml;re basıldığı s&uuml;rece perdenin a&ccedil;ık kalıp pozlamanın devam ettiğinin g&ouml;stergesidir?</strong><br />
 
     - A-) 1/1000
     - B-) 1/200
@@ -303,6 +311,13 @@
     - C-) Geliştirmek
     - **Cevap D-) Hissetmek&nbsp;**
     - E-) Paylaşmak
+    ***
+1. <strong>Aşağıdakilerden hangisi diyafram a&ccedil;ıklığı fakt&ouml;rlerinden biri <u>değildir</u>?</strong>
+    - A-) Enstantane hızı
+    - B-) Alan derinliği uygulaması
+    - **Cevap C-) Objektif t&uuml;r&uuml;&nbsp;**
+    - D-) Efekt ya da filtre kullanımı
+    - E-) Iso
     ***
 1. I. Perde<br />
 II. Enstantene<br />
@@ -466,7 +481,7 @@ IV. Odak uzaklığı<br />
 1. I. Dosya boyutu<br />
 II. Hareketin hızı<br />
 III. Hareketin y&ouml;n&uuml;<br />
-<strong>Hareketli nesnelerin hız ve hareketinin ifadesi, teknik bilgi ve deneyimin yanısıra yukarıdaki değişkenlerden hangisi ya da hangisine bağlıdır?</strong>
+<strong>Hareketli nesnelerin hız ve hareketinin ifadesi, teknik bilgi ve deneyimin yanı sıra yukarıdaki değişkenlerden hangisi ya da hangilerine bağlıdır?</strong>
     - A-) I ve II
     - B-) I, II ve III
     - C-) Yalnız I
@@ -552,7 +567,7 @@ III. Hareketin y&ouml;n&uuml;<br />
     - **Cevap D-) 21 Mega piksel**
     - E-) 24 Mega piksel
     ***
-1. <strong>Fotoğraftaki gelişmeler incelendiğinde, temelde aşağıdakilerden hangisi k&ouml;kl&uuml; bir değişime <u>uğramamıştır</u>?</strong><br />
+1. <strong>Fotoğraftaki gelişmeler incelendiğinde temelde aşağıdakilerden hangisi k&ouml;kl&uuml; bir değişime <u>uğramamıştır</u>?</strong><br />
 
     - **Cevap A-) Karanlık kutu yapısı ve objektifler**
     - B-) Makine ebatları
@@ -591,6 +606,14 @@ III. Hareketin y&ouml;n&uuml;<br />
     - C-) Karanlık kutunun icat edilerek g&ouml;r&uuml;nt&uuml;n&uuml;n ters bir şekilde kutu i&ccedil;inde elde edilmesi
     - D-) İnternetin bulunması ve yaygın kullanıma girmesi
     - E-) Daha &ouml;nce yapılmış baskıların yeniden fotoğraflanması
+    ***
+1. <strong>Dijital fotoğraf&ccedil;ılık aşağıdaki işlemlerden hangisini <u>kapsamaz</u>?</strong><br />
+
+    - A-) G&ouml;r&uuml;nt&uuml;n&uuml;n dijital fotoğraf makinesi yardımı ile kaydedilmesi
+    - B-) Negatif-pozitif film baskıların taranarak dijital h&acirc;le getirilmesi
+    - **Cevap C-) Daha &ouml;nce &ccedil;ekilmiş fotoğrafların filme kaydedilip g&ouml;steri yapılması**
+    - D-) Bilgisayar &uuml;zerinde bu g&ouml;r&uuml;nt&uuml;lerde istenilen değişikliğin yapılması
+    - E-) Baskıların taranarak dijital h&acirc;le getirilmesi
     ***
 1. <strong>Analog fotoğraf makinelerindeki filmin işlevini dijital fotoğraf makinelerinde aşağıdakilerden hangisi g&ouml;r&uuml;r?</strong><br />
 
@@ -711,8 +734,7 @@ III. Boyutlarının b&uuml;y&uuml;k olması sebebiyle&nbsp;kartlarda, taşıyıc
     - D-) Truman Show &ndash; Jim Carry
     - E-) Beverly Hills Ninja &ndash; Chris Farley
     ***
-1. <strong>Reklamların en basit amacı nedir?</strong><br />
-
+1. <strong>Reklamların en basit amacı aşağıdakilerden hangisidir?</strong>
     - A-) Tanıtmak
     - **Cevap B-) Satış**
     - C-) &Uuml;r&uuml;n &ccedil;eşitliliği
@@ -839,14 +861,14 @@ III. Boyutlarının b&uuml;y&uuml;k olması sebebiyle&nbsp;kartlarda, taşıyıc
     - D-) Maky&ouml;z
     - E-) &Ccedil;ekim asistanı
     ***
-1. &ldquo;Grafik tasarımcı ............. ile ..........başarılı bir bi&ccedil;imde kompoze eden kişidir.&rdquo;<br />
+1. Grafik tasarımcı ............. ile .......... başarılı bir bi&ccedil;imde kompoze eden kişidir.<br />
 <strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br />
 
     - **Cevap A-) tipografi - imajı**
-    - B-) yazı - photoshop
+    - B-) yazı - photoshopu
     - C-) slogan - tipografiyi
-    - D-) ışık - yazı
-    - E-) yazı- slogan
+    - D-) ışık - yazıyı
+    - E-) yazı- sloganı
     ***
 1. <strong>Benjamin Franklin kışın evde oturmaktan hastalanan kadınlar i&ccedil;in hangi &uuml;r&uuml;n&uuml;n tanıtımını yapmıştır?</strong><br />
 
@@ -887,6 +909,13 @@ III. Boyutlarının b&uuml;y&uuml;k olması sebebiyle&nbsp;kartlarda, taşıyıc
     - **Cevap C-) Matbaada &ccedil;alışan renk ayrımcılarını**
     - D-) Fotoşop&ccedil;uları
     - E-) Reklam fotoğraf&ccedil;ılarını
+    ***
+1. <strong>Reklam fotoğrafhaneleri gelişen ve değişen şartlar sonucunda ne t&uuml;r bir yapıya d&ouml;n&uuml;şm&uuml;şlerdir?</strong> 
+    - A-) Alimin&uuml;t&ccedil;&uuml; d&uuml;kkanına
+    - B-) Fotoğraf malzemesi toptancılarına
+    - C-) Matbaalara
+    - D-) Kafelere
+    - **Cevap E-) Tasarım ajanslarına**
     ***
 1. Bug&uuml;n reklam&nbsp;fotoğraf&ccedil;ılığının en &ouml;nemli kazan&ccedil; kapılarından biri ................ fotoğraf&ccedil;ılığıdır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
@@ -1027,7 +1056,7 @@ IV. Genellikle, yardımcı ışık ana ışığa oranla daha şiddetli kullanıl
     - D-) Birden fazla ışık kaynağı kullanıldığında daha kolay elde edilir.
     - E-) Işığın şiddetinin y&uuml;ksek oluşu, g&ouml;lgeleri ve g&ouml;r&uuml;nt&uuml;de doku zenginliğini yok eder.
     ***
-1. <strong>Low Key aydınlatmaya ilişkin aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?</strong><br />
+1. <strong>Low Key Aydınlatma ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong><br />
 
     - A-) Fotoğraf karesi i&ccedil;inde objenin yalnız bir b&ouml;l&uuml;m&uuml; aydınlatılır.
     - B-) Dramatik bir atmosfer elde edilerek gerilimli bir ifadeye ulaşmaya &ccedil;alışılır.
@@ -1051,7 +1080,7 @@ IV. Genellikle, yardımcı ışık ana ışığa oranla daha şiddetli kullanıl
     - D-) Fotoğraf&ccedil;ı
     - E-) Sanat Tarih&ccedil;i
     ***
-1. <strong>&Ouml;zel ışık aydınlatma başlığı altında verilen aydınlatma &ccedil;eşitleri aşağıdaki hangi şıkta doğru şekilde verilmiştir?</strong><br />
+1. <strong>&Ouml;zel ışık aydınlatma başlığı altında verilen aydınlatma &ccedil;eşitleri aşağıdakilerin hangisinde doğru verilmiştir?</strong><br />
 
     - **Cevap A-) Rembrandt aydınlatma, High Key, Low Key**
     - B-) Tek ışıklı aydınlatma, iki ışıklı aydınlatma
@@ -1088,6 +1117,13 @@ IV. Genellikle, yardımcı ışık ana ışığa oranla daha şiddetli kullanıl
     - D-) Cephe aydınlatma, yansıyarak aydınlatma ve fon aydınlatma
     - E-) Cephe aydınlatma, tepe aydınlatma, s&uuml;z&uuml;lerek aydınlatma
     ***
+1. <strong>Aşağıdakilerden hangisi reklam fotoğraf&ccedil;ılığında aydınlatma &ccedil;eşitlerinden biri <u>değildir</u>?&nbsp;</strong>
+    - A-) &Ouml;zel Işık&nbsp;
+    - B-) &Uuml;&ccedil; Işıklı&nbsp;
+    - C-) İki Işıklı&nbsp;
+    - D-) &Ccedil;oklu Işıklı
+    - **Cevap E-) D&ouml;rt Işıklı**
+    ***
 1. <strong>Bir fotoğrafta ana ışıkla konunun bir b&ouml;l&uuml;m&uuml; aydınlanırken diğer b&ouml;l&uuml;m&uuml;nde kullanılan ve ana ışığa oranla daha d&uuml;ş&uuml;k şiddette olan ışık t&uuml;r&uuml;ne verilen ad aşağıdakilerden hangisidir?</strong>
     - A-) Ters ışık
     - B-) Tepe ışığı
@@ -1118,7 +1154,7 @@ IV. Genellikle, yardımcı ışık ana ışığa oranla daha şiddetli kullanıl
     - E-) Pop&uuml;ler fotoğraflara yorum yapılmalıdır.
     ***
 1. Kitle iletişim ara&ccedil;ları &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;, &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. ve &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.. g&ouml;rsellikleri yeniden tasarlar.<br />
-<strong>Yukarıdaki c&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br />
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br />
 
     - **Cevap A-) reel &ndash; sanal &ndash; sayısal**
     - B-) s&ouml;zl&uuml; &ndash; yazılı &ndash; sembolik
@@ -1144,7 +1180,7 @@ III. Ger&ccedil;ekliği bağlamından kopararak yeniden &uuml;retir.<br />
     - D-) HDR
     - E-) Solargrafi
     ***
-1. <strong>Aşağıdaki araştırmacılardan hangisi polaroid y&ouml;ntemini geliştiren grubun y&ouml;neticisidir?</strong>
+1. <strong>Aşağıdaki araştırmacılardan hangisi Polaroid Y&ouml;ntemi&#39;ni geliştiren grubun y&ouml;neticisidir?</strong>
     - A-) Erwin Van Saar
     - **Cevap B-) Edwin H. Land**
     - C-) Edward Sand
@@ -1239,11 +1275,11 @@ III. Herhangi bir metal kap, teneke ya da siyah kutu iğne deliği fotoğraf mak
     ***
 ## Unite 9
 1. <strong>Aşağıdakilerden hangisi g&ouml;r&uuml;nt&uuml; işlemenin gerek&ccedil;elerinden biri <u>değildir</u>?</strong>
-    - A-) Objektiften kaynaklanan bozulmaları d&uuml;zeltmek.
-    - B-) Sens&ouml;rden kaynaklanan g&uuml;r&uuml;lt&uuml;leri (noise) kaldırmak veya azaltmak.
-    - C-) Netlik ve keskinlik problemlerini d&uuml;zeltmek.
-    - **Cevap D-) Fotoğraf makinesinin kullanım &ouml;mr&uuml;n&uuml; uzatmak.**
-    - E-) Fotoğrafta g&ouml;r&uuml;lmesi istenmeyen nesneleri &ccedil;ıkarmak ve silmek.
+    - A-) Objektiften kaynaklanan bozulmaları d&uuml;zeltmek
+    - B-) Sens&ouml;rden kaynaklanan g&uuml;r&uuml;lt&uuml;leri (noise) kaldırmak veya azaltmak
+    - C-) Netlik ve keskinlik problemlerini d&uuml;zeltmek
+    - **Cevap D-) Fotoğraf makinesinin kullanım &ouml;mr&uuml;n&uuml; uzatmak**
+    - E-) Fotoğrafta g&ouml;r&uuml;lmesi istenmeyen nesneleri &ccedil;ıkarmak ve silmek
     ***
 1. <strong>Işık, ton, renk vb. değerlerin d&uuml;zenlenmesinin yanı sıra ekleme, &ccedil;ıkarma, silme, birleştirme vb. işlemler yapılmasına da olanak sağlayan yazılım aşağıdakilerden hangisidir?</strong>
     - A-) Capture One
@@ -1367,6 +1403,13 @@ III. Herhangi bir metal kap, teneke ya da siyah kutu iğne deliği fotoğraf mak
     - C-) Mimari fotoğraf&ccedil;ılığı
     - D-) Turizm fotoğraf&ccedil;ılığı
     - E-) Stok fotoğraf&ccedil;ılığı
+    ***
+1. <strong>Aşağıdakilerden hangisi turizm fotoğraf&ccedil;ılığının uygulama alanlarından biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Tarih&icirc; ve turistik yerler
+    - B-) Doğal g&uuml;zellikler
+    - C-) M&uuml;zeler
+    - D-) Turistik tesisler
+    - **Cevap E-) Sanayi kuruluşları**
     ***
 1. <strong>Stok fotoğraf&ccedil;ılığıyla ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) &Ouml;nceden &ccedil;ekilmiş hazır fotoğraflardan yararlanılmaktadır.
@@ -1884,6 +1927,14 @@ III. T&uuml;ketim toplumu<br />
     - C-) Grafik
     - **Cevap D-) Tipografi**
     - E-) Metinler arasılık
+    ***
+1. Logo, amblemden farklı olarak sadece ..................... değil, farklı tipografik &ouml;zelliklere sahip harf ya da rakamları da kullanır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) simgeleri**
+    - B-) renkleri
+    - C-) şekilleri
+    - D-) yazıları
+    - E-) işaretleri
     ***
 1. <strong>Bir eşyayı, objeyi, yeri, işleyişi ya da kavramı resmetme yoluyla temsil eden sembole ne ad verilir?</strong>
     - A-) Somutlaştırma

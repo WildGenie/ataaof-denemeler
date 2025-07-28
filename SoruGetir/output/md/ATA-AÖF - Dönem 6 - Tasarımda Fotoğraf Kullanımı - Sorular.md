@@ -7,24 +7,24 @@
     - **Cevap D-) 45.000**
     - E-) 35.000
     ***
-1. <strong>Aşağıdakilerden hangisi tasarım kelimesinin karşıladığı anlamlardan <u>olamaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi tasarım kelimesinin karşıladığı anlamlardan biri <u>değildir</u>?</strong>
     - A-) Zihinde canlandırılan bi&ccedil;im, tasavvur tasarım kelimesinin karşılığıdır.
-    - B-) Tasar &ccedil;izim, dizayn anlamında; bir sanat eserinin, yapının veya teknik &uuml;r&uuml;n&uuml;n ilk taslağını da belirtir, en yeni teknolojik alt yapıya sahip olmak
+    - B-) Tasar &ccedil;izim, dizayn anlamında; bir sanat eserinin, yapının veya teknik &uuml;r&uuml;n&uuml;n ilk taslağını da belirtir, en yeni teknolojik alt yapıya sahiptir.
     - C-) Bir araştırma s&uuml;recinin &ccedil;eşitli d&ouml;nemlerinde izlenecek yol ve işlemleri tasarlayan plan ve &ccedil;er&ccedil;eve olarakta yorumlanır.
-    - **Cevap D-) Tasarı oluşturma anlamında gelerek kural ve kanun koyma eylemidir.**
-    - E-) Mimari ya da sanat alanında planlanan bir &ccedil;alışmayı tanımlar.
+    - **Cevap D-) Tasarı oluşturma anlamında gelerek kural ve kanun koyma eylemidir.<br type="_moz" />**
+    - E-) Mimari ya da sanat alanında planlanan bir &ccedil;alışmanın ilk taslağını belirtir.
     ***
-1. <strong>T&uuml;rk Dil Kurumu (TDK)&rsquo; na g&ouml;re aşağıdakilerden hangisi sanat kelimesinin karşıladığı anlamlardan <u>olamaz</u>?</strong>
-    - A-) Bir duygu, tasarı, g&uuml;zellik ve benzerlerinin anlatımında kullanılan y&ouml;ntemlerin tamamı veya bu anlatım sonucunda ortaya &ccedil;ıkan &ouml;znel yaratıcılık.
-    - **Cevap B-) Tasarımla ilgili t&uuml;m verilerin toplanması.**
-    - C-) Belli bir uygarlığın veya topluluğun anlayış ve zevk &ouml;l&ccedil;&uuml;lerine uygun olarak yaratılmış anlatım.
+1. <strong>T&uuml;rk Dil Kurumuna g&ouml;re aşağıdakilerden hangisi sanat kelimesinin karşıladığı anlamlardan biri <u>değildir</u>?</strong>
+    - A-) Bir duygu, tasarı, g&uuml;zellik ve benzerlerinin anlatımında kullanılan y&ouml;ntemlerin tamamı veya bu anlatım sonucunda ortaya &ccedil;ıkan &ouml;znel yaratıcılık
+    - **Cevap B-) Tasarımla ilgili t&uuml;m verilerin toplanması**
+    - C-) Belli bir uygarlığın veya topluluğun anlayış ve zevk &ouml;l&ccedil;&uuml;lerine uygun olarak yaratılmış anlatım
     - D-) Bir şey yapmada g&ouml;sterilen ustalık
     - E-) Genelde usta &ccedil;ırak ilişkisi i&ccedil;erisinde devam eden ve şey yapmada g&ouml;sterilen maharet
     ***
 1. <strong>İnsanoğlunun g&ouml;rme eylemini anlama, g&ouml;rd&uuml;klerini yakalama ve g&ouml;r&uuml;nt&uuml;y&uuml; yansıtma &ccedil;abasını incelerken karşımıza &ccedil;ıkan en temel bilimsel buluş aşağıdakilerden hangisidir?</strong>
-    - A-) B&uuml;y&uuml;l&uuml; Fener
-    - **Cevap B-) Kamera Obscura**
-    - C-) Fotoğraf Makinası
+    - A-) B&uuml;y&uuml;l&uuml; fener
+    - **Cevap B-) Kamera obscura**
+    - C-) Fotoğraf makinası
     - D-) Ayna
     - E-) Projeksiyon cihazı
     ***
@@ -43,7 +43,7 @@
     - D-) Sanayi Devrimi
     - E-) End&uuml;stri 2
     ***
-1. <strong>İlk dijital g&ouml;rsel olarak kabul edilen dijital dosya da model olarak aşağıdakilerden hangisi kullanılmıştır?</strong>
+1. <strong>İlk dijital g&ouml;rsel olarak kabul edilen dijital dosyada model olarak aşağıdakilerden hangisi kullanılmıştır?</strong>
     - A-) Ayakkabısını boyayan bir adam
     - **Cevap B-) &Uuml;&ccedil; aylık bir bebek**
     - C-) Penceren g&ouml;z&uuml;ken bir manzara
@@ -158,12 +158,19 @@
     - D-) Vurgu
     - E-) Odak
     ***
-1. <strong>Aşağıdaki se&ccedil;eneklerin hangisinde ara (ikincil) renkler doğru ve eksiksiz olarak belirtilmiştir?</strong>
+1. <strong>Aşağıdakilerin hangisinde ara (ikincil) renkler doğru ve eksiksiz olarak belirtilmiştir?</strong>
     - A-) Sarı, Mavi, Yeşil
     - B-) Sarı, Kırmızı, Mor
     - **Cevap C-) Turuncu, Mor, Yeşil**
     - D-) Mavi, Mor, Yeşil
     - E-) Turuncu, Sarı, Kırmızı
+    ***
+1. <strong>Aşağıdakilerden hangisi temel tasarım elemanlarından biri <u>değildir</u>?</strong>
+    - A-) Nokta
+    - B-) &Ccedil;izgi
+    - C-) Şekil
+    - D-) Doku
+    - **Cevap E-) Kompozisyon**
     ***
 1. <strong>Tehdit, tehlike, endişe gibi kavramlarla ilişkilendirilebilen şekil aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) &Uuml;&ccedil;gen**
@@ -208,7 +215,7 @@
     - D-) Bu kamera a&ccedil;ısının kompozisyona etkisi olmaz.
     - E-) Fotoğrafın g&ouml;rsel ritminin oluşmasına katkı sağlar. Perspektif oluşturur.
     ***
-1. <strong>Pozitif alanın doğru tanımlaması hangi şıkta doğru olarak verilmiştir?</strong>
+1. <strong>Pozitif alanın doğru tanımlaması aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong>
     - **Cevap A-) Kompozisyon i&ccedil;ine dahil edilen &ouml;znelerin bulunduğu alana pozitif veya aktif alan denmektedir.**
     - B-) Kompozsiyonda fotoğrafı &ccedil;ekilen konunun etrafında kalan, onu &ccedil;evreleyen alana pozitif alan denmektedir.
     - C-) Kompozsiyonda hareketli nesnelerin bulunduğu alana pozitif alan denmektedir.
@@ -257,6 +264,13 @@
     - D-) &Ccedil;izgilerle, g&ouml;r&uuml;nt&uuml;ye hareket hissi katabiliriz.
     - E-) Yatay &ccedil;izgilerle izleyicide dingin bir his uyandırabiliriz.
     ***
+1. <strong>Negatif alanla ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
+    - A-) Negatif alan konunun i&ccedil;inde yer alan ama sabit olan kısma verilen isimdir.
+    - B-) Fotoğrafta konunun vurgulanmasında negatif alanın kullanımından ka&ccedil;ınılması gerekmektedir.
+    - **Cevap C-) Negatif alan bir nesne ile başka bir nesnenin etkileşimini sağlayan, konuyu &ccedil;evreleyen boşluktur.**
+    - D-) Bir fotoğrafta negatif alan ne kadar fazlaysa alan derinliğinin de o &ouml;l&ccedil;&uuml;de fazla olduğu s&ouml;ylenebilir.
+    - E-) İyi bir fotoğrafta pozitif alanların her zaman negatif alandan fazla olması beklenir.
+    ***
 1. <strong>Aşağıdakilerin hangisinde doğal ışık kaynağı doğru olarak verilmiştir?</strong>
     - A-) Odun ateşi, gaz ocağı
     - B-) Tungsten lamba, mum
@@ -279,19 +293,19 @@
     - D-) Hatırlatıcı olması
     - **Cevap E-) Ger&ccedil;eği s&ouml;ylemesi**
     ***
-1. <strong>Aşağıdaki se&ccedil;eneklerden hangisi bir fotoğrafın i&ccedil;eriğinde <u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi bir fotoğrafın i&ccedil;eriğinde <u>yer almaz</u>?</strong>
     - A-) Duygu
     - **Cevap B-) Perspektif**
     - C-) Renk
     - D-) Işık
     - E-) An
     ***
-1. <strong>Aşağıdaki se&ccedil;eneklerden hangisi fotoğrafın &ouml;zelliklerinden biri <u>değildir</u>?</strong>
-    - A-) Teması olmalıdır.
-    - B-) Mesaj i&ccedil;ermelidir.
-    - C-) Dikkat &ccedil;ekici olmalıdır.
-    - D-) Evrensel olmalıdır.
-    - **Cevap E-) Renkli olmalıdır.**
+1. <strong>Aşağıdakilerden hangisi fotoğrafın &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - A-) Teması olmalıdır
+    - B-) Mesaj i&ccedil;ermelidir
+    - C-) Dikkat &ccedil;ekici olmalıdır
+    - D-) Evrensel olmalıdır
+    - **Cevap E-) Renkli olmalıdır**
     ***
 1. <strong>Aşağıdaki se&ccedil;eneklerden hangisi fotoğrafın izleyiciye ulaşıncaya kadar ki ge&ccedil;en s&uuml;re&ccedil;te <u>yer almaz</u>?</strong>
     - **Cevap A-) G&ouml;zlem s&uuml;reci**
@@ -366,6 +380,13 @@ III. Mısır Piramitleri<br />
     - D-) Ufuk
     - **Cevap E-) Karanlık**
     ***
+1. <strong>Perspektif katmanları arasında ge&ccedil;iş yapılmasını sağlayan unsur nedir?</strong>
+    - A-) Hayal&icirc; &ccedil;izgiler
+    - **Cevap B-) Alan derinliği**
+    - C-) Kurgu
+    - D-) Tasarım
+    - E-) Y&ouml;nlendirme
+    ***
 ## Unite 5
 1. <strong>Aşağıdakilerden hangisi iletişimin ama&ccedil;ları arasında <u>yer almaz</u>?</strong>
     - A-) &Ouml;ğrenmeye y&ouml;nelik olması
@@ -402,14 +423,14 @@ III. Mısır Piramitleri<br />
     - D-) Sponsorlar tarafından daha &ouml;nceden belirli konseptler &uuml;zerine &ccedil;ekilmiş ama arşivlenmemiş g&ouml;r&uuml;nt&uuml;leridir.
     - E-) Fotoğraf&ccedil;ılar tarafından talep &uuml;zerine &ccedil;ekilecek g&ouml;r&uuml;nt&uuml;leridir.
     ***
-1. <strong>Stok fotoğraf&ccedil;ılığı ile ilgili ifadelerden hangisi <u>yanlıştır</u>?</strong>
+1. <strong>Stok fotoğraf&ccedil;ılığı ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?</strong>
     - A-) İnternet stok fotoğraf&ccedil;ılığının gelişimini doğrudan etkilemiştir.
     - B-) Dijital kameralar stok fotoğraf&ccedil;ılığının gelişimini doğrudan etkilemiştir.
     - C-) Stok fotoğraf&ccedil;ılığı ihtiya&ccedil; duyulan fotoğraflara ulaşmanın hızlı yoludur.
     - D-) Stok fotoğraf&ccedil;ılığı ucuz hatta &uuml;cretsiz olabilmektedir.
     - **Cevap E-) Stok fotoğraf&ccedil;ılığı arşiv tutulmadan yapılmadır.**
     ***
-1. <strong>Reklamın başarısı neye bağlı <u>değildir</u>?</strong>
+1. <strong>Reklamın başarısı a</strong><strong>şağıdakilerden hangisine&nbsp;</strong><strong>bağlı <u>değildir</u>?</strong>
     - A-) Hedef kitlenin doğru analizine
     - B-) Araştırmaya
     - C-) Hedef kitleye g&ouml;re oluşturulan mesaja
@@ -423,7 +444,7 @@ III. Mısır Piramitleri<br />
     - **Cevap D-) Reklamda kullanılan başlık, slogan, metin ve fotoğraf birbirlerinden bağımsız olmalıdır.**
     - E-) G&ouml;rsel g&ouml;stergeler kendinden beklenen anlam iletme g&ouml;revini yerine getirmelidir.
     ***
-1. <strong>Aşağıdaki ifadelerden hangisi yaratıcı insanların &ouml;zelliklerinden <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi yaratıcı insanların &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Bağımsız fikirlidirler.
     - B-) Eylem &ouml;zg&uuml;rl&uuml;ğ&uuml;ne sahiptirler.
     - **Cevap C-) Y&ouml;netilmeyi severler.**
@@ -437,12 +458,13 @@ III. Mısır Piramitleri<br />
     - D-) Metin ve g&ouml;rsel birbirinden bağımsız mesajlar vermelidir.
     - E-) Tasarım yapılmamalıdır.
     ***
-1. <strong>Aşağıdakilerden hangisi reklam fotoğraf&ccedil;ısının yapmaması gerekenler arasında yer alır?</strong>
-    - A-) Yaratıcı olmamalıdır.
-    - B-) Konuşmamalı, sadece fotoğrafını &ccedil;ekmelidir.
-    - **Cevap C-) Ekipten ayrı tek başına &ccedil;alışmamalıdır.**
-    - D-) Ticaretle ilgilenmemelidir.
-    - E-) Meraklı olmamalıdır.
+1. <strong>Aşağıdakilerden hangisi reklam fotoğraf&ccedil;ısının yapmaması gerekenler arasında yer alır?</strong><br type="_moz" />
+
+    - A-) Yaratıcı olmak
+    - B-) Konuşmayıp sadece fotoğrafını &ccedil;ekmek
+    - **Cevap C-) Ekipten ayrı tek başına &ccedil;alışmak**
+    - D-) Ticaretle ilgilenmek
+    - E-) Meraklı olmak
     ***
 1. <strong>Reklam ile ilgili olarak a</strong><strong>şağıdakilerden </strong><strong>hangisi <u>yanlıştır</u>?</strong>
     - A-) Belirli bir bedel karşılığında ger&ccedil;ekleşir.
@@ -466,7 +488,7 @@ III. Mısır Piramitleri<br />
     - D-) Leylak Toplayan Kız
     - **Cevap E-) Cami &Ouml;n&uuml;nde Konuşan Hocalar**
     ***
-1. <strong>Taşınabilir fotoğraf makinesinin gelişmesi hangi sanat hareketinde orta-ya &ccedil;ıkmıştır?</strong>
+1. <strong>Taşınabilir fotoğraf makinesinin gelişmesi aşağıdaki hangi sanat hareketinde ortaya &ccedil;ıkmıştır?</strong>
     - A-) Barok
     - **Cevap B-) İzlenimcilik**
     - C-) R&ouml;nesans
@@ -593,7 +615,7 @@ III. Mısır Piramitleri<br />
     - **Cevap D-) Maliyetinin ucuz olması**
     - E-) S&ouml;zle anlatımı m&uuml;mk&uuml;n olmayan d&uuml;ş&uuml;nceleri hedef kitleye kolaylıkla aktarabilmesi
     ***
-1. <strong>Aşağıdakilerden hangisi 20. Y&uuml;zyılın başında grafik tasarımı en &ccedil;ok etkileyen sanat hareketlerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi 20. y&uuml;zyılın başında grafik tasarımı en &ccedil;ok etkileyen sanat hareketlerinden biri <u>değildir</u>?</strong>
     - A-) De Stijl
     - B-) Suprematizm
     - **Cevap C-) Fauvism**
@@ -677,6 +699,16 @@ III. Mısır Piramitleri<br />
     - C-) G&uuml;nther Kieser
     - D-) G&uuml;nter Ranbow
     - **Cevap E-) Essen Faust**
+    ***
+1. I. Dikkat &ccedil;ekmek<br />
+II. İlgi uyandırmak&nbsp;<br />
+III. Hizmet vermek<br />
+<strong>Hedef kitleyle iletişim kurarken grafik tasarımın hizmet ettiği ama&ccedil;lar arasında yukarıdakilerden hangisi ya da hangileri&nbsp;yer alır?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) Yalnız III
+    - **Cevap D-) I ve II**
+    - E-) I, II ve III
     ***
 ## Unite 8
 1. <strong>Aşağıdakilerden hangisi afiş tasarımının ama&ccedil;larından biri&nbsp;<u>değildir</u>?</strong>
@@ -858,6 +890,13 @@ III. Tasarımda ahengin sağlanması<br />
     - D-) Adobe Express
     - E-) Figma
     ***
+1. <strong>Adobe Photoshop yazılımında aşağıdakilerden hangisi yapılabilmektedir?</strong>
+    - A-) Video d&uuml;zenleme ve kurgu
+    - B-) Video animasyon
+    - **Cevap C-) Kurumsal kimlik tasarımı**
+    - D-) Video render
+    - E-) 3D Mimari proje &ccedil;izimi
+    ***
 1. <strong>Vekt&ouml;rel tabanlı yazılımlar hakkında aşağıdaki ifadelerden hangisi doğrudur?</strong>
     - **Cevap A-) &Ccedil;alışma alanının b&uuml;y&uuml;kl&uuml;ğ&uuml; ne olursa olsun bozulma olmaz.**
     - B-) Derin &ouml;ğrenme teknolojisi ile &ccedil;alışır.
@@ -894,7 +933,7 @@ III. Tasarımda ahengin sağlanması<br />
     - D-) Şekillendirme tasarımı
     - E-) Detay tasarımı
     ***
-1. <strong>Fotoğrafın tasarım adımlarında kullanımıyla ilgili aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
+1. <strong>Fotoğrafın tasarım adımlarında kullanımıyla ilgili olarak&nbsp; aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Fotoğraf etkili bir sunum aracıdır.
     - B-) Fotoğraflar ihtiya&ccedil; analizinde kullanılır.
     - C-) Maketler tasarım ekibiyle fotoğraflanarak paylaşılabilir.
@@ -986,7 +1025,7 @@ III. Tasarımda ahengin sağlanması<br />
     - **Cevap D-) Paris**
     - E-) Milano
     ***
-1. <strong>D&uuml;nyada İlk moda Fotoğrafı olarak sayılan Fransız soylularından, Kontes de Castiglione&rsquo;nin gardrobunu tanıtan fotoğraf&ccedil;ı asağıdakilerden hangisidir?</strong>
+1. <strong>D&uuml;nyada İlk moda fotoğrafı olarak sayılan Fransız soylularından, Kontes de Castiglione&rsquo;nin gardrobunu tanıtan fotoğraf&ccedil;ı asağıdakilerden hangisidir?</strong>
     - **Cevap A-) Adolf de Mayer**
     - B-) Edward Steichen
     - C-) Martin Muncaski
@@ -1021,7 +1060,7 @@ III. Tasarımda ahengin sağlanması<br />
     - D-) Karışık renkler
     - E-) N&ouml;tr renkler
     ***
-1. <strong>Hangisi fotoğraf &ccedil;ekimlerinde st&uuml;dyoda kullanılan teknik ekipmanlardan biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi fotoğraf &ccedil;ekimlerinde st&uuml;dyoda kullanılan teknik ekipmanlardan biri&nbsp;<u>değildir</u>?</strong>
     - A-) Şemsiyeler
     - B-) Reflekt&ouml;rler ve Petekler
     - C-) Softboxlar
@@ -1155,6 +1194,13 @@ III. Tasarımda ahengin sağlanması<br />
     - **Cevap D-) Akustikle**
     - E-) Kalabalık ortam oluşturmayla
     ***
+1. <strong>&lsquo;&rsquo;Vietnamlı &Ccedil;ocuk&rsquo;&rsquo; fotoğrafı kime aittir?</strong>
+    - A-) Joachim Schmeisser
+    - B-) Steve McCurry
+    - C-) Eric Lafforgue
+    - **Cevap D-) Nick Ut**
+    - E-) Jimmy Nelson
+    ***
 ## Unite 13
 1. <strong>Aşağıdakilerden hangisi seramik malzemenin kullanıldığı alanlardan <u>değildir</u>?</strong>
     - A-) Mimari yapılar
@@ -1170,7 +1216,7 @@ III. Tasarımda ahengin sağlanması<br />
     - D-) Dekal aktarım y&ouml;ntemi
     - E-) Toner aktarım y&ouml;ntemi
     ***
-1. <strong>Serigrafi aktarım y&ouml;nteminde kaliteli fotografik etki elde etmek i&ccedil;in tram değeri ne olmalıdır?</strong>
+1. <strong>Serigrafi Aktarım Y&ouml;ntemi&#39;nde kaliteli fotografik etki elde etmek i&ccedil;in tram değeri ne olmalıdır?</strong>
     - A-) 300dpi=33tram
     - B-) 1024dpi=102tram
     - C-) 500dpi=57tram
@@ -1248,7 +1294,7 @@ III. Tasarımda ahengin sağlanması<br />
     - D-) Sherman
     - E-) Richter
     ***
-1. <strong>Berlin duvarı imgesini ipliklerle pikselleştiren Diane Meyer&#39;in vurguladığı kavram hangisidir?</strong>
+1. <strong>Berlin Duvarı imgesini ipliklerle pikselleştiren Diane Meyer&#39;in vurguladığı kavram hangisidir?</strong>
     - A-) G&uuml;zellik
     - **Cevap B-) Anı-bellek**
     - C-) Şehir hayatı
@@ -1303,6 +1349,13 @@ III. Tasarımda ahengin sağlanması<br />
     - C-) SherieLevine
     - D-) Lisa Kokin
     - E-) Melisa Zexter.
+    ***
+1. <strong>&quot;&Ccedil;ağdaş sanat &quot;havasını soluduğumuz ve hakkında bir s&ouml;yleme yetkimizin olduğu bir zamanı ifade eder.&quot; fikrini paylaşan kimdir?</strong>
+    - A-) Danto
+    - **Cevap B-) Eroğlu**
+    - C-) Marshall
+    - D-) Engin
+    - E-) Malevi&ccedil;
     ***
 1. <strong>Fotoğrafın &ouml;zellikleri ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - **Cevap A-) Sanat alanın dışındadır.**

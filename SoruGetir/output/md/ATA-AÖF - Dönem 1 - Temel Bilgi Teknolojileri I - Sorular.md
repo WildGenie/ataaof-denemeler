@@ -73,16 +73,11 @@
 &nbsp;**
     - E-) Sayısal bilgisayarlar
     ***
-1. <strong>Bilgisayarlar arasında iletişim sağlanarak kolaylıkla veri paylaşımı yapılabilmesine, yazıcı ve tarayıcı gibi aygıtların ortak bir şekilde kullanılabilmesine olanak tanıyan yapı aşağıdakilerden hangisidir?</strong><br />
-&nbsp;
-    - A-) Mikrobilgisayar sistemleri<br />
-&nbsp;
-    - B-) Merkezi bilgisayar sistemleri<br />
-&nbsp;
-    - C-) Analog bilgisayar sistemleri<br />
-&nbsp;
-    - D-) Dijital bilgisayar sistemleri<br />
-&nbsp;
+1. <strong>Bilgisayarlar arasında iletişim sağlanarak kolaylıkla veri paylaşımı yapılabilmesine, yazıcı ve tarayıcı gibi aygıtların ortak bir şekilde kullanılabilmesine olanak tanıyan yapı aşağıdakilerden hangisidir?</strong>
+    - A-) Mikrobilgisayar sistemleri
+    - B-) Merkezi bilgisayar sistemleri
+    - C-) Analog bilgisayar sistemleri
+    - D-) Dijital bilgisayar sistemleri
     - **Cevap E-) Ağ sistemleri**
     ***
 1. <strong>Verilerin belli bir işleme tabi tutularak anlamlı bir h&acirc;le getirilmesi sonucunda aşağıdakilerden hangisi oluşur?</strong>
@@ -373,7 +368,7 @@ III. Bilgisayarlar entegre devre ve yonga setlerinin etkisiyle daha da k&#252;&#
 1. I. T&Uuml;BİTAK-ULAKBİM tarafından desteklenmektedir.<br />
 II. Kurulmadan dahi &ccedil;alışmaya başlayabilir.<br />
 III. Bir&ccedil;ok dil desteği vardır.<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri Pardus işletim sisteminin &ouml;ne &ccedil;ıkan &ouml;zellikleri arasında yer alır?</strong>
+<strong>Yukarıdakilerden hangisi ya da hangileri Pardus İşletim Sistemi&#39;nin &ouml;ne &ccedil;ıkan &ouml;zellikleri arasında yer alır?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -525,6 +520,13 @@ III. Bir&ccedil;ok dil desteği vardır.<br />
     - D-) Yeni sekme
     - E-) Hakkında
     ***
+1. <strong>Vir&uuml;slerle ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Boot sekt&ouml;r vir&uuml;slerinin bulaşması i&ccedil;in s&uuml;r&uuml;c&uuml;n&uuml;n aktif h&acirc;le gelmesi yeterlidir.
+    - B-) Kullanıcının kişisel bilgilerine erişmek, banka bilgilerini elde etmek veya buna benzer zarar verebilecek dosyalarına ulaşmak amacıyla kullanılan k&ouml;t&uuml; ama&ccedil;lı yazılımlara trojan denir.
+    - C-) Vir&uuml;s bulaştığını tespit ettiğiniz bir bilgisayardaki etkinliklerinizi durdurmanız gerekmektedir.
+    - **Cevap D-) Kullanıcının isteği dışında kendisine gelen elektronik postalara solucan denir.**
+    - E-) Truva atları, zamana veya eyleme bağlı olarak &ccedil;alışan vir&uuml;s t&uuml;rleridir.
+    ***
 1. <strong>Kullanıcı hareketlerinin takip edilmemesi ve gizli kalmasının istenildiği durumlarda kullanılan tarayıcı &ouml;zelliği hangisidir?</strong> 
     - A-) Yeni sekme
     - **Cevap B-) Gizli sekme**
@@ -610,16 +612,11 @@ III. Bir&ccedil;ok dil desteği vardır.<br />
     - D-) Kaydedilmemiş belgeleri kurtarma
     - E-) Belgeyi son olarak işaretleme
     ***
-1. <strong>Word 2021&rsquo;de Dosya men&uuml;s&uuml;nde yer alan Yazdır se&ccedil;eneği kullanılarak aşağıdakilerden hangisi <u>yapılamaz</u>?</strong><br />
-&nbsp;
-    - A-) Ge&ccedil;erli sayfa yazdırılabilir.<br />
-&nbsp;
-    - B-) Yazıcı se&ccedil;imi yapılabilir.<br />
-&nbsp;
-    - C-) Sayfa y&ouml;nlendirmesi ayarlanabilir.<br />
-&nbsp;
-    - **Cevap D-) Belge sorunları denetlenebilir.<br />
-&nbsp;**
+1. <strong>Word 2021&rsquo;de Dosya men&uuml;s&uuml;nde yer alan Yazdır se&ccedil;eneği kullanılarak aşağıdakilerden hangisi <u>yapılamaz</u>?</strong>
+    - A-) Ge&ccedil;erli sayfa yazdırılabilir.
+    - B-) Yazıcı se&ccedil;imi yapılabilir.
+    - C-) Sayfa y&ouml;nlendirmesi ayarlanabilir.
+    - **Cevap D-) Belge sorunları denetlenebilir.**
     - E-) Kenar boşlukları ayarlanabilir.
     ***
 1. <strong>Word 2021&rsquo;de Dosya men&uuml;s&uuml;nde yer alan Paylaş se&ccedil;eneği kullanılarak aşağıdakilerden hangisi <u>yapılamaz</u>?</strong>
@@ -808,6 +805,13 @@ III. Bir&ccedil;ok dil desteği vardır.<br />
     - C-) ALT+SHIFT+P
     - D-) ALT+SHIFT+Y
     - E-) CTRL+ALT+P
+    ***
+1. <strong>Word programında bir metnin sağa hizalı şekilde yazılmasını sağlayan kısayol tuş bileşeni aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) CTRL+R**
+    - B-) CTRL+L
+    - C-) CTRL+G
+    - D-) CTRL+D
+    - E-) CTRL+H
     ***
 1. <strong>Word programında kopyalanan bir metnin veya nesnenin yapıştırılması i&ccedil;in kullanılan kısayol tuş bileşeni aşağıdakilerden hangisidir?</strong>
     - A-) CTRL+K
@@ -1059,16 +1063,12 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) H&uuml;cre Hizalama
     - E-) H&uuml;cre Dolgusu
     ***
-1. Excel tablosunda D s&uuml;tununda &ouml;ğrencilerin ge&ccedil;me ve kalma durumu yer almaktadır. Dersi ge&ccedil;en &ouml;ğrencilerin h&uuml;crelerinin arka planında yeşil, kalanların ise kırmızı renkle boyanması istenmektedir. <strong>Bunun i&ccedil;in aşağıdakilerden hangisi kullanılabilir?</strong><br />
-&nbsp;
-    - A-) Hizalama<br />
-&nbsp;
-    - B-) Kenarlık<br />
-&nbsp;
-    - **Cevap C-) Dolgu<br />
-&nbsp;**
-    - D-) Koruma<br />
-&nbsp;
+1. Excel tablosunda D s&uuml;tununda &ouml;ğrencilerin ge&ccedil;me ve kalma durumu yer almaktadır. Dersi ge&ccedil;en &ouml;ğrencilerin h&uuml;crelerinin arka planında yeşil, kalanların ise kırmızı renkle boyanması istenmektedir.<br />
+<strong>Bunun i&ccedil;in aşağıdakilerden hangisi kullanılabilir?</strong>
+    - A-) Hizalama
+    - B-) Kenarlık
+    - **Cevap C-) Dolgu**
+    - D-) Koruma
     - E-) Sayı
     ***
 1. Muhasebede &ccedil;alışan bir kişi m&uuml;şterisine Excel 2021&rsquo;de bir tablo oluşturmuştur. M&uuml;şterisinin bu Excel &ccedil;alışma sayfasında A, &Ouml; ve F s&uuml;tunlarına yazılan verilerin g&ouml;r&uuml;nt&uuml;lenmesini istememektedir.<br />
@@ -1105,6 +1105,13 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - C-) Değişiklikler
     - **Cevap D-) Makrolar**
     - E-) Sırala ve Filtre Uygula
+    ***
+1. <strong>Excel programında se&ccedil;ilmiş h&uuml;cre ve h&uuml;crelerin kilitlenmesi i&ccedil;in hangi işlem yapılması gerekmektedir?</strong>
+    - A-) H&uuml;cre se&ccedil;ildikten sonra &ldquo;Gizli&rdquo; se&ccedil;eneği se&ccedil;ilmelidir.
+    - **Cevap B-) H&uuml;cre Bi&ccedil;imlendirmeden &ldquo;Koruma&rdquo; ayarlamaları yapılmalıdır.**
+    - C-) H&uuml;cre se&ccedil;ildikten sonra kırmızı dolgu ile doldurulmalıdır.
+    - D-) Kilitlenmesi gereken h&uuml;cre ya da h&uuml;crelere kenarlık eklenmelidir.
+    - E-) H&uuml;cre bi&ccedil;imlendirme b&ouml;l&uuml;m&uuml;nden &ldquo;Sayı&rdquo; ayarlamaları yapılmalıdır.
     ***
 1. <strong>A3 s&uuml;tununda yer alan sayısal verinin ondalıktan sonra 3 basamak g&ouml;r&uuml;nt&uuml;lenmesi&nbsp;i&ccedil;in hangi ayarlamaların yapılması gerekmektedir?</strong>
     - **Cevap A-) H&uuml;cre bi&ccedil;imlendirmesindeki &ldquo;Sayı&rdquo; sekmesinde yer alan &ldquo;Metin&rdquo; se&ccedil;eneğinden gerekli ayarlamalar yapılmalıdır.**
@@ -1225,6 +1232,13 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) EGERSAY
     - E-) BAG_DEG_SAY
     ***
+1. <strong>Ayşe &ccedil;alıştığı kurumda 65 yaş &uuml;zerinde olanların &ldquo;Sokağa &ccedil;ıkma yasağı var.&rdquo;, 65 yaş altında olanların ise &ldquo;Sokağa &ccedil;ıkma yasağı yok.&rdquo; olarak belirtmek istiyor. Ayşe bu işlemi yapabilmek i&ccedil;in aşağıdaki form&uuml;llerden hangisini yazmalıdır? (Personel yaş bilgileri C s&uuml;tununda yer almaktadır)</strong>
+    - A-) =EĞERSAY(C1&lt;65; &ldquo;Sokağa &ccedil;ıkma yasağı var&rdquo;; &ldquo;Sokağa &ccedil;ıkma yasağı yok&rdquo;)
+    - B-) =EĞER_ORTALA(C1&lt;65; &ldquo;Sokağa &ccedil;ıkma yasağı var&rdquo;; &ldquo;Sokağa &ccedil;ıkma yasağı yok&rdquo;)
+    - C-) =EĞER_YAS(C1&lt;65; &ldquo;Sokağa &ccedil;ıkma yasağı var&rdquo;; &ldquo;Sokağa &ccedil;ıkma yasağı yok&rdquo;)
+    - D-) =EĞER(C1&lt;65; &ldquo;Sokağa &ccedil;ıkma yasağı var&rdquo;; &ldquo;Sokağa &ccedil;ıkma yasağı yok&rdquo;)
+    - **Cevap E-) =EĞER(C1&gt;65; &ldquo;Sokağa &ccedil;ıkma yasağı var&rdquo;; &ldquo;Sokağa &ccedil;ıkma yasağı yok&rdquo;)**
+    ***
 1. <strong>Excel programında &quot;=D1+D2+D3+D4+D5+D6&quot; form&uuml;l&uuml; aşağıdakilerden hangisi ile aynıdır?</strong>
     - A-) =TOPLA(D1,D6)
     - B-) =TOPLA(D1.D6)
@@ -1267,16 +1281,12 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) Hedef kitle analizi<br />
     - E-) Kurulum amacının belirlenmesi
     ***
-1. <strong>Murat &ccedil;alıştığı kuruma yeni bir &Ouml;ğrenme Y&ouml;netim Sistemi kurulmasını istemektedir. Yazılım geliştiriciden bu doğrultuda &ccedil;alışma yapmasını ve bu kurulumun ger&ccedil;ekleştirilmesini istemektedir. Yazılım geliştirici &Ouml;YS se&ccedil;imi yaparken aşağıdakilerden hangisine dikkat etmesine gerek yoktur?</strong><br />
-&nbsp;
-    - A-) Erişilebilir olmasına<br />
-&nbsp;
-    - B-) Esnek yapıda olmasına<br />
-&nbsp;
-    - C-) Sade bir tasarım olmasına<br />
-&nbsp;
-    - **Cevap D-) T&uuml;m mod&uuml;lleri i&ccedil;eriyor olmasına<br />
-&nbsp;**
+1. Murat &ccedil;alıştığı kuruma yeni bir &Ouml;ğrenme Y&ouml;netim Sistemi kurulmasını istemektedir. Yazılım geliştiriciden bu doğrultuda &ccedil;alışma yapmasını ve bu kurulumun ger&ccedil;ekleştirilmesini istemektedir.<br />
+<strong>Yazılım geliştiricinin &Ouml;YS se&ccedil;imi yaparken aşağıdakilerden hangisine dikkat etmesine gerek <u>yoktur</u>?</strong>
+    - A-) Erişilebilir olmasına
+    - B-) Esnek yapıda olmasına
+    - C-) Sade bir tasarım olmasına
+    - **Cevap D-) T&uuml;m mod&uuml;lleri i&ccedil;eriyor olmasına**
     - E-) İ&ccedil;erik ve hedef kitleye uygun olmasına
     ***
 1. <strong>Aşağıdaki bilgilerden hangisi lisanslı &Ouml;ğrenme Y&ouml;netim Sistemlerinin &ouml;zellikleri arasında yer almaktadır?</strong><br />
@@ -1511,6 +1521,13 @@ IV. Geleneksel eğitimi ortadan kaldırma<br />
     - D-) Forum
     - **Cevap E-) Videokonferans**
     ***
+1. <strong>Aşağıdakilerden hangisi MOOC uygulamalarında kursların &uuml;cretsiz olma, katılım i&ccedil;in &ouml;n koşul gerektirmeme ve kaynaklara erişim olanağı sunma &ouml;zelliğini ifade eden kavramdır?</strong>
+    - **Cevap A-) A&ccedil;ıklık**
+    - B-) &Ccedil;evrimi&ccedil;i
+    - C-) Kitlesellik
+    - D-) Kurs
+    - E-) Geleneksellik
+    ***
 1. I.&nbsp;Eğitimde fırsat eşitliği sağlaması<br />
 II.&nbsp;Yaşam boyu &ouml;ğrenmenin niteliğini artırması<br />
 III.&nbsp;Bireylere bilgi ve becerilerini g&uuml;ncelleme fırsatı sağlaması<br />
@@ -1520,6 +1537,13 @@ III.&nbsp;Bireylere bilgi ve becerilerini g&uuml;ncelleme fırsatı sağlaması<
     - C-) I ve III
     - D-) II ve III
     - **Cevap E-) I, II ve III**
+    ***
+1. <strong>Aşağıdakilerden hangisi &ccedil;evrimi&ccedil;i ders &ccedil;alışma ara&ccedil;larından biri <u>değildir</u>?</strong>
+    - A-) XMind
+    - B-) StudyBlue
+    - C-) Quizlet
+    - **Cevap D-) Unity**
+    - E-) Evernote
     ***
 1. <strong>Aşağıdakilerden hangisi &ccedil;evrimi&ccedil;i &ouml;ğrenme ortamlarında, eş zamanlı &ouml;ğrenme ortamlarından biri <u>değildir</u>?</strong>
     - **Cevap A-) Web G&uuml;nceleri**
@@ -1601,16 +1625,11 @@ IV. &Ouml;ğrencilerin teknik eksikliklerinin olması (mikrofon, kamera)<br />
     - D-) Geleneksel
     - E-) Eş zamanlı
     ***
-1. <strong>Aşağıdakilerden hangisi eş zamanlı olmayan iletişim s&uuml;re&ccedil;lerinin sunduğu avantajlardan <u>değildir</u>?</strong><br />
-&nbsp;
-    - A-) Materyallere kolay erişim imk&acirc;nı<br />
-&nbsp;
-    - B-) Cevap vermeden &ouml;nce d&uuml;ş&uuml;nme s&uuml;resinin olması<br />
-&nbsp;
-    - C-) Katılımcı sayısında sınırlandırma olmaması<br />
-&nbsp;
-    - D-) Her zaman her yerde katılım imk&acirc;nı<br />
-&nbsp;
+1. <strong>Aşağıdakilerden hangisi eş zamanlı olmayan iletişim s&uuml;re&ccedil;lerinin sunduğu avantajlardan biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Materyallere kolay erişim imk&acirc;nı
+    - B-) Cevap vermeden &ouml;nce d&uuml;ş&uuml;nme s&uuml;resinin olması
+    - C-) Katılımcı sayısında sınırlandırma olmaması
+    - D-) Her zaman her yerde katılım imk&acirc;nı
     - **Cevap E-) İzolasyon hissinin y&uuml;ksek olması**
     ***
 1. <strong>Aşağıdakilerden hangisi eş zamanlı olmayan iletişim ara&ccedil;larından biri <u>değildir</u>?</strong><br />
@@ -1643,6 +1662,13 @@ IV. &Ouml;ğrencilerin teknik eksikliklerinin olması (mikrofon, kamera)<br />
     - D-) Sanal sınıflar<br />
 &nbsp;
     - E-) Web konferans sistemleri
+    ***
+1. <strong>Aşağıdakilerden hangisi web konferans sistemlerinden biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Adobe Connect
+    - B-) Big Blue Button
+    - C-) Zoom
+    - **Cevap D-) Pinterest**
+    - E-) Google Meet
     ***
 1. I. Dosya transfer etme<br />
 II. Hiperlinkler g&ouml;nderme<br />
@@ -1872,16 +1898,11 @@ IV. Kullanıcı &uuml;retkenliğini ve verimliliğini artırır.<br />
     - **Cevap D-) &Ouml;ğrenme y&ouml;netim sistemleri**
     - E-) Canlı sınıf yazılımları
     ***
-1. <strong>Aşağıdakilerden hangisi &Ouml;ğrenim Y&ouml;netim Sistemlerinde bulunması gereken &ouml;zelliklerinden <u>değildir</u>?</strong><br />
-&nbsp;
-    - A-) Birlikte &ccedil;alışılabilirlik<br />
-&nbsp;
-    - **Cevap B-) Anlık geribildirim<br />
-&nbsp;**
-    - C-) Y&ouml;netilebilirlik<br />
-&nbsp;
-    - D-) Ulaşılabilirlik<br />
-&nbsp;
+1. <strong>Aşağıdakilerden hangisi &ouml;ğrenim y&ouml;netim sistemlerinde bulunması gereken &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Birlikte &ccedil;alışılabilirlik
+    - **Cevap B-) Anlık geribildirim**
+    - C-) Y&ouml;netilebilirlik
+    - D-) Ulaşılabilirlik
     - E-) S&uuml;reklilik
     ***
 1. <strong>Aşağıdakilerden hangisi a&ccedil;ık kaynak kodlu bir &Ouml;ğrenim Y&ouml;netim Sistemine &ouml;rnektir?</strong><br />

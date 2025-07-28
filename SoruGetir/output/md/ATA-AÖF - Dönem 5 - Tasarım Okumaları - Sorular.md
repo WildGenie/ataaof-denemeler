@@ -84,6 +84,13 @@
     - D-) En iyi tasarımlar resim ve heykeldir.
     - E-) Bir amacı olan her &uuml;retim sanattır.
     ***
+1. <strong>Arts &amp; Crafts sanat&ccedil;ıları ilhamlarını nereden almıştır?</strong>
+    - A-) Soyut formlardan
+    - B-) Fig&uuml;ratif resimden
+    - **Cevap C-) Orta &Ccedil;ağ sanat eserleri ve doğadan**
+    - D-) Grek mimarisinden
+    - E-) Empresyonist sanat&ccedil;ılardan
+    ***
 1. <strong>Aşağıdakilerden hangisi Art Nouveau&rsquo;nın en &uuml;nl&uuml; temsilcilerinden biridir?</strong>
     - **Cevap A-) Antoni Gaudi**
     - B-) Frank Lloyd Wright
@@ -225,7 +232,7 @@
     - D-) Otto Lindig
     - E-) Elsa Frieda Fleischmann
     ***
-1. <strong>Ludwig Miesvan der Rohe&#39;nin tasarladığı &uuml;nl&uuml; koltuk aşağıdakilerden hangisidir?</strong>
+1. <strong>Ludwig Miesvan der Rohe&#39;nin tasarladığı koltuk aşağıdakilerden hangisidir?</strong>
     - A-) Wassily
     - B-) Nesting
     - **Cevap C-) Brno**
@@ -510,7 +517,7 @@
     ***
 1. <strong>Aşağıdakilerden hangisi Wolcott ve arkadaşlarının ortaya koyduğu tasarım temelli araştırmanın &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Teori odaklı
-    - B-) İşbirlik&ccedil;i
+    - B-) İş birlik&ccedil;i
     - **Cevap C-) Kısa s&uuml;reli**
     - D-) Pratik
     - E-) Yinelemeli
@@ -598,6 +605,13 @@
     - C-) Esnek
     - D-) Faydacı
     - E-) Tekrarlayan
+    ***
+1. <strong>Aşağıdakilerden hangisi tasarım temelli araştırmalarda dikkat edilmesi gereken değişkenlerden biri <u>değildir</u>?</strong>
+    - A-) Ortam
+    - B-) &Ouml;ğrenenlerin doğası
+    - **Cevap C-) Araştırma sonu&ccedil;larının nasıl sunulacağı**
+    - D-) Mali gereklilikler
+    - E-) Uygulama &ccedil;izelgesi
     ***
 ## Unite 6
 1. <strong>Yaratıcılığı etkileyen temel bilişsel değişkenler nelerdir?</strong>
@@ -757,7 +771,7 @@
     - D-) Tokyo Konferansı
     - E-) Aspendos Konferansı
     ***
-1. <strong>&quot;Tasarımın hemen hemen herkes tarafından, en azından bazı zamanlar, her yerde ve her yerde uygulanan bir faaliyet olduğu ve insanların bu konuda nasıl hareket ettiği hakkında genelleştirilebilir g&ouml;zlemler olabileceği&quot; g&ouml;r&uuml;ş&uuml;n&uuml; savunan profes&ouml;r aşağıdakilerden hangisidir?</strong>
+1. <strong>&quot;Tasarımın hemen hemen herkes tarafından, en azından bazı zamanlar, her yerde uygulanan bir faaliyet olduğu ve insanların bu konuda nasıl hareket ettiği hakkında genelleştirilebilir g&ouml;zlemler olabileceği&quot; g&ouml;r&uuml;ş&uuml;n&uuml; savunan profes&ouml;r aşağıdakilerden hangisidir?</strong>
     - A-) Lucas Otto
     - B-) Mitch Benjamin
     - **Cevap C-) C. West Churchman**
@@ -866,7 +880,7 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - **Cevap D-) Basitleştirme**
     - E-) Harmanlama
     ***
-1. <strong>Claude Monet, Rouen Katedral&#39;e aynı noktadan bakarak yaptığı tablolar aşağıdaki yaratıcı stretejilerden hangilerine &ouml;rnek verilebilir?</strong>
+1. <strong>Claude Monet&#39;nin, Rouen Katedrali&#39;ne aynı noktadan bakarak yaptığı tablolar aşağıdaki yaratıcı stratejilerden hangilerine &ouml;rnek verilebilir?</strong>
     - **Cevap A-) B&uuml;kme ve Uyarlama**
     - B-) &Ccedil;ekme ve İtme
     - C-) &Ccedil;arpıtma ve Par&ccedil;alama
@@ -1023,6 +1037,13 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) Sanat doğada olanı taklit eder.
     - E-) Sanat&ccedil;ı &ouml;nemli bir insandır.
     ***
+1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>İspanya&rsquo;da bulunan bir mağaradır ?</strong>
+    - A-) Magura Mağarası
+    - B-) Lascaux Mağarası
+    - **Cevap C-) Altamira Mağarası**
+    - D-) Bhimbetka Mağarası
+    - E-) Eller Mağarası
+    ***
 1. <strong>G&ouml;beklitepe T taşları &uuml;zerinde en &ccedil;ok aşağıdaki fig&uuml;rlerden hangisi tasarlanmıştır?</strong>
     - A-) Bitkiler
     - B-) Kullanım eşyaları
@@ -1059,12 +1080,12 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - **Cevap D-) Apple**
     - E-) Photomagic
     ***
-1. <strong>&nbsp;Aşağıdaki Adobe yazılımlarından hangisinin temel kullanım alanı yanlış yazılmıştır?</strong>
-    - A-) Adobe Illustrator / Vekt&ouml;r resim ve ill&uuml;strasyon oluşturma.
-    - B-) Adobe InDesign / Dijital ve basılı mecralar i&ccedil;in mizanpaj oluşturma.
-    - **Cevap C-) Adobe Premiere Pro / Piksel tabanlı g&ouml;r&uuml;nt&uuml; işleme.**
-    - D-) Adobe Animate / Animasyon tasarımı ve sahne &uuml;retimi.
-    - E-) Adobe After Effects / Sinematik g&ouml;rsel efektler ve hareketli grafik oluşturma.
+1. <strong>&nbsp;Aşağıdaki Adobe yazılımlarından hangisinin temel kullanım alanı <u>yanlış</u> yazılmıştır?</strong>
+    - A-) Adobe Illustrator / Vekt&ouml;r resim ve ill&uuml;strasyon oluşturma
+    - B-) Adobe InDesign / Dijital ve basılı mecralar i&ccedil;in mizanpaj oluşturma
+    - **Cevap C-) Adobe Premiere Pro / Piksel tabanlı g&ouml;r&uuml;nt&uuml; işleme**
+    - D-) Adobe Animate / Animasyon tasarımı ve sahne &uuml;retimi
+    - E-) Adobe After Effects / Sinematik g&ouml;rsel efektler ve hareketli grafik oluşturma
     ***
 1. <strong>Aşağıdaki işlemlerden hangisi Adobe Illustrator yazılımında <u>ger&ccedil;ekleştirilemez</u>?</strong>
     - A-) Dijital ill&uuml;strasyon yapmak
@@ -1143,6 +1164,13 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) Video kurgu i&ccedil;in idealdir.
     - E-) Piksel tabanlı yazılımlara g&ouml;re kullanımının daha kolaydır.
     ***
+1. <strong>Unity yazılımı ile aşağıdakilerden hangisi yapılabilmektedir?</strong>
+    - A-) Afiş tasarımı
+    - B-) Mizanpaj ve dizgi
+    - **Cevap C-) Sanal ger&ccedil;eklik mek&acirc;n tasarımı**
+    - D-) Video kurgu
+    - E-) Yapay zek&acirc; ve derin &ouml;ğrenme
+    ***
 1. <strong>Aşağıdakilerden hangisi &ccedil;izim tabletleri i&ccedil;in <u>s&ouml;ylenemez</u>?</strong>
     - A-) &Ccedil;izim s&uuml;recinde kolaylık sağlar.
     - B-) Grafik tasarım ve ill&uuml;strasyon yapılabilir.
@@ -1208,7 +1236,7 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - **Cevap D-) Karma Ger&ccedil;eklik ve Artırılmış Ger&ccedil;eklik**
     - E-) Sanal Ger&ccedil;eklik ve Virtual Reality
     ***
-1. <strong>VR ve AR teknolojilerinin harmanlanmış hali olan teknoloji aşağıdakilerden hangisidir?</strong>
+1. <strong>VR ve AR teknolojilerinin harmanlanmış h&acirc;li olan teknoloji aşağıdakilerden hangisidir?</strong>
     - A-) Sanal Ger&ccedil;eklik
     - B-) Virtual Reality
     - C-) Augmented Reality
@@ -1244,6 +1272,13 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) İnersiyal Sistemler
     - E-) İşaretsiz Sistemler
     ***
+1. <strong>Aşağıdaki yazılımlardan hangisi moda tasarımı i&ccedil;in &ouml;zel olarak &uuml;retilmiş CAD yazılımları arasında <u>yer almaz</u>?</strong>
+    - A-) CLO 3D
+    - B-) TUKA 3D
+    - C-) Marvelous Designer
+    - D-) C-Design Fashion
+    - **Cevap E-) Adobe Premiere**
+    ***
 ## Unite 12
 1. <strong>S&uuml;rd&uuml;r&uuml;lebilir Tasarım ne demektir?</strong>
     - A-) &Uuml;r&uuml;n elde etmek
@@ -1252,11 +1287,11 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - **Cevap D-) Gelecek kuşakların ihtiyacından almadan, bug&uuml;n&uuml; &uuml;retmek**
     - E-) Bir g&uuml;zel resim yapmak
     ***
-1. <strong>S&#252;rd&#252;r&#252;lebilir kalkınma farkındalık toplantıları ne zaman başlamıştır?</strong>
-    - A-) &#199;izimle başlamıştır.
+1. <strong>S&uuml;rd&uuml;r&uuml;lebilir kalkınma farkındalık toplantıları ne zaman başlamıştır?</strong>
+    - A-) &Ccedil;izimle başlamıştır.
     - B-) Resimle başlamıştır.
-    - **Cevap C-) 1972 yılında Stokholm'de başlamıştır.**
-    - D-) İnsanın ara&#231; gere&#231; yapımıyla başlamıştır.
+    - **Cevap C-) 1972 yılında Stokholm&#39;de başlamıştır.**
+    - D-) İnsanın ara&ccedil; gere&ccedil; yapımıyla başlamıştır.
     - E-) İnsanın heykel yapımıyla başlamıştır.
     ***
 1. <strong>S&uuml;rd&uuml;r&uuml;lebilir Kalkınma hedefleri ka&ccedil; maddeden oluşmaktadır?</strong>
@@ -1444,17 +1479,17 @@ III.&nbsp;Sağlıklı yaşam<br />
     - E-) Yaratıcılık
     ***
 1. <strong>&ldquo;Var olan bir soruna birden fazla disiplinin bir araya gelerek, kendi disiplin sınırlarını aşmadan form&uuml;ller &uuml;retilmesi&rdquo; şeklinde tanımlanan yaklaşım aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) &Ccedil;okdisiplinlilik**
+    - **Cevap A-) &Ccedil;ok Disiplinlilik**
     - B-) Problem &Ccedil;&ouml;zme
-    - C-) Transdisipliner
-    - D-) Disiplinlerarasılık
+    - C-) Trans Disipliner
+    - D-) Disiplinler Arasılık
     - E-) Yaratıcılık
     ***
-1. <strong>T&#252;rk&#231;e literat&#252;rde hangi kavramlarla birlikte anılıyor olması inovasyonun daha &#231;ok ekonomi alanına ait bir kavram olmasını desteklemektedir?</strong>
-    - **Cevap A-) Y&#246;netim, &#252;r&#252;n-hizmet, k&#226;r-zarar, satış**
-    - B-) Moda, &#252;r&#252;n, icat
+1. <strong>T&uuml;rk&ccedil;e literat&uuml;rde hangi kavramlarla birlikte anılıyor olması inovasyonun daha &ccedil;ok ekonomi alanına ait bir kavram olmasını desteklemektedir?</strong>
+    - **Cevap A-) Y&ouml;netim, &uuml;r&uuml;n-hizmet, k&acirc;r-zarar, satış**
+    - B-) Moda, &uuml;r&uuml;n, icat
     - C-) Renk, grafik, eskiz
-    - D-) K&#226;r-zarar, grafik, icat
+    - D-) K&acirc;r-zarar, grafik, icat
     - E-) ArGe, Planlama, Renk
     ***
 1. <strong>Aşağıdakilerden hangisi tasarımcının tasarımında başarılı olmasında gerekli olan unsurlardan biri <u>değildir</u>?</strong>
@@ -1542,6 +1577,13 @@ III.&nbsp;Sağlıklı yaşam<br />
     - D-) Bir &uuml;r&uuml;n etkileşimiyle ilgili t&uuml;m hedefleri, ihtiya&ccedil;ları, davranışları ve sorunlu noktaları belirlemek i&ccedil;in kullanıcı profillerini araştırmak&nbsp;
     - E-) Bir m&uuml;şterinin bir &uuml;r&uuml;nle nasıl etkileşime girdiğini analiz etmek i&ccedil;in kullanıcı yolculuk haritaları oluşturmak
     ***
+1. <strong>&ldquo;IxD&rdquo; ifadesi mecrada aşağıdakilerden hangisinin kısaltmasıdır?</strong>
+    - **Cevap A-) Etkileşim Tasarımı**
+    - B-) Deneyim Tasarımı
+    - C-) Aray&uuml;z Tasarımı
+    - D-) G&ouml;rsel İletişim Tasarımı
+    - E-) End&uuml;striyel Tasarım
+    ***
 1. <strong>Aşağıdakilerden hangisi &ldquo;Kullanıcı Aray&uuml;z&uuml;&rdquo; ifadesinin D&uuml;nya genelinde kullanılan kısaltmasıdır?</strong>
     - A-) UX
     - **Cevap B-) UI**
@@ -1556,9 +1598,10 @@ III.&nbsp;Sağlıklı yaşam<br />
     - **Cevap D-) Donanım**
     - E-) Zaman
     ***
-1. <strong>Aşağıdakilerden hangisi &ldquo;İyi Tasarlanmış Bir Aray&uuml;z&uuml;n Kullanılabilirlik Kriterleri&rdquo; arasında bulunan &ldquo;Sistem G&ouml;r&uuml;n&uuml;rl&uuml;ğ&uuml;&rdquo; ifadesine g&uuml;zel bir &ouml;rnek sayılır?</strong>
-    - **Cevap A-) Netflix dizinin bir b&ouml;l&uuml;m&uuml;n&uuml; izlemeyi bitirdiğinizde, sistem size bir sonraki b&ouml;l&uuml;m&uuml;n y&uuml;klenmesinin ne kadar s&uuml;receğini s&ouml;yleyen k&uuml;&ccedil;&uuml;k bir ekran sunar. Dilerseniz atlayabilir dilerseniz geri sayımı bekleyebilirsiniz.**
-    - B-) Kindle uygulamasında okuduğunuzda sayfalar, fiziksel bir kitap okuma deneyimini taklit eden bir aray&uuml;ze sahiptir.
+1. <strong>Aşağıdakilerden hangisi &ldquo;İyi Tasarlanmış Bir Aray&uuml;z&uuml;n Kullanılabilirlik Kriterleri&rdquo; arasında bulunan &ldquo;Sistem Durumunun G&ouml;r&uuml;n&uuml;rl&uuml;ğ&uuml;&rdquo; ifadesine g&uuml;zel bir &ouml;rnek sayılır?</strong><br type="_moz" />
+
+    - **Cevap A-) Netflix dizinin bir b&ouml;l&uuml;m&uuml;n&uuml; izlemeyi bitirdiğinizde, sistem size bir sonraki b&ouml;l&uuml;m&uuml;n y&uuml;klenmesinin ne kadar s&uuml;receğini s&ouml;yleyen k&uuml;&ccedil;&uuml;k bir ekran sunar. Dilerseniz atlayabilir dilerseniz geri sayımı bekleyebilirsiniz.<br type="_moz" />**
+    - B-) Kindle uygulamasında okuduğunuzda sayfalar, fiziksel bir kitap okuma deneyimini taklit eden bir aray&uuml;ze sahiptir.<br type="_moz" />
     - C-) Kullanıcının yanlışlıkla dosyaları silmesi h&acirc;linde h&uuml;srana uğramalarını &ouml;nlemek i&ccedil;in, tasarımcı bu durumu &ouml;n g&ouml;rmeli ve eylemle devam etmeden &ouml;nce kullanıcının tekrar onayını alacağı b&ouml;l&uuml;mleri eklemelidir.
     - D-) Aray&uuml;zdeki men&uuml; &ouml;gelerinin gerektiğinde kolayca erişilebilir olması gerekir.
     - E-) TV kanallarının logolarındaki renk se&ccedil;imi bu duruma &ouml;rnek sayılabilir.

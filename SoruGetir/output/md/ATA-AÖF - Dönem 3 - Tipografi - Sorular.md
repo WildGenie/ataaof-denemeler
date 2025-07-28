@@ -314,6 +314,13 @@ III.&nbsp;Lombardik ve Vizigot stili<br />
     - D-) İki farklı kalınlığa sahiptir.
     - E-) Sonraki 2000 yıl boyunca Roma yazısının kusursuz kaynağı olarak kabul g&ouml;r&uuml;r.
     ***
+1. <strong>7. y&uuml;zyılın sonlarına doğru Frenklerin ulusal yazı stili olan Merovenj yazı stili hakkındaki ifadelerden hangisi doğrudur?</strong>
+    - A-) Bu alfabe g&uuml;n&uuml;m&uuml;z&uuml;n Latin alfabesinin gelişiminden bağımsız olarak değerlendirilir.
+    - B-) Roma&rsquo;nın &ccedil;&ouml;k&uuml;ş&uuml;n&uuml;n ardından Batı Avrupa&rsquo;nın t&uuml;m&uuml;nde kullanılması hedeflenen ilk ortak yazı stilidir.
+    - C-) Sağa doğru eğimi olan harflerden oluşur.
+    - D-) Dokuma kumaş veya doku anlamına gelen Latince &ldquo;textum&rdquo; s&ouml;zc&uuml;ğ&uuml;nden kaynağını alan &ldquo;textur&rdquo; veya &ldquo;textura&rdquo; s&ouml;zc&uuml;ğ&uuml; bu stilin bi&ccedil;imsel &ouml;zelliklerini yansıtır.
+    - **Cevap E-) &Uuml;st uzantıların (descender) ekstra uzun oluşu satır aralarının a&ccedil;ık olmasına ve bu sayede stilin g&ouml;sterişli bir etki yaratmasına neden olur.**
+    ***
 1. <strong>Roma kapital harflerin kesik u&ccedil;lu kamış veya kaz t&uuml;y&uuml; kalemin kullanımı ile ortaya &ccedil;ıkan &ccedil;eşitlemelerine ne ad verilir?</strong>
     - A-) H&uuml;manist yazı
     - **Cevap B-) Kare kapital harfler (square capitals)**
@@ -618,12 +625,12 @@ III.&nbsp;Lombardik ve Vizigot stili<br />
     - D-) Ahşabın doğal ve geri d&ouml;n&uuml;şt&uuml;r&uuml;lebilir bir malzeme oluşu
     - E-) Metal kullanımının insan sağlığına zararlı etkisi
     ***
-1. <strong>Aşağıdakilerden hangisi Clarendonların &ouml;zelliklerinden <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi Clarendonların &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Fat Face yazı karakterlerinin metin i&ccedil;in uyarlanmış versiyonlarıdır.
     - B-) K&uuml;&ccedil;&uuml;k boyutlarda x-y&uuml;kseklikleri artırılmıştır.
-    - C-) Alt ve &uuml;st uzantıların kısadır.
+    - C-) Alt ve &uuml;st uzantıları kısadır.
     - D-) Seriflerin harf g&ouml;vdesine bağlantıları k&uuml;&ccedil;&uuml;k destekler (bracket) ile g&uuml;&ccedil;lendirilir.
-    - **Cevap E-) Geometrik Sans yazı karakterlerine &ouml;rnektirler.**
+    - **Cevap E-) Geometrik Sans yazı karakterlerine &ouml;rnektir.**
     ***
 1. <strong>Monotype makinesinin linotype makinesinden temel farkı nedir?</strong>
     - A-) Buhar g&uuml;c&uuml; ile &ccedil;alışır.
@@ -984,6 +991,16 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - D-) Sayılar
     - E-) Noktalama işaretleri
     ***
+1. I. Work Sans<br />
+II. Canola<br />
+III. Breite<br />
+<strong>Yukarıdaki ifadelerden hangisi ya da hangileri metapolator ile geliştirilen ilk yazı ailelerindendir?</strong>
+    - A-) Yalnız I
+    - B-) I ve II
+    - C-) I ve III
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
+    ***
 1. <strong>Aşağıdakilerden hangisi Barry Deck tarafından, deneysel bir y&ouml;ntemle geliştirilen, bozuk tipografik malzemelerin, kusurlu bi&ccedil;imlerin bir araya geldiği dijital yazı karakteridir?</strong>
     - A-) VAG Rounded
     - **Cevap B-) Template Gothic**
@@ -1168,6 +1185,13 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - D-) Tekstura
     - E-) Lombardic
     ***
+1. <strong>İlk &ouml;rnekleri 15. y&uuml;zyılın sonlarında, Venedik&rsquo;teki matbaalarda &uuml;retilen, 9. y&uuml;zyıl Karolenj min&uuml;sk&uuml;llerinden kaynağını alan ve bug&uuml;ne kadar kullanılagelen yazı karakteri sınıflarının ilk &ouml;rneği olarak kabul edilen yazı karakteri sınıfı aşağıdakilerden hangisidir?</strong>
+    - A-) Garalde (Old Face)
+    - B-) Glifik
+    - C-) Gotik (Fraktur)
+    - **Cevap D-) H&uuml;manist (Venetian)**
+    - E-) H&uuml;manist Sans
+    ***
 1. <strong>Aşağıdaki &ouml;zelliklerden hangisi el yazısından ilk olarak uzaklaşan yazı karakteri sınıfına verilen isimdir?</strong>
     - A-) Glifik
     - B-) H&uuml;manist (Venetian)
@@ -1302,6 +1326,13 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - D-) Hesaplamalarda tercih edilmezler.
     - E-) Metin i&ccedil;inde maj&uuml;sk&uuml;l harfler gibi hareket ederler.
     ***
+1. <strong>Aşağıdakilerden hangisi k&uuml;&ccedil;&uuml;k b&uuml;y&uuml;k harflerin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - A-) Maj&uuml;sk&uuml;l harf bi&ccedil;imindedirler.
+    - B-) Y&uuml;kseklikleri yaklaşık x-y&uuml;ksekliği kadardır.
+    - C-) Metin i&ccedil;inde maj&uuml;sk&uuml;l harflerin yerine kullanılanılır.
+    - D-) Metnin dokusu bozmaksızın vurgulanmak istenen s&ouml;zc&uuml;k veya s&ouml;zc&uuml;kleri &ouml;ne &ccedil;ıkarır.
+    - **Cevap E-) Mali kayıtlarda ve matematiksel hesaplamalarda kullanılır.**
+    ***
 1. <strong>Bir fontun &ldquo;Turk&rdquo; veya &ldquo;Tu&rdquo; kısaltması taşıması ne anlama gelir?</strong>
     - A-) Batı Avrupa dillerindeki b&uuml;t&uuml;n karakterleri i&ccedil;erdiğini g&ouml;sterir.
     - B-) Fontun geniş bir yazı ailesine sahip olduğunu g&ouml;sterir.
@@ -1430,6 +1461,13 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - D-) Noktalar harfin &uuml;st orta noktasında birbirlerine değecek şekilde konumlandırılmalıdır.
     - **Cevap E-) Noktalar harfin &uuml;st orta noktasında birbirlerine yaklaşacak şekilde konumlandırılmalıdır.**
     ***
+1. <strong>Aşağıdakilerden hangisi perspektif yanılsamasına sebebiyet verir?</strong>
+    - A-) Belirli bağlamlarda iki boyutlu geometrik bi&ccedil;imleri &ccedil;evremizdeki &uuml;&ccedil; boyutlu nesneler gibi algılama eğilimi
+    - **Cevap B-) Bir nesnenin ne kadar uzakta olduğu konusundaki yanılgı**
+    - C-) Eğimli ve yatay &ccedil;izgilerin buluştuğu noktalarda oluşan keskin a&ccedil;ıların olduklarından b&uuml;y&uuml;k algılanması
+    - D-) A&ccedil;ık renk bir zemin &uuml;zerindeki geometrik bi&ccedil;im ile aynı boyutta olan koyu renk zemindeki geometrik bi&ccedil;im farklı boyutlarda algılanması
+    - E-) Birbirine paralel &ccedil;izgilerin, onları &ccedil;evreleyen a&ccedil;ısal &ccedil;izgilerin etkisi nedeniyle eğilmiş gibi g&ouml;r&uuml;nmesi
+    ***
 ## Unite 12
 1. <strong>Aşağıdakilerden hangisi harf anatomisine ilişkin terimlerden biri <u>değildir</u>?</strong>
     - **Cevap A-) Pica**
@@ -1529,6 +1567,13 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - D-) İtalik
     - **Cevap E-) 12 punto**
     ***
+1. <strong>S&uuml;tun genişliğini &ouml;l&ccedil;mekte yaygın olarak kullanılan &ouml;l&ccedil;&uuml; birimi aşağıdakilerden hangisidir?</strong>
+    - A-) Milimetre
+    - **Cevap B-) Pika**
+    - C-) İn&ccedil;
+    - D-) Santimetre
+    - E-) Feet
+    ***
 1. <strong>Aşağıdaki terimlerden hangisi harflerin genişliğine ilişkin bilgi <u>vermez</u>?</strong>
     - A-) Condenced
     - B-) Extended
@@ -1551,7 +1596,7 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - D-) Taşıyıcı y&uuml;zey
     - E-) Aydınlatma koşulları
     ***
-1. <strong>Aynı genişliğe sahip karakterlerin eşit harf arası espas değerine sahip olduğu ve harf kombinasyonlarına g&ouml;re &ccedil;eşitlilik g&ouml;stermediği yazı karakterlerine verilen isim aşağıdakilerden hangisidir?</strong>
+1. <strong>Aynı genişliğe sahip karakterlerin eşit harf arası espas değerine sahip olduğu ve harf kombinasyonlarına g&ouml;re &ccedil;eşitlilik g&ouml;stermediği yazı karakterlerine ne ad verilir?</strong>
     - A-) Serifli yazı karakterleri
     - **Cevap B-) Eş-aralıklı yazı karakterleri**
     - C-) Orantılı-aralıklı yazı karakterleri
@@ -1719,6 +1764,13 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - C-) Fibonacci Serisi
     - **Cevap D-) Grid Sistemi**
     - E-) DIN
+    ***
+1. <strong>Aşağıdakilerden hangisinde 19. y&uuml;zyılın başında daktiloların piyasaya s&uuml;r&uuml;lmesinin ardından paragrafları birbirinden ayırmakta yaygınlaşan y&ouml;ntem yer almaktadır?</strong>
+    - A-) Satır başı girintisi kullanımı
+    - **Cevap B-) &Ccedil;ift satır boşluğu kullanımı**
+    - C-) Satır sonu boşluğu ile paragraf ayrımı
+    - D-) Asılı girinti ile paragraf ayrımı
+    - E-) &ldquo;Pilcrow&rdquo; veya &ouml;zel işaretlerin kullanımı
     ***
 1. <strong>Aşağıdakilerden hangisinde web alanında sık&ccedil;a tercih edilen ve okurun paragrafları kolaylıkla ayırt edebildiği paragraf yapısı yer almaktadır?</strong>
     - **Cevap A-) Satır arası boşluk kullanımı**

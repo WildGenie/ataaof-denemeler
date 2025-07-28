@@ -217,7 +217,7 @@ III. Sosyal medya<br />
     - D-) Sarı
     - E-) Kahverengi
     ***
-1. <strong>Aşağıdakilerden hangisi soğuk renkler arasından</strong><strong>&nbsp;<u>yer almaz</u></strong><strong>?</strong>
+1. <strong>Aşağıdakilerden hangisi soğuk renkler arasında</strong><strong>&nbsp;<u>yer almaz</u></strong><strong>?</strong>
     - A-) Mor
     - B-) A&ccedil;ık Mor
     - C-) Mavi
@@ -716,7 +716,7 @@ III. İnsanın g&ouml;rme bi&ccedil;imini sim&uuml;le eder.<br />
     - D-) IR (ınfrared)
     - E-) Kademeli ND
     ***
-1. <strong>Flaş ışığı yaklaşık ka&ccedil; kelvin (Ko) derecelik renk sıcaklığı verir?</strong>
+1. <strong>Flaş ışığı yaklaşık ka&ccedil; kelvin (K<sup>o</sup>) derecelik renk sıcaklığı verir?</strong>
     - A-) 4000
     - B-) 3200
     - C-) 6500
@@ -1362,6 +1362,13 @@ III. Konuya uzaklık<br />
     - **Cevap D-) Diğer sistemlere g&ouml;re arşivin &ccedil;ok daha kısa s&uuml;rede oluşturulması<br />**
     - E-) İşlevsel bir arşiv sisteminin oluşturulması
     ***
+1. <strong>Fotoğraf makinelerinin kaydettikleri g&ouml;r&uuml;nt&uuml;n&uuml;n &ldquo;megabyte&rdquo; cinsinden b&uuml;y&uuml;kl&uuml;ğ&uuml; arttık&ccedil;a aşağıdaki se&ccedil;eneklerde belirtilen cihaz ve ekipmanlardan hangisine duyulan ihtiya&ccedil; artar?</strong>
+    - A-) Kart okuyucuya
+    - B-) Monit&ouml;rlere
+    - **Cevap C-) Harddisklere**
+    - D-) USB kablolarına
+    - E-) Bataryalara
+    ***
 1. <strong>Y&uuml;kl&uuml;/b&uuml;y&uuml;k arşivleri y&ouml;netebilmek, sistemde hızlı aramalar yapabilmek ve fotoğrafların verimli bir şekilde işlenmesini sağlayabilmek i&ccedil;in aşağıdaki ekipmanlardan hangisine ihtiya&ccedil; duyulur?</strong>
     - A-) G&uuml;&ccedil;l&uuml; ve hızlı bir fotoğraf makinesine
     - B-) B&uuml;y&uuml;k ve sabit ışıklı bir &ccedil;alışma ortamına
@@ -1483,7 +1490,7 @@ III. Konuya uzaklık<br />
     - D-) &Ccedil;ekim aşamasında poz dengesini sağlamak
     - E-) Ekranın ısınmasını &ouml;nlemek
     ***
-1. <strong>Kullanıcılara Photoshop&rsquo;taki gibi, katman tabanlı bir &ccedil;alışma sistemi sunan program aşağıdakilerden hangisidir?</strong>
+1. <strong>Kullanıcılara Photoshop&rsquo;taki gibi katman tabanlı bir &ccedil;alışma sistemi sunan program aşağıdakilerden hangisidir?</strong>
     - A-) Photomatix
     - B-) InDesign
     - C-) AutoPano Giga
@@ -1994,6 +2001,13 @@ IV. Yeşil<br />
     - D-) 100 DPI
     - E-) 200 DPI
     ***
+1. <strong>Aşağıdakilerden hangisi m&uuml;rekkep p&uuml;sk&uuml;rtmeli bir yazıcının baskıda kullandığı m&uuml;rekkep renklerinden biri&nbsp;<u>değildir</u>?</strong> 
+    - A-) Cyan
+    - B-) Megenta
+    - **Cevap C-) Yeşil**
+    - D-) Sarı
+    - E-) Siyah
+    ***
 1. <strong>Aşağıdaki yazıcı t&uuml;rlerinden hangisinde m&uuml;rekkep yerine toner kullanılır?</strong>
     - **Cevap A-) Lazer yazıcı**
     - B-) Termal yazıcı
@@ -2021,6 +2035,13 @@ IV. Yeşil<br />
     - C-) Ev kullanımı i&ccedil;in uygunluğu
     - D-) Daha az yer kaplaması
     - E-) Yeterli kalitede baskı alınabilmesi
+    ***
+1. <strong>M&uuml;rekkep p&uuml;sk&uuml;rtmeli bir yazıcıda, yeterli kalitede bir baskı alınabilmesi i&ccedil;in yazıcının en az ka&ccedil; m&uuml;rekkepli olması &ouml;nerilir?</strong>
+    - A-) 2
+    - B-) 3
+    - C-) 5
+    - D-) 4
+    - **Cevap E-) 6**
     ***
 1. <strong>M&uuml;rekkep p&uuml;sk&uuml;rtmeli bir yazıcıdan yeterli kalitede bir baskı almak i&ccedil;in aşağıdaki &ouml;zelliklerden hangisine <u>gerek duyulmaz</u>?</strong>
     - A-) Yazıcı &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml;

@@ -21,10 +21,10 @@
     - D-) Kanal
     - E-) Alıcı
     ***
-1. I.&nbsp; &nbsp;&Ouml;nyargılar<br />
-II.&nbsp;&nbsp;Sosyok&uuml;lt&uuml;rel farklar<br />
+1. I. &Ouml;n yargılar<br />
+II. Sosyok&uuml;lt&uuml;rel farklar<br />
 III. Algılama farklılıkları<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri iletişim s&uuml;recinde karşılaşılan psikolojik ve sosyal engellerdendir?</strong>
+<strong>Yukarıdakilerden hangisi ya da hangileri iletişim s&uuml;recinde karşılaşılan psikolojik ve sosyal engeller arasında yer alır?</strong>
     - A-) Yalnız I
     - B-) I ve II
     - C-) I ve III
@@ -66,7 +66,7 @@ III. Algılama farklılıkları<br />
     - **Cevap D-) Geri bildirim**
     - E-) G&uuml;r&uuml;lt&uuml;
     ***
-1. <strong>İletişim s&uuml;recinin doğru ve etkin işlemesini gerektiren yapısını sekteye uğratan iletişim s&uuml;recinin temel &ouml;ğesi aşağıdakilerden hangisidir?</strong> 
+1. <strong>İletişim s&uuml;recinin doğru ve etkin işlemesini gerektiren yapısını sekteye uğratan iletişim s&uuml;recinin temel &ouml;gesi aşağıdakilerden hangisidir?</strong> 
     - A-) Geri bildirim
     - B-) Mesaj
     - **Cevap C-) G&uuml;r&uuml;lt&uuml;**
@@ -159,6 +159,13 @@ III. Algılama farklılıkları<br />
     - D-) Sosyoloji
     - E-) Bibliyoloji
     ***
+1. <strong>G&ouml;rsel iletişimin diğer iletişim t&uuml;rlerinden temel farkı nedir?</strong>
+    - A-) G&ouml;rsel iletişimde, iletişim i&ccedil;in en az iki kişinin olması zorunludur.
+    - B-) G&ouml;rsel iletişim, yalnızca yazılı metinler aracılığıyla ger&ccedil;ekleşir.
+    - **Cevap C-) G&ouml;rsel iletişim, bireyin zihnindeki d&uuml;ş&uuml;nceleri imgelerle aktarabilmesini sağlar.**
+    - D-) G&ouml;rsel iletişim, yalnızca s&ouml;zl&uuml; iletişimle desteklenerek anlam kazanır.
+    - E-) G&ouml;rsel iletişim, ses ve kelime kullanımına tamamen bağlıdır.
+    ***
 ## Unite 2
 1. <strong>Aşağıdakilerden hangisi s&ouml;zs&uuml;z iletişimle ilgili bir unsur <u>değildir</u>?</strong>
     - A-) Duruş
@@ -216,7 +223,7 @@ III. Algılama farklılıkları<br />
     - **Cevap B-) Karınca**
     - C-) Aslan
     - D-) Tavşan
-    - E-) Ren Geyiği
+    - E-) Ren geyiği
     ***
 1. <strong>Aşağıdakilerden hangisi savaş d&ouml;nemlerinde &uuml;retilen g&ouml;rsel afişlerin ama&ccedil;larından biridir?</strong> 
     - A-) Eğlendirmek
@@ -458,7 +465,7 @@ III. G&ouml;rsel iletişimde yararlanılan farklı disiplinler aktarılmak isten
     - D-) Mesaj
     - E-) G&ouml;nderen
     ***
-1. <strong>G&ouml;rsel iletişim mecraları ve imajlarıyla ilgili olarak aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong> 
+1. <strong>G&ouml;rsel iletişim mecra ve imajlarıyla ilgili olarak aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong> 
     - A-) Basılı ve dijital g&ouml;rsel iletişim mecraları vardır.
     - **Cevap B-) Etkili bir g&ouml;rsel iletişim sadece mesajın doğru g&ouml;rselleştirilmesine bağlıdır.**
     - C-) İmajların g&uuml;nl&uuml;k iletişimde &ouml;nemli bir rol&uuml; vardır.
@@ -585,6 +592,16 @@ III. G&ouml;rsel iletişimde yararlanılan farklı disiplinler aktarılmak isten
     - **Cevap D-) G&ouml;nderici-Mesaj-İletişim Aracı-Bağlam-Alıcı-D&ouml;n&uuml;t**
     - E-) G&ouml;nderici-Mesaj-Bağlam-İletişim Aracı-D&ouml;n&uuml;t-Alıcı
     ***
+1. I. G&ouml;rsel, bireyin anlamlandırma s&uuml;recine nasıl katkıda bulunur?<br />
+II. G&ouml;rselin kodları incelendiğinde ger&ccedil;ek&ccedil;i, sembolik ve ideolojik kodlar nelerdir?<br />
+III. G&ouml;rsel, izleyiciyi bir nesne olarak nasıl konumlandırır?<br />
+<strong>G&ouml;rsel iletişimde her bireyin, karşılaştığı g&ouml;rsellerdeki kodları kendi k&uuml;lt&uuml;rel ge&ccedil;mişinin yansılarıyla analizi aşamasında bir y&ouml;ntem belirlemek i&ccedil;in yukarıdaki sorulardan hangisi ya da hangilerinden yararlanılabilir?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) Yalnız III
+    - **Cevap D-) I ve II**
+    - E-) I, II ve III
+    ***
 1. <strong>G&ouml;rsel k&uuml;lt&uuml;r ile ilgili olarak aşağıdakilerden hangisi&nbsp;<u>yanlıştır</u>?</strong>
     - A-) G&ouml;rsel k&uuml;lt&uuml;rde farklı g&ouml;rme bi&ccedil;imleri-y&ouml;nleri vardır.
     - B-) G&ouml;rsel k&uuml;lt&uuml;rde her g&ouml;rselin bir temsili vardır.
@@ -701,6 +718,13 @@ III. Anlık yaşama<br />
     - C-) G&ouml;rsel metin
     - D-) G&ouml;rsellerin grameri
     - **Cevap E-) G&ouml;rsel ger&ccedil;eklik**
+    ***
+1. <strong>G&ouml;rsel k&uuml;lt&uuml;r kavramı aşağıdakilerden hangisini ifade eder?</strong>
+    - A-) G&ouml;rsel sanatlar ile estetik değerlerin birleşimi
+    - **Cevap B-) G&ouml;rsellerin k&uuml;lt&uuml;rel ve teknolojik bağlamda değerlendirilmesi**
+    - C-) Yalnızca sanatsal g&ouml;r&uuml;nt&uuml;lerin analiz edilmesi
+    - D-) Toplumların sadece yazılı k&uuml;lt&uuml;rle şekillenmesi
+    - E-) G&ouml;rsel &ouml;gelerin estetik dışında hi&ccedil;bir anlam taşımaması
     ***
 ## Unite 6
 1. <strong>Min&uuml;sk&uuml;l&uuml;n anlamı aşağıdakilerden hangisinde verilmiştir?</strong>
@@ -1149,14 +1173,14 @@ IV. Yaygın kullanıma sahip olması<br />
     - D-) &Ccedil;in
     - E-) Roma
     ***
-1. <strong>15.yy ortalarında reklamcılıkta yepyeni s&uuml;reci başlatan gelişme aşağıdakilerden hangisidir?</strong> 
+1. <strong>15. y&uuml;zyıl ortalarında reklamcılıkta yepyeni s&uuml;reci başlatan gelişme aşağıdakilerden hangisidir?</strong> 
     - A-) Coğrafi keşifler
     - **Cevap B-) Matbaanın bulunuşu**
     - C-) Radyonun bulunuşu
     - D-) Televizyonun icadı
     - E-) Fransız İhtilali
     ***
-1. <strong>Aşağıdakilerden hangisi reklam metinlerinin oluşturulmasındaki temel ilkelerden <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi reklam metinlerinin oluşturulmasındaki temel ilkelerden biri&nbsp;<u>değildir</u>?</strong> 
     - A-) Anlaşılır olması
     - B-) S&ouml;zc&uuml;k se&ccedil;imi
     - C-) Akıcılık
@@ -1258,6 +1282,13 @@ IV. Yaygın kullanıma sahip olması<br />
     - D-) Kent ill&uuml;strasyonları
     - **Cevap E-) Bilimsel ill&uuml;strasyonlar**
     ***
+1. <strong>Aşağıdakilerden hangisi kurumsal kimlik tasarımında dikkat edilecek noktalardan biri <u>değildir</u>?</strong> 
+    - A-) Hedef kitleye uygun olmalıdır.
+    - **Cevap B-) Kurumsal kimliği oluşturan &ouml;geler farklı tasarım diline sahip olmalıdır.**
+    - C-) &Ouml;zg&uuml;n olmalıdır.
+    - D-) Kurumu hatırlatmalıdır.&nbsp;
+    - E-) Yalın olmalıdır.
+    ***
 1. <strong>Aşağıdakilerden hangisi reklamların işlevlerinden biri <u>değildir</u>?</strong> 
     - A-) Dikkat &ccedil;ekme
     - B-) Satışları arttırma
@@ -1279,7 +1310,7 @@ IV. Yaygın kullanıma sahip olması<br />
     - D-) Storyboard hazırlanırken senaryoya sadık kalınmalıdır.
     - **Cevap E-) Reklam filmleri, 6-56 kare arasında tasarlanan karelerden meydana gelir.**
     ***
-1. <strong>Harfleri oluşturan ana hatların alt ve &uuml;st bitim yerlerindeki tırnak bi&ccedil;imindeki k&uuml;&ccedil;&uuml;k uzantılara ne denir?</strong>
+1. <strong>Harfleri oluşturan ana hatların alt ve &uuml;st bitim yerlerindeki tırnak bi&ccedil;imindeki k&uuml;&ccedil;&uuml;k uzantılara ne ad verilir?</strong>
     - A-) Font
     - B-) Sembol
     - C-) Espas
@@ -1391,6 +1422,13 @@ IV. Yaygın kullanıma sahip olması<br />
     - C-) G&ouml;z hizası
     - D-) Geniş a&ccedil;ı
     - **Cevap E-) &Uuml;st a&ccedil;ı**
+    ***
+1. <strong>Aşağıdaki &ccedil;ekim &ouml;l&ccedil;eklerinden hangisi izleyici ve oyuncu arasında birbirleriyle konuşuyormuş hissi oluşturur?</strong> 
+    - A-) Diz plan
+    - **Cevap B-) Omuz plan**
+    - C-) Bel plan
+    - D-) Genel plan
+    - E-) Detay plan
     ***
 1. <strong>Aşağıdakilerden hangisi sinemanın ilk &ouml;zel efekt y&ouml;netmeni olarak nitelendirilir?</strong> 
     - A-) Pudovkin
@@ -1537,6 +1575,13 @@ III. Şaryo&nbsp;<br />
     - D-) Corel Draw
     - **Cevap E-) Note Pad**
     ***
+1. <strong>Bireylerin iş sahibi olmalarına y&ouml;nelik ama&ccedil;larla kullanılmakta olan, iş arayanlarla işverenleri buluşturan ağ aşağıdakilerden hangisidir?</strong> 
+    - A-) Indesign
+    - B-) Myspace
+    - C-) Google+
+    - **Cevap D-) Linkedin**
+    - E-) Twitter
+    ***
 1. <strong>Kodlanan ve g&ouml;nderilen bir mesajın yerine ulaşıp ulaşmadığını ve alıcı tarafından anlaşılıp anlaşılmadığını test etmeye yarayan kavram hangisidir?</strong> 
     - **Cevap A-) Geri bildirim**
     - B-) Geri d&ouml;n&uuml;ş&uuml;m
@@ -1653,6 +1698,13 @@ III. Haber kaynakları, izleyiciler, reklamcılar a&ccedil;ısından yaşanan de
     - D-) Komutlar
     - E-) Ara&ccedil; &ccedil;ubukları
     ***
+1. <strong>Ekran renklerinden oluşan RGB renk sistemi hangi renklerden oluşur?</strong> 
+    - A-) Yeşil, turuncu, mor
+    - **Cevap B-) Kırmızı, yeşil, mavi**
+    - C-) Mavi, sarı, yeşil
+    - D-) Kırmızı, sarı, siyah
+    - E-) Beyaz, yeşil, mavi
+    ***
 1. <strong>Aşağıdakilerden hangisi interaktif tasarım uygulaması hazırlama aşamalarından biri <u>değildir</u>?</strong><br type="_moz" />
 
     - A-) Analiz<br type="_moz" />
@@ -1717,7 +1769,7 @@ III. Haber kaynakları, izleyiciler, reklamcılar a&ccedil;ısından yaşanan de
     - D-) Punto
     - E-) Vurgulama
     ***
-1. <strong>Kompozisyondaki tasarım &ouml;gelerinin tasarım i&ccedil;erisinde dağınık bir izlenim bırakmadan bir araya gelmesine verilen isim aşağıdakilerden hangisidir?</strong> 
+1. <strong>Kompozisyondaki tasarım &ouml;gelerinin tasarım i&ccedil;erisinde dağınık bir izlenim bırakmadan bir araya gelmesine ne ad verilir?</strong> 
     - A-) Boşluk
     - B-) Hiyerarşi
     - C-) Orantı
@@ -1804,7 +1856,7 @@ III. Haber kaynakları, izleyiciler, reklamcılar a&ccedil;ısından yaşanan de
     - E-) Toplumsal bilgi ve k&uuml;lt&uuml;r&uuml;n zenginleşmesi
     ***
 1. <strong>Aşağıdakilerden hangisi fikir ve sanat eserlerinden biri <u>değildir</u>?</strong> 
-    - A-) Musiki eserler
+    - A-) Musiki eserleri
     - B-) G&uuml;zel sanatlar eserleri
     - C-) Sinema eserleri
     - **Cevap D-) Atas&ouml;zleri ve deyimler**

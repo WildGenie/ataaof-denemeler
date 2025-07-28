@@ -56,9 +56,9 @@
     - D-) Ambalaj, dergi, kitap
     - E-) Moda, tıp, kitap
     ***
-1. <strong>Aşağıdaki ifadelerden hangisi illustrasyon teriminin tanımlarından biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdaki ifadelerden hangisi ill&uuml;strasyon teriminin tanımlarından biri <u>değildir</u>?</strong>
     - A-) İll&uuml;strasyon bir metni, bir olguyu, bir durumu g&ouml;rsel yolla a&ccedil;ıklamaya y&ouml;nelik resimlemelerdir.
-    - B-) Kitap i&ccedil;indeki yazıyı a&ccedil;ıklayan ve s&uuml;sleyen bir &ouml;gedir.
+    - B-) İll&uuml;strasyon kitap i&ccedil;indeki yazıyı a&ccedil;ıklayan ve s&uuml;sleyen bir &ouml;gedir.
     - C-) İll&uuml;strasyon artık canlı ve s&uuml;rekli gelişmekte olan g&uuml;&ccedil;l&uuml; bir uygulamalı sanat bi&ccedil;imidir.
     - D-) İll&uuml;strasyon, izah edici resim anlamına gelmektedir.
     - **Cevap E-) İllustrasyon geleneksel sanatlardan biri olarak ifade edilmektedir.**
@@ -212,7 +212,7 @@
     - D-) T&uuml;rkler
     - E-) Mısırlılar
     ***
-1. <strong>İlk alfabenin okuma y&ouml;n&uuml; nedir?</strong> 
+1. <strong>İlk alfabenin okuma y&ouml;n&uuml; aşağıdakilerden hangisidir?</strong> 
     - **Cevap A-) Sağdan sola**
     - B-) Soldan Sağa
     - C-) Yukarıdan aşağıya
@@ -254,9 +254,10 @@
     - D-) Perge
     - E-) Side
     ***
-1. <strong>Aşağıdakilerden hangisi parş&ouml;menin papir&uuml;se kıyasla olumlu bir y&ouml;n&uuml;n&uuml; ifade etmektedir?</strong> 
+1. <strong>Aşağıdakilerden hangisi parş&ouml;menin papir&uuml;se kıyasla olumlu bir y&ouml;n&uuml;n&uuml; ifade etmektedir?</strong><br type="_moz" />
+
     - A-) Kırılganlığının fazla olması
-    - B-) Katlanamaması
+    - B-) Yapışkan istememesi
     - C-) Tek taraflı yazılabilmesi
     - D-) Yumuşak fır&ccedil;a kullanılması
     - **Cevap E-) Katlanabilmesi**
@@ -311,7 +312,7 @@
     - D-) Aidiyet duygusu yaratmak
     - **Cevap E-) Mek&acirc;nı tanımak**
     ***
-1. <strong>Aşağıdakilerden hangisi &ccedil;evresel grafik tasarımının işlevlerinden <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi &ccedil;evresel grafik tasarımının işlevlerinden biri&nbsp;<u>değildir</u>?</strong> 
     - A-) Bilgi vermek
     - B-) Y&ouml;n bulmak
     - **Cevap C-) Satış yapmak**
@@ -332,7 +333,7 @@
     - **Cevap D-) Her yeri renklendirme**
     - E-) Bellek oluşturma
     ***
-1. <strong>&Ccedil;evresel grafik tasarımın işlevini hangisi a&ccedil;ıklamaz?</strong> 
+1. <strong>&Ccedil;evresel grafik tasarımının işlevini aşağıdakilerden hangisi <u>a&ccedil;ıklamaz</u>?</strong> 
     - A-) Mek&acirc;na kimlik kazandırmak
     - B-) Ben neredeyim sorusuna cevap bulmak
     - C-) Mek&acirc;nı tanımlamak
@@ -397,6 +398,13 @@ III. Mek&acirc;nla uyum sağlayan grafikler<br />
     - C-) Mek&acirc;nın karakterini ortaya &ccedil;ıkarır.
     - D-) Tarihsel s&uuml;recini ortaya &ccedil;ıkarır.
     - E-) Ge&ccedil;mişini iletişim yoluyla kullanıcıya aktarmayı ama&ccedil;lar.
+    ***
+1. <strong>Aşağıdakilerden hangisi &ccedil;evresel grafik tasarım olarak da adlandırdığımız &ccedil;evre grafiği işlevlerinden biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Kimlik Grafikleri
+    - B-) Y&ouml;n Grafikleri
+    - **Cevap C-) A&ccedil;ı Grafikleri**
+    - D-) A&ccedil;ıklayıcı Grafikler
+    - E-) D&uuml;zenleyici Grafikler
     ***
 ## Unite 5
 1. <strong>Aşağıdakilerden hangisi &Ccedil;ukur Baskı Teknikleri&#39;nden biri&nbsp;<u>değildir</u>?</strong>
@@ -470,7 +478,7 @@ III. Mek&acirc;nla uyum sağlayan grafikler<br />
     - E-) Serigrafi baskı (Elek)<br />
 &nbsp;
     ***
-1. <strong>En eski tarihli g&ouml;r&uuml;nt&uuml; ve yazı i&ccedil;eren MS 868 tarihli, bir parşomen tomarı &uuml;zerine basılan Budizm i&ccedil;in &ouml;nemli kaynaklardan biri olan &quot;Diamond Sutra &Ouml;ğretisi&quot; adlı kitap aşağıdakilerden hangisinde bulunmuştur?</strong>
+1. <strong>Budizm i&ccedil;in &ouml;nemli kaynaklardan biri olan &quot;Diamond Sutra &Ouml;ğretisi&quot; adlı kitap aşağıdakilerden hangisinde bulunmuştur?</strong>
     - **Cevap A-) Doğu T&uuml;rkistan&#39;da bir mağarada**
     - B-) Orta Asya steplerinde
     - C-) Mısır Piramitleri&#39;nde
@@ -601,6 +609,13 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - D-) Kurumun misyonu
     - E-) Kurumun vizyonu
     ***
+1. <strong>Kurumsal Kimlik tasarımında yer almayan unsur aşağıdakilerden hangisidir?</strong>
+    - A-) Renk
+    - B-) Logo
+    - C-) Kurum felsefesi
+    - **Cevap D-) Ar-ge başvuru dosyaları**
+    - E-) Yazı tipi
+    ***
 1. <strong>Stil y&ouml;nergesinde <u>bulunmaması </u>gereken unsur aşağıdakilerden hangisidir?</strong>
     - A-) Logo
     - B-) Renk
@@ -637,7 +652,7 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - **Cevap D-) Analiz ve hiyerarşik yapıyı oluşturma**
     - E-) Format boyutunun kararlaştırılması
     ***
-1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımının işlevlerinden <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımının işlevlerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Bilgi vermek
     - B-) Mesajı iletmek
     - C-) Hedef kitleye ulaşmak
@@ -672,7 +687,7 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - D-) Kullanım kılavuzu tasarımı
     - E-) Haritalar
     ***
-1. <strong>Bilgilendirme tasarımı kapsamında Londra metrosunu 1933 tarihinde haritalayarak alana katkı sağlayan tasarımcı kimdir?</strong>
+1. <strong>Bilgilendirme tasarımı kapsamında Londra metrosunu 1933 tarihinde haritalayarak alana katkı sağlayan tasarımcı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Harry Beck**
     - B-) Paul Rand
     - C-) Edward R. Tufte
@@ -720,6 +735,13 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - C-) T&uuml;rkiye
     - D-) Avusturya
     - E-) Almanya
+    ***
+1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımının ama&ccedil;larından biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Bilgi sağlamak
+    - B-) Mesaj iletmek
+    - C-) Karşılaştırma yapmak
+    - D-) Yer-y&ouml;n bulmayı sağlamak
+    - **Cevap E-) Rahat taşınabilir olmak**
     ***
 1. <strong>Bilgi &ccedil;ağında tasarım ortamlarının da gelişimiyle, bilgi yoğunluğunun artmasıyla bilgi kirliliğinin de yoğun bir bi&ccedil;imde kendini g&ouml;stermesi beraberinde aşağıdakilerden hangisini getirmektedir?</strong>
     - A-) Bilgilendirme tasarımının tanımı değişmiştir.
@@ -843,12 +865,12 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - D-) Paint
     - **Cevap E-) MS Word**
     ***
-1. <strong>Boşluk (Space) karakterinin dizgide kullanımı ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) Boşluk, metinleri soldan hizalamak i&ccedil;in kullanılmalıdır
-    - B-) Boşluk, metinleri sağdan hizalamak i&ccedil;in kullanılmalıdır
-    - C-) Boşluk, metinleri tam hizalamak i&ccedil;in kullanılmalıdır
-    - **Cevap D-) Boşluk, kelimeler arasında sadece bir kez bırakılmalıdır**
-    - E-) Boşluk, noktalama işaretlerinden &ouml;nce bırakılmalıdır
+1. <strong>Boşluk (Space) karakterinin dizgide kullanımı ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Boşluk, metinleri soldan hizalamak i&ccedil;in kullanılmalıdır.
+    - B-) Boşluk, metinleri sağdan hizalamak i&ccedil;in kullanılmalıdır.
+    - C-) Boşluk, metinleri tam hizalamak i&ccedil;in kullanılmalıdır.
+    - D-) Boşluk, kelimeler arasında sadece bir kez bırakılmalıdır.
+    - **Cevap E-) Boşluk, noktalama işaretlerinden &ouml;nce bırakılmalıdır.**
     ***
 1. <strong>Tasarımda kullanılacak metnin d&uuml;zeltmelerinin (tashih) hangi aşamada yapılması daha doğrudur?</strong>
     - **Cevap A-) Tasarımdan &ouml;nce**
@@ -922,6 +944,13 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - D-) Sistem yazılımları
     - E-) Sayfa d&uuml;zenleme yazılımları
     ***
+1. <strong>Baskı aşamasında sıklıkla g&ouml;r&uuml;len&nbsp; kayıpların en aza indirilmesi ve &uuml;r&uuml;n&uuml;n beklendiği gibi basılması i&ccedil;in baskıdan &ouml;nce ve matbaacıya kılavuz olması amacıyla işin kopyasının hazırlanması işine ne ad verilir?</strong>
+    - A-) Son aşama
+    - **Cevap B-) Prova**
+    - C-) Kopya
+    - D-) &Ouml;n aşama
+    - E-) Eskiz
+    ***
 ## Unite 10
 1. <strong>Aşağıdakilerden hangisi &ccedil;alışmanın &ccedil;&ouml;z&uuml;mlenebilmesini ama&ccedil;layan kısa s&uuml;reli &ccedil;izimlerden biridir?</strong>
     - A-) Resmetmek
@@ -958,7 +987,7 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - **Cevap D-) D&uuml;ş&uuml;nme eskizi**
     - E-) Kuralsız eskiz
     ***
-1. <strong>Verilen mesajlar, kullanılan renklerin insan psikolojisi &uuml;zerindeki etkisi, &ccedil;izgilerin şekli vb. İmgelerin taşıdığı anlamlar tasarımın hangi planında etkili olarak kullanılır?</strong>
+1. <strong>Verilen mesajlar, kullanılan renklerin insan psikolojisi &uuml;zerindeki etkisi, &ccedil;izgilerin şekli vb. imgelerin taşıdığı anlamlar tasarımın hangi planında etkili olarak kullanılır?</strong>
     - A-) Işık-g&ouml;lge
     - B-) &Ccedil;izgi
     - C-) &Ouml;n plan
@@ -1031,6 +1060,13 @@ III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir.&nbsp;<br />
     - D-) II ve III
     - **Cevap E-) I, II ve III**
     ***
+1. <strong>G&ouml;rsel tasarımla ilgili olarak aşağıdakilerden hangisi s&ouml;ylenebilir?</strong>
+    - A-) G&ouml;rsel tasarım g&uuml;zel sanatların temelidir.
+    - B-) G&ouml;rsel tasarım yazıdan sonra bulunmuştur.
+    - **Cevap C-) G&ouml;rsel tasarım bir iletişim dilidir.**
+    - D-) G&ouml;rsel tasarım aynı dili konuşan insanların iletişim aracıdır.
+    - E-) G&ouml;rsel tasarım renklerin dile gelmesidir.
+    ***
 ## Unite 11
 1. <strong>Bitmap grafiklerde g&ouml;r&uuml;nt&uuml;y&uuml; oluşturan en k&uuml;&ccedil;&uuml;k g&ouml;r&uuml;nt&uuml; elemanı aşağıdakilerden hangisidir?</strong>
     - A-) Tram
@@ -1061,11 +1097,11 @@ III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir.&nbsp;<br />
     - E-) 13
     ***
 1. <strong>Bitmap grafiğin &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml; arttık&ccedil;a g&ouml;r&uuml;nt&uuml;de oluşacak değişim aşağıdakilerden hangisidir?</strong>
-    - A-) G&ouml;r&uuml;nt&uuml; daha detaylı olur
-    - **Cevap B-) G&ouml;r&uuml;nt&uuml;deki toplam piksel sayısı azalır**
-    - C-) Birim alandaki piksel sayısı artar
-    - D-) G&ouml;r&uuml;nt&uuml;n&uuml;n keskinliği artar
-    - E-) G&ouml;r&uuml;nt&uuml;n&uuml;n daha kaliteli olur
+    - A-) G&ouml;r&uuml;nt&uuml; daha detaylı olur.
+    - B-) G&ouml;r&uuml;nt&uuml;deki toplam piksel sayısı azalır.
+    - **Cevap C-) Birim alandaki piksel sayısı artar.**
+    - D-) G&ouml;r&uuml;nt&uuml;n&uuml;n keskinliği artar.
+    - E-) G&ouml;r&uuml;nt&uuml; daha kaliteli olur.
     ***
 1. <strong>Bir &ldquo;inch&rdquo; ka&ccedil; cm&rsquo;dir?</strong>
     - **Cevap A-) 2.54 cm**
@@ -1205,6 +1241,13 @@ III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir.&nbsp;<br />
     - D-) Yağ ge&ccedil;irmez k&acirc;ğıt
     - E-) Neme dayanıklı k&acirc;ğıtlar
     ***
+1. <strong>Ambalajların temel işlevleri ve iletişim g&ouml;revi dışında farklı kullanımları da mevcuttur. Aşağıdakilerden hangisi bu işlevlerden biri <u>değildir</u>?</strong>
+    - A-) Dikkat &ccedil;ekme
+    - B-) Bilgi verme satış i&ccedil;in ikna etme
+    - **Cevap C-) Mikrobiyolojik koruma**
+    - D-) Kıyafeti muhafaza etme
+    - E-) Yiyeceğin ısıtılması i&ccedil;in tava g&ouml;revi g&ouml;ren bir konserve kutusu
+    ***
 1. <strong>Aşağıdakilerden hangisi ambalajın fiyat ayarlama işlevleri arasında <u>yer almaz</u>?</strong>
     - A-) Aynı ambalajı kullanıp i&ccedil;erik azaltarak
     - B-) Ambalajı b&uuml;y&uuml;t&uuml;p fiyatı artırarak
@@ -1283,7 +1326,7 @@ III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir.&nbsp;<br />
     - D-) LPI
     - E-) PPI
     ***
-1. <strong>Aşağıdakilerden hangisi cm2 başına nokta anlamına gelen &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k birimidir?</strong>
+1. <strong>Aşağıdakilerden hangisi cm<sup>2 </sup>başına nokta anlamına gelen &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k birimidir?</strong>
     - A-) DPI
     - **Cevap B-) DPCM**
     - C-) LPCM
@@ -1303,6 +1346,13 @@ III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir.&nbsp;<br />
     - C-) İtalik &ouml;zelliği kullanılmaması
     - **Cevap D-) A&ccedil;ık standartta i&ccedil;erik kullanılması**
     - E-) Yazı ile arka planın yeterince zıt renklerden se&ccedil;ilmesi
+    ***
+1. <strong>E-kitaplar farklı formatlarda &uuml;retilmektedir. Farklı cihazlar ve uygulamalar &uuml;zerinden okunabilen birbirlerinden farklı &ouml;zelliklere sahip olan bu formatların &ccedil;eşitliliği g&uuml;n&uuml;m&uuml;zde rakamsal olarak ka&ccedil;a ulaşmıştır?</strong>
+    - A-) 10
+    - B-) 17
+    - C-) 23
+    - **Cevap D-) 27**
+    - E-) 33
     ***
 ## Unite 14
 1. <strong>Aşağıdakilerden hangisi tasarımın tanımında kullanılan eş anlamlı ifadelerinden biri <u>değildir</u>?</strong>

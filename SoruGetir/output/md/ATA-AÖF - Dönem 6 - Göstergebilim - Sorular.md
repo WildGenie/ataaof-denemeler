@@ -8,8 +8,7 @@
     - D-) Ruhdilbilim
     - E-) Edimbilim
     ***
-1. <strong>Bir g&ouml;stergenin başka bir anlama ge&ccedil;mek&nbsp;</strong><strong>amacıyla</strong><strong>&nbsp;kullanılmasına ne ad verilir?</strong><br />
-
+1. <strong>Bir g&ouml;stergenin başka bir anlama ge&ccedil;mek amacıyla kullanılmasına ne ad verilir?</strong>
     - A-) D&uuml;zanlam
     - **Cevap B-) Yananlam**
     - C-) Dizge
@@ -34,11 +33,12 @@ III. G&ouml;stergebilim, sembollerin, işaretlerin, logoların yorumlama eylemid
     - D-) Arts&uuml;rem/Artzamanlılık
     - E-) G&ouml;sterge
     ***
-1. <b>G&ouml;stergebilimde kuram oluşturan ilk d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</b>
-    - A-) Thomas Albert Sebeok
+1. <b>G&ouml;stergebilimde kuram oluşturan ilk d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</b><br type="_moz" />
+
+    - A-) Thomas Albert Sebeok<br type="_moz" />
     - B-) Roland Barthes
     - C-) Ferdinand de Saussure
-    - **Cevap D-) Charles Sanders Peirce**
+    - **Cevap D-) Charles Sanders Peirce<br type="_moz" />**
     - E-) Paul de Man
     ***
 1. <strong>İletişim amacıyla kullanılan her t&uuml;rl&uuml; g&ouml;sterge dizgesinin yapısını ve işleyişini inceleyen bilim dalına ne ad verilir?</strong><br />
@@ -150,7 +150,7 @@ III. &Ccedil;eviribilim<br />
     - D-) İkili anlam
     - E-) Metafor
     ***
-1. <strong>G&ouml;sterge Kuramının Temelleri (Foundation of the Theory of Signs) adlı yapıt aşağıdakilerden hangisine aittir?</strong><br />
+1. <strong>G&ouml;sterge Kuramı&#39;nın Temelleri (Foundation of the Theory of Signs) adlı yapıt aşağıdakilerden hangisine aittir?</strong><br />
 
     - A-) Charles Sanders Peirce
     - B-) Thomas Albert Sebeok
@@ -285,7 +285,7 @@ III. Yorum<br />
     - D-) El L&uuml;gat
     - E-) Erya
     ***
-1. <strong>Avrupa yapısalcılığı ve modern dilbilim aşağıdaki d&uuml;ş&uuml;n&uuml;rlerin hangisi ile başlar?</strong><br />
+1. <strong>Avrupa yapısalcılığı ve modern dil bilim aşağıdaki d&uuml;ş&uuml;n&uuml;rlerin hangisi ile başlar?</strong><br />
 
     - **Cevap A-) Saussure**
     - B-) Humbolt
@@ -309,7 +309,7 @@ III. Yorum<br />
     - D-) C&uuml;mle ve c&uuml;mleciklerin ele alındığı seviye
     - E-) Bağlamın incelendiği seviye
     ***
-1. <strong>Dilbilim d&uuml;zeylerinden sentaksın &ccedil;alışma alanı aşağıdakilerden hangisidir?</strong><br />
+1. <strong>Dil bilim d&uuml;zeylerinden sentaksın &ccedil;alışma alanı aşağıdakilerden hangisidir?</strong><br />
 
     - **Cevap A-) C&uuml;mle ve c&uuml;mlecik**
     - B-) Anlam
@@ -341,6 +341,14 @@ III. Yorum<br />
     - D-) İşlevselcilik
     - **Cevap E-) Bilişselcilik**
     ***
+1. Saussure&rsquo;&uuml;n g&ouml;stergesi, &hellip;&hellip;.......... ve &hellip;......&hellip;.. olmak &uuml;zere iki y&ouml;nl&uuml;d&uuml;r.<br />
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) g&ouml;nderge - dizgi
+    - B-) g&ouml;steren - g&ouml;nderge
+    - C-) g&ouml;sterilen - g&ouml;nderge
+    - D-) g&ouml;steren - dizgi
+    - **Cevap E-) g&ouml;steren - g&ouml;sterilen**
+    ***
 1. <strong>Dilde anlam problemini ciddi bir bi&ccedil;imde inceleyen ve Antik Yunan&rsquo;da dil alanındaki ilk eser olan Kratylos&#39;u yazan filozof aşağıdakilerden hangisidir?</strong>
     - A-) Homeros
     - B-) Marcus Terentius Varro
@@ -361,7 +369,7 @@ III. Yorum<br />
     - **Cevap A-) Yapısalcılık**
     - B-) Modernizm
     - C-) Postmodernizm
-    - D-) K&uuml;lt&uuml;rel analiz
+    - D-) K&uuml;lt&uuml;rel Analiz
     - E-) Varoluş&ccedil;uluk
     ***
 1. <strong>Aşağıdakilerden hangisinde yapısalcılığın doğuş yeri ve tarihi doğru olarak verilmiştir?</strong>
@@ -491,19 +499,20 @@ III. K&uuml;lt&uuml;r dile benzer.<br />
     - D-) Farkındalık, b&uuml;t&uuml;nl&uuml;k, d&ouml;n&uuml;ş&uuml;m
     - E-) D&ouml;n&uuml;ş&uuml;m, gelişim, b&uuml;t&uuml;nl&uuml;k
     ***
-1. <strong>Akrabalık ilişkileri ile s&ouml;ylemlerin temel yapısını araştırırken ileri s&uuml;rd&uuml;ğ&uuml; yapısal inceleme y&ouml;ntemi ve dil bilim kaynaklı okuma bi&ccedil;imiyle yapısalcı y&ouml;ntemi ilk kez dil bilim dışında kalan bir bilim dalında; antropolojide uygulayan teorisyen aşağıdakilerden hangisidir?</strong>
+1. <strong>Akrabalık ilişkileri ile s&ouml;ylemlerin temel yapısını araştırırken ileri s&uuml;rd&uuml;ğ&uuml; yapısal inceleme y&ouml;ntemi ve dil bilim kaynaklı okuma bi&ccedil;imiyle yapısalcı y&ouml;ntemi ilk kez dil bilim dışında kalan bir bilim dalında antropolojide uygulayan teorisyen aşağıdakilerden hangisidir?</strong>
     - A-) Ferdinand de Saussure
     - **Cevap B-) Claude L&eacute;vi-Strauss**
     - C-) Roland Barthes
     - D-) Auguste Comte
     - E-) Jean Piaget
     ***
-1. <strong>Aşağıdakilerden hangisi yapısalcılığın temel ama&ccedil; ve y&ouml;nelimleri arasında <u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi yapısalcılığın temel ama&ccedil; ve y&ouml;nelimleri arasında <u>yer almaz</u>?</strong><br type="_moz" />
+
     - A-) Ele alınan nesnenin &quot;kendi başına ve kendi kendisi i&ccedil;in&quot; incelenmesi
     - B-) Nesnenin kendi &ouml;geleri arasındaki bağıntılardan oluşan bir &quot;dizge&quot; olarak ele alınması
-    - C-) S&ouml;z konusu dizge i&ccedil;inde her zaman işlevi g&ouml;z &ouml;n&uuml;nde bulundurma ve her olguyu bağlı olduğu dizgeye dayandırma zorunluluğunun sonucu olarak nesnenin arts&uuml;remlilik i&ccedil;inde değil, eşs&uuml;remlilik (eşzamanlılık) i&ccedil;inde ele alınması
+    - C-) Nesnenin arts&uuml;remlilik i&ccedil;inde değil, eşs&uuml;remlilik (eşzamanlılık) i&ccedil;inde ele alınması<br type="_moz" />
     - **Cevap D-) Bu yaklaşımın felsefi, siyasal ya da sanatsal bir &ouml;ğreti olması**
-    - E-) Nesnenin &quot;kendi başına ve kendi kendisi i&ccedil;in&quot; incelenmesinin sonucu olarak &quot;doğa &ouml;tesel&quot; değil, &quot;&ouml;zdek&ccedil;i&quot; bir yaklaşım bi&ccedil;iminde tanımlanması
+    - E-) Nesnenin &quot;doğa &ouml;tesel&quot; değil, &quot;&ouml;zdek&ccedil;i&quot; bir yaklaşım bi&ccedil;iminde tanımlanması<br type="_moz" />
     ***
 ## Unite 4
 1. <strong>Metnin yapı ve eleştirel yaklaşım kategorileri i&ccedil;ine sokulmayan anlam genişlemesi olarak a&ccedil;ıklanabilen kavram aşağıdakilerden hangisidir?</strong><br />
@@ -600,7 +609,7 @@ III. K&uuml;lt&uuml;r dile benzer.<br />
     - D-) İd-ego-s&uuml;perego evresi
     - E-) G&ouml;stergesel dil evresi- sembolik dil evresi
     ***
-1. <strong>Dili yapısalcı sistemin bir &uuml;r&uuml;n&uuml; olarak B&uuml;y&uuml;k &Ouml;teki kavramı ile ilişkili olarak eleştiren d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong><br />
+1. <strong>Dili yapısalcı sistemin bir &uuml;r&uuml;n&uuml; olarak &quot;B&uuml;y&uuml;k &Ouml;teki&quot; kavramı ile ilişkili olarak eleştiren d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong><br />
 
     - A-) Luce Irigaray
     - B-) Derrida
@@ -647,6 +656,14 @@ III. K&uuml;lt&uuml;r dile benzer.<br />
     - C-) Oedipal- Ayna- Preodipal
     - D-) İd- Ego- Superego
     - E-) Preodipal- Ayna- Oedipal
+    ***
+1. <strong>&Ouml;zne kavramına dair postyapısalcıların bakış a&ccedil;ısı aşağıdakilerden hangisidir?</strong><br />
+
+    - A-) G&uuml;&ccedil;l&uuml; &ouml;zne
+    - B-) Rasyonel &ouml;zne
+    - C-) Tek bir kimliğe sahip olan &ouml;zne
+    - **Cevap D-) Zaman i&ccedil;inde değişen &ouml;zne**
+    - E-) İktidar s&ouml;ylemi i&ccedil;inde olan &ouml;zne
     ***
 1. <strong>Yazı karşısına s&ouml;z merkezciliği &ouml;n plana &ccedil;ıkaran postyapısalcı d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong><br />
 
@@ -702,7 +719,7 @@ III. K&uuml;lt&uuml;r dile benzer.<br />
     - D-) Greimas
     - E-) Br&ouml;ndal
     ***
-1. Se&ccedil;ilmiş terim ya da s&ouml;zc&uuml;klere ..........................., bu terim ve s&ouml;zc&uuml;klerin birleştirilmesine ........................... denmektedir.<br />
+1. Se&ccedil;ilmiş terim ya da s&ouml;zc&uuml;klere ..........................., bu terim ve s&ouml;zc&uuml;klerin birleştirilmesine ........................... denilmektedir.<br />
 <strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong> 
     - **Cevap A-) dizi - dizim**
     - B-) serim - &ccedil;&ouml;z&uuml;m
@@ -921,10 +938,10 @@ III. George Eliot<br />
     - D-) Endosemiyotik
     - E-) Zoosemiyotik
     ***
-1. I. S&ouml;zdizim<br />
-II. Anlambilim<br />
+1. I. S&ouml;z dizim<br />
+II. Anlam bilim<br />
 III. Simge<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri Morris&rsquo;in belirlediği &uuml;&ccedil; bileşenden biri <u>değildir</u>?</strong><br />
+<strong>Yukarıdakilerden hangisi ya da hangileri Morris&rsquo;in belirlediği bileşenler arasında&nbsp;<u>yer almaz</u>?</strong><br />
 
     - A-) Yalnız I
     - B-) Yalnız II
@@ -999,7 +1016,7 @@ III. Kavramsal/Kural G&ouml;sterge<br />
     - D-) &Ouml;nerme
     - E-) S&ouml;zcebirim/Terim
     ***
-1. <strong>Saussure&rsquo;den farklı olarak g&ouml;stergeyi ikili değil &uuml;&ccedil;l&uuml; bir yapı olarak değerlendiren d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
+1. <strong>Saussure&rsquo;den farklı olarak g&ouml;stergeyi ikili değil, &uuml;&ccedil;l&uuml; bir yapı olarak değerlendiren d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Charles Sanders Peirce**
     - B-) Jacques Derrida
     - C-) Paul de Man
@@ -1125,6 +1142,13 @@ III. Kavramsal/Kural G&ouml;sterge<br />
     - C-) Metni alımlayanlar, metnin t&uuml;ketilmesi gerektiğine inanır.
     - D-) Kapalı &ouml;zelliğe sahiptir.
     - **Cevap E-) Okuyucuyu rahatsız eden ve onun gelenekleri ve k&uuml;lt&uuml;r&uuml; dışında &ouml;zne konumu yaratır.**
+    ***
+1. <strong>Sanatsal bir olgu olması sebebiyle anlatılmak istenen şeyin bambaşka bir şekilde anlaşılmasını sağlayan kavram aşağıdakilerden hangisidir?</strong>
+    - A-) Eğretileme
+    - B-) Metonim
+    - **Cevap C-) Metafor**
+    - D-) Benzetme
+    - E-) Kişileştirme
     ***
 1. <strong>Yapısalcılık, g&ouml;stergebilim ve psikanalizin etkilerini birleştiren, kendine &ouml;zg&uuml; bir edebiyat eleştirisi geliştiren Fransız aydın kimdir?</strong>
     - A-) Michael Riffaterre
@@ -1268,6 +1292,14 @@ III. B&uuml;t&uuml;n olağan&uuml;st&uuml; masallar yapıları a&ccedil;ısında
     - C-) Bakhtin
     - **Cevap D-) Voloshinov**
     - E-) Saussure
+    ***
+1. <strong>Aşağıdakilerden hangisi Rus bi&ccedil;imcilerin edebiyat ile ilgili belirlediği temel &ouml;zelliklerden biri <u>değildir</u>?</strong><br />
+
+    - A-) Her t&uuml;rl&uuml; dogma reddedilmelidir.
+    - B-) Farklı oluşturucu &ouml;geler birbirinden ayrılmamalıdır.
+    - C-) Yazınsal olgular, karşılıklı ve birleştirici bağlantılarından koparılarak incelenemez.
+    - **Cevap D-) Olguların ve eş anlamlı olmayan dizilerin karmaşık g&ouml;r&uuml;nt&uuml;lerini yok sayar.**
+    - E-) Toplumsal yaşama g&ouml;re dilsel bir işlev taşır.
     ***
 1. <strong>Aşağıdakilerden hangisi metinlerin i&ccedil; i&ccedil;e ge&ccedil;mesiyle ve birbirine eklenmesinden oluşan kavramdır?</strong><br />
 
@@ -1468,7 +1500,7 @@ III. Genel olarak aydın kesime ait ve edebimetinlerin &ouml;zelliğidir.<br />
     - **Cevap D-) Fotoğrafın &quot;nesnel&quot; bir temsil olduğunu**
     - E-) Fotoğrafın bir g&ouml;r&uuml;nt&uuml;sel g&ouml;sterge olduğunu
     ***
-1. <strong>Aşağıdakilerden hangisi s</strong><strong>ahnelenmiş fotoğraf sanatı i&ccedil;in <u>yanlıştır</u>?</strong><br />
+1. <strong>S</strong><strong>ahnelenmiş fotoğraf sanatı ile ilgili olarak a</strong><strong>şağıdakilerden hangisi</strong><strong>&nbsp;<u>yanlıştır</u>?</strong><br />
 
     - **Cevap A-) Ger&ccedil;eklik, aslına sadık kalmaya &ccedil;alışılarak yansıtılır.**
     - B-) Aslı olmayan kopyalar ve modeller aracılığıyla bir ger&ccedil;eklik inşa edilmeye &ccedil;alışılmaktadır.
@@ -1515,6 +1547,15 @@ III. Genel olarak aydın kesime ait ve edebimetinlerin &ouml;zelliğidir.<br />
     - C-) Alex Prager
     - D-) Cindy Sherman
     - E-) Hannah Starkey
+    ***
+1. Bir k&ouml;ken ya da bir ger&ccedil;eklikten yoksun ger&ccedil;eğin modeller aracılığıyla t&uuml;retilmesine ............................ yani sim&uuml;lasyon denilmektedir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
+
+    - A-) nesnellik
+    - B-) &ouml;znellik
+    - C-) sadelik
+    - **Cevap D-) hiperger&ccedil;eklik**
+    - E-) uygulama
     ***
 1. ................................. fotoğraf, maddi d&uuml;nyayı referans g&ouml;stermeden, iki metin arasında yorumsal ilişki kurgulayarak o kurgudan yeni bir olabilirlik d&uuml;ş&uuml;ncesi oluşturur.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -1693,6 +1734,14 @@ III. Simgesel g&ouml;sterge<br />
     - D-) Simge
     - E-) Belirti
     ***
+1. <strong>Eco&rsquo;nun filmsel bir anlatıda g&ouml;sterilen bir araba g&ouml;r&uuml;nt&uuml;s&uuml; ile bir araba s&ouml;zc&uuml;ğ&uuml;n&uuml;n aynı i&ccedil;erik biriminin yerine ge&ccedil;tiğini ifade ettiği kavram ikilisi aşağıdakilerden hangisidir?</strong><br />
+
+    - A-) A&ccedil;ıklık-Tamamlılık
+    - B-) Tamamlılık-G&ouml;nderme
+    - **Cevap C-) Yerine ge&ccedil;me-G&ouml;nderme**
+    - D-) Yerine ge&ccedil;me-Tamamlılık
+    - E-) Simge-Belirti
+    ***
 1. <strong>Eco&rsquo;nun James Bond serisini 9 işlev &uuml;zerine kurması aşağıdaki isimlerden hangisinin 31 işleviyle benzerlik g&ouml;stermektedir?</strong><br />
 
     - A-) Wollen
@@ -1829,6 +1878,14 @@ III. Ses efektleri<br />
     - C-) Kaynak g&ouml;sterilmeli
     - D-) Kamu yararı g&ouml;zetilmeli
     - E-) Kısa ve a&ccedil;ık c&uuml;mleler kurulmalı
+    ***
+1. <strong>Aşağıdakilerden hangisi egemen ideolojilerin sembolik inşasında medyanın kullandığı y&ouml;ntemlerden biri <u>değildir</u>?</strong><br />
+
+    - A-) Şeyleştirme
+    - **Cevap B-) Eleştirme**
+    - C-) Meşrulaştırma
+    - D-) Par&ccedil;alama
+    - E-) Birleştirme
     ***
 1. <strong>Aşağıdakilerden hangisi sık yaşanan olayların hep aynı tarzda haberleştirildiğini ifade eden s&ouml;ylemsel stratejidir?</strong><br />
 
@@ -1987,7 +2044,7 @@ III. Sınırlandırma<br />
 1. I. Enigmatik kod<br />
 II. Yananlamsal kod<br />
 III. İnfomersiyal kod<br />
-<strong>Yukarıdaki kodlardan hangisi ya da hangileri reklam iletisindeki anlamı kurgulamada, aktarmada ve &ccedil;&ouml;z&uuml;mlemede kullanılan kodlardan biri <u>değildir</u>?</strong><br />
+<strong>Yukarıdaki kodlardan hangisi ya da hangileri reklam iletisindeki anlamı kurgulamada, aktarmada ve &ccedil;&ouml;z&uuml;mlemede kullanılan kodlardan biri&nbsp;<u>değildir</u>?</strong><br />
 
     - A-) Yalnız I
     - B-) Yalnız II
@@ -2089,7 +2146,7 @@ III. Kullanım engeli<br />
     - **Cevap D-) Diğer kullanıcıların fotoğraflarını incelemesi**
     - E-) Yorum yazması
     ***
-1. <strong>Bireyler, işletmeler ve farklı sosyoekonomik seviyedeki coğrafi b&ouml;lgeler arasındaki bilgi ve iletişim teknolojilerine erişim ve internete erişim ve kullanım imk&acirc;nları a&ccedil;ısından oluşan farklılığa ne ad verilir?</strong>
+1. <strong>Bireyler, işletmeler ve farklı sosyoekonomik seviyedeki coğrafi b&ouml;lgeler arasındaki bilgi ve iletişim teknolojilerine erişim, internete erişim ve kullanım imk&acirc;nları a&ccedil;ısından oluşan farklılığa ne ad verilir?</strong>
     - **Cevap A-) Dijital b&ouml;l&uuml;nme**
     - B-) Dijital gelişim
     - C-) Dijital entegrasyon

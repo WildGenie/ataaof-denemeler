@@ -268,8 +268,8 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - A-) Fikir toplama
     - B-) Fikir eleme
     - C-) &Uuml;r&uuml;n tasarılarını geliştirme ve test etme
-    - D-) Pazarlama testi
-    - **Cevap E-) Durum analizi**
+    - D-) Pazarlama Testi
+    - **Cevap E-) Durum Analizi**
     ***
 1. <strong>Aşağıdakilerden hangisi bilimin ve sanatın ustası olan Leonardo da Vinci&#39;ye ait eserlerden biri <u>değildir</u>?</strong>
     - A-) Mona Lisa tablosu
@@ -459,7 +459,7 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - B-) Esneklik
     - C-) &Ouml;zg&uuml;nl&uuml;k
     - **Cevap D-) Samimiyet**
-    - E-) Ayrıntılandırma
+    - E-) Ayrıntılama
     ***
 1. <strong>Aşağıdakilerden hangisi beyin fırtınası oturumlarında uyulması gereken kurallar arasında <u>yer almaz</u>?</strong>
     - A-) Yargı mekanizması susturulur.
@@ -552,6 +552,13 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - C-) İyimser ve olumlu d&uuml;ş&uuml;nce
     - D-) Yeni yaratıcılık ve yeni fikirler
     - E-) Kasvet ve olumsuzluk
+    ***
+1. <strong>Graham Wallas&rsquo;a g&ouml;re, elde edilen bilgiler ve s&uuml;re&ccedil;te karşılaşılan &ccedil;eşitli uyaranların yardımıyla &ccedil;&ouml;z&uuml;me y&ouml;nelik d&uuml;ş&uuml;ncelerin bulunduğu yaratıcı fikrin &uuml;retim s&uuml;reci aşaması aşağıdakilerden hangisidir?</strong>
+    - A-) Hazırlık
+    - **Cevap B-) Aydınlanma**
+    - C-) Kulu&ccedil;ka
+    - D-) Planlama
+    - E-) Doğrulama
     ***
 ## Unite 5
 1. <strong>Tek/farklı olmak, satış ve vaat/&ouml;neri kavramları aşağıda sıralanan hangi yaratıcı reklam stratejisini tanımlamaktadır?</strong>
@@ -675,7 +682,7 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - E-) &Ouml;nce Satın Alma İddiası
     ***
 1. ..................: Temel Satış Vaadi ve Marka İmajı stratejilerini de kapsayan bir temel yaratıcı stratejidir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) Konumlandırma Stratejisi**
     - B-) Yankılama Yaklaşımı
     - C-) Jenerik (generic) Strateji
@@ -809,7 +816,7 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - D-) Mizah &ouml;nemsenmelidir.
     - E-) Reklamı izleyenlere saygı duymalıdır.
     ***
-1. <strong>Aşağıdakilerden hangi yaratıcı yaklaşım Fransız reklamcı Jacques S&eacute;gu&eacute;la ile &ouml;zdeşleşmiştir?</strong>
+1. <strong>Aşağıdaki yaratıcı yaklaşımlardan hangisi Fransız reklamcı Jacques S&eacute;gu&eacute;la ile &ouml;zdeşleşmiştir?</strong>
     - A-) Marka İmajı
     - B-) Doğal Drama
     - C-) Temel Satış Vaadi
@@ -991,6 +998,16 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - C-) Mizah &ccedil;ekiciliği
     - **Cevap D-) Korku &ccedil;ekiciliği**
     - E-) Yaratıcı &ccedil;ekicilik
+    ***
+1. I. Fiziksel<br />
+II. Sosyal<br />
+III. Kişisel<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri reklamlarda korku &ccedil;ekiciliği bağlamında kullanılan tehditler arasında yer alır?</strong>
+    - A-) Yalnız I
+    - B-) I ve II
+    - C-) I ve III
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
     ***
 ## Unite 8
 1. <strong>Aşağıdakilerden hangisi reklamcılıkta kullanılan geleneksel mecralardan biri <u>değildir</u>?</strong>
@@ -1320,6 +1337,13 @@ III. Sinema salonlarındaki reklamlara y&ouml;nelik t&uuml;keticilerin tepkileri
     - **Cevap D-) Karavan testi**
     - E-) Odak grup
     ***
+1. <strong>Aşağıdakilerden hangisi yaratıcılığın bileşenlerinden biri <u>değildir</u>?</strong>
+    - A-) Yaratıcı s&uuml;re&ccedil;
+    - **Cevap B-) Yaratıcı &ouml;l&ccedil;&uuml;m**
+    - C-) Yaratıcı kişi
+    - D-) Yaratıcı &uuml;r&uuml;n
+    - E-) Yaratıcı &ccedil;evre
+    ***
 1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; psikoloji alanında kullanılan, insanların karar verme, tepki, davranış, d&uuml;ş&uuml;nce bi&ccedil;imleri, kişilik vb. &ouml;zelliklerini &ouml;l&ccedil;me ve değerlendirme amacıyla kullanılan &ccedil;eşitli testlerin b&uuml;t&uuml;n&uuml;ne verilen isimdir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Psikoanalitik testler
@@ -1513,6 +1537,13 @@ IV. Reklamların tasarımı ve ill&uuml;strasyonlarından sorumludurlar.<br />
     - D-) &uuml;retim birimi
     - E-) reklam birimi
     ***
+1. <strong>Reklam fikrinin uygun fotoğraf, ill&uuml;strasyon, tipografi vb. ile g&ouml;rselleştirilerek kavrama d&ouml;n&uuml;şmesini sağlayan birim veya g&ouml;rev aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Sanat y&ouml;netmenliği**
+    - B-) Reklam yazarlığı
+    - C-) Prod&uuml;kt&ouml;r
+    - D-) Stratejist
+    - E-) Yapımcı
+    ***
 ## Unite 12
 1. <strong>Planlı kişisel sunum &ccedil;abaları ka&ccedil; grupta değerlendirilebilir?</strong>
     - **Cevap A-) 2**
@@ -1591,6 +1622,13 @@ IV. Reklamların tasarımı ve ill&uuml;strasyonlarından sorumludurlar.<br />
     - C-) &Ouml;zel işler
     - D-) Yemek tarifleri
     - E-) P&uuml;f noktaları
+    ***
+1. <strong>Aşağıdakilerden hangisi SWOT Analizi&rsquo;nin a&ccedil;ılımıdır?</strong>
+    - A-) Avantajlar, dezavantajlar, yeniler, eskiler
+    - B-) Hızlı, yavaş, g&uuml;&ccedil;l&uuml;, g&uuml;&ccedil;s&uuml;z
+    - **Cevap C-) G&uuml;&ccedil;l&uuml; y&ouml;nler, zayıf y&ouml;nler, fırsatlar, tehditler**
+    - D-) G&uuml;&ccedil;l&uuml; y&ouml;nler, zayıf y&ouml;nler, ağır y&ouml;nler, hafif y&ouml;nler
+    - E-) Avantajlı y&ouml;nler, dezavantajlı y&ouml;nler, yaratıcı y&ouml;nler, standart y&ouml;nler
     ***
 1. <strong>SWOT analizindeki &ldquo;O&rdquo; harfi aşağıdakilerden hangisini tanımlamaktadır?</strong>
     - A-) Tehditler
@@ -1757,6 +1795,13 @@ III. Reklam&nbsp;portfolyosu<br />
     - C-) &Uuml;retim faaliyetleri
     - D-) Finansman
     - E-) &Ouml;rg&uuml;t misyonu
+    ***
+1. <strong>Bir markanın reklamında rakip markanın isim, logo ya da kurumsal &ouml;gelerinin (renk, yazı karakteri gibi) dolaylı ya da doğrudan verilerek yapıldığı reklam t&uuml;r&uuml;</strong>&nbsp;<strong>aşağıdakilerden hangisidir?</strong>
+    - A-) Aldatıcı reklamlar
+    - B-) Yalın reklamlar
+    - C-) Kısıtlayıcı reklamlar
+    - D-) Abartılı reklamlar
+    - **Cevap E-) Karşılaştırmalı reklamlar**
     ***
 ## Unite 14
 1. <strong>Vodafone Kırmızı Işık kampanyası ile ilgili olarak aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>

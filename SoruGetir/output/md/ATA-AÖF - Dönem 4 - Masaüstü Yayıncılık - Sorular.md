@@ -117,7 +117,7 @@
     - D-) Dağıtım a&ccedil;ısından
     - E-) Baskı a&ccedil;ısından
     ***
-1. <strong>&nbsp;İşletmeler a&ccedil;ısından aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılık avantajlarından biridir?</strong>
+1. <strong>&nbsp;A</strong><strong>şağıdakilerden hangisi i</strong><strong>şletmeler a&ccedil;ısından masa&uuml;st&uuml; yayıncılık avantajlarından biridir?</strong>
     - A-) Dijital yayınlara ulaşma, iki taraflı iletişim
     - B-) &Ccedil;ağdaş bilgisayar teknolojilerinden yararlanma
     - **Cevap C-) Giderlerden, baskı maliyetlerinden, iş g&uuml;c&uuml;nden ve zamandan tasarruf**
@@ -148,7 +148,7 @@
     - E-) Nokta
     ***
 1. &hellip;&hellip;&hellip;&hellip;, dijital g&ouml;stergelerde g&ouml;r&uuml;nt&uuml;n&uuml;n elde edilmesine olanak sağlayan ve bir grafik g&ouml;r&uuml;nt&uuml;s&uuml;n&uuml;n oluşmasına olanak veren noktalardan her birine verilen isimdir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>Yukarıdaki c&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Tipografi
     - B-) Baskı
     - C-) Y&uuml;zey
@@ -162,7 +162,7 @@
     - **Cevap D-) Bir g&ouml;r&uuml;nt&uuml;de pixel sayısı ne kadar az olursa g&ouml;r&uuml;nt&uuml;n&uuml;n netliği de o derece iyi olur.**
     - E-) Pixel yoğunluklarının grafiksel sunumu, g&ouml;r&uuml;nt&uuml;n&uuml;n &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml;yle alakalıdır.
     ***
-1. <strong>Aşağıdakilerden hangisi renk hakkında doğru bir ifade <u>değildir</u>?</strong>
+1. <strong>Renk kavramı ile ilgili olarak aşağıdakilerden hangisi&nbsp;<u>yanlıştır</u>?</strong>
     - A-) Renk, d&uuml;ş&uuml;nceleri ve duyguları tasarımın başka hi&ccedil;bir &ouml;gesinin yapamadığı şekilde temsil eder.
     - **Cevap B-) Masa&uuml;st&uuml; yayıncılıkta genellikle beyaz renkli A5 sayfası kullanılmaktadır.**
     - C-) Tasarımda ama&ccedil;lanan etkiyi elde etmek i&ccedil;in rengin nasıl sunulacağı ve hangi etkinin istenildiği, yayıncılık i&ccedil;in &ouml;nem teşkil etmektedir.
@@ -215,7 +215,7 @@ III. Tasarım y&uuml;zeyine ton ve ritm verir.<br />
     - D-) Avrupa
     - E-) Asya
     ***
-1. <strong>Aşağıdakilerden hangisi grafik tasarım yazılımlarından biri <u>değildir?</u></strong>
+1. <strong>Aşağıdakilerden hangisi grafik tasarım yazılımlarından biri <u>değildir</u>?</strong>
     - A-) Adobe Photosho
     - B-) Fractal Desing Painter
     - C-) Fractal Desing Color Studio
@@ -340,7 +340,7 @@ III.&nbsp;Ofset baskı<br />
     - **Cevap D-) Belge formatı**
     - E-) Renk ayarı
     ***
-1. <strong>&nbsp;Masa&uuml;st&uuml; yayımcılık sonrasında basılacak olan materyalin maliyet y&ouml;n&uuml;nden en az olması i&ccedil;in aşağıdaki renklerden hangisi tercih edilmelidir?</strong>
+1. <strong>Masa&uuml;st&uuml; yayımcılık sonrasında basılacak olan materyalin maliyet y&ouml;n&uuml;nden en az olması i&ccedil;in aşağıdaki renklerden hangisi tercih edilmelidir?</strong>
     - A-) Sarı
     - B-) Beyaz
     - C-) Yeşil
@@ -369,7 +369,7 @@ III.&nbsp;Ofset baskı<br />
     - **Cevap E-) Ama&ccedil;ların belirlenmesi**
     ***
 1. <strong>Aşağıdakilerden hangisi baskı ve sonlandırma işlemlerinde g&ouml;z &ouml;n&uuml;nde bulundurulması gereken temel işlemlerden biri <u>değildir</u>?</strong>
-    - A-) &nbsp;Ekran ve k&acirc;ğıt &uuml;zerindeki renk uyumunun sağlanması
+    - A-) Ekran ve k&acirc;ğıt &uuml;zerindeki renk uyumunun sağlanması
     - B-) Paketlemenin eksiksiz yapılmış olması
     - C-) Baskı kalitesi ve adedine y&ouml;nelik ayarlamalar yapılması
     - D-) &Ouml;l&ccedil;eklendirme ayarlarının yapılması
@@ -426,7 +426,7 @@ III.&nbsp;Ofset baskı<br />
     ***
 ## Unite 4
 1. &hellip;&hellip;&hellip; metinsel unsurların sayfaya ya da şekil, resim, tablo gibi yayını oluşturan diğer unsurlara g&ouml;re hizalanmasıdır.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>Yukarıdaki c&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Sayfa yerleşimi
     - B-) Satır aralığı
     - **Cevap C-) Metin hizalama**
@@ -449,11 +449,11 @@ II. Calibri<br />
 III. Lucida Bright<br />
 IV. Comic Sans<br />
 <strong>Yukarıdaki yazı tiplerinden hangisi ya da hangileri Sans Serif yazı tipi kategorisinde yer alır?</strong>
-    - A-) Yalnız I
-    - B-) I ve II
+    - A-) I, II, III ve IV
+    - **Cevap B-) I, II ve IV**
     - C-) I ve III
-    - **Cevap D-) I, II ve IV**
-    - E-) I, II, III ve IV
+    - D-) Yalnız I
+    - E-) I ve II
     ***
 1. I. Metnin puntosunu b&uuml;y&uuml;tme<br />
 II. Metnin altını &ccedil;izme<br />
@@ -674,7 +674,7 @@ III. Kalın yazma<br />
     - **Cevap D-) Bilgileri edinme**
     - E-) Tasarım işlemlerini ger&ccedil;ekleştirme
     ***
-1. <strong>Publisher 2016 programında broş&uuml;r yazdırmak i&ccedil;in hangi sekme kullanılır?</strong> 
+1. <strong>Publisher 2016 programında broş&uuml;r yazdırmak i&ccedil;in aşağıdaki sekmelerden hangisi kullanılır?</strong> 
     - A-) Postalar
     - B-) Ekle
     - C-) Giriş
@@ -687,6 +687,13 @@ III. Kalın yazma<br />
     - **Cevap C-) Broş&uuml;r&uuml;n amacının belirlenmesi**
     - D-) Her bir sayfada &ouml;gelerin yerleşim d&uuml;zeninin tespit edilmesi
     - E-) Broş&uuml;r&uuml;n zemin ve yazı renginin belirlenmesi
+    ***
+1. <strong>Microsoft Publisher 2016 programındaki aşağıdaki sekmelerin hangisinde adres mektup veya adres e-posta birleştirme, adres bloğu, selamlama satırı gibi alanları ekleme, &ouml;n izleme işlemleri yapılmaktadır?</strong>
+    - A-) G&ouml;r&uuml;n&uuml;m
+    - B-) G&ouml;zden ge&ccedil;ir
+    - **Cevap C-) Postalar**
+    - D-) Sayfa tasarımı
+    - E-) Giriş
     ***
 1. I.&nbsp;Kurum, kuruluş ya da birimlerin reklamlarını yapmak<br />
 II. Bir &uuml;r&uuml;n veya hizmet satmaya zorlamak<br />
@@ -735,13 +742,13 @@ III.&nbsp;Eğitim, sağlık, ticaret, ulaşım, eğlence ve iletişim programlar
     - E-) Hareket gerektiren becerileri &ouml;ğretmek i&ccedil;in statik g&ouml;rseller daha etkilidir.
     ***
 1. <strong>Genellikle ağa&ccedil;, şema veya d&uuml;ğ&uuml;m ve bağlantılardan oluşan bilgi haritaları şeklinde oluşturulan g&ouml;rsel t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
-    - A-) &nbsp;İlişkisel g&ouml;rseller<br />
+    - A-) İlişkisel g&ouml;rseller<br />
     - **Cevap B-) &Ouml;rg&uuml;tleyici g&ouml;rseller**
     - C-) Nimonik g&ouml;rseller
     - D-) Temsili g&ouml;rseller
     - E-) D&ouml;n&uuml;ş&uuml;msel g&ouml;rseller
     ***
-1. <strong>Dikkati bir noktaya &ccedil;ekmek i&ccedil;in, fikir kavram ya da basamakları ayırt etmek i&ccedil;in, y&ouml;n ve hareket g&ouml;stermek i&ccedil;in veya nesneleri hızlıca g&ouml;rselleştirmek i&ccedil;in kullanılan g&ouml;rsel tasarım unsuru aşağıdakilerden hangisidir?</strong>
+1. <strong>Dikkati bir noktaya &ccedil;ekmek, fikir kavram ya da basamakları ayırt etmek, y&ouml;n ve hareket g&ouml;stermek veya nesneleri hızlıca g&ouml;rselleştirmek i&ccedil;in kullanılan g&ouml;rsel tasarım unsuru aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) &Ccedil;izgi**
     - B-) Şekil
     - C-) Boyut
@@ -758,7 +765,7 @@ III.&nbsp;Eğitim, sağlık, ticaret, ulaşım, eğlence ve iletişim programlar
 1. <strong>Piksel tabanlı grafiklerle ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Noktalardan meydana gelir.
     - B-) Her piksel farklı bir renk alabilir.
-    - C-) Yeniden boyutlandırıldığında &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k resim kalitesi bozulur.
+    - C-) Yeniden boyutlandırıldığında resim kalitesi bozulur.
     - **Cevap D-) Adobe Illustrator en yaygın kullanılan piksel tabanlı grafik yazılımıdır.**
     - E-) Pikseller alt alta ve yan yana bulunurlar.
     ***
@@ -789,6 +796,13 @@ III.&nbsp;Eğitim, sağlık, ticaret, ulaşım, eğlence ve iletişim programlar
     - C-) &Ouml;rg&uuml;tleyici
     - D-) İlişkisel
     - **Cevap E-) Dekoratif**
+    ***
+1. <strong>Bir konunun kavramlarını hatırlamaya yardımcı olan ve ipucu niteliğindeki g&ouml;rsel t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+    - A-) &nbsp;Yorumlayıcı
+    - B-) D&ouml;n&uuml;ş&uuml;msel
+    - C-) İlişkisel
+    - D-) Temsil&icirc;
+    - **Cevap E-) Nimonik**
     ***
 1. <strong>Aşağıdakilerden hangisi g&ouml;rsel tasarım unsurlarının kullanım ilkelerine <u>uymamaktadır</u>?</strong>
     - A-) Boş alanların dağılımı g&ouml;rseller kadar &ouml;nemlidir.
@@ -947,10 +961,10 @@ III.&nbsp;Eğitim, sağlık, ticaret, ulaşım, eğlence ve iletişim programlar
     ***
 1. <strong>Zaman &Ccedil;izgisi &uuml;zerinde belli bir noktada animasyonu durduran, oynatan ya da başka bir noktaya zıplatan kodlara ne ad verilir?</strong>
     - A-) İğne
-    - B-) Oynatma Başlığı
+    - B-) Oynatma başlığı
     - **Cevap C-) Tetikleyici**
     - D-) Katman
-    - E-) Hareket Şeridi
+    - E-) Hareket şeridi
     ***
 1. <strong>Aşağıdakilerden hangisi bir animasyon t&uuml;r&uuml; <u>değildir</u>?</strong>
     - A-) İki boyutlu animasyonlar
@@ -965,6 +979,16 @@ III.&nbsp;Eğitim, sağlık, ticaret, ulaşım, eğlence ve iletişim programlar
     - C-) Playback
     - D-) Target
     - E-) Preview
+    ***
+1. I. 3D Studio Max genellikle &uuml;&ccedil; boyutlu modelleme i&ccedil;in kullanılır.<br />
+II. Adobe Photoshop yalnızca statik grafik d&uuml;zenleme amacıyla kullanılır ve animasyon i&ccedil;in uygun değildir.<br />
+III. Maya, &uuml;&ccedil; boyutlu animasyon, modelleme, benzetim ve g&ouml;r&uuml;nt&uuml;leme yazılımıdır.<br />
+<strong>Animasyon tasarımında kullanılan yazılımlara ilişkin yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>
+    - A-) Yalnız II
+    - **Cevap B-) I ve III**
+    - C-) I ve II
+    - D-) II ve III
+    - E-) I, II ve III
     ***
 ## Unite 8
 1. <strong>Aşağıdakilerden hangisi u&ccedil;uk pembe renk tonunun psikolojik etkileri arasında <u>yer almaz</u>?</strong>
@@ -1130,6 +1154,17 @@ III. Uygun renkler kullanılmalı<br />
     - D-) Ekstralar
     - E-) Yardım
     ***
+1. I. Linux<br />
+II. FreeBSD<br />
+III. Mac OS X<br />
+IV. Windows<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri Scribus&rsquo;u destekleyen işletim sistemleri arasında yer alır?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) II ve III
+    - D-) II, III ve IV
+    - **Cevap E-) I, II, III ve IV**
+    ***
 1. <strong>Scribus&rsquo;ta bir resmi belirli noktalarından m&uuml;dahale ederek eğmek istenirse aşağıdakilerden hangisi kullanılır?</strong>
     - A-) Bounding Box
     - **Cevap B-) Nodelar**
@@ -1215,6 +1250,13 @@ III. Uygun renkler kullanılmalı<br />
     - E-) Ekle / Kılavuz &ccedil;izgisi
     ***
 ## Unite 10
+1. <strong>Aşağıdakilerden hangisi Ofset baskı hakkında <u>yanlıştır</u>?</strong>
+    - A-) Ofset baskı genellikle k&acirc;ğıt y&uuml;zeyinde kullanılan baskı tekniğidir.
+    - **Cevap B-) Ofset baskı d&uuml;nyada nadir kullanılan baskı tekniğidir.**
+    - C-) Ofset baskı, Amerikalı Ira W. Rubel tarafından bulunmuştur.<br type="_moz" />
+    - D-) Ofset sisteminin ana sistemi merdane ve kazan olmak &uuml;zere k&uuml;&ccedil;&uuml;kl&uuml;-b&uuml;y&uuml;kl&uuml; silindir mekanizmalardan oluşur.
+    - E-) Ofset baskı, yağ bazlı ofset m&uuml;rekkebiyle nemlendirme suyunun birbirini kabul etmemesi prensibine dayanır.
+    ***
 1. <strong>Aşağıdakilerden hangisi tipo baskı ile ilgili olarak&nbsp;<u>yanlıştır</u>?</strong>
     - A-) Metal harflerle yapılan y&uuml;ksek baskıdır.
     - B-) Uzun ve zahmetli bir baskı hazırlık s&uuml;reci gerektirir.
@@ -1531,6 +1573,14 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) PageMaker
     - **Cevap E-) PrintDesign**
     ***
+1. &nbsp;InDesign programında s&uuml;r&uuml;kleme sırasında ızgara s&uuml;tun sayısını değiştirmek i&ccedil;in ................................, satır sayısını değiştirmek i&ccedil;in ise .................................. kullanılır.<br />
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) ALT GR tuşu &ndash; BACKSPACE tuşu
+    - B-) ALT+SHIFT tuş kombinasyonu &ndash; CTRL+ALT GR tuş kombinasyonu
+    - C-) CTRL+SHIFT tuş kombinasyonu &ndash; SPACE+ALT GR tuş kombinasyonu
+    - **Cevap D-) Sağ sol y&ouml;n tuşları &ndash; yukarı aşağı y&ouml;n tuşları**
+    - E-) Yukarı aşağı y&ouml;n tuşları &ndash; sağ sol y&ouml;n tuşları
+    ***
 1. <strong>&nbsp;InDesign programı yardımıyla yollara, şekillere, metin &ccedil;er&ccedil;evelerine veya metin ana hatlarına &ccedil;izgi ayarları uygulanmasına imk&acirc;n tanıyan ara&ccedil;ların bulunduğu panel aşağıdakilerden hangisidir?</strong>
     - A-) Renk
     - B-) Bağlar
@@ -1649,6 +1699,13 @@ III. Profesyonel ışıklandırma sistemleri<br />
     - C-) Online ses yayını yapılabilir.
     - **Cevap D-) Sadece Windows işletim sisteminde &ccedil;alışır.**
     - E-) Ses ve videolara filtre eklenebilir.
+    ***
+1. <strong>&nbsp;Aşağıdakilerden hangisi &ccedil;evrimi&ccedil;i video d&uuml;zenlemeye ve oluşturmaya imk&acirc;n sunan web sitelerinden biri <u>değildir</u>?</strong>
+    - A-) WeVideo
+    - B-) ProShow
+    - **Cevap C-) Dailymotion**
+    - D-) Youtube
+    - E-) Animoto
     ***
 1. <strong>&nbsp;Aşağıdakilerden hangisi PDF belgesine eklenen videonun harici bir oynatıcıda &ccedil;alıştırılması i&ccedil;in ortam panelinde se&ccedil;ilmesi gereken &ouml;zelliktir?</strong>
     - **Cevap A-) Videoyu y&uuml;zen pencerede oynat**

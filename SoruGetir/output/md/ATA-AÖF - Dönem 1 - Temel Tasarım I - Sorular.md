@@ -1023,6 +1023,13 @@ Yukarıda bahsedilen &ouml;rnekte beynimizin hangi &ouml;zelliğinden bahsedilme
     - D-) Renk
     - E-) Tasarım
     ***
+1. <strong>Aşağıdakilerden hangisi zaman, mek&acirc;n ve hareket ile değişen bir duygu &ouml;zelliği oluşturur?</strong>
+    - **Cevap A-) Ger&ccedil;eklik**
+    - B-) Tasarım
+    - C-) Leke
+    - D-) &Ouml;l&ccedil;&uuml;
+    - E-) Oran-orantı
+    ***
 1. I.&nbsp; &nbsp;Şekil, &ccedil;izgi ve renklerle sınırları belirlenen bir yapıdır.<br />
 II.&nbsp; Genel olarak şekil, bir alanı belirleyen &ccedil;izgiyle tanımlanan sınırlardır.&nbsp;<br />
 III. Şekil ve formlara, tasarımın i&ccedil;eriğine y&ouml;nelik bilgi y&uuml;klenir.&nbsp;<br />
@@ -1165,6 +1172,13 @@ III. Kimyasal tepkime<br />
     - **Cevap D-) Vincent Van Gogh**
     - E-) Paul Cezanne
     ***
+1. <strong>Tasarım odaklı doku a&ccedil;ısından aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) İ&ccedil;erikle bağ kurduğu s&uuml;rece bir tasarım &uuml;r&uuml;n&uuml;nde ger&ccedil;eklik izlenimi uyandıran taklit dokulara yer verebilir.
+    - B-) End&uuml;striyel &uuml;r&uuml;n ambalajlarının her biri benzer ya da farklı dokuya sahiptir.
+    - C-) Tasarımcı ger&ccedil;ek izlenimden uzak ve izleyicinin ilk kez deneyimleyeceği bir doku &uuml;retir.
+    - D-) Dokunun tasarımcı duyularındaki etkinliği tasarımın farklı kavramlarla ilişkilendirilmesini etkiler.
+    - **Cevap E-) Bir grafik &uuml;r&uuml;n&uuml; dokunma duyusuyla ilişkilendirmek, tasarımcının kavram dışında kurduğu bağlantıda belirir.**
+    ***
 1. Doku, .................. &nbsp;olmak &uuml;zere ikiye ayrılır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) mat ve parlak
@@ -1201,6 +1215,14 @@ III. Kimyasal tepkime<br />
     - C-) Ewald Hering
     - D-) Louis Albert Necker
     - **Cevap E-) Hermann Ludwing Ferdinand von Helmholtz**
+    ***
+1. &hellip;&hellip;&hellip;, ger&ccedil;ekte olmayan ve g&ouml;rsel alanın birbirinden farklı g&ouml;r&uuml;nt&uuml; bileşimiyle algılanan g&ouml;r&uuml;nt&uuml;lerdir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Twisted Cord Illusion
+    - B-) Optical Art
+    - **Cevap C-) Alterimaj**
+    - D-) Silik &ccedil;izgi
+    - E-) Negatif g&ouml;rsel alan
     ***
 1. <strong>Birbirine yakın ton değerindeki iki farklı y&uuml;zey ortasına siyah bir dikd&ouml;rtgen yerleştirildiğinde her iki farklı ton değerindeki komşu y&uuml;zeyin aynı ton değerindeymiş gibi hatalı algılandığını ortaya koyan Amerikalı psikolog aşağıdakilerden hangisidir?</strong>
     - A-) William Orbison
@@ -1283,7 +1305,7 @@ III. Kimyasal tepkime<br />
     - E-) Louis Albert Necker
     ***
 ## Unite 9
-1. <strong>&Ouml;n-arka plan ilişkisi &uuml;zerine aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?</strong>
+1. <strong>&Ouml;n-arka plan ilişkisi &uuml;zerine aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) &Ouml;n-arka plan ilişkisi, alan ve mek&acirc;na bağlı olarak tasarımın iskeletini oluşturur.
     - **Cevap B-) &Ouml;n-arka plan ilişkisi, katmansız bir yapı i&ccedil;erir.**
     - C-) Tasarımda &ldquo;hiyerarşi&rdquo; denilen kavram, &ouml;n-arka plan ilişkisiyle &ccedil;ok yakından ilişkilidir.
@@ -1325,6 +1347,13 @@ III. Kimyasal tepkime<br />
     - C-) Bir tasarım d&uuml;ş&uuml;ncesi alan ve mek&acirc;nla uyumlu bir birlikteliğe sahip olmalıdır.
     - **Cevap D-) Bir tasarım d&uuml;ş&uuml;ncesi alan ve mek&acirc;nla uyumlu bir birlikteliğe sahip olmak zorunda değildir.**
     - E-) Alan ve mek&acirc;n, tasarımın temelini oluşturur.
+    ***
+1. <strong>Tasarım ve alan-mek&acirc;n ilişkisi &uuml;zerine aşağıdakilerden hangisi doğrudur?</strong>
+    - A-) Alan ve mek&acirc;n, tasarımda olumlu ya da olumsuz etkilere neden olmaz.
+    - **Cevap B-) Alan ve mek&acirc;n, aynı zamanda insanı dış d&uuml;nyadan yalıtan bir boşluktur.**
+    - C-) Alan ve mek&acirc;nın Gestalt&rsquo;ın &ldquo;şekil-zemin ilkesiyle&rdquo; bir bağlantısı yoktur.<br />
+    - D-) Tasarımcı pozitif bir alan ve mek&acirc;n yaratmak istediğinde, ana &ouml;geyi son planda kurgulamalıdır.
+    - E-) Alan ve mek&acirc;n, tasarımın temelini oluşturmaz.
     ***
 1. <strong>Aşağıdakilerden hangisi tasarımın ilk aşamasını oluşturur?</strong>
     - **Cevap A-) Boşluk**
@@ -1531,6 +1560,14 @@ Yukarıda verilen se&ccedil;eneklerden hangisi/hangileri alan ve mek&acirc;n yar
     - C-) Kurgu kavramı &ldquo;planlama&rdquo; ve &ldquo;zamanlama&rdquo; ile bağ i&ccedil;erisindedir.
     - D-) Kurgu, insan eyleminin temelini oluşturur.
     - E-) Kurgunun &ouml;n şartı, duyusal etkileşimin sonucu olarak algının devreye girmesidir.
+    ***
+1. Kurgu ve yapılandırma a&ccedil;ısından herhangi bir tasarıma y&ouml;nelik sonsuz sayıda g&ouml;rsel..........&uuml;retilebilir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) kurgu
+    - B-) renk
+    - C-) alan
+    - **Cevap D-) fikir**
+    - E-) detay
     ***
 1. ........ genel olarak sinemayla anılan bir terim olmasına rağmen, t&uuml;m sanatsal ve tasarımsal yaratıda, işitsel veya g&ouml;rsel fikrin ilk adımını oluşturur.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
@@ -1861,6 +1898,13 @@ III. Tasarımda organik olanı &ouml;ne &ccedil;ıkarmak, tasarımın i&ccedil;e
     - D-) orta
     - **Cevap E-) boş**
     ***
+1. <strong>Aşağıdakilerden hangisi hiyerarşi kavramının toplumsal yaşamdaki etkinliğiyle ilgili &ouml;rnek olarak <u>s&ouml;ylenemez</u>?</strong>
+    - A-) Anayasa
+    - B-) Y&ouml;netmelik
+    - **Cevap C-) &Ccedil;er&ccedil;eve**
+    - D-) T&uuml;z&uuml;k
+    - E-) Kanun
+    ***
 1. <strong>Tasarımda hiyerarşik yapılandırma ve vurguyla ilgili olarak aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
     - A-) Tasarım &ouml;ğelerini kuşatan ve toparlayıcı bir etkendir.
     - B-) Tasarımcının hedef kitle ve amacı doğrultusunda şekillenmelidir.
@@ -2052,6 +2096,16 @@ III. Hareket<br />
     - **Cevap C-) Kalın &#231;izgiler**
     - D-) Kavis &#231;izgiler
     - E-) Kesişen &#231;izgiler
+    ***
+1. I. RGB<br />
+II. CDYK<br />
+III. Pantone<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri tasarımda kullanılan renk &ccedil;eşitlerinden&nbsp;<u>değildir</u>?</strong>
+    - A-) Yalnız III
+    - B-) I, II ve III
+    - C-) I ve II
+    - D-) II ve III
+    - **Cevap E-) Yalnız II**
     ***
 1. <strong>Gestalt Kuramı&#39;yla ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
     - A-) B&uuml;t&uuml;n&uuml;n par&ccedil;aların toplamından daha k&uuml;&ccedil;&uuml;k olduğunu iddia eder.

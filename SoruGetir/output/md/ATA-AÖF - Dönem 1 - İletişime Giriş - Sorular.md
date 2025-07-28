@@ -150,7 +150,7 @@ III. İletişim sembollerle y&uuml;r&uuml;t&uuml;l&uuml;r.<br />
     - D-) Alıcının tecr&uuml;besinin az olması veya daha &ouml;nce hi&ccedil; karşılaşmadığı bir konudan bahsedilmesi h&acirc;linde g&ouml;ndericinin ona konu ile ilgili kısa bir a&ccedil;ıklama ve tanım yapmasını gerektirebilir.&nbsp;
     - **Cevap E-) Kaynak somut ifade ve sembollerden &ccedil;ok soyut semboller kullanmalıdır.**
     ***
-1. <strong>Bir iletişim s&uuml;recinde, s&uuml;recin başlamasına yol a&ccedil;ıp duygu ve d&uuml;ş&uuml;ncelerini &ccedil;eşitli iletişim bi&ccedil;imleriyle karşısındaki kişi ya da kişilere aktarmak &uuml;zere harekete ge&ccedil;enlere verilen isim aşağıdakilerden hangisidir?</strong>
+1. <strong>Bir iletişim s&uuml;recinde, s&uuml;recin başlamasına yol a&ccedil;ıp duygu ve d&uuml;ş&uuml;ncelerini &ccedil;eşitli iletişim bi&ccedil;imleriyle karşısındaki kişi ya da kişilere aktarmak &uuml;zere harekete ge&ccedil;enlere ne ad verilir?</strong>
     - **Cevap A-) Kaynak**
     - B-) G&uuml;r&uuml;lt&uuml;
     - C-) Mesaj
@@ -667,10 +667,10 @@ III. İnsanların hafızalarını g&uuml;&ccedil;lendirir.<br />
     - **Cevap E-) Mektup**
     ***
 1. <strong>Aşağıdakilerden hangisi bir insanın d&uuml;ş&uuml;nmesine, i&ccedil; g&ouml;zlem yapmasına y&ouml;nelik iletişim t&uuml;r&uuml;d&uuml;r?</strong>
-    - **Cevap A-) Kişi-i&ccedil;i iletişim**
+    - **Cevap A-) Kişi i&ccedil;i iletişim**
     - B-) S&ouml;zs&uuml;z iletişim
     - C-) Yazılı iletişim
-    - D-) Kişilerarası iletişim
+    - D-) Kişiler arası iletişim
     - E-) S&ouml;zl&uuml; iletişim
     ***
 1. <strong>Aşağıdakilerden hangisi matbaanın icadı ile yaygınlaşan iletişim t&uuml;r&uuml;d&uuml;r?</strong>
@@ -896,6 +896,13 @@ IV. Kullanılan dil<br />
     - D-) S&ouml;zl&uuml; iletişim
     - **Cevap E-) Kişilerarası iletişim**
     ***
+1. <strong>G&uuml;nl&uuml;k yaşamda aile&nbsp;dışı ilişkilerin s&uuml;rd&uuml;r&uuml;ld&uuml;ğ&uuml; iş arkadaşlığı ve birebir ilişkilerin ger&ccedil;ekleştiği alan aşağıdakilerden hangisidir?</strong>
+    - A-) Sosyal alan
+    - **Cevap B-) Kişisel alan**
+    - C-) &Ouml;zel alan
+    - D-) Kamusal alan
+    - E-) Genel alan
+    ***
 1. S&ouml;zc&uuml;klerin tonlaması, vurgusu, kelimeler arasında verilen sessiz esler, konuşma esnasında kullanılan &quot;ııhhh, ımmm&quot; gibi anlamsız sesleri ifade eden ..................., iletişimin sesli ama s&ouml;zs&uuml;z unsurudur.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) jestler
@@ -1110,11 +1117,11 @@ IV. Merkez&icirc;leşme derecesi d&uuml;ş&uuml;k<br />
     - E-) Danışma b&uuml;roları
     ***
 1. <strong>Aşağıdakilerden hangisi kurum i&ccedil;i iletişime duyulan gereksinimin nedenleri arasında <u>yer almaz</u>?</strong>
-    - A-) Ama&ccedil;lara ulaşmak i&ccedil;in planlar geliştirmek.
-    - B-) İnsan kaynaklarını&nbsp;organize etmek.
-    - C-) &Ccedil;alışanlara moral ve motivasyon kazandırmak.
-    - D-) Kurumsal bağlılık ve kurumsal etkinliği artırmak.
-    - **Cevap E-) Y&ouml;neticilerin &ccedil;alışanlar &uuml;zerindeki yetkilerini artırmak.**
+    - A-) Ama&ccedil;lara ulaşmak i&ccedil;in planlar geliştirmek
+    - B-) İnsan kaynaklarını&nbsp;organize etmek
+    - C-) &Ccedil;alışanlara moral ve motivasyon kazandırmak
+    - D-) Kurumsal bağlılık ve kurumsal etkinliği artırmak
+    - **Cevap E-) Y&ouml;neticilerin &ccedil;alışanlar &uuml;zerindeki yetkilerini artırmak**
     ***
 1. <strong>Aşağıdakilerden hangisi kurum i&ccedil;i iletişimin işlevleri arasında <u>yer almaz</u>?</strong>
     - A-) İkna etme ve etkileme&nbsp;
@@ -1241,6 +1248,13 @@ III. 1950&rsquo;lerle birlikte d&uuml;nyada televizyon &ccedil;ağı başlamış
     - D-) Marconi
     - **Cevap E-) Lumiere Kardeşler**
     ***
+1. <strong>Radyonun g&uuml;n&uuml;m&uuml;zde daha fazla &ouml;ne &ccedil;ıkan işlevi aşağıdakilerden hangisidir?</strong> 
+    - A-) Demokratik katılım
+    - B-) Eğitim
+    - **Cevap C-) M&uuml;zik-eğlence**
+    - D-) Kamuoyu oluşturma
+    - E-) Bilgilendirme
+    ***
 1. <strong>Aşağıdakilerden hangisi T&uuml;rkiye&rsquo;de dergi yayıncılığının karşı karşıya olduğu sorunlardan biri <u>değildir</u>?</strong> 
     - **Cevap A-) Dergi sayısının azlığı**
     - B-) Dağıtımdaki sıkıntılar
@@ -1317,6 +1331,13 @@ III. 1950&rsquo;lerle birlikte d&uuml;nyada televizyon &ccedil;ağı başlamış
     - **Cevap C-) Mektup**
     - D-) Televizyon
     - E-) Radyo
+    ***
+1. <strong>Aşağıdakilerden hangisi kitle iletişiminin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - A-) Teknolojiyi gerekli kılar.
+    - B-) Hedef kitlesi &ccedil;ok geniştir.
+    - C-) Profesyonellik gerektirir.
+    - **Cevap D-) Tek y&ouml;nl&uuml;d&uuml;r.**
+    - E-) Hedef kitleyle etkileşim h&acirc;linde gelişir.
     ***
 1. <strong>&quot;Radyolar Savaşı&quot; olarak tarihe ge&ccedil;ebilecek kadar radyoların propaganda silahına d&ouml;n&uuml;şt&uuml;r&uuml;ld&uuml;ğ&uuml; savaş aşağıdakilerden hangisidir?</strong>
     - A-) Birinci D&uuml;nya Savaşı
@@ -1772,7 +1793,6 @@ IV. Kamuoyunu Bilgilendirme Modeli<br />
 1. I. N&uuml;fus artışı<br />
 II. Pazarlama y&ouml;ntemleri<br />
 III. İkna teknikleri<br />
-<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri siyasal iletişim kavramının gelişmesinde etkili <u>olmamıştır</u>?</strong>
     - **Cevap A-) Yalnız I**
     - B-) I ve II
@@ -1782,7 +1802,7 @@ III. İkna teknikleri<br />
     ***
 1. <strong>Aşağıdakilerden hangisi siyasal iletişimin ama&ccedil;larından biri <u>d</u></strong><u><strong>eğildi</strong></u><strong><u>r</u>?</strong>
     - A-) Kamuoyu beklentilerinin &ouml;l&ccedil;&uuml;mlenebilmesi
-    - **Cevap B-) Toplumsal hoşg&ouml;r&uuml;n&uuml;n geliştirilmesi**
+    - **Cevap B-) Toplumsal hoş g&ouml;r&uuml;n&uuml;n geliştirilmesi**
     - C-) Siyasal mesajların iletilmesi
     - D-) Geri bildirim kanallarının tesis edilmesi
     - E-) Kanaat &ouml;nderlerinin etkilenmesi
@@ -1966,11 +1986,11 @@ III. Farklı &ouml;zelliklere sahip bireylerde değişik etkilerin olacağının
     - E-) İnteraktif nitelik taşıması
     ***
 1. <strong>Aşağıdakilerden hangisi medya mesajlarının &ouml;zelliklerinden biri <u>değildir</u>?</strong>
-    - A-) Hem doğrudan hem dolaylı anlamlar taşırlar
-    - **Cevap B-) Tek boyutludurlar**
-    - C-) Değer ve ideoloji ile y&uuml;kl&uuml;d&uuml;rler
-    - D-) Ger&ccedil;ekliğin inşasında etkili bir g&uuml;ce sahiptirler
-    - E-) İzleyicinin niteliğine g&ouml;re farklı yorumlanabilirler
+    - A-) Hem doğrudan hem dolaylı anlamlar taşır.
+    - **Cevap B-) Tek boyutludur.**
+    - C-) Değer ve ideoloji ile y&uuml;kl&uuml;d&uuml;r.
+    - D-) Ger&ccedil;ekliğin inşasında etkili bir g&uuml;ce sahiptir.
+    - E-) İzleyicinin niteliğine g&ouml;re farklı yorumlanabilir.
     ***
 1. <strong>Aşağıdakilerden hangisi medya okuryazarlığına ilişkin doğru bir &ouml;nermedir?</strong>
     - A-) Tarihsel s&uuml;re&ccedil; i&ccedil;erisinde değişiklik g&ouml;stermez.
@@ -2189,6 +2209,13 @@ III. 1990&rsquo;larda SSCB&rsquo;nin dağılması sonucu g&uuml;&ccedil; dengesi
     - C-) kontrol - bilgilendirme
     - **Cevap D-) tanıtım - denetleme**
     - E-) denetim - g&ouml;zetim
+    ***
+1. <strong>Aşağıdakilerden hangisi k&uuml;resel medya sistemlerinden biridir?</strong>
+    - A-) CN
+    - **Cevap B-) AP**
+    - C-) PA
+    - D-) NC
+    - E-) BB
     ***
 1. ......... iletişim ise; &uuml;lkelerin b&ouml;lgesel (AB- Avrupa Birliği, İKO-İslam Konferansı &Ouml;rg&uuml;t&uuml;, KEİ: Karadeniz Ekonomik İş Birliği, NAFTA- Kuzey Amerika &Uuml;lkeleri Serbest Ticaret Anlaşması, NATO) ve k&uuml;resel d&uuml;zeyde (NATO- Kuzey Atlantik Antlaşması Teşkilatı, BM-Birleşmiş Milletler) &ouml;rg&uuml;tlenerek y&uuml;r&uuml;tt&uuml;kleri ilişkileri kapsar.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -2426,6 +2453,13 @@ IV. Enformasyon hizmetleri<br />
     - D-) end&uuml;striyel toplum
     - E-) iletişim toplumu
     ***
+1. <strong>&quot;Enformasyon Toplumu&quot; kavramı ilk olarak kim tarafından kullanılmıştır?</strong>
+    - A-) Daniel Bell
+    - **Cevap B-) Fritz Machlup**
+    - C-) Harold Innis
+    - D-) Marshall McLuhan
+    - E-) Manuel Castells
+    ***
 1. 2004 yılında geliştirilen .............. internet kullanıcılarını pasif kullanıcılardan aktif kullanıcılara d&ouml;n&uuml;şt&uuml;rm&uuml;şt&uuml;r.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;&nbsp;</strong>
     - A-) Web 1.0
@@ -2559,6 +2593,13 @@ III. Meta etik<br />
     - C-) Coca-Cola ile ilgili bilin&ccedil;altı reklamlar
     - D-) Politikacılarla ilgili reklamların y&ouml;nlendiriciliği
     - E-) Oyuncak reklamlarında &ccedil;ocukların s&ouml;m&uuml;r&uuml;lmesi
+    ***
+1. <strong>Aşağıdakilerden hangisi halkla ilişkiler mesleğinin &ouml;nc&uuml; isimlerinden Edward Bernays&#39;ın&nbsp;Kamuoyunun Belirginleşmesi ya da Kristalleşmesi adlı eserinde belirttiği halkla ilişkiler mesleğinin belirleyici ilke, uygulama ve kurallarından biri <u>değildir</u>?</strong>
+    - A-) &Ouml;nceden yazılı izin alınmadan hi&ccedil; kimsenin yazı ve s&ouml;zlerini kullanmayız.
+    - B-) Halkı anlamak i&ccedil;in kişisel ilişki &ouml;n koşuldur.&nbsp;
+    - C-) S&ouml;zc&uuml;klerin arkasındaki anlamları dikkatle d&uuml;ş&uuml;nmek &ccedil;ok &ouml;nemlidir.
+    - **Cevap D-) İyi niyet kendi başına bir ama&ccedil; olarak d&uuml;ş&uuml;n&uuml;lebilir.**
+    - E-) Halkla ilişkiler &ccedil;abası dolaysız olarak harekete ge&ccedil;irilmeden meydana gelmeli ve yaratılan etkiye g&ouml;re değerlendirilmelidir.
     ***
 1. <strong>İnsanı en fazla hoşnut edecek davranışın etik bir davranış olduğunu ileri s&uuml;ren anlayışa verilen isim aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Teleolojik Etik**

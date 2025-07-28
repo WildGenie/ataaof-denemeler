@@ -148,6 +148,16 @@ IV. Pazarlama stratejileri<br />
     - D-) İ&ccedil;erik Analizi
     - E-) Durum Analizi
     ***
+1. I. Reklamın i&ccedil;inde bulunduğu durumu değerlendirmek<br />
+II. Rekabet ortamında başarıyı sağlayacak &uuml;r&uuml;n&uuml; &ouml;n plana &ccedil;ıkartmak<br />
+III.&nbsp;Rekabet ortamında başarıyı sağlayacak markayı ortaya &ccedil;ıkarmak<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri pazarlamacılar ve reklamcılar tarafından belirlenen reklam s&uuml;re&ccedil;leri arasında yer alır?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) Yalnız III
+    - D-) I ve II
+    - **Cevap E-) I, II ve III**
+    ***
 1. <strong>Aşağıdakilerden hangisi reklamın başarısını etkileyen &uuml;&ccedil;gendir?</strong>
     - **Cevap A-) Mesaj-medya-t&uuml;ketici &uuml;&ccedil;geni**
     - B-) Medya-&uuml;retici-siyaset &uuml;&ccedil;geni
@@ -162,8 +172,8 @@ IV. Pazarlama stratejileri<br />
     - D-) Ekonomik ve g&uuml;ncel olaylar
     - E-) Teknolojik &ccedil;evre
     ***
-1. I.&nbsp; &nbsp;Reklamın hedef kitlede nasıl bir etki bıraktığı<br />
-II.&nbsp; Reklamın kitleyi nasıl y&ouml;nlendirdiği<br />
+1. I. Reklamın hedef kitlede nasıl bir etki bıraktığı<br />
+II. Reklamın kitleyi nasıl y&ouml;nlendirdiği<br />
 III. Reklamın kitleyi nasıl bilgilendirdiği<br />
 <strong>Yukarıdakilerden hangisine ya da hangilerine reklam analizleri aracılığıyla ulaşılabilir?</strong>
     - A-) Yalnız I
@@ -269,6 +279,16 @@ III. G&uuml;&ccedil;l&uuml; etki<br />
     - **Cevap C-) Orijinallik**
     - D-) Dikkat
     - E-) Tatmin
+    ***
+1. I. Marka ve hedef kitle arasında ilişki kurmalı<br />
+II. Bir satış fikri sunmalı<br />
+III. Beklenmedik olmalı<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri yaratıcı reklamı betimlemektedir?</strong> 
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
     ***
 1. <strong>Aşağıdakilerden hangisi transformasyonel stratejilerden biridir?</strong> 
     - **Cevap A-) Kullanıcı kişiliği**
@@ -706,12 +726,26 @@ III. Derinlik<br />
     - D-) Arka ışık
     - E-) Dolgu ışık
     ***
+1. <strong>Maviye doğru giden, h&uuml;z&uuml;n, yalnızlık, soğuk gibi &ccedil;ağrışımlar yapabilen renklere ne ad verilir?</strong> 
+    - A-) Canlı renkler
+    - B-) Sıcak renkler
+    - C-) Ilık renkler
+    - **Cevap D-) Soğuk renkler**
+    - E-) Mat renkler
+    ***
 1. <strong>Amerikan plan ya da 3/4 &ccedil;ekim &ouml;l&ccedil;eği olarak adlandırılan &ccedil;ekim aşağıdakilerden hangisidir?</strong> 
     - A-) Detay &ccedil;ekim
     - B-) Boy &ccedil;ekim
     - **Cevap C-) Diz &ccedil;ekim**
     - D-) Genel &ccedil;ekim
     - E-) Uzak &ccedil;ekim
+    ***
+1. <strong>Aşağıdaki planlardan hangisi yakın &ccedil;ekim/planlara &ouml;rnek olarak verilebilir?</strong> 
+    - A-) Genel &ccedil;ekim
+    - B-) &Uuml;st a&ccedil;ı
+    - C-) Boy &ccedil;ekim
+    - D-) Toplu &ccedil;ekim
+    - **Cevap E-) Omuz &ccedil;ekim**
     ***
 1. .................. kullanmanın dramatik etkisiyle sahnelerde kişi &ccedil;aresiz, zavallı, aşağılanmış, sıkıntılı bir durumda yansıtılabilir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
@@ -1176,7 +1210,7 @@ III. Zaman &ouml;ncelikler temelinde planlanır ve d&uuml;zenli kullanılır.<br
     - D-) K&uuml;lt&uuml;r değişebilir.
     - **Cevap E-) K&uuml;lt&uuml;r y&ouml;nlendirilebilir.**
     ***
-1. <strong>Hall, Enformasyon Sistemleri Kuramına g&ouml;re kişilerin iletişim s&uuml;recindeki davranışlarını temel alarak k&uuml;lt&uuml;r&uuml; sınıflandırmaktadır. &ldquo;&hellip;.. k&uuml;lt&uuml;rde, enformasyonun b&uuml;y&uuml;k bir &ccedil;oğunluğu fiziki bağlamda ve bir miktarı da alıcının kendisi tarafından algılanmaktadır&rdquo; ifadesinde hangi k&uuml;lt&uuml;r&uuml;n &ouml;zellikleri a&ccedil;ıklanmıştır?</strong> 
+1. <strong>Hall, Enformasyon Sistemleri Kuramı&#39;na g&ouml;re kişilerin iletişim s&uuml;recindeki davranışlarını temel alarak k&uuml;lt&uuml;r&uuml; sınıflandırmaktadır. &ldquo;Bu k&uuml;lt&uuml;rde, enformasyonun b&uuml;y&uuml;k bir &ccedil;oğunluğu fiziki bağlamda ve bir miktarı da alıcının kendisi tarafından algılanmaktadır.&rdquo; ifadesinde hangi k&uuml;lt&uuml;r&uuml;n &ouml;zellikleri a&ccedil;ıklanmıştır?</strong> 
     - **Cevap A-) Geniş bağlamlı k&uuml;lt&uuml;r**
     - B-) Dar bağlamlı k&uuml;lt&uuml;r
     - C-) D&uuml;ş&uuml;k bağlamlı k&uuml;lt&uuml;r
@@ -1272,6 +1306,13 @@ III. K&uuml;lt&uuml;r, zaman i&ccedil;inde gelenek, g&ouml;renek, t&ouml;ren vb.
     - D-) Semboller
     - E-) Gelenekler
     ***
+1. <strong>Bir toplumun ya da &uuml;lkenin her sosyal grubu ve coğrafyasında ge&ccedil;erli olan, benimsenen ve yaşanan egemen değer ve unsurları kapsayan k&uuml;lt&uuml;r aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Ulusal K&uuml;lt&uuml;r**
+    - B-) Maddi K&uuml;lt&uuml;r
+    - C-) Y&uuml;ksek K&uuml;lt&uuml;r&nbsp;
+    - D-) Ger&ccedil;ek K&uuml;lt&uuml;r&nbsp;
+    - E-) Manevi K&uuml;lt&uuml;r&nbsp;
+    ***
 ## Unite 7
 1. <strong>Aşağıdakilerden hangisi k&uuml;reselleşmenin sonu&ccedil;larından biri <u>değildir</u>?</strong>
     - A-) K&uuml;reselleşme, d&uuml;nyanın k&uuml;&ccedil;&uuml;lmesini sağlamıştır.
@@ -1332,6 +1373,13 @@ III. K&uuml;lt&uuml;rel<br />
     - C-) &Uuml;retici ve t&uuml;ketici arasında k&ouml;pr&uuml; kurmak
     - **Cevap D-) &Uuml;retim ve t&uuml;ketim arasında dengesizlik yaratmak**
     - E-) &Uuml;r&uuml;n ve hizmetin kullanımını teşvik etmek
+    ***
+1. <strong>T&uuml;ketim toplumu aşağıdaki toplumlardan hangisine &ouml;zg&uuml; bir kavramlaştırmadır?</strong>
+    - A-) İlkel toplum
+    - **Cevap B-) Kapitalist toplum**
+    - C-) Tarım toplumu
+    - D-) G&ouml;&ccedil;ebe toplum
+    - E-) Sosyalist toplum
     ***
 1. <strong>Yeni iletişim teknolojileri ve internetin yaygınlaşması ile tetiklenen, &ccedil;ok uluslu şirketler ve onların k&uuml;lt&uuml;rel-ideolojik etkileri ile şekillenen k&uuml;reselleşme aşaması aşağıdakilerden hangisidir?</strong>
     - A-) Birinci aşama
@@ -1954,13 +2002,13 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
     - D-) İş&ccedil;i sınıfı
     - E-) T&uuml;ketim toplumu
     ***
-1. &ldquo;Birey kendi sahip olduğu benliğine, kişiliğine &hellip;&hellip;&hellip;&hellip;.., kendini yeniden ve reklamda sunulduğu şekilde oluşturmak i&ccedil;in reklamı yapılan &uuml;r&uuml;n&uuml; almaya zorunlu hisseder.&rdquo;<br />
+1. Birey kendi sahip olduğu benliğine, kişiliğine &hellip;&hellip;&hellip;&hellip;.., kendini yeniden ve reklamda sunulduğu şekilde oluşturmak i&ccedil;in reklamı yapılan &uuml;r&uuml;n&uuml; almaya zorunlu hisseder.<br />
 <strong>C&uuml;mlede boş bırakılan yere Marksist Analiz a&ccedil;ısından aşağıdaki kavramlardan hangisi getirilmelidir?</strong> 
-    - A-) Maddecilik
-    - B-) &Uuml;st yapı
-    - **Cevap C-) Yabancılaşma**
-    - D-) Sınıf &ccedil;atışması
-    - E-) Hegemonya
+    - A-) maddecilik
+    - B-) &uuml;st yapı
+    - **Cevap C-) yabancılaşma**
+    - D-) sınıf &ccedil;atışması
+    - E-) hegemonya
     ***
 1. <strong>Reklamda sunulanın, ger&ccedil;ekten bu &uuml;r&uuml;n&uuml;n alıcısı olmadığını ve reklamda bireyin ger&ccedil;ekte olmadığı ama &ouml;zendiği, olmak istediği kişilik &ouml;zelliklerinin yansıtılarak sunulduğunu ileri s&uuml;ren ve reklama kişinin yabancılaşması, egemen ideolojinin sunduğu d&uuml;nya g&ouml;r&uuml;ş&uuml;n&uuml; benimsemesi, kendinden uzaklaşması işlevlerini y&uuml;kleyen bakış a&ccedil;ısı&nbsp;aşağıdakilerden hangisidir?</strong>
     - A-) T&uuml;ketime Dayalı Bakış A&ccedil;ısı&nbsp;
@@ -1995,7 +2043,7 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
 ​II. Raslantısal<br />
 III. Evrensel<br />
 ​IV. Yerel<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri sembol sınıflandırmalarından biri&nbsp;<u>değildir</u>?</strong>
+<strong>Yukarıdakilerden hangisi ya da hangileri sembol sınıflandırmalar arasında <u>yer almaz</u>?</strong>
     - A-) Yalnız I
     - B-) Yalnız III
     - **Cevap C-) Yalnız IV**
@@ -2213,12 +2261,12 @@ III. Kanıtların İleri S&uuml;r&uuml;lmesi Kuralı<br />
     - D-) Hesapverilebilirlik ve hukuki boyutu
     - E-) Ahlaki ve etik boyutu
     ***
-1. <strong>Toplumbilimciler reklam analizlerine neden başvururlar?</strong> 
+1. <strong>Toplum bilimciler reklam analizlerine neden başvururlar?</strong> 
     - A-) Toplumu y&ouml;nlendirmek i&ccedil;in
     - B-) Reklamları eğlenceli buldukları i&ccedil;in
     - **Cevap C-) Toplum hakkında yargılara varmak i&ccedil;in**
     - D-) Gelecek hakkında bir &ouml;ng&ouml;r&uuml;ye sahip olmak i&ccedil;in
-    - E-) Reklamın manip&uuml;lasyon etkisini arttırabilmek i&ccedil;in
+    - E-) Reklamın manip&uuml;lasyon etkisini artırabilmek i&ccedil;in
     ***
 1. I.&nbsp; &nbsp;Toplumsal g&uuml;&ccedil; ve iktidar ilişkilerini irdeler.<br />
 II.&nbsp;&nbsp;Var olan egemen yapıya karşı &ccedil;ıkar.<br />
@@ -2321,6 +2369,15 @@ III. Eşitlik, hakkaniyet, adalet, toplumsal ve kamusal &#231;ıkarları gibi de
     - C-) Bireyselcilik
     - D-) Evrensellik
     - E-) &Ccedil;atışmacılık
+    ***
+1. Durkheim&rsquo;ın yaklaşımında şey olarak nitelendirdiği unsur, Weber&rsquo;in yaklaşımında ....................... olarak karşımıza &ccedil;ıkar.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
+
+    - A-) değişken yapılar
+    - B-) eylemsellikler
+    - C-) sorunsallar
+    - **Cevap D-) ideal tipler**
+    - E-) kod a&ccedil;ıcılar
     ***
 1. <strong>Aşağıdakilerden hangisi Durkheim&rsquo;in toplumbilimsel analize dair geliştirdiği kurallardan biridir?</strong>
     - A-) Değer Yargılarından Arınma Kuralı
@@ -2601,7 +2658,7 @@ IV. Kamera hareketleri<br />
     - E-) II, III ve IV
     ***
 1. <strong>&quot;Feminist Hareket&#39;in ve Kuramı&#39;n işaret ettiği gibi, erkeklik ve kadınlık kategorileri par&ccedil;alı ve değişkendir.&rdquo; &ouml;nermesi aşağıdakilerden hangisini ifade etmektedir?</strong> 
-    - **Cevap A-) Toplumsal cinsiyet rollerinin sabit olmadığını**
+    - **Cevap A-) Toplumsal cinsiyet rollerinin sabit olmadığını<br type="_moz" />**
     - B-) Kadınların geleneksel rolleri i&ccedil;ine sıkışıp kaldığını
     - C-) Feminist hareketin t&uuml;ketim toplumunun etkisi altında kaldığını
     - D-) Eşcinsellerin ve kadınların baskı altında olduğunu

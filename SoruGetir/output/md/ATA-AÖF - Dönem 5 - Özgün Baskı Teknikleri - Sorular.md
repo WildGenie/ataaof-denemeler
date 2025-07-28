@@ -123,6 +123,13 @@ IV.&nbsp;Silindir damga m&uuml;h&uuml;rler<br />
     - **Cevap D-) Fenike Alfabesi**
     - E-) G&ouml;kt&uuml;rk&ccedil;e
     ***
+1. <strong>Silindir m&uuml;h&uuml;rlerin kullanımında aşağıdakilerden hangisi tercih edilmiştir?</strong>
+    - A-) Kazıma Y&ouml;ntemi
+    - B-) Basma Y&ouml;ntemi&nbsp;
+    - **Cevap C-) D&ouml;nd&uuml;rme Y&ouml;ntemi&nbsp;**
+    - D-) Sıvama Y&ouml;ntemi
+    - E-) Ezme Y&ouml;ntemi
+    ***
 ## Unite 2
 1. <strong>Baskıresim aşağıdakilerden hangisidir?</strong>
     - A-) Tekniktir.
@@ -236,7 +243,7 @@ IV.&nbsp;Silindir damga m&uuml;h&uuml;rler<br />
     - D-) Sembolist temaların h&acirc;kimiyeti&nbsp;
     - E-) Litografi tekniğinin eksiksiz kullanımı
     ***
-1. <strong>Afiş tasarımında renkli basım kolaylığı sağlayan hangi baskıresim tekniği sıklıkla tercih edilmiştir?</strong>
+1. <strong>Afiş tasarımında renkli basım kolaylığı sağlayan hangi baskı resim tekniği sıklıkla tercih edilmiştir?</strong>
     - **Cevap A-) Litografi**
     - B-) Linol baskı
     - C-) Serigrafi
@@ -474,6 +481,13 @@ Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
     - D-) Dikey &ccedil;izgilerle boyanarak
     - E-) Dairesel &ccedil;izgilerle
     ***
+1. <strong>Aşağıdakilerden hangisi &ccedil;ukur baskıda kullanılan metal plakalardan biri&nbsp;<u>değildir</u>?</strong>
+    - A-) &Ccedil;inko
+    - B-) Bakır
+    - **Cevap C-) G&uuml;m&uuml;ş**
+    - D-) Pirin&ccedil;
+    - E-) &Ccedil;elik
+    ***
 1. <strong>Genelde &ccedil;ok kalabalık kompozisyonlar, belirli bir naif kalite ve yoğun bir din&icirc; duygu ile yaklaşık yetmiş &uuml;&ccedil; plaka &uuml;retmiş olan Fransız baskı sanat&ccedil;ısı aşağıdakilerden hangisidir?</strong>
     - A-) Andre Mantegna
     - B-) Lucas van Leyden
@@ -679,7 +693,7 @@ Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
     - D-) Unione
     - E-) Aquatinte
     ***
-1. <strong>Aşağıdakilerden hangisinde Chiaroscuro grav&uuml;r&uuml;n a&ccedil;ıklaması verilmiştir.</strong>
+1. <strong>Aşağıdakilerden hangisinde Chiaroscuro grav&uuml;r&uuml;n a&ccedil;ıklaması verilmiştir?</strong>
     - A-) Dokunun yoğun olması
     - B-) Işık ve rengin yumuşak ge&ccedil;işi
     - C-) Rengin sert kontrastı
@@ -745,7 +759,7 @@ Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
     - E-) Estetizm
     ***
 1. Başta Claude Monet (1840- 1926) olmak &uuml;zere bir grup gen&ccedil; ressam, g&uuml;n ışığında g&ouml;rd&uuml;klerini ve ışığın nesneler &uuml;zerinde bıraktığı anlık izleri hızlıca yakalamaya &ccedil;alışarak tuvallerine aktarmışlardır. Hayatı g&ouml;rd&uuml;kleri gibi yansıtmaya &ccedil;alışan bu ressamlar, Japon ağa&ccedil; baskılarının sade ve d&uuml;z renklerinden ve g&uuml;nl&uuml;k hayattan sahneler yansıtmasından etkilenerek kendilerine &ouml;zg&uuml; tarzlarını oluşturmuşlardır.<br />
-<strong>Yukarıdaki bilgilere g&ouml;re, sanat&ccedil;ının ışığın etkisini kullanarak oluşturduğu resimler aşağıdaki akımlardan hangisine aittir?</strong>
+<strong>Verilen bilgilere g&ouml;re sanat&ccedil;ının ışığın etkisini kullanarak oluşturduğu resimler aşağıdakilerden hangisine aittir?</strong>
     - A-) Realizm
     - **Cevap B-) Empresyonizm**
     - C-) Barok
@@ -909,6 +923,13 @@ Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
     - D-) Pauline Boty
     - E-) Edward Munch
     ***
+1. <strong>Tek basım ya da tek anlamına gelen baskı t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+    - A-) Serigrafi
+    - B-) Taş baskı
+    - **Cevap C-) Mono baskı**
+    - D-) Ofset baskı
+    - E-) Şablon baskı
+    ***
 1. <strong>Aşağıdakilerden hangisi d&uuml;z baskı tekniğidir?</strong>
     - A-) Ağa&ccedil; Baskı
     - B-) Grav&uuml;r
@@ -1033,7 +1054,7 @@ Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
     - A-) Asetata negatif olarak desen &ccedil;izilir ve negatif alanlar m&uuml;rekkep ile boyanır.
     - B-) Asetatta oluşan g&ouml;r&uuml;nt&uuml; pozlama makinesi ile ipek şaselere ge&ccedil;irilir.
     - C-) Em&uuml;lsiyon denilen ışığa duyarlı serigrafi medyumu ile ipek şase kaplanır ve pozlandırma yapılır.
-    - **Cevap D-) Baskı kağıdının arkasına yerleştirilmiş bir gazete kağıdına &ccedil;izim yapılır.**
+    - **Cevap D-) Baskı k&acirc;ğıdının arkasına yerleştirilmiş bir gazete k&acirc;ğıdına &ccedil;izim yapılır.**
     - E-) Em&uuml;lsiyon malzemesi karanlık ortamda tazyikli su ile temizlenir.
     ***
 1. <strong>Dijital baskıların tercih edilmesinin en b&uuml;y&uuml;k nedeni aşağıdakilerden hangisidir?</strong>
@@ -1135,6 +1156,13 @@ Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
     - D-) G&uuml;nl&uuml;k hayatın zevk ve eğlencesini g&ouml;stermek
     - **Cevap E-) Budizm bilgisini yaymak**
     ***
+1. <strong>Japonya&#39;da, tahta baskının belgelenmiş en eski &ouml;rnekleri olan Japon selvi ağa&ccedil;larından oyulmuş nesnelere ne ad verilir?</strong>
+    - A-) Shogunate
+    - B-) Ukiyo-e
+    - C-) Sumizuru-e
+    - **Cevap D-) Pagoda**
+    - E-) Durani
+    ***
 1. <strong>Japonya'da Ukiyo-e sanatının ortaya &#231;ıkıp geliştiği d&#246;nem aşağıdakilerden hangisidir?</strong>
     - A-) Nara D&#246;nemi
     - B-) Meiji D&#246;nemi
@@ -1227,6 +1255,13 @@ Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
     - C-) 1991
     - D-) 1869
     - E-) 1976
+    ***
+1. <strong>Yaptığı &ccedil;alışmaları genel anlamda &ldquo;portreler, eller, mektup, yaratılış&rdquo; gibi isimlerle sınıflandıran T&uuml;rk sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
+    - A-) Hoca Ali Rıza
+    - B-) Devrim Erbil
+    - C-) S&uuml;leyman Saim Tekcan
+    - **Cevap D-) Ergin İnan**
+    - E-) Aliye Berger
     ***
 1. <strong>Klasik resim anlayışının &#246;tesinde, hazır nesne ve atık malzemelerin kullanıldığı akım hangisidir?</strong>
     - A-) Dışavurumculuk
@@ -1426,6 +1461,20 @@ Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
     - D-) Thomas Allom
     - E-) &nbsp;Joseph Schranz
     ***
+1. <strong>Yirmi bir par&ccedil;adan oluşan ve on bir metre uzunluğunda olan İstanbul panoraması grav&uuml;r&uuml; aşağıdakilerden hangisine aittir?</strong>
+    - A-) Giovan Maria Angionello
+    - B-) Conelis Van Bruyn
+    - C-) Tunuslu Hacı Ahmet
+    - **Cevap D-) Melchior Lorichs**
+    - E-) Giovanni Andrea Vavassore
+    ***
+1. <strong>Aşağıdakilerden hangisi R&ouml;nesans D&ouml;nemi&#39;nde Avrupa&rsquo;dan sanat&ccedil;ıların İstanbul&rsquo;a gelip Osmanlı k&uuml;lt&uuml;r&uuml;ne y&ouml;nelik &ccedil;alışmalar yapmasının nedenlerinden biri <u>değildir</u>?</strong>
+    - A-) Padişahların sanata değer vermesi
+    - B-) Osmanlı Devleti&rsquo;nin g&uuml;&ccedil;l&uuml; ekonomisi
+    - **Cevap C-) Avrupa&rsquo;nın sanat&ccedil;ıları dışlaması**
+    - D-) İstanbul&rsquo;da sanat&ccedil;ılara sağlanan imk&acirc;nlar
+    - E-) Osmanlı k&uuml;lt&uuml;r&uuml;n&uuml;n Batı &uuml;lkelerinden farklılıklara sahip olması
+    ***
 1. <strong>1900&rsquo;l&uuml; yılların başında canlı modelden &ccedil;alışma olanağı bulunmayan &ouml;ğrenciler i&ccedil;in &ouml;zellikle doğa g&ouml;r&uuml;n&uuml;mlerini, kır evlerini ve &ccedil;eşmeleri betimlediği karakalem &ccedil;izimler hazırlayıp taş baskı y&ouml;ntemi ile &ccedil;oğaltarak resim at&ouml;lyelerine dağıtmış olan T&uuml;rk ressam aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Cemal Tollu**
     - B-) Bedri Rahmi Ey&uuml;boğlu
@@ -1574,6 +1623,13 @@ Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
     - D-) Kitap ve k&uuml;t&uuml;phane sahipleri
     - E-) Sanat galerileri
     ***
+1. <strong>Ekslibris t&uuml;r&uuml; olmasa da onunla aynı işleve sahip olan se&ccedil;enek aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) M&uuml;h&uuml;r**
+    - B-) Logo
+    - C-) Kartvizit
+    - D-) Amblem
+    - E-) Broş&uuml;r
+    ***
 1. <strong>Ekslibris sanatının doruğunu yaşadığı d&ouml;nemlerin &ouml;nemli isimleri arasında hangi sanat&ccedil;ılar bulunmaktadır?</strong>
     - A-) Leonardo da Vinci ve Michelangelo
     - B-) Vincent van Gogh ve Claude Monet
@@ -1588,7 +1644,7 @@ Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
     - D-) Kitap etiketleri
     - E-) İmzalar
     ***
-1. <strong>Aşağıdaki sanat&ccedil;ılardan hangisi T&uuml;rkiye&#39;de ekslibris sanatının yayılmasına b&uuml;y&uuml;k katkı sağlamış ve 1997&#39;de Ankara Ekslibris Derneği&#39;ni kurmuştur?</strong>
+1. <strong>Aşağıdakilerden hangisi T&uuml;rkiye&#39;de ekslibris sanatının yayılmasına b&uuml;y&uuml;k katkı sağlamış ve 1997&#39;de Ankara Ekslibris Derneği&#39;ni kurmuştur?</strong>
     - A-) M&uuml;rşide İ&ccedil;meli
     - **Cevap B-) Hasip Pektaş**
     - C-) S&uuml;leyman Saim Tekcan

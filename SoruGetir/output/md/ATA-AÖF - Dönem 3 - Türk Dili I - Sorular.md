@@ -71,10 +71,10 @@
     - E-) &nbsp;Yazı dili ve konuşma dili ayrımını yapabilmek
     ***
 1. <strong>&nbsp;Aşağıdakilerden hangisi konuşma ve yazı dili arasındaki farklardan biri <u>değildir</u>?</strong>
-    - A-) Konuşma dili doğal, yazı dili yapma bir dildir.
+    - A-) Konuşma dili doğal, yazı dili ise yapay bir dildir.
     - B-) Yazı dili konuşma diline g&ouml;re daha yaygın ve geniş bir kullanım alanına sahiptir.
     - **Cevap C-) Bir &uuml;lkede birden fazla yazı buna karşılık tek konuşma dili vardır.**
-    - D-) Konuşma dili daha doğaldır.
+    - D-) Konuşma dili g&uuml;nl&uuml;k hayatta farklılıklar arz ederken yazı dili değişmezdir.
     - E-) Yazı dili konuşma diline g&ouml;re daha kuralcı bir yapıdadır.
     ***
 1. <strong>Aşağıdakilerden hangisi ses dilinin &ccedil;eşitli anlamlarından biri <u>değildir</u>?</strong><br />
@@ -166,6 +166,13 @@
     - C-) İnsan dili taklit yoluyla &ouml;ğrenir.
     - D-) İnsan &ouml;nce yazmayı sonra konuşmayı &ouml;ğrenir.
     - E-) İnsanın ne zaman ve nasıl konuştuğu belli değildir.
+    ***
+1. <strong>Aşağıdakilerden hangisi yazı dilinin &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Yapma bir dildir.
+    - B-) Kullanım alanı ve etkisi konuşma diline g&ouml;re daha geniştir.
+    - C-) Leh&ccedil;elerden ve ağızlardan birine g&ouml;re şekillenir.
+    - D-) Bir milletin millet olma s&uuml;recine &ouml;nemli katkılar sunar.
+    - **Cevap E-) B&ouml;lgeden b&ouml;lgeye değişen birtakım farklılıkları vardır.**
     ***
 1. <strong>Aşağıdakilerden hangisi konuşma dili ile yazı dili arasındaki farklardan biri <u>değildir</u>?</strong>
     - **Cevap A-) Bir &uuml;lkede bir konuşma dili, birden fazla yazı dili olabilir.**
@@ -539,6 +546,13 @@ III. p &uuml;ns&uuml;z&uuml; de s&ouml;z başında, birka&ccedil; T&uuml;rk&cced
     - D-) Arap&ccedil;a
     - **Cevap E-) &Ccedil;ince**
     ***
+1. <strong>T&uuml;rkiye T&uuml;rk&ccedil;esi hangi leh&ccedil;enin devamı niteliğindedir?</strong>
+    - A-) Kuzeybatı T&uuml;rk leh&ccedil;esi
+    - **Cevap B-) G&uuml;neybatı T&uuml;rk leh&ccedil;esi**
+    - C-) G&uuml;neydoğu T&uuml;rk leh&ccedil;esi
+    - D-) Kuzeydoğu T&uuml;rk leh&ccedil;esi
+    - E-) Azerbaycan T&uuml;rk leh&ccedil;esi
+    ***
 1. <strong>Aşağıdaki dillerden hangisi Ural-Altay Dil Ailesi&#39;nin Altay kolundadır?</strong>
     - A-) &Ccedil;ince
     - B-) Fince
@@ -743,6 +757,13 @@ Bu durumda eğitimli birey i&ccedil;in doğru davranış aşağıdakilerin hangi
     - D-) Benzeşme
     - E-) Genişleme
     ***
+1. <strong>T&uuml;rkler ilk olarak hangi alfabeyi kullanmıştır?</strong>
+    - **Cevap A-) G&ouml;kt&uuml;rk**
+    - B-) Uygur
+    - C-) Soğd
+    - D-) Arap
+    - E-) Kiril
+    ***
 ## Unite 5
 1. <strong>Aşağıdaki atas&ouml;zlerinden hangisi ger&ccedil;ek anlamıyla kullanılmıştır?</strong>
     - **Cevap A-) Sebepsiz &ouml;l&uuml;m olmaz.**
@@ -912,6 +933,13 @@ IV. G&ouml;zleri s&uuml;z&uuml;lmek<br />
     - C-) Aklı başa yaş getirir.
     - D-) Akıl i&ccedil;in yol birdir.
     - **Cevap E-) Minareyi &ccedil;alan kılıfını hazırlar.**
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde hem atas&ouml;z&uuml; hem de deyim anlamlı kelime kullanılmıştır?</strong>
+    - A-) Kafana takma iş işten ge&ccedil;ti. Olamayız artık eskisi gibi
+    - B-) Sen seni bil sen seni. Sen sıkı tut &ccedil;eneni.
+    - **Cevap C-) Sen kafaya takma beni. Acı patlıcanı kırağı &ccedil;almaz.**
+    - D-) Bir sinek bir kartalı salladı, vurdu yere.
+    - E-) Dilsiz &ccedil;ağırıp s&ouml;yler, dilimdeki s&ouml;z&uuml;m&uuml;
     ***
 1. Yarı mecaz anlamlı atas&ouml;zlerine aynı zamanda .................. s&ouml;yleyiş denir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -1085,6 +1113,13 @@ IV. Ayağımla konuşup, ağzımla d&ouml;n&uuml;nce&nbsp;<br />
     - C-) &quot;Benim alınım a&ccedil;ık, y&uuml;z&uuml;m ak.&quot; dedim kendi kendime.
     - D-) R&uuml;zg&acirc;rda yalınız başına y&uuml;r&uuml;yordu.
     - E-) Cinlerin beyinimde yaptığı d&uuml;ğ&uuml;n. Sulardan, seslerden ve gecelerden
+    ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde &uuml;ns&uuml;z benzeşmesinin &ouml;rneği <u>yoktur</u>?</strong>
+    - **Cevap A-) Teftiş adlı &ouml;yk&uuml;de b&uuml;rokrasinin bir k&uuml;&ccedil;&uuml;k memurun sırtına y&uuml;kledikleri &uuml;zerinden ironi eşliğinde ele alınışı ustacadır.**
+    - B-) Abdullah Harmancı&#39;ya (2022) g&ouml;re &ouml;yk&uuml; yazmak iddiası; &ouml;yk&uuml; yazarlarının metinlerini bilmeyi, tanımayı, okumayı, onların metinleriyle hesaplaşmayı gerektirir.
+    - C-) Sen de gittin gelmeyecek şeylerin d&uuml;nyasına g&ouml;m&uuml;ld&uuml;n. Bir daha d&ouml;nmen g&uuml;neşi g&ouml;rmen imk&acirc;nsızdır.
+    - D-) Nefesten yumuşak yağan bu yağmur bir g&uuml;n dinince aynalar y&uuml;z&uuml;m&uuml; tanımaz olur.
+    - E-) &Ccedil;oğu zaman bizi etkileyen bir esere duyduğumuz bir hayranlığı &ccedil;evremizle paylaşmaktan mutluluk duyarız.
     ***
 1. <strong>Aşağıdakilerden hangisinde damak-diş &uuml;ns&uuml;zleri bir arada verilmiştir?</strong>
     - **Cevap A-) c, &ccedil;, j, ş**
@@ -1388,6 +1423,13 @@ IV. Giderken <u>ansızın</u> d&ouml;n&uuml;p yaşlı g&ouml;zleriyle bize bakt�
     - D-) Akıllı d&uuml;şman, akılsız dosttan hayırlıdır.
     - E-) Kaynayan kazan kapak tutmaz.
     ***
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde bir deyim değiştirilerek s&ouml;ylenmiş ve anlam kaybına uğramıştır?</strong>
+    - **Cevap A-) Bu adamı aklım tutmadı.**
+    - B-) Kara g&uuml;n dostu olarak tanınmıştı.
+    - C-) Aklım d&uuml;n akşamki olaya takıldı.
+    - D-) Bug&uuml;nk&uuml; olaydan sonra&nbsp;ağzına lokma koymadı.
+    - E-) Şu yaramazın&nbsp;pabu&ccedil; kadar dili var.
+    ***
 1. <strong>Aşağıda deyimlerle ilgili verilen bilgilerden hangisi <u>yanlıştır</u>?</strong><br />
 <br />
 
@@ -1488,9 +1530,9 @@ IV. Ağzında bakla ıslanmamak<br />
     - **Cevap E-) Ev bark**
     ***
 1. <strong>Aşağıdaki ilişki s&ouml;zlerin hangisi diğerlerinden farklıdır?</strong>
-    - **Cevap A-) İyi saatte olsunlar.**
+    - A-) İyi saatte olsunlar.
     - B-) Yediğin i&ccedil;tiğin senin olsun gezdiğin g&ouml;rd&uuml;ğ&uuml;n yerleri anlat.
-    - C-) &Ouml;l&uuml;lerin ardından k&ouml;t&uuml; s&ouml;z s&ouml;ylenmez.
+    - **Cevap C-) &Ouml;l&uuml;lerin ardından k&ouml;t&uuml; s&ouml;z s&ouml;ylenmez.**
     - D-) K&uuml;&ccedil;&uuml;klerin g&ouml;zlerinden b&uuml;y&uuml;klerin ellerinden &ouml;perim.
     - E-) Ayıptır s&ouml;ylemesi.
     ***
@@ -1678,8 +1720,6 @@ IV. Ağzında bakla ıslanmamak<br />
     - E-) U&ccedil;akla Ankara&rsquo;ya yarın akşam Ahmet gidecek.
     ***
 1. <strong>&quot;Ovada sıralanan arsaların i&ccedil;inde koca koca binalar hızla y&uuml;kseliyordu.&quot; c&uuml;mlesinde hangi s&ouml;zc&uuml;kte c&uuml;mle vurgusu vardır?</strong><br />
-<br />
-<br />
 
     - **Cevap A-) Hızla**
     - B-) Koca koca
@@ -2156,11 +2196,11 @@ IV. Devrik<br />
     - E-) İnanılmaz bir acı duydu bileklerinde ancak bu ilk değildi.
     ***
 1. <strong>Aşağıdaki c&uuml;mlelerden hangisi &quot;mi&quot;li soru c&uuml;mlesine &ouml;rnektir?</strong>
-    - A-) Koşabilir mi koşamaz mı bilemiyorum
-    - **Cevap B-) Doğum g&uuml;n&uuml;n 3 Nisan mıydı**
-    - C-) Şu ma&ccedil;ı da aldık mı şampiyonuz
-    - D-) Ellerimden tuttun muydu hi&ccedil;bir engel aşılmaz değil evladım
-    - E-) Şu sınav bitti miydi rahatız
+    - A-) Koşabilir mi koşamaz mı bilemiyorum.
+    - **Cevap B-) Doğum g&uuml;n&uuml;n 3 Nisan mıydı?**
+    - C-) Şu ma&ccedil;ı da aldık mı şampiyonuz.
+    - D-) Ellerimden tuttun muydu hi&ccedil;bir engel aşılmaz değil evladım.
+    - E-) Şu sınav bitti miydi rahatız.
     ***
 1. <strong>&lsquo;&rsquo;Ellerini arkadan bağlamıştı ve beylik tabancası belindeydi.&rsquo;&rsquo; c&uuml;mlesinin &ouml;zellikleri aşağıdaki se&ccedil;eneklerden hangisinde doğru olarak verilmiştir?</strong>
     - **Cevap A-) Olumlu/Bağlı/Kurallı/İsim**

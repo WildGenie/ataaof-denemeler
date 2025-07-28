@@ -531,6 +531,13 @@ Tarihte &ldquo;Hatt-ı H&uuml;mayun&rdquo; olarak da anılan program padişah Ab
     - D-) I. Meşrutiyet
     - E-) Islahat Fermanı
     ***
+1. <strong>Gen&ccedil; Osmanlıların baskıları sonucunda 23 Aralık 1876 tarihinde ilan edilen ve ilk T&uuml;rk Anayasası olarak kabul edilen anayasa aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Kan&ucirc;n-ı Es&acirc;s&icirc;**
+    - B-) Tanzimat Fermanı
+    - C-) Sened-i İttifak
+    - D-) I. Meşrutiyet
+    - E-) Mecelle
+    ***
 1. <strong>T&uuml;rk modernleşmesi i&ccedil;in &ouml;nemli bir kilometre taşı olan ve 3 Kasım 1839-23 Aralık 1876 tarihleri arasını kapsayan d&ouml;nem aşağıdakilerden hangisidir?</strong>
     - A-) Islahat
     - B-) Lale Devri
@@ -657,6 +664,13 @@ V. Batı d&uuml;nyasının İslam d&uuml;nyasına karşı oryantalist ve misyone
     - D-) II. Abd&uuml;lhamit&rsquo;in tahtan indirilmesi
     - E-) İttihat ve Terakki&rsquo;nin y&ouml;netimde etkili olması
     ***
+1. <strong>II. Meşrutiyetin ilanıyla birlikte Kan&ucirc;n-ı Es&acirc;s&icirc;&rsquo;de de bazı değişiklikler yapılmıştır. Aşağıdakilerden hangisi bu yeniliklerden biri <u>değildir</u>?</strong>
+    - A-) Padişahın Meclis-i Mebusan&rsquo;ı dağıtma yetkisi kaldırılmıştır.
+    - B-) Padişahın s&uuml;rg&uuml;ne g&ouml;nderme yetkisi kaldırılmıştır.
+    - C-) Antlaşmaların Meclis&rsquo;te onaylanması esası getirilmiştir.
+    - D-) Derneklerin ve siyasi partilerin kurulmasına izin verilmiştir.
+    - **Cevap E-) Kadınlara se&ccedil;me se&ccedil;ilme hakkı getirilmiştir.**
+    ***
 1. <strong>T&uuml;rk&ccedil;&uuml;l&uuml;ğ&uuml;n Esasları isimli eseri ile tanınmış T&uuml;rk sosyolog aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Ziya G&ouml;kalp**
     - B-) İsmail Gaspıralı
@@ -744,11 +758,11 @@ V. Batı d&uuml;nyasının İslam d&uuml;nyasına karşı oryantalist ve misyone
     - E-) Balkanlarda Rus-Avusturya anlaşmazlığı
     ***
 1. <strong>Osmanlı Devleti aşağıdaki yerlerden hangilerini II. Balkan Savaşı&rsquo;nda geri almıştır?</strong>
-    - A-) Arnavutluk - Romanya
-    - B-) Girit - Yanya
-    - C-) Selanik - Makedonya
-    - D-) Ege adaları - On İki Ada
-    - **Cevap E-) Edirne - Kırklareli**
+    - A-) Arnavutluk
+    - B-) Girit&nbsp;
+    - C-) Selanik&nbsp;
+    - D-) On İki Ada<br type="_moz" />
+    - **Cevap E-) Edirne**
     ***
 1. <strong>Aşağıdakilerden hangisi Osmanlı Devleti&rsquo;nin Balkan savaşları sonunda kaybettiği topraklardan biri&nbsp;<u>değildir</u>?</strong> 
     - A-) Batı Trakya
@@ -796,7 +810,8 @@ V. Batı d&uuml;nyasının İslam d&uuml;nyasına karşı oryantalist ve misyone
 II. Bloklaşma&nbsp;<br />
 III. Milliyet&ccedil;ilik akımları&nbsp;<br />
 IV. Aşırı silahlanma ve militarizm&nbsp;<br />
-<strong>Yukarıdaki maddeler hangi savaşa sebep olmuştur?</strong> 
+<strong>Yukarıda sıralanan etkenlerin sebep olduğu savaş aşağıdakilerden hangisidir?</strong><br type="_moz" />
+
     - A-) Mısır Savaşı
     - B-) Kırım Harbi
     - **Cevap C-) I. D&uuml;nya Savaşı**
@@ -1284,6 +1299,14 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
     - **Cevap D-) Anadolu ve Rumeli M&uuml;dafaa-i Hukuk Cemiyeti**
     - E-) Mill&icirc; Kongre Cemiyeti
     ***
+1. <strong>Doğu Anadolu&rsquo;da Ermeni isteklerine karşı faaliyet g&ouml;steren cemiyet aşağıdakilerden hangisidir?</strong><br />
+
+    - A-) Trakya Paşaeli Cemiyeti
+    - B-) Mill&icirc; Kongre Cemiyeti
+    - **Cevap C-) Vilayat-ı Şarkiye M&uuml;dafaa-i Hukuk Cemiyeti**
+    - D-) Hareket-i Milliye Cemiyeti
+    - E-) Wilson Prensipleri Cemiyeti
+    ***
 1. <strong>Aşağıdakilerden hangisi mill&icirc; varlığa d&uuml;şman cemiyetlerden biri <u>değildir</u>?</strong><br />
 
     - A-) Sulh ve Selameti Osmaniye Fırkası
@@ -1548,6 +1571,13 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
     - D-) IX. Ordu Kıtaatı M&uuml;fettişi
     - E-) XX. Kolordu Komutanı
     ***
+1. <strong>Mustafa Kemal&#39;in, Mondros M&uuml;tarekesi&#39;nin ardından d&uuml;ş&uuml;ncelerini ortaya koymak ve kamuoyu oluşturmak i&ccedil;in &ccedil;ıkarttığı gazete aşağıdakilerden hangisidir?</strong>
+    - A-) Akbaba
+    - **Cevap B-) Minber**
+    - C-) Tuna
+    - D-) Pey&acirc;m-ı Sabah
+    - E-) Alemdar
+    ***
 1. -Mustafa Kemal&#39;in İttihat ve Terakki mensubu olmaması<br />
 -Mustafa Kemal&#39;in, Padişah Vahidettin&#39;in fahri yaverliğini yapmış olması<br />
 -Mustafa Kemal&#39;in, İstanbul&#39;a geldikten sonra girişmiş olduğu birtakım siyasi ve fikr&icirc; m&uuml;cadelenin etkili olması<br />
@@ -1611,7 +1641,7 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
 1. <b>Eski Teşkil&acirc;t-ı Mahsusacı ve Hukuk-ı Beşer (İnsan Hakları) Gazetesi sahibi Hasan Tahsin (Osman Recep Nevres)&rsquo;in vurularak şehit edildiği olay aşağıdakilerden hangisidir?</b> 
     - **Cevap A-) İzmir&rsquo;in işgali**
     - B-) Mill&icirc; m&uuml;cadele
-    - C-) Bağımsızlık Bildirisi
+    - C-) Bağımsızlık bildirisi
     - D-) Samsun&rsquo;a &ccedil;ıkış
     - E-) Konya isyanları
     ***
@@ -1793,6 +1823,15 @@ III. Vatanın b&uuml;t&uuml;nl&uuml;ğ&uuml; milletin bağımsızlığı tehlike
     - C-) Heyet-i Temsiliye
     - D-) İrade-i Seniyye
     - E-) Kuva-yi İnzibatiye
+    ***
+1. Erzurum Kongresi toplanış a&ccedil;ısından yerel, aldığı kararlar a&ccedil;ısından ulusal bir kongredir.<br />
+<strong>Bu bilgiler ışığında Erzurum Kongresi&rsquo;nde alınan aşağıdaki kararlardan hangisinin kongreye ulusal bir nitelik kazandırdığı <u>s&ouml;ylenemez</u>?</strong><br />
+
+    - A-) Manda ve himaye kabul edilemez.
+    - B-) Mill&icirc; iradeyi h&acirc;kim kılmak esastır.
+    - C-) Mill&icirc; sınırlar i&ccedil;erisinde vatan bir b&uuml;t&uuml;nd&uuml;r, b&ouml;l&uuml;nemez.
+    - D-) Meclis-i Mebusan toplanmalıdır.
+    - **Cevap E-) B&ouml;lgeden hi&ccedil; bir şekilde g&ouml;&ccedil; edilmemelidir.**
     ***
 1. <strong>Aşağıdakilerden hangisi Batı Anadolu&rsquo;da ger&ccedil;ekleştirilen kongrelerden biridir?</strong>
     - A-) Ardahan Kongresi
@@ -2122,6 +2161,13 @@ III. Son Osmanlı Meclis-i Mebusanı<br />
     - D-) Karadeniz kıyısındaki bazı &ouml;nemli noktaları kontrol altına alma
     - E-) Ulaşım ve haberleşme sistemlerinin işletilmesine el koyma
     ***
+1. <strong>Aşağıdakilerden hangisi, 16 Mart 1920&rsquo;de İstanbul&rsquo;un resmen işgalinin sonu&ccedil;larından biri <u>değildir</u>?</strong>&nbsp;
+    - A-) Ka&ccedil;abilen mebusların I. TBMM&rsquo;ye katılması
+    - B-) Osmanlı saltanatının &ccedil;aresiz duruma d&uuml;şmesi
+    - **Cevap C-) Mis&acirc;k-ı Mill&icirc;&rsquo;nin ilan edilmesi**
+    - D-) Ankara&rsquo;da I. TBMM&rsquo;nin a&ccedil;ılması
+    - E-) Osmanlı Meclisi&rsquo;nin tarihe karışması
+    ***
 1. <strong>Aşağıdakilerden hangisi Misak-ı Mill&icirc; kararlarından biridir?</strong><br />
 
     - A-) Havza Genelgesi&rsquo;nin yayımlanması
@@ -2355,6 +2401,14 @@ III. Mondros M&uuml;tarekesi<br />
     - C-) Yalnız III
     - D-) I ve II
     - E-) I, II ve
+    ***
+1. <strong>I. TBMM&#39;nin a&ccedil;ılış tarihi aşağıdakilerden hangisidir?</strong><br type="_moz" />
+
+    - A-) 19 Mayıs 1919
+    - B-) 23 Nisan 1923
+    - C-) 29 Ekim 1924
+    - **Cevap D-) 23 Nisan 1920**
+    - E-) 24 Mart 1922
     ***
 1. <strong>İngiliz gizli servis elamanlarından Papaz Fru&rsquo;nun da maddi destekleriyle Manyas, Susurluk, Biga, G&ouml;nen, Ulubat taraflarında &ccedil;ıkan ayaklanma/isyan aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Anzavur Ayaklanması**

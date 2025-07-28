@@ -49,7 +49,7 @@
     - **Cevap D-) Matbaanın icadıyla**
     - E-) Yerleşik hayata ge&ccedil;ilmesiyle
     ***
-1. <strong>&Uuml;reticiler reklamla aşağıdakilerden hangisini <u>ama&ccedil;lamaz</u>?</strong>
+1. <strong>&Uuml;reticiler, reklamla aşağıdakilerden hangisini <u>ama&ccedil;lamaz</u>?</strong>
     - A-) Mal ve hizmetlerin kullanım bi&ccedil;imini &ouml;ğretmek
     - B-) Mal ve hizmetlerin fiyat değişikliklerini ve &ouml;zel satış koşullarını duyurmak
     - C-) Marka tercihi oluşturmak ya da s&uuml;rd&uuml;rmek
@@ -311,8 +311,8 @@
     - D-) Metinde g&uuml;nl&uuml;k konuşma dili tercih edilmelidir
     - E-) Metinde kısa c&uuml;mleler ve basit bir anlatım kullanılmalıdır
     ***
-1. <strong>&ldquo;Sizler de aramıza katılabilirsiniz&rdquo; ya da &ldquo;Bu fırsatı ka&ccedil;ırmayın&rdquo; şeklinde oluşturulmuş reklam metni başlıkları hangi t&uuml;r başlık &ouml;rnekleridir?</strong>
-    - A-) Zorlayıcı Başlık
+1. <strong>&ldquo;Sizler de aramıza katılabilirsiniz.&rdquo; ya da &ldquo;Bu fırsatı ka&ccedil;ırmayın.&rdquo; şeklinde oluşturulmuş reklam metni başlıkları hangi t&uuml;r başlık &ouml;rnekleridir?</strong>
+    - A-) Zorlayıcı başlık
     - **Cevap B-) Tavsiye/davet başlığı**
     - C-) Haber tarzı başlık
     - D-) Se&ccedil;ici başlık
@@ -585,6 +585,13 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) Reklamları &ccedil;ekici kılma
     - **Cevap E-) Bilgi aktarma, ilgi uyandırma ve dikkat &ccedil;ekme yanında yaratıcı uygulamalar ile fark yaratma**
     ***
+1. <strong>Reklam grafiğinde tipografik tasarımda yazı tipi se&ccedil;imi neye bağlı <u>değildir</u>?</strong>
+    - A-) Marka kimliği
+    - B-) &Uuml;r&uuml;n/hizmet bi&ccedil;imi
+    - C-) &Uuml;r&uuml;n/hizmet i&ccedil;eriği
+    - D-) Reklam stratejisi
+    - **Cevap E-) M&uuml;şteri talebi**
+    ***
 1. <strong>Reklam grafiklerinde aşağıdakilerden hangisi yazı tipi yaratıcı uygulamaları arasında yer alır?</strong>
     - **Cevap A-) &Uuml;r&uuml;n/hizmete y&ouml;nelik &ouml;zel yazı tipi tasarımı**
     - B-) Yazı tipi tercihi
@@ -725,6 +732,13 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - C-) El ilanı-Dergi
     - D-) Gazete-Katalog
     - E-) Broş&uuml;r-El ilanı
+    ***
+1. <strong>Aşağıdakilerden hangisi el ilanları reklam grafiğinin &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
+    - A-) Ulusal ve yerel kuruluşlar tarafından kullanılan bir reklam aracıdır.
+    - **Cevap B-) Tek bir &uuml;r&uuml;n&uuml; ya da hizmeti anlatan &ccedil;ok sayfalı &ccedil;alışmalardır.<br type="_moz" />**
+    - C-) El ilanları genellikle tek yapraktan oluşur.<br type="_moz" />
+    - D-) El ilanları daha &ccedil;ok kampanya d&ouml;nemlerinde tercih edilir.
+    - E-) Diğer reklam mecralarına g&ouml;re daha ekonomiktir.
     ***
 1. <strong>Aşağıdakilerden hangisi dijital reklam mecralarından biri <u>değildir</u>?</strong>
     - **Cevap A-) El ilanları**
@@ -929,6 +943,13 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - **Cevap C-) Enformasyon**
     - D-) İdea
     - E-) İnformel Eğitim
+    ***
+1. <strong>Sanayi Devrimi&#39;nden &ouml;nce grafik tasarım uygulamalarının her aşaması aşağıdakilerden hangisi tarafından yapılmıştır?</strong>
+    - A-) Ressamlar
+    - B-) Litograflar
+    - C-) Fotoğraf&ccedil;ılar
+    - **Cevap D-) Zanaatk&acirc;rlar**
+    - E-) M&uuml;cellitler
     ***
 1. <strong>Aşağıdakilerden hangisi g&ouml;rsel anlatımsal aktarım ara&ccedil;larından biri&nbsp;<u>değildir</u>?</strong>
     - **Cevap A-) Ses**
@@ -1181,7 +1202,7 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - E-) Taslak
     ***
 ## Unite 11
-1. <strong>Aşağıdakilerden hangisi ambalajı oluşturan &ouml;ğelerden <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi ambalajı oluşturan &ouml;gelerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Metin
     - B-) Tipografi
     - C-) Renk
@@ -1250,6 +1271,13 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - C-) Prova baskının alınması
     - **Cevap D-) Tasarım &ccedil;alışmasının yapılması**
     - E-) Baskı kalıplarının hazırlanması
+    ***
+1. <strong>Ambalaj tasarımında t&uuml;keticinin dikkatini &ccedil;eken en &ouml;nemli fakt&ouml;r aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Dikkat &ccedil;ekici**
+    - B-) Sağlam
+    - C-) &Uuml;&ccedil; Boyutlu
+    - D-) &Ccedil;ok Renkli
+    - E-) Maliyetli
     ***
 1. <strong>Ambalaj tasarımı yaparken kullandığımız kırmızı renk kişide hangi tat duygusunu uyandırır?</strong>
     - A-) Ekşi
@@ -1364,6 +1392,13 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - **Cevap D-) Daha &ccedil;ok insana daha hızlı ulaşabilmesi**
     - E-) &Ouml;l&ccedil;&uuml;mlenmesinin zor olması
     ***
+1. <strong>Aşağıdakilerden hangisi sosyal medyada kullanılan iyi &ccedil;&ouml;z&uuml;mlenmiş reklam grafiklerine &ouml;rnek <u>verilemez</u>?</strong>
+    - A-) Fotoğraf
+    - B-) Manip&uuml;lasyon
+    - C-) İll&uuml;strasyon
+    - D-) İnfografikler
+    - **Cevap E-) Ajans**
+    ***
 1. <strong>Aşağıdakilerden hangisi reklam grafikleri a&#231;ısından iletişim s&#252;re&#231;lerinden biri&#160;<u>değildir</u>?</strong>
     - A-) Fotoğraf
     - B-) İll&#252;strasyon
@@ -1476,6 +1511,13 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - **Cevap C-) Ger&ccedil;eği yansıtma zorunluluğu yoktur.**
     - D-) İzlenmesi ve anlaşılması kolay olmalıdır.
     - E-) Merak uyandırıcı olmalıdır.
+    ***
+1. <strong>Aşağıdakilerden hangisi lightbox &uuml;r&uuml;nleri arasında <u>yer almaz</u>?</strong>
+    - A-) Tek taraflı
+    - **Cevap B-) Delikli**
+    - C-) &Ouml;zel b&uuml;k&uuml;m
+    - D-) K&uuml;bik
+    - E-) Ayaklı
     ***
 1. <strong>Vinil branda olarak bilinen a&ccedil;ıkhava reklam &uuml;r&uuml;n&uuml; aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Mesh**
@@ -1597,4 +1639,11 @@ Buna g&ouml;re aşağıdakilerden hangisi reklamlar tasarlanmadan &ouml;nce hede
     - C-) Konusal i&#231;erikli haber olarak medyada yer almak
     - D-) Akıllı tasarlanmış SMS veya E-posta
     - **Cevap E-) Zemin reklam uygulamaları**
+    ***
+1. <strong>Aşağıdakilerden hangisi on board reklam &uuml;r&uuml;n&uuml;d&uuml;r?</strong>
+    - **Cevap A-) Baş &uuml;st&uuml; saklama kutusu reklamı**
+    - B-) One way vision
+    - C-) Wobbler
+    - D-) D&ouml;n kart
+    - E-) Kiosk
     ***

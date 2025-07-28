@@ -145,6 +145,13 @@ IV. Birinci D&uuml;nya Savaşı sonrası yaşanan sorunlarda insanların hayatı
     - D-) İletişim
     - E-) Resim
     ***
+1. <strong>Aşağıdakilerden hangisi k&uuml;lt&uuml;r&uuml;n oluşmasına &ouml;nemli katkı sunan g&ouml;rsel bir iletişim aracı olarak ortaya &ccedil;ıkmıştır?</strong>
+    - **Cevap A-) Fotoğraf**
+    - B-) Yazı
+    - C-) Din
+    - D-) Tarih
+    - E-) Edebiyat
+    ***
 1. <strong>Aşağıdakilerden hangisi fotoğrafın, ortaya &ccedil;ıktığı &ccedil;ağda sosyal stat&uuml;n&uuml;n bir g&ouml;stergesi olarak kullanılmıştır?</strong>
     - **Cevap A-) Portre fotoğrafı**
     - B-) Haber fotoğrafı
@@ -285,6 +292,13 @@ III. Adını koyan bilim adamı Johannes Kepler olmuştur.<br />
     - **Cevap D-) John Herschel**
     - E-) Joseph Saxon
     ***
+1. <strong>Aşağıdakilerden hangisi 19. y&uuml;zyılda fotoğraf alanındaki gelişmelerden biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Karakutu
+    - B-) Bir insana ait ilk fotoğrafın &ccedil;ekilmesi
+    - C-) Negatif g&ouml;r&uuml;nt&uuml;ler oluşturan kalotip işlemini icat edilmesi
+    - D-) Fotoğraf at&ouml;lyeleri
+    - **Cevap E-) Polaroid fotoğraf**
+    ***
 1. Camera Obscura adı Latincede &ldquo;............&rdquo; anlamına gelen camera ve &ldquo;............&rdquo; anlamına gelen obscura kelimelerinin birleşmesinden oluşur.<br />
 <strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) ışık-oda
@@ -311,6 +325,13 @@ IV. Johannes Kepler, daha sonraki fotoğraf makinelerinde kullanılacak olan&nbs
     - C-) I ve III
     - D-) II, III ve IV
     - **Cevap E-) I, II, III ve IV**
+    ***
+1. <strong>Maden&icirc; ya da bakalit g&ouml;vdeden oluşan ve levha h&acirc;lindeki fotoğraf filmlerinden roll filme ge&ccedil;işle birlikte kullanılan makineler aşağıdakilerden hangisidir?</strong>
+    - A-) Stereoskopik fotoğraf makineleri
+    - B-) Katlanabilir fotoğraf makineleri
+    - **Cevap C-) Kutu fotoğraf makineleri**
+    - D-) Leica fotoğraf makineleri
+    - E-) Polaroid fotoğraf makineleri
     ***
 1. <strong>Aşağıdakilerden hangisi katlanabilir fotoğraf makinesinin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) K&ouml;r&uuml;kl&uuml; fotoğraf makinesinin ilk &ccedil;eşididir.
@@ -896,7 +917,7 @@ III. Lenste tek bir a&ccedil;ı değeri varsa bu lens sabit odaklı bir objektif
     - D-) Netleme halkası
     - E-) Vibrasyon halkası
     ***
-1. <strong>Aşağıdakilerden hangisi fotoğraf makinelerindeki bataryayı verimli kullanmak i&ccedil;in alınması gereken &ouml;nlemlerden biri<u> değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi fotoğraf makinelerindeki bataryayı verimli kullanmak i&ccedil;in alınması gereken &ouml;nlemlerden biri <u>değildir</u>?</strong>
     - A-) Ekran koruma modu aktif h&acirc;le getirilmelidir.
     - B-) Gereksiz yere flaş kullanmaktan ka&ccedil;ınılmalıdır.
     - **Cevap C-) &Ccedil;ekilen videolar tekrar tekrar izlenmelidir.**
@@ -1087,13 +1108,6 @@ III. Objektif dışındaki kontrol halkasının hareket ettirilmesiyle, ince met
     - **Cevap D-) Y&uuml;ksek ISO değerlerini kullandık&ccedil;a genel g&ouml;r&uuml;nt&uuml; kalitesi artar.**
     - E-) ISO değeri y&uuml;kseldik&ccedil;e enstantane değeri artar.
     ***
-1. <strong>Diyafram a&ccedil;ıklarının aydınlanma koşullarına g&ouml;re otomatik olarak sağlanması i&ccedil;in yapılmış diyafram sistemi aşağıdakilerden hangisidir?</strong>
-    - A-) Basit diyafram
-    - **Cevap B-) Otomatik diyafram**
-    - C-) Odak diyafram
-    - D-) Diyafram a&ccedil;ıklığı
-    - E-) İris diyafram
-    ***
 1. <strong>Aşağıdakilerden hangisi diyafram kullanımının temel ama&ccedil;ları arasında yer alır?</strong>
     - **Cevap A-) Işığın yoğunluğu ve net alan derinliğini belirler.**
     - B-) Pozlama s&uuml;resini belirler.
@@ -1171,7 +1185,7 @@ III. Enstantane değeri (ışığın giriş s&uuml;resi)<br />
     - D-) Fotoğraf tamamen flu olacaktır.
     - E-) B&ouml;yle durumlarda &ouml;zellikle elde d&uuml;ş&uuml;k enstantane değerlerinde fotoğraf &ccedil;ekerken tripot (&uuml;&ccedil; ayak) kullanmak gerekir.
     ***
-1. <strong>Fotoğraf makinelerinde 30 saniyelik pozlama s&uuml;resinden daha uzun bir pozlamaya ihtiya&ccedil; duyulan durumlarda&nbsp; yapılması gereken ayar aşağıdakilerden hangisidir?</strong>
+1. <strong>Fotoğraf makinelerinde 30 saniyelik pozlama s&uuml;resinden daha uzun bir pozlamaya ihtiya&ccedil; duyulan durumlarda yapılması gereken ayar aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) BULB modu (B)**
     - B-) Manuel mod (M)
     - C-) Otomatik pozlama modu (A/AV)
@@ -1312,7 +1326,7 @@ III. Daha &ccedil;ok compact olarak adlandırılır.<br />
     - D-) Odak noktası
     - E-) Pozlama
     ***
-1. ........ değeri ne kadar azsa, &ccedil;ekilen fotoğraflar da o kadar keskin ve detaylı olur. Başka bir ifadeyle mecbur kalmadık&ccedil;a fotoğraf &ccedil;ekimlerinde ........ ..... kullanımından ka&ccedil;ınılmalıdır.&nbsp;<br />
+1. ........ değeri ne kadar azsa, &ccedil;ekilen fotoğraflar da o kadar keskin ve detaylı olur. Başka bir ifadeyle mecbur kalmadık&ccedil;a fotoğraf &ccedil;ekimlerinde ............. kullanımından ka&ccedil;ınılmalıdır.&nbsp;<br />
 <strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) ISO-Diyafram
     - B-) İris-Bulp
@@ -1400,6 +1414,13 @@ IV. Daha &ccedil;ok makro &ccedil;ekimler ve dramatik bir vurgu yapılmak istene
     - C-) BMP
     - D-) EPS
     - E-) GIF
+    ***
+1. <strong>G&ouml;r&uuml;nt&uuml;deki fazla ışıklı ve az ışıklı b&ouml;lgeleri n&ouml;tralize ederek ışık patlamalarını ve karanlık b&ouml;lgeleri yok eden teknik aşağıdakilerden hangisidir?</strong>
+    - A-) Focus stacking
+    - B-) Otomatik netleme
+    - C-) Histogram
+    - **Cevap D-) HDR (Y&uuml;ksek Dinamik Aralık)**
+    - E-) &Uuml;st &uuml;ste &ccedil;ekim
     ***
 1. <strong>D&uuml;z bir fonda oluşan yatay ve dikey belirtiler ve koyu bir fonda ters ışığın neden olduğu ışık parlamaları gibi etkilerin oluşturduğu kontrast bi&ccedil;imi aşağıdakilerden hangisidir?</strong>
     - A-) Leke kontrastı
@@ -1742,6 +1763,13 @@ III. Fotoğraf&ccedil;ı ile konu arasındaki mesafe minimum d&uuml;zeyde olduğ
     - **Cevap C-) Yapay &ccedil;evreler, yetiştirilen bitkiler, kontroll&uuml; koşullar altında bulunan hayvanlar doğa fotoğrafı olarak kabul edilebilir.**
     - D-) Birden fazla g&ouml;r&uuml;nt&uuml; bir araya getirilemez.
     - E-) Orijinal g&ouml;r&uuml;nt&uuml;n&uuml;n i&ccedil;eriğini değiştirilmemesi koşuluyla kontrast ve tonlama ayarı yapılabilir.
+    ***
+1. <strong>FX sens&ouml;rl&uuml; makinelerin DX sens&ouml;rl&uuml; makinelerden farkları arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
+    - A-) FX formatının oluşturduğu g&ouml;r&uuml;nt&uuml; dairesi daha b&uuml;y&uuml;kt&uuml;r.
+    - B-) FX sens&ouml;rl&uuml; objektifler 1,5 kat daha geniş alanı yakalar.
+    - **Cevap C-) FX sens&ouml;rl&uuml; oluşturduğu g&ouml;r&uuml;nt&uuml; crop frame olarak adlandırılır.**
+    - D-) FX sens&ouml;rl&uuml; makinelerle daha sığ alan derinliği elde edilir.
+    - E-) FX sens&ouml;rl&uuml; makinelerin g&ouml;r&uuml;nt&uuml; kalitesi ve &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml; daha y&uuml;ksektir.
     ***
 1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>portre fotoğraf&ccedil;ılığında dar a&ccedil;ılı objektif kullanılmasının nedenleri arasında <u>yer almaz</u>?</strong>
     - A-) Kadrajı kişinin başıyla doldurulmak istenmesi
@@ -2248,6 +2276,13 @@ III. Diyafram değerleri<br />
     - D-) Manzara fotoğrafları
     - E-) Mimari fotoğraflar
     ***
+1. <strong>Fotoğrafta sakinlik, durağanlık ve huzur etkisi oluşturan &ccedil;izgi t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+    - A-) &Ccedil;apraz &ccedil;izgiler
+    - B-) Dikey &ccedil;izgiler
+    - C-) Yuvarlak &ccedil;izgiler
+    - D-) Eğri &ccedil;izgiler
+    - **Cevap E-) Yatay &ccedil;izgiler**
+    ***
 1. <strong>Parlak ve h&uuml;zme h&acirc;linde, koyu g&ouml;lgeler ve parlak aydınlık alanlar oluşturan ışık niteliği aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Sert ışık**
     - B-) Yumuşak ışık
@@ -2492,6 +2527,13 @@ III. Fotoğraf makinesine yakın olan doğal &ccedil;er&ccedil;evenin ışık de
     - C-) 16/9
     - D-) 16/10
     - E-) 1/5
+    ***
+1. <strong>Fotoğraf sanatı ile&nbsp;</strong><strong>resim sanatı&nbsp;</strong><strong>arasındaki en &ouml;nemli farklılıklardan biri aşağıdakilerden hangisidir?</strong>
+    - A-) Resim, bir ayıklama sanatıdır.
+    - B-) Fotoğraf, bir ekleme sanatıdır.
+    - **Cevap C-) Fotoğraf, bir ayıklama sanatıdır.**
+    - D-) Fotoğraf, dış fakt&ouml;rlere &ccedil;ok sınırlı olarak bağlıdır.
+    - E-) Resim sanatında kullanılacak &ouml;geleri belirleme, sanat&ccedil;ının denetiminde değildir.
     ***
 1. <strong>Fotoğrafta kompozisyonu etkili hale getiren anlatım bi&ccedil;imleri arasında aşağıdakilerden hangisi <u>bulunmaz</u>?</strong> 
     - A-) Boşluk

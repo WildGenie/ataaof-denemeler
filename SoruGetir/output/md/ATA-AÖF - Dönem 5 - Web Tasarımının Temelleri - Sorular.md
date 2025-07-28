@@ -49,7 +49,7 @@
     - **Cevap D-) Ses ve video dosyalarını saklayamaz.**
     - E-) Kullanım amacına g&ouml;re bir&ccedil;ok veri tabanı t&uuml;r&uuml; vardır.
     ***
-1. <strong>Aşağıdakilerden hangisi web tarayıcılarla ilgili <u>yanlış</u> bir ifadedir?</strong> 
+1. <strong>Aşağıdakilerden hangisi web tarayıcılarla ilgili olarak&nbsp;<u>yanlıştır</u>?</strong>
     - A-) Web sitelerinin g&ouml;r&uuml;nt&uuml;lenmesi i&ccedil;in kullanılır.
     - B-) Dosya indirme yapılabilir.
     - C-) Kullanıcılar ile web sitesi arasında bağlantı kurar.
@@ -115,6 +115,13 @@ III. &Ccedil;eşitli ilişkiler kurularak karmaşa &ouml;nlenebilir.<br />
     - D-) G&ouml;rsel ve metinsel &ouml;geleri g&ouml;r&uuml;nt&uuml;ler.
     - **Cevap E-) Sadece mobil cihazlar &uuml;zerinde kullanılır.**
     ***
+1. <strong>Aşağıdakilerden hangisi front-end ve back-end kavramlarıyla ilgili <u>yanlış </u>bir ifadedir?</strong>
+    - A-) Kullanıcıların etkileşime girdiği t&uuml;m bileşenler front-end olarak anılır.
+    - B-) Back-end teknolojileri front-end teknolojilerine alt yapı sağlar.
+    - C-) Front-end teknolojileriyle kullanıcı aray&uuml;z&uuml; oluşturulur.
+    - D-) Back-end b&ouml;l&uuml;m&uuml;nde ASP, PHP gibi yazılım dilleri kullanılır.
+    - **Cevap E-) Front-end b&ouml;l&uuml;m&uuml;nde Oracle, MS SQL Server gibi veri tabanı y&ouml;netim sistemleri kullanılır.**
+    ***
 1. <strong>Alan adı uzantısı ve kullanım alanı ile ilgili olarak aşağıdaki eşleştirmelerinden hangisi <u>yanlıştır</u>?</strong>
     - A-) info - Bilgi siteleri i&ccedil;in kullanılır.
     - B-) edu - Eğitim kurumları tarafından kullanılır.
@@ -168,12 +175,12 @@ III. HTML &ouml;gelerinin istenilen şekilde g&ouml;r&uuml;nt&uuml;lenmesi i&cce
     - D-) Metinsel ifadelerin yazı tipinin belirlenmesi
     - E-) Renk değişiklikleri
     ***
-1. <strong>Front-End i&ccedil;in yapılan kodlamalar aşağıdakilerden hangisi &uuml;zerinde &ccedil;alışır?</strong> 
+1. <strong>Front-end i&ccedil;in yapılan kodlamalar aşağıdakilerden hangisi &uuml;zerinde &ccedil;alışır?</strong> 
     - A-) Sunucular
     - **Cevap B-) Son kullanıcıların kullandığı web tarayıcıları**
     - C-) Veri tabanları
     - D-) Back-End
-    - E-) IDE’ler
+    - E-) IDE&rsquo;ler
     ***
 1. <strong>UX aşağıdakilerden hangisi ile ilgilenir?</strong> 
     - A-) G&ouml;rsel elementler kullanılır.
@@ -505,6 +512,13 @@ III. En son yazılan etiket en son kapatılır.<br />
     - D-) ondragover
     - E-) id
     ***
+1. <strong>Resim ve &ccedil;izim gibi bağımsız yapılar i&ccedil;in aşağıdaki etiketlerden hangisi kullanılır?</strong>
+    - A-) nav
+    - B-) aside
+    - C-) summary
+    - **Cevap D-) figure**
+    - E-) article
+    ***
 ## Unite 5
 1. <strong>Bir yazılımın, başka bir yazılımla iletişime ge&ccedil;mesini ve işlevlerini kullanmasını sağlayan aray&uuml;z aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) API**
@@ -555,7 +569,7 @@ III. En son yazılan etiket en son kapatılır.<br />
     - D-) Drag and drop
     - **Cevap E-) Rest Assured**
     ***
-1. <strong>HTML 5 ile yeni gelen API&rsquo;lerden &ldquo;websocket&rdquo;in g&ouml;revi aşağıdakilerden hangisidir?</strong>
+1. <strong>HTML 5 ile yeni gelen API&nbsp;(Application Programming Interface)&rsquo;lerden &ldquo;websocket&rdquo;in g&ouml;revi aşağıdakilerden hangisidir?</strong>
     - A-) Konum bilgisini tanımlar.
     - B-) Sayfa i&ccedil;indeki nesnelere s&uuml;r&uuml;kle-bırak tanımlar.
     - C-) Yazdırma desteği sağlar.
@@ -754,6 +768,13 @@ IV.&nbsp;measureText&nbsp;<br />
     - D-) &amp; quot;
     - **Cevap E-) &amp;# apos;**
     ***
+1. <strong>HTML &ouml;zel karakterleri ile &ldquo;&lt; &gt;&rdquo; ifadesini elde etmek i&ccedil;in aşağıdaki kodlardan hangisi kullanılmalıdır?</strong>
+    - **Cevap A-) &amp; lt; &amp; gt;**
+    - B-) &amp; nbsp; &amp; amp;
+    - C-) &amp; gt; &amp; lt;
+    - D-) &amp; lt; &amp; rt;
+    - E-) &amp;# 160;&nbsp; &amp;# 62;
+    ***
 1. <strong>Web sayfasına &ccedil;ift tırnak eklemek i&ccedil;in kullanılan&nbsp;HTML &ouml;zel karakteri aşağıdakilerden hangisidir?</strong>
     - A-) &amp; times;
     - **Cevap B-) &amp; quot;**
@@ -803,12 +824,13 @@ IV. K&uuml;resel alanda Meta Tag olarak isimlendirilir.<br />
     - D-) basit se&ccedil;iciler
     - **Cevap E-) s&ouml;zde sınıflar**
     ***
-1. <strong>Aşağıdaki CSS &ouml;zelliklerinden hangisi birden fazla &ouml;zelliğin kısaltılarak kullanımını temsil eder?</strong>
+1. <strong>Aşağıdaki CSS</strong><strong>&nbsp;(Cascading Style Sheets- Basamaklı Stil Sayfaları)</strong><strong>&nbsp;&ouml;zelliklerinden hangisi&nbsp;&ouml;genin d&ouml;rt tarafındaki kenar boşluğunu ayarlamak i&ccedil;in kullanılır?</strong><br type="_moz" />
+
     - A-) font-size
     - **Cevap B-) margin**
     - C-) border-color
     - D-) background-image
-    - E-) margin-left
+    - E-) margin-left<br type="_moz" />
     ***
 1. <strong>Harici bir CSS stil dosyasını web sayfasına entegre etmek i&ccedil;in aşağıdaki HTML etiketlerinden hangisi kullanılır?</strong>
     - A-) script
@@ -886,6 +908,13 @@ IV. K&uuml;resel alanda Meta Tag olarak isimlendirilir.<br />
     - **Cevap C-) color**
     - D-) padding
     - E-) background
+    ***
+1. <strong>CSS&nbsp;</strong><strong>&nbsp;(Cascading Style Sheets- Basamaklı Stil Sayfaları)&nbsp;</strong><strong>tablo &ouml;zelliklerinden olan caption-side&rsquo;ın a&ccedil;ıklaması aşağıdakilerden hangisinde verilmiştir?</strong>
+    - A-) Tablo başlığının kalınlığını ayarlar.
+    - **Cevap B-) Tablo başlığının konumunu ayarlar.**
+    - C-) Tablo başlığının rengini ayarlar.
+    - D-) Tablo başlığının yazı fontunu ayarlar.
+    - E-) Tablo başlığının b&uuml;y&uuml;kl&uuml;ğ&uuml;n&uuml; ayarlar.
     ***
 1. <strong>Aşağıdakilerden hangisi CSS (Cascade Style Sheet)&nbsp;metin &ouml;zellikleri arasında&nbsp;<u>yer almaz</u>?</strong>
     - **Cevap A-) font-size**
@@ -995,6 +1024,13 @@ IV. K&uuml;resel alanda Meta Tag olarak isimlendirilir.<br />
     - **Cevap D-) Hemen hemen t&uuml;m tarayıcılar tarafından desteklenir.**
     - E-) Duyarlı ve uyarlanabilir web tasarımı s&uuml;recini zorlaştırır.
     ***
+1. <strong>Aşağıdakilerden hangisi CSS&nbsp;</strong><strong>(Cascading Style Sheets- Basamaklı Stil Sayfaları)</strong><strong>&rsquo;de Flexbox &ouml;zellikleri arasında yer alır?</strong>
+    - A-) baseline
+    - B-) center
+    - C-) stretch
+    - **Cevap D-) flex-basis**
+    - E-) auto
+    ***
 1. <strong>CSS Flexbox flex-wrap &#246;zelliği hangi işlem i&#231;in kullanılır?</strong>
     - A-) Esnek kutu d&#252;zenin rengini değişmek i&#231;in
     - B-) Esnek kutu d&#252;zeninde dikey hizalama i&#231;in
@@ -1077,12 +1113,12 @@ IV. K&uuml;resel alanda Meta Tag olarak isimlendirilir.<br />
     - D-) SkewX
     - **Cevap E-) Translate**
     ***
-1. <strong>Aşağıdakilerden hangisi &ldquo;Transitions&rdquo; metoduna ait &ouml;zelliklerden birisi <u>değildir</u>?</strong>
-    - A-) transition-delay
-    - B-) transition-duration
-    - C-) transition-property
-    - D-) transition-timing-function
-    - **Cevap E-) transition-timed-function**
+1. <strong>Aşağıdakilerden hangisi Transitions Metodu&#39;na ait &ouml;zelliklerden biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Transition-delay
+    - B-) Transition-duration
+    - C-) Transition-property
+    - D-) Transition-timing-function
+    - **Cevap E-) Transition-timed-function**
     ***
 1. <strong>&ldquo;transition-delay&rdquo; &ouml;zelliğinin işlevi aşağıdakilerden hangisinde doğru verilmiştir?</strong>
     - **Cevap A-) Ge&ccedil;iş işlemi başlatılmadan &ouml;nce saniye cinsinden ne kadar s&uuml;re beklenileceğini belirlemek i&ccedil;in kullanılır**
@@ -1189,7 +1225,7 @@ IV. Tables (Tablolar)<br />
     - D-) row-striped
     - E-) table-bordered
     ***
-1. <strong>Aşağıdakilerden hangisi bir tablonun satır ve s&uuml;tunlarına kenarlık eklemek i&ccedil;in kullanılan tanımdır?</strong>
+1. <strong>Aşağıdakilerden hangisi bir tablonun satır ve s&uuml;tunlarına kenarlık eklemek i&ccedil;in kullanılan &ouml;zelliktir?</strong>
     - A-) bordered
     - **Cevap B-) table-bordered**
     - C-) col-bordered
@@ -1431,6 +1467,13 @@ IV. Tables (Tablolar)<br />
     - D-) Belirli bir hedef kitlesi yoktur.
     - E-) Uyarlanabilir tasarımda farklı ekranların site bileşenlerinin boyut ve davranışları &ouml;zelleştirilemez.
     ***
+1. <strong>Aşağıdakilerden hangisi ekran genişliğinin 250px altında olması h&acirc;linde arka plan rengini sarı yapan koddur?</strong>
+    - A-) @media only screen and (max-with: 250px) {body {background-color:red;}}
+    - **Cevap B-) @media only screen and (max-with: 250px) {body {background-color:yellow;}}**
+    - C-) @media only screen and (min-with: 250px) {body {background-color:yellow;}}
+    - D-) screen and (max-with: 250px) {body {background-color:yellow;}}
+    - E-) @media only screen and (max-with: 250px)
+    ***
 1. CSS kodlarının sıfırdan yazılması yerine hazır CSS k&uuml;t&uuml;phaneleri kullanılmaktadır.<br />
 <strong>Aşağıdakilerden hangisi CSS k&uuml;t&uuml;phanesine &ouml;rnek <u>değildir</u>?</strong>
     - **Cevap A-) HTML**
@@ -1438,6 +1481,13 @@ IV. Tables (Tablolar)<br />
     - C-) Semantic - UI
     - D-) Foundation
     - E-) Materialize
+    ***
+1. <strong>Tasarlanan web sitelerinin mobil uyumlu olduğunu test etmek i&ccedil;in aşağıdaki işlemlerden hangisi yapılır?</strong>
+    - A-) Masa&uuml;st&uuml; tasarımları kontrol edilebilir.
+    - B-) Tasarımlarda H5 gibi k&uuml;&ccedil;&uuml;k başlık stilleri kullanılabilir.
+    - C-) Tasarımlarda 50x50 px&rsquo;i ge&ccedil;meyecek şekilde resimler kullanılabilir.
+    - D-) Tasarımlarda logonun b&uuml;y&uuml;kl&uuml;ğ&uuml; her zaman 70px altında ise site mobil uyumludur.
+    - **Cevap E-) Mobil uyumluluk test siteleri kullanılabilir.**
     ***
 1. <strong>Aşağıdakilerden hangisi mobil uyumluluk testi i&ccedil;in kullanılan sitelerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) search.google.com/test/mobile-friendly
@@ -1500,11 +1550,12 @@ IV.&nbsp;UI Kit<br />
     - D-) Opera
     - **Cevap E-) Xcode**
     ***
-1. <strong>Aşağıdakilerden hangisi W3C (World Wide Web) konsorsiyumunun temel ama&ccedil;ları arasında yer alır?</strong>
+1. <strong>Aşağıdakilerden hangisi W3C (World Wide Web) konsorsiyumunun temel ama&ccedil;ları arasında yer alır?</strong><br type="_moz" />
+
     - A-) Yeni yazılım dili oluşturmak
-    - B-) Teknoloji firmalar arasındaki rekabeti arttırmak
+    - B-) Teknoloji firmaları arasındaki rekabeti artırmak
     - C-) B&uuml;y&uuml;k teknolojik firmaları korumak
-    - **Cevap D-) Web alanında standartlar oluşturmak**
+    - **Cevap D-) Web alanında standartlar oluşturmak<br type="_moz" />**
     - E-) İnterneti d&uuml;nyaya yaymak
     ***
 1. <strong>Aşağıdakilerden hangisi &ccedil;apraz tarayıcı uyumluluğundaki etkenlerden biridir?</strong>
@@ -1699,7 +1750,7 @@ IV. Eski teknolojiler kullanmak<br />
     - A-) Hata tespiti yapar.
     - B-) &Ccedil;alışmanın tamamının g&ouml;zden ge&ccedil;irilmesine imk&acirc;n sağlar.
     - C-) Ortak &ccedil;alışma verimliliğini artırır.
-    - D-) Geliştirme s&uuml;reci taleplere uygun şekilde planlar.
+    - D-) Geliştirme s&uuml;recini taleplere uygun şekilde planlar.
     - **Cevap E-) Tasarım maliyetini azaltır.**
     ***
 1. <strong>UX tasarımcıları tarafından kullanılan ve bir web sitesi, uygulama veya &uuml;r&uuml;n i&ccedil;in tasarımlarının bilgi hiyerarşisini tanımlamalarına ve planlamalarına olanak tanıyan uygulama aşağıdakilerden hangisidir?</strong>
