@@ -99,7 +99,7 @@ public class Program
 
         // Create output directories
         SetupOutputDirectories();
-        
+
         await SorularMain(forceReprocess);
         //await SinavKitapcikMain(args);
         Console.WriteLine("Program bitti.");
@@ -114,17 +114,17 @@ public class Program
         // Get the parent directory
         projectDirectory = Directory.GetParent(projectDirectory).Parent.Parent.FullName;
         Console.WriteLine($"Proje dizini: {projectDirectory}");
-        
+
         // Create main output directory
         outputDirectory = Path.Combine(projectDirectory, "output");
         Directory.CreateDirectory(outputDirectory);
         Console.WriteLine($"Ana çıktı dizini oluşturuldu: {outputDirectory}");
-        
+
         // Create subdirectories
         jsonDirectory = Path.Combine(outputDirectory, "json");
         mdDirectory = Path.Combine(outputDirectory, "md");
         pdfDirectory = Path.Combine(outputDirectory, "pdf");
-        
+
         Directory.CreateDirectory(jsonDirectory);
         Directory.CreateDirectory(mdDirectory);
         Directory.CreateDirectory(pdfDirectory);
@@ -145,13 +145,17 @@ public class Program
 
         foreach (var ders in dersler)
         {
-            string jsonFileName = $"{ders.DersiVeren ?? "ATA-AÖF"} - Dönem {ders.Donem} - {ders.CourseName} - Tüm Sorular.json";
+            string jsonFileName =
+                $"{ders.DersiVeren ?? "ATA-AÖF"} - Dönem {ders.Donem} - {ders.CourseName} - Tüm Sorular.json";
             string jsonFilePath = Path.Combine(jsonDirectory, jsonFileName);
 
-            string markdownFileName = $"{ders.DersiVeren ?? "ATA-AÖF"} - Dönem {ders.Donem} - {ders.CourseName} - Sorular.md";
-            
+            string markdownFileName =
+                $"{ders.DersiVeren ?? "ATA-AÖF"} - Dönem {ders.Donem} - {ders.CourseName} - Sorular.md";
+
             // Add to README regardless of whether it's skipped or not, to keep it complete
-            readmeBuilder.AppendLine($"- [Dönem {ders.Donem} - {ders.CourseName}](<{markdownFileName}>)");
+            readmeBuilder.AppendLine(
+                $"- [Dönem {ders.Donem} - {ders.CourseName}](<{markdownFileName}>)"
+            );
 
             // Skip if not forcing and the file was modified in the last 12 hours
             if (!forceReprocess && File.Exists(jsonFilePath))
@@ -159,13 +163,15 @@ public class Program
                 var lastWriteTime = File.GetLastWriteTimeUtc(jsonFilePath);
                 if ((DateTime.UtcNow - lastWriteTime) < TimeSpan.FromHours(12))
                 {
-                    Console.WriteLine($"'{ders.CourseName}' dersi yakın zamanda işlenmiş, atlanıyor.");
+                    Console.WriteLine(
+                        $"'{ders.CourseName}' dersi yakın zamanda işlenmiş, atlanıyor."
+                    );
                     continue;
                 }
             }
 
             Console.WriteLine($"İşlenen ders: {ders.CourseName} (ID: {ders.DersId})");
-            
+
             var markdownBuilder = new StringBuilder();
             markdownBuilder.AppendLine($"# {ders.CourseName}");
 
@@ -188,7 +194,10 @@ public class Program
             KaydetJson(jsonFilePath, tumSorular);
 
             Console.WriteLine($"Markdown dosyası yazılıyor: {markdownFileName}");
-            File.WriteAllText(Path.Combine(mdDirectory, markdownFileName), markdownBuilder.ToString());
+            File.WriteAllText(
+                Path.Combine(mdDirectory, markdownFileName),
+                markdownBuilder.ToString()
+            );
         }
 
         Console.WriteLine($"Readme dosyası yazılıyor: {readmeDosyaAdi}");
@@ -206,19 +215,26 @@ public class Program
         {
             try
             {
-                Console.WriteLine($"Ders için PDF indiriliyor: {ders.CourseName} (ID: {ders.DersId})");
-                // ders için olan pdf'leri indir ve ders ismiyle kaydet 
-                using var response = await client.GetAsync($"https://oys.ataaof.edu.tr/ktpcik/{ders.DersId}.pdf");
+                Console.WriteLine(
+                    $"Ders için PDF indiriliyor: {ders.CourseName} (ID: {ders.DersId})"
+                );
+                // ders için olan pdf'leri indir ve ders ismiyle kaydet
+                using var response = await client.GetAsync(
+                    $"https://oys.ataaof.edu.tr/ktpcik/{ders.DersId}.pdf"
+                );
                 response.EnsureSuccessStatusCode();
                 var pdfBytes = await response.Content.ReadAsByteArrayAsync();
-                string pdfFileName = $"{ders.Donem} - {ders.CourseName} - 2024-2025 Bütünleme Sınavı Soruları - ATA-AÖF.pdf";
+                string pdfFileName =
+                    $"{ders.Donem} - {ders.CourseName} - 2024-2025 Bütünleme Sınavı Soruları - ATA-AÖF.pdf";
                 string pdfFilePath = Path.Combine(pdfDirectory, pdfFileName);
                 Console.WriteLine($"PDF dosyası kaydediliyor: {pdfFileName}");
                 File.WriteAllBytes(pdfFilePath, pdfBytes);
             }
             catch (HttpRequestException ex)
             {
-                Console.WriteLine($"PDF indirilemedi: {ders.CourseName} (ID: {ders.DersId}) - Hata: {ex.Message}");
+                Console.WriteLine(
+                    $"PDF indirilemedi: {ders.CourseName} (ID: {ders.DersId}) - Hata: {ex.Message}"
+                );
             }
         }
         Console.WriteLine("SinavKitapcikMain bitti.");
@@ -231,7 +247,9 @@ public class Program
         for (int i = 0; i < 7; i++)
         {
             Console.WriteLine($"      -> Deneme {i + 1}/7");
-            var response = await client.GetAsync($"https://vtakip.ataaof.edu.tr/atametaservice.asmx/GetDenemeSoruByUnite?dersId={dersId}&unite={unite}");
+            var response = await client.GetAsync(
+                $"https://vtakip.ataaof.edu.tr/atametaservice.asmx/GetDenemeSoruByUnite?dersId={dersId}&unite={unite}"
+            );
             response.EnsureSuccessStatusCode();
             var gelenSorular = await response.Content.ReadFromJsonAsync<List<Soru>>();
             if (gelenSorular != null)
@@ -255,11 +273,21 @@ public class Program
         foreach (var soru in sorular)
         {
             markdownBuilder.AppendLine($"1. {soru.SoruMetni}");
-            markdownBuilder.AppendLine($"    - {(soru.DogruCevap == "A" ? "**Cevap " : "")}A-) {soru.A.Trim()}{(soru.DogruCevap == "A" ? "**" : "")}");
-            markdownBuilder.AppendLine($"    - {(soru.DogruCevap == "B" ? "**Cevap " : "")}B-) {soru.B.Trim()}{(soru.DogruCevap == "B" ? "**" : "")}");
-            markdownBuilder.AppendLine($"    - {(soru.DogruCevap == "C" ? "**Cevap " : "")}C-) {soru.C.Trim()}{(soru.DogruCevap == "C" ? "**" : "")}");
-            markdownBuilder.AppendLine($"    - {(soru.DogruCevap == "D" ? "**Cevap " : "")}D-) {soru.D.Trim()}{(soru.DogruCevap == "D" ? "**" : "")}");
-            markdownBuilder.AppendLine($"    - {(soru.DogruCevap == "E" ? "**Cevap " : "")}E-) {soru.E.Trim()}{(soru.DogruCevap == "E" ? "**" : "")}");
+            markdownBuilder.AppendLine(
+                $"    - {(soru.DogruCevap == "A" ? "**Cevap " : "")}A-) {soru.A.Trim()}{(soru.DogruCevap == "A" ? "**" : "")}"
+            );
+            markdownBuilder.AppendLine(
+                $"    - {(soru.DogruCevap == "B" ? "**Cevap " : "")}B-) {soru.B.Trim()}{(soru.DogruCevap == "B" ? "**" : "")}"
+            );
+            markdownBuilder.AppendLine(
+                $"    - {(soru.DogruCevap == "C" ? "**Cevap " : "")}C-) {soru.C.Trim()}{(soru.DogruCevap == "C" ? "**" : "")}"
+            );
+            markdownBuilder.AppendLine(
+                $"    - {(soru.DogruCevap == "D" ? "**Cevap " : "")}D-) {soru.D.Trim()}{(soru.DogruCevap == "D" ? "**" : "")}"
+            );
+            markdownBuilder.AppendLine(
+                $"    - {(soru.DogruCevap == "E" ? "**Cevap " : "")}E-) {soru.E.Trim()}{(soru.DogruCevap == "E" ? "**" : "")}"
+            );
             markdownBuilder.AppendLine("    ***");
         }
         return markdownBuilder.ToString();
@@ -268,11 +296,14 @@ public class Program
     private static void KaydetJson(string dosyaAdi, object veri)
     {
         Console.WriteLine($"  KaydetJson çağrıldı: {dosyaAdi}");
-        string json = JsonSerializer.Serialize(veri, new JsonSerializerOptions
-        {
-            WriteIndented = true,
-            Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping
-        });
+        string json = JsonSerializer.Serialize(
+            veri,
+            new JsonSerializerOptions
+            {
+                WriteIndented = true,
+                Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping,
+            }
+        );
         File.WriteAllText(dosyaAdi, json);
         Console.WriteLine($"  JSON dosyası başarıyla kaydedildi.");
     }
