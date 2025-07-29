@@ -3,6 +3,7 @@ using System.Text;
 using System.Text.Encodings.Web;
 using System.Text.Json;
 using System.Text.Json.Serialization;
+using System.Linq;
 
 public class Ders
 {
@@ -157,47 +158,67 @@ public class Program
                 $"- [Dönem {ders.Donem} - {ders.CourseName}](<{markdownFileName}>)"
             );
 
-            // Skip if not forcing and the file was modified in the last 12 hours
-            if (!forceReprocess && File.Exists(jsonFilePath))
+            // Skip if not forcing and the file was modified in the last 24 hours
+            bool shouldSkip = !forceReprocess &&
+                              File.Exists(jsonFilePath) &&
+                              (DateTime.UtcNow - File.GetLastWriteTimeUtc(jsonFilePath)) < TimeSpan.FromHours(24);
+
+            if (shouldSkip)
             {
-                var lastWriteTime = File.GetLastWriteTimeUtc(jsonFilePath);
-                if ((DateTime.UtcNow - lastWriteTime) < TimeSpan.FromHours(12))
+                Console.WriteLine($"'{ders.CourseName}' dersi yakın zamanda işlenmiş, atlanıyor.");
+                Console.WriteLine($"'{ders.CourseName}' dersi için mevcut JSON dosyasından Markdown oluşturuluyor.");
+
+                List<Soru> existingSorular = JsonSerializer.Deserialize<List<Soru>>(File.ReadAllText(jsonFilePath));
+                var markdownBuilder = new StringBuilder();
+                markdownBuilder.AppendLine($"# {ders.CourseName}");
+
+                var sorularByUnite = existingSorular.GroupBy(s => s.Unite).OrderBy(g => g.Key);
+
+                foreach (var group in sorularByUnite)
                 {
-                    Console.WriteLine(
-                        $"'{ders.CourseName}' dersi yakın zamanda işlenmiş, atlanıyor."
-                    );
-                    continue;
+                    markdownBuilder.AppendLine($"## Unite {group.Key}");
+                    markdownBuilder.Append(SorulariMarkdownaDonustur(group.ToList()));
                 }
+                File.WriteAllText(Path.Combine(mdDirectory, markdownFileName), markdownBuilder.ToString());
             }
-
-            Console.WriteLine($"İşlenen ders: {ders.CourseName} (ID: {ders.DersId})");
-
-            var markdownBuilder = new StringBuilder();
-            markdownBuilder.AppendLine($"# {ders.CourseName}");
-
-            List<Soru> tumSorular = new List<Soru>();
-
-            for (int unite = 1; unite <= 14; unite++)
+            else
             {
-                Console.WriteLine($"  -> Ünite {unite} için sorular getiriliyor...");
-                markdownBuilder.AppendLine($"## Unite {unite}");
-                var sorular = await GetSorular(ders.DersId, unite);
-                Console.WriteLine($"  -> {sorular.Count} adet yeni soru bulundu.");
-                tumSorular.AddRange(sorular);
+                Console.WriteLine($"İşlenen ders: {ders.CourseName} (ID: {ders.DersId})");
 
-                // Soruları Markdown formatında dosyaya ekle
-                markdownBuilder.Append(SorulariMarkdownaDonustur(sorular));
+                var markdownBuilder = new StringBuilder();
+                markdownBuilder.AppendLine($"# {ders.CourseName}");
+
+                List<Soru> tumSorular = new List<Soru>();
+
+                for (int unite = 1; unite <= 14; unite++)
+                {
+                    Console.WriteLine($"  -> Ünite {unite} için sorular getiriliyor...");
+                    var sorular = await GetSorular(ders.DersId, unite);
+                    if (sorular.Any())
+                    {
+                        markdownBuilder.AppendLine($"## Unite {unite}");
+                        Console.WriteLine($"  -> {sorular.Count} adet yeni soru bulundu.");
+                        tumSorular.AddRange(sorular);
+
+                        // Soruları Markdown formatında dosyaya ekle
+                        markdownBuilder.Append(SorulariMarkdownaDonustur(sorular));
+                    }
+                    else
+                    {
+                        Console.WriteLine($"  -> Ünite {unite} için soru bulunamadı.");
+                    }
+                }
+
+                // Tüm soruları JSON olarak dosyaya kaydet
+                if (tumSorular.Any())
+                {
+                    Console.WriteLine($"Tüm sorular JSON olarak kaydediliyor: {jsonFileName}");
+                    KaydetJson(jsonFilePath, tumSorular);
+                }
+
+                Console.WriteLine($"Markdown dosyası yazılıyor: {markdownFileName}");
+                File.WriteAllText(Path.Combine(mdDirectory, markdownFileName), markdownBuilder.ToString());
             }
-
-            // Tüm soruları JSON olarak dosyaya kaydet
-            Console.WriteLine($"Tüm sorular JSON olarak kaydediliyor: {jsonFileName}");
-            KaydetJson(jsonFilePath, tumSorular);
-
-            Console.WriteLine($"Markdown dosyası yazılıyor: {markdownFileName}");
-            File.WriteAllText(
-                Path.Combine(mdDirectory, markdownFileName),
-                markdownBuilder.ToString()
-            );
         }
 
         Console.WriteLine($"Readme dosyası yazılıyor: {readmeDosyaAdi}");

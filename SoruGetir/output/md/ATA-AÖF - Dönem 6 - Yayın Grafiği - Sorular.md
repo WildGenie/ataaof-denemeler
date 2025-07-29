@@ -368,7 +368,7 @@
     - E-) RGB
     ***
 1. <strong>Damlalık aracı aşağıdakilerden hangisini yapmamızı sağlamaktadır?</strong>
-    - A-) Projeyi pdf formatında kaydetmek
+    - **Cevap A-) Projeyi pdf formatında kaydetmek**
     - B-) Dosyayı paketlemek
     - C-) Sayfaları tek tek jpeg olarak kaydetmek
     - D-) Proje dosyasını mail olarak g&ouml;ndermek
@@ -379,7 +379,7 @@
     - B-) Metinleri convertlemek
     - C-) Renk kopyalamak ve kodlarını g&ouml;rmek
     - D-) Sayfa boyutunu d&uuml;zenlemek
-    - E-) Alanları se&ccedil;mek
+    - **Cevap E-) Alanları se&ccedil;mek**
     ***
 1. <strong>Yazılımdaki ara&ccedil;ların kısayollarını değiştirmek i&ccedil;in hangi işlemleri yapmamız gerekmektedir?</strong>
     - A-) File, Package
