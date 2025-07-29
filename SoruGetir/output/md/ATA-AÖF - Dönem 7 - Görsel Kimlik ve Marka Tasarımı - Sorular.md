@@ -312,7 +312,7 @@
     - D-) Denge
     - E-) Benzeşme
     ***
-1. ......... s&uuml;recinin &ouml;nemli par&ccedil;ası yaratıcı, pratik veya ekonomik sorunları, problemleri &ccedil;&ouml;zmektir.<br />
+1. .................. s&uuml;recinin &ouml;nemli par&ccedil;ası yaratıcı, pratik veya ekonomik sorunları, problemleri &ccedil;&ouml;zmektir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) Tasarım**
     - B-) Kompozisyon
@@ -383,6 +383,13 @@
     - **Cevap C-) Ritim**
     - D-) B&uuml;t&uuml;nl&uuml;k
     - E-) Kapalılık
+    ***
+1. <strong>G&ouml;z&uuml; belirli bir mek&acirc;n boyunca hareket ettiren, geometriksel uzunluğu ve y&ouml;n&uuml; olan tasarım elemanı aşağıdakilerden hangisidir?</strong>
+    - A-) Ton-Işık-G&ouml;lge
+    - B-) Mek&acirc;n
+    - C-) Doku
+    - D-) Renk
+    - **Cevap E-) &Ccedil;izgi**
     ***
 ## Unite 5
 1. <strong>Aşağıdakilerden hangisi g&ouml;rsel kimlik pazarlama malzemelerinden biri <u>değildir</u>?</strong>
@@ -461,6 +468,13 @@
     - **Cevap C-) Etiket**
     - D-) Promosyon
     - E-) Broş&uuml;r
+    ***
+1. <strong>Kurum ve firmaların bir &ouml;nceki yıla ait faaliyet bilgilerine yer verilen kitap&ccedil;ıklara ne denir?</strong>
+    - A-) Katalog
+    - B-) Dergi
+    - C-) Broş&uuml;r
+    - **Cevap D-) Yıllık rapor**
+    - E-) Bloknot
     ***
 1. <strong>Kurum ve işletmelerin, markaları veya &uuml;r&uuml;nleri hakkında m&uuml;şterilerine ya da hedef kitlelerine bilgi vermek amacıyla hazırladıkları kitap&ccedil;ıklara ne ad verilir?</strong>
     - A-) Kitap
@@ -565,7 +579,15 @@ IV.&nbsp;M&uuml;şteri ile diyalog başlatacak kadar dikkat s&uuml;resini uzatab
     - **Cevap D-) Mimari**
     - E-) G&ouml;rsel tasarım
     ***
-1. <strong>Kullanıcıların reklamı tıkladıklarında &ouml;zel olarak oluşturulmuş bir tanıtım Web sayfasına, bir Web sitesi i&ccedil;indeki belirli bir Web sayfasına veya ana sayfaların &ouml;zel s&uuml;r&uuml;mlerine g&ouml;t&uuml;recek şekilde y&ouml;nlendiren banner t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+1. <strong>Aşağıdakilerden hangisi a&ccedil;ılış sayfalarının temel &ouml;gelerinden biri&nbsp;<u>değildir</u>?</strong><br type="_moz" />
+
+    - A-) Ziyaret&ccedil;ilerle duygusal bir bağ kuran g&uuml;&ccedil;l&uuml; g&ouml;rseller
+    - B-) İlgi &ccedil;ekici başlıklar
+    - C-) Etkili CTA butonları
+    - D-) Marka g&uuml;veni oluşturan m&uuml;şteri yorumları
+    - **Cevap E-) Banner&#39;lar<br type="_moz" />**
+    ***
+1. <strong>Kullanıcıların reklamı tıkladıklarında &ouml;zel olarak oluşturulmuş bir tanıtım web sayfasına, bir web sitesi i&ccedil;indeki belirli bir web sayfasına veya ana sayfaların &ouml;zel s&uuml;r&uuml;mlerine g&ouml;t&uuml;recek şekilde y&ouml;nlendiren banner t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Basit
     - **Cevap B-) A&ccedil;ılış sayfasına bağlantı**
     - C-) Animasyonlu
@@ -657,6 +679,13 @@ IV.&nbsp;M&uuml;şteri ile diyalog başlatacak kadar dikkat s&uuml;resini uzatab
     - D-) Tutarlılık ve devamlılık gerektirir.
     - E-) &Uuml;&ccedil; adımda tamamlanabilir.
     ***
+1. <strong>Aşağıdakilerden hangisi i&ccedil;erik pazarlama t&uuml;r&uuml; olarak e-postaların &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - A-) D&uuml;zenli olarak g&ouml;nderilir.
+    - B-) İ&ccedil;eriği doğrudan ulaştırır.
+    - **Cevap C-) Sorulara cevap verir.**
+    - D-) Tek seferde az bilgi g&ouml;nderilir.
+    - E-) Abonelik sistemi vardır.
+    ***
 1. <strong>Aşağıdakilerden hangisi i&ccedil;erik pazarlama stratejisi kurallarından biridir?</strong>
     - A-) T&uuml;keticiye &ouml;zg&uuml; belirlenmesi
     - **Cevap B-) Kesin kurallarının olmaması**
@@ -673,7 +702,7 @@ IV.&nbsp;M&uuml;şteri ile diyalog başlatacak kadar dikkat s&uuml;resini uzatab
     - **Cevap D-) Reklam kampanyası**
     - E-) Televizyon reklamları
     ***
-1. <strong>Aşağıdakilerden hangisinde bir reklam kampanyasının karar verme aşamalarından biri verilmemiştir?</strong>
+1. <strong>Aşağıdakilerden hangisinde bir reklam kampanyasının karar verme aşamalarından biri <u>verilmemiştir</u>?</strong>
     - A-) T&uuml;ketici profilinin incelenmesi
     - **Cevap B-) Resim, sembol ve fig&uuml;rlerin se&ccedil;imi**
     - C-) Hedef kitlenin reklam ara&ccedil;larına olan alışkanlığın araştırılması
@@ -859,6 +888,14 @@ Verilen g&ouml;rsellere ilişkin doğru tanımlama aşağıdakilerden hangisinde
     - C-) Logo
     - D-) Amblem
     - E-) Sembol
+    ***
+1. Kurumsal kimlik kılavuzunda yer alan &ouml;ğelerden bazıları hem basılı hem de dijital olarak hazırlanmalı ve ilgililerle paylaşılmalıdır.<br />
+<strong>Aşağıdakilerden hangisinde yer alan unsur i&ccedil;in b&ouml;yle bir şart <u>bulunmamaktadır</u>?</strong>
+    - A-) Davetiyeler
+    - **Cevap B-) Mail Şablonu**
+    - C-) Kartvizit
+    - D-) Sertifikalar
+    - E-) Faturalar
     ***
 ## Unite 10
 1. <strong>Aşağıdakilerden hangisi marka ve &uuml;r&uuml;n arasındaki farklılıklardan biri <u>değildir</u>?</strong>
@@ -1061,6 +1098,13 @@ III. Tek bir coğrafi alanda satışının yapılıyor olması<br />
     - D-) Markanın farklılıklarını vurgulaması
     - **Cevap E-) Sıklıkla yenilenmesi**
     ***
+1. <strong>Marka konumlandırmanın tanımı aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Markanın hedef kitleye sunacakları ve bunu yaparken oluşturulmak istenen imajın tasarlanmasına ilişkin &ccedil;alışmalar**
+    - B-) Markanın yaptığı her şeyin temelini oluşturan, yaptığı her şeye y&ouml;n veren temel fikir ya da &ouml;nerme
+    - C-) Marka kimliğinin &ouml;nemli y&ouml;nleri, marka değerleri, markanın m&uuml;şterileri ve d&uuml;nya i&ccedil;in neler sunabileceğini ifade eden c&uuml;mle
+    - D-) Markanın kimi zaman vaadini, bazen de rekabette yer aldığı kendine &ouml;zg&uuml; konumunu vurgulamayı ama&ccedil;layan i&ccedil;erik
+    - E-) Markanın m&uuml;şterileri ile iletişim kurma tarzını tanımlayan sıfat
+    ***
 1. <strong>Marka Sesi&rsquo;nin tanımı aşağıdakilerden hangisidir?</strong>
     - A-) Markanın hedef kitleye sunacakları ve bunu yaparken oluşturulmak istenen imajın tasarlanmasına ilişkin &ccedil;alışmalar
     - B-) Markanın yaptığı her şeyin temelini oluşturan, yaptığı her şeye y&ouml;n veren temel fikir ya da &ouml;nerme
@@ -1111,7 +1155,8 @@ III. Tek bir coğrafi alanda satışının yapılıyor olması<br />
     - D-) Marka iletişimi kampanyası prod&uuml;ksiyon
     - E-) Marka iletişimi kampanyası
     ***
-1. <strong>Bir marka iletişimi kampanyası i&ccedil;in aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+1. <strong>Bir marka iletişimi kampanyası hakkında aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?</strong><br type="_moz" />
+
     - A-) Bir kampanya s&uuml;recinde b&uuml;t&ccedil;eleme birden &ccedil;ok kategoride ele alınmalıdır.
     - B-) Marka iletişimi kampanyasında reklam unsuru olduk&ccedil;a &ouml;nemlidir.
     - C-) Marka iletişimi kampanyası performansı medya planlama ile doğrudan ilişkilidir.
@@ -1149,7 +1194,7 @@ III.&nbsp;Hedef kitlenin &uuml;r&uuml;n&uuml; satın almaya ikna edilebilirliği
     - D-) II ve III
     - **Cevap E-) I, II ve III**
     ***
-1. <strong>Performansa y&ouml;nelik araştırma, herhangi bir iletişim kampanyasında &uuml;&ccedil; işleve hizmet eder. Bunlar aşağıdakilerden hangisinde doğru verilmiştir?</strong>
+1. Performansa y&ouml;nelik araştırma, herhangi bir iletişim kampanyasında &uuml;&ccedil; işleve hizmet eder.<strong> Bunlar aşağıdakilerden hangisinde doğru verilmiştir?</strong>
     - A-) G&ouml;rsel medya organlarını belirlemek &ndash; hedef kitleyi belirlemek &ndash; sonu&ccedil;ları değerlendirmek
     - **Cevap B-) Etki ve sonu&ccedil;ları belirlemek &ndash; kampanyanın işe yarayıp yaramadığını belirlemek &ndash; gelecekteki faaliyetleri belirlemek**
     - C-) Marka iletişimini belirlemek &ndash; hedef kitleyi belirlemek &ndash; sonu&ccedil;ları değerlendirmek
@@ -1255,6 +1300,13 @@ III.&nbsp;Hedef kitlenin &uuml;r&uuml;n&uuml; satın almaya ikna edilebilirliği
     - **Cevap C-) Farklılaştırıcı marka yaratma stratejisi**
     - D-) Yeni marka yaratma stratejisi
     - E-) &Ccedil;oklu marka yaratma stratejisi
+    ***
+1. <strong>Bir şirketin mevcut &uuml;r&uuml;nlerinden tamamen farklı kategorilerde olan yeni &uuml;r&uuml;nleri b&uuml;nyesine katmak veya yaratmak i&ccedil;in markasını genişlettiği markalama stratejisine ne ad verilir?</strong>
+    - **Cevap A-) Marka genişlemesi**
+    - B-) Hat genişlemesi
+    - C-) &Ccedil;oklu marka yaratma
+    - D-) Yeni marka yaratma
+    - E-) Farklılaştırıcı marka
     ***
 ## Unite 14
 1. <strong>Aşağıdakilerden hangisi marka kişiliğinin işlevlerinden biri <u>değildir</u>?</strong>

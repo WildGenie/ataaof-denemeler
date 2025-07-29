@@ -22,6 +22,13 @@
     - D-) Karton Kutu
     - E-) Cam Ambalaj
     ***
+1. <strong>&ldquo;Değerin bir dizi y&uuml;ksek kontrastlı, dikd&ouml;rtgen &ccedil;ubuklar ve boşluklarla kodlandığı bir tanımlama sembol&uuml;d&uuml;r&rdquo; ifadesi, aşağıdakilerden hangisinin karşılamaktadır?</strong>
+    - **Cevap A-) Barkod**
+    - B-) Kod
+    - C-) Simge
+    - D-) Logo
+    - E-) Amblem
+    ***
 1. I. K&acirc;ğıt<br />
 II. Karton<br />
 III. Selofan<br />
@@ -74,7 +81,8 @@ III. Selofan<br />
     - D-) Oluklu mukavva
     - E-) Pet şişe
     ***
-1. <strong>&ldquo;&Uuml;r&uuml;n&uuml; i&ccedil;ine alan ilk ve asıl ambalajdır&rdquo; tanımı hangi se&ccedil;enekte verilmiştir?</strong>
+1. &Uuml;r&uuml;n&uuml; i&ccedil;ine alan ilk ve asıl ambalajdır.<strong>&nbsp;<br />
+Tanımı verilen ambalaj t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Dış ambalaj
     - B-) İ&ccedil; ambalaj
     - C-) Esnek ambalaj
@@ -189,8 +197,8 @@ III. Selofan<br />
     - D-) barkod
     - E-) enerji ve besin &ouml;geleri
     ***
-1. Tutundurma fonksiyonun d&ouml;rt asli g&ouml;revi vardır.<strong><br />
-Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
+1. Tutundurma fonksiyonun d&ouml;rt asli g&ouml;revi vardır.<br />
+<strong>Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - A-) &Uuml;r&uuml;nle &ouml;zdeşleşme
     - **Cevap B-) İşlevsellik ve estetik unsurları bir araya getirme**
     - C-) &Uuml;r&uuml;n&uuml; hatırlatma
@@ -319,6 +327,13 @@ Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - D-) KB
     - E-) Byte
     ***
+1. <strong>Aşağıdakilerden hangisi ambalaj tasarımı geliştirmek i&ccedil;in kullanılacak donanım se&ccedil;iminde dikkat edilmesi gereken noktalardan biri <u>değildir</u>?</strong>
+    - A-) Yazılımın y&uuml;kl&uuml; olduğu sabit disk, SSD olmalıdır.
+    - B-) G&uuml;n&uuml;n şartlarına g&ouml;re ortalamanın &uuml;st&uuml;nde RAM değerine sahip olmalıdır.
+    - C-) Birden &ccedil;ok fiziksel &ccedil;ekirdeğe sahip işlemciler tercih edilmelidir.
+    - D-) MHz değeri y&uuml;ksek işlemciler tercih edilmelidir.
+    - **Cevap E-) T&uuml;mleşik ekran kartına sahip bilgisayarlar tercih edilmelidir**
+    ***
 1. <strong>Bir ekrandaki piksel sayısının fazla olması aşağıdakilerden hangisine sebep olur?</strong>
     - A-) G&ouml;r&uuml;nt&uuml; netliği d&uuml;şer.
     - B-) &Ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k d&uuml;şer.
@@ -327,7 +342,7 @@ Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - E-) Ekran boyutu b&uuml;y&uuml;r.
     ***
 1. <strong>Aşağıdakilerden hangisi bilgisayarın t&uuml;m donanımları arasındaki iletişimi koordine ederek verileri işleyen donanımdır?</strong>
-    - **Cevap A-) Merkezi işlem birimi**
+    - **Cevap A-) Merkez&icirc; işlem birimi**
     - B-) Ekran kartı
     - C-) Monit&ouml;r
     - D-) RAM
@@ -397,8 +412,8 @@ Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - E-) &Ccedil;evrimi&ccedil;i bulut sisteminde depolama
     ***
 ## Unite 5
-1. Ambalajda baskı oluşum s&uuml;re&ccedil;leri &uuml;&ccedil; aşamada incelenmektedir.<strong><br />
-Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
+1. Ambalajda baskı oluşum s&uuml;re&ccedil;leri &uuml;&ccedil; aşamada incelenmektedir.<br />
+<strong>Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - A-) Baskı &ouml;ncesi hazırlık- baskı sonrası-basım
     - **Cevap B-) Baskı &ouml;ncesi hazırlık-basım s&uuml;reci-baskı sonrası**
     - C-) Konstr&uuml;ktiyon-montaj-perforaj
@@ -411,6 +426,13 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - **Cevap C-) Flekso**
     - D-) Ofset
     - E-) Tifdruk
+    ***
+1. <strong>Bobin h&acirc;linde baskı altı malzemesine 15000-50000 adet/saat hızla, &ccedil;ift taraflı baskı yapabilme &ouml;zelliğine sahip baskı tekniği aşağıdakilerden hangisidir?</strong>
+    - A-) Flekso
+    - **Cevap B-) Web ofset**
+    - C-) Tabaka ofset
+    - D-) Serigrafi
+    - E-) Tipo
     ***
 1. <strong>Aşağıdakilerden hangisi &ldquo;Tiraj&rdquo; teriminin karşılığıdır?</strong>
     - A-) Taşma payı ve kesim &ccedil;izgileri i&ccedil;in işaret
@@ -530,7 +552,7 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
 1. <strong>Aşağıdakilerden hangisi metallerin karakteristik &ouml;zellikleri arasında yer alır?</strong>
     - A-) Amorf yapı
     - B-) D&uuml;ş&uuml;k dayanım
-    - C-) Korozyon dayanımları genellikle y&uuml;ksektir
+    - C-) Korozyon dayanımları genellikle y&uuml;ksektir.
     - **Cevap D-) Y&uuml;ksek ısıl iletkenlik**
     - E-) D&uuml;ş&uuml;k tokluk
     ***
@@ -555,7 +577,7 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - D-) 1-3 mm
     - E-) 3-5 mm
     ***
-1. <strong>Aşağıdakilerden hangisi kuvars, kalsit ve soda gibi hammaddelerin uygun sıcaklıkta ergitilmesi ile oluşan saydam, sert, kırılgan ve kimyasal dayanıklılığı y&uuml;ksek olan ambalaj malzemesidir?</strong>
+1. <strong>Aşağıdakilerden hangisi kuvars, kalsit ve soda gibi ham maddelerin uygun sıcaklıkta ergitilmesi ile oluşan saydam, sert, kırılgan ve kimyasal dayanıklılığı y&uuml;ksek olan ambalaj malzemesidir?</strong>
     - A-) Al&uuml;minyum ambalaj
     - B-) Teneke ambalaj
     - C-) &Ccedil;elik ambalajlar
@@ -608,7 +630,14 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - **Cevap D-) HSB**
     - E-) HEX
     ***
-1. &ldquo;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;; ışığın eşya &uuml;zerine &ccedil;arpması ile yansıyan ışınlardan g&ouml;z&uuml;m&uuml;zde meydana gelen duyumların her biridir.&rdquo;<br />
+1. <strong>Rengin işlevsel etkilerine ilişkin verilen ifadelerden hangisi doğru bir &ouml;rnektir?</strong>
+    - A-) A&ccedil;ık renkler ağırlık etkisi verir.
+    - B-) Pastel tonlar heyecan ve gerginlik etkisi verir.
+    - C-) Dikey &ccedil;izgili renkler genişlik duygusu uyandırır.
+    - **Cevap D-) Renk, malzemenin formu hakkında fikir verir.**
+    - E-) Koyu renkler hafiflik etkisi verir.
+    ***
+1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;; ışığın eşya &uuml;zerine &ccedil;arpması ile yansıyan ışınlardan g&ouml;z&uuml;m&uuml;zde meydana gelen duyumların her biridir.<br />
 <strong>C&uuml;mleden boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Kontrastlık
     - B-) Perspektif
@@ -666,7 +695,7 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - D-) Beyaz
     - E-) Kırmızı
     ***
-1. <strong>Sarı ve kırmızı renklerin birleşiminden oluşan, enerji veren ve yeme i&ccedil;me gibi &uuml;r&uuml;n ambalajlarında sıklıkla tercih edilen renk aşağıdaki se&ccedil;eneklerin hangisinde doğru olarak verilmiştir?</strong>
+1. <strong>Sarı ve kırmızı renklerin birleşiminden oluşan, enerji veren ve yeme i&ccedil;me gibi &uuml;r&uuml;n ambalajlarında sıklıkla tercih edilen renk aşağıdakilerden hangisidir?</strong>
     - A-) Mor
     - B-) Mavi
     - C-) Kırmızı
@@ -708,7 +737,7 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - **Cevap B-) Enformasyon ama&ccedil;lı kullanım**
     - C-) Sponsor ama&ccedil;lı kullanım
     - D-) Bireysel kullanım
-    - E-) &Uuml;r&uuml;n odaklı kulanım
+    - E-) &Uuml;r&uuml;n odaklı kullanım
     ***
 1. <strong>Tipografiyi tasarımsal arka plan olarak kullanan bir tasarımcının hedeflediği tipografi kullanım bi&ccedil;imi hangisidir?</strong>
     - A-) Yazı odaklı kullanım
@@ -752,7 +781,7 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - D-) Script yazı
     - E-) Display (dekoratif)
     ***
-1. <strong>Ambalaj tipografisinde tercih edilen minimalist yaklaşımın &uuml;r&uuml;ne sağladığı katkı aşağıdaki se&ccedil;eneklerden hangisinde verilmiştir?</strong>
+1. <strong>Ambalaj tipografisinde tercih edilen minimalist yaklaşımın &uuml;r&uuml;ne sağladığı katkı aşağıdakilerin hangisidir?</strong>
     - A-) &Uuml;r&uuml;ne uygunluk
     - B-) Duygusal etki yaratmak
     - C-) Markaya uygunluk
@@ -774,6 +803,13 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - E-) Dekoratif yazı t&uuml;rlerinden faydalanmak
     ***
 ## Unite 9
+1. <strong>Aşağıdakilerden hangisi ill&uuml;strasyon teknikleri i&ccedil;inde yer alan &ldquo;geleneksel yaklaşım&rdquo; i&ccedil;indeki uygulamalardan biri <u>değildir</u>?</strong>
+    - A-) M&uuml;rekkep
+    - B-) Suluboya
+    - **Cevap C-) Vekt&ouml;rel tasarım**
+    - D-) Karakalem
+    - E-) Guaj Boya
+    ***
 1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;; herhangi bir &uuml;r&uuml;n ya da hizmet hakkında bilgi vermek, &uuml;r&uuml;n&uuml; tanıtarak satın almaya ikna etmek amacıyla afiş, ilan, etiket ve ambalaj &uuml;zerinde kullanılan ill&uuml;strasyonlardır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) Reklam ill&uuml;strasyonları**
@@ -972,6 +1008,13 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - D-) &Uuml;r&uuml;n&uuml;n faydası
     - E-) Markanın vaadi
     ***
+1. <strong>Aşağıdakilerden hangisi ambalaj tasarımında kullanılan marka ve kurum kimlik &ouml;gesi <u>değildir</u>?</strong>
+    - A-) Ambalaj tasarımında logotype
+    - B-) Ambalaj tasarımında renk
+    - **Cevap C-) Ambalaj tasarımında teknik &ouml;zellikler**
+    - D-) Ambalaj tasarımında tipografi
+    - E-) Ambalaj tasarımında yapı/form
+    ***
 1. Marka &hellip;&hellip;&hellip;&hellip;&hellip;.. kısaca işletmenin, t&uuml;keticilerinin marka hakkında nasıl hissetmesi, algılaması ve nasıl hatırlaması istediği olarak tanımlanabilir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) konumlandırması**
@@ -1036,7 +1079,7 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - D-) Fotoğraf/ill&uuml;strasyon
     - **Cevap E-) Ambalaj boyutu**
     ***
-1. <strong>T&uuml;keticinin benzer teknik &ouml;zelliklere sahip, temel gıda besinlerini satın alma kararını etkileyen unsur nedir?</strong>
+1. <strong>T&uuml;keticinin benzer teknik &ouml;zelliklere sahip, temel gıda besinlerini satın alma kararını etkileyen unsur aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Marka imajı**
     - B-) Marka logosu
     - C-) &Uuml;r&uuml;n tanınırlığı
@@ -1079,12 +1122,12 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - D-) Okunur ve okutur olması
     - E-) Estetik g&ouml;r&uuml;n&uuml;şe sahip olması
     ***
-1. <strong>Aşağıdakilerden hangisini interaktif ambalajın &ouml;zelliklerinden <u>değildir</u>?</strong>
-    - A-) Her zaman akıllı telefona gerek duyulmaz
-    - B-) T&uuml;keticiyi eğlendirir
-    - C-) Sanatsal etkinliklerden faydalanılabilir
-    - D-) Dijital yollarla etkileşim kurabilirler
-    - **Cevap E-) Maliyetli bir uygulamadır**
+1. <strong>Aşağıdakilerden hangisi interaktif ambalajın &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Her zaman akıllı telefona gerek duyulmaz.
+    - B-) T&uuml;keticiyi eğlendirir.
+    - C-) Sanatsal etkinliklerden faydalanılabilir.
+    - D-) Dijital yollarla etkileşim kurabilirler.
+    - **Cevap E-) Maliyetli bir uygulamadır.**
     ***
 1. <strong>T&uuml;keticinin etkileşimine izin veren, ger&ccedil;ek d&uuml;nya ile zenginleştirilmiş sanal g&ouml;r&uuml;nt&uuml;lerin birleştirilmesine ne ad verilir?</strong>
     - A-) İnovatif ger&ccedil;eklik
@@ -1157,7 +1200,7 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - D-) Tuvalet k&acirc;ğıdı rulolarından oyuncak yapılması
     - E-) Atık ambalajlardan &ccedil;anta yapılması
     ***
-1. <strong>Aşağıdakilerden hangisi ambalaj atıklarının &ccedil;evreye olan etkilerinden birisidir?</strong>
+1. <strong>Aşağıdakilerden hangisi ambalaj atıklarının &ccedil;evreye olan etkilerinden biridir?</strong>
     - A-) Konteyner kirliliği
     - B-) Taşıma kirliliği
     - **Cevap C-) Hava kirliliği**
@@ -1228,6 +1271,13 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - E-) Yenilebilir ambalajlar
     ***
 ## Unite 14
+1. <strong>&ldquo;&Uuml;r&uuml;nleri paketleme, depolama, saklama, koruma ve taşıma ama&ccedil;lı kullanıldığı gibi &ouml;zel tasarımlar ve marka işlevi ekleyerek satın alınma amacı ile de kullanılır.&rdquo; tanımı yapılan k&acirc;ğıt aşağıdakilerden hangisidir?</strong>
+    - A-) Pel&uuml;r k&acirc;ğıt
+    - B-) Kraft k&acirc;ğıt
+    - **Cevap C-) Ambalaj k&acirc;ğıdı**
+    - D-) Yağlı k&acirc;ğıt
+    - E-) Parş&ouml;men k&acirc;ğıdı
+    ***
 1. <strong>&ldquo;T&uuml;m raportların en basitidir ve uygulaması en kolay olan raportlama şeklidir.&rdquo; ifadesi ile a&ccedil;ıklanan raport t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) &Uuml;slup raport (diogonel soter raport)
     - B-) &Ccedil;evirme

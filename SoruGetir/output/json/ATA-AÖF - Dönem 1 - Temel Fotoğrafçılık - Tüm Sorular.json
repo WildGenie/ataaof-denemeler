@@ -2869,6 +2869,25 @@
     "CevapSira": 4
   },
   {
+    "SoruID": 326248,
+    "SoruMetni": "<strong>Diyafram a&ccedil;ıklarının aydınlanma koşullarına g&ouml;re otomatik olarak sağlanması i&ccedil;in yapılmış diyafram sistemi aşağıdakilerden hangisidir?</strong>",
+    "A": "Basit diyafram",
+    "B": "Otomatik diyafram",
+    "C": "Odak diyafram",
+    "D": "Diyafram a&ccedil;ıklığı",
+    "E": "İris diyafram",
+    "DogruCevap": "B",
+    "DersAd": "Temel Fotoğrafçılık",
+    "Somestre": 0,
+    "DogruCevapSirasi": 2,
+    "Unite": 6,
+    "OlusturmaTarihi": "2025-07-28T08:49:01.01+03:00",
+    "GelYer": 1,
+    "DersId": 399,
+    "OBSDersId": 39202,
+    "CevapSira": 2
+  },
+  {
     "SoruID": 327745,
     "SoruMetni": "<strong>Aşağıdakilerden hangisi diyafram kullanımının temel ama&ccedil;ları arasında yer alır?</strong>",
     "A": "Işığın yoğunluğu ve net alan derinliğini belirler.",

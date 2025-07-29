@@ -64,11 +64,11 @@
     - **Cevap E-) Joseph Niepce**
     ***
 1. <strong>Aşağıdakilerden hangisi gazetelerin &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
-    - A-) Basılı s&uuml;reli yayınlardır
-    - **Cevap B-) Tamamen reklam ama&ccedil;lı &ccedil;ıkarılır**
-    - C-) Genellikle 8 s&uuml;tuna g&ouml;re tasarlanır
-    - D-) Haber ve bilgi paylaşım hedeflidir
-    - E-) Basılı ve elektronik olarak &uuml;retilir
+    - A-) Basılı s&uuml;reli yayınlardır.
+    - **Cevap B-) Tamamen reklam ama&ccedil;lı &ccedil;ıkarılır.**
+    - C-) Genellikle 8 s&uuml;tuna g&ouml;re tasarlanır.
+    - D-) Haber ve bilgi paylaşım hedeflidir.
+    - E-) Basılı ve elektronik olarak &uuml;retilir.
     ***
 1. <strong>Aşağıdakilerden hangisi Sanayi Devrimi ile gelişen matbaa makineleri arasında <u>yer almaz</u>?</strong>
     - A-) D&ouml;kme demir matbaa makineleri
@@ -99,7 +99,7 @@
     - D-) Eskizleyen
     - E-) Tasarlayan
     ***
-1. <strong>Aşağıdaki ifadelerden hangisi hem sanat hem de tasarım &uuml;retimi i&ccedil;in ortak bir konudur?</strong>
+1. <strong>Aşağıdakilerden hangisi hem sanat hem de tasarım &uuml;retimi i&ccedil;in ortak bir konudur?</strong>
     - A-) Hızlı &uuml;retim zorunludur.
     - B-) Fiyatı uygun olmalıdır.
     - **Cevap C-) Estetik kaygı taşımaktadır.**
@@ -134,12 +134,12 @@
     - D-) Projenin yayımlanacağı malzemenin bilgileri
     - E-) Projenin sunulacağı ortamın bilgileri
     ***
-1. <strong>Beyin fırtınası tekniği ger&ccedil;ekleştirilirken hangi i&ccedil;erikte fikirler ortaya sunulmalıdır?</strong>
-    - A-) &Ccedil;ocuk sağlığını d&uuml;ş&uuml;nen.
-    - B-) Doğayı korumaya odaklı.
-    - **Cevap C-) Konunun &ccedil;ağrıştırdığı t&uuml;m bağlamlarda.**
-    - D-) Sağlıklı beslenmeyi &ouml;ven.
-    - E-) Silahsızlanmaya dikkat &ccedil;eken.
+1. <strong>Beyin Fırtınası Tekniği ger&ccedil;ekleştirilirken hangi i&ccedil;erikte fikirler ortaya sunulmalıdır?</strong>
+    - A-) &Ccedil;ocuk sağlığını d&uuml;ş&uuml;nen
+    - B-) Doğayı korumaya odaklı
+    - **Cevap C-) Konunun &ccedil;ağrıştırdığı t&uuml;m bağlamlarda**
+    - D-) Sağlıklı beslenmeyi &ouml;ven
+    - E-) Silahsızlanmaya dikkat &ccedil;eken
     ***
 1. <strong>Aşağıdakilerden hangisi yaratıcı bir yayın grafiği tasarımı projesinin &ouml;n şartıdır?</strong>
     - **Cevap A-) Yeni olmak.**
@@ -170,7 +170,7 @@
     - E-) Aynı fikri daha &ouml;nce g&ouml;r&uuml;p g&ouml;rmediğini hatırlamalıdır.
     ***
 1. <strong>Beyin Fırtınası Tekniği aşağıdaki ama&ccedil;lardan hangisi i&ccedil;in kullanılmaktadır?</strong>
-    - A-) &Ccedil;alışma s&uuml;resini arttırmak
+    - A-) &Ccedil;alışma s&uuml;resini artırmak
     - **Cevap B-) Yaratıcı fikir bulmak**
     - C-) Araştırma yapmak
     - D-) Gider kalemi oluşturmak
@@ -275,6 +275,13 @@
     - D-) Sarı, kırmızı, turuncu - siyah, mor, yeşil
     - E-) Sarı, beyaz, turuncu - mavi, mor, kırmızı
     ***
+1. <strong>Aşağıdakilerden hangisi ritmi tanımlamaktadır?</strong>
+    - A-) Ritim, boyutlar arasındaki ilişkidir.
+    - B-) Ritim, bir nesnenin boyutuna ilişkin oransal izlenimidir.
+    - C-) Ritim, kendi i&ccedil;inde &ouml;l&ccedil;&uuml;, değer ve renk bakımından incelenirken simetrik-asimetrik ve dairesel kurgulanır.
+    - D-) Ritim, mesajımızın &ouml;nemli kısımlarını &ouml;ne &ccedil;ıkararak dikkat &ccedil;ekmektedir.
+    - **Cevap E-) Ritim s&uuml;rekliliktir, değişen &ouml;l&ccedil;&uuml;lerin tekrarlanmasından meydana gelir.**
+    ***
 1. <strong>Aşağıdakilerden hangisi yayın grafiklerinde tasarımcının duyarlılık geliştirmesi a&ccedil;ısından &ouml;nemli olup, belli standartları gerektiren bir arg&uuml;mandır?</strong>
     - A-) Oran Orantı
     - **Cevap B-) &Ouml;l&ccedil;ek**
@@ -318,7 +325,7 @@
     - **Cevap D-) Tek Y&ouml;n Baskı**
     - E-) Gofre Baskı
     ***
-1. <strong>Gutenberg diyagramına g&ouml;re okuma yer &ccedil;ekimi hangi y&ouml;ne hareket etmektedir?</strong>
+1. <strong>Gutenberg Diyagramı&#39;na g&ouml;re okuma yer &ccedil;ekimi hangi y&ouml;ne hareket etmektedir?</strong>
     - A-) Sağ alttan, Sol &uuml;ste
     - B-) Sol &uuml;sten, Sağ &uuml;ste
     - C-) Aşağıdan Yukarıya
@@ -361,18 +368,18 @@
     - E-) RGB
     ***
 1. <strong>Damlalık aracı aşağıdakilerden hangisini yapmamızı sağlamaktadır?</strong>
-    - **Cevap A-) Fotoğrafları kopyalamak**
+    - A-) Projeyi pdf formatında kaydetmek
+    - B-) Dosyayı paketlemek
+    - C-) Sayfaları tek tek jpeg olarak kaydetmek
+    - D-) Proje dosyasını mail olarak g&ouml;ndermek
+    - E-) Tasarımları farklı yazılımlarda yapıp jpeg olarak Adobe Indesign&rsquo;a yerleştirmek
+    ***
+1. <strong>Masa&uuml;st&uuml; yayıncılık i&ccedil;in daha &ccedil;ok ara&ccedil; bulunduran yazılım hangisidir?</strong>
+    - A-) Fotoğrafları kopyalamak
     - B-) Metinleri convertlemek
     - C-) Renk kopyalamak ve kodlarını g&ouml;rmek
     - D-) Sayfa boyutunu d&uuml;zenlemek
     - E-) Alanları se&ccedil;mek
-    ***
-1. <strong>Masa&uuml;st&uuml; yayıncılık i&ccedil;in daha &ccedil;ok ara&ccedil; bulunduran yazılım hangisidir?</strong>
-    - A-) Adobe Premiere Pro
-    - B-) Adobe Lightroom
-    - C-) Adobe Photoshop
-    - D-) Adobe Illustrator
-    - **Cevap E-) Adobe Indesign**
     ***
 1. <strong>Yazılımdaki ara&ccedil;ların kısayollarını değiştirmek i&ccedil;in hangi işlemleri yapmamız gerekmektedir?</strong>
     - A-) File, Package
@@ -380,6 +387,13 @@
     - C-) File, Export
     - **Cevap D-) Edit, Keyboard Shortcuts**
     - E-) Window, Workspace
+    ***
+1. <strong>Yazılım kullanırken sayfa alanını aşağı yukarı hareket ettiren &#39;&#39;El Aracını&#39;&#39;, klavyemizin hangi tuşuyla aktif h&acirc;le getirebiliriz?</strong>
+    - A-) Ctrl
+    - B-) Enter
+    - C-) Delete
+    - D-) Alt
+    - **Cevap E-) Boşluk**
     ***
 ## Unite 5
 1. <strong>Aşağıdakilerden hangisi s&uuml;reli yayın grafiği tasarımı ile ilgili iletişim ara&ccedil;larından biridir?</strong>
@@ -396,14 +410,14 @@
     - D-) S&uuml;tun
     - E-) Mod&uuml;l
     ***
-1. <strong>Aşağıdaki ifadelerden hangisi sayfa tasarımı i&ccedil;in <u>yanlıştır</u>?</strong>
-    - A-) Sayfa tasarımı okuyucuyu y&ouml;nlendirmeli.
-    - B-) Sayfa tasarımı kolay algılanmalı.
-    - C-) Sayfa tasarımı okunaklı ve se&ccedil;ilebilir olmalı.
-    - D-) Sayfa tasarımı estetik bir d&uuml;zene sahip olmalı.
-    - **Cevap E-) Sayfa tasarımı dikkat &ccedil;ekici olmamalı.**
+1. <strong>Aşağıdakilerden hangisi sayfa tasarımı i&ccedil;in <u>yanlıştır</u>?</strong>
+    - A-) Sayfa tasarımı okuyucuyu y&ouml;nlendirmelidir.
+    - B-) Sayfa tasarımı kolay algılanmalıdır.
+    - C-) Sayfa tasarımı okunaklı ve se&ccedil;ilebilir olmalıdır.
+    - D-) Sayfa tasarımı estetik bir d&uuml;zene sahip olmalıdır.
+    - **Cevap E-) Sayfa tasarımı dikkat &ccedil;ekici olmamalıdır.**
     ***
-1. <strong>Aşağıdakilerden hangisi sayfa tasarımı kılavuz ızgara sistemlerinden birisi <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi sayfa tasarımı kılavuz ızgara sistemlerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Mod&uuml;ler ızgaralar
     - B-) &Ccedil;ok s&uuml;tunlu ızgaralar
     - **Cevap C-) Tematik ızgaralar**
@@ -473,6 +487,13 @@
     - **Cevap D-) G&ouml;r&uuml;nt&uuml; işleme**
     - E-) G&ouml;z&uuml;n hareket planı
     ***
+1. <strong>Aşağıdakilerden hangisinde s&uuml;reli yayın grafiği tasarımında kullanılan bir kılavuzun ana bileşenlerinden olan işaret&ccedil;iler i&ccedil;in <u>yanlıştır</u>?</strong>
+    - A-) &Uuml;st bilgiler yer alır.
+    - **Cevap B-) Fotoğrafların bulunduğu alanlardır.**
+    - C-) Sayfa numaraları bilgisi vardır.
+    - D-) Forma &uuml;zerinde tutarlı bir konum bildirir.
+    - E-) Alt bilgiler yer alır.
+    ***
 ## Unite 6
 1. <strong>Metnin rahat bir şekilde algılanabilmesi gerekli satır arası boşlukların d&uuml;zenlenmesi işlemi aşağıdakilerden hangisidir?</strong>
     - A-) Kerning
@@ -534,7 +555,7 @@
     - A-) Aşağıda hizalama
     - B-) Yukarıda hizalama
     - C-) Merkeze hizalama
-    - D-) İyi yana yaslanmış
+    - D-) İki yana yaslanmış
     - **Cevap E-) Yana hizalama**
     ***
 1. <strong>InDesign programında tireleme işleme yapmak i&ccedil;in aşağıdakilerden hangisi se&ccedil;ili h&acirc;le getirilmelidir?</strong>
@@ -566,7 +587,7 @@
     - E-) Dekoratif
     ***
 ## Unite 7
-1. <strong>Fotoğraf makinalarındaki fotoğraflanması hedeflenen alanı tanımlayan &ccedil;er&ccedil;eve aşağıdakilerden hagisidir?</strong>
+1. <strong>Fotoğraf makinalarındaki fotoğraflanması hedeflenen alanı tanımlayan &ccedil;er&ccedil;eve aşağıdakilerden hangisidir?</strong>
     - A-) Diyafram
     - B-) Deklanş&ouml;r
     - **Cevap C-) Viz&ouml;r**
@@ -601,7 +622,7 @@
     - **Cevap D-) Temiz - tabak**
     - E-) &Ccedil;&ouml;l - sıcak
     ***
-1. <strong>Aşağıdakilerden hangisi bir fotoğrafın değiştirilemeyen &ouml;zelliklerinden birisidir?</strong>
+1. <strong>Aşağıdakilerden hangisi bir fotoğrafın değiştirilemeyen &ouml;zelliklerinden biridir?</strong>
     - A-) Netlik
     - **Cevap B-) &Ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k**
     - C-) Ton
@@ -660,6 +681,13 @@ III. Şekil<br />
     - D-) Denge
     - **Cevap E-) Armoni**
     ***
+1. <strong>Aşağıdakilerden hangisi n&ouml;tr renklerden biri <u>değildir</u>?</strong>
+    - A-) Kahverengi
+    - B-) Beyaz
+    - **Cevap C-) M&uuml;rd&uuml;m**
+    - D-) Siyah
+    - E-) Gri
+    ***
 ## Unite 8
 1. <strong>Aşağıdakilerden hangisi gazete reklam t&uuml;rlerinden biri <u>değildir</u>?</strong>
     - A-) Teşhir (display)
@@ -679,8 +707,8 @@ III. Şekil<br />
     - **Cevap A-) Fotoğraf**
     - B-) Başlık
     - C-) Metin
-    - D-) Alt Başlık
-    - E-) Sayfa D&uuml;zeni
+    - D-) Alt başlık
+    - E-) Sayfa d&uuml;zeni
     ***
 1. <strong>Aşağıdakilerden hangisi bir &uuml;r&uuml;n, hizmet ya da kurumu tanıtmak i&ccedil;in kullanılan ill&uuml;strasyon t&uuml;r&uuml;d&uuml;r?</strong>
     - A-) Yayın
@@ -784,7 +812,7 @@ III. Şekil<br />
     - D-) Ş&ouml;miz
     - **Cevap E-) Su yolu**
     ***
-1. <strong>K&uuml;nye sayfasında aşağıdakilerde hangisi <u>yer almaz</u>?</strong>
+1. <strong>K&uuml;nye sayfasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
     - A-) İll&uuml;strat&ouml;r&uuml;n adı soyadı
     - B-) Matbaanın adresi
     - **Cevap C-) Yayının ithaf edildiği kişinin adı soyadı**
@@ -869,7 +897,7 @@ III. Şekil<br />
     - **Cevap D-) Kargo ve nakliye**
     - E-) Ciltleme se&ccedil;imi
     ***
-1. <strong>Aşağıdakilerden hangisi kağıt standartları arasında <u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi k&acirc;ğıt standartları arasında <u>yer almaz</u>?</strong>
     - A-) ISO
     - B-) DIN
     - **Cevap C-) &Ccedil;İN**
@@ -925,7 +953,7 @@ III. Şekil<br />
     - **Cevap D-) Kristal destekli ciltleme**
     - E-) Tel dikişli ciltleme
     ***
-1. <strong>Kuzey Amerika Paund veya Bond sistemi olarak anılan sistemin sembol&uuml; aşağıdakilerden hangisidir?</strong>
+1. <strong>Kuzey Amerika Paund veya Bond Sistemi olarak anılan sistemin sembol&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) &amp;
     - B-) $
     - C-) <span class="math-tex">\(\square \)</span>
@@ -940,7 +968,7 @@ III. Şekil<br />
     - D-) Sergirafi
     - E-) Flesko Baskı
     ***
-1. <strong>Aşağıdakilerden hangisinde baskı &ouml;ncesi aşamalar doğru bir şekilde verilmiştir?</strong>
+1. <strong>Aşağıdakilerden hangisinde baskı &ouml;ncesi aşamalar doğru bir şekilde sıralanmıştır?</strong>
     - **Cevap A-) Kağıt / Matbaa / Kalıplama / Renk Ayrımı / Montaj**
     - B-) Tireleme / Tram / Layout / Dijital Baskı /Uygulama
     - C-) Pilyaj / Poza / Revolta / Montaj / Flekso / Tram
@@ -997,8 +1025,8 @@ III. Şekil<br />
     - E-) Tipo Baskı
     ***
 1. <strong>Aşağıdakilerden hangisi baskı &ouml;ncesi dikkat edilmesi gereken g&ouml;revlerden biri <u>değildir</u>?</strong>
-    - A-) Yayın grafiğinde metin ve fontların doğruluğundan ve bozulmadığından emin olmak i&ccedil;in en az iki kez kontrol etmek.
-    - B-) Ofset matbaa CMYK sistemine g&ouml;re &ccedil;alışır bu sebeple RGB dosyalar veya g&ouml;r&uuml;nt&uuml;ler varsa bu formatları uygun şekilde d&ouml;n&uuml;şt&uuml;r&uuml;n&uuml;z.
+    - A-) Yayın grafiğinde metin ve fontların doğruluğundan ve bozulmadığından emin olmak i&ccedil;in en az iki kez kontrol ediniz.
+    - B-) Ofset matbaa CMYK sistemine g&ouml;re &ccedil;alışır; bu sebeple RGB dosyalar veya g&ouml;r&uuml;nt&uuml;ler varsa bu formatları uygun şekilde d&ouml;n&uuml;şt&uuml;r&uuml;n&uuml;z.
     - C-) Dosyanın yerleştirilmesini, yani forma d&uuml;zenini ayarlayın, sayfaları yazdırmak i&ccedil;in doğru sırada yerleştirin.
     - **Cevap D-) Yayın grafiğini yazdırmadan &ouml;nce dijital dosyaları RGB olarak formatlayınız.**
     - E-) Yayın grafiğinde ofset baskıya girmeden &ouml;nce mutlaka dijital prova &ccedil;ıktıları alarak son kontrollerinizi yapınız.
@@ -1031,6 +1059,13 @@ III. Şekil<br />
     - C-) CMYK &ndash; Jpeg
     - D-) RGB &ndash; Pantone
     - E-) PDF &ndash; Jpeg
+    ***
+1. <strong>Aşağıdakilerden hangisi Dijital Yayın Grafiği &uuml;r&uuml;nlerinin (e-kitap, e-dergi gibi) okuyucuya sunduğu avantajlardan biri <u>değildir</u>?</strong>
+    - A-) D&uuml;ş&uuml;k maliyetli olması
+    - B-) Kolaylıkla erişilebilir olması
+    - **Cevap C-) Baskı s&uuml;recindeki zamandan kazan&ccedil; sağlanması**
+    - D-) Kaynak &ccedil;eşitliliğinin fazla olması
+    - E-) Satın alma kolaylığının olması
     ***
 1. <strong>Aşağıdakilerden hangisi e-gazetelerin avantajlarından biri <u>değildir</u>?</strong>
     - A-) G&uuml;ncel haberlere ulaşabilme kolaylığının olması
@@ -1105,7 +1140,7 @@ III. Şekil<br />
     - **Cevap D-) Tasarımcıya ihtiya&ccedil; duyulmaması**
     - E-) Ekran &uuml;zerinde kaliteli g&ouml;r&uuml;nt&uuml; sunması
     ***
-1. <strong>Hangisi e-kitap okumak i&ccedil;in <u>kullanılmamaktadır</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi e-kitap okumak i&ccedil;in <u>kullanılmamaktadır</u>?</strong>
     - A-) Telefon
     - B-) Tablet
     - C-) Bilgisayar
@@ -1133,6 +1168,13 @@ III. Şekil<br />
     - C-) 5x8
     - D-) 5x12
     - **Cevap E-) 7x14**
+    ***
+1. <strong>Aşağıdakilerden hangisi istatistiklerde neredeyse hi&ccedil; tercih edilmeyen ekran &ouml;l&ccedil;&uuml;s&uuml;d&uuml;r?</strong>
+    - A-) 1440 piksel - 900 piksel
+    - B-) 1600 piksel - 900 piksel
+    - C-) 1680 piksel - 1050 piksel
+    - D-) 1920 piksel - 1080 piksel
+    - **Cevap E-) 2560 piksel ve &uuml;zeri 1440 piksel**
     ***
 1. <strong>Aşağıdakilerden hangisi dijital ortamda ızgara anatomisi ve kavramlarından <u>değildir</u>?</strong>
     - A-) Sayfa bi&ccedil;imi ve format
@@ -1226,6 +1268,13 @@ III. Şekil<br />
     - D-) &Uuml;retiminin daha kolay bir şekilde ger&ccedil;ekleştirilebilmesi
     - **Cevap E-) G&ouml;r&uuml;nt&uuml;n&uuml;n bulanıklaşmadan istenilen boyutta b&uuml;y&uuml;t&uuml;lebilmesi**
     ***
+1. <strong>Aşağıdakilerden hangisi, canlandırma tasarımında cazibe yaratma y&ouml;ntemlerinden biri <u>değildir</u>?</strong>
+    - A-) Karaktere &ouml;zg&uuml;n bir konuşma şekli vermek
+    - B-) Karaktere akılda kalıcı fiziksel &ouml;zellikler vermek
+    - **Cevap C-) Karaktere diğer karakterler ile aynı kost&uuml;m&uuml; vermek**
+    - D-) Karaktere &ouml;ne &ccedil;ıkan bir kişilik &ouml;zelliği vermek
+    - E-) Karaktere farklı bir hareket ediş tarzı vermek
+    ***
 1. <strong>Aşağıdakilerden hangisi konu olarak canlandırmada ezilme ve esneme prensibinin uygulanması i&ccedil;in uygun <u>değildir</u>?</strong>
     - **Cevap A-) Metal k&uuml;re**
     - B-) Su dolu balon
@@ -1233,7 +1282,7 @@ III. Şekil<br />
     - D-) Jelibon şeker
     - E-) Kuşt&uuml;y&uuml; yastık
     ***
-1. <strong>Aşağıdakilerden hangisi, &ouml;nc&uuml;l hareket i&ccedil;eren bir &ouml;rnek <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi &ouml;nc&uuml;l hareket i&ccedil;eren bir &ouml;rnek <u>değildir</u>?</strong>
     - A-) Topa vuran bezbolcu
     - B-) Taş atan bir sapan
     - **Cevap C-) Dağdan d&uuml;şen &ccedil;ığ**
@@ -1261,7 +1310,7 @@ III. Şekil<br />
     - **Cevap D-) Doğrudan canlandırma, harekette her zaman u&ccedil; kare canlandırma tekniğine g&ouml;re daha kesin ve hassas sonu&ccedil;lar oluşturulmasını sağlar.**
     - E-) U&ccedil; kare canlandırma, daha verimli olabilir ve son canlandırma &uuml;zerinde daha fazla kontrol sağlar.
     ***
-1. <strong>Aşağıdakilerden hangisi hareketli grafik tasarımında hareketlerin planlanmasının faydalarından <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi hareketli grafik tasarımında hareketlerin planlanmasının faydalarından biri&nbsp;<u>değildir</u>?</strong>
     - **Cevap A-) Hareketli grafik tasarımının renklerinin daha canlı olmasını sağlamaktadır.**
     - B-) Projenin amacına uygun bi&ccedil;imde ger&ccedil;ekleşmesine katkı sağlamaktadır.
     - C-) Hareket sırasında doğru u&ccedil; pozların oluşmasına yardımcı olmaktadır.

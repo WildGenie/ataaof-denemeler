@@ -8,11 +8,11 @@
     - E-) Sosyal medyanın icadı
     ***
 1. <strong>Dijitalleşmeye ge&ccedil;iş s&uuml;reci aşağıdakilerden hangisinde doğru olarak sıralanmıştır?</strong>
-    - **Cevap A-) Tarım Toplumu-Sanayi Toplumu-Bilgi Toplumu**
-    - B-) Sanayi Toplumu-Tarım Toplumu-Bilgi Toplumu
-    - C-) Bilgi Toplumu-Tarım Toplumu-Sanayi Toplumu
-    - D-) Tarım Toplumu-Bilgi Toplumu-Sanayi Toplumu
-    - E-) Sanayi Toplumu-Bilgi Toplumu-Tarım Toplumu
+    - **Cevap A-) Tarım Toplumu - Sanayi Toplumu-Bilgi Toplumu**
+    - B-) Sanayi Toplumu - Tarım Toplumu-Bilgi Toplumu
+    - C-) Bilgi Toplumu - Tarım Toplumu-Sanayi Toplumu
+    - D-) Tarım Toplumu - Bilgi Toplumu-Sanayi Toplumu
+    - E-) Sanayi Toplumu - Bilgi Toplumu-Tarım Toplumu
     ***
 1. <strong>A</strong><span style="display: inline !important; float: none; background-color: rgb(255, 255, 255); color: rgb(34, 34, 34); font-family: Arial,Verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"><strong>şa</strong>ğıdakilerden hangisi </span><b>dijital iletişim ara&ccedil;larından biridir?</b>
     - A-) Kitap
@@ -126,6 +126,13 @@
     - D-) S&ouml;zl&uuml; K&uuml;lt&uuml;r
     - E-) Dijital K&uuml;lt&uuml;r
     ***
+1. <strong>Telgrafın icadıyla birlikte bireysel ve toplumsal bilin&ccedil;liliği ortaya koyan ve t&uuml;m insanların katılımına olanak tanıyan &ccedil;ağ aşağıdakilerden hangisidir?</strong>
+    - A-) Dijital &Ccedil;ağ
+    - **Cevap B-) Elektronik &Ccedil;ağ**
+    - C-) Kabile &Ccedil;ağı
+    - D-) Edebiyat &Ccedil;ağı
+    - E-) Basım &Ccedil;ağı
+    ***
 1. I. Tarım Toplumu<br />
 II. Sanayi Toplumu&nbsp;<br />
 III. Bilgi Toplumu<br />
@@ -201,8 +208,9 @@ IV. Dijital Toplum<br />
     - D-) G&ouml;z &ouml;n&uuml;nde olma, sesini duyurma
     - **Cevap E-) Konum atma**
     ***
-1. <strong>&Ccedil;oğunlukla siyasi konuların konuşulduğu ve g&uuml;ndem oluşturulduğu sosyal medya aracı aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) Twitter**
+1. <strong>&Ccedil;oğunlukla siyasi konuların konuşulduğu ve g&uuml;ndem oluşturulduğu sosyal medya aracı aşağıdakilerden hangisidir?</strong><br type="_moz" />
+
+    - **Cevap A-) Twitter (X)**
     - B-) Instagram
     - C-) Facebook
     - D-) Snapchat
@@ -392,7 +400,7 @@ III. Dijital mek&acirc;nlar<br />
     - D-) Zenginlik boyutu
     - E-) Evrensellik boyutu
     ***
-1. &ldquo;Diğer kitle iletişim ara&ccedil;ları gibi izleyici ve dinleyici kitlesine ulaşma olanağına sahip fakat mesaj &uuml;retiminin kişinin kendisine bağlı olduğu, mesajın alımını kendisinin y&ouml;nlendirdiği, elektronik ağlarda i&ccedil;erik kabul&uuml; ve bir araya getirme işini kişinin kendi se&ccedil;imlerine dayandığı karşılıklı etkileşime dayalı iletişim şeklidir.&rdquo;<br />
+1. Diğer kitle iletişim ara&ccedil;ları gibi izleyici ve dinleyici kitlesine ulaşma olanağına sahip fakat mesaj &uuml;retiminin kişinin kendisine bağlı olduğu, mesajın alımını kendisinin y&ouml;nlendirdiği, elektronik ağlarda i&ccedil;erik kabul&uuml; ve bir araya getirme işini kişinin kendi se&ccedil;imlerine dayandığı karşılıklı etkileşime dayalı iletişim şeklidir.<br />
 <strong>Bu tanım aşağıdakilerden hangisine aittir?</strong>
     - A-) Kitle iletişimi
     - B-) Kişiler arası iletişim
@@ -413,6 +421,13 @@ III. Dijital mek&acirc;nlar<br />
     - C-) Y kuşağı
     - D-) Dijital kuşak
     - E-) K kuşağı
+    ***
+1. <strong>Kulağın g&ouml;ze teslimi davranışı yerine, insanın g&ouml;rsele teslim olma davranışını ortaya &ccedil;ıkaran teknolojik gelişme aşağıdakilerden hangisidir?</strong>
+    - A-) Elektronik k&uuml;lt&uuml;r
+    - B-) Tipografik k&uuml;lt&uuml;r
+    - C-) Basılı k&uuml;lt&uuml;r
+    - D-) G&ouml;rsel k&uuml;lt&uuml;r
+    - **Cevap E-) Sosyal medya ara&ccedil;ları**
     ***
 ## Unite 4
 1. Gelişimi kısa bir s&uuml;re i&ccedil;erisinde ger&ccedil;ekleşen ve insan hayatına hızlı bir giriş yapan bilgisayar ve elektronik sistemlerinde ger&ccedil;ek d&uuml;nya bilgisinin ikili sayı formuna d&ouml;n&uuml;şt&uuml;r&uuml;lerek kullanılmasını ifade etmek i&ccedil;in kullanılan bir kavramdır.<br />
@@ -458,11 +473,11 @@ III. Dijital mek&acirc;nlar<br />
     - D-) Geleneksel ara&ccedil;larla birlikte yeni iletişim ara&ccedil;larını da kullanmaktadırlar.
     - **Cevap E-) Doğdukları andan itibaren teknoloji ile donatılmış kişilerdir.**
     ***
-1. <strong>Aşağıda yer alan dijital melezler ile ilgili ifadelerden hangisi <u>yanlıştır</u>?</strong>
+1. <strong>Dijital melezler ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Dijital yerlilere ve dijital g&ouml;&ccedil;menlere &ouml;zellik olarak hem benzemekte hem de benzememektedirler.
-    - B-) T&uuml;m dijital olanaklardan faydalanan dijital melezler bu olanakları iyi ve etkin bir bi&ccedil;imde kullanma noktasında dijital yerlilere g&ouml;re daha geridir.
+    - B-) T&uuml;m dijital olanaklardan faydalanan dijital melezler bu olanakları iyi ve etkin bir bi&ccedil;imde kullanma noktasında dijital yerlilere g&ouml;re daha gerilerdir.
     - C-) Teknolojiye karşı dijital g&ouml;&ccedil;menler kadar diren&ccedil;li değillerdir.
-    - D-) Dijital melezler, teknolojiyi kullanma, bilgi edinme gibi konularda dijital yerlilerin de dijital g&ouml;&ccedil;menlerin de davranışlarını g&ouml;sterebilmektedir.
+    - D-) Dijital melezler, teknolojiyi kullanma, bilgi edinme gibi konularda dijital yerlilerin de dijital g&ouml;&ccedil;menlerin de davranışlarını g&ouml;sterebilmektedirler.
     - **Cevap E-) Dijital melezler i&ccedil;in teknoloji vazge&ccedil;ilmez bir olgudur.**
     ***
 1. <strong>Aşağıdakilerden hangisi Z kuşağının bir &ouml;zelliğidir?</strong>
@@ -630,6 +645,13 @@ III. Dijital mek&acirc;nlar<br />
     - **Cevap D-) Finansal okuryazarlık**
     - E-) Sosyo-duygusal okuryazarlık
     ***
+1. <strong>Yeni medya okuryazarlığı kapsamında, dijital ortamlarda kişilerin g&ouml;n&uuml;ll&uuml; olarak sunduğu bilgilerin siyasi ve ticari &ccedil;ıkarlara karşı korunması konusunda bilin&ccedil;lendirme yapılması aşağıdaki kavramlardan hangisiyle ilişkilidir?</strong>
+    - **Cevap A-) Mahremiyet**
+    - B-) Bağımlılık
+    - C-) Politik m&uuml;cadele
+    - D-) Kullanıcının d&ouml;n&uuml;ş&uuml;m&uuml;
+    - E-) Pop&uuml;ler k&uuml;lt&uuml;r
+    ***
 1. <strong>D&uuml;nyada medya okuryazarlığı eğitiminde giderek terk edilen yaklaşım bi&ccedil;imi aşağıdakilerden hangisidir?</strong>
     - A-) Eleştirel Yaklaşım
     - B-) Analitik Yaklaşım
@@ -746,7 +768,7 @@ III.&nbsp;13+ ve 18+ sembolleri programın yayını s&uuml;resince ekranın bir 
     - D-) RSS(Really Simple Syndication)
     - **Cevap E-) Sanal d&uuml;nyalar**
     ***
-1. <strong>Aşağıdaki verilerden hangisi sosyal medyanın ortaya &ccedil;ıkmasında etkili olan gelişmelerden biridir?</strong>
+1. <strong>Aşağıdakilerden hangisi sosyal medyanın ortaya &ccedil;ıkmasında etkili olan gelişmelerden biridir?</strong>
     - A-) Elektrikli telgrafın icat edilmesi
     - **Cevap B-) İnternetin icat edilmesi**
     - C-) Matbaanın icat edilmesi
@@ -808,6 +830,13 @@ III.&nbsp;13+ ve 18+ sembolleri programın yayını s&uuml;resince ekranın bir 
     - C-) Fotoğraf Paylaşım Siteleri: Flicker, PhotoBucket
     - D-) Bloglar: Blogger.com, Wordpress
     - **Cevap E-) Sanal d&uuml;nyalar: MySpace, Facebook, Twitter**
+    ***
+1. <strong>Mikroblog servisi olarak hizmet sunan, insanın ger&ccedil;ek hayatta i&ccedil;inde bulunduğu anda ne yaptığını, onu izleyenlere kısa mesajlarla &ouml;zetleyerek durumunu paylaştığı platform&nbsp;</strong><strong>aşağıdakilerden hangisidir?</strong>
+    - A-) Facebook
+    - B-) Instagram
+    - C-) MySpace
+    - **Cevap D-) Twitter**
+    - E-) Flicker
     ***
 ## Unite 7
 1. <strong>İnternetin ortaya &ccedil;ıkmasının k&ouml;keninde hangi ama&ccedil; vardır?</strong>
@@ -901,7 +930,14 @@ III.&nbsp;13+ ve 18+ sembolleri programın yayını s&uuml;resince ekranın bir 
     - D-) K&uuml;lt&uuml;r
     - E-) Din
     ***
-1. <strong>İnternet teknolojilerinden &ouml;nce varlığını s&uuml;rd&uuml;ren kitle iletişim ara&ccedil;ları hangi isimle nitelendirilmiştir?</strong>
+1. <strong>İnternetin ilk d&ouml;nemine adını veren teknoloji aşağıdakilerden hangisidir?&nbsp;</strong>
+    - **Cevap A-) Web 1.0**
+    - B-) Web 2.0
+    - C-) Web 3.0
+    - D-) Sosyal medya
+    - E-) Yeni medya
+    ***
+1. <strong>İnternet teknolojilerinden &ouml;nce varlığını s&uuml;rd&uuml;ren kitle iletişim ara&ccedil;ları aşağıdaki isimlerden hangisiyle nitelendirilmiştir?</strong>
     - A-) K&uuml;lt&uuml;rel
     - B-) Din&icirc;
     - C-) İlkel
@@ -944,7 +980,7 @@ III.&nbsp;13+ ve 18+ sembolleri programın yayını s&uuml;resince ekranın bir 
     - E-) Sixdegrees
     ***
 ## Unite 8
-1. <strong>Aşağıdaki oyunlardan hangisi i&ccedil;erik, teknik &ouml;zellikler, yayınlandıkları platformlar ve kontrol mekanizmalarına g&ouml;re dijital oyun t&uuml;rleri arasında <u>yer</u> <u>almaz</u>?</strong>
+1. <strong>Aşağıdaki oyunlardan hangisi i&ccedil;erik, teknik &ouml;zellikler, yayımlandıkları platformlar ve kontrol mekanizmalarına g&ouml;re dijital oyun t&uuml;rleri arasında <u>yer almaz</u>?</strong>
     - A-) Konsol oyunları
     - B-) Masa&uuml;st&uuml; oyunları
     - C-) &Ccedil;evrim i&ccedil;i oyunlar
@@ -1418,6 +1454,13 @@ III.&nbsp;UYAP: Kamu y&ouml;netimi unsurlarının mevzuat dayanaklarıyla birlik
     - **Cevap D-) İnternet**
     - E-) Gazete
     ***
+1. <strong>Aşağıdakilerden hangisi internetin siyasal iletişim a&ccedil;ısından olumsuz &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - A-) G&uuml;venilirliği azaltabilir.
+    - B-) Teknik donanım yetersizliği yaşanabilir.
+    - **Cevap C-) Geri bildirim imk&acirc;nı verir.**
+    - D-) Aynı anda herkes yararlanamayabilir.
+    - E-) Kullanıcısının okuma yazma bilmesi gerekir.
+    ***
 1. <strong>Aşağıdakilerden hangisi internet teknolojisinin siyasal iletişim alanına etkilerinden biri <u>değildir</u>?</strong>
     - A-) Se&ccedil;imlere katılımı artırmaktadır.
     - **Cevap B-) Mesaj aktarımında sesin etkisini artırmıştır.**
@@ -1496,8 +1539,9 @@ III.&nbsp;UYAP: Kamu y&ouml;netimi unsurlarının mevzuat dayanaklarıyla birlik
     - D-) Veri Madenciliği Modeli
     - E-) Analitik Modeli
     ***
-1. <strong>Hedef kitlelerin ziyaret ettiği sitelerde sergilenmesi i&ccedil;in Google &uuml;zerinden verilen reklam t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
-    - A-) Dinamik Web reklamlar
+1. <strong>Hedef kitlelerin ziyaret ettiği sitelerde sergilenmesi i&ccedil;in Google &uuml;zerinden verilen reklam t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong><br type="_moz" />
+
+    - A-) Dinamik web reklamlar<br type="_moz" />
     - B-) Kelime ağı reklamları
     - **Cevap C-) G&ouml;r&uuml;nt&uuml;l&uuml; ağ reklamları**
     - D-) Web analitik reklamları
@@ -1588,7 +1632,7 @@ III. Landing page: Sergilenen reklam tıklandığında y&ouml;nlendirilen sayfad
     - A-) Ticaret
     - **Cevap B-) E-ticaret**
     - C-) İşletme
-    - D-) E-İşletme
+    - D-) E-işletme
     - E-) E-Devlet
     ***
 1. <strong>E-ticaretin y&ouml;n&uuml;n&uuml;n işletmeden t&uuml;keticiye olduğu, &uuml;lkemizdeki ve d&uuml;nyadaki en yaygın e-ticaret modeli aşağıdakilerden hangisidir?</strong>
@@ -1718,7 +1762,7 @@ III. Landing page: Sergilenen reklam tıklandığında y&ouml;nlendirilen sayfad
     - D-) Maddi sağlayıcı
     - E-) Manevi sağlayıcı
     ***
-1. <strong>5651 Sayılı İnternet Kanunu&rsquo;na g&ouml;re İnternet ortamında yazı, fotoğraf veya video gibi i&ccedil;erikleri yayımlayan/paylaşan ger&ccedil;ek ya da t&uuml;zel kişileri temsil eden terim aşağıdakilerden hangisidir?</strong>
+1. <strong>5651 Sayılı İnternet Kanunu&rsquo;na g&ouml;re internet ortamında yazı, fotoğraf veya video gibi i&ccedil;erikleri yayımlayan/paylaşan ger&ccedil;ek ya da t&uuml;zel kişileri temsil eden terim aşağıdakilerden hangisidir?</strong>
     - A-) Erişim sağlayıcı
     - B-) Yer sağlayıcı
     - **Cevap C-) İ&ccedil;erik sağlayıcı**

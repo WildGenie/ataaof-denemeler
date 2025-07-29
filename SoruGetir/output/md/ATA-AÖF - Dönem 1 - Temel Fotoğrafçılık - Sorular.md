@@ -1108,6 +1108,13 @@ III. Objektif dışındaki kontrol halkasının hareket ettirilmesiyle, ince met
     - **Cevap D-) Y&uuml;ksek ISO değerlerini kullandık&ccedil;a genel g&ouml;r&uuml;nt&uuml; kalitesi artar.**
     - E-) ISO değeri y&uuml;kseldik&ccedil;e enstantane değeri artar.
     ***
+1. <strong>Diyafram a&ccedil;ıklarının aydınlanma koşullarına g&ouml;re otomatik olarak sağlanması i&ccedil;in yapılmış diyafram sistemi aşağıdakilerden hangisidir?</strong>
+    - A-) Basit diyafram
+    - **Cevap B-) Otomatik diyafram**
+    - C-) Odak diyafram
+    - D-) Diyafram a&ccedil;ıklığı
+    - E-) İris diyafram
+    ***
 1. <strong>Aşağıdakilerden hangisi diyafram kullanımının temel ama&ccedil;ları arasında yer alır?</strong>
     - **Cevap A-) Işığın yoğunluğu ve net alan derinliğini belirler.**
     - B-) Pozlama s&uuml;resini belirler.

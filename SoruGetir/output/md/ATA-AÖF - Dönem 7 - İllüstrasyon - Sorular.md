@@ -85,6 +85,13 @@
     - D-) Johnannes Gutenberg
     - E-) John of Arderne
     ***
+1. <strong>Mağara duvarlarına yapılmış olan boyama resimlerde aşağıdakilerden hangisi <u>g&ouml;r&uuml;lmez</u>?</strong>
+    - A-) Fig&uuml;r&uuml;n i&ccedil;ini renkli noktalarla bezemek
+    - B-) Kont&uuml;rlerin i&ccedil;ini doldurmak
+    - C-) Tek renk veya &ccedil;ok renkli boyamalar yapmak
+    - **Cevap D-) Sadece vahşi hayvanları betimlemek**
+    - E-) İ&ccedil;i renklendirilen fig&uuml;r&uuml; siyah renkle &ccedil;evrelemek
+    ***
 1. <strong>Anadolu&rsquo;da yazıldığı bilinen ilk T&uuml;rk&ccedil;e kitap aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Tuhfe-i M&uuml;b&acirc;rrizi - H&acirc;kim Bereket**
     - B-) Acaib&uuml;&rsquo;l Mahl&ucirc;kat ve Garaib&uuml;&rsquo;l Mevc&ucirc;dat - Kazvini
@@ -186,11 +193,11 @@
     - E-) Kişisel gelişim
     ***
 1. <strong>En eski ill&uuml;strasyon &ouml;rneklerinin bulunduğu &uuml;nl&uuml; aile t&uuml;rbesinin adı nedir?</strong>
-    - A-) Qi ailesi t&uuml;rbesi
-    - **Cevap B-) Wu ailesi t&uuml;rbesi**
-    - C-) Li ailesi t&uuml;rbesi
-    - D-) Hu ailesi t&uuml;rbesi
-    - E-) Han ailesi t&uuml;rbesi
+    - A-) Qi Ailesi T&uuml;rbesi
+    - **Cevap B-) Wu Ailesi T&uuml;rbesi**
+    - C-) Li Ailesi T&uuml;rbesi
+    - D-) Hu Ailesi T&uuml;rbesi
+    - E-) Han Ailesi T&uuml;rbesi
     ***
 1. <strong>Batı sanatındaki g&ouml;lgelendirme ve perspektifi &Ccedil;in&rsquo;e tanıtan misyoner mezhebi hangisidir?</strong>
     - A-) Katolik
@@ -211,7 +218,7 @@
 1. İmparatorluk bitmek bilmeyen savaşlar sonrası &uuml;lkede barış ve g&uuml;venliği sağlamak amacı ile dış d&uuml;nya ile bağlantısını sınırlamış, &uuml;lkedeki yabancılar sınır dışı edilmiştir. Batı&rsquo;nın bilim ve teknolojisinden uzak olsa da kendince ekonomik gelişmeler yaşanmış, toplumsal d&uuml;zen sağlanmış, k&uuml;lt&uuml;r ve sanat alanında gelişmeler artmıştır.<br />
 <strong>S&ouml;z&uuml; edilen Japonya d&ouml;nemi aşağıdakilerden hangisidir?</strong>
     - A-) Taişo ve Şôva D&ouml;nemi
-    - **Cevap B-) Edo D&ouml;nemi (Tokugawa d&ouml;nemi)**
+    - **Cevap B-) Edo D&ouml;nemi (Tokugawa D&ouml;nemi)**
     - C-) Meiji D&ouml;nemi
     - D-) Nara D&ouml;nemi
     - E-) Kamakura D&ouml;nemi&nbsp;
@@ -407,7 +414,10 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - **Cevap D-) Kitapların geniş kitlelere ulaşması**
     - E-) Halkın ill&uuml;strasyon tutkusu
     ***
-1. <strong>Sanatlar ve El Sanatları ve Art Nouveau hareketinin &ouml;nde gelen savunucularından olan ve ilk &ccedil;alışmalarında John Ruskin ve Pre-Raphaelite etkileri g&ouml;r&uuml;l&uuml;rken sonraki &ccedil;alışmalarında Japon baskılarının hatta İtalya seyahati sonrası 15. y&uuml;zyıl Floransa resminin etkileri (Britannica, 2023) g&ouml;r&uuml;len ill&uuml;strat&ouml;r aşağıdakilerden hangisidir?</strong>
+1. Sanatlar ve El Sanatları ve Art Nouveau hareketinin &ouml;nde gelen savunucularındandır. İlk &ccedil;alışmalarında John Ruskin ve Pre-Raphaelite etkileri g&ouml;r&uuml;l&uuml;rken sonraki &ccedil;alışmalarında Japon baskılarının hatta İtalya seyahati sonrası 15. y&uuml;zyıl Floransa resminin etkileri g&ouml;r&uuml;lmektedir.<br />
+<strong>Yukarıda s&ouml;z&uuml; edilen sanat&ccedil;ı aşağıdakilerden hangisidir?</strong><br type="_moz" />
+<br type="_moz" />
+
     - A-) Claude Monet
     - B-) Vincent van Gogh
     - **Cevap C-) Walter Crane**
@@ -472,6 +482,13 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - D-) Afişlerin dikkat &ccedil;ekici olması
     - **Cevap E-) Reklam gelirini arttırması**
     ***
+1. <strong>Beardsley&rsquo;nin ill&uuml;strasyonlarından, Burne-Jonesun yenilik&ccedil;i tarzından, İsve&ccedil;li kitap ill&uuml;strat&ouml;r&uuml; John Bauer ve Japon sanatından etkilenerek yaratıcı &ccedil;izimler ortaya koyan Kay Nielsen hangi sanat hareketinin savunucularındandır?</strong>
+    - A-) Japonizm
+    - B-) Empresyonizm
+    - C-) Realizm
+    - **Cevap D-) Art Nouveau**
+    - E-) Fovizm
+    ***
 1. <strong>Modern afişin babası olarak bilinen Fransız litograf aşağıdakilerden hangisidir?</strong>
     - A-) Edvard Munch
     - B-) Alphonse Mucha
@@ -487,7 +504,7 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - E-) Kay Nielsen
     ***
 ## Unite 6
-1. &ldquo;Doğal yaşamı g&ouml;zlemlemek R&ouml;nesans&rsquo;ta &ouml;nemli h&acirc;le geldi.&rdquo;<br />
+1. Doğal yaşamı g&ouml;zlemlemek R&ouml;nesans&rsquo;ta &ouml;nemli h&acirc;le geldi.<br />
 <strong>Buna g&ouml;re hangi akım Albrecht D&uuml;rer&rsquo;in fikirlerini oluşturmuştur?</strong>
     - **Cevap A-) Nat&uuml;ralizm**
     - B-) Realizm
@@ -558,6 +575,13 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - C-) Bitkilerin &ccedil;oğalma y&ouml;ntemlerini ve &ccedil;eşitlerini inceler
     - D-) İlgilendiği alanlar arasında bitki koruma vardır
     - **Cevap E-) Mantarlar bu kategoride incelenmez**
+    ***
+1. <strong>Bilimsel botanik ile ilgilenen bilim adamlarına ne ad verilir?</strong>
+    - A-) Zoolog
+    - **Cevap B-) Fitolog**
+    - C-) Jeolog
+    - D-) Entomolog
+    - E-) Dermatolog
     ***
 1. &Ccedil;eşitli nedenlerden dolayı fotoğraftan ziyade ill&uuml;strasyon se&ccedil;ilebilir.<br />
 <strong>Aşağıdakilerden hangisi bu nedenelerden biri <u>değildir</u>?</strong>
@@ -677,12 +701,26 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - D-) Galenos&rsquo;un sistemini aynı şekilde devam ettirmesi
     - E-) Anatomide renk kodlamaları sistemini kurması
     ***
+1. <strong>İlk g&uuml;d&uuml;mbilim (sibernetik) bilgini olarak kabul edilen Anadolulu bilim insanı kimdir?</strong>
+    - A-) El Biruni
+    - B-) İbni Haldun
+    - C-) Şerafeddin Sabuncuoğlu
+    - **Cevap D-) El Cezeri**
+    - E-) Matrak&ccedil;ı Nasuh
+    ***
 1. <strong>&quot;İnfografik&quot; tanımı aşağıdakilerden hangisidir?</strong>
     - A-) İstatistik
     - **Cevap B-) Bilgi grafiği**
     - C-) Zihin haritası
     - D-) İll&uuml;strasyon
     - E-) Teknik &ccedil;izim
+    ***
+1. <strong>Aşağıdakilerden hangisi botanik ill&uuml;strasyona &ouml;rnek g&ouml;sterilebilir?</strong>
+    - **Cevap A-) Bitkilerin morfolojik ill&uuml;strasyonu**
+    - B-) Bitkilerin fotoğraflanması
+    - C-) Bitkilerin koruma amacıyla kurutulması
+    - D-) Bitkilerin s&uuml;sleme &ouml;gesi olarak kullanılması
+    - E-) Bitkilerden esinlenerek kavramsal ill&uuml;strasyon
     ***
 ## Unite 8
 1. <strong>Romantizmin &ouml;zelliklerinden hangisi yanlış verilmiştir?</strong>
@@ -777,12 +815,12 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - E-) Turner
     ***
 ## Unite 9
-1. <strong>Aşağıdakilerden hangisi afişin tanımı olarak kullanılabilir?</strong>
-    - A-) Sponsorluk anlaşması yapılan belgeyi tanımlar.
-    - B-) Reklam i&ccedil;in &ouml;deme yapan kişiyi tanımlar.
-    - **Cevap C-) G&ouml;rsel ve yazı i&ccedil;eren bazen ise sadece g&ouml;rsel veya sadece yazı i&ccedil;eren iletişim ve sanat aracını tanımlar.**
-    - D-) Pazarlama karmasının i&ccedil;eriğini planlayıp tasarlayanı tanımlar.
-    - E-) &Uuml;r&uuml;n ve hizmetler b&uuml;t&uuml;n&uuml;n&uuml; oluşturan etkenleri tanımlar.
+1. <strong>Afiş kavramının tanımı aşağıdakilerden hangisidir?</strong>
+    - A-) Sponsorluk anlaşması yapılan belgedir.
+    - B-) Reklam i&ccedil;in &ouml;deme yapan kişidir.
+    - **Cevap C-) G&ouml;rsel ve yazı i&ccedil;eren bazen ise sadece g&ouml;rsel veya sadece yazı i&ccedil;eren iletişim ve sanat aracıdır.**
+    - D-) Pazarlama karmasının i&ccedil;eriğini planlayıp tasarlayandır.
+    - E-) &Uuml;r&uuml;n ve hizmetler b&uuml;t&uuml;n&uuml;n&uuml; oluşturan etkenleridir.
     ***
 1. <strong>Aşağıdakilerden hangisi afişin &ouml;nc&uuml;leri olarak bilinmektedir?</strong>
     - A-) Pablo Picasso ve Henri Matisse
@@ -862,6 +900,13 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - D-) Egon Schiele
     - **Cevap E-) Oskar Kokoschka**
     ***
+1. <strong>Aşağıdakilerden hangisi m&uuml;şterileri &uuml;r&uuml;n&uuml; satın almaya motive etme tekniği olarak bilinir?</strong>
+    - **Cevap A-) Satış promosyonu**
+    - B-) Tanıtım
+    - C-) Reklam ajansı
+    - D-) Sponsor
+    - E-) Mesaj
+    ***
 ## Unite 10
 1. <strong>Aşağıdakilerden hangisi edit&ouml;ryal/yayın ill&uuml;strasyonları arasında <u>bulunmamaktadır</u>?</strong>
     - A-) Gazete
@@ -920,9 +965,9 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - D-) Linolyum
     - E-) İpek baskı
     ***
-1. <strong>Gazete ve dergi ill&uuml;strasyonları ge&ccedil;mişten g&uuml;n&uuml;m&uuml;ze hangi etki/etkileri hedefler?</strong>
+1. <strong>Gazete ve dergi ill&uuml;strasyonları ge&ccedil;mişten g&uuml;n&uuml;m&uuml;ze hangi etki ya da etkileri hedefler?</strong>
     - A-) Okuyucuları sadece eğlendirmek
-    - B-) Metinleri daha karmaşık hale getirmek
+    - B-) Metinleri daha karmaşık h&acirc;le getirmek
     - **Cevap C-) Okuyucuların duygusal tepkilerini uyandırmak ve ilgisini &ccedil;ekmek**
     - D-) Sadece g&ouml;rsel bir deneyim sunmak
     - E-) Estetik kaygıyı &ouml;ne &ccedil;ıkarmak
@@ -1027,7 +1072,7 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - D-) Cumhuriyet kadını imgesini teşvik etmesi
     - **Cevap E-) T&uuml;rk kadınının boş vakitlerini doldurması&nbsp;**
     ***
-1. <strong>Joean Honor&eacute; Fragonard&rsquo;a ait &ldquo;Salıncak&rdquo; tablosundaki renk kullanımı, kompozisyon &ouml;zellikleri, giysi ve aksesuarlar a&ccedil;ısından moda tarihinin hangi d&ouml;nemini temsil ettiği s&ouml;ylenebilir?</strong>
+1. <strong>Joean Honor&eacute; Fragonard&rsquo;a ait &ldquo;Salıncak&rdquo; tablosundaki renk kullanımının kompozisyon &ouml;zellikleri, giysi ve aksesuarlar a&ccedil;ısından moda tarihinin hangi d&ouml;nemini temsil ettiği s&ouml;ylenebilir?</strong>
     - A-) Romantik D&ouml;nem
     - B-) Barok D&ouml;nem
     - C-) R&ouml;nesans D&ouml;nemi
@@ -1144,7 +1189,7 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
 ## Unite 13
 1. <strong>Animasyon ifadesi ile ilgili aşağıdakilerden hangisi doğrudur?</strong>
     - A-) Mağara duvarlarına yaşadıkları olayları aktarmak i&ccedil;in resimler &ccedil;izen insan, aklı ve fikri geliştik&ccedil;e hayatlarında yaşadıkları pek &ccedil;ok &ouml;nemli olayı da gelecek nesillere aktarmak i&ccedil;in &ccedil;eşitli bi&ccedil;imlerde arayışlar sergilemiştir.
-    - **Cevap B-) En genel bir kapsamıyla incelendiğinde animasyon, bir dizi hareket yanılsaması yaratmak i&ccedil;in &uuml;retilen ardışık &ccedil;izimleri, modelleri ya da kukla gibi farklı objeleri fotoğraflama ve g&ouml;r&uuml;nt&uuml;leme y&ouml;ntemidir.**
+    - **Cevap B-) En genel kapsamıyla incelendiğinde animasyon, bir dizi hareket yanılsaması yaratmak i&ccedil;in &uuml;retilen ardışık &ccedil;izimleri, modelleri ya da kukla gibi farklı objeleri fotoğraflama ve g&ouml;r&uuml;nt&uuml;leme y&ouml;ntemidir.**
     - C-) Afiş, poster ve diğer g&ouml;rsel iletişim unsurlularını da kapsayacak geniş bir alanı tanımlarken kullanılabilir.
     - D-) Eğlence sekt&ouml;r&uuml;nde bulunan aktivitelerin tamamı ve &ouml;zellikle de otellerde g&ouml;steri yapan sporcuları da kapsayan bir ifadedir.
     - E-) Lumiere Kardeşlerin yapımlarında kullanılan ifadeyle nefes, ruh, can anlamında g&uuml;n&uuml;m&uuml;ze kadar gelmiş bir sanat dalıdır.
@@ -1155,6 +1200,13 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - C-) Zoopraxiscope
     - D-) Adventure of Prince Achmed
     - E-) Mickey Mouse
+    ***
+1. <strong>Animasyon &uuml;retiminde bir storyboard tasarımcısının g&ouml;revi nedir?</strong>
+    - A-) Animasyon &uuml;retiminden &ouml;nceki &ouml;n &ccedil;alışmaları tanımlayan s&uuml;re&ccedil;tir. Bu aşamada ekip hik&acirc;yeyi geliştirerek senaryoyu oluşturur. Senaristler karakterleri, mek&acirc;nları ve olay &ouml;rg&uuml;s&uuml;n&uuml; şekillendirir.
+    - B-) Projenin ışık ve aydınlatma aşamalarının kurgulanıp belirlendiği aşamadır. İyi bir ışık tasarımı t&uuml;m projeyi etkiler ve izleyici tarafından yaşanacak deneyimi y&ouml;nlendirir.
+    - C-) Tasarlanan modelin omurga yapısının &uuml;retimi ile ilgili s&uuml;reci tanımlar.
+    - D-) Karakter tasarımı ve kurgunun geliştirilip senaryoya d&acirc;hil edildiği aşamadır.
+    - **Cevap E-) Sinema, reklam filmleri, animasyon, hareketli grafik projeleri ya da interaktif medya unsurlarının &ouml;n taslaklarını hazırlarken &ccedil;izerlerin sahneleri kutucuklar i&ccedil;inde &ccedil;izgi roman tarzına benzer bir şekilde &uuml;rettiği aşamadır.**
     ***
 1. <strong>Her sahnenin ve sahnelerdeki her karenin el ile tek tek &ccedil;izilerek &uuml;retildiği ilk animasyon &ouml;rneklerini kapsayan t&uuml;r&uuml;&nbsp;aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Temel Animasyon**

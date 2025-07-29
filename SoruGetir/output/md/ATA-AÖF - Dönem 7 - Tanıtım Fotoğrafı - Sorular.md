@@ -34,14 +34,11 @@
     - E-) &Uuml;retici reklamları
     ***
 1. <strong>Aşağıdakilerden hangisi ilettiği mesaj a&ccedil;ısından kurumsal reklamların &ouml;zelliklerindendir?</strong>
-    - A-) Fikir, mal ya da hizmetin &ouml;zelliklerini a&ccedil;ıklar
-    - B-) Mal ve ya hizmetin fayda ve fiyat bilgilerini i&ccedil;erir<br />
-&nbsp;
-    - C-) &Uuml;r&uuml;nlerin kullanım şekline y&ouml;nelik bilgiler aktarır<br />
-&nbsp;
-    - **Cevap D-) Marka, logo, amblem, renk vb. kurumsal unsurları &ouml;ne &ccedil;ıkarır<br />
-&nbsp;**
-    - E-) Reklam mesajı &uuml;r&uuml;n&uuml;n satışını ger&ccedil;ekleştirmeye y&ouml;neliktir
+    - A-) Fikir, mal ya da hizmetin &ouml;zelliklerini a&ccedil;ıklar.
+    - B-) Mal veya hizmetin fayda ve fiyat bilgilerini i&ccedil;erir.<br />
+    - C-) &Uuml;r&uuml;nlerin kullanım şekline y&ouml;nelik bilgiler aktarır.<br />
+    - **Cevap D-) Marka, logo, amblem, renk vb. kurumsal unsurları &ouml;ne &ccedil;ıkarır.<br />**
+    - E-) Reklam mesajı &uuml;r&uuml;n&uuml;n satışını ger&ccedil;ekleştirmeye y&ouml;neliktir.
     ***
 1. <strong>End&uuml;striyel &uuml;r&uuml;nlerin tanıtımında daha sık başvurulan, tanık, kanıt ve belgeye dayandırılan bu y&ouml;n&uuml;yle de daha &ccedil;ok hedef kitlenin aklına ve mantığına hitap eden rasyonel temelli reklamlar hangileridir?</strong>
     - A-) Hedonik deneysel y&ouml;nl&uuml; reklamlar
@@ -105,6 +102,16 @@
     - D-) Uluslararası reklamlar
     - E-) Global reklamlar
     ***
+1. <strong>İlk reklam ajansı nerede kurulmuştur?</strong><br type="_moz" />
+
+    - A-) Fransa<br type="_moz" />
+    - **Cevap B-) İngiltere<br />
+<br type="_moz" />**
+    - C-) Avusturya<br type="_moz" />
+    - D-) Amerika<br />
+<br type="_moz" />
+    - E-) Kanada<br type="_moz" />
+    ***
 ## Unite 2
 1. <strong>Batı 18. y&uuml;zyıl başlarında end&uuml;striyel &ccedil;ağa ge&ccedil;erken ucuz hammaddeleri aşağıdakilerden hangisi sayesinde edinmiştir?</strong>
     - **Cevap A-) Buhar g&uuml;c&uuml;**
@@ -126,14 +133,11 @@
 &nbsp;**
     - E-) Matbaa
     ***
-1. <strong>Fotoğrafın icadı ve yaygınlaşmasından hemen sonra fotoğraf&ccedil;ılar i&ccedil;in aşağıdakilerden hangi alanda istihdam fırsatı oluşmuştur?</strong>
+1. <strong>Fotoğrafın icadı ve yaygınlaşmasından hemen sonra fotoğraf&ccedil;ılar i&ccedil;in hangi alanda istihdam fırsatı oluşmuştur?</strong>
     - A-) Doğum fotoğraf&ccedil;ılığı
     - B-) Sanat fotoğrafı<br />
-&nbsp;
-    - **Cevap C-) Tanıtım fotoğraf&ccedil;ılığı<br />
-&nbsp;**
+    - **Cevap C-) Tanıtım fotoğraf&ccedil;ılığı<br />**
     - D-) Hava fotoğrafı<br />
-&nbsp;
     - E-) R&ouml;tuş
     ***
 1. <strong>Mathew Brady&rsquo;in bug&uuml;ne dek oluşturduğu en kapsamlı fotoğraf &ccedil;alışması aşağıdakilerden hangisiyle ilişkilidir?</strong>
@@ -203,6 +207,13 @@
     - C-) Gizli reklam
     - D-) &Uuml;r&uuml;n yerleştirme
     - E-) Billboard baskı
+    ***
+1. <strong>18. y&uuml;zyıl başlarında matbaa teknolojisine aşağıdakilerden hangisi hen&uuml;z entegre <u>edilmemiştir</u>?</strong>
+    - A-) Dizgi
+    - B-) Mizanpaj<br />
+    - **Cevap C-) Fotoğraf<br />**
+    - D-) Hurufat<br />
+    - E-) M&uuml;rekkep
     ***
 1. <strong>Amerikan tarihinin bilinen en eski ve en &uuml;nl&uuml; sanat&ccedil;ılarından Mathew Brady, foto muhabirliğinin babası olarak kabul edilmesi dışında aşağıdaki alanlardan hangisinde yaptığı &ouml;nemli &ccedil;alışmalarla anılmaktadır?</strong>
     - A-) Karanlık oda
@@ -307,7 +318,7 @@
 1. <strong>Tanıtım alanında &uuml;retilmiş bir fotoğrafik temsilin t&uuml;ketici &uuml;zerinde etkili olmasının sebebi aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Yaratıcı ve &ccedil;arpıcı olması**
     - B-) Renklerinin etkili olması
-    - C-) Işığın güzel kullanılmış olması
+    - C-) Işığın g&uuml;zel kullanılmış olması
     - D-) Kompozisyonun başarılı olması
     - E-) Fotoğraf veya grafik yazılımlarıyla d&uuml;zenlenmiş olması
     ***
@@ -415,12 +426,27 @@
     - D-) Reklam maliyetlerini artırır.
     - E-) &Uuml;r&uuml;nlerin dayanıklılığını azaltır.
     ***
+1. Marka farkındalığı, t&uuml;keticinin markayı diğerlerinden ayırt edebilmesini sağlayan bir kavramdır ve genellikle ge&ccedil;miş bilgi ve deneyimlerle ilişkilendirilir.&nbsp;<br />
+<strong>Buna g&ouml;re marka farkındalığını aşağıdakilerden hangisi en iyi şekilde a&ccedil;ıklar?</strong>
+    - A-) Markanın pop&uuml;lerliğini artırmak
+    - B-) T&uuml;keticinin marka tanıtımlarını hatırlaması<br />
+    - **Cevap C-) Markayı diğer rakip markalardan ayırt etme yeteneği**
+    - D-) Markanın &uuml;r&uuml;nlerinin &ccedil;eşitliliğini tanımlama<br />
+    - E-) Marka sadakati geliştirmek
+    ***
 1. <strong>Aşağıdaki fakt&ouml;rlerden hangisi bir markaya ilişkin belirli bir tutum oluşturmak i&ccedil;in kullanılabilecek fakt&ouml;rler arasında <u>yer almaz</u>?</strong>
     - A-) T&uuml;ketici yararına y&ouml;nelik &ouml;zellikler
     - B-) &Uuml;r&uuml;n vasıflarına ilişkin &ouml;zellikler
     - C-) &Uuml;r&uuml;n kullanımı ya da uygulamalarına dair &ouml;zellikler
     - D-) T&uuml;keticiye y&ouml;nelik &ouml;zellikler
     - **Cevap E-) Marka fiyatına y&ouml;nelik farklılıklar**
+    ***
+1. <strong>Marka deneyimleri, t&uuml;keticilerin zihninde nasıl birikir?</strong>
+    - A-) Yalnızca &uuml;r&uuml;n fiyatına bağlı olarak
+    - B-) Sadece tanıtım kampanyalarıyla<br />
+    - C-) Marka adının uzunluğuna g&ouml;re<br />
+    - **Cevap D-) Marka ile ilgili deneyimlerin toplamı olarak<br />**
+    - E-) Sadece markanın tarih&ccedil;esine dayalı olarak
     ***
 1. <strong>Basılı mecralardaki reklamların etkili olabilmesi i&ccedil;in hangi t&uuml;r g&ouml;rsel &ouml;geler sıklıkla kullanılır?</strong>
     - A-) Metin ve grafikler
@@ -502,7 +528,7 @@
     - A-) Başlık
     - B-) Alt başlık
     - **Cevap C-) Logo**
-    - D-) Gövde metni
+    - D-) G&ouml;vde metni
     - E-) Slogan
     ***
 1. <strong>İnsanların hafızasına &uuml;r&uuml;n yahut markayla ilgili kazınmak istenen temel &ouml;zelliği yerleştirme, reklamın aktarmaya &ccedil;alıştığı fikri ve iletmek istediği mesajı hızlı şekilde ve &ouml;zl&uuml; bir ifadeyle ortaya koyan kısa c&uuml;mle aşağıdakilerden hangisidir?</strong>
@@ -514,6 +540,13 @@
     - D-) Amblem<br />
 &nbsp;
     - **Cevap E-) Slogan**
+    ***
+1. <strong>Aşağıdakilerden hangisi reklamın g&ouml;rsel &ouml;gelerinden biridir?</strong>
+    - A-) Reklam metni
+    - B-) Başlık<br />
+    - C-) Slogan<br />
+    - D-) Tipografi<br />
+    - **Cevap E-) Alt başlık**
     ***
 1. <strong>Aşağıdakilerden hangisi reklamın g&ouml;rsel &ouml;gelerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Animasyon
@@ -562,14 +595,12 @@
     - D-) Stok Fotoğraf&ccedil;ılığı
     - E-) End&uuml;stri Fotoğraf&ccedil;ılığı
     ***
-1. <strong>Nat&uuml;rmort, &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.fotoğraf&ccedil;ılığının ilk &ccedil;alışma konusu olarak tanımlanabilmektedir. C&uuml;mlede boş olan yere aşağıdakilerden hangisi gelmektedir?</strong>
+1. Nat&uuml;rmort, &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. fotoğraf&ccedil;ılığının ilk &ccedil;alışma konusu olarak tanımlanabilmektedir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) End&uuml;stri
     - B-) Stok<br />
-&nbsp;
     - C-) Mimari<br />
-&nbsp;
-    - **Cevap D-) Still life<br />
-&nbsp;**
+    - **Cevap D-) Still life<br />**
     - E-) Gıda
     ***
 1. <strong>Fransız d&uuml;ş&uuml;n&uuml;r Baudrillard ve Moda Fotoğraf&ccedil;ısı Koray Birand&rsquo;ın modaya olan ortak bakış a&ccedil;ıları aşağıdakilerden hangisidir?</strong>
@@ -650,6 +681,13 @@
     - **Cevap C-) İnsan portreleri**
     - D-) Tarih&icirc; yapılar
     - E-) Alışveriş merkezleri
+    ***
+1. <strong>Mimari fotoğraf&ccedil;ılıkta, bir yapının tanıtım ama&ccedil;lı yapılan &ccedil;ekimlerinde, işlevselliğini, canlılığını ve kullanım amacını vurgulamak i&ccedil;in aşağıdaki &ouml;gelerden hangisi tercih edilir?</strong>
+    - A-) Doğal manzaraları
+    - B-) Soyut desenleri<br />
+    - C-) Tarihi eserleri<br />
+    - **Cevap D-) İnsan fig&uuml;rleri<br />**
+    - E-) &Ccedil;i&ccedil;ek ve bitkiler
     ***
 1. <strong>End&uuml;stri fotoğraf&ccedil;ılığının temel &ccedil;alışma alanı aşağıdakilerden hangisidir?</strong>
     - A-) Sanatsal fotoğraflar &uuml;retmek
@@ -741,11 +779,8 @@
 1. <strong>Bir kavramın başka bir kavramı nitelemesi olarak reklamlarda ileti tasarımlarında simgesel anlatım y&ouml;ntemi olarak olduk&ccedil;a sık uygulanan bir anlatım bi&ccedil;imi aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Metafor**
     - B-) Mit<br />
-&nbsp;
     - C-) Metanomi<br />
-&nbsp;
     - D-) Bilgi iletme<br />
-&nbsp;
     - E-) Duyguları hareket ge&ccedil;irme
     ***
 1. <strong>Reklam mesaj stratejisi belirlenirken hedef kitlenin aşağıdaki hangi &ouml;zelliği dikkate&nbsp;<u>alınmaz</u>?</strong>
@@ -831,14 +866,11 @@
     - D-) 6<br />
     - E-) 5
     ***
-1. <strong>Aşağıdakilerden hangisi, ortadan ikiye ayrılan g&ouml;r&uuml;nt&uuml;n&uuml;n birer yansıma gibi birbirine benzemesi ile ger&ccedil;ekleştirilen kompozisyon t&uuml;r&uuml;d&uuml;r?</strong>
+1. <strong>Aşağıdakilerden hangisi ortadan ikiye ayrılan g&ouml;r&uuml;nt&uuml;n&uuml;n birer yansıma gibi birbirine benzemesi ile ger&ccedil;ekleştirilen kompozisyon t&uuml;r&uuml;d&uuml;r?</strong>
     - A-) Merkeze yerleştirme
     - B-) Sadelik<br />
-&nbsp;
-    - **Cevap C-) Simetri<br />
-&nbsp;**
+    - **Cevap C-) Simetri<br />**
     - D-) Asimetri<br />
-&nbsp;
     - E-) &Uuml;&ccedil;te bir kuralı
     ***
 1. <strong>Aşağıdakilerden hangisi, &ccedil;er&ccedil;evenin i&ccedil;erisinde dikkat dağıtan ne varsa hepsini &ccedil;er&ccedil;evenin dışında bırakması y&ouml;ntemiyle ger&ccedil;ekleştirilen bir kompozisyon t&uuml;r&uuml;d&uuml;r?</strong>
@@ -892,15 +924,23 @@
     - D-) &Uuml;&ccedil;te bir kuralını kullanma
     - E-) Simetri ve asimetriyi kullanma
     ***
+1. <strong>Aşağıdakilerden hangisi &ccedil;izgi perspektifin bir &ouml;zelliğidir?</strong>
+    - **Cevap A-) &Ccedil;izgiler ufka doğru uzaklaştık&ccedil;a birbirine yaklaşır.**
+    - B-) &Ccedil;izgiler bize yaklaştık&ccedil;a kesilir.<br />
+    - C-) &Ccedil;izgiler bize yaklaştık&ccedil;a beyazlar.<br />
+    - D-) &Ccedil;izgiler uzaklaştık&ccedil;a birbirinden ayrılır.<br />
+    - E-) &Ccedil;izgiler yuvarlak şekiller oluşturur.
+    ***
 ## Unite 9
-1. <strong>Bir fotoğraf makinesi satın alırken pozometre de satın alınır. &Ccedil;&uuml;nk&uuml; yeni &uuml;retilen b&uuml;t&uuml;n makinelerinin i&ccedil;inde ışığı &ouml;l&ccedil;&uuml;p doğru poz değerini veren pozometreler vardır. Makine i&ccedil;i pozometreler hangi ışığı &ouml;l&ccedil;er?</strong>
+1. <strong>Makine i&ccedil;i pozometreler hangi ışığı &ouml;l&ccedil;er?</strong><br type="_moz" />
+
     - A-) Gelen ışığı
     - **Cevap B-) Yansıyan ışığı<br />
-&nbsp;**
+<br type="_moz" />**
     - C-) Konuya d&uuml;şen ışığı<br />
-&nbsp;
+<br type="_moz" />
     - D-) Konuyu aydınlatan ışığı<br />
-&nbsp;
+<br type="_moz" />
     - E-) Bir yerden yansıyarak konuya ulaşan ışığı
     ***
 1. <strong>Aşağıdakilerden hangisi s&uuml;z&uuml;len ışığın &ouml;zelliklerinden biridir?</strong>
@@ -1039,11 +1079,8 @@
 1. <strong>Aşağıdakilerden hangisi tanıtım fotoğrafında kompozit ışık kullanmanın ana sebepleri arasında yer alır?</strong>
     - **Cevap A-) &Uuml;r&uuml;n&uuml;n estetik ve ideal bir aydınlatma ile g&ouml;r&uuml;nt&uuml;lenmesi**
     - B-) &Uuml;r&uuml;n&uuml;n y&uuml;ksek &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;kl&uuml; bir g&ouml;r&uuml;nt&uuml;s&uuml;n&uuml; oluşturma<br />
-&nbsp;
     - C-) &Uuml;r&uuml;n markasının m&uuml;şteriye tanıtımı<br />
-&nbsp;
     - D-) &Uuml;r&uuml;n&uuml;n renk se&ccedil;eneklerini g&ouml;sterme<br />
-&nbsp;
     - E-) &Uuml;r&uuml;n&uuml;n boyutunu vurgulamak i&ccedil;in
     ***
 1. <strong>Aşağıdakilerden hangisi g&ouml;r&uuml;nt&uuml;de sıvı kullanımı ve bir g&ouml;r&uuml;nt&uuml;leme t&uuml;r&uuml; olarak sıvı hareketi dondurma y&ouml;ntemi ile &ccedil;ekilen bir g&ouml;r&uuml;nt&uuml;de var olan &ouml;zellikler arasında <u>yer almaz</u>?</strong>
@@ -1147,14 +1184,11 @@
     - D-) HDR
     - E-) Drone
     ***
-1. <strong>Kompozit bir g&ouml;r&uuml;nt&uuml; oluşturmak i&ccedil;in farklı mekanlarda ve zamanlarda &ccedil;ekimler yaparken post prod&uuml;ksiyonda birleştirmeyi kolaylaştırmak i&ccedil;in aşağıdakilerden hangisini kullanmak gereklidir?</strong>
+1. <strong>Kompozit bir g&ouml;r&uuml;nt&uuml; oluşturmak i&ccedil;in farklı mek&acirc;n ve zamanlarda &ccedil;ekimler yaparken post prod&uuml;ksiyonda birleştirmeyi kolaylaştırmak i&ccedil;in aşağıdakilerden hangisini kullanmak gereklidir?</strong>
     - **Cevap A-) Tripot**
     - B-) Makro objektif<br />
-&nbsp;
     - C-) Su terazisi<br />
-&nbsp;
     - D-) Flaş<br />
-&nbsp;
     - E-) Filtre
     ***
 1. <strong>Focus Stacking sayesinde kazanılan en avantajlı şey aşağıdakilerden hangisidir?</strong>
@@ -1259,7 +1293,7 @@
 1. <strong>Aşağıdakilerden hangisi ticari firmaların reklam kampanyalarında hedefledikleri ama&ccedil; ve hedefler doğrultusunda hedef kitleye y&ouml;nelik mesajların iletilmesi amacıyla &uuml;retilen ticari bir fotoğraf t&uuml;r&uuml;d&uuml;r?</strong>
     - A-) Stok Fotoğraf&ccedil;ılığı
     - B-) Belgesel Fotoğraf&ccedil;ılık
-    - **Cevap C-) Tanıtım Fotoğrafçılığı**
+    - **Cevap C-) Tanıtım Fotoğraf&ccedil;ılığı**
     - D-) Portre Fotoğraf&ccedil;ılığı
     - E-) Makro Fotoğraf&ccedil;ılık
     ***
@@ -1419,7 +1453,7 @@
 &nbsp;**
     - E-) CMYK
     ***
-1. <strong>Renk y&ouml;netiminde &ccedil;alışma ortamını d&uuml;zenlerken masa&uuml;st&uuml; ve uygulama aray&uuml;zlerinin hangi renge ayarlanması tavsiye edilmektedir?</strong>
+1. <strong>Renk y&ouml;netiminde &ccedil;alışma ortamını d&uuml;zenlerken masa&uuml;st&uuml; ve uygulama ara y&uuml;zlerinin hangi renge ayarlanması tavsiye edilmektedir?</strong>
     - **Cevap A-) Orta Gri**
     - B-) Parlak Beyaz
     - C-) Mat Kırmızı
@@ -1470,12 +1504,12 @@
     - D-) Sarı
     - E-) Beyaz
     ***
-1. <strong>CMYK renk modelinin bir rengi tanımlamak i&ccedil;in kullandığı d&ouml;rt ana renk aşağıdakilerden hangisinde doğru verilmiştir?</strong>
-    - A-) Cyan – Magenta – Yeşil – Siyah
-    - B-) Cyan – Mavi – Yeşil – Siyah
-    - C-) Cyan – Mavi – Sarı – Siyah
-    - D-) Cyan – Mavi – Sarı – Kırmızı
-    - **Cevap E-) Cyan – Magenta – Sarı – Siyah**
+1. <strong>CMYK renk modelinin bir rengi tanımlamak i&ccedil;in kullandığı d&ouml;rt ana renk aşağıdakilerin hangisinde doğru verilmiştir?</strong>
+    - A-) Cyan &ndash; Magenta &ndash; Yeşil &ndash; Siyah
+    - B-) Cyan &ndash; Mavi &ndash; Yeşil &ndash; Siyah
+    - C-) Cyan &ndash; Mavi &ndash; Sarı &ndash; Siyah
+    - D-) Cyan &ndash; Mavi &ndash; Sarı &ndash; Kırmızı
+    - **Cevap E-) Cyan &ndash; Magenta &ndash; Sarı &ndash; Siyah**
     ***
 ## Unite 14
 1. <strong>Yazar, mucit, bilim adamı Raymond Kurzweil&rsquo;in diğer &ouml;nemli &ouml;zelliği aşağıdakilerden hangisidir?</strong>
@@ -1488,11 +1522,8 @@
 1. <strong>Pasaport i&ccedil;in ne t&uuml;r fotoğraflara ihtiya&ccedil; duyulur?</strong>
     - A-) Selfie
     - B-) Biyografik<br />
-&nbsp;
-    - **Cevap C-) Biyometrik<br />
-&nbsp;**
+    - **Cevap C-) Biyometrik<br />**
     - D-) Portre<br />
-&nbsp;
     - E-) İkonik
     ***
 1. <strong>Uyuşturucu ka&ccedil;ak&ccedil;ısının yakalanmasına sebep olan şey aşağıdakilerden hangisidir?</strong>
