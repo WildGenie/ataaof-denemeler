@@ -194,18 +194,41 @@ public class Program
                 {
                     Console.WriteLine($"  -> Ünite {unite} için sorular getiriliyor...");
                     var sorular = await GetSorular(ders.DersId, unite);
+
+                    string uniteJsonFileName =
+                        $"{ders.DersiVeren ?? "ATA-AÖF"} - Dönem {ders.Donem} - {ders.CourseName} - Unite {unite:D2}.json";
+                    string uniteJsonFilePath = Path.Combine(jsonDirectory, uniteJsonFileName);
+
                     if (sorular.Any())
                     {
-                        markdownBuilder.AppendLine($"## Unite {unite}");
                         Console.WriteLine($"  -> {sorular.Count} adet yeni soru bulundu.");
                         tumSorular.AddRange(sorular);
 
+                        // Ünite sorularını JSON olarak kaydet
+                        Console.WriteLine($"Ünite {unite} soruları JSON olarak kaydediliyor: {uniteJsonFileName}");
+                        KaydetJson(uniteJsonFilePath, sorular);
+
+                        markdownBuilder.AppendLine($"## Unite {unite}");
                         // Soruları Markdown formatında dosyaya ekle
                         markdownBuilder.Append(SorulariMarkdownaDonustur(sorular));
                     }
                     else
                     {
                         Console.WriteLine($"  -> Ünite {unite} için soru bulunamadı.");
+                        // Eğer ünite için soru bulunamadıysa ve daha önceden kaydedilmiş bir dosya varsa,
+                        // o zaman o dosyadaki soruları `tumSorular`'a ekle.
+                        if (File.Exists(uniteJsonFilePath))
+                        {
+                            Console.WriteLine($"  -> Mevcut JSON dosyası bulundu: {uniteJsonFileName}");
+                            var mevcutSorular = JsonSerializer.Deserialize<List<Soru>>(File.ReadAllText(uniteJsonFilePath));
+                            if (mevcutSorular != null && mevcutSorular.Any())
+                            {
+                                Console.WriteLine($"  -> {mevcutSorular.Count} adet mevcut soru `tumSorular`'a eklendi.");
+                                tumSorular.AddRange(mevcutSorular);
+                                markdownBuilder.AppendLine($"## Unite {unite}");
+                                markdownBuilder.Append(SorulariMarkdownaDonustur(mevcutSorular));
+                            }
+                        }
                     }
                 }
 
