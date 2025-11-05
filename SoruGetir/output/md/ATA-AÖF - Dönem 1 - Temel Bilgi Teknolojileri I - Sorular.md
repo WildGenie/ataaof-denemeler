@@ -122,7 +122,7 @@
     - D-) Hibrid bilgisayarlar
     - E-) Sayısal bilgisayarlar
     ***
-1. <strong>Aşağıdakilerden hangisi&nbsp; kullanıcıların mobil cihazları, bilgisayarları ve diğer elektronik cihazları arasında birka&ccedil; metrelik mesafede iletişim kurabilmelerini sağlayan ağ sistemi t&uuml;r&uuml;d&uuml;r?</strong>
+1. <strong>Aşağıdakilerden hangisi kullanıcıların mobil cihazları, bilgisayarları ve diğer elektronik cihazları arasında birka&ccedil; metrelik mesafede iletişim kurabilmelerini sağlayan ağ sistemi t&uuml;r&uuml;d&uuml;r?</strong>
     - A-) Geniş alan ağı
     - B-) Yerel alan ağı
     - C-) Orta &ouml;l&ccedil;ekli ağ
@@ -355,10 +355,10 @@ III. HHD<br />
 &nbsp;
     - E-) Pardus
     ***
-1. I. Transist&#246;rlerin geliştirilmesi ile bilgisayar teknolojisi yeni bir d&#246;neme girmiştir.&#160;<br />
-II. Entegre devreler ile boyutları k&#252;&#231;&#252;len bilgisayarlar daha &#231;ok kişi tarafından ulaşılabilir olmuştur.&#160;<br />
-III. Bilgisayarlar entegre devre ve yonga setlerinin etkisiyle daha da k&#252;&#231;&#252;lm&#252;ş ve yaygınlaşmıştır.<br />
-<strong>İşletim sistemlerinin tarih&#231;esi ile ilgili olarak yukarıdaki ifadelerden hangisi ya da hangileri doğrudur?</strong>
+1. I. Transist&ouml;rlerin geliştirilmesi ile bilgisayar teknolojisi yeni bir d&ouml;neme girmiştir.&nbsp;<br />
+II. Entegre devreler ile boyutları k&uuml;&ccedil;&uuml;len bilgisayarlar daha &ccedil;ok kişi tarafından ulaşılabilir olmuştur.&nbsp;<br />
+III. Bilgisayarlar entegre devre ve yonga setlerinin etkisiyle daha da k&uuml;&ccedil;&uuml;lm&uuml;ş ve yaygınlaşmıştır.<br />
+<strong>İşletim sistemlerinin tarih&ccedil;esi ile ilgili olarak yukarıdaki ifadelerden hangisi ya da hangileri doğrudur?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -519,6 +519,14 @@ III. Bir&ccedil;ok dil desteği vardır.<br />
     - C-) Tarayıcı ge&ccedil;mişi
     - D-) Yeni sekme
     - E-) Hakkında
+    ***
+1. <strong>Kullanıcının kişisel bilgilerine erişmek, banka bilgilerini elde etmek veya buna benzer zarar verebilecek dosyalarına ulaşmak amacıyla kullanılan k&ouml;t&uuml; ama&ccedil;lı yazılımlara ne ad verilir?</strong><br />
+
+    - A-) Trojan
+    - B-) Solucan
+    - C-) Spam
+    - **Cevap D-) Truva atı**
+    - E-) &Ouml;n y&uuml;kleme vir&uuml;s&uuml;
     ***
 1. <strong>Vir&uuml;slerle ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Boot sekt&ouml;r vir&uuml;slerinin bulaşması i&ccedil;in s&uuml;r&uuml;c&uuml;n&uuml;n aktif h&acirc;le gelmesi yeterlidir.

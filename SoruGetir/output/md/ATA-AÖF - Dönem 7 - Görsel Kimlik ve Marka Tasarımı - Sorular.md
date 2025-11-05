@@ -153,7 +153,7 @@
     - A-) Uygunluk
     - B-) Farklılık
     - C-) Sadelik
-    - **Cevap D-) Heyecanlı**
+    - **Cevap D-) Renklilik**
     - E-) Fonksiyonellik
     ***
 1. <strong>Aşağıdakilerden hangisinde g&ouml;rsel kimliğin &ouml;gelerinden &ldquo;g&ouml;rseller&rdquo; doğru şekilde sıralanmıştır?</strong>

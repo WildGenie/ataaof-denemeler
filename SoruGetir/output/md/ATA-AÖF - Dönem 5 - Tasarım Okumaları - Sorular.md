@@ -721,7 +721,7 @@
     - D-) Kırmızı Şapka
     - E-) Sarı Şapka
     ***
-1. <strong>Aşağıdakilerden hangisi Tasvir Edici Y&#246;ntem olarak da bilinen Altı Şapka Y&#246;ntemi&#39;nde kesin bilgiyi, tarafsız olmayı simgeleyen şapka rengidir?</strong>
+1. <strong>Aşağıdakilerden hangisi Tasvir Edici Y&ouml;ntem olarak da bilinen Altı Şapka Y&ouml;ntemi&#39;nde kesin bilgiyi, tarafsız olmayı simgeleyen şapka rengidir?</strong>
     - A-) Mavi Şapka
     - **Cevap B-) Beyaz Şapka**
     - C-) Yeşil Şapka

@@ -210,7 +210,7 @@ III.Metnin ardındaki yorumu, s&ouml;ylemi ortaya &ccedil;ıkarmaya &ccedil;alı
     - D-) Kategoriler araştırmanın amacına uygun, a&ccedil;ık, anlaşılır, anlamlı olmalıdır.
     - **Cevap E-) Farklı i&ccedil;erikler aynı kategoride yer almalı ve kategoriler heterojen olmalıdır.**
     ***
-1. <strong>&nbsp;Metnin bug&uuml;n itibarıyla ne anlama geldiğini, verileri sayısal verilere d&ouml;n&uuml;şt&uuml;rerek ortaya koyan analiz y&ouml;ntemi aşağıdakilerden hangisidir?</strong>
+1. <strong>Metnin bug&uuml;n itibarıyla ne anlama geldiğini, verileri sayısal verilere d&ouml;n&uuml;şt&uuml;rerek ortaya koyan analiz y&ouml;ntemi aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) İ&ccedil;erik Analizi**
     - B-) S&ouml;ylem Analizi
     - C-) Netnografik Y&ouml;ntem

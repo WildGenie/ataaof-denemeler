@@ -9,10 +9,10 @@
     ***
 1. <strong>Aşağıdakilerin hangisinde iletişim ile ilgili gelişmeler tarihsel (kronolojik) sıra ile verilmiştir?</strong> 
     - A-) Konuşmak - G&ouml;rsel imgeler oluşturmak - Yazmak - G&ouml;rmek ve duymak
-    - **Cevap B-) Görmek ve duymak - Konuşmak - Görsel imgeler oluşturmak - Yazmak**
-    - C-) Görsel imgeler oluşturmak - Görmek ve duymak - Yazmak - Konuşmak
-    - D-) Görmek ve duymak - Yazmak - Konuşmak - Görsel imgeler oluşturmak
-    - E-) Yazmak - Görmek ve duymak - Görsel imgeler oluşturmak - Konuşmak
+    - **Cevap B-) G&ouml;rmek ve duymak - Konuşmak - G&ouml;rsel imgeler oluşturmak - Yazmak**
+    - C-) G&ouml;rsel imgeler oluşturmak - G&ouml;rmek ve duymak - Yazmak - Konuşmak
+    - D-) G&ouml;rmek ve duymak - Yazmak - Konuşmak - G&ouml;rsel imgeler oluşturmak
+    - E-) Yazmak - G&ouml;rmek ve duymak - G&ouml;rsel imgeler oluşturmak - Konuşmak
     ***
 1. <strong>Aşağıdakilerden hangisi mağara resimleriyle bilinen, başlıca yerlerden biri&nbsp;<u>değildir</u>?</strong> 
     - A-) Lascaux Mağarası, Fransa
@@ -293,11 +293,11 @@ Aşağıdakilerden hangisi k&uuml;&ccedil;&uuml;k harflerin ortaya &ccedil;ıkma
     - E-) Bilgisayar ortamında &ccedil;alışmayı
     ***
 1. <strong>Tasarım projesinde konseptin belirlenmesi ile ilgili aşağıdaki ifadelerden hangisi <u>s&ouml;ylenemez</u>?</strong> 
-    - A-) Müşterinin istediğini yansıtmalıdır.
-    - **Cevap B-) Sentez yöntemi ile seçilmelidir.**
-    - C-) Mevcut örneklerden farklı olmalıdır.
-    - D-) Müşteri briefi ve tasarım araştırmalarından yararlanılmalıdır.
-    - E-) Önce alternatif fikirler geliştirilmelidir.
+    - A-) M&uuml;şterinin istediğini yansıtmalıdır.
+    - **Cevap B-) Sentez y&ouml;ntemi ile se&ccedil;ilmelidir.**
+    - C-) Mevcut &ouml;rneklerden farklı olmalıdır.
+    - D-) M&uuml;şteri briefi ve tasarım araştırmalarından yararlanılmalıdır.
+    - E-) &Ouml;nce alternatif fikirler geliştirilmelidir.
     ***
 1. I. M&uuml;şterinin hakkında net bir resim sunar.<br />
 II. Eksik veya hatalı olması proje hedeflerinden uzaklaştırır.<br />
@@ -610,10 +610,10 @@ III. Kullanılması d&uuml;ş&uuml;n&uuml;len mecralar<br />
     ***
 1. <strong>&Ouml;nemli logo tasarımcıları hangi &ouml;zellikleri ile bilinir?</strong> 
     - A-) Kusursuz tasarımları
-    - B-) Düzenlilikleri
+    - B-) D&uuml;zenlilikleri
     - C-) Takıntıları
     - D-) Alışkanlıkları
-    - **Cevap E-) Kuralları yıkmaları.**
+    - **Cevap E-) Kuralları yıkmaları**
     ***
 1. <strong>Bir bi&ccedil;imin grafik simge olabilmesi i&ccedil;in taşıması gereken &ouml;zellik aşağıdakilerden hangisidir?</strong>
     - A-) D&uuml;ş&uuml;k fiyatlı olması
@@ -663,16 +663,6 @@ III. Kullanılması d&uuml;ş&uuml;n&uuml;len mecralar<br />
     - **Cevap C-) Şekil ve yazı ortalı**
     - D-) Şekil ve yazı sola bloklu
     - E-) Şekil ve yazı sağa bloklu
-    ***
-1. I. Logotype, sadece harflerden oluşur.<br />
-II. Amblemde yazı bulunmaz.<br />
-III. Logo, şekil ve tipografi elemanlarından sadece birini i&ccedil;inde barındırır.<br />
-<strong>Yukarıdaki tasarım terimleriyle ilgili ifadelerden hangisi ya da hangileri <u>yanlıştır</u>?</strong>
-    - A-) Yalnız I
-    - B-) Yalnız II
-    - **Cevap C-) Yalnız III**
-    - D-) I ve II
-    - E-) I, II ve III
     ***
 ## Unite 6
 1. <strong>Aşağıdakilerden hangisi tarihsel s&uuml;re&ccedil;te taşınabilir ilk kitap formudur?</strong> 

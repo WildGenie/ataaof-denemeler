@@ -42,13 +42,6 @@
     - D-) T&uuml;rk Telekom
     - E-) Turkcell
     ***
-1. <strong>2004 yılının ilk 9 ayında d&uuml;nya genelinde satılan telefonların yarısından fazlasında bulunan en &ouml;nemli &ouml;zellik aşağıdakilerin hangisinde doğru verilmiştir?</strong>
-    - A-) &Ccedil;ift hatlı olması
-    - B-) Metal olması
-    - C-) Dokunmatik olması
-    - D-) Olduk&ccedil;a k&uuml;&ccedil;&uuml;k olması
-    - **Cevap E-) Kameralı olması**
-    ***
 1. <strong>Bir bilgisayarla birlikte kullanılmak &uuml;zere geliştirilen ilk g&ouml;r&uuml;nt&uuml; tarayıcı a</strong><strong>şağıdakilerden hangisidir?</strong>
     - A-) Masa&uuml;st&uuml;&nbsp;
     - B-) Tablet&nbsp;

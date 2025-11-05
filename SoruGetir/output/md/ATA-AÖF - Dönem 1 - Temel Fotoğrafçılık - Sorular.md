@@ -35,7 +35,7 @@ III. Ekonomik olması<br />
 II. Fotoğrafın ilk yıllarında kendini g&ouml;steren resimsel fotoğraf eğilimi<br />
 III. Bir stat&uuml; aracı olarak kullanılması<br />
 IV. Birinci D&uuml;nya Savaşı sonrası yaşanan sorunlarda insanların hayatın acımasız y&ouml;n&uuml;n&uuml; g&uuml;ndeme getirme &ccedil;abaları<br />
-<strong>Yukarıdakilerden hangileri b</strong><strong>elgesel fotoğrafın ortaya &ccedil;ıkmasında&nbsp;</strong><strong>&nbsp;etkili olmuştur?</strong>
+<strong>Yukarıdakilerden hangileri b</strong><strong>elgesel fotoğrafın ortaya &ccedil;ıkmasında&nbsp;</strong><strong>etkili olmuştur?</strong>
     - A-) I ve II
     - B-) I ve III
     - C-) I, II ve III
@@ -93,7 +93,7 @@ IV. Birinci D&uuml;nya Savaşı sonrası yaşanan sorunlarda insanların hayatı
     - D-) Kitle İletişimi
     - **Cevap E-) K&uuml;resel İletişim**
     ***
-1. <strong>Yunanca pictus (resim) ve graphos (&ccedil;izmek) s&ouml;zc&uuml;klerinin</strong><strong>&nbsp;bir araya gelerek oluşturduğu, resim yazı anlamına gelen ve en eski iletişim bi&ccedil;imi olarak kabul edilen kavram aşağıdakilerden hangisidir?</strong>
+1. <strong>Herhangi bir nesneyi, mek&acirc;nı, kavramı vb. şeyleri g&ouml;rsellerle sembolik olarak aktaran dil aşağıdakilerden hangisidir?</strong>
     - A-) Fotoğraf
     - **Cevap B-) Piktogram**
     - C-) Fonogram
@@ -231,7 +231,7 @@ IV. Birinci D&uuml;nya Savaşı sonrası yaşanan sorunlarda insanların hayatı
     - D-) Karanlık kutu
     - E-) Fotografi
     ***
-1. <strong>Sanayi Devrimi ile aşağıdaki buluşlardan hangisi ger&ccedil;ekleşmiştir?</strong>
+1. <strong>Sanayi Devrimi ile ilgili aşağıdaki buluşlardan hangisi ger&ccedil;ekleşmiştir?</strong>
     - A-) Yazının icadı
     - B-) Matbaanın icadı
     - C-) Karanlık kutunun icadı
@@ -308,234 +308,75 @@ III. Adını koyan bilim adamı Johannes Kepler olmuştur.<br />
     - E-) karanlık-aydınlık
     ***
 ## Unite 3
-1. <strong>Viz&ouml;r g&ouml;r&uuml;nt&uuml;s&uuml; ile makinenin g&ouml;rd&uuml;ğ&uuml; g&ouml;r&uuml;nt&uuml;n&uuml;n farklı olmasından kaynaklanan hataya ne ad verilir?</strong>
-    - A-) Sens&ouml;r hatası
-    - B-) Objektif hatası
-    - C-) Lens hatası
-    - **Cevap D-) Paralaks hatası**
-    - E-) Hafıza kartı hatası
-    ***
-1. I. Leonardo Da Vinci &ccedil;alışmalarıyla camera obscura ile saydam olan maddeler yardımıyla ışık ışınlarını toplayıp onları bir y&uuml;zeye ileterek g&ouml;r&uuml;nt&uuml; elde edilmiştir.<br />
-II. Karanlık kutunun &ouml;n&uuml;ne dış b&uuml;key iki mercek koyarak daha iyi g&ouml;r&uuml;nt&uuml; elde etme fikrini geliştiren Daniello Barbaro mercek kullanmanın g&ouml;r&uuml;nt&uuml; kalitesini artırdığını &ouml;ne s&uuml;rm&uuml;şt&uuml;r.<br />
-III. Giovanni Battista Della Porta, Doğa B&uuml;y&uuml;s&uuml; adlı eserinde karanlık kutunun &ccedil;alışma prensibini ayrıntılı bir bi&ccedil;imde vererek g&ouml;r&uuml;nt&uuml;y&uuml; daha net elde etmenin &ccedil;eşitli y&ouml;ntemlerini ortaya koymuştur.<br />
-IV. Johannes Kepler, daha sonraki fotoğraf makinelerinde kullanılacak olan&nbsp;aynadaki yansıma kuralı ile g&ouml;r&uuml;nt&uuml;n&uuml;n baş aşağı g&ouml;r&uuml;lme durumunu gidermiştir.<br />
-<strong>Fotoğrafın gelişim s&uuml;recine sunulan katkılarla ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>
-    - A-) Yalnız I
-    - B-) I ve II
-    - C-) I ve III
-    - D-) II, III ve IV
-    - **Cevap E-) I, II, III ve IV**
-    ***
-1. <strong>Maden&icirc; ya da bakalit g&ouml;vdeden oluşan ve levha h&acirc;lindeki fotoğraf filmlerinden roll filme ge&ccedil;işle birlikte kullanılan makineler aşağıdakilerden hangisidir?</strong>
-    - A-) Stereoskopik fotoğraf makineleri
-    - B-) Katlanabilir fotoğraf makineleri
-    - **Cevap C-) Kutu fotoğraf makineleri**
-    - D-) Leica fotoğraf makineleri
-    - E-) Polaroid fotoğraf makineleri
-    ***
-1. <strong>Aşağıdakilerden hangisi katlanabilir fotoğraf makinesinin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
-    - A-) K&ouml;r&uuml;kl&uuml; fotoğraf makinesinin ilk &ccedil;eşididir.
-    - **Cevap B-) Objektifleri i&ccedil; b&uuml;key-dış b&uuml;key merceklerden yapılmış ve sabit netleme &ouml;zelliğine sahiptir.**
-    - C-) Kapağı a&ccedil;ıldıktan sonra k&ouml;r&uuml;k uzar ve kapak sayesinde fotoğraf makinesi taşınabilir.
-    - D-) K&ouml;r&uuml;ğ&uuml;n &ouml;n tarafında 130 mm&rsquo;ye kadar odak uzaklıklı objektifleri i&ccedil;inde barındıran objektif taşıyıcı kısmı vardır.
-    - E-) Bu t&uuml;r makineler 4.5x6, 6x9 cm boyutlarına sahip orta ve b&uuml;y&uuml;k formatlı kameralarda kullanılmak &uuml;zere &uuml;retilmiş filmleri kullanmıştır.
-    ***
-1. <strong>CMOS sens&ouml;rleri ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - **Cevap A-) Y&uuml;ksek &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğe sahiptir.**
-    - B-) 1963 yılında Frank Wanlass icat etmiştir.
-    - C-) D&uuml;ş&uuml;k enerjiye ihtiya&ccedil; duyar.
-    - D-) K&uuml;&ccedil;&uuml;k oldukları i&ccedil;in fazla yer kaplamaz.
-    - E-) Pil &ouml;mr&uuml; a&ccedil;ısından olduk&ccedil;a işlevseldir.
-    ***
-1. <strong>Camera Obscura&rsquo;nın &ccedil;alışma prensibini R&ouml;nesans D&ouml;nemi&rsquo;nde ilk kez tanımlayan isim aşağıdakilerden hangisidir?</strong>
+1. <b>Camera obscura&rsquo;nın &ccedil;alışma prensibini R&ouml;nesans D&ouml;nemi&rsquo;nde ilk kez tanımlayan isim aşağıdakilerden hangisidir?</b>
     - A-) Niepce
     - B-) Uccello
     - **Cevap C-) Leonardo Da Vinci**
     - D-) Raffaello
     - E-) Michalengelo
     ***
-1. <strong>Aynadaki yansıma kuralını dikkate alarak karanlık kutuda g&ouml;r&uuml;nt&uuml;n&uuml;n baş aşağı g&ouml;r&uuml;lme sorununu aşağıdakilerden hangisi gidermiştir?</strong>
+1. <b>Aynadaki yansıma kuralını bularak g&ouml;r&uuml;nt&uuml;n&uuml;n baş aşağı g&ouml;r&uuml;lme eksikliğini gideren isim aşağıdakilerden hangisidir?</b>
     - **Cevap A-) Johannes Kepler**
     - B-) Daniello Barbaro
-    - C-) İbni Heysem
+    - C-) İbn-i Heysem
     - D-) Giovanni Battista Della
     - E-) Daguerre
     ***
-1. <strong>1826 yılında bir zemin &uuml;zerinde kalıcı g&ouml;r&uuml;nt&uuml;y&uuml; sağlayarak ilk fotoğraf g&ouml;r&uuml;nt&uuml;s&uuml;n&uuml; elde etmeyi başaran isim aşağıdakilerden hangisidir?</strong>
-    - A-) Fran&ccedil;ois Arago
+1. <b>1826 yılında kalıcı görüntüyü sağlayarak ilk fotoğraf görüntüsünü elde eden isim aşağıdakilerden hangisidir?</b>
+    - A-) François Arago
     - **Cevap B-) Niepce**
     - C-) William Henry Fox Talbot
     - D-) George Eastman
     - E-) Joseph Bancroft
     ***
-1. <strong>Fotoğrafın resmen bir buluş olarak kabul edilmesinin resm&icirc; belgesi niteliğindeki buluş aşağıdakilerden hangisidir?</strong>
+1. <b>Fotoğrafın resmen bir buluş olarak kabul edilmesinin resmî belgesi niteliğindeki buluş aşağıdakilerden hangisidir?</b>
     - A-) Banyolama
     - B-) Calotype
     - C-) Fotogram
     - **Cevap D-) Daguerreotype**
     - E-) Pozlama
     ***
-1. <strong>İlk kez negatif ve pozitif tekniğini bularak tek bir negatifi &ccedil;oğaltıp pozitif g&ouml;r&uuml;nt&uuml;ler elde etmenin m&uuml;mk&uuml;n olduğunu g&ouml;steren isim aşağıdakilerden hangisidir?</strong> 
+1. <b>İlk kez negatif ve pozitif tekniğini bularak tek bir negatifi &ccedil;oğaltıp pozitif g&ouml;r&uuml;nt&uuml;ler elde etmenin m&uuml;mk&uuml;n olduğunu g&ouml;steren isim aşağıdakilerden hangisidir?</b>
     - A-) Niepce
     - B-) George Eastman
     - C-) Fran&ccedil;ois Arago
     - D-) Giovanni Battista Della
     - **Cevap E-) William Henry Fox Talbot**
     ***
-1. <strong>Y&uuml;zey &uuml;zerinde g&ouml;r&uuml;nt&uuml; oluşmasına yardımcı olan ve ışıkla etkileşimi sonucu kararma-ağarma &ouml;zelliklerine sahip kimyasal madde aşağıdakilerden hangisidir?</strong> 
-    - **Cevap A-) G&uuml;m&uuml;ş**
+1. <b>Yüzey üzerinde görüntü oluşmasına yardımcı olan ve ışıkla etkileşimi sonucu kararma-ağarma özelliklerine sahip kimyasal madde aşağıdakilerden hangisidir?</b>
+    - **Cevap A-) Gümüş**
     - B-) Bakır
     - C-) Altın
     - D-) Krom
     - E-) Civa
     ***
-1. <strong>&#39;Universal tip&#39; olarak bilinen hem g&uuml;n ışığında hem de yapay ışıkta elde edilen renkli negatifler hangi y&ouml;ntemle fotoğraf kartlarına tab edilerek birer pozitif g&ouml;r&uuml;nt&uuml;ye d&ouml;n&uuml;şt&uuml;r&uuml;l&uuml;rler?</strong> 
+1. <b>“Universal tip” olarak bilinen hem gün ışığında hem de yapay ışıkta elde edilen renkli negatifler hangi yöntemle fotoğraf kartlarına tab edilerek birer pozitif görüntüye dönüştürülürler?</b>
     - A-) Banyolama
-    - B-) K&uuml;&ccedil;&uuml;ltme
-    - **Cevap C-) B&uuml;y&uuml;ltme**
+    - B-) Küçültme
+    - **Cevap C-) Büyütme**
     - D-) Fotogram
     - E-) Calotype
     ***
-1. <strong>İki boyutlu fotoğraflar yerine &uuml;&ccedil; boyutlu fotoğraflar elde ederek fotoğraflara derinlik hissi veren fotoğraf makinesi t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+1. <b>İki boyutlu fotoğraflar yerine üç boyutlu fotoğraflar elde ederek fotoğraflara derinlik hissi veren fotoğraf makinesi türü aşağıdakilerden hangisidir?</b>
     - A-) Leica Fotoğraf Makinesi
     - B-) Katlanabilir Fotoğraf Makinesi
     - C-) Dijital Fotoğraf Makinesi
     - **Cevap D-) Stereoskopik Fotoğraf Makinesi**
     - E-) Kutu Fotoğraf Makinesi
     ***
-1. <strong>Niepce&rsquo;nin metal levha &uuml;zerinde ilk mimari fotoğrafı elde ederken kullanmış olduğu y&ouml;ntem aşağıdakilerden hangisidir?</strong>
+1. <b>Niepce’nin metal levha üzerinde ilk mimari fotoğrafı elde ederken kullanmış olduğu yöntem aşağıdakilerden hangisidir?</b>
     - A-) Fotografi
-    - B-) G&ouml;lgeleme
+    - B-) Gölgeleme
     - **Cevap C-) Heliografi**
     - D-) Calotyp
     - E-) Daguerreotype
     ***
-1. <strong>Kutu fotoğraf makinesinin &ouml;zellikleri arasında aşağıdakilerden hangisi <u>yoktur</u>?</strong>
+1. <b>Kutu fotoğraf makinesinin özellikleri arasında aşağıdakilerden hangisi yoktur?</b>
     - A-) Fotoğraf makinelerinin en basit halidir.
-    - B-) Madeni ya da bakalit g&ouml;vdeden oluşur.
-    - C-) Objektifleri i&ccedil; b&uuml;key-dış b&uuml;key malzemeden yapılmıştır.
-    - D-) Sabit netleme &ouml;zelliğine sahiptir.
+    - B-) Madeni ya da bakalit gövdeden oluşur.
+    - C-) Objektifleri iç bükey-dış bükey malzemeden yapılmıştır.
+    - D-) Sabit netleme özelliğine sahiptir.
     - **Cevap E-) Dia pozitif filmler kullanılır.**
-    ***
-1. <strong>Kolay taşınabilir, k&uuml;&ccedil;&uuml;k, hafif ve dayanıklı y&ouml;nleriyle &ouml;zellikle Birinci D&uuml;nya Savaşı&rsquo;nın toplumsal değişimini kaydeden, adını da bir Alman fotoğraf makinası firmasından alan fotoğraf makinası t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) Leica fotoğraf makinası**
-    - B-) Polaroid fotoğraf makinası
-    - C-) Kodak fotoğraf makinası
-    - D-) K&ouml;r&uuml;kl&uuml; fotoğraf makinası
-    - E-) Stereoskopik fotoğraf makinası
-    ***
-1. <strong>Aşağıdakilerden hangisi polaroid fotoğraf makinesinin &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
-    - A-) Edwin Land tarafından bulunmuştur.
-    - B-) Banyo işlemi gerektirmeyen fotoğraflar elde edilir.
-    - C-) Bir diğer adıyla şipşak fotoğraf makinesi olarak bilinir.
-    - **Cevap D-) K&ouml;r&uuml;kl&uuml; fotoğraf makinesinin ilk &ccedil;eşididir.**
-    - E-) İlk &uuml;retildiğinde siyah-beyaz baskıyla piyasaya sunulmuştur.
-    ***
-1. <strong>&Ccedil;ekilen fotoğrafların banyo ve tab işlemlerine gerek duyulmadan anında g&ouml;r&uuml;lebilmesi amacıyla &uuml;retilen fotoğraf makinesi t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
-    - A-) Katlanabilir fotoğraf makinesi
-    - **Cevap B-) Polaroid fotoğraf makinesi**
-    - C-) Kodak fotoğraf makinesi
-    - D-) Leica fotoğraf makinesi
-    - E-) Kutu fotoğraf makinesi
-    ***
-1. <strong>Dijital fotoğraf makinelerinde g&ouml;r&uuml;nt&uuml; elde etmeyi sağlayan sens&ouml;rler aşağıdakilerden hangisidir?</strong>
-    - A-) CMOS-DVD
-    - **Cevap B-) CCD-CMOS**
-    - C-) CCD-VCD
-    - D-) CMOS-VCD
-    - E-) VCD-DVD
-    ***
-1. <strong>D&uuml;ş&uuml;k enerjiyle &ccedil;alışması ve k&uuml;&ccedil;&uuml;k olması nedeniyle telefon ve tabletlerde kullanılan g&ouml;r&uuml;nt&uuml; sağlayıcı sens&ouml;r aşağıdakilerden hangisidir?</strong> 
-    - A-) VCD
-    - B-) DVD
-    - **Cevap C-) CMOS**
-    - D-) CCD
-    - E-) RGB
-    ***
-1. <strong>GPS ve wi-fi &ouml;zelliklerini i&ccedil;inde barındırarak mevcut internet bağlantısıyla insanlara paylaşım yapma avantajı sağlayan fotoğraf makinesi t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
-    - A-) Katlanabilir fotoğraf makinesi
-    - B-) Polaroid fotoğraf makinesi
-    - C-) Stereoskopik fotoğraf makinesi
-    - D-) Analog-kutu fotoğraf makinesi
-    - **Cevap E-) Dijital fotoğraf makineleri**
-    ***
-1. <strong>&Ccedil;ekim değerleri manuel olarak değiştirilebildiği i&ccedil;in profesyonel fotoğraf&ccedil;ıların tercih ettiği dijital fotoğraf makinesi t&uuml;r&uuml; aşağıdakilerden hangidir?</strong>
-    - **Cevap A-) Dijital SLR**
-    - B-) Kompakt dijital fotoğraf makinesi
-    - C-) Şipşak fotoğraf makinesi
-    - D-) K&ouml;r&uuml;kl&uuml; fotoğraf makinesi
-    - E-) Stereoskopik fotoğraf makinesi
-    ***
-1. <strong>CCD sens&ouml;rlerinin g&ouml;r&uuml;nt&uuml; işlerken kullandığı temel renkler aşağıdakilerden hangisidir?</strong>
-    - A-) Kırmızı-sarı-yeşil
-    - B-) Yeşil-mavi-mor
-    - C-) Siyah-beyaz-yeşil
-    - **Cevap D-) Kırmızı-Yeşil-Mavi**
-    - E-) Sarı- mavi-siyah
-    ***
-1. <strong>Kompakt makinelerde viz&ouml;r ve LCD g&ouml;r&uuml;nt&uuml;lerinin aynı olmaması anlamına gelen kavram aşağıdakilerden hangisidir?</strong>
-    - A-) Diyafram
-    - **Cevap B-) Paralaks hatası**
-    - C-) Pozlama sayısı
-    - D-) Enstantane
-    - E-) Baka&ccedil;
-    ***
-1. <strong>Niepce&rsquo;nin nesnelerin ve dış d&uuml;nya ger&ccedil;ekliğinin ışık ve g&ouml;lge değerlerinin ters d&ouml;nm&uuml;ş bi&ccedil;imde g&ouml;z&uuml;kt&uuml;ğ&uuml; g&ouml;r&uuml;nt&uuml; bi&ccedil;imi olarak tanımladığı negatif g&ouml;r&uuml;nt&uuml;ye verdiği isim hangisidir?</strong>
-    - A-) Heliogarfi
-    - B-) Calotyp
-    - **Cevap C-) Retinas**
-    - D-) Daguerreotype
-    - E-) Pozlama
-    ***
-1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;, fotoğraf makinelerinin en basit ve en ilkel h&acirc;lidir. Maden&icirc; veya bakalit g&ouml;vdeden oluşan ve levha h&acirc;lindeki fotoğraf filmlerinden roll filmle ge&ccedil;işle birlikte kullanılan makinelerdir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-    - **Cevap A-) Kutu fotoğraf makineleri**
-    - B-) Stereoskopik fotoğraf makineleri
-    - C-) Katlanabilir fotoğraf makineleri
-    - D-) Leica fotoğraf makineleri
-    - E-) Polaroid fotoğraf makineleri
-    ***
-1. <strong>Banyo işlemi gerektirmeyen ve şipşak g&ouml;r&uuml;nt&uuml; veren fotoğraf makinasi t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
-    - A-) Dijital fotoğraf makinesi
-    - B-) Kompakt fotoğraf makinesi
-    - **Cevap C-) Polaroid fotoğraf makinesi**
-    - D-) Aynasız fotoğraf makinesi
-    - E-) Leica fotoğraf makinesi
-    ***
-1. <strong>Fotoğraf makinesinin tarih&icirc; s&uuml;reciyle ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) Kimyasal deneyler fotoğraf&ccedil;ılığın ortaya &ccedil;ıkmasında &ouml;nemli bir rol oynamıştır.
-    - **Cevap B-) T. Wedgwood ilk mimari fotoğrafik g&ouml;r&uuml;nt&uuml;y&uuml; &ccedil;ekmiştir.**
-    - C-) Talbot, kullandığı g&ouml;r&uuml;nt&uuml;lerde tek bir negatifi &ccedil;oğaltıp pozitif kopyalar elde etmiştir.
-    - D-) Daguerre &ldquo;Daguerreotype&rdquo; y&ouml;ntemini bulmuş, g&ouml;r&uuml;nt&uuml;y&uuml; sabitleştirmiştir.
-    - E-) Kodak firması k&uuml;&ccedil;&uuml;k ebatdaki fotoğraf makineleri ile fotoğraf&ccedil;ılığın gelişmesine katkıda bulunmuştur.
-    ***
-1. <strong>Genellikle&nbsp;</strong><strong>amat&ouml;r kullanıcılar i&ccedil;in &uuml;retilmiş, o</strong><strong>bjektifi makinenin g&ouml;vdesiyle birleşik olan zoom &ouml;zellikli fotoğraf makinesi t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
-    - A-) Leica makineler
-    - B-) Stereoskopik makineler
-    - C-) Paralaks makineler
-    - **Cevap D-) Kompakt makineler**
-    - E-) Dijital SLR makineler
-    ***
-1. <strong>William Henry Fox Talbot&nbsp;aşağıdaki yeniliklerden hangisini geliştirmiştir?</strong>
-    - **Cevap A-) İlk negatif/pozitif tekniği**
-    - B-) İlk ışık/renk tekniği
-    - C-) İlk g&ouml;r&uuml;nt&uuml; tekniği
-    - D-) İlk perspektif tekniği
-    - E-) İlk pozlama tekniği
-    ***
-1. <strong>Aşağıdaki fotoğraf makinalarından hangisi 1970&rsquo;li yıllarda geliştirilmiştir?</strong>
-    - A-) Katlanabilir Fotoğraf Makinesi
-    - **Cevap B-) &nbsp;SLR Şipşak Fotoğraf Makinesi**
-    - C-) Stereoskopik Fotoğraf Makinesi
-    - D-) &nbsp;Kutu T&uuml;r&uuml; Fotoğraf Makinesi
-    - E-) &nbsp;Leica Fotoğraf Makinesi
-    ***
-1. <strong>Aşağıdakilerden hangisi 1813&#39;te ışığa duyarlı bir levha &uuml;zerinde, kalıcı g&ouml;r&uuml;nt&uuml;leri elde etmek i&ccedil;in 8 saat boyunca ışıklandırarak g&ouml;r&uuml;nt&uuml;leri sabitlemeyi başarmıştır?</strong>
-    - A-) İbn-i Heysem (Alhazen)
-    - B-) Leonardo da Vinci
-    - C-) Aristoteles
-    - D-) Johannes Kepler
-    - **Cevap E-) Joseph Nicepore Niepce**
     ***
 ## Unite 4
 1. <strong>Atat&uuml;rk&rsquo;&uuml;n alb&uuml;m niteliğindeki portrelerini &ccedil;eken, T&uuml;rkiye Cumhuriyeti&rsquo;nin ilk foto muhabiri olarak bilinen kişi aşağıdakilerden hangisidir?</strong>
@@ -1298,12 +1139,12 @@ III. Enstantane değeri (ışığın giriş s&uuml;resi)<br />
     - D-) Diyafram
     - E-) Viz&ouml;r
     ***
-1. ISO değeri y&uuml;kseldik&ccedil;e, enstantane s&uuml;resi de ona bağlı olarak &hellip;&hellip;&hellip;; ISO değeri azaldık&ccedil;a, enstantane s&uuml;resi o kadar stop değerinde &hellip;&hellip;&hellip;...<br />
+1. ISO değeri ka&ccedil; stop ....................., enstantane s&uuml;resi de o kadar stop değerinde ..................<br />
 <strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) azalır - y&uuml;kselir.
-    - B-) azalır - azalır.
-    - C-) y&uuml;kselir - y&uuml;kselir.
-    - **Cevap D-) y&uuml;kselir - azalır.**
+    - B-) y&uuml;kselir - aynı kalır.
+    - **Cevap C-) y&uuml;kselir - y&uuml;kselir.**
+    - D-) y&uuml;kselir - azalır.
     - E-) aynı kalır - aynı kalır.
     ***
 1. I. Enstantane değerine etki eder.<br />

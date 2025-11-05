@@ -758,8 +758,8 @@ III. G&ouml;ky&uuml;z&uuml;nde hızla ilerleyen&nbsp; bir u&ccedil;ağın yavaş
 1. I. Beşgen<br />
 II. Kare<br />
 III. Daire<br />
-IV. &#220;&#231;gen<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri tasarımın soyut olan temel geometrik bi&#231;imleri arasında yer alır?</strong>
+IV. &Uuml;&ccedil;gen<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri tasarımın soyut olan temel geometrik bi&ccedil;imleri arasında yer alır?</strong>
     - A-) Yalnız I
     - **Cevap B-) II, III ve IV**
     - C-) Yalnız II

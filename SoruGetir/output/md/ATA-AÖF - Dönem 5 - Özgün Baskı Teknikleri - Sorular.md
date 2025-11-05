@@ -166,13 +166,6 @@ IV.&nbsp;Silindir damga m&uuml;h&uuml;rler<br />
     - D-) 19. yy
     - E-) 20. yy
     ***
-1. <strong>&quot;Fare &Ouml;ld&uuml;ren Adam&quot; hangi sanat&ccedil;ının eseridir?</strong>
-    - A-) Rafael
-    - B-) Van Gogh
-    - C-) Picasso
-    - D-) D&uuml;rer
-    - **Cevap E-) Rembrandt**
-    ***
 1. <strong>Romantizm &ouml;ncesi hangi d&uuml;ş&uuml;nsel yapı toplumda değişim meydana getirmiştir?</strong>
     - A-) Barok
     - **Cevap B-) R&ouml;nesans**
@@ -381,12 +374,12 @@ IV. Tahta kaşıklar<br />
     - D-) Claude Monet ve Edgar Degas
     - E-) Jackson Pollock ve Andy Warhol
     ***
-1. <strong>Linol baskı, Ağa&#231; Baskı Y&#246;ntemi&#39;ne neden tercih edilmiştir?</strong>
+1. <strong>Linol baskı, Ağa&ccedil; Baskı Y&ouml;ntemi&#39;ne neden tercih edilmiştir?</strong>
     - A-) Linol plakalar daha ucuzdur.
     - B-) Linol plakalar daha dayanıklıdır.
-    - C-) Linol baskı daha renkli sonu&#231;lar verir.
+    - C-) Linol baskı daha renkli sonu&ccedil;lar verir.
     - **Cevap D-) Linol baskı daha ince ayrıntıların oyulmasını kolaylaştırır.**
-    - E-) Linol baskıda plaka y&#252;zeyi serttir.
+    - E-) Linol baskıda plaka y&uuml;zeyi serttir.
     ***
 ## Unite 4
 1. <strong>Aşağıdakilerden hangisi metal plaka &uuml;zerine yapılan geleneksel &ccedil;ukur baskı tekniklerinden biri <u>değildir</u>?</strong>
@@ -424,12 +417,12 @@ IV. Tahta kaşıklar<br />
     - D-) &Ccedil;elik
     - **Cevap E-) Bakır**
     ***
-1. <strong>&#199;ukur baskı plakalarının kenarlarının 35-45 derecelik a&#231;ıyla t&#246;rp&#252;, perdah kalemi veya el matkabı ile elde t&#246;rp&#252;lenmesi işlemine ne denir?</strong>
-    - A-) &#199;apak alma
+1. <strong>&Ccedil;ukur baskı plakalarının kenarlarının 35-45 derecelik a&ccedil;ıyla t&ouml;rp&uuml;, perdah kalemi veya el matkabı ile elde t&ouml;rp&uuml;lenmesi işlemine ne denir?</strong>
+    - A-) &Ccedil;apak alma
     - **Cevap B-) Pahlanma**
     - C-) Parlatma
-    - D-) T&#246;rp&#252;leme
-    - E-) D&#252;zeltme
+    - D-) T&ouml;rp&uuml;leme
+    - E-) D&uuml;zeltme
     ***
 1. <strong>Aşağıdakilerden hangisi baskı plakasına m&uuml;rekkep verilmesi işlemiyle ilgili <u>değildir</u>?</strong>
     - A-) M&uuml;rekkep verilmeden &ouml;nce plaka ısıtılır.
@@ -709,7 +702,7 @@ Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
     ***
 1. <strong>Almanya&rsquo; da grav&uuml;r yapan ilk b&uuml;y&uuml;k sanat&ccedil;ı Martin Schongauer, grav&uuml;rlerinde neleri vurgulamış ve nasıl bir teknik kullanmıştır?</strong>
     - A-) Renk kontrastlarını vurgulamış, yağlı boya tekniği kullanmıştır.
-    - **Cevap B-) Derinliği ve şekilleri vurgulamış, &ccedil;apraz tarama &ccedil;izgileri kullanmıştır.**
+    - **Cevap B-) Derinliği ve şekilleri vurgulamış, &ccedil;apraz tarama &ccedil;izgileri kullanmıştır.&nbsp;**
     - C-) Soyut desenleri tercih etmiş, perspektifi kullanmamıştır.
     - D-) Y&uuml;zey d&uuml;zlemini &ouml;n plana &ccedil;ıkarmış, net &ccedil;izgiler kullanmıştır.
     - E-) Doğal ışığı yansıtmış, su r&ouml;lyef tekniğini kullanmıştır.

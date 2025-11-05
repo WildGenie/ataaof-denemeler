@@ -92,7 +92,7 @@ public class Program
     {
         Console.WriteLine("Program başladı.");
         // Check for a force re-process argument
-        bool forceReprocess = args.Contains("--force");
+        bool forceReprocess = true || args.Contains("--force");
         if (forceReprocess)
         {
             Console.WriteLine("Yeniden işleme zorunlu kılındı (`--force`).");

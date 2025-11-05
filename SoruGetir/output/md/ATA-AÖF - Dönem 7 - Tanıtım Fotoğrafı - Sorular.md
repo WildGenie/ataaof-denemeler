@@ -697,7 +697,7 @@
     - E-) Sosyal etkinlikleri tanıtmak
     ***
 ## Unite 7
-1. <strong>Reklamveren firmalar kampanya s&uuml;recinde aşağıdakilerden hangilerini g&ouml;z &ouml;n&uuml;nde <u>bulundurmazlar</u>?</strong>
+1. <strong>Reklam veren firmalar kampanya s&uuml;recinde aşağıdakilerden hangilerini g&ouml;z &ouml;n&uuml;nde <u>bulundurmazlar</u>?</strong>
     - A-) Markanın sekt&ouml;rel &ouml;zellikleri
     - B-) Firmanın sekt&ouml;rdeki yeri<br />
 &nbsp;

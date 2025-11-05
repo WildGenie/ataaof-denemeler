@@ -114,13 +114,12 @@
     - D-) Manisa ağzı
     - **Cevap E-) İstanbul ağzı**
     ***
-1. <strong>Aşağıdakilerden hangisinde &ldquo;dil&rdquo; kavramı diğerlerinden farklı anlamda kullanılmıştır?</strong>
-
+1. <strong>Aşağıdakilerden hangisinde &ldquo;dil&rdquo; kavramı diğerlerinden farklı anlamda kullanılmıştır?</strong> 
     - A-) Tanzimat dili, Divan dili
     - B-) Gemici dili, tıp dili, argo
     - C-) Nedim&rsquo;in dili, Yahya Kemal&rsquo;in dili
-    - D-) &Ccedil;ocuk dili, din dili
-    - **Cevap E-) T&uuml;rk dili, İngiliz dili**
+    - **Cevap D-) &Ccedil;ocuk dili, din dili**
+    - E-) T&uuml;rk dili, İngiliz dili
     ***
 1. <strong>Dil ile ilgili ilk sistematik d&uuml;ş&uuml;ncelere aşağıdakilerden hangisinde rastlanır?</strong>
 
@@ -718,13 +717,6 @@ III. G&ouml;&ccedil;ler<br />
     - **Cevap D-) Karahanlılar**
     - E-) G&ouml;kt&uuml;rkler
     ***
-1. <strong>Aşağıdakilerden hangisi G&ouml;kt&uuml;rk alfabesinin &ouml;zelliklerinden biri <u>değildir</u>?</strong> 
-    - A-) Sağdan sola veya yukarıdan aşağıya doğru yazılır.
-    - **Cevap B-) Soldan sağa veya aşağıdan yukarıya doğru yazılır.**
-    - C-) Harfler birbirinden ayrı yazılır.
-    - D-) Kelimeler arasına &ldquo;:&rdquo; konur.
-    - E-) Toplamda 38 harf bulunmaktadır.
-    ***
 1. <strong>T&uuml;rklerin Arap Alfabesi ile yazdıkları ilk metnin konusu nedir?</strong>
     - **Cevap A-) Araplara T&uuml;rk&ccedil;e &ouml;ğretmek**
     - B-) Oğuzların yaşayışı
@@ -844,11 +836,11 @@ Bu durumda eğitimli birey i&ccedil;in doğru davranış aşağıdakilerin hangi
     - **Cevap E-) &nbsp;Sebepsiz &ouml;l&uuml;m olmaz.**
     ***
 1. <strong>Aşağıdaki atas&ouml;zlerinin hangisinde mecazlı bir s&ouml;yleyiş <u>yoktur</u>?</strong>
-    - A-) A&ccedil;ık yaraya tuz ekilmez.
-    - B-) Ay var yılı besler, yıl var ayı beslemez.
-    - C-) Ak g&uuml;n ağartır, kara g&uuml;n karartır.
-    - D-) &Acirc;lim unutmuş, kalem unutmamış.
-    - **Cevap E-) Dost ile ye i&ccedil;, alışveriş etme.**
+    - A-) Tavşan dağa k&uuml;sm&uuml;ş, dağın haberi olmamış
+    - B-) Mum dibine ışık vermez.
+    - C-) Ayağını yorganına g&ouml;re uzat.
+    - D-) Araba devrilince yol g&ouml;steren &ccedil;ok olur.
+    - **Cevap E-) &Ouml;l&uuml;m hak, miras helal.**
     ***
 1. <strong>T&uuml;rk&ccedil;ede renk ve akrabalık kavramlarının geniş bir yelpazede olması aşağıdakilerden hangisini ifade eder?</strong>
     - A-) &nbsp;Bir&ccedil;ok leh&ccedil;e ve ağza sahip olmasını
@@ -1014,7 +1006,7 @@ IV. G&ouml;zleri s&uuml;z&uuml;lmek<br />
     - B-) &Ccedil;at
     - **Cevap C-) Yurt**
     - D-) Top
-    - E-) Et
+    - E-) Sap
     ***
 1. <strong>Aşağıdaki atas&ouml;zlerinin hangisinde yardımcı ses <u>yoktur</u>?</strong>
     - A-) Doğru s&ouml;yleyeni dokuz k&ouml;yden kovarlar.
