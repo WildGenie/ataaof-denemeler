@@ -16,11 +16,25 @@ MD_DIR = os.path.join("sorular-anadolu", "md") # Updated to subfolder in sorular
 FULL_JSON_DIR = "sorular-anadolu"
 
 # Headers from the curl command
+def load_env():
+    env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env")
+    if os.path.exists(env_path):
+        with open(env_path, "r") as f:
+            for line in f:
+                line = line.strip()
+                if not line or line.startswith("#"):
+                    continue
+                if "=" in line:
+                    key, value = line.split("=", 1)
+                    os.environ[key.strip()] = value.strip()
+
+load_env()
+
 HEADERS = {
     'Connection': 'keep-alive',
     'Origin': 'https://ekampus.anadolu.edu.tr',
     'accept': '*/*',
-    'authorization': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJldHMtd2Vic2VydmljZXMifQ.EuhtnmabJ9H67LLgchAt6Z75oGjjIXmB3HksUYXCOeM',
+    'authorization': os.environ.get('ANADOLU_AUTH_TOKEN', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJldHMtd2Vic2VydmljZXMifQ.EuhtnmabJ9H67LLgchAt6Z75oGjjIXmB3HksUYXCOeM'),
 }
 
 def setup_directories():
