@@ -1,6 +1,7 @@
 import os
 import json
-from anadolu_soru_getir import questions_to_markdown
+import re
+from anadolu_soru_getir import questions_to_markdown, clean_html
 
 # Directories
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -29,7 +30,22 @@ def sort_and_regenerate():
 
             print(f"Processing {filename} ({len(questions)} questions)...")
 
-            # Sort questions
+            # Clean and Sort questions
+            for q in questions:
+                q['SoruMetni'] = clean_html(q.get('SoruMetni'))
+                q['A'] = clean_html(q.get('A'))
+                q['B'] = clean_html(q.get('B'))
+                q['C'] = clean_html(q.get('C'))
+                q['D'] = clean_html(q.get('D'))
+                q['E'] = clean_html(q.get('E'))
+                q['Aciklama'] = clean_html(q.get('Aciklama'))
+
+                # Aggressively remove <br> tags from options in JSON as well
+                for opt in ['A', 'B', 'C', 'D', 'E']:
+                    if q.get(opt):
+                        q[opt] = q[opt].replace('\n', ' ')
+                        q[opt] = re.sub(r'<br\s*/?>', ' ', q[opt])
+
             # Sort questions by Semester, Unit, then SoruID
             try:
                 questions.sort(key=lambda x: (
@@ -60,13 +76,19 @@ def sort_and_regenerate():
             md_filename = f"Anadolu - Dönem {donem} - {course_name} - Sorular.md"
             md_path = os.path.join(MD_DIR, md_filename)
 
-            md_content = f"# {course_name}\n\n"
+            md_content = f"# {course_name} (Dönem {donem}) - Tüm Sorular\n\n"
             current_unit = None
             for q in questions:
                 unit = q.get('Unite')
-                if unit != current_unit:
-                    md_content += f"## Unite {unit}\n"
-                    current_unit = unit
+                # Ensure unit is treated consistently (as int if possible)
+                try:
+                    unit_val = int(unit)
+                except (ValueError, TypeError):
+                    unit_val = unit
+
+                if unit_val != current_unit:
+                    md_content += f"## Unite {unit_val}\n"
+                    current_unit = unit_val
                 md_content += questions_to_markdown([q])
 
             # Ensure MD directory exists
@@ -94,6 +116,22 @@ def sort_and_regenerate():
 
                 if not questions:
                     continue
+
+                # Clean and Sort unit questions
+                for q in questions:
+                    q['SoruMetni'] = clean_html(q.get('SoruMetni'))
+                    q['A'] = clean_html(q.get('A'))
+                    q['B'] = clean_html(q.get('B'))
+                    q['C'] = clean_html(q.get('C'))
+                    q['D'] = clean_html(q.get('D'))
+                    q['E'] = clean_html(q.get('E'))
+                    q['Aciklama'] = clean_html(q.get('Aciklama'))
+
+                    # Aggressively remove <br> tags from options in JSON as well
+                    for opt in ['A', 'B', 'C', 'D', 'E']:
+                        if q.get(opt):
+                            q[opt] = q[opt].replace('\n', ' ')
+                            q[opt] = re.sub(r'<br\s*/?>', ' ', q[opt])
 
                 # Sort unit questions by SoruID
                 # Unit files contain questions for a single unit, so just sort by ID
