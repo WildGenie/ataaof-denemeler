@@ -12,8 +12,7 @@
         "D": "<p>Kant</p>",
         "E": "<p>Hegel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354064,
@@ -28,8 +27,7 @@
         "D": "<p>Yeni Medya</p>",
         "E": "<p>Yazılı Medya</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354065,
@@ -44,8 +42,7 @@
         "D": "<p> Emile Zola</p>",
         "E": "<p>Kant</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354066,
@@ -60,8 +57,7 @@
         "D": "<p>Mistisizm ve Ahlak</p> ",
         "E": " <p>Mimesis ve Katharsis</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354067,
@@ -76,8 +72,7 @@
         "D": "<p>Karl Marx</p> ",
         "E": "<p>Eugene Veron</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354068,
@@ -92,8 +87,7 @@
         "D": "<p>Romantizm</p>",
         "E": "<p>Neoklasisizm</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354070,
@@ -108,8 +102,7 @@
         "D": "<p>Klasisisizm</p>",
         "E": "<p>Romantizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354174,
@@ -124,8 +117,7 @@
         "D": "<p>Değer yüklemek</p>",
         "E": "<p>Değer saptamak</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354177,
@@ -140,8 +132,7 @@
         "D": "<p>Bilgilendirme eleştirisi</p>",
         "E": "<p>Yargılama eleştirisi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354180,
@@ -156,8 +147,7 @@
         "D": "<p>Batı Gerçekçiliği Kuramı</p>",
         "E": "<p>Modern Yansıtma Kuramları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354220,
@@ -172,8 +162,7 @@
         "D": "<p>Hasan Âli Yücel </p>",
         "E": "<p>Afşar Timuçin </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354223,
@@ -188,8 +177,7 @@
         "D": "<p>Theophrastus</p>",
         "E": "<p>Kant</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354224,
@@ -204,8 +192,7 @@
         "D": "<p>Sokrates</p>",
         "E": "<p>Kant</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354226,
@@ -220,8 +207,7 @@
         "D": "<p>Horace</p>",
         "E": "<p>Aristarque</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842282,
@@ -236,8 +222,7 @@
         "D": "Deney",
         "E": "Algı",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842324,
@@ -252,8 +237,7 @@
         "D": "İnceleme eleştirisi",
         "E": "Yargılama eleştirisi",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842325,
@@ -268,8 +252,7 @@
         "D": "Karl Marx",
         "E": "René Descartes",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842326,
@@ -284,8 +267,7 @@
         "D": "Robin George Collingwood",
         "E": "Pierre-Joseph Ducasse",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842330,
@@ -300,8 +282,7 @@
         "D": "Claude Bremond",
         "E": "Karl Marx",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842331,
@@ -316,8 +297,7 @@
         "D": "Karl Marx",
         "E": "Jacques Lacan",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354062,
@@ -332,8 +312,7 @@
         "D": "<p>Sorgulama</p>  ",
         "E": "<p>Yanlışlama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354069,
@@ -348,8 +327,7 @@
         "D": " <p>Rasyonalizm</p> ",
         "E": " <p>Kübizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354181,
@@ -364,8 +342,7 @@
         "D": "<p>Duygusal Etki Kuramı</p>",
         "E": "<p>Aktarımcı Anlatımcılık Kuramı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354182,
@@ -380,8 +357,7 @@
         "D": "<p>Romantizm</p>",
         "E": "<p>Komünizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354218,
@@ -396,8 +372,7 @@
         "D": "<p>Anlama</p>",
         "E": "<p>Yargı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354219,
@@ -412,8 +387,7 @@
         "D": "<p>Hissetme</p>",
         "E": "<p>Anlama</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354228,
@@ -428,8 +402,7 @@
         "D": "<p>Baron d’Holbach</p>",
         "E": "<p>Montesquieu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842322,
@@ -444,8 +417,7 @@
         "D": "Immanuel Kant ve Christian Wolff",
         "E": "René Descartes ve Gottfried Wilhelm Leibniz",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842327,
@@ -460,8 +432,7 @@
         "D": "John Locke",
         "E": "Thomas Paine",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842328,
@@ -476,8 +447,7 @@
         "D": "Hedonizm",
         "E": "Rus Biçimciliği Kuramı",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842329,
@@ -492,8 +462,7 @@
         "D": "Rus Biçimciliği Kuramı",
         "E": "Richards’ın Öznelci Kuramı",
         "CorrectAnswer": "0",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354061,
@@ -508,8 +477,7 @@
         "D": "<p>Satıcının kişiliği</p>",
         "E": "<p>Özgün Değeri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354175,
@@ -524,8 +492,7 @@
         "D": "<p>Tanıma</p>",
         "E": "<p>Anlama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354179,
@@ -540,8 +507,7 @@
         "D": "<p>Balzac</p>",
         "E": "<p>Mondrian</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354221,
@@ -556,8 +522,7 @@
         "D": "<p>Değer Saptamak</p>",
         "E": "<p>Değer yakıştrmak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354222,
@@ -572,8 +537,7 @@
         "D": "<p>Değerlendirme</p>",
         "E": "<p>Tespit</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354227,
@@ -588,8 +552,7 @@
         "D": "<p>Aristarque</p>",
         "E": "<p>Aristoteles</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3785793,
@@ -604,8 +567,7 @@
         "D": "XVIII. yüzyılın ortasında Rusya ve Polonya’da",
         "E": "XIX. yüzyılın sonunda Amerika ve Kanada’da",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354178,
@@ -620,8 +582,7 @@
         "D": "<p>Mimesis</p>",
         "E": "<p>Hedonizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354176,
@@ -636,8 +597,7 @@
         "D": "<p>Theophrastus</p>",
         "E": "<p>Platon</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354183,
@@ -652,7 +612,6 @@
         "D": "<p>Teknik eleştiri</p>",
         "E": "<p>Felsefi eleştiri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     }
 ]

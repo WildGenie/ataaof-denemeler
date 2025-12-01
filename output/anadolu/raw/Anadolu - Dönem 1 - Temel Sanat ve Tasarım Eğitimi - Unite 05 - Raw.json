@@ -12,8 +12,7 @@
         "D": "<p>Yön</p>",
         "E": "<p>Boşluk</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861122,
@@ -28,8 +27,7 @@
         "D": "<p>Görsel algıyı</p>",
         "E": "<p>Organizasyonu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861124,
@@ -44,8 +42,7 @@
         "D": "<p>Hacim</p>",
         "E": "<p>Derinlik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861125,
@@ -60,8 +57,7 @@
         "D": "<p>Grid</p>",
         "E": "<p>Derinlik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861127,
@@ -76,8 +72,7 @@
         "D": "<p>Sarmal</p>",
         "E": "<p>Diagonal</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861128,
@@ -92,8 +87,7 @@
         "D": "<p>Derinlik</p>",
         "E": "<p>Renk</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861129,
@@ -108,8 +102,7 @@
         "D": "<p>Biçim</p>",
         "E": "<p>Armoni</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861133,
@@ -124,8 +117,7 @@
         "D": "<p>Form</p>",
         "E": "<p>Çizgi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861134,
@@ -140,8 +132,7 @@
         "D": "<p>Yuvarlak</p>",
         "E": "<p>Geometrik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861135,
@@ -156,8 +147,7 @@
         "D": "<p>Yuvarlak</p>",
         "E": "<p>Sınırlı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861137,
@@ -172,8 +162,7 @@
         "D": "<p>Boşluk</p>",
         "E": "<p>Leke</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861138,
@@ -188,8 +177,7 @@
         "D": "<p>Boyut</p>",
         "E": "<p>Leke</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861142,
@@ -204,8 +192,7 @@
         "D": "<p>a,c,d</p>",
         "E": "<p>a,b,c,d</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861143,
@@ -220,8 +207,7 @@
         "D": "<p>Chiaroscuro</p>",
         "E": "<p>Doku </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861144,
@@ -236,8 +222,7 @@
         "D": "<p>Oran</p>",
         "E": "<p>Ağırlık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861145,
@@ -252,8 +237,7 @@
         "D": "<p>şekillere yüklenen anlam ve onlara karşı ilk etapta verilen bilinçdışı tepkiler</p>",
         "E": "<p>Sanatçının ve izleyicinin görme biçimleri ve iki görme biçimi arasındaki dinamik ilişki</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861146,
@@ -268,8 +252,7 @@
         "D": "<p>hacim</p>",
         "E": "<p>boyut</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861147,
@@ -284,8 +267,7 @@
         "D": "<p>düzlem</p>",
         "E": "<p>hacim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861148,
@@ -300,8 +282,7 @@
         "D": "<p>Boyut </p>",
         "E": "<p>Nokta </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861149,
@@ -316,8 +297,7 @@
         "D": "<p>oran</p>",
         "E": "<p>leke</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861120,
@@ -332,8 +312,7 @@
         "D": "<p>Düzenlenen etkinliklere</p>",
         "E": "<p>Sosyal değişimlere</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861123,
@@ -348,8 +327,7 @@
         "D": "<p>Düzlem</p>",
         "E": "<p>Hacim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861126,
@@ -364,8 +342,7 @@
         "D": "<p>Çizgi</p>",
         "E": "<p>Derinlik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861131,
@@ -380,8 +357,7 @@
         "D": "<p>Nokta- görsel</p>",
         "E": "<p>Boşluk- ilişkisel</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861132,
@@ -396,8 +372,7 @@
         "D": "<p>Dikey- yatay- diyagonal- zikzak</p>",
         "E": "<p>Kaligrafik- yatay- zikzak- dikey</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861140,
@@ -412,8 +387,7 @@
         "D": "<p>Şekil</p>",
         "E": "<p>Grid</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861141,
@@ -428,8 +402,7 @@
         "D": "<p>Maddesel olarak var olan üç boyutlu bir nesnenin ya da iki boyutlu düzlemde derinlik hissi yaratılması</p>",
         "E": "<p>Kenarlarıyla ya da sınır çizgileriyle çevresinden ayrılarak öne çıkan alan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861130,
@@ -444,8 +417,7 @@
         "D": "<p>İlişkisel</p>",
         "E": "<p>Uygulamalı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861136,
@@ -460,8 +432,7 @@
         "D": "<p>Ton</p>",
         "E": "<p>Kamuflaj </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861139,
@@ -476,7 +447,6 @@
         "D": "<p>Sanatçının ve izleyicinin görme biçimleri arasındaki dinamik ilişki, etkileşim olarak tanımlanabilir.</p>",
         "E": "<p>Görsel dili nasıl okuyacağımıza yön verir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Anlam</p>",
         "E": "<p>İçerik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353199,
@@ -28,8 +27,7 @@
         "D": "<p>Stüdyo</p>",
         "E": "<p>İç mekan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353202,
@@ -44,8 +42,7 @@
         "D": "<p>Kaçak akımlara karşı güvenlik için mutlaka topraklama hattı bulunması.</p>",
         "E": "<p>Aydınlatma kaynaklarının hatları ve sigortaların birlikte, ayrılmamış olarak kullanılması.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353205,
@@ -60,8 +57,7 @@
         "D": "<p>Minyatür stüdyo</p>",
         "E": "<p>Bütünleşik stüdyo</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353208,
@@ -76,8 +72,7 @@
         "D": "<p>Sarı</p>",
         "E": "<p>Beyaz</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353209,
@@ -92,8 +87,7 @@
         "D": "<p>Super-key</p>",
         "E": "<p>Min-key</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353211,
@@ -108,8 +102,7 @@
         "D": "<p>Biçimi</p>",
         "E": "<p>Dikkati/Algıyı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353212,
@@ -124,8 +117,7 @@
         "D": "<p>Plan çekim masası</p>",
         "E": "<p>Aydınlatma masası</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353213,
@@ -140,8 +132,7 @@
         "D": "<p>4.5x7 cm / 6x8 cm</p>",
         "E": "<p>4.1x6 cm / 6.1x9 cm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353215,
@@ -156,8 +147,7 @@
         "D": "<p>Ürün Çekim Masası<br /><br /></p>",
         "E": "<p>Tripod</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353220,
@@ -172,8 +162,7 @@
         "D": "<p>Softbox<br /><br /></p>",
         "E": "<p>Gobo</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353221,
@@ -188,8 +177,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353222,
@@ -204,8 +192,7 @@
         "D": "<p>Siyah</p>",
         "E": "<p>Mat gri<br /><br /></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353223,
@@ -220,8 +207,7 @@
         "D": "<p>Prodüktör<br /><br /></p>",
         "E": "<p>Işıkçı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353225,
@@ -236,8 +222,7 @@
         "D": "<p>Hedeflenen etkiyi yaratmak için dijital teknolojinin sağladığı olanaklardan ve yazılımlardan da faydalanılabilir.</p>",
         "E": "<p>Farklı imgelerin seçilip dekupe edilerek katmanlar hâlinde birleştirilmesi, doğal ortam hissi yaratılmasında engeldir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353227,
@@ -252,8 +237,7 @@
         "D": "<p>Çekim çadırı</p>",
         "E": "<p>Ürün çekim kiti</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353228,
@@ -268,8 +252,7 @@
         "D": "<p>Aydınlatma kaynaklarının enerji ihtiyacı için kullanılacak prizler zemine yakın bir yükseklikte ve yeterli sayıda olmalıdır.</p>",
         "E": "<p>Stüdyolar için çoğunlukla üst katlar tercih edilmektedir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353229,
@@ -284,8 +267,7 @@
         "D": "<p>Daha esnek aydınlatma alternatifi sunmaları açısından “Günışığı/ Daylight Stüdyoları”nın ışık tararımı açısından oldukça avantajlı olduğu söylenebilir.</p>",
         "E": "<p>Günümüzde, gün ışığından yararlanmak için büyük pencereli kapalı alanların yanı sıra,<br />bahçe ya da teras gibi açık alanlarda fon sistemi kurularak “Günışığı/ Daylight Stüdyoları” oluşturulmaktadır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353232,
@@ -300,8 +282,7 @@
         "D": "<p>Set A Light 3D</p>",
         "E": "<p>Helicon Focus</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353233,
@@ -316,8 +297,7 @@
         "D": "<p>Prodüktör</p>",
         "E": "<p>Styling</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353196,
@@ -332,8 +312,7 @@
         "D": "<p>Boyut ve hacim ilişkisi</p>",
         "E": "<p>Yönlendirme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353200,
@@ -348,8 +327,7 @@
         "D": "<p>Işık</p>",
         "E": "<p>Manyetik alan</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353201,
@@ -364,8 +342,7 @@
         "D": "<p>Mat gri</p>",
         "E": "<p>Mavi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353204,
@@ -380,8 +357,7 @@
         "D": "<p>Miks</p>",
         "E": "<p>Geçiş</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353207,
@@ -396,8 +372,7 @@
         "D": "<p>Üst Plana</p>",
         "E": "<p>Sağ köşeye</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353210,
@@ -412,8 +387,7 @@
         "D": "<p>Zeminin</p>",
         "E": "<p>Rengin</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353218,
@@ -428,8 +402,7 @@
         "D": "<p><br />Müşterilerin zevkleri<br /><br /></p>",
         "E": "<p>Fotoğrafçının uzmanlaştığı alanlar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353224,
@@ -444,8 +417,7 @@
         "D": "<p>Stüdyo, fotoğrafın öznesine ve/veya verilmek istenen etkiye göre sürekli yenilenebilen, değiştirilebilen yapay bir ortamdır.</p>",
         "E": "<p>Stüdyo ortamında farklı öznelerin fotoğraf çekimi için farklı atmosferler yaratılması oldukça zordur.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353230,
@@ -460,8 +432,7 @@
         "D": "<p>Reklam ve tanıtım amacıyla sıklıkla fotoğraf kullanan bazı firmaların kendilerine ait mekânlarda  oluşturdukları daimi stüdyoları.</p>",
         "E": "<p>Plato adı verilen stüdyoları.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353194,
@@ -476,8 +447,7 @@
         "D": "<p>Gölge ve renk</p>",
         "E": "<p>Gölge ve açı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353195,
@@ -492,8 +462,7 @@
         "D": "<p>Nesnellik</p>",
         "E": "<p>Bütünlük</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353214,
@@ -508,8 +477,7 @@
         "D": "<p>Softbox<br /><br /></p>",
         "E": "<p>Butterfly</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353219,
@@ -524,8 +492,7 @@
         "D": "<p><br />Rescue Pro Deluxe</p>",
         "E": "<p>Silver Keeper<br /><br /></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353226,
@@ -540,8 +507,7 @@
         "D": "<p>Breef</p>",
         "E": "<p>Hedef fotoğraf</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353203,
@@ -556,8 +522,7 @@
         "D": "<p>5300 K</p>",
         "E": "<p>5500 K</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353216,
@@ -572,8 +537,7 @@
         "D": "<p>Paraflash<br /><br /></p>",
         "E": "<p>Dekupe<br /><br /></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353217,
@@ -588,8 +552,7 @@
         "D": "<p>Tungsten<br /><br /></p>",
         "E": "<p>Full Frame SLR</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353197,
@@ -604,8 +567,7 @@
         "D": "<p>Çözümleme</p>",
         "E": "<p>İmaj</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353231,
@@ -620,7 +582,6 @@
         "D": "<p>Düz renkli fon kullanıldığında öznenin formu, hacmi ve derinlik etkisi önemli miktarda artar.</p>",
         "E": "<p>Daha nadir kullanılsalar da bu tip fonlar, desenli baskı fonların anlatımda pasif yapısına tezat olarak fonu dinamik ve dikkat çekici bir faktör olarak değerlendirmek amacıyla kullanılmaktadırlar.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     }
 ]

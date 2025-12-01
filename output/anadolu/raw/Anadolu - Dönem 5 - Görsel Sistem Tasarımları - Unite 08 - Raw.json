@@ -12,8 +12,7 @@
         "D": "<p>Rakip ürünle bağlantı kurulması.</p>",
         "E": "<p>Marka algısının kuvvetlendirilmesi.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862573,
@@ -28,8 +27,7 @@
         "D": "<p>Tekrar başvurulmak üzere alışkanlık geliştirmesi.</p>",
         "E": "<p>Kullanıcı psikolojisine olumlu etkilerde bulunmak.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862574,
@@ -44,8 +42,7 @@
         "D": "<p>Sürükle bırak.</p>",
         "E": "<p>Uzun tıklama.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862575,
@@ -60,8 +57,7 @@
         "D": "<p>Yatay Tasarım.</p>",
         "E": "<p>Materyal Tasarım.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862576,
@@ -76,8 +72,7 @@
         "D": "<p>Hayley Hugher</p>",
         "E": "<p>Raluca Budiu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862577,
@@ -92,8 +87,7 @@
         "D": "<p>HCI</p>",
         "E": "<p>DEMO</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862578,
@@ -108,8 +102,7 @@
         "D": "<p>Model kütüphaneleri</p>",
         "E": "<p>Düz tasarım yaklaşımı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862579,
@@ -124,8 +117,7 @@
         "D": "<p>Patent kolaylığı.</p>",
         "E": "<p>İyi tasarımın yaygınlaşması.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862580,
@@ -140,8 +132,7 @@
         "D": "<p>Servisler-Deneyim</p>",
         "E": "<p>Değerler-İlkeler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862581,
@@ -156,8 +147,7 @@
         "D": "<p>Eğitim odaklı bir yaklaşıma sahip olması.</p>",
         "E": "<p>İç bileşenler ve son kullanıcı arasında akışkan bir yaklaşım benimsemesi.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862582,
@@ -172,8 +162,7 @@
         "D": "<p>Grafik tasarımcıların iletişim kurma metotlarını genişletmek.</p>",
         "E": "<p>Arayüz tasarımı süreçlerinin iskeletini belirlemek.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862583,
@@ -188,8 +177,7 @@
         "D": "<p>Grafik arayüz tasarımları donanıma göre değişir.</p>",
         "E": "<p>Grafik arayüz tasarımları donanıma göre değişmez.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862585,
@@ -204,8 +192,7 @@
         "D": "<p>3D efektler kullanır.</p>",
         "E": "<p>Tipografi kullanır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862587,
@@ -220,8 +207,7 @@
         "D": "<p>Kullanıcıların sadakatini azaltan duygusal çıktılar.</p>",
         "E": "<p>Karmaşıklık ve kullanıcıların endişesi.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862588,
@@ -236,8 +222,7 @@
         "D": "<p>Sadece erişilebilirlik yönergeleri.</p>",
         "E": "<p>Yalnızca tasarım sistemi yol haritası.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862589,
@@ -252,8 +237,7 @@
         "D": "<p><strong>Yenilikçi yaklaşımları paydaşlara aktarmak.</strong></p>",
         "E": "<p>Sadece büyük şirketlerin kullanabileceği bir yaklaşımı temsil etmek.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862590,
@@ -268,8 +252,7 @@
         "D": "<p>Yalnızca tasarım ekibinin iç işleyişini.</p>",
         "E": "<p>Sadece son kullanıcı deneyimini.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862591,
@@ -284,8 +267,7 @@
         "D": "<p>Ürünün genel tasarımına göre.</p>",
         "E": "<p>Kullanıcıların hissettiği güven ile.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862592,
@@ -300,7 +282,6 @@
         "D": "<p>Sadece tasarım ekibinin iç işleyişine olumlu etki eder.</p>",
         "E": "<p>Sadece tasarım sistemini karmaşıklaştırır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p class=\"p1\">Yahudilik</p>",
         "E": "<p class=\"p1\">Hristiyanlık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374281,
@@ -28,8 +27,7 @@
         "D": "<p>Hz. İsmail</p>",
         "E": "<p>Hz. İshak</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374288,
@@ -44,8 +42,7 @@
         "D": "<p>Pavlos</p>",
         "E": "<p>Yakub</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374321,
@@ -60,8 +57,7 @@
         "D": "<p>Yusuf</p>",
         "E": "<p>Kenan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374327,
@@ -76,8 +72,7 @@
         "D": "<p>Evlilik</p>",
         "E": "<p>Gusül</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374328,
@@ -92,8 +87,7 @@
         "D": "<p>632</p>",
         "E": "<p>625</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374381,
@@ -108,8 +102,7 @@
         "D": "<p>Mesihin gelmesi</p>",
         "E": "<p>Yahudilerin se&ccedil;ilmiş olması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374383,
@@ -124,8 +117,7 @@
         "D": "<p>Zend</p> ",
         "E": "<p>Talmud</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375007,
@@ -140,8 +132,7 @@
         "D": "<p>Hz. İbrahim</p>",
         "E": "<p>Hz. İsmail</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375014,
@@ -156,8 +147,7 @@
         "D": "<p>Filistin fermanı</p>",
         "E": "<p>Ürdün fermanı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375018,
@@ -172,8 +162,7 @@
         "D": "<p>Köktenci Yahudilik</p>",
         "E": "<p>Rekonstrüksiyonist Yahudilik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375021,
@@ -188,8 +177,7 @@
         "D": "<p>Konfirmasyon</p>",
         "E": "<p>Komünyon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375032,
@@ -204,8 +192,7 @@
         "D": "<p>IV</p>",
         "E": "<p>I,II,III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375035,
@@ -220,8 +207,7 @@
         "D": "<p>Hz. Ali</p>",
         "E": "<p>Hz. Zeyd Bin Harise</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375074,
@@ -236,8 +222,7 @@
         "D": "<p>MS 7. yüzyıl</p>",
         "E": "<p>MS 6.yüzyıl</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375075,
@@ -252,8 +237,7 @@
         "D": "<p>Kutsal metni Kur’an-ı Kerim’dir.</p>",
         "E": "<p>İslam’da ruhbanlık yoktur.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375186,
@@ -268,8 +252,7 @@
         "D": "<p>Ur</p>",
         "E": "<p>Mısır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375188,
@@ -284,8 +267,7 @@
         "D": "<div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Guru Narak</p> </div> </div> </div> </div>",
         "E": "<p>Zerdüşt</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375190,
@@ -300,8 +282,7 @@
         "D": "<p>Vendidat</p>",
         "E": "<p>Yasna</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375332,
@@ -316,8 +297,7 @@
         "D": "<p>Dört</p>",
         "E": "<p>Beş</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374326,
@@ -332,8 +312,7 @@
         "D": "<p>Gusül</p>",
         "E": "<p>Abdest</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374380,
@@ -348,8 +327,7 @@
         "D": "<p>Hz. Harun</p> ",
         "E": "<p>Hz. Samuel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374382,
@@ -364,8 +342,7 @@
         "D": "<p>Öldürmek yasak</p> ",
         "E": "<p>Zina etmek yasak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374386,
@@ -380,8 +357,7 @@
         "D": "<p>Sakramentler</p> ",
         "E": "<p>Seçilmişlik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375009,
@@ -396,8 +372,7 @@
         "D": "<p>Rekontrüksitonist Yahudilik</p>",
         "E": "<p>Nuhi Yahudilik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375015,
@@ -412,8 +387,7 @@
         "D": "<p>Hz. Ebu Bekir</p>",
         "E": "<p>Hz. Osman</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375023,
@@ -428,8 +402,7 @@
         "D": "<p>Hz. Ali</p>",
         "E": "<p>Hz. Hasan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375028,
@@ -444,8 +417,7 @@
         "D": "<p>Vendidat</p>",
         "E": "<p>Khordavesta</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375030,
@@ -460,8 +432,7 @@
         "D": "<p>Rişama</p>",
         "E": "<p>Tamaşa</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375034,
@@ -476,8 +447,7 @@
         "D": "<p>Cezayir</p>",
         "E": "<p>Fas</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375069,
@@ -492,8 +462,7 @@
         "D": "<p>Davut</p>",
         "E": "<p>İsa</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375076,
@@ -508,8 +477,7 @@
         "D": "<p>571</p>",
         "E": "<p>622</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375191,
@@ -524,8 +492,7 @@
         "D": "<div class=\"page\" title=\"Page 11\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Tamaşa</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 11\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Masbuta</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375192,
@@ -540,8 +507,7 @@
         "D": "<p>Ginza</p>",
         "E": "<div class=\"page\" title=\"Page 12\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Draşia d’Yahya</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375333,
@@ -556,8 +522,7 @@
         "D": "<p>Zina yapmayacaksın</p>",
         "E": "<p>Kan d&ouml;kmeyeceksin</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375335,
@@ -572,8 +537,7 @@
         "D": "<p>Dört</p>",
         "E": "<p>Beş</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374285,
@@ -588,8 +552,7 @@
         "D": "<p class=\"p1\">Vendidat</p>",
         "E": "<p>Khordavesta</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374323,
@@ -604,8 +567,7 @@
         "D": "<p>Ahiret anlayışı</p>",
         "E": "<p>Mabet anlayışı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374384,
@@ -620,8 +582,7 @@
         "D": "<p>Toplu ibadetler için 12 yaşını geçmek gerekir.</p> ",
         "E": "<p>Günlük, haftalık ve aylık ibadetler gerçekleşir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375005,
@@ -636,8 +597,7 @@
         "D": "<p>Hz. Şuayp</p>",
         "E": "<p>Hz. Yakub</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375006,
@@ -652,8 +612,7 @@
         "D": "<p>Hz. Yakub</p>",
         "E": "<p>Hz. İbrahim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375019,
@@ -668,8 +627,7 @@
         "D": "<p>Vendidat</p>",
         "E": "<p>Khordavesta</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375024,
@@ -684,8 +642,7 @@
         "D": "<p>Sırat köprüsü</p>",
         "E": "<p>Ahir zaman</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375067,
@@ -700,8 +657,7 @@
         "D": "<p>Kan dökmeyeceksin</p>",
         "E": "<p>Hırsızlık yapmayacaksın</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375073,
@@ -716,8 +672,7 @@
         "D": "<p>Ruhbanlık</p>",
         "E": "<p>Evharistiya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375189,
@@ -732,8 +687,7 @@
         "D": "<p>Yasna</p>",
         "E": "<div class=\"page\" title=\"Page 9\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Vispered</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375194,
@@ -748,8 +702,7 @@
         "D": "<p>Son yağlama</p>",
         "E": "<div class=\"page\" title=\"Page 15\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Evlilik</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375327,
@@ -764,8 +717,7 @@
         "D": "<p>Hz.İbrahim</p>",
         "E": "<p>Hz Musa</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374290,
@@ -780,8 +732,7 @@
         "D": "<p class=\"p1\">İslam’da peygamberler olağanüstü ilahi özellikler taşıyabilirler.</p>",
         "E": "<p class=\"p1\">İslam’da günlük ve yıllık ibadetler güneşin hareketlerine göre belirlenir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374325,
@@ -796,8 +747,7 @@
         "D": "<p>Yaşt </p>",
         "E": "<p>Khordavesta</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375012,
@@ -812,8 +762,7 @@
         "D": "<p>İbadet öncesi su ile temizlik yapmaları</p>",
         "E": "<p>Suyun kutsal olduğuna inanmaları</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375013,
@@ -828,8 +777,7 @@
         "D": "<p>Hz. Davud</p>",
         "E": "<p>Hz. Yakub</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375025,
@@ -844,8 +792,7 @@
         "D": "<p>Hac</p>",
         "E": "<p>Teheccüd</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375027,
@@ -860,8 +807,7 @@
         "D": "<p>Sabiilik</p>",
         "E": "<p>Mecusilik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375072,
@@ -876,8 +822,7 @@
         "D": "<p>Sabiilik</p>",
         "E": "<p>Mesucilik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375187,
@@ -892,8 +837,7 @@
         "D": "<p>Putlara tapmayacaksın</p>",
         "E": "<p>Kibirli olmayacaksın</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375329,
@@ -908,8 +852,7 @@
         "D": "<p>29</p>",
         "E": "<p>28</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375330,
@@ -924,8 +867,7 @@
         "D": "<p>Maimonides</p>",
         "E": "<p>Rambam</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374287,
@@ -940,8 +882,7 @@
         "D": "<p class=\"p1\">Yüce Hayat</p>",
         "E": "<p class=\"p1\">Nasura</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374385,
@@ -956,8 +897,7 @@
         "D": "<p>Müslümanlık</p> ",
         "E": "<p>Musevilik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374389,
@@ -972,8 +912,7 @@
         "D": "<p>20</p> ",
         "E": "<p>23</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375017,
@@ -988,8 +927,7 @@
         "D": "<p>I, II ve IV</p>",
         "E": "<p>Yalnız III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375022,
@@ -1004,8 +942,7 @@
         "D": "<p>III ve IV</p>",
         "E": "<p>I, II ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375071,
@@ -1020,8 +957,7 @@
         "D": "<p>Sabiililer Yıldıza tapan bir topluluktur.</p>",
         "E": "<p>Kutsal Metinlerinin en önemlisi Ginza’dır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375328,
@@ -1036,8 +972,7 @@
         "D": "<p>11</p>",
         "E": "<p>7</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374284,
@@ -1052,8 +987,7 @@
         "D": "<p class=\"p1\">Hürmüz</p>",
         "E": "<p class=\"p1\">Ameşa Spenta</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374329,
@@ -1068,8 +1002,7 @@
         "D": "<p>Hz. Ömer </p>",
         "E": "<p>Hz. Muhammed</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374388,
@@ -1084,8 +1017,7 @@
         "D": "<p class=\"Default\"><span style=\"font-size: 11.0pt;\">Kutsamak</span></p> <p class=\"Default\"> </p>",
         "E": "<p class=\"Default\"><span style=\"font-size: 11.0pt;\">Teslim olmak</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375008,
@@ -1100,8 +1032,7 @@
         "D": "<p>Cirus</p>",
         "E": "<p>Erza</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375026,
@@ -1116,8 +1047,7 @@
         "D": "<p>Reformist Yahudilik</p>",
         "E": "<p>Rekonstrüksiyonist (yeniden yapılanmacı) Yahudilik.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375334,
@@ -1132,8 +1062,7 @@
         "D": "<p>Beş</p>",
         "E": "<p>Altı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374282,
@@ -1148,8 +1077,7 @@
         "D": "<p class=\"p1\">Ezra</p>",
         "E": "<p class=\"p1\">Yerobeam</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374320,
@@ -1164,8 +1092,7 @@
         "D": "<p>Hıristiyanlık</p>",
         "E": "<p>Budizm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374324,
@@ -1180,8 +1107,7 @@
         "D": "<p>Yahudilik</p>",
         "E": "<p>Şintoizm&nbsp;</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375016,
@@ -1196,8 +1122,7 @@
         "D": "<p>III ve IV</p>",
         "E": "<p>I, II, III ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375070,
@@ -1212,8 +1137,7 @@
         "D": "<p>MS 4. yüzyıl</p>",
         "E": "<p>MS 8. yüzyıl</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375336,
@@ -1228,8 +1152,7 @@
         "D": "<p>Markus</p>",
         "E": "<p>Daniel</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374322,
@@ -1244,8 +1167,7 @@
         "D": "<p>Nil Nehri'nde</p>",
         "E": "<p>Kudüs'te</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374387,
@@ -1260,8 +1182,7 @@
         "D": "<p class=\"Default\">Evharistiya (Komünyon)</p> <p class=\"Default\"> </p>",
         "E": "<p class=\"Default\">Konfirmasyon (Kuvvetlendirme)</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375020,
@@ -1276,8 +1197,7 @@
         "D": "<p>Rişama</p>",
         "E": "<p>Mendup</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375029,
@@ -1292,8 +1212,7 @@
         "D": "<p>Sabiiler</p>",
         "E": "<p>Mecusiler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375331,
@@ -1308,8 +1227,7 @@
         "D": "<p>Seçilmişlik </p>",
         "E": "<p>Mesih</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375195,
@@ -1324,8 +1242,7 @@
         "D": "<p>Ameşa</p>",
         "E": "<p>Aggada</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374286,
@@ -1340,8 +1257,7 @@
         "D": "<p>Masbuta</p>",
         "E": "<p class=\"p1\">Rişama</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375010,
@@ -1356,8 +1272,7 @@
         "D": "<p>Putperestlik</p>",
         "E": "<p>Protestanlık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375068,
@@ -1372,8 +1287,7 @@
         "D": "<p>Cumartesi günü kutsal gündür. O gün iş yapılmayacak.</p>",
         "E": "<p>Oyma put yapacaksın ve resim yapıp tapacaksın.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375193,
@@ -1388,8 +1302,7 @@
         "D": "<p>Yahudilik</p>",
         "E": "<p>Musevilik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375031,
@@ -1404,8 +1317,7 @@
         "D": "<p>Nuhiler</p>",
         "E": "<p>Putperestler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374283,
@@ -1420,8 +1332,7 @@
         "D": "<p>Nebim</p>",
         "E": "<p class=\"p1\">Ketuvim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375011,
@@ -1436,7 +1347,6 @@
         "D": "<p>Hristiyanlık</p>",
         "E": "<p>Müslümanlık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     }
 ]

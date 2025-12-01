@@ -12,8 +12,7 @@
         "D": "<p class=\"p1\">Bir öğrenenin matematik sınavından 90 puan alması, ölçme işlemine örnek olarak gösterilebilir.</p>",
         "E": "<p class=\"p1\">Değerlendirme ise ölçme sonuçlarına dayanarak bir yargıya varma sürecidir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863419,
@@ -28,8 +27,7 @@
         "D": "<p>Araba 90 kilometre hızla gitmektedir.</p>",
         "E": "<p>Minel başarılı bir öğrencidir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863420,
@@ -44,8 +42,7 @@
         "D": "<p>Analiz</p>",
         "E": "<p>Değerlendirme </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863421,
@@ -60,8 +57,7 @@
         "D": "<p>Değerledirme</p>",
         "E": "<p>Uygulama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863422,
@@ -76,8 +72,7 @@
         "D": "<p>İletişim türlerini listeleyebilir.</p>",
         "E": "<p>Değerledirme yaklaşımlarını örneklerle açıklayabilir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863423,
@@ -92,8 +87,7 @@
         "D": "<p>Özetleyici değerlendirme</p>",
         "E": "<p>Doğrulayıcı değerlendirme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863424,
@@ -108,8 +102,7 @@
         "D": "<p>Özetleyici değerlendirme</p>",
         "E": "<p>Gelişimsel değerlendirme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863425,
@@ -124,8 +117,7 @@
         "D": "<p>Doğruluk</p>",
         "E": "<p>Kapsam geçerliği</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863426,
@@ -140,8 +132,7 @@
         "D": "<p class=\"p1\">Öğrenenin olası yanıtlar listesinden doğru yanıtı belirlemek yerine bir yanıt vermesini gerektirir, böylece şans başarısını azaltır.</p>",
         "E": "<p class=\"p1\">Bu sorular öğrenenlere en uygun alternatifi seçme yeteneği sağlar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863427,
@@ -156,7 +147,6 @@
         "D": "<p class=\"p1\">Öğrenme engellerini daha açık ve net bir şekilde görmelerine yardımcı olur.</p>",
         "E": "<p>Daha yüksek motivasyon seviyelerine ve daha etkili stratejiler geliştirmelerine olanak tanır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

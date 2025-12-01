@@ -12,8 +12,7 @@
         "D": "<p>Antik Helen </p>",
         "E": "<p>Antik Mısır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2855145,
@@ -28,8 +27,7 @@
         "D": "<p>Arşitrav</p>",
         "E": "<p>Tholos</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2855150,
@@ -44,8 +42,7 @@
         "D": "<p>Anaksimenes</p>",
         "E": "<p>Herodot</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2855163,
@@ -60,8 +57,7 @@
         "D": "<p>Hitit</p>",
         "E": "<p>Firig</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2855167,
@@ -76,8 +72,7 @@
         "D": "<p>Seleukos Krallığı</p>",
         "E": "<p>Roma</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2855173,
@@ -92,8 +87,7 @@
         "D": "<p>Fethet ve yönet</p>",
         "E": "<p>İlahi güçle yönet</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856850,
@@ -108,8 +102,7 @@
         "D": "<p>İgor-Rus</p>",
         "E": "<p>Oğuz Kağan-Türk</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856854,
@@ -124,8 +117,7 @@
         "D": "<p>Orta Çağ</p>",
         "E": "<p>Tarih Öncesi Çağ</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856861,
@@ -140,8 +132,7 @@
         "D": "<p>Türk, beylik, kağanlar</p>",
         "E": "<p>Bizans, şehir, tekfurlar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857550,
@@ -156,8 +147,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857840,
@@ -172,8 +162,7 @@
         "D": "<p>MÖ. 1200-1000</p>",
         "E": "<p>MÖ. 1300-1100</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857870,
@@ -188,8 +177,7 @@
         "D": "<p>Heredot</p>",
         "E": "<p>Anaksimandros</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857880,
@@ -204,8 +192,7 @@
         "D": "<p>Kozmopolitanizm</p>",
         "E": "<p>Epikrosçuluk</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857884,
@@ -220,8 +207,7 @@
         "D": "<p>Kozmopolitanizm</p>",
         "E": "<p>Epikrosçuluk</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857901,
@@ -236,8 +222,7 @@
         "D": "<p>MÖ. 25-MS. 56</p>",
         "E": "<p>MÖ 17-MS 45</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858499,
@@ -252,8 +237,7 @@
         "D": "<p>Pythagoras</p>",
         "E": "<p>Archimedes</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858516,
@@ -268,8 +252,7 @@
         "D": "<p>Periegesis</p>",
         "E": "<p>Genealogia</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858601,
@@ -284,8 +267,7 @@
         "D": "<p>IV. Nikomedes</p>",
         "E": "<p>II. Seleukos</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858615,
@@ -300,8 +282,7 @@
         "D": "<p>Octavianus</p>",
         "E": "<p>Lucullus</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858632,
@@ -316,8 +297,7 @@
         "D": "<p>Hierapolis (Pamukkale)</p>",
         "E": "<p>Amasia (Amasya)</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2855126,
@@ -332,8 +312,7 @@
         "D": "<p>Firigler</p>",
         "E": "<p>Lidyalılar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2855132,
@@ -348,8 +327,7 @@
         "D": "<p>M.Ö.9. yüzyıl</p>",
         "E": "<p>M.Ö.10. yüzyıl</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2855138,
@@ -364,8 +342,7 @@
         "D": "<p>Dorlar</p>",
         "E": "<p>Karlar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2855180,
@@ -380,8 +357,7 @@
         "D": "<p>Kütüphaneler</p>",
         "E": "<p>Surlar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856857,
@@ -396,8 +372,7 @@
         "D": "<p>koloni</p>",
         "E": "<p>polis</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856868,
@@ -412,8 +387,7 @@
         "D": "<p>Gordios</p>",
         "E": "<p>Pythagoras</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857577,
@@ -428,8 +402,7 @@
         "D": "<p>Hellen kolonizasyon sistemi</p>",
         "E": "<p>Dinsel birlik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857845,
@@ -444,8 +417,7 @@
         "D": "<p>Exeinos</p>",
         "E": "<p>Panionion</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856855,
@@ -460,8 +432,7 @@
         "D": "<p>Yalnız II</p>",
         "E": "<p>Yalnız IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856864,
@@ -476,8 +447,7 @@
         "D": "<p>Kassandros, kale</p>",
         "E": "<p>Menestheus, liman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856871,
@@ -492,8 +462,7 @@
         "D": "<p>Lysimakhos, satrap, kılıç</p>",
         "E": "<p>Darius, kral, heykel</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856872,
@@ -508,8 +477,7 @@
         "D": "<p>Antiokheia</p>",
         "E": "<p>Seleukeia</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856875,
@@ -524,8 +492,7 @@
         "D": "<p>Urartu</p>",
         "E": "<p>İyon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857855,
@@ -540,8 +507,7 @@
         "D": "<p>Knidos Birliği</p>",
         "E": "<p>Miletus-Eleia Birliği</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857464,
@@ -556,8 +522,7 @@
         "D": "<p>Kyme</p>",
         "E": "<p>Gryneion</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857863,
@@ -572,8 +537,7 @@
         "D": "<p>Arkhelaos</p>",
         "E": "<p>Herakleitos</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858336,
@@ -588,8 +552,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858625,
@@ -604,8 +567,7 @@
         "D": "<p>Sikkelerin sadece devlet darphanelerinde basılması</p>",
         "E": "<p>Roma İmparatorluğu’nun resmi olarak Hıristiyanlığı tanıması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857889,
@@ -620,8 +582,7 @@
         "D": "<p>MÖ.74 Bithynia</p>",
         "E": "<p>MÖ.111 Potnos</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857913,
@@ -636,7 +597,6 @@
         "D": "<p>Doğulu geleneklerin sızdığı devlet bürokrasisinde köklü reformların gerekliliği</p>",
         "E": "<p>Toplumsal ve ekonomik statü gözetilmeksizin herkese vatandaşlık hakkı verilmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     }
 ]

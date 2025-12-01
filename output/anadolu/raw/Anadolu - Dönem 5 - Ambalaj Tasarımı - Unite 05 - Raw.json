@@ -12,8 +12,7 @@
         "D": "<p>İklim şartlarına göre gıda ürünün korunması</p>",
         "E": "<p>Tüketicide dikkat çekme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862672,
@@ -28,8 +27,7 @@
         "D": "<p>Ürünü dağıtma</p> ",
         "E": "<p>Ürünü tanıtma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862673,
@@ -44,8 +42,7 @@
         "D": "<p>Geçirgenlik</p>",
         "E": "<p>Biyobozunurluk</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862674,
@@ -60,8 +57,7 @@
         "D": "<p>Sterilize edilebilir.</p>",
         "E": "<p>Çeşitli renk, büyüklük ve formda üretilebilir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862675,
@@ -76,8 +72,7 @@
         "D": "<p>Plastik</p>",
         "E": "<p>Ahşap</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862676,
@@ -92,8 +87,7 @@
         "D": "<p>Ahşap</p>",
         "E": "<p>Cam</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862677,
@@ -108,8 +102,7 @@
         "D": "<p>İkincil Ambalajlar</p>",
         "E": "<p>Üçüncül Ambalajlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862678,
@@ -124,8 +117,7 @@
         "D": "<p>Endüstri tasarımcı</p>",
         "E": "<p>İllüstratör</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862679,
@@ -140,8 +132,7 @@
         "D": "<p>Ambalajın üretimi ve dolum süreci</p>",
         "E": "<p>Ambalajlanacak ürünün kimyasal ve fiziksel özellikleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862680,
@@ -156,8 +147,7 @@
         "D": "<p>Tampon baskı</p>",
         "E": "<p>Ofset baskı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862681,
@@ -172,8 +162,7 @@
         "D": "<p>Plastik</p>",
         "E": "<p>Ahşap</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862682,
@@ -188,8 +177,7 @@
         "D": "<p>Plastik</p>",
         "E": "<p>Metal</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862683,
@@ -204,8 +192,7 @@
         "D": "<p>Metal</p>",
         "E": "<p>Plastik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862685,
@@ -220,8 +207,7 @@
         "D": "<p>Cam</p>",
         "E": "<p>Plastik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862687,
@@ -236,8 +222,7 @@
         "D": "<p>Cam</p>",
         "E": "<p>Ahşap</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862689,
@@ -252,8 +237,7 @@
         "D": "<p>Termoformlama</p>",
         "E": "<p>Vakum şekillendirme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862691,
@@ -268,8 +252,7 @@
         "D": "<p>Polistren (PS)</p>",
         "E": "<p>Polietilen tereftalat (PET)</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862694,
@@ -284,8 +267,7 @@
         "D": "<p>Yüksek yoğunluklu polietilen (HDPE)</p>",
         "E": "<p>Polipropilen</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862695,
@@ -300,8 +282,7 @@
         "D": "<p>Dördüncül ambalaj</p>",
         "E": "<p>Beşincil ambalaj</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862697,
@@ -316,7 +297,6 @@
         "D": "<p>Düz baskı tekniği</p>",
         "E": "<p>Şablon baskı tekniği</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

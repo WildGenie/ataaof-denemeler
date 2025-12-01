@@ -12,8 +12,7 @@
         "D": "<p>I, III, IV, V</p>",
         "E": "<p>III, IV, V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863470,
@@ -28,8 +27,7 @@
         "D": "<p>Çevre</p>",
         "E": "<p>Geribildirim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863471,
@@ -44,8 +42,7 @@
         "D": "<p>Geribildirimsiz</p>",
         "E": "<p>Soyut</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863472,
@@ -60,8 +57,7 @@
         "D": "<p>Tıkanma</p>",
         "E": "<p>Agoni</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863476,
@@ -76,8 +72,7 @@
         "D": "<p>Çıktı</p>",
         "E": "<p>Geribildirim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863478,
@@ -92,8 +87,7 @@
         "D": "<p>Basılı ürünler</p>",
         "E": "<p>Hizmetler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863482,
@@ -108,8 +102,7 @@
         "D": "<p>I, II, III, V</p>",
         "E": "<p>I, II, IV, V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863484,
@@ -124,8 +117,7 @@
         "D": "<p class=\"p1\">Sistematik Planlama ve Tasarım</p>",
         "E": "<p class=\"p1\">Bütünsel Görünüm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863487,
@@ -140,8 +132,7 @@
         "D": "<p>Prosedürler</p>",
         "E": "<p>Yazılım</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863490,
@@ -156,8 +147,7 @@
         "D": "<p>Önlem al</p>",
         "E": "<p>Planla</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863621,
@@ -172,8 +162,7 @@
         "D": "Etkileşim ve ilişki ile bileşenlerin varlığı",
         "E": "Dış çevreye açıklık ile girdi-çıktı kontrolü",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863622,
@@ -188,8 +177,7 @@
         "D": "1 → Çıktı<br /> 2 → Geri bildirim<br /> 3 → Girdi<br /> 4 → Süreç<br /> 5 → Çevre",
         "E": "<p>1 → Çevre<br /> 2 → Geri bildirim<br /> 3 → Çıktı<br /> 4 → Girdi<br /> 5 → Süreç</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863623,
@@ -204,8 +192,7 @@
         "D": "Geri bildirimli sistem",
         "E": "Yarı açık sistem",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863624,
@@ -220,8 +207,7 @@
         "D": "Kapalı sistem",
         "E": "Çevresel sistem",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863625,
@@ -236,8 +222,7 @@
         "D": "Bileşenler arası etkileşim ve geri bildirim döngüsü",
         "E": "<p>Kapalı sistem yapısı nedeniyle dış etkilerin dikkate alınmaması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863626,
@@ -252,8 +237,7 @@
         "D": "Sistem analizi ve sistem sentezinin tüm adımları",
         "E": "Strateji uygulaması ve performans değerlendirmesi",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863627,
@@ -268,8 +252,7 @@
         "D": "Bütüncül planlama ve kaynak yönetimi sağlar; ancak uygulamada çevresel analiz eksikliği ve zaman maliyeti sınırlılık oluşturur.",
         "E": "Sadece materyal düzenlemeye odaklanır, çevre ve kaynak etkileşimini dikkate almaz.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863628,
@@ -284,8 +267,7 @@
         "D": "Örgütsel Düzenleme",
         "E": "Bireyler ve Rolleri",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863629,
@@ -300,8 +282,7 @@
         "D": "Öğrenme yönetimi – Öğretim planlaması",
         "E": "Eğitim politikası – Donanım yönetimi",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863630,
@@ -316,7 +297,6 @@
         "D": "Eğitici görevlendirmesi ve içerik üretimi → Çıktı<br />Atölyeye katılım → Sonuç<br />Dijital beceri gelişimi → Faaliyet<br />Etkileşimli içerik kullanımı → Girdi",
         "E": "Program bütçesi ve planı → Sonuç<br />Eğitici katkısı → Kısa vadeli sonuç<br />Atölye süresi → Faaliyet<br />Öğrenci memnuniyeti → Çıktı",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

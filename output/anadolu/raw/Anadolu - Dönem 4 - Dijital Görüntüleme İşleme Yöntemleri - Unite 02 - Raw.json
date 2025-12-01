@@ -12,8 +12,7 @@
         "D": "<p>Yaratıcı bir süreç</p>",
         "E": "<p>Kimlik tasarımı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488967,
@@ -28,8 +27,7 @@
         "D": "<p>Dergi</p>",
         "E": "<p>Ambalaj</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488968,
@@ -44,8 +42,7 @@
         "D": "<p>Gazete</p>",
         "E": "<p>Katalog</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488972,
@@ -60,8 +57,7 @@
         "D": "<p>Işık</p>",
         "E": "<p>Dalga boyu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488979,
@@ -76,8 +72,7 @@
         "D": "<p>Metalik</p>",
         "E": "<p>Elastik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488983,
@@ -92,8 +87,7 @@
         "D": "<p>Yazı karakterleri</p>",
         "E": "<p>Renkler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488986,
@@ -108,8 +102,7 @@
         "D": "<p>Görselin kontrastını artırır</p>",
         "E": "<p>Görseli dikkat çekici kılar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488988,
@@ -124,8 +117,7 @@
         "D": "<p>Renkli mürekkeplerin doğrudan karıştırılması</p>",
         "E": "<p>Dört renk ayrımı yaparak filmlerin veya kalıpların üretilmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488989,
@@ -140,8 +132,7 @@
         "D": "<p>Kaplama işlemi</p>",
         "E": "<p>Cilt işlemi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489039,
@@ -156,8 +147,7 @@
         "D": "<p>Dikkat çekicilik</p>",
         "E": "<p>Estetik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489041,
@@ -172,8 +162,7 @@
         "D": "<p>500 gr/m2</p>",
         "E": "<p>550 gr/m2</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489043,
@@ -188,8 +177,7 @@
         "D": "<p>80 gr/m2</p>",
         "E": "<p>90 gr/m2</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489044,
@@ -204,8 +192,7 @@
         "D": "<p>Kraft kâğıtlar</p>",
         "E": "<p>Yırtılmayan kâğıtlar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489046,
@@ -220,8 +207,7 @@
         "D": "<p>Hexachrome Baskı</p>",
         "E": "<p>Tek tonlu (Tire) Baskı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489155,
@@ -236,8 +222,7 @@
         "D": "<p>Ekonomiklik</p>",
         "E": "<p>Endüstriyel</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489160,
@@ -252,8 +237,7 @@
         "D": "<p>Gazete</p>",
         "E": "<p>Tiyatro</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489161,
@@ -268,8 +252,7 @@
         "D": "<p>Trikromi Baskı</p>",
         "E": "<p>Özel (Spot/Pantone) Renk Baskı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489163,
@@ -284,8 +267,7 @@
         "D": "<p>Pelur kağıtlar</p>",
         "E": "<p>Dördüncü hamur kağıtlar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489165,
@@ -300,8 +282,7 @@
         "D": "<p>Sunulacak toplumun değer yargıları önemser</p>",
         "E": "<p>Verilmek istenen mesajın içeriği</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489166,
@@ -316,8 +297,7 @@
         "D": "<p>Sinema</p>",
         "E": "<p>Davetiye</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488966,
@@ -332,8 +312,7 @@
         "D": "<p>Katalog</p>",
         "E": "<p>Kitap</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488969,
@@ -348,8 +327,7 @@
         "D": "<p>İpek</p>",
         "E": "<p>Linol</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488978,
@@ -364,8 +342,7 @@
         "D": "<p>HEX</p>",
         "E": "<p>CIE</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488981,
@@ -380,8 +357,7 @@
         "D": "<p>CIE</p>",
         "E": "<p>RGB</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488982,
@@ -396,8 +372,7 @@
         "D": "<p>Mavi, mor ve pembe</p>",
         "E": "<p>Yeşil, kırmızı ve sarı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488984,
@@ -412,8 +387,7 @@
         "D": "<p>Grafik tasarım ve oluşturma</p>",
         "E": "<p>Kâğıt kesimi ve düzenlemesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489038,
@@ -428,8 +402,7 @@
         "D": "<p>Sokak board</p>",
         "E": "<p>Raket</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489154,
@@ -444,8 +417,7 @@
         "D": "<p>Kaç tane üretilecek? 1 tane poster mi? 1 milyon tane gazete mi?</p>",
         "E": "<p>Boyutlar/Ölçüler ne olacak?</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489158,
@@ -460,8 +432,7 @@
         "D": "<p>Paketleme</p>",
         "E": "<p>Hiçbiri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489159,
@@ -476,8 +447,7 @@
         "D": "<p>Çıkartma kâğıtları</p>",
         "E": "<p>Kâğıt ölçüleri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488962,
@@ -492,8 +462,7 @@
         "D": "<p>Antetli kağıt</p>",
         "E": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Reklam ve Pazarlama Tasarım Ürünleri</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488971,
@@ -508,8 +477,7 @@
         "D": "<p>spektrum</p>",
         "E": "<p>Beyaz ışık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488987,
@@ -524,8 +492,7 @@
         "D": "<p>Renk karışımı</p>",
         "E": "<p>Renk düzeni</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488960,
@@ -540,8 +507,7 @@
         "D": "<p>İşveren</p>",
         "E": "<p>İşçi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488970,
@@ -556,8 +522,7 @@
         "D": "<p>Kâğıdın Rengi</p> <div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\">  </div> </div> </div> </div>",
         "E": "<p>Kâğıdın Yüzey Yapısı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489037,
@@ -572,8 +537,7 @@
         "D": "<p>Afiş</p>",
         "E": "<p>Sevk irsaliyesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489040,
@@ -588,8 +552,7 @@
         "D": "<p>Katalog</p>",
         "E": "<p>Dergi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489042,
@@ -604,8 +567,7 @@
         "D": "<p>410 ile 450 gr/m2</p>",
         "E": "<p>450 gr/m2 üzeri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489157,
@@ -620,8 +582,7 @@
         "D": "<p>Plastik</p>",
         "E": "<p>Gazete</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489045,
@@ -636,7 +597,6 @@
         "D": "<p>420 mm x 594 mm</p>",
         "E": "<p>148 mm x 210 mm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Prodüksiyon</p>",
         "E": "<p>Post Prodüsiyon</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594351,
@@ -28,8 +27,7 @@
         "D": "<p>Bir çekimin, hemen ardından gelen diğer çekimle olan koordinasyonunun sağlanması işi.</p>",
         "E": "<p>Bir filmi oluştur­mak için çekimlerin nasıl bir araya getirildiğini belirleyen süreç.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594352,
@@ -44,8 +42,7 @@
         "D": "<p>Alt metin oluşturmak.</p>",
         "E": "<p>Estetik öğeler arasında istenilen dengeleri oluşturmak.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594353,
@@ -60,8 +57,7 @@
         "D": "<p>Alt metin oluşturmak.</p>",
         "E": "<p>Estetik öğeler arasında istenilen dengeleri oluşturmak.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594354,
@@ -76,8 +72,7 @@
         "D": "<p>Kurgucu</p>",
         "E": "<p>Görüntü yönetmeni</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594355,
@@ -92,8 +87,7 @@
         "D": "<p>İlk kurgu</p>",
         "E": "<p>İnce kurgu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594356,
@@ -108,8 +102,7 @@
         "D": "<p>DVD</p>",
         "E": "<p>Blu-ray</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594357,
@@ -124,8 +117,7 @@
         "D": "<p>Da Vinci Resolve</p>",
         "E": "<p>AVID</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594358,
@@ -140,8 +132,7 @@
         "D": "<p>Kare içi sıkıştırma</p>",
         "E": "<p>Kareler arası sıkıştırma</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594359,
@@ -156,8 +147,7 @@
         "D": "<p>WMV</p>",
         "E": "<p>DNxHD</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598703,
@@ -172,8 +162,7 @@
         "D": "<p>Ölçek</p>",
         "E": "<p>Netlik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598706,
@@ -188,8 +177,7 @@
         "D": "<p>Sahne</p>",
         "E": "<p>Kare</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598710,
@@ -204,8 +192,7 @@
         "D": "<p>Montage</p>",
         "E": "<p>Cutting</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598711,
@@ -220,8 +207,7 @@
         "D": "<p>Estetik öğeler arasında istenilen dengeleri oluşturmak</p>",
         "E": "<p>Alt metni güçlendirmek</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598712,
@@ -236,8 +222,7 @@
         "D": "<p>İnce kurgu</p>",
         "E": "<p>Son kurgu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598714,
@@ -252,8 +237,7 @@
         "D": "<p>Süreçler hızlanmıştır</p>",
         "E": "<p>El ve ayak birlikte kurgu yapılır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598717,
@@ -268,8 +252,7 @@
         "D": "<p>Dikey kurgu</p>",
         "E": "<p>Yatay kurgu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598727,
@@ -284,8 +267,7 @@
         "D": "<p>AVID 1</p>",
         "E": "<p>CMX 600</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598734,
@@ -300,8 +282,7 @@
         "D": "<p>Final Cut</p>",
         "E": "<p>Kompozit</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598760,
@@ -316,7 +297,6 @@
         "D": "<p>Renk düzenlemesi</p>",
         "E": "<p>Referans</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

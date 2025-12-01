@@ -12,8 +12,7 @@
         "D": "<p>Pigtografi</p>",
         "E": "<p>Degrade</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862368,
@@ -28,8 +27,7 @@
         "D": "<p>Grafik elemanların sistematik bir yaklaşımla kullanılması kullanıcı veya tüketici deneyiminde belirli bir alışkanlığın gelişmesine yardımcı olur</p>",
         "E": "<p>Tasarımcıya sunulan yöntem yeniden kullanılabilir özellikte olmaz</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862470,
@@ -44,8 +42,7 @@
         "D": "<p>Fotoğraf</p>",
         "E": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İllüstrasyon</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862471,
@@ -60,8 +57,7 @@
         "D": "<p>III, IV ve V</p>",
         "E": "<p>IV ve V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862472,
@@ -76,8 +72,7 @@
         "D": "<p>Editoryal</p>",
         "E": "<p>Basılı mecra</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862475,
@@ -92,8 +87,7 @@
         "D": "<p>Sistematik yaklaşım</p>",
         "E": "<p>Yazınsal yaklaşım</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862484,
@@ -108,8 +102,7 @@
         "D": "<p>Sistematik yaklaşım</p>",
         "E": "<p>Fotoğrafik yaklaşım</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862486,
@@ -124,8 +117,7 @@
         "D": "<p>I, III, IV ve V</p>",
         "E": "<p>II, III, IV ve V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862554,
@@ -140,8 +132,7 @@
         "D": "<p>Stefan Sagmeister</p>",
         "E": "<p>Andre Green</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862555,
@@ -156,8 +147,7 @@
         "D": "<p>Uluslararası Tipografik Üslup</p>",
         "E": "<p>Deneysel yöntem</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862556,
@@ -172,8 +162,7 @@
         "D": "<p>Sait Maden</p>",
         "E": "<p>Nevzat Akoral</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862557,
@@ -188,8 +177,7 @@
         "D": "<p>Soyut</p>",
         "E": "<p>Metaforik<br /><br /></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862559,
@@ -204,8 +192,7 @@
         "D": "<p>Sait Maden</p>",
         "E": "<p>Mengü Erte</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862561,
@@ -220,8 +207,7 @@
         "D": "<p>Sait Maden</p> ",
         "E": "<p>Mengü Erte</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862584,
@@ -236,8 +222,7 @@
         "D": "<p>Can Lab serisi</p>",
         "E": "<p>Can Klasik Serisi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862586,
@@ -252,8 +237,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>Yalnız III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862593,
@@ -268,8 +252,7 @@
         "D": "<p>Dekorasyon</p>",
         "E": "<p>Editoryal</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862594,
@@ -284,8 +267,7 @@
         "D": "<p>Benzeme</p>",
         "E": "<p>Tekrar edebilirlik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862595,
@@ -300,8 +282,7 @@
         "D": "<p>Patent alınmasını sağlar</p>",
         "E": "<p>Maliyeti azaltır</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862596,
@@ -316,8 +297,7 @@
         "D": "<p>Yazınsal yaklaşım</p>",
         "E": "<p>Genel geçer</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862366,
@@ -332,8 +312,7 @@
         "D": "<p>Kavramsal Yaklaşım</p>",
         "E": "<p>Yenilikçi yaklaşım</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862481,
@@ -348,8 +327,7 @@
         "D": "<p>II, IV ve V</p>",
         "E": "<p>III, IV ve V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862482,
@@ -364,8 +342,7 @@
         "D": "<p>Erol Akyavaş</p>",
         "E": "<div class=\"page\" title=\"Page 11\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Balthazar Korab</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862488,
@@ -380,8 +357,7 @@
         "D": "<p>II, III ve V</p>",
         "E": "<p>I, II, IV ve V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862552,
@@ -396,8 +372,7 @@
         "D": "<p>Tasarım-deneysel mantığı.</p>",
         "E": "<p>Deneysel-Şablon mantığı.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862553,
@@ -412,8 +387,7 @@
         "D": "<p>Marka</p>",
         "E": "<p>Logotype<br /><br /></p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862560,
@@ -428,8 +402,7 @@
         "D": "<p>Stefan Sagmeister<br /><br /></p>",
         "E": "<p>David Pearson</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862597,
@@ -444,8 +417,7 @@
         "D": "<p>Metaforik anlatı</p>",
         "E": "<p>Sadelik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862478,
@@ -460,8 +432,7 @@
         "D": "<p>I, III ve V</p>",
         "E": "<p>I, II ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862558,
@@ -476,7 +447,6 @@
         "D": "<p>Pearson</p>",
         "E": "<p>Rem Kohlhaas</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     }
 ]

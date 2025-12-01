@@ -12,8 +12,7 @@
         "D": "<p>Stilize etmek</p>",
         "E": "<p>Deforme etmek</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861011,
@@ -28,8 +27,7 @@
         "D": "<p>Zanaata</p>",
         "E": "<p>Kuantuma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861013,
@@ -44,8 +42,7 @@
         "D": "<p>Estetik deneyim</p>",
         "E": "<p>Dışavurum</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861014,
@@ -60,8 +57,7 @@
         "D": "<p>Biçimci teorisyenler</p>",
         "E": "<p>Soyut dışavurumcular</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861015,
@@ -76,8 +72,7 @@
         "D": "<p>Friedrich Nietzsche</p>",
         "E": "<p>G.W.F. Hegel</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861016,
@@ -92,8 +87,7 @@
         "D": "<p>Sanatsal üretim için öz ve biçim ilişkisi denildiğinde aslında öncelikle bir içerik üretimi ve sonrasında o içeriğin sanatsal biçimlere dönüştürülmesi akla gelmelidir.</p>",
         "E": "<p>Sanatsal biçimlere dönüştürülme bir diğer ifade ile zihinsel olan içeriğin nesneleştirilmesidir. </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861017,
@@ -108,8 +102,7 @@
         "D": "<p>Drama</p>",
         "E": "<p>Estetik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861018,
@@ -124,8 +117,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861020,
@@ -140,8 +132,7 @@
         "D": "<p>Fütürist Sanat</p>",
         "E": "<p>Dadaist Sanat</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861021,
@@ -156,8 +147,7 @@
         "D": "<p>Estetik Deneyim Teorisi</p>",
         "E": "<p>Taklit Teorisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861022,
@@ -172,8 +162,7 @@
         "D": "<p>Sanatçı</p>",
         "E": "<p>Zanaatçı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861023,
@@ -188,8 +177,7 @@
         "D": "<p>Kallitechnis</p>",
         "E": "<p>Technitis</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861024,
@@ -204,8 +192,7 @@
         "D": "<p>Technai</p>",
         "E": "<p>Techne</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861027,
@@ -220,8 +207,7 @@
         "D": "<p>XVIII. Yüzyıl</p>",
         "E": "<p>XIX. Yüzyıl</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861028,
@@ -236,8 +222,7 @@
         "D": "<p>İllüzyon</p>",
         "E": "<p>Öykünme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861029,
@@ -252,8 +237,7 @@
         "D": "<p>Dostoyevski</p>",
         "E": "<p>Soljenitsin</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861032,
@@ -268,8 +252,7 @@
         "D": "<p>Soyut dışavurumculuk</p>",
         "E": "<p>Kübizm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861033,
@@ -284,8 +267,7 @@
         "D": "<p>Hegel</p>",
         "E": "<p>Aristoteles</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861035,
@@ -300,8 +282,7 @@
         "D": "<p>Picasso</p>",
         "E": "<p>Caravaggio</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861039,
@@ -316,8 +297,7 @@
         "D": "<p>Picasso</p>",
         "E": "<p>Marcel Duchamp</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861019,
@@ -332,8 +312,7 @@
         "D": "<p>Kübizm</p>",
         "E": "<p>Çağdaş Sanat</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861025,
@@ -348,8 +327,7 @@
         "D": "<p>Nietzche</p>",
         "E": "<p>Freud</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861030,
@@ -364,8 +342,7 @@
         "D": "<p>Picasso</p>",
         "E": "<p>Caravaggio</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861031,
@@ -380,8 +357,7 @@
         "D": "<p>Marx</p>",
         "E": "<p>Tolstoy</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861036,
@@ -396,8 +372,7 @@
         "D": "<p>Alexander Baumgarten<span class=\"Apple-converted-space\"> </span></p>",
         "E": "<p>Çernişevski</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861038,
@@ -412,8 +387,7 @@
         "D": "<p>Friedrich Nietzsche</p>",
         "E": "<p>G. W. F. Hegel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861012,
@@ -428,8 +402,7 @@
         "D": "<p>Köylüler</p>",
         "E": "<p>Tılsımlı Deri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861026,
@@ -444,8 +417,7 @@
         "D": "<p>Desen tekrarlı tasarım temel alınmıştır.</p>",
         "E": "<p>XVIII. yüzyıl İngiltere’sinde ortaya çıkmıştır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861037,
@@ -460,8 +432,7 @@
         "D": "<p>Friedrich Nietzsche</p>",
         "E": "<p>Umberto Eco</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861034,
@@ -476,7 +447,6 @@
         "D": "<p>Jean-Paul Sartre<span class=\"Apple-converted-space\"> </span></p>",
         "E": "<p>Nietzsche<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     }
 ]

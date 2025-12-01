@@ -12,8 +12,7 @@
         "D": "<p>Pastiş</p>",
         "E": "<p>Yazıt</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488000,
@@ -28,8 +27,7 @@
         "D": "<p>Bir topluluğun resmî dili olmayan sözlü bir lehçeye atıfta bulunur.</p>",
         "E": "<p>Sıradan konuşmadan ziyade resmî yazıda meydana gelen bir ifade şeklidir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488002,
@@ -44,8 +42,7 @@
         "D": "<p>Seymour Chwast</p>",
         "E": "<p>Tony Palladino</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488006,
@@ -60,8 +57,7 @@
         "D": "<p>Parodi</p>",
         "E": "<p>Retro</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488007,
@@ -76,8 +72,7 @@
         "D": "<p>Pastiş</p>",
         "E": "<p>Nostalji</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488008,
@@ -92,8 +87,7 @@
         "D": "<p>Template Gothic</p>",
         "E": "<p>Decimal</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488050,
@@ -108,8 +102,7 @@
         "D": "<p>Seramik</p> ",
         "E": "<p>Heykel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488052,
@@ -124,8 +117,7 @@
         "D": "<p>Çoğulculuk</p>",
         "E": "<p>Biçim kirliliği</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488054,
@@ -140,8 +132,7 @@
         "D": "<p>Steven Heller</p>",
         "E": "<p>Tibor Kalman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488056,
@@ -156,8 +147,7 @@
         "D": "<p>George Tscherny</p>",
         "E": "<p>Louise Fili</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488084,
@@ -172,8 +162,7 @@
         "D": "<p>Lupton</p>",
         "E": "<p>Dean</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488085,
@@ -188,8 +177,7 @@
         "D": "<p>Pastiş</p>",
         "E": "<p>Kitsch</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488087,
@@ -204,8 +192,7 @@
         "D": "<p>Vernaküler </p>",
         "E": "<p>Efemera</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488089,
@@ -220,8 +207,7 @@
         "D": "<p>Robert Brownjohn</p>",
         "E": "<p>Tom Geismar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488093,
@@ -236,8 +222,7 @@
         "D": "<p>Art Deco</p>",
         "E": "<p>Postmodernizm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488114,
@@ -252,8 +237,7 @@
         "D": "<p style=\"font-weight: 400;\">Dergi</p>",
         "E": "<p style=\"font-weight: 400;\">Kitap</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488115,
@@ -268,8 +252,7 @@
         "D": "<p style=\"font-weight: 400;\">Kaligrafi</p>",
         "E": "<p style=\"font-weight: 400;\">Vernaküler Tipografi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488116,
@@ -284,8 +267,7 @@
         "D": "<p style=\"font-weight: 400;\">Milton Glaser</p>",
         "E": "<p style=\"font-weight: 400;\">Michael Bierut</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488119,
@@ -300,8 +282,7 @@
         "D": "<p style=\"font-weight: 400;\">Arial</p>",
         "E": "<p style=\"font-weight: 400;\">Decimal</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488122,
@@ -316,8 +297,7 @@
         "D": "<p style=\"font-weight: 400;\">New York</p>",
         "E": "<p style=\"font-weight: 400;\">Phoenix</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488003,
@@ -332,8 +312,7 @@
         "D": "<p>Gotham</p>",
         "E": "<p>Template Gothic</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488049,
@@ -348,8 +327,7 @@
         "D": "<p>Bütün dönemleri kapsayan yaşantı</p>",
         "E": "<p>Yerel bir ifade şekli</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488051,
@@ -364,8 +342,7 @@
         "D": "<p>Cam yazısı</p>",
         "E": "<p>Rölyef (Kabartma)</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488088,
@@ -380,8 +357,7 @@
         "D": "<p>Paula Scher</p>",
         "E": "<p>George Gilbert Scott</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488090,
@@ -396,8 +372,7 @@
         "D": "<p>Charles Spencer Anderson</p>",
         "E": "<p>Kalman</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488091,
@@ -412,8 +387,7 @@
         "D": "<p>II, III, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488118,
@@ -428,8 +402,7 @@
         "D": "<p style=\"font-weight: 400;\">Milton Glaser</p>",
         "E": "<p style=\"font-weight: 400;\">Michael Bierut</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488120,
@@ -444,8 +417,7 @@
         "D": "<p style=\"font-weight: 400;\">Nostalji</p>",
         "E": "<p style=\"font-weight: 400;\">Retro</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488121,
@@ -460,8 +432,7 @@
         "D": "<p style=\"font-weight: 400;\">Modernism</p>",
         "E": "<p style=\"font-weight: 400;\">Gotik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488004,
@@ -476,8 +447,7 @@
         "D": "<p>Sans Serif</p>",
         "E": "<p>Times New Roman</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488086,
@@ -492,8 +462,7 @@
         "D": "<p>Pastiş</p>",
         "E": "<p>Retro</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488123,
@@ -508,8 +477,7 @@
         "D": "<p style=\"font-weight: 400;\">Arial</p>",
         "E": "<p style=\"font-weight: 400;\">Template Gothic</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488005,
@@ -524,8 +492,7 @@
         "D": "<p>Sürrealizm</p>",
         "E": "<p>Fütürizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488053,
@@ -540,8 +507,7 @@
         "D": "<p>Michael Bierut</p>",
         "E": "<p>Kerrie Jacobs</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488055,
@@ -556,8 +522,7 @@
         "D": "<p>Retro</p>",
         "E": "<p>Maksimalizm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488117,
@@ -572,8 +537,7 @@
         "D": "<p style=\"font-weight: 400;\">Milton Glaser</p>",
         "E": "<p style=\"font-weight: 400;\">Michael Bierut</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488001,
@@ -588,8 +552,7 @@
         "D": "<p>Vernaküler</p>",
         "E": "<p>Hiyeroglif</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488058,
@@ -604,8 +567,7 @@
         "D": "<p>Yerel ve sıradanlık</p>",
         "E": "<p>Bir dönemin ifade şekli</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488092,
@@ -620,8 +582,7 @@
         "D": "<p>Tibor Kalman</p>",
         "E": "<p>Paula Scher</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488057,
@@ -636,7 +597,6 @@
         "D": "<p>Karrie Jacobs</p>",
         "E": "<p>Barry Deck</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Mürekkep kalıpta çukurda kalan yerlere dolar ve yumuşatılan kağıt çukurdaki mürekkebi toplar<span class=\"Apple-converted-space\"> </span></p>",
         "E": "<p>Kalıptan yüzeye aktarılacak olan yerlerin yüksekte kalarak mürekkep aldığı tekniklerdir<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764345,
@@ -28,8 +27,7 @@
         "D": " <p>Serigrafide fotografik yöntem kullanılırken ışığa duyarlı emülsiyonun uygulandığı kalıptır</p>",
         "E": " <p>Neşter olarak da adlandırılan sivri uçlu maket bıçağıdır<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764346,
@@ -44,8 +42,7 @@
         "D": "<p>Elek kurutma fırını</p>",
         "E": "<p>Kalıp yıkama ünitesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764347,
@@ -60,8 +57,7 @@
         "D": "<p>Emülsyonun özel ışığa maruz bırakılmasıyla oluşturulan kalıptır</p>",
         "E": " <p>Boş ipek eleğin emülsiyon malzemesiyle kaplanması için kullanılan gereçtir<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764349,
@@ -76,8 +72,7 @@
         "D": "<p>Kros</p>",
         "E": "<p>Emülsyon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764350,
@@ -92,8 +87,7 @@
         "D": "<p>Düz baskı</p>",
         "E": "<p>Elek baskı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764545,
@@ -108,8 +102,7 @@
         "D": "<p>Gravür</p>",
         "E": "<p>Serigraf</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764549,
@@ -124,8 +117,7 @@
         "D": "<p>Elek Baskı</p> ",
         "E": "<p>Malzeme Baskı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764551,
@@ -140,8 +132,7 @@
         "D": "<p>5,4,1,6,3,2</p> ",
         "E": "<p>3,5,6,2,1,4</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764553,
@@ -156,8 +147,7 @@
         "D": "<p>James Rosenquist</p> ",
         "E": "<p>Roy Lichtenstein</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764748,
@@ -172,8 +162,7 @@
         "D": "<p>Perry</p>",
         "E": "<p>Owens</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764750,
@@ -188,8 +177,7 @@
         "D": "<p>Düz baskı</p>",
         "E": "<p>Şablon baskı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764751,
@@ -204,8 +192,7 @@
         "D": "<p>Tipo baskı</p>",
         "E": "<p>Rubylith</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764753,
@@ -220,8 +207,7 @@
         "D": "<p>Emülsiyon</p>",
         "E": "<p>Pozlama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764755,
@@ -236,8 +222,7 @@
         "D": "<p>Rucha</p>",
         "E": "<p>Hecker</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764801,
@@ -252,8 +237,7 @@
         "D": "<p>Fransa</p>",
         "E": "<p>İtalya </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764803,
@@ -268,8 +252,7 @@
         "D": "<p>d,c,a,b</p>",
         "E": "<p>c,d,b,a</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764806,
@@ -284,8 +267,7 @@
         "D": "<p>Vakumlu masa </p>",
         "E": "<p>Kros</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764808,
@@ -300,8 +282,7 @@
         "D": "<p>fotogravür</p>",
         "E": "<p>katazome</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764809,
@@ -316,8 +297,7 @@
         "D": "<p>60</p>",
         "E": "<p>280</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764348,
@@ -332,8 +312,7 @@
         "D": "<p>Kalıp yakma</p>",
         "E": "<p>Degrade</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764353,
@@ -348,8 +327,7 @@
         "D": "<p>Ofset litografi</p>",
         "E": "<p>Gravür</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764546,
@@ -364,8 +342,7 @@
         "D": "<p class=\"Default\">Edward Owens tarafından 1905’de</p>\n<p class=\"Default\"> </p>",
         "E": "<p>Duncan Grant ve Frank Dobson gibi sanat­çılar tarafından 1908 yılında</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764547,
@@ -380,8 +357,7 @@
         "D": "<p>Kobra Grubu</p> ",
         "E": "<p>ABC Art</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764548,
@@ -396,8 +372,7 @@
         "D": "<p>1950</p> ",
         "E": "<p>1953</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764754,
@@ -412,8 +387,7 @@
         "D": "<p>Kalıp yıkama ünitesi</p>",
         "E": "<p>Elek germe ünitesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764802,
@@ -428,8 +402,7 @@
         "D": "<p>Emülsiyon </p>",
         "E": "<p>Spatula </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764804,
@@ -444,8 +417,7 @@
         "D": "<p>Ali Artun </p>",
         "E": "<p>Ertuğrul Kürkçü </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764351,
@@ -460,8 +432,7 @@
         "D": "<p>Tipo baskı</p>",
         "E": "<p>Şablon baskı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764352,
@@ -476,8 +447,7 @@
         "D": "<p>Yüksek baskı</p>",
         "E": "<p>Emülsyon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764552,
@@ -492,8 +462,7 @@
         "D": "<p>200-230</p>",
         "E": "<p>60-90</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764747,
@@ -508,8 +477,7 @@
         "D": "<p>Selectasine</p>",
         "E": "<p>Creswell</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764752,
@@ -524,8 +492,7 @@
         "D": "<p>Beş </p>",
         "E": "<p>Üç</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764554,
@@ -540,8 +507,7 @@
         "D": "<p>Cros</p>",
         "E": "<p>Rakle</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764749,
@@ -556,8 +522,7 @@
         "D": "<p>İki</p>",
         "E": "<p>Beş</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764756,
@@ -572,8 +537,7 @@
         "D": "<p>The Factory</p>",
         "E": "<p>Marimekko</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764805,
@@ -588,8 +552,7 @@
         "D": "<p>Yoğun mürekkebin elekten geçebilmesi için elek sıklığının yüksek olması gerekir</p>",
         "E": "<p>kuşe kağıt gibi yüzeylerde yüksek sıklıkta elekler kullanılır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764811,
@@ -604,8 +567,7 @@
         "D": "<p>Michael Vasilantone</p>",
         "E": "<p>Roy Beck</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764807,
@@ -620,8 +582,7 @@
         "D": "<p>Hyman Warsager</p>",
         "E": "<p>Edward Ruscha</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764550,
@@ -636,7 +597,6 @@
         "D": "<p>Elek</p> ",
         "E": "<p>Kasnak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     }
 ]

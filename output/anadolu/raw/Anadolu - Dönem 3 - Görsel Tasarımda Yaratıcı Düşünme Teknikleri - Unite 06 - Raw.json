@@ -12,8 +12,7 @@
         "D": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sembolizm Vurgusu</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Bilişsel veya Psikolojik Unsurlara Vurgu</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861644,
@@ -28,8 +27,7 @@
         "D": "<p>Max Sutherland</p>",
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kevin Roberts</p> </div> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861648,
@@ -44,8 +42,7 @@
         "D": "<p>Derinlemesine okuma</p>",
         "E": "<p>Aydınlanma evresi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861651,
@@ -60,8 +57,7 @@
         "D": "<p>Kriz yönetimi</p>",
         "E": "<p>Sosyal medya</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861738,
@@ -76,8 +72,7 @@
         "D": "<p>I/II/V</p>",
         "E": "<p>V/VI</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861739,
@@ -92,8 +87,7 @@
         "D": "<div class=\"page\" title=\"Page 6\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Temel Satış Vaadi</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Lovemarks</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861741,
@@ -108,8 +102,7 @@
         "D": "<p>Bilişsel</p>",
         "E": "<p>Psikolojik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861742,
@@ -124,8 +117,7 @@
         "D": "<div class=\"page\" title=\"Page 10\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Ajda Pekkan</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 10\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Ergül Mobilya</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861743,
@@ -140,8 +132,7 @@
         "D": "<p>XI</p>",
         "E": "<p>XII</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861745,
@@ -156,8 +147,7 @@
         "D": "<p>Ünlünün, halk tarafından tanınırlığının azalması sonucu önemi azalabilir.</p>",
         "E": "<p>Marka imajında değişiklik yapılmak istenebilir ve o ünlü artık markaya uymayabilir. Bu sebeple markaya uymayan ya da basarısız bir ünlü ile uzun vadeli sözleşme yapılmış olabilir. Finansal riskleri vardır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861747,
@@ -172,8 +162,7 @@
         "D": "<p>Temel ihtiyaç</p>",
         "E": "<p>Star stratejisi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861781,
@@ -188,8 +177,7 @@
         "D": "<p>Reklamcılık</p>",
         "E": "<p> Reklam çekiciliği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861783,
@@ -204,8 +192,7 @@
         "D": " <p>Değerlendirme</p> ",
         "E": " <p>Aydınlanma evresi</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861785,
@@ -220,8 +207,7 @@
         "D": "<p>Sadece I</p>",
         "E": "<p>Sadece II</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861788,
@@ -236,8 +222,7 @@
         "D": "<p>Üç</p>",
         "E": "<p>İki</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861789,
@@ -252,8 +237,7 @@
         "D": " <p>Karşılaştırma</p>",
         "E": "<p> Mavi Mizah</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861902,
@@ -268,8 +252,7 @@
         "D": "<p>Farkındalık</p>",
         "E": "<p>Yenilik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861908,
@@ -284,8 +267,7 @@
         "D": "<p>Saygı</p>",
         "E": "<p>Doygunluk faktörü</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861910,
@@ -300,8 +282,7 @@
         "D": "<p>Sonuç odaklı yaklaşım</p>",
         "E": "<p>Karşılaştırmalı yaklaşım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861911,
@@ -316,8 +297,7 @@
         "D": "<p>Pop-behinds reklamlar</p>",
         "E": "<p>Banner reklamlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861641,
@@ -332,8 +312,7 @@
         "D": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İnternet üzerinden alışverişin yaygınlaşması ile birlikte bir ürün için markaların öne çıkması için büyük bir avantaj yaratır.</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Belirgin tek bir özelliğe göre konumlandırma yapmak, markanın tüketicinin zihninde oluşturmak istediği mesajı aktarmasını güçleştirir.</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861646,
@@ -348,8 +327,7 @@
         "D": "<p>Farklılık</p>",
         "E": "<p>Yaratıcılık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861650,
@@ -364,8 +342,7 @@
         "D": "<div class=\"page\" title=\"Page 20\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Banner reklamlar</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 21\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Widget’lar</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861733,
@@ -380,8 +357,7 @@
         "D": "<p>V</p>",
         "E": "<p>IV/V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861734,
@@ -396,8 +372,7 @@
         "D": "<p>Customer</p>",
         "E": "<p>Lovemarks</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861736,
@@ -412,8 +387,7 @@
         "D": "<p>dijital satış yöntemi</p>",
         "E": "<p>markalaşma </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861737,
@@ -428,8 +402,7 @@
         "D": "<p>Temel satış vaadi</p>",
         "E": "<p>Türev satış vaadi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861749,
@@ -444,8 +417,7 @@
         "D": "<p>teknik</p>",
         "E": "<p>duygusal</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861784,
@@ -460,8 +432,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>Sadece II</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861904,
@@ -476,8 +447,7 @@
         "D": "<p>Dolaylı (Deneyimsel/Sembolik) Faydalar</p>",
         "E": "<p>Vekil (Yer Tutucu) Konumlandırma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861909,
@@ -492,8 +462,7 @@
         "D": "<p>Marka yenileme stratejileri uygulanabilir.</p>",
         "E": "<p>Küresel kampanyalar desteklenebilir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861642,
@@ -508,8 +477,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Dolaylı (Deneyimsel/Sembolik) Faydalar</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Vekil (Yer Tutucu) Konumlandırma</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861649,
@@ -524,8 +492,7 @@
         "D": "<p>Değişiklik</p>",
         "E": "<p>İşlevsellik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861735,
@@ -540,8 +507,7 @@
         "D": "<p>Unique (Özgün)</p>",
         "E": "<p>Temel satış</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861748,
@@ -556,8 +522,7 @@
         "D": "<p>Kültür</p>",
         "E": "<p>Coğrafya</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861787,
@@ -572,8 +537,7 @@
         "D": "<p>Sadece II</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861790,
@@ -588,8 +552,7 @@
         "D": "<p>III/IV/V</p>",
         "E": "<p>III/IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861744,
@@ -604,8 +567,7 @@
         "D": "<p>Küresel kampanyalar desteklenebilir, marka iyi bir reklam yapabilir ve daha yüksek kârlar elde edebilir.</p>",
         "E": "<p>Ünlü, markayı gölgede bırakabilir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861780,
@@ -620,8 +582,7 @@
         "D": "<p>Sadece III</p>",
         "E": "<p>Sadece II</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861907,
@@ -636,8 +597,7 @@
         "D": "<p>TEARS Modeli</p>",
         "E": "<p>Doğrusal düşünme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861782,
@@ -652,8 +612,7 @@
         "D": "<p>Sadece I</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861903,
@@ -668,8 +627,7 @@
         "D": "<p>Lovemarks</p>",
         "E": "<p>Büyük fikir</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861732,
@@ -684,8 +642,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Yeniden Konumlandırma</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Marka İmajı</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861740,
@@ -700,8 +657,7 @@
         "D": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Lovemarks</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 9\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Star Stratejisi</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861786,
@@ -716,8 +672,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>Sadece II</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861746,
@@ -732,8 +687,7 @@
         "D": "<p>sermaye ile üretim </p>",
         "E": "<p>ekonomi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861905,
@@ -748,8 +702,7 @@
         "D": "<p>Dolaylı (Deneyimsel/Sembolik) Faydalar</p>",
         "E": "<p>Vekil (Yer Tutucu) Konumlandırma</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861645,
@@ -764,8 +717,7 @@
         "D": "<div class=\"page\" title=\"Page 10\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Uzmanlık (Expertise)</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 10\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Güvenilirlik (Trustworthiness)</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861791,
@@ -780,8 +732,7 @@
         "D": "<div class=\"page\" title=\"Page 10\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Saygı (Respect)</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 10\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Benzerlik (Similarity)</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861906,
@@ -796,7 +747,6 @@
         "D": "<p>USP</p>",
         "E": "<p>ESP</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Ses-etkileşim-algı</p>",
         "E": "<p>Mesaj-etkileşim-algı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690031,
@@ -28,8 +27,7 @@
         "D": "<p>Karmaşık bilgileri organize etmek ve izleyicinin dikkatini bir çerçeve/kurgu boyunca görsel ve işitsel düzeyde yönlendirebilmek için denge kullanılır.</p>",
         "E": "<p>Radyal denge ve kristalografik denge de birer simetrik denge türleridir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690058,
@@ -44,8 +42,7 @@
         "D": "<p>Görsel hiyerarşi</p>",
         "E": "<p>Görsel zıtlık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690069,
@@ -60,8 +57,7 @@
         "D": "<p>Düzenli-düzensiz</p>",
         "E": "<p>Yakın-uzak</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690077,
@@ -76,8 +72,7 @@
         "D": "<p>Büyük punto-küçük punto</p>",
         "E": "<p>Regular-bold</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690086,
@@ -92,8 +87,7 @@
         "D": "<p>Gelişen</p>",
         "E": "<p>Rastlantısal</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690092,
@@ -108,8 +102,7 @@
         "D": "<p>Bütünlük</p>",
         "E": "<p>Vurgu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690095,
@@ -124,8 +117,7 @@
         "D": "<p>Tamamlama</p>",
         "E": "<p>Devamlılık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690099,
@@ -140,8 +132,7 @@
         "D": "<p>Şekil-zemin</p>",
         "E": "<p>Tamamlanma</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690108,
@@ -156,7 +147,6 @@
         "D": "<p>Bir doku</p>",
         "E": "<p>Bir yön</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

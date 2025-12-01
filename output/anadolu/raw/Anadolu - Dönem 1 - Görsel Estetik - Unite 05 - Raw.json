@@ -12,8 +12,7 @@
         "D": "<p>5000ºK</p>",
         "E": "<p>3000ºK</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858295,
@@ -28,8 +27,7 @@
         "D": "<p>Notan Aydınlatma</p>",
         "E": "<p>Silüet Aydınlatma</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858637,
@@ -44,8 +42,7 @@
         "D": "<p>Derinlik</p>",
         "E": "<p>Nesne izdüşümü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858685,
@@ -60,8 +57,7 @@
         "D": "<p>Modle</p>",
         "E": "<p>Modülasyon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858687,
@@ -76,8 +72,7 @@
         "D": "<p>ay ışığı</p>",
         "E": "<p>balon ışıktır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858706,
@@ -92,8 +87,7 @@
         "D": "<p>100-780 nanometre (nm.)</p>",
         "E": "<p>400-1000 nanometre (nm.)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858786,
@@ -108,8 +102,7 @@
         "D": "<p>Mavi</p>",
         "E": "<p>Turuncu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858937,
@@ -124,8 +117,7 @@
         "D": "<p>Güneş ışığına</p>",
         "E": "<p>Ay ışığına</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859217,
@@ -140,8 +132,7 @@
         "D": "<p>Yeşil </p>",
         "E": "<p>Siyah</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859218,
@@ -156,8 +147,7 @@
         "D": "<p>Işığın filtreler yardımıyla renk ve kelvin derecesi değiştirilebilir.</p>",
         "E": "<p>Konu ve ışık kaynağı arasındaki yön değiştirilemez.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859219,
@@ -172,8 +162,7 @@
         "D": "<p>Şimsek</p>",
         "E": "<p>Projektör</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859221,
@@ -188,8 +177,7 @@
         "D": "<p>Yansıma</p>",
         "E": "<p>Kırılma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859223,
@@ -204,8 +192,7 @@
         "D": "<p>Projektör</p>",
         "E": "<p>Floresan lambalar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859267,
@@ -220,8 +207,7 @@
         "D": "<p>Işık yansımalarına engel olan filtredir.</p>",
         "E": "<p>Spot ışığının sertliğini yumuşatan filtredir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859269,
@@ -236,8 +222,7 @@
         "D": "<p>Balon ışık.</p>",
         "E": "<p>Gün ışığı.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859286,
@@ -252,8 +237,7 @@
         "D": "<p>842.000 km</p>",
         "E": "<p>533.000 km</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859288,
@@ -268,8 +252,7 @@
         "D": "<p>I-III-IV</p>",
         "E": "<p>I-II-III-IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859298,
@@ -284,8 +267,7 @@
         "D": "<p>I, III ve IV<br /><br /></p>",
         "E": "<p>II, III ve IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859311,
@@ -300,8 +282,7 @@
         "D": "<div class=\"page\" title=\"Page 22\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Notan Aydınlatma</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 22\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Chiaroscuro Aydınlatma</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859312,
@@ -316,8 +297,7 @@
         "D": "<div class=\"page\" title=\"Page 22\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Rembrandt Aydınlatması</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 23\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Silüet Aydınlatma</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858286,
@@ -332,8 +312,7 @@
         "D": "<p>Kızılötesi</p>",
         "E": "<p>Isı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858289,
@@ -348,8 +327,7 @@
         "D": "<p>Projektör</p>",
         "E": "<p>Gökyüzü</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858716,
@@ -364,8 +342,7 @@
         "D": "<p>Kar yağışlı havada</p>",
         "E": "<p>Fırtınalı havada</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859220,
@@ -380,8 +357,7 @@
         "D": "<p>Kelvin</p>",
         "E": "<p>Sıcaklık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859224,
@@ -396,8 +372,7 @@
         "D": "<p>6500 K</p>",
         "E": "<p>10000 K</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859232,
@@ -412,8 +387,7 @@
         "D": "<p>Chiaroscuro Aydınlatma</p>",
         "E": "<p>Silüet Aydınlatma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859244,
@@ -428,8 +402,7 @@
         "D": "<p>Beyaz</p>",
         "E": "<p>Mor</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859246,
@@ -444,8 +417,7 @@
         "D": "<p>Işık hızı ses hızından daha büyük olduğu için, önce ışığı görür sonra sesini duyarız.</p>",
         "E": "<p>Elektronların gökyüzünden yeryüzüne doğru hareket etmesiyle oluştuğu için</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859256,
@@ -460,8 +432,7 @@
         "D": "<p>Işık animasyonu</p>",
         "E": "<p>Su dalgası efekti</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859261,
@@ -476,8 +447,7 @@
         "D": "<p>Reflektör</p>",
         "E": "<p>Ayna</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859266,
@@ -492,8 +462,7 @@
         "D": "<p>Kandil alevi 2300°K'dir.</p>",
         "E": "<p>Güneş batımındaki ışık 5500°K’dir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859271,
@@ -508,8 +477,7 @@
         "D": "<p>Aydınlatma başarılıysa izleyicinin algısı ve ilgisi önemli bir konuya yönlendirilebilir.</p>",
         "E": "<p>Aydınlatma ile birlikte derinlik algısı oluşur.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859272,
@@ -524,8 +492,7 @@
         "D": "<p>Konu üzerinde oluşturulan denetimli gölgeler aydınlatmanın temelini oluşturur.</p>",
         "E": "<p>İki çeşit gölge vardır. Bunlar; gölge ve düşen gölgedir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859276,
@@ -540,8 +507,7 @@
         "D": "<p>Morumsu</p> ",
         "E": "<p>Kahverengimsi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859285,
@@ -556,8 +522,7 @@
         "D": "<p>ışık bantlarının dağılma niceliklerinin  birbirinden farklı olması</p>",
         "E": "<p>Filtreleme şansının olmaması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859293,
@@ -572,8 +537,7 @@
         "D": "<p>Konu ve ışık kaynağı arasındaki yön değiştirilebilir.</p>",
         "E": "<p>Işığın filtreler yardımıyla renk ve kelvin derecesi değiştirilebilir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858638,
@@ -588,8 +552,7 @@
         "D": "<p>Anahtar ışık</p>",
         "E": "<p>Floresan ışığı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858694,
@@ -604,8 +567,7 @@
         "D": "<p>Mor filtre</p>",
         "E": "<p>Beyaz filtre</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858708,
@@ -620,8 +582,7 @@
         "D": "<p>Mor</p>",
         "E": "<p>Yeşil</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858797,
@@ -636,8 +597,7 @@
         "D": "<p>Akkor Flamanlı Lambalar</p>",
         "E": "<p>Balon ışık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858810,
@@ -652,8 +612,7 @@
         "D": "<p>Spot aydınlatma</p>",
         "E": "<p>Gölgeli aydınlatma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858934,
@@ -668,8 +627,7 @@
         "D": "<p>2</p>",
         "E": "<p>3</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858939,
@@ -684,8 +642,7 @@
         "D": "<p>2</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859214,
@@ -700,8 +657,7 @@
         "D": "<p>Gaz lambası</p>",
         "E": "<p>El feneri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859225,
@@ -716,8 +672,7 @@
         "D": "<p>Siyah</p>",
         "E": "<p>Sarı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859236,
@@ -732,8 +687,7 @@
         "D": "<p>3 metre</p>",
         "E": "<p>5 metre</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859247,
@@ -748,8 +702,7 @@
         "D": "<p>Konu ve ışık kaynağı arasındaki yön değiştirilebilir.</p> ",
         "E": "<p>Işık şiddeti ayarlanabilir.</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859279,
@@ -764,8 +717,7 @@
         "D": "<p>Kask lambası</p> ",
         "E": "<p>Doğal ışık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859295,
@@ -780,8 +732,7 @@
         "D": "<p>Hacim</p>",
         "E": "<p>Derinlik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859303,
@@ -796,8 +747,7 @@
         "D": "<p>Stüdyo içi kullanılan ışık kaynakları<br /><br /></p>",
         "E": "<p>Geniş açılı ışık kaynakları</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858292,
@@ -812,8 +762,7 @@
         "D": "<p>Karanlık gölge</p>",
         "E": "<p>Işık kırılması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858636,
@@ -828,8 +777,7 @@
         "D": "<p>Floresan lambalar</p>",
         "E": "<p>Kask feneri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858640,
@@ -844,8 +792,7 @@
         "D": "<p>Cemao Aydınlatması</p>",
         "E": "<p>Silüet Aydınlatma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859229,
@@ -860,8 +807,7 @@
         "D": "<p>Yarı gölge</p>",
         "E": "<p>Düşen gölge</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859243,
@@ -876,8 +822,7 @@
         "D": "<p>Güneş ışığının yayılarak büyüme göstermesi</p>",
         "E": "<p>Güneş ışığının renk ısısının çok yüksek olması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859254,
@@ -892,8 +837,7 @@
         "D": "<p>Mavi</p>",
         "E": "<p>Gri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859268,
@@ -908,8 +852,7 @@
         "D": "<p>Bir yüzey boyunca yansıyan ve bu yüzeyin dokusunu ve konturlarını ortaya çıkaran ışıktır.</p>",
         "E": "<p>Kamera pozisyonundan oluşan gölgeleri aydınlatan ve aydınlanma kontrastını düşüren ışıktır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859277,
@@ -924,8 +867,7 @@
         "D": "<p>2/5</p> ",
         "E": "<p>1/7</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859281,
@@ -940,8 +882,7 @@
         "D": "<p>45°</p> ",
         "E": "<p>90°</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859283,
@@ -956,8 +897,7 @@
         "D": "<p>Projektör</p>",
         "E": "<p>Spotlar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858692,
@@ -972,8 +912,7 @@
         "D": "<p>Işık, düz çizgiler şeklinde ilerler.</p>",
         "E": "<p>Işık, desen oluşturmak için kullanılır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858711,
@@ -988,8 +927,7 @@
         "D": "<p>Bulutlu bir günde aydınlatma zıtlığı artar</p>",
         "E": "<p>Kapalı havalarda aydınlatma zıtlığı en aza iner ve gölgeler kaybolur</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858714,
@@ -1004,8 +942,7 @@
         "D": "<p>sadece I, III, V</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858793,
@@ -1020,8 +957,7 @@
         "D": "<p>Konuya g&ouml;re a&ccedil;ık havada g&uuml;n ışığının zamanı ayarlanabilir.</p>",
         "E": "<p>Konu &uuml;zerine gelen ışığın yumuşatılarak yayılması ayarlanabilir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858931,
@@ -1036,8 +972,7 @@
         "D": "<p>I, II ve V</p>",
         "E": "<p>I, IV ve V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858936,
@@ -1052,8 +987,7 @@
         "D": "<p>I, II, III ve IV</p>",
         "E": "<p>I, III, IV ve V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858938,
@@ -1068,8 +1002,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859242,
@@ -1084,8 +1017,7 @@
         "D": "<div class=\"page\" title=\"Page 23\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Silüet aydınlatma</p> </div> </div> </div> </div>",
         "E": " <div class=\"page\" title=\"Page 22\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Notan aydınlatma</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859262,
@@ -1100,8 +1032,7 @@
         "D": "<p>Renk Düzeltme Filtreleri</p>",
         "E": "<p>Ultraviyole Filtreler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859284,
@@ -1116,8 +1047,7 @@
         "D": "<p>I,II,III</p>",
         "E": "<p>I,II</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859287,
@@ -1132,8 +1062,7 @@
         "D": "<p>Sadece doğal ışık kaynakların kullanılması</p>",
         "E": "<p>Sadece yapay ışık kaynakların kullanılması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859302,
@@ -1148,8 +1077,7 @@
         "D": "<p>Efekt spotlar</p>",
         "E": "<p>Balon ışık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859307,
@@ -1164,8 +1092,7 @@
         "D": "<p>Işık<br /><br /></p>",
         "E": "<p>Yapay ışık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858689,
@@ -1180,8 +1107,7 @@
         "D": "<p>Akkor Flamanlı Lamba</p>",
         "E": "<p>Monitör</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858717,
@@ -1196,8 +1122,7 @@
         "D": "<p>Işık, atmosferi şekillendirir</p>",
         "E": "<p>Işık, desen oluşturmak için kullanılır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858813,
@@ -1212,8 +1137,7 @@
         "D": "<p>3200 K</p>",
         "E": "<p>4000 K</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859228,
@@ -1228,8 +1152,7 @@
         "D": "<p>Sokak lambaları</p>",
         "E": "<p>Strop ışık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859230,
@@ -1244,8 +1167,7 @@
         "D": "<p>Kırılma</p>",
         "E": "<p>D&uuml;şme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859231,
@@ -1260,8 +1182,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859233,
@@ -1276,8 +1197,7 @@
         "D": "<p>Gökyüzü</p>",
         "E": "<p>Bulut</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859235,
@@ -1292,8 +1212,7 @@
         "D": "<p>II, IV, V, VI, VII</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859245,
@@ -1308,8 +1227,7 @@
         "D": "<p>Güneşten gelen ışınları yansıtır.</p>",
         "E": "<p>Aydan yansıyan ışığın, yoğunluğu az ama renk ısısı yüksektir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859257,
@@ -1324,8 +1242,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859258,
@@ -1340,8 +1257,7 @@
         "D": "<p>Projektörler</p>",
         "E": "<p>Akkor Flamanlı Lambalar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859263,
@@ -1356,8 +1272,7 @@
         "D": "<p>Işık, insan gözünün duyarlılık bölgesinde yer alan 400-780 nanometre(nm.) arasında değişen doğal veya yapay kaynaklı ışımadır.</p>",
         "E": "<p>Güneş doğal ışık kaynağıdır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858293,
@@ -1372,8 +1287,7 @@
         "D": "<p>Işık, atmosferi şekillendirir.</p>",
         "E": "<p>Işık, desen oluşturmak için kullanılır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858691,
@@ -1388,8 +1302,7 @@
         "D": "<p>yatay gölge</p>",
         "E": "<p>dikey gölge</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859222,
@@ -1404,8 +1317,7 @@
         "D": "<p>Ultraviyole filtre</p>",
         "E": "<p>ND filtre</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859226,
@@ -1420,8 +1332,7 @@
         "D": "<p>Projektörler</p>",
         "E": "<p>Takip spotları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859255,
@@ -1436,8 +1347,7 @@
         "D": "<p>1/6</p>",
         "E": "<p>1/7</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859273,
@@ -1452,8 +1362,7 @@
         "D": "<p>400-780 nm</p> ",
         "E": "<p>500-1000 nm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859292,
@@ -1468,8 +1377,7 @@
         "D": "<p>aydınlatma etkisi</p>",
         "E": "<p>ses etkisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859308,
@@ -1484,8 +1392,7 @@
         "D": "<p>17</p>",
         "E": "<p>21</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859310,
@@ -1500,8 +1407,7 @@
         "D": "<p>I-II-III</p>",
         "E": "<p>I-II</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858291,
@@ -1516,8 +1422,7 @@
         "D": "<p>Derece</p>",
         "E": "<p>Fahrenheit</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858639,
@@ -1532,8 +1437,7 @@
         "D": "<p>Renk düzeltme filtreleri</p>",
         "E": "<p>Mavi filtre</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858642,
@@ -1548,8 +1452,7 @@
         "D": "<p>Alt ışık</p>",
         "E": "<p>Yansıyan ışık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858686,
@@ -1564,8 +1467,7 @@
         "D": "<p>Sarı</p>",
         "E": "<p>Mor</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859215,
@@ -1580,8 +1482,7 @@
         "D": "<p>Yeşil</p>",
         "E": "<p>Mor</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859241,
@@ -1596,8 +1497,7 @@
         "D": "<p>Kırmızı</p>",
         "E": "<p>Gri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859301,
@@ -1612,8 +1512,7 @@
         "D": "<p>Derinlik etkisi oluşturmak<br /><br /></p>",
         "E": "<p>Kusurları örtmek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858290,
@@ -1628,8 +1527,7 @@
         "D": "<p>Balon ışıklar</p>",
         "E": "<p>Şömine ateşi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858644,
@@ -1644,8 +1542,7 @@
         "D": "<p>Nanometre</p>",
         "E": "<p>Neutral Density</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858705,
@@ -1660,8 +1557,7 @@
         "D": "<p>Çapraz ışık</p>",
         "E": "<p>Alt ışık</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858709,
@@ -1676,8 +1572,7 @@
         "D": "<p>Mor</p>",
         "E": "<p>Beyaz</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858712,
@@ -1692,8 +1587,7 @@
         "D": "<p>Ay izleyiciye zaman bilgisini sunar</p>",
         "E": "<p>Güneşten gelen ışınları yansıtır</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858814,
@@ -1708,8 +1602,7 @@
         "D": "<p>Polarize filtreler</p>",
         "E": "<p>Renk düzeltme filtreleri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858932,
@@ -1724,8 +1617,7 @@
         "D": "<p>Mum</p>",
         "E": "<p>Ay ışığı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859251,
@@ -1740,8 +1632,7 @@
         "D": "<p>Yansıma</p>",
         "E": "<p>Hacim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859252,
@@ -1756,8 +1647,7 @@
         "D": "<p>Polarize filtre</p>",
         "E": "<p>Beyaz filtre</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859275,
@@ -1772,8 +1662,7 @@
         "D": "<p>5600 °K</p> ",
         "E": "<p>6500 °K</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859300,
@@ -1788,8 +1677,7 @@
         "D": "<p>Çoklu gölge efekti<br /><br /></p>",
         "E": "<p>Şeffaf objeler efekti</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859305,
@@ -1804,8 +1692,7 @@
         "D": "<p>El feneri<br /><br /></p>",
         "E": "<p>Floresan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859306,
@@ -1820,8 +1707,7 @@
         "D": "<p>Konjektör<br /><br /></p>",
         "E": "<p>Projektör</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858690,
@@ -1836,8 +1722,7 @@
         "D": "<p>Monitör</p>",
         "E": "<p>Akvaryum</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858785,
@@ -1852,8 +1737,7 @@
         "D": "<p>Ateş ışığı</p>",
         "E": "<p>Projekt&ouml;r</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858803,
@@ -1868,8 +1752,7 @@
         "D": "<p>Kaçan gölge</p>",
         "E": "<p>Koyu gölge</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859253,
@@ -1884,8 +1767,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859274,
@@ -1900,8 +1782,7 @@
         "D": "<p>Gemici feneri</p> ",
         "E": "<p>Kamp ateşi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859280,
@@ -1916,8 +1797,7 @@
         "D": "<p>Keskin gölge geçişleri vardır.</p> ",
         "E": "<p>Işık konunun üzerinde dağılmıştır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859282,
@@ -1932,8 +1812,7 @@
         "D": "<p>Kişinin arka fona yapışmış gibi görünmesine</p> ",
         "E": "<p>Tüm renklerin mavimsi olarak görünmesine</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859291,
@@ -1948,8 +1827,7 @@
         "D": "<p>Renk kullanımını</p>",
         "E": "<p>Ses kullanımını</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858688,
@@ -1964,8 +1842,7 @@
         "D": "<p>III. ve IV.</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859213,
@@ -1980,8 +1857,7 @@
         "D": "<p>Ses</p>",
         "E": "<p>Görüntü</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859249,
@@ -1996,8 +1872,7 @@
         "D": "<p>Kamp ateşi</p>",
         "E": "<p>Gaz lambası</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859297,
@@ -2012,8 +1887,7 @@
         "D": "<p>sokaklarda 1800w, caddelerde 2500w, meydanlarda 5000w</p>",
         "E": "<p>sokaklarda 2500w, caddelerde 5000w, meydanlarda 10000w</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858643,
@@ -2028,8 +1902,7 @@
         "D": "<p>Hale</p>",
         "E": "<p>Işık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859260,
@@ -2044,8 +1917,7 @@
         "D": "<p>Işık, desen oluşturmak için kullanılır</p>",
         "E": "<p>Işık seyirciye gösterilmesi istenmeyen objeleri saklar.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859237,
@@ -2060,8 +1932,7 @@
         "D": "<p>Fon spotlar</p>",
         "E": "<p>Balon ışık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859240,
@@ -2076,8 +1947,7 @@
         "D": "<p>I, III, V</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858294,
@@ -2092,8 +1962,7 @@
         "D": "<p>6500°K</p>",
         "E": "<p>2000°K</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859299,
@@ -2108,8 +1977,7 @@
         "D": "<p>Konu üzerine gelen ışığın yumuşatılarak ya­yılması denetlenebilir. <br /><br /></p>",
         "E": "<p>Işık kaynağı kullanmayarak konunun üzerinde oluşan etki değiştirilebilir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858635,
@@ -2124,8 +1992,7 @@
         "D": "<p>Reflektör</p>",
         "E": "<p>Spot ışık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859250,
@@ -2140,8 +2007,7 @@
         "D": "<p>Uzun gölge</p>",
         "E": "<p>Düşen gölge</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859290,
@@ -2156,8 +2022,7 @@
         "D": "<p>1/7</p>",
         "E": "<p>1/9</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858693,
@@ -2172,8 +2037,7 @@
         "D": "<p>Yeşil filtre</p>",
         "E": "<p>Mavi filtre</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859239,
@@ -2188,8 +2052,7 @@
         "D": "<p>Tam gölge </p>",
         "E": "<p>Yansıyan gölge </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859289,
@@ -2204,8 +2067,7 @@
         "D": "<p>Gündoğumu sonrasında 1700K - 2400K,<br />Parçalı bulutlu havalarda 2500K - 3500K,<br />Bulutlu havalarda 5000K - 6000K.</p>",
         "E": "<p>Gündoğumu sonrasında 2500K - 3500K,<br />Parçalı bulutlu havalarda 1700K - 2400K,<br />Bulutlu havalarda 5000K - 6000K.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859294,
@@ -2220,8 +2082,7 @@
         "D": "<p>IV-III</p>",
         "E": "<p>I-III-IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858933,
@@ -2236,8 +2097,7 @@
         "D": "<p>Kadraja daha iyi alabilmek</p>",
         "E": "<p>Tek bir kareye hakim olmak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858940,
@@ -2252,8 +2112,7 @@
         "D": "<p>Polarize filtre</p>",
         "E": "<p>Gri Filtre</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858812,
@@ -2268,8 +2127,7 @@
         "D": "<p>Floresan lamba ışığı</p>",
         "E": "<p>Efekt spot ışığı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859227,
@@ -2284,8 +2142,7 @@
         "D": "<p>Lüks</p>",
         "E": "<p>Kelvin</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859248,
@@ -2300,8 +2157,7 @@
         "D": "<p>Çoklu gölge efekti</p>",
         "E": "<p>Şimşek efekti</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858796,
@@ -2316,8 +2172,7 @@
         "D": "<p>Efekt spotlar</p>",
         "E": "<p>Balon ışık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859278,
@@ -2332,8 +2187,7 @@
         "D": "<p>Işık &ouml;zelliklerinden dolayı sıcak renkleri yansıtamazlar.</p>",
         "E": "<p>Yeşil renk etkisini d&uuml;zenlemek i&ccedil;in floresan filtreler kullanılmalıdır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859296,
@@ -2348,8 +2202,7 @@
         "D": "<p>Anahtar Işık(Key Light)</p>",
         "E": "<p>Kontrast</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859264,
@@ -2364,8 +2217,7 @@
         "D": "<p>Konu üzerine gelen ışığın yumuşatılarak yayılması denetlenebilir.</p>",
         "E": "<p>Işığın filtreler yardımıyla renk ve kelvin derecesi değiştirilebilir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859270,
@@ -2380,8 +2232,7 @@
         "D": "<p>Işık, derinliğe etki etmez.</p>",
         "E": "<p>Işık, desen oluşturmak için kullanılır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858935,
@@ -2396,8 +2247,7 @@
         "D": "<p>3</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859304,
@@ -2412,8 +2262,7 @@
         "D": "<p>Atom fener<br /><br /></p>",
         "E": "<p>Laser fener</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859259,
@@ -2428,8 +2277,7 @@
         "D": "<p>Derinlik</p>",
         "E": "<p>Doğal ışık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859238,
@@ -2444,8 +2292,7 @@
         "D": "<p>Akkor flamanlı lambalar</p>",
         "E": "<p>Reflektör</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859234,
@@ -2460,8 +2307,7 @@
         "D": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Konu üzerine gelen ışığın yumuşatılarak yayılması denetlenebilir.</p> </div> </div> </div> </div> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Işığın filtreler yardımıyla renk değiştirilir ancak kelvin derecesi değiştirilemez.</p> </div> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859265,
@@ -2476,8 +2322,7 @@
         "D": "<p>Bu nesne üzerinde gölge oluşturmaz.</p>",
         "E": "<p>Anahtar ışığın temel hedefi konuyu gizlemektir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859309,
@@ -2492,7 +2337,51 @@
         "D": "<p>II-III</p>",
         "E": "<p>III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3858287,
+        "UniteNo": 5,
+        "PageNumber": 139,
+        "AnswerExplanation": "<p>Doğal ışık kaynakları denildiğinde akla ilk gelen kaynaklar g&uuml;neş ışığı ve g&ouml;ky&uuml;z&uuml;d&uuml;r. Bunların yanında ay, şimşek de doğal ışık kaynaklarıdır.</p>",
+        "Title": "",
+        "Text": "Aşağıdakilerden hangisi doğal ışık kaynağıdır?",
+        "A": "<p>El feneri</p>",
+        "B": "<p>Şimşek</p>",
+        "C": "<p>Ş&ouml;mine ateşi</p>",
+        "D": "<p>Mum</p>",
+        "E": "<p>Projekt&ouml;r</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3858641,
+        "UniteNo": 5,
+        "PageNumber": 159,
+        "AnswerExplanation": "<p>Polarize filtreler, çekimler sırasında meydana gelebilecek ışık yansımalarına ve parlamalarına engel olmak için kullanılırlar. Işık yansımaları ve parlamaları engellendiğinde konunun renkleri görüntüde daha canlı görünür. Polarize filtreler genellikle su, gökyüzü ve manzara çekimlerindeki yansımaları yok etmek için kullanılır.</p>",
+        "Title": "",
+        "Text": "<p>Genellikle su, gökyüzü ve manzara çekimlerindeki yansımaları yok etmek için aşağıdaki filtrelerden hangisi kullanılır?</p>",
+        "A": "<p>Ultraviyole Filtreler</p>",
+        "B": "<p>Polarize Filtreler</p>",
+        "C": "<p>Beyaz Filtre</p>",
+        "D": "<p>Renk Düzeltme Filtreleri</p>",
+        "E": "<p>Mavi Filtre</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3858707,
+        "UniteNo": 5,
+        "PageNumber": 139,
+        "AnswerExplanation": "<p>Bütün dünyaya hayat veren ışık, havada yaklaşık saniyede 300.000 km hızla yayılır.</p>",
+        "Title": "",
+        "Text": "<p>Bütün dünyaya hayat veren ışığın havada yayılma hızı nedir?</p>",
+        "A": "<p>saniyede 100.000 km</p>",
+        "B": "<p>saniyede 200.000 km</p>",
+        "C": "<p>saniyede 300.000 km</p>",
+        "D": "<p>saniyede 400.000 km</p>",
+        "E": "<p>saniyede 500.000 km</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
     }
 ]

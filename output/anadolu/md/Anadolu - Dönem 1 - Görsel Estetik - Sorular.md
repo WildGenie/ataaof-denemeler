@@ -1454,14 +1454,14 @@
     > **Açıklama:** Oturduğumuz kentlerden uzaklaşıp köylere giderek veya uygarlaşmış ülkelerimizden ayrılıp hâlâ eski yaşam şekillerini sürdüren topluluklar arasına girsek sanatın anlamının en yalın hâlini görebiliriz, buna “İlkel sanat” diyoruz. Dolayısıyla cevap D şıkkıdır.
 
     ***
-1. Fotoğrafçının kameralar, objektifler, ışık kaynakları ve buna benzer birçok ekipman bilgisinin yanında aşağıda şıklarda belirtilen hangi özellik de fotoğrafı oluşturmasında önemli niteliklerden biri sayılmaktadır ?
+1. Fotoğrafçının kameralar, objektifler, ışık kaynakları ve buna benzer birçok ekipman bilgisinin yanında aşağıda şıklarda belirtilen hangi özellik de fotoğrafı oluşturmasında önemli niteliklerden biri sayılmaktadır ?
     - A-) Fizik bilgisi
     - B-) Kimya bilgisi
     - C-) Malzeme bilgisi
     - D-) Tarih bilgisi
     - **Cevap E-) Sanat bilgisi**
 
-    > **Açıklama:** Fotoğrafçının kameralar, objektifler, ışık kaynakları ve buna benzer birçok ekipman bilgisinin yanında sanat bilgisi de fotoğrafı oluşturmasında
+    > **Açıklama:** Fotoğrafçının kameralar, objektifler, ışık kaynakları ve buna benzer birçok ekipman bilgisinin yanında sanat bilgisi de fotoğrafı oluşturmasında
     > önemli niteliklerden biri sayılır. Dolayısıyla cevap E şıkkıdır.
 
     ***
@@ -1967,6 +1967,16 @@
     > **Açıklama:** Doğrudan güneş ışığının renk ısısı 5200 K’dir
 
     ***
+1. Makinemize giren ışık yoğunluğunu azaltarak uzun pozlama yapmamızı sağlayan aracın ismi aşağıdakilerden hangisidir?
+    - A-) Diyafram
+    - B-) Tripod
+    - C-) Tungsten
+    - D-) Mercek
+    - **Cevap E-) Nötr yoğunluk filtresi**
+
+    > **Açıklama:** Nötr yoğunluk filtreleri, makinemize giren ışık yoğunluğunu azaltarak uzun pozlama yapmamızı sağlarlar.
+
+    ***
 1. Aşağıdakilerden hangisi iyi bir pan tekniği için yapılması gerekenlerden değildir?
     - A-) 1/15, 1/60 enstantene hızları ayarlamak.
     - B-) Hareketli nesnenin yoluna paralel olacak şekilde yerleşmek.
@@ -2151,7 +2161,7 @@
     - D-) Johann Heinrich Schulze
     - E-) Nicéphore Niépce
 
-    > **Açıklama:** Günümüze ulaşan en eski negatif görüntüyü elde eden ve kalotip adı verilen bu tekniğin patentini alan bilim insanı William Henry Fox Talbot'tur.
+    > **Açıklama:** Günümüze ulaşan en eski negatif görüntüyü elde eden ve kalotip adı verilen bu tekniğin patentini alan bilim insanı William Henry Fox Talbot'tur.
 
     ***
 1. Aşağıdakilerden hangisi enstantane hızı için kullanılan diğer isimlerden biridir ?
@@ -2211,7 +2221,7 @@
     - D-) 85 mm f1.2
     - E-) 16x35mm f2.8, veya 16x50mm
 
-    > **Açıklama:** 40mm f/1.4 veya f/1.8 mimari fotoğrafçılıkta kullanılması gereken temel lens örneklerinden biri değildir.
+    > **Açıklama:** 40mm f/1.4 veya f/1.8 mimari fotoğrafçılıkta kullanılması gereken temel lens örneklerinden biri değildir.
 
     ***
 1. Aşağıdakilerden hangisi 16.yüzyılda karanlık bir ortama açılan iğne deliğinden sızan ışığın giziyle ilgilenmiştir?
@@ -2402,6 +2412,16 @@
     - **Cevap E-) Diyafram**
 
     > **Açıklama:** Doğru cevap E'dir. Işığın miktarını ayarlayan düzeneğe diyafram adı verilir.
+
+    ***
+1. Aşağıdakilerden hangisi Poz Ölçüm Modlarından biri değildir?
+    - A-) Ağırlıklı Ortalama (Matrix) Ölçüm
+    - **Cevap B-) Beyaz ayarı**
+    - C-) Merkez Ağırlıklı Ölçüm
+    - D-) Kısmi Ölçüm
+    - E-) Spot Ölçüm
+
+    > **Açıklama:** Doğru cevap B'dir. Beyaz ayarı bu ölçümlerden değildir.
 
     ***
 1. Deklanşöre kısmen basıldığında, kamera odağını ayarladığı ve net alanı belirlediği ancak kamera hareketi veya nesnelerin hareketlerine duyarlı olduğu için konuyu izlemeye devam ettiği odaklamaya ne ad verilir?
@@ -3098,6 +3118,17 @@
     > **Açıklama:** Pozlama değer telafisi olarak adlandırılan “Pozlama Telafisi (EC)”, kameranızda çekim yaparken kameranızın dahili ölçer tarafından seçilen pozlama değerlerini ayarlamanızı sağlayan bir özelliktir. EC, fotoğraf makinesinin pozometresi ne zaman olursa olsun fotoğrafların daha parlak veya daha karanlık olmasını sağlamak için poz ayarlarını değiştirmenize izin verir. Doğru cevap B seçeneğidir.
 
     ***
+1. Aşağıdakilerden hangisi poz ölçüm modunun sunduğu ölçüm şekillerinden birisi *değildir?*
+    - A-) Ağırlıklı Ortalama (Matrix) Ölçüm
+    - B-) Merkez Ağırlıklı Ölçüm
+    - C-) Kısmi Ölçüm
+    - D-) Spot Ölçüm
+    - **Cevap E-) Tam Ölçüm**
+
+    > **Açıklama:** Tam ölçüm adında bir ölçüm çeşidi poz ölçüm modları arasında yer almamaktadır.
+    > Doğru cevap E seçeneğidir.
+
+    ***
 1. Aşağıdakilerden hangisi otomatik netleme parametrelerinde yer alan ayarlamalar arasında *bulunmaz?*
     - A-) Tek noktaotomatikodaklama
     - B-) Dinamik odak alanı
@@ -3417,6 +3448,16 @@
     - E-) 19\.yy
 
     > **Açıklama:** Danielo Barbaro adlı bir Venedikli karanlık kutunun deliğine bir mercek yerleştirerek daha net bir görüntü elde edilebileceğini kanıtladı. 17. yüzyılda taşınabilir hâle getirilen kamera obscura temel ilkesi bir kutu veya oda ve onun bir yüzüne açılmış delikten oluşur. Dışarıdan gelen ışık, delikten geçerek içerisindeki yüzeye düşer ve yansıdığı kaynağın perspektifini ve renklerini koruyarak ters dönmüş (180 derece, baş aşağı) görüntüsünü oluşturur. Resim bir kâğıt üzerine düşürülerek yüksek kesinlikli çizimler elde edilmesini sağlar.
+
+    ***
+1. 1826-27 yılında çekilmiş La Gras isimli ilk fotoğraf kim tarafından çekilmiştir?
+    - **Cevap A-) Joseph Nicéphore Niépce**
+    - B-) Leonardo Da Vinci
+    - C-) Louis Jacques Mande Daguerre
+    - D-) Paolo Toscanelli
+    - E-) Thomas Wedgwood
+
+    > **Açıklama:** Fotoğrafın tarihsel gelişimi Fransız mucit Nicéphore Niépce (1765-1833) tarafından 1826-27’de çekilmiş olan Pencereden Görünüm, Le Gras en eski fotoğraftır. Fotoğrafın dünyaya ilanı 1839’u bulur.
 
     ***
 1. Pozlandırılmış, levhada sabitlenmiş ilk fotoğraf ne zaman çekilmiştir?
@@ -4479,6 +4520,16 @@
     > **Açıklama:** Algı kendisini oluşturan duyusal girdilerin toplamından daha fazla bir anlam ifade eder. Bu gerçeği, algısal psikoloji üzerinde çalışan ilk Alman psikologları gestalt kelimesi ile ifade ettiler
 
     ***
+1. Aşağıdakilerden hangisi algılanmış bir olayı ifade etmektedir?
+    - A-) İmge
+    - B-) Düşünce
+    - C-) Hayal
+    - **Cevap D-) İm**
+    - E-) Görü
+
+    > **Açıklama:** İm (işaret), algılanmış bir olayı dile getirir. Örneğin uzakta bir yerde duman görürsek orada bir ateş yanmakta olduğunu anlarız. Bu gibi doğal bağlantıları biz doğal bir işaret (im) olarak algılarız.
+
+    ***
 1. Algıladığımız an ya da durum ile gerçek durum arasındaki farklılıklara ne ad verilir?
     - A-) Algıda seçicilik
     - B-) Kör nokta
@@ -5155,6 +5206,16 @@
     > **Açıklama:** Bir alıcı organın uyarılabildiği en ufak uyarıcı şiddetine mutlak eşik (abssolute threshold) adı verilir.
 
     ***
+1. Ünlü Hollandalı ressam Van Gogh’un akıl hastanesine kapatıldıktan sonra sanatında daha başarılı olduğunu ifade eden “Resimlerle Düşünmek” adlı kitabın yazarı aşağıdakilerden hangisidir?
+    - A-) Taylor
+    - B-) Yıldırım
+    - C-) Escher
+    - D-) Erinç
+    - **Cevap E-) Grandin**
+
+    > **Açıklama:** “Resimlerle Düşünmek” adlı kitabın yazarı Temple Grandin (2010), ünlü Hollandalı ressam Van Gogh’un akıl hastanesine kapatıldıktan sonra sanatında daha başarılı olduğunu ifade eder.
+
+    ***
 1. Gestalt ile ilgili aşağıdaki bilgilerden hangisi **yanlıştır**?
     - A-) Almanca bir kelimedir.
     - B-) Biçim, şekil, form gibi anlamlara gelmektedir.
@@ -5618,6 +5679,16 @@
     - E-) Isı
 
     > **Açıklama:** Işık, insan gözünün duyarlılık bölgesinde yer alan 400-780 nanometre(nm.) arasında değişen doğal veya yapay kaynaklı ışımaya verilen addır. Bütün dünyaya hayat veren ışık, havada yaklaşık saniyede 300.000 km hızla yayılır. Görme olayının temel fizik gerçekliği olan ışık ve nesnel dünyanın ışığa bağlı bir gerçekliği olan gölge, yaşantımızda üç boyutlu dünya algısının zaman ve mekân hakkındaki temel izlenimlerindendir. Bir görüntünün elde edilip, kaydedilebilmesi için bir ışık kaynağının olması gerekir.
+
+    ***
+1. Aşağıdakilerden hangisi doğal ışık kaynağıdır?
+    - A-) El feneri
+    - **Cevap B-) Şimşek**
+    - C-) Şömine ateşi
+    - D-) Mum
+    - E-) Projektör
+
+    > **Açıklama:** Doğal ışık kaynakları denildiğinde akla ilk gelen kaynaklar güneş ışığı ve gökyüzüdür. Bunların yanında ay, şimşek de doğal ışık kaynaklarıdır.
 
     ***
 1. Güneş ışığının renk ısısı gündoğumu sonrasında kaç kelvindir?
@@ -10358,6 +10429,16 @@
     > **Açıklama:** İtalyan ressamı Caravaggio’nun 1594-1596 tarihleri arasında tamamladığı “Narcissus” adlı yağlı boya tablosu da görüntü kavramıyla ilgili güzel bir çalışmadır.
 
     ***
+1. Çok yakındaki bir objeyle uzaktaki objenin aynı netlikte görülebilmesine ne denir?
+    - A-) Görüntü
+    - **Cevap B-) Derinlemesine görüntü**
+    - C-) Çekim
+    - D-) Zahiri görüntü
+    - E-) Mercek yapısı
+
+    > **Açıklama:** Derinlemesine görüntü işlemi çok yakındaki bir objeyle uzaktaki objenin aynı netlikte görülebilmesidir.
+
+    ***
 1. 1806 yılında Thomas Wollaston tarafından bulunan ve ressamların manzara sahnesini hatasız bir şekilde resmetmesine yardımcı olan optik aygıt hangisidir?
     - A-) Fotoğraf makinesi
     - B-) Camera obscura
@@ -10712,6 +10793,16 @@
     > **Açıklama:** Aristoteles'e göre zaman, önce ve sonraya göre devinimin/hareketin sayısıdır. Bireylerin, zihinlerinde bir şey değişmediğinde ya da herhangi bir değişimi fark etmediklerinde zamanın da geçmediğini düşünmektedir. hareket olmaksızın tek başına var olabilmesi olanaklı değildir. Doğru cevap B'dir.
 
     ***
+1. "Zaman bir nokta üzerinden diğer bir nokta üzerine hareket eden kesintisiz, dinamik ve döngüsel olmayan şeydir." Görüşü kime aittir?
+    - **Cevap A-) Henri Bergson**
+    - B-) Kant
+    - C-) Platon
+    - D-) Aristoteles
+    - E-) Einstein
+
+    > **Açıklama:** Henri Bergson ise, göre, zaman bir nokta üzerinden diğer bir nokta üzerine hareket eden kesintisiz, dinamik ve döngüsel olmayan şeydir. İki farklı anlayışı olduğunu savunan Bergson için, birincisi; bireyin içinde var olan ve sezgi yoluyla elde edilen süre, ikincisi ise nesnel dünyanın yansıması olarak araya “mekân fikri sokulan süre”olduğunu ifade eder. Doğru cevap A'dır.
+
+    ***
 1. "Mutlak zaman" görüşünü savunan düşünür hangisidir?
     - A-) Platon
     - B-) Aristoteles
@@ -10720,6 +10811,16 @@
     - E-) Einstein
 
     > **Açıklama:** Zaman anlayışı göreli ve mutlak zaman olarak da ele alınmaktadır. Newton, mutlak zaman görüşünü savunmaktadır. Newton bu yaklaşımı çerçevesinde, mutlak ve evrensel zamanın ölçülebilir, hesaplanabilir olduğunu ve zamanın temelde dışsal bir öğeden bağımsız olarak aktığını belirtir. Doğru cevap D'dir.
+
+    ***
+1. * Görecelik kuramı<br />* 20. yüzyıl<br />* Picasso ve Braque<br />* Zaman-Nesne<br />Yukarıda verilen bilgiler hangi tarihi gelişme ile ilişkilidir?
+    - A-) Rönesans
+    - B-) Modernizm
+    - C-) Endüstri devrimi
+    - D-) Romantizm
+    - **Cevap E-) Kübist Devrim**
+
+    > **Açıklama:** 20\. Yüzyılında, Braque ve Picasso gibi sanatçıların perspektif bozumu ile Kübist Devrim ortaya çıkmıştır. Böylece, nesnelerin fiziksel özelliklerinin yanına zaman kavramı da eklenmiştir. Bu yaklaşım, Einstein’ın görelilik kuramı ile ilişkilidir. Doğru cevap E'dir.
 
     ***
 1. Aşağıdakilerden hangisi "şimdiyi" statik olarak resmetmektedir?
@@ -10812,6 +10913,16 @@
     - E-) Astronomik zaman
 
     > **Açıklama:** Kurgusal zaman; filmde geçen bir zaman diliminin, öznel çekimlerle ya da kurgu yoluyla gerçek zamana göre kısaltılması veya uzatılmasıdır. Doğru cevap A'dır.
+
+    ***
+1. Hareket-imgenin sinemada olay örgüsüne dayandığını iddia eden düşünür aşağıdakilerden hangisidir?
+    - A-) Bergson
+    - B-) Einstein
+    - **Cevap C-) Deleuze**
+    - D-) Tarkovski
+    - E-) Balsom
+
+    > **Açıklama:** Deleuze hareket-imgenin olay örgüsüne dayandığını iddia etmiştir. Zamanimge ise, Deleuze için yeni bir algılama yoludur. Deleuze, Bergson’dan süre ve sezgi kavramlarını ödünç alarak zaman-imge kavramını geliştirmiştir. Doğru cevap C'dir.
 
     ***
 1. "Modern öncesi dönemde zaman hesabı, zamanı daima uzama bağlamakta, bu nedenle de kesinlikten uzak ve değişken olmaktadır." Bu görüşü belirten düşünür aşağıdakilerden hangisidir?
@@ -11202,6 +11313,22 @@
     - E-) Öznel zaman
 
     > **Açıklama:** Biyolojik saat, alışkanlıklara göre kurulur. Çoğu zaman uyanmak için kurduğumuz saatin alarmı çalmadan biraz önce uyanırız. Biyolojik saat, bize kalkma zamanının geldiğini söylemiştir. Canlıların uyuma uyanma, yeme içme saatini değiştirmesi hâlinde biyolojik saatte yeni programa göre kendisini ayarlayacaktır. Doğru cevap A'dır.
+
+    ***
+1. Aşağıdakilerden hangisi zamanı diğer kaynaklardan (para, insan gücü, ham madde vb.) ayıran özelliklerinden biri değildir?
+    - A-) Zaman ancak içinde bulunulan an tüketilebilir.
+    - B-) Zaman ikame edilemez.
+    - **Cevap C-) Zaman yenilenebilir.**
+    - D-) Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz.
+    - E-) Zaman para gibi borç alınıp verilemez.
+
+    > **Açıklama:** Zamanı diğer kaynaklardan ayıran özellikler şunlardır;
+    > * Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz yani zamanın ileride gereksinim duyulduğunda kullanılmak üzere depolanması olanaksızdır.
+    > * Zaman ancak içinde bulunulan an tüketilebilir. Zaman gerektiğinde başkaları tarafından kullanılmak üzere devredilemez.
+    > * Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir.
+    > * Zaman yenilenemez. Bir örgüt ürettiği mal, hizmet ve düşüncenin bir kısmını, tekrar kendisi için girdi olarak kullanır ancak kullanılan zamanın ne doğal yolla ne de üretim yoluyla yerine konulması, yeniden üretilmesi mümkün değildir.
+    > * Zaman para gibi borç alınıp verilemez ancak bir işi para karşılığında başkasına yaptırmak da bir bakıma zamanın satın almak demektir.
+    > Doğru cevap C'dir.
 
     ***
 1. Algılanılan, hissedilen zaman aşağıdakilerden hangisidir?
@@ -11807,6 +11934,16 @@
     > **Açıklama:** Zaman kavramına ilişkin görüş belirten ilk isimler arasında Platon ve Aristoteles yer almaktadır. Platon’a göre zaman, zihnin varlıkları bütünlüklü olarak, anında kavrayamamasının sonucunda meydana gelmiştir. Zaman, idealar dünyasının sadece bir taklididir. Çünkü idealar dünyası değişmez ve zaman dışıdır. Buna göre doğru cevap A'dır.
 
     ***
+1. Zamanın nesnel dünyadan kazanılmış bir şey olmadığını ancak insanın nesnel dünyayı algılamasının temel şartı olduğunu dile getiren, öznel ve ideal olduğunu söyleyen düşünür aşağıdakilerden hangisidir?
+    - A-) Aristoteles
+    - B-) Platon
+    - **Cevap C-) Kant**
+    - D-) Bergson
+    - E-) Einstein
+
+    > **Açıklama:** Zaman konusunda görüş bildiren bir diğer düşünür olan Kant ise, zamanın nesnel dünyadan kazanılmış bir şey olmadığını ancak insanın nesnel dünyayı algılamasının temel şartı olduğunu dile getirir. Kant’a göre zaman öznel ve idealdir. Doğru cevap C'dir.
+
+    ***
 1. Saate ve/veya takvime bağlı olarak ölçülebilen, gözlenebilen, takip edilebilen zaman biçimi aşağıdakilerden hangisidir?
     - **Cevap A-) Objekjtif zaman**
     - B-) Geçmiş zaman
@@ -11978,6 +12115,16 @@
     > **Açıklama:** Mekân ve hareketle ilişkili olarak fotoğraf makinesi nesneyi şimdiki zamanında dinamik bir şey olarak değil statik bir şey olarak resmeder. Yani an’ı dondurur
 
     ***
+1. "Saate ve/veya takvime bağlı (saat, gün, hafta, ay) olarak ölçülebilen, gözlenebilen, takip edilebilen zaman" olarak tanımlanan kavram aşağıdakilerden hangisidir?
+    - A-) Geçmiş Zaman
+    - B-) Şimdiki Zaman
+    - C-) Gelecek Zaman
+    - **Cevap D-) Objektif Zaman**
+    - E-) Subjektif Zaman
+
+    > **Açıklama:** Herkesin eşit şekilde sahip olduğu zamana ilişkin bir diğer ayrımı; Objektif zaman (nesnel zaman) ve subjektif zaman (öznel zaman) ayrımıdır. Objektif zaman, saate ve/veya takvime bağlı (saat, gün, hafta, ay) olarak ölçülebilen, gözlenebilen, takip edilebilen zamandır.
+
+    ***
 1. Zaman ile ilgili olarak; "Zaman,zihnin varlıkları bütünlüklü olarak, anında kavrayamamasının sonucunda meydana gelmiştir. Zaman, idealar dünyasının<br />sadece bir taklididir. Çünkü idealar dünyası değişmez ve zaman dışıdır." şeklinde görüş belirten düşünür aşağıdakilerden hangisidir?
     - A-) Aristoteles
     - **Cevap B-) Platon**
@@ -12147,14 +12294,14 @@
     > **Açıklama:** Bergson açısından sinematografik metot, biricik metottur ve bilginin akışıyla eylemlerin akışını birbirine uydurarak pratik hayata hâkim olmamızı sağlar. Dolayısıyla cevap B şıkkıdır.
 
     ***
-1. Daha çok bilim kurgu filmlerde görülen, nasıl ve ne zaman olduğu belli olmayan zaman türüne ne ad verilir ?
+1. Daha çok bilim kurgu filmlerde görülen, nasıl ve ne zaman olduğu belli olmayan zaman türüne ne ad verilir ?
     - A-) Reel zaman
     - B-) Kurgusal zaman
     - **Cevap C-) Hayali zaman**
     - D-) Süjesel zaman
     - E-) Algılanan zaman
 
-    > **Açıklama:** Hayali zaman, daha çok bilim kurgu filmlerde görülen, nasıl ve ne zaman olduğu belli olmayan zaman türüdür. Dolayısıyla cevap C şıkkıdır.
+    > **Açıklama:** Hayali zaman, daha çok bilim kurgu filmlerde görülen, nasıl ve ne zaman olduğu belli olmayan zaman türüdür. Dolayısıyla cevap C şıkkıdır.
 
     ***
 1. Filmde geçen bir zaman diliminin, öznel çekimlerle ya da kurgu yoluyla gerçek zamana göre kısaltılması veya uzatılmasına ne denilir ?

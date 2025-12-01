@@ -12,8 +12,7 @@
         "D": "<p>1931</p>",
         "E": "<p>1937</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596186,
@@ -28,8 +27,7 @@
         "D": "<p>Arnheim</p>",
         "E": "<p>Charlie Chaplin</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596190,
@@ -44,8 +42,7 @@
         "D": "<p>Öyküsel olmayan ses</p>",
         "E": "<p>Ekran dışı ses</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596195,
@@ -60,8 +57,7 @@
         "D": "<p>16bit 48.8kHZ</p>",
         "E": "<p>16bit 44kHZ</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596200,
@@ -76,8 +72,7 @@
         "D": "<p>ADC</p>",
         "E": "<p>WAV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596206,
@@ -92,8 +87,7 @@
         "D": "<p>Mikrofon Simgesi (Voice Over Record)</p>",
         "E": "<p>Add - Remove Keyframe</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596212,
@@ -108,8 +102,7 @@
         "D": "<p>Bütün ses kanalları arasındaki ses seviye dengeleri aynı pencereden ayarlanabilir.</p>",
         "E": "<p>Audio - 1 yazılı etiket ile ses kanal isimleri değiştirilebilir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596225,
@@ -124,8 +117,7 @@
         "D": "<p>Ses kazanç ayarı seçilen ses klibinin tüm ses seviyesini etkiler.</p>",
         "E": "<p>Efekt kontrol merkezinden ses kanal seviyeleri ayarlanabilir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596235,
@@ -140,8 +132,7 @@
         "D": "<p>Fade - in</p>",
         "E": "<p>Fade - out</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596247,
@@ -156,7 +147,6 @@
         "D": "<p>Clarity</p>",
         "E": "<p>EQ</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

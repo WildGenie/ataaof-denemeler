@@ -12,8 +12,7 @@
         "D": "<p>Septimus Severus</p>",
         "E": "<p>Aziz Petrus</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936133,
@@ -28,8 +27,7 @@
         "D": "<p>Gotlar Sütunu</p>",
         "E": "<p>Obelisk</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936137,
@@ -44,8 +42,7 @@
         "D": "<p>Tessera</p>",
         "E": "<p>Ankostik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936150,
@@ -60,8 +57,7 @@
         "D": "<p>Lüster</p>",
         "E": "<p>Triptikon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936159,
@@ -76,8 +72,7 @@
         "D": "<p>Ortaköy Camii </p>",
         "E": "<p>Eyüp Sultan Camii </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936161,
@@ -92,8 +87,7 @@
         "D": "<div class=\"page\" title=\"Page 23\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Triptikon</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 23\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kathedra</p> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936173,
@@ -108,8 +102,7 @@
         "D": "<p><span class=\"fontstyle0\">726­ - 842</span> </p>",
         "E": "<p><span class=\"fontstyle0\">842­ - 1204</span> </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936182,
@@ -124,8 +117,7 @@
         "D": "<p>324-527</p>",
         "E": "<p>527-565</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936197,
@@ -140,8 +132,7 @@
         "D": "Deyrülzafaran Manastırı Kilisesi",
         "E": "Meryemana Kilisesi ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936216,
@@ -156,8 +147,7 @@
         "D": "Dura-Europos Ev Kilisesi",
         "E": "Konstantinoz Lips Manastırı Kilisesi",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936250,
@@ -172,8 +162,7 @@
         "D": "Mikhael Paleologos’un 1261’de İstanbul’u Haçlılardangeri alması",
         "E": "7. yüzyılda Bizanslıların Anadolu ve Balkanlar’da toprak kaybetmesi",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936259,
@@ -188,8 +177,7 @@
         "D": "Koimesis",
         "E": "Üç Müneccim Kralın Tapınması",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936335,
@@ -204,8 +192,7 @@
         "D": "<p>Obelisk</p>",
         "E": "<p>Teodosios Sütunu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936348,
@@ -220,8 +207,7 @@
         "D": "<p>Tessera</p>",
         "E": "<p>Kantharos</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936393,
@@ -236,8 +222,7 @@
         "D": "<p>İznik Koimesis Kilisesi </p> ",
         "E": "<p>Ayasofya Kilisesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936410,
@@ -252,8 +237,7 @@
         "D": "<p>Katedral</p>",
         "E": "<p>Bazilika</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936460,
@@ -268,8 +252,7 @@
         "D": "<p> Geç Antik dönem</p>",
         "E": "<p>Hanedanlık dönemi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936473,
@@ -284,8 +267,7 @@
         "D": "<p>Sır</p>",
         "E": "<p>Slip boya</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936475,
@@ -300,8 +282,7 @@
         "D": "<p>Geniş oyma tekniği</p>",
         "E": "<p>Bakır boya ile bezeme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936477,
@@ -316,8 +297,7 @@
         "D": "<p>Korintos</p> ",
         "E": "<p>Rodos</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936116,
@@ -332,8 +312,7 @@
         "D": "<p>Hristiyan yaşam tarzına aykırı görüldüğünden</p>",
         "E": "<p>Müslüman yaşam tarzı olduğundan</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936147,
@@ -348,8 +327,7 @@
         "D": "<p>Koimesis</p>",
         "E": "<p>Metamorphosis</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936183,
@@ -364,8 +342,7 @@
         "D": "<div class=\"page\" title=\"Page 6\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Notitia Urbis Constantinopolitanae</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 14\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Metamorphosis</p> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936190,
@@ -380,8 +357,7 @@
         "D": "<p>730</p>",
         "E": "<p>858</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936195,
@@ -396,8 +372,7 @@
         "D": "Atriumlu Bazilika",
         "E": "Transeptli Bazilika",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936249,
@@ -412,8 +387,7 @@
         "D": "II. Basileos",
         "E": "II. Teodosios",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936253,
@@ -428,8 +402,7 @@
         "D": "Sergios Bakkhos Kilisesi",
         "E": "Trabzon Ayasofyası",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936255,
@@ -444,8 +417,7 @@
         "D": "Eski Tokalı Kilisesi'nde yer alan Su Deneyi sahnesi",
         "E": "Khora Manastırı Kilisesi'nde yer alan  Koimesis sahnesi",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936256,
@@ -460,8 +432,7 @@
         "D": "Havariler",
         "E": "Meryem",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936257,
@@ -476,8 +447,7 @@
         "D": "Selanik Aziz Demetrios Kilisesi",
         "E": "Kıbrıs Angeloktistos Kilisesi",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936264,
@@ -492,8 +462,7 @@
         "D": "<p>Orta Bizans.</p>",
         "E": "<p>Geç Bizans.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936298,
@@ -508,8 +477,7 @@
         "D": "<p>Tempera</p>",
         "E": "<p>ikona</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936304,
@@ -524,8 +492,7 @@
         "D": "<p>Günümüz Haseki semtidir.</p>",
         "E": "<p>Günümüz Sarayburnu'ndadır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936325,
@@ -540,8 +507,7 @@
         "D": "<p>II. Teodosios - (408-413)</p>",
         "E": "<p>II. Claudius - (268-270)</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936338,
@@ -556,8 +522,7 @@
         "D": "<p>Milion Taşı</p>",
         "E": "<p>Gotlar Sütunu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936357,
@@ -572,8 +537,7 @@
         "D": "<p>İkonaklazma</p> ",
         "E": "<p>Realizm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936372,
@@ -588,8 +552,7 @@
         "D": "<p>İstanbul’un Romalılardan geri alınmasıyla başlayıp, Osmanlılara geçmesine kadar süren dönemi kapsamaktadır.</p>",
         "E": "<p>İstanbul’un Cenevizlilerden geri alınmasıyla başlayıp, Osmanlılara geçmesine kadar süren dönemi kapsamaktadır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936409,
@@ -604,8 +567,7 @@
         "D": "<p>Lausos Sarayı</p>",
         "E": "<p>Antiochus Sarayı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936431,
@@ -620,8 +582,7 @@
         "D": "<p>I- Ajur</p>\n<p>II-&nbsp;Sgraffito</p>\n<p>III-&nbsp;R&ouml;liker</p>",
         "E": "<p>I- Haddeleme</p>\n<p>II- Lavi</p>\n<p>III- Staurotek</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936474,
@@ -636,8 +597,7 @@
         "D": "<p>Kobalt</p>",
         "E": "<p>Mangan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936175,
@@ -652,8 +612,7 @@
         "D": "<p><span class=\"fontstyle0\">Rhegion Sarayı</span></p>",
         "E": "<p><span class=\"fontstyle0\">Magnaura Sarayı</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936202,
@@ -668,8 +627,7 @@
         "D": "Vaftiz",
         "E": "Fresko",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936219,
@@ -684,8 +642,7 @@
         "D": "Vaftizhane",
         "E": "Martyrium",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936227,
@@ -700,8 +657,7 @@
         "D": "1071 Malazgirt",
         "E": "1079 Malazgirt",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936242,
@@ -716,8 +672,7 @@
         "D": "İznik Ayasofya Kilisesi",
         "E": "Selanik Ayasofya Kilisesi",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936244,
@@ -732,8 +687,7 @@
         "D": "Kırmızı Astarlı Seramikler",
         "E": "Zeuksippos Seramikleri",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936258,
@@ -748,8 +702,7 @@
         "D": "Makedonya Rönesansı",
         "E": "Laskarisler Dönemi",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936265,
@@ -764,8 +717,7 @@
         "D": "<p>Kıztaşı.</p>",
         "E": "<p>Teodosios Zafer Takı.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936320,
@@ -780,8 +732,7 @@
         "D": "<p>yüzükler</p>",
         "E": "<p>kemerler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936336,
@@ -796,8 +747,7 @@
         "D": "<p>Kıztaşı</p>",
         "E": "<p>Teodosios Sütunu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936345,
@@ -812,8 +762,7 @@
         "D": "<p>Paleologoslar Dönemi</p>",
         "E": "<p>Erken Hristiyan Dönemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936352,
@@ -828,8 +777,7 @@
         "D": "<p>Sadece II</p>",
         "E": "<p>I, II ve III </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936375,
@@ -844,8 +792,7 @@
         "D": "<p>Dura Europos’taki (Suriye-Salihiye) bir ev-kilise</p>",
         "E": "<p>Zeuxippos Hamamı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936406,
@@ -860,8 +807,7 @@
         "D": "<p>Ökaristi</p>",
         "E": "<p>Laskaris</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936413,
@@ -876,8 +822,7 @@
         "D": "<p>Emaye</p>",
         "E": "<p>İkona</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936421,
@@ -892,8 +837,7 @@
         "D": "<p>Kilise</p>",
         "E": "<p>Ayin</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936472,
@@ -908,8 +852,7 @@
         "D": "<p>Röliker</p>",
         "E": "<p>Staurotek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936152,
@@ -924,8 +867,7 @@
         "D": "<p>Hristiyan </p>",
         "E": "<p>Türk </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936189,
@@ -940,8 +882,7 @@
         "D": "<div class=\"page\" title=\"Page 22\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sgrafitto</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 21\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kalis</p> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936193,
@@ -956,8 +897,7 @@
         "D": "333 - 1357",
         "E": "345 - 1443",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936277,
@@ -972,8 +912,7 @@
         "D": "<p>Sgrafitto</p>",
         "E": "<p>İkona</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936294,
@@ -988,8 +927,7 @@
         "D": "<p>Balkanlarda'ki slav istilası</p>",
         "E": "<p>İmparatorluğun doğu ve batı olarak ayrılması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936297,
@@ -1004,8 +942,7 @@
         "D": "<p>Naos</p>",
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Pastoforium</p> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936314,
@@ -1020,8 +957,7 @@
         "D": "<p> Kubbeli Bazili­ka</p>",
         "E": "<p>Transeptli Bazilika</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936318,
@@ -1036,8 +972,7 @@
         "D": "<p>Boya pigmentlerinin sıçratılması ile üretilen kaplar</p>",
         "E": "<p>Taç yaprağı dekorlu kaplar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936322,
@@ -1052,8 +987,7 @@
         "D": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Haseki semtinde bulunan Arcadius Forumunda</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Şehzadebaşı-­Laleli arasında olduğu tahmin edilen Filadelfion isimli meydanında</p> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936351,
@@ -1068,8 +1002,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>Sadece III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936371,
@@ -1084,8 +1017,7 @@
         "D": "<p>Sultanahmed Camii</p>",
         "E": "<p>Galata Kulesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936399,
@@ -1100,8 +1032,7 @@
         "D": "<p>Ihlara, Ağaçaltı Kilisesi </p> ",
         "E": "<p>Khora Manastırı (Kariye Camii) Kilisesi </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936417,
@@ -1116,8 +1047,7 @@
         "D": "<p>Mozaik</p>",
         "E": "<p>İkona</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936458,
@@ -1132,8 +1062,7 @@
         "D": "<p>Pantokrator Manastırı</p>",
         "E": "<p>Kiborion Manastırı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936465,
@@ -1148,8 +1077,7 @@
         "D": "<p> II ve III</p>",
         "E": "<p> I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936128,
@@ -1164,8 +1092,7 @@
         "D": "<p>Ayasofya Kilisesi</p>",
         "E": "<p>Oniki Havari Kilisesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936129,
@@ -1180,8 +1107,7 @@
         "D": "<p>Isavrion</p>",
         "E": "<p>Rönesans</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936157,
@@ -1196,8 +1122,7 @@
         "D": "<div class=\"page\" title=\"Page 5\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Mangana Sarayı</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 5\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Tonoz</p> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936169,
@@ -1212,8 +1137,7 @@
         "D": "<p>Aziz Thedore Devri</p>",
         "E": "<p>Georgios Devri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936178,
@@ -1228,8 +1152,7 @@
         "D": "<p><span class=\"fontstyle0\">Nea Kilisesi</span></p>",
         "E": "<p><span class=\"fontstyle0\">Konstatinos Lips Manastırı Kilisesi</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936184,
@@ -1244,8 +1167,7 @@
         "D": "<p>Forum Bovis</p>",
         "E": "<p>Filadelfion Forumu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936191,
@@ -1260,8 +1182,7 @@
         "D": "<div class=\"page\" title=\"Page 12\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Trabzon Ayasofya Kilisesi</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 11\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Myrelion Manastırı Kilisesi</p> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936206,
@@ -1276,8 +1197,7 @@
         "D": "Galeri",
         "E": "Apsis",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936237,
@@ -1292,8 +1212,7 @@
         "D": "mühür, fırça",
         "E": "serigrafi, mühür",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936260,
@@ -1308,8 +1227,7 @@
         "D": "Sina Dağı Azize Katherina Manastırı",
         "E": "İstanbul İonnes Studios Manastırı",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936332,
@@ -1324,8 +1242,7 @@
         "D": "<p>Makedonya</p>",
         "E": "<p>Laskaris</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936334,
@@ -1340,8 +1257,7 @@
         "D": "<p>Konstantinos Sütunu</p>",
         "E": "<p>Milion Taşı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936347,
@@ -1356,8 +1272,7 @@
         "D": "<p>Sadece II</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936358,
@@ -1372,8 +1287,7 @@
         "D": "<p>Arcadius Forumu</p> ",
         "E": "<p>Filadelfion</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936454,
@@ -1388,8 +1302,7 @@
         "D": "<p>Mese</p>",
         "E": "<p>Milion Taşı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936461,
@@ -1404,8 +1317,7 @@
         "D": "<p> Milion Taşı</p>",
         "E": "<p> Gotlar Sütunu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936117,
@@ -1420,8 +1332,7 @@
         "D": "<p>iki katlı geniş avlulu kubbeli yapılardır.</p>",
         "E": "<p>Mezarlık içine yapılmış mistik yapılardır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936126,
@@ -1436,8 +1347,7 @@
         "D": "<p>Büyük Saray</p>",
         "E": "<p>Oniki Havari Kilisesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936143,
@@ -1452,8 +1362,7 @@
         "D": "<p>Zafer S&uuml;tunu</p>",
         "E": "<p>Obelisk</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936172,
@@ -1468,8 +1377,7 @@
         "D": "<p><span class=\"fontstyle0\">Laskaris </span></p>",
         "E": "<p><span class=\"fontstyle0\">Paleologos </span></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936212,
@@ -1484,8 +1392,7 @@
         "D": "Erken Bizans Dönemi",
         "E": "Latin İşgali Dönemi",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936214,
@@ -1500,8 +1407,7 @@
         "D": "Kapadokya",
         "E": "Napoli",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936280,
@@ -1516,8 +1422,7 @@
         "D": "<p>Fildişi eserler.</p>",
         "E": "<p>Bronz eserler.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936286,
@@ -1532,8 +1437,7 @@
         "D": "<p>Nef.</p>",
         "E": "<p>Litürji.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936310,
@@ -1548,8 +1452,7 @@
         "D": "<p>Tempera</p>",
         "E": "<p>Kabartma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936329,
@@ -1564,8 +1467,7 @@
         "D": "<p>Geç Bizans Dönemi</p>",
         "E": "<p>Geç Antik Dönemi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936337,
@@ -1580,8 +1482,7 @@
         "D": "<p>Obelisk</p>",
         "E": "<p>Milion Taşı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936384,
@@ -1596,8 +1497,7 @@
         "D": "<p>Demir</p>",
         "E": "<p>Gümüş</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936424,
@@ -1612,8 +1512,7 @@
         "D": "<p>Ankostik</p>",
         "E": "<p>Mine</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936433,
@@ -1628,8 +1527,7 @@
         "D": "<p>Ge&ccedil; Antik ve Erken Hristiyan D&ouml;nemi</p>",
         "E": "<p>Makedonya S&uuml;lalesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936451,
@@ -1644,8 +1542,7 @@
         "D": "<p>910-1020</p>",
         "E": "<p>755-910</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936463,
@@ -1660,8 +1557,7 @@
         "D": "<p> Bazilika</p>",
         "E": "<p> Eksedra</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936127,
@@ -1676,8 +1572,7 @@
         "D": "<p>Polykandilion</p>",
         "E": "<p>Paten</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936138,
@@ -1692,8 +1587,7 @@
         "D": "<p>Sgrafitto</p>",
         "E": "<p>Lüster</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936174,
@@ -1708,8 +1602,7 @@
         "D": "<p>Kıztaşı</p>",
         "E": "<p>Gotlar Sütunu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936203,
@@ -1724,8 +1617,7 @@
         "D": "Yonca planlı",
         "E": "Tek nefli ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936274,
@@ -1740,8 +1632,7 @@
         "D": "<p>Akheiropoietos Bazilikası</p>",
         "E": "<p>Philippi Bazilikası</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936301,
@@ -1756,8 +1647,7 @@
         "D": "<p>Astar</p>",
         "E": "<div class=\"page\" title=\"Page 22\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Sgrafitto</p>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936307,
@@ -1772,8 +1662,7 @@
         "D": "<p>İnsula</p>",
         "E": "<p>Naos</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936331,
@@ -1788,8 +1677,7 @@
         "D": "<p>Tekstil sanatı</p>",
         "E": "<p>Seramik sanatı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936339,
@@ -1804,8 +1692,7 @@
         "D": "<p>Rhegion Sarayı</p>",
         "E": "<p>Brias Sarayı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936445,
@@ -1820,8 +1707,7 @@
         "D": "<p>Resim</p>",
         "E": "<p>İkonografi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936446,
@@ -1836,8 +1722,7 @@
         "D": "<p>Bezeme</p>",
         "E": "<div class=\"page\" title=\"Page 14\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Metamorphosis</p> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936459,
@@ -1852,8 +1737,7 @@
         "D": "<p>Lüster</p>",
         "E": "<p>Ökaristi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936480,
@@ -1868,8 +1752,7 @@
         "D": "<p>Milet</p> ",
         "E": "<p>Korinth</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936121,
@@ -1884,8 +1767,7 @@
         "D": "<p>seramik sanatında</p>",
         "E": "<p>minyatür sanatında</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936132,
@@ -1900,8 +1782,7 @@
         "D": "<p>Erken Bizans Dönemi</p>",
         "E": "<p>Erken Orta Çağ</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936225,
@@ -1916,8 +1797,7 @@
         "D": "II. Teodosios",
         "E": "II. Konstantios",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936236,
@@ -1932,8 +1812,7 @@
         "D": "Kronikler",
         "E": "İmparatorluk Şermanları",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936243,
@@ -1948,8 +1827,7 @@
         "D": "Kalis",
         "E": "İmparatorluk Fermanları",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936267,
@@ -1964,8 +1842,7 @@
         "D": "<p>Pantepoptes Manastırı Kilisesi.</p>",
         "E": "<p>Khora Manastırı Kilisesi.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936273,
@@ -1980,8 +1857,7 @@
         "D": "<p>Bizans İmparatorluğu</p>",
         "E": "<p>Roma İmparatorluğu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936288,
@@ -1996,8 +1872,7 @@
         "D": "<p>İkon.</p>",
         "E": "<p>Tessera</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936289,
@@ -2012,8 +1887,7 @@
         "D": "<p>Kütahya.</p>",
         "E": "<p>Karacabey.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936296,
@@ -2028,8 +1902,7 @@
         "D": "<p>Narteks</p>",
         "E": "<p>Altar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936319,
@@ -2044,8 +1917,7 @@
         "D": "<p>heykel</p>",
         "E": "<p>ikona</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936340,
@@ -2060,8 +1932,7 @@
         "D": "<p>Rhegion Sarayı</p>",
         "E": "<p>Myrelaion Sarayı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936364,
@@ -2076,8 +1947,7 @@
         "D": "<p>Altın</p>",
         "E": "<p>Kalay</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936366,
@@ -2092,8 +1962,7 @@
         "D": "<p>Selanik</p> ",
         "E": "<p>Efes</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936392,
@@ -2108,8 +1977,7 @@
         "D": "<p>Bazilika </p> ",
         "E": "<p>Nef </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936401,
@@ -2124,8 +1992,7 @@
         "D": "<p>i-I. Konstantinos,  Hz. Meryem ve çocuk İsa ii-Helenistik üslup</p>",
         "E": "<p>i-Hz. Meryem ve Baş melek ii-Klasik üslup</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936404,
@@ -2140,8 +2007,7 @@
         "D": "<p>8.No'lu Oktateukh</p>",
         "E": "<p>Meteria Medica</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936455,
@@ -2156,8 +2022,7 @@
         "D": "<p>Yılanlı Sütun</p>",
         "E": "<p>Zafer Sütunu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936123,
@@ -2172,8 +2037,7 @@
         "D": "<p>Katakomp</p>",
         "E": "<p>Naos</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936180,
@@ -2188,8 +2052,7 @@
         "D": "<p>Lüster</p>",
         "E": "<p><span class=\"fontstyle0\">Triptikon</span> </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936181,
@@ -2204,8 +2067,7 @@
         "D": "<p><span class=\"fontstyle0\">Mine Tekniği</span> </p>",
         "E": "<p><span class=\"fontstyle0\">Chamlevé Tekniği</span> </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936233,
@@ -2220,8 +2082,7 @@
         "D": "Aziz Saint Joseph Kilisesi",
         "E": "Myra’daki (Demre) Aziz Nikolaos Kilisesi",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936241,
@@ -2236,8 +2097,7 @@
         "D": "İbadet için  yer altında toplanılan salon",
         "E": "Kiliseye bağlı vaftiz mekanı",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936262,
@@ -2252,8 +2112,7 @@
         "D": "Siyah",
         "E": "Beyaz",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936283,
@@ -2268,8 +2127,7 @@
         "D": "<p>Zafer Sütunu</p>",
         "E": "<p>Zafer Takı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936359,
@@ -2284,8 +2142,7 @@
         "D": "<p>Çemberlitaş</p> ",
         "E": "<p>Teodosios</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936385,
@@ -2300,8 +2157,7 @@
         "D": "<p>I, II, III, IV, V</p>",
         "E": "<p>II, IV, V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936394,
@@ -2316,8 +2172,7 @@
         "D": "<p>Tessera</p> ",
         "E": "<p>Seramik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936418,
@@ -2332,8 +2187,7 @@
         "D": "<p>Yılanlı merdiven</p>",
         "E": "<p>Sütun başı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936427,
@@ -2348,8 +2202,7 @@
         "D": "<p>Üç Kubbeli </p>",
         "E": "<p>Dört Transeptli </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936478,
@@ -2364,8 +2217,7 @@
         "D": "<p>Maden</p> ",
         "E": "<p>Ahşap</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936479,
@@ -2380,8 +2232,7 @@
         "D": "<p>Maden</p> ",
         "E": "<p>Ahşap</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936170,
@@ -2396,8 +2247,7 @@
         "D": "<p>Bakır</p>",
         "E": "<p>Fildişi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936201,
@@ -2412,8 +2262,7 @@
         "D": "Philippi Bazilika",
         "E": "Beyaz Manastır",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936217,
@@ -2428,8 +2277,7 @@
         "D": "Dehlizli Tip",
         "E": "Helenistik Bazilika",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936268,
@@ -2444,8 +2292,7 @@
         "D": "<p>Kanakaria Kilisesi.</p>",
         "E": "<p>Aziz Demetrios Kilisesi.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936279,
@@ -2460,8 +2307,7 @@
         "D": "<p>Trabzon</p>",
         "E": "<p>Van</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936305,
@@ -2476,8 +2322,7 @@
         "D": "<p>Rhegion Sarayı</p>",
         "E": "<p>Laskarisler Sarayı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936311,
@@ -2492,8 +2337,7 @@
         "D": "<p>7-9 Yüzyıl</p>",
         "E": "<p>11-12 Yüzyıl</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936354,
@@ -2508,8 +2352,7 @@
         "D": "<p>2</p>",
         "E": "<p>1</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936374,
@@ -2524,8 +2367,7 @@
         "D": "<p>Girit Antonios Manastırı</p>",
         "E": "<p>Tirilye Üç Papazlar Manastırı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936387,
@@ -2540,8 +2382,7 @@
         "D": "<p>Nymphaion Sarayı</p>",
         "E": "<p>Myrelaion Sarayı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936403,
@@ -2556,8 +2397,7 @@
         "D": "<p>Son Yargı</p>",
         "E": "<p>Koimesis</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936422,
@@ -2572,8 +2412,7 @@
         "D": "<p>Payanda</p>",
         "E": "<p>Şapel</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936439,
@@ -2588,8 +2427,7 @@
         "D": "<p>Narteks</p>",
         "E": "<p><span style=\"left: 753.363px; top: 148.56px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.690171);\"><span style=\"left: 713.386px; top: 1040.91px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.669878);\">Nef</span></span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936467,
@@ -2604,8 +2442,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936136,
@@ -2620,8 +2457,7 @@
         "D": "<p>Şapel</p>",
         "E": "<p>Transept</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936145,
@@ -2636,8 +2472,7 @@
         "D": "<p>Kilisenin doğusunda bulunan ve ibadet yönünü gösteren genellikle dışa taşkın içten yarım daire olan bölümdür.</p>",
         "E": "<p>Apsisin kuzey ve güneyindeki kapalı mekânlardır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936211,
@@ -2652,8 +2487,7 @@
         "D": "Dört atlı yarış arabası",
         "E": "İmparator figürleri",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936293,
@@ -2668,8 +2502,7 @@
         "D": "<p>Trak Kavimlerinin İstanbul'a göç etmesi</p>",
         "E": "<p>Bizans İmparatorluğu'nun bölümesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936302,
@@ -2684,8 +2517,7 @@
         "D": "<p>Kız taşı</p>",
         "E": "<p>Zafer Sütunu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936303,
@@ -2700,8 +2532,7 @@
         "D": "<p>İkonaklazma akımı Bizans'ın en parlak devridir.</p>",
         "E": "<p>Haçlılar Bizanslarla her zaman Müslümanlara karşı işbirliği içinde olmuştur.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936313,
@@ -2716,8 +2547,7 @@
         "D": "<p>Dikilitaş</p>",
         "E": "<p>Gotlar Sütunu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936344,
@@ -2732,8 +2562,7 @@
         "D": "<p>Sadece I</p>",
         "E": "<p>Sadece II</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936356,
@@ -2748,8 +2577,7 @@
         "D": "<p>Erken orta çağ dönemi</p> ",
         "E": "<p>Geç Bizans dönemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936432,
@@ -2764,8 +2592,7 @@
         "D": "<p>Kronikler</p>",
         "E": "<p>Bilimsel El Yazmaları</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936139,
@@ -2780,8 +2607,7 @@
         "D": "<p>Oktateuch</p>",
         "E": "<p>Menelogya</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936142,
@@ -2796,8 +2622,7 @@
         "D": "<p>8.-12. yüzyıllar</p> ",
         "E": "<p>9.-11. yüzyıllar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936149,
@@ -2812,8 +2637,7 @@
         "D": "<p>Önemli dinî kişilerin kemiklerinin muhafaza edildiği kutulara denir.</p>",
         "E": "<p>İmparatorluk ile ilgili her şeyin günü gününe yazıldığı el yazmalarına denir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936188,
@@ -2828,8 +2652,7 @@
         "D": "<p>Pieta</p>",
         "E": "<p>İkona</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936218,
@@ -2844,8 +2667,7 @@
         "D": "İstanbul, Ayasofya Kilisesi",
         "E": "İstanbul, Küçük Ayasofya Kilisesi",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936295,
@@ -2860,8 +2682,7 @@
         "D": "<p>Geç Bizans Dönemi</p>",
         "E": "<p>Antik Yunan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936308,
@@ -2876,8 +2697,7 @@
         "D": "<p>Homilye</p>",
         "E": "<p>Pandantif</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936360,
@@ -2892,8 +2712,7 @@
         "D": "<p>Konstantinos dönemi</p> ",
         "E": "<p>Erken Bizans dönemi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936379,
@@ -2908,8 +2727,7 @@
         "D": "<p>Kubbeli Bazilika</p>",
         "E": "<p>Ahşap Örtülü Bazilika </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936400,
@@ -2924,8 +2742,7 @@
         "D": "<p>i-Dessis ii-fresko</p>",
         "E": "<p>i-Metamorphosis ii-mozaik </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936426,
@@ -2940,8 +2757,7 @@
         "D": "<p>Ayasofya</p>",
         "E": "<p>Koimesis </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936428,
@@ -2956,8 +2772,7 @@
         "D": "<p>I-Mozaik, II- Secco, III- Riton</p>",
         "E": "<p>I- Vitray,&nbsp;II- Akrilik, III-&nbsp;Kantharos</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936438,
@@ -2972,8 +2787,7 @@
         "D": "<p>Nef</p>",
         "E": "<p>Pastoforium</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936114,
@@ -2988,8 +2802,7 @@
         "D": "<p>Kız kulesi</p>",
         "E": "<p>Çemberli taş</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936140,
@@ -3004,8 +2817,7 @@
         "D": "<p>Ive II</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936163,
@@ -3020,8 +2832,7 @@
         "D": "<p>Geç Bizans Dönemi</p>",
         "E": "<p>Yakın Bizans Dönemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936285,
@@ -3036,8 +2847,7 @@
         "D": "<p>Gotlar Sütunu.</p>",
         "E": "<p>Hipodrom.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936355,
@@ -3052,8 +2862,7 @@
         "D": "<p>Aynı çağda yakın ilişkide bulunulan çevre ve ülkelerden alınan sanat etkileri</p> ",
         "E": "<p>İslam inancı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936362,
@@ -3068,8 +2877,7 @@
         "D": "<p>Aziz Demetrios Kilisesi</p> ",
         "E": "<p>İonnes Studios Manastırı Kilisesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936368,
@@ -3084,8 +2892,7 @@
         "D": "<p>Kartal</p> ",
         "E": "<p>Güvercin</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936381,
@@ -3100,8 +2907,7 @@
         "D": "<p>İkonakalzma sürecinin yaşanmış olması</p>",
         "E": "<p>Resimlerin genellikle dekoratif amaçlı mozaik tekniğiyle yapılmış olması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936398,
@@ -3116,8 +2922,7 @@
         "D": "<p>Beş nefli bazilika</p>",
         "E": "<p>Transeptli bazilika</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936423,
@@ -3132,8 +2937,7 @@
         "D": "<p>Peysaj</p>",
         "E": "<p>Ölüdoğa</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936434,
@@ -3148,8 +2952,7 @@
         "D": "<p>Khrysokepalos</p>",
         "E": "<p>Khora</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936154,
@@ -3164,8 +2967,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Makedonya</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Laskaris</p> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936192,
@@ -3180,8 +2982,7 @@
         "D": "Obelisk",
         "E": "Teodosios Zafer Takı ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936230,
@@ -3196,8 +2997,7 @@
         "D": "Esquilin Sarayı",
         "E": "Daşne Sarayı",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936239,
@@ -3212,8 +3012,7 @@
         "D": "Altın yaldız, emaye tekniği",
         "E": "Minai, sgrafitto tekniği",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936245,
@@ -3228,8 +3027,7 @@
         "D": "Erken Bizans Dönemi",
         "E": "Latin İşgali Dönemi",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936270,
@@ -3244,8 +3042,7 @@
         "D": "<p>Obelisk</p>",
         "E": "<p>Gotlar Sütunu </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936299,
@@ -3260,8 +3057,7 @@
         "D": "<div class=\"page\" title=\"Page 13\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Islak kireç sıva üzerine, ezildikten sonra su ya da su ve kireç bileşimi<br />bir bağlayıcı ile karıştırılan pigmentlerle yapılan resim.</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 18\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kiliselerde naos ve bemayı ayıran, üzerinde genellikle 12 Bayram sahnelerinin tasvir edildiği ikonaların asılı olduğu duvar.</p> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936396,
@@ -3276,8 +3072,7 @@
         "D": "<p>Chamlevé </p> ",
         "E": "<p>Kronik </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936429,
@@ -3292,8 +3087,7 @@
         "D": "<p>Ravenna</p>",
         "E": "<p>Kapadokya</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936435,
@@ -3308,8 +3102,7 @@
         "D": "<p>Antakya</p>",
         "E": "<p>İskenderiye</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936453,
@@ -3324,8 +3117,7 @@
         "D": "<p>Milet</p>",
         "E": "<p>Paris</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936179,
@@ -3340,8 +3132,7 @@
         "D": "<p><span class=\"fontstyle0\">Katholikon</span> </p>",
         "E": "<p><span class=\"fontstyle0\">Tromp</span> </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936238,
@@ -3356,8 +3147,7 @@
         "D": "Metropolis, Aphrodisias",
         "E": "Antakya, Anamur",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936246,
@@ -3372,8 +3162,7 @@
         "D": "Kapadokya",
         "E": "Napoli",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936292,
@@ -3388,8 +3177,7 @@
         "D": "<p>Sgrafitto.</p>",
         "E": "<p>Astar.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936388,
@@ -3404,8 +3192,7 @@
         "D": "<p>Helenistik</p> ",
         "E": "<p>Byzantion</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936397,
@@ -3420,8 +3207,7 @@
         "D": "<p>Hat sanatı</p>",
         "E": " <p>Seramik sanatı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936447,
@@ -3436,8 +3222,7 @@
         "D": "<div class=\"page\" title=\"Page 16\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Pantokrator İsa tasviri</p> </div> </div> </div>",
         "E": "<p>Üç Müneccim Kralın Tapınması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936456,
@@ -3452,8 +3237,7 @@
         "D": "<p>Konstantin</p>",
         "E": "<p>Iustanianus</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936134,
@@ -3468,8 +3252,7 @@
         "D": "<p>6-8. yy</p>",
         "E": "<p>13.yy sonrası</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936186,
@@ -3484,8 +3267,7 @@
         "D": "<div class=\"page\" title=\"Page 6\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Myrelaion Sarayı</p> </div> </div> </div>",
         "E": "<p>Nymphaion Sarayı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936224,
@@ -3500,8 +3282,7 @@
         "D": "Gotlar Sutunu",
         "E": "Çemberlitaş Sutunu",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936251,
@@ -3516,8 +3297,7 @@
         "D": "Paleologoslar",
         "E": "Komnenoslar",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936284,
@@ -3532,8 +3312,7 @@
         "D": "<p>Tiyatro.</p>",
         "E": "<p>Anfitiyatro.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936312,
@@ -3548,8 +3327,7 @@
         "D": "<p>Paten</p>",
         "E": "<p>İkonastasis</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936327,
@@ -3564,8 +3342,7 @@
         "D": "<p>Martyrion</p>",
         "E": "<p>Bazilika</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936391,
@@ -3580,8 +3357,7 @@
         "D": "<p>Gotlar Sütunu </p>",
         "E": "<p>Teodosios Zafer Takı </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936436,
@@ -3596,8 +3372,7 @@
         "D": "<p>I-II-III-IV-VI-VII-VIII-IX-XI</p>",
         "E": "<p>I-II-III-IV-V-VI-VII-VIII-IX-X-XI</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936141,
@@ -3612,8 +3387,7 @@
         "D": "<p>7-9. yüzyıllar arasında beyaz hamurlu seramiklerin üretimi son bulmuş ve  kırmızı astarlı seramikler ortaya çıkmıştır.</p>",
         "E": "<p>Bizans seramik sanatında beyaz hamurlu seramikler kendi içinde sırlı beyaz ve polikrom beyaz olmak üzere iki grup altında incelenmektedir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936213,
@@ -3628,8 +3402,7 @@
         "D": "Kırmızı Astarlı Seramikler",
         "E": "Zeuksippos Seramikler",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936215,
@@ -3644,8 +3417,7 @@
         "D": "Yeşu Rulosu",
         "E": "Paris Mezmuru",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936231,
@@ -3660,8 +3432,7 @@
         "D": "Blakherna Döneminde",
         "E": "Roma İmparatorluğu Döneminde",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936324,
@@ -3676,8 +3447,7 @@
         "D": "<p>Laskaris</p>",
         "E": "<p>İsavrian</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936343,
@@ -3692,8 +3462,7 @@
         "D": "<p>Apsis</p>",
         "E": "<p>Atrium</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936389,
@@ -3708,8 +3477,7 @@
         "D": "<p>Selanik Aizi Demetrios Kilisesi</p>",
         "E": "<p>İstanbul İonnes Studios Manastırı Kilisesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936420,
@@ -3724,8 +3492,7 @@
         "D": "<p>Duvar</p>",
         "E": "<p>Çevre çember</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936448,
@@ -3740,8 +3507,7 @@
         "D": "<div class=\"page\" title=\"Page 18\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İkona</p> </div> </div> </div> </div>",
         "E": "<p>Seramik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936164,
@@ -3756,8 +3522,7 @@
         "D": "<p>Paleologos akımı</p>",
         "E": "<p>Roma akımı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936300,
@@ -3772,8 +3537,7 @@
         "D": "<div class=\"page\" title=\"Page 20\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Polykandilion</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 20\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Staurotek</p> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936402,
@@ -3788,8 +3552,7 @@
         "D": "<p>i-Pantokrator İsa ii-Başkent üslubu</p>",
         "E": "<p>i-Apokrif İncil kaynaklı konular ii-Komnenoslar Dönemi üslubu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936441,
@@ -3804,8 +3567,7 @@
         "D": "<p>Karanlık dönem</p>",
         "E": "<p>Helenistik dönem</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936466,
@@ -3820,8 +3582,7 @@
         "D": "<p>Pandandif</p>",
         "E": "<p>Homilye</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936468,
@@ -3836,8 +3597,7 @@
         "D": "<p> İkona</p>",
         "E": "<p>Mine</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936485,
@@ -3852,8 +3612,7 @@
         "D": "<p>Tekfur Sarayı</p>",
         "E": "<p>Blakhernai Sarayı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936153,
@@ -3868,8 +3627,7 @@
         "D": "<p>7-8</p>",
         "E": "<p>1-3</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936199,
@@ -3884,8 +3642,7 @@
         "D": "Altar",
         "E": "Homilye",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936207,
@@ -3900,8 +3657,7 @@
         "D": "Küçük Ayasofya ",
         "E": "On İki Havari Kilisesi ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936223,
@@ -3916,8 +3672,7 @@
         "D": "<p>Roma yollarının başlangıç noktası</p>",
         "E": "<div class=\"page\" title=\"Page 5\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Alttan içbükey olmak üzere taş ya da tuğla ve harçla örülmüş yarım silindir biçiminde tavan</p>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936353,
@@ -3932,8 +3687,7 @@
         "D": "<p>Sadece II</p>",
         "E": "<p>Sadece I</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936378,
@@ -3948,8 +3702,7 @@
         "D": "<p>I, III, IV, V</p>",
         "E": "<p>I, II, IV, V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936476,
@@ -3964,8 +3717,7 @@
         "D": "<p>Halılar</p>",
         "E": "<p>İpek</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936168,
@@ -3980,8 +3732,7 @@
         "D": "<p>Selanik Aziz Demetrios</p>",
         "E": "<p>Eğirdir Gölü Niş</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936200,
@@ -3996,8 +3747,7 @@
         "D": "Gergedan",
         "E": "Geyik",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936247,
@@ -4012,8 +3762,7 @@
         "D": "Fildişi Takı",
         "E": "Bizans İpeği",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936254,
@@ -4028,8 +3777,7 @@
         "D": "Ravenna San Vitale Kilisesi (oktagon)",
         "E": "Aralarında bir fark yoktur.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936275,
@@ -4044,8 +3792,7 @@
         "D": "<p>Resim</p>",
         "E": "<p>Altar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936291,
@@ -4060,8 +3807,7 @@
         "D": "<p>Bilimsel El Yazmaları.</p>",
         "E": "<p>Müzik El Yazmaları.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936342,
@@ -4076,8 +3822,7 @@
         "D": "<p>Atrium</p>",
         "E": "<p>Narteks</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936369,
@@ -4092,8 +3837,7 @@
         "D": "<p>Cam sanatı</p> ",
         "E": "<p>İkona sanatı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936457,
@@ -4108,8 +3852,7 @@
         "D": "<p>Katakomp</p>",
         "E": "<p>Naos</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936365,
@@ -4124,8 +3867,7 @@
         "D": "<p>Bilimsel el yazmaları</p> ",
         "E": "<p>Kronolojik el yazmaları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936481,
@@ -4140,8 +3882,7 @@
         "D": "<p>Kalay</p>",
         "E": "<p>Kurşun</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936204,
@@ -4156,8 +3897,7 @@
         "D": "Magnaura Dönemi",
         "E": "Boukoleon Dönemi",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936269,
@@ -4172,8 +3912,7 @@
         "D": "<p>Duvar Resmi.</p>",
         "E": "<p>Taban mozaği.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936395,
@@ -4188,8 +3927,7 @@
         "D": "<p>Ankostik </p> ",
         "E": "<p>Mozaik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936407,
@@ -4204,8 +3942,7 @@
         "D": "<p>Geç Antik Dönem</p>",
         "E": "<p>Erken Hristiyan Dönemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936411,
@@ -4220,8 +3957,7 @@
         "D": "<p>Şapel</p>",
         "E": "<p>Manastır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936415,
@@ -4236,8 +3972,7 @@
         "D": "<div class=\"page\" title=\"Page 22\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Chamleve</p> </div> </div> </div>",
         "E": "<p>Sır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936130,
@@ -4252,8 +3987,7 @@
         "D": "<p>Staurotek</p>",
         "E": "<p>Paten</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936158,
@@ -4268,8 +4002,7 @@
         "D": "<div class=\"page\" title=\"Page 7\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Bazilika</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Nef</p> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936196,
@@ -4284,8 +4017,7 @@
         "D": "Katakomp ",
         "E": "Diakon ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936220,
@@ -4300,8 +4032,7 @@
         "D": "Konutlar",
         "E": "Bazilikalar",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936306,
@@ -4316,8 +4047,7 @@
         "D": "<p>Diakon</p>",
         "E": "<p>Pastoforium</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936412,
@@ -4332,8 +4062,7 @@
         "D": "<p>Tempera</p>",
         "E": "<p>İkonastatis</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936425,
@@ -4348,8 +4077,7 @@
         "D": "<p>Taş oyma kapılar</p>",
         "E": "<p>Bronz döküm kitap kapakları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936144,
@@ -4364,8 +4092,7 @@
         "D": "<p>Kıztaşı</p>",
         "E": "<p>Mese</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936146,
@@ -4380,8 +4107,7 @@
         "D": "<p>Konstatinos Lips Manastırı</p>",
         "E": "<p>Nea Kilisesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936155,
@@ -4396,8 +4122,7 @@
         "D": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Mese</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Zafer Takları</p> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936160,
@@ -4412,8 +4137,7 @@
         "D": "<div class=\"page\" title=\"Page 14\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Metamorphosis</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 14\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Tessera</p> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936240,
@@ -4428,8 +4152,7 @@
         "D": "Evler",
         "E": "Su kemerleri",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936390,
@@ -4444,8 +4167,7 @@
         "D": "<p>Bergama</p> ",
         "E": "<p>Milet</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936430,
@@ -4460,8 +4182,7 @@
         "D": "<p>Tessera</p>",
         "E": "<p>Passion</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936440,
@@ -4476,8 +4197,7 @@
         "D": "<p>Mısır</p>",
         "E": "<p>Mısır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936442,
@@ -4492,8 +4212,7 @@
         "D": "<p>Zafer sütunu</p>",
         "E": "<p>Obelisk</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936449,
@@ -4508,8 +4227,7 @@
         "D": "<div class=\"page\" title=\"Page 23\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Triptikon</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 22\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sgrafitto</p> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936151,
@@ -4524,8 +4242,7 @@
         "D": "<p>Antalya</p>",
         "E": "<p>İstanbul</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936176,
@@ -4540,8 +4257,7 @@
         "D": "<p>Katakomp</p>",
         "E": "<p>Bazilika</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936205,
@@ -4556,8 +4272,7 @@
         "D": "Katakomb ",
         "E": "Bazilika",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936235,
@@ -4572,8 +4287,7 @@
         "D": "İkona;, Azizler ve Azizlerin dinsel yaşamlarının canlandırıldığı  resimlerdir",
         "E": "İkona; İsa, Meryemin yaşamlarının canlandırıldığı taşınabilir nitelikte heykelciklerdir.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936321,
@@ -4588,8 +4302,7 @@
         "D": "<p>Su Yapıları</p>",
         "E": "<p>Katakomplar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936346,
@@ -4604,8 +4317,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936444,
@@ -4620,8 +4332,7 @@
         "D": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Pastoforium</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Litürji</p> </div> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936125,
@@ -4636,8 +4347,7 @@
         "D": "<p>Yılanlı Sütun</p>",
         "E": "<p>Tekfur Sarayı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936198,
@@ -4652,8 +4362,7 @@
         "D": "Uzun Kemer",
         "E": "Kovuk Kemer",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936326,
@@ -4668,8 +4377,7 @@
         "D": "<p>Kıztaşı</p>",
         "E": "<p>Çembelitaş Sütunu </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936330,
@@ -4684,8 +4392,7 @@
         "D": "<p>İkona</p>",
         "E": "<p>Ankostik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936361,
@@ -4700,8 +4407,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936135,
@@ -4716,8 +4422,7 @@
         "D": "<p>Narteks</p>",
         "E": "<p>Naos</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936165,
@@ -4732,8 +4437,7 @@
         "D": "<p>Paleologoslar Dönemi</p>",
         "E": "<p>Geç Antik Dönem</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936234,
@@ -4748,8 +4452,7 @@
         "D": "S. Apollinare in Nuova Kilisesi ile Ravenna San Vitale Kilisesinde",
         "E": "H. Stephanos Ki-lisesi ile Selanik Aziz Demetrios Ki-lisesinde",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936252,
@@ -4764,8 +4467,7 @@
         "D": "Yılanlı Sütun",
         "E": "Myrelion Manastırı Kilisesi",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936278,
@@ -4780,8 +4482,7 @@
         "D": "<p>Röliker</p>",
         "E": "<p>Tören Haçı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936370,
@@ -4796,7 +4497,891 @@
         "D": "<p>Cam</p> ",
         "E": "<p>Altın</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936171,
+        "UniteNo": 4,
+        "PageNumber": 121,
+        "AnswerExplanation": "<p>Bizans maden eserleri altın, gümüş, bakır, bronz, demir ve pirinç gibi malzemelerden üretilmiştir. Altın ve gümüş eserler cam, fildişi ve ipek gibi imparatorluğun lüks objeleri arasında sayılmaktadır. Altın malzeme taç, bilezik, yüzük, kemer, madalyon, kolye, küpe gibi süs eşyalarında tercih edilirken gümüş daha çok imparatorların hükümdarlık yıl dönümü kutlamalarında yapılan hediyelik eşyalarda ve Ökaristi Ayini’nde kullanılan litürjik maden eserlerin üretiminde tercih edilmiştir. Doğru yanıt A'dır. </p>",
+        "Title": "",
+        "Text": "<p>Taç, bilezik, yüzük, kemer, madalyon, kolye, küpe gibi süs eşyalarında hangi malzeme tercih edilirdi?</p>",
+        "A": "<p>Altın </p>",
+        "B": "<p>Gümüş</p>",
+        "C": "<p>Bakır</p>",
+        "D": "<p>Bronz</p>",
+        "E": "<p>Fildişi</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936261,
+        "UniteNo": 4,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Anıtsal resim sanatı, ikona ve el yazmalarını dönemlerine göre örnekler ile açıklayabilecek ",
+        "Text": "Aşağıdaki el yazmalarından hangisi diğerlerinden farklıdır?",
+        "A": "Viyana Dioskorides Meteria Medica",
+        "B": "Sinop İncili",
+        "C": "Viyana Genesis",
+        "D": "Rabbula İncili",
+        "E": "Cotton İncili",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936317,
+        "UniteNo": 4,
+        "PageNumber": 121,
+        "AnswerExplanation": "<p>Bizans maden eserleri altın, gümüş, bakır, bronz, demir ve pirinç gibi malzemelerden üretilmiştir. Altın ve gümüş eserler cam, fildişi ve ipek gibi imparatorluğun lüks objeleri arasında sayılmaktadır.</p>",
+        "Title": "<p>Bizans maden eserleri altın, gümüş, bakır, bronz, demir ve pirinç gibi malzemelerden üretilmiştir. Altın ve gümüş eserler cam, fildişi ve ipek gibi imparatorluğun lüks objeleri arasında sayılmaktadır.</p>",
+        "Text": "<p>Aşağıdakilerden hangisi Bizans dönemi maden sanatında kullanılan madenler arasında değildir?</p>",
+        "A": "<p>altın</p>",
+        "B": "<p>gümüş</p>",
+        "C": "<p>bakır</p>",
+        "D": "<p>demir</p>",
+        "E": "<p>ozalit</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936333,
+        "UniteNo": 4,
+        "PageNumber": 124,
+        "AnswerExplanation": "<p>Yanıt B'dir. </p>",
+        "Title": "<p>Özellikleri verilen el sanatı fildişi işçiliğidir. </p>",
+        "Text": "<p>Bu sanat dalına ait Erken Bizans Dönemi’ne tarihlenen en önemli eserlerden birinin Ravenna’daki Piskopos Maksimianus’un (545-553) kathedrasının olduğu;  yoğunlukla Orta Bizans Dönemi’nde işlenen ve taşınabilir küçük ikonlar, diptikonlar, triptikonlar, küçük heykelcikler, kitap kapakları biçiminde gelişmiş olan son olarak Geç Bizans Dönemi’nde yerini başka bir malzemeye bırakan el sanatı hangisidir?</p>",
+        "A": "<p>Cam sanatı</p>",
+        "B": "<p>Fildişi sanatı</p>",
+        "C": "<p>Seramik sanatı</p>",
+        "D": "<p>Maden sanatı</p>",
+        "E": "<p>Tekstil sanatı</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936349,
+        "UniteNo": 4,
+        "PageNumber": 111,
+        "AnswerExplanation": "<p>Bizans Sanatında mimaride kubbeyi taşıyan kemerler ile kubbe kaidesinin arasını kapatan kare bir plandan kubbenin dairesel kaidesine geçmeyi sağlayan küresel üçgen yüzeye pandandif denir.</p>",
+        "Title": "<p>Dini mimari</p>",
+        "Text": "<p>Bizans Sanatında mimaride \"kubbeyi taşıyan kemerler ile kubbe kaidesinin arasını kapatan kare bir plandan kubbenin dairesel kaidesine geçmeyi sağlayan küresel üçgen yüzeye\" ne ad verilir?</p>",
+        "A": "<p>Nef</p>",
+        "B": "<p>Şapel</p>",
+        "C": "<p>Eksedra</p>",
+        "D": "<p>Narteks</p>",
+        "E": "<p>Pandandif</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936471,
+        "UniteNo": 4,
+        "PageNumber": 119,
+        "AnswerExplanation": "<p><span style=\"left: 838.757px; top: 299.821px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.638596);\">İkona: Grekçe “Eikon” (resim, </span><span style=\"left: 798.992px; top: 316.621px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.696766);\">suret, tasvir) kelimesinden </span><span style=\"left: 798.992px; top: 333.421px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.680526);\">gelen İkona, boya ile ahşap </span><span style=\"left: 798.992px; top: 350.221px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.683297);\">panel üzerine yapılan ve </span><span style=\"left: 798.992px; top: 367.021px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.688258);\">ibadet amacı taşıyan dinî </span><span style=\"left: 798.992px; top: 383.821px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.709283);\">konulu resimlerdir.</span></p>",
+        "Title": "<p>Resim ve El Sanatları</p>",
+        "Text": "<p><span style=\"left: 798.992px; top: 333.421px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.680526);\">Aşağıdakilerden hangisi boya ile ahşap </span><span style=\"left: 798.992px; top: 350.221px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.683297);\">panel üzerine yapılan ve </span><span style=\"left: 798.992px; top: 367.021px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.688258);\">ibadet amacı taşıyan dinî </span><span style=\"left: 798.992px; top: 383.821px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.709283);\">konulu resimlere verilen addır?<br /></span></p>",
+        "A": "<p>Ankostik</p>",
+        "B": "<p>İkona</p>",
+        "C": "<p>Mine</p>",
+        "D": "<p>Tempera</p>",
+        "E": "<p>Tessera</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936156,
+        "UniteNo": 4,
+        "PageNumber": 105,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Erken Bizans Dönemi’nde imparatorun zaferi ya da diğer önemli olaylar için Roma geleneklerinin devamı olarak zafer sütunları ve zafer takları yapılmış­tır. Çemberlitaş, Yılanlı Sütun, Obelisk, Kıztaşı, Gotlar Sütunu ve Teodosios Zafer Takı İstanbul’daki önemli örneklerdir. Doğru cevap E şıkkıdır. </p> </div> </div> </div>",
+        "Title": "",
+        "Text": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Erken Bizans Dönemi’nde imparatorun zaferi ya da diğer önemli olaylar için Roma geleneklerinin devamı olarak zafer sütunları ve zafer takları yapılmış­tır. Aşağıdakilerden hangisi İstanbul'daki zafer sütunu örneklerinden biri <strong>değildir</strong> ?</p> </div> </div> </div>",
+        "A": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Çemberlitaş</p> </div> </div> </div>",
+        "B": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Yılanlı Sütun</p> </div> </div> </div>",
+        "C": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Obelisk</p> </div> </div> </div>",
+        "D": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kıztaşı</p> </div> </div> </div>",
+        "E": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İstanbul Kara Surları</p> </div> </div> </div>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936166,
+        "UniteNo": 4,
+        "PageNumber": 104,
+        "AnswerExplanation": "<p>Erken Bizans Dönemi’nde, dinî mimarinin yanısıra<br />şehircilik alanında da önemli mimari düzenleme ve uygulamalar gerçekleştirilmiştir. Bu dönem kentleri iki grupta toplanarak incelenmektedir. Birinci grupta, aslında Roma Dönemi’nde hatta daha bile önceleri kurulmuş olan İznik (Nikai), Efes, Bergama ve Milet gibi Helenistik Dönem kentlerinin devamı olan; ikinci grupta, büyük çoğunluğu kısa ömürlü olan, Suriye Çölü’ndeki Rusafa (Sergiopoplis), Anadolu’daki Dara (Nusaybin-Oğuz Köyü) gibi Bizans Dönemi’nde kurulmuş kentler yer alır. Doğru yanıt E'dir.</p>",
+        "Title": "",
+        "Text": "<p>Erken Bizans Dönemi’nde, dinî mimarinin yanısıra<br />şehircilik alanında da önemli mimari düzenleme ve uygulamalar gerçekleştirilmiştir. Aşağıdakilerden hangisi bu şehirlerdendir?</p>",
+        "A": "<p>Phaselis</p>",
+        "B": "<p>Aizonai</p>",
+        "C": "<p>Knidos</p>",
+        "D": "<p>Zeugma</p>",
+        "E": "<p>Efes</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936443,
+        "UniteNo": 4,
+        "PageNumber": 105,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Çembelitaş Sütunu: I. Konstantinos Dönemi’nde, Roma’daki Apollon Tapınağı’ndan söktürülerek İstanbul’a getirilen ve Konstantinos Forumu’nun ortasına yerleştirilen Konstantinos Sütunu olarak da anılan 57 m uzunluğundaki sütun.</p> </div> </div> </div>",
+        "Title": "",
+        "Text": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Konstantinos Dönemi’nde, Roma’daki Apollon Tapınağı’ndan söktürülerek İstanbul’a getirilen ve Konstantinos Forumu’nun ortasına yerleştirilen Konstantinos Sütunu olarak da anılan 57 m uzunluğundaki sütun, aşağıdakilerden hangisidir?</p> </div> </div> </div>",
+        "A": "<p>Kıztaşı</p>",
+        "B": "<p>Yılanlı Sütun</p>",
+        "C": "<p>Gotlar Sütunu</p>",
+        "D": "<p>Çemberlitaş Sütunu</p>",
+        "E": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Teodosios Zafer Takı</p> </div> </div> </div>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936452,
+        "UniteNo": 4,
+        "PageNumber": 104,
+        "AnswerExplanation": "<p>Bu dönem Paleolog Hanedanın yönetiminde geçtiğinden dolayı \"Paleologlar Dönemi\" olarak  da adlandırılmıştır.</p>",
+        "Title": "",
+        "Text": "<p>\"Paleologoslar Dönemi\" olarak bilinen döneme ne denir?</p> ",
+        "A": "<p>Erken Bizans Çağı</p>",
+        "B": "<p>Orta Bizans Çağı</p>",
+        "C": "<p>Geç Bizans Çağı</p>",
+        "D": "<p>Neolitik Dönem</p>",
+        "E": "<p>Helenistik Dönem</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936363,
+        "UniteNo": 4,
+        "PageNumber": 114,
+        "AnswerExplanation": "<p>İznik</p>",
+        "Title": "<p>Anadolu’da bilinen en erken tarihli anıtsal resim sanatı örnekleri <strong>İznik Elbeyli köyün</strong>deki hipojede <br />(4. yy) ve Efes­Yamaç evlerinde (3.­7. yy) bulunmaktadır. 4. yüzyıla tarihlenen İznik Elbeyli  köyündeki hipojenin doğu duvarında fresko tek­niğinde ortadaki kantharosun iki yanında profilden <br />tasvir edilmiş tavus kuşları yer almaktadır.</p>",
+        "Text": "<p>Bu yerleşim yerinin doğu duvarında fresko tekniğinde ortadaki Kantharos’un (Kulplu içecek kabı) iki yanında profilden tasvir edilmiş tavus kuşları yer almaktadır. Ayrıca Antik Yunan ve Roma mitolojisi ve günlük hayattan sahneler, balık ve kuş gibi hayvan tasvirleri bulunmaktadır. Anadolu’da bilinen Bizans’ın en erken tarihli anıtsal resim sanatı örneklerinin bulunduğu bu yerleşim yeri <strong>aşağıdakilerden hangisidir?</strong></p> ",
+        "A": "<p>Midas</p> ",
+        "B": "<p>Bergama</p> ",
+        "C": "<p>İznik</p> ",
+        "D": "<p>Efes</p> ",
+        "E": "<p>Selçuk</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936376,
+        "UniteNo": 4,
+        "PageNumber": 105,
+        "AnswerExplanation": "<p>Erken Bizans Dönemi’nde imparatorun zaferi ya da diğer önemli olaylar için<br />Roma geleneklerinin devamı olarak zafer sütunları ve zafer takları yapılmıştır. Çemberlitaş, Yılanlı Sütun, Obelisk, Kıztaşı, Gotlar Sütunu ve Teodosios Zafer Takı İstanbul’daki önemli örneklerdir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki yapılardan hangisi Erken Bizans Dönemi’nde imparatorun zaferi ya da diğer önemli olaylar için Roma geleneklerinin devamı olarak İstanbul'da yapılan zafer sütunları ve zafer takları arasında yer almaz? </p>",
+        "A": "<p>Çemberlitaş</p>",
+        "B": "<p>Gotlar Sütunu</p>",
+        "C": "<p>Konstantinos Zafer takı</p>",
+        "D": "<p>Yılanlı Sütun</p>",
+        "E": "<p>Obelisk</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936408,
+        "UniteNo": 4,
+        "PageNumber": 105,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Obelisk; I. Teodosios tarafından 390 yılında Mısır’dan İstanbul'a getirilerek Hipodrom’daki şimdiki yerine diktirilmiştir.</p> </div> </div> </div>",
+        "Title": "<p>MİMARİ</p>",
+        "Text": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>I. Teodosios tarafından 390 yılında Mısır’dan getirilerek İstanbul'da Hipodrom’a dikilen taş aşağıdakilerden hangisidir?</p> </div> </div> </div>",
+        "A": "<p>Obeliks</p>",
+        "B": "<p>Kızıltaşı</p>",
+        "C": "<p>Çemberlitaş Sütunu</p>",
+        "D": "<p>Yılanlı Sütun</p>",
+        "E": "<p>Teodosios Zafer Takı</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936469,
+        "UniteNo": 4,
+        "PageNumber": 123,
+        "AnswerExplanation": "<p>Bizans seramik sanatı halkın ekonomik durumu ve beğenilerine göre şekillenmiştir. Nüfusun büyük bölümü tarafından kullanılan seramiklerin büyük bir kitelesi ve pazarı vardı. Sırlı seramikler daha çok ticari bir mal olarak değerlendirilmektedir. Sırsız seramikler daha çok tahıl ve yağ gibi ürünlerin depolanmasında, yağ ve şarap gibi ürünlerin nakliyesinde ve mutfak gereçlerinde kullanılmış, artan talep ile birlikte gelişmiştir. Erken Bizans Dönemi’nde, yoğun olarak Kırmızı Astarlı Seramikler adı verilen seramikler üretilmiştir. 7.-9. yüzyıllar arasında kırmızı astarlı seramik üretimi son bulmuş, beyaz hamurlu seramikler ortaya çıkmıştır.</p>",
+        "Title": "",
+        "Text": "<p><strong>Bizans Seramik Sanatı ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong></p> ",
+        "A": "<p> Halkın ekonomik durumu ve beğenilerine göre şekillenmiştir.</p>",
+        "B": "<p>Sırlı seramikler daha çok ticari bir mal olarak değerlendirilmektedir.</p>",
+        "C": "<p> Sırsız seramikler daha çok tahıl ve yağ gibi ürünlerin depolanmasında ve mutfak gereçlerinde kullanılmıştır.</p>",
+        "D": "<p>Erken Bizans Dönemi’nde, yoğun olarak mavi astarlı seramikler adı verilen seramikler üretilmiştir.</p>",
+        "E": "<p> 7.-9. yüzyıllar arasında beyaz hamurlu seramikler ortaya çıkmıştır.</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936263,
+        "UniteNo": 4,
+        "PageNumber": 104,
+        "AnswerExplanation": "<p>İlk Çağ’ın Helenistik ve Roma üslupları.</p> <p>\"Bizans’ın birinci altın çağı olarak da adlandırılan, yüksek maliyetli ve kaliteli mimarisiyle öne çıkan I. Iustinianos Dönemi’nde sanat, İlk Çağ’ın Helenistik ve Roma sanat geleneklerini sürdürmekle beraber gelişmiştir\".</p>",
+        "Title": "<p>Bizans Sanatı/ Erken Bizans Dönemi</p>",
+        "Text": "<p>Bizans'ın birinci altın çağı olarak da adlandırılan, yüksek maliyetli ve kaliteli mimarisiyle öne çıkan I. Iustinianos Dönemi’nde sanat, hangi geleneklerini sürdürmüştür?</p>",
+        "A": "<p>İlk Çağ’ın Helenistik ve Roma üslupları.</p>",
+        "B": "<p>Helenistik çağ üslupları.</p>",
+        "C": "<p>Roma çağı üslupları.</p>",
+        "D": "<p>Orta Bizans.</p>",
+        "E": "<p>Geç Bizans.</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936373,
+        "UniteNo": 4,
+        "PageNumber": 119,
+        "AnswerExplanation": "<p>Taşınabilir mozaik</p>",
+        "Title": "<p class=\"p1\">Ikona</p>",
+        "Text": "Istanbul Arkeoloji\u001f Müzelerinde sergilenen, Konstantinos Lips Manastır Kilisesi kazılarında ele ge&ccedil;miş \"Azize Eudoksia İkonası\" aşağıdaki hangi nadir g&ouml;r&uuml;len ikona &ouml;zelliğindedir?",
+        "A": "<p>Taşınabilir mozaik</p>",
+        "B": "<p>Ahşap levha</p>",
+        "C": "<p class=\"p1\">Diptikon ikona</p>",
+        "D": "<p class=\"p1\">Triptikon ikona</p>",
+        "E": "<p>Fildişi ikona</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936228,
+        "UniteNo": 4,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Bızans’ın tarihsel dönemlerını açıklayabileceksiniz.",
+        "Text": "Aşağıdaki seçeneklerden hangisi geç bizans dönemi olarak adlandırılmaktadır?",
+        "A": "İstanbul’un Latinlerden geri alınmasıyla başayan, Türk-lere geçmesine kadar süren dönemdir",
+        "B": "Bursa'nın Haçlılardan geri alınmasıyla başayan, Türk-lere geçmesine kadar süren dönemdir",
+        "C": "İstanbul’un Haçlılardan geri alınmasıyla başayan, Latinlere geçmesine kadar süren dönemdir",
+        "D": "İstanbul’un  Türk-lerden geri alınmasıyla başayan, Latinlere geçmesine kadar süren dönemdir",
+        "E": "Bursa'nın Latinlerden geri alınmasıyla başayan, Türk-lere geçmesine kadar süren dönemdir",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936281,
+        "UniteNo": 4,
+        "PageNumber": 121,
+        "AnswerExplanation": "<p>İbrik-Turulla.</p> <p>\" Ökaristi Ayini’nde kullanılan (paten, kalis, kaşık, ibrik-trulla, buhurdan,  yelpaze, kitap kapağı ve tören Haçı) objeleri olarak sınıf­landırılırlar.</p>",
+        "Title": "<p>Bizans Sanatı/ Maden Sanatı</p>",
+        "Text": "<p>Aşağıdakilerden hangisi ökaristi ayininde kullanılan objelerden birisidir?</p>",
+        "A": "<p>İbrik-Turulla.</p>",
+        "B": "<p>Taç.</p>",
+        "C": "<p>Yüzük.</p>",
+        "D": "<p>Kemer.</p>",
+        "E": "<p>Kolye.</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936383,
+        "UniteNo": 4,
+        "PageNumber": 120,
+        "AnswerExplanation": "<p>El yazmalarını; 1. Dinî El Yazmaları (Oktateuch, Mezmurlar ve Meseller, Evangeliar, Lektionar, Perikop, Menelogya, Homilye), 2. Tarihi Eserler, 3. Kronikler, 4. İmparatorluk Fermanları ve 5. Bilimsel El Yazmaları (Tıp, Astronomi, Farmakoloji, Topaoğrafya) olmak üzere beş başlık altında toplamak mümkümdür. Bu bölümde daha çok resimli dinî el yazmalarından bahsedilecektir</p>",
+        "Title": "",
+        "Text": "<p>Bizans sanatına ait Oktateuch, Mezmurlar ve Meseller, Evangeliar, Lektionar, Perikop, Menelogya, Homilye gibi ifadeler neyi işaret eder?</p>",
+        "A": "<p>Tarihi el yazma eserler </p>",
+        "B": "<p>Kronikler</p>",
+        "C": "<p>İmparatorluk fermanları </p>",
+        "D": "<p>Dini el yazmaları</p>",
+        "E": "<p>Bilimsel El Yazmaları</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936470,
+        "UniteNo": 4,
+        "PageNumber": 114,
+        "AnswerExplanation": "<p><span style=\"left: 100.959px; top: 821.029px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.735381);\">Fresko: </span><span style=\"left: 145.629px; top: 821.415px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.658967);\">Islak kireç sıva </span><span style=\"left: 100.959px; top: 838.215px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.685126);\">üzerine, ezildikten sonra su </span><span style=\"left: 100.959px; top: 855.015px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.674653);\">ya da su ve kireç bileşimi </span><span style=\"left: 100.959px; top: 871.815px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.693825);\">bir bağlayıcı ile karıştırılan </span><span style=\"left: 100.959px; top: 888.615px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.705289);\">pigmentlerle yapılan resim. </span><span style=\"left: 100.959px; top: 905.415px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.666632);\">Yüzey kurudukça kireç, </span><span style=\"left: 100.959px; top: 922.215px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.685229);\">pigmentin sıvaya yapışmasını </span><span style=\"left: 100.959px; top: 939.015px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.681613);\">sağlar</span>.</p>",
+        "Title": "<p>Resim ve El Sanatları</p>",
+        "Text": "<p><span style=\"left: 145.629px; top: 821.415px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.658967);\">Aşağıdakilerden hangisi ıslak kireç sıva </span><span style=\"left: 100.959px; top: 838.215px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.685126);\">üzerine, ezildikten sonra su </span><span style=\"left: 100.959px; top: 855.015px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.674653);\">ya da su ve kireç bileşimi </span><span style=\"left: 100.959px; top: 871.815px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.693825);\">bir bağlayıcı ile karıştırılan </span><span style=\"left: 100.959px; top: 888.615px; font-size: 16.8px; font-family: sans-serif; transform: scaleX(0.705289);\">pigmentlerle yapılan resimdir?</span></p>",
+        "A": "<p>Fresko</p>",
+        "B": "<p>Kantharos</p>",
+        "C": "<p>Mozaik</p>",
+        "D": "<p>Tempera</p>",
+        "E": "<p>Tessera</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936276,
+        "UniteNo": 4,
+        "PageNumber": 114,
+        "AnswerExplanation": "<p> İznik Elbeyli köyündeki hipojede ve Efes-Yamaç evlerinde </p>",
+        "Title": "<p>Anadolu’da bilinen en erken tarihli anıtsal resim sanatı örnekleri İznik Elbeyli köyündeki hipojede (4. yy) ve Efes-Yamaç evlerinde (3.-7. yy) bulunmaktadır</p>",
+        "Text": "<p>Anadolu’da bilinen en erken tarihli anıtsal resim sanatı örnekleri nerelerde bulunmaktadır?</p>",
+        "A": "<p>Khora Manastırı Kilisesi'nde</p>",
+        "B": "<p>Trabzon Ayasofya Kilisesi'nde</p>",
+        "C": "<p>Panagia Khrysokepalos (altın başlı) Başpiskoposluk Kilisesi ile Ayasofya Kilisesi</p>",
+        "D": "<p>İznik Elbeyli köyündeki hipojede  ve Efes-Yamaç evlerinde </p>",
+        "E": "<p>Sina Dağı’ndaki Katherina Manastırı Kilises</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936419,
+        "UniteNo": 4,
+        "PageNumber": 106,
+        "AnswerExplanation": "<p>Tonoz: Biçimi alttan içbükey olmak üzere taş ya da tuğla ve harçla örülmüş yarım silindir biçiminde tavan; bir kemerin örülmesiyle meydana gelen örtü.</p>",
+        "Title": "",
+        "Text": "<p>\"Biçimi alttan içbükey olmak üzere taş ya da tuğla ve harçla örülmüş yarım silindir biçiminde tavan; bir kemerin örülmesiyle meydana gelen örtü.\" tanımı hangisini açıklamaktadır?</p>",
+        "A": "<p>Tonoz</p>",
+        "B": "<p>Kiriş</p>",
+        "C": "<p>Sütun</p>",
+        "D": "<p>Kemer</p>",
+        "E": "<p>Dikilitaş</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936124,
+        "UniteNo": 4,
+        "PageNumber": 108,
+        "AnswerExplanation": "<p>Bazilika planı</p>",
+        "Title": "<p>Dini mimari</p>",
+        "Text": "<p>Erken Bizans Dönemi’nde kiliselerin temel plan tipi aşağıdakilerden hangisidir?</p>",
+        "A": " <p>Mistra tipi planı</p>",
+        "B": "<p>Bazilika planı</p> ",
+        "C": "<p>Kapalı Yunan Haçı planı</p> ",
+        "D": "<p>Haç planı</p> ",
+        "E": "<p>Merkezi plan</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936483,
+        "UniteNo": 4,
+        "PageNumber": 119,
+        "AnswerExplanation": "<p>Sina Dağı Azize Katherina Manastırı</p>",
+        "Title": "<p>İkona</p>",
+        "Text": "<p>Erken Bizans Döneminden günümüze ulaşabilen en eski ikona resimleri nerede bulunur?</p> ",
+        "A": "<p>İstanbul Khora Manastırı</p> ",
+        "B": "<p>Athos Manastırı</p> ",
+        "C": "<p>Patmos Manastırı</p> ",
+        "D": "<p>Sina Dağı Azize Katherina Manastırı</p>",
+        "E": "<p>Kıbrıs Aziz Georgios Manastırı</p> ",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936177,
+        "UniteNo": 4,
+        "PageNumber": 110,
+        "AnswerExplanation": "<p><strong> <span class=\"fontstyle0\">Synthronon: </span></strong><span class=\"fontstyle2\">Apsis yarım yuvarlığı içinde, kademeli basamaklarla oluşturulan, din görevlilerinin oturmaları için ayrılmış bölüme denir.</span> </p>",
+        "Title": "",
+        "Text": "<p><span class=\"fontstyle2\">Apsis yarım yuvarlığı içinde, kademeli basamaklarla oluşturulan, din görevlilerinin oturmaları için ayrılmış bölüme ne denir?</span></p>",
+        "A": "<p><span class=\"fontstyle0\">Nef</span> </p>",
+        "B": "<p><span class=\"fontstyle0\">Pastoforium</span> </p>",
+        "C": "<p><span class=\"fontstyle0\">Atrium</span> </p>",
+        "D": "<p><span class=\"fontstyle0\">Altar</span> </p>",
+        "E": "<p><span class=\"fontstyle0\">Synthronon</span></p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936229,
+        "UniteNo": 4,
+        "PageNumber": 105,
+        "AnswerExplanation": "<p>Erken Bizans Dönemi’nde imparatorun zaferi ya da diğer önemli olaylar için Roma geleneklerinin devamı olarak zafer sütunları ve zafer takları yapılmıştır. Çemberlitaş, Yılanlı Sütun, Obelisk, Kıztaşı, Gotlar Sütunu ve Teodosios Zafer Takı İstanbul’daki önemli örneklerdir. </p>",
+        "Title": "Bizans mimarisinin özelliklerini örnekler ile açıklayabileceksiniz.",
+        "Text": "<p>Aşağıdakilerden hangisi Erken Bizans Dönemi’nde imparatorun zaferi ya da diğer önemli olaylar için Roma geleneklerinin devamı olarak yapılan <strong>anıtlardan biri değildir? </strong></p>",
+        "A": "<p>Çemberlitaş</p>",
+        "B": "<p>Yılanlı Sütun</p>",
+        "C": "<p>Galata Kulesi</p>",
+        "D": "<p>Kıztaşı</p>",
+        "E": "<p>Teodosios Zafer Takı</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936266,
+        "UniteNo": 4,
+        "PageNumber": 106,
+        "AnswerExplanation": "<p>Bizans imparatorları, başlangıçtan itibaren İstanbul’daki Büyük Saray ve Blakherna Sarayı’nı imparatorluk sarayı olarak kullanmışlardır.</p> <p>\"İstanbul’da ayrıca, Bizans imparatorlarının sayfiye sarayları da yer almaktaydı.<br />Yenimahalle-Bakırköy arasındaki Hebdomon’daki Magnaura ve Iukundianae (ya<br />da Secundianae) Sarayları, Küçükçekmece’deki Rhegion Sarayı ve Anadolu yakasındaki Brias Sarayı en önemlileridir\". </p>",
+        "Title": "<p>Bizans Sanatı/Mimari-Saraylar</p>",
+        "Text": "<p>Aşağıdaki seçeneklerden hangisi Bizans imparatorlarının sayfiye saraylarından birisi değildir?</p>",
+        "A": "<p>Rhegion Sarayı.</p>",
+        "B": "<p>Blakherna Sarayı.</p>",
+        "C": "<p>Magnaura Sarayı.</p>",
+        "D": "<p>Brias Sarayı.</p>",
+        "E": "<p>Iukundianae Sarayı.</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936350,
+        "UniteNo": 4,
+        "PageNumber": 109,
+        "AnswerExplanation": "<p>Bizans dini mimarisinde bir din şehidinin mezarı üzerine inşa edilen merkezi planlı Erken Hristiyan yapısına Martyrion denir.</p>",
+        "Title": "<p>Dini mimari</p>",
+        "Text": "<p>Bizans dini mimarisinde bir din şehidinin mezarı üzerine inşa edilen merkezi planlı Erken Hristiyan yapısına ne ad verilir?</p>",
+        "A": "<p>Martyrion</p>",
+        "B": "<p>Bema</p>",
+        "C": "<p>Katakomp</p>",
+        "D": "<p>Vaftizhane</p>",
+        "E": "<p>Şapel</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936414,
+        "UniteNo": 4,
+        "PageNumber": 121,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 20\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Bizans İmparatorluğu ile ilgili her şeyin günü gününe yazıldığı el yazmalarına Kronik denir.</p> </div> </div> </div>",
+        "Title": "<p>EL YAZMALARI</p>",
+        "Text": "<p>Bizans el yazması sanatında imparatorluk ile ilgili tüm verilerin günlük olarak kaydedildiği el yazmalarına ne ad verilir?</p>",
+        "A": "<p>Ökaristi</p>",
+        "B": "<p>Rulo</p>",
+        "C": "<p>Kronik</p>",
+        "D": "<p>Röliker</p>",
+        "E": "<p>Paten</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936232,
+        "UniteNo": 4,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Bizans mimarisinin özelliklerini örnekler ile açıklayabileceksiniz.",
+        "Text": "4.-6. yüzyıl sonu arasında kiliselerinin temel plan tipini aşağıdaki yapılardan hangisi oluşturmuştur?",
+        "A": "Bazalikalar",
+        "B": "Sarnıçlar",
+        "C": "Saraylar",
+        "D": "Hamamlar",
+        "E": "Manastırlar",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936462,
+        "UniteNo": 4,
+        "PageNumber": 107,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Erken Bizans Dönemi’nde diğer kentlerde olduğu gibi İstanbul’da da Antik Çağ’ın su kemer ve kanalları kullanılmıştır. İmparator Valens (364-378)’in yaptırdığı, Türk Dönemi’nde Bozdoğan Su Kemeri olarak adlandırılan su kemeri önemli örneklerden biridir. I. Iustinianos Dönemi’nde inşa edilen Yerebatan ve Binbirdirek sarnıçları kapalı sarnıçların en önemlileridir.</p> <p style=\"text-align: justify;\">Genellikle Roma hamamlarının kullanıldığı bu dönemde yeni hamamlar da inşa edilmiştir. İnşasına Septimus Severus (193-211) zamanında başlanan, I. Konstantinos zamanında tamamlanan, Nika Ayaklanması (532)’nda tamamen yıkılan İstanbul Zeuxippos Hamamı önemli bir örnektir.</p>",
+        "Title": "",
+        "Text": "<p>I. Zeuxippos Hamamı</p> <p>II.Bozdoğan Su Kemeri</p> <p>III. Binbirdirek Sarnıcı</p> <p><strong>Yukarıdakilerden hangileri Bizans mimarisinde yer alan su yapılarına örnek oluşturmaktadır?</strong></p> ",
+        "A": "<p> Yalnız I</p>",
+        "B": "<p> I ve II</p>",
+        "C": "<p>I ve III</p>",
+        "D": "<p> II ve III</p>",
+        "E": "<p>I, II ve III</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936112,
+        "UniteNo": 4,
+        "PageNumber": 103,
+        "AnswerExplanation": "<p>Eserleri ölçü ve süsleme açısından </p>",
+        "Title": "<p>Bizans sanatında 4. ve 5. yüzyıllarda Yunan-Roma dünyasının sanat geleneklerinin yeni inanca uydurulmaya çalışıldığı bir geçiş dönemi yaşanmıştır. Eserleri ölçü ve süsleme açısından İlkÇağ’ın Roma sanatı ile ilişkili olduğundan bu dönem Geç Antik ve Erken Hristiyan Dönemi olarak adlandırılır.</p>",
+        "Text": "<p>Erken Bizans Dönemi Hangi özelliğinden dolayı Geç Antik ve Erken Hristiyan Dönemi olarak adlandırılır</p>",
+        "A": "<p>Eserlerin malzemesi açısından</p>",
+        "B": "<p>Eserleri ölçü ve süsleme açısından </p>",
+        "C": "<p>Eserlerin anlatım içeriği açısından</p>",
+        "D": "<p>Eser boyutları açısından</p>",
+        "E": "<p>Eserlerin aynı sanatçı tarafından yapılmış olmasından dolayı</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936187,
+        "UniteNo": 4,
+        "PageNumber": 107,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 6\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Notitia Urbis Constantinopolitanae, İstanbul’un Geç Roma tarihinin en eski ve en çok başvurulan 15 sayfalık Latince betimlemesi olan anonim eserdir. II. Teodosios Dönemi’nde (408-450) 5. yüzyılın ilk çeyreğinde bir araya getirilmiştir. Doğru yanıt D'dir.</p> </div> </div> </div>",
+        "Title": "",
+        "Text": "<div class=\"page\" title=\"Page 6\"> <div class=\"layoutArea\"> <div class=\"column\"> <div class=\"page\" title=\"Page 6\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>II. Teodosios Dönemi’nde bir araya getirilmiş olan ve İstanbul’un 14 mahallesini betimleyen anonim eserin adı aşağıdakilerden hangisidir?</p> </div> </div> </div> </div> </div> </div>",
+        "A": "<div class=\"page\" title=\"Page 6\"> <div class=\"layoutArea\"> <div class=\"column\"> <div class=\"page\" title=\"Page 19\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Meteria Medica</p> </div> </div> </div> </div> </div> </div>",
+        "B": "<div class=\"page\" title=\"Page 20\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Yeşu Rulosu</p> </div> </div> </div>",
+        "C": "<div class=\"page\" title=\"Page 17\"> <div class=\"layoutArea\"> <div class=\"column\"> <div class=\"page\" title=\"Page 20\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Ioannes Skylitzes Kroniği</p> </div> </div> </div> </div> </div> </div>",
+        "D": "<div class=\"page\" title=\"Page 6\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Notitia Urbis Constantino­politanae</p> </div> </div> </div>",
+        "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <div class=\"page\" title=\"Page 19\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Viyana Genesis</p> </div> </div> </div> </div> </div> </div> </div>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936386,
+        "UniteNo": 4,
+        "PageNumber": 106,
+        "AnswerExplanation": "<p>&nbsp;i-II. Cladius ii- İmparatorun Gotlara karşı zaferi&nbsp;&nbsp;</p>",
+        "Title": "<p>Bugün Topkapı Sarayı dış bahçesinde Gülhane Parkı Sarayburnu girişinde bulunan sütunun adı Gotlar Sütunu'dur. Kaidesinde yer alan yazıtta II. Cladius'un Gotlara karşı kazandığı zafer anılmaktadır. Doğru seçenek D şıkkıdır.</p>",
+        "Text": "İstanbul G&uuml;lhane Parkı Sarayburnu girişinde bulunan tarihi s&uuml;tunun kaidesinde i-hangi imparatorun adı bulunmaktadır ii-s&uuml;tun ne adına yapılmıştır ?",
+        "A": "<p>i-Markaianos ii-İmparatorun onuru&nbsp;</p>",
+        "B": "<p>i-Septimus Severus ii-Byzantion'u alınması&nbsp;</p>",
+        "C": "<p>i-I.Konstantios ii-İmparatorun onuru</p>",
+        "D": "<p>&nbsp;i-II. Cladius ii-İmparatorun Gotlara karşı zaferi</p>",
+        "E": "<p>i-I.Theodosius ii-İmparatorun onuru</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936118,
+        "UniteNo": 4,
+        "PageNumber": 110,
+        "AnswerExplanation": "<p>Ayasofya Kilisesi</p>",
+        "Title": "<p>I. Iustinianos Dönemi yapılarının en önemlisi ve Bizans  sanat içinde benzersiz ve tek kalmış olanı,merkezî 32,37 m çaplı kubbe örtülü,üç nef­li kubbeli bazilika plan tipli İstanbul Ayasofya Kilisesi(532-537)’dir. </p>",
+        "Text": "<p>       I.Iustinianos Dönemi yapılarının en önemlisi ve Bizans sanatı içinde benzersiz ve tek kalmış olan yapı aşağıdaki seçeneklerden hangisidir?</p>",
+        "A": "<p>ForumBovis(ÖküzMeydanı),</p>",
+        "B": "<p>Aziz Ioannes(Yahya) Bazilikası</p>",
+        "C": "<p>On İki Havari Kilisesi</p>",
+        "D": "<p>Ayasofya Kilisesi</p>",
+        "E": "<p>İznik Koimesis Kilisesi</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936194,
+        "UniteNo": 4,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Bizans mimarisinin özelliklerini örnekler ile açıklayabileceksiniz.",
+        "Text": "Bizanslarda imparatorlar ile halkın atlı araba yarışları, resmi ve dini törenlerde bir araya geldikleri toplantı alanı aşağıdakilerden hangisidir? ",
+        "A": "Agora",
+        "B": "Obelisk",
+        "C": "Hipodrom",
+        "D": "Forum",
+        "E": "Teras",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936486,
+        "UniteNo": 4,
+        "PageNumber": 108,
+        "AnswerExplanation": "<p>Dura-Europos</p>",
+        "Title": "<p>Dini Mimari</p>",
+        "Text": "<p>Bugün için bilinebilen en eski ev kilisesi nerede bulunmuştur?</p>    ",
+        "A": "<p>Dura-Europos</p>",
+        "B": "<p>Roma</p>",
+        "C": "<p>İstanbul</p> ",
+        "D": "<p>Rusafa</p> ",
+        "E": "<p>Apameia</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936120,
+        "UniteNo": 4,
+        "PageNumber": 119,
+        "AnswerExplanation": "<p>İkona</p>",
+        "Title": "<p>İkona İsa, Meryem,Azizlerve Azizlerin yaşamlarının canlandırıldığı taşınabilir nitelikte resim levhaları olarak tanımlanmaktadır.</p>",
+        "Text": "<p>İsa, Meryem,Azizler ve Azizlerin yaşamlarının canlandırıldığı taşınabilir nitelikte resim levhalarına ne ad verilir?</p>",
+        "A": "<p>İkona</p>",
+        "B": "<p>tarihi sanat eseri</p>",
+        "C": "<p>Pandandif</p>",
+        "D": "<p>Fresko</p>",
+        "E": "<p>Şapel</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936122,
+        "UniteNo": 4,
+        "PageNumber": 108,
+        "AnswerExplanation": "<p>Altar</p>",
+        "Title": "<p>Dini mimari</p>",
+        "Text": "<p>Kiliselerde İsa’nın bedenini simgeleyen şarabın ve ekmeğin konulduğu genellikle taştan yapılmış, dört yada çok destekle taşınan masa aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Altar</p> ",
+        "B": "<p>Eksedra</p> ",
+        "C": "<p>Bema</p> ",
+        "D": "<p>Sytronon</p> ",
+        "E": "<p>Narteks</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936271,
+        "UniteNo": 4,
+        "PageNumber": 105,
+        "AnswerExplanation": "<p>Hipodrom</p>",
+        "Title": "<p>İmparatorlar ayrıca, halkın eğlenmesi için, içinde atlı araba yarışlarının yapıldığı, bir ucu daire biçiminde biten dikdörtgen planlı hipodromlar yaptırmışlardır. İstanbul, Antakya, Selanik ve Milano gibi kentlerde hipodromlar bulunmaktadır</p>",
+        "Text": "<p>İmparatorlar halkın eğlenmesi için, içinde atlı araba yarışlarının yapıldığı İstanbul, Antakya, Selanik ve Milano gibi kentlerde de bulunan hangi yapıları yaptırmışlardır?</p>",
+        "A": "<p>Bazilika</p>",
+        "B": "<p>Kilise</p>",
+        "C": "<p>Hipodrom</p>",
+        "D": "<p>Zafer takı</p>",
+        "E": "<p>Şapel</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936437,
+        "UniteNo": 4,
+        "PageNumber": 105,
+        "AnswerExplanation": "<p><span style=\"left: 713.386px; top: 148.235px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.772159);\">Milion Taşı: </span><span style=\"left: 771.298px; top: 148.56px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.666604);\">Ayasofya’nın </span><span style=\"left: 713.386px; top: 162.727px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.688761);\">karşısında Sultanahmet </span><span style=\"left: 713.386px; top: 176.894px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.688517);\">Meydanı’nın kuzeybatı </span><span style=\"left: 713.386px; top: 191.06px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.69859);\">köşesinde bulunan Milion </span><span style=\"left: 713.386px; top: 205.227px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.682048);\">Taşı, Bizans İmparatorluğu’nda </span><span style=\"left: 713.386px; top: 219.394px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.694499);\">başkent İstanbul’a ulaşan tüm </span><span style=\"left: 713.386px; top: 233.56px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.688464);\">Antik Roma yollarının başlangıç </span><span style=\"left: 713.386px; top: 247.727px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.686405);\">noktası ve dünya üzerindeki </span><span style=\"left: 713.386px; top: 261.894px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.6905);\">diğer şehirlerin bu şehre </span><span style=\"left: 713.386px; top: 276.06px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.688758);\">uzaklığının hesaplanmasında </span><span style=\"left: 713.386px; top: 290.227px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.70059);\">kullanılan sıfır noktasıdır.</span></p>",
+        "Title": "<p>Mimari</p>",
+        "Text": "<p><span style=\"left: 713.386px; top: 219.394px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.694499);\">Başkent İstanbul’a ulaşan tüm </span><span style=\"left: 713.386px; top: 233.56px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.688464);\">Antik Roma yollarının başlangıç </span><span style=\"left: 713.386px; top: 247.727px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.686405);\">noktası ve dünya üzerindeki </span><span style=\"left: 713.386px; top: 261.894px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.6905);\">diğer şehirlerin bu şehre </span><span style=\"left: 713.386px; top: 276.06px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.688758);\">uzaklığının hesaplanmasında </span><span style=\"left: 713.386px; top: 290.227px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.70059);\">kullanılan sıfır noktası olan taş aşağıdakilerden hangisidir?<br /></span></p>",
+        "A": "<p>Çemberlitaş</p>",
+        "B": "<p>Kıztaşı</p>",
+        "C": "<p>Milion Taşı</p>",
+        "D": "<p>Obelisk</p>",
+        "E": "<p>Yılanlı Sütun</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936482,
+        "UniteNo": 4,
+        "PageNumber": 120,
+        "AnswerExplanation": "<p>Kronik</p>",
+        "Title": "<p>El Yazmaları</p>",
+        "Text": "<p>Aşağıdakilerden hangisi Bizans Dönemi dini konulu el yazması türlerinden biri değildir?</p> ",
+        "A": "<p>Oktateuch</p>  ",
+        "B": "<p>Mezmur</p> ",
+        "C": "<p>Mesel</p> ",
+        "D": "<p>Menelogya</p> ",
+        "E": "<p>Kronik</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936226,
+        "UniteNo": 4,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Bızans’ın tarihsel dönemlerını açıklayabileceksiniz.",
+        "Text": "Aşağıdaki seçeneklerden hangisi bizans sanatının dönemlerini açıklar?",
+        "A": "Ön Bizans,Orta Bizans",
+        "B": "Ön Bizans,Orta Bizans, Son Bizans",
+        "C": "Erken Bizans, Orta Bizans, Geç Bizans",
+        "D": "Orta Bizans, Geç Bizans",
+        "E": "Erken Bizans, Geç Bizans",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936316,
+        "UniteNo": 4,
+        "PageNumber": 119,
+        "AnswerExplanation": "<p>Grekçe “Eikon” (resim, suret, tasvir) kelimesinden gelmektedir,</p> <p>İkona, boya ile ahşap panel üzerine yapılan ve ibadet amacı taşıyan dinî konulu resimlerdir.</p> <p>İkonalarda yaygın olarak ahşap malzeme kullanılmıştır. Genellikle dikdörtgen pano şeklinde olan ikonaların yanında açılıp kapanabilir nitelikte iki levhalı (dip­ tikon) ya da üç levhalı (triptikon) olanları da bulunmaktadır.</p> <p>Ahşap levha üstüne ankostik daha sonra tempera tekniği ile yapılmış</p>",
+        "Title": "<p>Grekçe “Eikon” (resim, suret, tasvir) kelimesinden gelmektedir,</p>\n<p>İkona, boya ile ahşap panel üzerine yapılan ve ibadet amacı taşıyan dinî konulu resimlerdir.</p>\n<p>İkonalarda yaygın olarak ahşap malzeme kullanılmıştır. Genellikle dikdörtgen pano şeklinde olan ikonaların yanında açılıp kapanabilir nitelikte iki levhalı (dip­ tikon) ya da üç levhalı (triptikon) olanları da bulunmaktadır.</p>\n<p>Ahşap levha üstüne ankostik daha sonra tempera tekniği ile yapılmış</p>",
+        "Text": "<p>Aşağıdakilerden hangisi ikona için söylenemez?</p>",
+        "A": "<p>Eikon=resim, suret, tasvir kelimesinden gelmektedir</p> ",
+        "B": "<p>İkonalarda yaygın olarak ahşap malzeme kullanılmıştır</p> ",
+        "C": "<p>Genellikle dikdörtgen açılır-kapanır panolar şeklindedir</p> ",
+        "D": "<p>İbadet amacı taşıyan dinî konulu resimlerdir</p>",
+        "E": "<p>İlk örnekleri Osmanlı döneminde görülmüştür</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936323,
+        "UniteNo": 4,
+        "PageNumber": 103,
+        "AnswerExplanation": "<p>Yanıt A'dır. </p>",
+        "Title": "<p>Nova Roma I. Konstantin'in verdiği isim, Stimbol Ermenice adıdır. Byzas ise Byzantion olarak adlandırılmasına vesile olan ilk fetheden Byzas'ın şehri anlamında Byzantion'dur. Soruda Byzas denildiği için yanlış cevap A'dır. </p>\n<p> </p>",
+        "Text": "<p>Modern tarihçilere göre, MÖ.7 yy’da Megara’dan yola çıkan ilkel Trak kavimlerinin Haliç girişinin batı yakasına düşen bugünkü Sarayburnu’nda kurdukları şehir günümüze dek hangi adla anılmamıştır?</p>",
+        "A": "<p>Byzas</p>",
+        "B": "<p>Konstantinopolis</p>",
+        "C": "<p>İstanbul</p>",
+        "D": "<p>Stimbol</p>",
+        "E": "<p>Nova Roma</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936185,
+        "UniteNo": 4,
+        "PageNumber": 105,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Burmalı Sütun olarak da bilinen Yılanlı Sütun, I. Konstantinos tarafından Delfi’deki Apollon Tapınağı’ndan 324 yılında getirilerek, Hipodrom’un ortasına diktirilmiştir. Sütunun ismi birbirine dolanmış üç yılandan ileri gelmektedir. Doğru yanıt C'dir.</p> </div> </div> </div>",
+        "Title": "",
+        "Text": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>I. Konstantinos tarafından Delfi’deki Apollon Tapınağı’ndan 324 yılında getirilerek Hipodrom’un ortasına yerleştirilen yapıt aşağıdakilerden hangisidir?</p> </div> </div> </div>",
+        "A": "<p>Million Taşı</p>",
+        "B": "<p>Çemberlitaş Sütunu</p>",
+        "C": "<p>Yılanlı Sütun</p>",
+        "D": "<p>Gotlar Sütunu</p>",
+        "E": "<div class=\"page\" title=\"Page 5\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Teodosios Zafer Takı</p> </div> </div> </div>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936315,
+        "UniteNo": 4,
+        "PageNumber": 119,
+        "AnswerExplanation": "<p>İkona: Grekçe “Eikon” (resim, suret, tasvir) kelimesinden gelen İkona, boya ile taşınabilir küçük ahşap panel üzerine yapılan ve ibadet amacı taşıyan dinî konulu resimlerdir. </p>",
+        "Title": "<p>İkona: Grekçe “Eikon” (resim, suret, tasvir) kelimesinden gelen İkona, boya ile ahşap panel üzerine yapılan ve ibadet amacı taşıyan dinî konulu resimlerdir. İkona İsa, Meryem, Azizler ve Azizlerin yaşamlarının canlandırıldığı taşınabilir nitelikte resim levhaları olarak tanımlanmaktadır.</p>",
+        "Text": "<p>Aşağıdakilerden hangisi “ikona” tanımı için doğrudur?</p>",
+        "A": "<p>Sosyal medyada öne çıkan takip edilen kişilerdir</p> ",
+        "B": "<p>Boya maddesi ile yumurta akı karıştırılmasından elde edilen boyadır</p> ",
+        "C": "<p>Kiliselerde  12 Bayram sahnelerinin tasvir edildiği duvar resmidir</p> ",
+        "D": "<p>Boya ile ahşap panel üzerine yapılan dinî konulu resimlerdir</p>",
+        "E": "<p>Tanrı’nın ak bir güvercin suretinde İsa’nın üzerine inmesi duvar resmidir</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936119,
+        "UniteNo": 4,
+        "PageNumber": 114,
+        "AnswerExplanation": "<p>İznik elbeyli-Efes yamaç evleri</p>",
+        "Title": "<p>Anadolu’da bilinen en erken tarihli anıtsal resim sanatı örnekleri İznik Elbeyli<br />köyündeki hipojede(4. yy) ve Efes-Yamaç evlerinde<br />(3.-7. yy) bulunmaktadır.</p>",
+        "Text": "<p>Anadolu’da bilinen en erken tarihli anıtsal resim sanatı örnekleri hangi yerleşkelerde bulunmaktadır</p>",
+        "A": "<p>Aspendos-Afrodisyas</p>",
+        "B": "<p>İznik Elbeyli-Efes- Yamaç evleri</p>",
+        "C": "<p>Gaziantep-Kilis</p>",
+        "D": "<p>Kütahya-Bergama</p>",
+        "E": "<p>İstanbul-Trabzon</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936341,
+        "UniteNo": 4,
+        "PageNumber": 107,
+        "AnswerExplanation": "<p>Brias Sarayı: İmparator Teofilos (829-842) tarafından Arap saraylarına benzetilerek inşa ettirildiği bilinmektedir</p>",
+        "Title": "<p>Soruda özellikleri verilen yapının tanınması amaçlanmıştır. </p>",
+        "Text": "<p>İmparator Teofilos (829-842) tarafından Arap saraylarına benzetilerek inşa ettirildiği bilinen Bizans sarayı aşağıdakilerden hangisidir? </p>",
+        "A": "<p>Rhegion Sarayı</p>",
+        "B": "<p>Myrelaion Sarayı</p>",
+        "C": "<p>Brias Sarayı</p>",
+        "D": "<p>Lausos Sarayı</p>",
+        "E": "<p>Antiochus Sarayı</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936405,
+        "UniteNo": 4,
+        "PageNumber": 122,
+        "AnswerExplanation": "<p>i-Makedonya S&uuml;lalesi ii-Macar Kralı'na iii-13.yy'ın ikinci yarısı</p>",
+        "Title": "<p>Özellikle Makedonya Sülalesi (867-1056) zamanında mine tekniğinde maden eserler üretilmiştir. Bizans İmparatoru VII.Mikhael, Macar Kralı I. Geovitze'ye mine tekniği ile üretilen bir taç armağan etmiştir. 12. yüzyılın ikinci yarısından itibaren mine sanatı gittikçe bozularak eski değerini yitirmiştir. Doğru seçenek B şıkkıdır.</p>",
+        "Text": "Bizans İmparatorluğu'nda &ouml;zellikle mine tekniğinde maden eser &uuml;retimi&nbsp; i-hangi hanedan devrinde g&ouml;r&uuml;l&uuml;r ii-Macar Kralı I. Geovitze'ye mine tekniği ile &uuml;retilen bir tacı armağan eden Bizans imparatoru kimdir&nbsp; ve&nbsp; iii-mine tekniği hangi tarihten sonra bozularak eski değerini yitirmiştir?",
+        "A": "<p>i-Makedonya S&uuml;lalesi ii-IX.Konstantinos ii-12.yy'ın ikinci yarısı</p>",
+        "B": "<p>i-Makedonya S&uuml;lalesi ii-VII.Mikhael ii-12.yy'ın ikinci yarısı</p>",
+        "C": "<p>i-Komnenos Hanedanı ii-III.Romanos ii-11.yy'ın ikinci yarısı</p>",
+        "D": "<p>i-D&uuml;kas Hanedanı ii-I.Ioannis iii-12.yy'ın ortası</p>",
+        "E": "<p>i-Laskaris Hanedanı ii-VI.Leon iii-13.yy'ın ikinci yarısı</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936148,
+        "UniteNo": 4,
+        "PageNumber": 121,
+        "AnswerExplanation": "<p>811-1057 yılları arasındaki Bizans tarihinin anlatıldığı, 600 resim içeren el yazması, Ioannes Skylitzes Kroniği'dir.</p>",
+        "Title": "",
+        "Text": "<p>811-1057 yılları arasındaki Bizans tarihinin anlatıldığı, 600 resim içeren el yazması hangisidir?</p>",
+        "A": "<p>8. No’lu Oktateukh</p>",
+        "B": "<p>Ioannes Skylitzes Kroniği</p>",
+        "C": "<p>Paris Mezmuru</p>",
+        "D": "<p>Yeşu Rulosu</p>",
+        "E": "<p>Viyana Genesis</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936167,
+        "UniteNo": 4,
+        "PageNumber": 105,
+        "AnswerExplanation": "<p>Bizans sarayları imparator, özel ve piskoposluk sarayları olmak üzere üç ana başlık altında toplanabilir. İmparatorluğun Roma, İstanbul, Milano,<br />Ravenna ve Selanik gibi kentlerinde sarayları olduğu bilinmektedir. Doğru yanıt B'dir. </p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi Bizans Saraylarından biridir?</p>",
+        "A": "<p>Halk sarayı</p>",
+        "B": "<p>İmparatorluk sarayı</p>",
+        "C": "<p>Asker sarayı</p>",
+        "D": "<p>Dini saraylar</p>",
+        "E": "<p>Eğitim sarayı</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936290,
+        "UniteNo": 4,
+        "PageNumber": 117,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Üç Müneccim Kralın Tapınması: Kral Hirodes zamanında, İsa Beytüllahim’de doğduğu zaman, Doğu’dan üç gökbilimci gelir. Gökyüzünde takip ettikleri yıldız İsa’nın bulunduğu yerde durur. Üç kral adı verilen gökbilimciler İsa’yı görüp secde ederler. Sonra yanlarında getirdikleri hazineleri açıp İsa’ya altın, buhur ve mür aramağan ederler.</p>",
+        "Title": "<p>\"RESİM VE EL SANATLARI\" başlıklı yazıyı gözden geçiriniz.</p>",
+        "Text": "<p style=\"text-align: justify;\">\"Kral Hirodes zamanında, İsa Beytüllahim’de doğduğu zaman, Doğu’dan üç gökbilimci gelir. Gökyüzünde takip ettikleri yıldız İsa’nın bulunduğu yerde durur.  Gökbilimciler İsa’yı görüp secde ederler. Sonra yanlarında getirdikleri hazineleri açıp İsa’ya altın, buhur ve mür aramağan ederler.\" </p> <p style=\"text-align: justify;\">Ihlara Ağaçaltı Kilisesi'nde tasvir edilen bu anıtsal resmin adı aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Bayram Sahneleri.</p>",
+        "B": "<p>İsa'nın Göğe Yükselişi.</p>",
+        "C": "<p>Yahya’nın İsa’yı Vaftiz Edişi.</p>",
+        "D": "<p>Üç Müneccim Kralın Tapınması.</p>",
+        "E": "<p>Deasis.</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936328,
+        "UniteNo": 4,
+        "PageNumber": 110,
+        "AnswerExplanation": "<p>Yanıt B'dir. </p>",
+        "Title": "<p>Tanımı verilen yapı Altar'dır. </p>",
+        "Text": "<p>Hangisi, Hristiyanlık öncesi çeşitli dinlerde hayvanların üzerinde kurban edildiği; kiliselerde ise üzerinde İsa’nın bedenini simgeleyen ekmeğin ve yine İsa’nın kanını simgeleyen şarabın bulunduğu, genellikle taştan yapılmış, dört ya da daha çok destekle taşınan masanın adıdır?</p>",
+        "A": "<p>Eksedra</p>",
+        "B": "<p>Altar</p>",
+        "C": "<p>Synthronon</p>",
+        "D": "<p>Bema</p>",
+        "E": "<p>Şapel</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936450,
+        "UniteNo": 4,
+        "PageNumber": 103,
+        "AnswerExplanation": "<p>Erken Bizans Dönemi kendi içinde de ikiye ayrılır: Geç Antik ve Iustinianos Dönemi.</p>",
+        "Title": "",
+        "Text": "<p>Erken Bizans Dönemi hangi yüzyıllar arasındadır?</p>",
+        "A": "<p>5-8</p>",
+        "B": "<p>4-7</p>",
+        "C": "<p>9-13</p>",
+        "D": "<p>1-4</p>",
+        "E": "<p>8-12</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936131,
+        "UniteNo": 4,
+        "PageNumber": 117,
+        "AnswerExplanation": "<p>Deesis</p>",
+        "Title": "<p>Resim ve El Sanatları</p>",
+        "Text": "<p>İsa’nın sağında Meryem, solunda Vaftizci Yahya ile birlikte tasvir edildiği, kimi zaman meleklerin ve havarilerin de eşlik ettiği, Meryem ve Yahya’nın günahkârlar için Tanrı’dan bağışlanma dilediği sahne aşağıdakilerden hangisi olarak bilinmektedir?</p>",
+        "A": "<p>Deesis</p> ",
+        "B": "<p>Metaformosis</p> ",
+        "C": "<p>Anastasis</p> ",
+        "D": "<p>Pentekost</p> ",
+        "E": "<p>Koimesis</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936208,
+        "UniteNo": 4,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Bızans’ın tarihsel dönemlerını açıklayabileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi Birinci Altın Çağı olarak da adlandırılan I. Iustinianos Dönemi’nde imparatorluğun ekonomik açıdan hızla büyümesinde etkili olmamıştır? ",
+        "A": "Seferlerden elde edilen ganimetler",
+        "B": "Fethedilen yerlerin doğal kaynakları",
+        "C": "Fethedilen yerlerden elde edilen vergiler",
+        "D": "Nüfus artışı",
+        "E": "Toplumun eğitim düzeyinin yükselmesi",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936287,
+        "UniteNo": 4,
+        "PageNumber": 109,
+        "AnswerExplanation": "<p>Atrium: Kilisenin batısında bulunan avluya verilen isimdir.</p>",
+        "Title": "<p>\"Dinî Mimari\" başlıklı yazıyı gözden geçiriniz.</p>",
+        "Text": "<p>Bizans Kilisesinin batısında bulunan avluya verilen isim, aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Galeri.</p>",
+        "B": "<p>Narteks.</p>",
+        "C": "<p>Atrium.</p>",
+        "D": "<p>Vaftizhane.</p>",
+        "E": "<p>Nef.</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936209,
+        "UniteNo": 4,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Anıtsal resim sanatı, ikona ve el yazmalarını dönemlerine göre örnekler ile açıklayabilecek ",
+        "Text": "Vaftiz sözcüğü ne anlama gelir?",
+        "A": "Suya sunulan iyilik",
+        "B": "Sudan gelen sağlık",
+        "C": "Suya batırma daldırma",
+        "D": "Sudan gelen hayat",
+        "E": "Suya adanan dilek",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
     }
 ]

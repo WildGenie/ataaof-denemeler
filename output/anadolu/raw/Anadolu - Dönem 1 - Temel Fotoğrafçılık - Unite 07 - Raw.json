@@ -12,8 +12,7 @@
         "D": "<p>Orta sarı filtre kullanmalıdır.</p>",
         "E": "<p>Kırmızı Filtre kullanmalıdır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351239,
@@ -28,8 +27,7 @@
         "D": "<p>Tripod</p>",
         "E": "<p>Pozometre</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351240,
@@ -44,8 +42,7 @@
         "D": "<p>USB Bellek Kartlar</p>",
         "E": "<p>Compact Flaş Kartlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351241,
@@ -60,8 +57,7 @@
         "D": "<p>Tripod</p>",
         "E": "<p>Filtre</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351245,
@@ -76,8 +72,7 @@
         "D": "<p>Perspektif kontrollü shift objektifler</p>",
         "E": "<p>Sabti Odaklı Objektifler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351246,
@@ -92,8 +87,7 @@
         "D": "<p>Kırmızı filtre</p>",
         "E": "<p>Turuncu filtre</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351247,
@@ -108,8 +102,7 @@
         "D": "<p>85B Filtre</p>",
         "E": "<p>FL-B Filtre</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351250,
@@ -124,8 +117,7 @@
         "D": "<p>Çoklu filtre</p>",
         "E": "<p>Hız filtresi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351259,
@@ -140,8 +132,7 @@
         "D": "<p>FL-D Filtre Floresan Daylight</p> ",
         "E": "<p>FL-W Filtre Floresan White</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351260,
@@ -156,8 +147,7 @@
         "D": "<p>Sunset Filtre</p>  ",
         "E": "<p>Yıldız Filtre</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351261,
@@ -172,8 +162,7 @@
         "D": "<p>3 (Gövde, Objektif, Flash)<br /><br /></p>",
         "E": "<p>3 (Gövde, Flash, Film)</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351265,
@@ -188,8 +177,7 @@
         "D": "<p>I ve V<br /><br /></p>",
         "E": "<p>I, II ve V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351276,
@@ -204,8 +192,7 @@
         "D": "<p class=\"p1\">Bulutsuz havada güneş</p>",
         "E": "<p class=\"p1\">Mum gaz lambası</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351277,
@@ -220,8 +207,7 @@
         "D": "<p class=\"p1\">Sunset filtre</p>",
         "E": "<p class=\"p1\">Yıldız filtre</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351280,
@@ -236,8 +222,7 @@
         "D": "<p class=\"p1\">Yukarıda konumlandırılamlıdır.</p>",
         "E": "<p class=\"p1\">Sadece iç mekanda kullanılır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351287,
@@ -252,8 +237,7 @@
         "D": "<p>UV Filtreler</p>",
         "E": "<p>FL-D Filtre Floresan Daylight</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351299,
@@ -268,8 +252,7 @@
         "D": "<p>Cyan</p>",
         "E": "<p>Mavi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351306,
@@ -284,8 +267,7 @@
         "D": "<p>Koyu sarı filtre</p>",
         "E": "<p>Orta sarı filtre</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351308,
@@ -300,8 +282,7 @@
         "D": "<p class=\"p2\">Renk doygunluğunu arttırarak kontrastlığı ve konunun belirginleşmesini sağlar, ışık yansımalarını keserek cisimlerdeki yansımayı engeller ve yoğunluğu azaltır.</p>",
         "E": "<p class=\"p2\">Fazla gelen uv ışınlarının filtre tarafından emilmesi fotoğrafımızda oluşan bulanıklık ve sisi engelleyerek görüntü üzerindeki kontrastlığı arttırır ve fotoğrafımız daha net ve keskin bir hâle gelir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351310,
@@ -316,8 +297,7 @@
         "D": "<p>Koyu sarı veya turuncu</p>",
         "E": "<p class=\"p1\">Kırmızı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351224,
@@ -332,8 +312,7 @@
         "D": "<p>titremeyi engelleyici özellik</p>",
         "E": "<p>hava şartları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351229,
@@ -348,8 +327,7 @@
         "D": "<p>3</p>",
         "E": "<p>7</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351230,
@@ -364,8 +342,7 @@
         "D": "<p>Bu filtrenin yapısı saydam değil çiziklerden oluşur.</p>",
         "E": "<p>Genellikle portre çekimlerinde yüzdeki kırışıklık ve sarkmaları önlemek amacıyla, natürmort ve manzara çekimlerinde ve kontrastlığın fazla olduğu durumlarda kontrastlığı azaltmak için kullanılır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351233,
@@ -380,8 +357,7 @@
         "D": "<p>f2.8</p>",
         "E": "<p>f1.4</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351244,
@@ -396,8 +372,7 @@
         "D": "<p>Süper tele objektifler</p>",
         "E": "<p>Normal Açılı Objektifler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351255,
@@ -412,8 +387,7 @@
         "D": "<p>Turuncu Filtre</p> ",
         "E": "<p>Kırmızı Filtre</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351262,
@@ -428,8 +402,7 @@
         "D": "<p>Diyafram<br /><br /></p>",
         "E": "<p>Perde</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351263,
@@ -444,8 +417,7 @@
         "D": "<p>I, II ve IV<br /><br /></p>",
         "E": "<p>II, IV ve V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351269,
@@ -460,8 +432,7 @@
         "D": "<p>FL-B Filtre<br /><br /></p>",
         "E": "<p>80-B Filtre</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351273,
@@ -476,8 +447,7 @@
         "D": "<p class=\"p1\">f2.8</p>",
         "E": "<p class=\"p1\">f1.4</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351274,
@@ -492,8 +462,7 @@
         "D": "<p class=\"p1\">Doğada olmayan gerçeküstü görüntü oluşturur.</p>",
         "E": "<p class=\"p1\">Film üzerine kaydedilen görüntüyü kaydeder.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351278,
@@ -508,8 +477,7 @@
         "D": "<p>II-V</p>",
         "E": "<p>IV-V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351292,
@@ -524,8 +492,7 @@
         "D": "<p>Dar Açılı Objektifler</p>",
         "E": "<p>Süper Tele Objektifler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351295,
@@ -540,8 +507,7 @@
         "D": "<p>Kalite</p>",
         "E": "<p>Model</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351297,
@@ -556,8 +522,7 @@
         "D": "<p>Kırmızı Filtre</p>",
         "E": "<p>Mavi Filtre</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351298,
@@ -572,8 +537,7 @@
         "D": "<p>Yeşil Filtre</p>",
         "E": "<p>Kırmızı Filtre</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351304,
@@ -588,8 +552,7 @@
         "D": "<p class=\"p2\">f4.5</p>",
         "E": "<p class=\"p2\">f5.6</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351305,
@@ -604,8 +567,7 @@
         "D": "<p>Turuncu filtre</p>",
         "E": "<p>Kırmızı filtre</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351225,
@@ -620,8 +582,7 @@
         "D": "<p>45-46 derecelik bakış açısıyla gören insan gözüne en yakın görüşü veren objektiflerdir</p>",
         "E": "<p>Tele objektif olarak da adlandırılırlar.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351228,
@@ -636,8 +597,7 @@
         "D": "<p>Kırmızı Filtre</p>",
         "E": "<p>Turuncu Filtre<br /><br /></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351242,
@@ -652,8 +612,7 @@
         "D": "<p>18-200mm</p>",
         "E": "<p>35-70mm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351243,
@@ -668,8 +627,7 @@
         "D": "<p>Dar açılı objektifler</p>",
         "E": "<p>Süper tele objektifler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351248,
@@ -684,8 +642,7 @@
         "D": "<p>8000K</p>",
         "E": "<p>5500K</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351254,
@@ -700,8 +657,7 @@
         "D": "<p>Balık gözü objektifler</p> ",
         "E": "<p>Süper tele objektifler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351272,
@@ -716,8 +672,7 @@
         "D": "<p class=\"p1\">Normal açılı objektif</p>",
         "E": "<p class=\"p1\">Geniş açılı objektif</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351275,
@@ -732,8 +687,7 @@
         "D": "<p>I-III</p>",
         "E": "<p>III-IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351279,
@@ -748,8 +702,7 @@
         "D": "<p class=\"p1\">Tripod</p>",
         "E": "<p class=\"p1\">Objektif</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351293,
@@ -764,8 +717,7 @@
         "D": "<p>Sabit Odaklı Objektifler</p>",
         "E": "<p>Zoom Objektifler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351294,
@@ -780,8 +732,7 @@
         "D": "<p>Normal Açılı Objektifler</p>",
         "E": "<p>Zoom Objektifler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351237,
@@ -796,8 +747,7 @@
         "D": "<p>Çoklu Filtre</p>",
         "E": "<p>Hız Filtresi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351249,
@@ -812,8 +762,7 @@
         "D": "<p>Tek renkli filtre</p>",
         "E": "<p>Polarize filtre</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351251,
@@ -828,8 +777,7 @@
         "D": "<p>Zoom objektifler</p> ",
         "E": "<p>Dar açılı objektifler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351252,
@@ -844,8 +792,7 @@
         "D": "<p>Değişken odaklı objektifler</p>",
         "E": "<p>Süper tele objektifler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351257,
@@ -860,8 +807,7 @@
         "D": "<p>Yoğunluk ND Filtreleri</p> ",
         "E": "<p>Kontrast Azaltıcı Filtreler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351271,
@@ -876,8 +822,7 @@
         "D": "<p class=\"p1\">Normal açılı objektif</p>",
         "E": "<p class=\"p1\">Geniş açılı objektif</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351286,
@@ -892,8 +837,7 @@
         "D": "<p>FL-B Filtre Floresan Bulb</p>",
         "E": "<p>FL-D Filtre Floresan Daylight</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351289,
@@ -908,8 +852,7 @@
         "D": "<p>Portre</p>",
         "E": "<p>Teleobjektifle yapılan çekimler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351290,
@@ -924,8 +867,7 @@
         "D": "<p>Küçük f değerinde diyafram açıklığına sahip objektifler hızlı objektiflerdir.</p>",
         "E": "<p>200mm ve üstü odak uzaklığına sahip objektifler süper tele objektif grubuna giren objektiflerdir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351307,
@@ -940,8 +882,7 @@
         "D": "<p class=\"p2\">85B filtre</p>",
         "E": "<p class=\"p2\">Filtre-B filtre floresan bulb</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351227,
@@ -956,8 +897,7 @@
         "D": "<p>Kırmak ve kesmek</p>",
         "E": "<p>Yansıtmak ve iletmek</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351234,
@@ -972,8 +912,7 @@
         "D": "<p>Mavi ve Sarı</p>",
         "E": "<p>Kırmızı ve Cyan</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351235,
@@ -988,8 +927,7 @@
         "D": "<p>85B Filtresi</p>",
         "E": "<p>FL-B Filtre</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351236,
@@ -1004,8 +942,7 @@
         "D": "<p>Renk Tamlama Filtreleri</p>",
         "E": "<p>Soft Filtreler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351270,
@@ -1020,8 +957,7 @@
         "D": "<p>Yıldız Filtre<br /><br /></p>",
         "E": "<p>Çoklu Filtre</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351281,
@@ -1036,8 +972,7 @@
         "D": "<p>Dar açılı objektifler</p>",
         "E": "<p>Makro objektifler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351283,
@@ -1052,8 +987,7 @@
         "D": "<p>10000</p>",
         "E": "<p>22000</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351226,
@@ -1068,8 +1002,7 @@
         "D": "<p>Tüm objektif türleri içerisinde görüş açısı en geniş olan objektif çeşididir.</p>",
         "E": "<p>Odak uzunlukları 70mm ile 135mm arasındadır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351231,
@@ -1084,8 +1017,7 @@
         "D": "<p>Özellikle uzun pozlama gerektiren fotoğraf çekimlerinde kullanılır.</p>",
         "E": "<p>Doğru enstantane ve diyafram açıklığını bulmanın en kolay yolu pozometre kullanmaktır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351264,
@@ -1100,8 +1032,7 @@
         "D": "<p>Dar Açılı Objektifler <br /><br /></p>",
         "E": "<p>Kedi Gözü Objektifler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351282,
@@ -1116,8 +1047,7 @@
         "D": "<p>Turuncu Filtre</p>",
         "E": "<p>Kırmızı Filtre</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351300,
@@ -1132,8 +1062,7 @@
         "D": "<p>10000K</p>",
         "E": "<p>22000K</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351301,
@@ -1148,8 +1077,7 @@
         "D": "<p>Normal açılı objektifler</p>",
         "E": "<p>Dar açılı objektifler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351256,
@@ -1164,8 +1092,7 @@
         "D": "<p>Turuncu Filtre</p> ",
         "E": "<p>Kırmızı Filtre</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351285,
@@ -1180,8 +1107,7 @@
         "D": "<p>Degrade filtre</p>",
         "E": "<p>Sky Light Filtreler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351291,
@@ -1196,8 +1122,7 @@
         "D": "<p>Dar Açılı</p>",
         "E": "<p>Balık Gözü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351232,
@@ -1212,8 +1137,7 @@
         "D": "<p>Balık Gözü Objektifler</p>",
         "E": "<p>Geniş Açılı Objektifler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351268,
@@ -1228,8 +1152,7 @@
         "D": "<p>Kırmızı Filtre <br /><br /></p>",
         "E": "<p>Yeşil Filtre</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351296,
@@ -1244,8 +1167,7 @@
         "D": "<p>Diyafram</p>",
         "E": "<p>Balık Gözü</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351303,
@@ -1260,8 +1182,7 @@
         "D": "<p class=\"p2\">Dar Açılı Objektifler</p>",
         "E": "<p class=\"p2\">Süper Tele Objektifler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351223,
@@ -1276,8 +1197,7 @@
         "D": "<p>Filtre</p>",
         "E": "<p>Göz</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351302,
@@ -1292,8 +1212,7 @@
         "D": "<p>70-135 mm</p>",
         "E": "<p>200 mm ve üstü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351309,
@@ -1308,8 +1227,7 @@
         "D": "<p>Çoklu filtre</p>",
         "E": "<p>Hız filtresi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351267,
@@ -1324,8 +1242,7 @@
         "D": "<p>Sarı Filtre<br /><br /></p>",
         "E": "<p>Turuncu Filtre</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351284,
@@ -1340,8 +1257,7 @@
         "D": "<p>Kırmızı filtre</p>",
         "E": "<p>Turuncu filtre</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351288,
@@ -1356,8 +1272,7 @@
         "D": "<p>ND filtre</p>",
         "E": "<p>Soft Filtreler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351253,
@@ -1372,7 +1287,6 @@
         "D": "<p>Balık gözü objektifler</p>",
         "E": "<p>Süper tele objektifler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Avusturya</p>",
         "E": "<p>Fransa</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354035,
@@ -28,8 +27,7 @@
         "D": "<p>Hale</p>",
         "E": "<p>İkon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354037,
@@ -44,8 +42,7 @@
         "D": "<p>Rönesans</p>",
         "E": "<p>Endüstri Devrimi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354040,
@@ -60,8 +57,7 @@
         "D": "<p>Empresyonizm</p>",
         "E": "<p>Kubist</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354428,
@@ -76,8 +72,7 @@
         "D": "<p>Tempera </p>",
         "E": "<p>İkon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354448,
@@ -92,8 +87,7 @@
         "D": "<p>Barok Portre</p>",
         "E": "<p>Soyut Portre</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354450,
@@ -108,8 +102,7 @@
         "D": "<p>Fresko</p> ",
         "E": "<p>Mozaik</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354451,
@@ -124,8 +117,7 @@
         "D": "<p>Fresko</p>",
         "E": "<p>Rölyef</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354454,
@@ -140,8 +132,7 @@
         "D": "<p>Hale</p>",
         "E": "<p>Perspektif:</p>  ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354455,
@@ -156,8 +147,7 @@
         "D": "<p>Rubens</p>",
         "E": "<p>Rembrandt</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354456,
@@ -172,8 +162,7 @@
         "D": "<p>Rönesans </p>",
         "E": "<p>Postmodern Dönem </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354457,
@@ -188,8 +177,7 @@
         "D": "<p>Figürler bir tiyatro sahnesindeymiş gibi dururlar. </p>",
         "E": "<p>Vücut anatomisi ayrıntılı biçimde resmedilir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354470,
@@ -204,8 +192,7 @@
         "D": "<p>Norveç</p>",
         "E": "<p>Macaristan </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354492,
@@ -220,8 +207,7 @@
         "D": "<p>İspanya</p>",
         "E": "<p>Fransa</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354493,
@@ -236,8 +222,7 @@
         "D": "<p>1848</p>",
         "E": "<p>1849</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354518,
@@ -252,8 +237,7 @@
         "D": "<p>Leonardo</p>",
         "E": "<p>Caravaggio</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354519,
@@ -268,8 +252,7 @@
         "D": "<p>Giotto</p>",
         "E": "<p>Masaccio</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354521,
@@ -284,8 +267,7 @@
         "D": "<p>Manet</p>",
         "E": "<p>David Friedrich</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354522,
@@ -300,8 +282,7 @@
         "D": "<p>Georges Seurat</p>",
         "E": "<p>Paul Gauguin</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354523,
@@ -316,8 +297,7 @@
         "D": "<p>Sürrealizm</p>",
         "E": "<p>Süprematizm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354034,
@@ -332,8 +312,7 @@
         "D": "<p>Hayvan</p>",
         "E": "<p>Çiçek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354036,
@@ -348,8 +327,7 @@
         "D": "<p>Raffaello</p>",
         "E": "<p>Warhol</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354038,
@@ -364,8 +342,7 @@
         "D": "<p>Barok</p>",
         "E": "<p>Sanayi Devrimi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354419,
@@ -380,8 +357,7 @@
         "D": "<p>İdol </p>",
         "E": "<p>İkon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354425,
@@ -396,8 +372,7 @@
         "D": "<p>Mısır </p>",
         "E": "<p>Anadolu </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354433,
@@ -412,8 +387,7 @@
         "D": "<p>Hale </p>",
         "E": "<p>İkonoklast </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354444,
@@ -428,8 +402,7 @@
         "D": "<p>Sanatçıdan beklenen, izleyenin eserin görsel yönünden çok duygusal yönü ile hissetmesini ve etkilenmesini sağlamasıdır.</p>",
         "E": "<p>Resimler anonim olmaktan çıkarak sanatçı resmi ile kendini göstermeye başlar. </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354447,
@@ -444,8 +417,7 @@
         "D": "<p>Dekoratif</p>",
         "E": "<p>Hiyeroglif</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354453,
@@ -460,8 +432,7 @@
         "D": "<p>İdol</p>",
         "E": "<p>Mozaik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354478,
@@ -476,8 +447,7 @@
         "D": "<p>İlahiyat</p>",
         "E": "<p>Şiir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354514,
@@ -492,8 +462,7 @@
         "D": "<p>İs ve külden yapılmış boyalar kullanılmıştır </p>",
         "E": "<p>Törensel bir dil kullanılmıştır</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354515,
@@ -508,8 +477,7 @@
         "D": "<p>Baş profilden, gövde cepheden resmedilmiştir</p>",
         "E": "<p>Çok açılı bir bakış söz konusudur</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354031,
@@ -524,8 +492,7 @@
         "D": "<p>Koku</p>",
         "E": "<p>Tat alma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354033,
@@ -540,8 +507,7 @@
         "D": "<p>Babil</p>",
         "E": "<p>Akad</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354039,
@@ -556,8 +522,7 @@
         "D": "<p>Michelangelo </p>",
         "E": "<p>Raffaello</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354445,
@@ -572,8 +537,7 @@
         "D": "<p>Anatomik gerçekliğe ve Klasik güzelliğe odaklanılır. </p>",
         "E": "<p>Resim sanatı teknik olarak fresko, mozaik ve çoğunlukla tempera tekniğinde yapılan ikonlardan oluşur.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354452,
@@ -588,8 +552,7 @@
         "D": "<p>Rubens</p>",
         "E": "<p>Umberto Eco</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354458,
@@ -604,8 +567,7 @@
         "D": "<p>Barok </p>",
         "E": "<p>Rönesans </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354459,
@@ -620,8 +582,7 @@
         "D": "<p>Noktacılık </p>",
         "E": "<p>Romantik </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354472,
@@ -636,8 +597,7 @@
         "D": "<p>2 ve 4</p>",
         "E": "<p>2 ve 5</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354520,
@@ -652,8 +612,7 @@
         "D": "<p>Realizm-Yüceltilmiş duygular</p>",
         "E": "<p>Ortaçağ-Skolastik düşünce</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354446,
@@ -668,8 +627,7 @@
         "D": "<p>Modelleme</p>",
         "E": "<p>Figür</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354471,
@@ -684,8 +642,7 @@
         "D": "<p>Mısırlılar</p>",
         "E": "<p>Çinliler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354517,
@@ -700,8 +657,7 @@
         "D": "<p>Resimlerde çizgisel perspektif kullanılır</p>",
         "E": "<p>Anatomik gerçeklik ve klasik güzelliğe odaklanır</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354516,
@@ -716,7 +672,6 @@
         "D": "<p>İdealist</p>",
         "E": "<p>Hümanist</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     }
 ]

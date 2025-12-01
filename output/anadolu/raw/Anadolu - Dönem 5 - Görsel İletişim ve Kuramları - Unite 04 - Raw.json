@@ -12,8 +12,7 @@
         "D": "<p>nesne</p>",
         "E": "<p>obje</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603444,
@@ -28,8 +27,7 @@
         "D": "<p>Görüntülerin</p>",
         "E": "<p>Kültürün</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603445,
@@ -44,8 +42,7 @@
         "D": "<p>Biçimsellik</p>",
         "E": "<p>Yapaylık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603448,
@@ -60,8 +57,7 @@
         "D": "<p>Resim</p>",
         "E": "<p>Retorik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603449,
@@ -76,8 +72,7 @@
         "D": "<p>Davetiye ve bilet tasarımları</p>",
         "E": "<p>Afiş ve kitap tasarımlarıdır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603577,
@@ -92,8 +87,7 @@
         "D": "<p>Anlamın oluşturulma biçimini ve sürecini analiz eder</p>",
         "E": "<p>Görünen dünya ile ilgilenir</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603580,
@@ -108,8 +102,7 @@
         "D": "<p>Vesikalık Fotoğraflar</p>",
         "E": "<p>İkaz, uyarı levhaları </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603581,
@@ -124,8 +117,7 @@
         "D": "<p>Bedensel ve zihinsel yeterlilik</p>",
         "E": "<p>İçinde yaşadığı coğrafi koşullar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603582,
@@ -140,8 +132,7 @@
         "D": "<p>Pierce</p>",
         "E": "<p>Bacon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603584,
@@ -156,8 +147,7 @@
         "D": "<p>Sayısal boyut</p>",
         "E": "<p>Edimsel boyut</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603585,
@@ -172,8 +162,7 @@
         "D": "<p>İmge</p>",
         "E": "<p>Kod </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603586,
@@ -188,8 +177,7 @@
         "D": "<p>Sembolizm</p>",
         "E": "<p>Dışavurumculuk</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603614,
@@ -204,8 +192,7 @@
         "D": "<p>Gösteri</p>",
         "E": "<p>Gösterilmeyen</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603617,
@@ -220,8 +207,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603619,
@@ -236,8 +222,7 @@
         "D": "<p>Sembol</p>",
         "E": "<p>Değişken</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603620,
@@ -252,8 +237,7 @@
         "D": "<p>Renkli/Renksiz</p>",
         "E": "<p>İşitsel/Görsel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603621,
@@ -268,8 +252,7 @@
         "D": "<p>Gösterilmeyen</p>",
         "E": "<p>Gösteri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603623,
@@ -284,8 +267,7 @@
         "D": "<p>Metinsel, bireysel, imgesel</p>",
         "E": "<p>İmgesel, sosyal, kuramsal</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603624,
@@ -300,8 +282,7 @@
         "D": "<p>Siyasetin etik kurallarını belirlemesi</p>",
         "E": "<p>Kültür endüstrisinin kaynağı olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603626,
@@ -316,8 +297,7 @@
         "D": "<p>İçeriğin biçimi</p>",
         "E": "<p>İçeriğin göstergesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603366,
@@ -332,8 +312,7 @@
         "D": "<p>Medya</p>",
         "E": "<p>Sanat</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603442,
@@ -348,8 +327,7 @@
         "D": "<p>Nesnel, nesnel olmayan göstergeler olarak ikiye ayrılır.</p>",
         "E": "<p>Kuramsal, kavramsal ve nesnel olarak üçe ayrılır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603447,
@@ -364,8 +342,7 @@
         "D": "<p>Tanım</p>",
         "E": "<p>Kurgu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603579,
@@ -380,8 +357,7 @@
         "D": "<p>Sembol</p>",
         "E": "<p>Doğrudan temsili resim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603616,
@@ -396,8 +372,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603622,
@@ -412,8 +387,7 @@
         "D": "<p>Matematik denklemlerden</p>",
         "E": "<p>Algoritmik manipulasyondan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603443,
@@ -428,8 +402,7 @@
         "D": "<p>Doğal göstergeler.</p>",
         "E": "<p>Nesnel olmayan göstergeler.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603446,
@@ -444,8 +417,7 @@
         "D": "<p>Anlatılar</p>",
         "E": "<p>Ses</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603578,
@@ -460,8 +432,7 @@
         "D": "<p>Locke</p>",
         "E": "<p>Saussure</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603583,
@@ -476,7 +447,6 @@
         "D": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Görüntü</span></span></p>",
         "E": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Tasarım</span></span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     }
 ]

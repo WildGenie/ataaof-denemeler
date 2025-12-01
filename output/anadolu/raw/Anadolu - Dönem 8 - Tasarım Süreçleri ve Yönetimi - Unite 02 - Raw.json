@@ -12,8 +12,7 @@
         "D": "<p>I, IV, V</p>",
         "E": "<p>I, II, IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833512,
@@ -28,8 +27,7 @@
         "D": "<p>I-C, II-A, III-B</p>",
         "E": "<p>I-A, II-C, III-B</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833514,
@@ -44,8 +42,7 @@
         "D": "<p>Maddi olanakların sınırlarını dijital olanaklarla aşmıştır.</p>",
         "E": "<p>Dijital ortamda etkili bir portfolyo sunumu gerçekleştirmiştir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833516,
@@ -60,8 +57,7 @@
         "D": "<p>Portfolyoyu daha sağlam hale getirmiştir.</p> ",
         "E": "<p>Masraftan kaçınmıştır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833519,
@@ -76,8 +72,7 @@
         "D": "<p>Başvurular arasında objektif bir değerlendirme yapılabilmesi</p> ",
         "E": "<p>Fotoğrafların gerçeği yansıtmaması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833522,
@@ -92,8 +87,7 @@
         "D": "<p>Tasarla, simgele.</p> ",
         "E": "<p>Anlatma, göster.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833525,
@@ -108,8 +102,7 @@
         "D": "<p>Ofis ortamı</p> ",
         "E": "<p>Kırtasiye malzemesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833529,
@@ -124,8 +117,7 @@
         "D": "<p>Metin formatında tutarsızlıklara yol açar.</p> ",
         "E": "<p>Tasarım ve uygulama sürelerini uzatır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833545,
@@ -140,8 +132,7 @@
         "D": "<p>Standart web tasarım veya ekran ölçü oranları</p>",
         "E": "<p>Portfolyonun maliyeti</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833558,
@@ -156,7 +147,6 @@
         "D": "<p>Açık</p> ",
         "E": "<p>Karmaşık </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

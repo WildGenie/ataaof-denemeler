@@ -12,8 +12,7 @@
         "D": "<p>EMİNSU Derneği Üyeleri</p>",
         "E": "<p>TİP</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513378,
@@ -28,8 +27,7 @@
         "D": "<p>Fazlı Akkoyunlu</p>",
         "E": "<p>Talat Aydemir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513380,
@@ -44,8 +42,7 @@
         "D": "<p>İnkılap Mahkemeleri Kanunu'nun çıkarılması</p>",
         "E": "<p>14'lerin Milli Birlik Komitesi'nden tasviye edilmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513383,
@@ -60,8 +57,7 @@
         "D": "<p>MBK ile Silahlı Kuvvetler Birliği arasındaki dengelerin tespit edilmesi için</p>",
         "E": "<p>Seçimlerin 29 Ekim 1061 tarihinde önce gerçekleştirilmesi için</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513395,
@@ -76,8 +72,7 @@
         "D": "<p><span style=\"font-size: 12pt;\">Bülent Ulusu</span></p>",
         "E": "<p><span style=\"font-size: 12pt;\">Kemal Türkler</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513436,
@@ -92,8 +87,7 @@
         "D": "<p>Yüksek Adalet Komitesi (YAK)</p>",
         "E": "<p>Silahlı Kuvvetler Birliği (SKB)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513437,
@@ -108,8 +102,7 @@
         "D": "<p>14'lerin tasfiyesi</p>",
         "E": "<p>Özel kuruluşlardaki tasfiyeler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513439,
@@ -124,8 +117,7 @@
         "D": "<p>Cumhuriyetçi Köylü Millet Partisi</p>",
         "E": "<p>Milliyetçi Hareket Partisi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513441,
@@ -140,8 +132,7 @@
         "D": "<p>Mehmet Konedralı</p>",
         "E": "<p>Ethem Sancar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513443,
@@ -156,8 +147,7 @@
         "D": "<p>Ekonominin kötü gidişatı</p>",
         "E": "<p>Hükümet hakkındaki yolsuzluk iddiaları.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513444,
@@ -172,8 +162,7 @@
         "D": "<p>Nihat Erim 17 Nisan 1972 tarihinde başbakanlık görevinden alındı.</p>",
         "E": "<p>Pek çok  akademisyen ve aydına yönelik tutuklamalar.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513459,
@@ -188,8 +177,7 @@
         "D": "<p>Rıfat Baykal</p>",
         "E": "<p>Talat Aydemir</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513462,
@@ -204,8 +192,7 @@
         "D": "<p>1951 Anayasası</p>",
         "E": "<p>1961 Anayasası</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513633,
@@ -220,8 +207,7 @@
         "D": "<p>Cemal Gürsel</p>",
         "E": "<p>Numan Esin</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513635,
@@ -236,8 +222,7 @@
         "D": "<p>Cumhuriyetçi Köylü Millet Partisi</p>",
         "E": "<p>Cumhuriyet Halk Partisi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513636,
@@ -252,8 +237,7 @@
         "D": "<p>Adnan Menderes</p>",
         "E": "<p>Talat Aydemir</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513638,
@@ -268,8 +252,7 @@
         "D": "<p>Nihat İlhan</p>",
         "E": "<p>Hıfzı Oğuz Bekata</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513680,
@@ -284,8 +267,7 @@
         "D": "<p>Türk Ceza Kanunu</p>",
         "E": "<p>İnsanhakları Kanunu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513681,
@@ -300,8 +282,7 @@
         "D": "<p>II, IV, V</p>",
         "E": "<p>I, II, V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513686,
@@ -316,8 +297,7 @@
         "D": "<p>Necmettin Erbakan</p>",
         "E": "<p>Alparslan Türkeş</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513381,
@@ -332,8 +312,7 @@
         "D": "<p>27 Mayıs 1960</p>",
         "E": "<p>9 Temmuz 1961</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513385,
@@ -348,8 +327,7 @@
         "D": "<p>12 Mart 1971</p>",
         "E": "<p>20 Mayıs 1969</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513388,
@@ -364,8 +342,7 @@
         "D": "<p><span class=\"markedContent\" style=\"font-family: verdana, geneva, sans-serif; font-size: 12pt;\"><span dir=\"ltr\" style=\"left: 118.11px; top: 1082.05px; transform: scaleX(0.963012);\" role=\"presentation\"><span class=\"markedContent\"><span dir=\"ltr\" style=\"left: 479.528px; top: 296.484px; transform: scaleX(0.966549);\" role=\"presentation\"><span dir=\"ltr\" style=\"left: 479.528px; top: 513.151px; transform: scaleX(0.971081);\" role=\"presentation\"><span id=\"page3R_mcid248\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 479.528px; top: 274.817px; transform: scaleX(0.952355);\" role=\"presentation\">Emekli edilen generallerin </span></span><span id=\"page3R_mcid249\" class=\"markedContent\">20’si Hava Kuvvetlerindendir.</span><span id=\"page3R_mcid250\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 479.528px; top: 318.151px; transform: scaleX(0.990551);\" role=\"presentation\"><br /></span></span></span></span></span></span></span></p>\n<p><span class=\"markedContent\" style=\"font-size: 12pt;\"><span dir=\"ltr\" style=\"left: 118.11px; top: 1082.05px; font-family: serif; transform: scaleX(0.963012);\" role=\"presentation\"><span style=\"font-family: verdana, geneva, sans-serif;\"><span class=\"markedContent\"><span dir=\"ltr\" style=\"left: 479.528px; top: 296.484px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.966549);\" role=\"presentation\"><span dir=\"ltr\" style=\"left: 479.528px; top: 513.151px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.971081);\" role=\"presentation\"><span id=\"page3R_mcid206\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 94.4882px; top: 409.542px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.01448);\" role=\"presentation\"><span style=\"font-family: verdana, geneva, sans-serif; font-size: 12pt;\"><span id=\"page3R_mcid265\" class=\"markedContent\"></span><span id=\"page3R_mcid266\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 479.528px; top: 534.817px; transform: scaleX(0.966561);\" role=\"presentation\"><br /></span></span></span></span></span></span></span></span></span></span></span></p>",
         "E": "<p><span class=\"markedContent\" style=\"font-size: 12pt;\"><span dir=\"ltr\" style=\"left: 118.11px; top: 1082.05px; font-family: serif; transform: scaleX(0.963012);\" role=\"presentation\"><span style=\"font-family: verdana, geneva, sans-serif;\"><span class=\"markedContent\"><span dir=\"ltr\" style=\"left: 479.528px; top: 296.484px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.966549);\" role=\"presentation\"><span dir=\"ltr\" style=\"left: 479.528px; top: 513.151px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.971081);\" role=\"presentation\"><span id=\"page3R_mcid206\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 94.4882px; top: 409.542px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.01448);\" role=\"presentation\"><span style=\"font-family: verdana, geneva, sans-serif; font-size: 12pt;\"><span id=\"page3R_mcid265\" class=\"markedContent\">Dernek altında örgütlenen emekli </span><span id=\"page3R_mcid266\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 479.528px; top: 534.817px; transform: scaleX(0.966561);\" role=\"presentation\">subaylar kamuoyundan uzak durmuşlardır.</span></span></span></span></span></span></span></span></span></span></span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513389,
@@ -380,8 +357,7 @@
         "D": "<p><span style=\"font-size: 12pt; font-family: verdana, geneva, sans-serif;\"><span id=\"page3R_mcid300\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 479.528px; top: 1042.6px; transform: scaleX(0.994249);\" role=\"presentation\">27 Mayıs 1960'da tasfiye edilmişlerdir.</span></span></span><span id=\"page3R_mcid301\" class=\"markedContent\"></span></p>",
         "E": "<p><span style=\"font-family: verdana, geneva, sans-serif; font-size: 12pt;\">Vatandaşlıktan çıkarılmışlardır.</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513390,
@@ -396,8 +372,7 @@
         "D": "<p><span style=\"font-size: 12pt;\">Harp Akademisinden tasfiye edilmiştir.</span></p>",
         "E": "<p><span style=\"font-size: 12pt;\">Silahlı Kuvvetler Birliğinin kurulmasına engel olmaya çalışmıştır.</span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513438,
@@ -412,8 +387,7 @@
         "D": "<p>28 Haziran 1961</p>",
         "E": "<p>6 Eylül 1961</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513456,
@@ -428,8 +402,7 @@
         "D": "<p>Tahkikat Komisyonu</p>",
         "E": "<p>Bakanlık Komisyonu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513460,
@@ -444,8 +417,7 @@
         "D": "<p>Adnan Menderes - Osman Kavakoğlu - Hasan Polatkan</p>",
         "E": "<p>Nedim Koraltan - Celal Bayar - Adnan Menders</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513463,
@@ -460,8 +432,7 @@
         "D": "<p>Cemal Gürsel</p>",
         "E": "<p>Cevdet Sunay</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513465,
@@ -476,8 +447,7 @@
         "D": "<p>1974</p>",
         "E": "<p>1976</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513634,
@@ -492,8 +462,7 @@
         "D": "<p>Cumhuriyetçi Köylü Millet Partisi</p>",
         "E": "<p>Türkiye İşçi Partisi </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513641,
@@ -508,8 +477,7 @@
         "D": "<p>Necmettin Erbakan</p>",
         "E": "<p>Ferruh Bozbeyli</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513642,
@@ -524,8 +492,7 @@
         "D": "<p>CHP-AP</p>",
         "E": "<p>CHP-MSP</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513685,
@@ -540,8 +507,7 @@
         "D": "<p>1967</p>",
         "E": "<p>1969</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513379,
@@ -556,8 +522,7 @@
         "D": "<p>147'ler</p>",
         "E": "<p>EMİNSU Derneği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513393,
@@ -572,8 +537,7 @@
         "D": "<p><span style=\"font-size: 12pt;\">Suphi Karaman</span></p>",
         "E": "<p><span style=\"font-size: 12pt;\">Fikret Kuytak</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513457,
@@ -588,8 +552,7 @@
         "D": "<p>MBK (Milli Birlik Komitesi) Başkanı</p>",
         "E": "<p>Başbakan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513458,
@@ -604,8 +567,7 @@
         "D": "<p>Askeri akademiler kurulmuştur.</p>",
         "E": "<p>Üniversiteler polis dentimine alınmıştır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513461,
@@ -620,8 +582,7 @@
         "D": "<p>Cumhuriyet Halk Partisi</p>",
         "E": "<p>Milliyetçi Hareket Partisi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513674,
@@ -636,8 +597,7 @@
         "D": "<p>Cemal Gürsel</p>",
         "E": "<p>Muzaffer Yurdakuler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513676,
@@ -652,8 +612,7 @@
         "D": "<p>Adnan Menderes hükümetinin kurulmasında rol oynayan dernektir. </p>",
         "E": "<p>12 Eylül darbesini destekleyen subayların kurduğu dernektir. </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513679,
@@ -668,8 +627,7 @@
         "D": "<p>Milli Birlik Komitesinin 14 radikal üyesinin yurtdışına gönderilmesini </p>",
         "E": "<p>Menderes hükümetinin 14 üyesinin tutuklanmasını</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513682,
@@ -684,8 +642,7 @@
         "D": "<p>Kazım Orbay</p>",
         "E": "<p>İsmet Giritli</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513391,
@@ -700,8 +657,7 @@
         "D": "<p>DP mensupları tutuklanarak Yassıada'ya gönderildi.</p>",
         "E": "<p>On beş idam kararı açıklandı.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513392,
@@ -716,8 +672,7 @@
         "D": "<p><span style=\"font-size: 12pt;\">Vehbi Ersü</span></p>",
         "E": "<p><span style=\"font-size: 12pt;\">Şükran Özkaya</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513442,
@@ -732,8 +687,7 @@
         "D": "<p>Demokratik Birlik Partisi</p>",
         "E": "<p>Birlik Partisi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513684,
@@ -748,8 +702,7 @@
         "D": "<p>Cengiz Topel</p>",
         "E": "<p>Rauf Denktaş</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513382,
@@ -764,8 +717,7 @@
         "D": "<div class=\"page\" title=\"Page 10\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Cumhuriyetçi Köylü Millet Partisi</p> </div> </div> </div> </div>",
         "E": "<p>Cumhuriyet Halk Partisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513387,
@@ -780,8 +732,7 @@
         "D": "<p><span style=\"font-size: 12pt; font-family: verdana, geneva, sans-serif;\"><span class=\"markedContent\"><span dir=\"ltr\" style=\"left: 494.882px; top: 1158.74px; transform: scaleX(0.994659);\" role=\"presentation\"><span id=\"page3R_mcid198\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 94.4882px; top: 274.817px; transform: scaleX(1.00431);\" role=\"presentation\">Ölüm cezalarını onaylama ya da </span></span></span></span><span class=\"markedContent\"><span dir=\"ltr\" style=\"left: 494.882px; top: 1158.74px; transform: scaleX(0.994659);\" role=\"presentation\"><span id=\"page3R_mcid199\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 94.4882px; top: 296.484px; transform: scaleX(0.988869);\" role=\"presentation\">veto etme hakkına sahipti.</span></span></span></span></span><span class=\"markedContent\" style=\"font-family: verdana, geneva, sans-serif; font-size: 12pt;\"><span dir=\"ltr\" style=\"left: 494.882px; top: 1158.74px; transform: scaleX(0.994659);\" role=\"presentation\"><span id=\"page3R_mcid199\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 94.4882px; top: 296.484px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.988869);\" role=\"presentation\"><br /></span></span></span></span></p>",
         "E": "<p><span style=\"font-size: 12pt;\"><span class=\"markedContent\"><span dir=\"ltr\" style=\"left: 494.882px; top: 1158.74px; transform: scaleX(0.994659);\" role=\"presentation\">Yargı yetkisi </span></span><span class=\"markedContent\" style=\"font-family: verdana, geneva, sans-serif;\"><span dir=\"ltr\" style=\"left: 494.882px; top: 1158.74px; transform: scaleX(0.994659);\" role=\"presentation\"><span id=\"page3R_mcid195\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 94.4882px; top: 231.484px; transform: scaleX(0.970764);\" role=\"presentation\">MBK’nin onayladığı Bakanlar Kurulu'na bağlıydı.</span></span></span></span></span><span class=\"markedContent\" style=\"font-family: verdana, geneva, sans-serif; font-size: 12pt;\"><span dir=\"ltr\" style=\"left: 494.882px; top: 1158.74px; transform: scaleX(0.994659);\" role=\"presentation\"><br /></span></span></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513445,
@@ -796,8 +747,7 @@
         "D": "<p>Ferruh Bozbeyli</p>",
         "E": "<p>Naim Talu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513639,
@@ -812,8 +762,7 @@
         "D": "<p>Cemal Gürsel</p>",
         "E": "<p>Nihat Erim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513384,
@@ -828,8 +777,7 @@
         "D": "<p>Ahmet Güçal</p>",
         "E": "<p>Cevat Kırca</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513386,
@@ -844,8 +792,7 @@
         "D": "<p><span style=\"font-size: 12pt; font-family: verdana, geneva, sans-serif;\">Celal Bayar MBK başkanlığına getirilmiştir.</span></p>",
         "E": "<p><span style=\"font-size: 12pt;\">Refik Koraltan TBMM Başkanı olarak atanmıştır.</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513394,
@@ -860,8 +807,7 @@
         "D": "<p><span id=\"page22R_mcid779\" class=\"markedContent\" style=\"font-size: 12pt; font-family: verdana, geneva, sans-serif;\"><span dir=\"ltr\" style=\"left: 94.4882px; top: 474.542px; transform: scaleX(1.00625);\" role=\"presentation\">Askerî vesayetin ta</span></span><span id=\"page22R_mcid781\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 94.4882px; top: 496.208px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.994026);\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: verdana, geneva, sans-serif;\">şıyıcısı yeni kurumların oluşumu yasaklanmıştır.</span><br /></span></span></p>",
         "E": "<p><span style=\"font-family: verdana, geneva, sans-serif;\"><span id=\"page22R_mcid788\" class=\"markedContent\" style=\"font-size: 12pt;\"><span dir=\"ltr\" style=\"left: 94.4882px; top: 626.208px; transform: scaleX(1.02309);\" role=\"presentation\">Halk tarafından %51.5 </span></span><span id=\"page22R_mcid789\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 94.4882px; top: 647.875px; font-size: 18.3333px; transform: scaleX(0.984461);\" role=\"presentation\"><span style=\"font-size: 12pt;\">evet oyuyla kabul edilmiştir.</span> </span></span></span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513440,
@@ -876,8 +822,7 @@
         "D": "<p>Cemal Gürsel’in Cumhurbaşkanı olması.</p>",
         "E": "<p>İsmet İnönü’nün Başbakan olması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513376,
@@ -892,8 +837,7 @@
         "D": "<p>Kuvvet Komutanları</p>",
         "E": "<p>Darbeyi organize eden subaylar tarafından seçilen teknokratlar.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513637,
@@ -908,8 +852,7 @@
         "D": "<p>Forum</p>",
         "E": "<p>Türk solu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513464,
@@ -924,8 +867,7 @@
         "D": "<p>Cengiz Topel</p>",
         "E": "<p>Hüseyin İnan</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513640,
@@ -940,8 +882,7 @@
         "D": "<p>Sünnilerin</p>",
         "E": "<p>İşçilerin</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513683,
@@ -956,7 +897,6 @@
         "D": "<p>Milli egemenlik</p>",
         "E": "<p>Atatürk devrimlerine bağlılık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

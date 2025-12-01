@@ -12,8 +12,7 @@
         "D": "<p>Sadece II</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861452,
@@ -28,8 +27,7 @@
         "D": "<p>karakter ve bakış açısı</p>",
         "E": "<p>olay ve zaman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861455,
@@ -44,8 +42,7 @@
         "D": "<p>olay</p>",
         "E": "<p>mekân</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861456,
@@ -60,8 +57,7 @@
         "D": "<p> mekân</p>",
         "E": "<p>zaman</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861457,
@@ -76,8 +72,7 @@
         "D": "<p>Genel Anlatı Mekânı</p>",
         "E": "<p>Öykü dünyası</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861459,
@@ -92,8 +87,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861517,
@@ -108,8 +102,7 @@
         "D": "<p>I, II, III, IV ve V</p>",
         "E": "<p>I, II, III ve VI</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861518,
@@ -124,8 +117,7 @@
         "D": "<p>Jameson </p>",
         "E": "<p>Barthes</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861519,
@@ -140,8 +132,7 @@
         "D": "<p>Anlatının amacı</p> ",
         "E": "<p>Anlatının hedef kitlesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861520,
@@ -156,8 +147,7 @@
         "D": "<p>Hikayenin geçtiği zaman </p>",
         "E": "<p>Hikayenin geçtiği mekan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861522,
@@ -172,8 +162,7 @@
         "D": "<p>Anlatıcının birinci şahıs anlatıcı olması</p>",
         "E": "<p>Anlatıcının hem bir karakter hem de dış ses olarak olayları yorumlayan ve anlatan kişi olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861524,
@@ -188,8 +177,7 @@
         "D": "<p>Farklı sonları olan filmler </p>",
         "E": "<p>Değişime açık filmler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861693,
@@ -204,8 +192,7 @@
         "D": "<p>Martin Kreiswirth</p>",
         "E": "<p>H. Porter Abbot</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861695,
@@ -220,8 +207,7 @@
         "D": "<p>Karakterler</p>",
         "E": "<p>Eylemler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861697,
@@ -236,8 +222,7 @@
         "D": "<p>Anlatı Evreni</p>",
         "E": "<p>Mekânsal Çerçeveler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861698,
@@ -252,8 +237,7 @@
         "D": "<p>Karakterler</p>",
         "E": "<p>Anlatıcı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861699,
@@ -268,8 +252,7 @@
         "D": "<p>Anlatı Aracı Olarak Karakter</p>",
         "E": "<p>Birey veya Kişi Olarak Karakter</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861700,
@@ -284,8 +267,7 @@
         "D": "<p>Mekânsal Bakış Açısı</p>",
         "E": "<p>Dil Bilimsel Bakış Açısı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861702,
@@ -300,8 +282,7 @@
         "D": "<p>Time-Lapse</p>",
         "E": "<p>Motion Graphıc</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861705,
@@ -316,8 +297,7 @@
         "D": "<p>Transmedya</p>",
         "E": "<p>İnteraktif Medya</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861453,
@@ -332,8 +312,7 @@
         "D": "<p>III ve IV</p>",
         "E": "<p>Sadece III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861454,
@@ -348,8 +327,7 @@
         "D": "<p>olay</p>",
         "E": "<p>mekân</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861458,
@@ -364,8 +342,7 @@
         "D": "<p>Eylemci Olarak Karakter</p>",
         "E": "<p>Dinleyici Olarak Karakter</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861460,
@@ -380,8 +357,7 @@
         "D": "<p>Sadece III</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861515,
@@ -396,8 +372,7 @@
         "D": "<p>Jameson </p>",
         "E": "<p>Barthes</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861516,
@@ -412,8 +387,7 @@
         "D": "<p>Anlatı, dil tarafından taşınabilen, sözlü veya yazılı, sabit veya hareketli görüntüler, jestler ve tüm bu maddelerin düzenli karışımlarıdır.</p> ",
         "E": "<p>Anlatı, insan kelimeleri bir araya getirmeye başladığı ve dil dünyasına girdiği ilk andan itibaren var olmaya başlayan şeydir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861691,
@@ -428,8 +402,7 @@
         "D": "<p>Monet</p>",
         "E": "<p>Rodin</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861703,
@@ -444,8 +417,7 @@
         "D": "<p>Sinema Anlatısı</p>",
         "E": "<p>Fotoğraf ve Anlatı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861521,
@@ -460,8 +432,7 @@
         "D": "<p>Anakroni</p>",
         "E": "<p>Analepsi</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861523,
@@ -476,7 +447,6 @@
         "D": "<p>Masal</p>",
         "E": "<p>Türkü</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     }
 ]

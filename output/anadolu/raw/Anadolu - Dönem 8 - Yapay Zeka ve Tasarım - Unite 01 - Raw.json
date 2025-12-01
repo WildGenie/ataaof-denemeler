@@ -12,8 +12,7 @@
         "D": "<p>Görsel iletişim tasarımı</p>",
         "E": "<p>Evrensel tasarım</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834100,
@@ -28,8 +27,7 @@
         "D": "<p>Alıcı</p>",
         "E": "<p>Geri bildirim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834102,
@@ -44,8 +42,7 @@
         "D": "<p>İletişim tasarımı</p>",
         "E": "<p>Nesnelerin iletişimi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834104,
@@ -60,8 +57,7 @@
         "D": "<p>Ellen Lupton</p>",
         "E": "<p>John Berger</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834106,
@@ -76,8 +72,7 @@
         "D": "<p>Desen</p>",
         "E": "<p>Kompozisyon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834111,
@@ -92,8 +87,7 @@
         "D": "<p>DeepMind</p>",
         "E": "<p>AlphaGo</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834119,
@@ -108,8 +102,7 @@
         "D": "<p>Örnekler arasında, metinsel tanımlardan görüntüler oluşturan DALL·E ve karmaşık problemler için programlama çözümleri üretebilen DeepMind şirketinin AlphaCode modeli yer almaktadır.</p>",
         "E": "<p class=\"p2\">Sağlık alanında, üretken yapay zekâ etkili tedaviler sunabilecek moleküler yapıları tahmin ederek ilaç keşfi sürecine yardımcı olur.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834126,
@@ -124,8 +117,7 @@
         "D": "<p class=\"p1\">yapay bellek esaslı</p>",
         "E": "<p>bilişsel modelleme kaynaklı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834131,
@@ -140,8 +132,7 @@
         "D": "<p>Etik İklim Katkısı</p>",
         "E": "<p>Teknolojik Tarafsızlık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834136,
@@ -156,7 +147,6 @@
         "D": "<p class=\"p1\">Yönerge yönetimi</p>",
         "E": "<p>Etkileşim mühendisliği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

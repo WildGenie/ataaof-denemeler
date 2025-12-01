@@ -12,8 +12,7 @@
         "D": "<p><span style=\"font-weight: 400;\">Mitchel Resnick</span></p>",
         "E": "<p><span style=\"font-weight: 400;\">John Madden</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690163,
@@ -28,8 +27,7 @@
         "D": "<p>Mitchel Resnick</p> ",
         "E": "<p>John Madden</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690165,
@@ -44,8 +42,7 @@
         "D": "<p>Mitchel Resnick</p> ",
         "E": "<p>John Madden</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690169,
@@ -60,8 +57,7 @@
         "D": "<p>Unity</p>",
         "E": "<p>Lumberyard</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690172,
@@ -76,8 +72,7 @@
         "D": "<p>Ağ modülü</p> ",
         "E": "<p>Yapay zeka modülü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690178,
@@ -92,8 +87,7 @@
         "D": "<p>Ağ modülü</p> ",
         "E": "<p>Yapay zeka modülü</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690180,
@@ -108,8 +102,7 @@
         "D": "<p>Bluepring</p> ",
         "E": "<p>Scratch</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690186,
@@ -124,8 +117,7 @@
         "D": "<p>Unreal Engine</p> ",
         "E": "<p>Phaser</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690190,
@@ -140,8 +132,7 @@
         "D": "<p>Bluepring</p> ",
         "E": "<p>GDScript</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690194,
@@ -156,7 +147,6 @@
         "D": "<p>GML</p> ",
         "E": "<p>Linux</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

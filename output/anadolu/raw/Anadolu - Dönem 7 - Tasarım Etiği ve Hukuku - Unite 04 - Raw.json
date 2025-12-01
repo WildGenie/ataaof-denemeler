@@ -12,8 +12,7 @@
         "D": "<p>Sinema eserleri</p>",
         "E": "<p>İşlenme ve derleme eser</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3718207,
@@ -28,8 +27,7 @@
         "D": "<p>İlim ve edebiyat eserleri</p>",
         "E": "<p>Müzik eserleri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3718209,
@@ -44,8 +42,7 @@
         "D": "<p>İşlenme eser</p>",
         "E": "<p>Fotoğrafik eser</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3718210,
@@ -60,8 +57,7 @@
         "D": "<p>15</p>",
         "E": "<p>20</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3718213,
@@ -76,8 +72,7 @@
         "D": "<p>Umuma iletim hakkı</p>",
         "E": "<p>Çoğaltma hakkı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3718216,
@@ -92,8 +87,7 @@
         "D": "<p>Umuma iletim hakkı</p>",
         "E": "<p>Temsil hakkı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3718223,
@@ -108,8 +102,7 @@
         "D": "<p>Şahsen çoğaltma</p>",
         "E": "<p>İşleme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3718226,
@@ -124,8 +117,7 @@
         "D": "<p>Film yapımcısı</p>",
         "E": "<p>Fonogram yapımcısı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719445,
@@ -140,8 +132,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719529,
@@ -156,8 +147,7 @@
         "D": "<p>Fikri bir çaba sonucu oluşması</p>",
         "E": "<p>Somut bir biçimde algılanabilir olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719694,
@@ -172,8 +162,7 @@
         "D": "<p>Mimari maketler</p>",
         "E": "<p>Grafik eserler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719697,
@@ -188,8 +177,7 @@
         "D": "<p>10 yıl</p>",
         "E": "<p>15 yıl</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719707,
@@ -204,8 +192,7 @@
         "D": "<p>Opera eserlerinde besteci müzik, libretto söz üzerinde eser sahibidir.</p>",
         "E": "<p>Ortak eser sahiplerinin her biri kendi kısmının sahibidir. Ancak bazı hâllerde birlikte hareket etmeleri gerekmektedir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719868,
@@ -220,8 +207,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719883,
@@ -236,8 +222,7 @@
         "D": "<p>Derleme eserde derlenen ürünlerin eser olmasına gerek yoktur</p>",
         "E": "<p>Derleme eserde derleyenin fikri bir çabası gerekmektedir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719887,
@@ -252,8 +237,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719894,
@@ -268,8 +252,7 @@
         "D": "<p>Eserin bütünlüğünün korunması hakkı</p>",
         "E": "<p>Eserin aslına erişim hakkı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719905,
@@ -284,8 +267,7 @@
         "D": "<p>Eserin sahibi onu vücuda getirenlerin bütünüdür</p>",
         "E": "<p>Bağımsız eserlerin eser sahiplerinin rızasıyla tek bir eser olarak birleştirilmeleri söz konusudur</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719916,
@@ -300,8 +282,7 @@
         "D": "<p>Amerikan hukukunda “fair use” olarak da bilenen “adil kullanım” ilkesi esastır.</p>",
         "E": "<p>Kanunda kamu düzeni, genel menfaat, özel menfaat amacıyla getirilen bu sınırlamaları hükümete tanınan yetkiler gelmektedir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719952,
@@ -316,8 +297,7 @@
         "D": "<p>Mali haklardan farklı olarak kullanımı süreye bağlı kılınmamıştır</p>",
         "E": "<p>Mali haklar gibi üçüncü kişilere devri caizdir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3718217,
@@ -332,8 +312,7 @@
         "D": "<p>Yayma hakkı</p>",
         "E": "<p>Çoğaltma hakkı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3718220,
@@ -348,8 +327,7 @@
         "D": "<p>Eserin bütünlüğünün korunması hakkı</p>",
         "E": "<p>Eserin aslına erişim hakkı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719689,
@@ -364,8 +342,7 @@
         "D": "<p>Güzel sanat eserleri</p>",
         "E": "<p>Sinema</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719837,
@@ -380,8 +357,7 @@
         "D": "<p>Eserin belirli oranda saanat kalitesinin olması</p>",
         "E": "<p>Eserin fikri bir çaba sonucu oluşmuş olması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719852,
@@ -396,8 +372,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719926,
@@ -412,8 +387,7 @@
         "D": "<p>Radyo ve Televizyon Üst Kurulu</p>",
         "E": "<p>Radyo ve TV kuruluşları</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719938,
@@ -428,8 +402,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I,II ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719690,
@@ -444,8 +417,7 @@
         "D": "<p>Herhangi bir şekilde dil ve yazı ile ifade olunan eserler</p>",
         "E": "<p>Sinema eserleri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719937,
@@ -460,8 +432,7 @@
         "D": "<p>Vekaletsiz iş görmeye</p>",
         "E": "<p>Haksız rekabete</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719965,
@@ -476,7 +447,6 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I,II ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

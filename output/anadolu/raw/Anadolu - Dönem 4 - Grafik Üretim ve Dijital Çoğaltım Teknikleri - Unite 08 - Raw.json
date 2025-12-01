@@ -12,8 +12,7 @@
         "D": "<p>Vektör</p>",
         "E": "<p>Tram</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764338,
@@ -28,8 +27,7 @@
         "D": "<p>King</p>",
         "E": "<p>Kit</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764339,
@@ -44,8 +42,7 @@
         "D": "<p>APP/KEY</p>",
         "E": "<p>HEİF</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764365,
@@ -60,8 +57,7 @@
         "D": "<p>100 piksel yani 100 ppi’dir.</p>",
         "E": "<p>200 piksel yani 200 dpi’dir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764379,
@@ -76,8 +72,7 @@
         "D": "<p>3, 4 ve 5</p>",
         "E": "<p>2, 4 ve 5</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764380,
@@ -92,8 +87,7 @@
         "D": "<p>GIF</p>",
         "E": "<p>EPS</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764382,
@@ -108,8 +102,7 @@
         "D": "<p>WMF</p>",
         "E": "<p>GIF</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764639,
@@ -124,8 +117,7 @@
         "D": "<p>Ton farkı</p>",
         "E": "<p>Tasarım için daha uygun olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764641,
@@ -140,8 +132,7 @@
         "D": "<p>piksel</p>",
         "E": "<p>dpi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764644,
@@ -156,8 +147,7 @@
         "D": "<p>DPI değerlerinin yüksekliği</p>",
         "E": "<p>Ölçekli olması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764647,
@@ -172,8 +162,7 @@
         "D": "<p>Dosya boyutu görece küçüktür</p>",
         "E": "<p>Görüntüyü sıkıştırır</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764650,
@@ -188,8 +177,7 @@
         "D": "<p>NFT</p>",
         "E": "<p>Üretim kaybı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764652,
@@ -204,8 +192,7 @@
         "D": "<p>TrueType</p>",
         "E": "<p>PDF</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764653,
@@ -220,8 +207,7 @@
         "D": "<p>Video kalitesi</p>",
         "E": "<p>Video boyutu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764654,
@@ -236,8 +222,7 @@
         "D": "<p>Mock-up</p>",
         "E": "<p>Geliştirme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764716,
@@ -252,8 +237,7 @@
         "D": "<p>Ölçeklenebilir vektör grafiklerine verilen isimdir.</p>",
         "E": "<p>Matematiksel formüller veya yollarla tanımlanan birçok ölçeklenebilir nesne içeren görüntüleri kapsar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764717,
@@ -268,8 +252,7 @@
         "D": "<p>GIF</p>",
         "E": "<p>MTV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764719,
@@ -284,8 +267,7 @@
         "D": "<p>GIFF</p>",
         "E": "<p>PSD</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764723,
@@ -300,8 +282,7 @@
         "D": "<p>Banner Reklamlar</p>",
         "E": "<p>E-postalar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764727,
@@ -316,8 +297,7 @@
         "D": "<p>UV</p>",
         "E": "<p>Lazer</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764333,
@@ -332,8 +312,7 @@
         "D": "<p>Rengini</p>",
         "E": "<p>Çözünürlüğünü</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764336,
@@ -348,8 +327,7 @@
         "D": "<p>Nesil kaybı</p>",
         "E": "<p>Geçecek nesil </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764366,
@@ -364,8 +342,7 @@
         "D": "<p>1, 3 ve 4</p>",
         "E": "<p>3, 4 ve 5</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764381,
@@ -380,8 +357,7 @@
         "D": "<p>HEIC</p>",
         "E": "<p>GIF</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764383,
@@ -396,8 +372,7 @@
         "D": "<p>Vektör (outline) Fontlar</p>",
         "E": "<p>TrueType Fontlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764646,
@@ -412,8 +387,7 @@
         "D": "<p>Zoom yapıldığında görüntü kalitesi düşer</p>",
         "E": "<p>Sonsuz ölçeklenebilirdirler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764718,
@@ -428,8 +402,7 @@
         "D": "<p>TIFF</p>",
         "E": "<p>PNG</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764721,
@@ -444,8 +417,7 @@
         "D": "<p>TIFF</p>",
         "E": "<p>HEIF</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764724,
@@ -460,8 +432,7 @@
         "D": "<p>Araştırma ve Strateji</p>",
         "E": "<p>Test etme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764728,
@@ -476,8 +447,7 @@
         "D": "<p>Lazer</p>",
         "E": "<p>UV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764334,
@@ -492,8 +462,7 @@
         "D": "<p>CMY</p>",
         "E": "<p>RGB</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764335,
@@ -508,8 +477,7 @@
         "D": "<p>Piksel dosyaları</p>",
         "E": "<p>GIFf formatı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764337,
@@ -524,8 +492,7 @@
         "D": "<p>CMYK/RGB</p>",
         "E": "<p>HEIF/CMYK</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764367,
@@ -540,8 +507,7 @@
         "D": "<p>Küçük boyutta basıla yüksek çözünürlüklü bir görüntünün profesyonel görünmesi</p>",
         "E": "<p>Çözünürlükle bağımlı oldukları için</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764368,
@@ -556,8 +522,7 @@
         "D": "<p>Görüntü büyütüldüğünde bulanıklaşıyorsa vektör görüntü dosyasıdır</p>",
         "E": "<p>Vektör görüntü dosyası yeniden ölçeklendirebilir ve yeniden şekillendirebilir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764331,
@@ -572,8 +537,7 @@
         "D": "<p>JPEG</p>",
         "E": "<p>GAP</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764384,
@@ -588,8 +552,7 @@
         "D": "<p>Sosyal medya görselleri</p>",
         "E": "<p>E-kitaplar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764722,
@@ -604,8 +567,7 @@
         "D": "<p>MP4</p>",
         "E": "<p>DWG</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764726,
@@ -620,8 +582,7 @@
         "D": "<p>Üç boyutlu baskı</p>",
         "E": "<p>Nanografi yazıcı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764340,
@@ -636,8 +597,7 @@
         "D": "<p>3D</p>",
         "E": "<p>3DİJ</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764651,
@@ -652,7 +612,6 @@
         "D": "<p>Video oynatıcılar için ideal bir formattır.</p>",
         "E": "<p>Yüksek kaliteli baskı grafikleri için uygundur.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     }
 ]

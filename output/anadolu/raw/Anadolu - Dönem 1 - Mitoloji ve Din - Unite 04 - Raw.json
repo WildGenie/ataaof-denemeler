@@ -12,8 +12,7 @@
         "D": "<p>Ningirsu</p>",
         "E": "<p>Ningişzida</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374259,
@@ -28,8 +27,7 @@
         "D": "<p>İnanna</p>",
         "E": "<p>Ninhursag</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374303,
@@ -44,8 +42,7 @@
         "D": "<p>An/Anu</p>",
         "E": "<p>Enki/Ea</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374307,
@@ -60,8 +57,7 @@
         "D": "<p>Enmerkar ve Aratta Beyi</p>",
         "E": "<p>İlyada</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374337,
@@ -76,8 +72,7 @@
         "D": "<p>Cennet Miti</p>",
         "E": "<p>Enki ve Ninsuray Miti</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374340,
@@ -92,8 +87,7 @@
         "D": "<p>Enmerkar</p>",
         "E": "<p>Etena</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374353,
@@ -108,8 +102,7 @@
         "D": "<p>Cennet Miti</p>",
         "E": "<p>Enki ve Nihursag</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374355,
@@ -124,8 +117,7 @@
         "D": "<p>Davul ve davul tokmağı</p>",
         "E": "<p>Abzu tapınağı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374358,
@@ -140,8 +132,7 @@
         "D": "<p>Dumuzi</p>",
         "E": "<p>Lamassular</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374446,
@@ -156,8 +147,7 @@
         "D": "<p>Usumi</p>",
         "E": "<p>Enlil</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374447,
@@ -172,8 +162,7 @@
         "D": "<p>Dumuzi</p>",
         "E": "<p>Ea</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375042,
@@ -188,8 +177,7 @@
         "D": "<p>David George HOGARTH </p>",
         "E": "<p>Halet ÇAMBEL</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375045,
@@ -204,8 +192,7 @@
         "D": "<p>Amarna</p>",
         "E": "<p>Abidos</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375237,
@@ -220,8 +207,7 @@
         "D": "<p>Evren</p>",
         "E": "<p>İnaç</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375241,
@@ -236,8 +222,7 @@
         "D": "<p>Ninşubur</p>",
         "E": "<p>İlabrat</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375256,
@@ -252,8 +237,7 @@
         "D": "<p>Sümer Destanı</p>",
         "E": "<p>Babil Tufan Destanı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375309,
@@ -268,8 +252,7 @@
         "D": "<p>Dumuzi</p>",
         "E": "<p>Lamassular</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375311,
@@ -284,8 +267,7 @@
         "D": "<p><span class=\"fontstyle0\">Ningirsu</span></p>",
         "E": "<p><span class=\"fontstyle0\">Usumi</span> </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375314,
@@ -300,8 +282,7 @@
         "D": "<p><span class=\"fontstyle0\">Ur-Nammu Ağıtı- Agade’nin Lanetlenmesi <br /> </span></p>",
         "E": "<p><span class=\"fontstyle0\">Agade’nin Lanetlenmesi-Enki ve Dünya Düzeni <br /></span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375316,
@@ -316,8 +297,7 @@
         "D": "<p><span class=\"fontstyle0\">Ninhursag</span> </p>",
         "E": "<p><span class=\"fontstyle0\">Ninurta</span> </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374250,
@@ -332,8 +312,7 @@
         "D": "<p>Tanrıların hırsları ve arzuları olmadığına inanırlardı.</p>",
         "E": "<p>M&Ouml; 2700&rsquo;ler civarında kendi tanrılar topluluğunu oluşturmuşlardır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374305,
@@ -348,8 +327,7 @@
         "D": "<p>IM/ Adad</p>",
         "E": "<p>Lamassular</p>  ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374308,
@@ -364,8 +342,7 @@
         "D": "<p>Aşk ilişkileri</p>",
         "E": "<p>Sonsuz sevgi</p>  ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374309,
@@ -380,8 +357,7 @@
         "D": "<p>Ur-Nammu Ruhlar Aleminde</p>",
         "E": "<p>Ur-Nammu’nun Hayatı</p>  ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374336,
@@ -396,8 +372,7 @@
         "D": "<p>Cennet Miti</p>",
         "E": "<p>Enki ve Ninhursag Miti</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374342,
@@ -412,8 +387,7 @@
         "D": "<p>Nanna</p>",
         "E": "<p>Dumuzi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374351,
@@ -428,8 +402,7 @@
         "D": "<p>Enki</p>",
         "E": "<p>Anu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374356,
@@ -444,8 +417,7 @@
         "D": "<p>Asa</p>",
         "E": "<p>Yılan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374441,
@@ -460,8 +432,7 @@
         "D": "<p>Dumuzi</p>",
         "E": "<p>Lugalbanda</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374448,
@@ -476,8 +447,7 @@
         "D": "<p>Dumuzi</p>",
         "E": "<p>Ea</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375036,
@@ -492,8 +462,7 @@
         "D": "<p>Enki</p>",
         "E": "<p>Nisaba</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375040,
@@ -508,8 +477,7 @@
         "D": "<p>Lugalbanda</p>",
         "E": "<p>Dumuzi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375044,
@@ -524,8 +492,7 @@
         "D": "<p>Lugalbanda ve Enmerkar Destanı</p>",
         "E": "<p>Etena ile Kartal</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375238,
@@ -540,8 +507,7 @@
         "D": "<p>Kendi Para Birimlerini</p>",
         "E": "<p>Kendi Yönetim Sistemlerini</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375242,
@@ -556,8 +522,7 @@
         "D": "<p>İlabrat</p>",
         "E": "<p>Nisaba</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374251,
@@ -572,8 +537,7 @@
         "D": "<p>Enlil</p>",
         "E": "<p>Enki</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374252,
@@ -588,8 +552,7 @@
         "D": "<p>Enlil</p>",
         "E": "<p>Enkidu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374300,
@@ -604,8 +567,7 @@
         "D": "<p>Sezgicilik</p>",
         "E": "<p>Abartı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374301,
@@ -620,8 +582,7 @@
         "D": "<p>Çoban Tanrı</p>",
         "E": "<p>Ay Tanrı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374335,
@@ -636,8 +597,7 @@
         "D": "<p>Ereştigal</p>",
         "E": "<p>Enki</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374339,
@@ -652,8 +612,7 @@
         "D": "<p>Taç</p>",
         "E": "<p>Yılan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374341,
@@ -668,8 +627,7 @@
         "D": "<p>Dumuzi</p>",
         "E": "<p>Lamassular</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374354,
@@ -684,8 +642,7 @@
         "D": "<p>Cennet Miti</p>",
         "E": "<p>Enki ve Ninhursag Miti</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374445,
@@ -700,8 +657,7 @@
         "D": "<p>Enki ve Dünya Düzeni</p>",
         "E": "<p>Hedammu Şarkısı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375038,
@@ -716,8 +672,7 @@
         "D": "<p>Ereşkigal</p>",
         "E": "<p>Enki/ Ea</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375039,
@@ -732,8 +687,7 @@
         "D": "<p>Ningişzida</p>",
         "E": "<p>Usumi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375240,
@@ -748,8 +702,7 @@
         "D": "<p>İştar</p>",
         "E": "<p>Adad</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375253,
@@ -764,8 +717,7 @@
         "D": "<p> Dünya Düzeni Miti</p>",
         "E": "<p>Yaratılış Miti</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375312,
@@ -780,8 +732,7 @@
         "D": "<p><span class=\"fontstyle0\">Ningirsu</span> </p>",
         "E": "<p><span class=\"fontstyle0\">Lugalbanda</span> </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374253,
@@ -796,8 +747,7 @@
         "D": "<p>Lamassu</p>",
         "E": "<p>Lugalbanda</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374258,
@@ -812,8 +762,7 @@
         "D": "<p>Agade’nin Lanetlenmesi</p>",
         "E": "<p>Lugalbanda ve Enmerkar Destanı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374304,
@@ -828,8 +777,7 @@
         "D": "<p>Dumuzi</p>",
         "E": "<p>IM/ Adad</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374333,
@@ -844,8 +792,7 @@
         "D": "<p>Enki</p>",
         "E": "<p>Anu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374444,
@@ -860,8 +807,7 @@
         "D": "<p>Enkidu</p>",
         "E": "<p>İnanna</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375043,
@@ -876,8 +822,7 @@
         "D": "<p>Gılgamış ve Yaşayanlar Ülkesi</p>",
         "E": "<p>Gılgamış, Enkidu ve Ölüler Diyarı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375243,
@@ -892,8 +837,7 @@
         "D": "<p>Nanna</p>",
         "E": "<p>Sin</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375310,
@@ -908,8 +852,7 @@
         "D": "<p><span class=\"fontstyle0\">Ereşkigal</span> </p>",
         "E": "<p><span class=\"fontstyle0\">Adad</span> </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374257,
@@ -924,8 +867,7 @@
         "D": "<p>Lugalbanda</p>",
         "E": "<p>Enmerkar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374442,
@@ -940,8 +882,7 @@
         "D": "<p>Enkidu</p>",
         "E": "<p>Nanna/Sin</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375041,
@@ -956,8 +897,7 @@
         "D": "<p>David George HOGARTH </p>",
         "E": "<p>Halet ÇAMBEL</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375251,
@@ -972,8 +912,7 @@
         "D": "<p>Beş</p>",
         "E": "<p>Yedi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375308,
@@ -988,8 +927,7 @@
         "D": "<p><span class=\"fontstyle0\">Anu</span> </p>",
         "E": "<p><span class=\"fontstyle0\">Enkidu</span> </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374332,
@@ -1004,8 +942,7 @@
         "D": "<p>Ülkeye bolluk ve breket getiren tanrıdır</p>",
         "E": "<p>Küt şehri Nippur'dur</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374338,
@@ -1020,8 +957,7 @@
         "D": "<p>Davul ve davul tokmağı</p>",
         "E": "<p>Abzu Tapınağı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375307,
@@ -1036,8 +972,7 @@
         "D": "<p>Enki</p>",
         "E": "<p>Anzu </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375313,
@@ -1052,8 +987,7 @@
         "D": "<p><span class=\"fontstyle0\">Etena ile Kartal</span> </p>",
         "E": "<p><span class=\"fontstyle0\">Agade’nin Lanetlenmesi</span> </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374255,
@@ -1068,8 +1002,7 @@
         "D": "<p>Savaş</p>",
         "E": "<p>Boynuzlu yılan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374302,
@@ -1084,8 +1017,7 @@
         "D": "<p>Dağlar</p>",
         "E": "<p>Denizler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374352,
@@ -1100,8 +1032,7 @@
         "D": "<p>Ereştigal</p>",
         "E": "<p>Enki</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375037,
@@ -1116,8 +1047,7 @@
         "D": "<p>Eridu</p>",
         "E": "<p>Susa</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375239,
@@ -1132,8 +1062,7 @@
         "D": "<p>Doğa Tanrısı</p>",
         "E": "<p>Ana Tanrısı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374256,
@@ -1148,8 +1077,7 @@
         "D": "<p>Adapa</p>",
         "E": "<p>Enbililu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374350,
@@ -1164,8 +1092,7 @@
         "D": "<p>Ülkeye bolluk ve bereket getiren tanrıdır</p>",
         "E": "<p>Kült şehri Nippur'dur</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374359,
@@ -1180,8 +1107,7 @@
         "D": "<p>Nanna</p>",
         "E": "<p>Dumuzi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374443,
@@ -1196,8 +1122,7 @@
         "D": "<p>Dumuzi</p>",
         "E": "<p>Ninurta</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374440,
@@ -1212,8 +1137,7 @@
         "D": "<p>Anunna</p>",
         "E": "<p>Enlil</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374439,
@@ -1228,8 +1152,7 @@
         "D": "<p>Lamassular</p>",
         "E": "<p>Nanna/Sin</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375315,
@@ -1244,8 +1167,7 @@
         "D": "<p><span class=\"fontstyle0\">Usumi</span> </p>",
         "E": "<p><span class=\"fontstyle0\">Nanna</span> </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375033,
@@ -1260,8 +1182,7 @@
         "D": "<p>Babil Uygarlığı</p>",
         "E": "<p>Sümerler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374306,
@@ -1276,7 +1197,6 @@
         "D": "<p>Adad</p>",
         "E": "<p>Ninhursag</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     }
 ]

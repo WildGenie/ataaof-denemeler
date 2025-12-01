@@ -12,8 +12,7 @@
         "D": "<p>II, III IV ve V</p>",
         "E": "<p>II, III, IV ve VI</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717249,
@@ -28,8 +27,7 @@
         "D": "<p>Ortam</p>",
         "E": "<p>Konu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717250,
@@ -44,8 +42,7 @@
         "D": "<p>algıların ve mantığın etkin olduğu bir akıl yürütme süreci</p>",
         "E": "<p>yaratıcı çözümler gerektiren karmaşık düşünme etkinliği</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717252,
@@ -60,8 +57,7 @@
         "D": "<p>kimyasal / duygusaldır</p>",
         "E": "<p>dinamik / trigonometriktir</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717254,
@@ -76,8 +72,7 @@
         "D": "<p>metodoloji</p>",
         "E": "<p>form</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717255,
@@ -92,8 +87,7 @@
         "D": "<p>D) estetik</p>",
         "E": "<p>E) birlik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719336,
@@ -108,8 +102,7 @@
         "D": "<p>Medya tasarım</p>",
         "E": "<p>Müzik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719339,
@@ -124,8 +117,7 @@
         "D": "<p>Tiyatro</p>",
         "E": "<p>Sinema</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719367,
@@ -140,8 +132,7 @@
         "D": "<p>Enstalasyon</p>",
         "E": "<p>Rölyef</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719632,
@@ -156,8 +147,7 @@
         "D": "<p>Dijital video</p>",
         "E": "<p>Animasyon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719646,
@@ -172,8 +162,7 @@
         "D": "<p>İçerik</p>",
         "E": "<p>Öz</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719692,
@@ -188,8 +177,7 @@
         "D": "<p>Yaklaşımlar</p>",
         "E": "<p>Açıklık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719705,
@@ -204,8 +192,7 @@
         "D": "<p>Müzik</p>",
         "E": "<p>Edebiyat </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719710,
@@ -220,8 +207,7 @@
         "D": "<p>Hat</p>",
         "E": "<p>Grafik </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719715,
@@ -236,8 +222,7 @@
         "D": "<p>Opera</p>",
         "E": "<p>Animasyon </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719724,
@@ -252,8 +237,7 @@
         "D": "<p>Fütürizm Manifestosu</p>",
         "E": "<p>Açılış Manifestosu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719784,
@@ -268,8 +252,7 @@
         "D": "<p>Renoir </p>",
         "E": "<p>Van Gogh </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719816,
@@ -284,8 +267,7 @@
         "D": "<p>Açıklık</p>",
         "E": "<p>Özgünlük </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719827,
@@ -300,8 +282,7 @@
         "D": "<p>Oranı </p>",
         "E": "<p>Vurgusu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719838,
@@ -316,8 +297,7 @@
         "D": "<p>2013</p>",
         "E": "<p>2023 </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717233,
@@ -332,8 +312,7 @@
         "D": "<p>İdealar</p>",
         "E": "<p>Matematik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717234,
@@ -348,8 +327,7 @@
         "D": "<p>Gökbilim</p>",
         "E": "<p>Enstalasyon</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717247,
@@ -364,8 +342,7 @@
         "D": "<p>kültür / özne / biçim / içerik</p>",
         "E": "<p>kişisel gelişim / konu/ topluluk/ içerik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719359,
@@ -380,8 +357,7 @@
         "D": "<p>Sokrates</p>",
         "E": "<p>Pisagor</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719652,
@@ -396,8 +372,7 @@
         "D": "<p>Sosyo-Kültürel ortam</p>",
         "E": "<p>Konu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719700,
@@ -412,8 +387,7 @@
         "D": "<p>İşlev</p>",
         "E": "<p>İhtiyaç</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719701,
@@ -428,8 +402,7 @@
         "D": "<p>Endüstri </p>",
         "E": "<p>Matematik </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717246,
@@ -444,8 +417,7 @@
         "D": "<p>II, III IV ve V</p>",
         "E": "<p>II, III, IV ve VI</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719790,
@@ -460,8 +432,7 @@
         "D": "<p>Edouard Manet </p>",
         "E": "<p>Pierre August Renoir </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719764,
@@ -476,7 +447,6 @@
         "D": "<p>Rafaello </p>",
         "E": "<p>Boticelli </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     }
 ]

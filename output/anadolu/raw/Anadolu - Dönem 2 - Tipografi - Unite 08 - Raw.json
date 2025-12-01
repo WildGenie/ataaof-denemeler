@@ -12,8 +12,7 @@
         "D": "<p>Tırnaksız Yazılar</p>",
         "E": "<p>Karakter Ağırlığı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769643,
@@ -28,8 +27,7 @@
         "D": "<p>geniş</p>",
         "E": "<p>boşluklu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769644,
@@ -44,8 +42,7 @@
         "D": "<p>basit</p>",
         "E": "<p>zor</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769656,
@@ -60,8 +57,7 @@
         "D": "<p>Harfteki kalın ve ince çizgilerin birbiriyle olan ilişkisini</p>",
         "E": "<p>Karakter çizgisinin bitiminde bulunan küçük çıkıntıları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769688,
@@ -76,8 +72,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>Sadece II</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769689,
@@ -92,8 +87,7 @@
         "D": "<p>Sadece I</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769690,
@@ -108,8 +102,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>Sadece II</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769696,
@@ -124,8 +117,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769697,
@@ -140,8 +132,7 @@
         "D": "<p>Sadece III</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769699,
@@ -156,8 +147,7 @@
         "D": "<p>Kırıntılar</p>",
         "E": "<p>Dişi yazı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770096,
@@ -172,8 +162,7 @@
         "D": "<p>7</p>",
         "E": "<p>11</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770137,
@@ -188,8 +177,7 @@
         "D": "<p>Eğik yazı karakterleri metin içerisinde vurgu sağlamak ve sözlü ifadeleri ayırt etmek için kullanılmaktadır</p>",
         "E": "<p>Eğik yazı karakterleri okuma hızını yavaşlatır</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770139,
@@ -204,8 +192,7 @@
         "D": "<p>Bitişik Yazılar</p>",
         "E": "<p>Başlık Yazı Karakterleri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770140,
@@ -220,8 +207,7 @@
         "D": "<p>18 punto</p>",
         "E": "<p>20 punto</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770172,
@@ -236,8 +222,7 @@
         "D": "<p>Metin</p>",
         "E": "<p>Paragraf</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770173,
@@ -252,8 +237,7 @@
         "D": "<p>kelime tekrarından sonra</p>",
         "E": "<p>paragraf sonundan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770177,
@@ -268,8 +252,7 @@
         "D": "<p>Caption</p>",
         "E": "<p>Punto</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770207,
@@ -284,8 +267,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770218,
@@ -300,8 +282,7 @@
         "D": "<p>Sans Serif/Serif</p>",
         "E": "<p>Büyük/Küçük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770225,
@@ -316,8 +297,7 @@
         "D": "<p>Ortalı (Simetrik) Hizalama</p>",
         "E": "<p>Optik Hizalama</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769641,
@@ -332,8 +312,7 @@
         "D": "<p>Karakter Genişliği</p>",
         "E": "<p>Karekter ağırlığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769647,
@@ -348,8 +327,7 @@
         "D": "<p>İç Boşluklar</p>",
         "E": "<p>Harf Çizgisi Kontrastı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769650,
@@ -364,8 +342,7 @@
         "D": "<p>x- yüksekliği</p>",
         "E": "<p>Bitişik Yazılar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769662,
@@ -380,8 +357,7 @@
         "D": "<p>45-75</p>",
         "E": "<p>85-90</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770091,
@@ -396,8 +372,7 @@
         "D": "<div class=\"page\" title=\"Page 4\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Karakter Genişliği</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 5\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Harf Çizgisi Kontrastı</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770093,
@@ -412,8 +387,7 @@
         "D": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Harf Çizgisi Kontrastı</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 6\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İç Boşluklar</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770095,
@@ -428,8 +402,7 @@
         "D": "<div class=\"page\" title=\"Page 1\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Harf Çizgisi Kontrastı</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<p>Karekter ağırlığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770097,
@@ -444,8 +417,7 @@
         "D": "<div class=\"page\" title=\"Page 18\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Paragraf Başı Girintisi</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 18\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Satır Arası Boşluğu</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770174,
@@ -460,8 +432,7 @@
         "D": "<p>Punto boyutu</p>",
         "E": "<p>Harf sıklığı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770176,
@@ -476,8 +447,7 @@
         "D": "<p>Aperture</p>",
         "E": "<p>Caption</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770208,
@@ -492,8 +462,7 @@
         "D": "<p>Sadece I</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770213,
@@ -508,8 +477,7 @@
         "D": "<p>Kelime arası Espas</p>",
         "E": "<p>Allograf</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770214,
@@ -524,8 +492,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>Sadece III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770216,
@@ -540,8 +507,7 @@
         "D": "<p>Punto</p>",
         "E": "<p>Pilcrow</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769645,
@@ -556,8 +522,7 @@
         "D": "<p>Allograf</p>",
         "E": "<p>Yüksek kontrast</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769646,
@@ -572,8 +537,7 @@
         "D": "<p>Karakter genişliği</p>",
         "E": "<p>Bitişik Yazılar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769657,
@@ -588,8 +552,7 @@
         "D": "<p>Allograf</p>",
         "E": "<p>Oblik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769659,
@@ -604,8 +567,7 @@
         "D": "<p>Tracking</p>",
         "E": "<p>Caption</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769693,
@@ -620,8 +582,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>Sadece II</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770100,
@@ -636,8 +597,7 @@
         "D": "<p>Kontrast</p>",
         "E": "<p>Dokulu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770138,
@@ -652,8 +612,7 @@
         "D": "<p>Okunurluk derecesi doğrudan metnin uzunluğu ile ilişkilidir</p>",
         "E": "<p>Bitişik yazılar; gösterişli başlıklarda kullanılmalıdır</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770210,
@@ -668,8 +627,7 @@
         "D": " <p>Tırnaklı yazılar</p>",
         "E": "<p>Eğik yazılar</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770220,
@@ -684,8 +642,7 @@
         "D": "<p>10 ile 13</p>",
         "E": "<p>11 ile 14</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770222,
@@ -700,8 +657,7 @@
         "D": "<p>Harf Arası Ayarı</p>",
         "E": "<p>Allograf</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770223,
@@ -716,8 +672,7 @@
         "D": "<p>Tireleme</p>",
         "E": "<p>Kelime Arası Espası</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770224,
@@ -732,8 +687,7 @@
         "D": "<p>Sola hizalı metinler</p>",
         "E": "<p>Optik hizalı metinler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769655,
@@ -748,8 +702,7 @@
         "D": "<p>İç boşluklar</p>",
         "E": "<p>x- yüksekliği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769698,
@@ -764,8 +717,7 @@
         "D": "<p>9-12 punto</p>",
         "E": "<p>3-6 punto</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770099,
@@ -780,8 +732,7 @@
         "D": "<div class=\"page\" title=\"Page 26\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Optik Hizalama</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 27\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Renk, Kontrast ve Dişi Yazı</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770175,
@@ -796,8 +747,7 @@
         "D": "<p>rengi</p>",
         "E": "<p>iç boşlukları</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770178,
@@ -812,8 +762,7 @@
         "D": "<p>plan</p>",
         "E": "<p>değer</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770179,
@@ -828,8 +777,7 @@
         "D": "<p>negatif yazı</p>",
         "E": "<p>tipografik yazı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770206,
@@ -844,8 +792,7 @@
         "D": "<p>Sadece I</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769654,
@@ -860,8 +807,7 @@
         "D": "<p>Metin bloklarının ne kadar kolay tanınıp okunabileceğini ifade eder.</p>",
         "E": "<p>İngilizce karşılığı readability’dir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769658,
@@ -876,8 +822,7 @@
         "D": "<p>12 ile 16 punto</p>",
         "E": "<p>16 ile 18 punto</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769660,
@@ -892,8 +837,7 @@
         "D": "<p>Paragraf işareti veya özel işaretler kullanılarak yapılan paragraf ayrımı</p>",
         "E": "<p>Harf arası ayarı ile yapılan paragraf ayrımı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769661,
@@ -908,8 +852,7 @@
         "D": "<p>Yoğunluğunu</p>",
         "E": "<p>Parlaklığını</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769695,
@@ -924,8 +867,7 @@
         "D": "<p>Sadece II</p>",
         "E": "<p>Sadece I</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770143,
@@ -940,8 +882,7 @@
         "D": "<p>Optik hizalama</p>",
         "E": "<p>Sağlı–Sollu Hizalama</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770215,
@@ -956,8 +897,7 @@
         "D": "<p>150-200 karakter</p>",
         "E": "<p>250-260 karakter</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769648,
@@ -972,8 +912,7 @@
         "D": "<p>Paragraflar Ayrımları</p>",
         "E": "<p>punto</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769694,
@@ -988,8 +927,7 @@
         "D": "<p>6</p>",
         "E": "<p>8</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770136,
@@ -1004,8 +942,7 @@
         "D": "<p>Kerning olarak</p>",
         "E": "<p>Allograf olarak</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770180,
@@ -1020,8 +957,7 @@
         "D": "<p>Simetrik</p>",
         "E": "<p>optik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770219,
@@ -1036,8 +972,7 @@
         "D": "<p>I, II, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769653,
@@ -1052,8 +987,7 @@
         "D": "<p>Extended</p>",
         "E": "<p>Espas</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770098,
@@ -1068,8 +1002,7 @@
         "D": "<p>I/IV</p>",
         "E": "<p>II/III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770142,
@@ -1084,8 +1017,7 @@
         "D": "<p>65 karakter</p>",
         "E": "<p>75 karakter</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770092,
@@ -1100,8 +1032,7 @@
         "D": "<p>VII/VIII</p>",
         "E": "<p>III/IV/V/VI</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770217,
@@ -1116,8 +1047,7 @@
         "D": "<p>Oblik</p>",
         "E": "<p>Sans Serif</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770135,
@@ -1132,8 +1062,7 @@
         "D": "<p>Harflerin regular biçimleridir</p>",
         "E": "<p>Harflerin Puntosudur</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770211,
@@ -1148,8 +1077,7 @@
         "D": "<p>9-12 punto</p> ",
         "E": "<p>14-28 punto</p>  ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770212,
@@ -1164,8 +1092,7 @@
         "D": " <p>3-6 punto</p> ",
         "E": " <p>6-8 punto</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770134,
@@ -1180,8 +1107,7 @@
         "D": "<p>Satır Uzunlukları</p>",
         "E": "<p>Optik Hizalama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770171,
@@ -1196,8 +1122,7 @@
         "D": "<p>metin</p>",
         "E": "<p>cümle</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769649,
@@ -1212,8 +1137,7 @@
         "D": "<p>Büyük ve Küçük Harfler</p>",
         "E": "<p>Yazı Boyutu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770141,
@@ -1228,8 +1152,7 @@
         "D": "<p>Kelime, satır veya tüm paragraftaki karakterler arasındaki boşluğun eşit değerde azaltılması veya artırılmasıdır</p>",
         "E": "<p>Bir satırın taban çizgisinden diğer satırın taban çizgisine olan uzaklığıdır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770094,
@@ -1244,8 +1167,7 @@
         "D": "<p>Eğik yazılar</p>",
         "E": "<p>Bitişik yazılar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770209,
@@ -1260,8 +1182,7 @@
         "D": "<p>X-Yüksekliği</p> ",
         "E": "<p>Allograf</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770221,
@@ -1276,7 +1197,6 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>I, II, IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     }
 ]

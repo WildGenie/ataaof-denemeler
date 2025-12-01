@@ -12,8 +12,7 @@
         "D": "<p>III ve IV</p>",
         "E": "<p>I ve IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862465,
@@ -28,8 +27,7 @@
         "D": "<p> özerklik / faydacılık </p>",
         "E": "<p>yaratıcılık / sıradanlık </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862466,
@@ -44,8 +42,7 @@
         "D": "<p>Sergide görünür kılmak başat koşuldur. </p>",
         "E": "<p>Sergi, öğretici ve bilgilendiricidir. </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862467,
@@ -60,8 +57,7 @@
         "D": "<p>Temalı sergi</p>",
         "E": "<p>Ticari sergi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862468,
@@ -76,8 +72,7 @@
         "D": "<p>Sergiler, daha fazla görünüm ve tanınırlığa yol açar. </p>",
         "E": "<p>Sergiler, farklı tarz ve hareketlerle temas imkanı sağlar. </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862469,
@@ -92,8 +87,7 @@
         "D": "<p>Portfolyo</p>",
         "E": "<p>Sistem </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862520,
@@ -108,8 +102,7 @@
         "D": "<p>Multimedya sunumlar</p>",
         "E": "<p>Asma sistem</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862521,
@@ -124,8 +117,7 @@
         "D": "<p>Charles - Ray Eames</p>",
         "E": "<p>El Lissitzky</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862522,
@@ -140,8 +132,7 @@
         "D": "<p>Dev boyutlu grafik/sergiler</p>",
         "E": "<p>Video art</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862523,
@@ -156,7 +147,6 @@
         "D": "<p>Mekan ve zaman uyumunu dikkate alması </p>",
         "E": "<p>Bir ekip işini gerekli kılması </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

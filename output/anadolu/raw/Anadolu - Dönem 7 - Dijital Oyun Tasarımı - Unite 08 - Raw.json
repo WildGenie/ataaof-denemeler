@@ -12,8 +12,7 @@
         "D": "<p>Üst düzey uyumluluk</p>",
         "E": "<p>Oyun tasarımını demokratikleştirme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685460,
@@ -28,8 +27,7 @@
         "D": "<p>Yayımlama</p>",
         "E": "<p>Demografik yapı belirleme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685462,
@@ -44,8 +42,7 @@
         "D": "<p>Optimizasyon</p>",
         "E": "<p>Veri kodlama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685463,
@@ -60,8 +57,7 @@
         "D": "<p>Yeni neslin teknolojiye uyumu</p>",
         "E": "<p>Geniş oyun yelpazesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685465,
@@ -76,8 +72,7 @@
         "D": "<p>Oyuncu katılımı</p>",
         "E": "<p>Oyun içi satın alma davranışları</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685468,
@@ -92,8 +87,7 @@
         "D": "<p>Geçmiş verilerden yararlanarak şimdiki verilere ilişkin kapsamlı tahminler</p>",
         "E": "<p>Gelecek verilerden yararlanarak şimdiki verilere ilişkin kapsamlı tahminler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685470,
@@ -108,8 +102,7 @@
         "D": "<p>Kullanıcı psikolojisi ve müşteri ilişkileri</p>",
         "E": "<p>İnovasyon Yönetimi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685471,
@@ -124,8 +117,7 @@
         "D": "<p>9.sırada</p>",
         "E": "<p>11.sırada</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685474,
@@ -140,8 +132,7 @@
         "D": "<p>Eğitimciler</p>",
         "E": "<p>Hükûmetler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685476,
@@ -156,7 +147,6 @@
         "D": "<p>Bulut oyunculuğu</p>",
         "E": "<p>Giyilebilir Oyunculuk</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

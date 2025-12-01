@@ -12,8 +12,7 @@
         "D": "<p>Katalog</p> ",
         "E": "<p>Espas</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862070,
@@ -28,8 +27,7 @@
         "D": "<p>Çerçeve seçimi</p>",
         "E": "<p>Font seçimi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862071,
@@ -44,8 +42,7 @@
         "D": "<p>III-IV</p> ",
         "E": "<p>I-II-III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862072,
@@ -60,8 +57,7 @@
         "D": "<p>Marka planı</p>",
         "E": "<p>Ana katalog</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862073,
@@ -76,8 +72,7 @@
         "D": "<p>Font</p>",
         "E": "<p>CMYK</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862074,
@@ -92,8 +87,7 @@
         "D": "<p>Font</p>",
         "E": "<p>Pantone</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862075,
@@ -108,8 +102,7 @@
         "D": "<p>Pantone</p>",
         "E": "<p>CMYK</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862076,
@@ -124,8 +117,7 @@
         "D": "<p>Font</p> ",
         "E": "<p>HEX</p>  ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862077,
@@ -140,8 +132,7 @@
         "D": "<p>I-IV-II-V</p> ",
         "E": "<p>I-II-III-IV</p>  ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862078,
@@ -156,8 +147,7 @@
         "D": "<p>A4</p> ",
         "E": "<p>Katalog</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862234,
@@ -172,8 +162,7 @@
         "D": "<p><span>Tasarım sürecinin yalnızca görsel boyutunu vurgulamak</span></p>",
         "E": "<span>Tasarımın gerçek dünyadaki işlevini göstermek</span>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862235,
@@ -188,8 +177,7 @@
         "D": "<p><span>Marka sayfası</span></p>",
         "E": "<span>Marka karşılaması</span>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862236,
@@ -204,8 +192,7 @@
         "D": "<p><span>Marka konumlandırma</span></p>",
         "E": "<span>Marka stratejisi</span>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862237,
@@ -220,8 +207,7 @@
         "D": "<p><span>Font</span></p>",
         "E": "<span>Renk</span>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862238,
@@ -236,8 +222,7 @@
         "D": "Yellow",
         "E": "Key",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862239,
@@ -252,8 +237,7 @@
         "D": "<p><span>Renk paleti, markanın tüm iletişim materyallerinde ve kanallarında tutarlı bir şekilde kullanılmalıdır</span></p>",
         "E": "<span>Çok fazla renk kullanmak tasarımı daha iyi hale getirir</span>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862240,
@@ -268,8 +252,7 @@
         "D": "<p><span>Switcher</span></p>",
         "E": "<span>HEX</span>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862241,
@@ -284,8 +267,7 @@
         "D": "<p><span>Vurgulama</span></p>",
         "E": "<span>Retorik</span>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862242,
@@ -300,8 +282,7 @@
         "D": "<p><span>Retorik</span></p>",
         "E": "<span>Logo</span>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862243,
@@ -316,7 +297,6 @@
         "D": "<p><span>Web mockuplar</span></p>",
         "E": "<span>Mobil mockuplar</span>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

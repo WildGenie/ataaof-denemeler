@@ -12,8 +12,7 @@
         "D": "<p>Kapsayıcılık</p>",
         "E": "<p>Ayrımcılık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601506,
@@ -28,8 +27,7 @@
         "D": "<p>Newcomb- Bakışım kuramı</p>",
         "E": "<p>Bandura- Sosyal öğrenme kuramı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601512,
@@ -44,8 +42,7 @@
         "D": "<p>Geç çoğunluk</p>",
         "E": "<p>Direnişçiler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601516,
@@ -60,8 +57,7 @@
         "D": "<p>Uzak durmayı</p>",
         "E": "<p>Faydalı teknolojileri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601517,
@@ -76,8 +72,7 @@
         "D": "<p>Teknolojik yakınsama</p>",
         "E": "<p>Teknolojik yabancılaşma</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601518,
@@ -92,8 +87,7 @@
         "D": "<p>Yenilikçi teknoloji</p>",
         "E": "<p>Teknolojik yenilik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601519,
@@ -108,8 +102,7 @@
         "D": "<p>Rekabetçi yenilik</p>",
         "E": "<p>Sürdürülebilir karlılık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601520,
@@ -124,8 +117,7 @@
         "D": "<p>Canlı etkinliğin kitlesel ölçümü</p>",
         "E": "<p>Kitlesel medya yayını</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601522,
@@ -140,8 +132,7 @@
         "D": "<p>Toplumsal gerçeklikler</p>",
         "E": "<p>Politik gerçeklikler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601523,
@@ -156,7 +147,6 @@
         "D": "<p>FTP</p>",
         "E": "<p>PPT</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

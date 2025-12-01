@@ -2861,7 +2861,7 @@
     },
     {
         "SoruID": 3858925,
-        "SoruMetni": "Fotoğrafçının kameralar, objektifler, ışık kaynakları ve buna benzer birçok ekipman bilgisinin yanında aşağıda şıklarda belirtilen hangi özellik de fotoğrafı oluşturmasında önemli niteliklerden biri sayılmaktadır ?",
+        "SoruMetni": "Fotoğrafçının kameralar, objektifler, ışık kaynakları ve buna benzer birçok ekipman bilgisinin yanında aşağıda şıklarda belirtilen hangi özellik de fotoğrafı oluşturmasında önemli niteliklerden biri sayılmaktadır ?",
         "A": "Fizik bilgisi",
         "B": "Kimya bilgisi",
         "C": "Malzeme bilgisi",
@@ -2877,7 +2877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fotoğrafçının kameralar, objektifler, ışık kaynakları ve buna benzer birçok ekipman bilgisinin yanında sanat bilgisi de fotoğrafı oluşturmasında<br/>önemli niteliklerden biri sayılır. Dolayısıyla cevap E şıkkıdır."
+        "Aciklama": "Fotoğrafçının kameralar, objektifler, ışık kaynakları ve buna benzer birçok ekipman bilgisinin yanında sanat bilgisi de fotoğrafı oluşturmasında<br/>önemli niteliklerden biri sayılır. Dolayısıyla cevap E şıkkıdır."
     },
     {
         "SoruID": 3858926,
@@ -3840,6 +3840,26 @@
         "Aciklama": "Doğrudan güneş ışığının renk ısısı 5200 K’dir"
     },
     {
+        "SoruID": 3858444,
+        "SoruMetni": "Makinemize giren ışık yoğunluğunu azaltarak uzun pozlama yapmamızı sağlayan aracın ismi aşağıdakilerden hangisidir?",
+        "A": "Diyafram",
+        "B": "Tripod",
+        "C": "Tungsten",
+        "D": "Mercek",
+        "E": "Nötr yoğunluk filtresi",
+        "DogruCevap": "E",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:15:27.810905",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Nötr yoğunluk filtreleri, makinemize giren ışık yoğunluğunu azaltarak uzun pozlama yapmamızı sağlarlar."
+    },
+    {
         "SoruID": 3858445,
         "SoruMetni": "Aşağıdakilerden hangisi iyi bir pan tekniği için yapılması gerekenlerden <span style=\"text-decoration: underline;\">değildir</span>?",
         "A": "1/15, 1/60 enstantene hızları ayarlamak.",
@@ -4197,7 +4217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Günümüze ulaşan en eski negatif görüntüyü elde eden ve kalotip adı verilen bu tekniğin patentini alan bilim insanı William Henry Fox Talbot'tur."
+        "Aciklama": "Günümüze ulaşan en eski negatif görüntüyü elde eden ve kalotip adı verilen bu tekniğin patentini alan bilim insanı William Henry Fox Talbot'tur."
     },
     {
         "SoruID": 3858679,
@@ -4317,7 +4337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "40mm f/1.4 veya f/1.8 mimari fotoğrafçılıkta kullanılması gereken temel lens örneklerinden biri değildir."
+        "Aciklama": "40mm f/1.4 veya f/1.8 mimari fotoğrafçılıkta kullanılması gereken temel lens örneklerinden biri değildir."
     },
     {
         "SoruID": 3858732,
@@ -4698,6 +4718,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Doğru cevap E'dir. Işığın miktarını ayarlayan düzeneğe diyafram adı verilir."
+    },
+    {
+        "SoruID": 3858843,
+        "SoruMetni": "Aşağıdakilerden hangisi Poz Ölçüm Modlarından biri değildir?",
+        "A": "Ağırlıklı Ortalama (Matrix) Ölçüm",
+        "B": "Beyaz ayarı",
+        "C": "Merkez Ağırlıklı Ölçüm",
+        "D": "Kısmi Ölçüm",
+        "E": "Spot Ölçüm",
+        "DogruCevap": "B",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:41:52.395270",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Doğru cevap B'dir. Beyaz ayarı bu ölçümlerden değildir."
     },
     {
         "SoruID": 3858844,
@@ -5980,6 +6020,26 @@
         "Aciklama": "Pozlama değer telafisi olarak adlandırılan “Pozlama Telafisi (EC)”, kameranızda çekim yaparken kameranızın dahili ölçer tarafından seçilen pozlama değerlerini ayarlamanızı sağlayan bir özelliktir. EC, fotoğraf makinesinin pozometresi ne zaman olursa olsun fotoğrafların daha parlak veya daha karanlık olmasını sağlamak için poz ayarlarını değiştirmenize izin verir. Doğru cevap B seçeneğidir."
     },
     {
+        "SoruID": 3859036,
+        "SoruMetni": "Aşağıdakilerden hangisi poz ölçüm modunun sunduğu ölçüm şekillerinden birisi <em>değildir?</em>",
+        "A": "Ağırlıklı Ortalama (Matrix) Ölçüm",
+        "B": "Merkez Ağırlıklı Ölçüm",
+        "C": "Kısmi Ölçüm",
+        "D": "Spot Ölçüm",
+        "E": "Tam Ölçüm",
+        "DogruCevap": "E",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:20:01.047127",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Tam ölçüm adında bir ölçüm çeşidi poz ölçüm modları arasında yer almamaktadır.<br/>Doğru cevap E seçeneğidir."
+    },
+    {
         "SoruID": 3859037,
         "SoruMetni": "Aşağıdakilerden hangisi otomatik netleme parametrelerinde yer alan ayarlamalar arasında <em>bulunmaz?</em>",
         "A": "Tek noktaotomatikodaklama",
@@ -6618,6 +6678,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Danielo Barbaro adlı bir Venedikli karanlık kutunun deliğine bir mercek yerleştirerek daha net bir görüntü elde edilebileceğini kanıtladı. 17. yüzyılda taşınabilir hâle getirilen kamera obscura temel ilkesi bir kutu veya oda ve onun bir yüzüne açılmış delikten oluşur. Dışarıdan gelen ışık, delikten geçerek içerisindeki yüzeye düşer ve yansıdığı kaynağın perspektifini ve renklerini koruyarak ters dönmüş (180 derece, baş aşağı) görüntüsünü oluşturur. Resim bir kâğıt üzerine düşürülerek yüksek kesinlikli çizimler elde edilmesini sağlar."
+    },
+    {
+        "SoruID": 3859069,
+        "SoruMetni": "1826-27 yılında çekilmiş La Gras isimli ilk fotoğraf kim tarafından çekilmiştir?",
+        "A": "Joseph Nicéphore Niépce",
+        "B": "Leonardo Da Vinci",
+        "C": "Louis Jacques Mande Daguerre",
+        "D": "Paolo Toscanelli",
+        "E": "Thomas Wedgwood",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:15:27.801283",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Fotoğrafın tarihsel gelişimi Fransız mucit Nicéphore Niépce (1765-1833) tarafından 1826-27’de çekilmiş olan Pencereden Görünüm, Le Gras en eski fotoğraftır. Fotoğrafın dünyaya ilanı 1839’u bulur."
     },
     {
         "SoruID": 3859070,
@@ -8477,7 +8557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sürekli değişen duyusal girdilere rağmen nesnelerin biçimlerini, büyüklüklerini, yerlerini ve renklerini değişmeden algılamamıza algıda değişmezlik denir.<br/> Doğru cevap E seçeneğidir."
+        "Aciklama": "Sürekli değişen duyusal girdilere rağmen nesnelerin biçimlerini, büyüklüklerini, yerlerini ve renklerini değişmeden algılamamıza algıda değişmezlik denir.<br/>Doğru cevap E seçeneğidir."
     },
     {
         "SoruID": 3858872,
@@ -8618,6 +8698,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Algı kendisini oluşturan duyusal girdilerin toplamından daha fazla bir anlam ifade eder. Bu gerçeği, algısal psikoloji üzerinde çalışan ilk Alman psikologları gestalt kelimesi ile ifade ettiler"
+    },
+    {
+        "SoruID": 3858912,
+        "SoruMetni": "Aşağıdakilerden hangisi algılanmış bir olayı ifade etmektedir?",
+        "A": "İmge",
+        "B": "Düşünce",
+        "C": "Hayal",
+        "D": "İm",
+        "E": "Görü",
+        "DogruCevap": "D",
+        "DersAd": "Görsel Estetik",
+        "Unite": 4,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:15:34.974365",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "İm (işaret), algılanmış bir olayı dile getirir. Örneğin uzakta bir yerde duman görürsek orada bir ateş yanmakta olduğunu anlarız. Bu gibi doğal bağlantıları biz doğal bir işaret (im) olarak algılarız."
     },
     {
         "SoruID": 3858913,
@@ -9940,6 +10040,26 @@
         "Aciklama": "Bir alıcı organın uyarılabildiği en ufak uyarıcı şiddetine mutlak eşik (abssolute threshold) adı verilir."
     },
     {
+        "SoruID": 3859168,
+        "SoruMetni": "Ünlü Hollandalı ressam Van Gogh’un akıl hastanesine kapatıldıktan sonra sanatında daha başarılı olduğunu ifade eden “Resimlerle Düşünmek” adlı kitabın yazarı aşağıdakilerden hangisidir?",
+        "A": "Taylor",
+        "B": "Yıldırım",
+        "C": "Escher",
+        "D": "Erinç",
+        "E": "Grandin",
+        "DogruCevap": "E",
+        "DersAd": "Görsel Estetik",
+        "Unite": 4,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:15:34.971532",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "“Resimlerle Düşünmek” adlı kitabın yazarı Temple Grandin (2010), ünlü Hollandalı ressam Van Gogh’un akıl hastanesine kapatıldıktan sonra sanatında daha başarılı olduğunu ifade eder."
+    },
+    {
         "SoruID": 3859169,
         "SoruMetni": "<br/>Gestalt ile ilgili aşağıdaki bilgilerden hangisi <strong>yanlıştır</strong>?",
         "A": "Almanca bir kelimedir.",
@@ -10838,6 +10958,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Işık, insan gözünün duyarlılık bölgesinde yer alan 400-780 nanometre(nm.) arasında değişen doğal veya yapay kaynaklı ışımaya verilen addır. Bütün dünyaya hayat veren ışık, havada yaklaşık saniyede 300.000 km hızla yayılır. Görme olayının temel fizik gerçekliği olan ışık ve nesnel dünyanın ışığa bağlı bir gerçekliği olan gölge, yaşantımızda üç boyutlu dünya algısının zaman ve mekân hakkındaki temel izlenimlerindendir. Bir görüntünün elde edilip, kaydedilebilmesi için bir ışık kaynağının olması gerekir."
+    },
+    {
+        "SoruID": 3858287,
+        "SoruMetni": "Aşağıdakilerden hangisi doğal ışık kaynağıdır?",
+        "A": "El feneri",
+        "B": "Şimşek",
+        "C": "Şömine ateşi",
+        "D": "Mum",
+        "E": "Projektör",
+        "DogruCevap": "B",
+        "DersAd": "Görsel Estetik",
+        "Unite": 5,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:15:42.231129",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Doğal ışık kaynakları denildiğinde akla ilk gelen kaynaklar güneş ışığı ve gökyüzüdür. Bunların yanında ay, şimşek de doğal ışık kaynaklarıdır."
     },
     {
         "SoruID": 3858288,
@@ -16381,7 +16521,7 @@
     },
     {
         "SoruID": 3859393,
-        "SoruMetni": "<img alt=\"https://tr.depositphotos.com/29545541/stock-photo-brown-texture-warm-stone-wall.html\" height=\"281\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/15f555f3efb0c7da95d601d4e98eb0a8.jpeg\" width=\"397\"/><br/> Yukarıdaki resimde hangi görsel anlatımın verilmesi amaçlanmış olabilir?",
+        "SoruMetni": "<img alt=\"https://tr.depositphotos.com/29545541/stock-photo-brown-texture-warm-stone-wall.html\" height=\"281\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/15f555f3efb0c7da95d601d4e98eb0a8.jpeg\" width=\"397\"/><br/>Yukarıdaki resimde hangi görsel anlatımın verilmesi amaçlanmış olabilir?",
         "A": "Doku",
         "B": "Çizgi",
         "C": "Yön",
@@ -19800,6 +19940,26 @@
         "Aciklama": "İtalyan ressamı Caravaggio’nun 1594-1596 tarihleri arasında tamamladığı “Narcissus” adlı yağlı boya tablosu da görüntü kavramıyla ilgili güzel bir çalışmadır."
     },
     {
+        "SoruID": 3859494,
+        "SoruMetni": "Çok yakındaki bir objeyle uzaktaki objenin aynı netlikte görülebilmesine ne denir?",
+        "A": "Görüntü",
+        "B": "Derinlemesine görüntü",
+        "C": "Çekim",
+        "D": "Zahiri görüntü",
+        "E": "Mercek yapısı",
+        "DogruCevap": "B",
+        "DersAd": "Görsel Estetik",
+        "Unite": 7,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:23:45.569100",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Derinlemesine görüntü işlemi çok yakındaki bir objeyle uzaktaki objenin aynı netlikte görülebilmesidir."
+    },
+    {
         "SoruID": 3859495,
         "SoruMetni": "1806 yılında Thomas Wollaston tarafından bulunan ve ressamların manzara sahnesini hatasız bir şekilde resmetmesine yardımcı olan optik aygıt hangisidir?",
         "A": "Fotoğraf makinesi",
@@ -20440,6 +20600,26 @@
         "Aciklama": "Aristoteles'e göre zaman, önce ve sonraya göre devinimin/hareketin sayısıdır. Bireylerin, zihinlerinde bir şey değişmediğinde ya da herhangi bir değişimi fark etmediklerinde zamanın da geçmediğini düşünmektedir. hareket olmaksızın tek başına var olabilmesi olanaklı değildir. Doğru cevap B'dir."
     },
     {
+        "SoruID": 3858360,
+        "SoruMetni": "\"Zaman bir nokta üzerinden diğer bir nokta üzerine hareket eden kesintisiz, dinamik ve döngüsel olmayan şeydir.\" Görüşü kime aittir?",
+        "A": "Henri Bergson",
+        "B": "Kant",
+        "C": "Platon",
+        "D": "Aristoteles",
+        "E": "Einstein",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:20:37.859964",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Henri Bergson ise, göre, zaman bir nokta üzerinden diğer bir nokta üzerine hareket eden kesintisiz, dinamik ve döngüsel olmayan şeydir. İki farklı anlayışı olduğunu savunan Bergson için, birincisi; bireyin içinde var olan ve sezgi yoluyla elde edilen süre, ikincisi ise nesnel dünyanın yansıması olarak araya “mekân fikri sokulan süre”olduğunu ifade eder. Doğru cevap A'dır."
+    },
+    {
         "SoruID": 3858361,
         "SoruMetni": "\"Mutlak zaman\" görüşünü savunan düşünür hangisidir?",
         "A": "Platon",
@@ -20458,6 +20638,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Zaman anlayışı göreli ve mutlak zaman olarak da ele alınmaktadır. Newton, mutlak zaman görüşünü savunmaktadır. Newton bu yaklaşımı çerçevesinde, mutlak ve evrensel zamanın ölçülebilir, hesaplanabilir olduğunu ve zamanın temelde dışsal bir öğeden bağımsız olarak aktığını belirtir. Doğru cevap D'dir."
+    },
+    {
+        "SoruID": 3858362,
+        "SoruMetni": "<ul> <li>Görecelik kuramı</li> <li>20. yüzyıl</li> <li>Picasso ve Braque</li> <li>Zaman-Nesne</li> </ul> Yukarıda verilen bilgiler hangi tarihi gelişme ile ilişkilidir?",
+        "A": "Rönesans",
+        "B": "Modernizm",
+        "C": "Endüstri devrimi",
+        "D": "Romantizm",
+        "E": "Kübist Devrim",
+        "DogruCevap": "E",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:31:18.417255",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "20. Yüzyılında, Braque ve Picasso gibi sanatçıların perspektif bozumu ile Kübist Devrim ortaya çıkmıştır. Böylece, nesnelerin fiziksel özelliklerinin yanına zaman kavramı da eklenmiştir. Bu yaklaşım, Einstein’ın görelilik kuramı ile ilişkilidir. Doğru cevap E'dir."
     },
     {
         "SoruID": 3858363,
@@ -20638,6 +20838,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Kurgusal zaman; filmde geçen bir zaman diliminin, öznel çekimlerle ya da kurgu yoluyla gerçek zamana göre kısaltılması veya uzatılmasıdır. Doğru cevap A'dır."
+    },
+    {
+        "SoruID": 3858611,
+        "SoruMetni": "Hareket-imgenin sinemada olay örgüsüne dayandığını iddia eden düşünür aşağıdakilerden hangisidir?",
+        "A": "Bergson",
+        "B": "Einstein",
+        "C": "Deleuze",
+        "D": "Tarkovski",
+        "E": "Balsom",
+        "DogruCevap": "C",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:16:03.784515",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Deleuze hareket-imgenin olay örgüsüne dayandığını iddia etmiştir. Zamanimge ise, Deleuze için yeni bir algılama yoludur. Deleuze, Bergson’dan süre ve sezgi kavramlarını ödünç alarak zaman-imge kavramını geliştirmiştir. Doğru cevap C'dir."
     },
     {
         "SoruID": 3858612,
@@ -21338,6 +21558,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Biyolojik saat, alışkanlıklara göre kurulur. Çoğu zaman uyanmak için kurduğumuz saatin alarmı çalmadan biraz önce uyanırız. Biyolojik saat, bize kalkma zamanının geldiğini söylemiştir. Canlıların uyuma uyanma, yeme içme saatini değiştirmesi hâlinde biyolojik saatte yeni programa göre kendisini ayarlayacaktır. Doğru cevap A'dır."
+    },
+    {
+        "SoruID": 3859515,
+        "SoruMetni": "Aşağıdakilerden hangisi zamanı diğer kaynaklardan (para, insan gücü, ham madde vb.) ayıran özelliklerinden biri <span style=\"text-decoration: underline;\">değildir?</span>",
+        "A": "Zaman ancak içinde bulunulan an tüketilebilir.",
+        "B": "Zaman ikame edilemez.",
+        "C": "Zaman yenilenebilir.",
+        "D": "Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz.",
+        "E": "Zaman para gibi borç alınıp verilemez.",
+        "DogruCevap": "C",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:20:37.862037",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Zamanı diğer kaynaklardan ayıran özellikler şunlardır;<br/><ul><br/><li>Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz yani zamanın ileride gereksinim duyulduğunda kullanılmak üzere depolanması olanaksızdır.</li><br/><li>Zaman ancak içinde bulunulan an tüketilebilir. Zaman gerektiğinde başkaları tarafından kullanılmak üzere devredilemez.</li><br/><li>Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir.</li><br/><li>Zaman yenilenemez. Bir örgüt ürettiği mal, hizmet ve düşüncenin bir kısmını, tekrar kendisi için girdi olarak kullanır ancak kullanılan zamanın ne doğal yolla ne de üretim yoluyla yerine konulması, yeniden üretilmesi mümkün değildir.</li><br/><li>Zaman para gibi borç alınıp verilemez ancak bir işi para karşılığında başkasına yaptırmak da bir bakıma zamanın satın almak demektir. </li><br/></ul><br/>Doğru cevap C'dir."
     },
     {
         "SoruID": 3859516,
@@ -22520,6 +22760,26 @@
         "Aciklama": "Zaman kavramına ilişkin görüş belirten ilk isimler arasında Platon ve Aristoteles yer almaktadır. Platon’a göre zaman, zihnin varlıkları bütünlüklü olarak, anında kavrayamamasının sonucunda meydana gelmiştir. Zaman, idealar dünyasının sadece bir taklididir. Çünkü idealar dünyası değişmez ve zaman dışıdır. Buna göre doğru cevap A'dır."
     },
     {
+        "SoruID": 3859575,
+        "SoruMetni": "Zamanın nesnel dünyadan kazanılmış bir şey olmadığını ancak insanın nesnel dünyayı algılamasının temel şartı olduğunu dile getiren, öznel ve ideal olduğunu söyleyen düşünür aşağıdakilerden hangisidir?",
+        "A": "Aristoteles",
+        "B": "Platon",
+        "C": "Kant",
+        "D": "Bergson",
+        "E": "Einstein",
+        "DogruCevap": "C",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:16:03.781264",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Zaman konusunda görüş bildiren bir diğer düşünür olan Kant ise, zamanın nesnel dünyadan kazanılmış bir şey olmadığını ancak insanın nesnel dünyayı algılamasının temel şartı olduğunu dile getirir. Kant’a göre zaman öznel ve idealdir. Doğru cevap C'dir."
+    },
+    {
         "SoruID": 3859576,
         "SoruMetni": "Saate ve/veya takvime bağlı olarak ölçülebilen, gözlenebilen, takip edilebilen zaman biçimi aşağıdakilerden hangisidir?",
         "A": "Objekjtif zaman",
@@ -22860,6 +23120,26 @@
         "Aciklama": "Mekân ve hareketle ilişkili olarak fotoğraf makinesi nesneyi şimdiki zamanında dinamik bir şey olarak değil statik bir şey olarak resmeder. Yani an’ı dondurur"
     },
     {
+        "SoruID": 3859593,
+        "SoruMetni": "\"Saate ve/veya takvime bağlı (saat, gün, hafta, ay) olarak ölçülebilen, gözlenebilen, takip edilebilen zaman\" olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+        "A": "Geçmiş Zaman",
+        "B": "Şimdiki Zaman",
+        "C": "Gelecek Zaman",
+        "D": "Objektif Zaman",
+        "E": "Subjektif Zaman",
+        "DogruCevap": "D",
+        "DersAd": "Görsel Estetik",
+        "Unite": 8,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:16:03.782833",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Herkesin eşit şekilde sahip olduğu zamana ilişkin bir diğer ayrımı; Objektif zaman (nesnel zaman) ve subjektif zaman (öznel zaman) ayrımıdır. Objektif zaman, saate ve/veya takvime bağlı (saat, gün, hafta, ay) olarak ölçülebilen, gözlenebilen, takip edilebilen zamandır."
+    },
+    {
         "SoruID": 3859594,
         "SoruMetni": "Zaman ile ilgili olarak; \"Zaman,zihnin varlıkları bütünlüklü olarak, anında kavrayamamasının sonucunda meydana gelmiştir. Zaman, idealar dünyasının<br/>sadece bir taklididir. Çünkü idealar dünyası değişmez ve zaman dışıdır.\" şeklinde görüş belirten düşünür aşağıdakilerden hangisidir?",
         "A": "Aristoteles",
@@ -23181,7 +23461,7 @@
     },
     {
         "SoruID": 3859630,
-        "SoruMetni": "Daha çok bilim kurgu filmlerde görülen, nasıl ve ne zaman olduğu belli olmayan zaman türüne ne ad verilir ?",
+        "SoruMetni": "Daha çok bilim kurgu filmlerde görülen, nasıl ve ne zaman olduğu belli olmayan zaman türüne ne ad verilir ?",
         "A": "Reel zaman",
         "B": "Kurgusal zaman",
         "C": "Hayali zaman",
@@ -23197,7 +23477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hayali zaman, daha çok bilim kurgu filmlerde görülen, nasıl ve ne zaman olduğu belli olmayan zaman türüdür. Dolayısıyla cevap C şıkkıdır."
+        "Aciklama": "Hayali zaman, daha çok bilim kurgu filmlerde görülen, nasıl ve ne zaman olduğu belli olmayan zaman türüdür. Dolayısıyla cevap C şıkkıdır."
     },
     {
         "SoruID": 3859631,

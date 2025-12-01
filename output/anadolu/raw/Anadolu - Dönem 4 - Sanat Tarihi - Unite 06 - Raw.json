@@ -12,8 +12,7 @@
         "D": "<p>Gazneliler</p>",
         "E": "<p>Anadolu Selçuklu Devleti</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936790,
@@ -28,8 +27,7 @@
         "D": "<p>Kurgan</p>",
         "E": "<p>Kagir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936809,
@@ -44,8 +42,7 @@
         "D": "<p>İstanbul Ortaköy Camii</p>",
         "E": "<p>Süleymaniye </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936822,
@@ -60,8 +57,7 @@
         "D": "<p>Kurgan</p>",
         "E": "<p>Türbe</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936832,
@@ -76,8 +72,7 @@
         "D": "<p>çini sanatında</p>",
         "E": "<p>Miyatür sanatında</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936836,
@@ -92,8 +87,7 @@
         "D": "<p>Cami yapımı mimarisi</p>",
         "E": "<p>Kilise yapımı mimarisi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936842,
@@ -108,8 +102,7 @@
         "D": "<p>Saltuklu</p>",
         "E": "<p>Dilmaçoğulları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936877,
@@ -124,8 +117,7 @@
         "D": "Türk Memlükleri",
         "E": "Avarlar",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936898,
@@ -140,8 +132,7 @@
         "D": "<p>Kadanda.</p>",
         "E": "<p>Berel.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936904,
@@ -156,8 +147,7 @@
         "D": "<p>Harbi Hotan</p>",
         "E": "<p>Seyfi Arıkan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936905,
@@ -172,8 +162,7 @@
         "D": "<p>Uygur</p>",
         "E": "<p>Safeviler  </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936907,
@@ -188,8 +177,7 @@
         "D": "<p>Surnamaler  </p>",
         "E": "<p>Hünername</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936921,
@@ -204,8 +192,7 @@
         "D": "<p>Saray.</p>",
         "E": "<p>Şifahane.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936925,
@@ -220,8 +207,7 @@
         "D": "<p>Bursa Ulu Camii.</p>",
         "E": "<p>Van Ulu Camii.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936937,
@@ -236,8 +222,7 @@
         "D": "<p>Ziggurat</p>",
         "E": "<p>Katakomp</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936939,
@@ -252,8 +237,7 @@
         "D": "<p>İsfahan Mescidi Cuması</p>",
         "E": "<p>Gülpayegân Camii</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936943,
@@ -268,8 +252,7 @@
         "D": "<p>Sultan III. Mesut Sarayı</p>",
         "E": "<p>Semerkant İşrethane Sarayı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936955,
@@ -284,8 +267,7 @@
         "D": "<p>Şeker Ahmet Paşa</p>",
         "E": "<p>Osman Hamdi Bey</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936957,
@@ -300,8 +282,7 @@
         "D": "<p>Büyük Selçuklular</p>",
         "E": "<p>Memluklar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936964,
@@ -316,8 +297,7 @@
         "D": "<p>Osmanlılar</p>",
         "E": "<p>İlhanlılar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936764,
@@ -332,8 +312,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936766,
@@ -348,8 +327,7 @@
         "D": "<p>Zaviyeli camii</p>",
         "E": "<p>Kervansaray</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936813,
@@ -364,8 +342,7 @@
         "D": "<p>Sultan Sencer Türbesi</p>",
         "E": "<p>Musa Paşa Türbesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936840,
@@ -380,8 +357,7 @@
         "D": "<p>Maristan</p>",
         "E": "<p>Eyvan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936845,
@@ -396,8 +372,7 @@
         "D": "<p>Edirne Selimiye Camii ve Külliyesi</p>",
         "E": "<p>Sultan Ahmet Camii</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936849,
@@ -412,8 +387,7 @@
         "D": "<p>Göktürkler</p>",
         "E": "<p>Anadolu Selçuklular</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936860,
@@ -428,8 +402,7 @@
         "D": "<p>Kayseri Ulu Camii ve Şifahanesi</p>",
         "E": "<p>Erzurum Ulu Camii ve Şifahanesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936866,
@@ -444,8 +417,7 @@
         "D": "<p>Bursa Ulu Camii</p>",
         "E": "<p>Konya İplikçi Camii</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936869,
@@ -460,8 +432,7 @@
         "D": "Gur-i Mir Türbesi",
         "E": "Tac Mahal ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936875,
@@ -476,8 +447,7 @@
         "D": "Yıldız Sarayı",
         "E": "İshak Paşa Sarayı",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936887,
@@ -492,8 +462,7 @@
         "D": "<p>Zevvare Mescidi Cuması</p>",
         "E": "<p>Beçin Ahmet Gazi Medresesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936890,
@@ -508,8 +477,7 @@
         "D": "<p>Kasır</p>",
         "E": "<p>Bir merkezî yapı etrafında gelişenler </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936896,
@@ -524,8 +492,7 @@
         "D": "<p>Kırgız.</p>",
         "E": "<p>Uygur.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936899,
@@ -540,8 +507,7 @@
         "D": "<p>Fustat Ulu Camii.</p>",
         "E": "<p>Leşker-i Bazar Sarayı ve Camii.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936911,
@@ -556,8 +522,7 @@
         "D": "<p>Balık.</p>",
         "E": "<p>Külliye.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936914,
@@ -572,8 +537,7 @@
         "D": "<p>1443-1637</p>",
         "E": "<p>1526-1858</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936947,
@@ -588,8 +552,7 @@
         "D": "<p>Alanya İç Kale Sarayı</p>",
         "E": "<p>Kubad-Abad Sarayı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936961,
@@ -604,8 +567,7 @@
         "D": "<p>Saltuklu</p>",
         "E": "<p>Babürlü</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936970,
@@ -620,8 +582,7 @@
         "D": "<p>Sadece III</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936789,
@@ -636,8 +597,7 @@
         "D": "<p>Osmanlı</p>",
         "E": "<p>Uygur</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936795,
@@ -652,8 +612,7 @@
         "D": "<p>Konya Alaeddin Cami</p>",
         "E": "<p>Mardin Ulu Cami</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936798,
@@ -668,8 +627,7 @@
         "D": "<p>Fatih Sultan Mehmet</p>",
         "E": "<p>II. Osman</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936804,
@@ -684,8 +642,7 @@
         "D": "<p>6</p>",
         "E": "<p>7</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936805,
@@ -700,8 +657,7 @@
         "D": "<p>Ümmühan Hatun Türbesi</p>",
         "E": "<p>Alaeddin Köşkü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936850,
@@ -716,8 +672,7 @@
         "D": "<p>Anadolu’da bu yapılar Anadolu Selçuklu Döneminden günümüze gelmiştir.</p>",
         "E": "<p>Kervansaraylar çoğunlukla kent merkezlerinde sadece ticaret yapılan yerlerdir.   </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936858,
@@ -732,8 +687,7 @@
         "D": "<p>Bursa Yeşil Camii</p>",
         "E": "<p>Edirne Üç Şerefeli Camii</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936889,
@@ -748,8 +702,7 @@
         "D": "<p>Karahanlılar</p>",
         "E": "<p>Mengücekliler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936897,
@@ -764,8 +717,7 @@
         "D": "<p>Karahan.</p>",
         "E": "<p>Kırgız.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936902,
@@ -780,8 +732,7 @@
         "D": "<p>kümbetli cami </p>",
         "E": "<p>eyvanlı cami</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936909,
@@ -796,8 +747,7 @@
         "D": "<p><em>Sanayii Nefise Mektebi Ali</em></p> ",
         "E": "<p>Mühendishane-i Berr-i Hümayun</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936918,
@@ -812,8 +762,7 @@
         "D": "<p>Türk Rönesans Dönemi</p>",
         "E": "<p>Erken Cumhuriyet Mimari Dönemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936923,
@@ -828,8 +777,7 @@
         "D": "<p>Diyarbakır Ulu camii.</p>",
         "E": "<p>Siirt Ulu Camii.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936924,
@@ -844,8 +792,7 @@
         "D": "<p>Mardin Ulu Camii.</p>",
         "E": "<p>Fethpur Camii.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936928,
@@ -860,8 +807,7 @@
         "D": "<p>Türbe</p>",
         "E": "<p>Maristan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936954,
@@ -876,8 +822,7 @@
         "D": "<p>Şehzade Camii</p>",
         "E": "<p>Yeni Cami</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936979,
@@ -892,8 +837,7 @@
         "D": "<p>Dilmaçoğulları</p>",
         "E": "<p>Artuklular</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936788,
@@ -908,8 +852,7 @@
         "D": "<p>Avni Lifij</p>",
         "E": "<p>Turgut Zaim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936811,
@@ -924,8 +867,7 @@
         "D": "<p>Kasır</p>",
         "E": "<p>Maristan</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936824,
@@ -940,8 +882,7 @@
         "D": "<p>Şeker Ahmet Paşa</p>",
         "E": "<p>Bedri Rahmi Eyüboğlu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936829,
@@ -956,8 +897,7 @@
         "D": "<p>Kubad-Abad Sarayı</p>",
         "E": "<p>Saray-ı Cedid</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936841,
@@ -972,8 +912,7 @@
         "D": "<p>Külliye</p>",
         "E": "<p>Leşgergah</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936851,
@@ -988,8 +927,7 @@
         "D": "<p>Kervansaray</p>",
         "E": "<p>K&uuml;mbet</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936852,
@@ -1004,8 +942,7 @@
         "D": "<p>Kibele</p>",
         "E": "<p>Kurgan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936903,
@@ -1020,8 +957,7 @@
         "D": "<p>1850 yılların başlarından, 1910’lu yıllara kadar</p> ",
         "E": "<p>1930 yılların başlarından, 1950’li yıllara kadar</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936973,
@@ -1036,8 +972,7 @@
         "D": "<p>Sekiz</p>",
         "E": "<p>İki</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936981,
@@ -1052,8 +987,7 @@
         "D": "<p>Kanunname</p>",
         "E": "<p>Hünername</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936769,
@@ -1068,8 +1002,7 @@
         "D": "<p>Hav</p>",
         "E": "<p>Eğri kesim tekniği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936773,
@@ -1084,8 +1017,7 @@
         "D": "<p>Fethpur Camii</p>",
         "E": "<p>Tac Mahal</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936806,
@@ -1100,8 +1032,7 @@
         "D": "<p>Kubad-Abad Sarayı</p>",
         "E": "<p>Ümmühan Hatun Türbesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936807,
@@ -1116,8 +1047,7 @@
         "D": "<p>Konya Kılıçarslan Köşkü</p>",
         "E": "<p>Kayseri Döner Kümbet </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936859,
@@ -1132,8 +1062,7 @@
         "D": "<p>Kayseri Ulu Camii ve Şifahanesi</p>",
         "E": "<p>Erzurum Ulu Camii ve Şifahanesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936874,
@@ -1148,8 +1077,7 @@
         "D": "Bahramgur İle Azade",
         "E": "Varka İle Gülşah",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936878,
@@ -1164,8 +1092,7 @@
         "D": "Şadırvan",
         "E": "Anıt Mezar",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936881,
@@ -1180,8 +1107,7 @@
         "D": "Balbal",
         "E": "Kurgan",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936884,
@@ -1196,8 +1122,7 @@
         "D": "Artuklu renkli sır tekniği ile mozaik çini tekniğini",
         "E": "Osmanlı sır tekniği ile mozaik çini tekniğini",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936891,
@@ -1212,8 +1137,7 @@
         "D": "<p>Kılıç Ali Paşa Camii</p>",
         "E": "<p>Şehzade Camii</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936894,
@@ -1228,8 +1152,7 @@
         "D": "<p>Mühendishane-i Bahr-i Hümayun</p>",
         "E": "<p>Mühendishane-i Berr-i Hümayun </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936932,
@@ -1244,8 +1167,7 @@
         "D": "<p>13. Yüzyıl</p>",
         "E": "<p>14. Yüzyıl</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936933,
@@ -1260,8 +1182,7 @@
         "D": "<p>İbrahim Çallı</p>",
         "E": "<p>Feyhaman Duran</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936940,
@@ -1276,8 +1197,7 @@
         "D": "<p>Harim</p>",
         "E": "<p>Mahfil</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936945,
@@ -1292,8 +1212,7 @@
         "D": "<p>Kasır</p>",
         "E": "<p>Maristan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936972,
@@ -1308,8 +1227,7 @@
         "D": "<p>Sadece III</p>",
         "E": "<p>Sadece I</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936976,
@@ -1324,8 +1242,7 @@
         "D": "<p>Kabartma</p>",
         "E": "<p>Ajur</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936777,
@@ -1340,8 +1257,7 @@
         "D": "<p>Çintemani</p>",
         "E": "<p>Sırlama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936791,
@@ -1356,8 +1272,7 @@
         "D": "<p>Karahanlılar</p>",
         "E": "<p>Gazneliler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936800,
@@ -1372,8 +1287,7 @@
         "D": "<p>Osmanlı mimarisi</p>",
         "E": "<p>Abbasi mimarisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936814,
@@ -1388,8 +1302,7 @@
         "D": "<p>II, III ve V</p>",
         "E": "<p>II, IV ve V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936826,
@@ -1404,8 +1317,7 @@
         "D": "<p>Bordür</p>",
         "E": "<p>Oyma</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936843,
@@ -1420,8 +1332,7 @@
         "D": "<p>Edirne Üç Şerefeli Camii</p>",
         "E": "<p>İznik Hacı Özbek Camii</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936862,
@@ -1436,8 +1347,7 @@
         "D": "Mardin",
         "E": "Kayseri",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936864,
@@ -1452,8 +1362,7 @@
         "D": "Anadolu Selçuklu Devri",
         "E": "Sefevi Devri",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936888,
@@ -1468,8 +1377,7 @@
         "D": "<p>Karahanlılar</p>",
         "E": "<p>Tolunoğlu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936913,
@@ -1484,8 +1392,7 @@
         "D": "<p>Şadırvan.</p>",
         "E": "<p>Cami.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936927,
@@ -1500,8 +1407,7 @@
         "D": "<p>Şadırvan</p>",
         "E": "<p>Eyvan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936936,
@@ -1516,8 +1422,7 @@
         "D": "<p>Selçuklu</p>",
         "E": "<p>Karahanlı </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936944,
@@ -1532,8 +1437,7 @@
         "D": "<p>Kastamonu Pervaneoğlu Ali Şifahanesi</p>",
         "E": "<p>Tokat Müineddin Pervane Şifahanesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936975,
@@ -1548,8 +1452,7 @@
         "D": "<p>Sadece II</p>",
         "E": "<p>Sadece III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936774,
@@ -1564,8 +1467,7 @@
         "D": "<p>Emineddin Maristanı</p>",
         "E": "<p>Gevher Nesibe Maristanı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936796,
@@ -1580,8 +1482,7 @@
         "D": "<p>Nahcivan Mümine Hatun Türbesi</p>",
         "E": "<p>İznik Kırgızlar Türbesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936797,
@@ -1596,8 +1497,7 @@
         "D": "<p>Peçenekler</p>",
         "E": "<p>Gazneliler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936812,
@@ -1612,8 +1512,7 @@
         "D": "<p>Talhatan Baba Camii</p>",
         "E": "<p>Zahiriye Medresesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936818,
@@ -1628,8 +1527,7 @@
         "D": "<p>I, II, III</p>",
         "E": "<p>II, III, IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936857,
@@ -1644,8 +1542,7 @@
         "D": "<p>Halvet Odaları</p>",
         "E": "<p>Kümbet</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936929,
@@ -1660,8 +1557,7 @@
         "D": "<p>Uygur Dönemi</p>",
         "E": "<p>Büyük Selçuklu Dönemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936938,
@@ -1676,8 +1572,7 @@
         "D": "<p>Kehriz</p>",
         "E": "<p>Bend</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936959,
@@ -1692,8 +1587,7 @@
         "D": "<p>Özbekistan</p>",
         "E": "<p>Moğolistan</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936962,
@@ -1708,8 +1602,7 @@
         "D": "<p>Kümbet</p>",
         "E": "<p>Türbe</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936783,
@@ -1724,8 +1617,7 @@
         "D": "<p>Zahiriye</p>",
         "E": "<p>İsfahan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936810,
@@ -1740,8 +1632,7 @@
         "D": "<p>Gazneliler</p>",
         "E": "<p>Büyük Selçuklular</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936825,
@@ -1756,8 +1647,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936830,
@@ -1772,8 +1662,7 @@
         "D": "<p>Göktürk yazıtı</p>",
         "E": "<p>Roma mezar anıtlarının tümüne verilen ad</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936844,
@@ -1788,8 +1677,7 @@
         "D": "<p>Beylerbeyi Sarayı</p>",
         "E": "<p>Çırağan Sarayı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936871,
@@ -1804,8 +1692,7 @@
         "D": "Fatih Sultan Mehmet",
         "E": "Kanuni Sultan Süleyman",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936880,
@@ -1820,8 +1707,7 @@
         "D": "Sivas Ulu Camii",
         "E": "Erzurum Ulu Camii",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936886,
@@ -1836,8 +1722,7 @@
         "D": "<p>Kümbet</p>",
         "E": "<p>Kervansaray</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936908,
@@ -1852,8 +1737,7 @@
         "D": "<p><em>Sanayii Nefise Mektebi</em></p>",
         "E": "<p>Mühendishane-i Berr-i Hümayun</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936919,
@@ -1868,8 +1752,7 @@
         "D": "<p>Hav.</p>",
         "E": "<p>Minyatür.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936934,
@@ -1884,8 +1767,7 @@
         "D": "<p>Neşet Günal</p>",
         "E": "<p>Bedri Rahmi Eyüpoğlu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936967,
@@ -1900,8 +1782,7 @@
         "D": "<p>Göktürk Devleti</p>",
         "E": "<p>Uygur Devleti</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936775,
@@ -1916,8 +1797,7 @@
         "D": "<p>Mescit</p>",
         "E": "<p>Külhân</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936794,
@@ -1932,8 +1812,7 @@
         "D": "<p>Büyük Selçuklular</p>",
         "E": "<p>Peçenekler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936803,
@@ -1948,8 +1827,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936883,
@@ -1964,8 +1842,7 @@
         "D": "Süleymanname",
         "E": "Hünername",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936906,
@@ -1980,8 +1857,7 @@
         "D": "<p>El Cezeri’nin <em>Kitab fi Ma’rifet el-nafi’ fi eş-şınaa ti’l </em></p>",
         "E": "<p>Pir Budak’ ın <em>Varka ve Gülşah </em>Kitabı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936942,
@@ -1996,8 +1872,7 @@
         "D": "<p>Kümbet</p>",
         "E": "<p>Hipoje</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936956,
@@ -2012,8 +1887,7 @@
         "D": "<p>İbrahim Çallı</p>",
         "E": "<p>Nuri İyem</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936971,
@@ -2028,8 +1902,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936779,
@@ -2044,8 +1917,7 @@
         "D": "<p>&Ccedil;ırağan Sarayı</p>",
         "E": "<p>Yıldız Sarayı&nbsp;&nbsp;</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936792,
@@ -2060,8 +1932,7 @@
         "D": "<p>Karahanlılar</p>",
         "E": "<p>Gazneliler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936793,
@@ -2076,8 +1947,7 @@
         "D": "<p>Eyvan</p>",
         "E": "<p>Kümbet</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936827,
@@ -2092,8 +1962,7 @@
         "D": "<p>Ayasofya Hamamı</p>",
         "E": "<p>Selimiye Camii</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936853,
@@ -2108,8 +1977,7 @@
         "D": "<p>Müstakiller Grubu</p> ",
         "E": "<p>1914 Grubu</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936861,
@@ -2124,8 +1992,7 @@
         "D": "Berkyaruk",
         "E": "Sencer Bey",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936873,
@@ -2140,8 +2007,7 @@
         "D": "Barok",
         "E": "Klasik",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936922,
@@ -2156,8 +2022,7 @@
         "D": "<p>Musa Paşa Türbesi.</p>",
         "E": "<p>Yesi Hoca Ahmet Yesevi Külliyesi.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936930,
@@ -2172,8 +2037,7 @@
         "D": "<p>Külliye</p>",
         "E": "<p>Eyvan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936760,
@@ -2188,8 +2052,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936772,
@@ -2204,8 +2067,7 @@
         "D": "<p>Büyük Selçuklu Mimarisi</p>",
         "E": "<p>Safevi Mimarisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936785,
@@ -2220,8 +2082,7 @@
         "D": "<p>Şadırvan</p>",
         "E": "<p>Külliye</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936839,
@@ -2236,8 +2097,7 @@
         "D": "<p>Müzik </p>",
         "E": "<p>Tiyatro</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936893,
@@ -2252,8 +2112,7 @@
         "D": "<p>Kitab fi Ma’rifet el-nafi’ fi eş-şınaa ti’l hiyel </p>",
         "E": "<p>Hünername</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936941,
@@ -2268,8 +2127,7 @@
         "D": "<p>Kirmanlar</p>",
         "E": "<p>Göktürkler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936960,
@@ -2284,8 +2142,7 @@
         "D": "<p>Timurlu Devleti</p>",
         "E": "<p>Büyük Selçuklu Devleti</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936965,
@@ -2300,8 +2157,7 @@
         "D": "<p>Neo Klasik Dönem</p>",
         "E": "<p>Romantik Dönem</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936763,
@@ -2316,8 +2172,7 @@
         "D": "<p>Türk Memlükleri Mimarisi</p>",
         "E": "<p>Timurlu Mimarisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936815,
@@ -2332,8 +2187,7 @@
         "D": "<p>Kastamonu İsmail Bey Camii</p>",
         "E": "<p>Antalya Yivli Minare Camii</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936855,
@@ -2348,8 +2202,7 @@
         "D": "<p>Yeni Camii</p>",
         "E": "<p>Fatih Camii</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936910,
@@ -2364,8 +2217,7 @@
         "D": "<p>Timur devletinin unvanı.</p>",
         "E": "<p>İlhanlı devletinin unvanı.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936935,
@@ -2380,8 +2232,7 @@
         "D": "<p>Kümbet</p>",
         "E": "<div class=\"page\" title=\"Page 22\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kündekâri</p> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936968,
@@ -2396,8 +2247,7 @@
         "D": "<p>Sadece II</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936831,
@@ -2412,8 +2262,7 @@
         "D": "<p>Ege de bulunan Girit adasında ortaya çıktığı düşünülmektedir.</p>",
         "E": "<p>Karahanlı Dönemi’nde<br />İran topraklarında ortaya çıktığı düşünülmektedir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936835,
@@ -2428,8 +2277,7 @@
         "D": "<p>Babürlü Mimarisi</p>",
         "E": "<p>Osmanlı Mimarisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936931,
@@ -2444,8 +2292,7 @@
         "D": "<p>Osmanlı dönemi</p>",
         "E": "<p>Büyük Hun </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936946,
@@ -2460,8 +2307,7 @@
         "D": "<p>Sultan Hamamı</p>",
         "E": "<p>Süleyman Bey Hamamı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936768,
@@ -2476,8 +2322,7 @@
         "D": "<p>Balbal</p>",
         "E": "<p>Fresk</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936823,
@@ -2492,8 +2337,7 @@
         "D": "<p>İstanbul Ortaköy Camii</p>",
         "E": "<p>Selimiye Camii</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936837,
@@ -2508,8 +2352,7 @@
         "D": "<p>Sütunlu cami örneği</p>",
         "E": "<p>Eyvanlı cami örneği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936867,
@@ -2524,8 +2367,7 @@
         "D": "Gazneli ",
         "E": "Göktürk",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936876,
@@ -2540,8 +2382,7 @@
         "D": "Kurgan",
         "E": "Ordu balık",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936953,
@@ -2556,8 +2397,7 @@
         "D": "<p>İznik Çinili Cami</p>",
         "E": "<p>Bursa Yeşil Cami</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936770,
@@ -2572,8 +2412,7 @@
         "D": "<p>Maristan</p>",
         "E": "<p>Baldaken</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936801,
@@ -2588,8 +2427,7 @@
         "D": "<p>Roma Dönemi </p>",
         "E": "<p>Bizans Dönemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936819,
@@ -2604,8 +2442,7 @@
         "D": "<p>1909</p>",
         "E": "<p>1912</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936865,
@@ -2620,8 +2457,7 @@
         "D": "Kervansaray Mimarisi",
         "E": "Heykel Sanatı",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936870,
@@ -2636,8 +2472,7 @@
         "D": "Kızıltepe Ulu Camii",
         "E": "Diyarbakır Ulu Camii",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936872,
@@ -2652,8 +2487,7 @@
         "D": "Kündekari",
         "E": "Kabartma",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936912,
@@ -2668,8 +2502,7 @@
         "D": "<p>Külliye.</p>",
         "E": "<p>Kurgan.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936820,
@@ -2684,8 +2517,7 @@
         "D": "<p>Kümbet</p>",
         "E": "<p>Eyvan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936895,
@@ -2700,8 +2532,7 @@
         "D": "<p>16. yüzyıl</p>",
         "E": "<p>18.yüzyıl</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936920,
@@ -2716,8 +2547,7 @@
         "D": "<p>Tolunoğlu Ahmed.</p>",
         "E": "<p>Sultan Baybars.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936950,
@@ -2732,8 +2562,7 @@
         "D": "<p>Büyük Selçuklular</p>",
         "E": "<p>Osmanlı Dönemi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936977,
@@ -2748,8 +2577,7 @@
         "D": "<p>Makber</p>",
         "E": "<p>Sin</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936767,
@@ -2764,8 +2592,7 @@
         "D": "<p>Fatih Portresi</p>",
         "E": "<p>Hünername</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936780,
@@ -2780,8 +2607,7 @@
         "D": "<p>Ağaçtan yapılma ev benzeri han.</p>",
         "E": "<p>Taş tan yapılma meclis.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936982,
@@ -2796,8 +2622,7 @@
         "D": "<p>Halvet odalar</p>",
         "E": "<p>Soyunmalık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936778,
@@ -2812,8 +2637,7 @@
         "D": "<p>Doğu Radkan</p>",
         "E": "<p>Kişmar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936784,
@@ -2828,8 +2652,7 @@
         "D": "<p>Harput Ulu Camii ve Mardin Ulu Camii</p>",
         "E": "<p>Diyarbakır Ulu Camii ve Siirt Ulu Camii</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936821,
@@ -2844,8 +2667,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936966,
@@ -2860,8 +2682,7 @@
         "D": "<p>Otomata</p>",
         "E": "<p>Surname</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936980,
@@ -2876,8 +2697,7 @@
         "D": "<p>Sıcaklık</p>",
         "E": "<p>Ilıklık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936787,
@@ -2892,8 +2712,7 @@
         "D": "<ul> <li>Cumhuriyet dönemi</li> <li>Klasik dönem</li> <li>Geç dönem</li> </ul>",
         "E": "<ul> <li>Klasik dönem</li> <li>Geç dönem</li> <li>Cumhuriyet dönemi</li> </ul>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936856,
@@ -2908,8 +2727,7 @@
         "D": "<p>Zaviyeli Cami</p> ",
         "E": " <p>Baldaken</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936885,
@@ -2924,8 +2742,7 @@
         "D": "İstanbul Arkeoloji Müzesi",
         "E": "Amsterdam Stedelijk Müzesi",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936948,
@@ -2940,8 +2757,7 @@
         "D": "<p>MS 900 - MS 1000</p> ",
         "E": "<p>MS 1000 - MS 1200</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936868,
@@ -2956,8 +2772,7 @@
         "D": "Hamam",
         "E": "Sunak",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936926,
@@ -2972,8 +2787,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Babürlü Devleti</p> </div> </div> </div>",
         "E": "<p>Göktürk Devleti</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936963,
@@ -2988,8 +2802,7 @@
         "D": "<p>Erzurum Yakutiye Medresesi (1310-1311)</p>",
         "E": "<p>Tokat İbn Sentimur Türbesi (1314)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936974,
@@ -3004,8 +2817,7 @@
         "D": "<p>Türbe</p>",
         "E": "<p>Şadırvan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936978,
@@ -3020,8 +2832,7 @@
         "D": "<p>Gazneli Mimarisi</p>",
         "E": "<p>Büyük Selçuklu Mimarisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936802,
@@ -3036,8 +2847,7 @@
         "D": "<p>Didim Apollon Tapınağı</p>",
         "E": "<p>Efes Artemis Tapınağı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936828,
@@ -3052,8 +2862,7 @@
         "D": "<p>Kümbet</p>",
         "E": "<p>Kasır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936917,
@@ -3068,8 +2877,7 @@
         "D": "<p>İmarathane.</p>",
         "E": "<p>Gasılhane.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936776,
@@ -3084,8 +2892,7 @@
         "D": "<p>II. Ulusal Mimarlık Akımı</p>",
         "E": "<p>Klasik dönem</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936834,
@@ -3100,8 +2907,7 @@
         "D": "<p>Kümbet</p>",
         "E": "<p>Rıbat-ı mahri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936838,
@@ -3116,8 +2922,7 @@
         "D": "<p>Klasik dönem</p>",
         "E": "<p>Beylikler dönemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936854,
@@ -3132,8 +2937,7 @@
         "D": "<p>Çırağan Sarayı</p> ",
         "E": "<p>Topkapı Sarayı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936882,
@@ -3148,8 +2952,7 @@
         "D": "Avni Lifij",
         "E": "İbrahim Çallı",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936958,
@@ -3164,8 +2967,7 @@
         "D": "<p>Göktürkler</p>",
         "E": "<p>Karahanlılar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936761,
@@ -3180,8 +2982,7 @@
         "D": "<p>Şadırvan</p>",
         "E": "<p>Türbe</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936848,
@@ -3196,8 +2997,7 @@
         "D": "<p>Beyaz</p>",
         "E": "<p>Yeşil</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936901,
@@ -3212,8 +3012,7 @@
         "D": "<p>Kayseri Develi Ulu Camii ve Şifahanesi</p>",
         "E": "<p><em>Ankara Arslanhane Camii </em>ve Şifahanesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936969,
@@ -3228,8 +3027,7 @@
         "D": "<p>Sadece I</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936771,
@@ -3244,8 +3042,7 @@
         "D": "<p>Kervansaray</p>",
         "E": "<p>Türbe</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936915,
@@ -3260,8 +3057,7 @@
         "D": "<p>Kervansaray.</p>",
         "E": "<p>Eyvan.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936765,
@@ -3276,8 +3072,7 @@
         "D": "<p>Bursa Ulu Camii</p>",
         "E": "<p>Bursa Yeşil Camii</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936799,
@@ -3292,8 +3087,7 @@
         "D": "<p>Gazneliler</p>",
         "E": "<p>Karahanlılar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936833,
@@ -3308,8 +3102,7 @@
         "D": "<p>Hun mimarisi</p>",
         "E": "<p>Sümer mimarisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936952,
@@ -3324,8 +3117,7 @@
         "D": "<p>Soğukluk</p>",
         "E": "<p>Halvet odaları</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936916,
@@ -3340,8 +3132,7 @@
         "D": "<p>1-giriş, 2-ılıklık, 3-peştemallık, 4-halvet odaları, 5-dinlenme odaları 6- çıkış</p>",
         "E": "<p>1-giriş, 2-soyunmalık, 3-sıcaklık, 4-havuz, 5-su deposu 6- külhân</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936863,
@@ -3356,8 +3147,7 @@
         "D": "Hunlar",
         "E": "Selçuklular",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936786,
@@ -3372,8 +3162,7 @@
         "D": "<p>Mimar Sinan</p>",
         "E": "<p>Mimar Vedat Tek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936846,
@@ -3388,8 +3177,7 @@
         "D": "<p>İbrahim Çallı</p>",
         "E": "<p>Nuri İyem</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936847,
@@ -3404,7 +3192,141 @@
         "D": "<p>Bergama Halısı</p>",
         "E": "<p>Hereke Halısı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936781,
+        "UniteNo": 6,
+        "PageNumber": 161,
+        "AnswerExplanation": "<p>Göktürkler kurgan yapımını devam ettirmiş ve hükümdarları için mezar külliyeleri inşa etmişlerdir. Ölen hükümdar veya kahramanın anısını yâd etmek için yapılan bu anıtlara Orhun ve Yenisey Irmakları arasındaki bölgede rastlanmaktadır. En ünlüleri Kültigin (732) ve Bilge Kağan (735) ile vezir Tonyukuk (725)’a ait mezar külliyeleridir. Doğru cevap D'dir.</p>",
+        "Title": "",
+        "Text": "<p>Kurgan yapımını devam ettirip, ölen hükümdar veya kahramanın anısını yâd etmek için <strong>külliye</strong>ler yapan eski Türk devleti hangisidir?</p>",
+        "A": "<p>Hun devleti</p>",
+        "B": "<p>Uygur devleti</p>",
+        "C": "<p>Tolunoğlu devleti</p>",
+        "D": "<p>Göktürk devleti</p>",
+        "E": "<p>Karahanlılar devleti</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936782,
+        "UniteNo": 6,
+        "PageNumber": 162,
+        "AnswerExplanation": "<p>Karahanlıların ilk cami yapısı Buhara yakınlarında, Hazara kentinde inşa edilen merkezî birimli Hazar Degaron Camii (11.yy)’dir. Doğru cevap C'dir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıda verilen devlet-mimari eser eşleştirmelerinden hangisi doğrudur?</p>",
+        "A": "<p>Gazne-Fustat Ulu Camii</p>",
+        "B": "<p>Büyük Selçuklu-Aslan Cazib Türbesi </p>",
+        "C": "<p>Karahanlılar-Hazar Degaron Camii </p>",
+        "D": "<p>Tolunoğlu-Day Hatun Kervansarayı </p>",
+        "E": "<p>Timurlu-Zahiriye Medresesi  </p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936817,
+        "UniteNo": 6,
+        "PageNumber": 170,
+        "AnswerExplanation": "<p><strong>Zaviyeli camii</strong>: Kuruluş yılları ile birlikte önemli örnekleri görülen bu yapı tipi, belirgin bir gelişim çizgisi içerisinde klasik döneme kadar inşa edilmiş, klasik dönemin ortalarından itibaren inşa edilmez olmuştur. İlk örneklerinden itibaren sofa olarak adlandırılan ve çoğunlukla kubbe örtülü bir orta bölümü ve bu bölümün güneyinde yer alan bir mescit bölümünden oluşurlar. Bu iki bölümün doğu ve batı yanlarında tabhane odaları olarak adlandırılan ikişer yan mekân bulunur. Tabhane odalarının kesin işlevleri bilinmemekle birlikte misafirhane ve toplantı salonu olarak kullanıldıkları düşünülmektedir.</p>",
+        "Title": "",
+        "Text": "<p style=\"text-align: justify;\">Kuruluş yılları ile birlikte önemli örnekleri görülen bu yapı tipi, belirgin bir gelişim çizgisi içerisinde klasik döneme kadar inşa edilmiş, klasik dönemin ortalarından itibaren inşa edilmez olmuştur. İlk örneklerinden itibaren sofa olarak adlandırılan ve çoğunlukla kubbe örtülü bir orta bölümü ve bu bölümün güneyinde yer alan bir mescit bölümünden oluşurlar. Bu iki bölümün doğu ve batı yanlarında tabhane odaları olarak adlandırılan ikişer yan mekân bulunur. Tabhane odalarının kesin işlevleri bilinmemekle birlikte misafirhane ve toplantı salonu olarak kullanıldıkları düşünülmektedir.</p> <p style=\"text-align: justify;\">Yukarıdaki verilen bilgiler aşağıdakilerin hangisini tanımlar niteliktedir?</p>",
+        "A": "<p>Zaviyeli camii</p>",
+        "B": "<p>Baldaken</p>",
+        "C": "<p>Külliye</p>",
+        "D": "<p>Hav</p>",
+        "E": "<p>Kümbet</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936879,
+        "UniteNo": 6,
+        "PageNumber": 146,
+        "AnswerExplanation": "Kervansaray ve türbe yapılarının ilk uygulamalarının Karahanlı Dönemin'de İran topraklarında ortaya çıktığı düşünülmektedir.",
+        "Title": "Orta Asya, Kuzey Hindistan, ıran ve Mısır’daki Türk-İslam mimarisini açıklayabileceksiniz.",
+        "Text": "Kervansaray ve türbe yapılarının ilk uygulamalarının İran topraklarında hangi Türkler döneminde  ortaya çıktığı  düşünülmektedir.",
+        "A": "Karahanlı Dönemi",
+        "B": "Gazneli Dönemi",
+        "C": "Tolunoğlu Dönemi",
+        "D": "Selçuklu Dönemi",
+        "E": "Babürlü Dönemi",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936808,
+        "UniteNo": 6,
+        "PageNumber": 170,
+        "AnswerExplanation": "<p>Osmanlı mimarisinde en yoğun yapı grubunu camiler oluşturur. Kare planlı kubbe örtülü bir harim ile önündeki üç bölümlü son cemaat yerinden oluşan İznik Hacı Özbek Camii (1333) bilinen en erken tarihli Osmanlı camisidir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi bilinen en erken dönem Osmanlı Camiisidir? </p>",
+        "A": "<p>İznik Hacı Özbek Camii</p>",
+        "B": "<p>Bursa Ulu Camii</p>",
+        "C": "<p>Bursa II. Murat Camii</p>",
+        "D": "<p>İznik Yeşil Camii</p>",
+        "E": "<p>Edirne Üç Şerefeli Camii</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936900,
+        "UniteNo": 6,
+        "PageNumber": 161,
+        "AnswerExplanation": "<p>Genel olarak Hun Mimarisini temsil eden ve dış görünüşü ile tümülüsleri çağrıştıran üzerleri yığma toprak ve taşlarla örtülü&nbsp;mezarlara kurgan denilmektedir.</p>",
+        "Title": "<div class=\"page\" title=\"Page 4\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Kurgan: Dış görünüşü ile tümülüsleri çağrıştıran üzerleri yığma toprak ve taşlarla örtülü mezarlara kurgan denilmektedir.</p>\n<div class=\"page\" title=\"Page 4\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Genel olarak Hun Mimarisini</strong> (MÖ 244-MS 216) çadırlar ve mezarlarının bulunduğu Karakol, Şibe, Katanda, Başadar, Berel, Pazırık, Noin- Ula, Altun-Yış, Moğalistan ve Kazakistan’da bulunan <strong>kurganlar</strong> temsil etmektedir.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+        "Text": "Hun Mimarisini temsil eden ve dış görünüşü ile tümülüsleri çağrıştıran üzerleri yığma toprak ve taşlarla örtülü&nbsp;mezarlarlara ne ad verilir?",
+        "A": "<div class=\"page\" title=\"Page 5\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Eyvan</p>\n</div>\n</div>\n</div>",
+        "B": "<p>Kurgan</p>",
+        "C": "<div class=\"page\" title=\"Page 4\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Yurt tipi çadır</p>\n</div>\n</div>\n</div>",
+        "D": "<div class=\"page\" title=\"Page 4\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Külliye</p>\n</div>\n</div>\n</div>",
+        "E": "<div class=\"page\" title=\"Page 5\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Şadırvan</p>\n</div>\n</div>\n</div>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936949,
+        "UniteNo": 6,
+        "PageNumber": 161,
+        "AnswerExplanation": "<p>Doğru yanıt D olmalıdır. Zira size bir Kurgan'dan bahsediyordur. </p>",
+        "Title": "<p>Arkeolojik kazılarla gün yüzüne çıkarılan Hun kurganlarından, Hunların çoğunlukla at, kişisel eşya ve silahları ile birlikte gömüldükleri anlaşılmıştır. Toprak altında kalan mezar odası bir ya da birkaç odadan oluşabilmektedir. Ahşaptan oyma bir sandukanın içerisine yerleştirilen mumyalanmış cesedin konulduğu<br />mezar odalarının duvar, tavan ve tabanları ağaç kütüklerle oluşturulmakta bu kütükler çoğunlukla halı veya keçeyle kaplanmaktadır. Sunulan ölü hediyeleri, mezar odasının ya da bir başka odanın içerisine, at cesetleri mezar odasının dışına veya üzerine yerleştirilmekte, en son olarak da üzerlerine taş ve toprak yığılarak burada bir tepe oluşturulmaktadır. En bilinenleri, Altay Dağlarının eteklerinde bulunan ve bulundukları bölgenin ismi ile anılan Pazırık kurganlarıdır. İlk kez 1929 yılında Rus arkeolog Rudenko ve M. Griaznov tarafından bulunan ve kazıları gerçekleştirilen kurganların, MÖ 4.-2. yüzyıllar arasına ait olabilecekleri genel kabul görmektedir. Pazırık’taki beş kurgandan en zengin veri<",
+        "Text": "<p>Bir arkeolog arkadaşınızla Pazırık bölgesinde gezerken size üzerleri yığma toprak ve taşlarla örtülü bir mezar bulduğunu söylese bunun aşağıda verilen seçeneklerden hangi uygarlığa ait bir mezar olduğunu söyleseniz doğru olur?</p>",
+        "A": "<p>Göktürkler</p>",
+        "B": "<p>Uygurlar</p>",
+        "C": "<p>Gazneliler</p>",
+        "D": "<p>Hunlar</p>",
+        "E": "<p>Büyük Selçuklular</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936892,
+        "UniteNo": 6,
+        "PageNumber": 174,
+        "AnswerExplanation": "<p>Uygurlar</p>",
+        "Title": "<p>Türk sanatında en erken tarihli duvar resimleri Uygur dönemine aittir. Erken dönemlerden itibaren Budizm’i benimseyen Uygurların 762 yılında Maniheizm’i devlet dini olarak kabul etmelerinden sonra inanç dünyalarında ortaya çıkan değişimler sanata da yansımıştır. Budizm ve Maniheizmin etkisi ile Uygurlarda resim sanatı gelişmiştir. Eski Uygur şehir kalıntılarında bulunan ve 8.-9. yüzyılla tarihlenen duvar resimleri (freskler), Türk resim sanatının en eski örnekleri olarak kabul edilmektedir.</p>",
+        "Text": "<p>Türk resim sanatının en eski örnekleri olarak kabul edilen duvar resimleri, hangi uygarlık döneminde yapılmıştır?</p>",
+        "A": "<p>Uygurlar</p>",
+        "B": "<p>Hunlar</p>",
+        "C": "<p>Göktürkler</p>",
+        "D": "<p>Karahanlılar</p>",
+        "E": "<p>Gazneliler</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936951,
+        "UniteNo": 6,
+        "PageNumber": 165,
+        "AnswerExplanation": "<p>Doğru yanıt A seçeneğinde verilmiştir.</p>",
+        "Title": "<p>Babürlü Mimarisi (1526-1858): Hindistan’daki Babürlü mimarisinde Selçuklu, Timurlu ve Hint etkileri görülür. Ekber Şah’ın kurdurduğu Fethpur Sikri Kenti (1569)’nde yer alan eserlerde kırmızı kum taşı ve beyaz mermer kullanılmıştır. Dini yapıların başında üç yandan revaklarla çevrili büyük bir avlu ve mihrap önündekinin daha büyük olduğu dıştan soğan kubbe biçimli üç kubbeyle örtülü harimi bulunan Fethpur Camii (1602) gelir. Lahor’daki Vezirhan Camii (1634/35) beş kubbesi ile farklılık gösterir. En gelişkin örnek Şah Cihan zamanında yapılan Delhi Cuma Camii (1650-1656)’dir. Babürlülerin Delhi Hümayun Şah Türbesi (1570), kenar ölçüsü 55 metre olan kare biçimli bir alana kurulmuştur. Duvarlarla<br />çevrili bir bahçe ve taş döşeli bir taraça üzerinde yer alan türbenin, Tac Mahal’e örnek olduğu kabul edilmektedir. Yapının 47 metre yükseklikteki çift kubbesi, Hindistan’da yapılmış en erken tarihli örnektir. Şah Cihan’ın genç yaşta ölen karısı için yaptırmış olduğu, Agra’daki Tac Mahal (1632-54), 1983 yılında Dü",
+        "Text": "<p>Tac Mahal hangi dönemin mimari şaheseridir?</p>",
+        "A": "<p>Babürlü Mimarisi</p>",
+        "B": "<p>Safevi Mimarisi</p>",
+        "C": "<p>Memluk Mimarisi</p>",
+        "D": "<p>Timurlu Mimarisi</p>",
+        "E": "<p>Osmanlı Mimarisi</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
     }
 ]

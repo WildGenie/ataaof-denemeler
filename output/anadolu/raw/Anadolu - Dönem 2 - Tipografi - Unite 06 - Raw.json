@@ -12,8 +12,7 @@
         "D": "<p>internet reklamları  </p>",
         "E": "<p>Jenerikler </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769665,
@@ -28,8 +27,7 @@
         "D": "<p>Sergileme</p>",
         "E": "<p>Piktogram</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769669,
@@ -44,8 +42,7 @@
         "D": "<p>I, III, IV ve V</p>",
         "E": "<p>II, III, IV ve V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769705,
@@ -60,8 +57,7 @@
         "D": "<p>Marka</p>",
         "E": "<p>Afiş</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769743,
@@ -76,8 +72,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769749,
@@ -92,8 +87,7 @@
         "D": "<p>Sadece I</p>",
         "E": "<p>Sadece II</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769791,
@@ -108,8 +102,7 @@
         "D": "<p>İşaret</p> ",
         "E": "<p>Simge</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769793,
@@ -124,8 +117,7 @@
         "D": "<p>Ara başlık</p> ",
         "E": "<p>Metin</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769794,
@@ -140,8 +132,7 @@
         "D": "<p>Kapı numarası</p> ",
         "E": "<p>Yönlendirmeler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769795,
@@ -156,8 +147,7 @@
         "D": "<p>Afiş</p> ",
         "E": "<p>Poster</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769799,
@@ -172,8 +162,7 @@
         "D": "<p>Hedef sunum platformu</p> ",
         "E": "<p>Baskı tekniği</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769800,
@@ -188,8 +177,7 @@
         "D": "<p>Kiosk</p> ",
         "E": "<p>Kitap</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770114,
@@ -204,8 +192,7 @@
         "D": "<p>Logodur</p>",
         "E": "<p>Simetridir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770116,
@@ -220,8 +207,7 @@
         "D": "<p>küçük</p>",
         "E": "<p>koyu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770190,
@@ -236,8 +222,7 @@
         "D": "<p class=\"Default\"><span style=\"font-size: 11.0pt; color: #211d1e;\">18 - 54 punto arası</span></p> <p class=\"Default\"><span style=\"font-size: 11.0pt; color: #211d1e;\"> </span></p>",
         "E": "<p><span style=\"font-size: 11.0pt; color: #211d1e;\">54 cm kadar</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770231,
@@ -252,8 +237,7 @@
         "D": "<p>4500</p>",
         "E": "<p>4000</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770232,
@@ -268,8 +252,7 @@
         "D": "<p>Tipografi</p>",
         "E": "<p>Piktogram</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770235,
@@ -284,8 +267,7 @@
         "D": "<p>Logo</p>",
         "E": "<p>Kaligram</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770247,
@@ -300,8 +282,7 @@
         "D": "<p>Yönlendirme tasarımı</p> ",
         "E": "<p>Hizmet tasarımı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770251,
@@ -316,8 +297,7 @@
         "D": "<p>Open Type fontlar</p> ",
         "E": "<p>Variable fontlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769664,
@@ -332,8 +312,7 @@
         "D": "<p>Logogram</p>",
         "E": "<p>Piktogram</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769666,
@@ -348,8 +327,7 @@
         "D": "<p>Sinema jenerikleri</p> ",
         "E": "<p>Artırılmış Gerçeklik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769751,
@@ -364,8 +342,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>Sadece I</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770187,
@@ -380,8 +357,7 @@
         "D": "<p>2000 sonrası</p> ",
         "E": "<p>1990 sonrası</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770188,
@@ -396,8 +372,7 @@
         "D": "<p>Logotype yazısı daha açıklayıcı mesaj taşır</p>",
         "E": "<p>Logotype harfler üzerinde oluşturulan formun harflerle, artık sökülemeyecek kadar iç içe geçmiş</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770193,
@@ -412,8 +387,7 @@
         "D": "<p class=\"Default\"><span style=\"font-size: 11.0pt; color: #211d1e;\">dm</span></p>",
         "E": "<p><span style=\"font-size: 11.0pt; color: #211d1e;\">mm</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770195,
@@ -428,8 +402,7 @@
         "D": "<p>Afiş boyutu</p>",
         "E": "<p>Baskı sayısı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770238,
@@ -444,8 +417,7 @@
         "D": "<p>40 cm</p>",
         "E": "<p>45 cm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770240,
@@ -460,8 +432,7 @@
         "D": "<p>Değişken yazı karakterleriyle esnek tasarım imkânı</p>",
         "E": "<p>Yazı karakterlerinin piksel tabanlı gelişimini sağlaması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770242,
@@ -476,8 +447,7 @@
         "D": "<p>Harfleme</p> ",
         "E": "<p>Fotografi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770245,
@@ -492,8 +462,7 @@
         "D": "<p>Dergi</p> ",
         "E": "<p>Billboard</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770246,
@@ -508,8 +477,7 @@
         "D": "<p>Sergileme tasarımı</p> ",
         "E": "<p>Arayüz tasarımı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770249,
@@ -524,8 +492,7 @@
         "D": "<p>True Type fontlar</p> ",
         "E": "<p>Variable fontlar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769670,
@@ -540,8 +507,7 @@
         "D": "<p>Extended yazı karakterleri</p>",
         "E": "<p>Değişken yazı karakterleri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769797,
@@ -556,8 +522,7 @@
         "D": "<p>1996</p> ",
         "E": "<p>2002</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770112,
@@ -572,8 +537,7 @@
         "D": "<p>Radyo</p>",
         "E": "<p>Televizyon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770115,
@@ -588,8 +552,7 @@
         "D": "<p>Formun asimetrik olması</p>",
         "E": "<p>Formun harfler ile iç içe geçmesi </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770119,
@@ -604,8 +567,7 @@
         "D": "<p>tabelalar</p>",
         "E": "<p>gazeteler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770194,
@@ -620,8 +582,7 @@
         "D": "<p class=\"Default\"><span style=\"font-size: 11.0pt; color: windowtext;\">Maksimum 15 cm</span></p>",
         "E": "<p><span style=\"font-size: 11.0pt; color: windowtext;\">12 pt</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770236,
@@ -636,8 +597,7 @@
         "D": "<p>Poster tasarımı</p>",
         "E": "<p>Ürün katalog tasarımı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770243,
@@ -652,8 +612,7 @@
         "D": "<p>Gösterge</p>",
         "E": "<p>Mühür</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770244,
@@ -668,8 +627,7 @@
         "D": "<p>Katalog</p> ",
         "E": "<p>Afiş</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770248,
@@ -684,8 +642,7 @@
         "D": "<p>Eserle olan mesafe</p> ",
         "E": "<p>Sponsorun tercihleri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770250,
@@ -700,8 +657,7 @@
         "D": "<p>Variable font</p> ",
         "E": "<p>OpenType</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769651,
@@ -716,8 +672,7 @@
         "D": "<p>Billboard </p>",
         "E": "<p>İmge</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769667,
@@ -732,8 +687,7 @@
         "D": "<p>I, II, III ve IV </p>",
         "E": "<p>II, III, IV ve V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769704,
@@ -748,8 +702,7 @@
         "D": "<p>Afiş</p>",
         "E": "<p>Piktogram</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769745,
@@ -764,8 +717,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769750,
@@ -780,8 +732,7 @@
         "D": "<p>1970'li yıllar</p>",
         "E": "<p>1980'li yıllar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769796,
@@ -796,8 +747,7 @@
         "D": "<p>Bina tabelası</p> ",
         "E": "<p>Şehiriçi yönlendirme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769798,
@@ -812,8 +762,7 @@
         "D": "<p>10.000</p> ",
         "E": "<p>65.000</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770120,
@@ -828,8 +777,7 @@
         "D": "<p>Bitmap yazı karakterleri</p>",
         "E": "<p>Değişken yazı karakterleri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770186,
@@ -844,8 +792,7 @@
         "D": "<p class=\"Default\"><span style=\"font-size: 11.0pt; color: #211d1e;\">Tipografinin çok sofistike teknolojik araçlara ihtiyacı var</span></p>",
         "E": "<p><span style=\"font-size: 11.0pt; color: #211d1e;\">Tipografinin çok teferruatlı laboratuvara ihtiyacı var</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769652,
@@ -860,8 +807,7 @@
         "D": "<p>tipografik tasarım / görselin / yazının </p>",
         "E": "<p>Jenerik tasarım / yazının / görselin</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769668,
@@ -876,8 +822,7 @@
         "D": "<p>18 px  </p>",
         "E": "<p>24 px</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770117,
@@ -892,8 +837,7 @@
         "D": "<p>Araba markalarına</p>",
         "E": "<p>Temel ihtiyaçlara</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770118,
@@ -908,8 +852,7 @@
         "D": "<p>işaretleme ve trafik</p>",
         "E": "<p>Yönlendirme ve hava şartları</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770233,
@@ -924,8 +867,7 @@
         "D": "<p>Sanayi devrimiyle</p>",
         "E": "<p>20. yüzyılda öncü tasarımcılarla</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770234,
@@ -940,8 +882,7 @@
         "D": "<p>Jenerik tasarımı</p>",
         "E": "<p>Broşür tasarımı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770239,
@@ -956,8 +897,7 @@
         "D": "<p>40 cm</p>",
         "E": "<p>45 cm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769747,
@@ -972,8 +912,7 @@
         "D": "<p>amblem tasarımı</p>",
         "E": "<p>logotype tasarımı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770113,
@@ -988,8 +927,7 @@
         "D": "<p>Pek çok kişi bilgiye erişememiştir.</p>",
         "E": "<p>Matbaa sonrasında kitaplara ulaşım zorlaşmıştır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769703,
@@ -1004,8 +942,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>Sadece I</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769746,
@@ -1020,8 +957,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770189,
@@ -1036,8 +972,7 @@
         "D": "<p class=\"Default\"><span style=\"font-size: 11.0pt; color: #211d1e;\">40 cm</span></p> <p class=\"Default\"><span style=\"font-size: 11.0pt; color: #211d1e;\"> </span></p>",
         "E": "<p><span style=\"font-size: 11.0pt; color: #211d1e;\">20 punto</span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770191,
@@ -1052,8 +987,7 @@
         "D": "<p>Times New Roman</p> ",
         "E": "<p>Arial</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770109,
@@ -1068,8 +1002,7 @@
         "D": "<p>Televizyon</p>",
         "E": "<p>internet</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770192,
@@ -1084,8 +1017,7 @@
         "D": "<p class=\"Default\"><span style=\"font-size: 11.0pt; color: #211d1e;\">Arial</span></p>",
         "E": "<p><span style=\"font-size: 11.0pt; color: windowtext;\">Variable Fonts</span></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769792,
@@ -1100,8 +1032,7 @@
         "D": "<p>Raket</p> ",
         "E": "<p>Jenerik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770237,
@@ -1116,7 +1047,6 @@
         "D": "<p>Yer imleri tasarımı</p>",
         "E": "<p>İşaretleme tasarımı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

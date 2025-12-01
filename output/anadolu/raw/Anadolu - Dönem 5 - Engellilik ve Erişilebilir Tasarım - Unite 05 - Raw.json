@@ -12,8 +12,7 @@
         "D": "<p class=\"p1\"> </p> <p class=\"p2\">Bedensel yetersizlik<span class=\"Apple-converted-space\"> </span></p>",
         "E": "<p class=\"p1\"> </p> <p class=\"p2\">Dikkat eksikliği ve hiperaktivite bozukluğu<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862945,
@@ -28,8 +27,7 @@
         "D": "<p class=\"p1\"> </p> <p class=\"p2\">Bedensel yetersizlik,<span class=\"Apple-converted-space\"> </span></p>",
         "E": "<p class=\"p1\"> </p> <p class=\"p2\">dil ve konuşma bozuklukları<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862946,
@@ -44,8 +42,7 @@
         "D": "<p class=\"p1\"> </p>\n<p class=\"p2\">Sağlık personeline rahatsızlıklarını tanımlamakta güçlük yaşama<span class=\"Apple-converted-space\"> </span></p>",
         "E": "<p class=\"p1\"> </p>\n<p class=\"p2\">Sağlık personelinin bu bireylere nasıl davranması gerektiği konusundaki bilgi ve deneyim eksiklikleri<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862947,
@@ -60,8 +57,7 @@
         "D": "<p>Gelişimsel yetersizliği olan bireylere sağlık hizmetleri sunulurken yönetsel (ör., randevu bilgilerinde, zamanlamasında, tedavi bilgilendirmesinde yetersizlikler vb.) engeller yaşanması</p>",
         "E": "<p class=\"p1\"> </p> <p class=\"p2\">Sağlık personelinin bu bireylere nasıl davranması gerektiği konusundaki bilgi ve deneyim eksiklikleri<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862948,
@@ -76,8 +72,7 @@
         "D": "<p>Erişilebilirlik</p>",
         "E": "<p class=\"p1\"> </p> <p class=\"p2\"> </p> <p class=\"p3\">ESKR<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862949,
@@ -92,8 +87,7 @@
         "D": "<p class=\"p1\"> </p> <p class=\"p2\">RAM<span class=\"Apple-converted-space\"> </span></p>",
         "E": "<p class=\"p1\"> </p> <p class=\"p2\"> </p> <p class=\"p3\">ESKR<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862950,
@@ -108,8 +102,7 @@
         "D": "<p class=\"p1\"> </p> <p class=\"p2\">Bas konuş<span class=\"Apple-converted-space\"> </span>kartları</p>",
         "E": "<p class=\"p1\"> </p> <p class=\"p2\">Akıllı telefonlar<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862951,
@@ -124,8 +117,7 @@
         "D": "<p class=\"p1\"> </p> <p class=\"p2\">Okuma kalemleri<span class=\"Apple-converted-space\"> </span></p>",
         "E": "<p class=\"p1\"> </p> <p class=\"p2\">Akıllı tahtalar<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862952,
@@ -140,8 +132,7 @@
         "D": "<p class=\"p1\"> </p>\n<p class=\"p2\">Konuşma üreten cihazlar<span class=\"Apple-converted-space\"> </span></p>",
         "E": "<p class=\"p1\"> </p>\n<p class=\"p2\">Görsel zamanlayıcılar<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862953,
@@ -156,8 +147,7 @@
         "D": "<p class=\"p1\"> </p> <table class=\"t1\" cellspacing=\"0\" cellpadding=\"0\"> <tbody> <tr> <td class=\"td1\" valign=\"top\"> <p class=\"p2\">LEO’S PAD<span class=\"Apple-converted-space\"> </span></p> </td> </tr> </tbody> </table>",
         "E": "<p class=\"p1\"> </p> <table class=\"t1\" cellspacing=\"0\" cellpadding=\"0\"> <tbody> <tr> <td class=\"td1\" valign=\"top\"> <p class=\"p2\">İŞLEVSEL OKUMA<span class=\"Apple-converted-space\"> </span></p> </td> </tr> </tbody> </table>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863284,
@@ -172,8 +162,7 @@
         "D": "Bireysel farklılık",
         "E": "Bireysel yetersizlik",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863285,
@@ -188,8 +177,7 @@
         "D": "Bireysel farklılık",
         "E": "Sosyal etkileşim bozukluğu",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863286,
@@ -204,8 +192,7 @@
         "D": "Konuşma bozukluğu",
         "E": "İşitme bozukluğu",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863287,
@@ -220,8 +207,7 @@
         "D": "ESKR",
         "E": "E-rapor",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863288,
@@ -236,8 +222,7 @@
         "D": "Gelişimsel yetersizlik tanısı",
         "E": "OSB tanılaması",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863289,
@@ -252,8 +237,7 @@
         "D": "E-rapor",
         "E": "Tanı raporu",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863290,
@@ -268,8 +252,7 @@
         "D": "Sınav kağıtları",
         "E": "Artırılmış gerçeklik",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863291,
@@ -284,8 +267,7 @@
         "D": "İleri düzey yardımcı teknolojiler",
         "E": "Yüksek düzey yardımcı teknolojiler",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863292,
@@ -300,8 +282,7 @@
         "D": "Uyarlanmış oyuncaklar",
         "E": "Yer değiştirmeyle ilgili teknolojiler",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863293,
@@ -316,7 +297,6 @@
         "D": "Etkileşimli video",
         "E": "Yapay zeka",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

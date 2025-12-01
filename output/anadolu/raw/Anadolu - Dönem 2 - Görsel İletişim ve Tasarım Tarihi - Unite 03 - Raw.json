@@ -12,8 +12,7 @@
         "D": "<p>1883-Berlin</p>",
         "E": "<p>1884-Londra</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235107,
@@ -28,8 +27,7 @@
         "D": "<p>II, III, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235144,
@@ -44,8 +42,7 @@
         "D": "<p>Dante Gabriel Rossetti</p>",
         "E": "<p>Alphonse Mucha</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235145,
@@ -60,8 +57,7 @@
         "D": "<p>Sezessionstil</p>",
         "E": "<p>Viktorya Sanatı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235147,
@@ -76,8 +72,7 @@
         "D": "<p>Ankara IV. Vakıfhanı</p>",
         "E": "<p>Tayyare Evleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235148,
@@ -92,8 +87,7 @@
         "D": "<p>İspanya - Jugendstil</p>",
         "E": "<p>İtalya- Modernismo</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235209,
@@ -108,8 +102,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235218,
@@ -124,8 +117,7 @@
         "D": "<p>Fas</p>",
         "E": "<p>İngiltere</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235549,
@@ -140,8 +132,7 @@
         "D": "<p>1897</p> ",
         "E": "<p>1900</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235555,
@@ -156,8 +147,7 @@
         "D": "<p>William Morris</p> ",
         "E": " <p>Aubrey Beardsley</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235562,
@@ -172,8 +162,7 @@
         "D": "<p>Animasyon</p>",
         "E": "<p>Karikatür</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235570,
@@ -188,8 +177,7 @@
         "D": "<p>1837-1901</p>",
         "E": "<p>1796-1805</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235571,
@@ -204,8 +192,7 @@
         "D": "<p>William Rufus Dönemi</p>",
         "E": "<p>Stephen Dönemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235572,
@@ -220,8 +207,7 @@
         "D": "<p>Serigrafi</p>",
         "E": "<p>Litografi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235573,
@@ -236,8 +222,7 @@
         "D": "<p>Flavio Santana</p>",
         "E": "<p>Giulerme Santos</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235577,
@@ -252,8 +237,7 @@
         "D": "<p>Hüsrev Paşa</p>",
         "E": "<p>IV. Murad</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235578,
@@ -268,8 +252,7 @@
         "D": "<p>250.000   </p>",
         "E": "<p>9.000</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235580,
@@ -284,8 +267,7 @@
         "D": "<p>Zirai </p>",
         "E": "<p>Edebi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235583,
@@ -300,8 +282,7 @@
         "D": "<p>Paul Gauguin </p>",
         "E": "<p>Henri de Taulouse Lautrec</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235585,
@@ -316,8 +297,7 @@
         "D": "<p>Origami </p>",
         "E": "<p>Kintsugi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235055,
@@ -332,8 +312,7 @@
         "D": "<p>Joseph Niepce</p>",
         "E": "<p>Henry Cayol</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235063,
@@ -348,8 +327,7 @@
         "D": "<p>Stanislas Arthur Napier</p>",
         "E": "<p>Timothy Sullivan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235110,
@@ -364,8 +342,7 @@
         "D": "<p>Henri de Toulouse Lautrec</p>",
         "E": "<p>Pierre Bonnard</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235111,
@@ -380,8 +357,7 @@
         "D": "<p>Dolmabahçe Sarayı</p>",
         "E": "<p>Botter Apartmanı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235231,
@@ -396,8 +372,7 @@
         "D": "<p>Zoetrope</p>",
         "E": "<p>Praxinoscope</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235233,
@@ -412,8 +387,7 @@
         "D": "<p>Kabuki</p>",
         "E": "<p>Bonsai</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235235,
@@ -428,8 +402,7 @@
         "D": "<p class=\"p2\">Style Coup De Fouet</p>",
         "E": "<p class=\"p2\">Style Anguille</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235548,
@@ -444,8 +417,7 @@
         "D": "<p>Henry Cayol</p>",
         "E": "<p>Timothy Sullivan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235563,
@@ -460,8 +432,7 @@
         "D": "<p>İnsan eli ve el emeğine değer verirler.</p>",
         "E": "<p>Makineleşmeye karşı tavır alırlar.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235565,
@@ -476,8 +447,7 @@
         "D": "<p>Viktorya Sanatı</p>",
         "E": "<p>Art Nouveau</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235566,
@@ -492,8 +462,7 @@
         "D": "<p>Gustav Klimt</p>",
         "E": "<p>Emile Galle</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235567,
@@ -508,8 +477,7 @@
         "D": "<p>Mimari</p>",
         "E": "<p>Seramik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235569,
@@ -524,8 +492,7 @@
         "D": "<p>Hardeknud</p>",
         "E": "<p>I. Henry</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235579,
@@ -540,8 +507,7 @@
         "D": "<p>Hollanda  </p>",
         "E": "<p>İspanya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235582,
@@ -556,8 +522,7 @@
         "D": "<p>Endüstriyel ürünleri el sanatından daha değerli hale getirmek</p>",
         "E": "<p>Sanat ile el sanatını birbirinden ayırmak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235108,
@@ -572,8 +537,7 @@
         "D": "<p>Fütürizm</p>",
         "E": "<p>Konstrüktivizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235136,
@@ -588,8 +552,7 @@
         "D": "<p>Art Nouveau</p>",
         "E": "<p>Animasyon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235143,
@@ -604,8 +567,7 @@
         "D": "<p>Kelime anlamı olarak geleneksel olmayı, gelenekselliği sembolize eder.</p>",
         "E": "<p>Günlük yaşamdan kesitleri mutlaka doğaya dair unsurlar ile bütünleştirerek kullanmışlardır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235210,
@@ -620,8 +582,7 @@
         "D": "<p>1830-1905</p>",
         "E": "<p>1825-1837</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235230,
@@ -636,8 +597,7 @@
         "D": "<p>George Eastman</p>",
         "E": "<p>Mathew Brady</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235550,
@@ -652,8 +612,7 @@
         "D": "<p>Stuart Blackstone</p> ",
         "E": "<p>Mathew Brady  </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235552,
@@ -668,8 +627,7 @@
         "D": "<p>Arts and Crafts</p> ",
         "E": "<p>Art Nouveau </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235554,
@@ -684,8 +642,7 @@
         "D": "<p>Resim</p>",
         "E": "<p>Cam</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235556,
@@ -700,8 +657,7 @@
         "D": "<p>Edirne Garı</p>",
         "E": "<p>Ankara IV. Vakıfhanı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235559,
@@ -716,8 +672,7 @@
         "D": "<p>The Times Roman</p>",
         "E": "<ul> <li>Comic Sans</li> </ul>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235574,
@@ -732,8 +687,7 @@
         "D": "<p>İnce Hamur Baskı</p>",
         "E": "<p>Reçine Baskı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235575,
@@ -748,8 +702,7 @@
         "D": "<p>II. Mehmed</p>",
         "E": "<p>II. Selim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235551,
@@ -764,8 +717,7 @@
         "D": "<p>Arts and Crafts</p>",
         "E": "<p>Art Nouveau</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235553,
@@ -780,8 +732,7 @@
         "D": " <p>Nihonga</p> ",
         "E": "<p>Ukiyoe</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235558,
@@ -796,8 +747,7 @@
         "D": "<p>Petersburg</p>",
         "E": "<p>Roma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235581,
@@ -812,8 +762,7 @@
         "D": "<p>Aguste ve Louise Lumier kardeşler </p>",
         "E": "<p>Louis Daguerre</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235584,
@@ -828,8 +777,7 @@
         "D": "<p>Paul Gauguin </p>",
         "E": "<p>Jules Charet</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235586,
@@ -844,8 +792,7 @@
         "D": "<p>Stile Floreale </p>",
         "E": "<p>Modernismo</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235587,
@@ -860,8 +807,7 @@
         "D": "<p>Grant </p>",
         "E": "<p>Couturier</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235134,
@@ -876,8 +822,7 @@
         "D": "<p>Tipografi</p>",
         "E": "<p>Gravür</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235135,
@@ -892,8 +837,7 @@
         "D": "<p>Fransız Devrimi</p>",
         "E": "<p>Rönesans</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235234,
@@ -908,8 +852,7 @@
         "D": "<p class=\"p2\">Louis Comfort Tiffany</p>",
         "E": "<p class=\"p2\">Alphonse Mucha</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235557,
@@ -924,8 +867,7 @@
         "D": "<p>Arts and Crafts</p> ",
         "E": "<p>Kübizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235560,
@@ -940,8 +882,7 @@
         "D": "<p>Ziya Arif</p>",
         "E": "<p>Mehmet Hulusi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235568,
@@ -956,8 +897,7 @@
         "D": "<p>Hümanizm</p>",
         "E": "<p>Pragmatizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235139,
@@ -972,8 +912,7 @@
         "D": "<p>Hannibal Goodwin</p>",
         "E": "<p>William Morris</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235232,
@@ -988,8 +927,7 @@
         "D": "<p class=\"p3\">Renklerin temiz olması ve gölgelemelerin abartıdan uzak açık olması.</p>\n<p class=\"p3\"> </p>",
         "E": "<p>Eskiz aşamasında sanat tarihinden referans alan çalışmalar yapmak.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235146,
@@ -1004,8 +942,7 @@
         "D": "<p>Art Nouveau eseridir.</p>",
         "E": "<p>Arts&Crafts eseridir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235561,
@@ -1020,8 +957,7 @@
         "D": "<p>1880</p>",
         "E": "<p>1881</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235576,
@@ -1036,8 +972,7 @@
         "D": "<p>1834</p>",
         "E": "<p>1835</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235109,
@@ -1052,8 +987,7 @@
         "D": "<p>Jules Cheret</p>",
         "E": "<p>Gustav Klimt</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235112,
@@ -1068,8 +1002,7 @@
         "D": "<p>Louis John Rhead</p>",
         "E": "<p>Henri Privat Livemont</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235028,
@@ -1084,8 +1017,7 @@
         "D": "<p>1837-1901</p>",
         "E": "<p>1845-1905</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235564,
@@ -1100,8 +1032,7 @@
         "D": "<p>Malzemeleri ve Teknikleri iyi tanımak.</p>",
         "E": "<p>Geometrik formlardan kaçınmak.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235224,
@@ -1116,7 +1047,6 @@
         "D": "<p>1841</p>",
         "E": "<p>1845</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     }
 ]

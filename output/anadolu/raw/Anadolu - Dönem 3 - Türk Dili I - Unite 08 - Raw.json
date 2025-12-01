@@ -12,8 +12,7 @@
         "D": "<p>A&ccedil;ılan işyerinin amacını karşılayan T&uuml;rk&ccedil;e s&ouml;zc&uuml;k bulunamamıştır.</p>",
         "E": "<p>Yurt dışı odaklı firma mağazalarına ait marka tescilli iş yeri olabilir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893209,
@@ -28,8 +27,7 @@
         "D": "<p>Baki</p>",
         "E": "<p>Karacaoğlan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893255,
@@ -44,8 +42,7 @@
         "D": "<p>İspanyolca</p>",
         "E": "<p>İngilizce</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893258,
@@ -60,8 +57,7 @@
         "D": "<p>Saatlerdir ayakta bekletiliyoruz.</p>",
         "E": "<p>Vitamin ihtiyacı genellikle meyvelerden karşılanır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893270,
@@ -76,8 +72,7 @@
         "D": "<p>Üniversite reformu</p>",
         "E": "<p>Türkçe reformu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893276,
@@ -92,8 +87,7 @@
         "D": "<p>Biçim</p>",
         "E": "<p>Anlam</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893283,
@@ -108,8 +102,7 @@
         "D": "<p>Aşık Paşa</p>",
         "E": "<p>Süleyman Şah</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893286,
@@ -124,8 +117,7 @@
         "D": "<p>Olumsuzdur, sınırlı sayıda sözcük kullanımı vardır </p>",
         "E": "<p>Olumsuzdur çünkü Hız söz konusu olduğu için yanlış kullanımlar artmaktadır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893301,
@@ -140,8 +132,7 @@
         "D": "2, 3, 4",
         "E": "1, 3",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893323,
@@ -156,8 +147,7 @@
         "D": "Yabancı bilim adamlarının araştırmaları sonucu yazılmış eserlerin okunması",
         "E": "Yabancı dilin iyi öğrenilmesi",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893338,
@@ -172,8 +162,7 @@
         "D": "Terim",
         "E": "Söz hazinesi",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893343,
@@ -188,8 +177,7 @@
         "D": "Konuşmada ve yazıda kısır söz varlığı",
         "E": "Yabancı dille öğretim",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893357,
@@ -204,8 +192,7 @@
         "D": "kask",
         "E": "cumhuriyet",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893403,
@@ -220,8 +207,7 @@
         "D": "<p>Yazın</p>",
         "E": "<p>Yazılım</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893415,
@@ -236,8 +222,7 @@
         "D": "<p>Söz Varlığı</p>",
         "E": "<p>Kelime varlığı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893426,
@@ -252,8 +237,7 @@
         "D": "<p>I, II, III</p>",
         "E": "<p>I, II, III, IV </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893448,
@@ -268,8 +252,7 @@
         "D": "<p>çevrilgen </p>",
         "E": "<p>son çırpınış </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893449,
@@ -284,8 +267,7 @@
         "D": "<p>II ve III </p>",
         "E": "<p>I, II, III </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893460,
@@ -300,8 +282,7 @@
         "D": "<div class=\"page\" title=\"Page 12\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Türkçenin okullarda zorunlu ders hâline getirilmesi II. Meşrutiyet  ile birlikte gerçekleşmiştir.</p>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 12\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Türkiye’ye davet edilen yabancı uyruklu öğretim üyeleri  Türkçe öğrenmeden de mesleki ve özel yaşamlarına devam etmişlerdir.</p>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893461,
@@ -316,8 +297,7 @@
         "D": "<div class=\"page\" title=\"Page 15\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Dilin kullanıldığı alanlarda yasal boşlukların giderilmesi gerekmektedir.</p>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 15\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Eğitim sistemimiz Türkçeyi benimsetecek nitelikte yeniden düzenlenmelidir.</p>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893205,
@@ -332,8 +312,7 @@
         "D": "<p>Sayı</p>",
         "E": "<p>Buna karşın</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893245,
@@ -348,8 +327,7 @@
         "D": "<p>İş yerlerine yabancı kökenli sözcüklerden oluşan isimler verilmesi</p>",
         "E": "<p>Bazı sözcüklerin yanlış anlamda kullanılması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893250,
@@ -364,8 +342,7 @@
         "D": "<p>Meyve</p>",
         "E": "<p>Kordela</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893267,
@@ -380,8 +357,7 @@
         "D": "<p>Şöför</p>",
         "E": "<p>Egsoz</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893269,
@@ -396,8 +372,7 @@
         "D": "<p>Mortgage:Ağaç Parkı</p>",
         "E": "<p>Arboretum:Sunucu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893281,
@@ -412,8 +387,7 @@
         "D": "<p>Ali Bin Muhammet</p>",
         "E": "<p>Mirim Çelebi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893291,
@@ -428,8 +402,7 @@
         "D": "<p>Yeni kelimeler &uuml;retilmesine neden olur</p>",
         "E": "<p>Dilin unutulmasına neden olur</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893295,
@@ -444,8 +417,7 @@
         "D": "Yayımcı kuruluşların kapatılması sağlanmalıdır",
         "E": "Yayımcılara yönelik hizmet içi kursların  düzenlenmesi",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893321,
@@ -460,8 +432,7 @@
         "D": "Bir dilin işlenmişliğini ortaya koyan en önemli gösterge söz varlığıdır.",
         "E": "Gündelik hayatta kullanılan sözcük sayısı, o dilin genel söz varlığına göre düşüktür.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893361,
@@ -476,8 +447,7 @@
         "D": "Cümleyi okuyan veya dinleyen kişilerin cümleden tek anlam çıkarması",
         "E": "Cümlede ögeler arası uyumsuzlukların olması",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893370,
@@ -492,8 +462,7 @@
         "D": "<p>Yüksek öğretimde meslek derslerinin İngilizce verilmesi.</p> ",
         "E": "<p>Öğretim üyesinin ana dilinin Türkçe olması.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893377,
@@ -508,8 +477,7 @@
         "D": "<p>21 Mayıs 2004</p>",
         "E": "<p>21 Mayıs 2006</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893414,
@@ -524,8 +492,7 @@
         "D": "<p>Söz Varlığı</p>",
         "E": "<p>Konuşma Dili</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893416,
@@ -540,8 +507,7 @@
         "D": "<p>182.000</p>",
         "E": "<p>222.000</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893429,
@@ -556,8 +522,7 @@
         "D": "<p>Yazım yanlışı </p>",
         "E": "<p>Yabancı sözcük kullanımı </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893457,
@@ -572,8 +537,7 @@
         "D": "<p>'Egzoz' yerine 'eksoz' yazılması</p>",
         "E": "<p>'Şoför' yerine 'şofor 'yazılması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893462,
@@ -588,8 +552,7 @@
         "D": "<p>Okuduğum hikâyenin yazarı, betimlemelerde çok yaratıcıydı.</p>",
         "E": "<p>Yakıtın azaldığını görür görmez depoyu fullemek için benzinciye uğradım.</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893211,
@@ -604,8 +567,7 @@
         "D": "<p>Yazım, S&ouml;yleyiş</p>",
         "E": "<p>Hikayelendirme, yazım</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893230,
@@ -620,8 +582,7 @@
         "D": "<p>Nedim</p> ",
         "E": "<p>Nabi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893239,
@@ -636,8 +597,7 @@
         "D": "<p>Sağanak kelimesinin sağnak olarak telaffuz edilmesi</p>",
         "E": "<p>Dershane kelimesinin dershane olarak telaffuzu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893243,
@@ -652,8 +612,7 @@
         "D": "<div class=\"page\" title=\"Page 232\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Türk Dil Kurumu, RTÜK gibi kurumlar topluma örnek olacak biçimde doğru ve güzel Türkçeyi kullanan yazar, gazeteci, tiyatrocu, spiker ve sunucuyu ödüllendirmeye devam etmelidir. </p> </div> </div> </div>",
         "E": "<p>Şirket adının tescil edilmesi uygulaması iş yeri ve ürün adlandırını da kapsayacak biçimde genişletilmelidir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893280,
@@ -668,8 +627,7 @@
         "D": "<p>Dilimizin söz varlığının yetersizliğinin</p>",
         "E": "<p>Dilimizi kullananların yetersizliğinden</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893282,
@@ -684,8 +642,7 @@
         "D": "<p>Bazı ailelerin Türkçe'yi çocuklarına ikinci bir dil olarak öğretmesi</p>",
         "E": "<p>Yabancı sözcüklere sıklıkla yer verilmesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893289,
@@ -700,8 +657,7 @@
         "D": "<p>Varis</p>",
         "E": "<p>Rüzgar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893294,
@@ -716,8 +672,7 @@
         "D": "Televizyon dizilerinde kullanılan Türkçe'nin, Türkçe'nin kurallarına uygun olması",
         "E": "Türkçe'nin yetersiz dil yapısı",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893314,
@@ -732,8 +687,7 @@
         "D": "Yabancı dille öğretim yerine mükemmel bir biçimde yabancı dil öğretimi yapılmalı,öğretim dili ise Türkçe olmalıdır.",
         "E": "Yabancı dil eğitimine gerek yoktur. Öğretim dili yarı Türkçe yarı yabancı dil olabilir.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893375,
@@ -748,8 +702,7 @@
         "D": "<p>Söz haznesi</p>",
         "E": "<p>İmla</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893376,
@@ -764,8 +717,7 @@
         "D": "<p>Genelleşme</p>",
         "E": "<p>Yazım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893379,
@@ -780,8 +732,7 @@
         "D": "<p>Kitle iletişim araçlarının çoğunluk tarafından kullanılması</p>",
         "E": "<p>Yabancı dildeki kelimelerin o dilde karşılıklarının bulunmaması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893413,
@@ -796,8 +747,7 @@
         "D": "<p>mortgage - tutsat</p>",
         "E": "<p>viyadük - yol</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893423,
@@ -812,8 +762,7 @@
         "D": "<p>Bazı sözcüklere yanlış anlamlar yüklenmesi</p>",
         "E": "<p>Bazı sözcüklerin yanlış söylenmesi ve yazılması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893430,
@@ -828,8 +777,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893464,
@@ -844,8 +792,7 @@
         "D": "<p>RTÜK</p>",
         "E": "<p>TDK</p>  ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893468,
@@ -860,8 +807,7 @@
         "D": "<p>mortgage - tutsat</p> ",
         "E": "<p>show – gösteri</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893471,
@@ -876,8 +822,7 @@
         "D": "<p>Çok iddialı konuştuğunun farkında değil misin?</p> ",
         "E": "<p>Arkadaşım için, büyük bir sürpriz hazırlıyoruz.</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893216,
@@ -892,8 +837,7 @@
         "D": "<p>Yazım yanlışları</p>",
         "E": "<p>Konuşmada ve yazıda kısır söz varlığı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893268,
@@ -908,8 +852,7 @@
         "D": "<p>Şekil ev</p>",
         "E": "<p>Hoş bilgisayar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893303,
@@ -924,8 +867,7 @@
         "D": "Haber programlarında söz varlığından yararlanılmaktadır.",
         "E": "Haber programlarında kullanılan sözcük sayısı fazladır.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893309,
@@ -940,8 +882,7 @@
         "D": "Kitap okumak alışkanlık haline getirmelidir.",
         "E": "Türkçeden diğer dillere giren sözcükler araştırılmalıdır.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893313,
@@ -956,8 +897,7 @@
         "D": "Mobbing",
         "E": "Laptop",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893319,
@@ -972,8 +912,7 @@
         "D": "Türkçenin söz varlığına hakim olamamak",
         "E": "Teknolojiden kaynaklanan gelişimler nedeniyle yabancı kelimelerin ithal edilmesi",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893336,
@@ -988,8 +927,7 @@
         "D": "<p>Wishne Kafe</p>",
         "E": "<p>The Marmara Otel</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893368,
@@ -1004,8 +942,7 @@
         "D": "<p>Dilimizin söz varlığındaki öğelerin kullanım sıklığının yitirilmemesi.</p>",
         "E": "<p>Kitle iletişim araçlarında dilin doğru kullanılması.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893397,
@@ -1020,8 +957,7 @@
         "D": "<p>Şöför</p>",
         "E": "<p>Egzos</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893398,
@@ -1036,8 +972,7 @@
         "D": "<p>Söz varlığı-Terim</p>",
         "E": "<p>Söyleyiş-Yazım</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893405,
@@ -1052,8 +987,7 @@
         "D": "<p>Dadaloğlu</p>",
         "E": "<p>Köroğlu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893410,
@@ -1068,8 +1002,7 @@
         "D": "<p>Söz varlığımızdaki zenginliklerin, kültür değerlerinin yok olması</p>",
         "E": "<p>Sözlük kullanma alışkanlığımızın giderek yaygınlaşması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893411,
@@ -1084,8 +1017,7 @@
         "D": "<p>hoşça kal</p>",
         "E": "<p>performans</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893412,
@@ -1100,8 +1032,7 @@
         "D": "<p>Türkçenin okullarda zorunlu ders hâline getirilmesi</p>",
         "E": "<p>II. Meşrutiyet (1908)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893424,
@@ -1116,8 +1047,7 @@
         "D": "<p>Sözcük türetmenin zorluğu </p>",
         "E": "<p>Anlatım gücünün zayıflığı </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893229,
@@ -1132,8 +1062,7 @@
         "D": "<p>Dekan</p> ",
         "E": "<p>Hikaye</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893271,
@@ -1148,8 +1077,7 @@
         "D": "<p>Kebabchi Hüseinn</p>",
         "E": "<p>Otel Marmara</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893285,
@@ -1164,8 +1092,7 @@
         "D": "<p>Daha çok kişiye ulaştığından dilin kullanımını yaygınlaştırır</p>",
         "E": "<p>Kendine ait başka bir dil geliştirdiğinden konuşulan dilden bağımsızdır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893299,
@@ -1180,8 +1107,7 @@
         "D": "Bilim eserlerinin yazılabildiği, çevrilebildiği, yeni terimlerin türetilebildiği ve her aşamada öğretimin yapılabildiği dildir",
         "E": "Dilin yapısal özelliklerinin bilim yapabilmek için olan uygunluğudur",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893304,
@@ -1196,8 +1122,7 @@
         "D": "Türkçedeki yabancı sözcüklerin kullanımı artmaktadır.",
         "E": "Reklamcılık etik olmayan yollarla halkı yanlış bilgilendirmektedir.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893307,
@@ -1212,8 +1137,7 @@
         "D": "Bol bol kitap okuyacaktır.",
         "E": "Dillerin kökenleri hakkında bilgi sahibi olmaya çalışacaktır.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893318,
@@ -1228,8 +1152,7 @@
         "D": "Dünyanın beşinci büyük lehçesi olma özelliği",
         "E": "Yabancı dillerden etkilenmemesi",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893344,
@@ -1244,8 +1167,7 @@
         "D": "Bilim terimleri",
         "E": "Yabancı dille öğretim",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893348,
@@ -1260,8 +1182,7 @@
         "D": "temsil",
         "E": "zengin",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893353,
@@ -1276,8 +1197,7 @@
         "D": "Bilim terimlerinin alıntı sözcüklerle karşılanması",
         "E": "Bilimi oluşturan veri ve bilgilerin ülke dilinde işlenmesi ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893358,
@@ -1292,8 +1212,7 @@
         "D": "Toplantıya sen de bizimle  gelmelisin.",
         "E": "Sanırım soruyuda yanlış cevapladım.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893401,
@@ -1308,8 +1227,7 @@
         "D": "<p>Tabela</p>",
         "E": "<p>Gölge</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893421,
@@ -1324,8 +1242,7 @@
         "D": "<p>1225</p>",
         "E": "<p>1923</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893433,
@@ -1340,8 +1257,7 @@
         "D": "<p>Almanca</p>",
         "E": "<p>İngilizce</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893446,
@@ -1356,8 +1272,7 @@
         "D": "<p>yönelim </p>",
         "E": "<p>başarım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893456,
@@ -1372,8 +1287,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I  ve III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893208,
@@ -1388,8 +1302,7 @@
         "D": "<p>Bir süre sonra dilin ortak iletişim aracı olma özelliğini sarsabilir.</p>",
         "E": "<p>Dilin anlam zenginleşmesini sağlar.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893212,
@@ -1404,8 +1317,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>III ve IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893262,
@@ -1420,8 +1332,7 @@
         "D": "<p>Uzlaşma</p>",
         "E": "<p>Değişim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893273,
@@ -1436,8 +1347,7 @@
         "D": "<p>2010</p>",
         "E": "<p>1995</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893274,
@@ -1452,8 +1362,7 @@
         "D": "<p>Yazım (imla) ve söyleyiş kurallarına uyulmalıdır</p>",
         "E": "<p>Kısa mesajlarda emoji tercih edilmelidir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893275,
@@ -1468,8 +1377,7 @@
         "D": "<p>Biçim</p>",
         "E": "<p>Yazım</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893290,
@@ -1484,8 +1392,7 @@
         "D": "<p>Anadolu Ajansı</p>",
         "E": "<p>Dil derneği</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893296,
@@ -1500,8 +1407,7 @@
         "D": "Sosyal medya kullanımı bırakılmalıdır",
         "E": "Sosyal medyada yazım (imla) ve söyleyiş kurallarına uyulmalıdır",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893316,
@@ -1516,8 +1422,7 @@
         "D": "Vesiletü’n-Necat",
         "E": "Garibname",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893324,
@@ -1532,8 +1437,7 @@
         "D": "Bilim terimlerinin latince kökenli isimlerden alıntılanması",
         "E": "Bilimsel araştırmaların yabancılar tarafından keşfedilip adlandırılması",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893363,
@@ -1548,8 +1452,7 @@
         "D": "kirpi",
         "E": "unvan",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893386,
@@ -1564,8 +1467,7 @@
         "D": "<p>viyadük - köprü yol</p>",
         "E": "<p>arboretum - ana haber sunucusu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893393,
@@ -1580,8 +1482,7 @@
         "D": "<p>1933</p>",
         "E": "<p>1934</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893399,
@@ -1596,8 +1497,7 @@
         "D": "<p>Nebî</p>",
         "E": "<p>Kaşgarlı Mahmut</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893453,
@@ -1612,8 +1512,7 @@
         "D": "<p>Arapça ve Farsça'dan çok kelime almış olması</p>",
         "E": "<p>Dilbigisi kurallarının uygulanmasının zorluğu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893455,
@@ -1628,8 +1527,7 @@
         "D": "<p>Yabancı sözcüklere yer verme</p>",
         "E": "<p>Yabancı dille eğitimin yaygınlaşması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893220,
@@ -1644,8 +1542,7 @@
         "D": "<p>Yabancı dille öğretim</p>",
         "E": "<p>Sosyal medyada Türkçe'nin kullanımı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893225,
@@ -1660,8 +1557,7 @@
         "D": "<p>Yazım</p> ",
         "E": "<p>Telaffuz</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893288,
@@ -1676,8 +1572,7 @@
         "D": "<p>Söz</p>",
         "E": "<p>Noktalama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893310,
@@ -1692,8 +1587,7 @@
         "D": "Söz darlığı",
         "E": "Söz kalabalığı",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893326,
@@ -1708,8 +1602,7 @@
         "D": "<p>Konuşmada anlam eksikliği</p>",
         "E": "<p>Pragmatik yetersizlik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893330,
@@ -1724,8 +1617,7 @@
         "D": "Kelime Varlığı",
         "E": "Kelime Dağarcığı",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893334,
@@ -1740,8 +1632,7 @@
         "D": "III ve IV",
         "E": "Hiçbiri",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893350,
@@ -1756,8 +1647,7 @@
         "D": "<p>Edebiyātımıza çok sayıda eser kazandırdı. </p>",
         "E": "<p>Yiyeceklerdeki kimyāsal maddeler beni korkutuyor. </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893364,
@@ -1772,8 +1662,7 @@
         "D": "<p>Sosyal medya dilinin önem kazanması</p>",
         "E": "<p> Türkçe kök ve eklerden yeni sözcük türetilmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893383,
@@ -1788,8 +1677,7 @@
         "D": "<p>Ünlü harfleri yazmadan yalnızca ünsüzlerle yazışmak</p>",
         "E": "<p>Noktalama işaretlerini yerli yerinde kullanmamak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893389,
@@ -1804,8 +1692,7 @@
         "D": "<p>Tartışma platformu</p>",
         "E": "<p>İnternet kafe</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893396,
@@ -1820,8 +1707,7 @@
         "D": "<p>Şov</p>",
         "E": "<p>Viyadük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893238,
@@ -1836,8 +1722,7 @@
         "D": "<p>kurdele</p>",
         "E": "<p>makine</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893264,
@@ -1852,8 +1737,7 @@
         "D": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Olur olmaz her yerde yabancı kökenli sözcüklere yer verilmesi</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Konuşurların yetersizliği yüzünden dillerini gereği gibi kullanamamaları </p> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893292,
@@ -1868,8 +1752,7 @@
         "D": "Türkçe'nin sözcük türetme yeteneği",
         "E": "Türkçe'nin anlatım gücünün yetersizliği",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893308,
@@ -1884,8 +1767,7 @@
         "D": "Türkçe, diğer dillerden hızlı gelişmiştir.",
         "E": "Türkçe,söz varlığı  zengin bir dildir.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893340,
@@ -1900,8 +1782,7 @@
         "D": "Sözcüklerin yazımında özensizlik",
         "E": "Kısa mesajlardaki karakter sınırlaması",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893355,
@@ -1916,8 +1797,7 @@
         "D": "Evde ekmek var mı?",
         "E": "Benimle gelmeyecek misin?",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893387,
@@ -1932,8 +1812,7 @@
         "D": "<p>Cumhuriyet D&ouml;nemi&rsquo;nde yapılan &uuml;niversite reformu</p>",
         "E": "<p>Bilimsel araştırmaların ve yayınlanan makalelerin dilinin T&uuml;rk&ccedil;e olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893391,
@@ -1948,8 +1827,7 @@
         "D": "<p>Latince</p>",
         "E": "<p>İngilizce</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893417,
@@ -1964,8 +1842,7 @@
         "D": "<p>1915</p>",
         "E": "<p>1896</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893428,
@@ -1980,8 +1857,7 @@
         "D": "<p>Ölçünlü söylenişi </p>",
         "E": "<p>Türkçe dışı sözcük </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893435,
@@ -1996,8 +1872,7 @@
         "D": "<p>Ses dosyaları ile konuşmalar kısa sürede paylaşılır</p>",
         "E": "<p>Görüntü dosyaları ile filmler kısa sürede paylaşılır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893441,
@@ -2012,8 +1887,7 @@
         "D": "<p>Yerel kullanım etkisiyle bazı sözcüklerin çekiminde birtakım seslerin düşürüldüğü</p>",
         "E": "<p>Kimi sözcüklerin kullanımında ses türemesinin ortaya çıkması </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893445,
@@ -2028,8 +1902,7 @@
         "D": "<p>Batı dünyasıyla sıkı ilişkiler sonucunda dönemin Avrupasından sözcükler alınmış olması </p>",
         "E": "<p>Kitle iletişim araçlarının hızla yaygınlaşması ile yabancı kökenli sözcükler kullanılmaya başlanması </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893452,
@@ -2044,8 +1917,7 @@
         "D": "<p>Madalya</p>",
         "E": "<p>Antika</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893463,
@@ -2060,8 +1932,7 @@
         "D": "<p>Söylenenlerin, yalan yalnış bilgiye dayanması en büyük sorunumuz.</p> ",
         "E": "<p>Boğaz seferleri, yoğun rüzgar nedeniyle durduruldu.</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893221,
@@ -2076,8 +1947,7 @@
         "D": "<p>İngilizce</p>",
         "E": "<p>İtalyanca</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893247,
@@ -2092,8 +1962,7 @@
         "D": "<p>Rusça</p>",
         "E": "<p>Türkçe</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893249,
@@ -2108,8 +1977,7 @@
         "D": "<p>Noktalama işaretlerinin kullanımının çok az olması</p>",
         "E": "<p>Sözcükler yerine tercih edilebilecek simgelerin kullanıma sunulması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893257,
@@ -2124,8 +1992,7 @@
         "D": "<p>Nutuk</p>",
         "E": "<p>Cümle</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893331,
@@ -2140,8 +2007,7 @@
         "D": "<p>IV ve V</p>",
         "E": "<p>II ve V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893333,
@@ -2156,8 +2022,7 @@
         "D": "I ve IV",
         "E": "Yalnız III",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893337,
@@ -2172,8 +2037,7 @@
         "D": "Topluma dilin öneminin kavratılması",
         "E": "Türkçe bilincinin yaygınlaştırılması",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893347,
@@ -2188,8 +2052,7 @@
         "D": "konuk  ",
         "E": "dedikodu ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893374,
@@ -2204,8 +2067,7 @@
         "D": "<p>Sosyal medya</p>",
         "E": "<p>İmla</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893407,
@@ -2220,8 +2082,7 @@
         "D": "<p>radyo</p>",
         "E": "<p>televizyon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893434,
@@ -2236,8 +2097,7 @@
         "D": "<p>Argo</p>",
         "E": "<p>Türkçe sözcüklere yer verme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893204,
@@ -2252,8 +2112,7 @@
         "D": "<p>Söz dağarcığı, Söz varlığı</p>",
         "E": "<p>Söz dağarcığı, Söz öbeği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893218,
@@ -2268,8 +2127,7 @@
         "D": "<p>Yazım</p>",
         "E": "<p>Söyleyiş</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893235,
@@ -2284,8 +2142,7 @@
         "D": "<p>Fuzuli</p>",
         "E": "<p>Gazali</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893251,
@@ -2300,8 +2157,7 @@
         "D": "<p>Özçekim</p>",
         "E": "<p>Acente</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893266,
@@ -2316,8 +2172,7 @@
         "D": "<p>Kimi sözcüklerin ilk hecesinde uzatma yapılması </p>",
         "E": "<p>Kimi sözcüklerde fazladan inceltme yapılması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893284,
@@ -2332,8 +2187,7 @@
         "D": "<p>Egzoz</p>",
         "E": "<p>Şoför</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893362,
@@ -2348,8 +2202,7 @@
         "D": "Kitle iletişim araçlarında kullanılan söyleyiş bozuklukları",
         "E": "Sosyal medyada Türkçenin  kısaltılarak kullanılması",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893427,
@@ -2364,8 +2217,7 @@
         "D": "<p>Yazım yanlışları ve söyleyiş bozuklukları </p>",
         "E": "<div class=\"page\" title=\"Page 8\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Konuşmada ve yazıda farklı dil kullanımı </p> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893210,
@@ -2380,8 +2232,7 @@
         "D": "<p>Alaaddin Keykubat</p>",
         "E": "<p>Karamanoğlu Mehmet Bey</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893231,
@@ -2396,8 +2247,7 @@
         "D": "<p>Ormancılık alanında</p> ",
         "E": "<p>Kuyumculuk alanında</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893241,
@@ -2412,8 +2262,7 @@
         "D": "<p>performans</p>",
         "E": "<p>gösteri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893341,
@@ -2428,8 +2277,7 @@
         "D": "Önemli bir iletişim ortamı olması",
         "E": "Türkiye’deki kullanıcıların dünya ortalamasına göre üst sıralarda bulunması",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893367,
@@ -2444,8 +2292,7 @@
         "D": "<p>şoför</p> ",
         "E": "<p>makina</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893388,
@@ -2460,8 +2307,7 @@
         "D": "<p>Fakir</p>",
         "E": "<p>Nasip</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893458,
@@ -2476,8 +2322,7 @@
         "D": "<p>Pasaport</p>",
         "E": "<p>Mobbing</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893465,
@@ -2492,8 +2337,7 @@
         "D": "<p>Toplantı, öyle sıkıcıydı ki daral geldi.</p> ",
         "E": "<p>Yanlızlık ömür boyu.</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893207,
@@ -2508,8 +2352,7 @@
         "D": "<p>Onaylı kitaplar</p>",
         "E": "<p>Yabancı yazılımlı cihazlar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893244,
@@ -2524,8 +2367,7 @@
         "D": "<p>Atasözleri</p>",
         "E": "<p>Özdeyişler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893256,
@@ -2540,8 +2382,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893278,
@@ -2556,8 +2397,7 @@
         "D": "<p>Yazım yanlışlığı</p>",
         "E": "<p>Söyleyiş bozukluğu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893297,
@@ -2572,8 +2412,7 @@
         "D": "İngiltere ve Amerika'nın diğer ülkelerle kurduğu olumlu ilişkiler",
         "E": "İngilizcenin çok yönlü özellikli bir dil olması",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893356,
@@ -2588,8 +2427,7 @@
         "D": "vurgu",
         "E": "tonlama",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893385,
@@ -2604,8 +2442,7 @@
         "D": "<p>İtalyanca</p>",
         "E": "<p>Arapça</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893418,
@@ -2620,8 +2457,7 @@
         "D": "<p>1932 - Köy Enstitülerinin Kurulması</p>",
         "E": "<p>1945 - II. Dünya Savaşı'nın sona ermesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893425,
@@ -2636,8 +2472,7 @@
         "D": "<p>résidence - ayaküstü  </p>",
         "E": "<p>resort - tehlikeli </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893467,
@@ -2652,8 +2487,7 @@
         "D": "<p>mobbing – bezdiri</p> ",
         "E": "<p>performans – başarım</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893470,
@@ -2668,8 +2502,7 @@
         "D": "<p>Satış departmanında kaç kişi çalışıyorsunuz?</p> ",
         "E": "<p>Beni ilgilendirmez diyerekten yürüdü gitti.</p>  ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893233,
@@ -2684,8 +2517,7 @@
         "D": "<p>Söz varlığı</p> ",
         "E": "<p>Ölçünlü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893335,
@@ -2700,8 +2532,7 @@
         "D": "Derslik",
         "E": "Çözelti",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893372,
@@ -2716,8 +2547,7 @@
         "D": "<p>Alışveriş merkezlerinde yalnızca yabancı müzik çalınması.</p>",
         "E": "<p>Yabancı olan adını Türkçesiyle değiştiren kuruluşların ödüllendirilmesi.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893373,
@@ -2732,8 +2562,7 @@
         "D": "<p>T&uuml;rk&ccedil;edeki c&uuml;mle &ouml;ge d&uuml;zeninin yabancı dile uyarlanması.</p>",
         "E": "<p>Kitle iletişim ara&ccedil;larında doğru ve g&uuml;zel T&uuml;rk&ccedil;e kullanımının yaygınlaşması.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893438,
@@ -2748,8 +2577,7 @@
         "D": "<p>Eğitim ve Öğretim Kurumları – Türk Dil Kurumu</p>",
         "E": "<p>Türk Tarih Kurulu – Milli Eğitim Bakanlığı</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893472,
@@ -2764,8 +2592,7 @@
         "D": "<p><span style=\"font-family: verdana, geneva;\">Yabancı kökenli sözcükleri yersiz kullanmak</span></p>",
         "E": "<p><span style=\"font-family: verdana, geneva;\">Sözcüklere yanlış anlamlar yüklemek</span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893215,
@@ -2780,8 +2607,7 @@
         "D": "<p>Sözcük türetme yeteceği</p>",
         "E": "<p>Ses uyumları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893226,
@@ -2796,8 +2622,7 @@
         "D": "<p>Ses dizimi</p> ",
         "E": "<p>Yazım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893227,
@@ -2812,8 +2637,7 @@
         "D": "<p>20.000</p> ",
         "E": "<p>10.000</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893279,
@@ -2828,8 +2652,7 @@
         "D": "<p>1930’larden itibaren</p>",
         "E": "<p>1940’larden itibaren</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893366,
@@ -2844,8 +2667,7 @@
         "D": "<p>Konuşma klavuzu</p> ",
         "E": "<p>Kullanma klavuzları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893404,
@@ -2860,8 +2682,7 @@
         "D": "<p>Karaoğlan</p>",
         "E": "<p>Dadaloğlu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893406,
@@ -2876,8 +2697,7 @@
         "D": "<p>Karamanoğlu Mehmet</p>",
         "E": "<p>Sokullu Mehmet Paşa</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893431,
@@ -2892,8 +2712,7 @@
         "D": "<p>Yazım</p>",
         "E": "<p>İmla</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893450,
@@ -2908,8 +2727,7 @@
         "D": "<p>Kurdela</p>",
         "E": "<p>Hakem</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893466,
@@ -2924,8 +2742,7 @@
         "D": "<p>Belgeyi en kısa zamanda fakslamalısın.</p>",
         "E": "<p>Kendisine çok pahalı bir laptop alıyordu.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893478,
@@ -2940,8 +2757,7 @@
         "D": "<p>Bu okulu bitirdikten sonra biliyorum ki çok güzel bir işin olacak.</p> ",
         "E": "<p>Zonguldak'a giderken yolda teyzeme de uğrayabilir miyiz?</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893223,
@@ -2956,8 +2772,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893305,
@@ -2972,8 +2787,7 @@
         "D": "Gençliğin yabancı sözcükler kullanması",
         "E": "Dizilerde kullanılan konuşma kalıpları",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893312,
@@ -2988,8 +2802,7 @@
         "D": "Batılıların daha üstün olduklarını düşündükleri için",
         "E": "Markaşlaşma kaygısı",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893325,
@@ -3004,8 +2817,7 @@
         "D": "Ürünlerin kullanım klavuzunda Türkçe yazmaması",
         "E": "Toplumda Türkçe bilincinin geliştirilmesi",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893327,
@@ -3020,8 +2832,7 @@
         "D": "Kısır söz varlığı",
         "E": "Bölgesel farklılıklar",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893345,
@@ -3036,8 +2847,7 @@
         "D": "İş yaşamında Türkçe",
         "E": "Konuşmada ve yazıda kısır söz varlığı",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893253,
@@ -3052,8 +2862,7 @@
         "D": "<p>Okullarda dil bilincinin kazandırılması amaçlı etkinlikler yapılmalıdır.</p>",
         "E": "<p>Dili doğru kullanan yazar ve sunucular ödüllendirilmelidir. </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893302,
@@ -3068,8 +2877,7 @@
         "D": "İngilizce, diğer dillerden çok etkilenmemiştir.",
         "E": "İngilizce, en köklü dillerden biridir.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893329,
@@ -3084,8 +2892,7 @@
         "D": "I, II, III",
         "E": "I, II, III, IV",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893342,
@@ -3100,8 +2907,7 @@
         "D": "Ses atlanması",
         "E": "Yazım yanlışı",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893354,
@@ -3116,8 +2922,7 @@
         "D": "uydurmak",
         "E": "gezinmek",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893384,
@@ -3132,8 +2937,7 @@
         "D": "<p>kurdela</p>",
         "E": "<p>egzoz</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893454,
@@ -3148,8 +2952,7 @@
         "D": "<p>Yusuf Has Hacib</p>",
         "E": "<p>Sultan Veled</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893469,
@@ -3164,8 +2967,7 @@
         "D": "<p>Evlerine aldıkları gardırop, ünlü bir tasarımcının elinden çıkmıştı.</p> ",
         "E": "<p>İçinde fındık bulunan her türlü yiyeceğe karşı alerjim var.</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893213,
@@ -3180,8 +2982,7 @@
         "D": "<p>T&uuml;rk&ccedil;eyi g&uuml;zel konuşan sanat&ccedil;ıların kamuoyu &ouml;n&uuml;nde &ouml;d&uuml;llendirilmesi.</p>",
         "E": "<p>Yurt dışı eğitimlerinin &uuml;lke vatandaşlarına yasaklanması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893222,
@@ -3196,8 +2997,7 @@
         "D": "<p>Özçekim</p>",
         "E": "<p>Bezdiri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893236,
@@ -3212,8 +3012,7 @@
         "D": "<p>Kısa sözcükler kullanma</p>",
         "E": "<p>Çok fazla gereksiz kelime kullanma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893237,
@@ -3228,8 +3027,7 @@
         "D": "<div class=\"page\" title=\"Page 224\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Hikâyedeki /a/ sesinin ince söylenmesi</p> </div> </div> </div>",
         "E": "<p>Börek sözcüğünün ilk hecesinin kısa söylenmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893365,
@@ -3244,8 +3042,7 @@
         "D": "<p>&nbsp;Yalnız III</p>",
         "E": "<p>&nbsp;Yalnız I</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893371,
@@ -3260,8 +3057,7 @@
         "D": "<p>&nbsp;Karlsbad Hatıraları</p>",
         "E": "<p>Atat&uuml;rk&rsquo;&uuml;n Hatıra Defteri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893381,
@@ -3276,8 +3072,7 @@
         "D": "<p>1993</p>",
         "E": "<p>1995</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893390,
@@ -3292,8 +3087,7 @@
         "D": "<p>Dikte</p>",
         "E": "<p>Tekrar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893408,
@@ -3308,8 +3102,7 @@
         "D": "<p>telaffuz</p>",
         "E": "<p>ses</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893265,
@@ -3324,8 +3117,7 @@
         "D": "<p>Yabancı diller ve gelişimiyle fazlaca ilgilenmek</p>",
         "E": "<p>Türkçe'yi yabancı dillerin etkisinde kullanmak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893311,
@@ -3340,8 +3132,7 @@
         "D": "Şoför",
         "E": "Meyve",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893317,
@@ -3356,8 +3147,7 @@
         "D": "Hüseyin Cemil Meriç",
         "E": "Adnan Menderes",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893351,
@@ -3372,8 +3162,7 @@
         "D": "Uygurlar",
         "E": "Türkmenler",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893400,
@@ -3388,8 +3177,7 @@
         "D": "<p>Öğretim dili</p>",
         "E": "<p>Öğrenim dili</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893214,
@@ -3404,8 +3192,7 @@
         "D": "<p>Söz hazinesi</p>",
         "E": "<p>Kelime serveti</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893322,
@@ -3420,8 +3207,7 @@
         "D": "Teknolojik ilişkiler",
         "E": "Sınırlı ilişkiler",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893380,
@@ -3436,8 +3222,7 @@
         "D": "<p>Ticari hayat</p>",
         "E": "<p>Yaşam tarzları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893440,
@@ -3452,8 +3237,7 @@
         "D": "<p>yazım </p>",
         "E": "<p>söyleyiş </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893442,
@@ -3468,8 +3252,7 @@
         "D": "<p>maydonoz </p>",
         "E": "<p>şoför</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893219,
@@ -3484,8 +3267,7 @@
         "D": "<p>Sözcük bilgisi</p>",
         "E": "<p>Anlam bilgisi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893232,
@@ -3500,8 +3282,7 @@
         "D": "<p>Selfie - özçekim</p> ",
         "E": "<p>Viyadük – ayaküstü</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893234,
@@ -3516,8 +3297,7 @@
         "D": "<p>I, III, IV</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893260,
@@ -3532,8 +3312,7 @@
         "D": "<p>Ağaç Parkı</p>",
         "E": "<p>Devlet Sarayı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893287,
@@ -3548,8 +3327,7 @@
         "D": "<p>Yabancı sözcükleri sık kullanma</p>",
         "E": "<p>Küçük ünlü uyumuna uymama</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893346,
@@ -3564,8 +3342,7 @@
         "D": "<p>Serap</p>",
         "E": "<p>Tarih</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893360,
@@ -3580,8 +3357,7 @@
         "D": "<p>Hiç kimse tüzüğe göre hareket etmiyor.</p>",
         "E": "<p>Sehpanın ayağı kırılmış, hemen onarılması gerekiyor.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893392,
@@ -3596,8 +3372,7 @@
         "D": "<p>1906</p>",
         "E": "<p>1908</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893479,
@@ -3612,8 +3387,7 @@
         "D": "<p>yamuk</p>",
         "E": "<p>akım</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893242,
@@ -3628,8 +3402,7 @@
         "D": "<p>Çınar Showroom</p>",
         "E": "<div class=\"page\" title=\"Page 230\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Börek Center</p> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893382,
@@ -3644,8 +3417,7 @@
         "D": "<p>İmla</p>",
         "E": "<p>Terim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893402,
@@ -3660,8 +3432,7 @@
         "D": "<p>Karamanoğlulları'nın Türkçeyi resmi dil ilan etmesiyle</p>",
         "E": "<p>Türk adıyla kurulan Göktürk Devleti ile</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893409,
@@ -3676,8 +3447,7 @@
         "D": "<p>kurdela</p>",
         "E": "<p>egzoz</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893436,
@@ -3692,8 +3462,7 @@
         "D": "<p>Kelime serveti</p>",
         "E": "<p>Sesletim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893217,
@@ -3708,8 +3477,7 @@
         "D": "<p>Mobil cihazlar</p>",
         "E": "<p>Sosyal medya</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893240,
@@ -3724,8 +3492,7 @@
         "D": "<p>dalyan </p>",
         "E": "<p>efendi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893252,
@@ -3740,8 +3507,7 @@
         "D": "<p>Yabancı uyruklu bilim insanlarının çalışmalarının kabul görmeyecek olması</p>",
         "E": "<p>Çeşitli bilim dallarına ait terimlerin Türkçe karşılıklarının kullanılmaya çalışılması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893254,
@@ -3756,8 +3522,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>III ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893277,
@@ -3772,8 +3537,7 @@
         "D": "<p>Yerel söyleyiş özelliğidir</p>",
         "E": "<p>Okulda kullanılan konuşma biçimidir</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893369,
@@ -3788,8 +3552,7 @@
         "D": "<p>Türkçeden İngilizceye söz akışını sağlamak.</p>",
         "E": "<p>Türkçeyi korumak amacıyla yasa çıkarmak.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893228,
@@ -3804,8 +3567,7 @@
         "D": "<p>Sanal alem</p> ",
         "E": "<p>Sosyal Medya</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893272,
@@ -3820,8 +3582,7 @@
         "D": "<p>Bazı sözcüklere yanlış anlamlar yüklenmesi</p>",
         "E": "<p>Olur olmaz her yerde yabancı kökenli sözcüklere yer verilmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893306,
@@ -3836,8 +3597,7 @@
         "D": "Arkadaşlarını Türkçeyi doğru kullanmaya özendirecektir.",
         "E": "Sıkça Türkçe yayın okuyacak ve TDK sözlüğünü inceleyecektir",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893248,
@@ -3852,8 +3612,7 @@
         "D": "<p>İnsanların marka ve yabancı ürünlerin tutsağı haline gelmeleri</p>",
         "E": "<p>Borsanın değer kaybedip düşüşe geçmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893359,
@@ -3868,8 +3627,7 @@
         "D": "Terim sözcüklerin kullanılışı",
         "E": "Ulama eksikliği",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893394,
@@ -3884,8 +3642,7 @@
         "D": "<p>Konuşurların dilimize gerekli özeni göstermesiyle</p>",
         "E": "<p>Yazı dili ve okuma dilinin değişmesiyle</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893437,
@@ -3900,7 +3657,366 @@
         "D": "<p>Söz hazinesi</p>",
         "E": "<p>Kelime serveti</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893320,
+        "UniteNo": 8,
+        "PageNumber": 211,
+        "AnswerExplanation": "Sözlük yalnızca dili öğrenenler için değil, o dilin konuşucuları için de hazırlanmıştır.",
+        "Title": "Türkçenin karşı karşıya bulunduğu sorunların kaynaklarını belirleyebileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi Türkçenin yanlış kullanımına sebebiyet vermez?",
+        "A": "Kitle iletişim araçlarından televizyonun Türkçeyi yanlış kullanması",
+        "B": "Türkçenin Arapça ve Fars kültürünün etkisi altında kalmasıyla dile geçen sözcükler",
+        "C": "Sosyal medyada yapılan imla hataları",
+        "D": "Dil için hazırlanmış bir sözlük kullanılması",
+        "E": "Yalnızca ünsüz harflerle yazışma",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893293,
+        "UniteNo": 8,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Türkçenin karşı karşıya bulunduğu sorunların kaynaklarını belirleyebileceksiniz.",
+        "Text": "Düşünceler, görüşler dil aracılığıyla biçimlenirken, aktarılırken yeni sözcükler ve söylemlerin de dillere geçmesinin en etkili sebebi aşağıdakilerden hangisidir?",
+        "A": "Yaşam sıkıntılarından dolayı başka ülkelere göç etme",
+        "B": "Çoğalan nüfusla birlikte artan akrabalık ilişkileri",
+        "C": "Seyahat olanaklarının fazlalığı",
+        "D": "Kitle iletişim araçları ve sanal ortamda sınırsız erişim",
+        "E": "Türkçe'nin dil yapısındaki yetersizlikler",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893315,
+        "UniteNo": 8,
+        "PageNumber": 221,
+        "AnswerExplanation": "Türk yazımı yeri\u001dne yabancı kurallara göre yazma eğilimi\u001d de ortaya çıktı: Efendy, Hotel Taxi\u001fm, Esk\u001fidj\u001fi, Lai\u001fla, Wi\u001fshne Bar, Neshe, Ki\u001ftapchi\u001f, Yem\u001fish, Kebabch\u001fi, Deri\u001fch\u001fi... Bu etk\u001dilenme yalnızca sözcük g\u001diri\u001dş\u001diyle sınırlı kalmamakta Türkçe'n\u001din söz d\u001dizi\u001dmi\u001d özellikler\u001din\u001di de zorlamaktadır: Di\u001evan Otel\u001e demek dururken Hotel Di\u001evan, Marmara Otel\u001e demek varken \u000fThe Marmara, Derman Eczanes\u001ei yeri\u001dne Eczane Derman demek Türkçe'ni\u001dn söz dizi\u001dm\u001d özelikler\u001di\u001dni hi\u001dçe saymaktır.",
+        "Title": "Türkçenin kullanımında yaşanan güncel sorunları ayırt edebileceksiniz.",
+        "Text": "Türkçenin söz dizimi özelliklerini etkileyen yabancı dilden etkilenmeye örnek olarak aşağıdakilerden hangisi gösterilebilir?",
+        "A": "Salih Kebabch\u001fi",
+        "B": "Rainbow Kasabı",
+        "C": "Gönül Berberi",
+        "D": "Eczane Derman",
+        "E": "Yoğurtlu Köfte",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893395,
+        "UniteNo": 8,
+        "PageNumber": 219,
+        "AnswerExplanation": "<p>İlk uygulama Atatürk’ün geometri terimleri üzerine yaptığı çalışma olmuştur. Atatürk, yazdığı Geometri kitabında yeni türettiği ve tanımını verdiği açı, açıortay, altıgen,<br />beşgen, çap, dar açı, dış tersaçı, dikey, düşey çizgi, eşkenar dörtgen, ikizkenar üçgen, teğet, yamuk, yüzey gibi yüz yirmi dokuz geometri terimini kullanarak Türkçe terimlerle öğretim ve bilim yapmanın örneğini de gözler önüne sermiştir.</p>",
+        "Title": "",
+        "Text": "<p>Türk Dil Kurumunun kuruluşu ile terimler alanında başlatılan çalışmalar da Türkçenin bilim dili olarak<br />işlenmesine katkıda bulunmuştur. TDK'nın ilk uygulaması aşağıdakilerden hangisidir ?</p>",
+        "A": "<p>İbn-i Sinâ-Tıbbın Kanunu</p>",
+        "B": "<p>Atatürk-Geometri Kitabı</p>",
+        "C": "<p>Farabi-İlimlerin Sayımı</p>",
+        "D": "<p>Ali Kuşçu-Fethiye</p>",
+        "E": "<p>İbnü'l Kemal İlyas b. Ahmed-Keşfül-Akabe</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893439,
+        "UniteNo": 8,
+        "PageNumber": 222,
+        "AnswerExplanation": "<p>Diline önem veren her gelişmiş ülkede olduğu gibi biz de Türkçenin karşı karşıya bulunduğu sorunların çözümünde üzerimize düşen görevi yerine getirmeliyiz. Türkçeye her zaman önem veren Atatürk&rsquo;ün özellikle vurguladığı gibi: <em>Ülkesini, yüksek istiklâlini korumasını bilen Türk milleti dilini de yabancı diller boyunduruğundan kurtarmalıdır</em>... &nbsp;Doğru yanıt B&rsquo;dir.</p>",
+        "Title": "",
+        "Text": "&ldquo;Ülkesini, yüksek istiklâlini korumasını bilen Türk milleti dilini de yabancı diller boyunduruğundan kurtarmalıdır...&rdquo; s&ouml;z&uuml;n&uuml; s&ouml;yleyen Atat&uuml;rk aşağıdakilerden hangisini vurgulamak istemiştir?",
+        "A": "<p>Dış g&uuml;&ccedil;lerin etkisinden kurtulmak</p>",
+        "B": "<p>T&uuml;rk&ccedil;e dilinin &ouml;nemini kavratmak</p>",
+        "C": "<p>Bağımsızlığımızı korumak</p>",
+        "D": "<p>T&uuml;rk milletini eşsiz kılmak</p>",
+        "E": "<p>Yabancı dillere &ouml;zentiyi azaltmak</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893444,
+        "UniteNo": 8,
+        "PageNumber": 214,
+        "AnswerExplanation": "<p>A, C, E ve D seçeneklerinde sözcüklerin yazımı doğru olarak verilirken B seçeneğinde sözcüğün yazımı yanlış olarak verilmiştir. Doğrusu makine şeklindedir. </p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki sözcüklerden hangisinde yazım yanlışı bulunmaktadır? </p>",
+        "A": "<p>maydanoz </p>",
+        "B": "<p>makina </p>",
+        "C": "<p>kurdele </p>",
+        "D": "<p>şemsiye </p>",
+        "E": "<p>egzoz </p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893224,
+        "UniteNo": 8,
+        "PageNumber": 210,
+        "AnswerExplanation": "<p>Terim; Bilim, sanat, spor, meslek dalıyla veya bir konu ile ilgili özel ve belirli  bir kavramı karşılayan sözcük. </p>",
+        "Title": "",
+        "Text": "<p>Bilim, sanat, spor, meslek dalıyla veya bir konu ile ilgili özel ve belirli  bir kavramı karşılayan sözcük şıklardan hangisidir?</p>   ",
+        "A": "<p>Anlatım</p> ",
+        "B": "<p>Misal</p> ",
+        "C": "<p>Jargon</p> ",
+        "D": "<p>Tabir</p> ",
+        "E": "<p>Terim</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893246,
+        "UniteNo": 8,
+        "PageNumber": 210,
+        "AnswerExplanation": "<p>Dillerin birbirinden çok daha kısa sürede etkilenir hale gelmesinde gelişen teknoloji ve bunun getirdiği çeşitli kitle iletişim araçları,bu araçlar sayesinde dünyaya yayılan film,dizi yayınları,basılan kitaplar,sosyal medya ortamı oldukça etkili faktörlerken insanların tek tip dili benimseme gibi bir isteğinden bahsedilemez.</p>",
+        "Title": "",
+        "Text": "<p>Bir dilin yabancı bir dilden çok çabuk etkilenir hale gelmesinde aşağıdaki unsurlardan hangisi etkili olamaz?</p>",
+        "A": "<p>Kitle iletişim araçlarının yayılması ve zenginleşmesi</p>",
+        "B": "<p>Sosyal medya ortamı</p>",
+        "C": "<p>Film-dizi sektörünün etkisi</p>",
+        "D": "<p>İnsanların tek bir dili konuşma isteği</p>",
+        "E": "<p>Gelişen teknolojiyle kültürler arası sınırların ortadan kalkması</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893259,
+        "UniteNo": 8,
+        "PageNumber": 217,
+        "AnswerExplanation": "<p>'Kendine iyi bak' ingilizce 'take care of yourself' kalıbının Türkçe'ye birebir çevirisidir ve Türkçe'ye aykırıdır.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi yabancı kaynaklı ve Türkçe'nin yapısına <span style=\"text-decoration: underline;\">aykırı</span> bir örnektir?</p>",
+        "A": "<p>Hosça kal</p>",
+        "B": "<p>Allahaısmarladık</p>",
+        "C": "<p>Kahve içmek</p>",
+        "D": "<p>Özür dilerim</p>",
+        "E": "<p>Kendine iyi bak</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893300,
+        "UniteNo": 8,
+        "PageNumber": 209,
+        "AnswerExplanation": "Diğer tüm şıklardaki ifade edilenler Türkçenin ve diğer dillerin en önemli sorun alanlarından olması nedeniyle A şıkkında ifade edilen kelimelerin kökenlerine ilişkin açıklama, bir dilin kullanımına ilişkin karşılaşılan problemler arasında, diğerlerine göre daha dolaylı bir etkiye sahip olabileceğinden, son sıralardadır.",
+        "Title": "Türkçenin kullanımında yaşanan güncel sorunları ayırt edebileceksiniz.",
+        "Text": "Bir dilin söz varlığındaki sözcüklerin yanlış söylenmesi ve yazılması, aşağıdakilerden hangisiyle daha az ilişkilidir?",
+        "A": "Konuşanların, sözcüklerin hangi kökene ait olduğunu bilmemesiyle",
+        "B": "Konuşanların dilbilgisini tam olarak kavrayamamasıyla",
+        "C": "Yabancı sözcüklerin günlük konuşma dilinde sıkça kullanılmasıyla",
+        "D": "Anlatım bozukluklarının sıkça tekrarlanmamasıyla",
+        "E": "Dil, kullanırken gereken özenin gösterilmemesiyle",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893422,
+        "UniteNo": 8,
+        "PageNumber": 213,
+        "AnswerExplanation": "<p>Söyleyiş, tela\u001auz, sesletim, söyleniş olarak da adlandırılan ve bir sözcüğün ses, hece, ton, vurgu bakımından söylenme biçimi olarak tanımlanan dil bilgisi terimi olarak tanımlanabilir. Bu nedenle doğru cevap C'dir.</p>",
+        "Title": "",
+        "Text": "<p>\"Tela\u001auz, sesletim, söyleniş olarak da adlandırılan ve bir sözcüğün ses, hece, ton, vurgu bakımından söylenme biçimi olarak tanımlanan dil bilgisi terimi.\" olarak tanımlanan kavram aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Yazım</p>",
+        "B": "<p>Söz varlığı</p>",
+        "C": "<p>Söyleyiş</p>",
+        "D": "<p>Okuma</p>",
+        "E": "<p>Ağız</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893298,
+        "UniteNo": 8,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Türkçenin kullanımında yaşanan güncel sorunları ayırt edebileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi Türkçe ile ilgili olarak kabul edilen yanlışlardandır?",
+        "A": "Türkçe'nin söz varlığı ve anlatım gücü zengindir.",
+        "B": "Türkçe kendi kendine yeten özelliklere sahip bir dildir.",
+        "C": "Türkçe yazıldığı gibi okunan bir dildir.",
+        "D": "Türkçe atasözleri ve deyimler açısından zengin bir dildir.",
+        "E": "Türkçe, yeryüzünün en eski ve en geniş coğrafya parçasında konuşulan gelişmiş bir dildir.",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893419,
+        "UniteNo": 8,
+        "PageNumber": 219,
+        "AnswerExplanation": "<p>Türk Dil Kurumunun kuruluşu ile terimler alanında başlatılan çalışmalar da Türkçenin bilim dili olarak işlenmesine katkıda bulunmuştur. İlk uygulama Atatürk’ün geometri terimleri üzerine yaptığı çalışma olmuştur. Atatürk, yazdığı Geometri kitabında yeni türettiği ve tanımını verdiği açı, açıortay, altıgen, beşgen, çap, dar açı, dış tersaçı, dikey, düşey çizgi, eşkenar dörtgen, ikizkenar üçgen, teğet, yamuk, yüzey gibi yüz yirmi dokuz geometri terimini kullanarak Türkçe terimlerle öğretim ve bilim yapmanın örneğini de gözler önüne sermiştir. Bu nedenle doğru cevap D'dir.</p>",
+        "Title": "",
+        "Text": "<p>Atatürk'ün gerçekleştirdiği, Türkçenin bilim dili olarak işlenmesine katkıda bulunan,  çalışma hangi alana aittir?</p>",
+        "A": "<p>Türkçe</p>",
+        "B": "<p>Kimya</p>",
+        "C": "<p>Biyoloji</p>",
+        "D": "<p>Geometri</p>",
+        "E": "<p>Fizik</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893420,
+        "UniteNo": 8,
+        "PageNumber": 217,
+        "AnswerExplanation": "<p>Türk Dil Kurumunun yabancı kaynaklı sözlere karşılık önerdiği sözlerden birkaçına bakalım:  arboretum karşılığında ağaç parkı, viyadük için köprü yol, mobbing için bezdiri; selfie için özçekim, mortgage tutsat bunlara örnek olarak verilebilir. TDK, anchorman karşılığında gemi direği değil ana haber sunucusu önerisini yapmıştır. Doğru Cevap E'dir.</p>",
+        "Title": "",
+        "Text": "<p>Türk Dil Kurumu yabancı kaynaklı sözlere karşılık öneriler yapmıştır. Aşağıdakilerden hangisi bunlardan biri <strong>değildir?</strong></p>",
+        "A": "<p>Selfie - Özçekim</p>",
+        "B": "<p>Mobbing - Bezdiri</p>",
+        "C": "<p>Viyadük - Köprü yol</p>",
+        "D": "<p>Mortgage - Tutsat</p>",
+        "E": "<p>Anchorman - Gemi Direği</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893339,
+        "UniteNo": 8,
+        "PageNumber": 211,
+        "AnswerExplanation": "Türk Dil Kurumu'nun RTÜK için 1999 yılında yaptığı bir araştırmaya göre, haber programlarında bin sözcüğün kullanıldığı, ilk yüz sözcüğün ise bu söz varlığının neredeyse yüzde ellisini oluşturduğu ortaya konulmuştur. Bu veri, haber programlarının birkaç yüz sözcükle hazırlandığını göstermektedir. \"Haber programları\" kitle iletişim araçlarından biridir. Bu nedenle \"Kitle iletişim araçlarında Türkçe'in kullanımı\" ifadesi ile ilişkilidir. Doğru yanıt C'dir.",
+        "Title": "Türkçenin karşı karşıya bulunduğu sorunların kaynaklarını belirleyebileceksiniz.",
+        "Text": "Türkiye'de yapılan bir araştırma, haber programlarının bir kaç yüz sözcükle hazırlandığını göstermektedir. Bu bilgi, Türkçe'nin kullanımında yaşanan sorunlardan hangisi ile ilişkilidir?",
+        "A": "Yabancı sözlerin yoğunluğu",
+        "B": "Sosyal medyada Türkçe'nin kullanımı",
+        "C": "Kitle iletişim araçlarında Türkçe'nin kullanımı",
+        "D": "Söyleyiş bozuklukları",
+        "E": "Yazım yanlışları",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893447,
+        "UniteNo": 8,
+        "PageNumber": 217,
+        "AnswerExplanation": "<p>Dilimizin söz varlığında karşılığı bulunsa da yabancı kaynaklı sözleri kullanmak bir<br />özenti hâlini aldı. Günlük hayatta, çarşıda, pazarda, radyoda, televizyonda, basında, okulda, sporda kısacası her yerde yabancı kaynaklı sözler artık bilinçsizce kullanılır oldu. Birer özenti alıntısı niteliğinde olan show, trend, konsensüs, transformasyon, performans gibi sözler Türkçede karşılıkları olmasına rağmen kullanılmaktadır. Bu tür özenti alıntılarının kullanılmasına hiç gerek yoktur. Çünkü bu özenti alıntılarının yerine Türkçede gösteri, eğilim veya yönelim, uzlaşma veya oydaşma, değişim veya dönüşüm, başarım gibi pek çok karşılık bulunmaktadır.</p> <p>Türk Dil Kurumu, Atatürk’ün “Ülkesini, yüksek istiklâlini korumasını bilen Türk milleti<br />dilini de yabancı diller boyunduruğundan kurtarmalıdır.” sözünü kendisine ilke edinerek<br />dilimizi yabancı dillerin boyunduruğundan kurtarma mücadelesini vermektedir. Türk Dil<br />Kurumunun yabancı kaynaklı sözlere karşılık önerdiği sözlerden birkaçına bakalım: anchorman karşılığında ana haber sunucusu, arboretum karşılığında ağaç parkı, viyadük için köprü yol, mobbing için bezdiri; selfie için özçekim, mortgage tutsat vb...</p>",
+        "Title": "",
+        "Text": "<p>Dilimizin söz varlığında karşılığı bulunsa da özenti alıntısı niteliğinde olan, uzlaşma veya oydaşma anlamına gelen sözcük aşağıdakilerden hangisidir? </p>",
+        "A": "<p>arboretum </p>",
+        "B": "<p>konsensus </p>",
+        "C": "<p>performans </p>",
+        "D": "<p>mortgage </p>",
+        "E": "<p>mobbing </p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893261,
+        "UniteNo": 8,
+        "PageNumber": 211,
+        "AnswerExplanation": "<p>İlgili ferman Türkçe'ye karşı meydana gelen duyarsızlaşmaya son vermek amacıyla çıkarılmıştır.</p>",
+        "Title": "",
+        "Text": "<p>Karamanoğlu Mehmet Bey'in \"Şimden gerü divanda, dergahta, bargahta, çarşıda ve bazarda Türkçe'den başka dil konuşulmaya\" şeklinde ferman çıkarmış olmasının nedeni aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Yabancı düşmanlığı</p>",
+        "B": "<p>Yabancı dil bilmiyor olması</p>",
+        "C": "<p>Türkçe konuşan nüfusun azalıyor olması</p>",
+        "D": "<p>Türkçe karşı yaşanan duyarsızlığın artması</p>",
+        "E": "<p>Türkçe'nin dönemin bilim dili olması</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893432,
+        "UniteNo": 8,
+        "PageNumber": 210,
+        "AnswerExplanation": "<p>Terim; bilim, sanat, spor, meslek dalıyla veya bir konu ile ilgili özel ve belirli bir kavramı karşılayan sözcüktür. Doğru cevap C'dir.</p>",
+        "Title": "",
+        "Text": "<p>Bilim, sanat, spor, meslek dalıyla veya bir konu ile ilgili özel ve belirli bir kavramı karşılayan sözcük aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Kelime serveti</p>",
+        "B": "<p>Söz varlığı</p>",
+        "C": "<p>Terim</p>",
+        "D": "<p>Söyleyiş</p>",
+        "E": "<p>Yazım</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893332,
+        "UniteNo": 8,
+        "PageNumber": 210,
+        "AnswerExplanation": "Soru kitaptaki metni aynen sorduğu için hatırlama düzeyindedir",
+        "Title": "Türkçenin karşı karşıya bulunduğu sorunların kaynaklarını belirleyebileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi terimin tanımıdır?",
+        "A": "Sanat alanında bir konuyla ilgili özel ve belirli bir kavramı karşılayan sözcük",
+        "B": "Bilim, sanat, spor ve meslek dallarına ait kullanılan özel sözcük",
+        "C": "Günlük konuşma diline ait kullanılan szöcük",
+        "D": "Mecaz, yan ve deyim anlamları olan günlük konuşma diline ait kullanılan sözcük",
+        "E": "Bilim, sanat, spor, meslek dalıyla veya bir konu ile ilgili özel ve belirli bir kavramı karşılayan sözcük",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893263,
+        "UniteNo": 8,
+        "PageNumber": 220,
+        "AnswerExplanation": "<p>Müselles, üçgen anlamına gelmektedir ve üçgen adı bizzat Atatürk tarafından verilmiştir.</p>",
+        "Title": "",
+        "Text": "<p>Müselles kelimesinin günümüz Türkçe'sindeki karşılığı aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Bela</p>",
+        "B": "<p>İlişki</p>",
+        "C": "<p>Üçgen</p>",
+        "D": "<p>Denetçi</p>",
+        "E": "<p>Yönetmen</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893459,
+        "UniteNo": 8,
+        "PageNumber": 217,
+        "AnswerExplanation": "<p>Yabancı kaynaklı &ccedil;eviri yoluyla dilimize katılan &nbsp;\"&ccedil;ay almak \" kendine iyi bak\" c&uuml;mleleri yabancı s&ouml;zc&uuml;klerin kullanımına dair yapılan yanlışlardandır. Doğru cevap A şıkkıdır.</p>",
+        "Title": "",
+        "Text": "\"Kahve i&ccedil;mek\" yerine \"kahve almak\" \"sağlıcakla kal\" yerine \"kendine iyi bak\" denmesi hangi kullanım hatasından kaynaklanır?",
+        "A": "<p>Yabancı s&ouml;zlerin kullanımı</p>",
+        "B": "<p>S&ouml;yleyiş bozukluğu</p>",
+        "C": "<p>Kısıtlı s&ouml;z varlığı</p>",
+        "D": "<p>İmla hatası</p>",
+        "E": "<p>Yerel dilin kullanımı</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893451,
+        "UniteNo": 8,
+        "PageNumber": 215,
+        "AnswerExplanation": "<p>Sözcüklerin, eklerin yazılış biçimlerinden oluşan yazım kurallarını ve sözcüklerin, özel adların, kısaltmaların bu kurallara göre yazılış biçimlerini alfabetik bir sıra içerisinde veren, noktalama işaretlerinin kullanım alanlarını gösteren kaynak eser ise Yazım Kılavuzu olarak adlandırılır. Doğru cevap C'dir.</p>",
+        "Title": "",
+        "Text": "<p>Sözcüklerin, eklerin yazılış biçimlerinden oluşan yazım kurallarını ve sözcüklerin, özel adların, kısaltmaların bu kurallara göre yazılış biçimlerini alfabetik bir sıra içerisinde veren, noktalama işaretlerinin kullanım alanlarını gösteren kaynak aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Türk Dil Kurumu</p>",
+        "B": "<p>İnternet</p>",
+        "C": "<p>Yazım Kılavuzu</p>",
+        "D": "<p>Sosyal Medya</p>",
+        "E": "<p>Radyo Televizyon Üst Kurulu</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893328,
+        "UniteNo": 8,
+        "PageNumber": 217,
+        "AnswerExplanation": "<p>Doğru cevap b şıkkıdır. Trend yerine eğilim ya da yönelim kullanılır.</p>",
+        "Title": "Türkçenin karşı karşıya bulunduğu sorunların kaynaklarını belirleyebileceksiniz.",
+        "Text": "<p>\"trend\" sözcüğünün Türkçe karşılığı aşağıdakilerden hangisidir?</p>",
+        "A": "<p>popüler</p>",
+        "B": "<p>yönelim</p>",
+        "C": "<p>ilgili</p>",
+        "D": "<p>istekli</p>",
+        "E": "<p>yoğun</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893378,
+        "UniteNo": 8,
+        "PageNumber": 213,
+        "AnswerExplanation": "<p>Söyleyiş; telaff\u001auz, sesletim, söyleniş olarak da adlandırılan ve bir sözcüğün ses, hece, ton, vurgu bakımından söylenme biçimi olarak tanımlanan dil bilgisi terimidir. Doğru cevap E'dir.</p>",
+        "Title": "",
+        "Text": "<p>Bir sözcüğün ses, hece, ton, vurgu bakımından söylenme biçimi olarak tanımlanan dil bilgisi terimi aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Yazım</p>",
+        "B": "<p>İmla</p>",
+        "C": "<p>Terim</p>",
+        "D": "<p>Söz varlığı</p>",
+        "E": "<p>Söyleyiş</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
     }
 ]

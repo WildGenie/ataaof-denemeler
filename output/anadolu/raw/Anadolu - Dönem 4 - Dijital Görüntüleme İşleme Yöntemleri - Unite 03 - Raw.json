@@ -12,8 +12,7 @@
         "D": "<p>Çizgi</p>",
         "E": "<p>Fotoğraf</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488755,
@@ -28,8 +27,7 @@
         "D": "<p>Çizgi</p>",
         "E": "<p>Resim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488757,
@@ -44,8 +42,7 @@
         "D": "<p>Kullanıcı Arayüz</p>",
         "E": "<p>Kullanıcı Deneyimi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488758,
@@ -60,8 +57,7 @@
         "D": "<p>Nesnelerin İnterneti</p>",
         "E": "<p>Bilgi Grafiği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489049,
@@ -76,8 +72,7 @@
         "D": "<p>3B projeksiyon </p>",
         "E": "<p>Sosyal medya </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489051,
@@ -92,8 +87,7 @@
         "D": "<p>Erişilebilirlik </p>",
         "E": "<p>Değerlendirme </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489052,
@@ -108,8 +102,7 @@
         "D": "<p>Casper</p>",
         "E": "<p>Dell </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489065,
@@ -124,8 +117,7 @@
         "D": "<p>Foto-AI tasarım</p>",
         "E": "<p>Akıllı tasarım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489067,
@@ -140,8 +132,7 @@
         "D": "<p>Kullanıcı arayüz tasarımı</p>",
         "E": "<p>Kullanıcı deneyimi tasarımı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489068,
@@ -156,8 +147,7 @@
         "D": "<p>I-II</p>",
         "E": "<p>I-II-III-IV-V<br /><br /></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489069,
@@ -172,8 +162,7 @@
         "D": "<p>İkonlar-fotoğraflar</p>",
         "E": "<p>Semboller -AI</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489072,
@@ -188,8 +177,7 @@
         "D": "<p>3B Haritalama</p>",
         "E": "<p>AI<br /><br /></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489074,
@@ -204,8 +192,7 @@
         "D": "<p>Twitter</p>",
         "E": "<p>Instagram</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489086,
@@ -220,8 +207,7 @@
         "D": "<p>Tipografi</p>",
         "E": "<p>Doku </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489098,
@@ -236,8 +222,7 @@
         "D": "<p>Yalınlık </p>",
         "E": "<p>Sembol </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489127,
@@ -252,8 +237,7 @@
         "D": "<p>Twitter</p>",
         "E": "<p>Tiktok</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489147,
@@ -268,8 +252,7 @@
         "D": "<p>Tasarım Odaklı Düşünce</p>",
         "E": "<p>Taslak Çizimler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489151,
@@ -284,8 +267,7 @@
         "D": "<p>Hiyerarşi</p>",
         "E": "<p>Vurgu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489156,
@@ -300,8 +282,7 @@
         "D": "<p>Sembol, İkon</p>",
         "E": "<p>Tipografi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489172,
@@ -316,8 +297,7 @@
         "D": "<p>2008</p>",
         "E": "<p>2005</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488756,
@@ -332,8 +312,7 @@
         "D": "<p>Işıkla yazı yazmak</p>",
         "E": "<p>Işıkla göstermek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488761,
@@ -348,8 +327,7 @@
         "D": "<p>2000</p>",
         "E": "<p>2015</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489048,
@@ -364,8 +342,7 @@
         "D": "<p>Mimari tasarım </p>",
         "E": "<p>Sosyal medya tasarımı </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489070,
@@ -380,8 +357,7 @@
         "D": "<p>Bilgi Grafiği</p>",
         "E": "<p>Tipografi</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489085,
@@ -396,8 +372,7 @@
         "D": "<p>Uyum </p>",
         "E": "<p>Benzerlik </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489100,
@@ -412,8 +387,7 @@
         "D": "<p>İllüstrasyon </p>",
         "E": "<p>İkon </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489153,
@@ -428,8 +402,7 @@
         "D": "<p>Hiyerarşi</p>",
         "E": "<p>Vurgu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489167,
@@ -444,8 +417,7 @@
         "D": "<p>Taslak Çizimler</p>",
         "E": "<p>Animasyon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489171,
@@ -460,8 +432,7 @@
         "D": "<p>Facebook</p>",
         "E": "<p>Instagram</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488752,
@@ -476,8 +447,7 @@
         "D": "<p>Hiyerarşi</p>",
         "E": "<p>Nokta, çizgi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488753,
@@ -492,8 +462,7 @@
         "D": "<p>Hiyerarşi</p>",
         "E": "<p>Denge</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488760,
@@ -508,8 +477,7 @@
         "D": "<p>Taslak Çizimler</p>",
         "E": "<p>Nesnelerin İnterneti</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489071,
@@ -524,8 +492,7 @@
         "D": "<p>Dijital yapay zeka</p>",
         "E": "<p>Nesnelerin interneti</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489142,
@@ -540,8 +507,7 @@
         "D": "<p>2000'li yıllarda</p>",
         "E": "<p>2010'lu yıllarda</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489073,
@@ -556,8 +522,7 @@
         "D": "<p>Twitter</p>",
         "E": "<p>Instagram</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488759,
@@ -572,8 +537,7 @@
         "D": "<p>Haritalama </p>",
         "E": "<p>Bilgi Grafiği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489169,
@@ -588,8 +552,7 @@
         "D": "<p>2000</p>",
         "E": "<p>2010</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489066,
@@ -604,8 +567,7 @@
         "D": "<p>Modüler tasarım</p>",
         "E": "<p>Kullanıcı felsefesi tasarımı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489164,
@@ -620,8 +582,7 @@
         "D": "<p>Sayfa düzeni</p>",
         "E": "<p>Bilgi Grafiği</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489126,
@@ -636,7 +597,6 @@
         "D": "<p>Kızılötesi sensör </p>",
         "E": "<p>GPS</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     }
 ]

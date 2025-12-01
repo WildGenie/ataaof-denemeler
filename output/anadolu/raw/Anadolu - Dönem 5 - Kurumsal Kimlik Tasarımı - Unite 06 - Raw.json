@@ -12,8 +12,7 @@
         "D": "<p>Hibrit</p>",
         "E": "<p>Davranışsal</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862024,
@@ -28,8 +27,7 @@
         "D": "<p>Rakip analizini, arketip, hibrit marka</p>",
         "E": "<p>Demografik, psikografik ve davranışsal</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862025,
@@ -44,8 +42,7 @@
         "D": "<p>Markalı ev</p>",
         "E": "<p>Hibrit marka</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862026,
@@ -60,8 +57,7 @@
         "D": "<p>Hedef kitle mimarisi</p>",
         "E": "<p>Arketip mimarisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862027,
@@ -76,8 +72,7 @@
         "D": "<p>Hedef kitle mimarisi</p>",
         "E": "<p>Rakip analizini</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862028,
@@ -92,8 +87,7 @@
         "D": "<p>Hedef kitle mimarisi</p>",
         "E": "<p>Arketip mimarisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862029,
@@ -108,8 +102,7 @@
         "D": "<p>Hibrit marka mimarisi</p>",
         "E": "<p>Marka kimliği</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862030,
@@ -124,8 +117,7 @@
         "D": "<p>Markalar evi modeli</p>",
         "E": "<p>Hibrit modeli</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862031,
@@ -140,8 +132,7 @@
         "D": "<p>Araştırma-Reklam-Lojistik</p>",
         "E": "<p>Uygulama-Kavram-Lojistik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862032,
@@ -156,8 +147,7 @@
         "D": "<p>Altın Oran</p>",
         "E": "<p>Altın Çember</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862214,
@@ -172,8 +162,7 @@
         "D": "Ömer Şengüler",
         "E": "Philip Kotler",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862215,
@@ -188,8 +177,7 @@
         "D": "Medya analizi",
         "E": "Swot analizi",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862216,
@@ -204,8 +192,7 @@
         "D": "Marka sadakati",
         "E": "Marka imajı",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862217,
@@ -220,8 +207,7 @@
         "D": "Büyüme fırsatlarını belirlemek",
         "E": "Tüketicide satın alma davranışı oluşturmak",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862218,
@@ -236,8 +222,7 @@
         "D": "Sony",
         "E": "Windows",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862219,
@@ -252,8 +237,7 @@
         "D": "Marka sadakati",
         "E": "Rekabet Analizi",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862220,
@@ -268,8 +252,7 @@
         "D": "Araştırma",
         "E": "Analiz",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862221,
@@ -284,8 +267,7 @@
         "D": "Keşfetme cesareti sunma",
         "E": "Toplumu dönüştürme",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862222,
@@ -300,8 +282,7 @@
         "D": "Çeşitlendirme çalışmaları",
         "E": "Gözlemsel çalışmalar",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862223,
@@ -316,7 +297,6 @@
         "D": "Etkinlik Ajansı",
         "E": "Medya Ajansı",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

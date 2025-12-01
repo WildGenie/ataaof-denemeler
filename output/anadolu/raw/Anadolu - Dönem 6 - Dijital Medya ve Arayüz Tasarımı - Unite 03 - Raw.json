@@ -12,8 +12,7 @@
         "D": "<p>hata toleransı</p>",
         "E": "<p>erişilebilirlik </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594979,
@@ -28,8 +27,7 @@
         "D": "<p>hata toleransı</p>",
         "E": "<p>kullanılabilirlik metrikleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594981,
@@ -44,8 +42,7 @@
         "D": "<p>devamlılık</p>",
         "E": "<p>okunulabilirlik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594983,
@@ -60,8 +57,7 @@
         "D": "<p>Görsel hiyerarşi</p>",
         "E": "<p>Tipografi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594986,
@@ -76,8 +72,7 @@
         "D": "<p>kullanıcı odaklı yapı oluşturma</p>",
         "E": "<p>beyin fırtınası  </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594989,
@@ -92,8 +87,7 @@
         "D": "<p>UX, kullanıcı araştırmaları, kullanıcı senaryoları ve kullanıcı hikayeleri gibi stratejik ve araştırma odaklı süreçleri içerirken UI, renk şemaları gibi daha görsel ve estetik özelliklere odaklanır</p>",
         "E": "<p>UX, tipografi ve düzen gibi daha görsel özelliklere odaklanırken UI, kullanıcıların etkileşimde bulunduğu grafik ve yazılı tasarım ögelerine odaklanır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3595028,
@@ -108,8 +102,7 @@
         "D": "<p>kullanıcılardan geri bildirim alma</p>",
         "E": "<p>görsel hiyerarşi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3595032,
@@ -124,8 +117,7 @@
         "D": "<p>Cloud</p>",
         "E": "<p>DX</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3595034,
@@ -140,8 +132,7 @@
         "D": "<p>Geri bildirim döngüsü</p>",
         "E": "<p>Simetri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3595036,
@@ -156,7 +147,6 @@
         "D": "<p>devamlılık</p>",
         "E": "<p>okunulabilirlik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

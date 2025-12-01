@@ -12,8 +12,7 @@
         "D": "<p>Pasif okuma</p>",
         "E": "<p>Karşıt okuma</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833630,
@@ -28,8 +27,7 @@
         "D": "<p>Quintas</p>",
         "E": "<p>Dijk</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833631,
@@ -44,8 +42,7 @@
         "D": "<p>Kitle iletişimi özeldir.</p>",
         "E": "<p>İzleyici kitlesi farklı toplumsal kümelerden oluşur.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833632,
@@ -60,8 +57,7 @@
         "D": "<p>Medya işlevlerini bir araya getiren teknolojik bir süreç</p>",
         "E": "<p>Medya endüstrilerinin rekabeti</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833634,
@@ -76,8 +72,7 @@
         "D": "<p>Yazılı, sözlü ve performatif üretkenlik; metin, konuşma ve sahneleme yoluyla ortaya çıkar.</p>",
         "E": "<p>Dijital, analog ve melez üretkenlik; kullanılan medyaya göre sınıflandırılır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833635,
@@ -92,8 +87,7 @@
         "D": "<p>Yeni sosyal ağların ortaya çıkması</p>",
         "E": "<p>Zaman ve mekân kısıtlamalarının artması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833637,
@@ -108,8 +102,7 @@
         "D": "<p>Kültürel üretimin sınırlandırılması</p>",
         "E": "<p>Tüketici katılımının engellenmesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833640,
@@ -124,8 +117,7 @@
         "D": "<p>Tartışmacı</p>",
         "E": "<p>Muhalif</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833641,
@@ -140,8 +132,7 @@
         "D": "<p>Hikâyenin doğrusal bir yapıda anlatılması</p>",
         "E": "<p>Hikâyenin izleyici katılımı olmadan anlatılması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833642,
@@ -156,7 +147,6 @@
         "D": "<p>Henry Jenkins</p>",
         "E": "<p>Christian Fuchs</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

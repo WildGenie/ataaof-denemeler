@@ -12,8 +12,7 @@
         "D": "<p>Exports.</p> ",
         "E": "<p>After Effects.</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3593346,
@@ -28,8 +27,7 @@
         "D": "<p>Bin.</p>",
         "E": "<p>Subclip.</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3593347,
@@ -44,8 +42,7 @@
         "D": "<p>A-roll.</p> ",
         "E": "<p>Proxy</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3593348,
@@ -60,8 +57,7 @@
         "D": "<p>B-roll.</p> ",
         "E": "<p>Multi-cam.</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3593353,
@@ -76,8 +72,7 @@
         "D": "<p>Insert Edit.</p> ",
         "E": "<p>Multi-cam.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3593355,
@@ -92,8 +87,7 @@
         "D": "<p>Oyunculuk.</p> ",
         "E": "<p>Netlik</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3593368,
@@ -108,8 +102,7 @@
         "D": "<p>Bilim kurgu filmi.</p> ",
         "E": "<p>Müzik video.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3593370,
@@ -124,8 +117,7 @@
         "D": "<p>Dikey edit</p> ",
         "E": "<p>Transition edit.</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3593371,
@@ -140,8 +132,7 @@
         "D": "<p><span lang=\"TR\" style=\"font-family: 'Times New Roman',serif;\">D-roll.</span></p> ",
         "E": "<p><span lang=\"TR\" style=\"font-family: 'Times New Roman',serif;\">E-roll.</span></p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3593374,
@@ -156,8 +147,7 @@
         "D": "<p>Perdenin iki boyutlu yapısı.</p> ",
         "E": "<p>Duygu.</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598833,
@@ -172,8 +162,7 @@
         "D": "<p>Müzikler - sfx</p>",
         "E": "<p>Ses efektleri - music</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598839,
@@ -188,8 +177,7 @@
         "D": "<p>Offline</p>",
         "E": "<p>Label</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598842,
@@ -204,8 +192,7 @@
         "D": "<p>Label</p>",
         "E": "<p>Stok</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598860,
@@ -220,8 +207,7 @@
         "D": "<p>Pozlama ve renk ısısı</p>",
         "E": "<p>Yakın çekim olması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598862,
@@ -236,8 +222,7 @@
         "D": "<p>Zoom</p>",
         "E": "<p>Renk ısısı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598865,
@@ -252,8 +237,7 @@
         "D": "<p>Kompozisyon</p>",
         "E": "<p>Ses kalitesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598867,
@@ -268,8 +252,7 @@
         "D": "<p>Görüntü monitörü</p>",
         "E": "<p>Frekans monitörü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598870,
@@ -284,8 +267,7 @@
         "D": "<p>Uzun kurgu</p>",
         "E": "<p>Daraltılmış kurgu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598880,
@@ -300,8 +282,7 @@
         "D": "<p>Kliplerin aynı kamerayla çekilmiş olması</p>",
         "E": "<p>Kliplerin içeriğinde aynı sayıda oyuncu olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598900,
@@ -316,7 +297,6 @@
         "D": "<p>Ses kalitesi</p>",
         "E": "<p>Çekimdeki kişi sayısı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

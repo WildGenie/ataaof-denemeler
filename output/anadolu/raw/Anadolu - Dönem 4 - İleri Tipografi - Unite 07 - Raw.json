@@ -12,8 +12,7 @@
         "D": "<p>Yuvarlama</p>",
         "E": "<p>Boyama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487904,
@@ -28,8 +27,7 @@
         "D": "<p>Mısır</p>",
         "E": "<p>Hindistan</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487914,
@@ -44,8 +42,7 @@
         "D": "<p>Latin Alfabesi</p> ",
         "E": "<p>Roma Alfabesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487960,
@@ -60,8 +57,7 @@
         "D": "<p>Tasarımda önemli bazı temel kavramların farklılıklarını bilmek</p>",
         "E": "<p>Tasarımın her yönü ile diğer kavramlar ile benzer olamayacağını bilmek</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487961,
@@ -76,8 +72,7 @@
         "D": "<p>Tipografi harfleri çizme sanatıdır</p>",
         "E": "<p>Harfleme, harfleri kullanma sanatıdır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487962,
@@ -92,8 +87,7 @@
         "D": "<p>Tipografi ve harfleme sanatı</p>",
         "E": "<p>Resim sanatı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487963,
@@ -108,8 +102,7 @@
         "D": "<p>Kullanılan harfler ve şekillerin, malzeme ve tekniklerle boşluğun ahengini</p>",
         "E": "<p>Kelimeler, karakterler ve harfler arasındaki ilişki</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487964,
@@ -124,8 +117,7 @@
         "D": "<p>Ritim</p>",
         "E": "<p>Tasarım</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487966,
@@ -140,8 +132,7 @@
         "D": "<p>Calibri</p>",
         "E": "<p>Abadi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487967,
@@ -156,8 +147,7 @@
         "D": "<p>Tasarım</p>",
         "E": "<p>Belirteç</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487968,
@@ -172,8 +162,7 @@
         "D": "<p>İleri Kaligrafi</p>",
         "E": "<p>İleri Harfleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488059,
@@ -188,8 +177,7 @@
         "D": "<p>Litografi</p>",
         "E": "<p>Hiyeroglif</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488060,
@@ -204,8 +192,7 @@
         "D": "<p>Litografi</p>",
         "E": "<p>İllüstrasyon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488062,
@@ -220,8 +207,7 @@
         "D": "<p>Demotik yazı</p>",
         "E": "<p>Blackletter</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488068,
@@ -236,8 +222,7 @@
         "D": "<p>Blackletter</p>",
         "E": "<p>Harfleme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488104,
@@ -252,8 +237,7 @@
         "D": "<p>Tipografi, kaligrafi</p>",
         "E": "<p>Harfleme, tipografi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488105,
@@ -268,8 +252,7 @@
         "D": "<p>I, III, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488107,
@@ -284,8 +267,7 @@
         "D": "<p>I, III, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488111,
@@ -300,8 +282,7 @@
         "D": "<p>Tutarlılık</p>",
         "E": "<p>Düzen</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488113,
@@ -316,8 +297,7 @@
         "D": "<p>Giambattista Bodoni</p>",
         "E": "<p>Francois Ambroise Didot</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487903,
@@ -332,8 +312,7 @@
         "D": "<p>Lettering</p> ",
         "E": "<p>Harfleme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487905,
@@ -348,8 +327,7 @@
         "D": "<p>Tipografik yazı</p>",
         "E": "<p>Demotik yazı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487909,
@@ -364,8 +342,7 @@
         "D": "<p>Çizgi kalınlığı</p> ",
         "E": "<p>Çizgi ağırlığı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487911,
@@ -380,8 +357,7 @@
         "D": "<p>Harfleme</p>",
         "E": "<p>Kaligrafi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487912,
@@ -396,8 +372,7 @@
         "D": "<p>Silgi</p> ",
         "E": "<p>Cetvel</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487913,
@@ -412,8 +387,7 @@
         "D": "<p>Hat sanatı</p> ",
         "E": "<p>Brush Pen</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487959,
@@ -428,8 +402,7 @@
         "D": "<p>Yazı </p>",
         "E": "<p>Cümle</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488063,
@@ -444,8 +417,7 @@
         "D": "<p>Blackletter</p>",
         "E": "<p>Hiyeratik yazı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488066,
@@ -460,8 +432,7 @@
         "D": "<p>Demotik yazı</p>",
         "E": "<p>Copperplate</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488106,
@@ -476,8 +447,7 @@
         "D": "<p>Mezopotamya</p>",
         "E": "<p>Çin</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488108,
@@ -492,8 +462,7 @@
         "D": "<p>d</p>",
         "E": "<p>g</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487901,
@@ -508,8 +477,7 @@
         "D": "<p>Harfleme</p> ",
         "E": " <p>Kaligrafi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487965,
@@ -524,8 +492,7 @@
         "D": "<p>Lingual yazı</p>",
         "E": "<p>Kaligrafik yazı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488064,
@@ -540,8 +507,7 @@
         "D": "<p>Eric Gill</p>",
         "E": "<p>Stanley Morison</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488065,
@@ -556,8 +522,7 @@
         "D": "<p>Rık’a</p>",
         "E": "<p>Divani </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488112,
@@ -572,8 +537,7 @@
         "D": "<p>Tipografi</p>",
         "E": "<p>Lettering</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488061,
@@ -588,8 +552,7 @@
         "D": "<p>Sümer</p>",
         "E": "<p>Mezapotamya</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488067,
@@ -604,8 +567,7 @@
         "D": "<p>Italic</p>",
         "E": "<p>Kaligrafütürizm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488109,
@@ -620,8 +582,7 @@
         "D": "<p>Harfleme</p>",
         "E": "<p>Hüsn-i Hat</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488110,
@@ -636,7 +597,6 @@
         "D": "<p>Harflerin ve kelimelerin oluşturduğu temel vuruşlar, kaligrafiden farklıdır.</p>",
         "E": "<p>Tasarlanan veya çizilen bu çalışmalardan el yazısı alfabesi oluşturulduğunda, farklı durumlarda kullanılmaması gerekir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     }
 ]

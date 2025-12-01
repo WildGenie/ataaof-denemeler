@@ -12,8 +12,7 @@
         "D": "<p>Tetrarşi (tetrarhia)</p>",
         "E": "<p>Eklogi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851287,
@@ -28,8 +27,7 @@
         "D": "<p>10.</p>",
         "E": "<p>11.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851288,
@@ -44,8 +42,7 @@
         "D": "<p>Osmanlı hukukudur.</p>",
         "E": "<p>Roma hukukudur.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851290,
@@ -60,8 +57,7 @@
         "D": "<p>Bizans Fermanı</p>",
         "E": "<p>Atina Fermanı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851291,
@@ -76,8 +72,7 @@
         "D": "<p>Eklogi</p>",
         "E": "<p>Typikon</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851522,
@@ -92,8 +87,7 @@
         "D": "<p>Madenler, darphane, belirli vergilerin toplanması sistemidir</p>",
         "E": "<p>İmparator’un sınırsız mal varlığından, özellikle de geniş kiralık arazilerinden sorumlu olması durumudur</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852200,
@@ -108,8 +102,7 @@
         "D": "<p>Roma imparatorluk ordusunda disiplin ve talim ön plana çıkarken, ardılı olan Bizans ordusunda stratejinin temel dayanak olması sözleşmesidir</p>",
         "E": "<p>Bizans’ta yerel okuryazarlığın ve yazının yaygınlaşması, dini ve seküler kütüphanelerin kurulması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852201,
@@ -124,8 +117,7 @@
         "D": "<p>Hıristiyanlığın hoş görülmeye başlaması</p>",
         "E": "<p>Halkın İmparatorlukta uzun süren savaşlar, yoksulluk, asker kaçakları ve vergi gibi günlük hayatın yükümlülüklerinden kaçmak istemesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852208,
@@ -140,8 +132,7 @@
         "D": "<p>IV ve V</p>",
         "E": "<p>I ve V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852740,
@@ -156,8 +147,7 @@
         "D": "<p>Viyana Fermanı</p>",
         "E": "<p>Sofya Fermanı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852947,
@@ -172,8 +162,7 @@
         "D": "<p>Pakhomios</p>",
         "E": "<p>Eklogi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852950,
@@ -188,8 +177,7 @@
         "D": "<p>Cam</p>",
         "E": "<p>Ahşap</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853985,
@@ -204,8 +192,7 @@
         "D": "<p class=\"Default\">Yahudilik ve İslamı hoşgören bir anlayışa sahip olmuştur.</p> <p class=\"Default\"> </p>",
         "E": "<p>Heretiklere karşı tolerans gösteren bir düşünce yapısı gelişmiştir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2854022,
@@ -220,8 +207,7 @@
         "D": "<p>Perikop</p>",
         "E": "<p>Solidus</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857044,
@@ -236,8 +222,7 @@
         "D": "<p>395-1457</p>",
         "E": "<p>330-1455</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857051,
@@ -252,8 +237,7 @@
         "D": "<p>Ostrogotlar</p>",
         "E": "<p>Tatarlar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857111,
@@ -268,8 +252,7 @@
         "D": "<p>Eğitim üç dereceye ayrılmıştır.</p>",
         "E": "<p>Temel eğitimi kilise üstlenmiştir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857224,
@@ -284,8 +267,7 @@
         "D": "<p>Hıristiyan manastırcılığının ilk kurucusu olmuştur.</p>",
         "E": "<p>Manastırcılığı bugünkü biçimine yakınlaştırmıştır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857230,
@@ -300,8 +282,7 @@
         "D": "<p>Perikop</p>",
         "E": "<p>Menelogya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857232,
@@ -316,8 +297,7 @@
         "D": "<p>Kronikler</p>",
         "E": "<p>Bilimsel El Yazmaları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851284,
@@ -332,8 +312,7 @@
         "D": "<p>Eklogi</p>",
         "E": "<p>heretik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851285,
@@ -348,8 +327,7 @@
         "D": "<p>Tetrarşi</p>",
         "E": "<p>Senato</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851289,
@@ -364,8 +342,7 @@
         "D": "<p>Kalkolitik dönem</p>",
         "E": "<p>Aydınlık dönem</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851512,
@@ -380,8 +357,7 @@
         "D": "<p>Anadolu’nun özellikle orta ve doğu kısımları tarımdan çok hayvancılık için uygun olması</p>",
         "E": "<p>Balkanlara yakın olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852195,
@@ -396,8 +372,7 @@
         "D": "<p>IV. Yeni kanunlar “Novellae” </p> ",
         "E": "<p>V. Taç Giyme Töreni \"Skylitzes Kroniği\"</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852204,
@@ -412,8 +387,7 @@
         "D": "<p>Evlilikler genellikle yedinci derece akrabalık derecesine kadar uzanan yakın biyolojik ilişkiler arasında gerçekleşmemesine</p>",
         "E": "<p>Üst sınıf aileler genellikle evlilikleri servetlerini belirleyecek bir anlaşma olarak görmesine</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852210,
@@ -428,8 +402,7 @@
         "D": "<p>El yazmalarında metnin anlaşılmasını kolaylaştırmak için resimlere yer verilmesi</p>",
         "E": "<p>Genellikle manastır kitaplıklarında, saray ve kiliselerde korunduğu için</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852949,
@@ -444,8 +417,7 @@
         "D": "<p>Ceneviz</p>",
         "E": "<p>Makedonya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852953,
@@ -460,8 +432,7 @@
         "D": "<p>Sasaniler</p>",
         "E": "<p>Kıpçaklar </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852954,
@@ -476,8 +447,7 @@
         "D": "<p>Azizlerin yaşamları</p>",
         "E": "<p>Yerel halk</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853987,
@@ -492,8 +462,7 @@
         "D": "<p>Kıpçak</p>",
         "E": "<p>Vandal</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2854002,
@@ -508,8 +477,7 @@
         "D": "<p>Comes rei private</p>",
         "E": "<p>Praepositus sacri cubiculi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857227,
@@ -524,8 +492,7 @@
         "D": "<p>Epanogagi</p>",
         "E": "<p>Codex</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851292,
@@ -540,8 +507,7 @@
         "D": "<p>Vaftiz</p>",
         "E": "<p>Ölüm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851519,
@@ -556,8 +522,7 @@
         "D": "<p>Güney sınırı Struma Nehri</p> <p>Doğu sınırı Fırat Nehri</p>",
         "E": "<p>Güney sınırı Struma Nehri</p> <p>Batı sınırı Mesta Nehri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851526,
@@ -572,8 +537,7 @@
         "D": "<p>Tetrarşi: İmparator Diokletianus, dört başlı manasında tetrarhia denilen yeni bir yönetim sistemi kurmuştur. Bu sisteme göre imparatorluğu iki agustus ve iki (Caesar) sezar birlikte yöneteceklerdi. Agustuslardan biri imparatorluğun batısına diğeri ise doğusuna hükmedecekti.</p>",
         "E": "<p>Praepositus sacri cubiculi: Mabeyinci, haremağası, imparatora ulaşımı kontrol eden kişidir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852735,
@@ -588,8 +552,7 @@
         "D": "<p>Emeviler</p>",
         "E": "<p>Abbasiler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2854008,
@@ -604,8 +567,7 @@
         "D": "<p>Eğitim tüm vatandaşlara sunulan bir hizmettir.</p>",
         "E": "<p>Ordu tümüyle hükümdara bağlı bir örgüttür.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852737,
@@ -620,8 +582,7 @@
         "D": "<p>Epanagogi</p>",
         "E": "<p>Senato</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2854094,
@@ -636,8 +597,7 @@
         "D": "<p class=\"Default\">İkona</p> <p class=\"Default\"> </p>",
         "E": "<p>Ökaristi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851283,
@@ -652,8 +612,7 @@
         "D": "<p>19.</p>",
         "E": "<p>13.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853994,
@@ -668,8 +627,7 @@
         "D": "<p>Suriye</p>",
         "E": "<p>Mısır</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2854016,
@@ -684,8 +642,7 @@
         "D": "<p>Eklogi</p>",
         "E": "<p>Heretik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857068,
@@ -700,8 +657,7 @@
         "D": "<p>Eklogi</p>",
         "E": "<p>magister officiorum</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852732,
@@ -716,8 +672,7 @@
         "D": "<p>Selçuklular</p>",
         "E": "<p>Göktürkler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853997,
@@ -732,8 +687,7 @@
         "D": "<p>Heretik</p> ",
         "E": "<p>Senato</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857077,
@@ -748,8 +702,7 @@
         "D": "<p>Kırbaç cezası</p>",
         "E": "<p>Uzuv kesme cezası</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857226,
@@ -764,8 +717,7 @@
         "D": "<p>El yazması çoğaltma</p>",
         "E": "<p>Rahiplerin el emeği</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2854012,
@@ -780,8 +732,7 @@
         "D": "<p>Kayserili Basileios</p>",
         "E": "<p>Theodosios</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852733,
@@ -796,7 +747,6 @@
         "D": "<p>İmparator Herakleios</p>",
         "E": "<p>II. Iustinianus</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     }
 ]

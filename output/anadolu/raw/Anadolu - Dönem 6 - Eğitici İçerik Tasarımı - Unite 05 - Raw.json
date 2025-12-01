@@ -12,8 +12,7 @@
         "D": "<p>Analog süreç</p>",
         "E": "<p>Analog sistem</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763675,
@@ -28,8 +27,7 @@
         "D": "<p>Fiber optik bağlantı</p>",
         "E": "<p>Arama motorları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763676,
@@ -44,8 +42,7 @@
         "D": "<p>Dijitalleşme</p>",
         "E": "<p>Dergi yayımcılığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763740,
@@ -60,8 +57,7 @@
         "D": "<p>Play</p>",
         "E": "<p>Eğlenerek öğrenme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763741,
@@ -76,8 +72,7 @@
         "D": "<p>E-öğrenme içeriği oluşturmaya yardımcı olurlar</p>",
         "E": "<p>Vektörel tasarım yaparlar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763742,
@@ -92,8 +87,7 @@
         "D": "<p>Database</p>",
         "E": "<p>Gigabayt</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763743,
@@ -108,8 +102,7 @@
         "D": "<p>Kurumsal gelişim</p>",
         "E": "<p>Materyal üretimi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763744,
@@ -124,8 +117,7 @@
         "D": "<p>Video görüntüsünün online arşivlerde çok fazla yer kapladığı için</p>",
         "E": "<p>Maliyetleri artıracağı için</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763745,
@@ -140,8 +132,7 @@
         "D": "<p>Fen bilimlerine dayalı eğitimin güçlenmesi</p>",
         "E": "<p>Uzaktan eğitimin yaygınlaşması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763746,
@@ -156,8 +147,7 @@
         "D": "<p>Yarı-zamanlı eğitim</p>",
         "E": "<p>Alternatif eğitim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763953,
@@ -172,8 +162,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>I, II ve III </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763954,
@@ -188,8 +177,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>I, II, III ve IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763955,
@@ -204,8 +192,7 @@
         "D": "<p>Hızlı geri bildirim sağlanması</p>",
         "E": "<p>Yüksek beklentilerin karşılanması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763956,
@@ -220,8 +207,7 @@
         "D": "<p>Katılım</p>",
         "E": "<p>Oyunlaştırma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763957,
@@ -236,8 +222,7 @@
         "D": "<p>Alıştırmalar tek bir yerde sunulur. </p>",
         "E": "<p>İçerik, öğrenenlerin kontrolüne sahip olduğu kısa diziler halinde sunulur.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763960,
@@ -252,8 +237,7 @@
         "D": "<p>III ve IV</p>",
         "E": "<p>I, II, III ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763961,
@@ -268,8 +252,7 @@
         "D": "<p>Sosyal Ağ</p>",
         "E": "<p>Yapay Zeka</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763962,
@@ -284,8 +267,7 @@
         "D": "<p>Sakai - Metaverse  </p>",
         "E": "<p>JigSpace - Artırılmış Gerçeklik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763963,
@@ -300,8 +282,7 @@
         "D": "<p>Sürdürülebilirlik</p>",
         "E": "<p>Öğrenme ve pedagojik gereksinimler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763964,
@@ -316,7 +297,6 @@
         "D": "<p>STEM yaklaşımı teori yerine pratiğe öncelik vererek, çocuklara çevreleriyle etkileşim kurabilecekleri ve gerçek dünya problemleri üzerinde çalışabilecekleri bir öğrenme ortamı sunar.</p>",
         "E": "<p>Veri madenciliği öğrenenler ve diğer sistemler hakkında verilerin ölçülmesi, toplanması, analizi ve raporlanmasıyla öğrenmeyi ve öğrenmenin gerçekleştiği ortamları anlamayı ve optimize etmeyi amaçlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

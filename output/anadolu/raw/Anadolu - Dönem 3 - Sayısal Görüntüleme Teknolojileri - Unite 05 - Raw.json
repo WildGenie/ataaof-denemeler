@@ -12,8 +12,7 @@
         "D": "<p>Manzara çekimi</p> ",
         "E": "<p>Ayrıntılı yakın çekim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353165,
@@ -28,8 +27,7 @@
         "D": "<p>Manuel mod</p>",
         "E": "<p>Enstantane önceliği modu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353167,
@@ -44,8 +42,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353170,
@@ -60,8 +57,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353171,
@@ -76,8 +72,7 @@
         "D": "<p>DSLR</p>",
         "E": "<p>HDTV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353172,
@@ -92,8 +87,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353176,
@@ -108,8 +102,7 @@
         "D": "<p>Diyafram ve enstantane ayarlarlarına müdahale etme imkânı yoktur</p> ",
         "E": "<p>Otomatik’ten çok daha  az hassas bir kontrole sahiptir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353177,
@@ -124,8 +117,7 @@
         "D": "<p>Tg</p> ",
         "E": "<p>Ta</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353179,
@@ -140,8 +132,7 @@
         "D": "<p>Alan derinliği, sığ alan derinliği ve geniş alan derinliği</p> ",
         "E": "<p>Diyafram, konuya yakınlık ve kullanılan filtre</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353180,
@@ -156,8 +147,7 @@
         "D": "<p>I,II,III,IV</p>",
         "E": "<p>II,III,IV,V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353181,
@@ -172,8 +162,7 @@
         "D": "<p>Işığın sensöre çarpmasına izin verilen süreyi 3 katı  artırır</p> ",
         "E": "<p>Işığın sensöre çarpmasına izin verilen süre değişmez</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353184,
@@ -188,8 +177,7 @@
         "D": "<p><span id=\"page18R_mcid152\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 94.4882px; top: 188.151px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.895945);\">Enstantane Önceliği (S veya Tv)</span></span></p>",
         "E": "<p><span id=\"page18R_mcid152\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 94.4882px; top: 188.151px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.895945);\">Açıklık Önceliği (A veya Av)</span></span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353185,
@@ -204,8 +192,7 @@
         "D": "<p><span id=\"page18R_mcid152\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 94.4882px; top: 188.151px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.895945);\">Açıklık Önceliği Modu (A veya Av)</span></span></p>",
         "E": "<p><span id=\"page18R_mcid152\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 94.4882px; top: 188.151px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.895945);\">Manuel Modu (M)<br /></span></span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353186,
@@ -220,8 +207,7 @@
         "D": "<p><span id=\"page18R_mcid151\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 94.4882px; top: 166.484px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.959377);\">Auto Mod (otomatik)</span></span></p>",
         "E": "<p><span id=\"page18R_mcid151\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 94.4882px; top: 166.484px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.959377);\">Program Modu (P)</span></span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353187,
@@ -236,8 +222,7 @@
         "D": "<p><span id=\"page36R_mcid464\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 132.284px; top: 1016.24px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.975542);\">Pozlama</span></span><span id=\"page36R_mcid467\" class=\"markedContent\"></span></p>",
         "E": "<p><span id=\"page36R_mcid464\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 132.284px; top: 1016.24px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.975542);\">Diyafram</span></span><span id=\"page36R_mcid467\" class=\"markedContent\"></span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353188,
@@ -252,8 +237,7 @@
         "D": "<p><span id=\"page36R_mcid491\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 493.701px; top: 873.347px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.942357);\">Enstantane<br /></span></span></p>",
         "E": "<p><span id=\"page36R_mcid499\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 493.701px; top: 1025.01px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.976043);\">Diyafram</span></span></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353189,
@@ -268,8 +252,7 @@
         "D": "<p><span id=\"page36R_mcid491\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 493.701px; top: 873.347px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.942357);\">Pozlama</span></span></p>",
         "E": "<p><span id=\"page36R_mcid491\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 493.701px; top: 873.347px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.942357);\">Aydınlatma</span></span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353190,
@@ -284,8 +267,7 @@
         "D": "<p><span id=\"page95R_mcid800\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 132.284px; top: 819.26px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.970062);\">Diyafram</span></span></p>",
         "E": "<p><span id=\"page95R_mcid800\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 132.284px; top: 819.26px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.970062);\">Pozlama<br /></span></span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353191,
@@ -300,8 +282,7 @@
         "D": "<p><span id=\"page132R_mcid957\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 132.284px; top: 458.552px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.930016);\">Aşırı Pozlama</span></span><span id=\"page132R_mcid961\" class=\"markedContent\"></span></p>",
         "E": "<p><span id=\"page132R_mcid957\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 132.284px; top: 458.552px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.930016);\">Aydınlatma</span></span><span id=\"page132R_mcid961\" class=\"markedContent\"></span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353193,
@@ -316,8 +297,7 @@
         "D": "<p><span id=\"page174R_mcid1357\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 503.15px; top: 659.824px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.998888);\">Enstantene</span></span></p>",
         "E": "<p><span id=\"page174R_mcid1357\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 503.15px; top: 659.824px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.998888);\">Histogram </span></span></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353166,
@@ -332,8 +312,7 @@
         "D": "<p>25</p>",
         "E": "<p>30</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353168,
@@ -348,8 +327,7 @@
         "D": "<p>2</p>",
         "E": "<p>2.1/2</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353174,
@@ -364,8 +342,7 @@
         "D": "<p>Manuel mod</p>",
         "E": "<p>Spontane mod</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353175,
@@ -380,8 +357,7 @@
         "D": "<p>Açıklık önceliği</p>",
         "E": "<p>Manuel mod</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353178,
@@ -396,8 +372,7 @@
         "D": "<p>Enstantane önceliği modu</p> ",
         "E": "<p>Renk önceliği modu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353182,
@@ -412,8 +387,7 @@
         "D": "<p>Diyafram</p> ",
         "E": "<p>Konu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353183,
@@ -428,8 +402,7 @@
         "D": "<p>I,II,III</p>",
         "E": "<p>III,IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353192,
@@ -444,8 +417,7 @@
         "D": "<p><span id=\"page139R_mcid1191\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 132.284px; top: 1015.84px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.948727);\">Alan derinliği</span></span></p>",
         "E": "<p><span id=\"page139R_mcid1191\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 132.284px; top: 1015.84px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.948727);\">Aydınlatma</span></span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353173,
@@ -460,8 +432,7 @@
         "D": "<p>Program modu</p>",
         "E": "<p>Manuel çekim modu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353169,
@@ -476,7 +447,6 @@
         "D": "<p>Matris ölçümü</p>",
         "E": "<p>Spot ölçüm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     }
 ]

@@ -2280,6 +2280,26 @@
         "Aciklama": "Hatti (Anadolu) Kökenli Mitler<br>Elkunirşa"
     },
     {
+        "SoruID": 3375230,
+        "SoruMetni": "Hurri Kökenli Mitler Hurriceden Hittitçeye uyarlanmıştır. Aşağıda başlıkları verilmiş olan efsaneler birbiriyle ilişkilidir. Bu efsanelerin ana konusunu; Kumarbi ve Fırtına Tanrısı Teşup’un tanrılar üzerinde bir krallık elde etmek için verdiği mücadele oluşturmaktadır.<br/>Aşağıda yer alan efsanelerden hangisi Hurri Kökenli Mitler başlığı altında yer almaz?",
+        "A": "Kuliwişna",
+        "B": "Kumarbi",
+        "C": "Tanrı LAMA’nın Şarkısı",
+        "D": "Gümüş’ün Şarkısı",
+        "E": "Hedammu Şarkısı",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 3,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:15:26.874623",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Hurri Kökenli Mitler<br>Kuliwişna"
+    },
+    {
         "SoruID": 3375231,
         "SoruMetni": "Aşağıda sıraladığımız masallardan hangisi Ullikummi Şarkısı altında sınıflandırılan masallardan biri değildir?",
         "A": "Lihzina kenti Fırtına Tanrısı",

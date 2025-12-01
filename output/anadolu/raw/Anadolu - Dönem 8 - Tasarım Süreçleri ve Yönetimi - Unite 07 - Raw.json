@@ -12,8 +12,7 @@
         "D": "<p>Evrensel Tasarım, Kapsayıcı Tasarım</p>",
         "E": "<p>Kapsayan Tasarım</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831362,
@@ -28,8 +27,7 @@
         "D": "<p>Chapin</p>",
         "E": "<p>Gilmoor</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831365,
@@ -44,8 +42,7 @@
         "D": "<p>1986</p>",
         "E": "<p>1987</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831367,
@@ -60,8 +57,7 @@
         "D": "<p>Tokyo</p>",
         "E": "<p>İstanbul</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831370,
@@ -76,8 +72,7 @@
         "D": "<p>Yaşam döngüsü</p>",
         "E": "<p>Tasarım döngüsü</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831372,
@@ -92,8 +87,7 @@
         "D": "<p>3</p>",
         "E": "<p>4</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831374,
@@ -108,8 +102,7 @@
         "D": "<p>%89</p>",
         "E": "<p>%96</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831375,
@@ -124,8 +117,7 @@
         "D": "<p>FRB</p>",
         "E": "<p>WİF</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831376,
@@ -140,8 +132,7 @@
         "D": "<p>Tony</p>",
         "E": "<p>Lego</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831377,
@@ -156,7 +147,6 @@
         "D": "<p>Michael Jackson</p>",
         "E": "<p>Bob Geldof</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>I, II, III</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641395,
@@ -28,8 +27,7 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641396,
@@ -44,8 +42,7 @@
         "D": "<p>II, III, IV, V</p>",
         "E": "<p>I, II, III, IV, V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641400,
@@ -60,8 +57,7 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641460,
@@ -76,8 +72,7 @@
         "D": "<p>Kültür</p>",
         "E": "<p>Bilgisayar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641464,
@@ -92,8 +87,7 @@
         "D": "<p>Oyun sanatı</p>",
         "E": "<p>Sanal gerçeklik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641474,
@@ -108,8 +102,7 @@
         "D": "<p>Roden</p>",
         "E": "<p>Giloth</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641477,
@@ -124,8 +117,7 @@
         "D": "<p>John Cage</p>",
         "E": "<p>Joseph Beuys</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641478,
@@ -140,8 +132,7 @@
         "D": "<p>Fluxus</p>",
         "E": "<p>Sürrealizm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641479,
@@ -156,8 +147,7 @@
         "D": "<p>edu.org</p>",
         "E": "<p>Jodi.org</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641491,
@@ -172,8 +162,7 @@
         "D": "<p>Özgür yurttaş</p> ",
         "E": "<p>Konsül</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641492,
@@ -188,8 +177,7 @@
         "D": "<p>J.M. Daguerreo</p>",
         "E": "<p>Paul Delaroche</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641494,
@@ -204,8 +192,7 @@
         "D": "<p>(II); ve (IV)</p> ",
         "E": "<p>(III); ve (IV)</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641496,
@@ -220,8 +207,7 @@
         "D": "<p>Sanat eserlerinde şok edici, isyankar ve saçma - beklenmedik karakteristikler ön plana çıkmaktadır</p> ",
         "E": "<p>Bir sanat akımı olarak tanımlanmaktan ziyade dahil olan sanatçıların ortak bir tavrı olarak görülmektedir</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641498,
@@ -236,8 +222,7 @@
         "D": "<p>C. Csuri</p>",
         "E": "<p>P. Modrian</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641499,
@@ -252,8 +237,7 @@
         "D": "<p>Dijital enstalasyonun uygulamada kullanılmaya başlanması</p>",
         "E": "<p>Bilgisayarlı ışık ve ses düzenlemelerinin ortaya çıkışı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641566,
@@ -268,8 +252,7 @@
         "D": "<p>Uçak</p>",
         "E": "<p>Yatak</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641569,
@@ -284,8 +267,7 @@
         "D": "<p>Postmodern sanat</p>",
         "E": "<p>Kavramsal sanat</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641571,
@@ -300,8 +282,7 @@
         "D": "<p>Bozunma sanatı</p>",
         "E": "<p>Yazılım sanatı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641572,
@@ -316,8 +297,7 @@
         "D": "<p>Etkileşimli sanat</p>",
         "E": "<p>Bozunma sanatı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641390,
@@ -332,8 +312,7 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641393,
@@ -348,8 +327,7 @@
         "D": "<p>I, II, III</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641402,
@@ -364,8 +342,7 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641463,
@@ -380,8 +357,7 @@
         "D": "<p>Tekrar ortamlandırma</p>",
         "E": "<p>Boyutlandırma </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641465,
@@ -396,8 +372,7 @@
         "D": "<p>Etkileşimli sanat</p>",
         "E": "<p>Taktiksel medya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641493,
@@ -412,8 +387,7 @@
         "D": "<p>Alan Turing</p>",
         "E": "<p>Oliver Grau</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641495,
@@ -428,8 +402,7 @@
         "D": "<p>BEFLIX</p> ",
         "E": "<p>ENIAC</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641497,
@@ -444,8 +417,7 @@
         "D": "<p>G. Kepes</p> ",
         "E": "<p>L. Shwartz</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641500,
@@ -460,8 +432,7 @@
         "D": "<p>Internetin basit bir ortam yoluyla sanat üretimine katkıda bulunması</p> ",
         "E": "<p>Internette hazır bulunan kodların kullanımı</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641570,
@@ -476,8 +447,7 @@
         "D": "<p>Tekrar ortamlandırma</p>",
         "E": "<p>Simüle edilmiş ortam</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641573,
@@ -492,8 +462,7 @@
         "D": "<p>Sanatın tekil nesneleri dışlanarak, düşünce ön plana konulmuştur.</p>",
         "E": "<p>Estetikten önce düşünsel bir algılama yapılması gerekmektedir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641574,
@@ -508,8 +477,7 @@
         "D": "<p>Işık sanatı</p>",
         "E": "<p>Feminist sanat</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641392,
@@ -524,8 +492,7 @@
         "D": "<p>II, III, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641397,
@@ -540,8 +507,7 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641461,
@@ -556,8 +522,7 @@
         "D": "<p>Geleneksel olması</p>",
         "E": "<p>Basılı içerik üretmesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641462,
@@ -572,8 +537,7 @@
         "D": "<p><br />Analog olması</p>",
         "E": "<p>Geleneksel olması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641567,
@@ -588,8 +552,7 @@
         "D": "<p>Ana tanrıça heykelleri</p>",
         "E": "<p>Tapınaklar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641568,
@@ -604,8 +567,7 @@
         "D": "<p>Analog olması</p>",
         "E": "<p>Sayısal öğelerden bağımsız olması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641394,
@@ -620,8 +582,7 @@
         "D": "<p>I, II, III, IV</p>",
         "E": "<p>I, II, III, IV, V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641565,
@@ -636,7 +597,6 @@
         "D": "<p>Yeteneği olan kimseler, özel okullarda eğitim görürdü.</p>",
         "E": "<p>Yüksek değer atfedilen sanatçıların eserleri güç sahibi kimselerin özel alanlarında sergilenebilirdi.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     }
 ]

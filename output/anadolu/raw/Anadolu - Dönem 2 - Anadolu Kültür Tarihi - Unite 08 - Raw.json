@@ -12,8 +12,7 @@
         "D": "<p class=\"Default\"><span style=\"font-size: 11.0pt; color: windowtext;\">Din</span></p>",
         "E": "<p><span style=\"font-size: 11.0pt; color: #211d1e;\">Siyasi durum</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853150,
@@ -28,8 +27,7 @@
         "D": "<p>Irkçılık ve ülkücülük</p> ",
         "E": "<p>Laiklik ve milliyetçilik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853151,
@@ -44,8 +42,7 @@
         "D": "<p>Ekonomik durum ve siyasi görüş</p> ",
         "E": "<p>Ülkücülük ve dini görüş</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853158,
@@ -60,8 +57,7 @@
         "D": "<p>Eğitim sistemindeki reformlar</p> ",
         "E": "<p>SSCB ülkeleri ile ilişkiler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853164,
@@ -76,8 +72,7 @@
         "D": "<p class=\"Pa32\" style=\"text-align: justify; margin: 0cm 0cm 1.0pt 14.0pt;\"><span style=\"font-size: 10.5pt;\">Cumhuriyet rejimin sembollerinin yansıtması</span></p> <p class=\"Pa32\" style=\"text-align: justify; margin: 0cm 0cm 1.0pt 14.0pt;\"><span style=\"font-size: 10.5pt; color: #211d1e;\"> </span></p>",
         "E": "<p><span style=\"font-size: 10.5pt; color: #211d1e;\">Geçmişle ve modern kültürün sentezi </span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853168,
@@ -92,8 +87,7 @@
         "D": "<p>Arap musikisini halka benimsetmek</p> ",
         "E": "<p>Arabesk musikisi yöntemlerini yayacak öğretmenleri yetiştirmek</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853171,
@@ -108,8 +102,7 @@
         "D": "<p>Gelişmiş sanayi yapılaşması</p> ",
         "E": "<p>Etnik, dinsel ve dilsel kozmopolit kültürel yapısı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856387,
@@ -124,8 +117,7 @@
         "D": "<p>III, IV ve V</p>",
         "E": "<p>II, III ve IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856390,
@@ -140,8 +132,7 @@
         "D": "<p>I ve IV</p>",
         "E": "<p>II, III ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856396,
@@ -156,8 +147,7 @@
         "D": "<p>Medeni Kanun</p>",
         "E": "<p>Tevhid-i Tedrisat Kanunu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856408,
@@ -172,8 +162,7 @@
         "D": "<p>Halk Dershaneleri ve Kurslar</p>",
         "E": "<p>Türk Ocakları</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856409,
@@ -188,8 +177,7 @@
         "D": "<p>Tek partili dönem</p>",
         "E": "<p>Reformlar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856413,
@@ -204,8 +192,7 @@
         "D": "<p>Yemek</p>",
         "E": "<p>Hayat tarzı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856617,
@@ -220,8 +207,7 @@
         "D": "<p>1928</p>",
         "E": "<p>1927</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856744,
@@ -236,8 +222,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>Sadece II</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858363,
@@ -252,8 +237,7 @@
         "D": "<p>Kent merkezli gayrimüslimler,  </p> ",
         "E": "<p>Kırsal alanda yerleşik olan Müslüman nüfus, </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858440,
@@ -268,8 +252,7 @@
         "D": "<p>Şairler tarafından</p>",
         "E": "<p>Sanayiciler tarafından</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858480,
@@ -284,8 +267,7 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859367,
@@ -300,8 +282,7 @@
         "D": "<p>Darü’l-Bedayi</p>",
         "E": "<p>Tatbiki Güzel Sanatlar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859464,
@@ -316,8 +297,7 @@
         "D": "<p>Sadece II</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853153,
@@ -332,8 +312,7 @@
         "D": "<p>Şapka reformu</p> ",
         "E": "<p>Nüfus Mübadelesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856399,
@@ -348,8 +327,7 @@
         "D": "<p>Geleneksel musikinin ve çalgıların yasaklanması</p>",
         "E": "<p>Sanayi-i Nefise Mektebi’nin Güzel Sanatlar Akademisi’ne dönüştürülmesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856404,
@@ -364,8 +342,7 @@
         "D": "<p>Dil, Tarih ve Edebiyat şubesi</p>",
         "E": "<p>Temsil</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856519,
@@ -380,8 +357,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856613,
@@ -396,8 +372,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856681,
@@ -412,8 +387,7 @@
         "D": "<p>Sadece III</p>",
         "E": "<p>Sadece I</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856696,
@@ -428,8 +402,7 @@
         "D": "<p>Sadece II</p>",
         "E": "<p>Sadece I</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857207,
@@ -444,8 +417,7 @@
         "D": "<p>IV</p>",
         "E": "<p>II-IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858408,
@@ -460,8 +432,7 @@
         "D": "<p>IV-Erken Cumhuriyet döneminde devletin ve toplumun dayandığı kültürel yapının temellerini değiştirmek üzere, geniş alana<br />yayılan reformlar yapılmıştır. </p> ",
         "E": "<p>V-Osmanlı İmparatorluğu’ndan Türkiye Cumhuriyeti’ne geçen toplumsal ve kültürel miras tamamen reddedilmiştir. </p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858495,
@@ -476,8 +447,7 @@
         "D": "<p>1930 yılında</p>",
         "E": "<p>1936 yılında</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858594,
@@ -492,8 +462,7 @@
         "D": "<p>Avusturyalı Heykeltraş Josef Thorak</p>",
         "E": "<p>Avusturyalı Heykeltraş Anton Hanak ve Josef Thorak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858611,
@@ -508,8 +477,7 @@
         "D": "<p>Clemens Holzmeister</p>",
         "E": "<p>Clemens Bosch</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853152,
@@ -524,8 +492,7 @@
         "D": "<p>Diyanet Departmanı</p> ",
         "E": "<p>Diyanet Komisyonu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856643,
@@ -540,8 +507,7 @@
         "D": "<p>Darü’l-Bedayi</p>",
         "E": "<p>Darü’l-Elhan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858540,
@@ -556,8 +522,7 @@
         "D": "<p>I-II-III-IV-</p>",
         "E": "<p>I-II-III-IV-V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858582,
@@ -572,8 +537,7 @@
         "D": "<p>Tiyatro</p>",
         "E": "<p>Opera ve Bale</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853161,
@@ -588,8 +552,7 @@
         "D": "<p class=\"Default\">Eğitim seviyesinin yükselmesi</p>\n<p class=\"Default\"> </p>",
         "E": "<p>Ekonomik refah</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856400,
@@ -604,8 +567,7 @@
         "D": "<p>Güzel sanatlar</p>",
         "E": "<p>İçtimai</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856415,
@@ -620,8 +582,7 @@
         "D": "<p>Amerikanlaşma</p>",
         "E": "<p>Halk evleri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859412,
@@ -636,7 +597,6 @@
         "D": "<p>I ve II</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

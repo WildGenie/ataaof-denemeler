@@ -12,8 +12,7 @@
         "D": "<p>Kullanılan araç gereçler</p>",
         "E": "<p>Zihinsel işleme farklılıkları</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763343,
@@ -28,8 +27,7 @@
         "D": "<p>İstatistiksel Bilgigrafileri</p>",
         "E": "<p>Öğretici Bilgigrafileri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763344,
@@ -44,8 +42,7 @@
         "D": "<p>Zaman Çizelgesi Bilgigrafileri</p>",
         "E": "<p>Süreç Bilgigrafileri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763345,
@@ -60,8 +57,7 @@
         "D": "<p>Mikro-makro okuma</p>",
         "E": "<p>Zaman ve mekân kullanarak anlatım</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763346,
@@ -76,8 +72,7 @@
         "D": "<p>Parçalara ayırarak anlatım</p>",
         "E": "<p>Doku ve renk kullanarak anlatım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763347,
@@ -92,8 +87,7 @@
         "D": "<p>Çizilebilir</p>",
         "E": "<p>Video</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763348,
@@ -108,8 +102,7 @@
         "D": "<p>Tasarımın temel ve yaygın biçemlerinden birini oluşturur.</p>",
         "E": "<p>Çevrimiçi paylaşması en kolay formattır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763349,
@@ -124,8 +117,7 @@
         "D": "<p>Yakınlaştırılabilir</p>",
         "E": "<p>Hareketlendirilmiş</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763350,
@@ -140,8 +132,7 @@
         "D": "<p>Bilgileri daha fazla detayla keşfetmelerine olanak tanır.</p>",
         "E": "<p>Temel bir görüntü veya ana hikâye sunar.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763351,
@@ -156,8 +147,7 @@
         "D": "<p>Statik</p>",
         "E": "<p>Video</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763569,
@@ -172,8 +162,7 @@
         "D": "<p>II-III-IV</p>",
         "E": "<p>I-II-III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763570,
@@ -188,8 +177,7 @@
         "D": "<p>Hikayesel anlatımlar</p>",
         "E": "<p>İstatistik bilgiler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763571,
@@ -204,8 +192,7 @@
         "D": "<p>Süreç Bilgigrafiler</p>",
         "E": "<p>Akış Şeması Bilgigrafiler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763572,
@@ -220,8 +207,7 @@
         "D": "<p>Anatomi bilgigrafi</p>",
         "E": "<p>Akış şeması bilgigrafi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763573,
@@ -236,8 +222,7 @@
         "D": "<p>Süreç Bilgigrafileri</p>",
         "E": "<p>Bilgi ve konum bilgigrafileri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763574,
@@ -252,8 +237,7 @@
         "D": "<p>Akış şeması bilgigrafileri</p>",
         "E": "<p>Anatomi bilgigrafileri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763575,
@@ -268,8 +252,7 @@
         "D": "<p>Dijital</p>",
         "E": "<p>Teknolojik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763576,
@@ -284,8 +267,7 @@
         "D": "<p>Mikro-makro okuma </p>",
         "E": "<p>Zaman ve mekân kullanarak anlatım </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763577,
@@ -300,8 +282,7 @@
         "D": "<p>Belirli ürünlerin günlük performansını değerlendirmeyi içerir</p>",
         "E": "<p>Özel müşteri segmentlerinin satın alma davranışlarını analiz etmeyi gerektirir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763578,
@@ -316,7 +297,6 @@
         "D": "<p>Etkileşimli bilgigrafilerinden</p>",
         "E": "<p>Tıklanabilir bilgigrafilerinden</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

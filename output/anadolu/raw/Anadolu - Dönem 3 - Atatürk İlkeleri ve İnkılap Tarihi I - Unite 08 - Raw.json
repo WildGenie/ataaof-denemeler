@@ -12,8 +12,7 @@
         "D": "<p>İtilaf devletleri</p>",
         "E": "<p>İttifak devletleri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887501,
@@ -28,8 +27,7 @@
         "D": "<p>İngiltere</p>",
         "E": "<p>Yunanistan</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887502,
@@ -44,8 +42,7 @@
         "D": "<p>Yunanistan</p>",
         "E": "<p>Mısır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887507,
@@ -60,8 +57,7 @@
         "D": "<p>1925</p>",
         "E": "<p>1926</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887512,
@@ -76,8 +72,7 @@
         "D": "<p>Afganistan</p>",
         "E": "<p>Yunanistan</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887513,
@@ -92,8 +87,7 @@
         "D": "<p>Fransa-ABD</p>",
         "E": "<p>İran-Afganistan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887514,
@@ -108,8 +102,7 @@
         "D": "<p>İskenderun Sancağı (Hatay)</p>",
         "E": "<p>Musul </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887515,
@@ -124,8 +117,7 @@
         "D": "<p>Romanya</p>",
         "E": "<p>Yugoslavya</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887516,
@@ -140,8 +132,7 @@
         "D": "<p>Bulgaristan</p>",
         "E": "<p>İngiltere</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887518,
@@ -156,8 +147,7 @@
         "D": "<p>Varşova Paktı</p>",
         "E": "<p>CENTO</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887520,
@@ -172,8 +162,7 @@
         "D": "<p>Anadolu-Bağdat Demiryolunun millileştirilmesi</p>",
         "E": "<p>İstanbul'un boşaltılması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887526,
@@ -188,8 +177,7 @@
         "D": "<p>1935</p>",
         "E": "<p>1938</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887527,
@@ -204,8 +192,7 @@
         "D": "<p>Bağımsız Milletler Topluluğu</p>",
         "E": "<p>Üçlü İttifak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887533,
@@ -220,8 +207,7 @@
         "D": "<p>İzmir</p>",
         "E": "<p>Eskişehir</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887537,
@@ -236,8 +222,7 @@
         "D": "<p>Hakem ve Uzlaşma Antlaşması </p>",
         "E": "<p>Dostluk ve İşbirliği Antlaşması </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887538,
@@ -252,8 +237,7 @@
         "D": "<p>Lozan Barış Antlaşması</p>",
         "E": "<p>Hakemlik ve Uzlaştırma Antlaşması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887539,
@@ -268,8 +252,7 @@
         "D": "<p>Bulgaristan</p>",
         "E": "<p>Yugoslavya</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887540,
@@ -284,8 +267,7 @@
         "D": "<p>1938</p>",
         "E": "<p>1939</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887541,
@@ -300,8 +282,7 @@
         "D": "<p>13 Mart 1934</p>",
         "E": "<p>25 Mayıs 1935</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887542,
@@ -316,8 +297,7 @@
         "D": "<p>Irak</p>",
         "E": "<p>İran</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887499,
@@ -332,8 +312,7 @@
         "D": "<p>Antirevizyonist devletler</p>",
         "E": "<p>İtilaf devletleri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887500,
@@ -348,8 +327,7 @@
         "D": "<p>Japon kralı Mutsuhito</p>",
         "E": "<p>ABD başkanı Roosevelt</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887503,
@@ -364,8 +342,7 @@
         "D": "<p>1927</p>",
         "E": "<p>1930</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887509,
@@ -380,8 +357,7 @@
         "D": "<p>Macaristan-Belçika- İsveç</p>",
         "E": "<p>Yunanistan-Bulgaristan-Irak</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887510,
@@ -396,8 +372,7 @@
         "D": "<p>“Ticaret ve Seyrisefain  Antlaşması</p>",
         "E": "<p>Versay Antlaşması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887511,
@@ -412,8 +387,7 @@
         "D": "<p>Fransa</p>",
         "E": "<p>Yunanistan</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887517,
@@ -428,8 +402,7 @@
         "D": "<p>İçe kapanma</p>",
         "E": "<p>Enternasyonal</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887519,
@@ -444,8 +417,7 @@
         "D": "<p>Osmanlı Genel Borçları</p>",
         "E": "<p>Savaş Tazminatı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887522,
@@ -460,8 +432,7 @@
         "D": "<p>Fır hattı sorunu</p>",
         "E": "<p>“Etabli (yerleşmiş)\" Anlaşmazlığı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887525,
@@ -476,8 +447,7 @@
         "D": "<p>20 Mayıs 1938</p>",
         "E": "<p>19 Ekim 1939</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887529,
@@ -492,8 +462,7 @@
         "D": "<p>30 Ağustos 1922</p>",
         "E": "<p>03 Mart 1924</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887534,
@@ -508,8 +477,7 @@
         "D": "<p>1932</p>",
         "E": "<p>1929</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887543,
@@ -524,8 +492,7 @@
         "D": "<p>Rıza Han</p>",
         "E": "<p>Amanullah Han</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887504,
@@ -540,8 +507,7 @@
         "D": "<p>Sanayi alt yapısının yetersiz olması</p>",
         "E": "<p>Bütçeden gerekli mali kaynağın aktarılamaması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887505,
@@ -556,8 +522,7 @@
         "D": "<p>1939</p>",
         "E": "<p>1943</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887532,
@@ -572,8 +537,7 @@
         "D": "<p>Arabulucu devlet olarak katılmıştır.</p>",
         "E": "<p>Gözlemci devlet olarak katılmıştır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887496,
@@ -588,8 +552,7 @@
         "D": "<p>1930</p>",
         "E": "<p>1925</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887508,
@@ -604,8 +567,7 @@
         "D": "<p>Türk-Yunan</p>",
         "E": "<p>Türk-Rus</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887521,
@@ -620,8 +582,7 @@
         "D": "<p>Musul Sorunu'nun Türkiye aleyhine sonuçlanması</p>",
         "E": "<p>Fransa'nın Suriye'yi işgal altında tutmaya devam etmesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887530,
@@ -636,8 +597,7 @@
         "D": "<p>Türk milletinin tanımıdır.</p>",
         "E": "<p>Türk Anayurdunun tanımıdr.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887535,
@@ -652,8 +612,7 @@
         "D": "<p>Afganistan </p>",
         "E": "<p>Arabistan </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887536,
@@ -668,8 +627,7 @@
         "D": "<p>Ürdün</p>",
         "E": "<p>Lübnan </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887523,
@@ -684,8 +642,7 @@
         "D": "<p>Osmanlı genel borçları</p>",
         "E": "<p>Türkiye'nin Sovyetler Birliği ile dostluk antlaşması imzalaması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887524,
@@ -700,8 +657,7 @@
         "D": "<p>Yunanistan Başbakanı Venizelos</p>",
         "E": "<p>İngiltere Kralı VII. Edward</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887497,
@@ -716,8 +672,7 @@
         "D": "<p>İçtimai Milletler Konseyi</p>",
         "E": "<p>Beynelminel Konsey</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887506,
@@ -732,8 +687,7 @@
         "D": "<p>Uluslararası sorunlarda gizli antlaşmalar yapılmasını öngörmektedir. </p>",
         "E": "<p>Sorunları diplomasi yöntemiyle çözmeyi ilke edinmiştir. </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887528,
@@ -748,8 +702,7 @@
         "D": "<p>Cumhuriyet</p>",
         "E": "<p>Krallık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887531,
@@ -764,7 +717,6 @@
         "D": "<p>Musul'un egemenliği için halk oylaması yapılmıştır.</p>",
         "E": "<p>Musul Irak Develetine bağlanırken, Türkiye petrollerin işletme hakkını almıştır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     }
 ]

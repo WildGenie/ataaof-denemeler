@@ -12,8 +12,7 @@
         "D": "<p>Storyboard</p>",
         "E": "<p>Dijital medya</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832031,
@@ -28,8 +27,7 @@
         "D": "<p>Esneklik ve uyarlanabilirlik</p>",
         "E": "<p>Konsept geliştirme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832035,
@@ -44,8 +42,7 @@
         "D": "<p>Anlamlı Öğrenme Teorisi</p>",
         "E": "<p>Multimodal okuryazarlık teorisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832037,
@@ -60,8 +57,7 @@
         "D": "<p>İletişim becerilerinin geliştirilmesi,</p>",
         "E": "<p>Dijital Öğrenme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832040,
@@ -76,8 +72,7 @@
         "D": "<p>Titreşim bazlı geri bildirim sağlayan interaktif uygulamalar</p>",
         "E": "<p> Duygusal ifadeleri tanımayı geliştiren mimik tanıma tabanlı dijital oyunlar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832041,
@@ -92,8 +87,7 @@
         "D": "<p>Turizm sektöründe</p>",
         "E": "<p>Oyun tasarımlarının pazarlanmasında</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832046,
@@ -108,8 +102,7 @@
         "D": "<p>Veri analizi ve öğrenme analitiği</p>",
         "E": "<p>Proje tabanlı öğrenme ve yönetimi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832048,
@@ -124,8 +117,7 @@
         "D": "<p>Portfolyo değerlendirmesi</p>",
         "E": "<p>Performans değerlendirmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832049,
@@ -140,8 +132,7 @@
         "D": "<p>Performans değerlendirmesi</p>",
         "E": "<p>Adaptif değerlendirme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832052,
@@ -156,7 +147,6 @@
         "D": "<p>Sosyal Medya ve İş Birlikçi Öğrenme Platformları</p>",
         "E": "<p>Açık Eğitim Kaynakları ve Transmedya</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

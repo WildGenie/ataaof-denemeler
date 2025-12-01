@@ -12,8 +12,7 @@
         "D": "<p>Borçlar kanunu</p>",
         "E": "<p>Hukuk muhakemeleri kanunu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3701744,
@@ -28,8 +27,7 @@
         "D": "<p>Prusya</p>",
         "E": "<p>Avusturya-Macaristan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3701746,
@@ -44,8 +42,7 @@
         "D": "<p>Fransa</p>",
         "E": "<p>Belçika</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3701821,
@@ -60,8 +57,7 @@
         "D": "<p>Ürünün teknik fonksiyonunun zorunlu kıldığı görünüm özellikleri olan tasarımlar</p>",
         "E": "<p>Ayırt edici özelliği büyük oranda belirgin olmayan tasarımlar </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3701836,
@@ -76,8 +72,7 @@
         "D": "<p>20</p>",
         "E": "<p>25</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3701837,
@@ -92,8 +87,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3701841,
@@ -108,8 +102,7 @@
         "D": "<p>2</p>",
         "E": "<p>1</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839701,
@@ -124,8 +117,7 @@
         "D": "Dünya Ticaret Örgütü (WTO)",
         "E": "Uluslararası Ticaret Odası (ICC)",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839702,
@@ -140,8 +132,7 @@
         "D": "Tasarımın daha önce kamuya sunulmuş tasarımdan farklı bir genel izlenim yaratması",
         "E": "Tasarımın aynı üründen farklı sektörlerde de kullanılması",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839703,
@@ -156,8 +147,7 @@
         "D": "Sadece benzer ürünleri kullanan ve deneyime dayalı karar veren kişidir.",
         "E": "Ürünün sadece ekonomik değerine odaklanan gözlemcidir.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839705,
@@ -172,8 +162,7 @@
         "D": "Estetik kaygılarla oluşturulan yenilikçi tasarımlar",
         "E": "Başka bir ürüne monte edilmesi için belirli biçim ve boyutlarda üretilmesi zorunlu olan tasarımlar",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839708,
@@ -188,8 +177,7 @@
         "D": "Koruma talebi yapıldıktan sonra 15 yıl",
         "E": "Kullanıma başlandıktan sonra 2 yıl",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839709,
@@ -204,8 +192,7 @@
         "D": "9",
         "E": "12",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839711,
@@ -220,8 +207,7 @@
         "D": "ürün adı",
         "E": "başvuru ücreti",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842194,
@@ -236,8 +222,7 @@
         "D": "Venedik’te 1474 yılında yürürlüğe giren düzenleme, modern patent sisteminin temelini oluşturan ilk uygulamalardan biridir.",
         "E": "18. yüzyıl sonlarında Almanya ve bazı Avrupa ülkeleri ulusal patent düzenlemelerini hayata geçirmiştir.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842195,
@@ -252,8 +237,7 @@
         "D": "Paris Sözleşmesi (1883)",
         "E": "TRIPS Anlaşması (1995)",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842197,
@@ -268,8 +252,7 @@
         "D": "Yalnızca dijital ürünlerin tasarım özelliklerini kapsamaktadır.",
         "E": "Fikri mülkiyet dışında kalan alanlarda görsel bütünlüğü güvence altına alır.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842198,
@@ -284,8 +267,7 @@
         "D": "Tasarım ve ürün kavramları arasında SMK kapsamında herhangi bir ayrım yapılmamıştır.",
         "E": "Tasarım, bir ürünün görünüm özelliklerini ifade ederken; ürün, endüstriyel olarak üretilebilen veya elle yapılabilen nesneleri kapsar.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842199,
@@ -300,8 +282,7 @@
         "D": "Patent ve Faydalı Model sistemleri, buluşları korumaya yöneliktir ve Tasarım Tescili’nden farklıdır.",
         "E": "İki boyutlu ya da üç boyutlu tasarımlar, tescil için başvuru konusu olabilir.",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842202,
@@ -316,8 +297,7 @@
         "D": "Masa lambasının gövdesinde yer alan dokulu yüzey tasarımı.",
         "E": "Bir ambalajın dış kısmında yer alan biçimsel tasarım.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3701745,
@@ -332,8 +312,7 @@
         "D": "<p>Tasarım</p>",
         "E": "<p>Coğrafi işaret </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3701831,
@@ -348,8 +327,7 @@
         "D": "<p>1 yıl</p>",
         "E": "<p>6 ay </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3701840,
@@ -364,8 +342,7 @@
         "D": "<p>2</p>",
         "E": "<p>1</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839700,
@@ -380,8 +357,7 @@
         "D": "Türk Patent Kanunu",
         "E": "Markalar Kanunu",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839704,
@@ -396,8 +372,7 @@
         "D": "Tasarımın, ürünün normal kullanımında görünür olmaması",
         "E": "Tasarımın seri üretime uygun olmaması",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842200,
@@ -412,8 +387,7 @@
         "D": "Tasarımın bilgilenmiş kullanıcıda bıraktığı genel izlenim.",
         "E": "Tasarımın üretim sürecindeki teknik işlevi.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842201,
@@ -428,8 +402,7 @@
         "D": "Ürünü sadece üretim amacıyla kullanan endüstriyel tasarımcı.",
         "E": "Tasarımları ve bu tasarımların uygulandığı ürünleri bilen, deneyimli kullanıcı.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839707,
@@ -444,8 +417,7 @@
         "D": "25 yıl",
         "E": "Süresiz olarak korunur",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842196,
@@ -460,8 +432,7 @@
         "D": "Uygun yasal korumadan yoksun tasarımların rekabet gücünü zayıflatması.",
         "E": "Ülkelerin fikri mülkiyet yasalarını farklı biçimlerde uygulamaları.",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842203,
@@ -476,7 +447,6 @@
         "D": "Yenileme işlemleri yalnızca tasarım tescilinin ardından ilk altı ay içinde yapılmalıdır.",
         "E": "Tescilli tasarımların süresiz olarak korunması mümkündür.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

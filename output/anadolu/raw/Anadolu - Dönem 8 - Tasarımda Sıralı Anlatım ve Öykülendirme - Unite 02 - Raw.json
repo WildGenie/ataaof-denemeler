@@ -12,8 +12,7 @@
         "D": "<p>Sadece metin tabanlı bir anlatım içermesi</p>",
         "E": "<p>Anlatının her platformda birebir aynı olacak şekilde sunulması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831941,
@@ -28,8 +27,7 @@
         "D": "<p>Anlatıların doğrusal bir yapıya sahip olması</p>",
         "E": "<p>Kullanıcıların hikâye akışına müdahale edememesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831944,
@@ -44,8 +42,7 @@
         "D": "<p>Anlatıyı tek bir doğrusal yapı ile sınırlandırması</p>",
         "E": "<p>Yalnızca metin tabanlı içerik üretmesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831945,
@@ -60,8 +57,7 @@
         "D": "<p>Hikâyelerin sadece geleneksel medya platformlarında paylaşılmasını sağlamak</p>",
         "E": "<p>Yapay zekâyı sadece teknik destek amaçlı kullanmak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831957,
@@ -76,8 +72,7 @@
         "D": "<p>Geleneksel hikâye anlatımı tamamen doğrusal bir yapıya sahiptir, dijital anlatım ise her zaman rastgele ilerler.</p>",
         "E": "<p>Dijital anlatımda izleyiciler pasif rol oynar, geleneksel anlatımda ise aktif olarak katılım gösterirler.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831963,
@@ -92,8 +87,7 @@
         "D": "<p>Geleneksel anlatım yöntemlerini tamamen ortadan kaldırması</p>",
         "E": "<p>Hikâye anlatımında rastgele ve kontrolsüz bir yapı oluşturması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831970,
@@ -108,8 +102,7 @@
         "D": "<p>.NET</p>",
         "E": "<p>DALL-E</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832318,
@@ -124,8 +117,7 @@
         "D": "<p>Kullanıcıların yapay zekâ tarafından üretilen içerikleri anlamakta zorlanması</p>",
         "E": "<p>Yapay zekânın görsel iletişimde kullanılan geleneksel yöntemleri tamamen devre dışı bırakması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832328,
@@ -140,8 +132,7 @@
         "D": "<p>Bağımlılık ve beceri erezyonu</p>",
         "E": "<p>Kaynak israfı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832330,
@@ -156,7 +147,6 @@
         "D": "<p>İnsan tasarımcıların yaratıcı becerilerinde zayıflama ve uzmanlık erozyonu yaşanabilir.</p>",
         "E": "<p>Yapay zekâ ile çalışan tasarımcıların yaratıcı süreçlere olan ilgisi artar.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

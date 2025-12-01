@@ -12,8 +12,7 @@
         "D": "<p>Toprak kirliliği</p>",
         "E": "<p>Gürültü kirliliği</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862620,
@@ -28,8 +27,7 @@
         "D": "<p>2012</p>",
         "E": "<p>2010</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862621,
@@ -44,8 +42,7 @@
         "D": "<p>Ücretlendirme<br /><br /></p>",
         "E": "<p>Gönüllülük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862622,
@@ -60,8 +57,7 @@
         "D": "<p>Çin- Ücretlendirme</p>",
         "E": "<p>Portekiz-Gönüllülük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862623,
@@ -76,8 +72,7 @@
         "D": "<p>Üretim</p>",
         "E": "<p>Hammaddenin seçimi/üretilmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862624,
@@ -92,8 +87,7 @@
         "D": "<p>Cam</p>",
         "E": "<p>Diğer Malzemeler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862625,
@@ -108,8 +102,7 @@
         "D": "<p>Yüzey işlemleri</p>",
         "E": "<p>Mekanik birleştirme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862626,
@@ -124,8 +117,7 @@
         "D": "<p>Beş</p>",
         "E": "<p>Altı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862627,
@@ -140,8 +132,7 @@
         "D": "<p>Vasat</p>",
         "E": "<p>Uygun değil</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862628,
@@ -156,8 +147,7 @@
         "D": "<p>Kağıt</p>",
         "E": "<p>Karton</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862704,
@@ -172,8 +162,7 @@
         "D": "<p>Organik üretim</p>",
         "E": "<p>Elde üretim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862705,
@@ -188,8 +177,7 @@
         "D": "<p>Deniz</p>",
         "E": "<p>Irmak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862706,
@@ -204,8 +192,7 @@
         "D": "<p>Mikroplastikler ambalajdan çözünür</p> <div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p> Deniz canlısı gıda olarak tüketilir</p> <div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Mikroplastikler insan bünyesine geçer</p> <p>Akarsu/deniz/göllere karışır</p> <div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Deniz canlılarının bünyesine geçer</p> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>",
         "E": "<p>Mikroplastikler ambalajdan çözünür</p> <p>Akarsu/deniz/göllere karışır</p> <div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Deniz canlısı gıda olarak tüketilir</p> <div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Mikroplastikler insan bünyesine geçer</p> <p>Deniz canlılarının bünyesine geçer</p> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862707,
@@ -220,8 +207,7 @@
         "D": "<p>Bağışıklık problemleri</p>",
         "E": "<p>Kanser riski</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862708,
@@ -236,8 +222,7 @@
         "D": "<p>Deniz kirliliği</p>",
         "E": "<p>Çevre kirliliği</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862709,
@@ -252,8 +237,7 @@
         "D": "<p>Yenilikçi çözüm</p>",
         "E": "<p>Teşvik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862710,
@@ -268,8 +252,7 @@
         "D": "<p>2015</p>",
         "E": "<p>2014</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862712,
@@ -284,8 +267,7 @@
         "D": "<p>2016</p>",
         "E": "<p>2015</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862713,
@@ -300,8 +282,7 @@
         "D": "<p>Ücretlendirme</p> ",
         "E": "<p>Gönüllülük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862714,
@@ -316,7 +297,6 @@
         "D": "<ul>\n<li>\n<p>Hammaddenin seçimi/üretilmesi</p>\n</li>\n<li>\n<p>Kullanım</p>\n</li>\n<li>\n<p>Faydalı ömür sonu</p>\n</li>\n<li>Nakliye<br /><br /></li>\n<li>Üretim</li>\n</ul>",
         "E": "<ul>\n<li>\n<p>Hammaddenin seçimi/üretilmesi</p>\n</li>\n<li>\n<p>Nakliye</p>\n</li>\n<li>\n<p>Üretim</p>\n</li>\n<li>Kullanım<br /><br /></li>\n<li>Faydalı ömür sonu</li>\n</ul>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

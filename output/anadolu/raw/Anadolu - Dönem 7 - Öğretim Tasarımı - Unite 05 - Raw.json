@@ -12,8 +12,7 @@
         "D": "<p>Etkileşimli içerik </p>",
         "E": "<p>Arttırılmış gerçeklik </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863325,
@@ -28,8 +27,7 @@
         "D": "<p>Grafikler </p>",
         "E": "<p>Fotoğraflar </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863326,
@@ -44,8 +42,7 @@
         "D": "<p>İkon </p>",
         "E": "<p>Emoji </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863327,
@@ -60,8 +57,7 @@
         "D": "<p>Sunum </p>",
         "E": "<p>Video </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863328,
@@ -76,8 +72,7 @@
         "D": "<p>İllüstrasyon </p>",
         "E": "<p>Video</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863329,
@@ -92,8 +87,7 @@
         "D": "<p>Vurgu </p>",
         "E": "<p>Hiyerarşi </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863330,
@@ -108,8 +102,7 @@
         "D": "<p>Devamlılık </p>",
         "E": "<p>Simetri </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863331,
@@ -124,8 +117,7 @@
         "D": "<p>Şekil - Zemin </p>",
         "E": "<p>Simetri </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863332,
@@ -140,8 +132,7 @@
         "D": "<p>Prezi </p>",
         "E": "<p>Photoscape </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863333,
@@ -156,8 +147,7 @@
         "D": "<p>Adobe Presenter </p>",
         "E": "<p>Powtoon </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863631,
@@ -172,8 +162,7 @@
         "D": "Tablo",
         "E": "Grafik",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863632,
@@ -188,8 +177,7 @@
         "D": "Fotoğraf",
         "E": "Görüntü",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863633,
@@ -204,8 +192,7 @@
         "D": "<p>Artırılmış gerçeklik yalnızca mobil cihazlarla çalışırken, sanal gerçeklik yalnızca masaüstü bilgisayarlarda kullanılır.</p>",
         "E": "<p>Sanal gerçeklik daha çok görsel deneyim sunarken, artırılmış gerçeklik tüm duyulara hitap edebilir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863634,
@@ -220,8 +207,7 @@
         "D": "<p style=\"margin: 0cm; margin-bottom: .0001pt;\">Dijital nesneleri fiziksel dünyaya entegre ederek etkileşimli ve yer bağımsız öğrenme olanağı sunması<o:p></o:p></p>",
         "E": "<p style=\"margin: 0cm; margin-bottom: .0001pt;\">Duyuları yanıltacak düzeyde gerçekçilik sağlayan tam sanal ortamlar oluşturarak öğrenen motivasyonunu artırması<o:p></o:p></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863635,
@@ -236,8 +222,7 @@
         "D": "<p>Hiyerarşi</p>",
         "E": "<p>Yakınlık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863636,
@@ -252,8 +237,7 @@
         "D": "<p>Devamlılık</p>",
         "E": "<p>Denge</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863637,
@@ -268,8 +252,7 @@
         "D": "<p>Hiyerarşi</p>",
         "E": "<p>Bütünlük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863638,
@@ -284,8 +267,7 @@
         "D": "Görsel içeriklerin dijital ortamlarda çalışabilirliğinin test edilmesi<br data-start=\"550\" data-end=\"553\" />",
         "E": "<p style=\"margin: 0cm; margin-bottom: .0001pt;\">Soyut fikirlerin somutlaşmasına yardımcı olunması<o:p></o:p></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863639,
@@ -300,8 +282,7 @@
         "D": "<p style=\"margin: 0cm; margin-bottom: .0001pt;\">Görsel ve işitsel anlatımın tutarlılığının kontrol edilmesi<o:p></o:p></p>",
         "E": "<p style=\"margin: 0cm; margin-bottom: .0001pt;\">İçerik için en uygun yazı tipi, renk ve aralıkların seçilmesi<o:p></o:p></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863640,
@@ -316,7 +297,6 @@
         "D": "<p class=\"Default\"><span style=\"font-family: 'Times New Roman',serif;\">Camtasia Studio<o:p></o:p></span></p>",
         "E": "<p class=\"Default\"><span style=\"font-family: 'Times New Roman',serif;\">Photoscape<o:p></o:p></span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

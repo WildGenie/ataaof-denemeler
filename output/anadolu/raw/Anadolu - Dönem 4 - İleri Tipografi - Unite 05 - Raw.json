@@ -12,8 +12,7 @@
         "D": "<p>Taban çizgisi</p>",
         "E": "<p>Majüskül</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487951,
@@ -28,8 +27,7 @@
         "D": "<p>Rayogram</p>",
         "E": "<p>Sistogram</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487955,
@@ -44,8 +42,7 @@
         "D": "<p>1/12</p>",
         "E": "<p>1/4</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487956,
@@ -60,8 +57,7 @@
         "D": "<p>Punto</p>",
         "E": "<p>Serif</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487957,
@@ -76,8 +72,7 @@
         "D": "<p>O</p>",
         "E": "<p>Y</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487984,
@@ -92,8 +87,7 @@
         "D": "<p>Düz</p>",
         "E": "<p>Cursive</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487988,
@@ -108,8 +102,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>II ve IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488029,
@@ -124,8 +117,7 @@
         "D": "<p>Ağırlık</p>",
         "E": "<p>Kalınlık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488033,
@@ -140,8 +132,7 @@
         "D": "<p>Tasarımı</p>",
         "E": "<p>Sayısı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488035,
@@ -156,8 +147,7 @@
         "D": "<p>Eski yazılardaki harf örneklerini günümüze uyarlaması</p>",
         "E": "<p>Tarihi sınıflandırmada yer alan türler arası melez harf yaratması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488036,
@@ -172,8 +162,7 @@
         "D": "<p>Harflerin Üretimi</p>",
         "E": "<p>Tasarım sonrası</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488069,
@@ -188,8 +177,7 @@
         "D": "<p>Blackletter</p>",
         "E": "<p>Old English</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488194,
@@ -204,8 +192,7 @@
         "D": "<p>Genişlik</p> ",
         "E": "<p>Uzunluk</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488195,
@@ -220,8 +207,7 @@
         "D": "<p>Allignment</p> ",
         "E": "<p>Majüskül</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488196,
@@ -236,8 +222,7 @@
         "D": "<p>Topuk</p> ",
         "E": "<p>Kiriş</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488198,
@@ -252,8 +237,7 @@
         "D": "<p>Omuz</p> ",
         "E": "<p>Kanca</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488199,
@@ -268,8 +252,7 @@
         "D": "<p>Tür dışı serifliler</p> ",
         "E": "<p>Düz serifliler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488200,
@@ -284,8 +267,7 @@
         "D": "<p>Leading</p> ",
         "E": "<p>Allignment</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488201,
@@ -300,8 +282,7 @@
         "D": "<p>Topuk</p> ",
         "E": "<p>Kiriş</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488202,
@@ -316,8 +297,7 @@
         "D": "<p>Hümanistik Sans Serifler</p> ",
         "E": "<p>Kare Sans Serifler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487952,
@@ -332,8 +312,7 @@
         "D": "<p>Üst ve alt karakterler</p>",
         "E": "<p>Serif</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487953,
@@ -348,8 +327,7 @@
         "D": "<p>Genişlik</p>",
         "E": "<p>Kalınlık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487954,
@@ -364,8 +342,7 @@
         "D": "<p>El Yazısı Benzerleri</p>",
         "E": "<p>Sans Serifler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487985,
@@ -380,8 +357,7 @@
         "D": "<p>Gövde</p>",
         "E": "<p>Bacak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487986,
@@ -396,8 +372,7 @@
         "D": "<p>Vurgu</p>",
         "E": "<p>Uç nokta</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488031,
@@ -412,8 +387,7 @@
         "D": "<p>Kiriş</p>",
         "E": "<p>Sap</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488034,
@@ -428,8 +402,7 @@
         "D": "<p>Egyptian</p>",
         "E": "<p>Square Serif</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488037,
@@ -444,8 +417,7 @@
         "D": "<p>Harflerin reklamını yapmak</p>",
         "E": "<p>Kontrol karakterleriyle çalışmak</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488038,
@@ -460,8 +432,7 @@
         "D": "<p>Minisküller, majüsküller ve noktalama işaretlerinin oluşturulması</p>",
         "E": "<p>Harfin pazarlanması, reklamının yapılması ve dağıtılması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488070,
@@ -476,8 +447,7 @@
         "D": "<p>Old Style Roman</p>",
         "E": "<p>Transitional Roman</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488032,
@@ -492,8 +462,7 @@
         "D": "<p>Serif</p>",
         "E": "<p>Göbek</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488071,
@@ -508,8 +477,7 @@
         "D": "<p>Tarihi sınıflandırmalardaki yazı türleri ve tasarım süreçleri sorgulanarak bu türler arası melez harf biçimleri yaratma çabasına girilebilir. </p>",
         "E": "<p>Latin alfabesi dışındaki diller için yazı karakteri tasarlamak tipografik ufku genişletecektir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488072,
@@ -524,8 +492,7 @@
         "D": "<p>Artistic</p>",
         "E": "<p>Gotik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487948,
@@ -540,8 +507,7 @@
         "D": "<p>Yazı türü</p>",
         "E": "<p>Yazı yüzü</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487949,
@@ -556,8 +522,7 @@
         "D": "<p>Font</p>",
         "E": "<p>Ligature</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488030,
@@ -572,8 +537,7 @@
         "D": "<p>Eğiklik</p>",
         "E": "<p>Genişlik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488197,
@@ -588,8 +552,7 @@
         "D": "<p>Hat</p> ",
         "E": "<p>Omurga</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488203,
@@ -604,8 +567,7 @@
         "D": "<p>Gotik</p> ",
         "E": "<p>Roman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488073,
@@ -620,8 +582,7 @@
         "D": "<p>Harflerin reklamı</p>",
         "E": "<p>Tasarım fikri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487987,
@@ -636,7 +597,6 @@
         "D": "<p>Serif şekli</p>",
         "E": "<p>Arial</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     }
 ]

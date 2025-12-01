@@ -12,8 +12,7 @@
         "D": "<p>II ve IV</p>",
         "E": "<p>III ve IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641453,
@@ -28,8 +27,7 @@
         "D": "<p>Manfred Mohr</p>",
         "E": "<p>Pearson</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641455,
@@ -44,8 +42,7 @@
         "D": "<p class=\"Default\">Wei Ren Tan</p>",
         "E": "<p>Yi-Zhe Song</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641456,
@@ -60,8 +57,7 @@
         "D": "<p class=\"Default\">Manfred Mohr</p>",
         "E": "<p>Daniel Shiffman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641459,
@@ -76,8 +72,7 @@
         "D": "<p class=\"Default\">tekrarların</p>",
         "E": "<p>yapay sinir ağlarının</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641594,
@@ -92,8 +87,7 @@
         "D": "<p>Çıkarımsal olarak</p>",
         "E": "<p>Özgün olarak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641596,
@@ -108,8 +102,7 @@
         "D": "<p>G-art</p>",
         "E": "<p>CG-art</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641597,
@@ -124,8 +117,7 @@
         "D": "<p align=\"LEFT\">Sanat üreten programın kendisini etkileyen rastgele varyasyonlar ve seçici yeniden üretme süreçleri ile şekillenir.</p>  ",
         "E": "<p align=\"LEFT\">Bir bilgisayar programının kendi kendine çalışmaya bırakıldığı, insan müdahalesi çok sınırlı olacak ya da hiç olmayacak şekilde üretilen sanattır.</p>  ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641600,
@@ -140,8 +132,7 @@
         "D": "<p align=\"LEFT\">Manfred Mohr</p>  ",
         "E": "<p align=\"LEFT\">Ian Goodfellow</p> <p align=\"LEFT\"> </p>  ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641606,
@@ -156,8 +147,7 @@
         "D": "<p>Üretme, ortaya çıkarma, yeniden üretme gücü ya da işlevine sahip olması</p>\n<p> </p>",
         "E": "<p>Sonucun kısmen de olsa sistem tarafından ortaya çıkması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641609,
@@ -172,8 +162,7 @@
         "D": "<p>Matamatiksel çıktılar </p>",
         "E": "<p>Duyusal çıktılar </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641655,
@@ -188,8 +177,7 @@
         "D": "<p>Üstmetinsel bir ortam olarak işlev görmesi.</p> ",
         "E": "<p>Doğrusal olmayan bir üretim süreci içermesi.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641656,
@@ -204,8 +192,7 @@
         "D": "<p class=\"Default\"><span style=\"font-family: 'Times New Roman',serif;\">Algoritma.</span></p>\n<p class=\"Default\"> </p>",
         "E": "<p><span style=\"font-family: 'Times New Roman',serif;\">Değişken.</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641658,
@@ -220,8 +207,7 @@
         "D": "<p class=\"Default\"><span style=\"font-family: 'Times New Roman',serif;\">“Generative Computergraphik” adını taşıyan serginin açılması.</span></p> <p class=\"Default\"><span style=\"font-family: 'Times New Roman',serif;\"> </span></p>",
         "E": "<p><span style=\"font-family: 'Times New Roman',serif;\">Çekişmeli üretici ağların üretilmesi.</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641659,
@@ -236,8 +222,7 @@
         "D": "<p><span style=\"font-family: 'Times New Roman',serif;\">Antonio Daniele.</span></p>",
         "E": "<p class=\"Default\"><span style=\"font-family: 'Times New Roman',serif;\">Manfred Mohr .</span></p> <p class=\"Default\"> </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641660,
@@ -252,8 +237,7 @@
         "D": "<p class=\"Default\"><span style=\"font-family: verdana, geneva, sans-serif; color: windowtext;\">Rastlantı, kaos, kozmoz ve kendine benzerlik.</span></p> <p class=\"Default\"><span style=\"font-family: 'Times New Roman',serif; color: windowtext;\"> </span></p>",
         "E": "<p><span style=\"font-family: verdana, geneva, sans-serif; color: windowtext;\">Ölçekleme, etkileşim, tekrar ve döngüsellik.</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641662,
@@ -268,8 +252,7 @@
         "D": "<p class=\"Default\"><span style=\"font-family: 'Times New Roman',serif;\">Döngüler.</span></p> <p class=\"Default\"> </p>",
         "E": "<p><span style=\"font-family: 'Times New Roman',serif;\">Makine dili.</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641802,
@@ -284,8 +267,7 @@
         "D": "<p>CI-art (Bilgisayar temelli interaktif sanat)</p>",
         "E": "<p>G-art (Generatif sanat)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641803,
@@ -300,8 +282,7 @@
         "D": "<p>Varyasyonlar-yeniden üretme süreci</p>",
         "E": "<p>Sanal dünya-izleyici</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641810,
@@ -316,8 +297,7 @@
         "D": "<p>Çevresel etkileşim</p>",
         "E": "<p>Duyusal çıktılar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641454,
@@ -332,8 +312,7 @@
         "D": "<p>Dall-e</p>",
         "E": "<p>Sophia</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641458,
@@ -348,8 +327,7 @@
         "D": "<p class=\"Default\">Processing</p>",
         "E": "<p>Kod</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641595,
@@ -364,8 +342,7 @@
         "D": "<p>Düşünce ile</p>",
         "E": "<p>İnsan ile</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641598,
@@ -380,8 +357,7 @@
         "D": "<p>Doğal içerikler</p>",
         "E": "<p>Bilişsel öğeler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641605,
@@ -396,8 +372,7 @@
         "D": "<p>I-art (interaktif sanat)</p>",
         "E": "<p>VR-art (sanal gerçeklik sanatı)</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641612,
@@ -412,8 +387,7 @@
         "D": "<p>Parametreleştirme  </p>",
         "E": "<p>Simülasyon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641613,
@@ -428,8 +402,7 @@
         "D": "<p>Lingo</p> ",
         "E": "<p>Python</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641664,
@@ -444,8 +417,7 @@
         "D": "<p>Blender.</p> ",
         "E": "<p>Swift.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641811,
@@ -460,8 +432,7 @@
         "D": "<p>The Painting Fool</p>",
         "E": "<p>AARON</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641813,
@@ -476,8 +447,7 @@
         "D": "<p>Lindenmayer</p>",
         "E": "<p>Lingo</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641816,
@@ -492,8 +462,7 @@
         "D": "<p>Genetik mühendislik</p>",
         "E": "<p>Nanoteknoloji</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641450,
@@ -508,8 +477,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641592,
@@ -524,8 +492,7 @@
         "D": "<p>Olgusal sanat</p>",
         "E": "<p>İnteraktif sanat</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641608,
@@ -540,8 +507,7 @@
         "D": "<p>Ian Goodfellow </p>",
         "E": "<p>Tim Knowles</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641610,
@@ -556,8 +522,7 @@
         "D": "<p>Processing  </p>",
         "E": "<p>IDE </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641614,
@@ -572,8 +537,7 @@
         "D": "<p>Pretty Little Flocker</p> ",
         "E": "<p>100 Özel An (100 Special Moments) </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641817,
@@ -588,8 +552,7 @@
         "D": "<p>V-c, VI-e VII-d</p>",
         "E": "<p>Yalnız VII-d</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641451,
@@ -604,8 +567,7 @@
         "D": "<p>R-art (Robotik sanat)</p>",
         "E": "<p>CA-art (Bilgisayar destekli sanat)</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641599,
@@ -620,8 +582,7 @@
         "D": "<p>Log-in</p>",
         "E": "<p>Log-out</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641657,
@@ -636,8 +597,7 @@
         "D": "<p>Prosedürel.</p> ",
         "E": "<p>Histogram.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641663,
@@ -652,8 +612,7 @@
         "D": "<p class=\"Default\"><span style=\"font-family: 'Times New Roman',serif; color: windowtext;\">Rastlantı, Kaos, Değişken ve Program.</span></p> <p class=\"Default\"><span style=\"font-family: 'Times New Roman',serif;\"> </span></p>",
         "E": "<p><span style=\"font-family: 'Times New Roman',serif;\">Özyineleme, Kendine benzerlik, Ölçekleme ve Dönüşüm.</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641812,
@@ -668,8 +627,7 @@
         "D": "<p>Tekrar</p>",
         "E": "<p>Simülasyon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641815,
@@ -684,8 +642,7 @@
         "D": "<p>Simülasyon</p>",
         "E": "<p>Kod</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641457,
@@ -700,8 +657,7 @@
         "D": "<p class=\"Default\">Algoritma</p>",
         "E": "<p>Simülasyon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641814,
@@ -716,8 +672,7 @@
         "D": "<p>Deepart.i.o</p>",
         "E": "<p>Cartoonify</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641607,
@@ -732,8 +687,7 @@
         "D": "<p>Mimari desen üretme tezgahı</p>",
         "E": "<p>Kalıp çıkarma tezgahı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641611,
@@ -748,8 +702,7 @@
         "D": "<p>Instapainting</p> ",
         "E": "<p>Cartoonify<strong> </strong></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641593,
@@ -764,8 +717,7 @@
         "D": "<p>Generatif sanat</p>",
         "E": "<p>Diyalektik sanat </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641601,
@@ -780,8 +732,7 @@
         "D": "<p>Tree Drawings</p> ",
         "E": "<p>Aaron</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641661,
@@ -796,7 +747,6 @@
         "D": "<p class=\"Pa5\"><span style=\"font-family: 'Times New Roman',serif;\">Fortran.</span></p> <p class=\"Default\"><span style=\"font-family: 'Times New Roman',serif;\"> </span></p>",
         "E": "<p><span style=\"font-family: 'Times New Roman',serif;\">Pascal.</span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     }
 ]

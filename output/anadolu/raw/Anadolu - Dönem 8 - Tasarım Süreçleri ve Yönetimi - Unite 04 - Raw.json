@@ -12,8 +12,7 @@
         "D": "<p>Görüntüler</p>",
         "E": "<p>Duygusal tepki</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834112,
@@ -28,8 +27,7 @@
         "D": "<p>logolar</p>",
         "E": "<p>bilgi işlem</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834117,
@@ -44,8 +42,7 @@
         "D": "<p>Kültürel Yorumlama</p>",
         "E": "<p>Tasarımsal Aktarım</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834120,
@@ -60,8 +57,7 @@
         "D": "<p>Ses</p>",
         "E": "<p>Fotoğraf</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834122,
@@ -76,8 +72,7 @@
         "D": "<p class=\"p3\">Bütünleşik Portfolyo İletişimi</p>",
         "E": "<p class=\"p3\">Baskı-öncesi Prodüksiyon İletişimi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834123,
@@ -92,8 +87,7 @@
         "D": "<p>Duyarlı tasarım</p>",
         "E": "<p class=\"p2\">PESO Modeli</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834125,
@@ -108,8 +102,7 @@
         "D": "<p class=\"p2\">Duyarlı Tasarım</p>",
         "E": "<p>Uyarlanabilirlik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834127,
@@ -124,8 +117,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834129,
@@ -140,8 +132,7 @@
         "D": "<p>Logogram</p>",
         "E": "<p>Tipograf</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834132,
@@ -156,7 +147,6 @@
         "D": "<p>Piktogram/İdeogramlar/Renkler</p>",
         "E": "<p>Resimler/Logolar/Emojiler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

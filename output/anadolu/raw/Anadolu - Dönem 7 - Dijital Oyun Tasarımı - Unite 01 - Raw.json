@@ -12,8 +12,7 @@
         "D": "<p>Çok oyunculu oyun</p>",
         "E": "<p>Analog oyun</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688567,
@@ -28,8 +27,7 @@
         "D": "<p>1980'li yıllar</p>",
         "E": "<p>1990'li yıllar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688568,
@@ -44,8 +42,7 @@
         "D": "<p>Askeri</p>",
         "E": "<p>Hukuki</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688573,
@@ -60,8 +57,7 @@
         "D": "<p>1980'ler</p>",
         "E": "<p>1990'lar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688577,
@@ -76,8 +72,7 @@
         "D": "<p>Magnavox Odyssey</p>",
         "E": "<p>IBM PS1</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688580,
@@ -92,8 +87,7 @@
         "D": "<p>Likit Kristal Monitör</p>",
         "E": "<p>Delikli Kart</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688584,
@@ -108,8 +102,7 @@
         "D": "<p>Platform oyunları</p>",
         "E": "<p>Gerçek zamanlı strateji oyunları</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688587,
@@ -124,8 +117,7 @@
         "D": "<p>2020</p>",
         "E": "<p>2023</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688591,
@@ -140,8 +132,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688592,
@@ -156,7 +147,6 @@
         "D": "<p>CIA</p>",
         "E": "<p>BDDK</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

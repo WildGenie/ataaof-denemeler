@@ -12,8 +12,7 @@
         "D": "<p>Hera</p>",
         "E": "<p>Zeus</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374274,
@@ -28,8 +27,7 @@
         "D": "<p>Güzel sanatlarla ilgili olması</p>",
         "E": "<p>Zekasıyla ünlenmesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374410,
@@ -44,8 +42,7 @@
         "D": "<p>MÖ 800</p>",
         "E": "<p>MÖ 900</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374417,
@@ -60,8 +57,7 @@
         "D": "<p>Demeter</p> ",
         "E": "<p>Hermes</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374487,
@@ -76,8 +72,7 @@
         "D": "<p>eserlerinde kendileri hakkında verdikleri bilgi</p>",
         "E": "<p>yapıtlarının uzunluğu </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374888,
@@ -92,8 +87,7 @@
         "D": "<p>Theia, Rheia, Themis, Mnemosyne, Phoibe ve Tethys erkek titanlardır.</p>",
         "E": "<p>Toprak dediğimiz tanrısal varlığın ilk somut görünümü olan Gaia aynı zamanda yaşamı veren ve alan Büyük Evrensel Anne’dir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374890,
@@ -108,8 +102,7 @@
         "D": "<p>Poseidon- Hiddet, Öfke</p>",
         "E": "<p>Ares- Savaş</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374891,
@@ -124,8 +117,7 @@
         "D": "<p>Hestia</p>",
         "E": "<p>Zeus</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374895,
@@ -140,8 +132,7 @@
         "D": "<p>Pontos</p>",
         "E": "<p>Eros</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374903,
@@ -156,8 +147,7 @@
         "D": "<p>Ithake</p> ",
         "E": "<p>Smyrna</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374906,
@@ -172,8 +162,7 @@
         "D": "<p>Hermes</p> ",
         "E": "<p>Athena</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374976,
@@ -188,8 +177,7 @@
         "D": "<p>MÖ 800</p>",
         "E": "<p>MÖ 900</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374977,
@@ -204,8 +192,7 @@
         "D": "<p>Pontos</p>",
         "E": "<p>Eurysternos</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375047,
@@ -220,8 +207,7 @@
         "D": "<p>Kallimakhos</p>",
         "E": "<p>Pindaros</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375051,
@@ -236,8 +222,7 @@
         "D": "<p>Hermes</p>",
         "E": "<p>Apollon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375052,
@@ -252,8 +237,7 @@
         "D": "<p>Athena</p>",
         "E": "<p>Hestia</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375272,
@@ -268,8 +252,7 @@
         "D": "<p>Demeter<br /><br /></p>",
         "E": "<p>Hestia</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375274,
@@ -284,8 +267,7 @@
         "D": "<p>Apollon</p>",
         "E": "<p>Hestia</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375319,
@@ -300,8 +282,7 @@
         "D": "<p><span class=\"fontstyle0\">Krios – Eurybie<br /><br /></span></p>",
         "E": "<p><span class=\"fontstyle0\">Titanlar - Kykloplar</span> </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375321,
@@ -316,8 +297,7 @@
         "D": "<p>Athena</p>",
         "E": "<p>Hermes</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374270,
@@ -332,8 +312,7 @@
         "D": "<p>Perikles</p>",
         "E": "<p>Sophokles</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374415,
@@ -348,8 +327,7 @@
         "D": "<p>Athena</p>",
         "E": "<p>Apollon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374420,
@@ -364,8 +342,7 @@
         "D": "<p>Ouranos<br /><br /></p>",
         "E": "<p>Khaos</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374421,
@@ -380,8 +357,7 @@
         "D": "<p>Eurybie<br /><br /></p>",
         "E": "<p>Phoibe</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374482,
@@ -396,8 +372,7 @@
         "D": "<p>Pindaros</p>",
         "E": "<p>Kallimakhos</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374485,
@@ -412,8 +387,7 @@
         "D": "<p>Theokritos</p>",
         "E": "<p>Moskhos</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374495,
@@ -428,8 +402,7 @@
         "D": "<p>Mousa</p>",
         "E": "<p>Kyklops</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374496,
@@ -444,8 +417,7 @@
         "D": "<p>Ares</p>",
         "E": "<p>Hephaistos</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374883,
@@ -460,8 +432,7 @@
         "D": "<p>Yaradılış, T&uuml;reyiş ve Tanrıların Doğuşu her mitolojinin ana temalarıdır.</p>",
         "E": "<p>Mitolojik kavramların neleri simgelediği bilinmemektedir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374887,
@@ -476,8 +447,7 @@
         "D": "<p>Günümüzdeki Foça (Phokaia)’nın kuzeydoğusundaki Kyme şehrinde doğmuştur.</p>",
         "E": "<p>Hesiodos Ionialıdır ve eserinde İonia lehçesi kullanmıştır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374892,
@@ -492,8 +462,7 @@
         "D": "<p>Romalılar d&uuml;r&uuml;stl&uuml;k, doğruluk ve cesurluk gibi farklı anlayışları Tanrılarla &ouml;zdeşleştirmişlerdir.</p>",
         "E": "<p>Olymposlu Zeus'un adı değişerek Roma Mitolojisinde Jupiter olmuştur.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374900,
@@ -508,8 +477,7 @@
         "D": "<p>Aphrodite<br /><br /></p>",
         "E": "<p>Hermes</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374904,
@@ -524,8 +492,7 @@
         "D": "<p>Zeus</p> ",
         "E": "<p>Kronos</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374975,
@@ -540,8 +507,7 @@
         "D": "<p>Yaratılış-Türeyiş-Tanrıların Doğuşu</p>",
         "E": "<p>Yaratılış-Yaşam-Tanrıların Doğuşu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375270,
@@ -556,8 +522,7 @@
         "D": "<p>Boiotia</p>",
         "E": "<p>Heksametro</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375271,
@@ -572,8 +537,7 @@
         "D": "<p><br />Hephaistos </p>",
         "E": "<p> Hestia</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375276,
@@ -588,8 +552,7 @@
         "D": "<p>Aphrodite</p>",
         "E": "<p>Hestia</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375320,
@@ -604,8 +567,7 @@
         "D": "<p><span class=\"fontstyle0\">Hera </span></p>",
         "E": "<p><span class=\"fontstyle0\"> Poseidon</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374271,
@@ -620,8 +582,7 @@
         "D": "<p>Adem'in Yaratılışı</p>",
         "E": "<p>Türeyiş Destanı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374427,
@@ -636,8 +597,7 @@
         "D": "<p>Dyionisos<br /><br /></p>",
         "E": "<p>Hades</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374497,
@@ -652,8 +612,7 @@
         "D": "<p>Ares</p>",
         "E": "<p>Artemis</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374886,
@@ -668,8 +627,7 @@
         "D": "<p>Odysseia,&nbsp; Ithake kralı Odysseus&rsquo;un ser&uuml;venlerinin anlatıldığı bir destandır.</p>",
         "E": "<p>Troya Savaşı Troya&rsquo;lı Paris&rsquo;in&nbsp;Sparta kralı Menelaos&rsquo;un karısı Helene&rsquo;ye aşık olup, onu Troya&rsquo;ya ka&ccedil;ırması nedeniyle &ccedil;ıkmıştır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374899,
@@ -684,8 +642,7 @@
         "D": "<p>Aphrodite</p>",
         "E": "<p>Hephaistos</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374911,
@@ -700,8 +657,7 @@
         "D": "<p>Poseidon - Neptunus</p>",
         "E": "<p>Ares - Mars</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374974,
@@ -716,8 +672,7 @@
         "D": "<p>Anaksimandros</p>",
         "E": "<p>Thales</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374978,
@@ -732,8 +687,7 @@
         "D": "<p>Erga Kai Homerai</p>",
         "E": "<p>Prometheus</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374983,
@@ -748,8 +702,7 @@
         "D": "<p>Poseidon</p>",
         "E": "<p>Apollon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375048,
@@ -764,8 +717,7 @@
         "D": "<p>Oresteia</p>",
         "E": "<p>Theogonia</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375055,
@@ -780,8 +732,7 @@
         "D": "<p>Hermes</p>",
         "E": "<p>Hephaistos</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375322,
@@ -796,8 +747,7 @@
         "D": "<p>Artemis</p>",
         "E": "<p>Aphrodite</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375323,
@@ -812,8 +762,7 @@
         "D": "<p>Poseidon</p>",
         "E": "<p>Zeus</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374222,
@@ -828,8 +777,7 @@
         "D": "<p>Eros</p>",
         "E": "<p>Khaos</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374238,
@@ -844,8 +792,7 @@
         "D": "<p>Semele</p>",
         "E": "<p>Dionysos</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374409,
@@ -860,8 +807,7 @@
         "D": "<p>Aiskylos</p>",
         "E": "<p>Pindaros</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374418,
@@ -876,8 +822,7 @@
         "D": "<p>Rhodos</p>",
         "E": "<p>Kilis</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374425,
@@ -892,8 +837,7 @@
         "D": "<p>Dyionisos<br /><br /></p>",
         "E": "<p>Artemis</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374889,
@@ -908,8 +852,7 @@
         "D": "<p>Briareus (Güçlü)</p>",
         "E": "<p>Gyes (Çok kollu- bacaklı)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374896,
@@ -924,8 +867,7 @@
         "D": "<p>Zeus</p>",
         "E": "<p>Iapetos</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374908,
@@ -940,8 +882,7 @@
         "D": "<p>Ares</p> ",
         "E": "<p>Artemis</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374980,
@@ -956,8 +897,7 @@
         "D": "<p>Artemis</p>",
         "E": "<p>Hera</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375046,
@@ -972,8 +912,7 @@
         "D": "<p>Kallimakhos</p>",
         "E": "<p>Pindaros </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374221,
@@ -988,8 +927,7 @@
         "D": "<p>Herodot</p>",
         "E": "<p>Pindaros</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374239,
@@ -1004,8 +942,7 @@
         "D": "<p>Jupiter</p>",
         "E": "<p>Venus</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374275,
@@ -1020,8 +957,7 @@
         "D": "<p>Şarap tanrısı olarak da bilinir</p>",
         "E": "<p>Athena'nın babasıdır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374885,
@@ -1036,8 +972,7 @@
         "D": "<p>Homeros s&ouml;zl&uuml; geleneği s&uuml;rd&uuml;ren bir ozandı.</p>",
         "E": "<p>Homeros&rsquo;un M&Ouml; 850 yıllarında İzmir'de yaşamıştır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374897,
@@ -1052,8 +987,7 @@
         "D": "<p>Aphrodite<br /><br /></p>",
         "E": "<p>Hades</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374901,
@@ -1068,8 +1002,7 @@
         "D": "<p>Apollon</p>",
         "E": "<p>Poseidon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374907,
@@ -1084,8 +1017,7 @@
         "D": "<p>Dionysos</p> ",
         "E": "<p>Hestia</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374981,
@@ -1100,8 +1032,7 @@
         "D": "<p>Apollon</p>",
         "E": "<p>Poseidon</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375267,
@@ -1116,8 +1047,7 @@
         "D": "<p>Theogonia</p>",
         "E": "<p>Theokritos</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375273,
@@ -1132,8 +1062,7 @@
         "D": "<p>Yunanistan ve Türkiye arasında </p>",
         "E": "<p>Yunanistan ve Rodos arasında </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375317,
@@ -1148,8 +1077,7 @@
         "D": "<p><span class=\"fontstyle0\">Euripides</span></p>",
         "E": "<p><span class=\"fontstyle0\">Aiskylos</span> </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375326,
@@ -1164,8 +1092,7 @@
         "D": "<p>Hestia</p>",
         "E": "<p>Poseidon</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374237,
@@ -1180,8 +1107,7 @@
         "D": "<p>Apollon</p>",
         "E": "<p>Aphrodite</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374276,
@@ -1196,8 +1122,7 @@
         "D": "<p>Midas</p>",
         "E": "<p>Poseidon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374414,
@@ -1212,8 +1137,7 @@
         "D": "<p>Mızrak</p>",
         "E": "<p>Ok</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374424,
@@ -1228,8 +1152,7 @@
         "D": "<p>Athena<br /><br /></p>",
         "E": "<p>Klio</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374428,
@@ -1244,8 +1167,7 @@
         "D": "<p>Yunanistan<br /><br /></p>",
         "E": "<p>Sicilya</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374492,
@@ -1260,8 +1182,7 @@
         "D": "<p>Pontos</p>",
         "E": "<p>Erebos</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374494,
@@ -1276,8 +1197,7 @@
         "D": "<p>Dionysos</p>",
         "E": "<p>Hestia</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375049,
@@ -1292,8 +1212,7 @@
         "D": "<p>Theogonia</p>",
         "E": "<p>Oresteia</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375050,
@@ -1308,8 +1227,7 @@
         "D": "<p>Hermes</p>",
         "E": "<p>Hephaistos</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374225,
@@ -1324,8 +1242,7 @@
         "D": "<p>Hermes</p>",
         "E": "<p>Apollon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374273,
@@ -1340,8 +1257,7 @@
         "D": "<p>Zeus rahipler tarafından tapınağa alınmak istenmiştir</p>",
         "E": "<p>Evrenin efendisi Kranos yeni doğan çocukları yutmaktadır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374279,
@@ -1356,8 +1272,7 @@
         "D": "<p>Roma halkının inanç arayışı</p>",
         "E": "<p>Roma imparatorlarının inanma isteği</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374426,
@@ -1372,8 +1287,7 @@
         "D": "<p>Dyionisos<br /><br /></p>",
         "E": "<p>Minerva</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374493,
@@ -1388,8 +1302,7 @@
         "D": "<p>Aphrodite</p>",
         "E": "<p>Hera</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374884,
@@ -1404,8 +1317,7 @@
         "D": "<p>Yunan tanrıları g&ouml;r&uuml;n&uuml;ş ve karakter olarak insanlara benzer.</p>",
         "E": "<p>Yunan tanrılarının hepsi &ouml;l&uuml;ms&uuml;zd&uuml;r.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374912,
@@ -1420,8 +1332,7 @@
         "D": "<p>Kerberos</p>",
         "E": "<p>Pan</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375053,
@@ -1436,8 +1347,7 @@
         "D": "<p>Ares</p>",
         "E": "<p>Hermes</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375318,
@@ -1452,8 +1362,7 @@
         "D": "<p><span class=\"fontstyle0\">Eros'tu.</span></p>",
         "E": "<p><span class=\"fontstyle0\">Kronos'tu. </span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374235,
@@ -1468,8 +1377,7 @@
         "D": "<p>Apollon</p>",
         "E": "<p>Artemis</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374416,
@@ -1484,8 +1392,7 @@
         "D": "<p>Logos</p>",
         "E": "<p>Pan</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374419,
@@ -1500,8 +1407,7 @@
         "D": "<p>Triapolis<br /><br /></p>",
         "E": "<p>Efes</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374910,
@@ -1516,8 +1422,7 @@
         "D": "<p>Hermes</p> ",
         "E": "<p>Hades</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375325,
@@ -1532,8 +1437,7 @@
         "D": "<p>Aphrodite</p>",
         "E": "<p>Demeter</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374902,
@@ -1548,8 +1452,7 @@
         "D": "<p>Hestia</p>",
         "E": "<p>Demeter</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374905,
@@ -1564,8 +1467,7 @@
         "D": "<p>Nympheler</p> ",
         "E": "<p>Erinysler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375268,
@@ -1580,8 +1482,7 @@
         "D": "<p>Olympos</p>",
         "E": "<p>Sparta</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375269,
@@ -1596,8 +1497,7 @@
         "D": "<p>Atina </p>",
         "E": "<p>Rosos</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374909,
@@ -1612,8 +1512,7 @@
         "D": "<p>Leda</p> ",
         "E": "<p>Leto</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374982,
@@ -1628,8 +1527,7 @@
         "D": "<p>Ares-Mızrak</p>",
         "E": "<p>Apollon-At</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374223,
@@ -1644,8 +1542,7 @@
         "D": "<p>Hera</p>",
         "E": "<p>Theia</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374277,
@@ -1660,8 +1557,7 @@
         "D": "<p>Demeter</p>",
         "E": "<p>Hera</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374413,
@@ -1676,8 +1572,7 @@
         "D": "<p>Dionysos</p>",
         "E": "<p>Hestia</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374893,
@@ -1692,8 +1587,7 @@
         "D": "<p>Soophocles</p>",
         "E": "<p>Euripides</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375324,
@@ -1708,8 +1602,7 @@
         "D": "<p>Demeter</p>",
         "E": "<p>Artemis</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374498,
@@ -1724,8 +1617,7 @@
         "D": "<p>Vulcanus</p>",
         "E": "<p>Vesta</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374422,
@@ -1740,8 +1632,7 @@
         "D": "<p>Krios – Eurybie<br /><br /></p>",
         "E": "<p>Kronos – Rheia</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374236,
@@ -1756,8 +1647,7 @@
         "D": "<p>Deimos</p>",
         "E": "<p>Phobos</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374898,
@@ -1772,8 +1662,7 @@
         "D": "<p>Ares</p>",
         "E": "<p>Hermes</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374423,
@@ -1788,8 +1677,7 @@
         "D": "<p>Artemis<br /><br /></p>",
         "E": "<p>Poseidon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374412,
@@ -1804,8 +1692,7 @@
         "D": "<p>Posedion</p>",
         "E": "<p>Eros</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374894,
@@ -1820,8 +1707,7 @@
         "D": "<p>Phoibe</p>",
         "E": "<p>Okeanos</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374272,
@@ -1836,8 +1722,7 @@
         "D": "<p>Karışıklık</p>",
         "E": "<p>Devamlılık</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375275,
@@ -1852,8 +1737,7 @@
         "D": "<p>&nbsp;Ares&nbsp;</p>",
         "E": "<p>Apollon<br />&nbsp;</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374411,
@@ -1868,8 +1752,7 @@
         "D": "<p>Bion </p>",
         "E": "<p>Moskhos</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374979,
@@ -1884,7 +1767,36 @@
         "D": "<p>Ares</p>",
         "E": "<p>Hestia</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3375054,
+        "UniteNo": 5,
+        "PageNumber": 91,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Athena: Zeus ile Metis’in kızıdır. Metis hamileyken Zeus onu yutmuştur. Doğum zamanı gelince, Zeus kafasını bir balta ile yarmasını Hephaistos’a emretmiştir. Böylece Athena Zeus’un kafasından silahlı bir kız olarak fırlamıştır. Akıl, sanat, strateji ve barış tanrıçasıdır. Mızrak ve Aegis (keçi derisinden bir tür zırh ya da kalkan) ile donanmış olan tanrıça Gigantlarla savaşta önemli rol oynar. Sembolleri kalkan, mızrak, zeytin dalı ve baykuştur.</p>",
+        "Title": "<p>Soruda özellikleri ve sembolleri verilen Yunan tanrıçasının tanınması amaçlanmıştır. </p>",
+        "Text": "<p style=\"text-align: justify;\">Yunan mitolojisinde Hephaistos’un bir balta ile  yarmasının ardından Zeus’un kafasından silahlı bir kız olarak fırlayan, mızrak ve Aegis (keçi derisinden bir tür zırh ya da kalkan) ile donanmış, zeytin dalı ve baykuş gibi sembolleri olan, kalkan, mızrak,  akıl, sanat, strateji ve barış tanrıçası aşağıdakilerden hangisidir? </p>",
+        "A": "<p>Athena</p>",
+        "B": "<p>Hera</p>",
+        "C": "<p>Artemis</p>",
+        "D": "<p>Aphrodite</p>",
+        "E": "<p>Demeter</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3374278,
+        "UniteNo": 5,
+        "PageNumber": 99,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 18\"> <div class=\"layoutArea\"> <div class=\"column\"> <p style=\"text-align: justify;\">Romalılar genelde Yunanlıların Olympian tanrılarını kabul etmişlerdir. Sadece adlarını değiştirerek Olymposlu tanrılara tapmışlardır Apollon ise adı değişmeden Roma mitolojisine geçen tek tanrı olma özelliğini taşımaktadır.</p> <p style=\"text-align: justify;\">Doğru cevap A seçeneğidir.</p> </div> </div> </div>",
+        "Title": "",
+        "Text": "<p style=\"text-align: justify;\">Yunan mitolojisinden Roma mitolojisine ismi değişmeden geçen tek tanrı aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Apollon</p>",
+        "B": "<p>Ares</p>",
+        "C": "<p>Hestia</p>",
+        "D": "<p>Poseidon</p>",
+        "E": "<p>Zeus</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
     }
 ]

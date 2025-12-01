@@ -12,8 +12,7 @@
         "D": "<p>Felsefe</p>",
         "E": "<p>Hukuk</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717153,
@@ -28,8 +27,7 @@
         "D": "<p>İnsan onurunu korumak</p>",
         "E": "<p>Gizliliği korumak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717154,
@@ -44,8 +42,7 @@
         "D": "<p>Değer</p>",
         "E": "<p>Erdem</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717155,
@@ -60,8 +57,7 @@
         "D": "<p>Hukuk</p>",
         "E": "<p>Görgü</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717286,
@@ -76,8 +72,7 @@
         "D": "<p>Her ikisinin de dayandığı ilkeler bakımından normatiflik özelliği göstermesi</p>",
         "E": "<p>Her ikisinin de tarihsel süreç içinde değişkenlik göstermesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717294,
@@ -92,8 +87,7 @@
         "D": "<p>Meslek üyelerinin herhangi bir disiplin uygulamasından korumak</p>",
         "E": "<p>Bilim ve tekniğin açık bıraktığı güdüleme boşluğunu kapatmak</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717931,
@@ -108,8 +102,7 @@
         "D": "<p>sosyal ahlak, felsefe ve din</p>",
         "E": "<p>yaşam felsefesi, sosyal medya ve hukuk</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717933,
@@ -124,8 +117,7 @@
         "D": "<p>Felsefe</p>",
         "E": "<p>Ontoloji,</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717938,
@@ -140,8 +132,7 @@
         "D": "<p>“devletin yaptırım gücünü belirleyen belirli yasalar” olarak tanımlanmaktadır.</p>",
         "E": "<p>“toplumu yönlendiren ve devletin yapıcı gücünü belirleyen bir kısım yasalar” olarak tanımlanmaktadır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717944,
@@ -156,8 +147,7 @@
         "D": "<p>“insanlığa yol gösterici ölçüt niteliği taşıyan ve bu bağlamda genel öneriler” olarak tanımlanmaktadır.</p>",
         "E": "<p>“doğadaki tüm varlıkların iyiye evrilmesinde ölçüt niteliği taşıyan ve bu bağlamda yol kat eden öneriler” olarak tanımlanmaktadır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3718192,
@@ -172,8 +162,7 @@
         "D": "<p>Kişisel sorunların çözümlenmesi,</p>",
         "E": "<p>Sorunun bilinmesine rağmen, çeşitli nedenlerden dolayı çözüm yolunun seçilememesi,</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3718194,
@@ -188,8 +177,7 @@
         "D": "<p>ahlaki öfke ve ahlaki sıkıntı, </p>",
         "E": "<p>etik ikilem ve vicdani ret,</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3718196,
@@ -204,8 +192,7 @@
         "D": "<p>evrensellik, mesleki uğraş, meslek faaliyeti</p>",
         "E": "<p>evrensel değerler, mesleki yetkinlik, meslek bilmi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3718197,
@@ -220,8 +207,7 @@
         "D": "<p>Meslek etiği,</p>",
         "E": "<p>Mesleki farkındalık,</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3718201,
@@ -236,8 +222,7 @@
         "D": "<p>25.04.2002 tarih ve34785 sayı ile,</p>",
         "E": "<p>13.02.2005 tarih ve 25345 sayı ile,</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843965,
@@ -252,8 +237,7 @@
         "D": "Ahlaksal değerler \"iyi\" ve \"kötü\" biçiminde sınıflandırılır.",
         "E": "Estetik değerlerin olumlu karşılığı \"haz\", olumsuz karşılığı ise \"acı\"dır.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843967,
@@ -268,8 +252,7 @@
         "D": "Bilgi edinme sürecini sorgular.",
         "E": "Güzel ve çirkinin ne olduğunu açıklamaya çalışır.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843968,
@@ -284,8 +267,7 @@
         "D": "Etik değerler nesnel ve rasyoneldir; ahlaki kurallar ise kişisel davranış kurallarını içerir.",
         "E": "Etik bilmekle, ahlak ise yapmakla ilgilidir.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843970,
@@ -300,8 +282,7 @@
         "D": "Olası seçenekleri belirleyip sonuçlarını değerlendirme.",
         "E": "Kurum içi baskıların etkilerini analiz etme.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843974,
@@ -316,8 +297,7 @@
         "D": "Yalnızca sağlık meslek gruplarına uygulanır.",
         "E": "Yasal mevzuata aykırı davranışları doğrudan suç sayar.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717288,
@@ -332,8 +312,7 @@
         "D": "<p>Her ikisinin de yazılılık özelliğine sahip olması</p>",
         "E": "<p>Her ikisinin de zamanla değişime uğrayabilmesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717291,
@@ -348,8 +327,7 @@
         "D": "<p>Etik kod</p>",
         "E": "<p>Etik kararlılık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717292,
@@ -364,8 +342,7 @@
         "D": "<p>Sonuçları peşinen kabul etme</p>",
         "E": "<p>Eyleme karar verme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3718204,
@@ -380,8 +357,7 @@
         "D": "<p>Farkındalık, sosyal iletişim, mesleğe bağlılık ilkeleri ile ele alınabilir.</p>",
         "E": "<p>Ulusallık, yasallık, kişisel yetenek, sosyal iletişim becerisi ve mesleğe bağlılık ilkeleri ile ele alınabilir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843966,
@@ -396,8 +372,7 @@
         "D": "İyi ve kötü nedir?",
         "E": "Evrensel bir iyi var mıdır?",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843969,
@@ -412,8 +387,7 @@
         "D": "Devlet gücüyle uygulanan somut ve maddi yaptırımlar içerir.",
         "E": "Bireysel seçim ve tercihler doğrultusunda ortaya çıkar.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843971,
@@ -428,8 +402,7 @@
         "D": "Etik sorunların yalnızca bireysel vicdanla ilgili olması.",
         "E": "Etik sorunların yalnızca teorik düzeyde ele alınması.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843973,
@@ -444,8 +417,7 @@
         "D": "Meslek içi rekabeti düzenlemek.",
         "E": "Bireyin kişisel çıkarlarını ön plana çıkarmak.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717156,
@@ -460,8 +432,7 @@
         "D": "<p>Etiğin, değerler arasında bir hiyerarşi belirlemesine karşın ahlakın böyle hiyerarşik ilişkilenme kurmadığı</p>",
         "E": "<p>Etiğin birincil olarak bilmekle ilgili iken, ahlakın yapmakla ilgili olduğu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843972,
@@ -476,7 +447,6 @@
         "D": "Ahlaki öfke",
         "E": "Vicdani ret",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     }
 ]

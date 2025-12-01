@@ -12,8 +12,7 @@
         "D": "<p>Eğitsel Model</p>",
         "E": "<p>Ekonomik Model</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862980,
@@ -28,8 +27,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862982,
@@ -44,8 +42,7 @@
         "D": "<p>1700’lü yıllarda özel gereksinimli çocukların eğitimi sadece işitme engelli bireyler üzerine yoğunlaşmıştır.</p>",
         "E": "<p>1970'li yıllardan itibaren engellilerin eğitimi ve toplum yaşamına katılımlarında önemli gelişmeler yaşanmıştır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862983,
@@ -60,8 +57,7 @@
         "D": "<p>I-IV-V-VI</p>",
         "E": "<p>III-IV-VI</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862985,
@@ -76,8 +72,7 @@
         "D": "<p>I, IV ve V</p>",
         "E": "<p>III, IV ve V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862986,
@@ -92,8 +87,7 @@
         "D": "<p>Kaynaştırma Uygulamaları</p>",
         "E": "<p>Adaptif Eğitim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862987,
@@ -108,8 +102,7 @@
         "D": "<p>İşitme cihazları</p>",
         "E": "<p>Sanal gerçeklik gözlükleri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863194,
@@ -124,8 +117,7 @@
         "D": "<p>%4 ve üzeri</p>",
         "E": "<p>%60 ve üzeri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863195,
@@ -140,8 +132,7 @@
         "D": "<p>Renkli ve fosforlu kalemler</p>",
         "E": "<p>Sesli kitaplar </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863196,
@@ -156,8 +147,7 @@
         "D": "<p>Düşük düzey </p>",
         "E": "<p>İleri düzey</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863197,
@@ -172,8 +162,7 @@
         "D": "<p>Pille çalışan oyuncaklar </p>",
         "E": "<p>Konuşma üreten cihazlar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863198,
@@ -188,8 +177,7 @@
         "D": "<p>Akıllı saatler</p>",
         "E": "<p>İşitme cihazları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863199,
@@ -204,8 +192,7 @@
         "D": "<p>Okul öncesi eğitim</p>",
         "E": "<p>Tamamlayıcı eğitim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863201,
@@ -220,8 +207,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863202,
@@ -236,8 +222,7 @@
         "D": "<p>573 sayılı Özel Eğitim Hakkında Kanun Hükmünde Kararname</p>",
         "E": "<p>Özel Eğitim Hizmetleri Yönetmeliği</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863205,
@@ -252,8 +237,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>Yalnız I</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863220,
@@ -268,8 +252,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863221,
@@ -284,8 +267,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863223,
@@ -300,8 +282,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863225,
@@ -316,8 +297,7 @@
         "D": "<p>Kadın-erkek eşitliği</p>",
         "E": "<p>Farklılıklara saygı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862981,
@@ -332,8 +312,7 @@
         "D": "<p>I ve IV</p>",
         "E": "<p>III ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862984,
@@ -348,8 +327,7 @@
         "D": "<p>1/9/2005</p>",
         "E": "<p>1/5/2006</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863192,
@@ -364,8 +342,7 @@
         "D": "<p>Avrupa Sosyal Şartı ve Engelli Hakları Bildirgesi</p>",
         "E": "<p>573 sayılı Özel Eğitim Hakkında Kanun Hükmünde Kararname</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863200,
@@ -380,8 +357,7 @@
         "D": "<p>Orta kulaktaki bir bakteri veya virüsün orta kulak kemikciklerine hasar vermesi</p>",
         "E": "<p>Göz içi basıncın artmasına bağlı olarak görme sinirinde meydana gelen zedelenme kısmi ya da tamamen görememe</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863204,
@@ -396,8 +372,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863222,
@@ -412,8 +387,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863226,
@@ -428,8 +402,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863203,
@@ -444,8 +417,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863193,
@@ -460,7 +432,6 @@
         "D": "<p>Engellilere yönelik hizmetlerin sunumunda aile bütünlüğünün korunması esastır</p>",
         "E": "<p>Kadın-erkek eşitliği</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     }
 ]

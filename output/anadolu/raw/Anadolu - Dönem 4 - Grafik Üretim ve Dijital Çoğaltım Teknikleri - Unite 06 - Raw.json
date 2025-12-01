@@ -12,8 +12,7 @@
         "D": "<p>Kompozisyon</p>",
         "E": "<p style=\"text-align: left;\">Leke</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764522,
@@ -28,8 +27,7 @@
         "D": "<p>Tayf</p> ",
         "E": "<p>Mekan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764523,
@@ -44,8 +42,7 @@
         "D": "<p>Ambrose</p>",
         "E": "<p>Harris</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764525,
@@ -60,8 +57,7 @@
         "D": "<p>Valör</p> ",
         "E": "<p>Parlaklık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764526,
@@ -76,8 +72,7 @@
         "D": "<p>Kalibrasyon</p> ",
         "E": "<p>Pigment</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764543,
@@ -92,8 +87,7 @@
         "D": "<p>RGB</p> ",
         "E": "<p>ICC</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764604,
@@ -108,8 +102,7 @@
         "D": "<p>Valör</p>",
         "E": "<p>Değer </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764606,
@@ -124,8 +117,7 @@
         "D": "<p>Valör</p>",
         "E": "<p>Renk gamı </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764607,
@@ -140,8 +132,7 @@
         "D": "<p>Renk Profilleri </p>",
         "E": "<p>Renk Gamı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764608,
@@ -156,8 +147,7 @@
         "D": "<p>Özelleştirme</p>",
         "E": "<p>Renk Evreni Seçimi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764609,
@@ -172,8 +162,7 @@
         "D": "<p>Gamut</p>",
         "E": "<p>Saturation</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764610,
@@ -188,8 +177,7 @@
         "D": "<p>Beyaz</p>",
         "E": "<p>Mor</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764611,
@@ -204,8 +192,7 @@
         "D": "<p>Renk Profilleri</p>",
         "E": "<p>Renk evreni</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764758,
@@ -220,8 +207,7 @@
         "D": "<p>Mor kırmızı turuncu</p> ",
         "E": "<p>Sarı mavi kırmızı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764759,
@@ -236,8 +222,7 @@
         "D": "<p>Turuncu-kırmızı</p> ",
         "E": "<p>Mavi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764760,
@@ -252,8 +237,7 @@
         "D": "<p>Dijital kameralar</p> ",
         "E": "<p>Bilgisayar monitörleri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764761,
@@ -268,8 +252,7 @@
         "D": "<p>Renk çizelgesi</p> ",
         "E": "<p>Renk derecesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764764,
@@ -284,8 +267,7 @@
         "D": "<p>Otomatik renk</p> ",
         "E": "<p>Otomatik yüzey</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764765,
@@ -300,8 +282,7 @@
         "D": "<p>Tekilleştirme</p>",
         "E": "<p>Erişebilme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764766,
@@ -316,8 +297,7 @@
         "D": "<p>Renk elemesi</p> ",
         "E": "<p>Renk tartışması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764524,
@@ -332,8 +312,7 @@
         "D": "<p>Mavi, Magenta, Yeşil, Cyan</p> ",
         "E": "<p>Magenta, Siyah, Cyan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764528,
@@ -348,8 +327,7 @@
         "D": "<p>Hibrit baskı</p>  ",
         "E": "<p>Tifdruk</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764529,
@@ -364,8 +342,7 @@
         "D": "<p>RGB</p> ",
         "E": "<p>Renk Gamı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764544,
@@ -380,8 +357,7 @@
         "D": "<p>Düzeyler</p> ",
         "E": "<p>Otomatik Tonlama</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764578,
@@ -396,8 +372,7 @@
         "D": "<p>Sarı</p>",
         "E": "<p>Mavi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764757,
@@ -412,8 +387,7 @@
         "D": "<p>Dijital ürün</p>",
         "E": "<p>Teknolojik ürün</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764763,
@@ -428,8 +402,7 @@
         "D": "<p>Eğriler</p> ",
         "E": "<p>Ton / Doygunluk</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764579,
@@ -444,8 +417,7 @@
         "D": "<p>Yeşil</p>",
         "E": "<p>Beyaz</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764605,
@@ -460,8 +432,7 @@
         "D": "<p>Renk yönetimi</p>",
         "E": "<p>Renk teorisi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764762,
@@ -476,7 +447,6 @@
         "D": "<p>HSV</p> ",
         "E": "<p>HEX</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     }
 ]

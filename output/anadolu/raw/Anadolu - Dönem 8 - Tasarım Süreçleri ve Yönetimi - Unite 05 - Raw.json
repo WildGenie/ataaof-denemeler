@@ -12,8 +12,7 @@
         "D": "<p>Dijitalleşme</p>",
         "E": "<p>Teknoloji</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832055,
@@ -28,8 +27,7 @@
         "D": "<p>Enformasyon</p>",
         "E": "<p>Dijitalleşme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832059,
@@ -44,8 +42,7 @@
         "D": "<p>Ekonomik katkı sağlamıştır.</p>",
         "E": "<p>Yenilikçi ürünler yaratılmıştır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832062,
@@ -60,8 +57,7 @@
         "D": "<p>Kompozisyon iyileştirme</p>",
         "E": "<p>Görselleri manipüle etme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832063,
@@ -76,8 +72,7 @@
         "D": "Yaşlı bakımı",
         "E": "<p>İletişim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832067,
@@ -92,8 +87,7 @@
         "D": "<p>Simülasyon Kapasitesi</p>",
         "E": "<p>Taşınabilirlik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832068,
@@ -108,8 +102,7 @@
         "D": "<p>Genel Yapay Zekâ</p>",
         "E": "<p>Kriptomorfik Yapay Zeka</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832070,
@@ -124,8 +117,7 @@
         "D": "<p>Etkileme Potansiyeli</p>",
         "E": "<p>Yenilikçi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832072,
@@ -140,8 +132,7 @@
         "D": "<p>Konsept Geliştirme (Concept Development):</p>",
         "E": "<p>Modify (Değiştirme)</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832073,
@@ -156,7 +147,6 @@
         "D": "<p>Sürekli Geliştirme (Continuous Improvement)</p>",
         "E": "<p>Pazar Bilinci (Market Awareness)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

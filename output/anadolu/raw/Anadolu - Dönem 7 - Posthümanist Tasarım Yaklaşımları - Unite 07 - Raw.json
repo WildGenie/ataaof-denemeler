@@ -12,8 +12,7 @@
         "D": "<p>Apocalypse Now</p>",
         "E": "<p>İstanbul Sokaklarında</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685662,
@@ -28,8 +27,7 @@
         "D": "<p>Yeni Subjektiviteler</p>",
         "E": "<p>Ekolojik Duyarlılık</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685671,
@@ -44,8 +42,7 @@
         "D": "<p>Timbre</p>",
         "E": "<p>Perde</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3686071,
@@ -60,8 +57,7 @@
         "D": "<p>II, III, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3686103,
@@ -76,8 +72,7 @@
         "D": "<p>Ses Efektleri Zamanlaması ve Senkronizasyonu</p>",
         "E": "<p>Foley Sesleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3686134,
@@ -92,8 +87,7 @@
         "D": "<p>Ableton Live</p>",
         "E": "<p>Shure SM7B</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3686170,
@@ -108,8 +102,7 @@
         "D": "<p>Rode NTG3</p>",
         "E": "<p>Output Arcade</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3686186,
@@ -124,8 +117,7 @@
         "D": "<p>Timbre</p>",
         "E": "<p>Soundscape</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3686254,
@@ -140,8 +132,7 @@
         "D": "<p>I, II, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3686270,
@@ -156,8 +147,7 @@
         "D": "<p>Sample-Based Synthesis (Örnek Tabanlı Sentez)</p>",
         "E": "<p>Physical Modelling Synthesis (Fiziksel Modelleme Sentezi)</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841379,
@@ -172,8 +162,7 @@
         "D": "Yeni Subjektiviteler",
         "E": "Ekolojik Duyarsızlık",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841380,
@@ -188,8 +177,7 @@
         "D": "Perde",
         "E": "Timbre",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841382,
@@ -204,8 +192,7 @@
         "D": "Ses Efektleri Sentezi",
         "E": "Ses Efektleri Zamanlaması ve Senkronizasyonu",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841383,
@@ -220,8 +207,7 @@
         "D": "5",
         "E": "6",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841384,
@@ -236,8 +222,7 @@
         "D": "insan olmayan varlıkların seslerini",
         "E": "<div style=\"text-align: left;\">diyalog</div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841386,
@@ -252,8 +237,7 @@
         "D": "I, III ve IV",
         "E": "I, II, III  ve IV",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841387,
@@ -268,8 +252,7 @@
         "D": "III ve IV",
         "E": "II, III ve IV",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841394,
@@ -284,8 +267,7 @@
         "D": "Aynaroz Kadısı (1938)",
         "E": "Tosun Paşa (1939)",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841402,
@@ -300,8 +282,7 @@
         "D": "Sample-Based Synthesis (Örnek Tabanlı<br />Sentez)",
         "E": "Granular Synthesis (Taneli Sentez)",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841408,
@@ -316,7 +297,6 @@
         "D": "King Kong (1933)",
         "E": "Apocalypse Now (1979)",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

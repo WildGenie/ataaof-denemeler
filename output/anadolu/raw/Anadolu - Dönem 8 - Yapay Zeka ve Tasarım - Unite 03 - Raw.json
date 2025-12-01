@@ -12,8 +12,7 @@
         "D": "<p>Geleneksel manuel yöntemlerin yeniden canlandırılması</p>",
         "E": "<p>Sadece basit tasarım çözümlerinin üretilmesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832221,
@@ -28,8 +27,7 @@
         "D": "<p>Tasarım sürecinde tamamen manuel müdahalenin gerekliliği</p>",
         "E": "<p>Geleneksel tekniklerin tamamen devre dışı bırakılması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832223,
@@ -44,8 +42,7 @@
         "D": "<p>Eksik istemler, süreci hızlandırarak hatalı sonuçlar verir</p>",
         "E": "<p>İstem detayları sadece renk seçimlerini belirler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832224,
@@ -60,8 +57,7 @@
         "D": "<p>İki ağın birbirini tamamen kopyalaması</p>",
         "E": "<p>Verinin sabit kalıp hiçbir dönüşüme uğramaması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832226,
@@ -76,8 +72,7 @@
         "D": "<p>Tasarım sürecinde sadece estetik unsurların öne çıkarılması</p>",
         "E": "<p>Kullanıcı verilerinin toplanmasının engellenmesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832227,
@@ -92,8 +87,7 @@
         "D": "<p>Veri hacminin düşürülmesini sağlamak</p>",
         "E": "<p>Görsel ögelerle bilgiyi tamamen gizlemek</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832228,
@@ -108,8 +102,7 @@
         "D": "<p>Veri toplamadan tasarımın oluşturulması</p>",
         "E": "<p>Tasarım sürecinin durağan ve statik kalması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832229,
@@ -124,8 +117,7 @@
         "D": "<p>Verinin sadece görsel sunumlarla ilişkilendirilmesini</p>",
         "E": "<p>Verinin düşük hacimde toplanmasını</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832231,
@@ -140,8 +132,7 @@
         "D": "<p>Yalnızca estetik değerin artırılması</p>",
         "E": "<p>Video içeriğinin yalnızca metin formatına dönüştürülmesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832232,
@@ -156,7 +147,6 @@
         "D": "<p>Veri toplamayı engelleyip analizin ihmal edilmesine yol açar</p>",
         "E": "<p>Yanlızca grafik ögelerin kullanımını zorunlu kılar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Anlamlandırma</p> ",
         "E": "<p>Yanıt</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603400,
@@ -28,8 +27,7 @@
         "D": "<p>Tavır</p>",
         "E": "<p>Çıkarımda bulunamama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603403,
@@ -44,8 +42,7 @@
         "D": "<p>Parlak renkli görüntüler</p> ",
         "E": "<p>Hareketli görüntüler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603405,
@@ -60,8 +57,7 @@
         "D": "<p>Cappetta</p> ",
         "E": "<p>Schamber</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603406,
@@ -76,8 +72,7 @@
         "D": "<p>Benzetme</p> ",
         "E": "<p>İyi Gestalt</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603407,
@@ -92,8 +87,7 @@
         "D": "<p>İlgi bekleme</p> ",
         "E": "<p>Acıma duygusu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603419,
@@ -108,8 +102,7 @@
         "D": "<p>anlatı, görsel tasarım</p>",
         "E": "<p>düzen, mizanpaj</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603421,
@@ -124,8 +117,7 @@
         "D": "<p>Algı</p>",
         "E": "<p>İlgi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603422,
@@ -140,8 +132,7 @@
         "D": "<p>Yaş</p>",
         "E": "<p>Duygusal karmaşa</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603424,
@@ -156,8 +147,7 @@
         "D": "<p>Algısal Gruplama</p>",
         "E": "<p>Figür-Zemin İlişkisi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603425,
@@ -172,8 +162,7 @@
         "D": "<p>Uyaranın doğası unsuru</p>",
         "E": "<p>Hale/Aura Etkisi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603427,
@@ -188,8 +177,7 @@
         "D": "<p>Algısal set</p>",
         "E": "<p>Nitelendirme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603430,
@@ -204,8 +192,7 @@
         "D": "<p>Çıkarımda bulunma</p>",
         "E": "<p>Seçicilik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603529,
@@ -220,8 +207,7 @@
         "D": "<p>Zaman</p>",
         "E": "<p>Konum</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603530,
@@ -236,8 +222,7 @@
         "D": "<p>Hale etkisi</p> ",
         "E": "<p>Dış uyaran</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844162,
@@ -252,8 +237,7 @@
         "D": "Devamlılık",
         "E": "Mesafesel Yakınlık",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844167,
@@ -268,8 +252,7 @@
         "D": "Kontrast",
         "E": "İhtiyaçlar",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844171,
@@ -284,8 +267,7 @@
         "D": "Devamlılık",
         "E": "Örtük Algı",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844172,
@@ -300,8 +282,7 @@
         "D": "Duygusal karmaşa yaratmak",
         "E": "Belirsizlik ortamı oluşturmak",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844173,
@@ -316,8 +297,7 @@
         "D": "Yanıt Verme",
         "E": "Klişe oluşumu",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603426,
@@ -332,8 +312,7 @@
         "D": "<p>Birlik</p>",
         "E": "<p>Figür- Zemin İlişkisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603429,
@@ -348,8 +327,7 @@
         "D": "<p>Yanıt verme</p>",
         "E": "<p>Algısal setler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603527,
@@ -364,8 +342,7 @@
         "D": "<p>Organize etme</p> ",
         "E": "<p>Çıkarımda bulunma</p> <p><br /><br /></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603528,
@@ -380,8 +357,7 @@
         "D": "<p>Düzen ve mizanpaj</p>",
         "E": "<p>Cümleler ve paragraflar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603534,
@@ -396,8 +372,7 @@
         "D": "<p>Birlik</p>",
         "E": "<p>Zemin-şekil ilişkisi</p>\n<p><strong> </strong></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603536,
@@ -412,8 +387,7 @@
         "D": "<p>Çıkarımda bulunma</p> ",
         "E": "<p>Nitelendirme</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844159,
@@ -428,8 +402,7 @@
         "D": "<span>Bilinçaltı Motivasyon</span>",
         "E": "<span> Anlamlandırma</span>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844164,
@@ -444,8 +417,7 @@
         "D": "Klişe",
         "E": "Çıkarımda Bulunma",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844165,
@@ -460,8 +432,7 @@
         "D": "Hareket eden bir nesne",
         "E": "Keskin bir parfüm kokusu",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844166,
@@ -476,8 +447,7 @@
         "D": "Hale Etkisi",
         "E": "Anlam Bozumu",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603401,
@@ -492,8 +462,7 @@
         "D": "<p>Renk</p> ",
         "E": "<p>Hareket</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603404,
@@ -508,8 +477,7 @@
         "D": "<p>Mekan referansı</p> ",
         "E": "<p>Şekilsel kesinlik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603408,
@@ -524,8 +492,7 @@
         "D": "<p>Sayılar ve formüller</p>",
         "E": "<p>Anlatı ve şiir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603428,
@@ -540,8 +507,7 @@
         "D": "<p>Seçici dikkat</p>",
         "E": "<p>Kuşku</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603531,
@@ -556,8 +522,7 @@
         "D": "<p>Yer/konum</p> ",
         "E": "<p>Boyut</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603535,
@@ -572,8 +537,7 @@
         "D": "<p>Hale etkisi</p>",
         "E": "<p>Klişe</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603402,
@@ -588,8 +552,7 @@
         "D": "<p>Değişkenlik</p> ",
         "E": "<p>Yenilik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603532,
@@ -604,8 +567,7 @@
         "D": "<p>Bauhaus ürün teşhir rafları</p>",
         "E": "<p>Jujol'ün bina tasarımı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844170,
@@ -620,8 +582,7 @@
         "D": "Nitelendirme",
         "E": "Aura Etkisi",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603533,
@@ -636,7 +597,6 @@
         "D": "<p>Zemin-figür ilişkisi</p> ",
         "E": "<p>Bütünsellik</p>  ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     }
 ]

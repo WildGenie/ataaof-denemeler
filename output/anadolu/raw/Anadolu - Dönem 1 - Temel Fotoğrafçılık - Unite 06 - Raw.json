@@ -12,8 +12,7 @@
         "D": "<p>Toz zerrecikleri filme ya da baskı kağıdına leke sorunu yaratabilir.</p>",
         "E": "<p>Toz zerrecikleri banyo suyunun kimyasını bozabilir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351204,
@@ -28,8 +27,7 @@
         "D": "<p>Aspiratör olmasına</p>",
         "E": "<p>Odada İki kişden fazla kişi olmamasına</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351205,
@@ -44,8 +42,7 @@
         "D": "<p>Marjör</p>",
         "E": "<p>Agrandisör</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351206,
@@ -60,8 +57,7 @@
         "D": "<p>Marjör</p>",
         "E": "<p>Spiral</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351207,
@@ -76,8 +72,7 @@
         "D": "<p>Maşa</p>",
         "E": "<p>Termometre</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351208,
@@ -92,8 +87,7 @@
         "D": "<p>Açık-Koyu</p>",
         "E": "<p>Işıklı_ışıksız</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351209,
@@ -108,8 +102,7 @@
         "D": "<p>Şase</p>",
         "E": "<p>Filtre</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351210,
@@ -124,8 +117,7 @@
         "D": "<p>f:11-14, 1-2 sn</p>",
         "E": "<p>f:14-16, 5-6 sn</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351211,
@@ -140,8 +132,7 @@
         "D": "<p> Farklı tip ve özellikteki kâğıt, film ve kimyasallar öğrenilir.</p>",
         "E": "<p>Sonuçları etki edecek faktörleri bilir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351213,
@@ -156,8 +147,7 @@
         "D": "<p>5-6</p>",
         "E": "<p>6-7</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351214,
@@ -172,8 +162,7 @@
         "D": "<p>Dilitasyon</p>",
         "E": "<p>Emülsiyon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351215,
@@ -188,8 +177,7 @@
         "D": "<p>Objektif</p>",
         "E": "<p>Timer</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351216,
@@ -204,8 +192,7 @@
         "D": "<p>Spiral</p>",
         "E": "<p>Tank</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351217,
@@ -220,8 +207,7 @@
         "D": "<p>Tehlikeli Ortamda Çalışmak</p>",
         "E": "<p>Yalnız Ortamda Çalışmak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351218,
@@ -236,8 +222,7 @@
         "D": "<p>Gizli Görüntü</p>",
         "E": "<p>Karanlık Görüntü</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351219,
@@ -252,8 +237,7 @@
         "D": "<p>3-4</p>",
         "E": "<p>4-5</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351220,
@@ -268,8 +252,7 @@
         "D": "<p>Agrandisör</p>",
         "E": "<p>Pozlama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351221,
@@ -284,7 +267,6 @@
         "D": "<p>Siyah Beyaz Baskı</p>",
         "E": "<p>Test Baskısı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     }
 ]

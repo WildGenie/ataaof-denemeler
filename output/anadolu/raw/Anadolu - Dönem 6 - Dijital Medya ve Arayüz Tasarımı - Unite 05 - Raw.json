@@ -12,8 +12,7 @@
         "D": "<p><span style=\"font-weight: 400;\">Walt Disney</span></p>",
         "E": "<p><span style=\"font-weight: 400;\">Snow White</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601490,
@@ -28,8 +27,7 @@
         "D": "<p><span style=\"font-weight: 400;\">Squash</span></p>",
         "E": "<p><span style=\"font-weight: 400;\">Frames</span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601491,
@@ -44,8 +42,7 @@
         "D": "<p><span style=\"font-weight: 400;\">Madagaskar</span></p>",
         "E": "<p><span style=\"font-weight: 400;\">Ice Age</span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601492,
@@ -60,8 +57,7 @@
         "D": "<p><span style=\"font-weight: 400;\">Sağlam Çizim</span></p>",
         "E": "<p><span style=\"font-weight: 400;\">İkincil Hareket</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601493,
@@ -76,8 +72,7 @@
         "D": "<p><span style=\"font-weight: 400;\">Sağlam Çizim</span></p>",
         "E": "<p><span style=\"font-weight: 400;\">İkincil Hareket</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601494,
@@ -92,8 +87,7 @@
         "D": "<p><span style=\"font-weight: 400;\">Exaggeration</span></p>",
         "E": "<p><span style=\"font-weight: 400;\">Timing</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601495,
@@ -108,8 +102,7 @@
         "D": "<p><span style=\"font-weight: 400;\">Exaggeration</span></p>",
         "E": "<p><span style=\"font-weight: 400;\">Timing</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601496,
@@ -124,8 +117,7 @@
         "D": "<p>HDMI</p>",
         "E": "<p>FPS</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601497,
@@ -140,7 +132,6 @@
         "D": "<p><span style=\"font-weight: 400;\">Dissolve</span></p>",
         "E": "<p><span style=\"font-weight: 400;\">Fade in-out</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     }
 ]

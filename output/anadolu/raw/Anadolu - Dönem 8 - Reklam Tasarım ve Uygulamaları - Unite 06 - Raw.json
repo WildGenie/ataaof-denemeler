@@ -12,8 +12,7 @@
         "D": "<p>III ve V</p>",
         "E": "<p>I-III ve V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830841,
@@ -28,8 +27,7 @@
         "D": "<p>Storyboard</p>",
         "E": "<p>Stereotip</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830857,
@@ -44,8 +42,7 @@
         "D": "<p>Pan</p>",
         "E": "<p>Stereotip</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831647,
@@ -60,8 +57,7 @@
         "D": "<p>1960</p>",
         "E": "<p>1980</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831649,
@@ -76,8 +72,7 @@
         "D": "<p>II ve V</p>",
         "E": "<p>II-IV ve V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831651,
@@ -92,8 +87,7 @@
         "D": "<p>En iyi reklamlar reklamcılar için iş alanı yaratırlar.</p>",
         "E": "<p>Reklam süreleri yıllardan beri giderek artmaktadır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831654,
@@ -108,8 +102,7 @@
         "D": "<p>Televizyonda yayımlanan reklam mesajının ömrü uzundur.</p>",
         "E": "<p>Gazete ve dergi reklamlarındaki gibi televizyonda reklam mesajını tekrar gözden geçirme fırsatı yoktur.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831657,
@@ -124,8 +117,7 @@
         "D": "<p>Müzik</p>",
         "E": "<p>Ses </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831658,
@@ -140,8 +132,7 @@
         "D": "<p>Trucking (kaydırma)</p>",
         "E": "<p>Pan (çevrinme)</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831661,
@@ -156,7 +147,6 @@
         "D": "<p>Serimleme işlevi</p>",
         "E": "<p>Prodüksiyon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

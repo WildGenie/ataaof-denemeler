@@ -12,8 +12,7 @@
         "D": "<p>\"Text art\" ile çalışılırken \"typewriter art” tekniğinde bilgisayar kullanılmaz.</p>",
         "E": "<p>Text art, yazının metin özelliğini bozarak gerçekleştirilen uygulamalara verilen isimdir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487980,
@@ -28,8 +27,7 @@
         "D": "<p>Yanılsama</p>",
         "E": "<p>Simülasyon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487981,
@@ -44,8 +42,7 @@
         "D": "<p>Anton Parsons-\"Passing Time\"-Ekslibris</p>",
         "E": "<p>Anton Parsons-\"Passing Time\"-Enstalasyon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487982,
@@ -60,8 +57,7 @@
         "D": "<p>Tipografiden yararlanılan sanatçı kitapları normal kitaplara benzemektedir.</p>",
         "E": "<p>Sanatçı kitaplarında kullanılan tipografi, daha kısıtlı ifade olanaklarıyla tasarımcının hizmetindedir. </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487991,
@@ -76,8 +72,7 @@
         "D": "<p>Animasyonlardır.</p>",
         "E": "<p>Yazının resim özelliğini tamamen yitirip semantik bir anlam taşımayan işaretlerden oluşan harflerle var edilmesidir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487994,
@@ -92,8 +87,7 @@
         "D": "<p>Hat sanatı</p> ",
         "E": "<p>Stencil</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487996,
@@ -108,8 +102,7 @@
         "D": "<p> Mary White</p>",
         "E": "<p> Ezgi Hakan Verdu Martinez</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487998,
@@ -124,8 +117,7 @@
         "D": "<p>Hat sanatı</p> ",
         "E": "<p>Tipo baskı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488095,
@@ -140,8 +132,7 @@
         "D": "<p>III ve IV </p>",
         "E": "<p>II ve IV </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488096,
@@ -156,8 +147,7 @@
         "D": "<p>Yöresel sanat </p>",
         "E": "<p>El sanatları </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488098,
@@ -172,8 +162,7 @@
         "D": "<p>Özgürlük </p>",
         "E": "<p>İletişim </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488099,
@@ -188,8 +177,7 @@
         "D": "<p>Metin yazılarını kontrol etme </p>",
         "E": "<p>Sayfa kenar boşlukları ve sınırlarını göz önünde bulundurma </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488100,
@@ -204,8 +192,7 @@
         "D": "<p>Text art</p>",
         "E": "<p>ANSI art</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488101,
@@ -220,8 +207,7 @@
         "D": "<p>Yazı resim </p>",
         "E": "<p>Hat sanatı </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488102,
@@ -236,8 +222,7 @@
         "D": "<p>Ekslibris </p>",
         "E": "<p>Tipografi </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488186,
@@ -252,8 +237,7 @@
         "D": "<p>Sürdürülebilirlik</p> ",
         "E": "<p>Algılanırlık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488187,
@@ -268,8 +252,7 @@
         "D": "<p>Ekspresyonist</p> ",
         "E": "<p>Suprematist</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488188,
@@ -284,8 +267,7 @@
         "D": "<p>Edvard Munch</p> ",
         "E": "<p>Georges Seurat</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488189,
@@ -300,8 +282,7 @@
         "D": "<p>Neşe Erdok</p> ",
         "E": "<p>İbrahim Çallı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488192,
@@ -316,8 +297,7 @@
         "D": "<p>Guillaume Apollinaire</p> ",
         "E": "<p>Georges Braque</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487874,
@@ -332,8 +312,7 @@
         "D": "<p>Sanat felsefesi insan ve insana ait değerler açısından sanata bakar.</p>",
         "E": "<p>Sanat tarihi tarihsel süreç içerisinde sanata bakar ve eski dönemler için arkeolojiden destek alır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487875,
@@ -348,8 +327,7 @@
         "D": "<p>Harf espaslarına dikkat etmeye gerek yoktur.</p>",
         "E": "<p>Aynı sayfada sadece bir yazı karakteri kullan.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487958,
@@ -364,8 +342,7 @@
         "D": "<p>Ekslibris içinde yazı 3 farklı konumdadır.</p>",
         "E": "<p>Ekslibris üretiminde sanatçılar sadece ağaç baskı tekniğini kullanmaktadır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487979,
@@ -380,8 +357,7 @@
         "D": "<p>Heykel</p>",
         "E": "<p>Enstalasyon sanatı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487983,
@@ -396,8 +372,7 @@
         "D": "<p>Günümüzde sanatçılar bu tekniği atölyelerinde kullanmamaktadır.</p>",
         "E": "<p>Tipografinin başlangıç noktası sayılan tipo baskı bir yüksek baskı tekniğidir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487993,
@@ -412,8 +387,7 @@
         "D": "<p> İnsan sureti çiziminin uygun görülmemesi</p>",
         "E": "<p>Hat sanatının başlangıcı islam dininden sonra olması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488184,
@@ -428,8 +402,7 @@
         "D": "<p>I, II, III, IV, V</p>",
         "E": "<p>III ve V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488185,
@@ -444,8 +417,7 @@
         "D": "<p>Punto</p> ",
         "E": "<p>Font</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488191,
@@ -460,8 +432,7 @@
         "D": "<p>Marcel Duchamp</p> ",
         "E": "<p>Max Ernst</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488193,
@@ -476,8 +447,7 @@
         "D": "<p>Eric Gill</p> ",
         "E": "<p>Jaume Plensa</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487989,
@@ -492,8 +462,7 @@
         "D": "<p>Tasarım, sanata göre oldukça yeni bir kavramdır.</p>",
         "E": "<p> Sanat ve tasarım işleyişte iç içe olmaları onların ayırt edilmesini kolaylaştırır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487995,
@@ -508,8 +477,7 @@
         "D": "<p> II ve III</p>",
         "E": "<p>Yalnızca III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488094,
@@ -524,8 +492,7 @@
         "D": "<p>Sanat sosyolojisi </p>",
         "E": "<p>Sanat felsefesi </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488097,
@@ -540,8 +507,7 @@
         "D": "<p>I ve IV </p>",
         "E": "<p>I ve III </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488190,
@@ -556,8 +522,7 @@
         "D": "<p>Henry Moore</p> ",
         "E": "<p>Umberto Boccioni</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487887,
@@ -572,8 +537,7 @@
         "D": "<p>Raoul Hausmann (Sürrealizm) ve Rene Magritte (Pop Art)</p>",
         "E": "<p>Carlo Carra (Fütürizm) ve Pablo Picasso (Kübizm)</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487990,
@@ -588,8 +552,7 @@
         "D": "<p>Okunurluk</p> ",
         "E": "<p>Dizgi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487992,
@@ -604,8 +567,7 @@
         "D": "<p>Kaligrafi</p>",
         "E": "<p> Grafiti</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487997,
@@ -620,8 +582,7 @@
         "D": "<p>Joan Miro</p>",
         "E": "<p>Jeanne Opgenhaffen</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488103,
@@ -636,7 +597,6 @@
         "D": "<p>Roy Lichtenstein</p>",
         "E": "<p>Stuart Davis</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     }
 ]

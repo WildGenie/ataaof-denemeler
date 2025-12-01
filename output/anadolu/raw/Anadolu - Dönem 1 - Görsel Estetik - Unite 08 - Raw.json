@@ -12,8 +12,7 @@
         "D": "<p>Henri Bergson</p>",
         "E": "<p>Newton</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858610,
@@ -28,8 +27,7 @@
         "D": "<p>Reel zaman</p>",
         "E": "<p>Astronomik zaman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858731,
@@ -44,8 +42,7 @@
         "D": "<p>Biyolojik zaman</p>",
         "E": "<p>Gelecek zaman</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858737,
@@ -60,8 +57,7 @@
         "D": "<p>Einstein</p>",
         "E": "<p>Bergson</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858777,
@@ -76,8 +72,7 @@
         "D": "<p>Kant</p>",
         "E": "<p>Einstein</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858887,
@@ -92,8 +87,7 @@
         "D": "<p>Tarkovski</p>",
         "E": "<p>Henri Bergson</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859517,
@@ -108,8 +102,7 @@
         "D": "<p>Objektif zaman</p>",
         "E": "<p>Öznel zaman</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859528,
@@ -124,8 +117,7 @@
         "D": "<p>Kübist Devrim</p>",
         "E": "<p>Romantizm Akımı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859544,
@@ -140,8 +132,7 @@
         "D": "<p>Henri Bergson</p>",
         "E": "<p>Jean Baudrillard</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859545,
@@ -156,8 +147,7 @@
         "D": "<p>Post-modernizm</p>",
         "E": "<p>Klasik dönem</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859547,
@@ -172,8 +162,7 @@
         "D": "<p>I,II ve IV</p>",
         "E": "<p>Yalnız IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859553,
@@ -188,8 +177,7 @@
         "D": "<p>Filmin yazım aşamasında geçen zaman</p>",
         "E": "<p>İzleyicinin film izleme sürecinde salonda tükettiği reel zaman</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859557,
@@ -204,8 +192,7 @@
         "D": "<p>Kübizm</p>",
         "E": "<p>Fütürizm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859559,
@@ -220,8 +207,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859563,
@@ -236,8 +222,7 @@
         "D": "<p>Zaman para gibi borç olarak verilebilir</p>",
         "E": "<p>İnsanlar başkalarının zamanını kullanabilir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859587,
@@ -252,8 +237,7 @@
         "D": "<p>Mitik ve metafizik bir ayrım bulunur.</p>",
         "E": "<p>Özneldir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859589,
@@ -268,8 +252,7 @@
         "D": "<p>İdeal zaman</p>",
         "E": "<p>Nesnel zaman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859599,
@@ -284,8 +267,7 @@
         "D": "<p>Bergson</p>",
         "E": "<p>Baker</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859625,
@@ -300,8 +282,7 @@
         "D": "<p>Bergson</p>",
         "E": "<p>Sokrates</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859632,
@@ -316,8 +297,7 @@
         "D": "<p>6</p>",
         "E": "<p>4</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858612,
@@ -332,8 +312,7 @@
         "D": "<p>Kant</p>",
         "E": "<p>Newton</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858736,
@@ -348,8 +327,7 @@
         "D": "<p>Newton</p>",
         "E": "<p>Platon</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858783,
@@ -364,8 +342,7 @@
         "D": "<p>Merceklerle</p>",
         "E": "<p>Görsel efektlerle</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858821,
@@ -380,8 +357,7 @@
         "D": "<p>Kamera açıları</p>",
         "E": "<p>Görsel efektler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858893,
@@ -396,8 +372,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858899,
@@ -412,8 +387,7 @@
         "D": "<p>Zenon</p>",
         "E": "<p>Gilles Deleuze</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858901,
@@ -428,8 +402,7 @@
         "D": "<p>Kamera hareketi - Montaj</p>",
         "E": "<p>Kamera Hareketi - Kurgu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859521,
@@ -444,8 +417,7 @@
         "D": "<p>Kamera aksesuarı</p>",
         "E": "<p>Mattebox</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859525,
@@ -460,8 +432,7 @@
         "D": "<p>Bergson</p>",
         "E": "<p>Newton</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859536,
@@ -476,8 +447,7 @@
         "D": "<p>Kameranın pelikül üzerinde kaydettiği zaman</p>",
         "E": "<p>Reel zaman</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859546,
@@ -492,8 +462,7 @@
         "D": "<p>İletişim Toplumu</p>",
         "E": "<p>İlkel Toplum</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859561,
@@ -508,8 +477,7 @@
         "D": "<p>2 gün</p>",
         "E": "<p>2 saat</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859570,
@@ -524,8 +492,7 @@
         "D": "<p>Aristoteles</p>",
         "E": "<p>Descartes</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859572,
@@ -540,8 +507,7 @@
         "D": "<p>Platon</p>",
         "E": "<p>Sokrates</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859573,
@@ -556,8 +522,7 @@
         "D": "<p>René Descartes</p>",
         "E": "<p>Jean-Paul Sartre</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859576,
@@ -572,8 +537,7 @@
         "D": "<p>Subjektif zaman</p>",
         "E": "<p>Şimdiki zaman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859594,
@@ -588,8 +552,7 @@
         "D": "<p>Henri Bergson</p>",
         "E": "<p>Newton</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858337,
@@ -604,8 +567,7 @@
         "D": "<p>Yenilenebilir</p>",
         "E": "<p>Borç alınabilir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858605,
@@ -620,8 +582,7 @@
         "D": "<p>Yenilenemez</p>",
         "E": "<p>Ziyan edilemez</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858608,
@@ -636,8 +597,7 @@
         "D": "<p>Bergson</p>",
         "E": "<p>Aristoteles</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858775,
@@ -652,8 +612,7 @@
         "D": "<p>II ve I</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858780,
@@ -668,8 +627,7 @@
         "D": "<p>İzleyicinin salonda tükettiği reel zaman</p>",
         "E": "<p>Reel Zaman </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858782,
@@ -684,8 +642,7 @@
         "D": "<p>Zaman mitik ve metafizik (dinsel) olarak değerlendirilebilir.</p>",
         "E": "<p>Nesnelerin fiziksel özelliklerinin yanına zaman kavramı da eklenmiştir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858784,
@@ -700,8 +657,7 @@
         "D": "<p>Süre içinde cisimler sıkışmakta, zaman genişlemektedir</p>",
         "E": "<p>Şimdi, geçmiş ve gelecek bir bütün olarak sezilmez.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858902,
@@ -716,8 +672,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859534,
@@ -732,8 +687,7 @@
         "D": "<p>Hayâlî zaman</p>",
         "E": "<p>Mevhum zaman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859539,
@@ -748,8 +702,7 @@
         "D": "<p>Henri Bergson</p>",
         "E": "<p>Immanuel Kant</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859580,
@@ -764,8 +717,7 @@
         "D": "<p>Platon</p>",
         "E": "<p>Hume</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859583,
@@ -780,8 +732,7 @@
         "D": "<p>Descartes</p>",
         "E": "<p>Arisitoteles</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859586,
@@ -796,8 +747,7 @@
         "D": "<p>Zaman psikolojiktir.</p>",
         "E": "<p>Zaman değişkendir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859597,
@@ -812,8 +762,7 @@
         "D": "<p>Depolanamaz olması</p> ",
         "E": " <p> Alınıp verilemez olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859624,
@@ -828,8 +777,7 @@
         "D": "<p>Aristoteles</p>",
         "E": "<p>Newton</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859627,
@@ -844,8 +792,7 @@
         "D": "<p>Romantizm</p>",
         "E": "<p>Kübist devrim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858609,
@@ -860,8 +807,7 @@
         "D": "<p>İrreel</p>",
         "E": "<p>Mevhum</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858613,
@@ -876,8 +822,7 @@
         "D": "<p>Sinematografik Ritim</p>",
         "E": "<p>Çizgisel dizim.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858739,
@@ -892,8 +837,7 @@
         "D": "<p>Modernizm</p>",
         "E": "<p>Post modernizm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858776,
@@ -908,8 +852,7 @@
         "D": "<p>Zaman bir nokta üzerinden diğer bir nokta üzerine hareket eden kesintisiz, dinamik ve döngüsel olmayan şeydir.</p>",
         "E": "<p>Zaman mutlaktır, ölçülebilir, hesaplanabilir ve temelde dışsal bir öğeden bağımsız olarak akar.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858779,
@@ -924,8 +867,7 @@
         "D": "<p>İzleyicinin film izleme sürecinde salonda tükettiği reel zamana</p>",
         "E": "<p>Hayali zamana</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859518,
@@ -940,8 +882,7 @@
         "D": "<p>Aristoteles</p>",
         "E": "<p>Newton</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859531,
@@ -956,8 +897,7 @@
         "D": "<p>Geçmiş zaman</p>",
         "E": "<p>Süjesel zaman</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859540,
@@ -972,8 +912,7 @@
         "D": "<p>Zaman</p>",
         "E": "<p>Görecelik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859551,
@@ -988,8 +927,7 @@
         "D": "<p>Thales</p>",
         "E": "<p>Pisagor</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859556,
@@ -1004,8 +942,7 @@
         "D": "<p>Einstein</p>",
         "E": "<p>Giddens</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859562,
@@ -1020,8 +957,7 @@
         "D": "<p>&Ouml;znel</p>",
         "E": "<p>Hay&acirc;l&icirc;</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859564,
@@ -1036,8 +972,7 @@
         "D": "<p>Doğup büyüyen bebekler</p>",
         "E": "<p>Dünya'nın ekseni ile ekliptik düzlem arasındaki açı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859567,
@@ -1052,8 +987,7 @@
         "D": "<p>Depolanamaması</p>",
         "E": "<p>Sonrasında tüketilememesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859581,
@@ -1068,8 +1002,7 @@
         "D": "<p>Platon</p>",
         "E": "<p>Locke</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859584,
@@ -1084,8 +1017,7 @@
         "D": "<p>Newton</p>",
         "E": "<p>Einstein</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859628,
@@ -1100,8 +1032,7 @@
         "D": "<p>Bell</p>",
         "E": "<p>Zettl</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858728,
@@ -1116,8 +1047,7 @@
         "D": "<p>Başarı</p>",
         "E": "<p>Kısıtlama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858781,
@@ -1132,8 +1062,7 @@
         "D": "<p>Zaman ikame edilemez.</p>",
         "E": "<p>Zaman borç gibi alınıp verilebilir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858884,
@@ -1148,8 +1077,7 @@
         "D": "<p>Gilles Deleuze</p>",
         "E": "<p>Newton</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858897,
@@ -1164,8 +1092,7 @@
         "D": "<p>İzafiyet teorisi</p>",
         "E": "<p>Görsel efektler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858900,
@@ -1180,8 +1107,7 @@
         "D": "<p>Subjektif zaman</p>",
         "E": "<p>Kurgusal zaman</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859519,
@@ -1196,8 +1122,7 @@
         "D": "<p>Zaman, zihnin varlıkları bütünlüklü olarak, anında kavrayamamasının sonucunda meydana gelmiştir.</p>",
         "E": "<p>Zaman bir nokta üzerinden diğer bir nokta üzerine hareket eden kesintisiz, dinamik ve döngüsel olmayan şeydir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859526,
@@ -1212,8 +1137,7 @@
         "D": "<p>Newton</p>",
         "E": "<p>Glidens</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859530,
@@ -1228,8 +1152,7 @@
         "D": "<p>Kumar</p>",
         "E": "<p>Castells</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859535,
@@ -1244,8 +1167,7 @@
         "D": "<p>İrreel zaman</p>",
         "E": "<p>Kurgusal zaman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859549,
@@ -1260,8 +1182,7 @@
         "D": "<p>Gelecek Zaman</p>",
         "E": "<p>Geçmiş Zaman</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859565,
@@ -1276,8 +1197,7 @@
         "D": "<p>Bir günün 24 saat olması</p>",
         "E": "<p>2 hafta yurtdışına çıkan iş adamı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859601,
@@ -1292,8 +1212,7 @@
         "D": "<p>göreli</p>",
         "E": "<p>mutlak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859623,
@@ -1308,8 +1227,7 @@
         "D": "<p>5</p>",
         "E": "<p>4</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858363,
@@ -1324,8 +1242,7 @@
         "D": "<p>Resim</p>",
         "E": "<p>Televizyon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858614,
@@ -1340,8 +1257,7 @@
         "D": "<p>Astronomik zaman</p>",
         "E": "<p>İrreel zaman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858890,
@@ -1356,8 +1272,7 @@
         "D": "<p>Henri Bergson</p>",
         "E": "<p>Gilles deleuze</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859514,
@@ -1372,8 +1287,7 @@
         "D": "<p>Objektif zaman</p>",
         "E": "<p>Öznel zaman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859522,
@@ -1388,8 +1302,7 @@
         "D": "<p>Görsel efektler</p>",
         "E": "<p>Yakın çekim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859542,
@@ -1404,8 +1317,7 @@
         "D": "<p>Atom zamanı</p>",
         "E": "<p>Sübjektif zaman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859548,
@@ -1420,8 +1332,7 @@
         "D": "<p>Baudrillard</p>",
         "E": "<p>Foucalt</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859554,
@@ -1436,8 +1347,7 @@
         "D": "<p>Bergson</p>",
         "E": "<p>Gilles Deleuze</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859555,
@@ -1452,8 +1362,7 @@
         "D": "<p>Tarkovski</p>",
         "E": "<p>Bergson</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859560,
@@ -1468,8 +1377,7 @@
         "D": "<p>Anthony Giddens</p>",
         "E": "<p>Pierre Bourdieu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859578,
@@ -1484,8 +1392,7 @@
         "D": "<p>Hayali zaman</p>",
         "E": "<p>Mevhum zaman</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859626,
@@ -1500,8 +1407,7 @@
         "D": "<p>Bergson</p>",
         "E": "<p>Aristoteles</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859631,
@@ -1516,8 +1422,7 @@
         "D": "<p>Kurgusal zaman</p>",
         "E": "<p>Algılanan zaman</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858738,
@@ -1532,8 +1437,7 @@
         "D": "<p>Bergson</p>",
         "E": "<p>Aristoteles</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859516,
@@ -1548,8 +1452,7 @@
         "D": "<p>Subjektif zaman</p>",
         "E": "<p>Nesnel zaman</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859524,
@@ -1564,8 +1467,7 @@
         "D": "<p>Mitolojik zaman</p>",
         "E": "<p>Geçmiş zaman</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859532,
@@ -1580,8 +1482,7 @@
         "D": "<p>Reel zaman</p>",
         "E": "<p>Subjektif zaman</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859582,
@@ -1596,8 +1497,7 @@
         "D": "<p>Kant</p>",
         "E": "<p>Tarkovski</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859543,
@@ -1612,8 +1512,7 @@
         "D": "<p>John Stuart Mill</p>",
         "E": "<p>John Locke</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859566,
@@ -1628,8 +1527,7 @@
         "D": "<p>Subjektif zaman</p>",
         "E": "<p>Biyolojik saat</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859590,
@@ -1644,8 +1542,7 @@
         "D": "<p>Foucault</p>",
         "E": "<p>Derrida</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859591,
@@ -1660,8 +1557,7 @@
         "D": "<p>Endüstri devrimi</p>",
         "E": "<p>I. Dünya Savaşı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859592,
@@ -1676,8 +1572,7 @@
         "D": "<p>Performans</p>",
         "E": "<p>Televizyon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859600,
@@ -1692,8 +1587,7 @@
         "D": "<p>Endüstriyel toplum</p>",
         "E": "<p>Günümüz toplumu (post-endüstriyel)</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859602,
@@ -1708,8 +1602,7 @@
         "D": "<p>Mekân ve hareketle ilişkili olarak fotoğraf makinesi nesneyi şimdiki zamanında dinamik bir şey olarak resmeder.</p>",
         "E": "<p>Videoda hareket doğrusal olarak ilerlemek zorunda değildir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859527,
@@ -1724,8 +1617,7 @@
         "D": "<p>Romantizm</p>",
         "E": "<p>Ağ toplumu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859568,
@@ -1740,8 +1632,7 @@
         "D": "<p>“Üniversite Öğrencilerinin Argoya Bakışı”</p>",
         "E": "<p>“Dil İncelemelerinde Anlam Bağının Gereği”</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859579,
@@ -1756,8 +1647,7 @@
         "D": "<p>Objektif zaman</p>",
         "E": "<p>Şimdiki zaman</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859598,
@@ -1772,8 +1662,7 @@
         "D": "<p>Zaman imge, varlığın belirlenimini sinemasal bir sezgiyle anlamaktır.</p>",
         "E": "<p>Varlığın kendinde hâlini, izleyicinin içsel zamanıyla buluşturmaktır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858607,
@@ -1788,8 +1677,7 @@
         "D": "<p>Platon</p>",
         "E": "<p>Einstein</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859533,
@@ -1804,8 +1692,7 @@
         "D": "<p>Aristoteles </p>",
         "E": "<p>Isaac Newton</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859550,
@@ -1820,8 +1707,7 @@
         "D": "<p>Zaman yenilenemez.</p>",
         "E": "<p>Zaman borç alınıp verilemez.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858358,
@@ -1836,8 +1722,7 @@
         "D": "<p>Boyut</p>",
         "E": "<p>Zaman</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859537,
@@ -1852,8 +1737,7 @@
         "D": "<p>Zaman yeniden üretilebilir.</p>",
         "E": "<p>Zaman sadece kişinin kendisine bağlıdır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859569,
@@ -1868,8 +1752,7 @@
         "D": "<p>Platon ve Aristoteles</p>",
         "E": "<p>Platon ve Sokrates</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858364,
@@ -1884,8 +1767,7 @@
         "D": "<p>Zeno</p>",
         "E": "<p>Akira Kurosawa</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858606,
@@ -1900,8 +1782,7 @@
         "D": "<p>Platon</p>",
         "E": "<p>Einstein</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859513,
@@ -1916,8 +1797,7 @@
         "D": "<p>III ve IV</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859538,
@@ -1932,8 +1812,7 @@
         "D": "<p>Sokrates</p>",
         "E": "<p>Aristoteles</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858730,
@@ -1948,8 +1827,7 @@
         "D": "<p>Biyolojik zaman</p>",
         "E": "<p>Subjektif zaman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859585,
@@ -1964,8 +1842,7 @@
         "D": "<p>Bir günün 24 saat olması</p>",
         "E": "<p>Bir yılın 365 gün olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859629,
@@ -1980,8 +1857,7 @@
         "D": "<p>Bell</p>",
         "E": "<p>Kurosawa</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858365,
@@ -1996,8 +1872,7 @@
         "D": "<p>İzleyici tarafından algılanan zaman,Süjesel zaman, Kameranın pelikül üzerinde kaydettiği zaman</p>",
         "E": "<p>Süjesel zaman, İzleyici tarafından algılanan zaman, Reel zaman</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859558,
@@ -2012,8 +1887,7 @@
         "D": "<p>Tesla</p>",
         "E": "<p>Baker</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859571,
@@ -2028,8 +1902,7 @@
         "D": "<p>Descartes</p>",
         "E": "<p>Kant</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859574,
@@ -2044,8 +1917,7 @@
         "D": "<p>Kant</p>",
         "E": "<p>Einstein</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859577,
@@ -2060,8 +1932,7 @@
         "D": "<p>Einstein</p>",
         "E": "<p>Kant</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859595,
@@ -2076,8 +1947,7 @@
         "D": "<p>İzleyici tarafından algılanan zaman</p>",
         "E": "<p>Reel zaman</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858336,
@@ -2092,8 +1962,7 @@
         "D": "<p>I,III</p>",
         "E": "<p>II,III,IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858361,
@@ -2108,8 +1977,7 @@
         "D": "<p>Newton</p>",
         "E": "<p>Einstein</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858778,
@@ -2124,8 +1992,7 @@
         "D": "<p>Görsel efektler</p>",
         "E": "<p>Bütçe</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858886,
@@ -2140,8 +2007,7 @@
         "D": "<p>Newton</p>",
         "E": "<p>Tarkovski</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859520,
@@ -2156,8 +2022,7 @@
         "D": "<p>Hayali zaman</p>",
         "E": "<p>Astronomik zaman</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859552,
@@ -2172,8 +2037,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859588,
@@ -2188,8 +2052,7 @@
         "D": "<p>Castells</p>",
         "E": "<p>Einstein</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858734,
@@ -2204,8 +2067,7 @@
         "D": "<p>Zaman yenilenebilir</p>",
         "E": "<p>Zaman para gibi borç alınıp verilebilir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858823,
@@ -2220,8 +2082,7 @@
         "D": "<p>Reel zaman-Hayali zaman</p>",
         "E": "<p>Hayali zaman-Kurgusal zaman</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859541,
@@ -2236,8 +2097,7 @@
         "D": "<p>I, III ve IV</p>",
         "E": "<p>III ve IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859529,
@@ -2252,8 +2112,7 @@
         "D": "<p>Tarkovski</p>",
         "E": "<p>Zenon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859596,
@@ -2268,8 +2127,7 @@
         "D": "<p>Hayali zaman</p>",
         "E": "<p>Biyolojik zaman</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859523,
@@ -2284,7 +2142,111 @@
         "D": "<p>Yaratıcıdır.</p>",
         "E": "<p>Metafiziğin aslıdır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3859575,
+        "UniteNo": 8,
+        "PageNumber": 229,
+        "AnswerExplanation": "<p>Zaman konusunda görüş bildiren bir diğer düşünür olan Kant ise, zamanın nesnel dünyadan kazanılmış bir şey olmadığını ancak insanın nesnel dünyayı algılamasının temel şartı olduğunu dile getirir. Kant’a göre zaman öznel ve idealdir. Doğru cevap C'dir.</p>",
+        "Title": "",
+        "Text": "<p>Zamanın nesnel dünyadan kazanılmış bir şey olmadığını ancak insanın nesnel dünyayı algılamasının temel şartı olduğunu dile getiren, öznel ve ideal olduğunu söyleyen düşünür aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Aristoteles</p>",
+        "B": "<p>Platon</p>",
+        "C": "<p>Kant</p>",
+        "D": "<p>Bergson</p>",
+        "E": "<p>Einstein</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3859593,
+        "UniteNo": 8,
+        "PageNumber": 227,
+        "AnswerExplanation": "<p>Herkesin eşit şekilde sahip olduğu zamana ilişkin bir diğer ayrımı; Objektif zaman (nesnel zaman) ve subjektif zaman (öznel zaman) ayrımıdır. Objektif zaman, saate ve/veya takvime bağlı (saat, gün, hafta, ay) olarak ölçülebilen, gözlenebilen, takip edilebilen zamandır.</p>",
+        "Title": "",
+        "Text": "<p>\"Saate ve/veya takvime bağlı (saat, gün, hafta, ay) olarak ölçülebilen, gözlenebilen, takip edilebilen zaman\" olarak tanımlanan kavram aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Geçmiş Zaman</p>",
+        "B": "<p>Şimdiki Zaman</p>",
+        "C": "<p>Gelecek Zaman</p>",
+        "D": "<p>Objektif Zaman</p>",
+        "E": "<p>Subjektif Zaman</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3858611,
+        "UniteNo": 8,
+        "PageNumber": 234,
+        "AnswerExplanation": "<p>Deleuze hareket-imgenin olay örgüsüne dayandığını iddia etmiştir. Zamanimge ise, Deleuze için yeni bir algılama yoludur. Deleuze, Bergson’dan süre ve sezgi kavramlarını ödünç alarak zaman-imge kavramını geliştirmiştir. Doğru cevap C'dir.</p>",
+        "Title": "",
+        "Text": "<p>Hareket-imgenin sinemada olay örgüsüne dayandığını iddia eden düşünür aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Bergson</p>",
+        "B": "<p>Einstein</p>",
+        "C": "<p>Deleuze</p>",
+        "D": "<p>Tarkovski</p>",
+        "E": "<p>Balsom</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3858360,
+        "UniteNo": 8,
+        "PageNumber": 229,
+        "AnswerExplanation": "<p>Henri Bergson ise, göre, zaman bir nokta üzerinden diğer bir nokta üzerine hareket eden kesintisiz, dinamik ve döngüsel olmayan şeydir. İki farklı anlayışı olduğunu savunan Bergson için, birincisi; bireyin içinde var olan ve sezgi yoluyla elde edilen süre, ikincisi ise nesnel dünyanın yansıması olarak araya “mekân fikri sokulan süre”olduğunu ifade eder. Doğru cevap A'dır.</p>",
+        "Title": "",
+        "Text": "<p>\"Zaman bir nokta üzerinden diğer bir nokta üzerine hareket eden kesintisiz, dinamik ve döngüsel olmayan şeydir.\" Görüşü kime aittir?</p>",
+        "A": "<p>Henri Bergson</p>",
+        "B": "<p>Kant</p>",
+        "C": "<p>Platon</p>",
+        "D": "<p>Aristoteles</p>",
+        "E": "<p>Einstein</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3859515,
+        "UniteNo": 8,
+        "PageNumber": 227,
+        "AnswerExplanation": "<p>Zamanı diğer kaynaklardan ayıran özellikler şunlardır;</p>\n<ul>\n<li>Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz yani zamanın ileride gereksinim duyulduğunda kullanılmak üzere depolanması olanaksızdır.</li>\n<li>Zaman ancak içinde bulunulan an tüketilebilir. Zaman gerektiğinde başkaları tarafından kullanılmak üzere devredilemez.</li>\n<li>Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir.</li>\n<li>Zaman yenilenemez. Bir örgüt ürettiği mal, hizmet ve düşüncenin bir kısmını, tekrar kendisi için girdi olarak kullanır ancak kullanılan zamanın ne doğal yolla ne de üretim yoluyla yerine konulması, yeniden üretilmesi mümkün değildir.</li>\n<li>Zaman para gibi borç alınıp verilemez ancak bir işi para karşılığında başkasına yaptırmak da bir bakıma zamanın satın almak demektir. </li>\n</ul>\n<p>Doğru cevap C'dir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi zamanı diğer kaynaklardan (para, insan gücü, ham madde vb.) ayıran özelliklerinden biri <span style=\"text-decoration: underline;\">değildir?</span></p>",
+        "A": "<p>Zaman ancak içinde bulunulan an tüketilebilir.</p>",
+        "B": "<p>Zaman ikame edilemez.</p>",
+        "C": "<p>Zaman yenilenebilir.</p>",
+        "D": "<p>Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz.</p>",
+        "E": "<p>Zaman para gibi borç alınıp verilemez.</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3858362,
+        "UniteNo": 8,
+        "PageNumber": 231,
+        "AnswerExplanation": "<p>20. Yüzyılında, Braque ve Picasso gibi sanatçıların perspektif bozumu ile Kübist Devrim ortaya çıkmıştır. Böylece, nesnelerin fiziksel özelliklerinin yanına zaman kavramı da eklenmiştir. Bu yaklaşım, Einstein’ın görelilik kuramı ile ilişkilidir. Doğru cevap E'dir.</p>",
+        "Title": "",
+        "Text": "<ul> <li>Görecelik kuramı</li> <li>20. yüzyıl</li> <li>Picasso ve Braque</li> <li>Zaman-Nesne</li> </ul> <p>Yukarıda verilen bilgiler hangi tarihi gelişme ile ilişkilidir?</p>",
+        "A": "<p>Rönesans</p>",
+        "B": "<p>Modernizm</p>",
+        "C": "<p>Endüstri devrimi</p>",
+        "D": "<p>Romantizm</p>",
+        "E": "<p>Kübist Devrim</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3859630,
+        "UniteNo": 8,
+        "PageNumber": 235,
+        "AnswerExplanation": "<p>Hayali zaman, daha çok bilim kurgu filmlerde görülen, nasıl ve ne zaman olduğu belli olmayan zaman türüdür. Dolayısıyla cevap C şıkkıdır.</p>",
+        "Title": "",
+        "Text": "<p>Daha çok bilim kurgu filmlerde görülen, nasıl ve ne zaman olduğu belli olmayan zaman türüne ne ad verilir ?</p>",
+        "A": "<p>Reel zaman</p>",
+        "B": "<p>Kurgusal zaman</p>",
+        "C": "<p>Hayali zaman</p>",
+        "D": "<p>Süjesel zaman</p>",
+        "E": "<p>Algılanan zaman</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
     }
 ]

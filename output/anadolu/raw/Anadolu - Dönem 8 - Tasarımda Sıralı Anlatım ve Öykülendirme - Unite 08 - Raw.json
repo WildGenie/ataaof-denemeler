@@ -12,8 +12,7 @@
         "D": "<p>Matbaa</p>",
         "E": "<p>Fotoğraf makinesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834017,
@@ -28,8 +27,7 @@
         "D": "<p>Neville Brody</p>",
         "E": "<p>Jessica Walsh</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834018,
@@ -44,8 +42,7 @@
         "D": "<p>Yapay Zeka</p>",
         "E": "<p>Sanal Gerçeklik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834019,
@@ -60,8 +57,7 @@
         "D": "<p>Transmedya Hikaye Anlatımı</p>",
         "E": "<p>Sosyal medya</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834020,
@@ -76,8 +72,7 @@
         "D": "<p>CSS</p>",
         "E": "<p>WCAG</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834021,
@@ -92,8 +87,7 @@
         "D": "<p>Emigre</p>",
         "E": "<p>Graphis</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834022,
@@ -108,8 +102,7 @@
         "D": "<p>April Greiman</p>",
         "E": "<p>Jessica Walsh</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834023,
@@ -124,8 +117,7 @@
         "D": "<p>1983</p>",
         "E": "<p>1987</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834025,
@@ -140,8 +132,7 @@
         "D": "<p>Sky: Children of the Light</p>",
         "E": "<p>Ico</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834026,
@@ -156,7 +147,6 @@
         "D": "<p>Mulitmedya</p>",
         "E": "<p>Transmedya</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

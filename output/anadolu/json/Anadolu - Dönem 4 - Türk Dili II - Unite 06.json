@@ -1900,6 +1900,26 @@
         "Aciklama": "\"a.g.e\" bilimsel yazılarda kaynak gösterirken kullanılan “adı geçen eser” sözünün kısaltmasıdır"
     },
     {
+        "SoruID": 3258357,
+        "SoruMetni": "Resmî ya da özel kuruluşlara, gerçek ya da tüzel kişilere yazılan, bir dileği, isteği, ihbar ve şikayeti bildirmek üzere veya herhangi bir konuda bilgi sormak amacıyla yazılan resmî mektup türlerinden en yaygını aşağıdakilerden hangisidir?",
+        "A": "Dilekçe",
+        "B": "Tutanak",
+        "C": "Karar",
+        "D": "Özel mektup",
+        "E": "Rapor",
+        "DogruCevap": "A",
+        "DersAd": "Türk Dili II",
+        "Unite": 6,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:16:49.213919",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Resmî ya da özel kuruluşlara, gerçek ya da tüzel kişilere yazılan, bir dileği, isteği, ihbar ve şikayeti bildirmek üzere veya herhangi bir konuda bilgi sormak amacıyla yazılan resmî mektup türlerinden en yaygını dilekçedir."
+    },
+    {
         "SoruID": 3258358,
         "SoruMetni": "Aşağıdakilerden hangisi dilekçe yazımı ile ilgili doğru bir bilgi değildir?",
         "A": "Kağıdının üst kenarından bir miktar boşluk bırakıldıktan sonra isteğin iletildiği makam adı yazılır.",
@@ -2738,6 +2758,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Araştırmanın konusunun çerçevesi belirlenerek sınırlandırılması ile araştırmanın yüzeysel kalması önlenmek istenir. Aksi halde ortaya çıkan çalışma ya çok yüzeysel ve dağınık ya da başlığı ile kapsamı arasında zor ilişki kurulan bir “deneme” olur. Bu durum ise bilimsel yazının mantığı ile uyuşmaz. Doğru cevap B seçeneğidir."
+    },
+    {
+        "SoruID": 3258446,
+        "SoruMetni": "Aşağıda yer alan dünyada kabul gören yazım stillerinden hangisi eğitim bilimleri alanında kullanılmaktadır?",
+        "A": "APSA: Amerikan Politik Bilimler Birliği",
+        "B": "ASA: Amerikan İstatistikçiler Birliği",
+        "C": "APA:Amerikan Psikoloji Birliği",
+        "D": "MLA: Modern Dil Birliği",
+        "E": "AMA: Amerikan Tıp Birliği",
+        "DogruCevap": "C",
+        "DersAd": "Türk Dili II",
+        "Unite": 6,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:16:49.211247",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Psikoloji ile birlikte eğitim ve diğer sosyal bilimlerdeki bilimsel yazıların hazırlanmasında tercih edilen yazım stili APA: Amerikan<br/>Psikoloji Birliği (American Psychological Association) yazım stilidir. Doğru cevap C seçeneğidir."
     },
     {
         "SoruID": 3258447,

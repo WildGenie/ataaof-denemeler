@@ -12,8 +12,7 @@
         "D": "<p>ÖMS</p>",
         "E": "<p>ÖKS</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863507,
@@ -28,8 +27,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863508,
@@ -44,8 +42,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863509,
@@ -60,8 +57,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863510,
@@ -76,8 +72,7 @@
         "D": "<p>Öz yönetim becerisi geliştirme</p>",
         "E": "<p>Düzensiz ders programı olanağı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863511,
@@ -92,8 +87,7 @@
         "D": "<p>Hızlı Geri bildirim</p>",
         "E": "<p>Düzenli ders programı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863512,
@@ -108,8 +102,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863513,
@@ -124,8 +117,7 @@
         "D": "<p>I, III ve IV</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863514,
@@ -140,8 +132,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863516,
@@ -156,7 +147,6 @@
         "D": "<p>I, II ve IV</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

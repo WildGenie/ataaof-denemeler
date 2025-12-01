@@ -12,8 +12,7 @@
         "D": "<p>Yerleşik hayata geçilmesi</p>",
         "E": "<p>Levalua alet tekniği kullanılması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2855227,
@@ -28,8 +27,7 @@
         "D": "<p>Kalkolitik</p>",
         "E": "<p>Tunç çağı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2855239,
@@ -44,8 +42,7 @@
         "D": "<p>Hacılar</p>",
         "E": "<p>Kuruçay</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2855246,
@@ -60,8 +57,7 @@
         "D": "<p>İlk Tunç Çağı</p>",
         "E": "<p>Demir Çağı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856219,
@@ -76,8 +72,7 @@
         "D": "<p>Kalkolitik</p>",
         "E": "<p>Tunç çağları</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856229,
@@ -92,8 +87,7 @@
         "D": "<p>Kalkolitik</p>",
         "E": "<p>İlk Tunç Çağı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856231,
@@ -108,8 +102,7 @@
         "D": "<p>Kalkolitik Dönem</p>",
         "E": "<p>İlk Tunç Çağı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856239,
@@ -124,8 +117,7 @@
         "D": "<p>Kalkolitik</p>",
         "E": "<p>İlk Tunç Çağı </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856244,
@@ -140,8 +132,7 @@
         "D": "<p>Kalkolitik</p>",
         "E": "<p>İlk Tunç Çağı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859063,
@@ -156,8 +147,7 @@
         "D": "<p>Homo Neandertal</p>",
         "E": "<p>Homo Ergaster</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859077,
@@ -172,8 +162,7 @@
         "D": "<p>Kalkolitik</p>",
         "E": "<p>Musteryen</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859094,
@@ -188,8 +177,7 @@
         "D": "<p>Kalkolitik</p>",
         "E": "<p>Erken Tunç Çağ</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859119,
@@ -204,8 +192,7 @@
         "D": "<p>İgor Diakonoff</p>",
         "E": "<p>Guillermo Algaze</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859175,
@@ -220,8 +207,7 @@
         "D": "<p>Can Hasan</p>",
         "E": "<p>Karain</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859264,
@@ -236,8 +222,7 @@
         "D": "<p>Samarra</p>",
         "E": "<p>Obeyd</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859289,
@@ -252,8 +237,7 @@
         "D": "<p>İlk Tunç Çağı</p>",
         "E": "<p>Orta Tunç Çağı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860141,
@@ -268,8 +252,7 @@
         "D": "<p>69</p>",
         "E": "<p>59</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860145,
@@ -284,8 +267,7 @@
         "D": "<p>4000</p>",
         "E": "<p>5000</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860162,
@@ -300,8 +282,7 @@
         "D": "<p>Kobsidigen</p>",
         "E": "<p>Dilgen</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860179,
@@ -316,8 +297,7 @@
         "D": "<p>İleri </p>",
         "E": "<p>Üst</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2855217,
@@ -332,8 +312,7 @@
         "D": "<p>İlk tunç çağı</p>",
         "E": "<p>Kalkolitik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2855220,
@@ -348,8 +327,7 @@
         "D": "<p>Avcı insan</p>",
         "E": "<p>Düşünen insan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2855234,
@@ -364,8 +342,7 @@
         "D": "<p>Tholos</p>",
         "E": "<p>Hippodrom</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856216,
@@ -380,8 +357,7 @@
         "D": "<p>Büyük kentler kurmuştur. </p>",
         "E": "<p>Anıtsal saraylar ve tapınaklar yapmıştır. </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856217,
@@ -396,8 +372,7 @@
         "D": "<p>Kuaterner</p>",
         "E": "<p>Obsidyen</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859054,
@@ -412,8 +387,7 @@
         "D": "<p>Epipaleolitik</p>",
         "E": "<p>Neolitik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859204,
@@ -428,8 +402,7 @@
         "D": "<p>Nevali Çori</p>",
         "E": "<p>Çayönü</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859273,
@@ -444,8 +417,7 @@
         "D": "<p>Uruk</p>",
         "E": "<p>Obeyd</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860153,
@@ -460,8 +432,7 @@
         "D": "<p>Prehistorya</p>",
         "E": "<p>Dilge</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860168,
@@ -476,8 +447,7 @@
         "D": "<p>Kalkolitik</p>",
         "E": "<p>Modernlik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856205,
@@ -492,8 +462,7 @@
         "D": "<p>Hasankeyf</p>",
         "E": "<p>Kanlıtaş </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856207,
@@ -508,8 +477,7 @@
         "D": "<p>Kalkolitik </p>",
         "E": "<p>Tunç çağları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856218,
@@ -524,8 +492,7 @@
         "D": "<p>II-V</p>",
         "E": "<p>III-V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860128,
@@ -540,8 +507,7 @@
         "D": "<p class=\"p1\"> </p> <p class=\"p2\">Kuaterner</p>",
         "E": "<p class=\"p1\"> </p> <p class=\"p2\">Holosen<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860156,
@@ -556,8 +522,7 @@
         "D": "<p>Bakır taş</p>",
         "E": "<p>Krom taş</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860176,
@@ -572,8 +537,7 @@
         "D": "<p class=\"p2\">İleri Paleolitiği<span class=\"Apple-converted-space\"> </span></p>",
         "E": "<p class=\"p2\">Geç Paleolitiği<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2855230,
@@ -588,8 +552,7 @@
         "D": "<p>Cafer Höyük</p>",
         "E": "<p>Güsir Höyük</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860138,
@@ -604,8 +567,7 @@
         "D": "<p>Dilgi</p>",
         "E": "<p>Holosen</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2855219,
@@ -620,8 +582,7 @@
         "D": "<p>4. Jeolojik zaman (Dördüncü jeolojik zaman)</p>",
         "E": "<p>5. Jeolojik zaman (Beşinci jeolojik zaman)</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2855251,
@@ -636,7 +597,6 @@
         "D": "<p>Göller üzerinde ahşap direkli yerleşim</p>",
         "E": "<p>Yan yana dizili dörtgen ev grupları</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     }
 ]

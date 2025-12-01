@@ -12,8 +12,7 @@
         "D": "<p>Zoetrop</p>",
         "E": "<p>Sinematograf</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594753,
@@ -28,8 +27,7 @@
         "D": "<p>Kaybolan Kadın</p>",
         "E": "<p>Büyük Tren Soygunu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594756,
@@ -44,8 +42,7 @@
         "D": "<p>Lumière kardeşler</p>",
         "E": "<p>Georges Méliès</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594758,
@@ -60,8 +57,7 @@
         "D": "<p>Lev Kulsehov</p>",
         "E": "<p>Orson Welles</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594761,
@@ -76,8 +72,7 @@
         "D": "<p>Quentin Tarantino</p>",
         "E": "<p>Sergei Eisenstein</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594765,
@@ -92,8 +87,7 @@
         "D": "<p>Bağlantısal kurgu</p>",
         "E": "<p>Filmik zaman</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594768,
@@ -108,8 +102,7 @@
         "D": "<p>Leit-motif</p>",
         "E": "<p>Zıtlıklar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594770,
@@ -124,8 +117,7 @@
         "D": "<p>Tonal üstü montaj</p>",
         "E": "<p>Ritmik montaj</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594771,
@@ -140,8 +132,7 @@
         "D": "<p>Efektler</p>",
         "E": "<p>Dar açılı mercekler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594780,
@@ -156,8 +147,7 @@
         "D": "<p>Efektler</p>",
         "E": "<p>Senkronlu sesler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596544,
@@ -172,8 +162,7 @@
         "D": "<p>İç hareket</p>",
         "E": "<p>Çekim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596546,
@@ -188,8 +177,7 @@
         "D": "<p>Bağlantısal Kurgu</p>",
         "E": "<p>Paralel Kurgu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596552,
@@ -204,8 +192,7 @@
         "D": "<p>Yerleştirme Tekniği</p>",
         "E": "<p>Bölme Tekniği</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596555,
@@ -220,8 +207,7 @@
         "D": "<p>Sade bir yüz görüntüsüne ölmüş bir kadın görüntüsü eklendiğinde neşeli bir insan anlamı üretile-<br />bilmektedir.</p>",
         "E": "<p>Korkan bir yüz görüntüsünden sonra tabanca görüntüsü eklersek ve ardından gülen bir yüz görüntüsü eklersek cesur bir insan anlamı üretilebilmektedir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596556,
@@ -236,8 +222,7 @@
         "D": "<p>Zihinsel</p>",
         "E": "<p>Eş zamanlılık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596563,
@@ -252,8 +237,7 @@
         "D": "<p>Lumière kardeşler</p>",
         "E": "<p>Alain Resnais</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596568,
@@ -268,8 +252,7 @@
         "D": "<p>Zıtlıklar kurgusu</p>",
         "E": "<p>Paralel Kurgu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596570,
@@ -284,8 +267,7 @@
         "D": "<p>Kamera hareketleri</p>",
         "E": "<p>Geçişler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596573,
@@ -300,8 +282,7 @@
         "D": "<p>Sesin fade-in, fade-out olmasıdır.</p>",
         "E": "<p>Sesin üst üste binmesi.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596574,
@@ -316,7 +297,6 @@
         "D": "<p>Senkronsuz sesler</p>",
         "E": "<p>Senkronlu sesler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

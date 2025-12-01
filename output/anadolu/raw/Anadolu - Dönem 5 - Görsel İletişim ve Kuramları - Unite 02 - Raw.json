@@ -12,8 +12,7 @@
         "D": "<p>Gösterge</p>",
         "E": "<p>Tema</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603409,
@@ -28,8 +27,7 @@
         "D": "<p>Gözlükule</p>",
         "E": "<p>Kyzikos</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603451,
@@ -44,8 +42,7 @@
         "D": "<p>Balver Mağarası</p>",
         "E": "<p>Chauvet Mağarası</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603453,
@@ -60,8 +57,7 @@
         "D": "<p>Kahramanmaraş</p>",
         "E": "<p>Gaziantep</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603455,
@@ -76,8 +72,7 @@
         "D": "<p>Viyana</p>",
         "E": "<p>Berlin</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603457,
@@ -92,8 +87,7 @@
         "D": "<p>John Hersche</p>",
         "E": "<p>William Fox Talbot</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603460,
@@ -108,8 +102,7 @@
         "D": "<p>Arttırılmış gerçeklik</p>",
         "E": "<p>İnstagram</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603507,
@@ -124,8 +117,7 @@
         "D": "<p>İmge</p>",
         "E": "<p>Kuram</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603509,
@@ -140,8 +132,7 @@
         "D": "<p>Kişiye özel üretim ve etkileşim</p>",
         "E": "<p>Siber fiziksel sistemler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603511,
@@ -156,8 +147,7 @@
         "D": "<p>Livestream</p>",
         "E": "<p>Geniş bant</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603557,
@@ -172,8 +162,7 @@
         "D": "<p>İmge</p>",
         "E": "<p>Çizim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603560,
@@ -188,8 +177,7 @@
         "D": "<p>MÖ 4 bin </p>",
         "E": "<p>MÖ 8 bin </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603587,
@@ -204,8 +192,7 @@
         "D": "<p> Günümüz kâğıdının ilk formu olan papirüs Çin'de icat edilmiştir. </p>",
         "E": "<p>Papirüsün icadı ile imgesel ifadenin nasıl dönüştüğü ve mecranın teknik özelliklerinin avantajları anlatılmıştır. </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603590,
@@ -220,8 +207,7 @@
         "D": "<p>Ludwig Müzesi</p>",
         "E": "<p>Neues <em>Müzesi</em> </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603603,
@@ -236,8 +222,7 @@
         "D": "<p>George Eastman</p>",
         "E": "<p>Refik Anadol</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844137,
@@ -252,8 +237,7 @@
         "D": "Göbeklitepe’de yer alan yapılar, çömlek üretiminin yaygın olduğu bir döneme aittir.",
         "E": "Sütunlar üzerinde yer alan kabartmalar, insanların görsel ifade arayışını göstermektedir.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844140,
@@ -268,8 +252,7 @@
         "D": "Antik Yunan uygarlığı, imgeleri estetik üretim biçimlerinde etkin şekilde kullanmıştır.",
         "E": "Tarım devrimi sonrası üretim biçimleri daha düzenli ve biçimsel hâle gelmiştir.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844142,
@@ -284,8 +267,7 @@
         "D": "Zanaatkârların sadece yazılı anlatımı tercih etmesine neden olması",
         "E": "İmgelerin iki boyutlu düzlemde etkili şekilde kullanılmasına uygun ortam sunması",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844149,
@@ -300,8 +282,7 @@
         "D": "Teknolojik gelişmeleri takip etmeksizin geleneksel yöntemleri sürdürmek",
         "E": "Hedef kitlenin tepkilerini dikkate almadan görsel üretim yapmak",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844153,
@@ -316,8 +297,7 @@
         "D": "Hem içerik üreten hem de paylaşan aktif bir özne hâline gelmiştir.",
         "E": "Sürekli ekran başında kalarak pasif bir izleyiciye dönüşmüştür.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603410,
@@ -332,8 +312,7 @@
         "D": "<p>İrlanda</p>",
         "E": "<p>Amerika</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603454,
@@ -348,8 +327,7 @@
         "D": "<p>Hammurabi kanunları</p>",
         "E": "<p>Avcı-toplayıcılıktan yerleşik hayata geçiş aşamasında, coğrafi olarak merkez olmasıdır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603459,
@@ -364,8 +342,7 @@
         "D": "<p>Arttırılmış gerçeklik</p>",
         "E": "<p>İnstagram</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603599,
@@ -380,8 +357,7 @@
         "D": "<p>Siber Fiziksel Sistemler</p>",
         "E": "<p>Dijital Evrim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603604,
@@ -396,8 +372,7 @@
         "D": "<p>George Eastman</p>",
         "E": "<p>Guglielmo Marconi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603609,
@@ -412,8 +387,7 @@
         "D": "<p>Üretim zorlukları</p>",
         "E": "<p>Yeterli beğeniye kazanamaması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844134,
@@ -428,8 +402,7 @@
         "D": "İmgenin oluşturulmasında kullanılan teknik detaylar",
         "E": "İmgenin sadece yazılı anlatımla desteklenmesi",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844147,
@@ -444,8 +417,7 @@
         "D": "Sanatçılar imgeleri rastgele seçer.",
         "E": "İmgeler yalnızca yazılı anlatımı destekler.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844150,
@@ -460,8 +432,7 @@
         "D": "Televizyon, hazır bir akışa maruz bırakan tek yönlü bir seyir sunar.",
         "E": "İzleyici, izlediği içeriğin yapısını anında değiştirebilir.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844152,
@@ -476,8 +447,7 @@
         "D": "İşitsel iletişim yöntemleri, görsel anlatılardan daha uzun ömürlüdür.",
         "E": "Görsel imgeler, tarihsel belge niteliği taşıyamaz çünkü yoruma açıktır.",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603379,
@@ -492,8 +462,7 @@
         "D": "<p>MÖ binli yıllar</p>",
         "E": "<p>MS. beşinci yüzyıl</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603452,
@@ -508,8 +477,7 @@
         "D": "<p>MÖ 15 binli yıllar</p>",
         "E": "<p>MÖ 16 binli yıllar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603456,
@@ -524,8 +492,7 @@
         "D": "<p>1780</p>",
         "E": "<p>1790</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603458,
@@ -540,8 +507,7 @@
         "D": "<p>John Logie Baird</p>",
         "E": "<p>Vladimir Zworykin</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603508,
@@ -556,8 +522,7 @@
         "D": "<p>20. yüzyıl</p>",
         "E": "<p>21.yüzyıl</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603378,
@@ -572,8 +537,7 @@
         "D": "<p>Yalnızca II ve V</p>",
         "E": "<p>I, II, III, IV ve V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603558,
@@ -588,8 +552,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>II ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603559,
@@ -604,8 +567,7 @@
         "D": "<p>Mısır</p>",
         "E": "<p>Türkiye</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3844157,
@@ -620,8 +582,7 @@
         "D": "Görsel ve işitsel içerikler aynı anda sunulmaya başlandı.",
         "E": "İzleyiciler, televizyon ekranındaki kişilerle karşılıklı iletişim kurabildi.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603510,
@@ -636,7 +597,6 @@
         "D": "<p>George Gerbner</p>",
         "E": "<p>Stuart Hall</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     }
 ]

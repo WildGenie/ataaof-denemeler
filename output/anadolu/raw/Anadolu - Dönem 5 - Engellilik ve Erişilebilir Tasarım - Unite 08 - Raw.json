@@ -12,8 +12,7 @@
         "D": "<p>Kapsayıcılık ilkesi</p>",
         "E": "<p>Sürdürülebilirlik ilkesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862955,
@@ -28,8 +27,7 @@
         "D": "<p>II ve IV</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862961,
@@ -44,8 +42,7 @@
         "D": "<p>Düşük düzey teknolojiler</p>",
         "E": "<p>Yüksek düzey teknolojiler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862962,
@@ -60,8 +57,7 @@
         "D": "<p>II ve IV</p>",
         "E": "<p>III ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862963,
@@ -76,8 +72,7 @@
         "D": "<p>Okuma gözlüğü</p>",
         "E": "<p>Baston</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862964,
@@ -92,8 +87,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>Yalnız III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862965,
@@ -108,8 +102,7 @@
         "D": "<p>Ses kayıt cihazı</p>",
         "E": "<p>Ses üretim cihazı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862966,
@@ -124,8 +117,7 @@
         "D": "<p>Lavaboların ay(hilal) şeklinde tasarlanması </p>",
         "E": "<p>Duvarlara tutunma barlarının konulması </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862967,
@@ -140,8 +132,7 @@
         "D": "<p>II ve IV</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862968,
@@ -156,8 +147,7 @@
         "D": "<p>Sapı kalınlaştırılmış kaşıklar </p>",
         "E": "<p>Ucuna mandal takılmış kalemler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863147,
@@ -172,8 +162,7 @@
         "D": "<p>Özel araç-gereçlerin kullanılmaması gerektiğini</p>",
         "E": "<p>Yetersizlikten etkilenmiş bireylerin toplum dışında yaşaması gerektiğini</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863148,
@@ -188,8 +177,7 @@
         "D": "<p>Düşük görüşe erişim</p>",
         "E": "<p>Bilgi sembolü</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863149,
@@ -204,8 +192,7 @@
         "D": "<p>I, IV ve V</p>",
         "E": "<p>III, IV ve V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863150,
@@ -220,8 +207,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863151,
@@ -236,8 +222,7 @@
         "D": "<p>Ekran okuma programları</p>",
         "E": "<p>Ses kayıt cihazı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863152,
@@ -252,8 +237,7 @@
         "D": "<p>Resimli ve Nesnel</p>",
         "E": "<p>Yüksek teknolojili ve Düşük teknolojili</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863153,
@@ -268,8 +252,7 @@
         "D": "<p>İletişim panoları</p>",
         "E": "<p>Mikro anahtarlar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863154,
@@ -284,8 +267,7 @@
         "D": "<p>Daha fazla aydınlatma sağlama</p>",
         "E": "<p>Banyoda ısıtıcı kullanma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863155,
@@ -300,8 +282,7 @@
         "D": "<p class=\"Default\">Sadece sayısallaştırılmış sesleri duyanlar için</p>",
         "E": "<p>Farklı ses algoritmalarla ilgilenenler için</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863156,
@@ -316,7 +297,6 @@
         "D": "<p class=\"Default\">Yüksek frekansta ses üretmesi</p>",
         "E": "<p>Ses çıkışının doğallığı ve anlaşılırlığı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

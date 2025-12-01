@@ -12,8 +12,7 @@
         "D": "<p>Modernizm</p>",
         "E": "<p>Aydınlanma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3689586,
@@ -28,8 +27,7 @@
         "D": "<p>transhümanizm ve yeni maddecilik</p>",
         "E": "<p>yeni maddecilik ve antihümanizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3689600,
@@ -44,8 +42,7 @@
         "D": "<p>Erkan Saka</p>",
         "E": "<p>Özgür Uçkan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3689686,
@@ -60,8 +57,7 @@
         "D": "<p>3</p>",
         "E": "<p>2</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3689780,
@@ -76,8 +72,7 @@
         "D": "<p>Postmodern Yapısökümü</p>",
         "E": "<p>Postkolonyalizm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3689807,
@@ -92,8 +87,7 @@
         "D": "<p>Rosi Braidotti</p>",
         "E": "<p>Francesca Ferrando</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3689848,
@@ -108,8 +102,7 @@
         "D": "<p>Pedagojik değişim gerektirmesi</p>",
         "E": "<p style=\"text-align: justify;\">Yeni nesil tasarımcıların, insan sonrası durumun generatif karmaşıklıklarında gezinmek için gerekli eleştirel düşünceye sahip olabilmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840658,
@@ -124,8 +117,7 @@
         "D": "Dördüncü sanayi devrimi",
         "E": "Biyonik yapay zeka devrimi",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840659,
@@ -140,8 +132,7 @@
         "D": "İnsan Sonrası Bilgi",
         "E": "Posthüman: Şehir ve Beden",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840665,
@@ -156,8 +147,7 @@
         "D": "2004",
         "E": "2005",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840667,
@@ -172,8 +162,7 @@
         "D": "Etik düşünceyi teşvik etmek",
         "E": "Alternatif gelecekler tasarlamaktır",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840732,
@@ -188,8 +177,7 @@
         "D": "Yeni maddecilik",
         "E": "Yapısökümü",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840735,
@@ -204,8 +192,7 @@
         "D": "Yeni maddecilik",
         "E": "Antroposantrizm",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843540,
@@ -220,8 +207,7 @@
         "D": "Posthüman",
         "E": "İnsan 2.0",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843557,
@@ -236,8 +222,7 @@
         "D": "Dünyadaki türlerin yenilendiği orta çağ dönemine",
         "E": "Dünyadaki türlerin başkalaştığı geçmiş dönemlere",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843559,
@@ -252,8 +237,7 @@
         "D": "Belgesel",
         "E": "Aksiyon",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843560,
@@ -268,8 +252,7 @@
         "D": "Transhümanizm",
         "E": "Aydınlanma Çağı",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843562,
@@ -284,8 +267,7 @@
         "D": "Sosyo-siborg sistemler",
         "E": "Sosyo-olgu sistemler",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843563,
@@ -300,8 +282,7 @@
         "D": "Francesca Ferrando",
         "E": "Cary Wolfe",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843565,
@@ -316,8 +297,7 @@
         "D": "Siborg tasarım",
         "E": "Çağdaş tasarım",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3689620,
@@ -332,8 +312,7 @@
         "D": "<p>Bilişsel Etoloji</p>",
         "E": "<p>Primatoloji</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3689706,
@@ -348,8 +327,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840662,
@@ -364,8 +342,7 @@
         "D": "Eylemcilik",
         "E": "Eyleyicilik",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840668,
@@ -380,8 +357,7 @@
         "D": "Felsefi Posthümanizm",
         "E": "Teorik Posthümanizm",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843558,
@@ -396,8 +372,7 @@
         "D": "Posthüman",
         "E": "Eyleyicilik",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3689637,
@@ -412,8 +387,7 @@
         "D": "<p>Andy Clark</p>",
         "E": "<p>Donna Haraway</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840660,
@@ -428,8 +402,7 @@
         "D": "Midhümanizm",
         "E": "Egosantrizm",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843537,
@@ -444,8 +417,7 @@
         "D": "Sanayinin Yükselişi",
         "E": "Endüstriyel Oluşum",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843561,
@@ -460,8 +432,7 @@
         "D": "Ekoeleştiri",
         "E": "Postkolonyalizm",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840738,
@@ -476,7 +447,6 @@
         "D": "Dördüncü Sanayi Devrimi",
         "E": "Beşinci Sanayi Devrimi",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     }
 ]

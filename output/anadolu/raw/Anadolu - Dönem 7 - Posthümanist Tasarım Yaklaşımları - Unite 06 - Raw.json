@@ -12,8 +12,7 @@
         "D": "<p>Moda</p>",
         "E": "<p>Kültür</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691230,
@@ -28,8 +27,7 @@
         "D": "<p>Modern</p>",
         "E": "<p>Tasarım Odaklı Tasarım</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691240,
@@ -44,8 +42,7 @@
         "D": "<p>Orta Asya</p>",
         "E": "<p>Kanada</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691244,
@@ -60,8 +57,7 @@
         "D": "<p>Post-hümanist</p>",
         "E": "<p>Modern</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691253,
@@ -76,8 +72,7 @@
         "D": "<p>İyi tanımlanmamış problemlerden karmaşık problemlere geçiş</p>",
         "E": "<p>Kullanıcı ihtiyaçlarını dikkate alması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691261,
@@ -92,8 +87,7 @@
         "D": "<p>Kültür</p>",
         "E": "<p>Ekonomist</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691276,
@@ -108,8 +102,7 @@
         "D": "<p>Çakmak</p>",
         "E": "<p>Bilgisayar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691288,
@@ -124,8 +117,7 @@
         "D": "<p>Giyilebilir teknolojiler</p>",
         "E": "<p>Bilgisayar destekli tasarım</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691301,
@@ -140,8 +132,7 @@
         "D": "<p>Yapay zekanın</p>",
         "E": "<p>Giyilebilir teknolojilerin</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691308,
@@ -156,8 +147,7 @@
         "D": "<p>Yapay Zeka ile tasarım</p>",
         "E": "<p>Biyo-tasarım</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841207,
@@ -172,8 +162,7 @@
         "D": "Tüketim amaçlı tasarım ve üretimden sürdürülebilir, etik ve eşitlikçi tasarım ve üretime yönelim",
         "E": "İnsan olmayan varlıkları da tasarım sürecinin bir parçası olarak kabul etmeyen tasarım anlayışları",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841208,
@@ -188,8 +177,7 @@
         "D": "Tüketiciler",
         "E": "Moda Medyası",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841209,
@@ -204,8 +192,7 @@
         "D": "Saat, kemer, bileklik, gözlük ve yüzük gibi aksesuarlar",
         "E": "Akıllı saatler, bileklikler, yüzükler, gözlükler",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841210,
@@ -220,8 +207,7 @@
         "D": "5",
         "E": "6",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841211,
@@ -236,8 +222,7 @@
         "D": "Yüze uygulanan çeşitli filtreler aracılığıyla ten renginin ve mimiklerin değiştirilebildiği uygulamalardır",
         "E": "Kullanıcının üzerindeki giysiyi çıkarmadan veri tabanında yer alan herhangi bir giysiyi kullanıcı üzerinde görüntüleyebilen teknolojilerdir",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841213,
@@ -252,8 +237,7 @@
         "D": "Bitki bazlı biyo-deriler: Bazı bakterilerde, bitkilerde olduğu gibi selüloz bulunmakta, bu selüloz biyo-teknoloji yardımıyla çoğaltılabilmekte ve gözenekli, su itici deri benzeri yüzeylere dönüştürülebilmektedir",
         "E": "Bitki bazlı biyo-deriler: Hif, “mantar türlerinin çoğunda bulunan, ince, saç benzeri doku<br />liflerinden oluşan kök sistemlerine” verilen isimdir",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841224,
@@ -268,8 +252,7 @@
         "D": "I, II ve IV",
         "E": "I, II, III ve IV",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841229,
@@ -284,8 +267,7 @@
         "D": "5",
         "E": "6",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841297,
@@ -300,8 +282,7 @@
         "D": "iki boyutlu tasarımı",
         "E": "posthümanist tasarımı",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3841300,
@@ -316,7 +297,6 @@
         "D": "Vücut tarama sistemlerinin akıllı telefonlar için uyarlanmış bir çeşididir",
         "E": "Uniqlo örneğinde olduğu gibi kullanıcının üzerindeki giysiyi çıkarmadan veri tabanında yer alan herhangi bir giysiyi kullanıcı üzerinde görüntüleyebilen teknolojilerdir",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>50-102400</p>",
         "E": "<p>50-200000</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3350998,
@@ -28,8 +27,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351000,
@@ -44,8 +42,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351001,
@@ -60,8 +57,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351003,
@@ -76,8 +72,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351004,
@@ -92,8 +87,7 @@
         "D": "<p>Obtüratör.</p>",
         "E": "<p>Pozometre</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351005,
@@ -108,8 +102,7 @@
         "D": "<p>ISO.</p>",
         "E": "<p>Softbox.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351006,
@@ -124,8 +117,7 @@
         "D": "<p>1/125.</p>",
         "E": "<p>1/500.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351008,
@@ -140,8 +132,7 @@
         "D": "<p>800-1600</p>",
         "E": "<p>1600-3200.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351009,
@@ -156,8 +147,7 @@
         "D": "<p>Beyaz ayarı</p>",
         "E": "<p>Poz telafisi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351010,
@@ -172,8 +162,7 @@
         "D": "<p>Konunun büyüklüğü.</p>",
         "E": "<p>Kullanılan objektif.</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351011,
@@ -188,8 +177,7 @@
         "D": "<p>F16.</p>",
         "E": "<p>F22.</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351013,
@@ -204,8 +192,7 @@
         "D": "<p>Diyafram.</p> ",
         "E": "<p>Poz telafisi.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351014,
@@ -220,8 +207,7 @@
         "D": "<p>Filmlerin ışığa olan hassasiyet derecesinin belirlenmesi</p>",
         "E": "<p>Negatif filmin bütün karelerinin bire bir boyutunda fotoğraf kağıdına basılması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351016,
@@ -236,8 +222,7 @@
         "D": "<p>II-IV</p>",
         "E": "<p>III-IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351017,
@@ -252,8 +237,7 @@
         "D": "<p>f 8</p>",
         "E": "<p>f 11</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351018,
@@ -268,8 +252,7 @@
         "D": "<p>II-IV</p>",
         "E": "<p>III-IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351020,
@@ -284,8 +267,7 @@
         "D": "<p>1/60</p>",
         "E": "<p>1/250</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351021,
@@ -300,8 +282,7 @@
         "D": "<p>Diyafram öncelikli pozlama</p>",
         "E": "<p>Program modu </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351023,
@@ -316,8 +297,7 @@
         "D": "<p>Tepe aydınlatma</p>",
         "E": "<p>Noktasal aydınlatma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3350994,
@@ -332,8 +312,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3350996,
@@ -348,8 +327,7 @@
         "D": "<p>f: 5.8</p>",
         "E": "<p>f: 12</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351007,
@@ -364,8 +342,7 @@
         "D": "<p>Objektiften geçen ışık miktarı.</p>",
         "E": "<p>Işık ölçerin hesapladığı f / değeri.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351012,
@@ -380,8 +357,7 @@
         "D": "<p>Tepe aydınlatma.</p> ",
         "E": "<p>Noktasal aydınlatma.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351015,
@@ -396,8 +372,7 @@
         "D": "<p>II-IV-V</p>",
         "E": "<p>III-IV-V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3350999,
@@ -412,7 +387,6 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     }
 ]

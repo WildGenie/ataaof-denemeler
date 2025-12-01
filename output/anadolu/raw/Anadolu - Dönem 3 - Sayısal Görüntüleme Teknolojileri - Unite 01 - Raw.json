@@ -12,8 +12,7 @@
         "D": "<p>1791</p>",
         "E": "<p>1871</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353017,
@@ -28,8 +27,7 @@
         "D": "<p>I, II, IV </p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353018,
@@ -44,8 +42,7 @@
         "D": "<p>Dördüncü Endüstri Devrimi </p>",
         "E": "<p>Beşinci Endüstri Devrimi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353019,
@@ -60,8 +57,7 @@
         "D": "<p>Makine maliyeti</p>",
         "E": "<p>Çekim maliyeti</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353021,
@@ -76,8 +72,7 @@
         "D": "<p>1927</p>",
         "E": "<p>1934</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353022,
@@ -92,8 +87,7 @@
         "D": "<p>Pay TV</p>",
         "E": "<p>Cathc-Up TV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353024,
@@ -108,8 +102,7 @@
         "D": "<p>Endüstri 4.0<br /><br /></p>",
         "E": "<p>Endüstri 5.0</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353025,
@@ -124,8 +117,7 @@
         "D": "<p>Tüketimde ve sosyal hizmetlerde iyileşme          </p>",
         "E": "<p> Eğitimin yaygınlaşması ve okuma-yazma oranının artması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353029,
@@ -140,8 +132,7 @@
         "D": "<p>1975</p> ",
         "E": "<p>1989</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353030,
@@ -156,8 +147,7 @@
         "D": "<p>Telescope<br /><br /></p>",
         "E": "<p>Zoepraksinoskop</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353032,
@@ -172,8 +162,7 @@
         "D": "<p>1975</p> ",
         "E": "<p>1991</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353034,
@@ -188,8 +177,7 @@
         "D": "<p>Dördüncü Endüstri Devrimi</p>",
         "E": "<p>Endüstri 4.0</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353038,
@@ -204,8 +192,7 @@
         "D": "<p>Üretim faaliyeti ile evin birbirinden ayrılması</p>",
         "E": "<p>Kapitalist yapıda olmaları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353042,
@@ -220,8 +207,7 @@
         "D": "<p>Fotoğraflar çekildikten sonra dijital bellek kartlarına kaydedilmeleri</p>",
         "E": "<p>Baskı için bir bilgisayar dosyası olarak depolanabilme özelliklerine sahip olmaması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353045,
@@ -236,8 +222,7 @@
         "D": "<p>1990</p>",
         "E": "<p>2000</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353046,
@@ -252,8 +237,7 @@
         "D": "<p>Sağladığı alan derinliğinin fazla olması</p>",
         "E": "<p>Akıllı telefonların küçük ve kolay taşınması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353048,
@@ -268,8 +252,7 @@
         "D": "<p>Sıradan ürünlerin üretimi kolay yapılırken, özel ürünlerin üretiminde sıkıntılar yaşanır.</p>",
         "E": "<p>Envanter süreçteki değişimi dikkate alarak stoklamaya önem verilir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353049,
@@ -284,8 +267,7 @@
         "D": "<p>İnsan dokunuşuna, veri girişine ihtiyaç olmaksızın cihazların, makinelerin kendi aralarında veri iletişimi yaptığı, veri topladığı ve oluşturduğu bilgi ile karar verdiği bir ağ yapısı.</p>",
         "E": "<p>Adreslenemez nesnelerin kendi aralarında oluşturduğu, evrensel yaygın bir ağ ve bu ağdaki nesnelerin belirli bir protokol ile birbirleriyle iletişim içinde olmaları.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353051,
@@ -300,8 +282,7 @@
         "D": "<p>Dinamik aralığın daha düşük olması.</p>",
         "E": "<p>Fiziksel koşullara karşı daha hassas olmaları.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353052,
@@ -316,8 +297,7 @@
         "D": "<p>Önizleme özelliği sayesinde tüm poz ayarlarının sonuçlarının çekim yapılmadan önce<br />görülebilmesi.</p>",
         "E": "<p>Bazı makinelerdeki hareket algılama özelliği sayesinde yüksek hızlardaki hareketlerde<br />istenmeyen bulanıklığın (blur) önlenmesi.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353023,
@@ -332,8 +312,7 @@
         "D": "<p>I, II, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353028,
@@ -348,8 +327,7 @@
         "D": "<p>1975<br /><br /></p>",
         "E": "<p>2013</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353033,
@@ -364,8 +342,7 @@
         "D": "<p>1954</p> ",
         "E": "<p>1975</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353035,
@@ -380,8 +357,7 @@
         "D": "<p>Tüketimde ve sosyal hizmetlerde kötüleşme</p>",
         "E": "<p>Üretim faaliyeti ile evin birbirine yakınlaşması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353036,
@@ -396,8 +372,7 @@
         "D": "<p>Fiziksel ve dijital sistemler arasında bağlantı kurarak üretim süreçlerini insansız biçimde kurgulayabilen yeni üretim sistemleri.</p>",
         "E": "<p>Makinelerin, iş hayatında olduğu gibi gündelik hayata da hakim olmaya başlaması, böylece beden gücüne duyulan gereksinim kişisel yaşam içerisinde de ortadan kalkmaya başlaması.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353037,
@@ -412,8 +387,7 @@
         "D": "<p>Fabrikalarda ve şehirlerde elektriğin kullanılmaya başlanması</p>",
         "E": "<p>Makinelerin birbirinden bağımsız olarak çalışması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353041,
@@ -428,8 +402,7 @@
         "D": "<p>Çok fazla kontrol ayarının bulunması</p>",
         "E": "<p>Fiziksel koşullara karşı hassas olmaları</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353043,
@@ -444,8 +417,7 @@
         "D": "<p>1993</p>",
         "E": "<p>1995</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353050,
@@ -460,8 +432,7 @@
         "D": "<p>Dijital çağda  filmin yüzeyindeki piksellerin yerini ışığa duyarlı gümüş tanecikler almıştır. </p>",
         "E": "<p>Dijital görüntü teknolojileri ile üretilen görüntüler, piksel tabanlı görüntülerdir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353053,
@@ -476,8 +447,7 @@
         "D": "<p>Sağladığı alan derinliğinin fazla olması.</p>",
         "E": "<p>Görüntülerin kolayca paylaşılabilmesi.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353015,
@@ -492,8 +462,7 @@
         "D": "<p>Endüstri çağı</p>",
         "E": "<p>Yeni medya çağı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353026,
@@ -508,8 +477,7 @@
         "D": "<p>1784</p> ",
         "E": "<p>1899</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353027,
@@ -524,8 +492,7 @@
         "D": "<p>Siber güvenlik</p>",
         "E": "<p>Buharlı makineler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353039,
@@ -540,8 +507,7 @@
         "D": "<p>Üretim sürecinde makinelerin önceden yapılandırılmaya ihtiyacı vardır, bağımsız olarak her kullanım ve değişiklikte ayarlanması gerekmesi</p>",
         "E": "<p>Eğitimin yaygınlaşması ve okuma-yazma oranının artması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353044,
@@ -556,8 +522,7 @@
         "D": "<p>1934</p>",
         "E": "<p>1916</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353047,
@@ -572,8 +537,7 @@
         "D": "<p>Endüstri 4.0 çağında robot teknolojisi ön plana çıkmaya başlamıştır.</p>",
         "E": "<p>Endüstri 4.0 olarak da nitelendirilen Dördüncü Endüstri Devrimi’nin doğmasına yol açan bazı önemli gelişmeler II. Dünya Savaşı’nın ardından ortaya çıkmaya başlasa da esas olarak 1970’li yıllarla birlikte etkileri daha fazla hissedilmeye başlanmış ve 2010 yılına kadar etkinliğini sürdürmüştür.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353020,
@@ -588,8 +552,7 @@
         "D": "<p> Bell ve Howell </p>",
         "E": "<p> George Eastman </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353031,
@@ -604,8 +567,7 @@
         "D": "<p>1975</p> ",
         "E": "<p>1991</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353040,
@@ -620,8 +582,7 @@
         "D": "<p>Radyo, televizyon, bilgisayar, uydu ve uzay teknolojisi gibi günlük yaşamımıza yön veren aygıtların ortaya çıkması</p>",
         "E": "<p>Optik iletişim ağının geliştirilmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353014,
@@ -636,7 +597,6 @@
         "D": "<p>Petrolle çalışan içten yanmalı motorların ilk kez kullanılması</p>",
         "E": "<p>İlk seri üretim bandının oluşturulması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     }
 ]

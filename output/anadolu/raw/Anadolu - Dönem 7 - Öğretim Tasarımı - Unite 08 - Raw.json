@@ -12,8 +12,7 @@
         "D": "<p class=\"p1\">Mali ve insan kaynaklarının en etkili ve sürdürülebilir şekilde kullanılmasını sağlamak</p>",
         "E": "<p>Programın amaçlarını belirlemek</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863495,
@@ -28,8 +27,7 @@
         "D": "<p>Öğrenci değerlendirmesi</p>",
         "E": "<p>Sürekli iyileştirme ve adaptasyon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863502,
@@ -44,8 +42,7 @@
         "D": "<p>Lev Vygotsky</p>",
         "E": "<p>Howard Gardner</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863505,
@@ -60,8 +57,7 @@
         "D": "<p>İçeriği sunma</p>",
         "E": "<p>İçeriği çözümleme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863515,
@@ -76,8 +72,7 @@
         "D": "<p>İşbirlikçi öğrenme</p>",
         "E": "<p>Öğretici merkezli yaklaşım</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863523,
@@ -92,8 +87,7 @@
         "D": "<p>Aktif katılım-Yansıtıcı düşünme-Problem tabanlı öğrenme</p>",
         "E": "<p>Davranışçılık-Bilişselcilik-Yapılandırmacılık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863524,
@@ -108,8 +102,7 @@
         "D": "<p>İlgi</p>",
         "E": "<p>Zamana bağlılık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863525,
@@ -124,8 +117,7 @@
         "D": "<p>İlgi düzeyinin sağlanması</p>",
         "E": "<p>Zamana bağlı hedefler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863526,
@@ -140,8 +132,7 @@
         "D": "<p>Sonuçlar</p>",
         "E": "<p>Çıkarımlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863527,
@@ -156,7 +147,6 @@
         "D": "<p>Ürün</p>",
         "E": "<p>Tepki</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

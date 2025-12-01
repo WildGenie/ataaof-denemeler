@@ -12,8 +12,7 @@
         "D": "<p>Tipografi</p>",
         "E": "<p>Serigrafi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764114,
@@ -28,8 +27,7 @@
         "D": "<p>PNG</p>",
         "E": "<p>Litografi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764116,
@@ -44,8 +42,7 @@
         "D": "<p>Filmli ambalaj</p>",
         "E": "<p>Paletli ambalaj</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764118,
@@ -60,8 +57,7 @@
         "D": "<p>Çöl kumu</p>",
         "E": "<p>Toprak kumu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764119,
@@ -76,8 +72,7 @@
         "D": "<p>Bor</p>",
         "E": "<p>Etil alkol</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764120,
@@ -92,8 +87,7 @@
         "D": "<p>Elementsiz klorlu kağıt hamuru</p>",
         "E": "<p>Elementersiz klorsuz kağıt hamuru</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764121,
@@ -108,8 +102,7 @@
         "D": "<p>Tıpkı PET ve diğer plastikler gibi şeffaftır</p>",
         "E": "<p>Biyoplastikler hafif ve dayanıklıdır</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764122,
@@ -124,8 +117,7 @@
         "D": "<p>Soğuk</p>",
         "E": "<p>Bakteri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764275,
@@ -140,8 +132,7 @@
         "D": "<p>Ambalaj içinde bulundurduğu ürünün ve o ürünü üreten markanın <br />müşterileri ile iletişim kurabilmelidir.  </p>",
         "E": "<p>Ambalaj koruma ve bilgilendirme işlevini yerine getirebilmelidir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764296,
@@ -156,8 +147,7 @@
         "D": "<p>Bilgilerin görünürlüğü, okunurluğu, dikkat çekiciliği</p>",
         "E": "<p>Bilgilerin tasarım açısından ilgi çekecek şekilde uygun renk, doku, yazı karakteri ve punto ile verilmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764297,
@@ -172,8 +162,7 @@
         "D": "<p>Kurumsal imaja uygun iletişim kurma başarısı</p>",
         "E": "<p>Müşterinin beğenisini belirleyecek Estetik kaygı gütmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764298,
@@ -188,8 +177,7 @@
         "D": "<p>Kolaylık sağlama</p>",
         "E": "<p>Kapsama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764299,
@@ -204,8 +192,7 @@
         "D": "<p>Ürün</p>",
         "E": "<p>Satış koşulları</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764300,
@@ -220,8 +207,7 @@
         "D": "<p>Dönüştürülebilir materyaller</p>",
         "E": "<p>AR-GE (araştırma – geliştirme) çalışmaları</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764301,
@@ -236,8 +222,7 @@
         "D": "<p>53</p>",
         "E": "<p>77</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764302,
@@ -252,8 +237,7 @@
         "D": "<p>II, III, IV, V</p>",
         "E": "<p>I, II, III, IV. V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764315,
@@ -268,8 +252,7 @@
         "D": "<p>Malzeme</p>",
         "E": "<p>Format</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764316,
@@ -284,8 +267,7 @@
         "D": "<p>Enerji ve iş gücünü düşürmek</p>",
         "E": "<p>Daha basit ambalaj tasarımları yapmak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764326,
@@ -300,8 +282,7 @@
         "D": "<p>Sürdürülebilir malzemelerden üretilen tasarımlar</p>",
         "E": "<p>Ürünü korumanın dışında ilave bir işlev kazandırmaya yarayan tasarımlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764328,
@@ -316,8 +297,7 @@
         "D": "<p class=\"p2\">Satışı artırma, pazarlama, depolama, kullanım kolaylığı</p> <p class=\"p2\"> </p> <p class=\"p2\"> </p>",
         "E": "<p class=\"p2\">Stoklama, içeriği koruma, dayanıklılık, marka bilinirliği</p> <p class=\"p2\"> </p> <p class=\"p2\"> </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764115,
@@ -332,8 +312,7 @@
         "D": "<p>Dayanıklılıklılığı</p>",
         "E": "<p>Litografisi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764117,
@@ -348,8 +327,7 @@
         "D": "<p>Oksijen ve az miktarda diğer alaşım elementleri</p>",
         "E": "<p>Ahşap ve az miktarda diğer alaşım elementleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764314,
@@ -364,8 +342,7 @@
         "D": "<p class=\"p2\"> </p>\n<p class=\"p2\">Satışı artırma, pazarlama, depolama, kullanım kolaylığı</p>\n<p class=\"p2\"> </p>",
         "E": "<p class=\"p2\"> </p>\n<p class=\"p2\">Stoklama, içeriği koruma, dayanıklılık, marka bilinirliği</p>\n<p class=\"p2\"> </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764313,
@@ -380,7 +357,6 @@
         "D": "<p>I, II, III, IV, V</p>",
         "E": "<p>I, III, V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     }
 ]

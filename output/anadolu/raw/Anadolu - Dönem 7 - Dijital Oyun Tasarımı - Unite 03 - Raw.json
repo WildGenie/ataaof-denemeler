@@ -12,8 +12,7 @@
         "D": "<p>LCD</p>",
         "E": "<p>CRT</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688196,
@@ -28,8 +27,7 @@
         "D": "<p>3D grafiklerin sınırlı perspektife sahiptir</p>",
         "E": "<p>2D grafiklerin sunduğu sanatsal özgürlük daha yüksektir</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688198,
@@ -44,8 +42,7 @@
         "D": "<p>Sprite</p>",
         "E": "<p>Tileset</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688202,
@@ -60,8 +57,7 @@
         "D": "<p>Sprite</p>",
         "E": "<p>Tileset</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688212,
@@ -76,8 +72,7 @@
         "D": "<p>Görsel geliştirme</p>",
         "E": "<p>Fikir üretimi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688217,
@@ -92,8 +87,7 @@
         "D": "<p>Blendleme</p>",
         "E": "<p>Sketch</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688221,
@@ -108,8 +102,7 @@
         "D": "<p>Cinema 4D</p>",
         "E": "<p>Unreal Engine</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688223,
@@ -124,8 +117,7 @@
         "D": "<p>Maya</p>",
         "E": "<p>Cinema 4D</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688226,
@@ -140,8 +132,7 @@
         "D": "<p>Kenney</p>",
         "E": "<p>Aseprite</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688228,
@@ -156,7 +147,6 @@
         "D": "<p>Kenney</p>",
         "E": "<p>Aseprite</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

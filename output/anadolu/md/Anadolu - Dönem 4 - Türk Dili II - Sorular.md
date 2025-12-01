@@ -11,6 +11,16 @@
     > **Açıklama:** Değişebilir.
 
     ***
+1. Aşağıdakilerden hangisi yazılı kompozisyonun bir özelliği değildir?
+    - A-) Daha kuralcıdır.
+    - **Cevap B-) Değişebilir.**
+    - C-) Değişmez.
+    - D-) Durağandır.
+    - E-) Daha düzenlidir.
+
+    > **Açıklama:** Değişebilir.
+
+    ***
 1. Aşağıdakilerden hangisi yazılı ve sözlü kompozisyon arasındaki farklardan birini ifade etmez?
     - A-) Sözlü kompozisyonun değişebilir olmasına karşın yazılı kompozisyon daha değişmezdir.
     - B-) Sözlü kompozisyonda konuşan ve dinleyen vardır, yazılı kompozisyonda yazar ve okur vardır.
@@ -2537,6 +2547,16 @@
     > **Açıklama:** Gençler sanıyorlar ki ana babaları hep yanlarında olacak, kendileri ise çalışmıyarak, çabalamıyarak gönüllerince yaşayacaklar.
 
     ***
+1. Türkçede büyük harf kullanımı ile ilgili aşağıda verilen bilgilerden hangisi **yanlıştır?**
+    - A-) Bütün özel isimler büyük harfle başlatılır.
+    - **Cevap B-) Noktalı virgülden sonra büyük harfle başlanır.**
+    - C-) İki noktadan sonraki cümlenin ilk kelimesi büyük harfle başlar.
+    - D-) Kısaltmaların hepsi ve bir kısmı büyük harfle yazılır.
+    - E-) Şiirlerde dizeler büyük harfle başlar.
+
+    > **Açıklama:** Türkçede büyük harfin kullanıldığı belli başlı yerler şunlardır: Bütün özel isimler büyük harfle başlatılır, iki noktadan sonraki cümlenin ilk kelimesi büyük harfle başlar, kısaltmaların hepsi ve bir kısmı büyük harfle yazılır, şiirlerde dizeler büyük harfle başlar, bütün cümleler büyük harfle başlar, tırnak içinde verilen cümlelerin ilk kelimesi büyük harfle başlar, unvanlar ve hitap sonrası kullanılan unvanlar büyük harfle yazılır, kitap, dergi gibi çalışmalarda yazı başlıklarının ilk harfleri büyük yazılır, özel adlardan türetilen bütün sözcükler büyük harfle yazılır, tabela ve levha gibi yazılarda sözcüklerin ilk harfi büyük yazılır. Oysa noktalı virgülden sonra (özel isim gibi büyük harfi gerektiren bir kullanım olmadığı sürece) büyük harf kullanılmaz. Doğru cevap B’dir.
+
+    ***
 1. Aşağıdaki birleşik sözcüklerin hangisinde yazım yanlışı vardır?
     - A-) şükretmek
     - B-) kaydolmak
@@ -4028,6 +4048,16 @@
     - E-) Göğüs hastalıkları uzmanı göğsünü muayene etti.
 
     > **Açıklama:** Türkçede *düşer, çevir, beyin, gönül, göğüs* gibi bazı sözcüklerde ünlüyle başlayan ek geldiğinde ikinci hece- deki dar ünlüler (yani /ı/, /i/, /u/, /ü/) düşer. Ancak bu durum *avuç* için geçerli değildir.
+
+    ***
+1. Aşağıdakilerden hangisinde büyük harf kullanımı konusunda bir yazım yanlışı yapılmıştır?
+    - A-) O da dosyayı, Cenevre’deki İnsan Hakları Yüksek Komisyonu’na vermiş.
+    - **Cevap B-) Dilimizin kimliğimizi ele verir ama Dna’nınki kadar kesin olamaz.**
+    - C-) Hatice Hanım “Biz de âdettir, ölenin eşyaları fakire fukaraya dağıtılır.” diyor.
+    - D-) Annem uyumuştu ama biz kardeşim Niyazi’yle usul usul konuşuyorduk.
+    - E-) Pek çok savaşa girip, çıktık; baskınlara uğradık; baskınlar yaptık.
+
+    > **Açıklama:** Birtakım kısaltmaların tamamı büyük harfle yazılır. DNA kısaltmasının tamamının harfleri büyük olarak yazılmalıdır. Doğru cevap B seçeneğidir.
 
     ***
 1. Aşağıdakilerden hangisinde yabancı sözcüklerin yazımından kaynaklanan yazım yanlışı vardır?
@@ -7798,7 +7828,7 @@
     - D-) Özel mektup
     - E-) Rapor
 
-    > **Açıklama:** Dilekçe
+    > **Açıklama:** Resmî ya da özel kuruluşlara, gerçek ya da tüzel kişilere yazılan, bir dileği, isteği, ihbar ve şikayeti bildirmek üzere veya herhangi bir konuda bilgi sormak amacıyla yazılan resmî mektup türlerinden en yaygını dilekçedir.
 
     ***
 1. Aşağıdakilerden hangisi dilekçe yazımı ile ilgili doğru bir bilgi değildir?
@@ -8291,7 +8321,7 @@
     - D-) MLA: Modern Dil Birliği
     - E-) AMA: Amerikan Tıp Birliği
 
-    > **Açıklama:** Psikoloji ile birlikte eğitim ve diğer sosyal bilimlerdeki bilimsel yazıların hazırlanmasında tercih edilen  yazım stili APA: Amerikan
+    > **Açıklama:** Psikoloji ile birlikte eğitim ve diğer sosyal bilimlerdeki bilimsel yazıların hazırlanmasında tercih edilen yazım stili APA: Amerikan
     > Psikoloji Birliği (American Psychological Association) yazım stilidir. Doğru cevap C seçeneğidir.
 
     ***

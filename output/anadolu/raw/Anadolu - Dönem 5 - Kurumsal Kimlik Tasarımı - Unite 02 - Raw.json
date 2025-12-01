@@ -12,8 +12,7 @@
         "D": "<p>Ürün</p>",
         "E": "<p>Logo</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862112,
@@ -28,8 +27,7 @@
         "D": "<p>Ortak Marka</p>",
         "E": "<p>Karma Marka</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862114,
@@ -44,8 +42,7 @@
         "D": "<p>Şekil markası</p>",
         "E": "<p>Renk markası</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862116,
@@ -60,8 +57,7 @@
         "D": "<p>Google</p>",
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>McDonald’s</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862119,
@@ -76,8 +72,7 @@
         "D": "<p>Marka imajı</p>",
         "E": "<p>Markalaşma</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862123,
@@ -92,8 +87,7 @@
         "D": "<p>II, III, IV ve V</p>",
         "E": "<p>III, IV ve V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862125,
@@ -108,8 +102,7 @@
         "D": "<div class=\"page\" title=\"Page 14\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Marka Deneyimi ve Değer</p> </div> </div> </div> </div>",
         "E": "<p>Marka Genişletme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862127,
@@ -124,8 +117,7 @@
         "D": "<div class=\"page\" title=\"Page 18\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sakınmalı Marka Mimarisi</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Marka konumlandırması</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862128,
@@ -140,8 +132,7 @@
         "D": "<p>Kurum değerleri</p>",
         "E": "<p>Kurumsal iletişim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862129,
@@ -156,8 +147,7 @@
         "D": "<p>Kurumsal davranış</p>",
         "E": "<p>Kurumsal itibar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862244,
@@ -172,8 +162,7 @@
         "D": "İşletme",
         "E": "Kurum",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862245,
@@ -188,8 +177,7 @@
         "D": "Örgüt",
         "E": "İşletme",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862246,
@@ -204,8 +192,7 @@
         "D": "Sebzecilik",
         "E": "Toptancılık",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862247,
@@ -220,8 +207,7 @@
         "D": "Kurum/Kuruluş olarak marka",
         "E": "Ürün olarak marka",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862248,
@@ -236,8 +222,7 @@
         "D": "İnovasyon ve Uyarlanabilirlik",
         "E": "Hedef Kitlenin Tanınması",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862249,
@@ -252,8 +237,7 @@
         "D": "Bireysel Marka",
         "E": "Kurumsal Marka",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862250,
@@ -268,8 +252,7 @@
         "D": "Bireysel Marka",
         "E": "Karma Marka",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862251,
@@ -284,8 +267,7 @@
         "D": "B",
         "E": "SM",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862252,
@@ -300,8 +282,7 @@
         "D": "Duygusal Bağ",
         "E": "Paylaşım",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862253,
@@ -316,7 +297,6 @@
         "D": "Marka Konumlandırması",
         "E": "Marka Kişiliği",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

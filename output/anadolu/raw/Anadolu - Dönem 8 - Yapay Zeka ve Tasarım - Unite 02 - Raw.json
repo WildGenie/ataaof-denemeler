@@ -12,8 +12,7 @@
         "D": "<p>Parametrik Tasarım</p>",
         "E": "<p>Öngörücü Modelleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834153,
@@ -28,8 +27,7 @@
         "D": "<p class=\"p1\">Kullanıcı Deneyimi Haritalama</p>",
         "E": "<p>Öngörücü Modelleme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834159,
@@ -44,8 +42,7 @@
         "D": "<p class=\"p1\">Tasarım süreçlerindeki insan hatalarını tamamen ortadan kaldırması</p>",
         "E": "<p>Tasarım projelerindeki tüm veri türlerini otomatik olarak dönüştürmesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834165,
@@ -60,8 +57,7 @@
         "D": "<p class=\"p1\">Metin üretimini tamamen otomatikleştirip insan müdahalesini gereksiz kılarlar.</p>",
         "E": "<p class=\"p1\">Bağlam modellemesi için sadece tek yönlü analiz yöntemini kullanırlar.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834169,
@@ -76,8 +72,7 @@
         "D": "<p class=\"p1\">Metin tabanlı stil komutlarını kullanarak sıfırdan yeni görseller oluşturmak</p>",
         "E": "<p class=\"p1\">Bir görüntünün stilini başka bir görüntüye aktararak estetik uyumu yakalamak</p> <p class=\"p1\"> </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834174,
@@ -92,8 +87,7 @@
         "D": "<p class=\"p2\"> </p> <p class=\"p2\">Framer</p>",
         "E": "<p class=\"p2\"> </p> <p class=\"p2\">Figma</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834179,
@@ -108,8 +102,7 @@
         "D": "<p class=\"p2\">Adobe Substance 3D</p>",
         "E": "<p class=\"p2\">Figma</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834185,
@@ -124,8 +117,7 @@
         "D": "<p class=\"p1\">metin madenciliği</p>",
         "E": "<p>görüntü tanıma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834190,
@@ -140,8 +132,7 @@
         "D": "<p class=\"p1\">Kullanıcıların özgün fikir geliştirme becerilerini zayıflatması</p>",
         "E": "<p class=\"p1\">Tasarım süreçlerinde insan faktörünün tamamen devre dışı kalması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834196,
@@ -156,7 +147,6 @@
         "D": "<p>Yaratıcı endüstrilerdeki fırsat eşitsizliklerinin tamamen ortadan kalkması</p>",
         "E": "<p>Düşük gelirli kullanıcıların araçlardan yeterince yararlanamaması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

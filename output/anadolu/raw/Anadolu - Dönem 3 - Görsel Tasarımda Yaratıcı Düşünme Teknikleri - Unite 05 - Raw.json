@@ -12,8 +12,7 @@
         "D": "<p>Altı Şapkalı Düşünme</p>",
         "E": "<p>İş Sürecinin Yeniden Tasarlanması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861686,
@@ -28,8 +27,7 @@
         "D": "<p>Gündüz Düşü</p>",
         "E": "<p>SCAMPER Tekniği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861687,
@@ -44,8 +42,7 @@
         "D": "<p>Beyin Yazısı</p>",
         "E": "<p>Eskiz</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861688,
@@ -60,8 +57,7 @@
         "D": "<p>Yorumlanması</p>",
         "E": "<p>İncelenmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861712,
@@ -76,8 +72,7 @@
         "D": "<p>İlham</p>",
         "E": "<p>Doğrulama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861714,
@@ -92,8 +87,7 @@
         "D": "<p>Beyin fırtınası methodu daha az kişiden oluşan gruplarda yapılırken, zihin haritalama yöntemi daha kalabalık gruplarda yapılır.</p>",
         "E": "<p>Beyin fırtınası methodu daha kısa sürede yapılırken, zihin haritalama yöntemi daha uzun sürede yapılır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861725,
@@ -108,8 +102,7 @@
         "D": "<p>Yansıtma</p>",
         "E": "<p>Metafor</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861726,
@@ -124,8 +117,7 @@
         "D": "<p>Nitelik aranır</p>",
         "E": "<p>Kombinasyon ve gelişme aranır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861727,
@@ -140,8 +132,7 @@
         "D": "<p>Beyin Çizimi (Braindrawing) Tekniği</p>",
         "E": "<p>SCAMPER Tekniği</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861729,
@@ -156,8 +147,7 @@
         "D": "<p>6-3-5 Metodu</p>",
         "E": "<p>SCAMPER Tekniği</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861838,
@@ -172,8 +162,7 @@
         "D": "<p>Harris</p> ",
         "E": "<p>Maslow</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861839,
@@ -188,8 +177,7 @@
         "D": "<p>Dikey düşünme en olası yolları izler, yanal düşünme en az olası yolları araştırır.</p> ",
         "E": "<p>Dikey Dikey düşünme olasılıksal bir süreçtir, yanal düşünme sonlu bir süreçtir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861840,
@@ -204,8 +192,7 @@
         "D": "<p>Tasarım</p> ",
         "E": "<p>Doğrulama</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861841,
@@ -220,8 +207,7 @@
         "D": "<p>Analitik düşünme</p> ",
         "E": "<p>Sistemli düşünme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861843,
@@ -236,8 +222,7 @@
         "D": "<p>Nitelik gerekir</p> ",
         "E": "<p>Kombinasyon aranır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861844,
@@ -252,8 +237,7 @@
         "D": "<p>SCAMPER Tekniği</p>",
         "E": "<p>6-3-5 Metodu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861846,
@@ -268,8 +252,7 @@
         "D": "<p>Eskiz</p> ",
         "E": "<p>Plan</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861883,
@@ -284,8 +267,7 @@
         "D": "<p>Dikey düşünme sıralıdır</p>",
         "E": "<p>Dikey düşünmede olumsuzluk yoktur</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861884,
@@ -300,8 +282,7 @@
         "D": "<p> İ. Tahir Erda</p>",
         "E": "<p>Zeynep Yanık </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861890,
@@ -316,8 +297,7 @@
         "D": "<p>Siyah şapka</p>",
         "E": "<p>Mavi şapka</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861683,
@@ -332,8 +312,7 @@
         "D": "<p>Sınırsız düşünme</p>",
         "E": "<p>Eleştiri kapı dışına bırakılır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861685,
@@ -348,8 +327,7 @@
         "D": "<p>Yeşil</p>",
         "E": "<p>Beyaz</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861730,
@@ -364,8 +342,7 @@
         "D": "<p>Sembol</p>",
         "E": "<p>İşaret</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861731,
@@ -380,8 +357,7 @@
         "D": "<p>İşaret</p>",
         "E": "<p>Sembol</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861776,
@@ -396,8 +372,7 @@
         "D": "<p>Mors alfabesi</p>",
         "E": "<p>Şirket logoları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861777,
@@ -412,8 +387,7 @@
         "D": "<p>Jung kuramı</p>",
         "E": "<p>Gündüz düşü</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861847,
@@ -428,8 +402,7 @@
         "D": "<p>Metafor</p> ",
         "E": "<p>Sinekdok</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861888,
@@ -444,8 +417,7 @@
         "D": "<p>Gündüz Düşü</p>",
         "E": "<p>Beyin fırtınası</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861889,
@@ -460,8 +432,7 @@
         "D": "<p>Beyin Yazısı</p>",
         "E": "<p>6-3-5 Metodu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861891,
@@ -476,8 +447,7 @@
         "D": "<p>Metafor</p>",
         "E": "<p>Sinekdok</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861680,
@@ -492,8 +462,7 @@
         "D": "<p>Hazırlık</p>",
         "E": "<p>Doğrulama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861689,
@@ -508,8 +477,7 @@
         "D": "<p>Sinekdok</p>",
         "E": "<p>Sembol</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861713,
@@ -524,8 +492,7 @@
         "D": "<p>Sistemli düşünme</p>",
         "E": "<p>Yaratıcı düşünme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861770,
@@ -540,8 +507,7 @@
         "D": "<p>Üretkendir</p>",
         "E": "<p>Seçicidir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861773,
@@ -556,8 +522,7 @@
         "D": "<p>Charette Prosedürü</p>",
         "E": "<p>6-3-5 metodu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861774,
@@ -572,8 +537,7 @@
         "D": "<p>Rearrange/Reverse</p>",
         "E": "<p>Adapt/Adjust</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861778,
@@ -588,8 +552,7 @@
         "D": "<p>Sinekdok</p>",
         "E": "<p>İkon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861779,
@@ -604,8 +567,7 @@
         "D": "<p>Şablon</p>",
         "E": "<p>Eskiz</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861681,
@@ -620,8 +582,7 @@
         "D": "<p>Analojik Düşünme</p>",
         "E": "<p>Tümevarım Düşünme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861728,
@@ -636,8 +597,7 @@
         "D": "<p>M Modify/Minify/Magnify (Modifiye Etme/ Küçültme/ Büyütme)</p>",
         "E": "<p>Eliminate (Elimine Etme)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861772,
@@ -652,8 +612,7 @@
         "D": "<p>Yaratıcı düşünme</p>",
         "E": "<p>İndüktif akıl yürütme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861775,
@@ -668,8 +627,7 @@
         "D": "<p>Duruma iyimser bir açıdan bakmak</p>",
         "E": "<p>Süreci sonlandırmak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861882,
@@ -684,8 +642,7 @@
         "D": "<p>Aristoteles</p> ",
         "E": "<p>Sokrates</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861885,
@@ -700,8 +657,7 @@
         "D": "<p>Analitik düşünme</p>",
         "E": "<p>Sistemli düşünme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861887,
@@ -716,8 +672,7 @@
         "D": "<p>Altı Şapkalı Düşünme</p>",
         "E": "<p>Beyin fırtınası</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861771,
@@ -732,8 +687,7 @@
         "D": "<p>Analitik</p>",
         "E": "<p>Eleştirel</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861842,
@@ -748,8 +702,7 @@
         "D": "<p>Analitik düşünme</p> ",
         "E": "<p>Yaratıcı düşünme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861886,
@@ -764,8 +717,7 @@
         "D": "<p>Analojik düşünme</p>",
         "E": "<p>Eleştirel düşünme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861682,
@@ -780,8 +732,7 @@
         "D": "<p>SCAMPER Tekniği</p>",
         "E": "<p>Beyin Fırtınası</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861845,
@@ -796,7 +747,6 @@
         "D": "<p>Kırmızı şapka: Duygusal düşünme</p> ",
         "E": "<p>Siyah şapka: Olumsuz düşünme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     }
 ]

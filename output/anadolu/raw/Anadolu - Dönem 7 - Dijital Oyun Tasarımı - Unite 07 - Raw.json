@@ -12,8 +12,7 @@
         "D": "<p>Senaryo akışları</p>",
         "E": "<p>Teknik beceri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685503,
@@ -28,8 +27,7 @@
         "D": "<p>İstatistik</p>",
         "E": "<p>İnsan kaynakları</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685508,
@@ -44,8 +42,7 @@
         "D": "<p>İtalya</p>",
         "E": "<p>İspanya</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685513,
@@ -60,8 +57,7 @@
         "D": "<p>Mobil cihazlar</p>",
         "E": "<p>Televizyon ve geniş ekranlar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685517,
@@ -76,8 +72,7 @@
         "D": "<p>Montaj</p>",
         "E": "<p>Lua</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685519,
@@ -92,8 +87,7 @@
         "D": "<p>Oyuncular (Müşteriler)</p>",
         "E": "<p>Oyun geliştiriciler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685522,
@@ -108,8 +102,7 @@
         "D": "<p>Üretim</p>",
         "E": "<p>Satış sonrası destek hizmetleri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685531,
@@ -124,8 +117,7 @@
         "D": "<p>Alfa Beta denemeleri</p>",
         "E": "<p>Son ürün ve yayınlama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685539,
@@ -140,8 +132,7 @@
         "D": "<p>Oyunun satın alınabilirliği</p>",
         "E": "<p>Oyun mekaniği</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685546,
@@ -156,7 +147,6 @@
         "D": "<p>Eğitici</p>",
         "E": "<p>Bulmaca</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

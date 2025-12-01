@@ -12,8 +12,7 @@
         "D": "<p>Arts and Crafts Hareketi’nin doğmasına neden olmuştur</p>",
         "E": "<p>Tasarım sürecini daha kullanıcı odaklı ve yenilikçi bir hâle getirmiştir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830690,
@@ -28,8 +27,7 @@
         "D": "<p>Yeniden Tasarım Kuralı</p>",
         "E": "<p>Kullanıcı odaklı inovasyon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830694,
@@ -44,8 +42,7 @@
         "D": "<p>Seçim zorunluluğundan kaçınma</p>",
         "E": "<p>İnsan ve çevre odaklı yaklaşım</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830696,
@@ -60,8 +57,7 @@
         "D": "<p>Çok işlevliliğe yatkınlık</p>",
         "E": "<p>Kullanıcı odaklı çözümler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830725,
@@ -76,8 +72,7 @@
         "D": "<p>Fikir üretimi</p>",
         "E": "<p>İnşa etme </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830729,
@@ -92,8 +87,7 @@
         "D": "                                                                    <p>Liedtka Tasarım Düşüncesi </p>\n                                                            ",
         "E": "                                                                    <p>Tasarım Bilişi</p>\n                                                            ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830731,
@@ -108,8 +102,7 @@
         "D": "<p>Problemi kavramsallaştırma</p>",
         "E": "<p>Çözümü test etme veya uygulama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830734,
@@ -124,8 +117,7 @@
         "D": "<p>Tanımlama, taslak çizim, karar verme, geliştirme ve doğrulama</p>",
         "E": "<p>Anlama, taslak çizim, karar verme, geliştirme ve doğrulama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830736,
@@ -140,8 +132,7 @@
         "D": "<p>Ne işe yarar?</p>",
         "E": "<p>Müşteri tasarımı onayladı mı?</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830738,
@@ -156,7 +147,6 @@
         "D": "<p>Bağlama Dayalı Pratik Olarak Tasarım Kültürü</p>",
         "E": "<p>Bir Süreç Olarak Tasarım Kültürü</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

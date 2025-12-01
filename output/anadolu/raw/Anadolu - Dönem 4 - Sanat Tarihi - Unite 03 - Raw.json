@@ -12,8 +12,7 @@
         "D": "<p>Kralların tanrısallaştırıp gücünü ortaya koyan imparator heykellerinin yapılması</p>",
         "E": "<p>Heykelde haraket olgusunun vurgulanması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935824,
@@ -28,8 +27,7 @@
         "D": "<p>Hayvan heykelcikleri</p>",
         "E": "<p>Portre büstler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935860,
@@ -44,8 +42,7 @@
         "D": "<p>Geç Klasik dönem.</p>",
         "E": "<p>Roma dönemi.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935870,
@@ -60,8 +57,7 @@
         "D": "<p>Virilis</p>",
         "E": "<p>Concord</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935936,
@@ -76,8 +72,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935938,
@@ -92,8 +87,7 @@
         "D": "<p>Sadece III</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935941,
@@ -108,8 +102,7 @@
         "D": "<p>Naos</p>",
         "E": "<p>Tholos</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935942,
@@ -124,8 +117,7 @@
         "D": "<p>İon  - Korinth - Dor</p>",
         "E": "<p>Dor - İon - Korinth</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935962,
@@ -140,8 +132,7 @@
         "D": "<p>Castor Tapınağı</p>",
         "E": "<p>Pollux Tapınağı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935995,
@@ -156,8 +147,7 @@
         "D": "<p>Korinth</p>",
         "E": "<p>İon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935999,
@@ -172,8 +162,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936022,
@@ -188,8 +177,7 @@
         "D": "<p>Cumhuriyet Dönemi Roma Sanatı</p>",
         "E": "<p>İmparatorluk Dönemi Yunan Sanatı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936026,
@@ -204,8 +192,7 @@
         "D": "<p>Antiocheia</p>",
         "E": "<p>İonya</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936031,
@@ -220,8 +207,7 @@
         "D": "<p>M.Ö. 10-9 yy.</p>",
         "E": "<p>M.Ö. 7-6 yy.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936033,
@@ -236,8 +222,7 @@
         "D": "<p>Aiol</p>",
         "E": "<p>Kubbe</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936047,
@@ -252,8 +237,7 @@
         "D": "<p>Efes Artemis Tapınağı</p> ",
         "E": "<p>Sardes Artemis Tapınağı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936055,
@@ -268,8 +252,7 @@
         "D": "<p>Stoa</p>",
         "E": "<p>Petra</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936075,
@@ -284,8 +267,7 @@
         "D": "<p>Zengin stil</p>",
         "E": "<p>Geç Klasik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936100,
@@ -300,8 +282,7 @@
         "D": "<p>Saturn Tapınağı</p>",
         "E": "<p>Concord Tapınağı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936103,
@@ -316,8 +297,7 @@
         "D": "<p>Ravenna</p>  <p><strong> </strong></p>",
         "E": "<p>Pompeii </p> <p><strong> </strong></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935876,
@@ -332,8 +312,7 @@
         "D": "<p>Klasik Dönem</p>",
         "E": "<p>Roma dönemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935877,
@@ -348,8 +327,7 @@
         "D": "<p>Bacak ve kolların gövdeden ayrılması, çıplak oluşları ve desteğe ihtiyaç duymamaları </p>",
         "E": "<p>Yüzlerinin boyalı olmaları</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935890,
@@ -364,8 +342,7 @@
         "D": "<p>Odeion</p>",
         "E": "<p>Stoa</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935895,
@@ -380,8 +357,7 @@
         "D": "<p>Capitolium ve Veii Tapınakları</p>",
         "E": "<p>Juno Tapınağı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935911,
@@ -396,8 +372,7 @@
         "D": "Minimal stil",
         "E": "Gerçek stil",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935919,
@@ -412,8 +387,7 @@
         "D": "Toskan Düzeni ",
         "E": "Aeol Düzeni ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935925,
@@ -428,8 +402,7 @@
         "D": "Bologna",
         "E": "Atina",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935940,
@@ -444,8 +417,7 @@
         "D": "<p>Klasik - Arkaik- Helenistik</p>",
         "E": "<p>Helenistik - Arkaik - Klasik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935980,
@@ -460,8 +432,7 @@
         "D": "<p>Aiol</p>",
         "E": "<p>Megaron</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935988,
@@ -476,8 +447,7 @@
         "D": "<p>Yaralı Galat Heykeli</p>",
         "E": "<p>Herakles Heykeli</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936005,
@@ -492,8 +462,7 @@
         "D": "<p>Dış cephelerle ve iç mekânlar arasında boyut, oran ve süslemeler açısından uyumlu ve görkemli yapıların inşa edilmesi  </p>",
         "E": "<p>Coğrafyaya özgü çözümler geliştirilmesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936020,
@@ -508,8 +477,7 @@
         "D": "<p>Vettii Evi</p>",
         "E": "<p>Samnit Villası</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936028,
@@ -524,8 +492,7 @@
         "D": "<div class=\"page\" title=\"Page 8\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Roma mimarlığında Dini mimaride daha önceleri bir tapınakla<br /> ilişkili olan altarlar seküler bir nitelik kazanarak bağımsız yapılara dönüşmüştür.</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 8\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Roma mimarlığında büyük boyutlu tapınakların tasarımında tek veya çift sıra sütun dizili planların giderek daha az tercih edilmesi, bunun yerine agoraların çevresinde prostylos planlı ve daha küçük boyutlu tapınakların yer alması tercih edilmiştir. </p> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936043,
@@ -540,8 +507,7 @@
         "D": "<p>Odeion</p>",
         "E": "<p>Bouleterion</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936048,
@@ -556,8 +522,7 @@
         "D": "<p>Roma</p>",
         "E": "<p>Bizans</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936063,
@@ -572,8 +537,7 @@
         "D": "<p>Tiyatro binaları</p>",
         "E": "<p>Tapınak binaları</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936072,
@@ -588,8 +552,7 @@
         "D": "<p>Zafer takı</p>",
         "E": "<p>Circus</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936086,
@@ -604,8 +567,7 @@
         "D": "<p> Zafer takı</p>",
         "E": "<p>Amphitiyatro</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936098,
@@ -620,8 +582,7 @@
         "D": "<p>i-İktinos ii-İon</p>",
         "E": "<p>i-Hermogens ii-Korint</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935823,
@@ -636,8 +597,7 @@
         "D": "<p>Mimari</p>",
         "E": "<p>Edebiyat</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935843,
@@ -652,8 +612,7 @@
         "D": "<p>İon</p> ",
         "E": "<p>Toksan</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935865,
@@ -668,8 +627,7 @@
         "D": "<p>Orta İtalya ve Vatikan</p>",
         "E": "<p>Anadolu, Kuzey ve Güney İtalya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935878,
@@ -684,8 +642,7 @@
         "D": "<p>Olgun (MÖ 450-420)</p>",
         "E": "<p>Erken (MÖ 490-450)</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935906,
@@ -700,8 +657,7 @@
         "D": "Bouleterion",
         "E": "Prytaneion",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935912,
@@ -716,8 +672,7 @@
         "D": "Hellenistik Dönem",
         "E": "Arkaik Dönem",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935928,
@@ -732,8 +687,7 @@
         "D": "<p>Olympia Zeus Tapınağı</p>",
         "E": "<p>Artemis Tapınağı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935931,
@@ -748,8 +702,7 @@
         "D": "<p>Bergama Zeus Altarı</p>",
         "E": "<p>Efes Artemis Tapınağı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935956,
@@ -764,8 +717,7 @@
         "D": "<p>Maniyera</p> ",
         "E": "<p>Mystikleşme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935979,
@@ -780,8 +732,7 @@
         "D": "<p>Bouleterion</p>",
         "E": "<p>Naos</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935991,
@@ -796,8 +747,7 @@
         "D": "<p>Concord</p>",
         "E": "<p>Castor</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936009,
@@ -812,8 +762,7 @@
         "D": "<p>Mitoloji</p>",
         "E": "<p>Din</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936064,
@@ -828,8 +777,7 @@
         "D": "<p>Roma-Cumhuriyet</p>",
         "E": "<p>Roma-İmparatorluk</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936070,
@@ -844,8 +792,7 @@
         "D": "<div class=\"page\" title=\"Page 17\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Roma mimarlığını, kendinden önceki Yunan mimarlık geleneğinden ayıran en belirgin farklılık, daha çok cephelerin görünümüne ağırlık veren ve iç mekân tasarımını ikinci plana iten önceki anlayışı değiştirmesi olmuştur.</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 17\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Roma kentlerinin merkezini forum olarak adlandırılan ve çevresinde tapınak, bazilika, hamam, çeşme, zafer takı ve arşiv binaları gibi idari, dinî ve sosyal işlevli kamu binaların yer aldığı geniş meydanlar oluştururdu.</p> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936074,
@@ -860,8 +807,7 @@
         "D": "<p>Roma-Cumhuriyet</p>",
         "E": "<p>Roma-İmparatorluk</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936078,
@@ -876,8 +822,7 @@
         "D": "<p> II ve III</p>",
         "E": "<p> I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935826,
@@ -892,8 +837,7 @@
         "D": "<p>Roma Pantheon Tapınağı</p>",
         "E": "<p>Korfu Artemis Tapınağı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935853,
@@ -908,8 +852,7 @@
         "D": "<p>20</p>",
         "E": "<p>21</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935904,
@@ -924,8 +867,7 @@
         "D": "Sperlonga",
         "E": "Grotesk",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935915,
@@ -940,8 +882,7 @@
         "D": "Sardes Artemis",
         "E": "Asos Athena ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935921,
@@ -956,8 +897,7 @@
         "D": "Karadeniz Kıyıları ",
         "E": "Doğu Anadolu bölgesi ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935930,
@@ -972,8 +912,7 @@
         "D": "<p>Pergamon Zeus Altarı</p>",
         "E": "<p>Sardes Artemis Tapınağı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935974,
@@ -988,8 +927,7 @@
         "D": "<p>Roma</p>",
         "E": "<p>Hitit</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935990,
@@ -1004,8 +942,7 @@
         "D": "<p>Kamu binalarını belli yapısal düzenlerde (İon, Dor, Korinth) inşa etmeleri</p>",
         "E": "<p>Cephesel görünüme, süslemeye ağırlık vermeleri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936013,
@@ -1020,8 +957,7 @@
         "D": "<p>friz kuşağının bi&ccedil;imi</p>",
         "E": "<p>s&uuml;tun başlıklarının bi&ccedil;imi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936056,
@@ -1036,8 +972,7 @@
         "D": "<p>Yunanistan’ın Agoralar inşetmeye başlaması</p>",
         "E": "<p>Yunanistan’ın tapınaklar inşa etmeye başlaması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936084,
@@ -1052,8 +987,7 @@
         "D": "<p>İon Düzeni </p> ",
         "E": " <p>Korinth Düzeni </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936092,
@@ -1068,8 +1002,7 @@
         "D": "<p>Vitruvius </p> ",
         "E": "<p>Hermogenes </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936099,
@@ -1084,8 +1017,7 @@
         "D": "<p>Cladius </p> ",
         "E": "<p>Tiberius </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936102,
@@ -1100,8 +1032,7 @@
         "D": "<p>Pelops ve Oinomas arasındaki yarış</p>",
         "E": "<p>Zeus ve Apollon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936110,
@@ -1116,8 +1047,7 @@
         "D": "<p>i-İkinci üslup ii-Roma Grifonlar Evi</p>",
         "E": "<p>i-Üçüncü üslup ii-Pompeii Vetti Evi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935846,
@@ -1132,8 +1062,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935880,
@@ -1148,8 +1077,7 @@
         "D": "<p>Polis</p>",
         "E": "<p>Odeon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935926,
@@ -1164,8 +1092,7 @@
         "D": "Askeri başarıların anısına inşa edilmesi",
         "E": "Sahnede Apollon heykelinin bulunması",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935932,
@@ -1180,8 +1107,7 @@
         "D": "<p>Efes Artemis Tapınağı</p>",
         "E": "<p>Didyma Apollon Tapınağı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935951,
@@ -1196,8 +1122,7 @@
         "D": "<p>Arkaik Dönem- Romen Dönem - Helenistik Dönem</p>",
         "E": "<p>Antik Dönem - Roma Dönemi-  Pre Helenistik Dönem</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935970,
@@ -1212,8 +1137,7 @@
         "D": "<p>Klasik dönem olgun evresi </p>",
         "E": "<p>Klasik dönem geç evresi </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935989,
@@ -1228,8 +1152,7 @@
         "D": "<p>Personifikasyon</p>",
         "E": "<p>Grotesk</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936069,
@@ -1244,8 +1167,7 @@
         "D": "<p>Tasvir</p>",
         "E": "<p>Frontal</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936080,
@@ -1260,8 +1182,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936083,
@@ -1276,8 +1197,7 @@
         "D": "<p>Jupiter Tapınağı</p>",
         "E": "<p>Concord Tapınağı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936097,
@@ -1292,8 +1212,7 @@
         "D": "<p>MÖ 6.yy</p> ",
         "E": "<p>MÖ 8.yy</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935832,
@@ -1308,8 +1227,7 @@
         "D": "<p>Palaestra</p>",
         "E": "<p>Apodyterium</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935836,
@@ -1324,8 +1242,7 @@
         "D": "<p>Kubbe çapı 43,5 cm. dir.</p>",
         "E": "<p>Yapının etrafında sütun dizisinden bir revak bulunmaktadır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935849,
@@ -1340,8 +1257,7 @@
         "D": "<p>Romanesk</p>",
         "E": "<p>Sicilya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935882,
@@ -1356,8 +1272,7 @@
         "D": "<div class=\"page\" title=\"Page 7\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Helenistik Dönem</p> </div> </div> </div>",
         "E": "<p>Klasik Dönem</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935897,
@@ -1372,8 +1287,7 @@
         "D": "<p>Roma Forumu’ndaki Titus Takı</p>",
         "E": "<p>Vezüv Yanardağı’nın külleri altında kalan Pompeii ve Herculaneum</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935910,
@@ -1388,8 +1302,7 @@
         "D": "Cumhuriyet",
         "E": "Barok",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935914,
@@ -1404,8 +1317,7 @@
         "D": "Roma Dönemi ",
         "E": "Protogeometrik Dönem ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935968,
@@ -1420,8 +1332,7 @@
         "D": "<p>Toksan düzeni</p>",
         "E": "<p>Aiol düzeni</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935978,
@@ -1436,8 +1347,7 @@
         "D": "<p>Bouleterion</p>",
         "E": "<p>Odeion</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936001,
@@ -1452,8 +1362,7 @@
         "D": "<p>Kentlerin en saygın yapıları olan tapınaklar ve kutsal alanlar genellikle kentle bağlantılı hakim bir tepe üzerinde, yukarı kent anlamına gelen akropolde yer alırdı. </p>",
         "E": "<p>Tapınaklar, kökeni tarih öncesi dönemlere kadar uzanan ve megaron adı verilen dairesel planlı konutlardan geliştirilmiştir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936006,
@@ -1468,8 +1377,7 @@
         "D": "<p>Apollon Sunağı</p>",
         "E": "<p>Athena Tapınağı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936051,
@@ -1484,8 +1392,7 @@
         "D": "<p>Yunanistandaki inşa faaliyetlerinin yoğunluğu </p> ",
         "E": "<p>Batı Anadolu’da yeterli hammadde kaynaklarının bulunmaması</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936066,
@@ -1500,8 +1407,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Aiol</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Toksan</p> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936071,
@@ -1516,8 +1422,7 @@
         "D": "<div class=\"page\" title=\"Page 18\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Pantheon</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 18\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Capitolium</p> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935831,
@@ -1532,8 +1437,7 @@
         "D": "<p>Collesium</p>",
         "E": "<p>Stoa</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935833,
@@ -1548,8 +1452,7 @@
         "D": "<p>Ara Pacis</p>",
         "E": "<p>Bergama Zeus Altarı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935850,
@@ -1564,8 +1467,7 @@
         "D": "<p>M.Ö625</p>",
         "E": "<p>M.Ö525</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935947,
@@ -1580,8 +1482,7 @@
         "D": "<p>Roma dönemine ait bir hamam.</p>",
         "E": "<p>Roma dönemine ait bir agora.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935981,
@@ -1596,8 +1497,7 @@
         "D": "<p>Dipteros</p>",
         "E": "<p>Stylobat</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935983,
@@ -1612,8 +1512,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935998,
@@ -1628,8 +1527,7 @@
         "D": "<p>Augustus Primaporta Heykeli</p>",
         "E": "<p>Zafer Anıtı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936000,
@@ -1644,8 +1542,7 @@
         "D": "<p>Kabartma</p>",
         "E": "<p>Portre</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936012,
@@ -1660,8 +1557,7 @@
         "D": "<p>Myron</p>",
         "E": "<p>Apollodoros</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936019,
@@ -1676,8 +1572,7 @@
         "D": "<p>Misterler Evi</p>",
         "E": "<p>Altın Ev</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936027,
@@ -1692,8 +1587,7 @@
         "D": "<p>M.S. III. Yüzyıl</p>",
         "E": "<p>M.Ö. II. Yüzyıl</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936036,
@@ -1708,8 +1602,7 @@
         "D": "<p>Fortuna Virilis</p>",
         "E": "<p>Veii</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936042,
@@ -1724,8 +1617,7 @@
         "D": "<p>Naos</p>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Peristasis</p> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936062,
@@ -1740,8 +1632,7 @@
         "D": "<p class=\"p1\"><em>Tranianus Freskosu</em></p>",
         "E": "<p>Pantheon Kubbesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936085,
@@ -1756,8 +1647,7 @@
         "D": "<p>Ciddi</p>",
         "E": "<p>Grotesk</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936107,
@@ -1772,8 +1662,7 @@
         "D": "<p>Payanda</p>",
         "E": "<p>Kaide</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935842,
@@ -1788,8 +1677,7 @@
         "D": "<p>Polykleitos</p> ",
         "E": "<p>Alkamenes</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935868,
@@ -1804,8 +1692,7 @@
         "D": "<p>MÖ 400-300</p>",
         "E": "<p>MÖ 290-130)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935900,
@@ -1820,8 +1707,7 @@
         "D": "Atina Niken Tapınağı",
         "E": "Eski Atina Tapınağı",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935908,
@@ -1836,8 +1722,7 @@
         "D": "Heraik",
         "E": "Akroter",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935913,
@@ -1852,8 +1737,7 @@
         "D": "Savaş tanrı",
         "E": "Krallar",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935923,
@@ -1868,8 +1752,7 @@
         "D": "Tholos",
         "E": "Toksan",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935960,
@@ -1884,8 +1767,7 @@
         "D": "<p>Duvar resimleri ve Seramiklere</p>",
         "E": "<p>Duvar resimleri ve Akriliklere</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935965,
@@ -1900,8 +1782,7 @@
         "D": "<p>Palaestra</p>",
         "E": "<p>Calidarium</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936021,
@@ -1916,8 +1797,7 @@
         "D": "<p>İhtiyar Meclisi</p>",
         "E": "<p>İşlikler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936044,
@@ -1932,8 +1812,7 @@
         "D": "<p>Bit-Hilani</p> ",
         "E": "<p>Castrum</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936059,
@@ -1948,8 +1827,7 @@
         "D": "<p>Korent ve İyon</p>",
         "E": "<p>Dor ve Dorius</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935816,
@@ -1964,8 +1842,7 @@
         "D": "<p>Akropolis</p>",
         "E": "<p>Peripteros</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935830,
@@ -1980,8 +1857,7 @@
         "D": "<p>Myron</p>",
         "E": "<p>Praksiteles</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935852,
@@ -1996,8 +1872,7 @@
         "D": "<p>11</p>",
         "E": "<p>12</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935902,
@@ -2012,8 +1887,7 @@
         "D": "Athenadoros",
         "E": "Polydoros",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935955,
@@ -2028,8 +1902,7 @@
         "D": "<p>Korfu Artemis Tapınağı Medusa heykeli - Phedias</p>",
         "E": "<p>Tyran Öldürenler heykel grubu- Apoxymenos</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935966,
@@ -2044,8 +1917,7 @@
         "D": "<p>Roma cumhuriyet dönemi</p>",
         "E": "<p>Yunan helenistik dönemi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936037,
@@ -2060,8 +1932,7 @@
         "D": "<p>Circus Maximus</p>",
         "E": "<p>Titus </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936041,
@@ -2076,8 +1947,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Prytaneion</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Bouleterion</p> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936057,
@@ -2092,8 +1962,7 @@
         "D": "<p>Agorantoryum</p>",
         "E": "<p>Şapel</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936101,
@@ -2108,8 +1977,7 @@
         "D": "<p>MÖ 2. yüzyıl</p> ",
         "E": "<p>MÖ 1. yüzyıl</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936104,
@@ -2124,8 +1992,7 @@
         "D": "<p>i-Zeus Heykeli ii-Helenistik</p>",
         "E": "<p>i-Nike Heykeli ii-Helenistik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935837,
@@ -2140,8 +2007,7 @@
         "D": "<p>Roma çimentosu olarak adlandırılan dayanıklı inşa malzemeleri kullanmışlardır.</p>",
         "E": "<p>Roma idaresindeki tüm topraklarda kent planlamacılığı ve yapı tiplerini yönetim politikasına uygun biçimde yaygınlaştırmışlardır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935845,
@@ -2156,8 +2022,7 @@
         "D": "<p>M.Ö. 7-6</p>",
         "E": "<p>M.Ö6-5</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935893,
@@ -2172,8 +2037,7 @@
         "D": "<p>Kendine özgü yeni bir mimarlık anlayışı geliştirmiş olması.</p>",
         "E": "<p>Roma kent planlamacılığını ve yapı tiplerini yönetim politikasına uygun biçimde yaygınlaştırması.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935896,
@@ -2188,8 +2052,7 @@
         "D": "<p>Herakles heykeli</p>",
         "E": "<p>İmparator Cladius heykeli</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935899,
@@ -2204,8 +2067,7 @@
         "D": "Orta İtalya",
         "E": "Kuzeybatı Anadolu",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935901,
@@ -2220,8 +2082,7 @@
         "D": "Karyadit",
         "E": "Hiçbiri",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935946,
@@ -2236,8 +2097,7 @@
         "D": "<p>Marcellus Tiyatrosu</p>",
         "E": "<p>Circus Maximus</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936049,
@@ -2252,8 +2112,7 @@
         "D": "<p>Atina</p> ",
         "E": "<p>Sparta</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936081,
@@ -2268,8 +2127,7 @@
         "D": "<p>odeion</p>",
         "E": "<p>polis</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936093,
@@ -2284,8 +2142,7 @@
         "D": "<p>Mısır</p>",
         "E": "<p>Kuzey Afrika</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936105,
@@ -2300,8 +2157,7 @@
         "D": "<p>Saturn Tapınağı</p>",
         "E": "<p>Pantheon Tapınağı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935819,
@@ -2316,8 +2172,7 @@
         "D": "<p>geometrik motiler ve süsleme rolyefleri</p>",
         "E": "<p>Meleklerve çocuklardan oluşan kabartma rolyefler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935840,
@@ -2332,8 +2187,7 @@
         "D": "<p>Fortuna Virilis Tapınağı</p>",
         "E": "<p>Veii Tapınağı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935857,
@@ -2348,8 +2202,7 @@
         "D": "<p>II. Eumenes.</p>",
         "E": "<p>Mimar İktinos. </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935869,
@@ -2364,8 +2217,7 @@
         "D": "<p>Hydria</p>",
         "E": "<p>Sfensk</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935950,
@@ -2380,8 +2232,7 @@
         "D": "<p>Geç Klasik Dönem heykeli</p>",
         "E": "<p>Helenistik Dönem heykeli</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935969,
@@ -2396,8 +2247,7 @@
         "D": "<p>Geç dönem</p>",
         "E": "<p>Helenistik dönem</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936015,
@@ -2412,8 +2262,7 @@
         "D": "<p>akroter</p>",
         "E": "<p>kanon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936052,
@@ -2428,8 +2277,7 @@
         "D": "<p>Hellenistik Dönem</p>",
         "E": "<p>Roma Dönemi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936076,
@@ -2444,8 +2292,7 @@
         "D": "<p>Çok sayıda mimara sahip olmaları</p>",
         "E": "<p>Yerleşik yaşama geçmiş olmaları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935943,
@@ -2460,8 +2307,7 @@
         "D": "<p>A - Dor</p> <p>B - İon</p> <p>C - Korinth</p>",
         "E": "<p>A - İon </p> <p>B - Korinth</p> <p>C - Dor</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935949,
@@ -2476,8 +2322,7 @@
         "D": "<p>Floransa</p>",
         "E": "<p>Napoli</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935952,
@@ -2492,8 +2337,7 @@
         "D": "<p>Yeniliklere a&ccedil;ık bir sanat anlayışının gelişmesini sağlamıştır</p>",
         "E": "<p>Bu d&ouml;nem, Yunanistan&rsquo;ın Pers istilasından kurtuluşu ile başlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935982,
@@ -2508,8 +2352,7 @@
         "D": "<p>Tapınaklar</p>",
         "E": "<p>Çeşmeler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936024,
@@ -2524,8 +2367,7 @@
         "D": "<p>Klasik Dönem</p>",
         "E": "<p>Arkaik Dönem</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936029,
@@ -2540,8 +2382,7 @@
         "D": "<p>Capitolium Tapınağı</p>",
         "E": "<p>Veii Tapınağı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936058,
@@ -2556,8 +2397,7 @@
         "D": "<p>Paneik Dönem</p>",
         "E": "<p>Palaldionik Dönem</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935937,
@@ -2572,8 +2412,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>Sadece I</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935953,
@@ -2588,8 +2427,7 @@
         "D": "<p>Efes Artemis Altarı</p> ",
         "E": "<p>Assos Athena Altarı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935959,
@@ -2604,8 +2442,7 @@
         "D": "<p>Yunan heykeltıraş Lysippos</p> ",
         "E": "<p>Yunan heykeltıraş Phedias</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935835,
@@ -2620,8 +2457,7 @@
         "D": "<p>Hamam</p>",
         "E": "<p>Zafer Takları</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935854,
@@ -2636,8 +2472,7 @@
         "D": "<p>Mimar Yannis</p>",
         "E": "<p>Mimar Alikis</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935933,
@@ -2652,8 +2487,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>Sadece I</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935958,
@@ -2668,8 +2502,7 @@
         "D": "<p>Atina II. Attalos Stoası</p>",
         "E": "<p>Korfu Artemis Tapınağı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935967,
@@ -2684,8 +2517,7 @@
         "D": "<p>Bouleterion</p>",
         "E": "<p>Odeion</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935976,
@@ -2700,8 +2532,7 @@
         "D": "<p>2</p>",
         "E": "<p>1</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936046,
@@ -2716,8 +2547,7 @@
         "D": "<p>Thebai</p>",
         "E": "<p>Aiol</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936050,
@@ -2732,8 +2562,7 @@
         "D": "<p>Propylon</p> ",
         "E": "<p>Hera Sunağı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936090,
@@ -2748,8 +2577,7 @@
         "D": "<p>Pers</p>",
         "E": "<p>İskit</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935821,
@@ -2764,8 +2592,7 @@
         "D": "<p>Mermer</p>",
         "E": "<p>Ahşap</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935856,
@@ -2780,8 +2607,7 @@
         "D": "<p>Nike Tapınağı.</p>",
         "E": "<p>Propylon'nun Kuzey kanadı Pinakotheke.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935864,
@@ -2796,8 +2622,7 @@
         "D": "<p>Marcellus Tiyatrosu.</p>",
         "E": "<p>Aspendos.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935872,
@@ -2812,8 +2637,7 @@
         "D": "<p>Savaş öncesi toplantılar</p>",
         "E": "<p>Gladyatör dövüşleri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935881,
@@ -2828,8 +2652,7 @@
         "D": "<p>Stadion</p>",
         "E": "<p>Agora</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935883,
@@ -2844,8 +2667,7 @@
         "D": "<div class=\"page\" title=\"Page 13\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Aphrodite heykeli</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 14\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kral Mausolos’un anıtsal mezarı</p> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935984,
@@ -2860,8 +2682,7 @@
         "D": "<p>Myron</p>",
         "E": "<p>Polykleitos</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935997,
@@ -2876,8 +2697,7 @@
         "D": "<p>Sanatçılığı</p>",
         "E": "<p>Ünlü kişiliği</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936034,
@@ -2892,8 +2712,7 @@
         "D": "<p>Atina Parthenon Tapınağı</p>",
         "E": "<p>Paestum Bazilika</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936094,
@@ -2908,8 +2727,7 @@
         "D": "<p>Jupiter Tapınağı </p> ",
         "E": "<p>Pantheon</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935825,
@@ -2924,8 +2742,7 @@
         "D": "<p>Agora</p>",
         "E": "<p>Bouleterion</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935838,
@@ -2940,8 +2757,7 @@
         "D": "<p>Dans Eden Faun Evi</p>",
         "E": "<p>Tivoli Villası</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935954,
@@ -2956,8 +2772,7 @@
         "D": "<p>Tanrısal güzelliği bozacağı düşüncesiyle yüzlerde belirli bir duyguyu ifade etmekten bilinçli olarak kaçınılmıştır</p>",
         "E": "<p>Öykündükleri eski Mısır ve Mezopotamya heykellerinde olduğu gibi cepheden ve hareketsizdirler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936004,
@@ -2972,8 +2787,7 @@
         "D": "<p>Klasik</p>",
         "E": "<p>Hellenistik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936011,
@@ -2988,8 +2802,7 @@
         "D": "<p>Bazilika</p>",
         "E": "<p>Stoa</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936030,
@@ -3004,8 +2817,7 @@
         "D": "<p>Tikus Takı</p>",
         "E": "<div class=\"page\" title=\"Page 25\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Traianus Sütunu</p> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936045,
@@ -3020,8 +2832,7 @@
         "D": "<p>Pronaos</p> ",
         "E": "<p>Naos</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936053,
@@ -3036,8 +2847,7 @@
         "D": "<p>Arkaik, Klasik ve Helenistik dönem Roma sanatının dönemleridir.</p>",
         "E": "<p>Roma Sanatı 19. Yüzyıl başlarında ortaya çıkmış ve Ege kıyılarında yaygınlık kazanmıştır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936067,
@@ -3052,8 +2862,7 @@
         "D": "<div class=\"page\" title=\"Page 6\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Athena Nike</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Atina Erechtheion</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936095,
@@ -3068,8 +2877,7 @@
         "D": "<p>i-Metagenes i-Arkaik Dönem</p>",
         "E": "<p>i-İktinos ii-Helenistik Dönem</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935829,
@@ -3084,8 +2892,7 @@
         "D": "<p>Praxiteles</p>",
         "E": "<p>Lysippos</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935834,
@@ -3100,8 +2907,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935848,
@@ -3116,8 +2922,7 @@
         "D": "<p>Beton</p>",
         "E": "<p>Mermer</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935939,
@@ -3132,8 +2937,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>Sadece I</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935964,
@@ -3148,8 +2952,7 @@
         "D": "<p>Pantheon</p>",
         "E": "<p>Concord</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935977,
@@ -3164,8 +2967,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935994,
@@ -3180,8 +2982,7 @@
         "D": "<p>Apodyterium</p>",
         "E": "<p>Cella</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936010,
@@ -3196,8 +2997,7 @@
         "D": "<p>Pompei</p>",
         "E": "<p>Herculaneum</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936068,
@@ -3212,8 +3012,7 @@
         "D": "<p>Diskopol</p>",
         "E": "<div class=\"page\" title=\"Page 13\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Athena Parthenon </p> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935903,
@@ -3228,8 +3027,7 @@
         "D": "Minos",
         "E": "Miken",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935909,
@@ -3244,8 +3042,7 @@
         "D": "Fildişi",
         "E": "Demir",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935929,
@@ -3260,8 +3057,7 @@
         "D": "<p>Mnesikles</p>",
         "E": "<p>Hermogenes</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935957,
@@ -3276,8 +3072,7 @@
         "D": "<p>Roma tiyatrosu konumlandırılması için doğal bir yamaca ihtiyaç duymuştur</p>",
         "E": "<p>İmparatorluk idaresindeki tüm topraklarda Roma kent planlamacılığını ve yapı tiplerini yönetim politikasına uygun biçimde yaygınlaştırmıştır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935961,
@@ -3292,8 +3087,7 @@
         "D": "<p>Zafer Tanrıçası Nike heykeli</p>",
         "E": "<p>Laokoon Heykel Grubu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936016,
@@ -3308,8 +3102,7 @@
         "D": "<p>Ön cepheden basamaklarla çıkılır.</p> ",
         "E": "<p>Tapınak yüksek bir podyum üzerinde yükselir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935844,
@@ -3324,8 +3117,7 @@
         "D": "<p>Makedonya Krallığı-Büyük İskender</p>",
         "E": "<p>Yunan Krallığı-Erechteus</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935992,
@@ -3340,8 +3132,7 @@
         "D": "<p>Amphitiyatro</p>",
         "E": "<p>Bazilika</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936109,
@@ -3356,8 +3147,7 @@
         "D": "<p>i-Cladius ii-MÖ 39</p>",
         "E": "<p>i-Apollodoros ii-MS 125</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935907,
@@ -3372,8 +3162,7 @@
         "D": "Assos",
         "E": "Sardes",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936032,
@@ -3388,8 +3177,7 @@
         "D": "<p>Akropolis</p>",
         "E": "<p>Peripteros</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936088,
@@ -3404,8 +3192,7 @@
         "D": "<p>i-Toksan ii-Arkaik</p>",
         "E": "<p>i-Aiol ii-Klasik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936106,
@@ -3420,8 +3207,7 @@
         "D": "<p>i-Leochares ii-Arkaik Dönem</p>",
         "E": "<p>i-Bryaxis ii-Klasik Dönem</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935847,
@@ -3436,8 +3222,7 @@
         "D": "<p>Ahşap</p>",
         "E": "<p>Kerpiç</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935855,
@@ -3452,8 +3237,7 @@
         "D": "<p>Kamış.</p>",
         "E": "<p>Kireçtaşı.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935873,
@@ -3468,8 +3252,7 @@
         "D": "<p>Zafer Takları</p>",
         "E": "<p>Senato binaları</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935879,
@@ -3484,8 +3267,7 @@
         "D": "<p>Grotesk</p>",
         "E": "<p>Amfora</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935987,
@@ -3500,8 +3282,7 @@
         "D": "<p>Erken Klasik Dönem</p>",
         "E": "<p>Arkaik Dönem</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936003,
@@ -3516,8 +3297,7 @@
         "D": "<p>Polykleitos</p> ",
         "E": "<p>Phedias</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936082,
@@ -3532,8 +3312,7 @@
         "D": "<p>Ciddi</p>",
         "E": "<p>Grotesk</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935839,
@@ -3548,8 +3327,7 @@
         "D": "<p>Hamam</p>",
         "E": "<p>Zafer Takları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935875,
@@ -3564,8 +3342,7 @@
         "D": "<p>Kekrops</p>",
         "E": "<p>Mnesikles</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935889,
@@ -3580,8 +3357,7 @@
         "D": "<p>Açık hava Tiyatroları</p>",
         "E": "<p>Resim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935922,
@@ -3596,8 +3372,7 @@
         "D": "M.Ö. 339",
         "E": "M.Ö. 349",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935859,
@@ -3612,8 +3387,7 @@
         "D": "<p>Geç Klasik.</p>",
         "E": "<p>Helenistik.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935892,
@@ -3628,8 +3402,7 @@
         "D": "<p>Sardes Artemis Tapınağı</p>",
         "E": "<p>Paestum Basilika (Hera I) Tapınağı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936008,
@@ -3644,8 +3417,7 @@
         "D": "<p>Arkaik dönem Yunan heykellerine olan hayranlık</p>",
         "E": "<p>Hellenistik dönem portre geleneğine bağlılık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936018,
@@ -3660,8 +3432,7 @@
         "D": "<p>III-IV</p>",
         "E": "<p>II-III-IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936065,
@@ -3676,8 +3447,7 @@
         "D": "<p>Karyatid</p>",
         "E": "<p>Korint</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936073,
@@ -3692,8 +3462,7 @@
         "D": "<p>Kabartma</p>",
         "E": "<p>Heykel</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935874,
@@ -3708,8 +3477,7 @@
         "D": "<p>Herculaneum’daki \"Samnit Evi\"</p>",
         "E": "<p>Romaq'da \"Altın Ev\"</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935986,
@@ -3724,8 +3492,7 @@
         "D": "<p>Dionysos</p>",
         "E": "<p>Ephesos</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936007,
@@ -3740,8 +3507,7 @@
         "D": "<p>Miken D&ouml;nemi</p>",
         "E": "<p>Korint D&ouml;nemi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936077,
@@ -3756,8 +3522,7 @@
         "D": "<p>Şehir meclisinin toplandığı meclis binaları bouleterion</p>",
         "E": "<p>Konser binaları odeion</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936060,
@@ -3772,8 +3537,7 @@
         "D": "<p>İskenderiye (Büyük hükümdar)</p>",
         "E": "<p>Septrioklis (hatip)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936096,
@@ -3788,8 +3552,7 @@
         "D": "<p>Capitolium </p> ",
         "E": "<p>Pantheon </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936111,
@@ -3804,8 +3567,7 @@
         "D": "<p>Dış cephelerle ve iç mekânlar arasında boyut, oran ve süslemeler açısından uyumlu ve görkemli yapıların inşa edilmesi  </p>",
         "E": "<p>Coğrafyaya özgü çözümler geliştirilmesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935851,
@@ -3820,8 +3582,7 @@
         "D": "<p>M.Ö550-500</p>",
         "E": "<p>M.Ö.615-515</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935863,
@@ -3836,8 +3597,7 @@
         "D": "<p>Veii Tapınağı.</p>",
         "E": "<p>Jupiter Tapınağı.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935885,
@@ -3852,8 +3612,7 @@
         "D": "<div class=\"page\" title=\"Page 15\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Yaralı Galat Heykel Grubu</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 14\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Herakles Farnase heykelleri Grubu</p> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936038,
@@ -3868,8 +3627,7 @@
         "D": "<p>M.S. 2. yy</p>",
         "E": "<p>M.S. 9. yy</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936079,
@@ -3884,8 +3642,7 @@
         "D": "<p> Didyma Apollon Tapınağı</p>",
         "E": "<p> Sardes Artemis Tapınakları</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935827,
@@ -3900,8 +3657,7 @@
         "D": "<p>Kavaletto</p>",
         "E": "<p>Atalant</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936040,
@@ -3916,8 +3672,7 @@
         "D": "<p>Vetti Evi</p>",
         "E": "<p>Danseden Faun Evi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935894,
@@ -3932,8 +3687,7 @@
         "D": "<p>Hepsi</p>",
         "E": "<p>II,IV ve V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936108,
@@ -3948,8 +3702,7 @@
         "D": "<p>İmparator Cladius Heykeli</p>",
         "E": "<p>Herakles Heykeli</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935817,
@@ -3964,8 +3717,7 @@
         "D": "<p>Kubbeli taş yapıtların uygulanması</p>",
         "E": "<p>Büyük mimari yapıtlarda taşla birlikte tuğla kullanımı ve uygulamaları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935884,
@@ -3980,8 +3732,7 @@
         "D": "<p>Amulet</p>",
         "E": "<div class=\"page\" title=\"Page 13\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Hydria</p> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935887,
@@ -3996,8 +3747,7 @@
         "D": "<p>Roma Titus Takı</p>",
         "E": "<div class=\"page\" title=\"Page 19\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Collesium</p> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935945,
@@ -4012,7 +3762,561 @@
         "D": "<p>Grotesk</p>",
         "E": "<p>Personifikasyon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935867,
+        "UniteNo": 3,
+        "PageNumber": 73,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Ion Düzeni, Antik Çağ’da İonya olarak adlandırılan Batı Anadolu kıyıları ve Ege adalarında daha yaygın olarak benimsenmiştir. Samos (Sisam) Adası’ndaki Hera, Efes Artemis, Didyma Apollon ve Sardes Artemis Tapınakları Arkaik Dönem’de İon Düzeni’nde inşa edilmiş tapınaklar arasında en çok tanınanlarıdır.</p>",
+        "Title": "<p>Lütfen \"Mimari\" başlıklı yazıyı gözden geçiriniz.</p>",
+        "Text": "<p>Aşağıdakilerden hangisi Arkaik Dönemde \"İon Düzeni\" nde inşa edilmiş tapınaklardandır?</p>",
+        "A": "<p>Basilika</p>",
+        "B": "<p>Hera I</p>",
+        "C": "<p>Assos Athena</p>",
+        "D": "<p>Perge Tiyatro</p>",
+        "E": "<p>Efes Artemis</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935917,
+        "UniteNo": 3,
+        "PageNumber": 82,
+        "AnswerExplanation": "<p>sayfa 82: Myron’un ünlü disk atan atlet heykeli Diskopol'dur.</p>",
+        "Title": "Yunan mimarlIğI ve heykeltIraşlığının evrelerini önemli eserleri ve sanatçıları ile açıklayabileceksiniz.",
+        "Text": "<p>Yunan sanatında Myron’un disk atan atlet heykeline ne ad verilir?     </p>",
+        "A": "<p>Kentaur</p>",
+        "B": "<p>Diskopol</p>",
+        "C": "<p>Lapit </p>",
+        "D": "<p>Grotesk</p>",
+        "E": "<p>Galat</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935963,
+        "UniteNo": 3,
+        "PageNumber": 87,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">İmparator Hadrianus zamanında (MS 118-125) Roma’da inşa edilen Pantheon (Yunanca tüm tanrılar anlamına gelmektedir) dur. Dünya mimarlık tarihinin en ünlü anıtlarından biri olan yapı, ününü kusursuz kubbe tasarımına borçludur (Resim 3.15). Zeminden kubbenin en yüksek noktasına kadar devam eden yay tam bir küre oluşturur ki bu mimarlık tarihi için bir ilktir. Ancak asıl zorluk bunun büyük ölçekte uygulanması olmuştur. İçten ve dıştan daire (rotond) planlı tapınak, 43,2 m çapında bir kubbe ile örtülmüştür. </p>",
+        "Title": "<p>Soruda dönemi ve özellikleri verilen yapının tanınması amaçlanmıştır. </p>",
+        "Text": "<p style=\"text-align: justify;\">İmparator Hadrianus zamanında  Roma’da inşa edilen, anlamı Yunanca tüm tanrılar olan, kubbe tasarımı açısından Dünya mimarlık tarihinin en ünlü anıtlarından, içten ve dıştan daire (rotond) planlı tapınak aşağıdakilerden hangisidir? </p>",
+        "A": "<p>Saturn</p>",
+        "B": "<p>Pantheon</p>",
+        "C": "<p>Fortuna Virilis</p>",
+        "D": "<p>Capitolium</p>",
+        "E": "<p>Veii</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935985,
+        "UniteNo": 3,
+        "PageNumber": 82,
+        "AnswerExplanation": "<p>Polykleitos</p>",
+        "Title": "<p>Bunu heykele uyarlayan <strong>ilk heykeltıraş Polykleitos</strong> (MÖ 460-420) olmuştur. Sanatçının insan heykellerinde uyguladığı ve çağdaşı sanatçılar tarafında da benimsenen bu oran 1/7 idi. Geliştirdiği bu ideal oranlar sistemine göre, baş tüm gövde yüksekliğinin yedide biri; ayak, avuç içinin üç katı; ayaktan dize kadar olan mesafe avuç içinin altı katı olmalıydı. </p>",
+        "Text": "<p>Antik Yunan heykel sanatında, ideal oranlar sistemi denilen 1/7 oranını, yani baş tüm gövde yüksekliğinin yedide biri; ayak, avuç içinin üç katı; ayaktan dize kadar olan mesafe avuç içinin altı katı kuralını heykele uyarlayan <strong>ilk heykeltıraş aşağıdakilerden hangisidir?</strong></p>",
+        "A": "<p>Alkamenes</p>",
+        "B": "<p>Paionios</p>",
+        "C": "<p>Phedias</p>",
+        "D": "<p>Agorakritios</p>",
+        "E": "<p>Polykleitos</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935891,
+        "UniteNo": 3,
+        "PageNumber": 72,
+        "AnswerExplanation": "<p>Yunan kentlerinin merkezini, çevresine değişik işlevli yapıların inşa edildiği agora adı verilen meydanlar oluştururdu. Kentin sosyal, ticari ve dinî yaşamında önemli yer tutan agoraların yakınlarında; işlik ve dükkânların yer aldığı stoalar, kutsal ateşin yandığı ihtiyarlar meclisi (prytaneion), şehir meclisinin toplandığı meclis binaları (bouleterion) ve konser binaları (odeion) bulunurdu. Bunların yanı sıra gençlerin teorik ve beden eğitimi aldığı gymnasion, atletizm yarışlarının gerçekleştiği stadion ve tiyatro gibi kamu binaları kentlerin ayrılmaz unsurlarıydı.</p>",
+        "Title": "<p>Soruda özellikleri verilen yapı türünün tanınması amaçlanmıştır. </p>",
+        "Text": "<p style=\"text-align: justify;\">Yunan kentlerinde gençlerin teorik ve beden eğitimi aldığı yapı türü aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Prytaneion</p>",
+        "B": "<p>Gymnasion</p>",
+        "C": "<p>Stoa</p>",
+        "D": "<p>Agora</p>",
+        "E": "<p>Bouleterion</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935898,
+        "UniteNo": 3,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Yunan sanatının tarihsel süreç içerisindeki gelişim evrelerini ve tarihsel sınırlarını tanımlayabileceksiniz.",
+        "Text": "Hantal ve ağır görünümlü  bir birine yakın dizilmiş sütunlu Paestum Basilika (Hera I) Tapınağı Yunan Sanatında hangi dönemde yapılmıştır ?",
+        "A": "Arkaik",
+        "B": "Klasik",
+        "C": "Helenistik",
+        "D": "Miken",
+        "E": "Minos",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935935,
+        "UniteNo": 3,
+        "PageNumber": 83,
+        "AnswerExplanation": "<p>I ve III klasik dönem üslubunda yapılan heykeller iken Laokoon Heykel grubu Helenistik Dönemde yapılmıştır.</p>",
+        "Title": "<p>Yunan Sanatı-Heykel-Klasik Dönem</p>",
+        "Text": "<p>Aşağıdakilerden hangisi ya da hangileri Klasik Dönem Üslubu heykelleri arasında yer alır?</p> <p>I- Disk Atan Atlet Heykeli </p> <p>II-Laokoon Heykel Grubu</p> <p>III-Nike Heykeli</p>",
+        "A": "<p>I ve III</p>",
+        "B": "<p>Sadece II</p>",
+        "C": "<p>II ve III</p>",
+        "D": "<p>Sadece II</p>",
+        "E": "<p>I, II ve III</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936002,
+        "UniteNo": 3,
+        "PageNumber": 74,
+        "AnswerExplanation": "<p>Atina Akropolü, Klasik Dönem mimarlığının karakteristik özellikleri ve eğilimlerinin en iyi takip edilebildiği yerlerin başında gelir. Buradaki yapıların hiç<br />kuşkusuz en dikkat çekeni, dönemin en önemli eserlerinden biri olarak kabul edilen Athena Parthenon Tapınağı’dır (Resim 3.3). Tamamen mermerden inşa edilen tapınağın mimarları İktinos ve Kallikrates’dir. Kutsal iç mekânda (naos) çatıyı destekleyen U biçiminde iki katlı sütun sıraları, Dor üslubundaki dış sütun sıralarından farklı olarak İon Düzeni’ndedir. Yapıdaki İon özelliklerinden biri de naos dış duvarının üst kısmı boyunca uzanan figürlü bir frize sahip olmasıdır. Modern araştırmalar ve Vitruvius gibi Antik Çağ yazarlarının aktarımları, Parthenon’u inşa eden mimarların tapınağı ideal oranlar sistemine göre tasarladıklarını ve yapının görünümünde ortaya çıkan optik yanılmalara çözümler getirdiklerini ortaya koymuştur.</p>",
+        "Title": "",
+        "Text": "<p>Yunan Uygarlığının Klasik Dönem mimari yapıları arasında karakteristik özellikleri bakımından ilk sırada yer alan yapı hangisidir?</p>",
+        "A": "<p>Efes Artemis Tapınağı</p>",
+        "B": "<p>Atina Akropolü</p>",
+        "C": "<p>Didyma Apolo Tapınağı</p>",
+        "D": "<p>Assos Atina Tapınağı</p>",
+        "E": "<p>Bergama Zeus Altarı</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935886,
+        "UniteNo": 3,
+        "PageNumber": 87,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 18\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Roma Pantheon Tapınağı</p> </div> </div> </div>",
+        "Title": "<div class=\"page\" title=\"Page 17\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>ROMA SANATI</p>\n<p>Mimari</p>\n</div>\n</div>\n</div>",
+        "Text": "<div class=\"page\" title=\"Page 18\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İmparator Hadrianus zamanında Roma'da inşa edilen en önemli eser hangisidir?</p> </div> </div> </div>",
+        "A": "<div class=\"page\" title=\"Page 18\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Roma Pantheon Tapınağı</p> </div> </div> </div>",
+        "B": "<div class=\"page\" title=\"Page 21\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Marcellus Tiyatrosu</p> </div> </div> </div>",
+        "C": "<p>Roma Titus Takı</p>",
+        "D": "<div class=\"page\" title=\"Page 19\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Collesium</p> </div> </div> </div>",
+        "E": "<div class=\"page\" title=\"Page 19\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Pompeii Amphitiyatrosu</p> </div> </div> </div>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935927,
+        "UniteNo": 3,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Yunan mimarlIğI ve heykeltIraşlığının evrelerini önemli eserleri ve sanatçıları ile açıklayabileceksiniz.",
+        "Text": "Atina, Athena Parthenon ve Olympia, Zeus Tapınaklarının tanrı (kült) heykellerini yapan Klasik Dönem’in ünlü heykeltıraşı aşağıdakilerden hangisidir?",
+        "A": "Praxiteles",
+        "B": "Skopas",
+        "C": "Lysippos",
+        "D": "Polykleitos",
+        "E": "Phidias",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936023,
+        "UniteNo": 3,
+        "PageNumber": 76,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 7\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>MÖ 5. yüzyılda ortaya çıkan ve sonraki yüzyıllarda temel özelliklerini kazanan Korinth Düzeni’nin giderek daha fazla rağbet gördüğü, buna karşılık Dor Düzeni'nin daha az tercih edildiği dönem Yunan sanatında Helenistik dönemdir.</p> </div> </div> </div>",
+        "Title": "<p>YUNAN SANATI</p>",
+        "Text": "<div class=\"page\" title=\"Page 7\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Yunan anakarasında Dor Düzeni’nin daha az tercih edildiği, buna karşılık İon ve MÖ 5. yüzyılda ortaya çıkan ve sonraki yüzyıllarda temel özelliklerini kazanan Korinth Düzeni’nin giderek daha fazla rağbet gördüğü dönem aşağıdakilerden hangisidir?</p> </div> </div> </div>",
+        "A": "<p>Arkaik Dönem</p>",
+        "B": "<p>Klasik Dönem</p>",
+        "C": "<p>Helenistik Dönem</p>",
+        "D": "<p>Cumhuriyet Dönemi</p>",
+        "E": "<p>İmparatorluk Dönemi</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935841,
+        "UniteNo": 3,
+        "PageNumber": 85,
+        "AnswerExplanation": "<p>Laokoon</p>",
+        "Title": "<p>Roma Sanatı,Heykel</p>",
+        "Text": "<p>Apollon tarafından gönderilen yılanlarla öldürülen rahip ve oğullarının hikâyesini anlatan heykel grubu aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Sperlonga</p>",
+        "B": "<p>Niobid ve çocukları</p>",
+        "C": "<p>Yaralı Galat</p>",
+        "D": "<p>Laokoon</p>",
+        "E": "<p>Tanrıların Savaşı</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936061,
+        "UniteNo": 3,
+        "PageNumber": 85,
+        "AnswerExplanation": "<p class=\"p1\">Dönem heykeltıraşlığının bir diğer ünlü eseri, Laokoon ve oğullarının yılanlar tarafından öldürülüşünü tasvir eden heykel grubudur (Resim 3.14). Orijinali MÖ 3. veya 2. yüzyıla ait olan heykel grubu, Rodoslu heykeltıraşlar Hagesandros, Athenadoros ve Polydoros tarafından yapılan daha geç tarihli bir kopyasından tanınır. Rahip Laokoon ve oğullarının Apollon tarafından gönderilen yılanlarla mücadelesinde, figürlerin acı ve ıstırap dolu yüz ifadeleri, gergin vücutları ile uyum içindedir. Merkezde Laokoon’un yer aldığı bu piramidal kompozisyon tek bir bakış açısından izlenmek üzere tasarlanmıştır ve göz tek bir noktaya veya figüre odaklanmadan,</p>",
+        "Title": "",
+        "Text": "<p class=\"p1\">Hangisi aşağıda fotoğrafı görülen eserin doğru açıklamasıdır?</p> <p class=\"p1\"><img src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/f8a930704d258d3660cf9102cc684c14.png\" alt=\"\" width=\"197\" height=\"207\" /></p>",
+        "A": "<p>Dönem heykeltıraşlığının ünlü eseri, Laokoon ve oğullarının yılanlar tarafından öldürülüşünü tasvir eden heykel </p>",
+        "B": "<p>Roma heykeltıraşlığının ünlü eseri, Akrepol ve yılan heykeli</p>",
+        "C": "<p>Miken heykeltıraşlığının ünlü eseri, Yılanlar </p>",
+        "D": "<p>Atina heykeltıraşlığının ünlü eseri, Atikenon ve oğulları</p>",
+        "E": "<p>Mısır heykeltıraşlığının ünlü eseri, Sepitokeles ve yılan</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935815,
+        "UniteNo": 3,
+        "PageNumber": 72,
+        "AnswerExplanation": "<p>MÖ 7yy'da</p>",
+        "Title": "<p>Arkaik Dönem (MÖ 7-6. yy) : MÖ 7. yy’da Yunanistan başta olmak üzere, Ege<br />adaları ve Batı Anadolu kıyılarında kent-devletlerinde (polis) yaşayan Yunan kökenli<br />toplumların deniz ticareti sayesinde refaha kavuşmaları ile kentlerin nüfusu<br />artmış, yine buna bağlı olarak kentsel yapılar daha kalıcı ve görkemli olarak inşa<br />edilmişlerdir. Mimarlık alanında temel yapı formları ve uygulamalar ilk kez bu<br />dönemde ortaya çıkmıştır.<br />Yunan kentlerinin merkezini, çevresine değişik işlevli yapıların inşa edildiği<br />agora adı verilen meydanlar oluştururdu</p>",
+        "Text": "<p>Yunan sanatında Mimarlık alanında temel yapı formları ve uygulamalar ilk kez hangi<br />dönemde ortaya çıkmıştır.</p>",
+        "A": "<p>MÖ 3yy'da</p>",
+        "B": "<p>MÖ 4yy'da</p>",
+        "C": "<p>MÖ 7yy'da</p>",
+        "D": "<p>MS 1yy'da</p>",
+        "E": "<p>MS 4yy'da</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935862,
+        "UniteNo": 3,
+        "PageNumber": 86,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Roma mimarlığının asıl başarısı, mimarlık tarihinde önemli yer tutan görkemli anıtlarından ziyade, imparatorluk idaresindeki tüm topraklarda Roma kent planlamacılığını ve yapı tiplerini yönetim politikasına uygun biçimde yaygınlaştırmasıdır. Bu amaçla eyaletlerden toplanan vergiler, yine aynı kentlerde Roma tarzı yaşam biçimiyle özdeşleşmiş yapıların inşası için harcanmıştır. Sayısız örnekte imparatorlar ve eyaletlerdeki idareciler doğrudan bu inşa faaliyetlerini desteklemiştir. Bu nedenledir ki günümüz İngiltere’sinden Kuzey Afrika’ya, İspanya’dan Suriye’ye milyonlarca kilometrekarelik bir coğrafyada günümüze ulaşabilmiş sayısız yapı, Roma mimarlığının izlerini taşır.</p>",
+        "Title": "<p>Roma Sanatı/ Mimari</p>",
+        "Text": "<p>Günümüz İngiltere’sinden Kuzey Afrika’ya, İspanya’dan Suriye’ye milyonlarca kilometrekarelik bir coğrafyada günümüze ulaşabilmiş sayısız yapıda izlerini gördüğümüz Roma mimarlığının bu kadar yaygın ve başarılı olabilmesinin <strong>asıl sebebi</strong> aşağıdakilerden hangisidir?  </p>",
+        "A": "<p>Mimarlık tarihinde önemli yer tutan görkemli anıtlarından ziyade, imparatorluk idaresindeki tüm topraklarda Roma kent planlamacılığını ve yapı tiplerini yönetim politikasına uygun biçimde yaygınlaştırmasıdır.</p>",
+        "B": "<p>Klasik Dönem mimarlığında,  mimarların heykeltıraşlıkta olduğu gibi ölçü ve mimari unsurlar arasında ideal oranları arayışıdır.</p>",
+        "C": "<p>Entasis adı verilen uygulama ile sütunların yukarı doğru oransız bir biçimde daralıyormuş hissi veren göz yanılmasının düzeltilmesidir. </p>",
+        "D": "<p>Aynı yapıda farklı düzenlerin birlikte kullanılması ve Dor sütun başlıklarına İon başlığına özgü unsurların eklenmesi gibi uygulamaların ağırlık kazanmasıdır. </p>",
+        "E": "<p>Dor Düzeninin Helenistik Dönem mimarlarınca daha az tercih edilmesi, İon ve MÖ 5. yüzyılda ortaya çıkan ve sonraki yüzyıllarda temel özelliklerini kazanan Korinth Düzeni’nin giderek daha fazla rağbet görmesidir.</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935905,
+        "UniteNo": 3,
+        "PageNumber": 82,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Antik Yunanistan’da mimar ve sanatçıların dünya algısında karşıtlıkların dengesine bağlı uyum ve buna bağlı olarak oran önemli olgulardı ve bunu astronomiden felsefeye, politikadan sanata kadar birçok alanda matematiksel formüllere dayandırmaktaydılar. Bunu heykele uyarlayan ilk heykeltıraş Polykleitos (MÖ 460-420) olmuştur. <strong>Sanatçının insan heykellerinde uyguladığı ve çağdaşı sanatçılar tarafında da benimsenen bu oran 1/7 idi. Geliştirdiği bu ideal oranlar sistemine göre, baş tüm gövde yüksekliğinin yedide biri;</strong> ayak, avuç içinin üç katı; ayaktan dize kadar olan mesafe avuç içinin altı katı olmalıydı. Sanatçıya ait tanrı ve erkek vücudunun güzellik ve gücünü gösteren çıplak atlet heykelleri bu oranlar sistemine göre tasarlanmıştır. Geç tarihli mermer kopyalarından tanınan Doryphoros (mızrak taşıyan) ve Diadumenos (tacını bağlayan) olarak adlandırılan atlet heykellerinin orijinalinde bronzdan yapıldığı bilinmektedir.</p>",
+        "Title": "Yunan mimarlIğI ve heykeltIraşlığının evrelerini önemli eserleri ve sanatçıları ile açıklayabileceksiniz.",
+        "Text": "<p>Polykleitos’un ideal oranlar sistemine göre uyarlayarak, insan heykellerinde kullandığı, başın gövdeye göre matematiksel oranı aşağıdakilerden hangisidir?</p>",
+        "A": "<p>1/8</p>",
+        "B": "<p>1/7</p>",
+        "C": "<p>1/6</p>",
+        "D": "<p>1/5</p>",
+        "E": "<p>1/4</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935916,
+        "UniteNo": 3,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Yunan mimarlIğI ve heykeltIraşlığının evrelerini önemli eserleri ve sanatçıları ile açıklayabileceksiniz.",
+        "Text": "Eski Yunan uygarlığında Arkaik ve Klasik Dönem’de kullanılan üç kulplu büyük su kaplarına ne ad verilir?",
+        "A": "Hydria",
+        "B": "Odeon",
+        "C": "Agora",
+        "D": "Depas",
+        "E": "Knidos",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936014,
+        "UniteNo": 3,
+        "PageNumber": 81,
+        "AnswerExplanation": "<p>Olgun veya Yüksek evrede, heykeltıraşlar hareket hâlindeki bir bedenin üç boyutlu görünümünü oldukça iyi gözlemiş ve gerçekçi bir şekilde aktarabilmişlerdir. Böylece heykellerde ağırlığı taşıyan bacaklar ve gövdenin dengesi sağlanarak, figürün bir sonraki hareketini yansıtabilecek düzeye erişmiştir. Bunu en açık şekilde Myron’un ünlü Diskopol (disk atan atlet) heykelinde gözlemlemek mümkündür</p>",
+        "Title": "<p>Yunan Sanatı- Heykel</p>",
+        "Text": "<p>Antik Yunan sanatının en önemli eserlerinden biri olan \"Disk Atan Atlet\" (Diskolop) heykelini yapan heykeltıraş kimdir?</p>",
+        "A": "<p>Polykleitos</p>",
+        "B": "<p>Lysippos</p>",
+        "C": "<p>Hagesandros</p>",
+        "D": "<p>Myron</p>",
+        "E": "<p>Skopas</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936089,
+        "UniteNo": 3,
+        "PageNumber": 89,
+        "AnswerExplanation": "<p> Roma mimarlığına özgü bir diğer kamu binası, halkın günlük yaşamında önemli yer tutan hamamlardır. Hamamlar, sadece artan nüfusun temizlik gereksinimlerini karşılayan yapılar olmayıp insanların uyku, dinlenme, okuma, sohbet ve sportif faaliyetlerde bulundukları kompleks binalardı.</p>",
+        "Title": "",
+        "Text": "<p><strong>Roma mimarlığına özgü kamu binalarından biri de halkın günlük yaşamında önemli yer tutan hamamlardır. Aşağıdakilerden hangisi kompleks bir yapı olan Roma hamamlarının işlevleri arasında <u>yer almaz</u>?</strong></p>",
+        "A": "<p>Uyku</p>",
+        "B": "<p>Okuma</p>",
+        "C": "<p> Sportif faaliyetler</p>",
+        "D": "<p>Devlet işlerinin görüşülmesi</p>",
+        "E": "<p> Temizlik gereksinimlerinin karşılanması</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936054,
+        "UniteNo": 3,
+        "PageNumber": 72,
+        "AnswerExplanation": "<p class=\"p1\">Buna karşılık kentlerin en saygın yapıları olan tapınaklar ve kutsal alanlar genellikle kentle bağlantılı hakim bir tepe üzerinde, <em>yukarı </em>kent anlamına gelen <em>akropolis</em>te yer alırdı.</p>",
+        "Title": "",
+        "Text": "<p>Yunan mimarisinde kentlerin en saygın yapıları olan tapınaklar ve kutsal alanlar genellikle kentle bağlantılı hakim bir tepe üzerinde, <em>yukarı </em>kent anlamına gelen <em>hangi alanda</em> yer alırdı?</p>",
+        "A": "<p><em>Akropolis</em></p>",
+        "B": "<p class=\"p1\">Prytaneion</p>",
+        "C": "<p class=\"p1\">Bouleterion</p>",
+        "D": "<p class=\"p1\">Odeion</p>",
+        "E": "<p class=\"p1\"><em>Agora </em></p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935820,
+        "UniteNo": 3,
+        "PageNumber": 80,
+        "AnswerExplanation": "<p>Ciddi stil</p>",
+        "Title": "<p>Erken Klasik Dönem heykeli, figürlerdeki ciddi yüz ifadesinden dolayı “Ciddi<br />Stil” olarak da adlandırılır. MÖ 5. yüzyılın başlarından itibaren, heykellerin<br />hareketine bağlı duruş ve anatomisi daha gerçekçi bir görünüm kazanmıştır</p>",
+        "Text": "<p>Yunan Erken Klasik Dönem heykel Figürleri Hangi özelliği ile adlandırılır?</p>",
+        "A": "<p>Karışık stil</p>",
+        "B": "<p>organik stil</p>",
+        "C": "<p>Ciddi stil</p>",
+        "D": "<p>Gerçek boyut ve orantı</p>",
+        "E": "<p>Stilizasyon</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935861,
+        "UniteNo": 3,
+        "PageNumber": 86,
+        "AnswerExplanation": "<p>\"Roma mimarlığını, kendinden önceki Yunan mimarlık geleneğinden ayıran en belirgin farklılık, daha çok cephelerin görünümüne ağırlık veren ve iç mekân tasarımını ikinci plana iten önceki anlayışı değiştirmesi olmuştur. Romalı mimarlar cephelerle ve iç mekân arasında boyut, oran ve süslemeleri ile daha  uyumlu ve görkemli bir mimarlık anlayışı ortaya koymuştur\".</p>",
+        "Title": "<p>Roma Sanatı/ Mimari</p>",
+        "Text": "<p>Roma mimarlığını, kendinden önceki Yunan mimarlık geleneğinden ayıran en belirgin farklılık nedir?</p>",
+        "A": "<p>Daha çok cephelerin görünümüne ağırlık veren ve iç mekân tasarımını ikinci plana iten önceki anlayışı değiştirmesi olmuştur.</p>",
+        "B": "<p>Kentlerinin merkezini, çevresine değişik işlevli yapıların inşa edildiği agora adı verilen meydanlar oluşturur.</p>",
+        "C": "<p>Tapınaklar, kökeni tarih öncesi dönemlere kadar uzanan ve megaron adı verilen dikdörtgen planlı konutlardan geliştirilmiştir.</p>",
+        "D": "<p>Dor ve İon Düzeni’nin yapısal elemanları ideal biçim ve oranlarını bu evrede kazanmıştır.</p>",
+        "E": "<p>Entasis adı verilen bu uygulama ile sütunların yukarı doğru oransız bir biçimde daralıyormuş hissi veren göz yanılması düzeltilmiştir.</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935920,
+        "UniteNo": 3,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Roma mimarlığı ve heykeltraşIığının öne çıkan anıt ve eserlerini açıklayabileceksiniz.",
+        "Text": "Klasik Dönemde inşa edilen ve Halikarnassos’da dünyanın yedi harikasından biri olarak kabul edilen anıtsal mezar aşağıdakilerden hangisidir?",
+        "A": "Kral Mausolos’un Anıtsal Mezarı",
+        "B": "Kral Midas’ın Anıt Mezarı ",
+        "C": "Nereidler Anıtı",
+        "D": "Karyaditler Anıtı",
+        "E": "Artemis Tapınağı",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935944,
+        "UniteNo": 3,
+        "PageNumber": 82,
+        "AnswerExplanation": "<p>Doğru yanıt A seçeneğidir</p>",
+        "Title": "<p>Dönemin tanınmış heykeltıraşlarından Praxiteles, çıplak tanrı ve tanrıça heykelleri ile ün yapmıştır. Sanatçının Knidos kenti için yaptığı ünlü Aphrodite heykelinde (MÖ  350-340), banyo yapmak üzere çıkardığı elbisesini bir hydrianın üstüne koyan tanrıça insanüstü güzelliğini sürdürmekle birlikte, insani vasıfları hissedilen bir figüre dönüşmüştür.</p>",
+        "Text": "<p>Daha sonraları Roma döneminde de kopyaları yapılan şekilde görülen Aphrodite heykelinin Yunan mimarı kimdir?</p> <p><img src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/d97d1b92a17245a1d8310327d16c27f3.jpeg\" alt=\"\" width=\"200\" height=\"300\" /></p>",
+        "A": "<p>Praxiteles</p>",
+        "B": "<p>Praximonos</p>",
+        "C": "<p>Timotheus</p>",
+        "D": "<p>Bryaxis</p>",
+        "E": "<p>Leochares</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935866,
+        "UniteNo": 3,
+        "PageNumber": 72,
+        "AnswerExplanation": "<p>Yunan kentlerinin merkezini, çevresine değişik işlevli yapıların inşa edildiği agora adı verilen meydanlar oluştururdu.</p>",
+        "Title": "<p>Lütfen \"Mimari\" başlıklı yazıyı gözden geçiriniz.</p>",
+        "Text": "<p>Yunan kentlerinin merkezini, çevresine değişik işlevli yapıların inşa edildiği meydanlar, aşağıdakilerden hangi isimle anılır?</p>",
+        "A": "<p>Amfi Tiyatro</p>",
+        "B": "<p>Agora</p>",
+        "C": "<p>Peristasis</p>",
+        "D": "<p>Pronaos</p>",
+        "E": "<p>Naos</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935924,
+        "UniteNo": 3,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Roma mimarlığı ve heykeltraşIığının öne çıkan anıt ve eserlerini açıklayabileceksiniz.",
+        "Text": "Galatlara karşı kazanılan zafer anısına inşa edildiği kabul edilen yapı aşağıdakilerden hangisidir?",
+        "A": "Roma Neptün Tapınağı ",
+        "B": "Delphi Zafer Anıtı",
+        "C": "Pergamon Zeus Altarı",
+        "D": "Efes Artemis Tapınağı",
+        "E": "Sardes Artemis Tapınağı ",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936017,
+        "UniteNo": 3,
+        "PageNumber": 87,
+        "AnswerExplanation": "<p>Pantheon Tapınağı:</p>\n<p>I-Dairesel planlıdır.</p>\n<p>II-Kubbe tasarımlıdır.</p>\n<p>III-Kubbesinde bir a&ccedil;ıklık bulunmaktadır.</p>\n<p>IV-Girişi &uuml;&ccedil;gen alınlıklıdır.</p>\n<p>V-T&uuml;m tanrılar anlamına gelmektedir.</p>",
+        "Title": "<p>Roma Sanatı- Mimari</p>",
+        "Text": "I-Dairesel planlı II-Kubbe tasarımlı III-Kubbesinde bir a&ccedil;ıklık bulunan IV-Girişi &uuml;&ccedil;gen alınlıklı V-T&uuml;m tanrılar anlamına gelen Yukarıda &ouml;zellikleri verilen Roma d&ouml;nemi tapınağı aşağıdakilerden hangisidir?",
+        "A": "<p>Ara Pacis</p>",
+        "B": "<p>Parthenon</p>",
+        "C": "<p>Pompeii</p>",
+        "D": "<p>Pantheon</p>",
+        "E": "<p>Augustae</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936087,
+        "UniteNo": 3,
+        "PageNumber": 79,
+        "AnswerExplanation": "<p><strong>Klasik Dönem </strong></p>",
+        "Title": "<p><strong>YUNAN SANATI  Heykel</strong></p>",
+        "Text": "<p>Katı ve frontal duruş yerini, vücudun doğal yapısına uygun biçimlere bırakır. Bu dönemde heykel sanatı teknik ve artistik özellikleriyle doruk noktasına ulaşır. Bu dönem ile birlikte, insanlık tarihinde ilk kez insan vücudu bağımsız bir varlık ve estetik bir değer olarak kabul edilmiş ve sanatın ana objesi olmuştur.</p> <p>Bahsedilen dönem yunan heykel sanatının hangi dönem özellikleridir? </p>",
+        "A": "<p>Arkaik Dönem </p> ",
+        "B": "<p>Helenistik Dönem </p>",
+        "C": " <p>Klasik Dönem</p>",
+        "D": "<p>Erken Helenistik Dönem </p> ",
+        "E": " <p>Geç Arkaik Dönem </p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936035,
+        "UniteNo": 3,
+        "PageNumber": 77,
+        "AnswerExplanation": "<p>Bu yapı Helenistik d&ouml;nemde M.&Ouml; 197-159 yıllarında II. Eumenes tarafından inşa ettirilmiştir.</p>",
+        "Title": "",
+        "Text": "\"Bergama Zeus Altarı\", Yunan sanatının hangi d&ouml;nemine ait bir yapıdır?",
+        "A": "<p>Arkaik</p>",
+        "B": "<p>Helen</p>",
+        "C": "<p>Klasik</p>",
+        "D": "<p>İon</p>",
+        "E": "<p>Dor</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936025,
+        "UniteNo": 3,
+        "PageNumber": 77,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 9\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Bu dönem Yunan heykelleri, bacak ve kolların gövdeden ayrılması, çıplak oluşları ve desteğe ihtiyaç duymamaları nedeniyle Doğu ve Mısır örneklerinden ayrılır.</p> </div> </div> </div>",
+        "Title": "<p>YUNAN SANATI</p>",
+        "Text": "<p>Arkaik dönem Yunan heykel sanatındaki insan figürlü heykelleri doğu ve Mısır heykel sanatından ayıran en önemli özellik aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Kol ve bacakların gövdeden ayrı olması.</p>",
+        "B": "<p>Kişileri temsil etmemesi.</p>",
+        "C": "<p>Katı görünümlü olmaları.</p>",
+        "D": "<p>Cepheden tasvir edilmiş olmaları.</p>",
+        "E": "<p>Tanrılara sunulan adakları temsil etmeleri.</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935828,
+        "UniteNo": 3,
+        "PageNumber": 77,
+        "AnswerExplanation": "<p>Helenistik dönemde dinî mimaride ağırlık kazanan diğer eğilim ise daha önceleri bir tapınakla ilişkili olan altarların (sunak), seküler bir nitelik kazanarak bağımsız yapılara dönüşmesidir. Bu tip sunakların en tanınmışlarından biri, Pergamon Helenistik Krallığı’nın merkezinde II. Eumenes (MÖ 197-159) tarafından yaptırılan Zeus Altarı’dır</p>",
+        "Title": "",
+        "Text": "<p>Yunan Uygarlığında hangi dönemde altarlar, Zeus Altarı örneğinde olduğu gibi seküler bir nitelik kazanarak bağımsız yapılara dönüşmüştür?</p>",
+        "A": "<p>Helenistik Dönem</p>",
+        "B": "<p>Klasik Dönem</p>",
+        "C": "<p>Arkaik Dönem</p>",
+        "D": "<p>Erken Klasik Dönem</p>",
+        "E": "<p>Geç Klasik Dönem</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935918,
+        "UniteNo": 3,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Yunan mimarlIğI ve heykeltIraşlığının evrelerini önemli eserleri ve sanatçıları ile açıklayabileceksiniz.",
+        "Text": "Atina Akropolü Parthenon Tapınağı ile ilgili ifadelerden hangisi yanlıştır?",
+        "A": "Klasik dönem mimarlığının özelliklerini taşır.",
+        "B": "Tapınağın kısa tarflarında 8, uzun taraflarında 17 sütun bulunur.",
+        "C": "Tamamen ahşaptan inşa edilmiştir.",
+        "D": "Mimarları İktinos ve Kallikrates’dir.",
+        "E": "Kutsal iç mekanda çatıyı destekleyen U biçiminde iki katlı sütun sıraları İon Düzeni’ndedir.",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935934,
+        "UniteNo": 3,
+        "PageNumber": 80,
+        "AnswerExplanation": "<p>I ve II. şıklar klasik dönem özellikleriyken III. şık arkaik dönem özelliğidir.</p>",
+        "Title": "<p>Yunan Sanatı-Heykel-Klasik Dönem</p>",
+        "Text": "<p>Aşağıdakilerden hangisi ya da hangileri Yunan Heykel Sanatında Klasik Dönem heykellerinin belirleyici özellikleri arasında yer alır?</p> <p>I-İnsan vücudu ve yüz ifadeleri idealist ölçülerde işlenmiştir.</p> <p>II-İnsan anatomisine ilişkin ideal oranlar (kanon) geliştirmişlerdir.</p> <p>III-Heykeller cepheden, bacak ve kollar gövdeden ayrı, çıplak tasvir edilmiştir.</p>",
+        "A": "<p>Sadece I</p>",
+        "B": "<p>II ve III</p>",
+        "C": "<p>I ve II</p>",
+        "D": "<p>Sadece III</p>",
+        "E": "<p>I, II ve III</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935888,
+        "UniteNo": 3,
+        "PageNumber": 97,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 27\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Danseden Faun Evi</p> </div> </div> </div>",
+        "Title": "<p>Roma Dönemi </p>\n<p>Resim</p>",
+        "Text": "<div class=\"page\" title=\"Page 27\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Roma mozaik sanatının en erken tarihli ve önemli eserlerinde biri aşağıdakilerden hangisidir?</p> </div> </div> </div>",
+        "A": "<div class=\"page\" title=\"Page 27\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Danseden Faun Evi</p> </div> </div> </div>",
+        "B": "<div class=\"page\" title=\"Page 27\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Boscoreale Villası</p> </div> </div> </div>",
+        "C": "<div class=\"page\" title=\"Page 26\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Grifonlar Evi</p> </div> </div> </div>",
+        "D": "<p>Misterler Villası</p>",
+        "E": "<div class=\"page\" title=\"Page 27\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Altın Ev</p> </div> </div> </div>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935972,
+        "UniteNo": 3,
+        "PageNumber": 88,
+        "AnswerExplanation": "<p>Yanıt C'dir. </p>",
+        "Title": "<p>Anlatılan strüktürel yapılar Romalı mimarlarca geliştirilmiştir. </p>",
+        "Text": "<p>Geliştirilen kemer, tonoz, kubbe gibi strüktürel elemanlar ve yeni yapı malzemeleri sayesinde, binlerce insanı içine alabilecek büyük ölçekli ve görkemli yapıların inşa edilebildiği medeniyet hangisidir? </p>",
+        "A": "<p>Yunan</p> ",
+        "B": "<p>Mezopotamya</p>",
+        "C": "<p>Roma</p>",
+        "D": "<p>Mısır</p>",
+        "E": "<p>Hint</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936039,
+        "UniteNo": 3,
+        "PageNumber": 94,
+        "AnswerExplanation": "<p>Titus Takı, İmparator Titus'un ağabeyi Domitianus tarafından M.S. 81'de yaptırılmış çok önemli bir yapıdır.</p>",
+        "Title": "",
+        "Text": "<p>Titus'un yahudilere karşı kazandığı savaşın anısına inşa edilen yapının ismi nedir?</p>",
+        "A": "<p>Titus Takı</p>",
+        "B": "<p>Romanum Tranianus Sütunu</p>",
+        "C": "<p>Neptün Tapınağı</p>",
+        "D": "<p>Roma Ara Pacis kabartmaları</p>",
+        "E": "<p>Pompei Misterler Villası Duvar Resimleri</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935871,
+        "UniteNo": 3,
+        "PageNumber": 86,
+        "AnswerExplanation": "<p>Roma tapınak mimarlığının oluşumunda, Orta İtalya’nın köklü uygarlığı olan Etrüsk dinî mimarlığının<br />payı büyüktür.</p>",
+        "Title": "<p>Lütfen \"Roma Sanatı\" başlıklı yazıyı gözden geçiriniz.</p>",
+        "Text": "<p>Roma tapınak mimarlığının oluşumunda aşağıdaki hangi dini mimarlığın payı büyüktür?</p>",
+        "A": "<p>Etrüsk</p>",
+        "B": "<p>Damascus</p>",
+        "C": "<p>Anadolu</p>",
+        "D": "<p>Asya</p>",
+        "E": "<p>Dor</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Hikaye anlatımı</p> ",
         "E": "<p>Oyun geribildirimleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3690999,
@@ -28,8 +27,7 @@
         "D": "<p>Sıkıştırma ve germe</p> ",
         "E": "<p>Zamanlama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691006,
@@ -44,8 +42,7 @@
         "D": "<p>Mübalağa</p> ",
         "E": "<p>Sıkıştırma ve germe</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691012,
@@ -60,8 +57,7 @@
         "D": "<p>Hacimli çizim</p> ",
         "E": "<p>Çekicilik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691338,
@@ -76,8 +72,7 @@
         "D": "<p>3D Animasyon</p> ",
         "E": "<p>Rig Animasyonu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691349,
@@ -92,8 +87,7 @@
         "D": "<p>3D Animasyon</p> ",
         "E": "<p>Rig Animasyonu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691362,
@@ -108,8 +102,7 @@
         "D": "<p>Dinamik simülasyon tekniği</p> ",
         "E": "<p>NPC hareket tekniği</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691378,
@@ -124,8 +117,7 @@
         "D": "<p>Unreal Engine</p> ",
         "E": "<p>Python</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691385,
@@ -140,8 +132,7 @@
         "D": "<p>Diyalog Sesleri</p> ",
         "E": "<p>Ses Efektleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691398,
@@ -156,7 +147,6 @@
         "D": "<p>Interactive Audio</p> ",
         "E": "<p>ITU-R Standardı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

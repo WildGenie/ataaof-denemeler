@@ -12,8 +12,7 @@
         "D": " <p>Criblé<strong><span class=\"Apple-converted-space\"> </span></strong></p>",
         "E": " <p>Chiaroscuro<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764359,
@@ -28,8 +27,7 @@
         "D": "<p>Yumuşak vernik</p>",
         "E": " <p>Aquatint<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764362,
@@ -44,8 +42,7 @@
         "D": "<p>Asit oyma</p>",
         "E": "<p>Kurukazıma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764392,
@@ -60,8 +57,7 @@
         "D": "<p>Kurutma sistemi </p>",
         "E": "<p>Oyma klişe</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764409,
@@ -76,8 +72,7 @@
         "D": "<p>Baskı </p>",
         "E": "<p>Elektro</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764725,
@@ -92,8 +87,7 @@
         "D": "<p>Günümüze ulaşan en eski tarihli Avrupa ahşap baskıresimleri Kartenmahler adıyla bilinen İskambil oyun kartlarıdır.</p>",
         "E": "<div class=\"page\" title=\"Page 6\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Metal kalıplar da ahşap kalıplar gibi oyulması rahat ve kolay kalıplardır.</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764739,
@@ -108,8 +102,7 @@
         "D": "<p>Asit oyma</p>",
         "E": "<div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Xylographica </p> </div> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764741,
@@ -124,8 +117,7 @@
         "D": "<p> I ve III</p>",
         "E": "<p>I, II ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764742,
@@ -140,8 +132,7 @@
         "D": "<p>Renk verici madde</p>",
         "E": "<p>Baskı silindiri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764743,
@@ -156,8 +147,7 @@
         "D": "<p>Gazete</p>",
         "E": "<p>Kitap</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764745,
@@ -172,8 +162,7 @@
         "D": "<div class=\"page\" title=\"Page 28\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Elmas uçlu iğne, silindire göre daha yavaş hareket ederek bakır kalıba farklı derinliklerde hücreleri oluşturur.</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 28\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Saniyede yaklaşık 40000 hücre oluşturulmaktadır.</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764769,
@@ -188,8 +177,7 @@
         "D": "<p>Sert vernik</p>",
         "E": "<p>Mezzotint</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764773,
@@ -204,8 +192,7 @@
         "D": "<p>Dürer</p>",
         "E": "<p>Rembradt</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764778,
@@ -220,8 +207,7 @@
         "D": "<p>Plastik filmler</p>",
         "E": "<p>Lamine edilmiş yüzeyler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764779,
@@ -236,8 +222,7 @@
         "D": "<p>Tifdruk baskı</p>",
         "E": "<p>Heliogravür</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764813,
@@ -252,8 +237,7 @@
         "D": "<p>Sert vernik</p>",
         "E": "<p>Stereotip</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764816,
@@ -268,8 +252,7 @@
         "D": "<p>Aquatint</p>",
         "E": "<p>Stereotip Baskı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764826,
@@ -284,8 +267,7 @@
         "D": "<p>Kurutma sistemi</p>",
         "E": "<p>Ambalaj ünitesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764828,
@@ -300,8 +282,7 @@
         "D": "<p>Küçük tirajlar için maliyet değerlerinin yüksekliği</p>",
         "E": "<p>Dörtten fazla rengin kullanımında renklerin üzerini örtmeden baskı alınabilmesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764829,
@@ -316,8 +297,7 @@
         "D": "<p>Gelişen teknolojilerin bu yönteme hızlı adapte edilmesi</p>",
         "E": "<p>Gravür makinesine gönderilecek tasarımın arayüz programı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764358,
@@ -332,8 +312,7 @@
         "D": " <p>Stereotip Baskı<strong><span class=\"Apple-converted-space\"> </span></strong></p>",
         "E": "<p>Yumuşak vernik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764360,
@@ -348,8 +327,7 @@
         "D": "<p>Kurukazıma</p>",
         "E": "<p>Asit oyma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764361,
@@ -364,8 +342,7 @@
         "D": "<p>Kurukazıma</p>",
         "E": "<p>Asit oyma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764385,
@@ -380,8 +357,7 @@
         "D": "<p>Soğuk pires kağıt</p>",
         "E": "<p>Pelür kağıt</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764386,
@@ -396,8 +372,7 @@
         "D": "<p>Mezzotint</p>",
         "E": "<p>Aquatint</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764389,
@@ -412,8 +387,7 @@
         "D": "<p>Baskı kalitesi </p>",
         "E": "<p>Kağıda basılması </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764740,
@@ -428,8 +402,7 @@
         "D": "<p>Kurukazıma</p>",
         "E": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Aquatint</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764746,
@@ -444,8 +417,7 @@
         "D": "<div class=\"page\" title=\"Page 28\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Gravür makinesine gönderilecek tasarımın arayüz programının farklılığı</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 28\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Gelişen teknolojilerin lazer işleme teknolojisine hızlı adapte edilmesi</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764770,
@@ -460,8 +432,7 @@
         "D": "<p>Ludwig Von Siegen</p>",
         "E": "<p>Abraham Blooteling</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764774,
@@ -476,8 +447,7 @@
         "D": "<p>Gutenberg</p>",
         "E": "<p>Bi Sheng</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764775,
@@ -492,8 +462,7 @@
         "D": "<p>Goya</p>",
         "E": "<p>Camille Corot</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764781,
@@ -508,8 +477,7 @@
         "D": "<p>Baskı silindiri </p>",
         "E": "<p>Kurutma sistemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764810,
@@ -524,8 +492,7 @@
         "D": "<p>Kauçuk silindir</p>",
         "E": "<p>Plaka</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764357,
@@ -540,8 +507,7 @@
         "D": "<p>Asit Oyma</p>",
         "E": "<p>Kurukazıma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764390,
@@ -556,8 +522,7 @@
         "D": "<p>Cliche Verre</p>",
         "E": "<p>Mezzotint</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764744,
@@ -572,8 +537,7 @@
         "D": "<p>III ve IV</p>",
         "E": "<p>III, IV ve V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764814,
@@ -588,8 +552,7 @@
         "D": "<p>Chiaroscuro</p>",
         "E": "<p>Fotogalvanografi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764815,
@@ -604,8 +567,7 @@
         "D": "<p>Peter Perez Burdett</p>",
         "E": "<p>Francisco Goya</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764387,
@@ -620,8 +582,7 @@
         "D": "<p>Albrecht Altdorfer </p>",
         "E": "<p>Hans Baldung  </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764388,
@@ -636,8 +597,7 @@
         "D": "<p>Heinrich Aldegrever</p>",
         "E": "<p>Michael Lesne</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764400,
@@ -652,8 +612,7 @@
         "D": "<p>I,III, IV ve V</p>",
         "E": "<p>II,III, IV ve V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764407,
@@ -668,8 +627,7 @@
         "D": "<p>I, II, IV ve V</p>",
         "E": "<p>II, III, IV ve V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764720,
@@ -684,8 +642,7 @@
         "D": "<p>Dijital baskı</p>",
         "E": "<p>Litografi baskı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764812,
@@ -700,8 +657,7 @@
         "D": "<p>Mezzotint</p>",
         "E": "<p>Aquatint</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764821,
@@ -716,8 +672,7 @@
         "D": "<p>Kolotip Baskı</p>",
         "E": "<p>Aquatint</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764355,
@@ -732,8 +687,7 @@
         "D": "<p>Asit oyma</p>",
         "E": " <p>Criblé<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764363,
@@ -748,8 +702,7 @@
         "D": " <p>Asit Oyma</p>",
         "E": " <p>Criblé<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764771,
@@ -764,8 +717,7 @@
         "D": "<p>Yumuşak vernik</p>",
         "E": "<p>Drypoint</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764364,
@@ -780,8 +732,7 @@
         "D": " <p>Xylographica<span class=\"Apple-converted-space\" style=\"font-weight: bold;\"> </span></p>",
         "E": " <p>Criblé</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764776,
@@ -796,7 +747,6 @@
         "D": "<p>Cliche Verre</p>",
         "E": "<p>Elektotype</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     }
 ]

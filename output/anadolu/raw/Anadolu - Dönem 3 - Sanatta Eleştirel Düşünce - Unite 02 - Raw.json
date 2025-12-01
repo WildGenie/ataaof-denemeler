@@ -12,8 +12,7 @@
         "D": "<p>Göz önüne getirme</p>",
         "E": "<p>Zihinde temsil etme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354088,
@@ -28,8 +27,7 @@
         "D": "<div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Tümevarımlı akıl yürütme</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Tümengelimli akıl yürütme</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354094,
@@ -44,8 +42,7 @@
         "D": "<div class=\"page\" title=\"Page 9\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Öncüllerin sonucu doğru yapma olasılığına bağlıdır</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 9\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Düzgün bir akıl yürütme olmasının kriteri geçerliliktir</p> </div> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354126,
@@ -60,8 +57,7 @@
         "D": "<p>Hayırseverlik</p>",
         "E": "<p>Gelişim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354127,
@@ -76,8 +72,7 @@
         "D": "<p>Tümdengelim</p>",
         "E": "<p>Artbileşen</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354168,
@@ -92,8 +87,7 @@
         "D": "<p>Düş</p>",
         "E": "<p>Kurgu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354171,
@@ -108,8 +102,7 @@
         "D": "<p>Uslamlama</p>",
         "E": "<p>Gerçek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354184,
@@ -124,8 +117,7 @@
         "D": "<p>Tümevarım</p>",
         "E": "<p>Çıkarım</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354185,
@@ -140,8 +132,7 @@
         "D": "<p>Çıkarım</p>",
         "E": "<p>Önerme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354187,
@@ -156,8 +147,7 @@
         "D": "<p>Tümevarım</p>",
         "E": "<p>Safsatalar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354284,
@@ -172,8 +162,7 @@
         "D": "<p>Descartes</p>",
         "E": "<p>Socrates</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354285,
@@ -188,8 +177,7 @@
         "D": "<p>Yargılama</p>",
         "E": "<p>Tasavvur etme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354286,
@@ -204,8 +192,7 @@
         "D": "<p>Geçerlik</p>",
         "E": "<p>Kuvvet</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354292,
@@ -220,8 +207,7 @@
         "D": "<p>Yargısallık</p>",
         "E": "<p>Safsata</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842716,
@@ -236,8 +222,7 @@
         "D": "<span>Tanım içermeyen cümle</span>",
         "E": "Soru biçimindeki ifade",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842728,
@@ -252,8 +237,7 @@
         "D": "<span>Fikri sorgulamadan savunma</span>",
         "E": "<span>Düşünceyi sürekli değiştirme</span>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842794,
@@ -268,8 +252,7 @@
         "D": "<span>Belirsizlik</span>",
         "E": "<span>Kuvvet (ikna edicilik)</span>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842796,
@@ -284,8 +267,7 @@
         "D": "<span>Artbileşenin evetlenmesi</span>",
         "E": "<span> Tümdengelim</span>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842799,
@@ -300,8 +282,7 @@
         "D": "<span>P ve Q; öyleyse Q</span>",
         "E": "<span>Q; P ise Q; öyleyse P</span>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842800,
@@ -316,8 +297,7 @@
         "D": "Tümdengelimli akıl yürütme",
         "E": "Modus Tollendo Ponens",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354087,
@@ -332,8 +312,7 @@
         "D": "<p>Örnekleme</p>",
         "E": "<p>Göz önüne getirme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354095,
@@ -348,8 +327,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I-II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354128,
@@ -364,8 +342,7 @@
         "D": "<p>Önbileşeninin değillemesi</p>",
         "E": "<p>Modus tollens</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354169,
@@ -380,8 +357,7 @@
         "D": "<p>Düş ve gerçek</p>",
         "E": "<p>Algılama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354172,
@@ -396,8 +372,7 @@
         "D": "<p>Çıkarsama</p>",
         "E": "<p>Tümdengelim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354287,
@@ -412,8 +387,7 @@
         "D": "<p>Analoji</p>",
         "E": "<p>Safsata</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354290,
@@ -428,8 +402,7 @@
         "D": "<p>Kişi Karalama Safsatası</p>",
         "E": "<p>Korkuluk Safsatası</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842798,
@@ -444,8 +417,7 @@
         "D": "Artbileşenin evetlenmesi",
         "E": "Dağıtılmamış orta terim",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842801,
@@ -460,8 +432,7 @@
         "D": "<span>Q; P ise Q; öyleyse P</span>",
         "E": "<span>P ve Q; öyleyse P</span>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354125,
@@ -476,8 +447,7 @@
         "D": "<div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Fikirlerini hemen değiştirmeye meyilli olmasa da düzgün temellendirilmiş karşıt görüşler karşısında fikir değiştirmekten kaçınmayan tavır</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Karşıt görüşler karşısında fikir değiştirmekte aceleci olan yaklaşım</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354170,
@@ -492,8 +462,7 @@
         "D": "<p>Gerçek</p>",
         "E": "<p>Düş</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354173,
@@ -508,8 +477,7 @@
         "D": "<p>Yorum</p>",
         "E": "<p>Öneri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354283,
@@ -524,8 +492,7 @@
         "D": "<p>Sonuç</p>",
         "E": "<p>Tümevarım</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354291,
@@ -540,8 +507,7 @@
         "D": "<p>Formel Safsata</p>",
         "E": "<p>Analoji</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842791,
@@ -556,8 +522,7 @@
         "D": "<span>Düşünmeyi sürekli analiz etme ve geliştirme uğraşı</span>",
         "E": "<span>Deneyimsiz karar alma süreci</span>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842797,
@@ -572,8 +537,7 @@
         "D": "Modus ponens",
         "E": "Safsata",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354288,
@@ -588,8 +552,7 @@
         "D": "<p>Safsata</p>",
         "E": "<p>Yargı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354289,
@@ -604,8 +567,7 @@
         "D": "<p>Formel safsata</p>",
         "E": "<p>Analoji</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354096,
@@ -620,8 +582,7 @@
         "D": "<p>Tasım</p>",
         "E": "<div class=\"page\" title=\"Page 15\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Rasyonalite</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354186,
@@ -636,7 +597,6 @@
         "D": "<p>Modus ponens</p>",
         "E": "<p>Değilleyici</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Steven Sasson</p>",
         "E": "<p>S. Kelby</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351315,
@@ -28,8 +27,7 @@
         "D": "<p>Micro/Four Thirds</p>",
         "E": "<p>1inch</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351316,
@@ -44,8 +42,7 @@
         "D": "<p>ISO</p>",
         "E": "<p>Parlaklık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351321,
@@ -60,8 +57,7 @@
         "D": "<p>Akıllı</p>",
         "E": "<p>Mobil</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351329,
@@ -76,8 +72,7 @@
         "D": "<p>Yoğunluk</p>",
         "E": "<p>Renk</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351330,
@@ -92,8 +87,7 @@
         "D": "<p>Kırmızı, yeşil ve mavi</p>",
         "E": "<p>Mor, sarı ve turuncu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351332,
@@ -108,8 +102,7 @@
         "D": "<p>Canon</p>",
         "E": "<p>Zenit</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351336,
@@ -124,8 +117,7 @@
         "D": "<p>1997</p>",
         "E": "<p>1998</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351337,
@@ -140,8 +132,7 @@
         "D": "<p>DSLR ve full-frame makineler</p>",
         "E": "<p>Sayısal arkalıklı makineler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351339,
@@ -156,8 +147,7 @@
         "D": "<p>DSLR ve full-frame makinelere</p>",
         "E": "<p>Sayısal arkalıklı makinelere</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351345,
@@ -172,8 +162,7 @@
         "D": "<p>Duyarkat</p>",
         "E": "<p>Duyarkat</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351347,
@@ -188,8 +177,7 @@
         "D": "<p>Moda fotoğrafları</p>",
         "E": "<p>Belgesel fotoğrafcılık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351349,
@@ -204,8 +192,7 @@
         "D": "<p>Ucuz</p>",
         "E": "<p>Orta altı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351351,
@@ -220,8 +207,7 @@
         "D": "<p>Sanalın dili</p>",
         "E": "<p>Teknolojinin dili</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351352,
@@ -236,8 +222,7 @@
         "D": "<p>Yazılım, görüntü boyutu ve formatlarının değişmesi</p>",
         "E": "<p>Yazılımla işleme sürelerinin uzaması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351359,
@@ -252,8 +237,7 @@
         "D": "<p>Sensör</p>",
         "E": "<p>Katman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351361,
@@ -268,8 +252,7 @@
         "D": "<p>PENTAX</p>",
         "E": "<p>SONY</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351363,
@@ -284,8 +267,7 @@
         "D": "<p>Sayısal aralık</p>",
         "E": "<p>Optik zoom</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351364,
@@ -300,8 +282,7 @@
         "D": "<p>Digital Single Lens Reflex</p>",
         "E": "<p>Full Frame Single Lens Reflex</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351370,
@@ -316,8 +297,7 @@
         "D": "<p>Fotoğraf makinenizin sensör boyutunu</p>",
         "E": "<p>Lensinizin 35mm’lik filmli kameraya göre eşdeğer odak uzaklığı<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351314,
@@ -332,8 +312,7 @@
         "D": "<p>2.7x</p>",
         "E": "<p>3.0x</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351319,
@@ -348,8 +327,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351323,
@@ -364,8 +342,7 @@
         "D": "<p>Henry Peach Robinson</p>",
         "E": "<p>Hippolyte Bayard</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351324,
@@ -380,8 +357,7 @@
         "D": "<p>1984</p>",
         "E": "<p>1987</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351325,
@@ -396,8 +372,7 @@
         "D": "<p>Nikon</p>",
         "E": "<p>Panasonic</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351328,
@@ -412,8 +387,7 @@
         "D": "<p>ISO Hızı</p>",
         "E": "<p>Luminance Histogramı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351353,
@@ -428,8 +402,7 @@
         "D": "<p>1990'lar</p>",
         "E": "<p>2000'ler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351355,
@@ -444,8 +417,7 @@
         "D": "<p>Yayma sensörü</p>",
         "E": "<p>Sabitlik sensörü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351356,
@@ -460,8 +432,7 @@
         "D": "<p>Sayısal Arkalıklı Makineler</p>",
         "E": "<p>DSLR Aynasız Fotoğraf Makineleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351357,
@@ -476,8 +447,7 @@
         "D": "<p>filtrelerin-filmlerin</p>",
         "E": "<p>Hesaplayıcıların-filtrenin</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351362,
@@ -492,8 +462,7 @@
         "D": "<p>Sayısal arkalıklı makineler<span class=\"Apple-converted-space\"> </span></p>",
         "E": "<p>DSLR-like kompakt makineler<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351365,
@@ -508,8 +477,7 @@
         "D": "<p>APS-C<span class=\"Apple-converted-space\"> </span></p>",
         "E": " <p>Full Frame DSLR</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351322,
@@ -524,8 +492,7 @@
         "D": "<p>1970</p>",
         "E": "<p>1960</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351341,
@@ -540,8 +507,7 @@
         "D": "<p>Körüklü fotoğraf makinesi</p>",
         "E": "<p>Auto-Image fotoğraf makinesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351342,
@@ -556,8 +522,7 @@
         "D": "<p>1990’lı yıllar</p>",
         "E": "<p>1900’lü yıllar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351360,
@@ -572,8 +537,7 @@
         "D": "<p>Sayaç</p>",
         "E": "<p>Depolama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351368,
@@ -588,8 +552,7 @@
         "D": " <p>Kare Hızı Sınırlaması<span class=\"Apple-converted-space\"> </span></p>",
         "E": " <p>Objektif Kalibrasyon Sorunları<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351369,
@@ -604,8 +567,7 @@
         "D": "<p>Filtre deseni</p>",
         "E": "<p>Güç tüketimi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351320,
@@ -620,8 +582,7 @@
         "D": "<p>1988</p>",
         "E": "<p>1989</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351333,
@@ -636,8 +597,7 @@
         "D": "<p>1982</p>",
         "E": "<p>1985</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351335,
@@ -652,8 +612,7 @@
         "D": "<p>SLR makineler</p>",
         "E": "<p>Sayısal arkalıklı makineler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351343,
@@ -668,8 +627,7 @@
         "D": "<p>TIFF</p>",
         "E": "<p>EPS</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351344,
@@ -684,8 +642,7 @@
         "D": "<p>Odaklama camı</p>",
         "E": "<p>Film kutusu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351358,
@@ -700,8 +657,7 @@
         "D": "<p>Crop</p>",
         "E": "<p>Css</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351366,
@@ -716,8 +672,7 @@
         "D": "<p>DX, NX</p>",
         "E": "<p>EF-M, DX</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351318,
@@ -732,8 +687,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351338,
@@ -748,8 +702,7 @@
         "D": "<p>DSLR ve full-frame makineler</p>",
         "E": "<p>Sayısal aynasız fotoğraf makineleri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351346,
@@ -764,8 +717,7 @@
         "D": "<p>EPS</p>",
         "E": "<p>PNG</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351313,
@@ -780,8 +732,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351317,
@@ -796,8 +747,7 @@
         "D": "<p>5000 K</p>",
         "E": "<p>6000 K</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351350,
@@ -812,8 +762,7 @@
         "D": "<p>Körüklü Makineler</p>",
         "E": "<p>Hava fotoğrafcılığı Makineleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351354,
@@ -828,8 +777,7 @@
         "D": "<p>DSLR ve full-frame makineler</p>",
         "E": "<p>DSLR aynasız fotoğraf makineleri.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351367,
@@ -844,8 +792,7 @@
         "D": "<p>SLR</p>",
         "E": "<p>DSLR-like</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351326,
@@ -860,8 +807,7 @@
         "D": "<p>1995</p>",
         "E": "<p>2000</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351348,
@@ -876,7 +822,6 @@
         "D": "<p>Sosyal medya </p>",
         "E": "<p>Blog üreticileri </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     }
 ]

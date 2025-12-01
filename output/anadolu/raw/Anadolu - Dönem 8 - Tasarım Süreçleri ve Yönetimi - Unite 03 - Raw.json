@@ -12,8 +12,7 @@
         "D": "<p>Sponsorluk anlaşmaları</p>",
         "E": "<p>Sergileme tasarımı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831820,
@@ -28,8 +27,7 @@
         "D": "<p>Bilgilendirme panoları</p>",
         "E": "<p>Aydınlatma yoğunluğu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831821,
@@ -44,8 +42,7 @@
         "D": "<p>Sergilenen eserlerin sigorta işlemlerini yürütmek</p>",
         "E": "<p>Sergi için reklam ve pazarlama stratejilerini oluşturmak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831823,
@@ -60,8 +57,7 @@
         "D": "<p>Müze ziyaretçilerine kişisel koleksiyonlarını sergileme imkânı sağlama</p>",
         "E": "<p>Sanat eserlerini koruma ve sergileme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831824,
@@ -76,8 +72,7 @@
         "D": "<p>Duyusal yönerge</p>",
         "E": "<p>Görsel fizibilite</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831829,
@@ -92,8 +87,7 @@
         "D": "<p>Aydınlatma açısı</p>",
         "E": "<p>Zemin kaplaması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831924,
@@ -108,8 +102,7 @@
         "D": "<p>Sergi alanına dramatik bir atmosfer katmak</p>",
         "E": "<p>Işık oyunlarıyla izleyicileri şaşırtmak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831925,
@@ -124,8 +117,7 @@
         "D": "<p>Eserlerin renk uyumu</p>",
         "E": "<p>Duvar dokusu ve yüzey kaplamaları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831927,
@@ -140,8 +132,7 @@
         "D": "<p>Etkileşimli dijital ekranlar</p>",
         "E": "<p>Sergi alanındaki zemin kaplaması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831930,
@@ -156,7 +147,6 @@
         "D": "<p>Mekânın tamamen doğal ışıkla aydınlatılması</p>",
         "E": "<p>Eserlerin cam çerçeveler olmadan sunulması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

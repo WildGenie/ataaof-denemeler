@@ -12,8 +12,7 @@
         "D": "<p>Web sitesi</p>",
         "E": "<p>Renk paleti</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862099,
@@ -28,8 +27,7 @@
         "D": "<p>Strateji</p>",
         "E": "<p>Felsefe</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862100,
@@ -44,8 +42,7 @@
         "D": "<p>Ürün tasarımı</p>",
         "E": "<p>Reklam</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862101,
@@ -60,8 +57,7 @@
         "D": "<p>II, III, IV ve V</p>",
         "E": "<p>I, III, IV ve V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862102,
@@ -76,8 +72,7 @@
         "D": "<p>1960'lar</p>",
         "E": "<p>1950'ler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862103,
@@ -92,8 +87,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>III, IV ve V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862104,
@@ -108,8 +102,7 @@
         "D": "<p>Knorr</p>",
         "E": "<p>Opel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862105,
@@ -124,8 +117,7 @@
         "D": "<div class=\"page\" title=\"Page 18\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>William Golden</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 18\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Anton Stankowski</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862106,
@@ -140,8 +132,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862108,
@@ -156,8 +147,7 @@
         "D": "<p>Unilever</p>",
         "E": "<p>Eczacıbaşı Holding</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862254,
@@ -172,8 +162,7 @@
         "D": "Kurumsal iletişim",
         "E": "Kurum felsefesi",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862255,
@@ -188,8 +177,7 @@
         "D": "Kurum felsefesi",
         "E": "Kurumsal kimlik",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862256,
@@ -204,8 +192,7 @@
         "D": "Şirketin kültürü, değerleri, davranışları ve iletişim tarzı dahil olmak üzere çeşitli yönlerini dikkate alır",
         "E": "Daha uzun ömürlü ve kalıcıdır",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862257,
@@ -220,8 +207,7 @@
         "D": "Tasarım dönemi",
         "E": "Stratejik dönem",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862258,
@@ -236,8 +222,7 @@
         "D": "İkinci Dünya Savaşı dönemi",
         "E": "İkinci Dünya Savaşı’ndan sonraki dönem",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862259,
@@ -252,8 +237,7 @@
         "D": "1840’lı yıllar",
         "E": "1850’li yıllar",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862260,
@@ -268,8 +252,7 @@
         "D": "AEG",
         "E": "Krupp",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862261,
@@ -284,8 +267,7 @@
         "D": "1888",
         "E": "1889",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862262,
@@ -300,8 +282,7 @@
         "D": "Avusturya",
         "E": "Almanya",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862263,
@@ -316,7 +297,6 @@
         "D": "Bu tür işletmeleri kontrol etmek, ana kuruluş tarafından kolay, ekonomik ve ucuz bir şekilde gerçekleştirilir",
         "E": "Kuruluşların, faaliyet gösterdikleri ülkelere bağlı olarak, üretim yerleri değişkenlik gösterebilmektedir",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Biyopolitika</p>",
         "E": "<p>Transhümanizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685609,
@@ -28,8 +27,7 @@
         "D": "<p>biyopolitika</p>",
         "E": "<p>tasarım</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688772,
@@ -44,8 +42,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688788,
@@ -60,8 +57,7 @@
         "D": "<p>Piet Zwart</p>",
         "E": "<p>Jackson Pollock</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688800,
@@ -76,8 +72,7 @@
         "D": "<p>sosyal medya uygulamasıdır</p>",
         "E": "<p>Refik Anadol'un sanat projesidir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839856,
@@ -92,8 +87,7 @@
         "D": "Kültürel Duyarlılık",
         "E": "Dünya Bilinci",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839876,
@@ -108,8 +102,7 @@
         "D": "Modernizm",
         "E": "Fütürizm",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839954,
@@ -124,8 +117,7 @@
         "D": "Biyopolitika",
         "E": "Hümanizm",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840241,
@@ -140,8 +132,7 @@
         "D": "Veri Güvenliği",
         "E": "Etik",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840330,
@@ -156,8 +147,7 @@
         "D": "Kullanıcılarda duygusal tepkiler uyandırma",
         "E": "Metin tabanlı içeriğin aksine  fikirleri daha uzun sürede aktarabilmek",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840615,
@@ -172,8 +162,7 @@
         "D": "20. yüzyıl",
         "E": "21. yüzyıl",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843705,
@@ -188,8 +177,7 @@
         "D": "Neohümanizm",
         "E": "Antihümanizm",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843713,
@@ -204,8 +192,7 @@
         "D": "Tekno-hümanizm",
         "E": "Nano teknoloji",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843723,
@@ -220,8 +207,7 @@
         "D": "dengeyi gözetmesinden",
         "E": "sınırları bulanıklaştırmasından",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843732,
@@ -236,8 +222,7 @@
         "D": "Nano sentezleme",
         "E": "Eko sentezleme",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843736,
@@ -252,8 +237,7 @@
         "D": "İş Birlikçi Platformların ve Bulut Tabanlı Yazılımların Yükselişi",
         "E": "Sosyal Medya ve Mobil Uygulamaların Yükselişi",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843737,
@@ -268,8 +252,7 @@
         "D": "Maliyet",
         "E": "Dijital ayak izi",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843739,
@@ -284,8 +267,7 @@
         "D": "Temalı grafikler, etkinlik posterleri ve tanıtım materyalleri oluşturmak",
         "E": "Bireysel özgünlüğü yansıtan, kişiye özel tasarımlar üretmek",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843740,
@@ -300,8 +282,7 @@
         "D": "Biyoesin",
         "E": "Biyosanat",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843742,
@@ -316,8 +297,7 @@
         "D": "Transhümanist",
         "E": "Postapokaliptik",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685602,
@@ -332,8 +312,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688780,
@@ -348,8 +327,7 @@
         "D": "<p>Tasarımcıların coğrafi konumları veya finansal kaynakları ne olursa olsun profesyonel düzeyde yazılım ve kaynaklara erişmeleri kolaylaşmaktadır.</p>",
         "E": "<p>Tasarımcılar yapay zekâyı iş birlikçi bir ortak olarak benimseyerek görsel ifadenin sınırlarını zorlayabilmektedir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688792,
@@ -364,8 +342,7 @@
         "D": "<p>basılı ürünler</p>",
         "E": "<p>inovasyon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688805,
@@ -380,8 +357,7 @@
         "D": "<p>Kültürel Duyarlılık: Biyoteknoloji çeşitli kültürel ve etik çerçeveler içerisinde faaliyet göstermektedir. Tasarımcılar kültürel nüanslara duyarlı olmalı ve görsellerinde tek merkezli bakış açılarını empoze etmekten kaçınmalıdır. Farklı kültürel geçmişlere sahip paydaşlarla iş birliği yapmak, tasarım anlatımlarını zenginleştirip kapsayıcılığı teşvik edecektir.</p>",
         "E": "<p>Toplum Bilinci: Biyoteknolojik gelişmeler toplumları ve insanları etkileme potansiyeline sahiptir. Tasarımcılar yerel yönetimleri yöneten uygulamaları başlatmalı ve devletlerle birlikte toplumu yöneten ve yönlendiren çalışmalar yapmalıdır. </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840607,
@@ -396,8 +372,7 @@
         "D": "Makine",
         "E": "Doğal",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840611,
@@ -412,8 +387,7 @@
         "D": "Denge",
         "E": "Sanat",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843746,
@@ -428,8 +402,7 @@
         "D": "<p class=\"p2\">Kültürel Duyarlılık</p>",
         "E": "Çevre Bilinci",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840242,
@@ -444,8 +417,7 @@
         "D": "<p>İhtiyaç ve estetik</p>",
         "E": "<p>Tasarım ve tüketim</p>",
         "CorrectAnswer": "0",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840605,
@@ -460,8 +432,7 @@
         "D": "Digital Sanat",
         "E": "Seramik",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840263,
@@ -476,8 +447,7 @@
         "D": "sanat - doğruluk",
         "E": "biyoloji - doğruluk",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688794,
@@ -492,7 +462,6 @@
         "D": "<p>Biyoloji</p>",
         "E": "<p>organizma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     }
 ]

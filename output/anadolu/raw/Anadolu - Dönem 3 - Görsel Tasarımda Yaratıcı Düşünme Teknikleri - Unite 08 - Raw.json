@@ -12,8 +12,7 @@
         "D": "<p>Kurgu formatı ve tekniğinin belirlenmesi</p>",
         "E": "<p>Yapım için destek ve sponsor tespiti</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861505,
@@ -28,8 +27,7 @@
         "D": "<p>Piksilasyon</p>",
         "E": "<p>3 Boyutlu Animasyon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861507,
@@ -44,8 +42,7 @@
         "D": "<p>Storyboard</p>",
         "E": "<p>Rotoskop</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861579,
@@ -60,8 +57,7 @@
         "D": "<p>Çekim Sonrası </p>",
         "E": "<p>Yapım Sonrası</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861580,
@@ -76,8 +72,7 @@
         "D": "<p>Çekim Sonrası </p>",
         "E": "<p>Yapım Sonrası</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861581,
@@ -92,8 +87,7 @@
         "D": "<p>Plan</p>",
         "E": "<p>Sinopsis</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861793,
@@ -108,8 +102,7 @@
         "D": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İPTV</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>TV/HDTV</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861803,
@@ -124,8 +117,7 @@
         "D": "<p>Çekim sonrası</p>",
         "E": "<p>Yapım sonrası</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861806,
@@ -140,8 +132,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>III ve IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861811,
@@ -156,8 +147,7 @@
         "D": "<p>Animasyon film</p>",
         "E": "<p>Reklam filmi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861848,
@@ -172,8 +162,7 @@
         "D": "<p>sayısal tv</p>",
         "E": "<p>DSLR kamera</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861861,
@@ -188,8 +177,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861862,
@@ -204,8 +192,7 @@
         "D": "<p> Sekans </p>",
         "E": "<p>Sinopsis </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861863,
@@ -220,8 +207,7 @@
         "D": "<p>Sadece I</p>",
         "E": "<p>Sadece III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861865,
@@ -236,8 +222,7 @@
         "D": " <p>Tretman</p> ",
         "E": " <p>Sekans</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861869,
@@ -252,8 +237,7 @@
         "D": " <p>Altı</p>",
         "E": "<p>Dört</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861877,
@@ -268,8 +252,7 @@
         "D": "<p>• Film ekibinin<br />kurulması</p>",
         "E": "<p>Çekim öncesi<br />toplantısı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861878,
@@ -284,8 +267,7 @@
         "D": "<p>Film öyküsünü özetleyen ilk yazılı<br />taslaktır</p>",
         "E": "<p>sinopsisin geliştirilmiş hâlidir. Filmde yer alan kişiler ve<br />mekânların yanı sıra öykünün giriş, gelişme ve sonuç bölümleri bulunur</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861880,
@@ -300,8 +282,7 @@
         "D": "<p> sinopsisin geliştirilmiş hâlidir.</p>",
         "E": "<p>Film öyküsünün sahnelere<br />bölünerek ayrımlandığı, çekim yerlerinin belirtildiği, oyuncu diyalogları, kamera, hareket ve çerçeve gibi ayrıntılı bilgileri içeren teknik bir metindir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861881,
@@ -316,8 +297,7 @@
         "D": "<p>: Film öyküsünün sahnelere<br />bölünerek ayrımlandığı, çekim yerlerinin belirtildiği, oyuncu diyalogları, kamera, hareket ve çerçeve gibi ayrıntılı bilgileri içeren teknik bir metindir</p>",
         "E": "<p>görüntü genişliğinin yüksekliğine olan oranını ifade eder.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861503,
@@ -332,8 +312,7 @@
         "D": "<p>Hareket Yakalama<br /><br /></p>",
         "E": "<p>Sayısal Kolaj</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861536,
@@ -348,8 +327,7 @@
         "D": "<p>Video &amp; Art</p>",
         "E": "<p>Parodi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861799,
@@ -364,8 +342,7 @@
         "D": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birle- şiminden ortaya sekanslardır</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sahne terimi ile oyunun oluşturulduğu yer ve dekor tanımlanır</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861805,
@@ -380,8 +357,7 @@
         "D": "<p>Olay örgüsü</p>",
         "E": "<p>Söylem</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861808,
@@ -396,8 +372,7 @@
         "D": "<p>Doğal ışık</p>",
         "E": "<p>Hareketli ışık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861809,
@@ -412,8 +387,7 @@
         "D": "<p>Kolaj animasyon</p>",
         "E": "<p>Piksilasyon </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861810,
@@ -428,8 +402,7 @@
         "D": "<p>3 Boyutlu Animasyon</p>",
         "E": "<p>Stereoskopik 3D</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861795,
@@ -444,8 +417,7 @@
         "D": "<p>I/II</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861796,
@@ -460,8 +432,7 @@
         "D": "<p>Çekim</p>",
         "E": "<p>Öykü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861802,
@@ -476,8 +447,7 @@
         "D": "<p>OTT</p>",
         "E": "<p>DSLR</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861804,
@@ -492,8 +462,7 @@
         "D": "<p>I. Sinopsis</p> <p>II. Tretman</p> <p>III. Tema</p> <p>IV. Senaryo</p>",
         "E": "<p>I. Sinopsis</p> <p>II. Tretman</p> <p>III. Senaryo</p> <p>IV. Tema</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861807,
@@ -508,8 +477,7 @@
         "D": "<p>Bel çekim </p>",
         "E": "<p>Yüz çekim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861850,
@@ -524,8 +492,7 @@
         "D": "<p>Oyuncuların<br />ve mekânların<br />belirlenmesi</p>",
         "E": "<p>Film ekibinin<br />kurulması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861864,
@@ -540,8 +507,7 @@
         "D": "<p>Sadece I</p>",
         "E": "<p>Sadece I ve II</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861866,
@@ -556,8 +522,7 @@
         "D": " <p>Dramatik aydınlatma</p> ",
         "E": " <p>Anahtar ışık</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861867,
@@ -572,8 +537,7 @@
         "D": "<p>Sadece II</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861870,
@@ -588,8 +552,7 @@
         "D": "<p>I, II, III</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861879,
@@ -604,8 +567,7 @@
         "D": "<p>geleneksel dramatik anlatımlarda öykü bir<br />çatışma ile başlar ve doruk noktasına ulaşana dek<br />yükselen bir eğride devam ede</p>",
         "E": "<p>Film öyküsünü özetleyen ilk yazılı<br />taslaktır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861798,
@@ -620,8 +582,7 @@
         "D": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Görüntü üretim ilişkisidir</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Giriş, gelişme ve sonuç bölüdür</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861801,
@@ -636,8 +597,7 @@
         "D": "<div class=\"page\" title=\"Page 22\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kolaj animasyon</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 22\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Piksilasyon</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861868,
@@ -652,8 +612,7 @@
         "D": "<p>Sadece III</p>",
         "E": "<p>Sadece II</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861794,
@@ -668,8 +627,7 @@
         "D": "<div class=\"page\" title=\"Page 4\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Çekim Sonrası</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 4\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Yapım Sonrası</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861849,
@@ -684,8 +642,7 @@
         "D": "<p>çekim aşaması</p>",
         "E": "<p>çekim sonrası</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861876,
@@ -700,8 +657,7 @@
         "D": "<p>Temanın bulunması</p>",
         "E": "<p>• Sinopsis, tretman<br />ve çekim senaryosu<br />yazımı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861506,
@@ -716,8 +672,7 @@
         "D": "<p>Bütçe hazırlama</p>",
         "E": "<p>Telif hakları</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861582,
@@ -732,8 +687,7 @@
         "D": "<p>Animasyon filmi</p>",
         "E": "<p>Reklam filmi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861792,
@@ -748,8 +702,7 @@
         "D": "<p>16</p>",
         "E": "<p>20</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861800,
@@ -764,8 +717,7 @@
         "D": "<p>El çizimi</p>",
         "E": "<p>Rotoskop</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861797,
@@ -780,7 +732,6 @@
         "D": "<p>Tema</p>",
         "E": "<p>Olay örgüsü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     }
 ]

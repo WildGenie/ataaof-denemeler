@@ -12,8 +12,7 @@
         "D": "<p>Yavuz Sultan Selim</p>",
         "E": "<p>V. Mehmet Reşat</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887275,
@@ -28,8 +27,7 @@
         "D": "<p>Said Halim Paşa,</p>",
         "E": "<p>Gaspıralı İsmail</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887276,
@@ -44,8 +42,7 @@
         "D": "<p>İnsanlık</p>",
         "E": "<p>Osmanlıcılık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887277,
@@ -60,8 +57,7 @@
         "D": "<p>Ziya Gökalp</p>",
         "E": "<p>Ahmet Ağaoğlu,</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887280,
@@ -76,8 +72,7 @@
         "D": "<p>Japonya</p>",
         "E": "<p>Kore</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887281,
@@ -92,8 +87,7 @@
         "D": "<p>Bulgaristan, Hırvatistan<br />ve Yunanistan </p>",
         "E": "<p>Bulgaristan, Sırbistan<br />ve Yunanistan </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887283,
@@ -108,8 +102,7 @@
         "D": "<p>Ticaret yollarının ve dünya ekonomik sisteminin değişmesinin, gümrük gelirlerinin azalmasına neden olması</p>",
         "E": "<p>Emperyalist politikalar izleyen büyük devletler arasında, Türklerin Anadolu’dan atılma meselesinin yaygınlaşması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887285,
@@ -124,8 +117,7 @@
         "D": "<p>Namık Kemal </p>",
         "E": "<p>Ahmet Cevdet Paşa</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887287,
@@ -140,8 +132,7 @@
         "D": "<p>Üçüncü Selim</p>",
         "E": "<p>Genç Osman</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887288,
@@ -156,8 +147,7 @@
         "D": "<p>Kanun-i Esasi</p>",
         "E": "<p>Mecelle</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887289,
@@ -172,8 +162,7 @@
         "D": "<p>Medreselerden mezun olan öğrencilerin iş bulamayınca yol kesmeye ve soyguna başlaması</p>",
         "E": "<p>Ticaret yollarının değişmesi ile Osmanlı gümrük gelirlerinin artması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887292,
@@ -188,8 +177,7 @@
         "D": "<p>Sultan Abdülmecit</p>",
         "E": "<p>II. Abdüllhamit</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887296,
@@ -204,8 +192,7 @@
         "D": "<p>İngiltere, Fransa ve Rusya</p>",
         "E": "<p>Rusya, Fransa ve İtalya</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887300,
@@ -220,8 +207,7 @@
         "D": "<p>Sultan Selim </p>",
         "E": "<p>Sultan Reşad </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887302,
@@ -236,8 +222,7 @@
         "D": "<p>Sürat Topçular Ocağının kurulması</p> ",
         "E": "<p>Hasköy’de top dökümhanesinin yapılması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887304,
@@ -252,8 +237,7 @@
         "D": "<p>Pan-İslamizm</p>",
         "E": "<p>Şark meselesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887305,
@@ -268,8 +252,7 @@
         "D": "<p>İngiltere</p> ",
         "E": "<p>Fransa</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887310,
@@ -284,8 +267,7 @@
         "D": "<p>Bakım Sistemi</p>",
         "E": "<p>Sevk Sistemi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887312,
@@ -300,8 +282,7 @@
         "D": "<p>Bilgeler çağı</p>",
         "E": "<p>Sefirler ve Reîsülküttâplar Çağı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887318,
@@ -316,8 +297,7 @@
         "D": "<p>Ordu</p>",
         "E": "<p>Vtandaslık</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887265,
@@ -332,8 +312,7 @@
         "D": "<p>Sultan cülüs dağıtması</p>",
         "E": "<p>Yeniçerilerin dokunulmaz olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887269,
@@ -348,8 +327,7 @@
         "D": "<p>Kanuni Sultan Süleyman</p>",
         "E": "<p>II Osman</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887270,
@@ -364,8 +342,7 @@
         "D": "<p>I Vahdettin</p>",
         "E": "<p>III selim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887271,
@@ -380,8 +357,7 @@
         "D": "<p>Verginin herkesten eşit alınması</p>",
         "E": "<p>Irk ve din temeline bakmadan tüm vatandaşların eşit kabul edilmesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887279,
@@ -396,8 +372,7 @@
         "D": "<p>Almanya, Bulgaristan ve Avusturya-Macaristan</p>",
         "E": "<p>Almanya, İtalya ve Osmanlı imparatorluğu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887282,
@@ -412,8 +387,7 @@
         "D": "<p>Karadağ Krizi</p>",
         "E": "<p>Arnavutluk Krizi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887293,
@@ -428,8 +402,7 @@
         "D": "<p>II. Abdülhamit</p>",
         "E": "<p>Sultan Abdülmecit</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887294,
@@ -444,8 +417,7 @@
         "D": "<p>Meşrutiyetin İlanı </p>",
         "E": "<p>Kanun-i Esasi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887297,
@@ -460,8 +432,7 @@
         "D": "<p>Kazım Karabekir</p>",
         "E": "<p>Ali Fethi Okyar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887298,
@@ -476,8 +447,7 @@
         "D": "<p>Mücahidan-i İslam </p>",
         "E": "<p>Kuvay-i Milliye</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887301,
@@ -492,8 +462,7 @@
         "D": "<p>Meşruti Monarşi</p>",
         "E": "<p>Islahat Fermanı </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887303,
@@ -508,8 +477,7 @@
         "D": "<p>Meşruti monarşi</p>",
         "E": "<p>Sened-i İttifak </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887306,
@@ -524,8 +492,7 @@
         "D": "<p>Bir devlet siyaseti tarzında Tanzimat’tan Cumhuriyet’e dek değişik şekillerde varlığını korumuş ancak Cumhuriyet’e intikal etmemiştir. </p>",
         "E": "<p>Devleti korumak amacıyla artık Müslüman-Türk unsur tarafından savunulan bir fikir iken gayrimüslim unsurlar bu fikri takip etmemiştir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887308,
@@ -540,8 +507,7 @@
         "D": "<p>Said Halim Paşa</p> ",
         "E": "<p>Tunalı Hilmi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887311,
@@ -556,8 +522,7 @@
         "D": "<p>İstanbul Vakası</p>",
         "E": "<p>Sinop Vakası</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887315,
@@ -572,8 +537,7 @@
         "D": "<p>Mühendishane-i Bahri </p>",
         "E": "<p>Mühendishane</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887317,
@@ -588,8 +552,7 @@
         "D": "<p>Londra, Paris, Viyana, Stuttgart</p>",
         "E": "<p>Londra, Paris, Viyana, Bavaria</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887268,
@@ -604,8 +567,7 @@
         "D": "<p>Demokratik düzene geçiş </p>",
         "E": "<p>Padişahın yetkilerinin sınırlandırılması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887274,
@@ -620,8 +582,7 @@
         "D": "<p>Osmanlının  çöküşü ile </p>",
         "E": "<p>Tanzimatın ilanı  sonucunda</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887284,
@@ -636,8 +597,7 @@
         "D": "<p>Yeniçeri Ocağının bozulması ve yozlaşması </p>",
         "E": "<p>Osmanlı Devletinin doğal sınırlarına ulaşmış olması </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887286,
@@ -652,8 +612,7 @@
         "D": "<p>İkinci Abdülhamit</p>",
         "E": "<p>Dördüncü Murat</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887291,
@@ -668,8 +627,7 @@
         "D": "<p>Hezarfen Hüseyin Çelebi</p> ",
         "E": "<p>Yirmisekiz Çelebi Mehmet</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887299,
@@ -684,8 +642,7 @@
         "D": "<p>Lûtfî Paşa</p> ",
         "E": "<p>Münif Paşa</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887314,
@@ -700,8 +657,7 @@
         "D": "<p>Nizamı Cedid</p>",
         "E": "<p>Nizamımülmülk</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887313,
@@ -716,8 +672,7 @@
         "D": "<p>Çelebiler Çağı</p>",
         "E": "<p>Bilgeler Çağı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887316,
@@ -732,8 +687,7 @@
         "D": "<p>Mühendishane-i Berri </p>",
         "E": "<p>Mühendishane-i Berri Hümayun</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887266,
@@ -748,8 +702,7 @@
         "D": "<p> Sultanların isyanın haklı bulunması ile</p>",
         "E": "<p>Sultanın oğlu yerine kardeşinin getirilmesi ile</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887309,
@@ -764,8 +717,7 @@
         "D": "<p>Volkan</p>",
         "E": "<p>Tercümân-ı Ahvâl-i Zaman</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887267,
@@ -780,8 +732,7 @@
         "D": "<p>İbrahim Müteferrika</p>",
         "E": "<p>Evliya çelebi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887278,
@@ -796,8 +747,7 @@
         "D": "<p>18. yüz yılın ortalarından</p>",
         "E": "<p>19. yüzyılın sonlarında</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887290,
@@ -812,8 +762,7 @@
         "D": "<p>Münevverler Çağı</p>",
         "E": "<p>Aydınlar Çağı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887320,
@@ -828,8 +777,7 @@
         "D": "<p>II. Abdülhamid</p>",
         "E": "<p>II. Mustafa</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887319,
@@ -844,8 +792,7 @@
         "D": "<p>Takvîm-i Mülki</p>",
         "E": "<p>Takvîm-i Vekâyi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887273,
@@ -860,8 +807,7 @@
         "D": "<p>Osmanlıcılık</p>",
         "E": "<p>Dİn devlet ve millet bütünlüğü</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887295,
@@ -876,8 +822,7 @@
         "D": "<p>İtalya</p>",
         "E": "<p>Almanya</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887307,
@@ -892,7 +837,6 @@
         "D": "<p>Hüseyinzâde Ali</p> ",
         "E": "<p>Ahmet Ağaoğlu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Dadaizm</p>",
         "E": "<p>Montaj</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764174,
@@ -28,8 +27,7 @@
         "D": "<p>Akrilik</p>",
         "E": "<p>Litografi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764175,
@@ -44,8 +42,7 @@
         "D": "<p>sökülmek</p>",
         "E": "<p>iyileşmek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764176,
@@ -60,8 +57,7 @@
         "D": "<p>Junk Sanat</p>",
         "E": "<p>Minimalizm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764177,
@@ -76,8 +72,7 @@
         "D": "<p>Minimalizm</p>",
         "E": "<p>Serigrafi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764178,
@@ -92,8 +87,7 @@
         "D": "<p>Robert Rauschenberg</p>",
         "E": "<p>George Braque</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764179,
@@ -108,8 +102,7 @@
         "D": "<p>Robert Rauschenberg</p>",
         "E": "<p>Hans Haacke</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764180,
@@ -124,8 +117,7 @@
         "D": "<p>recycling (geri dönüşüm)</p>",
         "E": "<p>biyo-sanat</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764181,
@@ -140,8 +132,7 @@
         "D": "<p>asamblaj</p>",
         "E": "<p>kolaj</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764182,
@@ -156,8 +147,7 @@
         "D": "<p>biyoloji</p>",
         "E": "<p>arazi sanatı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764276,
@@ -172,8 +162,7 @@
         "D": "<p>Ekolojik Tasarım</p>",
         "E": "<p>Globalleşme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764277,
@@ -188,8 +177,7 @@
         "D": "<p>Bilginin daha hızlı yayılması</p>",
         "E": "<p>Toplumsal eşit hakların yaygınlaşması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764278,
@@ -204,8 +192,7 @@
         "D": "<p>Asamblaj</p>",
         "E": "<p>Montaj</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764279,
@@ -220,8 +207,7 @@
         "D": "<p>Akümülasyon</p>",
         "E": "<p>Dekolaj</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764280,
@@ -236,8 +222,7 @@
         "D": "<p>Dekolaj</p>",
         "E": "<p>Asamblaj</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764281,
@@ -252,8 +237,7 @@
         "D": "<p>Dekolaj</p>",
         "E": "<p>Asamblaj</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764282,
@@ -268,8 +252,7 @@
         "D": "<p>Wolf Vostell</p>",
         "E": "<p>Jean Dubuffet</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764283,
@@ -284,8 +267,7 @@
         "D": "<p>Jean Dubuffet</p>",
         "E": "<p>Wolf Vostell</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764284,
@@ -300,8 +282,7 @@
         "D": "<p>Bilgi ve teknolojiyi kabul etmediği için</p>",
         "E": "<p>Sosyal farkındalık yaratıp, çevre dostu yaklaşımın benimsenmesini sağladığı için</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764285,
@@ -316,7 +297,6 @@
         "D": "<p>Tim Noble</p>",
         "E": "<p>Sue Webster</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

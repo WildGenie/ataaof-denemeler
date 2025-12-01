@@ -12,8 +12,7 @@
         "D": "<p>Timeline</p>",
         "E": "<p>3D</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3686975,
@@ -28,8 +27,7 @@
         "D": "<p>Render</p>",
         "E": "<p>Stop Motion</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3686978,
@@ -44,8 +42,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kısıtlı Animasyon</p> </div> </div> </div> </div>",
         "E": "<p>Stop Motion</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3686982,
@@ -60,8 +57,7 @@
         "D": "<p>Hareket Yakalama</p>",
         "E": "<p>2D Animasyon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3687011,
@@ -76,8 +72,7 @@
         "D": "<div class=\"page\" title=\"Page 12\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Motion Capture ve Rotoskop</p> </div> </div> </div> </div>",
         "E": "<p>Kısıtlı animasyon ve 2D</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3687016,
@@ -92,8 +87,7 @@
         "D": "<p>2D</p>",
         "E": "<p>Rotoskopi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3687026,
@@ -108,8 +102,7 @@
         "D": "<div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Zoetrop</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Flipbook</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3687033,
@@ -124,8 +117,7 @@
         "D": "<p>Görme sürekliliği</p>",
         "E": "<p>Praxis</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3687038,
@@ -140,8 +132,7 @@
         "D": "<p>Kısıtlı animasyon</p>",
         "E": "<p>3D</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3687050,
@@ -156,7 +147,6 @@
         "D": "<p>2D</p>",
         "E": "<p>2.5D</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

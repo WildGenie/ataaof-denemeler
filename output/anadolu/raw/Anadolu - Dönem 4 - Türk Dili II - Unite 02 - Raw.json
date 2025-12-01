@@ -12,8 +12,7 @@
         "D": "<p>Haçlı Seferleri</p>",
         "E": "<p>Sanayi Devrimi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257402,
@@ -28,8 +27,7 @@
         "D": "<p>Noktalı virgül, virgül, üç nokta</p>",
         "E": "<p>Nokta, ünlem işareti, virgül</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257407,
@@ -44,8 +42,7 @@
         "D": "<p>(,)(')(.)</p>",
         "E": "<p>(;)(')(.)</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257409,
@@ -60,8 +57,7 @@
         "D": "<p>Üç nokta</p>",
         "E": "<p>Noktalı virgül</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257614,
@@ -76,8 +72,7 @@
         "D": "<div class=\"page\" title=\"Page 9\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Karşılıklı konuşma bölümlerinde konuşucuyu bildiren kelimenin sonunda kullanılır.</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 9\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Ses bilgisiyle ilgili çalışmalarda ünlünün uzun olduğunu göstermek için ünlüden sonra konur.</p> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257617,
@@ -92,8 +87,7 @@
         "D": "<p>Ayraç</p>",
         "E": "<p>Köşeli ayraç</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257621,
@@ -108,8 +102,7 @@
         "D": "<p>Noktalı virgül</p>",
         "E": "<p>Köşeli ayraç</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257628,
@@ -124,8 +117,7 @@
         "D": "<p>Uzun çizgi</p>",
         "E": "<p>Nokta</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257833,
@@ -140,8 +132,7 @@
         "D": "<p>Yazı dilinde noktalama işaretlerinin doğru ve yerinde kullanılması, hem yazar hem de okur a&ccedil;ısından kolaylık sağlar.</p>",
         "E": "<p>Rakamlar arasında kullanılanlar hari&ccedil;, her noktalama işaretinden sonra bir harf sığacak kadar bir boşluk bırakılmalıdır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257839,
@@ -156,8 +147,7 @@
         "D": "<p>Kesme işareti</p>",
         "E": "<p>&Uuml;&ccedil; nokta</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257841,
@@ -172,8 +162,7 @@
         "D": "<p>Olayların yaşandığı, eserlerin yazıldığı, basıldığı tarih veya yer içinde kullanılırlar.</p> ",
         "E": "<p>Fiil kök ve gövdelerini göstermek için kullanılır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257972,
@@ -188,8 +177,7 @@
         "D": "<p>Virgül (,), kesme (’), noktalı virgül (;), kesme (’), nokta (.)</p>",
         "E": "<p>İki nokta üst üste (:), kesme (’), virgül (,), kesme (’), nokta (.)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257979,
@@ -204,8 +192,7 @@
         "D": "<p>Nokta (.), iki nokta üst üste (:), soru (?), soru (?), nokta (.)</p>",
         "E": "<p>İki nokta üst üste (:), noktalı virgül (;), soru (?), soru (?), ünlem (!)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258018,
@@ -220,8 +207,7 @@
         "D": "<p>Dil bilgisi çalışmalarında kelimelerin köklerini, gövdelerini ve eklerini belirtmek için </p>",
         "E": "<p>Birbiriyle ilişkili kavramlar birlikte yazıldığında araya</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258023,
@@ -236,8 +222,7 @@
         "D": "<p>Kişinin kim olduğunu açıkça belirtmemek için</p>",
         "E": "<p>Karşılıklı konuşmaları belirtmek için</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258046,
@@ -252,8 +237,7 @@
         "D": "<p>Ünlem</p>",
         "E": "<p>Nokta</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258599,
@@ -268,8 +252,7 @@
         "D": "<p>(_)(,)(.)</p> ",
         "E": "<p>(:)(,)(.)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258706,
@@ -284,8 +267,7 @@
         "D": "<p> (;) (…)</p>",
         "E": "<p> (.) (.)</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258707,
@@ -300,8 +282,7 @@
         "D": "<p>Bizden daha çalışkan  öğrencileri nerede bulacak?</p>",
         "E": "<p>Soruyu bildim mi, bilemedim mi?</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258709,
@@ -316,8 +297,7 @@
         "D": "<p>(…)  </p>",
         "E": "<p>(,)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257392,
@@ -332,8 +312,7 @@
         "D": "<p>Cümleden sonra, cümle ilgili yapılacak açıklamadan önce kullanılır.</p>",
         "E": "<p>Cümleyle doğrudan ilgisi olmayan açıklamaların başına ve sonuna konur. </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257411,
@@ -348,8 +327,7 @@
         "D": "<p>(')('')('')(.)</p>",
         "E": "<p>(')(())(())(.)</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257413,
@@ -364,8 +342,7 @@
         "D": "<p>Noktalı virgül</p>",
         "E": "<p>Kısa çizgi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257417,
@@ -380,8 +357,7 @@
         "D": "<p>('')(,)(.)('')</p>",
         "E": "<p>('')(,)('')(.)</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257419,
@@ -396,8 +372,7 @@
         "D": "<p>Kısa çizgi</p>",
         "E": "<p>Kesme işareti</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257626,
@@ -412,8 +387,7 @@
         "D": "<p>Nokta</p>",
         "E": "<p>Uzun çizgi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257970,
@@ -428,8 +402,7 @@
         "D": "<p>Kısa çizgi (-), ünlem (!), kısa çizgi (-), soru (?), noktalı virgül (;)</p>",
         "E": "<p>Tırnak açma (“), ünlem (!), tırnak kapama (”), nokta (.), noktalı virgül (;)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257977,
@@ -444,8 +417,7 @@
         "D": "<p>İki nokta &uuml;st &uuml;ste (:), &uuml;nlem (!), iki nokta &uuml;st &uuml;ste (:), &uuml;nlem (!), noktalı virg&uuml;l (;)</p>",
         "E": "<p>Noktalı virg&uuml;l (;), &uuml;nlem (!), noktalı virg&uuml;l (;), &uuml;nlem (!), noktalı virg&uuml;l (;)</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258020,
@@ -460,8 +432,7 @@
         "D": "<p>Dünyada Kovid19 vaka sayısı 213'557’ye, ölen sayısı 8'790’a çıktı.</p>",
         "E": "<p>Ayşe isyan etti: Bu ne bencillik!</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258039,
@@ -476,8 +447,7 @@
         "D": "<p>Cümleden sonra, cümle ilgili yapılacak açıklamadan önce kullanılır</p>",
         "E": "<p>Cümleyle ilgili verilecek örneklerden önce kullanılır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258042,
@@ -492,8 +462,7 @@
         "D": "<p>İki nokta</p>",
         "E": "<p>Tırnak işareti</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258092,
@@ -508,8 +477,7 @@
         "D": "<p>Sanıyoruz ki öğretmenler ve eğitim sistemine egemen olunca, gelecek kuşakları istediğimiz<br />kalıpta yetiştirebiliriz.</p>",
         "E": "<p>Tamam, tamam. Parçalama kendini, haber etmem.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258095,
@@ -524,8 +492,7 @@
         "D": "<p>Yoksa yerleştikleri evlerin bakımı için yine şehirden birer “temizlikçi kadın” mı getirecekler?</p>",
         "E": "<p>Önce Aslı sonra da Tahir Nil kenarındaki Karaman (?) şehrinde Zühre Han ile karşılaşmışlar mı?</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258126,
@@ -540,8 +507,7 @@
         "D": "<p>Noktalı virgül - iki nokta</p>",
         "E": "<p>Noktalı virgül - eğik çizgi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258246,
@@ -556,8 +522,7 @@
         "D": "<p>2,3</p>",
         "E": "<p>1,2,3</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257379,
@@ -572,8 +537,7 @@
         "D": "<p>16. yüzyıl</p>",
         "E": "<p>15. yüzyıl</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257394,
@@ -588,8 +552,7 @@
         "D": "<p>ayraç içinde iki nokta</p>",
         "E": "<p>ayraç içinde köşeli parantez</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257612,
@@ -604,8 +567,7 @@
         "D": "<div class=\"page\" title=\"Page 8\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Ayvazoğlu; Beşir (1999). Kuğunun Son Şarkısı, Ötüken Yayınları.</p>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 8\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Niyazi’yle iş bölümü yapmıştık. Sabahtan öğleye kadar bulaşıkları o yıkar, garsonluğu ben yapardım; öğleden sonra bulaşıkları bende, garsonluk onda.</p>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257624,
@@ -620,8 +582,7 @@
         "D": "<p align=\"justify\">Süleyman Çavuş:</p>\n<p align=\"justify\">— Bırak açma o bahsi ,dedi.</p>",
         "E": "<p>Karacaoğlan'ın  Güneydoğu Anadolu’da (?) yaşadığını söylüyor.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257832,
@@ -636,8 +597,7 @@
         "D": "<p>Cümleyle doğrudan ilgisi olmayan açıklamalar için</p> ",
         "E": "<p>Matematikte çarpma işlemi işareti olarak</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257834,
@@ -652,8 +612,7 @@
         "D": "<p>&Ouml;rneklerde</p>",
         "E": "<p>Zamirleri tamamlamada</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257838,
@@ -668,8 +627,7 @@
         "D": "<p>Kısaltmalara durum eki getirildiğinde bunlar, kesme işaretiyle ayrılır.</p>",
         "E": "<p>Anlatım olarak tamamlanmamış cümlelerin sonuna konur.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258022,
@@ -684,8 +642,7 @@
         "D": "<p>II, III, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258096,
@@ -700,8 +657,7 @@
         "D": "<p>Noktalı virg&uuml;l&nbsp;</p>",
         "E": "<p>İki nokta</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258245,
@@ -716,8 +672,7 @@
         "D": "Köşeli Ayraç",
         "E": "Kısa Çizgi",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257390,
@@ -732,8 +687,7 @@
         "D": "<p>Bir cümlede virgüllerle ayrılan kelimeler veya kelime öbekleri kendi içinde<br />gruplanabiliyorsa bunlar da birbirinden noktalı virgülle ayrılır.</p>",
         "E": "<p>Sıralı cümleyi oluşturan cümleler, virgülle ayrılıyor ve kendi aralarında<br />gruplanabiliyorsa bu gruplar birbirinden noktalı virgülle ayrılır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257398,
@@ -748,8 +702,7 @@
         "D": "<p>Bilimsel yazıların kaynakçalarında makale adları köşeli ayraç içinde verilir.</p>",
         "E": "<p>Açılan tırnak içinde ikinci bir tırnak açma ihtiyacı duyulursa köşeli ayraç <br />işareti kullanılır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257404,
@@ -764,8 +717,7 @@
         "D": "<p>(;)(,)(,)(,)(')(,)(')(.)</p>",
         "E": "<p>(,)(,)(,)(;)(,)(')(,).()</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257415,
@@ -780,8 +732,7 @@
         "D": "<p>Eğik çizgi</p>",
         "E": "<p>Kısa çizgi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257836,
@@ -796,8 +747,7 @@
         "D": "<p>Şart ekinden sonra virgül kullanılmaz.</p>",
         "E": "<p>Konuşma çizgisiyle verilen alıntıların bitiminde ünlem işareti kullanılır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257974,
@@ -812,8 +762,7 @@
         "D": "<p>Eğik çizgi (/), eğik çizgi (/), soru (?), iki nokta üst üste (:), soru (?)</p>",
         "E": "<p>Eğik çizgi (/), uzun çizgi (–), soru (?), iki nokta üst üste (:), soru (?)</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258021,
@@ -828,8 +777,7 @@
         "D": "<p>II, III, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258040,
@@ -844,8 +792,7 @@
         "D": "<p>Ses bilgisiyle ilgili çalışmalarda ünlünün uzun olduğunu göstermek için<br />ünlüden sonra konur.</p>",
         "E": "<p>Alıntı yapıldığında atlanan yeri belirtmek için kullanılır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258043,
@@ -860,8 +807,7 @@
         "D": "<p>Dil bilgisi çalışmalarında eklerin farklı biçimlerini gösterirken kullanılır.</p>",
         "E": "<p>Matematikte bölme işareti olarak da kullanılır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258048,
@@ -876,8 +822,7 @@
         "D": "<p>Yaklaşıklık anlamı vermek</p>",
         "E": "<p>Karşıtlık ilişkisi belirtmek</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258094,
@@ -892,8 +837,7 @@
         "D": "<p>Ayşe’nin( ) Murat’ın, Selma’nın, Ali’nin okumadığı kitapları okuması şaşırtıcıydı.</p>",
         "E": "<p>Bilgilerinizi yoklayınız( )Sümerler, Fenikeliler, Firikler, Hititler, Soğdlar.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257383,
@@ -908,8 +852,7 @@
         "D": "<p>Güneyli noktalama işaretleri</p> ",
         "E": "<p>Kuzey batılı noktalama işaretleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257978,
@@ -924,8 +867,7 @@
         "D": "<p>Uzun çizgi (—), iki nokta üst üste (:), virgül (,), nokta (.), ayraç (/)</p>",
         "E": "<p>Ünlem (!), iki nokta üst üste (:), üç nokta yan yana (…), nokta (.), kesme (’)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258037,
@@ -940,8 +882,7 @@
         "D": "<p>Tarih belirtmek</p>",
         "E": "<p>Saat belirtmek</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258090,
@@ -956,8 +897,7 @@
         "D": "<p>Genel ağ adreslerinde kullanılmaktadır.</p>",
         "E": "<p>Karşılıklı konuşmada, konuşucuyu bildiren kelimenin sonunda kullanılır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258128,
@@ -972,8 +912,7 @@
         "D": "<p>Her dilde birçok ağız ( ) bu ağızların içinde de alt ağız grupları bulunur.</p>",
         "E": "<p>Düşümde gördüm( ) Ne kadar uygarlık varsa hepsinde birden yaşıyorum.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258244,
@@ -988,8 +927,7 @@
         "D": "<p>I, II, III</p>",
         "E": "<p>III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257388,
@@ -1004,8 +942,7 @@
         "D": "<p>Kimi kısaltmalarda kullanılır.</p>",
         "E": "<p>Rakamlardan sonra konursa sıra sayı sıfatlarını türetir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257610,
@@ -1020,8 +957,7 @@
         "D": "<p>Bugün hava çok soğuk.</p>",
         "E": "<div class=\"page\" title=\"Page 6\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Tekin, Talat (2000). Orhon Türkçesi Grameri. Ankara: TDK</p>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257837,
@@ -1036,8 +972,7 @@
         "D": "<p>Noktalı virgül</p>",
         "E": "<p>Üç nokta</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258019,
@@ -1052,8 +987,7 @@
         "D": "<p>(Kovid-19)</p>",
         "E": "<p>korumak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258045,
@@ -1068,8 +1002,7 @@
         "D": "<p>Kesme işareti</p>",
         "E": "<p>Tek tırnak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258097,
@@ -1084,8 +1017,7 @@
         "D": "<p>Kelime, kelime öbeği ya da cümle biçiminde olan aynen aktarmaların gösteriminde kullanılır.</p>",
         "E": "<p>Olayların yaşandığı, eserlerin yazıldığı, basıldığı tarih veya yer gösteriminde kullanılır.<br /><br /></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258017,
@@ -1100,8 +1032,7 @@
         "D": "<p>(,) (:) (“) (.) (.) (“)</p>",
         "E": "<p>(;) (,) (“) (,) (“) (,)</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258088,
@@ -1116,8 +1047,7 @@
         "D": "<p>Kısa çizgi</p>",
         "E": "<p>Virgül</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257386,
@@ -1132,8 +1062,7 @@
         "D": "<p>20</p>",
         "E": "<p>10</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258041,
@@ -1148,8 +1077,7 @@
         "D": "<p>Virgül</p>",
         "E": "<p>Nokta</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258710,
@@ -1164,8 +1092,7 @@
         "D": "<p>Yeni harfler alındıktan sonra eski yazı ile bir tek kelime bile yazmayan iki kişi görmüşümdür: Atatürk ve İnönü.</p>",
         "E": "<p>Atatürk'ün en güzel sözü bence : Yurtta sulh, cihanda sulh.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257381,
@@ -1180,8 +1107,7 @@
         "D": "<p>Okumayı kolaylaştırır.</p> ",
         "E": "<p>Anlamayı kolaylaştırır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258024,
@@ -1196,8 +1122,7 @@
         "D": "<p>I, III</p>",
         "E": "<p>I, II, III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258093,
@@ -1212,8 +1137,7 @@
         "D": "<p>Soru işareti</p>",
         "E": "<p>Noktalı virgül</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257976,
@@ -1228,8 +1152,7 @@
         "D": "<p>Virgül (,), nokta (.), uzun çizgi (—), soru (?), iki nokta üst üste (:)</p>",
         "E": "<p>Virgül (,), nokta (.), uzun çizgi (—), ünlem (!), nokta (.)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257396,
@@ -1244,8 +1167,7 @@
         "D": "<p>ayraç içinde sıra nokta</p>",
         "E": "<p>ayraç içinde yedi nokta</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257619,
@@ -1260,8 +1182,7 @@
         "D": "<p>Kesme işareti, köşeli ayraç</p>",
         "E": "<p>virgül, tırnak işareti</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258038,
@@ -1276,7 +1197,6 @@
         "D": "<p>Cümlede kelime öbeklerini belirginleştirmek için kullanılır.</p>",
         "E": "<p>Cümlede benzer veya eş değer öğeler, art arda sıralanıyorsa bunların arasına konur.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     }
 ]

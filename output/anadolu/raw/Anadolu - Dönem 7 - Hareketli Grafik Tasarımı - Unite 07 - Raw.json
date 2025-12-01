@@ -12,8 +12,7 @@
         "D": "<p>Analog</p>",
         "E": "<p>Modüler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3682400,
@@ -28,8 +27,7 @@
         "D": "<p>Profesyonel sanatçı ve tasarımcılar ilk eskizlerini dijital ortamda üretmeyi tercih ederler.</p>",
         "E": "<p>Storyboard’un son aşaması ile final üretiminde elde edilen sonuçlar benzerlik göstermektedir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3683198,
@@ -44,8 +42,7 @@
         "D": "<p>1904</p>",
         "E": "<p>1905</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3683237,
@@ -60,8 +57,7 @@
         "D": "<p>CPU</p>",
         "E": "<p>HDD</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3683329,
@@ -76,8 +72,7 @@
         "D": "<p class=\"p1\">Solvent</p>",
         "E": "<p class=\"p1\">Emülsiyon</p> <p class=\"p1\"> </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3683376,
@@ -92,8 +87,7 @@
         "D": "<p>DLRS</p>",
         "E": "<p>DSRL</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3683416,
@@ -108,8 +102,7 @@
         "D": "<p>Okuma kafası</p>",
         "E": "<p>Yazma kafası</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3683438,
@@ -124,8 +117,7 @@
         "D": "<p>After Effects</p>",
         "E": "<p>Adobe Animate</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3683487,
@@ -140,8 +132,7 @@
         "D": "<p class=\"p2\">After Effects zaman çizelgesi, tüm öğelerin düzenlenebileceği bir yerdir.</p>",
         "E": "<p class=\"p2\">Efekt tarayıcısı, zaman çizelgesindeki katmanlara sürüklenip bırakılabilen yüzlerce efekt ve hazır ayarlar içeren bir paneldir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3683508,
@@ -156,7 +147,6 @@
         "D": "<p>Adobe Lightroom</p>",
         "E": "<p>Adobe Bridge</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>modernizmin</p>",
         "E": "<p>medyanın</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603361,
@@ -28,8 +27,7 @@
         "D": "<p>temel ilkelerine</p>",
         "E": "<p>zamanına</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603363,
@@ -44,8 +42,7 @@
         "D": "<p>Ülkeler</p>",
         "E": "<p>Siyasetçiler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603365,
@@ -60,8 +57,7 @@
         "D": "<p>medya</p>",
         "E": "<p>beden</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603367,
@@ -76,8 +72,7 @@
         "D": "<p>Expresyonizm</p> ",
         "E": "<p>Sürrealizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603368,
@@ -92,8 +87,7 @@
         "D": " <p>Postmodern Dönem</p> ",
         "E": "<p>Klasik Dönem</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603370,
@@ -108,8 +102,7 @@
         "D": "<p>Televizyon</p> ",
         "E": "<p>Radyo</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603371,
@@ -124,8 +117,7 @@
         "D": "<p>Reklamlar</p> ",
         "E": "<p>Haberler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603372,
@@ -140,8 +132,7 @@
         "D": "<p>Bireylerin toplum içinde kendilerini konumlandırması</p> ",
         "E": "<p>Normların sağlanması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603374,
@@ -156,8 +147,7 @@
         "D": "<p>Modernizm</p>",
         "E": "<p>Postmodernizm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603375,
@@ -172,8 +162,7 @@
         "D": "<p>Walt Disney</p> ",
         "E": " <p>Marcel Duchamp</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603376,
@@ -188,8 +177,7 @@
         "D": "<p>Panic in the Streets</p> ",
         "E": "<p>Dreams</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840470,
@@ -204,8 +192,7 @@
         "D": "Tüketim kültürünün dışlanmasını",
         "E": "İmge yoluyla gerçekle bağ kurmayı",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840472,
@@ -220,8 +207,7 @@
         "D": "<p>İkinci Dünya Savaşı</p>",
         "E": "İkinci Dünya Savaşı’nın sonu",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840473,
@@ -236,8 +222,7 @@
         "D": "Bilgiye ulaşımı kolaylaştırması<br />",
         "E": "Kültürel çeşitliliği artırması",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840477,
@@ -252,8 +237,7 @@
         "D": "Eğitim eksikliğiyle",
         "E": "Sanatın etkisiyle",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840478,
@@ -268,8 +252,7 @@
         "D": "<p>80’li yıllar</p> <p></p>",
         "E": "90’lı yıllar",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840479,
@@ -284,8 +267,7 @@
         "D": "Politik radikalizmi",
         "E": "Gerçeklikten tamamen uzaklaşmayı",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840480,
@@ -300,8 +282,7 @@
         "D": "Gerçeğin yeniden simüle edilmesi",
         "E": "İletişim araçlarının gerçekliğe hükmetmesi",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840481,
@@ -316,8 +297,7 @@
         "D": "Sanatsal üretimi desteklediği için",
         "E": "Kültürel çeşitliliğe örnek olduğu için",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603356,
@@ -332,8 +312,7 @@
         "D": "<p>Aragon</p>",
         "E": "<p>Ferdinand de Saussure</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603357,
@@ -348,8 +327,7 @@
         "D": "<p>toplumsallığın</p>",
         "E": "<p>bireyciliğin</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603358,
@@ -364,8 +342,7 @@
         "D": "<p>Primitiflik</p>",
         "E": "<p>Uzay</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603362,
@@ -380,8 +357,7 @@
         "D": "<p>Kurgudan </p>",
         "E": "<p>Biçimsellikten </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603364,
@@ -396,8 +372,7 @@
         "D": "<p>tüketim toplumunun</p>",
         "E": "<p>yansıtmacılığın</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603369,
@@ -412,8 +387,7 @@
         "D": "<p>Simülasyon</p> ",
         "E": "<p>Postmodernizm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603373,
@@ -428,8 +402,7 @@
         "D": "<p>Alışveriş merkezleri</p>",
         "E": "<p>Halk pazarları</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840475,
@@ -444,8 +417,7 @@
         "D": "Bilimsel bilgi",
         "E": "Duygusal dayanışma",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603359,
@@ -460,8 +432,7 @@
         "D": "<p>Amerika</p>",
         "E": "<p>Çin</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840476,
@@ -476,7 +447,6 @@
         "D": "Tüketimi bir statü göstergesi olarak benimsedikleri için<br /> <br />",
         "E": "Kamu politikalarına yön vermek için",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     }
 ]

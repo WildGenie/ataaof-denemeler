@@ -12,8 +12,7 @@
         "D": "<p>Tasarım</p>",
         "E": "<p>Donanım</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3593434,
@@ -28,8 +27,7 @@
         "D": "<p>John Warnock - Flash</p>",
         "E": "<p>Bill Gates - Word</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3593438,
@@ -44,8 +42,7 @@
         "D": "<p>Çok yönlü iletişim</p>",
         "E": "<p>Duygusal etki</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3593439,
@@ -60,8 +57,7 @@
         "D": "<p>OBJ</p>",
         "E": "<p>GIF</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3593440,
@@ -76,8 +72,7 @@
         "D": "<p>Prototipleme</p>",
         "E": "<p>Test</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3593441,
@@ -92,8 +87,7 @@
         "D": "<p>Prototipler</p>",
         "E": "<p>Yazılımlar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3593442,
@@ -108,8 +102,7 @@
         "D": "<p>Nurbs eğrileri</p>",
         "E": "<p>Edge eğrileri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3593443,
@@ -124,8 +117,7 @@
         "D": "<p>Mavi-sarı</p>",
         "E": "<p>Kırmızı-sarı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3593445,
@@ -140,8 +132,7 @@
         "D": "<p>Key</p>",
         "E": "<p>Green</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3593446,
@@ -156,8 +147,7 @@
         "D": "<p>Tetrad</p>",
         "E": "<p>Ana</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598529,
@@ -172,8 +162,7 @@
         "D": "<p>Fransız Devrimi</p>",
         "E": "<p>Orta Çağ</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598534,
@@ -188,8 +177,7 @@
         "D": "<p>Canva</p>",
         "E": "<p>Paint</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598541,
@@ -204,8 +192,7 @@
         "D": "<p>WebP</p>",
         "E": "<p>WMA</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598560,
@@ -220,8 +207,7 @@
         "D": "<p>WebM</p>",
         "E": "<p>MOV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598566,
@@ -236,8 +222,7 @@
         "D": "<p>Prototip geliştirme<br /><br /></p>",
         "E": "<p>Geribildirim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598574,
@@ -252,8 +237,7 @@
         "D": "<p>Fikir üretme</p>",
         "E": "<p>Test etme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598578,
@@ -268,8 +252,7 @@
         "D": "<p>Prototipleme</p>",
         "E": "<p>Test Etme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598600,
@@ -284,8 +267,7 @@
         "D": "<p>Netlik</p>",
         "E": "<p>Keskinlik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598603,
@@ -300,7 +282,6 @@
         "D": "<p>RGB</p>",
         "E": "<p>CMYK</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     }
 ]

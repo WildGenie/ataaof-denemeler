@@ -12,8 +12,7 @@
         "D": "<p>Telafi uzunluğu</p>",
         "E": "<p>Seslerin birbirlerini etkilemesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891853,
@@ -28,8 +27,7 @@
         "D": "<p>Dükkân</p>",
         "E": "<p>Hikâye</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891861,
@@ -44,8 +42,7 @@
         "D": "<p>Sözce</p>",
         "E": "<p>Süreksizleşme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891870,
@@ -60,8 +57,7 @@
         "D": "<p>Kitaplık</p>",
         "E": "<p>Kırgın</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891878,
@@ -76,8 +72,7 @@
         "D": "<p>Fıstık</p>",
         "E": "<p>Yoğurtlu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891914,
@@ -92,8 +87,7 @@
         "D": "<p>ü</p>",
         "E": "<p>a</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891925,
@@ -108,8 +102,7 @@
         "D": "<p>Yuvarlaklık</p>",
         "E": "<p>Sıklık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891939,
@@ -124,8 +117,7 @@
         "D": "Kapı – birinci hece",
         "E": "İzmir- ikinci hece",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891953,
@@ -140,8 +132,7 @@
         "D": "<p>radyo</p>",
         "E": "<p>görev</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891964,
@@ -156,8 +147,7 @@
         "D": "Göçüşme",
         "E": "Ünsüz benzeşmesi",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891998,
@@ -172,8 +162,7 @@
         "D": "<p>/ş/</p>",
         "E": "<p>/k/</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892017,
@@ -188,8 +177,7 @@
         "D": "<p>L harfi</p>",
         "E": "<p>Y harfi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892024,
@@ -204,8 +192,7 @@
         "D": "<p>Seslerin birbirini etkilemesi </p>",
         "E": "<p>Yazımın etkisi </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892033,
@@ -220,8 +207,7 @@
         "D": "<p>Ön Damaksıllaşma</p>",
         "E": "<p>Art Damaksıllaşma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892034,
@@ -236,8 +222,7 @@
         "D": "<p>Ünsüz Düşmesi</p>",
         "E": "<p>Yapım Eki</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892040,
@@ -252,8 +237,7 @@
         "D": "<p>Sözcük sonunda /b, c, d, ġ, g/ ünsüzleri bulunmaz.</p> ",
         "E": "<p>Yansıma sözcüklerde “j” sesi yer alabilir.</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892046,
@@ -268,8 +252,7 @@
         "D": "<p>Çok heceli sözcüklerin sonunda -p bulunmaz.</p>",
         "E": "<p>Sözcük ya da hece sonunda belirli ünsüz çiftleri bulunabilir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892054,
@@ -284,8 +267,7 @@
         "D": "<p>düzlük/yuvarlaklık</p>",
         "E": "<p>kısalık/uzunluk</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892068,
@@ -300,8 +282,7 @@
         "D": "<p>pınar</p>",
         "E": "<p>vur</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892082,
@@ -316,8 +297,7 @@
         "D": "<p>Gitme</p>",
         "E": "<p>Jandarma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891846,
@@ -332,8 +312,7 @@
         "D": "<p>ö</p>",
         "E": "<p>ü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891848,
@@ -348,8 +327,7 @@
         "D": "<p>p</p>",
         "E": "<p>s</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891868,
@@ -364,8 +342,7 @@
         "D": "<p>Pazar</p>",
         "E": "<p>Salı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891874,
@@ -380,8 +357,7 @@
         "D": "<p>Cümle vurgusunda sözcüklerden biri vurguludur.</p>",
         "E": "<p>Ses bilgisinde sözcük vurgusu ve cümle vurgusu olmak üzere iki ana vurgu türü vardır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891875,
@@ -396,8 +372,7 @@
         "D": "<p>Benzeşme</p>",
         "E": "<p>Daralma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891881,
@@ -412,8 +387,7 @@
         "D": "<p>p</p>",
         "E": "<p>t</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891910,
@@ -428,8 +402,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>I, II, III ve IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891935,
@@ -444,8 +417,7 @@
         "D": "I,II ve III",
         "E": "I, II, IV ve V",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891948,
@@ -460,8 +432,7 @@
         "D": "b-l",
         "E": "m-n",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891950,
@@ -476,8 +447,7 @@
         "D": "I, II, III, IV",
         "E": "I, III, IV",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891988,
@@ -492,8 +462,7 @@
         "D": "Bugün, yaşayan dünya dilleri arasında, en eski yazılı belgelere sahip olan dil, Türk dilidir.",
         "E": "Türkçe Sümerceden çok daha eski dönemlere ulaşan bir dildir.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892015,
@@ -508,8 +477,7 @@
         "D": "<p>Uzunluk/Kısalık</p>",
         "E": "<p>Yükseklik/Alçaklık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892016,
@@ -524,8 +492,7 @@
         "D": "<p>6</p>",
         "E": "<p>7</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892026,
@@ -540,8 +507,7 @@
         "D": "<p>Daralma </p>",
         "E": "<p>Durak </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892044,
@@ -556,8 +522,7 @@
         "D": "<p>z</p>",
         "E": "<p>f</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892051,
@@ -572,8 +537,7 @@
         "D": "<p>yalnız</p>",
         "E": "<p>kibrit</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892063,
@@ -588,8 +552,7 @@
         "D": "<p>kolektif</p>",
         "E": "<p>öfke</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892071,
@@ -604,8 +567,7 @@
         "D": "<p><span style=\"margin: 0px; line-height: 107%; font-family: 'Times New Roman',serif; font-size: 12pt;\">daracık</span></p>",
         "E": "<p><span style=\"margin: 0px; line-height: 107%; font-family: 'Times New Roman',serif; font-size: 12pt;\">resim</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892075,
@@ -620,8 +582,7 @@
         "D": "<p>Başka dillerin etkisi</p>",
         "E": "<p>En az çaba yasası</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891865,
@@ -636,8 +597,7 @@
         "D": "<p>Yukarı </p>",
         "E": "<p>Yürü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891879,
@@ -652,8 +612,7 @@
         "D": "<p>Bölünen</p>",
         "E": "<p>Kenarlık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891905,
@@ -668,8 +627,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891907,
@@ -684,8 +642,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891916,
@@ -700,8 +657,7 @@
         "D": "<p>l</p>",
         "E": "<p>r</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891933,
@@ -716,8 +672,7 @@
         "D": "Gırtlak-Alt Dudak",
         "E": "Gırtlak-Üst Dudak",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891979,
@@ -732,8 +687,7 @@
         "D": "İtalyanca",
         "E": "Macarca  ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892004,
@@ -748,8 +702,7 @@
         "D": "<p>/b/</p>",
         "E": "<p>/f/</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892010,
@@ -764,8 +717,7 @@
         "D": "<p>&Uuml;nl&uuml; Yuvarlaklaşması</p>",
         "E": "<p>&Uuml;nl&uuml; birleşmesi&nbsp;</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892020,
@@ -780,8 +732,7 @@
         "D": "<p>Anadil ses bilgisi </p>",
         "E": "<p>Gırtlak ses bilgisi </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892027,
@@ -796,8 +747,7 @@
         "D": "<p>Eylem</p>",
         "E": "<p>Yapım Eki</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892032,
@@ -812,8 +762,7 @@
         "D": "<p>Art Damaksıllaşma</p>",
         "E": "<p>Ünlü Yuvarlaklaşması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892038,
@@ -828,8 +777,7 @@
         "D": "<p>Ben sana mecburum bilemezsin.</p>",
         "E": "<p>Beni bu güzel havalar mahvetti.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892060,
@@ -844,8 +792,7 @@
         "D": "<p>/c, ç, ş, y/ Ünsüzlerinin Ön Damaksıllaştırıcı Etkisi</p>",
         "E": "<p>Geniş Orta Hece Ünlüsünün Düşmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892062,
@@ -860,8 +807,7 @@
         "D": "<p>süreksizleşme</p>",
         "E": "<p>ön damaksıllaşma</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891859,
@@ -876,8 +822,7 @@
         "D": "<p>Pembe</p>",
         "E": "<p>Ol</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891873,
@@ -892,8 +837,7 @@
         "D": "<p>Patlıcan</p>",
         "E": "<p>İstasyon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891890,
@@ -908,8 +852,7 @@
         "D": "<p>IV ve V</p>",
         "E": "<p>III,IV ve V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891898,
@@ -924,8 +867,7 @@
         "D": "<p>Çepeçevre</p>",
         "E": "<p>Yaşıyor</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891911,
@@ -940,8 +882,7 @@
         "D": "<p>Ara</p>",
         "E": "<p>Durak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891912,
@@ -956,8 +897,7 @@
         "D": "<p>Tonlama</p>",
         "E": "<p>Sesletim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891949,
@@ -972,8 +912,7 @@
         "D": "Ön ve yuvarlak ünlülerdir.",
         "E": "Dar ve art ünlülerdir.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891977,
@@ -988,8 +927,7 @@
         "D": "Ali Şir Nevai ",
         "E": "Yusuf Has Hacip",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891989,
@@ -1004,8 +942,7 @@
         "D": "Konuşma diliyle yazı dili arasındaki ayrılıkları ortadan kaldırmak",
         "E": "Zengin kurallara ve anlatım gücüne sahip bir dil oluşturmak",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891992,
@@ -1020,8 +957,7 @@
         "D": "<p>Ezgi</p>",
         "E": "<p>Vurgu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892005,
@@ -1036,8 +972,7 @@
         "D": "<p>/ş/</p>",
         "E": "<p>/v/</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892041,
@@ -1052,8 +987,7 @@
         "D": "<p>Nasıl bir yaşam sürdürmeyi düşlüyorsun?</p> ",
         "E": "<p>Arkadaşıma, en büyük hediyeyi ben aldım.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892045,
@@ -1068,8 +1002,7 @@
         "D": "<p>k</p>",
         "E": "<p>y</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892047,
@@ -1084,8 +1017,7 @@
         "D": "<p>sıtma</p>",
         "E": "<p>biricik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892056,
@@ -1100,8 +1032,7 @@
         "D": "<p>Türkçe kökenli sözlerde istisnai birkaç sözcüğün dışında birincil uzun ünlü bulunmaz.</p>",
         "E": "<p>Farklı hecelerde iki ünlü yan yana gelebilir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891844,
@@ -1116,8 +1047,7 @@
         "D": "<p>harfler</p>",
         "E": "<p>sesler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891877,
@@ -1132,8 +1062,7 @@
         "D": "<p>Sarışın</p>",
         "E": "<p>Azıcık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891886,
@@ -1148,8 +1077,7 @@
         "D": "<p>/i/</p>",
         "E": "<p>/e/</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891896,
@@ -1164,8 +1092,7 @@
         "D": "<p>Firma</p>",
         "E": "<p>Balık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891897,
@@ -1180,8 +1107,7 @@
         "D": "<p>Resim</p>",
         "E": "<p>Gözlük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891920,
@@ -1196,8 +1122,7 @@
         "D": "<p>Soruda</p>",
         "E": "<p>Salonda</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891923,
@@ -1212,8 +1137,7 @@
         "D": "<p>Akustik ses bilgisi</p>",
         "E": "<p>İşitsel ses bilgisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891947,
@@ -1228,8 +1152,7 @@
         "D": "Sintaks",
         "E": "Sesbirim",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891967,
@@ -1244,8 +1167,7 @@
         "D": "Ses yarığı",
         "E": "Küçük dil",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891980,
@@ -1260,8 +1182,7 @@
         "D": "Kıpçak Türkçesi",
         "E": "Çağatay Türkçesi ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892013,
@@ -1276,8 +1197,7 @@
         "D": "<p>1932</p>",
         "E": "<p>1933</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892057,
@@ -1292,8 +1212,7 @@
         "D": "<p>Yazılışta söz başında iki ünsüz bulunan sözcükler yabancı kökenlidir.</p>",
         "E": "<p>Sözcük kökünde uzun ünsüz olabilir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891833,
@@ -1308,8 +1227,7 @@
         "D": "<p>Damak</p>",
         "E": "<p>Dil</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891850,
@@ -1324,8 +1242,7 @@
         "D": "<p>kolej</p>",
         "E": "<p>kurs</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891867,
@@ -1340,8 +1257,7 @@
         "D": "<p>Konuşma sesleri üretim ve algılanma aşamalarından işitsel ses bilgisi <em>\"Dinleyenler sesleri nasıl algılar?\"</em> sorusuna cevap verir.</p>",
         "E": "<p>Konuşma seslerinin büyük bir bölümü dünya dillerinde ortaktır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891941,
@@ -1356,8 +1272,7 @@
         "D": "d)\tI, IV ve V",
         "E": "e)\tIII ve IV",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891957,
@@ -1372,8 +1287,7 @@
         "D": "Dudaklar",
         "E": "Halka kıkırdak",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891969,
@@ -1388,8 +1302,7 @@
         "D": "art ünlü - geniş ünlü",
         "E": "art ünlü - ön ünlü",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891981,
@@ -1404,8 +1317,7 @@
         "D": "<p>10 Ocak 1935</p>",
         "E": "<p>21 Aralık 1936</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891983,
@@ -1420,8 +1332,7 @@
         "D": "Göktürk devletinin kuruluşunu anlatır.",
         "E": "Türk yazı dillerinin yok oluşunu konu edinir.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891997,
@@ -1436,8 +1347,7 @@
         "D": "<p>Alt/üst</p>",
         "E": "<p>Sürekli/süreksiz</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892002,
@@ -1452,8 +1362,7 @@
         "D": "<p>koridor</p>",
         "E": "<p>bıyık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892006,
@@ -1468,8 +1377,7 @@
         "D": "<p>çizgi</p>",
         "E": "<p>bilgi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892011,
@@ -1484,8 +1392,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892049,
@@ -1500,8 +1407,7 @@
         "D": "<p>yüksek</p>",
         "E": "<p>minicik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892064,
@@ -1516,8 +1422,7 @@
         "D": "<p>I, III, V</p>",
         "E": "<p>II, III, IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892073,
@@ -1532,8 +1437,7 @@
         "D": "<p>sapasağlam</p>",
         "E": "<p>sokaktan</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891832,
@@ -1548,8 +1452,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891845,
@@ -1564,8 +1467,7 @@
         "D": "<p>ü</p>",
         "E": "<p>b</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891889,
@@ -1580,8 +1482,7 @@
         "D": "<p>t</p>",
         "E": "<p>s</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891901,
@@ -1596,8 +1497,7 @@
         "D": "<p>Proje</p>",
         "E": "<p>Otobüs</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891904,
@@ -1612,8 +1512,7 @@
         "D": "<p>Alfabe</p>",
         "E": "<p>Transkripsiyon alfabesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891906,
@@ -1628,8 +1527,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891938,
@@ -1644,8 +1542,7 @@
         "D": "<p>Süreklileşme: öpke > öfke</p>",
         "E": "<p>Hece Düşmesi: ilerile > ilerle</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891965,
@@ -1660,8 +1557,7 @@
         "D": "<p>edebiyyat &gt; edebiyat</p>",
         "E": "<p>dahi &gt; daha</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891973,
@@ -1676,8 +1572,7 @@
         "D": "gri",
         "E": "al",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891982,
@@ -1692,8 +1587,7 @@
         "D": "<p>Mukaddimetü'l-Edeb</p>",
         "E": "<p>Divan-ı Hikmet</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891995,
@@ -1708,8 +1602,7 @@
         "D": "<p>I, III</p>",
         "E": "<p>II, III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891999,
@@ -1724,8 +1617,7 @@
         "D": "<p>Ünlü birleşmesi: kahve altı > kahvaltı</p>",
         "E": "<p>Ünlü düzleşmesi: kapu > kapı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892001,
@@ -1740,8 +1632,7 @@
         "D": "<p>bel</p>",
         "E": "<p>nazik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892035,
@@ -1756,8 +1647,7 @@
         "D": "<p>Daralma</p>",
         "E": "<p>Ünsüz Benzeşmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893475,
@@ -1772,8 +1662,7 @@
         "D": "<p>Pınar</p>",
         "E": "<p>Sönük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891842,
@@ -1788,8 +1677,7 @@
         "D": "<p>şekil bilgisi</p>",
         "E": "<p>morfoloji</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891856,
@@ -1804,8 +1692,7 @@
         "D": "<p>Horoz</p>",
         "E": "<p>Garip</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891872,
@@ -1820,8 +1707,7 @@
         "D": "<p>Sarfetmek</p>",
         "E": "<p>Hapsetmek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891893,
@@ -1836,8 +1722,7 @@
         "D": "<p>Yastık</p>",
         "E": "<p>Biblo</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891927,
@@ -1852,8 +1737,7 @@
         "D": "<p>Türkçe kökenli sözcüklerde bulunan /h, v/ ikincil ünsüzlerdir.</p>",
         "E": "<p>Söz başında /c, f, ğ, h/ ünsüzleri bulunabilir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892007,
@@ -1868,8 +1752,7 @@
         "D": "<p>semt</p>",
         "E": "<p>g&uuml;l&uuml;n&ccedil;</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892014,
@@ -1884,8 +1767,7 @@
         "D": "<p>9</p>",
         "E": "<p>10</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892019,
@@ -1900,8 +1782,7 @@
         "D": "<p>Süreksizleşme</p>",
         "E": "<p>Hece Düşmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892042,
@@ -1916,8 +1797,7 @@
         "D": "<p>Güzel</p>",
         "E": "<p>Beyaz</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892048,
@@ -1932,8 +1812,7 @@
         "D": "<p>seviyor</p>",
         "E": "<p>bekliyor</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892065,
@@ -1948,8 +1827,7 @@
         "D": "<p>e</p>",
         "E": "<p>ü</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891849,
@@ -1964,8 +1842,7 @@
         "D": "<p>h</p>",
         "E": "<p>m</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891908,
@@ -1980,8 +1857,7 @@
         "D": "<p>8</p>",
         "E": "<p>9</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891945,
@@ -1996,8 +1872,7 @@
         "D": "Aynı hecede iki ünlünün yan yana gelmesi çok istisnaî bir durumdur.",
         "E": "Birincil uzun ünlü bulunduran sözcükler genellikle başka dillerden alıntıdır.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891952,
@@ -2012,8 +1887,7 @@
         "D": "h",
         "E": "j",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891996,
@@ -2028,8 +1902,7 @@
         "D": "<p>II, IV</p>",
         "E": "<p>II, III, IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892009,
@@ -2044,8 +1917,7 @@
         "D": "<p>&Ouml;t&uuml;ml&uuml;leşme&nbsp;</p>",
         "E": "<p>G&ouml;&ccedil;&uuml;şme&nbsp;</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892055,
@@ -2060,8 +1932,7 @@
         "D": "<p>t</p>",
         "E": "<p>y</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892070,
@@ -2076,8 +1947,7 @@
         "D": "<p>ünlü düzleşmesi</p>",
         "E": "<p>ünlü türemesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892078,
@@ -2092,8 +1962,7 @@
         "D": "<p>Tiyatro</p>",
         "E": "<p>Bilgin</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891888,
@@ -2108,8 +1977,7 @@
         "D": "<p>/ü/</p>",
         "E": "<p>/e/</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891892,
@@ -2124,8 +1992,7 @@
         "D": "<p>kapı&gt;gapı</p>",
         "E": "<p>barmak&gt;parmak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891894,
@@ -2140,8 +2007,7 @@
         "D": "<p>Yünlü</p>",
         "E": "<p>Köfte</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891900,
@@ -2156,8 +2022,7 @@
         "D": "<p>Yarışta</p>",
         "E": "<p>Diyalog</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891929,
@@ -2172,8 +2037,7 @@
         "D": "<p>CVCC</p>",
         "E": "<p>VCVV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891932,
@@ -2188,8 +2052,7 @@
         "D": "<p>Ham ses ötümlü hâle gelir</p>",
         "E": "<p>Ham ses ötümsüz hâle gelir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891960,
@@ -2204,8 +2067,7 @@
         "D": "ğ, y",
         "E": "m, n",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892058,
@@ -2220,8 +2082,7 @@
         "D": "<p>devrim </p>",
         "E": "<p>yeni</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892067,
@@ -2236,8 +2097,7 @@
         "D": "<p>vinç</p>",
         "E": "<p>jandarma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892079,
@@ -2252,8 +2112,7 @@
         "D": "<p>Çocuklar</p>",
         "E": "<p>Pskiyatri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891876,
@@ -2268,8 +2127,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891899,
@@ -2284,8 +2142,7 @@
         "D": "<p>Ünlü genişlemesi</p>",
         "E": "<p>Ünlü düzleşmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891919,
@@ -2300,8 +2157,7 @@
         "D": "<p>p</p>",
         "E": "<p>l</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891924,
@@ -2316,8 +2172,7 @@
         "D": "<p>Gösterge işaretler</p>",
         "E": "<p>Tamamlayıcı işaretler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891934,
@@ -2332,8 +2187,7 @@
         "D": "Konuşma seslerini, özelliklerini, türleri, sözcüklerdeki sıralanışları, görevleri ve uğradıkları değişmeler açısından araştıran, sınıflandıran ve herhangi bir kurama dayalı olmayan, genellikle fiziksel yönleri ağır basan dil bilgisi dalına verilen addır.",
         "E": "Dilin vurgu ve tonlama dizgelerini ele alan konuşma seslerine verilen addır.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892023,
@@ -2348,8 +2202,7 @@
         "D": "<p>Kurt </p>",
         "E": "<p>Çiğ</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892050,
@@ -2364,8 +2217,7 @@
         "D": "<p>gencecik</p>",
         "E": "<p>apaçık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892066,
@@ -2380,8 +2232,7 @@
         "D": "<p>I, II, IV, V </p>",
         "E": "<p>II, III, IV, V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892081,
@@ -2396,8 +2247,7 @@
         "D": "<p>süreklileşme</p>",
         "E": "<p>ünsüz aykırılaşması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891852,
@@ -2412,8 +2262,7 @@
         "D": "<p>Dil</p>",
         "E": "<p>Yumuşak damak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891857,
@@ -2428,8 +2277,7 @@
         "D": "<p>Varlık</p>",
         "E": "<p>Sert</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891946,
@@ -2444,8 +2292,7 @@
         "D": "Daralma",
         "E": "Süreklileşme",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891985,
@@ -2460,8 +2307,7 @@
         "D": "Batı (Eski Oğuz) Türkçesi",
         "E": "Hun Dönemi",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891986,
@@ -2476,8 +2322,7 @@
         "D": "<p>Harzem Dönemi</p>",
         "E": "<p>Hun Dönemi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892029,
@@ -2492,8 +2337,7 @@
         "D": "<p>Yapım Eki</p>",
         "E": "<p>Çekim Eki</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892069,
@@ -2508,8 +2352,7 @@
         "D": "<p>fikir</p>",
         "E": "<p>kabul</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892074,
@@ -2524,8 +2367,7 @@
         "D": "<p>Renk</p>",
         "E": "<p>Ağaç</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892080,
@@ -2540,8 +2382,7 @@
         "D": "<p>Taç</p>",
         "E": "<p>Hayat</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891902,
@@ -2556,8 +2397,7 @@
         "D": "<p>G&ouml;&ccedil;&uuml;şme</p>",
         "E": "<p>&Ouml;t&uuml;ms&uuml;zleşme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891943,
@@ -2572,8 +2412,7 @@
         "D": "<p>I, II, IV</p>",
         "E": "<p>II, III, V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891956,
@@ -2588,8 +2427,7 @@
         "D": "<p>Telafi uzunluğu</p>",
         "E": "<p>En az çaba ilkesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891978,
@@ -2604,8 +2442,7 @@
         "D": "Bakü Türkoloji Kongresi ",
         "E": "Kaşgar Türkoloji Kongresi ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892053,
@@ -2620,8 +2457,7 @@
         "D": "<p>vicdan</p>",
         "E": "<p>öfke</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891836,
@@ -2636,8 +2472,7 @@
         "D": "<p>Sürekli</p>",
         "E": "<p>Ötümlü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891851,
@@ -2652,8 +2487,7 @@
         "D": "<p>üye</p>",
         "E": "<p>fuaye</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891884,
@@ -2668,8 +2502,7 @@
         "D": "<p>Geniz boşluğu</p>",
         "E": "<p>Yutak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891909,
@@ -2684,8 +2517,7 @@
         "D": "<p>I, III</p>",
         "E": "<p>I, II, III ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892000,
@@ -2700,8 +2532,7 @@
         "D": "<p>Ötümsüzleşme: beg &gt; beğ &gt; bey</p>",
         "E": "<p>Ünsüz ikizleşmesi: ana &gt; anne</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892022,
@@ -2716,8 +2547,7 @@
         "D": "<p>/e, i/</p>",
         "E": "<p>/e, ü/</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892043,
@@ -2732,8 +2562,7 @@
         "D": "<p>Ben</p>",
         "E": "<p>Gerçekleştirdim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891840,
@@ -2748,8 +2577,7 @@
         "D": "<p>Ünlü düzleşmesi</p>",
         "E": "<p>Ünlü benzeşmesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891966,
@@ -2764,8 +2592,7 @@
         "D": "Algılama",
         "E": "Değerlendirme",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891968,
@@ -2780,8 +2607,7 @@
         "D": "İşitsel ses bilgisi",
         "E": "Sesçil",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891970,
@@ -2796,8 +2622,7 @@
         "D": "Seslerin birbirini etkilemesi",
         "E": "Yazımın etkisi",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891838,
@@ -2812,8 +2637,7 @@
         "D": "<p>İkiz ve üçüz ünlü vardır.</p>",
         "E": "<p>Yabancı kökenli sözcüklerdeki birincil uzunlukların büyük bölümü cahil, mavi, örneklerinde görüldüğü gibi yazıda gösterilebilir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891883,
@@ -2828,8 +2652,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891891,
@@ -2844,8 +2667,7 @@
         "D": "<p>sarı</p>",
         "E": "<p>kıyı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891921,
@@ -2860,8 +2682,7 @@
         "D": "<p>Fasıl</p>",
         "E": "<p>Kahvaltı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891930,
@@ -2876,8 +2697,7 @@
         "D": "<p>En Çok Çaba Yasası</p>",
         "E": "<p>Nedensiz Ön Damaksıllaşmalar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891835,
@@ -2892,8 +2712,7 @@
         "D": "<p>Üst ön dişlerin hemen üstünde diş eti ile ön damağın birleştiği yerde oluşur.</p>",
         "E": "<p>Gırtlakta oluşur.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891944,
@@ -2908,8 +2727,7 @@
         "D": "Sözcüğün özgün biçiminde bulunmayan bir ünlünün sonradan çeşitli nedenlerle ortaya çıkmasıdır.",
         "E": "Sözcüğü oluşturan ünlülerden birinin çeşitli nedenlerle kaybolmasıdır.",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892052,
@@ -2924,8 +2742,7 @@
         "D": "<p>uçakta</p>",
         "E": "<p>ineği</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892076,
@@ -2940,8 +2757,7 @@
         "D": "<p>yatak</p>",
         "E": "<p>dolap</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891841,
@@ -2956,8 +2772,7 @@
         "D": "<p>Tonlama</p>",
         "E": "<p>Birim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891882,
@@ -2972,8 +2787,7 @@
         "D": "<p>III ve IV</p>",
         "E": "<p>I, II ,III&nbsp; ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891887,
@@ -2988,8 +2802,7 @@
         "D": "<p>kapı&gt;gapı</p>",
         "E": "<p>barmak&gt;parmak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891918,
@@ -3004,8 +2817,7 @@
         "D": "<p>Yalın</p>",
         "E": "<p>Mozaik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891928,
@@ -3020,8 +2832,7 @@
         "D": "<p>Düz ünlülerden sonra düz-geniş ünlüler gelebilir.</p>",
         "E": "<p>Düz ünlülerden sonra ancak yuvarlak ünlüler gelebilir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891937,
@@ -3036,8 +2847,7 @@
         "D": "Türk Dil Kurumu Başkan'ına",
         "E": "Milli Eğitim Temel Kanunu'na",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891975,
@@ -3052,8 +2862,7 @@
         "D": "Türkçede iki ünsüz yan yana gelemez.",
         "E": "Sözcük sonunda /b, c, d, g, g/ ünsüzleri bulunmaz.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891976,
@@ -3068,8 +2877,7 @@
         "D": "<p>1935</p>",
         "E": "<p>1936</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891991,
@@ -3084,8 +2892,7 @@
         "D": "<p>I, II, III</p>",
         "E": "<p>II, III, IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892072,
@@ -3100,8 +2907,7 @@
         "D": "<p><span style=\"margin: 0px; line-height: 107%; font-family: 'Times New Roman',serif; font-size: 12pt;\">bey</span></p>",
         "E": "<p>tezgah</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891951,
@@ -3116,8 +2922,7 @@
         "D": "n, v",
         "E": "b, c",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891955,
@@ -3132,8 +2937,7 @@
         "D": "III, IV, V",
         "E": "I, II, III, IV, V",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891959,
@@ -3148,8 +2952,7 @@
         "D": "t, v",
         "E": "m, n",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891972,
@@ -3164,8 +2967,7 @@
         "D": "Sözcük yada hece sonunda tüm ünsüz çiftleri bulunabilir.",
         "E": "Sözcüklerin kökünde iki ünsüz/uzun ünsüz bulunabilir.",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891984,
@@ -3180,8 +2982,7 @@
         "D": "Çin Alfabesi",
         "E": "Latin Alfabesi",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891862,
@@ -3196,8 +2997,7 @@
         "D": "<p>e ve o</p>",
         "E": "<p>a ve o</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891895,
@@ -3212,8 +3012,7 @@
         "D": "<p>s</p>",
         "E": "<p>k</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891961,
@@ -3228,8 +3027,7 @@
         "D": "g, l, m",
         "E": "n, r, y",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891971,
@@ -3244,8 +3042,7 @@
         "D": "Tonlama",
         "E": "Ötümsüzleşme",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891855,
@@ -3260,8 +3057,7 @@
         "D": "<p>/f/</p>",
         "E": "<p>/m/</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891915,
@@ -3276,8 +3072,7 @@
         "D": "<p>u</p>",
         "E": "<p>ö</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891940,
@@ -3292,8 +3087,7 @@
         "D": "Sesleri fiziksel özelliklerine göre inceleyerek sınıflandırma",
         "E": "Sesler ile harfler arasındaki ilişkileri düzenleme",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892059,
@@ -3308,8 +3102,7 @@
         "D": "<p>yukarı</p>",
         "E": "<p>yalnız</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891837,
@@ -3324,8 +3117,7 @@
         "D": "<p>Türkçe kökenli sözcüklerde bulunan /c, f, ğ, h, v/ ikincil ünsüzlerdir.</p>",
         "E": "<p>Sözcük sonunda /b, c, d, ġ, g/ ünsüzleri bulunmaz.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891962,
@@ -3340,8 +3132,7 @@
         "D": "kolon",
         "E": "kontör",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892030,
@@ -3356,8 +3147,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892077,
@@ -3372,8 +3162,7 @@
         "D": "<p>Masa</p>",
         "E": "<p>Toka</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891926,
@@ -3388,8 +3177,7 @@
         "D": "<p>dar</p>",
         "E": "<p>yüksek</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891994,
@@ -3404,8 +3192,7 @@
         "D": "<p>/e/</p>",
         "E": "<p>/a/</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891858,
@@ -3420,8 +3207,7 @@
         "D": "<p>Ünlü genişlemesi</p>",
         "E": "<p>Ünlü yuvarlaklaşması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891903,
@@ -3436,8 +3222,7 @@
         "D": "<p>Fonetik</p>",
         "E": "<p>Ses</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891931,
@@ -3452,8 +3237,7 @@
         "D": "<p>Durak</p>",
         "E": "<p>Hece düşmesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892012,
@@ -3468,8 +3252,7 @@
         "D": "<p>Dil</p>",
         "E": "<p>Kulak</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891864,
@@ -3484,8 +3267,7 @@
         "D": "<p>Yalnız</p>",
         "E": "<p>Yanlış</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891917,
@@ -3500,8 +3282,7 @@
         "D": "<p>Koruk</p>",
         "E": "<p>Sinek</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891990,
@@ -3516,8 +3297,7 @@
         "D": "Gülşehri",
         "E": "Ahmet Yesevi",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891936,
@@ -3532,8 +3312,7 @@
         "D": "İki sessizlik periyodu arasındaki konuşmadır.",
         "E": "Sürekli ünsüzlerin süreksiz ünsüzlere dönüşmesidir.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892018,
@@ -3548,8 +3327,7 @@
         "D": "<p>Türkçede iki ünsüz ve üç ünsüz yan yana gelemez</p>",
         "E": "<p>Sözcük kökünde ya da hece sonunda yan yana üç ünsüz bulunmaz</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891963,
@@ -3564,8 +3342,7 @@
         "D": "Seslerin birbirini etkilemesi",
         "E": "Yazımın etkisi",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892021,
@@ -3580,8 +3357,7 @@
         "D": "<p>Kefir</p>",
         "E": "<p>Sağlık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892036,
@@ -3596,8 +3372,7 @@
         "D": "<p>Ünsüz Daralması</p>",
         "E": "<p>Tonlama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891866,
@@ -3612,8 +3387,7 @@
         "D": "<p>Fransa</p>",
         "E": "<p>Japonya</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892061,
@@ -3628,8 +3402,7 @@
         "D": "<p>için</p>",
         "E": "<p>cumartesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892031,
@@ -3644,8 +3417,7 @@
         "D": "<p>Çekim Eki</p>",
         "E": "<p>Yüklem</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892037,
@@ -3660,7 +3432,336 @@
         "D": "<p>Dil bilgisinin, fiziksel yönünü ele alır.</p>",
         "E": "<p>Net bir kuram çerçevesinde incelenir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891847,
+        "UniteNo": 3,
+        "PageNumber": 69,
+        "AnswerExplanation": "<p>k</p>",
+        "Title": "<p>Üst ön dişlerin arkasında diş ünsüzleri /d, n, s, t, z/ ünsüzleri oluşur.</p>",
+        "Text": "<p>Aşağıdakilerden hangisi bir diş ünsüzü değildir?</p>",
+        "A": "<p>d</p>",
+        "B": "<p>k</p>",
+        "C": "<p>n</p>",
+        "D": "<p>s</p>",
+        "E": "<p>t</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891885,
+        "UniteNo": 3,
+        "PageNumber": 66,
+        "AnswerExplanation": "<p>Ağız boşluğunun ön ve art bölümleriyle ilgili karşıtlık; /a/-/e/, /ı/-/i/, /o/-/ö/, /u/-/ü/ ayrımlarını belirler. Dilin ön tarafının tümsekleşmesiyle ağzın<br />arka bölgesinde art ünlüler /a, ı, o, u/, dilin arka tarafının tümsekleşmesiyle ağız<br />boşluğunun ön tarafında ön ünlüler /e, i, ö, ü/ oluşur.</p>",
+        "Title": "<p>Ünlülerin sınıflandırılması</p>",
+        "Text": "<p> Ağız boşluğunun ön ve art bölümleriyle  ilgili  karşıtlık  /a/-/e/, /ı/-/i/, /o/-/ö/, /u/-/ü/ ayrımlarını belirleyen ölçüt hangisidir?</p>",
+        "A": "<p>Darlık/ Genişlik</p>",
+        "B": "<p>Artlık/ Önlük</p>",
+        "C": "<p>Düzlük/ Yuvarlaklık</p>",
+        "D": "<p>Ünsüzler</p>",
+        "E": "<p>Uzunluk/ Kısalık</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891913,
+        "UniteNo": 3,
+        "PageNumber": 65,
+        "AnswerExplanation": "<p>ğ harfi Türkçe kelimelerin başında bulunmaz. Doğru cevap C'dir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki harflerden hangisi Türkçe kelimelerin başında bulunmaz?</p>",
+        "A": "<p>s</p>",
+        "B": "<p>t</p>",
+        "C": "<p>ğ</p>",
+        "D": "<p>k</p>",
+        "E": "<p>b</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892039,
+        "UniteNo": 3,
+        "PageNumber": 68,
+        "AnswerExplanation": "<p>Türkçede sert ünsüzlerle biten sözcükler d,c,g ünsüzlerinden biri ile başlayan ek aldıklarında d t'ye, c ç'ye ve g de k'ye dönüşür. Bu durumda B seçeneğindeki sözcükte bu durum yoktur.</p>",
+        "Title": "<p>Ünsüzler başlığı altındaki bilgileri gözden geçiriniz.</p>",
+        "Text": "<p>Aşağıdaki cümlelerde altı çizili sözcüklerin hangisinde ünsüz benzeşmesi yoktur?</p>",
+        "A": "<p>Mutfaktaki<span style=\"text-decoration: underline;\"> raftan</span> reçel kavanozunu getirir misin?</p>",
+        "B": "<p><span style=\"text-decoration: underline;\">Tavandan</span> sarkan örümcek ağını görüyor musun?</p>",
+        "C": "<p>Denizden geçip <span style=\"text-decoration: underline;\">ırmakta</span> boğulmak istemem.</p>",
+        "D": "<p>Araba <span style=\"text-decoration: underline;\">yamaçtan</span> aşağıya hızla yuvarlanmış.</p>",
+        "E": "<p><span style=\"text-decoration: underline;\">Marketteki</span> ürün çeşitliliği baş döndürücü.</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891843,
+        "UniteNo": 3,
+        "PageNumber": 64,
+        "AnswerExplanation": "<p>akciğerler</p>",
+        "Title": "<p>Ses yolunun başlangıcında akciğerler vardır. Akciğerlerden diyaframın ve göğüs kaslarının itmesiyle pompalanan hava, ses yolunda ilk durak olan ses tellerine gelir.</p>",
+        "Text": "<p>Ses yolunun başlangıcında hangi organ yer alır?</p>",
+        "A": "<p>dudak</p>",
+        "B": "<p>dil</p>",
+        "C": "<p>dişler</p>",
+        "D": "<p>akciğerler</p>",
+        "E": "<p>diyafram</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891987,
+        "UniteNo": 3,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi “Yeni Lisan Hareketinin” ilkelerinden biri değildir?",
+        "A": "Yazı dilini konuşma diline yaklaştırmak",
+        "B": "Tamlamaları, Türkçe kurallara göre yapmak",
+        "C": "Öteki Türk lehçelerinden kelime almamak",
+        "D": "Dilimizdeki Arapça ve Farsça gramer kurallarını kullanmamak",
+        "E": "Dilimize girmiş olan Arapça ve Farsça sözcükleri dilimizden atmak",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892008,
+        "UniteNo": 3,
+        "PageNumber": 80,
+        "AnswerExplanation": "<p>Daralma; benzeşme, daraltıcı &uuml;ns&uuml;zlerin etkisi vb. seslik nedenlerle geniş &uuml;nl&uuml;lerin dar</p>\n<p>&uuml;nl&uuml; haline gelmesidir. &ldquo;de-&ldquo; eylemindeki geniş /e/ &uuml;nl&uuml;s&uuml; /y/ &uuml;ns&uuml;z&uuml;n&uuml;n etkisiyle dar /i/ &uuml;nl&uuml;s&uuml;ne d&ouml;n&uuml;şm&uuml;şt&uuml;r. Doğru cevap B&rsquo;dir.</p>",
+        "Title": "",
+        "Text": "Aşağıdaki c&uuml;mlelerin hangisinde bir &uuml;nl&uuml; daralması &ouml;rneği vardır?",
+        "A": "<p>Bu konular ilgi alanıma giriyor.</p>",
+        "B": "<p>Bir daha ge&ccedil; kalmayın, diyor.</p>",
+        "C": "<p>K&ouml;pek havlayarak yaklaşıyor.</p>",
+        "D": "<p>G&ouml;zleri karanlıkta kayboluyor.</p>",
+        "E": "<p>Durumun ciddiyetini fark ediyor.</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891880,
+        "UniteNo": 3,
+        "PageNumber": 79,
+        "AnswerExplanation": "<p>Ağla-yor → ağlıyor ünlü daralmasına bir örnektir. Doğru cevap C'dir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki sözcüklerin hangisinde ünlü daralması vardır?</p>",
+        "A": "<p>Gelecek.</p>",
+        "B": "<p>Düştü.</p>",
+        "C": "<p>Ağlıyor.</p>",
+        "D": "<p>Küsmüş</p>",
+        "E": "<p>Kısaldı.</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891854,
+        "UniteNo": 3,
+        "PageNumber": 67,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">/o/ sesi, art, geniş ve yuvarlak bir ünlüdür. Bu sesin yalnızca darlığı değiştirildiğinde art, dar, yuvarlak bir ses olan /u/ ortaya çıkar. Doğru cevap C’ dir.</p>",
+        "Title": "",
+        "Text": "<p><em>Sor</em> sözcüğündeki ünlünün yalnızca darlığı değiştirildiğinde hangi sözcük elde edilir?</p> ",
+        "A": "<p>Ser</p> ",
+        "B": "<p>Sır</p> ",
+        "C": "<p>Sur</p> ",
+        "D": "<p>Sür</p>",
+        "E": "<p>Sar</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892003,
+        "UniteNo": 3,
+        "PageNumber": 68,
+        "AnswerExplanation": "<p>Türkçedeki art-düz ünlüler /a/, /ı/ dır. \"adım\" sözcüğü bu ünlülerden oluşmuştur. Doğru cevap C’dir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki seçeneklerin hangisinde yalnızca art-düz ünlülerin bulunduğu bir sözcük vardır?</p>",
+        "A": "<p>hafif</p>",
+        "B": "<p>kopuk</p>",
+        "C": "<p>adım</p>",
+        "D": "<p>ilan</p>",
+        "E": "<p>selam</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891863,
+        "UniteNo": 3,
+        "PageNumber": 74,
+        "AnswerExplanation": "<p>Yuarıdaki iadelerden sadece C seçeneği doğrudur. Sözcük ya da hece sonunda belirli ünsüz çiftleri bulunabilir: Söz ya da hece sonunda bulunan ünsüz çiftlerinin tamamında ilk ünsüz akıcı /l, n, r/ ünsüzlerinden biri veya /s/dir. </p>\n<p>-LÇ: ölç, -LK: ilk, -LP: alp, -LḲ: kalḳ, -LT: alt, -NÇ: korkunç, -NK: denk, -NT: ant,<br />-RÇ: sürç, -RK: Türk, -RḲ: sarḳ, -RP: sarp, -RS: pars, -RT: sürt, -ST: üst.</p>",
+        "Title": "",
+        "Text": "<p>Türkçede ünsüz harflerle ilgili ses özellikleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?</p>",
+        "A": "<p>Sözcük kökünde ya da hece sonunda yan yana üç ünsüz bulunabilir.</p>",
+        "B": "<p>Çok heceli sözcüklerin sonunda -p bulunabilir.</p>",
+        "C": "<p>Sözcük ya da hece sonunda belirli ünsüz çiftleri bulunabilir.</p>",
+        "D": "<p>Sözcük kökünde ikiz ünsüz/uzun ünsüz bulunabilir.</p>",
+        "E": "<p>Türkçede en fazla dört ünsüz yan yana gelebilir.</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891993,
+        "UniteNo": 3,
+        "PageNumber": 66,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Ünlüler; oluştukları yere, dilin veya çenenin yüksekliğine, dudakların durumuna göre biçimlenir. /a, ı, o, u/ art ünlülerdir. /a, e, ı, i/ düz ünlülerdir. Ancak geniş ünlüler /a, e, o, ö/ şeklindedir.</p>",
+        "Title": "",
+        "Text": "<p>I. Oluştukları yere, dilin veya çenenin yüksekliğine, dudakların durumuna göre biçimlenir.</p> <p>II. /a, ı, o, u/ art ünlülerdir.</p> <p>III. /o, ö, u, ü/ geniş ünlülerdir.</p> <p>IV. /ı, i, u, ü/ dar ünlülerdir. </p> <p>Yukarıda ünlüler ile ilgili verilen ifadelerden hangisi doğrudur?</p>",
+        "A": "<p>Yalnız II</p>",
+        "B": "<p>Yalnız III</p>",
+        "C": "<p>I, IV</p>",
+        "D": "<p>II, III</p>",
+        "E": "<p>I, II, IV</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891860,
+        "UniteNo": 3,
+        "PageNumber": 86,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Vurgu, durak, tonlamaya dil incelemelerinde parçalanabilen ögelerden ayrı düşünülmediği ve konuşma dilinin vazgeçilmez ögeleri olduğunu göstermek için parçalar üstü ses birimleri denilmektedir. Doğru cevap B’ dir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi parçalar üstü ses birimlerindendir?</p>",
+        "A": "<p>Ötüm</p>",
+        "B": "<p>Tonlama</p>",
+        "C": "<p>Titreşim</p>",
+        "D": "<p>Göçüşme</p>",
+        "E": "<p>Süreklilik</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891942,
+        "UniteNo": 3,
+        "PageNumber": 71,
+        "AnswerExplanation": "\" Ölçünlü Türkçede dudak uyumu veya düzlük-yuvarlaklık\tuyumu adı verilen uyuma göre düz ünlülerden sonra ancak düz ünlüler, yuvarlak ünlülerden sonra dar-yuvarlak veya düz-geniş ünlüler gelebilir.\" O halde B doğru cevaptır.",
+        "Title": "Türkçenin ses özelliklerini açıklayabileceksiniz.",
+        "Text": "Aşağıdaki sözcük gruplarından hangisi Türkçedeki dudak uyumuna aykırıdır?",
+        "A": "yaman, karın, sarı, kıyı",
+        "B": "yağmur, kavuk, çamur, kabuk",
+        "C": "iri, gece, inek,geri",
+        "D": "soba, kovuk, sulak, kuru",
+        "E": "söylev, bölüm, üye, üzüm,",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891954,
+        "UniteNo": 3,
+        "PageNumber": 75,
+        "AnswerExplanation": "Doğru cevap B şıkkıdır",
+        "Title": "Türkçenin ses özelliklerini açıklayabileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi ikiz ünsüzlere örnek olarak gösterilebilir?",
+        "A": "baba",
+        "B": "anne",
+        "C": "yolcu",
+        "D": "eller",
+        "E": "ekler",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891834,
+        "UniteNo": 3,
+        "PageNumber": 66,
+        "AnswerExplanation": "<p>Ünlülerin sınıflandırılmasında esas olan boğumlanmayla ilgili belli başlı ölçütler şu şekildedir: Artlık/Önlük, Darlık/Genişlik, Düzlük/Yuvarlaklık, Uzunluk/Kısalık. • Artlık/Önlük: Ağız boşluğunun ön ve art bölümleriyle ilgili karşıtlık; /a/-/e/, /ı/- /i/, /o/-/ö/, /u/-/ü/ ayrımlarını belirler. Dilin ön tarafının tümsekleşmesiyle ağzın arka bölgesinde art ünlüler /a, ı, o, u/, dilin arka tarafının tümsekleşmesiyle ağız boşluğunun ön tarafında ön ünlüler /e, i, ö, ü/ oluşur.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki sözcüklerden hangisi bir art ünlü ile başlar?</p>",
+        "A": "<p>Elbise</p>",
+        "B": "<p>İnce</p>",
+        "C": "<p>Önlük</p>",
+        "D": "<p>Işık</p>",
+        "E": "<p>Üzüm</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892025,
+        "UniteNo": 3,
+        "PageNumber": 79,
+        "AnswerExplanation": "<p>Dar ile daracık sözcükleri arasında ünlü daralması yoktur, diğerlerinde vardır. Doğru yanıt D'dir. </p>",
+        "Title": "",
+        "Text": "<div class=\"page\" title=\"Page 18\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Daralma; benzeşme, daraltıcı ünsüzlerin etkisi vb. seslik nedenlerle geniş ünlülerin dar ünlü hâline gelmesidir. Aşağıdakilerden hangisinde ünlü daralması yoktur? </p> </div> </div> </div>",
+        "A": "<p>Yokarı &gt; yukarı </p>",
+        "B": "<p>gövercin &gt; güvercin </p>",
+        "C": "<p>böyük &gt; büyük </p>",
+        "D": "<p>dar &gt; daracık </p>",
+        "E": "<p>get &gt; git </p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892028,
+        "UniteNo": 3,
+        "PageNumber": 63,
+        "AnswerExplanation": "<p>Konuşma seslerinin üretimini ve algılanmasını şu üç aşamada değerlendirebiliriz:</p> <p>• Söyleyiş ses bilgisi: Konuşurlar sesleri nasıl üretir?</p> <p>• Akustik ses bilgisi: Sesler havada nasıl yol alır?</p> <p>• İşitsel ses bilgisi: Dinleyenler sesleri nasıl algılar?</p> <p>Doğru cevap C'dir. </p>",
+        "Title": "",
+        "Text": "<p>Konuşma seslerinin üretimini ve algılanmasını kaç aşamada değerlendirilebilir? </p>",
+        "A": "<p>5</p>",
+        "B": "<p>4</p>",
+        "C": "<p>3</p>",
+        "D": "<p>2</p>",
+        "E": "<p>1</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891871,
+        "UniteNo": 3,
+        "PageNumber": 70,
+        "AnswerExplanation": "<p>Türkçe kökenli sözlerde /j/ bulunmaz: kolej ve jandarma</p> <p>Söz başında /c, f, ğ, h, j, l, m, n, ñ, p, r, ş, v, z/ ünsüzleri bulunmaz: filika</p> <p>Sözcük sonunda /b, c, d, ġ, g/ ünsüzleri bulunmaz: hac</p> <p>Bu nedenle doğru cevap E'dir.</p> ",
+        "Title": "",
+        "Text": "<p>Aşağıda verilenlerden hangisi Türkçenin ses özelliklerine uygun bir sözcüktür?</p>",
+        "A": "<p>Jandarma</p>",
+        "B": "<p>Hac</p>",
+        "C": "<p>Kolej</p>",
+        "D": "<p>Filika</p>",
+        "E": "<p>Gece</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891922,
+        "UniteNo": 3,
+        "PageNumber": 87,
+        "AnswerExplanation": "<p>Konuşma esnasında cümleler veya sözcükler arasında verilen kısa aralıklara durak denir. Doğru cevap A'dır. </p>",
+        "Title": "",
+        "Text": "<p>Konuşma esnasında cümleler veya sözcükler arasında verilen kısa aralıklara ne ad verilir?</p>",
+        "A": "<p>Durak</p>",
+        "B": "<p>Vurgu</p>",
+        "C": "<p>Sözce</p>",
+        "D": "<p>Ton</p>",
+        "E": "<p>Perde</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891974,
+        "UniteNo": 3,
+        "PageNumber": 63,
+        "AnswerExplanation": "Ses dört aşamadan meydana gelir. Bunlar; üretim, iletim, algılama ve değerlendirmedir. Bu nedenle doğru cevap E şıkkıdır.",
+        "Title": "Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi sesin aşamalarından biri değildir?",
+        "A": "Üretim",
+        "B": "İletim",
+        "C": "Algılama",
+        "D": "Değerlendirme",
+        "E": "Cevap verme",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891958,
+        "UniteNo": 3,
+        "PageNumber": 67,
+        "AnswerExplanation": "<p>Doğru cevap A şıkkıdır</p>",
+        "Title": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.",
+        "Text": "<p>Aşağıdakilerden hangisi Türkçedeki ünlülere ilişkin doğru bir ifadedir?</p>",
+        "A": "<p>\"u\" art, yuvarlak ve dardır.</p>",
+        "B": "<p>\"e\" art, düz ve dardır.</p>",
+        "C": "<p>\"i\" ön, düz ve geniştir.</p>",
+        "D": "<p>\"ü\" ön, geniş ve düzdür.</p>",
+        "E": "<p>\"ı\" ön, düz ve dardır.</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
     }
 ]

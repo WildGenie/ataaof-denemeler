@@ -12,8 +12,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Avantgart</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Konstrüktivizm</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3667319,
@@ -28,8 +27,7 @@
         "D": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Biçim, desen ve/veya çizgilerin tümünün ya da bir kısmının konum ve durum değiştirmesi sonucunda elde edilen tasarım</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Soyut biçimlerin belirli bir disiplinle birbiri ardından sıralanmasına; bu soyut biçimlerdeki çizgilerin ve renklerin gerek görüntüdeki hareketle, gerekse görüntüler arasında kurgudan doğan devinimle belli bir uyum oluşturmasına dayanan film türü</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3667331,
@@ -44,8 +42,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Hareketli grafikler</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Soyut Film</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3667341,
@@ -60,8 +57,7 @@
         "D": "<p>Dadaizm</p>",
         "E": "<p>Avangart</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3667482,
@@ -76,8 +72,7 @@
         "D": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Eğitici sunumlar</p> </div> </div> </div> </div>",
         "E": "<p>Görsel İletişim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3667518,
@@ -92,8 +87,7 @@
         "D": "<div class=\"page\" title=\"Page 11\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Joseph-Antoine Ferdinand Plateau</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 12\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Charles-Émile Reynaud</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3670792,
@@ -108,8 +102,7 @@
         "D": "<div class=\"page\" title=\"Page 13\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Kinora</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 15\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Cinématographe</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3670809,
@@ -124,8 +117,7 @@
         "D": "<p>Flipbook</p>",
         "E": "<p>Kinora</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3670819,
@@ -140,8 +132,7 @@
         "D": "<p>Hareket</p>",
         "E": "<p>Gösteri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3670833,
@@ -156,7 +147,6 @@
         "D": "<p>1839</p>",
         "E": "<p>1877</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

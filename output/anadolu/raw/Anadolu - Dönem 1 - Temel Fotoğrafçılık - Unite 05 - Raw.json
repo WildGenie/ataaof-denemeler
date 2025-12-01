@@ -12,8 +12,7 @@
         "D": "<p> Cd</p>",
         "E": "<p>Kağıt</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351132,
@@ -28,8 +27,7 @@
         "D": "<p>Dört</p>",
         "E": "<p>Beş</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351133,
@@ -44,8 +42,7 @@
         "D": "<p>Orta format Roll film kullanan fotoğraf makineleri</p>",
         "E": "<p>Leica format fotoğraf makineleri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351143,
@@ -60,8 +57,7 @@
         "D": "<p>ISO</p>",
         "E": "<p>Bakaç</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351145,
@@ -76,8 +72,7 @@
         "D": "<p>Düzleştirici katman</p>",
         "E": "<p>Saydam tabaka</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351153,
@@ -92,8 +87,7 @@
         "D": "<p>Panoramik Fotoğraf Makineleri</p>",
         "E": "<div class=\"page\" title=\"Page 136\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Otomatik Netleme Yapan (AF) Fotoğraf Makineleri</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351154,
@@ -108,8 +102,7 @@
         "D": "<p>Panoramik Fotoğraf Makineleri</p>",
         "E": "<div class=\"page\" title=\"Page 136\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Manuel Netleme Gerektiren Fotoğraf Makineleri</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351166,
@@ -124,8 +117,7 @@
         "D": "<p>Dört</p>",
         "E": "<p>Beş</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351168,
@@ -140,8 +132,7 @@
         "D": "<p>Stereoskopic Fotoğraf Makineleri</p>",
         "E": "<p>Netleme Gerektirmeyen Fotoğraf Makineleri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351171,
@@ -156,8 +147,7 @@
         "D": "<p>18x24</p>",
         "E": "<p>20x20</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351172,
@@ -172,8 +162,7 @@
         "D": "<p>136 kodlu film</p>",
         "E": "<p>112 kodlu film</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351174,
@@ -188,8 +177,7 @@
         "D": "<p>Beş</p>",
         "E": "<p>Altı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351175,
@@ -204,8 +192,7 @@
         "D": "<p>0-7 arası</p>",
         "E": "<p>1-6 arası</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351176,
@@ -220,8 +207,7 @@
         "D": "<p>Işığa duyarlı yüzey havadır.</p>",
         "E": "<p>Işığa duyarlı yüzey penceredir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351180,
@@ -236,8 +222,7 @@
         "D": "<p>Roll Film Kullanan Fotoğraf Makineleri</p>",
         "E": "<p>Tabaka Film Kullanan Fotoğraf Makineleri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351181,
@@ -252,8 +237,7 @@
         "D": "<p>Paralaks hatası oluşmayan makinelerdir.</p>",
         "E": "<p>Bakacın içinde bulunan ve istendiğinde devreye sokulan bir büyüteç bulunur.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351182,
@@ -268,8 +252,7 @@
         "D": "<p>S</p>",
         "E": "<p>SLR</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351196,
@@ -284,8 +267,7 @@
         "D": "<p>Deklanş&ouml;r sorumluluğunu kazanmış olması</p>",
         "E": "<p>G&ouml;r&uuml;nt&uuml; &ccedil;ok iyi olmasa bile sonradan d&uuml;zeltme şansına sahip olması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351197,
@@ -300,8 +282,7 @@
         "D": "<p>APS film</p>",
         "E": "<p>120 kodlu film</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351200,
@@ -316,8 +297,7 @@
         "D": "<p>Stereoskopic fotoğraf makineleri</p>",
         "E": "<p>DSLR fotoğraf makineleri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351136,
@@ -332,8 +312,7 @@
         "D": "<p>Stereoskopic fotoğraf makineleri</p>",
         "E": "<p>Netleme gerektirmeyen fotoğraf makineleri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351138,
@@ -348,8 +327,7 @@
         "D": "<p>İkna ve inandırıcılıkta dezavantajlara sahiptir.</p>",
         "E": "<p>Kullanılan malzeme ve ekipmanlar teknolojiden etkilenmez.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351149,
@@ -364,8 +342,7 @@
         "D": "<p>Büyük Format (Tabaka) Film Kullanan Fotoğraf Makineleri</p>",
         "E": "<div class=\"page\" title=\"Page 134\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>SLR Tek Objektifli Yansıtmalı Fotoğraf Makineleri</p> </div> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351157,
@@ -380,8 +357,7 @@
         "D": "<p>1839</p>",
         "E": "<p>1840</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351163,
@@ -396,8 +372,7 @@
         "D": "<p>Deklanşör</p>",
         "E": "<p>Objektif</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351165,
@@ -412,8 +387,7 @@
         "D": "<p>1849</p>",
         "E": "<p>1859</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351169,
@@ -428,8 +402,7 @@
         "D": "<p>Anti Photo System</p>",
         "E": "<p>Allegorical Photo System</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351178,
@@ -444,8 +417,7 @@
         "D": "<p>Çok Parlak Işık</p>",
         "E": "<p>Çok Az Işık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351189,
@@ -460,8 +432,7 @@
         "D": "<p>Vizör</p>",
         "E": "<p>Film</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351190,
@@ -476,8 +447,7 @@
         "D": "<p>auto fake</p>",
         "E": "<p>audio fail</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351194,
@@ -492,8 +462,7 @@
         "D": "<p>Kayıt sistemine göre</p> ",
         "E": "<p>Netlik sistemine göre</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351139,
@@ -508,8 +477,7 @@
         "D": "<p>46</p>",
         "E": "<p>56</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351142,
@@ -524,8 +492,7 @@
         "D": "<p>Orta format film kullanan fotoğraf makineleri</p>",
         "E": "<p>Büyük format film kullanan fotoğraf makineleri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351144,
@@ -540,8 +507,7 @@
         "D": "<p>200</p>",
         "E": "<p>250</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351146,
@@ -556,8 +522,7 @@
         "D": "<p>C-1</p>",
         "E": "<p>E-1</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351147,
@@ -572,8 +537,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>I, II, III ve IV </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351155,
@@ -588,8 +552,7 @@
         "D": "<p>Panoramik Fotoğraf Makineleri</p>",
         "E": "<div class=\"page\" title=\"Page 134\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>SLR Tek Objektifli Yansıtmalı Fotoğraf Makineleri</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351173,
@@ -604,8 +567,7 @@
         "D": "<p>Dört</p>",
         "E": "<p>Beş</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351177,
@@ -620,8 +582,7 @@
         "D": "<p>Filmin Banyo İşlemi Oldukça Kolaydır.</p>",
         "E": "<p>Çekilen Fotoğrafı anında görmek mümkün değildir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351179,
@@ -636,8 +597,7 @@
         "D": "<p>4,5x6cm</p>",
         "E": "<p>18x24cm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351193,
@@ -652,8 +612,7 @@
         "D": "<p>  Yumuşak kontrasta sahip kartı simgeler.</p>",
         "E": "<p>Sarı kontrasta sahip kartı simgeler.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351195,
@@ -668,8 +627,7 @@
         "D": "<p>Fotoğraf filminin yerinden çıkması</p> ",
         "E": "<p>Filmin bir kısmının gün ışığına maruz kalması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351156,
@@ -684,8 +642,7 @@
         "D": "<p>I ve IV</p>",
         "E": "<p>II, III ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351158,
@@ -700,8 +657,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II, III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351160,
@@ -716,8 +672,7 @@
         "D": "<p>II, III, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351161,
@@ -732,8 +687,7 @@
         "D": "<p>Nikon</p>",
         "E": "<p>Pentax</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351162,
@@ -748,8 +702,7 @@
         "D": "<p>Orta Format Film Kullanan Fotoğraf Makineleri</p>",
         "E": "<p>Büyük Format Film Kullanan Fotoğraf Makineleri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351187,
@@ -764,8 +717,7 @@
         "D": "<p>Markasıdır</p>",
         "E": "<p>Amacıdır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351188,
@@ -780,8 +732,7 @@
         "D": "<p>Film kullanmalarıdır.</p>",
         "E": "<p>Hafif olmalarıdır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351202,
@@ -796,8 +747,7 @@
         "D": "<p>135</p>",
         "E": "<p>C-41</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351135,
@@ -812,8 +762,7 @@
         "D": "<p>Vizör</p>",
         "E": "<p>Deklanşör</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351148,
@@ -828,8 +777,7 @@
         "D": "<p>IV ve V</p>",
         "E": "<p>I, II ve V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351167,
@@ -844,8 +792,7 @@
         "D": "<p>Birçok fotoğraf makinesi üreticisi analog fotoğraf makinesi üretimine son vermiş durumdadır.</p>",
         "E": "<p>Günümüzde fotoğraf makinesi pazarının neredeyse tamamının analog olduğu söylenebilir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351170,
@@ -860,8 +807,7 @@
         "D": "<p>Küçük boyutlu ve ağır olmaları</p>",
         "E": "<p>Büyük boyutlu ve hafif olmaları</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351185,
@@ -876,8 +822,7 @@
         "D": "<p>Siyah-beyaz negatif filmler</p>",
         "E": "<p>Pozitif filmler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351198,
@@ -892,8 +837,7 @@
         "D": "<p>EF</p> ",
         "E": "<p>TRL</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351131,
@@ -908,8 +852,7 @@
         "D": "<p>Filmin markası</p>",
         "E": "<p>Filmin kare sayısı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351141,
@@ -924,8 +867,7 @@
         "D": "<p>24x36 mm</p>",
         "E": "<p>6x6 cm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351159,
@@ -940,8 +882,7 @@
         "D": "<p>Fotoğrafın kimyasal süreçten geçmemesi</p>",
         "E": "<p>Daha pahalı olması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351183,
@@ -956,8 +897,7 @@
         "D": "<p>TRL Çift Objektifli Yansıtmalı Fotoğraf Makineleri</p>",
         "E": "<p>İğne Deliği Fotoğraf Makineleri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351199,
@@ -972,8 +912,7 @@
         "D": "<p>Panoramik fotoğraf makineleri</p>",
         "E": "<p>Orta format film kullanan fotoğraf makineleri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351201,
@@ -988,8 +927,7 @@
         "D": "<p>1913</p> ",
         "E": "<p>1925</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351140,
@@ -1004,8 +942,7 @@
         "D": "<p>Gövde – Diyafram</p>",
         "E": "<p>Objektif – ISO</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351191,
@@ -1020,8 +957,7 @@
         "D": "<p>Yapı Ölçer</p>",
         "E": "<p>Kağıt Ölçer</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351192,
@@ -1036,8 +972,7 @@
         "D": "<p>Pozitif filmler</p>",
         "E": "<p>Dia filmler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351151,
@@ -1052,8 +987,7 @@
         "D": "<p>I, II ve IV</p>",
         "E": "<p>II ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351186,
@@ -1068,8 +1002,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351184,
@@ -1084,8 +1017,7 @@
         "D": "<p>Yan yana konum­landırılmış iki ayrı objektife sahiptir.</p>",
         "E": "<p>Her bir fotoğraf için yeni kart kullanılması ne­deniyle maliyetlidir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351134,
@@ -1100,8 +1032,7 @@
         "D": "<p>TRL çift objektifli yansıtmalı fotoğraf makineleri</p>",
         "E": "<p>Orta format Roll film kullanan fotoğraf makineleri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351150,
@@ -1116,8 +1047,7 @@
         "D": "<p>manuel</p>",
         "E": "<p>deklanşör</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351137,
@@ -1132,8 +1062,7 @@
         "D": "<p>Poligrade</p>",
         "E": "<p>Cibachrome</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351152,
@@ -1148,8 +1077,7 @@
         "D": "<div class=\"page\" title=\"Page 138\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Panoramik Fotoğraf Makineleri</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 135\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>TRL Çift Objektifli Yansıtmalı Fotoğraf Makineleri</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351164,
@@ -1164,7 +1092,6 @@
         "D": "<p>İğne Deliği Fotoğraf Makineleri</p>",
         "E": "<p>Stereoskopic Fotoğraf Makineleri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     }
 ]

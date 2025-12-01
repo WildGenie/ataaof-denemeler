@@ -12,8 +12,7 @@
         "D": "<p>6 Mart 1996</p>",
         "E": "<p>6 Mart 1998</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513288,
@@ -28,8 +27,7 @@
         "D": "<p>1994</p>",
         "E": "<p>1995</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513289,
@@ -44,8 +42,7 @@
         "D": "<p>25 Haziran 1993 ile 5 Ekim 1995</p>",
         "E": "<p>25 Haziran 1993 ile 5 Ekim 1996</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513298,
@@ -60,8 +57,7 @@
         "D": "<p>CHP</p> ",
         "E": "<p>RP</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513299,
@@ -76,8 +72,7 @@
         "D": "<p>Başbakanlık konutunda tarikat liderleri ve şeyhlere iftar yemeği verilmesi</p> ",
         "E": "<p>Üniversitelerde başörtüsünü serbest bırakan kararnamenin imzalanması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513301,
@@ -92,8 +87,7 @@
         "D": "<p>I – C; II – A; III – B</p> ",
         "E": "<p>I – C; II – B; III – A</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513302,
@@ -108,8 +102,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513303,
@@ -124,8 +117,7 @@
         "D": "<p>FP</p> ",
         "E": "<p>DYP</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513305,
@@ -140,8 +132,7 @@
         "D": "<p>ANAP - RP</p> ",
         "E": "<p>DYP - CHP</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513306,
@@ -156,8 +147,7 @@
         "D": "<p>DYP</p>",
         "E": "<p>RP</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513310,
@@ -172,8 +162,7 @@
         "D": "<p>1995</p> ",
         "E": "<p>1996</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513312,
@@ -188,8 +177,7 @@
         "D": "<p>Ahmet Necdet Sezer</p> ",
         "E": "<p>Fahri Korutürk</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513313,
@@ -204,8 +192,7 @@
         "D": "<p>ANAP – RP</p> ",
         "E": "<p>DYP - SHP</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513314,
@@ -220,8 +207,7 @@
         "D": "<p>RP</p> ",
         "E": "<p>SHP</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513321,
@@ -236,8 +222,7 @@
         "D": "<p>53</p>",
         "E": "<p>54</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513322,
@@ -252,8 +237,7 @@
         "D": "<p>İran</p>",
         "E": "<p>Suriye</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513323,
@@ -268,8 +252,7 @@
         "D": "<p>DYP </p>",
         "E": "<p>ANAP</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513326,
@@ -284,8 +267,7 @@
         "D": "<p>DYP-RP</p>",
         "E": "<p>DYP-DSP</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513332,
@@ -300,8 +282,7 @@
         "D": "<p>24 Aralık 1996 genel seçimleri</p>",
         "E": "<p>24 Aralık 1997 genel seçimleri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513335,
@@ -316,8 +297,7 @@
         "D": "<p>6 Nisan 1995</p>",
         "E": "<p>6 Mart 1996</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513290,
@@ -332,8 +312,7 @@
         "D": "<p>İtalya</p>",
         "E": "<p>Rusya</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513295,
@@ -348,8 +327,7 @@
         "D": "<p>II. DYP – SHP Koalisyon dönemi</p>",
         "E": "<p>ANAP-DSP-DTP koalisyon dönemi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513296,
@@ -364,8 +342,7 @@
         "D": "<p>III ve IV</p> ",
         "E": "<p>II ve V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513300,
@@ -380,8 +357,7 @@
         "D": "<p>PKK elebaşı Öcalan, özel Türk timleri tarafından Türkiye’ye getirmiş ve tutuklanmıştır</p>",
         "E": "<p>Türkiye Cumhuriyet tarihinin en uzun süreli görev yapan koalisyon hükûmeti olmuştur</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513308,
@@ -396,8 +372,7 @@
         "D": "<p>DYP</p> ",
         "E": "<p>RP</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513309,
@@ -412,8 +387,7 @@
         "D": "<p>ANAP – DYP</p>",
         "E": "<p>DYP - CHP</p>\n<p><strong> </strong></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513311,
@@ -428,8 +402,7 @@
         "D": "<p>Yıldırım Avcı</p> ",
         "E": "<p>Mesut Yılmaz</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513316,
@@ -444,8 +417,7 @@
         "D": "<p>Refah Partisi (RP) <br /><br /></p>",
         "E": "<p>Demokratik Sol Parti (DSP) </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513320,
@@ -460,8 +432,7 @@
         "D": "<p>Cumhuriyet Halk Partisi (CHP)</p>",
         "E": "<p>Demokratik Sol Parti (DSP)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513325,
@@ -476,8 +447,7 @@
         "D": "<p>Turgut Sunalp</p>",
         "E": "<p>Turgut Özal</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513330,
@@ -492,8 +462,7 @@
         "D": "<p>DYP</p>",
         "E": "<p>RP</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513331,
@@ -508,8 +477,7 @@
         "D": "<p>Soma</p>",
         "E": "<p>Üzülmez</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513333,
@@ -524,8 +492,7 @@
         "D": "<p>Nijerya</p>",
         "E": "<p>Suudi Arabistan</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513293,
@@ -540,8 +507,7 @@
         "D": "<p>İstanbul</p>",
         "E": "<p>İzmir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513297,
@@ -556,8 +522,7 @@
         "D": "<p>I ve II</p> ",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513304,
@@ -572,8 +537,7 @@
         "D": "<p>1995 ile 1999 arasındaki dönem</p> ",
         "E": "<p>1999 ile 2002 arasındaki dönem</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513307,
@@ -588,8 +552,7 @@
         "D": "<p>FP – MHP - DYP</p>",
         "E": "<p>DSP – CHP - ANAP</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513318,
@@ -604,8 +567,7 @@
         "D": "<p>Erdal İnönü</p>",
         "E": "<p>Mümtaz Soysal</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513319,
@@ -620,8 +582,7 @@
         "D": "<p>1993</p>",
         "E": "<p>1994</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513327,
@@ -636,8 +597,7 @@
         "D": "<p>%16.9</p>",
         "E": "<p>%10.8</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513329,
@@ -652,8 +612,7 @@
         "D": "<p>17 Şubat 1994</p>",
         "E": "<p>17 Şubat 1995</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513334,
@@ -668,8 +627,7 @@
         "D": "<p>DSP</p>",
         "E": "<p>YTP </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513315,
@@ -684,8 +642,7 @@
         "D": "<p>1990</p>",
         "E": "<p>1991</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513285,
@@ -700,8 +657,7 @@
         "D": "<p>28 Ağustos 1998</p>",
         "E": "<p>28 Eylül 1998</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513292,
@@ -716,8 +672,7 @@
         "D": "<p>1995-2002</p>",
         "E": "<p>1999-2002</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513294,
@@ -732,8 +687,7 @@
         "D": "<p>ANAP-DSP-DTP</p>",
         "E": "<p>DSP-MHP-ANAP</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513291,
@@ -748,8 +702,7 @@
         "D": "<p>26 Ağustos 1995</p>",
         "E": "<p>28 Ağustos 1996</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513317,
@@ -764,8 +717,7 @@
         "D": "<p>ANAP-SHP koalisyon hükûmeti kurulmuştur</p>",
         "E": "<p>DYP-DSP koalisyon hükûmeti kurulmuştur</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513328,
@@ -780,8 +732,7 @@
         "D": "<p>49.hükümeti</p>",
         "E": "<p>50.hükümeti</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513324,
@@ -796,7 +747,6 @@
         "D": "<p>Necmettin Erbakan</p>",
         "E": "<p>Mesut Yılmaz</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     }
 ]

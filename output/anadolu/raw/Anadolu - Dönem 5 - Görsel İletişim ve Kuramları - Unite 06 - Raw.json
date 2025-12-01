@@ -12,8 +12,7 @@
         "D": "<p>Raymond Williams</p>",
         "E": "<p>Stuart Hall</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603461,
@@ -28,8 +27,7 @@
         "D": "<p>Televizyon, Teknoloji ve Kültürel Biçim</p>",
         "E": "<p>Okuryazarlığın Kullanım Alanları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603462,
@@ -44,8 +42,7 @@
         "D": "<p style=\"padding-left: 30px;\">Stuart Hall</p>",
         "E": "<p>John Fiske</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603463,
@@ -60,8 +57,7 @@
         "D": "<p>“eğitlence”</p>",
         "E": "<p>\"eğitimlice\"</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603464,
@@ -76,8 +72,7 @@
         "D": "<p>Marx’ın altyapının üstyapıyı belirlediği tezini benimser.</p> ",
         "E": "<p>Kitleye yönelik analiz­lerinde Gramsci’nin hegemonya teorisi belirleyici bir rol oynar.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603465,
@@ -92,8 +87,7 @@
         "D": "<p>Douglas Kellner </p>",
         "E": "<p>Neil Postman</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603468,
@@ -108,8 +102,7 @@
         "D": "<p>İşçiler.</p>",
         "E": "<p>Seyirciler.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603470,
@@ -124,8 +117,7 @@
         "D": "<p>İmajlar aracılığıyla tasarlanan bir toplumsal gerçekliktir.</p>",
         "E": "<p>Hayatın sinematografik terimlerle açıklanmasıdır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603471,
@@ -140,8 +132,7 @@
         "D": "<p>Beden.</p> ",
         "E": "<p>Kültürel sermaye</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603472,
@@ -156,8 +147,7 @@
         "D": "<p>Ekonomik yapı.</p>",
         "E": "<p>Sembolik kapital.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603474,
@@ -172,8 +162,7 @@
         "D": "<p>Sinema.</p> ",
         "E": "<p>Grafik tasarım.</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603513,
@@ -188,8 +177,7 @@
         "D": "<p>Douglas Kellner</p>",
         "E": "<p>Neil Postman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603514,
@@ -204,8 +192,7 @@
         "D": "<p>Stuart Hall</p>",
         "E": "<p>Raymond Williams</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603515,
@@ -220,8 +207,7 @@
         "D": "<p>Guy Debord</p>",
         "E": "<p>Raymond Williams</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603516,
@@ -236,8 +222,7 @@
         "D": "<p>Gösteri Toplumu</p>",
         "E": "<p>Alt kültür</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843130,
@@ -252,8 +237,7 @@
         "D": "<p>1965</p>\n<p></p>",
         "E": "1966",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843141,
@@ -268,8 +252,7 @@
         "D": "<p>John Fiske</p> <p></p>",
         "E": "David Morley",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843143,
@@ -284,8 +267,7 @@
         "D": "<p>Kültürel sermaye</p>\n<p></p>",
         "E": "Habitus",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843146,
@@ -300,8 +282,7 @@
         "D": "<p>Gösteri toplumu <br /><br /></p> <p></p>",
         "E": "Habitus",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843147,
@@ -316,8 +297,7 @@
         "D": "<p>John Fiske</p> <p></p>",
         "E": "David Morley",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603466,
@@ -332,8 +312,7 @@
         "D": "<p>Stuart Hall.</p> ",
         "E": "<p>Guy Debord.</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603467,
@@ -348,8 +327,7 @@
         "D": "<p>Kültür.</p>",
         "E": "<p>Televizyon, Teknoloji ve Kültürel Biçim.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603473,
@@ -364,8 +342,7 @@
         "D": "<p>Micheal De Carteu.</p>",
         "E": "<p>Richard Hoggart.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843134,
@@ -380,8 +357,7 @@
         "D": "<p>Altkültür: Tarzın Anlamı</p> <p></p>",
         "E": "Gündelik Hayat Pratikleri",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843135,
@@ -396,8 +372,7 @@
         "D": "<p>John Fiske</p> <p></p>",
         "E": "David Morley",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843138,
@@ -412,8 +387,7 @@
         "D": "<p>Stuart Hall</p> <p></p>",
         "E": "John Berger",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603512,
@@ -428,8 +402,7 @@
         "D": "<p>Görme Biçimleri</p>",
         "E": "<p>Anlamın Görüntüsü</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843136,
@@ -444,8 +417,7 @@
         "D": "<p>Gündelik Hayat Pratikleri</p>  <p></p>",
         "E": "<p>Altkültür: Tarzın Anlamı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3843129,
@@ -460,8 +432,7 @@
         "D": "<p>Stuart Hall</p>",
         "E": "John Berger",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603469,
@@ -476,7 +447,6 @@
         "D": "<p>John Berger.</p>",
         "E": "<p>Neil Gabler.</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     }
 ]

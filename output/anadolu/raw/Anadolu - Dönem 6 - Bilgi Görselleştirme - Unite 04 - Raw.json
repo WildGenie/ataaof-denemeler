@@ -12,8 +12,7 @@
         "D": "<p>Gerçek dünya koşullarından yola çıkarak teorik modeller kavramsallaştırmak</p>",
         "E": "<p>Bilginin kullanım amacına ve bağlamına göre düzenlenmesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763333,
@@ -28,8 +27,7 @@
         "D": "<p>Doğal bir sıra ile birbirlerini izleyen, birbirine göre alt ve üst olarak değerlendirilebilecek ölçüm kademeleri</p>",
         "E": "<p>Dijital ortam üzerinde tasarım ve mimarlık prensiplerini uygulamaya odaklanmış gelişmekte olan bir disiplin ve uygulama alanı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763334,
@@ -44,8 +42,7 @@
         "D": "<p>...fiziksel sistemlerde; bilgiyi organize etmek, etiketlemek ve içerisinde dolaşmak anlaşılır</p>",
         "E": "<p>... bir etiket ya da tanımlama aracılığı ile pek çok bilgi içeren bir belgenin tüm kapsamını işaret etmesinin mümkün olduğu anlaşılır</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763335,
@@ -60,8 +57,7 @@
         "D": "<p>renk-üretildikleri bölge-yapım şekilleri-yemek</p>",
         "E": "<p>üretildikleri bölge-yapım şekilleri-yaş-işlev</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763336,
@@ -76,8 +72,7 @@
         "D": "<p>bilgi birikimi-keşif-bilgelik</p>",
         "E": "<p>bilgi-keşif-toplama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763337,
@@ -92,8 +87,7 @@
         "D": "<p>Düzenleme</p>",
         "E": "<p>Keşif</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763338,
@@ -108,8 +102,7 @@
         "D": "<p>veri-bilgi-bilgelik</p>",
         "E": "<p>veri-bilgi-yaratım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763339,
@@ -124,8 +117,7 @@
         "D": "<p>Nüfusu az olan illere görece daha fazla sayıda yabancı uyruklu yerleşimi olduğu söylenebilir.</p>",
         "E": "<p>Bir ile ne kadar yabancı uyruklu kişinin yerleştiğinin, o ilin mevcut nüfusu ile korelasyonu çok düşük düzeydedir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763340,
@@ -140,8 +132,7 @@
         "D": "<p>Eskişehirdeki Covit salgın verileri</p>",
         "E": "<p>2021 yılında Eskişehir'deki tramway hattının kullanım miktarı ve yoğunluk değişim grafikleri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763341,
@@ -156,8 +147,7 @@
         "D": "<p>Interval</p>",
         "E": "<p>Özel </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763619,
@@ -172,8 +162,7 @@
         "D": "<p>Sadece fiziksel sistemlerde; bilgiyi organize etmek, etiketlemek, aramak ve içerisinde dolaşmak işlerinin bir birleşimi</p>",
         "E": "<p>Sadece bilgiyle ilgili deneyimleri; kullanılabilirlik, bulunabilirlik ve anlaşılırlığı destekleyecek şekillendirme sanatı ve bilimi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763620,
@@ -188,8 +177,7 @@
         "D": "<p>Tasarımlama</p>",
         "E": "<p>Temsiliyet</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763621,
@@ -204,8 +192,7 @@
         "D": "<p>Yapılandırma</p>",
         "E": "<p>İçeriklendirme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763622,
@@ -220,8 +207,7 @@
         "D": "<p>Bilgi etiketleme</p>",
         "E": "<p>Bilgi temsiliyeti</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763625,
@@ -236,8 +222,7 @@
         "D": "<p>Rosenfeld</p>",
         "E": "<p>Rosati</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763628,
@@ -252,8 +237,7 @@
         "D": "<p>Bilgelik</p>",
         "E": "<p>Etiketleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763630,
@@ -268,8 +252,7 @@
         "D": "<p>Yorumlama</p>",
         "E": "<p>Bilgi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763631,
@@ -284,8 +267,7 @@
         "D": "<p>Korelasyonlar</p>",
         "E": "<p>Veri kıyaslaması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763635,
@@ -300,8 +282,7 @@
         "D": "<p>Doğal dil işleme</p>",
         "E": "<p>Sıralama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763637,
@@ -316,7 +297,6 @@
         "D": "<p>Doğal dil işleme</p>",
         "E": "<p>Karar ağaçları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

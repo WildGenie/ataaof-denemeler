@@ -12,8 +12,7 @@
         "D": "<p>Kroma</p>",
         "E": "<p>Gama</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596342,
@@ -28,8 +27,7 @@
         "D": "<p>Kontrast Gamı</p>",
         "E": "<p>Sıcaklık Gamı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596348,
@@ -44,8 +42,7 @@
         "D": "<p>Luminans</p>",
         "E": "<p>Sıcaklık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596361,
@@ -60,8 +57,7 @@
         "D": "<p>Tolerans</p>",
         "E": "<p>Tonalite</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596367,
@@ -76,8 +72,7 @@
         "D": "<p>Yeşil</p>",
         "E": "<p>Pembe</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596376,
@@ -92,8 +87,7 @@
         "D": "<p>Parlaklık</p>",
         "E": "<p>Sıcaklık</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596385,
@@ -108,8 +102,7 @@
         "D": "<p>Parlaklık</p>",
         "E": "<p>Gam</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596406,
@@ -124,8 +117,7 @@
         "D": "<p>Hue palette</p>",
         "E": "<p>Histogram</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596420,
@@ -140,8 +132,7 @@
         "D": "<p>Pozlama düzeltme</p>",
         "E": "<p>Parlatma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596448,
@@ -156,8 +147,7 @@
         "D": "<p>Diachronic</p>",
         "E": "<p>Analogous</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596838,
@@ -172,8 +162,7 @@
         "D": "<p>Kroma</p>",
         "E": "<p>Renk üstünlüğü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596842,
@@ -188,8 +177,7 @@
         "D": "<p>Dinamik aralık</p>",
         "E": "<p>Lüminans</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596845,
@@ -204,8 +192,7 @@
         "D": "<p>Doygunluk</p>",
         "E": "<p>Gama</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596851,
@@ -220,8 +207,7 @@
         "D": "<p>Gama</p>",
         "E": "<p>Luma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596855,
@@ -236,8 +222,7 @@
         "D": "<p>RGB Parade</p>",
         "E": "<p>Histogram</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596860,
@@ -252,8 +237,7 @@
         "D": "<p>İkincil geliştirme araçları</p>",
         "E": "<p>Qualifier</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596865,
@@ -268,8 +252,7 @@
         "D": "<p>Çekimler arası uyum</p>",
         "E": "<p>Stilize görünümler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596870,
@@ -284,8 +267,7 @@
         "D": "<p>Doku olmayan hafif tonlar</p>",
         "E": "<p>Saf beyaz</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596873,
@@ -300,8 +282,7 @@
         "D": "<p>Netlik</p>",
         "E": "<p>Geliştirme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596874,
@@ -316,7 +297,6 @@
         "D": "<p>Herhangi bir renk tonunu başka bir renk tonuna değiştirmenizi sağlar.</p>",
         "E": "<p>Belirli renklerdeki öğrelerin parlaklığını arttırmanıza veya azaltmanıza olanak tanır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

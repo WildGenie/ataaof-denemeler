@@ -12,8 +12,7 @@
         "D": "<p>Photoshop</p>",
         "E": "<p>Klavye</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353130,
@@ -28,8 +27,7 @@
         "D": "<p>Cyan - Magenta - Key</p>",
         "E": "<p>Kontrast - Tint - Hue</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353132,
@@ -44,8 +42,7 @@
         "D": "<p>Petek</p>",
         "E": "<p>Tas Reflektör</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353136,
@@ -60,8 +57,7 @@
         "D": "<p>MacOS</p>",
         "E": "<p>klavye</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353137,
@@ -76,8 +72,7 @@
         "D": "<p>Flash Disk</p>",
         "E": "<p>CD</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353138,
@@ -92,8 +87,7 @@
         "D": "<p>Premiere</p>",
         "E": "<p>BigSur</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353140,
@@ -108,8 +102,7 @@
         "D": "<p>Ekran yenileme hızı düşük olması</p>",
         "E": "<p>Geniş renk aralığına sahip olmaması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353145,
@@ -124,8 +117,7 @@
         "D": "<p>Word</p>",
         "E": "<p>Premiere</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353146,
@@ -140,8 +132,7 @@
         "D": "<p>ekranı mat/ ışığı led</p>",
         "E": "<p>ekranı dokunmatik/ çözünürlüğü yüksek</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353149,
@@ -156,8 +147,7 @@
         "D": "<p>A4= 210x297</p>",
         "E": "<p>A6=105x148</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353151,
@@ -172,8 +162,7 @@
         "D": "<p>Renk Düzeltme Filtreleri</p>",
         "E": "<p>Kızıl Ötesi Filtreler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353152,
@@ -188,8 +177,7 @@
         "D": "<p>V, MB/s</p>",
         "E": "<p>S, GB</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353154,
@@ -204,8 +192,7 @@
         "D": "<p>Ofis programı<br /><br /></p>",
         "E": "<p>Sabit disk</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353156,
@@ -220,8 +207,7 @@
         "D": "<p>Word<br /><br /></p>",
         "E": "<p>Premiere</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353157,
@@ -236,8 +222,7 @@
         "D": "<p>Mikrofon</p>",
         "E": "<p>Word</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353159,
@@ -252,8 +237,7 @@
         "D": "<p>Lazer<br /><br /></p>",
         "E": "<p>Mürekkep</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353160,
@@ -268,8 +252,7 @@
         "D": "<p>210 x 297</p> ",
         "E": "<p>148 x 210</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353161,
@@ -284,8 +267,7 @@
         "D": "<p>Saten</p>",
         "E": "<p>İpek</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353162,
@@ -300,8 +282,7 @@
         "D": "<p>Saten</p> ",
         "E": "<p>İpek</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353163,
@@ -316,8 +297,7 @@
         "D": "<p>Saten <br /><br /></p>",
         "E": "<p>İpek</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353125,
@@ -332,8 +312,7 @@
         "D": "<p>AHVA</p>",
         "E": "<p>VA</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353126,
@@ -348,8 +327,7 @@
         "D": "<p>Renk sıcaklığı</p>",
         "E": "<p>Renk metre</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353127,
@@ -364,8 +342,7 @@
         "D": "<p>210 x 297 mm</p>",
         "E": "<p>148 x 210 mm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353133,
@@ -380,8 +357,7 @@
         "D": "<p>ND</p>",
         "E": "<p>Macro</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353135,
@@ -396,8 +372,7 @@
         "D": "<p>boyut</p>",
         "E": "<p>anakart</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353142,
@@ -412,8 +387,7 @@
         "D": "<p>Statik elektrik</p>",
         "E": "<p>UV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353143,
@@ -428,8 +402,7 @@
         "D": "<p>Lazer baskı</p>",
         "E": "<p>Mürekkep baskı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353147,
@@ -444,8 +417,7 @@
         "D": "<p>Gün ışığı altında daha net görüntü üretirler</p>",
         "E": "<p>Her piksel kendi ışığını üretir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353148,
@@ -460,8 +432,7 @@
         "D": "<p>A4</p>",
         "E": "<p>A5</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353150,
@@ -476,8 +447,7 @@
         "D": "<p>Ekranın altında</p>",
         "E": "<p>Ekranın ortasında</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353153,
@@ -492,8 +462,7 @@
         "D": "<p>Compact Flash hafıza kartları</p>",
         "E": "<p>SD hafıza kartları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353155,
@@ -508,8 +477,7 @@
         "D": "<p>DVD<br /><br /></p>",
         "E": "<p>Ekran</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353129,
@@ -524,8 +492,7 @@
         "D": "<p>Ethereum</p>",
         "E": "<p>DVD</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353139,
@@ -540,8 +507,7 @@
         "D": "<p>Oyun oynamak için alınması gereken monitör ile fotoğraf işlemek için ya da tasarım yapmak için alınması gereken monitör farklı özelliklere sahip olmalıdır.</p>",
         "E": "<p>Monitörler piksellerden oluşur.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353141,
@@ -556,8 +522,7 @@
         "D": "<p>Tarayıcının desteklediği maksimum çözünürlük ve renk derinliğidir.</p>",
         "E": "<p>Fosforlu, mıknatıslı, şeffaf, dayanıklı olmak üzere farklı özelliklerde üretilmiş olması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353144,
@@ -572,8 +537,7 @@
         "D": "<p>Ton</p>",
         "E": "<p>Dalga boyu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353158,
@@ -588,8 +552,7 @@
         "D": "<p>Solid Ink</p> ",
         "E": "<p>Negatif film</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353131,
@@ -604,8 +567,7 @@
         "D": "<p>Dozimetre</p>",
         "E": "<p>Dansitometre</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353128,
@@ -620,8 +582,7 @@
         "D": "<p>UV</p>",
         "E": "<p>Isıl</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353134,
@@ -636,7 +597,6 @@
         "D": "<p>İşlemci</p>",
         "E": "<p>Hard Disk</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     }
 ]

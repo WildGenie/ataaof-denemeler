@@ -12,8 +12,7 @@
         "D": "<p>Arama sonuçları içinde öne çıkarılmış, doğrudan etkileşimi hedefleyen reklamlardır.</p>",
         "E": "<p>Tüketicinin görüntülemeyi ve paylaşmayı kabul ettiği kullanıcı etkileşimlerini içeren çevrim içi reklamdır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832137,
@@ -28,8 +27,7 @@
         "D": "<p>Dikey video; X üzerinde en hızlı büyüyen format.</p>",
         "E": "<p>Üstten görünüm (topview); TikTok kullanıcılarının uygulamayı açar açmaz bir reklam bombardımanına maruz kalmaması.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832138,
@@ -44,8 +42,7 @@
         "D": "<p>Kullanıcıların Instagram hikâyeler akışına göz atarken hikâyeleri arasında görünür. <br />15 saniyelik video veya fotoğraf reklamlarıdır.</p>",
         "E": "<p>Fotoğraf ve video paylaşım platformudur.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832457,
@@ -60,8 +57,7 @@
         "D": "<p>Tüketicilerin ürün ve hizmetleri her açıdan görüntülemesine olanak tanıyan bir VR tabanlı reklam türüdür.360 derecelik <br />video reklamlar, otomobil, moda ve emlak gibi  ürün ve hizmetleri örnekleridir.</p>",
         "E": "<p>Dijital, online, web ve çevrim içi reklamcılık olarak da adlandırılmaktadır. Instagram, facebook örnekleridir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832465,
@@ -76,8 +72,7 @@
         "D": "<p>SMS-SMS</p>",
         "E": "<p>VR-SMS</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832472,
@@ -92,8 +87,7 @@
         "D": "<p>Kullanıcının ziyaret ettiği alandan farklı bir alan adına ait bir web sitesi tarafından kullanıcının cihazına yerleştirilen bir çerezdir. Çerez, bir web sitesinin kullanıcının bilgisayarına yerleştirdiği bilgilerdir.</p>",
         "E": "<p>Markanın görsel hikâye anlatımına katkıda bulunur. Eğlenceli ve kısa olabilirler, Snapchat uygulamasında kolaylıkla keşfedilebilirler.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833520,
@@ -108,8 +102,7 @@
         "D": "<p>İnteraktif VR deneyimleri</p>",
         "E": "<p>Sanal ürün gösterimi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833551,
@@ -124,8 +117,7 @@
         "D": "<p>Genel olarak belirli hedef kitle, demografik özellikler, ilgi alanları, konum ve davranış gibi faktörleri hedef alan bir reklamdır. 1992 yıllında.</p>",
         "E": "<p>1994 yılında kullanıcıların dikkatini çekme ve istenilen tepkiyi tetikleme yöntemi olarak ortaya çıkmıştır. Renkli animasyonlar ve görsellerin kullanıldığı reklamlardır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833564,
@@ -140,8 +132,7 @@
         "D": "<p>Sanal ürün tanıtımları </p>",
         "E": "<p>Geçiş reklamları</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833597,
@@ -156,7 +147,6 @@
         "D": "<p>AR, animasyonlar ve etkileşimli yetenekler içeren, doğası gereği dinamik olabilen reklamlardır. Böylelikle, markanın kitlelerle etkileşimini artırmasına yardımcı olabilir. </p>",
         "E": "<p>AR, işletmelerin ürünlerini veya hizmetlerini platformda tanıtmasına yardımcı olan ücretli bir pazarlama aracıdır. İdeal kitleye ulaşmak için belirli demografik özellikleri, sektörleri veya iş ünvanlarını hedefleyen ücretli reklam kampanyaları oluşturmaya ve yayımlamaya olanak tanır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

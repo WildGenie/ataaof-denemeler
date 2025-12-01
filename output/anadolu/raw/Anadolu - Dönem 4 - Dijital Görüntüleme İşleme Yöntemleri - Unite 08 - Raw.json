@@ -12,8 +12,7 @@
         "D": "<p>Kullanılan kodlara göre</p>",
         "E": "<p>Zaman ve mekan boyutlarında</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488779,
@@ -28,8 +27,7 @@
         "D": "<p>Dokunma</p>",
         "E": "<p>Koku alma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488780,
@@ -44,8 +42,7 @@
         "D": "<p>Algısal iletişim</p>",
         "E": "<p> Kişiler arası iletişim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488781,
@@ -60,8 +57,7 @@
         "D": "<p>Anlamlandırılan metindir</p>",
         "E": "<p>Anlamlandırılan algıdır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488782,
@@ -76,8 +72,7 @@
         "D": "<p>Kaynak</p>",
         "E": "<p>Kod</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488785,
@@ -92,8 +87,7 @@
         "D": "<p>İmgeci</p>",
         "E": "<p>Simgeci</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488786,
@@ -108,8 +102,7 @@
         "D": "<p>Simge</p>",
         "E": "<p>Anlam</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488787,
@@ -124,8 +117,7 @@
         "D": "<p>Bildirişim</p>",
         "E": "<p>Simge</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488965,
@@ -140,8 +132,7 @@
         "D": "<p>Gösterge ve elemanları farklı sistemler içerisinde yeni bir düzen kurabilir mi?</p>",
         "E": "<p>Gösterge fizyolojik olarak farklı ortam ve ışık koşullarından etkileniyor mu ve anlam sızmaları yaratıyor mu?</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488976,
@@ -156,8 +147,7 @@
         "D": "<p>Yansıtılan anlam</p>",
         "E": "<p>Düzanlam</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488991,
@@ -172,8 +162,7 @@
         "D": "<p>Logogram</p>",
         "E": "<p>Soyutlanmış sembol</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488992,
@@ -188,8 +177,7 @@
         "D": "<p>Çağrışımsal anlamı olan ve duyguyu yönlendiren bir tözdür.</p>",
         "E": "<p>Kendi anlamı dışında başka anlamlara sızma yaratmaz.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488994,
@@ -204,8 +192,7 @@
         "D": "<p>Sözsüz iletişim</p>",
         "E": "<p>Uzaktan iletişim </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488997,
@@ -220,8 +207,7 @@
         "D": "<p>gösterendir / simge</p>",
         "E": "<p>gösterilendir / simge</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488998,
@@ -236,8 +222,7 @@
         "D": "<p>Bir bölgenin krokisi benzetge için göstergedir.</p>",
         "E": "<p>Bellekte benzerlik ilişkisi olarak belirirler.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488999,
@@ -252,8 +237,7 @@
         "D": "<p>Tutsaklık </p>",
         "E": "<p>Alfabe </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489000,
@@ -268,8 +252,7 @@
         "D": "<p>İdeogram </p>",
         "E": "<p>İkonografi </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489001,
@@ -284,8 +267,7 @@
         "D": "<p>Gösterge işlevsel olarak görme, algı ve algılama sürecini pozitif olarak sağlıyor mu? </p>",
         "E": "<p>Göstergenin oluşturduğu anlam düzen dışına taşıyor mu, çatışma yaratıyor mu? </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489002,
@@ -300,8 +282,7 @@
         "D": "<p>I, II, III ve IV</p>",
         "E": "<p>I, II, III ve V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489005,
@@ -316,8 +297,7 @@
         "D": "<p>Dizimler saymacalar tarafından düzene konulmaktadır. </p>",
         "E": "<p>Anlamı ifade eder ve yüklenirler.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488784,
@@ -332,8 +312,7 @@
         "D": "<p>J. Habermas</p>",
         "E": "<p>Louis Althusser</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488963,
@@ -348,8 +327,7 @@
         "D": "<p>Psikolojik anlam</p>",
         "E": "<p>İkonografik anlam</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488980,
@@ -364,8 +342,7 @@
         "D": "<p>Kodları oluşturan temel birimler göstergelerdir.</p>",
         "E": "<p>Kodlar toplumsallığın ve toplumsal geçmişin bir parçası olarak üretilir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488985,
@@ -380,8 +357,7 @@
         "D": "<p>Metafor</p>",
         "E": "<p>Mitoloji</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489003,
@@ -396,8 +372,7 @@
         "D": "<p>Yananlam </p>",
         "E": "<p>Belirtge</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489004,
@@ -412,8 +387,7 @@
         "D": "<p>Araba görseli </p>",
         "E": "<p>Guernica tablosu </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488783,
@@ -428,8 +402,7 @@
         "D": "<p>Düşünce</p>",
         "E": "<p>Bakış</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488964,
@@ -444,8 +417,7 @@
         "D": "<p>Dizimsel boyut</p>",
         "E": "<p>Syntax</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488974,
@@ -460,8 +432,7 @@
         "D": "<p>Mit</p>",
         "E": "<p>Metafor</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488990,
@@ -476,7 +447,6 @@
         "D": "<p>Yüz yüze iletişim</p>",
         "E": "<p>Telekomünikasyon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     }
 ]

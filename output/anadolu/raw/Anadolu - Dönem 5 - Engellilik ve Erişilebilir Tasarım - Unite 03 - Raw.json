@@ -12,8 +12,7 @@
         "D": "<p>III-IV-I</p>",
         "E": "<p>I-II-III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862971,
@@ -28,8 +27,7 @@
         "D": "<p>Tanımlarlar</p>",
         "E": "<p>Test ederler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862973,
@@ -44,8 +42,7 @@
         "D": "<p>Teknolojik değişimleri yansıtması</p>",
         "E": "<p>Gelenekesel yazı karakterlerinin kullanılması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862974,
@@ -60,8 +57,7 @@
         "D": "<p>Comic Sans </p>",
         "E": "<p>Trebuchet</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862975,
@@ -76,8 +72,7 @@
         "D": "<p>Uzun metinlerde küçük harf kullanımı metnin okunmasını sağlar</p>",
         "E": "<p>Çok farklı yazı tipi kullanılması okunurluğu azaltır </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862976,
@@ -92,8 +87,7 @@
         "D": "<p>Yeşil</p>",
         "E": "<p>Mavi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862978,
@@ -108,8 +102,7 @@
         "D": "<p>Bedensel</p>",
         "E": "<p>Sözel</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863034,
@@ -124,8 +117,7 @@
         "D": "<p>Gönderici-İletişim Aracı-Mesaj-Geri Bildirim-Alıcı</p>",
         "E": "<p>Gönderici-Mesaj-İletişim Aracı-Alıcı-Geri Bildirim </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863035,
@@ -140,8 +132,7 @@
         "D": "<p>Gönderici</p>",
         "E": "<p>Mesaj</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863037,
@@ -156,8 +147,7 @@
         "D": "<p>Tanımlama </p>",
         "E": "<p>Çözüm üretme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863038,
@@ -172,8 +162,7 @@
         "D": "<p>Tipografi</p>",
         "E": "<p>Fotografi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863039,
@@ -188,8 +177,7 @@
         "D": "<p>Punto-Pika</p>",
         "E": "<p>Karakter-Hurufat</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863040,
@@ -204,8 +192,7 @@
         "D": "<p>Orantısız </p>",
         "E": "<p>Yakın aralıklı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863041,
@@ -220,8 +207,7 @@
         "D": "<p>Erişilebilir tasarımlar tercih edilmelidir. </p>",
         "E": "<p>Engelli bireyler için algılamayı destekleyici teknolojilerin kullanılması konusunda tek yönlü yaklaşımlar tercih edilmelidir. </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863043,
@@ -236,8 +222,7 @@
         "D": "<p>Görme yetersizliği ya da renk körlüğüne sahip bireyler için verilmek istenen mesaj doğrultusunda büyük imajlar kullanılmalıdır. </p>",
         "E": "<p>İmaj seçiminde sosyal ve kültürel farklılar göz önünde bulundurulmalı, kapsayıcı tasarımlar yapılmalıdır. </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863315,
@@ -252,8 +237,7 @@
         "D": "Araç - alıcı - gönderici",
         "E": "Geribildirim - gönderici - alıcı",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863317,
@@ -268,8 +252,7 @@
         "D": "Kavramların geliştirilmesi",
         "E": "Tasarım uygulamasının ortaya konması",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863321,
@@ -284,8 +267,7 @@
         "D": "Engel gruplarına göre renk algıda seçicilik yaratabilir.",
         "E": "Bir tasarımda veri görselleştirmesi yaparken algılamayı güçleştirecek<br />parlak ve çok renkten kaçınılmalıdır.",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863322,
@@ -300,8 +282,7 @@
         "D": "Düz anlam",
         "E": "Metafor",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863323,
@@ -316,8 +297,7 @@
         "D": "İmge",
         "E": "Metafor",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862977,
@@ -332,8 +312,7 @@
         "D": "<p>Nötr renkler yoğun kullanılmışsa</p>",
         "E": "<p>Görseller seyreltilmişse</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863042,
@@ -348,8 +327,7 @@
         "D": "<p>Leonard Ambrose</p>",
         "E": "<p>Urie Bronfenbrenner</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863314,
@@ -364,8 +342,7 @@
         "D": "İletişim",
         "E": "Algı",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863318,
@@ -380,8 +357,7 @@
         "D": "Prototip",
         "E": "Empati kurma",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863319,
@@ -396,8 +372,7 @@
         "D": "Punto satırların uzunluğunu ölçmek için kullanılır.",
         "E": "Okunabilirlik, yazı tipi, boyutu, rengi gibi tüm tasarım ilkeleriyle bağlantılıdır.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862969,
@@ -412,8 +387,7 @@
         "D": "<p>Çözüm üretmeye başlamak. </p> ",
         "E": "<p>Çözümlerinizi denememek.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862972,
@@ -428,8 +402,7 @@
         "D": "<p>Dijital medya</p>",
         "E": "<p>Kompozisyon</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863316,
@@ -444,8 +417,7 @@
         "D": "Fikir üretimi",
         "E": "Uygulama",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863320,
@@ -460,8 +432,7 @@
         "D": "Okuturluk",
         "E": "Hiyerarşi",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863036,
@@ -476,7 +447,6 @@
         "D": "<p>IV-III-V-II-I</p>",
         "E": "<p>II-IV-III-V-I</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     }
 ]

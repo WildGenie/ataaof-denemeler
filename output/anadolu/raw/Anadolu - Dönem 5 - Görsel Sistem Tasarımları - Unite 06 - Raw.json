@@ -12,8 +12,7 @@
         "D": "<p>1990'lar</p>",
         "E": "<p>2000'ler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862611,
@@ -28,8 +27,7 @@
         "D": "<p>Kurum içi iletişime katkı sağlar</p>",
         "E": "<p>Kurum içi işleyişi düzenler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862612,
@@ -44,8 +42,7 @@
         "D": "<p>Değişen ekonomik ve teknolojik koşullara göre yeniden yapılanma sürecinde olması</p>",
         "E": "<p>Desteklenmiş kimliğe sahip olma isteğinden</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862613,
@@ -60,8 +57,7 @@
         "D": "<p>Sembol, doku, ses, renk, marka, yazı, mimari tasarım gibi görünen, duyulan, hissedilebilen her türlü uyaran tasarlanıp kimlik sistemine eklenmesiyle ortaya çıkan yapılanmadır.</p>",
         "E": "<p>Kurumu rakiplerinden ayıran ve hatırlanmasını sağlayan öğelerin algılanabilirliği.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862614,
@@ -76,8 +72,7 @@
         "D": "<p>Sembol</p>",
         "E": "<p>Kurumsal mimari ve iç mimarlık tasarımı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862615,
@@ -92,8 +87,7 @@
         "D": "<p>Motorola</p>",
         "E": "<p>International Harvester</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862616,
@@ -108,8 +102,7 @@
         "D": "<p>Böyle kurumlar doğrudan yaptığı işten isimlerini alır. Bu tür isimleri hatırlamak ve kuruma mal etmek kolay ama korumaya alıp tescil ettirmek de bir o kadar zordur</p>",
         "E": "<p>Herhangi bir dilde karşılığı olmayan isimlerdir. Bazen sektörle fonetik bağı olan bir çağrıştırıcı olabileceği gibi bazen de tamamen ilgisiz olabilirler.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862617,
@@ -124,8 +117,7 @@
         "D": "<p>Şirketin stili ve teknik ihtiyaçlarını bir arada tutmalıdır</p>",
         "E": "<p>Kısa, basit, okunması ve söylenmesi kolay, kulağa hoş gelmelidir</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862618,
@@ -140,7 +132,6 @@
         "D": "<p>Farklı gruplar oluşturmak</p>",
         "E": "<p>Detayları kaldırmak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     }
 ]

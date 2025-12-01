@@ -12,8 +12,7 @@
         "D": "<p>Kaplama</p>",
         "E": "<p>Raporlama</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488747,
@@ -28,8 +27,7 @@
         "D": "<p>Rotoskop</p>",
         "E": "<p>Stop-motion</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488748,
@@ -44,8 +42,7 @@
         "D": "<p>Nitelik Yöneticisi r) </p>",
         "E": "<p>Viewport</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488749,
@@ -60,8 +57,7 @@
         "D": "<p>Coordinates Manager</p>",
         "E": "<p>Icon Pane</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488751,
@@ -76,8 +72,7 @@
         "D": "<p>Saul Bass</p>",
         "E": "<p>Brandon Hırzel</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489055,
@@ -92,8 +87,7 @@
         "D": "<p>Araştırma – Moodboard – Storyboard</p>",
         "E": "<p>Görüşme – Araştırma – Moodboard</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489056,
@@ -108,8 +102,7 @@
         "D": "<p>Render</p>",
         "E": "<p>Işıklandırma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489058,
@@ -124,8 +117,7 @@
         "D": "<p>How We Built Britain Jeneriği - Üç Boyutlu (3B) Animasyon Yöntemi</p>",
         "E": "<p>Offf-2014 St Petersburg tanıtım filmi - Cut-out Yöntemi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489060,
@@ -140,8 +132,7 @@
         "D": "<p>Malzeme Yöneticisi Menüsü</p>",
         "E": "<p>Model Oluşturma Yöneticisi Menüsü</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489063,
@@ -156,8 +147,7 @@
         "D": "<p>Bilgisayar oyun jeneriklerinde</p>",
         "E": "<p>Spor haber bülteni kapanış jeneriklerinde</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489189,
@@ -172,8 +162,7 @@
         "D": "<p>Montaj ve Kurgu</p>",
         "E": "<p>Kaplama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489192,
@@ -188,8 +177,7 @@
         "D": "<p>Cut _out</p>",
         "E": "<p>Stop-motion</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489193,
@@ -204,8 +192,7 @@
         "D": "<p>Cut Out</p>",
         "E": "<p>Storyboard</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489194,
@@ -220,8 +207,7 @@
         "D": "<p>Stop Motion</p>",
         "E": "<p>Cel Animasyon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489195,
@@ -236,8 +222,7 @@
         "D": "<p>Adobe Illustrator</p>",
         "E": "<p>Arnold</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489199,
@@ -252,8 +237,7 @@
         "D": "<p>Render</p>",
         "E": "<p>Kaplama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489201,
@@ -268,8 +252,7 @@
         "D": "<p>Rotoskopi yöntemi</p>",
         "E": "<p>Üç boyutlu animasyon yöntemi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489203,
@@ -284,8 +267,7 @@
         "D": "<p>Stop motion yöntemi</p>",
         "E": "<p>Cut-out yöntemi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489206,
@@ -300,8 +282,7 @@
         "D": "<p>Adobe Premiere</p>",
         "E": "<p>Avid Video Composer</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489207,
@@ -316,8 +297,7 @@
         "D": "<p>Altı</p>",
         "E": "<p>Üç</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488746,
@@ -332,8 +312,7 @@
         "D": "<p>Üç Boyutlu (3B) Animasyon </p>",
         "E": "<p>Stop Motion</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488750,
@@ -348,8 +327,7 @@
         "D": "<p>1990'lar</p>",
         "E": "<p>2000'ler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489057,
@@ -364,8 +342,7 @@
         "D": "<p>Rotoskopi Yöntemi</p>",
         "E": "<p>Üç Boyutlu (3B) Animasyon Yöntemi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489061,
@@ -380,8 +357,7 @@
         "D": "<p>Nitelik Yöneticisi Menüsü</p>",
         "E": "<p>Koordinatlar Yöneticisi Menüsü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489062,
@@ -396,8 +372,7 @@
         "D": "<p>Maxon Cinema 4D</p>",
         "E": "<p>Final Cut Pro</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489196,
@@ -412,8 +387,7 @@
         "D": "<p>Adobe After Effects</p>",
         "E": "<p>Stop Motion</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489198,
@@ -428,8 +402,7 @@
         "D": "<p>Moonboard</p>",
         "E": "<p>Storyboard</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489204,
@@ -444,8 +417,7 @@
         "D": "<p>Final Cut Pro</p>",
         "E": "<p>Adobe After Effects</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489205,
@@ -460,8 +432,7 @@
         "D": "<p>6</p>",
         "E": "<p>3</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488743,
@@ -476,8 +447,7 @@
         "D": "<p>Render</p>",
         "E": "<p>Moodboard</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488744,
@@ -492,8 +462,7 @@
         "D": "<p>Kaplama</p>",
         "E": "<p>Modelleme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489064,
@@ -508,8 +477,7 @@
         "D": "<p>CGI Bilgisayar Grafikleri</p>",
         "E": "<p>Cinema 4D yazılımı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489188,
@@ -524,8 +492,7 @@
         "D": "<p>Işıklandırma</p>",
         "E": "<p>Modelleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489197,
@@ -540,8 +507,7 @@
         "D": "<p>Motion Capture</p>",
         "E": "<p>Adobe Premiere</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489200,
@@ -556,8 +522,7 @@
         "D": "<p>Rotoskopi yöntemi</p>",
         "E": "<p>Üç boyutlu animasyon yöntemi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489202,
@@ -572,8 +537,7 @@
         "D": "<p>2</p>",
         "E": "<p>8</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488745,
@@ -588,8 +552,7 @@
         "D": "<p>12</p>",
         "E": "<p>24</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489190,
@@ -604,8 +567,7 @@
         "D": "<p>Storyboard</p>",
         "E": "<p>Kurgu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489191,
@@ -620,8 +582,7 @@
         "D": "<p>Cut out</p>",
         "E": "<p>Montaj ve Kurgu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489059,
@@ -636,7 +597,6 @@
         "D": "<p>Kaplama</p>",
         "E": "<p>Işıklandırma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     }
 ]

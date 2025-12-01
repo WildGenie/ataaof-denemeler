@@ -12,8 +12,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>Yalnız I</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3768995,
@@ -28,8 +27,7 @@
         "D": "<p>Dijital direniş</p>",
         "E": "<p>Geleneksel medya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3768998,
@@ -44,8 +42,7 @@
         "D": "<p>6</p>",
         "E": "<p>3</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3768999,
@@ -60,8 +57,7 @@
         "D": "<p>Toplumsal izolasyon</p>",
         "E": "<p>Trollük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769002,
@@ -76,8 +72,7 @@
         "D": "<p>Yalnız III</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769045,
@@ -92,8 +87,7 @@
         "D": "<p>Aktivism </p>",
         "E": "<p>Sosyal uyum</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769046,
@@ -108,8 +102,7 @@
         "D": "<p>Topluluk üyelerinin davranışlarını yönlendiren örtük ya da açık kurallar biçimindeki prensipler,<br /><br /></p>",
         "E": "<p>Sosyal etkileşime aracılık eden taşıyıcı dijital platform olarak hizmet veren teknik bir sistem</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769047,
@@ -124,8 +117,7 @@
         "D": "<p>BitTorrent</p>",
         "E": "<p>MoveOn</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769049,
@@ -140,8 +132,7 @@
         "D": "<p>Stalking</p>",
         "E": "<p>Gaslighting</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769051,
@@ -156,8 +147,7 @@
         "D": "<p>Zarar vermeyiniz</p>",
         "E": "<p>Etkileri idrak ediniz</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769053,
@@ -172,8 +162,7 @@
         "D": "<p>Full Tilt Poker</p>",
         "E": "<p>Craigslist</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769180,
@@ -188,8 +177,7 @@
         "D": "<p>Sosyal toplum</p>",
         "E": "<p>Postmodern toplum</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769190,
@@ -204,8 +192,7 @@
         "D": "<p>Dijital uçurum</p>",
         "E": "<p>Küresel ayrışma</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769191,
@@ -220,8 +207,7 @@
         "D": "<p>Ağ alanı</p>",
         "E": "<p>Bilgi toplumu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769193,
@@ -236,8 +222,7 @@
         "D": "<p>Paylaşımlı uygulamalar</p>",
         "E": "<p>Konum tabanlı uygulamalar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769261,
@@ -252,8 +237,7 @@
         "D": "<p>İnternet</p>",
         "E": "<p>Artırılmış gerçeklik </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769265,
@@ -268,8 +252,7 @@
         "D": "<p>Yetkili mercilere fikir ve öneri iletmeyi sağlar</p>",
         "E": "<p>Maddi kazanç elde etmeye imkan tanır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769266,
@@ -284,8 +267,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769267,
@@ -300,8 +282,7 @@
         "D": "<p>Siber kriz</p>",
         "E": "<p>Teknolojik başkalaşma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769269,
@@ -316,8 +297,7 @@
         "D": "<p>Change.org</p>",
         "E": "<p>eBay</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3768996,
@@ -332,8 +312,7 @@
         "D": "<p>Politik söylem</p>",
         "E": "<p>Dijital uçurum</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3768997,
@@ -348,8 +327,7 @@
         "D": "<p>Yalnız I</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769043,
@@ -364,8 +342,7 @@
         "D": "<p>Dijital alan</p>",
         "E": "<p>Dijital uçurum</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769182,
@@ -380,8 +357,7 @@
         "D": "<p>Modern toplum</p>",
         "E": "<p>Ağ toplumu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769184,
@@ -396,8 +372,7 @@
         "D": "<p>Bilgi toplumu</p>",
         "E": "<p>Açık toplum</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769189,
@@ -412,8 +387,7 @@
         "D": "<p>Pasiflik</p>",
         "E": "<p>Agresiflik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769263,
@@ -428,8 +402,7 @@
         "D": "<p>Teknoloji devrimi</p>",
         "E": "<p>Bilgisayarın icadı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769264,
@@ -444,8 +417,7 @@
         "D": "<p>İletişim</p>",
         "E": "<p>Mahremiyet</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769268,
@@ -460,8 +432,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>I, II ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769270,
@@ -476,8 +447,7 @@
         "D": "<p>Toplumsal izolasyon</p>",
         "E": "<p>Depresyon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769044,
@@ -492,8 +462,7 @@
         "D": "<p>WELL</p>",
         "E": "<p>NATO</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769048,
@@ -508,8 +477,7 @@
         "D": "<p>Aracısızlaştırma</p>",
         "E": "<p>Hesap verilirlik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769188,
@@ -524,8 +492,7 @@
         "D": "<p>Postmodernizmin</p>",
         "E": "<p>Modernizmin</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769262,
@@ -540,8 +507,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3768994,
@@ -556,8 +522,7 @@
         "D": "<p>Rasyonellik</p>",
         "E": "<p>Dijital kültür</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769192,
@@ -572,8 +537,7 @@
         "D": "<p>Sosyal etkileşime aracılık eden taşıyıcı dijital<br />platform olarak hizmet veren teknik bir sistem</p>",
         "E": "<p>Temel iletişimin yüz yüze gerçekleştirilmesi ve etkinliklerin sadece yüz yüze yapılması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769194,
@@ -588,8 +552,7 @@
         "D": "<p>Sanayileşme</p>",
         "E": "<p>Postmodernizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769001,
@@ -604,8 +567,7 @@
         "D": "<p>Karma gerçeklik</p>",
         "E": "<p>Fotoğraf</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769000,
@@ -620,8 +582,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769050,
@@ -636,7 +597,6 @@
         "D": "<p>Wikipedia</p>",
         "E": "<p>Foursquare</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

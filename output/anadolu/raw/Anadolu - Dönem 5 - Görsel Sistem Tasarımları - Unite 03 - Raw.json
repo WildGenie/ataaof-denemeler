@@ -12,8 +12,7 @@
         "D": "<p>Yüzeysel Oran</p> ",
         "E": " <p>Modüler Grid</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862307,
@@ -28,8 +27,7 @@
         "D": "<p>Vincent Van Gogh</p> ",
         "E": " <p>Pieter Bruegel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862309,
@@ -44,8 +42,7 @@
         "D": "<p>Chiller</p>",
         "E": " <p>Futura</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862310,
@@ -60,8 +57,7 @@
         "D": " <p>Renk alanını çarpıcı yapmak</p> ",
         "E": " <p>Yazı alanını okutur alanlara bölmek</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862313,
@@ -76,8 +72,7 @@
         "D": "<p>Dergi</p> ",
         "E": "<p>Broşür</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862314,
@@ -92,8 +87,7 @@
         "D": "<p>Serifsiz yazı karakteri</p> ",
         "E": " <p>Sans Serif yazı karakteri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862315,
@@ -108,8 +102,7 @@
         "D": "<p>Yazı</p> ",
         "E": " <p>Simetri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862345,
@@ -124,8 +117,7 @@
         "D": "<p>Hiyeroglif</p>",
         "E": "<p>Runik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862346,
@@ -140,8 +132,7 @@
         "D": "<p>Epicurius</p>",
         "E": "<p>Zeus</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862351,
@@ -156,8 +147,7 @@
         "D": "<p>1.333</p>",
         "E": "<p>2.111</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862357,
@@ -172,8 +162,7 @@
         "D": "<p>Albrecht Dürer</p>",
         "E": "<p>Leonardo da Vinci</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862359,
@@ -188,8 +177,7 @@
         "D": "<p>Albrecht Dürer</p>",
         "E": "<div class=\"CCgQ5 vCa9Yd QfkTvb N8QANc MUxGbd v0nnCb\" role=\"heading\" aria-level=\"3\">Gustave Courbet</div> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862361,
@@ -204,8 +192,7 @@
         "D": "<p>I-II-III-IV-V</p>",
         "E": "<p>III-IV-V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862364,
@@ -220,8 +207,7 @@
         "D": "<p>Yakınlık</p>",
         "E": "<p>Bütünlük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862562,
@@ -236,8 +222,7 @@
         "D": "<p>5.702</p>",
         "E": "<p>3.205</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862565,
@@ -252,8 +237,7 @@
         "D": "<p>Andre Green</p>",
         "E": "<p>Stefan Sagmeister</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862566,
@@ -268,8 +252,7 @@
         "D": "<p>Metaforik</p>",
         "E": "<p>Modulor<br /><br /></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862568,
@@ -284,8 +267,7 @@
         "D": "<p>Resim</p>",
         "E": "<p>Sayfa Numarası</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862569,
@@ -300,8 +282,7 @@
         "D": "<p>Futura</p>",
         "E": "<p>Espas</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862570,
@@ -316,8 +297,7 @@
         "D": "<p>Bold</p>",
         "E": "<p>Serifli</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862308,
@@ -332,8 +312,7 @@
         "D": "<p>5-8 kelime arası</p> ",
         "E": " <p>5-10 kelime arası</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862312,
@@ -348,8 +327,7 @@
         "D": " <p>İllüstrasyon</p>",
         "E": "<p>Harita</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862360,
@@ -364,8 +342,7 @@
         "D": "<p>Kanon</p>",
         "E": "<p>Etrüsk</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862365,
@@ -380,8 +357,7 @@
         "D": "<p>Gill</p>",
         "E": "<p>Didot</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862564,
@@ -396,8 +372,7 @@
         "D": "<p>Andre Green</p>",
         "E": "<p>Rem Kohlhaas</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862571,
@@ -412,8 +387,7 @@
         "D": "<p>Espas</p>",
         "E": "<p>Bold</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862311,
@@ -428,8 +402,7 @@
         "D": "<p>Resimler</p> ",
         "E": "<p>Şekiller</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862363,
@@ -444,8 +417,7 @@
         "D": "<p>I-c, II-b, III-a</p>",
         "E": "<p>I-c, II-a, III-b</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862563,
@@ -460,8 +432,7 @@
         "D": "<p>Andre Green <br /><br /></p>",
         "E": "<p>Rem Kohlhaas</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862567,
@@ -476,7 +447,6 @@
         "D": "<p>Üçken</p>",
         "E": "<p>Kare</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     }
 ]

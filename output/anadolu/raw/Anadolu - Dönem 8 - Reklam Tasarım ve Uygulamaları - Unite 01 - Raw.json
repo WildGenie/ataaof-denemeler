@@ -12,8 +12,7 @@
         "D": "<p>Sponsorluk</p>",
         "E": "<p>Reklam</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832016,
@@ -28,8 +27,7 @@
         "D": "<p>Hatırlatma işlevi</p>",
         "E": "<p>Reklamverenin diğer çaba ve çalışmalarını destekleme işlevi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832018,
@@ -44,8 +42,7 @@
         "D": "<p>Jackson Height semtinde satılık dairelerin reklamı</p>",
         "E": "<p>The General Magazin dergisinin reklamı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832847,
@@ -60,8 +57,7 @@
         "D": "<p>Yaratıcı Butik Reklam Ajansları</p>",
         "E": "<p>Uzman Reklam Ajansları</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832852,
@@ -76,8 +72,7 @@
         "D": "<p>Kreatif Birim</p>",
         "E": "<p>Veri Analitik Birimi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832855,
@@ -92,8 +87,7 @@
         "D": "<p>Prodüksiyon Birimi</p>",
         "E": "<p>Kreatif Birim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832859,
@@ -108,8 +102,7 @@
         "D": "<p>Gazete</p>",
         "E": "<p>Internet</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834114,
@@ -124,8 +117,7 @@
         "D": "<p>Radyo reklamcılığının yaygınlaşması</p>",
         "E": "<p>Gazete reklamlarının azalması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834138,
@@ -140,8 +132,7 @@
         "D": "<p>Tüketiciyi markanın amacı doğrultusunda ikna etmek</p>",
         "E": "<p>Markanın sponsorluk faaliyetlerini düzenlemek</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834143,
@@ -156,7 +147,6 @@
         "D": "<p>Reklam sadece basılı mecralarda yapılabilir.</p>",
         "E": "<p>Reklamlar genellikle kişiye özel mesajlar içerir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

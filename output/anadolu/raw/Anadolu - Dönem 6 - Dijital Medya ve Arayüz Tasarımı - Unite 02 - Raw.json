@@ -12,8 +12,7 @@
         "D": "<p>Ekonomiye katkı</p>",
         "E": "<p>İnsan ihtiyaçlarına hizmet etme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3592860,
@@ -28,8 +27,7 @@
         "D": "<p>Erişilebilirlik</p>",
         "E": "<p>Çoklu platform uyumu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3592862,
@@ -44,8 +42,7 @@
         "D": "<p>Kodlama</p>",
         "E": "<p>Arayüz</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3592863,
@@ -60,8 +57,7 @@
         "D": "<p>Dokunmatik ekranlar</p>",
         "E": "<p>Sesli komut arayüzleri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3592864,
@@ -76,8 +72,7 @@
         "D": "<p>Sezgisellik</p>",
         "E": "<p>Tutarlılık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3592865,
@@ -92,8 +87,7 @@
         "D": "<p>İkon</p>",
         "E": "<p>Renkler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3592866,
@@ -108,8 +102,7 @@
         "D": "<p>Metin Alanı (Text Field)</p>",
         "E": "<p>İçerik Haritası (Breadcrumb)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3592868,
@@ -124,8 +117,7 @@
         "D": "<p>İpucu (Tooltip)</p>",
         "E": "<p>Başlık (Header)</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3592870,
@@ -140,8 +132,7 @@
         "D": "<p>Akışkan (Fluid) Izgara Sistemi</p>",
         "E": "<p>Sabit (Fixed) Izgara Sistemi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3592872,
@@ -156,8 +147,7 @@
         "D": "<p>İllustrative Design (İllüstratif Tasarım)</p>",
         "E": "<p>Typography-Centric Design (Tipografi Odaklı Tasarım)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3597916,
@@ -172,8 +162,7 @@
         "D": "<p>1985</p>",
         "E": "<p>1995</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3597917,
@@ -188,8 +177,7 @@
         "D": "<p>Araç Analizi</p>",
         "E": "<p>Erişilebilirlik Analizi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3597918,
@@ -204,8 +192,7 @@
         "D": "<p>Çoklu Platform Uyumluluğu</p>",
         "E": "<p>Kullanım Deneyimi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3597919,
@@ -220,8 +207,7 @@
         "D": "<p>Arayüzler çok çeşitli formlarda olabilirler.</p>",
         "E": "<p>Kullanıcı arayüzleri birbirinden farklıdır ve hepsi farklı amacı paylaşır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3597920,
@@ -236,8 +222,7 @@
         "D": "<p>Ritm/Tekrar</p>",
         "E": "<p>Sezgisellik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3597921,
@@ -252,8 +237,7 @@
         "D": "<p>Arama Alanı</p>",
         "E": "<p>Bağlantı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3597922,
@@ -268,8 +252,7 @@
         "D": "<p>Açılır Liste</p>",
         "E": "<p>Liste Kutusu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3597923,
@@ -284,8 +267,7 @@
         "D": "<p>Pencere</p>",
         "E": "<p>Mesaj Kutusu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3597924,
@@ -300,8 +282,7 @@
         "D": "<p>Hiyerarşik Izgara Sistemi</p>",
         "E": "<p>Akışkan Izgara Sistemi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3597925,
@@ -316,7 +297,6 @@
         "D": "<p>Ürün Odaklı Tasarım</p>",
         "E": "<p>Düz Tasarım</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

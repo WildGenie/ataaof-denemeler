@@ -12,8 +12,7 @@
         "D": "<p>Ürün Alanı</p>",
         "E": "<p>Marka alanı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862864,
@@ -28,8 +27,7 @@
         "D": "<p>Cam</p>",
         "E": "<p>metal</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862865,
@@ -44,8 +42,7 @@
         "D": "<p>Ambalaj kırılma, kontrol gibi konularda olağandışı zorluklar getiriyor mu?</p>",
         "E": "<p>Operasyonlar (üretim) tamamen mekanize, yarı otomatik mi yoksa elle mi olacak?</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862866,
@@ -60,8 +57,7 @@
         "D": "<p>Gerektiğinde ambalaj ve içindekiler sterilize edilebilir mi?</p>",
         "E": "<p>Ambalaj kırılma, kontrol gibi konularda olağandışı zorluklar getiriyor mu?</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862878,
@@ -76,8 +72,7 @@
         "D": "<p>Ambalaj boyutu</p>",
         "E": "<p>Ambalaj tasarımı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862879,
@@ -92,8 +87,7 @@
         "D": "<p>Üretim süreci</p>",
         "E": "<p>Tüketici anketleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862880,
@@ -108,8 +102,7 @@
         "D": "<p>İlerleme</p>",
         "E": "<p>Grup eleştirisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862881,
@@ -124,8 +117,7 @@
         "D": "<p>Geri bildirim</p>",
         "E": "<p>Moodboard</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862882,
@@ -140,8 +132,7 @@
         "D": "<p>Müşteri ne tür bir geri bildirim aldı veya ta­lep etti?</p>",
         "E": "<p>Tasarım hedef kitlenin duygularını harekete geçiriyor mu?</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862883,
@@ -156,8 +147,7 @@
         "D": "<p>III ve IV</p>",
         "E": "<p>III ve V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862884,
@@ -172,8 +162,7 @@
         "D": "<p>Metal</p>",
         "E": "<p>Plastik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862885,
@@ -188,8 +177,7 @@
         "D": "<p>Karton</p>",
         "E": "<p>Plastik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862886,
@@ -204,8 +192,7 @@
         "D": "<p>Geri dönüştürülebilir am­balaj tasarımı</p>",
         "E": "<p>Tasarım etik ve sorumlu­lukları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862887,
@@ -220,8 +207,7 @@
         "D": "<p>Ürünün kendisi ve ambalaj malzemesi arasındaki olası kimyasal reaksiyonların</p>",
         "E": "<p>Ürünün veya paketin boyutunun depolama, satış ve teslimat için uygunluğunun</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862888,
@@ -236,8 +222,7 @@
         "D": "<p>Moodboard</p>\n<p> </p>",
         "E": "<p>Soultable</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862889,
@@ -252,8 +237,7 @@
         "D": "<p>SPC</p>",
         "E": "<p>CtG</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862890,
@@ -268,8 +252,7 @@
         "D": "<p>Ambrose</p>",
         "E": "<p>Python</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862891,
@@ -284,8 +267,7 @@
         "D": "<p>Genellikle ekonomiklerdir</p>",
         "E": "<p>Standart boyutlarda ve tasarımlarda üretilirler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862892,
@@ -300,8 +282,7 @@
         "D": "<p>Müşteri ve ajansın yüz yüze görüşmesi ile sorulara yanıt aranır</p>",
         "E": "<p>Bu çalışma sadece tasarım detayları üzerine yapılır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862893,
@@ -316,7 +297,6 @@
         "D": "<p>Hedef kitleyi harekete geçirecek uyarıcı etmenler ve tasarımın başarısına engel olacak etmenler belirlemek.</p>",
         "E": "<p>Müşteri ve tasarım ekibinin aynı terimleri kullandığından emin olmak.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

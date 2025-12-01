@@ -12,8 +12,7 @@
         "D": "<p>Sanal gerçeklik</p>",
         "E": "<p>Gerçek ortam</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601438,
@@ -28,8 +27,7 @@
         "D": "<p class=\"p1\">Sensorama</p>",
         "E": "<p class=\"p1\">Demokles’in Kılıcı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601439,
@@ -44,8 +42,7 @@
         "D": "<p>Sağlık</p>",
         "E": "<p>Turizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601440,
@@ -60,8 +57,7 @@
         "D": "<p>doğal - aracılı</p>",
         "E": "<p>aracısız - doğal</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601441,
@@ -76,8 +72,7 @@
         "D": "<p>Sembolik/anlatısal sürükleyicilik</p>",
         "E": "<p>Sosyal sürükleyicilik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601442,
@@ -92,8 +87,7 @@
         "D": "<p>Microsoft</p>",
         "E": "<p>HTC</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601443,
@@ -108,8 +102,7 @@
         "D": "<p>Sanal ortam</p>",
         "E": "<p>Arttırılmış gerçeklik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601444,
@@ -124,8 +117,7 @@
         "D": "<p>Oculus</p>",
         "E": "<p>ARKit</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601445,
@@ -140,8 +132,7 @@
         "D": "<p>Proje geliştirmenin aşamaları sırasıyla takip edilir.</p>",
         "E": "<p class=\"p1\">Scrum, Agile’ın en popüler çerçevelerinden biri olarak öne çıkar.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601446,
@@ -156,7 +147,6 @@
         "D": "<p>Ortamın gerçekliği</p>",
         "E": "<p>Kullanıcı hareketinin özgürlüğü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

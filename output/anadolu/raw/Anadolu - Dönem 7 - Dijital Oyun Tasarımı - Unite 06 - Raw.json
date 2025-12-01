@@ -12,8 +12,7 @@
         "D": "<p>Dijital oyun mağazaları</p>",
         "E": "<p>Oyun yayıncıları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688603,
@@ -28,8 +27,7 @@
         "D": "<p>Oyuncu davranışlarını analiz etme</p>",
         "E": "<p>Karakter tasarımı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688606,
@@ -44,8 +42,7 @@
         "D": "<p>Oyun mekaniklerini üretme</p>",
         "E": "<p>Müzik besteleme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688609,
@@ -60,8 +57,7 @@
         "D": "<p>Oyunların sabit ve tahmin edilebilir olması</p>",
         "E": "<p>Anlık analizler ile daha gelişmiş oyunların ortaya çıkması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688611,
@@ -76,8 +72,7 @@
         "D": "<p>Arayüz tasarımı</p>",
         "E": "<p>Veri güvenliğini sağlama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688614,
@@ -92,8 +87,7 @@
         "D": "<p>Tahmin etme süreçlerinde oyun yapay zekâsı</p>",
         "E": "<p>İçerik kişiselleştirme süreçlerinde oyun yapay zekâsı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688615,
@@ -108,8 +102,7 @@
         "D": "<p>I, II ve IV</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688616,
@@ -124,8 +117,7 @@
         "D": "<p>Oyunun zorluğunu zaman geçtikçe artırma.</p>",
         "E": "<p>Oyun bittikten sonra oyuncuya oyunlar ile ilgili reklam gösterme.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688617,
@@ -140,8 +132,7 @@
         "D": "<p>Problem üretme</p>",
         "E": "<p>Oyun dışı tahmin etme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3688618,
@@ -156,7 +147,6 @@
         "D": "<p>İçerik kişiselleştirme süreçleri</p>",
         "E": "<p>Algılama süreçleri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

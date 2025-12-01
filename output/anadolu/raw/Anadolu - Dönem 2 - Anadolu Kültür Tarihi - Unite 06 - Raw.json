@@ -12,8 +12,7 @@
         "D": "<p>İslâm prenslikleri</p>",
         "E": "<p>Çin’le olan kara ticareti</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851368,
@@ -28,8 +27,7 @@
         "D": "<p>Kösedağ Savaşı</p>",
         "E": "<p>Sivas, Erzurum gibi merkezlerdeki refah</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851372,
@@ -44,8 +42,7 @@
         "D": "<p>Anadolu’ya fetih sonrası yoğun olarak gelen Oğuzlar arasında yer alan göçebeler</p>",
         "E": "<p>Kırım’ın fethi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851377,
@@ -60,8 +57,7 @@
         "D": "<p>Haçlı seferlerinden sonra</p>",
         "E": "<p>Fetihten sonra</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851380,
@@ -76,8 +72,7 @@
         "D": "<p>Girit dukası Marino Morosini</p>",
         "E": "<p>Süleyman Şah</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851382,
@@ -92,8 +87,7 @@
         "D": "<p>12. yüzyılın sonlarında</p>",
         "E": "<p>9. yüzyıl sonlarında</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851383,
@@ -108,8 +102,7 @@
         "D": "<p>sanayi odaları</p>",
         "E": "<p>iş adamları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851988,
@@ -124,8 +117,7 @@
         "D": "<p>Malazgirt savaşı</p>",
         "E": "<p>Kösedağ savaşı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851991,
@@ -140,8 +132,7 @@
         "D": "<p>Selçuklular</p>",
         "E": "<p>Bizanslılar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856443,
@@ -156,8 +147,7 @@
         "D": "<p>Niksar</p>",
         "E": "<p>Nicaea</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856448,
@@ -172,8 +162,7 @@
         "D": "<p>Sadece I</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856450,
@@ -188,8 +177,7 @@
         "D": "<p>Darüşşifa</p>",
         "E": "<p>Medrese</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856454,
@@ -204,8 +192,7 @@
         "D": "<p>Sosyal güvenlik</p>",
         "E": "<p>Askeri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856456,
@@ -220,8 +207,7 @@
         "D": "<p>Celaliler</p>",
         "E": "<p>Banat İsyanı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858780,
@@ -236,8 +222,7 @@
         "D": "<p>Danişmentliler</p>",
         "E": "<p>Saltuklular</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858805,
@@ -252,8 +237,7 @@
         "D": "<p>1290</p>",
         "E": "<p>1370</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859511,
@@ -268,8 +252,7 @@
         "D": "<p>16.yy</p>",
         "E": "<p>17.yy</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859531,
@@ -284,8 +267,7 @@
         "D": "<p>Pazarlar</p>",
         "E": "<p>Surlar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859543,
@@ -300,8 +282,7 @@
         "D": "<p>33</p>",
         "E": "<p>34</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859568,
@@ -316,8 +297,7 @@
         "D": "<p>Kızılırmak - Tekgöz Köprüsü</p>",
         "E": "<p>Sivas - Selçuklu Köprüsü</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851986,
@@ -332,8 +312,7 @@
         "D": "<p>Babai İsyanı</p>",
         "E": "<p>Gazneli Ayaklanması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851993,
@@ -348,8 +327,7 @@
         "D": "<p>Zeyilname</p>",
         "E": "<p>Ahitname</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851995,
@@ -364,8 +342,7 @@
         "D": "<p>Kervansaraylar</p>",
         "E": "<p>Camiler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851996,
@@ -380,8 +357,7 @@
         "D": "<p>Sadettin Han</p>",
         "E": "<p>Obruk Han</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851997,
@@ -396,8 +372,7 @@
         "D": "<p>I. Melikşah</p>",
         "E": "<p>Alp Arslan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856439,
@@ -412,8 +387,7 @@
         "D": "<p>Muid</p>",
         "E": "<p>Yesevi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856441,
@@ -428,8 +402,7 @@
         "D": "<p>Menteşeoğulları</p>",
         "E": "<p>Karesi Beyliği</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858776,
@@ -444,8 +417,7 @@
         "D": "<p>Osmanlılar</p>",
         "E": "<p>Danişmentliler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859537,
@@ -460,8 +432,7 @@
         "D": "<p>Sultan Han</p>",
         "E": "<p>Obruk Han</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859577,
@@ -476,8 +447,7 @@
         "D": "<p>Ahi Evran</p>",
         "E": "<p>İbn-i Sina</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851374,
@@ -492,8 +462,7 @@
         "D": "<p>İlhanlıların zayıflaması</p>",
         "E": "<p>Menteşeoğlu Orhan Bey’le Marino Morosini arasında imzalanan ticaret antlaşması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851385,
@@ -508,8 +477,7 @@
         "D": "<p>Sultan I. Murad</p>",
         "E": "<p>Sultan Baybars</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851984,
@@ -524,8 +492,7 @@
         "D": "<p>Lidyalılar</p>",
         "E": "<p>Sümerler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856458,
@@ -540,8 +507,7 @@
         "D": "<p>Ahi Evran</p>",
         "E": "<p>Taşlıcalı Yahya</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851386,
@@ -556,8 +522,7 @@
         "D": "<p>Huand Medresesi</p>",
         "E": "<p>Taş Medrese</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851990,
@@ -572,8 +537,7 @@
         "D": "<p>956-1098</p>",
         "E": "<p>1076-1214</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856446,
@@ -588,8 +552,7 @@
         "D": "<p>Anadolu’nun kısa süreli Moğol etkisi altında kalması</p>",
         "E": "<p>Kara ticaretinin batıya yönelmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859585,
@@ -604,8 +567,7 @@
         "D": "<p>Yunus Emre </p>",
         "E": "<p>II. Kılıçarslan </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856444,
@@ -620,8 +582,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>II ve IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851985,
@@ -636,7 +597,6 @@
         "D": "<p>Karaman</p>",
         "E": "<p>Trabzon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     }
 ]

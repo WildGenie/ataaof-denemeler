@@ -12,8 +12,7 @@
         "D": "<p>Pierre Lévy</p>",
         "E": "<p>David Gauntlett</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832556,
@@ -28,8 +27,7 @@
         "D": "<p>Umberto Eco</p>",
         "E": "<p>Manuel Castells</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832558,
@@ -44,8 +42,7 @@
         "D": "<p>Matematik eğitimi</p>",
         "E": "<p>Bağımsız medya yapımları</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832561,
@@ -60,8 +57,7 @@
         "D": "<p>Kullanıcıların sadece tüketici olmasını sağlaması</p>",
         "E": "<p>Hikâyeleri tek bir platformda toplaması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832565,
@@ -76,8 +72,7 @@
         "D": "<p>Sadece televizyon reklamları üzerinden pazarlama yapılmasını sağlaması</p>",
         "E": "<p>Geleneksel pazarlama yöntemlerini yok etmesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832570,
@@ -92,8 +87,7 @@
         "D": "<p>Yalnızca online oyunlar üreterek</p>",
         "E": "<p>Hikâyelerini sadece basılı kitaplar aracılığıyla yayarak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832574,
@@ -108,8 +102,7 @@
         "D": "<p>Tüketicilerin pasif hale getirilmesiyle</p>",
         "E": "<p>Yalnızca gazetelerde reklam yayınlanmasıyla</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832582,
@@ -124,8 +117,7 @@
         "D": "<p>Sadece animasyon serisi olarak var olmuştur.</p>",
         "E": "<p>Yalnızca oyuncak sektöründe faaliyet göstermektedir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832585,
@@ -140,8 +132,7 @@
         "D": "<p>Tüketicilerin markaya olan ilgisini azaltır.</p>",
         "E": "<p>Sadece belirli markalar tarafından desteklenir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832586,
@@ -156,7 +147,6 @@
         "D": "<p>Sadece bir medya platformunda faaliyet gösterirler.</p>",
         "E": "<p>Markalar tarafından kontrol edilen kitlelerdir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

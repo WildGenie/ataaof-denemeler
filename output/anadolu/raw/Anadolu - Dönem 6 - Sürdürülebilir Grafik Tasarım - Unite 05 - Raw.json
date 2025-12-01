@@ -12,8 +12,7 @@
         "D": "<p>1500</p>",
         "E": "<p>1600</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764104,
@@ -28,8 +27,7 @@
         "D": "<p>Manifesto</p>",
         "E": "<p>PNG</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764105,
@@ -44,8 +42,7 @@
         "D": "<p>Gravür</p>",
         "E": "<p>Tipo</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764106,
@@ -60,8 +57,7 @@
         "D": "<p>Harflerin ofset baskı sırasında kâğıt üzerinde oluşan çukurlaşmış etkisi</p>",
         "E": "<p>Harflerin serigrafi baskı sırasında kâğıt üzerinde oluşan çukurlaşmış etkisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764107,
@@ -76,8 +72,7 @@
         "D": "<p>Serigrafi</p>",
         "E": "<p>Baskıgrafi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764108,
@@ -92,8 +87,7 @@
         "D": "<p>PNG kalıplar</p>",
         "E": "<p>Ofset kalıplar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764109,
@@ -108,8 +102,7 @@
         "D": "<p>Litografi</p>",
         "E": "<p>Baskı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764110,
@@ -124,8 +117,7 @@
         "D": "<p>Serigrafi</p>",
         "E": "<p>PNG</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764111,
@@ -140,8 +132,7 @@
         "D": "<p>PNGfik</p>",
         "E": "<p>Sürdürülebilirlik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764112,
@@ -156,8 +147,7 @@
         "D": "<p>Zeminde açık renkler kullanmak</p>",
         "E": "<p>Yazıcı dostu tasarımlar yapmak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764245,
@@ -172,8 +162,7 @@
         "D": "<p>Johansson, Lundberg, ve Ryberg tarafından  2012 yılında.</p>",
         "E": "<p>C.F. Barth tarafından  2008 yılında.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764246,
@@ -188,8 +177,7 @@
         "D": "<p>İnfekt</p>",
         "E": "<p>Dijital baskı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764247,
@@ -204,8 +192,7 @@
         "D": "<p>Serigrafi baskı</p>",
         "E": "<p>Fotokopi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764248,
@@ -220,8 +207,7 @@
         "D": "<p>Kıvamlı bir mürekkebin, yönteme adını da veren ipek gibi gözenekli bir kalıptan geçerek, baskı yüzeyine aktarılması olarak özetlenebilir.</p>",
         "E": "<p>Elektriksel yüklenme kullanır. Baskı işlemi esnasında yoğunlaştırılmış ışınlar, silindirik bir <br />tambura yansıtılır. Belli bir elektrik yüküne sahip olan bu tambur, lazer ışınlarının vurduğu alanlarda tersine bir elektrik yüküne sahip olur. Basılacak imaj, elektriksel biçimde oluşturulmuş olur. Elektriksel yüke sahip bir mürekkep olan toneri kendine çeker. Çekilen toner kâğıda aktarılır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764249,
@@ -236,8 +222,7 @@
         "D": "<p>B serisi, her kâğıt bir öncekinin yarı alanına sahiptir. Sayı küçüldükçe kâğıt ölçüsü küçülür.</p>",
         "E": "<p>A ve B serileri kağıtlar için, C serisi ise zarflar için tanımlanmıştır. A0, A1, A2, …, A10 şeklinde ilerleyen bu serilerde her kâğıt bir öncekinin yarı alanına sahiptir. Sayı küçüldükçe kâğıt ölçüsü büyür.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764250,
@@ -252,8 +237,7 @@
         "D": "<p>Ciltleme</p>",
         "E": "<p>İnkjet</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764251,
@@ -268,8 +252,7 @@
         "D": "<p>Piksellerden oluşturulan görüntülerdir. Pikseller bir araya gelerek fotoğraf gibi çok ayrıntılı görüntüleri oluşturabilen, çok büyük miktarda küçük renkli karelerdir.</p>",
         "E": "<p>Dijital bir grafik dosyasının bilgisayar belleğinde kapladığı yer arttıkça bu dosyanın üretimi, işlenmesi ve görüntülenmesi sırasında harcanacak enerjinin asgari olması.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764252,
@@ -284,8 +267,7 @@
         "D": "<p>Vektör dosyaları, düşük çözünürlüğü olan dosyalardır.  Raster grafik dosyaları, çok yüksek çözünürlükteki dosyaları içerir.</p>",
         "E": "<p>Raster grafik dosyaları, bir görüntü oluşturmak için ızgara üzerinde matematiksel denklemler, çizgiler ve eğriler kullanır. Bu dosyalarda piksel yoktur. Vektör dosyaları, piksellerden oluşturulan görüntülerdir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764253,
@@ -300,8 +282,7 @@
         "D": "<p>Dosyaları mümkün olduğunca yerel olarak depolamak ve çevrimiçi depolama sağlayan bulut benzeri hizmetleri daha az kullanmak.<br /><br /></p>",
         "E": "<p>Mobil internet bağlantısı yerine yerel ağ bağlantılarını tercih etmek</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764254,
@@ -316,7 +297,6 @@
         "D": "<p>Raster grafik</p>",
         "E": "<p>Dijital baskı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

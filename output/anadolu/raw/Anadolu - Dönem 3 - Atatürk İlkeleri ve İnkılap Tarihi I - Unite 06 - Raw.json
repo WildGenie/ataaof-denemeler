@@ -12,8 +12,7 @@
         "D": "<p>İtalya</p>",
         "E": "<p>A.B.D.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887428,
@@ -28,8 +27,7 @@
         "D": "<p>Türk Kurtuluş Savaşı’nın zaferle sonuçlandığını gösteren ilk diplomatik ve siyasi belgedir.</p>",
         "E": "<p>İngiltere Başbakanı Lloyd George’un görevinden istifa etmek<br />zorunda kalmıştır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887429,
@@ -44,8 +42,7 @@
         "D": "<p>İsmet İnönü</p>",
         "E": "<p>Fevzi Çakmak</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887431,
@@ -60,8 +57,7 @@
         "D": "<p>Zor durumda kalındığında Doğu Anadolu'da Ermenilere toprak verilmesi konusunda esnek davranılması</p>",
         "E": "<p>Kapitülasyonlar konusunda kesinlikle taviz verilmemesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887433,
@@ -76,8 +72,7 @@
         "D": "<p>Paris Barış Konferansı</p>",
         "E": "<p>Versailles Antlaşması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887434,
@@ -92,8 +87,7 @@
         "D": "<p>Osmanlı borçları</p>",
         "E": "<p>A.B.D ile ilişkiler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887437,
@@ -108,8 +102,7 @@
         "D": "<p>Portekiz-ABD</p>",
         "E": "<p>Belçika-Portekiz</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887438,
@@ -124,8 +117,7 @@
         "D": "<p>İzmir İktisat kongresinin toplanması</p>",
         "E": "<p>Nüfus mübadelesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887439,
@@ -140,8 +132,7 @@
         "D": "<p>İtilaf devletlerini kapitülasyonları kabul ettirmek istemesi</p>",
         "E": "<p>Lozan konferansına çok sayıda devletin katılması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887440,
@@ -156,8 +147,7 @@
         "D": "<p>Japonya</p>",
         "E": "<p>ABD</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887441,
@@ -172,8 +162,7 @@
         "D": "<p>Batı Trakya Yunanistan’da kalmıştır.</p>",
         "E": "<p>Meriç nehri akım yönü Türkiye Yunanistan sınırı olmuştur.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887442,
@@ -188,8 +177,7 @@
         "D": "<p>Romanya</p>",
         "E": "<p>Japonya</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887444,
@@ -204,8 +192,7 @@
         "D": "<p>24</p>",
         "E": "<p>30</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887445,
@@ -220,8 +207,7 @@
         "D": "<p>Fevzi Çakmak</p>",
         "E": "<p>Refet Bele</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887446,
@@ -236,8 +222,7 @@
         "D": "<p>İspanya</p>",
         "E": "<p>Amerika</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887448,
@@ -252,8 +237,7 @@
         "D": "<p>Sevr Barış Antlaşması</p>",
         "E": "<p>Paris Barış Konferansı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887449,
@@ -268,8 +252,7 @@
         "D": "<p>Tevfik Paşa</p>",
         "E": "<p>Rıza Nur Bey</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887450,
@@ -284,8 +267,7 @@
         "D": "<p>Rauf Orbay</p>",
         "E": "<p>Fevzi Çakmak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887452,
@@ -300,8 +282,7 @@
         "D": "<p>4 Şubat 1923 - 29 Ekim 1923</p>",
         "E": "<p>21 Ocak 1923 - 23 Nisan 1923</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887453,
@@ -316,8 +297,7 @@
         "D": "<p>Kasr-ı Şirin Antlaşması</p>",
         "E": "<p>Paris Barış Antlaşması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887427,
@@ -332,8 +312,7 @@
         "D": "<p>Barış antlaşması imzalanmasına kadar Türk ordusu Doğu Trakya’ya geçemeyecektir.</p>",
         "E": "<p>Barış antlaşmasının imzalanmasına kadar Meriç’in sağ sahili ve Karaağaç, İtilaf devletlerinin işgali altında kalacaktır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887432,
@@ -348,8 +327,7 @@
         "D": "<p>Romanya-Türkiye-Yunanistan-Sovyet Rusya</p>",
         "E": "<p>Sovyet Rusya-ABD-Türkiye-Yunanistan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887435,
@@ -364,8 +342,7 @@
         "D": "<p>Lozan anlaşması</p>",
         "E": "<p>Çanakkale anlaşması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887443,
@@ -380,8 +357,7 @@
         "D": "<p>Montrö Anlaşması</p>",
         "E": "<p>Kasrı Şirin Anlaşması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887447,
@@ -396,8 +372,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887451,
@@ -412,8 +387,7 @@
         "D": "<p>Japonya</p>",
         "E": "<p>Amerika</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887436,
@@ -428,8 +402,7 @@
         "D": "<p>Doğu sınırı</p>",
         "E": "<p>Adalar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887430,
@@ -444,7 +417,6 @@
         "D": "<p>Zekai Apaydın</p>",
         "E": "<p>Fevzi Çakmak</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     }
 ]

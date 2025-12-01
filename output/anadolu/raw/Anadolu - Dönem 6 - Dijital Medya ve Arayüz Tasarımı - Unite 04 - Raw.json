@@ -12,8 +12,7 @@
         "D": "<p>İletişim</p>",
         "E": "<p>Bilgiye erişim ve etkileşim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3592892,
@@ -28,8 +27,7 @@
         "D": "<p>İstemci</p>",
         "E": "<p>İstek</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3592896,
@@ -44,8 +42,7 @@
         "D": "<p>Sunucu iletişimi</p>",
         "E": "<p>Veri paylaşımı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3592897,
@@ -60,8 +57,7 @@
         "D": "<p>CSS</p>",
         "E": "<p>HTML</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3592898,
@@ -76,8 +72,7 @@
         "D": "<p>Düşük yineleme</p>",
         "E": "<p>Animasyon ve Geçişler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594185,
@@ -92,8 +87,7 @@
         "D": "<p>Erişilebilirlik ve uyumluluk</p>",
         "E": "<p>Etkileşim ve görsellik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594194,
@@ -108,8 +102,7 @@
         "D": "<p>Mobil tasarım</p>",
         "E": "<p>Öncelikli tasarım</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594878,
@@ -124,8 +117,7 @@
         "D": "<p>Android Auto</p>",
         "E": "<p>Wear OS</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594882,
@@ -140,8 +132,7 @@
         "D": "<p>Yaratıcılığın Sınırlanması</p>",
         "E": "<p>Teknolojinin Belirlenimciliği</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594887,
@@ -156,8 +147,7 @@
         "D": "<p>Işık</p>",
         "E": "<p>Ölçek</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596818,
@@ -172,8 +162,7 @@
         "D": "<p>.<br />• Adım 4: Sunucu Yanıtı</p>",
         "E": "<p>Ön Uç (Front-end) Web Geliştirme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3596819,
@@ -188,8 +177,7 @@
         "D": "<p>Adım 3: HTTP İsteği</p>",
         "E": "<p>Adım 1: URL Kullanımı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3597037,
@@ -204,8 +192,7 @@
         "D": "<p>Uyarlama ve Tepki</p>",
         "E": "<p>Animasyon ve Geçişler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3597040,
@@ -220,8 +207,7 @@
         "D": "<p>Mobil Uygulama Geliştirme:</p>",
         "E": "<p>Oyun Geliştirme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3597043,
@@ -236,8 +222,7 @@
         "D": "<p>Etkileşim ve Görsellik</p>",
         "E": "<p>Erişilebilirlik ve Uyumluluk</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3597242,
@@ -252,8 +237,7 @@
         "D": "<p>Erişilebilirlik ve Uyumluluk</p>",
         "E": "<p>Erişilebilirlik ve Uyumluluk</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3597243,
@@ -268,8 +252,7 @@
         "D": "<p>Etkileşim ve Görsellik</p>",
         "E": "<p>Erişilebilirlik ve Uyumluluk</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3597256,
@@ -284,8 +267,7 @@
         "D": "<p>Yaratıcılığın Sınırlanması</p>",
         "E": "<p>watchOS</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3597269,
@@ -300,8 +282,7 @@
         "D": "<p>Işık</p>",
         "E": "<p>CarPlay</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3597288,
@@ -316,7 +297,6 @@
         "D": "<p>Android TV:</p>",
         "E": "<p>Esnek Görseller ve Medya:</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

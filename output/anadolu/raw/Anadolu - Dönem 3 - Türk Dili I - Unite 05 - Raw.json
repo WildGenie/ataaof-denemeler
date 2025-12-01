@@ -12,8 +12,7 @@
         "D": "<p>Edat öbeği</p>",
         "E": "<p>Birleşik sözcük</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892372,
@@ -28,8 +27,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892383,
@@ -44,8 +42,7 @@
         "D": "<p>Dedem tam bir insan sarrafıydı.</p>",
         "E": "<p>Adam manavdan iki kilo domates aldı.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892397,
@@ -60,8 +57,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Kimi aramıştınız?</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Seni sabahtan beri bekliyorum.</span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892407,
@@ -76,8 +72,7 @@
         "D": "<p>Sıfat tamlaması<br /><br /></p>",
         "E": "<p>Aitlik öbeği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892427,
@@ -92,8 +87,7 @@
         "D": "<p>Kurallı</p>",
         "E": "<p>Olumsuz</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892442,
@@ -108,8 +102,7 @@
         "D": "Bir adın ya da ad öbeğinin yerini tutar. ",
         "E": "Üçüncü kişi zamiri aslında işaret sıfatıdır. ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892456,
@@ -124,8 +117,7 @@
         "D": "Dünkü maçta şiddetli rüzgar maçın oynanmasına izin vermiyordu",
         "E": "Bütün pahalı resimlerimi büyük galerilerde sattım.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892467,
@@ -140,8 +132,7 @@
         "D": "I, II, III",
         "E": "Yalnızca III",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892469,
@@ -156,8 +147,7 @@
         "D": "Haydi- Eyvah",
         "E": "Önce, Şimdi",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892485,
@@ -172,8 +162,7 @@
         "D": "kuruşa",
         "E": "üç beş kuruşa",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892486,
@@ -188,8 +177,7 @@
         "D": "Sıfat tamlaması",
         "E": "Aitlik öbeği",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892493,
@@ -204,8 +192,7 @@
         "D": "Kurallı cümle",
         "E": "Basit cümle",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892501,
@@ -220,8 +207,7 @@
         "D": "<p>Bu olayı ben kendim anlatacağım aileme.</p>",
         "E": "<p>İkisi de güle oynaya evden çıktılar.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892525,
@@ -236,8 +222,7 @@
         "D": "<p>Belirtisiz isim tamlaması</p>",
         "E": "<p>Edat &ouml;beği</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892557,
@@ -252,8 +237,7 @@
         "D": "<p>Ünlem öbeği, cümle</p>",
         "E": "<p>Ünvan öbeği, cümle</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892588,
@@ -268,8 +252,7 @@
         "D": "<p>Ad tamlaması</p>",
         "E": "<p>Birleşik kelime</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892595,
@@ -284,8 +267,7 @@
         "D": "<p>Yarın akşam nereye gitmek istersin?</p>",
         "E": "<p>Annemlerin bir akrabası gelecek yarın.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892599,
@@ -300,8 +282,7 @@
         "D": "<p>Yüklem</p>",
         "E": "<p>Zarf Tümleci</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892610,
@@ -316,8 +297,7 @@
         "D": "<p>Sen nasıl bu kadar anlayışsızsın.</p>",
         "E": "<p>Önemli bir başarı elde edeceğine inancım tamdır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892382,
@@ -332,8 +312,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sözcük öbekleri cümlede anlamı genişletme, pekiştirme, belirtme ve niteleme gö-</p> <p>revlerini yerine getirirler.</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sözcük öbekleri, cümlede tek bir öge gibi işlev görürler.</p> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892398,
@@ -348,8 +327,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Kurallı</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Bileşik</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892402,
@@ -364,8 +342,7 @@
         "D": "<p>Yüzbaşı Ahmet bugün izinli.</p>",
         "E": "<p>Ağlayan çocukları hiç sevmem.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892425,
@@ -380,8 +357,7 @@
         "D": "<p>Kurallı</p>",
         "E": "<p>Eylem</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892434,
@@ -396,8 +372,7 @@
         "D": "<p>Sonra</p>",
         "E": "<p>Karşılaşmıştık.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892464,
@@ -412,8 +387,7 @@
         "D": "<p>Haberi duyar duymaz sağ sola telefon etti.</p>",
         "E": "<p>Zengin mi fakir mi olduğunu belli etmiyordu.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892489,
@@ -428,8 +402,7 @@
         "D": "Aitlik öbeği",
         "E": "Takısız ad tamlaması",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892490,
@@ -444,8 +417,7 @@
         "D": "Sıralı",
         "E": "Basit",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892505,
@@ -460,8 +432,7 @@
         "D": "<p>Sözcük öbekleri belli bir yargı bildirmelidir</p>",
         "E": "<p>Sözcük öbekleri cümlede anlamı genişletme, pekiştirme, belirtme ve niteleme gö- revlerini yerine getirirler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892513,
@@ -476,8 +447,7 @@
         "D": "<p>Kurallı cümle</p>",
         "E": "<p>Devrik cümle</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892519,
@@ -492,8 +462,7 @@
         "D": "<p>Bulunma öbeği</p>",
         "E": "<p>Ayrılma öbeği</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892524,
@@ -508,8 +477,7 @@
         "D": "<p>Ad tamlaması</p>",
         "E": "<p>İsi-fiil &ouml;beği</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892534,
@@ -524,8 +492,7 @@
         "D": "<p>1 ve 4 </p>",
         "E": "<p>2 ve 4 </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892558,
@@ -540,8 +507,7 @@
         "D": "<p>Zamir, yüklem, zarf tümleci, yüklem</p>",
         "E": "<p>Özne, yüklem, zarf tümleci, yüklem</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892563,
@@ -556,8 +522,7 @@
         "D": "<p>Sözcük öbekleri, cümlede tek bir öge gibi işlev görürler.</p>",
         "E": "<p>Sözcük öbekleri, eklenme açısından tek bir sözcük gibi işlem görür. </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892577,
@@ -572,8 +537,7 @@
         "D": "<p>Bağlama öbeği</p>",
         "E": "<p>yaklaşma öbeği</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892592,
@@ -588,8 +552,7 @@
         "D": "<p>Zarf tümleci</p>",
         "E": "<p>Özne</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892601,
@@ -604,8 +567,7 @@
         "D": "<p>IV ve V</p>",
         "E": "<p>II ve IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893480,
@@ -620,8 +582,7 @@
         "D": "<p>Hangi liseyi bitirdiniz diye soruyor bana.</p>",
         "E": "<p>Keşke sana bunları daha önce anlatsaydım dedi.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892361,
@@ -636,8 +597,7 @@
         "D": "<p>Sözcük öbekleri, cümlede ayrı ögeler olarak işlev görürler.</p>",
         "E": "<p>Sözcük öbekleri, eklenme açısından ayrı ayrı sözcük gibi işlem görürler.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892375,
@@ -652,8 +612,7 @@
         "D": "<p>&Ccedil;ocuk oyuncağıyla oynuyordu.</p>",
         "E": "<p>Mesaj iletildi mi?</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892377,
@@ -668,8 +627,7 @@
         "D": "<p>Görülen, bir şaheserdi.</p>",
         "E": "<p>Okunan hikayenin ana fikri nedir?</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892395,
@@ -684,8 +642,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Bu sefer de geç gelirse bir daha beklemem.</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Keşke teyzene benzeseydin demişti bana.</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892406,
@@ -700,8 +657,7 @@
         "D": "<p>Sıfat tamlaması</p>",
         "E": "<p>Aitlik öbeği</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892432,
@@ -716,8 +672,7 @@
         "D": "<p>Beyaz badanalı evde oturuyorlardı.</p>",
         "E": "<p>Ahmet sınıfın en çalışkan çocuğuydu.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892451,
@@ -732,8 +687,7 @@
         "D": "Sıralı ve bağlı cümlelerde ortak zarf olabilir.",
         "E": "Eylemler zarf-eylem eklerini alarak cümlede zarf görevinde bulunurlar.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892454,
@@ -748,8 +702,7 @@
         "D": "Birleşik cümle",
         "E": "Bağlaç",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892499,
@@ -764,8 +717,7 @@
         "D": "<p>Şehrin yıllar &ouml;nce g&ouml;rd&uuml;ğ&uuml;m g&uuml;zelliği kaybolmuştu.</p>",
         "E": "<p>Duydukları karşısında sokağın ortasında kalakaldı.&nbsp;</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892510,
@@ -780,8 +732,7 @@
         "D": "<p>Yaklaşma öbeği</p>",
         "E": "<p>Bulunma öbeği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892514,
@@ -796,8 +747,7 @@
         "D": "<p>İkiden fazla sözcükten oluşan öbeklerde iç içe geçmiş öbekler bulunabilir.</p>",
         "E": "<p>Sözcük öbeklerinde çekim ekleri öbeğin son ögesine getirilir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892546,
@@ -812,8 +762,7 @@
         "D": "<p>Efendiler, bugün bayram günüdür. </p>",
         "E": "<p>Bugün sizi aramızda görmekten onur duyduk.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892548,
@@ -828,8 +777,7 @@
         "D": "<p>Herkes gördüğü bu güzellik karşısında büyülenmişti.</p>",
         "E": "<p>Gözündeki yaşları silerek yüzüğünü uzattı.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892564,
@@ -844,8 +792,7 @@
         "D": "<p>birkaç ev </p>",
         "E": "<p>anlamsız söz </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892567,
@@ -860,8 +807,7 @@
         "D": "<p>Saati saatine tüm detayları anlattı. </p>",
         "E": "<p>Dediklerini harfi harfine uyguladı. </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892576,
@@ -876,8 +822,7 @@
         "D": "<p>Tekrar öbeği</p>",
         "E": "<p>Edat öbeği</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892602,
@@ -892,8 +837,7 @@
         "D": "<p>Yüklemin yerine göre devrik bir cümle vardır.</p>",
         "E": "<p>Yüklemin yerine göre düz bir cümle vardır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892357,
@@ -908,8 +852,7 @@
         "D": "<p>O kadar mesafeye ancak kalmalı olarak gidebilirler.</p>",
         "E": "<p>Bu durumda buraya bir tamirci çağrılmalı.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892423,
@@ -924,8 +867,7 @@
         "D": "<p>Ad</p>",
         "E": "<p>Eylem</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892428,
@@ -940,8 +882,7 @@
         "D": "<p>Dolaylı tümleç</p>",
         "E": "<p>Nesne</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892459,
@@ -956,8 +897,7 @@
         "D": "Aitlik öbeği",
         "E": "Ünsüz öbeği",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892462,
@@ -972,8 +912,7 @@
         "D": "2",
         "E": "1",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892463,
@@ -988,8 +927,7 @@
         "D": "Selim Amca",
         "E": "Bizim Ahmet",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892472,
@@ -1004,8 +942,7 @@
         "D": "<p>Kim</p>",
         "E": "<p>Kimden</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892474,
@@ -1020,8 +957,7 @@
         "D": "<p>Demir kapıyı kilitlemeden evden çıkmamalısın.</p>",
         "E": "<p>Otobanda arabalar çok hızlı gidiyor.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892487,
@@ -1036,8 +972,7 @@
         "D": "Belirtisiz ad tamlaması",
         "E": "Takısız ad tamlaması",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892504,
@@ -1052,8 +987,7 @@
         "D": "<p>Ad tamlaması</p>",
         "E": "<p>Ünlem öbeği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892535,
@@ -1068,8 +1002,7 @@
         "D": "<p>Ona çok kızgınım, buraya gelmesin. </p>",
         "E": "<p>Gel de neler çektiğimi gör. </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892568,
@@ -1084,8 +1017,7 @@
         "D": "<p>Albay Rauf </p>",
         "E": "<p>Yüzbaşı Hasan </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892573,
@@ -1100,8 +1032,7 @@
         "D": "<p>Birden fazla sözcüğün bir araya gelerek oluşturduğu yapılardır.<br /><br /></p>",
         "E": "<p>Yargısız dil birimleridir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892584,
@@ -1116,8 +1047,7 @@
         "D": "<p>Cümle</p>",
         "E": "<p>Söz dizimi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892590,
@@ -1132,8 +1062,7 @@
         "D": "<div class=\"page\" title=\"Page 9\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Yeni bir araba <em>satın aldık</em>.</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 8\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Öğrendiklerim kafamı<em> allak bullak</em> etmişti.</p> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892391,
@@ -1148,8 +1077,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">I-V</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">III-V</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892431,
@@ -1164,8 +1092,7 @@
         "D": "<p><em>Bahçıvan </em>çiçekleri gün aşırı suluyor.</p>",
         "E": "<p><em>Anadolu'da</em> bir bozkır kasabasında büyümüştü.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892452,
@@ -1180,8 +1107,7 @@
         "D": "<p>Sana her zaman yardım etmek isterim.</p>",
         "E": "<p>Şehrin yıllar önce gördüğüm güzelliği kaybolmuştu.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892465,
@@ -1196,8 +1122,7 @@
         "D": "<p>Acaba bu şehirde güzel bir kitabevi yok mudur?</p>",
         "E": "<p>Şehir dışına çıkmadan önce beni görsün.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892473,
@@ -1212,8 +1137,7 @@
         "D": "III, IV, V",
         "E": "I, II, III, IV, V",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892478,
@@ -1228,8 +1152,7 @@
         "D": "Dolaylı tümleç",
         "E": "Özne öbeği",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892484,
@@ -1244,8 +1167,7 @@
         "D": "Zarf tümleci",
         "E": "İsim tamlaması",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892492,
@@ -1260,8 +1182,7 @@
         "D": "Eylem cümlesi",
         "E": "Bağlı cümle",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892544,
@@ -1276,8 +1197,7 @@
         "D": "<p>Ali dönmüştü evine, ait olduğu mutlu yuvaya. </p>",
         "E": "<p>Arzu muzip biçimde gülümseyerek onun sorusunu cevaplamadı. </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892566,
@@ -1292,8 +1212,7 @@
         "D": "<p>Demir kapı ustalar tarafından yeniden boyandı. </p>",
         "E": "<p>Mavi deniz, sıcak güneş ve dost sohbeti... İşte tatil.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892596,
@@ -1308,8 +1227,7 @@
         "D": "<p>Afet nedeniyle birçok aile birkaç eşyayla birlikte şehri terk etti.</p>",
         "E": "<p>Sen çözümü düşünedur, ben anneme sofrayı hazırlamasında yardım edeyim.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892364,
@@ -1324,8 +1242,7 @@
         "D": "<p>Sınava zar zor çalıştı.</p>",
         "E": "<p>Her şeyi bilmesine rağmen hiç sesini çıkarmadı.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892379,
@@ -1340,8 +1257,7 @@
         "D": "<p>Masal burada bitti.</p>",
         "E": "<p>Yeni başlangıçlar yapmak gerek.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892392,
@@ -1356,8 +1272,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Bodrum’daki beyaz boyalı evler bir harika!</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Tahta kapıdaki işlemelere hayran kaldım. </span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892393,
@@ -1372,8 +1287,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Düşün ki insan olduğunun farkına var.</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Mademki hastasın bugün işe gelme.</span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892399,
@@ -1388,8 +1302,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Çalışamadın mı sınavda başarılı olmazsın.</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Çalıkuşu ve Acımak romanları Reşat Nuri Güntekin’e aittir.</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892433,
@@ -1404,8 +1317,7 @@
         "D": "<p>Ad tamlaması</p>",
         "E": "<p>Ünlem öbeği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892436,
@@ -1420,8 +1332,7 @@
         "D": "<p>Kalabalık akşam olunca usul usul evlere dağılır.</p>",
         "E": "<p>Herkes derste dinlediğini evde tekrar ederse öğrenir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892445,
@@ -1436,8 +1347,7 @@
         "D": "<p>Anlamca olumsuz bir cümledir.</p>",
         "E": "<p>Zarf tümleci kullanılmıştır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892449,
@@ -1452,8 +1362,7 @@
         "D": "Yüklemin yerine göre kurallı bir cümledir.",
         "E": "Belirtili nesne vardır.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892560,
@@ -1468,8 +1377,7 @@
         "D": "<p>öğelerinin dizilişi</p>",
         "E": "<p>yüklemin türü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892565,
@@ -1484,8 +1392,7 @@
         "D": "<p>Kardeşimin resim defteri kayboldu.&nbsp;</p>",
         "E": "<p>Odanın i&ccedil;ini g&uuml;l kokusu kaplamıştı.&nbsp;</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892580,
@@ -1500,8 +1407,7 @@
         "D": "<p>özne-zarf tümleci-zarf tümleci-yüklem</p>",
         "E": "<p>nesne-zarf tümleci-zarf tümleci-yüklem</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892585,
@@ -1516,8 +1422,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p style=\"text-align: justify;\">Eklenme açısından tek bir sözcük gibi işlem görür ve çekim ekleri öbeğin son ögesine getirilir.</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Cümlede anlamı genişletme, pekiştirme, belirtme ve niteleme görevlerini yerine getirirler.</p> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892368,
@@ -1532,8 +1437,7 @@
         "D": "<p>Sen ve Ahmet yarın bize gelir misiniz?</p>",
         "E": "<p>Halk, sağlık konusunda yetkililere güveniyordu.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892371,
@@ -1548,8 +1452,7 @@
         "D": "<p>Ses bilgisi</p>",
         "E": "<p>Ad tamlaması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892385,
@@ -1564,8 +1467,7 @@
         "D": "<p>Sıfat tamlaması</p>",
         "E": "<p>Aitlik öbeği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892410,
@@ -1580,8 +1482,7 @@
         "D": "<p>sıfat + ad </p>",
         "E": "<p>ünlem + ad/ ad grubu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892448,
@@ -1596,8 +1497,7 @@
         "D": "Ad- sıfat- sıfat- eylem",
         "E": "Sıfat- zarf- sıfat- eylem",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892471,
@@ -1612,8 +1512,7 @@
         "D": "Bütün gün arabayla şehri gezdi.",
         "E": "İpince, dal gibi bir çocuktu.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892482,
@@ -1628,8 +1527,7 @@
         "D": "Belirtili nesne",
         "E": "Belirtisiz nesne",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892506,
@@ -1644,8 +1542,7 @@
         "D": "<p>Dizim bilgisi</p>",
         "E": "<p>Söz dizimi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892549,
@@ -1660,8 +1557,7 @@
         "D": "<p>İlgi öbeği </p>",
         "E": "<p>Ayrılma öbeği </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892551,
@@ -1676,8 +1572,7 @@
         "D": "<p>Cana yakın </p>",
         "E": "<p>Dile kolay </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892552,
@@ -1692,8 +1587,7 @@
         "D": "<p>hayırsever vatandaş</p>",
         "E": "<p>bir hayırsever vatandaş</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892553,
@@ -1708,8 +1602,7 @@
         "D": "<p>cümle</p>",
         "E": "<p>yargı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892574,
@@ -1724,8 +1617,7 @@
         "D": "<p>Öbekleri oluşturan sözcükler, kurallı bir biçimde bir araya gelir. </p>",
         "E": "<p>Sözcük öbekleri, cümlede tek bir öge gibi işlev görürler.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892366,
@@ -1740,8 +1632,7 @@
         "D": "<p>Söyleyeceklerini beklemeden uzaklaştım.</p>",
         "E": "<p>Olanları anlatırken sesim biraz yükselmişti.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892401,
@@ -1756,8 +1647,7 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892409,
@@ -1772,8 +1662,7 @@
         "D": "<p>Selma’nın sesi çok güzeldir.</p>",
         "E": "<p>Akşamki kavga sinirlerini bozmuştu.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892418,
@@ -1788,8 +1677,7 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892437,
@@ -1804,8 +1692,7 @@
         "D": "<p>Çoğul eki ve yönelme durum eki</p>",
         "E": "<p>Çoğul eki ve ilgi eki</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892466,
@@ -1820,8 +1707,7 @@
         "D": "Kardeşimin gideceği okul şehrin en büyük okullarından biriydi.",
         "E": "Sınıfa yeni gelen öğrenci birkaç sokak ileride oturuyordu.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892507,
@@ -1836,8 +1722,7 @@
         "D": "<p>Demir kapı</p>",
         "E": "<p>Ey Türk gençliği</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892511,
@@ -1852,8 +1737,7 @@
         "D": "<p>Yüklem</p>",
         "E": "<p>Nesne</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892532,
@@ -1868,8 +1752,7 @@
         "D": "<p>&nbsp;I. ile III.&nbsp;</p>",
         "E": "<p>II. ile IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892562,
@@ -1884,8 +1767,7 @@
         "D": "<p>Basit cümle</p>",
         "E": "<p>Girişik cümle</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892591,
@@ -1900,8 +1782,7 @@
         "D": "<p>Dolaylı Tümleç</p>",
         "E": "<p>Zart tümleci</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892604,
@@ -1916,8 +1797,7 @@
         "D": "<p>Bir araya gelişleri kuralsızdır.</p> ",
         "E": "<p>Anlamlı bir bütünlükten uzaktır.</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892373,
@@ -1932,8 +1812,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İkiden fazla sözcükten oluşan öbeklerde iç içe geçmiş öbekler bulunabilir.</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sözcük öbekleri, cümlede tek bir öge gibi işlev görürler.</p> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892378,
@@ -1948,8 +1827,7 @@
         "D": "<p>Konuşma benimle!</p>",
         "E": "<p>Durdurmayın beni.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892396,
@@ -1964,8 +1842,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Ona ihanet edenin kardeşi olduğunu öğrenecekti.</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Ali son günlerde biraz durgunlaştı.</span></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892476,
@@ -1980,8 +1857,7 @@
         "D": "anlatırken çok soğukkanlıydı",
         "E": "bana anlatırken çok soğukkanlıydı",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892477,
@@ -1996,8 +1872,7 @@
         "D": "Resim Son Akşam Yemeğidir",
         "E": "İlk resim Son Akşam Yemeğidir",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892483,
@@ -2012,8 +1887,7 @@
         "D": "benim dedem",
         "E": "benim",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892517,
@@ -2028,8 +1902,7 @@
         "D": "<p>Murat Bey aradı ve yardım istedi.</p>",
         "E": "<p>Kan ter içinde odaya girdi.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892538,
@@ -2044,8 +1917,7 @@
         "D": "<p>Yerleştiği şehirde nihayet huzuru buldu. </p>",
         "E": "<p>Gördüğü manzara karşısında şoka girdi. </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892555,
@@ -2060,8 +1932,7 @@
         "D": "<p>isim-fiil, sıfat-fiil</p>",
         "E": "<p>sayı öbeği</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892578,
@@ -2076,8 +1947,7 @@
         "D": "<p>yüklem</p>",
         "E": "<p>nesne</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892581,
@@ -2092,8 +1962,7 @@
         "D": "<p>Öge dizilişine göre kurallıdır.</p> ",
         "E": "<p>Temel cümlede edat öbeği vardır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892358,
@@ -2108,8 +1977,7 @@
         "D": "<p>Bütün halk yaşanan gelişmeler üzerine ayaklandılar.</p>  ",
         "E": "<p>Okuldaki herkes partiye davet edildi.</p>   ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892411,
@@ -2124,8 +1992,7 @@
         "D": "<p>Öğrendiklerim kafamı allak bullak etmişti.</p>",
         "E": "<p>Daha on yedi yaşında evden ayrılmıştı.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892453,
@@ -2140,8 +2007,7 @@
         "D": "Özne-dolaylı tümleç-yüklem",
         "E": "Özne-belirtili nesne-yüklem",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892468,
@@ -2156,8 +2022,7 @@
         "D": "Yalnızca II",
         "E": "Yalnızca III",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892521,
@@ -2172,8 +2037,7 @@
         "D": "<p>Üçüncü tekil kişi anlatıma saygı katmak için kullanıldığında özne tekil olduğu hâlde yüklem üçüncü çoğul olabilir.</p>",
         "E": "<p>Organ, bitki, hayvan, zaman adları ile cansız varlıkların çoğulları özne olduklarında yüklem tekil olur.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892533,
@@ -2188,8 +2052,7 @@
         "D": "<p>Aitlik öbeği</p>",
         "E": "<p>Ünlem öbeği</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892593,
@@ -2204,8 +2067,7 @@
         "D": "<p>Gecenin köründe üşenmez yemek yapar. </p>",
         "E": "<p>Doğumgünü hediyesi olarak bana bir saat aldı.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892605,
@@ -2220,8 +2082,7 @@
         "D": "<p><span style=\"text-decoration: underline;\">Masanın ayaklarının yağlanması</span> gerekiyordu.</p>",
         "E": "<p>Tartışma sırasında, <span style=\"text-decoration: underline;\">dayımın eşinin bağırması</span>  ile hepimiz  bir anda durduk.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892607,
@@ -2236,8 +2097,7 @@
         "D": "<p>İşim bitince, seninle görüşebilirim.</p> ",
         "E": "<p>Kuruma, yeni düzenlemeler getirdi.</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892390,
@@ -2252,8 +2112,7 @@
         "D": "<p>Olumlu cümle</p>",
         "E": "<p>Şart cümlesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892403,
@@ -2268,8 +2127,7 @@
         "D": "<p>Zarf fiil öbeği</p>",
         "E": "<p>Tekrar öbeği</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892441,
@@ -2284,8 +2142,7 @@
         "D": "Seslerin ve/veya biçimlerin dizimiyle oluşur.",
         "E": "Eklenmeyle çekimlenir.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892516,
@@ -2300,8 +2157,7 @@
         "D": "<p>Hey dostlar</p>",
         "E": "<p>Muhasebe müdürü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892520,
@@ -2316,8 +2172,7 @@
         "D": "<p>Cümlede yüklemin belirtilmemesi cümlenin anlamında eksiklik meydana getirmez.</p>",
         "E": "<p>Bir cümlede birden fazla özne, nesne, yer tamlayıcısı ve zarf tümleci olabilir ancak yüklem tektir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892523,
@@ -2332,8 +2187,7 @@
         "D": "<p>Börekleri, birer birer yedi.</p>",
         "E": "<p>İlaçlarını içmediği için, hastanede yatıyor.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892561,
@@ -2348,8 +2202,7 @@
         "D": "<p>basit, ünlem, ad, devrik</p>",
         "E": "<p>devrik, emir, eylem, kurallı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892579,
@@ -2364,8 +2217,7 @@
         "D": "<p>iç içe birleşik cümle</p>",
         "E": "<p>şartlı birleşik cümle</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892352,
@@ -2380,8 +2232,7 @@
         "D": "<p>Kırmızı kamyon</p>",
         "E": "<p>Önceki aday</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892356,
@@ -2396,8 +2247,7 @@
         "D": "<p>İsteyenin bir yüzü, vermeyenin iki yüzü…</p>  ",
         "E": "<p>Yarına bir iyileşeyim de…</p>   ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892370,
@@ -2412,8 +2262,7 @@
         "D": "<p>Buraya gelenler hep aynı kişiler olmalı ki içeri girince bana garip garip baktılar.</p>",
         "E": "<p>Keşke teyzene benzeseydin demişti bana.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892376,
@@ -2428,8 +2277,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892421,
@@ -2444,8 +2292,7 @@
         "D": "<p>Devrik ve ünlem</p>",
         "E": "<p>Olumlu ve olumsuz</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892529,
@@ -2460,8 +2307,7 @@
         "D": "<p>Olumsuz c&uuml;mle</p>",
         "E": "<p>Olumlu c&uuml;mle</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892559,
@@ -2476,8 +2322,7 @@
         "D": "<p>Dolaylı tümleç</p>",
         "E": "<p>Zart tümleci</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892606,
@@ -2492,8 +2337,7 @@
         "D": "<p>Yaşadığımız güzel günleri anımsadık.</p>",
         "E": "<p>Beni görmeden geçip gitmene alındım.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892400,
@@ -2508,8 +2352,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">II-III-IV</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">III-IV-V</span></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892405,
@@ -2524,8 +2367,7 @@
         "D": "<p>Ad tamlaması</p>",
         "E": "<p>Sıfat tamlaması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892419,
@@ -2540,8 +2382,7 @@
         "D": "<p>II ve IV. cümeleler ad cümlesidir.</p>",
         "E": "<p>V. cümle basit cümledir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892424,
@@ -2556,8 +2397,7 @@
         "D": "<p>Ad</p>",
         "E": "<p>Olumsuz</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892426,
@@ -2572,8 +2412,7 @@
         "D": "<p>Şartlı bileşik</p>",
         "E": "<p>Bağlı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892440,
@@ -2588,8 +2427,7 @@
         "D": "Kısaltma",
         "E": "Birleştirme ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892554,
@@ -2604,8 +2442,7 @@
         "D": "<p>Aitlik öbeği</p>",
         "E": "<p>Ünlem öbeği</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892572,
@@ -2620,8 +2457,7 @@
         "D": "<p>Kurallı cümle </p>",
         "E": "<p>Sıralı cümle </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892589,
@@ -2636,8 +2472,7 @@
         "D": "<p>Eylem öbeği</p>",
         "E": "<p>Tekrar öbeği</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892608,
@@ -2652,8 +2487,7 @@
         "D": "<p>Herkes, çok gergin görünüyordu.</p>",
         "E": "<p>Sen ve kardeşin, bize gelir misiniz?</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892359,
@@ -2668,8 +2502,7 @@
         "D": "<p>Bu toprakları, doğup büyüdüğüm toprakları tekrar görmek çok iyi geldi.</p>",
         "E": "<p>Patlamada silahlar, mermiler, askerler havaya saçıldı.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892413,
@@ -2684,8 +2517,7 @@
         "D": "<p>III. ve V.</p>",
         "E": "<p>I.,II. ve V. </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892458,
@@ -2700,8 +2532,7 @@
         "D": "2",
         "E": "1",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892470,
@@ -2716,8 +2547,7 @@
         "D": "Çocuk güzel",
         "E": "Yuvarlak taş",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892526,
@@ -2732,8 +2562,7 @@
         "D": "<p>Sıfat-fiil &ouml;beği</p>",
         "E": "<p>İsim-fiil &ouml;beği</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892351,
@@ -2748,8 +2577,7 @@
         "D": "<p>Sözcük öbekleri, eklenme açısından tek bir sözcük gibi işlem görür ve çekim ekleri öbeğin son ögesine getirilir.</p>",
         "E": "<p>Sözcük öbekleri, cümlede tek bir öge gibi işlev görürler.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892369,
@@ -2764,8 +2592,7 @@
         "D": "<p>Murat, hastanenin bahçesinde, hastasını düşünüyor, güzel bir haber bekliyordu.</p>",
         "E": "<p>Bugün evden çıkar çıkmaz okula geldim.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892388,
@@ -2780,8 +2607,7 @@
         "D": "<p>Bağlama Öbeği</p>",
         "E": "<p>Edat öbeği </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892389,
@@ -2796,8 +2622,7 @@
         "D": "<p>Kurallı cümle</p>",
         "E": "<p>Devrik cümle</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892394,
@@ -2812,8 +2637,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">II-III-V</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">III-IV-V</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892447,
@@ -2828,8 +2652,7 @@
         "D": "varlığım",
         "E": "verimsiz",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892488,
@@ -2844,8 +2667,7 @@
         "D": "Takısız ad tamlaması",
         "E": "Aitlik öbeği",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892497,
@@ -2860,8 +2682,7 @@
         "D": "<p>Albay Rauf </p>",
         "E": "<p>Selim Amca </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892498,
@@ -2876,8 +2697,7 @@
         "D": "<p>Bütün gün arabayla şehri gezdi.<br /><br /></p>",
         "E": "<p>Her şeyi bilmesine rağmen hiç sesini çıkarmadı.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892528,
@@ -2892,8 +2712,7 @@
         "D": "<p>&Ouml;zne- dolaylı t&uuml;mle&ccedil;- zarf t&uuml;mleci- y&uuml;klem</p>",
         "E": "<p>&Ouml;zne- nesne- dolaylı t&uuml;mle&ccedil;- y&uuml;klem</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892556,
@@ -2908,8 +2727,7 @@
         "D": "<p>Bulunma</p>",
         "E": "<p>Ayrılma</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892603,
@@ -2924,8 +2742,7 @@
         "D": "<p>Her dilin yapısal özellikleri, cümle bilgisi kapsamında değerlendirilir.</p> ",
         "E": "<p>Sözcükler, ekler, cümle türleri, sözcük öbekleri cümle bilgisinin konularıdır.</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892386,
@@ -2940,8 +2757,7 @@
         "D": "<p>Ünvan öbeği</p>",
         "E": "<p>Edat öbeği</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892415,
@@ -2956,8 +2772,7 @@
         "D": "<p>Zarf Tümleci- Dolaylı Tümleç- Nesne- Yüklem</p>",
         "E": "<p>Nesne- Zarf Tümleci- Dolaylı tümleç- Yüklem</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892475,
@@ -2972,8 +2787,7 @@
         "D": "Hepimiz olanlara bakakaldık.",
         "E": "Yükte hafif pahada ağır bir hediye al.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892495,
@@ -2988,8 +2802,7 @@
         "D": "<p>Odanın içini gül kokusu kaplamıştı.</p>",
         "E": "<p>Demir kapı beyaza boyanmıştı. </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892542,
@@ -3004,8 +2817,7 @@
         "D": "<p>Devrik cümle </p>",
         "E": "<p>Bağlı cümle </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892545,
@@ -3020,8 +2832,7 @@
         "D": "<p>Akşama kadar pencerenin kenarında eve gelmeni bekledim. (Zarf Tümleci, Dolaylı Tümleç, Belirtili Nesne, Yüklem)</p> ",
         "E": "<p>Ahmet Bey’i çarşıdan çıkarken görmüştüm. (Belirtili Nesne, Zarf Tümleci, Yüklem)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892570,
@@ -3036,8 +2847,7 @@
         "D": "<p>Sallanmaz o kalkışta ne mendil ne de bir kol.</p>",
         "E": "<p>Benim dedem, Kurtuluş savaşına katılmış bir gaziydi.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892583,
@@ -3052,8 +2862,7 @@
         "D": "<p>Eylem</p>",
         "E": "<p>Sözcük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892444,
@@ -3068,8 +2877,7 @@
         "D": "evet",
         "E": "neşe",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892496,
@@ -3084,8 +2892,7 @@
         "D": "<p>Kadın pazardan üç kilo elma ve iki kilo armut aldı. </p>",
         "E": "<p>Çalışkan çocuk sınavdaki tüm soruları doğru yanıtlamıştı. </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892539,
@@ -3100,8 +2907,7 @@
         "D": "<p>Burada yoldan denize kadar inen büyük kayalar üstünde oturup, akşam saatlerini geçirmeyi severdi.</p>",
         "E": "<p>Yazar en güzel şiirlerini deniz kıyısındaki küçük evde mehtaplı gecelerde yazdığını söylüyor.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892543,
@@ -3116,8 +2922,7 @@
         "D": "<p>Zarf Tümleci, Belirtisiz Nesne, Yüklem, Cümle Dışı Unsur</p>",
         "E": "<p>Dolaylı Tümleç, Belirtisiz Nesne, Yüklem, Cümle Dışı Unsur)</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892571,
@@ -3132,8 +2937,7 @@
         "D": "<p>Sağlık ocağında hemşirelik yapıyordu.</p>",
         "E": "<p>Tüm öğrenciler okulda fidan dikmişlerdi. </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892381,
@@ -3148,8 +2952,7 @@
         "D": "<p>Sözcük öbekleri</p>",
         "E": "<p>İkilemeler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892414,
@@ -3164,8 +2967,7 @@
         "D": "<p>Eylem Cümlesi</p>",
         "E": "<p>Ünlem Cümlesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892457,
@@ -3180,8 +2982,7 @@
         "D": "Belki onlar seviyorlar da ben farkına varamıyorum.",
         "E": "Benim gecem yeni bir umutla başladı.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892494,
@@ -3196,8 +2997,7 @@
         "D": "<p>Dedem tam bir insan sarrafıydı. </p>",
         "E": "<p>Kapı kolu bozulmuş açılmıyordu. </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892367,
@@ -3212,8 +3012,7 @@
         "D": "<p>Geçişli iken edilgen çatıya sokulan eylemlerle kurulan cümlelerde nesne bulunmalıdır.</p>",
         "E": "<p>Yüklemi gereklilik kipinin teklik 3. kişisi olan bazı cümleler de özne almazlar.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892416,
@@ -3228,8 +3027,7 @@
         "D": "<p>Varsın insanlar bizi yanlış tanısın be güzelim.</p>",
         "E": "<p>Kendisine hediye edilen evi geri çevirdi.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892481,
@@ -3244,8 +3042,7 @@
         "D": "Bir daha bana yalan söyleme.",
         "E": "Küçük kızın bir anda gözleri doldu.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892512,
@@ -3260,8 +3057,7 @@
         "D": "<p>Belirteç tümleci</p>",
         "E": "<p>Nesne</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892569,
@@ -3276,8 +3072,7 @@
         "D": "<p>Yaşadıklarını anlatırken çok soğukkanlıydı.</p>",
         "E": "<p>Konu, babasının sık görülen sinirlenmesiydi. </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892575,
@@ -3292,8 +3087,7 @@
         "D": "<p>Yurttaki arkadaşlarını çağırmıştı telaşla.</p>",
         "E": "<p>Sezer'in işi çok yorucuydu.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892438,
@@ -3308,8 +3102,7 @@
         "D": "<p>Eylem</p>",
         "E": "<p>Bağlı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892508,
@@ -3324,8 +3117,7 @@
         "D": "<p>Tekrar öbeği</p>",
         "E": "<p>Edat öbeği</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892527,
@@ -3340,8 +3132,7 @@
         "D": "<p>Yapısına göre şartlı birleşik cümledir.</p>",
         "E": "<p>Temel cümlede edat öbeği vardır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892422,
@@ -3356,8 +3147,7 @@
         "D": "<p>Eylem ve ad</p>",
         "E": "<p>Ünlem ve emir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892503,
@@ -3372,8 +3162,7 @@
         "D": "<p>Buraya gelenler hep aynı kişiler olmalı ki garip garip baktılar. </p>",
         "E": "<p>Onu seviyorsan, ayrılamayacaksan bunu Ona söylemelisin.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893474,
@@ -3388,8 +3177,7 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892439,
@@ -3404,8 +3192,7 @@
         "D": "<p>Eylem Cümlesi</p>",
         "E": "<p>Ad Cümlesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892541,
@@ -3420,8 +3207,7 @@
         "D": "<p>Aldığım enstrüman Ankara’da yalnızca sende var.</p>",
         "E": "<p>Misafirleri geldiğinden bugün yaptığı tüm planlarını iptal etti.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892586,
@@ -3436,8 +3222,7 @@
         "D": "<p>Selma'nın sesi</p>",
         "E": "<p>Elmas yüzük</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892408,
@@ -3452,8 +3237,7 @@
         "D": "<p>Kadın pazardan üç kilo elma aldı.</p>",
         "E": "<p>Esra, odanın pencerelerini sıkıca kapattı.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892412,
@@ -3468,8 +3252,7 @@
         "D": "<p>Geçen haftaki toplantıya da sen ve ben katılmıştık.</p>",
         "E": "<p>Toplantıya Ayşe, ben ve Selma katıldık.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892446,
@@ -3484,8 +3267,7 @@
         "D": "oksijen",
         "E": "balık",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892480,
@@ -3500,8 +3282,7 @@
         "D": "Anlamsız sözler söylüyordu.",
         "E": "Bir defa da büyük sözü dinle.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892531,
@@ -3516,8 +3297,7 @@
         "D": "<p> Babasının ölümünü takip eden bir hafta boyunca / bunları / anlattı.</p>",
         "E": "<p>Uzak akrabaların yalancı gözyaşlarıyla dolu geçen bir hafta / onu / çok / yormuştu.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892353,
@@ -3532,8 +3312,7 @@
         "D": "<p>Aitlik öbeği</p>",
         "E": "<p>Ünlem öbeği</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892404,
@@ -3548,8 +3327,7 @@
         "D": "<div class=\"page\" title=\"Page 12\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İlk gün kendilerini tanıttılar. Nereden geldiklerini, nelerden hoşlandıklarını...</p> </div> </div> </div>",
         "E": "<p>Şehre gelenlerin en çok gittiği yer, Odunpazarı.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892455,
@@ -3564,8 +3342,7 @@
         "D": "Düşmanın açık bıraktığı kapılar, onun istediği yere çıkar.",
         "E": "Bu şairde hem gelenek hem de kendi kuşağının ifadesi vardır.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892461,
@@ -3580,8 +3357,7 @@
         "D": "4",
         "E": "5",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892491,
@@ -3596,8 +3372,7 @@
         "D": "Birleşik cümle",
         "E": "Bağlı cümle",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892374,
@@ -3612,8 +3387,7 @@
         "D": "<p>Resimdeki boya ahenkleri görülmeye değerdi.</p>",
         "E": "<p>Kitap okumak zihne kuvvet verir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892420,
@@ -3628,8 +3402,7 @@
         "D": "<p>Olumsuz</p>",
         "E": "<p>Devrik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892380,
@@ -3644,8 +3417,7 @@
         "D": "<p>Ekmek aslanın ağzında.</p>",
         "E": "<p>Lambanın ışığı yavaşça kayboldu.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892387,
@@ -3660,8 +3432,7 @@
         "D": "<p>Tekrar öbeği</p>",
         "E": "<p>Edat öbeği</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892609,
@@ -3676,8 +3447,7 @@
         "D": "<p>Konser salonunda, çalışmalar sürdürülüyor.</p>",
         "E": "<p>Mektubu yazdıktan sonra zarfa koyup yolladı.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892429,
@@ -3692,8 +3462,7 @@
         "D": "<p>Kurallı</p>",
         "E": "<p>Basit</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892537,
@@ -3708,8 +3477,7 @@
         "D": "<p>tıbbın ve kimyanın zaferi değildir</p>",
         "E": "<p>sadece tıbbın ve kimyanın zaferi değildir</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892502,
@@ -3724,8 +3492,7 @@
         "D": "<p>Kar bizi eve hapsetmişti. </p>",
         "E": "<p>Müdürün odasının kapısı, aniden açılır. </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892365,
@@ -3740,8 +3507,7 @@
         "D": "<p>Duydukları karşısında sokağın ortasında öylece kalakaldı</p>",
         "E": "<p>Sana her zaman yardım etmek isterim.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892515,
@@ -3756,7 +3522,336 @@
         "D": "<p>Parfüm kokusu</p>",
         "E": "<p>Pırlanta kolye</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892362,
+        "UniteNo": 5,
+        "PageNumber": 126,
+        "AnswerExplanation": "<p>3. Takısız ad tamlaması: Her iki sözcüğün de ek almadığı ad tamlamasıdır. Bu tür ad tamlamalarında tamlanan ögenin niteliği, benzetme ve/ya neden yapıldığını belirtilir. Örnek: Kendisine yün kazak örmüştü. Tahta kapıdan içeri girince ilk onu gördü. Vitrinde gördüğü elmas yüzükle geçmişe daldı.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi takısız ad tamlamasıdır?</p>",
+        "A": "<p>Şansının dönmesi</p>",
+        "B": "<p>Yazgısının değişmesi</p>",
+        "C": "<p>Kara göz</p>",
+        "D": "<p>Kör adam</p>",
+        "E": "<p>Tahta kapı</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892443,
+        "UniteNo": 5,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Sözcük öbeklerini ayırt edebileceksiniz.",
+        "Text": "“En hakiki mürşit, ilimdir.” cümlesindeki “en” sözcüğünün türü aşağıdakilerden hangisidir?",
+        "A": "Zamir ",
+        "B": "İsim ",
+        "C": "Zarf ",
+        "D": "Bağlaç ",
+        "E": "Edat ",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892500,
+        "UniteNo": 5,
+        "PageNumber": 130,
+        "AnswerExplanation": "<p>Sıfat-Fiil Öbeği<br />Sıfat-fiil eklerinin eyleme eklenmesiyle oluşan sözcük öbeğidir. Sıfat-fiil öbeği, cümlenin<br />bütün ögelerini oluşturabilir. <br />Örnek: Büyük sınava hazırlanan öğrencileri gördükçe üzülürüm.<br /> Yaşanacak güzel günlerimiz var.<br /> Herkes gördüğü bu güzellik karşısında büyülenmişti.</p> <p>Doğru yanıt A </p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki cümlelerin hangisinde sıfat-fiil öbeği bulunmaktadır? </p>",
+        "A": "<p>Herkes gördüğü bu güzellik karşısında büyülenmişti.</p>",
+        "B": "<p>Annesinin geceleri gizli gizli ağlayışını hatırlayıp üzülürdü. </p>",
+        "C": "<p>Uzun bir aradan sonra işe dönmek iyi olmuştu.</p>",
+        "D": "<p>Gözündeki yaşları silerek yüzüğünü uzattı.</p>",
+        "E": "<p>Murat iş yerinden ayrılır ayrılmaz kardeşini aradı.</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892597,
+        "UniteNo": 5,
+        "PageNumber": 137,
+        "AnswerExplanation": "<p>Issız bir Paris gecesinde =zarf tümleci, bir sokakta= dolaylı tümleç, gördü= yüklem, yıllardır özlemle beklediği aşkını= nesne durumundadır. Doğru cevap E'dir.</p>",
+        "Title": "",
+        "Text": "<p>\"Issız bir Paris gecesinde bir sokakta gördü yıllardır özlemle beklediği aşkını.\"</p> <p>Yukarıdaki cümlenin öge dizilişi aşağıdakilerden hangisinde sırasıyla ve doğru olarak verilmiştir?</p>",
+        "A": "<p>Dolaylı tümleç - özne - yüklem - nesne</p>",
+        "B": "<p>Zarf tümleci - özne - dolaylı tümleç - nesne</p>",
+        "C": "<p>Zarf tümleci - yüklem - dolaylı tümleç - özne</p>",
+        "D": "<p>Nesne - dolaylı tümleç - yüklem - zarf tümleci</p>",
+        "E": "<p>Zarf tümleci - dolaylı tümleç - yüklem - nesne</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892354,
+        "UniteNo": 5,
+        "PageNumber": 128,
+        "AnswerExplanation": "<p>“Gidedur” birleşik eylem öbeğidir. Doğru cevap B’dir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi  “birleşik eylem öbeği” grubuna girer?</p>",
+        "A": "<p>Yapmadan</p>",
+        "B": "<p>Gidedur</p>",
+        "C": "<p>Elalem</p>",
+        "D": "<p>Yavaş yavaş</p>",
+        "E": "<p>Karagöz ile Hacıvat</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892450,
+        "UniteNo": 5,
+        "PageNumber": 0,
+        "AnswerExplanation": "<p>\"Babamın emekliliği\" \"kardeşimin notları\", \"arkadaşımın ablası\" isim tamlaması</p>\n<p>\"iyi bir yaşam\",sıfat tamlaması \"yarınki sanat konferansı\" aitlik öbeği var. </p>\n<p>E seçeneğinde sözcük öbeği yoktur.</p>\n<p> </p>",
+        "Title": "<p>Sözcük öbeklerini ayırt edebileceksiniz.</p>",
+        "Text": "<p>Aşağıdaki cümlelerden hangisi sözcük öbeği <strong>içermez?</strong></p>",
+        "A": "<p>Babamın emekliliği gecikecekmiş.</p>",
+        "B": "<p>Kardeşimin notları perşembe günü açıklanacak.</p>",
+        "C": "<p>Arkadaşımın ablası daha iyi bir yaşam hayal ediyordu.</p>",
+        "D": "<p>Yarınki sanat konferansında konuşma yapacağım.</p>",
+        "E": "<p>Gemi yarın limanda olacakmış.</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892435,
+        "UniteNo": 5,
+        "PageNumber": 133,
+        "AnswerExplanation": "<p>\"Yaşlı adam yaşadıklarını anlatırken soğukkanlıydı.\" cümlesinde cümlenin yardımcı ögesi zarf tümleci olan \"yaşadıklarını anlatırken\" öbeğidir.</p>",
+        "Title": "",
+        "Text": "<p>\"Yaşlı adam yaşadıklarını anlatırken soğukkanlıydı.\" cümlesinde cümlenin yardımcı ögesi aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Soğukkanlıydı</p>",
+        "B": "<p>Yaşadıklarını anlatırken</p>",
+        "C": "<p>Anlatırken</p>",
+        "D": "<p>Adam</p>",
+        "E": "<p>Yaşlı adam</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892582,
+        "UniteNo": 5,
+        "PageNumber": 144,
+        "AnswerExplanation": "<p> </p>\n<p>Birleşik cümle türlerinden biri olan ki’li Birleşik Cümle: Bir temel cümle ile temel cümleye ki bağlacı ile bağlanan bir<br />yan cümleden oluşan birleşik cümledir. Bu yapıdaki cümlelerde temel cümle, yan<br />cümleden önce yer alır. </p>\n<p>Bu cümlede de iki cümle ki  ile birbirine bağlıdır.</p>",
+        "Title": "",
+        "Text": "<p>'O biliyor ki bu işi hiç başaramayacak.'</p>\n<p>Yukarıdaki cümleyle ilgili aşağıdaki ifadelerden hangisi doğrudur?</p>",
+        "A": "<p>Yapısına göre ki'li birleşik cümledir.</p>",
+        "B": "<p>Yapısına göre basit cümledir.</p>",
+        "C": "<p>Yapısına göre sıralı cümledir.</p>",
+        "D": "<p>Yüklemine göre isim cümlesidir.</p>",
+        "E": "<p>Ögelerinin dizilişine göre devrik cümledir.</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892536,
+        "UniteNo": 5,
+        "PageNumber": 125,
+        "AnswerExplanation": "<p>\"Belki de hayatının değişmesine sebep olacak fotoğraf yarışması için sabah akşam çalışmaya başlamıştı.\" cümlesindeki \"fotoğraf yarışması\" belirtisiz ad tamlamasıdır.</p>",
+        "Title": "",
+        "Text": "<p>Hangi cümlede belirtisiz ad tamlaması vardır?</p>",
+        "A": "<p>Belki de hayatının değişmesine sebep olacak fotoğraf yarışması için sabah akşam çalışmaya başlamıştı.</p>",
+        "B": "<p>Kaderin cilvesi işte, o kadar uzun süre bekledi ve vazgeçtiğinde oldu.</p>",
+        "C": "<p>Çok zor oluyordu her şey ama aşkı her şeye değerdi sevgilisinin.</p>",
+        "D": "<p>Herkes sakinleşse de babamın inadı geçmedi.</p>",
+        "E": "<p>Gitarının telleri sürekli kopup duruyor.</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892509,
+        "UniteNo": 5,
+        "PageNumber": 130,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Birleşik Eylem Öbeği; bir ad ve bir yardımcı eylemle ya da iki eylemin birleşmesinden oluşan sözcük öbeğidir.</p>",
+        "Title": "",
+        "Text": "<p>Bir ad ve bir yardımcı eylemle ya da iki eylemin birleşmesinden oluşan sözcük öbeği aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Birleşik Eylem Öbeği</p>",
+        "B": "<p>Tekrar öbeği</p>",
+        "C": "<p>Sayı öbeği</p>",
+        "D": "<p>Edat öbeği</p>",
+        "E": "<p>Ünvan öbeği</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892363,
+        "UniteNo": 5,
+        "PageNumber": 129,
+        "AnswerExplanation": "<p>Bağlama Öbeği. en az iki eş ögenin bağlaç ile bağlanmasıyla oluşan sözcük öbeğidir. Eğer bağlanan ikiden fazla öge varsa bağlaç son iki öge arasına girer. Bağlama öbeği, cümlede ad, sıfat ve zarf görevinde bulunabilirler. Örnek: Kardeşim ve teyzem yarın İstanbul’a gidecekler. Çalışkan fakat hırslı bir kişiliği vardı. Ne para ne şöhret mutlu etmişti. Zengin mi fakir mi belli değildi.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi bağlama öbeğidir?</p>",
+        "A": "<p>Senin gibi</p>",
+        "B": "<p>Sevgi Teyze</p>",
+        "C": "<p>Ferhat ile Şirin</p>",
+        "D": "<p>Hayata dair</p>",
+        "E": "<p>Gözü açık</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892384,
+        "UniteNo": 5,
+        "PageNumber": 126,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 5\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Takısız ad tamlaması: Her iki sözcüğün de ek almadığı ad tamlamasıdır. Bu tür ad tamlamalarında tamlanan ögenin niteliği, benzetme ve/ya neden yapıldığını be- lirtilir.</p> <p>Örnek: Kendisine yün kazak örmüştü.<br />Tahta kapıdan içeri girince ilk onu gördü. Vitrinde gördüğü elmas yüzükle geçmişe daldı.</p> <p>Doğru cevap A'dır.</p> </div> </div> </div>",
+        "Title": "",
+        "Text": "<p>\"yün kazak\", \"tahta kapı\", \"elmas yüzük\" gibi tamlamaların türü aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Takısız isim tamlaması</p>",
+        "B": "<p>Belirtili isim tamlaması</p>",
+        "C": "<p>Belirtisiz isim tamlaması</p>",
+        "D": "<p>Aitlik bildiren tamlama</p>",
+        "E": "<p>Sıfat tamlaması</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892594,
+        "UniteNo": 5,
+        "PageNumber": 127,
+        "AnswerExplanation": "<p>'Narin Teyze' unvan öbeği, 'Narin Teyze ve kızı Selma' bağlama öbeği, 'Pazar sabahı' isim tamlaması, 'arabayla' edat öbeğidir. Aitlik öbeği, aitlik eki “-ki” ile oluşturulan sözcük öbeğidir. Cümlede zamir (bizimki gidiyor) ya da sıfat (bahçedeki kadın) görevindedir. Cümlede buna örnek bir kullanım yoktur. Doğru cevap D'dir.</p>",
+        "Title": "",
+        "Text": "<p>\"Narin Teyze ve kızı Selma, Pazar sabahı arabayla İstanbul'a gelecekler.\"</p> <p>Yukarıdaki cümlede aşağıdaki sözcük öbeklerinden hangisi <strong>yoktur</strong>?</p>",
+        "A": "<p>Edat öbeği</p>",
+        "B": "<p>Unvan öbeği</p>",
+        "C": "<p>Bağlama öbeği</p>",
+        "D": "<p>Aitlik öbeği</p>",
+        "E": "<p>İsim tamlaması</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892460,
+        "UniteNo": 5,
+        "PageNumber": 126,
+        "AnswerExplanation": "Cevap: Sıfat Tamlaması\r\nAdı nitelemek ve/ya belirtmek amacıyla oluşan sözcük öbeğidir. Sıfat tamlamasının olu- şumunda birden fazla sıfat bir adı niteleyebilir ya da belirtebilir. Tamlayan (sıfat) da tam- lanan (ad) da bir sözcük öbeği olabilir. Sıfat tamlamaları cümlede ad, sıfat ve zarf görev- lerinde bulunabilir.\r\nÖrnek: Mavi deniz, sıcak güneş ve dost sohbeti... \r\n      İşte tatil. Beyaz badanalı, kırmızı kiremitli evler yol boyunca dizilmişti. \r\nKadın pazardan üç kilo elma aldı.",
+        "Title": "Sözcük öbeklerini ayırt edebileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi sıfat tamlaması değildir?",
+        "A": "Engin deniz",
+        "B": "Dumanın karası",
+        "C": "Beyaz badanalı ev",
+        "D": "Beş ton kömür",
+        "E": "Ağlayan bebekler",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892530,
+        "UniteNo": 5,
+        "PageNumber": 145,
+        "AnswerExplanation": "<p>Bağlama edatlarıyla birbirine bağlanmış ve aralarında anlamca ilişki bulunan sıralı c&uuml;mlelere bağlı c&uuml;mle denir.&nbsp;Doğru cevap C'dir.</p>",
+        "Title": "",
+        "Text": "Bağlama edatlarıyla birbirine bağlanmış ve aralarında anlamca ilişki bulunan sıralı c&uuml;mlelere ____ c&uuml;mle denir.&nbsp; Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?",
+        "A": "<p>Sıralı&nbsp;</p>",
+        "B": "<p>Birleşik</p>",
+        "C": "<p>Bağlı</p>",
+        "D": "<p>Basit</p>",
+        "E": "<p>Olumsuz</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892522,
+        "UniteNo": 5,
+        "PageNumber": 139,
+        "AnswerExplanation": "<p><u>Seda Hanım</u> uzun yıllardan beri <u>şehir merkezinde</u> <u>yaşıyordu.</u></p> <p>           Özne                               yer tam                yüklem</p>",
+        "Title": "",
+        "Text": "<p>“Seda Hanım uzun yıllardan beri şehir merkezinde yaşıyordu.” Cümlesinde yer tamlayıcısı aşağıdakilerden hangisidir?</p>",
+        "A": "<p>uzun yıllardan beri</p>",
+        "B": "<p>şehir</p>",
+        "C": "<p>merkezi</p>",
+        "D": "<p>yaşıyordu</p>",
+        "E": "<p>şehir merkezi</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892598,
+        "UniteNo": 5,
+        "PageNumber": 140,
+        "AnswerExplanation": "<p>İçine = dolaylı tümleç, yağmurlu bir günde= zarf tümleci, birdenbire=zarf tümleci, açan güneş gibi doyumsuz bir sevinç= özne, doldu= yüklem olmalıdır. Doğru cevap B'dir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki cümlelerin hangisinde öğelere ayırmada bir yanlışlık yapılmıştır?</p>",
+        "A": "<p>Semavi Bey / bir sabah / babasının kahvaltıya inmemiş olduğunu / gördü.</p>",
+        "B": "<p>İçine / yağmurlu bir günde birdenbire / açan güneş gibi doyumsuz bir sevinç / doldu.</p>",
+        "C": "<p>Hiç kurtulamayacağını sandığı adam / sonunda / ölmüştü.</p>",
+        "D": "<p>Uzak akrabaların yalancı gözyaşlarıyla dolu geçen bir hafta / onu / çok / yormuştu.</p>",
+        "E": "<p>Babasının ölümünü takip eden bir hafta boyunca / bunları / anlattı.</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892479,
+        "UniteNo": 5,
+        "PageNumber": 123,
+        "AnswerExplanation": "Bir dildeki sözcüklerin, sözcük öbeklerinin cümle ve söz içindeki\u001e görevlerini\u001e, birbirleriyle olan ilişkilerini\u001e, sıralanışlarını ve cümle türleri\u001en\u001ei ele alıp \u001einceleyen bilim dalına cümle bilgisi\u001e ya da söz dizimi\u001e denir. Doğru cevap D şıkkıdır.",
+        "Title": "Sözcük öbeklerini ayırt edebileceksiniz.",
+        "Text": "Bir dildeki sözcüklerin, sözcük öbeklerinin cümle ve söz içindeki görevlerini, birbirleriyle olan ilişkilerini, sıralanışlarını ve cümle türlerini ele alıp inceleyen bilim dalına ne ad verilir?",
+        "A": "Morfoloji",
+        "B": "Semantik",
+        "C": "Pragmatik",
+        "D": "Sözdizimi",
+        "E": "Kullanım",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892540,
+        "UniteNo": 5,
+        "PageNumber": 133,
+        "AnswerExplanation": "<p>Üzüldüğü durum, babasının nedeni bilinmeyen hastalığıdır. Cümlesinde \"babasının nedeni bilinmeyen hastalığı\" ek eylem ile çekimlenmiş belirtili ad tamlamasında çekilmiş bir sözcük öbeğidir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki cümlelerin hangisinde yüklem  ek eylem ile çekimlenmiş belirtili ad tamlamasında çekilmiş bir sözcük öbeğidir? </p>",
+        "A": "<p>Onun bana neden kızdığını hiç anlayamadım. </p>",
+        "B": "<p>Son kez yazdıklarımı okudum, düzeltmeleri yaptım. </p>",
+        "C": "<p>Eskiden  sesini duyunca içimde bir mutluluk dalgası yayılırdı. </p>",
+        "D": "<p>Üzüldüğü durum, babasının nedeni bilinmeyen hastalığıdır. </p>",
+        "E": "<p>Ben ki en çok seni sevdim, sen beni anlamadın. </p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892518,
+        "UniteNo": 5,
+        "PageNumber": 130,
+        "AnswerExplanation": "<p>Eylemle yapılan birleşik eylemler, betimsel eylemler olarak adlandırılır. Betimsel eylemler asıl eyleme “tezlik, yeterlilik, süreklilik, beklenmezlik, yaklaşma” anlamları ile bağlanır ve asıl eylemin kılınış çeşidini göstermeye yarar.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi betimsel eylemler olarak adlandırılır?</p>",
+        "A": "<p>Adla yapılan birleşik eylemler</p>",
+        "B": "<p>Eylemle yapılan birleşik eylemler</p>",
+        "C": "<p>Tekrar öbeği</p>",
+        "D": "<p>İsim- fiil öbeği</p>",
+        "E": "<p>Zarf- fiil öbeği</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892550,
+        "UniteNo": 5,
+        "PageNumber": 131,
+        "AnswerExplanation": "<p>Adam, <u>sırıklara bağlı</u> fasulyelerin küçük, ürkek çiçeklerini gördü. </p>\n<p>sırıklara bağlı yaklaşma öbeğidir.</p>",
+        "Title": "",
+        "Text": "<p>\"Adam, sırıklara bağlı fasulyelerin küçük, ürkek çiçeklerini gördü.\" cümlesinde hangi kısaltma öbeği kullanılmıştır?</p>",
+        "A": "<p>İlgi öbeği</p>",
+        "B": "<p>Belirtme öbeği</p>",
+        "C": "<p>Yaklaşma öbeği</p>",
+        "D": "<p>Bulunma öbeği</p>",
+        "E": "<p>Ayrılma öbeği</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892360,
+        "UniteNo": 5,
+        "PageNumber": 142,
+        "AnswerExplanation": "<p>Sıralı cümleler yapısına göre sınıflandırılan cümle türleri arasındadır. Doğru cevap E’dir. </p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi anlamına göre sınıflandırılan cümle türleri arasında değildir?</p> ",
+        "A": "<p>Olumlu</p> ",
+        "B": "<p>Olumsuz</p> ",
+        "C": "<p>Soru</p> ",
+        "D": "<p>Emir</p> ",
+        "E": "<p>Sıralı</p>  ",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
     }
 ]

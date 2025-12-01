@@ -12,8 +12,7 @@
         "D": "<p>SLR</p>",
         "E": "<p>DSLR</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353057,
@@ -28,8 +27,7 @@
         "D": "<p>Gövde içi hava hareketi var</p>",
         "E": "<p>Kare hızı sınırlı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353058,
@@ -44,8 +42,7 @@
         "D": "<p>RAW</p>",
         "E": "<p>CCD</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353060,
@@ -60,8 +57,7 @@
         "D": "<p>Yeni nesil elektronik vizör var</p>",
         "E": "<p>Lensler Küçük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353062,
@@ -76,8 +72,7 @@
         "D": "<p>Makine iç ses çok</p>",
         "E": "<p>Makine sarsıntısı az</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353064,
@@ -92,8 +87,7 @@
         "D": "<p>8.8x6.6 mm</p>",
         "E": "<p>36x24 mm </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353065,
@@ -108,8 +102,7 @@
         "D": "<p>El tutuş ergonomisi rahattır.</p>",
         "E": "<p>Piksel büyüklüğü nedeniyle ISO performansı yüksektir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353067,
@@ -124,8 +117,7 @@
         "D": "<p>Canon</p>",
         "E": "<p>Epson</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353068,
@@ -140,8 +132,7 @@
         "D": "<p>Canon</p>",
         "E": "<p>Nikon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353069,
@@ -156,8 +147,7 @@
         "D": "<p>Çözünürlüğün yüksek olması</p>",
         "E": "<p>Görüntü kalitesinin yüksük olması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353071,
@@ -172,8 +162,7 @@
         "D": "<p>50 mm</p>",
         "E": "<p>55 mm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353073,
@@ -188,8 +177,7 @@
         "D": "<p>Makine sarsıntısı az</p>",
         "E": "<p>Lensler Küçük</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353076,
@@ -204,8 +192,7 @@
         "D": "<p>II, III, IV ve V</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353077,
@@ -220,8 +207,7 @@
         "D": "<p>Keskin, iyi pozlanmış bir fotoğraf elde etmek mümkündür. </p>",
         "E": "<p>Kablosuz bağlantıyla fotoğraflarınızı bilgisayarlarınıza indirme özelliği mevcuttur.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353078,
@@ -236,8 +222,7 @@
         "D": "<p>Hafıza kartı</p>",
         "E": "<p>Pentaprizma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353080,
@@ -252,8 +237,7 @@
         "D": "<p>75</p>",
         "E": "<p>80</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353086,
@@ -268,8 +252,7 @@
         "D": "<p>Çok işlevli bazı tasarımlar</p>",
         "E": "<p>Video Çekim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353089,
@@ -284,8 +267,7 @@
         "D": "<p>Daha kısa pozlama süreleri kullanarak anı<br />dondurabilir</p>",
         "E": "<p>Otomatik odaklama sistemleri daha gelişmiştir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353090,
@@ -300,8 +282,7 @@
         "D": "<p>Konunun kalitesini artırmak için daha küçük lens açıklıkları kullanılarak net bir odak noktası sağlayabilir</p>",
         "E": "<p>Hafifliği ve küçük boyutu nedeniyle ceket cebine koyup onu her yere götürmek mümkündür</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353093,
@@ -316,8 +297,7 @@
         "D": "<p>Kadın kullanıcılar için hantal ve hacimli olduklarından, mutlaka deneyerek alınması önerilmektedir</p>",
         "E": "<p>Giriş seviyesi DSLR’ler genellikle üzerinde “kit” olarak adlandırılan spor bir lensle<br />birlikte satılır ve maliyeti kompaktlara nazaran birkaç kat daha yüksektir</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353055,
@@ -332,8 +312,7 @@
         "D": "<p>Keskin, iyi pozlanmış bir fotoğraf elde etme özelliği</p>",
         "E": "<p>Flaş mesafesi yüksekliği ve güçlerinin yeterliliği</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353056,
@@ -348,8 +327,7 @@
         "D": "<p>Obtüratör</p>",
         "E": "<p>Pozometre</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353059,
@@ -364,8 +342,7 @@
         "D": "<p>Kare hızı sınırlılığı daha az</p>",
         "E": "<p>Servis maliyeti düşük</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353061,
@@ -380,8 +357,7 @@
         "D": "<p>Kompakt Fotoğraf Makinesi</p>",
         "E": "<p>Tam Çerçeve DSLR Fotoğraf Makinesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353063,
@@ -396,8 +372,7 @@
         "D": "<p>Olympus-EP1<br /><br /></p>",
         "E": "<p>Sony N</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353066,
@@ -412,8 +387,7 @@
         "D": "<p>Piksel büyüklüğü nedeniyle ISO performansı<br />yüksektir. Grenlenme daha az yaşanır</p>",
         "E": "<p>Dinamik aralık daha geniştir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353070,
@@ -428,8 +402,7 @@
         "D": "<p>35x24 mm</p>",
         "E": "<p>53,7 × 40,2 mm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353072,
@@ -444,8 +417,7 @@
         "D": "<p>Küçük gövde</p>",
         "E": "<p>Servis maliyeti yüksek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353074,
@@ -460,8 +432,7 @@
         "D": "<p>I, II ve V</p>",
         "E": "<p>II, IV ve V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353082,
@@ -476,8 +447,7 @@
         "D": "<p>Mikro 4/3 makine</p>",
         "E": "<p>D-SLR makine</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353084,
@@ -492,8 +462,7 @@
         "D": "<p>Makinelerin netleme detaylarına göre de<br />bir sınıflandırma yapılabilir</p>",
         "E": "<p>Aynasız fotoğraf makineleri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353091,
@@ -508,8 +477,7 @@
         "D": "<p>Odaklama camı veya ekranı (Focusing<br />screen) pentaprizmaya düşen görüntünün<br />odaklanmasını sağlar.</p>",
         "E": "<p>Yoğunlaştırıcı Optik ya da mercek (Condanser Lens) pentaprizmaya düşen görüntünün yoğunlaşarak toplanmasını sağlar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353075,
@@ -524,8 +492,7 @@
         "D": "<p>4x5 inch makineler</p>",
         "E": "<p>Kompakt makineler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353079,
@@ -540,8 +507,7 @@
         "D": "<p>DSLR fotoğraf makinelerinde tüm kontrol ve makine hakimiyeti fotoğrafçıya aittir. </p>",
         "E": "<p>Objektifler de eklendiğinde yurt dışı ve arazi gezilerinizde ekstra bir çanta daha taşımanızı gerektirebilir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353081,
@@ -556,8 +522,7 @@
         "D": "<p>Sayısal arkalık makineler</p>",
         "E": "<p>Orta format makineler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353092,
@@ -572,8 +537,7 @@
         "D": "<p>Fotoğraflar yüksek kalitededir ve büyük boyutlara baskı alındığında sorun yaşamazsınız.</p>",
         "E": "<p>DSLR fotoğraf makinelerinin üzerine yerleştireceğiniz lens seçenekleriyle yaratıcı çekim tekniklerinde sınır tanımazlar.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353083,
@@ -588,8 +552,7 @@
         "D": "<p>Yüksek çözünürlüklü renk derinliği olan görüntüler</p>",
         "E": "<p>İhtiyacınız ve amacınız ölçüsünde geniş bir yelpaze sunar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353085,
@@ -604,7 +567,6 @@
         "D": "<p>Orta format fotoğraf makineleri gibi isimlerle sınıflandırılırlar.</p>",
         "E": "<p>kumlama (noise) </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     }
 ]

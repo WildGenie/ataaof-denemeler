@@ -12,8 +12,7 @@
         "D": "<p>Makalede düşünceler planlı olarak sunulmalıdır. </p>",
         "E": "<p>Yazar savunduğu düşünceyi kanıtlayıcı belgelerden yararlanmalıdır. </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257869,
@@ -28,8 +27,7 @@
         "D": "<p>Bellekte kaldığı kadarıyla yazılır.</p>",
         "E": "<p>Olayların yaşandığı zamandan çok sonra kaleme alınır.</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257967,
@@ -44,8 +42,7 @@
         "D": "<p>Röportaj</p>",
         "E": "<p>Deneme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258149,
@@ -60,8 +57,7 @@
         "D": "<p>Genellikle canlılığını anlatımın yalınlığından, yoğunluğundan alır.</p> ",
         "E": "<p>Yazar dilediği konuyu seçer.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258155,
@@ -76,8 +72,7 @@
         "D": "<p>Anı</p>",
         "E": "<p>Eleştiri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258157,
@@ -92,8 +87,7 @@
         "D": "<p>Ele aldığı konuyla ilişkili yapılan araştırmanın sonuçlarını duyurur.</p>",
         "E": "<p>Ele aldığı bir konuya eleştiri getirir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258181,
@@ -108,8 +102,7 @@
         "D": "<p>İbni Batuta</p>",
         "E": "<p>J. J. Rouseau</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258200,
@@ -124,8 +117,7 @@
         "D": "Gezi yazısı",
         "E": "Destan",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258202,
@@ -140,8 +132,7 @@
         "D": "Etnografi",
         "E": "Kaligrafi",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258207,
@@ -156,8 +147,7 @@
         "D": "<p>Deneme</p>",
         "E": "<p>Anı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258248,
@@ -172,8 +162,7 @@
         "D": "<p>magazin yazıları</p>",
         "E": "<p>dergi yazıları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258251,
@@ -188,8 +177,7 @@
         "D": "eleştiri",
         "E": "tez",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258254,
@@ -204,8 +192,7 @@
         "D": "<p>tez</p>",
         "E": "<p>sunum</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258323,
@@ -220,8 +207,7 @@
         "D": "<p>Ziya Gökalp</p>",
         "E": "<p>İbrahim Şinasi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258325,
@@ -236,8 +222,7 @@
         "D": "<p>İç konuşmadan uzak durulur.</p>",
         "E": "<p>Kesin bir sonuca ulaşılır.</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258326,
@@ -252,8 +237,7 @@
         "D": "<p>Yaşar Nabi Nayır</p> ",
         "E": "<p>Yaşar Kemal</p>  ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258335,
@@ -268,8 +252,7 @@
         "D": "<p>I, II, III, IV</p>",
         "E": "<p>I, II, III, IV, V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258339,
@@ -284,8 +267,7 @@
         "D": "<p>Belli bir konuda okuyucuları bilgilendirmek</p>",
         "E": "<p>Konuyu kanıtlarıyla açıklamak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258341,
@@ -300,8 +282,7 @@
         "D": "<p>geleceğe bilimsel kanıt olma</p>",
         "E": "<p>Türk edebiyatında yaygınlığı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258348,
@@ -316,8 +297,7 @@
         "D": "<p>Ali Suavi</p>",
         "E": "<p>Yakup Kadri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257715,
@@ -332,8 +312,7 @@
         "D": "<p>Biyografi</p>",
         "E": "<p>Röportaj</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257719,
@@ -348,8 +327,7 @@
         "D": "<p>Söyleşi</p>",
         "E": "<p>Fıkra</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257727,
@@ -364,8 +342,7 @@
         "D": "<p>Bize Göre</p> ",
         "E": "<p>Araba Sevdası</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257865,
@@ -380,8 +357,7 @@
         "D": "<p>Makaleye göre daha uzundur.</p>",
         "E": "<p>Bilimsel bir gerçeği ortaya koyma amacındadır.</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257962,
@@ -396,8 +372,7 @@
         "D": "<p>Eleştiri</p>",
         "E": "<p>Deneme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257969,
@@ -412,8 +387,7 @@
         "D": "<p>Biyografi</p>",
         "E": "<p>Röportaj</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258147,
@@ -428,8 +402,7 @@
         "D": "<p>belgesel gezi</p>",
         "E": "<p>deneme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258154,
@@ -444,8 +417,7 @@
         "D": "<p>İroniden geniş ölçüde yararlanılır.</p> ",
         "E": "<p>Anlatılanlar iç konuşma tekniğiyle verilir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258168,
@@ -460,8 +432,7 @@
         "D": "<p>Söyleşi</p>",
         "E": "<p>Deneme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258204,
@@ -476,8 +447,7 @@
         "D": "Otobiyografi",
         "E": "Öz yaşam öyküsü",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258249,
@@ -492,8 +462,7 @@
         "D": "tez",
         "E": "fıkra",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258277,
@@ -508,8 +477,7 @@
         "D": "<p>Sanatçıya dönük eleştiri</p>",
         "E": "<p>Döneme dönük eleştiri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258328,
@@ -524,8 +492,7 @@
         "D": "<p> Cenap Şahabettin</p> ",
         "E": "<p>Evliya Çelebi</p>  ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258331,
@@ -540,8 +507,7 @@
         "D": "<p>Virginia Woolf</p> ",
         "E": "<p>Stefan Zweig</p>  ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258333,
@@ -556,8 +522,7 @@
         "D": "<p>I, II, III</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258337,
@@ -572,8 +537,7 @@
         "D": "<p>Gezi</p>",
         "E": "<p>Fıkra</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257721,
@@ -588,8 +552,7 @@
         "D": "<p>Topluma dönük eleştiri</p>",
         "E": "<p>Çözümleyici eleştiri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257861,
@@ -604,8 +567,7 @@
         "D": "<p>Sanatsal boyutlu yazılardır.</p>",
         "E": "<p>Bir gözlem, deneyim ya da araştırmaya dayalı yazılardır.</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257867,
@@ -620,8 +582,7 @@
         "D": "<p>yapıta dönük eleştiri</p>",
         "E": "<p>çözümleyici eleştiri </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257968,
@@ -636,8 +597,7 @@
         "D": "<p>Makale</p>",
         "E": "<p>Günlük</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258151,
@@ -652,8 +612,7 @@
         "D": "<p>Kahramanların davranışları ve düşüncelerinde ulusal kültürü yansıtan izler vardır.</p> ",
         "E": "<p>En bilinenleri Nasrettin Hoca, Bektaşi, Bekri Mustafa ve İncili Çavuş fıkralarıdır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258156,
@@ -668,8 +627,7 @@
         "D": "<p>Okuyucuyu gerçeklere götürmeyi amaçlaması</p>",
         "E": "<p>Fikirlerin gözlemi deney ve kanıta dayalı olması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258162,
@@ -684,8 +642,7 @@
         "D": "<p>Yaşam öyküleri sanat değeri taşırlar.</p>",
         "E": "<p><br />Yaşam öyküleri tarihsel gerçekliğe bağlı; açık, sade ve tarafsız bir görüşle yazılır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258180,
@@ -700,8 +657,7 @@
         "D": "<p>Fıkra</p>",
         "E": "<p>Röportaj</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258196,
@@ -716,8 +672,7 @@
         "D": "Roman",
         "E": "Tiyatro",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258252,
@@ -732,8 +687,7 @@
         "D": "dergi yazıları",
         "E": "gezi yazıları",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258330,
@@ -748,8 +702,7 @@
         "D": "<p>Refik Halit Karay</p> ",
         "E": "<p>Halit Ziya Uşaklıgil</p>  ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258332,
@@ -764,8 +717,7 @@
         "D": "<p>Anı</p> ",
         "E": "<p>Günlük</p>   ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257723,
@@ -780,8 +732,7 @@
         "D": "<p>Tahsin Y&uuml;cel</p>",
         "E": "<p>Nurullah Ata&ccedil;</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257730,
@@ -796,8 +747,7 @@
         "D": "<p>Yakup Kadri Karaosmanoğlu</p>",
         "E": "<p>Halikarnas Balıkçısı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257963,
@@ -812,8 +762,7 @@
         "D": "<p>Söyleşi</p>",
         "E": "<p>Röportaj</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258158,
@@ -828,8 +777,7 @@
         "D": "<p>Eleştiri</p>",
         "E": "<p>Gezi yazısı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258183,
@@ -844,8 +792,7 @@
         "D": "<p>Başka Kentler, Başka Denizler</p>",
         "E": "<p>Hıtay Sefaretnamesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258197,
@@ -860,8 +807,7 @@
         "D": "Makalede yazar düş gücünden ve öznelliğinden yararlanmalıdır",
         "E": "Makalede yazar 3. tekil anlatımı kullanmalıdır.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258206,
@@ -876,8 +822,7 @@
         "D": "<p>Nesnel ve standart bir dil kullanılır. </p>",
         "E": "<p>Türk edebiyatında günlük türü diğer türlere göre gelişmiş bir tür değildir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258250,
@@ -892,8 +837,7 @@
         "D": "deneme",
         "E": "hikayeleme",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258253,
@@ -908,8 +852,7 @@
         "D": "makale",
         "E": "tez",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258327,
@@ -924,8 +867,7 @@
         "D": "<p>Eleştiri</p> ",
         "E": "<p>Gezi yazısı</p>  ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258349,
@@ -940,8 +882,7 @@
         "D": "<p>Eleştiri</p>",
         "E": "<p>Gezi yazısı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257862,
@@ -956,8 +897,7 @@
         "D": "<p>gezi</p>",
         "E": "<p>öz yaşam öyküsü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257866,
@@ -972,8 +912,7 @@
         "D": "<p>deneme</p>",
         "E": "<p>söyleşi</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257961,
@@ -988,8 +927,7 @@
         "D": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Düşünce yazılarında bilimsel kavramlara ve terimlere yer verilmez.</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Düşünce yazılarının yazılış amacı ile okura sezdirilen anlam arasında bir ilişki söz konusudur.</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258148,
@@ -1004,8 +942,7 @@
         "D": "<p>Düşünceyi gölgeleyen anlatım oyunları, diğer bir deyişle sanatsal bir anlatım kaygısı taşımaz.</p> ",
         "E": "<p>Yazar dilediği konuyu seçer.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258179,
@@ -1020,8 +957,7 @@
         "D": "<p>Beşir Ayvazoğlu</p>",
         "E": "<p>Cemal Süreya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258198,
@@ -1036,8 +972,7 @@
         "D": "Sanatçıya dönük eleştiri",
         "E": "Okura dönük eleştiri",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258199,
@@ -1052,8 +987,7 @@
         "D": "Deneme",
         "E": "Gezi yazısı",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258336,
@@ -1068,8 +1002,7 @@
         "D": "<p>Eleştiri belli ölçütlere göre yapılmalı</p>",
         "E": "<p>Eleştiri yapıcı ve yol gösterici olmalı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258345,
@@ -1084,8 +1017,7 @@
         "D": "<p>Topluma dönük eleştiri</p>",
         "E": "<p>Çözümleyici eleştiri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257965,
@@ -1100,8 +1032,7 @@
         "D": "<p>Düşünce yazısı</p>",
         "E": "<p>Eleştiri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257966,
@@ -1116,8 +1047,7 @@
         "D": "<p>Söyleşi</p>",
         "E": "<p>Röportaj</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258153,
@@ -1132,8 +1062,7 @@
         "D": "<p>Topluma dönük eleştiri</p> ",
         "E": "<p>Çözümleyici eleştiri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258159,
@@ -1148,8 +1077,7 @@
         "D": "<p>Günlük olaylarla ilgili bir gerçeği bilimsel olarak kanıtlaması</p>",
         "E": "<p>Güncel olayları kendine göre yorumlayabilmesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258166,
@@ -1164,8 +1092,7 @@
         "D": "<p>Ziya Gökalp - Yakup Kadri</p>",
         "E": "<p>Refik Halid Karay - Falih Rıfkı Atay</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258169,
@@ -1180,8 +1107,7 @@
         "D": "<p>Yapıta dönük eleştiri</p>",
         "E": "<p>Sanatçıya dönük eleştiri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258344,
@@ -1196,8 +1122,7 @@
         "D": "<p>Söyleşi</p>",
         "E": "<p>Eleştiri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257868,
@@ -1212,8 +1137,7 @@
         "D": "<p>eleştirel deneme</p>",
         "E": "<p>izlenimsel eleştirel deneme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258334,
@@ -1228,8 +1152,7 @@
         "D": "<p>Yazar yazının sonucunda bir yargıya varır</p>",
         "E": "<p>Sadece belli konular üzerine yazılır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258346,
@@ -1244,8 +1167,7 @@
         "D": "<p>Eleştiri</p>",
         "E": "<p>Söyleşi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258351,
@@ -1260,8 +1182,7 @@
         "D": "<p>Yaşar Nabi Nayır </p>",
         "E": "<p>Mehmet Seyda</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258352,
@@ -1276,8 +1197,7 @@
         "D": "<p>Seyahatname</p>",
         "E": "<p>Göktürk Kitabeleri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257725,
@@ -1292,8 +1212,7 @@
         "D": "<p>Deneme</p>",
         "E": "<p>Röportaj</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257729,
@@ -1308,8 +1227,7 @@
         "D": "<p>Muallim Naci</p>",
         "E": "<p>Cemil Meriç</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257732,
@@ -1324,8 +1242,7 @@
         "D": "<p>Söyleşi</p>",
         "E": "<p>Eleştiri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258152,
@@ -1340,8 +1257,7 @@
         "D": "<p>17. yy</p>",
         "E": "<p>21. yy</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258167,
@@ -1356,8 +1272,7 @@
         "D": "<p>19.yy</p>",
         "E": "<p>20.yy</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258329,
@@ -1372,8 +1287,7 @@
         "D": "<p>Verlaine</p>",
         "E": "<p>Tolstoy</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258342,
@@ -1388,8 +1302,7 @@
         "D": "<p>Gerçeklik</p>",
         "E": "<p>Yazının amacı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258146,
@@ -1404,8 +1317,7 @@
         "D": "<p>Deneyime dayanır.</p> ",
         "E": "<p>Bilgiye dayanır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258182,
@@ -1420,8 +1332,7 @@
         "D": "<p>Röportaj </p>",
         "E": "<p>Fıkra</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258205,
@@ -1436,8 +1347,7 @@
         "D": "Çözümleyici eleştiri",
         "E": "Topluma dönük eleştiri",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258347,
@@ -1452,8 +1362,7 @@
         "D": "<p>Belirli bir sonuca ve yargıya varılır.</p>",
         "E": "<p>Anlatılanlar iç konuşma tekniğiyle verilir.<br /><br /></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258150,
@@ -1468,8 +1377,7 @@
         "D": "<p>Füsun Akatlı</p> ",
         "E": "<p> Berna Moran</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258160,
@@ -1484,8 +1392,7 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258340,
@@ -1500,8 +1407,7 @@
         "D": "<p>Çevredeki farklı yapıtları tanıtmak</p>",
         "E": "<p>Çevre ülkelerin kültürünü tanıtmak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257860,
@@ -1516,8 +1422,7 @@
         "D": "<p>bilgi verici yazılar</p>",
         "E": "<p>düşünsel yazılar</p>  ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257864,
@@ -1532,8 +1437,7 @@
         "D": "<p>Şinasi</p>",
         "E": "<p>Berna Moran</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258203,
@@ -1548,8 +1452,7 @@
         "D": "Deneme",
         "E": "Eleştiri",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258161,
@@ -1564,8 +1467,7 @@
         "D": "<p>Anı</p>",
         "E": "<p>Tarih</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258145,
@@ -1580,8 +1482,7 @@
         "D": "<p> bilgi verici yazılar</p> ",
         "E": "<p> düşünsel yazılar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258163,
@@ -1596,8 +1497,7 @@
         "D": "<p>S&ouml;yleşi bi&ccedil;iminde yaşam &ouml;yk&uuml;s&uuml;, kişi hayattayken birinci elden toplanan bilgilerle belgelerin birleştirildiği bir t&uuml;rd&uuml;r.</p>",
         "E": "<p>Akademik araştırma &ouml;rnekleri belgesel yaşam &ouml;yk&uuml;s&uuml; t&uuml;r&uuml; i&ccedil;inde kabul edilir.&nbsp;</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258201,
@@ -1612,8 +1512,7 @@
         "D": "Makale",
         "E": "Edebî deneme",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258247,
@@ -1628,8 +1527,7 @@
         "D": "metin anlatımı",
         "E": "sempozyum",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258343,
@@ -1644,8 +1542,7 @@
         "D": "<p>Deneme</p>",
         "E": "<p>Söyleşi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257971,
@@ -1660,8 +1557,7 @@
         "D": "<p>Günlük</p>",
         "E": "<p>Anı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258324,
@@ -1676,8 +1572,7 @@
         "D": "<p>Muallim Naci</p> ",
         "E": "<p>Nurullah Ataç</p>  ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258350,
@@ -1692,8 +1587,7 @@
         "D": "<p>Gerçekler saptırılmaz, ancak gerçekler sanatçı duyarlılığı ile yazılır.<br /><br /></p>",
         "E": "<p>Yazı birinci kişinin ağzından anlatılır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257863,
@@ -1708,8 +1602,7 @@
         "D": "<p>Dolaylı anlatımlara yer vermelidir.</p>",
         "E": "<p>Birinci tekil anlatımı kullanmalıdır.</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258164,
@@ -1724,8 +1617,7 @@
         "D": "<p>Anıların geçmişte yaşanan olaylara dayanması, onu tarihe yaklaştırır; ancak tarih toplumsal iken anı daha çok bireyseldir.</p>",
         "E": "<p>Anı türünde, yaşanılanların tamamının eksiksiz anlatılması beklenemez.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258338,
@@ -1740,8 +1632,7 @@
         "D": "<p>yaşam öyküsü</p>",
         "E": "<p>deneme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257964,
@@ -1756,8 +1647,7 @@
         "D": "<p>Deneme</p>",
         "E": "<p>Hikaye</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258165,
@@ -1772,7 +1662,6 @@
         "D": "<p>Fıkra</p>",
         "E": "<p>Makale</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     }
 ]

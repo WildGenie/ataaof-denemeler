@@ -12,8 +12,7 @@
         "D": "<p>Özetleyerek okuma</p>",
         "E": "<p>Göz atarak okuma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257585,
@@ -28,8 +27,7 @@
         "D": "<p>Aktif dinleme </p>",
         "E": "<p>Empatik dinleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257653,
@@ -44,8 +42,7 @@
         "D": "<p>Okuma stratejik olmalıdır</p>",
         "E": "<p>Kişi okumaya güdülenmelidir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257696,
@@ -60,8 +57,7 @@
         "D": "<p>Yeniden yapılandırma</p>",
         "E": "<p>Anlamı kavramı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257710,
@@ -76,8 +72,7 @@
         "D": "<p>Ön yargı</p>",
         "E": "<p>Fiziksel konfor</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257713,
@@ -92,8 +87,7 @@
         "D": "<p>yanlış vurgu ve tonlamalar</p>",
         "E": "<p>Fiziksel konfor</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257822,
@@ -108,8 +102,7 @@
         "D": "<p>Okuma yaşam boyu devam etmelidir</p> ",
         "E": "<p>Okuma düzenli yapılmalıdır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257826,
@@ -124,8 +117,7 @@
         "D": "<p>Özetleyerek okuma</p> ",
         "E": "<p>Tahmin ederek okuma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258224,
@@ -140,8 +132,7 @@
         "D": "Eleştirel dinleme dinleneni değerlendirme amaçlı eleştirmeyi, sorgulayıcı dinleme dinlenenin mantıksal sorgusunu yapmayı amaçlar",
         "E": "Eleştirel dinleme; anlatılanların tutarlılığını sorgulamayı, sorgulayıcı dinleme; konunun tarafsız bakış açısıyla ele alınıp alınmadığını sorgulamayı amaçlar",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258226,
@@ -156,8 +147,7 @@
         "D": "İkisi de alıcı dil etkinliğidir.",
         "E": "İkisinde de bulunulan ortamın niteliği önemlidir.",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258260,
@@ -172,8 +162,7 @@
         "D": "Anlamı bilinmeyen kelimelerin anlamlarının bağlamdan çıkarılabilmesi için ipuçları bulmak",
         "E": "Konuyla ilgili ön bilgileri harekete geçirmek",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258309,
@@ -188,8 +177,7 @@
         "D": "<p>Eleştirel okumada okuyucunun ön yargıları sürece dahil edilir</p>",
         "E": "<p>Eleştirel okuma yazarın bakış açısını kavramak ve değerlendirmektir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258311,
@@ -204,8 +192,7 @@
         "D": "<p>Eleştirel dinleme</p>",
         "E": "<p>Seçici dinleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258433,
@@ -220,8 +207,7 @@
         "D": " <p>Sentez</p>",
         "E": "<p>Değerlendirme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258454,
@@ -236,8 +222,7 @@
         "D": "<p>Okuma becerisi, okuduğunu anlamayı sağlar.</p> ",
         "E": "<p>Kavramak, fiziksel okuma sürecidir.</p>  ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258468,
@@ -252,8 +237,7 @@
         "D": "<p>I, II, IV, V</p>",
         "E": "<p>I, II, III, IV, V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258475,
@@ -268,8 +252,7 @@
         "D": "<p>İşaretleyerek okuma</p>",
         "E": "<p>Tahmin ederek okuma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258476,
@@ -284,8 +267,7 @@
         "D": "<p>Özetleme</p>",
         "E": "<p>Şemalaştırma</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258478,
@@ -300,8 +282,7 @@
         "D": "<p>Seçici dinleme</p>",
         "E": "<p>Amaçlı dinleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258712,
@@ -316,8 +297,7 @@
         "D": "<p>Çıkarsama yapma</p> ",
         "E": "<p>Not alma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257569,
@@ -332,8 +312,7 @@
         "D": "<p>Kişi okumaya güdülenmelidir. </p>",
         "E": "<p>Okuma okul ve iş yaşamından sonra duraksamalıdır. </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257571,
@@ -348,8 +327,7 @@
         "D": "<p>Çıkarımlarda bulunma</p>",
         "E": "<p>Anlamı kavrama</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257583,
@@ -364,8 +342,7 @@
         "D": "<p>İleti (mesaj) - dinleyen (alıcı) - geri bildirim - cihaz </p>",
         "E": "<p>Frekans - dinleyen (alıcı) - geri bildirim - kaynak (konuşan) </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257662,
@@ -380,8 +357,7 @@
         "D": "<p>Şemalaştırma</p>",
         "E": "<p>Resimleştirme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257702,
@@ -396,8 +372,7 @@
         "D": "<p>Çıkarım ve yargıda bulunmayı kolaylaştırmak</p>",
         "E": "<p>Anlamı bilinen ve bilinmeyen kelimeler arasında anlamsal ilişkiler kurmak</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257828,
@@ -412,8 +387,7 @@
         "D": "<p>Tek yönlü bakış açısını ve düşünmeyi zorunlu kılar</p> ",
         "E": "<p>Eleştirel düşünmenin temelinde yoğun bir dikkatten ziyade yorumlama becerisi yatmaktadır</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257829,
@@ -428,8 +402,7 @@
         "D": "<p>Kelime dağarcığı</p> ",
         "E": "<p>Ses tonu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257830,
@@ -444,8 +417,7 @@
         "D": "<p>Aktif Dinleme – dinlenilenlere anlam yükledikten sonra zihinde yorumlanması, analiz ve senteze gittikten sonra bunlardan yeni fikirler üretilmesi şeklinde gelişen dinleme</p> ",
         "E": "<p>Amaçlı Dinleme – bilgi edinmeye, yorumlamaya, eleştirmeye ve haz almaya dayalı dinleme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258221,
@@ -460,8 +432,7 @@
         "D": "1, 2, 3 ve 5",
         "E": "1, 3, 4 ve 6",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258304,
@@ -476,8 +447,7 @@
         "D": "<p>Okuma stratejik olarak yapılmalıdır</p>",
         "E": "<p>Kişiler okumak i&ccedil;in g&uuml;d&uuml;lenmelidir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258437,
@@ -492,8 +462,7 @@
         "D": "<p>Bireysel etkenler</p>",
         "E": "<p>Aile</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258439,
@@ -508,8 +477,7 @@
         "D": "<p>Öğrenilenleri değerlendirmek</p>",
         "E": "<p>Okuma deneyimini genişletmek</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258440,
@@ -524,8 +492,7 @@
         "D": "<p>Nesnel bakış açısı gerektirir.</p>",
         "E": "<p>Yoğun dikkat gerektirir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258441,
@@ -540,8 +507,7 @@
         "D": "<p>Fiziksel konfor</p>",
         "E": "<p>ışık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258442,
@@ -556,8 +522,7 @@
         "D": "<p>Konunun sunuluş şekli</p>",
         "E": "<p>Isı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258470,
@@ -572,8 +537,7 @@
         "D": "<p>I, III, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258471,
@@ -588,8 +552,7 @@
         "D": "<p>II, III, IV, V</p>",
         "E": "<p>I, II, IV, V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257573,
@@ -604,8 +567,7 @@
         "D": "<p>Bireysel etkenler</p>",
         "E": "<p>Ülke şartları</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257672,
@@ -620,8 +582,7 @@
         "D": "<p>Seçici Dinleme</p>",
         "E": "<p>Eleştirel Dinleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257704,
@@ -636,8 +597,7 @@
         "D": "<p>Okuma sırasında nelere dikkat edileceğine karar verme</p>",
         "E": "<p>Önce okunanları kontrol etme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258259,
@@ -652,8 +612,7 @@
         "D": "İşaretleyerek okuma",
         "E": "Özetleyerek okuma",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258261,
@@ -668,8 +627,7 @@
         "D": "Sorgulayıcı dinleme",
         "E": "Seçici dinleme",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258262,
@@ -684,8 +642,7 @@
         "D": "<p>Metinde yer alan örnekleri dikkatle okumak ve konuyla ilişkilendirmek</p>",
         "E": "<p>Zengin kelime dağarcığına sahip olmak</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258307,
@@ -700,8 +657,7 @@
         "D": "<p>Tartışarak okuma</p>",
         "E": "<p>İşaretleyerek okuma</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258434,
@@ -716,8 +672,7 @@
         "D": "<p>İlişkilendirme</p>",
         "E": "<p>Değerlendirme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258438,
@@ -732,8 +687,7 @@
         "D": "<p>İşaretleyerek okuma</p>",
         "E": "<p>Tartışarak okuma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258477,
@@ -748,8 +702,7 @@
         "D": "<p>Konuşmaya hazırlık</p>",
         "E": "<p>İlgi ve istek</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257664,
@@ -764,8 +717,7 @@
         "D": "<p>Akıl yürütme</p>",
         "E": "<p>İçselleştirme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257666,
@@ -780,8 +732,7 @@
         "D": "<p>Jest ve mimikler</p>",
         "E": "<p>Konunun sunuluş şekli</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257698,
@@ -796,8 +747,7 @@
         "D": "<p>Yorumlama becerisi</p>",
         "E": "<p>Geniş bakış açısı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257708,
@@ -812,8 +762,7 @@
         "D": "<p>Metnin bağlamını açıklamak</p>",
         "E": "<p>Anlamı bilinen ve bilinmeyen kelimeler arasında anlamsal ilişkiler kurmak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257824,
@@ -828,8 +777,7 @@
         "D": "<p>Metinde geçen anlamı bilinmeyen kelime ve terimleri araştırmak</p> ",
         "E": "<p>Metnin konusunu önceden bilinenlerle ilişkilendirmemek</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257825,
@@ -844,8 +792,7 @@
         "D": "<p>Aile</p> ",
         "E": "<p>Okul</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258305,
@@ -860,8 +807,7 @@
         "D": "<p>Çıkarımlarda bulunma</p>",
         "E": "<p>Anlamı kavrama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258306,
@@ -876,8 +822,7 @@
         "D": "<p>II, I ve III</p>",
         "E": "<p>III, II ve I</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257660,
@@ -892,8 +837,7 @@
         "D": "<p>Özetleyerek Okuma</p>",
         "E": "<p>Tahmin Ederek Okuma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257694,
@@ -908,8 +852,7 @@
         "D": "<p>Özetleme</p>",
         "E": "<p>Not alma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257706,
@@ -924,8 +867,7 @@
         "D": "<p>Çıkarım ve yargıda bulunmayı kolaylaştırmak</p>",
         "E": "<p>Metinde yer alan bilgilerle önceden sahip olunan bilgileri birleştirmek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257823,
@@ -940,8 +882,7 @@
         "D": "<p>Metinden elde edilen bilgilerle, metnin konusuyla ilgili önceden sahip olunan bilgilerin ilişkilendirildiği</p> ",
         "E": "<p>Metinde birbirini izleyen kelimelerin anlamlarına yoğunlaşma konusunda dikkat yeteneğini geliştirebilmek için değişik etkinliklerin gerçekleştirilebildiği</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257827,
@@ -956,8 +897,7 @@
         "D": "<p>Okurların dikkatlerinin tarihlere, yerlere, isimlere, grafik, tablo ve bölümlere çekilmesidir.</p> ",
         "E": "<p>Okurların, okunanların anlamları üzerinde düşünüp bunları zihinde canlandırarak anlamayı kolaylaştırmasıdır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258223,
@@ -972,8 +912,7 @@
         "D": "3, 4, 5 ve 6",
         "E": "1, 4, 5 ve 6",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258303,
@@ -988,8 +927,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258308,
@@ -1004,8 +942,7 @@
         "D": "<p>Metinle ilgili tahminleri kontrol etme</p>",
         "E": "<p>Metni yeniden gözden geçirme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258312,
@@ -1020,8 +957,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258459,
@@ -1036,8 +972,7 @@
         "D": "<p>Edinilen bilgileri eyleme dönüştürür.</p>",
         "E": "<p>Öznel bilgilerden yanadır.</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257656,
@@ -1052,8 +987,7 @@
         "D": "<p>Metni okurken müzik dinlemek</p>",
         "E": "<p>Metinde geçen anlamı bilinmeyen kelime ve terimlere bağlama uygun anlamlar yüklemek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257831,
@@ -1068,8 +1002,7 @@
         "D": "<p>Her ikisinde de zihnin ve beynin aktif olması gerekir</p> ",
         "E": "<p>Her ikisinde kullanılan anlama stratejileri aynıdır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258222,
@@ -1084,8 +1017,7 @@
         "D": "2, 4, 5 ve 6",
         "E": "1, 3, 4 ve 5",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258310,
@@ -1100,8 +1032,7 @@
         "D": "<p>Konunun sunuluş şekli</p>",
         "E": "<p>Jest ve mimikler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257579,
@@ -1116,8 +1047,7 @@
         "D": "<p>Okuma hızını ayarlama</p>",
         "E": "<p>Not alma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257581,
@@ -1132,8 +1062,7 @@
         "D": "<p>Tanımlama, hipotez kurma, bilgi toplama, yorumlama ve genelleme, akıl yürütme, değerlendirme, çıkarsama</p>",
         "E": "<p>Tanımlama, hipotez kurma, bilgi toplama, yorumlama ve genelleme, akıl yürütme, sorgulama, uygulama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258435,
@@ -1148,8 +1077,7 @@
         "D": "<p>Kişi okumaya güdülenmelidir.</p>",
         "E": "<p>Okuma yaşam boyu devam etmelidir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258472,
@@ -1164,8 +1092,7 @@
         "D": "<p>sorgulayıcı dinleme</p>",
         "E": "<p>seçici dinleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257575,
@@ -1180,8 +1107,7 @@
         "D": "<p>Özetleyerek okuma</p>",
         "E": "<p>Yorumlayarak okuma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257587,
@@ -1196,8 +1122,7 @@
         "D": "<p>İkisinde de anlamanın gerçekleşmesi dilsel bir gereksinime ihtiyaç vardır.</p>",
         "E": "<p>İkisinde de geri bildirim yöntemi aynıdır. </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257668,
@@ -1212,8 +1137,7 @@
         "D": "<p>Ses tonu</p>",
         "E": "<p>Konuşma bozuklukları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258436,
@@ -1228,8 +1152,7 @@
         "D": "<p>Yeniden yapılandırma</p>",
         "E": "<p>Yoğun dikkat</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258473,
@@ -1244,8 +1167,7 @@
         "D": "<p>Dinleme ve Yazma</p>",
         "E": "<p>Dinleme ve Konuşma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257700,
@@ -1260,8 +1182,7 @@
         "D": "<p>Okumadan önce yapılan tahminlerin doğruluğunu kontrol etme</p>",
         "E": "<p>Anlamı bilinmeyen sözcükleri metinden yola çıkarak tahmin etme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258456,
@@ -1276,8 +1197,7 @@
         "D": "<p>Sözcük dağarcığının genişliği, okuduğunu anlamayı yavaşlatır.</p> ",
         "E": "<p>Okuduğunu anlama, tek bir metnin ana düşüncesiyle sınırlıdır.</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258457,
@@ -1292,8 +1212,7 @@
         "D": "<p>Düşünsel gelişimin yolunu açar.</p> ",
         "E": "<p>Düzeyli ilişkilerin kurulmasında etkilidir.</p>  ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257670,
@@ -1308,8 +1227,7 @@
         "D": "<p>Yaratıcı Dinleme</p>",
         "E": "<p>Pasif Dinleme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258474,
@@ -1324,8 +1242,7 @@
         "D": "<p>Zihinde canlandırma</p>",
         "E": "<p>Anlamı kavrama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258453,
@@ -1340,8 +1257,7 @@
         "D": "<p>Algılama</p> ",
         "E": "<p>Yazma</p>   ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257658,
@@ -1356,8 +1272,7 @@
         "D": "<p>Çıkarımlarda bulunma</p>",
         "E": "<p>Anlamı kavrama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258455,
@@ -1372,7 +1287,6 @@
         "D": "<p>Okuma, günlük yaşamın dışındadır.</p>",
         "E": "<p>Okuma, konuşurcasına akıcı ilerler.</p>  ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     }
 ]

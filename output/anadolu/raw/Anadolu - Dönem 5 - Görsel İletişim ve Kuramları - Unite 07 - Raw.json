@@ -12,8 +12,7 @@
         "D": "<p>Estetik</p>",
         "E": "<p>Görsellik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603432,
@@ -28,8 +27,7 @@
         "D": "<p>Baumgarten</p>",
         "E": "<p>Schiller</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603434,
@@ -44,8 +42,7 @@
         "D": "<p>Çirkinlikte de belirli bir estetik algısı vardır ve çirkinlik de eleştirel olarak ele alınabilir. </p>",
         "E": "<p>Güzellik ve çirkinlik, sadece kişisel tercihlere dayalıdır ve sanat felsefesiyle ilgisi yoktur.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603436,
@@ -60,8 +57,7 @@
         "D": "<p>Doğal olanda güzellik kendiliğinden belirmekte ve belli kurallara sadık kalacak şekilde, amaçsızdır.</p>",
         "E": "<p>Bir şeyin kökeni, onun varlığının kaynağıdır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603437,
@@ -76,8 +72,7 @@
         "D": "<p>Bu dönemde estetik ve güzellik, sadece sanat eserlerinin duygusal etkisini belirlemek için kullanılmıştır.</p>",
         "E": "<p>Bu dönemde estetik ve güzellik, sadece sanat eserlerinin yaratımında dikkate alınmış ve işlevsel unsurlardan bağımsız olarak ele alınmıştır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603440,
@@ -92,8 +87,7 @@
         "D": "<p>Banksy'nin sanat anlayışı sadece galerilerde sergilenen eserlerle sınırlıdır ve toplumsal bir işlevi yoktur.</p>",
         "E": "<p>Eserin reprodüksiyon versiyonu, 1,4 milyon dolara alıcıya satıldığında yarıya kadar kendi kendini şeritler halinde kesmiştir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603539,
@@ -108,8 +102,7 @@
         "D": "<p>Dört</p>",
         "E": "<p>Beş</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603540,
@@ -124,8 +117,7 @@
         "D": "<p>Bütüncüllük</p> ",
         "E": "<p>Sanatsallık</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603541,
@@ -140,8 +132,7 @@
         "D": "<p>Yeni Çağ</p>",
         "E": "<p>İmparatorluklar Dönemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603542,
@@ -156,8 +147,7 @@
         "D": "<p>Bağlamlar arasılık</p>",
         "E": "<p>Temsiliyet</p>\n<p><strong><em> </em></strong></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603545,
@@ -172,8 +162,7 @@
         "D": "<p>İnsanın güzeli yaratma çabası.</p> ",
         "E": "<p>İnsanın güzeli araması.</p>  ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603547,
@@ -188,8 +177,7 @@
         "D": "<p>Eserin kültürü</p> ",
         "E": "<p>Eserin sanatçısı</p>  ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603548,
@@ -204,8 +192,7 @@
         "D": "<p>Kübistler</p>",
         "E": "<p>Sürrealistler</p>\n<p><strong><em> </em></strong></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603550,
@@ -220,8 +207,7 @@
         "D": "<p>Tekelleşmeye karşı duruşa</p> ",
         "E": "<p>Sanatın yeni katmanlarına</p>   ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839999,
@@ -236,8 +222,7 @@
         "D": "Estetik uyum",
         "E": "Estetik nesne",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840002,
@@ -252,8 +237,7 @@
         "D": "Platon",
         "E": "G. Baumgarten",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840005,
@@ -268,8 +252,7 @@
         "D": "Neşet Ertaş",
         "E": "Âşık Veysel",
         "CorrectAnswer": "0",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840018,
@@ -284,8 +267,7 @@
         "D": "Danto",
         "E": "Aristo",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840020,
@@ -300,8 +282,7 @@
         "D": "Sanatçının çevresel gücü",
         "E": "Sanatçının tavrı",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840021,
@@ -316,8 +297,7 @@
         "D": "Kodlar-İletişim",
         "E": "Anlam-Bağlam",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603433,
@@ -332,8 +312,7 @@
         "D": "<p>Hutcheson</p>",
         "E": "<p>Rousseau</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603435,
@@ -348,8 +327,7 @@
         "D": "<p>Descartes</p>",
         "E": "<p>Locke</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603439,
@@ -364,8 +342,7 @@
         "D": "<p>Sanat eseri, sanatçının öznel algılarının bir yansımasıdır ve iletişim işlevi üstlenmez.</p>",
         "E": "<p>Sanat eseri, sadece görsel kültürü tanımlamak için kullanılır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603538,
@@ -380,8 +357,7 @@
         "D": "<p>Anlamlandırma</p> ",
         "E": "<p>Duyusal bilgi</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840017,
@@ -396,8 +372,7 @@
         "D": "Martin Heidegger",
         "E": "Immanuel Kant",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840019,
@@ -412,8 +387,7 @@
         "D": "Hokkabazlık",
         "E": "Mimarlık",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603438,
@@ -428,8 +402,7 @@
         "D": "<p>Tasarımın başarısı yalnızca kullanıcı deneyimine bağlıdır.</p>",
         "E": "<p>Tasarımın başarısı ergonomik ve rahat olmasına bağlıdır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603544,
@@ -444,8 +417,7 @@
         "D": "<p>Algılanan nesnenin konumunun uygunluğudur.</p> ",
         "E": "<p>Algılama biçiminin göze hoş gelen yapısıdır.</p>  ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839998,
@@ -460,8 +432,7 @@
         "D": "The Ethics of Aristotle, Aristo",
         "E": "Epinomis, Platon",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840003,
@@ -476,7 +447,6 @@
         "D": "Jackson Pollock",
         "E": "Marcel Duchamp",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     }
 ]

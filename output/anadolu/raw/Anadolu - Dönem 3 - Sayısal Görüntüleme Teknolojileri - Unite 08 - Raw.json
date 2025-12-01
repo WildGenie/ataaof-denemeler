@@ -12,8 +12,7 @@
         "D": "<p>Fotoğraf kameralarının cep telefonlarında olması gereken bir özellik olarak algılanması </p>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Fotoğraf estetiğinin sosyal ağlarda kullanıcı içerikleri gibi farklı bağlamlarda dönüşüme neden olması</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353266,
@@ -28,8 +27,7 @@
         "D": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Otomatik renk dengeleme</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Beyaz dengesi</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353268,
@@ -44,8 +42,7 @@
         "D": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>TouchRetouch Iphone</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Trash</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353269,
@@ -60,8 +57,7 @@
         "D": "<div class=\"page\" title=\"Page 8\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Cep telefonu fotoğrafçılığı</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 8\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Moda fotoğrafçılığı</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353270,
@@ -76,8 +72,7 @@
         "D": "<div class=\"page\" title=\"Page 16\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sokak Fotoğrafçılığı</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 21\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Gezi Fotoğrafçılığı</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353271,
@@ -92,8 +87,7 @@
         "D": "<div class=\"page\" title=\"Page 18\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Sokak Fotoğrafçılığı</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 18\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Gezi Fotoğrafçılığı</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353272,
@@ -108,8 +102,7 @@
         "D": "<div class=\"page\" title=\"Page 28\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Endüstriyel Fotoğraf</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 19\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Belgesel Fotoğrafçılık</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353273,
@@ -124,8 +117,7 @@
         "D": "<div class=\"page\" title=\"Page 29\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Ortofoto</p> </div> </div> </div> </div>",
         "E": "<p>360 derece</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353274,
@@ -140,8 +132,7 @@
         "D": "<p>Yüksek kaliteli fotoğraf çekilebilmesi</p>",
         "E": "<p>Teknik olarak fotoğraf çekimini kolaylaştırması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353275,
@@ -156,8 +147,7 @@
         "D": "<p>Sanyo SCP-5300</p>",
         "E": "<p>Canon 10D</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353276,
@@ -172,8 +162,7 @@
         "D": "<p>Yöndeşme</p>",
         "E": "<p>Reprodüksiyon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353278,
@@ -188,8 +177,7 @@
         "D": "<p>En yüksek çözünürlükte</p>",
         "E": "<p>JPG formatında</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353281,
@@ -204,8 +192,7 @@
         "D": "<p>FilmoraGo</p>",
         "E": "<p>Trash</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353282,
@@ -220,8 +207,7 @@
         "D": "<p>Instagram</p>",
         "E": "<p>Flickr</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353284,
@@ -236,8 +222,7 @@
         "D": "<p>Çok sayıda kareden doğru fotoğrafı seçebilmek</p>",
         "E": "<p>Kullanımının analog makinelerden zor olması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353285,
@@ -252,8 +237,7 @@
         "D": "<p>Kyocera VP-210</p>",
         "E": "<p>Sanyo SCP-5300</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353286,
@@ -268,8 +252,7 @@
         "D": "<p>2006 yılında kameralı telefonlar hem dijital hem de film kamera satışlarını geride bırakmıştır.</p>",
         "E": "<p>Android ve iOS günümüzde dünya akıllı tele­fon pazarına liderlik etmektedir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353290,
@@ -284,8 +267,7 @@
         "D": "<p>Switcher</p>",
         "E": "<p>FilmoraGo</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353291,
@@ -300,8 +282,7 @@
         "D": "<p>Tablet</p>",
         "E": "<p>Ipad</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353292,
@@ -316,8 +297,7 @@
         "D": "<p>Still life fotoğraf</p>",
         "E": "<p>Reprodüksiyon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353265,
@@ -332,8 +312,7 @@
         "D": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>RAW formatında çekim yapmak</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Foğraftaki bir nesneyi yakınlaştırmak veya bir noktaya odaklamak</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353267,
@@ -348,8 +327,7 @@
         "D": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>FilmoraGo</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Prisma</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353287,
@@ -364,8 +342,7 @@
         "D": "<p>Görüntü işlemcisi</p>",
         "E": "<p>Harici filtre</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353288,
@@ -380,8 +357,7 @@
         "D": "<p>Dijital yakınlaştırmanın gürültüye neden olma­ması</p>",
         "E": "<p>Sensörlerinin büyük olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353289,
@@ -396,8 +372,7 @@
         "D": "<p>Analog görüntü işleme teknikleri yüksek dina­mik aralık özelliğine sahiptir.</p>",
         "E": "<p>Analog görüntü işleme, bilgisayar algoritmaları yardımıyla görüntüleri işlemek için kullanılır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353293,
@@ -412,8 +387,7 @@
         "D": "<p>David Seymour</p>",
         "E": "<p>Ara Güler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353280,
@@ -428,8 +402,7 @@
         "D": "<p>Trash uygulaması, videonuzu kesintisiz içeriğe dönüştürür.</p>",
         "E": "<p>FilmoraGo, videolarınız YouTube ve Instagram’a yüklemek için düzenlemenize yardımcı olur.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353283,
@@ -444,8 +417,7 @@
         "D": "<p>Makro fotoğraf</p>",
         "E": "<p>Still life</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353277,
@@ -460,8 +432,7 @@
         "D": "<p>I-II-IV-III</p>",
         "E": "<p>II-IV-III-I</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353279,
@@ -476,7 +447,6 @@
         "D": "<p>Dosya boyutunu</p>",
         "E": "<p>Enstantane değerini</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     }
 ]

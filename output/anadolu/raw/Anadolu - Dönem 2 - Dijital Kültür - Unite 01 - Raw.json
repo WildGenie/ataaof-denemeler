@@ -12,8 +12,7 @@
         "D": "<p>Facebook</p>",
         "E": "<p>TikTok</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769010,
@@ -28,8 +27,7 @@
         "D": "<p>Adorno</p>",
         "E": "<p>Habermas</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769011,
@@ -44,8 +42,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769177,
@@ -60,8 +57,7 @@
         "D": "<p>Bireylerlerin teknolojinin kullanım amacını gözetmeksizin teknolojinin sağladığı olanakları kullanarak dijital medya ve kültürlerle etkileşime geçmesi</p>",
         "E": "<p>Teknolojinin ortaya çıkardığı sanal topluluklar ile yepyeni ve daha<br />demokratik ve katılımcı bir toplum ortaya çıkacağı inancı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769179,
@@ -76,8 +72,7 @@
         "D": "<p>Henry Jenkins</p>",
         "E": "<p>Thomas Kuhn</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769183,
@@ -92,8 +87,7 @@
         "D": "<p>Sosyal eşitzsizliklerin yeniden yaratılması</p>",
         "E": "<p>Büyük verinin kullanıcı davranışlarını anlamlandırması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769211,
@@ -108,8 +102,7 @@
         "D": "<p>Dijital sosyallik</p> ",
         "E": "<p>Teknolojik materyalizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769212,
@@ -124,8 +117,7 @@
         "D": "<p>Teknolojik materyalizm</p> ",
         "E": "<p>Kamusal alan teorisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769213,
@@ -140,8 +132,7 @@
         "D": "<p>Sosyal konstrüktivizm</p>",
         "E": "<p>Teknolojik determinizm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769214,
@@ -156,8 +147,7 @@
         "D": "<p>Algoritmik düzen</p> ",
         "E": "<p>Dijital kültür</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769216,
@@ -172,8 +162,7 @@
         "D": "<p>Blokzincir</p> ",
         "E": "<p>Mikroblog</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769217,
@@ -188,8 +177,7 @@
         "D": "<p>Netflix</p> ",
         "E": "<p>Game.tv</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769218,
@@ -204,8 +192,7 @@
         "D": "<p>Oyun</p> ",
         "E": "<p>Haber</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769219,
@@ -220,8 +207,7 @@
         "D": "<p>Vatandaş haberciliği ortaya çıktı</p> ",
         "E": "<p>Basılı medya güçlendi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769220,
@@ -236,8 +222,7 @@
         "D": "<p>Nefret söylemi</p>",
         "E": "<p>Kadın hakimiyeti</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769271,
@@ -252,8 +237,7 @@
         "D": "<p>Yeni Medya</p>",
         "E": "<p>Teknolojik Materyalizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769275,
@@ -268,8 +252,7 @@
         "D": "<p>Standartlaşmış kültürel ürünler ortaya çıkması</p>",
         "E": "<p>Medya ve popüler kültürün 20. yüzyıl kapitalizminin aracı olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769281,
@@ -284,8 +267,7 @@
         "D": "<p>Ağlar, internet, sosyal medya gibi veri kaynaklarından beslenmesi</p>",
         "E": "<p>Kullanıcıya yazılımı kullanma, kopyalama, dağıtma hakkı tanıması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769285,
@@ -300,8 +282,7 @@
         "D": "<p>Lether</p>",
         "E": "<p>Cardano</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769293,
@@ -316,8 +297,7 @@
         "D": "<p>TikTok</p>",
         "E": "<p>You-Tube</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769004,
@@ -332,8 +312,7 @@
         "D": "<p>Kamusal alan teorisi</p>",
         "E": "<p>Konstruktivizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769005,
@@ -348,8 +327,7 @@
         "D": "<p>Mikroblogging</p>",
         "E": "<p>Büyük veri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769007,
@@ -364,8 +342,7 @@
         "D": "<p>Sosyal konstrüktivizm</p>",
         "E": "<p>Teknolojik olanaklar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769008,
@@ -380,8 +357,7 @@
         "D": "<p>Papacharissi</p>",
         "E": "<p>Habermas</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769012,
@@ -396,8 +372,7 @@
         "D": "<p>Hactivizm</p>",
         "E": "<p>Aktivizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769178,
@@ -412,8 +387,7 @@
         "D": "<p>Teknolojik Determinizm</p>",
         "E": "<p>Dijital kültür</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769186,
@@ -428,8 +402,7 @@
         "D": "<p>Algoritmik Düzen</p>",
         "E": "<p>Blokzinciri teknolojisi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769187,
@@ -444,8 +417,7 @@
         "D": "<p>Ana Akım Siyaset</p>",
         "E": "<p>Dijitale özgün işler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769272,
@@ -460,8 +432,7 @@
         "D": "<p>1965</p>",
         "E": "<p>1970</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769288,
@@ -476,8 +447,7 @@
         "D": "<p>Siyasi Katılım</p>",
         "E": "<p>Algoritmik Düzen</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769006,
@@ -492,8 +462,7 @@
         "D": "<p>Dijital topluluklar</p>",
         "E": "<p>Dijital satış</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769009,
@@ -508,8 +477,7 @@
         "D": "<p>Kültürel incelemeler</p>",
         "E": "<p>Yapay zeka</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769175,
@@ -524,8 +492,7 @@
         "D": "<p>Oyunlaştırma</p>",
         "E": "<p>Dijital dönüşüm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769176,
@@ -540,8 +507,7 @@
         "D": "<p>Transmedya</p>",
         "E": "<p>Oyunlaştırma</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769215,
@@ -556,8 +522,7 @@
         "D": "<p>İnternetteki tehlikeler ve casusluk tespiti</p>",
         "E": "<p>Gazetecilik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769181,
@@ -572,8 +537,7 @@
         "D": "<p>Medyanın ticarileşmesi</p>",
         "E": "<p>Medyanın özgürleşmiş bir alan olmadığı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769294,
@@ -588,8 +552,7 @@
         "D": "<p>Espor takımlarının ve liglerinin kurulmasını sağlaması</p>",
         "E": "<p>Verinin bloklar hâlinde art arda dijital olarak kaydedilmesini sağlaması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769185,
@@ -604,8 +567,7 @@
         "D": "<p>Sosyal eşitsizlik</p>",
         "E": "<p>Kapitalizme maruz kalma</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769274,
@@ -620,8 +582,7 @@
         "D": "<p>Habermas ve Kuhn</p>",
         "E": "<p>Adorno ve Habermas</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769273,
@@ -636,7 +597,6 @@
         "D": "<p>Marshall McLuhan</p>",
         "E": "<p>Thomas Kuhn</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     }
 ]

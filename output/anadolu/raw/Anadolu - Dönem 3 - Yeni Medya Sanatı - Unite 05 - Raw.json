@@ -12,8 +12,7 @@
         "D": "<p>I. ve II. Yanlış </p>",
         "E": "<p>II. ve III. Yanlış </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641360,
@@ -28,8 +27,7 @@
         "D": "<p>Sanal medya </p>",
         "E": "<p>Yeni medya </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641362,
@@ -44,8 +42,7 @@
         "D": "<p>Edmund Berkeley </p>",
         "E": "<p>John McCarthy</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641364,
@@ -60,8 +57,7 @@
         "D": "<p>Sohbet edebilmek </p>",
         "E": "<p>Film yapabilmek </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641365,
@@ -76,8 +72,7 @@
         "D": "<p>Kubism </p>",
         "E": "<p>Realizm </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641368,
@@ -92,8 +87,7 @@
         "D": "<p>Dijital oyun </p>",
         "E": "<p>Sanal sosyal evren </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641650,
@@ -108,8 +102,7 @@
         "D": "<p>Kronolojik.</p> ",
         "E": "<p>Glitch.</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641651,
@@ -124,8 +117,7 @@
         "D": "<p>Raul Zaritsky.</p> ",
         "E": "<p>Michael Betancourt.</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641652,
@@ -140,8 +132,7 @@
         "D": "<p>PSD.</p> ",
         "E": "<p>TIFF.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641737,
@@ -156,8 +147,7 @@
         "D": "<p>Phase IV</p>",
         "E": "<p>Alien</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641738,
@@ -172,8 +162,7 @@
         "D": "<p>Elektronik kompozisyon</p>",
         "E": "<p>Üretken metin</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641741,
@@ -188,8 +177,7 @@
         "D": "<p>Edwin Morgan</p>",
         "E": "<p>Nicolas Schöffer</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641742,
@@ -204,8 +192,7 @@
         "D": "<p>Digital Circuit </p>",
         "E": "<p>Flip-flops</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641744,
@@ -220,8 +207,7 @@
         "D": "<p>Raster Grafik</p>",
         "E": "<p>SIB</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641745,
@@ -236,8 +222,7 @@
         "D": "<p>Cetus</p>",
         "E": "<p>Ten Cubed</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641748,
@@ -252,8 +237,7 @@
         "D": "<p>Allan Banford</p>",
         "E": "<p>Kent Sheely</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641859,
@@ -268,8 +252,7 @@
         "D": "<p>1973, Harold Cohen</p>",
         "E": "<p>1983, Simon Colton</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641860,
@@ -284,8 +267,7 @@
         "D": "<p>Deep Dream</p>",
         "E": "<p>HAL</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641861,
@@ -300,8 +282,7 @@
         "D": "<p>Elektronik edebiyat</p>",
         "E": "<p>Mekanik Öğrenme edebiyatı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641865,
@@ -316,8 +297,7 @@
         "D": "<p>TIFF</p>",
         "E": "<p>PSD</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641646,
@@ -332,8 +312,7 @@
         "D": "<p>1980-1990.</p> ",
         "E": "<p>1990-2000.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641647,
@@ -348,8 +327,7 @@
         "D": "<p>Edwin Morgan.</p>",
         "E": "<p>Theo Lutz.</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641649,
@@ -364,8 +342,7 @@
         "D": "<p>Shinrin Yoku.</p>",
         "E": "<p>Danshari.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641739,
@@ -380,8 +357,7 @@
         "D": "<p>70 Satırlık bilgisayar yapımı bir şiirdir</p>",
         "E": "<p>Franz Kafka'nın Das Schloss adlı romanından metinler kullanılmıştır</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641740,
@@ -396,8 +372,7 @@
         "D": "<p>Cambridge University Press</p>",
         "E": "<p>Boosey&Hawkin Co.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641743,
@@ -412,8 +387,7 @@
         "D": "<p>Yanlış Kayıt <em>(Misregistration)</em></p>",
         "E": "<p>Bozulma <em>(Distortion)</em></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641862,
@@ -428,8 +402,7 @@
         "D": "<p>Martin Minsky</p>",
         "E": "<p>Theo Lutz</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641867,
@@ -444,8 +417,7 @@
         "D": "<p>R.J. Rushmore</p>",
         "E": "<p>Neal Stephenson</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641361,
@@ -460,8 +432,7 @@
         "D": "<p>John McCarthy</p>",
         "E": "<p>Martin Minsky </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641366,
@@ -476,8 +447,7 @@
         "D": "<p>Samimiyet </p>",
         "E": "<p>Sadelik </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641653,
@@ -492,8 +462,7 @@
         "D": "<p>Alison Yang.</p>",
         "E": "<p>Alan Kwan.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641654,
@@ -508,8 +477,7 @@
         "D": "<p>Occupy White Walls.</p> ",
         "E": "<p>Minecraft.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641746,
@@ -524,8 +492,7 @@
         "D": "<p>Cetus</p>",
         "E": "<p>Taurus</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641747,
@@ -540,8 +507,7 @@
         "D": "<p>Cryptography</p>",
         "E": "<p>Artiverse</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641749,
@@ -556,8 +522,7 @@
         "D": "<p>Görüntü sekansına distortion eklenmesi</p>",
         "E": "<p>GIF formatındaki bir dosyayı Bitmap'e çevrilmesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641864,
@@ -572,8 +537,7 @@
         "D": "<p>Yanlış Kayıt</p>",
         "E": "<p>Donanım Hatası</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641866,
@@ -588,8 +552,7 @@
         "D": "<p>Roger Von Biersborn</p>",
         "E": "<p>R.J. Rushmore</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641645,
@@ -604,8 +567,7 @@
         "D": "<p>Dan Sandin,</p>",
         "E": "<p>Myron Krueger</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641863,
@@ -620,8 +582,7 @@
         "D": "<p>Deep Dream</p>",
         "E": "<p>Wabi-sabi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641363,
@@ -636,8 +597,7 @@
         "D": "<p>Manchester</p>",
         "E": "<p>San Diego</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641367,
@@ -652,8 +612,7 @@
         "D": "<p>Sanatçı </p>",
         "E": "<p>Figür </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641648,
@@ -668,8 +627,7 @@
         "D": "<p>Prosedürel.</p> ",
         "E": "<p>Histogram.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641858,
@@ -684,7 +642,6 @@
         "D": "<p>Martin Minsky</p>",
         "E": "<p>Simon Colton</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     }
 ]

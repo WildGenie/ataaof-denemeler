@@ -12,8 +12,7 @@
         "D": "<p>Olumlu izlenim bırakan bir isim seçmek</p>",
         "E": "<p>Markanın temel mesajını yansıtmak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862144,
@@ -28,8 +27,7 @@
         "D": "<p>Soğuk renkler daha uyarıcı etkilere sahiptir.</p>",
         "E": "<p>Yüksek fiyatlı ürünler satan bir mağaza için soğuk renklerin seçilmesi müşterilerde oluşabilecek rahatsızlığı önlemek için doğru bir tercihtir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862146,
@@ -44,8 +42,7 @@
         "D": "<p>gri: mistizm</p>",
         "E": "<p>pembe: nezaket</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862149,
@@ -60,8 +57,7 @@
         "D": "<p>markanın iletmek istediği mesajı aktaramamak</p>",
         "E": "<p>markanın vizyonunu önemsemek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862150,
@@ -76,8 +72,7 @@
         "D": "<p>markanın amacını yansıtma</p>",
         "E": "<p>sade ve anlaşılır olma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862162,
@@ -92,8 +87,7 @@
         "D": "<p>Tipografi,yaratıcı ve stratejik düşünceyi bir araya getirmektir.</p>",
         "E": "<p>Tipografi, metinsel düzenlemenin tümüdür.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862163,
@@ -108,8 +102,7 @@
         "D": "<p>Logonun Ortaya Çıkışı</p>",
         "E": "<p>Promosyon Ürünleri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862184,
@@ -124,8 +117,7 @@
         "D": "<p>Renk Seçimine</p>",
         "E": "<p>Font Kullanımı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862190,
@@ -140,8 +132,7 @@
         "D": "<p>Tasarım mümkün olduğunca basit ve sade olmalıdır. </p>",
         "E": "<p>Karmaşık detaylar, kaşenin büyük boyutlarda bulanık bir şekilde görünmesini engelleyebilir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862192,
@@ -156,8 +147,7 @@
         "D": "<p>Bagaj Etiketleri</p>",
         "E": "<p>Web Banner </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862193,
@@ -172,8 +162,7 @@
         "D": "<p>Üniforma ve ceket</p>",
         "E": "<p>Hırka</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862195,
@@ -188,8 +177,7 @@
         "D": "II-IV",
         "E": "I-II-III-IV",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862196,
@@ -204,8 +192,7 @@
         "D": "Onay aşaması",
         "E": "Revizyon aşaması",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862197,
@@ -220,8 +207,7 @@
         "D": "Hedef kitlenin sosyoekonomik statüsü",
         "E": "Hedef kitle beklentileri",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862198,
@@ -236,8 +222,7 @@
         "D": "Sarı",
         "E": "Mor",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862199,
@@ -252,8 +237,7 @@
         "D": "IV-V",
         "E": "I-V",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862200,
@@ -268,8 +252,7 @@
         "D": "Sade ve anlaşılır şekilde olmalı",
         "E": "Farklı boyutlarda ve platformlarda etkili olmalı",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862201,
@@ -284,8 +267,7 @@
         "D": "Trafik güvenliği standartlarına dikkat edilmeli",
         "E": "Font büyüklüğüne dikkat edilmeli",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862202,
@@ -300,8 +282,7 @@
         "D": "Örümcek stant",
         "E": "Durak afişi",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862203,
@@ -316,8 +297,7 @@
         "D": "Bir etkinliği duyurmayı amaçlar.",
         "E": "Belirli bir eylemi gerçekleştirmeye teşvik eder.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862141,
@@ -332,8 +312,7 @@
         "D": "<p>marka algısı</p>",
         "E": "<p> revizyon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862145,
@@ -348,8 +327,7 @@
         "D": "<p>beyaz: canlılık</p>",
         "E": "<p>pembe: şiddet</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862148,
@@ -364,8 +342,7 @@
         "D": "<p>geleneksel</p>",
         "E": "<p>saygın</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862161,
@@ -380,8 +357,7 @@
         "D": "<p>Değişken Görsel Bileşenlerin Tasarımı</p>",
         "E": "<p>Marka Oluşturma Süreç Analizi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862175,
@@ -396,8 +372,7 @@
         "D": "<p>Dosyalar ve Klasörler</p>",
         "E": "<p>Sosyal Medya Kiti</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862194,
@@ -412,8 +387,7 @@
         "D": "Antetli kağıt",
         "E": "Grup üyeliği",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862143,
@@ -428,8 +402,7 @@
         "D": "<p>İsmin kolayca telaffuz edilebilir olmasına dikkat etmek</p>",
         "E": "<p>İsmin insanlarla duygusal bağ oluşturmasına önem vermek</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862147,
@@ -444,8 +417,7 @@
         "D": "<p>paragraf arası boşluk</p>",
         "E": "<p>sütun genişliği</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862189,
@@ -460,8 +432,7 @@
         "D": "<p>Kağıt belgeleri, dosyaları veya diğer materyalleri düzenlemek, saklamak ve taşımak için kullanılan, genellikle karton veya plastikten yapılmış bir tür kapalı saklama birimidir.</p>",
         "E": "<p>Kurum ya da kurum çalışanının iletişim bilgilerini içeren belirli boyutlarda ve farklı biçimsel özelliklere sahip kartlardır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862191,
@@ -476,7 +447,6 @@
         "D": "<p>Promosyon Ürünleri</p>",
         "E": "<p>Renklerin Farklı Renk Evrenlerindeki Karşılıkları </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     }
 ]

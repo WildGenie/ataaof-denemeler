@@ -12,8 +12,7 @@
         "D": "<p>İsviçre Tipografisi</p>",
         "E": "<p>Fütürist Tipografi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769632,
@@ -28,8 +27,7 @@
         "D": "<p>Fotodizgi sonrası bilgisayarın keşfi ile başlamıştır</p>",
         "E": "<p>Yeni Tipografi hareketi sonucu başlamıştır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769634,
@@ -44,8 +42,7 @@
         "D": "<p>Sayısal tipografinin nasıl şekillendirildiğinin ilk örneklerinin yayınlanmasıdır</p>",
         "E": "<p>Dergide kullanılan yazı karaktelerine talep yoğunluğunun olması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769636,
@@ -60,8 +57,7 @@
         "D": "<p>Gail Anderson</p>",
         "E": "<p>Jann Wenner</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769638,
@@ -76,8 +72,7 @@
         "D": "<p>Fuse dergisi</p>",
         "E": "<p>Eye dergisi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769752,
@@ -92,8 +87,7 @@
         "D": "<p>Toplumla</p>",
         "E": "<p>Sanatla</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769753,
@@ -108,8 +102,7 @@
         "D": "<p>Bilgisayar teknolojileri</p>",
         "E": "<p>Masaüstü yayıncılık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769755,
@@ -124,8 +117,7 @@
         "D": "<p>Google</p>",
         "E": "<p>Metafont</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769756,
@@ -140,8 +132,7 @@
         "D": "<p>Sans serif fontlar</p>",
         "E": "<p>Serif fontlar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769758,
@@ -156,8 +147,7 @@
         "D": "<p>Bir fotoğraftan</p>",
         "E": "<p>Tarihi bir olaydan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769759,
@@ -172,8 +162,7 @@
         "D": "<p>Zuzana Licko</p>",
         "E": "<p>Rudy Vanderlands</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769836,
@@ -188,8 +177,7 @@
         "D": "<p>Radyo</p>",
         "E": "<p>Bilgisayar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769840,
@@ -204,8 +192,7 @@
         "D": "<p>TrueType  font</p> ",
         "E": "<p>Postscript font</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769841,
@@ -220,8 +207,7 @@
         "D": "<p> TEX</p> ",
         "E": "<p>Opentype</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769842,
@@ -236,8 +222,7 @@
         "D": "<p>Emigre</p>   ",
         "E": "<p>Enigma</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769845,
@@ -252,8 +237,7 @@
         "D": "<p>Fudoni</p> ",
         "E": "<p>Priori</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769856,
@@ -268,8 +252,7 @@
         "D": "<p>Optik</p>",
         "E": "<p>Fotomekanik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769857,
@@ -284,8 +267,7 @@
         "D": "<p>Yazıcı isimleri</p>",
         "E": "<p>Bilgisayar modelleri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769860,
@@ -300,8 +282,7 @@
         "D": "<div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Rolling Stone</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Emigre</p> </div> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769865,
@@ -316,8 +297,7 @@
         "D": "<div class=\"page\" title=\"Page 20\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Çağdaş sanat sergisi</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 20\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Amerika  doğumlu tasarımcı ve yazar</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769635,
@@ -332,8 +312,7 @@
         "D": "<p>Vendetta fontu</p>",
         "E": "<p>Baskerville fontu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769639,
@@ -348,8 +327,7 @@
         "D": "<p>Futura + Bodoni</p>",
         "E": "<p>Futura + Calibri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769640,
@@ -364,8 +342,7 @@
         "D": "<p>David Berlow</p>",
         "E": "<p>Eric Van Blokland</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769754,
@@ -380,8 +357,7 @@
         "D": "<p>Metal formlu yazılar</p>",
         "E": "<p>Fotomekanik yöntemler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769760,
@@ -396,8 +372,7 @@
         "D": "<p>Arial</p>",
         "E": "<p>FF Rosetta</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769761,
@@ -412,8 +387,7 @@
         "D": "<p>Jonathan Barnbrook</p>",
         "E": "<p>Eric Van Blokland</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769838,
@@ -428,8 +402,7 @@
         "D": "<p>TEX</p>  ",
         "E": "<p>APP</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769839,
@@ -444,8 +417,7 @@
         "D": "<p>Jawa</p>",
         "E": "<p>TGA</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769858,
@@ -460,8 +432,7 @@
         "D": "<div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Rudy Vanderlands</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Milton Glaser</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769862,
@@ -476,8 +447,7 @@
         "D": "<div class=\"page\" title=\"Page 16\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>United Designers</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 16\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Edenspiekermann</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769633,
@@ -492,8 +462,7 @@
         "D": "<p>Sayfa düzenleme programıdır</p>",
         "E": "<p>Grafik görüntüleme yöntemidir</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769637,
@@ -508,8 +477,7 @@
         "D": "<p>Fütürist Tipografi anlayışı</p>",
         "E": "<p>Dadaist Tipografi anlayışı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769757,
@@ -524,8 +492,7 @@
         "D": "<p>The Face</p>",
         "E": "<p>Arena</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769837,
@@ -540,8 +507,7 @@
         "D": "<p>Blog yayıncılığı.</p>",
         "E": "<p>Dergi yayıncılığı.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769859,
@@ -556,8 +522,7 @@
         "D": "<p>Masaüstü yayıncılık</p>",
         "E": "<p>Bilgisayar yazılımı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769861,
@@ -572,8 +537,7 @@
         "D": "<p>Vendetta</p>",
         "E": "<div class=\"page\" title=\"Page 10\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Mrs Eaves</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769863,
@@ -588,8 +552,7 @@
         "D": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Conan O’brien</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>David Fricke</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769843,
@@ -604,8 +567,7 @@
         "D": "<p>Eğri Fontlar</p> <p class=\"Default\"> </p>",
         "E": "<p>Karmaşık fontlar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769844,
@@ -620,8 +582,7 @@
         "D": "<p>Futura</p> ",
         "E": "<p>Calibra</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769864,
@@ -636,7 +597,6 @@
         "D": "<p>FF Network</p>",
         "E": "<p>Fudoni</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

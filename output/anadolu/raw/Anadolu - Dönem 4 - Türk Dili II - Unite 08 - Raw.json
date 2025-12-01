@@ -12,8 +12,7 @@
         "D": "<p>I-II-III-IV</p>",
         "E": "<p>III-IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257679,
@@ -28,8 +27,7 @@
         "D": "<p>II-III-IV</p>",
         "E": "<p>I-III-IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257685,
@@ -44,8 +42,7 @@
         "D": "<p>I-II-III-IV</p>",
         "E": "<p>II-III-IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257770,
@@ -60,8 +57,7 @@
         "D": "<p>Vurgu</p>",
         "E": "<p>Renk</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257775,
@@ -76,8 +72,7 @@
         "D": "<p>açık oturum</p>",
         "E": "<p>panel</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257776,
@@ -92,8 +87,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257805,
@@ -108,8 +102,7 @@
         "D": "<p>Akıcılık</p>",
         "E": "<p>Hoşagiderlik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257806,
@@ -124,8 +117,7 @@
         "D": "<p>Yalnız I, III</p>",
         "E": "<p>I, II, III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257812,
@@ -140,8 +132,7 @@
         "D": "<p>Mürettebatlar</p>",
         "E": "<p>Tadilat</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257835,
@@ -156,8 +147,7 @@
         "D": "<p>Ton</p>",
         "E": "<p>Boğumlanma</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257917,
@@ -172,8 +162,7 @@
         "D": "<p>İlginçlik</p>",
         "E": "<p>Üslup</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257988,
@@ -188,8 +177,7 @@
         "D": "<p>Söylev</p>",
         "E": "<p>Münazara</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258047,
@@ -204,8 +192,7 @@
         "D": "<p>Tını-Renk</p>",
         "E": "<p>Tiz-Pes</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258049,
@@ -220,8 +207,7 @@
         "D": "<p>İlginçlik</p>",
         "E": "<p>İnandırıcılık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258050,
@@ -236,8 +222,7 @@
         "D": "<p>Vurgu</p>",
         "E": "<p>Ezgi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258108,
@@ -252,8 +237,7 @@
         "D": "<p>Aynı vücut hareketlerinin başka kültür ortamlarında sergilenmeleri sırasında aynı tepkileri göremeyebileceği dikkate alınmalı, dolayısıyla konuşma öncesinde dinleyici bu özellikleri ile de tanınmalı.</p>",
         "E": "<p>Konuşmacı, bakımı, giyimi, genel tavırları kısacası görünüşü ile dinleyici üzerinde olumlu bir algı oluşturmalı.</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258115,
@@ -268,8 +252,7 @@
         "D": "<p>Sahip</p> ",
         "E": "<p>Öykü</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258231,
@@ -284,8 +267,7 @@
         "D": "İş görüşmesi",
         "E": "Panel",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258281,
@@ -300,8 +282,7 @@
         "D": "Hoşagiderlik",
         "E": "Tını",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258467,
@@ -316,8 +297,7 @@
         "D": "<p>Açık oturum</p> ",
         "E": " <p>Konferans</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257485,
@@ -332,8 +312,7 @@
         "D": "<p>Ton</p>",
         "E": "<p>Ezgi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257487,
@@ -348,8 +327,7 @@
         "D": "<p>Frekans</p>",
         "E": "<p>Ses</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257496,
@@ -364,8 +342,7 @@
         "D": "<p>Selamlaşma</p>",
         "E": "<p>Açık Oturum</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257503,
@@ -380,8 +357,7 @@
         "D": "<p>gidişat</p>",
         "E": "<p>resmigeçit</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257505,
@@ -396,8 +372,7 @@
         "D": "<p>arabesk</p>",
         "E": "<p>amfi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257773,
@@ -412,8 +387,7 @@
         "D": "<p>ağır üslup</p>",
         "E": "<p>keskin üslup</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257804,
@@ -428,8 +402,7 @@
         "D": "<p>Ezgi</p>",
         "E": "<p>Vurgu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257846,
@@ -444,8 +417,7 @@
         "D": "<p>Gelicem</p>",
         "E": "<p>Geliciğim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257849,
@@ -460,8 +432,7 @@
         "D": "<p>Bağlantı</p>",
         "E": "<p>Kışkırtma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257914,
@@ -476,8 +447,7 @@
         "D": "<p>Yüz yüze anlatım</p>",
         "E": "<p>Doğrudan anlatım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257921,
@@ -492,8 +462,7 @@
         "D": "<p>Yersiz söz/ses</p>",
         "E": "<p>Gayrimeşru söz/ses</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257981,
@@ -508,8 +477,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257983,
@@ -524,8 +492,7 @@
         "D": "<p>Hoşagiderlik</p>",
         "E": "<p>Doğallık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257986,
@@ -540,8 +507,7 @@
         "D": "<p>Delil üslubu</p>",
         "E": "<p>Vaiz üslubu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257989,
@@ -556,8 +522,7 @@
         "D": "<p>Etki yapmak</p>",
         "E": "<p>Katkıda bulunmak</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258113,
@@ -572,8 +537,7 @@
         "D": "<p>Açık oturumlarda amaç, herhangi bir görüşün doğruluğunu ortaya çıkarmaktır.</p> ",
         "E": "<p>Açık oturumlar dinleyici kitlesinin olmadığı ortamlarda düzenlenir.</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257498,
@@ -588,8 +552,7 @@
         "D": "<p>Nutuk</p>",
         "E": "<p>Sempozyum</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257674,
@@ -604,8 +567,7 @@
         "D": "<p>II-III-IV</p>",
         "E": "<p>I-II-III-IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257676,
@@ -620,8 +582,7 @@
         "D": "<p>Sesletim, artikülasyon ve telaffuz</p>",
         "E": "<p>Artikülasyon ve telaffuz</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257681,
@@ -636,8 +597,7 @@
         "D": "<p>konuşmanın dil bilgisini daha yetkin biçimde algılayabilmek</p>",
         "E": "<p>konuşmanın söz dizimsel yapısını daha yetkin biçimde algılayabilmek</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257771,
@@ -652,8 +612,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257777,
@@ -668,8 +627,7 @@
         "D": "<p>Ses ve beden dili uyumu olması.</p>",
         "E": "<p>Farklı ses tonlarında olması.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257844,
@@ -684,8 +642,7 @@
         "D": "<p>Panel</p>",
         "E": "<p>Forum</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258109,
@@ -700,8 +657,7 @@
         "D": "<p>Adres sorma ve söyleme</p> ",
         "E": "<p>Bilimsel bilgi aktarma</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258256,
@@ -716,8 +672,7 @@
         "D": "I, III ve IV",
         "E": "I, II, III, IV",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258257,
@@ -732,8 +687,7 @@
         "D": "Konferans",
         "E": "Forum",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258258,
@@ -748,8 +702,7 @@
         "D": "Sempozyum",
         "E": "Konferans",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258282,
@@ -764,8 +717,7 @@
         "D": "<p>Hissi üslup</p>",
         "E": "<p>Delil üslubu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258463,
@@ -780,8 +732,7 @@
         "D": "<p>Vurgu</p>",
         "E": "<p>Duraklama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257494,
@@ -796,8 +747,7 @@
         "D": "<p>Vücut</p>",
         "E": "<p>Hareket</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257769,
@@ -812,8 +762,7 @@
         "D": "<p>tonlama</p>",
         "E": "<p>vurgu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257774,
@@ -828,8 +777,7 @@
         "D": "<p>jest</p>",
         "E": "<p>tını</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257810,
@@ -844,8 +792,7 @@
         "D": "<p>Panel</p>",
         "E": "<p>Seminer</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257842,
@@ -860,8 +807,7 @@
         "D": "<p>Akıcılık</p>",
         "E": "<p>Hoşagiderlik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257845,
@@ -876,8 +822,7 @@
         "D": "<p>Dinleyiciler ses çıkarmaya başlayınca</p>",
         "E": "<p>İlk yirmi dakikada</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257919,
@@ -892,8 +837,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258044,
@@ -908,8 +852,7 @@
         "D": "<p>Ton</p>",
         "E": "<p>Ezgi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258106,
@@ -924,8 +867,7 @@
         "D": "<p>Ezgi, titreşen, ses veren varlığın titreşim sayısının az ya da çok oluşuna denir.</p>",
         "E": "<p>Tını, bir sesi başka seslerden ayırmamızı sağlayan niteliğe denir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258107,
@@ -940,8 +882,7 @@
         "D": "<p>İşitilebilirlik</p> ",
         "E": "<p>Sıklık</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258464,
@@ -956,8 +897,7 @@
         "D": "<p>Pes</p>",
         "E": "<p>Frekans</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257692,
@@ -972,8 +912,7 @@
         "D": "<p>dahi</p>",
         "E": "<p>aşık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257809,
@@ -988,8 +927,7 @@
         "D": "<p>Panel</p>",
         "E": "<p>Münazara</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257811,
@@ -1004,8 +942,7 @@
         "D": "<p>Anekdotlardan yararlanılmalıdır.</p>",
         "E": "<p>Açılış cümlesi konuya giriş cümlesi olmalıdır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257982,
@@ -1020,8 +957,7 @@
         "D": "<p>Boğumlama</p>",
         "E": "<p>Frekans</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257984,
@@ -1036,8 +972,7 @@
         "D": "<p>Esneklik</p>",
         "E": "<p>İşitilebilirlik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257987,
@@ -1052,8 +987,7 @@
         "D": "<p>Açık Oturum</p>",
         "E": "<p>Kurultay</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258054,
@@ -1068,8 +1002,7 @@
         "D": "<p>Hazırlıksız Konuşmalar</p>",
         "E": "<p>Konferans</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257689,
@@ -1084,8 +1017,7 @@
         "D": "<p>Panel</p>",
         "E": "<p>Kurultay</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257778,
@@ -1100,8 +1032,7 @@
         "D": "<p>hazırlıksız konuşma</p>",
         "E": "<p>beden dili</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257840,
@@ -1116,8 +1047,7 @@
         "D": "<p>Cevaplarda yükselen tonlama olur.</p>",
         "E": "<p>Bağlama ve anlama göre kayıtsız, alaycı, sinirli vb. tonlar bulunur.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257915,
@@ -1132,8 +1062,7 @@
         "D": "<p>Konuşma</p>",
         "E": "<p>İletme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257920,
@@ -1148,8 +1077,7 @@
         "D": "<p>Sempozyum</p>",
         "E": "<p>Şölen</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258052,
@@ -1164,8 +1092,7 @@
         "D": "<p>İlginçlik</p>",
         "E": "<p>Minik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258053,
@@ -1180,8 +1107,7 @@
         "D": "<p>Beden dili</p>",
         "E": "<p>Üslup</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258056,
@@ -1196,8 +1122,7 @@
         "D": "<p>Aferin</p>",
         "E": "<p>Amfi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258111,
@@ -1212,8 +1137,7 @@
         "D": "<p>Nutuk</p> ",
         "E": "<p>Sempozyum</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258465,
@@ -1228,8 +1152,7 @@
         "D": "<p>İnandırıcılık</p> ",
         "E": "<p>Bilgi ve donanım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258466,
@@ -1244,8 +1167,7 @@
         "D": "<p>Ağırlıkla duygulara yer veren</p>",
         "E": "<p>Kitle toplantılarında halkı galeyana getirmek isteyenlerin, halk katiplerinin, inkılapçıların tercih ettiği, bazen çekingen ve azametli bazen birden bire patlayan bağırtan ama genelde ardında coşkunluk saklayan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257683,
@@ -1260,8 +1182,7 @@
         "D": "<p>Boğumlama</p>",
         "E": "<p>Tını</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257918,
@@ -1276,8 +1197,7 @@
         "D": "<p>Yetkin üslup</p>",
         "E": "<p>Vaiz üslubu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257501,
@@ -1292,8 +1212,7 @@
         "D": "<p>Sunumun yirmi dakika sonrasında önemli bilgiler aktarılmalıdır</p>",
         "E": "<p>Sunumun kapanış cümlelerinde önemli mesajlar verilmelidir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257803,
@@ -1308,8 +1227,7 @@
         "D": "<p>Boğumlanma</p>",
         "E": "<p>Durak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257916,
@@ -1324,8 +1242,7 @@
         "D": "<p>Hoşagiderlik</p>",
         "E": "<p>Kaynaştırıcılık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258114,
@@ -1340,8 +1257,7 @@
         "D": "<p>Beden dilinin anlaşılırlığa hizmet edecek şekilde etkin kullanılması</p> ",
         "E": "<p>Anlatılanların sözlü resimlere çevrilerek ifade edilmeye çalışılması</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257847,
@@ -1356,8 +1272,7 @@
         "D": "<p>Yapıt</p>",
         "E": "<p>Kurul</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258110,
@@ -1372,8 +1287,7 @@
         "D": "<p>Görüşme öncesinde taraflar hem birbirleri ile hem de görüşme konusu ile ilgili gerekli bilgileri toplamış, hazırlıklarını yapmış olmalı.</p> ",
         "E": "<p>Görüşmeye katılanlar giyim kuşam, temizlik ve bakım konularında hassas olmalı.</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257687,
@@ -1388,8 +1302,7 @@
         "D": "<p>İnandırıcılık</p>",
         "E": "<p>Güzellik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257691,
@@ -1404,8 +1317,7 @@
         "D": "<p>Forum</p>",
         "E": "<p>Açış konuşması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258016,
@@ -1420,8 +1332,7 @@
         "D": "<p>Boğumlanma</p>",
         "E": "<p>Ezgi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257772,
@@ -1436,8 +1347,7 @@
         "D": "<p>ilginçlik</p>",
         "E": "<p>üslup</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257848,
@@ -1452,8 +1362,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>II ve IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257490,
@@ -1468,8 +1377,7 @@
         "D": "<p>Esneklik</p>",
         "E": "<p>Duruluk</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257808,
@@ -1484,8 +1392,7 @@
         "D": "<p>Durak</p>",
         "E": "<p>Ezgi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257980,
@@ -1500,8 +1407,7 @@
         "D": "<p><span style=\"font-family: verdana; font-size: 13px;\">Karl Brugmann</span></p>",
         "E": "<p><span style=\"font-family: verdana; font-size: 13px;\">Jacob Grimm</span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258026,
@@ -1516,8 +1422,7 @@
         "D": "<p>Vurgu</p>",
         "E": "<p>Ses</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258112,
@@ -1532,8 +1437,7 @@
         "D": "<p>Konu ile ilgili bilgi almak üzere orada bulunan dinleyiciye yönelik konuşmak</p> ",
         "E": "<p>Belirli bir plan ve yöntem çerçevesinde konuşmak</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257843,
@@ -1548,7 +1452,6 @@
         "D": "<p>Övünme üslubu</p>",
         "E": "<p>Çenebaz üslup</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     }
 ]

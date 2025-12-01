@@ -27,7 +27,7 @@ class AtaPipeline(QuestionPipeline):
         all_questions = {}
 
         # Retry 7 times
-        for i in range(7):
+        for i in range(10):
             try:
                 url = f"{BASE_URL}?dersId={ders_id}&unite={unit}"
                 response = requests.get(url, timeout=30)

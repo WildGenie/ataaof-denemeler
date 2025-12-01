@@ -12,8 +12,7 @@
         "D": "<p>Joseph Nicéphore Niépce</p>",
         "E": "<p>Thomas Wollaston</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858552,
@@ -28,8 +27,7 @@
         "D": "<p>Diz çekim: Dizin hemen altından başın üzerine ve baş boşluğuna kadar olan çerçeve içindeki çekimdir.</p>",
         "E": "<p>Göğüs çekim: Göğsün tamamının baş boşluğu ile beraber görüntü çerçevesi içine dahil edilmesidir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858595,
@@ -44,8 +42,7 @@
         "D": "<p>Kamera</p>",
         "E": "<p>Derinlik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858645,
@@ -60,8 +57,7 @@
         "D": "<p>Çekim </p>",
         "E": "<p>Optik Kaydırma</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858648,
@@ -76,8 +72,7 @@
         "D": "<p>Joseph Nicéphore Niépce</p>",
         "E": "<p>Thomas Wedgwood</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858718,
@@ -92,8 +87,7 @@
         "D": "<p>Görüm</p>",
         "E": "<p>Görme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858725,
@@ -108,8 +102,7 @@
         "D": "<p>Diz çekim</p>",
         "E": "<p>Bel çekim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858727,
@@ -124,8 +117,7 @@
         "D": "<p>Storyboard</p>",
         "E": "<p>Çekim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858849,
@@ -140,8 +132,7 @@
         "D": "<p>Görsel</p>",
         "E": "<p>Görünürlük</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858859,
@@ -156,8 +147,7 @@
         "D": "<p>Diz çekim</p>",
         "E": "<p>Göğüs çekim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858862,
@@ -172,8 +162,7 @@
         "D": "<p>Bindirme</p>",
         "E": "<p>Kesme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858863,
@@ -188,8 +177,7 @@
         "D": "<p>Ölçü</p>",
         "E": "<p>Ton</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859441,
@@ -204,8 +192,7 @@
         "D": "<p>Eadweard Muybridge</p>",
         "E": "<p>Danielo Barbaro</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859443,
@@ -220,8 +207,7 @@
         "D": "<p>Diz çekim</p>",
         "E": "<p>Göğüs çekim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859471,
@@ -236,8 +222,7 @@
         "D": "<p>Derleme</p>",
         "E": "<p>Bindirme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859472,
@@ -252,8 +237,7 @@
         "D": "<p>Birlik</p>",
         "E": "<p>Denge</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859487,
@@ -268,8 +252,7 @@
         "D": "<p>Hepsi</p>",
         "E": "<p>Hiçbiri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859491,
@@ -284,8 +267,7 @@
         "D": "<div class=\"page\" title=\"Page 18\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Derinlik</p> </div> </div> </div> </div>",
         "E": "<p>Sadelik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859496,
@@ -300,8 +282,7 @@
         "D": "<p>Koşan at</p>",
         "E": "<p>Kentte insanlar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859507,
@@ -316,8 +297,7 @@
         "D": "<p>Ton</p>",
         "E": "<p>Çekim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858550,
@@ -332,8 +312,7 @@
         "D": "<p>Joseph Nicéphore Niépce</p>",
         "E": "<p>Thomas Wollaston</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858602,
@@ -348,8 +327,7 @@
         "D": "<p>Altın oran</p>",
         "E": "<p>Çekim boşluğu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858604,
@@ -364,8 +342,7 @@
         "D": "<p>Derinlik</p>",
         "E": "<p>Sadelik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858653,
@@ -380,8 +357,7 @@
         "D": "<p>Silinme</p>",
         "E": "<p>Açılma ve kararma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858654,
@@ -396,8 +372,7 @@
         "D": "<p>Ton</p>",
         "E": "<p>Birlik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858720,
@@ -412,8 +387,7 @@
         "D": "<p>Öznel görüş açısı</p>",
         "E": "<p>Nesnel görüş açısı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858852,
@@ -428,8 +402,7 @@
         "D": "<p>Eadweard Muybridge</p>",
         "E": "<p>Thomas Wollaston</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858855,
@@ -444,8 +417,7 @@
         "D": "<p>Tilt çevrinme</p>",
         "E": "<p>Optik kaydırma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858874,
@@ -460,8 +432,7 @@
         "D": "<p>Carl Wilhelm Scheele</p>",
         "E": "<p>Elizabeth Fulhame</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858882,
@@ -476,8 +447,7 @@
         "D": "<p>Fotoğraf ve kameranın icadına yol açan buluşlardan da biridir.</p>",
         "E": "<p>Bir kutu veya oda ve onun bir yüzüne açılmış delikten ibarettir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859418,
@@ -492,8 +462,7 @@
         "D": "<p>Yukarı-Aşağı Çevrinme</p> ",
         "E": "<p>Pan</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859430,
@@ -508,8 +477,7 @@
         "D": "<p>Hareket boşluğu ayarlama</p> ",
         "E": "<p>Flaş ayarlama</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859444,
@@ -524,8 +492,7 @@
         "D": "<p>Perspektif çalışması</p>",
         "E": "<p>Ölçek</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859458,
@@ -540,8 +507,7 @@
         "D": "<p>Öznel görüş açısı</p>",
         "E": "<p>Nesnel görüş açısı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859483,
@@ -556,8 +522,7 @@
         "D": "<p>Joseph Nicéphore Niépce</p>",
         "E": "<p>Leonardo Da Vinci</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859497,
@@ -572,8 +537,7 @@
         "D": "<p>Konunun büyüklüğü</p>",
         "E": "<p>Konu açısı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859501,
@@ -588,8 +552,7 @@
         "D": "<p>Pan</p>",
         "E": "<p>Silinme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859511,
@@ -604,8 +567,7 @@
         "D": "<p>Thomas Wedgwood</p>",
         "E": "<p>Carl Wilhelm Scheele</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859616,
@@ -620,8 +582,7 @@
         "D": "<p>Joseph Nicéphore Niépce</p>",
         "E": "<p>Carl Wilhelm Scheele</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858597,
@@ -636,8 +597,7 @@
         "D": "<p>Analog Kamera</p>",
         "E": "<p>DSLR</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858646,
@@ -652,8 +612,7 @@
         "D": "<p>Thomas Wedgwood</p>",
         "E": "<p>Eadweard Muybridge</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858722,
@@ -668,8 +627,7 @@
         "D": "<p>Konu açısı</p>",
         "E": "<p>Kameranın büyüklüğü</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859416,
@@ -684,8 +642,7 @@
         "D": "<p>Kamera kendi ekseninde sağa-sola eğildiği takdirde çekilen görüntüler dikey kenarlara göre sağa-sola eğik olarak görünür.</p> ",
         "E": "<p>Kameranın merceğinin görüntüyü filmdeki kişilerden birinin gözüyle görüyormuş gibi kullanıldığı çekim biçimidir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859421,
@@ -700,8 +657,7 @@
         "D": "<p>Denge</p> ",
         "E": "<p>Derinlik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859438,
@@ -716,8 +672,7 @@
         "D": "<p>Kompozisyon</p>",
         "E": "<p>Algı yüzeyi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859457,
@@ -732,8 +687,7 @@
         "D": "<p>Öznel görüş açısı</p>",
         "E": "<p>Konu açışı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859461,
@@ -748,8 +702,7 @@
         "D": "<p>Gerçek görüntü cisme göre düzdür.</p>",
         "E": "<p>Gerçekte bulunmadığı hâlde varmış gibi görünen şey görüntü olarak tanımlanmaktadır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859464,
@@ -764,8 +717,7 @@
         "D": "<p>Gerçek görüntü</p>",
         "E": "<p>Eğik bakış</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859486,
@@ -780,8 +732,7 @@
         "D": "<p>Hiçbiri</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859498,
@@ -796,8 +747,7 @@
         "D": "<p>Ayrıntı çekim</p>",
         "E": "<p>Omuz çekim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859499,
@@ -812,8 +762,7 @@
         "D": "<p>Bakış boşluğu</p>",
         "E": "<p>Göğüs çekim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859504,
@@ -828,8 +777,7 @@
         "D": "<p>Kaydırma</p>",
         "E": "<p>Eğik bakış</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859505,
@@ -844,8 +792,7 @@
         "D": "<p>Kameranın dikey eksende, yukarıdan aşağıya veya aşağıdan yukarıya doğru yaptığı hareketlerdir.</p>",
         "E": "<p>Kamera gövdesi hareket ettirilerek yapılan mekanik harekettir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859615,
@@ -860,8 +807,7 @@
         "D": "<p>Eğik bakış</p>",
         "E": "<p>Konu açısı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858600,
@@ -876,8 +822,7 @@
         "D": "<p>Optik kaydırma</p>",
         "E": "<p>Takip</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858876,
@@ -892,8 +837,7 @@
         "D": "<p>Bindirme</p>",
         "E": "<p>Zincirleme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859414,
@@ -908,8 +852,7 @@
         "D": "<p>I, II, III, IV, V</p> ",
         "E": "<p>I, II, VI, VII, VIII, IX</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859422,
@@ -924,8 +867,7 @@
         "D": "<p>I, II, III, IV, V, VI, VII, VIII</p>",
         "E": "<p>I, III, IV, V, VI, VII, VIII, IX</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859434,
@@ -940,8 +882,7 @@
         "D": "<p class=\"p2\">Açılma</p>",
         "E": "<p>Kararma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859449,
@@ -956,8 +897,7 @@
         "D": "<p class=\"p2\">Yukarı-Aşağı çevrinme</p>",
         "E": "<p class=\"p2\">Yatay çevrinme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859463,
@@ -972,8 +912,7 @@
         "D": "<p>Ton</p>",
         "E": "<p>Sadelik </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859489,
@@ -988,8 +927,7 @@
         "D": "<p>Bakış Boşluğu</p>",
         "E": "<p>Stotyboard</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859492,
@@ -1004,8 +942,7 @@
         "D": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Caravaggio</p> </div> </div> </div> </div>",
         "E": "<p>Frida Kahlo</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859495,
@@ -1020,8 +957,7 @@
         "D": "<p>Sinematografi</p>",
         "E": "<p>Canaletto</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859619,
@@ -1036,8 +972,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>II ve IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858551,
@@ -1052,8 +987,7 @@
         "D": "<p>Alttan Bakış</p>",
         "E": "<p>Eğik bakış</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858598,
@@ -1068,8 +1002,7 @@
         "D": "<p>Nesnel görüş açısı</p>",
         "E": "<p>Özel görüş açısı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858649,
@@ -1084,8 +1017,7 @@
         "D": "<p>Üstten bakış</p>",
         "E": "<p>Alttan bakış</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858650,
@@ -1100,8 +1032,7 @@
         "D": "<p>Konunun büyüklüğü</p>",
         "E": "<p>Baş boşluğu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858853,
@@ -1116,8 +1047,7 @@
         "D": "<p>Üstten bakış</p>",
         "E": "<p>Alttan bakış</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858880,
@@ -1132,8 +1062,7 @@
         "D": "<p>Üstten bakış</p>",
         "E": "<p>Camera lucida</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859419,
@@ -1148,8 +1077,7 @@
         "D": "<p>Tilt</p> ",
         "E": "<p>Pan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859433,
@@ -1164,8 +1092,7 @@
         "D": "<p class=\"p2\">Bindirme</p>",
         "E": "<p class=\"p2\">Silinme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859436,
@@ -1180,8 +1107,7 @@
         "D": "<p class=\"p2\">Carl Wilhelm Scheele</p>",
         "E": "<p class=\"p1\">Joseph Nicéphore Niépce</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859439,
@@ -1196,8 +1122,7 @@
         "D": "<p>Sanat eseri</p>",
         "E": "<p>Perspektif</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859475,
@@ -1212,8 +1137,7 @@
         "D": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Joseph Nicéphore Niépce</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Caravaggio</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859482,
@@ -1228,8 +1152,7 @@
         "D": "<p>Hiçbiri</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859488,
@@ -1244,8 +1167,7 @@
         "D": "<p>Hiçbiri</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859622,
@@ -1260,8 +1182,7 @@
         "D": "<p>II, III, IV ve V</p>",
         "E": "<p>I, II, IV ve V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858549,
@@ -1276,8 +1197,7 @@
         "D": "<p>Thomas Wollaston</p>",
         "E": "<p>Etienne-Jules Marey</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858724,
@@ -1292,8 +1212,7 @@
         "D": "<p>Optik kaydırma</p>",
         "E": "<p>Eğik bakış</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858878,
@@ -1308,8 +1227,7 @@
         "D": "<p>Aşağı-yukarı kaydırma</p>",
         "E": "<p>İleri-geri kaydırma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859431,
@@ -1324,8 +1242,7 @@
         "D": "<p>Bindirme</p>",
         "E": "<p>Silinme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859440,
@@ -1340,8 +1257,7 @@
         "D": "<p>II. ve III. </p>",
         "E": "<p>I. II. ve III.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859454,
@@ -1356,8 +1272,7 @@
         "D": "<p>II. ve III.</p>",
         "E": "<p>Hepsi </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859465,
@@ -1372,8 +1287,7 @@
         "D": "<p>Carl Wilhelm Scheele</p>",
         "E": "<p>Elizabeth Fulhame</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859467,
@@ -1388,8 +1302,7 @@
         "D": "<p>Uçan Pelikan</p>",
         "E": "<p>Narcissus</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859468,
@@ -1404,8 +1317,7 @@
         "D": "<p>Öznel görüş açısı</p>",
         "E": "<p>Nesnel görüş açısı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859506,
@@ -1420,8 +1332,7 @@
         "D": "<p>Bindirme</p>",
         "E": "<p>Silinme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859512,
@@ -1436,8 +1347,7 @@
         "D": "<p>Joseph Nicéphore Niépce</p>",
         "E": "<p>Danielo Barbaro</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858547,
@@ -1452,8 +1362,7 @@
         "D": "<p>Joseph Nicéphore Niépce</p>",
         "E": "<p>Thomas Wollaston</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858599,
@@ -1468,8 +1377,7 @@
         "D": "<p>Nesnel görüş açısı</p>",
         "E": "<p>Eğik bakış</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858875,
@@ -1484,8 +1392,7 @@
         "D": "<p>Nesnel görüş açısı</p>",
         "E": "<p>Eğik bakış</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859425,
@@ -1500,8 +1407,7 @@
         "D": "<p>Bel</p>",
         "E": "<p>Parmak</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859442,
@@ -1516,8 +1422,7 @@
         "D": "<p>Üstten bakış</p>",
         "E": "<p>Alttan bakış</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859455,
@@ -1532,8 +1437,7 @@
         "D": "<p>Thomas Wedgwood</p>",
         "E": "<p>Danielo Barbaro</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859459,
@@ -1548,8 +1452,7 @@
         "D": "<p>Optik kaydırma</p>",
         "E": "<p>Uzak çekim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859460,
@@ -1564,8 +1467,7 @@
         "D": "<p>Sanat ortamında kullanılan bir kompozisyon yöntemidir</p>",
         "E": "<p>Objenin bir kısmının görüntü çerçevesini doldurmasıdır</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859476,
@@ -1580,8 +1482,7 @@
         "D": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Storyboard</p> </div> </div> </div> </div>",
         "E": "<p>Dijital fotoğraf makinesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859479,
@@ -1596,8 +1497,7 @@
         "D": "<div class=\"page\" title=\"Page 15\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kesintisizlik kurgusu</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 15\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Derleme Kurgusu</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859500,
@@ -1612,8 +1512,7 @@
         "D": "<p>&Ccedil;er&ccedil;eveleme</p>",
         "E": "<p>A&ccedil;ılma ve kararma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859509,
@@ -1628,8 +1527,7 @@
         "D": "<p>Yüz çekiminde alın ile çene üstü arasındaki bölümün çekiminin yapılmasıdır.</p>",
         "E": "<p>Objenin bir kısmının görüntü çerçevesini doldurmasıdır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859620,
@@ -1644,8 +1542,7 @@
         "D": "<p>I, II, III ve IV</p>",
         "E": "<p>I, II, III ve V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858553,
@@ -1660,8 +1557,7 @@
         "D": "<p>Silinme</p>",
         "E": "<p>Açılma ve kararma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858652,
@@ -1676,8 +1572,7 @@
         "D": "<p>Yüz çekim</p>",
         "E": "<p>Ayrıntı çekim </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858721,
@@ -1692,8 +1587,7 @@
         "D": "<p>Öznel görüş açısı</p>",
         "E": "<p>Nesnel görüş açısı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858881,
@@ -1708,8 +1602,7 @@
         "D": "<p>Boy çekim</p>",
         "E": "<p>Baş çekim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859423,
@@ -1724,8 +1617,7 @@
         "D": "<p>Leda</p>",
         "E": "<p>Kuğu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859466,
@@ -1740,8 +1632,7 @@
         "D": "<p>Camera obscura</p>",
         "E": "<p>Kamera</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859484,
@@ -1756,8 +1647,7 @@
         "D": "<p>Elizabeth Fulhame</p>",
         "E": "<p>Carl Wilhelm Scheele</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859502,
@@ -1772,8 +1662,7 @@
         "D": "<p>Derinlik</p>",
         "E": "<p>Sadelik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859508,
@@ -1788,8 +1677,7 @@
         "D": "<p>Kamera yüksekliği<br /><br /></p>",
         "E": "<p>Tilt</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859617,
@@ -1804,8 +1692,7 @@
         "D": "<p>5</p>",
         "E": "<p>2</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859428,
@@ -1820,8 +1707,7 @@
         "D": "<p>&Ouml;znel g&ouml;r&uuml;ş a&ccedil;ısı</p>",
         "E": "<p>Nesnel g&ouml;r&uuml;ş a&ccedil;ısı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859429,
@@ -1836,8 +1722,7 @@
         "D": "<p>Optik</p>",
         "E": "<p>Sallama</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859432,
@@ -1852,8 +1737,7 @@
         "D": "<p>Ton</p>",
         "E": "<p>Birlik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859437,
@@ -1868,8 +1752,7 @@
         "D": "<p class=\"p2\">Danielo Barbaro</p>",
         "E": "<p class=\"p2\">Eadweard Muybridge</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859447,
@@ -1884,8 +1767,7 @@
         "D": "<p>Bakış boşluğu</p>",
         "E": "<p>Altın oran</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859448,
@@ -1900,8 +1782,7 @@
         "D": "<p class=\"p2\">Alttan bakış</p>",
         "E": "<p class=\"p2\">Öznel görüş açısı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858548,
@@ -1916,8 +1797,7 @@
         "D": "<p>Came­ra obscura, bir kutu veya oda ve onun bir yüzüne açılmış delikten ibarettir.</p>",
         "E": "<p>Resmin bir kağıt üzerine düşürülerek net renkli fotoğraflar elde edilmesini sağlar.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858723,
@@ -1932,8 +1812,7 @@
         "D": "<p>Yatay çevrinme</p>",
         "E": "<p>Yukarı-Aşağı çevrinme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858861,
@@ -1948,8 +1827,7 @@
         "D": "<p>Storyboard</p>",
         "E": "<p>Taslak</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859469,
@@ -1964,8 +1842,7 @@
         "D": "<p>Optik kaydırma</p>",
         "E": "<p>Kaydırma hareketi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859470,
@@ -1980,8 +1857,7 @@
         "D": "<p>Omuz çekim</p>",
         "E": "<p>Boy çekim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859481,
@@ -1996,8 +1872,7 @@
         "D": "<p>Caravaggio</p>",
         "E": "<p>Rembrant</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858719,
@@ -2012,8 +1887,7 @@
         "D": "<p>Görüntüleme </p>",
         "E": "<p>Derinlik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859420,
@@ -2028,8 +1902,7 @@
         "D": "<p>Kesme</p> ",
         "E": "<p>Açılma ve kararma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859452,
@@ -2044,8 +1917,7 @@
         "D": "<p>Birlik</p>",
         "E": "<p>Derinlik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859462,
@@ -2060,8 +1932,7 @@
         "D": "<p>Sadelik</p>",
         "E": "<p>Kesme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859621,
@@ -2076,8 +1947,7 @@
         "D": "<p>I, II, III ve V</p>",
         "E": "<p>IV ve V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858647,
@@ -2092,8 +1962,7 @@
         "D": "<p>Carl Wilhelm Scheele</p>",
         "E": "<p>Eadweard Muybridge</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858860,
@@ -2108,8 +1977,7 @@
         "D": "<p>Altın oran</p>",
         "E": "<p>Konu açısı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858851,
@@ -2124,8 +1992,7 @@
         "D": "<p>1856</p>",
         "E": "<p>1866</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859413,
@@ -2140,8 +2007,7 @@
         "D": "<p>I, II, III</p> ",
         "E": "<p>I, IV, V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859424,
@@ -2156,8 +2022,7 @@
         "D": "<p>Görünüş</p> ",
         "E": "<p>Görüntü</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859446,
@@ -2172,8 +2037,7 @@
         "D": "<p>Birlik</p>",
         "E": "<p>Ton</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859480,
@@ -2188,8 +2052,7 @@
         "D": "<div class=\"page\" title=\"Page 15\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Bindirme</p> </div> </div> </div> </div>",
         "E": "<p>Kaydırma</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859485,
@@ -2204,8 +2067,7 @@
         "D": "<p>Carl Wilhelm Scheele</p>",
         "E": "<p>Thomas Wedgwood</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859614,
@@ -2220,8 +2082,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>II ve IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858873,
@@ -2236,8 +2097,7 @@
         "D": "<p>Göğüs çekim</p>",
         "E": "<p>Bel çekim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859415,
@@ -2252,8 +2112,7 @@
         "D": "<p>Camera lucida</p> ",
         "E": "<p>Exterior</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859427,
@@ -2268,8 +2127,7 @@
         "D": "<p>Edison Claude Monet</p> ",
         "E": "<p>Gustav Deutsch</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858603,
@@ -2284,8 +2142,7 @@
         "D": "<p>Bindirme</p>",
         "E": "<p>Silinme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859613,
@@ -2300,8 +2157,7 @@
         "D": "<p>Öznel görüş açısı</p>",
         "E": "<p>Nesnel görüş açısı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859618,
@@ -2316,8 +2172,7 @@
         "D": "<p>I, II, III ve V</p>",
         "E": "<p>I, II, III ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858879,
@@ -2332,8 +2187,7 @@
         "D": "<p>İlk hareketli görüntüyü elde etmiştir.</p>",
         "E": "<p>“Hoşgörüsüzlük” adlı filmini 1916’da çekmiştir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859453,
@@ -2348,8 +2202,7 @@
         "D": "<p>Görme</p>",
         "E": "<p>Görünüş</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858596,
@@ -2364,8 +2217,7 @@
         "D": "<p>Net görüntü</p>",
         "E": "<p>Degrade görüntü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859477,
@@ -2380,8 +2232,7 @@
         "D": "<p>I - II - III</p>",
         "E": "<p>III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859417,
@@ -2396,8 +2247,7 @@
         "D": "<p>Öznel görüş açısı</p> ",
         "E": "<p>Derinlemesine görüntü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859451,
@@ -2412,8 +2262,7 @@
         "D": "<p>Çizgiler</p>",
         "E": "<p>Birlik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859493,
@@ -2428,8 +2277,7 @@
         "D": "<p>Rafaello</p>",
         "E": "<p>Caracci</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859510,
@@ -2444,8 +2292,7 @@
         "D": "<p>Göğüs Çekim</p>",
         "E": "<p>Tilt</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859426,
@@ -2460,8 +2307,7 @@
         "D": "<p>Gün doğumu</p> ",
         "E": "<p>Buğday tarlası görünümü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859456,
@@ -2476,8 +2322,7 @@
         "D": "<p>1839</p>",
         "E": "<p>1878</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859478,
@@ -2492,8 +2337,7 @@
         "D": "<div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Optik kaydırma</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Yukarı-Aşağı çevrinme</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859450,
@@ -2508,8 +2352,7 @@
         "D": "<p class=\"p2\">Hareket boşluğu</p>",
         "E": "<p class=\"p2\">Yüz çekim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859490,
@@ -2524,8 +2367,7 @@
         "D": "<p>Hiçbiri</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859503,
@@ -2540,8 +2382,7 @@
         "D": "<p>Üstten bakış</p>",
         "E": "<p>Alttan bakış</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859445,
@@ -2556,8 +2397,7 @@
         "D": "<p>Bindirme</p>",
         "E": "<p>Silinme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859473,
@@ -2572,8 +2412,7 @@
         "D": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Derinlemesine görüntüde çözümleme izleyiciye bırakılır</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Film görüntüsünde üç boyutluluk algısını en iyi verebilen işlemdir</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858554,
@@ -2588,8 +2427,7 @@
         "D": "<p>Charles Chaplin</p>",
         "E": "<p>Martin Scorsese</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858601,
@@ -2604,8 +2442,7 @@
         "D": "<p>Optik kaydırma</p>",
         "E": "<p>Zıplama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858651,
@@ -2620,8 +2457,7 @@
         "D": "<p>Yukarı-Aşağı çevrinme</p>",
         "E": "<p>Optik kaydırma</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858877,
@@ -2636,8 +2472,7 @@
         "D": "<p>Açı</p>",
         "E": "<p>Çerçevelendirme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858726,
@@ -2652,8 +2487,7 @@
         "D": "<p>Hareket boşluğu</p>",
         "E": "<p>Altın oran </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858555,
@@ -2668,7 +2502,51 @@
         "D": "<p>Charles Chaplin</p>",
         "E": "<p>Martin Scorsese</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3859435,
+        "UniteNo": 7,
+        "PageNumber": 214,
+        "AnswerExplanation": "<p class=\"p2\">David Wark Griffith</p>",
+        "Title": "",
+        "Text": "<p class=\"p2\">Sinemanın bu en büyük anlatım özelliğini olan kurguyu sistemli olarak kullanan ilk yönetmen kimdir?</p>",
+        "A": "<p class=\"p2\">Thomas Wedgwood</p>",
+        "B": "<p class=\"p2\">Joseph Nicéphore Niépce</p>",
+        "C": "<p class=\"p1\">Stephen Henry Horgan</p>",
+        "D": "<p class=\"p2\">David Wark Griffith</p>",
+        "E": "<p class=\"p2\">Gustav Deutsch</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3859474,
+        "UniteNo": 7,
+        "PageNumber": 203,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Çekim, kameraman tarafından görüntünün, görüntü çerçevesi içinde kalıcı hâle getirilmesidir. Kameramanın bu çekimleri yapabilmesi için kameranın konumlandırılmış olduğu düzlem de önemlidir. Buna göre cevap B’dir.</p> </div> </div> </div> </div>",
+        "Title": "",
+        "Text": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kameraman tarafından görüntünün, görüntü çerçevesi içinde kalıcı hâle getirilmesi işlemine ne ad verilir?</p> </div> </div> </div> </div>",
+        "A": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Derinlemesine görüntü</p> </div> </div> </div> </div>",
+        "B": "<p>Çekim</p>",
+        "C": "<p>Netlik</p>",
+        "D": "<p>Görüntü</p>",
+        "E": "<p>Gerçek görüntü</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3859494,
+        "UniteNo": 7,
+        "PageNumber": 203,
+        "AnswerExplanation": "<p>Derinlemesine görüntü işlemi çok yakındaki bir objeyle uzaktaki objenin aynı netlikte görülebilmesidir.</p>",
+        "Title": "",
+        "Text": "<p>Çok yakındaki bir objeyle uzaktaki objenin aynı netlikte görülebilmesine ne denir?</p>",
+        "A": "<p>Görüntü</p>",
+        "B": "<p>Derinlemesine görüntü</p>",
+        "C": "<p>Çekim</p>",
+        "D": "<p>Zahiri görüntü</p>",
+        "E": "<p>Mercek yapısı</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
     }
 ]

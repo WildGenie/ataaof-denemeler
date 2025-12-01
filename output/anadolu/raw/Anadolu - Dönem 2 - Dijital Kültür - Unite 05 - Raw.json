@@ -12,8 +12,7 @@
         "D": "<p>Platon</p>",
         "E": "<p>Adorno</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769022,
@@ -28,8 +27,7 @@
         "D": "<p>Veri tabanları ve veri görselleştirme</p>",
         "E": "<p>Sanal gerçeklik </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769118,
@@ -44,8 +42,7 @@
         "D": "<p>Parazit</p>",
         "E": "<p>Piksel</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769119,
@@ -60,8 +57,7 @@
         "D": "<p>Sanatçılara ve genel olarak tüm eser sahiplerine telif lisansı önerir.</p>",
         "E": "<p>Telif hakları alanında esneklik ve paylaşımı yaygınlaştırmayı amaçlar.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769120,
@@ -76,8 +72,7 @@
         "D": "<p>Herhangi bir obje veya nesnenin NFT’sini üretmek veya satmak için telif hakkına sahip olmak gerekmektedir</p>",
         "E": "<p>Telif hakkı olmayan sanat eserleri, kaynak nesnenin mülkiyeti veya sahibinden izin alınmadan NFT üretmek için de kullanılamaz</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769128,
@@ -92,8 +87,7 @@
         "D": "<p>TCP/IP</p>",
         "E": "<p>Darpa</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769136,
@@ -108,8 +102,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769138,
@@ -124,8 +117,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769196,
@@ -140,8 +132,7 @@
         "D": "<p>Dijital teknolojiler, sanatçılara bu teknolojileri eserlerinin konusu yapmaları dışında, onları yaratmak için kullandıkları araç da olmuşlardır.</p>",
         "E": "<p>Görsel sanatlarda gerçekçilik kavramı, sanatçının eserini fiziksel dünyadaki görüntü kadar gerçekçi yapmasını sağlayacak zanaatkarlık üzerinden değerlendirilirken, 1 ve 0’lardan oluşan dijital dünyada durum tamamen aynıdır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769496,
@@ -156,8 +147,7 @@
         "D": "<p>Etkileşimli tiyatro</p>",
         "E": "<p>Üretken metin</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769499,
@@ -172,8 +162,7 @@
         "D": "<p>Arttırılmış gerçeklik</p>",
         "E": "<p>Enstalasyon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769564,
@@ -188,8 +177,7 @@
         "D": "<p>1993.</p>",
         "E": "<p>2003.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769565,
@@ -204,8 +192,7 @@
         "D": "<p>Semantik web</p>",
         "E": "<p>Etiket Bulutu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769569,
@@ -220,8 +207,7 @@
         "D": "<p>Ağdaki veriyi anlamlı ve anlaşılır hale getirir.</p>",
         "E": "<p>NFT’lere benzersiz imza ve sahiplik kazandırır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769572,
@@ -236,8 +222,7 @@
         "D": "<p>Marc Andreessen</p>",
         "E": "<p>Tim Berners-Lee</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769575,
@@ -252,8 +237,7 @@
         "D": "<p>Modern Sanat</p>",
         "E": "<p>Teknolojik sanat</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769578,
@@ -268,8 +252,7 @@
         "D": "<h2>Punk #6965</h2>",
         "E": "<p>Not Forgetten, But Gone</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769579,
@@ -284,8 +267,7 @@
         "D": "<p>İlk NFT’ler dijital sanat örneklerinden oluşmuştur</p>",
         "E": "<p>NFT’ler takas edilemez, değiştirilemezler.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769604,
@@ -300,8 +282,7 @@
         "D": "<p>Alain Turing</p>",
         "E": "<p>Tim Berners-Lee</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769607,
@@ -316,8 +297,7 @@
         "D": "<p>Resim sanatı</p>",
         "E": "<p>Sanal gerçeklik sanatı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769016,
@@ -332,8 +312,7 @@
         "D": "<p>1984</p>",
         "E": "<p>2000</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769114,
@@ -348,8 +327,7 @@
         "D": "<p>DARPA</p>",
         "E": "<p>TCP/IP</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769116,
@@ -364,8 +342,7 @@
         "D": "<p>Web 1.0</p>",
         "E": "<p>Web 3.0</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769121,
@@ -380,8 +357,7 @@
         "D": "<p>NFT</p>",
         "E": "<p>Data wizard</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769122,
@@ -396,8 +372,7 @@
         "D": "<p>Art Blocks platformu, isteğe bağlı üretken sanat eserleri yaratmaktadır.</p>",
         "E": "<p>Geliştirilen algoritmalarla, jeton basıldığında benzersiz parçalar üretilir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769130,
@@ -412,8 +387,7 @@
         "D": "<p>Web 2.0</p>",
         "E": "<p>Web 5.0</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769137,
@@ -428,8 +402,7 @@
         "D": "<p>Hayalcilik ve kuşkulanma</p>",
         "E": "<p>Tasvir ve algı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769195,
@@ -444,8 +417,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769210,
@@ -460,8 +432,7 @@
         "D": "<p>Not fundamental trick</p>",
         "E": "<p>Near Function Treatment</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769494,
@@ -476,8 +447,7 @@
         "D": "<p>Web 3.0</p>",
         "E": "<p>Sanal Gerçeklik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769561,
@@ -492,8 +462,7 @@
         "D": "<p class=\"Default\"><span lang=\"TR\" style=\"font-family: verdana, geneva, sans-serif; color: windowtext;\">Doğadaki haliyle kalmaktır.</span></p> <p class=\"Default\"> </p>",
         "E": "<p><span lang=\"TR\">Maddi ve manevi değerleri kapsar.</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769563,
@@ -508,8 +477,7 @@
         "D": "<p>Router</p>",
         "E": "<p>TCP/IP</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769571,
@@ -524,8 +492,7 @@
         "D": "<p>Ernst Fischer</p>",
         "E": "<p>Bob Kahn</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769573,
@@ -540,8 +507,7 @@
         "D": "<p>Simulasyon çağı</p>",
         "E": "<p>Dijital çağ</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769017,
@@ -556,8 +522,7 @@
         "D": "<p>Castells</p>",
         "E": "<p>Toffler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769018,
@@ -572,8 +537,7 @@
         "D": "<p>Fischer</p>",
         "E": "<p>McLuhan </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769019,
@@ -588,8 +552,7 @@
         "D": "<p>Etkileşimli tiyatro </p>",
         "E": "<p>Etkileşimli kurgu </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769115,
@@ -604,8 +567,7 @@
         "D": "<p>Kitlesizleştirme</p>",
         "E": "<p>Sınırlı dolaşım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769123,
@@ -620,8 +582,7 @@
         "D": "<p>Ses manipülasyonu</p>",
         "E": "<p> Dijital baskı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769491,
@@ -636,8 +597,7 @@
         "D": "<p>Steve Jobs</p> ",
         "E": "<p>John M. Culkin</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769562,
@@ -652,8 +612,7 @@
         "D": "<p>1990-2000.</p>",
         "E": "<p>2000-2010.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769601,
@@ -668,8 +627,7 @@
         "D": "<p>II. Dünya Savaşı sırasında</p> ",
         "E": "<p>2000 yılı başında</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769605,
@@ -684,8 +642,7 @@
         "D": "<p>Web 2.1</p> ",
         "E": "<p>Web 3.0</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769608,
@@ -700,8 +657,7 @@
         "D": "<p>Yapay yaşam</p> ",
         "E": "<p>Aktivizm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769609,
@@ -716,8 +672,7 @@
         "D": "<p>Corel Draw</p>",
         "E": "<p>Processing</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769610,
@@ -732,8 +687,7 @@
         "D": "<p>DALL-E</p> ",
         "E": "<p>NFT</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769020,
@@ -748,8 +702,7 @@
         "D": "<p>Sanal gerçeklik </p>",
         "E": "<p>Ağ sanatı </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769117,
@@ -764,8 +717,7 @@
         "D": "<p>İşaret dili</p>",
         "E": "<p>Müzik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769129,
@@ -780,8 +732,7 @@
         "D": "<p>Kullanıcılar ağa katılırken mutlaka bir isim bildirmek zorundadır. </p>",
         "E": "<p>Bilgisayarlar “binary code” denen bir dilde konuşurlar. </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769492,
@@ -796,8 +747,7 @@
         "D": "<p>NCSA</p>",
         "E": "<p>DARPA</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769500,
@@ -812,8 +762,7 @@
         "D": "<p>DALL-E</p>",
         "E": "<p>NFT</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769568,
@@ -828,8 +777,7 @@
         "D": "<p>Jacques Derrida</p>",
         "E": "<p>Lev Manovich</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769570,
@@ -844,8 +792,7 @@
         "D": "<p>Daniel Bell</p>",
         "E": "<p>Tim Berners-Lee</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769577,
@@ -860,8 +807,7 @@
         "D": "<p> Soyutlama</p>",
         "E": "<p>Görselleştirme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769590,
@@ -876,8 +822,7 @@
         "D": "<p>Ador­no.</p>",
         "E": "<p>Paul Virilio</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769602,
@@ -892,8 +837,7 @@
         "D": "<p>1990-2000 arası</p> ",
         "E": "<p>2000 sonrası</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769021,
@@ -908,8 +852,7 @@
         "D": "<p>Yazılım sanatı </p>",
         "E": "<p>Yapay yaşam </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769209,
@@ -924,8 +867,7 @@
         "D": "<p>İşlem-Algoritma</p>",
         "E": "<p>Yapı-Kurum</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769493,
@@ -940,8 +882,7 @@
         "D": "<p>Tumblr</p>",
         "E": "<p>Instagram</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769497,
@@ -956,8 +897,7 @@
         "D": "<p>Theo Lutz</p>",
         "E": " <p>Walter Benjamin</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769498,
@@ -972,8 +912,7 @@
         "D": "<p>Web tarayıcı</p> ",
         "E": "<p>Yazılım</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769576,
@@ -988,8 +927,7 @@
         "D": "<p>Oyunlar</p>",
         "E": "<p>Sanal Gerçeklik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769495,
@@ -1004,8 +942,7 @@
         "D": "<p>Thedor Adorno</p> ",
         "E": "<p>Walter Benjamin</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769574,
@@ -1020,8 +957,7 @@
         "D": "<p>Siber ortama taşınması</p>",
         "E": "<p>Daha fazla duyuya hitap etmesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769603,
@@ -1036,8 +972,7 @@
         "D": "<p>1960</p> ",
         "E": "<p>1973</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769566,
@@ -1052,8 +987,7 @@
         "D": "<p>Gelen sinyalleri güçlendirerek modeme iletir.</p>",
         "E": "<p>Yazım ve dilbilgisi kurallarına uygunluğu saptar.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769567,
@@ -1068,8 +1002,7 @@
         "D": "<p>Universal Everything</p>",
         "E": "<p>Generative Art</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769606,
@@ -1084,8 +1017,7 @@
         "D": "<p>Elektronik edebiyat</p>",
         "E": "<p>Matematik sanatı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769014,
@@ -1100,8 +1032,7 @@
         "D": "<p>1970'ler</p>",
         "E": "<p>1980'ler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769015,
@@ -1116,7 +1047,6 @@
         "D": "<p>İnfografik</p>",
         "E": "<p>Kültür</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     }
 ]

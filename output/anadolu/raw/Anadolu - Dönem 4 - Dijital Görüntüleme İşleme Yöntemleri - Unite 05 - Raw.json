@@ -12,8 +12,7 @@
         "D": "<p>II-III-IV-V</p>",
         "E": "<p>I-III-IV-V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488805,
@@ -28,8 +27,7 @@
         "D": "<p>Dijital enstalasyon</p>",
         "E": "<p>Dijital restorasyon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488806,
@@ -44,8 +42,7 @@
         "D": "<p>II- III</p>",
         "E": "<p>III-IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488808,
@@ -60,8 +57,7 @@
         "D": "<p>II-IV</p>",
         "E": "<p>II-IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488877,
@@ -76,8 +72,7 @@
         "D": "<p>Seramik sanatı</p>",
         "E": "<p>Sahne sanatı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488882,
@@ -92,8 +87,7 @@
         "D": "<p>CIO</p>",
         "E": "<p>NST</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488885,
@@ -108,8 +102,7 @@
         "D": "<p>Vektör sanatı</p>",
         "E": "<p>Dijital kolaj sanatı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488888,
@@ -124,8 +117,7 @@
         "D": "<p>Haritalama, kubbe, VR, birleştirme ve ortam ışıkları için çok çeşitli projeksiyon formatları için destek sunar</p>",
         "E": "<p>Gerçek zamanlı 3B görselleştirme motoruyla sıkı entegrasyon, projeksiyon kurulumlarının eksiksiz ön görselleştirilmesine olanak tanır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488889,
@@ -140,8 +132,7 @@
         "D": "<p>OpenFrameworks</p>",
         "E": "<p>After Effects</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488937,
@@ -156,8 +147,7 @@
         "D": "<p>Biçimi</p>",
         "E": "<p>Ebatları</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488938,
@@ -172,8 +162,7 @@
         "D": "<p>Sosyal Medya</p>",
         "E": "<p>Generatif Sanat</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488939,
@@ -188,8 +177,7 @@
         "D": "<p>NFT</p>",
         "E": "<p>TİFF</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488940,
@@ -204,8 +192,7 @@
         "D": "<p>Ortam Grafiği</p>",
         "E": "<p>Gramedya</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488943,
@@ -220,8 +207,7 @@
         "D": "<p>Mouse</p>",
         "E": "<p>Raster</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488945,
@@ -236,8 +222,7 @@
         "D": "<p>Multibank</p>",
         "E": "<p>Unisade</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489031,
@@ -252,8 +237,7 @@
         "D": "<p>Pete Harrison</p>",
         "E": "<p>Cristinia Siquiera</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489033,
@@ -268,8 +252,7 @@
         "D": "<p>NFT sanatı</p>",
         "E": "<p>Vektör sanatı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489036,
@@ -284,8 +267,7 @@
         "D": "<p>Grzegorz Doma­radzki</p>",
         "E": "<p>Mike Winkelmann</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489050,
@@ -300,8 +282,7 @@
         "D": "<p>DSLR</p>",
         "E": "<p>Datamoshing</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489054,
@@ -316,8 +297,7 @@
         "D": "<p>Fusion</p>",
         "E": "<p>Nuke</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488807,
@@ -332,8 +312,7 @@
         "D": "<p>Dijital Enstalasyon</p>",
         "E": "<p>Video Haritalama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488809,
@@ -348,8 +327,7 @@
         "D": "<p>I-III-IV</p>",
         "E": "<p>I-II-III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488810,
@@ -364,8 +342,7 @@
         "D": "<p>Görsel efekt</p>",
         "E": "<p>Görüntü sabitleme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488811,
@@ -380,8 +357,7 @@
         "D": "<p>Silk</p>",
         "E": "<p>Arbaro</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488941,
@@ -396,8 +372,7 @@
         "D": "<p>Fikri Tapu</p>",
         "E": "<p>Ekran Boyutu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489034,
@@ -412,8 +387,7 @@
         "D": "<p>Sarah Jarrett</p>",
         "E": "<p>Grzegorz Doma­radzki</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489053,
@@ -428,8 +402,7 @@
         "D": "<p class=\"Default\"><span style=\"font-family: 'Times New Roman',serif;\">I, III ve IV</span></p>",
         "E": "<p>I, II, III ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488802,
@@ -444,8 +417,7 @@
         "D": "<p>Dijital sanat</p>",
         "E": "<p>Yapay zeka sanatı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488804,
@@ -460,8 +432,7 @@
         "D": "<p>III-IV</p>",
         "E": "<p>I-III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488875,
@@ -476,8 +447,7 @@
         "D": "<p>Müzik sanatı</p>",
         "E": "<p>Resim sanatı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488886,
@@ -492,8 +462,7 @@
         "D": "<p>Adobe Illustrator</p>",
         "E": "<p>Adobe Photoshop</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488942,
@@ -508,8 +477,7 @@
         "D": "<p>Kübizm</p>",
         "E": "<p>Sürrealizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488944,
@@ -524,8 +492,7 @@
         "D": "<p>Vektör Design</p>",
         "E": "<p>Kaggle</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488946,
@@ -540,8 +507,7 @@
         "D": "<p>KAGGLE</p>",
         "E": "<p>RASTER</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489047,
@@ -556,8 +522,7 @@
         "D": "<p>After Effect</p>",
         "E": "<p>Houdini</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488878,
@@ -572,8 +537,7 @@
         "D": "<p>Nft</p>",
         "E": "<p>Ecu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488880,
@@ -588,8 +552,7 @@
         "D": "<p>Yardımcı teknik araçlar (Çizim kalemi vs)</p>",
         "E": "<p>Kitap okumak</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488887,
@@ -604,8 +567,7 @@
         "D": "<p>1986</p>",
         "E": "<p>1969</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489032,
@@ -620,8 +582,7 @@
         "D": "<p>Raster sanatı</p>",
         "E": "<p>NFT sanatı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489035,
@@ -636,7 +597,6 @@
         "D": "<p>NFT sanatı</p>",
         "E": "<p>Vektör sanatı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     }
 ]

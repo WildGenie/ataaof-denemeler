@@ -12,8 +12,7 @@
         "D": "<p>yüksek piksel sayısı o kadar kaliteli çözünürlüklü bir görüntüyü tanımlar</p>",
         "E": "<p>çözünürlük değeri arttıkça görüntü alanı küçülür</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488790,
@@ -28,8 +27,7 @@
         "D": "<p>Ton</p>",
         "E": "<p>Kalibrasyon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488791,
@@ -44,8 +42,7 @@
         "D": "<p>PSD</p>",
         "E": "<p>PNG</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488792,
@@ -60,8 +57,7 @@
         "D": "<p>Dijital görüntü</p>",
         "E": "<p>Sinyal</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488795,
@@ -76,8 +72,7 @@
         "D": "<p>ds</p>",
         "E": "<p>fhd</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488796,
@@ -92,8 +87,7 @@
         "D": "<p>1920x1080px</p>",
         "E": "<p>1280x720px</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488798,
@@ -108,8 +102,7 @@
         "D": "<p>BMP</p>",
         "E": "<p>RAW</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488800,
@@ -124,8 +117,7 @@
         "D": "<p>Celal Öztürk</p>",
         "E": "<p>Zehra Gün</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488801,
@@ -140,8 +132,7 @@
         "D": "<p>III, V ve VI</p>",
         "E": "<p><span style=\"font-family: verdana, geneva, sans-serif;\"><span id=\"page376R_mcid1632\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: calc(var(--scale-factor)*308.80px); top: calc(var(--scale-factor)*323.54px); font-size: calc(var(--scale-factor)*10.50px); transform: scaleX(0.971202);\" role=\"presentation\">I, II, III, IV ve V</span></span></span></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489078,
@@ -156,8 +147,7 @@
         "D": "<p>Çıkarımsal renk<br /><br /></p>",
         "E": "<p>Dijital renk</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489079,
@@ -172,8 +162,7 @@
         "D": "<p>Parlaklık, ton, doygunluk<br /><br /></p>",
         "E": "<p>Ton, parlaklık, doygunluk</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489080,
@@ -188,8 +177,7 @@
         "D": "<p>Kalibrasyon<br /><br /></p>",
         "E": "<p>Digital görüntüleme</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489081,
@@ -204,8 +192,7 @@
         "D": "<p>I, II ve III       </p>",
         "E": "<p> I, II ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489082,
@@ -220,8 +207,7 @@
         "D": "<p>Kitap</p>",
         "E": "<p>Çiçek</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489083,
@@ -236,8 +222,7 @@
         "D": "<p>Refik Anadol</p>",
         "E": "<p>Osmose</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489208,
@@ -252,8 +237,7 @@
         "D": "<p>Dijital görüntü, bilgisayar ortamında bir yazılım ya da kodlama ile üretilir.</p>",
         "E": "<p>Dijital görüntü, sayısal olarak ikili sayı sistemine göre kodlandığında 0 beyaz renge karşılık gelir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489230,
@@ -268,8 +252,7 @@
         "D": "<p>Anahtar renk</p>",
         "E": "<p>Doygunluk</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489235,
@@ -284,8 +267,7 @@
         "D": "<p>HTML</p>",
         "E": "<p>Adobe Systems</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489236,
@@ -300,8 +282,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489237,
@@ -316,8 +297,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>I, II, III ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488773,
@@ -332,8 +312,7 @@
         "D": "<p>Renk</p>",
         "E": "<p>Kontras</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488776,
@@ -348,8 +327,7 @@
         "D": "<p>renk</p>",
         "E": "<p>sinyal</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488793,
@@ -364,8 +342,7 @@
         "D": "<p>Dijital görüntü</p>",
         "E": "<p>Piksel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488794,
@@ -380,8 +357,7 @@
         "D": "<p>Çözünürlük</p>",
         "E": "<p>Renk</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488799,
@@ -396,8 +372,7 @@
         "D": "<p>Russell Kirsch'in oğlu</p>",
         "E": "<p><span id=\"page304R_mcid903\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: calc(var(--scale-factor)*106.26px); top: calc(var(--scale-factor)*489.54px); font-size: calc(var(--scale-factor)*8.50px); font-family: sans-serif; transform: scaleX(1.01363);\" role=\"presentation\">Les Horribles Cernette</span></span>s Grubu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489077,
@@ -412,8 +387,7 @@
         "D": "<p> II ve III          </p>",
         "E": "<p> II ve IV</p>  ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489229,
@@ -428,8 +402,7 @@
         "D": "<p>Piksel</p>",
         "E": "<p>Çözünürlük</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489233,
@@ -444,8 +417,7 @@
         "D": "<p>Lillian Schwartz</p>",
         "E": "<p>Char Davies</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489234,
@@ -460,8 +432,7 @@
         "D": "<p>1970'ların başı</p>",
         "E": "<p>1980'ların başı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488772,
@@ -476,8 +447,7 @@
         "D": "<p>Çözünürlük</p>",
         "E": "<p>Dijital Görüntü</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488774,
@@ -492,8 +462,7 @@
         "D": "<p>Sinyal</p>",
         "E": "<p>Renk<br /><br /></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488788,
@@ -508,8 +477,7 @@
         "D": "<p>Yellow</p>",
         "E": "<p>Cyan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488789,
@@ -524,8 +492,7 @@
         "D": "<p>beyaz</p>",
         "E": "<p>Sarı </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488797,
@@ -540,8 +507,7 @@
         "D": "<p><span id=\"page374R_mcid1544\" class=\"markedContent\" style=\"font-family: verdana, geneva, sans-serif; font-size: calc(var(--scale-factor)*10.50px);\"><span dir=\"ltr\" style=\"left: calc(var(--scale-factor)*77.72px); top: calc(var(--scale-factor)*542.30px); transform: scaleX(0.957583);\" role=\"presentation\">Red, Green, Blue</span></span></p>",
         "E": "<p><span id=\"page374R_mcid1543\" class=\"markedContent\" style=\"font-family: verdana, geneva, sans-serif; font-size: calc(var(--scale-factor)*10.50px);\"><span dir=\"ltr\" style=\"left: calc(var(--scale-factor)*77.72px); top: calc(var(--scale-factor)*528.88px); transform: scaleX(0.942593);\" role=\"presentation\">Magenta, Yellow, Green</span></span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489076,
@@ -556,8 +522,7 @@
         "D": "<p>Çözünürlük</p>",
         "E": "<p>Vektör</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489231,
@@ -572,8 +537,7 @@
         "D": "<p>RAW</p>",
         "E": "<p>BMP</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488775,
@@ -588,8 +552,7 @@
         "D": "<p>dijital görüntüden farklı amaçlar için farklı görüntülerin elde edilmesidir.</p>",
         "E": "<p> dijital görüntünün insanın farklı anlamlandırması için değiştirilmesidir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489075,
@@ -604,8 +567,7 @@
         "D": "<p>Analog görüntü, siyah, binary, piksel </p>",
         "E": "<p>Analog görüntü, beyaz, binary, sinyal</p>  ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489084,
@@ -620,8 +582,7 @@
         "D": "<p>Bartlane sistemi, RAW, PNG</p>",
         "E": "<p>Bartlane sistemi, PNG, RAW</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489232,
@@ -636,7 +597,6 @@
         "D": "<p>1940</p>",
         "E": "<p>1950</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     }
 ]

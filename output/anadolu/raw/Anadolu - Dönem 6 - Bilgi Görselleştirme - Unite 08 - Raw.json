@@ -12,8 +12,7 @@
         "D": "<p>SoT (Streaming of Things)</p>",
         "E": "<p>MoT (Media of Things)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763323,
@@ -28,8 +27,7 @@
         "D": "<p>Karma Gerçeklik</p>",
         "E": "<p>Arttırılmış Gerçeklik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763324,
@@ -44,8 +42,7 @@
         "D": "<p>Karma Gerçeklik</p>",
         "E": "<p>Arttırılmış Gerçeklik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763325,
@@ -60,8 +57,7 @@
         "D": "<p>Geri Bildirimin Sağlanması</p>",
         "E": "<p>Dengeli Bir Mücadele</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763326,
@@ -76,8 +72,7 @@
         "D": "<p>Ödüllendirici</p>",
         "E": "<p>Konsantrasyon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763327,
@@ -92,8 +87,7 @@
         "D": "<p>Kontrol Hissi</p>",
         "E": "<p>Ödüllendirici</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763328,
@@ -108,8 +102,7 @@
         "D": "<p>Kullanıcı Deneyimi Tasarımı</p>",
         "E": "<p>Dengeli Bir Mücadele</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763329,
@@ -124,8 +117,7 @@
         "D": "<p>Kullanıcı Deneyimi Tasarımı</p>",
         "E": "<p>STRAVA</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763330,
@@ -140,8 +132,7 @@
         "D": "<p>Karma gerçeklik</p>",
         "E": "<p>Arttırılmış gerçeklik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763331,
@@ -156,8 +147,7 @@
         "D": "<p>Google Glass</p>",
         "E": "<p>Virtualitics</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763612,
@@ -172,8 +162,7 @@
         "D": "<p>E-posta servislerinin genel adı</p>",
         "E": "<p>Verinin sürekli değiştiği bilgi deneyimleme biçimi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763616,
@@ -188,8 +177,7 @@
         "D": "<p>Karma gerçeklik</p>",
         "E": "<p>Kullanıcı deneyim tasarımı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763618,
@@ -204,8 +192,7 @@
         "D": "<p>Tren hareket saatlerini </p>",
         "E": "<p>Uçuş bilgilerini</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763624,
@@ -220,8 +207,7 @@
         "D": "<p>Geri bildirimin sağlanması</p>",
         "E": "<p>Konsantrasyon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763627,
@@ -236,8 +222,7 @@
         "D": "<p>Deneyim</p>",
         "E": "<p>Etkileşim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763632,
@@ -252,8 +237,7 @@
         "D": "<p>Kullanıcı arayüz tasarımı oluşturmak</p>",
         "E": "<p>Etkileşimli grafik tasarımı yaratmak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763634,
@@ -268,8 +252,7 @@
         "D": "<p>Güneş paneli</p>",
         "E": "<p>Arttırılmış gerçeklik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763636,
@@ -284,8 +267,7 @@
         "D": "<p>Durumsal tasarım yaklaşımı</p>",
         "E": "<p>Yinelemeli tasarım yaklaşımı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763641,
@@ -300,8 +282,7 @@
         "D": "<p>Dijital arabirimler</p>",
         "E": "<p>Kullanıcı deneyimi tasarımı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763643,
@@ -316,7 +297,6 @@
         "D": "<p>hatırlama ve anlama</p>",
         "E": "<p>analiz ve sentez</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

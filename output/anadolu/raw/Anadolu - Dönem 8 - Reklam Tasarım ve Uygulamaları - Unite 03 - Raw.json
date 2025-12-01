@@ -12,8 +12,7 @@
         "D": "<p>Bilişsel yaklaşım</p>",
         "E": "<p>Birleşme yaklaşımı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833606,
@@ -28,8 +27,7 @@
         "D": "<p>Sosyal-Kişilik yaklaşımı</p>",
         "E": "<p>Birleşme yaklaşımı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833610,
@@ -44,8 +42,7 @@
         "D": "<p>Küçük-c</p>",
         "E": "<p>Yaratıcı Yer</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833613,
@@ -60,8 +57,7 @@
         "D": "<p>Big-c</p>",
         "E": "<p>Yaratıcı Süreç</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833843,
@@ -76,8 +72,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833845,
@@ -92,8 +87,7 @@
         "D": "<p>Bilgi </p>",
         "E": "<p>Uzmanlık </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833863,
@@ -108,8 +102,7 @@
         "D": "<p>Absürt Alternatif</p>",
         "E": "<p>Ters Yüz Etme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833868,
@@ -124,8 +117,7 @@
         "D": "<p>Ters Yüz Etme</p>",
         "E": "<p>Absürt Alternatif</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833878,
@@ -140,8 +132,7 @@
         "D": "<p>I ve II </p>",
         "E": "<p>II ve III </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833893,
@@ -156,7 +147,6 @@
         "D": "<p>Aydınlanma </p>",
         "E": "<p>Doğrulama </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

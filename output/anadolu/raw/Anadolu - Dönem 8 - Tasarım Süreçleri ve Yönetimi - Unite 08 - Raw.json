@@ -12,8 +12,7 @@
         "D": "<p>Tüketim ekonomisi</p>",
         "E": "<p>Deneyim ergonomisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833828,
@@ -28,8 +27,7 @@
         "D": "<p>Ekonomi bağlamında deneyim, bir şirketin hizmetleri ve ürünleri kullanarak müşteriler için yarattığı unutulmaz bir olaydır.</p>",
         "E": "<p>Sosyal medyanın yaygınlaşması, deneyim ekonomisinin önemini daha da arttırmıştır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833832,
@@ -44,8 +42,7 @@
         "D": "<p>Değerlilik</p>",
         "E": "<p>Bulunabilirlik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833835,
@@ -60,8 +57,7 @@
         "D": "<p>Garret’ın yaklaşımında“yüzey” düzeyinde belirlenen görsel tasarımın detayları ürünün son kullanıcıya nasıl görüneceği ve ne şekilde hissedileceği tanımlanır. Bu süreç Morville’in yaklaşımındaki bileşenler içerisinde yalnızca güvenilirlik ile ilgilidir.</p>",
         "E": "<p>Garret’ın yaklaşımında “kapsam” düzeyinde ürünün özellikleri ve işlevleri belirlenir. Bunlar en çok, Morville’in yaklaşımındaki “arzu edilebilirlik” ile ilişkilidir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833839,
@@ -76,8 +72,7 @@
         "D": "<p>Hassenzahl’ın yaklaşımı kullanıcıların sadece ihtiyaçlarını karşılamakla kalmaz, aynı zamanda onları mutlu etmeyi ve hayatlarına pozitif deneyimler katmayı hedefler.</p>",
         "E": "<p>Hassenzahl’ın yaklaşımı, kullanıcı deneyimini sadece “kullanımı kolay” bir ürün yaratmakla sınırlamaz.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833848,
@@ -92,8 +87,7 @@
         "D": "<p>Odak Grupları</p>",
         "E": "<p>Günlük Çalışmaları</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833850,
@@ -108,8 +102,7 @@
         "D": "<p>Kullanıcı testi, büyük bir kullanıcı kitlesinden veri toplamak için kullanılan yapılandırılmış soru setleridir.</p>",
         "E": "<p>A/B testi, bir ürün veya hizmetin iki farklı versiyonu arasındaki farkı belirlemek için yapılan bir tür kullanılabilirlik testidir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833854,
@@ -124,8 +117,7 @@
         "D": "<p>Karanlık kalıplar</p>",
         "E": "<p>İmleyen</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833857,
@@ -140,8 +132,7 @@
         "D": "<p>Kullanıcıların karşılaştığı sorunları ve fırsatları anlayarak, tasarım ekibinin yaratıcı çözümler üretmesine olanak tanınır.</p>",
         "E": "<p>Kullanıcı merkezli tasarım sürekli olarak radikal bir yenilik arayışı içerisindedir ve operasyonel sorunları öncelikli olarak göz önüne alır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833860,
@@ -156,8 +147,7 @@
         "D": "<p>1980’lerde bilgisayar teknolojileri ve özellikle Apple’ın Macintosh bilgisayarıyla</p>",
         "E": "<p>İnternetin popülerleştiği 1990’lı yıllarla birlikte, web sitelerine ilişkin çalışmalarla</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833866,
@@ -172,7 +162,6 @@
         "D": "<p>Persona, kullanıcıların belirli hedeflere ulaşmakta nasıl bir yol izlediğini anlamak için senaryo geliştirilmesine yardımcı olur.</p>",
         "E": "<p>Bir persona, hedef kitlede yer alan tüm kişilerin net bir tanımını sunar.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     }
 ]

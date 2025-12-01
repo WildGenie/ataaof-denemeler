@@ -12,8 +12,7 @@
         "D": "<p>I, II, III</p>",
         "E": "<p>III ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852239,
@@ -28,8 +27,7 @@
         "D": "<p>Afyon </p>",
         "E": "<p>Sakarya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852251,
@@ -44,8 +42,7 @@
         "D": "<p>Anadolu ve Balkanların etkileşimiyle ortaya çıkan bir kültür olması</p> ",
         "E": "<p>Farklı etnik yapıların etkisiyle ortaya çıkan bir kültür olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853184,
@@ -60,8 +57,7 @@
         "D": "<p class=\"Default\"><span style=\"font-size: 11.0pt; color: windowtext;\">Taşlıcalı Yahya Bey</span></p> <p class=\"Default\"><span style=\"color: windowtext;\"> </span></p>",
         "E": "<p><span style=\"color: windowtext;\">Necmüddin Dâye</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853186,
@@ -76,8 +72,7 @@
         "D": "<p>Kula halıları</p> ",
         "E": "<p>Bergama halıları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853188,
@@ -92,8 +87,7 @@
         "D": "<p class=\"Default\">Necmüddin Dâye</p> <p class=\"Default\"><span style=\"font-size: 11.0pt; color: #221e1f;\"> </span></p>",
         "E": "<p><span style=\"font-size: 11.0pt; color: #221e1f;\">Haydar Reis</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856206,
@@ -108,8 +102,7 @@
         "D": "<p>Sadece III</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856234,
@@ -124,8 +117,7 @@
         "D": "<p>Sadece III</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856433,
@@ -140,8 +132,7 @@
         "D": "<p>Sadece III</p>",
         "E": "<p>Sadece IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857814,
@@ -156,8 +147,7 @@
         "D": "<p>Meddah</p>",
         "E": "<p>Nakkaş</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859306,
@@ -172,8 +162,7 @@
         "D": "<p>Rumca</p>",
         "E": "<p>Çince</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859375,
@@ -188,8 +177,7 @@
         "D": "<p>1773’ten itibaren devletin siyasi bir teşkilat olarak ortadan kalktığı 1923’e kadar süren dönem.</p>",
         "E": "<p>Devletin kuruluşundan Pasarofça antlaşmasına kadar olan dönem.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859488,
@@ -204,8 +192,7 @@
         "D": "<p>Lûgat-ı Halîmî</p>",
         "E": "<p>Tevârih-i Âl-i Osman</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859497,
@@ -220,8 +207,7 @@
         "D": "<p>II. Bayezid</p>",
         "E": "<p>I. Adbülhamid</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859519,
@@ -236,8 +222,7 @@
         "D": "<p>Şehname</p>",
         "E": "<p>Zafername</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859842,
@@ -252,8 +237,7 @@
         "D": "<p>Duraklama döneminde</p>",
         "E": "<p>19. - 20. yüzyıl başları</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859938,
@@ -268,8 +252,7 @@
         "D": "<p>I. Selim</p>",
         "E": "<p>I. Murad</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860370,
@@ -284,8 +267,7 @@
         "D": "<p>Azamet</p> ",
         "E": "<p>Asalet</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860407,
@@ -300,8 +282,7 @@
         "D": "<p>Ahmedî</p> ",
         "E": "<p>Hayâlî</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860410,
@@ -316,8 +297,7 @@
         "D": "<p>Uzun Hasan Cami</p>",
         "E": "<p>Muradiye Külliyesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852260,
@@ -332,8 +312,7 @@
         "D": "<p>I.Murad </p>",
         "E": "<p>II. Selim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853182,
@@ -348,8 +327,7 @@
         "D": "<p class=\"Default\"><span style=\"font-size: 11.0pt; color: #221e1f;\">Eski Anadolu Türkçesi</span></p>",
         "E": "<p><span style=\"font-size: 11.0pt; color: #221e1f;\">Modern Anadolu Türkçesi</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853190,
@@ -364,8 +342,7 @@
         "D": "<p>Halkârî</p> ",
         "E": "<p>Minyatür</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853191,
@@ -380,8 +357,7 @@
         "D": "<p class=\"Default\"><span style=\"color: windowtext;\">Tanzimat</span></p> <p class=\"Default\"><span style=\"font-family: 'Times New Roman',serif; color: windowtext;\"> </span></p>",
         "E": "<p><span style=\"font-family: 'Times New Roman',serif; color: windowtext;\">Ölüp-dirilme</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856449,
@@ -396,8 +372,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>Sadece II</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856474,
@@ -412,8 +387,7 @@
         "D": "<p>Tezhip</p>",
         "E": "<p>Minyatür</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857808,
@@ -428,8 +402,7 @@
         "D": "<p>Meclis-i işret</p> ",
         "E": "<p>Sevgiliye kavuşma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859318,
@@ -444,8 +417,7 @@
         "D": "<p>Beşâ’irü’n-Nezâir</p>",
         "E": "<p>Keşfü’l-Akabe</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860424,
@@ -460,8 +432,7 @@
         "D": "<p>Tezhip</p> ",
         "E": "<p>Minyatür</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3075904,
@@ -476,8 +447,7 @@
         "D": "<p>Abdülmecid</p>",
         "E": "<p>II. Ahmet</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839378,
@@ -492,8 +462,7 @@
         "D": "Hukuk",
         "E": "Matematik",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852263,
@@ -508,8 +477,7 @@
         "D": "<p>Uzun Firdevsî (Bursalı Şerafeddin) </p>",
         "E": "<p>Nakkaş Osman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853183,
@@ -524,8 +492,7 @@
         "D": "<p>Tiflisî’nin Kâmilü’t -ta’bir</p> ",
         "E": "<p>Divanü Lugât-it Türk</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856389,
@@ -540,8 +507,7 @@
         "D": "<p>Sultan Abdülmecit</p>",
         "E": "<p>Timurlenk</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857794,
@@ -556,8 +522,7 @@
         "D": "<p>Selçuk İsa Bey Camii</p> ",
         "E": "<p>Eşrefoğlu Camii</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857803,
@@ -572,8 +537,7 @@
         "D": "<p>Mevlânâ Celâleddin-i Rûmî – Vesîletü’n-Necât</p> ",
         "E": "<p>Kaygusuz Abdal - Gülistan</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857812,
@@ -588,8 +552,7 @@
         "D": "<p>İskendername</p> ",
         "E": "<p>Esrârnâme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859476,
@@ -604,8 +567,7 @@
         "D": "<p>Yavuz Sultan Selim</p>",
         "E": "<p>II. Abdülhamit</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859831,
@@ -620,8 +582,7 @@
         "D": "<p>Yenileşme hareketlerine paralel olarak dilde sadeleşmeyi içerir.</p>",
         "E": "<p>Türkçe esas olmak üzere Arapça ve Farsça kelimelerle kurallarının Türkçe ile birleştirmesinden oluşur.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860033,
@@ -636,8 +597,7 @@
         "D": "<p>Sebk-i Hindi akımını</p>",
         "E": "<p>Garip akımını</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860380,
@@ -652,8 +612,7 @@
         "D": "<p>Evliya Çelebi</p> ",
         "E": "<p>Ahmedî</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860389,
@@ -668,8 +627,7 @@
         "D": "<p>Aşık Paşa</p> ",
         "E": "<p>Ahmedî</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860395,
@@ -684,8 +642,7 @@
         "D": "<p>Ahmed-i Dâ’i </p> ",
         "E": "<p>Ahmedî</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860437,
@@ -700,8 +657,7 @@
         "D": "<p>III. Selim</p> ",
         "E": "<p>III. Ahmed</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852252,
@@ -716,8 +672,7 @@
         "D": "<p>Mesnevi </p>",
         "E": "<p> Hâmûşnâme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859357,
@@ -732,8 +687,7 @@
         "D": "<p>Mesnevi</p>",
         "E": "<p>Keşfü’l -Akabe</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859908,
@@ -748,8 +702,7 @@
         "D": "<p>Manisa’da Saruhanoğullarının yaptırdıkları Ulucami,</p>",
         "E": "<p>Manisa'da inşa edilen Muradiye Camii </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3075902,
@@ -764,8 +717,7 @@
         "D": "<p>Genişleme Dönemi</p>",
         "E": "<p>Kuruluş Dönemi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3075903,
@@ -780,8 +732,7 @@
         "D": "<p>Tezhip sanatı</p>",
         "E": "<p>Halkari sanatı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852255,
@@ -796,8 +747,7 @@
         "D": "<p>Sinan Paşa </p>",
         "E": "<p>Ahmed Dede </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853181,
@@ -812,8 +762,7 @@
         "D": "<p>Kelîle vü Dimne</p>",
         "E": "<p>Divanü Lugât-it Türk</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853193,
@@ -828,8 +777,7 @@
         "D": "<p> III. Mehmed</p>",
         "E": "<p>II. Mahmud</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856208,
@@ -844,8 +792,7 @@
         "D": "<p>Sadece II</p>",
         "E": "<p>Sadece III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859384,
@@ -860,8 +807,7 @@
         "D": "<p>Tahrîru uşûli’l hendese</p>",
         "E": "<p>Mecmûa-ı Ulûm-i Riyâziyye</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3334585,
@@ -876,8 +822,7 @@
         "D": "<p>Kanun</p>",
         "E": "<p>Tambur</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852261,
@@ -892,8 +837,7 @@
         "D": "<p>Nakkaşlık </p>",
         "E": "<p>Çini</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857828,
@@ -908,8 +852,7 @@
         "D": "<p>1, 2, 3, 4 ve 5</p>",
         "E": "<p>1, 2, 3, 4, 5 ve 6</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859819,
@@ -924,8 +867,7 @@
         "D": "<p>Eski Anadolu Türkçesi / Eski Türkiye Türkçesi de denir. </p>",
         "E": "<p>Yenileşme hareketlerine paralel olarak dilde sadeleşmeyi içerir. </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3075901,
@@ -940,8 +882,7 @@
         "D": "<p>Duraklama döneminde</p>",
         "E": "<p>19. yüzyıl ve 20. yüzyıl başları arasında </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852253,
@@ -956,8 +897,7 @@
         "D": "<p>Ahmed Dede  </p>",
         "E": "<p>Vidinli Hüseyin Tevfik Paşa</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857788,
@@ -972,8 +912,7 @@
         "D": "<p>Karamanoğlu Mehmet Bey</p>",
         "E": "<p>Aşık Paşa</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859877,
@@ -988,8 +927,7 @@
         "D": "<p>Eserlerinde; ırk, din, dil ayrımı gözetmeyen evrensel bir sevgi mevcuttur. </p>",
         "E": "<p>Eski Anadolu Türkçesi ile yazılmış tek eserinin adı Garipname'dir. </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860420,
@@ -1004,8 +942,7 @@
         "D": "<p>Nur-u Osmaniye Camii ve Külliyesi</p>",
         "E": "<p>Birgi Ulu Cami</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3334553,
@@ -1020,8 +957,7 @@
         "D": "<p>Ladik</p>",
         "E": "<p>Alaşehir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857833,
@@ -1036,8 +972,7 @@
         "D": "<p>Fecriati Dönemi</p> ",
         "E": "<p>Cumhuriyet Dönemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859965,
@@ -1052,8 +987,7 @@
         "D": "<p>II. Bayezid (1447-1512)</p>",
         "E": "<p>I. Süleyman (1494-1566)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860428,
@@ -1068,8 +1002,7 @@
         "D": "<p>Fatih Sultan Mehmed</p>",
         "E": "<p>II. Mahmud</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856417,
@@ -1084,8 +1017,7 @@
         "D": "<p>Sadece III</p>",
         "E": "<p>Sadece II</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857818,
@@ -1100,8 +1032,7 @@
         "D": "<p>Sanayi-i Nefise Mektebi’nin açılması</p> ",
         "E": "<p>Abdülaziz’in atlı heykelinin yapılması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860076,
@@ -1116,8 +1047,7 @@
         "D": "<p>İsa Behzat</p>",
         "E": "<p>Mahir Tomruk</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852241,
@@ -1132,8 +1062,7 @@
         "D": "<p>Müsamaha </p>",
         "E": "<p>İnsaflılık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2856225,
@@ -1148,8 +1077,7 @@
         "D": "<p>Eski Osmanlıca</p>",
         "E": "<p>Lehçe</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2857799,
@@ -1164,8 +1092,7 @@
         "D": "<p>Gelenbevi İsmail Efendi</p> ",
         "E": "<p>Vidinli Hüseyin Tevfik Paşa</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859326,
@@ -1180,8 +1107,7 @@
         "D": "<p>Keşfü’l – Esrâr</p>",
         "E": "<p>Ravzatu’l – Küttâb</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859982,
@@ -1196,8 +1122,7 @@
         "D": "<p>I. Süleyman</p>",
         "E": "<p>II. Selim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853195,
@@ -1212,7 +1137,6 @@
         "D": "<p class=\"Default\"><span style=\"font-size: 11.0pt; color: #221e1f;\">Kırşehirli Yusuf b. Nizameddin</span></p>",
         "E": "<p>Necmüddin Dâye</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     }
 ]

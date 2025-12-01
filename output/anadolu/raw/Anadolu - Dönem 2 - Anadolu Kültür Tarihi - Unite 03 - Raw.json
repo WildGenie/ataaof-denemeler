@@ -12,8 +12,7 @@
         "D": "<p>Matar</p>",
         "E": "<p>Argişti</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851981,
@@ -28,8 +27,7 @@
         "D": "<p>I, II, III</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851987,
@@ -44,8 +42,7 @@
         "D": "<p>Ankara-Kırıkkale-Çankırı</p>",
         "E": "<p>Manisa-İzmir-Aydın</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851989,
@@ -60,8 +57,7 @@
         "D": "<p>Çatalhöyük</p>",
         "E": "<p>Tuşpa</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860310,
@@ -76,8 +72,7 @@
         "D": "<p>Aramu</p>",
         "E": "<p>Teişeba</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068140,
@@ -92,8 +87,7 @@
         "D": "<p align=\"LEFT\"> </p>\n<p>Ninurta</p>",
         "E": "<p align=\"LEFT\"> </p>\n<p>Tiglatpileser</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068143,
@@ -108,8 +102,7 @@
         "D": "<p>Beylik</p>",
         "E": "<p>Tapınak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068148,
@@ -124,8 +117,7 @@
         "D": "<p>Matar</p>",
         "E": "<p align=\"LEFT\">Şivini</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3069450,
@@ -140,8 +132,7 @@
         "D": "<p>Erimenau</p>",
         "E": "<p>III. Sarduri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3069453,
@@ -156,8 +147,7 @@
         "D": "<p>Haldi</p>",
         "E": "<p>Gyges</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3069463,
@@ -172,8 +162,7 @@
         "D": "<p>M.Ö. 562</p>",
         "E": "<p>M.Ö. 579</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3069471,
@@ -188,8 +177,7 @@
         "D": "<p>Aydın</p>",
         "E": "<p>Kütahya </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3069477,
@@ -204,8 +192,7 @@
         "D": "<p>Kroisos</p>",
         "E": "<p>Sadyattes</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070148,
@@ -220,8 +207,7 @@
         "D": "<p>Sargon</p>",
         "E": "<p>Hattuşili</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070152,
@@ -236,8 +222,7 @@
         "D": "<p>Tümülüs</p>",
         "E": "<p>Höyük</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070154,
@@ -252,8 +237,7 @@
         "D": "<p>Elektronu altın ve gümüşe ayırma yöntemi</p>",
         "E": "<p>Kremin icadı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070841,
@@ -268,8 +252,7 @@
         "D": "<p>Madencilik</p>",
         "E": "<p>Denizcilik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070867,
@@ -284,8 +267,7 @@
         "D": "<p>Hayvancılık ve madencilik</p>",
         "E": "<p>Tarım ve hayvancılık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3071535,
@@ -300,8 +282,7 @@
         "D": "<p>Salmanassar</p>",
         "E": "<p>I. Tiglatpileser</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3071544,
@@ -316,8 +297,7 @@
         "D": "<p>Assur</p>",
         "E": "<p>Urartu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851983,
@@ -332,8 +312,7 @@
         "D": "<p>Argişti</p>",
         "E": "<p>Minua</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851992,
@@ -348,8 +327,7 @@
         "D": "<p>Urartular</p>",
         "E": "<p>Kilikyalılar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852299,
@@ -364,8 +342,7 @@
         "D": "<p>Askerler</p>",
         "E": "<p>Köylüler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852301,
@@ -380,8 +357,7 @@
         "D": "<p>Hurri</p>",
         "E": "<p>Haldi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852302,
@@ -396,8 +372,7 @@
         "D": "<p>II, III ve V</p>",
         "E": "<p>I, III ve V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852303,
@@ -412,8 +387,7 @@
         "D": "<p>Yöneticiler</p>",
         "E": "<p>Köylüler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860327,
@@ -428,8 +402,7 @@
         "D": "<p>Lidya</p>",
         "E": "<p>Frig</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860344,
@@ -444,8 +417,7 @@
         "D": "<p>Hitit</p>",
         "E": "<p>Frig</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068130,
@@ -460,8 +432,7 @@
         "D": "<p>Orta Çağ</p>",
         "E": "<p>Yakın Çağ</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068149,
@@ -476,8 +447,7 @@
         "D": "<p>Frig dili</p>",
         "E": "<p>Kelt dili</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068151,
@@ -492,8 +462,7 @@
         "D": "<p>Remasyon</p>",
         "E": "<p>İntomasyon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068161,
@@ -508,8 +477,7 @@
         "D": "<p>Tümülüs, sikke</p>",
         "E": "<p>Megaron, sikke</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3069467,
@@ -524,8 +492,7 @@
         "D": "<p>Büyük Kapı Kaya Anıtı</p>",
         "E": "<p>Deliklitaş Anıtı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070140,
@@ -540,8 +507,7 @@
         "D": "<p>Göçebe yaşam tarzı</p>",
         "E": "<p>Hitit Devleti’nin çökmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070150,
@@ -556,8 +522,7 @@
         "D": "<p>Uşak</p>",
         "E": "<p>Konya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070844,
@@ -572,8 +537,7 @@
         "D": "<p>II. Argişti</p>",
         "E": "<p>I. Rusa</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070860,
@@ -588,8 +552,7 @@
         "D": "<p>Hattuşa</p>",
         "E": "<p>Sardeis</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070900,
@@ -604,8 +567,7 @@
         "D": "<p>Savaş kazanılmamış ve her iki devlet arasında barış paktı sağlanarak savaşa son verilmiştir.</p>",
         "E": "<p>Savaş sırasında yaşanan güneş tutulması olayının, savaşı bitirmek için tanrısal bir işaret olarak yorumlanması </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852297,
@@ -620,8 +582,7 @@
         "D": "<p>İskit</p>",
         "E": "<p>Hun</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068133,
@@ -636,8 +597,7 @@
         "D": "<p>I, III, IV, V</p>",
         "E": "<p>I, II, IV, V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068138,
@@ -652,8 +612,7 @@
         "D": "<p>9. Yüzyıl</p>",
         "E": "<p>11. Yüzyıl</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068146,
@@ -668,8 +627,7 @@
         "D": "<p>Birbirleriyle ticaret yapmış Urartu ve Assur kralları</p>",
         "E": "<p>Karşılıklı evlilikler yoluyla güçlerini birleştirmiş Urartu ve Assur kralları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068158,
@@ -684,8 +642,7 @@
         "D": "<p>Friglerin dini törenlerine dair yazılı kayıtlar okunmak suretiyle bu törenler hakkında detaylı bilgi edinilmiştir.</p>",
         "E": "<p>Antik kaynaklarda Frig eserlerine yer verilmediği için ürettikleri eserlerle ilgili yazılı kayıt bulunmamaktadır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068164,
@@ -700,8 +657,7 @@
         "D": "<p>Lidyalılar</p>",
         "E": "<p>Sümerler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068172,
@@ -716,8 +672,7 @@
         "D": "<p>Lydion</p>",
         "E": "<p>Kantharos</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070923,
@@ -732,8 +687,7 @@
         "D": "<p>Altın sikkelerin saklandığı kumbaralardır.</p>",
         "E": "<p>Lydionlar aslında Lidya üretimi anlamında kullanılmıştır. Özel bir kap formu değildir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3071548,
@@ -748,8 +702,7 @@
         "D": "<p>Assur</p>",
         "E": "<p>Urartu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3071554,
@@ -764,8 +717,7 @@
         "D": "<p>Assur</p>",
         "E": "<p>Urartu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3071563,
@@ -780,8 +732,7 @@
         "D": "<p>Kroisos</p>",
         "E": "<p>Alyattes</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3071570,
@@ -796,8 +747,7 @@
         "D": "<p>Fibulalar</p>",
         "E": "<p>Nişler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3071735,
@@ -812,8 +762,7 @@
         "D": "<p>Mobilyacılık</p>",
         "E": "<p>Çömlekçilik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851973,
@@ -828,8 +777,7 @@
         "D": "<p>Gordios</p>",
         "E": "<p>Minua</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860302,
@@ -844,8 +792,7 @@
         "D": "<p>M.Ö. 1200</p>",
         "E": "<p>M.Ö. 800</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860353,
@@ -860,8 +807,7 @@
         "D": "<p>Muğla</p>",
         "E": "<p>Manisa</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068145,
@@ -876,8 +822,7 @@
         "D": "<p>Gyges</p> ",
         "E": "<p>Minua</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068153,
@@ -892,8 +837,7 @@
         "D": "<p>Lidyalılar</p>",
         "E": "<p>Sasaniler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068169,
@@ -908,8 +852,7 @@
         "D": "<p>II, IV</p>",
         "E": "<p>II, III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070869,
@@ -924,8 +867,7 @@
         "D": "<p>Yığma toprak, ahşap odalı ve dromoslu</p>",
         "E": "<p>Yığma toprak, taş odalı ve ahşap dromosludur.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851978,
@@ -940,8 +882,7 @@
         "D": "<p>Hitit</p>",
         "E": "<p>Asur</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860340,
@@ -956,8 +897,7 @@
         "D": "<p>Teişeba</p>",
         "E": "<p>Haldi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068125,
@@ -972,8 +912,7 @@
         "D": "<p>MÖ.1400</p>",
         "E": "<p>MÖ.1500</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3069457,
@@ -988,8 +927,7 @@
         "D": "<p>Bilecik</p>",
         "E": "<p>Kayseri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070142,
@@ -1004,8 +942,7 @@
         "D": "<p>Gordios</p>",
         "E": "<p>I. Argişti</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070153,
@@ -1020,8 +957,7 @@
         "D": "<p>Ankara Polatlı İlçesi</p>",
         "E": "<p>Kütahya Simav İlçesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070158,
@@ -1036,8 +972,7 @@
         "D": "<p>Mayonlar</p>",
         "E": "<p>Mermnadlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3071722,
@@ -1052,8 +987,7 @@
         "D": "<p>Hititler</p>",
         "E": "<p>Urartular</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851994,
@@ -1068,8 +1002,7 @@
         "D": "<p>Lydion</p>",
         "E": "<p>Bakkaris</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852306,
@@ -1084,8 +1017,7 @@
         "D": "<p>Ege</p>",
         "E": "<p>Akdeniz</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860315,
@@ -1100,8 +1032,7 @@
         "D": "<p>Teişeba</p>",
         "E": "<p>Haldi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068135,
@@ -1116,8 +1047,7 @@
         "D": "<p>Hurriler</p>",
         "E": "<p>Mermnadlar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068142,
@@ -1132,8 +1062,7 @@
         "D": "<p align=\"LEFT\">İnguşca</p>",
         "E": "<p>Uygurca</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852294,
@@ -1148,8 +1077,7 @@
         "D": "<p>Gordion</p>",
         "E": "<p>Sardeis </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860307,
@@ -1164,8 +1092,7 @@
         "D": "<p>Hitit Devleti</p>",
         "E": "<p>Lidya Devleti</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070917,
@@ -1180,8 +1107,7 @@
         "D": "<p>Sadece altın</p>",
         "E": "<p>Altın-gümüş</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3071725,
@@ -1196,8 +1122,7 @@
         "D": "<p>Kırşehir</p>",
         "E": "<p>Van</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852296,
@@ -1212,8 +1137,7 @@
         "D": "<p>Minua</p>",
         "E": "<p>II. Sarduri </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852307,
@@ -1228,8 +1152,7 @@
         "D": "<p>Zeus</p>",
         "E": "<p>Baki</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070147,
@@ -1244,8 +1167,7 @@
         "D": "<p>Güneydoğu Avrupa</p>",
         "E": "<p>Kuzaybatı Çin</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070905,
@@ -1260,8 +1182,7 @@
         "D": "<p>Kybele ve Demeter Tapınakları</p>",
         "E": "<p>Artemis ve Leto Tapınakları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860320,
@@ -1276,8 +1197,7 @@
         "D": "<p>Hitit Devleti</p>",
         "E": "<p>Lidya Devleti</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3069480,
@@ -1292,8 +1212,7 @@
         "D": "<p>Megale</p>",
         "E": "<p>Tişeba</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070853,
@@ -1308,8 +1227,7 @@
         "D": "<p>Baş tanrı ve savaş tanrısı</p>",
         "E": "<p>Baş tanrı ve bilgelik tanrısı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2851977,
@@ -1324,8 +1242,7 @@
         "D": "<p>Urartu</p>",
         "E": "<p>Kilikya</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852305,
@@ -1340,8 +1257,7 @@
         "D": "<p>Niş</p>",
         "E": "<p>Tapınak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3069451,
@@ -1356,8 +1272,7 @@
         "D": "<p>Teokratik Monarşi</p>",
         "E": "<p>Aristokrasi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3071729,
@@ -1372,8 +1287,7 @@
         "D": "<p>Gordios</p>",
         "E": "<p>Gyges</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3069447,
@@ -1388,8 +1302,7 @@
         "D": "<p>I. Sarduri</p>",
         "E": "<p>II. Sarduri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3070145,
@@ -1404,8 +1317,7 @@
         "D": "<p>Teişeba</p>",
         "E": "<p>Nalaini</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860331,
@@ -1420,8 +1332,7 @@
         "D": "<p>Lidya Devleti</p>",
         "E": "<p>Frig Devleti</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3068152,
@@ -1436,7 +1347,6 @@
         "D": "<p>Teişeba</p>",
         "E": "<p>Haldi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Sınıflar ve Nesneler</p> ",
         "E": "<p>Arayüzler ve Soyut Sınıflar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691442,
@@ -28,8 +27,7 @@
         "D": "<p>Arayüzler ve Soyut Sınıflar</p>",
         "E": "<p>Değişkenler ve Veri Tipleri</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691468,
@@ -44,8 +42,7 @@
         "D": "<p>Node düğümleri</p> ",
         "E": "<p>Java sistemleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691498,
@@ -60,8 +57,7 @@
         "D": "<p>Tuş kombinasyonları ile oyunların kontrol mekanizmalarını geliştirme</p> ",
         "E": "<p>Klavye girdilerini almak için kullanılır ve bir tuşa basıldığında gerçekleştirilmesi gereken</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691513,
@@ -76,8 +72,7 @@
         "D": "<p>Mermi nesnesi sürekli görünür olacak şekilde kameraya sabitlenmelidir.<br /><br /></p>",
         "E": "<p>Mermi nesnesi hareketine sonsuza kadar devam etmelidir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691529,
@@ -92,8 +87,7 @@
         "D": "<p> Kamerayı sabitlemek ve  hierarchy bölümünden oyun karakteriyle bağımsız hale getirmek gerekir.<br /><br /></p>",
         "E": "<p>Hierarcyhy menüsünden Main Camera'yı başka bir kamera ile değiştirmek gerekir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691537,
@@ -108,8 +102,7 @@
         "D": "<p>Karakterin hareketini durdurmak gerekir.</p>",
         "E": "<p>Karakterin Renderer bileşeni devre dışı bırakılmalıdır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691549,
@@ -124,8 +117,7 @@
         "D": "<p>Wheel Collider</p>",
         "E": "<p>Mesh Collider</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691561,
@@ -140,8 +132,7 @@
         "D": "<p>Oyun karakterinin görünürlüğünü ve görünürlüğe dayalı yönünü ayarlayabilirsiniz.<br /><br /></p>",
         "E": "<p>Mermilerin yönünü ve katmanlar arasında geçişini değiştirebilirsiniz.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691576,
@@ -156,7 +147,6 @@
         "D": "<p>Düşmanlar belirli bir y pozisyonuna ulaştığında oyun sonlanır.<br /><br /></p>",
         "E": "<p> Düşman nesneleri sürekli sahnede kalır ve oyun sonlanmaz.</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

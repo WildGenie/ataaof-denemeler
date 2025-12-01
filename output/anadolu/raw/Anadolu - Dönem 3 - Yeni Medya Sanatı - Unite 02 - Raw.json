@@ -12,8 +12,7 @@
         "D": "<p>duyusal bilgi</p>",
         "E": "<p>temel bilgi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641334,
@@ -28,8 +27,7 @@
         "D": "<p>Fark Eşiği</p>",
         "E": "<p>Mutlak Eşik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641337,
@@ -44,8 +42,7 @@
         "D": "<p>2000</p>",
         "E": "<p>2001</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641338,
@@ -60,8 +57,7 @@
         "D": "<p>estetik bakış</p>",
         "E": "<p>ekonomik zorunluluk</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641398,
@@ -76,8 +72,7 @@
         "D": "<p>Aristoteles</p>",
         "E": "<p>Hegel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641399,
@@ -92,8 +87,7 @@
         "D": "<p>Baumgarten</p>",
         "E": "<p>Delacroix</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641403,
@@ -108,8 +102,7 @@
         "D": "<p>Fark eşiği</p>",
         "E": "<p>Duyusal uyum</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641405,
@@ -124,8 +117,7 @@
         "D": "<p>Anlatı kurgusu</p>",
         "E": "<p>Paralelleştirilen kurgu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641408,
@@ -140,8 +132,7 @@
         "D": "<p>Bilizzzard</p>",
         "E": "<p>Microsoft</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641409,
@@ -156,8 +147,7 @@
         "D": "<p>Metaverse</p>",
         "E": "<p>Minecraft</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641430,
@@ -172,8 +162,7 @@
         "D": "<p>Ürün</p>",
         "E": "<p>Mantık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641431,
@@ -188,8 +177,7 @@
         "D": "<p>Kant</p>",
         "E": "<p>Nietzsche</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641434,
@@ -204,8 +192,7 @@
         "D": "<p>Algıda organizasyon</p>",
         "E": "<p>Algı eşiği</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641435,
@@ -220,8 +207,7 @@
         "D": "<p>Renk algısı</p>",
         "E": "<p>Algıda değişmezlik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641437,
@@ -236,8 +222,7 @@
         "D": "<p>Cleopatra</p>",
         "E": "<p>Elizabeth</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641438,
@@ -252,8 +237,7 @@
         "D": "<p>Mark Zuckerberg</p>",
         "E": "<p>Steve Jobs</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641470,
@@ -268,8 +252,7 @@
         "D": "<p>Tekrar</p>\n<p> </p>",
         "E": "<p>Denge </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641471,
@@ -284,8 +267,7 @@
         "D": "<p>Görsel Algılama</p> ",
         "E": "<p>Seçimleyici Algılama</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641472,
@@ -300,8 +282,7 @@
         "D": "<p>Paralelleştirilen kurgu</p> ",
         "E": "<p>Bütüncül Kurgu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641473,
@@ -316,8 +297,7 @@
         "D": "<p>Leon Ng</p> ",
         "E": "<p>Alexander Fernandez</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641331,
@@ -332,8 +312,7 @@
         "D": "<p>yalnız ii, iii ve iv</p>",
         "E": "<p>i, ii, iii ve iv</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641332,
@@ -348,8 +327,7 @@
         "D": "<p>dijital/uygun</p>",
         "E": "<p>uygun/estetik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641333,
@@ -364,8 +342,7 @@
         "D": "<p>dijital ortamının</p>",
         "E": "<p>teknolojik aygıtların</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641335,
@@ -380,8 +357,7 @@
         "D": "<p>Algı kayması</p>",
         "E": "<p>Algı yanılsaması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641406,
@@ -396,8 +372,7 @@
         "D": "<p>Metaverse</p>",
         "E": "<p>Dijital evren</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641433,
@@ -412,8 +387,7 @@
         "D": "<p>Duyumsal Uyum ve Etkileri</p>",
         "E": "<p>Mutlak eşik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641436,
@@ -428,8 +402,7 @@
         "D": "<p>Nedensel Kurgu</p>",
         "E": "<p>Anlatı Kurgusu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641443,
@@ -444,8 +417,7 @@
         "D": "<p>Squid Game</p>",
         "E": "<p>Bridgerton</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641466,
@@ -460,8 +432,7 @@
         "D": "<p>B. Croce         </p>",
         "E": "<p>    N. Hartmann</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641467,
@@ -476,8 +447,7 @@
         "D": "<p>B. Croce       </p>",
         "E": "<p>      N. Hartmann</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641468,
@@ -492,8 +462,7 @@
         "D": "<p>    Zaman kavramı.              </p>",
         "E": "<p>           Mekan</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641475,
@@ -508,8 +477,7 @@
         "D": "<p>Mark Zuckerberg</p> ",
         "E": "<p>Alexander Fernandez</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641336,
@@ -524,8 +492,7 @@
         "D": "<p>Paralel Kurgu</p>",
         "E": "<p>Paralelleştirilen kurgu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641407,
@@ -540,8 +507,7 @@
         "D": "<p>Squid Game</p>",
         "E": "<p>Penrose Merdivenleri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641469,
@@ -556,8 +522,7 @@
         "D": "<p>Kant </p>",
         "E": "<p>G.W.F. Hegel</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641476,
@@ -572,8 +537,7 @@
         "D": "<p>Metaverse</p> ",
         "E": "<p>Web 3.0</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641330,
@@ -588,8 +552,7 @@
         "D": "<p>mutluluk</p>",
         "E": "<p>iyilik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641401,
@@ -604,8 +567,7 @@
         "D": "<p>Dijital kültür</p>",
         "E": "<p>Dijital kimlik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641432,
@@ -620,8 +582,7 @@
         "D": "<p>Hegel</p>",
         "E": "<p>Baumgarten</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641404,
@@ -636,7 +597,6 @@
         "D": "<p>Seçimleyici algılama</p>",
         "E": "<p>Duygusal algılama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     }
 ]

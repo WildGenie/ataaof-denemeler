@@ -12,8 +12,7 @@
         "D": "<p>Baskı </p>",
         "E": "<p>Dağıtım </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764266,
@@ -28,8 +27,7 @@
         "D": "<p>Forma </p>",
         "E": "<p>Mürekkep </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764267,
@@ -44,8 +42,7 @@
         "D": "<p>Baskı </p>",
         "E": "<p>Sayfa düzeni </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764268,
@@ -60,8 +57,7 @@
         "D": "<p>Görseller ve Metin </p>",
         "E": "<p>Uygulama </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764269,
@@ -76,8 +72,7 @@
         "D": "<p>Tipo baskı</p>",
         "E": "<p>Lazer baskı </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764270,
@@ -92,8 +87,7 @@
         "D": "<p>Ofset baskı</p>",
         "E": "<p>Serigrafi </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764271,
@@ -108,8 +102,7 @@
         "D": "<p>Serigrafi </p>",
         "E": "<p>Tifdruk baskı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764272,
@@ -124,8 +117,7 @@
         "D": "<p>Selefon kaplama </p>",
         "E": "<p>Sayfa düzeni </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764273,
@@ -140,8 +132,7 @@
         "D": "<p>Tüm tedarik zincirinin ve ilgili şirketlerin çevresel etkisini önemsememek </p>",
         "E": "<p>Tüm malzemelerin nereden temin edildiğini belirleyip, daha iyi alternatiflerin mevcut olup olmadığını tespit etmek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764274,
@@ -156,8 +147,7 @@
         "D": "<p>Eskizler </p>",
         "E": "<p>Kumaşlar </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764317,
@@ -172,8 +162,7 @@
         "D": "<p>Serigrafi </p>",
         "E": "<p>Dijital baskı   </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764318,
@@ -188,8 +177,7 @@
         "D": "<p>II, III ve V  </p>",
         "E": "<p>III, IV ve V </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764319,
@@ -204,8 +192,7 @@
         "D": "<p>Lak uygulaması</p>",
         "E": "<p>Özel kesim </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764320,
@@ -220,8 +207,7 @@
         "D": "<p>Yağ </p>",
         "E": "<p>Su </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764321,
@@ -236,8 +222,7 @@
         "D": "<p>Nükleer enerji kaynağı</p>",
         "E": "<p>Tehlikeli hava kirleticiler  </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764322,
@@ -252,8 +237,7 @@
         "D": "<p>Ticari malın üretiminde kullanılan toplam yağmur suyunu ifade eder.</p>",
         "E": "<p>Nüfus ile ilişkili olarak, kirlilik yükünün bertaraf edilmesi ya da azaltılması için kullanılan tatlı su miktarını ifade eder.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764323,
@@ -268,8 +252,7 @@
         "D": "<p>Rüzgar</p>",
         "E": "<p>Jeotermal </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764324,
@@ -284,8 +267,7 @@
         "D": "<p>Zorunlu durumlarda, kimyasallar içeren içerikleri havalandırma açısından dış mekanda kullanmak</p> ",
         "E": "<p>Solvent ve temizleyicilerin saklama ve depolama koşullarına, havalandırma sistemlerine dikkat etmek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764325,
@@ -300,8 +282,7 @@
         "D": "<p>Yaldız</p>",
         "E": "<p>Form</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764327,
@@ -316,7 +297,6 @@
         "D": "<p>Yapıştırıcı ve vernik atıkları</p>",
         "E": "<p>Banyo kimyasalları ve banyo suyu atıkları</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

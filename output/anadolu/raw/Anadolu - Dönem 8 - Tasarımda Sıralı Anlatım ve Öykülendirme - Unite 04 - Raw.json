@@ -12,8 +12,7 @@
         "D": "<p>John Nash</p>",
         "E": "<p>John McCarthy</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830896,
@@ -28,8 +27,7 @@
         "D": "<p>“Witcher</p>",
         "E": "<p>Mass Effect</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830897,
@@ -44,8 +42,7 @@
         "D": "<p>Anlatı</p>",
         "E": "<p>Makinima</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830898,
@@ -60,8 +57,7 @@
         "D": "                                                                    <p>Makinima</p>\n                                                            ",
         "E": "                                                                    <p>Kurgu</p>\n                                                            ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831043,
@@ -76,8 +72,7 @@
         "D": "<p>Kanon</p>",
         "E": "<p>Makinima</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831050,
@@ -92,8 +87,7 @@
         "D": "<p>Seslendirme, ses efektleri ve müzik ekleme </p>",
         "E": "<p>Markalarla işbirliği sağlama</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831054,
@@ -108,8 +102,7 @@
         "D": "<p>Tarihi kişiler</p>",
         "E": "<p>Hayali hikayeler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831056,
@@ -124,8 +117,7 @@
         "D": "<p>1980'ler</p>",
         "E": "<p>1990'lar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831057,
@@ -140,8 +132,7 @@
         "D": "<p>1990</p>",
         "E": "<p>2001</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831058,
@@ -156,8 +147,7 @@
         "D": "<p>Animasyon dizisi ve ticari ürünler ile  hayran kitlesini genişletmesi</p>",
         "E": "<p>Aceleye getirilmiş prodüksiyonun riskleri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3834588,
@@ -172,8 +162,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3838380,
@@ -188,8 +177,7 @@
         "D": "<p>Mass Effect</p>",
         "E": "<p>The Witcher</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839190,
@@ -204,7 +192,6 @@
         "D": "<p>Mass Effect</p>",
         "E": "<p>The Witcher</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     }
 ]

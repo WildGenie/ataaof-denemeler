@@ -12,8 +12,7 @@
         "D": "<p>Dumur</p>",
         "E": "<p>Durugörü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763912,
@@ -28,8 +27,7 @@
         "D": "<p>Gestapo</p>",
         "E": "<p>Gereichst</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763915,
@@ -44,8 +42,7 @@
         "D": "<p>Wertheimer</p>",
         "E": "<p>Worter</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763916,
@@ -60,8 +57,7 @@
         "D": "<p>Basitlik</p>",
         "E": "<p>Doğruluk</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763917,
@@ -76,8 +72,7 @@
         "D": "<p>Zemin</p>",
         "E": "<p>Şekil</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763918,
@@ -92,8 +87,7 @@
         "D": "<p>Açıklama</p>",
         "E": "<p>Reddetme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763919,
@@ -108,8 +102,7 @@
         "D": "<p>Renk</p>",
         "E": "<p>Kavram</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763920,
@@ -124,8 +117,7 @@
         "D": "<p>Çizgisel yapı</p>",
         "E": "<p>Kavramsal çerçeve</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763921,
@@ -140,8 +132,7 @@
         "D": "<p>Katışım</p>",
         "E": "<p>Dönüt</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763922,
@@ -156,8 +147,7 @@
         "D": "<p>Görme</p>",
         "E": "<p>Koklama</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763923,
@@ -172,8 +162,7 @@
         "D": "<p>Önünü görmek</p>",
         "E": "<p>Korkunç bir ses duymak</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763924,
@@ -188,8 +177,7 @@
         "D": "<p>Okuma ve anlama</p>",
         "E": "<p>Duyma ve anlama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763925,
@@ -204,8 +192,7 @@
         "D": "<p>Süreklilik</p>",
         "E": "<p>Basitlik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763926,
@@ -220,8 +207,7 @@
         "D": "<p>Yakınlık </p>",
         "E": "<p>Basitlik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763927,
@@ -236,8 +222,7 @@
         "D": "<p>Tamamlama</p>",
         "E": "<p>Süreklilik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763928,
@@ -252,8 +237,7 @@
         "D": "<p>Öğretmenin bilişsel düzeyi ve sınıftaki öğrenci sayısı</p>",
         "E": "<p>Sınıftaki öğrenci sayısı ve okulun olanakları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763929,
@@ -268,8 +252,7 @@
         "D": "<p>Daire grafik</p>",
         "E": "<p>Tablo</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763930,
@@ -284,8 +267,7 @@
         "D": "<p>Gerçeği yansıtmamaktadır.</p>",
         "E": "<p>Dengeli kullanılmıştır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763931,
@@ -300,8 +282,7 @@
         "D": "<p>Doğal dinamikler</p>",
         "E": "<p>Boyut</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763932,
@@ -316,7 +297,6 @@
         "D": "<p>Fotoğraf</p>",
         "E": "<p>İkon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

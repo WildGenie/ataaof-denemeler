@@ -12,8 +12,7 @@
         "D": "<p>Walter Lippmann</p>",
         "E": "<p>Bernard Shaw</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691144,
@@ -28,8 +27,7 @@
         "D": "<p>Özgereksinimcilik</p>",
         "E": "<p>Betimleyicilik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691149,
@@ -44,8 +42,7 @@
         "D": "<p>Gözlemci</p>",
         "E": "<p>Estetisyen</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691154,
@@ -60,8 +57,7 @@
         "D": "<p>Monet</p>",
         "E": "<p>Rembrandt</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691162,
@@ -76,8 +72,7 @@
         "D": "<p>Yapısalcı çevre</p>",
         "E": "<p>Doğal akış</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691176,
@@ -92,8 +87,7 @@
         "D": "<p>Corneliuscu-Platoncu</p>",
         "E": "<p>Andreacı-Da Vincici</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691189,
@@ -108,8 +102,7 @@
         "D": "<p>Optimizm</p>",
         "E": "<p>Yapısalcılık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839862,
@@ -124,8 +117,7 @@
         "D": "Bireysel ruhların özgür iradesi",
         "E": "Zıt elementlerin çatışması",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839884,
@@ -140,8 +132,7 @@
         "D": "Gotik katedral",
         "E": "Modern apartman",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839887,
@@ -156,8 +147,7 @@
         "D": "<p data-start=\"237\" data-end=\"624\" class=\"\">Teknolojinin çevreyle birlikte işleyen, etkileşimli bir yaşam alanı kurmak için araç hâline gelmesi</p>",
         "E": "<p data-start=\"237\" data-end=\"624\" class=\"\">İnsan merkezli bir anlayışın doğa karşısında yeniden yüceltilmesi</p> <p data-start=\"626\" data-end=\"745\" class=\"\"></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839888,
@@ -172,8 +162,7 @@
         "D": "<p data-start=\"260\" data-end=\"744\" class=\"\">Doğal olanın yerini, otonom teknolojilerin aldığı bir dünya algısının güçlenmesi</p>",
         "E": "<p data-start=\"260\" data-end=\"744\" class=\"\">Mimaride geçirgenlik, gözeneklilik ve çok katmanlılık gibi dokusal kavramların önem kazanması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839890,
@@ -188,8 +177,7 @@
         "D": "Mimari formun, dijital ortamda kendiliğinden gelişmesine olanak tanıyan yapay dinamiklerin araştırılması",
         "E": "<p data-start=\"240\" data-end=\"747\" class=\"\">Toplumsal eşitsizliklere karşı duyarlı, adalet temelli bir mimarlık anlayışını öncelemesi<br data-start=\"635\" data-end=\"638\" /><br /></p> <p data-start=\"749\" data-end=\"858\" class=\"\"></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839892,
@@ -204,8 +192,7 @@
         "D": "Yaşlı bakımı",
         "E": "Çocuk evleri sitesi",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3845554,
@@ -220,8 +207,7 @@
         "D": "Seyfi Arkan",
         "E": "Kalfa İstefan",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3845562,
@@ -236,8 +222,7 @@
         "D": "Kafa 1/9, ayak 1/6, göğüs genişliği 1/4",
         "E": "Kafa 1/10, ayak 1/6, göğüs genişliği 1/5",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3845570,
@@ -252,8 +237,7 @@
         "D": "Canlıların cansız şeylerden (örneğin makinelerden) farklı ilkelere, örneğin ‘canlı maddeye’, bir tür üretken güce ya da canlılara has bir organizasyon tarzına dayandıklarını öne süren bir açıklama desenidir",
         "E": "Aklı bilginin ana kaynağı olarak gören çeşitli anlayışlara işaret eder",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3845574,
@@ -268,8 +252,7 @@
         "D": "Optimizasyon",
         "E": "Post-hümanizm",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3845577,
@@ -284,8 +267,7 @@
         "D": "18. yüzyıl",
         "E": "20. yüzyıl",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3845580,
@@ -300,8 +282,7 @@
         "D": "Louis Sullivan",
         "E": "Hans Scharoun",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3845581,
@@ -316,8 +297,7 @@
         "D": "1940-1950",
         "E": "1960-1990",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691180,
@@ -332,8 +312,7 @@
         "D": "<p>Biçimci</p>",
         "E": "<p>Poetik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691194,
@@ -348,8 +327,7 @@
         "D": "<p>Humanizm</p>",
         "E": "<p>Kollektivizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839865,
@@ -364,8 +342,7 @@
         "D": "Mimarlığın yalnızca bireysel sanatçının duygusal ifadelerini yansıtması",
         "E": "İnsan bedeninin kozmosun minyatürü olarak kabul edilmesi",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839886,
@@ -380,8 +357,7 @@
         "D": "<p data-start=\"378\" data-end=\"582\" class=\"\">Postmodern dekoratif mimarlık</p>",
         "E": "<p data-start=\"378\" data-end=\"582\" class=\"\">Klasik simetrik mimarlık anlayışı</p> <p data-start=\"584\" data-end=\"652\" class=\"\"></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839894,
@@ -396,8 +372,7 @@
         "D": "Mekânın yalnızca hayvanlar için düzenlenmiş olması",
         "E": "İnsanların hayvanlarla etkileşime girmemesi ve yalnızca hayvanların ihtiyaçlarının ön planda tutulması",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3845542,
@@ -412,8 +387,7 @@
         "D": "Su",
         "E": "Ateş",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839885,
@@ -428,8 +402,7 @@
         "D": "Endüstriyel üretimi ön plana çıkarır",
         "E": "Mimariyi yaşayan beden gibi akışkan bir kabuk olarak düşünür",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3845559,
@@ -444,8 +417,7 @@
         "D": "Bir süreci olabilecek en verimli hâline getirmeye yönelik matematik ve mühendislik yöntemlerini",
         "E": "Daha iyi bir toplum üzerine hayal kurmayı",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3691182,
@@ -460,8 +432,7 @@
         "D": "<p>Da Vinci</p>",
         "E": "<p>Kant</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3845575,
@@ -476,7 +447,6 @@
         "D": "Postmodernizm",
         "E": "Post-hümanizm",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     }
 ]

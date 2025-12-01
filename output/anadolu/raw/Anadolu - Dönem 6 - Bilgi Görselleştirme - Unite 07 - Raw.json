@@ -12,8 +12,7 @@
         "D": "<p>1990'lar</p>",
         "E": "<p>2000'ler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763376,
@@ -28,8 +27,7 @@
         "D": "<p>5</p>",
         "E": "<p>10</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763377,
@@ -44,8 +42,7 @@
         "D": "<p>iş ve ekonomi haberleri</p>",
         "E": "<p>Kültür ve spor</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763378,
@@ -60,8 +57,7 @@
         "D": "<p>Veri hikayesi</p>",
         "E": "<p>Veri grafiği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763379,
@@ -76,8 +72,7 @@
         "D": "<p>Paule Scher</p>",
         "E": "<p>Stefan Sagmeister</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763380,
@@ -92,8 +87,7 @@
         "D": "<p class=\"p2\">Adolfo Arranz</p>",
         "E": "<p class=\"p2\">Mona Chalabi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763381,
@@ -108,8 +102,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>I, II, III ve IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763382,
@@ -124,8 +117,7 @@
         "D": "<p>typography</p>",
         "E": "<p>infography</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763383,
@@ -140,8 +132,7 @@
         "D": "<p class=\"p2\">Okuyucunun özgüveni ve becerileri</p>",
         "E": "<p>Okuyucunun cinsiyeti ve medeni durumu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763384,
@@ -156,8 +147,7 @@
         "D": "<p>“veri görselleştirme\" ve “kültür-sanat” </p>",
         "E": "<p>“önce masaüstü” ve “son dakika” </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763610,
@@ -172,8 +162,7 @@
         "D": "<p>1980'lerde</p>",
         "E": "<p>1990'larda</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763617,
@@ -188,8 +177,7 @@
         "D": "<p>Bilim</p>",
         "E": "<p>Kültür, spor, eğitim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763623,
@@ -204,8 +192,7 @@
         "D": "<p>Piktogram</p>",
         "E": "<p>Çizgi grafikler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763626,
@@ -220,8 +207,7 @@
         "D": "<p>Zaman</p>",
         "E": "<p>Duygular</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763629,
@@ -236,8 +222,7 @@
         "D": "<p>Zaman eksikliği</p>",
         "E": "<p>Eleştirel düşünme eksikliği</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763633,
@@ -252,8 +237,7 @@
         "D": "<p>Statik görsel paylaşımının kolaylığı</p>",
         "E": "<p>Artan maliyetler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763638,
@@ -268,8 +252,7 @@
         "D": "<p>Yüzde 3'ten az</p>",
         "E": "<p>Yüzde 1'den az</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763639,
@@ -284,8 +267,7 @@
         "D": "<p>Akış Şeması</p>",
         "E": "<p>Harita</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763640,
@@ -300,8 +282,7 @@
         "D": "<p>Haberin görselleştirilmesi aşamasında hata yapılabilmesi.</p>",
         "E": "<p>Özellikle sosyal medyada haberin üzerinde değişiklik yapılarak çarpıtılabilmesi.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763642,
@@ -316,7 +297,6 @@
         "D": "<p>Veriyi görselleştirmelerinde yeni yazılım araçlarının yaygınlaşmasıyla özgün veri görselleştirme çalışmalarının kullanımını azalmasıdır.</p>",
         "E": "<p>Okuyucuların haberde sunulan görselleştirmeyi anlayacak görsel okuryazarlığa, sahip olmadıklarını düşünülmesidir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

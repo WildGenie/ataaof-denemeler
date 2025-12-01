@@ -12,8 +12,7 @@
         "D": "<p>Bütünlük ilkesi</p>",
         "E": "<p>Yönlendirme ilkesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830653,
@@ -28,8 +27,7 @@
         "D": "<p>Figüratif Biçimler</p>",
         "E": "<p>Gerçekçi Biçimler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830654,
@@ -44,8 +42,7 @@
         "D": "<p>Sarı</p>",
         "E": "<p>Beyaz</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830655,
@@ -60,8 +57,7 @@
         "D": "<p>Figüratif Biçimler</p>",
         "E": "<p>Gerçekçi Biçimler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830657,
@@ -76,8 +72,7 @@
         "D": "<p>CPU</p>",
         "E": "<p>NLP</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830658,
@@ -92,8 +87,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830661,
@@ -108,8 +102,7 @@
         "D": "<p>DALL-E 3</p>",
         "E": "<p>Maya</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830662,
@@ -124,8 +117,7 @@
         "D": "<p>Canva</p>",
         "E": "<p>DALL-E 3</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830666,
@@ -140,8 +132,7 @@
         "D": "<p>ChatGPT</p>",
         "E": "<p>NLP</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830670,
@@ -156,7 +147,6 @@
         "D": "<p>Adobe Firefly</p>",
         "E": "<p>dobe Sensei</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

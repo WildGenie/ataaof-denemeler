@@ -12,8 +12,7 @@
         "D": "<p>Zekâ</p>",
         "E": "<p>Kültür yaratma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763645,
@@ -28,8 +27,7 @@
         "D": "<p>Karmaşık olmayan işlere ilgi duyma</p>",
         "E": "<p>Dıla dönük olma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763646,
@@ -44,8 +42,7 @@
         "D": "<p>fikrin doğması, kuluçka, hazırlık, fikrin geliştirilmesi</p>",
         "E": "<p>hazırlık, araştırma, fikrin doğması, fikrin uygulanması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763647,
@@ -60,8 +57,7 @@
         "D": "<p>Walles</p>",
         "E": "<p>Parnes</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763648,
@@ -76,8 +72,7 @@
         "D": "<p>Yersiz eleştiri</p>",
         "E": "<p>Kararsızlık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763649,
@@ -92,8 +87,7 @@
         "D": "<p>Ahlâki değerler</p>",
         "E": "<p>Ciddilik tutkusu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763650,
@@ -108,8 +102,7 @@
         "D": "<p>fikrin doğması</p>",
         "E": "<p>yaratıcı süreç</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763651,
@@ -124,8 +117,7 @@
         "D": "<p>fikrin doğması</p>",
         "E": "<p>fikrin geliştirilmesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763652,
@@ -140,8 +132,7 @@
         "D": "<p>somutlaştırıcı</p>",
         "E": "<p>maddi gövdesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763653,
@@ -156,8 +147,7 @@
         "D": "<p>Düşünerek Uygulama Tekniği</p>",
         "E": "<p>Düşünerek Betimleme Tekniği</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763933,
@@ -172,8 +162,7 @@
         "D": "<p>I-II-IV</p>",
         "E": "<p>II-III-IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763934,
@@ -188,8 +177,7 @@
         "D": "<p>Ürün</p>",
         "E": "<p>Cinsiyet</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763935,
@@ -204,8 +192,7 @@
         "D": "<p>Fikir geliştirme, çözüm üretme</p>",
         "E": "<p>Problemin ne olduğunu ortaya koyma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763936,
@@ -220,8 +207,7 @@
         "D": "<p>Cesaretsizlik</p>",
         "E": "<p>Bağımlılık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763937,
@@ -236,8 +222,7 @@
         "D": "<p>Fikrin doğması evresi</p>",
         "E": "<p>Hazırlık evresi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763938,
@@ -252,8 +237,7 @@
         "D": "<p>Yaratıcılık </p>",
         "E": "<p>Yaratıcı edim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763939,
@@ -268,8 +252,7 @@
         "D": "<p>Sorun Tanımlama</p>",
         "E": "<p>Alternatifleri Seçip Görselleştirme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763940,
@@ -284,8 +267,7 @@
         "D": "<p>Doğrudan Analoji Tekniği</p>",
         "E": "<p>Eleştirel Düşünme Tekniği </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763941,
@@ -300,8 +282,7 @@
         "D": "<p>Sanatsal yaratım </p>",
         "E": "<p>Eleştirel düşünme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763942,
@@ -316,7 +297,6 @@
         "D": "<p>II, III, IV, V</p>",
         "E": "<p>II, III, IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

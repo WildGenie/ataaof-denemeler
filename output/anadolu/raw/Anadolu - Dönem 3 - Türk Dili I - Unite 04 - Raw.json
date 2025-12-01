@@ -12,8 +12,7 @@
         "D": "<p>Sınıfça</p>",
         "E": "<p>Sınıfın</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892110,
@@ -28,8 +27,7 @@
         "D": "<p>arzu</p>",
         "E": "<p>jilet</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892144,
@@ -44,8 +42,7 @@
         "D": "<p>Taban</p>",
         "E": "<p>Eklenme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892161,
@@ -60,8 +57,7 @@
         "D": "<p>Aktarma</p>",
         "E": "<p>Argo</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892187,
@@ -76,8 +72,7 @@
         "D": "zamir ve zarf",
         "E": "edat ve zarf",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892190,
@@ -92,8 +87,7 @@
         "D": "<p>Dönüşlülük eki kullanılmıştır.</p>",
         "E": "<p>İşteşlik eki kullanılmıştır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892204,
@@ -108,8 +102,7 @@
         "D": "Eklenme",
         "E": "Sesteş",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892212,
@@ -124,8 +117,7 @@
         "D": "Soru ekleri, çoğul eklerinden önce gelir.",
         "E": "Adları diğer sözcüklere değişik anlam ilişkileri çerçevesinde bağlar.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892214,
@@ -140,8 +132,7 @@
         "D": "Arabayla",
         "E": "Arabanın",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892220,
@@ -156,8 +147,7 @@
         "D": "Oynayamaz .",
         "E": "Yüzebilirim.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892226,
@@ -172,8 +162,7 @@
         "D": "Parmağı kırıldı",
         "E": "Tabak kırıldı",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892239,
@@ -188,8 +177,7 @@
         "D": "Her sene aynı yerde buluşmak için sözleştiler.",
         "E": "Kardeşler babalarından kalan mirası eşit şekilde paylaştı.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892252,
@@ -204,8 +192,7 @@
         "D": "<p>Eylemden ad yapma eki</p>",
         "E": "<p>Eylemden eylem yapma eki</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892264,
@@ -220,8 +207,7 @@
         "D": "<p>Yeterlik eki</p> ",
         "E": "<p>Çoğul ekleri</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892286,
@@ -236,8 +222,7 @@
         "D": "<p>Bağımlı biçim birimler de görevlerini bağımsız biçim birimler gibi tek başlarına yerine getirebilirler.</p>",
         "E": "<p>Bağımsız biçim birimler kök olarak da adlandırılır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892298,
@@ -252,8 +237,7 @@
         "D": "<p>Sabah erkenden kalkıp yürüyüş yapmak gibisi var mı?</p>",
         "E": "<p>Eve gelir gelmez ilk yaptığı şey sıcacık bir kahveydi.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892316,
@@ -268,8 +252,7 @@
         "D": "<p>Gözlük</p>",
         "E": "<p>Altmış</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892327,
@@ -284,8 +267,7 @@
         "D": "<p>sevdikçe </p>",
         "E": "<p>bilerek </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892343,
@@ -300,8 +282,7 @@
         "D": "<p>sahibi</p>",
         "E": "<p>çantası</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892346,
@@ -316,8 +297,7 @@
         "D": "<p>telefon</p>",
         "E": "<p>arge</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892086,
@@ -332,8 +312,7 @@
         "D": "<p>Ad soylu sözcüklerin yüklem olarak kullanılmasını, eylem cümlelerinde ise birleşik çekimleri sağlayan eklerdir.</p>",
         "E": "<p>Adlardan zamir ve sıfat türünde adlar yapan, bağlılık, içinde bulunma, aitlik anlamları taşıyan bir ektir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892087,
@@ -348,8 +327,7 @@
         "D": "<p>Ağlayan (nar)</p>",
         "E": "<p>Tanıdık (adam)</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892121,
@@ -364,8 +342,7 @@
         "D": "<p>Çağrıştırma anlamı</p>",
         "E": "<p>Yerlileştirme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892131,
@@ -380,8 +357,7 @@
         "D": "<p>Göz-lük-çü-lü-k</p>",
         "E": "<p>Gözlük-çü-lü-k </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892135,
@@ -396,8 +372,7 @@
         "D": "<p>Yıllar süren <u>deneyler</u>, şaşırtıcı sonuçlar verdi.</p>",
         "E": "<p>Küçükken, dedemin her şeyi <u>bildiğini </u>sanırdım.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892148,
@@ -412,8 +387,7 @@
         "D": "<p>iyimser</p>",
         "E": "<p>karanlık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892168,
@@ -428,8 +402,7 @@
         "D": "<p>Ettirgen çatı</p>",
         "E": "<p>Olumsuzluk çatısı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892176,
@@ -444,8 +417,7 @@
         "D": "kodak",
         "E": "google",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892186,
@@ -460,8 +432,7 @@
         "D": "4 ve 5",
         "E": "Yalnız 5",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892201,
@@ -476,8 +447,7 @@
         "D": "İstek kipi",
         "E": "Geniş/şimdiki zaman",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892206,
@@ -492,8 +462,7 @@
         "D": "Saklambaç",
         "E": "Gürültü",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892217,
@@ -508,8 +477,7 @@
         "D": "Argo",
         "E": "Çok anlamlı",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892221,
@@ -524,8 +492,7 @@
         "D": "Kök",
         "E": "Biçim",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892254,
@@ -540,8 +507,7 @@
         "D": "<p>Gezegen</p>",
         "E": "<p>Sulak</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892258,
@@ -556,8 +522,7 @@
         "D": "<p>Yıkanmak</p>",
         "E": "<p>Biliş</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892277,
@@ -572,8 +537,7 @@
         "D": "<p>-ay</p>",
         "E": "<p>-at</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892295,
@@ -588,8 +552,7 @@
         "D": "<p>Aslan</p>",
         "E": "<p>gergin</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892323,
@@ -604,8 +567,7 @@
         "D": "<p>gezinmek </p>",
         "E": "<p>uyanmak </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892350,
@@ -620,8 +582,7 @@
         "D": "<p>Yan anlam</p>",
         "E": "<p>Yakın anlam</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893477,
@@ -636,8 +597,7 @@
         "D": "<p>Bu bıçkının dişleri iyice aşındığı için yenisini almalısın.</p>",
         "E": "<p>Bu başakların dişleri bir dolsun sen o zaman gör şenliği.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892118,
@@ -652,8 +612,7 @@
         "D": "<p>Edilgen çatı</p>",
         "E": "<p>Dönüşlü çatı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892120,
@@ -668,8 +627,7 @@
         "D": "<p>I, III, V ve VI</p>",
         "E": "<p>I, II, III, IV, V ve VI</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892132,
@@ -684,8 +642,7 @@
         "D": "<p>AB'ye giriş başvurusunun üzerinden on beş sene geçti. </p>",
         "E": "<p>Çarpışmaktan on beş santimle kurtulduk. </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892149,
@@ -700,8 +657,7 @@
         "D": "<p>büyüteç</p>",
         "E": "<p>çizelge</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892155,
@@ -716,8 +672,7 @@
         "D": "<p>Sıradan</p>",
         "E": "<p>Gelecek</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892158,
@@ -732,8 +687,7 @@
         "D": "<p>Santim</p>",
         "E": "<p>Futbol</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892184,
@@ -748,8 +702,7 @@
         "D": "koşu",
         "E": "dansçı",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892233,
@@ -764,8 +717,7 @@
         "D": "Çekim ekleri eklendiği sözcüğün anlamını değiştirirken; yapım ekleri anlam üzerinde etkili olmazlar.",
         "E": "Çekim ekleri sadece ad soylu kelimelere eklenirken; yapım eklerinde böyle bir sınırlandırma söz konusu değildir.",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892234,
@@ -780,8 +732,7 @@
         "D": "Türetme, Genelleşme, Ayırma",
         "E": "Ters türetme, Kasıtlı yaratma, Derleme",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892236,
@@ -796,8 +747,7 @@
         "D": "V - IV",
         "E": "I",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892251,
@@ -812,8 +762,7 @@
         "D": "<p>Eklenme</p>",
         "E": "<p>Yapım eki</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892259,
@@ -828,8 +777,7 @@
         "D": "<p>Ters Türetme</p>",
         "E": "<p>Kopyalama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892271,
@@ -844,8 +792,7 @@
         "D": "<p>Eylemden Ad Yapma Ekleri</p>",
         "E": "<p>Eylemden Eylem Yapma Ekleri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892306,
@@ -860,8 +807,7 @@
         "D": "<p>çekingen</p>",
         "E": "<p>tükenmez</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892313,
@@ -876,8 +822,7 @@
         "D": "<p>Gelinlik</p>",
         "E": "<p>Merdiven</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892345,
@@ -892,8 +837,7 @@
         "D": "<p>lazer</p>",
         "E": "<p>çim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892084,
@@ -908,8 +852,7 @@
         "D": "<p>Gözlükçülük</p>",
         "E": "<p>Gözcülük</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892090,
@@ -924,8 +867,7 @@
         "D": "<p>kışla, uçarı, türeme, evcil</p>",
         "E": "<p>sevecen, azımsamak, yoldaş, akşamleyin</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892108,
@@ -940,8 +882,7 @@
         "D": "<p>uygar</p>",
         "E": "<p>motel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892119,
@@ -956,8 +897,7 @@
         "D": "<p>Kişi eki</p>",
         "E": "<p>Durum eki</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892122,
@@ -972,8 +912,7 @@
         "D": "<p>Zamirler</p>",
         "E": "<p>Bağlaçlar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892139,
@@ -988,8 +927,7 @@
         "D": "<p>Kız çocuğunun geleceğinden kuşkulu mu?</p> ",
         "E": "<p>Ev temizliğinde bana yardım eder misiniz?</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892153,
@@ -1004,8 +942,7 @@
         "D": "<p>Eşitlik durumu-evce</p>",
         "E": "<p>Yalın durum-ev</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892194,
@@ -1020,8 +957,7 @@
         "D": "Ağaçtan",
         "E": "Okul",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892195,
@@ -1036,8 +972,7 @@
         "D": "Fotoğraf",
         "E": "Berber",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892213,
@@ -1052,8 +987,7 @@
         "D": "İstanbul’u",
         "E": "İstanbul’la",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892215,
@@ -1068,8 +1002,7 @@
         "D": "Adaydık",
         "E": "Adaysak",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892232,
@@ -1084,8 +1017,7 @@
         "D": "Olumsuzluk çatısı",
         "E": "Sıklık çatısı",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892240,
@@ -1100,8 +1032,7 @@
         "D": "Sözcüğün tek başına cümle kuramadığını ancak birleştiği diğer sözcüklerle anlamlı birimler oluşturduğunu ifade eder.",
         "E": "Sözcüğün cümle ifade etmesi için başına veya sonuna aldıkları eklerle desteklenmesi gerektiğini ifade eder.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892262,
@@ -1116,8 +1047,7 @@
         "D": "<p>Edilgen &ccedil;atı</p>",
         "E": "<p>Ettirgen &ccedil;atı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892304,
@@ -1132,8 +1062,7 @@
         "D": "<p>Ek</p>",
         "E": "<p>Eklenme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892307,
@@ -1148,8 +1077,7 @@
         "D": "<p>düşünce</p>",
         "E": "<p>açılmak</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892309,
@@ -1164,8 +1092,7 @@
         "D": "<p>Çıkarmak</p>",
         "E": "<p>Sürüklemek</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892336,
@@ -1180,8 +1107,7 @@
         "D": "<p>İşteş çatılar</p>",
         "E": "<p>Ettirgen çatılar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892088,
@@ -1196,8 +1122,7 @@
         "D": "<p>evrenselli</p>",
         "E": "<p>evrensellik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892103,
@@ -1212,8 +1137,7 @@
         "D": "<p>ev, kızla, genç, bir, dün, geldi</p>",
         "E": "<p>geldi, ev, kız, genç, dün, bir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892180,
@@ -1228,8 +1152,7 @@
         "D": "yoldaki",
         "E": "eki",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892193,
@@ -1244,8 +1167,7 @@
         "D": "Sevilmek",
         "E": "Sevinmek",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892200,
@@ -1260,8 +1182,7 @@
         "D": "Okullu",
         "E": "Okulla",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892224,
@@ -1276,8 +1197,7 @@
         "D": "Çoğul ekleri",
         "E": "Ek eylemler",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892245,
@@ -1292,8 +1212,7 @@
         "D": "g",
         "E": "y",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892284,
@@ -1308,8 +1227,7 @@
         "D": "<p>söz-cük birim-i</p>",
         "E": "<p>söz-cük bir-im-i</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892291,
@@ -1324,8 +1242,7 @@
         "D": "<p>bes-le-n-mek</p>",
         "E": "<p>görüş-tür-mek</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892294,
@@ -1340,8 +1257,7 @@
         "D": "<p>edat</p>",
         "E": "<p>bağlaç</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892339,
@@ -1356,8 +1272,7 @@
         "D": "<p>Beş</p>",
         "E": "<p>Altı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893482,
@@ -1372,8 +1287,7 @@
         "D": "<p>açık</p>",
         "E": "<p>kulak</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892091,
@@ -1388,8 +1302,7 @@
         "D": "<p>Almanyadaki arkadaşıyla sık sık mektuplaştı.</p>",
         "E": "<p>Soruyu ablasına çözdürdü.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892093,
@@ -1404,8 +1317,7 @@
         "D": "<p>kelime bilgisi</p>",
         "E": "<p>biçim bilim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892096,
@@ -1420,8 +1332,7 @@
         "D": "<p>karanlık</p>",
         "E": "<p>ulusal</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892125,
@@ -1436,8 +1347,7 @@
         "D": "<p>Çok yorulunca şöyle bir gerindi. </p>",
         "E": "<p>Söylediklerime çok alındı. </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892136,
@@ -1452,8 +1362,7 @@
         "D": "<p>Kasabanın <u>bataklığı </u>çok tehlikeli.</p>",
         "E": "<p>Yaz tatili <u>eğlenceli </u>günlerle geçti.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892154,
@@ -1468,8 +1377,7 @@
         "D": "<p>Satılmak</p>",
         "E": "<p>Öpüşmek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892208,
@@ -1484,8 +1392,7 @@
         "D": "Olumsuzluk-geçmiş zaman-2. çoğul kişi-soru",
         "E": "Olumsuzluk-3. çoğul kişi-geçmiş zaman-soru",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892260,
@@ -1500,8 +1407,7 @@
         "D": "<p>Aktarma: Sözcüğün dile getirdiği kavramla, bir başka kavram arasında çoğu kez benzetme yoluyla bir ilişki kurarak sözcüğün anlamını o kavrama aktarma olayıdır.</p>",
         "E": "<p>Argo: Hırsızlar, kabadayılar gibi yasadışı veya düşük sosyoekonomik statü gruplarının anlaşma ve iletişim aracı olarak kullandığı özel sözcük ve deyimlerdir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892283,
@@ -1516,8 +1422,7 @@
         "D": "<p>ödül</p>",
         "E": "<p>aymak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892287,
@@ -1532,8 +1437,7 @@
         "D": "<p>Bağımsız biçim birim</p>",
         "E": "<p>Taban</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892288,
@@ -1548,8 +1452,7 @@
         "D": "<p>Türkçenin ekleri genellikle tek hecelidir.</p>",
         "E": "<p>Kök ve gövdeler, birçok örnekte hem ad hem de eylem olabilmektedir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892301,
@@ -1564,8 +1467,7 @@
         "D": "<p>Saatlerce halleştiler.</p>",
         "E": "<p>Duvarlar nihayet istediğim renge boyandı.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892308,
@@ -1580,8 +1482,7 @@
         "D": "<p>yadırgamak</p>",
         "E": "<p>yıkanmak</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892349,
@@ -1596,8 +1497,7 @@
         "D": "<p>Yok daha neler!</p>",
         "E": "<p>Yemeğini yemeden gelme.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892089,
@@ -1612,8 +1512,7 @@
         "D": "<p>çocuklar, eve, git</p>",
         "E": "<p>çocuk, ev, gitti</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892156,
@@ -1628,8 +1527,7 @@
         "D": "<p>Yemek yapabilir</p>",
         "E": "<p>Koşarak gitmek</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892172,
@@ -1644,8 +1542,7 @@
         "D": "<p>Aktarma</p>",
         "E": "<p>Mecaz anlam</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892211,
@@ -1660,8 +1557,7 @@
         "D": "<p>Karma</p>",
         "E": "<p>Kasıtlı yaratma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892218,
@@ -1676,8 +1572,7 @@
         "D": "Zarf",
         "E": "Edat",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892230,
@@ -1692,8 +1587,7 @@
         "D": "Yapım Eki olmaları",
         "E": "Addan Eylem Yapım Eki olmaları",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892297,
@@ -1708,8 +1602,7 @@
         "D": "<p>Sevince</p>",
         "E": "<p>Yakacak</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892299,
@@ -1724,8 +1617,7 @@
         "D": "<p>Şimdi geldiğin <span style=\"text-decoration: underline;\">gibi</span> git.</p>",
         "E": "<p>Sevdiği kızın evinin bahçesine <span style=\"text-decoration: underline;\">karşı</span> oturup dikkatlice onu seyretti.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892312,
@@ -1740,8 +1632,7 @@
         "D": "<p>ödül</p>",
         "E": "<p>ürün</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892334,
@@ -1756,8 +1647,7 @@
         "D": "<p>Ön ekler</p>",
         "E": "<p>İç ekler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892100,
@@ -1772,8 +1662,7 @@
         "D": "<p>İşteş çatı</p>",
         "E": "<p>Olumsuzluk çatısı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892102,
@@ -1788,8 +1677,7 @@
         "D": "<p>Taban</p>",
         "E": "<p>Ek</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892134,
@@ -1804,8 +1692,7 @@
         "D": "<p><strong>Bilgi-siz </strong>insanlarla uğraşmak çok zor.</p>",
         "E": "<p><strong>Yaş-a-ma-k</strong>, zorluklara karşın güzel.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892165,
@@ -1820,8 +1707,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892179,
@@ -1836,8 +1722,7 @@
         "D": "ODTÜ (Orta Doğu Tekni\u001dk Ün\u001diversi\u001dtesi)",
         "E": "ANÜ (Anadolu Üniversitesi)",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892235,
@@ -1852,8 +1737,7 @@
         "D": "Kitabı bulamadım.",
         "E": "Seni göremedim.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892242,
@@ -1868,8 +1752,7 @@
         "D": "Geniz ünsüzleri",
         "E": "Ön damak ünsüzleri ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892266,
@@ -1884,8 +1767,7 @@
         "D": "<p>Ünlemler</p>",
         "E": "<p>Zamirler</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892290,
@@ -1900,8 +1782,7 @@
         "D": "<p>İki ettirgen çatı üst üste gelerek çift geçişli eylemler kurabilir. </p>",
         "E": "<p>Öznenin belirsiz olması nedeniyle edilgen eylemlerde yalnızca üçüncü kişiler söz konusu olabilir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892318,
@@ -1916,8 +1797,7 @@
         "D": "<p>Derleme</p>",
         "E": "<p>Tarama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892324,
@@ -1932,8 +1812,7 @@
         "D": "<p>burkmak </p>",
         "E": "<p>koymak </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892341,
@@ -1948,8 +1827,7 @@
         "D": "<p>İnsanlar tokalaştı.</p>",
         "E": "<p>Roket fırlatıldı.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892095,
@@ -1964,8 +1842,7 @@
         "D": "<p>Taban</p>",
         "E": "<p>Kök</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892117,
@@ -1980,8 +1857,7 @@
         "D": "<p>ünlem - bağlaç - ünlem</p>",
         "E": "<p>ünlem - zarf - edat</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892140,
@@ -1996,8 +1872,7 @@
         "D": "<p>Yazıcıdan bilgisayar çıktılarını aldım.</p> ",
         "E": "<p>Kuruluşun, arge çalışmalarını hızlandırmalıyız.</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892150,
@@ -2012,8 +1887,7 @@
         "D": "<p>Eylemden Eylem Yapma Ekleri</p>",
         "E": "<p>İşlek Ekler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892178,
@@ -2028,8 +1902,7 @@
         "D": "Soyut anlam",
         "E": "Dış anlam",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892237,
@@ -2044,8 +1917,7 @@
         "D": "Derleme",
         "E": "Ayrıştırma",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892246,
@@ -2060,8 +1932,7 @@
         "D": "Yazımın etkisi",
         "E": "Sesleri oluşturan organların varlığı",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892269,
@@ -2076,8 +1947,7 @@
         "D": "<p>Ek </p>",
         "E": "<p>Yapım Eki</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892275,
@@ -2092,8 +1962,7 @@
         "D": "<p>-(I)mIz</p>",
         "E": "<p>-ler, lar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892278,
@@ -2108,8 +1977,7 @@
         "D": "<p>dönüşlü</p>",
         "E": "<p>edilgen</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892292,
@@ -2124,8 +1992,7 @@
         "D": "<p>ayılmak</p>",
         "E": "<p>bayan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892342,
@@ -2140,8 +2007,7 @@
         "D": "<p>yemek</p>",
         "E": "<p>sula</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892127,
@@ -2156,8 +2022,7 @@
         "D": "<p>Örnekseme</p>",
         "E": "<p>Kısaltma</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892133,
@@ -2172,8 +2037,7 @@
         "D": "<p>Dün geceki kavgada, yandaki evde oturan adamı <strong>su-ç-la-dı-lar</strong>.</p>",
         "E": "<p>Konser, öylesine gürültülüydü ki <strong>kulak-lar-ı-mız-ın </strong>zarı patladı.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892157,
@@ -2188,8 +2052,7 @@
         "D": "<p>Okul</p>",
         "E": "<p>İmge</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892177,
@@ -2204,8 +2067,7 @@
         "D": "Küçük anlamlı kelimelere denir.",
         "E": "Bir sözcük türüne ait biçimler topluluğudur.",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892203,
@@ -2220,8 +2082,7 @@
         "D": "Gelinlik",
         "E": "Fakülte",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892281,
@@ -2236,8 +2097,7 @@
         "D": "<p>çağrıştırma anlamlı</p>",
         "E": "<p>karşıt anlamlı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892303,
@@ -2252,8 +2112,7 @@
         "D": "<p>şekil bilgisi</p>",
         "E": "<p>yapı bilgisi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892311,
@@ -2268,8 +2127,7 @@
         "D": "<p>yakacak</p>",
         "E": "<p>motel</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892332,
@@ -2284,8 +2142,7 @@
         "D": "<p>Taban</p>",
         "E": "<p>Kök</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892335,
@@ -2300,8 +2157,7 @@
         "D": "<p>Addan ad yapma ekleri</p>",
         "E": "<p>Eylemden zarf yapma ekleri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892170,
@@ -2316,8 +2172,7 @@
         "D": "<p>Parası-Birinci tekil kişi</p>",
         "E": "<p>Yurdumuz-Birinci çoğul kişi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892182,
@@ -2332,8 +2187,7 @@
         "D": "En az iki ögeden oluşan kök birimlerdir.",
         "E": "Herhangi bir sözcük türüne girmeyen bağımlı birimlerdir.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892197,
@@ -2348,8 +2202,7 @@
         "D": "Gece-lik",
         "E": "Od-un",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892198,
@@ -2364,8 +2217,7 @@
         "D": "Öğretmen",
         "E": "Bilge",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892209,
@@ -2380,8 +2232,7 @@
         "D": "Kapısız",
         "E": "Kapıyı",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892272,
@@ -2396,8 +2247,7 @@
         "D": "<p>Dizinler</p>",
         "E": "<p>Eylemsiler </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892273,
@@ -2412,8 +2262,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892274,
@@ -2428,8 +2277,7 @@
         "D": "<p>Çekim Ekleri</p>",
         "E": "<p>Sıfatlar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892282,
@@ -2444,8 +2292,7 @@
         "D": "<p>zarflar</p>",
         "E": "<p>edatlar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892326,
@@ -2460,8 +2307,7 @@
         "D": "<p>tanıdık kişi </p>",
         "E": "<p>tükenmez kalem </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892333,
@@ -2476,8 +2322,7 @@
         "D": "<p>Gövde</p>",
         "E": "<p>Çekim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892083,
@@ -2492,8 +2337,7 @@
         "D": "<p>Eklenme</p>",
         "E": "<p>Ek</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892098,
@@ -2508,8 +2352,7 @@
         "D": "<p>çekingen</p>",
         "E": "<p>yaramaz</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892124,
@@ -2524,8 +2367,7 @@
         "D": "<p>Karanlıktan göz gözü görmüyor. </p>",
         "E": "<p>Tabaklar çekmecenin en alt gözünde mi?</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892164,
@@ -2540,8 +2382,7 @@
         "D": "<p>Gövde</p>",
         "E": "<p>Eklenme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892191,
@@ -2556,8 +2397,7 @@
         "D": "Çoğal",
         "E": "İllegal",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892222,
@@ -2572,8 +2412,7 @@
         "D": "Ad soylu sözcüklerin yüklem olarak kullanılmasını, eylem cümlelerinde ise birleşik çekimler sağlayan sözcüklerin yapım aşamasıdır.",
         "E": "Herhangi bir sözcük türüne dâhil olmayan, yan eylem, ad (isim), sıfat, zarf vb. sözcük türlerinden birine girmeyen bağımlı biçim birimlerinin oluşturulma sürecidir.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892228,
@@ -2588,8 +2427,7 @@
         "D": "Taban",
         "E": "Eklenme",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892257,
@@ -2604,8 +2442,7 @@
         "D": "<p>&Ccedil;oğul ekleri</p>",
         "E": "<p>Soru ekleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892289,
@@ -2620,8 +2457,7 @@
         "D": "<p>Tarihî dönemlerdeki kimi biçim birimler dil bilgisel işlevlerini yitirerek bugüne ulaşmıştır. Bu tür biçim birimlere verilen addır.</p>",
         "E": "<p>Türetim, bir ekle yeni sözcük yapımı iken çekim, daha çok bir sözcüğün farklı biçimlerini ifade eder.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892296,
@@ -2636,8 +2472,7 @@
         "D": "<p>Gözlük</p>",
         "E": "<p>Evsiz</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892302,
@@ -2652,8 +2487,7 @@
         "D": "<p>Müzik dersiyle ilgili öğretmeninin dediklerini unutmamıştı.</p>",
         "E": "<p>Seni görüyordu ama görmezlikten geliyordu.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892305,
@@ -2668,8 +2502,7 @@
         "D": "<p>basamak</p>",
         "E": "<p>yıkandım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892104,
@@ -2684,8 +2517,7 @@
         "D": "<p>Gövde</p>",
         "E": "<p>Sözcük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892152,
@@ -2700,8 +2532,7 @@
         "D": "<p>uyuyamıyor</p>",
         "E": "<p>yemeden</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892175,
@@ -2716,8 +2547,7 @@
         "D": "İyi-kötü",
         "E": "güzel-çirkin",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892225,
@@ -2732,8 +2562,7 @@
         "D": "Görev",
         "E": "Anlam",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892268,
@@ -2748,8 +2577,7 @@
         "D": "<p>Yüklem</p>",
         "E": "<p>Özne</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892320,
@@ -2764,8 +2592,7 @@
         "D": "<p>kızarma</p>",
         "E": "<p>dışarı </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892331,
@@ -2780,8 +2607,7 @@
         "D": "<p>Kök</p>",
         "E": "<p>Eklenme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892094,
@@ -2796,8 +2622,7 @@
         "D": "<p>taban</p>",
         "E": "<p>çekim eki</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892137,
@@ -2812,8 +2637,7 @@
         "D": "<p>bulunma-ayrılma-belirtme</p>",
         "E": "<p>ayılma-belirtme-yönelme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892142,
@@ -2828,8 +2652,7 @@
         "D": "<p>O adamla görüşmeye devam etmemelisin.</p> ",
         "E": "<p>Son gördüğümde, o güzel elbiseyi giymişti.</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892159,
@@ -2844,8 +2667,7 @@
         "D": "<p>Kısaltma</p>",
         "E": "<p>Ters türetme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892205,
@@ -2860,8 +2682,7 @@
         "D": "Şu kitabı istiyorum.",
         "E": "Yeni arabasını gördün mü?",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892250,
@@ -2876,8 +2697,7 @@
         "D": "c",
         "E": "y",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892263,
@@ -2892,8 +2712,7 @@
         "D": "<p>İşteş çatı</p> ",
         "E": "<p>Kuvvetlendirme çatısı</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892267,
@@ -2908,8 +2727,7 @@
         "D": "<p>Ek</p>",
         "E": "<p>Şive</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892279,
@@ -2924,8 +2742,7 @@
         "D": "<p>okul</p>",
         "E": "<p>Türkçe</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892317,
@@ -2940,8 +2757,7 @@
         "D": "<p>Yolcu</p>",
         "E": "<p>Gitarla</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892328,
@@ -2956,8 +2772,7 @@
         "D": "<p>Örnekseme </p>",
         "E": "<p>karma </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892123,
@@ -2972,8 +2787,7 @@
         "D": "<p>reform</p>",
         "E": "<p>gözlük</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892196,
@@ -2988,8 +2802,7 @@
         "D": "Balıkçılık",
         "E": "Balıkçılıktan",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892216,
@@ -3004,8 +2817,7 @@
         "D": "Terim",
         "E": "Karşıt anlam",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892238,
@@ -3020,8 +2832,7 @@
         "D": "İki sözcüğün hecelerini ya da parçalarını bir araya getirerek yeni sözcük oluşturma yoludur.",
         "E": "İki veya daha fazla sözcüğün bir araya gelerek ad veya eylem türünde yeni bir kavramı ifade edecek sözcük oluşturmasıdır.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892285,
@@ -3036,8 +2847,7 @@
         "D": "<p>dön-üşlü</p>",
         "E": "<p>ek-len-mek</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892114,
@@ -3052,8 +2862,7 @@
         "D": "<p>imge - kalıplaşma</p>",
         "E": "<p>arge - karma</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892143,
@@ -3068,8 +2877,7 @@
         "D": "<p>II-III-IV</p>",
         "E": "<p>I-II-III-IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892147,
@@ -3084,8 +2892,7 @@
         "D": "<p>Çekim ekleri</p>",
         "E": "<p>Türetim yapamayan ekler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892160,
@@ -3100,8 +2907,7 @@
         "D": "<p>Tarama</p>",
         "E": "<p>Derleme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892173,
@@ -3116,8 +2922,7 @@
         "D": "<p>Gibi-Edat</p>",
         "E": "<p>Hey-Ad</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892202,
@@ -3132,8 +2937,7 @@
         "D": "Semantik",
         "E": "Pragmatik",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892300,
@@ -3148,8 +2952,7 @@
         "D": "<p>TÖME ( Türkçe öğretim merkezi )</p>",
         "E": "<p>TRT (Türkiye Radyo Televizyon Kurumu)</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892092,
@@ -3164,8 +2967,7 @@
         "D": "<p>cümle bilgisi</p>",
         "E": "<p>şekil bilgisi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892112,
@@ -3180,8 +2982,7 @@
         "D": "<p>3</p>",
         "E": "<p>4</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892192,
@@ -3196,8 +2997,7 @@
         "D": "Gözük",
         "E": "Delik",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892244,
@@ -3212,8 +3012,7 @@
         "D": "<p>boğuşmak</p>",
         "E": "<p>süreksiz </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892248,
@@ -3228,8 +3027,7 @@
         "D": "<p>şair</p>",
         "E": "<p>mektup</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892099,
@@ -3244,8 +3042,7 @@
         "D": "<p>karaşın</p>",
         "E": "<p>olanak</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892174,
@@ -3260,8 +3057,7 @@
         "D": "Eylemden eylem yapma ekleri",
         "E": "Eylemden fiil yapma ekleri",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892207,
@@ -3276,8 +3072,7 @@
         "D": "<p>Sıklık çatısı</p>",
         "E": "<p>Dönüşlü çatı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892261,
@@ -3292,8 +3087,7 @@
         "D": "<p>Addan ad yapma ekleri</p> ",
         "E": "<p>Eylemden ad yapma ekleri</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893481,
@@ -3308,8 +3102,7 @@
         "D": " <p>Kardeşinin evi buraya çok yakın bir yerdeymiş.</p>   ",
         "E": "<p>Babasının onu ne kadar çok sevdiğini şimdi anlıyordu.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892109,
@@ -3324,8 +3117,7 @@
         "D": "<p>Tükenmez</p>",
         "E": "<p>Kilo</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892185,
@@ -3340,8 +3132,7 @@
         "D": "Hulusi Bey'in gelini siz misiniz? (siz misiniz?)",
         "E": "Pembe renkli olan benim kalemim. (benim kalemim)",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892322,
@@ -3356,8 +3147,7 @@
         "D": "<p>yazılmak </p>",
         "E": "<p>görülmek </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892113,
@@ -3372,8 +3162,7 @@
         "D": "<p>Davet için eve yeni eşyalar aldı.</p>",
         "E": "<p>Arakadaşlarla akşamları yürüyüşe çıkarız.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892243,
@@ -3388,8 +3177,7 @@
         "D": "<p>Bütün zenginlerden daha zenginim. </p>",
         "E": "<p>Sevgi yürekten yüreğe konar. </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892253,
@@ -3404,8 +3192,7 @@
         "D": "<p>Dönüşlü çatı</p>",
         "E": "<p>Etken çatı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892310,
@@ -3420,8 +3207,7 @@
         "D": "<p>evin </p>",
         "E": "<p>evce</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892199,
@@ -3436,8 +3222,7 @@
         "D": "Dönüşlü çatı",
         "E": "Edilgen çatı",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892270,
@@ -3452,8 +3237,7 @@
         "D": "<p>Yüklem </p>",
         "E": "<p>Özne</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892276,
@@ -3468,8 +3252,7 @@
         "D": "<p>Sözcük Yapımı</p>",
         "E": "<p>Cümlenin Öğeleri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892329,
@@ -3484,8 +3267,7 @@
         "D": "<p>edatlar </p>",
         "E": "<p>zamirler </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892340,
@@ -3500,8 +3282,7 @@
         "D": "<p>Yersiz</p>",
         "E": "<p>Seçenek</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892344,
@@ -3516,8 +3297,7 @@
         "D": "<p>kelebekler</p>",
         "E": "<p>doğu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892111,
@@ -3532,8 +3312,7 @@
         "D": "<p>sınava ilişkin</p>",
         "E": "<p>ona rağmen</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892265,
@@ -3548,8 +3327,7 @@
         "D": "<p>Aitlik eki</p> ",
         "E": "<p>Sıfat fiil</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892319,
@@ -3564,8 +3342,7 @@
         "D": "<p>Pop</p>",
         "E": "<p>Santim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892337,
@@ -3580,8 +3357,7 @@
         "D": "<p>Sıklık çatısı</p>",
         "E": "<p>İşteş çatı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892347,
@@ -3596,8 +3372,7 @@
         "D": "<p>Bana ayak yapma!</p>",
         "E": "<p>Ayakları çok pis kokuyor.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892247,
@@ -3612,8 +3387,7 @@
         "D": "ilk",
         "E": "ant",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892255,
@@ -3628,8 +3402,7 @@
         "D": "<p><span style=\"font-size: 12pt;\"><span style=\"font-family: Arial;\">bak</span></span></p>",
         "E": "<p><span style=\"font-size: 12pt;\">Öd</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892101,
@@ -3644,8 +3417,7 @@
         "D": "<p>örnekseme</p>",
         "E": "<p>kırpma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892130,
@@ -3660,8 +3432,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892321,
@@ -3676,8 +3447,7 @@
         "D": "<p>yadırga</p>",
         "E": "<p>yüzgeç</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892167,
@@ -3692,8 +3462,7 @@
         "D": "<p>Eldiven</p>",
         "E": "<p>Toptan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892115,
@@ -3708,8 +3477,7 @@
         "D": "<p>körfez</p>",
         "E": "<p>bayan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892141,
@@ -3724,8 +3492,7 @@
         "D": "<p>Sınavdaki zor soruları çözemedi.</p> ",
         "E": "<p>Zor bir yolculuktan gelmişlerdi.</p>  ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892162,
@@ -3740,8 +3507,7 @@
         "D": "<p>Edat</p>",
         "E": "<p>Bağlaç</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892106,
@@ -3756,8 +3522,7 @@
         "D": "<p>çıkarmak</p>",
         "E": "<p>silkelemek</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892138,
@@ -3772,8 +3537,7 @@
         "D": "<p>Çocukluk yıllarını anımsıyorum.</p>",
         "E": "<p>Parasını gereksiz yere harcıyor.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892188,
@@ -3788,8 +3552,7 @@
         "D": "Adlardan zamir ve sıfat türünde sözcükler üretir.",
         "E": "Ad soylu sözcüklerin yüklem görevinde kullanılmasını sağlar.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892315,
@@ -3804,7 +3567,411 @@
         "D": "<p>Addan  ad yapım eki</p>",
         "E": "<p>Eylemden eylem yapım eki</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892166,
+        "UniteNo": 4,
+        "PageNumber": 98,
+        "AnswerExplanation": "<p>Oyna, küçümse, gözük ve gizle sözcükleri addan eylem yapma ekleri almışlardır. Komuta sözcüğü ise addan ad yapma eki almıştır.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki sözcüklerden hangisi addan ad yapma eki almıştır?</p>",
+        "A": "<p>Oyna</p>",
+        "B": "<p>Küçümse</p>",
+        "C": "<p>Gözük</p>",
+        "D": "<p>Gizle</p>",
+        "E": "<p>Komuta</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892163,
+        "UniteNo": 4,
+        "PageNumber": 114,
+        "AnswerExplanation": "<p>İç- nesne alabildiğinden geçişli bir eylemdir. Doğru cevap A'dır. </p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi geçişli bir eylemdir?</p>",
+        "A": "<p>İç-</p>",
+        "B": "<p>Gül-</p>",
+        "C": "<p>Uyu-</p>",
+        "D": "<p>Koş-</p>",
+        "E": "<p>Yüz-</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892169,
+        "UniteNo": 4,
+        "PageNumber": 101,
+        "AnswerExplanation": "<p>Yeni sözcükler yapma görevi bulunan ekler, yapım/türetim ekleridir. Soru anlamı katma, kişi ilişkisi kurma, aitlik ve çokluk gösterme ise çekim eklerinin görevlerindendir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi çekim eklerinin işlevlerinden biri <span style=\"text-decoration: underline;\">değildir?</span></p>",
+        "A": "<p>Soru anlamı katma</p>",
+        "B": "<p>Kişi ilişkisi kurma</p>",
+        "C": "<p>Aitlik gösterme</p>",
+        "D": "<p>Yeni sözcük yapma</p>",
+        "E": "<p>Çokluk gösterme</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892314,
+        "UniteNo": 4,
+        "PageNumber": 96,
+        "AnswerExplanation": "<p>Ekler, herhangi bir sözcük türüne dâhil olmayan, yani eylem, ad (isim), sıfat, zarf vb. sözcük türlerinden birine girmeyen bağımlı biçim birimlerdir</p>",
+        "Title": "",
+        "Text": "<p style=\"text-align: justify;\">Herhangi bir sözcük türüne dâhil olmayan, yani eylem, ad (isim), sıfat, zarf vb. sözcük türlerinden birine girmeyen bağımlı biçim birimlerine ‘_______________’ denilmektedir. Verilen boşluğa gelmesi gereken uygun ifade aşağıdaki şıkların hangisindedir?</p>",
+        "A": "<p>Gövde</p>",
+        "B": "<p>Taban</p>",
+        "C": "<p>Ek</p>",
+        "D": "<p>Kök</p>",
+        "E": "<p>Birim</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892097,
+        "UniteNo": 4,
+        "PageNumber": 98,
+        "AnswerExplanation": "<p>boya-t sözcüğünde \"t\" eki eylemden eylem yapma ekidir. Diğerlerinde (gün-ce-l, insan-cıl, gün-eş, top-aç )addan ad yapma ekleri vardır.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki kelimelerden hangisi bir addan ad yapma eki <strong>almamıştır?</strong></p>",
+        "A": "<p>topaç</p>",
+        "B": "<p>güneş</p>",
+        "C": "<p>boyat</p>",
+        "D": "<p>insancıl</p>",
+        "E": "<p>güncel</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892105,
+        "UniteNo": 4,
+        "PageNumber": 99,
+        "AnswerExplanation": "<p>Eylemden Ad Yapma Ekleri<br />Eylemden ad yapma ekleri, eylem kök ya da gövdelerinden, köken anlamıyla bağlantılı<br />yeni ad gövdeleri yapan ve sayıca en fazla olan eklerdir. Bu eklerden bir bölümü çok yaygın biçimde tüm eylem köklerine gelebilirken, yayvan ve kaypak örneklerinde olduğu gibi,<br />bir bölümü de yalnızca bir ya da birkaç sözcükte görülür.<br />-(A)nAk: değ(e)nek, görenek, olanak. -(A)v: görev, işlev, ödev, sınav. -(A)y: dikey, düşey, olay, deney. -AcAk: gelecek, giyecek, yakacak. -AcAn: evecen, sevecen. -Aç: büyüteç,<br />sarkaç. -AGAn: durağan, gezegen, olağan. -AGI: kaşağı, yapağı. -Ak: binek, dön ek, sapak, uçak. -AlAk: asalak, çökelek, yatalak. -AlgA: bitelge, çizelge, konalga. -Am: dönem,<br />kuram, tutam. -AmAç: dönemeç, tutamaç. -AmAk: basamak, tutamak. -AmIk: bozamık.<br />-An: bakan, düzen, kapan. -Ar/-r: gider, gelir, yazar. -ArI: göçeri, uçarı. -AsI: giysi (&lt; giyesi), olası, veresi(ye). -bAç: dolambaç, saklambaç. -CA: dinlence, düşünce, eğlence. -cAk:<br />erincek (hlk.), salıncak. -ceme: sürünceme. -daç: andaç. -DI: çıktı, girdi, pişti, uydu. -dıç:<br />andıç. -DIk: bildik, tanıdık. -dırak: kaydırak. -ebe: göçebe. -GA: bilge, bölge, süpürge.<br />-GAç: kıskaç, süzgeç, yüzgeç. -GAn: çekingen, kaygan. -GI: bilgi, olgu, sevgi. -GIç: dalgıç,<br />bilgiç. -GIn: bilgin, etkin, vurgun. -güt: örgüt. -I: ayrı, doğu, sancı, yazı. -IcI: alıcı, verici,<br />yanıcı. -Iş: bakış, geçiş, uçuş. -k: açık, delik, dilek. -m: bilim, bölüm, kurum. -mA: bölme,<br />inme, kuşatma. -mAcA: bulmaca, gülmece. -mAç: demeç, yırtmaç. -mAk: çakmak, ilmek,<br />yemek. -mAn: azman, eğitmen, öğretmen. -mAz: *aymaz, tükenmez, yaramaz. -mIk: ilmik, kıymık, kusmuk. -mUr: kömür, yağmur. -mIş: dolmuş, Durmuş, ermiş. -n: akın,<br />ekin, yığın. -nç: bilinç, direnç, sevinç. -ntI: çıkıntı, döküntü, saplantı. -pak: kaypak. -sAl:<br />görsel, işitsel, uysal. -sI: sinsi, tütsü. -ş: bağdaş, tanış, oynaş. -t: anıt, geçit, taşıt, umut.<br />-van: yayvan.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki sözcüklerden hangisi eylemden ad yapma eki almıştır?</p>",
+        "A": "<p>yazın</p>",
+        "B": "<p>çoğul</p>",
+        "C": "<p>içeri</p>",
+        "D": "<p>özet</p>",
+        "E": "<p>ödev</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892181,
+        "UniteNo": 4,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.",
+        "Text": "Çeşitli bilim, sanat ve meslek alanlarında kullanılan özel anlamlı sözcüklerdir. Yazının dilinin kimi sözcükler bilim, sanat, spor, vb. alanlarda özel anlamlar kazanır bu olaya ne ad verilir?",
+        "A": "Terim anlamı",
+        "B": "Gerçek Anlamı",
+        "C": "İş Anlamı",
+        "D": "Kültürel Anlamı",
+        "E": "Aktarma Anlamı",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892085,
+        "UniteNo": 4,
+        "PageNumber": 100,
+        "AnswerExplanation": "<p>Dönüşlü çatı: Yıkandım, küreklere asıldık örneklerindeki gibi, yüklemin bildirdiği eylemin özneye döndüğünü, eylemin özne tarafından kendi kendine yapıldığını gösteren çatıdır. Doğru cevap A'dır.</p>",
+        "Title": "",
+        "Text": "<p>Yüklemin bildirdiği eylemin özneye döndüğünü, eylemin özne tarafından kendi kendine yapıldığını gösteren çatı ekleri aşağıdakilerden hangisi ile ifade edilir?</p>",
+        "A": "<p>Dönüşlü çatı</p>",
+        "B": "<p>Edilgen çatı</p>",
+        "C": "<p>İşteş çatı</p>",
+        "D": "<p>Ettirgen çatı</p>",
+        "E": "<p>Kuvvetlendirme çatısı</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892249,
+        "UniteNo": 4,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.",
+        "Text": "Konuşma sırasında sesin perdesinin değişmesiyle oluşan melodik modele ne ad verilir?",
+        "A": "vurgu",
+        "B": "durak",
+        "C": "tonlama",
+        "D": "durgu",
+        "E": "ulama",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892151,
+        "UniteNo": 4,
+        "PageNumber": 113,
+        "AnswerExplanation": "<p>Zamirler, geleneksel dil bilgisinde bir adın veya ad öbeğinin yerini tutabilen ad soylu sözcüklerdir. </p>",
+        "Title": "<p>Zamirler</p>",
+        "Text": "<p>'Bahçede yaşlı teyzeye yardım eden <span style=\"text-decoration: underline;\">biri</span> vardı, sanırım yabancıydı.' cümlesinde altı çizili sözcüğün türü aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Bağlaç</p>",
+        "B": "<p>Edat</p>",
+        "C": "<p>Sıfat</p>",
+        "D": "<p>Zarf</p>",
+        "E": "<p>Zamir</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892231,
+        "UniteNo": 4,
+        "PageNumber": 99,
+        "AnswerExplanation": "B, C, D ve E şıkları çatının 4 grubudur. Geçişli çatı yoktur. Bu nedenle doğru cevap A'dır.",
+        "Title": "Sözcük yapımı yollarını sıralayabileceksiniz.",
+        "Text": "Öznenin ve nesnenin durumuna göre değişkenlik gösteren çatı kategorileri arasında sayılmayacak olan alt grup hangisidir?",
+        "A": "Geçişli",
+        "B": "Dönüşlü",
+        "C": "Edilgen",
+        "D": "İşteş",
+        "E": "Ettirgen",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892256,
+        "UniteNo": 4,
+        "PageNumber": 100,
+        "AnswerExplanation": "<p>Tanış- kelimesi&nbsp;işteş &ccedil;atılı bir s&ouml;zc&uuml;kt&uuml;r. Diğerleri ise ettirgen &ccedil;atılı s&ouml;zc&uuml;klerdir. Doğru cevap C'dir.</p>",
+        "Title": "",
+        "Text": "Aşağıdakilerden hangisi ettirgen&nbsp;&ccedil;atılı bir s&ouml;zc&uuml;k değildir?",
+        "A": "<p>&Ccedil;ıkar-</p>",
+        "B": "<p>Emzir-</p>",
+        "C": "<p>Tanış-</p>",
+        "D": "<p>Kestir-</p>",
+        "E": "<p>Akıt-</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892325,
+        "UniteNo": 4,
+        "PageNumber": 103,
+        "AnswerExplanation": "<p>Aitlik eki (-ki): Aitlik eki adlardan zamir ve sıfat türünde adlar yapan, bağlılık,<br />içinde bulunma, aitlik anlamları taşıyan bir ektir. -ki aitlik eki sözcüklere yalın (akşamki,<br />yarınki), bulunma (evdeki, yoldaki) ya da ilgi (seninki, bizimki) durumlarından<br />biriyle eklenir. Aitlik eki ad çekim ekleri alabilir. -ki eki bugünkü gibi bir iki<br />sözcüğün dışında ünlü ve ünsüz uyumlarına girmez. </p> <p>a, b, d ve e seçeneklerinde aitlik eki bulunma anlamı taşırken c seçeneğinde yalın anlam katmıştır. Doğru yanıt C </p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki cümlelerde geçen sözcüklerden hangisinde aitlik eki sözcüğe farklı bir anlam katmıştır? </p>",
+        "A": "<p>Evdeki çiçekleri sulamayı unutmuştu. </p>",
+        "B": "<p>Okuldaki öğrenciler zil sesiyle dağıldı. </p>",
+        "C": "<p>Akşamki yemekler çok güzel olmuştu. </p>",
+        "D": "<p>Otobüsteki yolcular uyuyorlardı. </p>",
+        "E": "<p>Bahçedeki ağaçlar çiçek açmıştı. </p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892189,
+        "UniteNo": 4,
+        "PageNumber": 99,
+        "AnswerExplanation": "Bilgiyi kullanarak yeni probleme uygulama mantığında olduğu için uygulama düzeyinde bir sorudur.",
+        "Title": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.",
+        "Text": "Aşağıdaki yüklemlerin hangisinde eylemden eylem türetilmiştir?",
+        "A": "Düğünden sonra masalar toplandı.",
+        "B": "Bu işi ancak Ahmet çözer.",
+        "C": "Ayşe'ye alınan benim elbisemin aynısıydı.",
+        "D": "Dedem ailede en çok sevilen kişidir.",
+        "E": "Tatile birlikte çıkmaya karar verdik.",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892116,
+        "UniteNo": 4,
+        "PageNumber": 111,
+        "AnswerExplanation": "<p>Yan anlam (ikincil anlam): Sözcüğün, temel anlamla ilişkili edindiği bir başka anlam, yansıttığı yeni bir kavramdır. 'göz' sözcüğü B ve E seçeneklerinde gerçek, C ve D seçeneklerinde mecaz anlamıyla kullanılmıştır. A seçeneğindeki 'göz' çekmece anlamında kullanılmıştır ve bir yan anlam örneğidir. Doğru cevap A'dır.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki cümlelerin hangisinde 'göz' sözcüğü yan anlamıyla kullanılmıştır?</p>",
+        "A": "<p>Anahtarları masanın gözüne koydum. </p>",
+        "B": "<p>Televizyon izlemekten gözlerim ağrıdı.</p>",
+        "C": "<p>Göz alıcı bir güzelliği vardı.</p>",
+        "D": "<p>Yıllardır gözümde tütüyorsun, özledim. </p>",
+        "E": "<p>Hasta olunca gözü kararıyordu.</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892129,
+        "UniteNo": 4,
+        "PageNumber": 114,
+        "AnswerExplanation": "<p>Edatlar, kendilerinden önceki ad soylu sözcüklere ad durum ekleriyle bağlanarak cümle ögesi olabilen veya diğer sözcük ve sözcük öbekleriyle ilişki kuran, anlamdan çok görev yönü ağırlıkta olan çekimsiz sözcüklerdir. Kum gibi, cihan içre; akşama doğru, konuya ilişkin; senin gibi, onun kadar; dünden itibaren, sabahtan beri vb. Doğru yanıt C seçeneğidir.  </p>",
+        "Title": "",
+        "Text": "<p>\"Verilecek görevlere <span style=\"text-decoration: underline;\">ilişkin</span> bir bilgisi yoktu.\" cümlesinde altı çizili sözcüğün türü aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Ad</p>",
+        "B": "<p>Sıfat</p>",
+        "C": "<p>Edat</p>",
+        "D": "<p>Bağlaç</p>",
+        "E": "<p>Zamir </p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892219,
+        "UniteNo": 4,
+        "PageNumber": 112,
+        "AnswerExplanation": "Bir adın veya ad öbeğinin yerini tutabilen ad soylu sözcüklere zamir denilmektedir. Sorunun doğru yanıtı D seçeneğidir.",
+        "Title": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.",
+        "Text": "Bir adın veya ad öbeğinin yerini tutabilen ad soylu sözcüklere ne isim verilmektedir?",
+        "A": "Bağlaçlar",
+        "B": "Eylemler",
+        "C": "Edatlar",
+        "D": "Zamirler",
+        "E": "Ünlemler",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892338,
+        "UniteNo": 4,
+        "PageNumber": 103,
+        "AnswerExplanation": "<p>Eylem çekimi, cümle ve cümlenin yüklemini oluşturmak üzere eylemlerin zaman, kişi vb. çekim eklerini almalarıdır.</p>",
+        "Title": "",
+        "Text": "<p>Cümle ve cümlenin yüklemini oluşturmak üzere eylemlerin zaman, kişi vb. çekim eklerini almaları aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Durum çekimi</p>",
+        "B": "<p>Eylem çekimi</p>",
+        "C": "<p>İyelik çekimi</p>",
+        "D": "<p>Cümle çekimi</p>",
+        "E": "<p>Ad çekimi</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892145,
+        "UniteNo": 4,
+        "PageNumber": 96,
+        "AnswerExplanation": "<p>Tabanlar, eklerin, yani bağımlı biçim birimlerin eklendiği yalın sözcükler, yani bağımsız biçim birimlerdir. Tabanlar kök veya türemiş sözcük olabilir. Göz, gözlük sözcüğünün tabanıdır.</p>",
+        "Title": "<p>Biçim bilgisiyle ilgili temel kavramlar- Taban</p>",
+        "Text": "<p>Göz-gözlük kelimeleri arasındaki ilişki hangi biçim bilgisi türüne örnektir?</p>",
+        "A": "<p>Gövde</p>",
+        "B": "<p>Eklenme</p>",
+        "C": "<p>Taban</p>",
+        "D": "<p>Ek</p>",
+        "E": "<p>Kök</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892348,
+        "UniteNo": 4,
+        "PageNumber": 113,
+        "AnswerExplanation": "<p>A seçeneğinde 'benden' ve 'sana' sözcükleri, B seçeneğinde 'bana' sözcüğü, C seçeneğinde 'kimse' sözcüğü, D seçeneğinde ise 'herkes' sözcüğü zamirdir. E seçeneğinde ise herhangi bir zamir yoktur. Doğru cevap E'dir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki tümcelerin hangisinde zamir <strong>kullanılmamıştır?</strong></p>",
+        "A": "<p>Benden sana yar olmaz.</p>",
+        "B": "<p>Bana öyle bakma.</p>",
+        "C": "<p>Kapat gözlerini kimse görmesin.</p>",
+        "D": "<p>Ne yaptığını herkes biliyor.</p>",
+        "E": "<p>Ne desem yalan olur.</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892128,
+        "UniteNo": 4,
+        "PageNumber": 109,
+        "AnswerExplanation": "<p>Karma, iki sözcüğün hecelerini ya da parçalarını, genellikle ilk bileşenin birinci, ikinci bileşenin ikinci parçasını bir araya getirerek yeni sözcük oluşturma yoludur. arge (&lt; araştırma + geliştirme), ordonat (&lt; ordu + donatım), eltel (&lt; el + telefonu ) vb. Doğru yanıt E seçeneğidir. </p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki cümlelerden hangisinde karma yoluyla oluşturulmuş bir sözcük bulunmaktadır?</p>",
+        "A": "<p>Düzenli egzersizle üç ayda beş kilo verdim. </p>",
+        "B": "<p>Birikimlerimiz her geçen gün artıyor. </p>",
+        "C": "<p>Ne zamandır yemediğini fark edince, öğlen yemeği için imambayıldı sipariş etti.   </p>",
+        "D": "<p>TBMM, bu ayın başlarında bütçe çalışmlarına başladı. </p>",
+        "E": "<p>Şirketimizin arge harcamaları geçen yıla oranla yüzde 80 arttı.  </p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892330,
+        "UniteNo": 4,
+        "PageNumber": 95,
+        "AnswerExplanation": "<p>Batı’ da morfoloji olarak adlandırılan bu çalışma alanı Türkçede biçim bilim, biçim bilgisi, kelime bilgisi, şekil bilgisi, yapı bilgisi, sözcük bilim gibi farklı terimlerle adlandırılmaktadır.</p>",
+        "Title": "",
+        "Text": "<p>Batı’ da morfoloji olarak adlandırılan çalışma alanı Türkçe'de aşağıdakilerden hangisi ile adlandırılmaz?</p>",
+        "A": "<p>Bilimsel biçim</p>",
+        "B": "<p>Kelime bilgisi</p>",
+        "C": "<p>Sözcük Bilim</p>",
+        "D": "<p>Şekil bilgisi</p>",
+        "E": "<p>Yapı bilgisi</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892183,
+        "UniteNo": 4,
+        "PageNumber": 97,
+        "AnswerExplanation": "Soru kitaptaki metni aynen sorduğu için hatırlama düzeyindedir.",
+        "Title": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.",
+        "Text": "Bir dilin işleyişinde temel öğelerden olan ve biçim bilgisinin önemli inceleme konuları arasında yer alan kavramlar hangileridir?",
+        "A": "Addan Ad Yapma Ekleri",
+        "B": "Çekim Ekleri",
+        "C": "Yapım Ekleri",
+        "D": "Türetim-Çekim Ekleri",
+        "E": "Addan Eylem Yapma Ekleri",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892223,
+        "UniteNo": 4,
+        "PageNumber": 108,
+        "AnswerExplanation": "Yönlendirilen sayfada açıkça belirtilmiştir.",
+        "Title": "Sözcük yapımı yollarını sıralayabileceksiniz.",
+        "Text": "Herhangi bir tabana eklenen yapım ekler aracılığıyla anlam ve/ veya tür bakımından farklı yeni sözcüklerin yapımına ne denir?",
+        "A": "Birleştirme",
+        "B": "Türetme",
+        "C": "Kalıplaşma",
+        "D": "Örnekseme",
+        "E": "Kırpma",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892171,
+        "UniteNo": 4,
+        "PageNumber": 108,
+        "AnswerExplanation": "<p>Kimi zaman, bir sözcüğün ilk hecesi ya da bir bölümü ile anlam kaybı olmadan aynı kavram ifade edilebilir. Kırpma, çok heceli bir sözcüğün bir veya daha fazla hecesini kaldırarak yeni sözcük oluşturma yoludur: Kilo (kilogram), motel (motor otel), pop (popüler), santim (santimetre) vb.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki sözcüklerden hangisi sözcük yapımında kullanılan yollardan biri olan kırpma ile yapılmıştır?</p>",
+        "A": "<p>Kilo</p>",
+        "B": "<p>Karatavuk</p>",
+        "C": "<p>İmge</p>",
+        "D": "<p>Arge</p>",
+        "E": "<p>Selpak</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892241,
+        "UniteNo": 4,
+        "PageNumber": 112,
+        "AnswerExplanation": "I, II, III ve IV",
+        "Title": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.",
+        "Text": "I. Adlar\r\nII. Sıfatlar\r\nIII. Zarflar\r\nIV. Zamirler\r\nV. Devirler\r\nYukarıdaki terimlerden hangileri geleneksel sözcük türlerindendir?",
+        "A": "Yalnız I",
+        "B": "Yalnız V",
+        "C": "IV ve V",
+        "D": "I, II ve V",
+        "E": "I, II, III ve IV",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892227,
+        "UniteNo": 4,
+        "PageNumber": 113,
+        "AnswerExplanation": "Zarflar, eylemlerin, sıfatların ya da başka zarfların önüne gelerek onları yer, zaman, durum, ölçü ve soru bakımından niteleyen, açıklayan sözcüklerdir.",
+        "Title": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.",
+        "Text": "Zarfların tanımı aşağıdakilerden hangisidir?",
+        "A": "Canlı, cansız bütün varlık ve kavramları karşılayan sözcüklerdir.",
+        "B": "Adları çeşitli yönlerden niteleyen veya belirten sözcüklerdir.",
+        "C": "Eylemlerin, sıfatların ya da başka zarfların önüne gelerek onları yer, zaman, durum, ölçü ve soru bakımından niteleyen, açıklayan sözcüklerdir.",
+        "D": "Sözcükleri veya cümle ögelerini birbirine bağlayan çekimsiz sözcüklerdir.",
+        "E": "Cümlede yüklem görevinde bulunabilen sözcüklerdir.",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Gravür</p>",
         "E": "<p>Fleksografi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764405,
@@ -28,8 +27,7 @@
         "D": "<p>1750</p>",
         "E": "<p>1798</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764408,
@@ -44,8 +42,7 @@
         "D": "<p>Godefroy Engelmann</p>",
         "E": "<p>Joseph Niepce</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764410,
@@ -60,8 +57,7 @@
         "D": "<p>Henry Talbot</p>",
         "E": "<p>Godefroy Engelmann</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764423,
@@ -76,8 +72,7 @@
         "D": "<p>Baskı silindiri</p>",
         "E": "<p>Mürekkep silindiri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764425,
@@ -92,8 +87,7 @@
         "D": "<p>Nemlendirme sistemli ofset baskı</p>",
         "E": "<p>Tabaka ofset baskı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764498,
@@ -108,8 +102,7 @@
         "D": "<p>Ksilografi</p>",
         "E": "<p>Tifdruk baskı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764499,
@@ -124,8 +117,7 @@
         "D": "<p>Dijital baskı</p>",
         "E": "<p>Ofset baskı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764500,
@@ -140,8 +132,7 @@
         "D": "<p>Kauçuk bilyesi</p>",
         "E": "<p>Nemlendirme ünitesi,</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764503,
@@ -156,8 +147,7 @@
         "D": "<p>Gün ışığı</p>",
         "E": "<p>Mürekkebin yoğunluğu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764594,
@@ -172,8 +162,7 @@
         "D": "<p>Linol baskı</p>",
         "E": "<p>Ağaç baskı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764597,
@@ -188,8 +177,7 @@
         "D": "<p><span id=\"page123R_mcid655\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\"> Louis Ducos du Hauron</span></span></p>",
         "E": "<p><span id=\"page123R_mcid616\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\">Joseph Niepce</span></span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764598,
@@ -204,8 +192,7 @@
         "D": "<p>1852</p>",
         "E": "<p>1798</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764601,
@@ -220,8 +207,7 @@
         "D": "<p>KCMY</p>",
         "E": "<p>CMKY</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764603,
@@ -236,8 +222,7 @@
         "D": "<p>Web</p>",
         "E": "<p>Ofset</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764844,
@@ -252,8 +237,7 @@
         "D": "<p>Kalıp silindiri</p>",
         "E": "<p>Blanket</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764848,
@@ -268,8 +252,7 @@
         "D": "<p>Tabaka ofset - Web ofset</p>",
         "E": "<p>Web ofset - Nemlendirme sistemli ofset</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764852,
@@ -284,8 +267,7 @@
         "D": "<p>Sarı</p>",
         "E": "<p>Siyah</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764854,
@@ -300,8 +282,7 @@
         "D": "<p>Kuru ofset baskı</p>",
         "E": "<p>Susuz ofset baskı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764859,
@@ -316,8 +297,7 @@
         "D": "<p>Joseph Niepce</p>",
         "E": "<p>Godefroy Engelmann</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764402,
@@ -332,8 +312,7 @@
         "D": "<p>Gravür</p>",
         "E": "<p>Fleksografi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764406,
@@ -348,8 +327,7 @@
         "D": "<p>Henry Talbot</p>",
         "E": "<p>Joseph Niepce</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764426,
@@ -364,8 +342,7 @@
         "D": "<p class=\"Default\"><span style=\"font-family: verdana, geneva, sans-serif;\">I ve III </span></p>",
         "E": "<p class=\"Default\"><span style=\"font-family: verdana, geneva, sans-serif;\">I, II ve III </span></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764495,
@@ -380,8 +357,7 @@
         "D": "<p>Litografi baskı</p>",
         "E": "<p>Serigrafi baskı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764496,
@@ -396,8 +372,7 @@
         "D": "<p>Fotoğraf- Serigrafi</p>",
         "E": "<p>Bal mumu-Tipo baskı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764497,
@@ -412,8 +387,7 @@
         "D": "<p>Tipo baskı</p>",
         "E": "<p>Litografi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764501,
@@ -428,8 +402,7 @@
         "D": "<p>Sarı</p>",
         "E": "<p>Pembe</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764849,
@@ -444,8 +417,7 @@
         "D": "<p>Susuz ofset - Tabaka ofset</p>",
         "E": "<p>Nemlendirme sistemli ofset - Tabaka ofset</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764851,
@@ -460,8 +432,7 @@
         "D": "<p>Kitap</p>",
         "E": "<p>Mürekkep</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764857,
@@ -476,8 +447,7 @@
         "D": "<p>Nemlendirme sistemli ofset baskı</p>",
         "E": "<p>Geleneksel ofset baskı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764860,
@@ -492,8 +462,7 @@
         "D": "<p>Tasarımcılara ekranlarında, gerçek masaüstlerini çağrıştıracak bir ortam yaratılmıştır.</p>",
         "E": "<p>Hız, maliyet ve fonksiyonellik bakımından geleneksel yayıncılıktan bir farkı yoktur.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764595,
@@ -508,8 +477,7 @@
         "D": "<p>1800</p>",
         "E": "<p>1911</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764596,
@@ -524,8 +492,7 @@
         "D": "<p>Fransa</p>",
         "E": "<p>İngiltere</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764599,
@@ -540,8 +507,7 @@
         "D": "<p>Ofset</p>",
         "E": "<p>Mürekkep</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764600,
@@ -556,8 +522,7 @@
         "D": "<p>II</p>",
         "E": "<p>I</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764840,
@@ -572,8 +537,7 @@
         "D": "<p>Yarı baskı</p>",
         "E": "<p>Tam baskı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764411,
@@ -588,8 +552,7 @@
         "D": "<p>6</p>",
         "E": "<p>7</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764504,
@@ -604,8 +567,7 @@
         "D": "<p>6</p>",
         "E": "<p>7</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764602,
@@ -620,8 +582,7 @@
         "D": "<p>Su</p>",
         "E": "<p>Çözelti</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764502,
@@ -636,7 +597,6 @@
         "D": "<p>Tabaka ofset baskı</p>",
         "E": "<p>Web ofset baskı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     }
 ]

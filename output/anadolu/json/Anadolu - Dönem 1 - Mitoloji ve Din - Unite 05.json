@@ -360,6 +360,26 @@
         "Aciklama": "Kronos ile Rheia’nın kızı olan Demeter toprak ve bereket tanrıçasıdır. Homeros’un destanlarında güzel saçlı kraliçe, güzel örgülü Demeter diye anılır. Ekinleri ve özellikle buğdayı simgeler. Demeter ile ilgili tek efsane mevsimleri simgeleyen bir efsanedir.<br/>Doğru cevap D seçeneğidir."
     },
     {
+        "SoruID": 3374278,
+        "SoruMetni": "Yunan mitolojisinden Roma mitolojisine ismi değişmeden geçen tek tanrı aşağıdakilerden hangisidir?",
+        "A": "Apollon",
+        "B": "Ares",
+        "C": "Hestia",
+        "D": "Poseidon",
+        "E": "Zeus",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 5,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:20:16.546242",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Romalılar genelde Yunanlıların Olympian tanrılarını kabul etmişlerdir. Sadece adlarını değiştirerek Olymposlu tanrılara tapmışlardır Apollon ise adı değişmeden Roma mitolojisine geçen tek tanrı olma özelliğini taşımaktadır.<br/>Doğru cevap A seçeneğidir."
+    },
+    {
         "SoruID": 3374279,
         "SoruMetni": "Önceleri hiçbir tanrıya tapınmayan Romalıların tanrı inancıyla tanışmasında aşağıdakilerden hangisi etkili olmuştur?",
         "A": "Yunan kültürünün Romaya hakim olması",
@@ -1938,6 +1958,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Soruda özellikleri verilen Yunan tanrısının tanınması amaçlanmıştır.<br>Apollon: Zeus ve Leto’nun oğludur. Mitolojide müziğin, güzel sanatların, güneşin, ateşin ve şiirin tanrısıdır. Ayrıca bilicilik, kehanetle de ilgilenen bir tanrıdır. Adı değişmeden Roma mitolojisine geçen tek tanrıdır. Bu tanrının adının Yunanca olmadığı herkes tarafından bilinir. Yunan mitolojisindeki en önemli tanrılardan biridir. Yunanlılar ayrıca ana Phoibos adını da takmışlardır. Anlamı parlaktır ve tanrının ışık saçan, aydınlık varlığını dile getirir. Ayrıca İliada da okçu, hedefi vuran ya da gümüş yaylı olarak geçmektedir."
+    },
+    {
+        "SoruID": 3375054,
+        "SoruMetni": "Yunan mitolojisinde Hephaistos’un bir balta ile yarmasının ardından Zeus’un kafasından silahlı bir kız olarak fırlayan, mızrak ve Aegis (keçi derisinden bir tür zırh ya da kalkan) ile donanmış, zeytin dalı ve baykuş gibi sembolleri olan, kalkan, mızrak, akıl, sanat, strateji ve barış tanrıçası aşağıdakilerden hangisidir?",
+        "A": "Athena",
+        "B": "Hera",
+        "C": "Artemis",
+        "D": "Aphrodite",
+        "E": "Demeter",
+        "DogruCevap": "A",
+        "DersAd": "Mitoloji ve Din",
+        "Unite": 5,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:15:40.899083",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Soruda özellikleri ve sembolleri verilen Yunan tanrıçasının tanınması amaçlanmıştır.<br>Athena: Zeus ile Metis’in kızıdır. Metis hamileyken Zeus onu yutmuştur. Doğum zamanı gelince, Zeus kafasını bir balta ile yarmasını Hephaistos’a emretmiştir. Böylece Athena Zeus’un kafasından silahlı bir kız olarak fırlamıştır. Akıl, sanat, strateji ve barış tanrıçasıdır. Mızrak ve Aegis (keçi derisinden bir tür zırh ya da kalkan) ile donanmış olan tanrıça Gigantlarla savaşta önemli rol oynar. Sembolleri kalkan, mızrak, zeytin dalı ve baykuştur."
     },
     {
         "SoruID": 3375055,

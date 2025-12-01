@@ -12,8 +12,7 @@
         "D": "<p>Müşterileri ürünün özellikleri, faydaları, kullanımı ve kalitesi hakkında bilgilendirerek, ürünün farklılığını ve değer önerisini vurgulayarak müşterileri ürünü satın almaya ikna edebilmesi.</p>",
         "E": "<p>Logo, renk, şekil, tipografi ve görseller gibi görsel unsurlar aracılığıyla markanın konumunu, değerlerini ve niteliklerini yansıtabilir aynı zamanda farklı ürünler ve kategoriler arasında tutarlı ve tanınabilir bir marka kimliği oluşturabilmesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862790,
@@ -28,8 +27,7 @@
         "D": "<p>Görsel Çekicilik</p>",
         "E": "<p>Ürün Bilgisi ve İletişim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862791,
@@ -44,8 +42,7 @@
         "D": "<p>Ambalaj</p> ",
         "E": "<p>Baskı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862793,
@@ -60,8 +57,7 @@
         "D": "<p>İhtiyaca dayalı müşteriler</p>",
         "E": "<p>Belirli bir ürünü satın almayı düşünmeyen, ancak o anda iyi görünen şeyleri satın alan anlık müşteriler.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862794,
@@ -76,8 +72,7 @@
         "D": "<p>Bölgesel</p>",
         "E": "<p> Lisanslama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862795,
@@ -92,8 +87,7 @@
         "D": "<p>Tüketicinin zihninde bir ürün için benzersiz bir isim ve imaj yaratılmasını çevreleyen bütünsel bir süreçtir.</p>",
         "E": "<p>Hedef kitleye odaklanarak, ilgili ürünün tüketici deneyimini ergonomi, kullanım kolaylığı ve fonksiyonellik açısından arttırmaya çalışır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862796,
@@ -108,8 +102,7 @@
         "D": "<p>Tazelik ve saflık</p>",
         "E": "<p>Lüks ve kaliteye</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862797,
@@ -124,8 +117,7 @@
         "D": "<p>Arketip</p>",
         "E": "<p>Güvenlik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862799,
@@ -140,8 +132,7 @@
         "D": "<p> Marka kişilikleri bir şirketin bir ürünü üretme konusundaki uzun tecrübesine odaklanabilir.</p> ",
         "E": "<p>Marka kişilikleri, tüketicilerde bir güven bağı kurulmasına yardımcı olmak üzere geliştirilmiştir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862800,
@@ -156,8 +147,7 @@
         "D": "<p style=\"text-align: justify;\">Kullanıcıların gücü, el becerisi ve hareket aralığı gibi fiziksel yeteneklerini dikkate almaktadır.</p> <p style=\"text-align: justify;\"> </p>",
         "E": "<p style=\"text-align: justify;\">Hem son kullanıcılar hem de sektör profesyonelleri için ambalajlama süreçlerinin verimliliğini uygun hale getirmeye odaklanır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862820,
@@ -172,8 +162,7 @@
         "D": "<p>Tasarım</p>",
         "E": "<p>Pazar incelemesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862823,
@@ -188,8 +177,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862824,
@@ -204,8 +192,7 @@
         "D": "<p style=\"text-align: justify;\">Ambalajın fiziksel özellikleri ile markanın verdiği mesajlar arasında doğrudan bir ilişki kurmak,</p>",
         "E": "<p style=\"text-align: justify;\">Gerçekten önemli olan nitelikleri belirlemek ve bunlara odaklanmaktır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862828,
@@ -220,8 +207,7 @@
         "D": "<p>Verimli bir şekilde taşınmasını ve istiflenmesini kolaylaştırma,</p>",
         "E": "<p>Ürün niteliklerini belirli bir süre boyunca koruma,</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862833,
@@ -236,8 +222,7 @@
         "D": "<p>I. Tek-Baskın Marka (Monolitik) - II. Bağımsız Marka - III. Onaylayıcı Marka</p>",
         "E": "<p>I. Onaylayıcı Marka - II. Bağımsız Marka - III. Tek-Baskın Marka (Monolitik)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862849,
@@ -252,8 +237,7 @@
         "D": "<p>Kültür</p>",
         "E": "<p>Sunum</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862852,
@@ -268,8 +252,7 @@
         "D": "<p>Kişileştirme</p>",
         "E": "<p>Göz yanılması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862856,
@@ -284,8 +267,7 @@
         "D": "<p>Pathos</p>",
         "E": "<p>Logos</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862858,
@@ -300,8 +282,7 @@
         "D": "<p>Biçim</p>",
         "E": "<p>Ergonomi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862861,
@@ -316,7 +297,6 @@
         "D": "<p>Erişebilirlik</p>",
         "E": "<p>Verimlilik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

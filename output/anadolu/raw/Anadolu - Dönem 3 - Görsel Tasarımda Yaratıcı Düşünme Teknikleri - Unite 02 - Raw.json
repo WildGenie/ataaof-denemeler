@@ -12,8 +12,7 @@
         "D": "<p>Piktogram</p>",
         "E": "<p>İlkel sanat</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861421,
@@ -28,8 +27,7 @@
         "D": "<p>Yunan</p>",
         "E": "<p>Mısır</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861435,
@@ -44,8 +42,7 @@
         "D": "<p>Sorgulama</p>",
         "E": "<p>İlişkilendirme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861437,
@@ -60,8 +57,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861439,
@@ -76,8 +72,7 @@
         "D": "<p>İletişim Kurma</p>",
         "E": "<p>Hayal Kurma</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861493,
@@ -92,8 +87,7 @@
         "D": "<p>ikonografi</p>",
         "E": "<p>filigran</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861494,
@@ -108,8 +102,7 @@
         "D": "<p>19. yüzyıl</p>",
         "E": "<p>20. yüzyıl</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861495,
@@ -124,8 +117,7 @@
         "D": "<p>I- III- IV- V</p>",
         "E": "<p>II- III- VI</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861496,
@@ -140,8 +132,7 @@
         "D": "<p>İnovasyon</p>",
         "E": "<p>Çoklu Zeka Kuramı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861497,
@@ -156,8 +147,7 @@
         "D": "<p>I- II- IV</p>",
         "E": "<p>I-II- III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861499,
@@ -172,8 +162,7 @@
         "D": "<p>kültür endüstrisi</p>",
         "E": "<p>liberal kültür</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861501,
@@ -188,8 +177,7 @@
         "D": "<p>Görsel </p>",
         "E": "<p>Doğacı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861502,
@@ -204,8 +192,7 @@
         "D": "<p>Empati</p>",
         "E": "<p>Yenilik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861676,
@@ -220,8 +207,7 @@
         "D": "<p>Güney Afrika</p>",
         "E": "<p>Güney Amerika</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861677,
@@ -236,8 +222,7 @@
         "D": "<p>Hoktagram</p>",
         "E": "<p>Hologram</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861678,
@@ -252,8 +237,7 @@
         "D": "<p>MS 1. yüzyıl</p>",
         "E": "<p>MS 2. yüzyıl</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861679,
@@ -268,8 +252,7 @@
         "D": "<p>18. yüzyıl</p>",
         "E": "<p>19. yüzyıl</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861690,
@@ -284,8 +267,7 @@
         "D": "<p>İletişim kurma</p>",
         "E": "<p>Arayış içerisinde olma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861694,
@@ -300,8 +282,7 @@
         "D": "<p>Risk analizi yapmazlar</p>",
         "E": "<p>Genelde depresif, negatif ve şikayet eden tavır sergilerler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861696,
@@ -316,8 +297,7 @@
         "D": "<p>İnisiyatif almaktan çekinmezler</p>",
         "E": "<p>Karar vermekte tereddüt etmezler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861438,
@@ -332,8 +312,7 @@
         "D": "<p>8</p>",
         "E": "<p>10</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861500,
@@ -348,8 +327,7 @@
         "D": "<p>Yaratıcılık, yaratıcı deneyimler ile ilişkilidir.</p>",
         "E": "<p>Doğrudan risk faktörü yoktur.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861692,
@@ -364,8 +342,7 @@
         "D": "<p>Proaktif</p>",
         "E": "<p>Probiotik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861701,
@@ -380,8 +357,7 @@
         "D": "<p>Yöneticinin düşüncesini almadan yeni fikirler deneyebilirler. </p>",
         "E": "<p>Statü ya da güç için çalışır. Kabul edilmeyi, dikkate alınmayı sever.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861704,
@@ -396,8 +372,7 @@
         "D": "<p>Problem Çözme</p>",
         "E": "<p>Organize Olma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861432,
@@ -412,8 +387,7 @@
         "D": "<p>Zihinsel</p>",
         "E": "<p>Matematiksel</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861433,
@@ -428,8 +402,7 @@
         "D": "<p>17. yy</p>",
         "E": "<p>18. yy</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861434,
@@ -444,8 +417,7 @@
         "D": "<p>18. yy</p>",
         "E": "<p>19. yy</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861436,
@@ -460,8 +432,7 @@
         "D": "<p>Açık ve sonlu tepkiler var</p>",
         "E": "<p>Belirsizlikleri ve aksilikleri hoş görme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861498,
@@ -476,7 +447,6 @@
         "D": "<p>Japonya</p>",
         "E": "<p>Kanada</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     }
 ]

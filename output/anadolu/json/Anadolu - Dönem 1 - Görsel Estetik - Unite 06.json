@@ -640,6 +640,26 @@
         "Aciklama": "Şekil (Biçim) Arnheim’e göre bir nesnenin fiziksel yapısına bire bir benzemese de nesnenin tanınmasını sağlayan, nesnenin dış sınırlarını belirten ve bakıldığında hemen göze çarparak algılanabilen en temel özelliklerdir. Şekil iki boyutluluğu (en-boy) Form üç boyutluğu (en-boy-yükseklik) tanımlar."
     },
     {
+        "SoruID": 3858587,
+        "SoruMetni": "Aşağıdakilerden hangisi bir nesnenin başka bir nesneyle ya da bir bütün içerisinde yer alan bir parçanın diğer parçalarla veya bütün ile karşılaştırılarak herhangi bir özelliğinin algılanması anlamına gelen sözcüktür?",
+        "A": "Oran",
+        "B": "Yön",
+        "C": "Hareket",
+        "D": "Nokta",
+        "E": "Çizgi",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 6,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:20:22.998264",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Bir nesnenin başka bir nesneyle ya da bir bütün içerisinde yer alan bir parçanın diğer parçalarla veya bütün ile karşılaştırılarak herhangi bir özelliğinin algılanmasına Ölçü / oran denmektedir. Doğru cevap A'dır."
+    },
+    {
         "SoruID": 3858588,
         "SoruMetni": "Düzenli bir tekrara dayanarak hareketi başlatan, sürdüren, birleştirici ve uyum sağlayıcı bir öge olan, ve bireyin algılamasına kolaylık sağlar. Renk, ton<br/>değeri, doku, çizgi, biçim öğelerin bir düzen içerisinde birbiriyle ilişkilerini sağlayan, ön-arka ilişkisi kurduran, kompozisyon elemanı aşağıdakilerden hangisidir?",
         "A": "Ritim",
@@ -2378,6 +2398,26 @@
         "OBSDersId": 0,
         "CevapSira": null,
         "Aciklama": "Herhangi bir renkten bahsediyorsak biz o rengin üç değişken özelliğinden de bahsetmemiz gerekir. Bunlardan birincisi o rengin türüdür (cinsi) sarı, kırmızı, mavi gibi. İkinci değişken özelliği o rengin değeridir yani her rengin algılamada siyahla beyaz arasında bulunan bir ton değeri vardır. Örneğin; kırmızı ve yeşil gri değerdedir, sarı beyaza mor ise siyaha yakın bir gri değerdedir. Üçüncü değişken özelliği ise ‘chroma’ yani yoğunluğudur. Herhangi bir renk içerisine başka bir renk almadığı sürece o renk kroması yüksek durumdadır ama içine başka renkler karışarak griye yaklaştıkça kroması düşer. Gri, Siyah ve Beyaz sıfır kromalı yani kromasız renklerdir. Doğru cevap B Şıkkıdır."
+    },
+    {
+        "SoruID": 3859393,
+        "SoruMetni": "<img alt=\"https://tr.depositphotos.com/29545541/stock-photo-brown-texture-warm-stone-wall.html\" height=\"281\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/15f555f3efb0c7da95d601d4e98eb0a8.jpeg\" width=\"397\"/><br/>Yukarıdaki resimde hangi görsel anlatımın verilmesi amaçlanmış olabilir?",
+        "A": "Doku",
+        "B": "Çizgi",
+        "C": "Yön",
+        "D": "Ölçü",
+        "E": "Aralık",
+        "DogruCevap": "A",
+        "DersAd": "Görsel Estetik",
+        "Unite": 6,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:15:49.112797",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Nesnelerin fiziksel yapılarının iç özelliklerini, dış yüzeylerinden anlamamızı sağlayan işlevsel özelliklere doku denir ve doğanın en temel yapısal özelliklerinden birisidir. Her nesnenin kendine özgü bir dokusu vardır ve bu doku görsel algılama da o nesneyi diğer nesnelerden ayırmamızı sağlayan en temel ögelerden birisidir."
     },
     {
         "SoruID": 3859394,

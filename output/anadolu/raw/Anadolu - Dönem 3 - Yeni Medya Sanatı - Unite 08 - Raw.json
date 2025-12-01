@@ -12,8 +12,7 @@
         "D": "<p>III,IV</p>",
         "E": "<p>I,IV,V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641481,
@@ -28,8 +27,7 @@
         "D": "<p>I,III</p>",
         "E": "<p>I,III,IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641483,
@@ -44,8 +42,7 @@
         "D": "<p>Deep Space Music</p> ",
         "E": "<p>Akdeniz</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641484,
@@ -60,8 +57,7 @@
         "D": "<p>İki Bil­gisayar Satranç Oynuyor</p> ",
         "E": "<p>Cerebra Electronica</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641486,
@@ -76,8 +72,7 @@
         "D": "<p>Clones Project</p>",
         "E": "<p>Ergenekon.tc</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641489,
@@ -92,8 +87,7 @@
         "D": "<p>I,III</p>",
         "E": "<p>I,II,III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641586,
@@ -108,8 +102,7 @@
         "D": "<p>Pentür</p>",
         "E": "<p>Aplikasyon sanatı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641587,
@@ -124,8 +117,7 @@
         "D": "<p>2000'li yılların ortası</p>",
         "E": "<p>2010'lu yıllar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641589,
@@ -140,8 +132,7 @@
         "D": "<p>Art program</p>",
         "E": "<p>Djital Art</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641590,
@@ -156,8 +147,7 @@
         "D": "<p>Emine Ceylan</p>",
         "E": "<p>Ergin İnan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641604,
@@ -172,8 +162,7 @@
         "D": "<p>Ali Miharbi</p>",
         "E": "<p>Ebru Kurbak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641628,
@@ -188,8 +177,7 @@
         "D": "<p>Commodore 64</p>",
         "E": "<p>LG</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641629,
@@ -204,8 +192,7 @@
         "D": "<p>Ali Artun</p>",
         "E": "<p>Selçuk Artut</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641631,
@@ -220,8 +207,7 @@
         "D": "<p>Başak Şenova</p>",
         "E": "<p>İnci Eviner</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641633,
@@ -236,8 +222,7 @@
         "D": "<p>Burak Arıkan</p>",
         "E": "<p>Murat Pak</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641685,
@@ -252,8 +237,7 @@
         "D": "<p>2000</p>",
         "E": "<p>2010</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641688,
@@ -268,8 +252,7 @@
         "D": "<p>I, II, III ve V</p>",
         "E": "<p>II, III, IV ve V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641692,
@@ -284,8 +267,7 @@
         "D": "<p>Onur Sönmez </p>",
         "E": "<p>Selçuk Artut</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641805,
@@ -300,8 +282,7 @@
         "D": "<p>Refik Anadol</p>",
         "E": "<p>Burak Arıkan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641809,
@@ -316,8 +297,7 @@
         "D": "<p>Selçuk Arut</p>",
         "E": "<p>Server Demirtaş</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641482,
@@ -332,8 +312,7 @@
         "D": "<p>Özlem Alkış</p>",
         "E": "<p>Erdem Dilbaz</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641485,
@@ -348,8 +327,7 @@
         "D": "<p>Gabriel Prokofiev</p> ",
         "E": "<p>Onur Sönmez</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641591,
@@ -364,8 +342,7 @@
         "D": "<p>Halil Akdeniz</p>",
         "E": "<p>Refik Anadol</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641625,
@@ -380,8 +357,7 @@
         "D": "<p>festival</p>",
         "E": "<p>amberPlatform</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641632,
@@ -396,8 +372,7 @@
         "D": "<p>Hafryat </p>",
         "E": "<p>Clones Project</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641686,
@@ -412,8 +387,7 @@
         "D": "<p>Türkiye'de teknolojinin gelişmesi</p>",
         "E": "<p>Sanatçıların geleneksel yöntemlerden yetişmeleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641689,
@@ -428,8 +402,7 @@
         "D": "<p>Candaş Şişman</p>",
         "E": "<p>Osman Koç </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641779,
@@ -444,8 +417,7 @@
         "D": "<p>Açık kaynak yazılımının çoğalması</p>",
         "E": "<p>Eğitim kalitesinin yeterli olması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641780,
@@ -460,8 +432,7 @@
         "D": "<p>X-Change</p>",
         "E": "<p>NOHlab</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641804,
@@ -476,8 +447,7 @@
         "D": "<p>Prothesengott</p>",
         "E": "<p>Cerebra Electronica</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641806,
@@ -492,8 +462,7 @@
         "D": "<p>Ali Miharbi</p>",
         "E": "<p>Murat Pak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641807,
@@ -508,8 +477,7 @@
         "D": "<p>Bager Akbay</p>",
         "E": "<p>Zeynep Nal</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641490,
@@ -524,8 +492,7 @@
         "D": "<p>Şiirleri basılan  şair bir robotu konu edinir.</p>",
         "E": "<p>Banka üzerinden yapılan harcamaları analiz eden canlı bir yazılımın ertesi gün sanatçının ne alacağını tahmin etmesini konu edinir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641588,
@@ -540,8 +507,7 @@
         "D": "<p>Endüstriyel Sanatlar fakülteleri</p>",
         "E": "<p>Çizgi Film bölümleri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641603,
@@ -556,8 +522,7 @@
         "D": "<p>Burak Arıkan</p>",
         "E": "<p>Selçuk Artut</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641630,
@@ -572,8 +537,7 @@
         "D": "<p>Murat Pak</p>",
         "E": "<p>Candaş Şiman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641690,
@@ -588,8 +552,7 @@
         "D": "<p>Jeff Koons  </p>",
         "E": "<p>Murat Pak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641691,
@@ -604,8 +567,7 @@
         "D": "<p>Beeple<br /><br /></p>",
         "E": "<p>Damien Hirst<br /><br /></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641693,
@@ -620,8 +582,7 @@
         "D": "<p>Tuneable Touch</p>",
         "E": "<p>Knitted Radio</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641778,
@@ -636,8 +597,7 @@
         "D": "<p>1970'lerden sonra</p>",
         "E": "<p>1980'lerden sonra</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641808,
@@ -652,8 +612,7 @@
         "D": "<p>Bager Akbay</p>",
         "E": "<p>Erdal İnci</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641487,
@@ -668,8 +627,7 @@
         "D": "<p>Server Demir­taş</p> ",
         "E": "<p>Memo Akten</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641627,
@@ -684,8 +642,7 @@
         "D": "<p>anlama</p>",
         "E": "<p>başkasını ifade etme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641626,
@@ -700,8 +657,7 @@
         "D": "<p>Bulgaristan ve Arnavutluk</p>",
         "E": "<p>Hollanda ve Danimarka</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641602,
@@ -716,8 +672,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>III ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641634,
@@ -732,8 +687,7 @@
         "D": "<p>Murat Pak </p>",
         "E": "<p>Refik Anadol</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641687,
@@ -748,8 +702,7 @@
         "D": "<p>Görsel Sanatlar </p>",
         "E": "<p>Sahne ve Gösteri Sanatları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641781,
@@ -764,8 +717,7 @@
         "D": "<p>X-CHange</p>",
         "E": "<p>Ars Electronica</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641694,
@@ -780,7 +732,6 @@
         "D": "<p>Digilogue<br /><br /></p>",
         "E": "<p>NOMAD-TV.network</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Hedef vurmayı simule etme niteliği</p> ",
         "E": "<p>Ansiklopedik nitelik</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3768986,
@@ -28,8 +27,7 @@
         "D": "<p>Oyunlar, oyuncular arasında iletişimi mümkün kılar.</p> ",
         "E": "<p>Oyuncular, kurallarla sınırları belirlenen yönergeleri izleyerek oyunda adım adım ilerler.</p>   ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3768988,
@@ -44,8 +42,7 @@
         "D": "<p><strong>Başaranlar</strong></p> ",
         "E": "<p>Yarışanlar</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3768991,
@@ -60,8 +57,7 @@
         "D": "<p>Katılım</p> ",
         "E": "<p>Ansiklopedik nitelik</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769280,
@@ -76,8 +72,7 @@
         "D": "<p>Bernard Suits</p>",
         "E": "<p>David Parlett</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769290,
@@ -92,8 +87,7 @@
         "D": "<p>Sürpriz Yumurta</p>",
         "E": "<p>Köstebek</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769308,
@@ -108,8 +102,7 @@
         "D": "<p>Eric Zimmerman</p>",
         "E": "<p>Salen Tekinbaş</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769311,
@@ -124,8 +117,7 @@
         "D": "<p>Ansiklopedik nitelik</p>",
         "E": "<p>Yaratıcılık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769313,
@@ -140,8 +132,7 @@
         "D": "<p>Yaratıcılık</p>",
         "E": "<p>Katılım</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769401,
@@ -156,8 +147,7 @@
         "D": "<p>ATM uyarlama katmanı</p>",
         "E": "<p>Brouter</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769406,
@@ -172,8 +162,7 @@
         "D": "<p>Play</p>",
         "E": "<p>Serbest Oyun</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769410,
@@ -188,8 +177,7 @@
         "D": "<p>Ansiklopedik Nitelik</p>",
         "E": "<p>Uzamsallık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769411,
@@ -204,8 +192,7 @@
         "D": "<p>Eğitim</p>",
         "E": "<p>Savaş</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769422,
@@ -220,8 +207,7 @@
         "D": "<p>Fransa Lascaux Mağarası günümzden 17 bin yıl öncesi.</p>",
         "E": "<p>Irak Şanidar Mağarası günümüzden 50 bin yıl öncesi.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769425,
@@ -236,8 +222,7 @@
         "D": "<p>Lego.</p>",
         "E": "<p>Super Mario.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769428,
@@ -252,8 +237,7 @@
         "D": "<p>Malware.</p>",
         "E": "<p>Spyware.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769429,
@@ -268,8 +252,7 @@
         "D": "<p>Dijital kültürün en basit formudur.</p>",
         "E": "<p>Dijital kültürün en karmaşık formudur.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769430,
@@ -284,8 +267,7 @@
         "D": "<p>E-player.</p>",
         "E": "<p>E-videogame.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769452,
@@ -300,8 +282,7 @@
         "D": "<p>Creative</p>",
         "E": "<p>Entertainment</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769453,
@@ -316,8 +297,7 @@
         "D": "<p>Oyuncu oyunun sonucuna duygusal olarak bağlıdır.</p>",
         "E": "<p>Oyunun sonuçları gerçek dünyaya aktarabilir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3768987,
@@ -332,8 +312,7 @@
         "D": "<p>Çin</p> ",
         "E": "<p>Almanya</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3768989,
@@ -348,8 +327,7 @@
         "D": "<p>Alternatif oyunlar</p> ",
         "E": "<p>Serbest oyunlar</p>  ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769295,
@@ -364,8 +342,7 @@
         "D": "<p>Dijital oyuncu</p>",
         "E": "<p>Sanal atlet</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769316,
@@ -380,8 +357,7 @@
         "D": "<p>Gerçek zaman</p>",
         "E": "<p>Sanal düzlem</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769320,
@@ -396,8 +372,7 @@
         "D": "<p>Gelişigüzel oyunlar</p>",
         "E": "<p>Kutu oyunları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769402,
@@ -412,8 +387,7 @@
         "D": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Oyun kültürü özellikleri bu kavrama tekil özellikler katar.</p> </div> </div> </div> </div>",
         "E": "<p>Dijital oyunlarda tekil bir dijital oyun kültüründen söz etmek mümkündür.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769404,
@@ -428,8 +402,7 @@
         "D": "<p>Roger Caillois</p>",
         "E": "<p>Johan Huizinga</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769407,
@@ -444,8 +417,7 @@
         "D": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Oyunlar bir tür aktivite, süreç ya da etkinlik içerir.</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Oyunlar karar verme süreçleri içerir.</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769409,
@@ -460,8 +432,7 @@
         "D": "<p>Jesper Juul</p>",
         "E": "<p>Katie Salen Tekinbaş</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769423,
@@ -476,8 +447,7 @@
         "D": "<p>I., III. ve IV.</p>",
         "E": "<p>III. ve IV.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769424,
@@ -492,8 +462,7 @@
         "D": "<p>Bernard Perron</p>",
         "E": "<p>Richard Bartle</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769455,
@@ -508,8 +477,7 @@
         "D": "<p>Bellek</p>",
         "E": "<p>Sunucu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769460,
@@ -524,8 +492,7 @@
         "D": "<p>Katiller</p>",
         "E": "<p>Yedekler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769463,
@@ -540,8 +507,7 @@
         "D": "<p>Metaoyun</p>",
         "E": "<p>Oyunlaştırma</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769465,
@@ -556,8 +522,7 @@
         "D": "<p>Deep Fake</p>",
         "E": "<p>Metaoyun</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769471,
@@ -572,8 +537,7 @@
         "D": "<p>Ağ Bağlantısı</p>",
         "E": "<p>Yerel Ağ</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769475,
@@ -588,8 +552,7 @@
         "D": "<p>Jason Norman</p>",
         "E": "<p>Henry Brave</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769476,
@@ -604,8 +567,7 @@
         "D": "<p>Hidden Gold</p>",
         "E": "<p>Secret Box</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769480,
@@ -620,8 +582,7 @@
         "D": "<p>Hidden Gems</p>",
         "E": "<p>Secret Box</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3768990,
@@ -636,8 +597,7 @@
         "D": "<p>Ayiti: The Cost of Life</p> ",
         "E": "<p>Passage</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769403,
@@ -652,8 +612,7 @@
         "D": "<p>Aizonai, M.Ö. 2.200</p>",
         "E": "<p>Han, M.Ö. 3.000</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769427,
@@ -668,8 +627,7 @@
         "D": "<p>Apple.</p>",
         "E": "<p>Nintendo.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769456,
@@ -684,8 +642,7 @@
         "D": "<p>Ansiklopedik</p>",
         "E": "<p>Sanal olma</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769461,
@@ -700,8 +657,7 @@
         "D": "<p>Uzam</p>",
         "E": "<p>Metaoyun</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769473,
@@ -716,8 +672,7 @@
         "D": "<p>Frig</p>",
         "E": "<p>Hitit</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769474,
@@ -732,8 +687,7 @@
         "D": "<p>Demokritos</p>",
         "E": "<p>Aristotales</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769478,
@@ -748,8 +702,7 @@
         "D": "<p>Richard Noire</p>",
         "E": "<p>Chris Hawks</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3768992,
@@ -764,8 +717,7 @@
         "D": "<p>Avustralya</p> ",
         "E": "<p>Güney Kore</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769279,
@@ -780,8 +732,7 @@
         "D": "<p>Dijital ortam</p>",
         "E": "<p>Mobil cihaz</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769283,
@@ -796,8 +747,7 @@
         "D": "<p>Siyah ve beyaz taşlardan 24 adet bulunur.</p>",
         "E": "<p>Taşların nasıl hareket edeceğini oyuncu kendi belirlemez.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769408,
@@ -812,8 +762,7 @@
         "D": "<p>Chris Crawford, David Kelley</p>",
         "E": "<p>David Parlett, Roger Caillois</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769477,
@@ -828,8 +777,7 @@
         "D": "<p>Richards ve Hills</p>",
         "E": "<p>Norris ve Hats</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769479,
@@ -844,8 +792,7 @@
         "D": "<p>Crawford</p>",
         "E": "<p>Kelley</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3768983,
@@ -860,8 +807,7 @@
         "D": "<p>Yunanistan’da Olympia Antik Kenti’nde yapılan arkeolojik kazılarda.</p> ",
         "E": "<p>İran’da yapılan arkeolojik kazılarda.</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3768984,
@@ -876,8 +822,7 @@
         "D": "<p>1980</p> ",
         "E": "<p>1995</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769405,
@@ -892,8 +837,7 @@
         "D": "<p>Eric Zimmerman</p>",
         "E": "<p>Jesper Juul</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769426,
@@ -908,8 +852,7 @@
         "D": "<p>Futbol.</p>",
         "E": "<p>Satranç.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769451,
@@ -924,8 +867,7 @@
         "D": "<p>Sutton Smith</p>",
         "E": "<p>David Parlett</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769472,
@@ -940,8 +882,7 @@
         "D": "<p>Elazığ</p>",
         "E": "<p>Siirt</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769454,
@@ -956,7 +897,6 @@
         "D": "<p>Uzamsallık</p>",
         "E": "<p>Merkeziyetçilik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     }
 ]

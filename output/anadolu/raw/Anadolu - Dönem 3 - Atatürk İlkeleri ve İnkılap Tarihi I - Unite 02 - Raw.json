@@ -12,8 +12,7 @@
         "D": "<p>Serbestî</p>",
         "E": "<p>Volkan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887322,
@@ -28,8 +27,7 @@
         "D": "<p>1913 tarihli Londra Antlaşması gereğince Ege Adalarının geleceği büyük devletlerin kararına bırakılmış, Birinci Dünya savaşına bu şartlarda girilmiştir.</p>",
         "E": "<p>Birinci Balkan Savaşında Osmanlı Devleti’nden aldıkları toprakları paylaşamayan Balkan devletleri yeni bir krizin fitilini ateşlemişlerdir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887323,
@@ -44,8 +42,7 @@
         "D": "<p>Bulgaristan</p>",
         "E": "<p>Avusturya</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887324,
@@ -60,8 +57,7 @@
         "D": "<p>Osmanlı Devleti ile Almanya arasında 2 Ağustos 1914’te Türk-Alman ittifak anlaşmasının imzalanması.</p>",
         "E": "<p>Osmanlı filosunun, 29 Ekim 1914’te Karadeniz’e çıkarak Sivastopol ve Odessa’yı bombalaması.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887325,
@@ -76,8 +72,7 @@
         "D": "<p>Suriye-Filistin</p>",
         "E": "<p>Irak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887326,
@@ -92,8 +87,7 @@
         "D": "<p>İngiltere ve Fransa adına özellikle sömürgelerden toplanan kuvvetler, en mühim savaş deneyimlerini yaşamışlardır.</p>",
         "E": "<p>Osmanlı Devleti ile karşı karşıya gelen sömürgelerin Müslüman askerleri durumu çok sonra kavramışlardır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887327,
@@ -108,8 +102,7 @@
         "D": "<p>Mustafa Hilmi Paşa</p>",
         "E": "<p>Yakup Şevki Paşa</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887328,
@@ -124,8 +117,7 @@
         "D": "<p>Mağlup devletlere getirilen ağır koşullar ve galiplerin çıkar çatışmaları.</p>",
         "E": "<p>Avrupa’da yeni bir siyasi harita ve güçler dengesi ortaya çıkması.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887329,
@@ -140,8 +132,7 @@
         "D": "<p>Macaristan </p>",
         "E": "<p>Bulgaristan</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887330,
@@ -156,8 +147,7 @@
         "D": "<p>14 Şubat 1909</p>",
         "E": "<p>5 Ekim 1908</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887331,
@@ -172,8 +162,7 @@
         "D": "<p>Hasan Fehmi’nin Galata Köprüsü’nde faili meçhul bir cinayete kurban gitmesi.</p>",
         "E": "<p>İttihat ve Terakki’ye yakın Hüseyin Hilmi Paşanın sadrazam olması.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887332,
@@ -188,8 +177,7 @@
         "D": "<p>Ordudan tasfiye edilen alaylı subayların geri dönmesi.</p>",
         "E": "<p>Kâmil Paşa’nın sadarete getirilmesi ve  İttihat ve Terakki’nin ilgası.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887333,
@@ -204,8 +192,7 @@
         "D": "<p>İkdam</p>",
         "E": "<p>Meşveret </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887334,
@@ -220,8 +207,7 @@
         "D": "<p>Bulgaristan-Karadağ-Yunanistan</p>",
         "E": "<p>Karadağ-Yunanistan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887335,
@@ -236,8 +222,7 @@
         "D": "<p>Yunanistan, Selanik, G&uuml;ney Makedonya ve Girit&rsquo;i sınırları i&ccedil;erisine katacaktı.</p>",
         "E": "<p>Sırbistan, Orta ve Kuzey Makedonya&rsquo;ya sahip olacaktı.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887336,
@@ -252,8 +237,7 @@
         "D": "<p>II. Balkan Savaşı</p>",
         "E": "<p>Türk-İtalyan Savaşı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887337,
@@ -268,8 +252,7 @@
         "D": "<p>Fransa, Rusya ve Avusturya</p>",
         "E": "<p>Fransa, İngiltere ve İtalya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887338,
@@ -284,8 +267,7 @@
         "D": "<p>İtalya’nın İtilaf devletlerine katılmasıyla Avrupa’da İtalya Cephesi açılması.</p>",
         "E": "<p>Yunanistan’ın da İtilaf devletleri yanında savaşa girmesi.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887339,
@@ -300,7 +282,6 @@
         "D": "<p>Osmanlı Devleti</p>",
         "E": "<p>Almanya</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>MR</p>",
         "E": "<p>XR</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3683567,
@@ -28,8 +27,7 @@
         "D": "<p>1958</p>",
         "E": "<p>1959</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3683604,
@@ -44,8 +42,7 @@
         "D": "<p class=\"p2\">Joseph Weizenbaum</p>",
         "E": "<p>Claude Shannon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3683652,
@@ -60,8 +57,7 @@
         "D": "<p>Doğal dil işleme</p>",
         "E": "<p>Büyük veri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3683719,
@@ -76,8 +72,7 @@
         "D": "<p>CorelDRAW</p>",
         "E": "<p>Blender</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3683776,
@@ -92,8 +87,7 @@
         "D": "<p>Çoklu modalite</p>",
         "E": "<p>Derin güçlendirme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3683808,
@@ -108,8 +102,7 @@
         "D": "<p>Karma Gerçeklik</p>",
         "E": "<p>Genişletilmiş Gerçeklik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3683832,
@@ -124,8 +117,7 @@
         "D": "<p>sanal ortamların</p>",
         "E": "<p>genişletilmiş gerçekliğin</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3683874,
@@ -140,8 +132,7 @@
         "D": "<p>Üretken görselleştirme</p>",
         "E": "<p>Gerçek zamanlı görselleştirme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3683901,
@@ -156,7 +147,6 @@
         "D": "<p class=\"p1\">Katı Geometri Formatı</p>",
         "E": "<p>Yüzey Dosya Formatı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

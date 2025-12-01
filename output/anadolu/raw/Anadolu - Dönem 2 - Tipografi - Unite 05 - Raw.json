@@ -12,8 +12,7 @@
         "D": "<p>II-IV</p>",
         "E": "<p>III-IV-V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769884,
@@ -28,8 +27,7 @@
         "D": "<p>Vurgu</p>",
         "E": "<p>Altın oran</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769885,
@@ -44,8 +42,7 @@
         "D": "<p>Tamamlama İlkesi</p>",
         "E": "<p>Bütünlük İlkesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769912,
@@ -60,8 +57,7 @@
         "D": "<p>Tasarım ilkeleri, görsel elemanların bir tasarım yüzeyi üzerinde nasıl ve hangi özellikler ile konumlandırılacağını belirleyen ilkelerdir</p>",
         "E": "<p>Tipografik hiyerarşiyi desteklemeye yardımcı olması için rengi bir araç olarak kullanmadır</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769918,
@@ -76,8 +72,7 @@
         "D": "<p>Yazı karakteri tasarımlarında da tamamlama ilkesi kullanılabilir</p>",
         "E": "<p>Yakınlık ilkesi doğrultusunda oluşturulan tasarımlarda izleyicinin ilk olarak büyük olan parçayı algılamasıdır</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770047,
@@ -92,8 +87,7 @@
         "D": "<p>Ritim</p>",
         "E": "<p>Vurgu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770048,
@@ -108,8 +102,7 @@
         "D": "<p>Tamamlama</p>",
         "E": "<p>Süreklilik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770051,
@@ -124,8 +117,7 @@
         "D": "<p>Oran-orantı</p> ",
         "E": "<p>Bütünlük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770052,
@@ -140,8 +132,7 @@
         "D": "<p>Beyaz genellikle siyahtan ağırdır</p> ",
         "E": "<p>Malzeme görsel ağırlığı etkiler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770056,
@@ -156,8 +147,7 @@
         "D": "<p>Yön</p> ",
         "E": "<p>Dizgi yöntemi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770057,
@@ -172,8 +162,7 @@
         "D": "<p>Ritim</p> ",
         "E": "<p>Oran-orantı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770058,
@@ -188,8 +177,7 @@
         "D": "<p>Oran-orantı</p>",
         "E": "<p>Bütünlük</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770062,
@@ -204,8 +192,7 @@
         "D": "<p>Estetik kaygı</p>",
         "E": "<p>Mesaj</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770063,
@@ -220,8 +207,7 @@
         "D": "<p>Doku</p>",
         "E": "<p>Büyük-küçük ilişkisi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770068,
@@ -236,8 +222,7 @@
         "D": "<p>Kontrastlık</p>",
         "E": "<p>Hareket</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770069,
@@ -252,8 +237,7 @@
         "D": "<p>Süreklilik</p>",
         "E": "<p>Şekil-zemin</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770070,
@@ -268,8 +252,7 @@
         "D": "<p>Ritim</p> ",
         "E": "<p>Bütünlük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770073,
@@ -284,8 +267,7 @@
         "D": "<p>İkincil düzey</p> ",
         "E": "<p>Alt bilgiler düzeyi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770083,
@@ -300,8 +282,7 @@
         "D": "<p>Dördüncü düzey</p>",
         "E": "<p>Diğer düzeyler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770089,
@@ -316,8 +297,7 @@
         "D": "<p>IV ve V</p>",
         "E": "<p>I, II, III, IV, V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769748,
@@ -332,8 +312,7 @@
         "D": "<p>II-III-IV</p>",
         "E": "<p>II-V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769765,
@@ -348,8 +327,7 @@
         "D": "<p>Form</p>",
         "E": "<p>Tipografi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769886,
@@ -364,8 +342,7 @@
         "D": "<p>Çizgi</p>",
         "E": "<p>Leke</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769890,
@@ -380,8 +357,7 @@
         "D": "<p>Altın oran</p>",
         "E": "<p>Oran orantı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769892,
@@ -396,8 +372,7 @@
         "D": "<p>Işık</p>",
         "E": "<p>Büyük-küçük ilişkisi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769914,
@@ -412,8 +387,7 @@
         "D": "<p>Görsel Hiyerarşidir</p>",
         "E": "<p>Dikkat çekmesidir</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769917,
@@ -428,8 +402,7 @@
         "D": "<p>Renklerin kombinasyonu</p>",
         "E": "<p>Tamamlama ilkesinin kullanımı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769919,
@@ -444,8 +417,7 @@
         "D": "<p>Devamlılık İlkesi</p>",
         "E": "<p>Yakınlık İlkesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770044,
@@ -460,8 +432,7 @@
         "D": "<p>Vurgu</p>",
         "E": "<p>Bütünlük</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770046,
@@ -476,8 +447,7 @@
         "D": "<p>Oran-orantı</p>",
         "E": "<p>Görsel hiyerarşi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770053,
@@ -492,8 +462,7 @@
         "D": "<p>Ambigram</p>  ",
         "E": "<p>Piktogram</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770055,
@@ -508,8 +477,7 @@
         "D": "<p>Tonlama</p> ",
         "E": "<p>Görsel vurgu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770064,
@@ -524,8 +492,7 @@
         "D": "<p>Ambigram</p>",
         "E": "<p>Ambalaj</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770066,
@@ -540,8 +507,7 @@
         "D": "<p>Odak noktası</p>",
         "E": "<p>Perspektif</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770088,
@@ -556,8 +522,7 @@
         "D": "<p>Vurgulama, sadece ön plana çıkması istenen öğeler arasında sağlanır.</p> ",
         "E": "<p>İkinci planda kalması istenen öğeler vurgulama sürecinde dikkate alınmamalıdır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769762,
@@ -572,8 +537,7 @@
         "D": "<p>II-IV</p>",
         "E": "<p>III-IV-V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769767,
@@ -588,8 +552,7 @@
         "D": "<p>Tipografik Ritim</p>",
         "E": "<p>Görsel Ritim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769769,
@@ -604,8 +567,7 @@
         "D": "<p>I-III-V</p>",
         "E": "<p>I-IV-V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769911,
@@ -620,8 +582,7 @@
         "D": "<p>Çoğunlukla simetrik bir yapıya sahiptir</p>",
         "E": "<p>Benzer görsel elemanların düzensiz biçimde tekrarıdır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770041,
@@ -636,8 +597,7 @@
         "D": "<p>Oran-orantı </p>",
         "E": "<p>Bütünlük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770045,
@@ -652,8 +612,7 @@
         "D": "<p>I, III, IV, V</p>",
         "E": "<p>I, II, III, IV, V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770049,
@@ -668,8 +627,7 @@
         "D": "<p>Tamamlama İlkesi</p>",
         "E": "<p>Süreklilik İlkesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770059,
@@ -684,8 +642,7 @@
         "D": "<p>Devamlılık İlkesi</p> ",
         "E": "<p>Şekil-Zemin İlkesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770061,
@@ -700,8 +657,7 @@
         "D": "<p>Sayfa düzeni</p>",
         "E": "<p>Yazınsal iletişim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770065,
@@ -716,8 +672,7 @@
         "D": "<p>Merkezi denge</p>",
         "E": "<p>Bakışımsız denge</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770075,
@@ -732,8 +687,7 @@
         "D": "<p>Parça-bütün ilişkisi</p>",
         "E": "<p>Büyük-küçük ilişkisi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770078,
@@ -748,8 +702,7 @@
         "D": "<p>Birlik</p>",
         "E": "<p>Varyasyon</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770080,
@@ -764,8 +717,7 @@
         "D": "<p>Şekil-zemin</p>",
         "E": "<p>Devamlılık</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770081,
@@ -780,8 +732,7 @@
         "D": "<p>Soğuk renkler </p>",
         "E": "<p>Sıcak renkler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769764,
@@ -796,8 +747,7 @@
         "D": "<p>Tipografik</p>",
         "E": "<p>Asimetrik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769766,
@@ -812,8 +762,7 @@
         "D": "<p>Tipografik Ritim</p>",
         "E": "<p>Görsel Ritim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769894,
@@ -828,8 +777,7 @@
         "D": "<p>Vurgu</p>",
         "E": "<p>Görsel Hiyerarşi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770042,
@@ -844,8 +792,7 @@
         "D": "<p>Vurgu</p>",
         "E": "<p>Oran-Orantı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770054,
@@ -860,8 +807,7 @@
         "D": "<p>Görsel Sıralama</p> ",
         "E": "<p>Tipografik Ölçülendirme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769763,
@@ -876,8 +822,7 @@
         "D": "<p>görsel ağırlık</p>",
         "E": "<p>düzenleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769770,
@@ -892,8 +837,7 @@
         "D": "<p>yakınlık - renk</p>",
         "E": "<p>tipografi - grafik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769880,
@@ -908,8 +852,7 @@
         "D": "<p>Vurgu</p>",
         "E": "<p>Ritm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769920,
@@ -924,8 +867,7 @@
         "D": "<p>Renklerin etkisini arttırır</p>",
         "E": "<p>Benzerlik İlkesini oluşturur</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770067,
@@ -940,8 +882,7 @@
         "D": "<p>Konum</p>",
         "E": "<p>Aralık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770076,
@@ -956,8 +897,7 @@
         "D": "<p>Daha dinamiktir</p>",
         "E": "<p>Merkezi bir yapıya sahiptir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770085,
@@ -972,8 +912,7 @@
         "D": "<p>Dikkat</p> ",
         "E": "<p>Algıda seçicilik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770086,
@@ -988,8 +927,7 @@
         "D": "<p>Benzerlik</p> ",
         "E": "<p>Tamamlama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770087,
@@ -1004,8 +942,7 @@
         "D": "<p>Tipografik hiyerarşide rengi bir amaç olarak kullanmak gerekir.</p> ",
         "E": "<p>Tasarımda tipografik hiyerarşide siyah alanı vurgu oluşturmak için kullanın.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769913,
@@ -1020,8 +957,7 @@
         "D": "<p>Tasarım yüzeyinde yer alan eşdeğer ya da benzer görsel elemanların belirli aralıklarla, düzenli ya da düzensiz bir biçimde tekrar etmesiyle sağlanabilir</p>",
         "E": "<p>Düzenli olarak tekrar eden ritmik yapılar ile dokusal görüntüler ya da hareket izlenimi yaratan görüntüler oluşturmadır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770074,
@@ -1036,8 +972,7 @@
         "D": "<p>Bütünlük</p>",
         "E": "<p>Görsel hiyerarşi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770077,
@@ -1052,8 +987,7 @@
         "D": "<p>Ön-arka ilişkisi</p>",
         "E": "<p>Bütünlük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770084,
@@ -1068,8 +1002,7 @@
         "D": "<p>Şekil-zemin</p> ",
         "E": "<p>Süreklilik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769871,
@@ -1084,8 +1017,7 @@
         "D": "<p>I, III, IV, V</p>",
         "E": "<p>I, II, III, IV, V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769889,
@@ -1100,8 +1032,7 @@
         "D": "<p>Yakınlık İlkesi</p>",
         "E": "<p>Şekil-Zemin İlkesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770060,
@@ -1116,8 +1047,7 @@
         "D": "<p>Devamlılık İlkesi</p> ",
         "E": "<p>Şekil-Zemin İlkesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770071,
@@ -1132,8 +1062,7 @@
         "D": "<div class=\"page\" title=\"Page 20\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Genel yapıları benzerlik gösteren, ortak özelliklere sahip olan, ancak detaylarda fark- lılık gösterebilen görsel elemanlar algısal bir grup oluştururlar. Renk, doku, biçim, yazı karakteri, boyut, konum, boşluk kullanımı açısından benzer olan görsel elemanlar birlikte algılanırlar.</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 24\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sürekliliği olan görsel elemanlar grup özelliği göstererek daha kısa sürede algılanabilir. Hizalama, konumlandırma ve benzer renk kullanımı ile devamlılık sağlanabilir, böylece farklı biçimler ya da farklı fikirler arasında bağlantı kurularak bütünlük sağlanır.</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770090,
@@ -1148,8 +1077,7 @@
         "D": "<p>Ritmik yapı</p> ",
         "E": "<p>Varyasyon ritmi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770050,
@@ -1164,8 +1092,7 @@
         "D": "<p>Yakınlık ilkesi</p>",
         "E": "<p>Altın oran</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770072,
@@ -1180,8 +1107,7 @@
         "D": "<p>Ritim</p> ",
         "E": "<p>Bütünlük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770082,
@@ -1196,8 +1122,7 @@
         "D": "<p>Konum</p>",
         "E": "<p>Anlam</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769916,
@@ -1212,8 +1137,7 @@
         "D": "<p>Devamlılık İlkesi</p>",
         "E": "<p>Yakınlık İlkesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769883,
@@ -1228,8 +1152,7 @@
         "D": "<p>Ritim</p>",
         "E": "<p>Simetri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769915,
@@ -1244,8 +1167,7 @@
         "D": "<p>Tasarımda en az görsel ağırlığa sahip olan öğeledir</p>",
         "E": "<p>Tasarımda en fazla görsel ağırlık verilen elemanla oluşturulur</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770043,
@@ -1260,8 +1182,7 @@
         "D": "<p>Ritim</p>",
         "E": "<p>Büyük küçük ilişkisi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3770079,
@@ -1276,7 +1197,6 @@
         "D": "<p>Devamlılık ilkesi</p>",
         "E": "<p>Yakınlık ilkesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     }
 ]

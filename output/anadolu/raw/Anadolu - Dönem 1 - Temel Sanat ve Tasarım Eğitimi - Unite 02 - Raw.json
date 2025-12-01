@@ -12,8 +12,7 @@
         "D": "<p>Prototip Oluşturma<br /><br /></p>",
         "E": "<p>Test Etme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861041,
@@ -28,8 +27,7 @@
         "D": "<p>Evrensel Tasarım</p>",
         "E": "<p>Grafik Tasarımı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861042,
@@ -44,8 +42,7 @@
         "D": "<p>Kodlama</p>",
         "E": "<p>Geri bildirim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861043,
@@ -60,8 +57,7 @@
         "D": "<p>Görsel soyutlama</p>",
         "E": "<p>Kod çözme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861044,
@@ -76,8 +72,7 @@
         "D": "<p>I, II, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861045,
@@ -92,8 +87,7 @@
         "D": "<p>Doku</p>",
         "E": "<p>Boyut</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861046,
@@ -108,8 +102,7 @@
         "D": "<p>Görsel hiyerarşi</p>",
         "E": "<p>Görsel hizalama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861047,
@@ -124,8 +117,7 @@
         "D": "<p>I, II, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861049,
@@ -140,8 +132,7 @@
         "D": "<p> Art Deco</p>",
         "E": "<p>The Arts &amp; Crafts</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861050,
@@ -156,8 +147,7 @@
         "D": "<p><span style=\"font-size: 12pt;\">Tasarım; bir model, kalıp ya da süsleme yapmaktır.</span></p>",
         "E": "<p><span style=\"font-size: 12pt;\">Tasarım süreci kullanıcıların ilgi, beğeni ve ihtiyaçları dikkate alınarak gerçekleştirilen inovatif bir pratiktir.</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861053,
@@ -172,8 +162,7 @@
         "D": " <p><span style=\"font-size: 11.0pt; font-family: 'AGaramondPro',serif;\"> İletişimci tarafından mesajın iletilmesi ile başlar ve alıcılar tarafından verilen geri bildirim ile sona eren bir süreçtir. </span></p> ",
         "E": "<p><span style=\"font-size: 11.0pt; font-family: 'AGaramondPro',serif;\"> Kullanıcı merkezli olan tasarım odaklı düşünme pratikleri aynı zamanda problem çözücü, yeniliği teşvik eden, öngörülü, ilerici bir bakış açısını gerektiren bir yaklaşım biçimidir.</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861055,
@@ -188,8 +177,7 @@
         "D": "<p>Çizgi</p>",
         "E": "<p>Nokta</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861056,
@@ -204,8 +192,7 @@
         "D": "<p><span style=\"font-size: 11.0pt; font-family: 'AGaramondPro',serif;\">Eğitim ve iletişim tasarımında</span></p>",
         "E": "<p><span style=\"font-size: 11.0pt; font-family: 'AGaramondPro',serif;\"> Görsel tasarımda</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861057,
@@ -220,8 +207,7 @@
         "D": "<p><span style=\"font-size: 11.0pt; font-family: 'AGaramondPro',serif;\">Video, fotoğraf ya da bazı sanat eserlerinin basit bir tasarım olarak görülmekle birlikte eserlerin dijitale dönüştürülerek yüksek fiyatlarla piyasaya sürülmesidir.</span></p>",
         "E": "<p><span style=\"font-size: 11.0pt; font-family: 'AGaramondPro',serif;\">Sosyal, kültürel olgulardan etkilenerek zamana ve mekâna göre değişiklikler gösterir. </span></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861058,
@@ -236,8 +222,7 @@
         "D": "<p>Endüstriyel tasarım</p> ",
         "E": "<p>Mimari tasarım</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861060,
@@ -252,8 +237,7 @@
         "D": "<p>Eskiz</p> ",
         "E": "<p>Kuram</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861062,
@@ -268,8 +252,7 @@
         "D": "<p>Problemin Tanımı</p>",
         "E": "<p>Çözüm Bulma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861065,
@@ -284,8 +267,7 @@
         "D": "<p>Zihinsel Düşünme</p>",
         "E": "<p>Etkileşimli düşünme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861066,
@@ -300,8 +282,7 @@
         "D": "<p>Süsleme</p>",
         "E": "<p>Empati</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861067,
@@ -316,8 +297,7 @@
         "D": "<p>Öğrenme</p>",
         "E": "<p>Kapasite</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861048,
@@ -332,8 +312,7 @@
         "D": "<p>Geleneksellikten yanadır.</p>",
         "E": "<p>Yapısal özellikleri/formları doğaya uyumludur.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861051,
@@ -348,8 +327,7 @@
         "D": "<p>Ürün Modelleme</p>",
         "E": "<p>Web Tasarımı Pazarlama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861059,
@@ -364,8 +342,7 @@
         "D": "<p>Yeni sanat anlayışı</p>",
         "E": "<p>Fonksiyonellik anlayışına dayalı fütürizmden etkilenen bir hareket</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861061,
@@ -380,8 +357,7 @@
         "D": "<p>Uzay</p> ",
         "E": "<p>3 Boyut</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861064,
@@ -396,8 +372,7 @@
         "D": "<p>Sosyalleşme</p>",
         "E": "<p>Empati</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861068,
@@ -412,8 +387,7 @@
         "D": "<p>3D tasarım</p>",
         "E": "<p>2D  tasarım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861069,
@@ -428,8 +402,7 @@
         "D": "<p>Televizyon</p> ",
         "E": "<p>Sinema</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861052,
@@ -444,8 +417,7 @@
         "D": "<p> Yapılandırmacılık</p> ",
         "E": "<p>Küresel sistemin dijitalleştirilmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861054,
@@ -460,8 +432,7 @@
         "D": "<p>Kod çözme</p>",
         "E": "<p>Gürültü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861063,
@@ -476,7 +447,6 @@
         "D": "<p>Prototip</p>",
         "E": "<p>Empati</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     }
 ]

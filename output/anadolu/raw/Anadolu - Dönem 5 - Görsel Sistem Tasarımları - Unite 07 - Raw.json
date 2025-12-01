@@ -12,8 +12,7 @@
         "D": "<p>1801</p>",
         "E": "<p>1883</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862276,
@@ -28,8 +27,7 @@
         "D": "<p>Kişilerin gidemeyeceği yerlere gidebilir</p>",
         "E": "<p>Zaman açısından daha elverişlidir; uygun olunduğu zaman yazılabilir ve okunabilir, gerektiğinde üzerinde değişiklikler yapıla­bilir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862277,
@@ -44,8 +42,7 @@
         "D": "<p>Tasarım açısından sınırlayıcı bir çerçeve çizilmemesi</p>",
         "E": "<p>Üretilen sistemlerin tasarım ve işleyişteki unsurlar açısından birbirleri arasında bazı farklılıklar göstermesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862278,
@@ -60,8 +57,7 @@
         "D": "<p>Göz nesneyi çevresinden ayırdığında algılanmaktadır</p>",
         "E": "<p>Nesneler birlikte yer aldıklarında, göz onları grup olarak algılar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862279,
@@ -76,8 +72,7 @@
         "D": "<p>Times New Roman veya Arial</p>",
         "E": "<p>Arial veya Berlin Sans</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862280,
@@ -92,8 +87,7 @@
         "D": "<p>2007</p>",
         "E": "<p>2008</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862281,
@@ -108,8 +102,7 @@
         "D": "<p>Broşür</p>",
         "E": "<p>Çetele</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862282,
@@ -124,8 +117,7 @@
         "D": "<p>Kısa sürede içerdiği verilerin eskimesi</p>",
         "E": "<p>Sözel iletişime kıyasla daha zor iletişim kurulan bir iletişim aracı olması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862283,
@@ -140,8 +132,7 @@
         "D": "<p>Tasarımında çizgilerin kullanımından yararlanılan formlardır</p>",
         "E": "<p>Çizgiler doldurulacak alanları be­lirtmek ya da doldurulacak alanları birbirlerinden ayırmak için kullanılabilmektedir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862284,
@@ -156,8 +147,7 @@
         "D": "<p>Edgar Morin</p>",
         "E": "<p>Herbert Marcuse</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862490,
@@ -172,8 +162,7 @@
         "D": "<p>I, II, III ve V</p>",
         "E": "<p>II, III ve IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862491,
@@ -188,8 +177,7 @@
         "D": "<p>Öznel</p>",
         "E": "<p>Etnik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862492,
@@ -204,8 +192,7 @@
         "D": "<div class=\"page\" title=\"Page 3\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Kurumun konuya mesafeli olduğunu gösterir.</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 3\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Zaman açısından daha elverişlidir; uygun olunduğu zaman yazılabilir ve okunabilir, gerektiğinde üzerinde değişiklikler yapılabilir.</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862493,
@@ -220,8 +207,7 @@
         "D": "<p>Sistematik</p>",
         "E": "<p>Otomatik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862494,
@@ -236,8 +222,7 @@
         "D": "<p>I, III, IV ve V</p>",
         "E": "<p>I, II, III ve V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862495,
@@ -252,8 +237,7 @@
         "D": "<div class=\"page\" title=\"Page 8\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Belgeler daha güvenli şartlar altında depolanır.</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 8\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Belgeler istenilen sayıda çoğaltılabilir.</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862496,
@@ -268,8 +252,7 @@
         "D": "<p>Elektronik İmza Sistemi</p>",
         "E": "<p>Bürokratik Arşiv Yönetimi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862517,
@@ -284,8 +267,7 @@
         "D": "<p>II,III,IV ve V</p>",
         "E": "<p>I,II, IV ve V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862518,
@@ -300,8 +282,7 @@
         "D": "<p>Yazışma formları</p>",
         "E": "<p>Çevrim dışı formlar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862519,
@@ -316,7 +297,6 @@
         "D": "<p>Kutu </p>",
         "E": "<p>Çevrim içi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

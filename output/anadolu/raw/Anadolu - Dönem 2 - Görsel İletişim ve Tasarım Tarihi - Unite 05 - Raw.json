@@ -12,8 +12,7 @@
         "D": "<p>Ofset</p>",
         "E": "<p>Monografi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235051,
@@ -28,8 +27,7 @@
         "D": "<p>Avangard</p>",
         "E": "<p>Faktura</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235054,
@@ -44,8 +42,7 @@
         "D": "<p>St. Petersburg</p>",
         "E": "<p>Berlin</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235278,
@@ -60,8 +57,7 @@
         "D": " <p>Fotomontaj</p> ",
         "E": "<p>Tektonik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235281,
@@ -76,8 +72,7 @@
         "D": "<p>Ivana  Tomljenović</p> ",
         "E": " <p>Irmgard Sörensen-Popitz</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235282,
@@ -92,8 +87,7 @@
         "D": " <p>Laszlo Moholy-Nagy</p>",
         "E": "<p>Anni Albers</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235283,
@@ -108,8 +102,7 @@
         "D": "<p>1931</p> ",
         "E": "<p>1934</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235288,
@@ -124,8 +117,7 @@
         "D": "<p>Kapitalizm</p>",
         "E": "<p>Rus avangardı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235289,
@@ -140,8 +132,7 @@
         "D": "<p>Tektonik</p>",
         "E": "<p>Faktura</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235290,
@@ -156,8 +147,7 @@
         "D": "<p>Liubov Popova</p>",
         "E": "<p>Henry van de Velde</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235291,
@@ -172,8 +162,7 @@
         "D": "<p>Mechano</p>",
         "E": "<p>Kinetik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235293,
@@ -188,8 +177,7 @@
         "D": "<p>Essen</p>",
         "E": "<p>Düsseldorf</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235296,
@@ -204,8 +192,7 @@
         "D": "<p>Nadezhda Udaltsova</p>",
         "E": "<p>Amshey Markovich Nurenberg</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235297,
@@ -220,8 +207,7 @@
         "D": "<p>Süprematizm</p>",
         "E": "<p>Modernizm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235360,
@@ -236,8 +222,7 @@
         "D": "<p>Tasarıma minimalist yaklaşım.</p> ",
         "E": "<p>Tasarımda renk, çizgi ve biçimin önemi.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235364,
@@ -252,8 +237,7 @@
         "D": "<p>Fovizm ve Kübizm.</p> ",
         "E": "<p>De Stijl ve Futurizm.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235366,
@@ -268,8 +252,7 @@
         "D": "<p>Dada</p>",
         "E": "<p>Kübizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235367,
@@ -284,8 +267,7 @@
         "D": "<p>Modern</p>",
         "E": "<p>Gerçekçilik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235369,
@@ -300,8 +282,7 @@
         "D": "<p>Bauhaus</p>",
         "E": "<p>The Glasgow School of Art</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235371,
@@ -316,8 +297,7 @@
         "D": "<p>dışavurumcu </p>",
         "E": "<p>varoluşçu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235045,
@@ -332,8 +312,7 @@
         "D": "<p>Bauhaus</p>",
         "E": "<p>Arts and Crafts</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235050,
@@ -348,8 +327,7 @@
         "D": "<p>Faktura</p>",
         "E": "<p>Tektonik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235053,
@@ -364,8 +342,7 @@
         "D": "<p>2011</p>",
         "E": "<p>1979</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235276,
@@ -380,8 +357,7 @@
         "D": "<p>Theo  Van Doesburg</p> ",
         "E": " <p>Naum Gabo</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235277,
@@ -396,8 +372,7 @@
         "D": "<p>Makine estetiği önem kazanmıştır</p> ",
         "E": "<p>Teknoloji ve deneysel düşünceden beslenmiştir</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235280,
@@ -412,8 +387,7 @@
         "D": "<p>L. Moholy- Nagy</p> ",
         "E": "<p>Walter Gropious</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235294,
@@ -428,8 +402,7 @@
         "D": "<p>Minimal bir yapıya sahiptir.</p>",
         "E": "<p>Futura gelecek anlamına gelmektedir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235295,
@@ -444,8 +417,7 @@
         "D": "<p>Vkhutemas Okulu</p>",
         "E": "<p>Berlin Okulu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235362,
@@ -460,8 +432,7 @@
         "D": "<p>Berlin, Dessau, Weimar.</p> ",
         "E": "<p>Weimar, Berlin, Dessau.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235372,
@@ -476,8 +447,7 @@
         "D": "<p>Romantizm ve Klasisizm olmuştur.</p>",
         "E": "<p>Barok ve Yeni Gerçekçilik olmuştur.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235375,
@@ -492,8 +462,7 @@
         "D": "<p>Köln</p>",
         "E": "<p>Weimar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235419,
@@ -508,8 +477,7 @@
         "D": "<p>Heykelde endüstriyel malzeme kullanımı</p>",
         "E": "<p>İletişim teknolojilerinin yaygınlaşması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235424,
@@ -524,8 +492,7 @@
         "D": "<p>Dışavurumcu</p>",
         "E": "<p>Gerçeküstücü</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235049,
@@ -540,8 +507,7 @@
         "D": "<p>1997</p>",
         "E": "<p>2001</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235359,
@@ -556,8 +522,7 @@
         "D": "<p>Vorkurs.</p>",
         "E": "<p>Werkbund.</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235361,
@@ -572,8 +537,7 @@
         "D": "<p>Resim Atölyesi.</p> ",
         "E": "<p>Heykel Atölyesi.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235420,
@@ -588,8 +552,7 @@
         "D": "<p>Big Ben</p>",
         "E": "<p>Guinigi Kulesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235422,
@@ -604,8 +567,7 @@
         "D": "<p>Bauhaus anlayışında biçim işlevi takip eder</p>",
         "E": "<p>Bauhaus sadece mimarlık ve tasarıma odaklanır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235425,
@@ -620,8 +582,7 @@
         "D": "<p>Delici Görme</p>",
         "E": "<p>Bozulmuş Görme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235046,
@@ -636,8 +597,7 @@
         "D": "<p>Pilyaj</p>",
         "E": "<p>Bauhaus</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235284,
@@ -652,8 +612,7 @@
         "D": " <p>Expresyonizm</p> ",
         "E": "<p>Sürrealizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235285,
@@ -668,8 +627,7 @@
         "D": "<p>Realizm</p> ",
         "E": " <p>Fovizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235356,
@@ -684,8 +642,7 @@
         "D": "<p>Kurt Schwitters ve Lazar Markovich Lissitzky.</p> ",
         "E": "<p>Walter Grapius ve Gustav Klutsis.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235358,
@@ -700,8 +657,7 @@
         "D": "<p>Aleksandra Ekster.</p> ",
         "E": "<p>Aleksandr Drevin.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235373,
@@ -716,8 +672,7 @@
         "D": "<p>Empresyonizm</p>",
         "E": "<p>Romantizm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235417,
@@ -732,8 +687,7 @@
         "D": "<p>1915 - Rusya'da</p>",
         "E": "<p>1919 - Fransa'da</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235418,
@@ -748,8 +702,7 @@
         "D": "<p>Gerçeküstücü bir bakış</p>",
         "E": "<p>Doğal malzemeler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235423,
@@ -764,8 +717,7 @@
         "D": "<p>Köln</p>",
         "E": "<p>Hannover</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235279,
@@ -780,8 +732,7 @@
         "D": "<p>Dziga Vertov</p>",
         "E": "<p>Lev Kuleşov</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235363,
@@ -796,8 +747,7 @@
         "D": "<p>Georgi Zimin.</p>",
         "E": "<p>Kazimir Malevich.</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235368,
@@ -812,8 +762,7 @@
         "D": "<p>Stancil</p>",
         "E": "<p>Modle</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235374,
@@ -828,8 +777,7 @@
         "D": "<p>Laszlo Moholy-Nagy</p>",
         "E": "<p>Henry van de Velde</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235416,
@@ -844,8 +792,7 @@
         "D": "<p>Sanayi Devriminden sonra</p>",
         "E": "<p>Teknolojik Devrimle</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235357,
@@ -860,8 +807,7 @@
         "D": "<p>Dadaizm.</p> ",
         "E": "<p>De Stijl.</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235370,
@@ -876,8 +822,7 @@
         "D": "<p>Sadece zanaatçi yetiştirmektir</p>",
         "E": "<p>Sanat ve zanaat arasında sınır olmaması gerektiğidir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235047,
@@ -892,8 +837,7 @@
         "D": "<p>Avangard</p>",
         "E": "<p>Serigrafi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235365,
@@ -908,8 +852,7 @@
         "D": "<p>Grafik.</p> ",
         "E": "<p>Uzay.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235052,
@@ -924,8 +867,7 @@
         "D": "<p>Weimar</p>",
         "E": "<p>Konstrüktivizkm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235292,
@@ -940,8 +882,7 @@
         "D": "<p>Dayandığı kuramlar “Fonksiyonalizm” sloganı içinde özetlenir.</p>",
         "E": "<p>Süsleme gibi fikrin anlatımına katkı sağlamayan görsel elemanlar tasarıma dâhil edilir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235421,
@@ -956,7 +897,6 @@
         "D": "<p>kapitalist - dairesel</p>",
         "E": "<p>minimalist - pastoral</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     }
 ]

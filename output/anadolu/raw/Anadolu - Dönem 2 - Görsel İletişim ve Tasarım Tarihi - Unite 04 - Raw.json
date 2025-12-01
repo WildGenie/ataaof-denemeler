@@ -12,8 +12,7 @@
         "D": "<p>Fütürizm<br /><br /></p>",
         "E": "<p>Art Deco</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234912,
@@ -28,8 +27,7 @@
         "D": "<p>Fütürizm<br /><br /></p>",
         "E": "<p>Art Deco</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234914,
@@ -44,8 +42,7 @@
         "D": "<p> Art Deco</p>",
         "E": "<p>De Stijl<br /><br /></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234916,
@@ -60,8 +57,7 @@
         "D": "<p>Art Deco</p>",
         "E": "<p>De Stijl<br /><br /></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234917,
@@ -76,8 +72,7 @@
         "D": "<p>Filippo Marinetti<br /><br /></p>",
         "E": "<p>David Carson</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234918,
@@ -92,8 +87,7 @@
         "D": "<p><br />Art Deco </p>",
         "E": "<p>Bauhaus okulu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235457,
@@ -108,8 +102,7 @@
         "D": "<p>Yapısalcılık Okulu</p> ",
         "E": "<p>Minimalizm Okulu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235460,
@@ -124,8 +117,7 @@
         "D": "<p>Art Deco</p>",
         "E": "<p>Modernizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235464,
@@ -140,8 +132,7 @@
         "D": "<p>Kübizm</p>",
         "E": "<p>Art Deco</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235467,
@@ -156,8 +147,7 @@
         "D": "<p>William Morris</p>",
         "E": "<p>David Carson</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235481,
@@ -172,8 +162,7 @@
         "D": "<p>Max Ernst</p>",
         "E": "<p>Rene Magritte</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235482,
@@ -188,8 +177,7 @@
         "D": "<p>Rene Magritte</p>",
         "E": "<p>Jean Arp</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235484,
@@ -204,8 +192,7 @@
         "D": "<div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Marcel Duchamp</p> </div> </div> </div> </div>",
         "E": "<p>Pablo Picasso</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235485,
@@ -220,8 +207,7 @@
         "D": "<p>Salvador Dali</p>",
         "E": "<div class=\"page\" title=\"Page 11\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>A.M. Cassandre</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235487,
@@ -236,8 +222,7 @@
         "D": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>J.J. Oud</p> </div> </div> </div> </div>",
         "E": "<p>Max Bill</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235514,
@@ -252,8 +237,7 @@
         "D": "<div class=\"page\" title=\"Page 6\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Fortunato Depero</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 6\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Emile Zola</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235522,
@@ -268,8 +252,7 @@
         "D": "<div class=\"page\" title=\"Page 18\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Vilmos Huszar</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 14\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Piet Mondrian</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235524,
@@ -284,8 +267,7 @@
         "D": "<p>1909</p>",
         "E": "<p>1919</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235526,
@@ -300,8 +282,7 @@
         "D": "<p>Dada</p>",
         "E": "<p>Sürrealizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235533,
@@ -316,8 +297,7 @@
         "D": "<p>Simetri özelliği göze çarpar.</p>",
         "E": "<p>Geometrik formları kapsar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234911,
@@ -332,8 +312,7 @@
         "D": "<p>Art Deco</p>",
         "E": "<p>De Stijl<br /><br /></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234915,
@@ -348,8 +327,7 @@
         "D": "<p>Georges Braque<br /><br /></p>",
         "E": "<p>Theo van Doesburg</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234949,
@@ -364,8 +342,7 @@
         "D": "<p>Fütürizm</p>",
         "E": "<p>Art Deco</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234950,
@@ -380,8 +357,7 @@
         "D": "<p>Dadaizm</p>",
         "E": "<p>Fütürizm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235449,
@@ -396,8 +372,7 @@
         "D": "<p>Dadaizm</p> ",
         "E": "<p>Sürrealizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235450,
@@ -412,8 +387,7 @@
         "D": "<p>Sürrealistler</p> ",
         "E": "<p>Kübistler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235451,
@@ -428,8 +402,7 @@
         "D": " <p>Müzik</p>",
         "E": "<p>Moda</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235454,
@@ -444,8 +417,7 @@
         "D": "<p>Hollanda</p>",
         "E": "<p>Belçika</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235465,
@@ -460,8 +432,7 @@
         "D": " <p>Resimlerin temel elemanları olan dikey ve yataylar çizgiler, düşünsel karşıtlıkların görsel ifadesidir</p>",
         "E": " <p>Savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve  protesto eder</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235480,
@@ -476,8 +447,7 @@
         "D": "<div class=\"page\" title=\"Page 6\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Fortunato Depero</p> <div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\">  </div> </div> </div> </div> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Marcel Duchamp</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235486,
@@ -492,8 +462,7 @@
         "D": "<p>Jan Wils</p>",
         "E": "<p>Antony Kok</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235520,
@@ -508,8 +477,7 @@
         "D": "<p>Fürütizm</p>",
         "E": "<p>Dadaizm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235532,
@@ -524,8 +492,7 @@
         "D": "<p>1916</p>",
         "E": "<p>1915</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235536,
@@ -540,8 +507,7 @@
         "D": "<p>Ekspresyonizm</p>",
         "E": "<p>Art Deco</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235537,
@@ -556,8 +522,7 @@
         "D": "<p>Theo van Doesburg</p>",
         "E": "<p>Piet Mondrian</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234913,
@@ -572,8 +537,7 @@
         "D": "<p>Fütürizm<br /><br /></p>",
         "E": "<p>Art Deco</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234941,
@@ -588,8 +552,7 @@
         "D": "<p>Filippo Marinetti</p>",
         "E": "<p>Zuzana Licko</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234943,
@@ -604,8 +567,7 @@
         "D": "<p>1912</p>",
         "E": "<p>1915</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234946,
@@ -620,8 +582,7 @@
         "D": "<p>Georges Braque</p>",
         "E": "<p>Marcel Duchamp</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235452,
@@ -636,8 +597,7 @@
         "D": "<p>Paul Renner E.</p> ",
         "E": "<p>E.M. Kauffer</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235483,
@@ -652,8 +612,7 @@
         "D": "<p>Fütürizm</p>",
         "E": "<p>De Stijl</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235518,
@@ -668,8 +627,7 @@
         "D": "<p>Fütürizm</p>",
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>De Stijl</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235525,
@@ -684,8 +642,7 @@
         "D": "<p>Art Deco</p>",
         "E": "<p>Dadaizm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235534,
@@ -700,8 +657,7 @@
         "D": "<p>Simetrik olana karşı çıkma</p>",
         "E": "<p>Abartılı süslemelerden kaçınma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234947,
@@ -716,8 +672,7 @@
         "D": "<p>Georges Braque</p>",
         "E": "<p>Marcel Duchamp</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234948,
@@ -732,8 +687,7 @@
         "D": "<p>Fütürizm</p>",
         "E": "<p>Art Deco</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235453,
@@ -748,8 +702,7 @@
         "D": "<p>De Stijl akımı</p> ",
         "E": "<p>Art Deco akımı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235456,
@@ -764,8 +717,7 @@
         "D": "<p>Romantizm</p> ",
         "E": " <p>Dadaizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235462,
@@ -780,8 +732,7 @@
         "D": "<p>Art Deco</p>",
         "E": "<p>Ekspresyonizm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235519,
@@ -796,8 +747,7 @@
         "D": "<div class=\"page\" title=\"Page 9\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Kurt Schwitters</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 4\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Filippo Marinetti</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235448,
@@ -812,8 +762,7 @@
         "D": "<p>Dadaizm</p> ",
         "E": "<p>Sürrealizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235459,
@@ -828,8 +777,7 @@
         "D": "<p>Kübizm</p>",
         "E": "<p>Postmodernizm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235466,
@@ -844,8 +792,7 @@
         "D": "<p>Akımın temelinde toplumsal olayların inkar edilmesine dayanmaktadır</p>",
         "E": "<p>Modern tasarım ile el işçiliği ve zerafeti bir araya getirmeyi amaçlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235517,
@@ -860,8 +807,7 @@
         "D": "<div class=\"page\" title=\"Page 7\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Fransız Art Concret</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<p>Art Deco</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235523,
@@ -876,8 +822,7 @@
         "D": "<p>Kübizm</p>",
         "E": "<p>Dada</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234944,
@@ -892,8 +837,7 @@
         "D": "<p>1917</p>",
         "E": "<p>1919</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235458,
@@ -908,8 +852,7 @@
         "D": "<p>Sürrealizm</p>",
         "E": "<p>Art Deco</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235478,
@@ -924,8 +867,7 @@
         "D": "<p>Sürrealizm</p>",
         "E": "<p>Kübizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235479,
@@ -940,8 +882,7 @@
         "D": "<div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Marcel Duchamp</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 9\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kurt Schwitters</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234910,
@@ -956,8 +897,7 @@
         "D": "<p>Art Deco</p>",
         "E": "<p>De Stijl<br /><br /></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235463,
@@ -972,8 +912,7 @@
         "D": "<p>De Stijl</p>",
         "E": "<p>Art deco</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235513,
@@ -988,8 +927,7 @@
         "D": "<p>Dijital</p>",
         "E": "<p>Toplumcu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235521,
@@ -1004,8 +942,7 @@
         "D": "<p>Hollanda</p>",
         "E": "<p>Fransa</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235461,
@@ -1020,8 +957,7 @@
         "D": "<p>Art Deco</p>",
         "E": "<p>Ekspresyonizm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235516,
@@ -1036,8 +972,7 @@
         "D": "<div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Marcel Duchamp</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 9\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kurt Schwitters</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234942,
@@ -1052,8 +987,7 @@
         "D": "<p> Rudy Vanderlans</p>",
         "E": "<p>Armin Hoffman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235535,
@@ -1068,8 +1002,7 @@
         "D": "<p>J.J. Oud</p>",
         "E": "<div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Tristan Tzara</p> </div> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235455,
@@ -1084,8 +1017,7 @@
         "D": "<p>Mavi rengin kullanılması</p> ",
         "E": "<p>Sarı rengin kullanılması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234945,
@@ -1100,8 +1032,7 @@
         "D": "<p>Filippo Marinetti</p>",
         "E": "<p>Marcel Duchamp</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235515,
@@ -1116,7 +1047,6 @@
         "D": "<div class=\"page\" title=\"Page 7\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>De Stijl</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<p>Art Nouveau</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     }
 ]

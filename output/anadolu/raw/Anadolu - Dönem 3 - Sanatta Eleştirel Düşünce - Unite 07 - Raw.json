@@ -12,8 +12,7 @@
         "D": "<p>Michel Foucault</p>",
         "E": "<p>Octavio Paz</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354143,
@@ -28,8 +27,7 @@
         "D": "<p>Alan derinliği</p>",
         "E": "<p>Kurgu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354146,
@@ -44,8 +42,7 @@
         "D": "<p>Christian Metz.</p> ",
         "E": "<p>Andre Bazin.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354195,
@@ -60,8 +57,7 @@
         "D": "<p>Federico Fellini</p>",
         "E": "<p>Andrey Tarkovski</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354197,
@@ -76,8 +72,7 @@
         "D": "<p>1895</p>",
         "E": "<p>1915</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354201,
@@ -92,8 +87,7 @@
         "D": "<p>Sesler</p>",
         "E": "<p>Olay örgüsü</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354405,
@@ -108,8 +102,7 @@
         "D": "<p>Yunanca</p>",
         "E": "<p>Rusça</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354407,
@@ -124,8 +117,7 @@
         "D": "<p>Şeytan'ın Evi</p>",
         "E": "<p>Yurttaş Kane</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354411,
@@ -140,8 +132,7 @@
         "D": "<p>Sinema, belli entellektüel kitlesi olduğu için</p>",
         "E": "<p>Sinema özünde eklektik konular işlediği için</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354414,
@@ -156,8 +147,7 @@
         "D": "<p>Sembolizm</p>",
         "E": "<p>Empresiyonizm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354416,
@@ -172,8 +162,7 @@
         "D": "<p>Star Wars</p>",
         "E": "<p>Star Trek</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354420,
@@ -188,8 +177,7 @@
         "D": "<p>Çatışma</p>",
         "E": "<p>Doruk Noktası</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354462,
@@ -204,8 +192,7 @@
         "D": "<p>Federico Fellini</p>",
         "E": "<p>Ömer Kavur</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354464,
@@ -220,8 +207,7 @@
         "D": "<p>Georges Melies</p> ",
         "E": "<p>Luis Bunuel</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354547,
@@ -236,8 +222,7 @@
         "D": "<p>Başlangıçtaki hareketsizliği, denge durumunu bozar ve eylemi başlatır.</p>",
         "E": "<p>Oyunun başından sonuna kadar süren bilgi verme sürecini içerir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354549,
@@ -252,8 +237,7 @@
         "D": "<p>Geleneksel anlatıda izleyicinin soru sorması ve sorgulaması önemliyken modern anlatıda duygusal katılım öne çıkar.</p>",
         "E": "<p>Geleneksel anlatının temel ilkelerinden birisi felsefik bakış iken modern anlatıda amaç “kolay anlaşılır” olmaktır. </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354550,
@@ -268,8 +252,7 @@
         "D": "<p>Dünyayı değiştirecek olan şey filmler değil, o filmleri izleyen insanlardır</p>",
         "E": "<p>Beyazperdede kıpırdayan her şey sinemadır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354553,
@@ -284,8 +267,7 @@
         "D": "<p>Andre Bazin</p>",
         "E": "<p>Robert J. Flaherty’</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354554,
@@ -300,8 +282,7 @@
         "D": "<p>Roger Vadim</p>",
         "E": "<p>Jean Pierre Melville</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354555,
@@ -316,8 +297,7 @@
         "D": "<p>kişilerin tanıtıldığı aşama</p>",
         "E": "<p>Olay örgüsünün kurulduğu aşama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354141,
@@ -332,8 +312,7 @@
         "D": "<p>Yeni anlatım</p>",
         "E": "<p>Çağdaş Anlatı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354147,
@@ -348,8 +327,7 @@
         "D": "<p>Karakterler ve oyunculuk.</p> ",
         "E": "<p>Senaryo.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354199,
@@ -364,8 +342,7 @@
         "D": "<p>Sembolizm</p>",
         "E": "<p>Kübizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354206,
@@ -380,8 +357,7 @@
         "D": "<p>II-IV</p>",
         "E": "<p>III-IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354408,
@@ -396,8 +372,7 @@
         "D": "<p>Luis Bunuel</p>",
         "E": "<p>Auguste Lumière </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354410,
@@ -412,8 +387,7 @@
         "D": "<p>Orhan Barlas</p>",
         "E": "<p>Nakıp Ali</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354417,
@@ -428,8 +402,7 @@
         "D": "<p>Bulantı</p>",
         "E": "<p>Edebiyat Nedir?</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354424,
@@ -444,8 +417,7 @@
         "D": "<p>Bisiklet Hırsızları</p>",
         "E": "<p>Rocco Kardeşler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354426,
@@ -460,8 +432,7 @@
         "D": "<p>Claude Chabrol</p>",
         "E": "<p>Jean Pierre Melville</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354431,
@@ -476,8 +447,7 @@
         "D": "<p>Hollywood sinemasının ilk modern yapıtı</p>",
         "E": "<p>Uzun çekimler ile alan derinliğine verilen ayrıcalıklı önem</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354432,
@@ -492,8 +462,7 @@
         "D": "<p>insan</p>",
         "E": "<p>Sorgu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354461,
@@ -508,8 +477,7 @@
         "D": "<p class=\"Default\"><span lang=\"TR\">B,D,F</span></p> <p class=\"Default\"> </p>",
         "E": "<p><span lang=\"TR\">D,E,F</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354463,
@@ -524,8 +492,7 @@
         "D": "<p>Eskiye karşı çıkmış olması</p> ",
         "E": "<p>Eğlence boyutunun olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354465,
@@ -540,8 +507,7 @@
         "D": "<p>Postmodern Anlatı</p>",
         "E": "<p>Avangard Anlatı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354546,
@@ -556,8 +522,7 @@
         "D": "<p>Her anlatı aynı zamanda bir öyküdür.</p>",
         "E": "<p>Tarih kayıtları olayların bir listesini sunduğu için öykü değil, anlatıdır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354548,
@@ -572,8 +537,7 @@
         "D": "<p>Seyirci arınması</p>",
         "E": "<p>Dramatik gerilim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354140,
@@ -588,8 +552,7 @@
         "D": "<p>Çatışmalar sergilenir ve çözülür</p>",
         "E": "<p>Olay örgüsü serim, düğüm, çatışma, doruk noktası ve çözüm aşamalarından oluşur</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354144,
@@ -604,8 +567,7 @@
         "D": "<p>Sinema-Gerçek (Cinema-verite)</p>",
         "E": "<p>Sinema-Göz Kavramı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354193,
@@ -620,8 +582,7 @@
         "D": "<p>Federico Fellini</p>",
         "E": "<p>Akira Kurosawa</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354203,
@@ -636,8 +597,7 @@
         "D": "<p>Doruk noktası</p>",
         "E": "<p>Çözüm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354421,
@@ -652,8 +612,7 @@
         "D": "<p>Doruk noktası</p>",
         "E": "<p>Kriz noktaları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354429,
@@ -668,8 +627,7 @@
         "D": "<p>Biçimci Film Kuramı</p>",
         "E": "<p>Eleştirel Film Kuramı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354467,
@@ -684,8 +642,7 @@
         "D": "<p>Dışavurumcu sinema</p>",
         "E": "<p>İtalyan Yeni Gerçekçiliği</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354468,
@@ -700,8 +657,7 @@
         "D": "<p>Potemkin Zırhlısı</p>",
         "E": "<p>Grev</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354469,
@@ -716,8 +672,7 @@
         "D": "<p>Ayzenştayn-Potemkin Zırhlısı</p>",
         "E": "<p>Robert J. Flaherty-Kuzeyli Nanook</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354139,
@@ -732,8 +687,7 @@
         "D": "<p>Frankenstein</p>",
         "E": "<p>Yıldızlararası</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354142,
@@ -748,8 +702,7 @@
         "D": "<p>Olay örgüsü yerine oyunculuk ön plana çıkar.</p>",
         "E": "<p>Güncel, toplumsal ya da özellikle varoluşla ilgili konuların ele alındığı bir sinemadır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354406,
@@ -764,8 +717,7 @@
         "D": "<p>17 Eylül 1902, Londra</p>",
         "E": "<p>25 Nisan 1877, Berlin</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354415,
@@ -780,8 +732,7 @@
         "D": "<p>Kübizm</p>",
         "E": "<p>Nihilizm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354422,
@@ -796,8 +747,7 @@
         "D": "<p>Çağdaş anlatıda, gerçeklik sorgulanmaz</p>",
         "E": "<p>Çağdaş anlatıda önemli olan gerçeğe benzerlik yanılsaması yaratmak </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354551,
@@ -812,8 +762,7 @@
         "D": "<p>Bisiklet Hırsızları </p>",
         "E": "<p>Yer Sarsılıyor</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354552,
@@ -828,8 +777,7 @@
         "D": "<p><strong><em>Gerçekçi Kuram</em></strong></p>",
         "E": "<p>Gerçeküstücü sinema</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354204,
@@ -844,8 +792,7 @@
         "D": "<p>Doruk noktası</p>",
         "E": "<p>Çözüm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354205,
@@ -860,8 +807,7 @@
         "D": "<p>İstenilen şey izleyicinin anlatıyı gerçek olarak görmesidir.</p>",
         "E": "<p>İzleyici gözlemci olarak dışarıda tutulur. </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354412,
@@ -876,8 +822,7 @@
         "D": "<p>Antik</p>",
         "E": "<p>Modern</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354427,
@@ -892,8 +837,7 @@
         "D": "<p>Kuleşov etkisi</p>",
         "E": "<p>Ayzenştayn etkisi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354460,
@@ -908,8 +852,7 @@
         "D": "<p>Micheal Haneke</p>",
         "E": "<p>Lars von Trier</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354409,
@@ -924,8 +867,7 @@
         "D": "<p>Luis Bunuel</p>",
         "E": "<p>Auguste Lumiere</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354466,
@@ -940,8 +882,7 @@
         "D": "<p>Eğlence aracı olarak görülmesi</p>",
         "E": "<p>Duygusal temel üzerine kurulu olmas</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354207,
@@ -956,8 +897,7 @@
         "D": "<p>Oyunculuk</p>",
         "E": "<p>Kurgu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354423,
@@ -972,8 +912,7 @@
         "D": "<p>Kurguda özel efektlere başvurmayı reddetmesi</p>",
         "E": "<p>Ticari kaygılı yüksek bütçeli filmler olması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354145,
@@ -988,7 +927,6 @@
         "D": "<p>Alain Resnais.</p> ",
         "E": "<p>Robert Bresson.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>İllüstrasyon</p>",
         "E": "<p>Rebus</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861101,
@@ -28,8 +27,7 @@
         "D": "<p>İmgelerin yer almadığı metin ağırlıklı taslak türü.</p>",
         "E": "<p>Fotoğraf ya da illüstrasyonun sıkça kullanıldığı imge ağırlıklı taslaklar.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861102,
@@ -44,8 +42,7 @@
         "D": "<p>En basit çizgisel ifade için ve açık-orta ve koyuluğu derecelendirmek için sıklıkla eskizlerin yapıldığı kalem türü olması.</p>",
         "E": "<p>Çizgisel kullanımlar ya da desen, grafik çizimleri için kullanılır. Bu kalemler farklı türde özelliklere sahip oldukları, yazı veya sanatsal çalışmalar için çok eski zamanlardan beri kullanıldığı söylenebilir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861103,
@@ -60,8 +57,7 @@
         "D": "<p>Yağlı boya</p>",
         "E": "<p>Akrilik boya</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861104,
@@ -76,8 +72,7 @@
         "D": "<p>Akrilik boya</p>",
         "E": "<p>Guaj boya</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861105,
@@ -92,8 +87,7 @@
         "D": "<p>Ekolin </p>",
         "E": "<p>Marker</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861106,
@@ -108,8 +102,7 @@
         "D": "<p>Yüksek baskı, kalıp üzerinde oyulan kısımlar kısımlar yerine oyulmayan yüksekte kalan kısımlara boya verilmesiyle uygulanan bir tekniktir.</p>",
         "E": "<p>Yağ ile suyun karışmaması ve yağın suyu (bu durumda mürekkebi) itmesiprensibine dayanan baskı türüdür.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861107,
@@ -124,8 +117,7 @@
         "D": "<p>Litografi (taş baskı)</p>",
         "E": "<p>Monotip baskı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861108,
@@ -140,8 +132,7 @@
         "D": "<p>Bristol Kartonu</p>",
         "E": "<p>Karton</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861109,
@@ -156,8 +147,7 @@
         "D": "<p>Vektör</p>",
         "E": "<p>İllüstratör</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861110,
@@ -172,8 +162,7 @@
         "D": "<p>Gombrich</p>",
         "E": "<p>Barrett</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861111,
@@ -188,8 +177,7 @@
         "D": "<p>Tipografi</p>",
         "E": "<p>Eskiz</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861112,
@@ -204,8 +192,7 @@
         "D": "<p>Karalamalar, ayrıntılı taslaklar, ön taslaklar</p>",
         "E": "<p>Ön taslaklar, ayrıntılı taslaklar,  karalamalar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861113,
@@ -220,8 +207,7 @@
         "D": "<p>Goya</p>",
         "E": "<p>Duchamp</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861114,
@@ -236,8 +222,7 @@
         "D": "<p>F-8F.</p>",
         "E": "<p>H-8H.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861115,
@@ -252,8 +237,7 @@
         "D": "<p>Guaj boya</p>",
         "E": "<p>Pastel boya</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861116,
@@ -268,8 +252,7 @@
         "D": "<p>Mono tip</p>",
         "E": "<p>Kolaj</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861117,
@@ -284,8 +267,7 @@
         "D": "<p>Enstelasyon</p>",
         "E": "<p>Gravür</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861118,
@@ -300,8 +282,7 @@
         "D": "<p>Rebus taslaklar</p>",
         "E": "<p>Çerçeve taslaklar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861119,
@@ -316,7 +297,6 @@
         "D": "<p>Çoklu renk ve geçiş seçenekleri oluşturabilirler.</p>",
         "E": "<p>Bitmap grafikleri noktalardan oluşur.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

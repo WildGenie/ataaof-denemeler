@@ -12,8 +12,7 @@
         "D": "<p>Pasif</p> ",
         "E": "<p>Nötr</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488765,
@@ -28,8 +27,7 @@
         "D": "<p>Poligon</p>",
         "E": "<p>Nanite</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488766,
@@ -44,8 +42,7 @@
         "D": "<p>Karmaşık</p> ",
         "E": "<p>Gerçekçi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488768,
@@ -60,8 +57,7 @@
         "D": "<p>Alfred Clark</p>",
         "E": "<p>Frank Williams</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488769,
@@ -76,8 +72,7 @@
         "D": "<p>D.W. Griffith</p> ",
         "E": "<p>Edwin Porter</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488770,
@@ -92,8 +87,7 @@
         "D": "<p>King Kong</p> ",
         "E": "<p>The Thief of Bagdat</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488771,
@@ -108,8 +102,7 @@
         "D": "<p>Siyah</p> ",
         "E": "<p>Kırmızı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488840,
@@ -124,8 +117,7 @@
         "D": "<p>Dijital dünyada bilgisayarlar ile üretilen, tüketilen, sınırsız, etkileşimli ve merkezsiz bir mecradır</p>",
         "E": "<p>Bilgisayar oyunlarında oyuncu tarafından kontrol edilmeyen, oyun motoru tarafından kontrol edilen karakterlere verilen isimdir</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488843,
@@ -140,8 +132,7 @@
         "D": "<p>Model</p>",
         "E": "<p>Poligon geometri sistemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489017,
@@ -156,8 +147,7 @@
         "D": "<p>Williams Process </p>",
         "E": "<p>Mavi ekran</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489019,
@@ -172,8 +162,7 @@
         "D": "<p>Blender</p>",
         "E": "<p>Adobe Media Encoder</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489020,
@@ -188,8 +177,7 @@
         "D": "<p>Dunning Process</p>",
         "E": "<p>Traveling Matte</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489162,
@@ -204,8 +192,7 @@
         "D": "<p>Web 0.3</p>",
         "E": "<p>Web 0.4</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489170,
@@ -220,8 +207,7 @@
         "D": "<p>Web 0.3</p>",
         "E": "<p>Web 0.4</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489173,
@@ -236,8 +222,7 @@
         "D": "<p>APC (Active Player Character)</p>",
         "E": "<p>VPC (V<span class=\"Y2IQFc\" lang=\"en\">irtual </span>Player Character)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489174,
@@ -252,8 +237,7 @@
         "D": "<p>İletişim sürecinde hem alıcı hem de verici birbirinden etkilenir.</p>",
         "E": "<p> Güvenlik sistemlerinden plaka okumayı sağlar.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489175,
@@ -268,8 +252,7 @@
         "D": "<p>Hareket Motoru</p>",
         "E": "<p>Karakter Kütüphanesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489179,
@@ -284,8 +267,7 @@
         "D": "<p>2015</p>",
         "E": "<p>2016</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489185,
@@ -300,8 +282,7 @@
         "D": "<p> Sunrise</p>",
         "E": "<p> King Kong</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489187,
@@ -316,8 +297,7 @@
         "D": "<p dir=\"ltr\">Federico Fellini </p>",
         "E": "<p>Albert II Smith</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488835,
@@ -332,8 +312,7 @@
         "D": "<p>Web 2.0</p>",
         "E": "<p>Web 3.0</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488847,
@@ -348,8 +327,7 @@
         "D": "<p>Sanallaştırılmış geometri sistemi</p>",
         "E": "<p>3 boyutlu modelleme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488849,
@@ -364,8 +342,7 @@
         "D": "<p>MetaHuman Creator</p>",
         "E": "<p>Poligon geometri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489016,
@@ -380,8 +357,7 @@
         "D": "<p>Stop motion</p>",
         "E": "<p>Travelling matte</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489145,
@@ -396,8 +372,7 @@
         "D": "<p>Sekiz</p>",
         "E": "<p>On</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489152,
@@ -412,8 +387,7 @@
         "D": "<p>Web 0.3</p>",
         "E": "<p>Web 0.4</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489176,
@@ -428,8 +402,7 @@
         "D": "<p> Oyun motoru</p>",
         "E": "<p>Tomb Raider oyunu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489183,
@@ -444,8 +417,7 @@
         "D": "<p>Ben Hur</p>",
         "E": "<p>Yüzüklerin Efendisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489184,
@@ -460,8 +432,7 @@
         "D": "<p>Yalnız I</p> ",
         "E": "<p>I-II</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488763,
@@ -476,8 +447,7 @@
         "D": "<p>Karakterin dokularını hazırlama</p> ",
         "E": "<p>UV doku koordinatlarını haritalama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488764,
@@ -492,8 +462,7 @@
         "D": "<p>Lumen</p>",
         "E": "<p>Nanite</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488767,
@@ -508,8 +477,7 @@
         "D": "<p>Meta Human Creator</p> ",
         "E": "<p>Mega Scans</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489018,
@@ -524,8 +492,7 @@
         "D": "<p>60 fps</p>",
         "E": "<p>120 fps</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489168,
@@ -540,8 +507,7 @@
         "D": "<p>Web 0.3</p>",
         "E": "<p>Web 0.2</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489181,
@@ -556,8 +522,7 @@
         "D": "<p> Mavi ekran</p> ",
         "E": "<p>Üç şeritli kamera</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489182,
@@ -572,8 +537,7 @@
         "D": "<p>Yellowscreen</p>",
         "E": "<p>Traveling Matte</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489186,
@@ -588,8 +552,7 @@
         "D": "<p>Alfred Clark</p>",
         "E": "<p>Federico Fellini</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489177,
@@ -604,8 +567,7 @@
         "D": "<p>Unreal Engine 5 kendi içerisinde Megascans asset library adında 16 binden fazla hazır nesne bulunduran bir kütüphane sunar.</p> ",
         "E": "<p> Nanite teknolojisi sayesinde nesneler çok gerçekçi görünen milyonlarca poligondan oluşmaktadır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489178,
@@ -620,8 +582,7 @@
         "D": "<p>Build Engine</p>",
         "E": "<p>Novalis Engine</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489180,
@@ -636,7 +597,6 @@
         "D": "<p> Frank Williams</p>",
         "E": "<p> John P. Fulton</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     }
 ]

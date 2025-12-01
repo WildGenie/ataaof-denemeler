@@ -12,8 +12,7 @@
         "D": "<p>3</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833453,
@@ -28,8 +27,7 @@
         "D": "<p>4</p>",
         "E": "<p>3</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833454,
@@ -44,8 +42,7 @@
         "D": "<p>i, ii ve iv</p>",
         "E": "<p>ii, iii ve iv</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833455,
@@ -60,8 +57,7 @@
         "D": "<p>6</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833456,
@@ -76,8 +72,7 @@
         "D": "<p>22. yüzyıl</p>",
         "E": "<p>21. yüzyıl</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833458,
@@ -92,8 +87,7 @@
         "D": "<p>3</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833459,
@@ -108,8 +102,7 @@
         "D": "<p>Gary Zabel</p>",
         "E": "<p>Ralph Koster</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833460,
@@ -124,8 +117,7 @@
         "D": "<p>5</p>",
         "E": "<p>3</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833461,
@@ -140,8 +132,7 @@
         "D": "<p>3</p>",
         "E": "<p>4</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833462,
@@ -156,7 +147,6 @@
         "D": "<p>5</p>",
         "E": "<p>3</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

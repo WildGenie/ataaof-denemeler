@@ -12,8 +12,7 @@
         "D": "<p>Melih Cevdet</p>",
         "E": "<p>Necip Fazıl</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257429,
@@ -28,8 +27,7 @@
         "D": "<p>Didaktik</p>",
         "E": "<p>Satirik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257593,
@@ -44,8 +42,7 @@
         "D": "<p>Atilla İlhan</p>",
         "E": "<p>Cahit Sıtkı Tarancı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257596,
@@ -60,8 +57,7 @@
         "D": "<p>Necip Fazıl Kısakürek</p>",
         "E": "<p>Yahya Kemal Beyatlı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257602,
@@ -76,8 +72,7 @@
         "D": "<p>Epik Şiir</p>",
         "E": "<p>Dramatik Şiir</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257813,
@@ -92,8 +87,7 @@
         "D": "<p>satirik</p>",
         "E": "<p>söyleşi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257816,
@@ -108,8 +102,7 @@
         "D": "<p>Dil</p> ",
         "E": "<p>Zaman</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257817,
@@ -124,8 +117,7 @@
         "D": "<p>Sonuç</p> ",
         "E": "<p>Giriş</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257872,
@@ -140,8 +132,7 @@
         "D": "<p style=\"text-align: justify;\">Valery</p> <p style=\"text-align: justify;\"> </p>",
         "E": "<p style=\"text-align: justify;\">Yahya Kemal</p> <p style=\"text-align: justify;\"> </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257875,
@@ -156,8 +147,7 @@
         "D": "<p style=\"text-align: justify;\">pastoral şiir</p> <p style=\"text-align: justify;\"> </p>",
         "E": "<p style=\"text-align: justify;\">dramatik şiir</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257952,
@@ -172,8 +162,7 @@
         "D": "<p>II ve IV</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257956,
@@ -188,8 +177,7 @@
         "D": "<p>En önemli temsilcisi Nazım Hikmet'tir.</p>",
         "E": "<p>Latin edebiyatında en önemli temsilcisi Vergilus'tur.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257959,
@@ -204,8 +192,7 @@
         "D": "<p>Mekan öyküsü</p>",
         "E": "<p>Soyut öykü</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258009,
@@ -220,8 +207,7 @@
         "D": "<p>Cemal Süreyya</p>",
         "E": "<p>Orhan Veli Kanık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258010,
@@ -236,8 +222,7 @@
         "D": "<p>Didaktik Şiir</p>",
         "E": "<p>Dramatik Şiir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258012,
@@ -252,8 +237,7 @@
         "D": "<p>Orhan Kemal</p>",
         "E": "<p>Memduh Şevket Esendal</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258013,
@@ -268,8 +252,7 @@
         "D": "<p>Faruk Nafiz Çamlıbel</p>",
         "E": "<p>Ömer Seyfettin</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258104,
@@ -284,8 +267,7 @@
         "D": "<p>Dramatik şiir</p>",
         "E": "<p>Pastoral şiir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258389,
@@ -300,8 +282,7 @@
         "D": "<p>Kişilerin belirgin özellikleri ya da üstün nitelikleri vardır.</p>",
         "E": "<p>Giriş, gelişme ve sonuç bölümleri vardır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258391,
@@ -316,8 +297,7 @@
         "D": "<p>Meddah </p>",
         "E": "<p>Ortaoyunu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257421,
@@ -332,8 +312,7 @@
         "D": "<p>Heykel</p>",
         "E": "<p>Sanat</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257437,
@@ -348,8 +327,7 @@
         "D": "<p>Epik </p>",
         "E": "<p>Lirik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257589,
@@ -364,8 +342,7 @@
         "D": "<p>Nazım Hikmet</p>",
         "E": "<p>Behçet Necatigil</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257768,
@@ -380,8 +357,7 @@
         "D": "<p>Cem Sultan</p>",
         "E": "<p>Ayyar Hamza</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257870,
@@ -396,8 +372,7 @@
         "D": "<p>Valery</p>",
         "E": "<p>Nurullah Ataç</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257877,
@@ -412,8 +387,7 @@
         "D": "<p style=\"text-align: justify;\">dramatik şiir</p> <p style=\"text-align: justify;\"> </p>",
         "E": "<p style=\"text-align: justify;\">epik şiir</p> <p style=\"text-align: justify;\"> </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257879,
@@ -428,8 +402,7 @@
         "D": "<p style=\"text-align: justify;\">Ömer Seyfettin</p> <p style=\"text-align: justify;\"> </p>",
         "E": "<p style=\"text-align: justify;\">Halit Ziya Uşaklıgil</p> <p style=\"text-align: justify;\"> </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257894,
@@ -444,8 +417,7 @@
         "D": "<p>Satirik</p>",
         "E": "<p>Dramatik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257896,
@@ -460,8 +432,7 @@
         "D": "<p>Necip Fazıl</p>",
         "E": "<p>Orhan Asena</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258127,
@@ -476,8 +447,7 @@
         "D": "<p>Yer</p>",
         "E": "<p>Ölçü</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258209,
@@ -492,8 +462,7 @@
         "D": "Taaşşuk-ı Talat ve Fitnat",
         "E": "Karabibik",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258318,
@@ -508,8 +477,7 @@
         "D": "<p>satirik</p> ",
         "E": "<p>dramatik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258320,
@@ -524,8 +492,7 @@
         "D": "<p>17/ Madame de La Fayette/  La Princesse de Cleves</p>",
         "E": "<p>18. / Goethe/ Genç Werther’in Acıları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258321,
@@ -540,8 +507,7 @@
         "D": "<p>Melville, Hawthorne, Camus</p>",
         "E": "<p>Charles Dickens, Jane Austen, Manzoni</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258367,
@@ -556,8 +522,7 @@
         "D": "<p>Öyküde olaylar zamandizisel açıdan anlatılır.</p>",
         "E": "<p>Olay öyküsü, <strong>Cehov </strong>öykücülüğü adıyla da anılır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258374,
@@ -572,8 +537,7 @@
         "D": "<p>Duygu ağırlıklı olması</p>",
         "E": "<p>Estetik değeri olması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258377,
@@ -588,8 +552,7 @@
         "D": "<p>Didaktik</p>",
         "E": "<p>Pastoral</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257604,
@@ -604,8 +567,7 @@
         "D": "<p>Epik Şiir</p>",
         "E": "<p>Dramatik Şiir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257765,
@@ -620,8 +582,7 @@
         "D": "<p>Aşk-ı Memnu</p>",
         "E": "<p>Eylül</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257873,
@@ -636,8 +597,7 @@
         "D": "<p>Aşık Veysel</p>",
         "E": "<p>Fazıl Hüsnü Dağlarca </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257958,
@@ -652,8 +612,7 @@
         "D": "<p>Divan</p>",
         "E": "<p>S&ouml;yleşi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258142,
@@ -668,8 +627,7 @@
         "D": "<p>Manzum</p>",
         "E": "<p>Roman</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258213,
@@ -684,8 +642,7 @@
         "D": "Satirik",
         "E": "Dramatik",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258214,
@@ -700,8 +657,7 @@
         "D": "Şinasi",
         "E": "Tevfik Fikret",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258263,
@@ -716,8 +672,7 @@
         "D": "Roman",
         "E": "Tiyatro",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258314,
@@ -732,8 +687,7 @@
         "D": "<p>Orhan Veli</p>",
         "E": "<p>Yahya Kemal</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258315,
@@ -748,8 +702,7 @@
         "D": "<p>“Tanım akıl işidir. Şiir ise akıl dışıdır.”</p>",
         "E": "<p>“Şiir düşünce, duygu ve hayaldir.”</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258319,
@@ -764,8 +717,7 @@
         "D": "<p>Tanzimat Edebiyatı -  Ziya Paşa</p> ",
         "E": "<p>Yeni Türk edebiyatı- Abdurrahim Karakoç</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258370,
@@ -780,8 +732,7 @@
         "D": "<p>Reşat Nuri Güntekin</p> ",
         "E": "<p>Sabahattin Ali</p>  ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258378,
@@ -796,8 +747,7 @@
         "D": "<p>II, III</p>",
         "E": "<p>II, III, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258390,
@@ -812,8 +762,7 @@
         "D": "<p>Tezel Özlü Kıral  </p>",
         "E": "<p>Turgut Özakman</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258392,
@@ -828,8 +777,7 @@
         "D": "<p>Yaşar Nabi</p>",
         "E": "<p>G&uuml;ll&uuml; Agop</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257764,
@@ -844,8 +792,7 @@
         "D": "<p>Voltaire</p>",
         "E": "<p>Diderot</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257766,
@@ -860,8 +807,7 @@
         "D": "<p>Haldun Taner</p>",
         "E": "<p>Necip Fazıl</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257815,
@@ -876,8 +822,7 @@
         "D": "<p>Doğayı, doğa güzelliklerini ve bunları sevdirmeyi amaçlar.</p> ",
         "E": "<p>Bir olayı, durumu tiyatro gibi canlandırarak anlatır. </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257874,
@@ -892,8 +837,7 @@
         "D": "<p style=\"text-align: justify;\">pastoral şiir</p> <p style=\"text-align: justify;\"> </p>",
         "E": "<p style=\"text-align: justify;\">dramatik şiir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257954,
@@ -908,8 +852,7 @@
         "D": "<p>Pastoral şiir</p>",
         "E": "<p>Dramatik şiir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257955,
@@ -924,8 +867,7 @@
         "D": "<p>Didaktik şiir</p>",
         "E": "<p>Pastoral şiir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258210,
@@ -940,8 +882,7 @@
         "D": "Meddah",
         "E": "Ortaoyunu",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258316,
@@ -956,8 +897,7 @@
         "D": "<p>satirik</p>",
         "E": "<p>dramatik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258373,
@@ -972,8 +912,7 @@
         "D": "<p>Yazarın iletisi ile okurun anladığı bütünlük içindedir.</p>",
         "E": "<p>Okuru gerçeklere ulaştırmayı hedefler.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258383,
@@ -988,8 +927,7 @@
         "D": "<p>Roman</p>",
         "E": "<p>Biyografi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257427,
@@ -1004,8 +942,7 @@
         "D": "<p>Redif</p>",
         "E": "<p>Uyak</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257759,
@@ -1020,8 +957,7 @@
         "D": "<p>Masal</p>",
         "E": "<p>Tiyatro</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257762,
@@ -1036,8 +972,7 @@
         "D": "<p>Han Duvarları</p>",
         "E": "<p>Bingöl Çobanları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257767,
@@ -1052,8 +987,7 @@
         "D": "<p>Diyalektik</p>",
         "E": "<p>Epik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257895,
@@ -1068,8 +1002,7 @@
         "D": "<p>Melih Cevdet Anday</p>",
         "E": "<p>Orhan Pamuk</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257951,
@@ -1084,8 +1017,7 @@
         "D": "<p>Masal</p>",
         "E": "<p>Nesir</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258006,
@@ -1100,8 +1032,7 @@
         "D": "<p>Roman</p>",
         "E": "<p>Masal</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258103,
@@ -1116,8 +1047,7 @@
         "D": "<p>Didaktik şiir</p>",
         "E": "<p>Epik şiir</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258208,
@@ -1132,8 +1062,7 @@
         "D": "Didaktik",
         "E": "Dramatik",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258212,
@@ -1148,8 +1077,7 @@
         "D": "Senli benli ve içtenlikli bir dil kullanılır.",
         "E": "Düşünceler kesin yargılara bağlanmaya çalışılır.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258366,
@@ -1164,8 +1092,7 @@
         "D": "<p>Lirik şiirler, doğa güzelliklerini anlatır.</p>",
         "E": "<p>Pastoral şiirler, yaşananları bir tiyatro gibi canladırır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258384,
@@ -1180,8 +1107,7 @@
         "D": "<p>Kurguya dayalı olması<br /><br /></p>",
         "E": "<p>Estetik değerin önemli olması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257433,
@@ -1196,8 +1122,7 @@
         "D": "<p>Dramatik</p>",
         "E": "<p>Lirik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257760,
@@ -1212,8 +1137,7 @@
         "D": "<p>Sözcüklere gerçek anlamını unutturmak.</p>",
         "E": "<p>Şiir şudur ya da budur değildir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257871,
@@ -1228,8 +1152,7 @@
         "D": "<p style=\"text-align: justify;\">İmgelere yer vermez.</p> <p style=\"text-align: justify;\"> </p>",
         "E": "<p style=\"text-align: justify;\">Estetik kaygı gütmez.</p> <p style=\"text-align: justify;\"> </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257892,
@@ -1244,8 +1167,7 @@
         "D": "<p>Lirik şiir</p>",
         "E": "<p>Dramatik şiir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257960,
@@ -1260,8 +1182,7 @@
         "D": "<p>Komedi</p>",
         "E": "<p>Dram</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258220,
@@ -1276,8 +1197,7 @@
         "D": "<p>Masal</p>",
         "E": "<p>Roman</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258265,
@@ -1292,8 +1212,7 @@
         "D": "<p> Zaman</p>\n<p> </p>",
         "E": "<p>Üç birlik kuralı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258375,
@@ -1308,8 +1227,7 @@
         "D": "<p>Didaktik</p>",
         "E": "<p>Pastoral</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258376,
@@ -1324,8 +1242,7 @@
         "D": "<p>Pastoral</p>",
         "E": "<p>didaktik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257606,
@@ -1340,8 +1257,7 @@
         "D": "<p>Halit Ziya Uşaklıgil</p>",
         "E": "<p>Sami Paşazade Sezai</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258105,
@@ -1356,8 +1272,7 @@
         "D": "<p>Çobanların yaşamını, aşklarını, üzüntülerini anlatan şiirlerdir.</p>",
         "E": "<p>Çobanların karşılıklı konuşması biçimindeyse (diyalog) eglog adını alır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257763,
@@ -1372,8 +1287,7 @@
         "D": "<p>Yer</p>",
         "E": "<p>Durum</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257818,
@@ -1388,8 +1302,7 @@
         "D": "<p>Mehmet Rauf ’un Eylül</p> ",
         "E": "<p>Nabizâde Nâzım'ın Zehra</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257819,
@@ -1404,8 +1317,7 @@
         "D": "<p>Recep Bilginer - 1870</p> ",
         "E": "<p>Necati Cumalı-1878</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258007,
@@ -1420,8 +1332,7 @@
         "D": "<p>Redif</p>",
         "E": "<p>Durak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258264,
@@ -1436,8 +1347,7 @@
         "D": "Pastoral",
         "E": "Lirik",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258369,
@@ -1452,8 +1362,7 @@
         "D": "<p>2. Meşrutiyet’ten sonra H. Edip Adıvar, Y. Kadri Karaosmanoğlu, R. Halit Karay, H. Ziya Uşaklıgil romanlar yazarlar.</p>\n<ol>\n<li style=\"list-style-type: none;\">\n<p> </p>\n</li>\n</ol>",
         "E": "<p>Şemsettin Sami’nin yazdığı <em>Taaşşuk-ı Talat ve Fitnat (Talat ve Fitnat’ın Aşkları), </em>ilk Türkçe romandır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258387,
@@ -1468,8 +1377,7 @@
         "D": "<p>Şermin</p>",
         "E": "<p>Asım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257435,
@@ -1484,8 +1392,7 @@
         "D": "<p>Dramatik</p>",
         "E": "<p>Pastoral</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257439,
@@ -1500,8 +1407,7 @@
         "D": "<p>Olay, kişiler ve mekan</p>",
         "E": "<p>Durum, kişiler, mekan ve zaman</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257814,
@@ -1516,8 +1422,7 @@
         "D": "<p>Pastoral şiir</p> ",
         "E": "<p>Dramatik şiir</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257876,
@@ -1532,8 +1437,7 @@
         "D": "<p>Cornille</p>",
         "E": "<p>Lucretius</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257878,
@@ -1548,8 +1452,7 @@
         "D": "<p style=\"text-align: justify;\">Balzac</p> <p style=\"text-align: justify;\"> </p>",
         "E": "<p style=\"text-align: justify;\">Flaubert</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258317,
@@ -1564,8 +1467,7 @@
         "D": "<p> pastoral</p>",
         "E": "<p>satirik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258368,
@@ -1580,8 +1482,7 @@
         "D": "<p>19. yüzyılda, Fransız edebiyatında Balzac, Stendhal ile Flaubert, gerçekçi roman yazarları arasında gösterilir.</p>",
         "E": "<p>19. yüzyılda, Herman Melville ve N. Hawthorne, romantizm ile realizm anlayışlarını kesin çizgilerle ayırır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258386,
@@ -1596,8 +1497,7 @@
         "D": "<p>Epik şiir</p>",
         "E": "<p>Satirik şiir </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257425,
@@ -1612,8 +1512,7 @@
         "D": "<p>Can Yücel</p>",
         "E": "<p>Edip Cansever</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257431,
@@ -1628,8 +1527,7 @@
         "D": "<p>Bu türde ilk şiir örneğini İ.Ö. 8. yüzyılda yaşayan Hesiodos ahlâk ve din bilgileri üzerine yazmıştır.</p>",
         "E": "<p>Tanzimat döneminde bu tür şiire yeni bir soluk getiren şairler arasında Abdülhak<br />Hamit, Servet-i Fünun’da Tevfik Fikret ve Cenap Şehabettin vardır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257899,
@@ -1644,8 +1542,7 @@
         "D": "<p>Orhan Pamuk</p>",
         "E": "<p>Ahmet Yurdakul</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258363,
@@ -1660,8 +1557,7 @@
         "D": "<p>Sanatsal yazılarda, kurmacadan uzak durulur.</p> ",
         "E": "<p>Sanatsal yazılarda, dilin kullanımı önemsizdir.</p>   ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257891,
@@ -1676,8 +1572,7 @@
         "D": "<p>Melih Cevdet</p>",
         "E": "<p>Valery</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258011,
@@ -1692,8 +1587,7 @@
         "D": "<p>Bingöl Çobanları</p>",
         "E": "<p>Ben Sana Mecburum</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258141,
@@ -1708,8 +1602,7 @@
         "D": "<p>Hüseyin Rahmi Gürpınar</p>",
         "E": "<p>Mehmet Rauf</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258144,
@@ -1724,8 +1617,7 @@
         "D": "<p>Romeo ve Juliet</p>",
         "E": "<p>Andromak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258381,
@@ -1740,8 +1632,7 @@
         "D": "<p>I, IV, V</p>",
         "E": "<p>I, II, III, IV, V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257608,
@@ -1756,8 +1647,7 @@
         "D": "<p>Euripides</p>",
         "E": "<p>Menandros</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257783,
@@ -1772,8 +1662,7 @@
         "D": "<p>Şiir duygudan çok düşünceye seslenmektedir.</p> ",
         "E": "<p>Düz yazıda çağrışım, imge, duyular, sezgi, duygular önemli yer tutmaktadır</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257897,
@@ -1788,8 +1677,7 @@
         "D": "<p>batılılaşma</p>",
         "E": "<p>modernizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258382,
@@ -1804,8 +1692,7 @@
         "D": "<p>I, III, IV, V</p>",
         "E": "<p>II, III, IV, V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257600,
@@ -1820,8 +1707,7 @@
         "D": "<p>Lirik</p>",
         "E": "<p>Pastoral</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257821,
@@ -1836,8 +1722,7 @@
         "D": "<p>İçinde bulunduğu ailenin gülünç ve aksak yönlerini ele alır.</p>",
         "E": "<p>Sadece güldürme amacıyla insanların kaba hallerini konu alır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257893,
@@ -1852,8 +1737,7 @@
         "D": "<p>Satirik Şiir</p>",
         "E": "<p>Didaktik Şiir</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257957,
@@ -1868,8 +1752,7 @@
         "D": "<p>Didaktik Şiir</p>",
         "E": "<p>Pastoral Şiir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258143,
@@ -1884,8 +1767,7 @@
         "D": "<p>Kanlı, çirkin, korkunç sahnelere, kaba sayılabilecek sözlere yer verilmemesi</p>",
         "E": "<p>Kahramanlarının seçkin ya da olağanüstü kişiler olması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257820,
@@ -1900,8 +1782,7 @@
         "D": "<p>Komedi, drama ve trajedi türlerini birleştirmektir.</p> ",
         "E": "<p>Toplumda, günlük yaşamda, siyasette bozuk ya da garip olanı eleştirerek izleyicilerin bunun üzerinde düşünmesini sağlamaktır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258008,
@@ -1916,8 +1797,7 @@
         "D": "<p>Nazım Hikmet</p>",
         "E": "<p>Necip Fazıl</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258140,
@@ -1932,8 +1812,7 @@
         "D": "<p>Nabizade Nazım - Karabibik</p>",
         "E": "<p>Mehmet Rauf - Eylül</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258372,
@@ -1948,8 +1827,7 @@
         "D": "<p>Tiyatro her zaman için, bir eylem sanatıdır.</p>",
         "E": "<p>Tiyatroda karşılıklı konuşmalar baskındır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258388,
@@ -1964,8 +1842,7 @@
         "D": "<p>Pastoral şiir</p>",
         "E": "<p>Dramatik şiir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257591,
@@ -1980,8 +1857,7 @@
         "D": "<p>Öykü</p>",
         "E": "<p>Deneme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258380,
@@ -1996,8 +1872,7 @@
         "D": "<p>kanlı, çirkin, korkunç sahnelere, kaba sayılabilecek sözler içermesi</p>",
         "E": "<p>klasik bir dil ve üslup anlayışıyla yazılması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257761,
@@ -2012,8 +1887,7 @@
         "D": "<p>Dramatik şiir</p>",
         "E": "<p>Lirik şiir</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258211,
@@ -2028,8 +1902,7 @@
         "D": "Manzum tiyatro eserlerindeki şiirlere drama­tik şiir denir.",
         "E": "Yurt sevgisi, insanlık ve inanç gibi temaların yiğitlik duygusuyla birleştiği şiirlere epik şiir denir.",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257598,
@@ -2044,8 +1917,7 @@
         "D": "<p>Masal</p>",
         "E": "<p>Öykü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258139,
@@ -2060,8 +1932,7 @@
         "D": "<p>Okur, öykünün bitmediğini düşünebilir</p>",
         "E": "<p>Serim, düğüm ve çözüm aşamalılığı vardır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258322,
@@ -2076,8 +1947,7 @@
         "D": "<p>Kral Lear</p> ",
         "E": "<p>Andromak</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258379,
@@ -2092,8 +1962,7 @@
         "D": "<p>Olay planı  </p>",
         "E": "<p>Olay sayısı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258313,
@@ -2108,8 +1977,7 @@
         "D": "<p>Yahya Kemal</p>",
         "E": "<p>Melih Cevdet</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258014,
@@ -2124,8 +1992,7 @@
         "D": "<p>Refik Halit Karay</p>",
         "E": "<p>Yakup Kadri Karaosmanoğlu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258266,
@@ -2140,8 +2007,7 @@
         "D": "Karabibik- Nabizade Nazım",
         "E": "Mai ve Siyah- Halit Ziya Uşaklıgil",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258371,
@@ -2156,8 +2022,7 @@
         "D": "<p>Orhan Pamuk</p> ",
         "E": "<p>Muzaffer İzgü</p>  ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258364,
@@ -2172,8 +2037,7 @@
         "D": "<p>Sanatsal yazılarda, yaratıcılıktan uzak durulur.</p> ",
         "E": "<p>Sanatsal yazılar, nesnel bilgiler aktarmakla yükümlüdür.</p>   ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257953,
@@ -2188,7 +2052,21 @@
         "D": "<p>Şair somut sözcüklerle soyut bir şiir yazar.</p>",
         "E": "<p>Şair iç dünyasını düz anlatımla yansıtır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3258385,
+        "UniteNo": 5,
+        "PageNumber": 112,
+        "AnswerExplanation": "<p>Soru kökünde tanımı verilen, hece ve durak ölçüsü kullanılan sanatsal yazı türü şiirdir. Öykü ve tiyatro düz yazı biçiminde yazılan sanatsal yazı türüdür. Anı ve gezi yazısı ise düşünce yazısı türüdür. Doğru cevap C seçeneğidir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi <em>“Zengin sembollerle, ritimli sözlerle, seslerin uyumlu kullanımıyla ortaya çıkan, hece ve durak bakımından denk ve kendi başına bir bütün olan edebî anlatım biçimi, nazım, koşuk\"</em> olarak tanımlanan sanatsal yazı türüdür?</p>",
+        "A": "<p>Tiyatro</p>",
+        "B": "<p>Öykü</p>",
+        "C": "<p>Şiir</p>",
+        "D": "<p>Gezi yazısı</p>",
+        "E": "<p>Anı</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Dijital medya</p>",
         "E": "<p>Çevresel grafik tasarım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3678957,
@@ -28,8 +27,7 @@
         "D": "<p>20.yüzyıl</p>",
         "E": "<p>21.yüzyıl</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3678995,
@@ -44,8 +42,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Norman McLaren, Oskar Fischinger, Len Lye</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>James Whitney, Henry Bergson, Louise Sandhaus</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3679044,
@@ -60,8 +57,7 @@
         "D": "<p></p> <div class=\"page\" title=\"Page 6\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İnfografik</p> </div> </div> </div> </div>",
         "E": "<p>Prodüksiyon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3679084,
@@ -76,8 +72,7 @@
         "D": "<p>II, III, IV ve V</p>",
         "E": "<p>I, II, IV ve V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3679108,
@@ -92,8 +87,7 @@
         "D": "<p></p> <div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Maurice Binder</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Len Lye</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3679156,
@@ -108,8 +102,7 @@
         "D": "<p>I, II, III ve V</p>",
         "E": "<p>I, III, IV ve V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3679204,
@@ -124,8 +117,7 @@
         "D": "<p></p> <div class=\"page\" title=\"Page 19\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Ara tanıtımlar (Interstitials)</p> </div> </div> </div> </div>",
         "E": "<p></p> <div class=\"page\" title=\"Page 19\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Lower Thirds (Alt üçte birlik)</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3679256,
@@ -140,8 +132,7 @@
         "D": "<p>Banner </p>",
         "E": "<p>Fragman</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3679287,
@@ -156,7 +147,6 @@
         "D": "<p>Web reklamları</p>",
         "E": "<p>Etkinlik tanıtımları</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

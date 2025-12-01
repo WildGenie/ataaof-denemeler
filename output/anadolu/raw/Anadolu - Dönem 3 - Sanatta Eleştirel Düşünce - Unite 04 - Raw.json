@@ -12,8 +12,7 @@
         "D": "<p>Beste</p>",
         "E": "<p>Reji</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354045,
@@ -28,8 +27,7 @@
         "D": "<p>Trubadur</p>",
         "E": "<p>Truver</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354050,
@@ -44,8 +42,7 @@
         "D": "<p>48 saatlik</p>",
         "E": "<p>72 saatlik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354082,
@@ -60,8 +57,7 @@
         "D": "<p>Suflör</p>",
         "E": "<p>Oyuncu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354085,
@@ -76,8 +72,7 @@
         "D": "<p>Melizma</p>",
         "E": "<p>Armoni</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354089,
@@ -92,8 +87,7 @@
         "D": "<p>Tonalite</p>",
         "E": "<p>Sonat Biçimi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354090,
@@ -108,8 +102,7 @@
         "D": "<p>W. A. Mozart</p>",
         "E": "<p>L. von Beethoven</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354092,
@@ -124,8 +117,7 @@
         "D": "<p>C. Debussy</p>",
         "E": "<p>F. Liszt</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354093,
@@ -140,8 +132,7 @@
         "D": "<p>K. Stanislavski</p>",
         "E": "<p>A. Çehov</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354148,
@@ -156,8 +147,7 @@
         "D": "<p>Dramaturji</p>",
         "E": "<p>Senfoni</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354161,
@@ -172,8 +162,7 @@
         "D": "<p>Opera türünün önemli temsilcisidir.</p>",
         "E": "<p>Tonalitenin temelini atmıştır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354162,
@@ -188,8 +177,7 @@
         "D": "<p>Corneille </p>",
         "E": "<p>Racine </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354164,
@@ -204,8 +192,7 @@
         "D": "<p>Epik Tiyatro</p>",
         "E": "<p>Ajitprop Tiyatro</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354165,
@@ -220,8 +207,7 @@
         "D": "<p>Empresyonizm</p>",
         "E": "<p>Fütürizm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354189,
@@ -236,8 +222,7 @@
         "D": "<p>Tragedya<br /><br /></p>",
         "E": "<p>Madrigal</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354191,
@@ -252,8 +237,7 @@
         "D": "<p>Romantik</p>",
         "E": "<p>Modern</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354192,
@@ -268,8 +252,7 @@
         "D": "<p>Beethoven</p>",
         "E": "<p>Schubert</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354194,
@@ -284,8 +267,7 @@
         "D": "<p>Beethoven</p>",
         "E": "<p>Schumann</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354198,
@@ -300,8 +282,7 @@
         "D": "<p>İngiltere</p>",
         "E": "<p>Almanya</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354202,
@@ -316,8 +297,7 @@
         "D": "<p>Atonal müzik</p>",
         "E": "<p>Serbest müzik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354042,
@@ -332,8 +312,7 @@
         "D": "<p>Tarih</p>",
         "E": "<p>Din</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354043,
@@ -348,8 +327,7 @@
         "D": "<p>Opera</p>",
         "E": "<p>Beste</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354047,
@@ -364,8 +342,7 @@
         "D": "<p>Melizma</p>",
         "E": "<p>Truver</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354049,
@@ -380,8 +357,7 @@
         "D": "<p>Almanya</p>",
         "E": "<p>İngiltere</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354084,
@@ -396,8 +372,7 @@
         "D": "<p>Polifoni</p>",
         "E": "<p>Monofoni</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354160,
@@ -412,8 +387,7 @@
         "D": "<p>Trubadur</p>",
         "E": "<p>Gregoryan</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354163,
@@ -428,8 +402,7 @@
         "D": "<p>Georg Büchner</p>",
         "E": "<p>Bertold Brecht</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354166,
@@ -444,8 +417,7 @@
         "D": "<p>Politik Tiyatro</p>",
         "E": "<p>Postmodern Tiyatro</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354188,
@@ -460,8 +432,7 @@
         "D": "<p>Zekasından</p>",
         "E": "<p>Çalışkanlığından</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354190,
@@ -476,8 +447,7 @@
         "D": "<p>Bestecinin amacı bir zanaatkarın ustalığını kazanmaktır</p>",
         "E": "<p>Atonalite giderek yaygınlaşarak tonal olmayan tüm müzikler için yaygın kullanılan bir<br />terime dönüşür</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354200,
@@ -492,8 +462,7 @@
         "D": "<p>Usmanbaş</p>",
         "E": "<p>Akses</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354048,
@@ -508,8 +477,7 @@
         "D": "<p>1685 ile 1750 yılları arasında</p>",
         "E": "<p>1585 ile 1650 yılları arasında</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354081,
@@ -524,8 +492,7 @@
         "D": "<p>Dramaturji</p>",
         "E": "<p>Skeç</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354154,
@@ -540,8 +507,7 @@
         "D": "<p>I, II, V</p>",
         "E": "<p>IV, III, II</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354167,
@@ -556,8 +522,7 @@
         "D": "<p>Brian Ferneyhough</p>",
         "E": "<p>Philip Glass</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354041,
@@ -572,8 +537,7 @@
         "D": "<p>17. yüzyıl</p>",
         "E": "<p>16. yüzyıl</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354083,
@@ -588,8 +552,7 @@
         "D": "<p>Ahlak Oyunları</p>",
         "E": "<p>Parabasis</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354196,
@@ -604,8 +567,7 @@
         "D": "<p>Schönberg</p>",
         "E": "<p>Russolo</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354046,
@@ -620,8 +582,7 @@
         "D": "<p>Doğu Almanya</p>",
         "E": "<p>Kuzey İtalya</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354091,
@@ -636,7 +597,6 @@
         "D": "<p>R. Schumann</p>",
         "E": "<p>G.Verdi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     }
 ]

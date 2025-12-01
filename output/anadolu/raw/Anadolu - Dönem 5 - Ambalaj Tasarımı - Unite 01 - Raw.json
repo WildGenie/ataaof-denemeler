@@ -12,8 +12,7 @@
         "D": "<p>Metal ambalajlar</p>",
         "E": "<p>Cam ambalaj</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862630,
@@ -28,8 +27,7 @@
         "D": "<p>Kvervi</p>",
         "E": "<p>Rijit </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862631,
@@ -44,8 +42,7 @@
         "D": "<p>Piktografik</p>",
         "E": "<p>Polipropilen</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862633,
@@ -60,8 +57,7 @@
         "D": "<p>Jüt</p>",
         "E": "<p>Polietilen</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862634,
@@ -76,8 +72,7 @@
         "D": "<p>Dijital baskı</p>",
         "E": "<p> Serigrafi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862635,
@@ -92,8 +87,7 @@
         "D": "<p>Ben Nash</p>",
         "E": "<p>John Vassos</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862644,
@@ -108,8 +102,7 @@
         "D": "<p>Düşük maliyetli ve geniş bir üretim kapasitesine sahip olmasıyla genellikle ekonomik bir seçenektir.</p>",
         "E": "<p>Farklı şekil, boyutlara sahip esnek tasarımlarda firmaların pazarlama stratejilerine uygun bir şekilde üretilebilir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862645,
@@ -124,8 +117,7 @@
         "D": "<p>Erik Rotheim</p>",
         "E": "<p>Nicholas-Louis Robert</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862649,
@@ -140,8 +132,7 @@
         "D": "<p>Yarı esnek ambalajlama</p>",
         "E": "<p>Vakumlama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862650,
@@ -156,8 +147,7 @@
         "D": "<p>II - III - IV</p>",
         "E": "<p>I - II - III - IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862655,
@@ -172,8 +162,7 @@
         "D": "<p>Rijit ambalaj</p>",
         "E": "<p>Parşömen baskı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862658,
@@ -188,8 +177,7 @@
         "D": "<p>Polivinil klorür</p>",
         "E": "<p>Polipropilen</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862659,
@@ -204,8 +192,7 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862660,
@@ -220,8 +207,7 @@
         "D": "<p>PAP</p>",
         "E": "<p>PS</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862661,
@@ -236,8 +222,7 @@
         "D": "<p>Clarence Birdseye</p>",
         "E": "<p>Egbert Jacobson</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862662,
@@ -252,8 +237,7 @@
         "D": "<p>Ürün görünürlüğü</p>",
         "E": "<p>Taşıma kolaylığı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862663,
@@ -268,8 +252,7 @@
         "D": "<p>Pop Sanat Akımı</p>",
         "E": "<p>Sembolizm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862684,
@@ -284,8 +267,7 @@
         "D": "<p>Ofset baskı</p>",
         "E": "<p>Litografi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862686,
@@ -300,8 +282,7 @@
         "D": "<p>II - III - IV</p>",
         "E": "<p>I - II - III - IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862688,
@@ -316,8 +297,7 @@
         "D": "<p>I - III - IV</p>",
         "E": "<p>I - II - III - IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862632,
@@ -332,8 +312,7 @@
         "D": "<p>Piktografik ambalajlar</p>",
         "E": "<p>Rijit ambalajlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862636,
@@ -348,8 +327,7 @@
         "D": "<p>Beş</p>",
         "E": "<p>Altı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862637,
@@ -364,8 +342,7 @@
         "D": "<p>Asurlular</p>",
         "E": "<p>Romalılar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862651,
@@ -380,8 +357,7 @@
         "D": "<p>İçeriğiyle birlikte tüketilebilir hazneler</p>",
         "E": "<p>Yenilebilir/doğada çözünür ambalaj ile eşleştirilmiş gıda</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862656,
@@ -396,8 +372,7 @@
         "D": "<p>I - II - III</p>",
         "E": "<p>I - II - III - IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862690,
@@ -412,8 +387,7 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862692,
@@ -428,8 +402,7 @@
         "D": "<p>Kişiselleştirme</p>",
         "E": "<p>Marka kimliği</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862657,
@@ -444,8 +417,7 @@
         "D": "<p>Alüminyum folyo</p>",
         "E": "<p>Cam</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862664,
@@ -460,7 +432,6 @@
         "D": "<p>1990</p>",
         "E": "<p>2000</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     }
 ]

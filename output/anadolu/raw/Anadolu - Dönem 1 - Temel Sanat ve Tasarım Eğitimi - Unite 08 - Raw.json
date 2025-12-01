@@ -12,8 +12,7 @@
         "D": "<p>İkonik perspektif</p>",
         "E": "<p>Görüş hattı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861212,
@@ -28,8 +27,7 @@
         "D": "<p>I-c, II-b, III-a</p>",
         "E": "<p>I-c, II-a, III-b</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861214,
@@ -44,8 +42,7 @@
         "D": "<p>I-II-III</p>",
         "E": "<p>I-II-IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861215,
@@ -60,8 +57,7 @@
         "D": "<p>Görsel algı-derinlik algısı</p>",
         "E": "<p>Boyutsal algılama-derinlik algısı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861216,
@@ -76,8 +72,7 @@
         "D": "<p>Virtüellik</p>",
         "E": "<p>Resimsel dönemeç</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861218,
@@ -92,8 +87,7 @@
         "D": "<p>Ufuk çizgisinin üstünde kalan cisimlerin altı görünür</p> ",
         "E": "<p>Ufuk çizgisinin tam üzerindeki cisimlerin altı da üstü de görünmez</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861220,
@@ -108,8 +102,7 @@
         "D": "<p>Sümer mitolojisi</p> ",
         "E": "<p>Cermen mitolojisi</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861221,
@@ -124,8 +117,7 @@
         "D": "<p>Avatar</p>",
         "E": "<p>İki boyutlu tasarım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861222,
@@ -140,8 +132,7 @@
         "D": "<p>AG,  gerçek dünyayı bilgisayar ortamında geliştirilen sanal ortamlarla zenginleştirir.</p>",
         "E": "<p>AG, gerçek ile sanal arasındaki ayrımı görünmez kılarak harmanlanmış bir ortam oluşturmayı hedefler.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861223,
@@ -156,8 +147,7 @@
         "D": "<p>Üç Boyutlu Cam Boyama</p>",
         "E": "<p>Stereoskopik 3D</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861224,
@@ -172,8 +162,7 @@
         "D": "<p>Sıcak-soğuk renk manipülasyonu</p>",
         "E": "<p>Gölge yeri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861225,
@@ -188,8 +177,7 @@
         "D": "<p>II-III</p>",
         "E": "<p>I-II-III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861227,
@@ -204,8 +192,7 @@
         "D": "<p>Agamograph</p>",
         "E": "<p>Lentiküler Baskı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861230,
@@ -220,8 +207,7 @@
         "D": "<p>Uzam</p> ",
         "E": "<p>Hacim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861233,
@@ -236,8 +222,7 @@
         "D": "<p>Trimetrik Perspektiff</p> ",
         "E": "<p>İkonik Perspektif</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861234,
@@ -252,8 +237,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861235,
@@ -268,8 +252,7 @@
         "D": "<p>Stereo vision</p>",
         "E": "<p>Stereopsis</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861237,
@@ -284,8 +267,7 @@
         "D": "<p>Hipergerçekçilik</p>",
         "E": "<p>Optik sanat</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861238,
@@ -300,8 +282,7 @@
         "D": "<p>Bellekler</p>",
         "E": "<p>Komut modelleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861239,
@@ -316,8 +297,7 @@
         "D": "<p>Stereoskopik 3D</p>",
         "E": "<p>Optimizasyon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861210,
@@ -332,8 +312,7 @@
         "D": "<p>I-II-IV</p>",
         "E": "<p>I-III-IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861213,
@@ -348,8 +327,7 @@
         "D": "<p>Konik perspektif</p>",
         "E": "<p>Aksonometrik perspektif</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861219,
@@ -364,8 +342,7 @@
         "D": "<p>I,II,III</p>",
         "E": "<p>II,III,IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861226,
@@ -380,8 +357,7 @@
         "D": "<p>Simülasyon </p>",
         "E": "<p>Op-art</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861228,
@@ -396,8 +372,7 @@
         "D": "<p>Bir perspektif türüdür</p>",
         "E": "<p>Netlikle ilgili alanı niteler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861231,
@@ -412,8 +387,7 @@
         "D": "<p>Birim</p>",
         "E": "<p>Perspektif</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861232,
@@ -428,8 +402,7 @@
         "D": "<p>Doku dereceleri</p>",
         "E": "<p>Parlaklık dereceleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861217,
@@ -444,8 +417,7 @@
         "D": "<p>Kabine</p>",
         "E": "<p>İzometrik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861229,
@@ -460,8 +432,7 @@
         "D": "<p>Özel donanımlı  sanat eserlerinin sergilendiği alanlardır</p> ",
         "E": " <p>Gerçek olmayan görsellik ve imge üretimidir </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861236,
@@ -476,7 +447,6 @@
         "D": "<p>Pop-Art</p>",
         "E": "<p>Op-Art</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<div class=\"page\" title=\"Page 1\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Optik kural</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<p>Tipografi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861996,
@@ -28,8 +27,7 @@
         "D": "<div class=\"page\" title=\"Page 3\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Amblem </p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<p>Logo</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861997,
@@ -44,8 +42,7 @@
         "D": "<p>I/II/III/V/VI</p>",
         "E": "<p>I/II/IV/V/VI</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861998,
@@ -60,8 +57,7 @@
         "D": "<p>Tasarım</p>",
         "E": "<p>Grafik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861999,
@@ -76,8 +72,7 @@
         "D": "<p>Akılda kalıcılık</p>",
         "E": "<p>Tasarım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862000,
@@ -92,8 +87,7 @@
         "D": "<p>İşaretler</p>",
         "E": "<p>Logo</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862001,
@@ -108,8 +102,7 @@
         "D": "<p>I/II/IV</p>",
         "E": "<p>I/III/IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862002,
@@ -124,8 +117,7 @@
         "D": "<p>Uluslararası yaygın olarak tanınan görüntüler seçilmelidir.</p>",
         "E": "<p>Etki, okunabilirlik, anlam, marka anlatımı ve bağlam içinde bir renk tercih edilmelidir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862003,
@@ -140,8 +132,7 @@
         "D": "<p>Simgeler bir sistemin parçası mıdır?<br /><br /></p>",
         "E": "<p>Sistem genelinde hangi tarzda çalışılacak ve tüm tasarım projesi için uygulanacak mı?<br /><br /></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862004,
@@ -156,8 +147,7 @@
         "D": "<div class=\"page\" title=\"Page 12\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Şekil-Zemin</p> <div class=\"page\" title=\"Page 12\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\">  </div> </div> </div> </div> </div> </div> </div> </div>",
         "E": "<p>Görsel Algı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862264,
@@ -172,7 +162,6 @@
         "D": "I-III-IV-V",
         "E": "I-II-III-IV-V",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     }
 ]

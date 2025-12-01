@@ -12,8 +12,7 @@
         "D": "<p>Teknolojik Yakınsama</p>",
         "E": "<p>Enformasyon Yakınsaması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3684577,
@@ -28,8 +27,7 @@
         "D": "<p>Dikotomi</p>",
         "E": "<p>Zihinsel İletişim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3684585,
@@ -44,8 +42,7 @@
         "D": "<p>Dikotomi</p>",
         "E": "<p>Slaktivizm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3684591,
@@ -60,8 +57,7 @@
         "D": "<p>2016</p>",
         "E": "<p>2020</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3684592,
@@ -76,8 +72,7 @@
         "D": "<p>Dikotomi</p>",
         "E": "<p>Slaktivizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3684604,
@@ -92,8 +87,7 @@
         "D": "<p>Ses tanıma, yüz ifadeleri okuma özellikleri vardı</p>",
         "E": "<p>Robot davranış kalıpları geliştiriyorlardı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3684610,
@@ -108,8 +102,7 @@
         "D": "<p>Bilgi Aktarımı</p>",
         "E": "<p>Sosyal Robotik ve Yapay Zekâ</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3684615,
@@ -124,8 +117,7 @@
         "D": "<p>Telepatlar</p>",
         "E": "<p>Neuralink</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3684620,
@@ -140,8 +132,7 @@
         "D": "<p>Future of Life Institute (FLI)</p>",
         "E": "<p>OpenAI</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840288,
@@ -156,8 +147,7 @@
         "D": "Otomasyon",
         "E": "Kod dizimi",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840316,
@@ -172,8 +162,7 @@
         "D": "Filtre balonu",
         "E": "Influencer",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840350,
@@ -188,8 +177,7 @@
         "D": "Yankı odalarının çoğalması",
         "E": "Bireysel bilginin kolektif bilgiye dönüşmesi",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840465,
@@ -204,8 +192,7 @@
         "D": "Bireyselleşme",
         "E": "Empati",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840856,
@@ -220,8 +207,7 @@
         "D": "<p data-start=\"256\" data-end=\"571\">Basılı yayınların internet ortamında paylaşılmasıdır.</p>",
         "E": "<p data-start=\"256\" data-end=\"571\">Medya kullanıcılarının yalnızca içerik tüketicisi olmaktan çıkmasıdır.</p> <p data-start=\"573\" data-end=\"652\"></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840857,
@@ -236,8 +222,7 @@
         "D": "Teknolojik, içeriksel, endüstriyel ve kültürel düzeylerde ortaya çıkan çok boyutlu bir birleşme sürecidir.",
         "E": "Tüketicilerin medya içeriğini yalnızca bireysel olarak yorumlamasıdır.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840858,
@@ -252,8 +237,7 @@
         "D": "<p data-start=\"329\" data-end=\"718\">Değişen, dönüşen ve sınırları belirsizleşen yapısıyla oluş halinde olmasıdır.</p>",
         "E": "<p data-start=\"329\" data-end=\"718\">Sadece bireysel iletişimde değil, kitlesel yayıncılıkta da kullanılabilmesidir.</p> <p data-start=\"720\" data-end=\"823\"></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840859,
@@ -268,8 +252,7 @@
         "D": "Sosyal medya platformlarının yalnızca metinsel içeriklere izin vermesiyle oluşan sınırlı etkileşimdir.",
         "E": "Dijital emek sömürüsünün yalnızca mobil uygulamalarla sınırlı kalmasıdır.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840863,
@@ -284,8 +267,7 @@
         "D": "<p data-start=\"229\" data-end=\"558\">Kimlik ve beden algısının dönüşerek çok yönlü ve akışkan hale gelmesi</p>",
         "E": "<p data-start=\"229\" data-end=\"558\">Empati yerine bireysel izolasyonun teşvik edilmesi</p> <p data-start=\"560\" data-end=\"652\"></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840865,
@@ -300,8 +282,7 @@
         "D": "<p data-start=\"204\" data-end=\"459\">Mutlak etik değerlerin evrensel kabulünü sağlamak</p>",
         "E": "<p data-start=\"204\" data-end=\"459\">Empati kavramını deneyimsel olarak görünür kılmak</p> <p data-start=\"461\" data-end=\"533\"></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840866,
@@ -316,8 +297,7 @@
         "D": "<p data-start=\"416\" data-end=\"739\">Sosyal robotların empati yeteneğini artırması</p>",
         "E": "<p data-start=\"416\" data-end=\"739\">İnsanlar arası fikir paylaşımının hızlanarak ekip çalışmalarının dönüşmesi</p> <p data-start=\"741\" data-end=\"809\"></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840271,
@@ -332,8 +312,7 @@
         "D": "Kültürel yakınsama",
         "E": "Türdeş donanımların birarada kullanılması",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840311,
@@ -348,8 +327,7 @@
         "D": "Yankı odası",
         "E": "Değişken ortam",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840331,
@@ -364,8 +342,7 @@
         "D": "Panoptikon",
         "E": "Posthümanizm",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840469,
@@ -380,8 +357,7 @@
         "D": "Algoritma",
         "E": "Empati",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840868,
@@ -396,8 +372,7 @@
         "D": "Dijital gözetim ve mahremiyetin zayıflaması",
         "E": "Reklam gelirlerine dayalı ekonomik modelin yaratılması",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840869,
@@ -412,8 +387,7 @@
         "D": "<p data-start=\"196\" data-end=\"506\">Teknolojinin sadece ekonomik faydalarının önceliklendirilmesi</p>",
         "E": "<p data-start=\"196\" data-end=\"506\">Teknolojinin hızlı yayılmasının engellenmesi</p> <p data-start=\"508\" data-end=\"526\"></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3684563,
@@ -428,8 +402,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840276,
@@ -444,8 +417,7 @@
         "D": "Yöndeşme",
         "E": "Kod çevrimi",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840452,
@@ -460,8 +432,7 @@
         "D": "Wiki",
         "E": "Starlink",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840861,
@@ -476,7 +447,6 @@
         "D": "<p data-start=\"277\" data-end=\"615\">Blog içeriklerinin yalnızca profesyonel yazarlar tarafından oluşturulması</p>",
         "E": "<p data-start=\"277\" data-end=\"615\">Metinsel içeriklerin dijital güvenlik risklerini ortadan kaldırması</p> <p data-start=\"617\" data-end=\"706\"></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     }
 ]

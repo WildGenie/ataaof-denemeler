@@ -12,8 +12,7 @@
         "D": "<p>dinleme</p>",
         "E": "<p>görsel sunu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257507,
@@ -28,8 +27,7 @@
         "D": "<p>Dile getirmek</p>",
         "E": "<p>Söz etmek</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257511,
@@ -44,8 +42,7 @@
         "D": "<p>Hayat</p>",
         "E": "<p>Evren</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257522,
@@ -60,8 +57,7 @@
         "D": "<p>Tanımlama</p>",
         "E": "<p>Karşılaştırma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257525,
@@ -76,8 +72,7 @@
         "D": "<p>Karşılaştırma</p>",
         "E": "<p>Tanımlama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257531,
@@ -92,8 +87,7 @@
         "D": "<p>Okuma</p>",
         "E": "<p>Kompozisyon</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257538,
@@ -108,8 +102,7 @@
         "D": "<p>Bireysel / ayrı</p>",
         "E": "<p>Öznel / nesnel</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257544,
@@ -124,8 +117,7 @@
         "D": "<p>Alıntı yapılacak kişinin sözleri aktarılır.</p>",
         "E": "<p>Bir iddianın gerçekliğini inkâr edilmeyecek bir kesinlikle göstermektir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257740,
@@ -140,8 +132,7 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257749,
@@ -156,8 +147,7 @@
         "D": "<p>Her paragraf bir düşüncenin ele alındığı, işlendiği, örneklendirildiği, geliştirildiği ve sonuca bağlandığı bir bütünlüktür.</p>",
         "E": "<p>Her paragrafın kendi içinde giriş, gelişme ve sonuç bölümü olmalıdır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257751,
@@ -172,8 +162,7 @@
         "D": "<p>Tanıklama</p>",
         "E": "<p>Tanıtlama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257757,
@@ -188,8 +177,7 @@
         "D": "<p>Hece</p>",
         "E": "<p>Paragraf</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257799,
@@ -204,8 +192,7 @@
         "D": "<p>Yazının giriş bölümüdür.</p>",
         "E": "<p>Yardımcı düşüncelerin yer aldığı bölümdür.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257924,
@@ -220,8 +207,7 @@
         "D": "<p>Kompozisyon</p>",
         "E": "<p>Plan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257925,
@@ -236,8 +222,7 @@
         "D": "<p>Duyguya dayalı plan</p>",
         "E": "<p>Analizlere dayalı plan</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257926,
@@ -252,8 +237,7 @@
         "D": "<p>Konu</p>",
         "E": "<p>Paragraf</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257929,
@@ -268,8 +252,7 @@
         "D": "<p>Örneklendirme</p>",
         "E": "<p>Tanıtlama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258099,
@@ -284,8 +267,7 @@
         "D": "<p>Soru sorma</p>",
         "E": "<p>Öyküleme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258100,
@@ -300,8 +282,7 @@
         "D": "<p>İlerleme</p>",
         "E": "<p>Öyküleme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258237,
@@ -316,8 +297,7 @@
         "D": "Teodor Kasap",
         "E": "Ahmed Vefik Paşa",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257373,
@@ -332,8 +312,7 @@
         "D": "<p>4</p>",
         "E": "<p>Konu paragrafın bütünündedir. </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257464,
@@ -348,8 +327,7 @@
         "D": "<p>Yazılı kompozisyonun kuralları, daha kalıcıdır.</p>",
         "E": "<p>Sözcük seçimi, tüm kompozisyon türlerinde önemlidir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257483,
@@ -364,8 +342,7 @@
         "D": "<p><strong><em>Etkili iletişim kurmak zorlaşıyor.</em></strong></p>",
         "E": "<p><strong><em>Anında iletişim, güven veriyor.</em></strong></p> <p><strong><em> </em></strong></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257518,
@@ -380,8 +357,7 @@
         "D": "<p>Düşünceye dayalı plan</p>",
         "E": "<p>Duyguya dayalı plan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257534,
@@ -396,8 +372,7 @@
         "D": "<p>Her zaman el yazısıyla yazılması daha doğrudur.</p>",
         "E": "<p>Noktalama işaretleri yerli yerinde kullanılmalıdır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257540,
@@ -412,8 +387,7 @@
         "D": "<p>I, II, III ve V</p>",
         "E": "<p>I, II, III, IV ve V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257734,
@@ -428,8 +402,7 @@
         "D": "<p>Bilgi donanımını ortaya koyulması</p>",
         "E": "<p>Dil kullanma becerilerini gerektirmesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257736,
@@ -444,8 +417,7 @@
         "D": "<p>Konuyla ilgili ana ve yardımcı düşüncelerin belirlenmesi</p>",
         "E": "<p>Kompozisyonun planlanması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257745,
@@ -460,8 +432,7 @@
         "D": "<p>Şiir</p>",
         "E": "<p>Öykü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257756,
@@ -476,8 +447,7 @@
         "D": "<p>Biçim</p>",
         "E": "<p>Yazım</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257781,
@@ -492,8 +462,7 @@
         "D": "<p>Gelişme</p>",
         "E": "<p>Tanıklama</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257790,
@@ -508,8 +477,7 @@
         "D": "<p>Öykü</p>",
         "E": "<p>Tiyatro oyunu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257801,
@@ -524,8 +492,7 @@
         "D": "<p>İlk cümle paragrafın konusunu belirler.</p>",
         "E": "<p>Başarılı bir paragraf tek bir cümle içerebilir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257802,
@@ -540,8 +507,7 @@
         "D": "<p>Örneklendirme</p>",
         "E": "<p>Karşılaştırma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257994,
@@ -556,8 +522,7 @@
         "D": "<p>Konu</p>",
         "E": "<p>Başlık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257997,
@@ -572,8 +537,7 @@
         "D": "<p>Tanımlama</p>",
         "E": "<p>Tanıtlama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258085,
@@ -588,8 +552,7 @@
         "D": "<p>Bir ders uygulaması olarak kompozisyonun el yazısıyla yazılması daha doğrudur.</p>",
         "E": "<p>Yazılar yayımlanmak üzere yayın kuruluşlarına gönderileceği zaman bilgisayarda yazmak gerekir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258087,
@@ -604,8 +567,7 @@
         "D": "<p>Gözlemleme</p>",
         "E": "<p>Okuma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257363,
@@ -620,8 +582,7 @@
         "D": "<p>Sözlü kompozisyonun durağan olmasına karşın, yazılı kompozisyon daha esnektir.  </p>",
         "E": "<p>Sözlü kompozisyon konuşan kendini daha doğru ifade etme yollarını çeşitlendirebilir; ancak yazılı kompozisyonda yazarın ifade yollarını çeşitlendirebilmesi mümkün olmaz.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257466,
@@ -636,8 +597,7 @@
         "D": "<p>Milan Kundera’nın Niteliksiz Adam romanını övmesi</p> ",
         "E": "<p>Milan Kundera’nın antropolojik sınırlara saygı duyması</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257468,
@@ -652,8 +612,7 @@
         "D": "<p>Platon’un görüngü dünyası</p>",
         "E": "<p>Platon’un kitaptaki yeri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257476,
@@ -668,8 +627,7 @@
         "D": "<p><em>Karşılaştırma</em></p> ",
         "E": "<p><em>Tümdengelim</em></p> <p><em> </em></p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257481,
@@ -684,8 +642,7 @@
         "D": "<p><strong><em>Anlama </em></strong></p>",
         "E": "<p><strong><em>Dinleme</em></strong></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257520,
@@ -700,8 +657,7 @@
         "D": "<p>Paragraf</p>",
         "E": "<p>Öykü</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257527,
@@ -716,8 +672,7 @@
         "D": "<p>Örneklendirme</p>",
         "E": "<p>Karşılaştırma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257536,
@@ -732,8 +687,7 @@
         "D": "<p>b, c, a</p>",
         "E": "<p>c, b, a</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257747,
@@ -748,8 +702,7 @@
         "D": "<p>I, III</p>",
         "E": "<p>I, II ,III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257789,
@@ -764,8 +717,7 @@
         "D": "<p>Bir veya birkaç olayı konu edinen yazılı anlatım türlerinde duyguya dayalı plan uygulanır.</p>",
         "E": "<p>Bakış açısının egemen olduğu, düşüncelerin işlendiği, kavramların ve sorunların tartışıldığı yazılarda düşünceye dayalı plan uygulanır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257996,
@@ -780,8 +732,7 @@
         "D": "<p>Kompozisyon</p>",
         "E": "<p>Açıklama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257371,
@@ -796,8 +747,7 @@
         "D": "<p>duyma, bilme/ifade etme</p>",
         "E": "<p>arama, bulma/ortaya koyma </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257375,
@@ -812,8 +762,7 @@
         "D": "<p>“Issız bir adada yapayalnız yaşamak zorunda kalsanız hangi romanları yanınıza alıp götürürsünüz?” sorusu...</p>",
         "E": "<p>Güzel sanatların ölümü estetiğin, psikolojinin ve felsefenin de hayatını tehlikeye sokacaktır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257742,
@@ -828,8 +777,7 @@
         "D": "<p>Yatak yorgan, kap kaçak, evde­ ne var ne yok her şeyi alıp gittiler.</p>",
         "E": "<p>İlk Çin’de görülen corona virüsü Asya’nın diğer ülkelerine olduğu gibi Avrupa ve Afrika ülkelerine de sıçradı.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257753,
@@ -844,8 +792,7 @@
         "D": "<p>Yazmaya başlamadan oluşturulması</p>",
         "E": "<p>Görüş ve duygu üretme aşaması olması<br /><br /></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257780,
@@ -860,8 +807,7 @@
         "D": "<p>Yazıda alıntılara yer verilebilmesi<br /><br /></p>",
         "E": "<p>Yazıda ana düşüncenin ifade edilmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257794,
@@ -876,8 +822,7 @@
         "D": "<p>Ninnilerle</p>",
         "E": "<p>Masallarla</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257922,
@@ -892,8 +837,7 @@
         "D": "<p>Sözlü kompozisyonda tepki hemen görülebilir.</p>",
         "E": "<p>Sözlü kompozisyonda etkileşim fazladır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257931,
@@ -908,8 +852,7 @@
         "D": "<p>Örneklendirme</p>",
         "E": "<p>Tanıtlama</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257998,
@@ -924,8 +867,7 @@
         "D": "<p>Tanıtlama</p>",
         "E": "<p>Tanımlama</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258086,
@@ -940,8 +882,7 @@
         "D": "<p>Konuşma</p>",
         "E": "<p>İzleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258089,
@@ -956,8 +897,7 @@
         "D": "<p>Özet</p>",
         "E": "<p>Olay örgüsü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258101,
@@ -972,8 +912,7 @@
         "D": "<p>Her paragraf bir düşüncenin ele alındığı, işlendiği, örneklendirildiği, geliştirildiği ve sonuca bağlandığı bir bütünlüktür. </p>",
         "E": "<p>Bir düşünceden bir başka düşünceye geçerken akıcılığa dikkat etmek, paragraflar arasındaki geçişleri sağlar.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258102,
@@ -988,8 +927,7 @@
         "D": "<p>Tanıklama</p>",
         "E": "<p>Tanıtlama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257513,
@@ -1004,8 +942,7 @@
         "D": "<p>Atasözleri</p>",
         "E": "<p>Seminer</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257755,
@@ -1020,8 +957,7 @@
         "D": "<p>Bilgi donanımı ve kaynaklardan yararlanma</p>",
         "E": "<p>Kaynaklardan yararlanma ve dil becerileri<br /><br /></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257758,
@@ -1036,8 +972,7 @@
         "D": "<p>Değişebilirlik</p>",
         "E": "<p>Bütünlük</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257782,
@@ -1052,8 +987,7 @@
         "D": "<p>Tanımlama</p>",
         "E": "<p>Açıklama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257788,
@@ -1068,8 +1002,7 @@
         "D": "<p>I, II, IV ve V</p>",
         "E": "<p>I, II, III, IV ve V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257990,
@@ -1084,8 +1017,7 @@
         "D": "<p>Plan</p>",
         "E": "<p>Yaratıcılık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257992,
@@ -1100,8 +1032,7 @@
         "D": "<p>Yaşam</p>",
         "E": "<p>Eğitim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258705,
@@ -1116,8 +1047,7 @@
         "D": "<p>Betimleme</p>",
         "E": "<p>Tanıtlama</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257479,
@@ -1132,8 +1062,7 @@
         "D": "<p><strong><em>Romanın ortaya çıkışı </em></strong></p> ",
         "E": "<p><strong><em>Roman kuramcıları </em></strong></p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257546,
@@ -1148,8 +1077,7 @@
         "D": "<p>Örneklendirme</p>",
         "E": "<p>Karşılaştırma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257752,
@@ -1164,8 +1092,7 @@
         "D": "<p>Tanıklama</p>",
         "E": "<p>Tanıtlama</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257779,
@@ -1180,8 +1107,7 @@
         "D": "<p>Şiirle özdeşleştirebilmesi<br /><br /></p>",
         "E": "<p>Bireylerin iç dünyasını yansıtması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257784,
@@ -1196,8 +1122,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>I, II, III ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257785,
@@ -1212,8 +1137,7 @@
         "D": "<p>I,II ve III</p>",
         "E": "<p>I, II, III ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257798,
@@ -1228,8 +1152,7 @@
         "D": "<p>I, III</p>",
         "E": "<p>I, II, III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257993,
@@ -1244,8 +1167,7 @@
         "D": "<p>Sonuç</p>",
         "E": "<p>Açıklayıcı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257359,
@@ -1260,8 +1182,7 @@
         "D": "<p>Daha kuralcı.</p>",
         "E": "<p>Daha düzenli.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257754,
@@ -1276,8 +1197,7 @@
         "D": "<p>II, V, III, IV, I</p>",
         "E": "<p>I, IV, V, II, III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257791,
@@ -1292,8 +1212,7 @@
         "D": "<p>I, II, III ve V</p>",
         "E": "<p>I, II, III, IV ve V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257930,
@@ -1308,8 +1227,7 @@
         "D": "<p>Tanıklama</p>",
         "E": "<p>Tanıtlama</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258091,
@@ -1324,8 +1242,7 @@
         "D": "<p>Yardımcı düşünce</p>",
         "E": "<p>Nesnel düşünce</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257377,
@@ -1340,8 +1257,7 @@
         "D": "<p>dergiciliğin günümüzdeki durumu</p>",
         "E": "<p>dergi okumanın önemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257787,
@@ -1356,8 +1272,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>I, II, III ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257792,
@@ -1372,8 +1287,7 @@
         "D": "<p>Tanımlamak </p>",
         "E": "<p>Kıyaslamak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257793,
@@ -1388,8 +1302,7 @@
         "D": "<p>3</p>",
         "E": "<p>2</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257928,
@@ -1404,8 +1317,7 @@
         "D": "<p>Tanıklama</p>",
         "E": "<p>Tanıtlama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258098,
@@ -1420,8 +1332,7 @@
         "D": "<p>Varsayım</p>",
         "E": "<p>Tümevarım</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257367,
@@ -1436,8 +1347,7 @@
         "D": "<p> Ders uygulamalarında herkesin aynı bakış açısına ve düşünceye sahip olduğu konular üzerinde kompozisyon yazılması istenmelidir. </p>",
         "E": "<p>Sınırlandırılan konunun hangi temeller üzerinde yükseleceği, dayanacağı görüşler ve düşünceler ile bu düşüncelerin hangi temel düşünce etrafında yoğunlaşacağı buluş yapma aşamasını oluşturur.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257369,
@@ -1452,8 +1362,7 @@
         "D": "<p>Ana babanın alışkanlıkları, çocuğun bu alışkanlıkları edinmesinde ve içselleştirmesinde etkendir.</p>",
         "E": "<p>Ana babanın, diğer aile bireylerinin kullandığı kaba sözler çocuğun diline de yerleşir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257509,
@@ -1468,8 +1377,7 @@
         "D": "<p>Okuma</p>",
         "E": "<p>Dil bilgisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257542,
@@ -1484,8 +1392,7 @@
         "D": "<p>Tanıklama</p>",
         "E": "<p>Tanıtlama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257796,
@@ -1500,8 +1407,7 @@
         "D": "<p>Yalnız I, II</p>",
         "E": "<p>I, II, III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257800,
@@ -1516,8 +1422,7 @@
         "D": "<p>Serim</p>",
         "E": "<p>Düğüm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258236,
@@ -1532,8 +1437,7 @@
         "D": "Sözün vurgu ve ton gibi özelliklerini belirtir",
         "E": "Metnin hızlı okunmasını sağlar",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257474,
@@ -1548,8 +1452,7 @@
         "D": "<p><em>Karşılaştırma</em></p> ",
         "E": "<p><em>Tümdengelim</em></p> <p><em> </em></p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257515,
@@ -1564,8 +1467,7 @@
         "D": "<p>Sonuç</p>",
         "E": "<p>Plan</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257795,
@@ -1580,8 +1482,7 @@
         "D": "<p>Yalnız I, II</p>",
         "E": "<p>Yalnız II, III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257991,
@@ -1596,8 +1497,7 @@
         "D": "<p>Kültürel Varlıklarımız</p>",
         "E": "<p>Beslenme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257923,
@@ -1612,8 +1512,7 @@
         "D": "<p>Dinleme</p>",
         "E": "<p>Anlama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257738,
@@ -1628,8 +1527,7 @@
         "D": "<p>Kedilerin yaşamları</p>",
         "E": "<p>Kapalıçarşı’nın taşları</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257995,
@@ -1644,8 +1542,7 @@
         "D": "<p>Düşüncelerin planlı bir anlatımıdır.</p>",
         "E": "<p>Kompozisyon yazmak özel bir yetenek gerektirir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257999,
@@ -1660,8 +1557,7 @@
         "D": "<p>Tanıtlama</p>",
         "E": "<p>Tanıklama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257927,
@@ -1676,8 +1572,7 @@
         "D": "<p>Paragrafta anlatım türlerinden birkaçı kullanılabilir.</p>",
         "E": "<p>Anlatım biçimleri konuyu bütün yönleriyle ele almamızı sağlar.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257529,
@@ -1692,7 +1587,21 @@
         "D": "<p>İyi-kötü</p>",
         "E": "<p>Özgün-sıradan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3257361,
+        "UniteNo": 1,
+        "PageNumber": 3,
+        "AnswerExplanation": "<p>Değişebilir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi yazılı kompozisyonun bir özelliği <span style=\"text-decoration: underline;\">değildir</span>?</p>",
+        "A": "<p>Daha kuralcıdır.</p>",
+        "B": "<p>Değişebilir.</p>",
+        "C": "<p>Değişmez. </p>",
+        "D": "<p>Durağandır.</p>",
+        "E": "<p>Daha düzenlidir.</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
     }
 ]

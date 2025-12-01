@@ -12,8 +12,7 @@
         "D": "<p>Deneyim aktarımı</p>",
         "E": "<p>Görselleştirme teknikleri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763353,
@@ -28,8 +27,7 @@
         "D": "<p>Resimler, semboller ve diğer görsel işaretlerle</p>",
         "E": "<p>Usta-çırak ilişkisinin başlamasıyla</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763354,
@@ -44,8 +42,7 @@
         "D": "<p>Maddeler hâlinde verilen bilgiler, okuyucunun konuyu daha kolay hazmetmesini sağlar.</p>",
         "E": "<p>Grafikler bilgi ve içerik görselleştirme yöntemidir ve tercih edilen formların verilerle kurulan nesnel ilişkisinden yararlanılır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763355,
@@ -60,8 +57,7 @@
         "D": "<p>Kategorilere göre büyükten küçüğe vb. sıralamalar</p>",
         "E": "<p>İndeks ya da fihrist</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763356,
@@ -76,8 +72,7 @@
         "D": "<p>İlave bir görselleştirmenin tablo alanında yapılmasına imkan tanır</p>",
         "E": "<p>Sayfalar dolusu verinin bir göz atımı süresinde görülmesini, algılanmasını ve analiz edilmesini sağlar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763357,
@@ -92,8 +87,7 @@
         "D": "<p>Fazla daraltılmamışsa</p>",
         "E": "<p>Özünde doğruluğu içermiyorsa</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763358,
@@ -108,8 +102,7 @@
         "D": "<p>Sağlık verileri</p>",
         "E": "<p>Sanat ve tasarım içerikleri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763359,
@@ -124,8 +117,7 @@
         "D": "<p>Çarpıtma ve Manipülasyon</p>",
         "E": "<p>Grafik Gösterimlerin Kullanımı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763360,
@@ -140,8 +132,7 @@
         "D": "<p>Konular arası akışın planlanmasında</p>",
         "E": "<p>İzleyicinin gördüğü değerleri karşılaştırdığı içeriklerin algılamasında</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763361,
@@ -156,8 +147,7 @@
         "D": "<p>Lay-out</p>",
         "E": "<p>Sabit bilgi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763494,
@@ -172,8 +162,7 @@
         "D": "<p>İnsanlar genellikle küçük miktarda bilgiyi algılamakta zorlanır.</p>",
         "E": "<p>Görsel verileri kullanmak verilerin daha kolay anlaşılmasını sağlamaz.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763495,
@@ -188,8 +177,7 @@
         "D": "<p>Bilgi görselleştirme verilerin daha ayrıntılı bir şekilde incelenmesine yardımcı olur.</p>",
         "E": "<p>Verilerin ayrıntılı incelenmesi uzmanlar tarafından doğru sonuçlar çıkarılmasına yardımcı olmaz.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763496,
@@ -204,8 +192,7 @@
         "D": "<p>tarıma geçiş</p>",
         "E": "<p>sulama yöntemlerinin geliştirilmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763497,
@@ -220,8 +207,7 @@
         "D": "<p>ses kayıtları</p>",
         "E": "<p>görsel işaretler           </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763498,
@@ -236,8 +222,7 @@
         "D": "<p>dumanla iletişim</p>",
         "E": "<p>yazının icadi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763499,
@@ -252,8 +237,7 @@
         "D": "<p>şekil</p>",
         "E": "<p>imge</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763500,
@@ -268,8 +252,7 @@
         "D": "<p>heceleme yapılmasına</p>",
         "E": "<p>görsellerin kullanılmasına</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763501,
@@ -284,8 +267,7 @@
         "D": "<p>İki kişi arasında geçen bir diyaloğa benzemeyerek</p>",
         "E": "<p>Karışık bir sırayla</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763502,
@@ -300,8 +282,7 @@
         "D": "<p>bir kurguya sahiptir</p>",
         "E": "<p>anlamlı bir akışa sahiptir</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763503,
@@ -316,7 +297,6 @@
         "D": "<p>önsöz</p>",
         "E": "<p>başlık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

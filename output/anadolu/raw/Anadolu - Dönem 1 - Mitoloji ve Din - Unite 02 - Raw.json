@@ -12,8 +12,7 @@
         "D": "<p>Roman </p>",
         "E": "<p>Mektup</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374455,
@@ -28,8 +27,7 @@
         "D": "<p>Monarşi</p>",
         "E": "<p>Demokrasi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374464,
@@ -44,8 +42,7 @@
         "D": "<p>Mitolojik inançların gerçekliğini tartışmaya kalkmadılar.</p> ",
         "E": "<p>Doğa olayları ve olguları farklı biçimde açıklamaya çalıştılar.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374471,
@@ -60,8 +57,7 @@
         "D": "<p>İnsanın gündelik hayat içinde deneyimlediği etkinliklerden</p>",
         "E": "<p>İnsanların görmüş oldukları rüyalardan ve hayallerden</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374472,
@@ -76,8 +72,7 @@
         "D": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İnsan biçimcidir.</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Tek bir formata sahip değildir, çoğul bir yapıya sahiptir.</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374477,
@@ -92,8 +87,7 @@
         "D": "<div class=\"page\" title=\"Page 14\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Fedakârlığa </p> </div> </div> </div> </div>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374561,
@@ -108,8 +102,7 @@
         "D": "<p>Tek tanrılıdır</p>",
         "E": "<p>Evrenseldir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374566,
@@ -124,8 +117,7 @@
         "D": "<p>Tümevarımcıdır</p>",
         "E": "<p>Çoğul bir yapıya sahiptir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374755,
@@ -140,8 +132,7 @@
         "D": "<p>Tanrıların, evrenin, dünyanın ve insanın yaratılışını anlatan sembolik öykülerden oluşmaktadır</p>",
         "E": "<p>Dini, felsefi, bilimsel düşünce öncesi döneme ait kabul edilir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374756,
@@ -156,8 +147,7 @@
         "D": "<p>Bilinebildiği kadarıyla mitik öykülerin geçmişi, ilk insan topluluklarına kadar uzanır</p>",
         "E": "<p>Homeros’un İlyada ve Odysseia bir mit örneğidir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374763,
@@ -172,8 +162,7 @@
         "D": "<p>Usul</p>",
         "E": "<p>Saygı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374766,
@@ -188,8 +177,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374767,
@@ -204,8 +192,7 @@
         "D": "<p>17.yy</p>",
         "E": "<p>16.yy</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375130,
@@ -220,8 +207,7 @@
         "D": "<p>Physis - Doğa bilgisi</p>",
         "E": "<p>Bios - Yer bilgisi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375159,
@@ -236,8 +222,7 @@
         "D": "<p>M.Ö. 6. ve 5. yüzyıllar</p>",
         "E": "<p>M.Ö. 5. ve 4. yüzyıllar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375220,
@@ -252,8 +237,7 @@
         "D": "<p>Altı</p>",
         "E": "<p>İki</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375261,
@@ -268,8 +252,7 @@
         "D": "<p>İnanç, Dil, Duygu, Coğrafya, Etki Boyutu.        </p> ",
         "E": "<p> İnanç, Irk, Dil, Bilgi, Etki Boyutu.        </p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375262,
@@ -284,8 +267,7 @@
         "D": "<p>Durkheim</p>",
         "E": "<p>Aristo</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375265,
@@ -300,8 +282,7 @@
         "D": "<p>Hayatta karşılaşılan ve önemli yer işgal eden ölümcül soruların cevabını verir.</p> ",
         "E": "<p>Hayatın üzerinde inşa edileceği temel değer ve esasları ortaya koyar.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3473523,
@@ -316,8 +297,7 @@
         "D": "<p>Mitler, evrenin ürpertici ve bağlayıcı bir gizeme sahip olduğunu insan bilincine yansıtır.</p>",
         "E": "<p>Mitler insana hayatı, olayları ve insanın geleceğine ait yorumlayıcı-izah edici bütüncül bir imge geliştirir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374454,
@@ -332,8 +312,7 @@
         "D": "<p>Athena </p>",
         "E": "<p>Prometheus </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374461,
@@ -348,8 +327,7 @@
         "D": "<p>Devletin tanrılarına adanacak kurban hayvanlarının sayıları</p>",
         "E": "<p>Kralların yapmakla yükümlü olduğu bayındırlık hizmetleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374466,
@@ -364,8 +342,7 @@
         "D": "<p>Korku ile karışık sevgi ve saygı</p> ",
         "E": "<p>Yaratılan sonsuzluk duygusu</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374469,
@@ -380,8 +357,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Mitler, doğaüstü güçlerin doğal ve toplumsal dünyaya etkilerini yansıtır. </p> </div> </div> </div> </div>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374565,
@@ -396,8 +372,7 @@
         "D": "<p>Sokrates</p>",
         "E": "<p>Sofokles</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374568,
@@ -412,8 +387,7 @@
         "D": "<p>Öze dönümcülük</p>",
         "E": "<p>Bilinemezcilik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374761,
@@ -428,8 +402,7 @@
         "D": "<p>5</p>",
         "E": "<p>2</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374764,
@@ -444,8 +417,7 @@
         "D": "<p>Hz.İsa</p>",
         "E": "<p>Leonardo Da Vinci</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374846,
@@ -460,8 +432,7 @@
         "D": "<p>Tragedya</p>",
         "E": "<p>Logos</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374849,
@@ -476,8 +447,7 @@
         "D": "<p>Doğa olaylarının kendiliğindenliği</p>",
         "E": "<p>Düşünsel ilerleyiş</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374850,
@@ -492,8 +462,7 @@
         "D": "<p>Herkül</p>",
         "E": "<p>Prometheus</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375134,
@@ -508,8 +477,7 @@
         "D": "<p>Huşu</p>",
         "E": "<p>İbadet</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375150,
@@ -524,8 +492,7 @@
         "D": "<p>Tanrılar yarı insani özelliklere sahiptir.</p>",
         "E": "<p>Teosentriktir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375222,
@@ -540,8 +507,7 @@
         "D": "<p>Düalist ve monist dinler</p>",
         "E": "<p>Uzak Doğu dinleri<br /><br /></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375225,
@@ -556,8 +522,7 @@
         "D": "<div class=\"fl ellip oBrLN\" data-original-name=\"Sokrates\">Sokrates</div>",
         "E": "<p>Cicero</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375226,
@@ -572,8 +537,7 @@
         "D": "<p>Gustav Mensching</p>",
         "E": "<p>Paul Zuckermann</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375260,
@@ -588,8 +552,7 @@
         "D": "<p>Pindaros</p>",
         "E": "<p>Protagoras</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375266,
@@ -604,8 +567,7 @@
         "D": "<p> Bilim, doğruluğu araştırılabilen hipotezlerle uğraşır, reddi mümkün olmayan inançlarla uğraşmaz.    </p> ",
         "E": "<p> Bilim, toplumların mutluluğu için uğraşmaz, dinler ve inançlar bunun için uğraşır.</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374457,
@@ -620,8 +582,7 @@
         "D": "<p>Orpheus</p>",
         "E": "<p>Theseus</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374465,
@@ -636,8 +597,7 @@
         "D": "<p>Athena</p> ",
         "E": "<p>Poseidon</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374473,
@@ -652,8 +612,7 @@
         "D": "<p>Mitler, ilk çağlardan günümüze, insanoğlunun hoşca vakit geçirmesini sağlamıştır.</p>",
         "E": "<div class=\"page\" title=\"Page 8\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Mitler insanın evren ve toplumsal dünya içindeki yeri ve anlamıyla ilişki kurmasına aracı olur.</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374478,
@@ -668,8 +627,7 @@
         "D": "<div class=\"page\" title=\"Page 13\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Emile Durkheim</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 13\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Clifford J. Geertz</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374567,
@@ -684,8 +642,7 @@
         "D": "<p>Konfüçyanizm, Yahudilik<br /><br /></p>",
         "E": "<p>Hinduizm, İslamiyet</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374569,
@@ -700,8 +657,7 @@
         "D": "<p>Russell</p>",
         "E": "<p>Weber</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375151,
@@ -716,8 +672,7 @@
         "D": "<p>Theos</p>",
         "E": "<p>Physis</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375153,
@@ -732,8 +687,7 @@
         "D": "<p>Dernekler</p>",
         "E": "<p>Tarikatlar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375154,
@@ -748,8 +702,7 @@
         "D": "<p>Hermes</p>",
         "E": "<p>Ares</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375158,
@@ -764,8 +717,7 @@
         "D": "<p>Sofokles</p>",
         "E": "<p>Sokrates</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374459,
@@ -780,8 +732,7 @@
         "D": "<p>İlk insan ve ilk peygamber</p> ",
         "E": "<p>Hazreti Âdem’in cennetteki yaratılışı</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374562,
@@ -796,8 +747,7 @@
         "D": "<p>Narkissos</p>",
         "E": "<p>Kybele</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374563,
@@ -812,8 +762,7 @@
         "D": "<p>Şiir, destan ve ezgi anlamlarına gelir</p>",
         "E": "<p>İnsan düşüncesinin ürünü olan kavramlardır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374564,
@@ -828,8 +777,7 @@
         "D": "<p>Astron: İnsan bilgisi</p>",
         "E": "<p>Bios: Hayat bilgisi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374844,
@@ -844,8 +792,7 @@
         "D": "<p>Sembolik olmaları</p>",
         "E": "<p>Sınıflandırmacı olmaları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375135,
@@ -860,8 +807,7 @@
         "D": "<p>Russell</p>",
         "E": "<p>Otto</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375219,
@@ -876,8 +822,7 @@
         "D": "<p>Mensching</p>",
         "E": "<p>Agiz</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374451,
@@ -892,8 +837,7 @@
         "D": "<p>Fuzuli</p>",
         "E": "<p>Gazali</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374458,
@@ -908,8 +852,7 @@
         "D": "<p>Hades</p>",
         "E": "<p>Aphrodite</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374463,
@@ -924,8 +867,7 @@
         "D": "<p>Thetis</p> ",
         "E": "<p>Aphrodite</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374475,
@@ -940,8 +882,7 @@
         "D": "<p>Yalnız III</p>",
         "E": "<p>I-II-III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375129,
@@ -956,8 +897,7 @@
         "D": "<p>Epos</p>",
         "E": "<p>Logos</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375136,
@@ -972,8 +912,7 @@
         "D": "<p>Nietzsche</p>",
         "E": "<p>Durkheim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375221,
@@ -988,8 +927,7 @@
         "D": "<p>Türk Mitolojisine</p>",
         "E": "<p>Japon Mitolojisine</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375258,
@@ -1004,8 +942,7 @@
         "D": "<p> Mitik inançlar tanrıların çeşitliliğini ilahi dinler ise ebediliklerini konu edinir.</p>",
         "E": "<p>Mitik inançlar eski, ilahi dinler yenidir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374474,
@@ -1020,8 +957,7 @@
         "D": "<p>Duygu</p>",
         "E": "<p>Etki boyutu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374476,
@@ -1036,8 +972,7 @@
         "D": "<div class=\"page\" title=\"Page 12\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Din, hayatın belirsizliklerini en aza indirme ve kontrol etmeyi temin eder. Belirsizlik kavramı, dinin cevap vermeye çalıştığı hayatın ‘büyük problemler’i düşüncesiyle bağlantılıdır.</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 13\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Din bir kimlik inşa ederek, insanları potansiyel olarak biz ve öteki olarak tanımlar. </p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374757,
@@ -1052,8 +987,7 @@
         "D": "<p>Narkissos</p>",
         "E": "<p>Oidipus</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374852,
@@ -1068,8 +1002,7 @@
         "D": "<p>Hoşgörü</p>",
         "E": "<p>İnanç</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375137,
@@ -1084,8 +1017,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>III ve IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374452,
@@ -1100,8 +1032,7 @@
         "D": "<p>Phythagoras</p>",
         "E": "<p>Sokrates</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374453,
@@ -1116,8 +1047,7 @@
         "D": "<p>Öykü </p>",
         "E": "<p>Hikaye</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374845,
@@ -1132,8 +1062,7 @@
         "D": "<p>Tanrılara tapınılmaması</p>",
         "E": "<p>Kurban ritüelinin olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375131,
@@ -1148,8 +1077,7 @@
         "D": "<p>Uyanan insan bilincini kendini besleyen kaynakların gücüne devamlı tekrarlanan olaylarla inandırma işlevi görmektedir.</p>",
         "E": "<p>İnsanın evren ve toplumsal dünya içindeki yeri ve anlamıyla ilgilidir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375152,
@@ -1164,8 +1092,7 @@
         "D": "<p>Korkutucu, büyüleyici sır</p>",
         "E": "<p>Tutulan yol, huy</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375155,
@@ -1180,8 +1107,7 @@
         "D": "<p>İnsana hayatı, olayları ve insanın geleceğine ait yorumlayıcı-izah edici bütüncül bir imge sunmak</p>",
         "E": "<p>İnsanın evren ve toplumsal dünya içindeki yeri ve anlamını bulmasını sağlamak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375263,
@@ -1196,8 +1122,7 @@
         "D": "<p>Modern dünyada dinin doğruluk ve geçerliliğini artırdığı kabul edildi.</p> ",
         "E": "<p>Ahlak, hukuk ve değer anlayışının dine dayanması gerektiği görüşü yaygınlaştı.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374758,
@@ -1212,8 +1137,7 @@
         "D": "<p>Güç</p>",
         "E": "<p>İnanç</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374842,
@@ -1228,8 +1152,7 @@
         "D": "<p>Dioskorides</p>",
         "E": "<p>Dionysios</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374858,
@@ -1244,8 +1167,7 @@
         "D": "<p>Levi Strauss</p>",
         "E": "<p>Quentin Skinner</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375133,
@@ -1260,8 +1182,7 @@
         "D": "<p>Duygu boyutu</p>",
         "E": "<p>Etki boyutu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375257,
@@ -1276,8 +1197,7 @@
         "D": "<p>Epimetheus'un</p>",
         "E": "<p>Protagoras'ın</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374450,
@@ -1292,8 +1212,7 @@
         "D": "<p>Hikaye</p>",
         "E": "<p>Öykü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374460,
@@ -1308,8 +1227,7 @@
         "D": "<p>Evren</p> ",
         "E": "<p>Gezme</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374857,
@@ -1324,8 +1242,7 @@
         "D": "<p>Emile Durkheim</p>",
         "E": "<p>Herbert Blumer</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375224,
@@ -1340,8 +1257,7 @@
         "D": "<p>Din,Toplum ve Düşünce</p>",
         "E": "<p>Türk Modernleşmesi ve Din</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374468,
@@ -1356,8 +1272,7 @@
         "D": "<p>Doğa güçleri canlı varlık</p>",
         "E": "<p>Daha üst bir varlık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374470,
@@ -1372,8 +1287,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sözlü, yazılı edebiyat ve sanat kollarının hemen hepsinde yer alan ve işlendikçe değişen mitler, ne kadar şair, yazar ya da sanatçı varsa, o kadar çeşitlidir.</p> </div> </div> </div> </div>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374570,
@@ -1388,8 +1302,7 @@
         "D": "<p>Budizm</p>",
         "E": "<p>Hinduizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374854,
@@ -1404,8 +1317,7 @@
         "D": "<p>Bilgi</p>",
         "E": "<p>Korku</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375132,
@@ -1420,8 +1332,7 @@
         "D": "<p>Kipa </p>",
         "E": "<p>Havra</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375223,
@@ -1436,8 +1347,7 @@
         "D": "<p>Thomas Luckmann</p>",
         "E": "<p>Paul Zuckerman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374462,
@@ -1452,8 +1362,7 @@
         "D": "<p>Toplumda görece istikrarlı ve ahlaki bir düzeni savunması</p>",
         "E": "<p>İnsanın, yaratıcı güç ile uyum içinde yaşamayı öğretmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374467,
@@ -1468,8 +1377,7 @@
         "D": "<p>Hayatla ilgili temel değer ve esasları ortaya koyar.</p>",
         "E": "<p>Hayatın belirsizliklerini kontrol etmeyi temin eder.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374760,
@@ -1484,8 +1392,7 @@
         "D": "<p>Ares</p>",
         "E": "<p>Zeus</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375156,
@@ -1500,8 +1407,7 @@
         "D": "<p>Protagoras</p>",
         "E": "<p>Sofokles</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375259,
@@ -1516,8 +1422,7 @@
         "D": "<p>Kur’an</p>",
         "E": "<p>Kojiki</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374456,
@@ -1532,8 +1437,7 @@
         "D": "<p>Truva</p>",
         "E": "<p>Ergenekondan Çıkış</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375157,
@@ -1548,8 +1452,7 @@
         "D": "<p>Hobbes</p>",
         "E": "<p>Nietzsche</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375218,
@@ -1564,8 +1467,7 @@
         "D": "<p>Bios</p>",
         "E": "<p>Antropos</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375217,
@@ -1580,7 +1482,6 @@
         "D": "<p>Narkissos</p>",
         "E": "<p>Oidipus</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>William Caslon</p>",
         "E": "<p>William Bulmer</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769622,
@@ -28,8 +27,7 @@
         "D": "<p>Helvetica</p>",
         "E": "<p>Garamond</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769623,
@@ -44,8 +42,7 @@
         "D": "<p>Maniherist sanatçılar</p>",
         "E": "<p>Fütürist sanatçılar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769624,
@@ -60,8 +57,7 @@
         "D": "<p>Resimli afişin öncüsü olmaları</p>",
         "E": "<p>Çiçek motifleri, organik biçimlerin kullanılması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769626,
@@ -76,8 +72,7 @@
         "D": "<p>Piet Mondrian’ın  sanat hareketinin felsefesinin yaratıcısı olması</p>",
         "E": "<p>De Stijl akımının öncüsü Theo van Doesburg’tur</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769629,
@@ -92,8 +87,7 @@
         "D": "<p>Sanatsal düzenlemelere uygun olduğu için</p>",
         "E": "<p>Okunaklı olduğu için</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769630,
@@ -108,8 +102,7 @@
         "D": "<p>Orta Amerika Sanat akımlarının etkisiyle</p>",
         "E": "<p>Avrupa klasik sanat akımlarının etkisiyle</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769702,
@@ -124,8 +117,7 @@
         "D": "<p>1995</p>",
         "E": "<p>2016</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769706,
@@ -140,8 +132,7 @@
         "D": "<p>Troy</p>",
         "E": "<p>Venedik Romen</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769709,
@@ -156,8 +147,7 @@
         "D": "<p>Stempel</p>",
         "E": "<p>Tschichold</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769712,
@@ -172,8 +162,7 @@
         "D": "<p>Carol</p>",
         "E": "<p>Blackwell</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769713,
@@ -188,8 +177,7 @@
         "D": "<p>Kurt Schwitters</p>",
         "E": "<p>Alexander Rodchenko</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769827,
@@ -204,8 +192,7 @@
         "D": "<p>Georges Vantongerloo</p>",
         "E": "<p>Picasso</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769828,
@@ -220,8 +207,7 @@
         "D": "<p>Sadelik</p>",
         "E": "<p>Haraket</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769829,
@@ -236,8 +222,7 @@
         "D": "<p>Sayısal Tipografi</p> ",
         "E": "<p>Kavramsal Tipografi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769831,
@@ -252,8 +237,7 @@
         "D": "<p>Georges Vantongerloo</p>",
         "E": "<p>Picasso</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769851,
@@ -268,8 +252,7 @@
         "D": "<p>Will Bradley</p>",
         "E": "<p>Kurt Schwitters</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769852,
@@ -284,8 +267,7 @@
         "D": "<p>Konstrüktivizm</p>",
         "E": "<p>Dadaist tipografi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769853,
@@ -300,8 +282,7 @@
         "D": "<p>Sanatsal tipografi</p>",
         "E": "<p>Kavramsal tipografi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769854,
@@ -316,8 +297,7 @@
         "D": "<p>Liberal bakış açısı</p>",
         "E": "<p>Milliyetçi bir yaklaşım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769628,
@@ -332,8 +312,7 @@
         "D": "<p>Saul Bass</p>",
         "E": "<p>Robert Brownjohn</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769710,
@@ -348,8 +327,7 @@
         "D": "<p>a Dadaizm</p>",
         "E": "<p>Kaligram</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769711,
@@ -364,8 +342,7 @@
         "D": "<p>Fütürizm</p>",
         "E": "<p>Secessionstil</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769832,
@@ -380,8 +357,7 @@
         "D": "<p>El Lissitzky</p>",
         "E": "<p>Theo Van Doesburg</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769833,
@@ -396,8 +372,7 @@
         "D": "<p>Barok</p>",
         "E": "<p>Neo Klasizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769846,
@@ -412,8 +387,7 @@
         "D": "<p>Rokoko</p>",
         "E": "<p>Barok</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769847,
@@ -428,8 +402,7 @@
         "D": "<p>Duygu aktarımı</p>",
         "E": "<p>Renk aktarımı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769849,
@@ -444,8 +417,7 @@
         "D": "<p>Kübizm</p>",
         "E": "<p>Pre-Rafaelit</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769855,
@@ -460,8 +432,7 @@
         "D": "<p>Futura</p>",
         "E": "<p>Arial</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769627,
@@ -476,8 +447,7 @@
         "D": "<p>Jan Tschichold</p>",
         "E": "<p>Herbert Matter</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769826,
@@ -492,8 +462,7 @@
         "D": "<p>2. Dünya Savaşı</p>",
         "E": "<p>1. Dünya Savaşı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769835,
@@ -508,8 +477,7 @@
         "D": "<p>I-V</p>",
         "E": "<p>II-III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769850,
@@ -524,8 +492,7 @@
         "D": "<p>Paris</p>",
         "E": "<p>İstanbul</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769625,
@@ -540,8 +507,7 @@
         "D": "<p>Vladimir Tatlin</p>",
         "E": "<p>El Lissitzky</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769830,
@@ -556,8 +522,7 @@
         "D": "<p>Romantizim</p>",
         "E": "<p>Klasizm</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769848,
@@ -572,8 +537,7 @@
         "D": "<p>Konstrüktivizm</p>",
         "E": "<p>Fütürizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769701,
@@ -588,8 +552,7 @@
         "D": "<p>19. Yüzyılda</p>",
         "E": "<p>20. Yüzyılda</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769707,
@@ -604,8 +567,7 @@
         "D": "<p>1995'de</p>",
         "E": "<p>1816'da</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769834,
@@ -620,8 +582,7 @@
         "D": "<p>Jan Tschichold</p>  ",
         "E": "<p>Rudolf Koch</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769708,
@@ -636,7 +597,6 @@
         "D": "<p>The Elements of Euclid</p>",
         "E": "<p>Hobby Horse</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Uşak </p>",
         "E": "<p>Aydın</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887343,
@@ -28,8 +27,7 @@
         "D": "<p>Suriye Antlaşması </p>",
         "E": "<p>Gümrü Antlaşması </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887345,
@@ -44,8 +42,7 @@
         "D": "<p>Eyüpsultan mitingleri </p>",
         "E": "<p>Üsküdar - Doğancılar mitingleri </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887347,
@@ -60,8 +57,7 @@
         "D": "<p>Ayvalık</p>",
         "E": "<p>Antalya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887348,
@@ -76,8 +72,7 @@
         "D": "<p>Antep</p>",
         "E": "<p>Maraş</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887352,
@@ -92,8 +87,7 @@
         "D": "<p>Erzurum</p>",
         "E": "<p>Sivas</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887353,
@@ -108,8 +102,7 @@
         "D": "<p>Milletin haklarını gür bir sesle dünyaya duyurmak için her türlü baskı ve kontrolden uzak milli bir heyetin varlığının zorunluluğuna işaret edilmesi</p>",
         "E": "<p>Hristiyan azınlıklara siyasi hakimiyet ve sosyal dengeyi bozacak ayrıcalıkların verilemeyeceğinin vurgulanması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887354,
@@ -124,8 +117,7 @@
         "D": "<p>Binbaşı Süleyman Bey</p>",
         "E": "<p>Yakup Şevki Paşa</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887357,
@@ -140,8 +132,7 @@
         "D": "<p>Salih Hulusi Paşa</p>",
         "E": "<p>Said Halim Paşa</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887363,
@@ -156,8 +147,7 @@
         "D": "<p>Ali Şükrü</p>",
         "E": "<p>Fahri Can</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887367,
@@ -172,8 +162,7 @@
         "D": "<p>Muğla Kongresi </p>",
         "E": "<p>Afyon Kongresi </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887368,
@@ -188,8 +177,7 @@
         "D": "<p>Nihat Paşa</p>",
         "E": "<p>Yakup Şevki Paşa</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887372,
@@ -204,8 +192,7 @@
         "D": "<p>Diyarbakır ve Adana bölgesine işgal için çetelerin sürülmesi</p>",
         "E": "<p>Suriye ve Lübnan'ın Fransa'nın mandasına girmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887375,
@@ -220,8 +207,7 @@
         "D": "<p>Teali İslam Cemiyeti</p>",
         "E": "<p>Wilson Prensipleri Cemiyeti</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887378,
@@ -236,8 +222,7 @@
         "D": "<p>Filistin</p>",
         "E": "<p>Şam</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887384,
@@ -252,8 +237,7 @@
         "D": "<p>Millî Mücadele aleyhine çıkan ayaklanmalara karşı etkili bir şekilde mücadele edilmesi</p>",
         "E": "<p>Türkiye Büyük Millet Meclisine bağlı düzenli ordunun kurulabilmesi için zaman kazandırılması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887386,
@@ -268,8 +252,7 @@
         "D": "<p>Cafer Tayyar Paşa</p>",
         "E": "<p>Kazım Karabekir Paşa</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887387,
@@ -284,8 +267,7 @@
         "D": "<p>Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti hukuki bir teşekkül olmak üzere İstanbul Hükümeti’nce tanınacak</p>",
         "E": "<p>İtilaf devletleri ile yapılacak barış görüşmelerine Heyet-i Temsiliyenin de uygun gördüğü kişiler gönderilecek</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887391,
@@ -300,8 +282,7 @@
         "D": "<p>13 Kasım 1918</p>",
         "E": "<p>18 Aralık 1918</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887393,
@@ -316,8 +297,7 @@
         "D": "<p>İsmet Paşa / Ahmet İzzet Paşa/ Cafer Tayyar Paşa</p>",
         "E": "<p>Kâzım Karabekir Paşa / Tevfik Paşa / Ali Fuat Paşa </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887341,
@@ -332,8 +312,7 @@
         "D": "<p>Basra </p>",
         "E": "<p>Kerkük </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887346,
@@ -348,8 +327,7 @@
         "D": "<p>İtalya</p>",
         "E": "<p>Almanya</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887351,
@@ -364,8 +342,7 @@
         "D": "<p>Suriye Antlaşması</p>",
         "E": "<p>Mudanya Mütarekesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887355,
@@ -380,8 +357,7 @@
         "D": "<p>Erzurum Kongresi</p>",
         "E": "<p>Sivas Kongresi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887358,
@@ -396,8 +372,7 @@
         "D": "<p>Pozantı</p>",
         "E": "<p>İskenderun</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887359,
@@ -412,8 +387,7 @@
         "D": "<p>Bulgar</p>",
         "E": "<p class=\"Default\" style=\"line-height: 150%;\"><span style=\"font-family: verdana, geneva, sans-serif;\">Yunan</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887362,
@@ -428,8 +402,7 @@
         "D": "<p>Hınçak ve Taşnaksütyun</p>",
         "E": "<p>Etnik-i Eterya</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887369,
@@ -444,8 +417,7 @@
         "D": "<p>8 Kasım 1919</p>",
         "E": "<p>19 Mayıs 1919</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887374,
@@ -460,8 +432,7 @@
         "D": "<p>Mersin- Fransız</p>",
         "E": "<p>Urfa-İngiliz</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887377,
@@ -476,8 +447,7 @@
         "D": "<p>Havza Genelgesi</p>",
         "E": "<p>Sivas Kongresi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887381,
@@ -492,8 +462,7 @@
         "D": "<p>Denizli</p>",
         "E": "<p>Akşehir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887388,
@@ -508,8 +477,7 @@
         "D": "<p>Alman İmparatorluğu</p>",
         "E": "<p>Osmanlı İmparatorluğu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887390,
@@ -524,8 +492,7 @@
         "D": "<p>Sarıkamış, Kars</p>",
         "E": "<p>Manisa, İzmir, Aydın</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887392,
@@ -540,8 +507,7 @@
         "D": "<p>ABD Başkanı ve Fransız Cumhurbaşkanı'nın kabulü ile Yunanistan'ın İzmir'i işgali resmiyet kazanmıştır.</p>",
         "E": "<p>16 Mayıs 1919’da İzmir Limanı ele geçirilmiş ve şehrin işgali başlamıştır. </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887356,
@@ -556,8 +522,7 @@
         "D": "<p>Hicaz</p>",
         "E": "<p>Ürdün</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887365,
@@ -572,8 +537,7 @@
         "D": "<p>Müdafaa-i Hukuk</p>",
         "E": "<p>Muhafaza-i Hukuk</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887370,
@@ -588,8 +552,7 @@
         "D": "<p>İskenderun'un İngilizler tarafından işgali</p>",
         "E": "<p>Pozantı'nın Fransızlar tarafından işgali</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887371,
@@ -604,8 +567,7 @@
         "D": "<p>İzmir</p>",
         "E": "<p>Maraş</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887376,
@@ -620,8 +582,7 @@
         "D": "<p>IV.-III.-I.-II</p>",
         "E": "<p>IV.-III.-II.-I</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887383,
@@ -636,8 +597,7 @@
         "D": "<p>Erzurum İstihlas-ı Vatan Cemiyeti</p>",
         "E": "<p>Gizli Karakol Cemiyeti</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887340,
@@ -652,8 +612,7 @@
         "D": "<p>İtalya </p>",
         "E": "<p>Sırbistan </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887373,
@@ -668,8 +627,7 @@
         "D": "<p>Mavri Mira Cemiyeti</p>",
         "E": "<p>Kordos Cemiyeti</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887379,
@@ -684,8 +642,7 @@
         "D": "<p>Dörtyol</p>",
         "E": "<p>Maraş</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887385,
@@ -700,8 +657,7 @@
         "D": "<p>Erzurum</p>",
         "E": "<p>Sivas</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887396,
@@ -716,8 +672,7 @@
         "D": "<p>30 Aralık 1919</p>",
         "E": "<p>16 Ocak 1920</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887350,
@@ -732,8 +687,7 @@
         "D": "<p>Fevzi (Çakmak) Paşa</p>",
         "E": "<p>Ali Fuat (Cebesoy) Paşa</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887361,
@@ -748,8 +702,7 @@
         "D": "<p>Çukurova</p>",
         "E": "<p>İç-batı Ege bölgesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887366,
@@ -764,8 +717,7 @@
         "D": "<p>Mim Mim Cemiyeti  </p>",
         "E": "<p>Teali İslam Cemiyeti</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887394,
@@ -780,8 +732,7 @@
         "D": "<p>Sivas Kongresi</p>",
         "E": "<p>Üç Sancak Kongresi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887344,
@@ -796,8 +747,7 @@
         "D": "<p>Hınçak cemiyeti </p>",
         "E": "<p>Mavri Mira cemiyeti</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887360,
@@ -812,8 +762,7 @@
         "D": "<p>Salih Hulusi Paşa</p>",
         "E": "<p>Talat Paşa</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887389,
@@ -828,8 +777,7 @@
         "D": "<p>Sarıkamış, Kars</p>",
         "E": "<p>Adana, Antakya, İskenderun</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887349,
@@ -844,8 +792,7 @@
         "D": "<p>Sivas</p>",
         "E": "<p>Amasya</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887364,
@@ -860,8 +807,7 @@
         "D": "<p>Türk Ocağı</p>",
         "E": "<p>Anadolulular Cemiyeti</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887380,
@@ -876,8 +822,7 @@
         "D": "<p>Çoruh</p>",
         "E": "<p>Arpaçay</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887382,
@@ -892,8 +837,7 @@
         "D": "<p>Van</p>",
         "E": "<p>Elâzığ</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887395,
@@ -908,7 +852,6 @@
         "D": "<p>Trakya Kongresi</p>",
         "E": "<p>Balıkesir Kongresi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

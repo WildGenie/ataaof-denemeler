@@ -1017,8 +1017,7 @@
         "D": "<p>Mimari</p>",
         "E": "<p>Resim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858761,

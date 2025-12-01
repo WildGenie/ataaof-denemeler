@@ -12,8 +12,7 @@
         "D": "<p>Çarpışma</p>",
         "E": "<p>Hata ayıklama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641347,
@@ -28,8 +27,7 @@
         "D": "<p>İnteraktif Oyun</p>",
         "E": "<p>Konvansiyonel Oyun</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641579,
@@ -44,8 +42,7 @@
         "D": "<p>Karşı-oyun</p>",
         "E": "<p>Prosedürelci oyun</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641580,
@@ -60,8 +57,7 @@
         "D": "<p>Fatale (2009)</p>",
         "E": "<p>Adam Killer (2000)</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641582,
@@ -76,8 +72,7 @@
         "D": "<p>Karşı Oyun</p>",
         "E": "<p>Labirent Oyunu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641615,
@@ -92,8 +87,7 @@
         "D": "<p>Eğitim</p>",
         "E": "<p>Siyaset</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641616,
@@ -108,8 +102,7 @@
         "D": "<p>1990</p>",
         "E": "<p>1993</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641618,
@@ -124,8 +117,7 @@
         "D": "<p>Counter-Strike</p>",
         "E": "<p>Super Mario Bros</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641623,
@@ -140,8 +132,7 @@
         "D": "<p>Ian Bogost</p>",
         "E": "<p>Jim Andrews</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641624,
@@ -156,8 +147,7 @@
         "D": "<p>Passage</p>",
         "E": "<p>Unmanned</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641770,
@@ -172,8 +162,7 @@
         "D": "<p>Oyun sanatı</p>",
         "E": "<p>Transmedya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641771,
@@ -188,8 +177,7 @@
         "D": "<p>Pong</p>",
         "E": "<p>Velvet Strike</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641772,
@@ -204,8 +192,7 @@
         "D": "<p>Metaforların kullanımı </p>",
         "E": "<p>Ses ve ölçü kullanımı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641773,
@@ -220,8 +207,7 @@
         "D": "<p>Politik Oyun</p>",
         "E": "<p>Şiir Oyun</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641774,
@@ -236,8 +222,7 @@
         "D": "<p>Pac-Man</p>",
         "E": "<p>The Marriage</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641788,
@@ -252,8 +237,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641790,
@@ -268,8 +252,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641794,
@@ -284,8 +267,7 @@
         "D": "<p>III, IV ve V</p>",
         "E": "<p>IV ve V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641798,
@@ -300,8 +282,7 @@
         "D": "<p>Hugo - Sefiller</p>",
         "E": "<p>Çehov - İvanov</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641801,
@@ -316,8 +297,7 @@
         "D": "<div class=\"page\" title=\"Page 19\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Oyunun amacı tüm dünyadan özellikle genç ziyaretçilerin ilgisini çekecek, müzenin fiziki gerçekliğiyle dijital kurgusal dünya arasında bir köprü oluşturabilecek bir deneyim yaratmaktır.</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 19\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Oyun, Almanya ve Hollanda’nın Ren Bölgesi’nde yer alan, çağdaş sanat, tarih ve açık hava müzeleri gibi farklı türde müzeleri interaktif, oyunsal bir hikaye üzerinden transmedyal bir devamlılık ağı yaratarak birbirine bağlayan, Avrupa Birliği destekli bir projedir.</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641339,
@@ -332,8 +312,7 @@
         "D": "<p>Karl Marx</p>",
         "E": "<p>Harriet Martineau</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641345,
@@ -348,8 +327,7 @@
         "D": "<p> Braid</p>",
         "E": "<p>The Marriage</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641581,
@@ -364,8 +342,7 @@
         "D": "<p>Passage (2007)</p>",
         "E": "<p>The Marriage (2007)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641583,
@@ -380,8 +357,7 @@
         "D": "<p>Pong</p>",
         "E": "<p>Adam Killer</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641584,
@@ -396,8 +372,7 @@
         "D": "<p>Video oyunu yönetme</p>",
         "E": "<p>Video oyunu güncelleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641617,
@@ -412,8 +387,7 @@
         "D": "<p>Jonathan Jones</p>",
         "E": "<p>Umberto Eco</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641620,
@@ -428,8 +402,7 @@
         "D": "<p>Poetikalar</p>",
         "E": "<p>Kurgusal mekanik modeller</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641768,
@@ -444,8 +417,7 @@
         "D": "<p>Memento</p>",
         "E": "<p>Das Experiment (Deney)</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641769,
@@ -460,8 +432,7 @@
         "D": "<p>Amaç oynanabilir bir deneyim elde etmektir</p>",
         "E": "<p>Çağdaş dijital gelişmelere katılmaya dair bir direncin göstergesidir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641775,
@@ -476,8 +447,7 @@
         "D": "<p>Pac-Man</p>",
         "E": "<p>Passage</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641777,
@@ -492,8 +462,7 @@
         "D": "<p>Fatale</p>",
         "E": "<p>Father and Son</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641784,
@@ -508,8 +477,7 @@
         "D": "<p>Heykel</p>",
         "E": "<p>Edebiyat</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641787,
@@ -524,8 +492,7 @@
         "D": "<div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Oyun modları yeni oynama biçimleri ortaya koymaktan uzaktır.</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Video oyunu modlama (“modifikasyon”un kısaltması) bir video oyununun görsel, işitsel ya da prosedürel unsurlarının oyuncular veya hayranlar tarafından değiştirilme sürecini ifade eder.</p> </div> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641343,
@@ -540,8 +507,7 @@
         "D": "<p>Super Mario Clouds</p>",
         "E": "<p>Overwrite</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641578,
@@ -556,8 +522,7 @@
         "D": "<p>Oyuncular metaforlar üzerinden oyundaki sembolik anlamlar üzerine düşünmeye yönlendirilirler.</p>",
         "E": "<p>Bu oyunlarda kural tabanlı sistemler üzerinde anlam üretmek birincil önemdedir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641619,
@@ -572,8 +537,7 @@
         "D": "<p>Dijital art</p>",
         "E": "<p>Counter gaming (Karşı oyun)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641622,
@@ -588,8 +552,7 @@
         "D": "<p>Pişmanlık</p>",
         "E": "<p>Gözlem</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641776,
@@ -604,8 +567,7 @@
         "D": "<p>Pac-Man</p>",
         "E": "<p>Passage</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641340,
@@ -620,8 +582,7 @@
         "D": "<p>Multimedya anlatım</p>",
         "E": "<p>Transmedya anlatım</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641344,
@@ -636,8 +597,7 @@
         "D": "<p>Evlilik Bağı (Wedlock)</p>",
         "E": "<p>Kusursuz Evlilik (A Match Made in Heaven)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641575,
@@ -652,8 +612,7 @@
         "D": "<p>Karşı-oyun</p>",
         "E": "<p>Prosedürelci oyun</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641782,
@@ -668,8 +627,7 @@
         "D": "<p>Sanatsal anlatı</p>",
         "E": "<p>Kültürel anlatı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641783,
@@ -684,8 +642,7 @@
         "D": "<p>Roy Ascott’a göre sanat yapıtı belirsizlik içermemeli, seyirci katılımı ve müdahalesine müsaade etmemelidir.</p>",
         "E": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Dijital oyunların sanat sayılması gerektiğine ilişkin görüşleri savunan diğer önemli isim İngiliz The Guardian Gazetesi yazarı Jonathan Jones'dır.</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641346,
@@ -700,8 +657,7 @@
         "D": "<p>Artsüremli</p>",
         "E": "<p>Auteur</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641576,
@@ -716,8 +672,7 @@
         "D": "<p>Pong (1972)</p>",
         "E": "<p>Adam Killer (2000)</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641577,
@@ -732,8 +687,7 @@
         "D": "<p>Karşı-oyun</p>",
         "E": "<p>Prosedürelci oyun</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641621,
@@ -748,8 +702,7 @@
         "D": "<p>Adam Killer</p>",
         "E": "<p>Passage</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641786,
@@ -764,8 +717,7 @@
         "D": "<div class=\"page\" title=\"Page 6\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Velvet Strike</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 6\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Adam Killer</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641341,
@@ -780,8 +732,7 @@
         "D": "<p>Joe Williams</p>",
         "E": "<p>Arielle Kebbel</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641348,
@@ -796,7 +747,6 @@
         "D": "<p>Today I Die</p>",
         "E": "<p>Passage</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     }
 ]

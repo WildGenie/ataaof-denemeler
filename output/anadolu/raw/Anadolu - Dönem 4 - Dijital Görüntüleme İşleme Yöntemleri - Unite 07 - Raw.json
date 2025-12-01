@@ -12,8 +12,7 @@
         "D": "<p>Algı</p>",
         "E": "<p>Kayıt</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488864,
@@ -28,8 +27,7 @@
         "D": "<p>Veri filtreleme</p>",
         "E": "<p>Veri temizleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488865,
@@ -44,8 +42,7 @@
         "D": "<p>Veri analizi</p>",
         "E": "<p>Veri doğrulama</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488868,
@@ -60,8 +57,7 @@
         "D": "<p>Jaques Bertin       </p>",
         "E": "<p>John Snow</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488870,
@@ -76,8 +72,7 @@
         "D": "<p>IMAGEN</p>",
         "E": "<p>VOSviewer</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489021,
@@ -92,8 +87,7 @@
         "D": "<p>Dönüşüm</p>",
         "E": "<p>Enformasyon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489023,
@@ -108,8 +102,7 @@
         "D": "<p>Veri birleştirme ve sunma</p>",
         "E": "<p>Veri analizi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489025,
@@ -124,8 +117,7 @@
         "D": "<p>Zawacki ve Richter</p>",
         "E": "<p>Popenici ve Kerr </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489029,
@@ -140,8 +132,7 @@
         "D": "<p>Rassal Orman</p>",
         "E": "<p>Lojistik Regresyon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489130,
@@ -156,8 +147,7 @@
         "D": "<p>Derin öğrenme sürecinde öğrenme kabiliyeti, sinir ağlarının ana kavramını oluşturmaktadır.</p>",
         "E": "<p>Yapay sinir ağlarının yapısı tek giriş, çıkış ve gizli katmandan oluşmaktadır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489131,
@@ -172,8 +162,7 @@
         "D": "<p>Yapay Sinir Ağları</p>",
         "E": "<p>Destek Vektör Makineleri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489134,
@@ -188,8 +177,7 @@
         "D": "<p>Flourish</p>",
         "E": "<p>R</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489138,
@@ -204,8 +192,7 @@
         "D": "<p>Hacim</p>",
         "E": "<p>Doğrulama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489139,
@@ -220,8 +207,7 @@
         "D": "<p>Veri doğrulama ve temizleme</p>",
         "E": "<p>Veri kategorileme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489140,
@@ -236,8 +222,7 @@
         "D": "<p>Yapay zekâ destekli bireyselleştirilmiş öğ­renme ortamlarında öğrenenlerin öğrenme özelliklerine ve tercihlerine göre içerik öne­risi ve bireyselleştirilmiş öğrenme deneyimi sağlamak,</p>",
         "E": "<p>Düşük akademik düzeyi olan öğrenenleri izleyerek çevrimiçi öğrenme ortamlarında gerçekleştirilen derslerden ayrılma durumu olan riskli öğrenenleri belirleyerek bu öğre­nenlere öğrenen destek hizmetleri sağlamak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489141,
@@ -252,8 +237,7 @@
         "D": "<p>Naive Bayes</p>",
         "E": "<p>Lojistik Regresyon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489143,
@@ -268,8 +252,7 @@
         "D": "<p>Histogram grafikleri</p>",
         "E": "<p>Çubuk grafikler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489148,
@@ -284,8 +267,7 @@
         "D": "<p>Imagen</p>",
         "E": "<p>Dashboard</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489149,
@@ -300,8 +282,7 @@
         "D": "<p>3</p>",
         "E": "<p>2</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489150,
@@ -316,8 +297,7 @@
         "D": "<p>Rassal Orman (Random Forest)</p>",
         "E": "<p>Lojistik Regresyon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488866,
@@ -332,8 +312,7 @@
         "D": "<p>Naive bayes</p>",
         "E": "<p>İşletim sistemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488867,
@@ -348,8 +327,7 @@
         "D": "<p>derin öğrenme</p>",
         "E": "<p>rassal orman</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488869,
@@ -364,8 +342,7 @@
         "D": "<p>Chartlist</p>",
         "E": "<p>VOSviewer</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489022,
@@ -380,8 +357,7 @@
         "D": "<p>Hacim</p>",
         "E": "<p>Tanımlama</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489024,
@@ -396,8 +372,7 @@
         "D": "<p>Derin Öğrenme </p>",
         "E": "<p>Lojistik Regresyon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489027,
@@ -412,8 +387,7 @@
         "D": "<p>Lojistik Regresyon</p>",
         "E": "<p>Rassal Orman</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489028,
@@ -428,8 +402,7 @@
         "D": "<p>Naive Bayes</p>",
         "E": "<p>Rassal Orman</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489030,
@@ -444,8 +417,7 @@
         "D": "<p>IMAGEN</p>",
         "E": "<p>VOSviewer</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489133,
@@ -460,8 +432,7 @@
         "D": "<p>Python</p>",
         "E": "<p>Qlik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489137,
@@ -476,8 +447,7 @@
         "D": "<p>GPT-3</p>",
         "E": "<p>DALL-E</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489026,
@@ -492,8 +462,7 @@
         "D": "<p>modeller</p>",
         "E": "<p>veri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489128,
@@ -508,8 +477,7 @@
         "D": "<p>Doğrulama</p>",
         "E": "<p>Değer</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489136,
@@ -524,8 +492,7 @@
         "D": "<p>DALL-E 2</p>",
         "E": "<p>GPT-2</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489144,
@@ -540,8 +507,7 @@
         "D": "<p>Enformasyonun daha iyi anlaşılmasını sağlamaz.</p>",
         "E": "<p>Enformasyonları görseller kullanılarak evrensel bir şekilde iletmenin hızlı ve etkili bir yoludur.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489129,
@@ -556,8 +522,7 @@
         "D": "<p>Farklı özelliklere sahip olmayan birçok veriden oluşmalıdır</p>",
         "E": "<p>İşlenebilmesi için değerli verileri içermelidir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489146,
@@ -572,8 +537,7 @@
         "D": "<p>Tableau</p>",
         "E": "<p>DALL-E</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488863,
@@ -588,8 +552,7 @@
         "D": "<p>Metin</p>",
         "E": "<p>Veri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488871,
@@ -604,8 +567,7 @@
         "D": "<p>Tableau</p>",
         "E": "<p>IMAGEN</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489132,
@@ -620,8 +582,7 @@
         "D": "<p>Görseller kullanılarak evrensel bir şekilde iletmenin hızlı ve etkili bir yoludur.</p>",
         "E": "<p>Veri madenciliği sürecinin sonucunda üretilen enformasyonu keşfetmenin ve anlamanın en güçlü yoludur.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3489135,
@@ -636,7 +597,6 @@
         "D": "<p>I, III, II</p>",
         "E": "<p>III, I, II</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     }
 ]

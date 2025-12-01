@@ -12,8 +12,7 @@
         "D": "<p>Oyun Mekanikleri</p> ",
         "E": "<p>Oyun Dinamikleri</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601428,
@@ -28,8 +27,7 @@
         "D": "<p>Ana karakterin yeni beceriler edinmesi/temel</p>",
         "E": "<p>Ana karakterin envanter düzenlemesi/ikincil</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601429,
@@ -44,8 +42,7 @@
         "D": "<p>Hikâye anlatımı, oyuncuları duygusal olarak oyun dünyasına bağlar.</p> ",
         "E": "<p>Temel mekanikleri nedeniyle karakter sabit özelliklere sahiptir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601430,
@@ -60,8 +57,7 @@
         "D": "<p>Donkey Kong</p> ",
         "E": "<p>Pokémon</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601431,
@@ -76,8 +72,7 @@
         "D": "<p>Haptik Geri Bildirim</p> ",
         "E": "<p>Avatar</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601432,
@@ -92,8 +87,7 @@
         "D": "<p>Legend of Zelda</p> ",
         "E": "<p>Space Invaders</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601433,
@@ -108,8 +102,7 @@
         "D": "<p>Non- lineer</p> ",
         "E": "<p>Cutscene</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601434,
@@ -124,8 +117,7 @@
         "D": "<p>Sağ</p> ",
         "E": "<p>Sol</p>  ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601435,
@@ -140,8 +132,7 @@
         "D": "<p>Tıklama</p>",
         "E": "<p style=\"text-align: left;\">Modifikasyon</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601436,
@@ -156,7 +147,6 @@
         "D": "<p>Karakter işaretçileri</p> ",
         "E": "<p>Menü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

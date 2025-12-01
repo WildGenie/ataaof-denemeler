@@ -12,8 +12,7 @@
         "D": "<p>Sahne</p> ",
         "E": "<p>Senaryo</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3591510,
@@ -28,8 +27,7 @@
         "D": " <p>Çekim ölçeği uyumu</p> ",
         "E": "<p>Bakış çizgisi uyumu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3591513,
@@ -44,8 +42,7 @@
         "D": "<p>400 Darbe (400 Coups)</p> ",
         "E": " <p>Malta Şahini (Maltese Falcon)</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3591515,
@@ -60,8 +57,7 @@
         "D": "<p>Montaj-Sekans Tekniği</p>",
         "E": "<p>Kısa Kesme Tekniği</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3591519,
@@ -76,8 +72,7 @@
         "D": "<p>Belirsizlik</p> ",
         "E": "<p>Görünmezlik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3591522,
@@ -92,8 +87,7 @@
         "D": "<p>Zaman devamlılığı</p> ",
         "E": "<p>Karakter devamlılığı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3591527,
@@ -108,8 +102,7 @@
         "D": "<p>Aks kırılmıştır </p>",
         "E": "<p>Zaman kısalmıştır</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3591529,
@@ -124,8 +117,7 @@
         "D": "<p>Zincirleme</p> ",
         "E": "<p>Donma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3591532,
@@ -140,8 +132,7 @@
         "D": " <p>Gözle takibi hesaba katan</p> ",
         "E": "<p>Düzlemselliğe uygun olan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3591534,
@@ -156,8 +147,7 @@
         "D": "<p>Ses</p> ",
         "E": "<p>Süre</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598222,
@@ -172,8 +162,7 @@
         "D": "<p>Sıçrama</p>",
         "E": "<p>Pan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598223,
@@ -188,8 +177,7 @@
         "D": "<p>Sıçrama</p>",
         "E": "<p>Kesme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598224,
@@ -204,8 +192,7 @@
         "D": "<p>Geriye oynatım</p>",
         "E": "<p>Kısa kesme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598230,
@@ -220,8 +207,7 @@
         "D": "<p>İnsanlar, ülkeler, kültürler, ürünler, yöntemler veya olaylar arasında karşılaştırma yapmak</p>",
         "E": "<p>Duygusal bir kopukluk yaratarak, izleyicinin hikayeyle bağını zayıflatmak  </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598231,
@@ -236,8 +222,7 @@
         "D": "<p>Flashback</p>",
         "E": "<p>Kesme geciktirmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598232,
@@ -252,8 +237,7 @@
         "D": "<p>Aksiyon devamlılığı</p>",
         "E": "<p>Zamanda devamlılık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598233,
@@ -268,8 +252,7 @@
         "D": "<p>Bir görüntüdeki kişilerin birden belirmesini engellemek</p>",
         "E": "<p>Bir görüntünün üzerine yazı ya da bir başka yazılı işaret bindirmek</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598265,
@@ -284,8 +267,7 @@
         "D": "<p>Zincirleme</p>",
         "E": "<p>Kararma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598267,
@@ -300,8 +282,7 @@
         "D": "<p>Çok yakın plan</p>",
         "E": "<p>Ayrıntı plan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598269,
@@ -316,7 +297,6 @@
         "D": "<p>Bulanıklaştırma</p>",
         "E": "<p>Bindirme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

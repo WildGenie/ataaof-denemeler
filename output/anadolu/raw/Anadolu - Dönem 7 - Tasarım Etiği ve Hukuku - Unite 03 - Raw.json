@@ -12,8 +12,7 @@
         "D": "<p>Coğrafi işaret </p>",
         "E": "<p>Geleneksel ürün adı </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717096,
@@ -28,8 +27,7 @@
         "D": "<p>Buluşun tekniğin bilinen durumuna dâhil olmamasını ifade eder. </p>",
         "E": "<p>Buluşun sanayiye uygulanabilir olmasını ifade eder. </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717109,
@@ -44,8 +42,7 @@
         "D": "<p>Kuantum teorisi </p>",
         "E": "<p>Bitkisel mide ilacı </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717120,
@@ -60,8 +57,7 @@
         "D": "<p>12</p>",
         "E": "<p>10</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717121,
@@ -76,8 +72,7 @@
         "D": "<p>Ses markası </p>",
         "E": "<p>Üç boyutlu marka </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717232,
@@ -92,8 +87,7 @@
         "D": "<p>Eseri sergileme hakkı </p>",
         "E": "<p>Adın belirtilmesi hakkı </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717257,
@@ -108,8 +102,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717788,
@@ -124,8 +117,7 @@
         "D": "<p>5846 sayılı Telif Hakları Kanunu ve 6769 sayılı Tasarım Kanunu</p>",
         "E": "<p>6769 sayılı Sanat Eserleri Kanunu ve 5846 sayılı İkinci Mevzuat Kanunu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717791,
@@ -140,8 +132,7 @@
         "D": "<p>Fikrî mülkiyetin yalnızca kültürel ürünleri kapsadığını vurgulamak için.</p>",
         "E": "<p>Fikrî ürünlerin yalnızca teknolojik yönünü ön plana çıkarmak için.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717794,
@@ -156,8 +147,7 @@
         "D": "<p>Başvuru ilkesi<br /><br /></p>",
         "E": "<p>Kamuya sunulma ilkesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717805,
@@ -172,8 +162,7 @@
         "D": "<p>Faydalı model yalnızca yeni olmayan buluşları korur.</p>",
         "E": "<p>Faydalı model, buluşun ticari kullanımını garanti ederken patent bu hakkı sağlamaz.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717816,
@@ -188,8 +177,7 @@
         "D": "<p>Tarımsal ürünlerin dayanıklılığını artırmak için geliştirilmiş bir makine</p>",
         "E": "<p>İnsan vücudundaki bir gen dizisinin keşfi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719235,
@@ -204,8 +192,7 @@
         "D": "<p>Tescil ilkesi</p>",
         "E": "<p>Evrensellik ilkesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719240,
@@ -220,8 +207,7 @@
         "D": "<p>Patent</p>",
         "E": "<p>Mesuliyet kaydı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719246,
@@ -236,8 +222,7 @@
         "D": "<p>Roman</p>",
         "E": "<p>Futbolda ofsayt kuralı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719252,
@@ -252,8 +237,7 @@
         "D": "<p>20</p>",
         "E": "<p>25</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719254,
@@ -268,8 +252,7 @@
         "D": "<p>20</p>",
         "E": "<p>25</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719275,
@@ -284,8 +267,7 @@
         "D": "<p>Eseri Sergileme Hakkı</p>",
         "E": "<p>Eseri İşleme Hakkı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719277,
@@ -300,8 +282,7 @@
         "D": "<p>Ortak eser sahipliği</p>",
         "E": "<p>Eser sahipliğinde iştirak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719282,
@@ -316,8 +297,7 @@
         "D": "<p>10</p>",
         "E": "<p>15</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717122,
@@ -332,8 +312,7 @@
         "D": "<p>4</p>",
         "E": "<p>2</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717256,
@@ -348,8 +327,7 @@
         "D": "<p>Komşu hak </p>",
         "E": "<p>Münferit hak </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717797,
@@ -364,8 +342,7 @@
         "D": "<p>Korunmak istenilen tescilli hakkın sadece tescil yapılan ülkede geçerli olması.</p> ",
         "E": "<p>Tescil işleminin Dünya Fikrî Mülkiyet Teşkilatı (WIPO) tarafından yürütülmesi.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717818,
@@ -380,8 +357,7 @@
         "D": "<p>Tescilli marka ile aynı veya benzer olan ve markanın itibarına zarar verecek herhangi bir işaretin kullanılması</p>",
         "E": "<p>Tescilli markanın yalnızca kendi şirket çalışanları tarafından kullanılması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717822,
@@ -396,8 +372,7 @@
         "D": "<p>Tasarımın tescil edilip edilmediği</p>",
         "E": "<p>Bilgilenmiş kullanıcı üzerinde bıraktığı genel izlenim ile daha önce sunulmuş tasarımların aynı kullanıcıda bıraktığı izlenim arasındaki farklılık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719267,
@@ -412,8 +387,7 @@
         "D": "<p>50</p>",
         "E": "<p>70</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717808,
@@ -428,8 +402,7 @@
         "D": "<p>Sanayiye uygulanabilir bir cihaz</p>",
         "E": "<p>Tarımsal ürünleri artırmaya yönelik bir sistem</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3719260,
@@ -444,8 +417,7 @@
         "D": "<p>20'şer</p>",
         "E": "<p>25'er</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717253,
@@ -460,8 +432,7 @@
         "D": "<p>50</p>",
         "E": "<p>70</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3717799,
@@ -476,7 +447,6 @@
         "D": "<p>Faydalı modeller kamuya açık olarak paylaşılmak zorunda değildir.</p>",
         "E": "<p>Faydalı modeller, mevcut ürünlerde küçük iyileştirmeler ve uyarlamalar yapan buluşları korumak için daha uygundur.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     }
 ]

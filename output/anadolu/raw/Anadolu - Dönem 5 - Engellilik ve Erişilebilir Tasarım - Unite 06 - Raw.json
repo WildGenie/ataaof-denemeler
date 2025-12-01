@@ -12,8 +12,7 @@
         "D": "<p>Orta Derecede İşitme Kaybı </p>",
         "E": "<p>Hafif Derecede İşitme Kaybı </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862943,
@@ -28,8 +27,7 @@
         "D": "<p>şiddette / konuşma alanına</p>",
         "E": "<p> konuşma alanına / frekansta</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863126,
@@ -44,8 +42,7 @@
         "D": "<p>İşitsel Sözel Yöntem</p>",
         "E": "<p>Alternatif İletişim Yöntemi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863128,
@@ -60,8 +57,7 @@
         "D": "<p>Cihaz Takma Yaşı </p>",
         "E": "<p>Cihaz Takma Süresi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863130,
@@ -76,8 +72,7 @@
         "D": "<p>% 50</p>",
         "E": "<p> % 60</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863132,
@@ -92,8 +87,7 @@
         "D": "<p>Öğrencinin ihtiyacına uygun fiziksel koşulların sağlanmasından okul yönetimi sorumludur.</p>",
         "E": "<p>Okul dışı destek hizmetler, özel eğitim ve rehabilitasyon merkezlerince sağlanır. </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863133,
@@ -108,8 +102,7 @@
         "D": "<p>Odyogram</p>",
         "E": "<p>Alternatif İletişim </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863134,
@@ -124,8 +117,7 @@
         "D": "<p>Yardımcı işitme sistemlerinden bazıları büyük ortamlarda bazıları ise küçük ortamlarda ve birebir görüşmeler için kullanılır.</p>",
         "E": "<p>FM sistemler öğretmenin sesini aradaki mesafeye bağlı olmadan öğrenciye iletir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863135,
@@ -140,8 +132,7 @@
         "D": "<p>Kişisel Frekans Modülasyonu</p>",
         "E": "<p>Uyarı Cihazları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863136,
@@ -156,8 +147,7 @@
         "D": "<p>Kaynaştırma </p>",
         "E": "<p>Destek Hizmetler </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863274,
@@ -172,8 +162,7 @@
         "D": "Merkezi işitme kaybı",
         "E": "Geçici işitme kaybı",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863275,
@@ -188,8 +177,7 @@
         "D": "Dış kulakta daralma",
         "E": "Kulak zarının delinmesi<br />",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863276,
@@ -204,8 +192,7 @@
         "D": "Sesin şiddeti ve frekansı",
         "E": "Kulağa temas eden ses dalgalarının yönü",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863277,
@@ -220,8 +207,7 @@
         "D": "Konuşma sesleri odyogramda alt sınırdaki ses düzeylerinde yer aldığı için sorun yaşanmaktadır.<br />",
         "E": "<p> Ahmet Bey’in odyogramında duyduğu sesler yalnızca çevresel gürültüyle sınırlıdır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863278,
@@ -236,8 +222,7 @@
         "D": "İleri derece işitme kaybı<br />",
         "E": "Çok ileri derece işitme kaybı",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863279,
@@ -252,8 +237,7 @@
         "D": "Rehberlik araştırma merkezinden alınan rapor",
         "E": "Nüfus müdürlüğünden alınan onay belgesi",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863280,
@@ -268,8 +252,7 @@
         "D": "Rehberlik hizmeti<br />",
         "E": "<p> Davranışsal müdahale</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863281,
@@ -284,8 +267,7 @@
         "D": "Ses indüksiyon döngü sistemleri",
         "E": "Koklear implant",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863282,
@@ -300,8 +282,7 @@
         "D": "İşitme kayıplı çocuk öğretmenin sesini mesafe fark etmeksizin duyabilir",
         "E": "Gürültülü sınıf ortamlarında öğretmenin sesine odaklanmayı kolaylaştırır",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863283,
@@ -316,7 +297,6 @@
         "D": "İşaret dilinin öğrenilmesini hızlandırmak<br />",
         "E": "<p> Görme engelli bireyler için sesli betimleme sağlamak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

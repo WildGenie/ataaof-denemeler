@@ -12,8 +12,7 @@
         "D": "<p>Sinemanın gerçeklikle ilgisini kaybetmesi<br /><br /></p>",
         "E": "<p>Teknolojik gelişmelere rağmen sinemanın izleyiciler üzerinde etkisinin olmaması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685369,
@@ -28,8 +27,7 @@
         "D": "<div class=\"page\" title=\"Page 87\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Meshes of the Afternoon (Maya Deren)</p> </div> </div> </div> </div>",
         "E": "<p>Stagecoach (John Ford)</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685375,
@@ -44,8 +42,7 @@
         "D": "<p>Dijital tema tanıma</p>",
         "E": "<p>Filmustage</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3686730,
@@ -60,8 +57,7 @@
         "D": "<p>İnsan merkezli bir alanı, merkezî olmayan ve kapsayıcı bir alana genişletme<br /><br /></p>",
         "E": "<p>Transhümanizmi ve antihümanizmi reddetme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3686736,
@@ -76,8 +72,7 @@
         "D": "<p>Yalnız (I)</p>",
         "E": "<p>(I), (II), (III) ve (IV)</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3687375,
@@ -92,8 +87,7 @@
         "D": "<p>Diyafram dengesi</p>",
         "E": "<p>Lens açıklığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839813,
@@ -108,8 +102,7 @@
         "D": "Paul Wells",
         "E": "<span>Christian Metz</span>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839815,
@@ -124,8 +117,7 @@
         "D": "Dijital İkizler (Dijital Twins [DTs])",
         "E": "Sanal Prodüksiyon",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839817,
@@ -140,8 +132,7 @@
         "D": "Senaryo Tanımlama",
         "E": "Yapay Zeka Tanımlama",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839819,
@@ -156,8 +147,7 @@
         "D": "Mad Max 4 - 2001",
         "E": "Mad Max: Fury Road - 2015",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839825,
@@ -172,8 +162,7 @@
         "D": "Yapay zeka, en iyi sahneleri seçmek, istenmeyen nesneleri kaldırmak, özel efektler eklemek, aydınlatmayı ayarlamak ve hatta yeni içerik oluşturmak gibi görevleri otomatikleştirmek için kullanılabilir",
         "E": "Mevcut çekimleri düzeltmek veya iyileştirmek için kullanılabilir",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3846152,
@@ -188,8 +177,7 @@
         "D": "Animasyon",
         "E": "Ütopya",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3846154,
@@ -204,8 +192,7 @@
         "D": "2000'lerin sonu",
         "E": "2010'ların sonu",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3846156,
@@ -220,8 +207,7 @@
         "D": "Virtual Atmos",
         "E": "Advanced Surround",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3846157,
@@ -236,8 +222,7 @@
         "D": "Arttırılmış Gerçeklik",
         "E": "Led Duvarlar",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3846167,
@@ -252,8 +237,7 @@
         "D": "Dijital İkizler",
         "E": "Deepfake",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3846172,
@@ -268,8 +252,7 @@
         "D": "Annihilation",
         "E": "District 9",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3846178,
@@ -284,8 +267,7 @@
         "D": "Antropometri",
         "E": "Antropoloji",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3846182,
@@ -300,8 +282,7 @@
         "D": "<p class=\"p1\">The Void</p>",
         "E": "Under the Skin",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3846185,
@@ -316,8 +297,7 @@
         "D": "Çevreleyici Sinema",
         "E": "Stereoskopik Sinema",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3687359,
@@ -332,8 +312,7 @@
         "D": "<p>Mad Max: Fury Road</p>",
         "E": "<p>The Worst Person in the World</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3687387,
@@ -348,8 +327,7 @@
         "D": "<p>Aktif</p>",
         "E": "<p>Sorgulayıcı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3687393,
@@ -364,8 +342,7 @@
         "D": "<p>Renk Düzeltme</p>",
         "E": "<p>Aspect Ratio</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839812,
@@ -380,8 +357,7 @@
         "D": "<span>Jean Baudrillard</span>",
         "E": "George Melies",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839822,
@@ -396,8 +372,7 @@
         "D": "Sanal Setler ve Ön Görselleştirme",
         "E": "Görsel Setler",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839824,
@@ -412,8 +387,7 @@
         "D": "Cars - 2016",
         "E": "Oyuncak Hikayesi - 2019",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3846155,
@@ -428,8 +402,7 @@
         "D": "Shortcut",
         "E": "Avid Media Composer",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685523,
@@ -444,8 +417,7 @@
         "D": "<p>YZ, olay örgüsünde derinlemesine analiz yaparak anlatı yapısındaki çatışmaları tespit edebilir.</p>",
         "E": "<p>Yapay zekâ, senaryolardaki temaları ve fikirleri tanımlayabilir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839823,
@@ -460,8 +432,7 @@
         "D": "Cars (2006)",
         "E": "Beauty and beast (1991)",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839821,
@@ -476,7 +447,6 @@
         "D": "Etik düşünceyi teşvik etmek, çeşitliliği ve çoğulluğu kucaklayıp kutlamak, alternatif ve sorumlu gelecekler tasarlamak",
         "E": "İnsani nitelikleri başka bir varlığa atfetmek",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     }
 ]

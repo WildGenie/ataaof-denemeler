@@ -12,8 +12,7 @@
         "D": "<p>13. yüzyıl</p>",
         "E": "<p>14. yüzyıl</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234951,
@@ -28,8 +27,7 @@
         "D": "<p>Albert Dürer</p>",
         "E": "<p>Marcus Aurelius</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234952,
@@ -44,8 +42,7 @@
         "D": "<p>1452</p>",
         "E": "<p>1453</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234954,
@@ -60,8 +57,7 @@
         "D": "<p>Dört Azizli Bakire ve Çocuk<br /><br /></p>",
         "E": "<p>Savaş makbuzları</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234955,
@@ -76,8 +72,7 @@
         "D": "<p>Gofre Baskı<br /><br /></p>",
         "E": "<p>Ofset Baskı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234957,
@@ -92,8 +87,7 @@
         "D": "<p>Aldus Manutius ve İtalik yazı tipini içeren ilk kitap Virgil Operası <br /><br /></p>",
         "E": "<p>Gutenberg ve matbaa icadı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234958,
@@ -108,8 +102,7 @@
         "D": "<p>Dericilik</p>",
         "E": "<p>Kunduracılık</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234971,
@@ -124,8 +117,7 @@
         "D": "<p>1446</p>",
         "E": "<p>1287</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234972,
@@ -140,8 +132,7 @@
         "D": "<p>1640</p>",
         "E": "<p>1400</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234977,
@@ -156,8 +147,7 @@
         "D": "<p>Peter Schoeffer'ın kırk iki satırlık İncil'i.</p>",
         "E": "<p>Biblia Latina.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234985,
@@ -172,8 +162,7 @@
         "D": "<p>Martin Schongauer.</p>",
         "E": "<p>Albrecht Dürer.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235016,
@@ -188,8 +177,7 @@
         "D": "<p>Bu teknik, oyma olarak sınıflandırılmaktadır.</p>",
         "E": "<p>14. yy'da geliştirilmiştir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235114,
@@ -204,8 +192,7 @@
         "D": "<p>Claude Garamond</p>",
         "E": "<p>Francesco Griffo</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235115,
@@ -220,8 +207,7 @@
         "D": "<p>Oronce Fine</p>",
         "E": "<p>Simon'de Colines</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235116,
@@ -236,8 +222,7 @@
         "D": "<p>William Caslon</p>",
         "E": "<p>John Baskerville</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235118,
@@ -252,8 +237,7 @@
         "D": "<p>1919</p>",
         "E": "<p>1950</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235151,
@@ -268,8 +252,7 @@
         "D": "<p>Martin Schongauer</p>",
         "E": "<p>Johann Gutenberg</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235156,
@@ -284,8 +267,7 @@
         "D": "<p>Henri Estiennes</p>",
         "E": "<p>Johann Michael Fleischmann</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235157,
@@ -300,8 +282,7 @@
         "D": "<p>Johann Michael Fleischmann</p>",
         "E": "<p>William Caslon</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235158,
@@ -316,8 +297,7 @@
         "D": "<p>Pierre-Simon Fournier</p>",
         "E": "<p>Robert Granjon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234940,
@@ -332,8 +312,7 @@
         "D": "<p>1450</p>",
         "E": "<p>1452</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234953,
@@ -348,8 +327,7 @@
         "D": "<p>Muşamba<br /><br /></p>",
         "E": "<p>Kâğıt</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234997,
@@ -364,8 +342,7 @@
         "D": "<p>Geoffroy Tory.</p>",
         "E": "<p>Claude Garamond.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235001,
@@ -380,8 +357,7 @@
         "D": "<p>Johann Michael Fleischmann.</p>",
         "E": "<p>Christoffel van Dyck.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235117,
@@ -396,8 +372,7 @@
         "D": "<p>Bodoni</p>",
         "E": "<p>Romain du Roi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235149,
@@ -412,8 +387,7 @@
         "D": "<p>Çinliler - Kelimeleri temsil eden resimler</p>",
         "E": "<p>Romalılar - İlk Alfabe</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235154,
@@ -428,8 +402,7 @@
         "D": "<p>19.yüzyıl</p>",
         "E": "<p>20.yüzyıl</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235155,
@@ -444,8 +417,7 @@
         "D": "<p>Kolofon</p>",
         "E": "<p>Punch Press</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234959,
@@ -460,8 +432,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234974,
@@ -476,8 +447,7 @@
         "D": "<p>Tipo Baskı.</p>",
         "E": "<p>Blok Baskı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234996,
@@ -492,8 +462,7 @@
         "D": "<p>Mühür.</p>",
         "E": "<p>İmza.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235015,
@@ -508,8 +477,7 @@
         "D": "<p>İspanya</p>",
         "E": "<p>Venedik Cumhuriyeti</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235113,
@@ -524,8 +492,7 @@
         "D": "<p>Monogram</p>",
         "E": "<p>Incunabula</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235153,
@@ -540,8 +507,7 @@
         "D": "<p>Laertius</p>",
         "E": "<p>Virgil Operası</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234956,
@@ -556,8 +522,7 @@
         "D": "<p>Kıbrıs kralı bağış makbuzları<br /><br /></p>",
         "E": "<p>Bizans Krallık savaşları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234960,
@@ -572,8 +537,7 @@
         "D": "<p>William Caslon<br /><br /></p>",
         "E": "<p>Pierre-Simon Fournier</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234980,
@@ -588,8 +552,7 @@
         "D": "<p>Martin Schongauer.</p>",
         "E": "<p>Johannes Gutenberg.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234988,
@@ -604,8 +567,7 @@
         "D": "<p>Günther Zainer.</p>",
         "E": "<p>Aldus Manutius.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235152,
@@ -620,8 +582,7 @@
         "D": "<p>Martin Schongauer</p>",
         "E": "<p>Pietro Bembo</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235150,
@@ -636,7 +597,6 @@
         "D": "<p>Muhteşem Öykülerin İlk Kitabı</p>",
         "E": "<p>Virgil Operası</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     }
 ]

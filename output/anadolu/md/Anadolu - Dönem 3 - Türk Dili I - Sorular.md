@@ -798,7 +798,7 @@
     > **Açıklama:** Codex Cumanicus Avrupalılar tarafından Kıpçak sahasında yani Karadeniz’in kuzeyindeki Kıpçak lehçesi ile yazılmıştır.
 
     ***
-1. Aşağıdaki alfabelerden hangisi ile Türkçe, diğerlerine göre daha uzun süre ve  geniş coğrafyada kullanılmıştır?
+1. Aşağıdaki alfabelerden hangisi ile Türkçe, diğerlerine göre daha uzun süre ve geniş coğrafyada kullanılmıştır?
     - A-) Mani
     - B-) Tibet
     - C-) Ermeni
@@ -1044,6 +1044,16 @@
     > **Açıklama:** Ali Şir Nevainin Türkçe ve Farsçayı karşılaştırarak Türkçenin daha üstünbir dil olduğu sonucuna ulaştığı eserinin adı Muhakemetül Lugateyn'dir. Doğru cevap B'dir.
 
     ***
+1. Tarihi bilinen ilk Türkçe yazılı belge aşağıdakilerden hangisidir?
+    - A-) Köktürk yazıtları
+    - **Cevap B-) Çoyr yazıtları**
+    - C-) Kutadgu-Bilig
+    - D-) Lugati’t Türk
+    - E-) Dede Korkut hikayeleri
+
+    > **Açıklama:** MS 687- 692 yılları arasında yazıldığı düşünülen Çoyr yazıtı ilk yazılı Türkçe belgedir.
+
+    ***
 1. VIII-XVII. yüzyılları arasında Doğu Türkistan, Altın Ordu ve Harezm coğrafyalarına kadar yayılan hatta Fatih Sultan Mehmet döneminde sarayda kullanılan alfabe hangisidir?
     - A-) Grek Alfabesi
     - B-) Brahmi Alfabesi
@@ -1184,6 +1194,16 @@
     > **Açıklama:** Cumhuriiyet Dönemii’nde Türkçe iile iilgilii yapılan çalısmaları değerlendiirebiileceksiniz.
 
     ***
+1. Aşağıdakilerden hangisi kültürel ögelerden biri değildir?
+    - **Cevap A-) İleri teknoloji**
+    - B-) Dil
+    - C-) Edebiyat
+    - D-) Halk Dansları
+    - E-) Sanat
+
+    > **Açıklama:** Cumhuriiyet Dönemii’nde Türkçe iile iilgilii yapılan çalısmaları değerlendiirebiileceksiniz.
+
+    ***
 1. Aşağıdakilerden hangisi kültürel değişme süreçlerinin gerçekleştiği aşamalardan biri değildir?
     - **Cevap A-) Norm oluşturma**
     - B-) Yenilik
@@ -1241,6 +1261,9 @@
     - C-) aralarından kara kedi geçmek
     - D-) kara yazı
     - E-) kara gün dostu
+
+    > **Açıklama:** Yaşayan diiller arasında Türkçeniin yeriini ve yaşını açıklayabiileceksiniz.
+
     ***
 1. Aşağıdakilerden hangisi atasözlerine yansıtılan kültürel öğelere örnek verilemez?
     - A-) ak gün ağartır kara gün karartır
@@ -2095,6 +2118,18 @@
     > Doğru yanıt E
 
     ***
+1. Aşağıdakilerden hangisi Çağatay Türkçesinin günümüzdeki devamı olarak kabul edilmektedir?
+    - A-) Kıpçak Türkçesi
+    - B-) Kazak Türkçesi
+    - C-) Kırgız Türkçesi
+    - **Cevap D-) Özbek Türkçesi**
+    - E-) Tatar Türkçesi
+
+    > **Açıklama:** Kuzey (Kıpçak) Türkçesinin günümüzdeki devamı olarak kabul edilen lehçeler; Tatar,
+    > Başkurt, Nogay, Kumuk, Karaçay, Kazak, Karakalpak ve Kırgız lehçeleridir.
+    > Özbek Türkçesi, Çağatay Türkçesinin günümüzdeki devamı olarak kabul edilir.
+
+    ***
 1. Aşağıdakilerden hangisi Batı Türkçesi döneminde Eski Oğuz Türkçesine ait eserler veren önemli isimlerden değildir?
     - A-) Sultan Veled
     - B-) Yunus Emre
@@ -2162,6 +2197,16 @@
     > Fakültesini kurdurmuştur. Doğru cevap C'dir.
 
     ***
+1. Sümerce ve Türkçe ile Sümerler ve Türkler arasındaki ilişkiler konusunda<br />Osman Nedim Tuna'nın yaptığı araştırmanın sonuçlarına göre aşağıdaki bilgilerden hangisi yanlıştır?
+    - **Cevap A-) Sümerce ve Türkçede 128 ortak kelime vardır ve bu kelimeler, akrabalıktan ya da kelime alışverişinden kaynaklanmış olabilir.**
+    - B-) Diller arasındaki ortaklıklar, ya akrabalık ya da komşuluk ilişkisi sonucunda oluşur.
+    - C-) Türklerin en az MÖ 3500’lerde Türkiye’nin doğu bölgesinde bulunduğu tespit edilmiştir
+    - D-) Türk dilinin zamanımızdan 5500 yıl önce müstakil ve iki kollu bir dil olarak varlığı ispatlanmıştır.
+    - E-) Bugün, yaşayan Dünya dilleri arasında, en eski yazılı belgelere sahip olan dil, Türk Dili'dir.
+
+    > **Açıklama:** Sümerce ve Türkçede 168 ortak kelime vardır ve bu kelimeler, akrabalıktan ya da kelime alışverişinden kaynaklanmış olabilir. Doğru cevap A'dır.
+
+    ***
 1. İlk İtalyanca yazılı belge ne zaman oluşturulmuştur?
     - A-) MS 712
     - B-) MS 8. yüzyıl
@@ -2214,7 +2259,7 @@
     > Fakih, Hoca Mesut vb. Doğru cevap D'dir.
 
     ***
-1. Daha çok Budist Uygurlar tarafından kullanılan ve Budizm’le ilgili eserler yazılan, Hindistan kökenli yazı sistemi aşağıdakilerden hangisidir?
+1. Daha çok Budist Uygurlar tarafından kullanılan ve Budizm’le ilgili eserler yazılan, Hindistan kökenli yazı sistemi aşağıdakilerden hangisidir?
     - **Cevap A-) Brahmi Alfabesi**
     - B-) Tibet Yazısı
     - C-) Süryani Alfabesi
@@ -2236,7 +2281,7 @@
     > XVIII-XX. yüzyıllar arasında kullanılan alfabe Grek alfabesidir.
 
     ***
-1. Aşağıdakilerden hangisi Yeni Lisan hareketinin temel prensiplerinden biri değildir?
+1. Aşağıdakilerden hangisi Yeni Lisan hareketinin temel prensiplerinden biri değildir?
     - A-) Yazı dilini konuşma diline yaklaştırmak, mümkün olduğu kadar İstanbul halkının konuştuğu gibi yazmak.
     - B-) Dilimizdeki Arapça ve Farsça gramer kurallarını kullanmamak
     - **Cevap C-) Tamlamaları, Arapça kurallara göre yapmak.**
@@ -2244,6 +2289,16 @@
     - E-) Öteki Türk lehçelerinden kelime almamak.
 
     > **Açıklama:** Tamlamaları, Türkçe kurallara göre yapmak temel prensiptir. Doğru cevap C'dir.
+
+    ***
+1. Türkçe, hangi dil ailesine ait kabul edilir?
+    - **Cevap A-) Ural-Altay**
+    - B-) Hint-Avrupa
+    - C-) Hami-Sami
+    - D-) Çin-Tibet
+    - E-) Bantu
+
+    > **Açıklama:** Türkçe, Ural-Altay dil ailesine mensuptur.
 
     ***
 1. Aşağıdakilerden hangisi Türkçe'nin akraba olduğu dillerden biri değildir?
@@ -2353,7 +2408,7 @@
     - D-) Selanik
     - E-) İstanbul
 
-    > **Açıklama:** 1926 yılında Azerbaycan’ın başkenti Bakü’de toplanan Birinci Türkoloji Kurultayı pek çok Türk topluluğunun kültür hayatını etkilemek bakımından çok önemli bir toplantıdır.
+    > **Açıklama:** 1926 yılında Azerbaycan’ın başkenti Bakü’de toplanan Birinci Türkoloji Kurultayı pek çok Türk topluluğunun kültür hayatını etkilemek bakımından çok önemli bir toplantıdır.
 
     ***
 1. Aşağıdakilerden hangisi Dil Encümeni adındaki komisyonun 20 alfabeyi inceleyerek belirlediği esaslardan biri değildir?
@@ -2496,6 +2551,16 @@
     - E-) Bilge Kağan Yazıtı
 
     > **Açıklama:** Türk dili : Çoyr yazıtı. Japonca : Nihon Şoki Macarca : Tihanyi Vakıfnamesi'dır. Orhun Yazıtları ve Bilge Kağan Yazıtı daha sonraki yüzyıllarda yazılmıştır.
+
+    ***
+1. Türkçe'nin bilinen ilk yazıtı olan Çoyr yazıtı hangi yüzyıla tarihlenmektedir?
+    - A-) M.Ö. II. yüzyıl
+    - B-) M.Ö. I. Yüzyıl
+    - C-) M.S. I. yüzyıl
+    - D-) M.S. IV. yüzyıl
+    - **Cevap E-) M.S. VII. yüzyıl**
+
+    > **Açıklama:** Bugünkü bilgilerimize göre Türkçenin ilk yazılı belgesi MS 687-692 yıllarına tarihlenen Çoyr yazıtıdır.
 
     ***
 1. Türkçe'nin Tarihi dönemleri düşünüldüğünde Orta Türkçe Dönemi için aşağıdakilerden hangisi doğrudur?
@@ -2662,6 +2727,16 @@
     > **Açıklama:** Ses tellerinde ham ses hâline gelen hava akımının ikinci durağı gırtlaktır. Gırtlağı geçen ham ses, küçük dil tarafından ağız boşluğuna veya geniz boşluğuna veya her ikisine birden gönderilir.
 
     ***
+1. Aşağıdaki sözcüklerden hangisi bir art ünlü ile başlar?
+    - A-) Elbise
+    - B-) İnce
+    - C-) Önlük
+    - **Cevap D-) Işık**
+    - E-) Üzüm
+
+    > **Açıklama:** Ünlülerin sınıflandırılmasında esas olan boğumlanmayla ilgili belli başlı ölçütler şu şekildedir: Artlık/Önlük, Darlık/Genişlik, Düzlük/Yuvarlaklık, Uzunluk/Kısalık. • Artlık/Önlük: Ağız boşluğunun ön ve art bölümleriyle ilgili karşıtlık; /a/-/e/, /ı/- /i/, /o/-/ö/, /u/-/ü/ ayrımlarını belirler. Dilin ön tarafının tümsekleşmesiyle ağzın arka bölgesinde art ünlüler /a, ı, o, u/, dilin arka tarafının tümsekleşmesiyle ağız boşluğunun ön tarafında ön ünlüler /e, i, ö, ü/ oluşur.
+
+    ***
 1. Diş-dudak ünsüzlerinin (f, v) oluşumu aşağıdakilerden hangisinde doğru verilmiştir?
     - A-) Alt ve üst dudakların birbirine temas ettiği noktada oluşur.
     - **Cevap B-) Üst dişler ile alt dudağın birbirine temas ettiği noktada oluşur.**
@@ -2742,6 +2817,16 @@
     > **Açıklama:** Konuşma seslerini özellikleri, türleri, sözcüklerdeki sıralanışları, görevleri ve uğradıkları değişmeler açısından araştıran, sınıflandıran ve herhangi bir kurama dayalı olmayan, genellikle fiziksel yönleri ağır basan dil bilgisi dalına ses bilgisi denir.
 
     ***
+1. Ses yolunun başlangıcında hangi organ yer alır?
+    - A-) dudak
+    - B-) dil
+    - C-) dişler
+    - **Cevap D-) akciğerler**
+    - E-) diyafram
+
+    > **Açıklama:** Ses yolunun başlangıcında akciğerler vardır. Akciğerlerden diyaframın ve göğüs kaslarının itmesiyle pompalanan hava, ses yolunda ilk durak olan ses tellerine gelir.
+
+    ***
 1. Bir dildeki sesleri karşılayan işaretlerin belirli bir sırada meydana getirdiği harfler topluluğuna ne denir?
     - A-) ünlüler
     - **Cevap B-) alfabe**
@@ -2780,7 +2865,7 @@
     - D-) s
     - E-) t
 
-    > **Açıklama:** k
+    > **Açıklama:** Üst ön dişlerin arkasında diş ünsüzleri /d, n, s, t, z/ ünsüzleri oluşur.
 
     ***
 1. Aşağıdakilerden hangisi gırtlakta oluşan tek ünsüzdür?
@@ -2843,6 +2928,16 @@
     - E-) Hikâye
 
     > **Açıklama:** Türk alfabesinde düzeltme (^) işaretinin birden fazla görevi vardır. *Âdet* örneğinde olduğu gibi, üzerine konulduğu ünlünün uzun okunduğunu gösterir. *K**âr* örneğinde ise üzerine konulduğu, ölçünlü söyleyişte kısalan /a/ ünlüsünün uzun söylenmesi gerektiğini değil, bir önceki ünsüzün ön damaksıl (ince, ön sıradan) söy­lenmesi gerektiğini ifade eder*. Kâğıt, tezgâh, dükkân* ve *hikâye* sözcüklerinde de bir önceki /k/, /g/ ünsüzlerini inceltme, âlem sözcüğünde ise ünlüyü uzatma görevini üstlenmiştir. Doğru cevap B’ dir.
+
+    ***
+1. *Sor* sözcüğündeki ünlünün yalnızca darlığı değiştirildiğinde hangi sözcük elde edilir?
+    - A-) Ser
+    - B-) Sır
+    - **Cevap C-) Sur**
+    - D-) Sür
+    - E-) Sar
+
+    > **Açıklama:** /o/ sesi, art, geniş ve yuvarlak bir ünlüdür. Bu sesin yalnızca darlığı değiştirildiğinde art, dar, yuvarlak bir ses olan /u/ ortaya çıkar. Doğru cevap C’ dir.
 
     ***
 1. Takma dişlerini kaybeden nineniz hangi sesi çıkarmakta zorlanır?
@@ -2925,6 +3020,18 @@
     > **Açıklama:** Düz ünlüler; a, e, ı, i ; geniş ünlüler; a, e, o, ö sesleridir. Hem düz hem geniş olan ünlüler ise "a ve e"dir.
 
     ***
+1. Türkçede ünsüz harflerle ilgili ses özellikleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?
+    - A-) Sözcük kökünde ya da hece sonunda yan yana üç ünsüz bulunabilir.
+    - B-) Çok heceli sözcüklerin sonunda -p bulunabilir.
+    - **Cevap C-) Sözcük ya da hece sonunda belirli ünsüz çiftleri bulunabilir.**
+    - D-) Sözcük kökünde ikiz ünsüz/uzun ünsüz bulunabilir.
+    - E-) Türkçede en fazla dört ünsüz yan yana gelebilir.
+
+    > **Açıklama:** Yuarıdaki iadelerden sadece C seçeneği doğrudur. Sözcük ya da hece sonunda belirli ünsüz çiftleri bulunabilir: Söz ya da hece sonunda bulunan ünsüz çiftlerinin tamamında ilk ünsüz akıcı /l, n, r/ ünsüzlerinden biri veya /s/dir.
+    > -LÇ: ölç, -LK: ilk, -LP: alp, -LḲ: kalḳ, -LT: alt, -NÇ: korkunç, -NK: denk, -NT: ant,
+    > -RÇ: sürç, -RK: Türk, -RḲ: sarḳ, -RP: sarp, -RS: pars, -RT: sürt, -ST: üst.
+
+    ***
 1. Aşağıda verilen kelimelerden hangisi söz başında ünlü düşmesine örnek olarak verilebilir?
     - A-) Devrim
     - **Cevap B-) Sıcak**
@@ -2991,6 +3098,19 @@
 
     > **Açıklama:** Ünsüz benzeşmesi, bir sözcükteki ünsüzlerin; oluşum noktası, nitelik ve/veya nicelik bakımından bir başka sese benzemesidir. Ünsüz benzeşmesinde p,ç,t,k ünsüzlerinden biriyle biten sözcük c,d,g ünsüzlerinden biriyle de başlayabilecek ek aldığında c ç'ye, d t'ye ve g de k'ye dönüşür.
     > unu**t** – **g**an (değil)→ unu**t** – **k**an
+
+    ***
+1. Aşağıda verilenlerden hangisi Türkçenin ses özelliklerine uygun bir sözcüktür?
+    - A-) Jandarma
+    - B-) Hac
+    - C-) Kolej
+    - D-) Filika
+    - **Cevap E-) Gece**
+
+    > **Açıklama:** Türkçe kökenli sözlerde /j/ bulunmaz: kolej ve jandarma
+    > Söz başında /c, f, ğ, h, j, l, m, n, ñ, p, r, ş, v, z/ ünsüzleri bulunmaz: filika
+    > Sözcük sonunda /b, c, d, ġ, g/ ünsüzleri bulunmaz: hac
+    > Bu nedenle doğru cevap E'dir.
 
     ***
 1. Aşağıdaki kelimelerden hangisinde hece düşmesi görülmemektedir?
@@ -3085,6 +3205,16 @@
     > **Açıklama:** Düz ünlüler a, e, ı ve i'dir. Doğru cevap E'dir.
 
     ***
+1. Aşağıdaki sözcüklerin hangisinde ünlü daralması vardır?
+    - A-) Gelecek.
+    - B-) Düştü.
+    - **Cevap C-) Ağlıyor.**
+    - D-) Küsmüş
+    - E-) Kısaldı.
+
+    > **Açıklama:** Ağla-yor → ağlıyor ünlü daralmasına bir örnektir. Doğru cevap C'dir.
+
+    ***
 1. *Ötümsüz, diş, süreksiz (patlayıcı)* ve *ağız* özelliklerine sahip olan ünsüz aşağıdakilerden hangisidir?
     - A-) b
     - B-) d
@@ -3135,14 +3265,15 @@
     > Ses tellerinde ham ses haline gelen hava akımının ikinci durağı gırtlaktır. Gırtlağı geçen ham ses, küçük dil tarafından ağız boşluğuna veya geniz boşluğuna veya her ikisine birden gönderilir.
 
     ***
-1. Ağız boşluğunun ön ve art bölümleriyle  ilgili  karşıtlık  /a/-/e/, /ı/-/i/, /o/-/ö/, /u/-/ü/ ayrımlarını belirleyen ölçüt hangisidir?
+1. Ağız boşluğunun ön ve art bölümleriyle ilgili karşıtlık /a/-/e/, /ı/-/i/, /o/-/ö/, /u/-/ü/ ayrımlarını belirleyen ölçüt hangisidir?
     - A-) Darlık/ Genişlik
     - **Cevap B-) Artlık/ Önlük**
     - C-) Düzlük/ Yuvarlaklık
     - D-) Ünsüzler
     - E-) Uzunluk/ Kısalık
 
-    > **Açıklama:** Ağız boşluğunun ön ve art bölümleriyle ilgili karşıtlık; /a/-/e/, /ı/-/i/, /o/-/ö/, /u/-/ü/ ayrımlarını belirler. Dilin ön tarafının tümsekleşmesiyle ağzın
+    > **Açıklama:** Ünlülerin sınıflandırılması
+    > Ağız boşluğunun ön ve art bölümleriyle ilgili karşıtlık; /a/-/e/, /ı/-/i/, /o/-/ö/, /u/-/ü/ ayrımlarını belirler. Dilin ön tarafının tümsekleşmesiyle ağzın
     > arka bölgesinde art ünlüler /a, ı, o, u/, dilin arka tarafının tümsekleşmesiyle ağız
     > boşluğunun ön tarafında ön ünlüler /e, i, ö, ü/ oluşur.
 
@@ -3428,6 +3559,16 @@
     > **Açıklama:** Tonlama konuşma sırasında sesin perdesinin değişmesiyle oluşan melodik perdeleme ve dalgalanmadır. Bu nedenle doğru cevap D şıkkıdır.
 
     ***
+1. Aşağıdaki harflerden hangisi Türkçe kelimelerin başında bulunmaz?
+    - A-) s
+    - B-) t
+    - **Cevap C-) ğ**
+    - D-) k
+    - E-) b
+
+    > **Açıklama:** ğ harfi Türkçe kelimelerin başında bulunmaz. Doğru cevap C'dir.
+
+    ***
 1. Aşağıdakilerden hangisi düz ünlülerden biridir?
     - A-) o
     - B-) ö
@@ -3506,6 +3647,16 @@
     - E-) Kahvaltı
 
     > **Açıklama:** Fasıl sözcüğünde ünlü birleşmesi yoktur. Doğru cevap D'dir.
+
+    ***
+1. Konuşma esnasında cümleler veya sözcükler arasında verilen kısa aralıklara ne ad verilir?
+    - **Cevap A-) Durak**
+    - B-) Vurgu
+    - C-) Sözce
+    - D-) Ton
+    - E-) Perde
+
+    > **Açıklama:** Konuşma esnasında cümleler veya sözcükler arasında verilen kısa aralıklara durak denir. Doğru cevap A'dır.
 
     ***
 1. Aşağıdakilerden hangisi 'Konuşurlar sesleri nasıl üretir?' sorusuna yanıt arayan alandır?
@@ -3705,6 +3856,17 @@
     > "Ünlülerin sınıfandırılmasında esas olan boğumlanmayla ilgili belli başlı ölçütler şu şekildedir: Artlık/Önlük, Darlık/Genişlik, Düzlük/Yuvarlaklık, Uzunluk/Kısalık."
 
     ***
+1. Aşağıdaki sözcük gruplarından hangisi Türkçedeki dudak uyumuna aykırıdır?
+    - A-) yaman, karın, sarı, kıyı
+    - **Cevap B-) yağmur, kavuk, çamur, kabuk**
+    - C-) iri, gece, inek,geri
+    - D-) soba, kovuk, sulak, kuru
+    - E-) söylev, bölüm, üye, üzüm,
+
+    > **Açıklama:** Türkçenin ses özelliklerini açıklayabileceksiniz.
+    > " Ölçünlü Türkçede dudak uyumu veya düzlük-yuvarlaklık uyumu adı verilen uyuma göre düz ünlülerden sonra ancak düz ünlüler, yuvarlak ünlülerden sonra dar-yuvarlak veya düz-geniş ünlüler gelebilir." O halde B doğru cevaptır.
+
+    ***
 1. I. Titreşimli/titreşimsiz II. Ağız/geniz III. Darlık/Genişlik IV. Sürekli/süreksiz V. Artlık/Önlük<br />Yukarıdaki özelliklerden hangileri ünsüzlerin sınıflandırılmasında kullanılan ölçütlerdendir?
     - A-) I ve III
     - B-) I ve V
@@ -3828,6 +3990,17 @@
     > Doğru cevap D şıkkıdır.
 
     ***
+1. Aşağıdakilerden hangisi ikiz ünsüzlere örnek olarak gösterilebilir?
+    - A-) baba
+    - **Cevap B-) anne**
+    - C-) yolcu
+    - D-) eller
+    - E-) ekler
+
+    > **Açıklama:** Türkçenin ses özelliklerini açıklayabileceksiniz.
+    > Doğru cevap B şıkkıdır
+
+    ***
 1. I. Tarihsel süreç II. En az çaba yasası III. Telafi uzunluğu IV. Geniş hece ünsüzünün düşmesi V. Yazımın etkisi<br />Aşağıdakilerden hangisi ses olaylarının nedenlerini içermektedir?
     - A-) I, II, III, IV
     - B-) II, III, IV
@@ -3858,6 +4031,17 @@
     - E-) Halka kıkırdak
 
     > **Açıklama:** Parçalar üstü ses birimlerini genel olarak değerlendirebileceksiniz.
+    > Doğru cevap A şıkkıdır
+
+    ***
+1. Aşağıdakilerden hangisi Türkçedeki ünlülere ilişkin doğru bir ifadedir?
+    - **Cevap A-) "u" art, yuvarlak ve dardır.**
+    - B-) "e" art, düz ve dardır.
+    - C-) "i" ön, düz ve geniştir.
+    - D-) "ü" ön, geniş ve düzdür.
+    - E-) "ı" ön, düz ve dardır.
+
+    > **Açıklama:** Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.
     > Doğru cevap A şıkkıdır
 
     ***
@@ -4026,6 +4210,17 @@
     > 'Türkçe hece türleri' tablosunu incelendiğinde, 'ünsüz+ünsüz+ünlü' olan 'gri' sözcüğünün Türkçe hece türü olmadığı görülmektedir. Bu nedenle doğru yanıt D seçeneğidir.
 
     ***
+1. Aşağıdakilerden hangisi sesin aşamalarından biri değildir?
+    - A-) Üretim
+    - B-) İletim
+    - C-) Algılama
+    - D-) Değerlendirme
+    - **Cevap E-) Cevap verme**
+
+    > **Açıklama:** Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.
+    > Ses dört aşamadan meydana gelir. Bunlar; üretim, iletim, algılama ve değerlendirmedir. Bu nedenle doğru cevap E şıkkıdır.
+
+    ***
 1. Türkçe kökenli sözcüklerin özellikleriyle ilgili aşağıda verilen bilgilerden hangisi yanlıştır?
     - A-) Türkçe kökenli sözlerde /j/ bulunmaz.
     - B-) Söz basında /c, f, g, h, j, l, m, n, ñ, p, r, s, v, z/ ünsüzleri bulunmaz.
@@ -4155,6 +4350,9 @@
     - C-) Öteki Türk lehçelerinden kelime almamak
     - D-) Dilimizdeki Arapça ve Farsça gramer kurallarını kullanmamak
     - **Cevap E-) Dilimize girmiş olan Arapça ve Farsça sözcükleri dilimizden atmak**
+
+    > **Açıklama:** Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.
+
     ***
 1. Sümerce ile Türkçe arasındaki ilişkilerle ilgili aşağıdaki ifadelerden hangisi hangisi yanlıştır?
     - A-) Sümerce ve Türkçedeki ortak kelimeler akrabalıktan ya da kelime alışverişinden kaynaklanmış olabilir.
@@ -4206,7 +4404,7 @@
     > **Açıklama:** Yunancada, il­k­ iki harf­ olan “alpha” ve “beta” sözcüklerinin bi­rleşmesi­nden oluşan “alfabe” Türkçede “abece”ye karşılık gelmektedir.
 
     ***
-1. I. Oluştukları yere, dilin veya çenenin yüksekliğine, dudakların durumuna göre biçimlenir.<br />II. /a, ı, o, u/ art ünlülerdir.<br />III. /o, ö, u, ü/ geniş ünlülerdir.<br />IV. /ı, i, u, ü/ dar ünlülerdir.<br />Yukarıda ünlüler ile ilgili verilen ifadelerden hangisi doğrudur?
+1. I. Oluştukları yere, dilin veya çenenin yüksekliğine, dudakların durumuna göre biçimlenir.<br />II. /a, ı, o, u/ art ünlülerdir.<br />III. /o, ö, u, ü/ geniş ünlülerdir.<br />IV. /ı, i, u, ü/ dar ünlülerdir.<br />Yukarıda ünlüler ile ilgili verilen ifadelerden hangisi doğrudur?
     - A-) Yalnız II
     - B-) Yalnız III
     - C-) I, IV
@@ -4306,6 +4504,16 @@
     > **Açıklama:** Türkçedeki yuvarlak ünlüler /o/, /ö/, /u/, /ü/ dür. “kolon“ sözcüğündeki her iki ünlü de yuvarlak ünlüdür. Doğru cevap A’dır.
 
     ***
+1. Aşağıdaki seçeneklerin hangisinde yalnızca art-düz ünlülerin bulunduğu bir sözcük vardır?
+    - A-) hafif
+    - B-) kopuk
+    - **Cevap C-) adım**
+    - D-) ilan
+    - E-) selam
+
+    > **Açıklama:** Türkçedeki art-düz ünlüler /a/, /ı/ dır. "adım" sözcüğü bu ünlülerden oluşmuştur. Doğru cevap C’dir.
+
+    ***
 1. Oluşum yerlerine göre ünsüzleri sınıflandıracak olursak aşağıdaki ünsüzlerden hangisi diş-dudak ünsüzüdür?
     - A-) /g/
     - B-) /l/
@@ -4344,6 +4552,17 @@
     - **Cevap E-) gülünç**
 
     > **Açıklama:** Türkçede sözcük sonunda bulunabilecek ünsüz çiftleri şöyledir: -LÇ, -LK, -LP, -LḲ, -LT, -NÇ, -NK, -NT,-RÇ, -RK, -RP, -RS, -RT, -ST. Gülü-**nç** sözcüğü bu kurala uyar. Ebeve**yn**, nüa**ns**, se**mt**, şe**vk** sözcükleri ise yabancı dillerden kopyalanan sözcüklerle söz sonunda bulunabilen ünsüz çiftleri barındırır. Doğru cevap E’dir.
+
+    ***
+1. Aşağıdaki cümlelerin hangisinde bir ünlü daralması örneği vardır?
+    - A-) Bu konular ilgi alanıma giriyor.
+    - **Cevap B-) Bir daha geç kalmayın, diyor.**
+    - C-) Köpek havlayarak yaklaşıyor.
+    - D-) Gözleri karanlıkta kayboluyor.
+    - E-) Durumun ciddiyetini fark ediyor.
+
+    > **Açıklama:** Daralma; benzeşme, daraltıcı ünsüzlerin etkisi vb. seslik nedenlerle geniş ünlülerin dar
+    > ünlü haline gelmesidir. “de-“ eylemindeki geniş /e/ ünlüsü /y/ ünsüzünün etkisiyle dar /i/ ünlüsüne dönüşmüştür. Doğru cevap B’dir.
 
     ***
 1. Tarihî dönemlerde “tenri” biçimindeki sözcüğün günümüz Türkçesinde “tanrı” biçiminde kullanılması hangi ses olayına işaret etmektedir?
@@ -4519,6 +4738,16 @@
     > **Açıklama:** Örneğin git- ünlü ile başlayan bir ek alıp t ünsüzü, iki ünlü arasında kaldığı zaman gi-d-er, gi-d-iyor, gi-d-ecek sözcüklerinde gördüğü gibi ötümlüleşerek d ünsüzüne gelişir. Bu gelişmenin sebebi tarihseldir. Doğru yanıt B'dir.
 
     ***
+1. Daralma; benzeşme, daraltıcı ünsüzlerin etkisi vb. seslik nedenlerle geniş ünlülerin dar ünlü hâline gelmesidir. Aşağıdakilerden hangisinde ünlü daralması yoktur?
+    - A-) Yokarı > yukarı
+    - B-) gövercin > güvercin
+    - C-) böyük > büyük
+    - **Cevap D-) dar > daracık**
+    - E-) get > git
+
+    > **Açıklama:** Dar ile daracık sözcükleri arasında ünlü daralması yoktur, diğerlerinde vardır. Doğru yanıt D'dir.
+
+    ***
 1. "Oku, baban gibi eşek olma." cümlesi Türkçenin bir özelliğine dikkat çekmek amacıyla sıkça kullanılmaktadır. Bu özellik aşağıdakilerden hangisidir?
     - A-) Vurgu
     - B-) Tonlama
@@ -4537,6 +4766,20 @@
     - E-) Yapım Eki
 
     > **Açıklama:** Ses, doğal veya doğal olmayan bir varlık tarafından yani anatomik, mekanik vb. yollarla ortaya çıkan fiziksel enerjinin havada oluşturduğu titreşimlerin kulak kepçesi tarafından toplanması, dış kulaktan iç kulağa, oradan karmaşık süreçlerle beyne iletilmesi ve beyinde yorumlanmasıyla ortaya çıkan fiziksel dalgalardır. Doğru cevap A'dır.
+
+    ***
+1. Konuşma seslerinin üretimini ve algılanmasını kaç aşamada değerlendirilebilir?
+    - A-) 5
+    - B-) 4
+    - **Cevap C-) 3**
+    - D-) 2
+    - E-) 1
+
+    > **Açıklama:** Konuşma seslerinin üretimini ve algılanmasını şu üç aşamada değerlendirebiliriz:
+    > • Söyleyiş ses bilgisi: Konuşurlar sesleri nasıl üretir?
+    > • Akustik ses bilgisi: Sesler havada nasıl yol alır?
+    > • İşitsel ses bilgisi: Dinleyenler sesleri nasıl algılar?
+    > Doğru cevap C'dir.
 
     ***
 1. Bir dildeki sesleri karşılayan işaretlerin belirli bir sırada meydana getirdiği harfler topluluğuna ne isim verilir?
@@ -4644,6 +4887,17 @@
 
     > **Açıklama:** Ünlüler başlığı altındaki bilgileri gözden geçiriniz.
     > A seçeneğinde dinle- fiili şimdiki zaman eki -yor ile birleştiğinde fiilin sonundaki -a- geniş ünlüsü şimdiki zaman ekinin daraltıcı etkisiyle -i- ünlüsüne dönüşmüştür. Bu nedenle bu cümlede ünlü daralması vardır.
+
+    ***
+1. Aşağıdaki cümlelerde altı çizili sözcüklerin hangisinde ünsüz benzeşmesi yoktur?
+    - A-) Mutfaktaki raftan reçel kavanozunu getirir misin?
+    - **Cevap B-) Tavandan sarkan örümcek ağını görüyor musun?**
+    - C-) Denizden geçip ırmakta boğulmak istemem.
+    - D-) Araba yamaçtan aşağıya hızla yuvarlanmış.
+    - E-) Marketteki ürün çeşitliliği baş döndürücü.
+
+    > **Açıklama:** Ünsüzler başlığı altındaki bilgileri gözden geçiriniz.
+    > Türkçede sert ünsüzlerle biten sözcükler d,c,g ünsüzlerinden biri ile başlayan ek aldıklarında d t'ye, c ç'ye ve g de k'ye dönüşür. Bu durumda B seçeneğindeki sözcükte bu durum yoktur.
 
     ***
 1. Aşağıdaki bilgilerden hangisi, Türkçe kökenli sözcüklere ilişkin geçersiz bir bilgidir?
@@ -5124,6 +5378,16 @@
     > **Açıklama:** Göz, gözlük sözcüğünün; gözlük, gözlükçü sözcüğünün; gözlükçü ise gözlükçülük sözcüğünün tabanıdır.
 
     ***
+1. Yüklemin bildirdiği eylemin özneye döndüğünü, eylemin özne tarafından kendi kendine yapıldığını gösteren çatı ekleri aşağıdakilerden hangisi ile ifade edilir?
+    - **Cevap A-) Dönüşlü çatı**
+    - B-) Edilgen çatı
+    - C-) İşteş çatı
+    - D-) Ettirgen çatı
+    - E-) Kuvvetlendirme çatısı
+
+    > **Açıklama:** Dönüşlü çatı: Yıkandım, küreklere asıldık örneklerindeki gibi, yüklemin bildirdiği eylemin özneye döndüğünü, eylemin özne tarafından kendi kendine yapıldığını gösteren çatıdır. Doğru cevap A'dır.
+
+    ***
 1. Aşağıdakilerden hangisi durum eklerini ifade eder?
     - A-) Adın belirttiği nesne ya da kavramın, altı kişiden (ben, sen, o; biz, siz, onlar) birine ait olduğunu gösterir.
     - **Cevap B-) Cümle içindeki adları diğer sözcüklere değişik anlam ilişkileri çerçevesinde bağlayan biçim birimlerdir.**
@@ -5236,6 +5500,16 @@
     > **Açıklama:** oynamak
 
     ***
+1. Aşağıdaki kelimelerden hangisi bir addan ad yapma eki **almamıştır?**
+    - A-) topaç
+    - B-) güneş
+    - **Cevap C-) boyat**
+    - D-) insancıl
+    - E-) güncel
+
+    > **Açıklama:** boya-t sözcüğünde "t" eki eylemden eylem yapma ekidir. Diğerlerinde (gün-ce-l, insan-cıl, gün-eş, top-aç )addan ad yapma ekleri vardır.
+
+    ***
 1. Aşağıdaki sözcüklerden hangisi bir addan eylem yapma eki almıştır?
     - **Cevap A-) kararmak**
     - B-) görkem
@@ -5320,6 +5594,33 @@
     > **Açıklama:** Taban
     > Tabanlar, eklerin, yani bağımlı biçim birimlerin eklendiği yalın sözcükler, yani bağımsız biçim birimlerdir. Tabanlar kök veya türemiş sözcük olabilir. Aşağıdaki örnekte göz, gözlük
     > sözcüğünün; gözlük, gözlükçü sözcüğünün; gözlükçü ise gözlükçülük sözcüğünün tabanıdır
+
+    ***
+1. Aşağıdaki sözcüklerden hangisi eylemden ad yapma eki almıştır?
+    - A-) yazın
+    - B-) çoğul
+    - C-) içeri
+    - D-) özet
+    - **Cevap E-) ödev**
+
+    > **Açıklama:** Eylemden Ad Yapma Ekleri
+    > Eylemden ad yapma ekleri, eylem kök ya da gövdelerinden, köken anlamıyla bağlantılı
+    > yeni ad gövdeleri yapan ve sayıca en fazla olan eklerdir. Bu eklerden bir bölümü çok yaygın biçimde tüm eylem köklerine gelebilirken, yayvan ve kaypak örneklerinde olduğu gibi,
+    > bir bölümü de yalnızca bir ya da birkaç sözcükte görülür.
+    > -(A)nAk: değ(e)nek, görenek, olanak. -(A)v: görev, işlev, ödev, sınav. -(A)y: dikey, düşey, olay, deney. -AcAk: gelecek, giyecek, yakacak. -AcAn: evecen, sevecen. -Aç: büyüteç,
+    > sarkaç. -AGAn: durağan, gezegen, olağan. -AGI: kaşağı, yapağı. -Ak: binek, dön ek, sapak, uçak. -AlAk: asalak, çökelek, yatalak. -AlgA: bitelge, çizelge, konalga. -Am: dönem,
+    > kuram, tutam. -AmAç: dönemeç, tutamaç. -AmAk: basamak, tutamak. -AmIk: bozamık.
+    > -An: bakan, düzen, kapan. -Ar/-r: gider, gelir, yazar. -ArI: göçeri, uçarı. -AsI: giysi (< giyesi), olası, veresi(ye). -bAç: dolambaç, saklambaç. -CA: dinlence, düşünce, eğlence. -cAk:
+    > erincek (hlk.), salıncak. -ceme: sürünceme. -daç: andaç. -DI: çıktı, girdi, pişti, uydu. -dıç:
+    > andıç. -DIk: bildik, tanıdık. -dırak: kaydırak. -ebe: göçebe. -GA: bilge, bölge, süpürge.
+    > -GAç: kıskaç, süzgeç, yüzgeç. -GAn: çekingen, kaygan. -GI: bilgi, olgu, sevgi. -GIç: dalgıç,
+    > bilgiç. -GIn: bilgin, etkin, vurgun. -güt: örgüt. -I: ayrı, doğu, sancı, yazı. -IcI: alıcı, verici,
+    > yanıcı. -Iş: bakış, geçiş, uçuş. -k: açık, delik, dilek. -m: bilim, bölüm, kurum. -mA: bölme,
+    > inme, kuşatma. -mAcA: bulmaca, gülmece. -mAç: demeç, yırtmaç. -mAk: çakmak, ilmek,
+    > yemek. -mAn: azman, eğitmen, öğretmen. -mAz: \*aymaz, tükenmez, yaramaz. -mIk: ilmik, kıymık, kusmuk. -mUr: kömür, yağmur. -mIş: dolmuş, Durmuş, ermiş. -n: akın,
+    > ekin, yığın. -nç: bilinç, direnç, sevinç. -ntI: çıkıntı, döküntü, saplantı. -pak: kaypak. -sAl:
+    > görsel, işitsel, uysal. -sI: sinsi, tütsü. -ş: bağdaş, tanış, oynaş. -t: anıt, geçit, taşıt, umut.
+    > -van: yayvan.
 
     ***
 1. Aşağıdaki sözcüklerden hangisi dönüşlü çatıdadır?
@@ -5451,6 +5752,16 @@
     > **Açıklama:** Başlangıçta kişi adı, marka adı vb. özel ad olan sözcükler genelleşerek belirli bir türün genel adı hâline gelebilir. Türkçede jilet (tıraş bıçağı yapımcısı İngiliz Gilette’in adından), neskafe (tescilli Nescafé ürün adından) sanayağı (marka adından), selpak (marka adından), vimlemek (marka adından) gibi özel adlar bu yolla dilin söz varlığına girmiş, ancak bu tür sözcüklerin bir bölümüne Türkçe Sözlük’te çeşitli nedenlerle yer verilmemiştir. Doğru cevap B'dir.
 
     ***
+1. Aşağıdaki cümlelerin hangisinde 'göz' sözcüğü yan anlamıyla kullanılmıştır?
+    - **Cevap A-) Anahtarları masanın gözüne koydum.**
+    - B-) Televizyon izlemekten gözlerim ağrıdı.
+    - C-) Göz alıcı bir güzelliği vardı.
+    - D-) Yıllardır gözümde tütüyorsun, özledim.
+    - E-) Hasta olunca gözü kararıyordu.
+
+    > **Açıklama:** Yan anlam (ikincil anlam): Sözcüğün, temel anlamla ilişkili edindiği bir başka anlam, yansıttığı yeni bir kavramdır. 'göz' sözcüğü B ve E seçeneklerinde gerçek, C ve D seçeneklerinde mecaz anlamıyla kullanılmıştır. A seçeneğindeki 'göz' çekmece anlamında kullanılmıştır ve bir yan anlam örneğidir. Doğru cevap A'dır.
+
+    ***
 1. **Tut ki** (I) Köroğlu'yum, Karacaoğlan'ım<br />**Nelere** (II) katlanmam ki senin **için** (III)<br />Yukarıdaki dizelerde numaralanmış sözcük­lerin türleri aşağıdakilerden hangisinde sıra­sıyla doğru olarak verilmiştir?
     - A-) bağlaç - zamir - sıfat
     - B-) zamir - zarf - edat
@@ -5564,6 +5875,26 @@
     - E-) Kısaltma
 
     > **Açıklama:** Bahsedilen sözcük yapım yoluna örnekseme adı verilir. Doğru yanıt D seçeneğidir.
+
+    ***
+1. Aşağıdaki cümlelerden hangisinde karma yoluyla oluşturulmuş bir sözcük bulunmaktadır?
+    - A-) Düzenli egzersizle üç ayda beş kilo verdim.
+    - B-) Birikimlerimiz her geçen gün artıyor.
+    - C-) Ne zamandır yemediğini fark edince, öğlen yemeği için imambayıldı sipariş etti.
+    - D-) TBMM, bu ayın başlarında bütçe çalışmlarına başladı.
+    - **Cevap E-) Şirketimizin arge harcamaları geçen yıla oranla yüzde 80 arttı.**
+
+    > **Açıklama:** Karma, iki sözcüğün hecelerini ya da parçalarını, genellikle ilk bileşenin birinci, ikinci bileşenin ikinci parçasını bir araya getirerek yeni sözcük oluşturma yoludur. arge (< araştırma + geliştirme), ordonat (< ordu + donatım), eltel (< el + telefonu ) vb. Doğru yanıt E seçeneğidir.
+
+    ***
+1. "Verilecek görevlere ilişkin bir bilgisi yoktu." cümlesinde altı çizili sözcüğün türü aşağıdakilerden hangisidir?
+    - A-) Ad
+    - B-) Sıfat
+    - **Cevap C-) Edat**
+    - D-) Bağlaç
+    - E-) Zamir
+
+    > **Açıklama:** Edatlar, kendilerinden önceki ad soylu sözcüklere ad durum ekleriyle bağlanarak cümle ögesi olabilen veya diğer sözcük ve sözcük öbekleriyle ilişki kuran, anlamdan çok görev yönü ağırlıkta olan çekimsiz sözcüklerdir. Kum gibi, cihan içre; akşama doğru, konuya ilişkin; senin gibi, onun kadar; dünden itibaren, sabahtan beri vb. Doğru yanıt C seçeneğidir.
 
     ***
 1. "Özgüveni yüksek ve sevimli biriydi. Fakat korkuları veya yaralarından ötürü huzursuzdu." cümlesinde kaç adet bağlaç vardır?
@@ -5741,6 +6072,17 @@
     > Gövdeler biri bağımsız biçim birim olmak üzere, en az iki biçim birimden oluşan yani bir veya daha fazla ek alan kök biçim birimlerdir.
 
     ***
+1. Göz-gözlük kelimeleri arasındaki ilişki hangi biçim bilgisi türüne örnektir?
+    - A-) Gövde
+    - B-) Eklenme
+    - **Cevap C-) Taban**
+    - D-) Ek
+    - E-) Kök
+
+    > **Açıklama:** Biçim bilgisiyle ilgili temel kavramlar- Taban
+    > Tabanlar, eklerin, yani bağımlı biçim birimlerin eklendiği yalın sözcükler, yani bağımsız biçim birimlerdir. Tabanlar kök veya türemiş sözcük olabilir. Göz, gözlük sözcüğünün tabanıdır.
+
+    ***
 1. Herhangi bir sözcük türüne dahil olmayan, yani eylem, isim, sıfat, zarf gibi sözcük türlerinden birine girmeyen bağımlı biçim birimlerine ne ad verilir?
     - **Cevap A-) Ek**
     - B-) Eklenme
@@ -5791,6 +6133,16 @@
     - E-) İşlek Ekler
 
     > **Açıklama:** Eylemden ad yapma ekleri, eylem kok ya da gövdelerinden, köken anlamıyla bağlantılı yeni ad gövdeleri yapan ve sayıca en fazla olan eklerdir.
+
+    ***
+1. 'Bahçede yaşlı teyzeye yardım eden biri vardı, sanırım yabancıydı.' cümlesinde altı çizili sözcüğün türü aşağıdakilerden hangisidir?
+    - A-) Bağlaç
+    - B-) Edat
+    - C-) Sıfat
+    - D-) Zarf
+    - **Cevap E-) Zamir**
+
+    > **Açıklama:** Zamirler, geleneksel dil bilgisinde bir adın veya ad öbeğinin yerini tutabilen ad soylu sözcüklerdir.
 
     ***
 1. 'O da be-nim gi-bi çi-ko-la-ta ye-me-den uy-uya-mı-yor.' dizesinde hangi sözcük eklerine ayrılırken hata yapılmıştır?
@@ -5906,6 +6258,16 @@
     > **Açıklama:** Bir adın veya ad öbeğinin yerini tutabilen ad soylu sözcüklere zamir denir. Doğru cevap B'dir.
 
     ***
+1. Aşağıdakilerden hangisi geçişli bir eylemdir?
+    - **Cevap A-) İç-**
+    - B-) Gül-
+    - C-) Uyu-
+    - D-) Koş-
+    - E-) Yüz-
+
+    > **Açıklama:** İç- nesne alabildiğinden geçişli bir eylemdir. Doğru cevap A'dır.
+
+    ***
 1. Kendilerinden daha küçük anlamlı parçalara ayrılamayan, sözlüksel anlam taşıyan ve bir sözcük türüne ait olan biçim birimler aşağıdakilerden hangisidir?
     - **Cevap A-) Kök**
     - B-) Taban
@@ -5924,6 +6286,16 @@
     - E-) 6
 
     > **Açıklama:** Ekler; biçim bakımından ön ekler, iç ekler, son ekler olmak üzere üçe; işlev bakımından yapım ve çekim ekleri olmak üzere ikiye ayrılmaktadır.
+
+    ***
+1. Aşağıdaki sözcüklerden hangisi addan ad yapma eki almıştır?
+    - A-) Oyna
+    - B-) Küçümse
+    - C-) Gözük
+    - D-) Gizle
+    - **Cevap E-) Komuta**
+
+    > **Açıklama:** Oyna, küçümse, gözük ve gizle sözcükleri addan eylem yapma ekleri almışlardır. Komuta sözcüğü ise addan ad yapma eki almıştır.
 
     ***
 1. Aşağıdaki sözcüklerden hangisi eylemden ad yapma eki almıştır?
@@ -5946,6 +6318,16 @@
     > **Açıklama:** Cümlenin dil bilgisel (sözde) öznesinin yüklemin bildirdiği eylemden etkilendiğini veya eylemin hedefi olduğunu gösteren çatı türü edilgen çatıdır. : Edilgen çatı -l- eki ile kurulur. Ünlülerle veya -l- ünsüzü ile biten eylemlerde ise edilgen çatılar -n- eki ile kurulur: boya- >boyan-, bil- > bilin- vb.
 
     ***
+1. Aşağıdakilerden hangisi çekim eklerinin işlevlerinden biri değildir?
+    - A-) Soru anlamı katma
+    - B-) Kişi ilişkisi kurma
+    - C-) Aitlik gösterme
+    - **Cevap D-) Yeni sözcük yapma**
+    - E-) Çokluk gösterme
+
+    > **Açıklama:** Yeni sözcükler yapma görevi bulunan ekler, yapım/türetim ekleridir. Soru anlamı katma, kişi ilişkisi kurma, aitlik ve çokluk gösterme ise çekim eklerinin görevlerindendir.
+
+    ***
 1. Aşağıdaki seçeneklerden hangisinde kişi ile iyelik eki alan sözcük doğru eşleştirilmiştir?
     - A-) Arabam-İkinci tekil kişi
     - B-) Eviniz-Üçüncü tekil kişi
@@ -5959,6 +6341,16 @@
     > Tatilin-İkinci tekil kişi
     > Parası-Üçüncü tekil kişi
     > Yurdumuz-Birinci çoğul kişi
+
+    ***
+1. Aşağıdaki sözcüklerden hangisi sözcük yapımında kullanılan yollardan biri olan kırpma ile yapılmıştır?
+    - **Cevap A-) Kilo**
+    - B-) Karatavuk
+    - C-) İmge
+    - D-) Arge
+    - E-) Selpak
+
+    > **Açıklama:** Kimi zaman, bir sözcüğün ilk hecesi ya da bir bölümü ile anlam kaybı olmadan aynı kavram ifade edilebilir. Kırpma, çok heceli bir sözcüğün bir veya daha fazla hecesini kaldırarak yeni sözcük oluşturma yoludur: Kilo (kilogram), motel (motor otel), pop (popüler), santim (santimetre) vb.
 
     ***
 1. "Çeşitli bilim, sanat ve meslek alanlarında kullanılan özel anlamlı sözcüklerdir."<br />Sözcüklerin anlam bakımından türleri düşünüldüğünde yukarıda verilen tanım hangi seçeneği karşılamaktadır?
@@ -6056,6 +6448,16 @@
     > **Açıklama:** Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.
 
     ***
+1. Çeşitli bilim, sanat ve meslek alanlarında kullanılan özel anlamlı sözcüklerdir. Yazının dilinin kimi sözcükler bilim, sanat, spor, vb. alanlarda özel anlamlar kazanır bu olaya ne ad verilir?
+    - **Cevap A-) Terim anlamı**
+    - B-) Gerçek Anlamı
+    - C-) İş Anlamı
+    - D-) Kültürel Anlamı
+    - E-) Aktarma Anlamı
+
+    > **Açıklama:** Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.
+
+    ***
 1. Aşağıdakilerden hangisi 'biçim birim'in tanımıdır?
     - A-) Tek başlarına kullanılan birimlerdir.
     - **Cevap B-) Ses ve yapı yönünden anlamlı en küçük ögelerdir.**
@@ -6064,6 +6466,17 @@
     - E-) Herhangi bir sözcük türüne girmeyen bağımlı birimlerdir.
 
     > **Açıklama:** Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.
+    > Soru kitaptaki metni aynen sorduğu için hatırlama düzeyindedir.
+
+    ***
+1. Bir dilin işleyişinde temel öğelerden olan ve biçim bilgisinin önemli inceleme konuları arasında yer alan kavramlar hangileridir?
+    - A-) Addan Ad Yapma Ekleri
+    - B-) Çekim Ekleri
+    - C-) Yapım Ekleri
+    - **Cevap D-) Türetim-Çekim Ekleri**
+    - E-) Addan Eylem Yapma Ekleri
+
+    > **Açıklama:** Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.
     > Soru kitaptaki metni aynen sorduğu için hatırlama düzeyindedir.
 
     ***
@@ -6129,7 +6542,8 @@
     - D-) Dedem ailede en çok sevilen kişidir.
     - E-) Tatile birlikte çıkmaya karar verdik.
 
-    > **Açıklama:** Bilgiyi kullanarak yeni probleme uygulama mantığında olduğu için uygulama düzeyinde bir sorudur.
+    > **Açıklama:** Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.
+    > Bilgiyi kullanarak yeni probleme uygulama mantığında olduğu için uygulama düzeyinde bir sorudur.
 
     ***
 1. " Bu bekleyiş beni çok yordu." cümlesindeki 'bekleyiş' sözcüğüne ilişkin aşağıdaki bilgilerden hangisi doğrudur?
@@ -6441,6 +6855,17 @@
     > Adları çeşitli yönlerden niteleyen ve belirten sözcüklere sıfat denilmektedir. Sorunun doğru yanıtı B seçeneğidir.
 
     ***
+1. Bir adın veya ad öbeğinin yerini tutabilen ad soylu sözcüklere ne isim verilmektedir?
+    - A-) Bağlaçlar
+    - B-) Eylemler
+    - C-) Edatlar
+    - **Cevap D-) Zamirler**
+    - E-) Ünlemler
+
+    > **Açıklama:** Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.
+    > Bir adın veya ad öbeğinin yerini tutabilen ad soylu sözcüklere zamir denilmektedir. Sorunun doğru yanıtı D seçeneğidir.
+
+    ***
 1. Aşağıdaki Yeterlik Ekleri’nden hangisi ‘ihtimal’ anlamını katmaktadır?
     - A-) Makarna yapabilirim.
     - B-) Kapıyı açabilir miyim?
@@ -6481,7 +6906,8 @@
     - D-) Örnekseme
     - E-) Kırpma
 
-    > **Açıklama:** Yönlendirilen sayfada açıkça belirtilmiştir.
+    > **Açıklama:** Sözcük yapımı yollarını sıralayabileceksiniz.
+    > Yönlendirilen sayfada açıkça belirtilmiştir.
 
     ***
 1. Ad soylu sözcüklerin yüklem olarak kullanılmasını, eylem cümlelerinde ise birleşik çekimler sağlayan eklere ne ad verilir?
@@ -6524,7 +6950,8 @@
     - D-) Sözcükleri veya cümle ögelerini birbirine bağlayan çekimsiz sözcüklerdir.
     - E-) Cümlede yüklem görevinde bulunabilen sözcüklerdir.
 
-    > **Açıklama:** Zarflar, eylemlerin, sıfatların ya da başka zarfların önüne gelerek onları yer, zaman, durum, ölçü ve soru bakımından niteleyen, açıklayan sözcüklerdir.
+    > **Açıklama:** Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.
+    > Zarflar, eylemlerin, sıfatların ya da başka zarfların önüne gelerek onları yer, zaman, durum, ölçü ve soru bakımından niteleyen, açıklayan sözcüklerdir.
 
     ***
 1. "Biri bağımsız biçim birim olmaz üzere, en az iki biçim birimden oluşan yani bir veya daha fazla ek alan kök biçim birimleridir."<br />Yukarıda tanımı yapılan biçim bilgisi kavramı hangisidir?
@@ -6547,6 +6974,17 @@
 
     > **Açıklama:** Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.
     > Soru kökünde verilen eklerin tamamı yapım ekleridir. Kendi içlerinde alt kategorilere ayrıldıkları için hepsini aynı alt kategori başlığında toplamak mümkün değildir. Bu nedenle doğru cevap D'dir.
+
+    ***
+1. Öznenin ve nesnenin durumuna göre değişkenlik gösteren çatı kategorileri arasında sayılmayacak olan alt grup hangisidir?
+    - **Cevap A-) Geçişli**
+    - B-) Dönüşlü
+    - C-) Edilgen
+    - D-) İşteş
+    - E-) Ettirgen
+
+    > **Açıklama:** Sözcük yapımı yollarını sıralayabileceksiniz.
+    > B, C, D ve E şıkları çatının 4 grubudur. Geçişli çatı yoktur. Bu nedenle doğru cevap A'dır.
 
     ***
 1. "-AlA-, -IştIr-, -klA-" gibi ekler hangi çatı grubunun ekleridir?
@@ -6648,6 +7086,17 @@
     > Sözcüğün tek başına cümle kurabilen ve en az bir bağımsız biçim birimden oluşan bir birim olduğunu ifade eder.
 
     ***
+1. I. Adlar<br />II. Sıfatlar<br />III. Zarflar<br />IV. Zamirler<br />V. Devirler<br />Yukarıdaki terimlerden hangileri geleneksel sözcük türlerindendir?
+    - A-) Yalnız I
+    - B-) Yalnız V
+    - C-) IV ve V
+    - D-) I, II ve V
+    - **Cevap E-) I, II, III ve IV**
+
+    > **Açıklama:** Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.
+    > I, II, III ve IV
+
+    ***
 1. Aşağıdakilerden hangisi ünsüzlerin boğumlanma yerlerine (çıkaklarına) göre sınıflandırma ölçütlerinden biri değildir?
     - A-) Diş ünsüzleri
     - B-) Dudak ünsüzleri
@@ -6722,6 +7171,16 @@
     > Kabuk sözcüğü Türkçe bir sözcüktür.
 
     ***
+1. Konuşma sırasında sesin perdesinin değişmesiyle oluşan melodik modele ne ad verilir?
+    - A-) vurgu
+    - B-) durak
+    - **Cevap C-) tonlama**
+    - D-) durgu
+    - E-) ulama
+
+    > **Açıklama:** Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.
+
+    ***
 1. Aşağıdakilerden hangisi "süreksiz patlayıcı" bir ünsüzdür?
     - A-) f
     - B-) v
@@ -6784,14 +7243,14 @@
     > Kır- sözcüğü burada isim soyludur. Kırmak fiili ile karıştırılmamalıdır.
 
     ***
-1. Aşağıdakilerden hangisi ettirgen çatılı bir sözcük değildir?
+1. Aşağıdakilerden hangisi ettirgen çatılı bir sözcük değildir?
     - A-) Çıkar-
     - B-) Emzir-
     - **Cevap C-) Tanış-**
     - D-) Kestir-
     - E-) Akıt-
 
-    > **Açıklama:** Tanış- kelimesi işteş çatılı bir sözcüktür. Diğerleri ise ettirgen çatılı sözcüklerdir. Doğru cevap C'dir.
+    > **Açıklama:** Tanış- kelimesi işteş çatılı bir sözcüktür. Diğerleri ise ettirgen çatılı sözcüklerdir. Doğru cevap C'dir.
 
     ***
 1. Hangisi ad çekim eki değildir?
@@ -7354,6 +7813,16 @@
     > **Açıklama:** ‘gel- (i)- n – lik’ sözcüğü görüldüğü üzere biçim birimlerden oluşmaktadır ve sözcüğün kökü birde fazla ek alarak türetilmiştir. Bu yüzden ‘gelinlik’ sözcüğü türemiş sözcüktür.
 
     ***
+1. Herhangi bir sözcük türüne dâhil olmayan, yani eylem, ad (isim), sıfat, zarf vb. sözcük türlerinden birine girmeyen bağımlı biçim birimlerine ‘\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_’ denilmektedir. Verilen boşluğa gelmesi gereken uygun ifade aşağıdaki şıkların hangisindedir?
+    - A-) Gövde
+    - B-) Taban
+    - **Cevap C-) Ek**
+    - D-) Kök
+    - E-) Birim
+
+    > **Açıklama:** Ekler, herhangi bir sözcük türüne dâhil olmayan, yani eylem, ad (isim), sıfat, zarf vb. sözcük türlerinden birine girmeyen bağımlı biçim birimlerdir
+
+    ***
 1. ‘Kışlık’ sözcüğünde bulunan ek aşağıdakilerden hangisidir?
     - A-) Eylemden ad yapım eki
     - B-) Addan zarf yapım eki
@@ -7586,6 +8055,16 @@
     > Doğru yanıt E
 
     ***
+1. Batı’ da morfoloji olarak adlandırılan çalışma alanı Türkçe'de aşağıdakilerden hangisi ile adlandırılmaz?
+    - **Cevap A-) Bilimsel biçim**
+    - B-) Kelime bilgisi
+    - C-) Sözcük Bilim
+    - D-) Şekil bilgisi
+    - E-) Yapı bilgisi
+
+    > **Açıklama:** Batı’ da morfoloji olarak adlandırılan bu çalışma alanı Türkçede biçim bilim, biçim bilgisi, kelime bilgisi, şekil bilgisi, yapı bilgisi, sözcük bilim gibi farklı terimlerle adlandırılmaktadır.
+
+    ***
 1. Kendilerinden daha küçük anlamlı parçalara ayrılamayan, sözlüksel anlam taşıyan ve bir sözcük türüne ait olan biçim birimlerine ne ad verilir?
     - A-) Ek
     - B-) Gövde
@@ -7654,6 +8133,16 @@
     - E-) İşteş çatı
 
     > **Açıklama:** Dönüşlü çatı: Yıkandım, küreklere asıldık örneklerindeki gibi, yüklemin bildirdiği eylemin özneye döndüğünü, eylemin özne tarafından kendi kendine yapıldığını gösteren çatıdır.
+
+    ***
+1. Cümle ve cümlenin yüklemini oluşturmak üzere eylemlerin zaman, kişi vb. çekim eklerini almaları aşağıdakilerden hangisidir?
+    - A-) Durum çekimi
+    - **Cevap B-) Eylem çekimi**
+    - C-) İyelik çekimi
+    - D-) Cümle çekimi
+    - E-) Ad çekimi
+
+    > **Açıklama:** Eylem çekimi, cümle ve cümlenin yüklemini oluşturmak üzere eylemlerin zaman, kişi vb. çekim eklerini almalarıdır.
 
     ***
 1. Türkçede kaç tip kişi eki vardır?
@@ -7746,6 +8235,16 @@
     > **Açıklama:** 'Bana ayak yapma!' tümcesinde ayak sözcüğü mecaz anlamda kullanılmıştır. Diğer seçeneklerde ise temel anlamda kullanılmıştır. Doğru cevap D'dir.
 
     ***
+1. Aşağıdaki tümcelerin hangisinde zamir **kullanılmamıştır?**
+    - A-) Benden sana yar olmaz.
+    - B-) Bana öyle bakma.
+    - C-) Kapat gözlerini kimse görmesin.
+    - D-) Ne yaptığını herkes biliyor.
+    - **Cevap E-) Ne desem yalan olur.**
+
+    > **Açıklama:** A seçeneğinde 'benden' ve 'sana' sözcükleri, B seçeneğinde 'bana' sözcüğü, C seçeneğinde 'kimse' sözcüğü, D seçeneğinde ise 'herkes' sözcüğü zamirdir. E seçeneğinde ise herhangi bir zamir yoktur. Doğru cevap E'dir.
+
+    ***
 1. Aşağıdaki tümcelerin hangisinde edat vardır?
     - **Cevap A-) Sabaha doğru eve gitmiş.**
     - B-) Hani bana gelecektin?
@@ -7836,6 +8335,16 @@
     > **Açıklama:** “Eski köprü” cümlesi sıfat tamlamasıdır. Doğru cevap C’dir.
 
     ***
+1. Aşağıdakilerden hangisi “birleşik eylem öbeği” grubuna girer?
+    - A-) Yapmadan
+    - **Cevap B-) Gidedur**
+    - C-) Elalem
+    - D-) Yavaş yavaş
+    - E-) Karagöz ile Hacıvat
+
+    > **Açıklama:** “Gidedur” birleşik eylem öbeğidir. Doğru cevap B’dir.
+
+    ***
 1. “Bana göre” söz öbeği aşağıdakilerden hangisine örnektir?
     - A-) Ünvan öbeği
     - B-) Bağlama öbeği
@@ -7904,6 +8413,16 @@
     - E-) Sözcük öbekleri, eklenme açısından ayrı ayrı sözcük gibi işlem görürler.
 
     > **Açıklama:** Sözcük öbekleri, eklenme açısından tek bir sözcük gibi işlem görür ve çekim ekleri öbeğin son ögesine getirilir. Sözcük öbekleri, cümlede tek bir öge gibi işlev görürler.
+
+    ***
+1. Aşağıdakilerden hangisi takısız ad tamlamasıdır?
+    - A-) Şansının dönmesi
+    - B-) Yazgısının değişmesi
+    - C-) Kara göz
+    - D-) Kör adam
+    - **Cevap E-) Tahta kapı**
+
+    > **Açıklama:** 3\. Takısız ad tamlaması: Her iki sözcüğün de ek almadığı ad tamlamasıdır. Bu tür ad tamlamalarında tamlanan ögenin niteliği, benzetme ve/ya neden yapıldığını belirtilir. Örnek: Kendisine yün kazak örmüştü. Tahta kapıdan içeri girince ilk onu gördü. Vitrinde gördüğü elmas yüzükle geçmişe daldı.
 
     ***
 1. Aşağıdakilerden hangisi bağlama öbeğidir?
@@ -8152,6 +8671,19 @@
 
     > **Açıklama:** Belirtili ad tamlaması: İlk sözcüğün ilgi eki –(n)In + ikinci sözcüğün iyelik eki –sI almasıyla oluşan ad tamlamasıdır.
     > Örnek: İşinin değişmesi şansını da değiştirmişti. Esra, odanın pencerelerini sıkıca kapattı.Selma’nın sesi çok güzeldir. Doğru cevap C'dir.
+
+    ***
+1. "yün kazak", "tahta kapı", "elmas yüzük" gibi tamlamaların türü aşağıdakilerden hangisidir?
+    - **Cevap A-) Takısız isim tamlaması**
+    - B-) Belirtili isim tamlaması
+    - C-) Belirtisiz isim tamlaması
+    - D-) Aitlik bildiren tamlama
+    - E-) Sıfat tamlaması
+
+    > **Açıklama:** Takısız ad tamlaması: Her iki sözcüğün de ek almadığı ad tamlamasıdır. Bu tür ad tamlamalarında tamlanan ögenin niteliği, benzetme ve/ya neden yapıldığını be- lirtilir.
+    > Örnek: Kendisine yün kazak örmüştü.
+    > Tahta kapıdan içeri girince ilk onu gördü. Vitrinde gördüğü elmas yüzükle geçmişe daldı.
+    > Doğru cevap A'dır.
 
     ***
 1. "Odanın içini gül kokusu kaplamıştı." cümlesinde verilen tamlamanın türü aşağıdakilerden hangisidir?
@@ -8661,6 +9193,16 @@
     > **Açıklama:** Cümlenin temel ögeleri, özne ve yüklemdir. Verilen cümlede karşılaşmıştık sözcüğü cümlenin temel ögesidir.
 
     ***
+1. "Yaşlı adam yaşadıklarını anlatırken soğukkanlıydı." cümlesinde cümlenin yardımcı ögesi aşağıdakilerden hangisidir?
+    - A-) Soğukkanlıydı
+    - **Cevap B-) Yaşadıklarını anlatırken**
+    - C-) Anlatırken
+    - D-) Adam
+    - E-) Yaşlı adam
+
+    > **Açıklama:** "Yaşlı adam yaşadıklarını anlatırken soğukkanlıydı." cümlesinde cümlenin yardımcı ögesi zarf tümleci olan "yaşadıklarını anlatırken" öbeğidir.
+
+    ***
 1. Aşağıdaki cümlelerin hangisinin yüklemi ek eylem ile çekimlenmiş belirtisiz ad tamlaması yapısında bir sözcük öbeğidir?
     - **Cevap A-) Şehre gelenlerin gittiği ilk yer, Şahin Tepesi’dir.**
     - B-) Serkan sınıftaki en çalışkan çocuktur.
@@ -8728,6 +9270,16 @@
     - C-) Aitlik eki -ki bulunan yapılar, cümlede zamir işlevi kazanabilir.
     - D-) Bir adın ya da ad öbeğinin yerini tutar.
     - E-) Üçüncü kişi zamiri aslında işaret sıfatıdır.
+
+    > **Açıklama:** Sözcük öbeklerini ayırt edebileceksiniz.
+
+    ***
+1. “En hakiki mürşit, ilimdir.” cümlesindeki “en” sözcüğünün türü aşağıdakilerden hangisidir?
+    - A-) Zamir
+    - B-) İsim
+    - **Cevap C-) Zarf**
+    - D-) Bağlaç
+    - E-) Edat
 
     > **Açıklama:** Sözcük öbeklerini ayırt edebileceksiniz.
 
@@ -8800,7 +9352,8 @@
     - D-) Yarınki sanat konferansında konuşma yapacağım.
     - **Cevap E-) Gemi yarın limanda olacakmış.**
 
-    > **Açıklama:** "Babamın emekliliği" "kardeşimin notları", "arkadaşımın ablası" isim tamlaması
+    > **Açıklama:** Sözcük öbeklerini ayırt edebileceksiniz.
+    > "Babamın emekliliği" "kardeşimin notları", "arkadaşımın ablası" isim tamlaması
     > "iyi bir yaşam",sıfat tamlaması "yarınki sanat konferansı" aitlik öbeği var.
     > E seçeneğinde sözcük öbeği yoktur.
 
@@ -8900,6 +9453,21 @@
     > Takısız ad tamlaması
     > Aitlik öbeği
     > Ünlü öbeği
+
+    ***
+1. Aşağıdakilerden hangisi sıfat tamlaması değildir?
+    - A-) Engin deniz
+    - **Cevap B-) Dumanın karası**
+    - C-) Beyaz badanalı ev
+    - D-) Beş ton kömür
+    - E-) Ağlayan bebekler
+
+    > **Açıklama:** Sözcük öbeklerini ayırt edebileceksiniz.
+    > Cevap: Sıfat Tamlaması
+    > Adı nitelemek ve/ya belirtmek amacıyla oluşan sözcük öbeğidir. Sıfat tamlamasının olu- şumunda birden fazla sıfat bir adı niteleyebilir ya da belirtebilir. Tamlayan (sıfat) da tam- lanan (ad) da bir sözcük öbeği olabilir. Sıfat tamlamaları cümlede ad, sıfat ve zarf görev- lerinde bulunabilir.
+    > Örnek: Mavi deniz, sıcak güneş ve dost sohbeti...
+    > İşte tatil. Beyaz badanalı, kırmızı kiremitli evler yol boyunca dizilmişti.
+    > Kadın pazardan üç kilo elma aldı.
 
     ***
 1. Birleşik cümle kaça ayrılır?
@@ -9099,6 +9667,17 @@
 
     > **Açıklama:** Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.
     > Doğru cevap a şıkkıdır
+
+    ***
+1. Bir dildeki sözcüklerin, sözcük öbeklerinin cümle ve söz içindeki görevlerini, birbirleriyle olan ilişkilerini, sıralanışlarını ve cümle türlerini ele alıp inceleyen bilim dalına ne ad verilir?
+    - A-) Morfoloji
+    - B-) Semantik
+    - C-) Pragmatik
+    - **Cevap D-) Sözdizimi**
+    - E-) Kullanım
+
+    > **Açıklama:** Sözcük öbeklerini ayırt edebileceksiniz.
+    > Bir dildeki sözcüklerin, sözcük öbeklerinin cümle ve söz içindekii görevlerinii, birbirleriyle olan ilişkilerinii, sıralanışlarını ve cümle türleriinii ele alıp iinceleyen bilim dalına cümle bilgisii ya da söz dizimii denir. Doğru cevap D şıkkıdır.
 
     ***
 1. Aşağıdakilerden hangisi belirtisiz isim tamlamasına örnek olarak verilebilir?
@@ -9354,6 +9933,22 @@
     > A, B, C ve D seçeneklerinde adla yapılan birleşik eylem, E seçeneğinde eylemle yapılan birleşik eylem vardır. Doğru yanıt E
 
     ***
+1. Aşağıdaki cümlelerin hangisinde sıfat-fiil öbeği bulunmaktadır?
+    - **Cevap A-) Herkes gördüğü bu güzellik karşısında büyülenmişti.**
+    - B-) Annesinin geceleri gizli gizli ağlayışını hatırlayıp üzülürdü.
+    - C-) Uzun bir aradan sonra işe dönmek iyi olmuştu.
+    - D-) Gözündeki yaşları silerek yüzüğünü uzattı.
+    - E-) Murat iş yerinden ayrılır ayrılmaz kardeşini aradı.
+
+    > **Açıklama:** Sıfat-Fiil Öbeği
+    > Sıfat-fiil eklerinin eyleme eklenmesiyle oluşan sözcük öbeğidir. Sıfat-fiil öbeği, cümlenin
+    > bütün ögelerini oluşturabilir.
+    > Örnek: Büyük sınava hazırlanan öğrencileri gördükçe üzülürüm.
+    > Yaşanacak güzel günlerimiz var.
+    > Herkes gördüğü bu güzellik karşısında büyülenmişti.
+    > Doğru yanıt A
+
+    ***
 1. Özne bir sözcük olabileceği gibi bir sözcük öbeğinden de oluşabilir. Aşağıdaki cümlelerin hangisinde böyle bir örnek görülür?
     - A-) Ablam ve abim tatil başladığı için çok mutlulardı.
     - B-) Kar, her yeri kaplayan kar, bizi eve hapsetmişti.
@@ -9449,6 +10044,16 @@
     > **Açıklama:** "Leyla ile Mecnun", "sen ve ben" bağlama öbeğine örnektir. Doğru cevap C'dir.
 
     ***
+1. Bir ad ve bir yardımcı eylemle ya da iki eylemin birleşmesinden oluşan sözcük öbeği aşağıdakilerden hangisidir?
+    - **Cevap A-) Birleşik Eylem Öbeği**
+    - B-) Tekrar öbeği
+    - C-) Sayı öbeği
+    - D-) Edat öbeği
+    - E-) Ünvan öbeği
+
+    > **Açıklama:** Birleşik Eylem Öbeği; bir ad ve bir yardımcı eylemle ya da iki eylemin birleşmesinden oluşan sözcük öbeğidir.
+
+    ***
 1. Aşağıdakilerden hangisi kısaltma öbeklerinden biri **değildir**?
     - A-) İlgi öbeği
     - **Cevap B-) Edat öbeği**
@@ -9535,6 +10140,16 @@
     > **Açıklama:** Bir ad/ad soylu sözcük ve onu izleyen çekim edatının bir araya gelmesi ile oluşan sözcük öbeğidir. “Başına gelenlerden dolayı çok üzgün.” Seçeneğinde –den dolayı edatı kullanılması bu cümleyi edat öbeği yapmıştır.
 
     ***
+1. Aşağıdakilerden hangisi betimsel eylemler olarak adlandırılır?
+    - A-) Adla yapılan birleşik eylemler
+    - **Cevap B-) Eylemle yapılan birleşik eylemler**
+    - C-) Tekrar öbeği
+    - D-) İsim- fiil öbeği
+    - E-) Zarf- fiil öbeği
+
+    > **Açıklama:** Eylemle yapılan birleşik eylemler, betimsel eylemler olarak adlandırılır. Betimsel eylemler asıl eyleme “tezlik, yeterlilik, süreklilik, beklenmezlik, yaklaşma” anlamları ile bağlanır ve asıl eylemin kılınış çeşidini göstermeye yarar.
+
+    ***
 1. İlk ögesi yaklaşma (yönelme) durum eki taşıyan kısaltma öbeği aşağıdakilerden hangisidir?
     - A-) İlgi öbeği
     - B-) Belirtme öbeği
@@ -9565,6 +10180,17 @@
     > **Açıklama:** Üçüncü tekil kişi anlatıma saygı katmak için kullanıldığında özne tekil olduğu hâlde yüklem üçüncü çoğul olabilir.
     > Zahide Hanım ne zaman toplantıya gidecekler.
     > Özne-tekil yüklem-çoğul
+
+    ***
+1. “Seda Hanım uzun yıllardan beri şehir merkezinde yaşıyordu.” Cümlesinde yer tamlayıcısı aşağıdakilerden hangisidir?
+    - A-) uzun yıllardan beri
+    - B-) şehir
+    - C-) merkezi
+    - D-) yaşıyordu
+    - **Cevap E-) şehir merkezi**
+
+    > **Açıklama:** Seda Hanım uzun yıllardan beri şehir merkezinde yaşıyordu.
+    > Özne yer tam yüklem
 
     ***
 1. Aşağıdaki cümlelerden hangisinde birden fazla zarf tümleci bulunmaktadır?
@@ -9638,14 +10264,14 @@
     > **Açıklama:** Yukarıdaki cümle emir cümlesi yapısına uygun bir cümledir. Doğru cevap A'dir.
 
     ***
-1. Bağlama edatlarıyla birbirine bağlanmış ve aralarında anlamca ilişki bulunan sıralı cümlelere \_\_\_\_ cümle denir.  Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?
+1. Bağlama edatlarıyla birbirine bağlanmış ve aralarında anlamca ilişki bulunan sıralı cümlelere \_\_\_\_ cümle denir. Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?
     - A-) Sıralı
     - B-) Birleşik
     - **Cevap C-) Bağlı**
     - D-) Basit
     - E-) Olumsuz
 
-    > **Açıklama:** Bağlama edatlarıyla birbirine bağlanmış ve aralarında anlamca ilişki bulunan sıralı cümlelere bağlı cümle denir. Doğru cevap C'dir.
+    > **Açıklama:** Bağlama edatlarıyla birbirine bağlanmış ve aralarında anlamca ilişki bulunan sıralı cümlelere bağlı cümle denir. Doğru cevap C'dir.
 
     ***
 1. Aşağıdaki cümlelerin hangisinde öğelere ayırmada bir yanlışlık yapılmıştır?
@@ -9699,6 +10325,16 @@
     > **Açıklama:** Birleşik eylem bir ad ve bir yardımcı eylemle ya da iki eylemin birleşmesinden oluşan sözcük öbeğidir. Birleşik eylemlerde anlamca kaynaşma söz konusudur
 
     ***
+1. Hangi cümlede belirtisiz ad tamlaması vardır?
+    - **Cevap A-) Belki de hayatının değişmesine sebep olacak fotoğraf yarışması için sabah akşam çalışmaya başlamıştı.**
+    - B-) Kaderin cilvesi işte, o kadar uzun süre bekledi ve vazgeçtiğinde oldu.
+    - C-) Çok zor oluyordu her şey ama aşkı her şeye değerdi sevgilisinin.
+    - D-) Herkes sakinleşse de babamın inadı geçmedi.
+    - E-) Gitarının telleri sürekli kopup duruyor.
+
+    > **Açıklama:** "Belki de hayatının değişmesine sebep olacak fotoğraf yarışması için sabah akşam çalışmaya başlamıştı." cümlesindeki "fotoğraf yarışması" belirtisiz ad tamlamasıdır.
+
+    ***
 1. "Bulunan bütün bu çözümler sadece tıbbın ve kimyanın zaferi değildir." cümlesinde yüklem hangi seçenekte doğru olarak verilmiştir?
     - A-) değildir
     - B-) zaferi değildir
@@ -9732,6 +10368,16 @@
     > D- Burada yoldan denize kadar inen büyük kayalar üstünde oturup, akşam saatlerini geçirmeyi = Belirtili nesne
     > E- en güzel şiirlerini deniz kıyısındaki küçük evde mehtaplı gecelerde yazdığını = Belirtili nesne
     > B şıkkında belirtili nesne yoktu
+
+    ***
+1. Aşağıdaki cümlelerin hangisinde yüklem ek eylem ile çekimlenmiş belirtili ad tamlamasında çekilmiş bir sözcük öbeğidir?
+    - A-) Onun bana neden kızdığını hiç anlayamadım.
+    - B-) Son kez yazdıklarımı okudum, düzeltmeleri yaptım.
+    - C-) Eskiden sesini duyunca içimde bir mutluluk dalgası yayılırdı.
+    - **Cevap D-) Üzüldüğü durum, babasının nedeni bilinmeyen hastalığıdır.**
+    - E-) Ben ki en çok seni sevdim, sen beni anlamadın.
+
+    > **Açıklama:** Üzüldüğü durum, babasının nedeni bilinmeyen hastalığıdır. Cümlesinde "babasının nedeni bilinmeyen hastalığı" ek eylem ile çekimlenmiş belirtili ad tamlamasında çekilmiş bir sözcük öbeğidir.
 
     ***
 1. Hangi cümlede zarf tümleci kullanılmamıştır?
@@ -9827,6 +10473,17 @@
     - E-) Ayrılma öbeği
 
     > **Açıklama:** Senede bir gün ilk ögede bulunma hali taşıdığı için bulunma öbeğine örnektir.
+
+    ***
+1. "Adam, sırıklara bağlı fasulyelerin küçük, ürkek çiçeklerini gördü." cümlesinde hangi kısaltma öbeği kullanılmıştır?
+    - A-) İlgi öbeği
+    - B-) Belirtme öbeği
+    - **Cevap C-) Yaklaşma öbeği**
+    - D-) Bulunma öbeği
+    - E-) Ayrılma öbeği
+
+    > **Açıklama:** Adam, sırıklara bağlı fasulyelerin küçük, ürkek çiçeklerini gördü.
+    > sırıklara bağlı yaklaşma öbeğidir.
 
     ***
 1. Aşağıdakilerden hangisi belirtili ad tamlamasının tamlanan ögesindeki iyelik ekinin düşmesiyle oluşan kısaltma ögesine örnektir?
@@ -10233,6 +10890,19 @@
     > **Açıklama:** Örnek cümlede edat öbeği temel cümlede değil şart cümlesindedir.
 
     ***
+1. 'O biliyor ki bu işi hiç başaramayacak.'<br />Yukarıdaki cümleyle ilgili aşağıdaki ifadelerden hangisi doğrudur?
+    - **Cevap A-) Yapısına göre ki'li birleşik cümledir.**
+    - B-) Yapısına göre basit cümledir.
+    - C-) Yapısına göre sıralı cümledir.
+    - D-) Yüklemine göre isim cümlesidir.
+    - E-) Ögelerinin dizilişine göre devrik cümledir.
+
+    > **Açıklama:** Birleşik cümle türlerinden biri olan ki’li Birleşik Cümle: Bir temel cümle ile temel cümleye ki bağlacı ile bağlanan bir
+    > yan cümleden oluşan birleşik cümledir. Bu yapıdaki cümlelerde temel cümle, yan
+    > cümleden önce yer alır.
+    > Bu cümlede de iki cümle ki ile birbirine bağlıdır.
+
+    ***
 1. Bir yargı bildirmek için tek başına çekimli bir eylem veya çekimli bir eylemle kullanılan kelimeler dizisine ne ad verilir?
     - **Cevap A-) Tümce**
     - B-) Cümle bilgisi
@@ -10333,6 +11003,16 @@
     > **Açıklama:** "gül reçeli ve doğumgünü hediyesi" belirtisiz ad tamlamaları, "dedemin sakalları ve gecenin körü" belirtili ad tamlamalarıdır. Takısız ad tamlaması her iki sözcüğün de ek almadığı ad tamlamasıdır. Bu tür ad tamlamalarında tamlanan ögenin niteliği, benzetme ve/ya neden yapıldığını belirtilir. "yün kazak" buna bir örnektir. Doğru cevap B'dir.
 
     ***
+1. "Narin Teyze ve kızı Selma, Pazar sabahı arabayla İstanbul'a gelecekler."<br />Yukarıdaki cümlede aşağıdaki sözcük öbeklerinden hangisi **yoktur**?
+    - A-) Edat öbeği
+    - B-) Unvan öbeği
+    - C-) Bağlama öbeği
+    - **Cevap D-) Aitlik öbeği**
+    - E-) İsim tamlaması
+
+    > **Açıklama:** 'Narin Teyze' unvan öbeği, 'Narin Teyze ve kızı Selma' bağlama öbeği, 'Pazar sabahı' isim tamlaması, 'arabayla' edat öbeğidir. Aitlik öbeği, aitlik eki “-ki” ile oluşturulan sözcük öbeğidir. Cümlede zamir (bizimki gidiyor) ya da sıfat (bahçedeki kadın) görevindedir. Cümlede buna örnek bir kullanım yoktur. Doğru cevap D'dir.
+
+    ***
 1. Aşağıdaki cümlelerin hangisinde edat öbeği vardır?
     - A-) Sıska ve çelimsiz bir çocuktu.
     - **Cevap B-) Beni param var diye mi sevdin?**
@@ -10351,6 +11031,26 @@
     - **Cevap E-) Sen çözümü düşünedur, ben anneme sofrayı hazırlamasında yardım edeyim.**
 
     > **Açıklama:** Birleşik eylem öbeği, bir ad ve bir yardımcı eylemle ya da iki eylemin birleşmesinden oluşan sözcük öbeğidir. Adla yapılan birleşik eylemler: “ad + yardımcı eylem” şeklinde oluşturulan birle- şik eylemlerdir. Bu tür bileşik eylemlerde söz konusu olan yardımcı eylemler “et-, ol-, eyle-, bulun-, kıl-, yap-” eylemleridir. “et- , eyle-, yap-, kıl-” yardımcı eylemleri ile geçişli birleşik eylemler ; “ol-, bulun-” yardımcı eylemleri ile de geçişsiz birleşik eylemler yapılır. Eylemle yapılan birleşik eylemler: “eylem+ zarf-eylem + yardımcı eylem” şeklinde oluşturulan birleşik eylemlerdir. “bil-, ver-, gel-, gör-, kal-, dur-, yaz-, koy-” yardımcı eylemleri ile oluşturulan birleşik eylemlerde eylem ile yardımcı eylem arasına “ –A, -I , -U” bazen de “-ıp /-ip” zarf-eylemleri girer. "düşünedurmak ve yardım etmek" bunlara örnektir. Doğru cevap E'dir.
+
+    ***
+1. "Issız bir Paris gecesinde bir sokakta gördü yıllardır özlemle beklediği aşkını."<br />Yukarıdaki cümlenin öge dizilişi aşağıdakilerden hangisinde sırasıyla ve doğru olarak verilmiştir?
+    - A-) Dolaylı tümleç - özne - yüklem - nesne
+    - B-) Zarf tümleci - özne - dolaylı tümleç - nesne
+    - C-) Zarf tümleci - yüklem - dolaylı tümleç - özne
+    - D-) Nesne - dolaylı tümleç - yüklem - zarf tümleci
+    - **Cevap E-) Zarf tümleci - dolaylı tümleç - yüklem - nesne**
+
+    > **Açıklama:** Issız bir Paris gecesinde =zarf tümleci, bir sokakta= dolaylı tümleç, gördü= yüklem, yıllardır özlemle beklediği aşkını= nesne durumundadır. Doğru cevap E'dir.
+
+    ***
+1. Aşağıdaki cümlelerin hangisinde öğelere ayırmada bir yanlışlık yapılmıştır?
+    - A-) Semavi Bey / bir sabah / babasının kahvaltıya inmemiş olduğunu / gördü.
+    - **Cevap B-) İçine / yağmurlu bir günde birdenbire / açan güneş gibi doyumsuz bir sevinç / doldu.**
+    - C-) Hiç kurtulamayacağını sandığı adam / sonunda / ölmüştü.
+    - D-) Uzak akrabaların yalancı gözyaşlarıyla dolu geçen bir hafta / onu / çok / yormuştu.
+    - E-) Babasının ölümünü takip eden bir hafta boyunca / bunları / anlattı.
+
+    > **Açıklama:** İçine = dolaylı tümleç, yağmurlu bir günde= zarf tümleci, birdenbire=zarf tümleci, açan güneş gibi doyumsuz bir sevinç= özne, doldu= yüklem olmalıdır. Doğru cevap B'dir.
 
     ***
 1. "Resmi beyaz perde üzerinde kımıldayan, kirpiğinin her teli bir ok gibi dikilmiş güzel kadının gözünden damla damla akan sahte gözyaşları, insanı derinden yaralıyordu."<br />Yukarıdaki cümlede aşağıdaki ögelerden hangisi **yoktur**?
@@ -10712,6 +11412,16 @@
     > **Açıklama:** Bir dilin zenginliği; ne sözcük sayısının çokluğuyla ne o dili konuşan insan sayısının fazlalığıyla ne de dilin konuşulduğu coğrafyanın genişliğiyle ilgilidir. Dillerin zenginliğinin başta gelen ölçüsü çeşitli duygu, düşünce ve **kavram**ları anlatabilme gücüdür. Duygu, düşünce ve kavramları dile getirebilmek için sözcük sayısının çok olması önemli olmakla birlikte, bundan daha önemlisi dilin sözcük türetme ve **soyutlama** gücüdür. Doğru cevap A’ dır.
 
     ***
+1. Deyimlerle ilgili olarak aşağıdakilerden hangisi doğrudur?
+    - A-) Yargı bildirirler.
+    - **Cevap B-) Anlamları derindir.**
+    - C-) Öğüt verirler.
+    - D-) Bitişik yazılırlar
+    - E-) Ek almazlar.
+
+    > **Açıklama:** Anlam bakımından bileşik sözcükler ve deyimler birbirinden farklıdır. Deyimler derin anlama sahip yapılar iken, birleşik sözcüklerin böyle bir özelliği yoktur. Doğru cevap B’ dir.
+
+    ***
 1. Aşağıdakilerden hangisi atasözüdür?
     - A-) Bu sözü gönlüme su serpti.
     - B-) Ayağının tozu le buraya geldi.
@@ -10770,6 +11480,16 @@
     - **Cevap E-) İlişki sözü**
 
     > **Açıklama:** **İlişki Sözleri:** İlişki sözleriyle ilgili olarak özetle şunlar söylenebilir: Bu sözler; yüzyıllarca geriye gi­den bir geleneğin yansımaları, bir toplumun kültür hayatının âdeta özünü içinde barındı­ran, insan ilişkilerindeki nezaket ve inceliğin düzeyini gösteren, kalıplaşmış, kullanıldık­larında insanlar arasında bir sıcaklık oluşturan sözlerdir. Türkün medeniyet dünyasında yetişmiş olan bir insan bir yakınını veya herhangi bir insanı yolcu ederken şunları söyler: *Güle güle, yolun açık olsun, güle güle git güle güle gel, uğurlar olsun, Allah yolunuzu açık etsin, hayırlı yolculuklar, iyi yolculuklar, selametle, uğurunuz açık olsun, Hızır yoldaşın olsun* vb. Olağan hayattaki küçük ya da büyük her­hangi bir değişiklikte bu ve benzeri pek çok kalıp sözü duyar ve yeri gelince kendimiz de kullanırız. Gerek bu ilişki sözleri, gerekse önceki kuşaklardan öğrenip içinde yaşadığımız ve sonraki kuşaklara aktararak onların da hayatlarını biçimlendirecek olan ana dilimizin bütün unsurları, kimliğimizi oluşturan en temel varlık ve zenginliktir. Verilen örnekte de iş üzerinde olan, çalışmakta olanlara yaklaşıldığında kullanılması adet olan bu türden bir söz kullanılmıştır. Doğru cevap E’ dir.
+
+    ***
+1. Aşağıdaki metin seçeneklerden hangisini örnekler?<br />*Akar senin suların Kazılık tağı*<br />*Akar iken akmaz olsun!*<br />*Biter senin otların Kazılık tağı*<br />*Biter iken bitmez olsun!*<br />*Kaçar senin geyiklerin Kazılık tağı*<br />*Kaçar iken kaçmaz olsun!*
+    - A-) Alkış
+    - B-) Dua
+    - C-) Övgü
+    - **Cevap D-) Kargış**
+    - E-) Nesir
+
+    > **Açıklama:** Dilin söz varlığının hiç azımsanmayacak ve ihmal edilmeyecek bir bölümünü de uzman­ların alkış ve kargış dediği dua ve beddualar oluşturmaktadır. Alkış, günümüzde biraz değişik bir anlamla kullanılmaktadır. Bugün bir hareketi veya durumu beğenmeyi, onay­lamayı göstermek üzere yapılan hareketi ifade eden *alkış* sözcüğü, eski dilde *dua* anlamına kullanılmıştır. Alkamak *“övmek”,* alkış ise *“övgü”* demektir. Alkamak fiilinin zıt anlamlısı olarak kullanılan kargamak ise *“beddua etmek”,* bu sözcükten türetilmiş olan *kargış* ise *“beddua”* anlamındadır. Alkış ve kargışlar nesir ya da nazım olabilir, ancak manzum özellikler gösterenler ya­zılı metinlerimizde de karşımıza çıkar. Dede Korkut Hikâyeleri bu bakımdan örnek bir metindir ve içerisinde alkış- kargış olarak kabul edilecek bölümler vardır. Verilen örnek Dede Korkut’tan alınmış manzum bir kargış örneğidir. Doğru cevap D’ dir.
 
     ***
 1. Aşağıdakilerden hangisi Türkçenin türetme eğilimini gösteren bir örnektir?
@@ -10903,6 +11623,16 @@
     > **Açıklama:** Toplumların hayatın akışı içerisinde oluşan bilge yönlerini, kazandıkları deneyimleri, dünyaya bakışlarını, anlatım yeteneklerini yansıtan ve çok uzun süre düşünce dünyasında yaşamaya devam edebilen bir tür kalıplaşmış sözlere atasözü denir. Doğru cevap D'dir.
 
     ***
+1. Aşağıdakilerden hangisi mertlikle alakalı bir atasözüdür?
+    - A-) Ağırlık altın kale, hafiflik başa bela.
+    - B-) Sabırla koruk helva olur, dut yaprağı atlas.
+    - C-) Baban varken dost tanı, atın varken yol tanı.
+    - D-) Hısım akraba ile ye iç, alışveriş etme.
+    - **Cevap E-) Aman diyene kılıç kalkmaz.**
+
+    > **Açıklama:** "Aman diyene kılıç kalkmaz.” atasözü mertlikle alakalıdır. Doğru cevap E'dir.
+
+    ***
 1. Aşağıdaki deyimlerden hangisi halen kullanılmakta olan bir sözcükle eski devirlerde kullanılmış olan bir sözcüğün yan yana gelmesiyle kurulmuştur?
     - **Cevap A-) Yarım yamalak**
     - B-) Şırıl şırıl
@@ -10974,6 +11704,16 @@
     > **Açıklama:** Deyim, gercek anlamından az çok farklı bir anlam taşıyan, en az iki sözcükten kurulmuş, çekici ve etkileyici bir anlatıma sahip kalıplaşmış söz olarak tanımlanabilir. Doğru cevap C'dir.
 
     ***
+1. Aşağıda verilen cümlelerin hangisi deyime örnek olarak verilebilir?
+    - **Cevap A-) Elini çabuk tutarsan bizimle gelebilirsin.**
+    - B-) Dün akşamki maç oldukça çekişmeliydi.
+    - C-) Bahçedeki ağaç bu yıl da meyve vermedi.
+    - D-) Yolculuk yoğunluktan dolayı oldukça uzun geçti.
+    - E-) Tertemiz bir gelecek için herkes sorumluluk almalı.
+
+    > **Açıklama:** Elini çabuk tutmak deyimi acele etmek anlamında kullanılmıştır. Doğru cevap A'dır.
+
+    ***
 1. Aşağıdakilerden hangisi deyimlere örnek **gösterilemez**?
     - A-) Akıl küpü
     - **Cevap B-) Sabretmek**
@@ -10994,6 +11734,16 @@
     > **Açıklama:** Tabir Osmanlı’da deyim için kullanılan kelimelerden bir tanesidir. Doğru cevap C'dir.
 
     ***
+1. Aşağıda verilen bilgilerden hangisi atasözleri ile ilgili söylenebilir?
+    - **Cevap A-) Az sözcükle çok şey anlatırlar.**
+    - B-) Kişi ve zamana göre çekimlenebilir.
+    - C-) Cümlede kelimelerin yerleri değişebilir.
+    - D-) Aynı sözcüğün tekrarlanmasından oluşur.
+    - E-) Eş anlamlı kelimeler birbiri yerine kullanılabilir.
+
+    > **Açıklama:** Atasözlerinde hiçbir sözcüğü değiştirilemez ve atılamaz duruma gelirler. Eş anlamlısı bile olsa atasözünün bir sözcüğü değiştiğinde üslubunun değiştiği ve etkisinin azaldığı görülür. Aynı sözcüğün tekrarlanması ikilemedir. Az sözcükle çok şey anlatma atasözlerinin en belirgin yapı ve anlam özelliğidir. Doğru cevap A'dır.
+
+    ***
 1. Aşağıdaki ikilemelerden hangisi diğerlerinden farklı bir şekilde oluşmuştur?
     - A-) Soy sop
     - B-) Eğri büğrü
@@ -11012,6 +11762,16 @@
     - E-) Düzgün bir kılık kıyafetle evden çıkmasını istedi.
 
     > **Açıklama:** Harıl harıl çalışarak tüm ödevleri zamanında bitirdi cümlesindeki harıl harıl yansıma kaynaklı bir ikilemedir. Doğru cevap D'dir.
+
+    ***
+1. Aşağıdaki kelimelerden hangisi eski dilde dua anlamına gelmektedir?
+    - A-) Ağız
+    - B-) İlenç
+    - **Cevap C-) Alkış**
+    - D-) Argo
+    - E-) Kargış
+
+    > **Açıklama:** Alkış yani dua, insanın kendisi, ailesi, yakınları, içinde yaşadığı toplum, milleti, dindaşları ya da bütün insanlık için inandığı Tanrı’dan yardım istemesi, sağlık, mutluluk, refah ve huzur arzusunu bildirmek üzere yaratıcısına hitap etmesi, seslenmesidir. Doğru cevap C'dir.
 
     ***
 1. Aşağıdakilerden hangisi deyim kavramını karşılamak üzere Osmanlı Türkçesinde kullanılan kelimelerden biri değildir?
@@ -11064,6 +11824,16 @@
     > **Açıklama:** Alıntı sözler “ödünçleme” olarak da adlandırılmaktadır. Bir dilden başka bir dile geçen sözler genellikle geçtiği dilin ses yapısına uydurulmaya çalışılır. Doğru yanıt A'dır.
 
     ***
+1. Aşağıdakilerden hangisi bir dilin kollarından birinin yani bir lehçesinin bir ülke ya da bölge içerisinde küçük ses farklılıklarıyla birbirinden ayrılan kollarına verilen isimdir?
+    - A-) Deyim
+    - B-) Atasözü
+    - C-) İkileme
+    - **Cevap D-) Ağız**
+    - E-) Argo
+
+    > **Açıklama:** Bir dilin kollarından birinin yani bir lehçesinin bir ülke ya da bölge içerisinde küçük ses farklılıklarıyla birbirinden ayrılan kollarına ağız denir. Doğru yanıt D'dir.
+
+    ***
 1. Türk argosunda kullanılan yabancı sözcüklerin çok büyük bir kısmı hangi dildir?
     - A-) Rusça
     - **Cevap B-) Rumca**
@@ -11092,6 +11862,26 @@
     - E-) Üretme kavramı
 
     > **Açıklama:** Türetme kavramı, dili konuşanların yeni karşılaştıkları kavramlara dil içerisinde çeşitli yollarla karşılıklar oluşturmaları biçiminde tanımlanabilir. Doğru yanıt B'dir.
+
+    ***
+1. Türkçe yapı bakımından nasıl bir dildir?
+    - A-) Çekimli
+    - B-) Kaynaştıran
+    - **Cevap C-) Eklemeli**
+    - D-) Yalınlayan
+    - E-) Bükünlü
+
+    > **Açıklama:** Dünya dillerinin yapı bakımından başlıca bitişken (eklemeli diller), bükünlü (çekimli) diller, yalınlayan diller olmak üzere üçe ayrılır. Türkçe, yapı bakımından sondan eklemeli bir dildir.
+
+    ***
+1. I. Deyimler<br />II. Argolaşmış Sözler<br />III. Alkış ve kargışlar<br />IV. İkilemeler<br />Yukarıdakilerden hangisi ya da hangileri bir dilin söz varlığı kapsamında değerlendirilebilir?
+    - A-) I ve II
+    - B-) II ve III
+    - C-) II, III ve IV
+    - D-) I, II ve III
+    - **Cevap E-) I, II, III ve IV**
+
+    > **Açıklama:** Türkçenin ya da herhangi bir dilin söz varlığı denildiğinde, yalnızca o dilin sözlüğünde yer alan sözcükler değil; deyimler, atasözleri, kalıp sözler, ikilemeler, terimler, argolaşmış sözler, ilişki sözleri, alkış ve kargışlar gibi çeşitli anlatım kalıpları akla gelmelidir.
 
     ***
 1. I. Bir dilin zenginliği sözcük sayısıyla doğru orantılıdır.<br />II. Bir dilin söz varlığı, o dili konuşan insanların tarih macerası ile ilgili fikir verir.<br />III. Dilin sözcük türetme ve soyutlama gücü en az sözcük sayısı kadar önemlidir.<br />Dil ile ilgili yukarıdakilerden hangisi ya da hangileri söylenebilir?
@@ -11124,6 +11914,26 @@
     > **Açıklama:** Dil kullanımının dikkat edilmesi gereken bir diğer boyutu da mecazlı anlatımlardır. Mecazlı kullanım, bir sözcüğün asıl anlamı yanında farklı anlamlara gelecek biçimde de kullanılmasıdır ancak bu kullanımda da dili konuşanların “anlama ortaklığı”na gerek vardır. Bir dilin söz varlığının çeşitlenmesinde ve anlatım gücünün artmasındaki en başta gelen unsur o dilin mecaz dünyasıdır. Mecaz dünyasının zenginliği, yetenekli sanatçıların dili geliştirmesiyle ilgili olduğu gibi bu zenginlik, sanatçıların kendilerini daha iyi ifade etmelerinin de esasını oluşturur. Yani burada karşılıklı birbirini besleme söz konusudur.Sözcükler, ilk ortaya çıktıklarında somut bir durum ya da kavramı karşılayan tek anlama sahip olur. Zaman ilerledikçe ve insanlar tarafından kullanıldıkça sözcüklerde anlam genişlemeleri olur.
 
     ***
+1. Deyimler ile ilgili aşağıdakilerden hangisi yanlıştır?
+    - A-) Deyimlerde yer alan sözcükler değişiklik gösterebilirler.
+    - B-) Deyimler kalıplaşmış söz gruplarıdır.
+    - C-) Deyimler benzetme yoluyla bir durumu açıklar.
+    - **Cevap D-) Deyimler yargı bildirirler.**
+    - E-) Her dilin söz varlığında deyimler vardır.
+
+    > **Açıklama:** Deyimler anlatıma açıklık kazandıran ve renk katan söz varlığı ögeleridir. Her dilin söz varlığında deyimler vardır. Kimi deyimler belirli dillere özgü olsa da bunların benzerleri başka dillerde de görülebilir. Konuyla ilgili çalışma yapanların tanımlarından hareketle şöyle bir deyim tanımı yapılabilir: İki veya daha fazla sözcükten oluşan, anlatım gücünü artırmak için az çok mantık dışına kayan, gerçek anlamından uzak, ilgi çekici bir anlam yüküne sahip, bazı sözcükleri değişmeyip bazıları değişebilen, toplum tarafından ortaklaşa benimsenen kalıplaşmış söz gruplarına deyim denir. Deyimler, anlam ögesi olarak incelendiğinde, içerisindeki sözcükler ayrı ayrı değil hepsi bir bütün olarak değerlendirilmelidir. Bu yönüyle deyimler, tıpkı sözcükler gibi bir dilin sözlüğünün içerisinde madde başı olarak yer almalıdırlar. Yani bir başka anlatımla deyimler, sözcükler gibi, sözlük maddesi olan anlam birimleridir.Deyimler yargı bildirmezler. Deyimler; bir durumu, olayı ya da varlığı tasvir etmek, açıklamak, ifade etmek amacıyla etkili anlatımından yararlanılan kalıplaşmış söz gruplarıdır.
+
+    ***
+1. Aşağıdakilerden hangisi deyim değildir?
+    - A-) Gönlünde taht kurmak
+    - B-) Çam devirmek
+    - **Cevap C-) Ecel geldi cihana, baş ağrısı bahane.**
+    - D-) Aklı başında
+    - E-) Ayağının tozu ile
+
+    > **Açıklama:** "Ecel geldi cihana, baş ağrısı bahane" bir atasözüdür, yargı bildirir.
+
+    ***
 1. Atasözleri ile ilgili aşağıdakilerden hangisi doğrudur?
     - A-) Bütün dillerdeki atasözleri aynı konuları işler.
     - B-) Atasözlerinin uzun olması önemlidir.
@@ -11132,6 +11942,16 @@
     - E-) Atasözleri genellikle tek kısımdan oluşurlar.
 
     > **Açıklama:** Doğru cevap D.
+
+    ***
+1. Aşağıdakilerden hangisi yansıma kaynaklı ikilemelere örnektir?
+    - A-) Güzeller güzeli
+    - B-) Hay hay
+    - C-) O bu
+    - D-) Öbek öbek
+    - **Cevap E-) Fokur fokur**
+
+    > **Açıklama:** Doğru cevap E'dir.
 
     ***
 1. Türkçenin türetme gücü, yapısı ve işletme biçimi ile ilgili aşağıdakilerden hangisi söylenemez?
@@ -11214,6 +12034,16 @@
     > **Açıklama:** Alkış dua, kargış ise beddua anlamına gelmektedir. İlk dört seçenekte alkış örnekleri verilmiştir. Otların biter iken bitmez olsun! İfadesinde ise olumsuz bir istem bulunmakta yani beddua edilmektedir. Bu nedenle bu ifade bir kargış örneğidir.
 
     ***
+1. Aşağıdaki sözcüklerden hangisi farklı bir biçimde oluşturulmuştur?
+    - **Cevap A-) nasıl**
+    - B-) yolcu
+    - C-) iletişim
+    - D-) güçlenmek
+    - E-) bakış
+
+    > **Açıklama:** Türkçede türetme, birleştirme ve ekleme olmak üzere iki yolla gerçekleştiriliir. Nasıl sözcüğü “ne+asıl” sözcüklerinin birleşmesi suretiyle yani birleştirme yoluyla oluşturulmuştur. Diğer seçeneklerde verilen sözcükler ise ekleme yoluyla oluşturulmuştur.
+
+    ***
 1. Aşağıdakilerden hangisi *söz varlığı* yerine kullanılan terimlerden biri **değildir**?
     - A-) sözcük dağarcığı
     - B-) kelime hazinesi
@@ -11232,6 +12062,16 @@
     - E-) Dili estetize etmede kullanılması
 
     > **Açıklama:** Mecaz bir dilin zenginleşmesinin önemli yolarından biridir. Özellikle sanatçılara daha iyi ifade imkânı sağlar. Ancak günlük iletişimde gerçek anlamından çok farklı biçimde kullanılabilmesinden dolayı “anlama ortaklığına” ihtiyaç duyar. Bu anlama ortaklığı gerçekleşmediğinde de iletişim sorunlarına yol açması muhtemeldir.
+
+    ***
+1. Türkçede söz varlığı yerine aşağıdaki kavramlardan hangisi kullanılmaz?
+    - A-) söz dağarcığı
+    - B-) kelime dağarcığı
+    - C-) kelime kadrosu
+    - D-) kelime hazinesi
+    - **Cevap E-) sözcük serveti**
+
+    > **Açıklama:** Türkçede söz varlığı yerine söz dağarcığı, kelime dağarcığı, kelime kadrosu, kelime hazinesi gibi terimler de kullanılmaktadır. Ancak Türkçede söz varlığı yerine sözcük serveti terimi kullanılmamaktadır.
 
     ***
 1. I. Konuşan insan sayısının çokluğu<br />II. Kavramları anlatabilme gücü<br />III. Konuşulduğu coğrafyanın genişliği<br />Yukarıdaki ifadelerden hangisi bir dilin zenginliği ile öncelikli olarak ilgilidir?
@@ -11284,6 +12124,16 @@
     > **Açıklama:** Birleşik sözlerin bir kısmı bitişik yazılır, deyimler ise kesinlikle bitişik yazılmaz. Birleşik sözcüğü oluşturan iki sözcük de değiştirilemezken deyimi oluşturan sözcüklerden biri bazen değiştirilebilir. Deyimler derin anlama sahip yapılar iken birleşik sözcüklerin böyle bir özelliği yoktur. Bu iki yapı, anlam bakımından birbirinden tamamen farklıdır. Birleşik sözcüğü oluşturan iki sözcük arasında başka hiçbir ek giremezken deyimde girebilir. Aynı durum ek için de geçerlidir. Örneğin “göze almak” deyiminde “Göze mi almış?” kullanımında deyimin iki sözcüğü arasına soru edatı getirilmiştir.
 
     ***
+1. Aşağıdakilerden hangisi “acele” kavramıyla ilgili bir deyim **değildir**?
+    - **Cevap A-) Isıtıp ısıtıp önüne koymak**
+    - B-) Yangından mal kaçırır gibi
+    - C-) Bir çırpıda yapmak
+    - D-) Mürekkebi kurumamak
+    - E-) Ateş almaya gelmek
+
+    > **Açıklama:** Yangından mal kaçırır gibi, bir çırpıda yapmak, mürekkebi kurumamak ve ateş almaya gelmek “acele” kavramıyla ilgili bir deyimlerdir. Isıtıp ısıtıp önüne koymak ise önceden yaşanmış bir olayı sık sık tekrarlamaktır.
+
+    ***
 1. Aşağıdaki deyimlerden hangisinin olumsuz bir anlamı vardır?
     - A-) Gönül bağlamak
     - B-) Gönlüne su serpmek
@@ -11312,6 +12162,16 @@
     - E-) Güle güle gidip gelin.
 
     > **Açıklama:** “Hızır yoldaşın olsun. Uğurlar olsun. Yolunuz açık olsun. Güle güle gidip gelin.” Şeklindeki ilişki sözleri birini yolcu ederken kullanılmaktadır. “Sizden iyi olmasın.” ise üçüncü bir kişinin iyiliğinden söz ederken kullanılmaktadır.
+
+    ***
+1. Aşağıdakilerden hangisi Türkçe'nin söz varlığının çeşitli olmasının nedenlerinden biri *değildir* ?
+    - A-) Farklı coğrafyalarda çeşitli medeniyetler üretmiş bir dil olması
+    - **Cevap B-) Pek çok eski medeniyet diline sözcük kazandırmamış olması**
+    - C-) Çok erken devirlerde dallanıp budaklanarak lehçelere ayrılmış olması
+    - D-) Farklı coğrafyalara eserler armağan etmiş olması
+    - E-) Geçmişi çok eski tarihlere dayanıp yaşamını sürdüren bir dil olması
+
+    > **Açıklama:** Başka dillere kelime aktaran bir dil zengin bir dil veya dil varlığı çeşitli bir dil olarak kabul edilir.Gene geniş coğrafyalarda hüküm süren ve tarihi eski diller de söz varlığı çeşitli dillerdir. Doğru yanıt 'B' seçeneğinde verilmiştir.
 
     ***
 1. Bir dilin zenginliği aşağıdakilerden hangisi ile ilgilidir?
@@ -11472,6 +12332,19 @@
     - C-) Cam kırığı
     - **Cevap D-) Bet beniz**
     - E-) Kırık kol
+
+    > **Açıklama:** Türkçe söz varlığını oluşturan ögeleri tanımlayabileceksiniz.
+
+    ***
+1. Aşağıdaki ikilemelerden hangisi, yapı ve kuruluş bakımından yansıma kaynaklıdır?
+    - A-) Top top kumaş
+    - B-) Yatıp kalkıp dua etmek
+    - **Cevap C-) Harıl harıl çalışmak**
+    - D-) Tepeden tırnağa beyaz
+    - E-) Pisi pisine ölmek
+
+    > **Açıklama:** Türkçe söz varlığını oluşturan ögeleri tanımlayabileceksiniz.
+
     ***
 1. Aşağıdakilerden hangisi, yapı bakımından Türkçenin özelliklerinden sayılamaz?
     - A-) Sondan eklemeli bir dil olması.
@@ -11481,6 +12354,16 @@
     - E-) Aynı sözcük köküne farklı eklerle farklı anlamlar katabilmesi.
 
     > **Açıklama:** Türkçenin anlatım gücünü açıklayabileceksiniz.
+
+    ***
+1. Türkiye Türkçesindeki alıntı sözlerin kaynakları aşağıdakilerden hangisi olamaz?
+    - A-) Teknolojik gelişmeleri sağlayan halkların dili
+    - B-) Bilimsel gelişimde önde olan halkların dili
+    - C-) Dinin etkisi ile gelen bazı alıntı sözcükler
+    - D-) Tanzimat döneminde Arapça ve Farsça etkisi
+    - **Cevap E-) Bölge insanlarının ses farklılıkları**
+
+    > **Açıklama:** Türkçe söz varlığını oluşturan ögeleri tanımlayabileceksiniz.
 
     ***
 1. Anlatıma açıklık kazandırmalarının yanında her sözcük gibi, sözlük maddesi özelliği de kazanan anlam birimlerine ne ad verilir ?
@@ -11571,6 +12454,17 @@
     > C şıkkında diğer şıkların aksine mecazi anlam kullanılmamıştır.
 
     ***
+1. Aşağıdakilerden hangisinde, atasözlerinin yapı ve anlam özelliği birlikte verilmiştir?
+    - **Cevap A-) Az sözcükle çok şey anlatır.**
+    - B-) Kesin bir yargı belirtmez.
+    - C-) Nesilden nesle aktarılır.
+    - D-) Yaşanılan bir olaydan sonra yaratılmıştır.
+    - E-) Sözcüklerin sıralanışı kulağa hoş gelir.
+
+    > **Açıklama:** Türkçe söz varlığını oluşturan ögeleri tanımlayabileceksiniz.
+    > Doğru cevap A şıkkı . Az sözcükle çok şey anlatma bir atasözünün yapı ve anlam özelliklerinden biridir.
+
+    ***
 1. Orhun Yazıtları’nda kullanılan deyimlerden aşağıda hangisinin anlamı yanlış verilmiştir?
     - A-) Adak kamşatmak (=ayağı dolaşmak)
     - B-) atı küsi yok bolmak (=adı sanı yok olmak),
@@ -11635,6 +12529,17 @@
 
     > **Açıklama:** Türkçenin anlatım gücünü açıklayabileceksiniz.
     > Terim; bilim, sanat, spor, meslek dalıyla veya bir konu ile ilgili özel ve belirli bir kavramı karşılayan sözcük.
+
+    ***
+1. Aşağıdakilerden hangisi ikileme örneği değildir?
+    - A-) kış kıyamet
+    - B-) kol kanat
+    - C-) toz toprak
+    - **Cevap D-) çarpık kırık**
+    - E-) allak bullak
+
+    > **Açıklama:** Türkçe söz varlığını oluşturan ögeleri tanımlayabileceksiniz.
+    > ikilemeler kullanılırken bir çeşit uyaklı yapılar ortaya çıkarılmıştır. Anlatımı güçlendirmek üzere ikileme oluşturulurken ya aynı sesi veren aynı sözcük tekrarlanır ya da sesleri birbirini andıran sözcükler yan yana kullanılır
 
     ***
 1. Gerçeklikte ayrılamaz olanı düşüncede ayırma gücü ne ile açıklanabilir?
@@ -11721,7 +12626,8 @@
     - D-) Eşek çamura çökerse sahibinden gayretlisi olmaz.
     - E-) Hıyar akçesiyle alınan eşeğin ölümü sudan olur.
 
-    > **Açıklama:** A seçeneği dışındakiler kesin yargı bildiren atasözleriyken A seçeneğinde verilen " eşeğe gücü yetmeyip semerini dövmek" sözü bir deyimdir.
+    > **Açıklama:** Türkçe söz varlığını oluşturan ögeleri tanımlayabileceksiniz.
+    > A seçeneği dışındakiler kesin yargı bildiren atasözleriyken A seçeneğinde verilen " eşeğe gücü yetmeyip semerini dövmek" sözü bir deyimdir.
 
     ***
 1. Aşağıdaki cümlelerden hangisi ikileme sözcük barındırmaz?
@@ -11746,6 +12652,17 @@
     > ağartı : süt, yoğurt, ayran gibi yiyecek ve içecekler. çor : salgın. işmar etmek : el, göz veya baş ile işaret etmek. Sumsuk : Yumruk. seçeneklerde verilenlerden Pöçük sözcüğü kuyruk sokumu anlamında doğru kullanılmıştır
 
     ***
+1. Aşağıdaki hangi dil, Türkçeye giren alıntı sözcüklerde çok etkili olmamıştır?
+    - A-) Fransızca
+    - B-) İngilizce
+    - **Cevap C-) Çince**
+    - D-) Arapça
+    - E-) Farsça
+
+    > **Açıklama:** Türkçe söz varlığını oluşturan ögeleri tanımlayabileceksiniz.
+    > Seçenekler incelendiğinde Osmanlı döneminde Arapça ve Farsça, Tanzimat ve Cumhuriyet dönemlerinde ise Fransızca ve İngilizcenin Türkçeye birçok alıntı sözcük verdiği görülür. Seçenekler arasında Çince ise en az alıntı sözcük veren dildir
+
+    ***
 1. Aşağıdaki argo sözcüklerden hangisi anlam bakımından diğerlerinden farklıdır?
     - A-) Cartayı çekmek
     - **Cevap B-) Dümeni kırmak**
@@ -11766,6 +12683,17 @@
 
     > **Açıklama:** Türkçe söz varlığını oluşturan ögeleri tanımlayabileceksiniz.
     > Verilen ilişki sözlerinden E seçeneğindeki " Sizden iyi olmasın" topluluk içinde başkasını överken karşı tarafı gücendirmemek için kullanılan bir sözdür. burada ise Kargış(Beddua) olarak kullanılarak yanlış bir biçimde kullanılmıştır
+
+    ***
+1. Bir dilin zenginliğini bize gösteren en önemli unsurlar aşağıdakilerden hangisidir?
+    - A-) Sözcük sayısının çokluğu.
+    - B-) O dili konuşan insan sayısının fazlalığı.
+    - C-) Dilin konuşulduğu coğrafyanın genişliği.
+    - **Cevap D-) Dilin çesitli duygu, düşünce ve kavramları anlatabilme gücü ve dilin sözcük türetme ve soyutlama gücüdür.**
+    - E-) Dilin lehçelerinin çokluğu.
+
+    > **Açıklama:** Türkçenin anlatım gücünü açıklayabileceksiniz.
+    > Belirtilen Sayfada Sorunun Cevabı Mevcuttur.
 
     ***
 1. Bir dilin söz varlığı denildiğinde, aklımıza ne gelmelidir?
@@ -11829,6 +12757,17 @@
     - **Cevap C-) Alıntı Sözler**
     - D-) Kargış
     - E-) Istiare
+
+    > **Açıklama:** Türkçe söz varlığını oluşturan ögeleri tanımlayabileceksiniz.
+    > Belirtilen Sayfada Sorunun Cevabı Mevcuttur.
+
+    ***
+1. …….. Kavramı, dili konuşanların yeni karşılaştıkları kavramlara dil içerisinde çeşitli yollarla karşılıklar oluşturmaları biçiminde tanımlanabilir. Bu karşılık bulmada Türkçe, ekleme ve birleştirme diye adlandırabileceğimiz iki temel yol kullanır. Ekleme; sözcükle ekin, birleştirme ise sözcükle sözcüğün ilişkilendirilmesidir. Bütün dillerin önemli anlatım yollarından biri olan tamlama kurma da bir birleştirme, yani sözcükle sözcüğün ya da sözcüklerin ilişkilendirilmesidir.<br />Yukarıdaki anlatım aşağıdaki kavramlardan hangisinin tanımıdır?
+    - **Cevap A-) Türetme**
+    - B-) İkileme
+    - C-) Teşbih
+    - D-) Ağız
+    - E-) Argo
 
     > **Açıklama:** Türkçe söz varlığını oluşturan ögeleri tanımlayabileceksiniz.
     > Belirtilen Sayfada Sorunun Cevabı Mevcuttur.
@@ -11960,6 +12899,16 @@
     > Alıntı sözler bölümünü okuyunuz.
 
     ***
+1. Bir dilin zenginliğinin başta gelen ölçüsü aşağıdakilerden hangisidir?
+    - A-) Sözcük sayısının çokluğu
+    - B-) Cümlelerin uzunluğu, kısalığı
+    - C-) O dili konuşan insan sayısının faz­lalığıyla
+    - D-) Dilin konuşulduğu coğrafyanın genişliği
+    - **Cevap E-) Çeşitli duygu düşünce ve kavramları anlatabilme gücü**
+
+    > **Açıklama:** Bir dilin zenginliği; ne sözcük sayısının çokluğuyla ne o dili konuşan insan sayısının faz­lalığıyla ne de dilin konuşulduğu coğrafyanın genişliğiyle ilgilidir. Dillerin zenginliğinin başta gelen ölçüsü çeşitli duygu, düşünce ve kavramları anlatabilme gücüdür.
+
+    ***
 1. Bir nesnenin veya düşüncenin zihindeki soyut ve genel tasarımı olarak verilen tanım aşağıdakilerden hangisini tanımlamaktadır?
     - A-) Soyutlama
     - **Cevap B-) Kavram**
@@ -11968,6 +12917,16 @@
     - E-) Anlatım gücü
 
     > **Açıklama:** Kavram bir nesnenin veya düşüncenin zihindeki soyut ve genel tasarımıdır.
+
+    ***
+1. I Kalıplaşmış söz gruplarıdır. II Genelde yargı bildirmezler. III Durum veya olayı tecrübeye dayalı bir yargıya bağlarlar. IV Sonraki kuşakların ders almasını sağlamaya çalışırlar. Yukarıdakilerden hangisi atasözlerinin özelliklerindendir?
+    - A-) I-II
+    - **Cevap B-) I-III-IV**
+    - C-) I-IV
+    - D-) II-III -IV
+    - E-) II-IV
+
+    > **Açıklama:** Deyimler yargı bildirmezler. Deyimler; bir durumu, olayı ya da varlığı tasvir et­mek, açıklamak, ifade etmek amacıyla etkili anlatımından yararlanılan kalıplaşmış söz gruplarıdır. Atasözü ise, bir gözlem ve tecrübenin sonucunda ortaya çıkmış ve zamanla herkesçe benimsenmiş bir yargıyı dile getirir. Yaşanmış birtakım olaylar­dan, sonraki kuşakların ders almasını sağlamaya çalışır, bir öğüt verir. Bazı deyim­lerde yargı bulunsa da genelde deyimler yargısız ifadelerdir. Kısaca deyimler daha çok benzetme, kıyaslama yoluyla bir durumu açıklamak; atasözleri ise bir durum veya olayı tecrübeye dayalı bir yargıya bağlamak amacıyla kullanılırlar.
 
     ***
 1. Aşağıdakilerden hangisi birleşik sözcüğün özelliğidir?
@@ -12024,6 +12983,16 @@
     > **Açıklama:** *Argo;* toplumda belli bir sosyal sınıfa mensup olanların, daha çok toplum dışı olarak algılanan ve damgalanmış grupların, toplumun diğer kesimlerinden ayrılmak veya giz­lenmek içgüdüsüyle kendilerine sözcük ve deyimlerle oluşturdukları konuşma sistemidir. Genel dilin sözcüklerine bazı özel anlamlar vermek ve özel birtakım sözcükler katmakla oluşan argo, bir çeşit özel dil sayılabilir.
 
     ***
+1. Dili konuşanların yeni karşılaştıkları kavramlara dil içerisinde çeşitli yollarla karşılıklar oluşturmaları biçiminde tanımlanan kavram aşağıdakilerden hangisidir?
+    - **Cevap A-) Türetme**
+    - B-) Tamlama
+    - C-) Ekleme
+    - D-) Birleştirme
+    - E-) Çekimleme
+
+    > **Açıklama:** Türetme kavramı, dili konuşanların yeni karşılaştıkları kavramlara dil içerisinde çeşitli yollarla karşılıklar oluşturmaları biçiminde tanımlanabilir.
+
+    ***
 1. Sözcük köklerinin değişmediği ve sabit köklere çeşitli yapım ekleri getirilerek genellikle sözcüğün kök anlamıyla bir bi­çimde ilişkili olan yeni sözcükler türetilen dil grubu aşağıdakilerden hangisidir?
     - A-) yalınlayan dil
     - **Cevap B-) eklemeli dil**
@@ -12042,6 +13011,16 @@
     - **Cevap E-) O dilin sözlüğünde yer alan deyimler, atasözleri, kalıp sözler, ikilemeler, terimler, argolaşmış sözler, ilişki sözleri, alkış ve kargışlar**
 
     > **Açıklama:** Türkçenin ya da herhangi bir dilin söz varlığı denildiğinde, yalnızca o dilin sözlüğünde yer alan sözcükler değil; deyimler, atasözleri, kalıp sözler, ikilemeler, terimler, argolaşmış sözler, ilişki sözleri, alkış ve kargışlar gibi çeşitli anlatım kalıpları akla gelmelidir.
+
+    ***
+1. Bir nesnenin veya düşüncenin zihindeki soyut ve genel tasarımına ne ad verilir?
+    - A-) Soyutlama
+    - **Cevap B-) Kavram**
+    - C-) İmaj
+    - D-) Kültür
+    - E-) Hayal
+
+    > **Açıklama:** Bir nesnenin veya düşüncenin zihindeki soyut ve genel tasarımına Kavram denir.
 
     ***
 1. Bir sözcüğü veya kavramı kabul edilenin dışında başka anlamlara gelecek biçimde kullanmaya ne ad verilir?
@@ -12436,6 +13415,26 @@
     > **Açıklama:** Bir sözcüğü veya kavramı kabul edilenin dışında başka anlamlara gelecek biçimde kullanmaya metafor adı verilir.
 
     ***
+1. İki veya daha fazla sözcükten oluşan, anlatım gücünü artırmak için az çok mantık dışına kayan, gerçek anlamından uzak, ilgi çekici bir anlam yüküne sahip, bazı sözcükleri değişmeyip bazıları değişebilen, toplum tarafından ortaklaşa benimsenen kalıplaşmış söz gruplarına ne ad verilir?
+    - **Cevap A-) Deyim**
+    - B-) Atasözü
+    - C-) İkileme
+    - D-) Mani
+    - E-) Birleşik söz
+
+    > **Açıklama:** İki veya daha fazla sözcükten oluşan, anlatım gücünü artırmak için az çok mantık dışına kayan, gerçek anlamından uzak, ilgi çekici bir anlam yüküne sahip, bazı sözcükleri değişmeyip bazıları değişebilen, toplum tarafından ortaklaşa benimsenen kalıplaşmış söz gruplarına deyim adı verilir.
+
+    ***
+1. Deyimlerle ilgili olarak aşağıdakilerden hangisi **yanlıştır**?
+    - A-) Deyimler yargı bildirmezler.
+    - B-) Deyimler benzetme, kıyaslama yoluyla bir durumu açıklamak için kullanılırlar.
+    - C-) Deyimlerde yer alan sözcükler başta, ortada ve sonda birtakım değişiklikler gösterebilirler.
+    - **Cevap D-) Deyimler bir gözlem ve tecrübenin sonucunda ortaya çıkmış ve herkesçe benimsenmiş bir yargıyı dile getirirler.**
+    - E-) Deyimlerin amacı bir durumu ya da kavramı özel bir kalıp içinde çekici ve etkili bir anlatımla belirtmektir.
+
+    > **Açıklama:** Bir gözlem ve tecrübenin sonucunda ortaya çıkmış ve herkesçe benimsenmiş bir yargıyı dile getirmek için atasözleri kullanılır. Doğru cevap D'dir.
+
+    ***
 1. I. Deyimler bazen manzum özellik gösterirler.<br />II. Deyimleri oluşturan ikinci sözcük normal bir fiil olarak çekimlenir.<br />III. Deyimi oluşturan iki sözcük kesinlikle bitişik yazılmaz.<br />IV. Deyimlerde yer alan sözcükler başta, ortada ve sonda birtakım değişiklikler gösterebilirler.<br />Deyimlerle ilgili olarak yukarıdakilerden hangileri doğrudur?
     - A-) I ve II
     - B-) II ve III
@@ -12456,6 +13455,16 @@
     > **Açıklama:** Toplumların hayatın akışı içerisinde oluşan bilge yönlerini, kazandıkları deneyimleri, dünyaya bakışlarını, anlatım yeteneklerini yansıtan ve çok uzun süre düşünce dünyasında yaşamaya devam edebilen kalıplaşmış sözlere atasözü denir.
 
     ***
+1. I. Atasözleri ders verici niteliktedir.<br />II. Atasözleri sürekli tekrarlanır.<br />III. Atasözleri incelendiğinde genellikle ortadan ikiye bölünmüş bir cümleyle karşılaşılır.<br />IV. Atasözleri bir ulusun düşünce ve duygu dünyasında yer alan değerleri barındırır.<br />Atasözleri ile ilgili olarak yukarıdakilerden hangileri doğrudur?
+    - A-) I ve II
+    - B-) II ve III
+    - C-) I ve III
+    - D-) I, II ve IV
+    - **Cevap E-) I, II, III ve IV**
+
+    > **Açıklama:** Bu özelliklerin hepsi atasözlerinin özellikleridir.
+
+    ***
 1. Aşağıdaki cümlelerden hangisinde bir ikileme bulunmaktadır?
     - A-) Ayşe tek başına bütün evi temizledi.
     - B-) Genç kızın bu işte gönlü yoktu.
@@ -12474,6 +13483,16 @@
     - **Cevap E-) Ağırlık altın kale, hafiflik başa bela.**
 
     > **Açıklama:** "Ağırlık altın kale, hafiflik başa bela" bir atasözdür.
+
+    ***
+1. Aşağıdakilerden hangisi yansıma kaynaklı ikilemelere örnektir?
+    - A-) Paldır küldür
+    - **Cevap B-) Harıl harıl**
+    - C-) Pisi pisine
+    - D-) Günlük güneşlik
+    - E-) Bitmez tükenmez
+
+    > **Açıklama:** Harıl harıl, yansıma kaynaklı bir ikilemedir.
 
     ***
 1. Kargış sözcüğü ne anlama gelmektedir?
@@ -12578,6 +13597,16 @@
     > E seçeneği yanlıştır. Türkçede yeni sözcükler yapım ekleri ile türetilir ve çekim ekleri yapım eklerinden sonra gelir.
 
     ***
+1. İkilemelerin kuruluşunda en fazla görev alan sözcük türü aşağıdakilerden hangisidir?
+    - A-) fiiller
+    - B-) özel isimler
+    - **Cevap C-) cins isimler**
+    - D-) zamirler
+    - E-) ünlemler
+
+    > **Açıklama:** Cins adlarından pek çok ikileme kurulmaktadır: öbek öbek, sıra sıra, dizi dizi, dağ taş, yol yolak vb.
+
+    ***
 1. Türkçe için “kırk kapıya kırk değnek vurarak” yaşamış bir dil olması ile ne ifade edilmek istenmektedir?
     - **Cevap A-) Söz varlığı çeşitliliği**
     - B-) Sözlük bilgisi
@@ -12660,6 +13689,16 @@
     > Çeşitli ekler alarak kurulanlar; ödev mödev, uslu uslu
     > Özel adlardan kurulanlar; Hanyayı Konyayı
     > Örnekleri vardır. Doğru yanıt B'dir.
+
+    ***
+1. Dillerin söz varlıklarının hiç azımsanmayacak bölümlerinden birini alıntı, yani başka bir dilden gelen sözcükler oluşturur.Aşağıda sıralanan özelliklerden hangisi ya da hangileri alıntı ile ilgilidir? I. Diller arasındaki sözcük alışverişinin gereklilikten ya da özentiden kaynaklanan nedenleri olabilir. II. Dil etkileşiminin başta gelen nedenlerinden biri de dindir. III. Moda akımlarının dildeki etkileri olabilir. IV. Teknolojik gelişmeler de diller arasındaki alışverişlerde etkilidir.
+    - A-) Yalnız I
+    - B-) II ve IV
+    - C-) I ve II
+    - D-) I, II ve IV
+    - **Cevap E-) I, II, III ve IV**
+
+    > **Açıklama:** Sıralanan tüm özellikler dilde alıntının diğer adıyla ödünçlemenin özellikleri olarak ifade edilebilir. Doğru yanıt E'dir.
 
     ***
 1. Türkçe gibi eklemeli diller, varlık ve oluşları ifade edebilmek için kendi yapılarına göre yeni yollar geliştirmişlerdir. Aşağıdakilerden hangisi eklemeli dillerin geliştirdiği yolların en başta geleni olarak belirtilir?
@@ -12760,6 +13799,16 @@
     - **Cevap E-) Kunçuy**
 
     > **Açıklama:** Türkçenin ilk yazılı metinleri olan Orhun Yazıtları’nda birkaç yabancı sözcüğe rastla­nır ki bunlar da *sengün* (general), *kunçuy* (prenses), *işgiti* (ipekli kumaş), *yençü* (inci) gibi sözcüklerdir. Doğru cevap E'dir.
+
+    ***
+1. Zamana ve coğrafyaya bağlı olarak tarih, boy farklı­lıkları, komşu dil ve kültürler gibi unsurların etkisiyle ve dilin kendi bünyesinden kaynak­lanan ses değişmelerinin sonucunda oluşan kavram aşağıdakilerden hangisidir?
+    - A-) Argo
+    - **Cevap B-) Ağız**
+    - C-) Alkış
+    - D-) Kargış
+    - E-) Alıntı söz
+
+    > **Açıklama:** Ağızlar; zamana ve coğrafyaya bağlı olarak tarih, boy farklı­lıkları, komşu dil ve kültürler gibi unsurların etkisiyle ve dilin kendi bünyesinden kaynak­lanan ses değişmelerinin sonucunda oluşurlar. Doğru cevap B'dir.
 
     ***
 1. Bir gözlem ve tecrübenin sonucunda ortaya çıkmış ve zamanla herkesçe benimsenmiş bir yargıyı dile getiren, yaşanmış birtakım olaylardan, sonraki kuşakların ders almasını sağlamaya çalışan kalıplaşmış ifadelere ne ad verilir?
@@ -13212,6 +14261,17 @@
     > Amaç 1
 
     ***
+1. Aşağıdakilerden hangisinde deyim kullanılmıştır?
+    - **Cevap A-) El ayak çekildikten sonra evine gelebiliyordu o zamanlar.**
+    - B-) Bu kadar üzülme, elle gelen düğün bayram.
+    - C-) Ağaç yaşken eğilir, sen şimdiden başla çocuğunu yetiştirmeye.
+    - D-) Çekmecenin gözünde maaşımdan arttırdığım paralar vardı.
+    - E-) Benim söylediklerimi yaptığın için hiç pişman oldun mu?
+
+    > **Açıklama:** Türkçe Söz Varlığı başlığı altında verilen bilgileri gözden geçiriniz.
+    > A seçeneğinde "el ayak çekilmek" deyimi kullanılmıştır. El ayak çekilmek, ortalığın ıssızlaşması anlamındadır.
+
+    ***
 1. Aşağıdakilerden hangisinde atasözü kullanılmıştır?
     - A-) Babaannemin, sakın, emin değilsen yemin etme, dediğini anımsarım.
     - B-) Uluslararası başarı ödülümüzü, toplumdaki güveni çok çalışarak büyütüp kazandık.
@@ -13337,6 +14397,16 @@
     - E-) Bir kişi baldızından, bacanağından söz ediyorsa konuşurun erkek olduğu; eltisinden, görümcesinden söz edenin ise kadın olduğu anlaşılır.
 
     > **Açıklama:** Bir toplumun hayatında önemli yer tutan varlıklarla, nesnelerle, işlerle, konularla ilgili söz varlığının geniş olduğu bilinmektedir. Türklerde aile bağlarının ve ilişkilerinin güçlü olması, akrabalıkla ilgili adların zenginleşmesini sağlamıştır. Türkçede en yakın akrabadan en uzak akrabaya kadar her birine farklı bir ad verilmiştir. Pek çok dilde amca ile dayıyı, hala ile teyzeyi ayırt edecek sözcük bulunmazken, bu akrabalıklar birer sözcükle karşılanırken Türk dilinde baldız, bacanak, elti, görümce, yenge gibi en uzak akrabaya kadar ayrı ayrı akrabalık adları bulunmaktadır. Dört ayrı akraba baldız, elti, görümce, yenge için Türkçede ayrı ayrı sözcükler kullanılırken bu kavramlar İngilizcede sister-in-law, Almancada schwägerin, Fransızcada belle-soeur gibi pek çok dilde birer sözcükle karşılanmaktadır (Aksan, 2004). Türkçedeki akrabalık adlarının zenginliğinin yanı sıra akrabalık düzeylerini, konuşurun cinsiyetini ve medeni durumunu gösterme özelliği de dikkat çekicidir. Bir kişi baldızından, bacanağından söz ediyorsa konuşurun erkek olduğu; eltisinden, görümcesinden söz edenin ise kadın olduğu anlaşılır. Bacanağı olduğunu söyleyen kişinin de evli olduğu, eşinin bir kız kardeşinin bulunduğu, bu kız kardeşin de evli olduğu anlaşılır. Akrabalık ilişkileri ile düzeylerini, konuşurun cinsiyetini ve medeni durumunu ortaya koyan böyle bir akrabalık adları dizilimi yeryüzünde çok az sayıdaki dilde mevcuttur.
+
+    ***
+1. Türkçeye, yabancı dillerin etkisi aşağıdaki dillerden hangisiyle başlamaz?
+    - A-) Çince
+    - B-) Sanskritçe
+    - **Cevap C-) Japonca**
+    - D-) Soğdca
+    - E-) Hintçe
+
+    > **Açıklama:** Orhon Yazıtları’nda Çince (totok ‘askerî vali’), Sanskritçe (çıntan ‘sandal ağacı’), Soğdca (ıgar ‘güçlü, kudretli’), Hintçe (makaraç ‘bir unvan veya kişi adı’), Tibetçe (bölün ‘yüksek görevli’) gibi birkaç dilden alınma çok az sayıdaki sözcükle (Tekin, 2010) başlayan etkileşim, daha sonraki dönemlerde çeşitli coğrafyalarda kullanılan Türk yazı dillerinde artmaya başlamıştır.
 
     ***
 1. Aşağıdaki şairlerin hangisin**de** eserlerin**de** yabancı öğelerin oranı en yüksektir? **YERİNE**<br />Aşağıdaki şairlerin **hangisinin** eserlerinde yabancı ögelerin oranı en yüksektir?
@@ -13485,7 +14555,7 @@
 1. 1\. Baldız<br />2\. Elti<br />3\. Görümce<br />4\. Yenge<br />İngilizcede sister-in-law sözcüğünün Türkçedeki karşılığı yukarıdakilerden hangisidir?
     - A-) Yanlız I
     - B-) Yanlız II
-    - C-) Yanlız III
+    - C-) Yanlız III
     - D-) III ve IV
     - **Cevap E-) I, II, III ve IV**
 
@@ -13521,6 +14591,26 @@
 
     > **Açıklama:** Edebî eserlerde yabancı ögelerin oranının da gittikçe arttığı görülür. Süleyman
     > Çelebi’nin Mevlid’inde %26 dolayındaki yabancı ögelerin oranı Baki’nin şiirlerinde %65’e, Nef´i’de %60’a, Nabi’de %54’e yükselir. Mahallileşme akımının öncülerinden Nedim’de ise bu oran %41’e kadar gerilemiştir. Doğru cevap D'dir.
+
+    ***
+1. Aşağıda verilen sözcük gruplarından hangisi dilimize İtalyancadan geçmiştir?
+    - A-) Abone-Balkon
+    - **Cevap B-) İskele-Güverte**
+    - C-) Bilet-Jandarma
+    - D-) Konferans-Lamba
+    - E-) Rapor-Salon
+
+    > **Açıklama:** Önceleri denizcilik, ticaret gibi belirli alanlardaki İtalyanca acente, banka, bono, borda, iskele, güverte vb. sözcüklerle başlayan Batı dillerinden alıntılar Fransızca ile ilişkiler sonucunda artmıştır: abone, balkon, balon, bilet, jandarma, jüri, kabine, konferans, lamba, manto, moda, palto, rapor, salon, torpil. Doğru cevap B'dir.
+
+    ***
+1. Türkçeden en fazla sözcüğün geçtiği dil aşağıdakilerden hangisidir?
+    - A-) Rusça
+    - B-) Farsça
+    - C-) Arapça
+    - **Cevap D-) Sırpça**
+    - E-) Bulgarca
+
+    > **Açıklama:** Türkçeden en fazla sözcüğün geçtiği dil Sırpçadır. Bir zamanlar dokuz bine yakın sözcüğün bulunduğu belirlenmiştir. Bugün Sırpçada sayısı yedi bine yaklaşan Türkçe alıntıdan badžànak ‘bacanak’, bàlta ‘balta’, dùšek ‘döşek’, jòrgan ‘yorgan’, kàjmak ‘kaymak’, òdžak ‘ocak’ bunlardan yalnızca birkaçıdır. Doğru cevap D'dir.
 
     ***
 1. Aşağıdaki Türk dillerinden hangisi yazı dili olamamış, yalnızca konuşma dili olarak kalarak varlığını sürdüren dillerden biridir?
@@ -13726,6 +14816,16 @@
     > **Açıklama:** Verilen kelimlerden yalnızca "çakal" Türkçe kökenli olup, çeşitli dünya dillerine geçmiştir. Doğru cevap D'dir.
 
     ***
+1. Günüzde Ahıska Türkçe'si aşağıdaki ülkelerden hangilerinde kullanılmaktadır?
+    - **Cevap A-) Gürcistan, Azerbaycan, Kazakistan**
+    - B-) Ukrayna, Özbekistan, Rusya Federasyonu,
+    - C-) İran, Irak, Afganistan
+    - D-) Türkiye, Kuzey Kıbrıs Türk Cumhuriyeti, Almanya
+    - E-) Makedonya, Özbekistan, Romanya
+
+    > **Açıklama:** Günümüzde Ahıska Türkçesi Gürcistan, Azerbaycan, Kazakistan, Kırgızistan, Türkiye'de kulanılmaktadır. Doğru cevap A'dır.
+
+    ***
 1. Türkçede yeni sözcükler, terimler türetmenin çok daha kolay olmasının nedeni aşağıdakilerden hangisidir ?
     - A-) Türkçenin yapım eklerinin sayıca az olmasından
     - **Cevap B-) Türkçenin yapı bakımından eklemeli dil olması nedeniyle**
@@ -13756,6 +14856,16 @@
     > **Açıklama:** Elde etmek, istediklerini aşırı bir biçimde arzulayan kişilere bu uğurda katlanacakları sıkıntıların önemli olmadığı D şıkkındaki atasözü ile anlatılabilir.
 
     ***
+1. Pek çok dilde bulunan günaydın, afiyet olsun, özür dilerim gibi sınırlı sayıda birkaç söze karşılık, Türkçedeki bu tarzda sözlerin fazlalığının sebebi aşağıdakilerden hangisi olabilir ?
+    - A-) Türk dilinin çok zengin olması
+    - B-) Türk kültürünün çok zengin olması
+    - **Cevap C-) Türk kültüründe insan ilişkilerine önem verilmesi**
+    - D-) Başka kültürlerle girilen etkileşim
+    - E-) Türkçenin kavram çeşitliliği açısından zenginleştirilmek istenmesi
+
+    > **Açıklama:** Türkçedeki bu tarz sözcüklerin fazlalığı kültürümüzde insan ilişkilerine verilen önemin bir göstergesidir.
+
+    ***
 1. Osmanlı Türkçesi olarak adlandırdığımız Türkçenin 16.yy'dan 20.yy'ın başlarına kadar olan dönemde, hangi yabancı dillerin dil bilgisi kuralları ve öğeleri dilimizin yapısına etki etmeye başlamıştır ?
     - A-) Latince-Arapça
     - B-) Farsça-Hintçe
@@ -13764,6 +14874,16 @@
     - **Cevap E-) Farsça-Arapça**
 
     > **Açıklama:** Osmanlı Türkçesi olarak adlandırdığımız Türkçenin 16.yy'dan 20.yy'ın başlarına kadar olan dönemde, Farsça ve Arapça dil bilgisi kuralları ve öğeleri dilimizin yapısına etki etmeye başlamıştır.
+
+    ***
+1. Aşağıdaki kelimelerden hangisi batı dillerinden alıntı bir sözcük değildir ?
+    - A-) Güverte
+    - B-) İskele
+    - C-) Abonman
+    - D-) Balon
+    - **Cevap E-) Gölge**
+
+    > **Açıklama:** Güverte, iskele kelimeleri İtalyanca olup, abonman ve balon kelimeleri Fransızcadan alınmıştır. Gölge kelimesi ise Türkçe KÖLGE kelimesinden türemiştir.
 
     ***
 1. Aşağıdakilerden hangisi dünya dillerine Türkçeden geçen sözcükler arasında değildir ?
@@ -13956,6 +15076,16 @@
     > **Açıklama:** Türk Dil Kurumunun 2011'de sanal ortamda kullanıma sunduğu Büyük Türkçe Sözlük’te yaklaşık 572.000 söz varlığı bulunmaktadır. Doğru cevap C'dir.
 
     ***
+1. Aşağıdakilerden hangisi Arapçanın Türkçe üzerindeki etkilerinden biri **değildir**?
+    - A-) Tamlamaların sözcüklerin cinsiyeti gözetilerek yapılması
+    - B-) Sözcüklere ön ek ve edatların gelmesi
+    - C-) Kelimelerin ikili çokluk biçiminde yazılması
+    - **Cevap D-) Tamlayanın tamlanandan önce gelmesi**
+    - E-) Asıl cümlenin yan cümleden önce gelmesi
+
+    > **Açıklama:** Arapçanın Türkçe üzerindeki etkileri fazladır. Türkçede sözcüklerin cinsiyeti bulunmamasına karşın Arapçadan geçen sözcüklerde erilliklerin ve dişilliklerin korunması, tamlamaların da sözcüklerin cinsiyeti gözetilerek yapılması: hikâye-i garibe ‘garip hikâye’, hadise-i müessife ‘üzücü olay’ vb. Eklemeli bir dil olan Türkçede bütün eklerin son ek olmasına, ön ek bulunmamasına karşın Farsçadan, Arapçadan ön ek ve edatların alıntılanması: bî-baht ‘bahtsız’ vb. Türkçede ikili çokluk bulunmamasına, bu durumun sayı sıfatlarıyla kurulan tamlamalarla ifade edilmesine karşın Arapçadan ikili çokluk biçimin de alıntılanması: iki devlet yerine 'devleteyn' vb. Yan cümlenin önce, asıl cümlenin sonra geldiği Türkçenin söz dizimi kuralına aykırı olarak asıl cümlenin önce yan cümlenin sonra geldiği ki’li birleşik cümlenin yaygınlaşması ise dil bilgisi açısından etkilenmenin bir başka örneği olmuştur. Tamlamalarda tamlayanın tamlanandan önce gelmesi kuralı Türkçenin en belirgin özelliğidir. Doğru cevap D'dir.
+
+    ***
 1. 2015 yılı verilerine göre yeryüzünde konuşulan dil sayısı kaçtır?
     - A-) 7\.205
     - B-) 7\.800
@@ -13964,6 +15094,16 @@
     - **Cevap E-) 7\.102**
 
     > **Açıklama:** 2015 yılı verilerine göre yeryüzünde konuşulan dil sayısı 7.102'dir. Doğru cevap E'dir.
+
+    ***
+1. Türkçeden en fazla sözcüğün geçtiği dil aşağıdakilerden hangisidir?
+    - A-) Arnavutça
+    - B-) Macarca
+    - C-) Latince
+    - D-) Bulgarca
+    - **Cevap E-) Sırpça**
+
+    > **Açıklama:** Türkçeden en fazla sözcüğün geçtiği dil Sırpçadır. Bir zamanlar dokuz bine yakın sözcüğün bulunduğu belirlenmiştir. Bugün Sırpçada sayısı yedi bine yaklaşan Türkçe alıntı- dan badžànak ‘bacanak’, bàlta ‘balta’, dùšek ‘döşek’, jòrgan ‘yorgan’, kàjmak ‘kaymak’, òdžak ‘ocak’ bunlardan yalnızca birkaçıdır. Sırp Türkolog Dr. Mirjana Marinkoviç, 2008 yılında Belgrad’da çıkan bir dergide Türkçe sözlerin Sırpçadaki yoğunluğunu ve kullanım sıklığını ele almıştır. Doğru cevap E'dir.
 
     ***
 1. Orhon Yazıtları'nda geçen Soğdca ıgar sözcüğünün dilimizdeki karşılığı nedir?
@@ -13992,6 +15132,16 @@
     - C-) Hayata bakış tarzı
     - D-) Maddi ve manevi değerleri
     - E-) İnançları
+
+    > **Açıklama:** Türk dilinin özellikleri ile zenginlik alanlarını açıklayabileceksiniz.
+
+    ***
+1. İlk Türk yazı dili ürünü olmasına karşın Orhon Yazıtları’nda kullanılan dilin işlekliğinin nedeni aşağıdakilerden hangisidir?
+    - A-) Noktalama işaretlerinin kullanılmaması
+    - **Cevap B-) Kurallı bir dilbilgisine sahip olması**
+    - C-) Taştan yapılmış anıta yazılmış olması
+    - D-) Sözcüklerin mecaz anlamlarının oluşmaması
+    - E-) Deyimlere yer verilmemesi
 
     > **Açıklama:** Türk dilinin özellikleri ile zenginlik alanlarını açıklayabileceksiniz.
 
@@ -14026,6 +15176,16 @@
     > **Açıklama:** Türkçenin diğer dillerle etkileşimini karşılaştırabileceksiniz.
 
     ***
+1. "Türkçe, seksen yedi ülkede en az bir ortaöğretim kurumunda yabancı dil olarak okutulmaktadır. Kırk altı ülkede ise özel kurslarda Türkçe yabancı dil olarak öğretilmektedir. Dokuz ülkede Türkçe öğretim yapan üniversite; yirmi sekiz ülkede de Türkçenin öğretildiği, dil bilgisi ve dil bilimi çalışmalarının yürütüldüğü enstitü, bölüm veya merkez bulunmaktadır."Bu bilgiler ışığında, aşağıdaki ifadelerden hangisi söylenemez?
+    - A-) Türkçe birçok ülkede güncel olarak kullanılan bir dildir.
+    - B-) Türkçe, farklı ülkelerde üzerinde araştırma yapılan bir dildir.
+    - C-) Türkçe, uzun yıllardır diğer dillerle etkileşim halindedir.
+    - D-) Türkçe, geniş bir coğrafyaya yayılmıştır.
+    - **Cevap E-) Türkçe, en az dokuz ülkede resmi dil olarak kullanılmaktadır.**
+
+    > **Açıklama:** Dünyada Türk dilinin konuşulduğu coğrafyaları ayırt edebileceksiniz.
+
+    ***
 1. Aşağıdakilerden hangisi Türkçenin en çok sözcük aldığı dildir?
     - A-) İtalyanca
     - **Cevap B-) Arapça**
@@ -14034,6 +15194,16 @@
     - E-) Fransızca
 
     > **Açıklama:** Türkçenin diğer dillerle etkileşimini karşılaştırabileceksiniz.
+
+    ***
+1. Türkçedeki nezaket sözcüklerinin zenginliği, aşağıda ifade edilen hangi özellikle ilişkilidir?
+    - **Cevap A-) Türkiye'de insan ilişkilerine çok önem verilmektedir.**
+    - B-) Türkçe, birçok dilden etkilenmiştir.
+    - C-) Türkçe, atasözleri açısından zengin bir dildir.
+    - D-) Türkiye, diline önem veren bir ülkedir.
+    - E-) Türkçe, birçok dili yoğun biçimde etkileyen bir dildir.
+
+    > **Açıklama:** Türk dilinin özellikleri ile zenginlik alanlarını açıklayabileceksiniz.
 
     ***
 1. Aşağıdakilerden hangisi Türk dilinin zenginlik alanlarından biri değildir?
@@ -14111,6 +15281,28 @@
     > Hemen hemen tamamı tek cümleden olusan atasözleri genellikle iki kısımdan oluşur ve ikinci kısım birinci kısımda ifade edilen fikri ve anlamı kuvvetlendirir. Atasözlerinin değil, Türkçedeki deyimlerin büyük bir kısmı mastarla biter.
 
     ***
+1. Aşağıdakilerden hangisi birleşik sözlere ait bir özellik değildir?
+    - A-) iki sözcük arasına hiçbir sözcük giremez.
+    - B-) İkinci sözcük normal bir fiil olarak çekimlenmez.
+    - C-) iki sözcük de degiştirilemez.
+    - D-) İki sözcük de derin anlamlı yapı içermez.
+    - **Cevap E-) İki sözcük kesinlikle bitişik yazılmaz.**
+
+    > **Açıklama:** Türk dilinin özellikleri ile zenginlik alanlarını açıklayabileceksiniz.
+    > Birleşik sözlerin bir kısmı bitişik yazılır. Örneğin: bilgisayar, biçerdöver.
+
+    ***
+1. Aşağıdakilerden hangisi Türk dilini zenginleştiren özeliklerden değildir?
+    - A-) Mecazlı anlatımların çokluğu
+    - B-) Soyutlama sözcüklerin çokluğu
+    - C-) Deyim sayısının çokluğu
+    - **Cevap D-) Alfabedeki harflerin çokluğu**
+    - E-) Sözcük sayısının çokluğu
+
+    > **Açıklama:** Türkçenin söz varlığının anlatım gücünü betimleyebileceksiniz.
+    > Alfabedeki harflerin fazlalığı dili zenginleştirmez. Dillerin zenginliğinin başta gelen ölçüsü çeşitli duygu, düşünce ve kavramları anlatabilme gücüdür. Duygu, düşünce ve kavramları dile getirebilmek için sözcük sayısının çok olması önemli olmakla birlikte, bundan daha önemlisi dilin sözcük türetme ve soyutlama gücüdür.
+
+    ***
 1. Aşağıdakilerden hangisi anlatım gücünü artırmak, anlamı pekiştirmek, kavramı zenginleştirmek amacıyla aynı ya da benzer sözcüklerin tekrar edilmesine verilen addır?
     - **Cevap A-) İkileme**
     - B-) Birleşik sözcük
@@ -14166,6 +15358,17 @@
     > "Bozuklukları düzeltecek etkenlerin bulunduğunu ama bu etkenin de bozulması durumunda yapacak bir sey kalmadığını" ifade eden atasözüne örnek olarak E şıkkındaki "Et kokarsa tuzlanır, ya tuz kokarsa ne yapılır" atasözü anlam olarak karşılık gelmektedir.
 
     ***
+1. Türkiye Türkçesinde günümüzde alıntı yapılmamış olan dil hangisidir?
+    - A-) Arapça
+    - B-) Macarca
+    - **Cevap C-) Hintçe**
+    - D-) Rusça
+    - E-) Rumence
+
+    > **Açıklama:** Türkçenin diğer dillerle etkileşimini karşılaştırabileceksiniz.
+    > Türkiye Türkçesinde Macarca,Arapça Rusça ve Rumenceden alıntılar olmasına rağmen Hintçeden alıntı bulunmamaktadır.
+
+    ***
 1. Türk kültürünün ve Türkçenin çekim merkezi olduğu çeşitli dönemlerde Türkçe<br />sözcükler başka dillere geçmiştir. En eski dönemlerde ilişkide bulunduğumuz diller arasında aşağıdakilerden hangisi yer almaz?
     - A-) Çince
     - B-) Macarca
@@ -14184,7 +15387,8 @@
     - D-) Kırgıstan
     - **Cevap E-) Slovakya**
 
-    > **Açıklama:** Gürcistan, Azerbaycan, Kazakistan, Kırgızistan, Türkiye; Ahıska Türkçesinin en çok konuşulduğu yerlerdir. Doğru cevap E seçeneğidir.
+    > **Açıklama:** Dünyada Türk dilinin konuşulduğu coğrafyaları ayırt edebileceksiniz.
+    > Gürcistan, Azerbaycan, Kazakistan, Kırgızistan, Türkiye; Ahıska Türkçesinin en çok konuşulduğu yerlerdir. Doğru cevap E seçeneğidir.
 
     ***
 1. Hallaçça, aşağıdaki ülkelerden hangisinde konuşulmaktadır?
@@ -14220,6 +15424,17 @@
     > Yan cümlenin önce, asıl cümlenin sonra geldiği Türkçenin söz dizimi kuralına aykırı olarak asıl cümlenin önce yan cümlenin sonra geldiği ki'li birleşik cümlenin yaygınlaşması ise dil bilgisi açısından etkilenmenin bir başka örneği olmuştur. Doğru cevap C seçeneğidir.
 
     ***
+1. Türkçede akrabalık adlarının zenginliğini aşağıdakilerden hangisiyle açıklayabiliriz?
+    - A-) Türkçenin eklemeli bir dil olması
+    - B-) Türk atasözlerinin sayıca çokluğu
+    - C-) Ses uyumlarının güçlü olması
+    - **Cevap D-) Türklerde aile bağlarının ve ilişkilerinin güçlü olması**
+    - E-) Çeşitli dillerin etkisi altında kalması
+
+    > **Açıklama:** Türk dilinin özellikleri ile zenginlik alanlarını açıklayabileceksiniz.
+    > Bir toplumun hayatında önemli yer tutan varlıklarla, nesnelerle, işlerle, konularla ilgili söz varlığının geniş olduğu bilinmektedir. Türklerde aile bağlarının ve ilişkilerinin güçlü olması, akrabalıkla ilgili adların zenginleşmesini sağlamıştır. Doğru cevap D seçeneğidir.
+
+    ***
 1. Türkçeden en fazla sözcüğün geçtiği dil hangisidir?
     - A-) Arapça
     - B-) Farsça
@@ -14240,6 +15455,17 @@
 
     > **Açıklama:** Türkçenin söz varlığının anlatım gücünü betimleyebileceksiniz.
     > Türk kültürünün söz varlığına yansıyan boyutu pek çok kavram alanında kendisini gösterir. En açık örneklerinden biri, ilişki sözlerinin Türkçedeki çeşitliliği ve zenginliğidir (Aksan, 2008). Hayatın her anında yaşanan olaylar için Türkçede ayrı ayrı ilişki sözleri bulunmaktadır: Tıraş olana, yıkanana sıhhatler olsun, bir işle uğraşana kolay gelsin, evlenenlere bir yastıkta kocayın, çocuğu olana Allah analı babalı büyütsün, Allah dört gözden ayırmasın, çocuğa ad konulduğunda adıyla yaşasın, yolcusunu uğurlayana Allah kavuştursun, beklediği kişi geldiğinde veya uzun süredir beklenen bir iş gerçekleştiğinde gözün aydın, bir bardak su verene su gibi aziz ol, su verenlerin bol olsun denilmiştir. Doğru cevap E seçeneğidir.
+
+    ***
+1. Aşağıdakilerden hangisi Türkçenin güçlü yanları ve iç zenginliği olarak değerlendirilebilecek alanlardan biri değildir?
+    - A-) Tarihsel Derinlik
+    - B-) Söz Varlığının Genişliği
+    - C-) İlişki ve Nezaket Sözlerinin Yoğunluğu
+    - **Cevap D-) Türkçenin Söz Varlığına Girmiş Yabancı Kökenli Sözcükler**
+    - E-) Atasözlerinin Çokluğu ve Anlatım Gücü
+
+    > **Açıklama:** Türk dilinin özellikleri ile zenginlik alanlarını açıklayabileceksiniz.
+    > Soru kitaptaki metni aynen sorduğu için hatırlama düzeyinde bir sorudur.
 
     ***
 1. Aşağıdakilerden hangisi dillerin birbirlerini etkilemesine neden olan etkilerden biri **değildir?**
@@ -14275,6 +15501,17 @@
     > İlkeden yola çıkarak genele varma olduğundan analiz düzeyindedir.
 
     ***
+1. Aşağıdakilerden hangisi Türk diliyle ilgili doğru bir ifadedir?
+    - A-) En çok ilişki ve nezaket sözcüklerinin bulunduğu dildir.
+    - **Cevap B-) Dünya dillerinin etkisi altında kalmıştır.**
+    - C-) Türk diline yerleşen her sözcük özel anlam ve işleve sahip değildir.
+    - D-) Dünya dillerinden en çok İngilizceye sözcük vermiştir.
+    - E-) İngiliz Türkolog, İngiltere'de bir dergide Türkçe sözlerin İngilizcedeki yoğunluğu ve kullanım sıklığını ele almıştır.
+
+    > **Açıklama:** Diller arasındaki etkileşimi kavrayabileceksiniz.
+    > Bilginin ne anlama geldiğini kavramış olduğu için anlama düzeyinde bir sorudur.
+
+    ***
 1. Aşağıdakilerden hangisi Türkiye Türkçesinin en çok konuşulduğu yerler arasında yer almaz?
     - A-) Türkiye
     - B-) Kuzey Kıbrıs Türk Cumhuriyeti
@@ -14284,6 +15521,17 @@
 
     > **Açıklama:** Dünyada Türk dilinin konuşulduğu coğrafyaları ayırt edebileceksiniz.
     > Soru kitaptaki metni aynen sorduğu için hatırlama düzeyinde bir sorudur.
+
+    ***
+1. İngilizcenin etkilediği dillerden biri olan Türkçenin kullanım alanlarıyla ilgili aşağıda verilen ikilemelerden hangisi yanlıştır?
+    - **Cevap A-) Catering-Bilişim**
+    - B-) Bestseller-Müzik
+    - C-) Printer-Bilişim
+    - D-) Ambiyans-Gündelik Hayat
+    - E-) Emergency-Sağlık Bilimleri
+
+    > **Açıklama:** Türkçenin diğer dillerle etkileşimini karşılaştırabileceksiniz.
+    > Bilginin ne anlama geldiğini kavradığı için anlama düzeyinde bir sorudur.
 
     ***
 1. Aşağıda Orhun Yazıtlarıyla ilgili verilen bilgilerden hangisi yanlıştır?<br />I. Orhun Yazıtlarında sadece Çince ve Sanskritçe kullanılmıştır.<br />II. Orhun Yazıtlarında Tibetçe dili yoğunluklu olmak üzere toplam beş dil kullanılmıştır.<br />III. Orhun Yazıtlarında beş dil kullanılmış ancak çok az sayıda sözcüğe yer verilmiştir.<br />IV. Orhun Yazıtlarında kullanılan dillerle başlayan etkileşim daha sonra Türk yazı dillerini de etkilemiştir.<br />V. Orhun Yazıtlarında kullanılan dillerin sözcük dağılımı eşittir.
@@ -14308,6 +15556,28 @@
     > Doğru cevap d şıkkıdır
 
     ***
+1. I. Türkçe yapı bakımından eklemeli bir dildir. II. Türkçe sözcüklerde kalınlık incelik açısından uyum güçlüdür. III. Türkçe sözcüklerde düzlük yuvarlaklık açısından uyum vardır. IV. Türkçe sözcüklerde genişlik yuvarlaklık açısından güçlü bir uyum vardır.<br />Türkçe ile ilgili yukarıda verilen bilgilerden hangileri doğrudur?
+    - A-) I, II
+    - B-) II, III
+    - **Cevap C-) I, II, III**
+    - D-) III, IV
+    - E-) II, III, IV
+
+    > **Açıklama:** Türk dilinin özellikleri ile zenginlik alanlarını açıklayabileceksiniz.
+    > Doğru cevap c şıkkıdır
+
+    ***
+1. I. Atasözleri, anlatıma açıklık kazandıran söz varlığı ögeleridir. II. Her dilin söz varlığında deyimler vardır. III. Yeryüzündeki her dilin atasözü yoktur. IV. Bir atasözünün oluşabilmesi için yüzyılların geçmesi gerekir. V. Türkçede yaklaşık 1.500 atasözü bulunmaktadır.<br />Yukarıdaki bilgilerden hangileri doğrudur?
+    - A-) I, II, III
+    - B-) II, III, V
+    - C-) III, IV, V
+    - D-) II, III, IV, V
+    - **Cevap E-) I, II, III, IV**
+
+    > **Açıklama:** Türk dilinin özellikleri ile zenginlik alanlarını açıklayabileceksiniz.
+    > Doğru cevap e şıkkıdır
+
+    ***
 1. I. Toplumlar ve kültürler arasındaki ilişkiler, dillerin birbirini etkilemesinde belirleyici en temel etmenlerdendir.<br />II. Dillerin oluşumundan bu yana diller arasındaki etkileşim son yıllarda yoğunluk kazanmıştır.<br />III. Avcılık, toplayıcılık, tarımcılık aşamalarında bütün toplumların dilleri değişmiştir.<br />IV. Ticari ilişkiler, savaşlar, barışlar, buluşlar ve felaketler dillerin birbirini etkilemesinde önemli unsurlardır.<br />V. Bir inanca girme, bir uygarlık dairesine katılma dillerin birbirini etkilemesinde etken unsurlardandır.<br />**Dillerin birbirini etkilemesi ile ilgili ifadelerden hangileri aşağıda doğru ve birlikte verilmiştir?**
     - A-) I ve II
     - B-) II, III, IV
@@ -14329,6 +15599,39 @@
     - E-) Beyhude çabalar
 
     > **Açıklama:** Türkçenin söz varlığının anlatım gücünü betimleyebileceksiniz.
+    > Doğru cevap b şıkkıdır
+
+    ***
+1. Aşağıdakilerden hangisi bir marka adının tür adına dönüşmesine örnek olarak verilebilir?
+    - A-) Gaz lambası
+    - B-) Salon
+    - **Cevap C-) Lüks**
+    - D-) İlaç
+    - E-) Parfüm
+
+    > **Açıklama:** Diller arasındaki etkileşimi kavrayabileceksiniz.
+    > Doğru cevap c şıkkıdır
+
+    ***
+1. Türkçeden en fazla sözcüğün geçtiği dil aşağıdakilerden hangisidir?
+    - **Cevap A-) Sırpça**
+    - B-) Farsça
+    - C-) Rusça
+    - D-) Bulgarca
+    - E-) Arapça
+
+    > **Açıklama:** Diller arasındaki etkileşimi kavrayabileceksiniz.
+    > Doğru cevap a şıkkıdır
+
+    ***
+1. I. Yaşanan söz varlığıyla birlikte tarihsel söz varlığının bütünüyle ortaya konulması. II. Halk ağzındaki sözlerin derlenmesi. III. Yeni kavramları karşılamak üzere sözcük ve terim türetme çalışmalarının yürütülmesi. IV. Anlatım gücünü gösterecek dil bilgisi ve dil bilimi araştırmalarının gerçekleştirilmesi. V. Eğitim düzeyi ile dilin kullanımı arasındaki ilişkinin incelenmesi.<br />Dillerin değerlendirilmesinde, yukarıdaki ölçütlerin hangileri ele alınmalıdır?
+    - A-) I, II, III
+    - **Cevap B-) I, II, III, IV**
+    - C-) I, II, III, V
+    - D-) II, III, V
+    - E-) III, IV, V
+
+    > **Açıklama:** Diller arasındaki etkileşimi kavrayabileceksiniz.
     > Doğru cevap b şıkkıdır
 
     ***
@@ -14361,7 +15664,8 @@
     - D-) Bacanak
     - E-) Baldız
 
-    > **Açıklama:** Doğru cevap a şıkkıdır
+    > **Açıklama:** Türkçenin söz varlığının anlatım gücünü betimleyebileceksiniz.
+    > Doğru cevap a şıkkıdır
 
     ***
 1. Aşağıdaki ilişki sözlerinden hangisi, olumsuz davranışları bulunanları örnek verirken kullanılmaktadır?
@@ -14395,6 +15699,17 @@
 
     > **Açıklama:** Türkçenin diğer dillerle etkileşimini karşılaştırabileceksiniz.
     > Doğru cevap d şıkkıdır
+
+    ***
+1. Aşağıdakilerden hangisi Türk dilinin özelliklerinden biridir?
+    - A-) Söz varlığındaki fazlaca alıntı sözcük yüzünden, ses uyumları güçlü değildir.
+    - B-) Sözcüğün ilk hecesinde kalın ünlü varsa sonraki hecelerde ince ünlü bulunur.
+    - **Cevap C-) Düz bir ünlüyle başlayan sözcüklerde birbirini izleyen ünlüler de düz olur.**
+    - D-) Yapı bakımından çekimli bir dil olduğu için yeni sözcük türetmeye elverişlidir.
+    - E-) Yuvarlak bir ünlüyle başlayan sözcüklerde birbirini izleyen ünlüler düz ve geniştir.
+
+    > **Açıklama:** Türk dilinin özellikleri ile zenginlik alanlarını açıklayabileceksiniz.
+    > Sorunun seçenekleri arasındaki 'düz bir ünlüyle başlayan sözcüklerde birbirini izleyen ünlüler de düz olur' ifadesi dışındaki bilgilerin tümü yanlıştır. Doğru yanıt C seçeneğidir.
 
     ***
 1. 'Allah nazardan saklasın.' ifadesi Türk dilinin hangi özelliği ile ilişkilidir?
@@ -14503,6 +15818,39 @@
 
     > **Açıklama:** Türkçenin güçlü yanları ve iç zenginliği olarak değerlendirebileceğimiz alanları da bulunmaktadır. Bunlar Türk dilinin tarihsel derinliği, coğrafi yaygınlığı, söz varlığının genişliği, ilişki ve nezaket sözlerinin yoğunluğu, akrabalık adlarının çeşitliliği, atasözlerinin çokluğu ve anlatım gücüdür.
     > Çoğrafi yaygınlık incelendiğinde, geçmişte yaşanmış olan göçler ve fetihler sonucunda büyük bir alana yayılan Türkçe, bugün geniş bir coğrafyada konuşulma niteliğini de kazanmıştır. Geçen yüzyılın ikinci yarısında çalışmak amacıyla Avrupa’nın çeşitli ülkelerine giden vatandaşlarımız, Türkçenin yaygınlık alanını daha da genişletmiştir. Bugün Avrupa’nın batısından Asya’nın doğusuna kadar uzanan yaklaşık on iki milyon kilometrekarelik bir alanda Türk dili konuşulmaktadır.
+
+    ***
+1. I. Mani<br />II. Soğut<br />III. Brahmi<br />IV. Tibet<br />V. Grek<br />Yukarıdaki yazı sistemlerinin hangileri Türkçe'nin kağıda dökülmesinde kullanılmıştır?
+    - A-) I - II
+    - B-) III - IV
+    - C-) I - IV - V
+    - D-) II - III - IV - V
+    - **Cevap E-) I - II - III - IV - V**
+
+    > **Açıklama:** Mani, Soğut, Brahmi, Tibet gibi yazı sistemleriyle Türkçe yazılabilmiştir. Türklerin İslam dinini kabul etmeleriyle birlikte Arap kaynaklı yazı bin yılı aşkın bir süredir Türk dilinin çeşitli yazı dillerinin kâğıda dökülmesinde kullanılmıştır. Bazı Türk toplulukları bugün Arap yazısını hâlâ kullanmaya devam etmektedir. Türkçe için Grek, Ermeni, İbrani, Süryani yazıları da kullanılmıştır.
+
+    ***
+1. Aşağıdakilerden hangisi Türkçe atasözü ve öğütler kapsamı içerisinde yer almaz?
+    - A-) Balık baştan kokar.
+    - B-) Yerin kulağı var.
+    - **Cevap C-) Su verenlerin bol olsun.**
+    - D-) Yoldan kal yoldaştan kalma.
+    - E-) Görünen köy kılavuz istemez.
+
+    > **Açıklama:** Yüzlerce yıllık gözlem ve deneyimler sonucunda günümüze ulaşan atasözleri içerisinde
+    > toplumsal yaşayış ve insan ilişkileri için öğütler veren vakit nakittir, balık baştan kokar, yerin kulağı var, görünen köy kılavuz istemez, yoldan kal yoldaştan kalma gibi yüzlerce atasözümüz vardır.
+    > Su verenlerin bol olsun ifadesi ise Türkçe'nin nezaket belirten ifadelerindendir.
+
+    ***
+1. I. Çince II. Sanskritçe III. Soğdca IV. Toharca Eski Türkçe yukarıdaki dillerin hangilerinden etkilenmiştir?
+    - A-) Yalnız II
+    - B-) I - III
+    - C-) II - IV
+    - D-) I - III - IV
+    - **Cevap E-) I - II - III - IV**
+
+    > **Açıklama:** Eski Türkçe'de Çince, Sanskritçe, Soğdca, Toharca, Hintçe, Tibetçe vb. dillerden etkilenen Türkçe söz varlığı dikkat çekmektedir. Örneğin, Orhon Yazıtları’nda Çince (totok ‘askerî vali’), Sanskritçe (çıntan ‘sandal ağacı’), Soğdca
+    > (ıgar ‘güçlü, kudretli’), Hintçe (makaraç ‘bir unvan veya kişi adı’), Tibetçe (bölün ‘yüksek görevli’) ifadeleri görülmektedir.
 
     ***
 1. "Osmanlı Türkçesi olarak adlandırdığımız Türkçenin 16. yüzyıldan 20. yüzyılın başlarına kadar olan döneminde ............... ve ............... dil bilgisi kuralları ve ögeleri de dilin yapısına etki etmeye başlamıştır. Kitaplar yerine kütüb, şairler yerine şuara, yetimler yerine eytam, memurlar yerine memurin, şahlar yerine şahan bu etkilenmenin örnekleri arasında gösterilebilir."<br />Metinde boş bırakılan yerlere hangi dil eşleşmesi yazılmalıdır?
@@ -14707,6 +16055,16 @@
     > **Açıklama:** Marka adı iken tür adı özelliği kazanan ve giderek sözcükleşme eğilimi gösteren örnekler bulunmaktadır. Bunların bir bölümü türünün ilk örneği olması, bir bölümü de yürütülen yaygın tanıtım çalışmaları nedenleriyle marka ad iken tür adı durumuna gelmiştir. Kâğıt mendil demek yerine bilinen bir marka adının kullanılması, Türkçesi hazır kahve olan tür için marka adı söylenmesi, çamaşır suyu asıl karşılığı iken marka adıyla istenmesi günümüzdeki örneklerden yalnızca birkaçıdır.
 
     ***
+1. Türkçeden en fazla sözcüğün geçtiği dil aşağıdakilerden hangisidir?
+    - A-) Arapça
+    - B-) Farsça
+    - C-) İbranice
+    - **Cevap D-) Sırpça**
+    - E-) Bulgarca
+
+    > **Açıklama:** Türkçeden en fazla sözcüğün geçtiği dil Sırpçadır. Bir zamanlar dokuz bine yakın sözcüğün bulunduğu belirlenmiştir. Bugün Sırpçada sayısı yedi bine yaklaşan Türkçe alıntıdan badžànak ‘bacanak’, bàlta ‘balta’, dùšek ‘döşek’, jòrgan ‘yorgan’, kàjmak ‘kaymak’, òdžak ‘ocak’ bunlardan yalnızca birkaçıdır.
+
+    ***
 1. Türkçenin en fazla sözcük aldığı dil aşağıdakilerden hangisidir?
     - A-) Farsça
     - B-) Sırpça
@@ -14766,6 +16124,36 @@
     - E-) Akraba adlarındaki çeşitlilik
 
     > **Açıklama:** Avrupa dillerinden daha zengin olması yanlış bir ifadedir. Bu nedenle cevap C'dir.
+
+    ***
+1. Orhun Yazıtlarında aşağıdaki dillerden hangisinden alıntı sözcükler görülmez?
+    - A-) Çince
+    - B-) Sanskritçe
+    - C-) Soğdca
+    - D-) Hintçe
+    - **Cevap E-) Teluguca**
+
+    > **Açıklama:** Orhun Yazıtlarında Teluguca'dan alıntı sözcükler yoktur.
+
+    ***
+1. Arapça ve Farsça sözcükler, Türkçe'ye hangi dönemden itibaren girmeye başlamıştır?
+    - A-) Osmanlılar
+    - B-) Selçuklular
+    - **Cevap C-) Karahanlılar**
+    - D-) Gazneliler
+    - E-) Memluklar
+
+    > **Açıklama:** Arapça ve Farsça sözcükler Karahanlılar döneminden itibaren dilimize girmiştir.
+
+    ***
+1. Edebî eserlerin söz varlığında Arapçadan ve Farsçadan alıntılarda artış görüldüğü yüzyıl aşağıdakilerden hangisidir?
+    - A-) 14\. yy.
+    - B-) 15\. yy.
+    - **Cevap C-) 16\. yy.**
+    - D-) 17\. yy.
+    - E-) 18\. yy.
+
+    > **Açıklama:** Edebi eserlerde 16. yy'da Arapça ve Farsça'nın etkisi artmıştır.
 
     ***
 1. Türk Dil Kurumu tarafından 2011 yılında yayımlanan on birinci baskı Türkçe Sözlüğe göre en çok sayıda alıntı sözcük hangi dile aittir?
@@ -14902,6 +16290,37 @@
     > tarafından söylenen ancak dilin konuşurları tarafından benimsenen, yüzyıllarca tekrarlanarak belirli bir kalıba dökülen atasözleri dillerin yaşını da gösteren söz varlığı ögeleridir. Doğru cevap B seçeneğidir.
 
     ***
+1. Bugün yabancı karşılıklarının yaygınlaştığı birçok kavramın Türkçelerinin yaşadığını<br />gördüğümüz 13-15. yüzyıllar arasındaki bu dönem eserlerinde yabancı sözlerden etkilenmenin ortalama kaç olduğu belirlenmiştir?
+    - A-) %15
+    - **Cevap B-) %20**
+    - C-) %25
+    - D-) %30
+    - E-) %35
+
+    > **Açıklama:** Bugün yabancı karşılıklarının yaygınlaştığı birçok kavramın Türkçelerinin yaşadığını
+    > gördüğümüz 13-15. yüzyıllar arasındaki bu dönem eserlerinde yabancı sözlerden etkilenmenin ortalama %20 olduğu belirlenmiştir. Doğru cevap B seçeneğidir.
+
+    ***
+1. Türkçe Sözlük’teki kaç adet alıntı yer almaktadır?
+    - **Cevap A-) Beş yüz on üç**
+    - B-) Beş yüz on beş
+    - C-) Beş yüz on altı
+    - D-) Beş yüz on sekiz
+    - E-) Beş yüz on dokuz
+
+    > **Açıklama:** Türkçe Sözlük’teki beş yüz on üç alıntı vardır. Doğru cevap A seçeneğidir.
+
+    ***
+1. Horasan Türkçesi aşağıda verilen ülkelerden hangisinde en çok konuşulmaktadır?
+    - A-) Afganistan
+    - B-) Irak
+    - **Cevap C-) İran**
+    - D-) Gürcistan
+    - E-) Kazakistan
+
+    > **Açıklama:** Horasan Türkçesi en çok İran'da konuşulmaktadır. Doğru cevap C seçeneğidir.
+
+    ***
 1. Uygur yazı dili döneminde Çince, Sanskritçe, Toharcadan etkilenen Türkçenin söz varlığının daha sonra Arapça ve Farsçadan etkilenmesinin en önemli nedeni aşağıdakilerden hangisidir?
     - **Cevap A-) Türklerin İslam dinine girmesi**
     - B-) Türklerin Arap ve Fars kaynaklarından yararlanması
@@ -14949,6 +16368,19 @@
     - **Cevap C-) Arapça**
     - D-) Japonca
     - E-) Fransızca
+
+    > **Açıklama:** Türkçenin diğer dillerle etkileşimini karşılaştırabileceksiniz.
+
+    ***
+1. Aşağıdakilerden hangisi Litvanya, Polonya, Rusya Federasyonu bölgesinde konuşulan Türkçeye verilen addır?
+    - A-) Tuva Türkçesi
+    - **Cevap B-) Karayim Türkçesi**
+    - C-) Çuvaşça
+    - D-) Kaşgay Türkçesi
+    - E-) Afşar Türkçesi
+
+    > **Açıklama:** Dünyada Türk dilinin konuşulduğu coğrafyaları ayırt edebileceksiniz.
+
     ***
 1. Göktürkçe için aşağıdakilerden hangisi söylenemez?
     - A-) Yazıtlarda kullanılan dil son derece gelişmiştir.
@@ -14998,6 +16430,16 @@
     - E-) Arapça
 
     > **Açıklama:** İkinci Dünya Savaşı’ndan sonra Anglosakson kültürün egemenlik alanının artmasıyla birlikte İngilizce pek çok dili etkilediği gibi Türkçeyi de etkilemeye başlamıştır. Doğru cevap B’dir.
+
+    ***
+1. Türkçe sözlüğe göre Türkçenin en fazla alıntı yaptığı dil hangisidir?
+    - A-) Fransızca
+    - B-) İngilizce
+    - C-) İtalyanca
+    - **Cevap D-) Arapça**
+    - E-) Farsça
+
+    > **Açıklama:** Türk Dil Kurumu tarafından 2011 yılında yayımlanan on birinci baskı Türkçe Söz­lük’teki bu türden alıntı sözcüklerin dillere göre sayıları şöyledir: Arapça 6.512, Fransızca 5.537, Farsça 1.375, İtalyanca 606, İngilizce 513, Rumca 447. Doğru cevap D’dir.
 
     ***
 1. Türklerin en uzun süre ile ve en yaygın olarak kullandığı yazı sistemi hangisidir?
@@ -15218,6 +16660,16 @@
     - E-) Ukrayna
 
     > **Açıklama:** Şor Türkçesi Rusya Federasyonu (Kemerovo bölgesi)'nde konuşulmaktadır.
+
+    ***
+1. Aşağıdakilerden hangisi Türkçeyi etkileyen etkenlerden biri değildir?
+    - A-) Orhun Yazıtları
+    - **Cevap B-) Kutadgu Bilig**
+    - C-) İslamiyet
+    - D-) Tanzimat Fermanı
+    - E-) İkinci Dünya Savaşı
+
+    > **Açıklama:** Orhun Yazıtları, İslamiyete geçiş, Tanzimat Fermanız ve İkinci Dünya Savaşı direkt olarak Tükçenin yapısını etkilemiştir. Türklerin İslam dinine girmesiyle birlikte bu kez de Arapça, Farsça sözcükler Karahanlı Dönemi eserlerinden itibaren Türk yazı dillerinde görülmeye başlanır. Bu dönemin ilk eserlerinden Yusuf Has Hacib’in yazdığı Kutadgu Bilig’de Arapçadan etkiler görülür. Doğru yanıt B'dir.
 
     ***
 1. Türkçedeki etkileşim tarihte çeşitli ulusların dillerinden sözcük alışverişi ile başlamış, dönemden döneme değişen dillerle sürmüştür. Aşağıdaki dönemlerin hangisinde Arapçadan geçen tamlamaların sözcüklerin cinsiyeti gözetilerek yapılması ile karşılaşılır?
@@ -15478,6 +16930,16 @@
     > **Açıklama:** İlk yazılı kaynağımız Orhon Yazıtları’nda kullanılan ve bir bölümü Türk damgalarından gelen harflerden oluşan Göktürk yazısı ulusal abecemizdir. Ancak daha sonra farklı kültür ve inançların etki alanına giren Uygurlarla birlikte başka abeceler de kullanılır olmuş- tur. Mani, Soğut, Brahmi, Tibet gibi yazı sistemleriyle Türkçe yazılabilmiştir. Türkçe için Grek, Ermeni, İbrani, Süryani yazıları da kullanılmıştır. Bunun dışında arapça, latince ve kiril alfabesi de kullanılmıştır.
 
     ***
+1. Türkçede yeni sözcükler ve terimler türetmenin daha kolay olmasının sebebi aşağıdaki şıkların hangisinde kesin olarak belirtilmiştir?
+    - A-) Türkçede ses uyumlarının güçlü olması
+    - **Cevap B-) Türkçenin yapı bakımından eklemeli bir dil olması**
+    - C-) Türkçenin sözcük sayısının fazla olması
+    - D-) Türkçenin anlam açısından zengin olması
+    - E-) Türkçenin daha eski bir mazisinin bulunması
+
+    > **Açıklama:** Yapı bakımından eklemeli dil olması dolayısıyla Türkçede yeni sözcükler, terimler türetmek çok daha kolaydır. Hiç kuşkusuz bu özellik, yalnız Türkçe için değil yapı bakımından aynı özelliğe sahip diğer diller için de geçerlidir.
+
+    ***
 1. Aşağıdaki seçeneklerin hangisinde Türkçenin gücü ve iç zenginliğini gösteren bir özellik yer almamaktadır?
     - A-) Coğrafi yaygınlığı
     - **Cevap B-) Çekimli dil olması**
@@ -15626,6 +17088,16 @@
     - E-) İspanyolca
 
     > **Açıklama:** Tanzimat Fermanı ile birlikte Batı’ya yöneliş, Türkçenin söz varlığında bu kez de Fransızcanın etkisini başlatmıştır. Doğru cevap B'dir.
+
+    ***
+1. Türkçeden en fazla sözcüğün geçtiği dil aşağıdakilerden hangisidir?
+    - A-) Almanca
+    - B-) Portekizce
+    - C-) İtalyanca
+    - D-) İspanyolca
+    - **Cevap E-) Sırpça**
+
+    > **Açıklama:** Türkçeden en fazla sözcüğün geçtiği dil Sırpça'dır. Doğru cevap E'dir.
 
     ***
 1. Türkçedeki 5.500 ’ün üzerindeki Fransızca alıntıya karşılık bu dile geçen Türkçe kökenli sözcük sayısı yaklaşık olarak kaçtır?
@@ -15815,6 +17287,18 @@
 
     > **Açıklama:** Dünden Bugüne Yabancı Dillerin Etkisi başlığı altındaki bilgileri gözden geçiriniz.
     > Amaç 4
+
+    ***
+1. Aşağıdaki Batı kökenli sözcüklerin Türkçe karşılıkları eşleşmelerinden hangisi **yanlıştır?**
+    - A-) İnovasyon: Yenilik
+    - B-) E-mail: Elektronik posta
+    - C-) Badigard: Koruma
+    - D-) Server: Sunucu
+    - **Cevap E-) Show: Başarım**
+
+    > **Açıklama:** Dünden Bugüne Yabancı Dillerin Etkisi başlığı altındaki bilgileri gözden geçiriniz
+    > İngilizce kökenli "bestseller" yazılan sözcük, bir çok yerde "en çok satan" diye Türkçeleştirilse de doğru karşılık "en çok satılan"dır.
+    > Show sözcüğü gösteri, gösterim olarak Türkçe karşılığı olan bir alıntıdır.
 
     ***
 1. Aşağıdakilerden hangisi, Türkiye Türkçesinin yayılma alanlarının son elli yılda genişlemesinin nedenlerinden biri değildir?
@@ -16046,14 +17530,14 @@
     > **Açıklama:** Türkçenin karşı karşıya bulunduğu sorunların çözümü için öncelikle toplumda Türkçe bilincinin yaygınlaştırılması ve dilin öneminin kavratılması gerekmektedir. Eğitim siste- mimiz Türkçeyi sevdirecek, benimsetecek nitelikte yeniden düzenlenmelidir. Radyo ve televizyon kuruluşları, basın yayın organları; toplumda Türkçe bilincinin geliştirilmesi, doğru ve güzel Türkçenin yaygınlaştırılması konusunda etkin olabilirler. Eğitim kurum- larından sonra bu konuda en büyük sorumluluk radyo ve televizyon kuruluşlarına, basın yayın organlarına düşmektedir. Kitle iletişim araçlarında bozuk dil kullanımı nasıl bir anda yaygınlaşıyorsa doğru ve güzel Türkçe kullanımı da bir anda yaygınlaşacaktır. Bu konuda ödüllendirici olmak gerekir. Türk Dil Kurumu, RTÜK gibi kurumların topluma örnek olacak biçimde doğru ve güzel Türkçeyi kullanan yazar, gazeteci, tiyatrocu, spiker ve sunucuyu ödüllendirmeye devam etmesi yararlı olacaktır. Bununla birlikte dilin kul- lanıldığı alanlarda yasal boşlukların giderilmesi, kuralların belirlenmesi yararlı olacaktır. Örneğin şirket adının tescil edilmesi uygulaması iş yeri ve ürün adlandırını da kapsayacak biçimde genişletilebilir. Doğru cevap E'dir.
 
     ***
-1. Bilim, sanat, spor, meslek dalıyla veya bir konu ile ilgili özel ve belirli  bir kavramı karşılayan sözcük şıklardan hangisidir?
+1. Bilim, sanat, spor, meslek dalıyla veya bir konu ile ilgili özel ve belirli bir kavramı karşılayan sözcük şıklardan hangisidir?
     - A-) Anlatım
     - B-) Misal
     - C-) Jargon
     - D-) Tabir
     - **Cevap E-) Terim**
 
-    > **Açıklama:** Terim; Bilim, sanat, spor, meslek dalıyla veya bir konu ile ilgili özel ve belirli  bir kavramı karşılayan sözcük.
+    > **Açıklama:** Terim; Bilim, sanat, spor, meslek dalıyla veya bir konu ile ilgili özel ve belirli bir kavramı karşılayan sözcük.
 
     ***
 1. İmla olarak da adlandırılan ve bir dilin belli kurallarla yazıya geçirilmesi; söz varlığının yürürlükte olan ses, biçim, köken bakımından kurallara uygun olarak yazılması, noktalama işaretlerinin yerli yerinde kullanılması olarak tanımlanan dil bilgisi terimi şıklarda hangisidir?
@@ -16269,6 +17753,16 @@
     > kökenli sözcüklere yer verilmesi, iş yerlerinde, ürünlerde yabancı adlar kullanılması genellikle dilin bir sorunu olarak algılanmaktadır.
 
     ***
+1. Bir dilin yabancı bir dilden çok çabuk etkilenir hale gelmesinde aşağıdaki unsurlardan hangisi etkili olamaz?
+    - A-) Kitle iletişim araçlarının yayılması ve zenginleşmesi
+    - B-) Sosyal medya ortamı
+    - C-) Film-dizi sektörünün etkisi
+    - **Cevap D-) İnsanların tek bir dili konuşma isteği**
+    - E-) Gelişen teknolojiyle kültürler arası sınırların ortadan kalkması
+
+    > **Açıklama:** Dillerin birbirinden çok daha kısa sürede etkilenir hale gelmesinde gelişen teknoloji ve bunun getirdiği çeşitli kitle iletişim araçları,bu araçlar sayesinde dünyaya yayılan film,dizi yayınları,basılan kitaplar,sosyal medya ortamı oldukça etkili faktörlerken insanların tek tip dili benimseme gibi bir isteğinden bahsedilemez.
+
+    ***
 1. Dünya dillerini küresel anlamda İngilizce'den sonra en çok etkileyen ikinci dil aşağıdakilerden hangisidir?
     - A-) İtalyanca
     - B-) Çince
@@ -16410,6 +17904,16 @@
     > **Açıklama:** TDK'ya göre arboretum, ağaç parkı anlamına gelmektedir.
 
     ***
+1. Karamanoğlu Mehmet Bey'in "Şimden gerü divanda, dergahta, bargahta, çarşıda ve bazarda Türkçe'den başka dil konuşulmaya" şeklinde ferman çıkarmış olmasının nedeni aşağıdakilerden hangisidir?
+    - A-) Yabancı düşmanlığı
+    - B-) Yabancı dil bilmiyor olması
+    - C-) Türkçe konuşan nüfusun azalıyor olması
+    - **Cevap D-) Türkçe karşı yaşanan duyarsızlığın artması**
+    - E-) Türkçe'nin dönemin bilim dili olması
+
+    > **Açıklama:** İlgili ferman Türkçe'ye karşı meydana gelen duyarsızlaşmaya son vermek amacıyla çıkarılmıştır.
+
+    ***
 1. "Büyük bir konsensüs bekliyoruz." cümlesinde yer alan konsensüs kelimesinin Türkçe'deki karşılığı aşağıdakilerden hangisidir?
     - A-) Gösteri
     - B-) Merasim
@@ -16418,6 +17922,16 @@
     - E-) Değişim
 
     > **Açıklama:** Konsensüs, uzlaşma ve oydaşma anlamlarına gelmektedir.
+
+    ***
+1. Müselles kelimesinin günümüz Türkçe'sindeki karşılığı aşağıdakilerden hangisidir?
+    - A-) Bela
+    - B-) İlişki
+    - **Cevap C-) Üçgen**
+    - D-) Denetçi
+    - E-) Yönetmen
+
+    > **Açıklama:** Müselles, üçgen anlamına gelmektedir ve üçgen adı bizzat Atatürk tarafından verilmiştir.
 
     ***
 1. Aşağıdakilerden hangisi dilin sorunlarından biri olamaz?
@@ -16729,6 +18243,9 @@
     - C-) Seyahat olanaklarının fazlalığı
     - **Cevap D-) Kitle iletişim araçları ve sanal ortamda sınırsız erişim**
     - E-) Türkçe'nin dil yapısındaki yetersizlikler
+
+    > **Açıklama:** Türkçenin karşı karşıya bulunduğu sorunların kaynaklarını belirleyebileceksiniz.
+
     ***
 1. Radyo ve televizyon yayımlarının yaygınlaşması, dinleme ve izleme oranlarının yükselmesi ile Türkçe'deki söyleyiş bozuklukları, cümle düşüklükleri, yanlış sözcük kullanma, Türkçenin söz varlığında bulunmayan yabancı sözcüklere yer verme, kaba dil ve argo gibi etkiler gözlemlenmiştir. Bu durumun sebebi aşağıdakilerden hangisidir?
     - **Cevap A-) 1990 yılında başlayan özel yayımcılıkla televizyon ve radyo yayımcılarının seçimindeki niteliğin göz ardı edilmeye başlanması.**
@@ -16770,6 +18287,16 @@
     > **Açıklama:** Türkçenin kullanımında yaşanan güncel sorunları ayırt edebileceksiniz.
 
     ***
+1. Aşağıdakilerden hangisi Türkçe ile ilgili olarak kabul edilen yanlışlardandır?
+    - A-) Türkçe'nin söz varlığı ve anlatım gücü zengindir.
+    - B-) Türkçe kendi kendine yeten özelliklere sahip bir dildir.
+    - **Cevap C-) Türkçe yazıldığı gibi okunan bir dildir.**
+    - D-) Türkçe atasözleri ve deyimler açısından zengin bir dildir.
+    - E-) Türkçe, yeryüzünün en eski ve en geniş coğrafya parçasında konuşulan gelişmiş bir dildir.
+
+    > **Açıklama:** Türkçenin kullanımında yaşanan güncel sorunları ayırt edebileceksiniz.
+
+    ***
 1. Bilim dili ne demektir?
     - A-) Arkeolojik kazılarda kullanılan teknik bir terimdir
     - B-) Popüler şarkıların söylendiği dildir
@@ -16787,7 +18314,8 @@
     - D-) Anlatım bozukluklarının sıkça tekrarlanmamasıyla
     - E-) Dil, kullanırken gereken özenin gösterilmemesiyle
 
-    > **Açıklama:** Diğer tüm şıklardaki ifade edilenler Türkçenin ve diğer dillerin en önemli sorun alanlarından olması nedeniyle A şıkkında ifade edilen kelimelerin kökenlerine ilişkin açıklama, bir dilin kullanımına ilişkin karşılaşılan problemler arasında, diğerlerine göre daha dolaylı bir etkiye sahip olabileceğinden, son sıralardadır.
+    > **Açıklama:** Türkçenin kullanımında yaşanan güncel sorunları ayırt edebileceksiniz.
+    > Diğer tüm şıklardaki ifade edilenler Türkçenin ve diğer dillerin en önemli sorun alanlarından olması nedeniyle A şıkkında ifade edilen kelimelerin kökenlerine ilişkin açıklama, bir dilin kullanımına ilişkin karşılaşılan problemler arasında, diğerlerine göre daha dolaylı bir etkiye sahip olabileceğinden, son sıralardadır.
 
     ***
 1. 1\. Kitle iletişim araçları 2. Dildeki yapısal sorunlar 3. Kültürler arası sınırların ortadan kalkması 4. İnternet kullanımı Yukarıdakilerden hangileri bir dilin söz varlığını etkileme gücüne sahiptir?
@@ -16944,6 +18472,17 @@
     > Yabancı dille öğretimin yapıldığı derslerde okutulan ders kitapları yabancı dilde olduğu gibi yabancı bilim adamlarınca yazılmış eserlerdir. Bu durumda dersi veren; genellikle kitapta yazılanları öğrenciye aktarmakta, kitabın öğrencilerce anlaşılır olmasını sağlamaktadır. Oysa özellikle üniversiteler araştırmanın, incelemenin, sorgulamanın yoğun bir biçimde yapıldığı bilim kurumlarıdır. Belki de yüzlerce kaynağa bakılarak yapılması gereken öğretim birkaç kaynakla sınırlı kalmakta, dersler de bu kaynaktaki bilgileri anlatmaya ve anlamaya ayrılan zamanla geçmektedir. Öğretim yılının sonunda da öğrenciler genellikle derste okunan kitaptaki bilgileri ezberleyerek sınava girmektedir. Oysa öğrencilerin de pek çok kaynağı okuyarak, araştırma yaparak, sorgulayarak bilgiyle donanması gerekir. Bu ve benzeri olumsuzluklar karşısında yabancı dille öğretim yerine mükemmel bir biçimde yabancı dil öğretimi yapılmalı, bölümlerde hazırlık sınıfının yanı sıra lisans öğ- retimi süresince mesleki yabancı dil dersi okutulmalı, öğretim dili ise elbette Türkçe olmalıdır.
 
     ***
+1. Türkçenin söz dizimi özelliklerini etkileyen yabancı dilden etkilenmeye örnek olarak aşağıdakilerden hangisi gösterilebilir?
+    - A-) Salih Kebabchii
+    - B-) Rainbow Kasabı
+    - C-) Gönül Berberi
+    - **Cevap D-) Eczane Derman**
+    - E-) Yoğurtlu Köfte
+
+    > **Açıklama:** Türkçenin kullanımında yaşanan güncel sorunları ayırt edebileceksiniz.
+    > Türk yazımı yerine yabancı kurallara göre yazma eğilimi de ortaya çıktı: Efendy, Hotel Taxiim, Eskiidjii, Laiila, Wiishne Bar, Neshe, Kiitapchii, Yemiish, Kebabchii, Deriichii... Bu etkilenme yalnızca sözcük girişiyle sınırlı kalmamakta Türkçe'nin söz dizimi özelliklerini de zorlamaktadır: Diivan Oteli demek dururken Hotel Diivan, Marmara Oteli demek varken The Marmara, Derman Eczanesii yerine Eczane Derman demek Türkçe'nin söz dizim özeliklerini hiçe saymaktır.
+
+    ***
 1. Türkçeye karşı kayıtsızlığın, duyarsızlığın yaşandığı bir dönemde Aşık Paşa hangi eserinde Türkçe bilincinin oluşmamasından yakınmaktadır?
     - A-) Mesnevi-i Şerif
     - B-) Hüsrev ü Şirin
@@ -16986,6 +18525,17 @@
 
     > **Açıklama:** Türkçenin karşı karşıya bulunduğu sorunların kaynaklarını belirleyebileceksiniz.
     > Türkçe konuşurlarının yaşadığı sorunlar genellikle kendi bilgi yetersizliklerinden kaynaklanmaktadır. Üretim yapan ülkelerin ürettiği teknolojiler elbette o ülkenin dilinden Türkçe'ye geçecektir, bu konuda konuşurların kabahati yoktur.
+
+    ***
+1. Aşağıdakilerden hangisi Türkçenin yanlış kullanımına sebebiyet vermez?
+    - A-) Kitle iletişim araçlarından televizyonun Türkçeyi yanlış kullanması
+    - B-) Türkçenin Arapça ve Fars kültürünün etkisi altında kalmasıyla dile geçen sözcükler
+    - C-) Sosyal medyada yapılan imla hataları
+    - **Cevap D-) Dil için hazırlanmış bir sözlük kullanılması**
+    - E-) Yalnızca ünsüz harflerle yazışma
+
+    > **Açıklama:** Türkçenin karşı karşıya bulunduğu sorunların kaynaklarını belirleyebileceksiniz.
+    > Sözlük yalnızca dili öğrenenler için değil, o dilin konuşucuları için de hazırlanmıştır.
 
     ***
 1. Aşağıdakilerden hangisi yanlıştır?
@@ -17065,6 +18615,17 @@
     > Doğru cevap b şıkkıdır.
 
     ***
+1. "trend" sözcüğünün Türkçe karşılığı aşağıdakilerden hangisidir?
+    - A-) popüler
+    - **Cevap B-) yönelim**
+    - C-) ilgili
+    - D-) istekli
+    - E-) yoğun
+
+    > **Açıklama:** Türkçenin karşı karşıya bulunduğu sorunların kaynaklarını belirleyebileceksiniz.
+    > Doğru cevap b şıkkıdır. Trend yerine eğilim ya da yönelim kullanılır.
+
+    ***
 1. I. Öğretim üyelerinin Türkçe ders malzemesi sağlama zorunluluğu.<br />II. Öğretim üyelerinin Türkçe kitaplar, makaleler yazması.<br />III. Bilimin Türkçe yapılması.<br />IV. Yabancı uyruklu öğretim üyelerinin üç yıl içinde Türkçeyi öğrenme zorunluluğu.<br />Yukarıdakilerden hangileri, 1933 yılında yapılan üniversite reformunda alınan kararlardır?
     - A-) I, II
     - B-) II, III
@@ -17096,6 +18657,17 @@
 
     > **Açıklama:** Türkçenin kullanımında yaşanan güncel sorunları ayırt edebileceksiniz.
     > *kurdele* yerine *kordele* veya *kurdela*, *egzoz* yerine *eksoz* veya *egsoz*yazmak birer yazım yanlışıdır.
+
+    ***
+1. Aşağıdakilerden hangisi terimin tanımıdır?
+    - A-) Sanat alanında bir konuyla ilgili özel ve belirli bir kavramı karşılayan sözcük
+    - B-) Bilim, sanat, spor ve meslek dallarına ait kullanılan özel sözcük
+    - C-) Günlük konuşma diline ait kullanılan szöcük
+    - D-) Mecaz, yan ve deyim anlamları olan günlük konuşma diline ait kullanılan sözcük
+    - **Cevap E-) Bilim, sanat, spor, meslek dalıyla veya bir konu ile ilgili özel ve belirli bir kavramı karşılayan sözcük**
+
+    > **Açıklama:** Türkçenin karşı karşıya bulunduğu sorunların kaynaklarını belirleyebileceksiniz.
+    > Soru kitaptaki metni aynen sorduğu için hatırlama düzeyindedir
 
     ***
 1. Aşağıdakilerden hangileri radyo-televizyon yayımlarının yaygınlaşması ve dinleme-izleme oranlarının yükselmesinin Türkçe açısından ortaya çıkardığı sorunlar arasında görülmektedir?<br />I) Yanlış sözcük kullanma<br />II) Yabancı sözcük kullanımının azalması<br />III) Dili etkin kullanamama<br />IV) Söyleyiş Bozuklukları<br />V) Kitap ve gazete okuma oranının azalması
@@ -17162,6 +18734,17 @@
 
     > **Açıklama:** Türkçenin karşı karşıya bulunduğu sorunların kaynaklarını belirleyebileceksiniz.
     > Bilim, sanat, spor ve meslek dalıyla veya bir konu ile ilgili özel ve belirli bir kavramı karşılayan sözcüklere 'terim' denmektedir. Diğer seçeneklerin tamamı kişinin 'sözcük dağarcığını' ifade etmekte ve eş anlamlıdırlar. Doğru yanıt D'dir.
+
+    ***
+1. Türkiye'de yapılan bir araştırma, haber programlarının bir kaç yüz sözcükle hazırlandığını göstermektedir. Bu bilgi, Türkçe'nin kullanımında yaşanan sorunlardan hangisi ile ilişkilidir?
+    - A-) Yabancı sözlerin yoğunluğu
+    - B-) Sosyal medyada Türkçe'nin kullanımı
+    - **Cevap C-) Kitle iletişim araçlarında Türkçe'nin kullanımı**
+    - D-) Söyleyiş bozuklukları
+    - E-) Yazım yanlışları
+
+    > **Açıklama:** Türkçenin karşı karşıya bulunduğu sorunların kaynaklarını belirleyebileceksiniz.
+    > Türk Dil Kurumu'nun RTÜK için 1999 yılında yaptığı bir araştırmaya göre, haber programlarında bin sözcüğün kullanıldığı, ilk yüz sözcüğün ise bu söz varlığının neredeyse yüzde ellisini oluşturduğu ortaya konulmuştur. Bu veri, haber programlarının birkaç yüz sözcükle hazırlandığını göstermektedir. "Haber programları" kitle iletişim araçlarından biridir. Bu nedenle "Kitle iletişim araçlarında Türkçe'in kullanımı" ifadesi ile ilişkilidir. Doğru yanıt C'dir.
 
     ***
 1. Aşağıdakilerden hangisi hem kitle ileşitim araçlarında hem de sosyal medyada Türkçe'nin kullanımı ile ilgili yaşanan ortak bir sorundur?
@@ -17540,6 +19123,16 @@
     > **Açıklama:** 21 Mayıs 2002 tarihli Resmî Gazete’de yayımlanarak yürürlüğe girmiştir. Doğru cevap C'dir.
 
     ***
+1. Bir sözcüğün ses, hece, ton, vurgu bakımından söylenme biçimi olarak tanımlanan dil bilgisi terimi aşağıdakilerden hangisidir?
+    - A-) Yazım
+    - B-) İmla
+    - C-) Terim
+    - D-) Söz varlığı
+    - **Cevap E-) Söyleyiş**
+
+    > **Açıklama:** Söyleyiş; telaffuz, sesletim, söyleniş olarak da adlandırılan ve bir sözcüğün ses, hece, ton, vurgu bakımından söylenme biçimi olarak tanımlanan dil bilgisi terimidir. Doğru cevap E'dir.
+
+    ***
 1. Bir dile yabancı dilden sözcüklerin hızlı şekilde girişinin asıl nedeni nedir?
     - A-) O dildeki sözcüklerin söyleniş zorluğu
     - B-) O toplumda yaşayan yabancıların sayıca fazla olması
@@ -17701,6 +19294,17 @@
     > yaşadığı sorunlardır. Bunlar Türkçenin özelliklerini yeterince kavrayamamış, söz varlığının anlatım gücü ile donanamamış, kendi yetersizliklerinin nedenini Türkçeye bağlayan,
     > bu yüzden de yabancı sözcüklerin cazibesine kapılmış kullanıcıların sorunudur. Kısacası
     > dilin asıl sorunu, gerekli özeni göstermeyen konuşurlarladır.
+
+    ***
+1. Türk Dil Kurumunun kuruluşu ile terimler alanında başlatılan çalışmalar da Türkçenin bilim dili olarak<br />işlenmesine katkıda bulunmuştur. TDK'nın ilk uygulaması aşağıdakilerden hangisidir ?
+    - A-) İbn-i Sinâ-Tıbbın Kanunu
+    - **Cevap B-) Atatürk-Geometri Kitabı**
+    - C-) Farabi-İlimlerin Sayımı
+    - D-) Ali Kuşçu-Fethiye
+    - E-) İbnü'l Kemal İlyas b. Ahmed-Keşfül-Akabe
+
+    > **Açıklama:** İlk uygulama Atatürk’ün geometri terimleri üzerine yaptığı çalışma olmuştur. Atatürk, yazdığı Geometri kitabında yeni türettiği ve tanımını verdiği açı, açıortay, altıgen,
+    > beşgen, çap, dar açı, dış tersaçı, dikey, düşey çizgi, eşkenar dörtgen, ikizkenar üçgen, teğet, yamuk, yüzey gibi yüz yirmi dokuz geometri terimini kullanarak Türkçe terimlerle öğretim ve bilim yapmanın örneğini de gözler önüne sermiştir.
 
     ***
 1. Aşağıdakilerden hangisi Türkçede karşılığı olmasına rağmen, birer özenti alıntısı niteliğinde olan bir kelime değildir ?
@@ -17984,6 +19588,26 @@
     > **Açıklama:** Cumhuriyet Dönemi’nde yapılan üniversite reformu (1933) ile Türkçenin bilim dili olarak gelişmesi uğrunda önemli kararlar uygulama alanına sokulmuştur. Bu nedenle doğru cevap C'dir.
 
     ***
+1. Atatürk'ün gerçekleştirdiği, Türkçenin bilim dili olarak işlenmesine katkıda bulunan, çalışma hangi alana aittir?
+    - A-) Türkçe
+    - B-) Kimya
+    - C-) Biyoloji
+    - **Cevap D-) Geometri**
+    - E-) Fizik
+
+    > **Açıklama:** Türk Dil Kurumunun kuruluşu ile terimler alanında başlatılan çalışmalar da Türkçenin bilim dili olarak işlenmesine katkıda bulunmuştur. İlk uygulama Atatürk’ün geometri terimleri üzerine yaptığı çalışma olmuştur. Atatürk, yazdığı Geometri kitabında yeni türettiği ve tanımını verdiği açı, açıortay, altıgen, beşgen, çap, dar açı, dış tersaçı, dikey, düşey çizgi, eşkenar dörtgen, ikizkenar üçgen, teğet, yamuk, yüzey gibi yüz yirmi dokuz geometri terimini kullanarak Türkçe terimlerle öğretim ve bilim yapmanın örneğini de gözler önüne sermiştir. Bu nedenle doğru cevap D'dir.
+
+    ***
+1. Türk Dil Kurumu yabancı kaynaklı sözlere karşılık öneriler yapmıştır. Aşağıdakilerden hangisi bunlardan biri **değildir?**
+    - A-) Selfie - Özçekim
+    - B-) Mobbing - Bezdiri
+    - C-) Viyadük - Köprü yol
+    - D-) Mortgage - Tutsat
+    - **Cevap E-) Anchorman - Gemi Direği**
+
+    > **Açıklama:** Türk Dil Kurumunun yabancı kaynaklı sözlere karşılık önerdiği sözlerden birkaçına bakalım: arboretum karşılığında ağaç parkı, viyadük için köprü yol, mobbing için bezdiri; selfie için özçekim, mortgage tutsat bunlara örnek olarak verilebilir. TDK, anchorman karşılığında gemi direği değil ana haber sunucusu önerisini yapmıştır. Doğru Cevap E'dir.
+
+    ***
 1. "Türkçenin; özellikleri ve kuralları bozulmadan konuşma dili olarak kullanılması; millî birlik ve bütünlüğün temel unsurlarından biri olarak çağdaş kültür, eğitim, ve bilim dili hâlinde gelişmesinin sağlanması" ifadesi, 21 Mayıs 2002 tarihli Resmî Gazete’de yayımlanarak yürürlüğe girmiş, Radyo Televizyon Üst Kurulu (RTÜK) yasasında değişiklik öngören kaç sayılı kanuna aittir?
     - **Cevap A-) 3984**
     - B-) 657
@@ -17992,6 +19616,16 @@
     - E-) 1923
 
     > **Açıklama:** 21 Mayıs 2002 tarihli Resmî Gazete’de yayımlanarak yürürlüğe girmiş, Radyo Televizyon Üst Kurulu (RTÜK) yasasında değişiklik öngören 3984 sayılı Kanun’un değiştirilmiş 4. Maddesinin h) fıkrası; “Türkçenin; özellikleri ve kuralları bozulmadan konuşma dili olarak kullanılması; millî birlik ve bütünlüğün temel unsurlarından biri olarak çağdaş kültür, eğitim, ve bilim dili hâlinde gelişmesinin sağlanması” şeklindedir. Bu nedenle doğru cevap A'dır.
+
+    ***
+1. "Telauz, sesletim, söyleniş olarak da adlandırılan ve bir sözcüğün ses, hece, ton, vurgu bakımından söylenme biçimi olarak tanımlanan dil bilgisi terimi." olarak tanımlanan kavram aşağıdakilerden hangisidir?
+    - A-) Yazım
+    - B-) Söz varlığı
+    - **Cevap C-) Söyleyiş**
+    - D-) Okuma
+    - E-) Ağız
+
+    > **Açıklama:** Söyleyiş, telauz, sesletim, söyleniş olarak da adlandırılan ve bir sözcüğün ses, hece, ton, vurgu bakımından söylenme biçimi olarak tanımlanan dil bilgisi terimi olarak tanımlanabilir. Bu nedenle doğru cevap C'dir.
 
     ***
 1. Aşağıdakilerden hangisi Türkçe dili için genel bir sorun olarak ifade edilmemektedir?
@@ -18085,6 +19719,16 @@
     > **Açıklama:** Söz varlığı, bir dildeki, bir eserdeki sözcüklerin, deyim ve atasözlerinin bütünü. Söz dağarcığı, söz hazinesi, kelime serveti gibi adlarla da anılmaktadır.Doğru cevap B'dir.
 
     ***
+1. Bilim, sanat, spor, meslek dalıyla veya bir konu ile ilgili özel ve belirli bir kavramı karşılayan sözcük aşağıdakilerden hangisidir?
+    - A-) Kelime serveti
+    - B-) Söz varlığı
+    - **Cevap C-) Terim**
+    - D-) Söyleyiş
+    - E-) Yazım
+
+    > **Açıklama:** Terim; bilim, sanat, spor, meslek dalıyla veya bir konu ile ilgili özel ve belirli bir kavramı karşılayan sözcüktür. Doğru cevap C'dir.
+
+    ***
 1. Günümüzde en geçerli ve yaygın yabancı dil niteliğini kazanmış olan dil aşağıdakilerden hangisidir?
     - A-) Çince
     - B-) Rusça
@@ -18145,6 +19789,16 @@
     > **Açıklama:** Türkçenin karşı karşıya bulunduğu sorunların çözümü için öncelikle toplumda Türkçe bilincinin yaygınlaştırılması ve dilin öneminin kavratılması gerekmektedir. Eğitim sistemimiz Türkçeyi sevdirecek, benimsetecek nitelikte yeniden düzenlenmelidir. Radyo ve televizyon kuruluşları, basın yayın organları; toplumda Türkçe bilincinin geliştirilmesi, doğru ve güzel Türkçenin yaygınlaştırılması konusunda etkin olabilirler. Doğru yanıt D’dir.
 
     ***
+1. “Ülkesini, yüksek istiklâlini korumasını bilen Türk milleti dilini de yabancı diller boyunduruğundan kurtarmalıdır...” sözünü söyleyen Atatürk aşağıdakilerden hangisini vurgulamak istemiştir?
+    - A-) Dış güçlerin etkisinden kurtulmak
+    - **Cevap B-) Türkçe dilinin önemini kavratmak**
+    - C-) Bağımsızlığımızı korumak
+    - D-) Türk milletini eşsiz kılmak
+    - E-) Yabancı dillere özentiyi azaltmak
+
+    > **Açıklama:** Diline önem veren her gelişmiş ülkede olduğu gibi biz de Türkçenin karşı karşıya bulunduğu sorunların çözümünde üzerimize düşen görevi yerine getirmeliyiz. Türkçeye her zaman önem veren Atatürk’ün özellikle vurguladığı gibi: *Ülkesini, yüksek istiklâlini korumasını bilen Türk milleti dilini de yabancı diller boyunduruğundan kurtarmalıdır*... Doğru yanıt B’dir.
+
+    ***
 1. Bilim, sanat, spor, meslek dalıyla veya bir konu ile ilgili özel ve belirli bir kavramı karşılayan sözcüğe ne ad verilir?
     - A-) söz dağarcığı
     - B-) kelime serveti
@@ -18182,6 +19836,16 @@
     > **Açıklama:** meyva değil meyve, makina değil makine, kurdale değil kurdele, maydonoz değil maydanoz olmalıdır. Doğru yazım E seçeneğinde görülür.
 
     ***
+1. Aşağıdaki sözcüklerden hangisinde yazım yanlışı bulunmaktadır?
+    - A-) maydanoz
+    - **Cevap B-) makina**
+    - C-) kurdele
+    - D-) şemsiye
+    - E-) egzoz
+
+    > **Açıklama:** A, C, E ve D seçeneklerinde sözcüklerin yazımı doğru olarak verilirken B seçeneğinde sözcüğün yazımı yanlış olarak verilmiştir. Doğrusu makine şeklindedir.
+
+    ***
 1. Aşağıdakilerden hangisi Türkçenin güncel sorunlarından biri değildir?
     - A-) Yabancı dil öğrenmenin yanısıra yabancı dille eğitim ve öğretim yapılması
     - B-) Kişisel tercihlerle belirli sözcüklerin daha sık kullanılması
@@ -18208,6 +19872,21 @@
     - E-) başarım
 
     > **Açıklama:** Türk Dil Kurumu, Atatürk’ün “Ülkesini, yüksek istiklâlini korumasını bilen Türk milleti
+    > dilini de yabancı diller boyunduruğundan kurtarmalıdır.” sözünü kendisine ilke edinerek
+    > dilimizi yabancı dillerin boyunduruğundan kurtarma mücadelesini vermektedir. Türk Dil
+    > Kurumunun yabancı kaynaklı sözlere karşılık önerdiği sözlerden birkaçına bakalım: anchorman karşılığında ana haber sunucusu, arboretum karşılığında ağaç parkı, viyadük için köprü yol, mobbing için bezdiri; selfie için özçekim, mortgage tutsat vb...
+
+    ***
+1. Dilimizin söz varlığında karşılığı bulunsa da özenti alıntısı niteliğinde olan, uzlaşma veya oydaşma anlamına gelen sözcük aşağıdakilerden hangisidir?
+    - A-) arboretum
+    - **Cevap B-) konsensus**
+    - C-) performans
+    - D-) mortgage
+    - E-) mobbing
+
+    > **Açıklama:** Dilimizin söz varlığında karşılığı bulunsa da yabancı kaynaklı sözleri kullanmak bir
+    > özenti hâlini aldı. Günlük hayatta, çarşıda, pazarda, radyoda, televizyonda, basında, okulda, sporda kısacası her yerde yabancı kaynaklı sözler artık bilinçsizce kullanılır oldu. Birer özenti alıntısı niteliğinde olan show, trend, konsensüs, transformasyon, performans gibi sözler Türkçede karşılıkları olmasına rağmen kullanılmaktadır. Bu tür özenti alıntılarının kullanılmasına hiç gerek yoktur. Çünkü bu özenti alıntılarının yerine Türkçede gösteri, eğilim veya yönelim, uzlaşma veya oydaşma, değişim veya dönüşüm, başarım gibi pek çok karşılık bulunmaktadır.
+    > Türk Dil Kurumu, Atatürk’ün “Ülkesini, yüksek istiklâlini korumasını bilen Türk milleti
     > dilini de yabancı diller boyunduruğundan kurtarmalıdır.” sözünü kendisine ilke edinerek
     > dilimizi yabancı dillerin boyunduruğundan kurtarma mücadelesini vermektedir. Türk Dil
     > Kurumunun yabancı kaynaklı sözlere karşılık önerdiği sözlerden birkaçına bakalım: anchorman karşılığında ana haber sunucusu, arboretum karşılığında ağaç parkı, viyadük için köprü yol, mobbing için bezdiri; selfie için özçekim, mortgage tutsat vb...
@@ -18246,6 +19925,16 @@
 
     > **Açıklama:** "
     > Makine yerine makina, meyve yerine meyva, kurdele yerine kordale veya kurdela, egzoz yerine eksoz veya egsoz, şoför yerine şofor veya şöför yazmak birer yazım yanlışıdır. Hakem doğru yazılmıştır. Doğru cevap E'dir.
+
+    ***
+1. Sözcüklerin, eklerin yazılış biçimlerinden oluşan yazım kurallarını ve sözcüklerin, özel adların, kısaltmaların bu kurallara göre yazılış biçimlerini alfabetik bir sıra içerisinde veren, noktalama işaretlerinin kullanım alanlarını gösteren kaynak aşağıdakilerden hangisidir?
+    - A-) Türk Dil Kurumu
+    - B-) İnternet
+    - **Cevap C-) Yazım Kılavuzu**
+    - D-) Sosyal Medya
+    - E-) Radyo Televizyon Üst Kurulu
+
+    > **Açıklama:** Sözcüklerin, eklerin yazılış biçimlerinden oluşan yazım kurallarını ve sözcüklerin, özel adların, kısaltmaların bu kurallara göre yazılış biçimlerini alfabetik bir sıra içerisinde veren, noktalama işaretlerinin kullanım alanlarını gösteren kaynak eser ise Yazım Kılavuzu olarak adlandırılır. Doğru cevap C'dir.
 
     ***
 1. Aşağıdakilerden hangisi Osmanlı Devleti’nin Venedik ile ilişkileri dolayısıyla İtalyancadan Türkçe'ye alınan sözcüklerden biri değidir?
@@ -18316,6 +20005,16 @@
     - E-) Mobbing
 
     > **Açıklama:** A ve B şıkkındaki Efendi ve Sandal kelimeleri Osmanlı'da yaşayan Rumlardan, D şıkkındaki pasaport kelimesi Fransızca'dan, E şıkkındaki mobbing kelimesi İngilizceden dilimze geçmiştir. C şıkkındaki Madalya kelimesi İtalyanca kökenli bir kelimedir. Doğru cevap C şıkkıdır.
+
+    ***
+1. "Kahve içmek" yerine "kahve almak" "sağlıcakla kal" yerine "kendine iyi bak" denmesi hangi kullanım hatasından kaynaklanır?
+    - **Cevap A-) Yabancı sözlerin kullanımı**
+    - B-) Söyleyiş bozukluğu
+    - C-) Kısıtlı söz varlığı
+    - D-) İmla hatası
+    - E-) Yerel dilin kullanımı
+
+    > **Açıklama:** Yabancı kaynaklı çeviri yoluyla dilimize katılan "çay almak " kendine iyi bak" cümleleri yabancı sözcüklerin kullanımına dair yapılan yanlışlardandır. Doğru cevap A şıkkıdır.
 
     ***
 1. Aşağıdakilerden hangisinde Türkçe'nin önemi ve bilim dili olmasındaki aşamalara dair yanlış bir bilgiye yer verilmiştir?

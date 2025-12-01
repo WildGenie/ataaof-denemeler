@@ -12,8 +12,7 @@
         "D": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Deep Learning</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 6\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Generative Al</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831928,
@@ -28,8 +27,7 @@
         "D": "<p>Derin öğrenme</p>",
         "E": "<p>Makine öğrenimi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831929,
@@ -44,8 +42,7 @@
         "D": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Çok katmanlı sinir ağlarının büyük miktarda veriden öğrenme süreci</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İnsanların yüz hareketlerini ve sesini gerçeğe uygun olacak şekilde taklit etmek veya değiştirmek </p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831931,
@@ -60,8 +57,7 @@
         "D": "<div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Dezenformasyon ve Manipülasyon</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Telif Hakkı ve İntihal</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831932,
@@ -76,8 +72,7 @@
         "D": "<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>İnsanların yüz hareketlerini ve sesini gerçeğe uygun olacak şekilde taklit etmek veya değiştirmek için yapay zekâ teknikleri aracılığıyla fotoğrafların, videoların veya seslerin kullanılması</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 5\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Algılama, akıl yürütme, hareket etme ve uyum sağlama yeteneğine sahip bir program</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831933,
@@ -92,8 +87,7 @@
         "D": "<p>I/II/III/IV/V</p>",
         "E": "<p>IV/V/VI</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831934,
@@ -108,8 +102,7 @@
         "D": "<p>Yapay Zeka</p>",
         "E": "<p>Makine Öğrenimi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831935,
@@ -124,8 +117,7 @@
         "D": "<div class=\"page\" title=\"Page 6\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Gelecekte tamamlanması planlanan bir işin taslağını el yordamıyla çizmek</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Bilgisayar tarafından sağlanan duyusal uyarıcılar aracılığıyla deneyimlenen ve kişinin ey- lemlerinin kısmen ortamda ne olduğunu belirlediği yapay bir çevre</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831937,
@@ -140,8 +132,7 @@
         "D": "<p>Tasarım alanında yapay zeka</p>",
         "E": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sanal Etkileyiciler</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831938,
@@ -156,7 +147,6 @@
         "D": "<p>Lena Perminova</p>",
         "E": "<p>Chiara Ferragni</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

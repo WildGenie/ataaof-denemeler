@@ -12,8 +12,7 @@
         "D": "<p>Heyet-i Temsiliye</p>",
         "E": "<p>Düyun-ı Umumiye</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887398,
@@ -28,8 +27,7 @@
         "D": "<p>Erzurum ve Sivas Kongresi kararları bu metnin temelini oluşturmuştur.</p>",
         "E": "<p>Türk vatanının sınırları çizilmiştir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887399,
@@ -44,8 +42,7 @@
         "D": "<p>16 Nisan 1920</p>",
         "E": "<p>12 Mayıs 1920</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887400,
@@ -60,8 +57,7 @@
         "D": "<p>18 Mart 1919</p>",
         "E": "<p>18 Ekim 1919</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887401,
@@ -76,8 +72,7 @@
         "D": "<p>Nato Konseyi</p>",
         "E": "<p>Birleşmiş Milletler Konseyi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887402,
@@ -92,8 +87,7 @@
         "D": "<p>Birleşmiş Milletler Konseyi</p>",
         "E": "<p>Avrupa Konseyi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887403,
@@ -108,8 +102,7 @@
         "D": "<p>15-17 Nisan 1920/ San Remo Konferansı</p>",
         "E": "<p> 21 Mart 1919/ Paris Barış Konferansı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887404,
@@ -124,8 +117,7 @@
         "D": "<p>13 Ağustos 1920</p>",
         "E": "<p>14 Ağustos 1920</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887405,
@@ -140,8 +132,7 @@
         "D": "<p>Albayrak</p>",
         "E": "<p>Minber</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887406,
@@ -156,8 +147,7 @@
         "D": "<p>19 Nisan 1920</p>",
         "E": "<p>27 Nisan 1920</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887407,
@@ -172,8 +162,7 @@
         "D": "<p>Selahattin Köseoğlu</p>",
         "E": "<p>Celalettin Arif</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887408,
@@ -188,8 +177,7 @@
         "D": "<p>İtilaf devletlerinin güç kazanması</p>",
         "E": "<p>Damat Ferit Paşa'nın yönetime el koyması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887409,
@@ -204,8 +192,7 @@
         "D": "<p>Padişahın esaretten kurtulduğu zaman konumunu belirlemek</p>",
         "E": "<p>Saltanat makamını sistem dışı bırakmak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887410,
@@ -220,8 +207,7 @@
         "D": "<p>Birinci Müdafaa-ı Hukuk Grubu</p>",
         "E": "<p>Islahat Grubu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887411,
@@ -236,8 +222,7 @@
         "D": "<p>Fransa</p>",
         "E": "<p>Yunanistan</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887412,
@@ -252,8 +237,7 @@
         "D": "<p>Alemdar</p>",
         "E": "<p>Pozantı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887413,
@@ -268,8 +252,7 @@
         "D": "<p>Anadolu’nun kendi imkânlarıyla silah bulması</p>",
         "E": "<p>İstanbul hükumetinden levazım tedarik edilmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887414,
@@ -284,8 +267,7 @@
         "D": "<p>1921</p>",
         "E": "<p>1922</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887415,
@@ -300,7 +282,6 @@
         "D": "<p>Askerlikten tecil vergisi</p>",
         "E": "<p>Aşar vergisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     }
 ]

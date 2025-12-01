@@ -1280,6 +1280,26 @@
         "Aciklama": "Oturduğumuz kentlerden uzaklaşıp köylere giderek veya uygarlaşmış ülkelerimizden ayrılıp hâlâ eski yaşam şekillerini sürdüren topluluklar arasına girsek sanatın anlamının en yalın hâlini görebiliriz, buna “İlkel sanat” diyoruz. Dolayısıyla cevap D şıkkıdır."
     },
     {
+        "SoruID": 3858925,
+        "SoruMetni": "Fotoğrafçının kameralar, objektifler, ışık kaynakları ve buna benzer birçok ekipman bilgisinin yanında aşağıda şıklarda belirtilen hangi özellik de fotoğrafı oluşturmasında önemli niteliklerden biri sayılmaktadır ?",
+        "A": "Fizik bilgisi",
+        "B": "Kimya bilgisi",
+        "C": "Malzeme bilgisi",
+        "D": "Tarih bilgisi",
+        "E": "Sanat bilgisi",
+        "DogruCevap": "E",
+        "DersAd": "Görsel Estetik",
+        "Unite": 2,
+        "Somestre": "1",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:19:53.262041",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Fotoğrafçının kameralar, objektifler, ışık kaynakları ve buna benzer birçok ekipman bilgisinin yanında sanat bilgisi de fotoğrafı oluşturmasında<br/>önemli niteliklerden biri sayılır. Dolayısıyla cevap E şıkkıdır."
+    },
+    {
         "SoruID": 3858926,
         "SoruMetni": "Fotoğraf ve sanat ilişkisinde; hayal dünyamızda tasarlanan, nasıl olduğunu bildiğimiz, bilincimizde beliren nesne ve olaylar ne olarak adlandırılmaktadır ?",
         "A": "İmge",

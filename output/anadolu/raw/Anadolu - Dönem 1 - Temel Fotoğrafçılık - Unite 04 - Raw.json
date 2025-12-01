@@ -12,8 +12,7 @@
         "D": "<p>Simetrik denge</p>",
         "E": "<p>Perspektif</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351038,
@@ -28,8 +27,7 @@
         "D": "<p>Darlık</p>",
         "E": "<p>Akış</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351041,
@@ -44,8 +42,7 @@
         "D": "<p>zorluk ve karmaşıklık</p>",
         "E": "<p>Simetri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351045,
@@ -60,8 +57,7 @@
         "D": "<p>Işık saydamlığı ve geçirgenliği azaltır</p>",
         "E": "<p>Rengi oluşturur</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351047,
@@ -76,8 +72,7 @@
         "D": "<p>Kontrast</p>",
         "E": "<p>Nesne</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351057,
@@ -92,8 +87,7 @@
         "D": "<p>Savaşın etkilerini çocuklar üzerinden anlatmaktadır</p>",
         "E": "<p>Savaşın güzel bir şey olduğunu çocukların bile asker olduğunu vurgulayarak anlatmaktadır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351059,
@@ -108,8 +102,7 @@
         "D": "<p>Yüzey-leke</p>",
         "E": "<p>Sivri-küt</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351060,
@@ -124,8 +117,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351070,
@@ -140,8 +132,7 @@
         "D": "<p>Derinlik oluşturmak</p>",
         "E": "<p>Rengi oluşturmak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351077,
@@ -156,8 +147,7 @@
         "D": "<p>Kofka</p>",
         "E": "<p>Fibaracci</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351078,
@@ -172,8 +162,7 @@
         "D": "<p>Zıtlık&nbsp;</p>",
         "E": "<p>Ritim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351086,
@@ -188,8 +177,7 @@
         "D": "<p>Dil literatürümüzde zıtlık, karşıtlık olarak da açıklanır.</p> ",
         "E": "<p> Sadelik Kompozisyon içerisinde yer alan ögeleri minimalize ederek teferruatlarından arındırma, ayıklama</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351091,
@@ -204,8 +192,7 @@
         "D": "<p>Resim</p>",
         "E": "<p>Çerçeve</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351095,
@@ -220,8 +207,7 @@
         "D": "<p>Boyut belirleyicidir.</p>",
         "E": "<p>Boşlukları belirler.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351097,
@@ -236,8 +222,7 @@
         "D": "<p>Siyah-Beyaz<br /> </p>",
         "E": "<p>Kırmızı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351101,
@@ -252,8 +237,7 @@
         "D": "<p>Espas</p> ",
         "E": "<p>Kompozisyon</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351104,
@@ -268,8 +252,7 @@
         "D": "<p>Zig-zag</p>",
         "E": "<p>Kıvrımlı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351111,
@@ -284,8 +267,7 @@
         "D": "<p>Kapalı Kompozisyon</p>",
         "E": "<p>Hiçbiri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351113,
@@ -300,8 +282,7 @@
         "D": "<p>İlgi Merkezi</p>",
         "E": "<p>Perspektif</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351116,
@@ -316,8 +297,7 @@
         "D": "<p>500-565 nm</p>",
         "E": "<p>625-740 nm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351027,
@@ -332,8 +312,7 @@
         "D": "<p>Yatay</p>",
         "E": "<p>Eğri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351053,
@@ -348,8 +327,7 @@
         "D": "<p>Perspektif</p>",
         "E": "<p>Işık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351071,
@@ -364,8 +342,7 @@
         "D": "<p>İlgi merkezi</p>",
         "E": "<p>Işık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351073,
@@ -380,8 +357,7 @@
         "D": "<p>Vahşi yaşam fotoğrafları</p>",
         "E": "<p>Haber fotoğraf&ccedil;ılığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351082,
@@ -396,8 +372,7 @@
         "D": "<p>II. III</p>",
         "E": "<p>I.II.III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351084,
@@ -412,8 +387,7 @@
         "D": "<p>Bakış     Açısı</p> ",
         "E": "<p>Boşluk </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351087,
@@ -428,8 +402,7 @@
         "D": "<p>I.II.III.IV.V</p>",
         "E": "<p>III.IV.V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351088,
@@ -444,8 +417,7 @@
         "D": "<p>I.II.III.IV</p>",
         "E": "<p>IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351098,
@@ -460,8 +432,7 @@
         "D": "<p>Ritim<br /> </p>",
         "E": "<p>Çizgi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351110,
@@ -476,8 +447,7 @@
         "D": "<p>Kapalı Kompozisyon</p>",
         "E": "<p>Hiçbiri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351115,
@@ -492,8 +462,7 @@
         "D": "<p>1662</p>",
         "E": "<p>1683</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351121,
@@ -508,8 +477,7 @@
         "D": "<p>Sadelik</p>",
         "E": "<p>Keskinlik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351127,
@@ -524,8 +492,7 @@
         "D": "<p>Perspektif</p>",
         "E": "<p>Simetri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351129,
@@ -540,8 +507,7 @@
         "D": "<p>Hareket</p>",
         "E": "<p>Hız</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351035,
@@ -556,8 +522,7 @@
         "D": "<p>zıtlık</p>",
         "E": "<p>leke</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351037,
@@ -572,8 +537,7 @@
         "D": "<p>Dikey Çizgiler</p>",
         "E": "<p>Kontrast ince kalın çizgiler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351043,
@@ -588,8 +552,7 @@
         "D": "<p>Perspektif</p>",
         "E": "<p>Gestalt Algısı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351044,
@@ -604,8 +567,7 @@
         "D": "<p>Ritim</p>",
         "E": "<p>Işık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351052,
@@ -620,8 +582,7 @@
         "D": "<p>Denge</p>",
         "E": "<p>Belirginlik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351063,
@@ -636,8 +597,7 @@
         "D": "<p>Kompozisyonda yapısal ve fotoğrafik öğeler</p>",
         "E": "<p>Çerçeveleme sınırları</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351074,
@@ -652,8 +612,7 @@
         "D": "<p>Boşluk</p>",
         "E": "<p>Belirginlik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351075,
@@ -668,8 +627,7 @@
         "D": "<p>Sadelik</p>",
         "E": "<p>Gestalt algısı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351080,
@@ -684,8 +642,7 @@
         "D": "<p>Yanal ışık</p>",
         "E": "<p>Röfle ışık</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351105,
@@ -700,8 +657,7 @@
         "D": "<p>Mavi</p> ",
         "E": "<p>Sarı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351114,
@@ -716,8 +672,7 @@
         "D": "<p>Şemalar</p>",
         "E": "<p>Leke</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351120,
@@ -732,8 +687,7 @@
         "D": "<p>Ufuk Çizgisi</p>",
         "E": "<p>Gestalt Algısı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351124,
@@ -748,8 +702,7 @@
         "D": "<p>Perspektif</p>",
         "E": "<p>Ölçek</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351024,
@@ -764,8 +717,7 @@
         "D": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Fotoğrafın alıcı üzerindeki etkisi uzun sürer.</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Konu veya imge, fotoğraf yüzeyinin dışında sonlanır.</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351026,
@@ -780,8 +732,7 @@
         "D": "<div class=\"page\" title=\"Page 6\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Denge</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 6\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Oran ve Orantı</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351040,
@@ -796,8 +747,7 @@
         "D": "<p>süzülmüş ışık</p>",
         "E": "<p>Tam cephe ışığı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351049,
@@ -812,8 +762,7 @@
         "D": "<p>Vahşi yaşam fotoğrafçılığı</p>",
         "E": "<p>Sokak fotoğrafçılığı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351050,
@@ -828,8 +777,7 @@
         "D": "<p>Düğün çekimi</p>",
         "E": "<p>Vesikalık çekimi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351051,
@@ -844,8 +792,7 @@
         "D": "<p>Açık kompozisyon</p>",
         "E": "<p>Fotoğraf kurgusu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351055,
@@ -860,8 +807,7 @@
         "D": "<p>Devamlılık</p>",
         "E": "<p>Benzerlik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351064,
@@ -876,8 +822,7 @@
         "D": "<p>Aktif kurgu</p>",
         "E": "<p>Kompozisyon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351065,
@@ -892,8 +837,7 @@
         "D": "<p>Moda fotoğrafçılığı</p>",
         "E": "<p>Sokak fotoğrafçılığı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351068,
@@ -908,8 +852,7 @@
         "D": "<p>Boşluk</p>",
         "E": "<p>Ufuk çizgisi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351108,
@@ -924,8 +867,7 @@
         "D": "<p>Estetik kuramı</p> ",
         "E": "<p>Etimoloji</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351126,
@@ -940,8 +882,7 @@
         "D": "<p>Keskinlik</p>",
         "E": "<p>Gölge</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351032,
@@ -956,8 +897,7 @@
         "D": "<p>Natürel sistemde renk</p>",
         "E": "<p>Duygusal sistemde renk</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351048,
@@ -972,8 +912,7 @@
         "D": "<p>Belgesel</p>",
         "E": "<p>Fotoğraf</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351054,
@@ -988,8 +927,7 @@
         "D": "<p>Işık</p>",
         "E": "<p>Renk</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351066,
@@ -1004,8 +942,7 @@
         "D": "<p>Geniş kompozisyon</p>",
         "E": "<p>Artan komposizyon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351072,
@@ -1020,8 +957,7 @@
         "D": "<p>Basitlik ve yalınlık</p>",
         "E": "<p>Simetri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351092,
@@ -1036,8 +972,7 @@
         "D": "<p>Sosyokültürel yapı<br /> </p>",
         "E": "<p>Alıcının birikimi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351093,
@@ -1052,8 +987,7 @@
         "D": "<p>Işık<br /> </p>",
         "E": "<p>Renk  </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351107,
@@ -1068,8 +1002,7 @@
         "D": "<p>Yukarıdan Çapraz</p> ",
         "E": "<p>Üstten dik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351030,
@@ -1084,8 +1017,7 @@
         "D": "<p>Devamlılık ve benzerlik</p>",
         "E": "<p>Simetri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351034,
@@ -1100,8 +1032,7 @@
         "D": "<p>Kompozisyonda fotoğrafik &ouml;geler</p>",
         "E": "<p>kompozisyondaki kişiler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351067,
@@ -1116,8 +1047,7 @@
         "D": "<p>Bakış açısı</p>",
         "E": "<p>Hareket, hız</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351079,
@@ -1132,8 +1062,7 @@
         "D": "<p>Sadelik</p>",
         "E": "<p>Espas</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351081,
@@ -1148,8 +1077,7 @@
         "D": "<p>Öncelikle fotoğrafın türü hakkında öngörüde bulunuruz.</p>",
         "E": "<p>Fotoğraf makinasının türü okumaya direk etki eden  konu değildir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351090,
@@ -1164,8 +1092,7 @@
         "D": "<p>Perspektif</p> ",
         "E": "<p>Renk</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351094,
@@ -1180,8 +1107,7 @@
         "D": "<p>Nokta<br /> </p>",
         "E": "<p>Yatay Çizgi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351106,
@@ -1196,8 +1122,7 @@
         "D": "<p>Kaba-zarif</p>",
         "E": "<p>Sert-yumuşak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351112,
@@ -1212,8 +1137,7 @@
         "D": "<p>Renk</p>",
         "E": "<p>Işık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351118,
@@ -1228,8 +1152,7 @@
         "D": "<p>Denge</p>",
         "E": "<p>Kontrast</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351028,
@@ -1244,8 +1167,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351036,
@@ -1260,8 +1182,7 @@
         "D": "<p>Perspektif</p>",
         "E": "<p>Çerçeve Seçimi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351099,
@@ -1276,8 +1197,7 @@
         "D": "<p>Yaklaşmak<br /> </p>",
         "E": "<p>Çerçevelemek</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351109,
@@ -1292,8 +1212,7 @@
         "D": "<p>Fotoğraf makinasının aynası</p> ",
         "E": "<p>Leke ağırlığı ve konumu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351125,
@@ -1308,8 +1227,7 @@
         "D": "<p>Gestalt algısı</p>",
         "E": "<p>Işık</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351046,
@@ -1324,8 +1242,7 @@
         "D": "<p>Basitlik ve yalınlık</p>",
         "E": "<p>Simetri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351076,
@@ -1340,8 +1257,7 @@
         "D": "<p>Zigzag</p>",
         "E": "<p>Eğri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351083,
@@ -1356,8 +1272,7 @@
         "D": "<p>Tek kaçışlı perspektif</p> ",
         "E": "<p>Hava perspektifi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351089,
@@ -1372,8 +1287,7 @@
         "D": "<p>I.II.III.IV</p>",
         "E": "<p>Yalnız IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351122,
@@ -1388,8 +1302,7 @@
         "D": "<p>Güçlü - Zayıf</p>",
         "E": "<p>Açık - Koyu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351128,
@@ -1404,8 +1317,7 @@
         "D": "<p>Keskinlik</p>",
         "E": "<p>Işık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351042,
@@ -1420,8 +1332,7 @@
         "D": "<div>Belirginlik,</div>",
         "E": "<div>\n<div>Ufuk &Ccedil;izgisi</div>\n</div>\n<div>&nbsp;</div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351061,
@@ -1436,8 +1347,7 @@
         "D": "<p>Nokta</p>",
         "E": "<p>Denge</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351069,
@@ -1452,8 +1362,7 @@
         "D": "<p>Ritim</p>",
         "E": "<p>Çizgi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351096,
@@ -1468,8 +1377,7 @@
         "D": "<p>Kompozisyon</p>",
         "E": "<p>Diyagonal</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351062,
@@ -1484,8 +1392,7 @@
         "D": "<p>Açık Kompozisyon</p>",
         "E": "<p>Kapalı Kompozisyon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351031,
@@ -1500,8 +1407,7 @@
         "D": "<p>Boşluk</p>",
         "E": "<p>Ritim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351102,
@@ -1516,8 +1422,7 @@
         "D": "<p>Ufuk çizgisi çapraz yerleşimlidir.</p> ",
         "E": "<p>Makro lens kullanılmıştır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351123,
@@ -1532,8 +1437,7 @@
         "D": "<p>Işık</p>",
         "E": "<p>Denge</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351058,
@@ -1548,8 +1452,7 @@
         "D": "<p>Denge</p>",
         "E": "<p>Espas (Boşluk)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351100,
@@ -1564,8 +1467,7 @@
         "D": "<p>Tamamlama<br /> </p>",
         "E": "<p>Karmaşa</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351025,
@@ -1580,8 +1482,7 @@
         "D": "<div class=\"page\" title=\"Page 6\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Bakış Açısı</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 6\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Gestalt Algısı</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351033,
@@ -1596,8 +1497,7 @@
         "D": "<p>Gestalt algısı</p>",
         "E": "<p>Yalınlık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351103,
@@ -1612,8 +1512,7 @@
         "D": "<p>Işık</p>",
         "E": "<p>Ritim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351085,
@@ -1628,8 +1527,7 @@
         "D": "<p>Zengin duvar dokusu önünde çekilen bir portre fotoğrafı</p> ",
         "E": "<p>Uçsuz bucaksız bir denizde ilerleyen bir gemi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351119,
@@ -1644,8 +1542,7 @@
         "D": "<p>Yeşil</p>",
         "E": "<p>Mor</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351056,
@@ -1660,8 +1557,7 @@
         "D": "<p>Aslan ailesine yemek götürmek için zebrayı avlamaktadır</p>",
         "E": "<p>Fotoğraf pasif düzenlemenin olduğu bir fotoğraftır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3351039,
@@ -1676,7 +1572,6 @@
         "D": "<p>~ 500-565 nm</p>",
         "E": "<p>~ 485-500 nm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     }
 ]

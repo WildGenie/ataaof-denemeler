@@ -12,8 +12,7 @@
         "D": "<p>Herbert Bayer</p>",
         "E": "<p>László Moholy‐Nagy</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832195,
@@ -28,8 +27,7 @@
         "D": "<p>İnsan odaklılık – Yalnızca dijitalleşme, sürdürülebilirlik – Çevresel duyarsızlık, dayanıklılık – İşçi maliyetlerinin azaltılması</p>",
         "E": "<p>İnsan odaklılık – Küresel erişim, sürdürülebilirlik – Yaratıcılığın kısıtlanması, dayanıklılık – Sabit pazarlama stratejileri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832197,
@@ -44,8 +42,7 @@
         "D": "<p>Bauhaus Okulu’nun kurulması</p>",
         "E": "<p>Renkli litografi tekniğinin gelişmesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832201,
@@ -60,8 +57,7 @@
         "D": "<p>20. yüzyıl</p>",
         "E": "<p>10. yüzyıl</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832204,
@@ -76,8 +72,7 @@
         "D": "<p>Verimliliğin artması</p>",
         "E": "<p>Küresel erişimin sağlanması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832205,
@@ -92,8 +87,7 @@
         "D": "<p>Yalnız bilgisayar bilimi</p>",
         "E": "<p>Ekonomi ve finans</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832206,
@@ -108,8 +102,7 @@
         "D": "<p>Matbaa operatörü</p>",
         "E": "<p>Sosyal medya tasarım uzmanı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832207,
@@ -124,8 +117,7 @@
         "D": "<p>Yalnızca yazılım bilgisine sahip olmak</p>",
         "E": "<p>Sadece araştırma yapabilmek</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832209,
@@ -140,8 +132,7 @@
         "D": "<p>Rekabeti azaltır</p>",
         "E": "<p>Sadece serbest çalışma becerilerini öne çıkarır</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832213,
@@ -156,7 +147,6 @@
         "D": "<p>Geleneksel tasarım prensiplerinin dijitalleşme ile tamamen yerini yitirmesi</p>",
         "E": "<p>Yalnızca manuel işlemlerin hızlanması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

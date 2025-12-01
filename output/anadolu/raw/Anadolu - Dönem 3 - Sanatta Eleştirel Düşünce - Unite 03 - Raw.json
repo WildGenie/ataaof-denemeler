@@ -12,8 +12,7 @@
         "D": "<p>Bir sanat eserindeki içeriğin felsefi derinliği, önemi hiçbir zaman sanat ölçütü olamaz.</p>",
         "E": "<p>Bu kurama göre sanatçının bir yaratım ürünü olan, tamamlanmış, tek (biricik, unique) ve özgün yapıt olursa önemsenir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354079,
@@ -28,8 +27,7 @@
         "D": "<p>Sembolistler romantiklerden farklı olarak bireyin iç dünyasını, duygusal yaşantısını dolaysız bir biçimde anlatmak yerine simgelerle, mecazlarla yüklü örtük, kapalı bir dille anlatma yoluna giderler.</p>",
         "E": "<p>Bu akımın sanatçıları için doğa ayrıcalıklıdır çünkü insan ancak doğayla iç içe olduğunda düşüncelerini aklın denetiminden kurtararak içgüdüsel şekilde dışa vurabilir.</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354080,
@@ -44,8 +42,7 @@
         "D": "<p>Rasyonalizm</p>",
         "E": "<p>Realizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354124,
@@ -60,8 +57,7 @@
         "D": "<p>Roman</p>",
         "E": "<p>Öykü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354131,
@@ -76,8 +72,7 @@
         "D": "<p>Şiir</p>",
         "E": "<p>Fıkra</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354133,
@@ -92,8 +87,7 @@
         "D": "<p>Biçimcilik</p>",
         "E": "<p>Sembolizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354134,
@@ -108,8 +102,7 @@
         "D": "<p>Gerçekçilik</p>",
         "E": "<p>Doğalcılık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354136,
@@ -124,8 +117,7 @@
         "D": "<p>Gerçek olmayanı yansıtır.<br /><br /></p>",
         "E": "<p>Toplumsal gerçeği yansıtır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354137,
@@ -140,8 +132,7 @@
         "D": "<p>Natüralizm </p>",
         "E": "<p>Realizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354210,
@@ -156,8 +147,7 @@
         "D": "<p>Spontane</p>",
         "E": "<p>Dışavurum</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354212,
@@ -172,8 +162,7 @@
         "D": "<p>Mimesis </p>",
         "E": "<p>Avangard </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354215,
@@ -188,8 +177,7 @@
         "D": "<p>Romantizm</p>",
         "E": "<p>Hümanizm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354217,
@@ -204,8 +192,7 @@
         "D": "<p>Nesir/ Nazım</p>",
         "E": "<p>Öykü / Destan</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354225,
@@ -220,8 +207,7 @@
         "D": "<p>Etkin Tanımlama</p>",
         "E": "<p>Biçimsel Tanımlama</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354229,
@@ -236,8 +222,7 @@
         "D": "<p>Anlatı</p>",
         "E": "<p>Sentez</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354230,
@@ -252,8 +237,7 @@
         "D": "<p>İnsanı anlamak ve anlatmaya çalışmak</p>",
         "E": "<p>İnsan ruhunu kötü eğilimlerden arındırmak</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354231,
@@ -268,8 +252,7 @@
         "D": "<p>Eleştirel Düşünce</p>",
         "E": "<p>Analitik eleştiri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354233,
@@ -284,8 +267,7 @@
         "D": "<p>İmgeleme</p>",
         "E": "<p>Eğretileme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354260,
@@ -300,8 +282,7 @@
         "D": "<p>Gerçeği yansıtır</p>",
         "E": "<p>Genel tabiatı, ideal olanı yansıtır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354261,
@@ -316,8 +297,7 @@
         "D": "<p>Bir duygunun anlatımı, o duygunun adını vermekle olmaz.</p>",
         "E": "<p>Duyguyu adlandırmak yalnızca genellemeye<br />yol açan bir sınıflandırmadır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354071,
@@ -332,8 +312,7 @@
         "D": "<p>Betimleme</p> ",
         "E": "<p>Niteleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354075,
@@ -348,8 +327,7 @@
         "D": "<p>Thomas Mann<br /><br /></p>",
         "E": "<p>Gustav Mahler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354129,
@@ -364,8 +342,7 @@
         "D": "<p>Şiir</p>",
         "E": "<p>Anlatı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354135,
@@ -380,8 +357,7 @@
         "D": "<p>Sembolizm</p>",
         "E": "<p>Romantizm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354209,
@@ -396,8 +372,7 @@
         "D": "<p>Biçimci Kuram</p>",
         "E": "<p>Formalizm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354211,
@@ -412,8 +387,7 @@
         "D": "<p>Anlatı</p>",
         "E": "<p>Gölge Dil </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354213,
@@ -428,8 +402,7 @@
         "D": "<p>Honore de Balzac</p>",
         "E": "<p>Marcel Proust</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354232,
@@ -444,8 +417,7 @@
         "D": "<p>İnandırıcılık</p>",
         "E": "<p>Bütünlük</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354258,
@@ -460,8 +432,7 @@
         "D": "<p>Anlatımdan önce duygu yoktur. Başka bir<br />deyişle, duygu kâğıt üzerinde sözcüklerle ya da tuval üzerinde renklerle yaratılır.</p>",
         "E": "<p>Bu kuramının, sanat tarihindeki belki de en önemli karşılıklarından biri romantizm<br />akımıdır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354259,
@@ -476,8 +447,7 @@
         "D": "<p>Gerçeği yansıtır</p>",
         "E": "<p>Toplumsal gerçeği yansıtır</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354072,
@@ -492,8 +462,7 @@
         "D": "<p>Kübist-gerçekçi-Pop Art</p>",
         "E": "<p>Rasyonalist-realist-izlenimci</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354076,
@@ -508,8 +477,7 @@
         "D": "<p>Alfred de Vigny</p>  ",
         "E": " <p>Emile Zola</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354130,
@@ -524,8 +492,7 @@
         "D": "<p>Anlatımcılık<br /><br /></p>",
         "E": "<p>Biçimcilik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354132,
@@ -540,8 +507,7 @@
         "D": "<p>Erasmus</p>",
         "E": "<p>Pisagor</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354208,
@@ -556,8 +522,7 @@
         "D": "<p>İmgesellik</p> ",
         "E": "<p>Nesnellik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354214,
@@ -572,8 +537,7 @@
         "D": "<p>Ahmed Arif</p>",
         "E": "<p>Özdemir Asaf</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354216,
@@ -588,8 +552,7 @@
         "D": "<p>Öyküleme</p>",
         "E": "<p>Fabl</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354074,
@@ -604,8 +567,7 @@
         "D": "<p>Ateist</p> ",
         "E": "<p>Deist</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354073,
@@ -620,7 +582,6 @@
         "D": "<p>Kant</p> ",
         "E": " <p>Erasmus</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     }
 ]

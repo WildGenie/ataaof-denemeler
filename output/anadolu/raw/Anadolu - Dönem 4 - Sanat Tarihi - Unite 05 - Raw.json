@@ -12,8 +12,7 @@
         "D": "<p>Mekke</p>",
         "E": "<p>Tebriz</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936498,
@@ -28,8 +27,7 @@
         "D": "<p>630</p> ",
         "E": "<p>632</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936512,
@@ -44,8 +42,7 @@
         "D": "<p>Bağdat</p>",
         "E": "<p>Perge</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936520,
@@ -60,8 +57,7 @@
         "D": "<p>750-1258 arasındaki dönem</p>",
         "E": "<p>1258-1232 arasındaki dönem</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936535,
@@ -76,8 +72,7 @@
         "D": "<p>Sabit noktalar</p>",
         "E": "<p>Sabit çiçekler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936550,
@@ -92,8 +87,7 @@
         "D": "<p>Cevsakü’l-Hakani Sarayı</p>",
         "E": "<p>Balkuvara Sarayı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936556,
@@ -108,8 +102,7 @@
         "D": "<p>Kalıplama</p>",
         "E": "<p>Sgraffitto</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936567,
@@ -124,8 +117,7 @@
         "D": "7",
         "E": "8",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936571,
@@ -140,8 +132,7 @@
         "D": "Basra Kalesi",
         "E": "Halep Kalesi",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936572,
@@ -156,8 +147,7 @@
         "D": "Tevki",
         "E": "Stuko",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936586,
@@ -172,8 +162,7 @@
         "D": "<p>Ahşap.</p>",
         "E": "<p>Tekstil.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936614,
@@ -188,8 +177,7 @@
         "D": "<p>Dilimli kemerler</p>",
         "E": "<p>Minare </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936632,
@@ -204,8 +192,7 @@
         "D": "<p>Emevi Dönemi</p>",
         "E": "<p>Endülüs Emevi Dönemi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936635,
@@ -220,8 +207,7 @@
         "D": "<p>Bağdat</p>",
         "E": "<p>Semerkant</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936656,
@@ -236,8 +222,7 @@
         "D": "<p>Kureyş</p>",
         "E": "<p>El Hamra</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936689,
@@ -252,8 +237,7 @@
         "D": "<p>Sadece II</p>",
         "E": "<p>Sadece III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936701,
@@ -268,8 +252,7 @@
         "D": "<p>Sasaniler Dönemi</p>",
         "E": "<p>Kıptiler Dönemi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936711,
@@ -284,8 +267,7 @@
         "D": "<p>Kitap</p> ",
         "E": "<p>Mimari Süsleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936740,
@@ -300,8 +282,7 @@
         "D": "<p>Halep, Şam</p> ",
         "E": "<p>Musul, Horasan</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936754,
@@ -316,8 +297,7 @@
         "D": "<p>752</p>",
         "E": "<p>1151</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936500,
@@ -332,8 +312,7 @@
         "D": "<p>Kusayr-ı Amra</p> ",
         "E": "<p>Mışatta Sarayı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936521,
@@ -348,8 +327,7 @@
         "D": "<p>Kasrü’l Hayri el-Garbi</p>",
         "E": "<p>Kasr Mışatta</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936532,
@@ -364,8 +342,7 @@
         "D": "<p>Kutubiye Camii</p>",
         "E": "<p>Rabat Hasan Camii</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936540,
@@ -380,8 +357,7 @@
         "D": "<p>Açık avlu bölümleri şekillendirmiş ve çok sütun ya da payeli cami</p>",
         "E": "<p>Ahşap ve kerpiçten yapılan cami</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936569,
@@ -396,8 +372,7 @@
         "D": "Salih Talai Camii ",
         "E": "El-Ezher Camii ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936570,
@@ -412,8 +387,7 @@
         "D": "Fustat Amr Camii ",
         "E": "El Ezher Camii ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936599,
@@ -428,8 +402,7 @@
         "D": "<p>Fustat Amr Camii</p>",
         "E": "<p>Mescidü’l Aksa</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936610,
@@ -444,8 +417,7 @@
         "D": "<p>Minare</p>",
         "E": "<p>Taraça</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936627,
@@ -460,8 +432,7 @@
         "D": "<p>9.Yüzyıl</p>",
         "E": "<p>11.Yüzyıl</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936638,
@@ -476,8 +447,7 @@
         "D": "<p>Minyatür</p>",
         "E": "<p>Çini</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936688,
@@ -492,8 +462,7 @@
         "D": "<p>Sadece III</p>",
         "E": "<p>Sadece  II</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936694,
@@ -508,8 +477,7 @@
         "D": "<p>Sadece III</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936703,
@@ -524,8 +492,7 @@
         "D": "<p>II, III, IV, V</p>",
         "E": "<p>I, II, IV,</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936725,
@@ -540,8 +507,7 @@
         "D": "<p>I- Fatımi</p>\n<p>II- Eyyubi</p>\n<p>III- Abbasi</p>\n<p>IV- End&uuml;l&uuml;s Emevi</p>",
         "E": "<p>I- Muvahhid</p>\n<p>II- Fatımi</p>\n<p>III- Eyubi</p>\n<p>IV- Abbasi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936733,
@@ -556,8 +522,7 @@
         "D": "<div class=\"page\" title=\"Page 6\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Mihrap ekseni üzerindeki, mihrap duvarına dik uzanarak diğer sahınları tam ortadan kesen geniş ve yüksek sahın cami tasarımına yenilik kazandırmıştır.</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 5\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Caminin avlusu, dört tarafından çifte revaklarla çevrilmiştir. Minaresi, avluya egemen olacak biçimde kuzeybatı revakının ortasından yükselen Camii planı minare ve at nalı biçimli kemerleri ile Kuzeybatı Afrika (Mağrip) ve Endülüs camilerine örnek teşkil etmiştir.</p> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936747,
@@ -572,8 +537,7 @@
         "D": "<p>i-Emevi-Abdülmelik ii-Abbasi-Halife Mütevekkil</p>",
         "E": "<p>i-Emevi-Halife Abdülmelik,  ii-Abbasi-Halife Mansur</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936750,
@@ -588,8 +552,7 @@
         "D": "<p>i-Çiçekli kûfi ii-Nayin Mescid-i Cuması</p>",
         "E": "<p>i-Çiçekli kufi ii-Isfahan Mescidi Cuması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936503,
@@ -604,8 +567,7 @@
         "D": "<p>726</p> ",
         "E": "<p>757</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936536,
@@ -620,8 +582,7 @@
         "D": "<div class=\"page\" title=\"Page 24\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Medinetü’z Zehra Sarayı</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 19\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Paris­-Bibliothèque Nationale</p> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936539,
@@ -636,8 +597,7 @@
         "D": "<p>Türbe kültürü</p>",
         "E": "<p>Müslüman Osmanlı  kültür ve mimarisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936548,
@@ -652,8 +612,7 @@
         "D": "<p>Şâmî</p>",
         "E": "<p>El-Mescidü’l Haram</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936557,
@@ -668,8 +627,7 @@
         "D": "<p>Kâbe</p>",
         "E": "<p>Mescidü’l Haram</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936568,
@@ -684,8 +642,7 @@
         "D": "Sekizgen",
         "E": "Dokuzgen",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936579,
@@ -700,8 +657,7 @@
         "D": "<p>Hendek (31 Mart 627) savaşı.</p>",
         "E": "<p>Hudeybiye Barışı (13 Mart 628).</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936596,
@@ -716,8 +672,7 @@
         "D": "<p>Kakma.</p>",
         "E": "<p>Albarello.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936600,
@@ -732,8 +687,7 @@
         "D": "<p>Hristiyan </p>",
         "E": "<p>Uzakdoğu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936621,
@@ -748,8 +702,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Hacerü’l Es­ved</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kuba Mescidi</p> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936660,
@@ -764,8 +717,7 @@
         "D": "<p>607</p>",
         "E": "<p>571</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936667,
@@ -780,8 +732,7 @@
         "D": "<p>Kubbetü’s Sakhra</p>",
         "E": "<p>Mescidi Aksa</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936686,
@@ -796,8 +747,7 @@
         "D": "<p>Kabe</p>",
         "E": "<p>Şadırvan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936698,
@@ -812,8 +762,7 @@
         "D": "<p>Frigler</p>",
         "E": "<p>Hititler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936715,
@@ -828,8 +777,7 @@
         "D": "<p><span style=\"left: 768.242px; top: 815.207px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.914731);\"><span style=\"left: 266.824px; top: 836.874px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.747187);\"><span style=\"left: 246.419px; top: 319.473px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.921577);\">Ku</span><span style=\"left: 267.686px; top: 319.473px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.834215);\">sayr-</span><span style=\"left: 297.166px; top: 319.473px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.989298);\">­ı Am</span><span style=\"left: 338.728px; top: 319.473px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.786271);\">ra</span></span></span></p>",
         "E": "<p><span style=\"left: 768.242px; top: 815.207px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.914731);\">Mes</span><span style=\"left: 797.172px; top: 815.207px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.690947);\">cidü’l </span><span style=\"left: 246.419px; top: 836.874px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.89375);\">Ak</span><span style=\"left: 266.824px; top: 836.874px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.747187);\">sa</span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936741,
@@ -844,8 +792,7 @@
         "D": "<p>Kabe</p>",
         "E": "<p>Şam Emevviye Camii</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936744,
@@ -860,8 +807,7 @@
         "D": "<p>740-750</p>",
         "E": "<p>705-15</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3601538,
@@ -876,8 +822,7 @@
         "D": "<p>Rabat Hasan Cami</p>",
         "E": "<p>İşbiliye Cami</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936491,
@@ -892,8 +837,7 @@
         "D": "<p>Şam</p>",
         "E": "<p>Tebriz</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936522,
@@ -908,8 +852,7 @@
         "D": "<p>750-1258 arasındaki dönem</p>",
         "E": "<p>1258-1232 arasındaki dönem</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936525,
@@ -924,8 +867,7 @@
         "D": "<p>Rumi</p>",
         "E": "<p>Palmet</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936546,
@@ -940,8 +882,7 @@
         "D": "<p>Küfi yazı</p>",
         "E": "<p>Aklam-ı Sitte</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936560,
@@ -956,8 +897,7 @@
         "D": "<p>Emevi döneminde inşa edilen Şam Emeviye Camii planı ve süslemeleriyle en önemli yapılardan biridir.</p> ",
         "E": "<p>Bu dönemden günümüze gelen “Barada Panosu” Kabe’nin önemli süslemelerinden biridir. </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936615,
@@ -972,8 +912,7 @@
         "D": "<p>Ebü’l-Fevaris Medresesi</p>",
         "E": "<p>Şam Rükniye Medresesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936629,
@@ -988,8 +927,7 @@
         "D": "<p>Mescid-i Kıbleteyn</p>",
         "E": "<p>Kufe Camii</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936664,
@@ -1004,8 +942,7 @@
         "D": "<p>Hz. Ebu Bekir</p>",
         "E": "<p>Hz. Ömer</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936678,
@@ -1020,8 +957,7 @@
         "D": "<p>Kufi</p>",
         "E": "<p>Sülüs</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936690,
@@ -1036,8 +972,7 @@
         "D": "<p>Sadece III</p>",
         "E": "<p>Sadece II</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936699,
@@ -1052,8 +987,7 @@
         "D": "<p>Süleymaniye Camii </p>",
         "E": "<p>KurtubaValide Sultan Camii</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936723,
@@ -1068,8 +1002,7 @@
         "D": "<p>Savat</p>",
         "E": "<p>Usturlap</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936745,
@@ -1084,8 +1017,7 @@
         "D": "<p>Fatimiler</p>",
         "E": "<p>Zengiler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936746,
@@ -1100,8 +1032,7 @@
         "D": "<p>i-Ümeyye tipi ii-Halife I. Velid</p>",
         "E": "<p>i-Kurtuba tipi ii-I.Abdurrahman</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936504,
@@ -1116,8 +1047,7 @@
         "D": "<p>Harim, mihrap duvarına dik uzanan on dokuz sahına ayrılmıştır.</p> ",
         "E": "<p>Harim, mihrap duvarına paralel uzanan beş sahına ayrılmıştır.</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936518,
@@ -1132,8 +1062,7 @@
         "D": "<p>Güney</p>",
         "E": "<p>Kuzey-batı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936551,
@@ -1148,8 +1077,7 @@
         "D": "<p>El-Akmer Camii</p>",
         "E": "<p>Kurtuba Camii</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936561,
@@ -1164,8 +1092,7 @@
         "D": "<p>Kuseyr Amra</p> ",
         "E": "<p>Kasr Mşatta</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936593,
@@ -1180,8 +1107,7 @@
         "D": "<div class=\"page\" title=\"Page 9\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Medinetü’z Zehra</p> </div> </div> </div>",
         "E": "<p>Kurtuba Camii</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936594,
@@ -1196,8 +1122,7 @@
         "D": "<p>Bağdat. </p>",
         "E": "<p>Konya.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936598,
@@ -1212,8 +1137,7 @@
         "D": "<p>Hz.Osman Dönemi.</p>",
         "E": "<p>Hz.Ali Dönemi.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936634,
@@ -1228,8 +1152,7 @@
         "D": "<p>Murabıt Dönemi</p>",
         "E": "<p>Muvahhid Dönemi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936641,
@@ -1244,8 +1167,7 @@
         "D": "<p>Son Cemaat Yeri</p>",
         "E": "<p>Harim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936670,
@@ -1260,8 +1182,7 @@
         "D": "<p>Kahire</p>",
         "E": "<p>Amman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936692,
@@ -1276,8 +1197,7 @@
         "D": "<p>4-7.yüzyıllar</p>",
         "E": "<p>4-6.yüzyıllar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936696,
@@ -1292,8 +1212,7 @@
         "D": "<p>Portal</p>",
         "E": "<p>Revak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936738,
@@ -1308,8 +1227,7 @@
         "D": "<p>Hat</p>",
         "E": "<p>Nakış</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936488,
@@ -1324,8 +1242,7 @@
         "D": "<p>Kufe  Camii</p>",
         "E": "<p>Kubbetü's Sakhra</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936490,
@@ -1340,8 +1257,7 @@
         "D": "<p>Halife II.Velid</p>",
         "E": "<p>Tarık b. Ziyad</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936507,
@@ -1356,8 +1272,7 @@
         "D": "<p>Mescid-i Aksa</p>",
         "E": "<p>Ortaköy Camii</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936516,
@@ -1372,8 +1287,7 @@
         "D": "<p>Seramik Sanatı</p>",
         "E": "<p>Maden Sanatı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936527,
@@ -1388,8 +1302,7 @@
         "D": "<p>750-1258</p>",
         "E": "<p>622-661</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936543,
@@ -1404,8 +1317,7 @@
         "D": "<p>Kabe</p>",
         "E": "<p>Kasrü’l Hayri el-Garbi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936607,
@@ -1420,8 +1332,7 @@
         "D": "<p>Lüster </p>",
         "E": "<p>Sgrafitto</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936611,
@@ -1436,8 +1347,7 @@
         "D": "<p>Cami veya türbe değil, bir tavaf yapısı, bir ziyaretgâhtır.</p>",
         "E": "<p>Güneybatı köşesindeki minaresi, Kayıtbay Minaresi (1488) olarak adlandırılmaktadır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936622,
@@ -1452,8 +1362,7 @@
         "D": "<p>Dört Halife Dönemi</p>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Hz. Muhammed Dönemi</p> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936631,
@@ -1468,8 +1377,7 @@
         "D": "<p>Kayravan (Sidi Ukbe) Camii</p>",
         "E": "<p>Şam Emeviye (Ümeyye) Camii</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936679,
@@ -1484,8 +1392,7 @@
         "D": "<p>Palmet</p>",
         "E": "<p>Stilize bulut</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936687,
@@ -1500,8 +1407,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936708,
@@ -1516,8 +1422,7 @@
         "D": "<p>Medinetü’z Zehra</p> ",
         "E": "<p>Merida</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936716,
@@ -1532,8 +1437,7 @@
         "D": "<p>Bağımsız birimlere ev anlamında beyt (daire) denilmek­tedir. Her dairenin helası ayrıdır.</p>",
         "E": "<p>Dekorasyonda göklere yükselen ağaçlar, coşkun akan bir nehir, tasvir edilmiş, figür kullanılmamıştır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936727,
@@ -1548,8 +1452,7 @@
         "D": "<p>İşbi&shy;liye Cami</p>",
         "E": "<p>Elhamra Sarayı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936735,
@@ -1564,8 +1467,7 @@
         "D": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Bu dönem sanatında  yaratıcılıktan çok derleyicilik ön plandadır.</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Mimari ve diğer sanatlarda kuralların oluşturulması, ana formların ortaya çıkması, bu dönem ile başlar.</p> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936753,
@@ -1580,8 +1482,7 @@
         "D": "<p>812-827</p>",
         "E": "<p>834-852</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936495,
@@ -1596,8 +1497,7 @@
         "D": "<p>Şam</p>",
         "E": "<p>Tebriz</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936502,
@@ -1612,8 +1512,7 @@
         "D": "<p>Kubbetü’s Süleybiye</p> ",
         "E": "<p>Kubbe-i Mina</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936526,
@@ -1628,8 +1527,7 @@
         "D": "<p>Endüslüs emevi dönemi</p>",
         "E": "<p>Dört halife dönemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936554,
@@ -1644,8 +1542,7 @@
         "D": "<p>Küfi</p>",
         "E": "<p>Rika</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936559,
@@ -1660,8 +1557,7 @@
         "D": "<p>Mescid-I Kıblateyn</p> ",
         "E": "<p>Kûfe Mescidi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936562,
@@ -1676,8 +1572,7 @@
         "D": "<p>Kuseyr Amra</p> ",
         "E": "<p>Kasr Mşatta</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936563,
@@ -1692,8 +1587,7 @@
         "D": "<p>Kule</p>",
         "E": "<p>Burç</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936625,
@@ -1708,8 +1602,7 @@
         "D": "<p>Minai</p>",
         "E": "<p>Usturlap</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936636,
@@ -1724,8 +1617,7 @@
         "D": "<p>El-Akmer Camii</p>",
         "E": "<p>Salih Talai Camii</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936659,
@@ -1740,8 +1632,7 @@
         "D": "<p>III-IV</p>",
         "E": "<p>II-III-IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936662,
@@ -1756,8 +1647,7 @@
         "D": "<p>Yesrib</p>",
         "E": "<p>Hacerü’l Esved</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936704,
@@ -1772,8 +1662,7 @@
         "D": "<p>Kurtuba Camii</p>",
         "E": "<p>Kayravan Camii</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936743,
@@ -1788,8 +1677,7 @@
         "D": "<p>I. Velid</p>",
         "E": "<p>I. Abdurrahman</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936492,
@@ -1804,8 +1692,7 @@
         "D": "<p>862</p>",
         "E": "<p>929</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936513,
@@ -1820,8 +1707,7 @@
         "D": "<p>El-Hakim Camii</p>",
         "E": "<p>El-Cuyuşi Camii</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936542,
@@ -1836,8 +1722,7 @@
         "D": "<p>Roma yapıları özelliğini taşıması</p>",
         "E": "<p>Türbe özelliği taşıması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936574,
@@ -1852,8 +1737,7 @@
         "D": "El-Akmer Camii",
         "E": "El-Hakim Camii",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936644,
@@ -1868,8 +1752,7 @@
         "D": "<p>Şam Emeviye (Ümeyye) Camii</p>",
         "E": "<p>Kûfe Camii</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936658,
@@ -1884,8 +1767,7 @@
         "D": "<p>Kat-ı Sanatı</p>",
         "E": "<p>Minai</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936672,
@@ -1900,8 +1782,7 @@
         "D": "<p>Şam</p>",
         "E": "<p>Umman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936707,
@@ -1916,8 +1797,7 @@
         "D": "<p>Cevsakü’l-Hakani</p> ",
         "E": "<p>Kasrü’l Hayri el-Şarki</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936726,
@@ -1932,8 +1812,7 @@
         "D": "<p>Kutubiye Cami</p>",
         "E": "<p>Rabat Hasan Cami</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936749,
@@ -1948,8 +1827,7 @@
         "D": "<p>Yaldız kullanımı</p>",
         "E": "<p>Taş mozaik kullanımı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936758,
@@ -1964,8 +1842,7 @@
         "D": "<p>Samanoğulları Dönemin’de</p> ",
         "E": "<p>Eyyübiler Dönemi’nde</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936549,
@@ -1980,8 +1857,7 @@
         "D": "<p>Samarra Ebu Dulef Camii<br /><br /></p>",
         "E": "<p>Şam Emeviye (Umeyye) Camii</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936553,
@@ -1996,8 +1872,7 @@
         "D": "<p>Kantharos</p>",
         "E": "<p>Pyksis</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936564,
@@ -2012,8 +1887,7 @@
         "D": "<p>Abbasi Dönemi</p> ",
         "E": "<p>Emevi Dönemi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936640,
@@ -2028,8 +1902,7 @@
         "D": "<p>Mescidü’l Haram</p>",
         "E": "<p>Kûfe Camii</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936643,
@@ -2044,8 +1917,7 @@
         "D": "<p>Mescid-i Kıbleteyn (İki Kıbleli Mescid)</p>",
         "E": "<p> Kubbetü’s Sakhra</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936653,
@@ -2060,8 +1932,7 @@
         "D": "<p>Son derece sade binalar inşa edilmiş ve özellikle ihtişamdan, süslemecilikten uzak durmuşlardır</p>",
         "E": "<p>Emevi Dönemi sanatı eski kültürlerden etkileri derlemesi nedeniyle yaratıcılıktan çok, derleyicilik ön plandadır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936697,
@@ -2076,8 +1947,7 @@
         "D": "<p>Endülüs Dönemi</p>",
         "E": "<p>Emevi Dönemi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936724,
@@ -2092,8 +1962,7 @@
         "D": "<p>Cam sanatı</p>",
         "E": "<p>Fildişi sanatı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936734,
@@ -2108,8 +1977,7 @@
         "D": "<p>Fatımi Sanatı</p>",
         "E": "<p>Samanoğulları Sanatı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936757,
@@ -2124,8 +1992,7 @@
         "D": "<p>Endülüs Emevileri dönemi</p>",
         "E": "<p>Eyyubiler dönemi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936487,
@@ -2140,8 +2007,7 @@
         "D": "<p>Şam</p>",
         "E": "<p>Tahran</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936501,
@@ -2156,8 +2022,7 @@
         "D": "<p>Sayur</p>",
         "E": "<p>Banias</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936530,
@@ -2172,8 +2037,7 @@
         "D": "<p>10</p>",
         "E": "<p>11</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936566,
@@ -2188,8 +2052,7 @@
         "D": "<p>Kelile ve Dimne</p> ",
         "E": "<p><span style=\"font-size: 11.0pt;\">Mâkâmât</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936582,
@@ -2204,8 +2067,7 @@
         "D": "<p>Şam.</p>",
         "E": "<p>Kurtuba.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936618,
@@ -2220,8 +2082,7 @@
         "D": "<p>Cam</p>",
         "E": "<p>Tezhip</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936624,
@@ -2236,8 +2097,7 @@
         "D": "<p>8. Yüzyıl</p>",
         "E": "<p>9.Yüzyıl</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936661,
@@ -2252,8 +2112,7 @@
         "D": "<p>Mescidi Nebevi</p>",
         "E": "<p>Taç Mahal</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936682,
@@ -2268,8 +2127,7 @@
         "D": "<p>Alkali Sır</p>",
         "E": "<p>Kalıplama</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936709,
@@ -2284,8 +2142,7 @@
         "D": "<p>Samarra Sarayı</p> ",
         "E": "<p>Kasrü’l Hayri el-Şarki</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936710,
@@ -2300,8 +2157,7 @@
         "D": "<p>el-Akmer Camii</p>",
         "E": "<div class=\"page\" title=\"Page 151\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>el-Cuyuşi Camii</p> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936538,
@@ -2316,8 +2172,7 @@
         "D": "<p>Hacerü-l Muallak</p>",
         "E": "<p>Tak-ı Kisra</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936583,
@@ -2332,8 +2187,7 @@
         "D": "<p>Şam'daki yapılardan.</p>",
         "E": "<p>Medine'deki yapılardan.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936595,
@@ -2348,8 +2202,7 @@
         "D": "<div class=\"page\" title=\"Page 17\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sevilla Alcazar Sarayı.</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 17\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Meknes Ebu İnaniye Medresesi.</p> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936616,
@@ -2364,8 +2217,7 @@
         "D": "<p>Kagat</p>",
         "E": "<p>Mukarnas</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936628,
@@ -2380,8 +2232,7 @@
         "D": "<div class=\"page\" title=\"Page 5\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Mescidü’l Aksa</p> </div> </div> </div>",
         "E": "<p>Ömer Camii</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936642,
@@ -2396,8 +2247,7 @@
         "D": "<p>Mihrap</p>",
         "E": "<p>Minber</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936648,
@@ -2412,8 +2262,7 @@
         "D": "<p>Medinetü’z Zehra Sarayı</p>",
         "E": "<p>Kasrü’t Tuba</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936655,
@@ -2428,8 +2277,7 @@
         "D": "<p>Heykel sanatı önemli kazanmıştır, yayılmıştır</p>",
         "E": "<p>Figüratif büyük boyutlu seramik sanatı eserleri yapılmıştır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936676,
@@ -2444,8 +2292,7 @@
         "D": "<p>Giralda</p>",
         "E": "<p>Albarello</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936700,
@@ -2460,8 +2307,7 @@
         "D": "<p>Sasniler</p>",
         "E": "<p>Servetiler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936717,
@@ -2476,8 +2322,7 @@
         "D": "<p>Kusayr-­ı Amra</p>",
         "E": "<p>Kasrü’t Tuba</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936748,
@@ -2492,8 +2337,7 @@
         "D": "<p>Kutubiye Camii</p>",
         "E": "<p>Salih Talai Camii</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936510,
@@ -2508,8 +2352,7 @@
         "D": "<p>Osmanlı Dönemi</p>",
         "E": "<p>Selçuklu Dönemi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936515,
@@ -2524,8 +2367,7 @@
         "D": "<p>Eyyübiler</p>",
         "E": "<p>Muvahhidler </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936544,
@@ -2540,8 +2382,7 @@
         "D": "<p>el-Arus Minaresi</p>",
         "E": "<p>Hacerü-l Muallak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936547,
@@ -2556,8 +2397,7 @@
         "D": "<p>Harim</p>",
         "E": "<p>Portal</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936590,
@@ -2572,8 +2412,7 @@
         "D": "<p>540-585</p>",
         "E": "<p>596-647</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936604,
@@ -2588,8 +2427,7 @@
         "D": "<p>El-Ezher Camii</p>",
         "E": "<p>Amr Mescidi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936657,
@@ -2604,8 +2442,7 @@
         "D": "<p><em>Granada Sarayı</em></p>",
         "E": "<p>Ahmer-i bakü Sarayı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936721,
@@ -2620,8 +2457,7 @@
         "D": "<p>Abbasi Dönemi</p>",
         "E": "<p>Murabıt Dönemi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936731,
@@ -2636,8 +2472,7 @@
         "D": "<p>Selatin cami</p>",
         "E": "<p>Düz çatılı cami</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936759,
@@ -2652,8 +2487,7 @@
         "D": "<p>Nasri</p>",
         "E": "<p>Eyyübi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936499,
@@ -2668,8 +2502,7 @@
         "D": "<p>Vaaz kürsüsü</p> ",
         "E": "<p>Şadırvan</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936608,
@@ -2684,8 +2517,7 @@
         "D": "<p>Yüzeyleri yoğun süslenmiş tunç eserler</p>",
         "E": "<p>Emay (mine)</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936666,
@@ -2700,8 +2532,7 @@
         "D": "<p>Sasani</p>",
         "E": "<p>Bizans</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936756,
@@ -2716,8 +2547,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936496,
@@ -2732,8 +2562,7 @@
         "D": "<p>El-Hakim Camii</p>",
         "E": "<p>Salih Talai Camii</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936534,
@@ -2748,8 +2577,7 @@
         "D": "<p>Tıp</p>",
         "E": "<p>Resim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936603,
@@ -2764,8 +2592,7 @@
         "D": "<p>Medine</p>",
         "E": "<p>Kurtuba</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936609,
@@ -2780,8 +2607,7 @@
         "D": "<p>Minare</p>",
         "E": "<p>Kâbe</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936637,
@@ -2796,8 +2622,7 @@
         "D": "<p>Merini Dönemi</p>",
         "E": "<p>Nasri Dönemi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936674,
@@ -2812,8 +2637,7 @@
         "D": "<p>El-Cuyuşi Camii</p>",
         "E": "<p>Salih Talai Camii</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936558,
@@ -2828,8 +2652,7 @@
         "D": "<p>Yemânî</p> ",
         "E": "<p>el-Mescidü’l Haram</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936613,
@@ -2844,8 +2667,7 @@
         "D": "<p>Murabıtlar Dönemi</p>",
         "E": "<p>Eyyübiler Devleti</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936645,
@@ -2860,8 +2682,7 @@
         "D": "<p>Kasrü’l Hayri el-Garbi</p>",
         "E": "<p>Kasrü’l Haran</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936646,
@@ -2876,8 +2697,7 @@
         "D": "<p>Mütevekkiliye Camii</p>",
         "E": "<p>Kubbetü’s Sakhra</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936665,
@@ -2892,8 +2712,7 @@
         "D": "<p>Mescidi Nebevi</p>",
         "E": "<p>Taç Mahal</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936714,
@@ -2908,8 +2727,7 @@
         "D": "<p>Kubbetü’s Sakhra</p>",
         "E": "<p>Samarra Ebu Dulef Cami</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936506,
@@ -2924,8 +2742,7 @@
         "D": "<p>Püskürtme boyalı</p> ",
         "E": "<p>Sgrafitto</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936555,
@@ -2940,8 +2757,7 @@
         "D": "<p>Halkari</p>",
         "E": "<p>Telkari</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936649,
@@ -2956,8 +2772,7 @@
         "D": "<p>İbrahim Bey Türbesi</p>",
         "E": "<p>Mescid-i Nebi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936663,
@@ -2972,8 +2787,7 @@
         "D": "<p>Mescidi Nebevi</p>",
         "E": "<p>Mescidi Kıbleteyn</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936712,
@@ -2988,8 +2802,7 @@
         "D": "<p>Kufe</p>",
         "E": "<p>Fustat</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936584,
@@ -3004,8 +2817,7 @@
         "D": "<p>El-Akmer Camii.</p>",
         "E": "<p>El-Cuyuşi Camii.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936602,
@@ -3020,8 +2832,7 @@
         "D": "<p>Babü Merdüm Camii</p>",
         "E": "<p>Kurtuba Camii</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936623,
@@ -3036,8 +2847,7 @@
         "D": "<p>Kahire</p>",
         "E": "<p>Fransa</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936647,
@@ -3052,8 +2862,7 @@
         "D": "<p>Balkuvara Sarayı</p>",
         "E": "<p>Medinetü’z Zehra Sarayı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936739,
@@ -3068,8 +2877,7 @@
         "D": "<p>Stuko</p> ",
         "E": "<p>Sır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936626,
@@ -3084,8 +2892,7 @@
         "D": "<div class=\"page\" title=\"Page 16\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Muvahhid Dönemi Sanatı</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 17\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Merini Dönemi Sanatı</p> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936675,
@@ -3100,8 +2907,7 @@
         "D": "<p>Sevilla Alcazar Sarayı</p>",
         "E": "<p>Tlemsen Camii</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936681,
@@ -3116,8 +2922,7 @@
         "D": "<p>Bitki desenleri</p>",
         "E": "<p>Yaprak motifleri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936706,
@@ -3132,8 +2937,7 @@
         "D": "<p>Ta'lik</p>",
         "E": "<p>Rika</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936619,
@@ -3148,8 +2952,7 @@
         "D": "<p>Suriye Emevi D&ouml;nemi</p>",
         "E": "<p>End&uuml;l&uuml;s D&ouml;nemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936677,
@@ -3164,8 +2967,7 @@
         "D": "<p>Ebu İnaniye Medresesi</p>",
         "E": "<p>Kufe Camii</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936573,
@@ -3180,8 +2982,7 @@
         "D": "Şam",
         "E": "Bağdat",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936575,
@@ -3196,8 +2997,7 @@
         "D": "Endülüs Emevi Dönemi",
         "E": "Eyyubi Dönemi",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936671,
@@ -3212,8 +3012,7 @@
         "D": "<p>Şam Emeviye Camii</p>",
         "E": "<p>Kurtuba Camii</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936508,
@@ -3228,8 +3027,7 @@
         "D": "<p>Mescid-i Nebi (Mescid-i Nebevi)</p>",
         "E": "<p>Mescid-i Kıbleteyn (İki Kıbleli Mescid)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936517,
@@ -3244,8 +3042,7 @@
         "D": "<p>İraki</p>",
         "E": "<p>Beyt</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936620,
@@ -3260,8 +3057,7 @@
         "D": "<p>Endülüs</p>",
         "E": "<p>Tavaf</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936680,
@@ -3276,8 +3072,7 @@
         "D": "<p>El Mutasım</p>",
         "E": "<p>Me’mûn</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936702,
@@ -3292,8 +3087,7 @@
         "D": "<p>Basra Mescidi</p>",
         "E": "<p>Medine Mescidi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936718,
@@ -3308,8 +3102,7 @@
         "D": "<p>Fustat Ulu Cami</p> ",
         "E": "<p>Mütevekkiliye Cami</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936752,
@@ -3324,8 +3117,7 @@
         "D": "<p>Kasr Mışatta</p>",
         "E": "<p>Kayıtbay Minaresi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936683,
@@ -3340,8 +3132,7 @@
         "D": "<p>Gümüş</p>",
         "E": "<p>Pirinç</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936691,
@@ -3356,8 +3147,7 @@
         "D": "<p>Sadece II</p>",
         "E": "<p>Sadece III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2936751,
@@ -3372,7 +3162,801 @@
         "D": "<p>Kayıtbay Minaresi</p>",
         "E": "<p>Şam Emeviye Camii</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936578,
+        "UniteNo": 5,
+        "PageNumber": 138,
+        "AnswerExplanation": "Endülüs Emevilerinin ilk sarayı olan, Kurtuba’nın 3 km ku zey batı sın daki, I.Abdurrahman’ın yaptırttığı Rusafa (Arruzafa) Sarayı ise günümüze ulaşamamıştır. Sarayın, dönem şairlerinin şiirlerinde betimledikleri gibi palmiye ağaçları yetişen bahçeler ve köşklerden meydana geldiği bilinmektedir.",
+        "Title": "İspanya ve Kuzeybatı Afrika’daki İslam sanatını tanımlayabileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi Endülüs Emevilerinin günümüze ulaşamamış olan ilk sarayıdır?",
+        "A": "Tuleytula Sarayı",
+        "B": "Rusafa Sarayı",
+        "C": "Medinetü’z Zehra Sarayı",
+        "D": "Sierra Sarayı",
+        "E": "Alcazaba de Merida Sarayı",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936588,
+        "UniteNo": 5,
+        "PageNumber": 131,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p style=\"text-align: justify;\">Kureyş Kabilesi Haşimoğulları ailesinden olan, İslam dininin peygamberi Hz. Muhammed, 20 Nisan 571 tarihinde Mekke’de doğmuş, 8 Haziran 632’de Medi­ne’de hayata veda etmiştir.</p> </div> </div> </div> </div>",
+        "Title": "<p>Lütfen \"Giriş\" Yazısını gözden geçiriniz.</p>",
+        "Text": "<p>Aşağıdakilerden hangisi Hz.Muhammed'in doğum tarihidir?</p>",
+        "A": "<p>20 Nisan 571</p>",
+        "B": "<p>26 Mayıs 616</p>",
+        "C": "<p>19 Ocak 587</p>",
+        "D": "<p>10 Mart 741</p>",
+        "E": "<p>23 Tammuz 486</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936545,
+        "UniteNo": 5,
+        "PageNumber": 140,
+        "AnswerExplanation": "<p>Bağdat Şehri</p>",
+        "Title": "<p>İslam şehirciliği konusundaki bilinen ilk örnek, 762-765 yılları arasında, Abbasi halifesi Mansur’un kurdurduğu Bağdat Şehri’dir</p>",
+        "Text": "<p>İslam şehirciliği konusunda bilinen ilk örnek aşağıdaki seçeneklerden hangisidir?</p>",
+        "A": "<p>Şam Şehri</p>",
+        "B": "<p>Babil Şehri</p>",
+        "C": "<p>Bağdat Şehri</p>",
+        "D": "<p>Mekke Şehri</p>",
+        "E": "<p>Medine Şehri</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936639,
+        "UniteNo": 5,
+        "PageNumber": 132,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Mekke’deki Kâbe, Müslümanların bütün ibadetlerinde yöneldikleri kutsal bir yapıdır. İslamiyet’ten önce inşa edilmiş olmasına rağmen İslam öğretisindeki ev (beyt) kavramına dayandırılarak İslamiyet’in ilk yapısı olarak da kabul edilmektedir. İslam öğretisinde il ev, meleklerin tavaf etmesi için, Allah ve melekler tarafından gökyüzünde kurulan Beyt-i Mamur’dur. Meleklerin Kâbe’si olan Beyt-i Mamur’un, yeryüzündeki izdüşümünde bulunan insanların ilk evi, Beyt-i Atik, Mekke şehrindeki Kâbe’dir. Hz. Âdem’in, Kâbe’yi meleklerin yardımıyla inşa ettiğine inanılır. Kur’an’da Kâbe’nin temellerinin İbrahim ve İsmail peygamberler tarafından yükseltildiği belirtilmektedir.</p>",
+        "Title": "<p>Soruda tarihçesi ve özellikleri verilen yapının tanınması amaçlanmıştır. </p>",
+        "Text": "<p style=\"text-align: justify;\">Müslümanların ibadetlerinde yöneldikleri, İslamiyet’ten önce inşa edilmiş olmasına rağmen ev (beyt) kavramına dayandırılarak İslamiyet’in ilk yapısı olarak da kabul edilen,  Hz. Âdem’in meleklerin yardımıyla inşa ettiğine inanılan kutsal yapı aşağıdakilerden hangisidir? </p>",
+        "A": "<p>Mescid-i Aksa</p>",
+        "B": "<p>Kuba Mescidi</p>",
+        "C": "<p>Kâbe</p>",
+        "D": "<p>Mescidi Nebi</p>",
+        "E": "<p>Mescidi Kıbleteyn</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936693,
+        "UniteNo": 5,
+        "PageNumber": 151,
+        "AnswerExplanation": "<p>Her üçü de islam dönemi seramik merkezleridir.</p>",
+        "Title": "<p>Seramik sanatı</p>",
+        "Text": "<p>Aşağıdakilerden hangisi ya da hangileri islam dönemi seramik merkezleri arasında yer alır?</p>\n<p>I-Rey</p>\n<p>II-Kaşan</p>\n<p>III-Rakka</p>",
+        "A": "<p>Sadece II</p>",
+        "B": "<p>I ve II</p>",
+        "C": "<p>Sadece I</p>",
+        "D": "<p>I, II ve III</p>",
+        "E": "<p>Sadece III</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936713,
+        "UniteNo": 5,
+        "PageNumber": 132,
+        "AnswerExplanation": "<p>Hz. Muhammed’in, Medine’deki evinde cemaatle birlikte namaz kılmasından dolayı burası <em>Mescid­i Nebi (Mescid­i Nebevi) </em>adıyla İslamiyet’in ilk camisi sayılmış, sonraki bütün camilere örnek teşkil etmiştir.</p>",
+        "Title": "<p>ERKEN İSLAM DÖNEMİ SANATI</p>",
+        "Text": "<p>İslamiyet'in ilk camisi sayılan cami aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Mescid­i Nebi </p>",
+        "B": "<p>Mescid­i Kıb­leteyn</p>",
+        "C": "<p>Kufe Cami</p>",
+        "D": "<p>Kuba Mescidi</p>",
+        "E": "<p>El-­Mescidü’l Haram</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936531,
+        "UniteNo": 5,
+        "PageNumber": 139,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 10\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Endülüs Emevi Döne­ mi askerî yapılarının başında kaleler gelmektedir. Emevi Kaleleri, sonra da korunmuş ve kullanılmıştır. Önemli ör­ neklerden biri, 835 yılında, II. Abdurrahman tarafından ta­ mamlanan, Maride Kalesi’dir. Kale, Kurtuba’nın kuzeybatısındaki Merida ken­tinde (Alcazaba de Mérida) bulunur. Ana malzemesi kes­me taş olan kalenin, kalın du­varları dikdörtgen kulelerle ve payandalarla desteklenmiştir. Doğru yanıt A'dır.</p> </div> </div> </div>",
+        "Title": "",
+        "Text": "<div class=\"page\" title=\"Page 10\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Endülüs Emevi Döne­mi askerî yapılarının başında gelen hangisidir?</p> </div> </div> </div>",
+        "A": "<p>Maride Kalesi</p>",
+        "B": "<p>Kisimul Kalesi</p>",
+        "C": "<p>Praszky Kalesi</p>",
+        "D": "<p>Corfe Kalesi</p>",
+        "E": "<p>Arundel Kalesi</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936606,
+        "UniteNo": 5,
+        "PageNumber": 148,
+        "AnswerExplanation": "<p>Hepsi</p>",
+        "Title": "<p>Abbasi halifesi Mu’tasım tarafından himaye edilen Türk Yakut da denilen Yakutu Müstasemi, 8. yüzyılda önceden bilinen tüm yazı çeşitlerini toplayarak sınıf­landırmış ve Aklam-ı Sitte adı verilen 6 çeşit yazı oluşturmuştur. Bunlar nesih, sülüs, reyhani, muhakkak, tevki ve rika yazılarıdır.</p>",
+        "Text": "<p>Abbasi halifesi Mu’tasım tarafından himaye edilen Yakutu Müstasemi, 8. yüzyılda önceden bilinen tüm yazı çeşitlerini toplayarak sınıf­landırmış ve Aklam-ı Sitte adı verilen yazı çeşitleri oluşturmuştur.</p> <p>Aşağıdakilerden hangisi ya da hangileri bu yazı çeşitlerindendir?</p> <p>I) Nesih</p> <p>II) Sülüs</p> <p>III) Reyhani</p> <p>IV) Muhakkak</p> <p>V) Tevki</p> <p>VI) Rika </p>",
+        "A": "<p>I, II ve III</p>",
+        "B": "<p>Hepsi</p>",
+        "C": "<p>Yalnızca V</p>",
+        "D": "<p>I, V, ve IV</p>",
+        "E": "<p>II ve III</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936654,
+        "UniteNo": 5,
+        "PageNumber": 135,
+        "AnswerExplanation": "<p><em>Kasrü’l Hayri el­Garbi </em>(728) Saray mozaik, fresko ve alçı dekorlarla süslüdür. Freskolarda geyik avında bir atlı, müzisyenler, yabani hayvanlar ve alegorik konuların işlendiği görülmektedir.</p> <p>985’de Şam Emeviye Camii’ni <em>duvarları ve kubbesini süsleyen yaldızlı bir zemin üzerinde parıldayan yeşil ve kahverengi </em>çok renkli <em>mozaikleri </em>ve 985’de Şam Emeviye Camii Batı revak arka duvarının iç kısmındaki duvarda yer alan mozaik pano, cami süslemesinde yer alan ilk manzara örneğidir. Kompozisyonda figür kullanılmamıştır.</p> <p>Kusayr­ı Amra’nın salonunu süsleyen figürlü duvar resimleri çok dikkat çekicidir. Hamamın soyunmalık ve ılıklık bölümlerinde hamam ve doğum sahneleri görülmektedir.</p> <p>Dini konuların işlendiği büyük tuvaller kutsal mekanlarda ve saray duvarlarında görülmezler.</p>",
+        "Title": "<p><em>Kasrü’l Hayri el­Garbi </em>(728) Saray mozaik, fresko ve alçı dekorlarla süslüdür. Freskolarda geyik avında bir atlı, müzisyenler, yabani hayvanlar ve alegorik konuların işlendiği görülmektedir.</p>\n<p>985’de Şam Emeviye Camii’ni <em>duvarları ve kubbesini süsleyen yaldızlı bir zemin üzerinde parıldayan yeşil ve kahverengi </em>çok renkli <em>mozaikleri </em>ve 985’de Şam Emeviye Camii Batı revak arka duvarının iç kısmındaki duvarda yer alan mozaik pano, cami süslemesinde yer alan ilk manzara örneğidir. Kompozisyonda figür kullanılmamıştır.</p>\n<p>Kusayr­ı Amra’nın salonunu süsleyen figürlü duvar resimleri çok dikkat çekicidir. Hamamın soyunmalık ve ılıklık bölümlerinde hamam ve doğum sahneleri görülmektedir.</p>\n<p>Dini konuların işlendiği büyük tuvaller kutsal mekanlarda ve saray duvarlarında görülmezler.</p>",
+        "Text": "<p>Emevi Dönemi resim sanatı özellikleri için aşağıdakilerden hangisi söylenemez?</p>",
+        "A": "<p>Kutsal yer ve sarayların duvarları Freskolar ile süslenmiştir</p>",
+        "B": "<p>Kutsal yer ve sarayların duvarları renkli mozaikler ile süslenmiştir</p>",
+        "C": "<p>Şam Emeviye Camii’deki mozaik pano, cami süslemesinde yer alan ilk manzara örneğidir</p>",
+        "D": "<p>Kusayr­ı Amra’nın salonunu süsleyen figürlü duvar resimleri yer alır</p>",
+        "E": "<p>Dini konuların işlendiği büyük tuvaller saray duvarlarını süslemektedir</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936722,
+        "UniteNo": 5,
+        "PageNumber": 149,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 20\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Tezhip kelimesi, Arapça zeheb (altın) kökünden türemiş olup altınlamak anlamına gelmektedir. Bununla beraber altının yanı sıra, kökboyaların, renkli toprak boyaların,maden oksitlerin kullanıldığı süslemeler de yapılmıştır. Yalnız altınla yapılan<br />tezhibe halkâri denir. Tezhip yapan sanatçıya müzehhib, tezhiplenmiş yapıta da müzehheb adı verilir.</p> </div> </div> </div>",
+        "Title": "<div class=\"page\" title=\"Page 20\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Tezhip kelimesi, Arapça zeheb (altın) kökünden türemiş olup altınlamak anlamına gelmektedir. Bununla beraber altının yanı sıra, kökboyaların, renkli toprak boyaların,maden oksitlerin kullanıldığı süslemeler de yapılmıştır. Yalnız altınla yapılan<br />tezhibe halkâri denir. Tezhip yapan sanatçıya müzehhib, tezhiplenmiş yapıta da müzehheb adı verilir.</p>\n</div>\n</div>\n</div>",
+        "Text": "<div class=\"page\" title=\"Page 20\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Arapça zeheb (altın) kökünden türemiş olup altınlamak anlamına gelen, bununla beraber altının yanı sıra, kökboyaların, renkli toprak boyaların, maden oksitlerin kullanıldığı süslemeleri de içeren kitap sanatı, aşağıdakilerden hangisidir?</p> </div> </div> </div>",
+        "A": "<p>Hat</p>",
+        "B": "<p>Tezhip</p>",
+        "C": "<div class=\"page\" title=\"Page 20\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Minyatür</p> </div> </div> </div>",
+        "D": "<p>Cilt</p>",
+        "E": "<p>Sır</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936729,
+        "UniteNo": 5,
+        "PageNumber": 147,
+        "AnswerExplanation": "<p>Fildişi işçiliği özellikle Fatımi Dönemi'nde gelişmiştir.</p>",
+        "Title": "<p>EL SANATLARI- Fildişi Sanatı</p>",
+        "Text": "<p>Fildişi işçiliği özellikle hangi dönemde gelişmiştir?</p>",
+        "A": "<p>Eyyubi Dönemi</p>",
+        "B": "<p>Abbasi Dönemi</p>",
+        "C": "<p>Endülüs Emevi Dönemi</p>",
+        "D": "<p>Fatımi Dönemi</p>",
+        "E": "<p>Merini Dönemi</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936736,
+        "UniteNo": 5,
+        "PageNumber": 134,
+        "AnswerExplanation": "<ol> <li><em>Mescidü’l Aksa</em></li> </ol>",
+        "Title": "<p>EMEVİ DÖNEMİ SANATI (661-750; 756-929/929-1031)</p>\n<p>Suriye Emevi Dönemi Sanatı (661-750)</p>",
+        "Text": "<p>Halife Abdülmelik tarafından Kudüs’teki kutsal alana yaptırılan ……………… İslam dünyasının en kutsal yapılarındandır. Geçirdiği depremler sonucu zarar gören cami, Abbasi halifelerinden Mansur tarafından 757’de yeniden yaptırılmıştır. Haçlılar tarafından değişikliğe uğratılan cami, 1187’de Selahaddin­I Eyyubi tarafından onartılmıştır.</p> <p>Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?</p>",
+        "A": "<p><em>Mescidü’l Aksa</em></p>",
+        "B": "<p>Hacerü’l Muallak</p>",
+        "C": "<p>Kâbe</p>",
+        "D": "<p>Şam Emeviye (Ümeyye) Camii</p>",
+        "E": "<p>Kayravan (Sidi Ukbe) Camii</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936494,
+        "UniteNo": 5,
+        "PageNumber": 138,
+        "AnswerExplanation": "<p>III. Abdurrahman tarafından bir kır sarayı olarak inşa edilen Medinetü’z Zehra Sarayı, ismini, halifenin gözde hanımı Zehra’dan alır. 935 yılında yapımına başlanan saray, II. Hakem (961-­976) döneminde tamamlanmıştır. Kurtuba’nın 8 km kuzey batısında, Sierra Nevada Tepesi’nin yamacı üzerinde, 1500 m uzunluğunda ve 750 m genişliğinde bir alan üzerine kurulan saray, Vadi’ül­-Ke bir (Gua dal quivir) Nehri’ne bakmaktadır. Devasa büyüklüğü ve kulelerle takviye edilmiş yüksek olmayan bir surla kuşatılmış olması nedeniyle “şehir­-saray” olarak nitelendirilir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi Şehir-saray olarak nitelendirilmiştir?</p>",
+        "A": "<p>Balkuvara Sarayı</p>",
+        "B": "<p>Medinetü'z Zehra Sarayı</p>",
+        "C": "<p>Rusafa Sarayı</p>",
+        "D": "<p>Samarra Cevsakü'l-Hakani Sarayı</p>",
+        "E": "<p>Ukhaydır Sarayı</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936505,
+        "UniteNo": 5,
+        "PageNumber": 134,
+        "AnswerExplanation": "<p>Şam Emeviye (Ümeyye) Camii (705-15), Halife I. Velid tarafından yaptırılmıştır. Maksure kubbesi haricinde, orijinal planı değişmeden, günümüze kadar gelebilmiş, en erken camidir.</p> <p>Hz. Muhammed dönemi camilerinden Mescid-i Nebi ve Mescid-i Kıbleteyn günümüze orijinal özellikleri ile gelememiştir. Mısır Fatihi Amr bin el As tarafından Fustat’da inşa ettirilen, Amr bin el As Camii (642) de günümüze ilk şekli ile ulaşmamıştır. 670 yılında Ukbe bin Nafi’nin başlattığı Kayravan Ulu (Sidi Ukbe) Cami, Halife Hişam tarafından 726 yılında bitirilmiştir. Cami, zaman içinde yenilenmiş, Emevi döneminin özelliklerini yitirmiştir.</p>",
+        "Title": "<p>SANAT TARİHİ, 5. Ünite, İslam Sanatı, EMEVİ DÖNEMİ SANATI (661-750; 756-929/929-1031) </p>",
+        "Text": "<p>Aşağıdakilerden hangisi, orijinal planı hiç değişmeden, günümüze kadar gelebilmiş, <strong><u>en erken</u></strong> caminin ismidir?</p> ",
+        "A": "<p>Şam Emeviye Camii</p> ",
+        "B": "<p>Medine Mescid-i Nebi</p> ",
+        "C": "<p>Kayravan Sidi Ukbe Camii</p> ",
+        "D": "<p>Fustat Amr bin el As Camii</p> ",
+        "E": "<p>Medine Mescid-i Kıbleteyn</p> ",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936537,
+        "UniteNo": 5,
+        "PageNumber": 131,
+        "AnswerExplanation": "<p>Müslümanların Mekke'den Medine'ye göçü ile( hicret)</p>",
+        "Title": "<p>Müslümanların, İlk vahyin gelişinden 12 yıl sonra, 622 yılı Nisan ayının ortalarında Mekke’yi terk edip Yesrib (Medine) şehrine Hicret (göç) etmeleri ile İslam tarihinde yeni bir çağ başlamıştır.</p>",
+        "Text": "<p>İslam tarihinde yeni çağ değişimi ne zaman olmuştur?</p>",
+        "A": "<p>Hz. Muhammed'in doğumu ile</p>",
+        "B": "<p>Hz. Muhammed'in ölümü ile</p>",
+        "C": "<p>Haifeliğn gelmesi ile</p>",
+        "D": "<p>Müslümanların Mekke'den Medine'ye göçü ile( hicret)</p>",
+        "E": "<p>Türklerin müslümanliğı kabulü ile</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936581,
+        "UniteNo": 5,
+        "PageNumber": 138,
+        "AnswerExplanation": "<p>Endülüs Emevi Dönemi’nin önemli yapılarının başında 784’te, I. Abdurrahman<br />tarafından yapımı başlatılan, <strong>Kurtuba Camii</strong> gelir.</p>",
+        "Title": "<p>İslam Sanatı/ Endülüs Emevi Dönemi Sanatı.</p>",
+        "Text": "<p>Endülüs Emevi Dönemi’nin önemli yapılarından birisi hangisidir?</p>",
+        "A": "<p>Medinetü’z Zehra Sarayı.</p>",
+        "B": "<p>Kurtuba Camii.</p>",
+        "C": "<p>Maride Kalesi.</p>",
+        "D": "<p>Kasrü’t Tuba.</p>",
+        "E": "<p>Kasr Mışatta.</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936685,
+        "UniteNo": 5,
+        "PageNumber": 132,
+        "AnswerExplanation": "<p>Şapel Hıristiyan Mimarisinin öğelerinden biridir. </p>",
+        "Title": "<p>Erken İslam Dönemi Sanatı</p>",
+        "Text": "<p>Aşağıdakilerden hangisi ya da hangileri İslam Sanatında cami mimarisin öğelerinden biridir?</p> <p>I- Minber</p> <p>II- Şapel</p> <p>III- Mihrap</p>",
+        "A": "<p>Sadece I</p>",
+        "B": "<p>Sadece II</p>",
+        "C": "<p>I ve III</p>",
+        "D": "<p>II ve III</p>",
+        "E": "<p>Sadece III</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936524,
+        "UniteNo": 5,
+        "PageNumber": 148,
+        "AnswerExplanation": "<p>Yakutu Müstasemi, 8. yüzyılda önceden bilinen tüm yazı çeşitlerini toplayarak sınıf­landırmış ve <em>Aklam</em>-<em>ı Sitte </em>adı verilen 6 çeşit yazı oluşturmuştur. Bunlar <em>nesih, sülüs, reyhani, muhakkak, tevki ve rika </em>yazılarıdır. Doğru cevap D.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi Yakutu Müstasemi’nin  <em>Aklam</em>-<em>ı Sitte </em>olarak sınıflandırdığı yazı çeşitleri arasında yer almaz?</p>",
+        "A": "<p>Nesih</p>",
+        "B": "<p>Reyhani</p>",
+        "C": "<p>Rika</p>",
+        "D": "<p>Nebati</p>",
+        "E": "<p>Tevki</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936669,
+        "UniteNo": 5,
+        "PageNumber": 136,
+        "AnswerExplanation": "<p>Kusayr-ı Amra</p>",
+        "Title": "<p>Kusayr­ı Amra’nın salonunu süsleyen figürlü duvar resimleri çok dikkat çeki­cidir. Salonun batı duvarında, yanlarına Arapça ve Yunanca olarak isimlerinin de yazılı olduğu Emevilerin mağlup ettikleri bazı hükümdarlara ait tasvirler bulunur. Salonun kemer karınlarına da figürlü resimler işlenmiştir. Hamamın soyunma­lık ve ılıklık bölümlerinde hamam ve doğum sahneleri görülmektedir. Sıcaklığın kubbesine mıntıkatü’l büruc (yıldız haritası) betimlenmiştir.</p>",
+        "Text": "<p>Halife I.Velid’in yaptırdığı Emevi kasırlarındandır. İki bölümden oluşur. <u>Birinci</u> bölümünde, bir taht odası ve merasim salonu bulunur. Salonun duvar resimleri çok dikkat çekici olup Arapça ve Yunanca yazılar ve hükümdarlara ait tasvirler bulunur. <u>İkinci</u> bölümde, üç mekânlı bir hamam vardır. Soyunmalık, ılıklık ve sıcaklıktır olarak adlandırılır. Soyunmalık ve ılıklık bölümlerinde hamam ve doğum sahneleri görülmektedir. Sıcaklığın kubbesine yıldız haritası betimlenmiştir. Bu kasır <strong>aşağıdakilerden hangisidir?</strong></p>",
+        "A": "<p>Kasrü’l Hayri el-Garbi</p>",
+        "B": "<p>Kasrü’l Hayri el-Şarki</p>",
+        "C": "<p>Kusayr-ı Amra</p>",
+        "D": "<p>Kasr Mışatta</p>",
+        "E": "<p>Kasrü’t Tuba’nın</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936732,
+        "UniteNo": 5,
+        "PageNumber": 133,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Mimari ve diğer sanatlarda kuralların oluşturulması, ana formların ortaya çıkması, Emevi Dönemi ile başlar. Dinî mimarinin ilk kalıcı plan şeması bu dönemde ortaya çıkmıştır. Daha önce yalnız günlük hayatın sürdürülmesine ve dinî görevlerin yerine getirilmesine uy­gun, tabiat şartlarına karşı oldukça dayanıksız, son derece sade binalar inşa edi­lirken, bu dönemde ihtişamlı görünmelerine önem verilen, dinî ve sivil binaların yapılması ile yeni bir sanat anlayışı ortaya çıkmıştır.</p> </div> </div> </div>",
+        "Title": "<p>ERKEN İSLAM DÖNEMİ SANATI</p>",
+        "Text": "<p>Aşağıdakilerden hangisi Emevi dönemi İslam sanatı için söylenebilir?</p>",
+        "A": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İslam dininin sanata getirdiği en büyük yenilik olan cami mimarisi bu dönemde ortaya çıkmıştır.</p> </div> </div> </div>",
+        "B": "<p>Bu dönemin en önemli eseri Kuba mescididir.</p>",
+        "C": "<p>Kufe tipi cami modeli bu dönem ortaya çıkmıştır.</p>",
+        "D": "<div class=\"page\" title=\"Page 13\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Bu dönem mimari yapıtlarının başında Buhara’daki Samanoğlu İb­rahim Bey Türbesi gelmektedir.</p> </div> </div> </div>",
+        "E": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Dinî mimarinin ilk kalıcı plan şeması bu dönemde ortaya çıkmıştır.</p> </div> </div> </div>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936580,
+        "UniteNo": 5,
+        "PageNumber": 134,
+        "AnswerExplanation": "<p>Yanlış olarak Ömer Camii diye bilinen <strong>Kubbetü’s Sakhra</strong> (691), Halife Abdülmelik tarafından Kudüs’te, kutsal alan içinde yaptırılmıştır (Resim 5.1). Cami veya türbe değil, bir tavaf yapısı, bir ziyaretgâhtır. Kitab-ı Mukaddes’te adı geçen Hacerü-l Muallak adıyla anılan kutsal kayayı içerisine alacak biçimde inşa edilmiştir. Merkezî planlı, ilk İslam yapısıdır.</p>",
+        "Title": "<p>İslam Sanatı/Suriye Emevi Dönemi Sanatı (661-750)</p>",
+        "Text": "<p>Aşağıdaki seçeneklerden hangisi Merkezî planlı, ilk İslam yapısıdır?</p>",
+        "A": "<p>Kubbetü’s Sakhra.</p>",
+        "B": "<p>Mescidü’l Aksa.</p>",
+        "C": "<p>Kayravan (Sidi Ukbe) Camii.</p>",
+        "D": "<p>Şam Emeviye (Ümeyye) Camii.</p>",
+        "E": "<p>Fustat Amr Camii.</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936597,
+        "UniteNo": 5,
+        "PageNumber": 147,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 18\"> <div class=\"layoutArea\"> <div class=\"column\"> <p style=\"text-align: justify;\">Kâğıt: Kelime, etimolojik olarak Uygurca kagat, kagas sözcüklerine dayanmaktadır. Uygurcada kagas kelimesi ağaç kabuğu anlamına gelmektedir.</p> </div> </div> </div>",
+        "Title": "<p>Lütfen \" Kitap Sanatları\" başlıklı yazıyı gözden geçiriniz.</p>",
+        "Text": "<div class=\"page\" title=\"Page 18\"> <div class=\"layoutArea\"> <div class=\"column\"> <p style=\"text-align: justify;\">Etimolojik olarak Uygurca \"kagat\", \"kagas\" sözcüklerine dayanan ve Uygurca \"ağaç kabuğu\" anlamını taşıya kelimenin günümüz karşılığı aşağıdakilerden hangisidir?</p> </div> </div> </div>",
+        "A": "<p>Kese. </p>",
+        "B": "<p>Kase. </p>",
+        "C": "<p>Kagıt.</p>",
+        "D": "<p>Kap.</p>",
+        "E": "<p>Kavanoz.</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936695,
+        "UniteNo": 5,
+        "PageNumber": 132,
+        "AnswerExplanation": "<p>Hz. Muhammed, köklü değişikliklere giderek, Arapların İslamiyet öncesinde de kutsal saydıkları Kâbe’de bulunan putları, Mekke’nin fethinden sonra kırdırtıp attırmıştır. Granit taştan, inşa edilen 13 m yüksekliğindeki dikdörtgen prizma biçimli Kâbe’nin, kenar ölçüleri birbirinden farklıdır. Sade ve süslemesiz yapının, ana yönleri gösteren köşelerinin ayrı isimleri vardır.</p>",
+        "Title": "",
+        "Text": "<p>\"Hz. Muhammed, köklü değişikliklere giderek, Arapların İslamiyet öncesinde de kutsal saydıkları ... putları, Mekke’nin fethinden sonra kırdırtıp attırmıştır. Granit taştan, inşa edilen 13 m yüksekliğindeki dikdörtgen prizma biçimli ..., kenar ölçüleri birbirinden farklıdır. Sade ve süslemesiz yapının, ana yönleri gösteren köşelerinin ayrı isimleri vardır.\"</p> <p>Yukarıdaki metinde hangi yapıdan bahsedilmektedir?</p>",
+        "A": "<p>Kâbe</p>",
+        "B": "<p>Kûfe Camii</p>",
+        "C": "<p>Hacerü’l Muallak</p>",
+        "D": "<p>Şam Emeviye Camii</p>",
+        "E": "<p>Mışatta</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936737,
+        "UniteNo": 5,
+        "PageNumber": 137,
+        "AnswerExplanation": "<p>İspanya</p>",
+        "Title": "<p>Endülüs Emevi Dönemi Sanatı (756-1031)</p>",
+        "Text": "<p>756 yılında Başkenti <em>Kurtuba</em> (Kordoba) olan ve yine islam dünyasının önemli eserlerinden olan Kurtuba Camisininde yer aldığı Endülüs Emevi devleti hangi ülkede kurulmuştur?</p>",
+        "A": "<p><em>Suriye</em></p>",
+        "B": "<p>İspanya</p>",
+        "C": "<p>Mısır</p>",
+        "D": "<p>Irak</p>",
+        "E": "<p>İran</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936523,
+        "UniteNo": 5,
+        "PageNumber": 140,
+        "AnswerExplanation": "<p>Halife Mütevekkil’in yaptırdığı, <em>Mütevekkiliye (Samarra) Camii </em>(848-852) çok destekli <em>Kûfe tipli </em>bir yapıdır. Doğru cevap A.</p>",
+        "Title": "",
+        "Text": "<p>Halife Mütevekkil’in yaptırdığı, <em>Mütevekkiliye (Samarra) Camii </em>(848-852) plan tipi aşağıdakilerden hangisidir?</p>",
+        "A": "<p><em>Kûfe tipli</em></p>",
+        "B": "<p><em>T Plan tipi</em></p>",
+        "C": "<p><em>Kare planlı</em></p>",
+        "D": "<p><em>Dikdörtgen planlı</em></p>",
+        "E": "<p><em>Merkezi planlı</em></p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936552,
+        "UniteNo": 5,
+        "PageNumber": 146,
+        "AnswerExplanation": "<p>\"Nasri (Beni Ahmer) mimarisinin en başta gelen eseri olan Elhamra Sarayı (Kasrü’l el-Hamra), Gırnata’da (Granada) Daro ve Genil nehirlerinin çevrelediği Sierra Nevada Dağı’nın üstündeki düzlükte, şehre bakan kısmında geniş bir alana kurulmuştur\" ifadesinden anlaşılacağı üzere Elhamra Sarayı Nasri Dönemi Sanatı eseridir. Cevap d seçeneğidir.</p>",
+        "Title": "",
+        "Text": "<p>Elhamra Sarayı, aşağıda yer alan sanat dönemlerinden  hangisinin en önemli eserlerinden biri olarak kabul edilmektedir?</p>",
+        "A": "<p>Murabıt Dönemi Sanatı (1090-1147)</p>",
+        "B": "<p>Muvahhid Dönemi Sanatı (1147-1238)</p>",
+        "C": "<p>Merini Dönemi Sanatı (1195-1470)</p>",
+        "D": "<p>Nasri Dönemi Sanatı (1238-1492)</p>",
+        "E": "<p>Eyyubi Sanatı (1171-1250)</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936742,
+        "UniteNo": 5,
+        "PageNumber": 134,
+        "AnswerExplanation": "<p>Kubbetus Sahra 691 yılında Emevi Halifesi Abdülmelik bin Mervan tarafından yaptırılmıştır.</p>",
+        "Title": "",
+        "Text": "<p>Kubbetus-Sahra hangi devlet zamanında yapılmıştır?</p>",
+        "A": "<p>Abbasiler</p>",
+        "B": "<p>Emeviler</p>",
+        "C": "<p>Muvahhidler</p>",
+        "D": "<p>Murabıtlar</p>",
+        "E": "<p>Beni Ahmer</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936605,
+        "UniteNo": 5,
+        "PageNumber": 146,
+        "AnswerExplanation": "<p>Elhamra Sarayı (Kasrü’l el-Hamra)</p>",
+        "Title": "<p>Nasri (Beni Ahmer) mimarisinin en başka gelen eseri olan Elhamra Sarayı (Kasrü’l el-Hamra), Gırnata’da (Granada) Daro ve Genil nehirlerinin çevrelediği Sierra Nevada Dağı’nın üstündeki düzlükte, şehre bakan kısmında geniş bir alana kurulmuştur</p>",
+        "Text": "<p>Nasri (Beni Ahmer) mimarisinin en önemli eseri olarak sayılan yapı, aşağıdakilerden hangisidir?</p>",
+        "A": "<p> Elhamra Sarayı (Kasrü’l el-Hamra)</p>",
+        "B": "<p>Sevilla Alcazar Sarayı (Mübarek el-Kasr)</p>",
+        "C": "<p>İşbiliye Camii</p>",
+        "D": "<p>Tinmel Camii</p>",
+        "E": "<p>Rabat Hasan Camii</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936668,
+        "UniteNo": 5,
+        "PageNumber": 135,
+        "AnswerExplanation": "<p>Şam Emeviye Camii</p>",
+        "Title": "<p>Şam Emeviye Camii’ni ziyaret eden Mukaddesi, duvarları ve kubbesini süsleyen yaldızlı bir zemin üzerinde parıldayan yeşil ve kahverengi mozaikleri ile yapının göz alıcı olduğundan bahseder. <br />Batı revak arka duvarının iç kısmındaki duvarda yer alan mozaik pano, cami süslemesinde yer alan ilk manzara örneğidir. Kompozisyonda figür kullanılma­mıştır. Panoda yer alan nehir betimlemesi, Şam’ın içinden geçen Barada Nehri’ne benzetildiği için bu panoya Barada adı verilmiştir.</p>",
+        "Text": "<p>Cami süslemesinde ilk defa manzara mozaik pano yapılmıştır. Kompozisyonda figür kullanılmamıştır. Mozaik panoda nehir betimlemesi yer alır. Göklere yükselen ağaçlar, coşkun akan bir nehir, nehrin ortasında bir köprü, türlü hayali yapılar bir arada tasvir edilmiştir. Bu mozaiklerin başlıca renklerinde yaklaşık kırk renk tonu seçilebilmektedir. Yeşil, mavi, mor renkleri ve bu renklerin tonları ağırlıktadır. Ayrıca, sarı, kırmızı, gümüşi ve altın sarısı da kullanılmıştır.  Bu yapı <strong>aşağıdakilerden hangisidir?</strong></p>",
+        "A": "<p>Kayravan Camii</p>",
+        "B": "<p>Şam Emeviye Camii</p>",
+        "C": "<p>Kubbetü’s Sakhra</p>",
+        "D": "<p>Basra Camii</p>",
+        "E": "<p>Kufe Camii</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936630,
+        "UniteNo": 5,
+        "PageNumber": 133,
+        "AnswerExplanation": "<p>Doğru yanıt A olmalıydı</p>",
+        "Title": "<p>Otuz yıl kadar süreci kapsayan Dört Halife Devri (632-661) içerisinde Amr el-As tarafından Kahire’de inşa ettirilen <em>Fustat Amr Camii </em>(643) bu devrin bir eseridir.</p>",
+        "Text": "<p>Aşağıdaki camilerden hangisi Dört Halife Dönemi eseridir?</p>",
+        "A": "<p>Fustat Amr Camii</p>",
+        "B": "<p>Ömer Camii</p>",
+        "C": "<p>Mescidü’l Aksa</p>",
+        "D": "<p>Kayravan Camii</p>",
+        "E": "<p>Ümeyye Camii</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936755,
+        "UniteNo": 5,
+        "PageNumber": 132,
+        "AnswerExplanation": "<p><strong>Kâbe</strong>, Müslümanların bütün ibadetlerinde yöneldikleri kutsal bir yapıdır. İslamiyet’ten önce inşa edilmiş olmasına rağmen İslam öğretisindeki ev (beyt) kavramına dayandırılarak İslamiyet’in ilk yapısı olarak da kabul edilmektedir.  Kâbe’nin içinde bulunduğu alana, Kur’an-ı Kerim’de geçen ifade ile <em>el</em>-<em>Mescidü’l Haram </em>denilmektedir. Hz. Muhammed, Hicret sırasında Medine yakınlarındaki Kuba’ya gelerek burada kalmış, kılınan ilk Cuma namazı ve okunan ilk Cuma hutbesinden sonra Medine’ye girmiştir. Bu tarihten kısa süre sonra, ilk Cuma namazının kılındığı bu yerde <em>Kuba Mescidi </em>inşa edilmiştir. Hz. Muhammed’in, Medine’deki evinde cemaatle birlikte namaz kılmasından dolayı burası <em>Mescid</em>-<em>i Nebi (Mescid</em>-<em>i Nebevi) </em>adıyla İslamiyet’in ilk camisi sayılmış, sonraki bütün camilere örnek teşkil etmiştir. Hz. Muhammed’e, namazdayken <strong>Bakara Suresi’nin 144. ayeti </strong>inince, peygamber namazını bozmadan Kâbe yönüne dönmüştür. Cemaatin de kendisini takip ederek Kâbe yönüne dönmesiyle Kudüs’e doğru başlanan namazın son iki rekâtı Kâbe’ye yönelerek kılınmış ve kıble yönü namaz sırasında değiştirilmiştir. Bu olaydan sonra, Müslümanlar için kıble yönü değişmiş, bu olayın yaşandığı mescide <em>Mescid</em>-<em>i Kıbleteyn (İki Kıbleli Mescid) </em>adı verilmiştir.</p>",
+        "Title": "",
+        "Text": "<ul> <li>İslamiyet’in ilk yapısı olarak da kabul edilmektedir. Tarih boyunca kısmen ya da bütünüyle yeniden inşa edilmiş ve günümüze gelinceye kadar yedi kez yenilenmiştir. El-Mescidü’l Haram denilmektedir.</li> <li>Muhammed’in Hicreti sırasında ilk Cuma namazının kılındığı ve ilk Cuma hutbesinin okunduğu yerde inşa edilmiştir.</li> <li>Muhammed’in, Medine’deki evinde cemaatle birlikte namaz kılmasından dolayı burası İslamiyet’in ilk camisi sayılmış, sonraki bütün camilere örnek teşkil etmiştir.</li> <li>Muhammed’in burada kıldığı bir namaz sırasında gelen ayet üzerine Kâbe yönüne dönmesiyle Kudüs’e doğru başlanan namazın son iki rekâtı Kâbe’ye yönelerek kılınmış ve kıble yönü namaz sırasında değiştirilmiştir. Bu olaydan sonra, Müslümanlar için kıble yönü değişmiş, Kudüs yerine Kâbe kıble olmuştur.</li> </ul> <p><strong>Yukarıda Hz. Muhammed dönemi sanatına ait yapıların özellikleri verilmiştir. Aşağıdakilerden hangisi özellikleri verilen bu yapılar arasında <u>yer almaz</u>?</strong></p>",
+        "A": "<p> Mescidi Kıbleteyn</p>",
+        "B": "<p>Beyt-i Mamur</p>",
+        "C": "<p> Mescidi Nebi</p>",
+        "D": "<p> Kuba Mescidi</p>",
+        "E": "<p>Mescidü’l Haram</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936509,
+        "UniteNo": 5,
+        "PageNumber": 134,
+        "AnswerExplanation": "<p>Yanlış olarak Ömer Camii diye bilinen Kubbetü’s Sakhra (691), Halife Abdülmelik tarafından Kudüs’te, kutsal alan içinde yaptırılmıştır.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi Emeviler Dönemine ait, Halife Abdülmelik tarafından yaptırılmış bir camiidir? </p>",
+        "A": "<p>Kubbetü’s Sakhra </p>",
+        "B": "<p>Kûfe Camii</p>",
+        "C": "<p>Basra Camii</p>",
+        "D": "<p>Fustat Amr Camii</p>",
+        "E": "<p>Kayravan (Sidi Ukbe) Camii</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936650,
+        "UniteNo": 5,
+        "PageNumber": 132,
+        "AnswerExplanation": "<p>İslam öğretisinde <strong>ev</strong>, meleklerin tavaf etmesi için, Allah ve melekler tarafından gökyüzünde kurulan Beyt-i Mamur’dur. Meleklerin <strong>Kâbe</strong>’si olan Beyt-i Mamur’un, yeryüzündeki izdüşümünde bulunan insanların ilk evi, Beyt-i Atik, Mekke şehrindeki <strong>Kâbe’</strong>dir. Hz. Âdem’in, <strong>Kâbe</strong>’yi meleklerin yardımıyla inşa ettiğine inanılır. Kur’an’da Kâbe’nin temellerinin İbrahim ve İsmail peygamberler tarafından yükseltildiği belirtilmektedir. Kâbe’nin içinde bulunduğu alana, Kur’an­ı Kerim’de geçen ifade ile <em>el-­Mescidü’l Haram </em>denilmektedir.</p>",
+        "Title": "<p>İslam öğretisinde <strong>ev</strong>, meleklerin tavaf etmesi için, Allah ve melekler tarafından gökyüzünde kurulan Beyt-i Mamur’dur. Meleklerin <strong>Kâbe</strong>’si olan Beyt-i Mamur’un, yeryüzündeki izdüşümünde bulunan insanların ilk evi, Beyt-i Atik, Mekke şehrindeki <strong>Kâbe’</strong>dir. Hz. Âdem’in, <strong>Kâbe</strong>’yi meleklerin yardımıyla inşa ettiğine inanılır. Kur’an’da Kâbe’nin temellerinin İbrahim ve İsmail peygamberler tarafından yükseltildiği belirtilmektedir. Kâbe’nin içinde bulunduğu alana, Kur’an­ı Kerim’de geçen ifade ile <em>el-­Mescidü’l Haram </em>denilmektedir.</p>",
+        "Text": "<p>Mekke'de bulunan<strong> Kâbe</strong> için aşağıdakilerden hangisi yanlış bilgidir?</p>",
+        "A": "<p>Hz. Âdem’in, <strong>Kâbe</strong>’yi meleklerin yardımıyla inşa ettiğine inanılır</p>",
+        "B": "<p>Mekke'deki Kabe’nin ismi Beyt-i Mamur’dur</p>",
+        "C": "<p>Kur’an’da Kâbe’nin temellerinin İbrahim ve İsmail peygamberler tarafından yükseltildiği belirtilmektedir</p>",
+        "D": "<p>Mekke'deki Kabe’nin diğer ismi Beyt-i Atik’tir</p>",
+        "E": "<p>Kâbe’nin içinde bulunduğu Alana <em>el­-Mescidü’l Haram </em>denilmektedir</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936533,
+        "UniteNo": 5,
+        "PageNumber": 146,
+        "AnswerExplanation": "<p>Nasri (Beni Ahmer) mimarisinin en başta gelen eseri olan Elhamra Sarayı (Kas&shy; rü&rsquo;l el&shy;Hamra), Gırnata&rsquo;da (Granada) Daro ve Genil nehirlerinin çevrelediği Sierra Nevada Dağı&rsquo;nın üstündeki düzlükte, şehre bakan kısmında geniş bir alana kurul&shy;muştur. Doğru yanıt C'dir.</p>",
+        "Title": "",
+        "Text": "Nasri (Beni Ahmer) mimarisinin en başta gelen eseri aşağıdakilerden hangisidir?",
+        "A": "<p>Sevilla Alcazar Sarayı</p>",
+        "B": "<div class=\"page\" title=\"Page 17\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Meknes Ebu İnaniye Medresesi</p>\n</div>\n</div>\n</div>",
+        "C": "<p>Elhamra Sarayı</p>",
+        "D": "<div class=\"page\" title=\"Page 15\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Ebü&rsquo;l&shy;Fevaris Medresesi</p>\n</div>\n</div>\n</div>",
+        "E": "<div class=\"page\" title=\"Page 15\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Halep Zahiriye Medresesi</p>\n</div>\n</div>\n</div>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936565,
+        "UniteNo": 5,
+        "PageNumber": 148,
+        "AnswerExplanation": "<p>Stuko</p>",
+        "Title": "<p>El sanatları</p>",
+        "Text": "<p>İslam mimarisinde alçı ve mermer tozunun karıştırılmasıyla duvar yüzeylerine sıvanan harç aşağıdaki hangi isimle anılmaktadır?</p>",
+        "A": " <p>Tezhip</p> ",
+        "B": "<p>Stuko</p> ",
+        "C": "<p>Mozaik</p>",
+        "D": "<p>Sır</p> ",
+        "E": "<p>Fresk</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936587,
+        "UniteNo": 5,
+        "PageNumber": 148,
+        "AnswerExplanation": "<p><strong> Nesih ve sülüs yazı</strong> daha çok dinsel, ta’lik yazı edebi eserlerde kullanılmıştır</p>",
+        "Title": "<p>EL SANATLARI/Hat (Yazı) Sanatı</p>",
+        "Text": "<p>Daha çok dinsel,  edebi eserlerde kullanılan yazı çeşidi aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Nesih ve sülüs yazı.</p>",
+        "B": "<p>Reyhani yazı.</p>",
+        "C": "<p>Muhakkak yazı.</p>",
+        "D": "<p> tevki yazı.</p>",
+        "E": "<p> Rika yazı.</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936705,
+        "UniteNo": 5,
+        "PageNumber": 147,
+        "AnswerExplanation": "<p>Tıp alanında kullanılan, bir İslam seramik kap türü olan albarellolar, Endülüs<br />ve Kuzey Afrikalı tüccarlar aracılığıyla İtalya’ya tanıtılmış, daha sonra 15. yüzyılın ilk yarısından 18. yüzyılın sonlarında kadar bu kapların Güney İtalya’da yerel<br />üretimleri yapılmıştır</p>",
+        "Title": "",
+        "Text": "<p>İslam seramik kap türü olan albarellolar, Arap yarımadası dışında hangi ülkede üretilmiş ve kullanılmıştır?</p>",
+        "A": "<p>İspanya</p>",
+        "B": "<p>Porteliz</p>",
+        "C": "<p>Mısır</p>",
+        "D": "<p>Fransa</p>",
+        "E": "<p>İtalya</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936589,
+        "UniteNo": 5,
+        "PageNumber": 132,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Minber, üzerinde hutbe okunan, basamaklarla çıkılan litürjik ögedir.</p> </div> </div> </div>",
+        "Title": "<p>Lütfen \"Erken İslam Dönemi Sanatı\" başlıklı yazıyı gözden geçiriniz.</p>",
+        "Text": "<p>Üzerinde hutbe okunan, basamaklarla çıkılan litürjik ögenin adı aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Mihrap.</p>",
+        "B": "<p>Minare.</p>",
+        "C": "<p>Minber.</p>",
+        "D": "<p>Mescid.</p>",
+        "E": "<p>Kuba Mescidi.</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936601,
+        "UniteNo": 5,
+        "PageNumber": 134,
+        "AnswerExplanation": "<p>Ömer Camii diye bilinen Kubbetü’s Sakhra</p>",
+        "Title": "<p>Kitab-ı Mukaddes’te adı geçen Hacerü-l Muallak adıyla anılan kutsal kayayı içerisine alacak biçimde inşa edilmiştir. Merkezî planlı, ilk İslam yapısıdır. Sekizgen biçimli bir alana oturur. Sekiz cepheli yapının içerisinde birbirini çevreleyen iki galeri, merkezinde kutsal kaya yer almaktadır. Hacerü’l Muallak ile altındaki mağaranın hemen üzerinde yükselen çift cidarlı ahşap strüktürlü kubbe, dışarıdan kutsal kayayı belirtecek şekilde tasarlanmıştır. Kubbe kasnağının iç yüzü, kemerlerinin alın ve karınları altın zemin üzerine yeşil-sarı mozaikler ile süslenmiştir. Bitkisel bezemelerin aralarına yerleştirilmiş, çeşitli kıymetli taş ve incilerden yapılmış mücevher görüntülü süslemeleri Sasani etkilid</p>",
+        "Text": "<p>'Kitab-ı Mukaddes’te adı geçen kutsal kayayı içerisine alacak biçimde inşa edilmiştir. Merkezî planlı, ilk İslam yapısıdır. Sekizgen biçimli bir alana oturur. Sekiz cepheli yapının içerisinde birbirini çevreleyen iki galeri, merkezinde kutsal kaya yer almaktadır. Çift cidarlı ahşap strüktürlü kubbe, dışarıdan kutsal kayayı belirtecek şekilde tasarlanmıştır. Kubbe kasnağının iç yüzü, kemerlerinin alın ve karınları altın zemin üzerine yeşil-sarı mozaikler ile süslenmiştir. Bitkisel bezemelerin aralarına yerleştirilmiş, çeşitli kıymetli taş ve incilerden yapılmış mücevher görüntülü süslemeleri Sasani etkilidir.'</p> <p>Yukarıdaki paragrafta betimlenen yapı, aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Mescid-i Aksa</p>",
+        "B": "<p>Ömer Camii diye bilinen Kubbetü’s Sakhra</p>",
+        "C": "<p>Mescid-i Nebi (Mescid-i Nebevi)</p>",
+        "D": "<p>Fustat Amr Camii</p>",
+        "E": "<p>Şam Emeviye Camii</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936730,
+        "UniteNo": 5,
+        "PageNumber": 131,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İslam sanatı incelemelerinde 622 yılından halifeliğin Emevilere geçtiği 661 yı­lına kadar geçen süreç Erken Dönem, 7.­ ve 10. yüzyıllar arasındaki Emevi ve Abbasi Halifeliği’nin siyasal egemenliği altındaki süreç ise Klasik Dönem olarak adlandırıl­maktadır.</p> </div> </div> </div> </div>",
+        "Title": "<p>İSLAM SANATI</p>",
+        "Text": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İslam sanatında 622 yılından halifeliğin Emevilere geçtiği 661 yı­lına kadar geçen süreç hangi başlık altında incelenmektedir?</p> </div> </div> </div> </div>",
+        "A": "<p>Erken Dönem İslam Sanatı</p>",
+        "B": "<p>Klasik Dönem İslam Sanatı</p>",
+        "C": "<p>Romantik Dönem İslam Sanatı</p>",
+        "D": "<p>Orta Dönem İslam Sanatı  </p>",
+        "E": "<p>Çağdaş İslam Sanatı</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936529,
+        "UniteNo": 5,
+        "PageNumber": 133,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Dört Halife Dönemi'nde inşa edilmiş hiç bir yapı, orijinal plan ve özel­ likleri ile günümüze gelememiştir. Doğru yanıt B'dir.</p> </div> </div> </div>",
+        "Title": "",
+        "Text": "<p>İslamiyetin hangi sanat döneminde inşa edilmiş hiç bir yapı, orijinal plan ve özellikleri ile günümüze gelememiştir?</p>",
+        "A": "<p>Hz.Muhammed Dönemi Sanatı</p>",
+        "B": "<p>Dört Halife Dönemi Sanatı</p>",
+        "C": "<p>Suriye Emevi Dönemi Sanatı</p>",
+        "D": "<p>Endülüs Emevi Dönemi Sanatı</p>",
+        "E": "<p>Abbasi Dönemi Sanatı</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936591,
+        "UniteNo": 5,
+        "PageNumber": 134,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 5\"> <div class=\"layoutArea\"> <div class=\"column\"> <p style=\"text-align: justify;\">Abdülmelik tarafından Kudüs’teki kutsal alana yaptırılan Mescidü’l Aksa (702), İslam dünyasının en kutsal yapılarındandır.</p> </div> </div> </div>",
+        "Title": "<p>Lütfen \"Suriye Emevi Dönemi Sanatı\" başlıklı yazıyı gözden geçiriniz.</p>",
+        "Text": "<p>Halife Abdülmelik tarafından yaptırılan \"Mescidü'l Aksa\" aşağıdakilerden hangi şehirde yer almaktadır?</p>",
+        "A": "<p>Telaviv.</p>",
+        "B": "<p>Şam.</p>",
+        "C": "<p>Kudüs.</p>",
+        "D": "<p>Medine.</p>",
+        "E": "<p>Mekke. </p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936673,
+        "UniteNo": 5,
+        "PageNumber": 141,
+        "AnswerExplanation": "<p>3</p>",
+        "Title": "<p>Abbasi Dönemi, Samarra yapılarının iç mekânlarındaki zengin stuko bezemeler, üslup açısından <strong>üç gruba</strong> ayrılmaktadır.</p>",
+        "Text": "<p>Abbasi Dönemi, Samarra yapılarının iç mekânlarındaki zengin stuko bezemeler, üslup açısından <strong>kaç gruba ayrılır?</strong></p>",
+        "A": "<p>6</p>",
+        "B": "<p>5</p>",
+        "C": "<p>4</p>",
+        "D": "<p>3</p>",
+        "E": "<p>2</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936511,
+        "UniteNo": 5,
+        "PageNumber": 139,
+        "AnswerExplanation": "<p>9. yüzyılın ikinci yarısına kadar görülmeyen mezar anıtları, ilk kez 862’de, Halife Muntasır’ın annesinin ölen oğluna mezar yaptırmak istemesiyle bu tarihten sonra İslam Dünyası’na girmiştir. Samarra yakınında Kasr’el Aşık’m güneyindeki Kubbetü’s Süleybiye olarak adlandırılan bu mezar yapısının Muntasır’a ait olduğu sanılmaktadır. Kare planlı kubbe örtülü merkezî birimi Kubbetü’s Sakhra’da olduğu gibi sekizgen bir galeri ile çevrilidir. Mezar anıtı yapımı Türklerin İslam dünyasına girmeleriyle l0. yüzyıldan sonra artmıştır</p>",
+        "Title": "",
+        "Text": "<p>İslam Sanatında görülmeyen mezar anıtları ilk kez hangi dönem içerisinde ortaya çıkmıştır? </p>",
+        "A": "<p>Emeviler Dönemi</p>",
+        "B": "<p>Dört Halife Dönemi</p>",
+        "C": "<p>Abbasi Dönemi</p>",
+        "D": "<p>Selçuklular Dönemi</p>",
+        "E": "<p>İlhanlılar Dönemi</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936541,
+        "UniteNo": 5,
+        "PageNumber": 133,
+        "AnswerExplanation": "<p>Emeviler dönemi</p>",
+        "Title": "<p>Mimari ve diğer sanatlarda kuralların oluşturulması, ana formların ortaya çıkması, Emevi Dönemi ile başlar.</p>",
+        "Text": "<p>Dinî mimarinin ilk kalıcı plan şeması hangi dönemde ortaya çıkmıştır.</p>",
+        "A": "<p>Osmanlılar Dönemi</p>",
+        "B": "<p>Endülüs dönemi</p>",
+        "C": "<p>Emeviler dönemi</p>",
+        "D": "<p>Selçuklular dönemi</p>",
+        "E": "<p>Karahanlılar dönemi</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936585,
+        "UniteNo": 5,
+        "PageNumber": 143,
+        "AnswerExplanation": "<p>Eyyubiler <strong>tıp eğitimine</strong> büyük önem vererek Şam, Halep ve Kahire’de tıp medreseleri ve hastahaneler kurdular ve büyük kütüphaneler oluşturdular.</p>",
+        "Title": "<p>İslam Sanatı/Eyyubi Sanatı.</p>",
+        "Text": "<p>Eyyubilerin inşa ettiği yapılar hangi alana  önem verdiklerini göstermektedir?</p>",
+        "A": "<p>Tıp eğitimine.</p>",
+        "B": "<p>Resim sanatı eğitimine.</p>",
+        "C": "<p>Savaş eğitimine.</p>",
+        "D": "<p>Mimarlık eğitimine.</p>",
+        "E": "<p>Din eğitimine.</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936617,
+        "UniteNo": 5,
+        "PageNumber": 148,
+        "AnswerExplanation": "<p>Yanıt C'dir. </p>",
+        "Title": "<p>Kûfî yazı çeşiti Aklam-ı Sitte sınıflandırmasına dahil değildir. </p>",
+        "Text": "<p>Abbasi halifesi Mu’tasım tarafından himaye edilen Yakutu Müstasemi, 8. yüzyılda önceden bilinen tüm yazı çeşitlerini toplayarak sınıflandırmış ve Aklam-ı Sitte adı verilen 6 çeşit yazı oluşturmuştur. Hangisi bu sınıflandırmaya ait değildir?</p>",
+        "A": "<p>Nesih</p>",
+        "B": "<p>Rik'a</p>",
+        "C": "<p>Kûfi</p>",
+        "D": "<p>Sülüs</p>",
+        "E": "<p>Reyhâni</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936633,
+        "UniteNo": 5,
+        "PageNumber": 138,
+        "AnswerExplanation": "<p>Doğru yanıt E</p>",
+        "Title": "<p>Mimari ve diğer sanatlarda kuralların oluşturulması, ana formların ortaya çıkması, Emevi Dönemi ile başlar. Dinî mimarinin ilk kalıcı plan şeması bu dönemde ortaya çıkmıştır. Daha önce, yalnız günlük hayatın sürdürülmesine ve dinî görevlerin yerine getirilmesine uygun, tabiat şartlarına karşı oldukça dayanıksız, son derece sade binalar inşa edilirken, bu dönemde ihtişamlı görünmelerine önem verilen, dinî ve sivil binaların yapılması ile yeni bir sanat anlayışı ortaya çıkmıştır.</p>",
+        "Text": "<p>Endülüs Emevilerinin günümüze de ulaşan en önemli eseri hangisidir?</p>",
+        "A": "<p>Rusafa Sarayı</p>",
+        "B": "<p>Kasr Mışat</p>",
+        "C": "<p>Kasrü’t Tuba</p>",
+        "D": "<p>Babü Merdüm Camii</p>",
+        "E": "<p>Kurtuba Camii</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936612,
+        "UniteNo": 5,
+        "PageNumber": 139,
+        "AnswerExplanation": "<p>Yanıt B'dir. </p>",
+        "Title": "<p>Mezar Anıtları Abbasi döneminde Halife Muntasır zamanında yapılmaya başlanmıştır. </p>",
+        "Text": "<p>Mimari bir yapı olan \"mezar anıtları\" hangi dönemde islam dünyasına girmiştir?</p>",
+        "A": "<p>Emevi</p>",
+        "B": "<p>Abbasî</p>",
+        "C": "<p>Endülüs Emevi</p>",
+        "D": "<p>Sasani</p>",
+        "E": "<p>İlhanlı</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936652,
+        "UniteNo": 5,
+        "PageNumber": 133,
+        "AnswerExplanation": "<p><strong>Emevi dönemi sanatı </strong>Kureyş kabilesine bağlı Beni Ümeyye ailesinden Emevi hanedanı, 661­750 yılları arasında başkent Şam olmak üzere Suriye, Filistin, Irak, İran, Mısır, Hindistan ve Orta Asya’ya kadar yayılan geniş bir alana hakim olmuştur. İlk evrede, Kudüs, Şam, Medine, Kûfe, Vasit gibi şehirlerde birçok dinsel yapı, şehirlerden uzak kırsal alanlarda saray ve kasırlar inşa edilmiştir. Tunus bu ülkeler arasında değildir.</p>",
+        "Title": "<p><strong>Emevi dönemi sanatı </strong>Kureyş kabilesine bağlı Beni Ümeyye ailesinden Emevi hanedanı, 661­750 yılları arasında başkent Şam olmak üzere Suriye, Filistin, Irak, İran, Mısır, Hindistan ve Orta Asya’ya kadar yayılan geniş bir alana hakim olmuştur. İlk evrede, Kudüs, Şam, Medine, Kûfe, Vasit gibi şehirlerde birçok dinsel yapı, şehirlerden uzak kırsal alanlarda saray ve kasırlar inşa edilmiştir.</p>",
+        "Text": "<p>Emevi islam sanatı etkisi çok geniş bir bölgede görüldüğü halde aşağıdaki hangi ülkelerde görülmemiştir?</p>",
+        "A": "<p>Suriye</p>",
+        "B": "<p>Filistin</p>",
+        "C": "<p>Mısır</p>",
+        "D": "<p>Hindistan</p>",
+        "E": "<p>Tunus</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936497,
+        "UniteNo": 5,
+        "PageNumber": 140,
+        "AnswerExplanation": "<p>İslam şehirciliği konusundaki bilinen ilk örnek, 762-765 yılları arasında, Abbasi halifesi Mansur’un kurdurduğu Bağdat Şehri’dir. Şehri daire planlı iç içe iki sur ve bu surların dışında bir hendek çevrelemekteydi.</p> <p>Şam ve Kudüs, İslamiyet öncesi dönemlerde kurulmuş olan şehirlerdendir. Fustat ve Kayravan ise İslam askerleri için oluşturulan ordugâhlardan gelişen şehirlerdendir.</p>",
+        "Title": "<p>SANAT TARİHİ, 5. Ünite, İslam Sanatı, ABBASİ DÖNEMİ SANATI (750-1258) </p>",
+        "Text": "<p>Aşağıdakilerden hangisi, İslam Şehirciliği konusundaki bilinen <strong><u>ilk</u></strong> örnektir?</p>",
+        "A": "<p>Bağdat</p>",
+        "B": "<p>Şam</p>",
+        "C": "<p>Kudüs</p>",
+        "D": "<p>Fustat</p>",
+        "E": "<p>Kayravan</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936592,
+        "UniteNo": 5,
+        "PageNumber": 149,
+        "AnswerExplanation": "<p>Kitâbü Suveri’l-Kevâkibi’s-Sâbite.</p>",
+        "Title": "<p>EL SANATLARI/ Minyatür Sanatı</p>",
+        "Text": "<p>Aşağıdakilerden hangisi 13. Yüzyılın başından sonra yazılmış resimli yazma eserlerden birisi değildir?</p>",
+        "A": "<p>Firdevsi’nin Şahnâmesi.</p>",
+        "B": "<p>Kitâbü Suveri’l-Kevâkibi’s-Sâbite.</p>",
+        "C": "<p>Nizami’nin Hamse’si.</p>",
+        "D": "<p>Beydeba’nın Kelile ve Dimne’si.</p>",
+        "E": "<p>Harîrî’nin Mâkâmât.</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2936576,
+        "UniteNo": 5,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Emevi ve Abbasi Dönemi sanatını tanımlayabileceksiniz.",
+        "Text": "Günümüze kadar Maksure kubbesi haricinde, orijinal planı değişmeden gelebilen en erken tarihli cami aşağıdakilerden hangisidir?",
+        "A": "Şam Emeviye Camii",
+        "B": "Samarra Camii",
+        "C": "Bağdat Ulu Camii",
+        "D": "Fustat Ulu Camii",
+        "E": "Ukbaydır Camii",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
     }
 ]

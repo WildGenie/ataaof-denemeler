@@ -12,8 +12,7 @@
         "D": "<p>Theodor Adorno</p>",
         "E": "<p>Max Horkheimer</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603412,
@@ -28,8 +27,7 @@
         "D": "<p>Horkheimer, Lowenthal ve Adorno</p>",
         "E": "<p>Horkheimer ve Lowenthal</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603413,
@@ -44,8 +42,7 @@
         "D": "<p>Horheimer</p>",
         "E": "<p>Adorno</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603418,
@@ -60,8 +57,7 @@
         "D": "<p>Ekonomik</p>",
         "E": "<p>Manevi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603423,
@@ -76,8 +72,7 @@
         "D": "<p>Karl Max</p>",
         "E": "<p>Max Horkheimer</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603600,
@@ -92,8 +87,7 @@
         "D": "<p>Max Weber</p>",
         "E": "<p>Theodor Adorno</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603605,
@@ -108,8 +102,7 @@
         "D": "<p>Max Weber</p>",
         "E": "<p>Theodor Adorno</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603606,
@@ -124,8 +117,7 @@
         "D": "<p>Max Horkheimer</p>",
         "E": "<p>Herbert Marcuse</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603608,
@@ -140,8 +132,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603610,
@@ -156,8 +147,7 @@
         "D": "Max Weber ve Karl Marx",
         "E": "<p>Herbert Marcuse</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603611,
@@ -172,8 +162,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603612,
@@ -188,8 +177,7 @@
         "D": "<p>Theodor Adorno</p>",
         "E": "<p>Max Horkheimer</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603615,
@@ -204,8 +192,7 @@
         "D": "<p>Theodor Adorno</p>",
         "E": "<p> Max Horkheimer</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842610,
@@ -220,8 +207,7 @@
         "D": "Ekonomi ve Siyasal Etki",
         "E": "Ekonomi ve Medya Etkisi",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842615,
@@ -236,8 +222,7 @@
         "D": "Kültür",
         "E": "Meta",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842619,
@@ -252,8 +237,7 @@
         "D": "Baskın söylem slogan",
         "E": "Meta Fetişizmi",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842621,
@@ -268,8 +252,7 @@
         "D": "Alt ve Üst yapı ilişkileri",
         "E": "Toplum Aydınları",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842623,
@@ -284,8 +267,7 @@
         "D": "Sivil Toplum",
         "E": "Medya",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842628,
@@ -300,8 +282,7 @@
         "D": "Louıs Pıerre Althusser",
         "E": "Theodor W. Adorno",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842630,
@@ -316,8 +297,7 @@
         "D": "Hükümet",
         "E": "İdare",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603414,
@@ -332,8 +312,7 @@
         "D": "<p>Gelişim Endüstrisi</p>",
         "E": "<p>Göç Endüstrisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603416,
@@ -348,8 +327,7 @@
         "D": "<p>İhmal</p>",
         "E": "<p>Uyarı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603417,
@@ -364,8 +342,7 @@
         "D": "<p>Uyarı</p>",
         "E": "<p>Üstünlük</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603420,
@@ -380,8 +357,7 @@
         "D": "<p>Althusser’in kuramında İdeoloji toplumsal yaşamın tamamını etkileyen gizil bir yönlendirmedir</p>",
         "E": "<p>Althusser ideolojiyi gerçeğin tersyüz edilmesi veya bir dayatma olarak görmektedir</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603602,
@@ -396,8 +372,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603618,
@@ -412,8 +387,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I , II ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842608,
@@ -428,8 +402,7 @@
         "D": "Ekonomi",
         "E": "Entelektüel kitle",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842617,
@@ -444,8 +417,7 @@
         "D": "Afişler",
         "E": "Tiyatro",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3603415,
@@ -460,8 +432,7 @@
         "D": "<p>Herbert Marcuse</p>",
         "E": "<p>Walter Benjamin</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842613,
@@ -476,7 +447,6 @@
         "D": "Materyalizm",
         "E": "Propaganda",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     }
 ]

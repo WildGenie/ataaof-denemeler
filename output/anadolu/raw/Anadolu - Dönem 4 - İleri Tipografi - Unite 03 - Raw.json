@@ -12,8 +12,7 @@
         "D": "<p>Alice Twemlow</p>",
         "E": "<p>Albert Einstein</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487919,
@@ -28,8 +27,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>II ve IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487922,
@@ -44,8 +42,7 @@
         "D": "<p>Otto Preminger</p>",
         "E": "<p>Stanley Kubrick</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487926,
@@ -60,8 +57,7 @@
         "D": "<p>Dolly</p>",
         "E": "<p>Pan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487927,
@@ -76,8 +72,7 @@
         "D": "<p>Optik kaydırma</p>",
         "E": "<p>Doğrusal hareket</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487940,
@@ -92,8 +87,7 @@
         "D": "<div class=\"page\" title=\"Page 71\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Harfin, sözcüğün ya da cümlenin, yapısının değişerek kazandığı hareketlenmedir.</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 70\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Hareketi de dâhil eden daha kuvvetli bir iletişim biçimidir.</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487941,
@@ -108,8 +102,7 @@
         "D": "<div class=\"page\" title=\"Page 73\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Görüntüyü kaydetmeye yönelik bir icattır.</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 72\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Aynadan bakıldığında hareket yanılsaması yaratan dönen bir karton diskten oluşan oyuncaktır.</p> </div> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487944,
@@ -124,8 +117,7 @@
         "D": "<p>1980</p>",
         "E": "<p>1890</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487946,
@@ -140,8 +132,7 @@
         "D": "<p>30 cm</p>",
         "E": "<p>Hiçbiri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487947,
@@ -156,8 +147,7 @@
         "D": "<p>84</p>",
         "E": "<p>96</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487969,
@@ -172,8 +162,7 @@
         "D": "<p>Tasarı süreci</p>",
         "E": "<p>Grafik tasarım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487970,
@@ -188,8 +177,7 @@
         "D": "<p>Hareketli tipografik çalışmalarda harfler her zaman büyük olmalıdır</p>",
         "E": "<p>Hareketli tipografik çalışmalarda harfler her zaman küçük olmalıdır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487973,
@@ -204,8 +192,7 @@
         "D": "<p>Kaligrafi örneği</p>",
         "E": "<p>Değişen Kaligrafi örneği</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487976,
@@ -220,8 +207,7 @@
         "D": "<p>Tipografi</p>",
         "E": "<p>Kaligrafi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488039,
@@ -236,8 +222,7 @@
         "D": "<p>İzleyicinin duygularını harekete geçirmektedir. </p>",
         "E": "<p>İzleyicinin dikkatini çeken bir metin yaratmaktadır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488040,
@@ -252,8 +237,7 @@
         "D": "<p>Düzlemsel</p>",
         "E": "<p>Spiral</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488042,
@@ -268,8 +252,7 @@
         "D": "<p>Sağ alt köşe</p>",
         "E": "<p>Sol alt köşe</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488043,
@@ -284,8 +267,7 @@
         "D": "<p> Emily Austin ve Georgia</p>",
         "E": "<p>Verdana ve Georgia</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488045,
@@ -300,8 +282,7 @@
         "D": "<p>Sondan bir önceki sırada</p>",
         "E": "<p>Son sırada</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488046,
@@ -316,8 +297,7 @@
         "D": "<p>Optik kaydırma ve üçte bir kuralı</p>",
         "E": "<p>Devamlılık ve altın oran</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487920,
@@ -332,8 +312,7 @@
         "D": "<p>Dairesel</p>",
         "E": "<p>Çizgisel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487924,
@@ -348,8 +327,7 @@
         "D": "<p>Esnekliği</p>",
         "E": "<p>Ağırlığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487938,
@@ -364,8 +342,7 @@
         "D": "<p>Çivi yazısı</p>",
         "E": "<p>Alfabe</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487939,
@@ -380,8 +357,7 @@
         "D": "<div class=\"page\" title=\"Page 71\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Devinen Tipografi</p> </div> </div> </div> </div>",
         "E": "<p>Tipografik Rezonans</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487942,
@@ -396,8 +372,7 @@
         "D": "<p>Georges Méliès</p>",
         "E": "<div class=\"page\" title=\"Page 73\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <div class=\"page\" title=\"Page 73\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Niepce ve Jacque Daguerre</p> </div> </div> </div> </div> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487943,
@@ -412,8 +387,7 @@
         "D": "<div class=\"page\" title=\"Page 74\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Gizli Teşkilat</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 74\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sapık</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487945,
@@ -428,8 +402,7 @@
         "D": "<div class=\"page\" title=\"Page 75\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Se7en</p> </div> </div> </div> </div>",
         "E": "<p>Chucky</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487971,
@@ -444,8 +417,7 @@
         "D": "<p>Düz Tipografi</p>",
         "E": "<p>Yalın Tipografi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487972,
@@ -460,8 +432,7 @@
         "D": "<p>Dönüşen Tipografi</p>",
         "E": "<p>Poster</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487977,
@@ -476,8 +447,7 @@
         "D": "<p>Hareket hızı, yönü, ekran yüzeyinin düzenlenmesi</p>",
         "E": "<p>Kaligrafi, tipografi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487978,
@@ -492,8 +462,7 @@
         "D": "<p>Anlatımda altın oran kullanma</p>",
         "E": "<p>Anlatımda kameranın üçte bir kuralını uygulama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488044,
@@ -508,8 +477,7 @@
         "D": "<p>Boyut</p>",
         "E": "<p>Yükseklik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488047,
@@ -524,8 +492,7 @@
         "D": "<p>Genel temada ilgisiz görünen olaylarla yeni bir fikir oluşturulmaktadır.</p>",
         "E": "<p>Sahnelerin diziliminde belirli bir tempoya uygun olarak kurgulanmaktadır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487921,
@@ -540,8 +507,7 @@
         "D": "<p>Televizyonda</p>",
         "E": "<p>Fotoğrafta</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487923,
@@ -556,8 +522,7 @@
         "D": "<p>VOD</p>",
         "E": "<p>Analog televizyon</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487925,
@@ -572,8 +537,7 @@
         "D": "<p>Boşluk</p>",
         "E": "<p>Derinlik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487975,
@@ -588,8 +552,7 @@
         "D": "<p>Basılı menüler</p>",
         "E": "<p>Sinema</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488048,
@@ -604,8 +567,7 @@
         "D": "<p>Yavaşlama ve hızlanma</p>",
         "E": "<p>Ters hareket</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488041,
@@ -620,8 +582,7 @@
         "D": "<p>Görüntü ve tipografinin ardışık kullanılması</p>",
         "E": "<p>Görüntü ve tipografinin bağımsız kullanılması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3487974,
@@ -636,7 +597,6 @@
         "D": "<p>1955-Ingmar Bergman</p>",
         "E": "<p>1993-Federico Fellini</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     }
 ]

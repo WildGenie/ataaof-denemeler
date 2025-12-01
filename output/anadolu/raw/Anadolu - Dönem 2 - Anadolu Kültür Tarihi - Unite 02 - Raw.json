@@ -12,8 +12,7 @@
         "D": "<p>Riton</p>",
         "E": "<p>Stel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852359,
@@ -28,8 +27,7 @@
         "D": "<p>Kral Sargon</p>",
         "E": "<p>Kral I. Hattuşili</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852361,
@@ -44,8 +42,7 @@
         "D": "<p>Esirlere kötü muamele edilmeyeceğine</p>",
         "E": "<p>Kadeş Savaşı ganimetlerinin bölüşüleceğine</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852530,
@@ -60,8 +57,7 @@
         "D": "<p>Aslan</p>",
         "E": "<p>Fil</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852631,
@@ -76,8 +72,7 @@
         "D": "<p>II, III, IV</p>",
         "E": "<p>I, II, III, IV, V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853844,
@@ -92,8 +87,7 @@
         "D": "<p>Talent</p>",
         "E": "<p>Targumannum</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853849,
@@ -108,8 +102,7 @@
         "D": "<p>Murşili</p>",
         "E": "<p>Hattuşili</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853852,
@@ -124,8 +117,7 @@
         "D": "<p>Telipinu</p>",
         "E": "<p>Şuppiluliuma</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853854,
@@ -140,8 +132,7 @@
         "D": "<p>Han-Hanım</p>",
         "E": "<p>T/Labarna-Tavananna</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853857,
@@ -156,8 +147,7 @@
         "D": "<p>Geç Tunç Çağı</p>",
         "E": "<p>Demir Çağı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858230,
@@ -172,8 +162,7 @@
         "D": "<p>Kraliyetin kullandığı bir iletişim aracıdır.</p>",
         "E": "<p>Kralın kim olduğu anlaşılamaz</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858242,
@@ -188,8 +177,7 @@
         "D": "<p>Wahşuşana</p>",
         "E": "<p>Şalatuwara</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858250,
@@ -204,8 +192,7 @@
         "D": "<p>Şekel</p>",
         "E": "<p>Tunç</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858264,
@@ -220,8 +207,7 @@
         "D": "<p>Asur</p>",
         "E": "<p>Alalah (Antakya)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858445,
@@ -236,8 +222,7 @@
         "D": "<p>İştar</p> ",
         "E": "<p>Hammurabi</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858462,
@@ -252,8 +237,7 @@
         "D": "<p>Targumannum</p> ",
         "E": "<p>Riton</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858483,
@@ -268,8 +252,7 @@
         "D": "<p>Boğazköy</p> ",
         "E": "<p>Pir Hüseyin</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858485,
@@ -284,8 +267,7 @@
         "D": "<p>Arslantepe</p>",
         "E": "<p>Alacahöyük</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859924,
@@ -300,8 +282,7 @@
         "D": "<p>Tanrıça İştar</p>",
         "E": "<p>Zaman Tanrısı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2860078,
@@ -316,8 +297,7 @@
         "D": "<p>Arami yazısı</p> ",
         "E": "<p>Koptik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852351,
@@ -332,8 +312,7 @@
         "D": "<p>Şar tamhari</p>",
         "E": "<p>Vassal</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852360,
@@ -348,8 +327,7 @@
         "D": "<p>Kral Telipinu</p>",
         "E": "<p>Kral Şuppiluliuma </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853847,
@@ -364,8 +342,7 @@
         "D": "<p>Frig Devleti</p>",
         "E": "<p>İyon Devleti</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853850,
@@ -380,8 +357,7 @@
         "D": "<p>Anadolu’daki ekonomik politikalar ve ticaret yolları</p>",
         "E": "<p>Asur Koloni Dönemi’ne ait yazılı ve yazısız eserlerin tanıtımı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853855,
@@ -396,8 +372,7 @@
         "D": "<p>Tanrılar</p>",
         "E": "<p>Kadınlar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858256,
@@ -412,8 +387,7 @@
         "D": "<p>Kibele</p>",
         "E": "<p>Aşşur</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858451,
@@ -428,8 +402,7 @@
         "D": "<p>Bulla</p> ",
         "E": "<p>Riton</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858468,
@@ -444,8 +417,7 @@
         "D": "<p>Pankuş</p> ",
         "E": "<p>Wabartum</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859900,
@@ -460,8 +432,7 @@
         "D": "<p>Vedat Ali Özkan</p>",
         "E": "<p>İhsan Sabri Çağlayangil</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859920,
@@ -476,8 +447,7 @@
         "D": "<p>Tavananna</p>",
         "E": "<p>Murşili</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852348,
@@ -492,8 +462,7 @@
         "D": "<p>Mitanni</p>",
         "E": "<p>Hitit</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852516,
@@ -508,8 +477,7 @@
         "D": "<p>Yeraltı Tanrısı</p>",
         "E": "<p>Ay Tanrısı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2852531,
@@ -524,8 +492,7 @@
         "D": "<p>IV. Amenofis</p>",
         "E": "<p>III. Hattuşili</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858457,
@@ -540,8 +507,7 @@
         "D": "<p>Ortostat</p> ",
         "E": "<p>Şar tamhari</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858464,
@@ -556,8 +522,7 @@
         "D": "<p>Kibele</p> ",
         "E": "<p>Aşşur</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858472,
@@ -572,8 +537,7 @@
         "D": "<p>Hammurabi</p>",
         "E": "<p>Aşmunikal</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853842,
@@ -588,8 +552,7 @@
         "D": "<p>Geç Tunç Çağı</p>",
         "E": "<p>Demir Çağı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2853848,
@@ -604,8 +567,7 @@
         "D": "<p>Çanakkale Troya</p>",
         "E": "<p>Kayseri Kültepe</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2858479,
@@ -620,8 +582,7 @@
         "D": "<p>Hurri</p> ",
         "E": "<p>Arzawa</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2859964,
@@ -636,7 +597,6 @@
         "D": "<p>II. Murşili</p> ",
         "E": "<p>Şarri-kuşuh</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

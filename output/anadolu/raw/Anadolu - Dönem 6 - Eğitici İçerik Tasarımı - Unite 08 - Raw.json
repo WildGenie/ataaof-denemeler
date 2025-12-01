@@ -12,8 +12,7 @@
         "D": "<p>1964</p>",
         "E": "<p>1979</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763838,
@@ -28,8 +27,7 @@
         "D": "<p>Afganistan</p>",
         "E": "<p>Türkiye</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763839,
@@ -44,8 +42,7 @@
         "D": "<p>D sınıfı, az hava trafik yoğunluğunun olduğu hava sahası sınıfıdır.</p>",
         "E": "<p>E sınıfı, Hava Trafik Kontrol “Air Traffic Control” (ATC) izni gerekmeyen sınıftır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763842,
@@ -60,8 +57,7 @@
         "D": "<p>TACAN</p>",
         "E": "<p>EGPWS</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763843,
@@ -76,8 +72,7 @@
         "D": "<p>İsrail</p>",
         "E": "<p>Türkiye</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763846,
@@ -92,8 +87,7 @@
         "D": "<p>Gümrü Savaşı</p>",
         "E": "<p>Şuşa Savaşı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763847,
@@ -108,8 +102,7 @@
         "D": "<p>Turna</p>",
         "E": "<p>Anka</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763848,
@@ -124,8 +117,7 @@
         "D": "<p>Bayraktar DİHA</p>",
         "E": "<p>Bayraktar Mini İHA</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763849,
@@ -140,8 +132,7 @@
         "D": "<p>Kargu</p>",
         "E": "<p>Alpagu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763850,
@@ -156,8 +147,7 @@
         "D": "<p>Cengaver</p>",
         "E": "<p>Çağatay</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763973,
@@ -172,8 +162,7 @@
         "D": "<p>Ölçülen özelliğe değer verme gereksinimi bulunması</p>",
         "E": "<p>Ölçülen özelliklerin nicel ve nitel olarak ayırılması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763974,
@@ -188,8 +177,7 @@
         "D": "<p>Öğrencilerin başarı ortalamalarının 61 olduğunu hesaplaması</p>",
         "E": "<p>Öğrencilerin başarı düzeylerinin \"orta\" olduğuna karar vermesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763975,
@@ -204,8 +192,7 @@
         "D": "<p>II, IV ve V</p>",
         "E": "<p>III, IV ve V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763976,
@@ -220,8 +207,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>III, IV ve V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763977,
@@ -236,8 +222,7 @@
         "D": "<p>II, IV ve V</p>",
         "E": "<p>III, IV ve V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763979,
@@ -252,8 +237,7 @@
         "D": "<p>II, III ve V</p>",
         "E": "<p>III, IV ve V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763982,
@@ -268,8 +252,7 @@
         "D": "<p>65</p>",
         "E": "<p>85</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763983,
@@ -284,8 +267,7 @@
         "D": "<p>Tip 1 hata</p>",
         "E": "<p>Tip 2 hata</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763989,
@@ -300,8 +282,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>III, IV ve V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763990,
@@ -316,7 +297,6 @@
         "D": "<p>Portfolyo</p>",
         "E": "<p>Kelime İlişkilendirme Testleri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

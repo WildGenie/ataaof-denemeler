@@ -12,8 +12,7 @@
         "D": "<p>S.M. Eisenstein</p> ",
         "E": "<p>Walt Disney</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3591447,
@@ -28,8 +27,7 @@
         "D": "<p>Digital compositing</p> ",
         "E": "<p>Matchmove</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3591450,
@@ -44,8 +42,7 @@
         "D": "<p>Devamlılığı desteklemek</p> ",
         "E": "<p>Yaratıcılığı desteklemek.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3591453,
@@ -60,8 +57,7 @@
         "D": "<p>Animation</p> ",
         "E": "<p>Set Extension</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3591460,
@@ -76,8 +72,7 @@
         "D": "<p>CGI kamera </p>",
         "E": "<p>Alan derinliği</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3591462,
@@ -92,8 +87,7 @@
         "D": "<p>CGI</p> ",
         "E": "<p>Chroma Key</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3591465,
@@ -108,8 +102,7 @@
         "D": "<p>Matte</p> ",
         "E": "<p>Spill</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3591468,
@@ -124,8 +117,7 @@
         "D": "<p>Warp</p>",
         "E": "<p>Null Object</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3591469,
@@ -140,8 +132,7 @@
         "D": "<p>Renk doğrulama</p> ",
         "E": "<p>Mat oluşturma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3591471,
@@ -156,8 +147,7 @@
         "D": "<p>Plane</p> ",
         "E": " <p>Cinema 4D</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598521,
@@ -172,8 +162,7 @@
         "D": "<p>Dijital kurgu</p>",
         "E": "<p>Kurgu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598524,
@@ -188,8 +177,7 @@
         "D": "<p>Canlı aksiyon çekimi</p>",
         "E": "<p>Dijital takip</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598531,
@@ -204,8 +192,7 @@
         "D": "<p>Yaratıcılığı desteklemek</p>",
         "E": "<p>Maliyetleri düşürmek</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598537,
@@ -220,8 +207,7 @@
         "D": "<p>Yeşil ekran </p>",
         "E": "<p>Beyaz ekran</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598542,
@@ -236,8 +222,7 @@
         "D": "<p>1,8 metre</p>",
         "E": "<p>1,9 metre</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598545,
@@ -252,8 +237,7 @@
         "D": "<p>Hareket analizi yapılacak olan unsurun çekilen görüntünün içindeki sürekli sabit kalan bir unsur olması</p>",
         "E": "<p>Hareket analizi yapılacak olan unsurun çekilen görüntünün içindeki olmayan bir unsur olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598553,
@@ -268,8 +252,7 @@
         "D": "<p>Aynı oyuncunun birçok kopyasını aynı karede oluşturmak</p>",
         "E": "<p>Bir insanın yaşlanma sürecini oluşturmak</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598563,
@@ -284,8 +267,7 @@
         "D": "<p>Görüntü takibi</p>",
         "E": "<p>Kalabalık kopyalama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598573,
@@ -300,8 +282,7 @@
         "D": "<p>Manzaranın geçmişte var olduğu sahnelerde kullanılır</p>",
         "E": "<p>Gerçekte var olmayan canlıları oluşturmak için kullanılır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598581,
@@ -316,7 +297,6 @@
         "D": "<p>Işığın türünün belirlenmesi</p>",
         "E": "<p>Işığın şeklinin belirlenmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

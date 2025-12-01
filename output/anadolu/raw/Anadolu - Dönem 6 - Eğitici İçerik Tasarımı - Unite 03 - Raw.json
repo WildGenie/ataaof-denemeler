@@ -12,8 +12,7 @@
         "D": "<p><br />Eğitim kalitesini artırmaya yönelik uygulamaları şekillendirmede yardımcı olur.<br /><br /></p>",
         "E": "<p>Eğitim alanındaki araştırmaları yönlendirir.<br /><br /></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763811,
@@ -28,8 +27,7 @@
         "D": "<p>UCR</p>",
         "E": "<p>USC</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763812,
@@ -44,8 +42,7 @@
         "D": "<p>Sönme</p>",
         "E": "<p>Genelleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763813,
@@ -60,8 +57,7 @@
         "D": "<p>Genelleme</p>",
         "E": "<p>Ayırt etme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763814,
@@ -76,8 +72,7 @@
         "D": "<p>Ayırt etme</p>",
         "E": "<p>Pekiştirme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763815,
@@ -92,8 +87,7 @@
         "D": "<p>Öğrenme ve reklamcılık alanlarında çalışarak psikoloji alanına önemli katkılarda bulunmuştur.</p>",
         "E": "<p>Pavlov’un koşullu refleksle ilgili görüşlerini kabul etmemiştir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763816,
@@ -108,8 +102,7 @@
         "D": "<p>Gözlem sırasında modelin davranışları zihinsel olarak kodlanır.</p>",
         "E": "<p>İnsanlar diğer insanları gözlemleyerek öğrenebilirler.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763817,
@@ -124,8 +117,7 @@
         "D": "<p>Şekil-Zemin İlişkisi Yasası</p>",
         "E": "<p>Basitlik Yasası</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763818,
@@ -140,8 +132,7 @@
         "D": "<p>Devamlılık</p>",
         "E": "<p>Benzerlik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763819,
@@ -156,8 +147,7 @@
         "D": "<p>Davranışçı öğrenme kuramı</p>",
         "E": "<p>Nörofizyolojik kuram</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763978,
@@ -172,8 +162,7 @@
         "D": "<p>Bağlaşımcılık</p>",
         "E": "<p>Yapılandırmacılık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763980,
@@ -188,8 +177,7 @@
         "D": "<p>Sesle eşleştirilmeden önce verilen yiyecek ya da ekşi tat</p>",
         "E": "<p>Yiyecekle ilişkilendirilmiş ses ya da ışık</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763981,
@@ -204,8 +192,7 @@
         "D": "<p>Sönme</p>",
         "E": "<p>Ayırt etme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763984,
@@ -220,8 +207,7 @@
         "D": "<p>Bir uyarıcıya verilen tepki, o uyarıcıya karşı en son deneyimlenen ve en sık tekrarlanan tepki tarafından belirlenir.</p>",
         "E": "<p>Çocuklar doğuştan gelen içgüdülerle donatılmıştır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763985,
@@ -236,8 +222,7 @@
         "D": "<p>Değişken Zaman Aralıklı Pekiştirme</p>",
         "E": "<p>Değişken Oranlı Pekiştirme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763986,
@@ -252,8 +237,7 @@
         "D": "<p>İnsanlar, çevreleri ve kendi davranışları üzerinde kontrol sahibi olabilirler</p>",
         "E": "<p>Bilişsel süreçler, öğrenme sürecinde önemli bir rol oynar.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763987,
@@ -268,8 +252,7 @@
         "D": "<p>Öğrenme deneyimi görsel, işitsel ve dokunsal öğeler kullanılarak zenginleştirilerek öğrenme daha etkili hale getirilir.</p>",
         "E": "<p>Katılımcılara konuyla ilgili rol modeller sunarak veya birebir yaşanmış örnekleri onlarla paylaşarak bilgiyi daha iyi anlamaları ve öğrenmeleri sağlanır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763988,
@@ -284,8 +267,7 @@
         "D": "<p>Yapılandırmacı Kuram</p>",
         "E": "<p>Nörofizyolojik Kuram</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764001,
@@ -300,8 +282,7 @@
         "D": "<p>Bilgi, ihtiyaç duyulduğunda nasıl geri çağrılır ve hatırlanır?</p>",
         "E": "<p>Öğrenme sürecinde pekiştireçler nasıl kullanılır?</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764002,
@@ -316,7 +297,6 @@
         "D": "<p>Sosyal Bilişsel Kuram</p>",
         "E": "<p>Yapılandırmacı Kuram</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

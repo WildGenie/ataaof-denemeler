@@ -12,8 +12,7 @@
         "D": "<p>tasarım</p>",
         "E": "<p>teknik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763678,
@@ -28,8 +27,7 @@
         "D": "<p>içerik</p>",
         "E": "<p>teknik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763679,
@@ -44,8 +42,7 @@
         "D": "<p>teknik</p>",
         "E": "<p>bilgi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763680,
@@ -60,8 +57,7 @@
         "D": "<p>güvenilir olması</p>",
         "E": "<p>geçerli olması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763681,
@@ -76,8 +72,7 @@
         "D": "<p>eski moda</p>",
         "E": "<p>geçersiz</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763682,
@@ -92,8 +87,7 @@
         "D": "<p>normatif ihtiyaç</p>",
         "E": "<p>gelecekteki ihtiyaç</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763683,
@@ -108,8 +102,7 @@
         "D": "<p>normatif ihtiyaç</p>",
         "E": "<p>açıklanan ihtiyaç</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763684,
@@ -124,8 +117,7 @@
         "D": "<p>normatif ihtiyaç</p>",
         "E": "<p>açıklanan ihtiyaç</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763685,
@@ -140,8 +132,7 @@
         "D": "<p>normatif ihtiyaç</p>",
         "E": "<p>gelecekteki ihtiyaç</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763686,
@@ -156,8 +147,7 @@
         "D": "<p>normatif ihtiyaç</p>",
         "E": "<p>gelecekteki ihtiyaç</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763958,
@@ -172,8 +162,7 @@
         "D": "<p>Karşılaştırmalı ihtiyaç</p>",
         "E": "<p>Beklenen ihtiyaç</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763959,
@@ -188,8 +177,7 @@
         "D": "<p>Yetersizlik</p>",
         "E": "<p>Sosyal uçurum</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763965,
@@ -204,8 +192,7 @@
         "D": "<p>Sonuçların analizi aşması</p>",
         "E": "<p>Keşfetme aşaması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763966,
@@ -220,8 +207,7 @@
         "D": "<p>Demokratik yaklaşım</p>",
         "E": "<p>Standartlar yaklaşımı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763967,
@@ -236,8 +222,7 @@
         "D": "<p>Teknolojik yaklaşım</p>",
         "E": "<p>Analitik yaklaşım</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763968,
@@ -252,8 +237,7 @@
         "D": "<p>Yalnız IV</p>",
         "E": "<p>I, II, III ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763969,
@@ -268,8 +252,7 @@
         "D": "<p>Delphi tekniği ile elde edilen verilerin farklılık göstermesi, çeşitliliği önemli iken Progel tekniğinde fikir birliğine varılması, tek bir fikir üzerine yoğunlaşılması ön plandadır.</p>",
         "E": "<p>Progel tekniği öncesinde planlama sürecine yönelik hazırlıklar bulunmaktayken, Delphi tekniğinde süreç plansız bir şekilde gelişir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763970,
@@ -284,8 +267,7 @@
         "D": "<p>IV ve V</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763971,
@@ -300,8 +282,7 @@
         "D": "<p>Üstbilişsel bilgi</p>",
         "E": "<p>Terimsel bilgi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763972,
@@ -316,7 +297,6 @@
         "D": "<p>Problem çözme</p>",
         "E": "<p>İspat etme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

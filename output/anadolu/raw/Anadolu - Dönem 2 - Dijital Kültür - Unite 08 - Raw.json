@@ -12,8 +12,7 @@
         "D": "<p>Nicel veriler</p>",
         "E": "<p>Nitel veriler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769241,
@@ -28,8 +27,7 @@
         "D": "<p>Belirli bir miktar belirtilmeyen, bir dereceye göre elde edilen verilerdir.</p>",
         "E": "<p>Konvansiyonel araştırma yöntemlerine göre sayılabilir ama ölçülmeyen verilerdir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769257,
@@ -44,8 +42,7 @@
         "D": "<p>Jacob Moreno</p> ",
         "E": "<p>Roger Burrows</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769258,
@@ -60,8 +57,7 @@
         "D": "<p>Ağlandırılmış birey</p> ",
         "E": "<p>Sosyal Ağ Analizi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769298,
@@ -76,8 +72,7 @@
         "D": "<p>Yarı yapılandırma</p>",
         "E": "<p>Kazıma</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769304,
@@ -92,8 +87,7 @@
         "D": "<p>Metin analizi</p> ",
         "E": "<p>İlişkisel analiz</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769305,
@@ -108,8 +102,7 @@
         "D": "<p>Kanal temizliği</p>",
         "E": "<p>DataViz</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769503,
@@ -124,8 +117,7 @@
         "D": "<p>RDBMS </p>",
         "E": "<p>RBPM</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769508,
@@ -140,8 +132,7 @@
         "D": "<p>Kelime anlam ayrımı</p>",
         "E": "<p>Duygu analizi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769509,
@@ -156,8 +147,7 @@
         "D": "<p>Makine Öğrenmesi ve Derin Öğrenme</p>",
         "E": "<p> Python ve Doğal Dil Araç Takımı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769511,
@@ -172,8 +162,7 @@
         "D": "<p>II, IV, V, VI</p>",
         "E": "<p>III, IV, V, VI</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769512,
@@ -188,8 +177,7 @@
         "D": "<p>Shoshana Zuboff</p>",
         "E": "<p>Luciano Floridi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769513,
@@ -204,8 +192,7 @@
         "D": "<p>I, II, III, VII</p>",
         "E": "<p>I, II, III, IV, V, VI, VII</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769514,
@@ -220,8 +207,7 @@
         "D": "<p>betimsel veriler</p>",
         "E": "<p>içerik analizi verileri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769518,
@@ -236,8 +222,7 @@
         "D": "<p>I, II, III, IV</p>",
         "E": "<p>I, III, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769532,
@@ -252,8 +237,7 @@
         "D": "<p>2020 </p>",
         "E": "<p>2008</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769534,
@@ -268,8 +252,7 @@
         "D": "<p>Verinin erişilebilir olmasının toplanmasının yasal olduğu anlamına gelmemesi</p> ",
         "E": "<p>Nitel yöntemlerle elde edilen verilerin, algoritmik yöntemler kullanıldığında gözden kaçabilmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769540,
@@ -284,8 +267,7 @@
         "D": "<p>Uygulama Programlama Arayüzü </p>",
         "E": "<p>Boolean taraması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769553,
@@ -300,8 +282,7 @@
         "D": "<p>Anaolog yöntemler</p>",
         "E": "<p>Algoritmik yöntemler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769554,
@@ -316,8 +297,7 @@
         "D": "<p>e-posta</p>",
         "E": "<p>REST UPA</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769221,
@@ -332,8 +312,7 @@
         "D": "<p>DOC</p>",
         "E": "<p>CCXL</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769223,
@@ -348,8 +327,7 @@
         "D": "<p>Soyut veriler</p>",
         "E": "<p>Nitel veriler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769228,
@@ -364,8 +342,7 @@
         "D": "<p class=\"Default\">Video</p>",
         "E": "<p>Hareketli grafik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769229,
@@ -380,8 +357,7 @@
         "D": "<p>JSON</p>",
         "E": "<p>XXL</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769230,
@@ -396,8 +372,7 @@
         "D": "<p class=\"Default\">Video</p>",
         "E": "<p class=\"Default\"> Hareketli grafik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769242,
@@ -412,8 +387,7 @@
         "D": "<p>Veri miktarı, yapılandırılmış veri miktarından çok daha azdır.</p>",
         "E": "<p>Önceden tanımlanmış diğer verilerin şemasına göre düzenlenebilir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769244,
@@ -428,8 +402,7 @@
         "D": "<p>Kelime Anlam Ayrımı</p>",
         "E": "<p>Doğal Dil Üretimi</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769297,
@@ -444,8 +417,7 @@
         "D": "<p>Nitel yaklaşım gerektirmesi</p>",
         "E": "<p>İşlenen verinin görselleştirilmesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769501,
@@ -460,8 +432,7 @@
         "D": "<p>RBPM</p>",
         "E": "<p> GDPR</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769515,
@@ -476,8 +447,7 @@
         "D": "<p>Satış işlemlerini kayıtları</p>",
         "E": "<p>SMS</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769531,
@@ -492,8 +462,7 @@
         "D": "<p>Petrol sızıntıları veya nükleer kazalar gibi felaketlerin ne zaman ve ne şekilde ortaya çıkacağının tahmin edilebilmesi</p>",
         "E": "<p>Depremlerin önceden tahmin edilebilmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769551,
@@ -508,8 +477,7 @@
         "D": "<p>Uzamsal</p>",
         "E": "<p>Nitelleşme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769555,
@@ -524,8 +492,7 @@
         "D": "<p>Nitel veri</p>",
         "E": "<p>Nicel veriler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769557,
@@ -540,8 +507,7 @@
         "D": "<p>Nitel veriler</p>",
         "E": "<p>Ağ Analizi verileri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769560,
@@ -556,8 +522,7 @@
         "D": "<p>İstatistik analiz</p>",
         "E": "<p>Ağ Analizi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769224,
@@ -572,8 +537,7 @@
         "D": "<p>Soyut veriler</p>",
         "E": "<p>Karma- soyut veriler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769245,
@@ -588,8 +552,7 @@
         "D": "<p>Topic Modelling</p>",
         "E": "<p>Kelime Torbası Modeli</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769260,
@@ -604,8 +567,7 @@
         "D": "<p>Yapısı, ad/değer çiftlerinden ve sıralı bir değer listesinden oluşur.</p>",
         "E": "<p>Virgülle ayrılmış değerlere sahip veri kayıtlarını içerirler.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769530,
@@ -620,8 +582,7 @@
         "D": "<p>I, II</p>",
         "E": "<p>I, II, III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769536,
@@ -636,8 +597,7 @@
         "D": "<p>Sosyal Güvenlik numaraları </p>",
         "E": "<p>Posta kodları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769558,
@@ -652,8 +612,7 @@
         "D": "<p>Nicel veriler</p>",
         "E": "<p>Nitel veriler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769559,
@@ -668,8 +627,7 @@
         "D": "<p>UPA</p>",
         "E": "<p>Web kazıma</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769222,
@@ -684,8 +642,7 @@
         "D": "<p>III - IV</p>",
         "E": "<p class=\"Default\"><span style=\"font-size: 11.0pt; color: #211d1e;\">I- II - IV </span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769226,
@@ -700,8 +657,7 @@
         "D": "<p>Soyut veriler</p>",
         "E": "<p>RXX veriler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769296,
@@ -716,8 +672,7 @@
         "D": "<p>2012</p>",
         "E": "<p>2017</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769506,
@@ -732,8 +687,7 @@
         "D": "<p>düzenli olması</p>",
         "E": "<p>bilinçli olması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769517,
@@ -748,8 +702,7 @@
         "D": "<p>I, II, III, V</p>",
         "E": "<p>I, III, IV, VI</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769529,
@@ -764,8 +717,7 @@
         "D": "<p>II, III, IV, V</p>",
         "E": "<p>I, II, III, V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769535,
@@ -780,8 +732,7 @@
         "D": "<p>Haberler portalı </p>",
         "E": "<p>Kişisel web sitesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769537,
@@ -796,8 +747,7 @@
         "D": "<p>SMSler     </p>",
         "E": "<p>Ses ve video dosyaları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769227,
@@ -812,8 +762,7 @@
         "D": "<p>DOC</p>",
         "E": "<p>WORD</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769300,
@@ -828,8 +777,7 @@
         "D": "<p>Forma dayalı veriler olarak sınıflandırılırlar.</p>",
         "E": "<p>Yaygın biçimleri metin ve sayılardır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769303,
@@ -844,8 +792,7 @@
         "D": "<p>JSON</p> ",
         "E": "<p>APİ</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769538,
@@ -860,8 +807,7 @@
         "D": "<p>Mıknatıs  </p>",
         "E": "<p>Tarama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769552,
@@ -876,8 +822,7 @@
         "D": "<p>API</p>",
         "E": "<p>GDPR</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769299,
@@ -892,8 +837,7 @@
         "D": "<p>Ton dağılımı</p> ",
         "E": "<p>Kelime torbası</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769301,
@@ -908,8 +852,7 @@
         "D": "<p>CSV</p>",
         "E": "<p>HTML</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769504,
@@ -924,8 +867,7 @@
         "D": "<p>Bilimsel gözlem sonucu ulaşılan verilerdir</p>",
         "E": "<p>İlişkilerle oluşan yapıyı daha geniş bir çerçeveden görmemizi sağlar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769505,
@@ -940,8 +882,7 @@
         "D": "<p>Sinek</p>",
         "E": "<p>Uğur böceği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769516,
@@ -956,8 +897,7 @@
         "D": "<p>ETL (extract, transform, load)</p>",
         "E": "<p>Elektronik veri değişimi (EDI)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769256,
@@ -972,8 +912,7 @@
         "D": "<p>R Studio</p>",
         "E": "<p>NodeXL</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769259,
@@ -988,8 +927,7 @@
         "D": "<p>Makine öğrenimi (önceden negatif veya pozitif olarak belirlenmiş) kelimeleri saymak için kullanılır ve sayıya dayalı bir puan verilir. Kelime tabanlı modeller arasında bu model yaklaşımı sığlığı ile sınırlıdır.</p>",
         "E": "<p>Bir veri içerisinde bulunan tüm tekli, ikili, üçlü; sırasıyla ihtiyaç duyulan uzunluğa kadar verinin içerisinde yer alan tüm yapıların toplam sayılarına göre hiyerarşik olarak listelenmesidir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769539,
@@ -1004,8 +942,7 @@
         "D": "<p>Kullanılmaları için kullanıcıların onayı gerekir.</p>",
         "E": "<p>Veri kazıma, yasal olarak gri bir alanda bulunur.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769556,
@@ -1020,8 +957,7 @@
         "D": "<p>Nicel veriler</p>",
         "E": "<p>Yapılandırılmış veriler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769302,
@@ -1036,8 +972,7 @@
         "D": "<p>API</p> ",
         "E": "<p>Robots</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769502,
@@ -1052,8 +987,7 @@
         "D": "<p>Sayılarak elde edilen ve tam sayılı değerlerdir</p>",
         "E": "<p>Birbirinden bağımsız isim bildiren, kod ve numara ile gösterilebilen, sınıflara ayrılan verilerdir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769510,
@@ -1068,8 +1002,7 @@
         "D": "<p>Lee Rainie</p>",
         "E": "<p>Manuel Castells</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769243,
@@ -1084,8 +1017,7 @@
         "D": "<p>Paylaşılan sonra da silinen iletileri toplamamıza izin verir.</p>",
         "E": "<p>Tek bir komutla sonsuza kadar veri toplamak için programlanabilir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769507,
@@ -1100,8 +1032,7 @@
         "D": "<p>Kural Tabanlı Sistemler</p>",
         "E": "<p>Kelime Torbası Modeli</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769533,
@@ -1116,7 +1047,6 @@
         "D": "<p>Bill Gates</p>",
         "E": "<p>Chris Anderson   </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     }
 ]

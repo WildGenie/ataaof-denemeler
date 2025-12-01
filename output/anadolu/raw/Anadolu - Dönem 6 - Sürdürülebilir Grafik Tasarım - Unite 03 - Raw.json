@@ -12,8 +12,7 @@
         "D": "<p>Endüstri Atağı</p>",
         "E": "<p>Rönesans</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764226,
@@ -28,8 +27,7 @@
         "D": "<p>Önleme, Azaltma, Tekrar Kullanım</p>",
         "E": "<p>Tekrar Kullanım, Biriktirme, Şekillendirme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764227,
@@ -44,8 +42,7 @@
         "D": "<p>2017</p>",
         "E": "<p>2019</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764228,
@@ -60,8 +57,7 @@
         "D": "<p>1.Sırada</p>",
         "E": "<p>5.Sırada</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764229,
@@ -76,8 +72,7 @@
         "D": "<p>4.Sırada</p>",
         "E": "<p>3.Sırada</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764230,
@@ -92,8 +87,7 @@
         "D": "<p>Mangır</p>",
         "E": "<p>Sikke</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764231,
@@ -108,8 +102,7 @@
         "D": "<p>Kağıt</p>",
         "E": "<p>Seramik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764232,
@@ -124,8 +117,7 @@
         "D": "<p>Roma</p>",
         "E": "<p>Vatikan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764233,
@@ -140,8 +132,7 @@
         "D": "<p>3 Mart</p>",
         "E": "<p>5 Haziran</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764234,
@@ -156,8 +147,7 @@
         "D": "<p>İhap Hulusi</p>",
         "E": "<p>Kenan Mirza</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764286,
@@ -172,8 +162,7 @@
         "D": "<p>Enerji geri kazanımı</p>",
         "E": "<p>Bertaraf</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764287,
@@ -188,8 +177,7 @@
         "D": "<p>1031 yılında Japonya'da</p>",
         "E": "<p>1431 yılında İngiltere'de</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764288,
@@ -204,8 +192,7 @@
         "D": "<p>2008</p>",
         "E": "<p>2015</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764289,
@@ -220,8 +207,7 @@
         "D": "<p>I, II, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764290,
@@ -236,8 +222,7 @@
         "D": "<p>Bu sembolün ortasında % sembolüyle yazılmış bir rakam var ise bu da üründe kullanılan geri dönüştürülmüş malzemenin oranını belirtmektedir.</p>",
         "E": "<p>Ürün geri dönüştürülmüş malzemenin yanında yeni hammadde kullanılarak üretilmişse beyaz daire içinde siyah geri dönüşüm sembolü ile ifade edilir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764291,
@@ -252,8 +237,7 @@
         "D": "<p>I, II, III</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764292,
@@ -268,8 +252,7 @@
         "D": "<p>Bilgisayar, telefon vb. ürünler</p>",
         "E": "<p>Tekstil ürünleri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764293,
@@ -284,8 +267,7 @@
         "D": "<p>Sıfır atık</p>",
         "E": "<p>Kompozit üretim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764294,
@@ -300,8 +282,7 @@
         "D": "<p>Gerek kimyasal gerekse mekanik olarak ileri dönüşüm süreci belli miktarda enerji gerektirmektedir</p>",
         "E": "<p>İleri dönüşüm daha az atık depolama alanı kullanılması açısından fayda sağlamaktadır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764295,
@@ -316,7 +297,6 @@
         "D": "<p>I, II, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

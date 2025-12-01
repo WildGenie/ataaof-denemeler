@@ -12,8 +12,7 @@
         "D": "<p>Arap</p>",
         "E": "<p>Viking</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764371,
@@ -28,8 +27,7 @@
         "D": "<p>1753</p>",
         "E": "<p>1853</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764372,
@@ -44,8 +42,7 @@
         "D": "<p>Yoğurma</p>",
         "E": "<p>Kesme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764378,
@@ -60,8 +57,7 @@
         "D": "<p>Pelür</p>",
         "E": "<p>Istaka</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764576,
@@ -76,8 +72,7 @@
         "D": "<p>açık renkli</p>",
         "E": "<p>işlenebilir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764577,
@@ -92,8 +87,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>II ve IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764580,
@@ -108,8 +102,7 @@
         "D": "<p>Tsai Lun</p>",
         "E": "<p>Basbanes</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764581,
@@ -124,8 +117,7 @@
         "D": "<p>Papirüs sapları dikey konumda iki kat olarak üst üste getirilerek esnek ve düz bir düzey oluşturuluyordu.</p>",
         "E": "<p>Çeşitli işlemler sonucunda elde edilen kağıt, standart ölçülerde kesilerek paketlenip baskı için sevk ediliyordu.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764612,
@@ -140,8 +132,7 @@
         "D": "<p>Dut ağacı kabuğu lifleri</p>",
         "E": "<p>Balık ağı artıkları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764613,
@@ -156,8 +147,7 @@
         "D": "<p>Kesme-Yıkama-Suyunu alma-Yoğurma-Dövme-Buharda haşlama-Çevirme-Kurutma-Toplama</p>",
         "E": "<p>Kesme-Yıkama-Suyunu alma-Yoğurma-Dövme-Çevirme-Buharda haşlama-Kurutma-Toplama</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764615,
@@ -172,8 +162,7 @@
         "D": "<p>III ve IV</p>",
         "E": "<p>I, III ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764616,
@@ -188,8 +177,7 @@
         "D": "<p>Karton, mukavva, kağıt</p>",
         "E": "<p>Mukavva, kağıt, karton</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764640,
@@ -204,8 +192,7 @@
         "D": "<p>Çam</p>",
         "E": "<p> Meşe </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764642,
@@ -220,8 +207,7 @@
         "D": "<p>Magnezyum karbonat-kağıdın rengini açmak</p>",
         "E": "<p>Nişasta-kağıda dolgunluk kazandırmak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764643,
@@ -236,8 +222,7 @@
         "D": "<p>Mürekkep grenli ve mat yüzeyli kağıtlarda daha az emilir.</p>",
         "E": "<p>Kitapların genelde parlak yüzeyli kağıtlara basılması daha iyi olur. </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764648,
@@ -252,8 +237,7 @@
         "D": "<p>125 gr/m² gramajında kağıt iki kırım yapılabilir.</p>",
         "E": "<p>240 gr/m² gramajında karton konik açılarak bir kırım yapılabilir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764817,
@@ -268,8 +252,7 @@
         "D": "<p>İngiltere</p>",
         "E": "<p>Mısır</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764838,
@@ -284,8 +267,7 @@
         "D": "<p>Deneyimli personel yetersizliği nedeniyle</p>",
         "E": "<p>İthalatın düşük seviyede olması nedeniyle</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764846,
@@ -300,8 +282,7 @@
         "D": "<p>Aydınger </p>",
         "E": "<p>Karton</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764858,
@@ -316,8 +297,7 @@
         "D": "<p>Istaka</p>",
         "E": "<p>Çakı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764375,
@@ -332,8 +312,7 @@
         "D": "<p>70x100cm</p>",
         "E": "<p>64x90cm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764377,
@@ -348,8 +327,7 @@
         "D": "<p>Pelür</p>",
         "E": "<p>Karton</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764582,
@@ -364,8 +342,7 @@
         "D": "<p>II, III, IV ve V</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764592,
@@ -380,8 +357,7 @@
         "D": "<p>I, III ve V</p>",
         "E": "<p>I-V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764614,
@@ -396,8 +372,7 @@
         "D": "<p>baskı kalıplarının</p>",
         "E": "<p>merdanelerin</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764618,
@@ -412,8 +387,7 @@
         "D": "<p>Kuşe</p>",
         "E": "<p>Bristol</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764645,
@@ -428,8 +402,7 @@
         "D": "<p>I. Hamur Kağıt: İçinde selüloz ve odun miktarı hemen hemen eşit, rengi sarımsı olan kağıt türüdür.</p>",
         "E": "<p>III. Hamur Kağıt: İçinde ağaç miktarı fazla, selüloz miktarı az olan beyaz renkli kağıtlardır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764820,
@@ -444,8 +417,7 @@
         "D": "<p>Koyun derisi</p>",
         "E": "<p>Ağaç</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764822,
@@ -460,8 +432,7 @@
         "D": "<p>8.-9. yüzyıllarda</p>",
         "E": "<p>9.-10. yüzyıllarda</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764369,
@@ -476,8 +447,7 @@
         "D": "<p>1991- Almanya</p>",
         "E": "<p>1971 - İngiltere</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764373,
@@ -492,8 +462,7 @@
         "D": "<p>Akçaağaç</p>",
         "E": "<p>Meşe</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764818,
@@ -508,8 +477,7 @@
         "D": "<p>Barut </p>",
         "E": "<p>Bilgisayar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764824,
@@ -524,8 +492,7 @@
         "D": "<p>1517</p>",
         "E": "<p>1638</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764839,
@@ -540,8 +507,7 @@
         "D": "<p>Başak sapı</p>",
         "E": "<p>Arpa sapı<br /><br /></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764376,
@@ -556,8 +522,7 @@
         "D": "<p>148x210</p>",
         "E": "<p>297x420mm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764593,
@@ -572,8 +537,7 @@
         "D": "<p>MS 100-Rene-Antonie Ferchault de Reaumur</p>",
         "E": "<p>M 105- Tso Tzu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764617,
@@ -588,8 +552,7 @@
         "D": "<p>Kağıtta gr/m2 özelliğinin yansımasıdır</p>",
         "E": "<p>Kağıdın su yönünü gösteren özelliğidir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764819,
@@ -604,8 +567,7 @@
         "D": "<p>İpek kumaş</p>",
         "E": "<p>Tsai Lun</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764649,
@@ -620,8 +582,7 @@
         "D": "<p>Kitabın üst kısmına (dik durduğunda) baş (head) denir.</p>",
         "E": "<p>Kitabın kendisine (kapakları atlayarak) kitap bloğu (book-block) denir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764374,
@@ -636,7 +597,6 @@
         "D": "<p>Meşe</p>",
         "E": "<p>Dişbudak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>1982 Anayasası</p>",
         "E": "<p>1961 Anayasası</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513397,
@@ -28,8 +27,7 @@
         "D": "<p>Devlet tarafından yapılacak resmî nikah sistemi benimsenmiş ve tek eşle evlilik koşulu getirilmiştir. </p>",
         "E": "<p>Miras konusunda erkeğe öncelik tanımıştır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513399,
@@ -44,8 +42,7 @@
         "D": "<p>Hepsi</p>",
         "E": "<p>IV ve V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513412,
@@ -60,8 +57,7 @@
         "D": "<p>Spor</p>",
         "E": "<p>Hukuk eğitimi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513454,
@@ -76,8 +72,7 @@
         "D": "<p>22</p>",
         "E": "<p>20</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513672,
@@ -92,8 +87,7 @@
         "D": "<p>Cumhuriyet’in ilanıyla demokratik bir devlet kurulması</p>",
         "E": "<p>Misak-ı Millî sınırları içerisinde yeni bir Türk Devleti kurma yolunda önemli bir adım atılmıştır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513673,
@@ -108,8 +102,7 @@
         "D": "<p>“Devletin dini İslam’dır” maddesinin Anayasa'da çıkarılması</p>",
         "E": "<p>Altı ilkenin anayasaya dâhil edilerek devletin temel nitelikleri haline getirilmesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513687,
@@ -124,8 +117,7 @@
         "D": "<p>Türk Ocakları</p>",
         "E": "<p>Köy Yatılı Dershaneleri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513688,
@@ -140,8 +132,7 @@
         "D": "<p>İtibar-ı Milli Bankası</p>",
         "E": "<p>Ziraat Bankası</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513697,
@@ -156,8 +147,7 @@
         "D": "<p>1927</p>",
         "E": "<p>1928</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513701,
@@ -172,8 +162,7 @@
         "D": "<p>18</p>",
         "E": "<p>19</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513702,
@@ -188,8 +177,7 @@
         "D": "<p>Kabotaj hakkında yabancılara imtiyaz tanınmaması</p>",
         "E": "<p>Milli bir banka kurulması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513705,
@@ -204,8 +192,7 @@
         "D": "<p>Kültür sanat harcamalarına</p>",
         "E": "<p>Sanayi alanında yapılan yatırım harcamalarına</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513709,
@@ -220,8 +207,7 @@
         "D": "<p>Münir Hayri Egeli</p>",
         "E": "<p>Mahmut Esat Bozkurt</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513710,
@@ -236,8 +222,7 @@
         "D": "<p>1950</p>",
         "E": "<p>1954</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513717,
@@ -252,8 +237,7 @@
         "D": "<p>Fransa</p>",
         "E": "<p>İsviçre</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513723,
@@ -268,8 +252,7 @@
         "D": "<p>1940</p>",
         "E": "<p>1945</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513725,
@@ -284,8 +267,7 @@
         "D": "<p>Ulus Meydanı</p>",
         "E": "<p>Topkapı Sarayı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513738,
@@ -300,8 +282,7 @@
         "D": "<p>Saltanatın kaldırılarak monarşik siyasi sisteme son verilmesi ve demokratik Cumhuriyet’in ila­n edilmesi</p>",
         "E": "<p>Yeni Türk devletinin devamlılığını sağ­layacak inkılap hareketlerinin gerçekleştirilmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513740,
@@ -316,8 +297,7 @@
         "D": "<p>İsviçre’den uyarlanan Türk Medeni Kanunu’nun 17 Şubat 1926 tarihinde TBMM’de kabul edilmesi</p>",
         "E": "<p>5 Şubat 1937’de Anayasanın 2. maddesinin “Türkiye Devleti, cumhuriyetçi, milliyetçi, halkçı, devletçi, laik ve inkılapçıdır” olarak değiştiril­mesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513411,
@@ -332,8 +312,7 @@
         "D": "<p>İstanbul</p>",
         "E": "<p>Edirne</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513414,
@@ -348,8 +327,7 @@
         "D": "<p>Egebank</p>",
         "E": "<p>Türkiye İş Bankası</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513447,
@@ -364,8 +342,7 @@
         "D": "<p>17 Temmuz 1924</p>",
         "E": "<p>23 Nisan 1924</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513453,
@@ -380,8 +357,7 @@
         "D": "<p>1927</p>",
         "E": "<p>1931</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513677,
@@ -396,8 +372,7 @@
         "D": "<p>1926 tarihli Türk Medeni Kanunu ile kadınlara temel haklar verilmesi</p>",
         "E": "<p>1930’da kabul edilen Yeni Belediye Kanunu’nda, seçme ve seçilme şartı olarak “Türk olmak” maddesine yer verilmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513678,
@@ -412,8 +387,7 @@
         "D": "<p>3 Mart 1924 tarihli Tevhid-i Tedrisat Kanunu</p>",
         "E": "<p>2 Mart 1926 tarihli Maarif Teşkilatı Hakkında Kanun</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513698,
@@ -428,8 +402,7 @@
         "D": "<p>1928</p>",
         "E": "<p>1929</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513711,
@@ -444,8 +417,7 @@
         "D": "<p>İş Bankası</p>",
         "E": "<p>Halk Bankası</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513724,
@@ -460,8 +432,7 @@
         "D": "<p>1 Kasım 1928</p>",
         "E": "<p>25 Temmuz 1929</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513739,
@@ -476,8 +447,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>III ve IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513743,
@@ -492,8 +462,7 @@
         "D": "<p>Tiyatroyu, İstanbul Şehir Tiyatrosu da</p>",
         "E": "<p>Radyoyu, İstanbul Radyosu da</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513746,
@@ -508,8 +477,7 @@
         "D": "<p>Dilde sadeleşme ve Türkçe kelimelerin kullanımının yaygınlaştırılması çalışmaları</p>",
         "E": "<p>Arap rakamları yerine uluslararası rakamların kullanılmasının kabulü</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513398,
@@ -524,8 +492,7 @@
         "D": "<p>1940</p>",
         "E": "<p>1961</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513410,
@@ -540,8 +507,7 @@
         "D": "<p>Dil ve Tarih Coğrafya Mektebi</p>",
         "E": "<p>Ege Üniversitesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513413,
@@ -556,8 +522,7 @@
         "D": "<p>Anton Hanak</p>",
         "E": "<p>Matisse</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513450,
@@ -572,8 +537,7 @@
         "D": "<p>2005</p>",
         "E": "<p>2006</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513704,
@@ -588,8 +552,7 @@
         "D": "<p>1961 Anayasası</p>",
         "E": "<p>1982 Anayasası</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513707,
@@ -604,8 +567,7 @@
         "D": "<p>L-1, K-2</p>",
         "E": "<p>K-1, N-2</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513713,
@@ -620,8 +582,7 @@
         "D": "<p>1923</p>",
         "E": "<p>1924</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513714,
@@ -636,8 +597,7 @@
         "D": "<p>1980 Anayasası</p>",
         "E": "<p>1981 Anayasası</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513721,
@@ -652,8 +612,7 @@
         "D": "<p>Almanya</p>",
         "E": "<p>İngiltere</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513741,
@@ -668,8 +627,7 @@
         "D": "<p>Her çocuğun eğitim alması ve okuma yazma seviyesinin artırılması için çalışmalar yapmak</p>",
         "E": "<p>İlköğretimde fırsat ve cinsiyet eşit­liğini sağlayan uygulamaları planlamak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513744,
@@ -684,8 +642,7 @@
         "D": "<p>I ve IV</p>",
         "E": "<p>III ve V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513415,
@@ -700,8 +657,7 @@
         "D": "<p>Merkez Hıfzıssıhha Müessesesi</p>",
         "E": "<p>İller Bankası</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513449,
@@ -716,8 +672,7 @@
         "D": "<p>10 Nisan 1026</p>",
         "E": "<p>29 Ekim 1926</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513706,
@@ -732,8 +687,7 @@
         "D": "<p>1936</p>",
         "E": "<p>1937</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513712,
@@ -748,8 +702,7 @@
         "D": "<p>Türkçe</p>",
         "E": "<p>Rusça</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513716,
@@ -764,8 +717,7 @@
         "D": "<p>19 Mayıs 1930</p>",
         "E": "<p>17 Haziran 1927</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513745,
@@ -780,8 +732,7 @@
         "D": "<p>Japonya</p>",
         "E": "<p>İngiltere</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513747,
@@ -796,8 +747,7 @@
         "D": "<p>Çocuk bakım ve doğum evleri açılması</p>",
         "E": "<p>Halk sağlığını korumak için Hıfzısıhha Müessesesinin açılması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513448,
@@ -812,8 +762,7 @@
         "D": "<p>Amerika Birleşik Devletleri</p>",
         "E": "<p>İtalya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513455,
@@ -828,8 +777,7 @@
         "D": "<p>15</p>",
         "E": "<p>14</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513675,
@@ -844,8 +792,7 @@
         "D": "<p><br />Sosyal içerik taşıması</p>",
         "E": "<p>Kadınlara siyasal haklar tanıması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513451,
@@ -860,8 +807,7 @@
         "D": "<p>Alman Ceza Kanunu</p>",
         "E": "<p>Fransız Ceza Kanunu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513720,
@@ -876,8 +822,7 @@
         "D": "<p>1 Mart 1926</p>",
         "E": "<p>16 Haziran 1925</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513452,
@@ -892,8 +837,7 @@
         "D": "<p>10 Nisan 1928</p>",
         "E": "<p>17 Şubat 1925</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513708,
@@ -908,8 +852,7 @@
         "D": "<p>Yeni alfabeyi halka öğretmek.</p>",
         "E": "<p>Öğretmek eksiğini karşılamak.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513700,
@@ -924,8 +867,7 @@
         "D": "<p>1932</p>",
         "E": "<p>1933</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513446,
@@ -940,8 +882,7 @@
         "D": "<p>05 Şubat 1937</p>",
         "E": "<p>17 Şubat 1926</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513742,
@@ -956,8 +897,7 @@
         "D": "<p>1936 yılında Eskişehir’de kırsal kesime öğ­retmen temini için bir eğitmen kursu açılması</p>",
         "E": "<p>1937 yılında deneme niteliğinde dört adet köy öğretmen okulu açılması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513648,
@@ -972,7 +912,6 @@
         "D": "<p>İnkılap</p>",
         "E": "<p>Islahat</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     }
 ]

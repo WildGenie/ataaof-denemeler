@@ -12,8 +12,7 @@
         "D": "<p>1960'lı ve 1970'liyıllarda yaratıcılık konusunda görsel imajların etkisi görüşü hakimdir.</p>",
         "E": "<p>1980'de sonrası yaratıcılıkta Geniş Uygulama Dönemi olarak tanımlanır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861512,
@@ -28,8 +27,7 @@
         "D": "<p>Us</p>",
         "E": "<p>Statüko</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861514,
@@ -44,8 +42,7 @@
         "D": "<p>İhtiyaca göre yaratıcılık</p>",
         "E": "<p>Acil durumlarda yaratıcılık</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861526,
@@ -60,8 +57,7 @@
         "D": "<p>Psikanalitik Yaklaşım</p>",
         "E": "<p>Yapısalcı Kuram</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861530,
@@ -76,8 +72,7 @@
         "D": "<p>I, II ve IV</p>",
         "E": "<p>I, II, III ve IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861583,
@@ -92,8 +87,7 @@
         "D": "<p>Estetik</p>",
         "E": "<p>Yaratıcılık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861587,
@@ -108,8 +102,7 @@
         "D": "<p>Yansıtma</p>",
         "E": "<p>Sanat</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861588,
@@ -124,8 +117,7 @@
         "D": "<p>Picasso</p>",
         "E": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Jan van Eyck </p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861590,
@@ -140,8 +132,7 @@
         "D": "<p>Söylemsel</p>",
         "E": "<p>Görüşsel</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861591,
@@ -156,8 +147,7 @@
         "D": "<p>Gelişim</p>",
         "E": "<p>Dahilik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861592,
@@ -172,8 +162,7 @@
         "D": "<p>Çözümleme</p> <p>Bilgi toplama</p>",
         "E": "<p>Sonuç </p> <p>Çözümleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861600,
@@ -188,8 +177,7 @@
         "D": "<p>Anlatım kuramı </p>",
         "E": "<p>İşlevsellik kuramı </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861602,
@@ -204,8 +192,7 @@
         "D": "<p>Biçimci kuram </p>",
         "E": "<p>Psikanalitik kuram </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861605,
@@ -220,8 +207,7 @@
         "D": "<p>Öğretmenlere farklı düşüncelerini deneyimlemeleri için maddi imkanlar sunar. </p>",
         "E": "<p>Yaratıcı olan öğretmenleri destekler. </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861607,
@@ -236,8 +222,7 @@
         "D": "<p>Kalıtım </p>",
         "E": "<p>Irk </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861609,
@@ -252,8 +237,7 @@
         "D": "<p>Gestalt Kuramı </p>",
         "E": "<p>Psikanalitik yaklaşım </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861638,
@@ -268,8 +252,7 @@
         "D": "<div class=\"page\" title=\"Page 6\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>İşlevsellik Kuramı</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 22\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Hümaniter Yaklaşım</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861640,
@@ -284,8 +267,7 @@
         "D": "<div class=\"page\" title=\"Page 21\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Gestalt Kuramı</p>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 23\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Bilişsel Kuram</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861706,
@@ -300,8 +282,7 @@
         "D": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Yaratıcı düşünme için malzeme ve zaman sınırlı olmalıdır</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Yaratıcılık; algı, duygu ve kültürle beraberdir</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861710,
@@ -316,8 +297,7 @@
         "D": "<p>Çağrışım Kuramı</p>",
         "E": "<p>Algısal Kuram</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861509,
@@ -332,8 +312,7 @@
         "D": "<p>Yansıtma Kuramı</p>",
         "E": "<p>İşlevsellik Kuramı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861513,
@@ -348,8 +327,7 @@
         "D": "<p>Düşünme, Çözümleme,SOnuç</p>",
         "E": "<p>Bilgi Toplama, Çözümleme, Sonuç</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861601,
@@ -364,8 +342,7 @@
         "D": "<p>Biçimci kuram </p>",
         "E": "<p>Varoluşçu kuram </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861603,
@@ -380,8 +357,7 @@
         "D": "<p>Biçimi oluşturan renk, leke, çizgi, doku gibi elemanların düzenleri söz konusudur. </p>",
         "E": "<p>Sanatçı işlevsel bir görüşü eseri aracılığıyla yaymayı hedefler.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861608,
@@ -396,8 +372,7 @@
         "D": "<p>II, I, III, IV</p>",
         "E": "<p>II, IV, I, III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861647,
@@ -412,8 +387,7 @@
         "D": "<div class=\"page\" title=\"Page 6\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İşlevsellik Kuramı</p> </div> </div> </div> </div>",
         "E": "<p>Algısal Kuram</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861708,
@@ -428,8 +402,7 @@
         "D": "<p>Bilişsel Kuram</p>",
         "E": "<p>Algısal Kuram</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861709,
@@ -444,8 +417,7 @@
         "D": "<div class=\"page\" title=\"Page 24\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Schachtel</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 23\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Mednick</p> </div> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861711,
@@ -460,8 +432,7 @@
         "D": "<p>Algısal Kuram</p>",
         "E": "<p>Hümaniter Yaklaşım</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861508,
@@ -476,8 +447,7 @@
         "D": "<p>Biçimci Kuram</p>",
         "E": "<p>Anlatın Kuramı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861584,
@@ -492,8 +462,7 @@
         "D": "<p>Jan van Eyck</p>",
         "E": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kandinsky</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861585,
@@ -508,8 +477,7 @@
         "D": "<p>Tasarım</p>",
         "E": "<p>Yaratıcılık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861586,
@@ -524,8 +492,7 @@
         "D": "<div class=\"page\" title=\"Page 8\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Herbert Read</p> </div> </div> </div> </div>",
         "E": "<p>Graham Wallas</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861604,
@@ -540,8 +507,7 @@
         "D": "<p>Duygusal bileşenden mümkün olduğunca geri durmak için öznel bileşen “sanatsal düşünme”den bile atılmaya çalışılmıştır. </p>",
         "E": "<p>Eğitimde hedef sanat eğitimidir. </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861528,
@@ -556,8 +522,7 @@
         "D": "<p>İyi düşünce ve kötü düşünce</p>",
         "E": "<p>Üretken düşünce ve sorun çözme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861589,
@@ -572,8 +537,7 @@
         "D": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Pollock </p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kandinsky</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861606,
@@ -588,8 +552,7 @@
         "D": "<p>1970'lerde </p>",
         "E": "<p>1990'larda </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861510,
@@ -604,8 +567,7 @@
         "D": "<p>Baker</p>",
         "E": "<p>Basadur</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861707,
@@ -620,8 +582,7 @@
         "D": "<div>Bilişsel Kuram</div>",
         "E": "<div>Algısal Kuram</div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861639,
@@ -636,7 +597,6 @@
         "D": "<div class=\"page\" title=\"Page 5\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Eserin tüm parçaları eserle ilişkili olmalıdır.</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 5\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>“Sanat, Toplum İçindir” ilkesi bu kuram bağlamında değerlendirilebilir.</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     }
 ]

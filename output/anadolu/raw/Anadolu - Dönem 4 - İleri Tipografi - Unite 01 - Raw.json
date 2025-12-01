@@ -12,8 +12,7 @@
         "D": "Zinganello",
         "E": "Jan Tschichold",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488021,
@@ -28,8 +27,7 @@
         "D": "Bir kristal kadeh gibi tipografinin de kendine odaklanmasının sağlanması",
         "E": "Yeni fontların tasarlanması zorunluluğu",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488023,
@@ -44,8 +42,7 @@
         "D": "Garamond",
         "E": "Eras Demi",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488024,
@@ -60,8 +57,7 @@
         "D": "Çeşitli nesneler kullanılarak",
         "E": "Bakış açısına göre değişen",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488027,
@@ -76,8 +72,7 @@
         "D": "<p>Güneş</p>",
         "E": "<p>Ay</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488124,
@@ -92,8 +87,7 @@
         "D": "<p>Yer imi amaçlı tipografi</p>",
         "E": "<p>Mekânsal tipografi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488125,
@@ -108,8 +102,7 @@
         "D": "<p> I, II, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488129,
@@ -124,8 +117,7 @@
         "D": "<p>İki boyutlu tipografi<br /><br /></p>",
         "E": "<p>Üç boyutlu tipografi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488130,
@@ -140,8 +132,7 @@
         "D": "<p class=\"Default\"><span style=\"font-family: 'Arial',sans-serif;\">İç mimarlık</span></p>",
         "E": "<p class=\"Default\"><span style=\"font-family: 'Arial',sans-serif;\">Sinema</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488131,
@@ -156,8 +147,7 @@
         "D": "<p class=\"Default\"><span style=\"font-family: 'Times New Roman',serif;\">Roma İmparatorluğu<br /></span></p>",
         "E": "<p>Alman İmparatorluğu<br /><br /></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488138,
@@ -172,8 +162,7 @@
         "D": "<p class=\"Default\">Kesip çıkarma yöntemiyle oluşturulan üç boyutlu tipografi</p> <p class=\"Default\"> </p> ",
         "E": "<p class=\"Default\"><span style=\"font-family: 'Arial',sans-serif; color: windowtext;\">Çeşitli nesneler kullanılarak oluşturulan üç boyutlu tipografi</span></p> <p class=\"Default\"> </p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488139,
@@ -188,8 +177,7 @@
         "D": "<p> Gyöngy Laky</p> ",
         "E": "<p class=\"Default\"><span style=\"font-family: 'Arial',sans-serif; color: #211d1e;\">Alan Fletcher</span></p> <p class=\"Default\"> </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488141,
@@ -204,8 +192,7 @@
         "D": "<p>Deneysel</p>",
         "E": "<p>Hareketsiz</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488143,
@@ -220,8 +207,7 @@
         "D": "<p>Hazır malzemelerden oluşturulan üç boyutlu tipografi</p>",
         "E": "<p>Hareket-performans ile oluşturulan üç boyutlu tipografi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488146,
@@ -236,8 +222,7 @@
         "D": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Lazer kesim dayanıklı strafor malzemeler ile hem zor taşınabilir hem de zorlukla uygulanabilir işaretler yaratılmıştır.</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Autobahn, büyük beyaz rakamlarla ani bir etki sağlamış ve ziyaretçilerin hangi etkinliği hangi kısımda bulacaklarını zorlaştırmıştır.</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488148,
@@ -252,8 +237,7 @@
         "D": "<div class=\"page\" title=\"Page 6\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sanat-tasarım amaçlı üç boyutlu tipografi</p> </div> </div> </div> </div>",
         "E": "<p>Gösteri reklam amaçlı üç boyutlu tipografi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488150,
@@ -268,8 +252,7 @@
         "D": "<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Abbott Miller</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 12\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Benoit Challand</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488151,
@@ -284,8 +267,7 @@
         "D": "<div class=\"page\" title=\"Page 14\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Japon tasarımcı Satsuki Atsumi'nin, 2010 yılında tasarladığı “Hinge” adlı yazı karakterini kapı menteşesi olarak düşünmesi ve sunumda “There is Always Tomorrow (Her zaman yarın vardır)” söz dizisini bu menteşeleri kullanarak yazması</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Gyöngy Laky'nin   üç boyutlu yazı tasarımında “art (sanat)” kelimesini çeşitli odun parçalarını birbirine çivileyerek oluşturması</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488152,
@@ -300,8 +282,7 @@
         "D": "<div class=\"page\" title=\"Page 18\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Joan Brossa</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 18\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Axel Peemoeller</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488153,
@@ -316,8 +297,7 @@
         "D": "<div class=\"page\" title=\"Page 19\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Denis Coueignoux</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 20\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Amandine Alessandra</p> </div> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488019,
@@ -332,8 +312,7 @@
         "D": "<p>İnsanı düşünmeye sevk eder.</p>",
         "E": "<p>Yalnızca bilgisayar ortamında yaratılabilir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488025,
@@ -348,8 +327,7 @@
         "D": "<p>Hazır Malzemelerden</p>",
         "E": "<p>Hareketli yazı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488028,
@@ -364,8 +342,7 @@
         "D": "<p>Mekân - obje ilişkisi</p>",
         "E": "<p>Mesaj - yaratıcılık ilişkisi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488126,
@@ -380,8 +357,7 @@
         "D": "<p>Sanat Tasarım Amaçlı Üç Boyutlu Tipografi</p>",
         "E": "<p>Yer İmi Amaçlı Üç Boyutlu Tipografi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488134,
@@ -396,8 +372,7 @@
         "D": "<p class=\"Default\">The Cooper Union</p> <p class=\"Default\"> </p>",
         "E": "<p class=\"Default\">Dünya Ticaret Merkezi</p> <p class=\"Default\"> </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488135,
@@ -412,8 +387,7 @@
         "D": "<p class=\"Default\">Coğrafi işaret</p>",
         "E": "<p>Bilgilenme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488136,
@@ -428,8 +402,7 @@
         "D": "<p class=\"Default\">Yer imi</p>",
         "E": "<p>İşaret</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488144,
@@ -444,8 +417,7 @@
         "D": "<p>Tarihsel</p>",
         "E": "<p>Deneysel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488145,
@@ -460,8 +432,7 @@
         "D": "<p>Tipografik heykel olarak oluşturulan üç boyutlu tipografi</p>",
         "E": "<p>Oyun amaçlı ve obje çıkışlı üç boyutlu tipografi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488147,
@@ -476,8 +447,7 @@
         "D": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Mimari imge olarak tasarlanan grafikler mekânın bir parçası olmalı, mimari nitelikler ile bütünleşmeli ve mekânın kullanılabilirliğini desteklemelidir.</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Ziyaretçinin dikkatini mekâna çekmek, coğrafi ve mimari ilgi alanını yok etmek suretiyle gerçekleşir.</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488022,
@@ -492,8 +462,7 @@
         "D": "<p>Sanat</p>",
         "E": "<p>Bilgilendirme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488127,
@@ -508,8 +477,7 @@
         "D": "<p>Oyun Amaçlı Üç Boyutlu Tipografi</p>",
         "E": "<p>Obje Çıkışlı Üç Boyutlu Tipografi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488128,
@@ -524,8 +492,7 @@
         "D": "<p>Sanat Tasarım Amaçlı Üç Boyutlu Tipografi</p>",
         "E": "<p> Performans Oluşturulan Üç Boyutlu Tipografi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488132,
@@ -540,8 +507,7 @@
         "D": "<p>Mimari</p>",
         "E": "<p>Gösteri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488133,
@@ -556,8 +522,7 @@
         "D": "<p>II, III, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488140,
@@ -572,8 +537,7 @@
         "D": "<p class=\"Default\">Mimari imge olarak üç boyutlu tipografi</p>",
         "E": "<p>Bilgilendirme amaçlı üç boyutlu tipografi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488142,
@@ -588,8 +552,7 @@
         "D": "<p>Hazır Malzemelerden Oluşturulan Üç Boyutlu Tipografi</p>",
         "E": "<p>Oyun Amaçlı ve Obje Çıkışlı Üç Boyutlu Tipografi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488137,
@@ -604,8 +567,7 @@
         "D": "<p>Yer İmi Amaçlı Üç Boyutlu Tipografi</p>",
         "E": "<p>Işık-Gölge Kullanılarak Oluşturulan Üç Boyutlu Tipografi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488026,
@@ -620,8 +582,7 @@
         "D": "<p>“Barcino”</p>",
         "E": "<p>“Project Room 06”</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3488149,
@@ -636,7 +597,6 @@
         "D": "<p>Fiziksel mekan</p>",
         "E": "<p>Uygulanabilir işaretler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     }
 ]

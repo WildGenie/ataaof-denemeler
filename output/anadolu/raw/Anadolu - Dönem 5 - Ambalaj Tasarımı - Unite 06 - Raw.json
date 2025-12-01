@@ -12,8 +12,7 @@
         "D": "<p>yalnız IV</p>",
         "E": "<p>I,II,IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862829,
@@ -28,8 +27,7 @@
         "D": "<p>Yalnız III</p>",
         "E": "<p>I,V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862830,
@@ -44,8 +42,7 @@
         "D": "<p>Yalnız II</p>",
         "E": "<p>I,II,III,IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862831,
@@ -60,8 +57,7 @@
         "D": "<p>I, II, III</p>",
         "E": "<p>I, III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862832,
@@ -76,8 +72,7 @@
         "D": "<p>Yalnız II</p>",
         "E": "<p>II,V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862834,
@@ -92,8 +87,7 @@
         "D": "<p class=\"Default\" style=\"text-align: justify;\"><span style=\"font-size: 11pt; font-family: verdana, geneva, sans-serif;\">II, IV, VI</span></p>",
         "E": "<p class=\"Default\" style=\"text-align: justify;\"><span style=\"font-size: 11pt; font-family: verdana, geneva, sans-serif;\">Yalnız VII</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862835,
@@ -108,8 +102,7 @@
         "D": "<p>II,IV,VI</p>",
         "E": "<p>I,II,III,IV,V,VI</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862836,
@@ -124,8 +117,7 @@
         "D": "<p>Yalnız VI</p>",
         "E": "<p>III,V,VI</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862837,
@@ -140,8 +132,7 @@
         "D": "<p><span style=\"font-size: 10pt;\">satış stratejisi</span></p>",
         "E": "<p><span style=\"font-size: 10pt;\">format</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862838,
@@ -156,8 +147,7 @@
         "D": "<p class=\"Default\" style=\"text-align: justify;\"><span style=\"font-size: 11.0pt; font-family: 'Times New Roman',serif;\">psikoloji</span></p>",
         "E": "<p class=\"Default\" style=\"text-align: justify;\"><span style=\"font-size: 11.0pt; font-family: 'Times New Roman',serif;\">felsefe</span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862839,
@@ -172,8 +162,7 @@
         "D": "<p>Antimikrobiyaller</p> ",
         "E": "<p>İnsektisitler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862840,
@@ -188,8 +177,7 @@
         "D": "<p>19. yüzyıl sonu</p> ",
         "E": "<p>19. yüzyıl başı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862841,
@@ -204,8 +192,7 @@
         "D": "<p>Sensör teknolojisindeki gelişmeler</p> ",
         "E": "<p>Internet of Things (IoT) teknolojisinin yaygınlaşması</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862842,
@@ -220,8 +207,7 @@
         "D": "<p>QR Kod</p> ",
         "E": "<p>Nanoteknoloji</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862843,
@@ -236,8 +222,7 @@
         "D": "<p>RFID (Radyo Frekansı ile Tanımlama)</p> ",
         "E": "<p>Nanoteknoloji</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862844,
@@ -252,8 +237,7 @@
         "D": "<p>Artırılmış Gerçeklik Uygulamaları</p> ",
         "E": "<p>Siber güvenlik uygulamaları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862845,
@@ -268,8 +252,7 @@
         "D": "<p>Yeşil renk tonlarının kullanılması</p> ",
         "E": "<p>Teknolojiye entegre olması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862846,
@@ -284,8 +267,7 @@
         "D": "<p>Tipografik hizalama</p> ",
         "E": "<p>Tipografik Kontrast</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862847,
@@ -300,8 +282,7 @@
         "D": "<p>Malzeme mühendisliği</p> ",
         "E": "<p>Yazılım mühendisliği</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862848,
@@ -316,7 +297,6 @@
         "D": "<p>Güvenlik özellikleri önem kazanması</p>",
         "E": "<p>Ambalajsız satışların artması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

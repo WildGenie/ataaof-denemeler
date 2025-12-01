@@ -12,8 +12,7 @@
         "D": "<p>Rölyef</p>",
         "E": "<p>Figür</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935490,
@@ -28,8 +27,7 @@
         "D": "<p>Gopuran üslubu</p>",
         "E": "<p>Şaluyka üslubu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935494,
@@ -44,8 +42,7 @@
         "D": "<p>Saray</p>",
         "E": "<p>Kervansaray</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935530,
@@ -60,8 +57,7 @@
         "D": "<p>Stupa</p>",
         "E": "<p>Mâbed</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935567,
@@ -76,8 +72,7 @@
         "D": "<p>Mirza Şahruh</p>",
         "E": "<p>Kemalettin Bihzad</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935583,
@@ -92,8 +87,7 @@
         "D": "<p>Meşhed Gevher Şad Medresesi </p>",
         "E": "<p>Usta Ali Türbesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935620,
@@ -108,8 +102,7 @@
         "D": "<p>İran</p>",
         "E": "<p>Fas</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935640,
@@ -124,8 +117,7 @@
         "D": "<p>Fohi</p> ",
         "E": "<p>Pitogram</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935646,
@@ -140,8 +132,7 @@
         "D": "<p>Japonya Kakemono tarzı resimler, ipek bez ya da kağıt üzerine yapılmaktadır</p> ",
         "E": "<p>Çin resimlerine benzeyen Japon resimlerinde ışık, gölge ve perspektif yoktur</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935659,
@@ -156,8 +147,7 @@
         "D": "<p>Karakoyunlular (1405-1467)</p>",
         "E": "<p>Halaçlar (1290-1320)</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935664,
@@ -172,8 +162,7 @@
         "D": "<p>Hind-i Çin</p>",
         "E": "<p>Tibet</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935705,
@@ -188,8 +177,7 @@
         "D": "<p>Laos, Kamboçya, Vietnam</p>",
         "E": "<p>Myanmar, Kamboçya, Vietnam</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935708,
@@ -204,8 +192,7 @@
         "D": "<p>Pasargadi şehrindeki II.Kiros mezarı.</p>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Med Kralı Kyaksares’in Hemedan şehrinde yaptırdığı saray.</p> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935726,
@@ -220,8 +207,7 @@
         "D": "<p>Babür</p>",
         "E": "<p>Halaç</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935734,
@@ -236,8 +222,7 @@
         "D": "<p>Ön sütun</p>",
         "E": "<p>Alın</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935743,
@@ -252,8 +237,7 @@
         "D": "<p>Cephe</p>",
         "E": "<p>Figürlü kabartma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935754,
@@ -268,8 +252,7 @@
         "D": "<p>Tosa</p>",
         "E": "<p>Kano</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935769,
@@ -284,8 +267,7 @@
         "D": "<p>Bir Japon seramiği türü</p>",
         "E": "<p>Japon kabartma sanatı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935773,
@@ -300,8 +282,7 @@
         "D": "<p><span style=\"left: 210.34px; top: 459.242px; font-size: 15.6969px; font-family: serif; transform: scaleX(0.990047);\">Kanaoka</span></p>",
         "E": "<p><span style=\"left: 210.34px; top: 514.895px; font-size: 15.6969px; font-family: serif; transform: scaleX(0.937458);\">Kintada </span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935797,
@@ -316,8 +297,7 @@
         "D": "<p>Ming Hanedanlığı dönemi </p> ",
         "E": "<p>Tsing Hanedanlığı dönemi </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935533,
@@ -332,8 +312,7 @@
         "D": "<p>İran-Türk devri si</p>",
         "E": "<p>Gotik dönem mimarilerisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935548,
@@ -348,8 +327,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II, III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935555,
@@ -364,8 +342,7 @@
         "D": "<p>MÖ.6500-5000</p>",
         "E": "<p>MÖ.9000-5000</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935558,
@@ -380,8 +357,7 @@
         "D": "<p>Kirmanşahta</p>",
         "E": "<p>Tebrizde</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935560,
@@ -396,8 +372,7 @@
         "D": "<p>Gudea</p>",
         "E": "<p>Mabed</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935566,
@@ -412,8 +387,7 @@
         "D": "<p>Zevvare Mescid-i Cuma</p> ",
         "E": "<p>Şiraz Mescid- Cuma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935587,
@@ -428,8 +402,7 @@
         "D": "<p>Mine tekniği</p>",
         "E": "<p>Yaldızlama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935596,
@@ -444,8 +417,7 @@
         "D": "<p>Lahore Sarayı.</p>",
         "E": "<p>Tac Mahal.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935614,
@@ -460,8 +432,7 @@
         "D": "<p>Simurg</p>",
         "E": "<p>Siren</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935618,
@@ -476,8 +447,7 @@
         "D": "<p>Sadece I</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935644,
@@ -492,8 +462,7 @@
         "D": "<p>Yunen Moğol Hanedanlığı (1260-1368)</p>",
         "E": "<div class=\"page\" title=\"Page 29\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kamakura Hanedanlığı (1192- 1333)</p> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935652,
@@ -508,8 +477,7 @@
         "D": "<p>Ming Hanedanlığı</p>",
         "E": "<p>Tsing Hanedanlığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935657,
@@ -524,8 +492,7 @@
         "D": "<p>MÖ. 150</p>",
         "E": "<p>MÖ. 4. yüzyıl</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935693,
@@ -540,8 +507,7 @@
         "D": "<p>Cihan Şah</p>",
         "E": "<p>Harun Reşid</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935703,
@@ -556,8 +522,7 @@
         "D": "<p>Mabedlerin Gopuran adı verilen duvarla çevrili olması</p>",
         "E": "<p>Öne çıkan eserler arasında Bhubanesvar, Kaarak ve Makesvara mabedleri yer alır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935707,
@@ -572,8 +537,7 @@
         "D": "<p>Sasani Uygarlığı</p>",
         "E": "<p>Part Uygarlığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935793,
@@ -588,8 +552,7 @@
         "D": "<p>Stupa </p> ",
         "E": " <p>Vimana </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935812,
@@ -604,8 +567,7 @@
         "D": "<p>Eski Hint Evleri</p>",
         "E": "<p>Tac Mahal</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935813,
@@ -620,8 +582,7 @@
         "D": "<p>Ciacing evresinde</p>",
         "E": "<p>Gansu seramikleri evresinde</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935482,
@@ -636,8 +597,7 @@
         "D": "<p>Pasargadai</p>",
         "E": "<p>Şiraz</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935509,
@@ -652,8 +612,7 @@
         "D": "<p>Sung Hanedanlığı</p>",
         "E": "<p>Yunen Moğol Hanedanlığı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935511,
@@ -668,8 +627,7 @@
         "D": "<p>Motonobu</p>",
         "E": "<p>Kanaoka</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935536,
@@ -684,8 +642,7 @@
         "D": "<p>Sipehsalar Camii</p>",
         "E": "<p>Ali Şah Camii’nin</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935543,
@@ -700,8 +657,7 @@
         "D": "<p>Ateşgede</p>",
         "E": "<p>Amulet</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935561,
@@ -716,8 +672,7 @@
         "D": "<p>Medlerin</p>",
         "E": "<p>Selefkosların</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935603,
@@ -732,8 +687,7 @@
         "D": "<p>Med</p>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sasani</p> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935609,
@@ -748,8 +702,7 @@
         "D": "<p>Vimana</p>",
         "E": "<p>Mabed</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935616,
@@ -764,8 +717,7 @@
         "D": "<p>Sadece I</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935650,
@@ -780,8 +732,7 @@
         "D": "<p>Pitogram</p>",
         "E": "<p>Fohi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935656,
@@ -796,8 +747,7 @@
         "D": "<p>Kirman</p>",
         "E": "<p>Kumaçi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935687,
@@ -812,8 +762,7 @@
         "D": "<p>Ming Hanedanlığı</p>",
         "E": "<p>Tsing Hanedanlığı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935717,
@@ -828,8 +777,7 @@
         "D": "<p>Zhou Hanedanlığı</p>",
         "E": "<p>Tang Hanedanlığı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935720,
@@ -844,8 +792,7 @@
         "D": "<p>Persopolis</p> ",
         "E": "<p>Behistun</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935737,
@@ -860,8 +807,7 @@
         "D": "<p>14. Yüzyıl</p>",
         "E": "<p>19. Yüzyıl</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935791,
@@ -876,8 +822,7 @@
         "D": "<p>Fresk </p> ",
         "E": "<p>Revak </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935792,
@@ -892,8 +837,7 @@
         "D": "<p>Safevi</p>",
         "E": "<p>Çinli </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935513,
@@ -908,8 +852,7 @@
         "D": "<p>Kubbe</p>",
         "E": "<p>Kerpiç</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935525,
@@ -924,8 +867,7 @@
         "D": "<p>Ateşgede</p>",
         "E": "<p>Abadana</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935526,
@@ -940,8 +882,7 @@
         "D": "<p>Kerub</p>",
         "E": "<p>Revak</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935541,
@@ -956,8 +897,7 @@
         "D": "<p>anıt mezarlar</p>",
         "E": "<p>Çin stupaları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935574,
@@ -972,8 +912,7 @@
         "D": "<p>Ahşap.</p>",
         "E": "<p>Taş.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935632,
@@ -988,8 +927,7 @@
         "D": "<p>Ziggurat</p>",
         "E": "<p>Stoa</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935679,
@@ -1004,8 +942,7 @@
         "D": "<p>Makesvara Mâbedi</p>",
         "E": "<p>Bhubanesvar Mâbedi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935688,
@@ -1020,8 +957,7 @@
         "D": "<p>Horiuji Mabedi</p>",
         "E": "<p>Toci Mabedi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935695,
@@ -1036,8 +972,7 @@
         "D": "<p>Yağ kabı</p>",
         "E": "<p>Şarap kabı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935711,
@@ -1052,8 +987,7 @@
         "D": "<p>Brahmanlığa ait Mimari</p>",
         "E": "<p>Modern Hin Mimarisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935731,
@@ -1068,8 +1002,7 @@
         "D": "<p>Katoliklik</p>",
         "E": "<p>Şintoizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935736,
@@ -1084,8 +1017,7 @@
         "D": "<p>Tahran</p>",
         "E": "<p>Şam</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935745,
@@ -1100,8 +1032,7 @@
         "D": "<p>Kutsal havuz</p>",
         "E": "<p>Saray</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935774,
@@ -1116,8 +1047,7 @@
         "D": "<p> Tac Mahal</p>",
         "E": "<p> Şaytiya</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935779,
@@ -1132,8 +1062,7 @@
         "D": "<p> Seramik</p>",
         "E": "<p> Kalker</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935478,
@@ -1148,8 +1077,7 @@
         "D": "<p>Feng-shui</p>",
         "E": "<p>Fohi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935518,
@@ -1164,8 +1092,7 @@
         "D": "<p>I, II ve IV</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935581,
@@ -1180,8 +1107,7 @@
         "D": "<p>Tsing Hanedanlığı.</p>",
         "E": "<p>Yunen Moğol Hanedanlığı.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935585,
@@ -1196,8 +1122,7 @@
         "D": "<p>Yüksek ısıda pişirilen gözeneksiz sert hamurlu seramiklerin yüzeylerine ejder, baykuş ve değişik kuş figürleri işlenmiştir.</p>",
         "E": "<p>Koyu yeşil renkli sıraltına kuş ve hayvan tasvirleri yapmışlardır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935665,
@@ -1212,8 +1137,7 @@
         "D": "<p>2</p>",
         "E": "<p>1</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935670,
@@ -1228,8 +1152,7 @@
         "D": "<p>Zevvare Mescid-i Cuma</p>",
         "E": "<p>Gülpayegan Mescid-i Cuma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935671,
@@ -1244,8 +1167,7 @@
         "D": "<p>Ahamenid Devri/Persler</p>",
         "E": "<p>Part ve Sasani Devri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935677,
@@ -1260,8 +1182,7 @@
         "D": "<p>Amol</p>",
         "E": "<p>Savat</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935683,
@@ -1276,8 +1197,7 @@
         "D": "<p>Qin Hanedanlığı</p>",
         "E": "<p>Shaing(Yin) Hanedanlığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935689,
@@ -1292,8 +1212,7 @@
         "D": "<p>Kanaoka</p> ",
         "E": "<p>Motomisa</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935700,
@@ -1308,8 +1227,7 @@
         "D": "<p>Mara Bathi</p>",
         "E": "<p>Yan Ki Te</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935723,
@@ -1324,8 +1242,7 @@
         "D": "<p>İran</p> ",
         "E": "<p>Japonya</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935735,
@@ -1340,8 +1257,7 @@
         "D": "<p>Sasani</p>",
         "E": "<p>Pehlevi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935768,
@@ -1356,8 +1272,7 @@
         "D": "<p> Revak</p>",
         "E": "<p> Ribat</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935796,
@@ -1372,8 +1287,7 @@
         "D": "<p>Sui Hanedanlığı </p> ",
         "E": "<p>Mançu Hanedanlığı </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935809,
@@ -1388,8 +1302,7 @@
         "D": "<p>6</p>",
         "E": "<p>2</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935811,
@@ -1404,8 +1317,7 @@
         "D": "<p>İran-Moğol-Türk devri</p>",
         "E": "<p>İran-Türk devri ikinci dönem</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935488,
@@ -1420,8 +1332,7 @@
         "D": "<p>Tahran</p>",
         "E": "<p>Kaşan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935492,
@@ -1436,8 +1347,7 @@
         "D": "<p>Brahmacılığa ait manastırlar</p>",
         "E": "<p>Mezopotamya ziguratları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935505,
@@ -1452,8 +1362,7 @@
         "D": "<p>Ekber</p>",
         "E": "<p>Tebrizli Hüseyin</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935592,
@@ -1468,8 +1377,7 @@
         "D": "<p>Abadana.</p>",
         "E": "<p>Ateşgede.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935597,
@@ -1484,8 +1392,7 @@
         "D": "<p>Japonya.</p>",
         "E": "<p>Birleşik Kırallık.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935623,
@@ -1500,8 +1407,7 @@
         "D": "<p>Çin sanatı</p>",
         "E": "<p>Japon sanatı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935654,
@@ -1516,8 +1422,7 @@
         "D": "<p>Persler</p>",
         "E": "<p>Selefkoslar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935658,
@@ -1532,8 +1437,7 @@
         "D": "<p>Gopuran</p>",
         "E": "<p>Stupa</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935682,
@@ -1548,8 +1452,7 @@
         "D": "<p>Seramik</p> ",
         "E": "<p>Tuğla</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935698,
@@ -1564,8 +1467,7 @@
         "D": "<p>Nguyen Sarayı</p>",
         "E": "<p>Boyan Mabedi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935702,
@@ -1580,8 +1482,7 @@
         "D": "<p>Korin</p>",
         "E": "<p>Hoitzu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935710,
@@ -1596,8 +1497,7 @@
         "D": "<p>Hamedan</p>",
         "E": "<p>Susyan</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935775,
@@ -1612,8 +1512,7 @@
         "D": "<p> Feng-shui</p>",
         "E": "<p> fohi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935790,
@@ -1628,8 +1527,7 @@
         "D": "<p class=\"p1\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman';\">Selefkos<span class=\"apple-converted-space\"> </span></span></p> <p class=\"p1\"> </p>",
         "E": "<p class=\"p1\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman';\">Sasani<span class=\"apple-converted-space\"> </span></span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935515,
@@ -1644,8 +1542,7 @@
         "D": "<p>İlhanlılar</p>",
         "E": "<p>Türkistan’dan gelen mimar ve sanatkârlar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935549,
@@ -1660,8 +1557,7 @@
         "D": "<p>Japonya</p>",
         "E": "<p>Pakistan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935588,
@@ -1676,8 +1572,7 @@
         "D": "<p>Cayna/Merkezi Hindistan üslubu</p>",
         "E": "<p>Kuzey ve Doğu Hindistan üslubu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935600,
@@ -1692,8 +1587,7 @@
         "D": "<p>İpek dokuma</p>",
         "E": "<p>Buda heykeli</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935630,
@@ -1708,8 +1602,7 @@
         "D": "<p>Sadece III</p>",
         "E": "<p>Sadece I</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935681,
@@ -1724,8 +1617,7 @@
         "D": "<p>Hristiyanlık</p> ",
         "E": "<p>İsevilik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935685,
@@ -1740,8 +1632,7 @@
         "D": "<p>Ming Hanedanlığı (1368-1643)</p>",
         "E": "<p>Tsing Hanedanlığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935751,
@@ -1756,8 +1647,7 @@
         "D": "<p>Stupa</p>",
         "E": "<p>Vihara</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935763,
@@ -1772,8 +1662,7 @@
         "D": "<p>Togan</p>",
         "E": "<p>Shioyei</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935777,
@@ -1788,8 +1677,7 @@
         "D": "<p> Hind-i Çin</p>",
         "E": "<p> Japon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935781,
@@ -1804,8 +1692,7 @@
         "D": "<p>Kiros</p>",
         "E": "<p>II. Kiros</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935785,
@@ -1820,8 +1707,7 @@
         "D": "<p>Stupa</p>",
         "E": "<p>Manastır</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935789,
@@ -1836,8 +1722,7 @@
         "D": "<p>Kabanari</p>",
         "E": "<p>Motonobu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935473,
@@ -1852,8 +1737,7 @@
         "D": "<p>Abadana</p>",
         "E": "<p>Mabed</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935495,
@@ -1868,8 +1752,7 @@
         "D": "<p>Nakş-ı Rüstem</p>",
         "E": "<p>Abadana</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935499,
@@ -1884,8 +1767,7 @@
         "D": "<p>Lotus Çiçeği</p>",
         "E": "<p>Kaplan Figürü</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935512,
@@ -1900,8 +1782,7 @@
         "D": "<p>Uzun Hasan</p>",
         "E": "<p>II. Hüsrev-i Perviz</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935528,
@@ -1916,8 +1797,7 @@
         "D": "<p>Fohi</p>",
         "E": "<p>Feng-shui</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935535,
@@ -1932,8 +1812,7 @@
         "D": "<p>Tak-ı Kisra Camii</p>",
         "E": "<p>Kazvin Cuma Camii</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935624,
@@ -1948,8 +1827,7 @@
         "D": "<p>Şaytiyalarda bulunurlar</p>",
         "E": "<p>Stupalarda bulunurlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935633,
@@ -1964,8 +1842,7 @@
         "D": "<p>İvriz Anıtı</p>",
         "E": "<p>Behistun Anıtı </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935672,
@@ -1980,8 +1857,7 @@
         "D": "<p>Gazneliler</p>",
         "E": "<p>Türkler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935714,
@@ -1996,8 +1872,7 @@
         "D": "<p>Şua</p>",
         "E": "<p>Stupa</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935721,
@@ -2012,8 +1887,7 @@
         "D": "<p>Tak-ı Kisra</p> ",
         "E": "<p>Persepolis</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935732,
@@ -2028,8 +1902,7 @@
         "D": "<p>Revnak</p>",
         "E": "<p>Avlu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935761,
@@ -2044,8 +1917,7 @@
         "D": "<p>Ajunta Mabedi</p>",
         "E": "<p>Gwalior Sarayı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935772,
@@ -2060,8 +1932,7 @@
         "D": "<p>Dravid üslubu</p>",
         "E": "<p>Güney Hindistan üslubu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935776,
@@ -2076,8 +1947,7 @@
         "D": "<p>&nbsp;II ve III</p>",
         "E": "<p>&nbsp;I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935805,
@@ -2092,8 +1962,7 @@
         "D": "<p>6</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935480,
@@ -2108,8 +1977,7 @@
         "D": "<p>Kerub</p>",
         "E": "<p>Fohi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935493,
@@ -2124,8 +1992,7 @@
         "D": "<p>Türkiye</p>",
         "E": "<p>Irak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935498,
@@ -2140,8 +2007,7 @@
         "D": "<p>İpek dokuma eşyalarının üretilmesi</p>",
         "E": "<p>Seramik eşyaların üretilmesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935523,
@@ -2156,8 +2022,7 @@
         "D": "<p>Fresk</p>",
         "E": "<p>Revak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935527,
@@ -2172,8 +2037,7 @@
         "D": "<p>Feng-shui</p>",
         "E": "<p>Fohi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935613,
@@ -2188,8 +2052,7 @@
         "D": "<p>Ziggurat</p>",
         "E": "<p>Mastaba</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935635,
@@ -2204,8 +2067,7 @@
         "D": "<p>Cafer Baysunguri</p>",
         "E": "<p>Levni</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935639,
@@ -2220,8 +2082,7 @@
         "D": "<p>Malezya</p>",
         "E": "<p>Vietnam</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935653,
@@ -2236,8 +2097,7 @@
         "D": "<p>Avustralya</p>",
         "E": "<p>Antarktika</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935676,
@@ -2252,8 +2112,7 @@
         "D": "<p>Timurlular</p>",
         "E": "<p>Fatımiler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935782,
@@ -2268,8 +2127,7 @@
         "D": "<p>Bağdat</p>",
         "E": "<p>Suriye</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935814,
@@ -2284,8 +2142,7 @@
         "D": "<p>Makimono</p>",
         "E": "<p>Tosa okulu resimleri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935564,
@@ -2300,8 +2157,7 @@
         "D": "<p>Cayna</p>",
         "E": "<p>Peristil</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935580,
@@ -2316,8 +2172,7 @@
         "D": "<p>Zhou Hanedanlığı (MÖ 1046-256).</p>",
         "E": "<p>Tang Hanedanlığı (618-907/917).</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935594,
@@ -2332,8 +2187,7 @@
         "D": "<p>Dor.</p>",
         "E": "<p>Brahma.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935631,
@@ -2348,8 +2202,7 @@
         "D": "<p>Qin Hanedanlığı</p>",
         "E": "<p>Doğu Zhou Hanedanlığı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935649,
@@ -2364,8 +2217,7 @@
         "D": "<p>Gopuran</p>",
         "E": "<p>Amalaka</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935655,
@@ -2380,8 +2232,7 @@
         "D": "<p>Karakoyunlular</p>",
         "E": "<p>Kaçar Hanedanlığı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935762,
@@ -2396,8 +2247,7 @@
         "D": "<p>Cang-Ki</p>",
         "E": "<p>Gu Kaizhi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935767,
@@ -2412,8 +2262,7 @@
         "D": "<p>13. yy.</p>",
         "E": "<p>15. yy.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935800,
@@ -2428,8 +2277,7 @@
         "D": "<p>2400'lü</p>",
         "E": "<p>2600'lü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935508,
@@ -2444,8 +2292,7 @@
         "D": "<p>Zou Beyliği</p>",
         "E": "<p>Ming Hanedanlığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935521,
@@ -2460,8 +2307,7 @@
         "D": "<p>Japonya</p>",
         "E": "<p>Seyşeller</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935545,
@@ -2476,8 +2322,7 @@
         "D": "<p>Doğu Hindistan Üslubu</p>",
         "E": "<p>Batı Hindistan Üslubu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935576,
@@ -2492,8 +2337,7 @@
         "D": "<p>Turkuaz sırlı çiniler.</p>",
         "E": "<p>Lacivert sırlı tuğla ve çiniler.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935622,
@@ -2508,8 +2352,7 @@
         "D": "<p>Nişabur</p>",
         "E": "<p>Kaşan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935626,
@@ -2524,8 +2367,7 @@
         "D": "<p>Song Hanedanlığı</p>",
         "E": "<p>Yuan Hanedanlığı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935628,
@@ -2540,8 +2382,7 @@
         "D": "<p>Japon heykel geleneği</p>",
         "E": "<p>Japon resim türü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935636,
@@ -2556,8 +2397,7 @@
         "D": "<p>Afgan -İran Sanatı ve İslam Devri Sanatı</p>",
         "E": "<p>Eski İran Sanatı ve İran İslam Devri Sanatı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935662,
@@ -2572,8 +2412,7 @@
         "D": "<p>Fogong tapınağı</p>",
         "E": "<p>Vedo’nun üç tapınağı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935668,
@@ -2588,8 +2427,7 @@
         "D": "<p>Palmet</p>",
         "E": "<p>Kıvrımlı Dal</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935692,
@@ -2604,8 +2442,7 @@
         "D": "<p>Nuşirevan</p>",
         "E": "<p>Tak-ı Kisra</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935701,
@@ -2620,8 +2457,7 @@
         "D": "<p>Hidari Zingora</p>",
         "E": "<p>Seymim Toun</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935758,
@@ -2636,8 +2472,7 @@
         "D": "<p>i-İran-Moğol devri ii-İlhanlı hükümdarı Argun Han</p>",
         "E": "<p>i-İran-Türk devri ilk dönem ii-Büyük Selçuklu Sultanı Melikşah</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935506,
@@ -2652,8 +2487,7 @@
         "D": "<p>Bayon Mabedi</p>",
         "E": "<p>Khamer Mabedi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935516,
@@ -2668,8 +2502,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935529,
@@ -2684,8 +2517,7 @@
         "D": "<p>Fohi</p>",
         "E": "<p>Feng-shui</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935544,
@@ -2700,8 +2532,7 @@
         "D": "<p>Ali Şah Camii’</p>",
         "E": "<p>Zevvare Mescid-i Cuması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935553,
@@ -2716,8 +2547,7 @@
         "D": "<p>Persler</p>",
         "E": "<p>Selefkoslar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935557,
@@ -2732,8 +2562,7 @@
         "D": "<p>Tebriz</p>",
         "E": "<p>Bağdat</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935606,
@@ -2748,8 +2577,7 @@
         "D": "<p>Med</p>",
         "E": "<p>Büyük Selçuklu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935610,
@@ -2764,8 +2592,7 @@
         "D": "<div class=\"page\" title=\"Page 20\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Pitogram</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 20\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Fohi</p> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935629,
@@ -2780,8 +2607,7 @@
         "D": "<p>Sadece I</p>",
         "E": "<p>sadece II</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935660,
@@ -2796,8 +2622,7 @@
         "D": "<p>Ying-yang</p>",
         "E": "<p>Buda</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935727,
@@ -2812,8 +2637,7 @@
         "D": "<p>Tahran</p>",
         "E": "<p>Herat</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935730,
@@ -2828,8 +2652,7 @@
         "D": "<p>Sasani-4000</p>",
         "E": "<p>Etrüsk-MÖ 3000</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935472,
@@ -2844,8 +2667,7 @@
         "D": "<p>Kerub</p>",
         "E": "<p>Ateşgede</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935534,
@@ -2860,8 +2682,7 @@
         "D": "<p>İnsan başlı-boğa vücutlu karışık yaratıklardır.</p>",
         "E": "<p>İnsan vücutlu at heykelleridir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935547,
@@ -2876,8 +2697,7 @@
         "D": "<p>Kaylassa Mabedi</p>",
         "E": "<p>Khamer Mabedi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935559,
@@ -2892,8 +2712,7 @@
         "D": "<p>Ateşgede</p>",
         "E": "<p>Nar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935570,
@@ -2908,8 +2727,7 @@
         "D": "<p>Hondo</p> ",
         "E": "<p>Shinto</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935593,
@@ -2924,8 +2742,7 @@
         "D": "<p>10. yüzyıl.</p>",
         "E": "<p>13. yüzyıl.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935651,
@@ -2940,8 +2757,7 @@
         "D": "<p>Tsing Hanedanlığı</p>",
         "E": "<p>Ming Hanedanlığı dönemi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935713,
@@ -2956,8 +2772,7 @@
         "D": "<p>Ateşgede</p>",
         "E": "<p>Kerub</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935766,
@@ -2972,8 +2787,7 @@
         "D": "<p><span style=\"left: 132.284px; top: 471.378px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.986566);\">Tsing Hanedanlığı</span></p>",
         "E": "<p><span style=\"left: 132.284px; top: 319.711px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.99498);\">Yunen Moğol Hanedanlığı </span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935778,
@@ -2988,8 +2802,7 @@
         "D": "<p> Hint uygarlığı</p>",
         "E": "<p>Hind-i Çin uygarlığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935801,
@@ -3004,8 +2817,7 @@
         "D": "<p>Murgab</p>",
         "E": "<p>Pasargadai</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935537,
@@ -3020,8 +2832,7 @@
         "D": "<p>Yemen'li sanatçı sanatçı ve ressamlar</p>",
         "E": "<p>Uygur'lu sanatçı ve ressamlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935546,
@@ -3036,8 +2847,7 @@
         "D": "<p>Şaytiya</p>",
         "E": "<p>Stupa</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935552,
@@ -3052,8 +2862,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935604,
@@ -3068,8 +2877,7 @@
         "D": "<div class=\"page\" title=\"Page 5\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kerub</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Revak</p> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935607,
@@ -3084,8 +2892,7 @@
         "D": "<p>Budizm</p>",
         "E": "<p>Yahudilik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935643,
@@ -3100,8 +2907,7 @@
         "D": "<p>Somin</p>",
         "E": "<p>Daibuts</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935798,
@@ -3116,8 +2922,7 @@
         "D": "<p>Budacılıktan</p> ",
         "E": " <p>Şiirden</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935484,
@@ -3132,8 +2937,7 @@
         "D": "<p>İnsan başlı-yılan vücutlu karışık yaratıklardır</p>",
         "E": "<p>İnsan başlı-balık vücutlu karışık yaratıklardır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935510,
@@ -3148,8 +2952,7 @@
         "D": "<p>Budacılığa ait tapınakları</p>",
         "E": "<p>Abidevi kapıları bulunan duvarı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935598,
@@ -3164,8 +2967,7 @@
         "D": "MS. 896.",
         "E": "MÖ.2000",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935642,
@@ -3180,8 +2982,7 @@
         "D": "<p>Taoculuğa ve Budacılığa bağlı büyük adamlarla kahraman ve ata olan kişiler oldukları gibi değil, ölümden sonra ulaşacakları dinginlik ve sükuneti ifade edecek bir çehreyle tasvir edilmişlerdir</p>",
         "E": "<p>Günlük yaşamdaki insanlar ideal güzellikte yapılmışlardır, tüm Tanrıları da insanlar şeklindedir. </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935691,
@@ -3196,8 +2997,7 @@
         "D": "<p>Kirmanmşah</p>",
         "E": "<p>Sus</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935706,
@@ -3212,8 +3012,7 @@
         "D": "<p>I, IV, V</p>",
         "E": "<p>II, III, IV, V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935770,
@@ -3228,8 +3027,7 @@
         "D": "<p> <a href=\"https://tr.wikipedia.org/wiki/Sahn-%C4%B1_Seman_Medresesi\">Sahn-ı Seman</a>medreseleri </p>",
         "E": "<p>Selçklu medreseleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935787,
@@ -3244,8 +3042,7 @@
         "D": "<p>Vietnam</p>",
         "E": "<p>Japonya</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935788,
@@ -3260,8 +3057,7 @@
         "D": "<p>Moğol</p>",
         "E": "<p>&Ccedil;in</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935807,
@@ -3276,8 +3072,7 @@
         "D": "<p>6</p>",
         "E": "<p>4</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935474,
@@ -3292,8 +3087,7 @@
         "D": "<p>Ateşgede</p>",
         "E": "<p>Mabed</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935524,
@@ -3308,8 +3102,7 @@
         "D": "<p>Revak</p>",
         "E": "<p>Dravid</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935661,
@@ -3324,8 +3117,7 @@
         "D": "<p>Hind-i Çin</p>",
         "E": "<p>Hint</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935697,
@@ -3340,8 +3132,7 @@
         "D": "<p>Timurlular</p>",
         "E": "<p>Babürlüler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935725,
@@ -3356,8 +3147,7 @@
         "D": "<p>Tuğlular</p>",
         "E": "<p>Babür</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935783,
@@ -3372,8 +3162,7 @@
         "D": "<p>İran</p>",
         "E": "<p>Çin</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935475,
@@ -3388,8 +3177,7 @@
         "D": "<p>Stupa</p>",
         "E": "<p>Fohi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935571,
@@ -3404,8 +3192,7 @@
         "D": "<p>Yashiki</p> ",
         "E": "<p>Hondo</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935589,
@@ -3420,8 +3207,7 @@
         "D": "<p>Mabed</p>",
         "E": "<p>Dravid</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935601,
@@ -3436,8 +3222,7 @@
         "D": "<p>Hindistan</p>",
         "E": "<p>Pakistan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935605,
@@ -3452,8 +3237,7 @@
         "D": "<p>Şamdan</p>",
         "E": "<p>Küpe</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935678,
@@ -3468,8 +3252,7 @@
         "D": "<p>Sanat adamları</p>",
         "E": "<p>Savaşçılar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935748,
@@ -3484,8 +3267,7 @@
         "D": "<p>Revak</p>",
         "E": "<p>Stupa</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935489,
@@ -3500,8 +3282,7 @@
         "D": "<p>Şerafeddin Ali Yezdi</p>",
         "E": "<p>Derviş Muhammed</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935531,
@@ -3516,8 +3297,7 @@
         "D": "<p>Pitogram</p>",
         "E": "<p>Fohi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935539,
@@ -3532,8 +3312,7 @@
         "D": "<p>Sasani</p>",
         "E": "<p>Mısır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935569,
@@ -3548,8 +3327,7 @@
         "D": "<p>Budizm</p> ",
         "E": "<p>Konfiçyus</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935619,
@@ -3564,8 +3342,7 @@
         "D": "<p>Mabed</p>",
         "E": "<p>Gopuran</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935699,
@@ -3580,8 +3357,7 @@
         "D": "<p>Qin Hanedanlığı</p>",
         "E": "<p>Ming Hanedanlığı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935718,
@@ -3596,8 +3372,7 @@
         "D": "<p>Hatshiman, Gosho ve Obaku Mabetleri</p>",
         "E": "<p>Nagoya, Shiba ve Gosho Mabetleri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935741,
@@ -3612,8 +3387,7 @@
         "D": "<p>Ateşgede</p>",
         "E": "<p>Abadana</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935744,
@@ -3628,8 +3402,7 @@
         "D": "<p>Mazgallı kule</p>",
         "E": "<p>Türbe</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935749,
@@ -3644,8 +3417,7 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935810,
@@ -3660,8 +3432,7 @@
         "D": "<p>Fresk</p>",
         "E": "<p>Revak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935502,
@@ -3676,8 +3447,7 @@
         "D": "<p>Ellora Mabedi</p>",
         "E": "<p>Taht-ı Cemşit</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935556,
@@ -3692,8 +3462,7 @@
         "D": "<p>2.Darius</p>",
         "E": "<p>Pesius</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935615,
@@ -3708,8 +3477,7 @@
         "D": "<p>Persler</p>",
         "E": "<p>Sasaniler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935663,
@@ -3724,8 +3492,7 @@
         "D": "<p>Mezopotamya Ziguratları</p>",
         "E": "<p>Nepal evleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935669,
@@ -3740,8 +3507,7 @@
         "D": "<p>Ahamenid Devri</p>",
         "E": "<p>Part ve Sasani Devri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935738,
@@ -3756,8 +3522,7 @@
         "D": "<p>2000-3000 yıl önce</p>",
         "E": "<p>800-900 yıl önce</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935538,
@@ -3772,8 +3537,7 @@
         "D": "<p>oyma tekniği</p>",
         "E": "<p>Ajur tekniği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935573,
@@ -3788,8 +3552,7 @@
         "D": "<p>Part döneminde.</p>",
         "E": "<p>Med döneminde.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935584,
@@ -3804,8 +3567,7 @@
         "D": "<p>Cengiz Han’ın zaferleri.</p>",
         "E": "<p>Karakoyunlu hükümdarı Cihan Şah.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935590,
@@ -3820,8 +3582,7 @@
         "D": "<p>Sasaniler.</p>",
         "E": "<p>Medler. </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935765,
@@ -3836,8 +3597,7 @@
         "D": "<p>Yunen Moğol Hanedanlığı</p>",
         "E": "<p>Tsing Hanedanlığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935487,
@@ -3852,8 +3612,7 @@
         "D": "<p>Revak</p>",
         "E": "<p>Tonoz</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935666,
@@ -3868,8 +3627,7 @@
         "D": "<p>Selefkos</p>",
         "E": "<p>Part</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935680,
@@ -3884,8 +3642,7 @@
         "D": "<p>Hint İslam Devri</p>",
         "E": "<p>İran Arap Devri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935746,
@@ -3900,8 +3657,7 @@
         "D": "<p>Tac Mahal</p>",
         "E": "<p>Ajunta Mabetleri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935795,
@@ -3916,8 +3672,7 @@
         "D": " <p>Ying-yang </p> ",
         "E": "<p>Budizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935481,
@@ -3932,8 +3687,7 @@
         "D": "<p>Thang Hanedanlığı dönemi</p>",
         "E": "<p>Sung Hanedanlığı dönemi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935491,
@@ -3948,8 +3702,7 @@
         "D": "<p>Vihara</p>",
         "E": "<p>Stupa</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935517,
@@ -3964,8 +3717,7 @@
         "D": "<p>Havuz</p>",
         "E": "<p>Mabed</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935520,
@@ -3980,8 +3732,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>Yalnız III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935522,
@@ -3996,8 +3747,7 @@
         "D": "<p>Abadana</p>",
         "E": "<p>Merkez bina</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935540,
@@ -4012,8 +3762,7 @@
         "D": "<p>Ellora</p>",
         "E": "<p>Allah-Abad,</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935568,
@@ -4028,8 +3777,7 @@
         "D": "<p>Cayna</p> ",
         "E": "<p>Amalaka</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935586,
@@ -4044,8 +3792,7 @@
         "D": "<p>Lacvardina</p>",
         "E": "<p>Minai</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935634,
@@ -4060,8 +3807,7 @@
         "D": "<p>Agora</p>",
         "E": "<p>Stoa</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935722,
@@ -4076,8 +3822,7 @@
         "D": "<p>Ahşap hatıllı duvar örgü sistemi</p> ",
         "E": "<p>Sandıklama tekniğindeki duvar örgüsü</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935780,
@@ -4092,8 +3837,7 @@
         "D": "<p>Artakserkses</p>",
         "E": "<p>Kyaksares</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935786,
@@ -4108,8 +3852,7 @@
         "D": "<p>Süleymaniye Camii</p>",
         "E": "<p>Emevi Camii</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935803,
@@ -4124,8 +3867,7 @@
         "D": "<p>1295</p>",
         "E": "<p>1315</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935806,
@@ -4140,8 +3882,7 @@
         "D": "<p>I, II, III ve V</p>",
         "E": "<p>I, III, IV ve V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935501,
@@ -4156,8 +3897,7 @@
         "D": "<p>Teyjo</p>",
         "E": "<p>Nakoshi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935554,
@@ -4172,8 +3912,7 @@
         "D": "<p>Mö.6000-MÖ.4000</p>",
         "E": "<p>MÖ.9500-7000</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935675,
@@ -4188,8 +3927,7 @@
         "D": "<p>Repousse</p>",
         "E": "<p>Niello</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935753,
@@ -4204,8 +3942,7 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935756,
@@ -4220,8 +3957,7 @@
         "D": "<p>Yezd Cuma Camii </p>",
         "E": "<p>Meşhed Gevher Şad Camii</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935759,
@@ -4236,8 +3972,7 @@
         "D": "<p>Veramin</p>",
         "E": "<p>Meşhed</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935808,
@@ -4252,8 +3987,7 @@
         "D": "<p>Ahşap</p>",
         "E": "<p>Demir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935477,
@@ -4268,8 +4002,7 @@
         "D": "<p>Lamaizm</p>",
         "E": "<p>Ying-yang</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935667,
@@ -4284,8 +4017,7 @@
         "D": "<p>Behistun Anıtı</p>",
         "E": "<p>Kerub</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935704,
@@ -4300,8 +4032,7 @@
         "D": "<p>Taç Mahal</p>",
         "E": "<p>Ajunta Mabedi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935739,
@@ -4316,8 +4047,7 @@
         "D": "<p>Müzik sanatı</p>",
         "E": "<p>Süsleme sanatı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935794,
@@ -4332,8 +4062,7 @@
         "D": "<p>Babürlüler </p>",
         "E": "<p>Osmanlılar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935542,
@@ -4348,8 +4077,7 @@
         "D": "<p>Kerub</p>",
         "E": "<p>Pagoda</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935562,
@@ -4364,8 +4092,7 @@
         "D": "<p>Selefkos</p>",
         "E": "<p>Sasani</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935799,
@@ -4380,8 +4107,7 @@
         "D": "<p>8. yüzyılda </p>",
         "E": "<p>9. yüzyılda </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935504,
@@ -4396,8 +4122,7 @@
         "D": "<p>Siriringam Mabedi</p>",
         "E": "<p>Hallabid Mâbedi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935641,
@@ -4412,8 +4137,7 @@
         "D": "<p>Chan</p>",
         "E": "<p>Yang-çe-kiyang</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935551,
@@ -4428,8 +4152,7 @@
         "D": "<p>Kabanari</p>",
         "E": "<p>Kano</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935647,
@@ -4444,8 +4167,7 @@
         "D": "<p>Cayna/Merkezi Hindistan üslubu</p>",
         "E": "<p>Kuzey ve Doğu Hindistan üslubu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935715,
@@ -4460,8 +4182,7 @@
         "D": "<p>Kerpiç</p>",
         "E": "<p>Toprak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935595,
@@ -4476,8 +4197,7 @@
         "D": "<p>Mabed.</p>",
         "E": "<p>Vimana.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935638,
@@ -4492,8 +4212,7 @@
         "D": "<p>1-Kayalara oyulmak suretiyle 2- Ahşap evler olarak iki türde inşa edilmişlerdir</p>",
         "E": "<p>1- Ahşap Yığma tür,  2- Yer Altına ve 3 - Kayalara oyulmak suretiyle üç türde</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935716,
@@ -4508,7 +4227,696 @@
         "D": "<p>Paganizm</p>",
         "E": "<p>Hristiyanlık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935577,
+        "UniteNo": 2,
+        "PageNumber": 40,
+        "AnswerExplanation": "<p>Hepsi</p>\n<p>/İlhanlı devrinin l&uuml;ster teknikli &ccedil;inilerinde insan ve hayvan fig&uuml;rlerinin yanı sıra gezegen sembolleri, av, savaş, saray ve eğlence sahnelerine &ccedil;ok&ccedil;a yer verilmiştir./</p>",
+        "Title": "<p>İran İslam Devri Sanatı/ Seramik-Çini sanatı:</p>",
+        "Text": "İlhanlı devrinin l&uuml;ster teknikli &ccedil;inilerinde hangi s&uuml;slemeler yer alır?",
+        "A": "<p>İnsan&nbsp; fig&uuml;rleri.</p>",
+        "B": "<pre class=\"language-markup\"><code>Hepsi</code></pre>",
+        "C": "<p>Hayvan fig&uuml;rleri.</p>",
+        "D": "<p>Gezegen sembolleri.</p>",
+        "E": "<p>Av, savaş, saray ve eğlence sahneleri.</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935694,
+        "UniteNo": 2,
+        "PageNumber": 32,
+        "AnswerExplanation": "<p>Timurlu devri minyatür sanatının baş yapıtlarından Şehname'nin minyatürlerini yapan nakkaş Cafer Baysunguri'dir.</p>",
+        "Title": "<p>İRAN SANATI</p>",
+        "Text": "<p>Timurlu devri minyatür sanatının baş yapıtlarından Şehname'nin minyatürlerini yapan nakkaş aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Nakkaş Halil</p>",
+        "B": "<p>Cafer Baysunguri</p>",
+        "C": "<p>Kemalettin Bihzad</p>",
+        "D": "<p>Derviş Muhammed</p>",
+        "E": "<p>Rıza Abbasi</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935750,
+        "UniteNo": 2,
+        "PageNumber": 57,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 23\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Nanjing Kulesi çok katlı pagodaların en meşhurudur. Nanjing Kulesi, Ming Hanedanlığı döneminde 15. yüzyılda beyaz porselenden inşa edilmiştir.</p> </div> </div> </div>",
+        "Title": "",
+        "Text": "<div class=\"page\" title=\"Page 23\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Çok katlı pagodaların en meşhuru olan ve Ming Hanedanlığı döneminde 15.yy'da inşa edilen Nanjing Kulesi hangi malzemeden yapılmıştır?</p> </div> </div> </div>",
+        "A": "<p>Porselen</p>",
+        "B": "<p>Ahşap</p>",
+        "C": "<p>Kerpiç</p>",
+        "D": "<p>Betonarme</p>",
+        "E": "<p>Cam</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935804,
+        "UniteNo": 2,
+        "PageNumber": 39,
+        "AnswerExplanation": "<p>İran seramik çini sanatının 9. yüzyıl seramik merkezleri Nişabur, Semerkant, Rey ve Save’dir. Dolayısıyla cevap E şıkkıdır.</p>",
+        "Title": "",
+        "Text": "<p>İran seramik çini sanatının 9. yüzyıl seramik merkezleri aşağıdaki hangi seçeneklerde belirtilmiştir ?</p> <p>I-) Nişabur</p> <p>II-) Semerkant</p> <p>III-) Rey </p> <p>IV-) Save</p> <p>V-) Kaşan</p>",
+        "A": "<p>I, II, IV ve V</p>",
+        "B": "<p>II, III, IV ve V</p>",
+        "C": "<p>I, III, IV ve V</p>",
+        "D": "<p>I, II, III ve V</p>",
+        "E": "<p>I, II, III ve IV</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935500,
+        "UniteNo": 2,
+        "PageNumber": 59,
+        "AnswerExplanation": "<p>16. yüzyılda Japonya’nın geleneksel yapı malzemesi ahşap yerini giderek taş malzemeye bırakır. Osaka Kaleleri bu devrin en önemli kârgir yapılarıdır.</p>",
+        "Title": "",
+        "Text": "Aşağıdakilerden hangisi 16.yy Japonya mimarisinin en önemli kârgir yapılarından biridir?",
+        "A": "<p>Shiba,Onigeno ve Assaka Mabetleri</p>",
+        "B": "<p>Hatshiman Mabedi</p>",
+        "C": "<p>Yeyas Mabedi</p>",
+        "D": "<p>Osaka Kaleleri</p>",
+        "E": "<p>Nagoya Kasrı</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935519,
+        "UniteNo": 2,
+        "PageNumber": 49,
+        "AnswerExplanation": "<p>Bahsedilen bilmin adı feng-shuidir.</p>",
+        "Title": "",
+        "Text": "<p>\"iki bin yıl boyunca Çin ve Çin kültüründen beslenmiş milletlerde rüzgar ve su bilimine verilen<br />addır. Bu bilimin uzmanına sormadan ne ev, ne mezar yeri belirlenebilir. Önemli olan doğanın güçlerini en iyi şekilde etkileyebilmek için düzenlemek ve yönetmektir.\" Bahsedilen bilme ne ad verilmektedir?</p>",
+        "A": "<p>Fohi</p>",
+        "B": "<p>Pitogram</p>",
+        "C": "<p>Feng-shui</p>",
+        "D": "<p>Tonkin</p>",
+        "E": "<p>Başhma</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935733,
+        "UniteNo": 2,
+        "PageNumber": 34,
+        "AnswerExplanation": "<p><strong>Ateşgede: </strong>Eski İran’da Zerdüştler’in ateşe tapmak üzere yaptıkları tapınaklara ataşgede denir. Önlerindeki bir avlu bulunan yaklaşık iki metre yükseklikteki kare tabanlı bir kaide üzerinde yükselen, köşelerindeki birer payenin bulunduğu kutsal makamlardır.</p>",
+        "Title": "",
+        "Text": "<p>Eski İran’da Zerdüştler’in ateşe tapmak üzere yaptıkları tapınaklara ne ad verilir?</p>",
+        "A": "<p>Ateşgede</p>",
+        "B": "<p>Ateşdergani</p>",
+        "C": "<p>Ahura Mazda</p>",
+        "D": "<p>Mabed</p>",
+        "E": "<p>Tümülüs</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935483,
+        "UniteNo": 2,
+        "PageNumber": 34,
+        "AnswerExplanation": "<p>Eski İran’da Zerdüştler’in ateşe tapmak üzere yaptıkları tapınaklara ataşgede denir.</p>",
+        "Title": "<p>Eski İran’da Zerdüştler’in ateşe tapmak üzere yaptıkları tapınaklara ataşgede denir. Önlerindeki bir avlu bulunan yaklaşık iki metre yükseklikteki kare tabanlı bir kaide üzerinde yükselen, köşelerindeki birer payenin bulunduğu kutsal makamlardır.</p>",
+        "Text": "<p>Eski İran’da Zerdüştler’in ateşe tapmak üzere yaptıkları tapınaklara ne denir?</p>",
+        "A": "<p>Ateşgere</p>",
+        "B": "<p>Ateşgene</p>",
+        "C": "<p>Ateşgede</p>",
+        "D": "<p>Ateşgele</p>",
+        "E": "<p>Ateşgeme</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935645,
+        "UniteNo": 2,
+        "PageNumber": 63,
+        "AnswerExplanation": "<p>Avrupalılar, Japon seramiklerini 1868 ihtilali, Paris ve Viyana sergilerinden sonra tanımış ve büyük ilgi gösterdikleri Satsuma porselenleri Tokio atölyelerinde imal edilmiştir.</p>",
+        "Title": "<p>Avrupalılar, Japon seramiklerini 1868 ihtilali, Paris ve Viyana sergilerinden sonra tanımış ve büyük ilgi gösterdikleri Satsuma porselenleri Tokio atölyelerinde imal edilmiştir.</p>",
+        "Text": "<p>Aşağıdaki hangisinde 19.yy’dan sonra Avrupalıların büyük ilgi gösterdikleri Japon seramikleri ve porselenleri ile atölye ismi doğru verilmiştir?</p>",
+        "A": "<p><strong><em> </em></strong>Kakemono porselenleri – Hotei atölyeleri</p> ",
+        "B": "<p>Kanaoka porselenleri - Mitsunaga atölyeleri</p> ",
+        "C": "<p><strong><em> </em></strong>Meitshis porselenleri - Toba-No-Sôjo atölyeleri</p> ",
+        "D": "<p>Satsuma porselenleri - Tokio atölyeleri</p>",
+        "E": "<p>Motonobu porselenleri - Genson atölyeleri</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935755,
+        "UniteNo": 2,
+        "PageNumber": 32,
+        "AnswerExplanation": "<p>i-Pasargadai ii-II.Kiros</p>",
+        "Title": "<p>Pers Kralı II. Kiros, bugünkü Murgab şehrinin yerinde başkent olarak Pasargadai şehrini kurdurmuştur. Bu şehirde yer alan yapılardan birini de Zindan-ı Süleyman oluşturur.</p>",
+        "Text": "<p>Zindan-ı Süleyman yapısı i-Eski İran’ın hangi şehrinde bulunur ii-bu şehri hangi hükümdar kurdurmuştur?</p>",
+        "A": "<p>i-Persopolis ii-I.Darius</p>",
+        "B": "<p>i-Persepolis ii- I.Artakserkses</p>",
+        "C": "<p>i-Pasargadai ii-II.Kiros</p>",
+        "D": "<p>i-Hamedan ii-Kyaksares</p>",
+        "E": "<p>i-Kirmanşah ii-I.Darius</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935479,
+        "UniteNo": 2,
+        "PageNumber": 54,
+        "AnswerExplanation": "<p>Resim sanatı: Çin resim sanatı; 1-Budacılık öncesi (MÖ 2000-MS 250), 2-Budacılığın Çin’e girmesinden Thang Hanedanlığı’nın başlangıcına kadar geçen<br />(250-618) süreyi kapsayan dönem, 3-Thang Hanedanlığı (618-960), 4-Sung Hanedanlığı (960-1278), 5-Yunen Moğol Hanedanlığı (1260-1368), 6-Ming Hanedanlığı (1368-1643) ve 7-Tsing Hanedanlığı (1643-günümüze kadar) dönemleri olmak üzere başlıca 7 büyük dönemde toplanarak incelenir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi Çin resim sanatının 1643'ten günümüze kadar olan dönemine verilen addır?</p>",
+        "A": "<p>Ming Hanedanlığı</p>",
+        "B": "<p>Yunen Moğol Hanedanlığı</p>",
+        "C": "<p>Thang Hanedanlığı</p>",
+        "D": "<p>Budacılık öncesi</p>",
+        "E": "<p>Tsing Hanedanlığı</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935572,
+        "UniteNo": 2,
+        "PageNumber": 32,
+        "AnswerExplanation": "<p>Elam uygarlığı.</p> <p>Eski İran coğrafyasından günümüze gelebilen en erken tarihli eserler Elam uygarlığına 2300’li yıllara tarihlenmektedir.</p>",
+        "Title": "<p>İran sanatı</p>",
+        "Text": "<p>Eski İran coğrafyasından günümüze gelebilen en erken tarihli eserler hangi uygarlığa aittir?</p>",
+        "A": "<p>Elam uygarlığı.</p>",
+        "B": "<p>Med uygarlığı.</p>",
+        "C": "<p>Pers uygarlığı.</p>",
+        "D": "<p>Selefkos.</p>",
+        "E": "<p>Sasani.</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935599,
+        "UniteNo": 2,
+        "PageNumber": 55,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 26\"> <div class=\"layoutArea\"> <div class=\"column\"> <p style=\"text-align: justify;\">Sung Hanedanlığı dönemi: Bu dönemde dinsel resimler çöküşe geçerek gerilemiş, manzara resimleri en yüksek sanat derecesine ulaşmıştır.</p> </div> </div> </div>",
+        "Title": "<p>Lütfen \"Çin Sanatı\" konulu yazıyı gözden geçiriniz.</p>",
+        "Text": "<p style=\"text-align: justify;\">Aşağıda yer alan hangi Çin Hanedanlığı döneminde dinsel resimler çöküşe geçerek gerilemiş, manzara resimleri en yüksek sanat derecesine ulaşmıştır?</p>",
+        "A": "<div class=\"page\" title=\"Page 26\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sung Hanedanlığı dönemi.</p> </div> </div> </div>",
+        "B": "<div class=\"page\" title=\"Page 26\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Yunen Moğol Hanedanlığı dönemi.</p> </div> </div> </div>",
+        "C": "<div class=\"page\" title=\"Page 26\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Ming Hanedanlığı dönemi.</p> </div> </div> </div>",
+        "D": "<div class=\"page\" title=\"Page 25\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Thang Hanedanlığı dönemi.</p> </div> </div> </div>",
+        "E": "<div class=\"page\" title=\"Page 25\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Budacılık öncesi dönem.</p> </div> </div> </div>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935674,
+        "UniteNo": 2,
+        "PageNumber": 38,
+        "AnswerExplanation": "<p>Karakoyunlular Devri</p>",
+        "Title": "<p>Şiraz minyatürlerinde sadelik, geleneğe bağlılık ve simetri dikkati çeker. Resmin dengeli ve düzenli olmasına özen gösterilir. Şiraz ve Bağdat’ta yapılmış geç dönem minyatürlerinde figürler incelip<br />uzar ve zarifleşir. Erkek figürlerinde, bir ucu hafifçe aşağıya sarkan, Türkmen sarığı olarak bilinen başlık tipleri Karakoyunlu minyatürlerinin karakteristik ögeleridir.</p>",
+        "Text": "<p>Şiraz minyatürleri, Şiraz’da ortaya çıkmış, Şiraz ve Bağdat’ta gelişmiştir. Bu minyatür üslubunda; sadelik, geleneğe bağlılık ve simetri dikkati çeker. Resmin dengeli ve düzenli olmasına özen gösterilir. Figürler incelip uzar ve zarifleşir. Erkek figürlerinde, bir ucu hafifçe aşağıya sarkar. Rahat anlaşılır, gözü yormayan anlatımların yeğlenmiş, figürler kısa boylu, küçük ayaklı, tıknaz, dolgun yüzlü, durağan, durgun tasvir edilmiştir.  <strong>Bu devir aşağıdakilerden hangisidir?</strong></p>",
+        "A": "<p>Akkoyunlu Devri</p>",
+        "B": "<p>Timurlu Devri</p>",
+        "C": "<p>Abbasiler Devri</p>",
+        "D": "<p>Karakoyunlular Devri</p>",
+        "E": "<p>Safevi Devri</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935686,
+        "UniteNo": 2,
+        "PageNumber": 55,
+        "AnswerExplanation": "<p>Lang-Kua</p>",
+        "Title": "<p>Hıristiyanlığı yaymak için Çine gelen Cizvit rahipleri, Avrupa resim tarzını Çine sokmak istemişlerse de Avrupa görüşü Çin görüşüne ve resim anlayışına uymadığından başarılı olamamışlardır. Sadece Lang-Kua ismindeki Çinli ressam Avrupa tarzında resimler yapmıştır. Bu bakımdan Lang-Kua’nın yaptığı resimler Avrupa ve Çin sanatı bakımından çok değerlidir. </p>",
+        "Text": "<p>Hıristiyanlığı yaymak için Çine gelen Cizvit rahipleri, Avrupa resim tarzı­nı Çine sokmak istemişlerse de Avrupa görüşü Çin görüşüne ve resim anlayışına uymadığından başarılı olamamışlardır. Sadece Çinli bir ressam Avrupa tarzında resimler yapmıştır. Bu bakımdan ressamın yaptığı resimler Avrupa ve Çin sanatı bakımından çok değerlidir. Bu ressam aşağıdakilerden <strong>hangisidir?</strong></p>",
+        "A": "<p>Cang-Ki</p>",
+        "B": "<p>Mao İ</p>",
+        "C": "<p>Lang-Kua</p>",
+        "D": "<p>Gu Kaizhi</p>",
+        "E": "<p>Thang-hi</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935514,
+        "UniteNo": 2,
+        "PageNumber": 37,
+        "AnswerExplanation": "<p>Timurluların İran’daki medrese yapılarını dört eyvanlı Hargird Gıyasiyye Medresesi (1438-1445) temsil eder.</p>",
+        "Title": "",
+        "Text": "<p>Timurluların İran’daki medrese yapılarını dört eyvanlı hangi eser temsil eder?</p>",
+        "A": "<p>Veramin Camii</p>",
+        "B": "<p>Meşhed Gevher Şad Camii</p>",
+        "C": "<p>Hargird Gıyasiyye Medresesi</p>",
+        "D": "<p>Ali Şah Camii</p>",
+        "E": "<p>Taht-ı Süleyman Sarayı</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935611,
+        "UniteNo": 2,
+        "PageNumber": 51,
+        "AnswerExplanation": "<p>14.Yüzyıl</p>",
+        "Title": "<p>Çin Sanatı</p>",
+        "Text": "<div class=\"page\" title=\"Page 22\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Lamaizm; Budizm’in değişmiş şekli olarak Tibet kaynaklı bu din hangi yüzyılda karşımıza çıkmıştır?</p> </div> </div> </div>",
+        "A": "<p>11. Yüzyıl</p>",
+        "B": "<p>14.Yüzyıl</p>",
+        "C": "<p>16. Yüzyıl</p>",
+        "D": "<p>17 Yüzyıl</p>",
+        "E": "<p>18.Yüzyıl</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935764,
+        "UniteNo": 2,
+        "PageNumber": 53,
+        "AnswerExplanation": "<p>Ming Hanedanlığı</p>",
+        "Title": "<p>Moğolları Çin'den atan ve Ming Hanedanlığını kuran İmparator Hongwu (1368-1369) için Nanjing'in kuzeyindeki Mor Dağ üzerinde kutsal yol ve mezar bölümünden oluşan bir anıt mezar inşa edilmiştir. </p>",
+        "Text": "<p>Nanjing’in kuzeyindeki Mor-Altın Dağ üzerinde yer alan kutsal yol ve mezar bölümünden oluşan  anıt mezar hangi Çin Handenalığının kurucu imparatoru adına inşa edilmiştir?</p>",
+        "A": "<p>Ming Hanedanlığı</p>",
+        "B": "<p>Yuan Hanedanlığı</p>",
+        "C": "<p>Shang Hanedanlığı</p>",
+        "D": "<p>Song Hanedanlığı</p>",
+        "E": "<p>Mançu Hanedanlığı</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935565,
+        "UniteNo": 2,
+        "PageNumber": 34,
+        "AnswerExplanation": "<p>Ateşgede</p>",
+        "Title": "<p>Eski İran Sanatı</p>",
+        "Text": "<p>Eski İran’da Zerdüşlerin ateşe tapmak üzere yaptıkları tapınaklara ne ad verilmektedir?</p>",
+        "A": "<p>Ateşgede</p> ",
+        "B": "<p>Bazilika</p> ",
+        "C": "<p>Persitil</p> ",
+        "D": "<p>Pagoda</p> ",
+        "E": "<p>Taht-ı Cemşid</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935712,
+        "UniteNo": 2,
+        "PageNumber": 43,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 14\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Cayna/Merkezi Hindistan üslubu: Üslubun, en önemli eserleri Bombay’ın doğusundaki Ellora’da bulunmaktadır. 30 metre yükseklikteki İndra (6.yy) ve Kailasa (8.yy) Mabedleri, kayanın içinden oyularak bir bütün olarak çıkarılan kaya kütlesinin etrafı temizlenerek merkeze alındığı, dışının heykel gibi biçimlendirildiği, içine yine oyularak mekanlarının yapıldığı binalardır.</p> </div> </div> </div>",
+        "Title": "<p>HİNT SANATI</p>",
+        "Text": "<div class=\"page\" title=\"Page 14\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kayanın içinden oyularak bir bütün olarak çıkarılan kütlenin etrafı temizlenerek merkeze alındığı, dışının heykel gibi biçimlendirildiği, içine yine oyularak mekanlarının yapıldığı binaların ait olduğu uslup/mimari aşağıdakilerden hangisidir?</p> </div> </div> </div>",
+        "A": "<p>Cayna/Merkezi Hindistan Uslubu</p>",
+        "B": "<p>Doğu Hindistan Uslubu</p>",
+        "C": "<p>Güney Uslubu</p>",
+        "D": "<p>Dravid Uslubu</p>",
+        "E": "<p>Kuzey Hindistan Uslubu</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935719,
+        "UniteNo": 2,
+        "PageNumber": 62,
+        "AnswerExplanation": "<p>Japonya’da da resim, Çin’de olduğu gibi yazı sanatından gelişmiştir. Bu bakımdan Çin resimlerine benzeyen Japon resimlerinde ışık, gölge ve perspektif yoktur. Kakemono ve Makimono olarak adlandırılan iki tarz resim bulunur. Kakemono tarzı resimler, ipek bez ya da kağıt üzerine yapılan, tek renk bir bez şeridiyle çerçevelenen renkli resimlerdir. Bazı örneklerde çerçeveyi oluşturan bezler üzerine asıl resimle uyumlu resimlerin ve desenlerin de yapıldığı görülür.<br />Üstüne resim yapılan bezler kalın kağıtlar üzerine yapıştırılırlar. Oluşturulan tablonun dürülebilmesi amacıyla bezlerin kısa kenarları karşılıklı olarak çam ağacından silindir biçimli birer çubuğa sarılır. Kakemono tarzı resimler, Japon evlerinin iç duvarlarında Tokonoma adı verilen kendilerine özel yerlere asılırlar. Kakemonolar dikine asılır ve kısa kenarlarından başlayarak dürülürler, ayrıca, çok daha küçük boyutlarda yapılan makimono adı verilen geniş kenarlarından dürülen resimler de bulunmaktadır.</p>",
+        "Title": "",
+        "Text": "<p>Japon evlerinin iç duvarlarında Tokonoma adı verilen kendilerine özel yerlere asılan, ipek bez ya da kağıt üzerine yapılan, tek renk bir bez şeridiyle çerçevelenen renkli resimlere ne ad verilir?</p> <p><br /><br /></p>",
+        "A": "<p>Kakemono</p>",
+        "B": "<p>Makimono</p>",
+        "C": "<p>Masanobu</p>",
+        "D": "<p>Takatsika</p>",
+        "E": "<p>Kanaoka</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935728,
+        "UniteNo": 2,
+        "PageNumber": 39,
+        "AnswerExplanation": "<p>İsfahan</p>",
+        "Title": "<p>İran İslam Devri Sanatı</p>",
+        "Text": "<p>Aşağıdakilerden hangisi İran’da 9. yüzyılda faaliyet gösteren seramik üretim merkezlerinden biri değildir?</p>  ",
+        "A": "<p>İsfahan</p>",
+        "B": "<p>Nişabur</p> ",
+        "C": "<p>Semerkant</p> ",
+        "D": "<p>Rey</p>",
+        "E": "<p>Save</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935563,
+        "UniteNo": 2,
+        "PageNumber": 32,
+        "AnswerExplanation": "<p>Persepolis</p>",
+        "Title": "<p>Eski İran Sanatı</p>",
+        "Text": "<p>Eski İran’da I.Darius tarafından kurulan yeni şehir ve başkent aşağıdakilerden hangisidir?</p> ",
+        "A": "<p>Şiraz </p>",
+        "B": "<p>Persepolis </p>",
+        "C": "<p>Hemedan </p>",
+        "D": "<p>Tebriz</p>",
+        "E": "<p>Basra</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935696,
+        "UniteNo": 2,
+        "PageNumber": 42,
+        "AnswerExplanation": "<p>I- Kayanın içinden oyularak bir bütün olarak çıkarılan,</p> <p>II- Kaya kütlesinin etrafı temizlenerek merkeze alınan,</p> <p>III- Dışının heykel gibi biçimlendirildiği, içine yine oyularak mekanlarının yapıldığı,</p> <p>IV- Büyük sofanın etrafına yerleştirilmiş küçük şapellerin yer aldığı,</p> <p>V- Duvar ve ayaklarında hayali yaratıkların kabartma tasvirlerinin bulunduğu,</p> <p>VI- Dışında yine kayadan oyularak yapılmış iki büyük fil heykelinin ve iki dikili taşın yer aldığı, </p> <p>VII- Kaliteli bir işçilikle inşa edilmiş, </p> <p>Hint mimari örneği <strong>Kailasa Mâbedi</strong>' dir.</p>",
+        "Title": "<p>HİNT SANATI</p>",
+        "Text": "<p>I- Kayanın içinden oyularak bir bütün olarak çıkarılan,</p> <p>II- Kaya kütlesinin etrafı temizlenerek merkeze alınan,</p> <p>III- Dışının heykel gibi biçimlendirildiği, içine yine oyularak mekanlarının yapıldığı,</p> <p>IV- Büyük sofanın etrafına yerleştirilmiş küçük şapellerin yer aldığı,</p> <p>V- Duvar ve ayaklarında hayali yaratıkların kabartma tasvirlerinin bulunduğu,</p> <p>VI- Dışında yine kayadan oyularak yapılmış iki büyük fil heykelinin ve iki dikili taşın yer aldığı, </p> <p>VII- Kaliteli bir işçilikle inşa edilmiş,</p> <p>Yukarıda özellikleri verilen Hint mimari örneği aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Makesvara Mabedi</p>",
+        "B": "<p>Hallabid Mâbedi</p>",
+        "C": "<p>Bodh-Gaya Mabedi</p>",
+        "D": "<p>Kailasa Mâbedi</p>",
+        "E": "<p>Ajunta Mabedi</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935476,
+        "UniteNo": 2,
+        "PageNumber": 43,
+        "AnswerExplanation": "<p>Mabed: İlah ya da ilahlar adına inşa edilmiş kutsal, içinde ibadet edilen yapı,<br />tapınak.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi ilah ya da ilahlar adına inşa edilmiş kutsal tapınaktır?</p>",
+        "A": "<p>Abadana</p>",
+        "B": "<p>Ateşgede</p>",
+        "C": "<p>Revak</p>",
+        "D": "<p>Fresk</p>",
+        "E": "<p>Mabed</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935575,
+        "UniteNo": 2,
+        "PageNumber": 38,
+        "AnswerExplanation": "<p>İran’a minyatür sanatını 8. yüzyıldan itibaren İran bölgesine gelen Uygur ressamları getirmiştir</p>",
+        "Title": "<p>İran İslam devri Sanatı/Resim-Minyatür sanatı:</p>",
+        "Text": "<p>İran’a minyatür sanatını hangi uyruktan ressamlar getirmişlerdir?</p>",
+        "A": "<p>Akkoyunlu.</p>",
+        "B": "<p>Uygur.</p>",
+        "C": "<p>Safavi.</p>",
+        "D": "<p>Karakoyunlu.</p>",
+        "E": "<p>Moğol.</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935578,
+        "UniteNo": 2,
+        "PageNumber": 40,
+        "AnswerExplanation": "<p>Safavi devrinde, yeniden sır altı tekniğinde çiniler üretilir. Ana bezeme motifi bitkiseldir. Özellikle Azerbaycan’da “Kubaçi” denilen bir grup sır altı seramik ve çini eserde çok değişik figürlerin kullanıldığı görülür.</p>",
+        "Title": "<p>İran İslam Devri Sanatı/ Seramik ve Çini Sanatı.</p>",
+        "Text": "<p>“Kubaçi” denilen bir grup sır altı seramik ve çini eserler hangi dönemde görülmüştür?</p>",
+        "A": "<p>Büyük Selçuklu.</p>",
+        "B": "<p>Karakoyunlu.</p>",
+        "C": "<p>Akkoyunlu.</p>",
+        "D": "<p>İlhanlı.</p>",
+        "E": "<p>Safavi.</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935684,
+        "UniteNo": 2,
+        "PageNumber": 54,
+        "AnswerExplanation": "<p>7</p>",
+        "Title": "<p>Çin resim sanatı; 1-Budacılık öncesi (MÖ 2000-MS 250), 2-Budacılığın Çin’e girmesinden Thang Hanedanlığı’nın başlangıcına kadar geçen (250-618) süreyi kapsayan dönem, 3-Thang Hanedanlığı (618-960), 4-Sung Hanedanlığı (960-1278), 5-Yunen Moğol Hanedanlığı (1260-1368), 6-Ming Hanedanlığı (1368-1643) ve 7-Tsing Hanedanlığı (1643-günümüze kadar) dönemleri olmak üzere <strong>başlıca 7 büyük dönemde toplanarak incelenir.</strong><br /><br /></p>",
+        "Text": "<p>Çin resim sanatı başlıca kaç büyük dönemde toplanarak incelenmiştir?</p> ",
+        "A": "<p>3</p>",
+        "B": "<p>4</p>",
+        "C": "<p>5</p>",
+        "D": "<p>6</p>",
+        "E": "<p>7</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935532,
+        "UniteNo": 2,
+        "PageNumber": 32,
+        "AnswerExplanation": "<p>Ahamenişler</p>",
+        "Title": "<p>Pers hanedanlıgı,<br />soylarının dayandıgı Akamenes’den dolayı Ahamenid ya da Ahameni\u0019ler olarak da<br />adlandırılmış, sanatları da aynı ad altında incelene gelmitir. Ahamenid sanatına<br />Pers Imparatoru II. Kiros’un benimsediği Zerdüşt dini ile Imparator I. Darius’un<br />resmi devlet dini haline getirdigi Ahura Mazda diniyön vermiştir.</p>",
+        "Text": "<p>Pers hanedanlığı,sanatları hangi ad altında incelenmektedir?<br /><br /></p>",
+        "A": "<p>Pers sanatı</p>",
+        "B": "<p>Pers hanaedanlığı güneşi</p>",
+        "C": "<p>Ahura Mazda</p>",
+        "D": "<p>Ahamenişler</p>",
+        "E": "<p>Murgap sanatı</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935729,
+        "UniteNo": 2,
+        "PageNumber": 33,
+        "AnswerExplanation": "<p>İran</p>",
+        "Title": "<p>Eski İran Sanatı</p>",
+        "Text": "<p>Apadana hangi kültür çevresine ait bir yapı tipidir?</p>  ",
+        "A": "<p>Hint</p> ",
+        "B": "<p>Nepal</p> ",
+        "C": "<p>İran</p> ",
+        "D": "<p>Çin</p> ",
+        "E": "<p>Japon</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935591,
+        "UniteNo": 2,
+        "PageNumber": 33,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 4\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Abadana: Eski İran hükümdarlarının taht salonlarına ve taht salonunu da içeren önü sütunlu saraylarına verilen ad.</p> </div> </div> </div>",
+        "Title": "<p>Ski İran Sanatı başlıklı yazıyı gözden geçiriniz.</p>",
+        "Text": "<p style=\"text-align: justify;\">Aşağıdakilerden hangisi eski İran hükümdarlarının taht salonlarına ve taht salonunu da içeren önü sütunlu saraylarına verilen addır?</p>",
+        "A": "<p>Persepolis.</p>",
+        "B": "<p>Cemşit.</p>",
+        "C": "<p>Abadana.</p>",
+        "D": "<p>Selefkos.</p>",
+        "E": "<p>Nakş.</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935621,
+        "UniteNo": 2,
+        "PageNumber": 34,
+        "AnswerExplanation": "<p>Doğru yanıt D seçeneğinde verilmiştir.</p>",
+        "Title": "<p>Sus şehri kazılarından, şehrin, mazgallı kulelerle sağlamlaştırılmış çok kalın duvarlı çift surla çevrelendiğini ve en dıştaki surun önünde ayrıca içi su dolu bir hendeğin bulunduğunu anlaşılmıştır. Kale ve saray kapılarının iki yanına koruyucu<br />addedilen kerub heykelleri bulunmaktadır. Bu heykeller insan başlı boğa vücutlu yartıklardırç</p>",
+        "Text": "<p>Kerub nedir?</p>",
+        "A": "<p>Yılan başlı aslan motifi</p>",
+        "B": "<p>Ahmenid mimarisinde kral tahtının bulunduğu mekan</p>",
+        "C": "<p>Zerdüşt tapınağı</p>",
+        "D": "<p>İnsan başlı boğa vücutlu yaratıklar</p>",
+        "E": "<p>Pers  mimarisinde bir bezeme sanatı</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935648,
+        "UniteNo": 2,
+        "PageNumber": 42,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Yeni Brahmanlığa ait mimari eserlerde; Kuzey ve Doğu Hindistan üslubu, Cayna/Merkezi Hindistan üslubu ve Dravid/Güney Hindistan üslubu olmak üzere üç farklı üslup görülür. Kuzey ve Doğu Hindistan üslubu: 6. yüzyıldan itibaren takip edilebilen bu üslupta Sikra olarak adlandırılan içlerinde ilah heykeli bulunan 50 metreye yaklaşan yüksekliklere ulaşan, çok kalın duvarlı piramit biçimli yüksek mabedler inşa edilmiştir. Cephe duvarları tepe kısmına doğru giderek dış bükey olarak kavislenir ve kubbemsi bir hal alarak nihayetlenirler. En tepeye amalaka adı verilen yatay yerleştirilmiş daire tabanlı kalınca bir kaide konur, kaidenin üstünde küçük bir kubbe, kubbenin üstünde de vazo biçimli bir tepelik bulunur. Bu tarz mabedlerin cepheleri çok ince işçilikli kabartmalarla bezenmiştir. Bhubanesvar, Kaarak ve Makesvara Mabetleri bu üslubun öne çıkan örnekleridir. </p>",
+        "Title": "<p>Soruda özellikleri ve dönemi verilen yapı türünün tanınması amaçlanmıştır. </p>",
+        "Text": "<p style=\"text-align: justify;\">Yeni Brahmanlığa ait mimari eserlerde 6. yüzyıldan itibaren Kuzey ve Doğu Hindistan olarak adlandırılan üslupta karşımıza çıkan, içlerinde ilah heykeli bulunan 50 metreye yaklaşan yüksekliklere ulaşan, çok kalın duvarlı piramit biçimli yüksek mabedlere ne ad verilmektedir? </p>",
+        "A": "<p>Sikra</p>",
+        "B": "<p>Gopuran</p>",
+        "C": "<p>Şaytiya</p>",
+        "D": "<p>Stupa</p>",
+        "E": "<p>Vihara</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935747,
+        "UniteNo": 2,
+        "PageNumber": 48,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 19\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Feng-shui: iki bin yıl boyunca Çin ve Çin kültüründen beslenmiş milletlerde rüzgar ve su bilimine verilen addır. Feng-shui uzmanına sormadan ne ev, ne mezar yeri belirlenebilir. Önemli olan doğanın güçlerini en iyi şekilde etkileyebilmek için düzenlemek ve yönetmektir.</p> </div> </div> </div>",
+        "Title": "",
+        "Text": "<div class=\"page\" title=\"Page 19\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İki bin yıl boyunca Çin ve Çin kültüründen beslenmiş uluslarda rüzgar ve su bilimine verilen ad aşağıdakilerden hangisidir?</p> </div> </div> </div>",
+        "A": "<p>Pagoda</p>",
+        "B": "<p>Fohi</p>",
+        "C": "<p>Piktogram</p>",
+        "D": "<p>Dink</p>",
+        "E": "<p>Feng- shui</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935627,
+        "UniteNo": 2,
+        "PageNumber": 55,
+        "AnswerExplanation": "<p>Doğru yanıt E seçeneğidir.</p>",
+        "Title": "<p>Hıristiyanlığı yaymak için Çine gelen Cizvit rahipleri, Avrupa resim tarzını Çine sokmak istemişlerse de Avrupa görüşü Çin görüşüne ve resim anlayışına uymadığından başarılı olamamışlardır. Sadece Lang-Kua ismindeki Çinli ressam Avrupa tarzında resimler yapmıştır. Bu bakımdan Lang-Kua’nın yaptığı resimler Avrupa ve Çin sanatı bakımından çok değerlidir.</p>",
+        "Text": "<p>Tsing hanedanlığı dönemi ressamlarında Lang-Kua'yı o ana kadarki diğer ressamlardan ayıran en büyük özellik nedir?</p>",
+        "A": "<p>Resimlerinde ilk defa portre görülmektedir</p>",
+        "B": "<p>İlk defa doğa resimleri yapmıştır.</p>",
+        "C": "<p>Minyatür tarzı resim yapmasıyla diğerlerinden ayrılmıştır.</p>",
+        "D": "<p>İlk defa çok renkli resim yapmıştır.</p>",
+        "E": "<p>İlk defa Avrupa tarzı resim yapmıştır</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935496,
+        "UniteNo": 2,
+        "PageNumber": 34,
+        "AnswerExplanation": "<p>Kerub: insan başlı-boğa vücutlu karışık yaratıklardır.</p>",
+        "Title": "",
+        "Text": "<p>\"İnsan başlı-boğa vücutlu karışık yaratıklar olarak tanımlanan varlık aşağıdakilerden hangisidir?\"</p>",
+        "A": "<p>Abadana</p>",
+        "B": "<p>Fresk</p>",
+        "C": "<p>Revak</p>",
+        "D": "<p>Ateşgede</p>",
+        "E": "<p>Kerub</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935724,
+        "UniteNo": 2,
+        "PageNumber": 44,
+        "AnswerExplanation": "<p>Stupa</p>",
+        "Title": "<p>Hint Sanatı</p>",
+        "Text": "<p>Genellikle dairesel tabanlı bir kaide üstünde yükselen silindirik gövdeli ve kubbe örtülü Budist tapınaklarına ne ad verilir?</p>  ",
+        "A": " <p>Stupa</p> ",
+        "B": "<p>Apadana</p> ",
+        "C": "<p>Ateşgede</p> ",
+        "D": "<p>Pagoda</p> ",
+        "E": "<p>Şaytiya</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935752,
+        "UniteNo": 2,
+        "PageNumber": 55,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 26\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Lang-Kua ismindeki Çinli ressam Avrupa tarzında resimler yapmıştır. Bu bakımdan Lang-Kua’nın yaptığı resimler Avrupa ve Çin sanatı bakımından çok değerlidir.</p> </div> </div> </div>",
+        "Title": "",
+        "Text": "<div class=\"page\" title=\"Page 26\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Avrupa tarzında resimler yapan Çinli ressam Lang-Kua, hangi Hanedanlık döneminde yaşamıştır?</p> </div> </div> </div>",
+        "A": "<div class=\"page\" title=\"Page 25\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Thang Hanedanlığı dönemi</p> </div> </div> </div>",
+        "B": "<div class=\"page\" title=\"Page 26\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sung Hanedanlığı dönemi</p> </div> </div> </div>",
+        "C": "<div class=\"page\" title=\"Page 26\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Tsing Hanedanlığı dönemi</p> </div> </div> </div>",
+        "D": "<div class=\"page\" title=\"Page 26\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Ming Hanedanlığı dönemi</p> </div> </div> </div>",
+        "E": "<div class=\"page\" title=\"Page 26\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Yunen Moğol Hanedanlığı dönemi</p> </div> </div> </div>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935617,
+        "UniteNo": 2,
+        "PageNumber": 31,
+        "AnswerExplanation": "<p>Doğru yanıt B seçeneğidir</p>",
+        "Title": "<p>Himalaya Dağları’nın tüm geçitleri Nepal’de bulunduğundan Tibet ile Orta Asya ve Hindistan arasındaki tüm ilişkiler Nepal üzerinden sağlanır. Nepal ve Tibet Budizm’in yayılma alanı olmuş, Budacılığa ait çok sayıda mabet ve büyük manastırların bulunduğu ülkelerdir. Diğer yandan Tibet, Orta Asya, Hindistan ve Çin’le sürekli ilişki içinde olduğundan Nepal ve Tibet sanatlarının yanı sıra Orta Asya ülkelerinin sanatları da bu ülkeler üzerinden Hindistan, Hind-i Çin ve Çin’e yayılmıştır. Nepal’de önceleri Budizm daha sonraları Brahmanizm hakim olmuş sonunda bu iki dini inanç birbirine karışmıştır.</p>",
+        "Text": "<p>Nepal ve Tibet neden Budizm'in yayılma alanı olmuştur?</p>",
+        "A": "<p>Nepal ve Tibet Nüfusun en yoğun olduğu bölgelerdir</p>",
+        "B": "<p>Himalaya Dağlarının tüm geçitleri Nepal'de bulunması yüzünden</p>",
+        "C": "<p>Nepal ve Tibet'te uygulanan yayılma politikaları yüzünden</p>",
+        "D": "<p>Nepal ve Tibet insanlarının semavi dinlerle olan ilişkilerinin çok az olması nedeniyle</p>",
+        "E": "<p>Semavi dinlerin misyonerlerinin Nepal ve Tibet'e ulaşamamaları yüzünden.</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935612,
+        "UniteNo": 2,
+        "PageNumber": 32,
+        "AnswerExplanation": "<p>Eski İran Sanatı MÖ 7. yüzyıldan M.S. 7. yüzyıla kadar geçen sürede bu coğrafyada hüküm süren Med, Pers, Selefkos, Part ve Sasani sanatını içine almaktadır. Büyük Selçuklular ise İran-İslam Sanatı döneminde yer alır.</p>",
+        "Title": "<p>Eski İran Sanatı</p>",
+        "Text": "<p>İran Sanatı tarihsel sürecinde aşağıdakilerden  hangisi ya da hangileri  Eski İran Sanatı dönemi başlığı altında değerlendirilmelidir?</p> <p>I-Persler</p> <p>II-Büyük Selçuklular</p> <p>III-Sasaniler</p>",
+        "A": "<p>Sadece II</p>",
+        "B": "<p>II ve III</p>",
+        "C": "<p>Sadece III</p>",
+        "D": "<p>I ve III</p>",
+        "E": "<p>Sadece I</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935740,
+        "UniteNo": 2,
+        "PageNumber": 32,
+        "AnswerExplanation": "<p><span style=\"left: 245.669px; top: 771.378px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.931839);\">Elamlılar (MÖ 3000-MÖ 640) </span><span style=\"left: 245.669px; top: 792.211px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.917935);\">İran’ın ilk siyasi birliğini kurmuşlardır. </span></p>",
+        "Title": "<p>Eski İran Sanatı</p>",
+        "Text": "<p>İran'ın ilk siyasi birliğini aşağıdakilerden hangisi kurmuştur?</p>",
+        "A": "<p>Elamlılar</p>",
+        "B": "<p>Med</p>",
+        "C": "<p>Part</p>",
+        "D": "<p>Sasani</p>",
+        "E": "<p>Selefkos</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935497,
+        "UniteNo": 2,
+        "PageNumber": 49,
+        "AnswerExplanation": "<p>Fohi: Evrendeki tüm canlı ve nesnelerin yaratılış nedeni, özgürlük, iyilik ve olgunluk<br />addedilen büyük kudrettin 64 diagramından birincisidir.<br /><br /></p>",
+        "Title": "",
+        "Text": "<p>Evrendeki tüm canlı ve nesnelerin yaratılış nedeni, özgürlük, iyilik ve olgunluk olarak kabul edilen büyük kudretin 64 diagramından birincisi aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Feng-shui</p>",
+        "B": "<p>Fohi</p>",
+        "C": "<p>Pitogram</p>",
+        "D": "<p>Mahya</p>",
+        "E": "<p>Pagoda</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935507,
+        "UniteNo": 2,
+        "PageNumber": 50,
+        "AnswerExplanation": "<p>Xia Hanedanlığı (MÖ 2005-MÖ 1523)’nın kültürü Tunç ile tanımlanır?</p>",
+        "Title": "",
+        "Text": "<p>Xia Hanedanlığı (MÖ 2005-MÖ 1523)’nın kültürü aşağıdakilerden hangisi ile tanımlanır?</p>",
+        "A": "<p>Demir</p>",
+        "B": "<p>Bakır</p>",
+        "C": "<p>Tunç</p>",
+        "D": "<p>Çinko </p>",
+        "E": "<p>Çelik</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935690,
+        "UniteNo": 2,
+        "PageNumber": 33,
+        "AnswerExplanation": "<p>Persepolis yakınındaki yüksek kayalıkların duvarı üzerine I. Darius isminin yazılı olduğu Taht-ı Cemşit ya da Nakş-ı Rüstem adlarıyla anılan kayalara oyulmuş dört mezar bulunmaktadır. I. Darius ayrıca, Kirmanşah yakınlarında, Babil’den Hemedan’a giden yol üzerindeki kayalık üzerine Behistun Anıtı’nı yaptırmıştır (Resim:2). Behistun Anıtı, I. Darius’un zaferlerinin anlatıldığı bir Farsça kitabe ve kitabe metnini destekleyen figürlü kabartmalardan oluşur. I. Darius başı taçlı olarak maiyetinin önünde ve ayakta durur, ayrıca, elinde yay tutar ve yere yatmış bir insanın üzerine basar pozisyonda, yendiği bölge reislerinin birbirlerine bağlanmış olarak huzuruna getirilişini seyreder ve zaferini ilan eder biçimde tasvir edilmiştir.</p>",
+        "Title": "",
+        "Text": "<p>\"I. Darius başı taçlı olarak maiyetinin önünde ve ayakta durur, ayrıca, elinde yay tutar ve yere yatmış bir insanın üzerine basar pozisyonda, yendiği bölge reislerinin birbirlerine bağlanmış olarak huzuruna getirilişini seyreder ve zaferini ilan eder biçimde tasvir edilmiştir\" betimlemesi hangi anıtı tanımlar?</p>",
+        "A": "<p>Abadana anıtı</p>",
+        "B": "<p>Kiros sarayı kapısı</p>",
+        "C": "<p>Kyaksares sarayı kapısı</p>",
+        "D": "<p>Behistun anıtı</p>",
+        "E": "<p>Taht-ı Cemşit mezarı</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935784,
+        "UniteNo": 2,
+        "PageNumber": 42,
+        "AnswerExplanation": "<p>M&Ouml; 6. y&uuml;zyıldan itibareni Pamir yaylasından İran'a kadar Hint etkisi g&ouml;r&uuml;lmektedir.</p>",
+        "Title": "",
+        "Text": "Hint uygarlığına ait eserler milattan &ouml;nce ka&ccedil;ıncı y&uuml;zyıldan itibaren takigb edilebilmektedir?",
+        "A": "<p>3.</p>",
+        "B": "<p>4.</p>",
+        "C": "<p>5.</p>",
+        "D": "<p>6.</p>",
+        "E": "<p>7.</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935602,
+        "UniteNo": 2,
+        "PageNumber": 31,
+        "AnswerExplanation": "<p>Tibet</p>",
+        "Title": "<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Doğu ve Uzak Doğu Sanatı</p>\n</div>\n</div>\n</div>\n</div>",
+        "Text": "<p>Budizm'in yayılma alanları nereler olmuştur?</p>",
+        "A": "<p>Hindistan</p>",
+        "B": "<p>Çin</p>",
+        "C": "<p>İran</p>",
+        "D": "<p>Sibirya</p>",
+        "E": "<p>Tibet</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
     }
 ]

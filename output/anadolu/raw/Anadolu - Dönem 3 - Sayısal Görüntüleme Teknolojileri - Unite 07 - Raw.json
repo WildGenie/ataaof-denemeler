@@ -12,8 +12,7 @@
         "D": "<p>I,II,III</p>",
         "E": "<p>III,IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353236,
@@ -28,8 +27,7 @@
         "D": "<p>Vektörel</p> ",
         "E": "<p>3 boyutlu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353237,
@@ -44,8 +42,7 @@
         "D": "<p>PPI değeri  cihazda kullanılan ekranın boyutuna ve çözünürlüğüne göre değişiklik gösterir</p> ",
         "E": "<p>Baskı teknikleriyle alakalı olarak kullanılan bir kısaltmadır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353238,
@@ -60,8 +57,7 @@
         "D": "<p>PPt</p> ",
         "E": "<p>PNG</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353239,
@@ -76,8 +72,7 @@
         "D": "<p>Fotoğraf üzerinde istenmeyen leke ve dokuları temizleme panelidir</p>\n<p> </p>",
         "E": "<p>Parazitlenmeyi azaltabile­cek birtakım seçenek­ler sunan paneldir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353240,
@@ -92,8 +87,7 @@
         "D": "<p>Final Cut Pro</p> ",
         "E": "<p>Lightworks</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353242,
@@ -108,8 +102,7 @@
         "D": "<p>PPI</p> ",
         "E": "<p>IRR</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353246,
@@ -124,8 +117,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>SVG</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>PDF</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353247,
@@ -140,8 +132,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>JPEG</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>TIFF</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353248,
@@ -156,8 +147,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>PDF</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>MAX</p> </div> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353250,
@@ -172,8 +162,7 @@
         "D": "<div class=\"page\" title=\"Page 21\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>OpenShot</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 20\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Vegas Pro</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353251,
@@ -188,8 +177,7 @@
         "D": "<div class=\"page\" title=\"Page 25\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Siyah</p> </div> </div> </div> </div>",
         "E": "<p>Kırmızı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353252,
@@ -204,8 +192,7 @@
         "D": "<div class=\"page\" title=\"Page 28\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <div class=\"page\" title=\"Page 28\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>1080x1350</p> </div> </div> </div> </div>  </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 28\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>1920x1080</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353253,
@@ -220,8 +207,7 @@
         "D": "<div class=\"page\" title=\"Page 30\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Idrive</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 30\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Icloud</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353254,
@@ -236,8 +222,7 @@
         "D": "<p>PNG</p>",
         "E": "<p>EPS</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353258,
@@ -252,8 +237,7 @@
         "D": "<p>GIF</p>",
         "E": "<p>PNG</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353259,
@@ -268,8 +252,7 @@
         "D": "<p>GIF</p>",
         "E": "<p>JPEG</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353260,
@@ -284,8 +267,7 @@
         "D": "<p>Avid Media Composer</p>",
         "E": "<p>Openshot</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353261,
@@ -300,8 +282,7 @@
         "D": "<p>Avid Media Composer</p>",
         "E": "<p>Adobe Premiere</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353262,
@@ -316,8 +297,7 @@
         "D": "<p>CMYKOG</p>",
         "E": "<p>AdobeRGB</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353235,
@@ -332,8 +312,7 @@
         "D": "<p>zaman baskısı</p>",
         "E": "<p>sosyal medya kullanımı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353241,
@@ -348,8 +327,7 @@
         "D": "<p>Sanal gerçeklik video desteği</p>",
         "E": "<p>Bulut üzerinden başkalarıyla iş birliği içerisinde çalışabilme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353243,
@@ -364,8 +342,7 @@
         "D": "<p>1080x1350 (dikey) piksel</p> ",
         "E": "<p>3840x12160 piksel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353249,
@@ -380,8 +357,7 @@
         "D": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İyileştirici (Healing Brush) Fırça Paneli</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Fırça, Doğrusal ve Dairesel Gradyan Paneli</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353256,
@@ -396,8 +372,7 @@
         "D": "<p>STL</p>",
         "E": "<p>MGF</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353257,
@@ -412,8 +387,7 @@
         "D": "<p>RAW</p>",
         "E": "<p>PNG</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353263,
@@ -428,8 +402,7 @@
         "D": "<p>PNG</p>",
         "E": "<p>MP4</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353244,
@@ -444,8 +417,7 @@
         "D": "<p>Picasa</p>",
         "E": "<p>NLE</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353245,
@@ -460,8 +432,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Her bir piksel üzerinde bilgiler içeren değerler bulunur.</p> </div> </div> </div> </div>",
         "E": "<p>Değerler beş rakamlı bilgisayar veri algoritmasına uygun bir biçimde kodlanarak sayısallaştırılır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353255,
@@ -476,7 +447,6 @@
         "D": "<p>SVG</p>",
         "E": "<p>CDR</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>HDTV 1920 x 1080 (16:9)</p>",
         "E": "<p>UHDTV 3840×2160 (16:9)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353096,
@@ -28,8 +27,7 @@
         "D": "<p>AVCHD</p>",
         "E": "<p>Sony XAVC,</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353098,
@@ -44,8 +42,7 @@
         "D": "<p>Ultra Yüksek Tanımlı Televizyon</p>",
         "E": "<p>Her Yöne  Tanımlı Televizyon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353099,
@@ -60,8 +57,7 @@
         "D": "<p>Dijital depolama teknolojilerin değişimi kullanıcılar adına film veya kaset ve görüntü aktarım maliyetlerini bir hayli düşürmektedir.</p>",
         "E": "<p>Dijital videoların montajlanması ve paylaşılması bir hayli kolaydır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353100,
@@ -76,8 +72,7 @@
         "D": "<p>Çizgiler düzenli bir şekilde taranır.</p>",
         "E": "<p>Bilgisayar ekranları, dijital video ve sinemanın büyük bölümü bu taramayı kullanır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353103,
@@ -92,8 +87,7 @@
         "D": "<p>Uzun metraj filmler ve TV dizileri için uygun kameralar değildir.</p>",
         "E": "<p>Yüksek kaliteli ve yüksek bütçeli kameralardır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353104,
@@ -108,8 +102,7 @@
         "D": "<p>1K/4K</p>",
         "E": "<p>3K/5K</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353106,
@@ -124,8 +117,7 @@
         "D": "<p>Dolly</p>",
         "E": "<p>Boom</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353107,
@@ -140,8 +132,7 @@
         "D": "<p>Dolly</p>",
         "E": "<p>Gimbal</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353108,
@@ -156,8 +147,7 @@
         "D": "<p>1920 x 1080 Piksel</p> ",
         "E": "<p>2048 x 1536 Piksel</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353109,
@@ -172,8 +162,7 @@
         "D": "<p>Sıkıştırılmış görüntü</p> ",
         "E": "<p>Görüntü çözünürlüğü</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353111,
@@ -188,8 +177,7 @@
         "D": "<p>AVCHD</p> ",
         "E": "<p>Avid</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353113,
@@ -204,8 +192,7 @@
         "D": "<p>Uzun alan derinliğinde görüntüler çekebilirler.</p>",
         "E": "<p>Nerdeyse tamamen otomatik modda çalışırlar.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353115,
@@ -220,8 +207,7 @@
         "D": "<p>DSLR kamera</p> ",
         "E": "<p>Dijital sinema kamerası</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353117,
@@ -236,8 +222,7 @@
         "D": "<p>Dolly</p> ",
         "E": "<p>Boom</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353118,
@@ -252,8 +237,7 @@
         "D": "<p>Yüksek Tanımlı Televizyon</p>",
         "E": "<p>Genel Tanımlı Televizyon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353120,
@@ -268,8 +252,7 @@
         "D": "<p>Vinç sistemleri</p>",
         "E": "<p>Boom mikrofon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353121,
@@ -284,8 +267,7 @@
         "D": "<p>10</p>",
         "E": "<p>67</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353122,
@@ -300,8 +282,7 @@
         "D": "<p>1980lerde</p>",
         "E": "<p>2000lerde</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353123,
@@ -316,8 +297,7 @@
         "D": "<p>500</p>",
         "E": "<p>800</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353094,
@@ -332,8 +312,7 @@
         "D": "<p>UHDTV 3840×2160 (16:9)</p>",
         "E": "<p>UHDTV2 7680 × 4320 (16:9)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353097,
@@ -348,8 +327,7 @@
         "D": "<p>NTSC</p>",
         "E": "<p>PAL</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353101,
@@ -364,8 +342,7 @@
         "D": "<p>Raw</p>",
         "E": "<p>Codec</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353105,
@@ -380,8 +357,7 @@
         "D": "<p>Drone’lar, çok hafif bir çerçeve üzerine monte edilmiş dört yatay pervaneye sahip küçük helikopter benzeri mekanizmalardır. </p>",
         "E": "<p>Drone kameraları video üretiminde çeşitli araçlarla yaratılan hareketli görüntüleri örneğin tekerlekli araba, vinç veya jib gibi pahalı sinema ekipmanlarının sağladığı efektleri taklit etmek için de kullanılabilir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353112,
@@ -396,8 +372,7 @@
         "D": "<p>CV-3</p> ",
         "E": "<p>RAW</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353114,
@@ -412,8 +387,7 @@
         "D": "<p>Süspansiyon</p> ",
         "E": "<p>Uzaktan kumanda</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353116,
@@ -428,8 +402,7 @@
         "D": "<p>HD</p> ",
         "E": "<p>SWF</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353102,
@@ -444,8 +417,7 @@
         "D": "<p>HD görüntüden 3K görüntüye uzanan bir çözünürlük sunar.</p>",
         "E": "<p>Hem optik hem dijital zoom olanağı sağlamaktadır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353110,
@@ -460,8 +432,7 @@
         "D": "<p>Görüntü ve ses kalitesi</p>",
         "E": "<p>AR görüntü sağlaması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3353119,
@@ -476,7 +447,6 @@
         "D": "<p>Bisiklet kameraları</p>",
         "E": "<p>.Canlı yayın kameraları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     }
 ]

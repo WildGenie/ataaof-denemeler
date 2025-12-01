@@ -12,8 +12,7 @@
         "D": "<p>Ölçüleri doğru kullanarak tasarımını kağıttan fire vermeyecek şekilde<br />oluşturabilir.</p>",
         "E": "<p>Kağıt üreticilerine  ve matbaalara  baskı yaparak çevreye daha az zarar<br />verecek ürünlerin ön plana çıkarılmasını sağlayabilir. </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764101,
@@ -28,8 +27,7 @@
         "D": "<p>1988- Avusturya </p>",
         "E": "<p>1990- Almanya </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764102,
@@ -44,8 +42,7 @@
         "D": "<p>Tibor Kalman</p>",
         "E": "<p>Steve Cutts</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764143,
@@ -60,8 +57,7 @@
         "D": "<p>Tasarımcı, bir projenin tamamlanmasından önce devam eden tüm çalışmaları ve müşteri hakkındaki bilgileri tutacak ve müşterinin rızası olmadan bu bilgileri hiçbir şekilde ifşa etmeyecektir.</p>",
         "E": "<p>Müşteri veya işverenden gelen, tasarımcının etik standartlarının ihlalini içeren talimatlar, tasarımcı tarafından düzeltilmelidir. </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764144,
@@ -76,8 +72,7 @@
         "D": "<p>Müşteri veya işverenden gelen, tasarımcının etik standartlarının ihlalini içeren talimatlar, tasarımcı tarafından düzeltilmelidir. </p>",
         "E": "<p>Tasarımcı, müşterinin iş ve tasarım standartları hakkında bilgi sahibi olacak ve mesleki sorumluluk sınırları dâhilinde müşterinin çıkarlarına en uygun şekilde hareket edecektir. </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764145,
@@ -92,8 +87,7 @@
         "D": "<p>Tasarımcı, ifade özgürlüğü, toplanma özgürlüğü ve açık fikir pazarına erişim ilkelerini anlamaya ve desteklemeye çalışmalı ve buna göre hareket etmelidir.</p>",
         "E": "<p>Tasarımcı, başka bir tasarımcının çalışmasını eleştirirken objektif ve dengeli olmalı ve bir<br />tasarımcı meslektaşının eserini veya itibarını karalamamalıdır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764187,
@@ -108,8 +102,7 @@
         "D": "<p>E-atık </p>",
         "E": "<p>Yersiz iddia </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764188,
@@ -124,8 +117,7 @@
         "D": "<p>E-atık </p>",
         "E": "<p>Kağıt gramajı </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764189,
@@ -140,8 +132,7 @@
         "D": "<p>Kenar boşlukları genişletme </p>",
         "E": "<p>Dokümanın ölçünü küçültme </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764191,
@@ -156,8 +147,7 @@
         "D": "<p>E-atık </p>",
         "E": "<p>Brief </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764255,
@@ -172,8 +162,7 @@
         "D": "<p>David Bailey</p>",
         "E": "<p>Jeremy Pemberton</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764256,
@@ -188,8 +177,7 @@
         "D": "<p>Watchmen Dergisi</p>",
         "E": "<p>Dribbble.com</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764257,
@@ -204,8 +192,7 @@
         "D": "<p>AIGA</p>",
         "E": "<p>AGFA</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764258,
@@ -220,8 +207,7 @@
         "D": "<p>Sahiplik</p>",
         "E": "<p>Tasarımcının Diğer Tasarımcılara Karşı Sorumluluğu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764259,
@@ -236,8 +222,7 @@
         "D": "<p>Devşirme</p>",
         "E": "<p>Düzenleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764260,
@@ -252,8 +237,7 @@
         "D": "<p>Prototip</p>",
         "E": "<p>Tasarım</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764261,
@@ -268,8 +252,7 @@
         "D": "<p>Gramaj</p>",
         "E": "<p>Santimetre</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764262,
@@ -284,8 +267,7 @@
         "D": "<p>Ambalaj</p>",
         "E": "<p>Tasarım</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764263,
@@ -300,8 +282,7 @@
         "D": "<p>Woman</p>",
         "E": "<p>Child</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764264,
@@ -316,7 +297,6 @@
         "D": "<p>Beğenilir - televizyona</p>",
         "E": "<p>Eğitir - bilgiye</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

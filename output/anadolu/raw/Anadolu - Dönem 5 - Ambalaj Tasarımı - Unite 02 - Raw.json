@@ -12,8 +12,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862648,
@@ -28,8 +27,7 @@
         "D": "<p>Kullanım kolaylığı sağlama,</p>",
         "E": "<p>Niyet ve hedefe uygun olma,</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862652,
@@ -44,8 +42,7 @@
         "D": "<p>Taşınabilirlik</p>",
         "E": "<p>Görünüm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862653,
@@ -60,8 +57,7 @@
         "D": "<p style=\"text-align: justify;\">Prototiplerin denenmesi ve test edilmesi</p>",
         "E": "<p>Ambalajlamanın optimum kaynak ile gerçekleşmesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862654,
@@ -76,8 +72,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862693,
@@ -92,8 +87,7 @@
         "D": "<p>Baskınlık İlkesi</p>",
         "E": "<p>Ölçü İlkesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862696,
@@ -108,8 +102,7 @@
         "D": "<p>Devamlılık </p>",
         "E": "<p>İyi Form </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862699,
@@ -124,8 +117,7 @@
         "D": "<p>Ürünü rakiplerinkinden farklılaştırmak</p>",
         "E": "<p>Tüketicinin ürüne olan ilgisini artırmak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862702,
@@ -140,8 +132,7 @@
         "D": "<p>Tüketicisine duygusal olarak dokunur.</p>",
         "E": "<p style=\"text-align: justify;\">Marka ve ambalaj ve içeriğin birbirinden ayırt edilmesini sağlar.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862711,
@@ -156,8 +147,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862774,
@@ -172,8 +162,7 @@
         "D": "<p>II-III</p>",
         "E": "<p>I-II-IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862775,
@@ -188,8 +177,7 @@
         "D": "<p>II-IV</p>",
         "E": "<p>III-IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862776,
@@ -204,8 +192,7 @@
         "D": "<p>I-III</p>",
         "E": "<p>I-III-IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862777,
@@ -220,8 +207,7 @@
         "D": "<p>Ritim</p>",
         "E": "<p>Denge</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862778,
@@ -236,8 +222,7 @@
         "D": "<p>Bağlam</p>",
         "E": "<p>Gestalt kuram</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862819,
@@ -252,8 +237,7 @@
         "D": "<p>II-IV</p>",
         "E": "<p>II-III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862821,
@@ -268,8 +252,7 @@
         "D": "<p>II-IV</p>",
         "E": "<p>I-III-V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862822,
@@ -284,8 +267,7 @@
         "D": "<p>I-III</p>",
         "E": "<p>II-III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862825,
@@ -300,8 +282,7 @@
         "D": "<p>Simetri İlkesi </p>",
         "E": "<p>Devamlılık ilkesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862826,
@@ -316,7 +297,6 @@
         "D": "<p>Yakınlık İlkesi</p>",
         "E": "<p>Tamamlama ilkesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

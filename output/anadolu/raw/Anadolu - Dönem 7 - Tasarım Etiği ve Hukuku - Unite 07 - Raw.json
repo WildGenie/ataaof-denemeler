@@ -12,8 +12,7 @@
         "D": "<p>Haksız Rekabet Kanunu</p>",
         "E": "<p>Medeni Kanun</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3700796,
@@ -28,8 +27,7 @@
         "D": "<p>I-II ve III</p>",
         "E": "<p>Yalnızca II</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3700797,
@@ -44,8 +42,7 @@
         "D": "<p>Tüketici dernekleri, esnaf odaları, birlikler, ticaret ve sanayi odaları vs. davacı olabilir.</p>",
         "E": "<p>Haksız rekabetten söz edilebilmesi için haksız rekabette bulunan kişinin bu fiiliyle kendisine veya başkasına bir menfaat sağlamış olması şart değildir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3700798,
@@ -60,8 +57,7 @@
         "D": "<p> Sahip olduğu diploma, ödül vs. reklamlarda kullanmak</p>",
         "E": "<p>Müşterinin karar verme özgürlüğünü sınırlamak</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3700799,
@@ -76,8 +72,7 @@
         "D": "<p>I- II-III</p>",
         "E": "<p>Yalnızca III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3700800,
@@ -92,8 +87,7 @@
         "D": "<p>I- II-III</p>",
         "E": "<p>Yalnızca II</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3700802,
@@ -108,8 +102,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3700803,
@@ -124,8 +117,7 @@
         "D": "<p>Kümülatif </p>",
         "E": "<p>Kalitatif</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3700804,
@@ -140,8 +132,7 @@
         "D": "<p>Davacının fiili ve faili öğrenmesinden itibaren 2 yıl, herhâlükarda fiilin gerçekleştiği tarihten itibaren 7 yıl</p>",
         "E": "<p>Davacının fiili ve faili öğrenmesinden itibaren 2 yıl, herhâlükarda fiilin gerçekleştiği tarihten itibaren 5 yıl</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3700805,
@@ -156,8 +147,7 @@
         "D": "<p>Yer bakımından uygulanma</p>",
         "E": "<p>Normlar hiyerarşisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840120,
@@ -172,8 +162,7 @@
         "D": "Müşteri sadakatini azaltmak",
         "E": "Üretim maliyetlerini düşürmek",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840121,
@@ -188,8 +177,7 @@
         "D": "Fikri mülkiyet koruması olmayan her durumda haksız rekabet hükümleri devreye girer.",
         "E": "Tescilli tasarımlar daima genel hükümler kapsamında korunur.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840122,
@@ -204,8 +192,7 @@
         "D": "10 yıl",
         "E": "Süresiz",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840123,
@@ -220,8 +207,7 @@
         "D": "Rekabet hakkı, sadece tüketicilere tanınan bir haktır.",
         "E": "<p data-start=\"118\" data-end=\"513\" class=\"\">Haksız rekabet ile rekabet hukukunun konuları tamamen aynıdır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840124,
@@ -236,8 +222,7 @@
         "D": "Rekabetin kötüye kullanılması",
         "E": "Müşteri memnuniyeti",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840125,
@@ -252,8 +237,7 @@
         "D": "Rakip firmaların kampanyalarını desteklemek",
         "E": "Kendisini veya kendi ürünlerini asılsız şekilde övmek",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840126,
@@ -268,8 +252,7 @@
         "D": "Rakibin tanınmışlığından yararlanarak kendi ürününün öne çıkarılması",
         "E": "Reklamda sadece kendi ürünlerinin üstünlüklerinin vurgulanması",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840129,
@@ -284,8 +267,7 @@
         "D": "Araç ve malların imhası talebi",
         "E": "<p data-start=\"151\" data-end=\"383\" class=\"\">Beyanların düzeltilmesi talebi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840131,
@@ -300,8 +282,7 @@
         "D": "İşçilerinin yasal haklarını savunmak",
         "E": "Üretim sırlarını koruma altına almak",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3840134,
@@ -316,7 +297,6 @@
         "D": "Müşterilere ürünün kalitesi hakkında doğru bilgiler vermek",
         "E": "<p data-start=\"132\" data-end=\"411\" class=\"\">Ürünün miktarını eksik göstermeden sunmak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

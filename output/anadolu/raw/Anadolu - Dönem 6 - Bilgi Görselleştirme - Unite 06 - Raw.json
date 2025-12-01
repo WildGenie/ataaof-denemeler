@@ -12,8 +12,7 @@
         "D": "<p>Açıklık İlkesi </p>",
         "E": "<p>Figür-Zemin İlkesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763444,
@@ -28,8 +27,7 @@
         "D": "<p>Benzerlik İlkesi</p>",
         "E": "<p>Tamamlama İlkesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763445,
@@ -44,8 +42,7 @@
         "D": "<p>Tablo</p>",
         "E": "<p>Grafik format</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763446,
@@ -60,8 +57,7 @@
         "D": "<p>Hiyerarşi</p>",
         "E": "<p>İletişim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763467,
@@ -76,8 +72,7 @@
         "D": "<p>Dünyanın sadece dışsal bir varlık olduğunu vurgular.</p>",
         "E": "<p>Max Wertheimer’in takipçileri tarafından geliştirilmişlerdir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763469,
@@ -92,8 +87,7 @@
         "D": "<p>Okunurluk</p>",
         "E": "<p>Okuturluk</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763470,
@@ -108,8 +102,7 @@
         "D": "<p>Tasarımcısının karakteristik özellikleri.</p>",
         "E": "<p>Vuruşlarının görsel etkisi.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763471,
@@ -124,8 +117,7 @@
         "D": "<p>Hiyerarşi</p>",
         "E": "<p>Benzerlik İlkesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763472,
@@ -140,8 +132,7 @@
         "D": "<p>Yakınlık İlkesi</p>",
         "E": "<p>Hiyerarşi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763473,
@@ -156,8 +147,7 @@
         "D": "<p>Kapalılık İlkesi</p>",
         "E": "<p>Devamlılık İlkesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763524,
@@ -172,8 +162,7 @@
         "D": "<p>Yakınlık ilkesi</p>",
         "E": "<p>Benzerlik ilkesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763525,
@@ -188,8 +177,7 @@
         "D": "<p>Yakınlık ilkesi</p>",
         "E": "<p>Kapalılık ilkesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763526,
@@ -204,8 +192,7 @@
         "D": "<p>Kapalılık ilkesi</p>",
         "E": "<p>Figür-zemin ilkesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763527,
@@ -220,8 +207,7 @@
         "D": "<p>Benzerlik ilkesi</p>",
         "E": "<p>Figür-zemin ilkesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763528,
@@ -236,8 +222,7 @@
         "D": "<p>Değişim betimlemesi</p>",
         "E": "<p>Uyum ve zıtlık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763529,
@@ -252,8 +237,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763530,
@@ -268,8 +252,7 @@
         "D": "<p>Renk kodlaması</p>",
         "E": "<p>Uyum ve zıtlık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763531,
@@ -284,8 +267,7 @@
         "D": "<p>Disiplin kökeni</p>",
         "E": "<p>Tasarımcı zevki</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763532,
@@ -300,8 +282,7 @@
         "D": "<p>Kapalılık ilkesi</p>",
         "E": "<p>Hiyerarşi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763533,
@@ -316,7 +297,6 @@
         "D": "<p>Benzerlik</p>",
         "E": "<p>Hiyerarşi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

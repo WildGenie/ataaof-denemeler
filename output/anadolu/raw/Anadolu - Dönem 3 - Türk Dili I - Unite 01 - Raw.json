@@ -12,8 +12,7 @@
         "D": "<p>Yansıma</p>",
         "E": "<p>Değişke</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891579,
@@ -28,8 +27,7 @@
         "D": "<p>Değişke</p>",
         "E": "<p>Ölçünleştirme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891580,
@@ -44,8 +42,7 @@
         "D": "<p>Yazı dili</p>",
         "E": "<p>Lingua franca</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891581,
@@ -60,8 +57,7 @@
         "D": "<p>Arapça</p>",
         "E": "<p>Urdu dili</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891583,
@@ -76,8 +72,7 @@
         "D": "<p>Japonca</p>",
         "E": "<p>Çince</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891586,
@@ -92,8 +87,7 @@
         "D": "<p>Kıpçak Türkçesi</p>",
         "E": "<p>Oğuz Türkçesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891588,
@@ -108,8 +102,7 @@
         "D": "<p>Diyalekt</p>",
         "E": "<p>İzole dil</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891589,
@@ -124,8 +117,7 @@
         "D": "<p>Sümerce</p>",
         "E": "<p>Arnavutça</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891590,
@@ -140,8 +132,7 @@
         "D": "<p>Rusça</p>",
         "E": "<p>Çince</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891592,
@@ -156,8 +147,7 @@
         "D": "<p>Uygurca</p>",
         "E": "<p>Çuvaşça</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891594,
@@ -172,8 +162,7 @@
         "D": "<p>ÖNY</p>",
         "E": "<p>NYÖ</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891595,
@@ -188,8 +177,7 @@
         "D": "<p>Cinsiyet farkı konuşurların kelime seçimini etkiler.</p>",
         "E": "<p>İnsanların ait oldukları toplumsal ağ, dil kullanımlarını etkilemez.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891596,
@@ -204,8 +192,7 @@
         "D": "<p>Dilin kurallarının tanımına göre dilin kullanılması gerekir.</p>",
         "E": "<p>Farklılıklar olmakla beraber bireylerin dil üzerinde belli bir bilgisi vardır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891597,
@@ -220,8 +207,7 @@
         "D": "<p>Dil insanların meramlarını anlatmak için kullandıkları sesli işaretlerdir.</p>",
         "E": "<p>Dil zihnin birikimlerinin temsilidir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891598,
@@ -236,8 +222,7 @@
         "D": "<p>İlkel dil gelişmiş dil ayrımı yoktur.</p>",
         "E": "<p>Dil toplumsal katmanlara göre değişir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891599,
@@ -252,8 +237,7 @@
         "D": "<p>Dilin doğuşu insanın duygularını ifade etmesiyle ilişkilendirilebilir.</p>",
         "E": "<p>Dilin doğuşu insanın güneş karşısındaki duygularını dile getirdiği a/ağ seslerine bağlanabilir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891600,
@@ -268,8 +252,7 @@
         "D": "<p>Kutsal dil</p>",
         "E": "<p>İzole dil</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891601,
@@ -284,8 +267,7 @@
         "D": "<p>Tylor</p>",
         "E": "<p>Barthes</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891603,
@@ -300,8 +282,7 @@
         "D": "<p>Dil gerçekliği oluşturan bir filitre oluşturur, bu da algıyı etkiler.</p>",
         "E": "<p>Farklı dilleri konuşan insanların kültürel davranışları da farklıdır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891604,
@@ -316,8 +297,7 @@
         "D": "<p>Lakoff</p>",
         "E": "<p>Levinson</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891577,
@@ -332,8 +312,7 @@
         "D": "<p>Uluslararası dil</p>",
         "E": "<p>Yazı dili</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891582,
@@ -348,8 +327,7 @@
         "D": "<p>Arapça</p>",
         "E": "<p>İbranice</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891584,
@@ -364,8 +342,7 @@
         "D": "<p>İngilizce</p>",
         "E": "<p>Türkçe</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891585,
@@ -380,8 +357,7 @@
         "D": "<p>Ölçünlü diller</p>",
         "E": "<p>Uluslararası diller</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891587,
@@ -396,8 +372,7 @@
         "D": "<p>Ödünçleme</p>",
         "E": "<p>Diyalekt</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891591,
@@ -412,8 +387,7 @@
         "D": "<p>Uygurca</p>",
         "E": "<p>Kazakça</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891593,
@@ -428,8 +402,7 @@
         "D": "<p>Türkmence</p>",
         "E": "<p>Kumukça</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893473,
@@ -444,8 +417,7 @@
         "D": "<p>dayanışma</p>",
         "E": "<p>farklılaşma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893476,
@@ -460,8 +432,7 @@
         "D": "<p>Bağdaştırma</p>",
         "E": "<p>Örtmece söz</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891602,
@@ -476,7 +447,6 @@
         "D": "<p>Barthes</p>",
         "E": "<p>Durkheim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     }
 ]

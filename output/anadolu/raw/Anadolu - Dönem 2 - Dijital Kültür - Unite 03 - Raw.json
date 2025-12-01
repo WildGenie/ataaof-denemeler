@@ -12,8 +12,7 @@
         "D": "<p>Yeni Estetik İletişim</p>",
         "E": "<p>Simülasyon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769055,
@@ -28,8 +27,7 @@
         "D": "<p>Etkileşim</p>",
         "E": "<p>Kinestezi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769056,
@@ -44,8 +42,7 @@
         "D": "<p>Kinestezi</p>",
         "E": "<p>Duyusal geribildirim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769148,
@@ -60,8 +57,7 @@
         "D": "<p>Teknik açıdan sanal gerçekliğe yakın ilk cihaz</p>",
         "E": "<p>İlk üç boyutlu satılabilir sanal gerçeklik gözlüğü</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769249,
@@ -76,8 +72,7 @@
         "D": "<p>John Napier</p>",
         "E": "<p>Wilhelm Schickard</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769254,
@@ -92,8 +87,7 @@
         "D": "<p>Hugo Gernsback</p> ",
         "E": "<p>Ivan Shuterland</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769482,
@@ -108,8 +102,7 @@
         "D": "<p>Urartu</p>",
         "E": "<p>Sümer</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769521,
@@ -124,8 +117,7 @@
         "D": "<p>Aracılı iletişim</p>",
         "E": "<p>Sanal gerçeklik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769522,
@@ -140,8 +132,7 @@
         "D": "<p>Gerçeklikten uzaklaşma</p>",
         "E": "<p>Bedenlenme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769523,
@@ -156,8 +147,7 @@
         "D": "<p>Avatar</p>",
         "E": "<p>Tetikleyici</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769524,
@@ -172,8 +162,7 @@
         "D": "<p>Steve Mann</p>",
         "E": "<p class=\"p2\">Morton Heilig<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769525,
@@ -188,8 +177,7 @@
         "D": "<p class=\"p2\">Cihaza bağımlı</p>",
         "E": "<p>Serbeslik derecesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769526,
@@ -204,8 +192,7 @@
         "D": "<p>Etkileşimli olması</p>",
         "E": "<p>Üç boyutlu olması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769548,
@@ -220,8 +207,7 @@
         "D": "<p>John Pepper</p>",
         "E": "<p>Stanley Weinbaum</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769580,
@@ -236,8 +222,7 @@
         "D": "<p>Üst Gerçeklik</p>",
         "E": "<p>Yeni Estetik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769584,
@@ -252,8 +237,7 @@
         "D": "<p>Avatar</p>",
         "E": "<p>Oyunlaştırma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769586,
@@ -268,8 +252,7 @@
         "D": "<p>Arttırılmış Gerçeklik / Fiziksel Dünya</p>",
         "E": "<p>Arttırılmış Gerçeklik / Sanal Dünya</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769588,
@@ -284,8 +267,7 @@
         "D": "<p>zamanı / tek yönlü / üç</p>",
         "E": "<p>uzayı / etkileşimli / dört</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769597,
@@ -300,8 +282,7 @@
         "D": "<p><span lang=\"TR\">Memex.</span></p>",
         "E": "<p class=\"Pa5\"><span lang=\"TR\" style=\"font-family: 'Times New Roman',serif; color: black;\">HMD.</span></p> <p class=\"Default\"> </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769600,
@@ -316,8 +297,7 @@
         "D": "<p class=\"Default\"><span lang=\"TR\" style=\"font-family: 'Times New Roman',serif;\">Hollanda.</span></p> <p class=\"Default\"> </p>",
         "E": "<p><span lang=\"TR\">Japonya.</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769057,
@@ -332,8 +312,7 @@
         "D": "<p>Thomas P. Caudell</p>",
         "E": "<p>William Gibson</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769059,
@@ -348,8 +327,7 @@
         "D": "<p>Etkileşim</p>",
         "E": "<p>Kinestezi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769061,
@@ -364,8 +342,7 @@
         "D": "<p>Kinestezi</p>",
         "E": "<p>Sensorama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769140,
@@ -380,8 +357,7 @@
         "D": "<p>Leonardo da Vinci</p>",
         "E": "<p>Farabi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769145,
@@ -396,8 +372,7 @@
         "D": "<p>Genişletilmiş Gerçeklik</p>",
         "E": "<p>Aracılı İletişim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769146,
@@ -412,8 +387,7 @@
         "D": "<p>İşaretsiz tetikleyici</p>",
         "E": "<p>Cihaza bağımlı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769147,
@@ -428,8 +402,7 @@
         "D": "<p>Eğlence Alanında</p>",
         "E": "<p>Üretim Alanında</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769246,
@@ -444,8 +417,7 @@
         "D": "<p>MÖ 2300 yılları</p>",
         "E": "<p>MÖ 2200 yılları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769253,
@@ -460,8 +432,7 @@
         "D": "<p>Memex</p> ",
         "E": "<p>Fark Motoru</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769481,
@@ -476,8 +447,7 @@
         "D": "<p>Afrika</p>",
         "E": "<p>Mezapotamya</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769484,
@@ -492,8 +462,7 @@
         "D": "<p>Wilhelm Schickard</p>",
         "E": "<p>Wolfgang von Kempelen</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769485,
@@ -508,8 +477,7 @@
         "D": "<p>1984</p>",
         "E": "<p>1989</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769486,
@@ -524,8 +492,7 @@
         "D": "<p>Spinoza</p>",
         "E": "<p>Aristoteles</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769487,
@@ -540,8 +507,7 @@
         "D": "<p>Aracılı İletişim</p>",
         "E": "<p style=\"text-align: left;\">Hiper (Üst) Gerçeklik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769546,
@@ -556,8 +522,7 @@
         "D": "<p>John Pepper</p>",
         "E": "<p>McLuhan</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769549,
@@ -572,8 +537,7 @@
         "D": "<p>Robert Barker</p>",
         "E": "<p>Stanley Weinbaum</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769587,
@@ -588,8 +552,7 @@
         "D": "<p>Duyusal Geri Bildirim</p>",
         "E": "<p>Etkileşim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769598,
@@ -604,8 +567,7 @@
         "D": "<p>Etkileşimlidir.</p>",
         "E": "<p>Fiziksel ve sanalı birleştirir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769248,
@@ -620,8 +582,7 @@
         "D": "<p>John Napier</p>",
         "E": "<p>Wilhelm Schickard</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769255,
@@ -636,8 +597,7 @@
         "D": "<p>Duyusal Geri Bildirim</p>",
         "E": "<p>Etkileşim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769489,
@@ -652,8 +612,7 @@
         "D": "<p>Duyusal Geri Bildirim</p>",
         "E": "<p>Etkileşim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769541,
@@ -668,8 +627,7 @@
         "D": "<p>Mangala</p>",
         "E": "<p>Colossus</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769545,
@@ -684,8 +642,7 @@
         "D": "<p>Stanley Weinbaum</p>",
         "E": "<p>Tim Barners-Lee</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769581,
@@ -700,8 +657,7 @@
         "D": "<p>Sanal Gerçeklik</p>",
         "E": "<p>Yeni Estetik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769582,
@@ -716,8 +672,7 @@
         "D": "<p>Gömülme</p>",
         "E": "<p>Avatar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769583,
@@ -732,8 +687,7 @@
         "D": "<p>Siber Uzay</p>",
         "E": "<p>Avatar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769592,
@@ -748,8 +702,7 @@
         "D": "<p>Bir kökenden yoksundur.</p> ",
         "E": "<p>Geçmiş ve gelecek zamanın görüntüleridir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769594,
@@ -764,8 +717,7 @@
         "D": "<p>Myron Krueger.</p>",
         "E": "<p>James Bridle.</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769142,
@@ -780,8 +732,7 @@
         "D": "<p>İletişim doğal değil, teknoloji ile üretilen bir ortamda yapılmalıdır.</p>",
         "E": "<p>Kullanıcılarına sayısal dünyanın içine gömülme imkanı sağlamalıdır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769143,
@@ -796,8 +747,7 @@
         "D": "<p>Karma Gerçeklik</p>",
         "E": "<p>Genişletilmiş Gerçeklik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769542,
@@ -812,8 +762,7 @@
         "D": "<p>Mangala</p>",
         "E": "<p>Colossus</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769544,
@@ -828,8 +777,7 @@
         "D": "<p>Yapay zeka</p> ",
         "E": "<p>Nesnelerin İnterneti</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769589,
@@ -844,8 +792,7 @@
         "D": "<p>Sinyal</p>",
         "E": "<p>Sensör</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769593,
@@ -860,8 +807,7 @@
         "D": "<p>Üst metinsel bir ortamdır.</p> ",
         "E": "<p>Doğrusal olmayan bir ortamdır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769595,
@@ -876,8 +822,7 @@
         "D": "<p>Avatar.</p> ",
         "E": "<p>RFID.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769596,
@@ -892,8 +837,7 @@
         "D": "<p>Genişletilmiş gerçeklik.</p> ",
         "E": "<p>Karma Gerçeklik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769058,
@@ -908,8 +852,7 @@
         "D": "<p>Fiziksel gerçeklik</p>",
         "E": "<p>Kinestezi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769062,
@@ -924,8 +867,7 @@
         "D": "<p>Bedenlenme</p>",
         "E": "<p>Sanal gerçeklik eldiveni</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769139,
@@ -940,8 +882,7 @@
         "D": "<p>Fark Motoru</p> ",
         "E": "<p>Napier’in Kemikleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769141,
@@ -956,8 +897,7 @@
         "D": "<p>ENIAC</p>",
         "E": "<p>Memex</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769250,
@@ -972,8 +912,7 @@
         "D": "<p>Platon</p> ",
         "E": "<p>Sokrates</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769251,
@@ -988,8 +927,7 @@
         "D": "<p>Yeni Estetik</p>",
         "E": "<p>Yeni Gerçek</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769252,
@@ -1004,8 +942,7 @@
         "D": "<p>Üst Gerçeklik</p>",
         "E": "<p>Yeni Gerçek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769520,
@@ -1020,8 +957,7 @@
         "D": "<p class=\"p2\">CSIRAC</p>",
         "E": "<p class=\"p2\">Xerox Alto<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769550,
@@ -1036,8 +972,7 @@
         "D": "<p>VR</p> ",
         "E": "<p>HDMI</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769585,
@@ -1052,8 +987,7 @@
         "D": "<p>Aracılı İletişim</p>",
         "E": "<p>Hiper Gerçeklik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769144,
@@ -1068,8 +1002,7 @@
         "D": "<p>Hareket algılayıcı</p>",
         "E": "<p>Hesap makinesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769547,
@@ -1084,8 +1017,7 @@
         "D": "<p>Scott Fisher</p>  ",
         "E": "<p>Robert Barker</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769519,
@@ -1100,8 +1032,7 @@
         "D": "<p class=\"p2\">Nathaniel Rochester</p>",
         "E": "<p class=\"p2\">Claude Shannon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769247,
@@ -1116,8 +1047,7 @@
         "D": "<p>Fakih Saati</p>",
         "E": "<p>Kale Saati</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769543,
@@ -1132,8 +1062,7 @@
         "D": "<p>ARPANET</p> ",
         "E": "<p>Antikythera</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769052,
@@ -1148,8 +1077,7 @@
         "D": "<p>Binance</p>",
         "E": "<p>Ethereum</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769483,
@@ -1164,8 +1092,7 @@
         "D": "<p>Japon</p>",
         "E": "<p>Ceneviz</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769490,
@@ -1180,8 +1107,7 @@
         "D": "<p>Eğitim Alanında Sanal Gerçeklik</p>",
         "E": "<p>Eğlence Alanında Sanal Gerçeklik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769488,
@@ -1196,8 +1122,7 @@
         "D": "<p>Sanal Dünya</p>",
         "E": "<p>Karma Gerçeklik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769528,
@@ -1212,8 +1137,7 @@
         "D": "<p class=\"p2\">Pepper’ın Hayaleti<span class=\"Apple-converted-space\"> </span></p>",
         "E": "<p class=\"p2\">Neuromancer</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769060,
@@ -1228,8 +1152,7 @@
         "D": "<p>Genişletilmiş gerçeklik</p>",
         "E": "<p>Fiziksel gerçeklik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769599,
@@ -1244,8 +1167,7 @@
         "D": "<p><span lang=\"TR\">Cihaza Bağımlı Tetikleyici.</span></p>",
         "E": "<p class=\"Default\"><span lang=\"TR\" style=\"font-family: 'Times New Roman',serif;\">İşaretsiz Tetikleyici. </span></p> <p class=\"Default\"> </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769591,
@@ -1260,8 +1182,7 @@
         "D": "<p class=\"Default\"><span lang=\"TR\">ENIAC.</span></p> <p class=\"Default\"> </p>",
         "E": "<p><span lang=\"TR\">EDVAC.</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769527,
@@ -1276,7 +1197,6 @@
         "D": "<p class=\"p2\">Napier Rodları</p>",
         "E": "<p>Çin Abaküsü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     }
 ]

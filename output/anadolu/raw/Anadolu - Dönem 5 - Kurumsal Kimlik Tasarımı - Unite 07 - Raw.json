@@ -12,8 +12,7 @@
         "D": "<p>Farklı marka unsurlarını aynı görü ve duygu içerisinde birbirine bağlamak</p>",
         "E": "<p>Kurum kimliği kataloğunun kapsamını ve amacını açıklayabilmek</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862152,
@@ -28,8 +27,7 @@
         "D": "<p>Kurumsal yapı</p>",
         "E": "<p>Etkili pazarlama</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862153,
@@ -44,8 +42,7 @@
         "D": "<p>Çalışan Bağlılığı ve Motivasyonu</p>",
         "E": "<p>Digital Dönüşüm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862154,
@@ -60,8 +57,7 @@
         "D": "<p>Görsel Uygulama Örnekleri</p>",
         "E": "<p>Kurumsal Felsefe</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862155,
@@ -76,8 +72,7 @@
         "D": "<p>Digital Dönüşüm</p>",
         "E": "<p>Tipografi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862156,
@@ -92,8 +87,7 @@
         "D": "<p>Tipografi tercihleri</p>",
         "E": "<p>Revizyon ve Güncelleme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862157,
@@ -108,8 +102,7 @@
         "D": "<p>Entegrasyon ve Uygulama</p>",
         "E": "<p>Revizyon ve Güncelleme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862158,
@@ -124,8 +117,7 @@
         "D": "<p>Kurumsal yönergeler</p>",
         "E": "<p>Dolaylı iletişim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862159,
@@ -140,8 +132,7 @@
         "D": "<p>İşletmenin marka imajının korunmasına ve güçlendirilmesine büyük katkı sağlar</p>",
         "E": "<p>Tüketicilerin bir markayı tanıdığı ve hatırladığı derecedir</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862160,
@@ -156,8 +147,7 @@
         "D": "<p>Görsel ve sözel öğeler</p>",
         "E": "<p>Marka kimliği</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862204,
@@ -172,8 +162,7 @@
         "D": "I-III-IV",
         "E": "I-II-III-IV",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862205,
@@ -188,8 +177,7 @@
         "D": "Farklı marka unsurlarını aynı görü ve duygu içerisinde birbirine bağlamak",
         "E": "Diğer pazarlama iletişimi uygulama araçlarının etkisini arttırmak",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862206,
@@ -204,8 +192,7 @@
         "D": "Logomark",
         "E": "Tipografi",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862207,
@@ -220,8 +207,7 @@
         "D": "Logotype",
         "E": "Logomark",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862208,
@@ -236,8 +222,7 @@
         "D": "I-II-III",
         "E": "I-II-III-IV",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862209,
@@ -252,8 +237,7 @@
         "D": "Geçerlilik",
         "E": "Marka farkındalığı",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862210,
@@ -268,8 +252,7 @@
         "D": "Markaya yönelik tutum",
         "E": "Marka satın alma",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862211,
@@ -284,8 +267,7 @@
         "D": "Markanın dil ve yazı stilinin belirlenmesi",
         "E": "Marka stratejisinin belirlenmesi",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862212,
@@ -300,8 +282,7 @@
         "D": "Stratejik Analiz ve Planlama",
         "E": "Görsel Kimlik Unsurları Belirleme",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862213,
@@ -316,7 +297,6 @@
         "D": "Marka dil ve söylemi",
         "E": "Kurumsal iletişim stratejileri",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

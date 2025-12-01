@@ -12,8 +12,7 @@
         "D": "<p>Demokratik Güçler Partisi</p>",
         "E": "<p>Demokrat Parti</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513201,
@@ -28,8 +27,7 @@
         "D": "<p>Muhalefet Partileri ile ilişkiler</p>",
         "E": "<p>Başbakana verilen sınırsız yetkiler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513205,
@@ -44,8 +42,7 @@
         "D": "<p>Süleyman Demirel</p>",
         "E": "<p>Cevdet Sunay</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513206,
@@ -60,8 +57,7 @@
         "D": "<p>24 Temmuz 1945</p>",
         "E": "<p>20 Temmuz 1946</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513207,
@@ -76,8 +72,7 @@
         "D": "<p>14 Mart 1951</p>",
         "E": "<p>24 Mart 1950</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513212,
@@ -92,8 +87,7 @@
         "D": "<p>Fransa</p>",
         "E": "<p>İngiltere</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513213,
@@ -108,8 +102,7 @@
         "D": "<p>4 Nisan 1951</p>",
         "E": "<p>4 Nisan 1950</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513218,
@@ -124,8 +117,7 @@
         "D": "<p>12 Nisan 1960’daki grup toplantısında Tahkikat Komisyonu’nun kurulması konusunda alınan karardır</p>",
         "E": "<p>DP’nin, 5 Mayıs 1960 tarihinde  düzenlediği mitingin adıdır</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513220,
@@ -140,8 +132,7 @@
         "D": "<p>26 Şubat 1959</p>",
         "E": "<p> 27 Şubat 1959</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513224,
@@ -156,8 +147,7 @@
         "D": "<p>27 Ekim 1957</p>",
         "E": "<p>4 Ağustos 1958</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513226,
@@ -172,8 +162,7 @@
         "D": "<p>17.05.1950-14.03.1951</p>",
         "E": "<p>26.05.1950-19.04.1951</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513229,
@@ -188,8 +177,7 @@
         "D": "<p>Dokuz Subay Olayı</p>",
         "E": "<p>Vatan Cephesi'nin örgütlenme çalışmaları.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513231,
@@ -204,8 +192,7 @@
         "D": "<p>Propaganda Savaşları</p>",
         "E": "<p>Ekonomik Savaş.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513233,
@@ -220,8 +207,7 @@
         "D": "<p>Vergi Teşvik Kanunu</p>",
         "E": "<p>Yabancı Sermayeyi Teşvik Kanunu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513234,
@@ -236,8 +222,7 @@
         "D": "<p>Ticaret Mahkemeleri</p>",
         "E": "<p>Vergi Usul Mahkemeleri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513240,
@@ -252,8 +237,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513243,
@@ -268,8 +252,7 @@
         "D": "<p>Fazıl Küçük</p>",
         "E": "<p>Burhan Nalbantoğlu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513246,
@@ -284,8 +267,7 @@
         "D": "<p>22 Mayıs 1950</p>",
         "E": "<p>22 Ekim 1950</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513251,
@@ -300,8 +282,7 @@
         "D": "<p>I, III, V</p>",
         "E": "<p>I, II, III, IV, V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513252,
@@ -316,8 +297,7 @@
         "D": "<p>1964</p>",
         "E": "<p>1966</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513195,
@@ -332,8 +312,7 @@
         "D": "<p>Yabancıların Mülk Edinme Kanunu</p>",
         "E": "<p>Milletvekili Seçim Kanunu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513196,
@@ -348,8 +327,7 @@
         "D": "<p>Misak-i Milli</p>",
         "E": "<p>Söz Milletindir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513199,
@@ -364,8 +342,7 @@
         "D": "<p>Nihat Eğriboz’a</p>",
         "E": "<p>Hüseyin Cahit Yalçın’a</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513203,
@@ -380,8 +357,7 @@
         "D": "<p>BM Güvenlik konseyinin yardım çağrısı olumlu karşılamadı</p>",
         "E": "<p>TBMM’ne danışılmadan asker gönderme kararını anayasa ihlali saydı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513204,
@@ -396,8 +372,7 @@
         "D": "<p>Londra Antlaşması</p>",
         "E": "<p>İstanbul Antlaşması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513217,
@@ -412,8 +387,7 @@
         "D": "<p>Celal Bayar</p>",
         "E": "<p>İsmet İnönü</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513225,
@@ -428,8 +402,7 @@
         "D": "<p>16 Nisan 1950.</p>",
         "E": "<p>20 Mart 1951.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513227,
@@ -444,8 +417,7 @@
         "D": "<p>Kimi okullardan Atatürk fotoğraflarının kaldırılması.</p>",
         "E": "<p>Kitle iletişim araçlarından Atatürk karşıtlığı yayınların çoğalması.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513228,
@@ -460,8 +432,7 @@
         "D": "<p>16 Mart 1951</p>",
         "E": "<p>27 Ocak 1954</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513230,
@@ -476,8 +447,7 @@
         "D": "<p>Cemal Gürsel.</p>",
         "E": "<p>Cemal Madanoğlu.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513235,
@@ -492,8 +462,7 @@
         "D": "<p>NATO'ya üyelik başvurusu yapılması</p>",
         "E": "<p>Kore'ye asker gönderilmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513239,
@@ -508,8 +477,7 @@
         "D": "<p>I, II ve IV</p>",
         "E": "<p>II, III ve IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513241,
@@ -524,8 +492,7 @@
         "D": "<p>İsmet İnönü</p>",
         "E": "<p style=\"text-align: justify;\">Namık Gedik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513253,
@@ -540,8 +507,7 @@
         "D": "<p>1955</p>",
         "E": "<p>1958</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513254,
@@ -556,8 +522,7 @@
         "D": "<p>1952-1956</p>",
         "E": "<p>1952-1956</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513198,
@@ -572,8 +537,7 @@
         "D": "<p>Sağlık sorunlarının olması</p>",
         "E": "<p>Yeni bir parti kurma çalışmasına girişmesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513202,
@@ -588,8 +552,7 @@
         "D": "<p>Yeni partilerin kurulmasını engellemek</p>",
         "E": "<p>Muhalefetin seçim sandıklarını denetlemesini engellemek</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513210,
@@ -604,8 +567,7 @@
         "D": "<p>15 Temmuz 1949</p>",
         "E": "<p>12 Temmuz 1960</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513214,
@@ -620,8 +582,7 @@
         "D": "<p>1949</p>",
         "E": "<p>1952</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513236,
@@ -636,8 +597,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513244,
@@ -652,8 +612,7 @@
         "D": "<p>II ve IV</p>",
         "E": "<p>I, II ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513245,
@@ -668,8 +627,7 @@
         "D": "<p>1947</p>",
         "E": "<p>1948</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513208,
@@ -684,8 +642,7 @@
         "D": "<p>Özal dönemi</p>",
         "E": "<p>Bayar dönemi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513215,
@@ -700,8 +657,7 @@
         "D": "<p>X Toplantısında</p>",
         "E": "<p> XI Toplantısında</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513221,
@@ -716,8 +672,7 @@
         "D": "<p>Mısır</p>",
         "E": "<p>Filistin</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513222,
@@ -732,8 +687,7 @@
         "D": "<p>Tarım Sektörü</p>",
         "E": "<p>Ormancılık Sektörü</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513232,
@@ -748,8 +702,7 @@
         "D": "<p>Ocak 1960'dan itibaren.</p>",
         "E": "<p>Kasım 1958'den itibaren.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513237,
@@ -764,8 +717,7 @@
         "D": "<p>Köy Enstitülerinin kapatılmasına karşı çıkması</p>",
         "E": "<p>Çiftçiyi Topraklandırma Yasası'nı desteklemesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513238,
@@ -780,8 +732,7 @@
         "D": "<p>1950</p>",
         "E": "<p>1953</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513247,
@@ -796,8 +747,7 @@
         "D": "<p>1960-1965</p>",
         "E": "<p>1960-1970</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513200,
@@ -812,8 +762,7 @@
         "D": "<p>Kırşehir</p>",
         "E": "<p>Samsun</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513223,
@@ -828,8 +777,7 @@
         "D": "<p>1950- 1954 dönemi</p>",
         "E": "<p>1950- 1960 dönemi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513209,
@@ -844,8 +792,7 @@
         "D": "<p>Özal</p>",
         "E": "<p>Menderes</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513211,
@@ -860,8 +807,7 @@
         "D": "<p>Amerika Birleşik Devletleri (ABD) ve Sovyet Sosyalist Cumhuriyetler Birliği (SSCB)</p>",
         "E": "<p>Fransa-  Amerika</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513250,
@@ -876,8 +822,7 @@
         "D": "<p>1953</p>",
         "E": "<p>1954</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513216,
@@ -892,8 +837,7 @@
         "D": "<p>Kırşehir</p>",
         "E": "<p>Adıyaman</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513242,
@@ -908,8 +852,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513219,
@@ -924,8 +867,7 @@
         "D": "<p>18 Şubat 1952</p>",
         "E": "<p>1 Mart 1952</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513248,
@@ -940,7 +882,6 @@
         "D": "<p>24 Şubat 1957</p>",
         "E": "<p>27 Ocak 1959</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     }
 ]

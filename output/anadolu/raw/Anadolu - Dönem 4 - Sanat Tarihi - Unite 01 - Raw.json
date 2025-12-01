@@ -12,8 +12,7 @@
         "D": "<p>Mimari</p>",
         "E": "<p>Hiyeroglifler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935154,
@@ -28,8 +27,7 @@
         "D": "<p>Figürün</p>",
         "E": "<p>Ortostad</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935208,
@@ -44,8 +42,7 @@
         "D": "<p>Hiyeroglif</p>",
         "E": "<p>Lamaşşu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935210,
@@ -60,8 +57,7 @@
         "D": "<p>Şeyh el Beled</p>",
         "E": "<p>Nebamun</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935219,
@@ -76,8 +72,7 @@
         "D": "<p>Menkare</p>",
         "E": "<p>Sakkara</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935242,
@@ -92,8 +87,7 @@
         "D": "<div class=\"page\" title=\"Page 12\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Sümer Devletleri</p> </div> </div> </div> </div>",
         "E": "<p>Urartu Krallığı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935255,
@@ -108,8 +102,7 @@
         "D": "<p>Mezolitik</p>",
         "E": "<p>Paleolitik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935277,
@@ -124,8 +117,7 @@
         "D": "<p>Babil Kulesi</p>",
         "E": "<p>idol</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935292,
@@ -140,8 +132,7 @@
         "D": "<p>Ölülerin mumyalanmasıyla</p>",
         "E": "<p>Papirüsün keşfiyle</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935299,
@@ -156,8 +147,7 @@
         "D": "<p>Kafesli gül</p>",
         "E": "<p>Ay ışığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935317,
@@ -172,8 +162,7 @@
         "D": "<p>Paleolitik</p>",
         "E": "<p>Prehistorik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935320,
@@ -188,8 +177,7 @@
         "D": "<p>MÖ 9000</p>",
         "E": "<p>MÖ 2000</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935348,
@@ -204,8 +192,7 @@
         "D": "Öklid Taşı",
         "E": "Rosette Taşı",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935376,
@@ -220,8 +207,7 @@
         "D": "<p>Asurlular</p>",
         "E": "<p>Hattiler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935378,
@@ -236,8 +222,7 @@
         "D": "<p>Lidya</p>",
         "E": "<p>Sümer</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935380,
@@ -252,8 +237,7 @@
         "D": "<p>III-IV-V</p>",
         "E": "<p>II-III-IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935397,
@@ -268,8 +252,7 @@
         "D": "<p>Megaron</p>",
         "E": "<p>Stel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935400,
@@ -284,8 +267,7 @@
         "D": "<p>Keops</p>",
         "E": "<p>Papirüs</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935403,
@@ -300,8 +282,7 @@
         "D": "<p>i-Tunç ii-Antalya Karain</p>",
         "E": "<p>i-Paleolitik ii-Hatay Üçağızlı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935457,
@@ -316,8 +297,7 @@
         "D": "<p>Akpara Kale</p>",
         "E": "<p>Yapıldak Asarkaya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935143,
@@ -332,8 +312,7 @@
         "D": "<p>Stonehenge</p>",
         "E": "<p>kromlek anıt</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935171,
@@ -348,8 +327,7 @@
         "D": "Tunç Çağı",
         "E": "<p>Maden Devri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935205,
@@ -364,8 +342,7 @@
         "D": "<p>Urartu</p>",
         "E": "<p>İyonya</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935223,
@@ -380,8 +357,7 @@
         "D": "<p>Piramit</p>",
         "E": "<p>Ziggurat</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935238,
@@ -396,8 +372,7 @@
         "D": "<p>Ritüel</p>",
         "E": "<p>Dolmen</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935240,
@@ -412,8 +387,7 @@
         "D": "<p>Neolitik, Orta Taş devirleri anlamına gelmektedir</p>",
         "E": "<div class=\"page\" title=\"Page 3\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Neolitik, Yeni Taş devri anlamına gelmektedir</p> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935247,
@@ -428,8 +402,7 @@
         "D": "<p>Hititler</p>",
         "E": "<p>Frigler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935249,
@@ -444,8 +417,7 @@
         "D": "<p>Siren</p>",
         "E": "<p>Simurg</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935258,
@@ -460,8 +432,7 @@
         "D": "<p>Sitadel</p>",
         "E": "<p>Fibula</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935259,
@@ -476,8 +447,7 @@
         "D": "<p>Nefertiti</p>",
         "E": "<p>Firavun</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935261,
@@ -492,8 +462,7 @@
         "D": "<p>Nefertiti</p>",
         "E": "<p>İmhotep</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935280,
@@ -508,8 +477,7 @@
         "D": "<p>Hator (İnek)</p>",
         "E": "<p>Sekhet (Aslan)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935284,
@@ -524,8 +492,7 @@
         "D": "<p>Uygurlar</p>",
         "E": "<p>Babiller</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935300,
@@ -540,8 +507,7 @@
         "D": "<p>Yaylaköy</p>",
         "E": "<p>Erdemli</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935303,
@@ -556,8 +522,7 @@
         "D": "<p>Hittiti</p>",
         "E": "<p>Beşik vadisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935309,
@@ -572,8 +537,7 @@
         "D": "<p>Urartu</p>",
         "E": "<p>Frig</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935365,
@@ -588,8 +552,7 @@
         "D": "Ziggurat",
         "E": "Dolmen",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935419,
@@ -604,8 +567,7 @@
         "D": "<p> Çayönü Höyüğü</p>",
         "E": "<p> Samarra kültürü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935431,
@@ -620,8 +582,7 @@
         "D": "<p>papirüs </p> ",
         "E": "<p><em>obelisk </em></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935465,
@@ -636,8 +597,7 @@
         "D": "<p>Can Hasan</p>",
         "E": "<p>Çatalhöyük</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935167,
@@ -652,8 +612,7 @@
         "D": "<p>M.Ö.8600 ve 7600</p>",
         "E": "<p>M.Ö.9600 ve 8600</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935196,
@@ -668,8 +627,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>Sadece III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935218,
@@ -684,8 +642,7 @@
         "D": "<p>1879</p>",
         "E": "<p>1922</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935306,
@@ -700,8 +657,7 @@
         "D": "<p>Kalkolitik</p>",
         "E": "<p>Prehistorik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935323,
@@ -716,8 +672,7 @@
         "D": "<p>Yeniçağ</p>",
         "E": "<p>Ortacağ</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935340,
@@ -732,8 +687,7 @@
         "D": "MÖ 7.000-5.000",
         "E": "MÖ 5.000-3.000",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935358,
@@ -748,8 +702,7 @@
         "D": "Maden",
         "E": "Tunç",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935364,
@@ -764,8 +717,7 @@
         "D": "Sümer Uygarlığı",
         "E": "İon Uygarlığı",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935385,
@@ -780,8 +732,7 @@
         "D": "<p>Bakır-Kalay</p> ",
         "E": "<p>Kalay-Demir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935390,
@@ -796,8 +747,7 @@
         "D": "<p>Hacılar</p> ",
         "E": "<p>Beldibi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935393,
@@ -812,8 +762,7 @@
         "D": "<p>MÖ 1950</p>",
         "E": "<p>MÖ 1750</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935406,
@@ -828,8 +777,7 @@
         "D": "<p>Hattiler</p>",
         "E": "<p>Urartular</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935415,
@@ -844,8 +792,7 @@
         "D": "<p> II ve III</p>",
         "E": "<p> I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935417,
@@ -860,8 +807,7 @@
         "D": "<p>i-Mühür ii-Sümer</p>",
         "E": "<p>i-Maske ii-Mısır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935433,
@@ -876,8 +822,7 @@
         "D": "<p class=\"p1\" style=\"text-indent: 0cm;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman';\">Pers</span></p>\n<p class=\"p1\" style=\"text-indent: 0cm;\"> </p>",
         "E": "<p>Babil</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935461,
@@ -892,8 +837,7 @@
         "D": "<p>6</p>",
         "E": "<p>2</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935463,
@@ -908,8 +852,7 @@
         "D": "<p>Megaron</p>",
         "E": "<p>Höyük</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935470,
@@ -924,8 +867,7 @@
         "D": "<p>Kalkolitik Devir</p>",
         "E": "<p>Tunç Çağı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935145,
@@ -940,8 +882,7 @@
         "D": "<p>Kollektif iş gücü gerektiren yapı ve buluntuların bulunması, bezemeli taşlar ve boncuk yapımı gibi uzmanlık alanlarının ortaya çıkması</p>",
         "E": "<p>Dokumanın bulunması, üretilmesi ve kullanımının yaygınlaşması.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935199,
@@ -956,8 +897,7 @@
         "D": "<p>Sümer</p>",
         "E": "<p>Mısır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935212,
@@ -972,8 +912,7 @@
         "D": "<p>Sümerler</p>",
         "E": "<p>Urartular</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935233,
@@ -988,8 +927,7 @@
         "D": "<p>Urartu Uygarlığı</p>",
         "E": "<p>Lidya Uygarlığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935236,
@@ -1004,8 +942,7 @@
         "D": "<p>Tapınaklardaki iç avlu</p>",
         "E": "<p>Mısır halk sanatında heykellere verilen isim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935239,
@@ -1020,8 +957,7 @@
         "D": "<p>Neolitik Dönem’de görülmeye başlar</p>",
         "E": "<p>Taş Devri’ne ait en eski anıtlardır</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935241,
@@ -1036,8 +972,7 @@
         "D": "<p>Tunç Döneminde, tarıma dayalı “köy kültürü” görülmektedir</p>",
         "E": "<p>Anadolu’da Tunç Devri erken, orta ve geç olmak üzere üç evrede ele alınmaktadır</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935278,
@@ -1052,8 +987,7 @@
         "D": "<p>Eski Krallık (MÖ 3100-2150)</p>",
         "E": "<p>Helenistik Dönem (MÖ 31- 332)</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935302,
@@ -1068,8 +1002,7 @@
         "D": "<p>Hattuşa Uygarlığı</p>",
         "E": "<p>Akad Uygarlığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935313,
@@ -1084,8 +1017,7 @@
         "D": "<p>Stel</p>",
         "E": "<p>Megaron</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935339,
@@ -1100,8 +1032,7 @@
         "D": "Urartu Uygarlığı",
         "E": "Babil Uygarlığı",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935350,
@@ -1116,8 +1047,7 @@
         "D": "Coğrafi konum",
         "E": "Tapınaklar",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935352,
@@ -1132,8 +1062,7 @@
         "D": "Stel",
         "E": "Lamaşşu",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935372,
@@ -1148,8 +1077,7 @@
         "D": "<p>Frig</p>",
         "E": "<p>Hitit</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935388,
@@ -1164,8 +1092,7 @@
         "D": "<p>Kalkolitik</p> ",
         "E": "<p>Erken Tunç</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935416,
@@ -1180,8 +1107,7 @@
         "D": "<p> Frigya Uygarlığı</p>",
         "E": "<p>Hitit Uygarlığı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935453,
@@ -1196,8 +1122,7 @@
         "D": "<p>Kalkolitik</p>",
         "E": "<p>Tunç </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935462,
@@ -1212,8 +1137,7 @@
         "D": "<p>Hitit</p>",
         "E": "<p>Hatti</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935133,
@@ -1228,8 +1152,7 @@
         "D": "<p>Mısır Uygarlığı</p>",
         "E": "<p>Lidya Uygarlığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935179,
@@ -1244,8 +1167,7 @@
         "D": "<p>MÖ 3200 yıllarında geliştirdikleri çivi yazısı.</p>",
         "E": "<p>Uzak Doğu’dan geldiği anlaşılan değerli taşlar ile yapılmış takılar, süs eşyaları ve müzik aletleri.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935186,
@@ -1260,8 +1182,7 @@
         "D": "<p>Sfensk.</p>",
         "E": "<p>Kyklop.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935204,
@@ -1276,8 +1197,7 @@
         "D": "<p>Sümerler</p>",
         "E": "<p>Babiller</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935214,
@@ -1292,8 +1212,7 @@
         "D": "<div class=\"page\" title=\"Page 6\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Tunç</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 5\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Neolitik </p> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935225,
@@ -1308,8 +1227,7 @@
         "D": "<p>Kalkolitik dönem</p>",
         "E": "<p>Paleolitik dönem</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935250,
@@ -1324,8 +1242,7 @@
         "D": "<p>Stoa</p>",
         "E": "<p>Odeion</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935251,
@@ -1340,8 +1257,7 @@
         "D": "<p>Stel </p>",
         "E": "<p>Menhir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935262,
@@ -1356,8 +1272,7 @@
         "D": "<p>Frigler</p>",
         "E": "<p>Asurlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935304,
@@ -1372,8 +1287,7 @@
         "D": "<p>Tümülüs</p>",
         "E": "<p>Dolmen</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935314,
@@ -1388,8 +1302,7 @@
         "D": "<p>Frig</p>",
         "E": "<p>Asur</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935315,
@@ -1404,8 +1317,7 @@
         "D": "<p>Mö 1000-200</p>",
         "E": "<p>MÖ 2.500000-5000</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935322,
@@ -1420,8 +1332,7 @@
         "D": "<p>Lidya</p>",
         "E": "<p>Hunlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935346,
@@ -1436,8 +1347,7 @@
         "D": "Menhir",
         "E": "Stel",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935357,
@@ -1452,8 +1362,7 @@
         "D": "5",
         "E": "6",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935387,
@@ -1468,8 +1377,7 @@
         "D": "<p>Silex</p> ",
         "E": "<p>Granit</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935405,
@@ -1484,8 +1392,7 @@
         "D": "<p>Tunç</p>",
         "E": "<p>Çanak Çömleksiz Neolitik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935441,
@@ -1500,8 +1407,7 @@
         "D": "<p>63-65 derece</p>",
         "E": "<p>69-71 derece</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935139,
@@ -1516,8 +1422,7 @@
         "D": "<p>Mısır Uygarlığı</p>",
         "E": "<p>Babil Uygarlığı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935149,
@@ -1532,8 +1437,7 @@
         "D": "<p>Araplar </p>",
         "E": "<p>Asurlular</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935159,
@@ -1548,8 +1452,7 @@
         "D": "<p>Asur- Lamaşşu Heykelleri</p>",
         "E": "<p>Sümer-Nannar'ın Zigguratı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935190,
@@ -1564,8 +1467,7 @@
         "D": "<p>Pilon.</p>",
         "E": "<p>Obelisk.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935260,
@@ -1580,8 +1482,7 @@
         "D": "<p>Papirüs</p>",
         "E": "<p>Peristil</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935286,
@@ -1596,8 +1497,7 @@
         "D": "<p>Çatalhöyük</p>",
         "E": "<p>Kapadokya</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935293,
@@ -1612,8 +1512,7 @@
         "D": "<p>Giza piramitleri Kutup Yıldızı&rsquo;na ve g&uuml;neşin dikey eksenine gelecek şekilde inşa edilmiştir.&nbsp;</p>",
         "E": "<p>Piramitlerin mezar odaları ziyaret&ccedil;ilerin kolay ulaşabilmesi i&ccedil;in her zaman merkeze inşa edilirdi.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935342,
@@ -1628,8 +1527,7 @@
         "D": "<p>Amenti</p>",
         "E": "<p>Anubis</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935370,
@@ -1644,8 +1542,7 @@
         "D": "Çivi yazısı",
         "E": "Hiyeroglif",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935373,
@@ -1660,8 +1557,7 @@
         "D": "<p>I-II</p>",
         "E": "<p>IV-V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935402,
@@ -1676,8 +1572,7 @@
         "D": "<p>Obsidyen</p>",
         "E": "<p>Stel</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935437,
@@ -1692,8 +1587,7 @@
         "D": "<p>Lidya Uygarlığı</p>",
         "E": "<p>Urartu Uygarlığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935438,
@@ -1708,8 +1602,7 @@
         "D": "<p>Pilon</p>",
         "E": "<p>Sfenks</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935443,
@@ -1724,8 +1617,7 @@
         "D": "<p>Çadır</p>",
         "E": "<p>Ev</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935460,
@@ -1740,8 +1632,7 @@
         "D": "<p>Lamaşşu</p>",
         "E": "<p>Aşurnasirpal</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935136,
@@ -1756,8 +1647,7 @@
         "D": "<p>Asur</p> ",
         "E": "<p>Mısır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935176,
@@ -1772,8 +1662,7 @@
         "D": "<p>Lidya Uygarlığı</p>",
         "E": "Hitit Uygarlığı",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935231,
@@ -1788,8 +1677,7 @@
         "D": "<p>Çıplak bir tanrı ana heykelciği</p>",
         "E": "<p>Tapınak odası</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935252,
@@ -1804,8 +1692,7 @@
         "D": "<p>Maktra</p>",
         "E": "<p>Trapetum</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935265,
@@ -1820,8 +1707,7 @@
         "D": "<p>Tunç Devri</p>",
         "E": "<p>Mezolitik Devri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935267,
@@ -1836,8 +1722,7 @@
         "D": "<p>Erken Tunç Devri</p>",
         "E": "<p>Neolitik Devir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935271,
@@ -1852,8 +1737,7 @@
         "D": "<p>Lidalılar</p>",
         "E": "<p>Frigler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935276,
@@ -1868,8 +1752,7 @@
         "D": "<p>Sfenks</p>",
         "E": "<p>Fibula</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935297,
@@ -1884,8 +1767,7 @@
         "D": "<p>Ephesus</p>",
         "E": "<p>Olympos</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935311,
@@ -1900,8 +1782,7 @@
         "D": "<p>Akkad</p>",
         "E": "<p>Asur</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935321,
@@ -1916,8 +1797,7 @@
         "D": "<p>Burdur</p>",
         "E": "<p>Eskişehir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935328,
@@ -1932,8 +1812,7 @@
         "D": "Dünya’nın Hâkimi",
         "E": "Akad’ın Güneşi",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935363,
@@ -1948,8 +1827,7 @@
         "D": "Sümerler",
         "E": "Lidyalılar",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935374,
@@ -1964,8 +1842,7 @@
         "D": "<p>Neolitik</p>",
         "E": "<p>Cilalı Taş</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935401,
@@ -1980,8 +1857,7 @@
         "D": "<p>Obeliks</p>",
         "E": "<p>Pilon</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935158,
@@ -1996,8 +1872,7 @@
         "D": "<p>Peristil</p>",
         "E": "<p>Ziggurat</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935166,
@@ -2012,8 +1887,7 @@
         "D": "<p>M.Ö.7000</p>",
         "E": "<p>M.Ö.6000</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935213,
@@ -2028,8 +1902,7 @@
         "D": "<p>Kerpiç</p>",
         "E": "<p>Obsidiyen</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935295,
@@ -2044,8 +1917,7 @@
         "D": "<p>15 000 yıl</p>",
         "E": "<p>100 yıl</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935308,
@@ -2060,8 +1932,7 @@
         "D": "<p>Figürün</p>",
         "E": "<p>Megaron</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935329,
@@ -2076,8 +1947,7 @@
         "D": "Sfenks",
         "E": "Megaron",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935335,
@@ -2092,8 +1962,7 @@
         "D": "Babil Uygarlığı",
         "E": "Frig Uygarlığı",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935336,
@@ -2108,8 +1977,7 @@
         "D": "Boğa ",
         "E": "Güvercin",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935408,
@@ -2124,8 +1992,7 @@
         "D": "<p>Altıntepe</p>",
         "E": "<p>Kültepe</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935421,
@@ -2140,8 +2007,7 @@
         "D": "<p> İştar Kapısı</p>",
         "E": "<p> Ziggurat</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935467,
@@ -2156,8 +2022,7 @@
         "D": "<p>Hatti</p>",
         "E": "<p>Urartu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935146,
@@ -2172,8 +2037,7 @@
         "D": "<p>Frig Uygarlığı</p>",
         "E": "<p>Lidya uygarlığı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935147,
@@ -2188,8 +2052,7 @@
         "D": "<p>Beyaz bünye ve çok renkli olması</p>",
         "E": "<p>Kapaksız ve ince boyunlu olmaları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935161,
@@ -2204,8 +2067,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935215,
@@ -2220,8 +2082,7 @@
         "D": "<div class=\"page\" title=\"Page 9\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Frig Uygarlığı</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 10\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Lidya Uygarlığı</p> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935230,
@@ -2236,8 +2097,7 @@
         "D": "<p>Menhir</p>",
         "E": "<p>Stel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935281,
@@ -2252,8 +2112,7 @@
         "D": "<p>Mastaba</p>",
         "E": "<p>Tümülüs</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935307,
@@ -2268,8 +2127,7 @@
         "D": "<p>Figürün</p>",
         "E": "<p dir=\"ltr\">Megaron</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935319,
@@ -2284,8 +2142,7 @@
         "D": "<p>Mezolitik</p>",
         "E": "<p>Paleolitik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935381,
@@ -2300,8 +2157,7 @@
         "D": "<p>II-IV-V</p>",
         "E": "<p>II-IV-V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935410,
@@ -2316,8 +2172,7 @@
         "D": "<p>Babil</p>",
         "E": "<p>Sümer</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935446,
@@ -2332,8 +2187,7 @@
         "D": "<p>Fibula</p>",
         "E": "<p>Sfenks</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935447,
@@ -2348,8 +2202,7 @@
         "D": "<p>Babil</p>",
         "E": "<p>Asur</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935459,
@@ -2364,8 +2217,7 @@
         "D": "<p>Sümer</p>",
         "E": "<p>Lidya</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935183,
@@ -2380,8 +2232,7 @@
         "D": "<p>MÖ 5600-3500</p>",
         "E": "<p>MÖ 3.000-1.000</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935188,
@@ -2396,8 +2247,7 @@
         "D": "<p>Ziggurat.</p>",
         "E": "<p>Dikilitaş.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935206,
@@ -2412,8 +2262,7 @@
         "D": "<p>Sümerler</p>",
         "E": "<p>Lidyalılar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935266,
@@ -2428,8 +2277,7 @@
         "D": "<p>Erken kalkolitik Devir</p>",
         "E": "<p>Neolitik Devir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935285,
@@ -2444,8 +2292,7 @@
         "D": "<p>Tunç çağı</p>",
         "E": "<p>Maden çağı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935332,
@@ -2460,8 +2307,7 @@
         "D": "Menhir ",
         "E": "Ziggurat ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935345,
@@ -2476,8 +2322,7 @@
         "D": "Tümülüs",
         "E": "İdol",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935368,
@@ -2492,8 +2337,7 @@
         "D": "Akkad Uygarlığı",
         "E": "Lidya Uygarlığı",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935407,
@@ -2508,8 +2352,7 @@
         "D": "<p>Firigler</p>",
         "E": "<p>Asurlular</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935439,
@@ -2524,8 +2367,7 @@
         "D": "<p>İnek</p>",
         "E": "<p>Timsah</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935138,
@@ -2540,8 +2382,7 @@
         "D": "<p>Ortostad</p>",
         "E": "<p>Sitadel</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935157,
@@ -2556,8 +2397,7 @@
         "D": "<p>Obsidyen</p>",
         "E": "<p>Lamaşşu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935168,
@@ -2572,8 +2412,7 @@
         "D": "<p>Cumhuriyet döneminde</p>",
         "E": "<p>Kakolitik devir sonlarında</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935189,
@@ -2588,8 +2427,7 @@
         "D": "<p>Anubis.</p>",
         "E": "<p>Crisis.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935331,
@@ -2604,8 +2442,7 @@
         "D": "Frigya, bugünkü Gediz ve Küçük Menderes vadileri arasını kapsayan bölgenin adıdır. ",
         "E": "Friglerin en özgün sanatsal dalı ahşap işçiliği ve mobilyacılıktır. ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935356,
@@ -2620,8 +2457,7 @@
         "D": "Paleolitik",
         "E": "Urartu",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935424,
@@ -2636,8 +2472,7 @@
         "D": "<p class=\"p1\" style=\"text-indent: 0cm;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman';\">Maden</span></p>",
         "E": "<p class=\"p1\" style=\"text-indent: 0cm;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman';\">Höyük</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935427,
@@ -2652,8 +2487,7 @@
         "D": "<p>Urartu Uygarlığı </p> ",
         "E": "<p>Hitit Uygarlığı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935436,
@@ -2668,8 +2502,7 @@
         "D": "<p>Sümer Uygarlığı</p>",
         "E": "<p>Urartu Uygarlığı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935450,
@@ -2684,8 +2517,7 @@
         "D": "<p>Firavun</p>",
         "E": "<p>Tanrı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935464,
@@ -2700,8 +2532,7 @@
         "D": "<p>Kalkolitik Dönem</p>",
         "E": "<p>Tunç Devri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935153,
@@ -2716,8 +2547,7 @@
         "D": "<p>Obelisk</p>",
         "E": "<p>Tapınak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935195,
@@ -2732,8 +2562,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935264,
@@ -2748,8 +2577,7 @@
         "D": "<p>Neolitik Devir</p>",
         "E": "<p>Demir Devri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935269,
@@ -2764,8 +2592,7 @@
         "D": "<p>Hititler</p>",
         "E": "<p>Urartular</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935338,
@@ -2780,8 +2607,7 @@
         "D": "Lamaşşu",
         "E": "Halaf",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935343,
@@ -2796,8 +2622,7 @@
         "D": "Megaron",
         "E": "Stel",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935413,
@@ -2812,8 +2637,7 @@
         "D": "<p> Stel</p>",
         "E": "<p>Kerpiç</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935423,
@@ -2828,8 +2652,7 @@
         "D": "<p> Orion</p>",
         "E": "<p> Ziggurat</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935458,
@@ -2844,8 +2667,7 @@
         "D": "<p>Ortostad</p>",
         "E": "<p>Fibula</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935131,
@@ -2860,8 +2682,7 @@
         "D": "<p>Höyük</p>",
         "E": "<p>Balbal</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935197,
@@ -2876,8 +2697,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>Sadece I</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935198,
@@ -2892,8 +2712,7 @@
         "D": "<p>Hammurabi</p>",
         "E": "<p>Aşurnasirpal</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935351,
@@ -2908,8 +2727,7 @@
         "D": "Lydion",
         "E": "Cella",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935354,
@@ -2924,8 +2742,7 @@
         "D": "<p>Samarra Uygarlığı</p>",
         "E": "<p>Babil Uygarlığı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935412,
@@ -2940,8 +2757,7 @@
         "D": "<p>Başlangıçta yalnız korktukları, daha sonraları yalnız yararlandıkları hayvanları resmetmişlerdir.</p>",
         "E": "<p> Avcının avını tanıması ve avının iyi geçmesi amacıyla duvarlara çizdikleri düşünülmektedir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935429,
@@ -2956,8 +2772,7 @@
         "D": "<p>Ortostad </p> ",
         "E": "<p>Sfenks </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935466,
@@ -2972,8 +2787,7 @@
         "D": "<p>Menhir</p>",
         "E": "<p>Höyük</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935175,
@@ -2988,8 +2802,7 @@
         "D": "<p>Neolitik (Yeni Taş) Devir</p>",
         "E": "<p>Neolitik’in son dönemi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935272,
@@ -3004,8 +2817,7 @@
         "D": "<p>Obayd/Ubaid Kültürü</p>",
         "E": "<p>Sümer Kültürü</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935275,
@@ -3020,8 +2832,7 @@
         "D": "<p>Urartular</p>",
         "E": "<p>Asurlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935349,
@@ -3036,8 +2847,7 @@
         "D": "Yeni Krallık Dönemi",
         "E": "Geç Dönem",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935369,
@@ -3052,8 +2862,7 @@
         "D": "Babil",
         "E": "Asur",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935375,
@@ -3068,8 +2877,7 @@
         "D": "<p>Dolmen</p>",
         "E": "<p>Sitadel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935394,
@@ -3084,8 +2892,7 @@
         "D": "<p>Gömü</p>",
         "E": "<p>Kümbet</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935211,
@@ -3100,8 +2907,7 @@
         "D": "<p>Ziggurat </p>",
         "E": "<p><a class=\"SetPageTerm-wordText\"><span class=\"TermText notranslate lang-tr\">Agora</span></a></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935248,
@@ -3116,8 +2922,7 @@
         "D": "<p>Buleuterion</p>",
         "E": "<p>Megaron</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935263,
@@ -3132,8 +2937,7 @@
         "D": "<p>Taş Devri- Maden Devri</p>",
         "E": "<p>Demir Devri- Tunç Devri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935367,
@@ -3148,8 +2952,7 @@
         "D": "Seramik",
         "E": "Obsidyen",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935386,
@@ -3164,8 +2967,7 @@
         "D": "<p>Antalya-Belbaşı</p> ",
         "E": "<p>Tokat-Ballıin</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935404,
@@ -3180,8 +2982,7 @@
         "D": "<p><span style=\"left: 132.284px; top: 492.403px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.02006);\">Kalkolitik  Devir <br /></span></p>",
         "E": "<p><span style=\"left: 132.284px; top: 1055.74px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.03844);\">Tunç Devri</span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935422,
@@ -3196,8 +2997,7 @@
         "D": "<p> II ve III</p>",
         "E": "<p> I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935428,
@@ -3212,8 +3012,7 @@
         "D": " <p>Sümer Uygarlığı</p> ",
         "E": " <p>Frig Uygarlığı </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935442,
@@ -3228,8 +3027,7 @@
         "D": "<p>Toprak</p>",
         "E": "<p>Plastik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935152,
@@ -3244,8 +3042,7 @@
         "D": "<p>Megaron</p>",
         "E": "<p>Sitadel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935173,
@@ -3260,8 +3057,7 @@
         "D": "<p>MÖ. 9.000-7.000 Neolitik (Yeni Taş) Devirde</p>",
         "E": "<p> MÖ. 5.600-3.500  Kalkolitik (Bronz Bakır) Devirde </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935220,
@@ -3276,8 +3072,7 @@
         "D": "<p>Peristil</p>",
         "E": "<p>Hipostil</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935270,
@@ -3292,8 +3087,7 @@
         "D": "<p>Urartular</p>",
         "E": "<p>Asurlar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935366,
@@ -3308,8 +3102,7 @@
         "D": "Lidya Uygarlığı",
         "E": "Sümer Uygarlığı",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935399,
@@ -3324,8 +3117,7 @@
         "D": "<p>Sfenks</p>",
         "E": "<p>Sitadel</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935445,
@@ -3340,8 +3132,7 @@
         "D": "<p>Megaron</p>",
         "E": "<p>Kent</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935155,
@@ -3356,8 +3147,7 @@
         "D": "<p>Sitadel</p>",
         "E": "<p>Sfenks</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935201,
@@ -3372,8 +3162,7 @@
         "D": "<p>Karain Mağarası</p>",
         "E": "<p>Çayönü Mağarası</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935245,
@@ -3388,8 +3177,7 @@
         "D": "<p>Nil, Mısır sanatının gelişiminde önemliydi</p>",
         "E": "<p>Nil, ulaşımın sağlanmasında faydalı toprak verimliliğinde faydasızdı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935253,
@@ -3404,8 +3192,7 @@
         "D": "<p>Maden Çağı</p>",
         "E": "<p>Kalkolitik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935294,
@@ -3420,8 +3207,7 @@
         "D": "<p>Koyu tenli kadınlar, açık tenli erkekler.</p>",
         "E": "<p>Derinlik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935418,
@@ -3436,8 +3222,7 @@
         "D": "<p> Asur</p>",
         "E": "<p>Hitit</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935449,
@@ -3452,8 +3237,7 @@
         "D": "<p>Kule</p>",
         "E": "<p>Saray</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935165,
@@ -3468,8 +3252,7 @@
         "D": "<p>M.Ö.1980</p>",
         "E": "<p>M.Ö.1990</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935193,
@@ -3484,8 +3267,7 @@
         "D": "<p>Neolitik Devir</p>",
         "E": "<p>Kalkolitik Devir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935244,
@@ -3500,8 +3282,7 @@
         "D": "<p>Çivi yazısı, Fenike kıyılarında geliştirilen alfabe yazısına öncülük etmiştir</p>",
         "E": "<div class=\"page\" title=\"Page 13\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kil tabletlerin üzerine işaretleri basmak ve silindir biçimli mühürlere kazımaktır</p> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935254,
@@ -3516,8 +3297,7 @@
         "D": "<p>Kalkolitik devir</p>",
         "E": "<p>Mezolitik devir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935347,
@@ -3532,8 +3312,7 @@
         "D": "Bir seramik türü",
         "E": "Mitolojik bir yaratık",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935414,
@@ -3548,8 +3327,7 @@
         "D": "<p>Marcus Arelius</p>",
         "E": "<p>Augustus</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935181,
@@ -3564,8 +3342,7 @@
         "D": "<p>Odacık</p>",
         "E": "<p>Anıt</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935200,
@@ -3580,8 +3357,7 @@
         "D": "<p>Asur</p>",
         "E": "<p>Mısır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935235,
@@ -3596,8 +3372,7 @@
         "D": "<p>Asur Uygarlığı</p>",
         "E": "<p>Frig Uygarlığı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935237,
@@ -3612,8 +3387,7 @@
         "D": "<p>Paolitive- Mezolitik- Neolitik</p>",
         "E": "<p>Paleolitik- Neolitik- Mezolitik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935268,
@@ -3628,8 +3402,7 @@
         "D": "<p>Urartular</p>",
         "E": "<p>Asurlar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935301,
@@ -3644,8 +3417,7 @@
         "D": "<p>Hitit Uygarlığı</p>",
         "E": "<p>Akad Uygarlığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935398,
@@ -3660,8 +3432,7 @@
         "D": "<p>Sfenks</p>",
         "E": "<p>Sitadel</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935434,
@@ -3676,8 +3447,7 @@
         "D": "<p>Ortastad</p>",
         "E": "<p>Sitadel</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935209,
@@ -3692,8 +3462,7 @@
         "D": "<p>Figürlerin başları profilden, vücutları cepheden, ayakları yandan gösterilirdi.</p>",
         "E": "<p> Ağaç gövdeleri boydan, üstündeki çiçekleri yukardan, bir havuz üstten ama içindeki balıklar yandan gösterilirdi.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935221,
@@ -3708,8 +3477,7 @@
         "D": "<div class=\"page\" title=\"Page 22\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Akhenaton</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 22\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Tutankhamon</p> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935288,
@@ -3724,8 +3492,7 @@
         "D": "<p>Frig</p>",
         "E": "<p>Lidya</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935359,
@@ -3740,8 +3507,7 @@
         "D": "MÖ1965",
         "E": "MÖ1970",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935432,
@@ -3756,8 +3522,7 @@
         "D": " <p>Obelisk </p> ",
         "E": "<p>Mastaba </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935469,
@@ -3772,8 +3537,7 @@
         "D": "<p>Pessinus</p>",
         "E": "<p>Epiktetos</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935132,
@@ -3788,8 +3552,7 @@
         "D": "<p>Anadolu’da Neolitik’in yaşam biçimlerinin açıklanmasında önemli merkezlerden biri Konya Ovası’nda yer alan Çatalhöyük’tür.</p>",
         "E": "<p>Altamira ve Lascaux mağaraları içinde yer alan duvar resimleri Anadolu insanın yaptığı ilk görsellerdir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935216,
@@ -3804,8 +3567,7 @@
         "D": "<p>Frigliler</p>",
         "E": "<p>Urartular</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935224,
@@ -3820,8 +3582,7 @@
         "D": "<p>Ziggurat</p>",
         "E": "<p>Tümülüs</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935226,
@@ -3836,8 +3597,7 @@
         "D": "<p>Obsidiyen</p>",
         "E": "<p>Kerpiç</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935296,
@@ -3852,8 +3612,7 @@
         "D": "<p>Aleminyum</p>",
         "E": "<p>Hamur</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935360,
@@ -3868,8 +3627,7 @@
         "D": "<p>MÖ 6000 ile MÖ 5000</p>",
         "E": "<p>MÖ 5000 ile MÖ 3500</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935425,
@@ -3884,8 +3642,7 @@
         "D": "<p>Kalkolitik </p> ",
         "E": " <p>Tunç Devri </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935435,
@@ -3900,8 +3657,7 @@
         "D": "<p>Sitadel</p>",
         "E": "<p>Ziggurat</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935142,
@@ -3916,8 +3672,7 @@
         "D": "<p>Yerleşik yaşama geçiş</p>",
         "E": "<p>İnsanların gıda birikimine başlaması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935151,
@@ -3932,8 +3687,7 @@
         "D": "<p>Taşın ve madenin birlikte kullanılması</p>",
         "E": "<p>Tekerleğin keşfedilmesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935234,
@@ -3948,8 +3702,7 @@
         "D": "<p>Asur Uygarlığı</p>",
         "E": "<p>Lidya Uygarlığı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935310,
@@ -3964,8 +3717,7 @@
         "D": "<p>Frig</p>",
         "E": "<p>Asur</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935326,
@@ -3980,8 +3732,7 @@
         "D": "Asur Uygarlığı",
         "E": "Babil Uygarlığı",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935389,
@@ -3996,8 +3747,7 @@
         "D": "<p>M.Ö. 6000-5000</p>",
         "E": "<p>M.Ö. 5000-4000</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935330,
@@ -4012,8 +3762,7 @@
         "D": "Asur Uygarlığı",
         "E": "Sümer Uygarlığı",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935384,
@@ -4028,8 +3777,7 @@
         "D": "<p>Kalkolitik</p> ",
         "E": "<p>Erken Tunç</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935426,
@@ -4044,8 +3792,7 @@
         "D": " <p>Stel </p> ",
         "E": "<p>Kült </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935140,
@@ -4060,8 +3807,7 @@
         "D": "<p>Lamaşşu heykeli</p> ",
         "E": "<p>Naram-Sin steli</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935185,
@@ -4076,8 +3822,7 @@
         "D": "<p>Anadoludaki yerleşim birimi.</p>",
         "E": "<p>Anadolu tanrılarının genel ismi.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935337,
@@ -4092,8 +3837,7 @@
         "D": "İmhotep",
         "E": "Mycerinus",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935379,
@@ -4108,8 +3852,7 @@
         "D": "<p>En görkemli anıtlardan biri İştar Kapısı' dır.</p>",
         "E": "<p>Kasitler'in eserleri arasında sınır taşı olarak bilinen kudurrular vardır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935169,
@@ -4124,8 +3867,7 @@
         "D": "<p>4</p>",
         "E": "<p>3</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935184,
@@ -4140,8 +3882,7 @@
         "D": "<p>Kurs</p>",
         "E": "<p>Megaron</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2935217,
@@ -4156,7 +3897,1011 @@
         "D": "<p>Akkad</p>",
         "E": "<p>Babil</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935137,
+        "UniteNo": 1,
+        "PageNumber": 12,
+        "AnswerExplanation": "<p>İdol</p>",
+        "Title": "<p>Mezopotamyada tarih öncesi ve ilkçağ sanatı</p>",
+        "Text": "<p>İlkel kavimlerde tapınılan küçük heykellerin adı aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Sitadel</p>",
+        "B": "<p>Ryhton</p>",
+        "C": "<p>İdol</p>",
+        "D": "<p>Sfenks</p>",
+        "E": "<p>Fibula</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935160,
+        "UniteNo": 1,
+        "PageNumber": 22,
+        "AnswerExplanation": "<p>Eski Mısır Sanatında genellikle tek bir taş bloktan yapılan ve belirli bir kişi ya da olayı simgelemek için dikilen ucu piramidal formda sivriltilmiş ince uzun taş anıtlara obelisk denir.</p>",
+        "Title": "",
+        "Text": "<p>Eski Mısır Sanatında genellikle tek bir taş bloktan yapılan ve belirli bir kişi ya da olayı simgelemek için dikilen ucu piramidal formda sivriltilmiş ince uzun taş anıtlara ne denir?</p>",
+        "A": "<p>Pilon</p>",
+        "B": "<p>Stel</p>",
+        "C": "<p>Menhir</p>",
+        "D": "<p>Obelisk</p>",
+        "E": "<p>Peristil</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935163,
+        "UniteNo": 1,
+        "PageNumber": 4,
+        "AnswerExplanation": "<p>Altamira mağarası İspanya'dadır.</p>",
+        "Title": "",
+        "Text": "<p>Altamira mağarası nerededir ?</p>",
+        "A": "<p>Almanya</p>",
+        "B": "<p>Fransa</p>",
+        "C": "<p>İtalya</p>",
+        "D": "<p>İspanya</p>",
+        "E": "<p>Portekiz</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935192,
+        "UniteNo": 1,
+        "PageNumber": 4,
+        "AnswerExplanation": "<p>Genellikle yekpare taştan oluşan dikilmiş anıtlara stel adı verilir.</p>",
+        "Title": "<p>TARİH ÖNCESİ</p>",
+        "Text": "<p>Genellikle yekpare taştan oluşan dikilmiş anıtlara ne ad verilir?</p>",
+        "A": "<p>Stel</p>",
+        "B": "<p>Megaron</p>",
+        "C": "<p>Figürin</p>",
+        "D": "<p>Höyük</p>",
+        "E": "<p>Tapınak</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935222,
+        "UniteNo": 1,
+        "PageNumber": 4,
+        "AnswerExplanation": "<p>Höyük: Farklı zamanlarda oluşan kültür katmanlarının toprakla üstlerinin örtülmesi ile oluşan doğal tepeciklere denir.</p>",
+        "Title": "<p>Soruda verilen oluşumun tanınması amaçlanmıştır. </p>",
+        "Text": "<p style=\"text-align: justify;\">Farklı zamanlarda oluşan kültür katmanlarının tarih boyunca toprakla üstlerinin örtülmesi ile oluşan doğal tepeciklere ne ad verilir?</p>",
+        "A": "<p>Tümülüs</p>",
+        "B": "<p>Höyük</p>",
+        "C": "<p>Menhir</p>",
+        "D": "<p>Ziggurat</p>",
+        "E": "<p>Piramit</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935232,
+        "UniteNo": 1,
+        "PageNumber": 8,
+        "AnswerExplanation": "<p>Doğru yanıt C olmalıdır.</p>",
+        "Title": "<p>Erken Tunç Devri’nde (MÖ 3000-2500) Anadolu’daki en önemli merkez, Çanakkale yakınındaki Troya I yerleşmesidir. Burası da Marmara bölgesinde bulunmaktadır.</p>",
+        "Text": "<p>Erken Tunç devrine ait Anadolu'da bulunan en önemli merkez hangi bölgemizdedir?</p>",
+        "A": "<p>Akdeniz bölgesi</p>",
+        "B": "<p>Karadeniz bölgesi</p>",
+        "C": "<p>Marmara bölgesi</p>",
+        "D": "<p>İç Anadolu bölgesi</p>",
+        "E": "<p>Doğu Anadolu bölgesi</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935283,
+        "UniteNo": 1,
+        "PageNumber": 21,
+        "AnswerExplanation": "<p>Hatshepsut</p>",
+        "Title": "<div class=\"page\" title=\"Page 20\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Mısır’ın firavunluğa yükselen tek Kraliçesi olan <strong>Hatshepsut,</strong> Mentuhotep’in kurmuş olduğu Orta Krallığa ait mezar tapınağının hemen yanında bir benzerini kendisi için yaptırmıştır.</p>\n</div>\n</div>\n</div>",
+        "Text": "<p>22- Mısır krallığında firavunluğa yükselen tek kraliçe aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Khafre</p>",
+        "B": "<p>Kefren</p>",
+        "C": "<p>Menkare</p>",
+        "D": "<p>Khufu</p>",
+        "E": "<p>Hatshepsut</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935382,
+        "UniteNo": 1,
+        "PageNumber": 3,
+        "AnswerExplanation": "<p>M.Ö. 1950</p>",
+        "Title": "<p>Giriş</p>",
+        "Text": "<p>Anadolu’da yazı ilk olarak ne zaman itibaren kullanılmaya başlanmıştır?</p>  ",
+        "A": "<p> M.Ö. 3500</p> ",
+        "B": "<p>M.Ö. 3100</p> ",
+        "C": "<p>M.Ö. 2500</p> ",
+        "D": "<p>M.Ö. 2300</p> ",
+        "E": "<p>M.Ö. 1950</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935420,
+        "UniteNo": 1,
+        "PageNumber": 13,
+        "AnswerExplanation": "<p>Sümerlere özgü bir yapı türü olan Zigguratlar birbirine rampalarla bağlanan katlardan meydana gelen, tepesi kesik piramit biçiminde olan tapınaklardır.</p>",
+        "Title": "",
+        "Text": "<p><strong>Birbirine rampalarla bağlanan katlardan meydana gelen, tepesi kesik piramit biçiminde olan Sümerlere özgü tapınak yapılara verilen ad aşağıdakilerden hangisidir?</strong></p> ",
+        "A": "<p> Ziggurat</p>",
+        "B": "<p> İdol</p>",
+        "C": "<p> Mikrolit</p>",
+        "D": "<p> Obeyd</p>",
+        "E": "<p> Mezopotamya</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935144,
+        "UniteNo": 1,
+        "PageNumber": 5,
+        "AnswerExplanation": "<p>ilk kez kilden çanak çömlek üretilmiş, anıtsal boyutlarda heykel<br />ve kabartmalar yapılmıştır. Ancak bütün bunlar aynı zaman diliminde ortaya<br />çıkmamıştır. Belli bölgelerde aşama aşama gerçekleşmiştir. Ortaya çıkan yenilikler<br />araştırmacılar tarafından, Çanak Çömleksiz Neolitik (MÖ 10.000- 7.000)<br />ve Çanak Çömlekli Neolitik (MÖ 7.000) başlıkları altında iki döneme ayrılarak<br />incelenmektedir</p>",
+        "Title": "",
+        "Text": "<p> ilk kez kilden çanak çömlek üretilmi  hangi dönemde başlamıştı</p>",
+        "A": "<p>Paleolitik (MÖ 40.000-10.000):</p>",
+        "B": "<p>Mezolitik  (MÖ 10.000-9.000):</p>",
+        "C": "<p>Neolitik  ( MÖ 9.000-7.000):</p>",
+        "D": "<p>Kalkolitik ( MÖ 5600-3500):</p>",
+        "E": "<p>Tunç devri (MÖ 4000</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935187,
+        "UniteNo": 1,
+        "PageNumber": 12,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 11\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p style=\"text-align: justify;\">Mezopotamya (Yunanca π) eski Yunanlılar tarafından, yaklaşık bugünkü Irak topraklarına denk gelen, Dicle ve Fırat Nehirleri arasında yer alan araziye verilen addır.</p>\n</div>\n</div>\n</div>",
+        "Title": "<div class=\"page\" title=\"Page 11\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Lütfen, \"MEZOPOTAMYA’DA TARİH ÖNCESİ VE İLK ÇAĞ SANATI\" başlıklı yazıyı gözden geçiriniz.</p>\n</div>\n</div>\n</div>",
+        "Text": "<p>Günümüz Irak topraklarına denk gelen ve Dicle ve Fırat nehirleri arasında kalan toprak Yunanca'da aşağıdakilerden hangi isimle anılır?</p>",
+        "A": "<p>Anadolu.</p>",
+        "B": "<p>Babil.</p>",
+        "C": "<p>Asurya.</p>",
+        "D": "<p>Mezopotamya.</p>",
+        "E": "<p>Lut Çölü.</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935228,
+        "UniteNo": 1,
+        "PageNumber": 6,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Güneydoğu ve Orta Anadolu’da, yaklaşık MÖ 7000’lerde ilk çanak çömlek üretimine başlandığı bilinmektedir. İlkin çanak çömlekler elle şekillendirilmiş, zamanla kalıplar kullanılmış ve MÖ dördüncü bin yılda da seri üretime olanak veren çömlekçi çarkı kullanılmaya başlanmıştır. Dolayısıyla Anadolu ve çevresinde MÖ 7000-6000 arası Çanak Çömlekli Neolitik olarak değerlendirilmektedir. Bu döneme damgasını vuran en önemli değişim ise geçim ekonomileri hayvancılık ve tarıma dayanan çiftçi köylerinin kurulmasıdır. Orta Anadolu’nun bu dönemi en iyi temsil eden yerleşmesi, Çanak Çömlekli Neolitik’in yaşam biçimlerinin açıklanmasında önemli bir konuma sahip, Konya Ovası’nda yer alan Çatalhöyük’tür. 1960’lı yıllar ve sonrasındaki kazılarda ele geçen zengin çeşitlilikteki sanat eserleri (özellikle figürünler), obsidiyen işçiliği, duvar<br />resimleri, ölü gömme sembolizmi, belli sosyal kurallar çerçevesinde yaşayan topluluğu ile Çatalhöyük, çiftçi bir köy yerleşmesidir</p>",
+        "Title": "<p>Soruda özellikleri sıralanan yerleşim yerinin tanınması amaçlanmıştır. </p>",
+        "Text": "<p style=\"text-align: justify;\">Anadolu ve çevresinde Çanak Çömlekli Neolitik dönemi en iyi temsil eden, Konya Ovası’nda bulunan, zengin çeşitlilikteki sanat eserleri (özellikle figürünler), obsidiyen işçiliği, duvar resimleri, ölü gömme sembolizmi, belli sosyal kurallar çerçevesinde yaşayan topluluğu ile  çiftçi bir köy yerleşmesi örneği olan yerleşim aşağıdakilerden hangisidir? </p>",
+        "A": "<p>Çatalhöyük</p>",
+        "B": "<p>Alacahöyük</p>",
+        "C": "<p>Boğazköy</p>",
+        "D": "<p>Gordion</p>",
+        "E": "<p>Milas</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935327,
+        "UniteNo": 1,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Mezopotamya’da tarih öncesi ve ilk Çağ uygarlIklarInIn sanat etkinliklerini açIklayabileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi Mezopotamya coğrafyasında gelişen uygarlıklardan biri değildir? ",
+        "A": "Akkad Uygarlığı",
+        "B": "Babil Uygarlığı",
+        "C": "Asur Uygarlığı",
+        "D": "Sümer Uygarlığı",
+        "E": "Lidya Uygarlığı ",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935353,
+        "UniteNo": 1,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Mezopotamya’da tarih öncesi ve ilk Çağ uygarlIklarInIn sanat etkinliklerini açIklayabileceksiniz.",
+        "Text": "“Adını aşk ve savaş tanrıçasından alan yaklaşık MÖ 575 yılı civarında yaptırılan Babil kentinin en görkemli anıtlarından olan kapıdır. Kapının ve çevresindeki surların üzerinde sırlı tuğlalardan aslan, ejder, boğa ve rozet bezemeleri yer almaktadır”. Yukarıdaki tanım aşağıdakilerden hangisini tasvir etmektedir?",
+        "A": "Boğazköy Kapısı",
+        "B": "Troya Kent Kapısı",
+        "C": "Hattuşa Kapısı",
+        "D": "İştar Kapısı",
+        "E": "Nimrud Saray Kapısı",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935411,
+        "UniteNo": 1,
+        "PageNumber": 18,
+        "AnswerExplanation": "<p>Khat</p>",
+        "Title": "<p>Eski Mısır inancına göre, her insanın maddi yönünü temsil eden bir Khat'ı bulunmaktadır. Doğru seçenek B şıkkıdır.</p>",
+        "Text": "<p>8. Eski Mısır inancına göre insanın maddi yönünü aşağıdakilerden hangisi temsil ederdi?</p>",
+        "A": "<p>Ra</p>",
+        "B": "<p>Khat</p>",
+        "C": "<p>Amenti</p>",
+        "D": "<p>Ka </p>",
+        "E": "<p>Aşlu</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935448,
+        "UniteNo": 1,
+        "PageNumber": 13,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 12\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Ziggurat: Birbirine rampalarla bağlanan katlardan meydana gelen, tepesi kesik piramit biçiminde olan tapınak.</p> </div> </div> </div> </div>",
+        "Title": "",
+        "Text": "<div class=\"page\" title=\"Page 12\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Birbirine rampalarla bağlanan katlardan meydana gelen, tepesi kesik piramit biçiminde olan tapınaklara ne ad verilir?</p> </div> </div> </div> </div>",
+        "A": "<p>İdol</p>",
+        "B": "<p>Ziggurat</p>",
+        "C": "<p>Büst</p>",
+        "D": "<p>Dikili taş</p>",
+        "E": "<p>Lamaşşu</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935316,
+        "UniteNo": 1,
+        "PageNumber": 3,
+        "AnswerExplanation": "<p>Maden Devri M&Ouml; 5500 ile 1000li yıllar arasında yer ger&ccedil;ekleşmiştir.</p>",
+        "Title": "",
+        "Text": "Maden Devri hangi yıllardan itibaren başlamıştır?",
+        "A": "<p>M&Ouml; 10000</p>",
+        "B": "<p>M&Ouml; 400000</p>",
+        "C": "<p>M&Ouml; 5500</p>",
+        "D": "<p>MS. 200</p>",
+        "E": "<p>M&Ouml; 1200</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935391,
+        "UniteNo": 1,
+        "PageNumber": 9,
+        "AnswerExplanation": "<p>Konya</p>",
+        "Title": "<p>Anadolu’da Tarı̇h Öncesı̇ ve İlk Çağ Sanatı</p>",
+        "Text": "<p>Çanak Çömlekli Neolitik’in en önemli yerleşimlerinden biri olan Çatalhöyük hangi ilimizde yer alır?</p> ",
+        "A": "<p>Kayseri</p> ",
+        "B": "<p>Eskişehir</p> ",
+        "C": "<p>Isparta</p> ",
+        "D": "<p>Konya</p> ",
+        "E": "<p>Burdur</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935207,
+        "UniteNo": 1,
+        "PageNumber": 13,
+        "AnswerExplanation": "<p>Ziggurat</p>",
+        "Title": "<p>Birbirine rampalarla bağlanan katlardan meydana gelen, tepesi kesik piramit biçiminde olan tapınaklara ziggurat denmektedir.</p>",
+        "Text": "<p>Birbirine rampalarla bağlanan katlardan meydana gelen, tepesi kesik piramit biçiminde olan tapınaklara ne ad verilmektedir?</p>",
+        "A": "<p>Höyük</p>",
+        "B": "<p>Sitadel</p>",
+        "C": "<p>Fibula</p>",
+        "D": "<p>Sikke</p>",
+        "E": "<p>Ziggurat</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935377,
+        "UniteNo": 1,
+        "PageNumber": 9,
+        "AnswerExplanation": "<p>Hitit Uygarlığında yer alırlar.</p>\n<p>Sfenks: İnsan başlı aslan g&ouml;vdeli ve kanatlı hayali yaratık heykeline verilen addır.</p>\n<p>Ortostad: Kabartma ile s&uuml;sl&uuml; taş kaplamaya verilen isimdir.</p>\n<p>Ryton: Hayvan bi&ccedil;imli i&ccedil;ki kaplarına verilen isimdir.</p>",
+        "Title": "<p>Anadolu'da İlk Çağ Sanatı</p>",
+        "Text": "Sfenks, ortostad ve ryton &ouml;rnekleri hangi Anadolu Uygarlığında bulunmaktadır?",
+        "A": "<p>S&uuml;mer</p>",
+        "B": "<p>Asur</p>",
+        "C": "<p>Lidya</p>",
+        "D": "<p>Hitit</p>",
+        "E": "<p>Frig</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935454,
+        "UniteNo": 1,
+        "PageNumber": 4,
+        "AnswerExplanation": "<p>Tarihteki en eski anıtları insanlar, ölü kültü veya insanüstü tanrısal güçlerle de birleştirerek anıtsal ölçülerde yapmış, gerçekte olduğundan daha yüceltmiş ve ölümsüzleştirmişlerdir. En sade biçimde ayakta duran taş, dikilitaş veya menhir adını almakta ve anıtların atası sayılmaktadır. Dolayısıyla cevap C şıkkıdır.</p>",
+        "Title": "",
+        "Text": "<p>Tarihteki en eski anıtları insanlar, ölü kültü veya insanüstü tanrısal güçlerle de birleştirerek anıtsal ölçülerde yapmış, gerçekte olduğundan daha yüceltmiş ve ölümsüzleştirmişlerdir. En sade biçimde ayakta duran taş, dikilitaş veya aşağıda belirtilen hangi isimle anılarak anıtların atası sayılmaktadır ?</p>",
+        "A": "<p>Litik</p>",
+        "B": "<p>Höyük</p>",
+        "C": "<p>Menhir</p>",
+        "D": "<p>Ritüel</p>",
+        "E": "<p>Stel</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935148,
+        "UniteNo": 1,
+        "PageNumber": 13,
+        "AnswerExplanation": "<p>Sümer uygarlığının bilinen en eski merkezi Uruk’dur. Kentte Sümerlere özgü bir yapı türü olan zigguratlar yani kule tapınaklar bulunur.</p>",
+        "Title": "",
+        "Text": "<p>Zigguratlar (kule tapınaklar), hangi uygarlığa özgü yapı türleridir?</p>",
+        "A": "<p>Hititler </p>",
+        "B": "<p>Firigler </p>",
+        "C": "<p>Urartular</p>",
+        "D": "<p>Lidyalılar</p>",
+        "E": "<p>Sümerler</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935170,
+        "UniteNo": 1,
+        "PageNumber": 8,
+        "AnswerExplanation": "<p>Urartu uygarlığı, m.ö. 9 ve 6.  yüzyıllar arasında varlık göstermiştir</p>",
+        "Title": "",
+        "Text": "<p>Urartu uygarlığı hangi yüzyıllar arasında varlık göstermiştir ?</p>",
+        "A": "<p>M.Ö.9 ve 6</p>",
+        "B": "<p>M.Ö. 10 ve 9</p>",
+        "C": "<p>M.Ö.  8 ve 5</p>",
+        "D": "<p>M.Ö. 6 ve 4</p>",
+        "E": "<p>M.Ö.7 ve 5</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935172,
+        "UniteNo": 1,
+        "PageNumber": 4,
+        "AnswerExplanation": "Taş Devri’ne ait en eski anıtlar Neolitik Dönem’de görülmeye başlar.",
+        "Title": "<p>Taş Devri konusunu okuyarak soru çözümü yapılabilir.</p>",
+        "Text": "<p>Taş Devri’ne ait en eski anıtlar hangi dönemde görülmeye başlar?</p>",
+        "A": "<p>Neolitik Dönem</p>",
+        "B": "<p>Paleolitik Dönem</p>",
+        "C": "<p>Mezolitik Dönem</p>",
+        "D": "<p>Kalkolitik Devir</p>",
+        "E": "<p>Tunç Devri</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935229,
+        "UniteNo": 1,
+        "PageNumber": 8,
+        "AnswerExplanation": "<p>Tunç devri doğru yanıt olacaktır.</p>",
+        "Title": "<p>Anadolu’da Tunç Devri erken, orta ve geç olmak üzere üç evrede ele alınmaktadır.<br />Erken Tunç Devri’nde daha çok Kalkolitik Devir’in tarıma dayalı “köy kültürü” görülmektedir. Tunç aletler yaygın olmamakla beraber, bu dönemde görülen dört tekerlekli araba kullanımının teknolojik açıdan önemli bir yenilik olduğu söylenebilir. Erken Tunç Devri’nde (MÖ 3000-2500) Anadolu’daki en önemli merkez, Çanakkale yakınındaki Troya I yerleşmesidir. Kentin ortaya çıkarılan bölümü bir sur ile çevrilidir ve evleri megaron tipindedir</p>",
+        "Text": "<p>Anadolu'da bir ören yeri gezerken burada bir kent ve megaron tipi yapılar gördüğünüzde buranın hangi döneme ait olduğuna karar verirseniz doğru bir karar vermiş olursunuz?</p>",
+        "A": "<p>Bronz Devri</p>",
+        "B": "<p>Tunç Devri</p>",
+        "C": "<p>Taş Devri</p>",
+        "D": "<p>Eski krallık dönemi</p>",
+        "E": "<p>Yeni krallık dönemi</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935274,
+        "UniteNo": 1,
+        "PageNumber": 15,
+        "AnswerExplanation": "<p>Akkadlar</p>",
+        "Title": "<div class=\"page\" title=\"Page 14\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Akkad Kralları Evrenin Kralı ve Akad’ın Tanrısı gibi unvanlar kullanmaya başlamışlardır.</p>\n</div>\n</div>\n</div>",
+        "Text": "<p>13- “Evrenin Kralı ve Tanrısı” unvanını kullanan uygarlık aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Asurlar</p>",
+        "B": "<p>Sümerler</p>",
+        "C": "<p>Hititler</p>",
+        "D": "<p>Akkadlar</p>",
+        "E": "<p>Babiller</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935312,
+        "UniteNo": 1,
+        "PageNumber": 19,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 18\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Mısır tanrıları çeşitli hayvan formları ile temsil edilmektedir. Bu tanrı figürlerinden bazıları şunlardır: Çakal başlı Anubis, doğan başlı Horus, inek başlı Hator, timsah başlı Sebek, dişi aslan başlı Sekhet, domuz başlı Set vb. Tanrı figürleri genellikle geniş yüzeyli mezar anıtlarının duvarlarında ve Mısır inancının yazılı olduğu Ölüler Kitabı’nı temsil eden papirüslerde yer alırlar.</p> </div> </div> </div>",
+        "Title": "<p>ESKİ MISIR UYGARLIĞI VE SANATI</p>",
+        "Text": "<div class=\"page\" title=\"Page 18\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Çakal başlı Anubis, doğan başlı Horus, inek başlı Hator, timsah başlı Sebek, dişi aslan başlı Sekhet, domuz başlı Set hangi uygarlığın tanrı figürleridir?</p> </div> </div> </div>",
+        "A": "<p>Asur</p>",
+        "B": "<p>Mısır</p>",
+        "C": "<p>Babil</p>",
+        "D": "<p>Hitit</p>",
+        "E": "<p>Sümer</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935440,
+        "UniteNo": 1,
+        "PageNumber": 19,
+        "AnswerExplanation": "<p><span style=\"left: 132.284px; top: 493.044px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.942239);\">Mısır tanrıları çeşitli hayvan formları ile temsil edilmektedir. Bu tanrı figür</span><span style=\"left: 692.686px; top: 493.044px; font-size: 18.3333px; font-family: serif;\">-</span><span style=\"left: 108.661px; top: 514.711px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.00859);\">lerinden bazıları şunlardır: Çakal başlı Anubis, doğan başlı Horus, </span><span style=\"left: 108.661px; top: 536.378px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.00477);\">inek başlı Hator, timsah başlı Sebek, dişi aslan başlı Sekhet, domuz başlı Set vb. </span></p>",
+        "Title": "<p><span style=\"left: 245.669px; top: 208.081px; font-size: 21.6667px; font-family: sans-serif; transform: scaleX(0.909199);\">ESKİ MISIR UYGARLIĞI VE SANATI</span></p>",
+        "Text": "<p>Aşağıdakilerden hangisi Çakal formu ile temsil edilen Eski Mısır tanrısıdır?</p>",
+        "A": "<p>Anubis</p>",
+        "B": "<p>Hator</p>",
+        "C": "<p>Horus</p>",
+        "D": "<p>Sebek</p>",
+        "E": "<p>Set</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935298,
+        "UniteNo": 1,
+        "PageNumber": 7,
+        "AnswerExplanation": "<p><em>Çatalhöyük. Tanrı Ana, iki yanında birer leopar ile tasvir edilmiş, pişmiş toprak heykelcik (MÖ 6000).</em></p>",
+        "Title": "",
+        "Text": "<p><img src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/e122073b87483add80972fa50d1b1d49.png\" alt=\"\" width=\"351\" height=\"421\" /></p> <p><em>Yukarıda gördüğünüz iki yanında birer leopar ile tasvir edilmiş, pişmiş toprak heykelcik (MÖ 6000). hangi yerleşim yeri buluntularındandır?</em></p>",
+        "A": "<p>Çatalhöyük</p>",
+        "B": "<p>Panteon</p>",
+        "C": "<p>Göbeklitepe</p>",
+        "D": "<p>Sagalasos</p>",
+        "E": "<p>Sazova</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935324,
+        "UniteNo": 1,
+        "PageNumber": 21,
+        "AnswerExplanation": "<p>Bu tapınak en eski bir Mısır tapınağıdır. MÜ 1478-1458 yılları arasında yapılmıştır.</p>",
+        "Title": "",
+        "Text": "<p>Mezar Tapınaklarının en eskisi olan Kraliçe Hatshepsut Tapınağı hangi medeniyete aittir?</p>",
+        "A": "<p>Mısır</p>",
+        "B": "<p>Sümer</p>",
+        "C": "<p>Sasani</p>",
+        "D": "<p>Lidya</p>",
+        "E": "<p>Hitit</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935362,
+        "UniteNo": 1,
+        "PageNumber": 4,
+        "AnswerExplanation": "Menhirlerin ölü insanın ruhuna devamlı bir barınak sağlamak amacıyla dikildikleri sanılmaktadır. Üçte ikisi toprak altında bırakılan menhir, aynı zamanda insanla doğa arasında bir birleştiricidir.",
+        "Title": "Anadolu’da tarih öncesi ve ilk Çağ uygarlIklarInIn sanat etkinliklerini açIklayabileceksiniz.",
+        "Text": "Taş devrinde ilk örnekleri görülen ölü insanın ruhuna devamlı bir barınak sağlamak amacıyla dikildikleri sanılan ve  üçte ikisi toprak altında bırakılan anıt aşağıdakilerden hangisidir?",
+        "A": "Menhir",
+        "B": "Stel",
+        "C": "Ortostad",
+        "D": "Lamaşşu",
+        "E": "Megaron",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935395,
+        "UniteNo": 1,
+        "PageNumber": 4,
+        "AnswerExplanation": "<p><em>Neolitik Devirde</em> buzul çağlarının sona ermesiyle iklimsel ve çevresel değişimler insanın yaşam biçiminde değişiklere neden olmuş, belli bir bölgede uzun süreli, çevreye ve toprağa bağlı olarak yerleşik yaşam başlamıştır. Bu dönemin en önemli gelişmesi bilim insanlarının <em>devrim</em> olarak nitelendirdikleri yerleşik yaşama geçiştir.</p>",
+        "Title": "<p>TARİH ÖNCESİ</p>",
+        "Text": "<p>Bilim insanlarının <em>devrim</em> olarak nitelendirdikleri yerleşik yaşama geçiş hangi devirde olmuştur?</p>",
+        "A": "<p>Paleolitik</p>",
+        "B": "<p>Mezolitik</p>",
+        "C": "<p>Neolitik</p>",
+        "D": "<p>Eski Taş</p>",
+        "E": "<p>Orta Taş</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935444,
+        "UniteNo": 1,
+        "PageNumber": 6,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 5\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kült: İnanç sitemiyle ilgili yapı ve uygulamaların tümüne verilen isim.</p> </div> </div> </div>",
+        "Title": "",
+        "Text": "<div class=\"page\" title=\"Page 5\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İnanç sitemiyle ilgili yapı ve uygulamaların tümüne verilen isim aşağıdakilerden hangisidir?</p> </div> </div> </div>",
+        "A": "<p>Tapınak</p>",
+        "B": "<p>Stel</p>",
+        "C": "<p>Kült</p>",
+        "D": "<p>Tümülüs</p>",
+        "E": "<p>Ev</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935156,
+        "UniteNo": 1,
+        "PageNumber": 10,
+        "AnswerExplanation": "<p>Frig ve Lidya Uygarlıklarında örneklerine rastlanılan, bir mezar odasının üstüne taş, toprak yığılarak yapılmış tepelere tümülüs denir.</p>",
+        "Title": "",
+        "Text": "<p>Frig ve Lidya Uygarlıklarında örneklerine rastlanılan, bir mezar odasının üstüne taş, toprak yığılarak yapılmış tepelere ne ad verilmektedir?</p>",
+        "A": "<p>Höyük</p>",
+        "B": "<p>Tümülüs</p>",
+        "C": "<p>Megaron</p>",
+        "D": "<p>Sitadel</p>",
+        "E": "<p>Ziggurat</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935318,
+        "UniteNo": 1,
+        "PageNumber": 4,
+        "AnswerExplanation": "<p>Eski Taş &ccedil;ağı olarak bilinen Paleolitik D&ouml;nem, M&Ouml; 25000000-M&Ouml; 10000'ler arasında yer alır</p>",
+        "Title": "",
+        "Text": "İnsanın hen&uuml;z &uuml;retime ge&ccedil;mediği ve doğada bulunduklarıyla ge&ccedil;indiği d&ouml;nem aşağıdakilerden hangisidir?",
+        "A": "<p>Mezolitik</p>",
+        "B": "<p>Neolitik</p>",
+        "C": "<p>Paleolitik</p>",
+        "D": "<p>Kalkolitik</p>",
+        "E": "<p>Prehistorik</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935178,
+        "UniteNo": 1,
+        "PageNumber": 12,
+        "AnswerExplanation": "<p>Sümer, Akkad, Babil ve Asur gibi uygarlıklardan günümüze ulaşan bileşik kültürel<br />kimliğini de ifade etmektedir.</p>",
+        "Title": "<p>MEZOPOTAMYA’DA TARİH ÖNCESİ VE İLK ÇAĞ SANATI</p>",
+        "Text": "<p>Bir coğrafi terim olmakla birlikte, Mezopotamya kelimesi neyi ifade etmektedir?</p>",
+        "A": "<p>Sümer, Akkad, Babil ve Asur gibi uygarlıklardan günümüze ulaşan bileşik kültürel<br />kimliğini de ifade etmektedir.</p>",
+        "B": "<p>Akkad Uygarlığını ifade etmektedir.</p>",
+        "C": "<p>Babil Uygarlığını ifade etmektedir.</p>",
+        "D": "<p>Asur Uygarlığını İfade etmektedir.</p>",
+        "E": "<p>Lidya Uygarlığını ifade etmektedir.</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935305,
+        "UniteNo": 1,
+        "PageNumber": 3,
+        "AnswerExplanation": "<p>Tarihte yazıyı ilk kullanan medeniyet Mezopotamya coğrafyasında yaşayan Sümerler olmuştur.</p>",
+        "Title": "<p>Tarih Öncesi ve İlk Çağ'da Anadolu, Mezopotamya ve Eski Mısır Sanatı</p>",
+        "Text": "<p>Tarihte Mezopotamya coğrafyasında yazıyı ilk kullanan medeniyet aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Sümerler</p>",
+        "B": "<p>Akatlar</p>",
+        "C": "<p>Urartular</p>",
+        "D": "<p>Asurlar</p>",
+        "E": "<p>Hititler</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935325,
+        "UniteNo": 1,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Mezopotamya’da tarih öncesi ve ilk Çağ uygarlIklarInIn sanat etkinliklerini açIklayabileceksiniz.",
+        "Text": "Yeni Babil Krallığı, Babil Uygarlığının kaç yıllık bir dönemini kapsar?",
+        "A": "86",
+        "B": "186",
+        "C": "286",
+        "D": "386",
+        "E": "486",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935333,
+        "UniteNo": 1,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Anadolu’da tarih öncesi ve ilk Çağ uygarlIklarInIn sanat etkinliklerini açIklayabileceksiniz.",
+        "Text": "Başkenti Hattuşa olan ilk çağ Anadolu uygarlığı, aşağıdakilerden hangisidir?",
+        "A": "Hitit Uygarlığı",
+        "B": "Urartu Uygarlığı",
+        "C": "Frig Uygarlığı",
+        "D": "Lidya Uygarlığı",
+        "E": "Sümer Uygarlığı",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935456,
+        "UniteNo": 1,
+        "PageNumber": 6,
+        "AnswerExplanation": "<p>Neolitik (Yeni Taş) devirde, Güneydoğu ve Orta Anadolu’da, yaklaşık MÖ 7000’lerde ilk çanak çömlek üretimine başlandığı bilinmektedir. Dolayısıyla cevap E şıkkıdır.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıda belirtilen hangi tarih öncesi devirde, Güneydoğu ve Orta Anadolu’da, yaklaşık MÖ 7000’lerde, ilk çanak çömlek üretimine başlandığı bilinmektedir ?</p>",
+        "A": "<p>Paleolitik devir</p>",
+        "B": "<p>Mezolitik devir</p>",
+        "C": "<p>Tunç devri</p>",
+        "D": "<p>Kalkolitik devir</p>",
+        "E": "<p>Neolitik devir</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935344,
+        "UniteNo": 1,
+        "PageNumber": 22,
+        "AnswerExplanation": "<p>Sadece rahiplerin girebildiği, halkın yalnızca tören yolu üstünde törene katılabildikleri tapınaklar genellikle birbirini izleyen üç ana bölümden oluşan çok mekânlı yapılardır. Karnak Tapınağı’nda olduğu gibi tapınağa gelen yol üstünde obeliskler (dikilitaş) (Resim 1.24) ya da kral yontuları bulunmakta, bu yol büyük bir kapıya (pilon) açılmakta ve buradan çevresi sütunlarla çevrelenmiş bir açık avluya (peristil) geçilmektedir. <strong>Avludan ikinci bir kapıyla (pilon), çok sütunlu, ışığını tepeden alan bir salona (hipostile) girilir.</strong> Bu salondan da üçüncü bir kapıyla (pilon) sadece firavun ve en yüksek rütbeli rahibinin girebildiği, karanlık ve zengin bezemeli en kutsal odaya geçilmektedir (Pischel 1983:65).</p>\n<p>Peristil: Tapınak ya da iç avluların sütunlarla çevrelenmişlerine peristil denir</p>",
+        "Title": "Eski Mısır uygarlIğının sanat etkinliklerini açIklayabilecek bilgi ve becerilere sahip olacabileceksiniz.",
+        "Text": "<p>Aşağıdakilerden hangisi Mısır tapınaklarında çevresi sütunlarla çevrelenmiş açık avluya verilen addır?</p>",
+        "A": "<p>Obelisk</p>",
+        "B": "<p>Pilon</p>",
+        "C": "<p>Peristil</p>",
+        "D": "<p>Hipostile</p>",
+        "E": "<p>Mastaba</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935383,
+        "UniteNo": 1,
+        "PageNumber": 4,
+        "AnswerExplanation": "<p>Ateşin İcadı</p>",
+        "Title": "<p>Tarih Öncesi</p>",
+        "Text": "<p>İnsanlığın henüz yerleşik yaşama geçmediği Paleolitik Devrin en önemli keşfi aşağıdakilerden hangisidir?</p>    ",
+        "A": "<p>At’ın Evcilleştirilmesi</p> ",
+        "B": "<p>Ateşin İcadı</p> ",
+        "C": "<p>Seramik’in İcadı</p> ",
+        "D": "<p>Kültür Tarımı</p> ",
+        "E": "<p>Tekerleğin İcadı</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935451,
+        "UniteNo": 1,
+        "PageNumber": 22,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 21\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Obeliks: Dikilitaş, genellikle tek bir taş bloktan yapılan ve belirli bir kişi ya da olayı simgelemek için dikilen ucu piramidal formda sivriltilmiş ince uzun taş anıtlara denir.</p> </div> </div> </div>",
+        "Title": "",
+        "Text": "<p>Mısır mimarisinde, genellikle tek bir taş bloktan yapılan ve belirli bir kişi ya da olayı simgelemek için dikilen ucu piramidal formda sivriltilmiş ince uzun taş anıtlara ne ad verilir?</p>",
+        "A": "<p>Pilon</p>",
+        "B": "<p>Peristil</p>",
+        "C": "<p>Hipostil</p>",
+        "D": "<p>Sfenks</p>",
+        "E": "<p>Obeliks</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935174,
+        "UniteNo": 1,
+        "PageNumber": 5,
+        "AnswerExplanation": "<p>Paleolitik (Eski Taş) Devir (MÖ 40.000-10.000): Taştan iki ya da tek taraflı el baltasının, uzun yaprak biçiminde bıçakların kullanıldığı bu dönem bilgilerine, arkeolojik kazılarda elde edilen verilerle ulaşılmıştır.</p>",
+        "Title": "<p>ANADOLU’DA TARİH ÖNCESİ VE İLK ÇAĞ SANATI/ Anadolu’da Tarih Öncesi</p>",
+        "Text": "<p>Taştan iki ya da tek taraflı el baltasının, uzun yaprak biçiminde bıçakların kullanıldığı dönem hangisidir?</p>",
+        "A": "<p>Neolitik (Yeni Taş) Devri</p>",
+        "B": "<p>Mezolitik (Orta Taş) Devri</p>",
+        "C": "<p>Paleolitik (Eski Taş) Devri</p>",
+        "D": "<p>Kalkolitik (Bronz Bakır) Devri</p>",
+        "E": "<p>Tunç Devri</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935256,
+        "UniteNo": 1,
+        "PageNumber": 13,
+        "AnswerExplanation": "<p>Yanıt D'dir. </p>",
+        "Title": "<p>Yanıt idol'dür. </p>",
+        "Text": "<p>Mezopotamya'da ilk çağda rastlanan ve ilkel kavimlerde tapınılan küçük heykellerin adı nedir?</p>",
+        "A": "<p>Figür</p>",
+        "B": "<p>Figürin</p>",
+        "C": "<p>Stel</p>",
+        "D": "<p>İdol</p>",
+        "E": "<p>Lydion</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935287,
+        "UniteNo": 1,
+        "PageNumber": 8,
+        "AnswerExplanation": "<p>Tun&ccedil; Devri: Kalay ve bakır karışımından oluşan tun&ccedil;, Anadolu&rsquo;da Kalkolitik<br />Devir sonlarında g&ouml;r&uuml;lm&uuml;şt&uuml;r. <strong>Mezopotamya ve Mısır&rsquo;da tun&ccedil;tan &uuml;r&uuml;nlerin yapıldığı sırada (yaklaşık M&Ouml; 4. binin sonu) yazı keşfedilmişti. Buna karşılık Anadolu, Yunanistan, Balkanlar ve Avrupa gibi coğrafi b&ouml;lgelerde hen&uuml;z yazı kullanılmamaktaydı.</strong> Anadolu&rsquo;da Tun&ccedil; Devri erken, orta ve ge&ccedil; olmak &uuml;zere &uuml;&ccedil; evrede ele alınmaktadır. <strong>Erken Tun&ccedil; Devri&rsquo;nde daha &ccedil;ok Kalkolitik Devir&rsquo;in tarıma dayalı &ldquo;k&ouml;y k&uuml;lt&uuml;r&uuml;&rdquo; g&ouml;r&uuml;lmektedir. Tun&ccedil; aletler yaygın olmamakla beraber, bu d&ouml;nemde g&ouml;r&uuml;len d&ouml;rt tekerlekli araba kullanımının teknolojik a&ccedil;ıdan &ouml;nemli bir yenilik olduğu s&ouml;ylenebilir. Erken Tun&ccedil; Devri&rsquo;nde (M&Ouml; 3000-2500) Anadolu&rsquo;daki en &ouml;nemli merkez, &Ccedil;anakkale yakınındaki Troya I yerleşmesidir. Kentin ortaya &ccedil;ıkarılan b&ouml;l&uuml;m&uuml; bir sur ile &ccedil;evrilidir ve evleri megaron tipindedir.</strong></p>",
+        "Title": "",
+        "Text": "Aşağıdaki ifadelerden hangisi Anadolu'daki Erken Tun&ccedil; Devri &ouml;zellikleri arasında s&ouml;ylenemez?",
+        "A": "<p>Yazı keşfedilmiştir.</p>",
+        "B": "<p>Evler Megaron şeklindedir.</p>",
+        "C": "<p>Teknoloji gelişmiş d&ouml;rt tekerlekli ara&ccedil;lar kullanılmaya başlanmıştır.</p>",
+        "D": "<p>Troya I yerleşimi kurulmuştur.</p>",
+        "E": "<p>Tarıma dayalı k&ouml;y k&uuml;lt&uuml;r&uuml; g&ouml;r&uuml;l&uuml;r.</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935290,
+        "UniteNo": 1,
+        "PageNumber": 15,
+        "AnswerExplanation": "<p>Akkad Uygarlığı: Akkadların anavatanları ve Mezopotamya’ya geliş tarihleri hakkında kesin veri bulunmasa da Akkad Krallığı’nın (MÖ 2350-2150), Asur ve<br />Babil gibi Sami kökenli krallıkların öncüsü olduğu bilinmektedir (Köroğlu2009:76). Sargon MÖ 2334’te Agade adlı merkezi kurarak bağımsızlığını ilan etmiş, Basra Körfezi’nden Akdeniz’e kadar Güney Mezopotamya’da geniş bir alana yayılan Akkad Krallığı’nı kurmuştur (Soysal 2008:50). Sargon ile başlayan süreçte yeni bir devlet modeli ve yeni bir kral tipi oluşmuş, yönetici sülale ve kral daha güçlü konuma gelmiştir. Akkad Kralları Evrenin Kralı ve Akad’ın Tanrısı gibi unvanlar kullanmaya başlamışlardır. Akkad Kralı Naram-Sin, isminin başına tanrı isimlerini belirtmek için konulan bir işaret ekletmiş ve stelinde kendisini, yalnızca ilahi varlıklara özgü bir simge olan çift boynuzlu bir başlıkla betimletmiştir (Resim 1.16). Dolayısıyla Akkad sanatının, sarayın ve kralın yüceltilmesi kurgusuyla şekillendiği ve propaganda amaçlı kabartma ve stel örneklerinden oluştuğu söylenebilir (Köroğlu 2011: 43-45). Savaşçı olan Akkadlar, tanrıların temsilcisi değil de doğrudan tanrı gibi gördükleri krallarının yaptığı işleri dikili taşlar<br />ve kabartmalarla yüceltmiş ve krallarının taş ya da bronzdan heykellerini yapmışlardır (Pischel 1983:28). Özellikle kabartma, büst ve heykellerde ince görünümlü, anatomik doğruluğun büyük önem taşıdığı, gerçekçi plastik sanat anlayışının egemen olduğu söylenebilir</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki ifadelerden hangisi Akkad Uygarlığı için söylenebilir?</p> <p>I) Çanakkale Boğazı'nda Akdeniz’e kadar uzanan geniş bir alana yayılmıştır.</p> <p>II) Akkad Kralları Evrenin Kralı ve Akad’ın Tanrısı gibi unvanlarla anılmıştır.</p> <p>III) Akkad Kralı Naram-Sin yalnızca ilahi varlıklara özgü bir simge olan çift<br />boynuzlu bir başlıkla betimlenmiştir.</p> <p>IV) Akkad sanatı, sarayın ve kralın yüceltilmesi kurgusuyla şekillenen propaganda amaçlı kabartma ve stel örneklerinden oluşur.</p> <p>V) Savaşçı olan Akkadlar, tanrıların temsilcisi değil de doğrudan tanrı gibi gördükleri krallarının yaptığı işleri dikili taşlar ve kabartmalarla yüceltmiş ve krallarının taş ya da bronzdan heykellerini yapmışlardır.</p>",
+        "A": "<p>I, II, III, IV, V</p>",
+        "B": "<p>I, III, IV, V</p>",
+        "C": "<p>I, II, IV, V</p>",
+        "D": "<p>II, III, IV, V</p>",
+        "E": "<p>I, IV, V</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935180,
+        "UniteNo": 1,
+        "PageNumber": 18,
+        "AnswerExplanation": "<p>Mısır Uygarlığı.</p> <p>\"Ptolemele Kralı’nın, Mısır mabetlerine verdiği Grekçe ferman, hiyeroglif ve demotik dillerdeki, hem metin hem de dekoratif ve süsleyici unsur olarak yüzeylerde yer alan Mısır resim yazısı hiyeroglifin okunmasını sağlamıştır\".</p>",
+        "Title": "<p>ESKİ MISIR UYGARLIĞI VE SANATI</p>",
+        "Text": "<p>Resim yazısı hiyeroglif hangi uygarlıkta görülmektedir?</p>",
+        "A": "<p>Sümer Uygarlığı.</p>",
+        "B": "<p>Akkad Uygarlığı.</p>",
+        "C": "<p>Asur Uygarlığı.</p>",
+        "D": "<p>Mısır Uygarlığı.</p>",
+        "E": "<p>Babil Uygarlığı.</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935182,
+        "UniteNo": 1,
+        "PageNumber": 6,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 5\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İnanç sitemiyle ilgili yapı ve uygulamaların tümüne verilen isim, \"kült\" adı ile anılanıdır.</p> </div> </div> </div>",
+        "Title": "<p>Lütfen \"Anadolu'da Tarih Öncesi\" başlıklı yazıyı gözden geçiriniz.</p>",
+        "Text": "<div class=\"page\" title=\"Page 5\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İnanç sitemiyle ilgili yapı ve uygulamaların tümüne verilen isim aşağıdakilerden hangisidir?</p> </div> </div> </div>",
+        "A": "<p>Stel.</p>",
+        "B": "<p>Kerpiç.</p>",
+        "C": "<p>Kült.</p>",
+        "D": "<p>Figure.</p>",
+        "E": "<p>Sfensk.</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935452,
+        "UniteNo": 1,
+        "PageNumber": 3,
+        "AnswerExplanation": "<p>Günümüzden yaklaşık beş bin yıl önce, ilk kez Mezopotamya coğrafyasında Sümerler tarafından kullanılan yazı, insanlığın en büyük buluşlarından biridir. Dolayısıyla cevap A şıkkıdır.</p>",
+        "Title": "",
+        "Text": "<p>Günümüzden yaklaşık beş bin yıl önce, ilk kez Mezopotamya coğrafyasında kullanılan yazı, insanlığın en büyük buluşlarından biridir. Yazı ilk kez hangi uygarlık tarafından kullanılmıştır ?</p>",
+        "A": "<p>Sümerler</p>",
+        "B": "<p>Asurlar</p>",
+        "C": "<p>Babiller</p>",
+        "D": "<p>Emeviler</p>",
+        "E": "<p>Mayalar</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935203,
+        "UniteNo": 1,
+        "PageNumber": 8,
+        "AnswerExplanation": "<p>Megaron</p>",
+        "Title": "<p>Anadolu’da Erken Tunç Çağı’nda yaygın olarak inşa edilen ve iki odadan oluşan ev tipine Megaron denmektedir.</p>",
+        "Text": "<p>Anadolu’da Erken Tunç Çağı’nda yaygın olarak inşa edilen ve iki odadan oluşan ev tipinin adı, aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Höyük</p>",
+        "B": "<p>Megaron</p>",
+        "C": "<p>Kerpiç</p>",
+        "D": "<p>Tapınak</p>",
+        "E": "<p>Stel</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935243,
+        "UniteNo": 1,
+        "PageNumber": 13,
+        "AnswerExplanation": "<p>Ziggurat: Birbirine rampalarla bağlanan katlardan meydana gelen, tepesi kesik piramit biçiminde olan tapınak anlamına gelir. Sümer uygarlığının bilinen en eski merkezi Uruk’dur. Kentte Sümerlere özgü bir yapı türü olan zigguratlar yani kule tapınaklar bulunur. MÖ 3500 ile MÖ 3100 arasında yapılmış, badanalı tuğla duvarlarıyla Uruk’taki (modern adı Warka) Beyaz Tapınak, tapınak yapısıyla taçlandırılan zigguratların ilk örneklerinden biridir. Yanıt: </p>",
+        "Title": "<div class=\"page\" title=\"Page 12\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Ziggurat: Birbirine rampalarla bağlanan katlardan meydana gelen, tepesi kesik piramit biçiminde olan tapınak.</p>\n</div>\n</div>\n</div>\n</div>",
+        "Text": "<p>Aşağıdakilerden hangisi ziggurat için söylenebilir?</p>",
+        "A": "<p>İlk Sümerlerde yapılan, tepesi kesik piramit biçiminde olan tapınak</p>",
+        "B": "<p>Lidyalılar yapmıştır</p>",
+        "C": "<p>dikilitaş anlamına gelir</p>",
+        "D": "<p>Avrupada Orta Tunç döneminde görülür</p>",
+        "E": "<p>Altamira mağarası resimlerinde görülmektedir</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935289,
+        "UniteNo": 1,
+        "PageNumber": 12,
+        "AnswerExplanation": "<p>Bir coğrafi terim olmakla birlikte, Mezopotamya kelimesi burada gelişen Sümer, Akkad, Babil ve Asur gibi uygarlıklardan günümüze ulaşan bileşik kültürel<br />kimliğini de ifade etmektedir.</p>",
+        "Title": "",
+        "Text": "<p>Sümer, Akkad, Babil ve Asur gibi uygarlıkların yer aldığı coğrafya neresidir? </p>",
+        "A": "<p>İç Anadolu</p>",
+        "B": "<p>Orta Asya</p>",
+        "C": "<p>Ege</p>",
+        "D": "<p>Akdeniz</p>",
+        "E": "<p>Mezepotamya</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935135,
+        "UniteNo": 1,
+        "PageNumber": 11,
+        "AnswerExplanation": "<p>Lydion</p>",
+        "Title": "<p>Anadolu’da ilkçağ sanatı</p>",
+        "Text": "<p>Lidya uygarlığı tarafından krem ve parfümler için üretilen yüksek konik bir ayağa sahip vazo biçimindeki kaplara ne ad verilir?</p>",
+        "A": "<p>Mastaba</p>",
+        "B": "<p>İdol</p>",
+        "C": "<p>Ortostad</p>",
+        "D": "<p>Lydion</p>",
+        "E": "<p>Rython</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935355,
+        "UniteNo": 1,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Anadolu’da tarih öncesi ve ilk Çağ uygarlIklarInIn sanat etkinliklerini açIklayabileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi Anadolu’da Erken Tunç Çağı'nda yaygın olarak inşa edilen ve iki odadan oluşan ev tipinin adıdır?",
+        "A": "Megaron",
+        "B": "Stel",
+        "C": "Dolmen",
+        "D": "İştar",
+        "E": "Ortostad",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935455,
+        "UniteNo": 1,
+        "PageNumber": 5,
+        "AnswerExplanation": "<p>Neolitik (Yeni Taş) Devir ( MÖ 9.000-7.000): Bu dönemde yerleşik köyler oluşmuş, tarıma başlanmış, hayvanlar evcilleştirilmiş, yeni taş ve odsidiyen aletler geliştirilmiş, ilk kez kilden çanak çömlek üretilmiş, anıtsal boyutlarda heykel ve kabartmalar yapılmıştır. Dolayısıyla cevap D şıkkıdır.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıda belirtilen hangi tarih öncesi devirde yerleşik köyler oluşmuş, tarıma başlanmış, hayvanlar evcilleştirilmiştir ?</p>",
+        "A": "<p>Tunç devri</p>",
+        "B": "<p>Mezolitik devir</p>",
+        "C": "<p>Kalkolitik devir</p>",
+        "D": "<p>Neolitik devir</p>",
+        "E": "<p>Paleolitik devir</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935257,
+        "UniteNo": 1,
+        "PageNumber": 13,
+        "AnswerExplanation": "<p>Yanıt B'dir. </p>",
+        "Title": "<p>Samarra kültürü tarif ediliyor. </p>",
+        "Text": "<p>Orta Mezopotamya’da, Bağdat’ın 90 km kuzeyinde ortaya çıkmış olup kendine özgü boyalı ve iyi pişirilmiş bir çanak çömlek grubu üzerinde stilize insan, hayvan ve bitki motifleri görülen kültür hangisidir?</p>",
+        "A": "<p>Halaf kültürü (MÖ 5500-4800)</p>",
+        "B": "<p>Samarra kültürü (MÖ 5300-5100)</p>",
+        "C": "<p>Obeyd/Ubaid kültürü (MÖ 5900-4300)</p>",
+        "D": "<p>Urartu kültürü (MÖ 9.-6. yüzyıllar)</p>",
+        "E": "<p>Sümer kültürü (MÖ 4000 - MÖ 2000)</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935162,
+        "UniteNo": 1,
+        "PageNumber": 4,
+        "AnswerExplanation": "<p>İnsanoğlu neolitik dönemde yerleşik yaşama geçmiştir</p>",
+        "Title": "",
+        "Text": "<p>İnsanoğlu hangi dönemde yerleşik yaşama geçmiştir ?</p>",
+        "A": "<p>Neolitik</p>",
+        "B": "<p>Paolitik</p>",
+        "C": "<p>Gelişme</p>",
+        "D": "<p>Kış</p>",
+        "E": "<p>Yaz</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935468,
+        "UniteNo": 1,
+        "PageNumber": 9,
+        "AnswerExplanation": "<p>Fibula</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi MÖ 9. yüzyılda Frig Uygarlığında gelişen ve çengelli iğnenin atası olduğuna inanılan takıdır?</p>",
+        "A": "<p>Diadem</p>",
+        "B": "<p>Lydion</p>",
+        "C": "<p>Fibula</p>",
+        "D": "<p>Zehgir</p>",
+        "E": "<p>Sargıç</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935471,
+        "UniteNo": 1,
+        "PageNumber": 19,
+        "AnswerExplanation": "<p>Mastaba</p>",
+        "Title": "",
+        "Text": "<p>Mısır’da basit toprak altı gömüden farklı olarak ölülerini bir mekânla sınırlama ve etrafına hediyeler koyarak gömmenin erken örnekleri aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Mastaba</p>",
+        "B": "<p>Piramit</p>",
+        "C": "<p>Lamasşu</p>",
+        "D": "<p>Megaron</p>",
+        "E": "<p>Ortostad</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935409,
+        "UniteNo": 1,
+        "PageNumber": 10,
+        "AnswerExplanation": "<p>Gordion</p>",
+        "Title": "<p>Sakarya ile Porsuk Nehirlerinin birleşme noktasına yakın olarak kurulmuş olan Gordion'da hem sitadel hem de aşağı şehrin etrafı güçlü bir surla korunmuştur. Gordion kazıları Friglerin, Anadolu'da üçüncü binin başlarından beri kullanılan, önde bir giriş holü ve bunun arkasındaki büyük bir salondan oluşan megaron planlı yapılar inşa ettiklerini ortaya koymuştur. Doğru seçenek B şıkkıdır. </p>",
+        "Text": "<p>6. Arkeolojik kazı çalışmaları aşağıdaki yerleşimlerden hangisinin sitadel ve aşağı şehrinin surla çevrelendiğini ve Friglerin burada megaron tipli yapılar inşa ettikleri ortaya çıkarmıştır?</p>",
+        "A": "<p>Yazılıkaya</p>",
+        "B": "<p>Gordion</p>",
+        "C": "<p>Pessinus</p>",
+        "D": "<p>Kütahya</p>",
+        "E": "<p>Sivrihisar</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935279,
+        "UniteNo": 1,
+        "PageNumber": 18,
+        "AnswerExplanation": "<p>Mısır</p>",
+        "Title": "<div class=\"page\" title=\"Page 17\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Mısır uygarlığında her alanda inanç etkili ve belirleyicidir. Mısır insanı için, yaşadığı bu dünya ve ölümden sonra yaşayacağı dünya, inancının temel eksenini oluşturmaktadır. Onlara göre, insan bu dünyaya ait ölümlü beden ile ölümsüz ruhun birleşiminden oluşmaktadır. Buna göre her insanın maddi yönünü temsil eden Khat ve ruhani yönünü temsil eden Ka’sı vardır.</p>\n</div>\n</div>\n</div>",
+        "Text": "<p>18- Bu uygarlığın her alanında <em>inanç </em>etkili ve belirleyicidir. Bu dünya ve ölümden sonra yaşayacağı dünya, inancının temel eksenini oluşturmaktadır. Onlara göre, insan bu dünyaya ait ölümlü beden ile ölümsüz ruhun birleşiminden oluşmaktadır. Buna göre her insanın maddi yönünü temsil eden Khat ve ruhani yönünü temsil eden Ka’sı vardır. Yukarıdaki paragrafta anlatılan bu inanç sistemi hangi uygarlıkta görülür?</p>",
+        "A": "<p>Hitit</p>",
+        "B": "<p>Asurlar</p>",
+        "C": "<p>Mısır</p>",
+        "D": "<p>Uygurlar</p>",
+        "E": "<p>Babiller</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935191,
+        "UniteNo": 1,
+        "PageNumber": 5,
+        "AnswerExplanation": "<p>Farklı zamanlarda oluşan kültür katmanlarının toprakla üstlerinin örtülmesi<br />ile oluşan doğal tepeciklere höyük adı verilir.</p>",
+        "Title": "<p>ANADOLU’DA TARİH ÖNCESİ VE İLK ÇAĞ SANATI</p>",
+        "Text": "<p>Farklı zamanlarda oluşan kültür katmanlarının toprakla üstlerinin örtülmesi<br />ile oluşan doğal tepeciklere ne ad verilir?</p>",
+        "A": "<p>Menhir</p>",
+        "B": "<p>Megaron</p>",
+        "C": "<p>Höyük</p>",
+        "D": "<p>Stel</p>",
+        "E": "<p>Kült</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935430,
+        "UniteNo": 1,
+        "PageNumber": 14,
+        "AnswerExplanation": "<p>Sümerler</p> ",
+        "Title": "<p> </p>\n<p><strong>Mezopotamya’da İlk Çağ Sanatı </strong></p>",
+        "Text": "<p>MÖ üçüncü binin ikinci çeyreğinde yeni bir toplumsal düzen yaratan MÖ 3200 yıllarında geliştirdikleri <strong>çivi yazısı</strong>, üç bin yıla yakın bir süre boyunca bir çok toplum tarafından kullanılmış ve Fenike kıyılarında geliştirilen alfabe yazısına öncülük etmiştir.</p> <p>Metinde tanımlanan çivi yazısını bulan uygarlık aşağıdakilerden hangisidir? </p>",
+        "A": "<p>Akkad</p>  ",
+        "B": "<p>Sümerler</p> ",
+        "C": " <p>Babil</p> ",
+        "D": "<p>Pers</p> ",
+        "E": "<p>Hitit</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935341,
+        "UniteNo": 1,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Anadolu’da tarih öncesi ve ilk Çağ uygarlIklarInIn sanat etkinliklerini açIklayabileceksiniz.",
+        "Text": "İnsanlığın en uzun evrelerinden birini kapsayan, avcılık ve toplayıcılığın insan yaşamında etkin rol aldığı ve ateşin keşfedildiği dönem aşağıdakilerden hangisidir?",
+        "A": "Maden Devri ",
+        "B": "Paleolitik Devir",
+        "C": "Tunç Devri ",
+        "D": "Arkaik Dönem",
+        "E": "Helenistik Dönem ",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935396,
+        "UniteNo": 1,
+        "PageNumber": 5,
+        "AnswerExplanation": "<p>Taş Devri’ne ait en eski anıtlar Neolitik Dönemde görülmeye başlar. İnsanlar, bu anıtları ölü kültü veya insanüstü tanrısal güçlerle de birleştirerek anıtsal ölçülerde yapmış, gerçekte olduğundan daha yüceltmiş ve ölümsüzleştirmişlerdir. En sade biçimde ayakta duran taş, <em>dikilitaş</em> veya <strong>menhir </strong>adını almakta ve anıtların atası sayılmaktadır.</p>",
+        "Title": "<p>Anadolu'da Tarih Öncesi</p>",
+        "Text": "<p>Neolitik Dönemde görülmeye başlayan ve anıtların atası sayılan en sade biçimde ayakta duran taş, <em>dikilitaş</em> olarak da bilinen ilk anıtların diğer adı nedir?</p>",
+        "A": "<p>Menhir</p>",
+        "B": "<p>Dolmen</p>",
+        "C": "<p>Kromlek</p>",
+        "D": "<p>Obsidiyen</p>",
+        "E": "<p>Figürün</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 2935227,
+        "UniteNo": 1,
+        "PageNumber": 4,
+        "AnswerExplanation": "<p>Doğru sıralama D seçeneğinde verilmiştir.</p>",
+        "Title": "<p>Protohistorik dönem Prehistorik dönem sonrasıdır. Paleolitik - Mezolitik -  Neolitik ve Kalkolitik dönemler prehistorik dönemlerdir. Taş devri üçe ayrılmakta ve bu dönemler sırasıyla Paleolitik - Mezolitik -  Neolitik dönemlere ayrılmaktadır. Bu dönemler sonrasında yine prehistorik dönem olan Kalkolitik dönem gelmektedir.</p>",
+        "Text": "<p>Aşağıda tarih öncesi dönemler, soldan sağa kronolojik sırada hangi seçenekte doğru verilmiştir?</p>",
+        "A": "<p>Mezolitik - Paleolitik - Neolitik - Protohistorik - Kalkolitik</p>",
+        "B": "<p>Protohistorik - Mezolitik - Paleolitik - Neolitik - Kalkolitik</p>",
+        "C": "<p>Protohistorik - Neolitik-  Kalkolitik -Mezolitik - Paleolitik </p>",
+        "D": "<p>Paleolitik - Mezolitik -  Neolitik - Kalkolitik - Protohistorik </p>",
+        "E": "<p>Protohistorik - Paleolitik - Neolitik-  Kalkolitik - Mezolitik </p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Hız kazanması</p>",
         "E": "<p>Yeni teknolojilere uyum sağlama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833333,
@@ -28,8 +27,7 @@
         "D": "<p>Yalnızca büyük şirketler kullanmalı</p>",
         "E": "<p>İnsan müdahalesi olmadan çalışmalı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833336,
@@ -44,8 +42,7 @@
         "D": "<p>Yasalar tüm hataları yazılımcıya yüklemesi</p>",
         "E": "<p>Hatasız veriyle eğitilmesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833337,
@@ -60,8 +57,7 @@
         "D": "<p>Veri setleri yanlıdır. </p>",
         "E": "<p>Etik kurallarla tasarlanır. </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833340,
@@ -76,8 +72,7 @@
         "D": "<p>Ayrımcı algoritmaları kaldırılabilir. </p>",
         "E": "<p>Farklı gruplarla karşılaştırılabilir. </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833343,
@@ -92,8 +87,7 @@
         "D": "<p>Yalnızca estetik bilgi</p>",
         "E": "<p>İşletme ve pazarlama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833346,
@@ -108,8 +102,7 @@
         "D": "<p>Etik kurallardan bağımsızdır. </p>",
         "E": "<p>Sadece teknik işlerde kullanılır. </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833349,
@@ -124,8 +117,7 @@
         "D": "<p>Tüm sanatçılar kullanabilir. </p>",
         "E": "<p>Teknik ustalık içerir ancak duygusal boyut eksiktir. </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833353,
@@ -140,8 +132,7 @@
         "D": "<p>Yapay zeka insanı geçecektir. </p>",
         "E": "<p>Geleneksel sanat tamamen yok olacaktır. </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833363,
@@ -156,8 +147,7 @@
         "D": "<p>Enerji tüketimi ve karbon salınımı</p>",
         "E": "<p>Sıfır atık hedefine ulaşması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833364,
@@ -172,8 +162,7 @@
         "D": "<p>Yapay zekanın sadece belirli sektörlerde kullanımını teşvik etmek</p>",
         "E": "<p>Yapay zeka teknolojilerini yasaklamak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833366,
@@ -188,7 +177,6 @@
         "D": "<p>Plastik kullanımını artırmak</p>",
         "E": "<p>Doğal kaynakların tüketimini hızlandırmak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     }
 ]

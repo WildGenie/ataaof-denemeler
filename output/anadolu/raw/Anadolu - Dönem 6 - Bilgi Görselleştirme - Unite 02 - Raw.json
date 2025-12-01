@@ -12,8 +12,7 @@
         "D": "<p>Tipografi</p>",
         "E": "<p>Şekil</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763434,
@@ -28,8 +27,7 @@
         "D": "<p>L'harmonie Du Monde</p>",
         "E": "<p>Neue Stereometrie Der Fasser</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763435,
@@ -44,8 +42,7 @@
         "D": "<p>Moses Harris</p>",
         "E": "<p>William Playfair</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763436,
@@ -60,8 +57,7 @@
         "D": "<p>Biyografi Tablosu</p>",
         "E": "<p>Kimya Prensipleri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763437,
@@ -76,8 +72,7 @@
         "D": "<p>Güney Doğu Asya’da su kanallarını</p>",
         "E": "<p>Kuzey Amerika’da hayvan çizimlerini</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763438,
@@ -92,8 +87,7 @@
         "D": "<p>diyagram</p>",
         "E": "<p>selenografi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763439,
@@ -108,8 +102,7 @@
         "D": "<p>akılcılık ve eşitlik gibi konuları görselleştirmek için kullanmıştır</p>",
         "E": "<p>istatiksel verileri sembolik grafiklere dönüştürmek için kullanmıştır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763440,
@@ -124,8 +117,7 @@
         "D": "<p>Chatles Joseph Minard</p>",
         "E": "<p>Florence Nightingale</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763441,
@@ -140,8 +132,7 @@
         "D": "<p>Charles Joseph Minard</p>",
         "E": "<p>Florence Nightingale</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763442,
@@ -156,8 +147,7 @@
         "D": "<p>Charles Joseph Minard</p>",
         "E": "<p>Florence Nightingale</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763604,
@@ -172,8 +162,7 @@
         "D": "<p>Carl Sagan</p>",
         "E": "<p>Valentine Seaman</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763605,
@@ -188,8 +177,7 @@
         "D": "<p>Charles Joseph Minard</p>",
         "E": "<p>Otto Neurath</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763606,
@@ -204,8 +192,7 @@
         "D": "<p>Otto Neurath</p>",
         "E": "<p>John Snow</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763607,
@@ -220,8 +207,7 @@
         "D": "<p>Charles Joseph Minard - Londra Metrosu</p>",
         "E": "<p>Harry Beck - Londra metrosu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763608,
@@ -236,8 +222,7 @@
         "D": "<p>Michael George Mulhall</p>",
         "E": "<p>Carl Sagan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763609,
@@ -252,8 +237,7 @@
         "D": "<p>Dairesel grafikler ve zıt renk</p>",
         "E": "<p>Basit veya dört-boyutlu grafikler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763611,
@@ -268,8 +252,7 @@
         "D": "<p>Michael George Mulhall</p>",
         "E": "<p>Dmitri Mendeleev</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763613,
@@ -284,8 +267,7 @@
         "D": "<p>Bilgisayarda çizilmiş olması</p>",
         "E": "<p>İlk bilgigrafi örneği olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763614,
@@ -300,8 +282,7 @@
         "D": "<p>Otto Neurath</p>",
         "E": "<p>Paule Scher</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3763615,
@@ -316,7 +297,6 @@
         "D": "<p>Fritz Kahn</p>",
         "E": "<p>Florence Nightingale</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

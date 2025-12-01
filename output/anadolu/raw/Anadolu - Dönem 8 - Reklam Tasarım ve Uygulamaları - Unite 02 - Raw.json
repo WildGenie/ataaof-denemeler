@@ -12,8 +12,7 @@
         "D": "<p>Tüketici</p>",
         "E": "<p>İzleyici</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830863,
@@ -28,8 +27,7 @@
         "D": "<p>Kullanan</p>",
         "E": "<p>İdeal benlik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830864,
@@ -44,8 +42,7 @@
         "D": "<p>Pazarlama Savaşı</p>",
         "E": "<p>Makro Pazarlama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830865,
@@ -60,8 +57,7 @@
         "D": "<p>Ürünle ilgili ihtiyaçların belirlenmesi</p>",
         "E": "<p>Var olan ürünlerle ilgili tüketici memnuniyeti</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830866,
@@ -76,8 +72,7 @@
         "D": "<p>Demografik segmentasyon</p>",
         "E": "<p>Yaşam Evresi Segmentasyonu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830868,
@@ -92,8 +87,7 @@
         "D": "<p>Pazar analizi</p>",
         "E": "<p>Hizmet ve marka analizi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830869,
@@ -108,8 +102,7 @@
         "D": "<p>Anket</p>",
         "E": "<p>Derinlemesine görüşme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830870,
@@ -124,8 +117,7 @@
         "D": "<p>Kontrolsüz Gözlem</p>",
         "E": "<p>Mekanik Gözlem</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830872,
@@ -140,8 +132,7 @@
         "D": "<p>Mesajın Taraflılığı</p>",
         "E": "<p>Hedef Kitleyi belirlemek</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830873,
@@ -156,7 +147,6 @@
         "D": "<p>Sunum sırası</p>",
         "E": "<p>Ürün/Hizmet Konsepti</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

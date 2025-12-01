@@ -12,8 +12,7 @@
         "D": "<p>Yabancı para birimleri üzerindeki devlet kontrolü kaldırılmıştır.</p>",
         "E": "<p>Avrupa Birliği Bakanlığı kurularak batı ile ilişkiler geliştirilmiştir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513256,
@@ -28,8 +27,7 @@
         "D": "<p>Kurucu Meclis</p>",
         "E": "<p>Devlet Planlama Teşkilatı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513257,
@@ -44,8 +42,7 @@
         "D": "<p>Halkçı Parti</p>",
         "E": "<p>Milliyetçi Çalışma Partisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513258,
@@ -60,8 +57,7 @@
         "D": "<p>Bülent Ecevit</p>",
         "E": "<p>Erdal İnönü</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513259,
@@ -76,8 +72,7 @@
         "D": "<p>Uluslararası kamuoyuna çağrıda bulunmak</p>",
         "E": "<p>Üç-beş eşkıyanın kalkışması olarak tanımlamak</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513260,
@@ -92,8 +87,7 @@
         "D": "<p>Tekin Arıburun</p>",
         "E": "<p>Fethi Çelikbaş</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513262,
@@ -108,8 +102,7 @@
         "D": "<p>Hazine Müsteşarlığı</p>",
         "E": "<p>Sosyal ve Ekonomik Konsey</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513263,
@@ -124,8 +117,7 @@
         "D": "<p>Yunanistan</p>",
         "E": "<p>Irak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513266,
@@ -140,8 +132,7 @@
         "D": "<p>Muhsin Batur</p>",
         "E": "<p>Sadettin Bilgiç      </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513269,
@@ -156,8 +147,7 @@
         "D": "<p>  1983 </p>",
         "E": "<p>1984</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513270,
@@ -172,8 +162,7 @@
         "D": "<p>7 Kasım 1982                   </p>",
         "E": "<p>23 Kasım 1981     </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513271,
@@ -188,8 +177,7 @@
         "D": "<p>II, III, IV</p>",
         "E": "<p>III, IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513272,
@@ -204,8 +192,7 @@
         "D": "<p>6 Kasım 1983 </p>",
         "E": "<p>20 Mayıs 1983</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513275,
@@ -220,8 +207,7 @@
         "D": "<p>31 Ekim 1989</p>",
         "E": "<p>5 Şubat 1990   </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513277,
@@ -236,8 +222,7 @@
         "D": "<p> Ekonomik anlamda ithalat serbestliğinin getirilmesi.</p> ",
         "E": "<p>Ekonomik anlamda ihracatın serbestliğinin getirilmesi.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513278,
@@ -252,8 +237,7 @@
         "D": "<p> ANAP</p>",
         "E": "<p> IDP</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513279,
@@ -268,8 +252,7 @@
         "D": "<p>RP</p>",
         "E": "<p>MÇP</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513280,
@@ -284,8 +267,7 @@
         "D": "<p>Süleyman Demirel</p>",
         "E": "<p>Hüsamettin Cindoruk</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513281,
@@ -300,8 +282,7 @@
         "D": "<p>1988</p> ",
         "E": "<p>1989</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513283,
@@ -316,8 +297,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I,II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513261,
@@ -332,8 +312,7 @@
         "D": "<p>CENTO</p>",
         "E": "<p>RCD</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513264,
@@ -348,8 +327,7 @@
         "D": "<p>Olağanüstü Hal Valiliği kurulması</p>",
         "E": "<p>Terörle mücadelenin uzman erbaşlara devredilmesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513274,
@@ -364,8 +342,7 @@
         "D": "<p>15 Şubat 1987</p>",
         "E": "<p>14 Nisan 1987   </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513276,
@@ -380,8 +357,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I,II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513282,
@@ -396,8 +372,7 @@
         "D": "<p> II ve III</p>",
         "E": "<p> I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513284,
@@ -412,8 +387,7 @@
         "D": "<p>Bölgede siyasi politikaların daha sıkı uygulanması</p>",
         "E": "<p>Bölgede askeri politikaların daha sıkı uygulanması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513265,
@@ -428,8 +402,7 @@
         "D": "<p>Türk Ortak Pazarı</p>",
         "E": "<p>Demir İpek Yolu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513267,
@@ -444,8 +417,7 @@
         "D": "<p>I, II, IV           </p>",
         "E": "<p>I, II, III, IV </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513268,
@@ -460,7 +432,6 @@
         "D": "<p> Sedat Celasun </p>",
         "E": "<p>Kenan Evren</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     }
 ]

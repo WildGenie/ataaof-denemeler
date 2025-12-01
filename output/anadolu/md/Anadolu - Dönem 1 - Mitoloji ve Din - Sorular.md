@@ -3271,14 +3271,15 @@
     > Elkunirşa
 
     ***
-1. Hurri Kökenli Mitler Hurriceden Hittitçeye uyarlanmıştır. Aşağıda başlıkları verilmiş olan efsaneler birbiriyle ilişkilidir. Bu efsanelerin ana konusunu; Kumarbi ve Fırtına Tanrısı Teşup’un tanrılar üzerinde bir krallık elde etmek için verdiği mücadele oluşturmaktadır.<br />Aşağıda yer alan efsanelerden hangisi Hurri Kökenli Mitler başlığı altında yer almaz?
+1. Hurri Kökenli Mitler Hurriceden Hittitçeye uyarlanmıştır. Aşağıda başlıkları verilmiş olan efsaneler birbiriyle ilişkilidir. Bu efsanelerin ana konusunu; Kumarbi ve Fırtına Tanrısı Teşup’un tanrılar üzerinde bir krallık elde etmek için verdiği mücadele oluşturmaktadır.<br />Aşağıda yer alan efsanelerden hangisi Hurri Kökenli Mitler başlığı altında yer almaz?
     - **Cevap A-) Kuliwişna**
     - B-) Kumarbi
     - C-) Tanrı LAMA’nın Şarkısı
     - D-) Gümüş’ün Şarkısı
     - E-) Hedammu Şarkısı
 
-    > **Açıklama:** Kuliwişna
+    > **Açıklama:** Hurri Kökenli Mitler
+    > Kuliwişna
 
     ***
 1. Aşağıda sıraladığımız masallardan hangisi Ullikummi Şarkısı altında sınıflandırılan masallardan biri değildir?
@@ -5492,6 +5493,17 @@
 
     > **Açıklama:** Soruda özellikleri verilen Yunan tanrısının tanınması amaçlanmıştır.
     > Apollon: Zeus ve Leto’nun oğludur. Mitolojide müziğin, güzel sanatların, güneşin, ateşin ve şiirin tanrısıdır. Ayrıca bilicilik, kehanetle de ilgilenen bir tanrıdır. Adı değişmeden Roma mitolojisine geçen tek tanrıdır. Bu tanrının adının Yunanca olmadığı herkes tarafından bilinir. Yunan mitolojisindeki en önemli tanrılardan biridir. Yunanlılar ayrıca ana Phoibos adını da takmışlardır. Anlamı parlaktır ve tanrının ışık saçan, aydınlık varlığını dile getirir. Ayrıca İliada da okçu, hedefi vuran ya da gümüş yaylı olarak geçmektedir.
+
+    ***
+1. Yunan mitolojisinde Hephaistos’un bir balta ile yarmasının ardından Zeus’un kafasından silahlı bir kız olarak fırlayan, mızrak ve Aegis (keçi derisinden bir tür zırh ya da kalkan) ile donanmış, zeytin dalı ve baykuş gibi sembolleri olan, kalkan, mızrak, akıl, sanat, strateji ve barış tanrıçası aşağıdakilerden hangisidir?
+    - **Cevap A-) Athena**
+    - B-) Hera
+    - C-) Artemis
+    - D-) Aphrodite
+    - E-) Demeter
+
+    > **Açıklama:** Soruda özellikleri ve sembolleri verilen Yunan tanrıçasının tanınması amaçlanmıştır.
+    > Athena: Zeus ile Metis’in kızıdır. Metis hamileyken Zeus onu yutmuştur. Doğum zamanı gelince, Zeus kafasını bir balta ile yarmasını Hephaistos’a emretmiştir. Böylece Athena Zeus’un kafasından silahlı bir kız olarak fırlamıştır. Akıl, sanat, strateji ve barış tanrıçasıdır. Mızrak ve Aegis (keçi derisinden bir tür zırh ya da kalkan) ile donanmış olan tanrıça Gigantlarla savaşta önemli rol oynar. Sembolleri kalkan, mızrak, zeytin dalı ve baykuştur.
 
     ***
 1. Yunan mitolojisinde Kronos ile Rheia’nın oğlu olan, Titanlara karşı kazandığı zaferden sonra ölüler dünyası ya da Tartaros’un yönetimi verilen, Kykloplardan aldığı sihirli miğferi başına takınca görünmezlik kazanan, ölüler dünyasına giren hiç kimsenin yeniden canlılar arasına dönmesine izin vermeyen acımasız tanrı aşağıdakilerden hangisidir?

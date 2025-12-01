@@ -12,8 +12,7 @@
         "D": "<p>Sürrealizm</p>",
         "E": "<p>Modernizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354156,
@@ -28,8 +27,7 @@
         "D": "<p>Salvador Dali</p>",
         "E": "<p>Henry Moore</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354157,
@@ -44,8 +42,7 @@
         "D": "<p>Vincent Van Gogh</p>",
         "E": "<p>Paul Cezanne</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354158,
@@ -60,8 +57,7 @@
         "D": "<p>Sanayi-i Nefise Mektebi </p>",
         "E": "<p>Bauhaus Okulu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354395,
@@ -76,8 +72,7 @@
         "D": "<p>Yeni malzeme arayışı</p>",
         "E": "<p>Sonsuzluk ve ölümsüzlük</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354399,
@@ -92,8 +87,7 @@
         "D": "<p>Donatello - Gattamelata Atlı Heykeli</p> ",
         "E": "<p>Michelangel - Davut heykeli</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354403,
@@ -108,8 +102,7 @@
         "D": "<p>Kuzgun Acar</p> ",
         "E": "<p>Ayşe Erkmen</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354440,
@@ -124,8 +117,7 @@
         "D": "<p>Ghiberti</p>",
         "E": "<p>Donatello</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354442,
@@ -140,8 +132,7 @@
         "D": "<p>Heykel – Resim</p>",
         "E": "<p>Heykel- Müzik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354475,
@@ -156,8 +147,7 @@
         "D": "<p>Michelangelo</p>",
         "E": "<p>Rodin</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354477,
@@ -172,8 +162,7 @@
         "D": "<p>Marcel Duchamp </p>",
         "E": "<p>Umberto Boccioni </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354504,
@@ -188,8 +177,7 @@
         "D": "<p>Horus</p>",
         "E": "<p>İsis</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354505,
@@ -204,8 +192,7 @@
         "D": "<p>Amon</p>",
         "E": "<p>Basted</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354506,
@@ -220,8 +207,7 @@
         "D": "<p>İnsanı yüceltme</p> <p>İdealize etme</p> <p>Karmaşık form</p>",
         "E": "<p>Monotonluk</p> <p>Stilize etme</p> <p>İdealize etme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354507,
@@ -236,8 +222,7 @@
         "D": "<p>Hades</p>",
         "E": "<p>Polydorus</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354508,
@@ -252,8 +237,7 @@
         "D": "<p>Zeus</p>",
         "E": "<p>Poseidon</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354509,
@@ -268,8 +252,7 @@
         "D": "<p>Kaslar</p>",
         "E": "<p>Yüzler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354510,
@@ -284,8 +267,7 @@
         "D": "<p>Plüton</p>",
         "E": "<p>Neptün</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354511,
@@ -300,8 +282,7 @@
         "D": "<p>Hümanist</p>",
         "E": "<p>Fütürist</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354544,
@@ -316,8 +297,7 @@
         "D": "<p>Osmanlı Dönemi</p>",
         "E": "<p>Antik Mısır Dönemi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354152,
@@ -332,8 +312,7 @@
         "D": "<p>Rodin</p>",
         "E": "<p>Picasso</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354397,
@@ -348,8 +327,7 @@
         "D": "<p>Roma Heykelini</p>",
         "E": "<p>Rönesans heykelini</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354404,
@@ -364,8 +342,7 @@
         "D": "<p>Çalı Kuşağı Sanatı</p>",
         "E": "<p>D Grubu Sanatçıları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354435,
@@ -380,8 +357,7 @@
         "D": "<p>Hava Tanrısı</p>",
         "E": "<p>Su Tanrısı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354441,
@@ -396,8 +372,7 @@
         "D": "<p>Toplumun görüşü dikkate alınmıştır.</p>",
         "E": "<p>Dönemin otoritelerine göre yapılmıştır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354480,
@@ -412,8 +387,7 @@
         "D": "<p>İsa Behzat</p>",
         "E": "<p>İhsan Özsoy</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354481,
@@ -428,8 +402,7 @@
         "D": "<p>Kenan Yontuç-Erzincan Anıtı</p>",
         "E": "<p>Yavuz Gürey-Atatürk ve Gençlik Anıtı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354482,
@@ -444,8 +417,7 @@
         "D": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Set</p> </div> </div> </div> </div>",
         "E": "<p>Firavun</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354485,
@@ -460,8 +432,7 @@
         "D": "<div class=\"page\" title=\"Page 9\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Rönesans'da, dinsel, mitsel, İsa ve melekler vb. yapılmaya başlanmış olmasına rağmen, sivil ve farklı alanlarda üretimler söz konusu değildir.</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 9\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Rönesans'ın önemli heykeltraşlarından biri olan Donatello, anlatımcı bir yol takip ederek, yorum ve eleştiri konularına girmeyecek, daha çok dinî konular ve kutsanmış anlatımlar içinde toplumsal ve dini saygınlığı arayacaktır.</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354487,
@@ -476,8 +447,7 @@
         "D": "<p>Modern</p>",
         "E": "<p>Toplumsal</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354512,
@@ -492,8 +462,7 @@
         "D": "<p>Giacometti</p>",
         "E": "<p>Alberti</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354513,
@@ -508,8 +477,7 @@
         "D": "<p>Ayşe Erkmen</p>",
         "E": "<p>Yavuz Görey</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354398,
@@ -524,8 +492,7 @@
         "D": "<p>Rönesans dönemi heykeli</p> ",
         "E": "<p>Modern dönem heykeli</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354418,
@@ -540,8 +507,7 @@
         "D": "<p>Plüton-Denizlerin tanrısı olarak kabul edilir, eleştirel bir estetik olarak konumlandırılır</p>",
         "E": "<p>Neptün-Yeraltı dünyasının kralı olarak karşımıza çıkar öte dünyada yargı, güç ve eleştiri olgusunun bütün realitesini üzerinde toplar ve o şekilde simgeleştirir. </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354430,
@@ -556,8 +522,7 @@
         "D": "<p>Henry Moore</p>",
         "E": "<p>Joseph Kosuth</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354438,
@@ -572,8 +537,7 @@
         "D": "<p>Antik Çağ</p>",
         "E": "<p>Çağdaş Dönem</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354443,
@@ -588,8 +552,7 @@
         "D": "<p>Ayşe Erkman</p>",
         "E": "<p>Handan Börüteçene</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354488,
@@ -604,8 +567,7 @@
         "D": "<div class=\"page\" title=\"Page 15\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Raymond Villon</p> </div> </div> </div> </div>",
         "E": "<p>Pablo Picasso</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354149,
@@ -620,8 +582,7 @@
         "D": "<p>Lilith</p>",
         "E": "<p>Zeus</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354394,
@@ -636,8 +597,7 @@
         "D": "<p>maden</p>",
         "E": "<p>pişmiş toprak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354396,
@@ -652,8 +612,7 @@
         "D": "<p>Büyüklük ve gösteriş</p> ",
         "E": "<p>Doğal gerçekliğe uygunluk</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354402,
@@ -668,8 +627,7 @@
         "D": "<p>Louise Bourgeois</p> ",
         "E": "<p>Jeff Koons</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354437,
@@ -684,8 +642,7 @@
         "D": "<p>Athena</p>",
         "E": "<p>Poseidon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354491,
@@ -700,8 +657,7 @@
         "D": "<p>Hale Tenger</p>",
         "E": "<p>İlhan Koman</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354401,
@@ -716,8 +672,7 @@
         "D": "<p>Louise Bourgeois - Örümcek Kadın</p>",
         "E": "<p>Meret Oppenheim, -Kürklü Çay Fincanı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354434,
@@ -732,8 +687,7 @@
         "D": "<p>Sanatsal kaygılar önceliklidir.</p>",
         "E": "<p>Sanatçının düşünceleri önceliklidir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354436,
@@ -748,8 +702,7 @@
         "D": "<p>Doğa olaylarının tanrı ve tanrıçaların çatışmaları sonucunda olduğunu düşünmek</p>",
         "E": "<p>Estetik olduğunu düşünmek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354489,
@@ -764,8 +717,7 @@
         "D": "<p>Naum Gabo</p>",
         "E": "<div class=\"page\" title=\"Page 22\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Jeff Koons</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354153,
@@ -780,8 +732,7 @@
         "D": "<p>Edgar Degas </p>",
         "E": "<p>Pablo Picasso </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354483,
@@ -796,8 +747,7 @@
         "D": "<div class=\"page\" title=\"Page 6\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Çok tanrılı kültür Yunan heykel sanatında görülmez.</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 6\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Yunan heykelindeki Antik Çağ, Klasik Çağ ve Helenistik Çağ heykel gerçekliği ve estetiği birbirinden farksızdır.</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354486,
@@ -812,8 +762,7 @@
         "D": "<div class=\"page\" title=\"Page 11\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Michelangelo</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 11\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Auguste Rodin</p> </div> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354155,
@@ -828,8 +777,7 @@
         "D": "<p>Henry Moore</p>",
         "E": "<p>Marcel Duchamp</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354159,
@@ -844,8 +792,7 @@
         "D": "<p>Füsun Onur</p>",
         "E": "<p>Ayşe Erkmen</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354413,
@@ -860,8 +807,7 @@
         "D": "<p>Geometrik yapı</p>",
         "E": "<p>Mitolojik özelliklerin ağır basması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354400,
@@ -876,8 +822,7 @@
         "D": "<p>Constantin <em>Brancusi</em></p> ",
         "E": "<p>Naum Gabo</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354484,
@@ -892,8 +837,7 @@
         "D": "<p>Plüton</p>",
         "E": "<p>Jüpiter</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354150,
@@ -908,8 +852,7 @@
         "D": "<p>Realizm</p>",
         "E": "<p>Kübizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354490,
@@ -924,8 +867,7 @@
         "D": "<div class=\"page\" title=\"Page 25\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Zühtü Müridoğlu</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 25\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Yavuz Görey</p> </div> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354439,
@@ -940,7 +882,6 @@
         "D": "<p>Tanrıça Athena</p>",
         "E": "<p>Düşünen Adam</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     }
 ]

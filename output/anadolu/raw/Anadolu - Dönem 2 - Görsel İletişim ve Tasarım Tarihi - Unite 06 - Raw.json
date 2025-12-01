@@ -12,8 +12,7 @@
         "D": "<p>Dadaizm.</p> ",
         "E": "<p>İzlenimcilik.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234921,
@@ -28,8 +27,7 @@
         "D": "<p>Kurumsal rapor.</p>",
         "E": "<p>Web.</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234922,
@@ -44,8 +42,7 @@
         "D": "<p>Josef Müller-Brockmann.</p> ",
         "E": "<p>Eduard Hoffmann.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234925,
@@ -60,8 +57,7 @@
         "D": "<p>Sans-serif.</p> ",
         "E": "<p>Piktogram.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234926,
@@ -76,8 +72,7 @@
         "D": "<p>Adrian Frutiger.</p> ",
         "E": "<p>Emil Ruder.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234927,
@@ -92,8 +87,7 @@
         "D": "<p>Adrian Frutiger.</p>",
         "E": "<p>Saul Bass.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234928,
@@ -108,8 +102,7 @@
         "D": "<p>Tasarımda kavramsal harmanlama kullanılmıştır.</p> ",
         "E": "<p>Afişlerde kombinasyonel yaratıcılık metodu uygulanmıştır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235002,
@@ -124,8 +117,7 @@
         "D": "<p>Jugendstil</p>",
         "E": "<p>Bauhaus</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235008,
@@ -140,8 +132,7 @@
         "D": "<div class=\"page\" title=\"Page 4\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>İrasyonel, subjektif</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 4\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Tipografi, okunabilirlik</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235009,
@@ -156,8 +147,7 @@
         "D": "<p>Düzen</p>",
         "E": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Izgara sistemi</p> </div> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235011,
@@ -172,8 +162,7 @@
         "D": "<p>Miniskül</p>",
         "E": "<p>Serif</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235012,
@@ -188,8 +177,7 @@
         "D": "<div class=\"page\" title=\"Page 14\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Helvetica</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 12\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Neo-Grotesk</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235014,
@@ -204,8 +192,7 @@
         "D": "<p>Bireycilik kavramı</p>",
         "E": "<p>Gerçeküstü dünya görüşü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235030,
@@ -220,8 +207,7 @@
         "D": "<p>Frutiger<br /><br /></p>",
         "E": "<p>Gotik-Sans</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235034,
@@ -236,8 +222,7 @@
         "D": "<p>I, II, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235124,
@@ -252,8 +237,7 @@
         "D": "<p>Matematiksel olarak çizilmiş bir kanava (grid) üzerinde olması</p>",
         "E": "<p>Metin ve fotoğrafların propaganda ve dolaylı mesajlar içermesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235125,
@@ -268,8 +252,7 @@
         "D": "<p>Carlo L. Vivarelli</p>",
         "E": "<p>Karl<br />Gestner</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235127,
@@ -284,8 +267,7 @@
         "D": "<p>Kitap Izgarası</p>",
         "E": "<p>Modüler Izgara</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235137,
@@ -300,8 +282,7 @@
         "D": "<p>Açık, doğrudan bilgilerin sunumu ön planda olmuştur.</p>",
         "E": "<p>Amerikan tasarımı oldukça teorik ve yapılandırılmıştır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235140,
@@ -316,8 +297,7 @@
         "D": "<p>Panasonic</p>",
         "E": "<p>Harley Davidson</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234920,
@@ -332,8 +312,7 @@
         "D": "<p>Geometrik, soyutlama.</p> ",
         "E": "<p>Tipografi, okunabilirlik.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234923,
@@ -348,8 +327,7 @@
         "D": "<p>Folio.</p>",
         "E": "<p>Gotik-Sans.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234924,
@@ -364,8 +342,7 @@
         "D": "<p>Folio.</p> ",
         "E": "<p>Gotik-Sans.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234998,
@@ -380,8 +357,7 @@
         "D": "<p>I, II, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235003,
@@ -396,8 +372,7 @@
         "D": "<p>Hiyerarşik Izgara</p>",
         "E": "<p>Pixel Izgara</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235005,
@@ -412,8 +387,7 @@
         "D": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Yazıların sağdan serbest, soldan blok olarak yerleştirilmesi</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 2\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Metin ve fotoğrafların, ticari reklamlarda kullanılan alışılagelmiş aşırı propaganda ve abartmanın yerine, tarıafsız ve net bir mesaj iletmesi</p> </div> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235006,
@@ -428,8 +402,7 @@
         "D": "<p>Grafik tasarım</p>",
         "E": "<p>Geç modernizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235010,
@@ -444,8 +417,7 @@
         "D": "<div class=\"page\" title=\"Page 6\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Modüler Izgara</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 6\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Hiyerarşik Izgara</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235032,
@@ -460,8 +432,7 @@
         "D": "<p>Milton Glaser</p>",
         "E": "<p>Max Miedinger</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235129,
@@ -476,8 +447,7 @@
         "D": "<p>Milton Glaser</p>",
         "E": "<p>Joseph Müller Brockmann</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235004,
@@ -492,8 +462,7 @@
         "D": "<p>Modüler ızgara</p>",
         "E": "<p>Temel ızgara</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235007,
@@ -508,8 +477,7 @@
         "D": "<p>Basel Okulu</p>",
         "E": "<p>Kurumsal tasarım</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235013,
@@ -524,8 +492,7 @@
         "D": "<p>Piktogram</p>",
         "E": "<p>Kurumsal kimlik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235029,
@@ -540,8 +507,7 @@
         "D": "<p><br />Frutiger<br /><br /></p>",
         "E": "<p>Gotik-Sans</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235126,
@@ -556,8 +522,7 @@
         "D": "<p>Geometrik</p>",
         "E": "<p>Soyutlama</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235142,
@@ -572,8 +537,7 @@
         "D": "<p>1945'ler</p>",
         "E": "<p>1950'ler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235132,
@@ -588,8 +552,7 @@
         "D": "<p>Arial</p>",
         "E": "<p>Helvetica</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235133,
@@ -604,8 +567,7 @@
         "D": "<p>Kalın harflerle daha alçak, yayvan bir görünüm verir.</p>",
         "E": "<p>Harfler arasında oldukça geniş bir boşluk bırakır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235031,
@@ -620,8 +582,7 @@
         "D": "<p>Akzidenz Grotesk<br /><br /></p>",
         "E": "<p>Helvetica<br /><br /></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235033,
@@ -636,7 +597,6 @@
         "D": "<p>Herb Lubalin</p>",
         "E": "<p>Adrian Frutiger</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     }
 ]

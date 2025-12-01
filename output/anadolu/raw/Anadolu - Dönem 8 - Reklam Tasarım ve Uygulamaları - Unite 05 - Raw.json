@@ -12,8 +12,7 @@
         "D": "<p>Marka farkındalığı</p> ",
         "E": "<p>Dikkat çekme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833987,
@@ -28,8 +27,7 @@
         "D": "<p>Çoklu kullanım</p> ",
         "E": "<p>Erişim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833989,
@@ -44,8 +42,7 @@
         "D": "<p>Çoklu kullanım</p> ",
         "E": "<p>Erişim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833990,
@@ -60,8 +57,7 @@
         "D": "<p>Megalight</p> ",
         "E": "<p>Megaboard</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833991,
@@ -76,8 +72,7 @@
         "D": "<p>Giantboard</p> ",
         "E": "<p>Megaboard</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833992,
@@ -92,8 +87,7 @@
         "D": "<p>Tutarlılık</p> ",
         "E": "<p>Birlik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833993,
@@ -108,8 +102,7 @@
         "D": "<p>Denge</p> ",
         "E": "<p>Birlik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833994,
@@ -124,8 +117,7 @@
         "D": "<p>Resim çerçeveli sayfa düzeni</p> ",
         "E": "<p>Yazı karakteri tabanlı sayfa düzeni</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833995,
@@ -140,8 +132,7 @@
         "D": "<p>Basılı reklamcılıkta hedef kitleyi belirlemek zordur.</p> ",
         "E": "<p>Basılı reklamcılık programatik reklamcılık ortaya koyar.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833996,
@@ -156,7 +147,6 @@
         "D": "<p>Öğüt veren başlık</p> ",
         "E": "<p>İddiada bulunan başlık</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

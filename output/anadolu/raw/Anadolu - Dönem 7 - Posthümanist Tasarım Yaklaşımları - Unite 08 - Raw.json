@@ -12,8 +12,7 @@
         "D": "<p>Karakterler</p>",
         "E": "<p>Anlatılar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3672758,
@@ -28,8 +27,7 @@
         "D": "<p>Yalın</p>",
         "E": "<p>Soyut</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3672766,
@@ -44,8 +42,7 @@
         "D": "<p>Tretman</p>",
         "E": "<p>Yabancılaşma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3672772,
@@ -60,8 +57,7 @@
         "D": "<p>Tasarımsal unsurlar</p>",
         "E": "<p>Olay örgüsü</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3672780,
@@ -76,8 +72,7 @@
         "D": "<p>Çözüm</p> ",
         "E": "<p>Anlatı Yapısı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3672788,
@@ -92,8 +87,7 @@
         "D": "<p>Bakış açısı</p> ",
         "E": "<p>Tema</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3672799,
@@ -108,8 +102,7 @@
         "D": " <p>Organik ile makine</p>",
         "E": "<p>Doğal ile yapay</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3672808,
@@ -124,8 +117,7 @@
         "D": "<p>Siborg</p> ",
         "E": " <p>İnsanmerkezcilik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3672816,
@@ -140,8 +132,7 @@
         "D": "<p>Sosyal medya</p> ",
         "E": " <p>Sanal gerçeklik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3672831,
@@ -156,8 +147,7 @@
         "D": "<p>Video oyunları</p> ",
         "E": "<p>Diziler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842029,
@@ -172,8 +162,7 @@
         "D": "özgür düşüncenin",
         "E": "bireysel hakların",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842030,
@@ -188,8 +177,7 @@
         "D": "Logos",
         "E": "Katarsis",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842036,
@@ -204,8 +192,7 @@
         "D": "Arınma",
         "E": "İtiraf",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842040,
@@ -220,8 +207,7 @@
         "D": "Soyutlaşma",
         "E": "Metalaşma",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842044,
@@ -236,8 +222,7 @@
         "D": "Epizodik Anlatı",
         "E": "Etkileşimli Anlatı",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842047,
@@ -252,8 +237,7 @@
         "D": "<p class=\"p2\">İnsan-Doğaüstü Çatışması</p>",
         "E": "<p class=\"p2\">İnsan-Teknoloji Çatışması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842050,
@@ -268,8 +252,7 @@
         "D": "Üçüncü Şahıs Nesnel Bakış Açısı",
         "E": "Çoğulcu Bakış Açısı",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842052,
@@ -284,8 +267,7 @@
         "D": "Bireysellik",
         "E": "Edilgenlik",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842053,
@@ -300,8 +282,7 @@
         "D": "Üçleme",
         "E": "Esinlenme",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3842062,
@@ -316,7 +297,6 @@
         "D": "RFID",
         "E": "NFT",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

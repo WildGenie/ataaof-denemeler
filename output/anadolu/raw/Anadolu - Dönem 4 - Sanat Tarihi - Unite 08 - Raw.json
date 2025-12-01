@@ -12,8 +12,7 @@
         "D": "<p>Jean Leon Gerome</p>",
         "E": "<p>Fausto Zonaro</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937168,
@@ -28,8 +27,7 @@
         "D": "<p>Realizm</p>",
         "E": "<p>Pre-Raphaelite</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937182,
@@ -44,8 +42,7 @@
         "D": "<p>Kavramsal Sanat</p>",
         "E": "<p>Süreç Sanatı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937187,
@@ -60,8 +57,7 @@
         "D": "<p>Empresyonizm </p>",
         "E": "<p>Oryantalizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937192,
@@ -76,8 +72,7 @@
         "D": "<p>Neoklasisizm</p>",
         "E": "<p>Oryantalizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937193,
@@ -92,8 +87,7 @@
         "D": "<p>17. yüzyıl</p>",
         "E": "<p>16. yüzyıl</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937195,
@@ -108,8 +102,7 @@
         "D": "<p>Empresyonizm</p>",
         "E": "<p>Fovizm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937196,
@@ -124,8 +117,7 @@
         "D": "<p>Gustave Courbet</p>",
         "E": "<p>Eugene Delacroix</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937199,
@@ -140,8 +132,7 @@
         "D": "<p>Ağlayan Kadın</p>",
         "E": "<p>Mavi Oda</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937204,
@@ -156,8 +147,7 @@
         "D": "<p>Süprematizm</p>",
         "E": "<p>Fluxus</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937207,
@@ -172,8 +162,7 @@
         "D": "<p>Romantizm</p>",
         "E": "<p>Süprematizm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937211,
@@ -188,8 +177,7 @@
         "D": "<p>Gerçeküstücülük</p>",
         "E": "<p>Kinetik Sanat ve Minimalizm:</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937220,
@@ -204,8 +192,7 @@
         "D": "<p>Fovizm</p>",
         "E": "<p>Empresyonizm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937221,
@@ -220,8 +207,7 @@
         "D": "<p>Neoklasisizm</p>",
         "E": "<p>Romantizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937222,
@@ -236,8 +222,7 @@
         "D": "<p>Empresyonizm</p>",
         "E": "<p>Oryantalizm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937229,
@@ -252,8 +237,7 @@
         "D": "Minimalizm",
         "E": "Pop sanat",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937233,
@@ -268,8 +252,7 @@
         "D": "Nolde",
         "E": "Mueller",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937239,
@@ -284,8 +267,7 @@
         "D": "David",
         "E": "Ingres",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937240,
@@ -300,8 +282,7 @@
         "D": "Kübizm",
         "E": "Fütürizm",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937242,
@@ -316,8 +297,7 @@
         "D": "Graffiti",
         "E": "Enstalasyon",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937169,
@@ -332,8 +312,7 @@
         "D": "<p>Dadaizm</p>",
         "E": "<p>Neo Empresyonizm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937170,
@@ -348,8 +327,7 @@
         "D": "<p>Dadaizm</p>",
         "E": "<p>Sembolizm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937188,
@@ -364,8 +342,7 @@
         "D": "<p>Neoklasisizm</p>",
         "E": "<p>Oryantalizm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937197,
@@ -380,8 +357,7 @@
         "D": "<p>Paul Cezanne</p>",
         "E": "<p>John Everett Millais</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937209,
@@ -396,8 +372,7 @@
         "D": "<p>Oryantalizm</p>",
         "E": "<p>Ekspresyonizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937219,
@@ -412,8 +387,7 @@
         "D": "<p>Fluxus</p>",
         "E": "<p>Ekspresyonizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937228,
@@ -428,8 +402,7 @@
         "D": "Soyut Dışavurumculuk",
         "E": "Gerçeküstücülük",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937231,
@@ -444,8 +417,7 @@
         "D": "Umberto Boccioni",
         "E": "Pablo Picasso",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937232,
@@ -460,8 +432,7 @@
         "D": "Ekspresyonizm",
         "E": "Konstrüktivizm",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937234,
@@ -476,8 +447,7 @@
         "D": "Empresyonizm",
         "E": "Romantizm",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937238,
@@ -492,8 +462,7 @@
         "D": "Empresyonizm",
         "E": "Sembolizm",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937246,
@@ -508,8 +477,7 @@
         "D": "Auguste Renoir",
         "E": "Vincent Van Gogh",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937179,
@@ -524,8 +492,7 @@
         "D": "<p>K&ouml;pr&uuml;- Barbizon Okulu</p>",
         "E": "<p>K&ouml;pr&uuml;- Mavi S&uuml;vari</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937186,
@@ -540,8 +507,7 @@
         "D": "<p>Realizm ve Pre-Raphaelite</p>",
         "E": "<p>Empresyonizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937190,
@@ -556,8 +522,7 @@
         "D": "<p>Neoklasisizm</p>",
         "E": "<p>Oryantalizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937198,
@@ -572,8 +537,7 @@
         "D": "<p>Renk üzerine yapılmış bilimsel çalışmaların etkisiyle divizyonizm denilen bir teknik geliştirmişlerdir.</p>",
         "E": "<p>Düş ve düşsel olan, fantastik ve gerçek dışı, büyü, uyku ve ölüm gibi o zamana kadar çalışılmamış alanlara yönelmişlerdir. </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937208,
@@ -588,8 +552,7 @@
         "D": "<p>Post Empresyonizm</p>",
         "E": "<p>Fovizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937210,
@@ -604,8 +567,7 @@
         "D": "<p>Evelyn De Morgan,</p>",
         "E": "<p>Pablo Picasso’dur.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937212,
@@ -620,8 +582,7 @@
         "D": "<p>Kinetik Sanat ve Minimalizm:</p>",
         "E": "<p>Sürrealizm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937216,
@@ -636,8 +597,7 @@
         "D": "<p>Akım yazarlar ve kuramcılar tarafından yaratılan bir sanat üslubudür.</p> ",
         "E": "<p>Bu akımın içinde yaratılan Barbizon okulu dönemin en önemli manzara ressamlarının yetişmesini sağlamıştır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937224,
@@ -652,8 +612,7 @@
         "D": "<p>Resimde yalınlık, arınmışlık ve nesnesizliğin ilk örnekleri Picasso tarafından yapılmıştır. </p>",
         "E": "<p>Picasso doğayı gördüğü gibi resimleyen önemli sanatçılardan biridir. </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937236,
@@ -668,8 +627,7 @@
         "D": "Giani",
         "E": "Canova",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937241,
@@ -684,8 +642,7 @@
         "D": "Yoksul sanat",
         "E": "Pop sanat",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937245,
@@ -700,8 +657,7 @@
         "D": "Neoklasisizm",
         "E": "Neoempersyonizm",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937174,
@@ -716,8 +672,7 @@
         "D": "<p>Konstrüktivizm</p>",
         "E": "<p>Süprematizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937175,
@@ -732,8 +687,7 @@
         "D": "<p>Empresyonizm</p>",
         "E": "<p>Sembolizm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937181,
@@ -748,8 +702,7 @@
         "D": "<p>Claes Oldenburg</p>",
         "E": "<p>Richard Hamilton</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937184,
@@ -764,8 +717,7 @@
         "D": "<p>Performans sanatı</p>",
         "E": "<p>Süreç sanatı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937200,
@@ -780,8 +732,7 @@
         "D": "<p>Frotaj</p>",
         "E": "<p>Ready-made</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937202,
@@ -796,8 +747,7 @@
         "D": "<p>Dadaizm</p>",
         "E": "<p>Sürrealizm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937214,
@@ -812,8 +762,7 @@
         "D": "<p>Derinlik ve üç boyutluluğa ilişkin çalışmalara öncülük eder</p>",
         "E": "<p>Doğa olayları resmedilir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937237,
@@ -828,8 +777,7 @@
         "D": "Superstroke",
         "E": "Shunga",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937173,
@@ -844,8 +792,7 @@
         "D": "<p>Van Gogh</p>",
         "E": "<p>Umberto Boccioni</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937189,
@@ -860,8 +807,7 @@
         "D": "<p>Empresyonizm </p>",
         "E": "<p>Klasisizm </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937205,
@@ -876,8 +822,7 @@
         "D": "<p>Krallar ve kraliyet ailesi</p>",
         "E": "<p>Kolleksiyonerler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937223,
@@ -892,8 +837,7 @@
         "D": "<p>Minimalizm</p>",
         "E": "<p>Kübizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937235,
@@ -908,8 +852,7 @@
         "D": "<p>Matisse</p>",
         "E": "<p>Renoir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937172,
@@ -924,8 +867,7 @@
         "D": "<p>Realizm</p>",
         "E": "<p>Empresyonizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937176,
@@ -940,8 +882,7 @@
         "D": "<p>Gustave Courbet</p>",
         "E": "<p>Paul Cézanne</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937217,
@@ -956,8 +897,7 @@
         "D": "<p>Neoklasisizm</p>",
         "E": "<p>Fovizm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937227,
@@ -972,8 +912,7 @@
         "D": "Empresyonizm",
         "E": "Vücut sanatı",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937243,
@@ -988,8 +927,7 @@
         "D": "Oryantalist",
         "E": "Süprematist",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937178,
@@ -1004,8 +942,7 @@
         "D": "<p>Kübizm</p>",
         "E": "<p>Ekspresyonizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937206,
@@ -1020,8 +957,7 @@
         "D": "<p>Post Empresyonizm:</p>",
         "E": "<p>Fovizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937183,
@@ -1036,8 +972,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937185,
@@ -1052,8 +987,7 @@
         "D": "<p>18. yüzyıl</p>",
         "E": "<p>19. yüzyıl</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937230,
@@ -1068,8 +1002,7 @@
         "D": "Sürrealizm",
         "E": "Dadaizm",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937180,
@@ -1084,8 +1017,7 @@
         "D": "<p>Gerçeküstücülük</p>",
         "E": "<p>Kinetik Sanat</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937213,
@@ -1100,8 +1032,7 @@
         "D": "<p>Pop Sanat ve Foto-gerçekçilik:</p>",
         "E": "<p>Kinetik Sanat ve Minimalizm:</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937226,
@@ -1116,8 +1047,7 @@
         "D": "Ekspresyonizm",
         "E": "Fovizm ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937244,
@@ -1132,8 +1062,7 @@
         "D": "Kübizm",
         "E": "Pürizm",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937177,
@@ -1148,8 +1077,7 @@
         "D": "<p>Ciddi, önemli, anlamlı konuları betimlemek ve doğadan ya da yaşamdan aldıkları konuları tüm gerçekçiliğiyle vermek</p>",
         "E": "<p>Duygu ve iç dünyalarını renk, çizgi, düzlem ve kütle aracılığıyla dışa vurmak</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937215,
@@ -1164,8 +1092,7 @@
         "D": "<p>Arts and Crafts</p> ",
         "E": "<p>Neoklasisizm</p>  ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937218,
@@ -1180,8 +1107,7 @@
         "D": "<p>Süperflat</p>",
         "E": "<p>Graffiti</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937225,
@@ -1196,8 +1122,7 @@
         "D": "Konstrüktivizm ",
         "E": "Gerçeküstücülük ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937166,
@@ -1212,8 +1137,7 @@
         "D": "<p>Romantizm</p>",
         "E": "<p>Dadaizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937194,
@@ -1228,8 +1152,7 @@
         "D": "<p>Klasisizm</p>",
         "E": "<p>Neoklasisizm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937201,
@@ -1244,8 +1167,7 @@
         "D": "<p>László Moholy-Nagy</p>",
         "E": "<p>Lazar Markovich Lissitzky</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937171,
@@ -1260,8 +1182,7 @@
         "D": "<p>Dadaizm</p>",
         "E": "<p>Süprematizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937203,
@@ -1276,8 +1197,7 @@
         "D": "<p>Immagine &amp; Poesia</p>",
         "E": "<p>Graffiti</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 2937191,
@@ -1292,7 +1212,6 @@
         "D": "<p>Sembolizm</p>",
         "E": "<p>Fovizm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     }
 ]

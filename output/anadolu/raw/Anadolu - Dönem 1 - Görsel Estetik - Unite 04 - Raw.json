@@ -12,8 +12,7 @@
         "D": "<p>Donna Williams</p>",
         "E": "<p>Temp­le Grandin</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858562,
@@ -28,8 +27,7 @@
         "D": "<p>Jean Pierre Yvaral</p>",
         "E": "<p>Victor Vasarely </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858575,
@@ -44,8 +42,7 @@
         "D": "<p>Retina</p>",
         "E": "<p>Fotoreseptör </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858748,
@@ -60,8 +57,7 @@
         "D": "<p>Mutlak eşik</p>",
         "E": "<p>Bakma</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858827,
@@ -76,8 +72,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858915,
@@ -92,8 +87,7 @@
         "D": "<p>İletişim</p>",
         "E": "<p>Görsellik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858957,
@@ -108,8 +102,7 @@
         "D": "<p>Çizelgeler</p> ",
         "E": "<p>Grafikler</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859134,
@@ -124,8 +117,7 @@
         "D": "<p> Fotoğraf ve piktogramları</p> ",
         "E": "<p>  Sosyal ve iletişim becerilerini</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859157,
@@ -140,8 +132,7 @@
         "D": "<p>Retina</p> ",
         "E": "<p>Kornea</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859173,
@@ -156,8 +147,7 @@
         "D": "<div class=\"page\" title=\"Page 11\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Helmar Lerski</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Victor Vasarely</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859174,
@@ -172,8 +162,7 @@
         "D": "<p>Ses Tasarımı, Çevre Tasarımı, Makine Tasarım.</p>",
         "E": "<p>Çevre Tasarımı, Endüstriyel Tasarım, Ses Tasarımı.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859176,
@@ -188,8 +177,7 @@
         "D": "<p>Taylor</p>",
         "E": "<p>Sekuler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859179,
@@ -204,8 +192,7 @@
         "D": "<p>Algılama</p>",
         "E": "<p>Düşünme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859182,
@@ -220,8 +207,7 @@
         "D": "<p>Üzerinde uyarıcı şekiller bulunan trafik levhaları</p>",
         "E": "<p>Balık tutmakta olan bir adamın tuttuğu balığı tekrar suya atması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859186,
@@ -236,8 +222,7 @@
         "D": "<p>Retina- Lens-Kornea-Beyin-İris</p>",
         "E": "<p>Lens- Kornea- İris- Beyin- Retina</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859192,
@@ -252,8 +237,7 @@
         "D": "<p>Bir müzik aleti çalma</p>",
         "E": "<p>Sezgisel olma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859200,
@@ -268,8 +252,7 @@
         "D": "<p>Christian De Calvairac </p>",
         "E": "<p>Thomas Dewing</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859208,
@@ -284,8 +267,7 @@
         "D": "<p>Boşluk</p> ",
         "E": "<p>Form</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859209,
@@ -300,8 +282,7 @@
         "D": "<p>Çoklu algı</p>",
         "E": "<p>Nesnel algısallık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859210,
@@ -316,8 +297,7 @@
         "D": "<p>I, III ve IV</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858557,
@@ -332,8 +312,7 @@
         "D": "<p>Susan Sontag</p>",
         "E": "<p>Roland Barthes</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858565,
@@ -348,8 +327,7 @@
         "D": "<p>Francis Galton</p>",
         "E": "<p>Temp­le Grandin</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858582,
@@ -364,8 +342,7 @@
         "D": "<p>Tabela</p>",
         "E": "<p>Resim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858745,
@@ -380,8 +357,7 @@
         "D": "<p>Göz akı , retina, renkli koroit</p>",
         "E": "<p>Renkli koroit, retina, göz akı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858746,
@@ -396,8 +372,7 @@
         "D": "<p>Koroid tabakası</p>",
         "E": "<p>Mercek</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858757,
@@ -412,8 +387,7 @@
         "D": "<p>Duvarda asılı olan bir paltonun canavar olarak algılanması</p>",
         "E": "<p>Misafir bekleyen birinin, telefon çaldığında kapıyı açmaya yönelmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858905,
@@ -428,8 +402,7 @@
         "D": "<p>Bağ dokusu</p>",
         "E": "<p>İris</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858951,
@@ -444,8 +417,7 @@
         "D": "<p>Göz merceği</p>",
         "E": "<p>Korit</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858959,
@@ -460,8 +432,7 @@
         "D": "<p>3</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859117,
@@ -476,8 +447,7 @@
         "D": "<p>Koku alma</p>",
         "E": "<p>Görme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859136,
@@ -492,8 +462,7 @@
         "D": "<p>Göz sıvısı ve lens</p>",
         "E": "<p>Optik sinirler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859158,
@@ -508,8 +477,7 @@
         "D": "<p>Dokunma</p> ",
         "E": "<p>Koku alma</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859177,
@@ -524,8 +492,7 @@
         "D": "<p>Algı</p>",
         "E": "<p>Sezgi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859178,
@@ -540,8 +507,7 @@
         "D": "<p>Algı, göz önündeki nesnelerin, varlıkların tüm duyular yoluyla alınan izlenimlerin yorumlanma eylemidir.</p>",
         "E": "<p>Algı, nesneleri görmek, duymak, tatmak, koklamak veya hissetmek için duyusal bilgilerin edinilmesi ve işlenmesidir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859190,
@@ -556,8 +522,7 @@
         "D": "<p>Simetri ve çifte anlam bir arada veya ayrı ayrı kullanılan unsurlardandır.</p>",
         "E": "<p>Çizimlerinde tekrarlanan şekiller yerine durağanlık vardır</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859198,
@@ -572,8 +537,7 @@
         "D": "<p>İmge </p>",
         "E": "<p>Seçici tepki</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859205,
@@ -588,8 +552,7 @@
         "D": "<p>I ve III</p> ",
         "E": "<p>II ve V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859206,
@@ -604,8 +567,7 @@
         "D": "<p>Duygusal/tinsel bağlantı</p> ",
         "E": "<p>Görsel okuryazarlık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859211,
@@ -620,8 +582,7 @@
         "D": "<p>Farkındalık</p>",
         "E": "<p>Işık</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858556,
@@ -636,8 +597,7 @@
         "D": "<p>Oradan da görme­mizde önemli rolü olan, ışığa ve renge duyarlı retinaya gelerek orada toplanır.</p>",
         "E": "<p>Retinada odaklanan görüntü elektrik sinyallerine dönüştürülüp optik sinirler aracılığıyla beyne ulaştırılarak algı sağlanır ve görme eylemi gerçekleşir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858561,
@@ -652,8 +612,7 @@
         "D": "<p>Zihin</p>",
         "E": "<p>Hayal gücü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858581,
@@ -668,8 +627,7 @@
         "D": "<p>Süreklilik</p>",
         "E": "<p>Sonsuzluk</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858584,
@@ -684,8 +642,7 @@
         "D": "<p>Oran</p>",
         "E": "<p>Espas</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858907,
@@ -700,8 +657,7 @@
         "D": "<p>Göz merceği</p>",
         "E": "<p>Kör nokta</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858908,
@@ -716,8 +672,7 @@
         "D": "<p>Görme</p>",
         "E": "<p>İmgeleme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858953,
@@ -732,8 +687,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>III ve IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858954,
@@ -748,8 +702,7 @@
         "D": "<p>Mutlak eşik</p>",
         "E": "<p>İm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859115,
@@ -764,8 +717,7 @@
         "D": "<p>R&ouml;ntgen dalgaları</p>",
         "E": "<p>Televizyon dalgaları</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859116,
@@ -780,8 +732,7 @@
         "D": "<p>İris</p>",
         "E": "<p>Optik sınır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859127,
@@ -796,8 +747,7 @@
         "D": "<p>Arnheim</p> ",
         "E": "<p>Raymond Keene</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859132,
@@ -812,8 +762,7 @@
         "D": "<p>Artistik duyular, sanat, yaratıcılık ve hayalgücü</p> ",
         "E": "<p>Hikaye roman yazma, dil becerileri</p> <p><strong> </strong></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859137,
@@ -828,8 +777,7 @@
         "D": "<p>Ağsı tabaka</p>",
         "E": "<p>Renkli tabaka</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859152,
@@ -844,8 +792,7 @@
         "D": "<p>Görsel sembol</p> ",
         "E": "<p>Medya okuryazarlığı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859171,
@@ -860,8 +807,7 @@
         "D": "<div class=\"page\" title=\"Page 12\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Lyer</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Vasarely</p> </div> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859184,
@@ -876,8 +822,7 @@
         "D": "<p>Dil becerileri ve öyküleştirme</p>",
         "E": "<p>Görsel düşünme süreci</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859202,
@@ -892,8 +837,7 @@
         "D": "<p>Duyum</p>",
         "E": "<p>İmge</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858563,
@@ -908,8 +852,7 @@
         "D": "<p>Fotografçılık</p>",
         "E": "<p>Şiir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858576,
@@ -924,8 +867,7 @@
         "D": "<p>Dokunma</p>",
         "E": "<p>Özümseme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858578,
@@ -940,8 +882,7 @@
         "D": "<p>Subjektiflik</p>",
         "E": "<p>Rasyonellik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858754,
@@ -956,8 +897,7 @@
         "D": "<p>İmaj</p>",
         "E": "<p>İmge</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858826,
@@ -972,8 +912,7 @@
         "D": "<p>İm</p>",
         "E": "<p>Şekil-zemin ilişkisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858956,
@@ -988,8 +927,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>II ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859120,
@@ -1004,8 +942,7 @@
         "D": "<p>Görsel algı</p>",
         "E": "<p>Gestalt</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859130,
@@ -1020,8 +957,7 @@
         "D": "<p>Tamamen biyolojik bir problemdir.</p>",
         "E": "<p>Ağ tabakada ışık duyargalarının bulunmadığı noktadır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859135,
@@ -1036,8 +972,7 @@
         "D": "<p>göz akı - retina - koroit</p>",
         "E": "<p>retina - koroit - göz akı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859148,
@@ -1052,8 +987,7 @@
         "D": "<p>Algı yanılsaması</p> ",
         "E": "<p>Görsel algı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859155,
@@ -1068,8 +1002,7 @@
         "D": "<p>Retina</p> ",
         "E": "<p>Kornea</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859165,
@@ -1084,8 +1017,7 @@
         "D": "<p>Iris, göz sıvısı, fotoreseptör hücreleri</p>",
         "E": "<p>Jel, göz sıvsı, optik sinir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859185,
@@ -1100,8 +1032,7 @@
         "D": "<p>İris</p>",
         "E": "<p>Göz merceği</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859196,
@@ -1116,8 +1047,7 @@
         "D": "<p>Lens</p> ",
         "E": "<p>Retina</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859201,
@@ -1132,8 +1062,7 @@
         "D": "<p>Yaratıcı süreçte imgelem biçimle birlikte çalışır.</p>",
         "E": "<p>İmgelem, algılama eylemiyle bütünleşik çalışır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859204,
@@ -1148,8 +1077,7 @@
         "D": "<p>Perspektif-simetri</p> ",
         "E": "<p>Süreklilik-yakınlık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858558,
@@ -1164,8 +1092,7 @@
         "D": "<p>Temp­le Grandin</p>",
         "E": "<p>Leo Kanner</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858579,
@@ -1180,8 +1107,7 @@
         "D": "<p>Kimlik</p>",
         "E": "<p>Sembol</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858819,
@@ -1196,8 +1122,7 @@
         "D": "<p>Retina</p>",
         "E": "<p>İris</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858868,
@@ -1212,8 +1137,7 @@
         "D": "<p>Retina</p>",
         "E": "<p>Yan lob</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858872,
@@ -1228,8 +1152,7 @@
         "D": "<p>Yalnız IV</p>",
         "E": "<p>Hiçbiri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859149,
@@ -1244,8 +1167,7 @@
         "D": "<p>Bellekteki imgeler içten veya dıştan gelen uyarılarla harekete geçer ve bellekteki iz getirilir.</p> ",
         "E": "<p>Sanat ürünleri imgelere dayanır; sanat olanla olmayan ayrımı imgelem kuramına bağlıdır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859154,
@@ -1260,8 +1182,7 @@
         "D": "<p>İmgeleme</p> ",
         "E": "<p>Gerçeklik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859156,
@@ -1276,8 +1197,7 @@
         "D": "<p>Dokunma</p> ",
         "E": "<p>Koku alma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859162,
@@ -1292,8 +1212,7 @@
         "D": "<p>Rasyonellik</p> ",
         "E": "<p>Subjektiflik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859183,
@@ -1308,8 +1227,7 @@
         "D": "<p>Uyarım</p>",
         "E": "<p>Duyum</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859187,
@@ -1324,8 +1242,7 @@
         "D": "<p>Sinirlerin göz küresinden çıkış noktasında görsel alıcı hücreler yoktur.</p>",
         "E": "<p>Genellikle kalıtımsal ve biyolojik bir problemdir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859207,
@@ -1340,8 +1257,7 @@
         "D": "<p>Değerli olan-değersiz olan</p> ",
         "E": "<p>Form-biçim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858759,
@@ -1356,8 +1272,7 @@
         "D": "<p>Sezgi</p>",
         "E": "<p>Işık</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859118,
@@ -1372,8 +1287,7 @@
         "D": "<p>Silüet</p>",
         "E": "<p>Retina</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859124,
@@ -1388,8 +1302,7 @@
         "D": "<p>Şekil</p>",
         "E": "<p>Nokta</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859126,
@@ -1404,8 +1317,7 @@
         "D": "<p>Algı</p> ",
         "E": "<p>Algıda değişmezlik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859131,
@@ -1420,8 +1332,7 @@
         "D": "<p>Çevremizdeki uyarıcı etkenlerin artması dikkatimizi daha çok çeker.</p> ",
         "E": "<p>Tüm uyarıcılara aynı derecede sabit tepki gösterme olayıdır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859140,
@@ -1436,8 +1347,7 @@
         "D": "<p>Görsel estetik</p>",
         "E": "<p>Algıda değişmezlik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859159,
@@ -1452,8 +1362,7 @@
         "D": "<p>Algıda seçicilik</p> ",
         "E": "<p>Algıda değişmezlik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859170,
@@ -1468,8 +1377,7 @@
         "D": "<div class=\"page\" title=\"Page 10\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Cüceloğlu</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 10\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Türk Dil Kurumu</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859188,
@@ -1484,8 +1392,7 @@
         "D": "<p>III-IV ve V</p>",
         "E": "<p>IV-V ve VI</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858758,
@@ -1500,8 +1407,7 @@
         "D": "<p>Müzik</p>",
         "E": "<p>Resim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858825,
@@ -1516,8 +1422,7 @@
         "D": "<p>İmge</p>",
         "E": "<p>İm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858904,
@@ -1532,8 +1437,7 @@
         "D": "<p>Edmund Husserl</p>",
         "E": "<p>Rene Descartes</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859128,
@@ -1548,8 +1452,7 @@
         "D": "<p>İmge</p> ",
         "E": "<p>Levha</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859145,
@@ -1564,8 +1467,7 @@
         "D": "<p>Retina</p> ",
         "E": "<p>Fotoreseptör hücreleri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859153,
@@ -1580,8 +1482,7 @@
         "D": "<p>Değer</p> ",
         "E": "<p>Hümanizma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859191,
@@ -1596,8 +1497,7 @@
         "D": "<p>İnsan uyarıcılar arasından seçim yaparak algısını oluşturur.</p>",
         "E": "<p>Gelen tüm uyarıcılara eşit mesafede tepki verilir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859203,
@@ -1612,8 +1512,7 @@
         "D": "<p>Bütünleştirme ilkelerinden uzaklaştıkça algı tamamlanmış olur.</p> ",
         "E": "<p>Duyum ile algı aynı temelde yer alır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858577,
@@ -1628,8 +1527,7 @@
         "D": "<p>Algılama</p>",
         "E": "<p>Gestalt</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858756,
@@ -1644,8 +1542,7 @@
         "D": "<p>Zihinde tasarlanan ve gerçekleştirilmesi özlenen şey, hayal, hülya’dır.</p>",
         "E": "<p>Duyu organlarımıza gelen dışsal uyarıcıların anlamlı hâle getirilmesidir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858822,
@@ -1660,8 +1557,7 @@
         "D": "<p>Algı</p>",
         "E": "<p>Gestalt</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858952,
@@ -1676,8 +1572,7 @@
         "D": "<p>Göz merceği</p>",
         "E": "<p>Korit</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859150,
@@ -1692,8 +1587,7 @@
         "D": "<p>II – IV – VI – VIII – X</p> ",
         "E": "<p>I – III – IV – VI – VIII</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859195,
@@ -1708,8 +1602,7 @@
         "D": "<p>I, III ve IV</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858564,
@@ -1724,8 +1617,7 @@
         "D": "<p>Göstergebilim, insanların sözcüklerden, sesler­den ve resimlerden nasıl anlam çıkardığına dair bir tarif ortaya koyar.</p>",
         "E": "<p>Göstergebilim üç ‘sınıflan­dırıcı’ olduğunu önerir. Bunlar; gösterge, sistem ve bağlamdır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858583,
@@ -1740,8 +1632,7 @@
         "D": "<p>Oran</p>",
         "E": "<p>Espas</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858828,
@@ -1756,8 +1647,7 @@
         "D": "<p>Olgular/nesneler arasında bağlantı kurma</p>",
         "E": "<p>İşbirliği yapmak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858869,
@@ -1772,8 +1662,7 @@
         "D": "<p>İmaj</p>",
         "E": "<p>Reklam</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859138,
@@ -1788,8 +1677,7 @@
         "D": "<p>Tat alma: Dokuz litrelik bir suda bir çay kaşığı şeker</p>",
         "E": "<p>Koku alma: Sekiz odalı büyük bir evde bir damla esans</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859139,
@@ -1804,8 +1692,7 @@
         "D": "<p>Algılama</p>",
         "E": "<p>Gözlem</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859164,
@@ -1820,8 +1707,7 @@
         "D": "<p>Marka</p> ",
         "E": "<p>Amblem</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859119,
@@ -1836,8 +1722,7 @@
         "D": "<p>İmge</p>",
         "E": "<p>İm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859146,
@@ -1852,8 +1737,7 @@
         "D": "<p>imge - bilinç</p> ",
         "E": "<p>imgeleme - dikkat</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859166,
@@ -1868,8 +1752,7 @@
         "D": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Meager</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Lepperd</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859189,
@@ -1884,8 +1767,7 @@
         "D": "<p>Anlam</p>",
         "E": "<p>Görme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859193,
@@ -1900,8 +1782,7 @@
         "D": "<p>Amblem-Logo- Marka</p>",
         "E": "<p>Endüstriyel tasarım-Çevre tasarımı-Grafik tasarım</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859212,
@@ -1916,8 +1797,7 @@
         "D": "<p>Marka</p>",
         "E": "<p>Semiyoloji</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858864,
@@ -1932,8 +1812,7 @@
         "D": "<p>Gestalt</p>",
         "E": "<p>İmge</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858910,
@@ -1948,8 +1827,7 @@
         "D": "<p>Yansıtmacılık</p>",
         "E": "<p>Varoluş&ccedil;uluk</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858913,
@@ -1964,8 +1842,7 @@
         "D": "<p>Görsel imge</p>",
         "E": "<p>Görme sorunu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858958,
@@ -1980,8 +1857,7 @@
         "D": "<p>II, III ve IV</p> ",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859122,
@@ -1996,8 +1872,7 @@
         "D": "<p>Sol beyin</p>",
         "E": "<p>Sağ beyin</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859161,
@@ -2012,8 +1887,7 @@
         "D": "<p>16-20</p> ",
         "E": "<p>20-24</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859180,
@@ -2028,8 +1902,7 @@
         "D": "<p>Görsel uyarıcıları etkin hale getirmek</p>",
         "E": "<p>Estetik haz alabilmek</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858824,
@@ -2044,8 +1917,7 @@
         "D": "<p>Görsel düşünme</p>",
         "E": "<p>Algıda değişmezlik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859194,
@@ -2060,8 +1932,7 @@
         "D": "<p>Grafikler</p>",
         "E": "<p>Videolar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858753,
@@ -2076,8 +1947,7 @@
         "D": "<p>Gestalt kuramı olay, olgu, nesnelere bütüncül yaklaşımla bakmayı öğreten algısal organizasyon kuramıdır.</p>",
         "E": "<p>Bütüne değil parçanın kendine önem veren kuramdır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858866,
@@ -2092,8 +1962,7 @@
         "D": "<p>Algı yanılsaması</p>",
         "E": "<p>İmge</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859142,
@@ -2108,8 +1977,7 @@
         "D": "<p>Matematiksel - mantıksal düşünce</p>",
         "E": "<p>Resim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859175,
@@ -2124,8 +1992,7 @@
         "D": "<p>Kornea</p>",
         "E": "<p>Jel</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858751,
@@ -2140,8 +2007,7 @@
         "D": "<p>Nesnelere ve olaylara ilişkin bilinçli farkındalığı içerir.</p>",
         "E": "<p>Algı bilinçli bir yaklaşım içermeyip duygusal yaklaşımdır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858867,
@@ -2156,8 +2022,7 @@
         "D": "<p>İç algılar</p>",
         "E": "<p>Algılama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859121,
@@ -2172,8 +2037,7 @@
         "D": "<p>Algı yanılmaları</p>",
         "E": "<p>Algıda seçicilik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859141,
@@ -2188,8 +2052,7 @@
         "D": "<p>Algıda değişmezlik</p>",
         "E": "<p>Algıda seçicilik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858580,
@@ -2204,8 +2067,7 @@
         "D": "<p>Retina</p>",
         "E": "<p>Jel</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858909,
@@ -2220,8 +2082,7 @@
         "D": "<p>Duyumsama</p>",
         "E": "<p>Ruh</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859169,
@@ -2236,8 +2097,7 @@
         "D": "<div class=\"page\" title=\"Page 7\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Şekil-zemin ilişkisi, yakınlık, benzerlik, süreklilik, tamamlama, devamlılık, basitlik yasaları, algısal örgütleme yasalarından oluşur.</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 7\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Olay, olgu, nesnelere bütüncül yaklaşımla bakmayı öğreten algısal organizasyon kuramıdır.</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859181,
@@ -2252,8 +2112,7 @@
         "D": "<p>Sayısal düşünme</p>",
         "E": "<p>Global düşünme</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858870,
@@ -2268,8 +2127,7 @@
         "D": "<p>Jel</p>",
         "E": "<p>İris</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859125,
@@ -2284,8 +2142,7 @@
         "D": "<p>Koroid tabakası</p> ",
         "E": "<p>İris</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858914,
@@ -2300,8 +2157,7 @@
         "D": "<p>5 yaşında</p>",
         "E": "<p>6 yaşında</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859129,
@@ -2316,8 +2172,7 @@
         "D": "<p>Başarı, Algılama ve Görsel Düşünme</p> ",
         "E": "<p>Beş Duyunun Gelişimi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858865,
@@ -2332,8 +2187,7 @@
         "D": "<p>II ve IV</p>",
         "E": "<p>I,II,III ve IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859199,
@@ -2348,8 +2202,7 @@
         "D": "<p>Gestalt kuramı olay, olgu, nesnelere bütüncül yaklaşımla bakmayı öğreten algısal organizasyon kuramıdır.</p>",
         "E": "<p>Gestalt kuramına göre, problemin bir bütün olarak derinliğine kavranıp buna bütün hâlinde çözüm aranması, kişiyi hızlı ve özgün buluşlara götürür.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858820,
@@ -2364,8 +2217,7 @@
         "D": "<p>Işık şiddeti</p>",
         "E": "<p>Algı noktası</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858829,
@@ -2380,8 +2232,7 @@
         "D": "<p>Görsel Okuryazarlık</p>",
         "E": "<p>Görsel Algı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859123,
@@ -2396,8 +2247,7 @@
         "D": "<p>Kitle</p>",
         "E": "<p>Organizma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858559,
@@ -2412,8 +2262,7 @@
         "D": "<p>Şekil-zemin ilişkisi, yakınlık, benzerlik, süreklilik, tamamlama, devamlılık, basitlik yasaları, algısal örgütleme yasalarından oluşur.</p>",
         "E": "<p>Gestalt kura­mı olay, olgu, nesnelere bütüncül yaklaşımla bak­mayı öğreten algısal organizasyon kuramıdır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858830,
@@ -2428,8 +2277,7 @@
         "D": "<p>Görsel Kültür</p>",
         "E": "<p>Görsel Etkileşim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859160,
@@ -2444,8 +2292,7 @@
         "D": "<p>Algı yanılsaması</p> ",
         "E": "<p>Algıda değişmezlik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859172,
@@ -2460,8 +2307,7 @@
         "D": "<p>Rasyonellik</p>",
         "E": "<p>Objektiflik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858955,
@@ -2476,8 +2322,7 @@
         "D": "<p>Zihin</p>",
         "E": "<p>Algı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859151,
@@ -2492,8 +2337,7 @@
         "D": "<p>İmge</p> ",
         "E": "<p>Piktogram</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859167,
@@ -2508,8 +2352,7 @@
         "D": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>aralık eşiği</p> </div> </div> </div> </div>",
         "E": "<p>yoğunluk eşiği</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859197,
@@ -2524,8 +2367,7 @@
         "D": "<p>I, III ve IV</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859163,
@@ -2540,8 +2382,7 @@
         "D": "<p>Rasyonellik</p> ",
         "E": "<p>Fotoğrafçılık</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859133,
@@ -2556,8 +2397,7 @@
         "D": "<p>Sadece teknoloji kullanımında</p> ",
         "E": "<p>Havaalanı, sinema, trafik gibi kamusal alanlarda</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859144,
@@ -2572,8 +2412,7 @@
         "D": "<p>Mizah</p>",
         "E": "<p>Değer</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859147,
@@ -2588,8 +2427,7 @@
         "D": "<p>Yanılsama</p> ",
         "E": "<p>İmgesellik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858960,
@@ -2604,8 +2442,7 @@
         "D": "<p>Grafik</p>",
         "E": "<p>Oran</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3859143,
@@ -2620,7 +2457,51 @@
         "D": "<p>Üzerinde \"sigara içilmez\" yazan bir uyarı </p>",
         "E": "<p>Bir fiyat etiketi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3858871,
+        "UniteNo": 4,
+        "PageNumber": 117,
+        "AnswerExplanation": "<p>Sürekli değişen duyusal girdilere rağmen nesnelerin biçimlerini, büyüklüklerini, yerlerini ve renklerini değişmeden algılamamıza algıda değişmezlik denir.</p> <p>Doğru cevap E seçeneğidir.</p>",
+        "Title": "",
+        "Text": "<p>Sürekli değişen duyusal girdilere rağmen nesnelerin biçimlerini, büyüklüklerini, yerlerini ve renklerini değişmeden algılamamıza ne denir ?</p>",
+        "A": "<p>Algıda seçicilik</p>",
+        "B": "<p>İmge</p>",
+        "C": "<p>Gestalt</p>",
+        "D": "<p>İç algılar</p>",
+        "E": "<p>Algıda değişmezlik</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3859168,
+        "UniteNo": 4,
+        "PageNumber": 113,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 6\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>“Resimlerle Düşünmek” adlı kitabın yazarı Temple Grandin (2010), ünlü Hollandalı ressam Van Gogh’un akıl hastanesine kapatıldıktan sonra sanatında daha başarılı olduğunu ifade eder.</p> </div> </div> </div> </div>",
+        "Title": "",
+        "Text": "<p>Ünlü Hollandalı ressam Van Gogh’un akıl hastanesine kapatıldıktan sonra sanatında daha başarılı olduğunu ifade eden “Resimlerle Düşünmek” adlı kitabın yazarı aşağıdakilerden hangisidir? </p>",
+        "A": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Taylor</p> </div> </div> </div> </div>",
+        "B": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Yıldırım</p> <div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\">  </div> </div> </div> </div> </div> </div> </div> </div>",
+        "C": "<div class=\"page\" title=\"Page 7\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Escher</p> </div> </div> </div> </div>",
+        "D": "<div class=\"page\" title=\"Page 6\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Erinç</p> </div> </div> </div> </div>",
+        "E": "<p>Grandin</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3858912,
+        "UniteNo": 4,
+        "PageNumber": 117,
+        "AnswerExplanation": "<p>İm (işaret), algılanmış bir olayı dile getirir. Örneğin uzakta bir yerde duman görürsek orada bir ateş yanmakta olduğunu anlarız. Bu gibi doğal bağlantıları biz doğal bir işaret (im) olarak algılarız.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi algılanmış bir olayı ifade etmektedir?</p>",
+        "A": "<p>İmge</p>",
+        "B": "<p>Düşünce</p>",
+        "C": "<p>Hayal</p>",
+        "D": "<p>İm</p>",
+        "E": "<p>Görü</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
     }
 ]

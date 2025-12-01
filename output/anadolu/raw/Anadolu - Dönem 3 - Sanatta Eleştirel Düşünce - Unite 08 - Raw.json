@@ -12,8 +12,7 @@
         "D": "<p>Sosyal hiciv</p>",
         "E": "<p>Mizahi eğlence</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354053,
@@ -28,8 +27,7 @@
         "D": "<p>Simge</p>",
         "E": "<p>Minyatür</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354054,
@@ -44,8 +42,7 @@
         "D": "<p>İspanya</p>",
         "E": "<p>İngiltere</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354057,
@@ -60,8 +57,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354058,
@@ -76,8 +72,7 @@
         "D": "<p>Grotesk</p>",
         "E": "<p>Minyatür</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354060,
@@ -92,8 +87,7 @@
         "D": "<p>Iraksak Düşünme</p>",
         "E": "<p>Yakınsak Düşünme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354335,
@@ -108,8 +102,7 @@
         "D": "<p>Doğa</p>",
         "E": "<p>İnsan bedeni</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354360,
@@ -124,8 +117,7 @@
         "D": "<p> Propagandadır.</p> ",
         "E": "<p>Otoritedir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354361,
@@ -140,8 +132,7 @@
         "D": "<p>Jules Barbey d’Aurevilly</p> ",
         "E": "<p>Erhard Schön</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354362,
@@ -156,8 +147,7 @@
         "D": "<p>Belirli kusurlarını modele dökmek için insanları gözlemlemektir.</p> ",
         "E": "<p>Hristiyan ibadetine adanmış dinî binaların cephesi, her türlü yüz ifadelerini ve alaylı sahneleri sunar.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354363,
@@ -172,8 +162,7 @@
         "D": "<p>Ticari bir faaliyet gösteren herhangi bir ürün için yapılır.</p>",
         "E": "<p> Etkinliğe ait bilgiler, katılımcılar, yer, tarih, düzenleyiciler gibi bilgiler bulunur.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354364,
@@ -188,8 +177,7 @@
         "D": "<p>16.yy birinci yarısında</p> ",
         "E": "<p>13.yy ikinci yarısında</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354365,
@@ -204,8 +192,7 @@
         "D": "<p>Jules Chéret</p> ",
         "E": "<p>Richard Felton Outcault</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354366,
@@ -220,8 +207,7 @@
         "D": "<p>Eczacılık ürünleri reklam afişleri</p> ",
         "E": "<p>Eleştirel fotomontaj afişler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354368,
@@ -236,8 +222,7 @@
         "D": "<p> Sürecin verimliliğini artırmak için genel kültür ile desteklenmiş zihinlerin sonucu doğrudan etkileyeceği de unutulmamalıdır.</p>",
         "E": "<p> Akla gelen her düşünceyi yakalamaya çalışmak ve eğlenceye dönüştürmek süreci verimli hâle getirir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354388,
@@ -252,8 +237,7 @@
         "D": "<p>Hissetmek yakınsak, düşünmek ise ıraksak düşünce ile ilintilidir.</p>",
         "E": "<p>Hissetmek yanlış kararların, düşünmek ise doğru kararların belirleyicisidir. </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354494,
@@ -268,8 +252,7 @@
         "D": "<p>Arapça</p>",
         "E": "<p>Almanca</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354495,
@@ -284,8 +267,7 @@
         "D": "<p>Mizahi eğlence</p>",
         "E": "<p>Sosyal sorumluluk </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354499,
@@ -300,8 +282,7 @@
         "D": "<p>1850-60</p>",
         "E": "<p>1860-70</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354503,
@@ -316,8 +297,7 @@
         "D": "<p>1918</p>",
         "E": "<p>1919</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354052,
@@ -332,8 +312,7 @@
         "D": "<p>1805</p>",
         "E": "<p>1812</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354055,
@@ -348,8 +327,7 @@
         "D": "<p>17. yüzyıldan itibaren</p>",
         "E": "<p>16. yüzyıldan itibaren</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354056,
@@ -364,8 +342,7 @@
         "D": "<p>James Gillray</p>",
         "E": "<p>Thomas Rowlandson</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354059,
@@ -380,8 +357,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354336,
@@ -396,8 +372,7 @@
         "D": "<p>Halkı belirli bir siyasi görüş üzerine kışkırtmaktan özellikle kaçınır.</p>",
         "E": "<p>Karikatürlerin sade görünümü, ele alınan siyasi konuların karmaşıklığını gözler önüne serer.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354338,
@@ -412,8 +387,7 @@
         "D": "<p>Fransa</p>",
         "E": "<p>İtalya</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354370,
@@ -428,8 +402,7 @@
         "D": "<p>Bir ürün ya da hizmet üretip hedef kitlesine pazarlamak.</p>",
         "E": "<p>Geniş halk kitlelerini eğitmek.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354371,
@@ -444,8 +417,7 @@
         "D": "<p>Afiş sanatının Art Nouveau’nun karmaşıklığından uzaklaştırmıştır.</p>",
         "E": "<p>Kompozisyon merkezi bir nesneye odaklanır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354372,
@@ -460,8 +432,7 @@
         "D": "<p>Tüm seçenekleri kabul etmek</p>",
         "E": "<p>Odaklanmayı sağlamak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354496,
@@ -476,8 +447,7 @@
         "D": "<p>Çelişki</p>",
         "E": "<p>Şakacılık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354502,
@@ -492,8 +462,7 @@
         "D": "<p>Mavi Çocuk</p>",
         "E": "<p>Siyak Çocuk</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354334,
@@ -508,8 +477,7 @@
         "D": "<p>Var olan düzenin gösterdiklerinin gizlemesi</p>",
         "E": "<p>Sosyal kurumlarla alay etmesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354359,
@@ -524,8 +492,7 @@
         "D": "<p> Bir gerçeğin, çarpıtılmış ve öfkeli bir aşırılığıdır.</p>",
         "E": "<p>Alıcının düşüncesini oluşturan engellerinin, tabularının, bilinçli/bilinçsiz körlüklerinin görüntüler aracılığı ile yeniden sorgulanmasıdır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354369,
@@ -540,8 +507,7 @@
         "D": "<p>Basit temas baskısı ile negatif görüntüler üretilen yöntemdir.</p>",
         "E": "<p>Modern fotoğrafçılığın sona ermesini sağlamıştır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354501,
@@ -556,8 +522,7 @@
         "D": "<p>Richard Doyle</p>",
         "E": "<p>Charles Keene</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354337,
@@ -572,8 +537,7 @@
         "D": "<p>Grafik</p>",
         "E": "<p>Gravür</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354498,
@@ -588,8 +552,7 @@
         "D": "<p>Gillray</p>",
         "E": "<p>Cruikshank</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354500,
@@ -604,8 +567,7 @@
         "D": "<p>Alman asıllı Amerikan </p>",
         "E": "<p>Alman asıllı İngiliz </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3354367,
@@ -620,7 +582,6 @@
         "D": "<p>Belirtilen sorunla başa çıkmak için çok sayıda, çeşitli ve sıra dışı fikirler üretebilecek</p>",
         "E": "<p>Olası çözümleri inceleyip ardından uygulamalara geçebilecek yollar bulabilecek</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     }
 ]

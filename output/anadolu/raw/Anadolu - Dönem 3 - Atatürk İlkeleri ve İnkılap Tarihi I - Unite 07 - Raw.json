@@ -12,8 +12,7 @@
         "D": "<p>Saltanat sisteminin, millî egemenlik kavramı ile bağdaşmaması</p> ",
         "E": "<p>16 Mart 1920 tarihinde İstanbul’un işgal edilmesi ile Osmanlı İmparatorluğu’nun zaten son bulması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887455,
@@ -28,8 +27,7 @@
         "D": "<p>25 Nisan 1925</p>",
         "E": "<p>23 Mayıs 1926</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887457,
@@ -44,8 +42,7 @@
         "D": "<p>Öngörülen çağdaş reformların eski bir müessese ile bir arada yürümesinin mümkün görülmemesi</p>",
         "E": "<p>TBMM’nin halkın ve bazı siyasetçilerin hâlen bağlılık gösterdiği halifelik makamına bağlı olması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887462,
@@ -60,8 +57,7 @@
         "D": "<p>29 Ekim 1923</p>",
         "E": "<p>23 Nisan 1920</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887464,
@@ -76,8 +72,7 @@
         "D": "<p>İsmet İnönü</p>",
         "E": "<p>Refet Bele</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887466,
@@ -92,8 +87,7 @@
         "D": "<p>Tek dereceli seçim sistemi uygulanmalıdır.</p> ",
         "E": "<p>Dinî inançlara ve düşüncelere saygılı olunacaktır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887467,
@@ -108,8 +102,7 @@
         "D": "<p>Adnan Adıvar</p>",
         "E": "<p>Rauf Orbay</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887468,
@@ -124,8 +117,7 @@
         "D": "<p>Aydınlık</p>",
         "E": "<p>İstikbal</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887469,
@@ -140,8 +132,7 @@
         "D": "<p>23 Kasım 1923</p>",
         "E": "<p>2 Aralık 1922</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887470,
@@ -156,8 +147,7 @@
         "D": "<p>Partinin genel başkanı İsmet İnönü'dür.</p> ",
         "E": "<p>17 Kasım 1924’te kurulmuştur.</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887474,
@@ -172,8 +162,7 @@
         "D": "<p>Dört</p>",
         "E": "<p>Beş</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887479,
@@ -188,8 +177,7 @@
         "D": "<p>Kemal Tahir</p>",
         "E": "<p>Yakup Kadri Karaosmanoğlu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887481,
@@ -204,8 +192,7 @@
         "D": "<p>Kazım Karabekir Paşa</p>",
         "E": "<p>Rauf Orbay</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887482,
@@ -220,8 +207,7 @@
         "D": "<p>Kanuni Sultan Süleyman </p>",
         "E": "<p>Yavuz Sultan Selim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887483,
@@ -236,8 +222,7 @@
         "D": "<p>Rauf Orbay</p>",
         "E": "<p>İzzettin Çalışlar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887485,
@@ -252,8 +237,7 @@
         "D": "<p>İsmet İnönü<span class=\"Apple-converted-space\"> </span></p>",
         "E": "<p>Ali Fethi Okyar<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887487,
@@ -268,8 +252,7 @@
         "D": "<p>1925</p>",
         "E": "<p>1924</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887489,
@@ -284,8 +267,7 @@
         "D": "<p>1961</p>",
         "E": "<p>1924</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887491,
@@ -300,8 +282,7 @@
         "D": "<p>Hamidiye Alayları</p>",
         "E": "<p>Nizam-ı Cedid</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887493,
@@ -316,8 +297,7 @@
         "D": "<p>Bicar isyanı</p>",
         "E": "<p>Zeylan isyanı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887458,
@@ -332,8 +312,7 @@
         "D": "<p>Velid Ebuzziya</p> ",
         "E": "<p>Eşref Edip</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887459,
@@ -348,8 +327,7 @@
         "D": "<p>1930</p>",
         "E": "<p>1931</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887463,
@@ -364,8 +342,7 @@
         "D": "<p>Recep (Peker) Bey</p>",
         "E": "<p>Halit Karsıalan</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887471,
@@ -380,8 +357,7 @@
         "D": "<p>6 Mayıs 1950</p>",
         "E": "<p>7 Mayıs 1951</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887472,
@@ -396,8 +372,7 @@
         "D": "<p>1 Mart 1925-Siirt</p>",
         "E": "<p>9 Mart 1926-Hakkari</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887475,
@@ -412,8 +387,7 @@
         "D": "<p>Rauf Orbay</p>",
         "E": "<p>Fethi Okyar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887484,
@@ -428,8 +402,7 @@
         "D": "<p>Firariler Hakkında Kanun<span class=\"Apple-converted-space\"> </span></p>",
         "E": "<p>İstiklal Mehakimi Kanunu<span class=\"Apple-converted-space\"> </span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887486,
@@ -444,8 +417,7 @@
         "D": "<p>Fethi Okyar</p>",
         "E": "<p>Tevfik Rüştü Aras</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887488,
@@ -460,8 +432,7 @@
         "D": "<p>Mebusların olumlu oy vermesi</p>",
         "E": "<p>Ulaşımının kolay olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887490,
@@ -476,8 +447,7 @@
         "D": "<p>II. Murad</p>",
         "E": "<p>Yıldırım Bayezid</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887494,
@@ -492,8 +462,7 @@
         "D": "<p>1928</p>",
         "E": "<p>1930</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887495,
@@ -508,8 +477,7 @@
         "D": "<p>Celal Bayar</p>",
         "E": "<p>Recep Peker</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887461,
@@ -524,8 +492,7 @@
         "D": "<p>İzmir Kongresi</p>",
         "E": "<p>Ankara Kongresi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887476,
@@ -540,8 +507,7 @@
         "D": "<p>Şükrü Kaya</p>",
         "E": "<p>Recep Peker</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887477,
@@ -556,8 +522,7 @@
         "D": "<p>Hasan Rıza Soyak</p>",
         "E": "<p>Kazım Özalp</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887478,
@@ -572,8 +537,7 @@
         "D": "<p>11 Kasım 1922</p>",
         "E": "<p>11 Aralık 1922</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887492,
@@ -588,8 +552,7 @@
         "D": "<p>1928</p>",
         "E": "<p>1925</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887460,
@@ -604,8 +567,7 @@
         "D": "<p>Fevzi Çakmak</p>",
         "E": "<p>Fethi Okyar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887465,
@@ -620,8 +582,7 @@
         "D": "<p>İskilipli Atıf Hoca</p>",
         "E": "<p>Ziya Gökalp</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887473,
@@ -636,8 +597,7 @@
         "D": "<p>I, III ve IV</p>",
         "E": "<p>II, III ve IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887480,
@@ -652,8 +612,7 @@
         "D": "<p>13 Ekim 1923</p>",
         "E": "<p>30 Ekim 1923</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887456,
@@ -668,7 +627,6 @@
         "D": "<p>4 Mart 1924 </p>",
         "E": "<p>5 Mart 1924 </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     }
 ]

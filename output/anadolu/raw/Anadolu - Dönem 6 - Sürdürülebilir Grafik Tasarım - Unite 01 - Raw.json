@@ -12,8 +12,7 @@
         "D": "<p>I ve II </p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764004,
@@ -28,8 +27,7 @@
         "D": "<p>Kentler </p>",
         "E": "<p>Gıda fabrikaları </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764005,
@@ -44,8 +42,7 @@
         "D": "<p>Süreklilik </p>",
         "E": "<p>Metamorfoz</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764006,
@@ -60,8 +57,7 @@
         "D": "<p>Besin zincirleri basittir ve eksiktir.</p>",
         "E": "<p>Ekolojik ardıllık ancak insan etkisi kalktıktan sonra ve yavaş gerçekleşir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764007,
@@ -76,8 +72,7 @@
         "D": "<p>I, IV ve V</p>",
         "E": "<p>II, III ve IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764008,
@@ -92,8 +87,7 @@
         "D": "<p>Ekolojik/Çevresel sürdürülebilirlik </p>",
         "E": "<p>Sosyal sürdürülebilirlik  </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764009,
@@ -108,8 +102,7 @@
         "D": "<p>Sosyal sürdürebilirlik </p>",
         "E": "<p>Ekonomik sürdürülebilirlik   </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764010,
@@ -124,8 +117,7 @@
         "D": "<p>Sosyoekonomik Dönüşüm </p>",
         "E": "<p>Yeşil Ekonomi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764011,
@@ -140,8 +132,7 @@
         "D": "<p>II, II, IV ve V</p>",
         "E": "<p>I, II, III ve V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764012,
@@ -156,8 +147,7 @@
         "D": "<p>Motivasyon </p>",
         "E": "<p>Teklarlama</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764303,
@@ -172,8 +162,7 @@
         "D": "<p>Ekosistem</p>",
         "E": "<p>İnovasyon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764304,
@@ -188,8 +177,7 @@
         "D": "<p>I, IV ve V</p>",
         "E": "<p>II, III ve IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764305,
@@ -204,8 +192,7 @@
         "D": "<p>Işık</p>",
         "E": "<p>İklim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764306,
@@ -220,8 +207,7 @@
         "D": "<p>II ve IV</p>",
         "E": "<p>III ve V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764307,
@@ -236,8 +222,7 @@
         "D": "<p>Otlatma; Madde döngüsü; Manevi değerler</p>",
         "E": "<p>Tozlaşma ve tohum dağılımı; Doğal riskleri azaltma; Hastalıklar ve su arıtma</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764308,
@@ -252,8 +237,7 @@
         "D": "<p>Kalkınma</p>",
         "E": "<p>Çevre</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764309,
@@ -268,8 +252,7 @@
         "D": "<div class=\"page\" title=\"Page 12\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Ekolojik taşıma</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 12\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Çevresel yaklaşım</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764310,
@@ -284,8 +267,7 @@
         "D": "<p>Karma ekonomi</p>",
         "E": "<p>Piyasa ekonomisi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764311,
@@ -300,8 +282,7 @@
         "D": "<p>Sosyal öğrenme</p>",
         "E": "<p>Ekosistem hizmetleri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764312,
@@ -316,7 +297,6 @@
         "D": "<p>II, III, IV ve V</p>",
         "E": "<p>I, II, III, IV ve V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

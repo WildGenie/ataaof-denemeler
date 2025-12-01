@@ -12,8 +12,7 @@
         "D": "<p>İfade edilen ihtiyaçlar</p>",
         "E": "<p>Acil ihtiyaçlar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863409,
@@ -28,8 +27,7 @@
         "D": "<p style=\"text-align: justify;\">Eğitimin koordinasyonunu geliştirerek planlama sürecinde ortaya çıkabilecek potansiyel sorunların ele alınmasını kolaylaştırır.</p>",
         "E": "<p>Değerlendirme süreçlerinin etkili biçimde yürütülmesi sağlanır. </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863410,
@@ -44,8 +42,7 @@
         "D": "<p>Betimsel yaklaşım</p>",
         "E": "<p>Normatif yaklaşım</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863411,
@@ -60,8 +57,7 @@
         "D": "<p>Meslek (İş) Analizi tekniği</p>",
         "E": "<p>Testler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863412,
@@ -76,8 +72,7 @@
         "D": "<p>Gözlem</p>",
         "E": "<p>Kaynak tarama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863413,
@@ -92,8 +87,7 @@
         "D": "<p>SWOT analizi</p>",
         "E": "<p>Meslek analizi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863414,
@@ -108,8 +102,7 @@
         "D": "<p>Örgütleme</p>",
         "E": "<p>Sentez</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863415,
@@ -124,8 +117,7 @@
         "D": "<p>Anlama- Hatırlama- Analiz- Uygulama- Değerlendirme - Yaratma</p>",
         "E": "<p>Hatırlama- Anlama- Analiz- Uygulama- Değerlendirme - Yaratma</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863416,
@@ -140,8 +132,7 @@
         "D": "<p>İfade edilen eylemler gözlenebilir ya da ölçülebilir olmalıdır.</p>",
         "E": "<p style=\"text-align: justify;\">İlgili derse yönelik yazılan öğrenme çıktılarının programın tüm sonuçlarıyla ilgili olmasına dikkat edilmelidir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863417,
@@ -156,8 +147,7 @@
         "D": "<p>Değerlendirme</p>",
         "E": "<p>Yaratma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863652,
@@ -172,8 +162,7 @@
         "D": "Pandemi nedeniyle sınıf ortamında alınacak önlemlere yönelik bilinçlendirici faaliyetlerin işe koşulması",
         "E": "Bu yıla ait anket ve sınav sonuçlarından hareketle gelecek yıl izlenecek politikaların belirlenmesi",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863653,
@@ -188,8 +177,7 @@
         "D": "<p>Hedeflenen bilgi-beceri düzeyi ile mevcut durumu karşılaştırarak planlamalar gerçekleştirmek<o:p></o:p></p>",
         "E": "Çoğunluğun talebine göre ders içeriğine yeni etkinlikler eklemek",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863654,
@@ -204,8 +192,7 @@
         "D": "Ders sırasında erişilemeyen bazı materyallerin öğrenci memnuniyetine yansımalarını irdeleyerek yeni bir yol haritası belirlemek",
         "E": "Benzer kademelerde gerçekleştirilmiş kapsamlı araştırma sonuçlarına dayalı olarak eğitim materyallerini yenilemeye ilişkin adımlar atmak",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863655,
@@ -220,8 +207,7 @@
         "D": "İş analizi tekniği",
         "E": "Kaynak tarama",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863656,
@@ -236,8 +222,7 @@
         "D": "Verileri analiz etme",
         "E": "Rapor oluşturma",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863657,
@@ -252,8 +237,7 @@
         "D": "Yaratma",
         "E": "Sentez",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863658,
@@ -268,8 +252,7 @@
         "D": "Sentez",
         "E": "Yaratma",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863659,
@@ -284,8 +267,7 @@
         "D": "Ulaşılabilirlik",
         "E": "Zamana Bağlılık",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863660,
@@ -300,8 +282,7 @@
         "D": "Yöneticilerin öğrenci başarısını ölçmek için standart belirlemelerine olanak tanımak",
         "E": "Programın genel eğitim amaçları ile uyumluluğu hakkında değerlendirmeler gerçekleştirmek",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863661,
@@ -316,7 +297,6 @@
         "D": "İlkeler",
         "E": "Genellemeler",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

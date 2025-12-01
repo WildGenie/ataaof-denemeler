@@ -12,8 +12,7 @@
         "D": "<p>Hedef Aşaması – Çözülmüş problemin tanımı</p>",
         "E": "<p>Çözümün hemen belli olmaması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862006,
@@ -28,8 +27,7 @@
         "D": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Tasarımın başarısı</p> </div> </div> </div> </div>",
         "E": "<p>Tasarım talebi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862007,
@@ -44,8 +42,7 @@
         "D": "<p>Yaratıcı çözüm</p>",
         "E": "<p>Tasarımın başarısı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862008,
@@ -60,8 +57,7 @@
         "D": "<p>Iraksak düşünme</p>",
         "E": "<p>Keşif aşaması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862009,
@@ -76,8 +72,7 @@
         "D": "Ticari planları soyutlaştırma",
         "E": "Süreç takibi ve takvimi belirleme.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862010,
@@ -92,8 +87,7 @@
         "D": "<p>Kurum hangi tasarım unsurlarının tasarlanmasını düşünüyor? </p> ",
         "E": "<p>Tasarım ne zaman ve ne kadar sürede gereklidir? </p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862011,
@@ -108,8 +102,7 @@
         "D": "<div class=\"page\" title=\"Page 16\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Soruları Hazırlama</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Görüşme Planı</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862012,
@@ -124,8 +117,7 @@
         "D": "<div class=\"page\" title=\"Page 22\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Görsel Araştırma Panoları</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 23\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Duygu Panoları</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862013,
@@ -140,8 +132,7 @@
         "D": "<div class=\"page\" title=\"Page 28\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Test ve Deneyimleme Aşaması</p>\n</div>\n</div>\n</div>\n</div>",
         "E": "<div class=\"page\" title=\"Page 26\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>İlkörnek Oluşturma Aşaması</p>\n</div>\n</div>\n</div>\n</div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862014,
@@ -156,8 +147,7 @@
         "D": "<p>Tasarım üretime doğru iletildi mi?</p>",
         "E": "<p>Kuruma proje materyalleri teslim edildi mi?</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862224,
@@ -172,8 +162,7 @@
         "D": "<p><span>Gelişim problemi</span></p>",
         "E": "<span>İşlemli problem</span>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862225,
@@ -188,8 +177,7 @@
         "D": "<p><span>Gelişim problemi</span></p>",
         "E": "<span>Tanımsız problem</span>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862226,
@@ -204,8 +192,7 @@
         "D": "<p><span>Sosyal etkileşim - Üretken bir çaba - Bireysel </span></p>",
         "E": "<span>Sosyal etkileşim -Bireysel - Üretken bir çaba</span>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862227,
@@ -220,8 +207,7 @@
         "D": "<p><span>Eleştirel düşünme</span></p>",
         "E": "<span>Gözlem yapma</span>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862228,
@@ -236,8 +222,7 @@
         "D": "<p><span>Eleştirel düşünme</span></p>",
         "E": "<span>Gözlem yapma</span>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862229,
@@ -252,8 +237,7 @@
         "D": "<p><span>İlkörnek oluşturma</span></p>",
         "E": "<span>Deneyimleme</span>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862230,
@@ -268,8 +252,7 @@
         "D": "<p><span>İlkörnek oluşturma</span></p>",
         "E": "<span>Deneyimleme</span>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862231,
@@ -284,8 +267,7 @@
         "D": "<p><span>Temas noktaları analizi</span></p>",
         "E": "<span>Kullanıcı haritaları analizi</span>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862232,
@@ -300,8 +282,7 @@
         "D": "<p><span>İlham panoları</span></p>",
         "E": "<span>Prototip</span>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862233,
@@ -316,7 +297,6 @@
         "D": "<p><span>Temas noktaları analizi</span></p>",
         "E": "<span>Kullanıcı haritaları</span>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

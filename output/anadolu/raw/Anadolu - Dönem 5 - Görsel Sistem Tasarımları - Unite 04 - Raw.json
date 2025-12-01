@@ -12,8 +12,7 @@
         "D": "<p>Harita</p>",
         "E": "<p>İzohips</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862348,
@@ -28,8 +27,7 @@
         "D": "<p>Kalem</p>",
         "E": "<p>Çanta</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862349,
@@ -44,8 +42,7 @@
         "D": "<p>İcat ve buluşlar</p>",
         "E": "<p>Konum</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862350,
@@ -60,8 +57,7 @@
         "D": "<p>Renk</p>",
         "E": "<p>Desen</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862352,
@@ -76,8 +72,7 @@
         "D": "<p>Desen</p>",
         "E": "<p>Sembol</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862353,
@@ -92,8 +87,7 @@
         "D": "<p>Ölçek</p>",
         "E": "<p>Sembol</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862354,
@@ -108,8 +102,7 @@
         "D": "<p>Başlık</p>",
         "E": "<p>Gövde metin</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862355,
@@ -124,8 +117,7 @@
         "D": "<p>Kullanıcıların gidecekleri noktayı bulabilmeleri için yapılan tasarımlardır.</p>",
         "E": "<p>Bilgi ve içerikle ilgili konularda uyarıda bulunmak için yapılmış tasarımlardır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862356,
@@ -140,8 +132,7 @@
         "D": "<p>Peter Brugger</p>",
         "E": "<p>Eric Spiekermann</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862358,
@@ -156,8 +147,7 @@
         "D": "<p>Olumlu izlenim</p>",
         "E": "<p>Güvenilirlik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862473,
@@ -172,8 +162,7 @@
         "D": "<p>Şifreleme</p>",
         "E": "<p>fotoğraf</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862474,
@@ -188,8 +177,7 @@
         "D": "<p>Konum tespiti yapmak</p>",
         "E": "<p>Tarihi saptamak</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862476,
@@ -204,8 +192,7 @@
         "D": "<p>Uluslararası ticaret Birliği</p>",
         "E": "<p>Uluslararası Askeri İşbirliği Teşkilatı </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862477,
@@ -220,8 +207,7 @@
         "D": "<p>Diplomatik Ziyaret</p>",
         "E": "<p>Yolculuk planlaması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862479,
@@ -236,8 +222,7 @@
         "D": "<p>Tarihleme</p>",
         "E": "<p>Ölçekleme</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862480,
@@ -252,8 +237,7 @@
         "D": "<p>siyasi</p>",
         "E": "<p>Fiziki</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862483,
@@ -268,8 +252,7 @@
         "D": "<p>Haritanın gösterdiği bilgi ve içerik </p>",
         "E": "<p>Haritada renklerin ne anlama geldiğini gösteren açıklama kısmı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862485,
@@ -284,8 +267,7 @@
         "D": "<p>Tanıtım filmleri</p>",
         "E": "<p>İnternet siteleri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862487,
@@ -300,8 +282,7 @@
         "D": "<p>Yönlendirme ve işaretleme tasarımı </p>",
         "E": "<p>Toplu taşıma tasarımı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862489,
@@ -316,7 +297,6 @@
         "D": "<p>Kurum Kimlik Uygulamaları</p>",
         "E": "<p>Kent</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>24 Mart 2003 </p>",
         "E": "<p>28 Mart 2003 </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513159,
@@ -28,8 +27,7 @@
         "D": "<p>Dördüncü dönemi </p>",
         "E": "<p>Beşinci dönemi </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513160,
@@ -44,8 +42,7 @@
         "D": "<p>14 Eylül 2014 </p>",
         "E": "<p>12 Ekim 2014 </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513162,
@@ -60,8 +57,7 @@
         "D": "<p>Belçika</p>",
         "E": "<p>Rusya</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513165,
@@ -76,8 +72,7 @@
         "D": "<p>18 Kasım 2004</p>",
         "E": "<p>18 Kasım 2005</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513166,
@@ -92,8 +87,7 @@
         "D": "<p>27 Nisan 2009</p>",
         "E": "<p>27 Nisan 2010</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513168,
@@ -108,8 +102,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513169,
@@ -124,8 +117,7 @@
         "D": "<p>Gezi Parkı Eylemi</p>",
         "E": "<p>KCK Davaları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513171,
@@ -140,8 +132,7 @@
         "D": "<p>Saadet Partisi</p>",
         "E": "<p>Demokrat Parti</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513172,
@@ -156,8 +147,7 @@
         "D": "<p>Suriye’de bulunan Rus Hava Kuvvetlerinin SU-24 savaş uçağı Türk hava sahasını ihlal ettiği gerekçesiyle düşürülmesi.</p>",
         "E": "<p>İki ülke arasında turist vizelerinin kaldırılması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513174,
@@ -172,8 +162,7 @@
         "D": "<p>Kırgızistan</p>",
         "E": "<p>Kazakistan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513175,
@@ -188,8 +177,7 @@
         "D": "<p>I, II, III, IV</p>",
         "E": "<p>I, II, III, IV, V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513178,
@@ -204,8 +192,7 @@
         "D": "<p>Dördüncü Dönem</p>",
         "E": "<p>Beşinci Dönem</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513181,
@@ -220,8 +207,7 @@
         "D": "<p>I, II, III, IV</p>",
         "E": "<p>I, II, III, IV, V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513188,
@@ -236,8 +222,7 @@
         "D": "<p>Abdullah Gül</p>",
         "E": "<p>Binali Yıldırım</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513189,
@@ -252,8 +237,7 @@
         "D": "<p>Ergenekon Davaları</p>",
         "E": "<p>367 Krizi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513190,
@@ -268,8 +252,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513192,
@@ -284,8 +267,7 @@
         "D": "<p>Rize</p>",
         "E": "<p>İzmir</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513193,
@@ -300,8 +282,7 @@
         "D": "<p>İsmet Yılmaz</p>",
         "E": "<p>Mustafa Elitaş</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513194,
@@ -316,8 +297,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513155,
@@ -332,8 +312,7 @@
         "D": "<p>22 Haziran 2001</p>",
         "E": "<p>14 Ağustos 2001</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513157,
@@ -348,8 +327,7 @@
         "D": "<p>18 Kasım 2002</p>",
         "E": "<p>21 Aralık 2002</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513161,
@@ -364,8 +342,7 @@
         "D": "<p>14 Ağustos 2015 </p>",
         "E": "<p>28 Ağustos 2015 </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513164,
@@ -380,8 +357,7 @@
         "D": "<p>24 Eylül 2017 </p>",
         "E": "<p>12 Haziran 2018 </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513173,
@@ -396,8 +372,7 @@
         "D": "<p>Kurbankulu Berdimuhammedov</p>",
         "E": "<p>Nursultan Nazarbayev</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513176,
@@ -412,8 +387,7 @@
         "D": "<p>Abdullah Gül</p>",
         "E": "<p>İsmet Yılmaz</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513180,
@@ -428,8 +402,7 @@
         "D": "<p>Dördüncü Dönem</p>",
         "E": "<p>Beşinci Dönem</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513182,
@@ -444,8 +417,7 @@
         "D": "<p>ABD,Türkiye’nin Suriye’de  PYD/ YPG’ye karşı operasyon yapmasını desteklemiştir.</p>",
         "E": "<p>Orta Doğu politikası; bölgede barış ve istikrarın, refah artışının, ekonomik kalkınmanın sağlanması şeklinde olmuştur.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513184,
@@ -460,8 +432,7 @@
         "D": "<p>Kuzey Kıbrıs Türk Cumhuriyeti</p>",
         "E": "<p>Kazakistan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513185,
@@ -476,8 +447,7 @@
         "D": "<p>Kazakistan</p>",
         "E": "<p>Kırgızistan</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513186,
@@ -492,8 +462,7 @@
         "D": "<p>Aşkabat</p>",
         "E": "<p>Ankara</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513187,
@@ -508,8 +477,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513163,
@@ -524,8 +492,7 @@
         "D": "<p>Kazakistan </p>",
         "E": "<p>Türkmenistan </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513177,
@@ -540,8 +507,7 @@
         "D": "<p>Ahmet Necdet SEZER</p>",
         "E": "<p>Recep Tayyip ERDOĞAN</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513183,
@@ -556,8 +522,7 @@
         "D": "<p>I, II, III</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513170,
@@ -572,8 +537,7 @@
         "D": "<p>Binali Yıldırım</p>",
         "E": "<p>Ahmet Davutoğlu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513156,
@@ -588,8 +552,7 @@
         "D": "<p>DYP-MHP-CHP</p>",
         "E": "<p>MHP-ANAP-CHP</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513167,
@@ -604,8 +567,7 @@
         "D": "<p>Kemal Kılıçdaroğlu</p>",
         "E": "<p>Abdullah Gül</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513191,
@@ -620,8 +582,7 @@
         "D": "<p>Demokratik Sol Parti</p>",
         "E": "<p>Milliyetçi Hareket Partisi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513179,
@@ -636,7 +597,6 @@
         "D": "<p>MHP</p>",
         "E": "<p>CHP</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     }
 ]

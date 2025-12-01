@@ -12,8 +12,7 @@
         "D": "<p>Dijital Platform</p>",
         "E": "<p>Dijital Ortam</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764330,
@@ -28,8 +27,7 @@
         "D": "<p>Şablon-elek baskı</p>",
         "E": "<p>Linol baskı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764341,
@@ -44,8 +42,7 @@
         "D": "<p>Patates ve soğan baskıları, lastik kaşeler ve mühürler, yüksek baskı tekniğine uygundur.</p>",
         "E": "<p>Yüksek baskı sisteminin “tifdruk\" ve \"tampon” olmak üzere iki çeşidi bulunur.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764342,
@@ -60,8 +57,7 @@
         "D": "<p>Tipo baskının özünde, yazının yani mekanikleştirilen hareketli hurufat sisteminin kompozisyon hâline getirilerek çoğaltması yatar.</p> ",
         "E": "<p>Tipo baskı tekniğinde; ağaç, plastik bir malzeme olan lastik ve metal malzemeler, kalıp hazırlarken kullanılabilir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764622,
@@ -76,8 +72,7 @@
         "D": "<p>Dijital baskı</p> ",
         "E": "<p>Serigrafi</p>  ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764625,
@@ -92,8 +87,7 @@
         "D": "<p>I, II ve III        </p>",
         "E": "<p>I, II ve IV</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764627,
@@ -108,8 +102,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764628,
@@ -124,8 +117,7 @@
         "D": "<p>Dijitalleşme, ofset, iki</p>",
         "E": "<p>Dijitalleşme, ofset, dört</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764730,
@@ -140,8 +132,7 @@
         "D": "<p>dijital</p>",
         "E": "<p> litoğrafi </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764731,
@@ -156,8 +147,7 @@
         "D": "<p>şablon-elek baskı (Serigrafi)</p>",
         "E": "<p>dijital baskı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764733,
@@ -172,8 +162,7 @@
         "D": "<div class=\"page\" title=\"Page 10\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>perforaj</p> </div> </div> </div> </div>",
         "E": "<p>pilyaj</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764737,
@@ -188,8 +177,7 @@
         "D": "<div class=\"page\" title=\"Page 19\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Rudolf Hell</p> </div> </div> </div> </div>",
         "E": "<p>Edward Rondthaler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764738,
@@ -204,8 +192,7 @@
         "D": "<p>Yalnız IV</p>",
         "E": "<p>Yalnız V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764767,
@@ -220,8 +207,7 @@
         "D": "<p>Kalay</p>",
         "E": "<p>Amalgam</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764782,
@@ -236,8 +222,7 @@
         "D": "<p>1960’larda uçak tasarımcısı William Fetter, grafik tasarım için CRT’yi kullanan kişi olmuştur.</p>",
         "E": "<p>1965’te Almanya’da, <em>Digiset</em> adı verilen, harfleri bilgisayar yardımıyla dizme yöntemi geliştirilmiştir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764792,
@@ -252,8 +237,7 @@
         "D": "<p>I, III ve V</p>",
         "E": "<p>II, III, IV ve V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764795,
@@ -268,8 +252,7 @@
         "D": "<p>Yüksek baskı</p>",
         "E": "<p>Şablon baskı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764797,
@@ -284,8 +267,7 @@
         "D": "<p>Levha</p>",
         "E": "<p>Kartvizit</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764800,
@@ -300,8 +282,7 @@
         "D": "<p>Font</p>",
         "E": "<p>Matris</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764861,
@@ -316,8 +297,7 @@
         "D": "<p>Şablon Baskı</p>",
         "E": "<p>Elek Baskı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764343,
@@ -332,8 +312,7 @@
         "D": "<p>Fatura</p> ",
         "E": "<p>El ilanı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764354,
@@ -348,8 +327,7 @@
         "D": "<p>Kumpas</p>",
         "E": "<p>İşaret kertiği</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764621,
@@ -364,8 +342,7 @@
         "D": "<p> II ve III          </p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764623,
@@ -380,8 +357,7 @@
         "D": "<p>Hurufat, punto, et kısmı</p>",
         "E": "<p>Hurufat, et kısmı, punto</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764624,
@@ -396,8 +372,7 @@
         "D": "<p>El tezgahı</p>",
         "E": "<p>Rotatif tipo baskı makinesi</p>  ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764729,
@@ -412,8 +387,7 @@
         "D": "<p>Gravür baskı teknikleri ve Düz baskı teknikleri</p>",
         "E": "<p>Sanatsal baskı teknikleri ve Endüstriyel baskı teknikleri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764732,
@@ -428,8 +402,7 @@
         "D": "<div class=\"page\" title=\"Page 24\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Henrik Olsen</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 30\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Samuel Morse</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764772,
@@ -444,8 +417,7 @@
         "D": "<p>Baskı alanı en küçük olan tipo baskı makineleri olması nedeniyle günümüzde hala tercih edilir.</p>",
         "E": "<p>Tek turlu ve çift turlu baskı makineleri olmak üzere iki çeşittir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764796,
@@ -460,8 +432,7 @@
         "D": "<p>I, II, III ve V</p>",
         "E": "<p>II, IV ve V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764799,
@@ -476,8 +447,7 @@
         "D": "<div class=\"page\" title=\"Page 19\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>William Fetter</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 19\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Rudolf Hell</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764620,
@@ -492,8 +462,7 @@
         "D": "<p>Dört</p>",
         "E": "<p>Beş</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764626,
@@ -508,8 +477,7 @@
         "D": "<p>Mizantren</p> ",
         "E": "<p>Anterlin</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764734,
@@ -524,8 +492,7 @@
         "D": "<p>Tipografi, herhangi bir konuda ya da önüne gelen bir proje için yaratıcı düşüncelerini yazıya dökmesidir.</p>",
         "E": "<p>Tipografi, elektronik ortamda farklı dosya uzantıları ile çoğaltılarak bir iletişim modeli grafik sanatların yöntemidir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764791,
@@ -540,8 +507,7 @@
         "D": "<p>Küreselleşme</p>",
         "E": "<p>Bilgi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764862,
@@ -556,8 +522,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764736,
@@ -572,8 +537,7 @@
         "D": "<div class=\"page\" title=\"Page 18\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Edward Rondthaler</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 30\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Thomas Guttenberg</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764793,
@@ -588,8 +552,7 @@
         "D": "<p>Grafik</p>",
         "E": "<p>Geleneksel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764794,
@@ -604,8 +567,7 @@
         "D": "<p>Flekso</p>",
         "E": "<p>Dijital baskı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764798,
@@ -620,8 +582,7 @@
         "D": "<div class=\"page\" title=\"Page 16\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Mizantren</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 16\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Anterlin</p> </div> </div> </div> </div>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764735,
@@ -636,8 +597,7 @@
         "D": "<p>Silindir Kazanlı Baskı Makineleri</p>",
         "E": "<p>Rotatif Tipo Baskı Makineleri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764768,
@@ -652,8 +612,7 @@
         "D": "<p>M-1 / N-2</p>",
         "E": "<p>L-2 / N-1</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764783,
@@ -668,8 +627,7 @@
         "D": "<p>Gale</p>",
         "E": "<p>Takatuka</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764619,
@@ -684,7 +642,6 @@
         "D": "<p>  I, II ve III</p>",
         "E": "<p>II ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     }
 ]

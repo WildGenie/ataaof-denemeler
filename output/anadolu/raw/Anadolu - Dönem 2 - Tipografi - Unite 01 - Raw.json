@@ -12,8 +12,7 @@
         "D": "<p>Hiyeroglif  </p>",
         "E": "<p>Yazı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769674,
@@ -28,8 +27,7 @@
         "D": "<p>Linotype </p>",
         "E": "<p>Monotype </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769675,
@@ -44,8 +42,7 @@
         "D": "<p>Mainz Psalter </p>",
         "E": "<p> 42-Line Bible </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769687,
@@ -60,8 +57,7 @@
         "D": "<p>Düzgün dağılım gösteren doğru mürekkep kıvamını oluşturmuştur.</p>",
         "E": "<p>Metal baskıyı hareketli hurufat ile yapmıştır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769734,
@@ -76,8 +72,7 @@
         "D": "<p>Epigram</p>",
         "E": "<p>Histogram</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769738,
@@ -92,8 +87,7 @@
         "D": "<p>Trajan</p>",
         "E": "<p>Karolenj</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769740,
@@ -108,8 +102,7 @@
         "D": "<p>Stenograf</p>",
         "E": "<p>Siklograf</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769741,
@@ -124,8 +117,7 @@
         "D": "<p>Kağıt para</p>",
         "E": "<p>Ölüm ilanı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769811,
@@ -140,8 +132,7 @@
         "D": "<p>Alfabe</p>",
         "E": "<p>Fonetik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769812,
@@ -156,8 +147,7 @@
         "D": "<p>Piktogram</p>",
         "E": "<p>Desen</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769866,
@@ -172,8 +162,7 @@
         "D": "<p>Asur</p>",
         "E": "<p>Hitit</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769867,
@@ -188,8 +177,7 @@
         "D": "<p>Lidya</p>",
         "E": "<p>Likya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769869,
@@ -204,8 +192,7 @@
         "D": "<p>Arap </p>",
         "E": "<p>Uygur</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769873,
@@ -220,8 +207,7 @@
         "D": "<p>Fransa</p>",
         "E": "<p>Finlandiya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769876,
@@ -236,8 +222,7 @@
         "D": "<p>Piktogram</p>",
         "E": "<p>Paleolitik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769877,
@@ -252,8 +237,7 @@
         "D": "<p>Hiyeroglif</p>",
         "E": "<p>Logotype</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769878,
@@ -268,8 +252,7 @@
         "D": "<p>Hiyeroglif</p>",
         "E": "<p>Çivi yazısı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769879,
@@ -284,8 +267,7 @@
         "D": "<p>Foto-manipülatör</p>",
         "E": "<p>Teknik ressam</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769881,
@@ -300,8 +282,7 @@
         "D": "<p>Monotype</p>",
         "E": "<p>Linotype</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769882,
@@ -316,8 +297,7 @@
         "D": "<p>1990</p>",
         "E": "<p>1350</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769672,
@@ -332,8 +312,7 @@
         "D": "<p>Hitit</p>",
         "E": "<p>Çin</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769686,
@@ -348,8 +327,7 @@
         "D": "<p>John Baskerville</p>",
         "E": "<p>Nicolas Jenson</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769692,
@@ -364,8 +342,7 @@
         "D": "<p>Fotogravür</p>",
         "E": "<p>Klişe</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769735,
@@ -380,8 +357,7 @@
         "D": "<p>Mısırlılar</p>",
         "E": "<p>Asurlular</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769739,
@@ -396,8 +372,7 @@
         "D": "<p>7.yy</p>",
         "E": "<p>5.yy</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769742,
@@ -412,8 +387,7 @@
         "D": "<p>Tarih-i Seyyah</p>",
         "E": "<p>Gülşen-i Hülefa</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769744,
@@ -428,8 +402,7 @@
         "D": "<p>Ofset</p>",
         "E": "<p>Fligran</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769815,
@@ -444,8 +417,7 @@
         "D": "<p>Mezopotamya</p>",
         "E": "<p>Yunanistan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769868,
@@ -460,8 +432,7 @@
         "D": "<p>Hiyeroglif Yazısı</p>",
         "E": "<p>Logogram</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769875,
@@ -476,8 +447,7 @@
         "D": "<p>Tipografi</p>",
         "E": "<p>Alfabe</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769691,
@@ -492,8 +462,7 @@
         "D": "<p>Matrislerin sıra halinde toplanması / metalin dökümü / Matrislerin tip dergisine döndürülmesi </p>",
         "E": "<p>Matrislerin sıra halinde toplanması / slug parçasının oluşturulması / basılan kağıtların kurutulması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769700,
@@ -508,8 +477,7 @@
         "D": "<p>2-C, 4-B, 5-A</p> ",
         "E": "<p>3-B, 4-A, 5-C</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769736,
@@ -524,8 +492,7 @@
         "D": "<p>MS 3. yüzyıl</p>",
         "E": "<p>MS100</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769737,
@@ -540,8 +507,7 @@
         "D": "<p>İlk uluslararası antlaşmayı imzaladılar</p>",
         "E": "<p>Yazıyı icat ettiler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769872,
@@ -556,8 +522,7 @@
         "D": "<p>MÖ 1.000ler</p>",
         "E": "<p>MS 1.500ler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769874,
@@ -572,8 +537,7 @@
         "D": "<p>Fotoğraf</p>",
         "E": "<p>Petroglif</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769673,
@@ -588,8 +552,7 @@
         "D": "<p>İbrani </p>",
         "E": "<p>Hiyeroglif</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769813,
@@ -604,8 +567,7 @@
         "D": "<p>Papirus resimleri</p>",
         "E": "<p>Ziggurat tapınağı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769870,
@@ -620,8 +582,7 @@
         "D": "<p>7</p>",
         "E": "<p>11</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769814,
@@ -636,7 +597,6 @@
         "D": "<p>Giritliler</p>",
         "E": "<p>Romalılar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Hareketli grafikler, ilk olarak 1890’larda sinema filmlerinde yer almaya başlamış, ancak dijital devrim bu grafiklerin tarihsel kökenlerinin biçimini ve yapısını etkilememiştir.</p>",
         "E": "<p>Geleneksel baskı tekniklerinde grafik tasarımın vizyonu hareketsizken, hareketli grafiklerin ortaya çıkışı bu vizyonu etkilememiştir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3678120,
@@ -28,8 +27,7 @@
         "D": "<p>Hareketli grafikler, sadece film dili kullanarak animasyon tekniklerini uygular ve grafik tasarım kurallarını göz ardı eder.</p>",
         "E": "<p>Grafik tasarım, animasyon tekniklerini kullanarak sadece hareket ilüzyonu oluşturur, hareketli grafiklerin tasarımına dair hiçbir katkıda bulunmaz.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3678133,
@@ -44,8 +42,7 @@
         "D": "<p>Hareketli grafik tasarım sürecinde, yaratıcı özet hazırlanması gerekmeksizin doğrudan yapım aşamasına geçilir ve müşteriyle görüşmeye gerek duyulmaz</p>",
         "E": "<p>Hareketli grafiklerin tasarımı, bir bina inşası gibi planlama gerektirir; ancak bu planlama süreci yaratıcı özetin hazırlanmasından farklıdır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3678138,
@@ -60,8 +57,7 @@
         "D": "<p>Yaratıcı özet, yalnızca estetik tasarımın özetini içerir ve hareketli grafik tasarımında proje hedefleriyle ilgili bilgi sağlamaz.</p>",
         "E": "<p>Yaratıcı özet hazırlığı, hareketli grafik yapım sürecini sistematik bir şekilde organize etmek için gereklidir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3678147,
@@ -76,8 +72,7 @@
         "D": "<p>Teknik türler, bütçeye uygun olarak tercih edilmez ve bu nedenle bütçeye uygun maliyetli tekniklerin seçilmesine gerek bulunmaz.</p>",
         "E": "<p>Yapım sürecine başlamadan önce maliyeti belirlenmiş bir iş, müşteri ve tasarımcı için herhangi bir güvenlik ve organizasyon sağlanmaz.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3678162,
@@ -92,8 +87,7 @@
         "D": "<p>Proje Çıktıları</p>",
         "E": "<p>Sinopsis</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3678169,
@@ -108,8 +102,7 @@
         "D": "<p>Post-prodüksiyon aşamasında, filmin gösterim tarihine kadar hiçbir ek hazırlık veya tasarım yapılmaz.</p> ",
         "E": "<p>Ön-prodüksiyon aşamasında hazırlanan tüm öğeler, prodüksiyon aşamasında uygulanmaya başlanır ve post-prodüksiyon aşamasında kurgulanır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3678181,
@@ -124,8 +117,7 @@
         "D": "<p>Hareketli grafik yapımında ses tasarımı ve görüntü ilişkisi, reel-görüntü filmlerinde olduğu gibi aynıdır.</p>",
         "E": "<p>Reel-görüntü filmlerinde ses, görüntünün üzerine eklenirken, animasyon filmlerinde görüntü sesin üzerine eklenir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3678188,
@@ -140,8 +132,7 @@
         "D": "<p>Üç perdeli yapının son bölümünde, hareketli grafiklerde bilgi, karakterlerin çözüm süreciyle ilgili olarak derinlemesine işlenir ve tatmin edici sonuçlar elde edilir.</p>",
         "E": "<p>Hareketli grafiklerde üç perdeli yapı, bilgi aktarımında sadece başlangıç aşamasını kapsar; gelişme ve sonuç aşamaları bilgi aktarımını etkilemez.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3678199,
@@ -156,7 +147,6 @@
         "D": "<p>Film parçası</p>",
         "E": "<p>Sekans</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

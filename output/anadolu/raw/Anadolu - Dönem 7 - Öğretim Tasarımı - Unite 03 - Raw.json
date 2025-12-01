@@ -12,8 +12,7 @@
         "D": "<p>Kontrol listesi içeren gözlem formu</p>",
         "E": "<p>Görüşme formu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863369,
@@ -28,8 +27,7 @@
         "D": "<p>Programın tasarlanması</p>",
         "E": "<p>Programın değerlendirilmesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863370,
@@ -44,8 +42,7 @@
         "D": "<p>Kemp, Morrison ve Ross Modeli</p>",
         "E": "<p>Gerlach ve Ely Modeli</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863371,
@@ -60,8 +57,7 @@
         "D": "<p>Kemp, Morrison ve Ross modeli - ASSURE modeli</p>",
         "E": "<p>Kemp, Morrison ve Ross modeli- ADDIE modeli</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863373,
@@ -76,8 +72,7 @@
         "D": "<p>Değişkenlik</p>",
         "E": "<p>Destek</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863374,
@@ -92,8 +87,7 @@
         "D": "<p>Gerlach ve Ely Modeli</p>",
         "E": "<p>ADDIE Modeli</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863375,
@@ -108,8 +102,7 @@
         "D": "<p>Çeşitlilik</p>",
         "E": "<p>Olumlu sonuçlar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863376,
@@ -124,8 +117,7 @@
         "D": "<p>Web tabanlı öğretim</p>",
         "E": "<p>Uzaktan eğitim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863377,
@@ -140,8 +132,7 @@
         "D": "<p>Kemp, Morrison ve Ross modeli</p>",
         "E": "<p>ARCS-V motivasyon tasarım modeli</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863641,
@@ -156,8 +147,7 @@
         "D": "Çok sayıda ara değerlendirme formu oluşturularak öğrenmenin sık sık test edilmesi",
         "E": "Öğrencilerin öğrenme çıktılarını sözel olarak yansıtmalarının sağlanması",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863642,
@@ -172,8 +162,7 @@
         "D": "Öğrenme materyallerini içerik uzmanlarının görüşüne göre şekillendirir.",
         "E": "Tasarımı doğrudan uygulamaya koyup erişilen sonuca göre geriye dönük düzenleme yapar.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863643,
@@ -188,8 +177,7 @@
         "D": "Paydaşlar arasında görev paylaşımı yapılırken proje vizyonunun dikkate alınmaması",
         "E": "Öğrencilerin gerçek dünyada karşılaşabilecekleri problemlere göre ortamın düzenlenmemesi",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863644,
@@ -204,8 +192,7 @@
         "D": "<p>Hedef öğrenci grubunun ihtiyaçlarını belirle.</p>",
         "E": "<p>Ölçme ve değerlendirme tekniklerini seç.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863645,
@@ -220,8 +207,7 @@
         "D": "<p>Ekonomikliği baz alarak her öğrenme durumuna aynı şekilde yaklaşan yapı</p>",
         "E": "<p>Eğitsel gereksinim analiziyle süreci başlatan yapı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863646,
@@ -236,8 +222,7 @@
         "D": "<p>Eğitimi gerçekleştir</p>",
         "E": "<p>Amaçları yaz</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863647,
@@ -252,8 +237,7 @@
         "D": "<p>Öğretim materyallerini geliştirme</p>",
         "E": "<p>Öğretim çözümlemesi yapma     </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863648,
@@ -268,8 +252,7 @@
         "D": "<p>Prototipleme</p>",
         "E": "<p>Rehberlik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863649,
@@ -284,8 +267,7 @@
         "D": "<p>Kemp, Morrison ve Ross Modeli</p>",
         "E": "<p>Dick ve Carey Modeli</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863650,
@@ -300,8 +282,7 @@
         "D": "<p>Her iki model de sistem odaklıdır ve destek hizmetlerine yer verir.</p>",
         "E": "<p>ASSURE modeli yalnızca davranışçı yaklaşıma dayanırken ADDIE yapılandırmacılığı temel alan bir modeldir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863651,
@@ -316,8 +297,7 @@
         "D": "ASSURE",
         "E": "Gerlach ve Ely",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863372,
@@ -332,7 +312,6 @@
         "D": "<p>Hızlı Prototipleme Öğretim Tasarımı<br />Modeli</p>",
         "E": "<p>Dick, Carey ve Carey Modeli</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     }
 ]

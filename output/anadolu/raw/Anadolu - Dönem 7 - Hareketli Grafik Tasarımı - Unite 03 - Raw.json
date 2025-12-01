@@ -12,8 +12,7 @@
         "D": "<p>Görsel iletişim</p>",
         "E": "<p>Tasarım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3671965,
@@ -28,8 +27,7 @@
         "D": "<p>Hareketsiz örnek görüntü</p>",
         "E": "<p>Sayısal görüntü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3671976,
@@ -44,8 +42,7 @@
         "D": "<div class=\"page\" title=\"Page 13\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Çekim Görüntüsü</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 10\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Örneksel </p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3672017,
@@ -60,8 +57,7 @@
         "D": "<div class=\"page\" title=\"Page 18\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>W. K. L. Dickson</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 18\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Edison</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3672041,
@@ -76,8 +72,7 @@
         "D": "<div class=\"page\" title=\"Page 17\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>İzleyicinin Yer Değiştirmesi ile Hareket Kazanan Tipografi</p> </div> </div> </div> </div>",
         "E": "<p>Canlandırma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685568,
@@ -92,8 +87,7 @@
         "D": "<p>Görsel iletişim</p>",
         "E": "<p>Hareket</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685587,
@@ -108,8 +102,7 @@
         "D": "<p>II</p>",
         "E": "<p>I</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685597,
@@ -124,8 +117,7 @@
         "D": "<p>İşaret</p>",
         "E": "<p>Grafik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685606,
@@ -140,8 +132,7 @@
         "D": "<p>Çekim Görüntüsü</p>",
         "E": "<p>Vektör Tabanlı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3685612,
@@ -156,7 +147,6 @@
         "D": "<p>Tasarım</p>",
         "E": "<p>Biçim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

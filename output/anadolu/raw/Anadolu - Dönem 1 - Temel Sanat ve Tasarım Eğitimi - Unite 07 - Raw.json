@@ -12,8 +12,7 @@
         "D": "<p>Hareket</p>",
         "E": "<p>Zıtlık</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861183,
@@ -28,8 +27,7 @@
         "D": "<p>Hareket</p>",
         "E": "<p>Zıtlık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861184,
@@ -44,8 +42,7 @@
         "D": "<p>Merkezi hiyerarşi</p>",
         "E": "<p>Serbest hiyerarşi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861185,
@@ -60,8 +57,7 @@
         "D": "<p>İnsan Oranları</p>",
         "E": "<p>Kozmografik Oran</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861186,
@@ -76,8 +72,7 @@
         "D": "<p>Görsel eklemek.  </p>",
         "E": "<p>Bazı küçük harfleri büyük harflerle değiştirmek.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861187,
@@ -92,8 +87,7 @@
         "D": "<p>Hedef kitleyi estetik ve tasarım olarak etkiler.</p>",
         "E": "<p>Kalıcı bir etki bırakır ve sonuç olarak hafızaya yerleştirir.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861188,
@@ -108,8 +102,7 @@
         "D": "<p>Hizalama</p>",
         "E": "<p>Şekil- zemin ilişkisi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861189,
@@ -124,8 +117,7 @@
         "D": "<p>Tamamlama</p>",
         "E": "<p>Simetri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861193,
@@ -140,8 +132,7 @@
         "D": "<p>Merkezî hiyerarşi</p>",
         "E": "<p>Boyutsal hiyerarşi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861194,
@@ -156,8 +147,7 @@
         "D": "<p>Devamlılık</p>",
         "E": "<p>Hizalama</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861196,
@@ -172,8 +162,7 @@
         "D": "<p>Hizalama</p>",
         "E": "<p>Boşluklar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861197,
@@ -188,8 +177,7 @@
         "D": "<p>Radyal Bütünlük</p>",
         "E": "<p>Asimetrik Bütünlük</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861198,
@@ -204,8 +192,7 @@
         "D": "<p>Hareket, zamanlama ve işitsel hiyerarşi</p>",
         "E": "<p>Serbest hiyerarşi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861199,
@@ -220,8 +207,7 @@
         "D": "<p>Leonardo Fibonacci</p>",
         "E": "<p>Kurt Koffka</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861202,
@@ -236,8 +222,7 @@
         "D": "<p>Modernist Bütünlük</p>",
         "E": "<p>Tipografik Bütünlük</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861203,
@@ -252,8 +237,7 @@
         "D": "<p>Şekil-Zemin İlişkisi</p>",
         "E": "<p>Yön</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861204,
@@ -268,8 +252,7 @@
         "D": "<p>Statik Hiyerarşi</p>",
         "E": "<p>Renk Hiyerarşisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861205,
@@ -284,8 +267,7 @@
         "D": "<p>Optik Denge<br /><br /></p>",
         "E": "<p>Ritmik Denge</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861206,
@@ -300,8 +282,7 @@
         "D": "<p>Hareket, zamanlama ve işitsel hiyerarşi</p>",
         "E": "<p>Serbest Hiyerarşi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861209,
@@ -316,8 +297,7 @@
         "D": "<p>Sabit oranlar yasası</p>",
         "E": "<p>Pi sayısı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861180,
@@ -332,8 +312,7 @@
         "D": "<p>Vurgu</p>",
         "E": "<p>Ritim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861190,
@@ -348,8 +327,7 @@
         "D": "<p>Simetrik-asimetrik</p>",
         "E": "<p>Asimetrik-simetrik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861195,
@@ -364,8 +342,7 @@
         "D": "<p>Tekrar-hizalama</p>",
         "E": "<p>Hizalama-boşluklar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861200,
@@ -380,8 +357,7 @@
         "D": "<p>Optik denge</p>",
         "E": "<p>Hiyerarşik denge</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861208,
@@ -396,8 +372,7 @@
         "D": "<p>Tekrar</p>",
         "E": "<p>Hiyerarşi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861181,
@@ -412,8 +387,7 @@
         "D": "<p>Optik denge</p>",
         "E": "<p>Radyal denge</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861192,
@@ -428,8 +402,7 @@
         "D": "<p>Simetrik </p>",
         "E": "<p>Asimetrik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861201,
@@ -444,8 +417,7 @@
         "D": "<p>Boşluklar</p>",
         "E": "<p>Hizalama</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861191,
@@ -460,8 +432,7 @@
         "D": "<p>Mimaride, takı tasarımında, seramik ve porselende, tekstil tasarımlarında yer alır</p>",
         "E": "<p>Bu tasarımlar genellikle figüratif ve nonfigüratiftir ve çiçeklerde, kesiti alınan meyvelerde veya taç yapraklı bitkilerde karşınıza çıkabilir</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3861207,
@@ -476,7 +447,6 @@
         "D": "<p>Optik denge</p>",
         "E": "<p>Kinetik denge</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     }
 ]

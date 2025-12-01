@@ -12,8 +12,7 @@
         "D": "<p>22 Mart 1932</p>",
         "E": "<p>29 Nisan 1920</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256942,
@@ -28,8 +27,7 @@
         "D": "<p>Bu konuda söyleyecek hiçbir söz bulamıyorum.</p>",
         "E": "<p>Durup dururken ne diye bağırdı ki...</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256951,
@@ -44,8 +42,7 @@
         "D": "<p>Aslında sınav çok da zor değildi.</p>",
         "E": "<p>Pasta da istemiyorum tatlı da.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256984,
@@ -60,8 +57,7 @@
         "D": "<p>Bu işi niçin ona teklif etmiyorsunuz?</p>",
         "E": "<p>Bütün gün halk âşıklarının saz çalmalarını hayran hayran seyir ettik.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256988,
@@ -76,8 +72,7 @@
         "D": "<p>hissetmek</p>",
         "E": "<p>seyretmek</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256996,
@@ -92,8 +87,7 @@
         "D": "<p>+DAn</p>",
         "E": "<p>+DAş</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257042,
@@ -108,8 +102,7 @@
         "D": "<p>hüsnü niyet</p>",
         "E": "<p>gayri menkul </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257053,
@@ -124,8 +117,7 @@
         "D": "<p>Yıllarca süregelen davamızda hakim nihayet bugün kararı açıklayacak.</p>",
         "E": "<p>Bireylerdeki varis kaynaklı sağlık sorunları artık çözülebilir durumda.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257853,
@@ -140,8 +132,7 @@
         "D": "<p>iki yüzbin</p>",
         "E": "<p>beşyüz bin</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257902,
@@ -156,8 +147,7 @@
         "D": "<p>ters</p>",
         "E": "<p>bark</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257932,
@@ -172,8 +162,7 @@
         "D": "<p class=\"p1\">II ve III</p> <p class=\"p1\"> </p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257936,
@@ -188,8 +177,7 @@
         "D": "<p class=\"p1\">II ve III</p>\n<p class=\"p1\">&nbsp;</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258065,
@@ -204,8 +192,7 @@
         "D": "<p>19 Mayıs 1919 Ulu Önder Atatürk’ün gençliğe bayram olarak hediye ettiği tarihtir.</p>",
         "E": "<p>Türkiye Büyük Millet Meclisi’nce kabul edilen kanunlar, yetkili kişilerce başvurulması halinde Anayasa Mahkemesi tarafından Anayasa’ya uygunluk yönünden denetlenirler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258075,
@@ -220,8 +207,7 @@
         "D": "<p>Özel addan türetildiği için</p>",
         "E": "<p>Dergi adı olduğu için</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258083,
@@ -236,8 +222,7 @@
         "D": "<p>Sen zaten evde çalışıyorsun, senden önce gelebilmem mümkün değil ki!</p>",
         "E": "<p>Derler ki binlerce işçi çalışmış bu köşkü yapmak için; şimdi hiçbirinin adı bilinmez.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258130,
@@ -252,8 +237,7 @@
         "D": "<p>Nereden aldın elinde ki bardağı?</p>",
         "E": "<p>Yanda ki genç seni sordu.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258137,
@@ -268,8 +252,7 @@
         "D": "<p>I, II, III</p>",
         "E": "<p>II, III, IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258234,
@@ -284,8 +267,7 @@
         "D": "Bütün cümleler ile şiirlerde dizelerin yazımı",
         "E": "İki noktadan sonra veya tırnak içinde verilen cümlelerin ilk kelimesinin yazımı",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258289,
@@ -300,8 +282,7 @@
         "D": "<p>Bir gökyüzü genişliğiyle ruhuma dolar / Otların içine sırtüstü yatmanın tadı</p>",
         "E": "<p>Hakkınız var, güzel değildir ihtimal / Mübalağa sanatı kadar</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258295,
@@ -316,8 +297,7 @@
         "D": "<p>Sisteme giriş yapmadan önce kaydolman gerekiyor.</p> ",
         "E": "<p>Arkadaşımın böbrek nakli gelecek hafta gerçekleştirilecek</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256917,
@@ -332,8 +312,7 @@
         "D": "<p>Yanız III</p>",
         "E": "<p>II, III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256930,
@@ -348,8 +327,7 @@
         "D": "<p>ünsüz uyumu</p>",
         "E": "<p>Küçük ünlü uyumu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256975,
@@ -364,8 +342,7 @@
         "D": "<p>Geçmişteki hatalardan ders alınabiliyorsa, olanlar için üzülmeye hacet yok.</p>",
         "E": "<p>Gerçek demokrasilerde güçler ayrılığı ilkesi hâkim olmalıdır ki iktidarın hukuk dışı yollara başvurması engellenebilsin.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257004,
@@ -380,8 +357,7 @@
         "D": "<p>İkilemelerin yazımı</p>",
         "E": "<p>Ünlü küçülmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257013,
@@ -396,8 +372,7 @@
         "D": "<p>Diğer ülkelerde bulunan doğal güzelliklere göre Türkiye'ninkiler daha güzel.</p>",
         "E": "<p>Derlerki bugünün işini yarına bırakma.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257014,
@@ -412,8 +387,7 @@
         "D": "<p>Sorumlu tutulabilirliğin yerini alması gereken sözcük değiştirilebilirlik olmalıdır. </p>",
         "E": "<p>İnsan davranışlarında özgür iradenin yeri, eski ve hararetli bir tartışma konusudur.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257030,
@@ -428,8 +402,7 @@
         "D": "<p>Cins isimler</p>",
         "E": "<p>Özel isimler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257050,
@@ -444,8 +417,7 @@
         "D": "<p>Seninle anlaşabilmek de m&uuml;mk&uuml;n değil ki!</p>",
         "E": "<p>Farz et ki ben yokmuşum!</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257056,
@@ -460,8 +432,7 @@
         "D": "<p>kesilmek</p>",
         "E": "<p>daralmak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257857,
@@ -476,8 +447,7 @@
         "D": "<p>Yazma</p>",
         "E": "<p>yelek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257906,
@@ -492,8 +462,7 @@
         "D": "<p>hanımeli</p>",
         "E": "<p>imambayıldı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258071,
@@ -508,8 +477,7 @@
         "D": "<p>Sevgili Babacığım</p>",
         "E": "<p>Muhterem dedeciğim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258074,
@@ -524,8 +492,7 @@
         "D": "<p>“Gel, kim olursan ol, yine gel!” demiş Mevlâna.</p> ",
         "E": "<p>Çok şükür, bu iş de bitti; ama gerçekten çok çabaladım.</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258132,
@@ -540,8 +507,7 @@
         "D": "<p>yapayalnız</p>",
         "E": "<p>defter mefter</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258235,
@@ -556,8 +522,7 @@
         "D": "Eğri büğrü",
         "E": "Defter mefter",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258278,
@@ -572,8 +537,7 @@
         "D": "<p>Elimizdeki imkânları kullanmamakta neden direniyoruz?</p>",
         "E": "<p>Bu sorunun çözümü işte o yazıki bunu sen de biliyorsun.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258286,
@@ -588,8 +552,7 @@
         "D": "<p>Bu akşam bizde toplanıyoruz, sende gel.</p>",
         "E": "<p>Sen de benim ödevim vardı, verir misin?</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258300,
@@ -604,8 +567,7 @@
         "D": "<p>Çocukluğumda, bir Arabistan şehrinde ihtiyar bir kadın tanımıştık.</p>",
         "E": "<p>Öğrencilik hayatım boyunca da iş hayatımdaki gibi renkli insanlarla karşılaştım.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258301,
@@ -620,8 +582,7 @@
         "D": "<p>Bu suali okumaktan bıkmadın mı hâlâ?</p> ",
         "E": "<p>Şu topraklarda yatan güneşin doğduğunu görmeyecekmiyim?</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256911,
@@ -636,8 +597,7 @@
         "D": "<p>Oraya ilkbaharda gitmek lazım.</p>",
         "E": "<p>Nasa altı yıl sonra marsa indi.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256916,
@@ -652,8 +612,7 @@
         "D": "<p>Dedemler buraya 1920lerde gelmişler.</p>",
         "E": "<p>IV.üncü Murat ne zaman doğmuştur?</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256938,
@@ -668,8 +627,7 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256945,
@@ -684,8 +642,7 @@
         "D": "<p>Bu düzen <u>alışıla geldiği</u> gibi devam edecek.</p>",
         "E": "<p>Ayşe ne <u>yapar eder</u> seni ikna eder bence.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256970,
@@ -700,8 +657,7 @@
         "D": "<p>\"Niyazi'yle\" şeklinde yazılmalıdır.</p>",
         "E": "<p>\"koyun koyuna\"dan sonra konuşan virgül kaldırılmalıdır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256974,
@@ -716,8 +672,7 @@
         "D": "<p>Yağmurdan dolayı çamur deryasına dönen sokaklarda pantolonum battı.</p>",
         "E": "<p>Bütün gün uğraşıp didindim; ama bir sonuç alamadım.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256976,
@@ -732,8 +687,7 @@
         "D": "<p>Çocuklar, eve nereden geldiği belli olmayan yavru kediye bayılmış, hatta ona Haylaz diye ad koymuşlardı.</p>",
         "E": "<p>Güney sahillerimiz yine her yıl olduğu gibi Alman, Rus, İngiliz turistlerle dolup taşıyor.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257003,
@@ -748,8 +702,7 @@
         "D": "<p>Topkapı sarayı Osmanlı padişahlarının yaşadığı yerdir.</p>",
         "E": "<p>Sınavdan yüz alınca Dünya'lar benim oldu.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257010,
@@ -764,8 +717,7 @@
         "D": "<p>Demirden korksa trene binmez imiş!</p>",
         "E": "<p>Biz burada değil iken çok yaramazlık yaptın mı?</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257904,
@@ -780,8 +732,7 @@
         "D": "<p>modern</p>",
         "E": "<p>romantizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257934,
@@ -796,8 +747,7 @@
         "D": "<p class=\"p1\">II ve III</p> <p class=\"p1\"> </p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257940,
@@ -812,8 +762,7 @@
         "D": "<p class=\"p1\">II ve III</p> <p class=\"p1\"> </p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258080,
@@ -828,8 +777,7 @@
         "D": "<p>suç üstü</p>",
         "E": "<p>bekleye durmak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258175,
@@ -844,8 +792,7 @@
         "D": "<p>Yalnızca beşinci cümlede</p>",
         "E": "<p>Dördüncü cümleyle beşinci cümlede</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258284,
@@ -860,8 +807,7 @@
         "D": "<p>Daha <span style=\"text-decoration: underline;\">ilk okul</span> çağlarındayken keşfetmişti onu müzik öğretmeni.</p>",
         "E": "<p>Bu <span style=\"text-decoration: underline;\">hanımelinin</span> kokusu beni nerelere götürüyor, bir bilsen.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258291,
@@ -876,8 +822,7 @@
         "D": "<p>Geçmişine taş atanın geleceğine gülle atarlar.</p>",
         "E": "<p>Merhametten maraz doğar.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258297,
@@ -892,8 +837,7 @@
         "D": "<p>Yazın çoluk, çocuk bir araya toplanıyor.<br /><br /></p>",
         "E": "<p>Toplantıda her şey açık seçik anlatıldı.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258302,
@@ -908,8 +852,7 @@
         "D": "<p>Doğu Anadolu</p>",
         "E": "<p>Çoban Yıldızı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256910,
@@ -924,8 +867,7 @@
         "D": "<p>Ek Fiilin Yazımı</p>",
         "E": "<p>Yabancı Sözcüklerin Yazımı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256921,
@@ -940,8 +882,7 @@
         "D": "<p>Ünsüz nöbetleşmesi</p>",
         "E": "<p>Ünlü daralması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256943,
@@ -956,8 +897,7 @@
         "D": "<p>Çanakkale Boğazı, Marmara Denizi’ni Ege Denizi’ne bağlar.</p>",
         "E": "<p>Çıplak gözle izlenebilen beş gezegenden biri Satürn’dür.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256946,
@@ -972,8 +912,7 @@
         "D": "<p>Bir saat önce şuraya koymuştum ama yokolmuş.</p>",
         "E": "<p>Onca yaşanandan sonra Ahmet’in art niyetli biri olduğundan eminim.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256952,
@@ -988,8 +927,7 @@
         "D": "<p>Sen hâlâ başlamadın mı ders çalışmaya?</p>",
         "E": "<p>Çocuk musun sen?</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256999,
@@ -1004,8 +942,7 @@
         "D": "<p>Göğsü daraldı.</p>",
         "E": "<p>Ağzı yamuldu.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257027,
@@ -1020,8 +957,7 @@
         "D": "<p>1927</p>",
         "E": "<p>1928</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257036,
@@ -1036,8 +972,7 @@
         "D": "<p>Muhterem dedeciğim</p>",
         "E": "<p>saygıdeğer meslektaşlar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257058,
@@ -1052,8 +987,7 @@
         "D": "<p>hak</p>",
         "E": "<p>kan</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257856,
@@ -1068,8 +1002,7 @@
         "D": "<p>Beni anlıyormusun?</p>",
         "E": "<p>Güneşin doğduğunu hiç görmeyecekmiyim?</p>  ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257909,
@@ -1084,8 +1017,7 @@
         "D": "<p> Açıköğretim Fakültesi</p>",
         "E": "<p>Genelkurmay</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258136,
@@ -1100,8 +1032,7 @@
         "D": "<p>Televizyon izlemekten sıkılmadın mı hâlâ</p>",
         "E": "<p>İstiyor musun, istemiyor musun</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258170,
@@ -1116,8 +1047,7 @@
         "D": "<p>Dördüncü cümleyle beşinci cümlede</p>",
         "E": "<p>Yalnızca beşinci cümlede</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258287,
@@ -1132,8 +1062,7 @@
         "D": "<p>Yüzünüze dokunduğunuzu fark ettiğinizde bir dakika süre boyunca ellerinizi birbirine kenetleyerek sıkıca tutabilirsiniz.</p>",
         "E": "<p>Kaşınan birisi gördüğünüzde dikkat odağınızı dağıtmak adına başka bir şeyle ilgilenmeniz daha akılcı olacaktır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258288,
@@ -1148,8 +1077,7 @@
         "D": "<p>Ben yıllardır denize hasret / Bakar ağlarım.</p>",
         "E": "<p>Kaybolmak üzere suya düşen bilezik; / Bak, bütün kırışıklar silindi sudan.</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256928,
@@ -1164,8 +1092,7 @@
         "D": "<p>Elbette Avrupa ülkelerinde konuşulan Türkçe, Türkiye’dekinden farklı şartlar altında varlığını devam ettirmekte, kendine has kimi özellikler geliştirmektedir.</p>",
         "E": "<p>Derler ki binlerce işçi çalışmış bu köşkü yapmak için; şimdi hiçbirinin adı bilinmez.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256931,
@@ -1180,8 +1107,7 @@
         "D": "<p>tren hattı</p>",
         "E": "<p>deli gönlüm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256964,
@@ -1196,8 +1122,7 @@
         "D": "<p>XIX. yüzyıl edebiyatçılarını hatırlattı.</p>",
         "E": "<p>Beşyüzbin lirayı alıp kaçmış.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256972,
@@ -1212,8 +1137,7 @@
         "D": "<p>Yasak bölge</p>",
         "E": "<p>Nene hatun</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256982,
@@ -1228,8 +1152,7 @@
         "D": "<p>Bugüne kadarki tecrübelerime dayanarak diyebilirim ki, her <span style=\"text-decoration: underline;\">rengin</span> alıcısı var.</p>",
         "E": "<p>Umudu da <span style=\"text-decoration: underline;\">umutsuzluğu</span> da yaşadım; ancak hiçbir zaman yılgınlığa kapılmadım.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257019,
@@ -1244,8 +1167,7 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257854,
@@ -1260,8 +1182,7 @@
         "D": "<p>Elimizde ki imkanlar bu kadar.</p>",
         "E": "<p>Derlerki binlerce insan ölmüş bu savaşı kazanmak için.</p>  ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257905,
@@ -1276,8 +1197,7 @@
         "D": "<p>şükretmek</p> ",
         "E": "<p>niçin</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257937,
@@ -1292,8 +1212,7 @@
         "D": "<p class=\"p1\">II ve III</p> <p class=\"p1\"> </p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258079,
@@ -1308,8 +1227,7 @@
         "D": "<p>bekleyedurmak</p>",
         "E": "<p>okuyagelmek</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258178,
@@ -1324,8 +1242,7 @@
         "D": "<p> Üçüncü cümleyle beşinci cümlede</p> ",
         "E": "<p>Yalnız beşinci cümlede</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258280,
@@ -1340,8 +1257,7 @@
         "D": "B-P",
         "E": "Ğ-K",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258285,
@@ -1356,8 +1272,7 @@
         "D": "<p>O hiç pastadan yemediki tadını bilsin.</p>",
         "E": "<p>Elindeki işi bırak ve bana yardım et.</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256924,
@@ -1372,8 +1287,7 @@
         "D": "<p>Tabela, levha gibi yazılarda sözcüklerin ilk harfi büyük yazılır.</p>",
         "E": "<p>Türkçeye eskiden yerleşen yabancı isimler söylendiği gibi yazılır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256961,
@@ -1388,8 +1302,7 @@
         "D": "<p>ağlıyor</p>",
         "E": "<p>gelmiyen</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257020,
@@ -1404,8 +1317,7 @@
         "D": "<p>Haftasonu <span style=\"text-decoration: underline;\">gardıropt</span>aki fazla eşyalarımı attım.</p>",
         "E": "<p>Dilimize son yıllarda birçok farklı yabancı <span style=\"text-decoration: underline;\">terim</span> geçmektedir</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257021,
@@ -1420,8 +1332,7 @@
         "D": "<p>Şu an kendimi pek iyi hissetmiyorum</p>",
         "E": "<p>Ona ulaşamayınca başına bir şey geldi zannettim.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257040,
@@ -1436,8 +1347,7 @@
         "D": "<p>su çiçeği</p>",
         "E": "<p>dilber dudağı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257057,
@@ -1452,8 +1362,7 @@
         "D": "<p>gözlemek</p>",
         "E": "<p>sevilmek</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257859,
@@ -1468,8 +1377,7 @@
         "D": "<p>kurt</p>",
         "E": "<p>tokat</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257907,
@@ -1484,8 +1392,7 @@
         "D": "<p>çıtkırıldım</p>",
         "E": "<p>dedikodu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257933,
@@ -1500,8 +1407,7 @@
         "D": "<p class=\"p1\">II ve III</p> <p class=\"p1\"> </p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258135,
@@ -1516,8 +1422,7 @@
         "D": "<p>Çay da içmek istemiyorum kahve de.</p>",
         "E": "<p>İşin doğrusu yemek çok da acı değil.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258173,
@@ -1532,8 +1437,7 @@
         "D": "<p>Yalnızca d&ouml;rd&uuml;nc&uuml; c&uuml;mlede</p>",
         "E": "<p>&Uuml;&ccedil;&uuml;nc&uuml; c&uuml;mleyle d&ouml;rd&uuml;nc&uuml; c&uuml;mlede</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258174,
@@ -1548,8 +1452,7 @@
         "D": "<p>Yalnızca dördüncü cümlede</p>",
         "E": "<p>Üçüncü cümleyle beşinci cümlede</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258233,
@@ -1564,8 +1467,7 @@
         "D": "7 Kasım 1929",
         "E": "11 Nisan 1926",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258704,
@@ -1580,8 +1482,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256927,
@@ -1596,8 +1497,7 @@
         "D": "<p>Bütün ikilemeler ayrı ve araya herhangi bir noktalama işareti konulmadan yazılır.</p>",
         "E": "<p>İsim veya fiil soylu yüklemlere, ek fiilin çekimli idi, imiş veya ise biçimleri getirildiğinde bunlar ayrı veya bitişik yazılabilir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256959,
@@ -1612,8 +1512,7 @@
         "D": "<p>hanımeli</p>",
         "E": "<p>yokolmak</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257858,
@@ -1628,8 +1527,7 @@
         "D": "<p>garip</p>",
         "E": "<p>karargah</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257900,
@@ -1644,8 +1542,7 @@
         "D": "<p>1976</p>",
         "E": "<p>1985</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258069,
@@ -1660,8 +1557,7 @@
         "D": "<p>Ee ne demişler: Evdeki hesap çarşıya uymaz. Kardeşim, ayağını yorganına göre uzatki sonra sen rahat edesin!</p>",
         "E": "<p>Nihayet diplomayı alıyorum. İçim öyle sevinçle dolu, yüreğim öyle kıpır kıpır ki sanki içimde bir güvercin kanat çırpıyor.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258081,
@@ -1676,8 +1572,7 @@
         "D": "<p>tuz ruhu</p>",
         "E": "<p>kuruincir</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258084,
@@ -1692,8 +1587,7 @@
         "D": "<p>Öyle ki, Yorgi bir gün: - Yahu çocuklar, demişti, ay ışığında futbol oynamak<br />kıyak mı kıyak olacak!</p>",
         "E": "<p>İyisi mi, yarından tezi yok, keşişin izini tutup gidelim; kader, kısmetse bir gün<br />olur arkalarından yetişiriz.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258134,
@@ -1708,8 +1602,7 @@
         "D": "<p>âşık</p>",
         "E": "<p>yadigâr</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258185,
@@ -1724,8 +1617,7 @@
         "D": "Belli bir kural yoktur. Bitişik ya da ayrı yazılabilir.",
         "E": "Bitişik ancak sözcüklerin ilk harfleri büyük yazılır (Örnek: KuzeyDoğu)",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258296,
@@ -1740,8 +1632,7 @@
         "D": "<p>Alt kurul</p>",
         "E": "<p>Arka plan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256935,
@@ -1756,8 +1647,7 @@
         "D": "<p>Sınıftakilerin tümü dışarı çıksın.</p>",
         "E": "<p>Üstüme o kadar çok düşüyorsunuz ki bazen bunalıyorum.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256948,
@@ -1772,8 +1662,7 @@
         "D": "<p>Konsolosluktan iki memur geliyor ve neyi vardı, ne ile geldi diye eşyalarına el koymak istiyorlarsa da Hatice <span style=\"text-decoration: underline;\">hanım</span> “Ne ile yolladınız ki ne istiyorsunuz? Biz de âdettir, ölenin eşyaları fakire fukaraya dağıtılır.” diyor. (Sâmiha Ayverdi, Hey Gidi Günler Hey)</p>",
         "E": "<p>Türk milleti Kurtuluş <span style=\"text-decoration: underline;\">savaşı</span> yıllarında yedi düvele karşı büyük mücadeleler vermiş ve bunda da başarılı olmuştur.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256965,
@@ -1788,8 +1677,7 @@
         "D": "<p>Ben, şu topraklarda yatan güneşin - bir gün olsun - doğduğunu görmeyecekmiyim? (Namık Kemal, Gülnihal)</p>",
         "E": "<p>Yanındakine dönüp ertesi gün gösteriye katılacakmısın diye sorarken göz göze geldik.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256981,
@@ -1804,8 +1692,7 @@
         "D": "<p>Çocuklar, “Ders çalışacağız.” diye beni kandırıp sinemaya kaçmış. Günümüz çocukları işte!</p>",
         "E": "<p>Babam dün dedemi de ziyarete gitti, dedem de babamdan habersiz bize geldi.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256991,
@@ -1820,8 +1707,7 @@
         "D": "<p>hastaymış</p>",
         "E": "<p>1960’lı yıllar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257032,
@@ -1836,8 +1722,7 @@
         "D": "<p>Dede korkut</p>",
         "E": "<p>Şeyh Galibin</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257047,
@@ -1852,8 +1737,7 @@
         "D": "<p>Dosdoğru eve gel, sakın geç kalma!</p>",
         "E": "<p>Teslim olun, etrafınız çepeçevre sarıldı.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257852,
@@ -1868,8 +1752,7 @@
         "D": "<p>falanfilan</p>",
         "E": "<p>kapkaranlık </p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258072,
@@ -1884,8 +1767,7 @@
         "D": "<p>Hastalanmaya gör. Doktor, ilaç, hastane derken insanın doğrusu ya anası ağlıyor, arkadaş!</p> ",
         "E": "<p>Gün boyu uyumayan bebek, akşam babası gelip de onu arabayla gezdirmek için arabaya bindirince anında gözlerini kapamıştı.</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258298,
@@ -1900,8 +1782,7 @@
         "D": "<p>Yeğenimin elinden düşürdüğü tabak param parça oldu.</p>",
         "E": "<p>Yalanı ortaya çıkınca yüzü kıp kırmızı kesildi.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256937,
@@ -1916,8 +1797,7 @@
         "D": "<p>Yepyeni bir hizmet ya da mal üretmek için düşünmeye başlamışlar.</p>",
         "E": "<p>Ben olacakları önceden söyledim de dinleyen kim?</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256966,
@@ -1932,8 +1812,7 @@
         "D": "<p>Karanlığın içinden Emine’nin beyaz dişleri iki sır sedef taneleri gibi parlıyor. (Yakup Kadri, Yaban)</p>",
         "E": "<p>Kendimi hiç de eksik hissetmiyorum. (Ayşe Kulin, Türkan)</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256994,
@@ -1948,8 +1827,7 @@
         "D": "<p>kâmil insan</p>",
         "E": "<p>dergâh önü</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257009,
@@ -1964,8 +1842,7 @@
         "D": "<p>Gece sınava &ccedil;alışırken uyuya kalmışım.</p>",
         "E": "<p>Okulda &ouml;ğrencilere su &ccedil;i&ccedil;eği aşısı yapılmış.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257035,
@@ -1980,8 +1857,7 @@
         "D": "<p>Dahillik anlamı veren '-de' bağlacı</p>",
         "E": "<p>İkileme yapan '-mi' eki</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257045,
@@ -1996,8 +1872,7 @@
         "D": "<p>Çocuklar bahçede buldukları yavru köpeğe bayılmış ve ona Bulut ismini takmışlardı.</p>",
         "E": "<p>Türkiye Büyük Millet Meclisi’nce kabul edilen kanunlar, başvuru halinde Anayasa Mahkemesi tarafından Anayasa’ya uygunluk yönünden denetlenirler.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257051,
@@ -2012,8 +1887,7 @@
         "D": "<p>Bütün gece boşu boşuna sizi beklemişler, belki gelirsiniz diye ümit etmişler.</p>",
         "E": "<p>Beklenmedik işin çıktı, anladık; ne var ki biz de burada seni bekleye bekleye harap olduk!</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258232,
@@ -2028,8 +1902,7 @@
         "D": "Yazı dilinin kuralları daha yavaş değişir.",
         "E": "Yazı dili her nesil kendine göre değiştirmemelidir.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258283,
@@ -2044,8 +1917,7 @@
         "D": "<p>İngiltere Başbakanı Boris Johnson, &ldquo;bu pandemiyi yenmek i&ccedil;in s&uuml;r&uuml; bağışıklığı sistemini kullanacağız&rdquo; dedi.</p>",
         "E": "<p>Bu bilgileri <em>T&uuml;rk&ccedil;enin sesleri</em> kitabından yararlanarak toparladım.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256949,
@@ -2060,8 +1932,7 @@
         "D": "<p>Merve’nin getirdiği biraz tuzlu olmuş, Aslı’nınki daha lezzetli.</p>",
         "E": "<p>Biz dürüst davranalım ki gençlere örnek olsun.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256954,
@@ -2076,8 +1947,7 @@
         "D": "<p>Chaykovsky</p>",
         "E": "<p>Rio de Jeneryo</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256962,
@@ -2092,8 +1962,7 @@
         "D": "<p>fizik ötesi</p>",
         "E": "<p>alt yazı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257000,
@@ -2108,8 +1977,7 @@
         "D": "<p>Akşam film seyir ettim.</p>",
         "E": "<p>Seminere on kişi kaydoldu.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257911,
@@ -2124,8 +1992,7 @@
         "D": "<p> haftabaşı</p>",
         "E": "<p>ayak üzeri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258070,
@@ -2140,8 +2007,7 @@
         "D": "<p>Yarın erkenden yolculuk başlayacak. Haydi yatağa!</p> ",
         "E": "<p>Yarın düğünümüz var. Konuklara meyvenin ve sebzenin en tazesini sunmak için babamlar pazara gittiler.</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258708,
@@ -2156,8 +2022,7 @@
         "D": "<p>Ne yaptığını anlaya bilmek için uğraşıp durdum.</p> ",
         "E": "<p>Akşam eve giderken anneme de bir uğrayıversen ne iyi olur.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256926,
@@ -2172,8 +2037,7 @@
         "D": "<p>Ara yönleri bildiren sözcükler ile artık somut yer bildirmeyen alt, üst, üzeri sözcükleriyle kurulan birleşik sözcükler bitişik yazılır.</p>",
         "E": "<p>Dilimize Arapça ve Farsçadan geçen, tek sözcük gibi düşünülen tamlamalar bitişik yazılır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256933,
@@ -2188,8 +2052,7 @@
         "D": "<p>Yeni yasa Resmi gazetede yayımlanarak yürürlüğe girdi.</p>",
         "E": "<p>Yurdumuzun Doğusu’nda kar yağışı başladı.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256993,
@@ -2204,8 +2067,7 @@
         "D": "<p>Murat’ın sunumu benimkinden daha güzel olmuş.</p>",
         "E": "<p>Öğrendiklerimizi yazıya dökelimki kalıcı olsun.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257023,
@@ -2220,8 +2082,7 @@
         "D": "<p>&Ccedil;oluk &ccedil;ocuk var demeyip hepsi kumsallara akın etmişti.</p>",
         "E": "<p>Kutup ayılarının soyu yok olmaktadır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257026,
@@ -2236,8 +2097,7 @@
         "D": "<p>III ve IV</p>",
         "E": "<p>II ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258077,
@@ -2252,8 +2112,7 @@
         "D": "<p>suçiçeği </p>",
         "E": "<p>dilberdudağı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258172,
@@ -2268,8 +2127,7 @@
         "D": "<p>D&ouml;rd&uuml;nc&uuml; c&uuml;mleyle beşinci c&uuml;mlede</p>",
         "E": "<p>Yalnızca beşinci c&uuml;mlede</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256979,
@@ -2284,8 +2142,7 @@
         "D": "<p>Gençler arasında kitap okuma oranının düşmesi, bilgisayarların olumsuz etkileri arasında gösterilebilir.</p>",
         "E": "<p>Dondurma almaya parası olmayan küçüğün avucuna iki lira koyduğumda, o minik gözlerinde beliren mutluluğu asla unutmayacağım.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256990,
@@ -2300,8 +2157,7 @@
         "D": "<p>hanım eli</p>",
         "E": "<p>içli köfte</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256997,
@@ -2316,8 +2172,7 @@
         "D": "<p>öç almak</p>",
         "E": "<p>kalem ucu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257011,
@@ -2332,8 +2187,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>Yalnız III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257033,
@@ -2348,8 +2202,7 @@
         "D": "<p>Dede korkut</p>",
         "E": "<p>Yüzbaşı Cengiz Topel</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257041,
@@ -2364,8 +2217,7 @@
         "D": "<p>Açık öğretim Fakültesi</p>",
         "E": "<p>Osmaneli</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258131,
@@ -2380,8 +2232,7 @@
         "D": "<p>I, II, IV</p>",
         "E": "<p>II, III, IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258243,
@@ -2396,8 +2247,7 @@
         "D": "Bağımsız kullanılamaz.",
         "E": "Ekleştirilerek kullanılır.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256913,
@@ -2412,8 +2262,7 @@
         "D": "<p>Yalnız III</p>",
         "E": "<p>III, IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256914,
@@ -2428,8 +2277,7 @@
         "D": "<p>Gayri meşru</p>",
         "E": "<p>Çokhücreli</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256934,
@@ -2444,8 +2292,7 @@
         "D": "<p>Sen de <u>tıpa tıp</u> onlara benzersin.</p>",
         "E": "<p><u>Pisi pisine</u> yok olur gidersin.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256978,
@@ -2460,8 +2307,7 @@
         "D": "<p>Yolculuğa çıkılacak saat belli, öyleyse ne diye geç kalınırki?</p>",
         "E": "<p>Beklenmedik işin çıktı, anladık; ne var ki biz de burada seni bekleye bekleye harap olduk!</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257006,
@@ -2476,8 +2322,7 @@
         "D": "<p>Akşam yemeğinde imam bayıldı ve pirinç pilavı var.</p>",
         "E": "<p>Hayatımda hiç bu kadar çıt kırıldım bir insan görmemiştim.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257018,
@@ -2492,8 +2337,7 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257029,
@@ -2508,8 +2352,7 @@
         "D": "<p>Bir türlü kitabımı bulamıyordum.</p>",
         "E": "<p>Ondaki yaşam sevinci kimsede yoktu.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258066,
@@ -2524,8 +2367,7 @@
         "D": "<p>Dede Korkut</p>",
         "E": "<p>hala Sultan</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256918,
@@ -2540,8 +2382,7 @@
         "D": "<p>düzeltme işaretinin kullanılmaması</p>",
         "E": "<p>kesme işaretinin kullanılmaması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256941,
@@ -2556,8 +2397,7 @@
         "D": "<p>Herkes, onun yolunu gözlüyor.</p>",
         "E": "<p>Yanında bir arkadaşını getiriyor.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256944,
@@ -2572,8 +2412,7 @@
         "D": "<p>şüküretmek</p>",
         "E": "<p>kayıdolmak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257001,
@@ -2588,8 +2427,7 @@
         "D": "<p>1928</p>",
         "E": "<p>1930</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257850,
@@ -2604,8 +2442,7 @@
         "D": "<p>1932</p>",
         "E": "<p>1941</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257912,
@@ -2620,8 +2457,7 @@
         "D": "<p>takma kirpik</p>",
         "E": "<p>ardı sıra</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258279,
@@ -2636,8 +2472,7 @@
         "D": "Ek olan de, Türkçedeki ünsüz uyumu kuralına uyar.",
         "E": "Bağlaç olan de, cümleden çıkarıldığında anlam bozulmaz.",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258290,
@@ -2652,8 +2487,7 @@
         "D": "<p>Bedava yaşıyoruz, bedava; / Hava bedava, bulut bedava;</p>",
         "E": "<p>Kim görmüş beni / Süheyla'yla sandala binerken?</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256985,
@@ -2668,8 +2502,7 @@
         "D": "<p>Gençler sanıyorlar ki ana babaları hep yanlarında olacak, kendileri ise çalışmıyarak, çabalamıyarak gönüllerince yaşayacaklar.</p>",
         "E": "<p>Bana öyle geliyor ki yakın gelecekte basılı kitap tamamen ortadan kalkacak.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258129,
@@ -2684,8 +2517,7 @@
         "D": "<p>I, II, III</p>",
         "E": "<p>I, II, IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258241,
@@ -2700,8 +2532,7 @@
         "D": "Ek fiilin yazımı",
         "E": "Geniş zaman çekimli fiillerin yazımı",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256958,
@@ -2716,8 +2547,7 @@
         "D": "<p>yanıt &gt; yanıdı</p>",
         "E": "<p>dert &gt; derdi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257048,
@@ -2732,8 +2562,7 @@
         "D": "<p>Bana yüz elli lira borç verir misin?</p>",
         "E": "<p>Bu yıl devletin bütçesinden savunmaya ayrılan pay 120 milyon 745 bin tl olarak açıklandı.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258078,
@@ -2748,8 +2577,7 @@
         "D": "<p>Bütün gün halk âşıklarının saz çalmalarını hayran hayran seyir ettik.</p>",
         "E": "<p>Bir ömür çalışıp da elde ettiklerimizi bu kadar çabuk yitirmemiz çok hazin!</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3417893,
@@ -2764,8 +2592,7 @@
         "D": "<p>Bu okulda geçirdiğimiz yılları sen de düşünmüyor musun ara ara?</p>",
         "E": "<p>Bu işi kabul edip etmeyeceğini ona da sordun mu ki?</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256956,
@@ -2780,8 +2607,7 @@
         "D": "<p>âşık</p>",
         "E": "<p>vâris</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258076,
@@ -2796,8 +2622,7 @@
         "D": "<p>Kadının çalışma dünyasına katılmasına kesinlikle evet diyorum! Ancak yine de minicik yavruların sabahın köründe servis arabalarıyla kreşlere, anaokullarına taşınmasına insanın içi yanıyor.</p> ",
         "E": "<p>Ne yesem yarıyor. Kimileri var benim yediğimin on katını yiyor, yine de kilo falan almıyor. Öylelerine öyle imreniyorum ki!</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257054,
@@ -2812,8 +2637,7 @@
         "D": "<p>Dondurma almaya parası olmayan küçüğün avucuna iki lira koyduğumda, o minik gözlerinde beliren mutluluğu asla unutmayacağım.</p>",
         "E": "<p>Gençler arasında kitap okuma oranının düşmesi, bilgisayarların olumsuz etkileri arasında gösterilebilir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258133,
@@ -2828,8 +2652,7 @@
         "D": "<p>THY’deki tüm uçuşlar iptal mi edildi?</p>",
         "E": "<p>Anadolu Üniversitesi birçok ilke imza atan bir kurumdur.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257016,
@@ -2844,8 +2667,7 @@
         "D": "<p>Ne yazık ki bugün Müslümanlığın olduğu coğrafyalara savaş hakim</p>",
         "E": "<p>Dünyada en çok konuşulan dillerin başında Çince geliyor.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258067,
@@ -2860,8 +2682,7 @@
         "D": "<p>Kapkara bir geceden gündüze çıkmak nasıl da güzeldir...</p>",
         "E": "<p>Senin musmutlu bir evliliğinin olmasını çok isterdi.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258068,
@@ -2876,8 +2697,7 @@
         "D": "<p>Dün akşamki kötü haberi alınca vaktin geç olmasına bakmadan yola koyulmuş.</p> ",
         "E": "<p>Bütün gece boşu boşuna sizi beklemişler, belki gelirsiniz diye ümit etmişler.             </p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258294,
@@ -2892,8 +2712,7 @@
         "D": "<p>İşsizlik oranlarındaki yüksek artış ekonomik krizin habercisidir.</p>",
         "E": "<p>Son zamanlarda pisikoloji kitaplarına ilgili duymaya başladım.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256908,
@@ -2908,8 +2727,7 @@
         "D": "<p>I, II</p>",
         "E": "<p>I, II, III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256920,
@@ -2924,8 +2742,7 @@
         "D": "<p>TBBM’ ne</p>",
         "E": "<p>TC’ ye</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256940,
@@ -2940,8 +2757,7 @@
         "D": "<p>Aya haber sal çıksın bu gece, yaşamak istiyorum gençliğimi yeni baştan.</p>",
         "E": "<p>Uzak bir sevgiden her ne kalmışsa, unutuldu ve duruldu kalbimiz.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257025,
@@ -2956,8 +2772,7 @@
         "D": "<p>Bir şansım olsa 1940lı yıllarda yaşamak isterdim.</p>",
         "E": "<p>1990'a baktığımızda toplum yapsında ciddi değişimler g&ouml;r&uuml;l&uuml;r.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257044,
@@ -2972,8 +2787,7 @@
         "D": "<p>madensuyu</p>",
         "E": "<p>haftabaşı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258138,
@@ -2988,8 +2802,7 @@
         "D": "<p>kahve keyfî</p>",
         "E": "<p>tarihî belge</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258299,
@@ -3004,8 +2817,7 @@
         "D": "<p>Avrupa ülkelerinde Türkçe, Türkiye’dekinden farklı şartlar altında varlığını devam ettiriyor.</p> ",
         "E": "<p>Derler ki binlerce işçi çalışmış bu köşkü yapmak için; şimdi hiçbirinin adı bilinmez.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3256939,
@@ -3020,8 +2832,7 @@
         "D": "<p>Arabanın <u>lastiklerinin</u> inik olduğunu fark etmemişti bile.</p>",
         "E": "<p>Seninle <u>meslektaşız </u>demek, diye karşısındaki adamı uzun uzun süzdü.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258082,
@@ -3036,8 +2847,7 @@
         "D": "<p>onunki</p>",
         "E": "<p>kâğıt</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257939,
@@ -3052,8 +2862,7 @@
         "D": "<p class=\"p1\">II ve III</p> <p class=\"p1\"> </p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3257938,
@@ -3068,8 +2877,7 @@
         "D": "<p class=\"p1\">II ve III</p> <p class=\"p1\"> </p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258073,
@@ -3084,8 +2892,7 @@
         "D": "<p>Günler ne çabuk geçiyor yahu! Bir bakıyorsunuz Pazartesi, bir bakıyorsunuz Cuma olmuş. Ama giden gün ömürden gitmiş. İnsan bunun farkında değil.</p> ",
         "E": "<p>Yıllar sonra lise arkadaşlarımızla buluştuk. Kimler gelmemişti ki? Lisedeyken en samimi arkadaşımı, Haluğu orada gördüm.</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3258292,
@@ -3100,7 +2907,66 @@
         "D": "<p>Gönlünü fetheden kişi gönül verdiğin kişi mi?</p>",
         "E": "<p>Göğüs hastalıkları uzmanı göğsünü muayene etti.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3258293,
+        "UniteNo": 3,
+        "PageNumber": 57,
+        "AnswerExplanation": "<p>Birtakım kısaltmaların tamamı büyük harfle yazılır. DNA kısaltmasının tamamının harfleri büyük olarak yazılmalıdır. Doğru cevap B seçeneğidir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisinde büyük harf kullanımı konusunda bir yazım yanlışı yapılmıştır?</p>",
+        "A": "<p>O da dosyayı, Cenevre’deki İnsan Hakları Yüksek Komisyonu’na vermiş.</p>",
+        "B": "<p>Dilimizin kimliğimizi ele verir ama Dna’nınki kadar kesin olamaz.</p>  ",
+        "C": "<p>Hatice Hanım “Biz de âdettir, ölenin eşyaları fakire fukaraya dağıtılır.” diyor.</p>",
+        "D": "<p>Annem uyumuştu ama biz kardeşim Niyazi’yle usul usul konuşuyorduk.</p>",
+        "E": "<p>Pek çok savaşa girip, çıktık; baskınlara uğradık; baskınlar yaptık. </p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3257855,
+        "UniteNo": 3,
+        "PageNumber": 65,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">&ldquo;Sosyolojide bildiğim tek şey, hi&ccedil;bir şey bilmediğimdir<em>.</em>&rdquo; ifadesi doğrudur. Doğru yanıt A&rsquo;dır.</p>",
+        "Title": "",
+        "Text": "-da bağlacının yazımı aşağıdakilerin hangisinde doğru verilmiştir?",
+        "A": "<p>Sosyolojide bildiğim tek şey, hi&ccedil;bir şey bilmediğimdir<em>.</em></p>",
+        "B": "<p>Olayın Fransadada yankısı a&ccedil;ık&ccedil;a g&ouml;r&uuml;l&uuml;yordu.</p>",
+        "C": "<p>Sende mi beni anlamıyorsun?</p>",
+        "D": "<p>Kitabın ben de kalmış.</p>",
+        "E": "<p>Ev de kimse var mı?</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3256987,
+        "UniteNo": 3,
+        "PageNumber": 57,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Türkçede büyük harfin kullanıldığı belli başlı yerler şunlardır: Bütün özel isimler büyük harfle başlatılır, iki noktadan sonraki cümlenin ilk kelimesi büyük harfle başlar, kısaltmaların hepsi ve bir kısmı büyük harfle yazılır, şiirlerde dizeler büyük harfle başlar, bütün cümleler büyük harfle başlar, tırnak içinde verilen cümlelerin ilk kelimesi büyük harfle başlar, unvanlar ve hitap sonrası kullanılan unvanlar büyük harfle yazılır, kitap, dergi gibi çalışmalarda yazı başlıklarının ilk harfleri büyük yazılır, özel adlardan türetilen bütün sözcükler büyük harfle yazılır, tabela ve levha gibi yazılarda sözcüklerin ilk harfi büyük yazılır. Oysa noktalı virgülden sonra (özel isim gibi büyük harfi gerektiren bir kullanım olmadığı sürece) büyük harf kullanılmaz. Doğru cevap B’dir.</p>",
+        "Title": "",
+        "Text": "<p>Türkçede büyük harf kullanımı ile ilgili aşağıda verilen bilgilerden hangisi <strong>yanlıştır?</strong></p>",
+        "A": "<p>Bütün özel isimler büyük harfle başlatılır.</p>",
+        "B": "<p>Noktalı virgülden sonra büyük harfle başlanır.</p>",
+        "C": "<p>İki noktadan sonraki cümlenin ilk kelimesi büyük harfle başlar.</p>",
+        "D": "<p>Kısaltmaların hepsi ve bir kısmı büyük harfle yazılır.</p>",
+        "E": "<p>Şiirlerde dizeler büyük harfle başlar.</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3257851,
+        "UniteNo": 3,
+        "PageNumber": 61,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">&ldquo;Hafta başı&rdquo; s&ouml;zc&uuml;ğ&uuml; ayrı yazılmalıdır. Doğru yanıt D&rsquo;dir.</p>",
+        "Title": "",
+        "Text": "Aşağıdaki s&ouml;zc&uuml;klerin hangisinin yazımı <strong>yanlıştır</strong>?",
+        "A": "<p>k&ouml;pek balığı</p>",
+        "B": "<p>halk bilimi</p>",
+        "C": "<p>Kuzey kutbu</p>",
+        "D": "<p>Haftabaşı</p>",
+        "E": "<p>Kutup Yıldızı</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Analog çizimler.</p> ",
         "E": "<p>Önceden belirlenmiş statik modeller.</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832526,
@@ -28,8 +27,7 @@
         "D": "<p>Sketchpad, gra­fiksel kullanıcı arayüzü (GUI).</p> ",
         "E": "<p>CAD (Bilgisayar Destekli Tasarım).</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832528,
@@ -44,8 +42,7 @@
         "D": "<p>Bilgisayar Destekli Üretim (CAM).</p>",
         "E": "<p>Gerçek Zamanlı Veri Analizi.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832531,
@@ -60,8 +57,7 @@
         "D": "<p>Seçilim.</p> ",
         "E": "<p>Çaprazlama.</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832533,
@@ -76,8 +72,7 @@
         "D": "<p>Çaprazlama.</p> ",
         "E": "<p>Mutasyon.</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832538,
@@ -92,8 +87,7 @@
         "D": "<p>Trafik yönetimini tamamen insan müdahalesi olmadan gerçekleştirir.</p> ",
         "E": "<p>Sadece geleneksel bina formlarını önerir.</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832541,
@@ -108,8 +102,7 @@
         "D": "<p>Yalnızca tasarımcıların belirlediği özelliklere göre sabit sistemler oluşturmasıdır.</p>",
         "E": "<p>Kullanıcıların bireysel ihtiyaçları, tercihleri ve davranışlarına uygun şekilde uyarlanmasıdır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832543,
@@ -124,8 +117,7 @@
         "D": "<p>Kullanıcıların manuel olarak tercihlerini belirlemesini gerektiren bir süreç olmasıdır.</p>",
         "E": "<p>Sadece sosyal medya platformlarında kullanılan bir yöntem olmasıdır.</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832547,
@@ -140,8 +132,7 @@
         "D": "<p>Verilerin rastgele işlenmesini sağlayarak kişisel bilgilerin korunmasına katkıda bulunur.<br /><br /></p> ",
         "E": "<p>Algoritmaların hata yapma olasılığını artırır.</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832549,
@@ -156,7 +147,6 @@
         "D": "<p>Büyük veri setlerinin güvenlik önlemlerine ihtiyaç duyması.</p>",
         "E": "<p>Siber güvenlik tehditleri ve veri ihlalleri.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

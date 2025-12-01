@@ -12,8 +12,7 @@
         "D": "<p>1996</p>",
         "E": "<p>2003</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833664,
@@ -28,8 +27,7 @@
         "D": "<p>Yapımcılık</p>",
         "E": "<p>Enstalasyon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833666,
@@ -44,8 +42,7 @@
         "D": "<p>Kolektif zeka</p>",
         "E": "<p>Etkileşimli zeka</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833671,
@@ -60,8 +57,7 @@
         "D": "<p>5</p>",
         "E": "<p>6</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833674,
@@ -76,8 +72,7 @@
         "D": "<p>Hikâyenin, izleyiciyi farklı derinliklere ve detaylara götüren bir labirent gibi olması gerektiğini vurgular.</p>",
         "E": "<p>Tüm hikâyelerin, daha büyük bir evrenin parçası olduğunu ve bu evrenin sürekli genişlediğini ifade eder.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833681,
@@ -92,8 +87,7 @@
         "D": "<p>İzleyicilerin hikâyeyi farklı şekillerde deneyimlemelerine olanak tanır.</p>",
         "E": "<p>Hikâyenin sürekli gelişmesi ve değişmesi gerektiğini ifade eder. </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833691,
@@ -108,8 +102,7 @@
         "D": "<p>Zorluk / Akış / Karakterler</p>",
         "E": "<p>Karakterler / Kolaylık / Topluluk</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833696,
@@ -124,8 +117,7 @@
         "D": "<p>3</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833699,
@@ -140,8 +132,7 @@
         "D": "<p>Dünya İnşa Etme</p>",
         "E": "<p>Dizisellik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833703,
@@ -156,7 +147,6 @@
         "D": "<p>Bağlantılılık</p>",
         "E": "<p>Bulut tabanlı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

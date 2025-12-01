@@ -12,8 +12,7 @@
         "D": "<p>Üsteğmen</p>",
         "E": "<p>Teğmen</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513430,
@@ -28,8 +27,7 @@
         "D": "<p>Sivas Kongresi</p>",
         "E": "<p>Ankara TBMM</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513601,
@@ -44,8 +42,7 @@
         "D": "<p><span id=\"page11R_mcid363\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 94.4882px; top: 550.894px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.95202);\" role=\"presentation\">Kazım (Karabekir)</span></span></p>",
         "E": "<p><span id=\"page11R_mcid364\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 94.4882px; top: 572.228px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.937169);\" role=\"presentation\">İsmet (İnönü)</span></span><span id=\"page11R_mcid365\" class=\"markedContent\"></span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513604,
@@ -60,8 +57,7 @@
         "D": "<p><span id=\"page70R_mcid2567\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 545.376px; top: 1113.1px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.918309);\" role=\"presentation\">İsmet İnönü' nün çocuklarına<br /></span></span></p>",
         "E": "<p><span style=\"font-family: 'times new roman', times, serif; font-size: 14pt;\">Ziraat Bankasına</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513615,
@@ -76,8 +72,7 @@
         "D": "<p>Zabit ve Kumandan ile Hasbihal</p>",
         "E": "<p>Vatandaş İçin Medeni Bilgiler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513620,
@@ -92,8 +87,7 @@
         "D": "<p>İsmet (İnönü)</p>",
         "E": "<p>Kazım (Karabekir)</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513621,
@@ -108,8 +102,7 @@
         "D": "<p>1912</p>",
         "E": "<p>1913</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513649,
@@ -124,8 +117,7 @@
         "D": "<p>Hüseyin Efendi</p>",
         "E": "<p>Yüzbaşı Üsküplü Mustafa Sabri Bey</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513655,
@@ -140,8 +132,7 @@
         "D": "<p>Büyük Taarruz</p>",
         "E": "<p>Trablusgarp Savaşı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513659,
@@ -156,8 +147,7 @@
         "D": "<p>Devletçilik</p>",
         "E": "<p>Cumhuriyetçilik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513660,
@@ -172,8 +162,7 @@
         "D": "<p>İnkılapçılık</p>",
         "E": "<p>Milliyetçilik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513690,
@@ -188,8 +177,7 @@
         "D": "<p>Ali Fethi</p>",
         "E": "<p>Mehmet Tevfik Bey</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513691,
@@ -204,8 +192,7 @@
         "D": "<p>İttihat ve Terakki Cemiyeti</p>",
         "E": "<p>Divan-ı Hümayun</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513693,
@@ -220,8 +207,7 @@
         "D": "<p>Mersin</p>",
         "E": "<p>Havza</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513695,
@@ -236,8 +222,7 @@
         "D": "<p>Mersin Kongresi</p>",
         "E": "<p>Konya Kongresi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513699,
@@ -252,8 +237,7 @@
         "D": "<p>Türk Medeniyet Tarihi</p>",
         "E": "<p>Nutuk</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513728,
@@ -268,8 +252,7 @@
         "D": "<p>Nablus Meydan Muharebesi</p>",
         "E": "<p>I. İnönü Muharebesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513731,
@@ -284,8 +267,7 @@
         "D": "<p>Tobruk Muharebesi</p>",
         "E": "<p>Derne Muharebesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513732,
@@ -300,8 +282,7 @@
         "D": "<p>Takımın Muharebe Talimi</p>",
         "E": "<p>Atatürk’ün Not Defterleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513733,
@@ -316,8 +297,7 @@
         "D": "<p>Kan kanseri</p>",
         "E": "<p>Beyin tümörü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513427,
@@ -332,8 +312,7 @@
         "D": "<p>Erzurum-Sivas</p>",
         "E": "<p>Sivas-Malatya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513428,
@@ -348,8 +327,7 @@
         "D": "<p>Yalnız III</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513432,
@@ -364,8 +342,7 @@
         "D": "<p>I, II, III, IV</p>",
         "E": "<p>II, IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513466,
@@ -380,8 +357,7 @@
         "D": "<p>Verem</p>",
         "E": "<p>Astım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513606,
@@ -396,8 +372,7 @@
         "D": "<p><span id=\"page83R_mcid3150\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 479.528px; top: 411.445px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.927971);\" role=\"presentation\">Çağdaşlaşma</span></span></p>",
         "E": "<p><span id=\"page83R_mcid3150\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 479.528px; top: 411.445px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.927971);\" role=\"presentation\">Akıl ve bilim</span></span><span id=\"page83R_mcid3151\" class=\"markedContent\"></span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513613,
@@ -412,8 +387,7 @@
         "D": "<p>Sakarya Meydan Muharebesi</p>",
         "E": "<p>Nablus Meydan Muharebesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513614,
@@ -428,8 +402,7 @@
         "D": "<p>İzmir</p>",
         "E": "<p>Bursa</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513652,
@@ -444,8 +417,7 @@
         "D": "<p>27 Ekim 1913</p>",
         "E": "<p>11 Mart 1914</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513657,
@@ -460,8 +432,7 @@
         "D": "<p>Atatürk'ün Not Defterleri</p>",
         "E": "<p>Arıburnu Muharebeleri Raporu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513689,
@@ -476,8 +447,7 @@
         "D": "<p>Mekteb-i Osmani</p>",
         "E": "<p>Acemi Oğlanlar Ocağı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513694,
@@ -492,8 +462,7 @@
         "D": "<p>Havza Genelgesi</p>",
         "E": "<p>Konya Genelgesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513703,
@@ -508,8 +477,7 @@
         "D": "<p>Laiklik</p>",
         "E": "<p>Batıcılık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513734,
@@ -524,8 +492,7 @@
         "D": "<p>Cumhuriyetçilik</p>",
         "E": "<p>Laiklik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513468,
@@ -540,8 +507,7 @@
         "D": "<p><span id=\"page5R_mcid306\" class=\"markedContent\"><span dir=\"ltr\" style=\"left: 479.528px; top: 1196.93px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.970426);\" role=\"presentation\">Montesquieu </span></span></p>",
         "E": "<p>Victor Hugo</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513608,
@@ -556,8 +522,7 @@
         "D": "<p>Şemsi Efendi İlkokulu-Mahalle Mektebi-Selanik Askerî Rüştiyesi-Manastır Askerî İdadisi-Kara Harp Okulu-Mülkiye Rüştiyesi</p>",
         "E": "<p>Mahalle Mektebi-Şemsi Efendi İlkokulu-Mülkiye Rüştiyesi-Selanik Askerî Rüştiyesi-Manastır Askerî İdadisi-Kara Harp Okulu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513612,
@@ -572,8 +537,7 @@
         "D": "<p>Samsun Genelgesi (Bildirisi)</p>",
         "E": "<p>Ankara Genelgesi (Bildirisi)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513616,
@@ -588,8 +552,7 @@
         "D": "<p>Devletçilik</p>",
         "E": "<p>İnkılapçılık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513618,
@@ -604,8 +567,7 @@
         "D": "<p>Milliyetçilik</p>",
         "E": "<p>Devletçilik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513619,
@@ -620,8 +582,7 @@
         "D": "<p>Enver (Paşa)</p>",
         "E": "<p>Cafer Tayyar (Eğilmez)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513653,
@@ -636,8 +597,7 @@
         "D": "<p>I. Dünya Savaşı</p>",
         "E": "<p>Derne Muharebesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513656,
@@ -652,8 +612,7 @@
         "D": "<p>25 Kasım 1925-Şapka Kanunu</p>",
         "E": "<p>26 Aralık 1925-Milletlerarası Saat ve Takvimin Kabulü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513431,
@@ -668,8 +627,7 @@
         "D": "<p style=\"margin: 0cm;\"><span face=\"AGaramondPro, serif\" style=\"font-family: AGaramondPro, serif;\"><span style=\"font-size: 14.6667px;\">Sivas Kongresi</span></span></p>",
         "E": "<p style=\"margin: 0cm;\"><span style=\"font-size: 11.0pt; font-family: 'AGaramondPro',serif;\">Amasya Görüşmeleri</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513434,
@@ -684,8 +642,7 @@
         "D": "<p>I, II, III, IV</p>",
         "E": "<p>II ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513467,
@@ -700,8 +657,7 @@
         "D": "<p>Edirne</p>",
         "E": "<p>İstanbul</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513602,
@@ -716,8 +672,7 @@
         "D": "<p>Moskova</p>",
         "E": "<p>Prag</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513617,
@@ -732,8 +687,7 @@
         "D": "<p>Cumhuriyetçilik</p>",
         "E": "<p>Laiklik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513650,
@@ -748,8 +702,7 @@
         "D": "<p>Fethi Okyar</p>",
         "E": "<p>İsmet İnönü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513658,
@@ -764,8 +717,7 @@
         "D": "<p>Halkçılık</p>",
         "E": "<p>Devletçilik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513605,
@@ -780,8 +732,7 @@
         "D": "<p>Devrimcilik</p>",
         "E": "<p>Cumhuriyetçilik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513730,
@@ -796,8 +747,7 @@
         "D": "<p>Havza Genelgesi</p>",
         "E": "<p>Amasya Mülakatı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513435,
@@ -812,8 +762,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II, III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513469,
@@ -828,8 +777,7 @@
         "D": "<p>Bulgaristan</p>",
         "E": "<p>Sırbistan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513603,
@@ -844,8 +792,7 @@
         "D": "<p>Mide</p>",
         "E": "<p>Beyin</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513692,
@@ -860,8 +807,7 @@
         "D": "<p>Arıburnu cephesindeki başarısı</p>",
         "E": "<p>Anafartalar cephesindeki başarısı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513426,
@@ -876,8 +822,7 @@
         "D": "<p>Yalnız III</p> ",
         "E": "<p>III ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513622,
@@ -892,8 +837,7 @@
         "D": "<p>1914</p>",
         "E": "<p>1915</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513696,
@@ -908,8 +852,7 @@
         "D": "<p>Balkan Savaşları</p>",
         "E": "<p>Birinci İnönü Muharebesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513610,
@@ -924,8 +867,7 @@
         "D": "<p>7. Ordu</p>",
         "E": "<p>8. Ordu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513611,
@@ -940,7 +882,6 @@
         "D": "<p>Bandırma Vapuru</p>",
         "E": "<p>Amasya Vapuru</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     }
 ]

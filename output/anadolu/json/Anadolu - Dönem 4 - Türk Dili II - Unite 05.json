@@ -2600,6 +2600,26 @@
         "Aciklama": "Soru kökünde yer alan<em> \"Sanatsal yazılar nesnel yaşamın gerçeklerinden esinlenerek kurmaca bir dünyayı yansıtır.\"</em> cümlesinde, sanatsal yazılarda insana ait gerçeğin bir kurgu içinde sunulması başka bir deyişle bu yazıların kurguya dayalı olması vurgulanmaktadır. Doğru cevap D seçeneğidir."
     },
     {
+        "SoruID": 3258385,
+        "SoruMetni": "Aşağıdakilerden hangisi <em>“Zengin sembollerle, ritimli sözlerle, seslerin uyumlu kullanımıyla ortaya çıkan, hece ve durak bakımından denk ve kendi başına bir bütün olan edebî anlatım biçimi, nazım, koşuk\"</em> olarak tanımlanan sanatsal yazı türüdür?",
+        "A": "Tiyatro",
+        "B": "Öykü",
+        "C": "Şiir",
+        "D": "Gezi yazısı",
+        "E": "Anı",
+        "DogruCevap": "C",
+        "DersAd": "Türk Dili II",
+        "Unite": 5,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:21:17.324702",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Soru kökünde tanımı verilen, hece ve durak ölçüsü kullanılan sanatsal yazı türü şiirdir. Öykü ve tiyatro düz yazı biçiminde yazılan sanatsal yazı türüdür. Anı ve gezi yazısı ise düşünce yazısı türüdür. Doğru cevap C seçeneğidir."
+    },
+    {
         "SoruID": 3258386,
         "SoruMetni": "<em>I. Konusunu tarihten alır. II. Destanlar ilk örneklerindendir. III. Toplumsal olayları coşkulu bir dille anlatır.</em> Yukarıda özellikleri sıralanan şiir türü aşağıdakilerden hangisidir?",
         "A": "Lirik şiir",

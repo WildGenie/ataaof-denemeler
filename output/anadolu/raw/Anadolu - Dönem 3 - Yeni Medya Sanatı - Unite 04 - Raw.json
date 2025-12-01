@@ -12,8 +12,7 @@
         "D": "<p>Miken Linear B tabletleri</p>",
         "E": "<p>Torino Papirüs Haritası</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641422,
@@ -28,8 +27,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641423,
@@ -44,8 +42,7 @@
         "D": "<p>Sapma</p>",
         "E": "<p>Zaman serisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641424,
@@ -60,8 +57,7 @@
         "D": "<p>Histogram</p>",
         "E": "<p>t-SEN</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641441,
@@ -76,8 +72,7 @@
         "D": "<p>Torino Papirüs Haritası.</p>",
         "E": "<p>Keşifsel veri analizi.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641639,
@@ -92,8 +87,7 @@
         "D": "<p>Kaki King</p>",
         "E": "<p>Giorgia Lupi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641644,
@@ -108,8 +102,7 @@
         "D": "<p>Frekans dağılımı</p>",
         "E": "<p>Dataviz</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641718,
@@ -124,8 +117,7 @@
         "D": "<p>Veri görselleştirme</p> ",
         "E": "<p>Toplam veri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641720,
@@ -140,8 +132,7 @@
         "D": "<p>Veri analizi</p> ",
         "E": "<p>Datagrafik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641722,
@@ -156,8 +147,7 @@
         "D": "<p>Canva</p> ",
         "E": "<p>RAW</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641723,
@@ -172,8 +162,7 @@
         "D": "<p>Kynaston McShine</p> ",
         "E": "<p>Ben Shneiderman</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641759,
@@ -188,8 +177,7 @@
         "D": "<p>Tematik haritacılık</p>",
         "E": "<p>Dinamik veri sanatı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641762,
@@ -204,8 +192,7 @@
         "D": "<p>Histogram ve düz veri</p>",
         "E": "<p>Anlamlandırma ve iletişim</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641763,
@@ -220,8 +207,7 @@
         "D": "<p>Nominal karşılaştırma</p>",
         "E": "<p>İnfografik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641767,
@@ -236,8 +222,7 @@
         "D": "<p>Charted</p>",
         "E": "<p>Tableu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641789,
@@ -252,8 +237,7 @@
         "D": "<p>Daha hızlı anlaşılma sağladığı için hata payını en aza indirir</p>",
         "E": "<p>Gelişme ve iyileşme yolunda yapılması gerekenlerin daha iyi anlaşılmasını sağlar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641792,
@@ -268,8 +252,7 @@
         "D": "<p>Frekans dağılımı</p>",
         "E": "<p>Veri görselleştirme verilerin ayrıntılı bir şekilde analiz edilmesinde kolaylık sağlar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641795,
@@ -284,8 +267,7 @@
         "D": "<p>Frekans dağılımı</p>",
         "E": "<p>korelasyon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641796,
@@ -300,8 +282,7 @@
         "D": "<p>Frekans dağılımı</p>",
         "E": "<p>Korelasyon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641799,
@@ -316,8 +297,7 @@
         "D": "<p>Ek değişkenleri görüntülemek için noktalar<br />şekil, renk, boyut aracılığıyla kodlanabilir</p>",
         "E": "<p>Bir veri kümesi için tipik olarak iki değişkenin değerlerini görüntülemek için Kartezyen koordinatları kullanır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641428,
@@ -332,8 +312,7 @@
         "D": "<p>TimelineJS</p>",
         "E": "<p>t-SEN</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641445,
@@ -348,8 +327,7 @@
         "D": "<p>Isı Grafiği.</p>",
         "E": "<p>Sankey diyagramı.</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641448,
@@ -364,8 +342,7 @@
         "D": "<p>Pockets Full of Memories.</p> ",
         "E": "<p>Uçuş Modelleri.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641640,
@@ -380,8 +357,7 @@
         "D": "<p>John Tukey</p>",
         "E": "<p>William Cleveland</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641715,
@@ -396,8 +372,7 @@
         "D": "<p>Bilginin önemli kısmını hızlıca görmeye olanak sağlar.</p>",
         "E": "<p>Bilginin metin olarak toplanması ihtiyacını ortadan kaldırır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641717,
@@ -412,8 +387,7 @@
         "D": "<p>Data to Discovery</p> ",
         "E": "<p>Envisioning Information</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641764,
@@ -428,8 +402,7 @@
         "D": "<p>İnfografik</p>",
         "E": "<p>Sankey</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641766,
@@ -444,8 +417,7 @@
         "D": "<p>Pasta grafiği</p>",
         "E": "<p>Çizgi grafiği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641793,
@@ -460,8 +432,7 @@
         "D": "<p>Frekans dağılımı</p>",
         "E": "<p>Korelasyon</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641421,
@@ -476,8 +447,7 @@
         "D": "<p>Rene Descartes</p>",
         "E": "<p>William Playfai</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641425,
@@ -492,8 +462,7 @@
         "D": "<p>Kabarcık Grafiği</p>",
         "E": "<p>Sankey Diyagramı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641427,
@@ -508,8 +477,7 @@
         "D": "<p>Julian Oliver</p>",
         "E": "<p>Mark Napier</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641429,
@@ -524,8 +492,7 @@
         "D": "<p>RAW</p>",
         "E": "<p>Tableu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641446,
@@ -540,8 +507,7 @@
         "D": "<p>Daniel Rosenberg ve Anthony Grafton.</p> ",
         "E": "<p>William Playfair ve William Cleveland.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641447,
@@ -556,8 +522,7 @@
         "D": "<p>Veri görselleştirme.</p> ",
         "E": "<p>Veri analizi.</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641449,
@@ -572,8 +537,7 @@
         "D": "<p>Daniel Rosenberg.</p> ",
         "E": "<p>Pierre de Fermat.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641635,
@@ -588,8 +552,7 @@
         "D": "<p>Torino papirüs haritası</p>",
         "E": "<p>Lascaux mağarası resimleri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641643,
@@ -604,8 +567,7 @@
         "D": "<p>Sayısallık</p>",
         "E": "<p>Analitiklik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641716,
@@ -620,8 +582,7 @@
         "D": "<p>William Playfair</p> ",
         "E": "<p>Anthony Grafton</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641721,
@@ -636,8 +597,7 @@
         "D": "<p>t-SNE</p> ",
         "E": "<p>Sankey diyagramı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641426,
@@ -652,8 +612,7 @@
         "D": "<p>II, III ve V</p>",
         "E": "<p>III, IV ve V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641440,
@@ -668,8 +627,7 @@
         "D": "<p>William Playfair ve William Cleveland.</p>",
         "E": "<p>Lorenz Codomann ve Johannes Temporarius.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641442,
@@ -684,8 +642,7 @@
         "D": "<p>Pasta grafiği.</p> ",
         "E": "<p>Dağılım grafiği.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641641,
@@ -700,8 +657,7 @@
         "D": "<p>Leaflet</p>",
         "E": "<p>RAW</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641642,
@@ -716,8 +672,7 @@
         "D": "<p>Bilgisayar sisteminin</p>",
         "E": "<p>Satış verilerinin</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641758,
@@ -732,8 +687,7 @@
         "D": "<p>Veri madenciliği</p>",
         "E": "<p>Veri seti</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641791,
@@ -748,8 +702,7 @@
         "D": "<p>Bilginin daha hızlı bir şekilde anlaşılmasına,<br />buna bağlı iç görüler geliştirilmesine ve kararların daha çabuk alınmasına yardımcı olur</p>",
         "E": "<p> Toplumsal medya paylaşımları, ağ günlükleri ,bloglar, fotoğraf, video, log dosyaları gibi değişik kaynaklardan<br />toparlanan tüm verinin, anlamlı ve işlenebilir biçime dönüştürülmüş biçimine denir</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641800,
@@ -764,8 +717,7 @@
         "D": "<p>Herhangi bir kümeye uymayan veya bir<br />ağın çevresinde bulunan aykırı aktörleri<br />bulma</p>",
         "E": "<p>Esneklik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641638,
@@ -780,8 +732,7 @@
         "D": "<p>Histogram</p>",
         "E": "<p>t-SNE</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641760,
@@ -796,8 +747,7 @@
         "D": "<p>Rosenberg</p>",
         "E": "<p>Grafton</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641761,
@@ -812,8 +762,7 @@
         "D": "<p>Fermat</p>",
         "E": "<p>Minard</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641765,
@@ -828,8 +777,7 @@
         "D": "<p>Dataviz</p>",
         "E": "<p>Sankey</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641439,
@@ -844,8 +792,7 @@
         "D": "<p>Rene Descartes.</p> ",
         "E": "<p>Johannes Temporarius.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641637,
@@ -860,8 +807,7 @@
         "D": "<p>Çok büyük oranda bilgisayarlar aracılığı ile algoritmik olarak çizilirler.</p>",
         "E": "<p>Güncellenmeleri zordur.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641719,
@@ -876,8 +822,7 @@
         "D": "<p>Frekans dağılımı</p> ",
         "E": "<p>Sapma</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641444,
@@ -892,8 +837,7 @@
         "D": "<p>Kronolojik.</p> ",
         "E": "<p>Histogram.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641724,
@@ -908,8 +852,7 @@
         "D": "<p>Aaron Koblin</p> ",
         "E": "<p>Andy Warhol</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641785,
@@ -924,8 +867,7 @@
         "D": "<p>Daha hızlı anlaşılma sağladığı için hata payını en aza indirir</p>",
         "E": "<p>Verilerin erişilebilir, açık ve anlaşılır olmasını sağlar.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3641636,
@@ -940,7 +882,6 @@
         "D": "<p>Charles Minard</p>",
         "E": "<p>Claudius Ptolemy</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

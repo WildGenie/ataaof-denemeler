@@ -12,8 +12,7 @@
         "D": "<p>Astronomi</p>",
         "E": "<p>Estetik disiplinleri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858616,
@@ -28,8 +27,7 @@
         "D": "<p>Sanat eseri felsefi bir öz taşır.</p>",
         "E": "<p>Sanat bir eğlenme, oyalanma aracı veya bir lüks değildir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858617,
@@ -44,8 +42,7 @@
         "D": "<p>Yüzey</p>",
         "E": "<p>Hacim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858618,
@@ -60,8 +57,7 @@
         "D": "<p>Sanatsal bilgi</p>",
         "E": "<p>Objektifler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858627,
@@ -76,8 +72,7 @@
         "D": "<p>Bilim dalları arasında yer alması Alexander G. Baumgarten tarafından gerçekleştirilmiştir.</p>",
         "E": "<p>İlk bakışta sadece güzellik değeri ile ilgilenerek bu bilimi güzellik değeri ile sınırlandırır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858628,
@@ -92,8 +87,7 @@
         "D": "<p>İbni Heysemin</p>",
         "E": "<p>Alexander G. Baumgarten</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858630,
@@ -108,8 +102,7 @@
         "D": "<p>Diyafram</p>",
         "E": "<p>Beyaz Dengesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858631,
@@ -124,8 +117,7 @@
         "D": "<p>Stüdyo Fotoğrafçılığı</p>",
         "E": "<p>Reklam Fotoğrafçılığı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858669,
@@ -140,8 +132,7 @@
         "D": "<p>Man Ray</p>",
         "E": "<p>Edgar Degas</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858671,
@@ -156,8 +147,7 @@
         "D": "<p>Objektifler değişken ya da sabit odaklı olabilir.</p>",
         "E": "<p>Diyafram değeri azaldıkça alan derinliği artar. </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858673,
@@ -172,8 +162,7 @@
         "D": "<p>Portre fotoğraf&ccedil;ılığı</p>",
         "E": "<p>Reklam fotoğraf&ccedil;ılığı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858789,
@@ -188,8 +177,7 @@
         "D": "<p>Kinetoskop</p>",
         "E": "<p>Mimograf</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858924,
@@ -204,8 +192,7 @@
         "D": "<p>İlkel sanat</p>",
         "E": "<p>Avangard sanat</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858929,
@@ -220,8 +207,7 @@
         "D": "<p>Doğru Açı</p>",
         "E": "<p>Netlik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858972,
@@ -236,8 +222,7 @@
         "D": "<p>Sadece III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858983,
@@ -252,8 +237,7 @@
         "D": "<p>II, III, IV, V, VI, VII</p> ",
         "E": "<p>I, II, III, IV, V, VI, VII</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858984,
@@ -268,8 +252,7 @@
         "D": "<p>Rembrandt Van Rijn</p> ",
         "E": "<p>Albert Dürer</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858985,
@@ -284,8 +267,7 @@
         "D": "<p>Rembrandt Van Rijn</p> ",
         "E": "<p>Albert Dürer</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858988,
@@ -300,8 +282,7 @@
         "D": "<p>Fotoğraf Sanatı</p>",
         "E": "<p>Güzel Sanatlar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858994,
@@ -316,8 +297,7 @@
         "D": "<p>Duyarkat</p> ",
         "E": "<p>Objektif</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858624,
@@ -332,8 +312,7 @@
         "D": "<p>Belgesel fotoğrafçılığı</p>",
         "E": "<p>Portre fotoğrafçılığı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858625,
@@ -348,8 +327,7 @@
         "D": "<p>Güzel sanatlar</p>",
         "E": "<p>Postmodernizm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858629,
@@ -364,8 +342,7 @@
         "D": "<p>Netlik</p>",
         "E": "<p>Objektif</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858656,
@@ -380,8 +357,7 @@
         "D": "<p>Modern sanat </p>",
         "E": "<p>Güncel sanat </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858672,
@@ -396,8 +372,7 @@
         "D": "<p>Netlik</p> ",
         "E": "<p>Keskinlik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858927,
@@ -412,8 +387,7 @@
         "D": "<p>Edouart Monet</p>",
         "E": "<p>Edgar Degas</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858964,
@@ -428,8 +402,7 @@
         "D": "<p>Oksitlenmeden etkilenmesi.</p>",
         "E": "<p>Metal levhanın çizilir olması.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858971,
@@ -444,8 +417,7 @@
         "D": "<p>Sosyoloji</p>",
         "E": "<p>Sanat tarihi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858973,
@@ -460,8 +432,7 @@
         "D": "<p>Deklanşör</p>",
         "E": "<p>İmge</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858974,
@@ -476,8 +447,7 @@
         "D": "<p>Metal levhadan oluştuğundan dolayı ağır oluşu ve levhanın çizilir olması</p>",
         "E": "<p>Oksitlenmeden etkilenmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858975,
@@ -492,8 +462,7 @@
         "D": "<p>Diyafram</p>",
         "E": "<p>Objektif</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858990,
@@ -508,8 +477,7 @@
         "D": "<p>Avangard sanat</p>",
         "E": "<p>Klasik dönem sanatı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858993,
@@ -524,8 +492,7 @@
         "D": "<p>Fotoğraf</p> ",
         "E": "<p>Heykel</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858620,
@@ -540,8 +507,7 @@
         "D": "<p>Diane Arbus</p>",
         "E": "<p>Jacques Mande Daguerre</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858633,
@@ -556,8 +522,7 @@
         "D": "<p>Mimari Fotoğraf</p>",
         "E": "<p>Gündelik Yaşam Fotoğrafları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858634,
@@ -572,8 +537,7 @@
         "D": "<p>Gündelik Yaşam Fotoğrafları</p>",
         "E": "<p>Reklam Fotoğrafçılığı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858663,
@@ -588,8 +552,7 @@
         "D": "<p>Gündelik yaşam fotoğrafçılığı </p>",
         "E": "<p>Sokak fotoğrafçılığı </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858664,
@@ -604,8 +567,7 @@
         "D": "<p>Doğum fotoğrafçılığı </p>",
         "E": "<p>Reklam Fotoğrafçılığı </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858790,
@@ -620,8 +582,7 @@
         "D": "<p>Laszlo Moholy-Nagy</p>",
         "E": "<p>Man Ray</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858798,
@@ -636,8 +597,7 @@
         "D": "<p>&nbsp;&Ouml;rt&uuml;c&uuml;</p>",
         "E": "<p>Iso değeri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858926,
@@ -652,8 +612,7 @@
         "D": "<p>Pozlama</p>",
         "E": "<p>Keskinlik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858928,
@@ -668,8 +627,7 @@
         "D": "<p>I, II, III ve V</p>",
         "E": "<p>I, II, III ve IV</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858970,
@@ -684,8 +642,7 @@
         "D": "<p>Vizör</p>",
         "E": "<p>Derinlik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858976,
@@ -700,8 +657,7 @@
         "D": "<p>Haber Fotoğrafçılığı</p>",
         "E": "<p>Belgesel Fotoğrafçılık</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858989,
@@ -716,8 +672,7 @@
         "D": "<p>Roma Dönemi</p>",
         "E": "<p>Modernizm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858991,
@@ -732,8 +687,7 @@
         "D": "<p>Sanatın bir biçim yaratması</p> ",
         "E": "<p>Sanatın belirli bir konu ve içerik taşıması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858997,
@@ -748,8 +702,7 @@
         "D": "<p>Yeşil</p> ",
         "E": "<p>Pembe</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858657,
@@ -764,8 +717,7 @@
         "D": "<p>Avangard sanat </p>",
         "E": "<p>Sokak sanatı </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858658,
@@ -780,8 +732,7 @@
         "D": "<p>Zanaat </p>",
         "E": "<p>İlkel sanat </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858662,
@@ -796,8 +747,7 @@
         "D": "<p>Keskinlik </p>",
         "E": "<p>Netlik </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858666,
@@ -812,8 +762,7 @@
         "D": "<p>Ars</p> ",
         "E": "<p>Tekhne</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858667,
@@ -828,8 +777,7 @@
         "D": "<p>Rastlantısallık </p>",
         "E": "<p>İnsan</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858674,
@@ -844,8 +792,7 @@
         "D": "<p>St&uuml;dyo fotoğraf&ccedil;ılığı</p>",
         "E": "<p>Portre fotoğraf&ccedil;ılığı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858792,
@@ -860,8 +807,7 @@
         "D": "<p>Pozlama</p>",
         "E": "<p>Diyafram</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858799,
@@ -876,8 +822,7 @@
         "D": "<p>Reklam  fotoğrafçılık</p>",
         "E": "<p> Portre fotoğrafçılığı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858921,
@@ -892,8 +837,7 @@
         "D": "<p>Avangard sanat</p>",
         "E": "<p>Fonetik sanat</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858922,
@@ -908,8 +852,7 @@
         "D": "<p>Güncel sanat</p>",
         "E": "<p>Modern sanat</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858923,
@@ -924,8 +867,7 @@
         "D": "<p>Hegel</p>",
         "E": "<p>Goethe</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858930,
@@ -940,8 +882,7 @@
         "D": "<p>I, III, IV ve V</p>",
         "E": "<p>I, II, III, IV ve V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858966,
@@ -956,8 +897,7 @@
         "D": "<p>Diyafram</p>",
         "E": "<p>ISO-ASA</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858968,
@@ -972,8 +912,7 @@
         "D": "<p>Alan derinliği</p>",
         "E": "<p>Objektif</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858969,
@@ -988,8 +927,7 @@
         "D": "<p>Gündelik yaşam fotoğrafçılığı</p>",
         "E": "<p>Sokak fotoğrafçılığı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858986,
@@ -1004,8 +942,7 @@
         "D": "<p>Diyafram</p> ",
         "E": "<p>Fotoğraf Makinası</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858992,
@@ -1020,8 +957,7 @@
         "D": "<p>Leonardo da Vinci</p> ",
         "E": "<p>Albrecht Dürer</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858469,
@@ -1036,8 +972,7 @@
         "D": "<p>Pablo Picasso</p>",
         "E": "<p>Albrecht Dürer</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858473,
@@ -1052,8 +987,7 @@
         "D": "<p>5500</p>",
         "E": "<p>6000</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858475,
@@ -1068,8 +1002,7 @@
         "D": "<p>Vizör</p>",
         "E": "<p>Obtüratör</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858482,
@@ -1084,8 +1017,7 @@
         "D": "<p>Eğlenme, oyalanma aracı olması</p>",
         "E": "<p>İçinde tutarlı bir evrensel bildiri taşıması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858788,
@@ -1100,8 +1032,7 @@
         "D": "<p>Sanat kavramı gerçeği taklit eden bir alandır</p>",
         "E": "<p>Sanat kavramı  doğadaki güzelliğin bir dışavurumudur.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858791,
@@ -1116,8 +1047,7 @@
         "D": "<p>Pozlama süresi</p>",
         "E": "<p>Görüntü paylaşımının kolaylığı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858794,
@@ -1132,8 +1062,7 @@
         "D": "<p>Diyafram derecesindeki sayılar büyüdükçe(22) alan derinliği azalır</p>",
         "E": "<p>Odaklama yapılan alanın önü ve arkasını kapsayan  net görüntüye alan derinliği denir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858963,
@@ -1148,8 +1077,7 @@
         "D": "<p>Avangard sanat</p>",
         "E": "<p>Güzel sanatlar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858982,
@@ -1164,8 +1092,7 @@
         "D": "<p>I, II, III, IV</p> ",
         "E": "<p>I, II, III, IV, V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858987,
@@ -1180,8 +1107,7 @@
         "D": "<p>I, II, III, IV</p> ",
         "E": "<p>I, II, III, V, VI</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858999,
@@ -1196,8 +1122,7 @@
         "D": "<p>Sokak fotoğrafçılığı</p> ",
         "E": "<p>Reklam fotoğrafçılığı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858615,
@@ -1212,8 +1137,7 @@
         "D": "<p>Avangard sanat</p>",
         "E": "<p>Dışavurumcu sanat</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858621,
@@ -1228,8 +1152,7 @@
         "D": "<p>1840</p>",
         "E": "<p>1848</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858655,
@@ -1244,8 +1167,7 @@
         "D": "<p>Sanatın, toplumsal yaşamın bir sonucu olması nedeni ile </p>",
         "E": "<p>Sanatın  bilim gibi kesin doğrularla tanımlanamaması nedeni ile </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858660,
@@ -1260,8 +1182,7 @@
         "D": "<p>1960'lı yıllardan sonra </p>",
         "E": "<p>Rönesans dönemi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858479,
@@ -1276,8 +1197,7 @@
         "D": "<p>Güzellik</p>",
         "E": "<p>Sanat</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858670,
@@ -1292,8 +1212,7 @@
         "D": "<p>Daguerre en çok Avrupa’da gelişmiştir.</p>",
         "E": "<p>En yaygın dönemi 1839-1850 arasıdır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858787,
@@ -1308,8 +1227,7 @@
         "D": "<p>Güncel Sanat</p>",
         "E": "<p>Felsefi Sanat</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858967,
@@ -1324,8 +1242,7 @@
         "D": "<p>Planlı bir şekilde yapılması</p>",
         "E": "<p>Yazıyla desteklenmesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858468,
@@ -1340,8 +1257,7 @@
         "D": "<p>Pablo Picasso</p>",
         "E": "<p>Sigmund Freud</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858484,
@@ -1356,8 +1272,7 @@
         "D": "<p>Dış çekim yapılamıyor olması</p>",
         "E": "<p>Metal levhadan oluştuğundan ağır olması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858623,
@@ -1372,8 +1287,7 @@
         "D": "<p>Bir süreç gerektirmesi</p>",
         "E": "<p>Yazıyla desteklemesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858795,
@@ -1388,8 +1302,7 @@
         "D": "<p>Geniş Açılı Objektif - Dar Açılı Objektif</p>",
         "E": "<p>Zoom Objektif - Normal Açılı Objektif</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858996,
@@ -1404,8 +1317,7 @@
         "D": "<p>3/2</p> ",
         "E": "<p>3/1</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858470,
@@ -1420,8 +1332,7 @@
         "D": "<p>Van Gogh</p>",
         "E": "<p>Albrecht Dürer</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858626,
@@ -1436,8 +1347,7 @@
         "D": "<p>Sanat bir eğlenme, oyalanma aracı veya bir lüks işlevi görür.</p>",
         "E": "<p>Zekâ düzeyi ne olursa olsun hayvanlar sanat yapamazlar.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858659,
@@ -1452,8 +1362,7 @@
         "D": "<p>Deklanşör </p>",
         "E": "<p>Grafiker </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858977,
@@ -1468,8 +1377,7 @@
         "D": "<p>Alan derinliği</p>",
         "E": "<p>Obtüratör</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858619,
@@ -1484,8 +1392,7 @@
         "D": "<p>Caravaggio</p>",
         "E": "<p>Guido Reni</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858668,
@@ -1500,8 +1407,7 @@
         "D": "<p>Hegel</p> ",
         "E": "<p>Freud</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858961,
@@ -1516,8 +1422,7 @@
         "D": "<p>MÖ 2. yüzyıl- MS 2. yüzyıl</p>",
         "E": "<p>MÖ 1. yüzyıl- MS. 1 yüzyıl</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858998,
@@ -1532,8 +1437,7 @@
         "D": "<p>Diyafram</p> ",
         "E": "<p>ISO-ASA</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858478,
@@ -1548,8 +1452,7 @@
         "D": "<p>Gündelik yaşam fotoğrafçılığı</p>",
         "E": "<p>Portre fotoğrafçılığı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858962,
@@ -1564,8 +1467,7 @@
         "D": "<p>Postmodernizm</p>",
         "E": "<p>Avangard sanat</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858665,
@@ -1580,8 +1482,7 @@
         "D": "<p>Reform</p> ",
         "E": "<p>Postmodern dönem</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858978,
@@ -1596,8 +1497,7 @@
         "D": "<p>I, II, III, IV</p> ",
         "E": "<p>I, II, III, IV, V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858632,
@@ -1612,8 +1512,7 @@
         "D": "<p>Belgesel Fotoğrafçılık</p>",
         "E": "<p>Reklam Fotoğrafçılığı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858965,
@@ -1628,8 +1527,7 @@
         "D": "<p>Görüntüye ait teknik bilgilere ulaşım</p>",
         "E": "<p>Görüntünün sensör tarafından sayısal olarak kaydedilmesi.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858979,
@@ -1644,8 +1542,7 @@
         "D": "<p>Hegel</p> ",
         "E": "<p>Baumgarten</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858995,
@@ -1660,8 +1557,7 @@
         "D": "<p>Polaroid</p> ",
         "E": "<p>Dijital kamera</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858622,
@@ -1676,8 +1572,7 @@
         "D": "<p>Pozlama</p>",
         "E": "<p>Keskinlik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858661,
@@ -1692,8 +1587,7 @@
         "D": "<p>Edgar Degas </p>",
         "E": "<p>Man Ray </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858980,
@@ -1708,8 +1602,7 @@
         "D": "<p>Sanat Psikolojisi</p> ",
         "E": "<p>Sanat Sosyolojisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3858981,
@@ -1724,7 +1617,21 @@
         "D": "<p>Rölyef</p> ",
         "E": "<p>Grafiti</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3858925,
+        "UniteNo": 2,
+        "PageNumber": 38,
+        "AnswerExplanation": "<p>Fotoğrafçının kameralar, objektifler, ışık kaynakları ve buna benzer birçok ekipman bilgisinin yanında sanat bilgisi de fotoğrafı oluşturmasında<br />önemli niteliklerden biri sayılır. Dolayısıyla cevap E şıkkıdır.</p>",
+        "Title": "",
+        "Text": "<p>Fotoğrafçının kameralar, objektifler, ışık kaynakları ve buna benzer birçok ekipman bilgisinin yanında aşağıda şıklarda belirtilen hangi özellik de fotoğrafı oluşturmasında önemli niteliklerden biri sayılmaktadır ?</p>",
+        "A": "<p>Fizik bilgisi</p>",
+        "B": "<p>Kimya bilgisi</p>",
+        "C": "<p>Malzeme bilgisi</p>",
+        "D": "<p>Tarih bilgisi</p>",
+        "E": "<p>Sanat bilgisi</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
     }
 ]

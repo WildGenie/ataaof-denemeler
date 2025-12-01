@@ -12,8 +12,7 @@
         "D": "<p>15 bin</p>",
         "E": "<p>20 bin</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513407,
@@ -28,8 +27,7 @@
         "D": "<p>Fransa </p>",
         "E": "<p>Rusya</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513418,
@@ -44,8 +42,7 @@
         "D": "<p>III ve IV</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513419,
@@ -60,8 +57,7 @@
         "D": "<p>1943</p>",
         "E": "<p>1942</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513421,
@@ -76,8 +72,7 @@
         "D": "<p>1943</p>",
         "E": "<p>1947</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513425,
@@ -92,8 +87,7 @@
         "D": "<p>I, IV</p>",
         "E": "<p>II, IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513470,
@@ -108,8 +102,7 @@
         "D": "<p>Ebedi Başkan</p>",
         "E": "<p>Milli Şef</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513475,
@@ -124,8 +117,7 @@
         "D": "<p>Milli Birlik Partisi</p>",
         "E": "<p>Milli Güvenlik Partisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513597,
@@ -140,8 +132,7 @@
         "D": "<p>Demokrasi Misakı</p>",
         "E": "<p>Özgürlük İddianamesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513600,
@@ -156,8 +147,7 @@
         "D": "<p>Postan Konferansı</p>",
         "E": "<p>Turman Doktirni</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513624,
@@ -172,8 +162,7 @@
         "D": "<p>13 Ocak 1943</p>",
         "E": "<p>15 Mart 1944</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513627,
@@ -188,8 +177,7 @@
         "D": "<p>Recep Peker-Hasan Saka-Şemsettin Günaltay-Şükrü Saraçoğlu-Refik Saydam-Celal Bayar</p>",
         "E": "<p>Şükrü Saraçoğlu-Celal Bayar-Şemsettin Günaltay-Recep Peker-Refik Saydam-Hasan Saka</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513643,
@@ -204,8 +192,7 @@
         "D": "<p>Grup hükümetten ayrı ve bağımsız üyelerden oluşur.</p>",
         "E": "<p>Grup 3 kişilik idari kurulunun olduğu 30 kişiden oluşur.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513645,
@@ -220,8 +207,7 @@
         "D": "<p>Recep Peker</p>",
         "E": "<p>Hasan Saka</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513666,
@@ -236,8 +222,7 @@
         "D": "<p>1944</p>",
         "E": "<p>1945</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513719,
@@ -252,8 +237,7 @@
         "D": "<p>10 Haziran 1943</p>",
         "E": "<p>10 Haziran 1942</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513729,
@@ -268,8 +252,7 @@
         "D": "<p>12 Mayıs 1938</p>",
         "E": "<p>12 Mayıs 1939 </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513735,
@@ -284,8 +267,7 @@
         "D": "<p>Recep Peker</p>",
         "E": "<p>Şemsettin Günaltay</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513736,
@@ -300,8 +282,7 @@
         "D": "<p>İyi komşuluk ve dostluk esaslarının tekrarlandığı Türkiye-Bulgaristan ortak beyannamesi yayımlanmıştır.</p> ",
         "E": "<p>Rusya boğazlarda ortak savunmayı sağlamak için Sovyetlere üs verilmesini<br />istemiştir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513737,
@@ -316,8 +297,7 @@
         "D": "<p>II. Dünya Savaşı'nın başlamasıyla gelişen bu olaylar Türkiye’yi endişeye düşürmüştür.</p>",
         "E": "<p>Fransa, Sovyetlerin Bakü petrollerini, Türkiye hava sahasını kullanarak bombardıman etmek için talepte bulunmuştur.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513401,
@@ -332,8 +312,7 @@
         "D": "<p>350</p> ",
         "E": "<p>351</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513471,
@@ -348,8 +327,7 @@
         "D": "<p>İsmet İnönü'nün Cumhurbaşkanı seçilmesi</p>",
         "E": "<p>Atatürk'ün ulusun babası ilan edilmesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513599,
@@ -364,8 +342,7 @@
         "D": "<p>15 Ocak 1944</p>",
         "E": "<p>21 Aralık 1944</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513607,
@@ -380,8 +357,7 @@
         "D": "<p>Hasan Saka Hükümeti</p>",
         "E": "<p>Şemsettin Günaltay Hükümeti</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513623,
@@ -396,8 +372,7 @@
         "D": "<p>Günlük mesai zorunluluğu</p>",
         "E": "<p>Ticari ve özel mülklere el koyma</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513626,
@@ -412,8 +387,7 @@
         "D": "<p>Şükrü Saraçoğlu Hükümeti</p>",
         "E": "<p>Refik Saydam Hükümeti </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513631,
@@ -428,8 +402,7 @@
         "D": "<p>13 Ağustos 1941</p>",
         "E": "<p>27 Ağustos 1942</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513647,
@@ -444,8 +417,7 @@
         "D": "<p>Siyasi partilerin kurulmasının önü açılmıştır.</p>",
         "E": "<p>Üniversiteler Kanunu çıkarılmıştır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513651,
@@ -460,8 +432,7 @@
         "D": "<p>Ahmet Fikri Tuzer</p>",
         "E": "<p>Şükrü Saraçoğlu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513663,
@@ -476,8 +447,7 @@
         "D": "<p>Saracoğlu Hükûmeti</p>",
         "E": "<p>Refik Saydam Hükûmeti</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513667,
@@ -492,8 +462,7 @@
         "D": "<p>1946</p>",
         "E": "<p>1949</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513668,
@@ -508,8 +477,7 @@
         "D": "<p>1947</p>",
         "E": "<p>1949</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513670,
@@ -524,8 +492,7 @@
         "D": "<p>10 Aralık 1942</p>",
         "E": "<p>11 Aralık 1942</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513718,
@@ -540,8 +507,7 @@
         "D": "<p>Milli kalkınma partisi</p>",
         "E": "<p>Ulusal Parti</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513727,
@@ -556,8 +522,7 @@
         "D": "<p>23 Ağustos 1946</p>",
         "E": "<p>24 Ağustos 1946</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513402,
@@ -572,8 +537,7 @@
         "D": "<p>Faik Öztrak</p>",
         "E": "<p>Abdulhalik Renda</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513406,
@@ -588,8 +552,7 @@
         "D": "<p>Fransa’nın</p>",
         "E": "<p>İran’ın</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513408,
@@ -604,8 +567,7 @@
         "D": "<p>İzmir’e</p>",
         "E": "<p>Adana’ya</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513629,
@@ -620,8 +582,7 @@
         "D": "<p>1 Eylül 1939</p>",
         "E": "<p>12 Ekim 1939   </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513661,
@@ -636,8 +597,7 @@
         "D": "<p>İslam Koruma Partisi</p>",
         "E": "<p>Millet Partisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513662,
@@ -652,8 +612,7 @@
         "D": "<p>Liberal Demokrat Parti</p>",
         "E": "<p>Türkiye İşçi ve Çiftçi Partisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513664,
@@ -668,8 +627,7 @@
         "D": "<p>Recep Peker</p>",
         "E": "<p>Şükrü Saraçoğlu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513669,
@@ -684,8 +642,7 @@
         "D": "<p>Numan Mermercioğlu</p>",
         "E": "<p>Teyfik Rüştü Aras</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513473,
@@ -700,8 +657,7 @@
         "D": "<p>Buğday ununa arpa, çavdar gibi benzer tahılların katılması</p>",
         "E": "<p>Buğday unu ile pasta vb. mamullerinin yapımının yasaklanması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513609,
@@ -716,8 +672,7 @@
         "D": "<p>Hasan Saka Hükümeti</p>",
         "E": "<p>Recep Peker Hükümeti</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513630,
@@ -732,8 +687,7 @@
         "D": "<p>23 Ağustos 1939</p>",
         "E": "<p>12 Ekim 1939  </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513646,
@@ -748,8 +702,7 @@
         "D": "<p>1946</p>",
         "E": "<p>1947</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513665,
@@ -764,8 +717,7 @@
         "D": "<p>Recep Peker Hükûmeti</p>",
         "E": "<p>Hasan Saka Hükûmeti</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513400,
@@ -780,8 +732,7 @@
         "D": "<p>Kazım Özalp</p>",
         "E": "<p>Cevdet Sunay</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513404,
@@ -796,8 +747,7 @@
         "D": "<p>Adnan Menderes</p>",
         "E": "<p>Nuri Demirağ </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513405,
@@ -812,8 +762,7 @@
         "D": "<p>Danimarka</p>",
         "E": "<p>Norveç’e</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513416,
@@ -828,8 +777,7 @@
         "D": "<p>Tasarruf bonoları</p>",
         "E": "<p>Varlık vergisi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513423,
@@ -844,8 +792,7 @@
         "D": "<p>Türk-Sovyet Saldırmazlık Anlaşması</p> ",
         "E": "<p>Türk-Alman Dostluk ve Saldırmazlık Antlaşması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513726,
@@ -860,8 +807,7 @@
         "D": "<p>Tahran sorunu</p>",
         "E": "<p>Bulgaristan sorunu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513409,
@@ -876,8 +822,7 @@
         "D": "<p>İran</p>",
         "E": "<p>İtalya</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513628,
@@ -892,8 +837,7 @@
         "D": "<p>3 Mayıs 1944</p>",
         "E": "<p>29 Mart 1945   </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513654,
@@ -908,8 +852,7 @@
         "D": "<p>1942</p>",
         "E": "<p>1943</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513715,
@@ -924,8 +867,7 @@
         "D": "<p>8 Aralık 1943</p>",
         "E": "<p>8 Aralık 1944</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513420,
@@ -940,8 +882,7 @@
         "D": "<p>I, II, III ve IV</p>",
         "E": "<p>I, II, III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513644,
@@ -956,8 +897,7 @@
         "D": "<p>Bu kanunla hükûmete savaş ihtimali nedeniyle olağanüstü yetki tanınmıştır.</p>",
         "E": "<p>Hükûmet, bu kanunla yalnızca ekonomik hayatın belirleyicisi konumuna gelmiştir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513671,
@@ -972,8 +912,7 @@
         "D": "<p>20 temmuz 1946</p>",
         "E": "<p>21 Temmuz 1946</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513424,
@@ -988,8 +927,7 @@
         "D": "<p>10, 1949</p>",
         "E": "<p>9, 1950</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513474,
@@ -1004,8 +942,7 @@
         "D": "<p>1 Ocak 1940 tarihinden itibaren geliri 1 Milyon Lira üzerinde olan vatandaşlardan alınması öngörülen vergi yasasıdır.</p>",
         "E": "<p>1 Ocak 1940 tarihinden itibaren geliri 100.000.00 Lira üzerinde olan vatandaşlardan alınması öngörülen vergi yasasıdır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513598,
@@ -1020,8 +957,7 @@
         "D": "<p>Türkiye İngiltere - Fransa</p>",
         "E": "<p>Türkiye - Fransa - Sovyet Rusya</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513722,
@@ -1036,8 +972,7 @@
         "D": "<p>10 Eylül 1949</p>",
         "E": "<p>10 Eylül 1950</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513472,
@@ -1052,8 +987,7 @@
         "D": "<p>Çok Partili Yönetimler Raporu</p>",
         "E": "<p>Müdafaa Ekonomisi Hakkında Raporu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513422,
@@ -1068,8 +1002,7 @@
         "D": "<p style=\"text-align: justify;\"><span style=\"font-size: 11.0pt; font-family: 'Verdana',sans-serif;\">1 Eylül 1939 </span></p>",
         "E": "<p style=\"text-align: justify;\"><span style=\"font-size: 11.0pt; font-family: 'Verdana',sans-serif;\">12 Ekim 1939 </span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513632,
@@ -1084,8 +1017,7 @@
         "D": "<p>11 Mayıs 1950</p>",
         "E": "<p>28 Mart 1949</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3513625,
@@ -1100,7 +1032,6 @@
         "D": "<p>Fuat Köprülü</p>",
         "E": "<p>Adnan Menderes</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     }
 ]

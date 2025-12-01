@@ -12,8 +12,7 @@
         "D": "<p>Özel Eğitim Hizmetleri Yönetmeliği</p>",
         "E": "<p>Özel Eğitime Muhtaç Çocuklar Yönetmeliği</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863050,
@@ -28,8 +27,7 @@
         "D": "<p>Evrensellik</p>",
         "E": "<p>Sürdürülebilirlik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863113,
@@ -44,8 +42,7 @@
         "D": "<p>İş yerleri </p>",
         "E": "<p>Kaplı tesisler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863114,
@@ -60,8 +57,7 @@
         "D": "<p>Yalnız III</p>",
         "E": "<p>Yalnız II</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863115,
@@ -76,8 +72,7 @@
         "D": "<p>Sağaltım</p>",
         "E": "<p>Erişim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863116,
@@ -92,8 +87,7 @@
         "D": "<p>Belediyeler</p>",
         "E": "<p>Valilikler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863117,
@@ -108,8 +102,7 @@
         "D": "<p>Modern Tasarım</p>",
         "E": "<p>Güncel Tasarım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863218,
@@ -124,8 +117,7 @@
         "D": "<p>Erişilebilirlik</p>",
         "E": "<p>Rehabilitasyon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863219,
@@ -140,8 +132,7 @@
         "D": "<p>İnsan Hakları Evrensel Bildirgesi</p>",
         "E": "<p>Engelliler İçin Dünya Eylem Programı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863224,
@@ -156,8 +147,7 @@
         "D": "<p>573 Sayılı Özel Eğitim Hakkında Kanun Hükmünde Kararname</p>",
         "E": "<p>5387 sayılı Engelliler Hakkında Kanun</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863227,
@@ -172,8 +162,7 @@
         "D": "<p>Valilik</p>",
         "E": "<p>Aile ve Sosyal Hizmetler Bakanlığı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863228,
@@ -188,8 +177,7 @@
         "D": "<p>21. Madde</p>",
         "E": "<p>24. Madde</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863233,
@@ -204,8 +192,7 @@
         "D": "<p>Düşük Fiziksel Çaba</p>",
         "E": "<p>Eşitlikçi Kullanım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863304,
@@ -220,8 +207,7 @@
         "D": "I, III, IV ve V",
         "E": "I, II, III ve V",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863305,
@@ -236,8 +222,7 @@
         "D": "Sosyal destek",
         "E": "Danışmanlık",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863307,
@@ -252,8 +237,7 @@
         "D": "Yalnızca fiziksel çevreye odaklanılması ve estetik bütünlüğün korunmaması",
         "E": "Erişilebilirlik denetimlerinin sadece şikâyet üzerine yapılması ve belge talebinde bulunulmaması",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863308,
@@ -268,8 +252,7 @@
         "D": "Sadece işaret dili kullanımının yaygınlaştırılması",
         "E": "Bilgi teknolojilerinde maliyet azaltma politikaları",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863310,
@@ -284,8 +267,7 @@
         "D": "Sesli uyarı veren kronometre",
         "E": "Haptik geri bildirimli bileklik",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863311,
@@ -300,8 +282,7 @@
         "D": "I, IV ve V",
         "E": "I, III, IV ve V",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863313,
@@ -316,8 +297,7 @@
         "D": "Kullanıcıların deneyim seviyesine göre eğitim vermek",
         "E": "Matkap tezgâhını daha büyük bir alana taşımak",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863048,
@@ -332,8 +312,7 @@
         "D": "<p>III ve IV</p>",
         "E": "<p>I ve II</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863071,
@@ -348,8 +327,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863229,
@@ -364,8 +342,7 @@
         "D": "<p>Özel Eğitim</p>",
         "E": "<p>Destek Hizmetler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863230,
@@ -380,8 +357,7 @@
         "D": "<p>2011 yılında</p>",
         "E": "<p>2009 yılında</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863231,
@@ -396,8 +372,7 @@
         "D": "<p>Düşük Fiziksel Efor</p>",
         "E": "<p>Kullanımda Esneklik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863232,
@@ -412,8 +387,7 @@
         "D": "<p>Basit ve Sezgisel Kullanım</p>",
         "E": "<p>Hata Toleransı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863306,
@@ -428,8 +402,7 @@
         "D": "Sosyal yardım programları",
         "E": "Sağlık hizmetleri planlaması",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863312,
@@ -444,8 +417,7 @@
         "D": "I, III ve IV",
         "E": "I, II, III ve IV",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863118,
@@ -460,8 +432,7 @@
         "D": "<p>Tasarım ögeleri, tehlikeleri ve hataları en aza indirecek şekilde yerleştirilmeli</p>",
         "E": "<p>Hata dayanımı olan ya da hatadan koruyan özellikler sağlanmalı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863309,
@@ -476,7 +447,6 @@
         "D": "Kalıcı engellilik",
         "E": "Kısmi görme engeli",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     }
 ]

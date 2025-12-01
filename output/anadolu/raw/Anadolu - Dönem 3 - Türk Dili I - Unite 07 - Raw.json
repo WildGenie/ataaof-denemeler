@@ -12,8 +12,7 @@
         "D": "<p>Üçgen</p>",
         "E": "<p>Öğretmen</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892948,
@@ -28,8 +27,7 @@
         "D": "<p>Sözcük sayısı</p>",
         "E": "<p>Tümce yapısı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892967,
@@ -44,8 +42,7 @@
         "D": "<p>Türklerin İslamiyet'i kabulü ile</p>",
         "E": "<p>Türklerin Göktürk alfabesini kullanmaya başlaması ile</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892973,
@@ -60,8 +57,7 @@
         "D": "<p>Türkçenin Osmanlı Devleti'nin resmi dili olmasından</p>",
         "E": "<p>Türkçenin çok zengin bir dil olması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892981,
@@ -76,8 +72,7 @@
         "D": "<p>Japonca</p>",
         "E": "<p>Farsça</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892982,
@@ -92,8 +87,7 @@
         "D": "<p>2500</p>",
         "E": "<p>7500</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893005,
@@ -108,8 +102,7 @@
         "D": "Gözün aydın",
         "E": "Su verenlerin bol olsun",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893008,
@@ -124,8 +117,7 @@
         "D": "Örtülü sözler kullanmak.",
         "E": "Kaba bir dil kullanmak.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893009,
@@ -140,8 +132,7 @@
         "D": "Uygurlar Dönemi",
         "E": "Anadolu Selçuklu Devleti Dönemi",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893049,
@@ -156,8 +147,7 @@
         "D": "Partner",
         "E": "Edebiyat",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893056,
@@ -172,8 +162,7 @@
         "D": "İngilizce",
         "E": "Almanca",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893077,
@@ -188,8 +177,7 @@
         "D": "<p>Avusturalya'ya yerleşen Türkler'in olması</p>",
         "E": "<p>Suriye Irak ve diğer ülkelerde Türkiye Türkçesi konuşurlarının bulunması.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893078,
@@ -204,8 +192,7 @@
         "D": "<p>ilişki ve nezaket sözlerinin yoğunluğu</p>",
         "E": "<p>akrabalık adlarının azlığı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893086,
@@ -220,8 +207,7 @@
         "D": "<p>han - köşk</p>",
         "E": "<p>dolma - döner</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893095,
@@ -236,8 +222,7 @@
         "D": "<p>Rusça</p>",
         "E": "<p>Boşnakça</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893115,
@@ -252,8 +237,7 @@
         "D": "konferans",
         "E": "banka",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893128,
@@ -268,8 +252,7 @@
         "D": "<div class=\"page\" title=\"Page 6\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Türklerde aile bağlarının ve ilişkilerinin güçlü olması, akrabalıkla ilgili adların zenginleşmesini sağlamıştır.</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 5\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Yüzlerce yıllık gözlem ve deneyimler sonucunda günümüze ulaşan atasözleri içerisinde tarihsel olaylar anlatılmaktadır. </p> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893138,
@@ -284,8 +267,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>Yalnız III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893140,
@@ -300,8 +282,7 @@
         "D": "<p>Özbekistan</p>",
         "E": "<p>Ukrayna</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893196,
@@ -316,8 +297,7 @@
         "D": "<p>Her dil, belirli yönleriyle öne çıkar.</p>",
         "E": "<p>Dillerin zenginliği, bilimsel bir ölçüttür.</p>  ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892942,
@@ -332,8 +312,7 @@
         "D": "<p>Süleyman Çelebi</p>",
         "E": "<p>Baki</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892945,
@@ -348,8 +327,7 @@
         "D": "<p>Karakalpak Türkçesi</p>",
         "E": "<p>Karaçay Türkçesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892958,
@@ -364,8 +342,7 @@
         "D": "<p>Yeni sözcük türetmenin kolaylığına</p>",
         "E": "<p>Ses uyumunun güçlü oluşuna</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892978,
@@ -380,8 +357,7 @@
         "D": "<p>Atasözleri</p>",
         "E": "<p>Sesler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893048,
@@ -396,8 +372,7 @@
         "D": "I, II, III, V",
         "E": "II, III, IV, V",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893057,
@@ -412,8 +387,7 @@
         "D": "Kravat",
         "E": "Döviz",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893066,
@@ -428,8 +402,7 @@
         "D": "<p>IV - V</p>",
         "E": "<p>II - III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893071,
@@ -444,8 +417,7 @@
         "D": "<p>II-III-IV</p>",
         "E": "<p>III-IV-V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893116,
@@ -460,8 +432,7 @@
         "D": "<p>İngilizce</p>",
         "E": "<p>Moğolca</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893122,
@@ -476,8 +447,7 @@
         "D": "<p>malikü’l-mülk (mülkün maliki)</p>",
         "E": "<p>Dâhiliye Nezâreti (İçişleri Bakanlığı)</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893156,
@@ -492,8 +462,7 @@
         "D": "<p>İbrani</p>",
         "E": "<p>Sümer</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893178,
@@ -508,8 +477,7 @@
         "D": "<p>İklim olayları konusunda önlem alınması gerektiğini anlatır</p>",
         "E": "<p>Toplumsal yaşayış ve insan ilişkileri konusunda öğütler verir</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893182,
@@ -524,8 +492,7 @@
         "D": "<p>Almanca</p>",
         "E": "<p>İspanyolca</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893192,
@@ -540,8 +507,7 @@
         "D": "<p>Yabancı &ccedil;okluk eklerinin kullanılması</p>",
         "E": "<p>Asıl c&uuml;mlenin yan c&uuml;mleden &ouml;nce gelmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893193,
@@ -556,8 +522,7 @@
         "D": "<p>Vatandaşlarımızın çalışmak amacıyla çeşitli ülkelere yerleşmesi</p>",
         "E": "<p>Türk radyolarının ve televizyon kanallarının uydudan yayın yapması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892925,
@@ -572,8 +537,7 @@
         "D": "<p>Hadise-i müessife</p>",
         "E": "<p>Malikü'l mülk</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892927,
@@ -588,8 +552,7 @@
         "D": "<p>Çin</p>",
         "E": "<p>Süryani</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892933,
@@ -604,8 +567,7 @@
         "D": "<p>şems</p>",
         "E": "<p>mihr</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892947,
@@ -620,8 +582,7 @@
         "D": "<p>Hun Yazısı-Garibname</p>",
         "E": "<p>Soğut Yazısı-Garibname</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892955,
@@ -636,8 +597,7 @@
         "D": "<p>Ağ ortamındaki yayımcılığın teknoloji ile gelişmesi</p>",
         "E": "<p>Yurt dışında yayımlanan gazete ve dergiler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892962,
@@ -652,8 +612,7 @@
         "D": "<p>Allah dört gözden ayırmasın</p>",
         "E": "<p>Su gibi aziz ol</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892977,
@@ -668,8 +627,7 @@
         "D": "<p>Türkçe sözcüklerde güçlü ses uyumlarının bulunması</p>",
         "E": "<p>Türk dilinin geniş bir coğrafyada konuşulması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892985,
@@ -684,8 +642,7 @@
         "D": "<p>Ütü</p>",
         "E": "<p>Yufka</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892988,
@@ -700,8 +657,7 @@
         "D": "<p>Tatar</p>",
         "E": "<p>Teleüt</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893000,
@@ -716,8 +672,7 @@
         "D": "Güzel",
         "E": "Bacanak",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893026,
@@ -732,8 +687,7 @@
         "D": "Hırvatça",
         "E": "Slovence",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893053,
@@ -748,8 +702,7 @@
         "D": "Akrabalık adlarının çeşitliliği",
         "E": "Atasözleri ve anlatım gücü",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893054,
@@ -764,8 +717,7 @@
         "D": "Türkçe, seksen yedi ülkede en az bir ortaöğretim kurumunda yabancı dil olarak okutulmaktadır.",
         "E": "Türkçe'nini özel kurslarda dil olarak öğretildiği ülke sayısı bir elin parmaklarını geçmez.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893079,
@@ -780,8 +732,7 @@
         "D": "<p>Kutadgu Bilig</p>",
         "E": "<p>Uygur Yazıtları</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893098,
@@ -796,8 +747,7 @@
         "D": "<p>4.800</p>",
         "E": "<p>4.900</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893142,
@@ -812,8 +762,7 @@
         "D": "<p>Batı Dilleri Etkisi Dönemi </p>",
         "E": "<p>Göktürkçe Dönemi </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893151,
@@ -828,8 +777,7 @@
         "D": "<p>I, II, III</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893164,
@@ -844,8 +792,7 @@
         "D": "<p>III, IV</p>",
         "E": "<p>Yalnız V</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893170,
@@ -860,8 +807,7 @@
         "D": "<p>Allah tekrarını yaşatmasın</p>",
         "E": "<p>Üzerinize afiyet</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892930,
@@ -876,8 +822,7 @@
         "D": "<p>3000</p>",
         "E": "<p>4500</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892935,
@@ -892,8 +837,7 @@
         "D": "<p>hikâye-i garibe</p>",
         "E": "<p>la-mekân</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892975,
@@ -908,8 +852,7 @@
         "D": "<p>Divan-ü Lügatit Türk</p>",
         "E": "<p>Risaletü'n Nushiyye</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892992,
@@ -924,8 +867,7 @@
         "D": "<p>7.345</p>",
         "E": "<p>7.102</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893006,
@@ -940,8 +882,7 @@
         "D": "Sözcük türetme gücü",
         "E": "Deyim zenginliği",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893014,
@@ -956,8 +897,7 @@
         "D": "Osmanlı Türkçesinden birçok sözcük günümüz Türkçesinde kullanılmaktadır.",
         "E": "Farsça, Osmanlı Türkçesini etkileyen dillerdendir.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893023,
@@ -972,8 +912,7 @@
         "D": "Osmanlı Türkçesinin varlığında",
         "E": "Eski Anadolu Türkçesinin varlığında",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893044,
@@ -988,8 +927,7 @@
         "D": "II, III, IV, V",
         "E": "I, II, III, IV, V",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893114,
@@ -1004,8 +942,7 @@
         "D": "Konuşma dili",
         "E": "Ağız",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893126,
@@ -1020,8 +957,7 @@
         "D": "<p>Coğrafyası </p>",
         "E": "<p>Yapısı </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893127,
@@ -1036,8 +972,7 @@
         "D": "<p>III ve IV&nbsp;</p>",
         "E": "<p>I ve III&nbsp;</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893133,
@@ -1052,8 +987,7 @@
         "D": "<p>Tanzimat Fermanı ile birlikte Batı'ya yöneliş, Türkçenin söz varlığına bu kez Fransızcanın etkisinin başlatılmıştır. </p>",
         "E": "<p>Osmanlı Türkçesi olarak adlandırdığımız Türkçenin 16. yüzyıldan 20. yüzyılın başlarına kadar olan döneminde Arapça, Farsça dil bilgisi kuralları ve ögeleri dilin yapısına etki etmeye başlamıştır. </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893174,
@@ -1068,8 +1002,7 @@
         "D": "<p>Arapça</p>",
         "E": "<p>Sırpça</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893191,
@@ -1084,8 +1017,7 @@
         "D": "<p><span style=\"font-size: 12pt;\"><span style=\"font-family: Arial;\">İspanyolca</span></span></p>",
         "E": "<p>Almanca</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893201,
@@ -1100,8 +1032,7 @@
         "D": "<p>na-mert: Alçak</p> ",
         "E": "<p>tahtelbahir: Tahtalı bahçe</p>  ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892922,
@@ -1116,8 +1047,7 @@
         "D": "<p>Türkçenin akrabalık düzeylerini, konuşurun cinsiyetini ve medeni durumunu gösterme özelliği de dikkat çekicidir.</p>",
         "E": "<p>Bir kişi baldızından, bacanağından söz ediyorsa konuşurun erkek olduğu; eltisinden, görümcesinden söz edenin ise kadın olduğu anlaşılır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892960,
@@ -1132,8 +1062,7 @@
         "D": "<p>Tercümet'ül Kur'an</p>",
         "E": "<p>Divan'ı Lügat'it Türk</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892996,
@@ -1148,8 +1077,7 @@
         "D": "Maddi ve manevi değerleri ",
         "E": "İnançları ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893047,
@@ -1164,8 +1092,7 @@
         "D": "Üzerinize iyilik.",
         "E": "Lafı bugün söyle, yarın dinle.",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893076,
@@ -1180,8 +1107,7 @@
         "D": "<p>Arapça</p>",
         "E": "<p>Sırpça</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893102,
@@ -1196,8 +1122,7 @@
         "D": "<p>I, II ve IV</p>",
         "E": "<p>I, II, III ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893117,
@@ -1212,8 +1137,7 @@
         "D": "<p>Rusça</p>",
         "E": "<p>Arapça</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893121,
@@ -1228,8 +1152,7 @@
         "D": "<p>Nedim</p>",
         "E": "<p>Nef’i</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893125,
@@ -1244,8 +1167,7 @@
         "D": "<p>Farsça</p>",
         "E": "<p>Korece</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893149,
@@ -1260,8 +1182,7 @@
         "D": "<p>Yapısal özellik </p>",
         "E": "<p>İşlenmişlik </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893158,
@@ -1276,8 +1197,7 @@
         "D": "<p>Bala bal demekle ağız tatlı olmaz.</p>",
         "E": "<p>Yerin kulağı var.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892921,
@@ -1292,8 +1212,7 @@
         "D": "<p>Deyimleri bulunan dillerde atasözleri de bulunur.</p>",
         "E": "<p>Yüzyıllarca tekrarlanarak belirli bir kalıba dökülen atasözleri dillerin yaşını da gösteren söz varlığı ögeleridir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892932,
@@ -1308,8 +1227,7 @@
         "D": "<p>Soğdca</p>",
         "E": "<p>Arapça</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892950,
@@ -1324,8 +1242,7 @@
         "D": "<p>Türkçe sözlüğe göre Türkçe'de toplam 92.292 sözcüğün olması</p>",
         "E": "<p>Ayrıntıların canlı sayılabilecek imgelerle anlatılabilmesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892954,
@@ -1340,8 +1257,7 @@
         "D": "<p>Lüks/lüküs</p>",
         "E": "<p>Enflasyon</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892959,
@@ -1356,8 +1272,7 @@
         "D": "<p>görüntü</p>",
         "E": "<p>öğrenci</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893024,
@@ -1372,8 +1287,7 @@
         "D": "İkili çokluk biçiminin bulunması",
         "E": "Ön ekin kullanılması",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893045,
@@ -1388,8 +1302,7 @@
         "D": "I, II, III, IV, V",
         "E": "II, III, IV, V",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893051,
@@ -1404,8 +1317,7 @@
         "D": "Söz varlığının zenginliğine bağlı anlatım gücü",
         "E": "Coğrafî yaygınlık ve tarihî derinlik",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893087,
@@ -1420,8 +1332,7 @@
         "D": "<p>Uygur Türkçesi</p>",
         "E": "<p>Türkiye Türkçesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893096,
@@ -1436,8 +1347,7 @@
         "D": "<p>Alfabe</p>",
         "E": "<p>Sözcük</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893147,
@@ -1452,8 +1362,7 @@
         "D": "<p>Sözcük ve terim türetme çalışmalarının yürütülmesi</p>",
         "E": "<p>Halk ağzındaki sözlerin derlenmesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893148,
@@ -1468,8 +1377,7 @@
         "D": "<p>I, II, III, IV</p>",
         "E": "<p>I, II, III, V </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893187,
@@ -1484,8 +1392,7 @@
         "D": "<p>Kurallı bir dil bilgisi bulunmaktadır.</p>",
         "E": "<p>İlk yazılı kaynak olması dolayısıyla ilkel bir dille yazılmıştır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892918,
@@ -1500,8 +1407,7 @@
         "D": "<p>Yeryüzünde hiçbir dil saf değildir.</p>",
         "E": "<p>Bir dilin söz varlığı dillerin yaşadığı değişimleri, etkileşimleri göstermez.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892937,
@@ -1516,8 +1422,7 @@
         "D": "<p>7.205</p>",
         "E": "<p>8.106</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892940,
@@ -1532,8 +1437,7 @@
         "D": "<p>Yüzünüze güller</p>",
         "E": "<p>Üzerinize afiyet</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892966,
@@ -1548,8 +1452,7 @@
         "D": "<p>Türkçede ses uyumlarının güçlü olmasından</p>",
         "E": "<p>Türkçede ses uyumlarının söz konusu olmamasından</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892980,
@@ -1564,8 +1467,7 @@
         "D": "<p>\"sütten ağzı yanan yoğurdu üfleyerek yer\" - En kolay ve rahat yoldan yapmak varken zora sokmak yanlıştır.</p>",
         "E": "<p>\"yoldan kal yoldaştan kalma\" - Büyük ve zengin kişilerle dost olmayı tasarlayan kişilerin kendi yaşayışını da ona göre ayarlamak zorundadır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892990,
@@ -1580,8 +1482,7 @@
         "D": "<p>895.000</p>",
         "E": "<p>232.000</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893039,
@@ -1596,8 +1497,7 @@
         "D": "<p> IV ve V</p>",
         "E": "<p> III, IV, V</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893070,
@@ -1612,8 +1512,7 @@
         "D": "<p>Tarihsel derinliğini</p>",
         "E": "<p>Atasözlerin derinliğini</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893094,
@@ -1628,8 +1527,7 @@
         "D": "<p>Kayık</p>",
         "E": "<p>Modern</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893136,
@@ -1644,8 +1542,7 @@
         "D": "<p>İslamiyetin yayılması </p>",
         "E": "<p>İnanç sistemleri </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893168,
@@ -1660,8 +1557,7 @@
         "D": "<p>Söz varlığının genişliği</p>",
         "E": "<p>Akrabalık adlarının çeşitliliği</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893180,
@@ -1676,8 +1572,7 @@
         "D": "<p>Yerin kulağı var</p>",
         "E": "<p>Adıyla yaşasın</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892917,
@@ -1692,8 +1587,7 @@
         "D": "<p>Hangi coğrafi olaylara uğradığı</p>",
         "E": "<p>Hangi yollarda ticaret yaptığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892926,
@@ -1708,8 +1602,7 @@
         "D": "<p>Çin</p>",
         "E": "<p>Bulgaristan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892983,
@@ -1724,8 +1617,7 @@
         "D": "<p>Fransızca</p>",
         "E": "<p>Farsça</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893017,
@@ -1740,8 +1632,7 @@
         "D": "Bir atasözünde kelimelerin yeri değiştirilmez, değiştirildiğinde anlam kaymaları olabilir.",
         "E": "Mecazi anlam taşıyabilirler.",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893018,
@@ -1756,8 +1647,7 @@
         "D": "\"Deveci\u001e i\u001ele görüşen kapısını büyük açmalı\"",
         "E": "\"Et kokarsa tuzlanır, ya tuz kokarsa ne yapılır\"",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893030,
@@ -1772,8 +1662,7 @@
         "D": "Öfkeyle kalkan zararla oturur",
         "E": "İnsanlar konuşa konuşa hayvanlar koklaşa koklaşa",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893035,
@@ -1788,8 +1677,7 @@
         "D": "III, IV",
         "E": "Hiçbiri",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893055,
@@ -1804,8 +1692,7 @@
         "D": "Başkurt Türkçesi - Gagavuz Türkçesi",
         "E": "Uygur Türkçesi - Tatar Türkçesi",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893058,
@@ -1820,8 +1707,7 @@
         "D": "<p>İlk sözel anlatım</p>",
         "E": "<p>Kiril alfabesine geçiş</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893059,
@@ -1836,8 +1722,7 @@
         "D": "<p>I - II - III</p>",
         "E": "<p>I - II - III - IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893080,
@@ -1852,8 +1737,7 @@
         "D": "<p>Zamanla hem sözcükleri hem de anlamı değişen atasözleri de vardır.</p>",
         "E": "<p>Atasözlerimizin anlatım gücü, ifade edilmesi zor duygu ve düşünceleri açık bir biçimde ortaya koyabilmesindedir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893092,
@@ -1868,8 +1752,7 @@
         "D": "<p>İngilizce</p>",
         "E": "<p>Latince</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893097,
@@ -1884,8 +1767,7 @@
         "D": "<p>Yabancı &ccedil;okluk eklerinin kullanılması&nbsp;</p>",
         "E": "<p>.Arap&ccedil;adan ikili &ccedil;okluk bi&ccedil;iminin alıntılanması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893150,
@@ -1900,8 +1782,7 @@
         "D": "<p>Orhun Yazıtları </p>",
         "E": "<p>Latin Abecesi </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893152,
@@ -1916,8 +1797,7 @@
         "D": "<p>Alfabe</p>",
         "E": "<p>Söz varlığı </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893155,
@@ -1932,8 +1812,7 @@
         "D": "<p>Toplumlar etkileşime girse bile söz varlığı değişmez.</p>",
         "E": "<p>Toplumlar etkileşime girdiğinde saf diller bundan etkilenmez.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892953,
@@ -1948,8 +1827,7 @@
         "D": "<p>Şiveler</p>",
         "E": "<p>Lehçeler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893002,
@@ -1964,8 +1842,7 @@
         "D": "Portekizce",
         "E": "Fransızca",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893027,
@@ -1980,8 +1857,7 @@
         "D": "Üzerinize afiyet",
         "E": "Kendin pişir kendin ye",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893052,
@@ -1996,8 +1872,7 @@
         "D": "Akrabalık adlarının çeşitliliği",
         "E": "Soyut kavramları somut anlatımlarla karşılama",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893108,
@@ -2012,8 +1887,7 @@
         "D": "Ekonomik gücü",
         "E": "İnançları",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893119,
@@ -2028,8 +1902,7 @@
         "D": "<p>Kıril alfabesi</p>",
         "E": "<p>Arap alfabesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893157,
@@ -2044,8 +1917,7 @@
         "D": "<p>kelime hazinesindeki deyimler</p>",
         "E": "<p>akrabalık adlarında çeşitlilik</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893184,
@@ -2060,8 +1932,7 @@
         "D": "<p>3000</p>",
         "E": "<p>5000</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893190,
@@ -2076,8 +1947,7 @@
         "D": "<p>Çince</p>",
         "E": "<p>Arapça</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893203,
@@ -2092,8 +1962,7 @@
         "D": "<p>Yurt dışında Türkçe öğretim veren kurumların açılması.</p> ",
         "E": "<p>Türkçe basılan iletişim araçlarının sanal ortamda dolaşıma girmesi.</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892949,
@@ -2108,8 +1977,7 @@
         "D": "<p>Geçmişten günümüze farklı abecelerin kullanılması</p>",
         "E": "<p>Yazıldığı gibi okunan bir dil olması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892952,
@@ -2124,8 +1992,7 @@
         "D": "<p>Toharca</p>",
         "E": "<p>Farsça</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892964,
@@ -2140,8 +2007,7 @@
         "D": "<p>Çakal</p>",
         "E": "<p>Keder</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892974,
@@ -2156,8 +2022,7 @@
         "D": "<p>Kaşgarlı Mahmut</p>",
         "E": "<p>Ali Rıfat Çağatay</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893007,
@@ -2172,8 +2037,7 @@
         "D": "Bir dilde yapım eklerinin sayıca çok olması.",
         "E": "Bir dilde ses uyumlarının güçlü oluşu.",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893020,
@@ -2188,8 +2052,7 @@
         "D": "Bulgarca",
         "E": "Lazca",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893069,
@@ -2204,8 +2067,7 @@
         "D": "<p>Yapı bakımından eklemeli dil olması</p>",
         "E": "<p>Dil bilimleri araştırmalarının olması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893099,
@@ -2220,8 +2082,7 @@
         "D": "<p>92.293</p>",
         "E": "<p>92.294</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893123,
@@ -2236,8 +2097,7 @@
         "D": "<p>Tüm eklerin kökün ya da gövdenin sonuna (sağına) eklenmesi</p>",
         "E": "<p>İç ek olmaması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893169,
@@ -2252,8 +2112,7 @@
         "D": "<p>TDK’ya göre Türkçe sözlükte 92.292 sözcük mevcuttur</p>",
         "E": "<p>Türkçenin gücünü göstermektedir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893198,
@@ -2268,8 +2127,7 @@
         "D": "<p>Deyimler, Türkçenin son döneminde üretilmiştir.</p> ",
         "E": "<p>Türkçe, Avrupa kıtasında konuşulmamaktadır.</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892928,
@@ -2284,8 +2142,7 @@
         "D": "<p>400</p>",
         "E": "<p>500</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892956,
@@ -2300,8 +2157,7 @@
         "D": "<p>Özbekistan </p>",
         "E": "<p>Kırgızistan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892957,
@@ -2316,8 +2172,7 @@
         "D": "<p>İnanç sistemleri</p>",
         "E": "<p>Dilin yaşadığı değişimler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892968,
@@ -2332,8 +2187,7 @@
         "D": "<p>Bağdat'ta pilav var demişler, yalan değilse ırak değil demiş</p>",
         "E": "<p>Balın olsun tek, Bağdat'ta ye sinek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892987,
@@ -2348,8 +2202,7 @@
         "D": "<p>Kazakistan</p>",
         "E": "<p>Kırgızistan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892999,
@@ -2364,8 +2217,7 @@
         "D": "Türkçe sözlerin kullanım sıklığını azaltması ",
         "E": "Türkçenin yeryüzündeki yaygınlık alanını daraltması  ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893016,
@@ -2380,8 +2232,7 @@
         "D": "İspanyolcadan daha fazla konuşulma alanına sahiptir.",
         "E": "İlişki sözleri oldukça gelişmiştir.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893031,
@@ -2396,8 +2247,7 @@
         "D": "III, IV",
         "E": "I, II, III",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893073,
@@ -2412,8 +2262,7 @@
         "D": "<p>Alıntı sözler söylemek.</p>",
         "E": "<p>İlişki ve nezaket sözleri söylemek.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893083,
@@ -2428,8 +2277,7 @@
         "D": "<p>Bulgarca</p>",
         "E": "<p>Arnavutça</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893107,
@@ -2444,8 +2292,7 @@
         "D": "Arap ve İran toplumlarıyla çok sıkı dostluklar kurulması",
         "E": "Köktürk alfabesinin yazı dili için yetersiz olması",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893181,
@@ -2460,8 +2307,7 @@
         "D": "<p>17. yy</p>",
         "E": "<p>18. yy</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893186,
@@ -2476,8 +2322,7 @@
         "D": "<p>Terim</p>",
         "E": "<p>Deyim</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892989,
@@ -2492,8 +2337,7 @@
         "D": "<p>Çeçenistan</p>",
         "E": "<p>Fransa</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893101,
@@ -2508,8 +2352,7 @@
         "D": "<p>I,II ve III</p>",
         "E": "<p>I,II,III ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893110,
@@ -2524,8 +2367,7 @@
         "D": "Rumence",
         "E": "Rusça",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893144,
@@ -2540,8 +2382,7 @@
         "D": "<div class=\"page\" title=\"Page 14\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Çalışmak amacıyla Avrupa’nın çeşitli ülkelerine giden vatandaşlarımız Türkçenin yapısının bozulmasına neden olmuşlardır. </p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 14\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Pek çok ülkede yabancı dil olarak öğretilmesi engellenmektedir. </p> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893146,
@@ -2556,8 +2397,7 @@
         "D": "<p>Tibet </p>",
         "E": "<p>Arap </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893161,
@@ -2572,8 +2412,7 @@
         "D": "<p>Kutadgu Bilig</p>",
         "E": "<p>Atabetü’l-Hakayık</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893163,
@@ -2588,8 +2427,7 @@
         "D": "<p>Horasan Türkçesi</p>",
         "E": "<p>Türkiye Türkçesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893173,
@@ -2604,8 +2442,7 @@
         "D": "<p>Bacanak</p>",
         "E": "<p>Ocak</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893188,
@@ -2620,8 +2457,7 @@
         "D": "<p>Ses uyumlarının güçlü olması</p>",
         "E": "<p>Türk atasözlerinin sayıca çokluğu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892984,
@@ -2636,8 +2472,7 @@
         "D": "<p>17. yüzyıl</p>",
         "E": "<p>18. yüzyıl</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892994,
@@ -2652,8 +2487,7 @@
         "D": "<p>Güçlü</p>",
         "E": "<p>Azimli</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893075,
@@ -2668,8 +2502,7 @@
         "D": "<p>Arapçanın</p>",
         "E": "<p>İngilizcenin</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893109,
@@ -2684,8 +2517,7 @@
         "D": "<p>Kazak Türkçesi</p>",
         "E": "<p>Özbek Türkçesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893131,
@@ -2700,8 +2532,7 @@
         "D": "<p>I, II, III</p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893139,
@@ -2716,8 +2547,7 @@
         "D": "<p>Kazakistan</p>",
         "E": "<p>Afganistan</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893171,
@@ -2732,8 +2562,7 @@
         "D": "<p>Farsça</p>",
         "E": "<p> Toharca</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893176,
@@ -2748,8 +2577,7 @@
         "D": "<p>Üslup son derece akıcı ve sürükleyicidir</p>",
         "E": "<p>Kurallı bir dil bilgisinin varlığı söz konusu değildir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893194,
@@ -2764,8 +2592,7 @@
         "D": "<p>Karahanlı Türkçesi</p>",
         "E": "<p>Uygur Türkçesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892979,
@@ -2780,8 +2607,7 @@
         "D": "<p>İfade edilmesi zor duygu ve d&uuml;ş&uuml;nceleri a&ccedil;ık bir bi&ccedil;imde ortaya koyarlar.</p>",
         "E": "<p>Bazı deyimlerin benzerleri başka dillerde g&ouml;r&uuml;lebilir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893022,
@@ -2796,8 +2622,7 @@
         "D": "İran",
         "E": "Irak",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893064,
@@ -2812,8 +2637,7 @@
         "D": "<p>Farsça - İtalyanca</p>",
         "E": "<p>İtalyanca - Fransızca</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893072,
@@ -2828,8 +2652,7 @@
         "D": "<p>Söz varlığının genişliği</p>",
         "E": "<p>Türk dilinin coğrafi yaygınlığı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893074,
@@ -2844,8 +2667,7 @@
         "D": "<p>Osmanlılar</p>",
         "E": "<p>Selçuklular</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893113,
@@ -2860,8 +2682,7 @@
         "D": "Üslup son derece akıcı ve sürükleyicidir.",
         "E": "Dillerine diğer dillerden çok sayıda sözcük almıştır.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893120,
@@ -2876,8 +2697,7 @@
         "D": "<p>Türkçenin birçok dile sözcük vermesi</p>",
         "E": "<p>Türkçenin eklemeli bir dil olması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892941,
@@ -2892,8 +2712,7 @@
         "D": "<p>Uygur metinleri</p>",
         "E": "<p>Garibname</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893065,
@@ -2908,8 +2727,7 @@
         "D": "<p>II - III - IV - V</p>",
         "E": "<p>I - II - III - IV - V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893134,
@@ -2924,8 +2742,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>II ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893135,
@@ -2940,8 +2757,7 @@
         "D": "<p>Çince</p>",
         "E": "<p>Urduca</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893154,
@@ -2956,8 +2772,7 @@
         "D": "<p>Orta Asya - Uzak Doğu</p>",
         "E": "<p>Orta Doğu - Balkanlar </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893159,
@@ -2972,8 +2787,7 @@
         "D": "<p>Bütün diller aynı üretme yeteneğine sahiptir.</p>",
         "E": "<p>Kendine yetmeyen diller vardır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893162,
@@ -2988,8 +2802,7 @@
         "D": "<p>Ön ek bulunmaması</p>",
         "E": "<p>Yan cümlenin önce, asıl cümlenin sonra gelmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893197,
@@ -3004,8 +2817,7 @@
         "D": "<p>Türkçenin yazımında, tek bir abece kullanılagelmiştir.</p>",
         "E": "<p>Göktürk abecesi, Türkçenin bilinen ilk abecesidir.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893200,
@@ -3020,8 +2832,7 @@
         "D": "<p>Osmanlı döneminin sonunda, Fransızca etkisi yaygınlaşmıştır.</p>",
         "E": "<p>Toplumsal açıdan yüksek katmanın dili, Türkçe sözden uzaktır.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892946,
@@ -3036,8 +2847,7 @@
         "D": "<p>Damga</p>",
         "E": "<p>Köşk</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892995,
@@ -3052,8 +2862,7 @@
         "D": "<p>Almanya</p>",
         "E": "<p>Fransa</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893013,
@@ -3068,8 +2877,7 @@
         "D": "Deyim",
         "E": "Atasözü",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893068,
@@ -3084,8 +2892,7 @@
         "D": "<p>Gelişmişlik açısından</p>",
         "E": "<p>Öznellik açısından</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893100,
@@ -3100,8 +2907,7 @@
         "D": "<p>I, II ve IV</p>",
         "E": "<p>I,II, III ve IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893132,
@@ -3116,8 +2922,7 @@
         "D": "<p>%9 altı</p>",
         "E": "<p>%1 altı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893145,
@@ -3132,8 +2937,7 @@
         "D": "<p>Toplumun etkileşimli olduğu diller </p>",
         "E": "<p>Toplumun kullandığı para birimleri </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893175,
@@ -3148,8 +2952,7 @@
         "D": "<p>Yapım ekleri işlevsel ve çoktur</p>",
         "E": "<p>Türkçe sözcüklerde kalınlık incelik açısında uyum güçlüdür</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892920,
@@ -3164,8 +2967,7 @@
         "D": "<p>Üslup son derece akıcı ve sürükleyicidir. </p>",
         "E": "<p>Orhon Yazıtları’nda deyimler, atasözü niteliğini kazanmış söz kalıpları yoktur.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892931,
@@ -3180,8 +2982,7 @@
         "D": "<p>Kuzey Türkçesi</p>",
         "E": "<p>Türkiye Türkçesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892986,
@@ -3196,8 +2997,7 @@
         "D": "<p>Türkmenistan</p>",
         "E": "<p>Çin</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893004,
@@ -3212,8 +3012,7 @@
         "D": "Türkçe köklerin sözcük türetmeye elverişli oluşu",
         "E": "Türkçede geniş ünlülerin oluşu",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893103,
@@ -3228,8 +3027,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893166,
@@ -3244,8 +3042,7 @@
         "D": "<p>Tibet</p>",
         "E": "<p>Brahmi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893172,
@@ -3260,8 +3057,7 @@
         "D": "<p>Arapça ve Farsça</p>",
         "E": "<p>Çince ve İspanyolca</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893185,
@@ -3276,8 +3072,7 @@
         "D": "<p>Eklemeli dil olması</p>",
         "E": "<p>Küçük ünlü uyumunun bulunması </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892924,
@@ -3292,8 +3087,7 @@
         "D": "<p>Nabi</p>",
         "E": "<p>Nef'i</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892972,
@@ -3308,8 +3102,7 @@
         "D": "<p>Sarma</p>",
         "E": "<p>Balkon</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893029,
@@ -3324,8 +3117,7 @@
         "D": "<p>Bir inanca girme</p>",
         "E": "<p>Göçler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893081,
@@ -3340,8 +3132,7 @@
         "D": "<p>filtre kahve</p>",
         "E": "<p>çamaşır suyu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893129,
@@ -3356,8 +3147,7 @@
         "D": "<p>Grek Yazısı</p>",
         "E": "<p>Arap Yazısı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893143,
@@ -3372,8 +3162,7 @@
         "D": "<p>II, III, IV </p>",
         "E": "<p>III, IV </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892934,
@@ -3388,8 +3177,7 @@
         "D": "<p>eytam</p>",
         "E": "<p>memurin</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892936,
@@ -3404,8 +3192,7 @@
         "D": "<p>Mefkûre</p>",
         "E": "<p>Mukmir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892961,
@@ -3420,8 +3207,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892998,
@@ -3436,8 +3222,7 @@
         "D": "Denizcilik ",
         "E": "İletişim ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893177,
@@ -3452,8 +3237,7 @@
         "D": "<p>İfade edilmesi basit olan düşünceleri anlaşılması güç bir şekilde ortaya koyar</p>",
         "E": "<p>Yeryüzündeki her dilin atasözü vardır</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893189,
@@ -3468,8 +3252,7 @@
         "D": "<p>İnsanlar konuşa konuşa, hayvanlar koklaşa koklaşa.</p>",
         "E": "<p>Vakit nakittir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892976,
@@ -3484,8 +3267,7 @@
         "D": "<p>Göktürk yazısının bir bölümü Türk damgalarından gelen harflerden oluşur.</p>",
         "E": "<p>Farklı bir inancı benimsemek Türk yazısının değişmesine sebep olmuştur.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893084,
@@ -3500,8 +3282,7 @@
         "D": "<p>Portekizce</p>",
         "E": "<p>Almanca</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893195,
@@ -3516,8 +3297,7 @@
         "D": "<p>Birçok dil, hiçbir dönüşüm geçirmeden arı dil özelliğini korumuştur.</p> ",
         "E": "<p>Diller arası etkileşimin sonucunda, yeni sözcükler kazanılmıştır.</p>   ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893199,
@@ -3532,8 +3312,7 @@
         "D": "<p>Darı unundan baklava, incir ağacından oklava olmaz.</p>",
         "E": "<p>Koyunun bulunmadığı yerde keçiye Abdurrahman Çelebi derler.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893010,
@@ -3548,8 +3327,7 @@
         "D": "Yoğun bir bilgiyi canlı tutarak aktarmakla görevlidir.",
         "E": "Atasözlerini meydana getiren sözler mastarla bitirilir.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893036,
@@ -3564,8 +3342,7 @@
         "D": "Japon",
         "E": "Süryani",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893060,
@@ -3580,8 +3357,7 @@
         "D": "<p>Söz varlığı</p>",
         "E": "<p>Anlatım gücü</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893085,
@@ -3596,8 +3372,7 @@
         "D": "<p>Soğdca - Farsça</p>",
         "E": "<p>Sanskritçe - Toharca</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892938,
@@ -3612,8 +3387,7 @@
         "D": "<p>Atasözlerinin çokluğu</p>",
         "E": "<p>Yapı bakımından eklemeli dil olması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893067,
@@ -3628,8 +3402,7 @@
         "D": "<p>Kazak Türkçesi - Kazakistan</p>",
         "E": "<p>Salar Türkçesi Çin</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892970,
@@ -3644,8 +3417,7 @@
         "D": "<p>Arapça-Hintçe</p>",
         "E": "<p>Farsça-Arapça</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893040,
@@ -3660,8 +3432,7 @@
         "D": "Kefaretin bedeli",
         "E": "Beyhude çabalar",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893165,
@@ -3676,8 +3447,7 @@
         "D": "<p>Söz varlıklarına</p>",
         "E": "<p>Ticari ilişkilere</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3892951,
@@ -3692,8 +3462,7 @@
         "D": "<p>Divanü Lügati’t-Türk</p>",
         "E": "<p>Atabetül Hakayık</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893033,
@@ -3708,8 +3477,7 @@
         "D": "Özbekistan",
         "E": "İran",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893088,
@@ -3724,8 +3492,7 @@
         "D": "<p>Söz varlığı ve anlatım gücü</p>",
         "E": "<p>Akraba adlarındaki çeşitlilik</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893179,
@@ -3740,7 +3507,771 @@
         "D": "<p>Görünen köy kılavuz istemez.</p>",
         "E": "<p>El elin eşeğini türkü çağırarak arar.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893021,
+        "UniteNo": 7,
+        "PageNumber": 200,
+        "AnswerExplanation": "Gürcistan, Azerbaycan, Kazakistan, Kırgızistan, Türkiye; Ahıska Türkçesinin en çok konuşulduğu yerlerdir. Doğru cevap E seçeneğidir.",
+        "Title": "Dünyada Türk dilinin konuşulduğu coğrafyaları ayırt edebileceksiniz.",
+        "Text": "Aşağıda verilen ülkelerden hangisinde Ahıska Türkçesi kullanılmamaktadır?",
+        "A": "Gürcistan",
+        "B": "Azerbaycan",
+        "C": "Kazakistan",
+        "D": "Kırgıstan",
+        "E": "Slovakya",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893141,
+        "UniteNo": 7,
+        "PageNumber": 195,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 8\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Orhun Yazıtları, İslamiyete geçiş, Tanzimat Fermanız ve İkinci Dünya Savaşı direkt olarak Tükçenin yapısını etkilemiştir. Türklerin İslam dinine girmesiyle birlikte bu kez de Arapça, Farsça sözcükler Karahanlı Dönemi eserlerinden itibaren Türk yazı dillerinde görülmeye başlanır. Bu dönemin ilk eserlerinden Yusuf Has Hacib’in yazdığı Kutadgu Bilig’de Arapçadan etkiler görülür. Doğru yanıt B'dir. </p> </div> </div> </div>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi Türkçeyi etkileyen etkenlerden biri değildir? </p>",
+        "A": "<p>Orhun Yazıtları </p>",
+        "B": "<p>Kutadgu Bilig </p>",
+        "C": "<p>İslamiyet </p>",
+        "D": "<p>Tanzimat Fermanı </p>",
+        "E": "<p>İkinci Dünya Savaşı </p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893001,
+        "UniteNo": 7,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Dünyada Türk dilinin konuşulduğu coğrafyaları ayırt edebileceksiniz.",
+        "Text": "\"Türkçe, seksen yedi ülkede en az bir ortaöğretim kurumunda yabancı dil olarak okutulmaktadır. Kırk altı ülkede ise özel kurslarda Türkçe yabancı dil olarak öğretilmektedir. Dokuz ülkede Türkçe öğretim yapan üniversite; yirmi sekiz ülkede de Türkçenin öğretildiği, dil bilgisi ve dil bilimi çalışmalarının yürütüldüğü enstitü, bölüm veya merkez bulunmaktadır.\"Bu bilgiler ışığında, aşağıdaki ifadelerden hangisi söylenemez?",
+        "A": "Türkçe birçok ülkede güncel olarak kullanılan bir dildir.",
+        "B": "Türkçe, farklı ülkelerde üzerinde araştırma yapılan bir dildir.",
+        "C": "Türkçe, uzun yıllardır diğer dillerle etkileşim halindedir.",
+        "D": "Türkçe, geniş bir coğrafyaya yayılmıştır.",
+        "E": "Türkçe, en az dokuz ülkede resmi dil olarak kullanılmaktadır.",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893028,
+        "UniteNo": 7,
+        "PageNumber": 191,
+        "AnswerExplanation": "Soru kitaptaki metni aynen sorduğu için hatırlama düzeyinde bir sorudur.",
+        "Title": "Türk dilinin özellikleri ile zenginlik alanlarını açıklayabileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi Türkçenin güçlü yanları ve iç zenginliği olarak değerlendirilebilecek alanlardan biri değildir?",
+        "A": "Tarihsel Derinlik",
+        "B": "Söz Varlığının Genişliği",
+        "C": "İlişki ve Nezaket Sözlerinin Yoğunluğu",
+        "D": "Türkçenin Söz Varlığına Girmiş Yabancı Kökenli Sözcükler",
+        "E": "Atasözlerinin Çokluğu ve Anlatım Gücü",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893130,
+        "UniteNo": 7,
+        "PageNumber": 192,
+        "AnswerExplanation": "<p>Türkçede toplam 4.500 adet atasözü bulunmaktadır.</p>",
+        "Title": "",
+        "Text": "<p>Türkçede kaç adet atasözü bulunmaktadır?</p>",
+        "A": "<p>1.500</p>",
+        "B": "<p>2.500</p>",
+        "C": "<p>3.500</p>",
+        "D": "<p>4.500</p>",
+        "E": "<p>5.000</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893011,
+        "UniteNo": 7,
+        "PageNumber": 161,
+        "AnswerExplanation": "Birleşik sözlerin bir kısmı bitişik yazılır. Örneğin: bilgisayar, biçerdöver.",
+        "Title": "Türk dilinin özellikleri ile zenginlik alanlarını açıklayabileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi birleşik sözlere ait bir özellik değildir?",
+        "A": "iki sözcük arasına hiçbir sözcük giremez.",
+        "B": "İkinci sözcük normal bir fiil olarak çekimlenmez.",
+        "C": "iki sözcük de degiştirilemez.",
+        "D": "İki sözcük de derin anlamlı yapı içermez.",
+        "E": "İki sözcük kesinlikle bitişik yazılmaz.",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893082,
+        "UniteNo": 7,
+        "PageNumber": 199,
+        "AnswerExplanation": "<p>Türkçeden en fazla sözcüğün geçtiği dil Sırpçadır. Bir zamanlar dokuz bine yakın sözcüğün bulunduğu belirlenmiştir. Bugün Sırpçada sayısı yedi bine yaklaşan Türkçe alıntıdan badžànak ‘bacanak’, bàlta ‘balta’, dùšek ‘döşek’, jòrgan ‘yorgan’, kàjmak ‘kaymak’, òdžak ‘ocak’ bunlardan yalnızca birkaçıdır.</p>",
+        "Title": "",
+        "Text": "<p>Türkçeden en fazla sözcüğün geçtiği dil aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Arapça</p>",
+        "B": "<p>Farsça</p>",
+        "C": "<p>İbranice</p>",
+        "D": "<p>Sırpça </p>",
+        "E": "<p>Bulgarca</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893111,
+        "UniteNo": 7,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Türkçenin diğer dillerle etkileşimini karşılaştırabileceksiniz.",
+        "Text": "Türk Dil Kurumunun verilerine göre Türkçeye en çok hangi dilden sözcük geçmiştir?",
+        "A": "Arnavutça",
+        "B": "İbranice",
+        "C": "Arapça",
+        "D": "Japonca",
+        "E": "Fransızca",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893118,
+        "UniteNo": 7,
+        "PageNumber": 198,
+        "AnswerExplanation": "<p>Türk Dil Kurumu tarafından 2011 yılında yayımlanan on birinci baskı Türkçe Söz­lük’teki bu türden alıntı sözcüklerin dillere göre sayıları şöyledir: Arapça 6.512, Fransızca 5.537, Farsça 1.375, İtalyanca 606, İngilizce 513, Rumca 447. Doğru cevap D’dir.</p>",
+        "Title": "",
+        "Text": "<p>Türkçe sözlüğe göre Türkçenin en fazla alıntı yaptığı dil hangisidir?</p>",
+        "A": "<p>Fransızca</p>",
+        "B": "<p>İngilizce</p>",
+        "C": "<p>İtalyanca</p>",
+        "D": "<p>Arapça</p>",
+        "E": "<p>Farsça</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892963,
+        "UniteNo": 7,
+        "PageNumber": 195,
+        "AnswerExplanation": "<p>Türklerin İslam dinine girmesiyle birlikte bu kez de Arapça, Farsça sözcükler Karahanlı Dönemi eserlerinden itibaren Türk yazı dillerinde görülmeye başlanır. Bu dönemin ilk eserlerinden Yusuf Has Hacib’in yazdığı Kutadgu Bilig’de Arapçadan alınma haber, hacet, fitne, kudret, mezalim, nefs, Rab, rahmet, sohbet kelimeleri kullanılmıştır. Doğru cevap A'dır. </p>",
+        "Title": "",
+        "Text": "<p>Karahanlılar döneminden itibaren Türkçe'ye geçtiği bilinen \"haber, nefs, mezalim\" gibi kelimeler hangi dilden alınmıştır? </p>",
+        "A": "<p>Arapça</p>",
+        "B": "<p>Farsça</p>",
+        "C": "<p>Hintçe</p>",
+        "D": "<p>Uygurca</p>",
+        "E": "<p>Göktürkçe</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892965,
+        "UniteNo": 7,
+        "PageNumber": 201,
+        "AnswerExplanation": "<p>Günümüzde Ahıska Türkçesi Gürcistan, Azerbaycan, Kazakistan, Kırgızistan, Türkiye'de kulanılmaktadır. Doğru cevap A'dır.</p>",
+        "Title": "",
+        "Text": "<p>Günüzde Ahıska Türkçe'si aşağıdaki ülkelerden hangilerinde kullanılmaktadır?</p>",
+        "A": "<p>Gürcistan, Azerbaycan, Kazakistan</p>",
+        "B": "<p>Ukrayna, Özbekistan, Rusya Federasyonu, </p>",
+        "C": "<p>İran, Irak, Afganistan</p>",
+        "D": "<p>Türkiye, Kuzey Kıbrıs Türk Cumhuriyeti, Almanya</p>",
+        "E": "<p>Makedonya, Özbekistan, Romanya</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893012,
+        "UniteNo": 7,
+        "PageNumber": 159,
+        "AnswerExplanation": "Alfabedeki harflerin fazlalığı dili zenginleştirmez. Dillerin zenginliğinin başta gelen ölçüsü çeşitli duygu, düşünce ve kavramları anlatabilme gücüdür. Duygu, düşünce ve kavramları dile getirebilmek için sözcük sayısının çok olması önemli olmakla birlikte, bundan daha önemlisi dilin sözcük türetme ve soyutlama gücüdür.",
+        "Title": "Türkçenin söz varlığının anlatım gücünü betimleyebileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi Türk dilini zenginleştiren özeliklerden değildir?",
+        "A": "Mecazlı anlatımların çokluğu",
+        "B": "Soyutlama sözcüklerin çokluğu",
+        "C": "Deyim sayısının çokluğu",
+        "D": "Alfabedeki harflerin çokluğu",
+        "E": "Sözcük sayısının çokluğu",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893046,
+        "UniteNo": 7,
+        "PageNumber": 193,
+        "AnswerExplanation": "Doğru cevap a şıkkıdır",
+        "Title": "Türkçenin söz varlığının anlatım gücünü betimleyebileceksiniz.",
+        "Text": "İki erkek kardeşin eşleri, Türkçede hangi sözcükle ifade edilmektedir?",
+        "A": "Elti",
+        "B": "Görümce",
+        "C": "Kayın",
+        "D": "Bacanak",
+        "E": "Baldız",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893089,
+        "UniteNo": 7,
+        "PageNumber": 194,
+        "AnswerExplanation": "<p>Orhun Yazıtlarında Teluguca'dan alıntı sözcükler yoktur.</p>",
+        "Title": "",
+        "Text": "<p>Orhun Yazıtlarında aşağıdaki dillerden hangisinden alıntı sözcükler görülmez?</p>",
+        "A": "<p>Çince</p>",
+        "B": "<p>Sanskritçe</p>",
+        "C": "<p>Soğdca</p>",
+        "D": "<p>Hintçe</p>",
+        "E": "<p>Teluguca</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892971,
+        "UniteNo": 7,
+        "PageNumber": 196,
+        "AnswerExplanation": "<p>Güverte, iskele kelimeleri İtalyanca olup, abonman ve balon kelimeleri Fransızcadan alınmıştır. Gölge kelimesi ise Türkçe KÖLGE kelimesinden türemiştir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki kelimelerden hangisi batı dillerinden alıntı bir sözcük değildir ?</p>",
+        "A": "<p>Güverte</p>",
+        "B": "<p>İskele</p>",
+        "C": "<p>Abonman</p>",
+        "D": "<p>Balon</p>",
+        "E": "<p>Gölge</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893037,
+        "UniteNo": 7,
+        "PageNumber": 190,
+        "AnswerExplanation": "Doğru cevap c şıkkıdır",
+        "Title": "Türk dilinin özellikleri ile zenginlik alanlarını açıklayabileceksiniz.",
+        "Text": "I. Türkçe yapı bakımından eklemeli bir dildir. II. Türkçe sözcüklerde kalınlık incelik açısından uyum güçlüdür. III. Türkçe sözcüklerde düzlük yuvarlaklık açısından uyum vardır. IV. Türkçe sözcüklerde genişlik yuvarlaklık açısından güçlü bir uyum vardır.\r\nTürkçe ile ilgili yukarıda verilen bilgilerden hangileri doğrudur?",
+        "A": "I, II",
+        "B": "II, III",
+        "C": "I, II, III",
+        "D": "III, IV",
+        "E": "II, III, IV",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893153,
+        "UniteNo": 7,
+        "PageNumber": 193,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 6\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Türklerde aile bağlarının ve ilişkilerinin güçlü olması, akrabalıkla ilgili adların zenginleşmesini sağlamıştır. Doğru yanıt C'dir. </p> </div> </div> </div>",
+        "Title": "",
+        "Text": "<div class=\"page\" title=\"Page 6\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Dört ayrı akraba baldız, elti, görümce, yenge için Türkçede ayrı ayrı sözcükler kullanılırken bu kavramlar İngilizcede <em>sister-in-law</em>, Almancada <em>schwägerin</em>, Fransızcada <em>belle-soeur</em> gibi pek çok dilde birer sözcükle karşılanmaktadır. Bunun nedeni aşağıdakilerden hangisi olabilir? </p> </div> </div> </div>",
+        "A": "<p>Nüfusun kalabalık olması </p>",
+        "B": "<p>Akrabalara saygı gösterme </p>",
+        "C": "<p>Aile bağlarının güçlü olması </p>",
+        "D": "<p>Aile ilişkilerinin sürdürülmesi </p>",
+        "E": "<p>Ailelerin bir arada yaşaması </p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893183,
+        "UniteNo": 7,
+        "PageNumber": 199,
+        "AnswerExplanation": "<p>Türkçeden en fazla sözcüğün geçtiği dil Sırpça'dır. Doğru cevap E'dir.</p>",
+        "Title": "",
+        "Text": "<p>Türkçeden en fazla sözcüğün geçtiği dil aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Almanca</p>",
+        "B": "<p>Portekizce</p>",
+        "C": "<p>İtalyanca</p>",
+        "D": "<p>İspanyolca</p>",
+        "E": "<p>Sırpça</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892944,
+        "UniteNo": 7,
+        "PageNumber": 199,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Türkçeden en fazla sözcüğün geçtiği dil Sırpçadır. Bir zamanlar dokuz bine yakın sözcüğün bulunduğu belirlenmiştir. Bugün Sırpçada sayısı yedi bine yaklaşan Türkçe alıntıdan badžànak ‘bacanak’, bàlta ‘balta’, dùšek ‘döşek’, jòrgan ‘yorgan’, kàjmak ‘kaymak’, òdžak ‘ocak’ bunlardan yalnızca birkaçıdır. Doğru cevap D'dir.</p>",
+        "Title": "",
+        "Text": "<p>Türkçeden en fazla sözcüğün geçtiği dil aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Rusça</p>",
+        "B": "<p>Farsça</p>",
+        "C": "<p>Arapça </p>",
+        "D": "<p>Sırpça</p>",
+        "E": "<p>Bulgarca</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892969,
+        "UniteNo": 7,
+        "PageNumber": 193,
+        "AnswerExplanation": "<p>Türkçedeki bu tarz sözcüklerin fazlalığı kültürümüzde insan ilişkilerine verilen önemin bir göstergesidir.</p>",
+        "Title": "",
+        "Text": "<p>Pek çok dilde bulunan günaydın, afiyet olsun, özür dilerim gibi sınırlı sayıda birkaç söze karşılık, Türkçedeki bu tarzda sözlerin fazlalığının sebebi aşağıdakilerden hangisi olabilir ?</p>",
+        "A": "<p>Türk dilinin çok zengin olması</p>",
+        "B": "<p>Türk kültürünün çok zengin olması</p>",
+        "C": "<p>Türk kültüründe insan ilişkilerine önem verilmesi</p>",
+        "D": "<p>Başka kültürlerle girilen etkileşim</p>",
+        "E": "<p>Türkçenin kavram çeşitliliği açısından zenginleştirilmek istenmesi</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892991,
+        "UniteNo": 7,
+        "PageNumber": 196,
+        "AnswerExplanation": "<p>Arapçanın Türkçe üzerindeki etkileri fazladır. Türkçede sözcüklerin cinsiyeti bulunmamasına karşın Arapçadan geçen sözcüklerde erilliklerin ve dişilliklerin korunması, tamlamaların da sözcüklerin cinsiyeti gözetilerek yapılması: hikâye-i garibe ‘garip hikâye’, hadise-i müessife ‘üzücü olay’ vb. Eklemeli bir dil olan Türkçede bütün eklerin son ek olmasına, ön ek bulunmamasına karşın Farsçadan, Arapçadan ön ek ve edatların alıntılanması: bî-baht ‘bahtsız’ vb. Türkçede ikili çokluk bulunmamasına, bu durumun sayı sıfatlarıyla kurulan tamlamalarla ifade edilmesine karşın Arapçadan ikili çokluk biçimin de alıntılanması: iki devlet yerine 'devleteyn' vb. Yan cümlenin önce, asıl cümlenin sonra geldiği Türkçenin söz dizimi kuralına aykırı olarak asıl cümlenin önce yan cümlenin sonra geldiği ki’li birleşik cümlenin yaygınlaşması ise dil bilgisi açısından etkilenmenin bir başka örneği olmuştur. Tamlamalarda tamlayanın tamlanandan önce gelmesi kuralı Türkçenin en belirgin özelliğidir. Doğru cevap D'dir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi Arapçanın Türkçe üzerindeki etkilerinden biri <strong>değildir</strong>?</p>",
+        "A": "<p>Tamlamaların sözcüklerin cinsiyeti gözetilerek yapılması</p>",
+        "B": "<p>Sözcüklere ön ek ve edatların gelmesi</p>",
+        "C": "<p>Kelimelerin ikili çokluk biçiminde yazılması</p>",
+        "D": "<p>Tamlayanın tamlanandan önce gelmesi</p>",
+        "E": "<p>Asıl cümlenin yan cümleden önce gelmesi</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892993,
+        "UniteNo": 7,
+        "PageNumber": 199,
+        "AnswerExplanation": "<p>Türkçeden en fazla sözcüğün geçtiği dil Sırpçadır. Bir zamanlar dokuz bine yakın sözcüğün bulunduğu belirlenmiştir. Bugün Sırpçada sayısı yedi bine yaklaşan Türkçe alıntı- dan badžànak ‘bacanak’, bàlta ‘balta’, dùšek ‘döşek’, jòrgan ‘yorgan’, kàjmak ‘kaymak’, òdžak ‘ocak’ bunlardan yalnızca birkaçıdır. Sırp Türkolog Dr. Mirjana Marinkoviç, 2008 yılında Belgrad’da çıkan bir dergide Türkçe sözlerin Sırpçadaki yoğunluğunu ve kullanım sıklığını ele almıştır. Doğru cevap E'dir.</p>",
+        "Title": "",
+        "Text": "<p>Türkçeden en fazla sözcüğün geçtiği dil aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Arnavutça</p>",
+        "B": "<p>Macarca</p>",
+        "C": "<p>Latince</p>",
+        "D": "<p>Bulgarca</p>",
+        "E": "<p>Sırpça</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893019,
+        "UniteNo": 7,
+        "PageNumber": 199,
+        "AnswerExplanation": "Türkiye Türkçesinde Macarca,Arapça Rusça ve Rumenceden alıntılar olmasına rağmen Hintçeden alıntı bulunmamaktadır.",
+        "Title": "Türkçenin diğer dillerle etkileşimini karşılaştırabileceksiniz.",
+        "Text": "Türkiye Türkçesinde günümüzde alıntı yapılmamış olan dil hangisidir?",
+        "A": "Arapça",
+        "B": "Macarca",
+        "C": "Hintçe",
+        "D": "Rusça",
+        "E": "Rumence",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893167,
+        "UniteNo": 7,
+        "PageNumber": 190,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Yapı bakımından eklemeli dil olması dolayısıyla Türkçede yeni sözcükler, terimler türetmek çok daha kolaydır. Hiç kuşkusuz bu özellik, yalnız Türkçe için değil yapı bakımından aynı özelliğe sahip diğer diller için de geçerlidir.</p>",
+        "Title": "",
+        "Text": "<p style=\"text-align: justify;\">Türkçede yeni sözcükler ve terimler türetmenin daha kolay olmasının sebebi aşağıdaki şıkların hangisinde kesin olarak belirtilmiştir?</p>",
+        "A": "<p>Türkçede ses uyumlarının güçlü olması</p>",
+        "B": "<p>Türkçenin yapı bakımından eklemeli bir dil olması</p>",
+        "C": "<p>Türkçenin sözcük sayısının fazla olması</p>",
+        "D": "<p>Türkçenin anlam açısından zengin olması</p>",
+        "E": "<p>Türkçenin daha eski bir mazisinin bulunması</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893112,
+        "UniteNo": 7,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Dünyada Türk dilinin konuşulduğu coğrafyaları ayırt edebileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi Litvanya, Polonya, Rusya Federasyonu bölgesinde konuşulan Türkçeye verilen addır?",
+        "A": "Tuva Türkçesi",
+        "B": "Karayim Türkçesi",
+        "C": "Çuvaşça",
+        "D": "Kaşgay Türkçesi",
+        "E": "Afşar Türkçesi",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893124,
+        "UniteNo": 7,
+        "PageNumber": 195,
+        "AnswerExplanation": "<p>Budizm, Maniheizm, Nasturilik gibi çeşitli inançları benimseyen Uygurların söz varlı­ğında Çinceden, Soğdcadan, Sanskritçeden, Toharca gibi çeşitli dillerden alıntılarla yabancı sözlerin oranında ve kullanım sıklığında artış görülür. Doğru cevap C’dir.</p>",
+        "Title": "",
+        "Text": "<p>Çince, Soğdca ve Sanskritçe alıntı sözcükler Türk dilinin hangi döneminde yoğunluğunu artırmıştır?</p>",
+        "A": "<p>Göktürkçe</p>",
+        "B": "<p>Karahanlı Türkçesi</p>",
+        "C": "<p>Uygur Türkçesi</p>",
+        "D": "<p>Osmanlı Türkçesi</p>",
+        "E": "<p>Eski Anadolu Türkçesi</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892923,
+        "UniteNo": 7,
+        "PageNumber": 194,
+        "AnswerExplanation": "<p>Orhon Yazıtları’nda Çince (totok ‘askerî vali’), Sanskritçe (çıntan ‘sandal ağacı’), Soğdca (ıgar ‘güçlü, kudretli’), Hintçe (makaraç ‘bir unvan veya kişi adı’), Tibetçe (bölün ‘yüksek görevli’) gibi birkaç dilden alınma çok az sayıdaki sözcükle (Tekin, 2010) başlayan etkileşim, daha sonraki dönemlerde çeşitli coğrafyalarda kullanılan Türk yazı dillerinde artmaya başlamıştır.</p>",
+        "Title": "",
+        "Text": "<p>Türkçeye, yabancı dillerin etkisi aşağıdaki dillerden hangisiyle başlamaz?</p>",
+        "A": "<p>Çince</p>",
+        "B": "<p>Sanskritçe</p>",
+        "C": "<p>Japonca</p>",
+        "D": "<p>Soğdca</p>",
+        "E": "<p>Hintçe</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892943,
+        "UniteNo": 7,
+        "PageNumber": 196,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Önceleri denizcilik, ticaret gibi belirli alanlardaki İtalyanca acente, banka, bono, borda, iskele, güverte vb. sözcüklerle başlayan Batı dillerinden alıntılar Fransızca ile ilişkiler sonucunda artmıştır: abone, balkon, balon, bilet, jandarma, jüri, kabine, konferans, lamba, manto, moda, palto, rapor, salon, torpil. Doğru cevap B'dir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıda verilen sözcük gruplarından hangisi dilimize İtalyancadan geçmiştir?</p>",
+        "A": "<p> Abone-Balkon</p>",
+        "B": "<p>İskele-Güverte</p>",
+        "C": "<p>Bilet-Jandarma</p>",
+        "D": "<p>Konferans-Lamba</p>",
+        "E": "<p>Rapor-Salon</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893025,
+        "UniteNo": 7,
+        "PageNumber": 198,
+        "AnswerExplanation": "Bir toplumun hayatında önemli yer tutan varlıklarla, nesnelerle, işlerle, konularla ilgili söz varlığının geniş olduğu bilinmektedir. Türklerde aile bağlarının ve ilişkilerinin güçlü olması, akrabalıkla ilgili adların zenginleşmesini sağlamıştır. Doğru cevap D seçeneğidir.",
+        "Title": "Türk dilinin özellikleri ile zenginlik alanlarını açıklayabileceksiniz.",
+        "Text": "Türkçede akrabalık adlarının zenginliğini aşağıdakilerden hangisiyle açıklayabiliriz?",
+        "A": "Türkçenin eklemeli bir dil olması",
+        "B": "Türk atasözlerinin sayıca çokluğu",
+        "C": "Ses uyumlarının güçlü olması",
+        "D": "Türklerde aile bağlarının ve ilişkilerinin güçlü olması",
+        "E": "Çeşitli dillerin etkisi altında kalması",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893062,
+        "UniteNo": 7,
+        "PageNumber": 192,
+        "AnswerExplanation": "<p>Yüzlerce yıllık gözlem ve deneyimler sonucunda günümüze ulaşan atasözleri içerisinde<br />toplumsal yaşayış ve insan ilişkileri için öğütler veren vakit nakittir, balık baştan kokar, yerin kulağı var, görünen köy kılavuz istemez, yoldan kal yoldaştan kalma gibi yüzlerce atasözümüz vardır.</p> <p>Su verenlerin bol olsun ifadesi ise Türkçe'nin nezaket belirten ifadelerindendir.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi Türkçe atasözü ve öğütler kapsamı içerisinde yer almaz?</p>",
+        "A": "<p>Balık baştan kokar.</p>",
+        "B": "<p>Yerin kulağı var.</p>",
+        "C": "<p>Su verenlerin bol olsun.</p>",
+        "D": "<p>Yoldan kal yoldaştan kalma.</p>",
+        "E": "<p>Görünen köy kılavuz istemez.</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893042,
+        "UniteNo": 7,
+        "PageNumber": 199,
+        "AnswerExplanation": "Doğru cevap a şıkkıdır",
+        "Title": "Diller arasındaki etkileşimi kavrayabileceksiniz.",
+        "Text": "Türkçeden en fazla sözcüğün geçtiği dil aşağıdakilerden hangisidir?",
+        "A": "Sırpça",
+        "B": "Farsça",
+        "C": "Rusça",
+        "D": "Bulgarca",
+        "E": "Arapça",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893090,
+        "UniteNo": 7,
+        "PageNumber": 195,
+        "AnswerExplanation": "<p>Arapça ve Farsça sözcükler Karahanlılar döneminden itibaren dilimize girmiştir.</p>",
+        "Title": "",
+        "Text": "<p>Arapça ve Farsça sözcükler, Türkçe'ye hangi dönemden itibaren girmeye başlamıştır?</p>",
+        "A": "<p>Osmanlılar</p>",
+        "B": "<p>Selçuklular</p>",
+        "C": "<p>Karahanlılar</p>",
+        "D": "<p>Gazneliler</p>",
+        "E": "<p>Memluklar</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893091,
+        "UniteNo": 7,
+        "PageNumber": 195,
+        "AnswerExplanation": "<p>Edebi eserlerde 16. yy'da Arapça ve Farsça'nın etkisi artmıştır.</p>",
+        "Title": "",
+        "Text": "<p>Edebî eserlerin söz varlığında Arapçadan ve Farsçadan alıntılarda artış görüldüğü yüzyıl aşağıdakilerden hangisidir?</p>",
+        "A": "<p>14. yy.</p>",
+        "B": "<p>15. yy.</p>",
+        "C": "<p>16. yy.</p>",
+        "D": "<p>17. yy.</p>",
+        "E": "<p>18. yy.</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893032,
+        "UniteNo": 7,
+        "PageNumber": 194,
+        "AnswerExplanation": "Bilginin ne anlama geldiğini kavramış olduğu için anlama düzeyinde bir sorudur.",
+        "Title": "Diller arasındaki etkileşimi kavrayabileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi Türk diliyle ilgili doğru bir ifadedir?",
+        "A": "En çok ilişki ve nezaket sözcüklerinin bulunduğu dildir.",
+        "B": "Dünya dillerinin etkisi altında kalmıştır.",
+        "C": "Türk diline yerleşen her sözcük özel anlam ve işleve sahip değildir.",
+        "D": "Dünya dillerinden en çok İngilizceye sözcük vermiştir.",
+        "E": "İngiliz Türkolog, İngiltere'de bir dergide Türkçe sözlerin İngilizcedeki yoğunluğu ve kullanım sıklığını ele almıştır.",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893034,
+        "UniteNo": 7,
+        "PageNumber": 197,
+        "AnswerExplanation": "Bilginin ne anlama geldiğini kavradığı için anlama düzeyinde bir sorudur.",
+        "Title": "Türkçenin diğer dillerle etkileşimini karşılaştırabileceksiniz.",
+        "Text": "İngilizcenin etkilediği dillerden biri olan Türkçenin kullanım alanlarıyla ilgili aşağıda verilen ikilemelerden hangisi yanlıştır?",
+        "A": "Catering-Bilişim",
+        "B": "Bestseller-Müzik",
+        "C": "Printer-Bilişim",
+        "D": "Ambiyans-Gündelik Hayat",
+        "E": "Emergency-Sağlık Bilimleri",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893093,
+        "UniteNo": 7,
+        "PageNumber": 198,
+        "AnswerExplanation": "<p>Mavzer, alıntı bir sözcüktür. Bir marka ismiyken tür adına dönüşmüştür.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki sözcüklerden hangisi Türkçe'ye başka bir dilden geçen alıntı sözcüklere örnektir?</p>",
+        "A": "<p>Çakal</p>",
+        "B": "<p>Damga</p>",
+        "C": "<p>Düğme</p>",
+        "D": "<p>Bacanak</p>",
+        "E": "<p>Mavzer</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893104,
+        "UniteNo": 7,
+        "PageNumber": 195,
+        "AnswerExplanation": "<p>Bugün yabancı karşılıklarının yaygınlaştığı birçok kavramın Türkçelerinin yaşadığını<br />gördüğümüz 13-15. yüzyıllar arasındaki bu dönem eserlerinde yabancı sözlerden etkilenmenin ortalama %20 olduğu belirlenmiştir. Doğru cevap B seçeneğidir.</p>",
+        "Title": "",
+        "Text": "<p>Bugün yabancı karşılıklarının yaygınlaştığı birçok kavramın Türkçelerinin yaşadığını<br />gördüğümüz 13-15. yüzyıllar arasındaki bu dönem eserlerinde yabancı sözlerden etkilenmenin ortalama kaç olduğu belirlenmiştir?</p>",
+        "A": "<p>%15</p>",
+        "B": "<p>%20</p>",
+        "C": "<p>%25</p>",
+        "D": "<p>%30</p>",
+        "E": "<p>%35</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893105,
+        "UniteNo": 7,
+        "PageNumber": 199,
+        "AnswerExplanation": "<p>Türkçe Sözlük’teki beş yüz on üç alıntı vardır. Doğru cevap A seçeneğidir.</p>",
+        "Title": "",
+        "Text": "<p>Türkçe Sözlük’teki kaç adet alıntı yer almaktadır?</p>",
+        "A": "<p>Beş yüz on üç</p>",
+        "B": "<p>Beş yüz on beş</p>",
+        "C": "<p>Beş yüz on altı</p>",
+        "D": "<p>Beş yüz on sekiz</p>",
+        "E": "<p>Beş yüz on dokuz</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893160,
+        "UniteNo": 7,
+        "PageNumber": 190,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Yapı bakımından eklemeli dil olması dolayısıyla Türkçede yeni sözcükler, terimler tü­retmek çok daha kolaydır. Hiç kuşkusuz bu özellik, yalnız Türkçe için değil yapı bakımın­dan aynı özelliğe sahip diğer diller için de geçerlidir. Yapım eklerinin sayıca çok ve işlevsel olduğu dillerde bu özellik daha güçlü iken daha az sayıda yapım ekine sahip olan dillerde ekler yoluyla türetilen sözcükler daha sınırlı sayıdadır. Doğru cevap A' dır.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi Türkçenin özelliklerindendir?</p> ",
+        "A": "<p>Eklemeli dil olması</p> ",
+        "B": "<p>Vurgulu dil olması</p> ",
+        "C": "<p>Çekimli dil olması</p> ",
+        "D": "<p>Cinsiyet bulunması</p>",
+        "E": "<p>İkili çokluk bulunması</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892997,
+        "UniteNo": 7,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Türk dilinin özellikleri ile zenginlik alanlarını açıklayabileceksiniz.",
+        "Text": "İlk Türk yazı dili ürünü olmasına karşın Orhon Yazıtları’nda kullanılan dilin işlekliğinin nedeni aşağıdakilerden hangisidir?",
+        "A": "Noktalama işaretlerinin kullanılmaması",
+        "B": "Kurallı bir dilbilgisine sahip olması",
+        "C": "Taştan yapılmış anıta yazılmış olması",
+        "D": "Sözcüklerin mecaz anlamlarının oluşmaması",
+        "E": "Deyimlere yer verilmemesi",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3892939,
+        "UniteNo": 7,
+        "PageNumber": 193,
+        "AnswerExplanation": "<p style=\"text-align: justify;\">Dört ayrı akraba baldız, elti, görümce, yenge için Türkçede ayrı ayrı sözcükler kullanılırken bu kavramlar İngilizcede sister-in-law, Almancada schwägerin, Fransızcada belle-soeur gibi pek çok dilde birer sözcükle karşılanmaktadır. Doğru cevap E'dir.</p>",
+        "Title": "",
+        "Text": "<ol style=\"list-style-type: upper-roman;\"> <li>Baldız</li> <li>Elti</li> <li>Görümce</li> <li>Yenge</li> </ol> <p>İngilizcede sister-in-law sözcüğünün Türkçedeki karşılığı yukarıdakilerden hangisidir?</p>",
+        "A": "<p>Yanlız I</p>",
+        "B": "<p>Yanlız II</p>",
+        "C": "<p>Yanlız III</p>",
+        "D": "<p>III ve IV</p>",
+        "E": "<p>I, II, III ve IV</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893106,
+        "UniteNo": 7,
+        "PageNumber": 202,
+        "AnswerExplanation": "<p>Horasan Türkçesi en çok İran'da konuşulmaktadır. Doğru cevap C seçeneğidir.</p>",
+        "Title": "",
+        "Text": "<p>Horasan Türkçesi aşağıda verilen ülkelerden hangisinde en çok konuşulmaktadır?</p>",
+        "A": "<p>Afganistan</p>",
+        "B": "<p>Irak</p>",
+        "C": "<p>İran</p>",
+        "D": "<p>Gürcistan</p>",
+        "E": "<p>Kazakistan</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893061,
+        "UniteNo": 7,
+        "PageNumber": 189,
+        "AnswerExplanation": "<p>Mani, Soğut, Brahmi, Tibet gibi yazı sistemleriyle Türkçe yazılabilmiştir. Türklerin İslam dinini kabul etmeleriyle birlikte Arap kaynaklı yazı bin yılı aşkın bir süredir Türk dilinin çeşitli yazı dillerinin kâğıda dökülmesinde kullanılmıştır. Bazı Türk toplulukları bugün Arap yazısını hâlâ kullanmaya devam etmektedir. Türkçe için Grek, Ermeni, İbrani, Süryani yazıları da kullanılmıştır.</p>",
+        "Title": "",
+        "Text": "<p>I. Mani</p> <p>II. Soğut</p> <p>III. Brahmi</p> <p>IV. Tibet</p> <p>V. Grek</p> <p>Yukarıdaki yazı sistemlerinin hangileri Türkçe'nin kağıda dökülmesinde kullanılmıştır?</p>",
+        "A": "<p>I - II</p>",
+        "B": "<p>III - IV</p>",
+        "C": "<p>I - IV - V</p>",
+        "D": "<p>II - III - IV - V</p>",
+        "E": "<p>I - II - III - IV - V</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893202,
+        "UniteNo": 7,
+        "PageNumber": 197,
+        "AnswerExplanation": "<p>Show sözcüğü gösteri, gösterim olarak Türkçe karşılığı olan bir alıntıdır.</p>",
+        "Title": "<p>Dünden Bugüne Yabancı Dillerin Etkisi başlığı altındaki bilgileri gözden geçiriniz</p>\n<p>İngilizce kökenli \"bestseller\" yazılan sözcük, bir çok yerde \"en çok satan\" diye Türkçeleştirilse de doğru karşılık \"en çok satılan\"dır. </p>\n<p> </p>\n<p> </p>",
+        "Text": "<p>Aşağıdaki Batı kökenli sözcüklerin Türkçe karşılıkları eşleşmelerinden hangisi <strong>yanlıştır?</strong></p>",
+        "A": "<p>İnovasyon: Yenilik</p>",
+        "B": "<p>E-mail: Elektronik posta</p>",
+        "C": "<p>Badigard: Koruma</p>",
+        "D": "<p>Server: Sunucu</p>",
+        "E": "<p>Show: Başarım</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893038,
+        "UniteNo": 7,
+        "PageNumber": 192,
+        "AnswerExplanation": "Doğru cevap e şıkkıdır",
+        "Title": "Türk dilinin özellikleri ile zenginlik alanlarını açıklayabileceksiniz.",
+        "Text": "I. Atasözleri, anlatıma açıklık kazandıran söz varlığı ögeleridir. II. Her dilin söz varlığında deyimler vardır. III. Yeryüzündeki her dilin atasözü yoktur. IV. Bir atasözünün oluşabilmesi için yüzyılların geçmesi gerekir. V. Türkçede yaklaşık 1.500 atasözü bulunmaktadır.\r\nYukarıdaki bilgilerden hangileri doğrudur?",
+        "A": "I, II, III",
+        "B": "II, III, V",
+        "C": "III, IV, V",
+        "D": "II, III, IV, V",
+        "E": "I, II, III, IV",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893050,
+        "UniteNo": 7,
+        "PageNumber": 190,
+        "AnswerExplanation": "Sorunun seçenekleri arasındaki 'düz bir ünlüyle başlayan sözcüklerde birbirini izleyen ünlüler de düz olur' ifadesi dışındaki bilgilerin tümü yanlıştır. Doğru yanıt C seçeneğidir.",
+        "Title": "Türk dilinin özellikleri ile zenginlik alanlarını açıklayabileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi Türk dilinin özelliklerinden biridir?",
+        "A": "Söz varlığındaki fazlaca alıntı sözcük yüzünden, ses uyumları güçlü değildir.",
+        "B": "Sözcüğün ilk hecesinde kalın ünlü varsa sonraki hecelerde ince ünlü bulunur.",
+        "C": "Düz bir ünlüyle başlayan sözcüklerde birbirini izleyen ünlüler de düz olur.",
+        "D": "Yapı bakımından çekimli bir dil olduğu için yeni sözcük türetmeye elverişlidir.",
+        "E": "Yuvarlak bir ünlüyle başlayan sözcüklerde birbirini izleyen ünlüler düz ve geniştir.",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893063,
+        "UniteNo": 7,
+        "PageNumber": 195,
+        "AnswerExplanation": "<p>Eski T&uuml;rk&ccedil;e'de &Ccedil;ince, Sanskrit&ccedil;e, Soğdca, Toharca, Hint&ccedil;e, Tibet&ccedil;e vb. dillerden etkilenen T&uuml;rk&ccedil;e s&ouml;z varlığı dikkat &ccedil;ekmektedir. &Ouml;rneğin, Orhon Yazıtları&rsquo;nda &Ccedil;ince (totok &lsquo;asker&icirc; vali&rsquo;), Sanskrit&ccedil;e (&ccedil;ıntan &lsquo;sandal ağacı&rsquo;), Soğdca<br />(ıgar &lsquo;g&uuml;&ccedil;l&uuml;, kudretli&rsquo;), Hint&ccedil;e (makara&ccedil; &lsquo;bir unvan veya kişi adı&rsquo;), Tibet&ccedil;e (b&ouml;l&uuml;n &lsquo;y&uuml;ksek g&ouml;revli&rsquo;) ifadeleri g&ouml;r&uuml;lmektedir.</p>",
+        "Title": "",
+        "Text": "I. &Ccedil;ince II. Sanskrit&ccedil;e III. Soğdca IV. Toharca Eski T&uuml;rk&ccedil;e yukarıdaki dillerin hangilerinden etkilenmiştir?",
+        "A": "<p>Yalnız II</p>",
+        "B": "<p>I - III</p>",
+        "C": "<p>II - IV</p>",
+        "D": "<p>I - III - IV</p>",
+        "E": "<p>I - II - III - IV</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893137,
+        "UniteNo": 7,
+        "PageNumber": 194,
+        "AnswerExplanation": "<div class=\"page\" title=\"Page 7\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Diller arası etkileşimde verici dilleri konuşan toplumların uygarlıkta, bilimde, kültürde üretken ve baskın olmaları dikkat çeker. Doğru yanıt B'dir. </p> </div> </div> </div>",
+        "Title": "",
+        "Text": "<div class=\"page\" title=\"Page 7\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Bazı toplumların uygarlıkta, bilimde, kültürde üretken ve baskın olmaları dikkat çeker. Bu toplumlarda hakim diller ile ilgili ne söylenebilir? </p> </div> </div> </div>",
+        "A": "<p>Zengin söz dağarcığına sahip olması </p>",
+        "B": "<p>Diller arası etkileşimde verici dil olması </p>",
+        "C": "<p>Diller arası etkileşimde alıcı dil olması </p>",
+        "D": "<p>Yazılı kaynaklardan yararlanması </p>",
+        "E": "<p>Ekonomik zenginliğin dile yansıması </p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893003,
+        "UniteNo": 7,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Türk dilinin özellikleri ile zenginlik alanlarını açıklayabileceksiniz.",
+        "Text": "Türkçedeki nezaket sözcüklerinin zenginliği, aşağıda ifade edilen hangi özellikle ilişkilidir?",
+        "A": "Türkiye'de insan ilişkilerine çok önem verilmektedir.",
+        "B": "Türkçe, birçok dilden etkilenmiştir.",
+        "C": "Türkçe, atasözleri açısından zengin bir dildir.",
+        "D": "Türkiye, diline önem veren bir ülkedir.",
+        "E": "Türkçe, birçok dili yoğun biçimde etkileyen bir dildir.",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893043,
+        "UniteNo": 7,
+        "PageNumber": 190,
+        "AnswerExplanation": "Doğru cevap b şıkkıdır",
+        "Title": "Diller arasındaki etkileşimi kavrayabileceksiniz.",
+        "Text": "I. Yaşanan söz varlığıyla birlikte tarihsel söz varlığının bütünüyle ortaya konulması. II. Halk ağzındaki sözlerin derlenmesi. III. Yeni kavramları karşılamak üzere sözcük ve terim türetme çalışmalarının yürütülmesi. IV. Anlatım gücünü gösterecek dil bilgisi ve dil bilimi araştırmalarının gerçekleştirilmesi. V. Eğitim düzeyi ile dilin kullanımı arasındaki ilişkinin incelenmesi.\r\nDillerin değerlendirilmesinde, yukarıdaki ölçütlerin hangileri ele alınmalıdır?",
+        "A": "I, II, III",
+        "B": "I, II, III, IV",
+        "C": "I, II, III, V",
+        "D": "II, III, V",
+        "E": "III, IV, V",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3893041,
+        "UniteNo": 7,
+        "PageNumber": 198,
+        "AnswerExplanation": "Doğru cevap c şıkkıdır",
+        "Title": "Diller arasındaki etkileşimi kavrayabileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi bir marka adının tür adına dönüşmesine örnek olarak verilebilir?",
+        "A": "Gaz lambası",
+        "B": "Salon",
+        "C": "Lüks",
+        "D": "İlaç",
+        "E": "Parfüm",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
     }
 ]

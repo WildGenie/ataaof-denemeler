@@ -12,8 +12,7 @@
         "D": "<p>II ve III </p>",
         "E": "<p>I ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833439,
@@ -28,8 +27,7 @@
         "D": "<p>II ve III </p>",
         "E": "<p>Yalnız, I </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833440,
@@ -44,8 +42,7 @@
         "D": "<p>Kurallar </p>",
         "E": "<p>Hizmet </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833441,
@@ -60,8 +57,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>II ve III </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833442,
@@ -76,8 +72,7 @@
         "D": "<p>Fütürizm </p>",
         "E": "<p>Fovizm </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833448,
@@ -92,8 +87,7 @@
         "D": "<p>Rembrandt Van Rijn</p>",
         "E": "<p>Jan van Eyck</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833449,
@@ -108,8 +102,7 @@
         "D": "<p>Rönesans </p>",
         "E": "<p>Natüralizm </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833452,
@@ -124,8 +117,7 @@
         "D": "<p>Simgecilik </p>",
         "E": "<p>Barok </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833524,
@@ -140,8 +132,7 @@
         "D": "<p>Reklamı sanatsal eyleme dönüştürme</p>",
         "E": "<p>Markaya sanatsal deneyim ekleme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3833567,
@@ -156,7 +147,6 @@
         "D": "<p>Ürünün kendisini sanatsallaştırma</p>",
         "E": "<p>Markaya sanatsal deneyim ekleme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

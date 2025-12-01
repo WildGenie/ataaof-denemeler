@@ -12,8 +12,7 @@
         "D": "<p>AMIX</p>",
         "E": "<p>Xanadu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769086,
@@ -28,8 +27,7 @@
         "D": "<p>Ağ mimarisi</p>",
         "E": "<p>Merkezsizlik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769088,
@@ -44,8 +42,7 @@
         "D": "<p>2020</p>",
         "E": "<p>2021</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769100,
@@ -60,8 +57,7 @@
         "D": "<p>Dogecoin</p>",
         "E": "<p>DeFi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769101,
@@ -76,8 +72,7 @@
         "D": "<p>Yan blok zincirleri</p>",
         "E": "<p>Merkezi blok zincirleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769132,
@@ -92,8 +87,7 @@
         "D": "<p>Nesnelerin İnterneti </p>",
         "E": "<p>Dijital Dönüşüm </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769133,
@@ -108,8 +102,7 @@
         "D": "<p>2008 ABD Finans Krizi</p>",
         "E": "<p>2009 Bitcoin'in çıkışı </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769135,
@@ -124,8 +117,7 @@
         "D": "<p>Yeniden güven tazeleme zorunluluğu olanlar</p>",
         "E": "<p>Açıklık ve şeffaf kayıt zorunluluğu olanlar </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769149,
@@ -140,8 +132,7 @@
         "D": "<p>Yan zincir</p>",
         "E": "<p>Hibrit blokzincir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769152,
@@ -156,8 +147,7 @@
         "D": "<p>Sims</p>",
         "E": "<p>Ethereum</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769277,
@@ -172,8 +162,7 @@
         "D": "<p>2011</p>",
         "E": "<p>2012</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769282,
@@ -188,8 +177,7 @@
         "D": "<p>NFT</p>",
         "E": "<p>PDI</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769284,
@@ -204,8 +192,7 @@
         "D": "<p>Çin</p>",
         "E": "<p>Rusya</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769286,
@@ -220,8 +207,7 @@
         "D": "<p>Tapu dairesi</p>",
         "E": "<p>Taahhüt işi yapan kurum</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769289,
@@ -236,8 +222,7 @@
         "D": "<p>TPO</p>",
         "E": "<p>IPC</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769292,
@@ -252,8 +237,7 @@
         "D": "<p>NFT</p>",
         "E": "<p>Özel</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769306,
@@ -268,8 +252,7 @@
         "D": "<p>2008 ABD Finans Krizi</p>",
         "E": "<p>2009 Bitcoinin Hayata Geçirilmesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769315,
@@ -284,8 +267,7 @@
         "D": "<p>I, II, III, IV, V</p>",
         "E": "<p>Yalnız IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769317,
@@ -300,8 +282,7 @@
         "D": "<p>Yan zincirler</p>",
         "E": "<p>Yaygın blokzincir</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769319,
@@ -316,8 +297,7 @@
         "D": "<p>kriptopara değerlerindeki volatilitenin spekülasyonlar yol açması</p>",
         "E": "<p>Kriptoparalar kullanan, geliştiren topluluklar olmadan varlıklarını sürdürebilmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769081,
@@ -332,8 +312,7 @@
         "D": "<p>SHA512 kriptografi standardı kullanılmaktadır.</p>",
         "E": "<p>Kullanıcılar, dijital mahremiyetlerini kendi inisiyatifleri doğrultusunda koruyabilirler.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769087,
@@ -348,8 +327,7 @@
         "D": "<p>El Salvador </p>",
         "E": "<p>Panama</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769112,
@@ -364,8 +342,7 @@
         "D": "<p>I, II ve III</p>",
         "E": "<p>II, III ve IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769150,
@@ -380,8 +357,7 @@
         "D": "<p>Diploma</p>",
         "E": "<p>Telife tabi eserler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769278,
@@ -396,8 +372,7 @@
         "D": "<p>Bitcoin sisteminde işleyişe dâhil her türlü bilgi gizlidir.</p>",
         "E": "<p>Geleneksel finans kurumlarında işlem kayıtları gizli olmalıdır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769287,
@@ -412,8 +387,7 @@
         "D": "<p>PLO</p>",
         "E": "<p>IPC</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769291,
@@ -428,8 +402,7 @@
         "D": "<p>Kapitalizm</p>",
         "E": "<p>Coin</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769307,
@@ -444,8 +417,7 @@
         "D": "<p>2016</p>",
         "E": "<p>2020</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769312,
@@ -460,8 +432,7 @@
         "D": "<p>ABD</p>",
         "E": "<p>Belçika</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769063,
@@ -476,8 +447,7 @@
         "D": "<p>2010</p>",
         "E": "<p>2011</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769111,
@@ -492,8 +462,7 @@
         "D": "<p>Filecoin</p>",
         "E": "<p>Litecoin</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769134,
@@ -508,8 +477,7 @@
         "D": "<p>Hindistan </p>",
         "E": "<p>İtalya </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769276,
@@ -524,8 +492,7 @@
         "D": "<p>Kayıt cihazı</p>",
         "E": "<p>PDF</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769309,
@@ -540,8 +507,7 @@
         "D": "<p>Kripto olması</p>",
         "E": "<p>Blokzincir olması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769314,
@@ -556,8 +522,7 @@
         "D": "<p>Yalnız II</p>",
         "E": "<p>Yalnız III</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769113,
@@ -572,8 +537,7 @@
         "D": "<p>Yeni medya döneminin başlaması </p>",
         "E": "<p>Dağıtık ağ mimarisine geçilmesi </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769131,
@@ -588,8 +552,7 @@
         "D": "<p>Sistem güvenliğinin yüksek kriptoloji standartlarıyla sağlanması </p>",
         "E": "<p>İşleyişin merkezi yapıda olması </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769151,
@@ -604,8 +567,7 @@
         "D": "<p>ICO</p>",
         "E": "<p>DAO</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769310,
@@ -620,8 +582,7 @@
         "D": "<p>P2P</p>",
         "E": "<p>Regülasyon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3769318,
@@ -636,7 +597,6 @@
         "D": "<p>Merkesizleşme</p>",
         "E": "<p>Blokzincir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

@@ -12,8 +12,7 @@
         "D": "<p>Kaleidoscopic</p>",
         "E": "<p> Subliminal</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234993,
@@ -28,8 +27,7 @@
         "D": "<p>Yeniliğe açık 1960 lı yıllar gençleri, kapitalist düzenin kuralları içerisinde kendini anlamlandırmaya çalışan görsel sanatçıları renk ve nesneye dair yeni anlam arayışlarına sürüklemiştir.</p>",
         "E": "<p>Bu yıllarda yeni bir sanat akımı ortaya çıkamış, sanatçıların yaratıcılıkları kalmamıştır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235056,
@@ -44,8 +42,7 @@
         "D": "<p>Art Nouveau</p> ",
         "E": "<p>Kavramsal sanat</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235057,
@@ -60,8 +57,7 @@
         "D": "<p>Albert Hoffman</p> ",
         "E": "<p>Fütürizm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235058,
@@ -76,8 +72,7 @@
         "D": "<p>Alton Kelley</p> ",
         "E": "<p>Peter Max</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235059,
@@ -92,8 +87,7 @@
         "D": "<p>Normalin ötesinde bir derinlik algısı.</p>",
         "E": "<p>Pozitif ve negatif alanlara sahip tipografi tasarımları.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235060,
@@ -108,8 +102,7 @@
         "D": "<p>Carlos Santana</p> ",
         "E": "<p>Miles Davis</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235061,
@@ -124,8 +117,7 @@
         "D": "<p>Carlos Santana</p> ",
         "E": "<p>Wes Wilson</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235065,
@@ -140,8 +132,7 @@
         "D": "<p>Sürrealizm</p> ",
         "E": "<p>Kübizm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235474,
@@ -156,8 +147,7 @@
         "D": "<p>Victor Vasarely</p> ",
         "E": "<p>Jean Francis Lyotard</p> ",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235499,
@@ -172,8 +162,7 @@
         "D": "<p>Bülent Erkmen</p>",
         "E": "<p>Sait Maden</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235504,
@@ -188,8 +177,7 @@
         "D": "<p>Yeni Gerçekçilik – Yves Klein</p> ",
         "E": "<p>Soyut Dışavurumculuk - Richard Hamilton</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235505,
@@ -204,8 +192,7 @@
         "D": "<p>Psychedelic sanat</p> ",
         "E": "<p>Postmodern Sanat</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235506,
@@ -220,8 +207,7 @@
         "D": "<p>Piet Mondrian</p> ",
         "E": "<p>James Rosenquist</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235529,
@@ -236,8 +222,7 @@
         "D": "<p>Postmodernizm</p>",
         "E": "<p>Bauhaus</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235530,
@@ -252,8 +237,7 @@
         "D": "<p>Sanatçının bilişsel süreçlerinden ve iç dünyasından faydalanan sanat.</p>",
         "E": "<p>Optik yanılsamalardan faydalanan sanat.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235531,
@@ -268,8 +252,7 @@
         "D": "<p>Nur Koçak</p>",
         "E": "<p>Özdemir Altan</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235538,
@@ -284,8 +267,7 @@
         "D": "<div class=\"page\" title=\"Page 4\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Art Nouveau</p> </div> </div> </div> </div>",
         "E": "<p>Kapitalizm</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235539,
@@ -300,8 +282,7 @@
         "D": "<p>Sürrealizm</p>",
         "E": "<p>Modernizm</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235543,
@@ -316,8 +297,7 @@
         "D": "<p>1960’lar sonrasında</p>",
         "E": "<p>1970’ler sonrasında</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234984,
@@ -332,8 +312,7 @@
         "D": "<p> Dadaist</p> ",
         "E": "<p>Ekspresyonist</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234991,
@@ -348,8 +327,7 @@
         "D": "<p>Charles Sanders</p>",
         "E": "<p>Mary Wollstone</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235064,
@@ -364,8 +342,7 @@
         "D": "<p>Michel Foucault</p>",
         "E": "<p>Jean Baudrillard</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235066,
@@ -380,8 +357,7 @@
         "D": "<p>David Hockney</p> ",
         "E": "<p>Jasper Johns</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235469,
@@ -396,8 +372,7 @@
         "D": "<p>Sürrealizm</p>",
         "E": "<p>Optik sanat</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235470,
@@ -412,8 +387,7 @@
         "D": "<p>Post sanat ve Modernizim</p>",
         "E": "<p>Optik sanat ve Modernizim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235476,
@@ -428,8 +402,7 @@
         "D": "<p>Victor Vasarely</p>",
         "E": "<p>Jean Francis Lyotard</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235489,
@@ -444,8 +417,7 @@
         "D": "<p>Sanat eğitiminin yaygınlaşması</p>",
         "E": "<p>Sanat eserinin biricik olma özelliğini yitirmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235496,
@@ -460,8 +432,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>II ve IV</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235497,
@@ -476,8 +447,7 @@
         "D": "<p>Sarı ve siyah renkleri içermesi</p>",
         "E": "<p>Ofset baskı ile çoğaltılması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235502,
@@ -492,8 +462,7 @@
         "D": "<p>Richard Hamilton</p> ",
         "E": "<p>Claes Oldenburg</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235528,
@@ -508,8 +477,7 @@
         "D": "<p>Harcanabilen</p>",
         "E": "<p>Çoğaltılabilen</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235541,
@@ -524,8 +492,7 @@
         "D": "<p>Desenler; Kaleidoscopic, fraktal desen kullanımları.</p>",
         "E": "<p>Konular; Fantastik, metafizik ötesi, sürrealist konu seçimleri.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235547,
@@ -540,8 +507,7 @@
         "D": "<p>Geometri ile hareket eden cisimler mutlaka bir bağlantı ile birleştirilirler</p>",
         "E": "<p>Renk çemberleri, valörlere dayanan renk dizileri ile araştırılıp bulunarak yapılmış intibası verirler.</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235062,
@@ -556,8 +522,7 @@
         "D": "<p>Bruce R. Powers  ve Jean Baudrillard</p> ",
         "E": "<p>Jurgen Habermas ve Anthony Giddens</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235493,
@@ -572,8 +537,7 @@
         "D": "<p>I ve IV</p>",
         "E": "<p>III ve IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235498,
@@ -588,8 +552,7 @@
         "D": "<p>Stanley Mouse</p>",
         "E": "<p>Victor Moscoso</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235500,
@@ -604,8 +567,7 @@
         "D": "<p>Gerçekçi ve figüratif konu seçimleri.</p>",
         "E": "<p>Normalin ötesinde bir derinlik algısı ve tekrar eden motifler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235503,
@@ -620,8 +582,7 @@
         "D": "<p>Andy Warhol</p> ",
         "E": "<p>David Hockney</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235508,
@@ -636,8 +597,7 @@
         "D": "<p>Sembolizm ve yeni gerçekçilik.</p>",
         "E": "<p>Sürrealizm ve yeni dalga.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235511,
@@ -652,8 +612,7 @@
         "D": "<p>Theodore Adorno</p>",
         "E": "<p>Wolfgang Weingart</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235545,
@@ -668,8 +627,7 @@
         "D": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Yenilikçi ve pozitif</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Metafizik ötesi ve sürrealist</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235471,
@@ -684,8 +642,7 @@
         "D": "<p>Pastel</p>",
         "E": "<p>Kolaj</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235475,
@@ -700,8 +657,7 @@
         "D": "<p>Optik sanat</p>",
         "E": "<p>Post sanat</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235491,
@@ -716,8 +672,7 @@
         "D": "<p>Şiir</p>",
         "E": "<p>Sinema</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235494,
@@ -732,8 +687,7 @@
         "D": "<p>Marilyn Diptych</p>",
         "E": "<p>Coca Cola Şişeleri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235495,
@@ -748,8 +702,7 @@
         "D": "<p>Nikolay Zelinski</p>",
         "E": "<p>Edward William Abel</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235501,
@@ -764,8 +717,7 @@
         "D": "<p>Anthony Giddens</p> ",
         "E": "<p>Marshall McLuhan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235540,
@@ -780,8 +732,7 @@
         "D": "<p>Rick Griffin</p>",
         "E": "<p>Stanley Mouse</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235542,
@@ -796,8 +747,7 @@
         "D": "<div class=\"page\" title=\"Page 5\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kaleidoscopic</p> </div> </div> </div> </div>",
         "E": "<p>Fraktal</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234986,
@@ -812,8 +762,7 @@
         "D": "<p>Op Sanatçıları, saf geometrik biçimleri figüre dayanmayan bir şekilde, cetvelin kesinliğinde sınırlandırılmış olarak düzenlemişlerdir.</p> ",
         "E": "<p>Hesaplamalar ve ölçeklendirmelere dayanmayan bir sanat akımıdır.  </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234994,
@@ -828,8 +777,7 @@
         "D": "<p>John Berger</p>",
         "E": "<p>John Ruskin</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235468,
@@ -844,8 +792,7 @@
         "D": "<p>Jayne Odgers</p>",
         "E": "<p>Victor Vasarely</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235488,
@@ -860,8 +807,7 @@
         "D": "<p>III ve IV</p> <p>I, II ve IV</p>",
         "E": "<p>I, II ve IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235492,
@@ -876,8 +822,7 @@
         "D": "<p>Jane Odgers</p>",
         "E": "<p>Joe Mehring</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235477,
@@ -892,8 +837,7 @@
         "D": "<p>Klasik</p>",
         "E": "<p>Yeni boyut</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235527,
@@ -908,8 +852,7 @@
         "D": "<p>Richard Hamilton</p>",
         "E": "<p>Andy Warhol</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235507,
@@ -924,8 +867,7 @@
         "D": "<p>Özdemir Altan</p> ",
         "E": "<p>Halil Akdeniz</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235509,
@@ -940,8 +882,7 @@
         "D": "<p>Alton Kelley</p>",
         "E": "<p>Wes Wilson</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235512,
@@ -956,8 +897,7 @@
         "D": "<p>Pop Art</p>",
         "E": "<p>Kitsch</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235546,
@@ -972,8 +912,7 @@
         "D": "<p>Kitsch</p>",
         "E": "<div class=\"page\" title=\"Page 9\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Popüler kültür</p> </div> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235472,
@@ -988,8 +927,7 @@
         "D": "<p>Rick Griffin</p> ",
         "E": "<p>Victor Vasarely</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235490,
@@ -1004,8 +942,7 @@
         "D": "<p>Duyguların dışa vurumu</p>",
         "E": "<p>Gerçeğin psikolojik etkileri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234990,
@@ -1020,8 +957,7 @@
         "D": "<p>Bu akımda üretilen eserlerde deneysel çalışmalar ön plandadır.</p>",
         "E": "<p>Sanatçıların manifestolarında “Yeni Dalga”, “Pluralizm” gibi yaklaşımlar sıkça kullanılmıştır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234995,
@@ -1036,8 +972,7 @@
         "D": "<p>Wes Wilson</p>",
         "E": "<p>Andre Breton</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235510,
@@ -1052,8 +987,7 @@
         "D": "<p>Fraktal</p>",
         "E": "<p>Art Nouveau</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234987,
@@ -1068,8 +1002,7 @@
         "D": "<p>Op Art</p>",
         "E": "<p>Pop Art</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3234992,
@@ -1084,8 +1017,7 @@
         "D": "<p>Psychedelic Sanat, bilgisayar ve matematik yerine zihnin sınırlarının peşinde düşen bir sanat akımıdır.</p>",
         "E": "<p>Andre Breton tarafından Fransa’da 1924 yılında ortaya çıkmıştır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235544,
@@ -1100,8 +1032,7 @@
         "D": "<p>1960’lı yıllarda</p>",
         "E": "<p>1970’li yıllarda</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3235473,
@@ -1116,7 +1047,6 @@
         "D": "<p>Somut</p>",
         "E": "<p>Pop</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     }
 ]

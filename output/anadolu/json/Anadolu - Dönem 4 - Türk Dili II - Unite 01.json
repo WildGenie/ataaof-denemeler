@@ -20,6 +20,26 @@
         "Aciklama": "Değişebilir."
     },
     {
+        "SoruID": 3257361,
+        "SoruMetni": "Aşağıdakilerden hangisi yazılı kompozisyonun bir özelliği <span style=\"text-decoration: underline;\">değildir</span>?",
+        "A": "Daha kuralcıdır.",
+        "B": "Değişebilir.",
+        "C": "Değişmez.",
+        "D": "Durağandır.",
+        "E": "Daha düzenlidir.",
+        "DogruCevap": "B",
+        "DersAd": "Türk Dili II",
+        "Unite": 1,
+        "Somestre": "4",
+        "DogruCevapSirasi": null,
+        "OlusturmaTarihi": "2025-12-01T08:16:14.884009",
+        "GelYer": 0,
+        "DersId": 0,
+        "OBSDersId": 0,
+        "CevapSira": null,
+        "Aciklama": "Değişebilir."
+    },
+    {
         "SoruID": 3257363,
         "SoruMetni": "Aşağıdakilerden hangisi yazılı ve sözlü kompozisyon arasındaki farklardan birini ifade etmez?",
         "A": "Sözlü kompozisyonun değişebilir olmasına karşın yazılı kompozisyon daha değişmezdir.",

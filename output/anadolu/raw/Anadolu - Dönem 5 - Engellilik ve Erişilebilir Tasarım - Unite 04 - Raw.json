@@ -12,8 +12,7 @@
         "D": "<p>Asimetriklik</p>",
         "E": "<p>Algortimik akış</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863025,
@@ -28,8 +27,7 @@
         "D": "<p>Ortamdaki etkileşim, akış ve hareketin veriye dönüşmesidir.<br /><br /></p>",
         "E": "<p>Ortamların içeriklere doğrusal olmayan bağlantılar sağlamasıdır.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863026,
@@ -44,8 +42,7 @@
         "D": "<p>İşitsel</p>",
         "E": "<p>Görsel</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863028,
@@ -60,8 +57,7 @@
         "D": "<p>II, III, IV</p>",
         "E": "<p>I, III, V</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863029,
@@ -76,8 +72,7 @@
         "D": "<p>Sesli uyarılar yerine titreşimlerin/yazılı uyarıların kullanılması</p>",
         "E": "<p>Grafik ve görsel medyanın sesli açıklaması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863031,
@@ -92,8 +87,7 @@
         "D": "<p>Algılanabilir bilgi</p>",
         "E": "<p>Hatalara tolerans</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863033,
@@ -108,8 +102,7 @@
         "D": "<p>Engellilerin dijital ve sosyal haklarını ele alan programların genişletilmesi</p>",
         "E": "<p>Dijital medyanın hayatı daha zor hale getirmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863044,
@@ -124,8 +117,7 @@
         "D": "<p>Mobil uygulamalar</p>",
         "E": "<p>Hiper ortamlar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863045,
@@ -140,8 +132,7 @@
         "D": "<p>Yakınsaklık özelliği </p>",
         "E": "<p>Yaygınlık özelliği </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863046,
@@ -156,8 +147,7 @@
         "D": "<p>Çeşitlilik özelliği </p>",
         "E": "<p>Akışkanlık özelliği </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863047,
@@ -172,8 +162,7 @@
         "D": "<p>Entegrasyon yeterlikleri </p>",
         "E": "<p>Teknik gereklilikler </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863072,
@@ -188,8 +177,7 @@
         "D": "<p>I-II-III</p>",
         "E": "<p>II-III-IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863073,
@@ -204,8 +192,7 @@
         "D": "<p>II-III-IV</p>",
         "E": "<p>III-IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863138,
@@ -220,8 +207,7 @@
         "D": "<p>Düşük fiziksel çaba</p>",
         "E": "<p>Adil, eşitlikçi kullanım</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863139,
@@ -236,8 +222,7 @@
         "D": "<p>Temel bilgiler ve çevresi arasında yeterli kontrastın sağlanması</p>",
         "E": "<p>Tehlikeler ve hatalar hakkında uyarılar sağlanması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863140,
@@ -252,8 +237,7 @@
         "D": "<p>Hatalara tolerans</p>",
         "E": "<p>Kullanımda esneklik</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863142,
@@ -268,8 +252,7 @@
         "D": "<p>yakınsaklık</p>",
         "E": "<p>asimetriklik</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863143,
@@ -284,8 +267,7 @@
         "D": "<p>Öğrencilere çalışma başarılarını uygun bir şekilde gösterme fırsatı sağlamak</p> ",
         "E": "<p>İletişim zorluklarını ve engellerini aşmaya yardımcı olmak</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863144,
@@ -300,8 +282,7 @@
         "D": "<p>Algılanabilir bilgi</p>",
         "E": "<p>Hatalara Tölerans</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863146,
@@ -316,8 +297,7 @@
         "D": "<p>tasarım ilkeleri / dağıtım ortamı</p>",
         "E": "<p>sunma / keskin ayrım biçimleri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863027,
@@ -332,8 +312,7 @@
         "D": "<p>II,III ve IV</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863032,
@@ -348,8 +327,7 @@
         "D": "<p>Düşük fiziksel çaba<br /><br /></p>",
         "E": "<p>Hatalara tolerans</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863141,
@@ -364,8 +342,7 @@
         "D": "<p>Hem çocuklara yönelik medya politikasından hem de engellilik alanından en iyi uygulamaların benimsenmesi</p>",
         "E": "<p>Koruma hakları ile engelli çocukların uygun düzeyde eylemlilik, özerklik ve kontrol kullanma hakları arasında denge kurulması ihtiyacının olması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863145,
@@ -380,8 +357,7 @@
         "D": "<p>Basit ve Sezgisel Kullanım</p>",
         "E": "<p>Algılanabilir Bilgi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863210,
@@ -396,8 +372,7 @@
         "D": "<p>Hatalara tolerans</p>",
         "E": "<p>Düşük fiziksel çaba </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863211,
@@ -412,8 +387,7 @@
         "D": "<p>Ölçü, Alan Yaklaşımı ve Kullanımı</p>",
         "E": "<p>Düşük fiziksel çaba</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863030,
@@ -428,8 +402,7 @@
         "D": "<p>Temel bilgiler ve çevresi arasında yeterli kontrastın sağlanması</p>",
         "E": "<p>Tehlikeler ve hatalar hakkında uyarılar sağlanması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863137,
@@ -444,8 +417,7 @@
         "D": "<p>Etkili İletişim</p>",
         "E": "<p>Esnek Programlama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863213,
@@ -460,7 +432,6 @@
         "D": "<p>Hatalara tolerans</p>",
         "E": "<p>Düşük fiziksel çaba</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

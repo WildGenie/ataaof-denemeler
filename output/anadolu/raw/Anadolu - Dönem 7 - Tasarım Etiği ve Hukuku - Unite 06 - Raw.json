@@ -12,8 +12,7 @@
         "D": "<p>Sesler</p>",
         "E": "<p>Kokular </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3701862,
@@ -28,8 +27,7 @@
         "D": "<p>Ortak markayı kullanmaya yetkili olan gruba dâhil işletmeler tek başına dava açmaya yetkilidir. </p>",
         "E": "<p>Ortak marka üretim, ticaret veya hizmet işletmelerinden oluşan bir gruba aittir. </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3701864,
@@ -44,8 +42,7 @@
         "D": "<p>Topluluk markası </p>",
         "E": "<p>Vekil markası </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3701866,
@@ -60,8 +57,7 @@
         "D": "<p>Topluluk markası </p>",
         "E": "<p>Ferdi marka </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3701869,
@@ -76,8 +72,7 @@
         "D": "<p>Hizmet markası </p>",
         "E": "<p>Ticaret markası</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3701878,
@@ -92,8 +87,7 @@
         "D": "<p>Fil</p>",
         "E": "<p>Baykuş </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3701882,
@@ -108,8 +102,7 @@
         "D": "<p>WIPO</p>",
         "E": "<p>IMF</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3701885,
@@ -124,8 +117,7 @@
         "D": "<p>İçtima</p> ",
         "E": "<p>İştirak </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3701889,
@@ -140,8 +132,7 @@
         "D": "<p>Ait olduğu sektörde iyi bilinen ve geniş dağıtım, pazarlama ağına sahip olması</p>",
         "E": "<p>Marka değerinin toplamda en az 5 milyon lira olması </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3701892,
@@ -156,8 +147,7 @@
         "D": "<p>4</p>",
         "E": "<p>20</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839712,
@@ -172,8 +162,7 @@
         "D": "Paris Sözleşmesi",
         "E": "Türk Ticaret Kanunu",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839714,
@@ -188,8 +177,7 @@
         "D": "Yabancı dilde olması",
         "E": "Tek harften oluşması",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839715,
@@ -204,8 +192,7 @@
         "D": "Sadece tanımlayıcı anlam taşıyanlar kabul edilir.",
         "E": "Yabancı sözcüklerin tescili yasaklanmıştır.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839717,
@@ -220,8 +207,7 @@
         "D": "Şeklin herhangi bir yazı karakteriyle birlikte kullanılması",
         "E": "Şeklin tescil edilecek mal veya hizmetle doğrudan ilgili olmaması",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839778,
@@ -236,8 +222,7 @@
         "D": "Mal veya hizmetten uzaklaşmış olması",
         "E": "Karıştırılmaya elverişli olmaması",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839780,
@@ -252,8 +237,7 @@
         "D": "Spesifik bir sektöre özgü, özel anlam taşıyan terim",
         "E": "Sicilde gösterilebilir olsa da mal ve hizmet açısından ayırt edici olmayan işaret",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839782,
@@ -268,8 +252,7 @@
         "D": "Soyut ve somut ayırt edicilik ayrımı",
         "E": "Harf ve şekil markası ayrımı",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839789,
@@ -284,8 +267,7 @@
         "D": "Markanın yalnızca ticari unvanla aynı olması",
         "E": "Markanın eski logosunu değiştirmiş olması",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839790,
@@ -300,8 +282,7 @@
         "D": "7. madde aynı işareti, 29. madde ise ayırt edilemeyecek kadar benzerini düzenler",
         "E": "29. madde yalnızca görsel işaretleri kapsar",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3839791,
@@ -316,7 +297,6 @@
         "D": "ortak – kişisel",
         "E": "tüzel – toplumsal",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

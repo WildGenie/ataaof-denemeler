@@ -12,8 +12,7 @@
         "D": "<p>Algılamak</p>",
         "E": "<p>Duyum</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830645,
@@ -28,8 +27,7 @@
         "D": "<p>Reklamlar- görsel iletişim</p>",
         "E": "<p>Receptör- uyarıcı dalgalar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830743,
@@ -44,8 +42,7 @@
         "D": "<p>Beyin-Birincil alanlar</p>",
         "E": "<p>Kişiselleştirilmiş algılar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830745,
@@ -60,8 +57,7 @@
         "D": "<p>Tamamlama (closure)</p>",
         "E": "<p>Simge (sembol)</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830920,
@@ -76,8 +72,7 @@
         "D": "<p>Görüntüsel gösterge</p>",
         "E": "<p>Atmosferik perspektif</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830926,
@@ -92,8 +87,7 @@
         "D": "<p>Charles Sanders Peirce</p>",
         "E": "<p>Arthur Asa Berger</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830928,
@@ -108,8 +102,7 @@
         "D": "<p>Bir kültürün, dünyanın bazı görünümlerini anlayıp açıklamasını sağlayan öyküye \"metafor\" denir.</p>",
         "E": "<p>Bilinmeyen bir şeyi, bilinen bir şey açısından ifade etmeye \"metafor\" denir. Bilinmeyenlerin anlamı, bilinenlerin araçlarını kullanarak aktarılmaktadır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3830934,
@@ -124,8 +117,7 @@
         "D": "<p>Tipografi</p>",
         "E": "<p>Sözcük oyunları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831083,
@@ -140,8 +132,7 @@
         "D": "<p>Algılama</p>",
         "E": "<p>Göstergebilim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3831084,
@@ -156,7 +147,6 @@
         "D": "<p>Vurgulu sonuç</p>",
         "E": "<p>Küçüklük, zayıflık</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

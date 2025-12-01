@@ -12,8 +12,7 @@
         "D": "<p>Optik sinir atrofisi</p>",
         "E": "<p>Prematür retinopatisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863121,
@@ -28,8 +27,7 @@
         "D": "<p>Hiçbiri</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863122,
@@ -44,8 +42,7 @@
         "D": "<p>Hepsi</p>",
         "E": "<p>Hiçbiri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863123,
@@ -60,8 +57,7 @@
         "D": "<p>Hepsi</p>",
         "E": "<p>Hiçbiri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863125,
@@ -76,8 +72,7 @@
         "D": "<p>Kapalı devre televizyon sistemleri</p>",
         "E": "<p>Destekleyici teknolojik araçlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863129,
@@ -92,8 +87,7 @@
         "D": "<p>Müzeler, müzik enstrümanlarının rahat ve erişilebilir kullanımı uygulamaları gibi çok sayıda alanda erişilebilir sanat tasarımları</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863131,
@@ -108,8 +102,7 @@
         "D": "<p>Knestetik</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863206,
@@ -124,8 +117,7 @@
         "D": "<p>Glokom</p>",
         "E": "<p>Görme</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863207,
@@ -140,8 +132,7 @@
         "D": "<p>Albinizm</p>",
         "E": "<p>Optik sinir atrofisi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863212,
@@ -156,8 +147,7 @@
         "D": "<p>“Seeing AI” </p>",
         "E": "<p>Zoomtext</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863214,
@@ -172,8 +162,7 @@
         "D": "<p>Nesne ya da baskı üzerinde iyi aydınlatma (lamba)</p>",
         "E": "<p>Satırları koyu çizilmiş kağıtlar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863215,
@@ -188,8 +177,7 @@
         "D": "<p>“Seeing AI”</p>",
         "E": "<p>Window-Eyes</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863217,
@@ -204,8 +192,7 @@
         "D": "<p>Pusula yönleri</p>",
         "E": "<p>Ölçme becerileri</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863294,
@@ -220,8 +207,7 @@
         "D": "20/200 ve altı",
         "E": "20/400 ve altı",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863295,
@@ -236,8 +222,7 @@
         "D": "Astigmatizma",
         "E": "Renk körlüğü",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863296,
@@ -252,8 +237,7 @@
         "D": "Maküler dejenerasyon",
         "E": "Retinitis pigmentosa",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863297,
@@ -268,8 +252,7 @@
         "D": "Diyabetik retinopati",
         "E": "Retinitis pigmentosa",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863298,
@@ -284,8 +267,7 @@
         "D": "<p data-start=\"373\" data-end=\"752\">Engellilerin erişim için yalnızca kendi kaynaklarını kullanmalarını sağlamak</p>",
         "E": "<p data-start=\"373\" data-end=\"752\">Engelsiz bilgi ve iletişim teknolojilerine uygun sistemler geliştirmek</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863302,
@@ -300,8 +282,7 @@
         "D": "Uyarlanmış tasarım",
         "E": "Evrensel tasarım",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863303,
@@ -316,8 +297,7 @@
         "D": "<p>II, III ve IV</p>",
         "E": "<p>Yalnızca III</p> <p></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863119,
@@ -332,8 +312,7 @@
         "D": "<p>Az gören</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863127,
@@ -348,8 +327,7 @@
         "D": "<p>Hepsi</p>",
         "E": "<p>Hiçbiri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863208,
@@ -364,8 +342,7 @@
         "D": "<p>Futbol</p>",
         "E": "<p>Ringbol</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863216,
@@ -380,8 +357,7 @@
         "D": "<p>Büyüteç</p>",
         "E": "<p>Uygun aydınlatma</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863299,
@@ -396,8 +372,7 @@
         "D": "Erken dönemde yapılan müdahaleler, daha sonraki dönemlerde gelişimsel sınırlılıkların azaltılmasına katkıda bulunur.",
         "E": "Aile ve uzman desteği olmadan bireyin çevreyi keşfetme davranışlarının gelişmesi sınırlı kalabilir.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863300,
@@ -412,8 +387,7 @@
         "D": "<span>1a, </span><span>2a, </span>3c, <span>4b, 5c</span>",
         "E": "<span>1b, </span><span>2c, </span>3a, <span>4b, 5b</span>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863301,
@@ -428,8 +402,7 @@
         "D": "<span>II ve III<br /><br /></span>",
         "E": "<span>I, III ve IV</span>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863124,
@@ -444,8 +417,7 @@
         "D": "<p>Window-Eyes</p>",
         "E": "<p>VoiceOver</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863209,
@@ -460,7 +432,6 @@
         "D": "<p>Teleskoplar<br /><br /></p>",
         "E": "<p>Gözlüğe takılı olan teleskobik cihazlar<br /><br /></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

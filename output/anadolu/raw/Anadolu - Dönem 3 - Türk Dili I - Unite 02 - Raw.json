@@ -12,8 +12,7 @@
         "D": "<p>II, III, IV</p>",
         "E": "<p>IV, V</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891607,
@@ -28,8 +27,7 @@
         "D": "<ol start=\"9\">\n<li>yy</li>\n</ol>",
         "E": "<ol start=\"10\">\n<li>yy</li>\n</ol>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891620,
@@ -44,8 +42,7 @@
         "D": "<p>Dîvân-ı Hikmet</p>",
         "E": "<p>Kur’an Tercümesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891624,
@@ -60,8 +57,7 @@
         "D": "<p>Çağatay Türkçesi</p> ",
         "E": "<p>Orta Türkçe Dönemi</p> ",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891634,
@@ -76,8 +72,7 @@
         "D": "<p>Rusça</p>",
         "E": "<p>Japonca</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891645,
@@ -92,8 +87,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Büyük Selçuklu Devletinin Anadolu’yu fethetmesi</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Büyük Hun Devletinin kurulması</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891661,
@@ -108,8 +102,7 @@
         "D": "<p>Divan-ı Lugat-ı Türk</p>",
         "E": "<p>Atabetü'l Hakayık</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891669,
@@ -124,8 +117,7 @@
         "D": "<p>1928'de Latin alfabesi kabulü</p>",
         "E": "<p>Ortaöğretim'de geometri kitabının Türkçeleştirilmesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891689,
@@ -140,8 +132,7 @@
         "D": "<p>Kanji</p>",
         "E": "<p>Süryani</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891692,
@@ -156,8 +147,7 @@
         "D": "Dil, kültürden bağımsız bir iletişim aracı olarak algılanmalıdır.",
         "E": "Dil, sözlü ve yazılı kültür ögelerini bizzat yaratır.  ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891701,
@@ -172,8 +162,7 @@
         "D": "Kurşun döktürülmesi",
         "E": "Evden dışarı çıkarken ayakkabı giyilmesi",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891702,
@@ -188,8 +177,7 @@
         "D": "İnsanlar arasında iletişim kurmamıza olanak sağlayan yegane tek araçtır.",
         "E": "Toplumların eğitim, teknoloji, siyaset, hukuk, iktisat, sanat ve dine ilişkin sorunları¬nı çözdükleri kendilerine özgü yola denir.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891709,
@@ -204,8 +192,7 @@
         "D": "Ömer Seyfettin",
         "E": "Yusuf Ziya Ortaç",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891718,
@@ -220,8 +207,7 @@
         "D": "Dolmabahçe Sarayı",
         "E": "Pembe Köşk",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891735,
@@ -236,8 +222,7 @@
         "D": "Sümercenin bugün yaşayan birtakım dillerle ilişkisi vardır.",
         "E": "Türkçe, bilinmeyen zamanlarda Doğu ve Batı Türkçesi olarak adlandırılmıştır.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891742,
@@ -252,8 +237,7 @@
         "D": "Kutadgu Bilig, Atabetü'l-Hakayık, Divanü Lügati't-Türk gibi eserler bu dönemde yazılmıştır.",
         "E": "Karahanlı-Harezm dönemi olarak bilinir.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891759,
@@ -268,8 +252,7 @@
         "D": "<p>Brahmi alfabesi</p>",
         "E": "<p>Tibet yazısı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891772,
@@ -284,8 +267,7 @@
         "D": "<p>1 Aralık 1927</p>",
         "E": "<p>1 Aralık 1928</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891784,
@@ -300,8 +282,7 @@
         "D": "<p>1940</p>",
         "E": "<p>1945</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891829,
@@ -316,8 +297,7 @@
         "D": "<p>Kiril Alfabesi</p>",
         "E": "<p>Uygur Alfabesi </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891612,
@@ -332,8 +312,7 @@
         "D": "<p>Şemsettin Sami</p>",
         "E": "<p>Süleyman Nazif</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891625,
@@ -348,8 +327,7 @@
         "D": "<p>Hun Türkçesi</p> ",
         "E": "<p>Eski Türkçe Dönemi</p> ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891646,
@@ -364,8 +342,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Nesayimü’l-Mahabbe</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Atebetü’l-Hakâyık</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891666,
@@ -380,8 +357,7 @@
         "D": "<p>Kiril alfabesi</p>",
         "E": "<p>Arap alfabesi </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891668,
@@ -396,8 +372,7 @@
         "D": "<p>Türk Dili Tettik Cemiyetinin bildirisi</p>",
         "E": "<p>Atatürk'ün Türkiyat Enstitüsünü kurması</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891675,
@@ -412,8 +387,7 @@
         "D": "<p>Hami-Sami</p>",
         "E": "<p>Çin-Tibet</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891680,
@@ -428,8 +402,7 @@
         "D": "<p>Murat Çelebi</p>",
         "E": "<p>Mehmet Çelebi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891681,
@@ -444,8 +417,7 @@
         "D": "<p>Latin alfabesinin kabulü</p>",
         "E": "<p>Islahat Fermanı'nın ilanı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891697,
@@ -460,8 +432,7 @@
         "D": "<p>Atasözleri</p>",
         "E": "<p>Geleneksel yemekler</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891715,
@@ -476,8 +447,7 @@
         "D": "Kavaid-i Osmaniyye",
         "E": "Emsile-i Türkiyye",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891720,
@@ -492,8 +462,7 @@
         "D": "I, II",
         "E": "I, II, IV",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891733,
@@ -508,8 +477,7 @@
         "D": "Grek alfabesi",
         "E": "Süryani alfabesi",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891734,
@@ -524,8 +492,7 @@
         "D": "Fecr-i Ati topluluğu",
         "E": "Cumhuriyetin ilanı",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891752,
@@ -540,8 +507,7 @@
         "D": "Temelini Arap alfabesi oluşturmaktadır.",
         "E": "Osmanlı Türkçesini savunanlar tarafından destek görmüştür.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891763,
@@ -556,8 +522,7 @@
         "D": "<p>G&ouml;kt&uuml;rk destanı</p>",
         "E": "<p>Dede korkut destanı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891764,
@@ -572,8 +537,7 @@
         "D": "<p>Divan-ı Hikmet-Ahmet Yesevi</p>",
         "E": "<p>Dîvânü Lügâti’t-Türk-Kâşgarlı Mahmut</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891774,
@@ -588,8 +552,7 @@
         "D": "<p>Doğan Aksan </p>",
         "E": "<p>Mehmet Akalın </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891776,
@@ -604,8 +567,7 @@
         "D": "<p>Orhun Abideleri </p>",
         "E": "<p>Kur’an Tercümesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891780,
@@ -620,8 +582,7 @@
         "D": "<p>Şeyyad Hamza</p>",
         "E": "<p>Aşık Paşa </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891830,
@@ -636,8 +597,7 @@
         "D": "<p>Güneybatı Türkçesi </p>",
         "E": "<p>Gagauz Türkçesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891614,
@@ -652,8 +612,7 @@
         "D": "<p>İşaretli harflere m&uuml;mk&uuml;n olduğunca az yer verilecek.</p>",
         "E": "<p>Ses değerleri konusunda K&ouml;kt&uuml;rk&ccedil;e esas alınacaktır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891628,
@@ -668,8 +627,7 @@
         "D": "<p>Ömer Seyfettin ile Ali Canip</p>",
         "E": "<p>Halide Edip ile Reşat Nuri</p> ",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891636,
@@ -684,8 +642,7 @@
         "D": "<p>Çağatay Türkçesi dönemi</p>",
         "E": "<p>Orta Türkçe dönemi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891655,
@@ -700,8 +657,7 @@
         "D": "<p>İbrani alfabesi</p>",
         "E": "<p>Arap Alfabesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891664,
@@ -716,8 +672,7 @@
         "D": "<p>Yusuf Has Hacib</p>",
         "E": "<div class=\"page\" title=\"Page 8\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Ali Şir Nevâyî</p> </div> </div> </div>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891671,
@@ -732,8 +687,7 @@
         "D": "<p>Türkmenistan</p>",
         "E": "<p>Çin</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891674,
@@ -748,8 +702,7 @@
         "D": "<p>Nehcü’l-Ferâdis</p>",
         "E": "<p>Codex Cumanicus</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891703,
@@ -764,8 +717,7 @@
         "D": "Toplumsal nezaket mesafe, saygı, dayanışma, yakınlık vb. toplumsal ilişkilerin ile¬tişim kodunda birtakım karşılıklar bulduğu ve birden fazla stratejisi olan bir olgu¬dur.",
         "E": "Dil toplumun yapısından ayrı olarak gelişir ve değişir.",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891704,
@@ -780,8 +732,7 @@
         "D": "Dîvân-ı Hikmet",
         "E": "Mukaddimetü’l-Edeb",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891719,
@@ -796,8 +747,7 @@
         "D": "1940",
         "E": "1944",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891723,
@@ -812,8 +762,7 @@
         "D": "<p>I, III, IV</p>",
         "E": "<p>I, II, III, IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891753,
@@ -828,8 +777,7 @@
         "D": "<p>İtalyanca</p>",
         "E": "<p>Macarca</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891783,
@@ -844,8 +792,7 @@
         "D": "<p>Çince</p>",
         "E": "<p>Fince</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891794,
@@ -860,8 +807,7 @@
         "D": "<p>Japonca</p>",
         "E": "<p>Farsça</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891802,
@@ -876,8 +822,7 @@
         "D": "<p>Mesnevi</p>",
         "E": "<p>Mukaddimetü’l-Edeb</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891805,
@@ -892,8 +837,7 @@
         "D": "<p>Çift harfler bulunmayacak</p>",
         "E": "<p>Millî bir Türk alfabesi olacak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891823,
@@ -908,8 +852,7 @@
         "D": "<p>Klasik Öncesi Devir, Klasik Devir ve Klasik Sonrası Devir olmak üzere üçe ayrılır.</p>",
         "E": "<p>Farsça ve Arapça öğeleri barındırmaz</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891615,
@@ -924,8 +867,7 @@
         "D": "<p>Bantu</p>",
         "E": "<p>Hami-Sami</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891631,
@@ -940,8 +882,7 @@
         "D": "<p>Yazıt</p>",
         "E": "<p>Kitabe</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891658,
@@ -956,8 +897,7 @@
         "D": "<p>Dilde sadeleşme hareketi</p>",
         "E": "<p>Çeviri metni</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891659,
@@ -972,8 +912,7 @@
         "D": "<p>Ziya Gökalp</p>",
         "E": "<p>Ömer Seyfettin</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891679,
@@ -988,8 +927,7 @@
         "D": "<p>Uygur Alfabesi</p>",
         "E": "<p>İbrani Alfabesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891684,
@@ -1004,8 +942,7 @@
         "D": "<p>Kaşgarlı Mahmut</p>",
         "E": "<p>Zemahşeri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891688,
@@ -1020,8 +957,7 @@
         "D": "<p>Divânü Lügati’t-Türk’ün bulunması</p>",
         "E": "<p>Türkiyat Enstitüsünün kurulması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891706,
@@ -1036,8 +972,7 @@
         "D": "I, II ve IV",
         "E": "I, II, III ve IV",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891714,
@@ -1052,8 +987,7 @@
         "D": "Küçük Asya’daki Yunan yazı sistemiyle ilişkisi vardır.",
         "E": "Sogut ve Pehlevi yazısı etkileriyle beraber Türk damgalarından kaynaklanmıştır.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891740,
@@ -1068,8 +1002,7 @@
         "D": "17 Ekim 1932",
         "E": "25 Temmuz 1934",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891746,
@@ -1084,8 +1017,7 @@
         "D": "Portekiz Dili",
         "E": "Hint Dili",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891754,
@@ -1100,8 +1032,7 @@
         "D": "<p>Dîvân-ı Hikmet</p>",
         "E": "<p>Kur’an Tercümesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891788,
@@ -1116,8 +1047,7 @@
         "D": "<p>Atebetü’l-Hakâyık</p>",
         "E": "<p>Dîvân-ı Hikmet</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891796,
@@ -1132,8 +1062,7 @@
         "D": "<p>1893</p>",
         "E": "<p>1997</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891808,
@@ -1148,8 +1077,7 @@
         "D": "<p>Hoca Mesut</p>",
         "E": "<p>Bergamalı Kadri</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891822,
@@ -1164,8 +1092,7 @@
         "D": "<p>Kuzey Türkçesi</p>",
         "E": "<p>Doğu Türkçesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891623,
@@ -1180,8 +1107,7 @@
         "D": "<p>İtalyanca – En eski belgesi 843 yılına aittir.</p>",
         "E": "<p>Macarca -  17. yüzyılda oluşmuştur.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891644,
@@ -1196,8 +1122,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Aruz ölçüsü</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Altay aliterasyonu</span></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891647,
@@ -1212,8 +1137,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">II-IV-V</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">III-IV-V</span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891651,
@@ -1228,8 +1152,7 @@
         "D": "<p>Şeyyad Hamza</p>",
         "E": "<p>Gülşehrî</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891665,
@@ -1244,8 +1167,7 @@
         "D": "<p>Tarih boyu yaşadıkları g&ouml;&ccedil;,fetih ve sosyo k&uuml;lt&uuml;rel etkileşimler</p>",
         "E": "<p>Farklı dinleri kabul etmeleri</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891670,
@@ -1260,8 +1182,7 @@
         "D": "<p>İngilizceye ait en eski belge 843 yılında iki kardeş arasında yapımış lan bir antlaşmadır.</p>",
         "E": "<p>Fransızcaya ait en eski belge Tihanyi Vakıfnamesidir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891710,
@@ -1276,8 +1197,7 @@
         "D": "II ve IV",
         "E": "I, II, III ve IV",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891711,
@@ -1292,8 +1212,7 @@
         "D": "Kimya",
         "E": "Fizik",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891729,
@@ -1308,8 +1227,7 @@
         "D": "I, II, III, IV, V",
         "E": "II, III, IV, V",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891732,
@@ -1324,8 +1242,7 @@
         "D": "I, II, IV, V",
         "E": "I, II, III, IV, V",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891750,
@@ -1340,8 +1257,7 @@
         "D": "1 Kasım 1927",
         "E": "11 Ekim 1929",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891768,
@@ -1356,8 +1272,7 @@
         "D": "<p>Kıp&ccedil;ak</p>",
         "E": "<p>&Ouml;zbek&nbsp;</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891773,
@@ -1372,8 +1287,7 @@
         "D": "<p>I, II, III </p>",
         "E": "<p>II, III, IV </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891800,
@@ -1388,8 +1302,7 @@
         "D": "<p>Ahmed Yesevi</p>",
         "E": "<p>Yunus Emre</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891813,
@@ -1404,8 +1317,7 @@
         "D": "<p>Kaşgarlı Mahmut</p>",
         "E": "<p>Ali Şir Nevâyî</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891610,
@@ -1420,8 +1332,7 @@
         "D": "<p>Hazarlar</p>",
         "E": "<p>Karahanlılar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891621,
@@ -1436,8 +1347,7 @@
         "D": "<p>Gülşehrî</p>",
         "E": "<p>Yusuf Has Hâcip</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891622,
@@ -1452,8 +1362,7 @@
         "D": "<p>Uygur Alfabesi</p>",
         "E": "<p>Brahmi Alfabesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891677,
@@ -1468,8 +1377,7 @@
         "D": "<p> Vakayî</p>",
         "E": "<p>Encumeni Şuara </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891695,
@@ -1484,8 +1392,7 @@
         "D": "Fransızca",
         "E": "Almanca",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891700,
@@ -1500,8 +1407,7 @@
         "D": "ağı kürekle atarlar karayı dirhemle satarlar",
         "E": "ak köpek kara köpek geçitte belli olur",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891744,
@@ -1516,8 +1422,7 @@
         "D": "Bilge Tonyukuk Yazıtı",
         "E": "Göç Destanı",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891760,
@@ -1532,8 +1437,7 @@
         "D": "<p>Hoca Mesut</p>",
         "E": "<p>Aşık Paşa</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891761,
@@ -1548,8 +1452,7 @@
         "D": "<p>Halka Doğru</p>",
         "E": "<p>Türk Sözü</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891769,
@@ -1564,8 +1467,7 @@
         "D": "<p>V. Thomsen</p>",
         "E": "<p>L. Thomas</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891811,
@@ -1580,8 +1482,7 @@
         "D": "<p>Çuvaşlar</p>",
         "E": "<p>Altaylar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891816,
@@ -1596,8 +1497,7 @@
         "D": "<p>Doğu Türkçesi</p>",
         "E": "<p>Orta Türkçe dönemi </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891821,
@@ -1612,8 +1512,7 @@
         "D": "<p>Kuzey Türkçesi</p>",
         "E": "<p>Doğu Çağatay Türkçesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891827,
@@ -1628,8 +1527,7 @@
         "D": "<p>Tercümet'ül Kur'an- Ahmet Yesevi</p>",
         "E": "<p>Divan'ı Lügat'it Türk- Kaşgarlı Mahmut</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891629,
@@ -1644,8 +1542,7 @@
         "D": "<p>Kaşgarlı Mahmud - Divânü Lügati’t-Türk</p> ",
         "E": "<p>Yusuf Has Hacib - Muhakemetü’l-Lügateyn</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891635,
@@ -1660,8 +1557,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891638,
@@ -1676,8 +1572,7 @@
         "D": "<p>Köktürk alfabesi</p>",
         "E": "<p>Uygur alfabesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891712,
@@ -1692,8 +1587,7 @@
         "D": "Yaşayan diller",
         "E": "Ölü diller",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891736,
@@ -1708,8 +1602,7 @@
         "D": "Kuzey Türkçesi",
         "E": "Batı (Eski Oğuz) Türkçesi",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891745,
@@ -1724,8 +1617,7 @@
         "D": "Özbek Türkçesi grubu",
         "E": "Oğuz Türkçesi grubu",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891756,
@@ -1740,8 +1632,7 @@
         "D": "<p>Babür</p>",
         "E": "<p>Ali Şir Nevayî</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891818,
@@ -1756,8 +1647,7 @@
         "D": "<p>Tihanyi Vakıfnamesi</p>",
         "E": "<p>Bilge Kağan Yazıtı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891828,
@@ -1772,8 +1662,7 @@
         "D": "<p>25</p>",
         "E": "<p>30</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891616,
@@ -1788,8 +1677,7 @@
         "D": "<p>Endonezce</p>",
         "E": "<p>Macarca</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891618,
@@ -1804,8 +1692,7 @@
         "D": "<p>Harabe</p>",
         "E": "<p>Antik kent</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891619,
@@ -1820,8 +1707,7 @@
         "D": "<p>Türk Moğol birliği </p>",
         "E": "<p>Uygur ve Moğol </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891639,
@@ -1836,8 +1722,7 @@
         "D": "<p>Latin alfabesi</p>",
         "E": "<p>Arap alfabesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891656,
@@ -1852,8 +1737,7 @@
         "D": "<p>Hakaslar</p>",
         "E": "<p>Çuvaşlar</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891724,
@@ -1868,8 +1752,7 @@
         "D": "Macarca, Fince, Mançu-Tunguzca",
         "E": "Moğolca, Korece, Macarca, Fince, Mançu-Tunguzca",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891739,
@@ -1884,8 +1767,7 @@
         "D": "1 Aralık 1929",
         "E": "23 Aralık 1929",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891782,
@@ -1900,8 +1782,7 @@
         "D": "<p>Uygur Alfabesi&nbsp;</p>",
         "E": "<p>Brahmi Alfabesi&nbsp;</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891801,
@@ -1916,8 +1797,7 @@
         "D": "<p>Yunus Emre</p>",
         "E": "<p>Edip Ahmet Yükneki</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891815,
@@ -1932,8 +1812,7 @@
         "D": "<p>735</p>",
         "E": "<p>780</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891608,
@@ -1948,8 +1827,7 @@
         "D": "<p>Kıpçak</p>",
         "E": "<p>Eski Oğuz</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891626,
@@ -1964,8 +1842,7 @@
         "D": "<p>Mani alfabesi</p> ",
         "E": "<p>Soğut alfabesi</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891632,
@@ -1980,8 +1857,7 @@
         "D": "<p>6500</p>",
         "E": "<p>8500</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891637,
@@ -1996,8 +1872,7 @@
         "D": "<div class=\"page\" title=\"Page 7\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Dîvân-ı Hikmet</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 7\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Kur’an Tercümesi</p> </div> </div> </div>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891722,
@@ -2012,8 +1887,7 @@
         "D": "II, IV",
         "E": "I, II, IV",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891741,
@@ -2028,8 +1902,7 @@
         "D": "Gaspıralı İsmail Bey",
         "E": "Mehmet Emin Yurdakul",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891743,
@@ -2044,8 +1917,7 @@
         "D": "Ermeni ve İbrani alfabeleri",
         "E": "Uygur, Arap ve İbrani alfabeleri",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891799,
@@ -2060,8 +1932,7 @@
         "D": "<p>1069</p>",
         "E": "<p>1213</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893483,
@@ -2076,8 +1947,7 @@
         "D": "<p>Türkçe, kuzey ile güney koldan ikiye ayrılmıştır.</p>",
         "E": "<p>Türkçenin konuşma dönemine, Ural Çağı denir.</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891606,
@@ -2092,8 +1962,7 @@
         "D": "<p>Kıpçak Türkçesi</p>",
         "E": "<p>Kuzey Türkçesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891609,
@@ -2108,8 +1977,7 @@
         "D": "<p>Codex Cumanicus </p>",
         "E": "<p>Atebetü’l-Hakâyık</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891617,
@@ -2124,8 +1992,7 @@
         "D": "<p>MÖ 2000</p>",
         "E": "<p>MÖ 1500</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891642,
@@ -2140,8 +2007,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Sümerce ve Türkçe arasındaki benzerlikler</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Türk yazı dilinin tarihinin çok eski olması</span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891654,
@@ -2156,8 +2022,7 @@
         "D": "<p>Uygur alfabesi</p>",
         "E": "<p>Arap alfabesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891690,
@@ -2172,8 +2037,7 @@
         "D": "Saflık ",
         "E": "Dürüstlük ",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891694,
@@ -2188,8 +2052,7 @@
         "D": "Toplumsal kabullenme ",
         "E": "Bütünleşme ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891737,
@@ -2204,8 +2067,7 @@
         "D": "Estrangelo yazısı",
         "E": "Tibet yazısı",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891787,
@@ -2220,8 +2082,7 @@
         "D": "<p>Dîvân-ı Hikmet</p>",
         "E": "<p>Orhun Abideleri</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891803,
@@ -2236,8 +2097,7 @@
         "D": "<p>Şine-us yazıtı</p>",
         "E": "<p>Kültigin yazıtı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891807,
@@ -2252,8 +2112,7 @@
         "D": "<p>Dilimizdeki Arapça ve Farsça gramer kurallarını kullanmamak</p>",
         "E": "<p>Tamlamaları, Türkçe kurallara göre yapmak</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891824,
@@ -2268,8 +2127,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891640,
@@ -2284,8 +2142,7 @@
         "D": "<div class=\"page\" title=\"Page 21\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Yabancı kelimeleri Türkçedeki söylenişiyle yazmak, bilim terimlerinde Arapça ke-</p> <p>limelerden yararlanmak.</p> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 21\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Bu kurallardan hareket ederek millî bir dil ve millî bir edebiyat meydana getirmek.</p> </div> </div> </div>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891686,
@@ -2300,8 +2157,7 @@
         "D": "<p>Harezmi Türkçesi</p>",
         "E": "<p>Özbek Türkçesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891757,
@@ -2316,8 +2172,7 @@
         "D": "<p>Gülşehrî</p>",
         "E": "<p>Şeyyad Hamza</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891758,
@@ -2332,8 +2187,7 @@
         "D": "<p>Ermeni alfabesi</p>",
         "E": "<p>İbrani alfabesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891789,
@@ -2348,8 +2202,7 @@
         "D": "<p>Hüseyin Baykara<br /><br /></p>",
         "E": "<p>Aşık Paşa</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891798,
@@ -2364,8 +2217,7 @@
         "D": "<p>M.S. 5. yüzyıl</p>",
         "E": "<p>M.S. 10.yüzyıl</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891814,
@@ -2380,8 +2232,7 @@
         "D": "<p>Üretim ve ticaret</p>",
         "E": "<p>Kültür ve sanat</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891825,
@@ -2396,8 +2247,7 @@
         "D": "<p>Süryani Alfabesi</p>",
         "E": "<p>İbrani Alfabesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3893484,
@@ -2412,8 +2262,7 @@
         "D": "<p>Türkçe, kuzey ile güney koldan ikiye ayrılmıştır.</p>",
         "E": "<p>Türkçenin konuşma dönemine, Ural Çağı denir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891713,
@@ -2428,8 +2277,7 @@
         "D": "1927",
         "E": "1921",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891725,
@@ -2444,8 +2292,7 @@
         "D": "Anıt mezarlar",
         "E": "Köktürk yazıtları",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891730,
@@ -2460,8 +2307,7 @@
         "D": "Mani alfabesi",
         "E": "Süryani alfabesi",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891649,
@@ -2476,8 +2322,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">12 Temmuz 1932</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">17 Ekim 1932</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891663,
@@ -2492,8 +2337,7 @@
         "D": "<p>I,III ve IV</p>",
         "E": "<p>I,II ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891696,
@@ -2508,8 +2352,7 @@
         "D": "1930",
         "E": "1925",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891728,
@@ -2524,8 +2367,7 @@
         "D": "Harezm dönemi",
         "E": "Karahanlı dönemi",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891687,
@@ -2540,8 +2382,7 @@
         "D": "<p>Çağdaş Türkiye Türkçesinin oluşumundaki ilk adımdır.</p>",
         "E": "<p>Osmanlı İmparatorluğunun yükseliş devrinde yaşanmıştır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891708,
@@ -2556,8 +2397,7 @@
         "D": "Kiril Alfabesi",
         "E": "Tibet Alfabesi",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891717,
@@ -2572,8 +2412,7 @@
         "D": "Dil atalardan bize kalan bir miras, bir emanettir.",
         "E": "Türk milletindenim diyen insan her şeyden önce ve behemahal Türkçe konuşmalıdır.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891767,
@@ -2588,8 +2427,7 @@
         "D": "<p>Muhabbetname</p>",
         "E": "<p>Kutadgu Bilig</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891771,
@@ -2604,8 +2442,7 @@
         "D": "<p>Konya</p>",
         "E": "<p>Selanik</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891778,
@@ -2620,8 +2457,7 @@
         "D": "<p>Nehcü’l-Ferâdis</p>",
         "E": "<p>Mukaddimetü’l-Edeb </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891641,
@@ -2636,8 +2472,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">İngilizce</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Japonca</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891683,
@@ -2652,8 +2487,7 @@
         "D": "<p>Milli bir dil ve milli bir edebiyat oluşturmak.</p>",
         "E": "<p>Yabancı kelimeleri Türkçe yazmak ve bilim dilinde Arapça kullanmak</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891707,
@@ -2668,8 +2502,7 @@
         "D": "Mançular",
         "E": "Kalmuklar",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891727,
@@ -2684,8 +2517,7 @@
         "D": "I, IV, V",
         "E": "II, III, IV, V",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891698,
@@ -2700,8 +2532,7 @@
         "D": "Sanatta meydana gelen değişmeler kültürü etkiler.",
         "E": "Kültür, atalardan bir topluma miras kalan maddi ve manevi değerler bütünüdür.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891738,
@@ -2716,8 +2547,7 @@
         "D": "Yabancı kelimeleri Türkçedeki söylenişiyle yazmak",
         "E": "Diğer Türk lehçelerinden kelime almamak",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891781,
@@ -2732,8 +2562,7 @@
         "D": "<p>Latin&nbsp;</p>",
         "E": "<p>Kiril</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891810,
@@ -2748,8 +2577,7 @@
         "D": "<p>01 Ekim 1927</p>",
         "E": "<p>01 Kasım 1927</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891657,
@@ -2764,8 +2592,7 @@
         "D": "<p>Mikyasü’l-Lisan Kıstasu’l-Beyan</p>",
         "E": "<p>Müyessiretü’l-Ulum</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891662,
@@ -2780,8 +2607,7 @@
         "D": "<p>Çince</p>",
         "E": "<p>Latince</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891765,
@@ -2796,8 +2622,7 @@
         "D": "<p>Yakutlar</p>",
         "E": "<p>Şorlar</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891797,
@@ -2812,8 +2637,7 @@
         "D": "<p>775</p>",
         "E": "<p>812</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891731,
@@ -2828,8 +2652,7 @@
         "D": "Grek alfabesi",
         "E": "Süryani alfabesi",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891777,
@@ -2844,8 +2667,7 @@
         "D": "<p>Kur’an Tercümesi</p>",
         "E": "<p>Dîvânü Lügâti’t-Türk</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891831,
@@ -2860,8 +2682,7 @@
         "D": "<p>Yalnız III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891751,
@@ -2876,8 +2697,7 @@
         "D": "<p>17 Eylül 1929</p>",
         "E": "<p>12 Haziran 1930</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891812,
@@ -2892,8 +2712,7 @@
         "D": "<p>Babür</p>",
         "E": "<p>Lütfî</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891826,
@@ -2908,8 +2727,7 @@
         "D": "<p>Grek alfabesinden doğduğu kabul edilmektedir</p>",
         "E": "<p>Türklerle Müslümanların ilişkilerinin sıklaşması sonucu kullanılmıştır. </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891650,
@@ -2924,8 +2742,7 @@
         "D": "<p>Kuzey Türkçesi</p>",
         "E": "<p>Çağatay Türkçesi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891749,
@@ -2940,8 +2757,7 @@
         "D": "<p>Arap Alfabesi</p>",
         "E": "<p>Köktürk Alfabesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891755,
@@ -2956,8 +2772,7 @@
         "D": "<p>Hun döneminde</p>",
         "E": "<p>Uygur döneminde</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891648,
@@ -2972,8 +2787,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Eserlerde Arapça kelimelere ağırlık verilmesi</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Eserlerde yalın bir dil kullanılması</span></p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891747,
@@ -2988,8 +2802,7 @@
         "D": "Kültigin Yazıtı",
         "E": "Göktürk Yazıtları",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891791,
@@ -3004,8 +2817,7 @@
         "D": "<p>Süryani Alfabesi</p>",
         "E": "<p>Brahmi Alfabesi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891643,
@@ -3020,8 +2832,7 @@
         "D": "<p style=\"background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; outline-color: transparent; outline-style: none; outline-width: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Dil içi</p>",
         "E": "<p><span style=\"display: inline !important; float: none; background-color: transparent; color: #000000; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Dil dışı</span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891770,
@@ -3036,8 +2847,7 @@
         "D": "<p>Bumin Kağan</p>",
         "E": "<p>Tapo Kağan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891817,
@@ -3052,8 +2862,7 @@
         "D": "<p>Farsca</p>",
         "E": "<p>Fince</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891716,
@@ -3068,8 +2877,7 @@
         "D": "Ali Canip",
         "E": "Mehmet Akif Ersoy",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891775,
@@ -3084,8 +2892,7 @@
         "D": "<p>Akadlar </p>",
         "E": "<p>Sümerler </p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891611,
@@ -3100,8 +2907,7 @@
         "D": "<p>XVI. yy</p>",
         "E": "<p>XVII. yy</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891627,
@@ -3116,8 +2922,7 @@
         "D": "<p>Gagauz Türkçesi</p> ",
         "E": "<p>Batı Türkçesi</p> ",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891630,
@@ -3132,8 +2937,7 @@
         "D": "<p>Ankara</p>",
         "E": "<p>Kazan</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891682,
@@ -3148,8 +2952,7 @@
         "D": "<p>Ömer Seyfettin ve Ali Canip’in başlattığı “Yeni Lisan” hareketi.</p>",
         "E": "<p>  Edebiyatta Seveti Fünun döneminin başlaması </p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891721,
@@ -3164,8 +2967,7 @@
         "D": "II, III",
         "E": "III, IV",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891786,
@@ -3180,8 +2982,7 @@
         "D": "<p>17. yüzyıl</p>",
         "E": "<p>MS 1057</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891672,
@@ -3196,8 +2997,7 @@
         "D": "<p>Uygurların Kök Tanrı dinine bağlı kalarak bu din etrafında dilini geliştirdiği.</p>",
         "E": "<p>Uygurların bozkır yaşamını geliştirmek için yazılı kayaklar geliştirdiğini.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891691,
@@ -3212,8 +3012,7 @@
         "D": "Antropoloji, toplumbilim, tarih, halkbilimi vb. disiplinlerin çalışma konusudur. ",
         "E": "Tarihsel, toplumsal gelişme süreci içinde yaratılan maddi ve manevi değerler bütünüdür.",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891748,
@@ -3228,8 +3027,7 @@
         "D": "Bölünerek erken zamanlarda farklılaşmasına yol açmıştır.",
         "E": "Diğer dillere göre daha az toplumları etkilemiştir.",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891795,
@@ -3244,8 +3042,7 @@
         "D": "<p>M.S. 5. ve 10. yüzyıllar arası</p>",
         "E": "<p>M. S. 12. ve 13. yüzyıllar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891806,
@@ -3260,8 +3057,7 @@
         "D": "<p>Yazıyı kullanarak bilgi aktarımı sağlamışlardır.</p>",
         "E": "<p>Kendilerinden sonraki medeniyetleri de etkileyen önemli bir topluluktur.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891820,
@@ -3276,8 +3072,7 @@
         "D": "<p>Çoyr yazıtı bu döneme aittir.</p>",
         "E": "<p>Köktürk alfabesi bu dönemde de kullanılmıştır.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891685,
@@ -3292,8 +3087,7 @@
         "D": "<p>Muînü’l-Mürîd</p>",
         "E": "<p>Kutadgu Bilig</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891705,
@@ -3308,8 +3102,7 @@
         "D": "I, II ve III",
         "E": "I,II,III ve IV",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891762,
@@ -3324,8 +3117,7 @@
         "D": "<p>1926 yılında Azerbaycan’ın başkenti Bakü’de toplanan Birinci Türkoloji Kurultayı’nda alınan kararlarla</p>",
         "E": "<p>1931 yılında Türk Tarih Kurumu’nun kurulmasıyla</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891660,
@@ -3340,8 +3132,7 @@
         "D": "<p>Germen dilleri</p>",
         "E": "<p>Afrika dilleri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3891726,
@@ -3356,7 +3147,216 @@
         "D": "Osmanlı dönemi",
         "E": "Altay çağı",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891653,
+        "UniteNo": 2,
+        "PageNumber": 41,
+        "AnswerExplanation": "<p>Türkçe değişik dönem ve coğrafyalarda Köktürk, Soğd, Uygur, Mani, Brahmi, Tibet, Süryani, Arap, Grek, Ermeni, İbrani, Latin ve Slav (Kiril) alfabeleriyle yazılmıştır. Bunlardan Soğd, Mani, Brahmi, Tibet, Süryani, Grek, Ermeni ve İbrani alfabeleri kısa tarihi dönemlerde ve oldukça sınırlı çevrelerde kullanılmıştır. Geriye kalan Köktürk, Uygur, Arap, Latin ve Kiril alfabeleri ise uzun sürelerle ve geniş coğrafyalarda kullanılmıştır.</p>",
+        "Title": "",
+        "Text": "<p>Aşağıdaki alfabelerden hangisi ile Türkçe, diğerlerine göre daha uzun süre ve  geniş coğrafyada kullanılmıştır?</p>",
+        "A": "<p>Mani</p>",
+        "B": "<p>Tibet</p>",
+        "C": "<p>Ermeni</p>",
+        "D": "<p>Kiril</p>",
+        "E": "<p>İbrani</p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891678,
+        "UniteNo": 2,
+        "PageNumber": 35,
+        "AnswerExplanation": "<p>MS 687- 692 yılları arasında yazıldığı düşünülen Çoyr yazıtı ilk yazılı Türkçe belgedir.</p>",
+        "Title": "",
+        "Text": "<p>Tarihi bilinen ilk Türkçe yazılı belge aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Köktürk yazıtları</p>",
+        "B": "<p>Çoyr yazıtları</p>",
+        "C": "<p>Kutadgu-Bilig</p>",
+        "D": "<p>Lugati’t Türk</p>",
+        "E": "<p>Dede Korkut hikayeleri</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891699,
+        "UniteNo": 2,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Yaşayan d\u001filler arasında Türkçen\u001fin yer\u001fini ve yaşını açıklayab\u001fileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi deyimlere yansıtılan kültürel öğelere örnek verilemez?",
+        "A": "Ak yaşmak leke götürmez",
+        "B": "kara haber",
+        "C": "aralarından kara kedi geçmek",
+        "D": "kara yazı",
+        "E": "kara gün dostu",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891652,
+        "UniteNo": 2,
+        "PageNumber": 38,
+        "AnswerExplanation": "<p>Codex Cumanicus Avrupalılar tarafından Kıpçak sahasında yani Karadeniz’in kuzeyindeki Kıpçak lehçesi ile yazılmıştır.</p>",
+        "Title": "",
+        "Text": "<p>Codex Cumanicus hangi Türkçe ile yazılmıştır?</p>",
+        "A": "<p>Osmanlı Türkçesi</p>",
+        "B": "<p>Eski Oğuz Türkçesi</p>",
+        "C": "<p>Kıpçak Türkçesi</p>",
+        "D": "<p>Karahanlı Türkçesi</p>",
+        "E": "<p>Harezm Türkçesi</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891667,
+        "UniteNo": 2,
+        "PageNumber": 48,
+        "AnswerExplanation": "<p>Selçuklu Türkçesinden günümüze yazılı eser kalmamıştır, Osmanlı Türkçesi XV.yılın sonundan itibaren kullanıldı Arapça ve Farsça etkisinde kaldı, Uygur Ve Köktürk Türkçesi ise Türkler'in Anadolu'ya gelmeden önce kullandıkları dil idi. Doğru Cevap B şıkkıdır.</p>",
+        "Title": "",
+        "Text": "<p>Anadolu'nun yazı dili hangisidir?</p>",
+        "A": "<p>Uygur Türkçesi</p>",
+        "B": "<p>Oğuz Türkçesi</p>",
+        "C": "<p>Osmanlı Türkçesi</p>",
+        "D": "<p>Köktürk Türkçesi</p>",
+        "E": "<p>Selçuklu Türkçesi</p>",
+        "CorrectAnswer": "B",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891792,
+        "UniteNo": 2,
+        "PageNumber": 52,
+        "AnswerExplanation": "<p>Tamlamaları, Türkçe kurallara göre yapmak temel prensiptir. Doğru cevap C'dir. </p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi Yeni Lisan hareketinin temel prensiplerinden biri değildir?</p>",
+        "A": "<p>Yazı dilini konuşma diline yaklaştırmak, mümkün olduğu kadar İstanbul halkının<br />konuştuğu gibi yazmak.</p>",
+        "B": "<p>Dilimizdeki Arapça ve Farsça gramer kurallarını kullanmamak</p>",
+        "C": "<p>Tamlamaları, Arapça kurallara göre yapmak.</p>",
+        "D": "<p>Yabancı kelimeleri Türkçedeki söylenişiyle yazmak, bilim terimlerinde Arapça kelimelerden yararlanmak.<br /><br /></p>",
+        "E": "<p>Öteki Türk lehçelerinden kelime almamak.</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891819,
+        "UniteNo": 2,
+        "PageNumber": 35,
+        "AnswerExplanation": "<p>Bugünkü bilgilerimize göre Türkçenin ilk yazılı belgesi MS 687-692 yıllarına tarihlenen Çoyr yazıtıdır.</p>",
+        "Title": "",
+        "Text": "<p>Türkçe'nin bilinen ilk yazıtı olan Çoyr yazıtı hangi yüzyıla tarihlenmektedir?</p>",
+        "A": "<p>M.Ö. II. yüzyıl</p>",
+        "B": "<p>M.Ö. I. Yüzyıl</p>",
+        "C": "<p>M.S. I. yüzyıl</p>",
+        "D": "<p>M.S. IV. yüzyıl</p>",
+        "E": "<p>M.S. VII. yüzyıl</p>",
+        "CorrectAnswer": "E",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891676,
+        "UniteNo": 2,
+        "PageNumber": 33,
+        "AnswerExplanation": "<p>Türkçe ve Moğolca dilleri Altay dillerine mensup dillerdir.</p>",
+        "Title": "",
+        "Text": "<p>Türkçe aşağıdaki dillerden hangisi ile akrabalık özelliği taşımaktadır?</p>",
+        "A": "<p>Hintçe</p>",
+        "B": "<p>İbranice</p>",
+        "C": "<p>Moğolca</p>",
+        "D": "<p>Farsça</p>",
+        "E": "<p>Sırpça</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891785,
+        "UniteNo": 2,
+        "PageNumber": 34,
+        "AnswerExplanation": "<p>Sümerce ve Türkçede 168 ortak kelime vardır ve bu kelimeler, akrabalıktan ya da kelime alışverişinden kaynaklanmış olabilir. Doğru cevap A'dır. </p>",
+        "Title": "",
+        "Text": "<p>Sümerce ve Türkçe ile Sümerler ve Türkler arasındaki ilişkiler konusunda <br />Osman Nedim Tuna'nın yaptığı araştırmanın sonuçlarına göre aşağıdaki bilgilerden hangisi yanlıştır?</p>",
+        "A": "<p>Sümerce ve Türkçede 128 ortak kelime vardır ve bu kelimeler, akrabalıktan ya da kelime alışverişinden kaynaklanmış olabilir.<br /><br /></p>",
+        "B": "<p>Diller arasındaki ortaklıklar, ya akrabalık ya da komşuluk ilişkisi sonucunda oluşur.</p>",
+        "C": "<p>Türklerin en az MÖ 3500’lerde Türkiye’nin doğu bölgesinde bulunduğu tespit edilmiştir</p>",
+        "D": "<p>Türk dilinin zamanımızdan 5500 yıl önce müstakil ve iki kollu bir dil olarak varlığı<br />ispatlanmıştır.</p>",
+        "E": "<p>Bugün, yaşayan Dünya dilleri arasında, en eski yazılı belgelere sahip olan dil, Türk Dili'dir.<br /><br /></p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891779,
+        "UniteNo": 2,
+        "PageNumber": 39,
+        "AnswerExplanation": "<p>Kuzey (Kıpçak) Türkçesinin günümüzdeki devamı olarak kabul edilen lehçeler; Tatar,<br />Başkurt, Nogay, Kumuk, Karaçay, Kazak, Karakalpak ve Kırgız lehçeleridir.</p> <p>Özbek Türkçesi, Çağatay Türkçesinin günümüzdeki devamı olarak kabul edilir. </p>",
+        "Title": "",
+        "Text": "<p>Aşağıdakilerden hangisi Çağatay Türkçesinin günümüzdeki devamı olarak kabul edilmektedir? </p>",
+        "A": "<p>Kıpçak Türkçesi </p>",
+        "B": "<p>Kazak Türkçesi </p>",
+        "C": "<p>Kırgız Türkçesi </p>",
+        "D": "<p>Özbek Türkçesi </p>",
+        "E": "<p>Tatar Türkçesi </p>",
+        "CorrectAnswer": "D",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891790,
+        "UniteNo": 2,
+        "PageNumber": 45,
+        "AnswerExplanation": "<p>Daha çok Budist Uygurlar tarafından kullanılan ve Budizm’le ilgili eserler yazılan Brahmi<br />alfabesi Hindistan kökenli bir yazı sistemidir. Doğru cevap A'dır. </p>",
+        "Title": "",
+        "Text": "<p>Daha çok Budist Uygurlar tarafından kullanılan ve Budizm’le ilgili eserler yazılan, Hindistan kökenli yazı sistemi aşağıdakilerden hangisidir?</p>",
+        "A": "<p>Brahmi Alfabesi</p>",
+        "B": "<p>Tibet Yazısı</p>",
+        "C": "<p>Süryani Alfabesi</p>",
+        "D": "<p>İbrani alfabesi</p>",
+        "E": "<p>Ermeni Alfabesi</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891693,
+        "UniteNo": 2,
+        "PageNumber": 0,
+        "AnswerExplanation": "",
+        "Title": "Cumhuri\u001fyet Dönemi\u001f’nde Türkçe i\u001fle \u001filgili\u001f yapılan çalısmaları değerlend\u001fireb\u001fileceksiniz.",
+        "Text": "Aşağıdakilerden hangisi kültürel ögelerden biri değildir? ",
+        "A": "İleri teknoloji ",
+        "B": "Dil ",
+        "C": "Edebiyat ",
+        "D": "Halk Dansları",
+        "E": "Sanat ",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891804,
+        "UniteNo": 2,
+        "PageNumber": 54,
+        "AnswerExplanation": "<p>1926 yılında Azerbaycan’ın başkenti Bakü’de toplanan Birinci Türkoloji Kurultayı pek çok Türk topluluğunun kültür hayatını etkilemek bakımından çok önemli bir toplantıdır.</p>",
+        "Title": "",
+        "Text": "<p>Birinci Türkoloji Kongresi' nin toplandığı şehir hangisidir?</p>",
+        "A": "<p>Taşkent</p>",
+        "B": "<p>Kazan</p>",
+        "C": "<p>Bakü</p>",
+        "D": "<p>Selanik</p>",
+        "E": "<p>İstanbul</p>",
+        "CorrectAnswer": "C",
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3891793,
+        "UniteNo": 2,
+        "PageNumber": 33,
+        "AnswerExplanation": "<p>Türkçe, Ural-Altay dil ailesine mensuptur.</p>",
+        "Title": "",
+        "Text": "<p>Türkçe, hangi dil ailesine ait kabul edilir?</p>",
+        "A": "<p>Ural-Altay</p>",
+        "B": "<p>Hint-Avrupa</p>",
+        "C": "<p>Hami-Sami</p>",
+        "D": "<p>Çin-Tibet</p>",
+        "E": "<p>Bantu</p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
     }
 ]

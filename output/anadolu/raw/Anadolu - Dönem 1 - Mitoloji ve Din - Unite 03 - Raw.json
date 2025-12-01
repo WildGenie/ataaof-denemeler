@@ -12,8 +12,7 @@
         "D": "<p>Telipinu</p>",
         "E": "<p>İlluyanka</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374215,
@@ -28,8 +27,7 @@
         "D": "<p>Uranos</p>",
         "E": "<p>Zeus</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374266,
@@ -44,8 +42,7 @@
         "D": "<p>Sunak</p>",
         "E": "<p>Altar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374269,
@@ -60,8 +57,7 @@
         "D": "<p>B&uuml;y&uuml; tanrı&ccedil;asıdır</p>",
         "E": "<p>G&uuml;neş tanrısının &ccedil;obanıdır</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374360,
@@ -76,8 +72,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374364,
@@ -92,8 +87,7 @@
         "D": "<p>Libasyonları ihmal etmesi</p>",
         "E": "<p>Kaneş Kraliçesi ile evlenmesi</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374430,
@@ -108,8 +102,7 @@
         "D": "<p>Hupaşiya</p> ",
         "E": "<p>Ammunki</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374873,
@@ -124,8 +117,7 @@
         "D": "<p>Elkunirşa ve Aşertu</p>",
         "E": "<p>Telipinu’nun Kayboluşu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374878,
@@ -140,8 +132,7 @@
         "D": "<p>Appu ve İki Oğlu</p>",
         "E": "<p>Avcı Keşşi ve Karısı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374880,
@@ -156,8 +147,7 @@
         "D": "<p>Manas Destanı</p>",
         "E": "<p>Türeyiş Destanı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374922,
@@ -172,8 +162,7 @@
         "D": "<p>Kaşku</p> ",
         "E": "<p>Kubaba</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374940,
@@ -188,8 +177,7 @@
         "D": "<p>Aranzah</p>",
         "E": "<p>Ea</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374943,
@@ -204,8 +192,7 @@
         "D": "<p>Kulitta</p>",
         "E": "<p>Hepat</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374947,
@@ -220,8 +207,7 @@
         "D": "<p>Anu</p> ",
         "E": "<p>Kubaba</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374990,
@@ -236,8 +222,7 @@
         "D": "<p>Pala</p>",
         "E": "<p>Hurri</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374991,
@@ -252,8 +237,7 @@
         "D": "<p>Aştapi</p>",
         "E": "<p>Ereş.Ki.Gal</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375000,
@@ -268,8 +252,7 @@
         "D": "<p>Avcı Keşşi ve Karısı</p>",
         "E": "<p>Appu ve İki Oğlu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375235,
@@ -284,8 +267,7 @@
         "D": "<p>Kamruşepa</p>",
         "E": "<p>Hedammu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375289,
@@ -300,8 +282,7 @@
         "D": "<p><span class=\"fontstyle0\">Gökyüzünden Düşen Ay<br /><br /></span></p>",
         "E": "<p><span class=\"fontstyle0\">Ebedi Olan İnsan Ruhunun Yolculuğu</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375291,
@@ -316,8 +297,7 @@
         "D": "<p><span class=\"fontstyle0\">Kamruşepa</span></p>",
         "E": "<p><span class=\"fontstyle0\">C- Kamruşepa</span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374219,
@@ -332,8 +312,7 @@
         "D": "<p>I-B/II-C/III-A</p>",
         "E": "<p>I-C/II-A/III-B</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374369,
@@ -348,8 +327,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374433,
@@ -364,8 +342,7 @@
         "D": "<p>II-III-IV</p> ",
         "E": "<p>III-IV</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374435,
@@ -380,8 +357,7 @@
         "D": "<p>Kubaba</p>",
         "E": "<p>Hubal</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374867,
@@ -396,8 +372,7 @@
         "D": "<p>Kumarbi.</p>",
         "E": "<p>Gılgamış.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374869,
@@ -412,8 +387,7 @@
         "D": "<p>Aştapi.</p>",
         "E": "<p>Kaşku.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374881,
@@ -428,8 +402,7 @@
         "D": "<p>I ve II</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374914,
@@ -444,8 +417,7 @@
         "D": "<p>Gılgamış</p> ",
         "E": "<p>Elkunirşa ve Aşertu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374918,
@@ -460,8 +432,7 @@
         "D": "<p>İyi ve K&ouml;t&uuml; adlı iki kardeşin arasındaki m&uuml;cadele</p>",
         "E": "<p>Bir Kaneş krali&ccedil;esinin bir yılda otuz &ccedil;ocuk doğurması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374923,
@@ -476,8 +447,7 @@
         "D": "<p>Layard</p>",
         "E": "<p>Platon</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374944,
@@ -492,8 +462,7 @@
         "D": "<p>Ea</p> ",
         "E": "<p>Anu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374951,
@@ -508,8 +477,7 @@
         "D": "<p>Mezopotamya Kökenli</p> ",
         "E": "<p>Masallar</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374987,
@@ -524,8 +492,7 @@
         "D": "<p>Kenan Kökenli Mitler</p>",
         "E": "<p>Yunan Kökenli Mitler</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374988,
@@ -540,8 +507,7 @@
         "D": "<p>Hurri</p>",
         "E": "<p>Kenan</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375232,
@@ -556,8 +522,7 @@
         "D": "<p>Beş nüsha</p>",
         "E": "<p>Yedi nüsha</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375288,
@@ -572,8 +537,7 @@
         "D": "<p><span class=\"fontstyle0\">Anzili ve Zukki’nin Kayboluşu<br /><br /></span></p>",
         "E": "<p><span class=\"fontstyle0\">Fırtına Tanrısı’nın Müthiş Bir Şekilde<br />Gürlemesi </span> </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374260,
@@ -588,8 +552,7 @@
         "D": "<p>Hititler kendilerine ait efsaneler yaratamamıştır</p>",
         "E": "<p>Hititlerde efsane yaratılması yasaklanmıştır</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374262,
@@ -604,8 +567,7 @@
         "D": "<p>Ullikummi Şarkısı</p>",
         "E": "<p>Kumarbi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374268,
@@ -620,8 +582,7 @@
         "D": "<p>Hannahanna</p>",
         "E": "<p>Şauşga</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374872,
@@ -636,8 +597,7 @@
         "D": "<p>Ea.</p>",
         "E": "<p>Aştapi.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374919,
@@ -652,8 +612,7 @@
         "D": "<p>Deniz Kızı ve Telipinu</p> ",
         "E": "<p>Gümüş’ün Şarkısı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374926,
@@ -668,8 +627,7 @@
         "D": "<p>Ebedi Olan İnsan Ruhunun Yolculuğu</p>",
         "E": "<p>Fırtına Tanrısı’nın Müthiş Bir Şekilde Gürlemesi (Gökyüzünden Düşen Ay)</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374946,
@@ -684,8 +642,7 @@
         "D": "<p>Anu</p> ",
         "E": "<p>Ereş.Ki.Gal</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374985,
@@ -700,8 +657,7 @@
         "D": "<p class=\"p2\">Hedammu Şarkısı</p>",
         "E": "<p class=\"p2\">Kamruşepa</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375231,
@@ -716,8 +672,7 @@
         "D": "<p>Avcı Keşşi ve Karısı<br /> </p>",
         "E": "<p>Güneş Tanrısı, İnek ve Balıkçı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375292,
@@ -732,8 +687,7 @@
         "D": "<p><span class=\"fontstyle0\">Gökyüzünden Düşen Ay<br /><br /></span></p>",
         "E": "<p><span class=\"fontstyle0\">Ebedi Olan İnsan Ruhunun Yolculuğu</span></p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375296,
@@ -748,8 +702,7 @@
         "D": "<p> Kaşku</p>",
         "E": "<p>Teşup</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3473522,
@@ -764,8 +717,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>I, II ve III</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374214,
@@ -780,8 +732,7 @@
         "D": "<p>Lidyalılar</p>",
         "E": "<p>Fenikeliler</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374217,
@@ -796,8 +747,7 @@
         "D": "<p>Festival</p>",
         "E": "<p>Yardımlaşma</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374361,
@@ -812,8 +762,7 @@
         "D": "<p>Ebedi Olan İnsan Ruhunun Yolculuğu</p>",
         "E": "<p>Fırtına Tanrısı’nın Kayboluşu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374363,
@@ -828,8 +777,7 @@
         "D": "<p>Tanrı Telipinu’nun kayboluşunu</p>",
         "E": "<p>Fırtına Tanrısı ile İlluyank'nın kavgasını</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374366,
@@ -844,8 +792,7 @@
         "D": "<p>Kumarbi'yi yendikten sonra dokuz yıl gökyüzü tahtına oturmuştur</p>",
         "E": "<p>Mezopotamya kökenlidir</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374368,
@@ -860,8 +807,7 @@
         "D": "<p>Kumarbi</p>",
         "E": "<p>Hapantaliia</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374434,
@@ -876,8 +822,7 @@
         "D": "<p>Hatti</p> ",
         "E": "<p>Luwi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374865,
@@ -892,8 +837,7 @@
         "D": "<p>Gılgamış</p>",
         "E": "<p>Hedammu şarkısı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374876,
@@ -908,8 +852,7 @@
         "D": "<p>Kan davası</p>",
         "E": "<p>Başlık Parası</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374877,
@@ -924,8 +867,7 @@
         "D": "<p>Zalpa Kenti Öyküsü</p>",
         "E": "<p>Appu ve İki Oğlu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374942,
@@ -940,8 +882,7 @@
         "D": "<p>Ninatta</p>",
         "E": "<p>Kulitta</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374995,
@@ -956,8 +897,7 @@
         "D": "<p>Kamruşepa</p>",
         "E": "<p>Ebedi Olan İnsan Ruhunun Yolculuğu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374996,
@@ -972,8 +912,7 @@
         "D": "<p>Lidya</p>",
         "E": "<p>Frig</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375002,
@@ -988,8 +927,7 @@
         "D": "<p>Gılgamış destanı</p>",
         "E": "<p>Kamruşepa</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375003,
@@ -1004,8 +942,7 @@
         "D": "<p>Aştapi</p>",
         "E": "<p>Kaşku</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375294,
@@ -1020,8 +957,7 @@
         "D": "<p><span class=\"fontstyle0\">Güneş Tanrısı, İnek ve Balıkçı</span></p>",
         "E": "<p>Gılgamış</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374213,
@@ -1036,8 +972,7 @@
         "D": "<p>Minki</p>",
         "E": "<p>Hannhanna</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374263,
@@ -1052,8 +987,7 @@
         "D": "<p>Hititlerin Hurri tanrılarından korkması</p>",
         "E": "<p>Hititler ve Hurriler arasındaki ticari ilişkilerin varlığı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374267,
@@ -1068,8 +1002,7 @@
         "D": "<p>Hepat</p>",
         "E": "<p>İnara</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374367,
@@ -1084,8 +1017,7 @@
         "D": "<p>Ea</p>",
         "E": "<p>Gökyüzünün Güneş Tanrısı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374882,
@@ -1100,8 +1032,7 @@
         "D": "<p>Hannahanna</p>",
         "E": "<p>Hapantaliia</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374938,
@@ -1116,8 +1047,7 @@
         "D": "<p>Kumarbi (Gökteki Krallık) Efsanesi</p>",
         "E": "<p>Tanrı Lama’nın Şarkısı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374984,
@@ -1132,8 +1062,7 @@
         "D": "<p>Hegel</p>",
         "E": "<p>Nietsche</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374986,
@@ -1148,8 +1077,7 @@
         "D": "<p class=\"p2\">Ullikummi Şarkısı</p>",
         "E": "<p class=\"p2\">Ebedi Olan İnsan Ruhunun Yolculuğu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374999,
@@ -1164,8 +1092,7 @@
         "D": "<p>Kamruşepa</p>",
         "E": "<p>Ninatta</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375227,
@@ -1180,8 +1107,7 @@
         "D": "<div class=\"fl ellip oBrLN\" data-original-name=\"Konfüçyüs\">Konfüçyüs</div>",
         "E": "<div class=\"fl ellip oBrLN\" data-original-name=\"Aristoteles\">Aristoteles</div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375290,
@@ -1196,8 +1122,7 @@
         "D": "<p><span class=\"fontstyle0\">Elkunirşa ve Aşertu</span> </p>",
         "E": "<p><span class=\"fontstyle0\">Hedammu Şarkısı<br /><br /></span></p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374261,
@@ -1212,8 +1137,7 @@
         "D": "<p>Ebedi Olan İnsan Ruhunun Yolculuğu</p>",
         "E": "<p>Kamruşepa</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374863,
@@ -1228,8 +1152,7 @@
         "D": "<p>Ullikummi şarkısı</p>",
         "E": "<p>Kumarbi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374915,
@@ -1244,8 +1167,7 @@
         "D": "<p>Kartal</p> ",
         "E": "<p>Yılan</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374941,
@@ -1260,8 +1182,7 @@
         "D": "<p>Aştapi</p>",
         "E": "<p>Ea</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375295,
@@ -1276,8 +1197,7 @@
         "D": "<p>İnara</p>",
         "E": "<p>Anu</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374211,
@@ -1292,8 +1212,7 @@
         "D": "<p> Kumarbi</p>",
         "E": "<p>Kamruşepa</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374866,
@@ -1308,8 +1227,7 @@
         "D": "<p>Gılgamış</p>",
         "E": "<p>Kamruşepa</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374920,
@@ -1324,8 +1242,7 @@
         "D": "<p>Kartal</p> ",
         "E": "<p>Kurt</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374952,
@@ -1340,8 +1257,7 @@
         "D": "<p>Ullikummi Şarkısı</p> ",
         "E": "<p>Telipinu’nun Kayboluşu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374989,
@@ -1356,8 +1272,7 @@
         "D": "<p>20</p>",
         "E": "<p>30</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374994,
@@ -1372,8 +1287,7 @@
         "D": "<p>Platon</p>",
         "E": "<p>Zenon</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374997,
@@ -1388,8 +1302,7 @@
         "D": "<p>Kumarbi</p>",
         "E": "<p>Hapantaliia</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374998,
@@ -1404,8 +1317,7 @@
         "D": "<p>Şauşga</p>",
         "E": "<p>Kubaba</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375233,
@@ -1420,8 +1332,7 @@
         "D": "<p>Deniz Tanrısına</p>",
         "E": "<p>Yılan Tanrısına</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375287,
@@ -1436,8 +1347,7 @@
         "D": "<p><span class=\"fontstyle0\"> Gümüş’ün Şarkısı<br /><br /></span></p>",
         "E": "<p><span class=\"fontstyle0\">Hedammu Şarkısı<br /><br /></span></p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374264,
@@ -1452,8 +1362,7 @@
         "D": "<div class=\"page\" title=\"Page 3\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Kuliwişna kenti Fırtına Tanrısı&rsquo;nın Kayboluşu</p>\n</div>\n</div>\n</div>",
         "E": "<p>Ullikummi Şarkısı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374362,
@@ -1468,8 +1377,7 @@
         "D": "<p>Avcı Keşşi ve Karısı</p>",
         "E": "<p>Kumarbi Efsanesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374945,
@@ -1484,8 +1392,7 @@
         "D": "<p>Ea</p> ",
         "E": "<p>Anu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374950,
@@ -1500,8 +1407,7 @@
         "D": "<p>Avcı Keşşi ve Karısı</p> ",
         "E": "<p>Appu ve İki Oğlu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375293,
@@ -1516,8 +1422,7 @@
         "D": "<p>Gökyüzünden Düşen Ay</p>",
         "E": "<p><span class=\"fontstyle0\">Kumarbi (Gökteki Krallık) Efsanesi</span> </p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374220,
@@ -1532,8 +1437,7 @@
         "D": "<p>Elkunirşa-Aşertu – Kenan kökenli</p>",
         "E": "<p>Kumarbi Efsanesi – Hatti kökenli</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374431,
@@ -1548,8 +1452,7 @@
         "D": "<p>II-III-IV</p> ",
         "E": "<p>I-II-IV</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374436,
@@ -1564,8 +1467,7 @@
         "D": "<p>Fırtına Tanrısı</p>",
         "E": "<p>Tanrıların Tanrısı</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374438,
@@ -1580,8 +1482,7 @@
         "D": "<p>Fransızlar -  edebiyatta</p>",
         "E": "<p>Türkler de – ahlâkta</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374925,
@@ -1596,8 +1497,7 @@
         "D": "<p>Samsat</p>",
         "E": "<p>Ninive</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375001,
@@ -1612,8 +1512,7 @@
         "D": "<p>Ullikummi Şarkısı</p>",
         "E": "<p>Appu ve İki Oğlu</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375236,
@@ -1628,8 +1527,7 @@
         "D": "<p>Aşertu</p>",
         "E": "<p>Kaneş</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374868,
@@ -1644,8 +1542,7 @@
         "D": "<p>Aştapi</p>",
         "E": "<p>Kaşku</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374870,
@@ -1660,8 +1557,7 @@
         "D": "<p>Aştapi.</p>",
         "E": "<p>Kaşku.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374927,
@@ -1676,8 +1572,7 @@
         "D": "<p>Kamruşepa</p>",
         "E": "<p>Ebedi Olan İnsan Ruhunun Yolculuğu</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374939,
@@ -1692,8 +1587,7 @@
         "D": "<p>Ullikummi Şarkısı</p>",
         "E": "<p>İlluyanka Efsanesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374953,
@@ -1708,8 +1602,7 @@
         "D": "<p>Güneş Tanrısı’nın Kayboluşu</p> ",
         "E": "<p>Avcı Keşi ve Karısı</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375229,
@@ -1724,8 +1617,7 @@
         "D": "<p><br />E- Ebedi Olan İnsan Ruhunun Yolculuğu<br /><br /></p>",
         "E": "<p>Elkunirşa</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374864,
@@ -1740,8 +1632,7 @@
         "D": "<p>Gılgamış</p>",
         "E": "<p>Kumarbi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374916,
@@ -1756,8 +1647,7 @@
         "D": "<p>Gökyüzü Tanrısı</p>",
         "E": "<p>İntikam Tanrısı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374948,
@@ -1772,8 +1662,7 @@
         "D": "<p>Gümüş’ün Şarkısı</p> ",
         "E": "<p>Hedammu Şarkısı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374265,
@@ -1788,8 +1677,7 @@
         "D": "<p>Elkunirşa</p>",
         "E": "<p>Zalpa Kenti Öyküsü</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374871,
@@ -1804,8 +1692,7 @@
         "D": "<p>Aştapi</p>",
         "E": "<p>Kaşku</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375234,
@@ -1820,8 +1707,7 @@
         "D": "<p>Dağlara</p>",
         "E": "<p>Gökyüzüne</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374218,
@@ -1836,8 +1722,7 @@
         "D": "<p>Pala</p>",
         "E": "<p>Grek</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374365,
@@ -1852,8 +1737,7 @@
         "D": "<p>Zalpa Kenti Öyküsü</p>",
         "E": "<p>Gurparanzah masalı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374429,
@@ -1868,8 +1752,7 @@
         "D": "<p>Zalpa Kenti Öyküsü</p> ",
         "E": "<p>Appu ve iki oğlu</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374917,
@@ -1884,8 +1767,7 @@
         "D": "<p>Ullikummi</p> ",
         "E": "<p>Alalu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374993,
@@ -1900,8 +1782,7 @@
         "D": "<p>Hedammu</p>",
         "E": "<p>Hepat</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374875,
@@ -1916,8 +1797,7 @@
         "D": "<p>Kumarbi (Gökteki Krallık) Efsanesi</p>",
         "E": "<p>Zalpa Kenti Öyküsü</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374921,
@@ -1932,8 +1812,7 @@
         "D": "<p>Şauşga</p> ",
         "E": "<p>Takitiş</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374879,
@@ -1948,8 +1827,7 @@
         "D": "<p>Avcı Keşşi ve Karısı</p>",
         "E": "<p>Zalpa Kenti Öyküsü</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374913,
@@ -1964,8 +1842,7 @@
         "D": "<p>Hannahanna</p>",
         "E": "<p>Güneş Tanrısı</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374949,
@@ -1980,8 +1857,7 @@
         "D": "<p>Ullikummi Şarkısı</p> ",
         "E": "<p>Deniz’in Kızı ve Telipinu</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3375004,
@@ -1996,8 +1872,7 @@
         "D": "<p>İnara</p>",
         "E": "<p>Kulitta</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374432,
@@ -2012,8 +1887,7 @@
         "D": "<p>Upelluri</p>",
         "E": "<p>Kaşku</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374437,
@@ -2028,8 +1902,7 @@
         "D": "<p>Takitiş</p>",
         "E": "<p>Hannahanna</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374874,
@@ -2044,8 +1917,7 @@
         "D": "<p>Tepegözün Ölümü</p>",
         "E": "<p>Troya</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374216,
@@ -2060,8 +1932,7 @@
         "D": "<p>Appu ve İki Oğlu</p>",
         "E": "<p>Zalpa Kenti Öyküsü</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374992,
@@ -2076,8 +1947,7 @@
         "D": "<p>Hannahanna</p>",
         "E": "<p>İnara</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3374924,
@@ -2092,7 +1962,21 @@
         "D": "<p>Hesiodos</p>",
         "E": "<p>Sokrates</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
+    },
+    {
+        "QuestionId": 3375230,
+        "UniteNo": 3,
+        "PageNumber": 43,
+        "AnswerExplanation": "<p>Kuliwişna</p>",
+        "Title": "<p>Hurri Kökenli Mitler</p>",
+        "Text": "<p style=\"text-align: justify;\">Hurri Kökenli Mitler Hurriceden Hittitçeye uyarlanmıştır. Aşağıda başlıkları verilmiş olan efsaneler birbiriyle ilişkilidir. Bu efsanelerin ana konusunu; Kumarbi ve Fırtına Tanrısı Teşup’un tanrılar üzerinde bir krallık elde etmek için verdiği mücadele oluşturmaktadır.</p> <p style=\"text-align: justify;\">Aşağıda yer alan efsanelerden hangisi Hurri Kökenli Mitler başlığı altında yer almaz?</p>",
+        "A": "<p>Kuliwişna</p>",
+        "B": "<p>Kumarbi <br /><br /></p>",
+        "C": "<p>Tanrı LAMA’nın Şarkısı<br /><br /></p>",
+        "D": "<p>Gümüş’ün Şarkısı<br /><br /></p>",
+        "E": "<p>Hedammu Şarkısı<br /><br /></p>",
+        "CorrectAnswer": "A",
+        "UserAnswer": null
     }
 ]

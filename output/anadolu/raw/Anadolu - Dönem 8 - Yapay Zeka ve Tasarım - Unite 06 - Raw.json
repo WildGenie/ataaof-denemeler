@@ -12,8 +12,7 @@
         "D": "<p>Alan Turing</p>",
         "E": "<p>Nick Szabo</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832794,
@@ -28,8 +27,7 @@
         "D": "<p>Figma</p>",
         "E": "<p>Hotjar</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832798,
@@ -44,8 +42,7 @@
         "D": "<p>Hotjar</p>",
         "E": "<p>Adobe Sensei</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832801,
@@ -60,8 +57,7 @@
         "D": "<p>Hotjar</p>",
         "E": "<p>Adobe Sensei</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832802,
@@ -76,8 +72,7 @@
         "D": "<p>A/B testi</p>",
         "E": "<p>NLP</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832806,
@@ -92,8 +87,7 @@
         "D": "<p>Zıtlık</p>",
         "E": "<p>Hiyerarşi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832807,
@@ -108,8 +102,7 @@
         "D": "<p>Zıtlık</p>",
         "E": "<p>Hiyerarşi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832810,
@@ -124,8 +117,7 @@
         "D": "<p><span style=\"font-weight: 400;\">Manuel tasarım işlemlerini otomatikleştirerek zaman ve maliyet tasarrufu sağlaması</span><span style=\"font-weight: 400;\"><br /></span></p>",
         "E": "<p><span style=\"font-weight: 400;\">Kullanıcıların memnuniyet düzeyini artırması</span></p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832814,
@@ -140,8 +132,7 @@
         "D": "<p>Adobe Sensei</p>",
         "E": "<p>Hotjar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3832818,
@@ -156,7 +147,6 @@
         "D": "<p>Adobe Sensei</p>",
         "E": "<p>Runway ML</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

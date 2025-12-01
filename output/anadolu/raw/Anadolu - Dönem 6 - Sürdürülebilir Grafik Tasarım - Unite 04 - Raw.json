@@ -12,8 +12,7 @@
         "D": "<p>1990'lar</p>",
         "E": "<p>2000'ler</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764210,
@@ -28,8 +27,7 @@
         "D": "<p>Hammadde ve Malzeme Seçimi</p> <p>Planlama</p> <p>Tasarım</p> <p>Üretim</p> <p>Dağıtım</p> <p>Kullanım</p> <p>Ömrünü Tamamlayan Ürün</p>",
         "E": "<p>Hammadde ve Malzeme Seçimi</p> <p>Üretim</p> <p>Dağıtım</p> <p>Kullanım</p> <p>Geri Dönüşüm</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764211,
@@ -44,8 +42,7 @@
         "D": "<p>Eko-Sürdürülebilirlik</p>",
         "E": "<p>Eko-Geridönüşüm</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764212,
@@ -60,8 +57,7 @@
         "D": "<p>Eko-Kıyaslama</p>",
         "E": "<p>Eko Yenileşim</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764213,
@@ -76,8 +72,7 @@
         "D": "<p>Dünya Bankası Çevre Gurubu</p>",
         "E": "<p>Kyoto Sözleimesi</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764214,
@@ -92,8 +87,7 @@
         "D": "<p>Blue Angel</p>",
         "E": "<p>WaterSense</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764215,
@@ -108,8 +102,7 @@
         "D": "<p>Global GreenTag Certified </p>",
         "E": "<p>Çevre Etiketi</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764216,
@@ -124,8 +117,7 @@
         "D": "<p>Danimarka</p>",
         "E": "<p>İsveç</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764217,
@@ -140,8 +132,7 @@
         "D": "<p>İsveç</p>",
         "E": "<p>Danimarka</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764218,
@@ -156,8 +147,7 @@
         "D": "<p>Danimarka</p>",
         "E": "<p>İslanda</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764235,
@@ -172,8 +162,7 @@
         "D": "<p>Hammadde</p>",
         "E": "<p>Geri dönüşüm</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764236,
@@ -188,8 +177,7 @@
         "D": "<p>Eco tasarım</p>",
         "E": "<p class=\"p1\"> </p>\n<p class=\"p2\">Sürdürülebilirlik için Tasarım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764237,
@@ -204,8 +192,7 @@
         "D": "<p>Belçika</p>",
         "E": "<p>Kolombiya</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764238,
@@ -220,8 +207,7 @@
         "D": "<p>1979’lerin sonları</p>",
         "E": "<p>1983’lerin sonları</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764239,
@@ -236,8 +222,7 @@
         "D": "<p class=\"p1\"> </p> <p class=\"p2\">Çevreye Duyarlı Tasarım<span class=\"Apple-converted-space\"> </span></p>",
         "E": "<p class=\"p1\"> </p> <p class=\"p2\">Beşikten Beşiğe Tasarım</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764240,
@@ -252,8 +237,7 @@
         "D": "<p class=\"p2\">Dagıtım</p> <p class=\"p2\"> </p>",
         "E": "<p class=\"p2\"> </p> <p class=\"p2\">Ömrünü tamamlayan ürün</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764241,
@@ -268,8 +252,7 @@
         "D": "<p>I/II/IV</p>",
         "E": "<p>I/III/IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764242,
@@ -284,8 +267,7 @@
         "D": "<p>Tasarım</p>",
         "E": "<p>Ekolojik sistem</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764243,
@@ -300,8 +282,7 @@
         "D": "<p>II/III/IV/V/VI/VII/VIII/IX/X</p>",
         "E": "<p>I/II/III/IV/V/VI/VII/VIII/IX/</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3764244,
@@ -316,7 +297,6 @@
         "D": "<p>Henkel</p>",
         "E": "<p>Amway</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     }
 ]

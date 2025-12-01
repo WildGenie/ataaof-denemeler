@@ -12,8 +12,7 @@
         "D": "<p>Yetiştirme</p>",
         "E": "<p>Öğrenim</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863497,
@@ -28,8 +27,7 @@
         "D": "<p>Bağlantıcı</p>",
         "E": "<p>Yapılandırmacı</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863498,
@@ -44,8 +42,7 @@
         "D": "<p>II ve III</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863499,
@@ -60,8 +57,7 @@
         "D": "<p>Bağlantıcı yaklaşım</p>",
         "E": "<p>Programlı Öğretim</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863501,
@@ -76,8 +72,7 @@
         "D": "<p>Programlı öğretim</p>",
         "E": "Öğretme makineleri",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863503,
@@ -92,8 +87,7 @@
         "D": "Öğrencilerin belleklerine bilgiyi kalıcı biçimde yerleştirebilmek için tekrar ve ezber yapmaya yönlendirilmesi",
         "E": "Öğretmenin öğrenme sürecini kontrol altında tutarak yanlış anlamaları anında düzeltmesi",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863504,
@@ -108,8 +102,7 @@
         "D": "Sınamak",
         "E": "İyileştirmek",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863610,
@@ -124,8 +117,7 @@
         "D": "<p>Eğitim, yapılandırılmış öğrenmenin yanı sıra yapılandırılmamış ve yarı yapılandırılmış öğrenmeleri de içeren kapsayıcı bir kavramdır.</p>",
         "E": "<p>Yapılandırılmış öğrenme dışındaki öğrenme deneyimleri eğitimin ilgi alanı içerisinde yer almaz.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863612,
@@ -140,8 +132,7 @@
         "D": "<p>Öğrenmenin gerçekleşmesi, gözlemlenebilir davranış değişimlerinin gerçekleşmesi ile mümkündür.</p>",
         "E": "<p>Tüm yaklaşımlar bireyin öznel anlam kurma sürecini göz ardı ettiği için, bilginin zihinde depolanma sürecine odaklanan bilişçi yaklaşımlar insan öğrenmesini açıklamadan daha etkindir.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863613,
@@ -156,8 +147,7 @@
         "D": "<p>Sönmüş koşullu tepkiler, koşulsuz uyarıcılarla birlikte koşullu uyarıcılar verildiğinde kendiliğinden geri gelir.</p>",
         "E": "<p>Öğrenme, işbirliği ve bireysel yorumlarla gerçekçi ortamlarda gerçekleşir; test etme bu sürecin doğal bir parçasıdır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863614,
@@ -172,8 +162,7 @@
         "D": "<p>Sorunları sun, takımla öğren, etkinliği düzenle, rehber ve model ol.</p>",
         "E": "<p>Dikkat çek, kodlama ve geri çağırmaya yardımcı ol.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863615,
@@ -188,8 +177,7 @@
         "D": "<p>Teknoloji, öğrenme hızını ve yolunu belirler.</p>",
         "E": "<p>Teknoloji, öğrenme sürecini kolaylaştırıcı bir araçtır.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863616,
@@ -204,8 +192,7 @@
         "D": "<p>Öğretme, anlamın yapılandırılması için tartışmaktır.</p>",
         "E": "<p>Öğrenme sürecinde, anlama deneyimlerle geliştirilir.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863617,
@@ -220,8 +207,7 @@
         "D": "<p>Teknolojinin öğrencilerle doğrudan etkileşim kurarak ders işlemesi<o:p></o:p></p>",
         "E": "<p>Sınıf içi öğretime ek olarak çokluortam yazılımının kullanılması</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863618,
@@ -236,8 +222,7 @@
         "D": "Öğrenme ortamının temel bileşeninin teknoloji olması",
         "E": "Yüz yüze sınıf ortamlarının tek başına yeterli olması",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863619,
@@ -252,8 +237,7 @@
         "D": "<p>Tüm ders materyallerinin yalnızca geleneksel kitaplardan oluştuğu bir ortam söz konusudur. </p>",
         "E": "<p>Öğretmenin bilgiyi sınıfta aktarmasıyla süreç tamamlanır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863620,
@@ -268,8 +252,7 @@
         "D": "Eğitim sürecinin büyük ölçüde uzaktan yürütülüp yalnızca gerektiğinde yüz yüze buluşulması<br />",
         "E": "Tüm ders materyallerinin yalnızca geleneksel araç ve gereçlerden oluşmaması, aynı zamanda dijital teknolojilerin de yararlanılması",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3903647,
@@ -284,8 +267,7 @@
         "D": "Öğretim olaylarının sınıf içinde öğretmenler için oldukça kolay uygulanabilir olması modelin yaygınlaşmasını sağlamıştır.",
         "E": "Gagné, öğretim olaylarının yalnızca bilgi sunumunu kapsadığını ve diğer öğrenme süreçlerini dikkate almadığını savunmuştur.",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3940022,
@@ -300,8 +282,7 @@
         "D": "Sınamak",
         "E": "İyileştirmek",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3940023,
@@ -316,8 +297,7 @@
         "D": "Sınamak",
         "E": "İyileştirmek",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863494,
@@ -332,8 +312,7 @@
         "D": "<p>Yetiştirme</p>",
         "E": "<p>Öğretme</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863500,
@@ -348,8 +327,7 @@
         "D": "<p>I ve III</p>",
         "E": "<p>Hepsi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863611,
@@ -364,8 +342,7 @@
         "D": "Ortaokul öğrencilerinin bahçede dürüstlük temalı bir oyun oynayarak oyuna ilişkin yansıtmalarını birbirleriyle paylaşması",
         "E": "<p>Öğrencilerin öğrenme yönetim sistemi içerisinde geometri problemlerini çözmeye yönelik etkileşimli içeriklerden yararlanması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3924069,
@@ -380,8 +357,7 @@
         "D": "Öğrenmeye yardımcı araçları kullanmaya çalışır.",
         "E": "Zihindeki bilgi miktarında değişim yaratmaya çalışır.",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3863496,
@@ -396,7 +372,6 @@
         "D": "<p>Bağlantıcı</p>",
         "E": "<p>Yapılandırmacı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     }
 ]

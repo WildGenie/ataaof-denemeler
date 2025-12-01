@@ -12,8 +12,7 @@
         "D": "<p>IV ve V</p>",
         "E": "<p>V ve I</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887417,
@@ -28,8 +27,7 @@
         "D": "<p>5 Aralık 1920’de Ermenistan’ın Ruslar tarafından işgal edilmesiyle Ermenilerle ilgili sorunların Ruslara geçmesi</p>",
         "E": "<p>3 Aralık 1920 tarihinde Gümrü Antlaşmasının imzalanması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887418,
@@ -44,8 +42,7 @@
         "D": "<p>Sakarya Savaşı'nın kazanılması</p>",
         "E": "<p>Yunanlıların Gediz'de yenilgiye uğratılması</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887419,
@@ -60,8 +57,7 @@
         "D": "<p>Olağanüstü bir dönemde ihtiyaçları karşılamak ve geçici olarak ortaya çıkan<br />kısmi iktidar boşluğunu doldurmak</p>",
         "E": "<p>TBMM’de her biri ayrı görüşe sahip değişik gruplar olması</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887420,
@@ -76,8 +72,7 @@
         "D": "<p>Sakarya Zaferi, Büyük Taarruz (26 Ağustos 1922) ve Başkomutanlık Meydan<br />Muharebesi’nin (30 Ağustos 1922) hazırlıkları için gerekli zamanı kazandırmıştır</p>",
         "E": "<p>Teşkilat-ı Esasiye Kanunu'nun kabul edilmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887421,
@@ -92,8 +87,7 @@
         "D": "<p>Kars Antlaşması</p>",
         "E": "<p>Ankara Antlaşması </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887422,
@@ -108,8 +102,7 @@
         "D": "<p>Meclis bünyesinde kurulan Encümen-i Mahsusa (Özel Komisyon) 24 madde ve bir geçici maddeden oluşan Anayasa taslağını hazırlayarak Meclise sunması</p>",
         "E": "<p>Sovyet Rusya ile Moskova Antlaşması'nın imzalanması</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887423,
@@ -124,8 +117,7 @@
         "D": "<p>İkinci İnönü Muharebesi’nin zaferle sonuçlanması TBMM Hükûmeti için önemli kazanımlar doğurmuştur.</p>",
         "E": "<p>İkinci İnönü Muharebesi’nin de zaferle sonuçlanması vatanın düşmandan temizlenmesi ile ilgili umutları daha da artırmıştır.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887424,
@@ -140,8 +132,7 @@
         "D": "<p>Meclis gizli oturumunda söz alan Fevzi Paşa'nın, şehir ve bölge savaşı yapmadıklarını, tarihî günler yaşandığını, hedefin kesin zafer olduğunu belirten açıklamaları meclis üyelerini ve bu dönemde ilk defa birlikte hareket ederek ortaya çıkan bir muhalif grubu yatıştırmaya yeterli olmamıştır.  </p>",
         "E": "<p>Birinci ve İkinci İnönü Muharebelerinde yenik duruma düşen Yunanlılar, Kütahya - Eskişehir Muharebeleri başarılarından elde ettikleri moral ve İngilizlerin de teşvikiyle Anadolu’da ilerlemelerine devam etmek ve Millî Hükûmeti zor duruma sokmak istemişlerdir.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3887425,
@@ -156,7 +147,6 @@
         "D": "<p>IV</p>",
         "E": "<p>V</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]

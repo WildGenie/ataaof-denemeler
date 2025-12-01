@@ -12,8 +12,7 @@
         "D": "<p>Steven Soderbergh</p>",
         "E": "<p>Creative Cloud</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594048,
@@ -28,8 +27,7 @@
         "D": "<p>Adobe Premiere Pro, video prodüksiyonunun her aşamasında profesyonellere eşsiz bir esneklik ve kontrol sunarak, sektördeki en kapsamlı video düzenleme yazılımlarından biri olarak kabul edilir</p>",
         "E": "<p>Adobe Premiere Pro, video prodüksiyonunun her aşamasında profesyonellere eşsiz bir esneklik ve kontrol sunarak, sektördeki en kapsamlı video düzenleme yazılımlarından biri olarak kabul edilir</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594049,
@@ -44,8 +42,7 @@
         "D": "<p>Liste Görünümü: Bu ikon, medya dosyalarınızı bir liste halinde gösterir. Liste görünümünde, dosya adı, türü, süresi ve diğer meta veriler gibi ek detayları görebilirsiniz. Bu görünüm, dosyalar arasında hızlı bir şekilde gezinmek ve özellikle çok sayıda dosyayı yönetirken detaylı bilgiye ulaşmak<br />için kullanışlıdır.<br /><br /></p>",
         "E": "<p> Herhangi bir dosyanın herhangi bir dijital video editing sistemine aktarılması işlemine içe aktarma (import) denilir</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594050,
@@ -60,8 +57,7 @@
         "D": "<p>Delete (sil)<br /><br /></p>",
         "E": "<p>New Bin (Yeni klasör) </p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594051,
@@ -76,8 +72,7 @@
         "D": "<p>Working Color Space</p>",
         "E": "<p>Frame Size</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594052,
@@ -92,8 +87,7 @@
         "D": "<p>Önizleme</p>",
         "E": "<p>Working Color Space</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594336,
@@ -108,8 +102,7 @@
         "D": "<p>Maximum Render Quality</p>",
         "E": "<p>Lift: Bu düğme, zaman çizelgesinde “in ve out verilerek “seçilen bölümü kaldırırancak bu işlemi<br />yaparken boşluk bırakmaz. Yani, “Lift” edilen bölüm çıkartılır ve kalan kısımlar otomatik olarak<br />birbirine yaklaşır, bu sayede zaman çizelgesinde bir boşluk oluşmaz. Kısayolu “;” tuşudur.</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594340,
@@ -124,8 +117,7 @@
         "D": "<p>Renk Düzeltme ve Grading: Videonuzun renk tonlarını ve aydınlık seviyelerini ayarlayarak görsel stilini geliştirebilirsiniz.</p>",
         "E": "<p>Düzenleme Sadeleşmesi</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594345,
@@ -140,8 +132,7 @@
         "D": "<p>Selection Tool (V)</p>",
         "E": "<p>Sessiz (Mute)</p>",
         "CorrectAnswer": "D",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3594349,
@@ -156,8 +147,7 @@
         "D": "<p>Çözünürlük</p>",
         "E": "<p>Yedekleme:</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598211,
@@ -172,8 +162,7 @@
         "D": "<p>John Knoll.</p>",
         "E": "<p>Steven Soderbergh.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 11
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598212,
@@ -188,8 +177,7 @@
         "D": "<p>Steenbeck.</p>",
         "E": "<p>Final Cut.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 12
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598216,
@@ -204,8 +192,7 @@
         "D": "<p>Adobe Creative Cloud.</p>",
         "E": "<p>Adobe Media Encoder.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598218,
@@ -220,8 +207,7 @@
         "D": "<p>Export (dışa aktarım).</p>",
         "E": "<p>Preview (önizleme).</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 14
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598221,
@@ -236,8 +222,7 @@
         "D": "<p>MPEG.</p>",
         "E": "<p>DIVX.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 15
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598225,
@@ -252,8 +237,7 @@
         "D": "<p>Proje paneli.</p>",
         "E": "<p>Proje bölümü.</p>",
         "CorrectAnswer": "B",
-        "UserAnswer": null,
-        "QuestionNumber": 16
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598229,
@@ -268,8 +252,7 @@
         "D": "<p>Maximum render quality.</p>",
         "E": "<p>Editing mode.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 17
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598234,
@@ -284,8 +267,7 @@
         "D": "<p>Codec.</p>",
         "E": "<p>Maximum render quality.</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 18
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598235,
@@ -300,8 +282,7 @@
         "D": "<p>Scale to fit.</p>",
         "E": "<p>Render at maximum depth.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 19
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598236,
@@ -316,8 +297,7 @@
         "D": "<p>HEVC.</p>",
         "E": "<p>MPEG.</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 20
+        "UserAnswer": null
     },
     {
         "QuestionId": 3598214,
@@ -332,7 +312,6 @@
         "D": "<p>EditDroid.</p>",
         "E": "<p>Avid.</p>",
         "CorrectAnswer": "E",
-        "UserAnswer": null,
-        "QuestionNumber": 13
+        "UserAnswer": null
     }
 ]

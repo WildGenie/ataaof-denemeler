@@ -12,8 +12,7 @@
         "D": "<p>form</p>",
         "E": "<p>fonksiyon </p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 1
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862639,
@@ -28,8 +27,7 @@
         "D": "<p>İşaretleme</p>",
         "E": "<p>Markalama</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 2
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862640,
@@ -44,8 +42,7 @@
         "D": "<p>Digital baskı</p>",
         "E": "<p>Ambalaj tasarımı</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 3
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862641,
@@ -60,8 +57,7 @@
         "D": "<p>Ürün hakkında net ve alakalı bilgi sunma</p>",
         "E": "<p>Raflardayken etkili bir şekilde gözü etkileme</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 4
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862642,
@@ -76,8 +72,7 @@
         "D": "<p>Matbaacılar</p>",
         "E": "<p>İşi isteyenler</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 5
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862643,
@@ -92,8 +87,7 @@
         "D": "<p>II/IV</p>",
         "E": "<p>I/IV</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 6
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862698,
@@ -108,8 +102,7 @@
         "D": "<p>4</p>",
         "E": "<p>5</p>",
         "CorrectAnswer": "C",
-        "UserAnswer": null,
-        "QuestionNumber": 7
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862700,
@@ -124,8 +117,7 @@
         "D": "<p>beşinci seviye ambalajlar</p>",
         "E": "<p>dördüncü seviye ambalajlar</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 8
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862701,
@@ -140,8 +132,7 @@
         "D": "<p>I/IV/V/VI/VII/VIII/IX/X/XII/XIII</p>",
         "E": "<p>I/II/III/IV/VII/X/XI/XII/XIII</p>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 9
+        "UserAnswer": null
     },
     {
         "QuestionId": 3862703,
@@ -156,7 +147,6 @@
         "D": "<div class=\"page\" title=\"Page 12\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Süreklilik</p> </div> </div> </div> </div>",
         "E": "<div class=\"page\" title=\"Page 12\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <p>Simetri</p> </div> </div> </div> </div>",
         "CorrectAnswer": "A",
-        "UserAnswer": null,
-        "QuestionNumber": 10
+        "UserAnswer": null
     }
 ]
