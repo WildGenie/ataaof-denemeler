@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeni Medya Sanatı (Giriş)<br><strong>Generatif sanat</strong> içeriği üretmek kadar içeriği üreten sistemleri keşfetmeyi de kapsar."
+        "Aciklama": "Yeni Medya Sanatı (Giriş)<br/><strong>Generatif sanat</strong> içeriği üretmek kadar içeriği üreten sistemleri keşfetmeyi de kapsar."
     },
     {
         "SoruID": 3641593,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Generatif Sanat<br><span style=\"font-size: 12pt;\"><strong>C-art (Bilgisayar sanatı): </strong><span style=\"font-family: Adobe Garamond Pro,Adobe Garamond Pro;\">Bilgisayarları sanatsal üretim sürecinin bir parçası olarak kullanır. </span></span><br/><span style=\"font-size: 12pt;\"><span style=\"font-family: Adobe Garamond Pro,Adobe Garamond Pro;\">. </span></span>"
+        "Aciklama": "Generatif Sanat<br/><span style=\"font-size: 12pt;\"><strong>C-art (Bilgisayar sanatı): </strong><span style=\"font-family: Adobe Garamond Pro,Adobe Garamond Pro;\">Bilgisayarları sanatsal üretim sürecinin bir parçası olarak kullanır. </span></span><br/><span style=\"font-size: 12pt;\"><span style=\"font-family: Adobe Garamond Pro,Adobe Garamond Pro;\">. </span></span>"
     },
     {
         "SoruID": 3641597,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Generatif Sanat<br><span style=\"font-family: arial,helvetica,sans-serif; font-size: 12pt;\"><strong>CI-art (Bilgisayar temelli interaktif sanat): </strong>Bilgisayar temelli sanat eserinin içeriği ve formu, önemli ölçüde izleyicinin davranışları ve hareketleri ile şekillenir. </span>"
+        "Aciklama": "Generatif Sanat<br/><span style=\"font-family: arial,helvetica,sans-serif; font-size: 12pt;\"><strong>CI-art (Bilgisayar temelli interaktif sanat): </strong>Bilgisayar temelli sanat eserinin içeriği ve formu, önemli ölçüde izleyicinin davranışları ve hareketleri ile şekillenir. </span>"
     },
     {
         "SoruID": 3641598,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>GENERATİF SANATIN TARİHÇESİ<br><br/>Algoritmalar doğanın bir parçasıdır ve evrenseldir, generatif sanat üreten sistemler zaman içinde teknoloji ile birlikte evrim geçirseler de <strong>algoritmalar</strong> aynı kalır."
+        "Aciklama": "<br/>GENERATİF SANATIN TARİHÇESİ<br/><br/>Algoritmalar doğanın bir parçasıdır ve evrenseldir, generatif sanat üreten sistemler zaman içinde teknoloji ile birlikte evrim geçirseler de <strong>algoritmalar</strong> aynı kalır."
     },
     {
         "SoruID": 3641599,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>GENERATİF SANATIN TARİHÇESİ<br>Bilgisayar programcılığında algoritmalar genellikle <strong>sözde kod</strong> (pseudocode) ile ifade edilir."
+        "Aciklama": "<br/>GENERATİF SANATIN TARİHÇESİ<br/>Bilgisayar programcılığında algoritmalar genellikle <strong>sözde kod</strong> (pseudocode) ile ifade edilir."
     },
     {
         "SoruID": 3641600,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>GENERATİF SANATIN TARİHÇESİ<br>1805 yılında <strong>Jacquard’ın</strong> bir programı delikli kartlara kaydetme fikri, generatif dokuma sanatında bir devrim yarattı."
+        "Aciklama": "<br/>GENERATİF SANATIN TARİHÇESİ<br/>1805 yılında <strong>Jacquard’ın</strong> bir programı delikli kartlara kaydetme fikri, generatif dokuma sanatında bir devrim yarattı."
     },
     {
         "SoruID": 3641601,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Örnekler<br><span style=\"font-size: medium;\"><strong>The Painting Fool: </strong></span><span style=\"font-family: Adobe Garamond Pro,Adobe Garamond Pro; font-size: medium;\">The Painting Fool, 2001 yılında Simon Colton ve meslektaşları tarafından geliştirilen bir bilgisayar programı, yapay bir sanatçıdır. Bu yazılım eserlerini sayısal olarak üretir ve farklı stillerde boyayabilir.</span>"
+        "Aciklama": "Örnekler<br/><span style=\"font-size: medium;\"><strong>The Painting Fool: </strong></span><span style=\"font-family: Adobe Garamond Pro,Adobe Garamond Pro; font-size: medium;\">The Painting Fool, 2001 yılında Simon Colton ve meslektaşları tarafından geliştirilen bir bilgisayar programı, yapay bir sanatçıdır. Bu yazılım eserlerini sayısal olarak üretir ve farklı stillerde boyayabilir.</span>"
     },
     {
         "SoruID": 3641605,

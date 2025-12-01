@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 173226,
-        "SoruMetni": "<strong>Sürekli ışık kaynakları içinde LED ışıkların halojen lambalı ışıklara olan üstünlüğü aşağıdakilerin hangisinde doğru olarak verilmiştir?</strong><br/></br>",
+        "SoruMetni": "<strong>Sürekli ışık kaynakları içinde LED ışıkların halojen lambalı ışıklara olan üstünlüğü aşağıdakilerin hangisinde doğru olarak verilmiştir?</strong>",
         "A": "1200 kelvin ışık verir.",
         "B": "Çok yüksek aydınlatma gücüne sahiptir.",
         "C": "Çoğunlukla sarı ışık verir.",
@@ -381,7 +381,7 @@
     },
     {
         "SoruID": 331767,
-        "SoruMetni": "I. Konuyu doğrudan aydınlatma<br/>II. Görüntü ögelerine vurgu yapma<br/>III. Özel efektler oluşturma<br/><strong>Yukarıdakilerden hangisi ya da hangileri fotoğraf çekimlerinde flaş kullanımının amaçları arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Konuyu doğrudan aydınlatma<br/>II. Görüntü ögelerine vurgu yapma<br/>III. Özel efektler oluşturma<br/><strong>Yukarıdakilerden hangisi ya da hangileri fotoğraf çekimlerinde flaş kullanımının amaçları arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -401,7 +401,7 @@
     },
     {
         "SoruID": 331770,
-        "SoruMetni": "Bütün flaşların bir çakma (ışık gücü) indeksi vardır. Bu, paraflaşlarda .......... olarak ifade edilirken çok kullanılan güncel tepe flaşlarında kılavuz numarası “EV”<br/>(Exposure Value) yani “Pozlandırma Değeri” ile ifade edilir.<br/><strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "Bütün flaşların bir çakma (ışık gücü) indeksi vardır. Bu, paraflaşlarda .......... olarak ifade edilirken çok kullanılan güncel tepe flaşlarında kılavuz numarası “EV”<br/>(Exposure Value) yani “Pozlandırma Değeri” ile ifade edilir.<br/><strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Derece",
         "B": "Volt",
         "C": "Watt",

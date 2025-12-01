@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 116461,
-        "SoruMetni": "I. Farklı piksel derinliklerine sahip çoklu bitmap görüntülerinin depolanması sayesinde, görüntü depolama ihtiyaçları için avantaj sağlar.<br/>II. Sıkıştırmadan kaynaklı çeşitli sorunları içermediğinden dolayı tercih edilen bir format biçimidir.<br/>III. Görsel ürünlerin kullanıldığı alanlarda standart geçerlilikte bir yapı olup hem PC hem de Macintosh gibi farklı platformlarda çalışabilir.<br/>IV. Kaydedilen fotoğrafın depolama boyutunu on katına kadar çıkarması dezavantajı olarak görülür.<br/><strong>TIFF kayıt formatı ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong></br></br></br>",
+        "SoruMetni": "I. Farklı piksel derinliklerine sahip çoklu bitmap görüntülerinin depolanması sayesinde, görüntü depolama ihtiyaçları için avantaj sağlar.<br/>II. Sıkıştırmadan kaynaklı çeşitli sorunları içermediğinden dolayı tercih edilen bir format biçimidir.<br/>III. Görsel ürünlerin kullanıldığı alanlarda standart geçerlilikte bir yapı olup hem PC hem de Macintosh gibi farklı platformlarda çalışabilir.<br/>IV. Kaydedilen fotoğrafın depolama boyutunu on katına kadar çıkarması dezavantajı olarak görülür.<br/><strong>TIFF kayıt formatı ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>",
         "A": "Yalnız I",
         "B": "I ve III",
         "C": "I, II ve III",
@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 116533,
-        "SoruMetni": "I. Bu ölçüm yönteminde spot metreler görüntünün çok küçük yüzeyinden yansıyan ışığı ölçerek fotoğrafı çeker.<br/>II. Kadrajın yaklaşık yüzde 1–5’lik bir kısmından ölçüm yapılır.<br/>III. Genelde çok yüksek kontrastlı sahnelerin çekiminde kullanışlıdır.<br/>IV. Daha çok makro çekimler ve dramatik bir vurgu yapılmak istenen durumlarda kullanılmaktadır.<br/><strong>Yukarıda özellikleri verilen ölçüm yöntemi hangisidir?</strong></br></br></br>",
+        "SoruMetni": "I. Bu ölçüm yönteminde spot metreler görüntünün çok küçük yüzeyinden yansıyan ışığı ölçerek fotoğrafı çeker.<br/>II. Kadrajın yaklaşık yüzde 1–5’lik bir kısmından ölçüm yapılır.<br/>III. Genelde çok yüksek kontrastlı sahnelerin çekiminde kullanışlıdır.<br/>IV. Daha çok makro çekimler ve dramatik bir vurgu yapılmak istenen durumlarda kullanılmaktadır.<br/><strong>Yukarıda özellikleri verilen ölçüm yöntemi hangisidir?</strong>",
         "A": "Noktasal Ölçüm Yöntemi",
         "B": "Kısmi Ölçüm Yöntemi",
         "C": "Genel Ölçüm Yöntemi",
@@ -501,7 +501,7 @@
     },
     {
         "SoruID": 334685,
-        "SoruMetni": "I. Birçok makinede poz telafisi için perde hızını değiştiren bir çekim modudur.<br/>II. Bazı makinelerde farklılıklar gösterebilmektedir.<br/>III. Her makinenin kendi kullanım kılavuzunda bu özelliğin nasıl kullanılacağına dair bilgilere bakmak faydalı olacaktır .<br/>IV. Genellikle fotoğrafa yeni başlayanların tercih edeceği bir çekim modudur.<br/><strong>Yukarıda özellikleri sıralanan çekim modu hangisidir?</strong></br></br></br>",
+        "SoruMetni": "I. Birçok makinede poz telafisi için perde hızını değiştiren bir çekim modudur.<br/>II. Bazı makinelerde farklılıklar gösterebilmektedir.<br/>III. Her makinenin kendi kullanım kılavuzunda bu özelliğin nasıl kullanılacağına dair bilgilere bakmak faydalı olacaktır .<br/>IV. Genellikle fotoğrafa yeni başlayanların tercih edeceği bir çekim modudur.<br/><strong>Yukarıda özellikleri sıralanan çekim modu hangisidir?</strong>",
         "A": "Enstantane öncelikli mod",
         "B": "Diyafram öncelikli mod",
         "C": "Manuel mod",

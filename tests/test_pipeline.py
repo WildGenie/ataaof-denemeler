@@ -11,7 +11,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from libs.pipeline import QuestionPipeline
 
 class TestPipelineImplementation(QuestionPipeline):
-    def fetch_raw_questions(self, course, unit):
+    def fetch_raw_questions(self, course, unit, silent=False):
         return [{"SoruID": 1, "SoruMetni": "Raw Question"}]
 
 class TestPipeline(unittest.TestCase):

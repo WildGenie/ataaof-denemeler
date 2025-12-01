@@ -1857,7 +1857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>Cümle, öznesi belli olan etken çatılı bir cümledir."
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>Cümle, öznesi belli olan etken çatılı bir cümledir."
     },
     {
         "SoruID": 3892446,
@@ -1957,7 +1957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>\"Babamın emekliliği\" \"kardeşimin notları\", \"arkadaşımın ablası\" isim tamlaması<br/>\"iyi bir yaşam\",sıfat tamlaması \"yarınki sanat konferansı\" aitlik öbeği var. <br/>E seçeneğinde sözcük öbeği yoktur."
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>\"Babamın emekliliği\" \"kardeşimin notları\", \"arkadaşımın ablası\" isim tamlaması<br/>\"iyi bir yaşam\",sıfat tamlaması \"yarınki sanat konferansı\" aitlik öbeği var. <br/>E seçeneğinde sözcük öbeği yoktur."
     },
     {
         "SoruID": 3892451,
@@ -1997,7 +1997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>satın almak, terk etmek, yardım etmek, kayıp olmak=kaybolmak birleşik eylemleri bir isim ve bir fiilden olumuştur ancak C seçeneğindeki öğren-e-bilmek kurallı birleşik fiili iki fiilden oluşmuştur."
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>satın almak, terk etmek, yardım etmek, kayıp olmak=kaybolmak birleşik eylemleri bir isim ve bir fiilden olumuştur ancak C seçeneğindeki öğren-e-bilmek kurallı birleşik fiili iki fiilden oluşmuştur."
     },
     {
         "SoruID": 3892453,
@@ -2117,7 +2117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>Ad tamlamaları cümlede ad, sıfat ve zarf görevlerinde, cümlenin her ögesi olarak bulunabilirler. Belirtili, belirtisiz ve takısız ad tamlaması olmak üzere üç türü vardır."
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>Ad tamlamaları cümlede ad, sıfat ve zarf görevlerinde, cümlenin her ögesi olarak bulunabilirler. Belirtili, belirtisiz ve takısız ad tamlaması olmak üzere üç türü vardır."
     },
     {
         "SoruID": 3892459,
@@ -2137,7 +2137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>Belirtili ad tamlaması\r<br/>Belirtisiz ad tamlaması\r<br/>Takısız ad tamlaması\r<br/>Aitlik öbeği\r<br/>Ünlü öbeği"
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>Belirtili ad tamlaması\r<br/>Belirtisiz ad tamlaması\r<br/>Takısız ad tamlaması\r<br/>Aitlik öbeği\r<br/>Ünlü öbeği"
     },
     {
         "SoruID": 3892460,
@@ -2157,7 +2157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>Cevap: Sıfat Tamlaması\r<br/>Adı nitelemek ve/ya belirtmek amacıyla oluşan sözcük öbeğidir. Sıfat tamlamasının olu- şumunda birden fazla sıfat bir adı niteleyebilir ya da belirtebilir. Tamlayan (sıfat) da tam- lanan (ad) da bir sözcük öbeği olabilir. Sıfat tamlamaları cümlede ad, sıfat ve zarf görev- lerinde bulunabilir.\r<br/>Örnek: Mavi deniz, sıcak güneş ve dost sohbeti... \r<br/>İşte tatil. Beyaz badanalı, kırmızı kiremitli evler yol boyunca dizilmişti. \r<br/>Kadın pazardan üç kilo elma aldı."
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>Cevap: Sıfat Tamlaması\r<br/>Adı nitelemek ve/ya belirtmek amacıyla oluşan sözcük öbeğidir. Sıfat tamlamasının olu- şumunda birden fazla sıfat bir adı niteleyebilir ya da belirtebilir. Tamlayan (sıfat) da tam- lanan (ad) da bir sözcük öbeği olabilir. Sıfat tamlamaları cümlede ad, sıfat ve zarf görev- lerinde bulunabilir.\r<br/>Örnek: Mavi deniz, sıcak güneş ve dost sohbeti... \r<br/>İşte tatil. Beyaz badanalı, kırmızı kiremitli evler yol boyunca dizilmişti. \r<br/>Kadın pazardan üç kilo elma aldı."
     },
     {
         "SoruID": 3892461,
@@ -2177,7 +2177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümle türlerini ayırt edebileceksiniz.<br>Şartlı birleşik cümle, iç içe birleşik cümle ve ki’li birleşik cümle."
+        "Aciklama": "Cümle türlerini ayırt edebileceksiniz.<br/>Şartlı birleşik cümle, iç içe birleşik cümle ve ki’li birleşik cümle."
     },
     {
         "SoruID": 3892462,
@@ -2197,7 +2197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümle türlerini ayırt edebileceksiniz.<br>Türkçede söz varlığı adlar ve eylemler olarak iki temel grupta toplanır. Türkçe söz dizi- minde de yüklem, bu iki türden biri ile oluşur. Bir cümlenin yüklemi çekimli bir eylem ya da ek-eylem almış ad türünden bir sözcüktür. Buna göre Türkçede cümleler yüklemin türüne göre eylem cümlesi ve ad cümlesi olarak ikiye ayrılır."
+        "Aciklama": "Cümle türlerini ayırt edebileceksiniz.<br/>Türkçede söz varlığı adlar ve eylemler olarak iki temel grupta toplanır. Türkçe söz dizi- minde de yüklem, bu iki türden biri ile oluşur. Bir cümlenin yüklemi çekimli bir eylem ya da ek-eylem almış ad türünden bir sözcüktür. Buna göre Türkçede cümleler yüklemin türüne göre eylem cümlesi ve ad cümlesi olarak ikiye ayrılır."
     },
     {
         "SoruID": 3892463,
@@ -2217,7 +2217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>Kişi adı ve onu izleyen bir unvan veya akrabalık adından oluşan sözcük öbeğidir."
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>Kişi adı ve onu izleyen bir unvan veya akrabalık adından oluşan sözcük öbeğidir."
     },
     {
         "SoruID": 3892464,
@@ -2237,7 +2237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>Tekrar Öbeği (İkilemeler) Aynı, yakın ya da karşıt anlamlı iki sözcüğün; anlamı güçlendirmek, çokluk veya abartı bildirmek, süreklilik belirtmek, ortalama veya yaklaşıklık ifadesi kazandırma amacıyla bir tek sözcük gibi işlev görmek üzere oluşan sözcük öbeğidir. Cümlede ad, sıfat, zarf ve eylem görevinde kullanılırlar.<br/>B seçeneğinde hem sen hem ben anlamımda kullanılmıştır. İkileme değildir."
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>Tekrar Öbeği (İkilemeler) Aynı, yakın ya da karşıt anlamlı iki sözcüğün; anlamı güçlendirmek, çokluk veya abartı bildirmek, süreklilik belirtmek, ortalama veya yaklaşıklık ifadesi kazandırma amacıyla bir tek sözcük gibi işlev görmek üzere oluşan sözcük öbeğidir. Cümlede ad, sıfat, zarf ve eylem görevinde kullanılırlar.<br/>B seçeneğinde hem sen hem ben anlamımda kullanılmıştır. İkileme değildir."
     },
     {
         "SoruID": 3892465,
@@ -2257,7 +2257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümle türlerini ayırt edebileceksiniz.<br>Yüklemi olumsuz yargı bildiren, yani yargının gerçekleşmediğini bildiren, eylem cümlesiyse olumsuzluk eki (-mA, -mAz); ad cümlesiyse “değil ve yok” sözcüklerinden biri ile kurulan cümleye olumsuz cümle denir."
+        "Aciklama": "Cümle türlerini ayırt edebileceksiniz.<br/>Yüklemi olumsuz yargı bildiren, yani yargının gerçekleşmediğini bildiren, eylem cümlesiyse olumsuzluk eki (-mA, -mAz); ad cümlesiyse “değil ve yok” sözcüklerinden biri ile kurulan cümleye olumsuz cümle denir."
     },
     {
         "SoruID": 3892466,
@@ -2277,7 +2277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>Yalnızca C seçeneğindeki tamlama belirtili ad tamlamasıdır."
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>Yalnızca C seçeneğindeki tamlama belirtili ad tamlamasıdır."
     },
     {
         "SoruID": 3892467,
@@ -2297,7 +2297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br>\"aceleyle\" zarf tümleci, \"evden\" dolaylı tümleçtir ve bu yüzden doğru cevap C seçeneğidir."
+        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br/>\"aceleyle\" zarf tümleci, \"evden\" dolaylı tümleçtir ve bu yüzden doğru cevap C seçeneğidir."
     },
     {
         "SoruID": 3892468,
@@ -2317,7 +2317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br>Cümle anlamca olumsuzdur, o halde doğru cevap D'dir."
+        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br/>Cümle anlamca olumsuzdur, o halde doğru cevap D'dir."
     },
     {
         "SoruID": 3892469,
@@ -2337,7 +2337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümle türlerini ayırt edebileceksiniz.<br>Yalnızca E seçeneğindeki sözcükler, ünlem cümlesinde kullanılabilseler bile, edat değillerdir. Doğru cevap E'dir."
+        "Aciklama": "Cümle türlerini ayırt edebileceksiniz.<br/>Yalnızca E seçeneğindeki sözcükler, ünlem cümlesinde kullanılabilseler bile, edat değillerdir. Doğru cevap E'dir."
     },
     {
         "SoruID": 3892470,
@@ -2357,7 +2357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>Sözcük yer değiştirirse sıfat tamlaması olmaz ad cümlesi olur"
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>Sözcük yer değiştirirse sıfat tamlaması olmaz ad cümlesi olur"
     },
     {
         "SoruID": 3892471,
@@ -2377,7 +2377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>diğer seçeneklerdeki için, rağmen, ile, gibi sözcükler edat öebeğiyken B seçeneğinde edat yoktur"
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>diğer seçeneklerdeki için, rağmen, ile, gibi sözcükler edat öebeğiyken B seçeneğinde edat yoktur"
     },
     {
         "SoruID": 3892472,
@@ -2397,7 +2397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br>E seçeneğindeki kimden soru sözcüğü dolaylı tümlec buldurmaya yöneliktir"
+        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br/>E seçeneğindeki kimden soru sözcüğü dolaylı tümlec buldurmaya yöneliktir"
     },
     {
         "SoruID": 3892473,
@@ -2417,7 +2417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>Doğru cevap c şıkkıdır."
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>Doğru cevap c şıkkıdır."
     },
     {
         "SoruID": 3892474,
@@ -2437,7 +2437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>Doğru cevap b şıkkıdır. \"Birinci sınıf\" sıfat tamlamasıdır. \"birinci\" belirtme sıfatlarından sıra sayı sıfatıdır."
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>Doğru cevap b şıkkıdır. \"Birinci sınıf\" sıfat tamlamasıdır. \"birinci\" belirtme sıfatlarından sıra sayı sıfatıdır."
     },
     {
         "SoruID": 3892475,
@@ -2457,7 +2457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>Doğru cevap e şıkkıdır"
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>Doğru cevap e şıkkıdır"
     },
     {
         "SoruID": 3892476,
@@ -2477,7 +2477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br>Doğru cevap b şıkkıdır"
+        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br/>Doğru cevap b şıkkıdır"
     },
     {
         "SoruID": 3892477,
@@ -2497,7 +2497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br>Doğru cevap c şıkkıdır"
+        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br/>Doğru cevap c şıkkıdır"
     },
     {
         "SoruID": 3892478,
@@ -2517,7 +2517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br>Doğru cevap a şıkkıdır"
+        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br/>Doğru cevap a şıkkıdır"
     },
     {
         "SoruID": 3892479,
@@ -2537,7 +2537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>Bir dildeki sözcüklerin, sözcük öbeklerinin cümle ve söz içindekii görevlerinii, birbirleriyle olan ilişkilerinii, sıralanışlarını ve cümle türleriinii ele alıp iinceleyen bilim dalına cümle bilgisii ya da söz dizimii denir. Doğru cevap D şıkkıdır."
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>Bir dildeki sözcüklerin, sözcük öbeklerinin cümle ve söz içindekii görevlerinii, birbirleriyle olan ilişkilerinii, sıralanışlarını ve cümle türleriinii ele alıp iinceleyen bilim dalına cümle bilgisii ya da söz dizimii denir. Doğru cevap D şıkkıdır."
     },
     {
         "SoruID": 3892480,
@@ -2557,7 +2557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>Belirtisiz ad tamlamalarında tamlayan ve tamlanan arasında sürekliliik/belirtiisiizliik vardır. Sürekliliğin gereğii olarak tamlayan ve tamlanan arasında başka bir sözcük girmez. Örneğin; limon ağacı, badem şekeri, Porsuk nehrii vb. Doğru cevap E şıkkıdır."
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>Belirtisiz ad tamlamalarında tamlayan ve tamlanan arasında sürekliliik/belirtiisiizliik vardır. Sürekliliğin gereğii olarak tamlayan ve tamlanan arasında başka bir sözcük girmez. Örneğin; limon ağacı, badem şekeri, Porsuk nehrii vb. Doğru cevap E şıkkıdır."
     },
     {
         "SoruID": 3892481,
@@ -2577,7 +2577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>Doğru cevap B şıkkıdır"
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>Doğru cevap B şıkkıdır"
     },
     {
         "SoruID": 3892482,
@@ -2597,7 +2597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br>Yeryüzündeki\u001d bütün d\u001dillerde cümlen\u001din temel ögeleri\u001d yüklem ve öznedir (Eker, 2006). Doğru cevap A şıkkıdır"
+        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br/>Yeryüzündeki\u001d bütün d\u001dillerde cümlen\u001din temel ögeleri\u001d yüklem ve öznedir (Eker, 2006). Doğru cevap A şıkkıdır"
     },
     {
         "SoruID": 3892483,
@@ -2617,7 +2617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br>Cümleniin öznesi “benim dedem” iyelik ekii almış bir sözcük öbeğiidiir. Doğru cevap D şıkkıdır."
+        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br/>Cümleniin öznesi “benim dedem” iyelik ekii almış bir sözcük öbeğiidiir. Doğru cevap D şıkkıdır."
     },
     {
         "SoruID": 3892484,
@@ -2637,7 +2637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br>Bu cümlede \"Mozart\" sözcügü beliirli biir kiişiyii iifade etmesine karşın cümlede beliirtme durum ekii olmadan kullanılmıştır. Bi\u001dr türü karşılayan ve yükleme hali\u001d eki\u001d almayan nesneler \u001dbelirtisiz nesne olarak adlandırılır. Doğru cevap C şıkkıdır"
+        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br/>Bu cümlede \"Mozart\" sözcügü beliirli biir kiişiyii iifade etmesine karşın cümlede beliirtme durum ekii olmadan kullanılmıştır. Bi\u001dr türü karşılayan ve yükleme hali\u001d eki\u001d almayan nesneler \u001dbelirtisiz nesne olarak adlandırılır. Doğru cevap C şıkkıdır"
     },
     {
         "SoruID": 3892485,
@@ -2657,7 +2657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br>Cümlede sözcük öbeklerinden bağlama öbeği\u001d, kısaltma öbeği\u001d, tekrar öbeği\u001d, ad ve sıfat tamlamaları, zarf-fiil öbeği\u001d, edat öbeği\u001d zarf görev\u001dinde olabilir. Doğru cevap E şıkkıdır."
+        "Aciklama": "Cümlenin temel ve tamamlayıcı ögelerini belirleyebileceksiniz.<br/>Cümlede sözcük öbeklerinden bağlama öbeği\u001d, kısaltma öbeği\u001d, tekrar öbeği\u001d, ad ve sıfat tamlamaları, zarf-fiil öbeği\u001d, edat öbeği\u001d zarf görev\u001dinde olabilir. Doğru cevap E şıkkıdır."
     },
     {
         "SoruID": 3892486,
@@ -2677,7 +2677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>'Anadolu' ve 'üniversite' sözcüklerinin her ikisi de addır. Bu nedenle verilen sözcük öbeği ad tamlamasıdır ve sözcüklerden sadece bir tanesi ek almıştır. Bu özellikleri nedeniyle 'Anadolu Ünivesitesi' sözcük öbeği belirtisiz ad tamlamasıdır. Doğru yanıt B seçeneğidir."
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>'Anadolu' ve 'üniversite' sözcüklerinin her ikisi de addır. Bu nedenle verilen sözcük öbeği ad tamlamasıdır ve sözcüklerden sadece bir tanesi ek almıştır. Bu özellikleri nedeniyle 'Anadolu Ünivesitesi' sözcük öbeği belirtisiz ad tamlamasıdır. Doğru yanıt B seçeneğidir."
     },
     {
         "SoruID": 3892487,
@@ -2697,7 +2697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>'Kapının' ve 'kolu ' sözcüklerinin her ikisi de addır. Bu nedenle verilen sözcük öbeği ‘ad tamlamasıdır’ ve sözcüklerin her ikisi de ek almıştır. Bu özellikleri nedeniyle ‘kapının kolu' sözcük öbeği belirtili ad tamlamasıdır. Doğru yanıt C seçeneğidir."
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>'Kapının' ve 'kolu ' sözcüklerinin her ikisi de addır. Bu nedenle verilen sözcük öbeği ‘ad tamlamasıdır’ ve sözcüklerin her ikisi de ek almıştır. Bu özellikleri nedeniyle ‘kapının kolu' sözcük öbeği belirtili ad tamlamasıdır. Doğru yanıt C seçeneğidir."
     },
     {
         "SoruID": 3892488,
@@ -2717,7 +2717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>Verilen örnekte ilk ad ‘-ki’ eki almıştır. Aitlik öbeğine örnek olarak verilmiştir. Doğru yanıt E seçeneğidir."
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>Verilen örnekte ilk ad ‘-ki’ eki almıştır. Aitlik öbeğine örnek olarak verilmiştir. Doğru yanıt E seçeneğidir."
     },
     {
         "SoruID": 3892489,
@@ -2737,7 +2737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br>Altı çizilen ifadede ’şişman’ sıfat, ‘adam’ ise addır ve sıfat tamlamasıdır. Doğru yanıt A seçeneğidir."
+        "Aciklama": "Sözcük öbeklerini ayırt edebileceksiniz.<br/>Altı çizilen ifadede ’şişman’ sıfat, ‘adam’ ise addır ve sıfat tamlamasıdır. Doğru yanıt A seçeneğidir."
     },
     {
         "SoruID": 3892490,
@@ -2757,7 +2757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümle türlerini ayırt edebileceksiniz.<br>Cümle tek yargı bildirdiği ve tek yükleme sahip olduğu için basit cümledir. Doğru seçenek E’dir."
+        "Aciklama": "Cümle türlerini ayırt edebileceksiniz.<br/>Cümle tek yargı bildirdiği ve tek yükleme sahip olduğu için basit cümledir. Doğru seçenek E’dir."
     },
     {
         "SoruID": 3892491,
@@ -2777,7 +2777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümle türlerini ayırt edebileceksiniz.<br>Soruda verilen ifade birleşik cümlenin özelliklerini belirtmektedir. Doğru yanıt D seçeneğidir."
+        "Aciklama": "Cümle türlerini ayırt edebileceksiniz.<br/>Soruda verilen ifade birleşik cümlenin özelliklerini belirtmektedir. Doğru yanıt D seçeneğidir."
     },
     {
         "SoruID": 3892492,
@@ -2797,7 +2797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümle türlerini ayırt edebileceksiniz.<br>Kurallı cümlelerde yüklem cümlenin sonunda olmalıdır. Bu Türkçe söz diziminin en temel kuralıdır. Yüklemi sonda bulunmayan cümlelere Devrik Cümle denmektedir. Doğru yanıt C seçeneğidir."
+        "Aciklama": "Cümle türlerini ayırt edebileceksiniz.<br/>Kurallı cümlelerde yüklem cümlenin sonunda olmalıdır. Bu Türkçe söz diziminin en temel kuralıdır. Yüklemi sonda bulunmayan cümlelere Devrik Cümle denmektedir. Doğru yanıt C seçeneğidir."
     },
     {
         "SoruID": 3892493,
@@ -2817,7 +2817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümle türlerini ayırt edebileceksiniz.<br>Verilen cümle; sevinme, korku, heyecan, çoşku gibi duygular ifade edilmemekte veya seslenme, çağırma gibi anlam taşımadığı için ünlem cümlesi özelliklerini taşımamaktadır. Ayrıca olumlu, kurallı ve basit bir cümledir. Ancak soruda anlamına göre hangi tür cümle olduğu sorulmaktadır. Bu nedenle doğru yanıt B seçeneğidir."
+        "Aciklama": "Cümle türlerini ayırt edebileceksiniz.<br/>Verilen cümle; sevinme, korku, heyecan, çoşku gibi duygular ifade edilmemekte veya seslenme, çağırma gibi anlam taşımadığı için ünlem cümlesi özelliklerini taşımamaktadır. Ayrıca olumlu, kurallı ve basit bir cümledir. Ancak soruda anlamına göre hangi tür cümle olduğu sorulmaktadır. Bu nedenle doğru yanıt B seçeneğidir."
     },
     {
         "SoruID": 3892494,
@@ -4577,7 +4577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Birleşik cümle türlerinden biri olan ki’li Birleşik Cümle: Bir temel cümle ile temel cümleye ki bağlacı ile bağlanan bir<br/>yan cümleden oluşan birleşik cümledir. Bu yapıdaki cümlelerde temel cümle, yan<br/>cümleden önce yer alır. </br><br/>Bu cümlede de iki cümle ki ile birbirine bağlıdır."
+        "Aciklama": "<br/>Birleşik cümle türlerinden biri olan ki’li Birleşik Cümle: Bir temel cümle ile temel cümleye ki bağlacı ile bağlanan bir<br/>yan cümleden oluşan birleşik cümledir. Bu yapıdaki cümlelerde temel cümle, yan<br/>cümleden önce yer alır. <br/>Bu cümlede de iki cümle ki ile birbirine bağlıdır."
     },
     {
         "SoruID": 3892583,
@@ -4957,7 +4957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Giriş \" başlığı altında anlatılanları gözden geçiriniz<br>Amaç 1"
+        "Aciklama": "\"Giriş \" başlığı altında anlatılanları gözden geçiriniz<br/>Amaç 1"
     },
     {
         "SoruID": 3892604,
@@ -4977,7 +4977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Sözcük Öbekleri\" başlığı altındaki açıklamaları gözden geçiriniz.<br>Amaç 1"
+        "Aciklama": "\"Sözcük Öbekleri\" başlığı altındaki açıklamaları gözden geçiriniz.<br/>Amaç 1"
     },
     {
         "SoruID": 3892605,
@@ -4997,7 +4997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Sözcük öbekleri\" başlığı altındaki açıklamaları gözden geçiriniz.<br>C seçeneğindeki söz öbeği sıfat tamlaması iken diğer seçeneklerdeki söz öbekleri isim tamlamasıdır."
+        "Aciklama": "\"Sözcük öbekleri\" başlığı altındaki açıklamaları gözden geçiriniz.<br/>C seçeneğindeki söz öbeği sıfat tamlaması iken diğer seçeneklerdeki söz öbekleri isim tamlamasıdır."
     },
     {
         "SoruID": 3892606,
@@ -5017,7 +5017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Sözcük Öbekleri\" başlığı altındaki açıklamaları gözden geçiriniz.<br>Amaç 1<br/>E seçeneğindeki ‘görmeden geçip gitmek’ zarf-fiil öbeğidir.<br/>Ders kitabınızdaki <strong>Zarf-Fiil Öbeği </strong>başlığı altındaki bilgileri gözden geçiriniz."
+        "Aciklama": "\"Sözcük Öbekleri\" başlığı altındaki açıklamaları gözden geçiriniz.<br/>Amaç 1<br/>E seçeneğindeki ‘görmeden geçip gitmek’ zarf-fiil öbeğidir.<br/>Ders kitabınızdaki <strong>Zarf-Fiil Öbeği </strong>başlığı altındaki bilgileri gözden geçiriniz."
     },
     {
         "SoruID": 3892607,
@@ -5037,7 +5037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Cümlenin Ögeleri\" başlığı altındaki açıklamaları gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "\"Cümlenin Ögeleri\" başlığı altındaki açıklamaları gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3892608,
@@ -5057,7 +5057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Cümlenin Ögeleri\" başlığı altındaki açıklamaları gözden geçiriniz.<br>Amaç 2<br/>Kitabınızın 'Özne-Yüklem Uyumu' başlığı altındaki açıklamaları gözden geçirseniz aşağıdaki bilgileri edinebilirsiniz. (sayfa 136-137)<br/>Özneleri çoğul olsa da “var”, “yok”, “gerek”, “lazım” gibi sözcükler yüklem görevinde tekil olur.<br/>Örnek: En sevdiğim pastalar burada var. özne-çoğul yüklem-tekil<br/>Üçüncü tekil kişi anlatıma saygı katmak için kullanıldığında özne tekil olduğu hâlde yüklem üçüncü çoğul olabilir.<br/>Örnek: Müdür Bey acaba saat kaçta gelirler?"
+        "Aciklama": "\"Cümlenin Ögeleri\" başlığı altındaki açıklamaları gözden geçiriniz.<br/>Amaç 2<br/>Kitabınızın 'Özne-Yüklem Uyumu' başlığı altındaki açıklamaları gözden geçirseniz aşağıdaki bilgileri edinebilirsiniz. (sayfa 136-137)<br/>Özneleri çoğul olsa da “var”, “yok”, “gerek”, “lazım” gibi sözcükler yüklem görevinde tekil olur.<br/>Örnek: En sevdiğim pastalar burada var. özne-çoğul yüklem-tekil<br/>Üçüncü tekil kişi anlatıma saygı katmak için kullanıldığında özne tekil olduğu hâlde yüklem üçüncü çoğul olabilir.<br/>Örnek: Müdür Bey acaba saat kaçta gelirler?"
     },
     {
         "SoruID": 3892609,
@@ -5077,7 +5077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Cümlenin ögeleri\" başlığı altındaki açıklamaları gözden geçiriniz.<br>E seçeneğinde yükleme sorulan ne zaman \"yazdıktan sonra\" ve nasıl \"zarfa koyup\" sorularının cevapları vardır."
+        "Aciklama": "\"Cümlenin ögeleri\" başlığı altındaki açıklamaları gözden geçiriniz.<br/>E seçeneğinde yükleme sorulan ne zaman \"yazdıktan sonra\" ve nasıl \"zarfa koyup\" sorularının cevapları vardır."
     },
     {
         "SoruID": 3892610,
@@ -5097,7 +5097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Cümlenin Türleri\" başlığı altındaki açıklamaları gözden geçiriniz<br>A seçeneğinde cümlenin yüklemi fiil olduğu için yüklemine göre fiil cümlesidir, diğer seçeneklerde isimdir."
+        "Aciklama": "\"Cümlenin Türleri\" başlığı altındaki açıklamaları gözden geçiriniz<br/>A seçeneğinde cümlenin yüklemi fiil olduğu için yüklemine göre fiil cümlesidir, diğer seçeneklerde isimdir."
     },
     {
         "SoruID": 3893474,

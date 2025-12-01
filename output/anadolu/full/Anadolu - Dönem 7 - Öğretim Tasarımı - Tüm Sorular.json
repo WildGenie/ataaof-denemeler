@@ -342,7 +342,7 @@
     {
         "SoruID": 3863617,
         "SoruMetni": "Aşağıdakilerden hangisi diğerlerinden farklı bir başlıkta değerlendirilmelidir?",
-        "A": "Tamamen çevrimiçi bir dersin yürütülmesi<br data-end=\"266\" data-start=\"263\"/>",
+        "A": "Tamamen çevrimiçi bir dersin yürütülmesi",
         "B": "Tüm ders içeriklerinin yapay zekâ destekli bir platformda sunulması",
         "C": "Öğretmenin rolünün teknolojiye devredilmesi",
         "D": "Teknolojinin öğrencilerle doğrudan etkileşim kurarak ders işlemesi",
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu soru tipi ADDIE modelinin daha iyi kavranması bağlamında yararlı olabilir. Bu nedenle birkaç versiyonu hazırlanmıştır.<br>ADDIE modelinin ögeleri ve her ögede gerçekleştirilen işlemin özünü yansıtan ifadeleri şöyle sıralayabiliriz: <br/>Analiz - Tanımak<br/>Tasarım - Kararlar almak<br/>Geliştirme - Üretmek<br/>Uygulama - Sınamak<br/>Değerlendirme - İyileştirmek"
+        "Aciklama": "Bu soru tipi ADDIE modelinin daha iyi kavranması bağlamında yararlı olabilir. Bu nedenle birkaç versiyonu hazırlanmıştır.<br/>ADDIE modelinin ögeleri ve her ögede gerçekleştirilen işlemin özünü yansıtan ifadeleri şöyle sıralayabiliriz: <br/>Analiz - Tanımak<br/>Tasarım - Kararlar almak<br/>Geliştirme - Üretmek<br/>Uygulama - Sınamak<br/>Değerlendirme - İyileştirmek"
     },
     {
         "SoruID": 3940023,
@@ -721,7 +721,7 @@
     },
     {
         "SoruID": 3863622,
-        "SoruMetni": "Bir üniversitenin uzaktan eğitim birimi, yeni bir öğrenme yönetim sistemi (LMS) kurmuştur. Bu süreçte aşağıdaki adımlar uygulanmıştır:<br/><ol><br/><li>Platformun öğrenciye sunulması ve derslerin başlaması</li><br/><li>Öğrenci memnuniyeti anketlerinin yapılması</li><br/><li>Ulusal düzeydeki eğitim politikalarının ve dijitalleşme trendlerinin göz önünde bulundurulması</li><br/><li>Sistem tasarımı ve içerik üretimi için ekiplerin iş birliği içinde çalışması</li><br/><li>Öğrencilerin, öğretim elemanlarının, teknik alt yapının ve bütçenin belirlenip projeye tahsis edilmesi</li><br/></ol><br/>Aşağıdaki şıklardan hangisi her adımı doğru sistem öğesiyle eşleştirmektedir?</br>",
+        "SoruMetni": "Bir üniversitenin uzaktan eğitim birimi, yeni bir öğrenme yönetim sistemi (LMS) kurmuştur. Bu süreçte aşağıdaki adımlar uygulanmıştır:<br/><ol><br/><li>Platformun öğrenciye sunulması ve derslerin başlaması</li><br/><li>Öğrenci memnuniyeti anketlerinin yapılması</li><br/><li>Ulusal düzeydeki eğitim politikalarının ve dijitalleşme trendlerinin göz önünde bulundurulması</li><br/><li>Sistem tasarımı ve içerik üretimi için ekiplerin iş birliği içinde çalışması</li><br/><li>Öğrencilerin, öğretim elemanlarının, teknik alt yapının ve bütçenin belirlenip projeye tahsis edilmesi</li><br/></ol><br/>Aşağıdaki şıklardan hangisi her adımı doğru sistem öğesiyle eşleştirmektedir?",
         "A": "1 → Çıktı<br/>2 → Geri bildirim<br/>3 → Çevre<br/>4 → Süreç<br/>5 → Girdi",
         "B": "1 → Süreç<br/>2 → Çıktı<br/>3 → Geri bildirim<br/>4 → Çevre<br/>5 → Girdi",
         "C": "1 → Geri bildirim<br/>2 → Süreç<br/>3 → Çevre<br/>4 → Girdi<br/>5 → Çıktı",
@@ -737,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1 -Çıktı : Platformun öğrenciye sunulması ve derslerin başlaması<br/>Bu aşamada sistemin ürettiği ürün yani çıktı devreye girmektedir. Girdiler (öğrenci, altyapı vs.) işlenmiş, süreç tamamlanmış ve ortaya çıkan ürün — yani kullanılabilir bir LMS — öğrencilere sunulmuştur. Bu nedenle doğru eşleşme “çıktı”dır.<br/>2 -Geri bildirim: Öğrenci memnuniyeti anketlerinin yapılması<br/>Anketler, sistemin performansını ve öğrenci memnuniyetini ölçmek için yapılır. Bu da sistemin çıktısına dair geri bildirim toplanması anlamına gelir. Geri bildirim sayesinde sistemin işleyişi gözden geçirilip, gerekiyorsa iyileştirmeler yapılabilir. Bu nedenle burası net olarak “geri bildirim”dir.</br><br/>3 - Çevre: Ulusal düzeydeki eğitim politikalarının ve dijitalleşme trendlerinin dikkate alınması<br/>Bu unsurlar, sistemin dışında yer alır ama sistemin nasıl şekilleneceğini etkiler. Örneğin MEB politikaları ya da teknolojik dönüşüm baskıları, sistemin karar alma süreçlerini yönlendirir. Bu nedenle bu adım “çevre” öğesini temsil eder.</br><br/>4 - Süreç: Sistem tasarımı ve içerik üretimi için ekiplerin iş birliği içinde çalışması<br/>Bu aşama, sistemin girdilerinin işlenip yapılandırıldığı aşamadır. Yani kaynaklar (girdiler), burada bir süreçten geçirilir, bilgi ve teknoloji kullanılarak ürün haline getirilir. Bu işlem basamağı tam anlamıyla “süreç” unsurunu karşılar.</br><br/>5 - Girdi: Öğrencilerin, öğretim elemanlarının, teknik alt yapının ve bütçenin belirlenip projeye tahsis edilmesi<br/>Tüm bu kaynaklar sistemin çalışması için dışarıdan alınan, sisteme giren girdilerdir. Öğrenci, öğretim elemanı, finansal kaynak vb. sistemin başında yer alan temel bileşenlerdir. Dolayısıyla bu adım “girdi” olarak doğru eşleştirilmiştir.</br>"
+        "Aciklama": "1 -Çıktı : Platformun öğrenciye sunulması ve derslerin başlaması<br/>Bu aşamada sistemin ürettiği ürün yani çıktı devreye girmektedir. Girdiler (öğrenci, altyapı vs.) işlenmiş, süreç tamamlanmış ve ortaya çıkan ürün — yani kullanılabilir bir LMS — öğrencilere sunulmuştur. Bu nedenle doğru eşleşme “çıktı”dır.<br/>2 -Geri bildirim: Öğrenci memnuniyeti anketlerinin yapılması<br/>Anketler, sistemin performansını ve öğrenci memnuniyetini ölçmek için yapılır. Bu da sistemin çıktısına dair geri bildirim toplanması anlamına gelir. Geri bildirim sayesinde sistemin işleyişi gözden geçirilip, gerekiyorsa iyileştirmeler yapılabilir. Bu nedenle burası net olarak “geri bildirim”dir.<br/>3 - Çevre: Ulusal düzeydeki eğitim politikalarının ve dijitalleşme trendlerinin dikkate alınması<br/>Bu unsurlar, sistemin dışında yer alır ama sistemin nasıl şekilleneceğini etkiler. Örneğin MEB politikaları ya da teknolojik dönüşüm baskıları, sistemin karar alma süreçlerini yönlendirir. Bu nedenle bu adım “çevre” öğesini temsil eder.<br/>4 - Süreç: Sistem tasarımı ve içerik üretimi için ekiplerin iş birliği içinde çalışması<br/>Bu aşama, sistemin girdilerinin işlenip yapılandırıldığı aşamadır. Yani kaynaklar (girdiler), burada bir süreçten geçirilir, bilgi ve teknoloji kullanılarak ürün haline getirilir. Bu işlem basamağı tam anlamıyla “süreç” unsurunu karşılar.<br/>5 - Girdi: Öğrencilerin, öğretim elemanlarının, teknik alt yapının ve bütçenin belirlenip projeye tahsis edilmesi<br/>Tüm bu kaynaklar sistemin çalışması için dışarıdan alınan, sisteme giren girdilerdir. Öğrenci, öğretim elemanı, finansal kaynak vb. sistemin başında yer alan temel bileşenlerdir. Dolayısıyla bu adım “girdi” olarak doğru eşleştirilmiştir."
     },
     {
         "SoruID": 3863623,
@@ -757,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yarı açık sistemlerde:<br/><ul><br/><li><br/>Girdi, süreç ve çıktı vardır.<br/></li><br/><li><br/>Ama geri bildirim eksiktir → sistem gelişemez, hatalarını fark edemez.<br/></li><br/><li><br/>Bu da zamanla kalite düşüşü ve entropi (bozulma) yaratır.<br/></li><br/></ul><br/>Soru senaryosuna göre sistem işlemekte ama geri bildirim mekanizması çalışmamaktadır.<br><ul><br/><li>Kurum öğrenci alıyor : Girdi var</li><br/><li>Ders sunuyor : Süreç var</li><br/><li>Ancak:<br/><ul><br/><li>Geri bildirim yok (öğrenci memnuniyeti veya mezun takibi yapılmıyor)</li><br/><li>Bu durum kalitenin düşmesine neden oluyor</li><br/></ul><br/></li><br/></ul>"
+        "Aciklama": "Yarı açık sistemlerde:<br/><ul><br/><li><br/>Girdi, süreç ve çıktı vardır.<br/></li><br/><li><br/>Ama geri bildirim eksiktir → sistem gelişemez, hatalarını fark edemez.<br/></li><br/><li><br/>Bu da zamanla kalite düşüşü ve entropi (bozulma) yaratır.<br/></li><br/></ul><br/>Soru senaryosuna göre sistem işlemekte ama geri bildirim mekanizması çalışmamaktadır.<br/><ul><br/><li>Kurum öğrenci alıyor : Girdi var</li><br/><li>Ders sunuyor : Süreç var</li><br/><li>Ancak:<br/><ul><br/><li>Geri bildirim yok (öğrenci memnuniyeti veya mezun takibi yapılmıyor)</li><br/><li>Bu durum kalitenin düşmesine neden oluyor</li><br/></ul><br/></li><br/></ul>"
     },
     {
         "SoruID": 3863624,
@@ -777,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kurum çevresiyle etkileşim kurmamakta, geri bildirim almamakta ve kendini yenilememektedir.<br data-end=\"758\" data-start=\"755\"/> Bu yapı, dışa kapalı, durağan ve içe dönük sistem özellikleri taşır bu da kapalı sistem tanımıyla birebir örtüşür."
+        "Aciklama": "Kurum çevresiyle etkileşim kurmamakta, geri bildirim almamakta ve kendini yenilememektedir.<br/>Bu yapı, dışa kapalı, durağan ve içe dönük sistem özellikleri taşır bu da kapalı sistem tanımıyla birebir örtüşür."
     },
     {
         "SoruID": 3863625,
@@ -837,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<ul> <li> Kazançlar: Bütüncül planlama, kaynak yönetimi, öğretim materyallerinin yönetimi<br/></li> <li> Sınırlılıklar: Çevreyle ilişkilerin eksik tanımlanması, zaman ve kaynak gereksinimi<br data-end=\"1452\" data-start=\"1449\"/> Bu durum tam olarak şık B'de ifade edilmiştir.<br/></li> </ul>"
+        "Aciklama": "<ul> <li> Kazançlar: Bütüncül planlama, kaynak yönetimi, öğretim materyallerinin yönetimi<br/></li> <li> Sınırlılıklar: Çevreyle ilişkilerin eksik tanımlanması, zaman ve kaynak gereksinimi<br/>Bu durum tam olarak şık B'de ifade edilmiştir.<br/></li> </ul>"
     },
     {
         "SoruID": 3863628,
@@ -937,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Programın düzenlenmesi ve uygulanması<br/>Programın düzenlenmesi ve uygulanması (Öğretim tasarımı süreci)<br/>8. Öğretimsel amaçları belirle.<br/>9. Öğretimsel hedefleri belirle.<br/>10. Öğretim stratejilerini seç.<br/>11. Taslak ölçme ve değerlendirme tekniklerini belirle.<br/>12. Öğretim stratejilerini uygula.<br/>13. Ölçme ve değerlendirme tekniklerini seç.<br/>14. Öğretimi değerlendirme</br><br/>basamaklarından oluşmaktadır."
+        "Aciklama": "Programın düzenlenmesi ve uygulanması<br/>Programın düzenlenmesi ve uygulanması (Öğretim tasarımı süreci)<br/>8. Öğretimsel amaçları belirle.<br/>9. Öğretimsel hedefleri belirle.<br/>10. Öğretim stratejilerini seç.<br/>11. Taslak ölçme ve değerlendirme tekniklerini belirle.<br/>12. Öğretim stratejilerini uygula.<br/>13. Ölçme ve değerlendirme tekniklerini seç.<br/>14. Öğretimi değerlendirme<br/>basamaklarından oluşmaktadır."
     },
     {
         "SoruID": 3863370,
@@ -977,7 +977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kemp, Morrison ve Ross modeli ve ASSURE modeli esnek model sınıflamasında yer almakta, davranışçı ve bilişsel yaklaşımları benimsemektedir.<br>Kemp, Morrison ve Ross modeli - ASSURE modeli<br/>Kemp, Morrison ve Ross modeli, ASSURE modeli gibi esnek model sınıflamasında yer almakta, davranışçı ve bilişsel yaklaşımları benimsemektedir."
+        "Aciklama": "Kemp, Morrison ve Ross modeli ve ASSURE modeli esnek model sınıflamasında yer almakta, davranışçı ve bilişsel yaklaşımları benimsemektedir.<br/>Kemp, Morrison ve Ross modeli - ASSURE modeli<br/>Kemp, Morrison ve Ross modeli, ASSURE modeli gibi esnek model sınıflamasında yer almakta, davranışçı ve bilişsel yaklaşımları benimsemektedir."
     },
     {
         "SoruID": 3863372,
@@ -997,7 +997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dick, Carey ve Carey Modeli; öğrenme sürecinde öğretenin bir moderatör ve iletişimi başlatan kişi olduğu ve öğretim hedeflerinin oluşturulmasından ve tüm bu hedeflere nasıl ulaşılacağının adım adım belirlendiği doğrusal bir öğretim tasarımı modelidir. Davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkiler barındırdığı kabul edilen modelin (Dick, Carey veCarey, 2001) web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulduğu bilinmektedir. Dick, Carey ve Carey modeli, öğretim tasarımı sürecinin ilk adımdan son adıma kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu bir modeldir.<br>Dick, Carey ve Carey Modeli<br/>Öğrenme sürecinde öğretenin bir moderatör ve iletişimi başlatan kişi olduğu ve öğretim hedeflerinin oluşturulmasından ve tüm bu hedeflere nasıl ulaşılacağının adım adım belirlendiği doğrusal bir öğretim tasarımı modelidir. Davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkiler barındırdığı kabul edilen modelin (Dick, Carey veCarey, 2001) web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulduğu bilinmektedir. Dick, Carey ve Carey modeli, öğretim tasarımı sürecinin ilk adımdan son adıma kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu bir modeldir."
+        "Aciklama": "Dick, Carey ve Carey Modeli; öğrenme sürecinde öğretenin bir moderatör ve iletişimi başlatan kişi olduğu ve öğretim hedeflerinin oluşturulmasından ve tüm bu hedeflere nasıl ulaşılacağının adım adım belirlendiği doğrusal bir öğretim tasarımı modelidir. Davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkiler barındırdığı kabul edilen modelin (Dick, Carey veCarey, 2001) web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulduğu bilinmektedir. Dick, Carey ve Carey modeli, öğretim tasarımı sürecinin ilk adımdan son adıma kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu bir modeldir.<br/>Dick, Carey ve Carey Modeli<br/>Öğrenme sürecinde öğretenin bir moderatör ve iletişimi başlatan kişi olduğu ve öğretim hedeflerinin oluşturulmasından ve tüm bu hedeflere nasıl ulaşılacağının adım adım belirlendiği doğrusal bir öğretim tasarımı modelidir. Davranışçılık, bilişselcilik ve yapılandırmacılık kuramlarının üçünden de etkiler barındırdığı kabul edilen modelin (Dick, Carey veCarey, 2001) web tabanlı ve dijital öğrenme ortamlarında sıklıkla başvurulduğu bilinmektedir. Dick, Carey ve Carey modeli, öğretim tasarımı sürecinin ilk adımdan son adıma kadar doğrusal şekilde ilerlediği ve öğretenin moderatör konumunda olduğu bir modeldir."
     },
     {
         "SoruID": 3863373,
@@ -1017,7 +1017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Beceri hiyerarşisi<br/>Dört boyutlu öğretim tasarımı modelinde dikkat edilmesi istenen 6 tasarım ilkesi kısaca açıklanmıştır:<br/>Gerçekçilik: Öğretim tasarımcısı, öğrenme hedeflerini belirlerken meslekten veya günlük yaşamdan bilgi, beceri ve tutumlara hitap eden gerçek hedefler belirler.<br/>Aslına Uygunluk: Öğretim tasarımcısı öğretim tasarımı süresince, öğrenme etkinlikleri tasarlarken<br/>güvenli bir şekilde simüle edilmiş görev ortamından, giderek daha yüksek doğrulukta görev ortamlarına ve gerçek yaşam etkinliklerine doğru bir geçiş uygular.<br/>Değişkenlik: Öğretim tasarımında öğrenme hedefleri belirlenirken, gerçek yaşam görevlerinin<br/>birbirinden farklı olması gerekmektedir. Dolayısıyla öğretim tasarımcısı, öğrenme hedeflerinin tamamını gerçek yaşam görev performansını temsil edecek şekilde düzenler.<br/>Destek: Öğretim tasarımcısı öğrenenlere, öğrenme görevleri vererek destek sağlar.<br/>Rehberlik: Öğretim tasarımcısı öğrenenlere, problem çözmeye yönelik sistematik bir yaklaşım,<br/>başparmak kuralları veya süreç çalışma sayfaları sağlayarak öğrenme görevlerini yerine getirmeleri için rehberlik eder.<br/>Yapı: Öğretim tasarımcısı, öğrenenlerin daha fazla uzmanlık kazandıkça, verdiği destek ve rehberlik miktarını, öğrenenlerin öğrenme görevlerini herhangi bir destek ve rehberlik olmadan gerçekleştirene kadar kademeli olarak azaltır. </br>"
+        "Aciklama": "Beceri hiyerarşisi<br/>Dört boyutlu öğretim tasarımı modelinde dikkat edilmesi istenen 6 tasarım ilkesi kısaca açıklanmıştır:<br/>Gerçekçilik: Öğretim tasarımcısı, öğrenme hedeflerini belirlerken meslekten veya günlük yaşamdan bilgi, beceri ve tutumlara hitap eden gerçek hedefler belirler.<br/>Aslına Uygunluk: Öğretim tasarımcısı öğretim tasarımı süresince, öğrenme etkinlikleri tasarlarken<br/>güvenli bir şekilde simüle edilmiş görev ortamından, giderek daha yüksek doğrulukta görev ortamlarına ve gerçek yaşam etkinliklerine doğru bir geçiş uygular.<br/>Değişkenlik: Öğretim tasarımında öğrenme hedefleri belirlenirken, gerçek yaşam görevlerinin<br/>birbirinden farklı olması gerekmektedir. Dolayısıyla öğretim tasarımcısı, öğrenme hedeflerinin tamamını gerçek yaşam görev performansını temsil edecek şekilde düzenler.<br/>Destek: Öğretim tasarımcısı öğrenenlere, öğrenme görevleri vererek destek sağlar.<br/>Rehberlik: Öğretim tasarımcısı öğrenenlere, problem çözmeye yönelik sistematik bir yaklaşım,<br/>başparmak kuralları veya süreç çalışma sayfaları sağlayarak öğrenme görevlerini yerine getirmeleri için rehberlik eder.<br/>Yapı: Öğretim tasarımcısı, öğrenenlerin daha fazla uzmanlık kazandıkça, verdiği destek ve rehberlik miktarını, öğrenenlerin öğrenme görevlerini herhangi bir destek ve rehberlik olmadan gerçekleştirene kadar kademeli olarak azaltır."
     },
     {
         "SoruID": 3863374,
@@ -1477,7 +1477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma<br/>Yenilenmiş Bloom taksonomisinde; bilişsel beceriler Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma biçiminde düzenlenmiştir. <br/>Hatırlama genellikle anlamaya gerek duymadan kavram ya da olguları, ilkeleri hatırlayabilme becerisidir. Hatırlama düzeyinde; tanımlama, tekrarlama, kaydetme, listeleme, hatırlama, adlandırma, anlatma, sıralama, belirtme eylemleri kullanılır.<br/>Anlama öğrenilen bilginin kavranması, açıklanabilmesi ve yorumlanmasını ifade eder. Bu düzeyde; kendi cümleleriyle ifade etme, betimleme, tasvir etme, tanıma, açıklama, ifade etme, yerini belirleme, saptama, özetleme, tercüme etme, rapor etme, kategorilendirme eylem ifadeleri kullanılır.<br/>Uygulama öğrenilen bilgileri, yeni veya uygun durumlarda kullanabilme, problem çözmede işe koşabilme, yeni fikir geliştirebilmeyi tanımlar. Uygulama düzeyinde; uygulama, kullanma, çalıştırma, uyarlama,&lt;br /</br></br><br>Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma<br/>Yenilenmiş Bloom taksonomisinde; bilişsel beceriler Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma biçiminde düzenlenmiştir. <br/>Hatırlama genellikle anlamaya gerek duymadan kavram ya da olguları, ilkeleri hatırlayabilme becerisidir. Hatırlama düzeyinde; tanımlama, tekrarlama, kaydetme, listeleme, hatırlama, adlandırma, anlatma, sıralama, belirtme eylemleri kullanılır.<br/>Anlama öğrenilen bilginin kavranması, açıklanabilmesi ve yorumlanmasını ifade eder. Bu düzeyde; kendi cümleleriyle ifade etme, betimleme, tasvir etme, tanıma, açıklama, ifade etme, yerini belirleme, saptama, özetleme, tercüme etme, rapor etme, kategorilendirme eylem ifadeleri kullanılır.<br/>Uygulama öğrenilen bilgileri, yeni veya uygun durumlarda kullanabilme, problem çözmede işe koşabilme, yeni fikir geliştirebilmeyi tanımlar. Uygulama düzeyinde; uygulama, kullanma, çalıştırma, uyarlama,<br/>oluşturma, hazırlama, yönetme, gösterme eylemleri ile ifadeler oluşturulur.<br/>Analiz düzeyi edinilen bilgi parçalara ayrılabilme yeteneğini ifade eder. Bu düzey için ayırt etme, çözümleme, hesaplama, eleştirme, denetleme, sorgulama, ilişkilendirme, kategorilere ayırma, farklılaştırma, çıkarım yapma, test etme, sınama ifadeleri kullanılır. Değerlendirme bir amaca yönelik verilen malzeme ya da materyalin önemi hakkında yargıya varabilme, karar verebilme becerisidir. Bu düzeyde; yargılama, değer biçme, hüküm verme, değerlendirme, tahminde bulunma, düzeltme ifadeleriyle öğrenme çıktıları yazılır.<br/>Yaratma düzeyinde edinilen bilgilerin bir araya getirilmesiyle orjinal bir bütün oluşturulması beklenir, bu aynı zamanda en üst düzey yetkinliktir. Bu düzey için önerme, tasarlama, planlama, düzenleme,<br/>yapılandırma, inşa etme, organize etme, geliştirme, kurma, monte etme, formüle etme eylem ifadeleri kullanılır."
+        "Aciklama": "Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma<br/>Yenilenmiş Bloom taksonomisinde; bilişsel beceriler Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma biçiminde düzenlenmiştir. <br/>Hatırlama genellikle anlamaya gerek duymadan kavram ya da olguları, ilkeleri hatırlayabilme becerisidir. Hatırlama düzeyinde; tanımlama, tekrarlama, kaydetme, listeleme, hatırlama, adlandırma, anlatma, sıralama, belirtme eylemleri kullanılır.<br/>Anlama öğrenilen bilginin kavranması, açıklanabilmesi ve yorumlanmasını ifade eder. Bu düzeyde; kendi cümleleriyle ifade etme, betimleme, tasvir etme, tanıma, açıklama, ifade etme, yerini belirleme, saptama, özetleme, tercüme etme, rapor etme, kategorilendirme eylem ifadeleri kullanılır.<br/>Uygulama öğrenilen bilgileri, yeni veya uygun durumlarda kullanabilme, problem çözmede işe koşabilme, yeni fikir geliştirebilmeyi tanımlar. Uygulama düzeyinde; uygulama, kullanma, çalıştırma, uyarlama,&lt;br /<br/>Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma<br/>Yenilenmiş Bloom taksonomisinde; bilişsel beceriler Hatırlama- Anlama- Uygulama- Analiz- Değerlendirme - Yaratma biçiminde düzenlenmiştir. <br/>Hatırlama genellikle anlamaya gerek duymadan kavram ya da olguları, ilkeleri hatırlayabilme becerisidir. Hatırlama düzeyinde; tanımlama, tekrarlama, kaydetme, listeleme, hatırlama, adlandırma, anlatma, sıralama, belirtme eylemleri kullanılır.<br/>Anlama öğrenilen bilginin kavranması, açıklanabilmesi ve yorumlanmasını ifade eder. Bu düzeyde; kendi cümleleriyle ifade etme, betimleme, tasvir etme, tanıma, açıklama, ifade etme, yerini belirleme, saptama, özetleme, tercüme etme, rapor etme, kategorilendirme eylem ifadeleri kullanılır.<br/>Uygulama öğrenilen bilgileri, yeni veya uygun durumlarda kullanabilme, problem çözmede işe koşabilme, yeni fikir geliştirebilmeyi tanımlar. Uygulama düzeyinde; uygulama, kullanma, çalıştırma, uyarlama,<br/>oluşturma, hazırlama, yönetme, gösterme eylemleri ile ifadeler oluşturulur.<br/>Analiz düzeyi edinilen bilgi parçalara ayrılabilme yeteneğini ifade eder. Bu düzey için ayırt etme, çözümleme, hesaplama, eleştirme, denetleme, sorgulama, ilişkilendirme, kategorilere ayırma, farklılaştırma, çıkarım yapma, test etme, sınama ifadeleri kullanılır. Değerlendirme bir amaca yönelik verilen malzeme ya da materyalin önemi hakkında yargıya varabilme, karar verebilme becerisidir. Bu düzeyde; yargılama, değer biçme, hüküm verme, değerlendirme, tahminde bulunma, düzeltme ifadeleriyle öğrenme çıktıları yazılır.<br/>Yaratma düzeyinde edinilen bilgilerin bir araya getirilmesiyle orjinal bir bütün oluşturulması beklenir, bu aynı zamanda en üst düzey yetkinliktir. Bu düzey için önerme, tasarlama, planlama, düzenleme,<br/>yapılandırma, inşa etme, organize etme, geliştirme, kurma, monte etme, formüle etme eylem ifadeleri kullanılır."
     },
     {
         "SoruID": 3863416,
@@ -1757,7 +1757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görüntüler vektör ve piksel tabanlı olabilir. Vektörel görüntüler çözünürlükten ödün vermeden ölçeklenebilir. Yani büyütüldüğünde kalite kaybı yaşamaz. Ayrıca kolay bir şekilde düzenlenebilirler. Logolar, illüstrasyonlar, ikonlar, tablolar, grafikler, kavram haritaları ve çizimler vektör tabanlı görüntülere örnektir. Piksel tabanlı görüntüler ise gerçekçi ayrıntıları ve detayları göstermek amacıyla kullanılabilir. Ancak vektör tabanlı görüntüler gibi ölçeklenebilirlik açısından oldukça zayıftır. Çözünürlüğü düşük olan piksel tabanlı görüntüler büyütüldüğünde kalite kaybına uğramaktadır. Fotoğraflar ise piksel tabanlı görüntüye örnektir.<br>Fotoğraflar piksel tabanlıdır."
+        "Aciklama": "Görüntüler vektör ve piksel tabanlı olabilir. Vektörel görüntüler çözünürlükten ödün vermeden ölçeklenebilir. Yani büyütüldüğünde kalite kaybı yaşamaz. Ayrıca kolay bir şekilde düzenlenebilirler. Logolar, illüstrasyonlar, ikonlar, tablolar, grafikler, kavram haritaları ve çizimler vektör tabanlı görüntülere örnektir. Piksel tabanlı görüntüler ise gerçekçi ayrıntıları ve detayları göstermek amacıyla kullanılabilir. Ancak vektör tabanlı görüntüler gibi ölçeklenebilirlik açısından oldukça zayıftır. Çözünürlüğü düşük olan piksel tabanlı görüntüler büyütüldüğünde kalite kaybına uğramaktadır. Fotoğraflar ise piksel tabanlı görüntüye örnektir.<br/>Fotoğraflar piksel tabanlıdır."
     },
     {
         "SoruID": 3863326,
@@ -1857,7 +1857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Benzer nesnelerin birlikte gruplanması durumunu ifade eder. Renk, şekil, boyut veya doku gibi benzer özelliklere sahip öğelerin aynı gruba ait olarak algılandığını belirtmektedir. Benzerlik, bir tasarımda yan yana olmayabilecek ögeleri birbirine bağlamak için kullanılabilir. Önemli işlevlere sahip düğmelerin farklı renklerde veya boyutlarda sunulması benzerlik ilkesine bir örnektir. Bir arayüzdeki tüm tıklanabilir düğmeler için aynı rengin kullanılması, öğrenenlerin bunları benzer işlevlere sahip düğmeler olarak tanımasına yardımcı olur.<br>Önemli işlevlere sahip düğmelerin farklı renklerde veya boyutlarda sunulması benzerlik ilkesine örnek gösterilebilir."
+        "Aciklama": "Benzer nesnelerin birlikte gruplanması durumunu ifade eder. Renk, şekil, boyut veya doku gibi benzer özelliklere sahip öğelerin aynı gruba ait olarak algılandığını belirtmektedir. Benzerlik, bir tasarımda yan yana olmayabilecek ögeleri birbirine bağlamak için kullanılabilir. Önemli işlevlere sahip düğmelerin farklı renklerde veya boyutlarda sunulması benzerlik ilkesine bir örnektir. Bir arayüzdeki tüm tıklanabilir düğmeler için aynı rengin kullanılması, öğrenenlerin bunları benzer işlevlere sahip düğmeler olarak tanımasına yardımcı olur.<br/>Önemli işlevlere sahip düğmelerin farklı renklerde veya boyutlarda sunulması benzerlik ilkesine örnek gösterilebilir."
     },
     {
         "SoruID": 3863331,
@@ -2062,10 +2062,10 @@
     {
         "SoruID": 3863638,
         "SoruMetni": "<span style=\"font-family: 'Times New Roman',serif;\">Dijital görsel içerik geliştirme sürecinin adımları incelendiğinde aşağıdakilerden hangisi farklı bir başlık altında değerlendirilecektir? </span>",
-        "A": "Görsel öğelerin ayrıntılı bir biçimde planlanması<br data-end=\"364\" data-start=\"361\"/>",
-        "B": "Üretim sürecinde olası maliyetlerin azaltılması<br data-end=\"417\" data-start=\"414\"/>",
+        "A": "Görsel öğelerin ayrıntılı bir biçimde planlanması",
+        "B": "Üretim sürecinde olası maliyetlerin azaltılması",
         "C": "Yazarlar ve tasarımcılar arasında ortak bir dilin oluşturulması",
-        "D": "Görsel içeriklerin dijital ortamlarda çalışabilirliğinin test edilmesi<br data-end=\"553\" data-start=\"550\"/>",
+        "D": "Görsel içeriklerin dijital ortamlarda çalışabilirliğinin test edilmesi",
         "E": "Soyut fikirlerin somutlaşmasına yardımcı olunması",
         "DogruCevap": "D",
         "DersAd": "Öğretim Tasarımı",

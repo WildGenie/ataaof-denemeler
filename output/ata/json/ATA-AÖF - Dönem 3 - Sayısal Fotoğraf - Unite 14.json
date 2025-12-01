@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 178759,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi renk sentezlerinin kullanım amaçlarından biri değildir?</strong><br/></br>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi renk sentezlerinin kullanım amaçlarından biri değildir?</strong>",
         "A": "Renklerin tonlarını tanımlamak",
         "B": "Evrensel bir standartta renkleri tanımlamak",
         "C": "Bir anlamda renklerin sınıflandırmasını ve kataloglanmasını sağlamak",
@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 178761,
-        "SoruMetni": "<strong>RGB renk sisteminin kısaltmasında bulunan ‘G’ harfi hangi rengi temsil etmektedir?</strong><br/></br>",
+        "SoruMetni": "<strong>RGB renk sisteminin kısaltmasında bulunan ‘G’ harfi hangi rengi temsil etmektedir?</strong>",
         "A": "Kırmızı",
         "B": "Sarı",
         "C": "Yeşil",
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 178762,
-        "SoruMetni": "<strong>RGB renk sistemindeki üç ana rengin eşit oranlarda birleşiminden hangi renk oluşmaktadır?</strong><br/></br>",
+        "SoruMetni": "<strong>RGB renk sistemindeki üç ana rengin eşit oranlarda birleşiminden hangi renk oluşmaktadır?</strong>",
         "A": "Kırmızı",
         "B": "Beyaz",
         "C": "Yeşil",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 178767,
-        "SoruMetni": "<strong>CMYK renklerinin her biri için %0 ile %100 arasında değişen değerler kullanıldığında, beyazın alacağı değerler aşağıdakilerden hangisidir?</strong><br/></br>",
+        "SoruMetni": "<strong>CMYK renklerinin her biri için %0 ile %100 arasında değişen değerler kullanıldığında, beyazın alacağı değerler aşağıdakilerden hangisidir?</strong>",
         "A": "C%10, M%10, Y%10, K%10",
         "B": "C%100, M%100, Y%100, K%100",
         "C": "C%0, M%0, Y%0, K%0",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 178770,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi RGB renk modeline dayalı renk alanlarındandır?</strong><br/></br>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi RGB renk modeline dayalı renk alanlarındandır?</strong>",
         "A": "Adobe RGB",
         "B": "CMYK",
         "C": "CIE L*a*b",

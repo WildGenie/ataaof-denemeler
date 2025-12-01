@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 235535,
-        "SoruMetni": "Our washing machine has broken ..............<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Our washing machine has broken ..............<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "at",
         "B": "after",
         "C": "down",
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 235542,
-        "SoruMetni": "A- What happened?<br/>B- ________________________________________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong> </br></br>",
+        "SoruMetni": "A- What happened?<br/>B- ________________________________________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong>",
         "A": "I called an electrician.",
         "B": "I feel terrible.",
         "C": "Somebody broke into my car.",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 238413,
-        "SoruMetni": "He looks __________ his ill mother.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "He looks __________ his ill mother.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong>",
         "A": "at",
         "B": "after",
         "C": "to",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 238414,
-        "SoruMetni": "I came __________ my primary school teacher yesterday.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "I came __________ my primary school teacher yesterday.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong>",
         "A": "at",
         "B": "after",
         "C": "to",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 238415,
-        "SoruMetni": "You have to hand your homework __________ tomorrow.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "You have to hand your homework __________ tomorrow.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong>",
         "A": "in",
         "B": "after",
         "C": "down",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 238416,
-        "SoruMetni": "It is very cold. I should put __________ a jacket.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "It is very cold. I should put __________ a jacket.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong>",
         "A": "in",
         "B": "after",
         "C": "down",
@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 238417,
-        "SoruMetni": "A- What did you do?<br/>B- __________________________________________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong> </br></br>",
+        "SoruMetni": "A- What did you do?<br/>B- __________________________________________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong>",
         "A": "I called an electrician.",
         "B": "I feel terrible.",
         "C": "Somebody broke into my car.",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 238421,
-        "SoruMetni": "A- See you then?<br/>B - _______________________________________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong> </br></br>",
+        "SoruMetni": "A- See you then?<br/>B - _______________________________________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong>",
         "A": "I miss you so much.",
         "B": "See you. Bye for now.",
         "C": "What would you like to have?",
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 351982,
-        "SoruMetni": "<strong>Will: </strong>Hey Alice, what's up? <br/><strong>Alice: </strong>Not much. How about you?<br/><strong>Will: </strong>Alright. My parents will be away for two days. <br/><strong>Alice:</strong> Really? ....................................................<br/><strong>Will: </strong>I'd love to.Thank you very much. You're so nice. <br/><strong>Alice: </strong>Great. I'll tell my mum to cook your favourite dish. See you in the evening then.<br/><strong>Will:</strong> Thank you. See you. <br/><strong>Aşağıdakilerden hangisi diyaloğu doğru bir şekilde tamamlar?</strong> </br></br></br></br></br></br>",
+        "SoruMetni": "<strong>Will: </strong>Hey Alice, what's up? <br/><strong>Alice: </strong>Not much. How about you?<br/><strong>Will: </strong>Alright. My parents will be away for two days. <br/><strong>Alice:</strong> Really? ....................................................<br/><strong>Will: </strong>I'd love to.Thank you very much. You're so nice. <br/><strong>Alice: </strong>Great. I'll tell my mum to cook your favourite dish. See you in the evening then.<br/><strong>Will:</strong> Thank you. See you. <br/><strong>Aşağıdakilerden hangisi diyaloğu doğru bir şekilde tamamlar?</strong>",
         "A": "Where are they going to?",
         "B": "What time do you want to eat dinner?",
         "C": "Let's buy some food for you.",

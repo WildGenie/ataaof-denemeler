@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "TASARIMDA KAVRAMSAL ÖGELER<br>Tasarımın temel ögeleri olan nokta, çizgi, düzlem ve hacim tasarımda kavramsal ögelerdir."
+        "Aciklama": "TASARIMDA KAVRAMSAL ÖGELER<br/>Tasarımın temel ögeleri olan nokta, çizgi, düzlem ve hacim tasarımda kavramsal ögelerdir."
     },
     {
         "SoruID": 3861132,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "TASARIMDA KAVRAMSAL ÖGELER<br>Tüm çizgiler dikey, yatay, diyagonal, eğri ve zikzak olmak üzere beşe ayrılır. Dikey çizgiler, yatay eksene dik olarak aşağı ve yukarı yönde hareket oluştururlar: Tıpkı insan bedeninin yer üzerinde ayakta duruşu gibi. Dikey çizgiler yukarı uzanan hareketiyle izleyicide dinamik bir etki yaratır. Yatay çizgi ise dikeyin aksine daha statiktir ve dinlenme, sakinlik gibi hisler bırakır. Diyagonal çizgiler yükseliyor ya da düşüyormuş izlenimi vermeleri nedeniyle bazen heyecan bazen gerilim yaratmak için kullanılır. Zikzak çizgiler ise düzensizlik hissi uyandırmak için kullanılabilir. Kaligrafik çizgiler tek vuruşta inceden kalına doğru çekilen fırça vuruşlarıyla yaratılır, bu vuruşlar doğallığı, coşkuyu ve zarafeti dışa vurur."
+        "Aciklama": "TASARIMDA KAVRAMSAL ÖGELER<br/>Tüm çizgiler dikey, yatay, diyagonal, eğri ve zikzak olmak üzere beşe ayrılır. Dikey çizgiler, yatay eksene dik olarak aşağı ve yukarı yönde hareket oluştururlar: Tıpkı insan bedeninin yer üzerinde ayakta duruşu gibi. Dikey çizgiler yukarı uzanan hareketiyle izleyicide dinamik bir etki yaratır. Yatay çizgi ise dikeyin aksine daha statiktir ve dinlenme, sakinlik gibi hisler bırakır. Diyagonal çizgiler yükseliyor ya da düşüyormuş izlenimi vermeleri nedeniyle bazen heyecan bazen gerilim yaratmak için kullanılır. Zikzak çizgiler ise düzensizlik hissi uyandırmak için kullanılabilir. Kaligrafik çizgiler tek vuruşta inceden kalına doğru çekilen fırça vuruşlarıyla yaratılır, bu vuruşlar doğallığı, coşkuyu ve zarafeti dışa vurur."
     },
     {
         "SoruID": 3861133,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "TASARIMDA KAVRAMSAL ÖGELER<br>Düzlemlerin farklı açılarla bir araya gelerek oluşturduğu boşluklar hacim olarak tanımlanabilir. Hacim uzamın ölçülebilir hâlidir. Ağırlığı ve yoğunluğu ile ölçülebilen bir kütle tarafından işgal edilen ya da düzlemler tarafından çevrelenen uzamın hacmi oluşturduğu söylenebilir."
+        "Aciklama": "TASARIMDA KAVRAMSAL ÖGELER<br/>Düzlemlerin farklı açılarla bir araya gelerek oluşturduğu boşluklar hacim olarak tanımlanabilir. Hacim uzamın ölçülebilir hâlidir. Ağırlığı ve yoğunluğu ile ölçülebilen bir kütle tarafından işgal edilen ya da düzlemler tarafından çevrelenen uzamın hacmi oluşturduğu söylenebilir."
     },
     {
         "SoruID": 3861134,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "TASARIMDA GÖRSEL ÖGELER<br>Form; geometrik-organik, köşeli-yuvarlak, hareketli-hareketsiz, doğal-yapay, serbest-sınırlı, simetrik-asimetrik olarak sınıflandırılabilir. Küp, pirizma geometrik bir forma; insan, bitki, hayvan ise organik bir forma örnek olabilir. Küp köşeli bir form iken küre yuvarlak bir formdur. Hareketsiz olan heykellerde hareketsiz formdan, kinetiksanat yapılarında ise hareketli formdan söz edilebilir. Elnyapımı seramik bir fincan organik forma örnek iken doğada bulamayacağımız bir form olarak fincan yapay bir formdur."
+        "Aciklama": "TASARIMDA GÖRSEL ÖGELER<br/>Form; geometrik-organik, köşeli-yuvarlak, hareketli-hareketsiz, doğal-yapay, serbest-sınırlı, simetrik-asimetrik olarak sınıflandırılabilir. Küp, pirizma geometrik bir forma; insan, bitki, hayvan ise organik bir forma örnek olabilir. Küp köşeli bir form iken küre yuvarlak bir formdur. Hareketsiz olan heykellerde hareketsiz formdan, kinetiksanat yapılarında ise hareketli formdan söz edilebilir. Elnyapımı seramik bir fincan organik forma örnek iken doğada bulamayacağımız bir form olarak fincan yapay bir formdur."
     },
     {
         "SoruID": 3861135,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "TASARIMDA GÖRSEL ÖGELER<br>Serbest gelişmiş eğilimlere benzeyen taşlarda, bulutlarda, yapraklarda görülen, canlı organizmalarda bulunan şekiller biyomorfik ya da organik olarak adlandırılır. Bu şekiller mimarlar ve tasarımcılar tarafından fazla geometrik kalacak şekillerin sertliğini kırmak üzere sıklıkla kullanılır. Miyazaki’nin animasyonlarında bu organik yapılar sıklıkla görülür (Ocvirk, Stinson ve diğerleri, 2013). Gossin (2015) Miyazaki’nin ekolojik estetiği ile animasyonlarında, doğal bir sanatsal hayal gücü ve evrim süreciyle ortaya çıkıp büyüdüğünü ifade eder. Tasarımlarında rahatlatıcı bir etki yaratan organik yapının onunsanatını özel kıldığını belirtir. Çevresel görüşleri veya ekolojik değerleri dayatmadan yaşamın doğal bir parçası olarak animasyonlarında sunduğu bu şekillerin Miyazaki sanatının yaşayan bir varlık olma özelliğine büyük oranda katkı sağladığı söylenebilir."
+        "Aciklama": "TASARIMDA GÖRSEL ÖGELER<br/>Serbest gelişmiş eğilimlere benzeyen taşlarda, bulutlarda, yapraklarda görülen, canlı organizmalarda bulunan şekiller biyomorfik ya da organik olarak adlandırılır. Bu şekiller mimarlar ve tasarımcılar tarafından fazla geometrik kalacak şekillerin sertliğini kırmak üzere sıklıkla kullanılır. Miyazaki’nin animasyonlarında bu organik yapılar sıklıkla görülür (Ocvirk, Stinson ve diğerleri, 2013). Gossin (2015) Miyazaki’nin ekolojik estetiği ile animasyonlarında, doğal bir sanatsal hayal gücü ve evrim süreciyle ortaya çıkıp büyüdüğünü ifade eder. Tasarımlarında rahatlatıcı bir etki yaratan organik yapının onunsanatını özel kıldığını belirtir. Çevresel görüşleri veya ekolojik değerleri dayatmadan yaşamın doğal bir parçası olarak animasyonlarında sunduğu bu şekillerin Miyazaki sanatının yaşayan bir varlık olma özelliğine büyük oranda katkı sağladığı söylenebilir."
     },
     {
         "SoruID": 3861136,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "TASARIMDA GÖRSEL ÖGELER<br>Işığın nesneler üzerindeki aydınlatma derecesi olarak tanımlanan ton renkler arasındaki geçişlerle oluşur."
+        "Aciklama": "TASARIMDA GÖRSEL ÖGELER<br/>Işığın nesneler üzerindeki aydınlatma derecesi olarak tanımlanan ton renkler arasındaki geçişlerle oluşur."
     },
     {
         "SoruID": 3861137,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "TASARIMDA İLİŞKİSEL ÖGELER<br>Konum, kompozisyonda uzak yakın izlenimini yaratarak ögelerin birbiriyle ilişkisi üzerinden oluşan mekânda rengin, şeklin ya da boyutun birbirine göre düzenlenmesidir."
+        "Aciklama": "TASARIMDA İLİŞKİSEL ÖGELER<br/>Konum, kompozisyonda uzak yakın izlenimini yaratarak ögelerin birbiriyle ilişkisi üzerinden oluşan mekânda rengin, şeklin ya da boyutun birbirine göre düzenlenmesidir."
     },
     {
         "SoruID": 3861138,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "TASARIMDA İLİŞKİSEL ÖGELER<br>Leke “yüzeyde oluşan, görülebilir ve hissedilebilir renk, doku, ton farklılaşmasıdır”."
+        "Aciklama": "TASARIMDA İLİŞKİSEL ÖGELER<br/>Leke “yüzeyde oluşan, görülebilir ve hissedilebilir renk, doku, ton farklılaşmasıdır”."
     },
     {
         "SoruID": 3861139,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "TASARIMDA UYGULAMALI ÖGELER<br>Bu bilimin temelinde ortak değerler, toplumsal uzlaşmayla belirlenen kodlar yer alır. Kodlar toplumların kabul ettiği kuralların işaretlerinden oluşur. Daha önce kodlanmış bu işaretleri çözerek imge okunur."
+        "Aciklama": "TASARIMDA UYGULAMALI ÖGELER<br/>Bu bilimin temelinde ortak değerler, toplumsal uzlaşmayla belirlenen kodlar yer alır. Kodlar toplumların kabul ettiği kuralların işaretlerinden oluşur. Daha önce kodlanmış bu işaretleri çözerek imge okunur."
     },
     {
         "SoruID": 3861140,

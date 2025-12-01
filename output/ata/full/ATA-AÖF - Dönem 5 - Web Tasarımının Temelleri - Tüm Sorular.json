@@ -2101,7 +2101,7 @@
     },
     {
         "SoruID": 332496,
-        "SoruMetni": "I. Breakpoints (Kesme Noktaları)<br/>II. Containers (Kapsayıcılar)<br/>III. Grid (Izgara)<br/>IV. Tables (Tablolar)<br/><strong>Yukarıdakilerden hangisi ya da hangileri Layout (Düzen) Sistemi'nin bileşenleri arasında yer alır?</strong></br></br></br>",
+        "SoruMetni": "I. Breakpoints (Kesme Noktaları)<br/>II. Containers (Kapsayıcılar)<br/>III. Grid (Izgara)<br/>IV. Tables (Tablolar)<br/><strong>Yukarıdakilerden hangisi ya da hangileri Layout (Düzen) Sistemi'nin bileşenleri arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",
@@ -2961,7 +2961,7 @@
     },
     {
         "SoruID": 397654,
-        "SoruMetni": "I. Semantic – UI<br/>II. Foundation<br/>III. Materialize<br/>IV. UI Kit<br/><strong>Yukarıdakilerden hangisi ya da hangileri CSS Framework kütüphaneleri arasında yer alır?</strong></br></br></br>",
+        "SoruMetni": "I. Semantic – UI<br/>II. Foundation<br/>III. Materialize<br/>IV. UI Kit<br/><strong>Yukarıdakilerden hangisi ya da hangileri CSS Framework kütüphaneleri arasında yer alır?</strong>",
         "A": "I, II ve III",
         "B": "I, II ve IV",
         "C": "I, III ve IV",
@@ -3081,7 +3081,7 @@
     },
     {
         "SoruID": 336588,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi W3C (World Wide Web) konsorsiyumunun temel amaçları arasında yer alır?</strong><br type=\"_moz\"/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi W3C (World Wide Web) konsorsiyumunun temel amaçları arasında yer alır?</strong>",
         "A": "Yeni yazılım dili oluşturmak",
         "B": "Teknoloji firmaları arasındaki rekabeti artırmak",
         "C": "Büyük teknolojik firmaları korumak",
@@ -3161,7 +3161,7 @@
     },
     {
         "SoruID": 336592,
-        "SoruMetni": "I. DOCTYPE Kullanımı<br/>II. CSS Sıfırlama<br/>III. HTML kodlarının doğru şekilde kullanımı<br/>IV. Eski teknolojiler kullanmak<br/><strong>Yukardakilerden hangisi ya da hangileri çapraz tarayıcı uyumluluğu sorunlarının yaygın nedenleri arasında yer alır?</strong></br></br></br>",
+        "SoruMetni": "I. DOCTYPE Kullanımı<br/>II. CSS Sıfırlama<br/>III. HTML kodlarının doğru şekilde kullanımı<br/>IV. Eski teknolojiler kullanmak<br/><strong>Yukardakilerden hangisi ya da hangileri çapraz tarayıcı uyumluluğu sorunlarının yaygın nedenleri arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I, II ve III",

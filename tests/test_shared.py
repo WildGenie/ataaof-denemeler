@@ -15,7 +15,7 @@ class TestShared(unittest.TestCase):
 
     def test_clean_html_entities(self):
         html_input = "A&nbsp;B"
-        expected = "A\xa0B"
+        expected = "A B"
         self.assertEqual(clean_html(html_input), expected)
 
     def test_clean_html_newlines(self):

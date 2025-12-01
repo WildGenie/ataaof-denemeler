@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 116014,
-        "SoruMetni": "I. Sergi stantları<br/>II. Kataloglar<br/>III. Broşür<br/><strong>Yukarıdakilerden hangisi ya da hangileri kurumsal kimlik çalışmalarını yansıtan araçlar arasında yer alır?</strong> </br></br>",
+        "SoruMetni": "I. Sergi stantları<br/>II. Kataloglar<br/>III. Broşür<br/><strong>Yukarıdakilerden hangisi ya da hangileri kurumsal kimlik çalışmalarını yansıtan araçlar arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 171695,
-        "SoruMetni": "I. Kurumsal vizyon<br/>II. Kurumsal misyon<br/>III. Kurumsal analiz<br/><strong>Yukarıdakilerden hangisi ya da hangileri kurum felsefesinin bileşenleri içerisinde yer almaktadır?</strong> </br></br>",
+        "SoruMetni": "I. Kurumsal vizyon<br/>II. Kurumsal misyon<br/>III. Kurumsal analiz<br/><strong>Yukarıdakilerden hangisi ya da hangileri kurum felsefesinin bileşenleri içerisinde yer almaktadır?</strong>",
         "A": "I ve III",
         "B": "II ve III",
         "C": "I, II ve III",

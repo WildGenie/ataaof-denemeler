@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 197006,
-        "SoruMetni": "We are cleaning our house at the moment.<br/>Which of the following is the passive form of the sentence above?<br/><strong>Cümlenin edilgen biçimi aşağıdakilerden hangisidir?</strong> </br>",
+        "SoruMetni": "We are cleaning our house at the moment.<br/>Which of the following is the passive form of the sentence above?<br/><strong>Cümlenin edilgen biçimi aşağıdakilerden hangisidir?</strong>",
         "A": "The house was cleaned.",
         "B": "The house is been cleaned.",
         "C": "Our house is being cleaned at the moment.",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 197012,
-        "SoruMetni": "The game __________ by the referee yesterday.<br/>Which of the following completes the passive sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki edilgen cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "The game __________ by the referee yesterday.<br/>Which of the following completes the passive sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki edilgen cümleyi tamamlar?</strong>",
         "A": "is being postponed",
         "B": "are postponed",
         "C": "are being postponed",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 197019,
-        "SoruMetni": "...................... tea always ................. by your mother for breakfast?<br/>Which of the following completes the passive sentence above?<br/><strong>Aşağıdaki seçeneklerden hangisi sırasıyla yukarıdaki edilgen cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "...................... tea always ................. by your mother for breakfast?<br/>Which of the following completes the passive sentence above?<br/><strong>Aşağıdaki seçeneklerden hangisi sırasıyla yukarıdaki edilgen cümleyi tamamlar?</strong>",
         "A": "was/making",
         "B": "is/making",
         "C": "were/being made",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 197024,
-        "SoruMetni": "Why are the flowers not ............................. watered now?<br/>Which of the following completes the passive sentence above?<br/><strong>Aşağıdakilerden hangisi verilen edilgen cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "Why are the flowers not ............................. watered now?<br/>Which of the following completes the passive sentence above?<br/><strong>Aşağıdakilerden hangisi verilen edilgen cümleyi tamamlar?</strong>",
         "A": "was",
         "B": "is",
         "C": "being",
@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 197031,
-        "SoruMetni": "A: ................. are these lemons?<br/>B: They are 5 TL each.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "A: ................. are these lemons?<br/>B: They are 5 TL each.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Where",
         "B": "When",
         "C": "How",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 197043,
-        "SoruMetni": "She couldn’t be persuaded by anybody to sell her land.<br/>Which of the following is Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong> </br>",
+        "SoruMetni": "She couldn’t be persuaded by anybody to sell her land.<br/>Which of the following is Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong>",
         "A": "O, arsasını satmak için hiç kimse tarafından ikna edilemiyordu.",
         "B": "Kimse onu arsasını satmaya ikna edemiyordu.",
         "C": "Kimse onun arsasının yerini bilmiyordu.",
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 214657,
-        "SoruMetni": "The tree .......... watered (by me) yesterday.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "The tree .......... watered (by me) yesterday.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "did",
         "B": "was",
         "C": "were",

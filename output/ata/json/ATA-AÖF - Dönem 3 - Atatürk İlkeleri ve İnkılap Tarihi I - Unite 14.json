@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 177364,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi, İstanbul Hükûmeti’nin TBMM’ye karşı mücadelesinde başvurduğu yöntemlerden biri <u>değildir?</u></strong><br/></br>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi, İstanbul Hükûmeti’nin TBMM’ye karşı mücadelesinde başvurduğu yöntemlerden biri <u>değildir?</u></strong>",
         "A": "İsyanlar çıkarması",
         "B": "Anadolu halkını fetvalarla Mustafa Kemal’e karşı kışkırtması",
         "C": "İç isyanları desteklemesi",
@@ -321,7 +321,7 @@
     },
     {
         "SoruID": 306054,
-        "SoruMetni": "I. Lozan Antlaşması<br/>II. Sevr Antlaşması<br/>III. Mondros Mütarekesi<br/><strong>Yukarıdaki antlaşmalardan hangisi ya da hangileri ölü doğmuş antlaşma olarak bilinir?</strong></br></br></br>",
+        "SoruMetni": "I. Lozan Antlaşması<br/>II. Sevr Antlaşması<br/>III. Mondros Mütarekesi<br/><strong>Yukarıdaki antlaşmalardan hangisi ya da hangileri ölü doğmuş antlaşma olarak bilinir?</strong>",
         "A": "Yalnız ı",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -341,7 +341,7 @@
     },
     {
         "SoruID": 332895,
-        "SoruMetni": "<strong>I. TBMM'nin açılış tarihi aşağıdakilerden hangisidir?</strong><br type=\"_moz\"/>",
+        "SoruMetni": "<strong>I. TBMM'nin açılış tarihi aşağıdakilerden hangisidir?</strong>",
         "A": "19 Mayıs 1919",
         "B": "23 Nisan 1923",
         "C": "29 Ekim 1924",

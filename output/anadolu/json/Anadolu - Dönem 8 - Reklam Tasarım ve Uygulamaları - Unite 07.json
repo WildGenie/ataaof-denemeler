@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İnternet Reklamcılığında Göz Önünde Bulundurulması Gereken Unsurlar<br/>Bir dijital reklamın bileşenleri, belirli format ve platforma bağlı olarak değişiklik gösterebilir. Ancak bir reklam oluştururken göz önünde bulundurulması gereken unsurlardan bazıları şunlardır (Deña, 2023):<br/>• Reklam metni: Reklamda kullanılan metin; genellikle bir başlık, gövde metni ve bir <br/>harekete geçirici mesaj içerir ve alıcıyı bir ürünü satın almaya teşvik eden içeriktir.<br/>• Görsel ögeler: Reklamı yapılan ürün veya hizmeti görsel olarak temsil etmek için kullanılan resimler, marka maketleri, grafikler, vektör tasarımları veya videolardır.<br/>• Açılış sayfası: Kullanıcının reklama tıkladığında yönlendirildiği web sayfasıdır.<br/>• İzleme pikseli: Tıklamalar, gösterimler ve dönüşümler gibi kullanıcı davranışını izlemek ve kaydetmek için kullanılan küçük kod parçalarıdır.<br/>• Hedefleme kriterleri: Reklamın ulaşmayı amaçladığı belirli hedef kitle, demografik <br/>özellikler, ilgi alanları, konum ve davra<br>Hedefleme kriterleri; Reklamın ulaşmayı amaçladığı belirli hedef kitle, demografik <br/>özellikler, ilgi alanları, konum ve davranış gibi faktörlerdir."
+        "Aciklama": "İnternet Reklamcılığında Göz Önünde Bulundurulması Gereken Unsurlar<br/>Bir dijital reklamın bileşenleri, belirli format ve platforma bağlı olarak değişiklik gösterebilir. Ancak bir reklam oluştururken göz önünde bulundurulması gereken unsurlardan bazıları şunlardır (Deña, 2023):<br/>• Reklam metni: Reklamda kullanılan metin; genellikle bir başlık, gövde metni ve bir <br/>harekete geçirici mesaj içerir ve alıcıyı bir ürünü satın almaya teşvik eden içeriktir.<br/>• Görsel ögeler: Reklamı yapılan ürün veya hizmeti görsel olarak temsil etmek için kullanılan resimler, marka maketleri, grafikler, vektör tasarımları veya videolardır.<br/>• Açılış sayfası: Kullanıcının reklama tıkladığında yönlendirildiği web sayfasıdır.<br/>• İzleme pikseli: Tıklamalar, gösterimler ve dönüşümler gibi kullanıcı davranışını izlemek ve kaydetmek için kullanılan küçük kod parçalarıdır.<br/>• Hedefleme kriterleri: Reklamın ulaşmayı amaçladığı belirli hedef kitle, demografik <br/>özellikler, ilgi alanları, konum ve davra<br/>Hedefleme kriterleri; Reklamın ulaşmayı amaçladığı belirli hedef kitle, demografik <br/>özellikler, ilgi alanları, konum ve davranış gibi faktörlerdir."
     },
     {
         "SoruID": 3832138,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "CTA yani Call-to-Action (dinamik eylem çağrısı), dijital pazarlama stratejilerinde kullanıcıları belirli bir eylemi gerçekleştirmeye teşvik etmek için kullanılan metin veya görsel ögelerdir. “Hemen Satın Al” veya “Şimdi Kaydol” gibi ifadeler CTA örnekleri olarak verilebilir.<br>Dijital pazarlama stratejilerinde kullanıcıları belirli bir eylemi gerçekleştirmeye teşvik etmek için kullanılan metin veya görsel ögelerdir. “Hemen Satın Al” veya “Şimdi Kaydol” gibi ifadeler örnekleri olarak verilebilir."
+        "Aciklama": "CTA yani Call-to-Action (dinamik eylem çağrısı), dijital pazarlama stratejilerinde kullanıcıları belirli bir eylemi gerçekleştirmeye teşvik etmek için kullanılan metin veya görsel ögelerdir. “Hemen Satın Al” veya “Şimdi Kaydol” gibi ifadeler CTA örnekleri olarak verilebilir.<br/>Dijital pazarlama stratejilerinde kullanıcıları belirli bir eylemi gerçekleştirmeye teşvik etmek için kullanılan metin veya görsel ögelerdir. “Hemen Satın Al” veya “Şimdi Kaydol” gibi ifadeler örnekleri olarak verilebilir."
     },
     {
         "SoruID": 3832465,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mobil reklamcılığın ilk biçimi SMS metin mesajları olarak ortaya çıkmıştır. SMS, kısa mesaj servisi anlamına gelir.<br>SMS-SMS"
+        "Aciklama": "Mobil reklamcılığın ilk biçimi SMS metin mesajları olarak ortaya çıkmıştır. SMS, kısa mesaj servisi anlamına gelir.<br/>SMS-SMS"
     },
     {
         "SoruID": 3832472,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Üçüncü taraf çerezleri davranışsal reklamcılığı etkinleştirmek için kullanılan çeşitli mekanizmalardan biridir. Reklamcılar, bir kişinin hangi siteleri ziyaret ettiği, hangi reklamları tıkladığı, yaş ve cinsiyetle ilgili çıkarımları ve bilgisayarın IP adresine dayalı yaklaşık fiziksel konumunu ilişkilendirerek bireyin özelliklerine ve olası ilgi alanlarına ilişkin profiller oluşturur (McDonald ve Cranor, 2010).<br/>Üçüncü taraf çerezleri: Kullanıcının ziyaret ettiği alandan farklı bir alan adına ait bir web sitesi tarafından kullanıcının cihazına (bilgisayar, cep telefonu veya tablet) yerleştirilen bir çerezdir. Çerez, bir web sitesinin kullanıcının bilgisayarına yerleştirdiği bilgilerdir.<br>Kullanıcının ziyaret ettiği alandan farklı bir alan adına ait bir web sitesi tarafından kullanıcının cihazına yerleştirilen bir çerezdir. Çerez, bir web sitesinin kullanıcının bilgisayarına yerleştirdiği bilgilerdir."
+        "Aciklama": "Üçüncü taraf çerezleri davranışsal reklamcılığı etkinleştirmek için kullanılan çeşitli mekanizmalardan biridir. Reklamcılar, bir kişinin hangi siteleri ziyaret ettiği, hangi reklamları tıkladığı, yaş ve cinsiyetle ilgili çıkarımları ve bilgisayarın IP adresine dayalı yaklaşık fiziksel konumunu ilişkilendirerek bireyin özelliklerine ve olası ilgi alanlarına ilişkin profiller oluşturur (McDonald ve Cranor, 2010).<br/>Üçüncü taraf çerezleri: Kullanıcının ziyaret ettiği alandan farklı bir alan adına ait bir web sitesi tarafından kullanıcının cihazına (bilgisayar, cep telefonu veya tablet) yerleştirilen bir çerezdir. Çerez, bir web sitesinin kullanıcının bilgisayarına yerleştirdiği bilgilerdir.<br/>Kullanıcının ziyaret ettiği alandan farklı bir alan adına ait bir web sitesi tarafından kullanıcının cihazına yerleştirilen bir çerezdir. Çerez, bir web sitesinin kullanıcının bilgisayarına yerleştirdiği bilgilerdir."
     },
     {
         "SoruID": 3833520,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaygın bir reklam türü olan bannerlar, 1994 yılında kullanıcıların dikkatini çekme ve istenilen tepkiyi tetikleme yöntemi olarak ortaya çıkmıştır. Tüketicinin dikkatini çekmek için bannerlarda renkli animasyonlar ve dinamik görseller sıklıkla kullanılmaktadır.<br>1994 yılında kullanıcıların dikkatini çekme ve istenilen tepkiyi tetikleme yöntemi olarak ortaya çıkmıştır. Renkli animasyonlar ve dinamik görsellerin kullanıldığı reklamlardır."
+        "Aciklama": "Yaygın bir reklam türü olan bannerlar, 1994 yılında kullanıcıların dikkatini çekme ve istenilen tepkiyi tetikleme yöntemi olarak ortaya çıkmıştır. Tüketicinin dikkatini çekmek için bannerlarda renkli animasyonlar ve dinamik görseller sıklıkla kullanılmaktadır.<br/>1994 yılında kullanıcıların dikkatini çekme ve istenilen tepkiyi tetikleme yöntemi olarak ortaya çıkmıştır. Renkli animasyonlar ve dinamik görsellerin kullanıldığı reklamlardır."
     },
     {
         "SoruID": 3833564,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanal Gerçeklik (VR) Reklam Türleri VR tabanlı reklamlar, oyun içi reklamcılık, etkileşimli VR deneyimleri, 360 derecelik video reklamlar <br/>ve sanal ürün tanıtımları dahil olmak üzere birçok biçimde olabilir (The Media Ant, 2023):<br>Geçiş reklamları"
+        "Aciklama": "Sanal Gerçeklik (VR) Reklam Türleri VR tabanlı reklamlar, oyun içi reklamcılık, etkileşimli VR deneyimleri, 360 derecelik video reklamlar <br/>ve sanal ürün tanıtımları dahil olmak üzere birçok biçimde olabilir (The Media Ant, 2023):<br/>Geçiş reklamları"
     },
     {
         "SoruID": 3833597,
@@ -197,6 +197,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Artırılmış gerçeklik (AR- augmented reality), sanal gerçekliğin bir çeşididir. AR, gerçek dünyanın üzerine eklenen veya gerçek dünyayla birleştirilen sanal nesnelerle kullanıcının gerçek dünyayı görmesine olanak tanır. Bu nedenle AR, gerçekliğin tamamen yerini almak yerine onu tamamlamaktadır (Azuma, 1997).Gerçekliğin güçlendirilmesini ve desteklenmesini sağlayan AR, dijital nesnelerin gerçek dünyaya aktarılmasının yanı sıra kokusal veya dokunsal bilgileri de gerçek dünyadaki kullanıcıların algılarına dahil ederek katılımcı bir deneyim yaratmaya imkân sağlamaktadır.<br>AR, gerçek dünyanın üzerine eklenen veya gerçek dünyayla birleştirilen sanal nesnelerle kullanıcının gerçek dünyayı görmesine olanak tanıyarak, gerçekliğin tamamen yerini almak yerine onu tamamlayan sanal gerçeklik türüdür."
+        "Aciklama": "Artırılmış gerçeklik (AR- augmented reality), sanal gerçekliğin bir çeşididir. AR, gerçek dünyanın üzerine eklenen veya gerçek dünyayla birleştirilen sanal nesnelerle kullanıcının gerçek dünyayı görmesine olanak tanır. Bu nedenle AR, gerçekliğin tamamen yerini almak yerine onu tamamlamaktadır (Azuma, 1997).Gerçekliğin güçlendirilmesini ve desteklenmesini sağlayan AR, dijital nesnelerin gerçek dünyaya aktarılmasının yanı sıra kokusal veya dokunsal bilgileri de gerçek dünyadaki kullanıcıların algılarına dahil ederek katılımcı bir deneyim yaratmaya imkân sağlamaktadır.<br/>AR, gerçek dünyanın üzerine eklenen veya gerçek dünyayla birleştirilen sanal nesnelerle kullanıcının gerçek dünyayı görmesine olanak tanıyarak, gerçekliğin tamamen yerini almak yerine onu tamamlayan sanal gerçeklik türüdür."
     }
 ]

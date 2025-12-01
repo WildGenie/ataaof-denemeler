@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 3863622,
-        "SoruMetni": "Bir üniversitenin uzaktan eğitim birimi, yeni bir öğrenme yönetim sistemi (LMS) kurmuştur. Bu süreçte aşağıdaki adımlar uygulanmıştır:<br/><ol><br/><li>Platformun öğrenciye sunulması ve derslerin başlaması</li><br/><li>Öğrenci memnuniyeti anketlerinin yapılması</li><br/><li>Ulusal düzeydeki eğitim politikalarının ve dijitalleşme trendlerinin göz önünde bulundurulması</li><br/><li>Sistem tasarımı ve içerik üretimi için ekiplerin iş birliği içinde çalışması</li><br/><li>Öğrencilerin, öğretim elemanlarının, teknik alt yapının ve bütçenin belirlenip projeye tahsis edilmesi</li><br/></ol><br/>Aşağıdaki şıklardan hangisi her adımı doğru sistem öğesiyle eşleştirmektedir?</br>",
+        "SoruMetni": "Bir üniversitenin uzaktan eğitim birimi, yeni bir öğrenme yönetim sistemi (LMS) kurmuştur. Bu süreçte aşağıdaki adımlar uygulanmıştır:<br/><ol><br/><li>Platformun öğrenciye sunulması ve derslerin başlaması</li><br/><li>Öğrenci memnuniyeti anketlerinin yapılması</li><br/><li>Ulusal düzeydeki eğitim politikalarının ve dijitalleşme trendlerinin göz önünde bulundurulması</li><br/><li>Sistem tasarımı ve içerik üretimi için ekiplerin iş birliği içinde çalışması</li><br/><li>Öğrencilerin, öğretim elemanlarının, teknik alt yapının ve bütçenin belirlenip projeye tahsis edilmesi</li><br/></ol><br/>Aşağıdaki şıklardan hangisi her adımı doğru sistem öğesiyle eşleştirmektedir?",
         "A": "1 → Çıktı<br/>2 → Geri bildirim<br/>3 → Çevre<br/>4 → Süreç<br/>5 → Girdi",
         "B": "1 → Süreç<br/>2 → Çıktı<br/>3 → Geri bildirim<br/>4 → Çevre<br/>5 → Girdi",
         "C": "1 → Geri bildirim<br/>2 → Süreç<br/>3 → Çevre<br/>4 → Girdi<br/>5 → Çıktı",
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1 -Çıktı : Platformun öğrenciye sunulması ve derslerin başlaması<br/>Bu aşamada sistemin ürettiği ürün yani çıktı devreye girmektedir. Girdiler (öğrenci, altyapı vs.) işlenmiş, süreç tamamlanmış ve ortaya çıkan ürün — yani kullanılabilir bir LMS — öğrencilere sunulmuştur. Bu nedenle doğru eşleşme “çıktı”dır.<br/>2 -Geri bildirim: Öğrenci memnuniyeti anketlerinin yapılması<br/>Anketler, sistemin performansını ve öğrenci memnuniyetini ölçmek için yapılır. Bu da sistemin çıktısına dair geri bildirim toplanması anlamına gelir. Geri bildirim sayesinde sistemin işleyişi gözden geçirilip, gerekiyorsa iyileştirmeler yapılabilir. Bu nedenle burası net olarak “geri bildirim”dir.</br><br/>3 - Çevre: Ulusal düzeydeki eğitim politikalarının ve dijitalleşme trendlerinin dikkate alınması<br/>Bu unsurlar, sistemin dışında yer alır ama sistemin nasıl şekilleneceğini etkiler. Örneğin MEB politikaları ya da teknolojik dönüşüm baskıları, sistemin karar alma süreçlerini yönlendirir. Bu nedenle bu adım “çevre” öğesini temsil eder.</br><br/>4 - Süreç: Sistem tasarımı ve içerik üretimi için ekiplerin iş birliği içinde çalışması<br/>Bu aşama, sistemin girdilerinin işlenip yapılandırıldığı aşamadır. Yani kaynaklar (girdiler), burada bir süreçten geçirilir, bilgi ve teknoloji kullanılarak ürün haline getirilir. Bu işlem basamağı tam anlamıyla “süreç” unsurunu karşılar.</br><br/>5 - Girdi: Öğrencilerin, öğretim elemanlarının, teknik alt yapının ve bütçenin belirlenip projeye tahsis edilmesi<br/>Tüm bu kaynaklar sistemin çalışması için dışarıdan alınan, sisteme giren girdilerdir. Öğrenci, öğretim elemanı, finansal kaynak vb. sistemin başında yer alan temel bileşenlerdir. Dolayısıyla bu adım “girdi” olarak doğru eşleştirilmiştir.</br>"
+        "Aciklama": "1 -Çıktı : Platformun öğrenciye sunulması ve derslerin başlaması<br/>Bu aşamada sistemin ürettiği ürün yani çıktı devreye girmektedir. Girdiler (öğrenci, altyapı vs.) işlenmiş, süreç tamamlanmış ve ortaya çıkan ürün — yani kullanılabilir bir LMS — öğrencilere sunulmuştur. Bu nedenle doğru eşleşme “çıktı”dır.<br/>2 -Geri bildirim: Öğrenci memnuniyeti anketlerinin yapılması<br/>Anketler, sistemin performansını ve öğrenci memnuniyetini ölçmek için yapılır. Bu da sistemin çıktısına dair geri bildirim toplanması anlamına gelir. Geri bildirim sayesinde sistemin işleyişi gözden geçirilip, gerekiyorsa iyileştirmeler yapılabilir. Bu nedenle burası net olarak “geri bildirim”dir.<br/>3 - Çevre: Ulusal düzeydeki eğitim politikalarının ve dijitalleşme trendlerinin dikkate alınması<br/>Bu unsurlar, sistemin dışında yer alır ama sistemin nasıl şekilleneceğini etkiler. Örneğin MEB politikaları ya da teknolojik dönüşüm baskıları, sistemin karar alma süreçlerini yönlendirir. Bu nedenle bu adım “çevre” öğesini temsil eder.<br/>4 - Süreç: Sistem tasarımı ve içerik üretimi için ekiplerin iş birliği içinde çalışması<br/>Bu aşama, sistemin girdilerinin işlenip yapılandırıldığı aşamadır. Yani kaynaklar (girdiler), burada bir süreçten geçirilir, bilgi ve teknoloji kullanılarak ürün haline getirilir. Bu işlem basamağı tam anlamıyla “süreç” unsurunu karşılar.<br/>5 - Girdi: Öğrencilerin, öğretim elemanlarının, teknik alt yapının ve bütçenin belirlenip projeye tahsis edilmesi<br/>Tüm bu kaynaklar sistemin çalışması için dışarıdan alınan, sisteme giren girdilerdir. Öğrenci, öğretim elemanı, finansal kaynak vb. sistemin başında yer alan temel bileşenlerdir. Dolayısıyla bu adım “girdi” olarak doğru eşleştirilmiştir."
     },
     {
         "SoruID": 3863623,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yarı açık sistemlerde:<br/><ul><br/><li><br/>Girdi, süreç ve çıktı vardır.<br/></li><br/><li><br/>Ama geri bildirim eksiktir → sistem gelişemez, hatalarını fark edemez.<br/></li><br/><li><br/>Bu da zamanla kalite düşüşü ve entropi (bozulma) yaratır.<br/></li><br/></ul><br/>Soru senaryosuna göre sistem işlemekte ama geri bildirim mekanizması çalışmamaktadır.<br><ul><br/><li>Kurum öğrenci alıyor : Girdi var</li><br/><li>Ders sunuyor : Süreç var</li><br/><li>Ancak:<br/><ul><br/><li>Geri bildirim yok (öğrenci memnuniyeti veya mezun takibi yapılmıyor)</li><br/><li>Bu durum kalitenin düşmesine neden oluyor</li><br/></ul><br/></li><br/></ul>"
+        "Aciklama": "Yarı açık sistemlerde:<br/><ul><br/><li><br/>Girdi, süreç ve çıktı vardır.<br/></li><br/><li><br/>Ama geri bildirim eksiktir → sistem gelişemez, hatalarını fark edemez.<br/></li><br/><li><br/>Bu da zamanla kalite düşüşü ve entropi (bozulma) yaratır.<br/></li><br/></ul><br/>Soru senaryosuna göre sistem işlemekte ama geri bildirim mekanizması çalışmamaktadır.<br/><ul><br/><li>Kurum öğrenci alıyor : Girdi var</li><br/><li>Ders sunuyor : Süreç var</li><br/><li>Ancak:<br/><ul><br/><li>Geri bildirim yok (öğrenci memnuniyeti veya mezun takibi yapılmıyor)</li><br/><li>Bu durum kalitenin düşmesine neden oluyor</li><br/></ul><br/></li><br/></ul>"
     },
     {
         "SoruID": 3863624,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kurum çevresiyle etkileşim kurmamakta, geri bildirim almamakta ve kendini yenilememektedir.<br data-end=\"758\" data-start=\"755\"/> Bu yapı, dışa kapalı, durağan ve içe dönük sistem özellikleri taşır bu da kapalı sistem tanımıyla birebir örtüşür."
+        "Aciklama": "Kurum çevresiyle etkileşim kurmamakta, geri bildirim almamakta ve kendini yenilememektedir.<br/>Bu yapı, dışa kapalı, durağan ve içe dönük sistem özellikleri taşır bu da kapalı sistem tanımıyla birebir örtüşür."
     },
     {
         "SoruID": 3863625,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<ul> <li> Kazançlar: Bütüncül planlama, kaynak yönetimi, öğretim materyallerinin yönetimi<br/></li> <li> Sınırlılıklar: Çevreyle ilişkilerin eksik tanımlanması, zaman ve kaynak gereksinimi<br data-end=\"1452\" data-start=\"1449\"/> Bu durum tam olarak şık B'de ifade edilmiştir.<br/></li> </ul>"
+        "Aciklama": "<ul> <li> Kazançlar: Bütüncül planlama, kaynak yönetimi, öğretim materyallerinin yönetimi<br/></li> <li> Sınırlılıklar: Çevreyle ilişkilerin eksik tanımlanması, zaman ve kaynak gereksinimi<br/>Bu durum tam olarak şık B'de ifade edilmiştir.<br/></li> </ul>"
     },
     {
         "SoruID": 3863628,

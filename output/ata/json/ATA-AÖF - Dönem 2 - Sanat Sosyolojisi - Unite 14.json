@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 239645,
-        "SoruMetni": "I. Müstakiller Grubu<br/>II. D Grubu<br/>III. Yeniler Grubu<br/>IV. Onlar Grubu<br/><strong>Aşağıdakilerden hangisi Türk ressamları tarafından kurulan örgütler arasındadır?</strong></br></br></br>",
+        "SoruMetni": "I. Müstakiller Grubu<br/>II. D Grubu<br/>III. Yeniler Grubu<br/>IV. Onlar Grubu<br/><strong>Aşağıdakilerden hangisi Türk ressamları tarafından kurulan örgütler arasındadır?</strong>",
         "A": "Yalnız II",
         "B": "Yalnız IV",
         "C": "I ve IV",
@@ -301,7 +301,7 @@
     },
     {
         "SoruID": 253996,
-        "SoruMetni": "<strong>Aşağıdaki ressamlardan hangisi Yeniler Grubu sanatçılarından biri <u>değildir</u>?</strong><br/></br>",
+        "SoruMetni": "<strong>Aşağıdaki ressamlardan hangisi Yeniler Grubu sanatçılarından biri <u>değildir</u>?</strong>",
         "A": "Nuri İyem",
         "B": "Avni Arbaş",
         "C": "Abidin Dino",

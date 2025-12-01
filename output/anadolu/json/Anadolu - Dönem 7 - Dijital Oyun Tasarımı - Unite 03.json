@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br>1970 ve 1980lerde kullanılan ekranları tanımlamak için kullanılan ve resim, çizim, tasarım ve fotoğrafların tek renkten oluştuğunu ifade eden bir sözcükten gelen ekran türü monokrom ekranlardır"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/>1970 ve 1980lerde kullanılan ekranları tanımlamak için kullanılan ve resim, çizim, tasarım ve fotoğrafların tek renkten oluştuğunu ifade eden bir sözcükten gelen ekran türü monokrom ekranlardır"
     },
     {
         "SoruID": 3688196,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır<br>2D grafiklerin sunduğu sanatsal özgürlük daha yüksektir. Diğer şıklar yanlış ifadeler içermektedir."
+        "Aciklama": "Doğru yanıt E şıkkıdır<br/>2D grafiklerin sunduğu sanatsal özgürlük daha yüksektir. Diğer şıklar yanlış ifadeler içermektedir."
     },
     {
         "SoruID": 3688198,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br>Poligonların birleşiminden oluşan ağ yapısını ifade edilen ve 3D modellerin iskeleti olarak görülen kavram mesh'dir."
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/>Poligonların birleşiminden oluşan ağ yapısını ifade edilen ve 3D modellerin iskeleti olarak görülen kavram mesh'dir."
     },
     {
         "SoruID": 3688202,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır<br>2D oyunlarda zemin, duvar, tavan ve diğer tekrar eden ögeler için kullanılan resim setlerine tileset denir"
+        "Aciklama": "Doğru yanıt E şıkkıdır<br/>2D oyunlarda zemin, duvar, tavan ve diğer tekrar eden ögeler için kullanılan resim setlerine tileset denir"
     },
     {
         "SoruID": 3688212,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br>Konsept tasarımı aşamasının ilk adımı araştırmadır."
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/>Konsept tasarımı aşamasının ilk adımı araştırmadır."
     },
     {
         "SoruID": 3688217,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt B şıkkıdır<br>Modellere renk, desen ve detay ekleyerek onları daha gerçekçi veya stilize hâle getiren süreç tekstürlemedir."
+        "Aciklama": "Doğru yanıt B şıkkıdır<br/>Modellere renk, desen ve detay ekleyerek onları daha gerçekçi veya stilize hâle getiren süreç tekstürlemedir."
     },
     {
         "SoruID": 3688221,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br>C# programlama dilini kullanarak oyun mantığını ve etkileşimlerini geliştirmeye olanak tanıyan, Asset Store’da geliştiricilere hazır oyun varlıkları, scriptler ve daha fazlasını sunan yazılım Unity'dir."
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/>C# programlama dilini kullanarak oyun mantığını ve etkileşimlerini geliştirmeye olanak tanıyan, Asset Store’da geliştiricilere hazır oyun varlıkları, scriptler ve daha fazlasını sunan yazılım Unity'dir."
     },
     {
         "SoruID": 3688223,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt D şıkkıdır<br>Maya, Autodesk'in geliştirdiği bir yazılımdır"
+        "Aciklama": "Doğru yanıt D şıkkıdır<br/>Maya, Autodesk'in geliştirdiği bir yazılımdır"
     },
     {
         "SoruID": 3688226,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br>2D tasarım ve model geliştirmelerde kullanılan ve Adobe firmasının geliştirmiş olduğu yazılım Illustrator'dur."
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/>2D tasarım ve model geliştirmelerde kullanılan ve Adobe firmasının geliştirmiş olduğu yazılım Illustrator'dur."
     },
     {
         "SoruID": 3688228,
@@ -197,6 +197,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt D şıkkıdır<br>Kenney, oyun geliştirici ve tasarımcılarının içerik indirebileceği platformlardandır"
+        "Aciklama": "Doğru yanıt D şıkkıdır<br/>Kenney, oyun geliştirici ve tasarımcılarının içerik indirebileceği platformlardandır"
     }
 ]

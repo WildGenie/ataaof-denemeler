@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 238365,
-        "SoruMetni": "I do not know ......................the exam is.<br/>Which of the following completes the sentence above?<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "I do not know ......................the exam is.<br/>Which of the following completes the sentence above?<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "which",
         "B": "why",
         "C": "who",
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 238366,
-        "SoruMetni": "Does Ayşe know ........... she is?<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Does Ayşe know ........... she is?<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "who",
         "B": "why",
         "C": "which",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 238367,
-        "SoruMetni": "Can you tell me __________ time it is?<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki dialogu tamamlar?</strong> </br>",
+        "SoruMetni": "Can you tell me __________ time it is?<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki dialogu tamamlar?</strong>",
         "A": "which",
         "B": "why",
         "C": "who",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 238368,
-        "SoruMetni": "In the past, people believed in magic, ghosts, fairies.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong> </br>",
+        "SoruMetni": "In the past, people believed in magic, ghosts, fairies.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong>",
         "A": "Geçmişte insanlar büyüyle, hayaletlerle, perilerle yaşardı.",
         "B": "Geçmişte insanlar büyüye, hayaletlere, perilere inanırdı.",
         "C": "Geçmişte insan hayatında büyü, hayaletler, periler önemli yer tutardı.",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 238369,
-        "SoruMetni": "Can you tell me ________ is coming to the meeting?<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "Can you tell me ________ is coming to the meeting?<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong>",
         "A": "which",
         "B": "why",
         "C": "who",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 238370,
-        "SoruMetni": "A: Do you know where she is?<br/>B: ............................................<br/><strong>Aşağıdakilerden hangisi diyaloğu doğru bir şekilde tamamlar?</strong> </br>",
+        "SoruMetni": "A: Do you know where she is?<br/>B: ............................................<br/><strong>Aşağıdakilerden hangisi diyaloğu doğru bir şekilde tamamlar?</strong>",
         "A": "She works for a multinational company.",
         "B": "She has been in England for two years.",
         "C": "She has graduated from Oxford University.",
@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 238371,
-        "SoruMetni": "Science has developed and people can get access to information easily.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong> </br>",
+        "SoruMetni": "Science has developed and people can get access to information easily.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong>",
         "A": "Bilim gelişmekte ve insanlar bilgiye kolayca ulaşabiliyor.",
         "B": "Bilim geliştiği için insanlar bilgiye ulaşabiliyor.",
         "C": "İnsanlar bilgiye kolayca ulaşabildiği için bilim gelişti.",
@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 238372,
-        "SoruMetni": "A- I wonder what Pelin is doing for a living in London.<br/>B- _________________________________________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki diyaloğu tamamlar?</strong> </br></br>",
+        "SoruMetni": "A- I wonder what Pelin is doing for a living in London.<br/>B- _________________________________________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki diyaloğu tamamlar?</strong>",
         "A": "She is staying with a British family.",
         "B": "London is her favourite place.",
         "C": "She went to London last year.",
@@ -281,7 +281,7 @@
     },
     {
         "SoruID": 254631,
-        "SoruMetni": "Yağmurun yağdığını görüyoruz.<br/><strong>İfadesinin İngilizce karşılığı aşağıdakilerden hangisidir?</strong><br/></br>",
+        "SoruMetni": "Yağmurun yağdığını görüyoruz.<br/><strong>İfadesinin İngilizce karşılığı aşağıdakilerden hangisidir?</strong>",
         "A": "That we see it is raining.",
         "B": "We that see it is raining.",
         "C": "We see that it is raining.",
@@ -341,7 +341,7 @@
     },
     {
         "SoruID": 351948,
-        "SoruMetni": "<strong>Oprah: </strong>Do you belive in magic and witchcraft? <br/><strong>Ellen:</strong> No! I believe in ................. and technology. <br/><strong>Diyalogta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong></br>",
+        "SoruMetni": "<strong>Oprah: </strong>Do you belive in magic and witchcraft? <br/><strong>Ellen:</strong> No! I believe in ................. and technology. <br/><strong>Diyalogta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>",
         "A": "superstition",
         "B": "good luck",
         "C": "science",

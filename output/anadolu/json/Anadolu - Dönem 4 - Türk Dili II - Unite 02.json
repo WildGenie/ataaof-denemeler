@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazılı anlatımda okumayı ve anlamayı kolaylaştıran, yazarın okura aktarmak istediği düşünce ya da duygunun doğru ulaşmasına yardımcı olan, sözün<br/>vurgu ve ton gibi özelliklerini belirten bu işaretlere noktalama işaretleri denir.<br>Sözün hangi bölgeye ait olduğunu gösterir."
+        "Aciklama": "Yazılı anlatımda okumayı ve anlamayı kolaylaştıran, yazarın okura aktarmak istediği düşünce ya da duygunun doğru ulaşmasına yardımcı olan, sözün<br/>vurgu ve ton gibi özelliklerini belirten bu işaretlere noktalama işaretleri denir.<br/>Sözün hangi bölgeye ait olduğunu gösterir."
     },
     {
         "SoruID": 3257383,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Günümüz Türk yazı dilinde elli kadar noktalama işareti kullanılmaktadır.<br>50"
+        "Aciklama": "Günümüz Türk yazı dilinde elli kadar noktalama işareti kullanılmaktadır.<br/>50"
     },
     {
         "SoruID": 3257388,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümlede kelime öbeklerini belirginleştirmek için virgül kullanılır.<br>Cümlede kelime öbeklerini belirginleştirmek için kullanılır."
+        "Aciklama": "Cümlede kelime öbeklerini belirginleştirmek için virgül kullanılır.<br/>Cümlede kelime öbeklerini belirginleştirmek için kullanılır."
     },
     {
         "SoruID": 3257390,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Rakamların yazımında kesirleri göstermek için virgül kullanılır.<br>Rakamların yazımında kesirleri göstermek için kullanılır."
+        "Aciklama": "Rakamların yazımında kesirleri göstermek için virgül kullanılır.<br/>Rakamların yazımında kesirleri göstermek için kullanılır."
     },
     {
         "SoruID": 3257392,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünlem ve soru işaretinden sonra anlatımı pekiştirmek için üç nokta konur.<br>Ünlem ve soru işaretinden sonra anlatımı pekiştirmek için konur."
+        "Aciklama": "Ünlem ve soru işaretinden sonra anlatımı pekiştirmek için üç nokta konur.<br/>Ünlem ve soru işaretinden sonra anlatımı pekiştirmek için konur."
     },
     {
         "SoruID": 3257394,
@@ -757,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Noktalı virgül, başlığı altındaki bilgileri gözden geçiriniz.<br>Doğru yanıt \"B\" seçeneğidir.<br/>Tırnak, ünlem, soru işareti, noktalı virgül başlıkları altındaki bilgileri gözden geçiriniz.<br/><strong>Bir öğrenci yazmış: </strong>Sorunun doğru cevabı \"a\" şıkkı olmalıydı, birçok soruda çeşitli hatalar mevcut ve bu uzun zamandır böyle; sanki hiç kontrol edilmiyormuşçasına hem de!..<br/><strong> Öğrenciye verilen yanıt:</strong><br/><ol><br/><li>Sizin dediğinizi seçersek (5) yerine (,) kullanılması gerek. Neden virgül (,) değil de noktalı virgül (;) kullanılması gerektiğini, ders kitabınızın 31. ile 34. sayfaları arasındaki bilgileri gözden geçirerek anlayabilirsiniz. Yine de açıklıyorum: Virgül, <strong>cümlede kelime öbeklerini belirginleştirmek için kullanılır (s. 31)</strong>. Verilen, “Gülümsediğimi gösteren bir ayna olsaydı; biraz da ışık.” cümlesinde sözcük öbekleri belirginleştirilmek istenmiyor. Noktalama işareti istenilen yerin öncesinde bir cümle var. Cümle, “olsaydı” diye bitiyor. Noktalı virgül kullanılarak, daha sonra gelen “biraz da ışık (olsaydı)” sözleriyle tek bir cümle kuruluyor. (Yazar, aynı eylemi yinelemekten kurtuluyor böylece.) Aralarında anlamca ilişki bulunan, cümlelerin arasına virgül konulmaz. Bu cümleler arasında <strong>noktalı virgül (;) </strong>kullanılır.</li><br/><li>Sizin, ”hata” dedikleriniz bilgi eksikliklerinizden kaynaklanıyor. Noktalama işaretleriyle ilgili bölümü daha dikkatli okuyunuz.</li><br/><li>Soruların denetlenmesine ilişkin kaygılarınız yersiz.</li><br/><li>İki satırlık kısacık yazınızda bile birçok noktalama yanlışı var. Anlatım bozukluğu da var.</li><br/></ol><br/>Öğrenci yanılıyor. Doğru cevap a seçeneği değildir!<br/><strong>Bir öğrenci yazmış: </strong>Açıklama yeterli değil.<br/><strong>Yanıt:</strong><br/>Yeterli açıklamayı ders kitabınızın ilgili bölümünde bulabilirsiniz. Her sorunun sonunda gözden geçirmeniz gereken konu, sayfa numaralarıyla birlikte verilmektedir.<br/><strong>Bir öğrenci yazmış: </strong>Yazar metninde öyle kullanmışsa da, bu iki cümle arasında noktalı virgül (;) kullanımı gerekmez.<br/><ol><br/><li>Yargınız dayanaksız.</li><br/><li>Neden noktalı virgül (;) kullanılması gerektiğini ders kitabınızın 33. ile 34. sayfaları arasındaki bilgileri gözden geçirerek anlayabilirsiniz. Yine de açıklıyorum: Noktalama işareti istenilen yerin öncesinde bir cümle var. Cümle, “olsaydı” diye bitiyor. Noktalı virgül kullanılarak, daha sonra gelen “biraz da ışık (olsaydı)” sözleriyle tek bir cümle kuruluyor. (Yazar, aynı eylemi yinelemekten kurtuluyor böylece.) Aralarında anlamca ilişki bulunan, cümleler arasında <strong>noktalı virgül (;) </strong>kullanılır.</li><br/><li>Kısacık cümlenizde bile hem anlatım bozukluğu hem de noktalama yanlışı var. Eksiklerinizi, ders kitabınızı daha iyi okuyarak giderebilirsiniz.</li><br/></ol><br/>Ders kitaplarıyla özetlere ilişkin soru(n)larınızı, kitapların yazarlarına iletebilirsiniz."
+        "Aciklama": "Noktalı virgül, başlığı altındaki bilgileri gözden geçiriniz.<br/>Doğru yanıt \"B\" seçeneğidir.<br/>Tırnak, ünlem, soru işareti, noktalı virgül başlıkları altındaki bilgileri gözden geçiriniz.<br/><strong>Bir öğrenci yazmış: </strong>Sorunun doğru cevabı \"a\" şıkkı olmalıydı, birçok soruda çeşitli hatalar mevcut ve bu uzun zamandır böyle; sanki hiç kontrol edilmiyormuşçasına hem de!..<br/><strong> Öğrenciye verilen yanıt:</strong><br/><ol><br/><li>Sizin dediğinizi seçersek (5) yerine (,) kullanılması gerek. Neden virgül (,) değil de noktalı virgül (;) kullanılması gerektiğini, ders kitabınızın 31. ile 34. sayfaları arasındaki bilgileri gözden geçirerek anlayabilirsiniz. Yine de açıklıyorum: Virgül, <strong>cümlede kelime öbeklerini belirginleştirmek için kullanılır (s. 31)</strong>. Verilen, “Gülümsediğimi gösteren bir ayna olsaydı; biraz da ışık.” cümlesinde sözcük öbekleri belirginleştirilmek istenmiyor. Noktalama işareti istenilen yerin öncesinde bir cümle var. Cümle, “olsaydı” diye bitiyor. Noktalı virgül kullanılarak, daha sonra gelen “biraz da ışık (olsaydı)” sözleriyle tek bir cümle kuruluyor. (Yazar, aynı eylemi yinelemekten kurtuluyor böylece.) Aralarında anlamca ilişki bulunan, cümlelerin arasına virgül konulmaz. Bu cümleler arasında <strong>noktalı virgül (;) </strong>kullanılır.</li><br/><li>Sizin, ”hata” dedikleriniz bilgi eksikliklerinizden kaynaklanıyor. Noktalama işaretleriyle ilgili bölümü daha dikkatli okuyunuz.</li><br/><li>Soruların denetlenmesine ilişkin kaygılarınız yersiz.</li><br/><li>İki satırlık kısacık yazınızda bile birçok noktalama yanlışı var. Anlatım bozukluğu da var.</li><br/></ol><br/>Öğrenci yanılıyor. Doğru cevap a seçeneği değildir!<br/><strong>Bir öğrenci yazmış: </strong>Açıklama yeterli değil.<br/><strong>Yanıt:</strong><br/>Yeterli açıklamayı ders kitabınızın ilgili bölümünde bulabilirsiniz. Her sorunun sonunda gözden geçirmeniz gereken konu, sayfa numaralarıyla birlikte verilmektedir.<br/><strong>Bir öğrenci yazmış: </strong>Yazar metninde öyle kullanmışsa da, bu iki cümle arasında noktalı virgül (;) kullanımı gerekmez.<br/><ol><br/><li>Yargınız dayanaksız.</li><br/><li>Neden noktalı virgül (;) kullanılması gerektiğini ders kitabınızın 33. ile 34. sayfaları arasındaki bilgileri gözden geçirerek anlayabilirsiniz. Yine de açıklıyorum: Noktalama işareti istenilen yerin öncesinde bir cümle var. Cümle, “olsaydı” diye bitiyor. Noktalı virgül kullanılarak, daha sonra gelen “biraz da ışık (olsaydı)” sözleriyle tek bir cümle kuruluyor. (Yazar, aynı eylemi yinelemekten kurtuluyor böylece.) Aralarında anlamca ilişki bulunan, cümleler arasında <strong>noktalı virgül (;) </strong>kullanılır.</li><br/><li>Kısacık cümlenizde bile hem anlatım bozukluğu hem de noktalama yanlışı var. Eksiklerinizi, ders kitabınızı daha iyi okuyarak giderebilirsiniz.</li><br/></ol><br/>Ders kitaplarıyla özetlere ilişkin soru(n)larınızı, kitapların yazarlarına iletebilirsiniz."
     },
     {
         "SoruID": 3257972,
@@ -777,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Virgül, başlığı altındaki bilgileri gözden geçiriniz.<br>Virgül (,), kesme (’), virgül (,), kesme (’), nokta (.)<br/>Özneden sonra virgül (,) kullanılır."
+        "Aciklama": "Virgül, başlığı altındaki bilgileri gözden geçiriniz.<br/>Virgül (,), kesme (’), virgül (,), kesme (’), nokta (.)<br/>Özneden sonra virgül (,) kullanılır."
     },
     {
         "SoruID": 3257974,
@@ -797,7 +797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uzun çizgi, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "Uzun çizgi, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3257976,
@@ -817,7 +817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uzun çizgi, başlığı altındaki bilgileri gözden geçiriniz.<br>Virgül (,), nokta (.), uzun çizgi (—), soru (?), nokta (.)"
+        "Aciklama": "Uzun çizgi, başlığı altındaki bilgileri gözden geçiriniz.<br/>Virgül (,), nokta (.), uzun çizgi (—), soru (?), nokta (.)"
     },
     {
         "SoruID": 3257977,
@@ -837,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İki nokta, başlığı altındaki bilgileri gözden geçiriniz.<br>İki nokta üst üste, ünlem, noktalı virgül başlıkları altındaki bilgileri gözden geçiriniz."
+        "Aciklama": "İki nokta, başlığı altındaki bilgileri gözden geçiriniz.<br/>İki nokta üst üste, ünlem, noktalı virgül başlıkları altındaki bilgileri gözden geçiriniz."
     },
     {
         "SoruID": 3257978,
@@ -857,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ayraç, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "Ayraç, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3257979,
@@ -877,7 +877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Üç nokta, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "Üç nokta, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3258017,
@@ -1057,7 +1057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "2. Rakamlardan sonra konursa sıra sayı sıfatlarını türetir; yani -ncI eki yerine<br/>geçer.<br/>67. Dil Bayramı, İstanbul’da Yıldız Teknik Üniversitesi’nce önemli bir toplantıyla kutlandı. (Oktay Akbal, Yazar Bir Tanıktır)<br>-ncI eki yerine kullanmak"
+        "Aciklama": "2. Rakamlardan sonra konursa sıra sayı sıfatlarını türetir; yani -ncI eki yerine<br/>geçer.<br/>67. Dil Bayramı, İstanbul’da Yıldız Teknik Üniversitesi’nce önemli bir toplantıyla kutlandı. (Oktay Akbal, Yazar Bir Tanıktır)<br/>-ncI eki yerine kullanmak"
     },
     {
         "SoruID": 3258038,
@@ -1077,7 +1077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Matematikte çarpma işlemi işareti olarak nokta kullanılır.<br/>2 . 3 = 6<br>Matematikte çarpma işlemi işareti olarak kullanılır."
+        "Aciklama": "Matematikte çarpma işlemi işareti olarak nokta kullanılır.<br/>2 . 3 = 6<br/>Matematikte çarpma işlemi işareti olarak kullanılır."
     },
     {
         "SoruID": 3258039,
@@ -1157,7 +1157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "2. Cümlede özellikle vurgulanan unsurlar tırnak içinde verilebilir.<br/>Nitekim, aklın ilk kez Batı’da pırıl pırıl göründüğü Eski Yunan çağında, “akıl” anlamına gelen “logos” sözcüğü olanca kuşatımıyla, aynı zamanda “dil” anlamına gelir.<br/>(Nermi Uygur, “İçi Dışıyla Batı’nın Kültür Dünyası”)<br>Tırnak işareti"
+        "Aciklama": "2. Cümlede özellikle vurgulanan unsurlar tırnak içinde verilebilir.<br/>Nitekim, aklın ilk kez Batı’da pırıl pırıl göründüğü Eski Yunan çağında, “akıl” anlamına gelen “logos” sözcüğü olanca kuşatımıyla, aynı zamanda “dil” anlamına gelir.<br/>(Nermi Uygur, “İçi Dışıyla Batı’nın Kültür Dünyası”)<br/>Tırnak işareti"
     },
     {
         "SoruID": 3258043,
@@ -1177,7 +1177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilimsel yazılarda kaynakça yazımında yay ayraç kullanılır.<br>Saat ve saniyeyi ayırmada eğik çizgi kullanılmaz."
+        "Aciklama": "Bilimsel yazılarda kaynakça yazımında yay ayraç kullanılır.<br/>Saat ve saniyeyi ayırmada eğik çizgi kullanılmaz."
     },
     {
         "SoruID": 3258045,
@@ -1217,7 +1217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazık oldu aslan gibi delikanlıya, billâhi... Çok yazık oldu! (Sabahattin Ali, Kuyucaklı Yusuf)<br>Ünlem"
+        "Aciklama": "Yazık oldu aslan gibi delikanlıya, billâhi... Çok yazık oldu! (Sabahattin Ali, Kuyucaklı Yusuf)<br/>Ünlem"
     },
     {
         "SoruID": 3258048,
@@ -1237,7 +1237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kelimeleri hecelerine ayırırken kullanılır.<br/>ge-li-yo-rum, sa-tı-cı-lar-da-ki gibi<br>Kelimeleri hecelerine ayırmak"
+        "Aciklama": "Kelimeleri hecelerine ayırırken kullanılır.<br/>ge-li-yo-rum, sa-tı-cı-lar-da-ki gibi<br/>Kelimeleri hecelerine ayırmak"
     },
     {
         "SoruID": 3258088,
@@ -1457,7 +1457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Noktalama işaretlerinin kullanım amaçlarını açıklayabileceksiniz.<br>II. ve III. kullanım virgülün doğru kullanımıdır ancak I. kullanım iki noktanın kullanımını açıklamaktadır."
+        "Aciklama": "Noktalama işaretlerinin kullanım amaçlarını açıklayabileceksiniz.<br/>II. ve III. kullanım virgülün doğru kullanımıdır ancak I. kullanım iki noktanın kullanımını açıklamaktadır."
     },
     {
         "SoruID": 3258245,
@@ -1477,7 +1477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Noktalama işaretlerinin kullanım amaçlarını açıklayabileceksiniz.<br>İki nokta kullanılmıştır."
+        "Aciklama": "Noktalama işaretlerinin kullanım amaçlarını açıklayabileceksiniz.<br/>İki nokta kullanılmıştır."
     },
     {
         "SoruID": 3258246,
@@ -1497,7 +1497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Noktalama işaretlerinin kullanım amaçlarını açıklayabileceksiniz.<br>Üç seçenekte ünlem işaretinin kullanıldığı durumlardır.<br/>1.Bunlar beni delirtecekler yahu!<br/>2. Ordular! İlk hedefiniz Akdeniz’dir, ileri!<br/>3. Doğru! Bence de halkın dili yazarlarımızın dilinden daha zengindir, hele edebiyat<br/>türüne giren eserler için."
+        "Aciklama": "Noktalama işaretlerinin kullanım amaçlarını açıklayabileceksiniz.<br/>Üç seçenekte ünlem işaretinin kullanıldığı durumlardır.<br/>1.Bunlar beni delirtecekler yahu!<br/>2. Ordular! İlk hedefiniz Akdeniz’dir, ileri!<br/>3. Doğru! Bence de halkın dili yazarlarımızın dilinden daha zengindir, hele edebiyat<br/>türüne giren eserler için."
     },
     {
         "SoruID": 3258599,

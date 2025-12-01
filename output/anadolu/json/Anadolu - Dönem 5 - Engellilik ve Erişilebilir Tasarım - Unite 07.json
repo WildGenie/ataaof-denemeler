@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görme yetersizliği olan öğrencilere matematik derslerinde kullanabilmeleri için erişilebilir matematik araçları<br/>hazırlanmıştır. Küptaş, küptaş kasa ve abaküs kullanılarak işlemler yapılabilir, Braille cetvel, gönye, iletki ile öğrencilerin ölçüm yapmaları sağlanabilir, rulet ve özel hazırlanmış pergelle şekilleri çizmeleri sağlanabilir.<br>Hepsi"
+        "Aciklama": "Görme yetersizliği olan öğrencilere matematik derslerinde kullanabilmeleri için erişilebilir matematik araçları<br/>hazırlanmıştır. Küptaş, küptaş kasa ve abaküs kullanılarak işlemler yapılabilir, Braille cetvel, gönye, iletki ile öğrencilerin ölçüm yapmaları sağlanabilir, rulet ve özel hazırlanmış pergelle şekilleri çizmeleri sağlanabilir.<br/>Hepsi"
     },
     {
         "SoruID": 3863124,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yemek yaparken parmakların kesilmesini engelleyen bir aparat tasarlanması herkesin kullanabileceği,<br/>işlevsel bir tasarımdır. Sıvı seviye gösterge cihazı (Gösterge kupa ya da bardağın kenarına yerleştirilir, bip sesi<br/>çıkana kadar sıvı dökülür.) gibi tasarımlar erişilebilir tasarımlardandır. Ölçü kapları herkes için görselliği<br/>de (Saydam yüzey üzerinde şekiller ve yazıları görmek zordur.) artırılarak dokunsal, sesli olarak erişilebilir<br/>şekilde tasarlanabilir. Depolama alanlarının düzenlenmesi, baharat kapları gibi mutfak düzenlemelerinin<br/>üzerine yapıştırılacak bir barkod ile telefonunu yaklaştırdığında sesli olarak dinleyebileceği ve dokunsal<br/>olarak ayırt etmeyi kolaylaştıracak düzenlemeler tasarlanabilir. Alışveriş yaparken destekleyici teknolojilerde açıklanan Seeing AI gibi yazılım programları erişilebilirliği sağlayacaktır ve ev içi ortamlar için de kişilere kolaylık sağlayacak tasarımlar geliştirilebilir. Görünürlüğü kolaylaştıracak bir tarafı açık renkte diğer<br/>tarafı<br>Hepsi"
+        "Aciklama": "Yemek yaparken parmakların kesilmesini engelleyen bir aparat tasarlanması herkesin kullanabileceği,<br/>işlevsel bir tasarımdır. Sıvı seviye gösterge cihazı (Gösterge kupa ya da bardağın kenarına yerleştirilir, bip sesi<br/>çıkana kadar sıvı dökülür.) gibi tasarımlar erişilebilir tasarımlardandır. Ölçü kapları herkes için görselliği<br/>de (Saydam yüzey üzerinde şekiller ve yazıları görmek zordur.) artırılarak dokunsal, sesli olarak erişilebilir<br/>şekilde tasarlanabilir. Depolama alanlarının düzenlenmesi, baharat kapları gibi mutfak düzenlemelerinin<br/>üzerine yapıştırılacak bir barkod ile telefonunu yaklaştırdığında sesli olarak dinleyebileceği ve dokunsal<br/>olarak ayırt etmeyi kolaylaştıracak düzenlemeler tasarlanabilir. Alışveriş yaparken destekleyici teknolojilerde açıklanan Seeing AI gibi yazılım programları erişilebilirliği sağlayacaktır ve ev içi ortamlar için de kişilere kolaylık sağlayacak tasarımlar geliştirilebilir. Görünürlüğü kolaylaştıracak bir tarafı açık renkte diğer<br/>tarafı<br/>Hepsi"
     },
     {
         "SoruID": 3863131,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görme yetersizliği olan çocukların duyularını geliştirmeye yönelik çeşitli çalışmalar yapılmaktadır.<br/>Görmesi sınırlı ya da göremeyen çocukların dokunsal, işitsel, kinestetik, koklama duyularını destekleyecek<br/>tasarımların üretilmesi büyük önem taşımaktadır. Az gören çocukların da görme becerilerini ve diğer duyularını destekleyecek tasarımların üretilmesi gerekmektedir. Bu tasarımlar, çocukların duyularının gelişimini<br/>desteklemenin yanı sıra bilişsel, sosyal, dil ve psiko-motor gelişimlerini de desteklemektedir.<br>Hepsi"
+        "Aciklama": "Görme yetersizliği olan çocukların duyularını geliştirmeye yönelik çeşitli çalışmalar yapılmaktadır.<br/>Görmesi sınırlı ya da göremeyen çocukların dokunsal, işitsel, kinestetik, koklama duyularını destekleyecek<br/>tasarımların üretilmesi büyük önem taşımaktadır. Az gören çocukların da görme becerilerini ve diğer duyularını destekleyecek tasarımların üretilmesi gerekmektedir. Bu tasarımlar, çocukların duyularının gelişimini<br/>desteklemenin yanı sıra bilişsel, sosyal, dil ve psiko-motor gelişimlerini de desteklemektedir.<br/>Hepsi"
     },
     {
         "SoruID": 3863206,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Retinitis pigmentosa</strong>, periferik görme kaybı (tünel görüş) ve gece körlüğü ile karakterizedir.<br data-end=\"771\" data-start=\"768\"/> Glokom da periferik kayba yol açabilir ancak tipik olarak ilerleyici basınç hasarına bağlıdır ve gece körlüğü olmaz."
+        "Aciklama": "<strong>Retinitis pigmentosa</strong>, periferik görme kaybı (tünel görüş) ve gece körlüğü ile karakterizedir.<br/>Glokom da periferik kayba yol açabilir ancak tipik olarak ilerleyici basınç hasarına bağlıdır ve gece körlüğü olmaz."
     },
     {
         "SoruID": 3863298,
@@ -542,7 +542,7 @@
     {
         "SoruID": 3863302,
         "SoruMetni": "Herkesin gereksiz çaba, özel muamele ve ayrı çözümlere gerek kalmadan kolayca kullanabileceği, duygusal açıdan erişilebilir, seçim özgürlüğü sunan, eşit katılım sağlayan, farklılıkları kapsayan, anlaşılır, güvenli ve nitelikli çevreyi hedefleyen tasarım yaklaşımı aşağıdakilerden hangisidir?",
-        "A": "Bağımsız yaşam tasarımı<br data-end=\"502\" data-start=\"499\"/>",
+        "A": "Bağımsız yaşam tasarımı",
         "B": "Özel eğitim destek tasarımı",
         "C": "Erişilebilir tasarım",
         "D": "Uyarlanmış tasarım",

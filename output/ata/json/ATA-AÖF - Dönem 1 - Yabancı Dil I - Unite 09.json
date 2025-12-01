@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 116666,
-        "SoruMetni": "A: What have you been doing? <br/>B: _____________________ .<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> </br>",
+        "SoruMetni": "A: What have you been doing? <br/>B: _____________________ .<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "I have been studying",
         "B": "I don’t have an exam",
         "C": "She has been at home",
@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 116826,
-        "SoruMetni": "A: Have you cleaned the shower yet?<br/>B: I've ............................... done it. I did it two hours ago.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "A: Have you cleaned the shower yet?<br/>B: I've ............................... done it. I did it two hours ago.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "yesterday",
         "B": "still",
         "C": "until",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 143406,
-        "SoruMetni": "A: ............. have you been working?<br/>B: For two hours.<br/><strong>Cümlede boş bırakılan yere aşağıdailerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "A: ............. have you been working?<br/>B: For two hours.<br/><strong>Cümlede boş bırakılan yere aşağıdailerden hangisi getirilmelidir?</strong>",
         "A": "How",
         "B": "How long",
         "C": "How much",
@@ -241,7 +241,7 @@
     },
     {
         "SoruID": 157353,
-        "SoruMetni": "I ....................... staying at a hotel for five days.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong><br/></br>",
+        "SoruMetni": "I ....................... staying at a hotel for five days.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>",
         "A": "has",
         "B": "is having",
         "C": "has been",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 157354,
-        "SoruMetni": "My sister ....................... sleeping since 8 pm last night.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong><br/></br>",
+        "SoruMetni": "My sister ....................... sleeping since 8 pm last night.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>",
         "A": "have",
         "B": "was",
         "C": "is",
@@ -401,7 +401,7 @@
     },
     {
         "SoruID": 157362,
-        "SoruMetni": "I have just ............ dinner. I am not hungry.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "I have just ............ dinner. I am not hungry.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "was eating",
         "B": "eaten",
         "C": "eat",
@@ -481,7 +481,7 @@
     },
     {
         "SoruID": 334601,
-        "SoruMetni": "Jane: When did you graduate from university?<br/>Alice: I graduated in 2006. <br/>Jane: ........................................ ?<br/>Alice: Yes, I have. <br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br></br></br>",
+        "SoruMetni": "Jane: When did you graduate from university?<br/>Alice: I graduated in 2006. <br/>Jane: ........................................ ?<br/>Alice: Yes, I have. <br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Have you been working here since then",
         "B": "How long have you worked here",
         "C": "Did you work here after school",
@@ -521,7 +521,7 @@
     },
     {
         "SoruID": 398478,
-        "SoruMetni": "A: ................. have you been living in London? <br/>B: For five years.<br/><strong>Yukarıdaki konuşmayı hangisi doğru şekilde tamamlar?</strong><br/></br></br>",
+        "SoruMetni": "A: ................. have you been living in London? <br/>B: For five years.<br/><strong>Yukarıdaki konuşmayı hangisi doğru şekilde tamamlar?</strong>",
         "A": "What about",
         "B": "What time",
         "C": "How long",

@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgigrafiler, kapsamları ve işlevleri dikkate alınarak sınıflandırılmaktadır. Bunun yanı sıra, bilgigrafilerin çeşitli sunum biçimleri, okuyucuların algısal kapasitesi, okuma alışkanlıkları<br/>ve zihinsel işleme farklılıklarına bağlı olarak okuma deneyimlerini etkileyebilmektedir.<br>Kullanılan araç gereçler"
+        "Aciklama": "Bilgigrafiler, kapsamları ve işlevleri dikkate alınarak sınıflandırılmaktadır. Bunun yanı sıra, bilgigrafilerin çeşitli sunum biçimleri, okuyucuların algısal kapasitesi, okuma alışkanlıkları<br/>ve zihinsel işleme farklılıklarına bağlı olarak okuma deneyimlerini etkileyebilmektedir.<br/>Kullanılan araç gereçler"
     },
     {
         "SoruID": 3763343,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bunlar İstatistiksel Bilgigrafiler, Öğretici Bilgigrafiler, Zaman Çizelgesi Bilgigrafileri, Süreç Bilgigrafileri, Anatomi Bilgigrafileri, Akış Şeması Bilgigrafileri, Coğrafi Bilgi ve Konum Bilgigrafileri, Karşılaştırma bilgigrafileri ve Hiyerarşi Bilgigrafileridir.<br>Tasarım Bilgigrafileri"
+        "Aciklama": "Bunlar İstatistiksel Bilgigrafiler, Öğretici Bilgigrafiler, Zaman Çizelgesi Bilgigrafileri, Süreç Bilgigrafileri, Anatomi Bilgigrafileri, Akış Şeması Bilgigrafileri, Coğrafi Bilgi ve Konum Bilgigrafileri, Karşılaştırma bilgigrafileri ve Hiyerarşi Bilgigrafileridir.<br/>Tasarım Bilgigrafileri"
     },
     {
         "SoruID": 3763344,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu bilgigrafiler, izleyicinin baştan sona takip etmesi kolay olan sezgisel bir düzen ile her adımda veya aşamada neler olduğunu gösterir. İyi tasarlanmış bir süreç bilgigrafisi, paylaşılan konsepti daha anlaşılır hâle getirmektedir.<br>Süreç Bilgigrafileri"
+        "Aciklama": "Bu bilgigrafiler, izleyicinin baştan sona takip etmesi kolay olan sezgisel bir düzen ile her adımda veya aşamada neler olduğunu gösterir. İyi tasarlanmış bir süreç bilgigrafisi, paylaşılan konsepti daha anlaşılır hâle getirmektedir.<br/>Süreç Bilgigrafileri"
     },
     {
         "SoruID": 3763345,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Edward Tufte, bilgigrafinin sunumunda 5 farklı anlatımdan bahsetmektedir. Bu anlatımları,<br/>doku ve renk kullanarak anlatım, parçalara ayırarak anlatım, mikro-makro okuma, zaman ve mekân<br/>kullanarak anlatım ve küçük çoğaltmalar olarak başlıklandırmaktadır.<br>Özet kullanarak anlatım"
+        "Aciklama": "Edward Tufte, bilgigrafinin sunumunda 5 farklı anlatımdan bahsetmektedir. Bu anlatımları,<br/>doku ve renk kullanarak anlatım, parçalara ayırarak anlatım, mikro-makro okuma, zaman ve mekân<br/>kullanarak anlatım ve küçük çoğaltmalar olarak başlıklandırmaktadır.<br/>Özet kullanarak anlatım"
     },
     {
         "SoruID": 3763346,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Mikro/Makro Okuma” kavramını daha iyi anlayabilmek adına, <strong>örnek olarak bir işletmenin aylık satış </strong><strong>raporu</strong> ele alınabilir.<br>Mikro-makro okuma anlatım"
+        "Aciklama": "“Mikro/Makro Okuma” kavramını daha iyi anlayabilmek adına, <strong>örnek olarak bir işletmenin aylık satış </strong><strong>raporu</strong> ele alınabilir.<br/>Mikro-makro okuma anlatım"
     },
     {
         "SoruID": 3763347,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgigrafi tasarımcıları için t<strong>emelde altı farklı bilgigrafi medya formatı</strong> bulunmaktadır. <em>Sayfanın devamını 71.sayfadan sonra okuyunuz...</em><br>Çizilebilir."
+        "Aciklama": "Bilgigrafi tasarımcıları için t<strong>emelde altı farklı bilgigrafi medya formatı</strong> bulunmaktadır. <em>Sayfanın devamını 71.sayfadan sonra okuyunuz...</em><br/>Çizilebilir."
     },
     {
         "SoruID": 3763348,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu tür bilgigrafiler, sabit bir yapıya sahiptir...bilgigrafi tasarımın temel ve yaygın biçemlerinden birini oluşturur. bilgigrafiler ayrıca çevrimiçi paylaşması en kolay formattır. Sayfa 71 bkz.<br>Daha fazla içerikle etkileşime girmelerini sağlar."
+        "Aciklama": "Bu tür bilgigrafiler, sabit bir yapıya sahiptir...bilgigrafi tasarımın temel ve yaygın biçemlerinden birini oluşturur. bilgigrafiler ayrıca çevrimiçi paylaşması en kolay formattır. Sayfa 71 bkz.<br/>Daha fazla içerikle etkileşime girmelerini sağlar."
     },
     {
         "SoruID": 3763349,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Verilerin ve bilgilerin hareketli grafikler, geçişler ve animasyonlarla iletilmesini sağlayan bilgigrafi<br/>türleridir. Bu tür bilgigrafiler, verilerin dinamik bir şekilde sunulmasına olanak tanır ve izleyicilerin<br/>bilgilere görsel olarak daha etkili bir şekilde odaklanmalarına yardımcı olur.<br>Hareketlendirilmiş."
+        "Aciklama": "Verilerin ve bilgilerin hareketli grafikler, geçişler ve animasyonlarla iletilmesini sağlayan bilgigrafi<br/>türleridir. Bu tür bilgigrafiler, verilerin dinamik bir şekilde sunulmasına olanak tanır ve izleyicilerin<br/>bilgilere görsel olarak daha etkili bir şekilde odaklanmalarına yardımcı olur.<br/>Hareketlendirilmiş."
     },
     {
         "SoruID": 3763350,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yakınlaştırılabilir bilgigrafiler, kullanıcılara daha fazla ayrıntıya inme veya belirli bir konuya derinlemesine bakma imkânı sunan etkileşimli bilgigrafilerdir...kullanıcıların bilgileri daha fazla detayla keşfetmelerine olanak tanıyan bir yakınlaştırma işlevine sahip olmalarıdır...kullanıcıların daha fazla içerikle etkileşime girmelerini sağlar. Kendi hızlarında, kendi ilgi alanlarına göre bilgiye dalma fırsatı sunar. Sayfa 72 bkz.<br>Genellikle daha büyük ve karmaşık veri setleri kullanılır."
+        "Aciklama": "Yakınlaştırılabilir bilgigrafiler, kullanıcılara daha fazla ayrıntıya inme veya belirli bir konuya derinlemesine bakma imkânı sunan etkileşimli bilgigrafilerdir...kullanıcıların bilgileri daha fazla detayla keşfetmelerine olanak tanıyan bir yakınlaştırma işlevine sahip olmalarıdır...kullanıcıların daha fazla içerikle etkileşime girmelerini sağlar. Kendi hızlarında, kendi ilgi alanlarına göre bilgiye dalma fırsatı sunar. Sayfa 72 bkz.<br/>Genellikle daha büyük ve karmaşık veri setleri kullanılır."
     },
     {
         "SoruID": 3763351,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu tür tasarımların popülerliği, izleyicileri bilgiyle daha uzun süre meşgul etme yeteneği nedeniyle yüksektir, çünkü statik bilgigrafilere göre daha fazla etkileşime olanak tanırlar.<br>Etkileşimli"
+        "Aciklama": "Bu tür tasarımların popülerliği, izleyicileri bilgiyle daha uzun süre meşgul etme yeteneği nedeniyle yüksektir, çünkü statik bilgigrafilere göre daha fazla etkileşime olanak tanırlar.<br/>Etkileşimli"
     },
     {
         "SoruID": 3763569,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgigrafiler, veri görselleştirme araçları olarak çeşitli kapsamların görsel olarak ifade edilmesi için farklı biçimlerde ve sunum ortamlarında kullanılabilmektedirler. Temel olarak, bilgigrafiler, kapsamları ve işlevleri dikkate alınarak sınıflandırılmaktadır. <br/>Bunun yanı sıra, bilgigrafilerin çeşitli sunum biçimleri, okuyucuların algısal kapasitesi, okuma alışkanlıkları ve zihinsel işleme farklılıklarına bağlı olarak <br/>okuma deneyimlerini etkileyebilmektedir. Teknolojik gelişmeler ve kullanım alışkanlıklarındaki değişimler, bilgigrafilerin sunulduğu ortamın, işlevi ve <br/>algılanabilirliği açısından önemli bir faktördür.<br>I-II-III-IV"
+        "Aciklama": "Bilgigrafiler, veri görselleştirme araçları olarak çeşitli kapsamların görsel olarak ifade edilmesi için farklı biçimlerde ve sunum ortamlarında kullanılabilmektedirler. Temel olarak, bilgigrafiler, kapsamları ve işlevleri dikkate alınarak sınıflandırılmaktadır. <br/>Bunun yanı sıra, bilgigrafilerin çeşitli sunum biçimleri, okuyucuların algısal kapasitesi, okuma alışkanlıkları ve zihinsel işleme farklılıklarına bağlı olarak <br/>okuma deneyimlerini etkileyebilmektedir. Teknolojik gelişmeler ve kullanım alışkanlıklarındaki değişimler, bilgigrafilerin sunulduğu ortamın, işlevi ve <br/>algılanabilirliği açısından önemli bir faktördür.<br/>I-II-III-IV"
     },
     {
         "SoruID": 3763570,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kapsam ve işlevine göre sınıflandırıldığında, bilgigrafiler 9 gruba ayrılabilmektedir. Bunlar İstatistiksel Bilgigrafiler, Öğretici Bilgigrafiler, Zaman Çizelgesi Bilgigrafileri, Süreç Bilgigrafileri, Anatomi Bilgigrafileri, Akış Şeması Bilgigrafileri, Coğrafi Bilgi ve Konum Bilgigrafileri, Karşılaştırma bilgigrafileri ve Hiyerarşi Bilgigrafileridir.<br/>İstatistik, büyük miktarda sayısal verinin incelenmesi sonucu elde edilen bir olgu veya veri parçası olarak tanımlanmaktadır. Bu verilerin karmaşık bir yapıya sahip olması, görselleştirilmesi için istatistiksel bilgigrafi kullanımını gerektirebilmektedir. <br/>İstatistiksel bir bilgigrafi, verilere odaklanılmasına olanak sağlayarak verilerin arkasındaki hikayenin anlatılmasına yardımcı olabilir. Görsel düzenlemeler ise verilerin analiz edilmesi sırasında ortaya çıkan yapıların anlaşılmasına ve daha kolay iletilmesine yardımcı olmaktadır.</br>"
+        "Aciklama": "Kapsam ve işlevine göre sınıflandırıldığında, bilgigrafiler 9 gruba ayrılabilmektedir. Bunlar İstatistiksel Bilgigrafiler, Öğretici Bilgigrafiler, Zaman Çizelgesi Bilgigrafileri, Süreç Bilgigrafileri, Anatomi Bilgigrafileri, Akış Şeması Bilgigrafileri, Coğrafi Bilgi ve Konum Bilgigrafileri, Karşılaştırma bilgigrafileri ve Hiyerarşi Bilgigrafileridir.<br/>İstatistik, büyük miktarda sayısal verinin incelenmesi sonucu elde edilen bir olgu veya veri parçası olarak tanımlanmaktadır. Bu verilerin karmaşık bir yapıya sahip olması, görselleştirilmesi için istatistiksel bilgigrafi kullanımını gerektirebilmektedir. <br/>İstatistiksel bir bilgigrafi, verilere odaklanılmasına olanak sağlayarak verilerin arkasındaki hikayenin anlatılmasına yardımcı olabilir. Görsel düzenlemeler ise verilerin analiz edilmesi sırasında ortaya çıkan yapıların anlaşılmasına ve daha kolay iletilmesine yardımcı olmaktadır."
     },
     {
         "SoruID": 3763572,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgilendirici bir bilgigrafi, görseller yerine esas olarak metinlerden veya kelimelerden oluşur ve özellikle SWOT analizi gibi konularda, konuya hızlı bir <br/>şekilde aşinalık kazanmak için kullanılabilir. Bu kategori, geniş bir yelpazede özetleyici metin tabanlı bilgi grafikleri, son derece görsel bilgi parçaları ve bunların arasındaki her şeyi kapsar. Kavramsal konuları basitleştirmek için sıklıkla kullanılırlar.<br>Öğretici bilgigrafi"
+        "Aciklama": "Bilgilendirici bir bilgigrafi, görseller yerine esas olarak metinlerden veya kelimelerden oluşur ve özellikle SWOT analizi gibi konularda, konuya hızlı bir <br/>şekilde aşinalık kazanmak için kullanılabilir. Bu kategori, geniş bir yelpazede özetleyici metin tabanlı bilgi grafikleri, son derece görsel bilgi parçaları ve bunların arasındaki her şeyi kapsar. Kavramsal konuları basitleştirmek için sıklıkla kullanılırlar.<br/>Öğretici bilgigrafi"
     },
     {
         "SoruID": 3763573,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir zaman çizelgesi, bir konunun kronolojik olay sırasını görsel olarak sunmak için kullanılan etkili bir bilgigrafi türüdür. Bu tür bir bilgigrafi, okuyucuların bir konunun tarihini kolayca takipnetmelerine olanak tanır. Zaman çizelgesi bilgigrafisi, birçok alanda kullanılmaktadır ve finansal raporlarda, stratejik raporlarda ve sunumlarda <br/>en yaygın formatlardan biridir. Ayrıca, bir fikrin, projenin veya hikayenin nasıl ortaya çıktığını göstermek için de kullanılabilir. Zaman çizelgesi bilgigrafisi, bir etkinlik için planlama yapmak için kullanılabilir. Etkinlik planlamacıları, bir etkinlik <br/>için bir zaman çizelgesi hazırlayarak, etkinlik takvimini görselleştirebilirler. Bu, katılımcıların etkinlik hakkında daha iyi bir anlayışa sahip olmalarına ve etkinlikle ilgili tarihsel bilgileri daha kolay hatırlamalarına yardımcı olabilir.<br/>Zaman çizelgesi bilgigrafisi, bir dizi olayı vurgulamak için de tercih edilebilir. Örneğin, bir spor takımının geçmişini göstermek için kullanılabilir. Bu, takım<br>Zaman çizelgesi bilgigrafileri"
+        "Aciklama": "Bir zaman çizelgesi, bir konunun kronolojik olay sırasını görsel olarak sunmak için kullanılan etkili bir bilgigrafi türüdür. Bu tür bir bilgigrafi, okuyucuların bir konunun tarihini kolayca takipnetmelerine olanak tanır. Zaman çizelgesi bilgigrafisi, birçok alanda kullanılmaktadır ve finansal raporlarda, stratejik raporlarda ve sunumlarda <br/>en yaygın formatlardan biridir. Ayrıca, bir fikrin, projenin veya hikayenin nasıl ortaya çıktığını göstermek için de kullanılabilir. Zaman çizelgesi bilgigrafisi, bir etkinlik için planlama yapmak için kullanılabilir. Etkinlik planlamacıları, bir etkinlik <br/>için bir zaman çizelgesi hazırlayarak, etkinlik takvimini görselleştirebilirler. Bu, katılımcıların etkinlik hakkında daha iyi bir anlayışa sahip olmalarına ve etkinlikle ilgili tarihsel bilgileri daha kolay hatırlamalarına yardımcı olabilir.<br/>Zaman çizelgesi bilgigrafisi, bir dizi olayı vurgulamak için de tercih edilebilir. Örneğin, bir spor takımının geçmişini göstermek için kullanılabilir. Bu, takım<br/>Zaman çizelgesi bilgigrafileri"
     },
     {
         "SoruID": 3763574,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir konuyu öncelik sırasına göre sunan bilgigrafiler, hiyerarşi bilgigrafileri kategorisine dâhil edilebilmektedir. Bu tür grafikler genellikle piramit veya akış şeması biçiminde düzenlenir ve önemli bilgilerin hızlı bir şekilde fark edilerek anlaşılmasını sağlarlar.<br/>Maslow’un İhtiyaçlar Hiyerarşisi, hiyerarşik bilgigrafi türüne örnek olarak verilebilir. Bu piramitte, insanların en temel ihtiyaçları piramidin alt kısmında bulunurken, en üstteki bölümde ise en üst düzey ihtiyaçlar yer almaktadır. Bu görsel, insan ihtiyaçlarının öncelik sırasını ve bu ihtiyaçların birbirleriyle nasıl ilişkilendiğini göstermektedir.<br/>Hiyerarşi bilgigrafileri, bilgileri önceden tanımlanmış seviyelerde düzenleyerek kullanılır. Bu bilgigrafi türünü kullanarak bilginin farklı seviyelerde nasıl düzenlendiği ve bu seviyelerin nasıl ilişkili olduğu açıklanabilir. Örneğin bir şirketin organizasyon yapısını göstermek için bu tür bilgigrafiler kullanılabilir. Bu <br/>görselleştirmede, CEO en üst düzeyde yer alırken, alt sev</br><br>Hiyerarşi Bilgigrafileri"
+        "Aciklama": "Bir konuyu öncelik sırasına göre sunan bilgigrafiler, hiyerarşi bilgigrafileri kategorisine dâhil edilebilmektedir. Bu tür grafikler genellikle piramit veya akış şeması biçiminde düzenlenir ve önemli bilgilerin hızlı bir şekilde fark edilerek anlaşılmasını sağlarlar.<br/>Maslow’un İhtiyaçlar Hiyerarşisi, hiyerarşik bilgigrafi türüne örnek olarak verilebilir. Bu piramitte, insanların en temel ihtiyaçları piramidin alt kısmında bulunurken, en üstteki bölümde ise en üst düzey ihtiyaçlar yer almaktadır. Bu görsel, insan ihtiyaçlarının öncelik sırasını ve bu ihtiyaçların birbirleriyle nasıl ilişkilendiğini göstermektedir.<br/>Hiyerarşi bilgigrafileri, bilgileri önceden tanımlanmış seviyelerde düzenleyerek kullanılır. Bu bilgigrafi türünü kullanarak bilginin farklı seviyelerde nasıl düzenlendiği ve bu seviyelerin nasıl ilişkili olduğu açıklanabilir. Örneğin bir şirketin organizasyon yapısını göstermek için bu tür bilgigrafiler kullanılabilir. Bu <br/>görselleştirmede, CEO en üst düzeyde yer alırken, alt sev<br/>Hiyerarşi Bilgigrafileri"
     },
     {
         "SoruID": 3763575,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Veri görselleştirme ve bilgigrafi alanında tanınmış bir Amerikalı istatistikçi, bilgisayar bilimci, yazar ve profesörü olan Edward Tufte, bilgigrafinin sunumunda 5 farklı anlatımdan bahsetmektedir. Bu anlatımları, doku ve renk kullanarak anlatım, parçalara ayırarak anlatım, mikro-makro okuma, zaman ve mekân kullanarak anlatım ve <strong>küçük çoğaltmalar olarak</strong> başlıklandırmaktadır<br>Büyük çoğaltmalar olarak anlatım"
+        "Aciklama": "Veri görselleştirme ve bilgigrafi alanında tanınmış bir Amerikalı istatistikçi, bilgisayar bilimci, yazar ve profesörü olan Edward Tufte, bilgigrafinin sunumunda 5 farklı anlatımdan bahsetmektedir. Bu anlatımları, doku ve renk kullanarak anlatım, parçalara ayırarak anlatım, mikro-makro okuma, zaman ve mekân kullanarak anlatım ve <strong>küçük çoğaltmalar olarak</strong> başlıklandırmaktadır<br/>Büyük çoğaltmalar olarak anlatım"
     },
     {
         "SoruID": 3763577,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“Mikro/Makro Okuma” kavramını daha iyi anlayabilmek adına, örnek olarak bir işletmenin aylık satış raporu ele alınabilir. Bu rapor, işletmenin satış verilerini içermekte olup her iki okuma seviyesini de açıklamak için kullanılabilir. Mikro okuma seviyesi, raporun detaylarına odaklanmayı gerektirir. Bu, her günün satış rakamlarını incelemek, belirli ürünlerin günlük performansını değerlendirmek veya özel müşteri segmentlerinin satın alma davranışlarını analiz etmek gibi detaylı incelemeleri içerir. Örneğin, hangi ürünün hangi günlerde daha fazla talep gördüğünü veya belirli bir müşteri grubunun en yüksek satın alma potansiyeline sahip olduğunu belirlemek için mikro okuma seviyesi kullanılabilir. Bu tür analizler, işletmenin günlük operasyonlarını iyileştirmek ve <strong>kısa vadeli stratejik kararlar almak için kritik öneme sahiptir.</strong> Makro okuma seviyesi ise, raporun bütününü ve genel yapısını anlamayı içerir. Bu, aylık veya yıllık toplam satışları incelemeyi içerebilir. Bu düzeyde, işletmenin gene<br>Uzun vadeli stratejik kararlar almayı gerektirir"
+        "Aciklama": "“Mikro/Makro Okuma” kavramını daha iyi anlayabilmek adına, örnek olarak bir işletmenin aylık satış raporu ele alınabilir. Bu rapor, işletmenin satış verilerini içermekte olup her iki okuma seviyesini de açıklamak için kullanılabilir. Mikro okuma seviyesi, raporun detaylarına odaklanmayı gerektirir. Bu, her günün satış rakamlarını incelemek, belirli ürünlerin günlük performansını değerlendirmek veya özel müşteri segmentlerinin satın alma davranışlarını analiz etmek gibi detaylı incelemeleri içerir. Örneğin, hangi ürünün hangi günlerde daha fazla talep gördüğünü veya belirli bir müşteri grubunun en yüksek satın alma potansiyeline sahip olduğunu belirlemek için mikro okuma seviyesi kullanılabilir. Bu tür analizler, işletmenin günlük operasyonlarını iyileştirmek ve <strong>kısa vadeli stratejik kararlar almak için kritik öneme sahiptir.</strong> Makro okuma seviyesi ise, raporun bütününü ve genel yapısını anlamayı içerir. Bu, aylık veya yıllık toplam satışları incelemeyi içerebilir. Bu düzeyde, işletmenin gene<br/>Uzun vadeli stratejik kararlar almayı gerektirir"
     },
     {
         "SoruID": 3763578,
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Verilerin ve bilgilerin hareketli grafikler, geçişler ve animasyonlarla iletilmesini sağlayan bilgigrafi türleri verilerin dinamik bir şekilde sunulmasına olanak tanır ve izleyicilerin bilgilere görsel olarak daha etkili bir şekilde odaklanmalarına yardımcı olur.<br/>Hareketlendirilmiş bilgigrafiler, bir hikâye anlatma veya belirli bir süreci görselleştirme amacı taşıyabilir. Örneğin, bir finans bilgigrafileri, hisse <br/>senedi fiyatlarının zaman içindeki değişimini bir çizgi grafiği üzerinde animasyonla gösterebilir. Bu, izleyicilere fiyat hareketlerini daha iyi anlamalarına yardımcı olabilir.</br><br/>Bu tür bilgigrafiler, bilgiyi daha çarpıcı ve etkileyici bir şekilde sunmanın yanı sıra izleyicilerin ilgisini daha iyi çekme potansiyeline sahiptir. Ancak bu tür bilgigrafilerin tasarımı ve oluşturulması daha fazla zaman, beceri ve teknik bilgi gerektirebilir. Ayrıca, animasyonlu bilgigrafilerin aşırı kullanılması, izleyicilerin bilgiye odaklanmasını zorlaştırabilir, bu nedenle dengeli bir şekilde kulla<br>Hareketlendirilmiş bilgigrafilerinden"
+        "Aciklama": "Verilerin ve bilgilerin hareketli grafikler, geçişler ve animasyonlarla iletilmesini sağlayan bilgigrafi türleri verilerin dinamik bir şekilde sunulmasına olanak tanır ve izleyicilerin bilgilere görsel olarak daha etkili bir şekilde odaklanmalarına yardımcı olur.<br/>Hareketlendirilmiş bilgigrafiler, bir hikâye anlatma veya belirli bir süreci görselleştirme amacı taşıyabilir. Örneğin, bir finans bilgigrafileri, hisse <br/>senedi fiyatlarının zaman içindeki değişimini bir çizgi grafiği üzerinde animasyonla gösterebilir. Bu, izleyicilere fiyat hareketlerini daha iyi anlamalarına yardımcı olabilir.<br/>Bu tür bilgigrafiler, bilgiyi daha çarpıcı ve etkileyici bir şekilde sunmanın yanı sıra izleyicilerin ilgisini daha iyi çekme potansiyeline sahiptir. Ancak bu tür bilgigrafilerin tasarımı ve oluşturulması daha fazla zaman, beceri ve teknik bilgi gerektirebilir. Ayrıca, animasyonlu bilgigrafilerin aşırı kullanılması, izleyicilerin bilgiye odaklanmasını zorlaştırabilir, bu nedenle dengeli bir şekilde kulla<br/>Hareketlendirilmiş bilgigrafilerinden"
     }
 ]

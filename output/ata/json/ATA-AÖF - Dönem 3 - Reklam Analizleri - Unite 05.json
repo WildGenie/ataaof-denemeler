@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 166613,
-        "SoruMetni": "Yüksek bağlamlı kültürlerde ............. mesajlara, düşük bağlamlı kültürlerde ise ............ mesajlara önem verilmektedir.<br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangileri getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Yüksek bağlamlı kültürlerde ............. mesajlara, düşük bağlamlı kültürlerde ise ............ mesajlara önem verilmektedir.<br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangileri getirilmelidir?</strong>",
         "A": "Sözsüz - Sözlü",
         "B": "Yazılı - Görsel",
         "C": "Sözlü - İşitsel",
@@ -401,7 +401,7 @@
     },
     {
         "SoruID": 294794,
-        "SoruMetni": "I. Sözsüz iletişim süreklilik taşır.<br/>II. Sözsüz iletişim birden çok anlama sahiptir.<br/>III. Sözsüz iletişim gizli anlamlar iletme özelliğine sahiptir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri sözsüz iletişimin özelliklerindendir?</strong><br/></br></br></br>",
+        "SoruMetni": "I. Sözsüz iletişim süreklilik taşır.<br/>II. Sözsüz iletişim birden çok anlama sahiptir.<br/>III. Sözsüz iletişim gizli anlamlar iletme özelliğine sahiptir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri sözsüz iletişimin özelliklerindendir?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "II ve III",
@@ -481,7 +481,7 @@
     },
     {
         "SoruID": 327917,
-        "SoruMetni": "I. Tekrarlamak<br/>II. Kanıtlamak<br/>III. Yerine geçmek<br/>IV. Vurgulamak<br/><strong>Yukarıdakilerden hangisi ya da hangileri sözsüz iletişimin işlevlerindendir?</strong></br></br></br>",
+        "SoruMetni": "I. Tekrarlamak<br/>II. Kanıtlamak<br/>III. Yerine geçmek<br/>IV. Vurgulamak<br/><strong>Yukarıdakilerden hangisi ya da hangileri sözsüz iletişimin işlevlerindendir?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve III",

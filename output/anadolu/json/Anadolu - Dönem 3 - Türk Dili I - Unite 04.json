@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ar-1 eki addan eylem yapma ekidir.<br>kararmak"
+        "Aciklama": "Ar-1 eki addan eylem yapma ekidir.<br/>kararmak"
     },
     {
         "SoruID": 3892099,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "-(A)nAk eki eylemden ad yapma ekidir.<br>olanak"
+        "Aciklama": "-(A)nAk eki eylemden ad yapma ekidir.<br/>olanak"
     },
     {
         "SoruID": 3892100,
@@ -997,7 +997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçim Bilgisi ile İlgili Temel Kavramlar başlığı altındaki bilgileri gözden geçiriniz.<br>elmas-lar-ı-mız-ı <br/>gül-ler<br/>kelebek-ler <br/>suç-la-dı-lar<strong> biçiminde olmalıydı. E</strong> seçeneğinde ekler doğru ayrılmıştır."
+        "Aciklama": "Biçim Bilgisi ile İlgili Temel Kavramlar başlığı altındaki bilgileri gözden geçiriniz.<br/>elmas-lar-ı-mız-ı <br/>gül-ler<br/>kelebek-ler <br/>suç-la-dı-lar<strong> biçiminde olmalıydı. E</strong> seçeneğinde ekler doğru ayrılmıştır."
     },
     {
         "SoruID": 3892134,
@@ -1017,7 +1017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçim Bilgisi ile İlgili Temel Kavramlar başlığı altındaki bilgileri gözden geçiriniz.<br>balık-çı-lık<br/>gölge-si-n-den<br/>çiçek-çi-den<br/>bil-gi-siz"
+        "Aciklama": "Biçim Bilgisi ile İlgili Temel Kavramlar başlığı altındaki bilgileri gözden geçiriniz.<br/>balık-çı-lık<br/>gölge-si-n-den<br/>çiçek-çi-den<br/>bil-gi-siz"
     },
     {
         "SoruID": 3892135,
@@ -1037,7 +1037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin Ekleri başlığı altındaki bilgileri gözden geçiriniz.<br><br/>göz-lük-çü: İki yapım eki vardır."
+        "Aciklama": "Türkçenin Ekleri başlığı altındaki bilgileri gözden geçiriniz.<br/><br/>göz-lük-çü: İki yapım eki vardır."
     },
     {
         "SoruID": 3892136,
@@ -1057,7 +1057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin Ekleri başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2<br/>Soru yanıltıcı değil. Öğrenci bilgilerini gözden geçirmeli.<br/>su-lak<br/>su : kök (ad), -lak : addan ad türetme eki. Sözcük tek bir <strong>ek</strong> almıştır.<br/>Sözcüklerin köküne inilirken anlam ilişkisi gözetilir. Bu nedenle ‘bataklık’ sözcüğünün kökü ‘batak’tır. Öğrencinin düşüncesine göre i̇lerlesek bile öğrencinin yanlış yorumladığı görülebilir.<br/>bat-ak-lık<br/>bat: kök (eylem), -ak: eylemden ad türetme eki, -lık: addan ad türetme eki<br/>Ders kitabındaki bilgilerinizi gözden geçiririz."
+        "Aciklama": "Türkçenin Ekleri başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2<br/>Soru yanıltıcı değil. Öğrenci bilgilerini gözden geçirmeli.<br/>su-lak<br/>su : kök (ad), -lak : addan ad türetme eki. Sözcük tek bir <strong>ek</strong> almıştır.<br/>Sözcüklerin köküne inilirken anlam ilişkisi gözetilir. Bu nedenle ‘bataklık’ sözcüğünün kökü ‘batak’tır. Öğrencinin düşüncesine göre i̇lerlesek bile öğrencinin yanlış yorumladığı görülebilir.<br/>bat-ak-lık<br/>bat: kök (eylem), -ak: eylemden ad türetme eki, -lık: addan ad türetme eki<br/>Ders kitabındaki bilgilerinizi gözden geçiririz."
     },
     {
         "SoruID": 3892137,
@@ -1077,7 +1077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin Ekleri başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "Türkçenin Ekleri başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3892138,
@@ -1097,7 +1097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin Ekleri başlığı altındaki bilgileri gözden geçiriniz.<br>C seçeneği dışında bütün seçeneklerde \"kimin?\" sorusuna cevap veren bir öge vardır. \"parasını(kendi, onun), çocukluk yıllarını (kendi, onun), özgüvenimi (kendimin, benim), yaşamının (kendi, onun). Ancak C seçeneğinde kimin sorusuna cevap veren öge yoktur. hoşlanmam eyleminde -m eki iyelik değil kişi ekidir (I. tekil kişi eki) ve kim sorusuna cevap verir."
+        "Aciklama": "Türkçenin Ekleri başlığı altındaki bilgileri gözden geçiriniz.<br/>C seçeneği dışında bütün seçeneklerde \"kimin?\" sorusuna cevap veren bir öge vardır. \"parasını(kendi, onun), çocukluk yıllarını (kendi, onun), özgüvenimi (kendimin, benim), yaşamının (kendi, onun). Ancak C seçeneğinde kimin sorusuna cevap veren öge yoktur. hoşlanmam eyleminde -m eki iyelik değil kişi ekidir (I. tekil kişi eki) ve kim sorusuna cevap verir."
     },
     {
         "SoruID": 3892139,
@@ -1117,7 +1117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin Ekleri başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "Türkçenin Ekleri başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3892140,
@@ -1137,7 +1137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük Yapımı başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 3"
+        "Aciklama": "Sözcük Yapımı başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 3"
     },
     {
         "SoruID": 3892141,
@@ -1157,7 +1157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük Türleri başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 4"
+        "Aciklama": "Sözcük Türleri başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 4"
     },
     {
         "SoruID": 3892142,
@@ -1177,7 +1177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük Türleri başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 4"
+        "Aciklama": "Sözcük Türleri başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 4"
     },
     {
         "SoruID": 3892143,
@@ -1197,7 +1197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçim bilgisiyle ilgili temel kavramlar -Kök<br>Bağımsız biçim birimler (kök), tek başlarına kullanılabilen biçim birimlerdir. Doğru cevap E'dir."
+        "Aciklama": "Biçim bilgisiyle ilgili temel kavramlar -Kök<br/>Bağımsız biçim birimler (kök), tek başlarına kullanılabilen biçim birimlerdir. Doğru cevap E'dir."
     },
     {
         "SoruID": 3892144,
@@ -1217,7 +1217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçim bilgisiyle ilgili temel kavramlar<br>Gövdeler biri bağımsız biçim birim olmak üzere, en az iki biçim birimden oluşan yani bir veya daha fazla ek alan kök biçim birimlerdir."
+        "Aciklama": "Biçim bilgisiyle ilgili temel kavramlar<br/>Gövdeler biri bağımsız biçim birim olmak üzere, en az iki biçim birimden oluşan yani bir veya daha fazla ek alan kök biçim birimlerdir."
     },
     {
         "SoruID": 3892145,
@@ -1237,7 +1237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçim bilgisiyle ilgili temel kavramlar- Taban<br>Tabanlar, eklerin, yani bağımlı biçim birimlerin eklendiği yalın sözcükler, yani bağımsız biçim birimlerdir. Tabanlar kök veya türemiş sözcük olabilir. Göz, gözlük sözcüğünün tabanıdır."
+        "Aciklama": "Biçim bilgisiyle ilgili temel kavramlar- Taban<br/>Tabanlar, eklerin, yani bağımlı biçim birimlerin eklendiği yalın sözcükler, yani bağımsız biçim birimlerdir. Tabanlar kök veya türemiş sözcük olabilir. Göz, gözlük sözcüğünün tabanıdır."
     },
     {
         "SoruID": 3892147,
@@ -1257,7 +1257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yapım ekleri<br>Yeni sözcüklerin yapımında çok kullanılan veya çok sayıda sözcükte bulunan eklere işlek ekler denir."
+        "Aciklama": "Yapım ekleri<br/>Yeni sözcüklerin yapımında çok kullanılan veya çok sayıda sözcükte bulunan eklere işlek ekler denir."
     },
     {
         "SoruID": 3892148,
@@ -1357,7 +1357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ekleri<br>Türetim ve çekim kavramları biçim bilgisinin önemli inceleme konularıdır ve dilin işleyişinde temel öğelerdendir."
+        "Aciklama": "Türkçenin ekleri<br/>Türetim ve çekim kavramları biçim bilgisinin önemli inceleme konularıdır ve dilin işleyişinde temel öğelerdendir."
     },
     {
         "SoruID": 3892153,
@@ -1957,7 +1957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br>Soru kitaptaki metni aynen sorduğu için hatırlama düzeyindedir."
+        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br/>Soru kitaptaki metni aynen sorduğu için hatırlama düzeyindedir."
     },
     {
         "SoruID": 3892183,
@@ -1977,7 +1977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Soru kitaptaki metni aynen sorduğu için hatırlama düzeyindedir."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Soru kitaptaki metni aynen sorduğu için hatırlama düzeyindedir."
     },
     {
         "SoruID": 3892184,
@@ -1997,7 +1997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br>Bilginin ne anlama geldiğini kavramış olduğu için anlama düzeyinde bir sorudur."
+        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br/>Bilginin ne anlama geldiğini kavramış olduğu için anlama düzeyinde bir sorudur."
     },
     {
         "SoruID": 3892185,
@@ -2017,7 +2017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Bilginin ne anlama geldiğini kavramış olduğu için anlama düzeyinde bir sorudur."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Bilginin ne anlama geldiğini kavramış olduğu için anlama düzeyinde bir sorudur."
     },
     {
         "SoruID": 3892186,
@@ -2037,7 +2037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br>Bilginin ne anlama geldiğini kavramış olduğu için anlama düzeyinde bir sorudur."
+        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br/>Bilginin ne anlama geldiğini kavramış olduğu için anlama düzeyinde bir sorudur."
     },
     {
         "SoruID": 3892187,
@@ -2057,7 +2057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br>Öğrendiği bilgiyi yeni bir duruma uygulamasından dolayı uygulama mantığında bir sorudur."
+        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br/>Öğrendiği bilgiyi yeni bir duruma uygulamasından dolayı uygulama mantığında bir sorudur."
     },
     {
         "SoruID": 3892188,
@@ -2077,7 +2077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br>Soru kitaptaki metni aynen sorduğu için hatırlama düzeyindedir."
+        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br/>Soru kitaptaki metni aynen sorduğu için hatırlama düzeyindedir."
     },
     {
         "SoruID": 3892189,
@@ -2097,7 +2097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Bilgiyi kullanarak yeni probleme uygulama mantığında olduğu için uygulama düzeyinde bir sorudur."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Bilgiyi kullanarak yeni probleme uygulama mantığında olduğu için uygulama düzeyinde bir sorudur."
     },
     {
         "SoruID": 3892190,
@@ -2117,7 +2117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br>B seçeneğinde yer alan ifade doğrudur."
+        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br/>B seçeneğinde yer alan ifade doğrudur."
     },
     {
         "SoruID": 3892191,
@@ -2137,7 +2137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Addan ad yapma ekleri ad kök ya da gövdelerinden köken anlamıyla bağlantılı yeni ad gövdeleri yapan eklerdir. Verilen seçeneklere bakıldığında azal ve çoğal sözcüklerinde verilen ek addan eylem yapan ek olarak kullanılırken; yatalak sözcüğünde ise tek başına -al eki yeni bir ad üretmemektedir. İllegal ise yabancı bir sözcüktür. Oysa C seçeneğinde, ulus adına getirilerek ulusal adını ürettiği görülmektedir."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Addan ad yapma ekleri ad kök ya da gövdelerinden köken anlamıyla bağlantılı yeni ad gövdeleri yapan eklerdir. Verilen seçeneklere bakıldığında azal ve çoğal sözcüklerinde verilen ek addan eylem yapan ek olarak kullanılırken; yatalak sözcüğünde ise tek başına -al eki yeni bir ad üretmemektedir. İllegal ise yabancı bir sözcüktür. Oysa C seçeneğinde, ulus adına getirilerek ulusal adını ürettiği görülmektedir."
     },
     {
         "SoruID": 3892192,
@@ -2157,7 +2157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Eylemden ad yapma ekleri, eylem kök ya da gövdelerinden, köken anlamıyla bağlantılı yeni ad gövdeleri yapan ve sayıca en fazla olan eklerdir. “Balak” ve “kabuk” sözcüklerinde kullanılan “-k” eki addan ad yaparken; “birik” ve “gözük” sözcüklerinde ise addan eylem yapma eki olarak kullanılmıştır. E seçeneğindeki “delik” sözcüğünde ise eylem olan “del” sözcüğü “-k” yapım eki alarak ada dönüşmüştür."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Eylemden ad yapma ekleri, eylem kök ya da gövdelerinden, köken anlamıyla bağlantılı yeni ad gövdeleri yapan ve sayıca en fazla olan eklerdir. “Balak” ve “kabuk” sözcüklerinde kullanılan “-k” eki addan ad yaparken; “birik” ve “gözük” sözcüklerinde ise addan eylem yapma eki olarak kullanılmıştır. E seçeneğindeki “delik” sözcüğünde ise eylem olan “del” sözcüğü “-k” yapım eki alarak ada dönüşmüştür."
     },
     {
         "SoruID": 3892193,
@@ -2177,7 +2177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>çatıları çok genel olarak bir cümlede yüklemin gösterdiği eylemin özne tarafından yapıldığını gösteren etken çatı ve cümlenin dil bilgisel (sözde) öznesinin yüklemin bildirdiği eylemden etkilendiğini veya eylemin hedefi olduğunu gösteren edilgen çatı olarak ikiye ayırabiliriz. Buna göre boyamak, katılmak, kaçırmak ve doyurma sözcükleri etken çatılı fiilleri örneklerken sevilmek sözcüğü edilgen çatılıdır."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>çatıları çok genel olarak bir cümlede yüklemin gösterdiği eylemin özne tarafından yapıldığını gösteren etken çatı ve cümlenin dil bilgisel (sözde) öznesinin yüklemin bildirdiği eylemden etkilendiğini veya eylemin hedefi olduğunu gösteren edilgen çatı olarak ikiye ayırabiliriz. Buna göre boyamak, katılmak, kaçırmak ve doyurma sözcükleri etken çatılı fiilleri örneklerken sevilmek sözcüğü edilgen çatılıdır."
     },
     {
         "SoruID": 3892194,
@@ -2197,7 +2197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br>Doğru cevap e şıkkıdır"
+        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br/>Doğru cevap e şıkkıdır"
     },
     {
         "SoruID": 3892195,
@@ -2217,7 +2217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br>Doğru cevap a şıkkıdır"
+        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br/>Doğru cevap a şıkkıdır"
     },
     {
         "SoruID": 3892196,
@@ -2237,7 +2237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br>Tabanlar, ekleri\u001dn, yani\u001d bağımlı bi\u001dçi\u001dm bi\u001dri\u001dmler\u001dn eklend\u001diği yalın sözcükler, yani\u001d bağımsız biçim birimlerdir. Tabanlar kök veya türemiş sözcük olabi\u001dli\u001dr. Mesela göz, gözlük sözcügünün; gözlük, gözlükçü sözcüğünün; gözlükçü i\u001dse gözlükçülük sözcüğünün tabanıdır. Doğru cevap c şıkkıdır"
+        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br/>Tabanlar, ekleri\u001dn, yani\u001d bağımlı bi\u001dçi\u001dm bi\u001dri\u001dmler\u001dn eklend\u001diği yalın sözcükler, yani\u001d bağımsız biçim birimlerdir. Tabanlar kök veya türemiş sözcük olabi\u001dli\u001dr. Mesela göz, gözlük sözcügünün; gözlük, gözlükçü sözcüğünün; gözlükçü i\u001dse gözlükçülük sözcüğünün tabanıdır. Doğru cevap c şıkkıdır"
     },
     {
         "SoruID": 3892197,
@@ -2257,7 +2257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Doğru cevap d şıkkıdır"
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Doğru cevap d şıkkıdır"
     },
     {
         "SoruID": 3892198,
@@ -2277,7 +2277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Addan ad yapma ekleri\u001d ad kök ya da gövdeleri\u001dnden köken anlamıyla bağlantılı yeni\u001d ad gövdeler\u001d yapan eklerdi\u001dr. Doğru cevap c şıkkıdır."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Addan ad yapma ekleri\u001d ad kök ya da gövdeleri\u001dnden köken anlamıyla bağlantılı yeni\u001d ad gövdeler\u001d yapan eklerdi\u001dr. Doğru cevap c şıkkıdır."
     },
     {
         "SoruID": 3892199,
@@ -2297,7 +2297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Eylem\u001din gösterd\u001diği\u001d hareketi\u001dn ardı ardına ya da sıklıkla yapıldığını gösteri\u001dr. Türkçede en sık kullanılan sıklık çatıları AlA- -IstIr-, -klA-. ov-&gt;ovala-, siilk-&gt; siilkele-, serp-&gt; serpiiştiir-, ovuştur- vb. sür- &gt; sürükle-, say- &gt; sayıkla- vb. örnekler eylem\u001dn ardı ardına yapıldığını gösteren sıklık çatılarıdır. Doğru cevap a şıkkıdır."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Eylem\u001din gösterd\u001diği\u001d hareketi\u001dn ardı ardına ya da sıklıkla yapıldığını gösteri\u001dr. Türkçede en sık kullanılan sıklık çatıları AlA- -IstIr-, -klA-. ov-&gt;ovala-, siilk-&gt; siilkele-, serp-&gt; serpiiştiir-, ovuştur- vb. sür- &gt; sürükle-, say- &gt; sayıkla- vb. örnekler eylem\u001dn ardı ardına yapıldığını gösteren sıklık çatılarıdır. Doğru cevap a şıkkıdır."
     },
     {
         "SoruID": 3892200,
@@ -2317,7 +2317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Hâl ekler\u001di olarak da bi\u001dli\u001dnen durum ekleri\u001d, cümle i\u001dçi\u001dndek\u001di adları diğer sözcüklere değişik anlam \u001dilişki\u001dleri\u001d çerçeves\u001dinde bağlayan bi\u001dçi\u001dm b\u001dir\u001dimlerdi\u001dr. Durum ekleri\u001d i\u001dki\u001d adı bi\u001drib\u001dir\u001dine bağlayan i\u001dlgi\u001d durumu dışında, genelli\u001dkle adlarla cümleni\u001dn asıl öğesi\u001d olan yüklem arasında \u001dilişki\u001d kurar. Türkçede yalın, yükleme, iilgii, yaklaşma, bulunma ve uzaklaşma olmak üzere altı durum ek\u001dini\u001dn bulunduğu kabul edi\u001dli\u001dr. Bunların dışında farklı kaynaklarda –CA i\u001dle yapılan eşiitliik, -lA ve –(X)n \u001dle yapılan araç durumları da durum ek\u001d olarak kabul ed\u001dilmekted\u001dir. Doğru cevap d şıkkıdır."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Hâl ekler\u001di olarak da bi\u001dli\u001dnen durum ekleri\u001d, cümle i\u001dçi\u001dndek\u001di adları diğer sözcüklere değişik anlam \u001dilişki\u001dleri\u001d çerçeves\u001dinde bağlayan bi\u001dçi\u001dm b\u001dir\u001dimlerdi\u001dr. Durum ekleri\u001d i\u001dki\u001d adı bi\u001drib\u001dir\u001dine bağlayan i\u001dlgi\u001d durumu dışında, genelli\u001dkle adlarla cümleni\u001dn asıl öğesi\u001d olan yüklem arasında \u001dilişki\u001d kurar. Türkçede yalın, yükleme, iilgii, yaklaşma, bulunma ve uzaklaşma olmak üzere altı durum ek\u001dini\u001dn bulunduğu kabul edi\u001dli\u001dr. Bunların dışında farklı kaynaklarda –CA i\u001dle yapılan eşiitliik, -lA ve –(X)n \u001dle yapılan araç durumları da durum ek\u001d olarak kabul ed\u001dilmekted\u001dir. Doğru cevap d şıkkıdır."
     },
     {
         "SoruID": 3892201,
@@ -2337,7 +2337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Ek eylemler, ad soylu sözcükleri\u001dn yüklem olarak kullanılmasını, eylem cümleleri\u001dnde i\u001dse bi\u001drleşi\u001dk çeki\u001dmler\u001d sağlayan eklerdi\u001dr. Ad soylu sözcükler\u001din eylem olarak çek\u001dmi\u001dnide bi\u001dri\u001dnci\u001d ve i\u001dki\u001dnci\u001d kişiilerde i-, üçüncü kişi\u001dni\u001dn çek\u001dmi\u001dnde i\u001dse -DIr b\u001dildi\u001drme eki\u001d kullanılır. Doğru cevap e şıkkıdır."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Ek eylemler, ad soylu sözcükleri\u001dn yüklem olarak kullanılmasını, eylem cümleleri\u001dnde i\u001dse bi\u001drleşi\u001dk çeki\u001dmler\u001d sağlayan eklerdi\u001dr. Ad soylu sözcükler\u001din eylem olarak çek\u001dmi\u001dnide bi\u001dri\u001dnci\u001d ve i\u001dki\u001dnci\u001d kişiilerde i-, üçüncü kişi\u001dni\u001dn çek\u001dmi\u001dnde i\u001dse -DIr b\u001dildi\u001drme eki\u001d kullanılır. Doğru cevap e şıkkıdır."
     },
     {
         "SoruID": 3892202,
@@ -2357,7 +2357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br>Doğru cevap b şıkkıdır"
+        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br/>Doğru cevap b şıkkıdır"
     },
     {
         "SoruID": 3892203,
@@ -2377,7 +2377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Doğru cevap d şıkkıdır"
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Doğru cevap d şıkkıdır"
     },
     {
         "SoruID": 3892204,
@@ -2397,7 +2397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br>Doğru cevap c şıkkıdır"
+        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br/>Doğru cevap c şıkkıdır"
     },
     {
         "SoruID": 3892205,
@@ -2417,7 +2417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Açık kelimesi eylemden türetilmiş bir addır. Doğru cevap a şıkkıdır"
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Açık kelimesi eylemden türetilmiş bir addır. Doğru cevap a şıkkıdır"
     },
     {
         "SoruID": 3892206,
@@ -2437,7 +2437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Saklambaç kelimesi saklamak fiilinden türetilmiş bir addır. Doğru cevap d şıkkıdır."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Saklambaç kelimesi saklamak fiilinden türetilmiş bir addır. Doğru cevap d şıkkıdır."
     },
     {
         "SoruID": 3892207,
@@ -2457,7 +2457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Eylemdeki kavramın özneye döndüğünü, öznenin eylemi kendisi için yaptığını bildiren çatı; bu çatı Türkçede genellikle “–n”, kimi kez de “–l” ya da “–ş–” çatı ekleriyle kurulur. \"Savunmak [sav–u–n–mak], gerilmek [ger–i–l–mek], gelişmek [gel–i–ş–mek]gibi\"<br/>Doğru cevap e şıkkıdır"
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Eylemdeki kavramın özneye döndüğünü, öznenin eylemi kendisi için yaptığını bildiren çatı; bu çatı Türkçede genellikle “–n”, kimi kez de “–l” ya da “–ş–” çatı ekleriyle kurulur. \"Savunmak [sav–u–n–mak], gerilmek [ger–i–l–mek], gelişmek [gel–i–ş–mek]gibi\"<br/>Doğru cevap e şıkkıdır"
     },
     {
         "SoruID": 3892208,
@@ -2477,7 +2477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Doğru cevap d şıkkıdır"
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Doğru cevap d şıkkıdır"
     },
     {
         "SoruID": 3892209,
@@ -2497,7 +2497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Kapıyı kelimesi yükleme/belirtme/nesne durumu eki almıştır. Doğru cevap e şıkkıdır."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Kapıyı kelimesi yükleme/belirtme/nesne durumu eki almıştır. Doğru cevap e şıkkıdır."
     },
     {
         "SoruID": 3892211,
@@ -2517,7 +2517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük yapımı yollarını sıralayabileceksiniz.<br>Özellikle ses ve biçim bakımından yabancı sözcükleri model alarak yerli biçim birimlerle sözcük üretilmesine örnekseme denir. Örneğin; ekol, imge sözcükleri bu yolla yapılmıştır."
+        "Aciklama": "Sözcük yapımı yollarını sıralayabileceksiniz.<br/>Özellikle ses ve biçim bakımından yabancı sözcükleri model alarak yerli biçim birimlerle sözcük üretilmesine örnekseme denir. Örneğin; ekol, imge sözcükleri bu yolla yapılmıştır."
     },
     {
         "SoruID": 3892212,
@@ -2537,7 +2537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Sayıca birden fazla varlığı çoğul ekleri belirtir; adın belirttiği nesne yada kavramın kime ait olduğunu iyelik ekleri gösterir; soru ekleri çoğul eklerinden sonra gelir; adları diğer sözcüklere değişik anlam ilişkileri içinde bağlayan durum ekleridir. Sadece B seçeneği soru ekleri ile ilgili doğru bilgi içermektedir."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Sayıca birden fazla varlığı çoğul ekleri belirtir; adın belirttiği nesne yada kavramın kime ait olduğunu iyelik ekleri gösterir; soru ekleri çoğul eklerinden sonra gelir; adları diğer sözcüklere değişik anlam ilişkileri içinde bağlayan durum ekleridir. Sadece B seçeneği soru ekleri ile ilgili doğru bilgi içermektedir."
     },
     {
         "SoruID": 3892213,
@@ -2557,7 +2557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Şekilde de görüldüğü gibi, ad durum eklerinden -ı ve -u; yükleme/belirtme/nesne durumlarında kullanılmaktadır. D seçeneğindeki 'İstanbul'u' sözcüğü belirtme/nesne durumundadır. Doğru yanıt D seçeneğidir."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Şekilde de görüldüğü gibi, ad durum eklerinden -ı ve -u; yükleme/belirtme/nesne durumlarında kullanılmaktadır. D seçeneğindeki 'İstanbul'u' sözcüğü belirtme/nesne durumundadır. Doğru yanıt D seçeneğidir."
     },
     {
         "SoruID": 3892214,
@@ -2577,7 +2577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Şekilde de görüldüğü gibi, ad durum eklerinden -ın ve -nin; ilgi/tamlayan durumlarında kullanılmaktadır. E seçeneğindeki 'Arabanın' sözcüğü tamlayan durumundadır. Doğru yanıt E seçeneğidir."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Şekilde de görüldüğü gibi, ad durum eklerinden -ın ve -nin; ilgi/tamlayan durumlarında kullanılmaktadır. E seçeneğindeki 'Arabanın' sözcüğü tamlayan durumundadır. Doğru yanıt E seçeneğidir."
     },
     {
         "SoruID": 3892215,
@@ -2597,7 +2597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Şekilde de görüldüğü gibi, ek eylem kiplerinden duyulan geçmiş zaman; -miş/mış eki ile yapılmaktadır. Doğru yanıt A seçeneğidir."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Şekilde de görüldüğü gibi, ek eylem kiplerinden duyulan geçmiş zaman; -miş/mış eki ile yapılmaktadır. Doğru yanıt A seçeneğidir."
     },
     {
         "SoruID": 3892216,
@@ -2617,7 +2617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br>Bir sözcüğün temel anlamla ilişkili olarak edindiği bir başka anlama/kavrama yan anlam denilmektedir. Doğru yanıt B seçeneğidir."
+        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br/>Bir sözcüğün temel anlamla ilişkili olarak edindiği bir başka anlama/kavrama yan anlam denilmektedir. Doğru yanıt B seçeneğidir."
     },
     {
         "SoruID": 3892217,
@@ -2637,7 +2637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br>Çeşitli bilim, sanat ve meslek alanlarında kullanılan özel anlamlı sözcüklere 'terim' denmektedir. Bu nedenle doğru yanıt C seçeneğidir."
+        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br/>Çeşitli bilim, sanat ve meslek alanlarında kullanılan özel anlamlı sözcüklere 'terim' denmektedir. Bu nedenle doğru yanıt C seçeneğidir."
     },
     {
         "SoruID": 3892218,
@@ -2657,7 +2657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br>Adları çeşitli yönlerden niteleyen ve belirten sözcüklere sıfat denilmektedir. Sorunun doğru yanıtı B seçeneğidir."
+        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br/>Adları çeşitli yönlerden niteleyen ve belirten sözcüklere sıfat denilmektedir. Sorunun doğru yanıtı B seçeneğidir."
     },
     {
         "SoruID": 3892219,
@@ -2677,7 +2677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br>Bir adın veya ad öbeğinin yerini tutabilen ad soylu sözcüklere zamir denilmektedir. Sorunun doğru yanıtı D seçeneğidir."
+        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br/>Bir adın veya ad öbeğinin yerini tutabilen ad soylu sözcüklere zamir denilmektedir. Sorunun doğru yanıtı D seçeneğidir."
     },
     {
         "SoruID": 3892220,
@@ -2697,7 +2697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Türkçede yeterlik eylemlerinin olumlu ve olumsuz biçimleri ayrı biçim birimlerle yapılır. Olumlu yeterlik formülü şu şekildedir: • -(y)A + -bil-: Yemek yapabilirim (yeterlik), (kar) yağabilir (ihtimal), (sigara) içebilir miyim? (izin). Olumsuz yeterlik formülü ise şu şekildedir: • -(y)A + -mA: kazan-a-ma-y-acak, oyna-y-a-maz. Örneklerden de görüldüğü gibi sorunun doğru yanıtı 'Yağmur yağma' ihtimalinin ifade edildiği C seçeneğidir."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Türkçede yeterlik eylemlerinin olumlu ve olumsuz biçimleri ayrı biçim birimlerle yapılır. Olumlu yeterlik formülü şu şekildedir: • -(y)A + -bil-: Yemek yapabilirim (yeterlik), (kar) yağabilir (ihtimal), (sigara) içebilir miyim? (izin). Olumsuz yeterlik formülü ise şu şekildedir: • -(y)A + -mA: kazan-a-ma-y-acak, oyna-y-a-maz. Örneklerden de görüldüğü gibi sorunun doğru yanıtı 'Yağmur yağma' ihtimalinin ifade edildiği C seçeneğidir."
     },
     {
         "SoruID": 3892221,
@@ -2717,7 +2717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br>Yönlendirilen sayfada açıkça belirtilmiştir.."
+        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br/>Yönlendirilen sayfada açıkça belirtilmiştir.."
     },
     {
         "SoruID": 3892222,
@@ -2737,7 +2737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br>Yönlendirilen sayfada açıkça belirtilmiştir."
+        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br/>Yönlendirilen sayfada açıkça belirtilmiştir."
     },
     {
         "SoruID": 3892223,
@@ -2757,7 +2757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük yapımı yollarını sıralayabileceksiniz.<br>Yönlendirilen sayfada açıkça belirtilmiştir."
+        "Aciklama": "Sözcük yapımı yollarını sıralayabileceksiniz.<br/>Yönlendirilen sayfada açıkça belirtilmiştir."
     },
     {
         "SoruID": 3892224,
@@ -2777,7 +2777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Yönlendirilen sayfada açıkça belirtilmiştir."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Yönlendirilen sayfada açıkça belirtilmiştir."
     },
     {
         "SoruID": 3892225,
@@ -2797,7 +2797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br>Çağrışım sözcük ölçütlerinden biri değildir."
+        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br/>Çağrışım sözcük ölçütlerinden biri değildir."
     },
     {
         "SoruID": 3892226,
@@ -2817,7 +2817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br>\"Kalbim kırıldı\" cümlesinde kalp fiziksel olarak kırılmamıştır."
+        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br/>\"Kalbim kırıldı\" cümlesinde kalp fiziksel olarak kırılmamıştır."
     },
     {
         "SoruID": 3892227,
@@ -2837,7 +2837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br>Zarflar, eylemlerin, sıfatların ya da başka zarfların önüne gelerek onları yer, zaman, durum, ölçü ve soru bakımından niteleyen, açıklayan sözcüklerdir."
+        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br/>Zarflar, eylemlerin, sıfatların ya da başka zarfların önüne gelerek onları yer, zaman, durum, ölçü ve soru bakımından niteleyen, açıklayan sözcüklerdir."
     },
     {
         "SoruID": 3892228,
@@ -2857,7 +2857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br>Verilen tanım biçim bilgisi kavramlarından \"gövde\"nin tanımıdır. Bu nedenle doğru cevap C'dir."
+        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br/>Verilen tanım biçim bilgisi kavramlarından \"gövde\"nin tanımıdır. Bu nedenle doğru cevap C'dir."
     },
     {
         "SoruID": 3892230,
@@ -2877,7 +2877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Soru kökünde verilen eklerin tamamı yapım ekleridir. Kendi içlerinde alt kategorilere ayrıldıkları için hepsini aynı alt kategori başlığında toplamak mümkün değildir. Bu nedenle doğru cevap D'dir."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Soru kökünde verilen eklerin tamamı yapım ekleridir. Kendi içlerinde alt kategorilere ayrıldıkları için hepsini aynı alt kategori başlığında toplamak mümkün değildir. Bu nedenle doğru cevap D'dir."
     },
     {
         "SoruID": 3892231,
@@ -2897,7 +2897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük yapımı yollarını sıralayabileceksiniz.<br>B, C, D ve E şıkları çatının 4 grubudur. Geçişli çatı yoktur. Bu nedenle doğru cevap A'dır."
+        "Aciklama": "Sözcük yapımı yollarını sıralayabileceksiniz.<br/>B, C, D ve E şıkları çatının 4 grubudur. Geçişli çatı yoktur. Bu nedenle doğru cevap A'dır."
     },
     {
         "SoruID": 3892232,
@@ -2917,7 +2917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>ov-&gt;ovala, serp-&gt;serpiştir, sür-&gt;sürükle gibi örneklerde görüldüğü üzere bu ekler sıklık çatısına aittir. Bu nedenle cevap E'dir."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>ov-&gt;ovala, serp-&gt;serpiştir, sür-&gt;sürükle gibi örneklerde görüldüğü üzere bu ekler sıklık çatısına aittir. Bu nedenle cevap E'dir."
     },
     {
         "SoruID": 3892233,
@@ -2937,7 +2937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br>Çekim ve yapım eklerinin özellikleri incelendiğinde A şıkkındaki bilginin doğru olduğu görülebilir. Bu nedenle doğru cevap A şıkkıdır."
+        "Aciklama": "Sözcüklere gelen yapım ve çekim eklerini ayırt edebileceksiniz.<br/>Çekim ve yapım eklerinin özellikleri incelendiğinde A şıkkındaki bilginin doğru olduğu görülebilir. Bu nedenle doğru cevap A şıkkıdır."
     },
     {
         "SoruID": 3892234,
@@ -2957,7 +2957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük yapımı yollarını sıralayabileceksiniz.<br>Sözcük yapımı ile ilgili yollar arasında ayırma diye bir yol yoktur. Bu nedenle doğru cevap D şıkkıdır."
+        "Aciklama": "Sözcük yapımı yollarını sıralayabileceksiniz.<br/>Sözcük yapımı ile ilgili yollar arasında ayırma diye bir yol yoktur. Bu nedenle doğru cevap D şıkkıdır."
     },
     {
         "SoruID": 3892235,
@@ -2977,7 +2977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br>A, C, D ve E şıklarındaki cümleler temel anlam taşıyan cümlelerdir. Ancak B şıkkındaki cümle mecaz anlamda kurulmuş bir cümledir. Bu nedenle doğru cevap B şıkkıdır."
+        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br/>A, C, D ve E şıklarındaki cümleler temel anlam taşıyan cümlelerdir. Ancak B şıkkındaki cümle mecaz anlamda kurulmuş bir cümledir. Bu nedenle doğru cevap B şıkkıdır."
     },
     {
         "SoruID": 3892236,
@@ -2997,7 +2997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br>eldiven ve yayla sözcüklerinin kökü el- ve yay- dır. Diğer sözcüklerde ise kök eylemdir."
+        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br/>eldiven ve yayla sözcüklerinin kökü el- ve yay- dır. Diğer sözcüklerde ise kök eylemdir."
     },
     {
         "SoruID": 3892237,
@@ -3017,7 +3017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük yapımı yollarını sıralayabileceksiniz.<br>Derleme"
+        "Aciklama": "Sözcük yapımı yollarını sıralayabileceksiniz.<br/>Derleme"
     },
     {
         "SoruID": 3892238,
@@ -3037,7 +3037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük yapımı yollarını sıralayabileceksiniz.<br>İki veya daha fazla sözcüğün bir araya gelerek ad veya eylem türünde yeni bir kavramı ifade edecek sözcük oluşturmasıdır."
+        "Aciklama": "Sözcük yapımı yollarını sıralayabileceksiniz.<br/>İki veya daha fazla sözcüğün bir araya gelerek ad veya eylem türünde yeni bir kavramı ifade edecek sözcük oluşturmasıdır."
     },
     {
         "SoruID": 3892239,
@@ -3057,7 +3057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br>Doğru cevap B seçeneğidir."
+        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br/>Doğru cevap B seçeneğidir."
     },
     {
         "SoruID": 3892240,
@@ -3077,7 +3077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br>Sözcüğün tek başına cümle kurabilen ve en az bir bağımsız biçim birimden oluşan bir birim olduğunu ifade eder."
+        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br/>Sözcüğün tek başına cümle kurabilen ve en az bir bağımsız biçim birimden oluşan bir birim olduğunu ifade eder."
     },
     {
         "SoruID": 3892241,
@@ -3097,7 +3097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br>I, II, III ve IV"
+        "Aciklama": "Sözcükleri yapı, anlam ve tür yönünden değerlendirebileceksiniz.<br/>I, II, III ve IV"
     },
     {
         "SoruID": 3892242,
@@ -3137,7 +3137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br>\"Sevgi yürekten yüreğe konar.\" cümlesinde ötümlüleşme bulunmaktadır."
+        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br/>\"Sevgi yürekten yüreğe konar.\" cümlesinde ötümlüleşme bulunmaktadır."
     },
     {
         "SoruID": 3892244,
@@ -3157,7 +3157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br>Türkçe bir kelimede düz ünlüden sonra düz (a, e, ı, i), yuvarlak ünlüden sonra yuvarlak dar (u, ü) veya düz geniş (a, e) ünlüler bulunur. Ünlüler arasındaki bu uyuma “küçük ünlü <strong>uyumu</strong> veya <strong>düzlük</strong>-<strong>yuvarlaklık uyumu</strong>“denir.<br/>Buna göre çamurlu sözcüğünde a ünlüsü düz ünlüdür sonrasında düz ünlülerden biri gelmelidir. U ünlüsü dar ve yuvarlak ünlüdür."
+        "Aciklama": "Biçim bilgisi ile ilgili temel kavramları tanımlayabileceksiniz.<br/>Türkçe bir kelimede düz ünlüden sonra düz (a, e, ı, i), yuvarlak ünlüden sonra yuvarlak dar (u, ü) veya düz geniş (a, e) ünlüler bulunur. Ünlüler arasındaki bu uyuma “küçük ünlü <strong>uyumu</strong> veya <strong>düzlük</strong>-<strong>yuvarlaklık uyumu</strong>“denir.<br/>Buna göre çamurlu sözcüğünde a ünlüsü düz ünlüdür sonrasında düz ünlülerden biri gelmelidir. U ünlüsü dar ve yuvarlak ünlüdür."
     },
     {
         "SoruID": 3892245,
@@ -3237,7 +3237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük yapımı yollarını sıralayabileceksiniz.<br>Kabuk sözcüğü Türkçe bir sözcüktür."
+        "Aciklama": "Sözcük yapımı yollarını sıralayabileceksiniz.<br/>Kabuk sözcüğü Türkçe bir sözcüktür."
     },
     {
         "SoruID": 3892249,
@@ -3777,7 +3777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tablo 4.2<br/>İyelik Ekleri<br>İyelik ekleri, adın belirttiği nesne ya da kavramın, altı kişiden (ben, sen, o; biz, siz, onlar) birine ait olduğunu gösterir. İyelik eki almış sözcükler, isim tamlamalarında tamlanan ögeyi oluştururlar. İyelik ekleri çokluk eklerinden sonra, durum eklerinden önce gelir. Doğru cevap E'dir."
+        "Aciklama": "Tablo 4.2<br/>İyelik Ekleri<br/>İyelik ekleri, adın belirttiği nesne ya da kavramın, altı kişiden (ben, sen, o; biz, siz, onlar) birine ait olduğunu gösterir. İyelik eki almış sözcükler, isim tamlamalarında tamlanan ögeyi oluştururlar. İyelik ekleri çokluk eklerinden sonra, durum eklerinden önce gelir. Doğru cevap E'dir."
     },
     {
         "SoruID": 3892276,

@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "GİRİŞ<br>Sayısal Tipografi"
+        "Aciklama": "GİRİŞ<br/>Sayısal Tipografi"
     },
     {
         "SoruID": 3769632,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SAYISAL TİPOGRAFİ TEKNOLOJİLERİ<br>Fotodizgi sonrası bilgisayarın keşfi ile başlamıştır"
+        "Aciklama": "SAYISAL TİPOGRAFİ TEKNOLOJİLERİ<br/>Fotodizgi sonrası bilgisayarın keşfi ile başlamıştır"
     },
     {
         "SoruID": 3769633,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "PostScript<br>Grafik ve yazıların tanınmasına ve çıktı alınmasını sağlayan bir tanımlama dilidir"
+        "Aciklama": "PostScript<br/>Grafik ve yazıların tanınmasına ve çıktı alınmasını sağlayan bir tanımlama dilidir"
     },
     {
         "SoruID": 3769634,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Emigre Dergisi<br>Sayısal tipografinin nasıl şekillendirildiğinin ilk örneklerinin yayınlanmasıdır"
+        "Aciklama": "Emigre Dergisi<br/>Sayısal tipografinin nasıl şekillendirildiğinin ilk örneklerinin yayınlanmasıdır"
     },
     {
         "SoruID": 3769635,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mrs Eaves Fontu<br>Baskerville fontu"
+        "Aciklama": "Mrs Eaves Fontu<br/>Baskerville fontu"
     },
     {
         "SoruID": 3769636,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Rolling Stone Dergisi<br>Fred Woodward"
+        "Aciklama": "Rolling Stone Dergisi<br/>Fred Woodward"
     },
     {
         "SoruID": 3769637,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ray Gun Dergisi<br>Grunge Tipografi anlayışı"
+        "Aciklama": "Ray Gun Dergisi<br/>Grunge Tipografi anlayışı"
     },
     {
         "SoruID": 3769638,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Neville Brody<br>Fuse dergisi"
+        "Aciklama": "Neville Brody<br/>Fuse dergisi"
     },
     {
         "SoruID": 3769639,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Max Kisman<br>Futura + Bodoni"
+        "Aciklama": "Max Kisman<br/>Futura + Bodoni"
     },
     {
         "SoruID": 3769640,

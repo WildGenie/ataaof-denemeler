@@ -8,9 +8,7 @@
     - D-) Sponsorluk
     - E-) Reklam
 
-    > **Açıklama:** REKLAMIN TANIMI, ÖNEMİ VE ETKİLERİ
-    > Kişisel satış, bir satışı gerçekleştirmek için potansiyel alıcılarla yapılan görüşme esnasında gerçekleştirilen sözlü sunum faaliyetleridir (Tek ve Özgül, 2007). Bir mağaza personelinin
-    > bir ürünü satmak için gerçekleştirdiği davranışlar kişisel satışın en bilindik örneğidir.
+    > **Açıklama:** REKLAMIN TANIMI, ÖNEMİ VE ETKİLERİ<br />Kişisel satış, bir satışı gerçekleştirmek için potansiyel alıcılarla yapılan görüşme esnasında gerçekleştirilen sözlü sunum faaliyetleridir (Tek ve Özgül, 2007). Bir mağaza personelinin<br />bir ürünü satmak için gerçekleştirdiği davranışlar kişisel satışın en bilindik örneğidir.
 
     <hr />
 1. Markaların daha prestijli ve kaliteli görünmesine yardımcı olması aşağıdaki reklam işlevlerinden hangisi ile ilişkilendirilir?
@@ -20,9 +18,7 @@
     - D-) Hatırlatma işlevi
     - E-) Reklamverenin diğer çaba ve çalışmalarını destekleme işlevi
 
-    > **Açıklama:** REKLAMIN TANIMI, ÖNEMİ VE ETKİLERİ
-    > Değer katma işlevi: Hedef kitlenin reklamı yapılan ürün, hizmete ya da markaya yönelik olumlu algısı, o markaya ya da ürün/hizmetlere yönelik olumlu tutum geliştirmesine ve bir karar sürecinde hedef kitlenin
-    > o markayı, ürünü ya da hizmeti tercih etmesine neden olacaktır. Kısacası reklamlar markaların daha prestijli ve kaliteli görünmesine yardımcı olarak markalara değer kazandırma noktasında kritik bir rol oynamaktadır.
+    > **Açıklama:** REKLAMIN TANIMI, ÖNEMİ VE ETKİLERİ<br />Değer katma işlevi: Hedef kitlenin reklamı yapılan ürün, hizmete ya da markaya yönelik olumlu algısı, o markaya ya da ürün/hizmetlere yönelik olumlu tutum geliştirmesine ve bir karar sürecinde hedef kitlenin<br />o markayı, ürünü ya da hizmeti tercih etmesine neden olacaktır. Kısacası reklamlar markaların daha prestijli ve kaliteli görünmesine yardımcı olarak markalara değer kazandırma noktasında kritik bir rol oynamaktadır.
 
     <hr />
 1. Aşağıdakilerden hangisi tarihte yayımlanan ilk televizyon reklamıdır?
@@ -32,8 +28,7 @@
     - D-) Jackson Height semtinde satılık dairelerin reklamı
     - E-) The General Magazin dergisinin reklamı
 
-    > **Açıklama:** TARİHSEL SÜREÇ İÇERİSİNDE REKLAMCILIK
-    > 1941 yılına kadar televizyonlarda reklam yayımlanması yasaya aykırıydı. 1941 yılında ise televizyonlar birer reklam mecrasına dönüşmüştür. Bu tarihte ilk olarak Bulova Watch şirketi ilk reklam filmini yayımlamıştır.
+    > **Açıklama:** TARİHSEL SÜREÇ İÇERİSİNDE REKLAMCILIK<br />1941 yılına kadar televizyonlarda reklam yayımlanması yasaya aykırıydı. 1941 yılında ise televizyonlar birer reklam mecrasına dönüşmüştür. Bu tarihte ilk olarak Bulova Watch şirketi ilk reklam filmini yayımlamıştır.
 
     <hr />
 1. Aşağıdaki reklam ajansı türlerinden hangisinde medya planlama, stratejik planlama gibi çalışma birimleri bulunmaz?
@@ -43,9 +38,7 @@
     - **Cevap D-) Yaratıcı Butik Reklam Ajansları**
     - E-) Uzman Reklam Ajansları
 
-    > **Açıklama:** REKLAMCILIK SEKTÖRÜ VE REKLAM AJANSLARI
-    > Yaratıcı butik reklam ajansları görece sınırlı hizmet sunan ajanslardır. Bu ajanslarda medya
-    > planlama, stratejik planlama gibi çalışma birimleri bulunmaz. Daha çok reklam sürecinin yaratıcı bölümüne yönelik hizmet sunan ajanslardır.
+    > **Açıklama:** REKLAMCILIK SEKTÖRÜ VE REKLAM AJANSLARI<br />Yaratıcı butik reklam ajansları görece sınırlı hizmet sunan ajanslardır. Bu ajanslarda medya<br />planlama, stratejik planlama gibi çalışma birimleri bulunmaz. Daha çok reklam sürecinin yaratıcı bölümüne yönelik hizmet sunan ajanslardır.
 
     <hr />
 1. Aşağıdakilerden hangisi reklam fikrinin üretime geçmesini sağlayan birimdir?
@@ -55,8 +48,7 @@
     - D-) Kreatif Birim
     - E-) Veri Analitik Birimi
 
-    > **Açıklama:** REKLAMCILIK SEKTÖRÜ VE REKLAM AJANSLARI
-    > Prodüksiyon Birimi reklam ajansı tarafından oluşturulan reklam fikrinin üretime geçmesini sağlayan birimdir. Örneğin reklam ajansı bir televizyon reklam filmi yayımlayacağı zaman bu reklamın yayımlanmasında prodüksiyon birimi görev alır.
+    > **Açıklama:** REKLAMCILIK SEKTÖRÜ VE REKLAM AJANSLARI<br />Prodüksiyon Birimi reklam ajansı tarafından oluşturulan reklam fikrinin üretime geçmesini sağlayan birimdir. Örneğin reklam ajansı bir televizyon reklam filmi yayımlayacağı zaman bu reklamın yayımlanmasında prodüksiyon birimi görev alır.
 
     <hr />
 1. Aşağıdakilerden hangisi temel olarak araştırma ve planlama faaliyetlerinin yerine getirildiği reklam ajansı birimidir?
@@ -66,9 +58,7 @@
     - D-) Prodüksiyon Birimi
     - E-) Kreatif Birim
 
-    > **Açıklama:** Stratejik Planlama Birimi: Stratejik planlama birimi reklam stratejisinin geliştirmesiyle ilgilenen
-    > birimdir. Bu birimde temel olarak araştırma ve planlama faaliyetleri yerine getirilir. Ürün analizi,
-    > pazar analizi, rekabet analizi ve hedef kitle araştırmaları yapılır. Bu analiz ve araştırmaların ardından tüketici içgörüsü elde edilerek reklamın mesajının nasıl olması gerektiğine karar verilir.
+    > **Açıklama:** Stratejik Planlama Birimi: Stratejik planlama birimi reklam stratejisinin geliştirmesiyle ilgilenen<br />birimdir. Bu birimde temel olarak araştırma ve planlama faaliyetleri yerine getirilir. Ürün analizi,<br />pazar analizi, rekabet analizi ve hedef kitle araştırmaları yapılır. Bu analiz ve araştırmaların ardından tüketici içgörüsü elde edilerek reklamın mesajının nasıl olması gerektiğine karar verilir.
 
     <hr />
 1. Banner reklamlar aşağıdaki reklam mecralarından hangisinde kullanılan reklam türüdür?
@@ -78,9 +68,7 @@
     - D-) Gazete
     - **Cevap E-) Internet**
 
-    > **Açıklama:** TARİHSEL SÜREÇ İÇERİSİNDE REKLAMCILIK
-    > Dijital reklamcılığın ilk örnekleri olarak banner reklamlar karşımıza çıkmıştır. 1994 yılı internet kullanıcılarının banner reklamlarla karşılaştığı yıldır.
-    > AT&T’nin yayımladığı ve ilk banner reklam örnekleri arasında yer alan reklam internet kullanıcılarına “farenizle buraya hiç tıkladınız mı?” gibi bir soru yöneltmiş ve insanların tıklaması gereken yeri renkli bir ok ile göstermiştir.
+    > **Açıklama:** TARİHSEL SÜREÇ İÇERİSİNDE REKLAMCILIK<br />Dijital reklamcılığın ilk örnekleri olarak banner reklamlar karşımıza çıkmıştır. 1994 yılı internet kullanıcılarının banner reklamlarla karşılaştığı yıldır.<br />AT&T’nin yayımladığı ve ilk banner reklam örnekleri arasında yer alan reklam internet kullanıcılarına “farenizle buraya hiç tıkladınız mı?” gibi bir soru yöneltmiş ve insanların tıklaması gereken yeri renkli bir ok ile göstermiştir.
 
     <hr />
 1. Aşağıdakilerden hangisi dijital reklamcılığın yaygınlaşmasını sağlayan ana gelişmedir?
@@ -90,8 +78,7 @@
     - D-) Radyo reklamcılığının yaygınlaşması
     - E-) Gazete reklamlarının azalması
 
-    > **Açıklama:** Web 2.0 dönemi, Web 1.0 döneme göre karşılıklı etkileşimin olduğu internet dönemidir. Web 1.0 döneminden farklı olarak bu dönemde internet kullanıcıları artık aktiftir. Herhangi bir şekilde içerik üretebilmekte ve içerikleri paylaşabilmektedirler. Bloglar, wikiler ve özellikle Facebook ya da Instagram gibi sosyal ağ siteleri, bu dönemde Web 1.0’ın durağan internet sitelerinin yerini almıştır. Özellikle sosyal ağ siteleri internet kullanıcılarının dijital ortamlarda aktifliğini bambaşka boyutlara taşımıştır. Bu doğrultuda Web 2.0 dönemini ifade eden en temel kavram da sosyal medya olarak karşımıza çıkmıştır.
-    > Web 2.0 teknolojilerinin gelişmesi, dijital içeriklerin üretimini artırmış ve markaların tüketicilere doğrudan ulaşmasını sağlamıştır. Bu süreç dijital reklamcılığın yaygınlaşmasında önemli bir rol oynamıştır.
+    > **Açıklama:** Web 2.0 dönemi, Web 1.0 döneme göre karşılıklı etkileşimin olduğu internet dönemidir. Web 1.0 döneminden farklı olarak bu dönemde internet kullanıcıları artık aktiftir. Herhangi bir şekilde içerik üretebilmekte ve içerikleri paylaşabilmektedirler. Bloglar, wikiler ve özellikle Facebook ya da Instagram gibi sosyal ağ siteleri, bu dönemde Web 1.0’ın durağan internet sitelerinin yerini almıştır. Özellikle sosyal ağ siteleri internet kullanıcılarının dijital ortamlarda aktifliğini bambaşka boyutlara taşımıştır. Bu doğrultuda Web 2.0 dönemini ifade eden en temel kavram da sosyal medya olarak karşımıza çıkmıştır.<br />Web 2.0 teknolojilerinin gelişmesi, dijital içeriklerin üretimini artırmış ve markaların tüketicilere doğrudan ulaşmasını sağlamıştır. Bu süreç dijital reklamcılığın yaygınlaşmasında önemli bir rol oynamıştır.
 
     <hr />
 1. Aşağıdakilerden hangisi reklamın bilgilendirme işlevine bir örnektir?
@@ -132,8 +119,7 @@
     - D-) Kullanan
     - E-) İdeal benlik
 
-    > **Açıklama:** ![](https://ets.anadolu.edu.tr/storage/nfs/questions/ab56f521b7f33e3e6e6d8a00d7aeade2.png)
-    > Teşvik eden (Tetikleyen): Bir ihtiyacın veya isteğin karşılanması gerektiğine karar veren kişi.
+    > **Açıklama:** ![](https://ets.anadolu.edu.tr/storage/nfs/questions/ab56f521b7f33e3e6e6d8a00d7aeade2.png)<br />Teşvik eden (Tetikleyen): Bir ihtiyacın veya isteğin karşılanması gerektiğine karar veren kişi.
 
     <hr />
 1. "Tüketicinin tatmin edilmesi gereken ihtiyacından çok, ürün ya da hizmetlerin özelliklerine odaklanma" olarak tanımlanan durum aşağıdakilerden hangisi ile açıklanabilir?
@@ -254,9 +240,7 @@
     - D-) Big-c
     - E-) Yaratıcı Süreç
 
-    > **Açıklama:** Mini-c özellikle küçük yaşlarda kişisel deneyimlerin ve düşüncelerin yeni yaratıcı süreçlere yol
-    > açtığı kişisel yaratıcılığın ilk evrelerine atıfta bulunur. Örneğin, küçük çocukların bilgi ve deneyimlerini
-    > hayal güçleriyle birleştirerek patlamayan bir balon taslağı çizmeleri buna örnek olarak verilebilir.
+    > **Açıklama:** Mini-c özellikle küçük yaşlarda kişisel deneyimlerin ve düşüncelerin yeni yaratıcı süreçlere yol<br />açtığı kişisel yaratıcılığın ilk evrelerine atıfta bulunur. Örneğin, küçük çocukların bilgi ve deneyimlerini<br />hayal güçleriyle birleştirerek patlamayan bir balon taslağı çizmeleri buna örnek olarak verilebilir.
 
     <hr />
 1. I. Alan<br />II. Kişi<br />III. Kültür<br />Yukarıdakilerden hangisi veya hangileri yaratıcılık sistem modellerinden biridir?
@@ -266,8 +250,7 @@
     - **Cevap D-) I ve II**
     - E-) II ve III
 
-    > **Açıklama:** Yaratıcılık sistemleri modeli yaratıcılığın üç sistemin birbiriyle olan etkileşimden meydana geldiğini
-    > ileri sürer. Bu sistemler ilgi alanı, alan ve kişi olarak ifade edilir.
+    > **Açıklama:** Yaratıcılık sistemleri modeli yaratıcılığın üç sistemin birbiriyle olan etkileşimden meydana geldiğini<br />ileri sürer. Bu sistemler ilgi alanı, alan ve kişi olarak ifade edilir.
 
     <hr />
 1. Aşağıdakilerden hangisi yaratıcılığın bireyle ilgili olmayan bileşenlerindendir?
@@ -277,8 +260,7 @@
     - D-) Bilgi
     - E-) Uzmanlık
 
-    > **Açıklama:** Çok bileşenli yaratıcılık modeli yaratıcılığın bireyle ilgili olan ve olmayan belli başlı bileşenlerin bir
-    > etkileşimi ile oluştuğunu ileri sürer. Bireyle ilgili bileşenler; alanla ilgili beceri, yaratıcılıkla ilgili süreç ve görev motivasyonudur. Bireyle ilgili olmayan bileşen ise çevredir. Kişinin sahip olduğu bilgi, uzmanlık, zekâ, yetenek gibi beceriler alanla ilgili becerileri kapsar. Bağımsızlık, risk alma, disiplin gibi özellikler ise yaratıcılıkla ilgili süreçleri ifade etmektedir.
+    > **Açıklama:** Çok bileşenli yaratıcılık modeli yaratıcılığın bireyle ilgili olan ve olmayan belli başlı bileşenlerin bir<br />etkileşimi ile oluştuğunu ileri sürer. Bireyle ilgili bileşenler; alanla ilgili beceri, yaratıcılıkla ilgili süreç ve görev motivasyonudur. Bireyle ilgili olmayan bileşen ise çevredir. Kişinin sahip olduğu bilgi, uzmanlık, zekâ, yetenek gibi beceriler alanla ilgili becerileri kapsar. Bağımsızlık, risk alma, disiplin gibi özellikler ise yaratıcılıkla ilgili süreçleri ifade etmektedir.
 
     <hr />
 1. Aşağıdakilerden hangisi reklamcılıkta kullanılan aşırılık taktiklerinden biri değildir?
@@ -288,11 +270,7 @@
     - D-) Absürt Alternatif
     - E-) Ters Yüz Etme
 
-    > **Açıklama:** Aşırılık Taktikleri
-    > • Aşırı Sonuç
-    > • Aşırı Çaba
-    > • Ters Yüz Etme
-    > • Absürt Alternatif
+    > **Açıklama:** Aşırılık Taktikleri<br />• Aşırı Sonuç<br />• Aşırı Çaba<br />• Ters Yüz Etme<br />• Absürt Alternatif
 
     <hr />
 1. Aşağıdakilerden hangisi reklamcılıkta kullanılan birleştirme taktiklerinden biridir?
@@ -302,11 +280,7 @@
     - D-) Ters Yüz Etme
     - E-) Absürt Alternatif
 
-    > **Açıklama:** Birleştirme Taktikleri
-    > • Birleştirme
-    > • Harekete Geçirme
-    > • Eksiltme
-    > • Mecaz
+    > **Açıklama:** Birleştirme Taktikleri<br />• Birleştirme<br />• Harekete Geçirme<br />• Eksiltme<br />• Mecaz
 
     <hr />
 1. I.Beyin fırtınası<br />II. Bilgi toplama<br />III. Fikir oluşturma<br />Yukarıdakilerden hangisi ya da hangileri yaratıcı fikir bulma tekniklerinden Piramit modelle ilişkilidir?
@@ -316,8 +290,7 @@
     - D-) I ve II
     - **Cevap E-) II ve III**
 
-    > **Açıklama:** Piramit Model yaratıcı fikir üretimini tabandan tavana doğru piramit şeklinde ilerleyen üç aşamalı
-    > bir süreç ile açıklamaktadır. 1.aşama olan piramidin tabanı, yaratıcı fikir üretmek için bilgi toplamayı ifade eder. Bu aşamada fikir üretmeye başlamadan önce gerekli olan bilgiler araştırılarak bir yol haritası çizilmeye çalışılır. 2. aşama piramidin ortasına denk gelen çözümleme aşamasıdır. Bu aşamada fikirler esnek bırakılır, farklı fikirler birleştirilir, ayrıştırılır ve kaynaştırılır. Çözülme aşaması kısaca son yaratıcı fikir için birden fazla düşüncenin ortaya atılması, farklı fikirlerin bir araya getirilmesi ya da ortak görülen bazı noktaların ayrılması gibi çeşitli taktikleri içermektedir. 3. aşama olan piramidin tepe noktası ise fikir oluşumunun gerçekleştiği kısımdır.
+    > **Açıklama:** Piramit Model yaratıcı fikir üretimini tabandan tavana doğru piramit şeklinde ilerleyen üç aşamalı<br />bir süreç ile açıklamaktadır. 1.aşama olan piramidin tabanı, yaratıcı fikir üretmek için bilgi toplamayı ifade eder. Bu aşamada fikir üretmeye başlamadan önce gerekli olan bilgiler araştırılarak bir yol haritası çizilmeye çalışılır. 2. aşama piramidin ortasına denk gelen çözümleme aşamasıdır. Bu aşamada fikirler esnek bırakılır, farklı fikirler birleştirilir, ayrıştırılır ve kaynaştırılır. Çözülme aşaması kısaca son yaratıcı fikir için birden fazla düşüncenin ortaya atılması, farklı fikirlerin bir araya getirilmesi ya da ortak görülen bazı noktaların ayrılması gibi çeşitli taktikleri içermektedir. 3. aşama olan piramidin tepe noktası ise fikir oluşumunun gerçekleştiği kısımdır.
 
     <hr />
 1. "Reklam fikrinin oluşmaya başladığı ilk anlar olarak nitelendirilebilir." Bu durum aşağıdaki yaratıcı fikir süreçlerinden hangisinde gerçekleşir?
@@ -338,8 +311,7 @@
     - **Cevap D-) II ve III**
     - E-) I ve III
 
-    > **Açıklama:** Reklam ve sanat arasındaki ilişki her ne kadar tasarım gibi daha somut ve uygulamaya dönük
-    > alanlarda görünür olsa da aslında tüketicilerin çoğu zaman farkında olmadığı strateji, yaratıcı düşünce ve fikir geliştirme süreçlerinde de sanatsal yaklaşımların etkileri olabilmektedir.
+    > **Açıklama:** Reklam ve sanat arasındaki ilişki her ne kadar tasarım gibi daha somut ve uygulamaya dönük<br />alanlarda görünür olsa da aslında tüketicilerin çoğu zaman farkında olmadığı strateji, yaratıcı düşünce ve fikir geliştirme süreçlerinde de sanatsal yaklaşımların etkileri olabilmektedir.
 
     <hr />
 1. I. Hikaye anlatımı<br />II. Mizah Kullanımı<br />III. Yaratıcı düşünce<br />Yukarıdakilerden hangisi ya da hangileri reklamcılıkta kullanılan stratejik yaklaşımlardandır?
@@ -389,8 +361,7 @@
     - **Cevap D-) Rembrandt Van Rijn**
     - E-) Jan van Eyck
 
-    > **Açıklama:** Caravaggio ve Rembrandt Barok dönemin önemli sanatçıları arasındadır. Bu iki isim özellikle görsel anlatı ve tasarım alanında hareket ve ışık unsurları açısından önemli katkılar sağlamışlardır.
-    > Hareketin tasvirinde büyük bir ustalık gösteren Caravaggio, pek çok sanatçıyı etkilemiş Caravaggioculuk olarak adlandırılan akıma da yol açmıştır. Rembrandt ise özellikle ışık-karanlık dengesini ve gölgeyi ustaca kullanarak öne çıkmıştır.
+    > **Açıklama:** Caravaggio ve Rembrandt Barok dönemin önemli sanatçıları arasındadır. Bu iki isim özellikle görsel anlatı ve tasarım alanında hareket ve ışık unsurları açısından önemli katkılar sağlamışlardır.<br />Hareketin tasvirinde büyük bir ustalık gösteren Caravaggio, pek çok sanatçıyı etkilemiş Caravaggioculuk olarak adlandırılan akıma da yol açmıştır. Rembrandt ise özellikle ışık-karanlık dengesini ve gölgeyi ustaca kullanarak öne çıkmıştır.
 
     <hr />
 1. Aşağıdaki sanat akımlarından hangisi sanatta hazzı ve süslemeyi öne çıkarmıştır?
@@ -420,9 +391,7 @@
     - D-) Reklamı sanatsal eyleme dönüştürme
     - E-) Markaya sanatsal deneyim ekleme
 
-    > **Açıklama:** Görsel unsurda sanata referans verme, reklamda sanatın kullanım biçimleri arasında en yaygın olan
-    > yöntemdir. Bir sanat eserinin doğrudan kullanımı ya da eserin belirli bir oranda benzerlikle yeniden
-    > yorumlanması gibi örneklere çokça rastlanmaktadır.
+    > **Açıklama:** Görsel unsurda sanata referans verme, reklamda sanatın kullanım biçimleri arasında en yaygın olan<br />yöntemdir. Bir sanat eserinin doğrudan kullanımı ya da eserin belirli bir oranda benzerlikle yeniden<br />yorumlanması gibi örneklere çokça rastlanmaktadır.
 
     <hr />
 1. Aşağıdaki hangisi reklamcılıkta sanatın kullanımında içerik açısından ele alınan yöntemlerden biri değildir?
@@ -432,11 +401,7 @@
     - D-) Ürünün kendisini sanatsallaştırma
     - E-) Markaya sanatsal deneyim ekleme
 
-    > **Açıklama:** İçerik açısından sanatın kullanımı
-    > • Ürünün bir parçasını sanatsallaştırma
-    > • Ürünün kendisini sanatsallaştırma
-    > • Reklamı sanatsal eyleme dönüştürme
-    > • Markaya sanatsal deneyim ekleme
+    > **Açıklama:** İçerik açısından sanatın kullanımı<br />• Ürünün bir parçasını sanatsallaştırma<br />• Ürünün kendisini sanatsallaştırma<br />• Reklamı sanatsal eyleme dönüştürme<br />• Markaya sanatsal deneyim ekleme
 
     <hr />
 ## Unite 5
@@ -447,11 +412,7 @@
     - D-) Marka farkındalığı
     - E-) Dikkat çekme
 
-    > **Açıklama:** Harekete geçirme (Call to action): Basılı reklamlar, tüketicileri bir web sitesini
-    > ziyaret etmek veya satın alma işlemi yapmak gibi belirli bir eylemi gerçekleştirmeye
-    > teşvik eden açık bir harekete geçirici mesaj içerebilir. Mesaja ve görsel tasarıma sınırlı
-    > süreli teklif, sınırlı sayıda gibi ibarelerin eklenmesi, tüketicide aciliyet ve gelişmeleri
-    > kaçırma korkusu (FOMO) duygusunun yaratılmasına ve böylece tüketiciyi hızlı hareket etmeye teşvik edebilir.
+    > **Açıklama:** Harekete geçirme (Call to action): Basılı reklamlar, tüketicileri bir web sitesini<br />ziyaret etmek veya satın alma işlemi yapmak gibi belirli bir eylemi gerçekleştirmeye<br />teşvik eden açık bir harekete geçirici mesaj içerebilir. Mesaja ve görsel tasarıma sınırlı<br />süreli teklif, sınırlı sayıda gibi ibarelerin eklenmesi, tüketicide aciliyet ve gelişmeleri<br />kaçırma korkusu (FOMO) duygusunun yaratılmasına ve böylece tüketiciyi hızlı hareket etmeye teşvik edebilir.
 
     <hr />
 1. Aşağıdakilerden hangisi özellikle günlük yayın yapan gazete ve dergilerde tekrarlanmak istenen reklam mesajları için uygun olan ve günlük yayınlarda, okuyucuların reklamı görme olasılığı daha yükselten basılı reklamcılık özelliğidir?
@@ -481,8 +442,7 @@
     - D-) Megalight
     - E-) Megaboard
 
-    > **Açıklama:** Standart ölçüler dikkate alındığında en büyük açık hava mecrası olan kuleboard, şehir merkezlerinde ve şehirler arası yollarda sıkça kullanılan reklam panolarıdır. Kuleboardların akşam da görülebilmesi için spot ışıklar kullanılır.
-    > Özellikle şehir merkezlerinin önemli caddelerinde, ana yollarda, şehirler arası otoyollarda sıklıkla kullanılan kuleboardlarda reklam alanı yerden 10 metre yüksekte yer alır. 1240 x 640 cm boyutlarında olan kuleboardlar büyük ölçüleri sayesinde uzak mesafelerden görüş imkânı sunar. Bu nedenle de çok uzak mesafelerden bile tüketicilerin reklamı görmesi, fark etmesi ve reklam mesajını algılayabilmesi söz konusudur. Dolayısıyla, büyük boyut ile yüksek farkındalık sağlamak hedeflenir.
+    > **Açıklama:** Standart ölçüler dikkate alındığında en büyük açık hava mecrası olan kuleboard, şehir merkezlerinde ve şehirler arası yollarda sıkça kullanılan reklam panolarıdır. Kuleboardların akşam da görülebilmesi için spot ışıklar kullanılır.<br />Özellikle şehir merkezlerinin önemli caddelerinde, ana yollarda, şehirler arası otoyollarda sıklıkla kullanılan kuleboardlarda reklam alanı yerden 10 metre yüksekte yer alır. 1240 x 640 cm boyutlarında olan kuleboardlar büyük ölçüleri sayesinde uzak mesafelerden görüş imkânı sunar. Bu nedenle de çok uzak mesafelerden bile tüketicilerin reklamı görmesi, fark etmesi ve reklam mesajını algılayabilmesi söz konusudur. Dolayısıyla, büyük boyut ile yüksek farkındalık sağlamak hedeflenir.
 
     <hr />
 1. Araç trafiğinin yoğun seyrettiği yol kenarı ve kavşaklarda, yüksek bir mevkide konumlandırılan, daha çok araçla seyahat eden kesime hitap eden, ışıklandırılmış ve çerçeve içine alınmış olarak sergilenen reklam panosu olarak tanımlanabilir açık hava reklam aracı aşağıdakilerden hangisidir?
@@ -492,8 +452,7 @@
     - D-) Giantboard
     - E-) Megaboard
 
-    > **Açıklama:** Megalight: Bir açık hava reklam mecrası olan megalight, araç trafiğinin yoğun seyrettiği yol kenarı ve kavşaklarda,yüksek bir mevkide konumlandırılan, daha çok araçla seyahat eden kesime hitap eden, ışıklandırılmış ve çerçeve içine alınmış olarak sergilenen reklam panosu olarak tanımlanabilir (Kentvizyon, 2024).
-    > Megalightlar, ışıklandırma, muhafaza ve konum özellikleri ile diğer açık hava mecralarından farklılaşmaktadır. Diğer açık hava reklamlarına göre daha görünür, dayanıklı ve etkileşimi yüksektir. Yaygın olarak kullanılan megalight ölçüsü 245 x 341 cm’dir. Yüksek konumları ve büyük ölçüleri megalight reklamlarını dikkat çekici kılmaktadır.
+    > **Açıklama:** Megalight: Bir açık hava reklam mecrası olan megalight, araç trafiğinin yoğun seyrettiği yol kenarı ve kavşaklarda,yüksek bir mevkide konumlandırılan, daha çok araçla seyahat eden kesime hitap eden, ışıklandırılmış ve çerçeve içine alınmış olarak sergilenen reklam panosu olarak tanımlanabilir (Kentvizyon, 2024).<br />Megalightlar, ışıklandırma, muhafaza ve konum özellikleri ile diğer açık hava mecralarından farklılaşmaktadır. Diğer açık hava reklamlarına göre daha görünür, dayanıklı ve etkileşimi yüksektir. Yaygın olarak kullanılan megalight ölçüsü 245 x 341 cm’dir. Yüksek konumları ve büyük ölçüleri megalight reklamlarını dikkat çekici kılmaktadır.
 
     <hr />
 1. Açık hava reklamcılığında reklamdaki ögelerin birbiriyle uyum içinde olması, bir tasarımdaki görsel ağırlığın eşit olarak dağıtılması, dokuların, biçimlerin, boşlukların ve renklerin görsel ağırlıklarının kompozisyonla uyumlu hâle getirilmesi hangi tasarım ilkesi ile doğrudan ilişkilidir?
@@ -503,11 +462,7 @@
     - D-) Tutarlılık
     - E-) Birlik
 
-    > **Açıklama:** Denge, reklamdaki ögelerin birbiriyle uyum içinde olmalarıdır. Bir tasarımdaki görsel ağırlığın
-    > eşit olarak dağıtılmasıdır. Dokuların, biçimlerin, boşlukların ve renklerin görsel ağırlıklarını kompozisyonla uyumlu hâle getirmektir. Bir sayfa düzeninde (layout) denge optik merkez yardımıyla kurulur. Başka bir deyişle, optik merkez, dengeyi belirleyen referans noktasıdır.
-    > Sayfanın fiziksel merkezinin yani tam ortasının yaklaşık sekizde biri kadar yukarıdadır. Bu bağlamda, sayfada denge, sayfadaki ögelerin optik merkez bağlamında düzenlenmesiyle sağlanır.
-    > Optik merkezin sol tarafı ile sağ tarafının ve optik merkezin üstü ve alt tarafının dengesinin dikkate
-    > alınması gerekir.
+    > **Açıklama:** Denge, reklamdaki ögelerin birbiriyle uyum içinde olmalarıdır. Bir tasarımdaki görsel ağırlığın<br />eşit olarak dağıtılmasıdır. Dokuların, biçimlerin, boşlukların ve renklerin görsel ağırlıklarını kompozisyonla uyumlu hâle getirmektir. Bir sayfa düzeninde (layout) denge optik merkez yardımıyla kurulur. Başka bir deyişle, optik merkez, dengeyi belirleyen referans noktasıdır.<br />Sayfanın fiziksel merkezinin yani tam ortasının yaklaşık sekizde biri kadar yukarıdadır. Bu bağlamda, sayfada denge, sayfadaki ögelerin optik merkez bağlamında düzenlenmesiyle sağlanır.<br />Optik merkezin sol tarafı ile sağ tarafının ve optik merkezin üstü ve alt tarafının dengesinin dikkate<br />alınması gerekir.
 
     <hr />
 1. Gözlerin reklam üzerinde kolayca dolaşmasına olanak verecek şekilde reklamdaki ögelerin düzenlenmesi ve reklama yönelik hedef kitlede ilgi oluşturulması ve hedef kitlenin reklamdaki diğer ögeleri de incelemeye dönük etki yaratması ile ilgili tasarım ilkesi aşağıdakilerden hangisidir?
@@ -517,8 +472,7 @@
     - D-) Denge
     - E-) Birlik
 
-    > **Açıklama:** Akıcılık, gözlerin reklam üzerinde kolayca dolaşmasına olanak verecek şekilde reklamdaki ögelerin düzenlenmesidir. Reklama yönelik hedef kitlede ilgi oluşturulduğunda, hedef kitle reklamdaki
-    > diğer ögeleri de incelemeye başlayacaktır. Hareket ya da yönlenme olarak da nitelendirilen akıcılık, hedef kitlenin reklamı istenen sırayla okumasını sağlayan tasarım ilkesidir.
+    > **Açıklama:** Akıcılık, gözlerin reklam üzerinde kolayca dolaşmasına olanak verecek şekilde reklamdaki ögelerin düzenlenmesidir. Reklama yönelik hedef kitlede ilgi oluşturulduğunda, hedef kitle reklamdaki<br />diğer ögeleri de incelemeye başlayacaktır. Hareket ya da yönlenme olarak da nitelendirilen akıcılık, hedef kitlenin reklamı istenen sırayla okumasını sağlayan tasarım ilkesidir.
 
     <hr />
 1. Reklama geometrik oran vermek için önceden belirlenmiş bir ızgara içinde bir dizi dikey ve yatay çizgi, dikdörtgen ve kare kullanılması ve geometrik formlarla bölümlenmiş sayfa düzeni içerisinde sayfa bileşenlerinin bu alanlar içerisinde yer almasına dayalı sayfa düzeni türü aşağıdakilerden hangisidir?
@@ -528,8 +482,7 @@
     - D-) Resim çerçeveli sayfa düzeni
     - E-) Yazı karakteri tabanlı sayfa düzeni
 
-    > **Açıklama:** Adını Hollandalı ressam Piet Mondrian’dan alan Mondrian sayfa düzeni, reklama geometrik oran
-    > vermek için önceden belirlenmiş bir ızgara içinde bir dizi dikey ve yatay çizgi, dikdörtgen ve kare kullanır. Geometrik formlarla bölümlenmiş sayfa düzeni içerisinde sayfa bileşenlerinin bu alanlar içerisinde yer alması ile oluşur. Geometrik alanlarda kullanılan renkler diğer sayfa düzeni bileşenleri ile birlikte tasarımın daha dikkat çekici bir hâle gelmesine olanak tanımaktadır (Zinkhan, 1993, s. 14’ten akt. Ercanpolat vd. 2016, s. 150).
+    > **Açıklama:** Adını Hollandalı ressam Piet Mondrian’dan alan Mondrian sayfa düzeni, reklama geometrik oran<br />vermek için önceden belirlenmiş bir ızgara içinde bir dizi dikey ve yatay çizgi, dikdörtgen ve kare kullanır. Geometrik formlarla bölümlenmiş sayfa düzeni içerisinde sayfa bileşenlerinin bu alanlar içerisinde yer alması ile oluşur. Geometrik alanlarda kullanılan renkler diğer sayfa düzeni bileşenleri ile birlikte tasarımın daha dikkat çekici bir hâle gelmesine olanak tanımaktadır (Zinkhan, 1993, s. 14’ten akt. Ercanpolat vd. 2016, s. 150).
 
     <hr />
 1. Aşağıda basılı reklamcılığa ilişkin verilen ifadelerden hangisi doğrudur?
@@ -539,17 +492,7 @@
     - D-) Basılı reklamcılıkta hedef kitleyi belirlemek zordur.
     - E-) Basılı reklamcılık programatik reklamcılık ortaya koyar.
 
-    > **Açıklama:** Basılı reklam kalıcıdır.
-    > Basılı reklam ile geniş boyutlu mesaj verilebilir. Ürünün özelliklerinin tanıtımı, vurgulanacak yönleri örneklerle okuyucuya aktarılabilir. TV ve radyoda bu durum çok sınırlıdır.
-    > Basılı reklamcılıkta hedef kitleyi belirlemek ve ulaşmak kolaydır. Sosyal medya
-    > reklamcılığı ve internet reklamcılığındaki hedefli reklamcılık ya da programatik
-    > reklamcılık kadar hedef kitleye nokta atışı ulaşma durumu söz konusu olmasa da basılı reklamcılığın da bu konuda başarılı olduğu söylenebilir. Çünkü dergilerin ve gazetelerin de okur kitlesi çoğunlukla bellidir. Bu anlamda, söz konusu basılı mecra okuru olduğunda, okurların daha heterojen olarak
-    > dağıldığı söylenebilir. Markalar açısından bu durum özellikle dikkate alınmalıdır.
-    > Çünkü McLuhan (1964)’ın da dediği gibi mecra, mesajın kendisidir. TV ve radyoda
-    > ise aynı durum söz konusu olmayabilir. TV reklamları kuşak reklamcılığına dayanır ve
-    > TV izleyici kitlesi yayınları sürekli izlemez.
-    > Bası
-    > Basılı reklam okurları daha heterojen olarak dağılır.
+    > **Açıklama:** Basılı reklam kalıcıdır.<br />Basılı reklam ile geniş boyutlu mesaj verilebilir. Ürünün özelliklerinin tanıtımı, vurgulanacak yönleri örneklerle okuyucuya aktarılabilir. TV ve radyoda bu durum çok sınırlıdır.<br />Basılı reklamcılıkta hedef kitleyi belirlemek ve ulaşmak kolaydır. Sosyal medya<br />reklamcılığı ve internet reklamcılığındaki hedefli reklamcılık ya da programatik<br />reklamcılık kadar hedef kitleye nokta atışı ulaşma durumu söz konusu olmasa da basılı reklamcılığın da bu konuda başarılı olduğu söylenebilir. Çünkü dergilerin ve gazetelerin de okur kitlesi çoğunlukla bellidir. Bu anlamda, söz konusu basılı mecra okuru olduğunda, okurların daha heterojen olarak<br />dağıldığı söylenebilir. Markalar açısından bu durum özellikle dikkate alınmalıdır.<br />Çünkü McLuhan (1964)’ın da dediği gibi mecra, mesajın kendisidir. TV ve radyoda<br />ise aynı durum söz konusu olmayabilir. TV reklamları kuşak reklamcılığına dayanır ve<br />TV izleyici kitlesi yayınları sürekli izlemez.<br />Bası<br />Basılı reklam okurları daha heterojen olarak dağılır.
 
     <hr />
 1. Haber niteliği taşıyan, bilgiyi doğrudan aktaran; bu nedenle çarpıcı etki yaratmayan ve tüketicide ürün ya da hizmetle ilgili herhangi bir merak oluşturmayan başlık türü aşağıdakilerden hangisidir?
@@ -559,9 +502,7 @@
     - D-) Öğüt veren başlık
     - E-) İddiada bulunan başlık
 
-    > **Açıklama:** Doğrudan başlık: Doğrudan başlıklar haber niteliği taşır ve bilgiyi doğrudan aktarır.
-    > Bu anlamda çarpıcı değildirler ve reklamı gören tüketicide ürün ya da hizmetle ilgili
-    > herhangi bir merak kalmaz.
+    > **Açıklama:** Doğrudan başlık: Doğrudan başlıklar haber niteliği taşır ve bilgiyi doğrudan aktarır.<br />Bu anlamda çarpıcı değildirler ve reklamı gören tüketicide ürün ya da hizmetle ilgili<br />herhangi bir merak kalmaz.
 
     <hr />
 ## Unite 6
@@ -612,10 +553,7 @@
     - D-) II ve V
     - E-) II-IV ve V
 
-    > **Açıklama:** III.Türkiye’de 1970’li yıllarda televizyon mecra olarak kullanılmaya başlanmıştır.
-    > IV. Dolayısıyla Türkiye’de TV reklamcılığının altın çağı 90’lar ve 2000’ler boyunca sürmüştür.
-    > V. İlk TV reklamı Meysu markasına aittir.
-    > Bu ifadeler doğrudur.
+    > **Açıklama:** III.Türkiye’de 1970’li yıllarda televizyon mecra olarak kullanılmaya başlanmıştır.<br />IV. Dolayısıyla Türkiye’de TV reklamcılığının altın çağı 90’lar ve 2000’ler boyunca sürmüştür.<br />V. İlk TV reklamı Meysu markasına aittir.<br />Bu ifadeler doğrudur.
 
     <hr />
 1. Aşağıdakilerden hangisi TV reklamcılığı ile ilgili söylenemez?
@@ -686,17 +624,7 @@
     - D-) Dikey video; X üzerinde en hızlı büyüyen format.
     - E-) Üstten görünüm (topview); TikTok kullanıcılarının uygulamayı açar açmaz bir reklam bombardımanına maruz kalmaması.
 
-    > **Açıklama:** İnternet Reklamcılığında Göz Önünde Bulundurulması Gereken Unsurlar
-    > Bir dijital reklamın bileşenleri, belirli format ve platforma bağlı olarak değişiklik gösterebilir. Ancak bir reklam oluştururken göz önünde bulundurulması gereken unsurlardan bazıları şunlardır (Deña, 2023):
-    > • Reklam metni: Reklamda kullanılan metin; genellikle bir başlık, gövde metni ve bir
-    > harekete geçirici mesaj içerir ve alıcıyı bir ürünü satın almaya teşvik eden içeriktir.
-    > • Görsel ögeler: Reklamı yapılan ürün veya hizmeti görsel olarak temsil etmek için kullanılan resimler, marka maketleri, grafikler, vektör tasarımları veya videolardır.
-    > • Açılış sayfası: Kullanıcının reklama tıkladığında yönlendirildiği web sayfasıdır.
-    > • İzleme pikseli: Tıklamalar, gösterimler ve dönüşümler gibi kullanıcı davranışını izlemek ve kaydetmek için kullanılan küçük kod parçalarıdır.
-    > • Hedefleme kriterleri: Reklamın ulaşmayı amaçladığı belirli hedef kitle, demografik
-    > özellikler, ilgi alanları, konum ve davra
-    > Hedefleme kriterleri; Reklamın ulaşmayı amaçladığı belirli hedef kitle, demografik
-    > özellikler, ilgi alanları, konum ve davranış gibi faktörlerdir.
+    > **Açıklama:** İnternet Reklamcılığında Göz Önünde Bulundurulması Gereken Unsurlar<br />Bir dijital reklamın bileşenleri, belirli format ve platforma bağlı olarak değişiklik gösterebilir. Ancak bir reklam oluştururken göz önünde bulundurulması gereken unsurlardan bazıları şunlardır (Deña, 2023):<br />• Reklam metni: Reklamda kullanılan metin; genellikle bir başlık, gövde metni ve bir<br />harekete geçirici mesaj içerir ve alıcıyı bir ürünü satın almaya teşvik eden içeriktir.<br />• Görsel ögeler: Reklamı yapılan ürün veya hizmeti görsel olarak temsil etmek için kullanılan resimler, marka maketleri, grafikler, vektör tasarımları veya videolardır.<br />• Açılış sayfası: Kullanıcının reklama tıkladığında yönlendirildiği web sayfasıdır.<br />• İzleme pikseli: Tıklamalar, gösterimler ve dönüşümler gibi kullanıcı davranışını izlemek ve kaydetmek için kullanılan küçük kod parçalarıdır.<br />• Hedefleme kriterleri: Reklamın ulaşmayı amaçladığı belirli hedef kitle, demografik<br />özellikler, ilgi alanları, konum ve davra<br />Hedefleme kriterleri; Reklamın ulaşmayı amaçladığı belirli hedef kitle, demografik<br />özellikler, ilgi alanları, konum ve davranış gibi faktörlerdir.
 
     <hr />
 1. "Snapchat" in tanımı aşağıdaki şıklardan hangisidir?
@@ -706,8 +634,7 @@
     - D-) Kullanıcıların Instagram hikâyeler akışına göz atarken hikâyeleri arasında görünür. 15 saniyelik video veya fotoğraf reklamlarıdır.
     - E-) Fotoğraf ve video paylaşım platformudur.
 
-    > **Açıklama:** Snapchat:
-    > Snapchat, akıllı telefonlar için geliştirilmiş, platformlar arası çalışma özelliğine sahip bir anlık mesajlaşma uygulamasıdır. Snapchat reklam formatları aşağıdaki gibidir (Snapchat for Business, 2023):
+    > **Açıklama:** Snapchat:<br />Snapchat, akıllı telefonlar için geliştirilmiş, platformlar arası çalışma özelliğine sahip bir anlık mesajlaşma uygulamasıdır. Snapchat reklam formatları aşağıdaki gibidir (Snapchat for Business, 2023):
 
     <hr />
 1. Aşağıdaki şıklardan hangisi "Dinamik Eylem Çağrısı"nı tanımlar ve örneklendirir?
@@ -717,8 +644,7 @@
     - D-) Tüketicilerin ürün ve hizmetleri her açıdan görüntülemesine olanak tanıyan bir VR tabanlı reklam türüdür.360 derecelik video reklamlar, otomobil, moda ve emlak gibi ürün ve hizmetleri örnekleridir.
     - E-) Dijital, online, web ve çevrim içi reklamcılık olarak da adlandırılmaktadır. Instagram, facebook örnekleridir.
 
-    > **Açıklama:** CTA yani Call-to-Action (dinamik eylem çağrısı), dijital pazarlama stratejilerinde kullanıcıları belirli bir eylemi gerçekleştirmeye teşvik etmek için kullanılan metin veya görsel ögelerdir. “Hemen Satın Al” veya “Şimdi Kaydol” gibi ifadeler CTA örnekleri olarak verilebilir.
-    > Dijital pazarlama stratejilerinde kullanıcıları belirli bir eylemi gerçekleştirmeye teşvik etmek için kullanılan metin veya görsel ögelerdir. “Hemen Satın Al” veya “Şimdi Kaydol” gibi ifadeler örnekleri olarak verilebilir.
+    > **Açıklama:** CTA yani Call-to-Action (dinamik eylem çağrısı), dijital pazarlama stratejilerinde kullanıcıları belirli bir eylemi gerçekleştirmeye teşvik etmek için kullanılan metin veya görsel ögelerdir. “Hemen Satın Al” veya “Şimdi Kaydol” gibi ifadeler CTA örnekleri olarak verilebilir.<br />Dijital pazarlama stratejilerinde kullanıcıları belirli bir eylemi gerçekleştirmeye teşvik etmek için kullanılan metin veya görsel ögelerdir. “Hemen Satın Al” veya “Şimdi Kaydol” gibi ifadeler örnekleri olarak verilebilir.
 
     <hr />
 1. Mobil reklamcılığın ilk biçimi ....... metin mesajları olarak ortaya çıkmıştır. ......., kısa mesaj servisi anlamına gelir. Noktalı boşluklar aşağıdaki şıklardan hangisi ile tamamlanır?
@@ -728,8 +654,7 @@
     - **Cevap D-) SMS-SMS**
     - E-) VR-SMS
 
-    > **Açıklama:** Mobil reklamcılığın ilk biçimi SMS metin mesajları olarak ortaya çıkmıştır. SMS, kısa mesaj servisi anlamına gelir.
-    > SMS-SMS
+    > **Açıklama:** Mobil reklamcılığın ilk biçimi SMS metin mesajları olarak ortaya çıkmıştır. SMS, kısa mesaj servisi anlamına gelir.<br />SMS-SMS
 
     <hr />
 1. "Üçüncü taraf çerezleri" ne demektir?
@@ -739,9 +664,7 @@
     - **Cevap D-) Kullanıcının ziyaret ettiği alandan farklı bir alan adına ait bir web sitesi tarafından kullanıcının cihazına yerleştirilen bir çerezdir. Çerez, bir web sitesinin kullanıcının bilgisayarına yerleştirdiği bilgilerdir.**
     - E-) Markanın görsel hikâye anlatımına katkıda bulunur. Eğlenceli ve kısa olabilirler, Snapchat uygulamasında kolaylıkla keşfedilebilirler.
 
-    > **Açıklama:** Üçüncü taraf çerezleri davranışsal reklamcılığı etkinleştirmek için kullanılan çeşitli mekanizmalardan biridir. Reklamcılar, bir kişinin hangi siteleri ziyaret ettiği, hangi reklamları tıkladığı, yaş ve cinsiyetle ilgili çıkarımları ve bilgisayarın IP adresine dayalı yaklaşık fiziksel konumunu ilişkilendirerek bireyin özelliklerine ve olası ilgi alanlarına ilişkin profiller oluşturur (McDonald ve Cranor, 2010).
-    > Üçüncü taraf çerezleri: Kullanıcının ziyaret ettiği alandan farklı bir alan adına ait bir web sitesi tarafından kullanıcının cihazına (bilgisayar, cep telefonu veya tablet) yerleştirilen bir çerezdir. Çerez, bir web sitesinin kullanıcının bilgisayarına yerleştirdiği bilgilerdir.
-    > Kullanıcının ziyaret ettiği alandan farklı bir alan adına ait bir web sitesi tarafından kullanıcının cihazına yerleştirilen bir çerezdir. Çerez, bir web sitesinin kullanıcının bilgisayarına yerleştirdiği bilgilerdir.
+    > **Açıklama:** Üçüncü taraf çerezleri davranışsal reklamcılığı etkinleştirmek için kullanılan çeşitli mekanizmalardan biridir. Reklamcılar, bir kişinin hangi siteleri ziyaret ettiği, hangi reklamları tıkladığı, yaş ve cinsiyetle ilgili çıkarımları ve bilgisayarın IP adresine dayalı yaklaşık fiziksel konumunu ilişkilendirerek bireyin özelliklerine ve olası ilgi alanlarına ilişkin profiller oluşturur (McDonald ve Cranor, 2010).<br />Üçüncü taraf çerezleri: Kullanıcının ziyaret ettiği alandan farklı bir alan adına ait bir web sitesi tarafından kullanıcının cihazına (bilgisayar, cep telefonu veya tablet) yerleştirilen bir çerezdir. Çerez, bir web sitesinin kullanıcının bilgisayarına yerleştirdiği bilgilerdir.<br />Kullanıcının ziyaret ettiği alandan farklı bir alan adına ait bir web sitesi tarafından kullanıcının cihazına yerleştirilen bir çerezdir. Çerez, bir web sitesinin kullanıcının bilgisayarına yerleştirdiği bilgilerdir.
 
     <hr />
 1. Tüketicilerin sanal ortamda ürün ve hizmetlerle etkileşime geçmesine olanak tanıyan bir reklam türü aşağıdakilerden hangisidir?
@@ -751,8 +674,7 @@
     - **Cevap D-) İnteraktif VR deneyimleri**
     - E-) Sanal ürün gösterimi
 
-    > **Açıklama:** İnteraktif VR deneyimleri, tüketicilerin sanal ortamda ürün ve hizmetlerle etkileşime geçmesine olanak tanıyan bir reklam türüdür. Bu deneyimler, reklam verenin ihtiyaçlarına uyacak şekilde özelleştirilebilir ve bir ürün veya hizmetin özelliklerini ve faydalarını sergilemek için kullanılabilir. İnteraktif VR deneyimleri tüketicilerle duygusal bir bağ kurmak ve marka sadakati oluşturmak için güçlü bir
-    > araç olabilir.
+    > **Açıklama:** İnteraktif VR deneyimleri, tüketicilerin sanal ortamda ürün ve hizmetlerle etkileşime geçmesine olanak tanıyan bir reklam türüdür. Bu deneyimler, reklam verenin ihtiyaçlarına uyacak şekilde özelleştirilebilir ve bir ürün veya hizmetin özelliklerini ve faydalarını sergilemek için kullanılabilir. İnteraktif VR deneyimleri tüketicilerle duygusal bir bağ kurmak ve marka sadakati oluşturmak için güçlü bir<br />araç olabilir.
 
     <hr />
 1. "Banner reklamlar" hangi tarihte ortaya çıkmış ne tür reklamlardır?
@@ -762,8 +684,7 @@
     - D-) Genel olarak belirli hedef kitle, demografik özellikler, ilgi alanları, konum ve davranış gibi faktörleri hedef alan bir reklamdır. 1992 yıllında.
     - **Cevap E-) 1994 yılında kullanıcıların dikkatini çekme ve istenilen tepkiyi tetikleme yöntemi olarak ortaya çıkmıştır. Renkli animasyonlar ve görsellerin kullanıldığı reklamlardır.**
 
-    > **Açıklama:** Yaygın bir reklam türü olan bannerlar, 1994 yılında kullanıcıların dikkatini çekme ve istenilen tepkiyi tetikleme yöntemi olarak ortaya çıkmıştır. Tüketicinin dikkatini çekmek için bannerlarda renkli animasyonlar ve dinamik görseller sıklıkla kullanılmaktadır.
-    > 1994 yılında kullanıcıların dikkatini çekme ve istenilen tepkiyi tetikleme yöntemi olarak ortaya çıkmıştır. Renkli animasyonlar ve dinamik görsellerin kullanıldığı reklamlardır.
+    > **Açıklama:** Yaygın bir reklam türü olan bannerlar, 1994 yılında kullanıcıların dikkatini çekme ve istenilen tepkiyi tetikleme yöntemi olarak ortaya çıkmıştır. Tüketicinin dikkatini çekmek için bannerlarda renkli animasyonlar ve dinamik görseller sıklıkla kullanılmaktadır.<br />1994 yılında kullanıcıların dikkatini çekme ve istenilen tepkiyi tetikleme yöntemi olarak ortaya çıkmıştır. Renkli animasyonlar ve dinamik görsellerin kullanıldığı reklamlardır.
 
     <hr />
 1. Aşağıdaki şıklardan hangisi "Sanal Gerçeklik (VR) Reklam Türleri VR tabanlı reklam" türlerinden **değildir**?
@@ -773,9 +694,7 @@
     - D-) Sanal ürün tanıtımları
     - **Cevap E-) Geçiş reklamları**
 
-    > **Açıklama:** Sanal Gerçeklik (VR) Reklam Türleri VR tabanlı reklamlar, oyun içi reklamcılık, etkileşimli VR deneyimleri, 360 derecelik video reklamlar
-    > ve sanal ürün tanıtımları dahil olmak üzere birçok biçimde olabilir (The Media Ant, 2023):
-    > Geçiş reklamları
+    > **Açıklama:** Sanal Gerçeklik (VR) Reklam Türleri VR tabanlı reklamlar, oyun içi reklamcılık, etkileşimli VR deneyimleri, 360 derecelik video reklamlar<br />ve sanal ürün tanıtımları dahil olmak üzere birçok biçimde olabilir (The Media Ant, 2023):<br />Geçiş reklamları
 
     <hr />
 1. Sanal gerçekliğin bir türü olan "Artırılmış gerçekliğin (AR- augmented reality)" tanımı aşağıdakilerden hangisidir?
@@ -785,8 +704,7 @@
     - D-) AR, animasyonlar ve etkileşimli yetenekler içeren, doğası gereği dinamik olabilen reklamlardır. Böylelikle, markanın kitlelerle etkileşimini artırmasına yardımcı olabilir.
     - E-) AR, işletmelerin ürünlerini veya hizmetlerini platformda tanıtmasına yardımcı olan ücretli bir pazarlama aracıdır. İdeal kitleye ulaşmak için belirli demografik özellikleri, sektörleri veya iş ünvanlarını hedefleyen ücretli reklam kampanyaları oluşturmaya ve yayımlamaya olanak tanır.
 
-    > **Açıklama:** Artırılmış gerçeklik (AR- augmented reality), sanal gerçekliğin bir çeşididir. AR, gerçek dünyanın üzerine eklenen veya gerçek dünyayla birleştirilen sanal nesnelerle kullanıcının gerçek dünyayı görmesine olanak tanır. Bu nedenle AR, gerçekliğin tamamen yerini almak yerine onu tamamlamaktadır (Azuma, 1997).Gerçekliğin güçlendirilmesini ve desteklenmesini sağlayan AR, dijital nesnelerin gerçek dünyaya aktarılmasının yanı sıra kokusal veya dokunsal bilgileri de gerçek dünyadaki kullanıcıların algılarına dahil ederek katılımcı bir deneyim yaratmaya imkân sağlamaktadır.
-    > AR, gerçek dünyanın üzerine eklenen veya gerçek dünyayla birleştirilen sanal nesnelerle kullanıcının gerçek dünyayı görmesine olanak tanıyarak, gerçekliğin tamamen yerini almak yerine onu tamamlayan sanal gerçeklik türüdür.
+    > **Açıklama:** Artırılmış gerçeklik (AR- augmented reality), sanal gerçekliğin bir çeşididir. AR, gerçek dünyanın üzerine eklenen veya gerçek dünyayla birleştirilen sanal nesnelerle kullanıcının gerçek dünyayı görmesine olanak tanır. Bu nedenle AR, gerçekliğin tamamen yerini almak yerine onu tamamlamaktadır (Azuma, 1997).Gerçekliğin güçlendirilmesini ve desteklenmesini sağlayan AR, dijital nesnelerin gerçek dünyaya aktarılmasının yanı sıra kokusal veya dokunsal bilgileri de gerçek dünyadaki kullanıcıların algılarına dahil ederek katılımcı bir deneyim yaratmaya imkân sağlamaktadır.<br />AR, gerçek dünyanın üzerine eklenen veya gerçek dünyayla birleştirilen sanal nesnelerle kullanıcının gerçek dünyayı görmesine olanak tanıyarak, gerçekliğin tamamen yerini almak yerine onu tamamlayan sanal gerçeklik türüdür.
 
     <hr />
 ## Unite 8
@@ -797,9 +715,7 @@
     - D-) Algılamak
     - E-) Duyum
 
-    > **Açıklama:** Görsel iletişim bir mesajı oluşturmak ve iletmek için çizimler, şekiller, resimler gibi görsel formların kullanılması olarak tanımlanır (Danesi, 2013, s. 703). Görsel iletişim, iletilerin ve yan anlamların özellikle donuk ve hareketli imgelerin, aynı zamanda beden dilinin ve yazılı metinlerdeki dil dışı biçimlerin (tipografi, emoji gibi) görsel biçimler
-    > içinde üretimi ve yorumlanmasıdır (Chandler ve Munday, 2018).
-    > Görsel İletişim
+    > **Açıklama:** Görsel iletişim bir mesajı oluşturmak ve iletmek için çizimler, şekiller, resimler gibi görsel formların kullanılması olarak tanımlanır (Danesi, 2013, s. 703). Görsel iletişim, iletilerin ve yan anlamların özellikle donuk ve hareketli imgelerin, aynı zamanda beden dilinin ve yazılı metinlerdeki dil dışı biçimlerin (tipografi, emoji gibi) görsel biçimler<br />içinde üretimi ve yorumlanmasıdır (Chandler ve Munday, 2018).<br />Görsel İletişim
 
     <hr />
 1. Gündelik yaşantımızda dış dünyadan gelen uyarıcılarla oluşan duyumlarımızı sürekli bir yorumlama işlemine tabi tutarız. Dolayısıyla gördüğümüzü anlama sürecinde aşağıda görülen noktalı boşluklara şıklardan hangisi gelmelidir?<br />"............. bize orada bir şey olduğunu söylerken,.............. bize o şeyin ne olduğunu söyler."
@@ -809,8 +725,7 @@
     - D-) Reklamlar- görsel iletişim
     - E-) Receptör- uyarıcı dalgalar
 
-    > **Açıklama:** Duyularımız bize orada bir şey olduğunu söylerken, algılarımız bize o şeyin ne olduğunu söyler.
-    > Duyularımız- algılarımız
+    > **Açıklama:** Duyularımız bize orada bir şey olduğunu söylerken, algılarımız bize o şeyin ne olduğunu söyler.<br />Duyularımız- algılarımız
 
     <hr />
 1. Aşağıdaki şıklardan hangisi "Algılama Sürecimizi" açıkladığımız kavramlardan biri **değildir?**
@@ -820,13 +735,7 @@
     - D-) Beyin-Birincil alanlar
     - E-) Kişiselleştirilmiş algılar
 
-    > **Açıklama:** Algılama sürecimizi 5 kavramla açıklayabiliriz.
-    > Uyarıcı, uyarlama, beynin birincil alanları ve çağrışım alanları ile kişiselleştirilmiş algılarımız bizim algı sürecimizi açıklayan kavramlardır.
-    > Uyarıcı: Süreç bir uyarıcıyla başlar. Uyarıcılar duyu reseptörlerini tetikler. Örneğin bir nesne gözümüzün görüş açısına geldiğinde nesneye yansıyan ışık dalgaları gözlerimizde bulunan duyu reseptörlerini tetiklemektedir.
-    > Uyarlama: Gözlerimize ulaşan ışık dalgaları retinanın üzerine odaklanır. Retina fotoreseptörler içerir ve bu ışık dalgaları fotoreseptörler tarafından emilerek fiziksel enerjiden elektrik akımına dönüştürülür. Bu süreç uyarlama sürecidir. Duyular uyarıcıları elektrik sinyallerine dönüştürür.
-    > Beyin-Birincil alanlar: Duyu organlarından gelen akımlar beyinde bulunan farklı birincil alanlara gider. Beyinde bulunan birincil alanlar elektrik sinyallerini duyulara dönüştürür. Biz bu aşamada hâlâ bu duyuları hissetmeyiz.
-    > Beyin-Çağrışım alanları: Akımlar gittikleri birincil ala
-    > Boyut değişmezliği
+    > **Açıklama:** Algılama sürecimizi 5 kavramla açıklayabiliriz.<br />Uyarıcı, uyarlama, beynin birincil alanları ve çağrışım alanları ile kişiselleştirilmiş algılarımız bizim algı sürecimizi açıklayan kavramlardır.<br />Uyarıcı: Süreç bir uyarıcıyla başlar. Uyarıcılar duyu reseptörlerini tetikler. Örneğin bir nesne gözümüzün görüş açısına geldiğinde nesneye yansıyan ışık dalgaları gözlerimizde bulunan duyu reseptörlerini tetiklemektedir.<br />Uyarlama: Gözlerimize ulaşan ışık dalgaları retinanın üzerine odaklanır. Retina fotoreseptörler içerir ve bu ışık dalgaları fotoreseptörler tarafından emilerek fiziksel enerjiden elektrik akımına dönüştürülür. Bu süreç uyarlama sürecidir. Duyular uyarıcıları elektrik sinyallerine dönüştürür.<br />Beyin-Birincil alanlar: Duyu organlarından gelen akımlar beyinde bulunan farklı birincil alanlara gider. Beyinde bulunan birincil alanlar elektrik sinyallerini duyulara dönüştürür. Biz bu aşamada hâlâ bu duyuları hissetmeyiz.<br />Beyin-Çağrışım alanları: Akımlar gittikleri birincil ala<br />Boyut değişmezliği
 
     <hr />
 1. Gestalt psikologlarına göre beynimiz, ayrı ayrı parçaların anlamlı bir desen ve algı oluşturmak için ne şekilde organize edileceğini belirleyen bir dizi kurala uymaktadır. Aşağıdaki şıklardan hangisi bu kurallardan birisidir?
@@ -836,15 +745,7 @@
     - **Cevap D-) Tamamlama (closure)**
     - E-) Simge (sembol)
 
-    > **Açıklama:** Gestalt psikologlarına göre beynimiz, ayrı ayrı parçaların anlamlı bir desen ve algı oluşturmak için ne şekilde organize edileceğini belirleyen bir dizi kurala uymaktadır (Morgan, 2011; Plotnik, 2009):
-    > 1\. Şekil-zemin kuralı (figure-ground):
-    > 2\. Tamamlama kuralı (closure):
-    > 3\. Basitlik kuralı:
-    > 4\. Gruplama kuralı:
-    > 4\.a. Yakınlık kuralı (proximity):
-    > 4\.b. Benzerlik kuralı (similarity):
-    > 4\.c. Simetri kuralı (symmetry):
-    > 4\.d. Devamlılık kuralı (continuity):
+    > **Açıklama:** Gestalt psikologlarına göre beynimiz, ayrı ayrı parçaların anlamlı bir desen ve algı oluşturmak için ne şekilde organize edileceğini belirleyen bir dizi kurala uymaktadır (Morgan, 2011; Plotnik, 2009):<br />1\. Şekil-zemin kuralı (figure-ground):<br />2\. Tamamlama kuralı (closure):<br />3\. Basitlik kuralı:<br />4\. Gruplama kuralı:<br />4\.a. Yakınlık kuralı (proximity):<br />4\.b. Benzerlik kuralı (similarity):<br />4\.c. Simetri kuralı (symmetry):<br />4\.d. Devamlılık kuralı (continuity):
 
     <hr />
 1. Yanılsama, bir imgenin gerçekte olmadığı kadar farklı ve çarpıtılmış şekilde algılanması, beynin algısal ipuçlarını doğru olarak yorumlayamayacak bir biçimde yanlış yorumlamasıdır. Aşağıdaki şıklardan hangisi bir görsel yanılsama örneğidir?
@@ -854,10 +755,7 @@
     - D-) Görüntüsel gösterge
     - E-) Atmosferik perspektif
 
-    > **Açıklama:** Yanılsama, bir imgenin gerçekte olmadığı kadar farklı ve çarpıtılmış şekilde algılanması, beynin algısal ipuçlarını doğru olarak yorumlayamayacak bir biçimde yanlış yorumlamasıdır. Birçok görsel yanılsama örneği bulunmaktadır. Görsel iletişim bağlamında üç tanesini açıklamak yerinde olacaktır.
-    > 1\. Ay yanılsaması:
-    > 2\. Müller-Lyer yanılsaması:
-    > 3\. Ponzo yanılsaması:
+    > **Açıklama:** Yanılsama, bir imgenin gerçekte olmadığı kadar farklı ve çarpıtılmış şekilde algılanması, beynin algısal ipuçlarını doğru olarak yorumlayamayacak bir biçimde yanlış yorumlamasıdır. Birçok görsel yanılsama örneği bulunmaktadır. Görsel iletişim bağlamında üç tanesini açıklamak yerinde olacaktır.<br />1\. Ay yanılsaması:<br />2\. Müller-Lyer yanılsaması:<br />3\. Ponzo yanılsaması:
 
     <hr />
 1. 1839’da Amerika Birleşik Devletleri’nde doğan, göstergebilimin bağımsız bir bilim dalı olmasını sağlayan, göstergebilimi, "her türlü bilimsel araştırma için bir başvuru çerçevesi oluşturan genel bir kuram" olarak tanımlayan dil bilimci aşağıdakilerden hangisidir?
@@ -867,8 +765,7 @@
     - **Cevap D-) Charles Sanders Peirce**
     - E-) Arthur Asa Berger
 
-    > **Açıklama:** Charles Sanders Peirce
-    > 1839’da Amerika Birleşik Devletleri’nde doğan Peirce, göstergebilimin bağımsız bir bilim dalı olmasını sağlamıştır. Ona göre göstergebilim, her türlü bilimsel araştırma için bir başvuru çerçevesi oluşturan genel bir kuramdır (Rifat, 2020).
+    > **Açıklama:** Charles Sanders Peirce<br />1839’da Amerika Birleşik Devletleri’nde doğan Peirce, göstergebilimin bağımsız bir bilim dalı olmasını sağlamıştır. Ona göre göstergebilim, her türlü bilimsel araştırma için bir başvuru çerçevesi oluşturan genel bir kuramdır (Rifat, 2020).
 
     <hr />
 1. Aşağıdaki şıklardan hangisi "Metafor (Eğretileme)"un tanımıdır?
@@ -878,8 +775,7 @@
     - D-) Bir kültürün, dünyanın bazı görünümlerini anlayıp açıklamasını sağlayan öyküye "metafor" denir.
     - **Cevap E-) Bilinmeyen bir şeyi, bilinen bir şey açısından ifade etmeye "metafor" denir. Bilinmeyenlerin anlamı, bilinenlerin araçlarını kullanarak aktarılmaktadır.**
 
-    > **Açıklama:** Eğretileme ya da metafor; bilinmeyen bir şeyi, bilinen bir şey açısından ifade etmektir. Bilinmeyenlerin anlamı, bilinenlerin araçlarını kullanarak aktarılmaktadır. Benzetme
-    > kurulan iki şey aslında birbiriyle ilişkili değildir fakat zihin, düş gücünü çalıştırarak metaforu anlayabilir. Örneğin; bir spor ayakkabı reklamında, ayakkabının hafif olduğunu ifade etmek için tüy ve ayakkabı görüntüsünü birlikte kullanarak görsel metaforun gücünden yararlanılabilinir.
+    > **Açıklama:** Eğretileme ya da metafor; bilinmeyen bir şeyi, bilinen bir şey açısından ifade etmektir. Bilinmeyenlerin anlamı, bilinenlerin araçlarını kullanarak aktarılmaktadır. Benzetme<br />kurulan iki şey aslında birbiriyle ilişkili değildir fakat zihin, düş gücünü çalıştırarak metaforu anlayabilir. Örneğin; bir spor ayakkabı reklamında, ayakkabının hafif olduğunu ifade etmek için tüy ve ayakkabı görüntüsünü birlikte kullanarak görsel metaforun gücünden yararlanılabilinir.
 
     <hr />
 1. Aşağıdaki şıklardan hangisi reklamlara yapılacak olan göstergebilimsel analiz sürecinde dikkat etmemiz gereken noktalardan birisi **değildir**.
@@ -889,14 +785,7 @@
     - D-) Tipografi
     - E-) Sözcük oyunları
 
-    > **Açıklama:** Göstergebilim birçok üretilmiş içeriğe uygulanabilir. Biz kitabımız bağlamında reklamlara yapılacak olan göstergebilimsel analiz sürecinde dikkat etmemiz gereken noktaları sıralayalım ve gösterge bilimsel analiz uygulamalarının nasıl olacağını iki örnekle özetlemeye çalışalım.
-    > Reklamların izleyiciyi anlamlandırma etkisine çektiği bir dizi yöntem vardır:
-    > 1\. Mekânsal düzenleme: Görselin uzamsal düzenlenmesi izleyiciye belirli bir konum sunar, izleyici o konumdan görsele bakar (Burada John Berger’in Avrupa yağlı boya resim geleneği ile ilgili söylediklerini aklınızda bulundurun).
-    > 2\. Görsel eksiklikler: Reklamlar izleyiciden içini doldurmasını talep ettiği görsel yokluklardan, eksiklerden oluşur.
-    > 3\. Yazılı metin: Yazılı metin izleyiciyi içine çeker.
-    > 4\. Sözcük oyunları: Birçok reklam, bizim durup ne olup bittiğini anlamak için bakmamıza neden olan yazılı ya da görsel kelime oyunlarına ya da bilmecelere dayanır.
-    > 5\. Tipografi: Tipografi önemlidir. Tipografiden kastedilen bir ür
-    > Görüntüsel gösterge
+    > **Açıklama:** Göstergebilim birçok üretilmiş içeriğe uygulanabilir. Biz kitabımız bağlamında reklamlara yapılacak olan göstergebilimsel analiz sürecinde dikkat etmemiz gereken noktaları sıralayalım ve gösterge bilimsel analiz uygulamalarının nasıl olacağını iki örnekle özetlemeye çalışalım.<br />Reklamların izleyiciyi anlamlandırma etkisine çektiği bir dizi yöntem vardır:<br />1\. Mekânsal düzenleme: Görselin uzamsal düzenlenmesi izleyiciye belirli bir konum sunar, izleyici o konumdan görsele bakar (Burada John Berger’in Avrupa yağlı boya resim geleneği ile ilgili söylediklerini aklınızda bulundurun).<br />2\. Görsel eksiklikler: Reklamlar izleyiciden içini doldurmasını talep ettiği görsel yokluklardan, eksiklerden oluşur.<br />3\. Yazılı metin: Yazılı metin izleyiciyi içine çeker.<br />4\. Sözcük oyunları: Birçok reklam, bizim durup ne olup bittiğini anlamak için bakmamıza neden olan yazılı ya da görsel kelime oyunlarına ya da bilmecelere dayanır.<br />5\. Tipografi: Tipografi önemlidir. Tipografiden kastedilen bir ür<br />Görüntüsel gösterge
 
     <hr />
 1. Dış dünyayı tanımlarken göz önünde bulundurduğumuz fikir ve düşünceler bütününe ne ad verilir?
@@ -906,8 +795,7 @@
     - D-) Algılama
     - E-) Göstergebilim
 
-    > **Açıklama:** İdeoloji kelime anlamı itibarıyla “düşüncelerin bilimi” olarak tanımlanmaktadır. Dış dünyayı tanımlarken göz önünde bulundurduğumuz fikir ve düşünceler bütünüdür. Bu anlamda olumlu bir tarafı vardır. Ancak Karl Marx ide olojiyi olumsuz bir temelde ele alır. Marksist anlamda ideoloji “yanlış bilinç”tir. Marx’a göre ideoloji, toplumdaki egemen sınıfların çıkarlarını ve hâkimiyetlerini sürdüren, bu çıkarları meşrulaştıran ve toplumsal yapıların görünüşte
-    > doğal ve değişmez olduğunu öne süren düşünce sistemleridir. Ünitemizde kullandığımız ideoloji kavramını Marksist anlamda kullanmaktayız.
+    > **Açıklama:** İdeoloji kelime anlamı itibarıyla “düşüncelerin bilimi” olarak tanımlanmaktadır. Dış dünyayı tanımlarken göz önünde bulundurduğumuz fikir ve düşünceler bütünüdür. Bu anlamda olumlu bir tarafı vardır. Ancak Karl Marx ide olojiyi olumsuz bir temelde ele alır. Marksist anlamda ideoloji “yanlış bilinç”tir. Marx’a göre ideoloji, toplumdaki egemen sınıfların çıkarlarını ve hâkimiyetlerini sürdüren, bu çıkarları meşrulaştıran ve toplumsal yapıların görünüşte<br />doğal ve değişmez olduğunu öne süren düşünce sistemleridir. Ünitemizde kullandığımız ideoloji kavramını Marksist anlamda kullanmaktayız.
 
     <hr />
 1. Ekranda gördüğümüz her hareket bir anlam içermektedir. Yüze yapılan yakın çekim oyuncunun hissine odaklanması gibi. Bu doğrultuda kameranın "Geniş Çekimi" bir gösteren olarak hangi gösterileni açıklar?
@@ -917,7 +805,6 @@
     - D-) Vurgulu sonuç
     - E-) Küçüklük, zayıflık
 
-    > **Açıklama:** ![](https://ets.anadolu.edu.tr/storage/nfs/questions/bbf3d722eef7c6ecf1c7c8d119648b3e.jpeg)
-    > Bağlam, kapsam, kamusal uzaklık
+    > **Açıklama:** ![](https://ets.anadolu.edu.tr/storage/nfs/questions/bbf3d722eef7c6ecf1c7c8d119648b3e.jpeg)<br />Bağlam, kapsam, kamusal uzaklık
 
     <hr />

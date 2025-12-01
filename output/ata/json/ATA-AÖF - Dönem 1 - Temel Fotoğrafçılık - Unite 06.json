@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 108643,
-        "SoruMetni": "I. Fotoğraf makinelerinin bütününde kullanılan diyafram tipidir.<br/>II. Metal levhalar objektif etrafında yer alan bir levhaya yerleştirilmiştir.<br/>III. Objektif dışındaki kontrol halkasının hareket ettirilmesiyle, ince metal plakaların açılıp kapanmasıyla istenilen diyafram açıklığı elde edilir.<br/><strong>Belirtilen özelliklerin ait olduğu diyafram türü aşağıdakilerden hangisidir?</strong> </br></br>",
+        "SoruMetni": "I. Fotoğraf makinelerinin bütününde kullanılan diyafram tipidir.<br/>II. Metal levhalar objektif etrafında yer alan bir levhaya yerleştirilmiştir.<br/>III. Objektif dışındaki kontrol halkasının hareket ettirilmesiyle, ince metal plakaların açılıp kapanmasıyla istenilen diyafram açıklığı elde edilir.<br/><strong>Belirtilen özelliklerin ait olduğu diyafram türü aşağıdakilerden hangisidir?</strong>",
         "A": "Basit diyafram",
         "B": "Otomotik diyafram",
         "C": "Dijital diyafram",
@@ -501,7 +501,7 @@
     },
     {
         "SoruID": 331162,
-        "SoruMetni": "I. Diyafram değeri (ışığın giriş aralığının genişliği)<br/>II. ISO değeri (sensörün ışığa duyarlılık düzeyi)<br/>III. Enstantane değeri (ışığın giriş süresi)<br/><strong>Yukarıdakilerden hangisi ya da hangileri fotoğraf makinelerinde temel pozlama ayarları arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Diyafram değeri (ışığın giriş aralığının genişliği)<br/>II. ISO değeri (sensörün ışığa duyarlılık düzeyi)<br/>III. Enstantane değeri (ışığın giriş süresi)<br/><strong>Yukarıdakilerden hangisi ya da hangileri fotoğraf makinelerinde temel pozlama ayarları arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",

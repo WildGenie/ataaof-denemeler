@@ -217,11 +217,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*147.60px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.976758);\">Yanıtınız yanlış ise \"Dijital Görüntü\" konu</span></span><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*159.60px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.955837);\">sunu yeniden gözden geçiriniz.</span></span></span><br><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*311.10px); top: calc(var(--scale-factor)*389.43px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.00887);\">Dijital görüntü,</span></span><span> <span style=\"left: calc(var(--scale-factor)*383.10px); top: calc(var(--scale-factor)*389.43px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.982451);\">piksel olarak da bilinen resim </span></span><span><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*402.43px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.971806);\">ögelerinden oluşan, belirli özelliği ve renk yoğun</span></span><span><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*415.43px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.974363);\">luğu olan görüntünün, dijital ortama belirli boyut</span></span><span><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*428.43px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.965794);\">larda aktarılarak oluşturulan hâline denir.</span></span></span>"
+        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*147.60px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.976758);\">Yanıtınız yanlış ise \"Dijital Görüntü\" konu</span></span><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*159.60px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.955837);\">sunu yeniden gözden geçiriniz.</span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*311.10px); top: calc(var(--scale-factor)*389.43px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.00887);\">Dijital görüntü,</span></span><span> <span style=\"left: calc(var(--scale-factor)*383.10px); top: calc(var(--scale-factor)*389.43px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.982451);\">piksel olarak da bilinen resim </span></span><span><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*402.43px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.971806);\">ögelerinden oluşan, belirli özelliği ve renk yoğun</span></span><span><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*415.43px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.974363);\">luğu olan görüntünün, dijital ortama belirli boyut</span></span><span><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*428.43px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.965794);\">larda aktarılarak oluşturulan hâline denir.</span></span></span>"
     },
     {
         "SoruID": 3488793,
-        "SoruMetni": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*690.78px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.00646);\">\"Görüntüyü oluşturan her çizginin başlan</span></span><span><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*703.78px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.975716);\">gıç, bitiş, uzunluk, yön, dolgu rengi ve çizgi rengi</span></span><span><br role=\"presentation\"/><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*716.78px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.959126);\">bilgilerinin saklandığı görüntü yapısıdır.\"</span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*716.78px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.959126);\">Yukarıda tanımlanan kavram aşağıdakilerden hangisidir?</span></span></span>",
+        "SoruMetni": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*690.78px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.00646);\">\"Görüntüyü oluşturan her çizginin başlan</span></span><span><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*703.78px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.975716);\">gıç, bitiş, uzunluk, yön, dolgu rengi ve çizgi rengi</span></span><span><br/><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*716.78px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.959126);\">bilgilerinin saklandığı görüntü yapısıdır.\"</span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*716.78px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.959126);\">Yukarıda tanımlanan kavram aşağıdakilerden hangisidir?</span></span></span>",
         "A": "Sinyal",
         "B": "Vektör",
         "C": "Çözünürlük",
@@ -237,11 +237,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*195.08px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.976758);\">Yanıtınız yanlış ise \"Dijital Görüntü\" konu</span></span><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*207.08px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.955837);\">sunu yeniden gözden geçiriniz.</span></span></span><br><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*690.78px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.00646);\"><strong>Vektör</strong>, görüntüyü oluşturan her çizginin başlan</span></span><span><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*703.78px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.975716);\">gıç, bitiş, uzunluk, yön, dolgu rengi ve çizgi rengi</span></span><span><br role=\"presentation\"/><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*716.78px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.959126);\">bilgilerinin saklandığı görüntü yapısıdır.</span></span></span>"
+        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*195.08px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.976758);\">Yanıtınız yanlış ise \"Dijital Görüntü\" konu</span></span><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*207.08px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.955837);\">sunu yeniden gözden geçiriniz.</span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*690.78px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.00646);\"><strong>Vektör</strong>, görüntüyü oluşturan her çizginin başlan</span></span><span><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*703.78px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.975716);\">gıç, bitiş, uzunluk, yön, dolgu rengi ve çizgi rengi</span></span><span><br/><span style=\"left: calc(var(--scale-factor)*296.93px); top: calc(var(--scale-factor)*716.78px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.959126);\">bilgilerinin saklandığı görüntü yapısıdır.</span></span></span>"
     },
     {
         "SoruID": 3488794,
-        "SoruMetni": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*333.00px); top: calc(var(--scale-factor)*111.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.995011);\">\"..................... </span></span><span><span style=\"left: calc(var(--scale-factor)*368.10px); top: calc(var(--scale-factor)*111.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.908373);\">fiziksel</span> <span style=\"left: calc(var(--scale-factor)*404.05px); top: calc(var(--scale-factor)*111.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.944807);\">değişkenlerin</span> <span style=\"left: calc(var(--scale-factor)*462.14px); top: calc(var(--scale-factor)*111.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(1.01954);\">durumu </span></span><span><span style=\"left: calc(var(--scale-factor)*333.00px); top: calc(var(--scale-factor)*124.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.954196);\">hakkında, verilerin aktarımını sağlayan ve</span></span><span><br role=\"presentation\"/><span style=\"left: calc(var(--scale-factor)*333.00px); top: calc(var(--scale-factor)*137.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.932151);\">sayısal olarak bir \"f\" fonksiyonu ile göste</span></span><span><span style=\"left: calc(var(--scale-factor)*333.00px); top: calc(var(--scale-factor)*150.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.960475);\">rilen kavramdır.\"</span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*333.00px); top: calc(var(--scale-factor)*150.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.960475);\">Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?</span></span></span>",
+        "SoruMetni": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*333.00px); top: calc(var(--scale-factor)*111.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.995011);\">\"..................... </span></span><span><span style=\"left: calc(var(--scale-factor)*368.10px); top: calc(var(--scale-factor)*111.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.908373);\">fiziksel</span> <span style=\"left: calc(var(--scale-factor)*404.05px); top: calc(var(--scale-factor)*111.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.944807);\">değişkenlerin</span> <span style=\"left: calc(var(--scale-factor)*462.14px); top: calc(var(--scale-factor)*111.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(1.01954);\">durumu </span></span><span><span style=\"left: calc(var(--scale-factor)*333.00px); top: calc(var(--scale-factor)*124.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.954196);\">hakkında, verilerin aktarımını sağlayan ve</span></span><span><br/><span style=\"left: calc(var(--scale-factor)*333.00px); top: calc(var(--scale-factor)*137.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.932151);\">sayısal olarak bir \"f\" fonksiyonu ile göste</span></span><span><span style=\"left: calc(var(--scale-factor)*333.00px); top: calc(var(--scale-factor)*150.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.960475);\">rilen kavramdır.\"</span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*333.00px); top: calc(var(--scale-factor)*150.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.960475);\">Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?</span></span></span>",
         "A": "Sinyal",
         "B": "Piksel",
         "C": "Vektör",
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*99.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.976758);\">Yanıtınız yanlış ise \"Dijital Görüntü\" konu</span></span><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*111.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.955837);\">sunu yeniden gözden geçiriniz.</span></span></span><br><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*333.00px); top: calc(var(--scale-factor)*111.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.995011);\"><strong>Sinyal</strong>,</span></span><span> <span style=\"left: calc(var(--scale-factor)*368.10px); top: calc(var(--scale-factor)*111.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.908373);\">Fiziksel</span> <span style=\"left: calc(var(--scale-factor)*404.05px); top: calc(var(--scale-factor)*111.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.944807);\">değişkenlerin</span> <span style=\"left: calc(var(--scale-factor)*462.14px); top: calc(var(--scale-factor)*111.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(1.01954);\">durumu </span></span><span><span style=\"left: calc(var(--scale-factor)*333.00px); top: calc(var(--scale-factor)*124.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.954196);\">hakkında, verilerin aktarımını sağlayan ve </span></span><span><span style=\"left: calc(var(--scale-factor)*333.00px); top: calc(var(--scale-factor)*137.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.932151);\">sayısal olarak bir \"f\" fonksiyonu ile göste</span></span><span><span style=\"left: calc(var(--scale-factor)*333.00px); top: calc(var(--scale-factor)*150.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.960475);\">rilen kavramdır.</span></span></span>"
+        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*99.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.976758);\">Yanıtınız yanlış ise \"Dijital Görüntü\" konu</span></span><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*111.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.955837);\">sunu yeniden gözden geçiriniz.</span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*333.00px); top: calc(var(--scale-factor)*111.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.995011);\"><strong>Sinyal</strong>,</span></span><span> <span style=\"left: calc(var(--scale-factor)*368.10px); top: calc(var(--scale-factor)*111.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.908373);\">Fiziksel</span> <span style=\"left: calc(var(--scale-factor)*404.05px); top: calc(var(--scale-factor)*111.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.944807);\">değişkenlerin</span> <span style=\"left: calc(var(--scale-factor)*462.14px); top: calc(var(--scale-factor)*111.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(1.01954);\">durumu </span></span><span><span style=\"left: calc(var(--scale-factor)*333.00px); top: calc(var(--scale-factor)*124.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.954196);\">hakkında, verilerin aktarımını sağlayan ve </span></span><span><span style=\"left: calc(var(--scale-factor)*333.00px); top: calc(var(--scale-factor)*137.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.932151);\">sayısal olarak bir \"f\" fonksiyonu ile göste</span></span><span><span style=\"left: calc(var(--scale-factor)*333.00px); top: calc(var(--scale-factor)*150.01px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.960475);\">rilen kavramdır.</span></span></span>"
     },
     {
         "SoruID": 3488795,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*99.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.976758);\">Yanıtınız yanlış ise \"Dijital Görüntü\" konu</span></span><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*111.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.955837);\">sunu yeniden gözden geçiriniz.</span></span></span><br><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*372.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(1.01477);\">Piksel,</span></span><span> <span style=\"left: calc(var(--scale-factor)*357.21px); top: calc(var(--scale-factor)*372.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.957155);\">dijital</span> <span style=\"left: calc(var(--scale-factor)*386.23px); top: calc(var(--scale-factor)*372.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(1.01709);\">görüntünün</span> <span style=\"left: calc(var(--scale-factor)*439.81px); top: calc(var(--scale-factor)*372.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.929172);\">elde</span> <span style=\"left: calc(var(--scale-factor)*461.97px); top: calc(var(--scale-factor)*372.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.948839);\">edilmesini </span></span><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*385.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(1.03367);\">sağlayan ve kontrol edilebilen en küçük bi</span></span><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*398.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.98931);\">rimdir. Piksel, İngilizce \"pixel\" yani \"Picture </span></span><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*411.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(1.00253);\">Elements\" kelimelerinden kısaltılarak üretil</span></span><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*424.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(1.05603);\">miş bir kelimedir. Resim parçası anlamına </span></span><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*437.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(1.00624);\">gelen piksel, sayısal bir görüntüyü oluşturan </span></span><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*450.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.977826);\">ışığa duyarlı hücreler ya da kareler için kulla</span></span><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*463.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.968253);\">nılır. Dijital görüntü denildiğinde piksellerden </span></span><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*476.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.951207);\">oluşan bir yapı akla gelmelidir. Piksel kısaltma </span></span><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*489.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.927712);\">olarak \"px\" ile gösterilir.</span></span></span>"
+        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*99.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.976758);\">Yanıtınız yanlış ise \"Dijital Görüntü\" konu</span></span><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*111.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.955837);\">sunu yeniden gözden geçiriniz.</span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*372.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(1.01477);\">Piksel,</span></span><span> <span style=\"left: calc(var(--scale-factor)*357.21px); top: calc(var(--scale-factor)*372.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.957155);\">dijital</span> <span style=\"left: calc(var(--scale-factor)*386.23px); top: calc(var(--scale-factor)*372.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(1.01709);\">görüntünün</span> <span style=\"left: calc(var(--scale-factor)*439.81px); top: calc(var(--scale-factor)*372.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.929172);\">elde</span> <span style=\"left: calc(var(--scale-factor)*461.97px); top: calc(var(--scale-factor)*372.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.948839);\">edilmesini </span></span><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*385.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(1.03367);\">sağlayan ve kontrol edilebilen en küçük bi</span></span><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*398.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.98931);\">rimdir. Piksel, İngilizce \"pixel\" yani \"Picture </span></span><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*411.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(1.00253);\">Elements\" kelimelerinden kısaltılarak üretil</span></span><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*424.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(1.05603);\">miş bir kelimedir. Resim parçası anlamına </span></span><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*437.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(1.00624);\">gelen piksel, sayısal bir görüntüyü oluşturan </span></span><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*450.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.977826);\">ışığa duyarlı hücreler ya da kareler için kulla</span></span><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*463.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.968253);\">nılır. Dijital görüntü denildiğinde piksellerden </span></span><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*476.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.951207);\">oluşan bir yapı akla gelmelidir. Piksel kısaltma </span></span><span><span style=\"left: calc(var(--scale-factor)*323.18px); top: calc(var(--scale-factor)*489.51px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.927712);\">olarak \"px\" ile gösterilir.</span></span></span>"
     },
     {
         "SoruID": 3488796,
@@ -297,11 +297,11 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*195.08px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.976758);\">Yanıtınız yanlış ise \"Dijital Görüntü\" konu</span></span><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*207.08px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.955837);\">sunu yeniden gözden geçiriniz.</span></span></span><br><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*445.07px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.956047);\">Dijital görüntüde çözünürlük değeri arttıkça görüntü alanı büyür, küçüldükçe görüntü </span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*458.07px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.912641);\">alanı küçülür. Bazı çözünürlüklerin yükseklik ve genişlik ölçüleri standartlaştırılmış ve özel isimler verilmiştir. </span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*471.07px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.962098);\">1280x720 px çözünürlük High Definition (HD) ve 1920x1080px çözünürlük Full High Definition (FHD) </span></span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*484.07px); font-size: calc(var(--scale-factor)*11.00px); font-family: serif; transform: scaleX(0.946321);\"><span style=\"font-family: verdana, geneva, sans-serif;\">dönemleri itibariyle yoğun kullanılan çözünürlük standartlarıdır.</span> </span></span>"
+        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*195.08px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.976758);\">Yanıtınız yanlış ise \"Dijital Görüntü\" konu</span></span><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*207.08px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.955837);\">sunu yeniden gözden geçiriniz.</span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*445.07px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.956047);\">Dijital görüntüde çözünürlük değeri arttıkça görüntü alanı büyür, küçüldükçe görüntü </span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*458.07px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.912641);\">alanı küçülür. Bazı çözünürlüklerin yükseklik ve genişlik ölçüleri standartlaştırılmış ve özel isimler verilmiştir. </span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*471.07px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.962098);\">1280x720 px çözünürlük High Definition (HD) ve 1920x1080px çözünürlük Full High Definition (FHD) </span></span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*484.07px); font-size: calc(var(--scale-factor)*11.00px); font-family: serif; transform: scaleX(0.946321);\"><span style=\"font-family: verdana, geneva, sans-serif;\">dönemleri itibariyle yoğun kullanılan çözünürlük standartlarıdır.</span> </span></span>"
     },
     {
         "SoruID": 3488797,
-        "SoruMetni": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*85.72px); top: calc(var(--scale-factor)*460.38px); font-size: calc(var(--scale-factor)*10.50px); transform: scaleX(1.00393);\">Toplamsal renk sentezini oluşturan renkler </span></span><span><span style=\"left: calc(var(--scale-factor)*63.72px); top: calc(var(--scale-factor)*472.38px); font-size: calc(var(--scale-factor)*10.50px); transform: scaleX(0.978925);\">aşağıdakilerin hangisinde birlikte ve doğru olarak</span></span><span><br role=\"presentation\"/><span style=\"left: calc(var(--scale-factor)*63.72px); top: calc(var(--scale-factor)*484.38px); font-size: calc(var(--scale-factor)*10.50px); transform: scaleX(0.920269);\">verilmiştir?</span></span></span>",
+        "SoruMetni": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*85.72px); top: calc(var(--scale-factor)*460.38px); font-size: calc(var(--scale-factor)*10.50px); transform: scaleX(1.00393);\">Toplamsal renk sentezini oluşturan renkler </span></span><span><span style=\"left: calc(var(--scale-factor)*63.72px); top: calc(var(--scale-factor)*472.38px); font-size: calc(var(--scale-factor)*10.50px); transform: scaleX(0.978925);\">aşağıdakilerin hangisinde birlikte ve doğru olarak</span></span><span><br/><span style=\"left: calc(var(--scale-factor)*63.72px); top: calc(var(--scale-factor)*484.38px); font-size: calc(var(--scale-factor)*10.50px); transform: scaleX(0.920269);\">verilmiştir?</span></span></span>",
         "A": "<span style=\"font-family: verdana, geneva, sans-serif; font-size: calc(var(--scale-factor)*10.50px);\"><span style=\"left: calc(var(--scale-factor)*77.72px); top: calc(var(--scale-factor)*502.04px); transform: scaleX(0.934379);\">Cyan, Magenta, Yellow ve Key</span></span>",
         "B": "<span style=\"font-family: verdana, geneva, sans-serif; font-size: calc(var(--scale-factor)*10.50px);\"><span style=\"left: calc(var(--scale-factor)*77.72px); top: calc(var(--scale-factor)*555.71px); transform: scaleX(0.953621);\">Cyan, Magenta, Red ve Blue</span></span>",
         "C": "<span style=\"font-family: verdana, geneva, sans-serif; font-size: calc(var(--scale-factor)*10.50px);\"><span style=\"left: calc(var(--scale-factor)*77.72px); top: calc(var(--scale-factor)*515.46px); transform: scaleX(0.951222);\">Red, Green, Black</span></span>",
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*195.08px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.976758);\">Yanıtınız yanlış ise \"Dijital Görüntü\" konu</span></span><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*207.08px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.955837);\">sunu yeniden gözden geçiriniz.</span></span></span><br><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*79.37px); top: calc(var(--scale-factor)*571.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.999439);\">Toplamsal renk İngilizcesi additive color mix </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*584.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.9746);\">olarak adlandırılmaktadır. RGB açılımına bakıldı</span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*597.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.957052);\">ğında İngilizce Red, Green ve Blue renklerinin baş </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*610.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.980537);\">harflerinin kısaltılmasından oluşur. Kırmızı, Yeşil </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*623.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.964968);\">ve Mavi üç ana renkten oluşur. RGB ile renk oluş</span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*636.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.01216);\">turmak için üç ışık ışını (bir kırmızı, bir yeşil ve </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*649.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.959664);\">bir mavi) üst üste binmelidir (örneğin siyah bir ek</span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*662.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.95849);\">randan yayılan veya beyaz bir ekrandan yansıyan). </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*675.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.01607);\">Üç ışının her birine o rengin bir</span></span><span> <span style=\"left: calc(var(--scale-factor)*210.51px); top: calc(var(--scale-factor)*675.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.875409);\">bileşeni</span></span><span> <span style=\"left: calc(var(--scale-factor)*245.21px); top: calc(var(--scale-factor)*675.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.979351);\">denir ve </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*688.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.01984);\">her biri karışımda tamamen kapalıdan tamamen </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*701.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.947963);\">açıklığa kadar rastgele bir yoğunluğa sahip olabilir. </span></span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*714.39px); font-size: calc(var(--scale-factor)*11.00px); font-family: serif; transform: scaleX(0.972853);\"><span style=\"font-family: verdana, geneva, sans-serif;\">Bu üç rengin kesiştiği noktada beyaz oluşur.</span> </span></span>"
+        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*195.08px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.976758);\">Yanıtınız yanlış ise \"Dijital Görüntü\" konu</span></span><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*207.08px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.955837);\">sunu yeniden gözden geçiriniz.</span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*79.37px); top: calc(var(--scale-factor)*571.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.999439);\">Toplamsal renk İngilizcesi additive color mix </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*584.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.9746);\">olarak adlandırılmaktadır. RGB açılımına bakıldı</span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*597.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.957052);\">ğında İngilizce Red, Green ve Blue renklerinin baş </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*610.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.980537);\">harflerinin kısaltılmasından oluşur. Kırmızı, Yeşil </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*623.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.964968);\">ve Mavi üç ana renkten oluşur. RGB ile renk oluş</span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*636.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.01216);\">turmak için üç ışık ışını (bir kırmızı, bir yeşil ve </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*649.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.959664);\">bir mavi) üst üste binmelidir (örneğin siyah bir ek</span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*662.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.95849);\">randan yayılan veya beyaz bir ekrandan yansıyan). </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*675.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.01607);\">Üç ışının her birine o rengin bir</span></span><span> <span style=\"left: calc(var(--scale-factor)*210.51px); top: calc(var(--scale-factor)*675.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.875409);\">bileşeni</span></span><span> <span style=\"left: calc(var(--scale-factor)*245.21px); top: calc(var(--scale-factor)*675.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.979351);\">denir ve </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*688.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.01984);\">her biri karışımda tamamen kapalıdan tamamen </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*701.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.947963);\">açıklığa kadar rastgele bir yoğunluğa sahip olabilir. </span></span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*714.39px); font-size: calc(var(--scale-factor)*11.00px); font-family: serif; transform: scaleX(0.972853);\"><span style=\"font-family: verdana, geneva, sans-serif;\">Bu üç rengin kesiştiği noktada beyaz oluşur.</span> </span></span>"
     },
     {
         "SoruID": 3488798,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*195.08px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.976758);\">Yanıtınız yanlış ise \"Dijital Görüntü\" konu</span></span><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*207.08px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.955837);\">sunu yeniden gözden geçiriniz.</span></span></span><br><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*70.87px); top: calc(var(--scale-factor)*152.23px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.00852);\">PSD:</span></span><span> <span style=\"left: calc(var(--scale-factor)*97.55px); top: calc(var(--scale-factor)*152.23px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.954638);\">Adobe Photoshop’un kendi dosya forma</span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*164.73px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.937925);\">tıdır. Resim işlemlerinde standart formattır. Sıkıştır</span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*177.23px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.950544);\">ma yapmaz. Görüntüye birden fazla katman (layer) </span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*189.73px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.990898);\">eklenebilir. Dosya .psd formatında kayıtlı olduğu </span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*202.23px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.01385);\">sürece tabaka korunur ve asıl görüntüden her an </span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*214.73px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.959733);\">ayrılabilir. Dezavantajı olarak büyük dosya boyutu </span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*227.23px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.925834);\">şeklinde bellekte yer kaplar. Transparanlık özellikle</span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*239.73px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.936724);\">rini de barındıran bu format, görüntü işlem çalışma</span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*252.23px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.928009);\">ları esnasında kullanılacak ideal formattır.</span></span></span>"
+        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*195.08px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.976758);\">Yanıtınız yanlış ise \"Dijital Görüntü\" konu</span></span><span><span style=\"left: calc(var(--scale-factor)*98.15px); top: calc(var(--scale-factor)*207.08px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.955837);\">sunu yeniden gözden geçiriniz.</span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*70.87px); top: calc(var(--scale-factor)*152.23px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.00852);\">PSD:</span></span><span> <span style=\"left: calc(var(--scale-factor)*97.55px); top: calc(var(--scale-factor)*152.23px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.954638);\">Adobe Photoshop’un kendi dosya forma</span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*164.73px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.937925);\">tıdır. Resim işlemlerinde standart formattır. Sıkıştır</span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*177.23px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.950544);\">ma yapmaz. Görüntüye birden fazla katman (layer) </span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*189.73px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.990898);\">eklenebilir. Dosya .psd formatında kayıtlı olduğu </span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*202.23px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.01385);\">sürece tabaka korunur ve asıl görüntüden her an </span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*214.73px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.959733);\">ayrılabilir. Dezavantajı olarak büyük dosya boyutu </span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*227.23px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.925834);\">şeklinde bellekte yer kaplar. Transparanlık özellikle</span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*239.73px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.936724);\">rini de barındıran bu format, görüntü işlem çalışma</span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*252.23px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.928009);\">ları esnasında kullanılacak ideal formattır.</span></span></span>"
     },
     {
         "SoruID": 3488799,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*325.66px); top: calc(var(--scale-factor)*93.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.964253);\">Yanıtınız yanlış ise \"Dijital Görüntü İşleme</span></span><span><span style=\"left: calc(var(--scale-factor)*325.66px); top: calc(var(--scale-factor)*105.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.981025);\">nin Tarihsel Kökeni ve Gelişimi\" konusunu </span></span><span><span style=\"left: calc(var(--scale-factor)*325.66px); top: calc(var(--scale-factor)*117.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.948337);\">yeniden gözden geçiriniz.</span></span></span><br><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*301.89px); top: calc(var(--scale-factor)*241.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.998666);\">Bilgisayar aracılı sanatın öncüsü kabul edilen </span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*254.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.998083);\">Amerikalı sanatçı Lillian Schwartz, Leonardo da </span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*267.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.987443);\">Vinci’nin çalışmalarını bilgisayarlarla yaptığı de</span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*280.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.972992);\">neylerde yoğun bir şekilde kullanmıştır. Leonardo</span></span><span><br role=\"presentation\"/><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*293.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.0426);\">da Vinci’nin otoportresinin görüntüsünü Mona </span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*306.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.892661);\">Lisa</span> <span style=\"left: calc(var(--scale-factor)*312.31px); top: calc(var(--scale-factor)*306.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.900327);\">ile</span> <span style=\"left: calc(var(--scale-factor)*329.90px); top: calc(var(--scale-factor)*306.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.937577);\">benzerlikleri</span> <span style=\"left: calc(var(--scale-factor)*389.71px); top: calc(var(--scale-factor)*306.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.949393);\">göstermek</span> <span style=\"left: calc(var(--scale-factor)*440.90px); top: calc(var(--scale-factor)*306.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.960233);\">için</span> <span style=\"left: calc(var(--scale-factor)*464.43px); top: calc(var(--scale-factor)*306.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.897775);\">eşleyerek</span></span><span><br role=\"presentation\"/><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*319.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966305);\">Mona/Leo eserini dijital görüntü işlemlerini kulla</span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*332.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.94791);\">narak bilgisayar ortamında bir araya getirmiştir. Bu </span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*345.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.983855);\">çalışma dijital görüntü işlemenin tarihinde, dijital </span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*358.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.953048);\">ve geleneksel sanat ürünlerinin birlikte kullanıldığı </span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*371.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.990248);\">ilk örnektir. Yeni dijital görüntü işleme teknikleri </span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*384.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.989739);\">ve yöntemlerini kullanarak Leonardo da Vinci ve </span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*397.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.947856);\">Mona Lisa arasındaki benzerlikleri ortaya çıkarma</span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*410.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.946344);\">yı amaçlamıştır.</span></span></span>"
+        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*325.66px); top: calc(var(--scale-factor)*93.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.964253);\">Yanıtınız yanlış ise \"Dijital Görüntü İşleme</span></span><span><span style=\"left: calc(var(--scale-factor)*325.66px); top: calc(var(--scale-factor)*105.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.981025);\">nin Tarihsel Kökeni ve Gelişimi\" konusunu </span></span><span><span style=\"left: calc(var(--scale-factor)*325.66px); top: calc(var(--scale-factor)*117.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.948337);\">yeniden gözden geçiriniz.</span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*301.89px); top: calc(var(--scale-factor)*241.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.998666);\">Bilgisayar aracılı sanatın öncüsü kabul edilen </span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*254.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.998083);\">Amerikalı sanatçı Lillian Schwartz, Leonardo da </span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*267.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.987443);\">Vinci’nin çalışmalarını bilgisayarlarla yaptığı de</span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*280.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.972992);\">neylerde yoğun bir şekilde kullanmıştır. Leonardo</span></span><span><br/><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*293.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.0426);\">da Vinci’nin otoportresinin görüntüsünü Mona </span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*306.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.892661);\">Lisa</span> <span style=\"left: calc(var(--scale-factor)*312.31px); top: calc(var(--scale-factor)*306.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.900327);\">ile</span> <span style=\"left: calc(var(--scale-factor)*329.90px); top: calc(var(--scale-factor)*306.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.937577);\">benzerlikleri</span> <span style=\"left: calc(var(--scale-factor)*389.71px); top: calc(var(--scale-factor)*306.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.949393);\">göstermek</span> <span style=\"left: calc(var(--scale-factor)*440.90px); top: calc(var(--scale-factor)*306.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.960233);\">için</span> <span style=\"left: calc(var(--scale-factor)*464.43px); top: calc(var(--scale-factor)*306.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.897775);\">eşleyerek</span></span><span><br/><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*319.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966305);\">Mona/Leo eserini dijital görüntü işlemlerini kulla</span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*332.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.94791);\">narak bilgisayar ortamında bir araya getirmiştir. Bu </span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*345.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.983855);\">çalışma dijital görüntü işlemenin tarihinde, dijital </span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*358.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.953048);\">ve geleneksel sanat ürünlerinin birlikte kullanıldığı </span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*371.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.990248);\">ilk örnektir. Yeni dijital görüntü işleme teknikleri </span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*384.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.989739);\">ve yöntemlerini kullanarak Leonardo da Vinci ve </span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*397.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.947856);\">Mona Lisa arasındaki benzerlikleri ortaya çıkarma</span></span><span><span style=\"left: calc(var(--scale-factor)*287.72px); top: calc(var(--scale-factor)*410.39px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.946344);\">yı amaçlamıştır.</span></span></span>"
     },
     {
         "SoruID": 3488800,
@@ -377,12 +377,12 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*325.66px); top: calc(var(--scale-factor)*93.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.964253);\">Yanıtınız yanlış ise \"Dijital Görüntü İşleme</span></span><span><span style=\"left: calc(var(--scale-factor)*325.66px); top: calc(var(--scale-factor)*105.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.981025);\">nin Tarihsel Kökeni ve Gelişimi\" konusunu </span></span><span><span style=\"left: calc(var(--scale-factor)*325.66px); top: calc(var(--scale-factor)*117.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.948337);\">yeniden gözden geçiriniz.</span></span></span><br><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*79.37px); top: calc(var(--scale-factor)*648.76px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.97448);\">Özcan</span> <span style=\"left: calc(var(--scale-factor)*113.48px); top: calc(var(--scale-factor)*648.76px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.989387);\">Onur, Türkiye’deki</span> <span style=\"left: calc(var(--scale-factor)*211.14px); top: calc(var(--scale-factor)*648.76px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.955273);\">sanat</span> <span style=\"left: calc(var(--scale-factor)*239.46px); top: calc(var(--scale-factor)*648.76px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.943021);\">camiasını </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*661.76px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.99929);\">dijital sanatla ve dijital görüntü işleme işleme ile </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*674.76px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.985319);\">tanıştıran kişidir. Güzel Sanatlar Akademisi’nden </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*687.76px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.959664);\">mezun olduktan sonra Paris’e giderek PC ortamın</span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*700.76px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.02417);\">da grafik programlar geliştiren bir ekibe katılan </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*713.76px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.990134);\">Onur, bu süreçte ürettiği çalışmaları 1986 yılında </span></span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*726.76px); font-size: calc(var(--scale-factor)*11.00px); font-family: serif; transform: scaleX(1.01584);\"><span style=\"font-family: verdana, geneva, sans-serif;\">\"Elektropentur\" adlı sergisinde sergiledi.</span> </span></span>"
+        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*325.66px); top: calc(var(--scale-factor)*93.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.964253);\">Yanıtınız yanlış ise \"Dijital Görüntü İşleme</span></span><span><span style=\"left: calc(var(--scale-factor)*325.66px); top: calc(var(--scale-factor)*105.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.981025);\">nin Tarihsel Kökeni ve Gelişimi\" konusunu </span></span><span><span style=\"left: calc(var(--scale-factor)*325.66px); top: calc(var(--scale-factor)*117.41px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.948337);\">yeniden gözden geçiriniz.</span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*79.37px); top: calc(var(--scale-factor)*648.76px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.97448);\">Özcan</span> <span style=\"left: calc(var(--scale-factor)*113.48px); top: calc(var(--scale-factor)*648.76px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.989387);\">Onur, Türkiye’deki</span> <span style=\"left: calc(var(--scale-factor)*211.14px); top: calc(var(--scale-factor)*648.76px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.955273);\">sanat</span> <span style=\"left: calc(var(--scale-factor)*239.46px); top: calc(var(--scale-factor)*648.76px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.943021);\">camiasını </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*661.76px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.99929);\">dijital sanatla ve dijital görüntü işleme işleme ile </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*674.76px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.985319);\">tanıştıran kişidir. Güzel Sanatlar Akademisi’nden </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*687.76px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.959664);\">mezun olduktan sonra Paris’e giderek PC ortamın</span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*700.76px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.02417);\">da grafik programlar geliştiren bir ekibe katılan </span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*713.76px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.990134);\">Onur, bu süreçte ürettiği çalışmaları 1986 yılında </span></span></span><span><span style=\"left: calc(var(--scale-factor)*65.20px); top: calc(var(--scale-factor)*726.76px); font-size: calc(var(--scale-factor)*11.00px); font-family: serif; transform: scaleX(1.01584);\"><span style=\"font-family: verdana, geneva, sans-serif;\">\"Elektropentur\" adlı sergisinde sergiledi.</span> </span></span>"
     },
     {
         "SoruID": 3488801,
-        "SoruMetni": "I. <span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966424);\">Hız tespiti</span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966424);\">II. <span>Plaka tanıma</span></span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966424);\">III. <span>Hareket algıla</span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*124.69px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.930336);\">ma</span></span></span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966424);\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*124.69px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.930336);\">IV. Kişi tanıma ve sayma </span></span></span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966424);\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*124.69px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.930336);\">V. Yangın tespiti</span></span></span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966424);\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*124.69px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.930336);\">VI. Verimlilik artışı, ıslah çalışmaları</span></span></span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif; font-size: calc(var(--scale-factor)*11.00px);\"><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); transform: scaleX(0.966424);\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*137.29px); transform: scaleX(0.937362);\"><span><span style=\"left: calc(var(--scale-factor)*294.80px); top: calc(var(--scale-factor)*228.20px); transform: scaleX(1.02684);\">Yukarıdakilerden hangisi ya da hangileri dijital </span></span><span><span style=\"left: calc(var(--scale-factor)*294.80px); top: calc(var(--scale-factor)*240.20px); transform: scaleX(0.965424);\">görüntü işlemlerinin güvenlik alanında kullanımı arasında yer alır</span></span><span><span style=\"left: calc(var(--scale-factor)*294.80px); top: calc(var(--scale-factor)*252.20px); transform: scaleX(0.952696);\">?</span></span></span></span></span></span><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966424);\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*137.29px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.937362);\"><span><br role=\"presentation\"/></span><br/></span></span></span></span></span>",
-        "A": "<span><span style=\"font-family: verdana, geneva, sans-serif;\"> <span style=\"left: calc(var(--scale-factor)*308.80px); top: calc(var(--scale-factor)*269.87px); font-size: calc(var(--scale-factor)*10.50px); transform: scaleX(0.922435);\">Yalnız I</span></span></span><span style=\"font-family: verdana, geneva, sans-serif;\"><span><br role=\"presentation\"/></span><br/></span>",
+        "SoruMetni": "I. <span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966424);\">Hız tespiti</span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966424);\">II. <span>Plaka tanıma</span></span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966424);\">III. <span>Hareket algıla</span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*124.69px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.930336);\">ma</span></span></span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966424);\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*124.69px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.930336);\">IV. Kişi tanıma ve sayma </span></span></span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966424);\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*124.69px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.930336);\">V. Yangın tespiti</span></span></span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966424);\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*124.69px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.930336);\">VI. Verimlilik artışı, ıslah çalışmaları</span></span></span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif; font-size: calc(var(--scale-factor)*11.00px);\"><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); transform: scaleX(0.966424);\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*137.29px); transform: scaleX(0.937362);\"><span><span style=\"left: calc(var(--scale-factor)*294.80px); top: calc(var(--scale-factor)*228.20px); transform: scaleX(1.02684);\">Yukarıdakilerden hangisi ya da hangileri dijital </span></span><span><span style=\"left: calc(var(--scale-factor)*294.80px); top: calc(var(--scale-factor)*240.20px); transform: scaleX(0.965424);\">görüntü işlemlerinin güvenlik alanında kullanımı arasında yer alır</span></span><span><span style=\"left: calc(var(--scale-factor)*294.80px); top: calc(var(--scale-factor)*252.20px); transform: scaleX(0.952696);\">?</span></span></span></span></span></span><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966424);\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*137.29px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.937362);\"><span><br/></span><br/></span></span></span></span></span>",
+        "A": "<span><span style=\"font-family: verdana, geneva, sans-serif;\"> <span style=\"left: calc(var(--scale-factor)*308.80px); top: calc(var(--scale-factor)*269.87px); font-size: calc(var(--scale-factor)*10.50px); transform: scaleX(0.922435);\">Yalnız I</span></span></span><span style=\"font-family: verdana, geneva, sans-serif;\"><span><br/></span><br/></span>",
         "B": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*308.80px); top: calc(var(--scale-factor)*283.29px); font-size: calc(var(--scale-factor)*10.50px); transform: scaleX(0.956332);\">I ve II</span></span></span>",
         "C": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*308.80px); top: calc(var(--scale-factor)*310.12px); font-size: calc(var(--scale-factor)*10.50px); transform: scaleX(0.954223);\">I, II ve V</span></span></span>",
         "D": "III, V ve VI",
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*325.66px); top: calc(var(--scale-factor)*284.75px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.964253);\">Yanıtınız yanlış ise \"Dijital Görüntü İşleme</span></span><span><span style=\"left: calc(var(--scale-factor)*325.66px); top: calc(var(--scale-factor)*296.75px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(1.01426);\">nin Kullanım Alanları\" konusunu yeniden </span></span><span><span style=\"left: calc(var(--scale-factor)*325.66px); top: calc(var(--scale-factor)*308.75px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.941021);\">gözden geçiriniz.</span></span></span><br><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*70.87px); top: calc(var(--scale-factor)*86.89px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.939548);\">Güvenlik kamera ağları ve plaka tespit sistemle</span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*99.49px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.96905);\">ri görüntü işleme sistemleri ile entegre çalışan sis</span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966424);\">temlerdir. Hız tespiti, plaka tanıma, hareket algıla</span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*124.69px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.930336);\">ma, kişi tanıma ve sayma, yangın tespiti, su seviyesi </span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*137.29px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.937362);\">artışı gibi birçok farklı görevi yerine getiren sistem</span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*149.89px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.01973);\">ler güvenlik anlamında kullanılmaktadır. Dijital </span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*162.49px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.945433);\">görüntü işleme yazılımları ile hazırlanmış sistemler </span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*175.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.949092);\">genellikle emniyet teşkilatı ve özel güvenlik şirket</span></span></span><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*188.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966489);\">leri tarafından tercih edilmektedir.</span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*188.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966489);\"><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966424);\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*124.69px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.930336);\">VI. Verimlilik artışı, ıslah çalışmaları</span></span></span> ise <span style=\"font-family: verdana, geneva, sans-serif; font-size: calc(var(--scale-factor)*11.00px);\"><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); transform: scaleX(0.966424);\"><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*137.29px); transform: scaleX(0.937362);\"><span><span style=\"left: calc(var(--scale-factor)*294.80px); top: calc(var(--scale-factor)*228.20px); transform: scaleX(1.02684);\">dijital </span></span><span><span style=\"left: calc(var(--scale-factor)*294.80px); top: calc(var(--scale-factor)*240.20px); transform: scaleX(0.965424);\">görüntü işlemlerinin</span></span></span></span></span> </span></span></span><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*188.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966489);\">coğrafi bilgi sistemleri tarım ve hayvancılık uygulamaları kullanımı arasında yer almaktadır.<br/></span></span></span>"
+        "Aciklama": "<span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*325.66px); top: calc(var(--scale-factor)*284.75px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.964253);\">Yanıtınız yanlış ise \"Dijital Görüntü İşleme</span></span><span><span style=\"left: calc(var(--scale-factor)*325.66px); top: calc(var(--scale-factor)*296.75px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(1.01426);\">nin Kullanım Alanları\" konusunu yeniden </span></span><span><span style=\"left: calc(var(--scale-factor)*325.66px); top: calc(var(--scale-factor)*308.75px); font-size: calc(var(--scale-factor)*10.00px); transform: scaleX(0.941021);\">gözden geçiriniz.</span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*70.87px); top: calc(var(--scale-factor)*86.89px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.939548);\">Güvenlik kamera ağları ve plaka tespit sistemle</span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*99.49px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.96905);\">ri görüntü işleme sistemleri ile entegre çalışan sis</span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966424);\">temlerdir. Hız tespiti, plaka tanıma, hareket algıla</span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*124.69px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.930336);\">ma, kişi tanıma ve sayma, yangın tespiti, su seviyesi </span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*137.29px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.937362);\">artışı gibi birçok farklı görevi yerine getiren sistem</span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*149.89px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(1.01973);\">ler güvenlik anlamında kullanılmaktadır. Dijital </span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*162.49px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.945433);\">görüntü işleme yazılımları ile hazırlanmış sistemler </span></span><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*175.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.949092);\">genellikle emniyet teşkilatı ve özel güvenlik şirket</span></span></span><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*188.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966489);\">leri tarafından tercih edilmektedir.</span></span></span><br/><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*188.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966489);\"><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966424);\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*124.69px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.930336);\">VI. Verimlilik artışı, ıslah çalışmaları</span></span></span> ise <span style=\"font-family: verdana, geneva, sans-serif; font-size: calc(var(--scale-factor)*11.00px);\"><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*112.09px); transform: scaleX(0.966424);\"><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*137.29px); transform: scaleX(0.937362);\"><span><span style=\"left: calc(var(--scale-factor)*294.80px); top: calc(var(--scale-factor)*228.20px); transform: scaleX(1.02684);\">dijital </span></span><span><span style=\"left: calc(var(--scale-factor)*294.80px); top: calc(var(--scale-factor)*240.20px); transform: scaleX(0.965424);\">görüntü işlemlerinin</span></span></span></span></span> </span></span></span><span style=\"font-family: verdana, geneva, sans-serif;\"><span><span style=\"left: calc(var(--scale-factor)*56.69px); top: calc(var(--scale-factor)*188.09px); font-size: calc(var(--scale-factor)*11.00px); transform: scaleX(0.966489);\">coğrafi bilgi sistemleri tarım ve hayvancılık uygulamaları kullanımı arasında yer almaktadır.<br/></span></span></span>"
     },
     {
         "SoruID": 3489075,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kitabın birinci ünitesinde sayfa 5’deki açıklamalar incelenebilir.<br>Dijital görüntü:Yan yana gelmiş piksellerin birleşiminden meydana gelir.<br/>Siyah: Sayı sistemine göre kodlandığında “0”ın denk geldiği renktir.<br/>Binary:İkili sayı sistemine verilen isimdir.<br/>Sinyal:Verilerin aktarımını sağlayan ve sayısal olarak bir “f” fonksiyonu ile göste­rilen kavramdır.<br/>Doğru cevap B şıkkıdır."
+        "Aciklama": "Kitabın birinci ünitesinde sayfa 5’deki açıklamalar incelenebilir.<br/>Dijital görüntü:Yan yana gelmiş piksellerin birleşiminden meydana gelir.<br/>Siyah: Sayı sistemine göre kodlandığında “0”ın denk geldiği renktir.<br/>Binary:İkili sayı sistemine verilen isimdir.<br/>Sinyal:Verilerin aktarımını sağlayan ve sayısal olarak bir “f” fonksiyonu ile göste­rilen kavramdır.<br/>Doğru cevap B şıkkıdır."
     },
     {
         "SoruID": 3489076,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br>İngilizcesi “resolution” olan çözünürlük birim ölçüdeki piksel sayısına verilen isimdir."
+        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br/>İngilizcesi “resolution” olan çözünürlük birim ölçüdeki piksel sayısına verilen isimdir."
     },
     {
         "SoruID": 3489077,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünitenin ilgili bölümü vektör hakkında detaylı bilgi vermektedir.<br>Vektör, dijital görüntüyü oluşturan her çizginin başlangıç, bitiş, uzunluk, yön, dolgu rengi ve çizgi ren­gi bilgilerinin saklandığı görüntü yapısıdır. Matematiksel koordinatlar üzerine yapılandırılmış, çözünür­lük bozulmaksızın büyütülebilen, piksel yapısı yerine nokta ve eğrilerle oluşturulmuş dijital bir görüntü türüdür. Vektör tabanlı dijital görüntü üretimi genellikle diji­tal yayıncılık uygulamalarında ve büyük boyutlu tasarımların ha­zırlanmasında kullanılır."
+        "Aciklama": "Ünitenin ilgili bölümü vektör hakkında detaylı bilgi vermektedir.<br/>Vektör, dijital görüntüyü oluşturan her çizginin başlangıç, bitiş, uzunluk, yön, dolgu rengi ve çizgi ren­gi bilgilerinin saklandığı görüntü yapısıdır. Matematiksel koordinatlar üzerine yapılandırılmış, çözünür­lük bozulmaksızın büyütülebilen, piksel yapısı yerine nokta ve eğrilerle oluşturulmuş dijital bir görüntü türüdür. Vektör tabanlı dijital görüntü üretimi genellikle diji­tal yayıncılık uygulamalarında ve büyük boyutlu tasarımların ha­zırlanmasında kullanılır."
     },
     {
         "SoruID": 3489078,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br>Toplamsal ana renkler beyaz ışığın birer bileşenini oluşturur. İki toplamsal rengin çakışması ile bir çıkarımsal ana renk meydana gelir. Buna RGB renk denir."
+        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br/>Toplamsal ana renkler beyaz ışığın birer bileşenini oluşturur. İki toplamsal rengin çakışması ile bir çıkarımsal ana renk meydana gelir. Buna RGB renk denir."
     },
     {
         "SoruID": 3489079,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünitenin ilgili bölümü incelenebilir.<br>Ton, rengin belirli bir niteliğe ve onu diğerlerinden görsel olarak ayrıştırmamızı sağlayan özellikleri tanımlar. Tonlar ışığın farklı dalga boyları tarafından meydana getirilir. Doygunluk, bir rengin saflığını belirler ve rengin griye olan mesafesini tanımlar. Parlaklık, bu nitelik rengin koyuluk ve açıklık oranlarını tanımlar. Işık değerindeki değişimler rengin siyah ya da beyazla karıştırılmasıyla elde edilir.<br/>Doğru cevap E şıkkıdır."
+        "Aciklama": "Ünitenin ilgili bölümü incelenebilir.<br/>Ton, rengin belirli bir niteliğe ve onu diğerlerinden görsel olarak ayrıştırmamızı sağlayan özellikleri tanımlar. Tonlar ışığın farklı dalga boyları tarafından meydana getirilir. Doygunluk, bir rengin saflığını belirler ve rengin griye olan mesafesini tanımlar. Parlaklık, bu nitelik rengin koyuluk ve açıklık oranlarını tanımlar. Işık değerindeki değişimler rengin siyah ya da beyazla karıştırılmasıyla elde edilir.<br/>Doğru cevap E şıkkıdır."
     },
     {
         "SoruID": 3489080,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünitenin ilgili bölümü detaylı öğrenme için incelenebilir.<br>Kalibrasyon<strong>, </strong>bir ekran ve benzeri cihazın renk alanının, belirli standartlara göre ayarlanma­sı sürecidir. Örneğin: sRGB (standart RGB) 1990’lı yıllarda Hewlett Packard ve Microsoft tarafından bilgisayarlardaki dijital görüntüleri standartlaştırmayı amaçlayan, araçtan bağımsız bir renk alanıdır."
+        "Aciklama": "Ünitenin ilgili bölümü detaylı öğrenme için incelenebilir.<br/>Kalibrasyon<strong>, </strong>bir ekran ve benzeri cihazın renk alanının, belirli standartlara göre ayarlanma­sı sürecidir. Örneğin: sRGB (standart RGB) 1990’lı yıllarda Hewlett Packard ve Microsoft tarafından bilgisayarlardaki dijital görüntüleri standartlaştırmayı amaçlayan, araçtan bağımsız bir renk alanıdır."
     },
     {
         "SoruID": 3489081,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br>BMP<strong>: </strong>En temel resim formatıdır. BMP çok hızlı bir format olmasına karşın, oldukça fazla yer kapladığı için pek tercih edilmez. GIF formatının iyi bir sıkıştırma algoritması vardır.<br/>JPEG en yaygın kullanılan görüntü formatıdır.<br/>Tasarımcılar tarafından çoğunlukla tercih edilen formatlardan biri olan TIFF formatı, yüksek kalitesi ile öne çıkar.<br/>PDF hem vektör hem de piksel tabanlı görüntüleri ba­rındırma açısından en esnek ve yaygın olarak kul­lanılan biçimlerden biridir<em>. </em>"
+        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br/>BMP<strong>: </strong>En temel resim formatıdır. BMP çok hızlı bir format olmasına karşın, oldukça fazla yer kapladığı için pek tercih edilmez. GIF formatının iyi bir sıkıştırma algoritması vardır.<br/>JPEG en yaygın kullanılan görüntü formatıdır.<br/>Tasarımcılar tarafından çoğunlukla tercih edilen formatlardan biri olan TIFF formatı, yüksek kalitesi ile öne çıkar.<br/>PDF hem vektör hem de piksel tabanlı görüntüleri ba­rındırma açısından en esnek ve yaygın olarak kul­lanılan biçimlerden biridir<em>. </em>"
     },
     {
         "SoruID": 3489082,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br>1957 yılında bir bilgisayarda taranan ilk dijital görüntü, araştırmacı Russell Kirsch’in oğlu Walden’dir. 176 piksel çözünürlüğe sahip ilk dijital görüntüdür."
+        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br/>1957 yılında bir bilgisayarda taranan ilk dijital görüntü, araştırmacı Russell Kirsch’in oğlu Walden’dir. 176 piksel çözünürlüğe sahip ilk dijital görüntüdür."
     },
     {
         "SoruID": 3489083,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br>Osmose Dünya’da, Özcan Onur, Hamdi Telli ve Refik Anadol Türkiye’de digital görüntü işleme ve sanat alanında eser veren önemli sanatçılardandır."
+        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br/>Osmose Dünya’da, Özcan Onur, Hamdi Telli ve Refik Anadol Türkiye’de digital görüntü işleme ve sanat alanında eser veren önemli sanatçılardandır."
     },
     {
         "SoruID": 3489084,
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br>Bartlane Sistemi ile aktarılan görüntüler, dijital görüntünün ilk ilkel örneği olsa da sayısallaştırılmış görüntülerdir ve dijital görüntülerin oluşturulmasında bilgisayarlar kullanılmamıştır. Bu nedenle, di-jital görüntü işlemenin tarihi, dijital bilgisayarın ortaya çıkışı ve gelişimi ile birlikte gerçekleşmiştir. RAW görüntü formatı, dijital tarayıcı ve sensörler tarafından kaydedilen dijital görüntülerin sıkıştırılmadan, ham hâliyle saklanan hâllerinin kaydedildiği formattır.Kayıpsız sıkıştırarak görüntü saklamak için kullanılan bir saklama biçimidir. GIF’in gelişmiş ver­siyonu denebilir."
+        "Aciklama": "Ünitenin ilgili bölümü detaylı bilgi için incelenebilir.<br/>Bartlane Sistemi ile aktarılan görüntüler, dijital görüntünün ilk ilkel örneği olsa da sayısallaştırılmış görüntülerdir ve dijital görüntülerin oluşturulmasında bilgisayarlar kullanılmamıştır. Bu nedenle, di-jital görüntü işlemenin tarihi, dijital bilgisayarın ortaya çıkışı ve gelişimi ile birlikte gerçekleşmiştir. RAW görüntü formatı, dijital tarayıcı ve sensörler tarafından kaydedilen dijital görüntülerin sıkıştırılmadan, ham hâliyle saklanan hâllerinin kaydedildiği formattır.Kayıpsız sıkıştırarak görüntü saklamak için kullanılan bir saklama biçimidir. GIF’in gelişmiş ver­siyonu denebilir."
     },
     {
         "SoruID": 3489208,
@@ -1617,7 +1617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kontrast bu ilkeler arasında yer almaz.<br>Denge, yalınlık, bütünlük, hiyerarşi arayüz tasarımı oluşturabilmek için gerekli ilkeler arasındadır. Nokta ve çizgi, seçeneği ise arayüz tasarımı ögeleri arasındadır."
+        "Aciklama": "Kontrast bu ilkeler arasında yer almaz.<br/>Denge, yalınlık, bütünlük, hiyerarşi arayüz tasarımı oluşturabilmek için gerekli ilkeler arasındadır. Nokta ve çizgi, seçeneği ise arayüz tasarımı ögeleri arasındadır."
     },
     {
         "SoruID": 3488753,
@@ -2857,7 +2857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kare kare animasyon, geleneksel animasyon<br/>tekniğidir. Zoetrope gibi cihazların ortaya çıkmasıyla<br/>beraber kökleri on dokuzuncu yüzyıla kadar<br/>dayanmaktadır. Animasyon süreci kullanılacak sekansların<br/>her bir karesini ayrı bir sayfaya çizmeyi ve<br/>ardından sekansları istenen hızda ve sırayla görüntülemeyi<br/>içermektedir.<br>Cel Animasyon"
+        "Aciklama": "Kare kare animasyon, geleneksel animasyon<br/>tekniğidir. Zoetrope gibi cihazların ortaya çıkmasıyla<br/>beraber kökleri on dokuzuncu yüzyıla kadar<br/>dayanmaktadır. Animasyon süreci kullanılacak sekansların<br/>her bir karesini ayrı bir sayfaya çizmeyi ve<br/>ardından sekansları istenen hızda ve sırayla görüntülemeyi<br/>içermektedir.<br/>Cel Animasyon"
     },
     {
         "SoruID": 3489191,
@@ -2877,7 +2877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cut-out Yöntemi<br/>Bu yöntemde, animasyondaki tüm parçalar ayrı ayrı hareket ettirilerek yapılmaktadır. Elde kesilmiş<br/>ögeler öndeki figür, arka plan ve yazılar gibi ayrı katmanlara yerleştirilerek hareket ettirilmektedir.<br>Cut out"
+        "Aciklama": "Cut-out Yöntemi<br/>Bu yöntemde, animasyondaki tüm parçalar ayrı ayrı hareket ettirilerek yapılmaktadır. Elde kesilmiş<br/>ögeler öndeki figür, arka plan ve yazılar gibi ayrı katmanlara yerleştirilerek hareket ettirilmektedir.<br/>Cut out"
     },
     {
         "SoruID": 3489192,
@@ -3217,7 +3217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Giriş<br>Generatif sanat, kısmen veya tamamen özerk bir sistem aracılığıyla üretilen sanatı ifade eder."
+        "Aciklama": "Giriş<br/>Generatif sanat, kısmen veya tamamen özerk bir sistem aracılığıyla üretilen sanatı ifade eder."
     },
     {
         "SoruID": 3488803,
@@ -3237,7 +3237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital Sanat Eseri Oluşturmak<br>Dijital bir sanat eseri oluşturmak için en önemli teknik malzemeler; bilgisayar, tablet ve mobil cihaz gibi<br/>araçlar ile bu araçlar üzerinde çalışabilen ilgili yazılımlardır. Bu araçlardan herhangi biri üzerinde üretim yapılmak istenen sanata özgü yazılımlar aracılığıyla eserler ortaya çıkarmak mümkündür. Dijital bir sanat eserinin<br/>üretilmesi noktasında seçilen araca göre teknik açıdan öncelikli olarak hâkim olunması gereken alanlar şunlardır:<br/>• Bilgisayar/mobil cihaz/tablet donanımları,<br/>• İşletim sistemleri (Windows, MacOS, Android),<br/>• Tasarım ve görsel programlama uygulamaları (Photoshop, Krita, Procreate, Touchdesigner vs.) ve<br/>• Yardımcı teknik araçlar (Çizim kalemi vs)."
+        "Aciklama": "Dijital Sanat Eseri Oluşturmak<br/>Dijital bir sanat eseri oluşturmak için en önemli teknik malzemeler; bilgisayar, tablet ve mobil cihaz gibi<br/>araçlar ile bu araçlar üzerinde çalışabilen ilgili yazılımlardır. Bu araçlardan herhangi biri üzerinde üretim yapılmak istenen sanata özgü yazılımlar aracılığıyla eserler ortaya çıkarmak mümkündür. Dijital bir sanat eserinin<br/>üretilmesi noktasında seçilen araca göre teknik açıdan öncelikli olarak hâkim olunması gereken alanlar şunlardır:<br/>• Bilgisayar/mobil cihaz/tablet donanımları,<br/>• İşletim sistemleri (Windows, MacOS, Android),<br/>• Tasarım ve görsel programlama uygulamaları (Photoshop, Krita, Procreate, Touchdesigner vs.) ve<br/>• Yardımcı teknik araçlar (Çizim kalemi vs)."
     },
     {
         "SoruID": 3488804,
@@ -3257,7 +3257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital Sanat Uygulamaları ve Görüntü İşleme<br>Dijital sanat alanında çalışan sanatçılar yeni bir görsel imgeyi tasarlarken boyama, çizim, renk, kadraj, oranlama, kırpma, birleştirme, efekt uygulama gibi yüzlerce işlevi bünyesinde barındıran dijital görüntü işleme programları kullanırlar. Görüntüler üzerinde çok çeşitli uygulamalar yapılmasına imkân veren bu programların kullanıcılarına sunduğu en büyük avantaj, öncelikle görüntülerin katmanlı yapılar şeklinde üst üste kullanılabilme<br/>özelliğinden gelmektedir."
+        "Aciklama": "Dijital Sanat Uygulamaları ve Görüntü İşleme<br/>Dijital sanat alanında çalışan sanatçılar yeni bir görsel imgeyi tasarlarken boyama, çizim, renk, kadraj, oranlama, kırpma, birleştirme, efekt uygulama gibi yüzlerce işlevi bünyesinde barındıran dijital görüntü işleme programları kullanırlar. Görüntüler üzerinde çok çeşitli uygulamalar yapılmasına imkân veren bu programların kullanıcılarına sunduğu en büyük avantaj, öncelikle görüntülerin katmanlı yapılar şeklinde üst üste kullanılabilme<br/>özelliğinden gelmektedir."
     },
     {
         "SoruID": 3488805,
@@ -3337,7 +3337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "GENERATİF SANAT VE TASARIM UYGULAMALARI<br>2B ve 3B Fraktal Üretme Yazılımı: Mandelbulb<br/>Tarayıcı Aracılığıyla Etkileşimli Generatif Sanat Uygulaması: Silk<br/>Generatif Kodlama ile Çevresel Tasarım: Arbaro"
+        "Aciklama": "GENERATİF SANAT VE TASARIM UYGULAMALARI<br/>2B ve 3B Fraktal Üretme Yazılımı: Mandelbulb<br/>Tarayıcı Aracılığıyla Etkileşimli Generatif Sanat Uygulaması: Silk<br/>Generatif Kodlama ile Çevresel Tasarım: Arbaro"
     },
     {
         "SoruID": 3488809,
@@ -3357,7 +3357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Hareketli Görüntülerin Kurgulanması<br>Adobe Premiere Pro, Avid Media Composer, Vegas Pro, Final Cut Pro, Edius Pro<br/>gibi çoğunlukla profesyonel kullanıcıların ve post-prodüksiyon ekiplerinin tercih ettiği ücretli yazılımların yanında çoğunlukla kişisel kullanıcılara yönelik olarak sunulan OpenShot, VSDC Free Video Editör, Lightworks, Shotcut gibi ücretsiz olarak erişilebilen pek çok farklı yazılım bulunur."
+        "Aciklama": "Hareketli Görüntülerin Kurgulanması<br/>Adobe Premiere Pro, Avid Media Composer, Vegas Pro, Final Cut Pro, Edius Pro<br/>gibi çoğunlukla profesyonel kullanıcıların ve post-prodüksiyon ekiplerinin tercih ettiği ücretli yazılımların yanında çoğunlukla kişisel kullanıcılara yönelik olarak sunulan OpenShot, VSDC Free Video Editör, Lightworks, Shotcut gibi ücretsiz olarak erişilebilen pek çok farklı yazılım bulunur."
     },
     {
         "SoruID": 3488810,
@@ -3377,7 +3377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel Efektlerin Hazırlanması<br>Dijital görüntü işleme yazılımları yoluyla oluşturulan görsel efektler bugün pek çok filmde karşımıza çıkmaktadır. Görsel efekt; izleyicileri etkilemek için sahne içerisinde fantastik, ilginç ve çekilmesi imkânsız, zor ya da maliyetli görsel unsurları bilgisayar ya da çeşitli ekipmanlar yardımıyla kompozisyon içerisine post-prodüksiyon esnasında yerleştirilme, çıkartılma ya da eklenme işlemine karşılık gelir."
+        "Aciklama": "Görsel Efektlerin Hazırlanması<br/>Dijital görüntü işleme yazılımları yoluyla oluşturulan görsel efektler bugün pek çok filmde karşımıza çıkmaktadır. Görsel efekt; izleyicileri etkilemek için sahne içerisinde fantastik, ilginç ve çekilmesi imkânsız, zor ya da maliyetli görsel unsurları bilgisayar ya da çeşitli ekipmanlar yardımıyla kompozisyon içerisine post-prodüksiyon esnasında yerleştirilme, çıkartılma ya da eklenme işlemine karşılık gelir."
     },
     {
         "SoruID": 3488811,
@@ -3397,7 +3397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Generatif Kodlama ile Çevresel Tasarım: Arbaro<br>Java programlama diliyle yazılan Arbaro, ağaç ve bitki tasarımına ilişkin hazır algoritmalar yoluyla kolaylaştırılmış süreçlere sahip bir generatif tasarım uygulamasıdır. Java tarafından desteklenen herhangi bir işletim sistemi üzerinde kolaylıkla kullanılabilen uygulama gerçekçi<br/>çevresel tasarımların, ağaç ve bitkilerin ortaya çıkartılması noktasında sanat ve yazılım ilişkisinin oldukça çarpıcı bir örneğidir."
+        "Aciklama": "Generatif Kodlama ile Çevresel Tasarım: Arbaro<br/>Java programlama diliyle yazılan Arbaro, ağaç ve bitki tasarımına ilişkin hazır algoritmalar yoluyla kolaylaştırılmış süreçlere sahip bir generatif tasarım uygulamasıdır. Java tarafından desteklenen herhangi bir işletim sistemi üzerinde kolaylıkla kullanılabilen uygulama gerçekçi<br/>çevresel tasarımların, ağaç ve bitkilerin ortaya çıkartılması noktasında sanat ve yazılım ilişkisinin oldukça çarpıcı bir örneğidir."
     },
     {
         "SoruID": 3488875,
@@ -3617,7 +3617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Piksel sayısının az ya da çok olması dijital görüntüde netliği belirler, sorunun yanıtı C şıkkıdır.<br>Çözünürlüğü"
+        "Aciklama": "Piksel sayısının az ya da çok olması dijital görüntüde netliği belirler, sorunun yanıtı C şıkkıdır.<br/>Çözünürlüğü"
     },
     {
         "SoruID": 3488938,
@@ -3817,7 +3817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel 5.7 Portrait, Saraj Jarett. Sarah Jarrett, fantastik çalış­malarıyla dikkat çekmiştir.<br>Fotoğraf eğitimi alan Jarrett, cep telefonuyla çektiği fotoğrafları, Supe­rimpose, Procreate, iColorama, Glaze vb. uygula­maları kullanarak, resim ile fotoğraf arası çalışma­lar üretmektedir."
+        "Aciklama": "Görsel 5.7 Portrait, Saraj Jarett. Sarah Jarrett, fantastik çalış­malarıyla dikkat çekmiştir.<br/>Fotoğraf eğitimi alan Jarrett, cep telefonuyla çektiği fotoğrafları, Supe­rimpose, Procreate, iColorama, Glaze vb. uygula­maları kullanarak, resim ile fotoğraf arası çalışma­lar üretmektedir."
     },
     {
         "SoruID": 3489032,
@@ -3837,7 +3837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Geleneksel resme en yakın olan dijital görselleştirme türlerinden biridir.<br>Raster, yatay ve dikey piksel sıralarından oluşan dijital görsel sanat eserlerinin üretilmesinde kulla­nılan hem bir dosyalama formatı hem de bu yolla üretilen eserleri niteleyen dijital bir sanat türüdür."
+        "Aciklama": "Geleneksel resme en yakın olan dijital görselleştirme türlerinden biridir.<br/>Raster, yatay ve dikey piksel sıralarından oluşan dijital görsel sanat eserlerinin üretilmesinde kulla­nılan hem bir dosyalama formatı hem de bu yolla üretilen eserleri niteleyen dijital bir sanat türüdür."
     },
     {
         "SoruID": 3489033,
@@ -3857,7 +3857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanatçılar fotoğraf işleme yazılımlarının izin verdi­ği pek çok işlevle birlikte pek çok farklı görüntüyü bir araya getirerek kolaj çalışmaları gerçekleştirebil­mektedir.<br>Dijital kolaj olarak adlandırılan bu dijital sanat türü içerisinde çeşitli kaynaklardan elde edi­len imajlar görüntü işleme yazılımları ile düzenle­nerek bir araya getirilerek yeni imgeler oluşturulur."
+        "Aciklama": "Sanatçılar fotoğraf işleme yazılımlarının izin verdi­ği pek çok işlevle birlikte pek çok farklı görüntüyü bir araya getirerek kolaj çalışmaları gerçekleştirebil­mektedir.<br/>Dijital kolaj olarak adlandırılan bu dijital sanat türü içerisinde çeşitli kaynaklardan elde edi­len imajlar görüntü işleme yazılımları ile düzenle­nerek bir araya getirilerek yeni imgeler oluşturulur."
     },
     {
         "SoruID": 3489034,
@@ -3877,7 +3877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Nesnenin mekânla var olduğu gerçek dünyada bir­birinden bağımsız mekân ve nesne oluşturarak diji­tal bir ortam/mekân oluşturan sanatçı, mekânlarda kullandığı sesler ile görsel algıyı destekleyen işitsel bir yapı kurarak izlenen resmin dışında ve içinde gezilebilen bir resim/dünya yaratmıştır.<br>Mekân ve bilgisayar animasyonla­rını birleştiren Peter Kogler, mekân içindeki algıyı değiştiren ve mekânı sanallaştıran çalışmalar üretir."
+        "Aciklama": "Nesnenin mekânla var olduğu gerçek dünyada bir­birinden bağımsız mekân ve nesne oluşturarak diji­tal bir ortam/mekân oluşturan sanatçı, mekânlarda kullandığı sesler ile görsel algıyı destekleyen işitsel bir yapı kurarak izlenen resmin dışında ve içinde gezilebilen bir resim/dünya yaratmıştır.<br/>Mekân ve bilgisayar animasyonla­rını birleştiren Peter Kogler, mekân içindeki algıyı değiştiren ve mekânı sanallaştıran çalışmalar üretir."
     },
     {
         "SoruID": 3489035,
@@ -3897,7 +3897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İlk defa krip­to para birimleriyle ilişkili olarak yaygınlaşmaya başlayan ve Türkçeye “nitelikli fikri tapu” olarak çevrilen NFT’ler hareketli ve hareketsiz imgelere, çeşitli koleksiyon ve oyun içi nesnelere sahipliği temsil eden dijital varlıklardır.<br>Popülerliği artma­ya başlayan bu NFT sanat kavramı Beeple adıyla tanınan Amerikalı sanatçı Mike Winkelmann <em>The First 5000 Days </em>isimli eserinin yüksek satış tuta­rıyla oldukça popülerleşmiştir."
+        "Aciklama": "İlk defa krip­to para birimleriyle ilişkili olarak yaygınlaşmaya başlayan ve Türkçeye “nitelikli fikri tapu” olarak çevrilen NFT’ler hareketli ve hareketsiz imgelere, çeşitli koleksiyon ve oyun içi nesnelere sahipliği temsil eden dijital varlıklardır.<br/>Popülerliği artma­ya başlayan bu NFT sanat kavramı Beeple adıyla tanınan Amerikalı sanatçı Mike Winkelmann <em>The First 5000 Days </em>isimli eserinin yüksek satış tuta­rıyla oldukça popülerleşmiştir."
     },
     {
         "SoruID": 3489036,
@@ -3917,7 +3917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Colorado Eyalet Fuarı’nın her yıl yaptığı geleneksel sanat yarışması dijital sanat kategorisinde birincilik ödülü yapay zekâ ile yaratılan bir sanat eserine verildi.<br>Jason M. Allen eserini metin satırlarını hiper gerçek­çi grafiklere dönüştüren bir yapay zekâ programı olan Midjourney ile yarattı (Roose, 2022)."
+        "Aciklama": "Colorado Eyalet Fuarı’nın her yıl yaptığı geleneksel sanat yarışması dijital sanat kategorisinde birincilik ödülü yapay zekâ ile yaratılan bir sanat eserine verildi.<br/>Jason M. Allen eserini metin satırlarını hiper gerçek­çi grafiklere dönüştüren bir yapay zekâ programı olan Midjourney ile yarattı (Roose, 2022)."
     },
     {
         "SoruID": 3489047,
@@ -3937,7 +3937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fibonacci spirali ve altın oran ilişkisine benzer bir biçimde doğada birbirini tekrar eden ögelerden ilham alan Mandelbulb, sanatçılara sayısız yaratıcı değişkeni kolaylıkla kontrol edebilmesini ve bu yolla oldukça şaşırtıcı generatif sanat eserleri üretebilmesini sağlamaktadır.<br>Basit matematiksel denklemlerden yararlanarak iki ve üç boyutlu fraktallar oluşturmak için kullanılan Mandelbulb, generatif sanat alanında pek çok sanatçı tarafından tercih edilen bir görüntü oluşturma yazılımı­dır."
+        "Aciklama": "Fibonacci spirali ve altın oran ilişkisine benzer bir biçimde doğada birbirini tekrar eden ögelerden ilham alan Mandelbulb, sanatçılara sayısız yaratıcı değişkeni kolaylıkla kontrol edebilmesini ve bu yolla oldukça şaşırtıcı generatif sanat eserleri üretebilmesini sağlamaktadır.<br/>Basit matematiksel denklemlerden yararlanarak iki ve üç boyutlu fraktallar oluşturmak için kullanılan Mandelbulb, generatif sanat alanında pek çok sanatçı tarafından tercih edilen bir görüntü oluşturma yazılımı­dır."
     },
     {
         "SoruID": 3489050,
@@ -3957,7 +3957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel 5.34 TV test görseli üzerine uygulanmış bir datamoshing çalışması.<br>Datamoshing (veri kısıtlama), sıkıştırılmış video görüntülerinde kullanılan sıkıştırma ve çözme algoritmaları üzerinde değişiklik yaparak yeni bir imaj veya yeni video görüntüleri elde etmeye denir."
+        "Aciklama": "Görsel 5.34 TV test görseli üzerine uygulanmış bir datamoshing çalışması.<br/>Datamoshing (veri kısıtlama), sıkıştırılmış video görüntülerinde kullanılan sıkıştırma ve çözme algoritmaları üzerinde değişiklik yaparak yeni bir imaj veya yeni video görüntüleri elde etmeye denir."
     },
     {
         "SoruID": 3489053,
@@ -3977,7 +3977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel 5.30 Modelleme ve Görsel efekt programı Houdini, sayfa 148 de verilmektedir.<br>Gü­nümüzde görsel efekt tasarımı noktasında kullanılan After Effects, Nuke, Houdini, HitFilm Pro, Fusion, Cinema 4D, Maya gibi pek çok farklı işleve sahip yazılım kullanılmaktadır."
+        "Aciklama": "Görsel 5.30 Modelleme ve Görsel efekt programı Houdini, sayfa 148 de verilmektedir.<br/>Gü­nümüzde görsel efekt tasarımı noktasında kullanılan After Effects, Nuke, Houdini, HitFilm Pro, Fusion, Cinema 4D, Maya gibi pek çok farklı işleve sahip yazılım kullanılmaktadır."
     },
     {
         "SoruID": 3489054,
@@ -3997,7 +3997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Davinci Resolve’un temel özelliklerinden bazıları sayfa 152 de verilmiştir.<br>Davinci Resolve, herhangi bir manuel seçime gerek duymadan cildi pürüzsüzleştirmek, cilt tonunu ayarlamak, gözleri aydınlat­mak ve dudak rengini değiştirmek gibi işlemler için yapay zekâ destekli bir yüz tanıma ve izleme aracını barındırır."
+        "Aciklama": "Davinci Resolve’un temel özelliklerinden bazıları sayfa 152 de verilmiştir.<br/>Davinci Resolve, herhangi bir manuel seçime gerek duymadan cildi pürüzsüzleştirmek, cilt tonunu ayarlamak, gözleri aydınlat­mak ve dudak rengini değiştirmek gibi işlemler için yapay zekâ destekli bir yüz tanıma ve izleme aracını barındırır."
     },
     {
         "SoruID": 3488762,
@@ -4017,7 +4017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tek yönlü iletişim sağlayan geleneksel medyada (gazete radyo televizyon) hedef kitle pasif durumdayken dijital olarak üretilen ve tüketilen yeni medyada hedef kitle aktif duruma geçmiştir.<br>Sorunun doğru cevabı A seçeneğinde verilmiştir."
+        "Aciklama": "Tek yönlü iletişim sağlayan geleneksel medyada (gazete radyo televizyon) hedef kitle pasif durumdayken dijital olarak üretilen ve tüketilen yeni medyada hedef kitle aktif duruma geçmiştir.<br/>Sorunun doğru cevabı A seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488763,
@@ -4037,7 +4037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Temel anlamda sıfırdan bir oyun karakterinin nasıl tasarlandığını anlamak için şu basamakları bilmek gerekir: 1. Karakteri ve model türünü tasarlama, 2. Modelleme için hazırlık aşamasında eskiz oluşturma, 3. 3 boyutlu programda karakteri modelleme, 4. Karakterin dokularını hazırlama ve UV doku koordinatlarını haritalama, 5. Dokular ve kabartma haritaları oluşturma, 6. Animasyon öncesi karakter ağına (mesh) iki ayaklı bir iskelet uygulama, 7. Oyun sırasında bir oyun motoru tarafından çağrılacak animasyon dizileri oluşturma. 163<br>Sorunun doğru cevabı B seçeneğinde verilmiştir."
+        "Aciklama": "Temel anlamda sıfırdan bir oyun karakterinin nasıl tasarlandığını anlamak için şu basamakları bilmek gerekir: 1. Karakteri ve model türünü tasarlama, 2. Modelleme için hazırlık aşamasında eskiz oluşturma, 3. 3 boyutlu programda karakteri modelleme, 4. Karakterin dokularını hazırlama ve UV doku koordinatlarını haritalama, 5. Dokular ve kabartma haritaları oluşturma, 6. Animasyon öncesi karakter ağına (mesh) iki ayaklı bir iskelet uygulama, 7. Oyun sırasında bir oyun motoru tarafından çağrılacak animasyon dizileri oluşturma. 163<br/>Sorunun doğru cevabı B seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488764,
@@ -4057,7 +4057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "NPC (Non Player Character): bilgisayar oyunlarında oyuncu tarafından kontrol edilmeyen, oyun motoru tarafından kontrol edilen karakterlere verilen isim.<br>Sorunun doğru cevabı C seçeneğinde verilmiştir."
+        "Aciklama": "NPC (Non Player Character): bilgisayar oyunlarında oyuncu tarafından kontrol edilmeyen, oyun motoru tarafından kontrol edilen karakterlere verilen isim.<br/>Sorunun doğru cevabı C seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488765,
@@ -4077,7 +4077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Filmlerde ve oyunlarda kullanılan nesneler, poligon geometri sistemi ile oluşturulmaktadır.<br>Sorunun doğru cevabı D seçeneğinde verilmiştir."
+        "Aciklama": "Filmlerde ve oyunlarda kullanılan nesneler, poligon geometri sistemi ile oluşturulmaktadır.<br/>Sorunun doğru cevabı D seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488766,
@@ -4097,7 +4097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Nesne ne kadar fazla poligondan oluşursa o kadar detaylı ve gerçekçi gözükmektedir.<br>Sorunun doğru cevabı E seçeneğinde verilmiştir"
+        "Aciklama": "Nesne ne kadar fazla poligondan oluşursa o kadar detaylı ve gerçekçi gözükmektedir.<br/>Sorunun doğru cevabı E seçeneğinde verilmiştir"
     },
     {
         "SoruID": 3488767,
@@ -4117,7 +4117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "3 boyutlu olarak modellenen nesnelerin, bitkilerin, dokuların bulunduğu bu kütüphanedeki görseller fotoğraf kalitesindedir. Mega scans adında bir ekip dünyanın her yerini dolaşarak gerçek nesneleri 3 boyutlu tarayıcılar ile taramakta ve bu fotografik modellemeleri bu kütüphane üzerinden kullanıma sunmaktadırlar.<br>Sorunun doğru cevabı E seçeneğinde verilmiştir."
+        "Aciklama": "3 boyutlu olarak modellenen nesnelerin, bitkilerin, dokuların bulunduğu bu kütüphanedeki görseller fotoğraf kalitesindedir. Mega scans adında bir ekip dünyanın her yerini dolaşarak gerçek nesneleri 3 boyutlu tarayıcılar ile taramakta ve bu fotografik modellemeleri bu kütüphane üzerinden kullanıma sunmaktadırlar.<br/>Sorunun doğru cevabı E seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488768,
@@ -4137,7 +4137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1895’te Alfred Clark, ilk sinema filmi özel efektini kullanmıştır. 36 saniye süren bu film, İskoçya Kraliçesi Mary’nin infazının yeniden canlandırılmasıdır.<br>Sorunun doğru yanıtı D seçeneğinde verilmiştir."
+        "Aciklama": "1895’te Alfred Clark, ilk sinema filmi özel efektini kullanmıştır. 36 saniye süren bu film, İskoçya Kraliçesi Mary’nin infazının yeniden canlandırılmasıdır.<br/>Sorunun doğru yanıtı D seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488769,
@@ -4157,7 +4157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İlk sinema filmlerinin öncülerinden Georges Méliès, aynı dönemlerde “durdurma hilesi” denen bu etkiyi tesadüf eseri keşfetmiştir. Bir film çektiği sırada kameranın bir süreliğine durması ve çalışmaması sonucunda görüntüde atlamalar olduğunu ve bazı insanlarla araçların şaşırtıcı bir biçimde aniden yer değiştirdiğini fark etmiştir. Sinema büyücüsü lakaplı yönetmenin ayın yüzünün olduğu ve gözüne bir mekiğin çarptığı görselden hatırlanan, Jules Verne’ün Romanından esinlenerek oluşturduğu, 15 dakika süren, 1902 yapımı Le Voyage dans la Lune filmi görsel efektlerin yoğun bir şekilde kullanıldığı ilk örneklerdendir.<br>Sorunun doğru cevabı C seçeneğinde verilmiştir."
+        "Aciklama": "İlk sinema filmlerinin öncülerinden Georges Méliès, aynı dönemlerde “durdurma hilesi” denen bu etkiyi tesadüf eseri keşfetmiştir. Bir film çektiği sırada kameranın bir süreliğine durması ve çalışmaması sonucunda görüntüde atlamalar olduğunu ve bazı insanlarla araçların şaşırtıcı bir biçimde aniden yer değiştirdiğini fark etmiştir. Sinema büyücüsü lakaplı yönetmenin ayın yüzünün olduğu ve gözüne bir mekiğin çarptığı görselden hatırlanan, Jules Verne’ün Romanından esinlenerek oluşturduğu, 15 dakika süren, 1902 yapımı Le Voyage dans la Lune filmi görsel efektlerin yoğun bir şekilde kullanıldığı ilk örneklerdendir.<br/>Sorunun doğru cevabı C seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488770,
@@ -4177,7 +4177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1918’de Frank Williams “Traveling Matte” tekniğini buldu. Bu teknik kameranın sabit kalma zorunluluğunu ortadan kaldırıyordu. Teknik F.W. Murnau’nun Sunrise (1927) filminde kullanıldı.<br>Sorunun doğru yanıtı B seçeneğinde verilmiştir."
+        "Aciklama": "1918’de Frank Williams “Traveling Matte” tekniğini buldu. Bu teknik kameranın sabit kalma zorunluluğunu ortadan kaldırıyordu. Teknik F.W. Murnau’nun Sunrise (1927) filminde kullanıldı.<br/>Sorunun doğru yanıtı B seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488771,
@@ -4197,7 +4197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Teknolojinin gelişmesi ve sinemanın da dijital teknikler ile üretilmeye başlanması ile, sinemada dijital görüntü işleme yöntemleri gelişmeye başlamıştır. Zaman geçtikçe ve dijital kamera teknolojisi ilerledikçe, film yapımcıları yeşil rengin arka plan ekranı rengi olarak daha uygun olduğunu fark etmeye başlamışlardır.<br>Sorunun doğru yanıtı A seçeneğinde verilmiştir."
+        "Aciklama": "Teknolojinin gelişmesi ve sinemanın da dijital teknikler ile üretilmeye başlanması ile, sinemada dijital görüntü işleme yöntemleri gelişmeye başlamıştır. Zaman geçtikçe ve dijital kamera teknolojisi ilerledikçe, film yapımcıları yeşil rengin arka plan ekranı rengi olarak daha uygun olduğunu fark etmeye başlamışlardır.<br/>Sorunun doğru yanıtı A seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488835,
@@ -4217,7 +4217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YENİ MEDYA TEKNOLOJİLERİ<br>Eşzamansızlık"
+        "Aciklama": "YENİ MEDYA TEKNOLOJİLERİ<br/>Eşzamansızlık"
     },
     {
         "SoruID": 3488840,
@@ -4237,7 +4237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "OYUNLARDA DİJİTAL GÖRÜNTÜ<br>Bilgisayar oyunlarında oyuncu tarafından kontrol edilmeyen, oyun motoru tarafından kontrol edilen karakterlere verilen isimdir"
+        "Aciklama": "OYUNLARDA DİJİTAL GÖRÜNTÜ<br/>Bilgisayar oyunlarında oyuncu tarafından kontrol edilmeyen, oyun motoru tarafından kontrol edilen karakterlere verilen isimdir"
     },
     {
         "SoruID": 3488843,
@@ -4257,7 +4257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "OYUNLARDA DİJİTAL GÖRÜNTÜ<br>Oyun motoru"
+        "Aciklama": "OYUNLARDA DİJİTAL GÖRÜNTÜ<br/>Oyun motoru"
     },
     {
         "SoruID": 3488847,
@@ -4277,7 +4277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Unreal Engine 5<br>Sanallaştırılmış geometri sistemi"
+        "Aciklama": "Unreal Engine 5<br/>Sanallaştırılmış geometri sistemi"
     },
     {
         "SoruID": 3488849,
@@ -4297,7 +4297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Unreal Engine 5<br>Lumen teknolojisi"
+        "Aciklama": "Unreal Engine 5<br/>Lumen teknolojisi"
     },
     {
         "SoruID": 3489016,
@@ -4317,7 +4317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SİNEMADA DİJİTAL GÖRÜNTÜ<br>Stop motion"
+        "Aciklama": "SİNEMADA DİJİTAL GÖRÜNTÜ<br/>Stop motion"
     },
     {
         "SoruID": 3489017,
@@ -4337,7 +4337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeşil Ekran (Greenscreen)<br>Büyük LED ekran"
+        "Aciklama": "Yeşil Ekran (Greenscreen)<br/>Büyük LED ekran"
     },
     {
         "SoruID": 3489018,
@@ -4357,7 +4357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeşil Ekran (Greenscreen)<br>24 fps"
+        "Aciklama": "Yeşil Ekran (Greenscreen)<br/>24 fps"
     },
     {
         "SoruID": 3489019,
@@ -4377,7 +4377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SİNEMADA DİJİTAL GÖRÜNTÜ<br>Bayer filtresi"
+        "Aciklama": "SİNEMADA DİJİTAL GÖRÜNTÜ<br/>Bayer filtresi"
     },
     {
         "SoruID": 3489020,
@@ -4397,7 +4397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SİNEMADA DİJİTAL GÖRÜNTÜ<br>Traveling Matte"
+        "Aciklama": "SİNEMADA DİJİTAL GÖRÜNTÜ<br/>Traveling Matte"
     },
     {
         "SoruID": 3489145,
@@ -4437,7 +4437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Web 1.0 (1990 – 2000), kullanıcıların tek yönlü<br/>olarak karşıdaki içerikle iletişime geçtiği, statik sitelerden<br/>oluşan, geleneksel medyadan farkı olmayan,<br/>insanların sadece izleyip dinledikleri, içerik sunan<br/>sitelerden oluşmaktaydı. Kullanıcılar başka kullanıcılar<br/>ile iletişim kuramaz, web üzerinden alışveriş<br/>yapamazlardı. Bu dönem uzmanlar tarafından salt<br/>okunur web olarak tanımlanmaktadır.<br>Web 0.1"
+        "Aciklama": "Web 1.0 (1990 – 2000), kullanıcıların tek yönlü<br/>olarak karşıdaki içerikle iletişime geçtiği, statik sitelerden<br/>oluşan, geleneksel medyadan farkı olmayan,<br/>insanların sadece izleyip dinledikleri, içerik sunan<br/>sitelerden oluşmaktaydı. Kullanıcılar başka kullanıcılar<br/>ile iletişim kuramaz, web üzerinden alışveriş<br/>yapamazlardı. Bu dönem uzmanlar tarafından salt<br/>okunur web olarak tanımlanmaktadır.<br/>Web 0.1"
     },
     {
         "SoruID": 3489162,
@@ -4457,7 +4457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Web 2.0 (2000 – 2010) ile sosyal medyanın<br/>ön plana çıktığı, insanların da katılabildiği, içerik<br/>sunabildiği, yönetebildiği etkileşimli, dinamik ve<br/>çift yönlü siteler ortaya çıkmaya başladı. Artık insanlar<br/>sadece izleyip dinleyen olmaktan çıkıp aynı<br/>zamanda yazabiliyor, içeriğe katkı sağlayabiliyor,<br/>bilgiyi birbirleriyle paylaşarak ortaklaşa kullanabiliyor<br/>hâle geldiler. Paylaşım siteleri, blog sayfaları,<br/>e-posta gibi uygulamalar buna örnek gösterilebilir.<br/>Bu dönem uzmanlar tarafından sosyal web olarak<br/>tanımlanmaktadır.<br>Web 0.2"
+        "Aciklama": "Web 2.0 (2000 – 2010) ile sosyal medyanın<br/>ön plana çıktığı, insanların da katılabildiği, içerik<br/>sunabildiği, yönetebildiği etkileşimli, dinamik ve<br/>çift yönlü siteler ortaya çıkmaya başladı. Artık insanlar<br/>sadece izleyip dinleyen olmaktan çıkıp aynı<br/>zamanda yazabiliyor, içeriğe katkı sağlayabiliyor,<br/>bilgiyi birbirleriyle paylaşarak ortaklaşa kullanabiliyor<br/>hâle geldiler. Paylaşım siteleri, blog sayfaları,<br/>e-posta gibi uygulamalar buna örnek gösterilebilir.<br/>Bu dönem uzmanlar tarafından sosyal web olarak<br/>tanımlanmaktadır.<br/>Web 0.2"
     },
     {
         "SoruID": 3489168,
@@ -4477,7 +4477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görüntü işleme teknolojilerinin yoğun kullanılmaya<br/>başlandığı fotoğraflardaki yüz tanıma özelliği, etiketleme,<br/>asistan uygulamaları gibi gelişmeler bu<br/>dönemle birlikte hayatımıza dâhil olmuştur. Bu<br/>dönem uzmanlar tarafından semantik (anlamsal)<br/>web olarak tanımlanmaktadır.<br>Web 0.3"
+        "Aciklama": "Görüntü işleme teknolojilerinin yoğun kullanılmaya<br/>başlandığı fotoğraflardaki yüz tanıma özelliği, etiketleme,<br/>asistan uygulamaları gibi gelişmeler bu<br/>dönemle birlikte hayatımıza dâhil olmuştur. Bu<br/>dönem uzmanlar tarafından semantik (anlamsal)<br/>web olarak tanımlanmaktadır.<br/>Web 0.3"
     },
     {
         "SoruID": 3489170,
@@ -4497,7 +4497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yakın gelecekte hayatımızda çok daha fazla<br/>hissedeceğimiz web 4.0 (2020 – 2030) ise sabit<br/>disklerin kullanılmadığı tamamen web üzerinden<br/>ve sanallaştırma üzerinden bulut sistemler ile karşımıza<br/>çıkacaktır. İ nsanların cihazlarına herhangi bir<br/>program kurma ihtiyacı olmadan, cihazlarında herhangi<br/>bir veri depolamak zorunda kalmadan tüm<br/>işlemlerin bulut sistemler üzerinden gerçekleştiği<br/>bir altyapı kullanacaktır.<br>Web 0.4"
+        "Aciklama": "Yakın gelecekte hayatımızda çok daha fazla<br/>hissedeceğimiz web 4.0 (2020 – 2030) ise sabit<br/>disklerin kullanılmadığı tamamen web üzerinden<br/>ve sanallaştırma üzerinden bulut sistemler ile karşımıza<br/>çıkacaktır. İ nsanların cihazlarına herhangi bir<br/>program kurma ihtiyacı olmadan, cihazlarında herhangi<br/>bir veri depolamak zorunda kalmadan tüm<br/>işlemlerin bulut sistemler üzerinden gerçekleştiği<br/>bir altyapı kullanacaktır.<br/>Web 0.4"
     },
     {
         "SoruID": 3489173,
@@ -4897,7 +4897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yapay zekâ; makine öğrenimi, doğal dil işleme, veri madenciliği, sinir ağları veya bir algoritma gibi bir dizi teknoloji ve yöntemi tanımlamak için kullanılan bir şemsiye terimdir.<br>Yapay zekâ; makine öğrenimi, doğal dil işleme, veri madenciliği, sinir ağları veya bir algoritma gibi bir dizi teknoloji ve yöntemi tanımlamak için kullanılan şemsiye terimdir."
+        "Aciklama": "Yapay zekâ; makine öğrenimi, doğal dil işleme, veri madenciliği, sinir ağları veya bir algoritma gibi bir dizi teknoloji ve yöntemi tanımlamak için kullanılan bir şemsiye terimdir.<br/>Yapay zekâ; makine öğrenimi, doğal dil işleme, veri madenciliği, sinir ağları veya bir algoritma gibi bir dizi teknoloji ve yöntemi tanımlamak için kullanılan şemsiye terimdir."
     },
     {
         "SoruID": 3488867,
@@ -5017,7 +5017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BÜYÜK VERİLERLE ÇALIŞMAK<br/>Veri Nedir?<br><strong>Veri kavramı,</strong> ham gerçek enformasyon parçacığına verilen isim olarak tanımlanabilir."
+        "Aciklama": "BÜYÜK VERİLERLE ÇALIŞMAK<br/>Veri Nedir?<br/><strong>Veri kavramı,</strong> ham gerçek enformasyon parçacığına verilen isim olarak tanımlanabilir."
     },
     {
         "SoruID": 3489022,
@@ -5037,7 +5037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Büyük Verinin Özellikleri<br>• Çeşitlilik (Variety): Üretilen verilerin bü-<br/>yük bir kısmı, birbirinden farklı biçimlere<br/>sahiptir. Telefonlardan, tabletlerden, bilgi-<br/>sayarlardan, farklı işletim sistemlerinden<br/>ya da dillerden gelen veriler birbirinden<br/>farklı formatların ortaya çıkmasına neden<br/>olmaktadır.<br/>• Hız (Velocity): Gün geçtikçe artan<br/>teknolojik olanaklar, elde edilen veri<br/>miktarının, yapılacak işlem sayısının ve<br/>çeşitliliğinin de aynı şekilde artmasına<br/>neden olmaktadır.<br/>• Hacim (Volume): Geçtiğimiz 10 yılda veri<br/>miktarı (büyüklüğü) 40 kattan fazla bir ar-<br/>tış göstermiş fakat veri depolama için yapı-<br/>lan harcamalar ise yalnızca 1,5 kat artmış-<br/>tır. Bu durum, elde edilen verinin doğru ve<br/>verimli şekilde depolanması için çok iyi bir<br/>kurgulama gerektiğini ortaya koymaktadır.<br/>• Doğrulama (Verification): Verilerle ilgili<br/>son yıllarda öne çıkan bir diğer konu, veri<br/>güvenliği geçerliliği ve doğruluğu olmuştur.<br/>Elde edilen verilerin kimler tarafından<br/>ve hangi şartlarda görüntüleneceği, bu<br/>verilerin hangilerinin gizli kalması gerektiği<br/>konuları, üzerinde dikkatle durulması<br/>gereken boyutlardır.<br/>• Değer (Value): Büyük veri ile ilgili en<br/>önemli özellik, değerdir. Elde edilen ve<br/>işlenen veriler, kuruma değer kattığı sürece<br/>anlamlıdır. Bu nedenle, büyük verinin<br/>analizinin ve simülasyonlarının doğru<br/>şekilde kurgulanması ve büyük veriyi<br/>kullanan kuruma fayda sağlaması öncelikli<br/>olarak ele alınmalıdır."
+        "Aciklama": "Büyük Verinin Özellikleri<br/>• Çeşitlilik (Variety): Üretilen verilerin bü-<br/>yük bir kısmı, birbirinden farklı biçimlere<br/>sahiptir. Telefonlardan, tabletlerden, bilgi-<br/>sayarlardan, farklı işletim sistemlerinden<br/>ya da dillerden gelen veriler birbirinden<br/>farklı formatların ortaya çıkmasına neden<br/>olmaktadır.<br/>• Hız (Velocity): Gün geçtikçe artan<br/>teknolojik olanaklar, elde edilen veri<br/>miktarının, yapılacak işlem sayısının ve<br/>çeşitliliğinin de aynı şekilde artmasına<br/>neden olmaktadır.<br/>• Hacim (Volume): Geçtiğimiz 10 yılda veri<br/>miktarı (büyüklüğü) 40 kattan fazla bir ar-<br/>tış göstermiş fakat veri depolama için yapı-<br/>lan harcamalar ise yalnızca 1,5 kat artmış-<br/>tır. Bu durum, elde edilen verinin doğru ve<br/>verimli şekilde depolanması için çok iyi bir<br/>kurgulama gerektiğini ortaya koymaktadır.<br/>• Doğrulama (Verification): Verilerle ilgili<br/>son yıllarda öne çıkan bir diğer konu, veri<br/>güvenliği geçerliliği ve doğruluğu olmuştur.<br/>Elde edilen verilerin kimler tarafından<br/>ve hangi şartlarda görüntüleneceği, bu<br/>verilerin hangilerinin gizli kalması gerektiği<br/>konuları, üzerinde dikkatle durulması<br/>gereken boyutlardır.<br/>• Değer (Value): Büyük veri ile ilgili en<br/>önemli özellik, değerdir. Elde edilen ve<br/>işlenen veriler, kuruma değer kattığı sürece<br/>anlamlıdır. Bu nedenle, büyük verinin<br/>analizinin ve simülasyonlarının doğru<br/>şekilde kurgulanması ve büyük veriyi<br/>kullanan kuruma fayda sağlaması öncelikli<br/>olarak ele alınmalıdır."
     },
     {
         "SoruID": 3489023,
@@ -5117,7 +5117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "dikkat<br>Derin öğrenme sürecinde <strong>öğrenme kabiliyeti</strong>, sinir ağlarının ana kavramını oluşturmaktadır."
+        "Aciklama": "dikkat<br/>Derin öğrenme sürecinde <strong>öğrenme kabiliyeti</strong>, sinir ağlarının ana kavramını oluşturmaktadır."
     },
     {
         "SoruID": 3489027,
@@ -5137,7 +5137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Naive Bayes<br>Duygu analizi yapılmasında, yüz tanıma sistemlerinde, ses tanıma sistemlerinde, yazı içeriklerinin sınıflandırılmasında<strong> bayes algoritmaları</strong> kullanılabilir."
+        "Aciklama": "Naive Bayes<br/>Duygu analizi yapılmasında, yüz tanıma sistemlerinde, ses tanıma sistemlerinde, yazı içeriklerinin sınıflandırılmasında<strong> bayes algoritmaları</strong> kullanılabilir."
     },
     {
         "SoruID": 3489028,
@@ -5177,7 +5177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tableau ile Veri Görselleştirme<br><strong>Tableau,</strong> büyük hacimli verileri görselleştirmek için çevrimiçi ve masaüstü ortamlarda kullanılabilen görsel analitik platformudur."
+        "Aciklama": "Tableau ile Veri Görselleştirme<br/><strong>Tableau,</strong> büyük hacimli verileri görselleştirmek için çevrimiçi ve masaüstü ortamlarda kullanılabilen görsel analitik platformudur."
     },
     {
         "SoruID": 3489030,
@@ -5197,7 +5197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "VOSviewer ile Veri Görselleştirme<br><strong>VOSviewer,</strong> ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bir bilgisayar programıdır."
+        "Aciklama": "VOSviewer ile Veri Görselleştirme<br/><strong>VOSviewer,</strong> ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bir bilgisayar programıdır."
     },
     {
         "SoruID": 3489128,
@@ -5217,7 +5217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BÜYÜK VERİLERLE ÇALIŞMAK<br>Üretilen verilerin büyük bir kısmı, birbirinden farklı biçimlere sahip olmasına çeşitlilik yani variety denmektedir."
+        "Aciklama": "BÜYÜK VERİLERLE ÇALIŞMAK<br/>Üretilen verilerin büyük bir kısmı, birbirinden farklı biçimlere sahip olmasına çeşitlilik yani variety denmektedir."
     },
     {
         "SoruID": 3489129,
@@ -5237,7 +5237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BÜYÜK VERİLERLE ÇALIŞMAK<br>Büyük verinin sahip olması gereken 5 özelliği vardır. D şıkkı yanlıştır çünkü farklı özelliklere sahip birçok veriden oluşmalıdır."
+        "Aciklama": "BÜYÜK VERİLERLE ÇALIŞMAK<br/>Büyük verinin sahip olması gereken 5 özelliği vardır. D şıkkı yanlıştır çünkü farklı özelliklere sahip birçok veriden oluşmalıdır."
     },
     {
         "SoruID": 3489130,
@@ -5257,7 +5257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAPAY ZEKÂ VE MAKİNE ÖĞRENİMİ<br>Yapay sinir ağlarının yapısı tek giriş değil birden çok giriş, çıkış ve gizli katmandan oluşmaktadır."
+        "Aciklama": "YAPAY ZEKÂ VE MAKİNE ÖĞRENİMİ<br/>Yapay sinir ağlarının yapısı tek giriş değil birden çok giriş, çıkış ve gizli katmandan oluşmaktadır."
     },
     {
         "SoruID": 3489131,
@@ -5277,7 +5277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAPAY ZEKÂ VE MAKİNE ÖĞRENİMİ<br>Bir bağımlı değişken ile bağımsız değişkenler arasındaki ilişkinin tahmini için kullanılan istatistiksel yaklaşıma Lojistik Regresyon denir."
+        "Aciklama": "YAPAY ZEKÂ VE MAKİNE ÖĞRENİMİ<br/>Bir bağımlı değişken ile bağımsız değişkenler arasındaki ilişkinin tahmini için kullanılan istatistiksel yaklaşıma Lojistik Regresyon denir."
     },
     {
         "SoruID": 3489132,
@@ -5297,7 +5297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br>Enformasyon daha anlaşılır olduğundan veri bilimcilerine olan ihtiyacı arttırmaz aksine ihtiyacı ortadan kaldırır."
+        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br/>Enformasyon daha anlaşılır olduğundan veri bilimcilerine olan ihtiyacı arttırmaz aksine ihtiyacı ortadan kaldırır."
     },
     {
         "SoruID": 3489133,
@@ -5317,7 +5317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br>Tableau, büyük hacimli verileri görselleştirmek için çevrimiçi ve masaüstü ortamlarda ücretsiz kullanılabilen görsel analitik platformudur"
+        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br/>Tableau, büyük hacimli verileri görselleştirmek için çevrimiçi ve masaüstü ortamlarda ücretsiz kullanılabilen görsel analitik platformudur"
     },
     {
         "SoruID": 3489134,
@@ -5337,7 +5337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br>VOSviewer, ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bir bilgisayar programıdır."
+        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br/>VOSviewer, ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bir bilgisayar programıdır."
     },
     {
         "SoruID": 3489135,
@@ -5357,7 +5357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br>Yapay zekâ aracılığıyla gerçekleştirilecek veri görselleştirme süreci II,I, III sırası ile uygulanır."
+        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br/>Yapay zekâ aracılığıyla gerçekleştirilecek veri görselleştirme süreci II,I, III sırası ile uygulanır."
     },
     {
         "SoruID": 3489136,
@@ -5377,7 +5377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br>Veri görselleştirme sürecinde kullanılmak amacıyla 2021 yılında ilk olarak OpenAI tarafından geliştirilen yapay zekâ uygulaması, DALL-E’dir"
+        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br/>Veri görselleştirme sürecinde kullanılmak amacıyla 2021 yılında ilk olarak OpenAI tarafından geliştirilen yapay zekâ uygulaması, DALL-E’dir"
     },
     {
         "SoruID": 3489137,
@@ -5397,7 +5397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br>Google tarafından geliştirilen Imagen uygulaması, doğal dildeki (Şu an için İngilizce dili) bir metin açıklaması üzerinden görseller oluşturabilen çevrimi platformda çalışan bir yapay zekâ görselleştirme uygulamasıdır."
+        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br/>Google tarafından geliştirilen Imagen uygulaması, doğal dildeki (Şu an için İngilizce dili) bir metin açıklaması üzerinden görseller oluşturabilen çevrimi platformda çalışan bir yapay zekâ görselleştirme uygulamasıdır."
     },
     {
         "SoruID": 3489138,
@@ -5617,7 +5617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İletişim Sistemleri<br><strong>Toplumsal İlişkiler Sistemi</strong> Olarak:<br/>-Kişilerarası<br/>iletişim<br/>- Grup iletişimi<br/>- Örgüt iletişimi<br/>- Toplumsal<br/>iletişim"
+        "Aciklama": "İletişim Sistemleri<br/><strong>Toplumsal İlişkiler Sistemi</strong> Olarak:<br/>-Kişilerarası<br/>iletişim<br/>- Grup iletişimi<br/>- Örgüt iletişimi<br/>- Toplumsal<br/>iletişim"
     },
     {
         "SoruID": 3488779,
@@ -5637,7 +5637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görme ve Görsel İletişim<br><strong> Görme duyumuz</strong> ile oluşan iletişim sürecinde, ilk olarak<br/>anlama daha sonra algılama ve kavrama süreci gelişir."
+        "Aciklama": "Görme ve Görsel İletişim<br/><strong> Görme duyumuz</strong> ile oluşan iletişim sürecinde, ilk olarak<br/>anlama daha sonra algılama ve kavrama süreci gelişir."
     },
     {
         "SoruID": 3488780,
@@ -5657,7 +5657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görme ve Görsel İletişim<br>Gösterge, simge, sembol, işaret<br/>gibi kavramlar <strong>görsel iletişimin</strong> temel parçaları arasında yer alır."
+        "Aciklama": "Görme ve Görsel İletişim<br/>Gösterge, simge, sembol, işaret<br/>gibi kavramlar <strong>görsel iletişimin</strong> temel parçaları arasında yer alır."
     },
     {
         "SoruID": 3488781,
@@ -5677,7 +5677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görme ve Görsel İletişim<br>Sözel iletişimde merkez alıcı iken, görsel iletişimde merkez, “<strong>anlamlandırılan görseldir</strong>”."
+        "Aciklama": "Görme ve Görsel İletişim<br/>Sözel iletişimde merkez alıcı iken, görsel iletişimde merkez, “<strong>anlamlandırılan görseldir</strong>”."
     },
     {
         "SoruID": 3488782,
@@ -5697,7 +5697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bildirişim ve Görsel Bildirişim<br><strong>Bildirim</strong>; bir verici veya vericiler vasıtasıyla diğer tarafta yer alan alıcı veya alıcılar üzerinde etki<br/>oluşturmak hedefiyle kullanılan ve “gösterge” denilen; mesaj yüklü araçları kullanarak “bildiri” ulaştırılması durumudur."
+        "Aciklama": "Bildirişim ve Görsel Bildirişim<br/><strong>Bildirim</strong>; bir verici veya vericiler vasıtasıyla diğer tarafta yer alan alıcı veya alıcılar üzerinde etki<br/>oluşturmak hedefiyle kullanılan ve “gösterge” denilen; mesaj yüklü araçları kullanarak “bildiri” ulaştırılması durumudur."
     },
     {
         "SoruID": 3488783,
@@ -5717,7 +5717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bildirişim ve Görsel Bildirişim<br>Bildirişimin genel hedefi, mesajı alan<br/>alıcıda <strong>davranış değişikliği</strong> oluşturmaktır."
+        "Aciklama": "Bildirişim ve Görsel Bildirişim<br/>Bildirişimin genel hedefi, mesajı alan<br/>alıcıda <strong>davranış değişikliği</strong> oluşturmaktır."
     },
     {
         "SoruID": 3488784,
@@ -5737,7 +5737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel Bildirişim Boyutunda Sanat ve<br/>Tasarım<br>letişimin etki alanını artırmak, siber çağ ve yeni<br/>teknolojiler Max Bense ve <strong>Roman Ingarden</strong> öncülüğünde bilimin ve sanatın ortaya koyduğu ortak<br/>bilgi değişimi sürecinden yola çıkarak “Bildirişim<br/>Estetiği” de denilen yeni bir anlayış oluşturdular."
+        "Aciklama": "Görsel Bildirişim Boyutunda Sanat ve<br/>Tasarım<br/>letişimin etki alanını artırmak, siber çağ ve yeni<br/>teknolojiler Max Bense ve <strong>Roman Ingarden</strong> öncülüğünde bilimin ve sanatın ortaya koyduğu ortak<br/>bilgi değişimi sürecinden yola çıkarak “Bildirişim<br/>Estetiği” de denilen yeni bir anlayış oluşturdular."
     },
     {
         "SoruID": 3488785,
@@ -5757,7 +5757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Göstergeyi Oluşturan Nedenler<br><strong>Simgeci bakış açısı</strong>, toplumsal açıdan sadece<br/>sanatçının, yazarın veya tasarımcının bir parçası değil aynı zamanda insanlık için bir kültürel<br/>mirastır."
+        "Aciklama": "Göstergeyi Oluşturan Nedenler<br/><strong>Simgeci bakış açısı</strong>, toplumsal açıdan sadece<br/>sanatçının, yazarın veya tasarımcının bir parçası değil aynı zamanda insanlık için bir kültürel<br/>mirastır."
     },
     {
         "SoruID": 3488786,
@@ -5777,7 +5777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "GÖSTERGE VE GÖRSEL<br/>GÖSTERGELER<br>Dilbilimcilere<br/>göre sesler bütüncül bir yapıyı işaret eder ve gösterendir; kavramlar ise <strong>gösterilen</strong> olarak tanımlanır."
+        "Aciklama": "GÖSTERGE VE GÖRSEL<br/>GÖSTERGELER<br/>Dilbilimcilere<br/>göre sesler bütüncül bir yapıyı işaret eder ve gösterendir; kavramlar ise <strong>gösterilen</strong> olarak tanımlanır."
     },
     {
         "SoruID": 3488787,

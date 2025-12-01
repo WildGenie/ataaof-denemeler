@@ -38,8 +38,7 @@
     - D-) I, II, IV
     - E-) I, II, III, IV
 
-    > **Açıklama:** "Birinci Endüstri Devrimi’nden sonra da yeni gelişmeler ve icatlar ortaya çıkmaya devam etmiştir. Bu gelişmelerin en önemlileri şunlardır: **Ucuz çelik üretim yönteminin icat edilmesi, demir yolu ağlarının yaygınlaşması**, petrolle çalışan içten yanmalı motorların kullanılmaya başlanması, Henry Ford’un otomobil üretimi için tasarladığı seri üretim bandı, fabrikalarda ve **şehirlerde elektriğin kullanılmaya başlanmas**ı, Atlantik-ötesi ile iletişimi kolaylaştıran telgraf, radyo sistemleri ve daktilo. Bu gelişmeler İkinci Endüstri Devrimi olarak adlandırılır." (s.4). Buna göre I, II ve III. maddeler doğrudur.
-    > "Endüstri 3.0 olarak da nitelendirilen Üçüncü Endüstri Devrimi’nin doğmasına yol açan bazı önemli gelişmeler II. Dünya Savaşı’nın ardından ortaya çıkmaya başlasa da esas olarak 1970’li yıllarla birlikte etkileri daha fazla hissedilmeye başlanmış ve 2010 yılına kadar etkinliğini sürdürmüştür. Öncelikle Z1 olarak adlandırılan ve **mekanik elektrikle çalışan hesap makinesinin üretilmesi**, akabinde de bilgisayara kadar uzanan, çığır açıcı dijital gelişmeler, üretim süreçlerine de yeni bir boyut kazandırmıştır." (s.5) Buna göre IV. madde Üçüncü Endüstri Devrimi ile ilgili olup cevap c seçeneğidir.
+    > **Açıklama:** "Birinci Endüstri Devrimi’nden sonra da yeni gelişmeler ve icatlar ortaya çıkmaya devam etmiştir. Bu gelişmelerin en önemlileri şunlardır: **Ucuz çelik üretim yönteminin icat edilmesi, demir yolu ağlarının yaygınlaşması**, petrolle çalışan içten yanmalı motorların kullanılmaya başlanması, Henry Ford’un otomobil üretimi için tasarladığı seri üretim bandı, fabrikalarda ve **şehirlerde elektriğin kullanılmaya başlanmas**ı, Atlantik-ötesi ile iletişimi kolaylaştıran telgraf, radyo sistemleri ve daktilo. Bu gelişmeler İkinci Endüstri Devrimi olarak adlandırılır." (s.4). Buna göre I, II ve III. maddeler doğrudur.<br />"Endüstri 3.0 olarak da nitelendirilen Üçüncü Endüstri Devrimi’nin doğmasına yol açan bazı önemli gelişmeler II. Dünya Savaşı’nın ardından ortaya çıkmaya başlasa da esas olarak 1970’li yıllarla birlikte etkileri daha fazla hissedilmeye başlanmış ve 2010 yılına kadar etkinliğini sürdürmüştür. Öncelikle Z1 olarak adlandırılan ve **mekanik elektrikle çalışan hesap makinesinin üretilmesi**, akabinde de bilgisayara kadar uzanan, çığır açıcı dijital gelişmeler, üretim süreçlerine de yeni bir boyut kazandırmıştır." (s.5) Buna göre IV. madde Üçüncü Endüstri Devrimi ile ilgili olup cevap c seçeneğidir.
 
     <hr />
 1. Artırılmış Gerçeklik (Augmented Reality) ve Simülasyon gibi kavramlar aşağıdakilerden hangisi ile ilgilidir?
@@ -59,8 +58,7 @@
     - D-) Makine maliyeti
     - **Cevap E-) Çekim maliyeti**
 
-    > **Açıklama:** Sayfa 13'deki bilgilere göre a,b,c,d seçenekleri dijital fotoğraf makinelerin dezavantajlarıdır. Bununla birlikte;
-    > "Dijital kameralarla yapılan çekimlerin çok daha az maliyetli olması" (s.13) söz konusu olduğu için cevap e seçeneğidir.
+    > **Açıklama:** Sayfa 13'deki bilgilere göre a,b,c,d seçenekleri dijital fotoğraf makinelerin dezavantajlarıdır. Bununla birlikte;<br />"Dijital kameralarla yapılan çekimlerin çok daha az maliyetli olması" (s.13) söz konusu olduğu için cevap e seçeneğidir.
 
     <hr />
 1. " ............................... 1878 yılında çok sayıda kamera kullanarak koşan bir atın görüntülerini kaydettikten sonra zoepraksinoskop (zoopraxiscope) adını verdiği projektörle kaydettiği bu görüntüleri belirli bir hızda art arda göstererek hareketli bir görüntü oluşturmayı başarmıştır".<br />Yukarıdaki cümledeki boşluğa aşağıdaki isimlerden hangisi gelmelidir?
@@ -120,16 +118,7 @@
     - D-) Tüketimde ve sosyal hizmetlerde iyileşme
     - E-) Eğitimin yaygınlaşması ve okuma-yazma oranının artması
 
-    > **Açıklama:** Endüstri toplumlardaki belli başlı özellikler şunlardır:
-    > • Kapitalist olmaları
-    > • Fabrika temelli üretimin yaygınlaşması
-    > • Tarımda çalışan nüfus oranının azalması
-    > • Şehirlerde nüfusun artması
-    > • Üretim faaliyeti ile evin birbirinden ayrılması
-    > • Üretim seviyesinde artış ve üretimde ilerleme
-    > • Şehirleşme
-    > • Tüketimde ve sosyal hizmetlerde iyileşme
-    > • Eğitimin yaygınlaşması ve okuma-yazma oranının artması
+    > **Açıklama:** Endüstri toplumlardaki belli başlı özellikler şunlardır:<br />• Kapitalist olmaları<br />• Fabrika temelli üretimin yaygınlaşması<br />• Tarımda çalışan nüfus oranının azalması<br />• Şehirlerde nüfusun artması<br />• Üretim faaliyeti ile evin birbirinden ayrılması<br />• Üretim seviyesinde artış ve üretimde ilerleme<br />• Şehirleşme<br />• Tüketimde ve sosyal hizmetlerde iyileşme<br />• Eğitimin yaygınlaşması ve okuma-yazma oranının artması
 
     <hr />
 1. Birinci endüstri devriminin başlangıç tarihi nedir?
@@ -149,17 +138,7 @@
     - D-) Siber güvenlik
     - **Cevap E-) Buharlı makineler**
 
-    > **Açıklama:** Yaklaşık on yıllık bir geçmişe sahip olan ve yoğun bir dijital dönüşümün yaşandığı Endüstri 4.0 şu kavramlarla anlam kazanmaktadır:
-    > • Nesnelerin interneti (IOT)
-    > • Üç boyutlu (3D) yazıcılar
-    > • Otonom robotlar
-    > • Akıllı fabrikalar
-    > • Bulut bilişim sistemi
-    > • Büyük veri
-    > • Siber fiziksel sistemler
-    > • Siber güvenlik
-    > • Artırılmış (Augmented Reality) gerçeklik
-    > • Simülasyon
+    > **Açıklama:** Yaklaşık on yıllık bir geçmişe sahip olan ve yoğun bir dijital dönüşümün yaşandığı Endüstri 4.0 şu kavramlarla anlam kazanmaktadır:<br />• Nesnelerin interneti (IOT)<br />• Üç boyutlu (3D) yazıcılar<br />• Otonom robotlar<br />• Akıllı fabrikalar<br />• Bulut bilişim sistemi<br />• Büyük veri<br />• Siber fiziksel sistemler<br />• Siber güvenlik<br />• Artırılmış (Augmented Reality) gerçeklik<br />• Simülasyon
 
     <hr />
 1. Eastman Kodak firmasından Steven Sasson tarafından ilk taşınabilir dijital fotoğraf makinası ne zaman geliştirilmiştir?
@@ -229,8 +208,7 @@
     - D-) Dördüncü Endüstri Devrimi
     - E-) Endüstri 4.0
 
-    > **Açıklama:** SAYISAL ÇAĞ DÖNÜMÜ
-    > Birinci Endüstri Devrimi’nden sonra da yeni gelişmeler ve icatlar ortaya çıkmaya devam etmiştir. Bu gelişmelerin en önemlileri şunlardır: Ucuz çelik üretim yönteminin icat edilmesi, demir yolu ağlarının yaygınlaşması, petrolle çalışan içten yanmalı motorların kullanılmaya başlanması, Henry Ford’un otomobil üretimi için tasarladığı seri üretim bandı, fabrikalarda ve şehirlerde elektriğin kullanılmaya başlanması, Atlantik-ötesi ile iletişimi kolaylaştıran telgraf, radyo sistemleri ve daktilo. Bu gelişmeler İkinci Endüstri Devrimi olarak adlandırılır.
+    > **Açıklama:** SAYISAL ÇAĞ DÖNÜMÜ<br />Birinci Endüstri Devrimi’nden sonra da yeni gelişmeler ve icatlar ortaya çıkmaya devam etmiştir. Bu gelişmelerin en önemlileri şunlardır: Ucuz çelik üretim yönteminin icat edilmesi, demir yolu ağlarının yaygınlaşması, petrolle çalışan içten yanmalı motorların kullanılmaya başlanması, Henry Ford’un otomobil üretimi için tasarladığı seri üretim bandı, fabrikalarda ve şehirlerde elektriğin kullanılmaya başlanması, Atlantik-ötesi ile iletişimi kolaylaştıran telgraf, radyo sistemleri ve daktilo. Bu gelişmeler İkinci Endüstri Devrimi olarak adlandırılır.
 
     <hr />
 1. Hangisinin, endüstri toplumlarındaki belli başlı özelliklerden olduğu söylenebilir?
@@ -240,18 +218,7 @@
     - D-) Tüketimde ve sosyal hizmetlerde kötüleşme
     - E-) Üretim faaliyeti ile evin birbirine yakınlaşması
 
-    > **Açıklama:** SAYISAL ÇAĞ DÖNÜMÜ
-    > Endüstri toplumlardaki belli başlı özellikler şunlardır (Genç, 2005: 25):
-    > • Kapitalist olmaları
-    > • Fabrika temelli üretimin yaygınlaşması
-    > • Tarımda çalışan nüfus oranının azalması
-    > • Şehirlerde nüfusun artması
-    > • Üretim faaliyeti ile evin birbirinden ayrılması
-    > • Üretim seviyesinde artış ve üretimde ilerleme
-    > • Şehirleşme
-    > • Tüketimde ve sosyal hizmetlerde iyileşme
-    > • Eğitimin yaygınlaşması ve okuma-yazma
-    > oranının artması
+    > **Açıklama:** SAYISAL ÇAĞ DÖNÜMÜ<br />Endüstri toplumlardaki belli başlı özellikler şunlardır (Genç, 2005: 25):<br />• Kapitalist olmaları<br />• Fabrika temelli üretimin yaygınlaşması<br />• Tarımda çalışan nüfus oranının azalması<br />• Şehirlerde nüfusun artması<br />• Üretim faaliyeti ile evin birbirinden ayrılması<br />• Üretim seviyesinde artış ve üretimde ilerleme<br />• Şehirleşme<br />• Tüketimde ve sosyal hizmetlerde iyileşme<br />• Eğitimin yaygınlaşması ve okuma-yazma<br />oranının artması
 
     <hr />
 1. Hangisi, Dördüncü Endüstri Devrimi ya da günümüzde yaygın biçimde kullanılan adıyla Endüstri 4.0 olarak olarak değerlendirilebilir?
@@ -261,8 +228,7 @@
     - **Cevap D-) Fiziksel ve dijital sistemler arasında bağlantı kurarak üretim süreçlerini insansız biçimde kurgulayabilen yeni üretim sistemleri.**
     - E-) Makinelerin, iş hayatında olduğu gibi gündelik hayata da hakim olmaya başlaması, böylece beden gücüne duyulan gereksinim kişisel yaşam içerisinde de ortadan kalkmaya başlaması.
 
-    > **Açıklama:** SAYISAL ÇAĞ DÖNÜMÜ
-    > 21\. yüzyılın başında ise bilişim ve iletişim teknolojilerindeki çok önemli gelişmeler, internetin yaygın kullanımını ve yazılım alanındaki gelişmeler de akıllı sistemlerin gelişmesini sağladı. Bu süreçte ortaya çıkan fiziksel ve dijital sistemler arasında bağlantı kurarak üretim süreçlerini insansız biçimde kurgulayabilen yeni üretim sistemleri, Dördüncü Endüstri Devrimi ya da günümüzde yaygın biçimde kullanılan adıyla Endüstri 4.0 olarak değerlendirilmeye başlandı (Soylu, 2018: 44-45).
+    > **Açıklama:** SAYISAL ÇAĞ DÖNÜMÜ<br />21\. yüzyılın başında ise bilişim ve iletişim teknolojilerindeki çok önemli gelişmeler, internetin yaygın kullanımını ve yazılım alanındaki gelişmeler de akıllı sistemlerin gelişmesini sağladı. Bu süreçte ortaya çıkan fiziksel ve dijital sistemler arasında bağlantı kurarak üretim süreçlerini insansız biçimde kurgulayabilen yeni üretim sistemleri, Dördüncü Endüstri Devrimi ya da günümüzde yaygın biçimde kullanılan adıyla Endüstri 4.0 olarak değerlendirilmeye başlandı (Soylu, 2018: 44-45).
 
     <hr />
 1. Aşağıdakilerden hangisi Endüstri 2.0’a ait gelişmelerden biri değildir?
@@ -372,8 +338,7 @@
     - D-) Endüstri 4.0 çağında robot teknolojisi ön plana çıkmaya başlamıştır.
     - **Cevap E-) Endüstri 4.0 olarak da nitelendirilen Dördüncü Endüstri Devrimi’nin doğmasına yol açan bazı önemli gelişmeler II. Dünya Savaşı’nın ardından ortaya çıkmaya başlasa da esas olarak 1970’li yıllarla birlikte etkileri daha fazla hissedilmeye başlanmış ve 2010 yılına kadar etkinliğini sürdürmüştür.**
 
-    > **Açıklama:** SAYISAL ÇAĞ DÖNÜMÜ
-    > Endüstri 3.0 olarak da nitelendirilen Üçüncü Endüstri Devrimi’nin doğmasına yol açan bazı önemli gelişmeler II. Dünya Savaşı’nın ardından ortaya çıkmaya başlasa da esas olarak 1970’li yıllarla birlikte etkileri daha fazla hissedilmeye başlanmış ve 2010 yılına kadar etkinliğini sürdürmüştür.
+    > **Açıklama:** SAYISAL ÇAĞ DÖNÜMÜ<br />Endüstri 3.0 olarak da nitelendirilen Üçüncü Endüstri Devrimi’nin doğmasına yol açan bazı önemli gelişmeler II. Dünya Savaşı’nın ardından ortaya çıkmaya başlasa da esas olarak 1970’li yıllarla birlikte etkileri daha fazla hissedilmeye başlanmış ve 2010 yılına kadar etkinliğini sürdürmüştür.
 
     <hr />
 1. Hangisi, Endüstri 4.0' ın temel ve sistematik özelliklerindendir?
@@ -383,8 +348,7 @@
     - D-) Sıradan ürünlerin üretimi kolay yapılırken, özel ürünlerin üretiminde sıkıntılar yaşanır.
     - E-) Envanter süreçteki değişimi dikkate alarak stoklamaya önem verilir.
 
-    > **Açıklama:** SAYISAL ÇAĞ DÖNÜMÜ
-    > Akıllı makineler aracılığı ile her bir müşteri için ayrı ayrı ve birbirinden farklı ürünler üretilir.
+    > **Açıklama:** SAYISAL ÇAĞ DÖNÜMÜ<br />Akıllı makineler aracılığı ile her bir müşteri için ayrı ayrı ve birbirinden farklı ürünler üretilir.
 
     <hr />
 1. Hangisi, nesnelerin interneti (IOT) olgusunu tanımlar?
@@ -394,8 +358,7 @@
     - **Cevap D-) İnsan dokunuşuna, veri girişine ihtiyaç olmaksızın cihazların, makinelerin kendi aralarında veri iletişimi yaptığı, veri topladığı ve oluşturduğu bilgi ile karar verdiği bir ağ yapısı.**
     - E-) Adreslenemez nesnelerin kendi aralarında oluşturduğu, evrensel yaygın bir ağ ve bu ağdaki nesnelerin belirli bir protokol ile birbirleriyle iletişim içinde olmaları.
 
-    > **Açıklama:** SAYISAL ÇAĞ DÖNÜMÜ
-    > Nesnelerin interneti, insan dokunuşuna, veri girişine ihtiyaç olmaksızın cihazların, makinelerin kendi aralarında veri iletişimi yaptığı, veri topladığı ve oluşturduğu bilgi ile karar verdiği bir ağ yapısı olarak tanımlanabilir. Bir başka tanımda ise adreslenebilir nesnelerin kendi aralarında oluşturduğu, evrensel yaygın bir ağ ve bu ağdaki nesnelerin belirli bir protokol ile birbirleriyle iletişim içinde olmaları olarak tanımlanmaktadır (Aktaş, vd. 2016, 43).
+    > **Açıklama:** SAYISAL ÇAĞ DÖNÜMÜ<br />Nesnelerin interneti, insan dokunuşuna, veri girişine ihtiyaç olmaksızın cihazların, makinelerin kendi aralarında veri iletişimi yaptığı, veri topladığı ve oluşturduğu bilgi ile karar verdiği bir ağ yapısı olarak tanımlanabilir. Bir başka tanımda ise adreslenebilir nesnelerin kendi aralarında oluşturduğu, evrensel yaygın bir ağ ve bu ağdaki nesnelerin belirli bir protokol ile birbirleriyle iletişim içinde olmaları olarak tanımlanmaktadır (Aktaş, vd. 2016, 43).
 
     <hr />
 1. Sayısal fotoğrafın tarihsel gelişiminin anlaşılmasında hangisinin doğru olduğu söylenebilir?
@@ -405,8 +368,7 @@
     - D-) Dijital çağda filmin yüzeyindeki piksellerin yerini ışığa duyarlı gümüş tanecikler almıştır.
     - **Cevap E-) Dijital görüntü teknolojileri ile üretilen görüntüler, piksel tabanlı görüntülerdir.**
 
-    > **Açıklama:** SAYISAL FOTOĞRAF TARİHİ
-    > Dijital, modern bilgisayarların bilgiyi işleme yöntemidir. Konsept olarak basit ama uygulama olarak karmaşık olan dijital süreçte görüntüler de dahil her türlü veri “1”ler ve “0”lardan oluşan dizinlere indirgenir (McKernan, 2005: 16). Dijital görüntü, görüntülerin dijital teknolojiler kullanılarak elde edilmesini ve gösterilmesini ifade eder. Dijital fotoğrafçılıkta ve videoda, görüntüler kimyasal bir sürece gerek kalmadan dijital teknolojiler aracılığı ile oluşturulur, kaydedilir ve yeniden görüntülenebilir. Analog tekniklerle görüntü oluşturma sürecinde kullanılan filmlerin yerini dijital çağda sensörler alırken; filmin yüzeyindeki ışığa duyarlı gümüş taneciklerinin yerini ise pikseller almıştır. Dolayısıyla dijital görüntü teknolojileri ile üretilen görüntüler, piksel tabanlı görüntülerdir.
+    > **Açıklama:** SAYISAL FOTOĞRAF TARİHİ<br />Dijital, modern bilgisayarların bilgiyi işleme yöntemidir. Konsept olarak basit ama uygulama olarak karmaşık olan dijital süreçte görüntüler de dahil her türlü veri “1”ler ve “0”lardan oluşan dizinlere indirgenir (McKernan, 2005: 16). Dijital görüntü, görüntülerin dijital teknolojiler kullanılarak elde edilmesini ve gösterilmesini ifade eder. Dijital fotoğrafçılıkta ve videoda, görüntüler kimyasal bir sürece gerek kalmadan dijital teknolojiler aracılığı ile oluşturulur, kaydedilir ve yeniden görüntülenebilir. Analog tekniklerle görüntü oluşturma sürecinde kullanılan filmlerin yerini dijital çağda sensörler alırken; filmin yüzeyindeki ışığa duyarlı gümüş taneciklerinin yerini ise pikseller almıştır. Dolayısıyla dijital görüntü teknolojileri ile üretilen görüntüler, piksel tabanlı görüntülerdir.
 
     <hr />
 1. Hangisi, Dijital Fotoğraf Makinelerinin avantajlarındandır?
@@ -416,8 +378,7 @@
     - D-) Dinamik aralığın daha düşük olması.
     - E-) Fiziksel koşullara karşı daha hassas olmaları.
 
-    > **Açıklama:** Sayısal Fotoğrafçılık Alanındaki Gelişmeler
-    > Yüz algılama modu sayesinde istenmeyen bulanık (blur) yüz ve kırmızı göz sorunlarının ortadan kalkması.
+    > **Açıklama:** Sayısal Fotoğrafçılık Alanındaki Gelişmeler<br />Yüz algılama modu sayesinde istenmeyen bulanık (blur) yüz ve kırmızı göz sorunlarının ortadan kalkması.
 
     <hr />
 1. Hangisi, Dijital Fotoğraf Makinelerinin dezavantajlarındandır?
@@ -427,8 +388,7 @@
     - D-) Önizleme özelliği sayesinde tüm poz ayarlarının sonuçlarının çekim yapılmadan önce görülebilmesi.
     - E-) Bazı makinelerdeki hareket algılama özelliği sayesinde yüksek hızlardaki hareketlerde istenmeyen bulanıklığın (blur) önlenmesi.
 
-    > **Açıklama:** Sayısal Fotoğrafçılık Alanındaki Gelişmeler
-    > Görüntü çözünürlüklerinin analog makinelere göre şimdilik daha düşük olması.
+    > **Açıklama:** Sayısal Fotoğrafçılık Alanındaki Gelişmeler<br />Görüntü çözünürlüklerinin analog makinelere göre şimdilik daha düşük olması.
 
     <hr />
 1. Hangisi, akılı telefon kameralarının olumlu yönleri arasında sayılamaz?
@@ -438,8 +398,7 @@
     - **Cevap D-) Sağladığı alan derinliğinin fazla olması.**
     - E-) Görüntülerin kolayca paylaşılabilmesi.
 
-    > **Açıklama:** Akıllı Telefon Fotoğrafçılığı
-    > Sağladığı alan derinliğinin fazla olması.
+    > **Açıklama:** Akıllı Telefon Fotoğrafçılığı<br />Sağladığı alan derinliğinin fazla olması.
 
     <hr />
 ## Unite 2
@@ -490,8 +449,7 @@
     - **Cevap D-) RAW**
     - E-) CCD
 
-    > **Açıklama:** SAYISAL KOMPAKT FOTOĞRAF MAKİNELERİ VE ÖZELLİKLERİ
-    > Analog dönemdeki filmlerin yerini günümüzde sayısal negatifler almıştır. Sayısal fotoğrafla birlikte yerleşen bu kavram “Sayısal Negatif ”dir. Görüntüyü ham olarak yani “RAW” çekerek üzerinde istenilen değişiklikler bilgisayar ve yazılım desteğiyle yapılabilir. Bu geniş müdahale seçeneğinin olduğu format yani RAW’lar, negatif filme çok benzediği için bu isimle adlandırılır
+    > **Açıklama:** SAYISAL KOMPAKT FOTOĞRAF MAKİNELERİ VE ÖZELLİKLERİ<br />Analog dönemdeki filmlerin yerini günümüzde sayısal negatifler almıştır. Sayısal fotoğrafla birlikte yerleşen bu kavram “Sayısal Negatif ”dir. Görüntüyü ham olarak yani “RAW” çekerek üzerinde istenilen değişiklikler bilgisayar ve yazılım desteğiyle yapılabilir. Bu geniş müdahale seçeneğinin olduğu format yani RAW’lar, negatif filme çok benzediği için bu isimle adlandırılır
 
     <hr />
 1. Aşağıdakilerden hangisi Aynasız Fotoğraf Makinesinin özelliklerinden biri değildir?
@@ -511,8 +469,7 @@
     - D-) Yeni nesil elektronik vizör var
     - E-) Lensler Küçük
 
-    > **Açıklama:** Yeni nesil elektronik vizör var
-    > DSLR fotoğraf makinelerinde ayna sistemi bulunmaktadır.
+    > **Açıklama:** Yeni nesil elektronik vizör var<br />DSLR fotoğraf makinelerinde ayna sistemi bulunmaktadır.
 
     <hr />
 1. Film ölçüsü olarak 35 mm sensör ölçüsünü kullanan dijital fotoğraf makinelerine ne ad verilir?
@@ -522,8 +479,7 @@
     - D-) Kompakt Fotoğraf Makinesi
     - **Cevap E-) Tam Çerçeve DSLR Fotoğraf Makinesi**
 
-    > **Açıklama:** DSLR VE DSLR “TAM ÇERÇEVE” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ
-    > Film ölçüsü olarak 35 mm sensör ölçüsünü kullanan dijital fotoğraf makinelerine “TAM ÇERÇEVE DSLR (Full Frame) fotoğraf makineleri denir.
+    > **Açıklama:** DSLR VE DSLR “TAM ÇERÇEVE” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br />Film ölçüsü olarak 35 mm sensör ölçüsünü kullanan dijital fotoğraf makinelerine “TAM ÇERÇEVE DSLR (Full Frame) fotoğraf makineleri denir.
 
     <hr />
 1. Aşağıdakilerden hangisi Aynasız Fotoğraf Makinesinin özelliklerinden biridir?
@@ -553,8 +509,7 @@
     - D-) 8\.8x6.6 mm
     - **Cevap E-) 36x24 mm**
 
-    > **Açıklama:** DSLR VE DSLR “TAM ÇERÇEVE” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ
-    > Film ölçüsü olarak 35 mm sensör ölçüsünü kullanan dijital fotoğraf makinelerine “TAM ÇERÇEVE DSLR (Full Frame) fotoğraf makineleri denir. Bu makinelerin sensör boyutu 36x24 mm ölçülerindedir ve odak çarpanı 1’dir.
+    > **Açıklama:** DSLR VE DSLR “TAM ÇERÇEVE” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br />Film ölçüsü olarak 35 mm sensör ölçüsünü kullanan dijital fotoğraf makinelerine “TAM ÇERÇEVE DSLR (Full Frame) fotoğraf makineleri denir. Bu makinelerin sensör boyutu 36x24 mm ölçülerindedir ve odak çarpanı 1’dir.
 
     <hr />
 1. Aşağıdakilerden hangisi DX gövde avantajlarından biri değildir?
@@ -574,8 +529,7 @@
     - D-) Piksel büyüklüğü nedeniyle ISO performansı yüksektir. Grenlenme daha az yaşanır
     - E-) Dinamik aralık daha geniştir.
 
-    > **Açıklama:** 1\.5 ve 1.6 çarpan oranı nedeniyle telefoto
-    > lenslerde daha fazla yakınlaştırma yaparlar.
+    > **Açıklama:** 1\.5 ve 1.6 çarpan oranı nedeniyle telefoto<br />lenslerde daha fazla yakınlaştırma yaparlar.
 
     <hr />
 1. Aşağıdaki markalardan hangisi 2004 yılında, diğer markaların büyük ARGE çalışmalarından çok önce ilk aynasız makine örneğini üretmiştir?
@@ -585,8 +539,7 @@
     - D-) Canon
     - **Cevap E-) Epson**
 
-    > **Açıklama:** AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ
-    > Epson, 2004 yılında Canon, Nikon, Panasonic veya Sony gibi markaların büyük ARGE çalışmalarından çok önce ilk aynasız makine örneğini üretmiştir.
+    > **Açıklama:** AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br />Epson, 2004 yılında Canon, Nikon, Panasonic veya Sony gibi markaların büyük ARGE çalışmalarından çok önce ilk aynasız makine örneğini üretmiştir.
 
     <hr />
 1. İlk Micro Four Thirds (MFT) sistem fotoğraf makinesi olan EP-1’i 2009 yılında piyasaya süren marka aşağıdakilerden hangisidir?
@@ -596,8 +549,7 @@
     - D-) Canon
     - E-) Nikon
 
-    > **Açıklama:** AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ
-    > Peş peşe gelen yıllar içerisinde bir başka fotoğraf makinesi markası Olympus, ilk Micro Four Thirds (MFT) sistem fotoğraf makinesi olan EP-1’i 2009 yılında piyasaya sürmüştür. Bu ürüne Olympus “Dijital Kalem” ismini vermiştir.
+    > **Açıklama:** AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br />Peş peşe gelen yıllar içerisinde bir başka fotoğraf makinesi markası Olympus, ilk Micro Four Thirds (MFT) sistem fotoğraf makinesi olan EP-1’i 2009 yılında piyasaya sürmüştür. Bu ürüne Olympus “Dijital Kalem” ismini vermiştir.
 
     <hr />
 1. Orta format bir kameranın en büyük dezavantajı aşağıdakilerden hangisidir?
@@ -607,8 +559,7 @@
     - D-) Çözünürlüğün yüksek olması
     - E-) Görüntü kalitesinin yüksük olması
 
-    > **Açıklama:** ORTA FORMAT FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ
-    > Orta format bir kameranın en büyük dezavantajı, genellikle çok pahalı olmalarıdır. Ağır ve hantal makinelerdir.
+    > **Açıklama:** ORTA FORMAT FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br />Orta format bir kameranın en büyük dezavantajı, genellikle çok pahalı olmalarıdır. Ağır ve hantal makinelerdir.
 
     <hr />
 1. Dijital kameralarda, orta format sensör boyutları tipik olarak yaklaşık kaç mm'dir?
@@ -618,8 +569,7 @@
     - D-) 35x24 mm
     - **Cevap E-) 53,7 × 40,2 mm**
 
-    > **Açıklama:** ORTA FORMAT FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ
-    > Dijital kameralarda, orta format sensör boyutları tipik olarak yaklaşık 43,8 × 32,9 mm ile 53,7 × 40,2 mm arasında değişir.
+    > **Açıklama:** ORTA FORMAT FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br />Dijital kameralarda, orta format sensör boyutları tipik olarak yaklaşık 43,8 × 32,9 mm ile 53,7 × 40,2 mm arasında değişir.
 
     <hr />
 1. Standart bir gözün görme açısı kaç mm olarak kabul edilmektedir?
@@ -629,8 +579,7 @@
     - **Cevap D-) 50 mm**
     - E-) 55 mm
 
-    > **Açıklama:** AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ
-    > Standart bir gözün görme açısı 50 mm olarak kabul edilmektedir.
+    > **Açıklama:** AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br />Standart bir gözün görme açısı 50 mm olarak kabul edilmektedir.
 
     <hr />
 1. Aşağıdakilerden hangisi DSLR Digital Single Lens Refleks kameraların özelliklerinden biri ***değildir?***
@@ -640,8 +589,7 @@
     - **Cevap D-) Küçük gövde**
     - E-) Servis maliyeti yüksek
 
-    > **Açıklama:** AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ
-    > Tablo 2.2 DSLR ve MILC (Aynasız Fotoğraf Makinesi) Karşılaştırılması
+    > **Açıklama:** AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br />Tablo 2.2 DSLR ve MILC (Aynasız Fotoğraf Makinesi) Karşılaştırılması
 
     <hr />
 1. Aşağıdakilerden hangisi aynasız fotoğraf makinesi özelliklerinden biri ***değildir?***
@@ -651,8 +599,7 @@
     - D-) Makine sarsıntısı az
     - E-) Lensler Küçük
 
-    > **Açıklama:** AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ
-    > Tablo 2.2 DSLR ve MILC (Aynasız Fotoğraf Makinesi) Karşılaştırılması
+    > **Açıklama:** AYNASIZ “MIRROR-LESS (MILC)” FOTOĞRAF MAKİNELERİ ÖZELLİKLERİ<br />Tablo 2.2 DSLR ve MILC (Aynasız Fotoğraf Makinesi) Karşılaştırılması
 
     <hr />
 1. I. Analog dönem için film boyutlarına göre sınıflandırma, II. Analog ve Sayısal dönemler için Vizör (bakaç) türlerine göre sınıflandırma, III. Halojen, Tungsten ve Kelvin türlerine göre sınıflandırma IV. Yine sayısal kayıt ortamlarına göre sınıflandırma, V. Makinelerin netleme detaylarına göre; sıralanan özelliklerden hangileri sayısal ve film dönemi makinelerini sınıflandıran özellikler arasında yer alır?
@@ -662,8 +609,7 @@
     - D-) I, II ve V
     - E-) II, IV ve V
 
-    > **Açıklama:** Analog dönem için film boyutlarına göre sınıflandırma • Analog ve Sayısal dönemler için Vizör (bakaç) türlerine göre sınıflandırma • Yine sayısal kayıt ortamlarına göre sınıflandırma • Makinelerin netleme detaylarına göre sınıflandırma yapılabilir.
-    > III. maddede verilen değerler makineler için değil ışık kaynaklarıyla ilgili sınıflandırmada kullanılır.
+    > **Açıklama:** Analog dönem için film boyutlarına göre sınıflandırma • Analog ve Sayısal dönemler için Vizör (bakaç) türlerine göre sınıflandırma • Yine sayısal kayıt ortamlarına göre sınıflandırma • Makinelerin netleme detaylarına göre sınıflandırma yapılabilir.<br />III. maddede verilen değerler makineler için değil ışık kaynaklarıyla ilgili sınıflandırmada kullanılır.
 
     <hr />
 1. Bugünkü anlamda, cep telefonu üzerine entegre edilmiş fotoğraf makineleri aşağıdakilerden hangisidir?
@@ -783,8 +729,7 @@
     - D-) Çok işlevli bazı tasarımlar
     - E-) Video Çekim
 
-    > **Açıklama:** Ünitede iyileştirilmiş özelliklere örnek olarak;
-    > Kamera Sayılarının artması, Video Çekim, Optik Zoom, Çok işlevli bazı tasarımlar ve Yüksek Çözünürlük verilmektedir. Şıklarda yer alan Düşük Çözünürlük bu durumda yanlış olacaktır. Doğru cevap B seçeneğidir.
+    > **Açıklama:** Ünitede iyileştirilmiş özelliklere örnek olarak;<br />Kamera Sayılarının artması, Video Çekim, Optik Zoom, Çok işlevli bazı tasarımlar ve Yüksek Çözünürlük verilmektedir. Şıklarda yer alan Düşük Çözünürlük bu durumda yanlış olacaktır. Doğru cevap B seçeneğidir.
 
     <hr />
 1. Neden köprü (bridge) kameralar tercih edilir?
@@ -794,12 +739,7 @@
     - D-) Daha kısa pozlama süreleri kullanarak anı dondurabilir
     - E-) Otomatik odaklama sistemleri daha gelişmiştir
 
-    > **Açıklama:** DSLR fotoğraf makinelerinin sahip olduğu zengin kullanıcı seçenekleriyle; kompakt fotoğraf
-    > makinelerinin hafifliğini tek bir cihazda bir araya getiren köprü kameralar, teknik fotoğrafçılar
-    > tarafından tercih ediliyorlar. Bu fotoğraf makinelerinde çok güçlü lensler kullanılır. Böylece
-    > hafif bir fotoğraf makinesinde hem geniş açılı
-    > bir lens hem de telelens kullanabilme sporluğu
-    > bu makineleri oldukça çekici kılmaktadır.
+    > **Açıklama:** DSLR fotoğraf makinelerinin sahip olduğu zengin kullanıcı seçenekleriyle; kompakt fotoğraf<br />makinelerinin hafifliğini tek bir cihazda bir araya getiren köprü kameralar, teknik fotoğrafçılar<br />tarafından tercih ediliyorlar. Bu fotoğraf makinelerinde çok güçlü lensler kullanılır. Böylece<br />hafif bir fotoğraf makinesinde hem geniş açılı<br />bir lens hem de telelens kullanabilme sporluğu<br />bu makineleri oldukça çekici kılmaktadır.
 
     <hr />
 1. Aşağıdakilerden hangisi DSLR Fotoğraf Makinelerinin özelliklerinden biri değildir?
@@ -870,8 +810,7 @@
     - D-) AVCHD
     - E-) Sony XAVC,
 
-    > **Açıklama:** video kameraların görüntülediği ve kayıt altına aldığı
-    > saniyedeki kare sayısını tanımlamaktadır.
+    > **Açıklama:** video kameraların görüntülediği ve kayıt altına aldığı<br />saniyedeki kare sayısını tanımlamaktadır.
 
     <hr />
 1. Aşağıdakilerden hangisi camcorderin tanımıdır?
@@ -891,8 +830,7 @@
     - D-) Ultra Yüksek Tanımlı Televizyon
     - E-) Her Yöne Tanımlı Televizyon
 
-    > **Açıklama:** Yanıtınız yanlış ise "Video Kameralardaki Dijital Dönüşüm" konusunu yeniden gözden geçiriniz.
-    > Birçok ülke ve yayın platformu günümüzde hâlihazırda "Yüksek Tanımlı Televizyon", kısaltılmış ismiyle HDTV formatında yayın yapmaktadır.
+    > **Açıklama:** Yanıtınız yanlış ise "Video Kameralardaki Dijital Dönüşüm" konusunu yeniden gözden geçiriniz.<br />Birçok ülke ve yayın platformu günümüzde hâlihazırda "Yüksek Tanımlı Televizyon", kısaltılmış ismiyle HDTV formatında yayın yapmaktadır.
 
     <hr />
 1. Aşağıdaki ifadelerden hangisi dijital kameraların yayıncılığa etkisi ile ilgili **değildir?**
@@ -902,9 +840,7 @@
     - D-) Dijital depolama teknolojilerin değişimi kullanıcılar adına film veya kaset ve görüntü aktarım maliyetlerini bir hayli düşürmektedir.
     - E-) Dijital videoların montajlanması ve paylaşılması bir hayli kolaydır.
 
-    > **Açıklama:** Yanıtınız yanlış ise "Video Kameralardaki Dijital Dönüşüm" konusunu yeniden gözden geçiriniz.
-    > **Dijital Kameraların Yayıncılığa Etkisi**
-    > Dijital kameralar sadece bir grup amatör veya profesyonel tarafından kullanılan cihazlar olmaktan çıkarak yaygın olarak kullanılan bir ihtiyaca dönüşmüşlerdir. Daha az maliyetli üretilen dijital videolar artık çağın en önemli unsurlarından birisidir. Dijital depolama teknolojilerin değişimi kullanıcılar adına film veya kaset ve görüntü aktarım maliyetlerini bir hayli düşürmektedir. Dijital videoların montajlanması ve paylaşılması bir hayli kolaydır. Daha hızlı bir şekilde görüntülerin işlenmek üzere bilgisayarlara aktarımı, kayıt ve depolama süreçlerindeki maliyetler ve teknik kapasiteler bağlamında dijital video kameraların analoglardan farklılaştığı ve önemli avantajlar sunduğu görülmektedir.
+    > **Açıklama:** Yanıtınız yanlış ise "Video Kameralardaki Dijital Dönüşüm" konusunu yeniden gözden geçiriniz.<br />**Dijital Kameraların Yayıncılığa Etkisi**<br />Dijital kameralar sadece bir grup amatör veya profesyonel tarafından kullanılan cihazlar olmaktan çıkarak yaygın olarak kullanılan bir ihtiyaca dönüşmüşlerdir. Daha az maliyetli üretilen dijital videolar artık çağın en önemli unsurlarından birisidir. Dijital depolama teknolojilerin değişimi kullanıcılar adına film veya kaset ve görüntü aktarım maliyetlerini bir hayli düşürmektedir. Dijital videoların montajlanması ve paylaşılması bir hayli kolaydır. Daha hızlı bir şekilde görüntülerin işlenmek üzere bilgisayarlara aktarımı, kayıt ve depolama süreçlerindeki maliyetler ve teknik kapasiteler bağlamında dijital video kameraların analoglardan farklılaştığı ve önemli avantajlar sunduğu görülmektedir.
 
     <hr />
 1. Aşağıdakilerden hangisi "İnterlaced" taramanın özelliklerindendir?
@@ -914,8 +850,7 @@
     - D-) Çizgiler düzenli bir şekilde taranır.
     - E-) Bilgisayar ekranları, dijital video ve sinemanın büyük bölümü bu taramayı kullanır.
 
-    > **Açıklama:** Yanıtınız yanlış ise "Video Kameralardaki Dijital Dönüşüm" konusunu yeniden gözden geçiriniz.
-    > Tarama formatları "İnterlaced ve Progressive" olarak iki türdedir. Tarama işlemi video kameraların çok yüksek hızlarda gerçekleştirdiği ve hareketli görüntünün ortaya çıkarılması adına gerekli olan bir işlemdir. İnterlaced taramada elektron ışını bir sayfanın üstünden altına sırayla tüm satırları taramaz ve yalnızca tek sayılı satırları okuyarak yarım çerçeve oluşturur. Sonraki tarama, ikinci alanı üreterek tüm çift sayılı satırları okur. İki alan bir çerçeve veya tam bir resim oluşturur. Progressive taramada ise her satır taranır. Tarama yükü (elektron ışını) ekranın sol üst köşesinden başlar ve ilk satırı tarar, sonra tekrar sola atlar ve ikinci satırı, ardından üçüncü ve diğerlerini tarar. Son çizgi tarandıktan sonra, ışın sol üstteki başlangıç noktasına geri döner ve süreci yeniden başlatır. Çizgiler gerçekten düzenli bir şekilde taranır. Bu tarama döngüsü, çerçeve adı verilen tek bir tam resim üretir. Saniyede aşamalı olarak taranan kare sayısı genellikle fps olarak listelenir ve genellikle yenileme hızı olarak adlandırılır. Tüm bilgisayar ekranları, dijital video ve sinemanın büyük bir kısmı Progressive taramayı kullanır. Hangisinin daha iyi olduğu sıkça sorulmaktadır ancak net bir cevap yoktur.
+    > **Açıklama:** Yanıtınız yanlış ise "Video Kameralardaki Dijital Dönüşüm" konusunu yeniden gözden geçiriniz.<br />Tarama formatları "İnterlaced ve Progressive" olarak iki türdedir. Tarama işlemi video kameraların çok yüksek hızlarda gerçekleştirdiği ve hareketli görüntünün ortaya çıkarılması adına gerekli olan bir işlemdir. İnterlaced taramada elektron ışını bir sayfanın üstünden altına sırayla tüm satırları taramaz ve yalnızca tek sayılı satırları okuyarak yarım çerçeve oluşturur. Sonraki tarama, ikinci alanı üreterek tüm çift sayılı satırları okur. İki alan bir çerçeve veya tam bir resim oluşturur. Progressive taramada ise her satır taranır. Tarama yükü (elektron ışını) ekranın sol üst köşesinden başlar ve ilk satırı tarar, sonra tekrar sola atlar ve ikinci satırı, ardından üçüncü ve diğerlerini tarar. Son çizgi tarandıktan sonra, ışın sol üstteki başlangıç noktasına geri döner ve süreci yeniden başlatır. Çizgiler gerçekten düzenli bir şekilde taranır. Bu tarama döngüsü, çerçeve adı verilen tek bir tam resim üretir. Saniyede aşamalı olarak taranan kare sayısı genellikle fps olarak listelenir ve genellikle yenileme hızı olarak adlandırılır. Tüm bilgisayar ekranları, dijital video ve sinemanın büyük bir kısmı Progressive taramayı kullanır. Hangisinin daha iyi olduğu sıkça sorulmaktadır ancak net bir cevap yoktur.
 
     <hr />
 1. Videolarda veri sıkıştırmaya ne ad verilir?
@@ -925,8 +860,7 @@
     - D-) Raw
     - **Cevap E-) Codec**
 
-    > **Açıklama:** Yanıtınız yanlış ise "Video Kameralardaki Dijital Dönüşüm" konusunu yeniden gözden geçiriniz.
-    > Veri sıkıştırma algoritmalarına kodek (codec) adı verilir. Dijital video dünyasında MPEG-2, MPEG-4, H.264, VC-3 gibi çok sayıda standart kodek vardır. Video kamera kodlaması diğer ifade ile yakalama kodeklerini her üretici özel olarak yaratmaktadır.
+    > **Açıklama:** Yanıtınız yanlış ise "Video Kameralardaki Dijital Dönüşüm" konusunu yeniden gözden geçiriniz.<br />Veri sıkıştırma algoritmalarına kodek (codec) adı verilir. Dijital video dünyasında MPEG-2, MPEG-4, H.264, VC-3 gibi çok sayıda standart kodek vardır. Video kamera kodlaması diğer ifade ile yakalama kodeklerini her üretici özel olarak yaratmaktadır.
 
     <hr />
 1. Küçük boy dijital kameralar ile ilgili aşağıdaki ifadelerden hangisi **yanlıştır?**
@@ -936,8 +870,7 @@
     - **Cevap D-) HD görüntüden 3K görüntüye uzanan bir çözünürlük sunar.**
     - E-) Hem optik hem dijital zoom olanağı sağlamaktadır.
 
-    > **Açıklama:** Yanıtınız yanlış ise "Dijital Video Kamera Çeşitleri" konusunu yeniden gözden geçiriniz.
-    > Son dönemde yaygınlaşan ve video çekebilen bir DSLR ile çalışıyorsanız, yalnızca bir kameramana ihtiyacınız olabilir. Tek başınıza veya küçük bir ekip ile çekim yapıyorsanız, omuz çantasına atılabilen ve uçakta taşınabilen küçük bir kamera büyük bir avantaj olabilir. Gerek maliyetleri gerekse taşıma kolaylığı gibi avantajları nedeniyle büyük boy kameralara kıyasla çok daha fazla tüketilen küçük boy video kameralar günümüzde dijital video üretiminde başat cihazlardan birisi konumundadır. Hem amatörlerce hem profesyonellerce kullanılan bu cihazlar oldukça önemli teknolojileri barındırmaya başlamışlardır. Son yıllarda dijital el kameraları HD görüntüden 4K görüntüye uzanan bir çözünürlük skalasını kullanıcılara sunmaktadır. Işık hücreleri daha küçük boyuttadır ve bu sebeple büyük boy kameralara kıyasla az ışıklı ortamlardaki performansları düşüktür. Pek çok marka ve model kullanıcılarına hem optik hem de dijital zoom olanağı sağlamaktadır. Dahili mikrofonları bulunan bu cihazların birçoğunda harici mikrofon girişleri bulunmamaktadır.
+    > **Açıklama:** Yanıtınız yanlış ise "Dijital Video Kamera Çeşitleri" konusunu yeniden gözden geçiriniz.<br />Son dönemde yaygınlaşan ve video çekebilen bir DSLR ile çalışıyorsanız, yalnızca bir kameramana ihtiyacınız olabilir. Tek başınıza veya küçük bir ekip ile çekim yapıyorsanız, omuz çantasına atılabilen ve uçakta taşınabilen küçük bir kamera büyük bir avantaj olabilir. Gerek maliyetleri gerekse taşıma kolaylığı gibi avantajları nedeniyle büyük boy kameralara kıyasla çok daha fazla tüketilen küçük boy video kameralar günümüzde dijital video üretiminde başat cihazlardan birisi konumundadır. Hem amatörlerce hem profesyonellerce kullanılan bu cihazlar oldukça önemli teknolojileri barındırmaya başlamışlardır. Son yıllarda dijital el kameraları HD görüntüden 4K görüntüye uzanan bir çözünürlük skalasını kullanıcılara sunmaktadır. Işık hücreleri daha küçük boyuttadır ve bu sebeple büyük boy kameralara kıyasla az ışıklı ortamlardaki performansları düşüktür. Pek çok marka ve model kullanıcılarına hem optik hem de dijital zoom olanağı sağlamaktadır. Dahili mikrofonları bulunan bu cihazların birçoğunda harici mikrofon girişleri bulunmamaktadır.
 
     <hr />
 1. Aşağıdaki ifadelerden hangisi "hibrit kameralar" ile ilgili bir ifadedir?
@@ -947,9 +880,7 @@
     - D-) Uzun metraj filmler ve TV dizileri için uygun kameralar değildir.
     - E-) Yüksek kaliteli ve yüksek bütçeli kameralardır.
 
-    > **Açıklama:** Yanıtınız yanlış ise "Dijital Video Kamera Çeşitleri" konusunu yeniden gözden geçiriniz.
-    > Hibrit kameralar da 35 mm veya Süper 35 mm özellikleri taşıyan geniş format CMOS sensörleri ve bir dizi yüksek kaliteli değiştirilebilir lensi ile oldukça avantajlı ürünlerdir. Hibrit kameralar üst düzey video üretebilmek adına Zeiss, Cooke veya Schneider gibi seçkin lens üreticilerinin ultra yüksek kalitelisine lenslerinin kullanılmasına izin veren lens adaptörlerini kabul eder. Video kameralarda olduğu gibi, ses kaydetmek istemeniz durumunda; daha iyi kayıt ortamı, çıkış seçenekleri ve profesyonel XLR mikrofon girişleri sağlar. Bu özellikler DSLR’lerde neredeyse imkânsız olan bir seçenektir. Hibrit olarak adlandırılma nedenleri ebatlarının DSLR ve aynasız kameralara benzemesi fakat işlev olarak sinema kameralarına benzer şekilde video üretimi yapabilmeleridir. Hibritlerin çoğu ayrıca sıkıştırılmamış video formatları ile kayıt imkânı sunar. Sıkıştırılmamış yüksek verili video seçenekleri ile hibrit video kameraların daha üst düzey sinema kameralarına çok ciddi bir alternatif olduğu görülmektedir. Hibrit video kameralar ise belgesel, tanıtım ve reklam prodüksiyonları, kısa film vb. kategoriler için çok çekici bir seçenek olabilir. Bu kameralar büyük sensörlü sinema kameraların maliyetinin çok altında fiyatlara satılmaktadır, ancak yine de büyük sensörlere ve mükemmel düşük ışık performansına sahiptirler. Küçük boyutlu ve hafif olmaları taşıma kolaylığı
-    > sağlar. Tüm bunların ötesinde hibrit kameraların ergonomisi video çekiminden çok fotoğraf çekmeye daha uygundur. Bu sebeple video çekmek için tasarlanan bu cihazların üretim süreçlerinde üç ayak kullanımı ihtiyacını da ortaya çıkarmaktadır.
+    > **Açıklama:** Yanıtınız yanlış ise "Dijital Video Kamera Çeşitleri" konusunu yeniden gözden geçiriniz.<br />Hibrit kameralar da 35 mm veya Süper 35 mm özellikleri taşıyan geniş format CMOS sensörleri ve bir dizi yüksek kaliteli değiştirilebilir lensi ile oldukça avantajlı ürünlerdir. Hibrit kameralar üst düzey video üretebilmek adına Zeiss, Cooke veya Schneider gibi seçkin lens üreticilerinin ultra yüksek kalitelisine lenslerinin kullanılmasına izin veren lens adaptörlerini kabul eder. Video kameralarda olduğu gibi, ses kaydetmek istemeniz durumunda; daha iyi kayıt ortamı, çıkış seçenekleri ve profesyonel XLR mikrofon girişleri sağlar. Bu özellikler DSLR’lerde neredeyse imkânsız olan bir seçenektir. Hibrit olarak adlandırılma nedenleri ebatlarının DSLR ve aynasız kameralara benzemesi fakat işlev olarak sinema kameralarına benzer şekilde video üretimi yapabilmeleridir. Hibritlerin çoğu ayrıca sıkıştırılmamış video formatları ile kayıt imkânı sunar. Sıkıştırılmamış yüksek verili video seçenekleri ile hibrit video kameraların daha üst düzey sinema kameralarına çok ciddi bir alternatif olduğu görülmektedir. Hibrit video kameralar ise belgesel, tanıtım ve reklam prodüksiyonları, kısa film vb. kategoriler için çok çekici bir seçenek olabilir. Bu kameralar büyük sensörlü sinema kameraların maliyetinin çok altında fiyatlara satılmaktadır, ancak yine de büyük sensörlere ve mükemmel düşük ışık performansına sahiptirler. Küçük boyutlu ve hafif olmaları taşıma kolaylığı<br />sağlar. Tüm bunların ötesinde hibrit kameraların ergonomisi video çekiminden çok fotoğraf çekmeye daha uygundur. Bu sebeple video çekmek için tasarlanan bu cihazların üretim süreçlerinde üç ayak kullanımı ihtiyacını da ortaya çıkarmaktadır.
 
     <hr />
 1. "Dijital sinematografi, daha önce 35 mm filmlerle çekilmiş olan filmlere denk gelecek şekilde genellikle ...... ve ......formatlarında yüksek kaliteli çekim anlamına gelir." İfadesinde boşluklar nasıl doldurulmalıdır?
@@ -959,8 +890,7 @@
     - D-) 1K/4K
     - E-) 3K/5K
 
-    > **Açıklama:** Yanıtınız yanlış ise "Dijital Video Kamera Çeşitleri" konusunu yeniden gözden geçiriniz.
-    > Dijital sinematografi, daha önce 35 mm filmlerle çekilmiş olan filmlere denk gelecek şekilde genellikle 2K ve 4K formatlarında yüksek kaliteli çekim anlamına gelir.
+    > **Açıklama:** Yanıtınız yanlış ise "Dijital Video Kamera Çeşitleri" konusunu yeniden gözden geçiriniz.<br />Dijital sinematografi, daha önce 35 mm filmlerle çekilmiş olan filmlere denk gelecek şekilde genellikle 2K ve 4K formatlarında yüksek kaliteli çekim anlamına gelir.
 
     <hr />
 1. Drone'lar ile ilgili aşağıdaki ifadelerden hangisi **yanlıştır?**
@@ -970,8 +900,7 @@
     - D-) Drone’lar, çok hafif bir çerçeve üzerine monte edilmiş dört yatay pervaneye sahip küçük helikopter benzeri mekanizmalardır.
     - E-) Drone kameraları video üretiminde çeşitli araçlarla yaratılan hareketli görüntüleri örneğin tekerlekli araba, vinç veya jib gibi pahalı sinema ekipmanlarının sağladığı efektleri taklit etmek için de kullanılabilir.
 
-    > **Açıklama:** Yanıtınız yanlış ise "Dijital Video Kamera Çeşitleri" konusunu yeniden gözden geçiriniz.
-    > Drone’lara herkes kolayca erişilebilir. Gelişmiş GPS özellikleri Drone’u uçuş yolunda güvende tutar ve ayrıca kalkış noktasına eve güvenli şekilde geri getirilmesine yardımcı olur. Drone’lar, çok hafif bir çerçeve üzerine monte edilmiş dört yatay pervaneye sahip küçük helikopter benzeri mekanizmalardır. Drone kameraları video üretiminde çeşitli araçlarla yaratılan hareketli görüntüleri örneğin tekerlekli araba, vinç veya jib gibi pahalı sinema ekipmanlarının sağladığı efektleri taklit etmek için de kullanılabilir. Drone'lar yaklaşık 20 dakika gibi sınırlı bir uçuş süresi ve 1000 fit menzile sahiptir.
+    > **Açıklama:** Yanıtınız yanlış ise "Dijital Video Kamera Çeşitleri" konusunu yeniden gözden geçiriniz.<br />Drone’lara herkes kolayca erişilebilir. Gelişmiş GPS özellikleri Drone’u uçuş yolunda güvende tutar ve ayrıca kalkış noktasına eve güvenli şekilde geri getirilmesine yardımcı olur. Drone’lar, çok hafif bir çerçeve üzerine monte edilmiş dört yatay pervaneye sahip küçük helikopter benzeri mekanizmalardır. Drone kameraları video üretiminde çeşitli araçlarla yaratılan hareketli görüntüleri örneğin tekerlekli araba, vinç veya jib gibi pahalı sinema ekipmanlarının sağladığı efektleri taklit etmek için de kullanılabilir. Drone'lar yaklaşık 20 dakika gibi sınırlı bir uçuş süresi ve 1000 fit menzile sahiptir.
 
     <hr />
 1. Tepeden sahnenin sesini alan mikrofonlara ne ad verilir?
@@ -981,8 +910,7 @@
     - D-) Dolly
     - **Cevap E-) Boom**
 
-    > **Açıklama:** Yanıtınız yanlış ise "Dijital Audio ve Diğer Video Ekipmanları" konusunu yeniden gözden geçiriniz.
-    > Çeşitli yapımlarda ses kayıt cihazlarına takılan farklı mikrofon türlerinin kullanıldığı görülmektedir. En yaygın şekilde bireylere takılan kablosuz yaka mikrofonları ve ortamdan ses almak için "Boom" ismi verilen tepeden sahnenin sesini alan mikrofonların kullanıldıkları bilinmektedir.
+    > **Açıklama:** Yanıtınız yanlış ise "Dijital Audio ve Diğer Video Ekipmanları" konusunu yeniden gözden geçiriniz.<br />Çeşitli yapımlarda ses kayıt cihazlarına takılan farklı mikrofon türlerinin kullanıldığı görülmektedir. En yaygın şekilde bireylere takılan kablosuz yaka mikrofonları ve ortamdan ses almak için "Boom" ismi verilen tepeden sahnenin sesini alan mikrofonların kullanıldıkları bilinmektedir.
 
     <hr />
 1. Mekan içinde derinlik ve genişlikte ilerleyerek dikey ve yatay bazen de dairesel veya düzensiz hareketler üreten, kimi zaman tekerlekli kimi zaman raylı sistemler üzerinde hareket eden araç aşağıdakilerden hangisidir?
@@ -992,8 +920,7 @@
     - **Cevap D-) Dolly**
     - E-) Gimbal
 
-    > **Açıklama:** Yanıtınız yanlış ise "Dijital Audio ve Diğer Video Ekipmanları" konusunu yeniden gözden geçiriniz.
-    > Mekan içinde derinlik ve genişlikte ilerleyerek dikey ve yatay bazen de dairesel veya düzensiz hareketler üreten, kimi zaman tekerlekli kimi zaman raylı sistemler üzerinde hareket eden araç Dolly olarak tanımlanmaktadır.
+    > **Açıklama:** Yanıtınız yanlış ise "Dijital Audio ve Diğer Video Ekipmanları" konusunu yeniden gözden geçiriniz.<br />Mekan içinde derinlik ve genişlikte ilerleyerek dikey ve yatay bazen de dairesel veya düzensiz hareketler üreten, kimi zaman tekerlekli kimi zaman raylı sistemler üzerinde hareket eden araç Dolly olarak tanımlanmaktadır.
 
     <hr />
 1. HDTV formatı hangi çözünürlükte görüntü sağlar?
@@ -1003,17 +930,7 @@
     - **Cevap D-) 1920 x 1080 Piksel**
     - E-) 2048 x 1536 Piksel
 
-    > **Açıklama:** Temel video görüntüsü, dikey ve yatay çizgilerden oluşan bir yığın hâlinde düzenlenmiş, piksel adı verilen çok sayıda küçük noktadan oluşur. Aşağıda piksel cinsinden bilinen ekran çözünürlükleri ve ilgili ekran en-boy oranları verilmiştir:
-    > * VGA 640 x 480 (4:3)
-    > * SVGA 800 x 600 (4:3)
-    > * XGA 1024 x 768 (4:3)
-    > * SXGA 1280 x 1024 (5:4)
-    > * UXGA 1600 x 1200 (4:3)
-    > * HDTV 1920 x 1080 (16:9)
-    > * QXGA 2048 x 1536 (4:3)
-    > * UHDTV 3840×2160 (16:9)
-    > * UHDTV2 7680 × 4320 (16:9)
-    > Bu çözünürlüklerin izleyici monitörleri ile ilgili olduğu unutulmamalıdır.
+    > **Açıklama:** Temel video görüntüsü, dikey ve yatay çizgilerden oluşan bir yığın hâlinde düzenlenmiş, piksel adı verilen çok sayıda küçük noktadan oluşur. Aşağıda piksel cinsinden bilinen ekran çözünürlükleri ve ilgili ekran en-boy oranları verilmiştir:<br />* VGA 640 x 480 (4:3)<br />* SVGA 800 x 600 (4:3)<br />* XGA 1024 x 768 (4:3)<br />* SXGA 1280 x 1024 (5:4)<br />* UXGA 1600 x 1200 (4:3)<br />* HDTV 1920 x 1080 (16:9)<br />* QXGA 2048 x 1536 (4:3)<br />* UHDTV 3840×2160 (16:9)<br />* UHDTV2 7680 × 4320 (16:9)<br />Bu çözünürlüklerin izleyici monitörleri ile ilgili olduğu unutulmamalıdır.
 
     <hr />
 1. Dijital kameraların EIS veya OIS özellikleri neyle ilgilidir?
@@ -1284,8 +1201,7 @@
     - D-) boyut
     - **Cevap E-) anakart**
 
-    > **Açıklama:** BİLGİSAYARLAR VE MONİTÖRLER
-    > Bilgisayarların ayrılmaz parçası olan monitörler de çözünürlük, renk kalitesi, kontrast oranları ve boyut olarak devamlı değişmekte ve gelişmektedir. Anakart bilgisayar donanımındadır.
+    > **Açıklama:** BİLGİSAYARLAR VE MONİTÖRLER<br />Bilgisayarların ayrılmaz parçası olan monitörler de çözünürlük, renk kalitesi, kontrast oranları ve boyut olarak devamlı değişmekte ve gelişmektedir. Anakart bilgisayar donanımındadır.
 
     <hr />
 1. Aşağıdakilerden hangisi bilgisayar donanımından biri değildir?
@@ -1295,8 +1211,7 @@
     - **Cevap D-) MacOS**
     - E-) klavye
 
-    > **Açıklama:** Bilgisayarlar
-    > Bilgisayarı oluşturan bütün fiziksel parçalara (işlemci, ekran, sabit disk, fare, klavye, ekran…) donanım adı verilir. MacOS bir yazılımdır
+    > **Açıklama:** Bilgisayarlar<br />Bilgisayarı oluşturan bütün fiziksel parçalara (işlemci, ekran, sabit disk, fare, klavye, ekran…) donanım adı verilir. MacOS bir yazılımdır
 
     <hr />
 1. Aşağıdakilerden hangisi geçici bellek birimidir?
@@ -1306,8 +1221,7 @@
     - D-) Flash Disk
     - E-) CD
 
-    > **Açıklama:** Bilgisayarlar
-    > RAM geçici bellek birimidir
+    > **Açıklama:** Bilgisayarlar<br />RAM geçici bellek birimidir
 
     <hr />
 1. İşletim sistemleri içerisinde çalışan ve çeşitli işlevleri olan yazılımlara ise uygulama yazılımları (program) denir. Aşağıdakilerden hangisi bunlardan biri değildir?
@@ -1317,8 +1231,7 @@
     - D-) Premiere
     - **Cevap E-) BigSur**
 
-    > **Açıklama:** BİLGİSAYARLAR VE MONİTÖRLER
-    > şletim sistemleri içerisinde çalışan ve çeşitli işlevleri olan yazılımlara ise uygulama yazılımları (program) denir. Photoshop, chrome, word, premiere gibi bilgisayarda kullandığımız tüm programlar birer uygulama yazılımıdır
+    > **Açıklama:** BİLGİSAYARLAR VE MONİTÖRLER<br />şletim sistemleri içerisinde çalışan ve çeşitli işlevleri olan yazılımlara ise uygulama yazılımları (program) denir. Photoshop, chrome, word, premiere gibi bilgisayarda kullandığımız tüm programlar birer uygulama yazılımıdır
 
     <hr />
 1. Monitör özellikleri ile ilgili olarak aşağıdakilerden hangisi doğru değildir?
@@ -1328,8 +1241,7 @@
     - D-) Oyun oynamak için alınması gereken monitör ile fotoğraf işlemek için ya da tasarım yapmak için alınması gereken monitör farklı özelliklere sahip olmalıdır.
     - E-) Monitörler piksellerden oluşur.
 
-    > **Açıklama:** Monitörler
-    > Çözünürlük azaldıkça netlik azalır ve görüntü bozulur.
+    > **Açıklama:** Monitörler<br />Çözünürlük azaldıkça netlik azalır ve görüntü bozulur.
 
     <hr />
 1. Hassas renk kontrolü gereken fotoğrafçılık gibi alanlarda TN panel tercih edilmemelidir. Aşağıdakilerden hangisi bunu açıklar?
@@ -1339,8 +1251,7 @@
     - D-) Ekran yenileme hızı düşük olması
     - E-) Geniş renk aralığına sahip olmaması
 
-    > **Açıklama:** Monitör Özellikleri
-    > Monitöre tam karşıdan baktığımızda ideal görüntüyü alırken, biraz yukarıdan bakıldığında görüntü açık tonlarda görünmeye başlarken biraz aşağıdan bakıldığında görüntü koyulaşır ve belli bir açıdan sonra neredeyse tamamen kaybolur. Bu nedenle hassas renk kontrolü gereken fotoğrafçılık gibi alanlarda tercih edilmemelidir
+    > **Açıklama:** Monitör Özellikleri<br />Monitöre tam karşıdan baktığımızda ideal görüntüyü alırken, biraz yukarıdan bakıldığında görüntü açık tonlarda görünmeye başlarken biraz aşağıdan bakıldığında görüntü koyulaşır ve belli bir açıdan sonra neredeyse tamamen kaybolur. Bu nedenle hassas renk kontrolü gereken fotoğrafçılık gibi alanlarda tercih edilmemelidir
 
     <hr />
 1. Her ne kadar dijitalleşme yaygın olsa da hâlen bazı durumlarda tarayıcılara ihtiyaç duyulmaktadır. Böyle durumlarda tarayıcı tercih edilirken dikkat edilmesi gereken en temel özellik/ler aşağıdakilerden hangisidir?
@@ -1370,8 +1281,7 @@
     - D-) Lazer baskı
     - E-) Mürekkep baskı
 
-    > **Açıklama:** UV (ultraviyole) Baskı Yöntemi
-    > UV baskı cam, ahşap, seramik, metal, pvc gibi her türden sert yüzey üzerine, uygun tekstil ürünlerine hatta düzgün yüzeyli taş üzerine bile baskı yapabilen bir teknolojidir.
+    > **Açıklama:** UV (ultraviyole) Baskı Yöntemi<br />UV baskı cam, ahşap, seramik, metal, pvc gibi her türden sert yüzey üzerine, uygun tekstil ürünlerine hatta düzgün yüzeyli taş üzerine bile baskı yapabilen bir teknolojidir.
 
     <hr />
 1. Aşağıdakilerden hangisi renge baktığımızda gördüğümüz, rengin kendisidir?
@@ -1381,8 +1291,7 @@
     - **Cevap D-) Ton**
     - E-) Dalga boyu
 
-    > **Açıklama:** RENK YÖNETİMİ VE KALİBRASYON
-    > Rengin baskın olan dalga boyunu tanımlar ve onu kırmızı, sarı, yeşil, mavi vb. gibi diğer renklerden ayıran rengin özelliğidir. Daha basit bir tanımla; renge baktığımızda gördüğümüz, rengin kendisidir.
+    > **Açıklama:** RENK YÖNETİMİ VE KALİBRASYON<br />Rengin baskın olan dalga boyunu tanımlar ve onu kırmızı, sarı, yeşil, mavi vb. gibi diğer renklerden ayıran rengin özelliğidir. Daha basit bir tanımla; renge baktığımızda gördüğümüz, rengin kendisidir.
 
     <hr />
 1. Aşağıdakilerden hangisi programlama yazılımlarından biridir?
@@ -1432,14 +1341,7 @@
     - D-) A4= 210x297
     - E-) A6=105x148
 
-    > **Açıklama:** Gündelik kullanım için üretilen kâğıtlar A B ve C olmak üzere 3 farklı standarttadır. A standardı 1m<sup>2 </sup>olarak hesaplanır ve A0 olarak adlandırılır. A serisindeki tüm kâğıtlar, bu kâğıttan oranlı olarak kesilerek oluşturulur. (Becer, 2019, s. 159)
-    > A0=841 x 1189
-    > A1 =594 x 841
-    > A2=420 x 594
-    > A3=297 x 420
-    > A4 =210 x 297
-    > A5=148 x 210
-    > A6=105 x 148
+    > **Açıklama:** Gündelik kullanım için üretilen kâğıtlar A B ve C olmak üzere 3 farklı standarttadır. A standardı 1m<sup>2 </sup>olarak hesaplanır ve A0 olarak adlandırılır. A serisindeki tüm kâğıtlar, bu kâğıttan oranlı olarak kesilerek oluşturulur. (Becer, 2019, s. 159)<br />A0=841 x 1189<br />A1 =594 x 841<br />A2=420 x 594<br />A3=297 x 420<br />A4 =210 x 297<br />A5=148 x 210<br />A6=105 x 148
 
     <hr />
 1. Fotoğraftaki görüntünün olması gerekenden koyu olduğu durumlarda histogramda koyuluğu belirten dağ görüntüsü ekranın hangi tarafında oluşur?
@@ -1549,8 +1451,7 @@
     - **Cevap D-) 210 x 297**
     - E-) 148 x 210
 
-    > **Açıklama:** A4 boyut, günlük hayatta kullandığımız A4 kâğıdıdır. Değerler mm cinsinden 210 x 297 şeklindedir.
-    > .
+    > **Açıklama:** A4 boyut, günlük hayatta kullandığımız A4 kâğıdıdır. Değerler mm cinsinden 210 x 297 şeklindedir.<br />.
 
     <hr />
 1. Aşağıdaki seçeneklerden hangisi bir fotoğraf kağıdı türü **değildir**?
@@ -1591,8 +1492,7 @@
     - D-) Manzara çekimi
     - E-) Ayrıntılı yakın çekim
 
-    > **Açıklama:** SAYISAL FOTOĞRAF MAKİNELERİNDE P-S-A-M KADRANI
-    > Geniş alan derinliği, yakındaki nesnelerden uzak mesafelere kadar her şeyin keskin bir görüntüye sahip olması anlamına gelir.
+    > **Açıklama:** SAYISAL FOTOĞRAF MAKİNELERİNDE P-S-A-M KADRANI<br />Geniş alan derinliği, yakındaki nesnelerden uzak mesafelere kadar her şeyin keskin bir görüntüye sahip olması anlamına gelir.
 
     <hr />
 1. Zorlu aydınlatma koşullarında yararlı olan pozlama ayarlarıyla daha deneysel fotoğraflar çekmenizi sağlayan mod aşağıdakilerden hangisidir?
@@ -1602,8 +1502,7 @@
     - **Cevap D-) Manuel mod**
     - E-) Enstantane önceliği modu
 
-    > **Açıklama:** SAYISAL FOTOĞRAF MAKİNELERİNDE P-S-A-M KADRANI
-    > Manuel mod, zorlu aydınlatma koşullarında yararlı olan pozlama ayarlarıyla daha deneysel fotoğraflar çekmenizi sağlar.
+    > **Açıklama:** SAYISAL FOTOĞRAF MAKİNELERİNDE P-S-A-M KADRANI<br />Manuel mod, zorlu aydınlatma koşullarında yararlı olan pozlama ayarlarıyla daha deneysel fotoğraflar çekmenizi sağlar.
 
     <hr />
 1. Bulp modu kaç saniyeden uzun pozlamalar için kullanılmaktadır?
@@ -1613,8 +1512,7 @@
     - D-) 25
     - **Cevap E-) 30**
 
-    > **Açıklama:** SAYISAL FOTOĞRAF MAKİNELERİNDE P-S-A-M KADRANI
-    > Bulp modu 30 saniyeden uzun pozlamalar için kullanılmaktadır.
+    > **Açıklama:** SAYISAL FOTOĞRAF MAKİNELERİNDE P-S-A-M KADRANI<br />Bulp modu 30 saniyeden uzun pozlamalar için kullanılmaktadır.
 
     <hr />
 1. Pozlama da ışığı kaç farklı yolla kamerada toplamak mümkündür?
@@ -1624,8 +1522,7 @@
     - D-) 4
     - E-) 5
 
-    > **Açıklama:** SAYISAL FOTOĞRAFÇILIKTA POZLAMA VE HAZIR SAHNELEME MODLARI
-    > Pozlama da ışığı üç farklı yolla kamerada toplamak mümkündür. Bu yollar enstantane hızı, diyafram açıklığı ve ISO hızıdır.
+    > **Açıklama:** SAYISAL FOTOĞRAFÇILIKTA POZLAMA VE HAZIR SAHNELEME MODLARI<br />Pozlama da ışığı üç farklı yolla kamerada toplamak mümkündür. Bu yollar enstantane hızı, diyafram açıklığı ve ISO hızıdır.
 
     <hr />
 1. Işık miktarında bir durak artış, kaç kat daha fazla ışık olduğu anlamına gelir?
@@ -1635,8 +1532,7 @@
     - **Cevap D-) 2**
     - E-) 2\.1/2
 
-    > **Açıklama:** SAYISAL FOTOĞRAFÇILIKTA POZLAMA VE HAZIR SAHNELEME MODLARI
-    > Işık miktarında bir durak artış, iki kat daha fazla ışık olduğu anlamına gelir.
+    > **Açıklama:** SAYISAL FOTOĞRAFÇILIKTA POZLAMA VE HAZIR SAHNELEME MODLARI<br />Işık miktarında bir durak artış, iki kat daha fazla ışık olduğu anlamına gelir.
 
     <hr />
 1. 'Sayısal fotoğraf makinesi, sahnedeki ışığın tümünü ölçerek ortalama bir değer alır.' Bu cümlede ifade edilen ışık ölçüm modu aşağıdakilerden hangisidir?
@@ -1646,8 +1542,7 @@
     - **Cevap D-) Matris ölçümü**
     - E-) Spot ölçüm
 
-    > **Açıklama:** SAYISAL FOTOĞRAFÇILIKTA IŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ, ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ
-    > Matris ölçümü (Matrix metering): Sayısal fotoğraf makinesi, sahnedeki ışığın tümünü ölçerek ortalama bir değer alır.
+    > **Açıklama:** SAYISAL FOTOĞRAFÇILIKTA IŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ, ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ<br />Matris ölçümü (Matrix metering): Sayısal fotoğraf makinesi, sahnedeki ışığın tümünü ölçerek ortalama bir değer alır.
 
     <hr />
 1. Alan derinliği, bir görüntüdeki kabul edilebilir keskinlik alanını ifade eder. Bu netlik bölgesi kaç faktöre bağlıdır?
@@ -1657,9 +1552,7 @@
     - D-) 5
     - E-) 6
 
-    > **Açıklama:** SAYISAL FOTOĞRAFÇILIKTA IŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ,
-    > ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ
-    > Alan derinliği, bir görüntüdeki kabul edilebilir keskinlik alanını ifade eder. Bu netlik bölgesi üç faktöre bağlıdır: lensin açıklığı, kamera ile konu arasındaki mesafe ve lensin odak uzaklığıdır.
+    > **Açıklama:** SAYISAL FOTOĞRAFÇILIKTA IŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ,<br />ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ<br />Alan derinliği, bir görüntüdeki kabul edilebilir keskinlik alanını ifade eder. Bu netlik bölgesi üç faktöre bağlıdır: lensin açıklığı, kamera ile konu arasındaki mesafe ve lensin odak uzaklığıdır.
 
     <hr />
 1. İçerisinde fotoğrafın çekildiği tarih, yer, boyut, ekipman bilgilerine kadar ve hatta çekim ayarlarına kadar birçok bilgiyi barındıran bölüme ne ad verilir?
@@ -1669,8 +1562,7 @@
     - D-) DSLR
     - E-) HDTV
 
-    > **Açıklama:** SAYISAL FOTOĞRAF MAKİNELERİ TEMEL MENÜLERİ
-    > EXIF, “Exchangeable Image File” değiştirilebilir görüntü dosyası açılımı olan ve içerisinde fotoğrafın çekildiği tarih, yer, boyut, ekipman bilgilerine kadar ve hatta çekim ayarlarına kadar birçok bilgiyi barındıran bölümdür. Fotoğraf yarışmalarında bu bilgiler olmazsa olmazdır.
+    > **Açıklama:** SAYISAL FOTOĞRAF MAKİNELERİ TEMEL MENÜLERİ<br />EXIF, “Exchangeable Image File” değiştirilebilir görüntü dosyası açılımı olan ve içerisinde fotoğrafın çekildiği tarih, yer, boyut, ekipman bilgilerine kadar ve hatta çekim ayarlarına kadar birçok bilgiyi barındıran bölümdür. Fotoğraf yarışmalarında bu bilgiler olmazsa olmazdır.
 
     <hr />
 1. Kameranın sensörü ne olursa olsun üzerinde daha fazla kontrole sahip olunan gerçek alan derinliği aralığını belirleyen kaç değişken daha söz konusudur?
@@ -1680,10 +1572,7 @@
     - D-) 5
     - E-) 6
 
-    > **Açıklama:** SAYISAL FOTOĞRAFÇILIKTA IŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ,
-    > ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ
-    > Sonuç olarak kameranın sensörü ne olursa olsun üzerinde daha fazla kontrole sahip olunan gerçek alan derinliği aralığını belirleyen üç değişken daha söz konusudur. Bunlardan ilki diyarafram açıklığıdır.
-    > Diyafram açıklığı ne kadar büyükse (daha küçük f-stop numaraları), alan derinliği o kadar sığ olacaktır ve açıklık ne kadar küçükse (daha büyük f-stop numaraları), o kadar derin olacaktır. Bir diğer değişken ise merceğin odak uzaklığıdır. Merceğin odak uzaklığı ne kadar uzun olursa, DOF o kadar sığ olur ve merceğimiz ne kadar kısa olursa alan derinliğimiz o kadar derin olur. Geniş açılı lensler, telefoto lenslere göre daha derin alan derinliği oluşturur. Son olarak Netleme noktası ayarı alan derinliğini belirleyen bir değişken olarak karşımıza çıkar.
+    > **Açıklama:** SAYISAL FOTOĞRAFÇILIKTA IŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ,<br />ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ<br />Sonuç olarak kameranın sensörü ne olursa olsun üzerinde daha fazla kontrole sahip olunan gerçek alan derinliği aralığını belirleyen üç değişken daha söz konusudur. Bunlardan ilki diyarafram açıklığıdır.<br />Diyafram açıklığı ne kadar büyükse (daha küçük f-stop numaraları), alan derinliği o kadar sığ olacaktır ve açıklık ne kadar küçükse (daha büyük f-stop numaraları), o kadar derin olacaktır. Bir diğer değişken ise merceğin odak uzaklığıdır. Merceğin odak uzaklığı ne kadar uzun olursa, DOF o kadar sığ olur ve merceğimiz ne kadar kısa olursa alan derinliğimiz o kadar derin olur. Geniş açılı lensler, telefoto lenslere göre daha derin alan derinliği oluşturur. Son olarak Netleme noktası ayarı alan derinliğini belirleyen bir değişken olarak karşımıza çıkar.
 
     <hr />
 1. "Kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında size söyler." Bu cümle aşağıdakilerden hangisini tanımlamaktadır?
@@ -1693,9 +1582,7 @@
     - D-) Program modu
     - E-) Manuel çekim modu
 
-    > **Açıklama:** SAYISAL FOTOĞRAFÇILIKTAIŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ,
-    > ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ
-    > Histogram, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında size söyler.
+    > **Açıklama:** SAYISAL FOTOĞRAFÇILIKTAIŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ,<br />ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ<br />Histogram, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında size söyler.
 
     <hr />
 1. P-S-A-M kadranı olarak adlandırılan kontrol menüsündeki S nedir?
@@ -1725,8 +1612,7 @@
     - D-) Diyafram ve enstantane ayarlarlarına müdahale etme imkânı yoktur
     - E-) Otomatik’ten çok daha az hassas bir kontrole sahiptir
 
-    > **Açıklama:** **Programlanmış otomatik pozlama olarak da adlandırılan program modu, kamera üzerinde kontrol sağlamayan temel otomatik modlar ile ayarları değiştirmeyi sağlayan gelişmiş modlar arasındaki boşluğu doldurur .** Genel bir bakışla otomatik moddan bir adım ilerde olduğu ifade edilir. Çeşitli manuel kontrol imkânları sağlayan ancak yine de pozlama noktasında kullanıcıya kolaylık sunan bir moddur. Diyafram ve enstantane ayarlarlarına müdahale etme imkânı kullanıcıya sunulur.
-    > Program modu, çekim sı­rasında bir güvenlik ağı sunar ancak pozlama ayarı üzerinde Otomatik’ten çok daha hassas bir kontrole sahiptir
+    > **Açıklama:** **Programlanmış otomatik pozlama olarak da adlandırılan program modu, kamera üzerinde kontrol sağlamayan temel otomatik modlar ile ayarları değiştirmeyi sağlayan gelişmiş modlar arasındaki boşluğu doldurur .** Genel bir bakışla otomatik moddan bir adım ilerde olduğu ifade edilir. Çeşitli manuel kontrol imkânları sağlayan ancak yine de pozlama noktasında kullanıcıya kolaylık sunan bir moddur. Diyafram ve enstantane ayarlarlarına müdahale etme imkânı kullanıcıya sunulur.<br />Program modu, çekim sı­rasında bir güvenlik ağı sunar ancak pozlama ayarı üzerinde Otomatik’ten çok daha hassas bir kontrole sahiptir
 
     <hr />
 1. S olarak gösterilen modun eş gösterimi aşağıdakilerden hangisidir?
@@ -1746,8 +1632,7 @@
     - D-) Enstantane önceliği modu
     - E-) Renk önceliği modu
 
-    > **Açıklama:** **Diyafram önceliği modu** isminden de anlaşılacağı üzere diyaf­ram açıklığı ile ilgili kontrol sağlamaktadır. Bu modda diyafram değerini seçmeye makine olanak tanır ve ardından kameranız, doğru pozlamayı ve­recek enstantane hızını otomatik olarak belirler.
-    > Bu mod sayesinde fotoğ­rafa yeni başlayanlar için doğru ve iyi pozlanmış fotoğraf çekme şansı arta­caktır. Saha eğitimlerinde çoğunlukla bu mod önerilir.
+    > **Açıklama:** **Diyafram önceliği modu** isminden de anlaşılacağı üzere diyaf­ram açıklığı ile ilgili kontrol sağlamaktadır. Bu modda diyafram değerini seçmeye makine olanak tanır ve ardından kameranız, doğru pozlamayı ve­recek enstantane hızını otomatik olarak belirler.<br />Bu mod sayesinde fotoğ­rafa yeni başlayanlar için doğru ve iyi pozlanmış fotoğraf çekme şansı arta­caktır. Saha eğitimlerinde çoğunlukla bu mod önerilir.
 
     <hr />
 1. Aşağıdakilerden hangisi pozlama üçgenidir?
@@ -1757,8 +1642,7 @@
     - D-) Alan derinliği, sığ alan derinliği ve geniş alan derinliği
     - E-) Diyafram, konuya yakınlık ve kullanılan filtre
 
-    > **Açıklama:** Pozlama da ışığı üç farklı yolla kamerada toplamak müm­kündür. Bu yollar enstantane hızı, diyafram açıklığı ve ISO hızıdır. Bu ayarlar pozlama üçgeni olarak bilinir.
-    > Bu ayarlar pozlama üçgeni olarak bilinir. Bunların pozlamayı kontrol edişlerindeki farklılık fotoğrafta farklı etkilerin yaratılması için kullanılmaktadır. En basit ifadeyle enstantane hızı, pozlama süresini kontrol eder. Işığın makinenin duyarlı yüzeyini ne kadar süre etkileyeceğini belir­ler. Diyafram, lenslerde bulunan, açılıp kapanarak genişliği değişen bir deliktir ve ışığın kameranıza girebileceği alanı kontrol eder. ISO hızı Kameranı­zın sensörünün belirli bir ışık miktarına olan hassa­siyetini kontrol eder.
+    > **Açıklama:** Pozlama da ışığı üç farklı yolla kamerada toplamak müm­kündür. Bu yollar enstantane hızı, diyafram açıklığı ve ISO hızıdır. Bu ayarlar pozlama üçgeni olarak bilinir.<br />Bu ayarlar pozlama üçgeni olarak bilinir. Bunların pozlamayı kontrol edişlerindeki farklılık fotoğrafta farklı etkilerin yaratılması için kullanılmaktadır. En basit ifadeyle enstantane hızı, pozlama süresini kontrol eder. Işığın makinenin duyarlı yüzeyini ne kadar süre etkileyeceğini belir­ler. Diyafram, lenslerde bulunan, açılıp kapanarak genişliği değişen bir deliktir ve ışığın kameranıza girebileceği alanı kontrol eder. ISO hızı Kameranı­zın sensörünün belirli bir ışık miktarına olan hassa­siyetini kontrol eder.
 
     <hr />
 1. I. Enstantane<br />II.Optüratör<br />III. Perde hızı<br />IV. Shutter speed<br />V. ISO değeri<br />Yukarıdakilerden hangisi/hangileri ışığın merceğe girip geçmesine ve sensöre çarpmasına izin verilen süreyi belirler?
@@ -1808,8 +1692,7 @@
     - D-) Enstantane Önceliği (S veya Tv)
     - E-) Açıklık Önceliği (A veya Av)
 
-    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.
-    > Çoğu dijital kamera aşağıdaki standart pozlama modlarından birine sahiptir: “Auto” (otomatik), “Program” (P), “Enstantane Önceliği” (S veya Tv), “Açıklık Önceliği” (A veya Av), “Manuel” (M) ve “Bulb” (B). Her mod, belirli bir pozlama için diyafram açıklığı, ISO hızı ve enstantane hızı değerlerinin nasıl seçileceğini etkiler. Bazı modlar sizin için üç değeri de seçmeye çalışır, diğerleri ise bir ayar belirlemenize izin verir ve mümkün olduğunda diğer ikisini kamera seçimine bırakır.
+    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br />Çoğu dijital kamera aşağıdaki standart pozlama modlarından birine sahiptir: “Auto” (otomatik), “Program” (P), “Enstantane Önceliği” (S veya Tv), “Açıklık Önceliği” (A veya Av), “Manuel” (M) ve “Bulb” (B). Her mod, belirli bir pozlama için diyafram açıklığı, ISO hızı ve enstantane hızı değerlerinin nasıl seçileceğini etkiler. Bazı modlar sizin için üç değeri de seçmeye çalışır, diğerleri ise bir ayar belirlemenize izin verir ve mümkün olduğunda diğer ikisini kamera seçimine bırakır.
 
     <hr />
 1. Bu mod, kamera üzerinde kontrol sağlamayan temel otomatik modlar ile ayarları değiştirmeyi sağlayan gelişmiş modlar arasındaki boşluğu doldurur. Cümlede sözü edilen dijital fotoğraf makinelerinde yer alan mod aşağıdakilerden hangisidir?
@@ -1819,8 +1702,7 @@
     - D-) Açıklık Önceliği Modu (A veya Av)
     - E-) Manuel Modu (M)
 
-    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.
-    > Programlanmış otomatik pozlama olarak da adlandırılan bu mod, kamera üzerinde kontrol sağlamayan temel otomatik modlar ile ayarları değiştirmeyi sağlayan gelişmiş modlar arasındaki boşluğu doldurur.
+    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br />Programlanmış otomatik pozlama olarak da adlandırılan bu mod, kamera üzerinde kontrol sağlamayan temel otomatik modlar ile ayarları değiştirmeyi sağlayan gelişmiş modlar arasındaki boşluğu doldurur.
 
     <hr />
 1. Bu mod, özellikle çekimlerde görünen “hareket netsizliği” miktarını kontrol etmek istendiğinde kullanışlıdır. Cümlede sözü edilen dijital fotoğraf makinelerine özgü bu mod aşağıdakilerden hangisidir?
@@ -1830,8 +1712,7 @@
     - D-) Auto Mod (otomatik)
     - E-) Program Modu (P)
 
-    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.
-    > Bu modda kullanıcıya enstantane hızını belirleme noktasında makine tarafından müdahale olanağı verilir. Diğer ifade ile kullanıcı enstantane hızını seçer ve kamera doğru pozlamayı verecek diyafram değerini kendisi belirler. Bu mod, özellikle çekimlerde görünen “hareket netsizliği” miktarını kontrol etmek istendiğinde kullanışlıdır.
+    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br />Bu modda kullanıcıya enstantane hızını belirleme noktasında makine tarafından müdahale olanağı verilir. Diğer ifade ile kullanıcı enstantane hızını seçer ve kamera doğru pozlamayı verecek diyafram değerini kendisi belirler. Bu mod, özellikle çekimlerde görünen “hareket netsizliği” miktarını kontrol etmek istendiğinde kullanışlıdır.
 
     <hr />
 1. .................. bir görüntünün kameranız tarafından çekildiğinde ne kadar açık, doygun veya koyu görüneceğini belirler.<br />Cümlede boş bırakılan yere aşağıdaki şıklardan hangisi getirilirse doğru olur?
@@ -1841,8 +1722,7 @@
     - **Cevap D-) Pozlama**
     - E-) Diyafram
 
-    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.
-    > Pozlama, bir görüntünün kameranız tarafından çekildiğinde ne kadar açık, doygun veya koyu görüneceğini belirler.
+    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br />Pozlama, bir görüntünün kameranız tarafından çekildiğinde ne kadar açık, doygun veya koyu görüneceğini belirler.
 
     <hr />
 1. Lenslerde bulunan, açılıp kapanarak genişliği değişen bir deliktir ve ışığın kameranıza girebileceği alanı kontrol eder.<br />Cümlede tanımlanan fotoğrafçılığa ait kavram aşağıdakilerden hangisidir?
@@ -1852,8 +1732,7 @@
     - D-) Enstantane
     - **Cevap E-) Diyafram**
 
-    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.
-    > Diyafram, lenslerde bulunan, açılıp kapanarak genişliği değişen bir deliktir ve ışığın kameranıza girebileceği alanı kontrol eder.
+    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br />Diyafram, lenslerde bulunan, açılıp kapanarak genişliği değişen bir deliktir ve ışığın kameranıza girebileceği alanı kontrol eder.
 
     <hr />
 1. Kameranın sensörünün belirli bir ışık miktarına olan hassasiyetini kontrol eden özelliğe ne ad verilir?
@@ -1863,8 +1742,7 @@
     - D-) Pozlama
     - E-) Aydınlatma
 
-    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.
-    > ISO hızı kameranın sensörünün belirli bir ışık miktarına olan hassasiyetini kontrol eder.
+    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br />ISO hızı kameranın sensörünün belirli bir ışık miktarına olan hassasiyetini kontrol eder.
 
     <hr />
 1. Çekilecek fotoğrafın türüne göre pozlama değerlerinin fotoğraf makinesi tarafından belirlenmesi ile ilgili moda ne ad verilir?
@@ -1874,8 +1752,7 @@
     - D-) Diyafram
     - E-) Pozlama
 
-    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.
-    > Hazır sahneleme modları çekilecek fotoğrafın türüne göre pozlama değerlerinin fotoğraf makinesi tarafından belirlenmesi ile ilgilidir.
+    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br />Hazır sahneleme modları çekilecek fotoğrafın türüne göre pozlama değerlerinin fotoğraf makinesi tarafından belirlenmesi ile ilgilidir.
 
     <hr />
 1. Pozlama kontrolü, görüntüyü elde ederken istenen efekti oluşturmak için gereken tam olarak doğru miktarda ışıkla yakalandığından emin olma sürecidir. Bunun için yapılan işleme ne ad verilir?
@@ -1885,8 +1762,7 @@
     - D-) Aşırı Pozlama
     - E-) Aydınlatma
 
-    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.
-    > Fotografik üçgenin kalbi ışık ölçümüdür. Her pozlamanın merkezinde, o ışık kaynağı ne kadar parlak veya loş olursa olsun herhangi bir ışık kaynağına tepki verecek şekilde tasarlanmış önceden kalibre edilmiş bir cihaz olan kameranızın ışık ölçeri bulunur.
+    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br />Fotografik üçgenin kalbi ışık ölçümüdür. Her pozlamanın merkezinde, o ışık kaynağı ne kadar parlak veya loş olursa olsun herhangi bir ışık kaynağına tepki verecek şekilde tasarlanmış önceden kalibre edilmiş bir cihaz olan kameranızın ışık ölçeri bulunur.
 
     <hr />
 1. Bir görüntüdeki kabul edilebilir keskinlik alanına ne ad verilir?
@@ -1896,8 +1772,7 @@
     - **Cevap D-) Alan derinliği**
     - E-) Aydınlatma
 
-    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.
-    > Alan derinliği, bir görüntüdeki kabul edilebilir keskinlik alanını ifade eder.
+    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br />Alan derinliği, bir görüntüdeki kabul edilebilir keskinlik alanını ifade eder.
 
     <hr />
 1. Dijital fotoğraf makineerinde kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında söyleyebilen özelliğine ne ad verilir?
@@ -1907,8 +1782,7 @@
     - D-) Enstantene
     - **Cevap E-) Histogram**
 
-    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.
-    > Histogram, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında size söyler.
+    > **Açıklama:** Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br />Histogram, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında size söyler.
 
     <hr />
 ## Unite 6
@@ -1919,12 +1793,7 @@
     - D-) Gölge ve renk
     - E-) Gölge ve açı
 
-    > **Açıklama:** Giriş
-    > İki boyutlu bir
-    > görselin, izleyicinin zihninde üç boyutlu olarak
-    > yeniden oluşabilmesi için iki temel bileşen bulunmaktadır. Bunlardan ilki **ışık ve gölge**, ikincisi ise
-    > nesnenin uzayda kapladığı alan (yer ve büyüklük)
-    > bilgisidir.
+    > **Açıklama:** Giriş<br />İki boyutlu bir<br />görselin, izleyicinin zihninde üç boyutlu olarak<br />yeniden oluşabilmesi için iki temel bileşen bulunmaktadır. Bunlardan ilki **ışık ve gölge**, ikincisi ise<br />nesnenin uzayda kapladığı alan (yer ve büyüklük)<br />bilgisidir.
 
     <hr />
 1. Nesnenin büyüklüğü/küçüklüğü, uzunluğu/kısalığı vb. fiziksel özellikleri ile çerçeve içerisinde yer alan diğer nesnelerle ilişkisi, boşluklar, fon ve mekân bilgisi bir araya geldiğinde, anlatımda ne sağlanmış olur?
@@ -1934,10 +1803,7 @@
     - D-) Nesnellik
     - **Cevap E-) Bütünlük**
 
-    > **Açıklama:** Giriş
-    > Nesnenin büyüklüğü/küçüklüğü, uzunluğu/kısalığı vb. fiziksel özellikleri ile çerçeve içerisinde yer alan diğer nesnelerle ilişkisi, boşluklar,
-    > fon ve mekân bilgisi bir araya geldiğinde anlatımda
-    > bütünlük sağlanmış olur.
+    > **Açıklama:** Giriş<br />Nesnenin büyüklüğü/küçüklüğü, uzunluğu/kısalığı vb. fiziksel özellikleri ile çerçeve içerisinde yer alan diğer nesnelerle ilişkisi, boşluklar,<br />fon ve mekân bilgisi bir araya geldiğinde anlatımda<br />bütünlük sağlanmış olur.
 
     <hr />
 1. Hangisi konusunu, konuya bakışını duyuları harekete geçirecek biçimde anlatabilmek için yapacağı tercihler arasında yer almaz?
@@ -1947,12 +1813,7 @@
     - D-) Boyut ve hacim ilişkisi
     - **Cevap E-) Yönlendirme**
 
-    > **Açıklama:** Giriş
-    > Konusunu, konuya
-    > bakışını duyuları harekete geçirecek biçimde anlatabilmek için yapacağı bu tercihler, **ışığın yönü**,
-    > ş**iddeti, pozlama**, gölgeler, yansımalar, renk, **boyut**
-    > **hacim ilişkisi**, mesafe, kullanılacak objektif ve odak
-    > uzaklığı, bakış açısı, yüksekliği, netlik, alan derinliği, fon, zamanlama vb. hakkında olacaktır.
+    > **Açıklama:** Giriş<br />Konusunu, konuya<br />bakışını duyuları harekete geçirecek biçimde anlatabilmek için yapacağı bu tercihler, **ışığın yönü**,<br />ş**iddeti, pozlama**, gölgeler, yansımalar, renk, **boyut** <br />**hacim ilişkisi**, mesafe, kullanılacak objektif ve odak<br />uzaklığı, bakış açısı, yüksekliği, netlik, alan derinliği, fon, zamanlama vb. hakkında olacaktır.
 
     <hr />
 1. Farklı imgelerin seçilip, ne yapılarak katmanlar hâlinde birleştirilmesiyle doğal ortam hissi yaratılabilir?
@@ -1962,9 +1823,7 @@
     - D-) Çözümleme
     - E-) İmaj
 
-    > **Açıklama:** FOTOĞRAF STÜDYOLARI, TEKNİK
-    > VE FİZİKSEL ÖZELLİKLERİ
-    > Farklı imgelerin seçilip **dekupe** edilerek katmanlar hâlinde birleştirilmesiyle doğal ortam hissi yaratılabilir.
+    > **Açıklama:** FOTOĞRAF STÜDYOLARI, TEKNİK<br />VE FİZİKSEL ÖZELLİKLERİ<br />Farklı imgelerin seçilip **dekupe** edilerek katmanlar hâlinde birleştirilmesiyle doğal ortam hissi yaratılabilir.
 
     <hr />
 1. Aydınlatma ve kompozisyonda özneyle birlikte kullanılacak aksesuarlar, kostüm, dekor gibi, diğer unsurlarla birlikte bütünlük ilişkisiyle fotoğrafta ne oluşturulur?
@@ -1974,11 +1833,7 @@
     - D-) Anlam
     - E-) İçerik
 
-    > **Açıklama:** FOTOĞRAF STÜDYOLARI, TEKNİK
-    > VE FİZİKSEL ÖZELLİKLERİ
-    > Fotoğrafta
-    > **atmosfer**, aydınlatma ve kompozisyonda özneyle
-    > birlikte kullanılacak aksesuarlar, kostüm, dekor vb. diğer unsurlarla birlikte bütünlük ilişkisiyle oluşturulur.
+    > **Açıklama:** FOTOĞRAF STÜDYOLARI, TEKNİK<br />VE FİZİKSEL ÖZELLİKLERİ<br />Fotoğrafta<br />**atmosfer**, aydınlatma ve kompozisyonda özneyle<br />birlikte kullanılacak aksesuarlar, kostüm, dekor vb. diğer unsurlarla birlikte bütünlük ilişkisiyle oluşturulur.
 
     <hr />
 1. Fotoğraf çekimi için ışıktan yalıtılıp, fon, dekor ve yapay ışık kaynakları ile donatılarak özel olarak oluşturulmuş ya da dönüştürülmüş kapalı mekânlara ne ad verilir?
@@ -1988,10 +1843,7 @@
     - D-) Stüdyo
     - E-) İç mekan
 
-    > **Açıklama:** Stüdyonun Fiziksel Özellikleri ve Teknik Altyapısı
-    > Fotoğraf çekimi için ışıktan yalıtılıp,
-    > fon, dekor ve yapay ışık kaynakları ile donatılarak özel olarak oluşturulmuş ya da dönüştürülmüş kapalı
-    > mekânlara “**fotoğraf stüdyosu**”, bu mekânlarda çekilen fotoğraflara “stüdyo fotoğrafı”, fotoğraf uygulamalarına da “stüdyo fotoğrafçılığı” denilmektedir.
+    > **Açıklama:** Stüdyonun Fiziksel Özellikleri ve Teknik Altyapısı<br />Fotoğraf çekimi için ışıktan yalıtılıp,<br />fon, dekor ve yapay ışık kaynakları ile donatılarak özel olarak oluşturulmuş ya da dönüştürülmüş kapalı<br />mekânlara “**fotoğraf stüdyosu**”, bu mekânlarda çekilen fotoğraflara “stüdyo fotoğrafı”, fotoğraf uygulamalarına da “stüdyo fotoğrafçılığı” denilmektedir.
 
     <hr />
 1. Fotoğraf stüdyolarının neden yalıtılmış olması gerekir?
@@ -2001,9 +1853,7 @@
     - **Cevap D-) Işık**
     - E-) Manyetik alan
 
-    > **Açıklama:** Stüdyonun Fiziksel Özellikleri ve Teknik Altyapısı
-    > Stüdyoların ışıktan yalıtılmış olmaları gerekir. Dışarıdan ışık alsalar da gerektiğinde izole edilerek
-    > tamamen ışıksız bir ortam hâline dönüştürülebilmelidirler.
+    > **Açıklama:** Stüdyonun Fiziksel Özellikleri ve Teknik Altyapısı<br />Stüdyoların ışıktan yalıtılmış olmaları gerekir. Dışarıdan ışık alsalar da gerektiğinde izole edilerek<br />tamamen ışıksız bir ortam hâline dönüştürülebilmelidirler.
 
     <hr />
 1. Stüdyolarda duvar rengi olarak ışığı yansıtmaması için hangi renk önerilmektedir?
@@ -2013,8 +1863,7 @@
     - **Cevap D-) Mat gri**
     - E-) Mavi
 
-    > **Açıklama:** Stüdyonun Fiziksel Özellikleri ve Teknik Altyapısı
-    > Stüdyolarda duvar rengi olarak ışığı yansıtmaması için **mat gri** renk önerilmektedir.
+    > **Açıklama:** Stüdyonun Fiziksel Özellikleri ve Teknik Altyapısı<br />Stüdyolarda duvar rengi olarak ışığı yansıtmaması için **mat gri** renk önerilmektedir.
 
     <hr />
 1. Fotoğraf stüdyoların elektrik tesisatında aşağıdakilerden hangisi yer almaz?
@@ -2024,18 +1873,7 @@
     - D-) Kaçak akımlara karşı güvenlik için mutlaka topraklama hattı bulunması.
     - **Cevap E-) Aydınlatma kaynaklarının hatları ve sigortaların birlikte, ayrılmamış olarak kullanılması.**
 
-    > **Açıklama:** Stüdyonun Fiziksel Özellikleri ve Teknik Altyapısı
-    > Stüdyoların elektrik tesisatında:
-    > • çekilen akıma uygun sigorta ve kaçak
-    > akım koruma sistemi bulunması,
-    > • tesisatta kullanılan kablo kalınlıklarının
-    > uygunluğu,
-    > • enerji ve akımın dağıtılması için üç fazlı
-    > (trifaze) elektrik kullanılması
-    > elektrik panosunda normal aydınlatma ve diğer kullanımlar için ayrılan hatlarla, çekimlerde
-    > kullanılacak **aydınlatma kaynaklarının hatları ve sigortaları birbirinden ayrılmış olması**,
-    > • kaçak akımlara karşı güvenlik için mutlaka topraklama hattı bulunması,
-    > • elektrik panolarının ilgisiz kişilerce kullanımı engelleyecek şekilde tedbirler alınmalıdır.
+    > **Açıklama:** Stüdyonun Fiziksel Özellikleri ve Teknik Altyapısı<br />Stüdyoların elektrik tesisatında:<br />• çekilen akıma uygun sigorta ve kaçak<br />akım koruma sistemi bulunması,<br />• tesisatta kullanılan kablo kalınlıklarının<br />uygunluğu,<br />• enerji ve akımın dağıtılması için üç fazlı<br />(trifaze) elektrik kullanılması<br />elektrik panosunda normal aydınlatma ve diğer kullanımlar için ayrılan hatlarla, çekimlerde<br />kullanılacak **aydınlatma kaynaklarının hatları ve sigortaları birbirinden ayrılmış olması**,<br />• kaçak akımlara karşı güvenlik için mutlaka topraklama hattı bulunması,<br />• elektrik panolarının ilgisiz kişilerce kullanımı engelleyecek şekilde tedbirler alınmalıdır.
 
     <hr />
 1. Gün ışığı kaç kelvin (K) olarak kabul edilen özel ampuller tarafından sağlanır?
@@ -2045,9 +1883,7 @@
     - D-) 5300 K
     - **Cevap E-) 5500 K**
 
-    > **Açıklama:** Stüdyo ve Birimleri
-    > Ancak böyle bir imkân
-    > yoksa makyaj yapılacak alan, **günışığı (5500K)** olarak kabul edilen özel ampuller ile aydınlatılmalıdır.
+    > **Açıklama:** Stüdyo ve Birimleri<br />Ancak böyle bir imkân<br />yoksa makyaj yapılacak alan, **günışığı (5500K)** olarak kabul edilen özel ampuller ile aydınlatılmalıdır.
 
     <hr />
 1. Fotoğraf stüdyolarında pencereler ve gölgeleri kompozisyona dahil edilerek dekor ve ne etkisi verilmektedir?
@@ -2057,8 +1893,7 @@
     - D-) Miks
     - E-) Geçiş
 
-    > **Açıklama:** Stüdyo Türleri
-    > Özellikle moda çekimlerinde tercih edilen bu stüdyolarda, kalın ve ışık geçirmeyen perdeler gerektiğinde kapatılarak aynı zamanda ışık yalıtımı da yapılabilmektedir. Ayrıca pencereler ve gölgeleri kompozisyona dahil edilerek dekor ve **derinlik** etkisi de verilebilmektedir.
+    > **Açıklama:** Stüdyo Türleri<br />Özellikle moda çekimlerinde tercih edilen bu stüdyolarda, kalın ve ışık geçirmeyen perdeler gerektiğinde kapatılarak aynı zamanda ışık yalıtımı da yapılabilmektedir. Ayrıca pencereler ve gölgeleri kompozisyona dahil edilerek dekor ve **derinlik** etkisi de verilebilmektedir.
 
     <hr />
 1. Gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlar, gerçekçi bir atmosfer<br />etkisi yaratılarak çekim yapılmasını sağlayan stüdyolara hangi ad verilir?
@@ -2068,10 +1903,7 @@
     - D-) Minyatür stüdyo
     - E-) Bütünleşik stüdyo
 
-    > **Açıklama:** Stüdyo Türleri
-    > **Plato** adı verilen bu
-    > stüdyolarda gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlar, gerçekçi bir atmosfer
-    > etkisi yaratılarak çekim yapılmasını sağlar.
+    > **Açıklama:** Stüdyo Türleri<br />**Plato** adı verilen bu<br />stüdyolarda gerçeğe benzer şekilde düzenlenmiş sokak, ev, ofis vb. mimari alanlar, gerçekçi bir atmosfer<br />etkisi yaratılarak çekim yapılmasını sağlar.
 
     <hr />
 1. Dikkat çekmek ve algıyı yönlendirmek için fotoğrafın öznesi genellikle çerçeve düzenlemesi içerisinde nereye yerleştirilir?
@@ -2081,9 +1913,7 @@
     - D-) Üst Plana
     - E-) Sağ köşeye
 
-    > **Açıklama:** FOTOĞRAF STÜDYOSUNDA FON TÜRLERİ VE İŞLEVLERİ
-    > Dikkat çekmek ve algıyı yönlendirmek için fotoğrafın öznesi genellikle çerçeve düzenlemesi içerisinde **ön**
-    > **plana** yerleştirilir.
+    > **Açıklama:** FOTOĞRAF STÜDYOSUNDA FON TÜRLERİ VE İŞLEVLERİ<br />Dikkat çekmek ve algıyı yönlendirmek için fotoğrafın öznesi genellikle çerçeve düzenlemesi içerisinde **ön** <br />**plana** yerleştirilir.
 
     <hr />
 1. Dekupe işlemlerinde hangi renk fon kullanımı mesleki bir standart hâline gelmiştir?
@@ -2093,9 +1923,7 @@
     - D-) Sarı
     - **Cevap E-) Beyaz**
 
-    > **Açıklama:** Düz Fonlar
-    > Dekupe işlemlerinde beyaz fon kullanımı mesleki bir standart hâline
-    > gelmiştir.
+    > **Açıklama:** Düz Fonlar<br />Dekupe işlemlerinde beyaz fon kullanımı mesleki bir standart hâline<br />gelmiştir.
 
     <hr />
 1. Beyaz fon tercihlerinde hangi aydınlatma yöntemi kullanılarak konu dışında fon da sert<br />bir ışık kaynağı ile aydınlatılır?
@@ -2105,9 +1933,7 @@
     - D-) Super-key
     - E-) Min-key
 
-    > **Açıklama:** Düz Fonlar
-    > Beyaz fon tercihlerinde high-key denilen aydınlatma yöntemi kullanılarak konu dışında fon da sert
-    > bir ışık kaynağı ile aydınlatılmaktadır.
+    > **Açıklama:** Düz Fonlar<br />Beyaz fon tercihlerinde high-key denilen aydınlatma yöntemi kullanılarak konu dışında fon da sert<br />bir ışık kaynağı ile aydınlatılmaktadır.
 
     <hr />
 1. Üçüncü boyut yaratmak amacıyla öznenin büyüklüğünün bir göstergesi olarak yüksekliğine ilişkin bir betimleme yapılması isteniyorsa fonla birlikte, neyin kompozisyonun bir parçası hâline getirilmesi gerekir?
@@ -2117,10 +1943,7 @@
     - **Cevap D-) Zeminin**
     - E-) Rengin
 
-    > **Açıklama:** Düz Fonlar
-    > Üçüncü boyut yaratmak amacıyla öznenin büyüklüğünün bir göstergesi olarak yüksekliğine ilişkin bir
-    > betimleme yapılması isteniyorsa, fonla birlikte **zeminin** de kompozisyonun bir parçası hâline getirilmesi
-    > gerekir.
+    > **Açıklama:** Düz Fonlar<br />Üçüncü boyut yaratmak amacıyla öznenin büyüklüğünün bir göstergesi olarak yüksekliğine ilişkin bir<br />betimleme yapılması isteniyorsa, fonla birlikte **zeminin** de kompozisyonun bir parçası hâline getirilmesi<br />gerekir.
 
     <hr />
 1. Aydınlatma tasarımındaki ışık ve gölgeler, mekânda kullanılan dekor ve aksesuarlar üzerindeki neyi yönetir?
@@ -2130,9 +1953,7 @@
     - D-) Biçimi
     - **Cevap E-) Dikkati/Algıyı**
 
-    > **Açıklama:** Mekân/Set Fonlar
-    > Aydınlatma tasarımındaki ışık ve gölgeler, mekânda kullanılan dekor ve aksesuarlar üzerindeki dikkati/
-    > algıyı yönetir.
+    > **Açıklama:** Mekân/Set Fonlar<br />Aydınlatma tasarımındaki ışık ve gölgeler, mekânda kullanılan dekor ve aksesuarlar üzerindeki dikkati/<br />algıyı yönetir.
 
     <hr />
 1. Fotoğraf tekniğiyle küçük öznelerin fotoğraflarını çekmek için kullanılan bir araç olan "still life" ı aşağıdakilerden hangisi tanımlamaktadır?
@@ -2142,9 +1963,7 @@
     - D-) Plan çekim masası
     - E-) Aydınlatma masası
 
-    > **Açıklama:** Still Life/Ürün Çekim Masası
-    > “Ürün Çekim Masası”, still life olarak ifade edilen fotoğraf tekniğiyle küçük öznelerin fotoğraflarını
-    > çekmek için kullanılan bir araçtır.
+    > **Açıklama:** Still Life/Ürün Çekim Masası<br />“Ürün Çekim Masası”, still life olarak ifade edilen fotoğraf tekniğiyle küçük öznelerin fotoğraflarını<br />çekmek için kullanılan bir araçtır.
 
     <hr />
 1. Roll film kullanılan orta format kameralarda, kameraların arkasındaki (back) magazinlerin boyutuna göre, kaç cm aralığında kareler elde edilir?
@@ -2154,8 +1973,7 @@
     - D-) 4\.5x7 cm / 6x8 cm
     - E-) 4\.1x6 cm / 6.1x9 cm
 
-    > **Açıklama:** Orta format kameralarda roll film kullanılır, kameraların arkasındaki (back)
-    > magazinlerin boyutuna göre **4.5x6 cm ile 6x9 cm** aralığında kareler elde edilirdi.
+    > **Açıklama:** Orta format kameralarda roll film kullanılır, kameraların arkasındaki (back)<br />magazinlerin boyutuna göre **4.5x6 cm ile 6x9 cm** aralığında kareler elde edilirdi.
 
     <hr />
 1. " Tavana ya da duvara monte aparatlara takılan farklı renklerde kumaş ya da karton malzemeden imal edilmiş fon " şeklinde tanımlanan fon türü aşağıdakilerden hangisidir?
@@ -2265,9 +2083,7 @@
     - **Cevap D-) Stüdyo, fotoğrafın öznesine ve/veya verilmek istenen etkiye göre sürekli yenilenebilen, değiştirilebilen yapay bir ortamdır.**
     - E-) Stüdyo ortamında farklı öznelerin fotoğraf çekimi için farklı atmosferler yaratılması oldukça zordur.
 
-    > **Açıklama:** FOTOĞRAF STÜDYOLARI, TEKNİK VE FİZİKSEL ÖZELLİKLERİ
-    > Stüdyo, fotoğrafçıların hayal dünyalarındaki imgeleri gerçeğe, yaratıcılıklarını performansa dönüştürdükleri zengin bir evrendir. Stüdyolar ortamı, koşulları ve teknik donanımları çerçevesinde fotoğraf çekimlerinde oldukça geniş fırsatlar sunmaktadır. İdeal fotoğrafın ortaya çıkması için çekim koşullarında yapılacak tüm müdahale ve değişiklikler olağan kabul edilmektedir. Stüdyo, fotoğrafın öznesine ve/veya verilmek
-    > istenen etkiye göre sürekli yenilenebilen, değiştirilebilen yapay bir ortamdır. Stüdyo ortamında farklı öznelerin fotoğraf çekimi için farklı atmosferler yaratılabilir.
+    > **Açıklama:** FOTOĞRAF STÜDYOLARI, TEKNİK VE FİZİKSEL ÖZELLİKLERİ<br />Stüdyo, fotoğrafçıların hayal dünyalarındaki imgeleri gerçeğe, yaratıcılıklarını performansa dönüştürdükleri zengin bir evrendir. Stüdyolar ortamı, koşulları ve teknik donanımları çerçevesinde fotoğraf çekimlerinde oldukça geniş fırsatlar sunmaktadır. İdeal fotoğrafın ortaya çıkması için çekim koşullarında yapılacak tüm müdahale ve değişiklikler olağan kabul edilmektedir. Stüdyo, fotoğrafın öznesine ve/veya verilmek<br />istenen etkiye göre sürekli yenilenebilen, değiştirilebilen yapay bir ortamdır. Stüdyo ortamında farklı öznelerin fotoğraf çekimi için farklı atmosferler yaratılabilir.
 
     <hr />
 1. Stüdyoda çekilen fotoğraflarla ilgili hangi ifadenin doğru olduğu söylenemez?
@@ -2277,8 +2093,7 @@
     - D-) Hedeflenen etkiyi yaratmak için dijital teknolojinin sağladığı olanaklardan ve yazılımlardan da faydalanılabilir.
     - **Cevap E-) Farklı imgelerin seçilip dekupe edilerek katmanlar hâlinde birleştirilmesi, doğal ortam hissi yaratılmasında engeldir.**
 
-    > **Açıklama:** FOTOĞRAF STÜDYOLARI, TEKNİK VE FİZİKSEL ÖZELLİKLERİ
-    > Stüdyoda çekilen fotoğraflar, verilmek istenen iletiye ya da duyguya bağlı olarak, yaratılmak istenen atmosfer içerisinde sunulmalıdır. Fotoğrafta atmosfer, aydınlatma ve kompozisyonda özneyle birlikte kullanılacak aksesuarlar, kostüm, dekor vb. diğer unsurlarla birlikte bütünlük ilişkisiyle oluşturulur. İlgiyi yönlendirmek, dikkat çekmek, benzerlerinden farklılaşabilmek gibi amaçlarla bu etkiler, kimi zaman gerçek dışı fotoğraflarla da yaratılabilir. Ayrıca hedeflenen etkiyi yaratmak için dijital teknolojinin sağladığı olanaklardan ve yazılımlardan da faydalanılabilir. Farklı imgelerin seçilip dekupe edilerek katmanlar hâlinde birleştirilmesiyle doğal ortam hissi yaratılabilir.
+    > **Açıklama:** FOTOĞRAF STÜDYOLARI, TEKNİK VE FİZİKSEL ÖZELLİKLERİ<br />Stüdyoda çekilen fotoğraflar, verilmek istenen iletiye ya da duyguya bağlı olarak, yaratılmak istenen atmosfer içerisinde sunulmalıdır. Fotoğrafta atmosfer, aydınlatma ve kompozisyonda özneyle birlikte kullanılacak aksesuarlar, kostüm, dekor vb. diğer unsurlarla birlikte bütünlük ilişkisiyle oluşturulur. İlgiyi yönlendirmek, dikkat çekmek, benzerlerinden farklılaşabilmek gibi amaçlarla bu etkiler, kimi zaman gerçek dışı fotoğraflarla da yaratılabilir. Ayrıca hedeflenen etkiyi yaratmak için dijital teknolojinin sağladığı olanaklardan ve yazılımlardan da faydalanılabilir. Farklı imgelerin seçilip dekupe edilerek katmanlar hâlinde birleştirilmesiyle doğal ortam hissi yaratılabilir.
 
     <hr />
 1. Fotoğrafı çekilen öznenin, görüntü işleme yazılımları aracılığıyla biçimini oluşturan kontur çizgilerinden seçilip çıkarılarak başka bir zemin, fon ya da görüntü üzerine<br />yerleştirilmek amacıyla ayrıştırılmasına ne ad verilir?
@@ -2288,8 +2103,7 @@
     - D-) Breef
     - E-) Hedef fotoğraf
 
-    > **Açıklama:** FOTOĞRAF STÜDYOLARI, TEKNİK VE FİZİKSEL ÖZELLİKLERİ
-    > Dekupe: Fotoğrafı çekilen öznenin, görüntü işleme yazılımları aracılığıyla biçimini oluşturan kontur çizgilerinden seçilip çıkarılarak başka bir zemin, fon ya da görüntü üzerine yerleştirilmek amacıyla ayrıştırılması.
+    > **Açıklama:** FOTOĞRAF STÜDYOLARI, TEKNİK VE FİZİKSEL ÖZELLİKLERİ<br />Dekupe: Fotoğrafı çekilen öznenin, görüntü işleme yazılımları aracılığıyla biçimini oluşturan kontur çizgilerinden seçilip çıkarılarak başka bir zemin, fon ya da görüntü üzerine yerleştirilmek amacıyla ayrıştırılması.
 
     <hr />
 1. Fotoğraf çekimi için ışıktan yalıtılıp, fon, dekor ve yapay ışık kaynakları ile donatılarak özel olarak oluşturulmuş ya da dönüştürülmüş kapalı mekânlara ne ad verilir?
@@ -2299,8 +2113,7 @@
     - D-) Çekim çadırı
     - E-) Ürün çekim kiti
 
-    > **Açıklama:** Stüdyonun Fiziksel Özellikleri ve Teknik Altyapısı
-    > Fotoğraf çekimi için ışıktan yalıtılıp, fon, dekor ve yapay ışık kaynakları ile donatılarak özel olarak oluşturulmuş ya da dönüştürülmüş kapalı mekânlara “fotoğraf stüdyosu”, bu mekânlarda çekilen fotoğraflara “stüdyo fotoğrafı”, fotoğraf uygulamalarına da “stüdyo fotoğrafçılığı” denilmektedir.
+    > **Açıklama:** Stüdyonun Fiziksel Özellikleri ve Teknik Altyapısı<br />Fotoğraf çekimi için ışıktan yalıtılıp, fon, dekor ve yapay ışık kaynakları ile donatılarak özel olarak oluşturulmuş ya da dönüştürülmüş kapalı mekânlara “fotoğraf stüdyosu”, bu mekânlarda çekilen fotoğraflara “stüdyo fotoğrafı”, fotoğraf uygulamalarına da “stüdyo fotoğrafçılığı” denilmektedir.
 
     <hr />
 1. Fotoğraf stüdyoları için standart olmasa da bazı ideal koşullarından bahsedilebilir. Hangisi bu koşullardandır?
@@ -2310,8 +2123,7 @@
     - **Cevap D-) Aydınlatma kaynaklarının enerji ihtiyacı için kullanılacak prizler zemine yakın bir yükseklikte ve yeterli sayıda olmalıdır.**
     - E-) Stüdyolar için çoğunlukla üst katlar tercih edilmektedir.
 
-    > **Açıklama:** Stüdyonun Fiziksel Özellikleri ve Teknik Altyapısı
-    > i. Aydınlatma kaynaklarının enerji ihtiyacı için kullanılacak prizler zemine yakın bir yükseklikte ve yeterli sayıda olmalıdır.
+    > **Açıklama:** Stüdyonun Fiziksel Özellikleri ve Teknik Altyapısı<br />i. Aydınlatma kaynaklarının enerji ihtiyacı için kullanılacak prizler zemine yakın bir yükseklikte ve yeterli sayıda olmalıdır.
 
     <hr />
 1. “Günışığı/ Daylight Stüdyoları” nın anlaşılması ve tanımlanmasında hangisinin doğru olduğu söylenemez?
@@ -2321,9 +2133,7 @@
     - D-) Daha esnek aydınlatma alternatifi sunmaları açısından “Günışığı/ Daylight Stüdyoları”nın ışık tararımı açısından oldukça avantajlı olduğu söylenebilir.
     - E-) Günümüzde, gün ışığından yararlanmak için büyük pencereli kapalı alanların yanı sıra, bahçe ya da teras gibi açık alanlarda fon sistemi kurularak “Günışığı/ Daylight Stüdyoları” oluşturulmaktadır
 
-    > **Açıklama:** Günümüzde, benzer şekilde gün ışığından yararlanmak için büyük pencereli kapalı alanların yanı sıra, bahçe ya da teras gibi açık alanlarda fon sistemi kurularak “Günışığı/ Daylight Stüdyoları” oluşturulmaktadır. Özellikle moda çekimlerinde tercih edilen bu stüdyolarda, kalın ve ışık geçirmeyen perdeler gerektiğinde kapatılarak aynı zamanda ışık yalıtımı da yapılabilmektedir. Ayrıca pencereler ve gölgeleri kompozisyona dahil edilerek dekor ve derinlik etkisi de verilebilmektedir. Daha esnek aydınlatma alternatifi sunmaları açısından “Günışığı/ Daylight Stüdyoları”nın ışık tararımı açısından oldukça avantajlı olduğu söylenebilir.
-    > Şehir merkezlerinde, çoğunlukla ana caddeler ile büyük iş merkezlerine yakın yerlerdeki küçük fotoğraf stüdyoları, günlük yaşamda en sık karşılaşılan ve kullanılan stüdyo türleridir. Bu tip stüdyolarda, genellikle resmi işlemlerde kullanılmak üzere vesikalık portre fotoğrafları ile doğum, düğün, mezuniyet gibi özel gün fotoğrafları çekilmekte, aynı zamanda minilab ya da yazıcılar ile fotoğraf baskı hizmeti de verilmektedir.
-    > “Color”, “Foto”, “Stüdyo” gibi eklerle markalaşan, dijital fotoğraf dönemiyle birlikte sayıları giderek azalan ve küçülen bu işletmelerin, aynı zamanda uzun yıllar boyu aile albümlerinin oluşmasında önemli bir işleve sahip olduğu söylenebilir.
+    > **Açıklama:** Günümüzde, benzer şekilde gün ışığından yararlanmak için büyük pencereli kapalı alanların yanı sıra, bahçe ya da teras gibi açık alanlarda fon sistemi kurularak “Günışığı/ Daylight Stüdyoları” oluşturulmaktadır. Özellikle moda çekimlerinde tercih edilen bu stüdyolarda, kalın ve ışık geçirmeyen perdeler gerektiğinde kapatılarak aynı zamanda ışık yalıtımı da yapılabilmektedir. Ayrıca pencereler ve gölgeleri kompozisyona dahil edilerek dekor ve derinlik etkisi de verilebilmektedir. Daha esnek aydınlatma alternatifi sunmaları açısından “Günışığı/ Daylight Stüdyoları”nın ışık tararımı açısından oldukça avantajlı olduğu söylenebilir.<br />Şehir merkezlerinde, çoğunlukla ana caddeler ile büyük iş merkezlerine yakın yerlerdeki küçük fotoğraf stüdyoları, günlük yaşamda en sık karşılaşılan ve kullanılan stüdyo türleridir. Bu tip stüdyolarda, genellikle resmi işlemlerde kullanılmak üzere vesikalık portre fotoğrafları ile doğum, düğün, mezuniyet gibi özel gün fotoğrafları çekilmekte, aynı zamanda minilab ya da yazıcılar ile fotoğraf baskı hizmeti de verilmektedir.<br />“Color”, “Foto”, “Stüdyo” gibi eklerle markalaşan, dijital fotoğraf dönemiyle birlikte sayıları giderek azalan ve küçülen bu işletmelerin, aynı zamanda uzun yıllar boyu aile albümlerinin oluşmasında önemli bir işleve sahip olduğu söylenebilir.
 
     <hr />
 1. Fotoğrafçılık sektöründe artan rekabet koşulları ve işletme maliyetleri, ürünlerin nakliye maliyetleri, mobilya vb. ürünlerin montaj süresi, kamyon, otobüs gibi büyük ürünlerin stüdyolara taşınması gibi faktörlerin hangisini gündeme getirdiği söylenebilir?
@@ -2333,8 +2143,7 @@
     - D-) Reklam ve tanıtım amacıyla sıklıkla fotoğraf kullanan bazı firmaların kendilerine ait mekânlarda oluşturdukları daimi stüdyoları.
     - E-) Plato adı verilen stüdyoları.
 
-    > **Açıklama:** Stüdyo Türleri
-    > Fotoğrafçılık sektöründe artan rekabet koşulları ve işletme maliyetleri, ürünlerin nakliye maliyetleri, mobilya vb. ürünlerin montaj süresi, kamyon, otobüs gibi büyük ürünlerin stüdyolara taşınması gibi faktörler, maliyetlerin azaltılması ve prodüksiyonun hızlandırılmasını mümkün kılacak “portatif stüdyolar”ı gündeme getirmektedir. Reklam veren firmaların fabrika, atölye, “showroom” ya da satış ofislerinde oluşturulan setler, kumaş vb. çeşitli malzemelerle çevrelerinden yalıtılarak, taşınabilir aydınlatma kaynakları ile stüdyo ortamına dönüştürülmekte ve çekimler bu şekilde gerçekleştirilmektedir.
+    > **Açıklama:** Stüdyo Türleri<br />Fotoğrafçılık sektöründe artan rekabet koşulları ve işletme maliyetleri, ürünlerin nakliye maliyetleri, mobilya vb. ürünlerin montaj süresi, kamyon, otobüs gibi büyük ürünlerin stüdyolara taşınması gibi faktörler, maliyetlerin azaltılması ve prodüksiyonun hızlandırılmasını mümkün kılacak “portatif stüdyolar”ı gündeme getirmektedir. Reklam veren firmaların fabrika, atölye, “showroom” ya da satış ofislerinde oluşturulan setler, kumaş vb. çeşitli malzemelerle çevrelerinden yalıtılarak, taşınabilir aydınlatma kaynakları ile stüdyo ortamına dönüştürülmekte ve çekimler bu şekilde gerçekleştirilmektedir.
 
     <hr />
 1. Hangisi, stüdyoda kullanılan fon türlerinden düz fonun anlaşılmasında, doğru olarak değerlendirilebilir?
@@ -2344,8 +2153,7 @@
     - D-) Düz renkli fon kullanıldığında öznenin formu, hacmi ve derinlik etkisi önemli miktarda artar.
     - E-) Daha nadir kullanılsalar da bu tip fonlar, desenli baskı fonların anlatımda pasif yapısına tezat olarak fonu dinamik ve dikkat çekici bir faktör olarak değerlendirmek amacıyla kullanılmaktadırlar.
 
-    > **Açıklama:** Stüdyoda Kullanılan Fon Türleri ve İşlevleri
-    > Öznenin çoğunlukla tek ya da ilişkili birkaç nesne ile desensiz ve dokusuz düz renkten oluşan fon önüne yerleştirilerek fotoğrafının çekildiği bir kullanım biçimidir. Fon olarak öznenin büyüklüğüne göre stüdyodaki sabit ve askılı fonlar kullanılabildiği gibi karton, kumaş, duvar, stil life çekim masası ya da çekim çadırları da kullanılabilir. Kimi zaman öznenin üzerine konulduğu masa, sehpa vb. malzemelerin yüzeyleri de fon olarak değerlendirilebilmektedir.
+    > **Açıklama:** Stüdyoda Kullanılan Fon Türleri ve İşlevleri<br />Öznenin çoğunlukla tek ya da ilişkili birkaç nesne ile desensiz ve dokusuz düz renkten oluşan fon önüne yerleştirilerek fotoğrafının çekildiği bir kullanım biçimidir. Fon olarak öznenin büyüklüğüne göre stüdyodaki sabit ve askılı fonlar kullanılabildiği gibi karton, kumaş, duvar, stil life çekim masası ya da çekim çadırları da kullanılabilir. Kimi zaman öznenin üzerine konulduğu masa, sehpa vb. malzemelerin yüzeyleri de fon olarak değerlendirilebilmektedir.
 
     <hr />
 1. Stüdyo fotoğrafçılığında, farklı ürün ve malzemelere göre kurulacak çekim setlerinde<br />aydınlatma tasarımı yapmak için kullanılan aydınlatma simülasyonu yazılımı hangisidir?
@@ -2355,8 +2163,7 @@
     - **Cevap D-) Set A Light 3D**
     - E-) Helicon Focus
 
-    > **Açıklama:** Bilgisayar Donanım ve Yazılımları
-    > Set A Light 3D: Stüdyo fotoğrafçılığında, farklı ürün ve malzemelere göre kurulacak çekim setlerinde aydınlatma tasarımı yapmak için kullanılan bir aydınlatma simülasyonu yazılımıdır. Fotoğrafı çekilecek özneye ve aksesuarlara bağlı olarak kullanılacak ışık adedi, şiddeti, diyafram değerleri gibi birçok değişkene göre sonucun belirlenmesini sağlayan oldukça kullanışlı bir yazılımdır.
+    > **Açıklama:** Bilgisayar Donanım ve Yazılımları<br />Set A Light 3D: Stüdyo fotoğrafçılığında, farklı ürün ve malzemelere göre kurulacak çekim setlerinde aydınlatma tasarımı yapmak için kullanılan bir aydınlatma simülasyonu yazılımıdır. Fotoğrafı çekilecek özneye ve aksesuarlara bağlı olarak kullanılacak ışık adedi, şiddeti, diyafram değerleri gibi birçok değişkene göre sonucun belirlenmesini sağlayan oldukça kullanışlı bir yazılımdır.
 
     <hr />
 1. Stüdyo fotoğrafçılığında, fotoğrafı çekilen ürüne yönelik verilmek istenen ileti ve yaratılmak istenen imaja uygun olarak tasarlanan setin oluşturulmasını hazır hâle getirmek, kullanılacak dekor ve aksesuarları hazır hâle getirmek, gerekli kurulum ve montajların yapılmasını sağlamakla görevli olan kişi hangisidir?
@@ -2366,8 +2173,7 @@
     - D-) Prodüktör
     - E-) Styling
 
-    > **Açıklama:** STÜDYO FOTOĞRAFÇILIĞINDA GÖREVLİLER VE İŞLEVLERİ
-    > Sanat Yönetmeni: Fotoğrafı çekilen ürüne yönelik verilmek istenen ileti ve yaratılmak istenen imaja uygun olarak tasarlanan setin oluşturulmasını hazır hâle getirmek, kullanılacak dekor ve aksesuarları hazır hâle getirmek, gerekli kurulum ve montajların yapılmasını sağlamak temel görevleridir.
+    > **Açıklama:** STÜDYO FOTOĞRAFÇILIĞINDA GÖREVLİLER VE İŞLEVLERİ<br />Sanat Yönetmeni: Fotoğrafı çekilen ürüne yönelik verilmek istenen ileti ve yaratılmak istenen imaja uygun olarak tasarlanan setin oluşturulmasını hazır hâle getirmek, kullanılacak dekor ve aksesuarları hazır hâle getirmek, gerekli kurulum ve montajların yapılmasını sağlamak temel görevleridir.
 
     <hr />
 ## Unite 7
@@ -2408,8 +2214,7 @@
     - D-) PPI değeri cihazda kullanılan ekranın boyutuna ve çözünürlüğüne göre değişiklik gösterir
     - **Cevap E-) Baskı teknikleriyle alakalı olarak kullanılan bir kısaltmadır**
 
-    > **Açıklama:** **İnç Başına Düşen Piksel Sayısı (PPI):** Piksel yoğunluğu olarak da bilinir. Bir inç (2.54 cm) başına düşen piksel sayısını verir. PPI değeri yükseldikçe ekrandaki görüntünün keskinliği artar. Bu değer cihazda kullanılan ekranın boyutuna ve çözünürlüğüne göre değişiklik gösterir
-    > DPI (inç başına düşen nokta sayısı) ile PPI’ı karıştırmamak gerekir. PPI dijital ekranlarla alakalı bir terim iken, DPI daha çok baskı teknikleriyle alakalı olarak kullanılır
+    > **Açıklama:** **İnç Başına Düşen Piksel Sayısı (PPI):** Piksel yoğunluğu olarak da bilinir. Bir inç (2.54 cm) başına düşen piksel sayısını verir. PPI değeri yükseldikçe ekrandaki görüntünün keskinliği artar. Bu değer cihazda kullanılan ekranın boyutuna ve çözünürlüğüne göre değişiklik gösterir<br />DPI (inç başına düşen nokta sayısı) ile PPI’ı karıştırmamak gerekir. PPI dijital ekranlarla alakalı bir terim iken, DPI daha çok baskı teknikleriyle alakalı olarak kullanılır
 
     <hr />
 1. Kendisine benzer özelliklere sahip GIF formatının sıkıştırma algoritmasında yaşanan patent sorunu nedeniyle ortaya çıkan sayısal görüntü formatı aşağıdakilerden hangisidir?
@@ -2449,17 +2254,7 @@
     - D-) Sanal gerçeklik video desteği
     - E-) Bulut üzerinden başkalarıyla iş birliği içerisinde çalışabilme
 
-    > **Açıklama:** Ağırlıklı olarak profesyonel kullanıcıların tercih ettiği bir sayısal hareketli görüntü düzenleme yazılımı olan Premier Pro’nun temel özelliklerinden bazılarıları şunlardır:
-    > * Adobe yaratıcı takım uygulamalarıyla entegre çalışabilmesi
-    > * Görüntü ve ses filtrelerinin çeşitliliği
-    > * 360 derece video desteği
-    > * Sanal gerçeklik video desteği
-    > * Bulut üzerinden başkalarıyla iş birliği içerisinde çalışabilme242
-    > * **Her türlü kaynaktan gelen video içeriğini import edebilme**
-    > * Yüzlerce farklı dosya formatıyla uyumlu ça­lışabilme
-    > * Birden fazla kamerayla gerçekleştirilen çe­kimlerde otomatik senkronizasyon özelliği
-    > * Mobil uygulamalarla entegre çalışılabilmesi
-    > * Çeşitli eklentilerle sonradan yeni özellikler ekleyebilme
+    > **Açıklama:** Ağırlıklı olarak profesyonel kullanıcıların tercih ettiği bir sayısal hareketli görüntü düzenleme yazılımı olan Premier Pro’nun temel özelliklerinden bazılarıları şunlardır:<br />* Adobe yaratıcı takım uygulamalarıyla entegre çalışabilmesi<br />* Görüntü ve ses filtrelerinin çeşitliliği<br />* 360 derece video desteği<br />* Sanal gerçeklik video desteği<br />* Bulut üzerinden başkalarıyla iş birliği içerisinde çalışabilme242<br />* **Her türlü kaynaktan gelen video içeriğini import edebilme**<br />* Yüzlerce farklı dosya formatıyla uyumlu ça­lışabilme<br />* Birden fazla kamerayla gerçekleştirilen çe­kimlerde otomatik senkronizasyon özelliği<br />* Mobil uygulamalarla entegre çalışılabilmesi<br />* Çeşitli eklentilerle sonradan yeni özellikler ekleyebilme
 
     <hr />
 1. Fotoğraf makineleri, kameralar, bilgisayar ekranları görüntüyü ---------------renk uzayıyla oluştururken, baskı makineleri ve yazıcılar CMYK renk uzayıyla oluştururlar.<br />Yukarıda boş bırakılan yeri aşağıdakilerden hangisi, doğru tamamlar?
@@ -2489,8 +2284,7 @@
     - **Cevap D-) Picasa**
     - E-) NLE
 
-    > **Açıklama:** Hareketsiz görüntünün sayısallaştırılarak bilgi- sayar ortamına taşınmasıyla beraber pek çok farklı işlev ve özelliği bir arada yürütebilen Adobe Photoshop ve Lightroom, Corel PaintShop Pro gibi profesyonel görüntü işleme yazılımların yanında Picasa, Gimp gibi tüketici düzeyinde daha basit arayüzlerle çalışan ve çoğunlukla ücretsiz uygula- malar da ardı ardına ortaya çıkarak kullanıcıların beğenisine sunulmuştur.
-    > Picasa, Gimp gibi tüketici düzeyinde daha basit arayüzlerle çalışan ve çoğunlukla ücretsiz uygulamalar da ardı ardına ortaya çıkarak kullanıcıların beğenisine sunulmuştur.
+    > **Açıklama:** Hareketsiz görüntünün sayısallaştırılarak bilgi- sayar ortamına taşınmasıyla beraber pek çok farklı işlev ve özelliği bir arada yürütebilen Adobe Photoshop ve Lightroom, Corel PaintShop Pro gibi profesyonel görüntü işleme yazılımların yanında Picasa, Gimp gibi tüketici düzeyinde daha basit arayüzlerle çalışan ve çoğunlukla ücretsiz uygula- malar da ardı ardına ortaya çıkarak kullanıcıların beğenisine sunulmuştur.<br />Picasa, Gimp gibi tüketici düzeyinde daha basit arayüzlerle çalışan ve çoğunlukla ücretsiz uygulamalar da ardı ardına ortaya çıkarak kullanıcıların beğenisine sunulmuştur.
 
     <hr />
 1. Sayısal görüntü ile ilgili olarak aşağıdaki seçeneklerden hangisi söylenemez?
@@ -2500,8 +2294,7 @@
     - D-) Her bir piksel üzerinde bilgiler içeren değerler bulunur.
     - **Cevap E-) Değerler beş rakamlı bilgisayar veri algoritmasına uygun bir biçimde kodlanarak sayısallaştırılır.**
 
-    > **Açıklama:** Beş değil iki rakamlı olacak.
-    > Sayısal görüntü, temel anlamda piksellerden oluşur. Sayısal görüntüler, ya orijinal basılı fotoğraf/filmlerden taranır ya da sayısal fotoğraf makineleri/kameralar ile çekilir. Görüntüyü oluşturan her bir piksel üzerinde renk, ışık ya da parlaklık gibi bilgileri içeren değerler bulunur. Bu değerler **iki rakamlı (ing.binary)** bilgisayar veri algoritmasına uygun bir biçimde kodlanarak sayısallaştırılır.
+    > **Açıklama:** Beş değil iki rakamlı olacak.<br />Sayısal görüntü, temel anlamda piksellerden oluşur. Sayısal görüntüler, ya orijinal basılı fotoğraf/filmlerden taranır ya da sayısal fotoğraf makineleri/kameralar ile çekilir. Görüntüyü oluşturan her bir piksel üzerinde renk, ışık ya da parlaklık gibi bilgileri içeren değerler bulunur. Bu değerler **iki rakamlı (ing.binary)** bilgisayar veri algoritmasına uygun bir biçimde kodlanarak sayısallaştırılır.
 
     <hr />
 1. Aşağıdaki seçeneklerden hangisi raster (bitmap) kapsamında yer alan görüntü formatlarından birisidir?
@@ -2521,8 +2314,7 @@
     - D-) JPEG
     - E-) TIFF
 
-    > **Açıklama:** C seçeneği vektörel, diğer seçenekler raster (bitmap) görüntü formatı kapsamındadır.
-    > Vektörelin; en yaygın dosya türleri. AI, EPS, SVG, CDR ve PDF’dir.
+    > **Açıklama:** C seçeneği vektörel, diğer seçenekler raster (bitmap) görüntü formatı kapsamındadır.<br />Vektörelin; en yaygın dosya türleri. AI, EPS, SVG, CDR ve PDF’dir.
 
     <hr />
 1. Aşağıdaki seçeneklerden hangisi 3 boyutlu görüntü formatı kapsamında yer alan dosya türlerinden birisidir?
@@ -2532,8 +2324,7 @@
     - D-) PDF
     - **Cevap E-) MAX**
 
-    > **Açıklama:** E seçeneği hariç diğerleri diğer görüntü formatlarının dosya türleridir.
-    > 3 boyutlu görüntü formatının en yaygın dosya türleri OBJ, DWF, MAX, STL ve MGF’dir.
+    > **Açıklama:** E seçeneği hariç diğerleri diğer görüntü formatlarının dosya türleridir.<br />3 boyutlu görüntü formatının en yaygın dosya türleri OBJ, DWF, MAX, STL ve MGF’dir.
 
     <hr />
 1. Aşağıdaki seçeneklerde yer alan panellerden hangisi fotoğraf üzerinde istenmeyen leke ve dokuları temizlemek için gerekli müdahalelerin yapılabildiği paneldir?
@@ -2583,8 +2374,7 @@
     - D-) Idrive
     - E-) Icloud
 
-    > **Açıklama:** B seçeneği dosya transferi üzerine uzmanlaşmış internet sitesi iken diğer seçenekler bulut depolama örnekleridir.
-    > İnternet üzerin- den görüntü transferi açısından kullanılan bir baş- ka çözüm ise dosya transferi üzerine uzmanlaşmış internet sitelerinin verdiği aktarım hizmetleridir. WeTransfer ve FirefoxSend gibi internet siteleri e-posta adreslerine gönderilen indirme linkleriyle yüksek ebatlı dosya ve görüntü transferlerinin hızlı bir biçimde gönderilmesine olanak tanırlar.
+    > **Açıklama:** B seçeneği dosya transferi üzerine uzmanlaşmış internet sitesi iken diğer seçenekler bulut depolama örnekleridir.<br />İnternet üzerin- den görüntü transferi açısından kullanılan bir baş- ka çözüm ise dosya transferi üzerine uzmanlaşmış internet sitelerinin verdiği aktarım hizmetleridir. WeTransfer ve FirefoxSend gibi internet siteleri e-posta adreslerine gönderilen indirme linkleriyle yüksek ebatlı dosya ve görüntü transferlerinin hızlı bir biçimde gönderilmesine olanak tanırlar.
 
     <hr />
 1. Hareketli görüntülerin işlenmesinde Doğrusal Olmayan Düzenleme teriminin kısaltılmış hali aşağıdakilerden hangisidir?
@@ -2695,9 +2485,7 @@
     - D-) Fotoğraf kameralarının cep telefonlarında olması gereken bir özellik olarak algılanması
     - E-) Fotoğraf estetiğinin sosyal ağlarda kullanıcı içerikleri gibi farklı bağlamlarda dönüşüme neden olması
 
-    > **Açıklama:** AKILLI TELEFON FOTOĞRAFÇILIĞININ ORTAYA ÇIKIŞI VE TARİHSEL GELİŞİM
-    > En basit tanımıyla telefon, radyo, televiz- yon ve bilgisayar dünyalarının entegras- yonu, tüm dijital medyanın tek bir or- tamda içe içe geçmesine yöndeşme denir.
-    > Tüm dijital medyanın tek bir ortamda içe içe geçmesi
+    > **Açıklama:** AKILLI TELEFON FOTOĞRAFÇILIĞININ ORTAYA ÇIKIŞI VE TARİHSEL GELİŞİM<br />En basit tanımıyla telefon, radyo, televiz- yon ve bilgisayar dünyalarının entegras- yonu, tüm dijital medyanın tek bir or- tamda içe içe geçmesine yöndeşme denir.<br />Tüm dijital medyanın tek bir ortamda içe içe geçmesi
 
     <hr />
 1. Akıllı telefonla kalitesi yüksek fotoğraf çekerken yapılması edilmesi gereken ilk şey aşağıdakilerden hangisidir?
@@ -2707,9 +2495,7 @@
     - D-) RAW formatında çekim yapmak
     - E-) Foğraftaki bir nesneyi yakınlaştırmak veya bir noktaya odaklamak
 
-    > **Açıklama:** **Akıllı Telefonların Fotoğraflama Yetenekler**
-    > Akıllı telefonla fotoğraf çekmek için ilk adım çekilmek istenen fotoğrafa uygun menüyü ayarlamaktır. Akıllı telefonların oldukça basit bir menüsü olsa da DSLR’lerdeki veya aynasız kameralardaki standart menülerden çok da farklı değildir. Bu menüler, daha iyi fotoğraflar çekmek ve hataları önlemeye yardımcı olmaktadır. Ayarlar menünüzde kontrol etmek istediğiniz ilk şey çözünürlüktür. Mevcut akıllı telefonun mümkün olan en yüksek değere ayarlamak gerekmektedir.
-    > En yüksek çözünürlük değerini ayarlamak
+    > **Açıklama:** **Akıllı Telefonların Fotoğraflama Yetenekler**<br />Akıllı telefonla fotoğraf çekmek için ilk adım çekilmek istenen fotoğrafa uygun menüyü ayarlamaktır. Akıllı telefonların oldukça basit bir menüsü olsa da DSLR’lerdeki veya aynasız kameralardaki standart menülerden çok da farklı değildir. Bu menüler, daha iyi fotoğraflar çekmek ve hataları önlemeye yardımcı olmaktadır. Ayarlar menünüzde kontrol etmek istediğiniz ilk şey çözünürlüktür. Mevcut akıllı telefonun mümkün olan en yüksek değere ayarlamak gerekmektedir.<br />En yüksek çözünürlük değerini ayarlamak
 
     <hr />
 1. Aşağıdakilerden hangisi ProCam 5 (iOS) teknolojisinin sunduğu ayırt edici görüntüleme kolaylıklarından **biri değildir?**
@@ -2719,10 +2505,7 @@
     - **Cevap D-) Otomatik renk dengeleme**
     - E-) Beyaz dengesi
 
-    > **Açıklama:** **Camera FV-5 (Android)**
-    > Uygulama ile Android işletim sistemine sa- hip cihazınızın kamera kalitesini ve ayar özelliklerini DSLR bir makinenin sunduğu özelliklere en yakın şekilde yükseltebiliyorsunuz. DSLR benzeri vizör özelliğine sahip kamera ile manuel kontrol sağlayan program sayesinde uzun pozlama yapabiliyorsunuz. Tüm parametreleri ayarlama imkanı sunan program sayesinde diyafram değerlerini ayarlayabilme; RAW, JPEG ve PNG formatında kayıt yapabilme ayrıca otomatik odaklama, makro, sonsuz odak seçenekleri ve ***otomatik renk dengeleme*** yapabiliyorsunuz.
-    > **ProCam 5 (iOS)**
-    > Oldukça detaylı bir iOS kamera uygulaması olan ProCam Time Lapse de dahil birçok çekim modu sunuyor. Far
+    > **Açıklama:** **Camera FV-5 (Android)**<br />Uygulama ile Android işletim sistemine sa- hip cihazınızın kamera kalitesini ve ayar özelliklerini DSLR bir makinenin sunduğu özelliklere en yakın şekilde yükseltebiliyorsunuz. DSLR benzeri vizör özelliğine sahip kamera ile manuel kontrol sağlayan program sayesinde uzun pozlama yapabiliyorsunuz. Tüm parametreleri ayarlama imkanı sunan program sayesinde diyafram değerlerini ayarlayabilme; RAW, JPEG ve PNG formatında kayıt yapabilme ayrıca otomatik odaklama, makro, sonsuz odak seçenekleri ve ***otomatik renk dengeleme*** yapabiliyorsunuz.<br />**ProCam 5 (iOS)**<br />Oldukça detaylı bir iOS kamera uygulaması olan ProCam Time Lapse de dahil birçok çekim modu sunuyor. Far
 
     <hr />
 1. Aşağıdakilerden hangisi akıllı telefonla çekilen fotoğraflarda bir arka planı değiştirmek gibi basit değişiklikler yapmanızı sağlayan yazılımdır?
@@ -2732,13 +2515,7 @@
     - D-) FilmoraGo
     - E-) Prisma
 
-    > **Açıklama:** **Akıllı Telefon Fotoğraf İşleme Yazılımlar**
-    > Akıllı telefon fotoğraflarını ve videolarını geliştirebilecek uygulamalar da vardır. Bunlar- dan bazılarına aşağıda yer verilmiştir:
-    > * Prisma, fotoğraflarınızın tablo gibi gö- rünmesini sağlar
-    > * FaceApp, kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfie- lerinizi (özçekimlerinizi) düzenlemeni- zi sağlar.
-    > * Adobe Photoshop Camera uygulaması, bir arka planı değiştirmek gibi basit değişiklikler yapmanızı sağlar.
-    > * TouchRetouch Iphone fotoğraflarınızdaki istenmeyen içerikleri yok etmenizi sağlar.
-    > * Polaroid Lab, telefon fotoğraflarınızı Polaroid kâğıd
+    > **Açıklama:** **Akıllı Telefon Fotoğraf İşleme Yazılımlar**<br />Akıllı telefon fotoğraflarını ve videolarını geliştirebilecek uygulamalar da vardır. Bunlar- dan bazılarına aşağıda yer verilmiştir:<br />* Prisma, fotoğraflarınızın tablo gibi gö- rünmesini sağlar<br />* FaceApp, kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfie- lerinizi (özçekimlerinizi) düzenlemeni- zi sağlar.<br />* Adobe Photoshop Camera uygulaması, bir arka planı değiştirmek gibi basit değişiklikler yapmanızı sağlar.<br />* TouchRetouch Iphone fotoğraflarınızdaki istenmeyen içerikleri yok etmenizi sağlar.<br />* Polaroid Lab, telefon fotoğraflarınızı Polaroid kâğıd
 
     <hr />
 1. Aşağıdakilerden hangisi videoları düzenlemenizi ve birden fazla cihazda yayın yapmanızı sağlayan yazılımdır?
@@ -2748,14 +2525,7 @@
     - D-) TouchRetouch Iphone
     - E-) Trash
 
-    > **Açıklama:** **Akıllı Telefon Fotoğraf İşleme Yazılımları**
-    > Akıllı telefon fotoğraflarını ve videolarını geliştirebilecek uygulamalar da vardır. Bunlardan bazılarına aşağıda yer verilmiştir:
-    > * Prisma, fotoğraflarınızın tablo gibi gö- rünmesini sağlar
-    > * FaceApp, kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfielerinizi (özçekimlerinizi) düzenlemenizi sağlar.
-    > * Adobe Photoshop Camera uygulaması, bir arka planı değiştirmek gibi basit değişiklikler yapmanızı sağlar.
-    > * TouchRetouch Iphone fotoğraflarınızdaki istenmeyen içerikleri yok etmenizi sağlar.
-    > * Polaroid Lab, telefon fotoğraflarınızı Polaroid kâğıda yazdırmanıza olanak tanır.
-    > Switcher
+    > **Açıklama:** **Akıllı Telefon Fotoğraf İşleme Yazılımları**<br />Akıllı telefon fotoğraflarını ve videolarını geliştirebilecek uygulamalar da vardır. Bunlardan bazılarına aşağıda yer verilmiştir:<br />* Prisma, fotoğraflarınızın tablo gibi gö- rünmesini sağlar<br />* FaceApp, kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfielerinizi (özçekimlerinizi) düzenlemenizi sağlar.<br />* Adobe Photoshop Camera uygulaması, bir arka planı değiştirmek gibi basit değişiklikler yapmanızı sağlar.<br />* TouchRetouch Iphone fotoğraflarınızdaki istenmeyen içerikleri yok etmenizi sağlar.<br />* Polaroid Lab, telefon fotoğraflarınızı Polaroid kâğıda yazdırmanıza olanak tanır.<br />Switcher
 
     <hr />
 1. Aşağıdakilerden hangisi akıllı telefonların, geleneksel fotoğraf kullanım alanlarına getirdiği yeniliklerden biri değildir?
@@ -2765,9 +2535,7 @@
     - D-) Cep telefonu fotoğrafçılığı
     - **Cevap E-) Moda fotoğrafçılığı**
 
-    > **Açıklama:** **ÇEVRİM İÇİ AKILLI TELEFON FOTOĞRAF PAYLAŞIM UYGULAMALARI VE SELFİE (ÖZÇEKİM**
-    > Mitchell (1992), fotoğrafın 1989’daki 150. yıl dönümünde fotoğrafçılığın öldüğünü ve dijital çağın genel olarak fotoğrafçılık için yeni bir paradigma değişikliğine işaret ettiğini belirtir. 16 yıl sonra benzeri görülmemiş bir şekilde, web ve mobil kameralı telefonlar fotoğrafçılığı bir kez daha yeniden tanımlar ve başka bir paradigma değişikliğine işaret eder. Fotografik görüntü artık basılı bir görüntü değildir, kâğıt üzerinde olduğundan çok ekranda görünendir. Fotoğrafın kullanım alanları da bu durumdan etkilenmiştir. Fotoğrafın gezi fotoğrafçılığı, basın fotoğrafçılığı, belgesel fo
-    > Moda fotoğrafçılığı
+    > **Açıklama:** **ÇEVRİM İÇİ AKILLI TELEFON FOTOĞRAF PAYLAŞIM UYGULAMALARI VE SELFİE (ÖZÇEKİM**<br />Mitchell (1992), fotoğrafın 1989’daki 150. yıl dönümünde fotoğrafçılığın öldüğünü ve dijital çağın genel olarak fotoğrafçılık için yeni bir paradigma değişikliğine işaret ettiğini belirtir. 16 yıl sonra benzeri görülmemiş bir şekilde, web ve mobil kameralı telefonlar fotoğrafçılığı bir kez daha yeniden tanımlar ve başka bir paradigma değişikliğine işaret eder. Fotografik görüntü artık basılı bir görüntü değildir, kâğıt üzerinde olduğundan çok ekranda görünendir. Fotoğrafın kullanım alanları da bu durumdan etkilenmiştir. Fotoğrafın gezi fotoğrafçılığı, basın fotoğrafçılığı, belgesel fo<br />Moda fotoğrafçılığı
 
     <hr />
 1. Aşağıdakilerden hangisi dijital fotoğraf çekiminde nesnenin boyutu ne ise sensöre 1:1 oranında ve nesne ile aynı boyutta yansıtılabidiği uygulamadır?
@@ -2777,9 +2545,7 @@
     - D-) Sokak Fotoğrafçılığı
     - E-) Gezi Fotoğrafçılığı
 
-    > **Açıklama:** **GÜNÜMÜZDE DİJİTAL FOTOĞRAFIN DİĞER YAYGIN KULLANIM ALANLAR**
-    > Yakın Plan (Makro) Fotoğrafçılık
-    > Makro fotoğrafçılık, fotoğrafı çekilecek olan nesnenin çok yakından fotoğraflanmasıdır. Küçük bir nes- neyi büyüterek çekmek olarak da tanımlanabilir ama “fotoğraflanacak nesnelerin 1:1 ya da daha üstünde bir büyütme oranıyla sensöre kaydedilmesi işlemidir” şeklindeki tanım teknik olarak en doğrusu olacaktır.
+    > **Açıklama:** **GÜNÜMÜZDE DİJİTAL FOTOĞRAFIN DİĞER YAYGIN KULLANIM ALANLAR**<br />Yakın Plan (Makro) Fotoğrafçılık<br />Makro fotoğrafçılık, fotoğrafı çekilecek olan nesnenin çok yakından fotoğraflanmasıdır. Küçük bir nes- neyi büyüterek çekmek olarak da tanımlanabilir ama “fotoğraflanacak nesnelerin 1:1 ya da daha üstünde bir büyütme oranıyla sensöre kaydedilmesi işlemidir” şeklindeki tanım teknik olarak en doğrusu olacaktır.
 
     <hr />
 1. Aşağıdakilerden hangisi, fotoğrafçının olaylara müdahale etmeyerek nesnel gerçekliği bozmadığı, "doğrudan fotoğraf" olarak da tanımlanan dijital fotoğrafçılık yöntemidir?
@@ -2789,10 +2555,7 @@
     - **Cevap D-) Sokak Fotoğrafçılığı**
     - E-) Gezi Fotoğrafçılığı
 
-    > **Açıklama:** **GÜNÜMÜZDE DİJİTAL FOTOĞRAFIN DİĞER YAYGIN KULLANIM ALANLAR**
-    > **Sokak Fotoğrafçılığı**
-    > Sokak fotoğrafçılığı kamusal alanda kameranın varlığını çok hissettirmeden belgesel veya sanatsal amaçlı olarak yapılan, tesadüfi karşılaşmaların olduğu, kent ve kentli olmak ile ilgili durumların betimlendiği bir janrdır.
-    > Sokak fotoğrafçılığı “doğrudan fotoğraf” yöntemi olarak tarif edilebilir. Fotoğrafçı olaylara müdahale etmez, nesnel gerçekliği bozmaz.
+    > **Açıklama:** **GÜNÜMÜZDE DİJİTAL FOTOĞRAFIN DİĞER YAYGIN KULLANIM ALANLAR**<br />**Sokak Fotoğrafçılığı**<br />Sokak fotoğrafçılığı kamusal alanda kameranın varlığını çok hissettirmeden belgesel veya sanatsal amaçlı olarak yapılan, tesadüfi karşılaşmaların olduğu, kent ve kentli olmak ile ilgili durumların betimlendiği bir janrdır.<br />Sokak fotoğrafçılığı “doğrudan fotoğraf” yöntemi olarak tarif edilebilir. Fotoğrafçı olaylara müdahale etmez, nesnel gerçekliği bozmaz.
 
     <hr />
 1. Aşağıdakilerden hangisi sayısal fotoğrafın, sanat eserlerinin çoğaltılmasında faydalanılan bir tekniktir?
@@ -2802,10 +2565,7 @@
     - D-) Endüstriyel Fotoğraf
     - E-) Belgesel Fotoğrafçılık
 
-    > **Açıklama:** **GÜNÜMÜZDE DİJİTAL FOTOĞRAFIN DİĞER YAYGIN KULLANIM ALANLARI**
-    > **Kopyalama (Reprodüksiyon)**
-    > Reprodüksiyon işlemi, günümüzde sayısal fotoğrafçılıkta, sanat eserlerinin çoğaltılarak tanıtım kataloglarına konmasında, onların web sitesi, sosyal medya gibi alanlarda yayınlanabilmesinde, farklı maddeler ve malzemeler üzerine baskısı yapılarak ticari ürün olarak kullanılmasında, eserlerin sayısal baskıları yapılarak dekorasyon malzemesi olarak kullanılmasında faydalanılan bir tekniktir.
-    > &lt;/d
+    > **Açıklama:** **GÜNÜMÜZDE DİJİTAL FOTOĞRAFIN DİĞER YAYGIN KULLANIM ALANLARI**<br />**Kopyalama (Reprodüksiyon)**<br />Reprodüksiyon işlemi, günümüzde sayısal fotoğrafçılıkta, sanat eserlerinin çoğaltılarak tanıtım kataloglarına konmasında, onların web sitesi, sosyal medya gibi alanlarda yayınlanabilmesinde, farklı maddeler ve malzemeler üzerine baskısı yapılarak ticari ürün olarak kullanılmasında, eserlerin sayısal baskıları yapılarak dekorasyon malzemesi olarak kullanılmasında faydalanılan bir tekniktir.<br />&lt;/d
 
     <hr />
 1. Aşağıdakilerden hangisi hava fotoğrafçılığı türlerinden **biri değildir?**
@@ -2815,13 +2575,7 @@
     - D-) Ortofoto
     - **Cevap E-) 360 derece**
 
-    > **Açıklama:** **GÜNÜMÜZDE DİJİTAL FOTOĞRAFIN DİĞER YAYGIN KULLANIM ALANLARI**
-    > **Hava Fotoğrafçılığı**
-    > Dört çeşit hava fotoğrafçılığı vardır.
-    > * Eğik: Eğik, açılı olarak çekilen hava fotoğraflarıdır.
-    > * Dikey: Dikey fotoğraflar, yukarıdan aşağıya doğru dik çekilir ve çoğunlukla fotogrametri ve görüntü yorumlamada kullanılır.
-    > * Kombine: Birden fazla tekniğin birleşiminden oluşan hava fotoğraflardır. Panoramalar (bir noktadan farklı açılarda çekilmiş fotoğrafların yan yana birleştirilmesinde oluşur),
-    > 360 derece
+    > **Açıklama:** **GÜNÜMÜZDE DİJİTAL FOTOĞRAFIN DİĞER YAYGIN KULLANIM ALANLARI**<br />**Hava Fotoğrafçılığı**<br />Dört çeşit hava fotoğrafçılığı vardır.<br />* Eğik: Eğik, açılı olarak çekilen hava fotoğraflarıdır.<br />* Dikey: Dikey fotoğraflar, yukarıdan aşağıya doğru dik çekilir ve çoğunlukla fotogrametri ve görüntü yorumlamada kullanılır.<br />* Kombine: Birden fazla tekniğin birleşiminden oluşan hava fotoğraflardır. Panoramalar (bir noktadan farklı açılarda çekilmiş fotoğrafların yan yana birleştirilmesinde oluşur),<br />360 derece
 
     <hr />
 1. Aşağıdakilerden hangisi dijital fotoğrafçılığın avantajlarından biri değildir?
@@ -2831,8 +2585,7 @@
     - D-) Yüksek kaliteli fotoğraf çekilebilmesi
     - E-) Teknik olarak fotoğraf çekimini kolaylaştırması
 
-    > **Açıklama:** Giriş
-    > Binlerce fotoğraf arasından doğru kareyi bulmak
+    > **Açıklama:** Giriş<br />Binlerce fotoğraf arasından doğru kareyi bulmak
 
     <hr />
 1. Mayıs 1999'da Ticari olarak halka satılan ve yerleşik kamerası olan ilk cep telefonu aşağıdakilerden hangisidir?
@@ -2842,8 +2595,7 @@
     - D-) Sanyo SCP-5300
     - E-) Canon 10D
 
-    > **Açıklama:** AKILLI TELEFON FOTOĞRAFÇILIĞININ ORTAYA ÇIKIŞI VE TARİHSEL GELİŞİMİ
-    > Kyocera VP-210
+    > **Açıklama:** AKILLI TELEFON FOTOĞRAFÇILIĞININ ORTAYA ÇIKIŞI VE TARİHSEL GELİŞİMİ<br />Kyocera VP-210
 
     <hr />
 1. "Telefon, radyo, televizyon ve bilgisayar dünyalarının entegrasyonu, tüm dijital medyanın tek bir ortamda içe içe geçmesine ............. denir."<br />Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?
@@ -2853,8 +2605,7 @@
     - **Cevap D-) Yöndeşme**
     - E-) Reprodüksiyon
 
-    > **Açıklama:** AKILLI TELEFON FOTOĞRAFÇILIĞININ ORTAYA ÇIKIŞI VE TARİHSEL GELİŞİMİ
-    > En basit tanımıyla telefon, radyo, televizyon ve bilgisayar dünyalarının entegrasyonu, tüm dijital medyanın tek bir ortamda içe içe geçmesine yöndeşme denir.
+    > **Açıklama:** AKILLI TELEFON FOTOĞRAFÇILIĞININ ORTAYA ÇIKIŞI VE TARİHSEL GELİŞİMİ<br />En basit tanımıyla telefon, radyo, televizyon ve bilgisayar dünyalarının entegrasyonu, tüm dijital medyanın tek bir ortamda içe içe geçmesine yöndeşme denir.
 
     <hr />
 1. I- Fotoğrafa uygun menüyü ayarlama<br />II- Akıllı telefon seçimi<br />III- Mümkünse raw formatında çekim yapmak<br />IV- Çözünürlüğü yüksek değere ayarlama<br />Akıllı telefonla fotoğraf çekebilmek için aşağıdaki hangi sıralama uygulanmalıdır?
@@ -2864,12 +2615,7 @@
     - D-) I-II-IV-III
     - E-) II-IV-III-I
 
-    > **Açıklama:** Akıllı Telefonların Fotoğraflama Yetenekleri
-    > Akıllı telefonla fotoğraf çekebilmek için şu adımlar izlenmelidir:
-    > II- Akıllı telefon seçimi
-    > I- Fotoğrafa uygun menüyü ayarlama
-    > IV- Çözünürlüğü yüksek değere ayarlama
-    > III- Mümkünse raw formatında çekim yapmak
+    > **Açıklama:** Akıllı Telefonların Fotoğraflama Yetenekleri<br />Akıllı telefonla fotoğraf çekebilmek için şu adımlar izlenmelidir:<br />II- Akıllı telefon seçimi<br />I- Fotoğrafa uygun menüyü ayarlama<br />IV- Çözünürlüğü yüksek değere ayarlama<br />III- Mümkünse raw formatında çekim yapmak
 
     <hr />
 1. "................. çekim yapmak ve fotoğraftaki bir nesneyi yakınlaştırmak veya bir noktaya odaklamak için daha fazla piksel anlamına gelir."<br />Aşağıdakilerden hangisi yukarıdaki cümleyi doğru tamamlar?
@@ -2879,8 +2625,7 @@
     - **Cevap D-) En yüksek çözünürlükte**
     - E-) JPG formatında
 
-    > **Açıklama:** Akıllı Telefonların Fotoğraflama Yetenekleri
-    > En yüksek çözünürlükte çekim yapmak ve fotoğraftaki bir nesneyi yakınlaştırmak veya bir noktaya odaklamak için daha fazla piksel anlamına gelir.
+    > **Açıklama:** Akıllı Telefonların Fotoğraflama Yetenekleri<br />En yüksek çözünürlükte çekim yapmak ve fotoğraftaki bir nesneyi yakınlaştırmak veya bir noktaya odaklamak için daha fazla piksel anlamına gelir.
 
     <hr />
 1. "Bilgisayar düzleminde bir görüntü iki boyutlu bir matristen oluştur, f(x,y) olmak üzere yatay ve dikey doğruların oluşturduğu düzlemdeki noktalara karşılık gelen her bir nokta görselin ................. ifade eder."<br />Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?
@@ -2890,8 +2635,7 @@
     - D-) Dosya boyutunu
     - E-) Enstantane değerini
 
-    > **Açıklama:** AKILLI TELEFON FOTOĞRAFÇILIĞINDA YAPAY ZEKÂ GÖRÜNTÜ İŞLEME VE YAPAY ZEKÂNIN FOTOĞRAFLAMADA KULLANIMI
-    > "Bilgisayar düzleminde bir görüntü iki boyutlu bir matristen oluştur, f(x,y) olmak üzere yatay ve dikey doğruların oluşturduğu düzlemdeki noktalara karşılık gelen her bir nokta görselin piksel değerini ifade eder."
+    > **Açıklama:** AKILLI TELEFON FOTOĞRAFÇILIĞINDA YAPAY ZEKÂ GÖRÜNTÜ İŞLEME VE YAPAY ZEKÂNIN FOTOĞRAFLAMADA KULLANIMI<br />"Bilgisayar düzleminde bir görüntü iki boyutlu bir matristen oluştur, f(x,y) olmak üzere yatay ve dikey doğruların oluşturduğu düzlemdeki noktalara karşılık gelen her bir nokta görselin piksel değerini ifade eder."
 
     <hr />
 1. Fotoğraf ve video geliştirme uygulamaları ile ilgili olarak aşağıdaki hangi eşleştirme doğru değildir?
@@ -2901,8 +2645,7 @@
     - D-) Trash uygulaması, videonuzu kesintisiz içeriğe dönüştürür.
     - E-) FilmoraGo, videolarınız YouTube ve Instagram’a yüklemek için düzenlemenize yardımcı olur.
 
-    > **Açıklama:** Akıllı Telefon Fotoğraf İşleme Yazılımları
-    > Switcher, videoları düzenlemenizi ve birden fazla cihazda yayın yapmanızı sağlar.
+    > **Açıklama:** Akıllı Telefon Fotoğraf İşleme Yazılımları<br />Switcher, videoları düzenlemenizi ve birden fazla cihazda yayın yapmanızı sağlar.
 
     <hr />
 1. "............. kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfielerinizi (özçekimlerinizi) düzenlemenizi sağlar."<br />Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?
@@ -2912,8 +2655,7 @@
     - D-) FilmoraGo
     - E-) Trash
 
-    > **Açıklama:** Akıllı Telefon Fotoğraf İşleme Yazılımları
-    > FaceApp, kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfielerinizi (özçekimlerinizi) düzenlemenizi sağlar.
+    > **Açıklama:** Akıllı Telefon Fotoğraf İşleme Yazılımları<br />FaceApp, kendinizi daha yaşlı, daha genç ve daha çok göstermek için selfielerinizi (özçekimlerinizi) düzenlemenizi sağlar.
 
     <hr />
 1. ".............., kullanıcıların kendilerine ait panoda (pinboard) bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı Amerika’da kurulmuş görsel paylaşım ve sosyal medya hizmetidir."<br />Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?
@@ -2923,8 +2665,7 @@
     - D-) Instagram
     - E-) Flickr
 
-    > **Açıklama:** ÇEVRİM İÇİ AKILLI TELEFON FOTOĞRAF PAYLAŞIM UYGULAMALARI VE SELFİE (ÖZÇEKİM)
-    > Pinterest, kullanıcıların kendilerine ait panoda (pinboard) bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı Amerika’da kurulmuş görsel paylaşım ve sosyal medya hizmetidir.
+    > **Açıklama:** ÇEVRİM İÇİ AKILLI TELEFON FOTOĞRAF PAYLAŞIM UYGULAMALARI VE SELFİE (ÖZÇEKİM)<br />Pinterest, kullanıcıların kendilerine ait panoda (pinboard) bilgileri ve özellikle fikirleri, görüntüler aracılığıyla paylaştığı Amerika’da kurulmuş görsel paylaşım ve sosyal medya hizmetidir.
 
     <hr />
 1. Fotoğrafın icadından önceki dönemde ressamların çizdiği cansız varlıklar veya çiçekler, meyveler gibi nesneler için tanımlanan Fransızca “ölü doğa” anlamına gelen 'natürmort'un yerini dijital fotoğrafçılıkta aşağıdakilerden hangisi almıştır?
@@ -2934,8 +2675,7 @@
     - D-) Makro fotoğraf
     - **Cevap E-) Still life**
 
-    > **Açıklama:** Masa Üstü (Sitll Life) Fotoğrafçılık
-    > Still life
+    > **Açıklama:** Masa Üstü (Sitll Life) Fotoğrafçılık<br />Still life
 
     <hr />
 1. Aşağıdakilerden hangisi dijital fotoğrafçılığın dezavantajlarından biridir?

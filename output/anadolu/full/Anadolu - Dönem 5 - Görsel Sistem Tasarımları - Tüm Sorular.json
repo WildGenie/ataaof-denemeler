@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel Sistem Tasarımları<br>Uluslararası Tasarım Konseyi (ICoD) <strong>tasarımı </strong>“estetik, işlevsel, bağlamsal, kültürel ve toplumsal hususları dikkate alarak, bir kişi (bir kullanıcı) ile insan yapımı çevre arasındaki etkileşime odaklanan bir çalışma ve uygulama disiplini” olarak tanımlar."
+        "Aciklama": "Görsel Sistem Tasarımları<br/>Uluslararası Tasarım Konseyi (ICoD) <strong>tasarımı </strong>“estetik, işlevsel, bağlamsal, kültürel ve toplumsal hususları dikkate alarak, bir kişi (bir kullanıcı) ile insan yapımı çevre arasındaki etkileşime odaklanan bir çalışma ve uygulama disiplini” olarak tanımlar."
     },
     {
         "SoruID": 3862266,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sistem Kavramının Tanımlanması<br><strong>Sistem</strong> kelimesi Latincede “düzenleme, birleşme, bir araya gelme” ve Yunancada “düzenli bütün, parçaların meydana getirdiği bütün” anlamında kullanılan systema kökünden gelir."
+        "Aciklama": "Sistem Kavramının Tanımlanması<br/><strong>Sistem</strong> kelimesi Latincede “düzenleme, birleşme, bir araya gelme” ve Yunancada “düzenli bütün, parçaların meydana getirdiği bütün” anlamında kullanılan systema kökünden gelir."
     },
     {
         "SoruID": 3862267,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sistem Kavramının Tanımlanması<br><strong>Sistemler</strong> mühendislikten işletmeye, sağlık hizmetlerinden eğitime kadar çeşitli alanlarda kullanılır. Süreçleri otomatikleştirmek, verimliliği artırmak ve karmaşık görevler üzerinde daha iyi kontrol<br/>sağlamak için kullanılırlar. Diğer yandan, verileri<br/>daha iyi anlayıp düzenlemek için ve böylelikle daha<br/>iyi ve kararlar vermek için kullanılır."
+        "Aciklama": "Sistem Kavramının Tanımlanması<br/><strong>Sistemler</strong> mühendislikten işletmeye, sağlık hizmetlerinden eğitime kadar çeşitli alanlarda kullanılır. Süreçleri otomatikleştirmek, verimliliği artırmak ve karmaşık görevler üzerinde daha iyi kontrol<br/>sağlamak için kullanılırlar. Diğer yandan, verileri<br/>daha iyi anlayıp düzenlemek için ve böylelikle daha<br/>iyi ve kararlar vermek için kullanılır."
     },
     {
         "SoruID": 3862268,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sistem Türleri<br><strong>Fiziksel sistemler</strong>, gözlemlenebilir ve ölçülebilir olan somut nesneler veya süreçlerdir"
+        "Aciklama": "Sistem Türleri<br/><strong>Fiziksel sistemler</strong>, gözlemlenebilir ve ölçülebilir olan somut nesneler veya süreçlerdir"
     },
     {
         "SoruID": 3862269,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sistem Türleri<br><strong>Belirlenimci</strong> bir sistem, tüm olayların oluşumunun tamamen tahmin edilebilir olduğu sistemdir."
+        "Aciklama": "Sistem Türleri<br/><strong>Belirlenimci</strong> bir sistem, tüm olayların oluşumunun tamamen tahmin edilebilir olduğu sistemdir."
     },
     {
         "SoruID": 3862270,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sistem Türleri<br>Bu nedenle kitaplaran konularına<br/>göre sınıflandırıldığı ve kodlandığı, bu kodları takip<br/>ederek bulunduğu sistemler geliştirilmiştir. <strong>DDC ve</strong><br/><strong>LCC sistemleri</strong> yaygın olarak kullanılmaktadır."
+        "Aciklama": "Sistem Türleri<br/>Bu nedenle kitaplaran konularına<br/>göre sınıflandırıldığı ve kodlandığı, bu kodları takip<br/>ederek bulunduğu sistemler geliştirilmiştir. <strong>DDC ve</strong><br/><strong>LCC sistemleri</strong> yaygın olarak kullanılmaktadır."
     },
     {
         "SoruID": 3862271,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gündelik Hayatta Sistemler<br><strong>Pantone</strong> ise tasarımcıların üreticilerle kritik kararları doğru şekilde alabilmesini sağlayan evrensel<br/>bir renk dili ortaya koyar."
+        "Aciklama": "Gündelik Hayatta Sistemler<br/><strong>Pantone</strong> ise tasarımcıların üreticilerle kritik kararları doğru şekilde alabilmesini sağlayan evrensel<br/>bir renk dili ortaya koyar."
     },
     {
         "SoruID": 3862272,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "GRAFİK TASARIM VE SİSTEM<br/>İLİŞKİSİ<br><strong>Grafik tasarım</strong>, gerekli mesaj ve bilgileri, belirli sosyal gruplara tanımlanmış amaçlarla aktarmak<br/>üzere görsel iletişim aracılığıyla çözümler sunan bir<br/>alandır."
+        "Aciklama": "GRAFİK TASARIM VE SİSTEM<br/>İLİŞKİSİ<br/><strong>Grafik tasarım</strong>, gerekli mesaj ve bilgileri, belirli sosyal gruplara tanımlanmış amaçlarla aktarmak<br/>üzere görsel iletişim aracılığıyla çözümler sunan bir<br/>alandır."
     },
     {
         "SoruID": 3862273,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Grafik Tasarımı Sistem Kavramı ile<br/>Birlikte Düşünmek<br>“Grafik tasarımı anlamsal olarak doğru, sözdizimsel olarak tutarlı ve pragmatik olarak anlaşılabilir bilgilerin organizasyonu olarak görüyorum” diyen tasarımcı <strong>Massimo Vignelli</strong>."
+        "Aciklama": "Grafik Tasarımı Sistem Kavramı ile<br/>Birlikte Düşünmek<br/>“Grafik tasarımı anlamsal olarak doğru, sözdizimsel olarak tutarlı ve pragmatik olarak anlaşılabilir bilgilerin organizasyonu olarak görüyorum” diyen tasarımcı <strong>Massimo Vignelli</strong>."
     },
     {
         "SoruID": 3862274,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kompleksite ve Tasarımın Çözüm Yöntemleri<br><strong>Kompleksite</strong>, yani karmaşıklık, bir<br/>sistem veya modelin ait bileşenlerinin pek çok yolla etkileşimde olduğu ve doğrusal olmayan, gelişigüzel,<br/>kolektif dinamiğe, hiyerarşiye ve gelişime yönelik yerel kuralları izleyen davranışı olarak nitelendirilir."
+        "Aciklama": "Kompleksite ve Tasarımın Çözüm Yöntemleri<br/><strong>Kompleksite</strong>, yani karmaşıklık, bir<br/>sistem veya modelin ait bileşenlerinin pek çok yolla etkileşimde olduğu ve doğrusal olmayan, gelişigüzel,<br/>kolektif dinamiğe, hiyerarşiye ve gelişime yönelik yerel kuralları izleyen davranışı olarak nitelendirilir."
     },
     {
         "SoruID": 3862329,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "huuoy<br>Birbirlerine bağlantılı ya da ilişkili unsurların oluşturduğu her şey bir sistemdir. Aynı zamanda, sistem kelimesi temel sözlük anlamında “birçok unsurdan oluşan düzen” olarak kullanılır. Sistemler mühendislikten işletmeye, sağlık hizmetlerinden eğitime kadar çeşitli alanlarda kullanılır. Süreçleri otomatikleştirmek, verimliliği artırmak ve karmaşık görevler üzerinde daha iyi kontrol sağlamak için kullanılırlar. Diğer yandan, verileri daha iyi anlayıp düzenlemek için ve böylelikle daha iyi ve kararlar vermek için kullanılır. Verimli üretim ve sağlıklı işleyişler için sistemlerin varlığı kaçınılmazdır. Görüldüğü gibi, sistem farklı birçok alanda kullanılmakta ve farklı bir çok amaca hizmet etmektedir. Bu bilgiler ışığında doğru cevap I, III ve IV maddelerinin yer aldığı D seçeneğidir."
+        "Aciklama": "huuoy<br/>Birbirlerine bağlantılı ya da ilişkili unsurların oluşturduğu her şey bir sistemdir. Aynı zamanda, sistem kelimesi temel sözlük anlamında “birçok unsurdan oluşan düzen” olarak kullanılır. Sistemler mühendislikten işletmeye, sağlık hizmetlerinden eğitime kadar çeşitli alanlarda kullanılır. Süreçleri otomatikleştirmek, verimliliği artırmak ve karmaşık görevler üzerinde daha iyi kontrol sağlamak için kullanılırlar. Diğer yandan, verileri daha iyi anlayıp düzenlemek için ve böylelikle daha iyi ve kararlar vermek için kullanılır. Verimli üretim ve sağlıklı işleyişler için sistemlerin varlığı kaçınılmazdır. Görüldüğü gibi, sistem farklı birçok alanda kullanılmakta ve farklı bir çok amaca hizmet etmektedir. Bu bilgiler ışığında doğru cevap I, III ve IV maddelerinin yer aldığı D seçeneğidir."
     },
     {
         "SoruID": 3862334,
@@ -617,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Grafik tasarımı terimlerinin kavranması<br>Logotype, yalnızca yazı veya harf kullanılarak tasarlanmış logolara verilen isimdir."
+        "Aciklama": "Grafik tasarımı terimlerinin kavranması<br/>Logotype, yalnızca yazı veya harf kullanılarak tasarlanmış logolara verilen isimdir."
     },
     {
         "SoruID": 3862366,
@@ -637,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dergi kapağı tasarımı<br>Metaforik yaklaşım, kapak konularında geçen tanımların, aynı anlama varan farklı görselliklerle hatırlatılması veya açıklanmasıdır. Örneğin: “Mimarlıkta Izgara” konusunun ızgara köfte görseliyle açıklanması gibi."
+        "Aciklama": "Dergi kapağı tasarımı<br/>Metaforik yaklaşım, kapak konularında geçen tanımların, aynı anlama varan farklı görselliklerle hatırlatılması veya açıklanmasıdır. Örneğin: “Mimarlıkta Izgara” konusunun ızgara köfte görseliyle açıklanması gibi."
     },
     {
         "SoruID": 3862368,
@@ -657,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sistem tasarımının özellikleri<br>Grafik tasarımda sistem tasarımının temel mantığı, mesajın iletildiği görsel organizasyonun bir sistem içerisinde düzenlenmesi ve kullanıcı deneyiminin sürdürülebilmesi için bir plan veya yapı oluşturulmasına dayanır. Bu da bir mecranın tasarımının bütünsel ve kararlı bir yaklaşımla ele alınmasını sağlar. Renk, tipografi, fotoğraf, işaret vb. grafik elemanların sistematik bir yaklaşımla kullanılması kullanıcı veya tüketici deneyiminde belirli bir alışkanlığın gelişmesine yardımcı olur. Sistem tasarımı, tasarımcıya yeniden kullanılabilir bir yöntem sunar. Bu yaklaşım da tasarıda tutarlı bir dil oluşmasına katkı sağlar."
+        "Aciklama": "Sistem tasarımının özellikleri<br/>Grafik tasarımda sistem tasarımının temel mantığı, mesajın iletildiği görsel organizasyonun bir sistem içerisinde düzenlenmesi ve kullanıcı deneyiminin sürdürülebilmesi için bir plan veya yapı oluşturulmasına dayanır. Bu da bir mecranın tasarımının bütünsel ve kararlı bir yaklaşımla ele alınmasını sağlar. Renk, tipografi, fotoğraf, işaret vb. grafik elemanların sistematik bir yaklaşımla kullanılması kullanıcı veya tüketici deneyiminde belirli bir alışkanlığın gelişmesine yardımcı olur. Sistem tasarımı, tasarımcıya yeniden kullanılabilir bir yöntem sunar. Bu yaklaşım da tasarıda tutarlı bir dil oluşmasına katkı sağlar."
     },
     {
         "SoruID": 3862470,
@@ -1077,7 +1077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "sitem içinde serbestlik tanımına örnekler<br>David Pearson tarafından tasarlanan Penguin Books Great Ideas serisi ise “sistem içerisinde serbestlik” tanımının en iyi örneklerinden sayılabilir. Seri, felsefe, politika, bilim ve savaş gibi konuları içeren, radikal, öncü ve geleceği öngören yazarların ürettiği kurgusal olmayan metinleri içerir."
+        "Aciklama": "sitem içinde serbestlik tanımına örnekler<br/>David Pearson tarafından tasarlanan Penguin Books Great Ideas serisi ise “sistem içerisinde serbestlik” tanımının en iyi örneklerinden sayılabilir. Seri, felsefe, politika, bilim ve savaş gibi konuları içeren, radikal, öncü ve geleceği öngören yazarların ürettiği kurgusal olmayan metinleri içerir."
     },
     {
         "SoruID": 3862586,
@@ -1097,7 +1097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "kitap kapağı tasarımlarına örnekler<br>Great Ideas, şimdiye dek 120 kitaplık altı seri olarak yayımlandı ve devam ediyor. Cep boyutu olarak adlandırılan (111x181mm) ölçüde çıkan serilerin her birisi kendi özel rengine sahip. Kapaklardaki tasarım anlayışı serbestmiş gibi görünse de serinin bütününe bakıldığında genel bir tasarım üslubu izlenebilir. Her kapakta mutlaka ait olduğu serinin rengi kullanılmıştır. Serinin genel anlayışına göre kapaklar tipografik, illüstratif, soyutlama gibi anlayışlarla ele alınmıştır. Her kapakta çukur veya kabartı baskı (deboss ve emboss) kullanılmıştır"
+        "Aciklama": "kitap kapağı tasarımlarına örnekler<br/>Great Ideas, şimdiye dek 120 kitaplık altı seri olarak yayımlandı ve devam ediyor. Cep boyutu olarak adlandırılan (111x181mm) ölçüde çıkan serilerin her birisi kendi özel rengine sahip. Kapaklardaki tasarım anlayışı serbestmiş gibi görünse de serinin bütününe bakıldığında genel bir tasarım üslubu izlenebilir. Her kapakta mutlaka ait olduğu serinin rengi kullanılmıştır. Serinin genel anlayışına göre kapaklar tipografik, illüstratif, soyutlama gibi anlayışlarla ele alınmıştır. Her kapakta çukur veya kabartı baskı (deboss ve emboss) kullanılmıştır"
     },
     {
         "SoruID": 3862593,
@@ -1117,7 +1117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "kavram ve tanımlar<br>Editoryal tanımı, yayımlanacak kitapların yayınevi direktörü veya yayınevi editörleri tarafından, türlerine bağlı olarak gruplanması çalışmasına verilen addır. Örneğin; “Garip Akımı Şairleri Serisi” veya “Rus Klasikleri Serisi” gibi."
+        "Aciklama": "kavram ve tanımlar<br/>Editoryal tanımı, yayımlanacak kitapların yayınevi direktörü veya yayınevi editörleri tarafından, türlerine bağlı olarak gruplanması çalışmasına verilen addır. Örneğin; “Garip Akımı Şairleri Serisi” veya “Rus Klasikleri Serisi” gibi."
     },
     {
         "SoruID": 3862594,
@@ -1137,7 +1137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "kavram ve terimler<br>Tschichold’un bu yaklaşımı, İkinci Dünya Savaşı sonrası inşa edilen modernist bir dünya anlayışının yansımasıdır. Bu yaklaşım, tasarımı gereksiz detaylardan ve süsten arındırma ve işlevselliğin ön planda tutulduğu estetik yaklaşıma yönelme, tasarımı “rafine etme” olarak özetlenebilir."
+        "Aciklama": "kavram ve terimler<br/>Tschichold’un bu yaklaşımı, İkinci Dünya Savaşı sonrası inşa edilen modernist bir dünya anlayışının yansımasıdır. Bu yaklaşım, tasarımı gereksiz detaylardan ve süsten arındırma ve işlevselliğin ön planda tutulduğu estetik yaklaşıma yönelme, tasarımı “rafine etme” olarak özetlenebilir."
     },
     {
         "SoruID": 3862595,
@@ -1177,7 +1177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "tasarım yaklaşımları<br>İkinci Dünya Savaşı sonrası Avrupa, İsviçre’den başlayıp Almanya ve İngiltere’de karşılığını bulan “Uluslararası Tipografik Üslup” adı verilen bir tasarım anlayışına yönelmiştir. Bu anlayış tasarımda sadelik, anlaşılırlık, az renk ve tırnaksız yazı karakteri kullanımı ön planda olarak 1970’lerin sonuna dek devam etmiştir."
+        "Aciklama": "tasarım yaklaşımları<br/>İkinci Dünya Savaşı sonrası Avrupa, İsviçre’den başlayıp Almanya ve İngiltere’de karşılığını bulan “Uluslararası Tipografik Üslup” adı verilen bir tasarım anlayışına yönelmiştir. Bu anlayış tasarımda sadelik, anlaşılırlık, az renk ve tırnaksız yazı karakteri kullanımı ön planda olarak 1970’lerin sonuna dek devam etmiştir."
     },
     {
         "SoruID": 3862597,
@@ -1197,7 +1197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "kapak tasarımı<br>Bu dergi kapaklarında dikkat edilmesi gereken ortak nokta, kapakların belirli bir sistem içerisinde değişkenliğe, kapaklara dair bir özgürlüğe sahip olması. Kapak görselleri her sayı değişiyor olsa bile, o görsellerin oluşum mantığı, tasarım fikri, uygulama biçimi değişim göstermediği için serileşiyor, bir bakıma aynılaşıyor. Kapak görsellerinin metaforik anlatımları, dergiyi takip eden okuyucuda bir alışkanlık ve aynı türden bir beklenti yaratıyor. Bu da doğrudan görsel benzerlik üstünden olmasa bile yaklaşım üstünden bir şablon kurma mantığına işaret ediyor."
+        "Aciklama": "kapak tasarımı<br/>Bu dergi kapaklarında dikkat edilmesi gereken ortak nokta, kapakların belirli bir sistem içerisinde değişkenliğe, kapaklara dair bir özgürlüğe sahip olması. Kapak görselleri her sayı değişiyor olsa bile, o görsellerin oluşum mantığı, tasarım fikri, uygulama biçimi değişim göstermediği için serileşiyor, bir bakıma aynılaşıyor. Kapak görsellerinin metaforik anlatımları, dergiyi takip eden okuyucuda bir alışkanlık ve aynı türden bir beklenti yaratıyor. Bu da doğrudan görsel benzerlik üstünden olmasa bile yaklaşım üstünden bir şablon kurma mantığına işaret ediyor."
     },
     {
         "SoruID": 3862306,
@@ -1217,7 +1217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tarih boyunca birçok medeniyet özellikle mimari yapılarını oluştururken, bu oranlanmaya dayanarak matematik ve form arasında ilişki kurmaya çalışmışlardır. Yunan ve diğer Ege medeniyetlerinin ortaya çıkmasıyla bu form anlayışından daha çok bahsedilmeye başlanmıştır. İsa’dan önce 5. yüzyılda Yunanlı mimarlar, bu form anlayışını dayandırdıkları oran ve orantının temel kuralları üzerine çalışmışlardır. Sonradan bu kurallar Atina’da bulunan ünlü Parthenon Tapınağı’nın ölçülerinin dayandırıldığı “Altın Oran” olarak adlandırılmıştır.<br>Sorunun doğru cevabı A şıkkında verilmiştir."
+        "Aciklama": "Tarih boyunca birçok medeniyet özellikle mimari yapılarını oluştururken, bu oranlanmaya dayanarak matematik ve form arasında ilişki kurmaya çalışmışlardır. Yunan ve diğer Ege medeniyetlerinin ortaya çıkmasıyla bu form anlayışından daha çok bahsedilmeye başlanmıştır. İsa’dan önce 5. yüzyılda Yunanlı mimarlar, bu form anlayışını dayandırdıkları oran ve orantının temel kuralları üzerine çalışmışlardır. Sonradan bu kurallar Atina’da bulunan ünlü Parthenon Tapınağı’nın ölçülerinin dayandırıldığı “Altın Oran” olarak adlandırılmıştır.<br/>Sorunun doğru cevabı A şıkkında verilmiştir."
     },
     {
         "SoruID": 3862307,
@@ -1237,7 +1237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Paul Klee’nin resimlerinde, grid sistemi izleyicide bir dama tahtası hissi yaratan, açık ve koyu lekelerin ritmik yapılarından oluşan, dengeli, renkli kompozisyonlar şeklinde karşımıza çıkmaktadır. Paul Klee, grid sistemini renk ilişkilerinin karmaşıklığına bir düzen getirmek amacıyla kullanmış ve bu sayede renkler arasında ince geçişleri olan canlı kompozisyonlar elde etmiştir.<br>Sorunun doğru cevabı B seçeneğinde verilmiştir."
+        "Aciklama": "Paul Klee’nin resimlerinde, grid sistemi izleyicide bir dama tahtası hissi yaratan, açık ve koyu lekelerin ritmik yapılarından oluşan, dengeli, renkli kompozisyonlar şeklinde karşımıza çıkmaktadır. Paul Klee, grid sistemini renk ilişkilerinin karmaşıklığına bir düzen getirmek amacıyla kullanmış ve bu sayede renkler arasında ince geçişleri olan canlı kompozisyonlar elde etmiştir.<br/>Sorunun doğru cevabı B seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3862308,
@@ -1257,7 +1257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Genelgeçer bir grafik tasarım kuralına göre, optimum bir satır uzunluğu 7-10 kelime olmalıdır.<br>Sorunun doğru cevabı C seçeneğinde verilmiştir."
+        "Aciklama": "Genelgeçer bir grafik tasarım kuralına göre, optimum bir satır uzunluğu 7-10 kelime olmalıdır.<br/>Sorunun doğru cevabı C seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3862309,
@@ -1277,7 +1277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Garamond, Times New Roman, Helvetica, Futura gibi yazı karakterleri, okunur yazı karakterlerine örnek olarak verilebilir.<br>Sorunun doğru cevabı D seçeneğinde verilmiştir."
+        "Aciklama": "Garamond, Times New Roman, Helvetica, Futura gibi yazı karakterleri, okunur yazı karakterlerine örnek olarak verilebilir.<br/>Sorunun doğru cevabı D seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3862310,
@@ -1297,7 +1297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çoklu sayfa tasarımında genellikle karşılıklı sayfalarda simetrik grid sistemi kullanılmaktadır. Bunun sebebi, yazı alanını okutur alanlara bölmektir.<br>Sorunun doğru cevabı E seçeneğinde verilmiştir."
+        "Aciklama": "Çoklu sayfa tasarımında genellikle karşılıklı sayfalarda simetrik grid sistemi kullanılmaktadır. Bunun sebebi, yazı alanını okutur alanlara bölmektir.<br/>Sorunun doğru cevabı E seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3862311,
@@ -1317,7 +1317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Başlıklar, alt başlıklar, sayfa numaraları, ana metin, kesit yazılar, resimler, resim altı yazıları gibi tasarım elemanı içeren çoklu sayfa tasarımları, simetrik bir grid için iyi bir adaydır.<br>Sorunun doğru yanıtı E seçeneğinde verilmiştir."
+        "Aciklama": "Başlıklar, alt başlıklar, sayfa numaraları, ana metin, kesit yazılar, resimler, resim altı yazıları gibi tasarım elemanı içeren çoklu sayfa tasarımları, simetrik bir grid için iyi bir adaydır.<br/>Sorunun doğru yanıtı E seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3862312,
@@ -1337,7 +1337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Resim, Fotoğraf, İllüstrasyon vb. (7. düzey başlık): Ana metnin içeriğinin okuyucu tarafından daha iyi anlaşılması ve yazının içeriğini destekleyen görsellerdir.<br>Sorunun doğru cevabı D seçeneğinde verilmiştir."
+        "Aciklama": "Resim, Fotoğraf, İllüstrasyon vb. (7. düzey başlık): Ana metnin içeriğinin okuyucu tarafından daha iyi anlaşılması ve yazının içeriğini destekleyen görsellerdir.<br/>Sorunun doğru cevabı D seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3862313,
@@ -1357,7 +1357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayfa tasarım elemanları uyumlu bir biçimde düzenlenmezler ve birbirlerinden kopuk görünürlerse, kompozisyon bütünlükten yoksun algılanır. Kitap, katalog, dergi, broşür ve benzeri çoklu sayfa tasarımlarında bu uyum ve bütünlük algısı önemlidir.<br>Sorunun doğru yanıtı C seçeneğinde verilmiştir."
+        "Aciklama": "Sayfa tasarım elemanları uyumlu bir biçimde düzenlenmezler ve birbirlerinden kopuk görünürlerse, kompozisyon bütünlükten yoksun algılanır. Kitap, katalog, dergi, broşür ve benzeri çoklu sayfa tasarımlarında bu uyum ve bütünlük algısı önemlidir.<br/>Sorunun doğru yanıtı C seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3862314,
@@ -1377,7 +1377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Serifli (Tırnaklı) Yazı Karakteri: Bir yazı karakterinin hatlarının uç yapısında bulunan yatay çıkıntılardır. Genellikle Roma tarzı olarak da adlandırılır. Bunun sebebi görsel olarak eski Roma sütunlarına yontulmuş yazıları az ya da çok yansıttıkları içindir.<br>Sorunun doğru cevabı B seçeneğinde verilmiştir."
+        "Aciklama": "Serifli (Tırnaklı) Yazı Karakteri: Bir yazı karakterinin hatlarının uç yapısında bulunan yatay çıkıntılardır. Genellikle Roma tarzı olarak da adlandırılır. Bunun sebebi görsel olarak eski Roma sütunlarına yontulmuş yazıları az ya da çok yansıttıkları içindir.<br/>Sorunun doğru cevabı B seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3862315,
@@ -1397,7 +1397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kompozisyon: Tasarım alanında kullanılan elemanların tasarım kaygısı güdülerek ilkeler açısından bir araya getirilmesidir. Tasarımcının üslubunu ya da ifade etmek istediği mesajın karakterini yansıtan bir bütündür.<br>Sorunun doğru yanıtı A seçeneğinde verilmiştir."
+        "Aciklama": "Kompozisyon: Tasarım alanında kullanılan elemanların tasarım kaygısı güdülerek ilkeler açısından bir araya getirilmesidir. Tasarımcının üslubunu ya da ifade etmek istediği mesajın karakterini yansıtan bir bütündür.<br/>Sorunun doğru yanıtı A seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3862345,
@@ -1417,7 +1417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Giriş<br>Günümüzde kullandığımız yazılı alfabe Mezopotamya’da gelişirken Uzak Doğu’da da Kanji tabanlı kaligrafik yazı sistemi gelişmiştir."
+        "Aciklama": "Giriş<br/>Günümüzde kullandığımız yazılı alfabe Mezopotamya’da gelişirken Uzak Doğu’da da Kanji tabanlı kaligrafik yazı sistemi gelişmiştir."
     },
     {
         "SoruID": 3862346,
@@ -1437,7 +1437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "GRİD SİSTEMİNİN TEMELLERİ<br>Atina’da bulunan ünlü Parthenon Tapınağı’nın ölçülerinin dayandırıldığı “Altın Oran” olarak adlandırılmıştır"
+        "Aciklama": "GRİD SİSTEMİNİN TEMELLERİ<br/>Atina’da bulunan ünlü Parthenon Tapınağı’nın ölçülerinin dayandırıldığı “Altın Oran” olarak adlandırılmıştır"
     },
     {
         "SoruID": 3862351,
@@ -1457,7 +1457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "GRİD SİSTEMİNİN TEMELLERİ<br>Günümüzde altın oran olarak ifade edilen sayı 1.618 olarak ifade edilmektedir"
+        "Aciklama": "GRİD SİSTEMİNİN TEMELLERİ<br/>Günümüzde altın oran olarak ifade edilen sayı 1.618 olarak ifade edilmektedir"
     },
     {
         "SoruID": 3862357,
@@ -1477,7 +1477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "GRİD SİSTEMİNİN TEMELLERİ<br>Grid sistemini çalışmalarında temel unsur olarak kullanan bir başka ressam da Piet Mondrian’dır. Mondrian’a göre yatay ve dikey çizgilerden oluşan grid desenli bir kompozisyon, dünyanın evrensel uyumunu temsil edebilir."
+        "Aciklama": "GRİD SİSTEMİNİN TEMELLERİ<br/>Grid sistemini çalışmalarında temel unsur olarak kullanan bir başka ressam da Piet Mondrian’dır. Mondrian’a göre yatay ve dikey çizgilerden oluşan grid desenli bir kompozisyon, dünyanın evrensel uyumunu temsil edebilir."
     },
     {
         "SoruID": 3862359,
@@ -1497,7 +1497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Modüler Sistem<br>Mimari alanına gelindiğinde ise grid sistemini en etkili biçimde kullanan isimlerin başında hiç kuşkusuz İsviçreli mimar Le Corbusier gelmektedir."
+        "Aciklama": "Modüler Sistem<br/>Mimari alanına gelindiğinde ise grid sistemini en etkili biçimde kullanan isimlerin başında hiç kuşkusuz İsviçreli mimar Le Corbusier gelmektedir."
     },
     {
         "SoruID": 3862360,
@@ -1517,7 +1517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Modüler Sistem<br>Modulor: İnsan vücudunun ölçülerini temel alan, altın oran ve Fibonacci dizisini kullanarak türetilmiş kendine özgü bir ölçüler dizisidir. 1.83 m boyundaki bir insandan türetilmiştir. “Modulor”deki göbek deliği, kafa üstü, kolların uzandığı nokta ve bunların arasındaki mesafelerin ölçülerinin oranı altın oranı vermektedir"
+        "Aciklama": "Modüler Sistem<br/>Modulor: İnsan vücudunun ölçülerini temel alan, altın oran ve Fibonacci dizisini kullanarak türetilmiş kendine özgü bir ölçüler dizisidir. 1.83 m boyundaki bir insandan türetilmiştir. “Modulor”deki göbek deliği, kafa üstü, kolların uzandığı nokta ve bunların arasındaki mesafelerin ölçülerinin oranı altın oranı vermektedir"
     },
     {
         "SoruID": 3862361,
@@ -1537,7 +1537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "GRİD’İN ANATOMİSİ<br>Kenar Boşlukları, sütunlar, modüller"
+        "Aciklama": "GRİD’İN ANATOMİSİ<br/>Kenar Boşlukları, sütunlar, modüller"
     },
     {
         "SoruID": 3862363,
@@ -1557,7 +1557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "GRİD TÜRLERİ<br>I. Simetrik grid a. grid çizgi yerleşimlerinin dikey alanlarda sütunlar oluşturacak bir biçimde ve karşılıklı sayfalarda birbirinin ayna yansımaları şeklinde düzenlendiği bir grid sistemidir <br/>II. Asimetrik grid b. karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimidir <br/>III. Modüler grid c. sayfa tasarım alanında ayrı ayrı kullanılabilen alanlardan oluşan bir çerçevedir"
+        "Aciklama": "GRİD TÜRLERİ<br/>I. Simetrik grid a. grid çizgi yerleşimlerinin dikey alanlarda sütunlar oluşturacak bir biçimde ve karşılıklı sayfalarda birbirinin ayna yansımaları şeklinde düzenlendiği bir grid sistemidir <br/>II. Asimetrik grid b. karşılıklı sayfalardaki grid çizgi yerleşimlerinin birbirinden farklı kullanıldığı sayfa düzenleme biçimidir <br/>III. Modüler grid c. sayfa tasarım alanında ayrı ayrı kullanılabilen alanlardan oluşan bir çerçevedir"
     },
     {
         "SoruID": 3862364,
@@ -1577,7 +1577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "TEMEL SAYFA TASARIM İLKELERİ VE GRİD<br>Zıtlığın arkasındaki temel fikir, sayfa üzerinde kullanılan tasarım elemanlarının benzer görünmelerinden kaçınmaktır."
+        "Aciklama": "TEMEL SAYFA TASARIM İLKELERİ VE GRİD<br/>Zıtlığın arkasındaki temel fikir, sayfa üzerinde kullanılan tasarım elemanlarının benzer görünmelerinden kaçınmaktır."
     },
     {
         "SoruID": 3862365,
@@ -1597,7 +1597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "TEMEL SAYFA TASARIM İLKELERİ VE GRİD<br>Serifli (tırnaklı) yazı karakterleri, bir harften diğerine görsel olarak yatay bir devamlılık yarattığı için daha okunur olarak kabul görürler. Yapılarında genellikle ince ve kalın hat zıtlıkları gözlemlenir. Örnek olarak Times New Roman, Garamond gibi yazı karakterleri verilebilir."
+        "Aciklama": "TEMEL SAYFA TASARIM İLKELERİ VE GRİD<br/>Serifli (tırnaklı) yazı karakterleri, bir harften diğerine görsel olarak yatay bir devamlılık yarattığı için daha okunur olarak kabul görürler. Yapılarında genellikle ince ve kalın hat zıtlıkları gözlemlenir. Örnek olarak Times New Roman, Garamond gibi yazı karakterleri verilebilir."
     },
     {
         "SoruID": 3862562,
@@ -1837,7 +1837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Kâğıdın</strong> kullanıma geçmesiyle birlikte yaygınlaşan haritalar taşınabilir ve kolay çoğaltılabilir hâle gelmiştir.<br>Kâğıt"
+        "Aciklama": "<strong>Kâğıdın</strong> kullanıma geçmesiyle birlikte yaygınlaşan haritalar taşınabilir ve kolay çoğaltılabilir hâle gelmiştir.<br/>Kâğıt"
     },
     {
         "SoruID": 3862349,
@@ -1937,7 +1937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Bilgi panolarının oluşturulmasında belirleyici unsur</strong> taşıyacağı içeriktir. İçerik derken bilgi, görseller ve tablo çizim vb. gibi diğer öğeler de kastedilmektedir. Söz konusu tasarım ürününün hedefi belirli bir içeriği görselleştirerek izleyiciye aktarmak olacağı için, içeriğin salt metinden oluşacağı düşünülemez. <strong>Daha da detaya inmek gerekirse içerik başlık, gövde metin, fotoğraf, illüstrasyon, tablo, şema gibi öğelerden oluşmaktadır.</strong> Bütün bu ögeler algılanma sırasına göre hiyerarşik olarak düzenlenmiş dengeli bir kompozisyonda bir araya getirilirler.<br>Ölçek"
+        "Aciklama": "<strong>Bilgi panolarının oluşturulmasında belirleyici unsur</strong> taşıyacağı içeriktir. İçerik derken bilgi, görseller ve tablo çizim vb. gibi diğer öğeler de kastedilmektedir. Söz konusu tasarım ürününün hedefi belirli bir içeriği görselleştirerek izleyiciye aktarmak olacağı için, içeriğin salt metinden oluşacağı düşünülemez. <strong>Daha da detaya inmek gerekirse içerik başlık, gövde metin, fotoğraf, illüstrasyon, tablo, şema gibi öğelerden oluşmaktadır.</strong> Bütün bu ögeler algılanma sırasına göre hiyerarşik olarak düzenlenmiş dengeli bir kompozisyonda bir araya getirilirler.<br/>Ölçek"
     },
     {
         "SoruID": 3862355,
@@ -1957,7 +1957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yönlendirme ve işaretleme tasarımı kendi başına çalışan ve kullanıcıların kapalı/açık mekanları<br/>kullanmasını sağlayan tasarım sistemleridir (Sayfa 97 Bkz.)...<br>Bilgi ve içerikle ilgili konularda uyarıda bulunmak için yapılmış tasarımlardır."
+        "Aciklama": "Yönlendirme ve işaretleme tasarımı kendi başına çalışan ve kullanıcıların kapalı/açık mekanları<br/>kullanmasını sağlayan tasarım sistemleridir (Sayfa 97 Bkz.)...<br/>Bilgi ve içerikle ilgili konularda uyarıda bulunmak için yapılmış tasarımlardır."
     },
     {
         "SoruID": 3862356,
@@ -1997,7 +1997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Etkili bir yönlendirme sistemi, yayaları ve araç trafiğini iç ve dış mekânlarda yönlendirir, bilgilendirir ve düzene sokar. Yönlendirme tasarımıyla verimlilik artar, mekâna yönelik olumlu bir izlenim oluşur ve kullanıcılara tanımadıkları bir mekanda kendilerini güvende hissettirir.<br>Heyecan"
+        "Aciklama": "Etkili bir yönlendirme sistemi, yayaları ve araç trafiğini iç ve dış mekânlarda yönlendirir, bilgilendirir ve düzene sokar. Yönlendirme tasarımıyla verimlilik artar, mekâna yönelik olumlu bir izlenim oluşur ve kullanıcılara tanımadıkları bir mekanda kendilerini güvende hissettirir.<br/>Heyecan"
     },
     {
         "SoruID": 3862473,
@@ -2301,7 +2301,7 @@
     },
     {
         "SoruID": 3862469,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"><br/><li> Sahibinin eserlerinden oluşan bir seçki anlamına gelir.</li><br/><li>Tek bir sayfası pek çok referans mektubundan daha<br/>değerlidir.</br></li><br/><li>Tek ve mutlak bir dosya değildir, her seferinde yeniden oluşturulabilir.</li><br/></ol><br/>Yukarıda özelliklere sıralanan kavram aşağıdakilerden hangisidir?",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"><br/><li> Sahibinin eserlerinden oluşan bir seçki anlamına gelir.</li><br/><li>Tek bir sayfası pek çok referans mektubundan daha<br/>değerlidir.</li><br/><li>Tek ve mutlak bir dosya değildir, her seferinde yeniden oluşturulabilir.</li><br/></ol><br/>Yukarıda özelliklere sıralanan kavram aşağıdakilerden hangisidir?",
         "A": "Portföy",
         "B": "Sunum",
         "C": "Sergi",
@@ -3197,7 +3197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun çözümü 216. sayfada belirtilmektedir.<br>XEROX PARC ve benzeri laboratuvarlarda yapılan çalışmalara genel olarak İnsan-Bilgisayar Etkileşimi araştırma alanı (HCI) adı verilmiştir. Bu alanın temel amacı makineler ve insanlar arasında olan tüm grafik ve fiziksel etkileşimleri verimli, kolay ve sezgisel hale getirmektir."
+        "Aciklama": "Sorunun çözümü 216. sayfada belirtilmektedir.<br/>XEROX PARC ve benzeri laboratuvarlarda yapılan çalışmalara genel olarak İnsan-Bilgisayar Etkileşimi araştırma alanı (HCI) adı verilmiştir. Bu alanın temel amacı makineler ve insanlar arasında olan tüm grafik ve fiziksel etkileşimleri verimli, kolay ve sezgisel hale getirmektir."
     },
     {
         "SoruID": 3862583,
@@ -3217,7 +3217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun çözümü 217. sayfada belirtilmektedir.<br>Donanıma dair tüm yenilikler arayüz tasarımcılar için de çözümlenmesi gereken yeni etkileşimler ve tasarım problemleri sunmaktadır. Örneğin dokunmatik ekranların icadı dijital etkileşim süreçlerine benzersiz bir boyut eklemiştir. Arabirime dokunmak, fiziksel dünya ve dijital ekran arasındaki bağın aracılarından kurtulması yeni iletişim ve tasarım modellerinin de geliştirilmesini sağlamış, bu ergonomi problemi tasarımın kendisini doğrudan etkilemiştir."
+        "Aciklama": "Sorunun çözümü 217. sayfada belirtilmektedir.<br/>Donanıma dair tüm yenilikler arayüz tasarımcılar için de çözümlenmesi gereken yeni etkileşimler ve tasarım problemleri sunmaktadır. Örneğin dokunmatik ekranların icadı dijital etkileşim süreçlerine benzersiz bir boyut eklemiştir. Arabirime dokunmak, fiziksel dünya ve dijital ekran arasındaki bağın aracılarından kurtulması yeni iletişim ve tasarım modellerinin de geliştirilmesini sağlamış, bu ergonomi problemi tasarımın kendisini doğrudan etkilemiştir."
     },
     {
         "SoruID": 3862585,
@@ -3237,7 +3237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun çözümü 219. sayfada belirtilmektedir.<br>Flat tasarımlar arayüzlerde skemorfik yaklaşımı minimize etmiş, daha net ve kontrastlı renkler ve tipografi kullanımı ile arabirim öğeleri arasındaki hiyerarşiyi kurmayı hedeflemiştir."
+        "Aciklama": "Sorunun çözümü 219. sayfada belirtilmektedir.<br/>Flat tasarımlar arayüzlerde skemorfik yaklaşımı minimize etmiş, daha net ve kontrastlı renkler ve tipografi kullanımı ile arabirim öğeleri arasındaki hiyerarşiyi kurmayı hedeflemiştir."
     },
     {
         "SoruID": 3862587,
@@ -3257,7 +3257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun çözümü 220. sayfada belirtilmektedir.<br>Bugün Google gibi öncü yazılım geliştiricilerin ürün sepetleri ya da Adobe gibi tasarım yazılımı geliştiricilerin ürün gamları incelendiğinde bu yaklaşımı kolaylıkla görmek mümkündür. Bu sistem anlayışı kullanıcı deneyimi gözüyle değerlendirildiğinde yabancılık çekmeme, başarma hissi, özgüven, gibi duygusal çıktılar yaratarak kullanıcı üzerinde sadakat hissini pekiştirmektedir."
+        "Aciklama": "Sorunun çözümü 220. sayfada belirtilmektedir.<br/>Bugün Google gibi öncü yazılım geliştiricilerin ürün sepetleri ya da Adobe gibi tasarım yazılımı geliştiricilerin ürün gamları incelendiğinde bu yaklaşımı kolaylıkla görmek mümkündür. Bu sistem anlayışı kullanıcı deneyimi gözüyle değerlendirildiğinde yabancılık çekmeme, başarma hissi, özgüven, gibi duygusal çıktılar yaratarak kullanıcı üzerinde sadakat hissini pekiştirmektedir."
     },
     {
         "SoruID": 3862588,
@@ -3277,7 +3277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun çözümü 222. sayfada belirtilmektedir.<br>Tasarımda deneyim yaklaşımının yaratıcısı ve öncüsü Nielsen ve Norman Grup ekrana yönelik tasarım sistemlerini şöyle tanımlamaktadır: “Tasarım sistemi, farklı sayfalar ve kanallar arasında paylaşılan bir dil ve görsel tutarlılık oluştururken fazlalığı azaltarak tasarımı büyük ölçekte yönetmeye yarayan bir dizi standarttır.” (Fessenden, 2021)."
+        "Aciklama": "Sorunun çözümü 222. sayfada belirtilmektedir.<br/>Tasarımda deneyim yaklaşımının yaratıcısı ve öncüsü Nielsen ve Norman Grup ekrana yönelik tasarım sistemlerini şöyle tanımlamaktadır: “Tasarım sistemi, farklı sayfalar ve kanallar arasında paylaşılan bir dil ve görsel tutarlılık oluştururken fazlalığı azaltarak tasarımı büyük ölçekte yönetmeye yarayan bir dizi standarttır.” (Fessenden, 2021)."
     },
     {
         "SoruID": 3862589,
@@ -3297,7 +3297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun çözümü 228. sayfada belirtilmektedir.<br>Tasarımı organizasyon içinde, küçük bir ekipte kilitli bir sır olarak tutmak yerine, artık pek çok kuruluş geliştirdiği tasarım pratikleri kullanıma açmakta. Örneğin IBM ve MailChimp firmaları yakın zamanda görsel kimliklerini ve devamında tasarım geliştirme sistemlerini yeni çağın ihtiyaçlarına ayak uyduracak daha atik ve hızlı sistemlere evirmek üzere yeniledi. Paydaşlarına hizmet veren bu firmalar bu anlayış ile hem kendi çalışma ve tasarım modellerini güncelledi hem de paydaşlarını da bu sisteme davet ederek daha verimli bir entegrasyonu, iyi tasarımın yaygınlaşmasını ve kurumsal bağı arttıracak bir ekosistemin oluşmasını sağladılar. Alex Schleifer’in (Airbnb Tasarım Başkanı) dediği gibi: “İşte basit gerçek: İlk önce onları oluşturma şeklinizde yenilik yapmadan ürünlerde yenilik yapamazsınız.”. Bu yaklaşımı oldukça iyi özetleyen bu söz yenilikçi ürünler geliştirmek isteyen organizasyonların öncelikli olarak kendi çalışma biçimleri ve sistemlerinde bu arayışı sürdürmeleri ve oradan yaratılan buluşçu yaklaşımları paydaşlarına aktarabileceklerini ifade etmekte. Açık kaynak tasarım sistemlerinin de amacı bu yenilikçi yaklaşımın aktarımına dayanmaktadır (Aspelin, 2018)."
+        "Aciklama": "Sorunun çözümü 228. sayfada belirtilmektedir.<br/>Tasarımı organizasyon içinde, küçük bir ekipte kilitli bir sır olarak tutmak yerine, artık pek çok kuruluş geliştirdiği tasarım pratikleri kullanıma açmakta. Örneğin IBM ve MailChimp firmaları yakın zamanda görsel kimliklerini ve devamında tasarım geliştirme sistemlerini yeni çağın ihtiyaçlarına ayak uyduracak daha atik ve hızlı sistemlere evirmek üzere yeniledi. Paydaşlarına hizmet veren bu firmalar bu anlayış ile hem kendi çalışma ve tasarım modellerini güncelledi hem de paydaşlarını da bu sisteme davet ederek daha verimli bir entegrasyonu, iyi tasarımın yaygınlaşmasını ve kurumsal bağı arttıracak bir ekosistemin oluşmasını sağladılar. Alex Schleifer’in (Airbnb Tasarım Başkanı) dediği gibi: “İşte basit gerçek: İlk önce onları oluşturma şeklinizde yenilik yapmadan ürünlerde yenilik yapamazsınız.”. Bu yaklaşımı oldukça iyi özetleyen bu söz yenilikçi ürünler geliştirmek isteyen organizasyonların öncelikli olarak kendi çalışma biçimleri ve sistemlerinde bu arayışı sürdürmeleri ve oradan yaratılan buluşçu yaklaşımları paydaşlarına aktarabileceklerini ifade etmekte. Açık kaynak tasarım sistemlerinin de amacı bu yenilikçi yaklaşımın aktarımına dayanmaktadır (Aspelin, 2018)."
     },
     {
         "SoruID": 3862590,
@@ -3317,7 +3317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun çözümü 229. sayfada belirtilmektedir.<br>Komponentler: Tasarım sistemlerinin genel geçer tanımlarında temel grafik arabirim öğelerini ve etkileşim biçimlerini ifade eden komponentler Hugher‘ın ihtiyaçlar piramidinde bir davranış biçimi ile tanımlanırlar."
+        "Aciklama": "Sorunun çözümü 229. sayfada belirtilmektedir.<br/>Komponentler: Tasarım sistemlerinin genel geçer tanımlarında temel grafik arabirim öğelerini ve etkileşim biçimlerini ifade eden komponentler Hugher‘ın ihtiyaçlar piramidinde bir davranış biçimi ile tanımlanırlar."
     },
     {
         "SoruID": 3862591,
@@ -3337,7 +3337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun çözümü 229. sayfada belirtilmektedir.<br>Her ne kadar arayüz öğeleri tasarım sistemlerinin temelini oluştursalar da kullanıcılar ürünleri ne kadar hoş butonları ya da renkleri olduğu için tercih etmezler. Piramidin bu aşamasında kullanıcıların sistem ve ürün üzerinde bağlılıkları kullanım hikâye modelleri üzerinden değerlendirilir."
+        "Aciklama": "Sorunun çözümü 229. sayfada belirtilmektedir.<br/>Her ne kadar arayüz öğeleri tasarım sistemlerinin temelini oluştursalar da kullanıcılar ürünleri ne kadar hoş butonları ya da renkleri olduğu için tercih etmezler. Piramidin bu aşamasında kullanıcıların sistem ve ürün üzerinde bağlılıkları kullanım hikâye modelleri üzerinden değerlendirilir."
     },
     {
         "SoruID": 3862592,
@@ -3357,6 +3357,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun çözümü 229. sayfada belirtilmektedir.<br>Toparlayıcı bir tanımla tasarımcıların salt grafik arabirimler değil aynı zamanda bu arabirim sistemlerini yöneten politikaları da tasarlarlar. Bu sayede hem iç bileşenler hem de son kullanıcı arasında akışkan bir tasarım sistemi kurulabilir. Bu da hem çalışma verimine hem de son deneyime birebir olumlu etki eder (Hugher, 2019)"
+        "Aciklama": "Sorunun çözümü 229. sayfada belirtilmektedir.<br/>Toparlayıcı bir tanımla tasarımcıların salt grafik arabirimler değil aynı zamanda bu arabirim sistemlerini yöneten politikaları da tasarlarlar. Bu sayede hem iç bileşenler hem de son kullanıcı arasında akışkan bir tasarım sistemi kurulabilir. Bu da hem çalışma verimine hem de son deneyime birebir olumlu etki eder (Hugher, 2019)"
     }
 ]

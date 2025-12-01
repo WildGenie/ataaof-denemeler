@@ -1,92 +1,4 @@
-from bs4 import BeautifulSoup, NavigableString, Tag
-import re
-import html
-
-def clean_html_bs4(text):
-    if not text:
-        return ""
-
-    # Decode entities first
-    text = html.unescape(text)
-
-    # Pre-process newlines to <br> to preserve them?
-    # Or let BS4 handle it?
-    # User wanted \n -> <br>.
-    text = text.replace('\n', '<br>')
-
-    soup = BeautifulSoup(text, 'html.parser')
-
-    # 1. Handle o:p and other specific tags
-    # Replace <o:p> with space (block-like)
-    # Use strict regex to avoid matching 'strong', 'body', etc.
-    for tag in soup.find_all(re.compile(r'^o(:p)?$', re.I)):
-        # Replace with space + content
-        # We can insert a space string before unwrapping
-        tag.insert_before(" ")
-        tag.unwrap()
-
-    # 2. Unwrap noisy block tags with space
-    # div, article, body, html, head
-    for tag_name in ['div', 'article', 'body', 'html', 'head']:
-        for tag in soup.find_all(tag_name):
-            tag.insert_before(" ")
-            tag.unwrap()
-
-    # 3. Unwrap noisy inline tags (no space)
-    # font
-    for tag in soup.find_all('font'):
-        tag.unwrap()
-
-    # 4. Strip attributes from strict tags
-    strict_tags = ['strong', 'b', 'i', 'em', 'table', 'tr', 'td', 'th', 'tbody', 'thead', 'tfoot', 'ul', 'li', 'blockquote', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'code', 'pre']
-    # DEBUG
-    print(f"Before strict strip: {soup}")
-    for tag_name in strict_tags:
-        for tag in soup.find_all(tag_name):
-            print(f"Stripping attrs from {tag.name}")
-            tag.attrs = {}
-    # DEBUG
-    print(f"After strict strip: {soup}")
-
-    # 5. Smart strip for ol, p, u, span
-    allowed_attrs = {
-        'ol': ['type', 'start', 'style'],
-        'p': ['style'],
-        'u': ['style'],
-        'span': ['style']
-    }
-    for tag_name, allowed in allowed_attrs.items():
-        for tag in soup.find_all(tag_name):
-            attrs = dict(tag.attrs)
-            tag.attrs = {}
-            for key in allowed:
-                if key in attrs:
-                    tag[key] = attrs[key]
-
-    # 6. Remove empty tags
-    # Repeat a few times for nested empty tags?
-    # Or recursive function.
-    # Simple pass:
-    for tag in soup.find_all():
-        if tag.name not in ['img', 'br', 'a'] and not tag.get_text(strip=True):
-            # Check if it has no children tags (like <img>)
-            if not tag.find(['img', 'br', 'a']):
-                tag.decompose()
-
-    # 7. Remove wrapping <p> if it's the ONLY top-level element
-    # Get top-level elements ignoring whitespace strings
-    contents = [c for c in soup.contents if not (isinstance(c, NavigableString) and not c.strip())]
-
-    if len(contents) == 1 and isinstance(contents[0], Tag) and contents[0].name == 'p':
-        contents[0].unwrap()
-
-    # 8. Escape < that are not tags
-    # BS4 handles output escaping, but we need to be careful.
-    # str(soup) will produce valid HTML.
-    # But we want to ensure < in text is &lt;
-    # BS4 usually does this automatically for text nodes.
-
-    return str(soup).strip()
+from libs.shared import clean_html
 
 test_cases = [
     # User's problem case (multi-paragraph)
@@ -119,11 +31,16 @@ test_cases = [
     'başlıyacak (< başla-y-acak)',
 
     # Newlines
-    'Line 1\nLine 2'
+    'Line 1\nLine 2',
+
+    # BR handling
+    'Text<br type="_moz" />More Text',
+    'Text<br type="_moz">More Text'
 ]
 
-for t in test_cases:
-    print(f"Original: {t}")
-    cleaned = clean_html_bs4(t)
-    print(f"Cleaned : {cleaned}")
-    print("-" * 20)
+if __name__ == "__main__":
+    for t in test_cases:
+        print(f"Original: {repr(t)}")
+        cleaned = clean_html(t)
+        print(f"Cleaned : {repr(cleaned)}")
+        print("-" * 20)

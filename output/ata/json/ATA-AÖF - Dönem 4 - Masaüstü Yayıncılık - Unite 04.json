@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 136889,
-        "SoruMetni": "I. Times New Roman<br/>II. Bookman Old Style<br/>III. Cambria<br/>IV. Garamond<br/><strong>Yukarıdaki yazı tiplerinden hangisi ya da hangileri Serif yazı tipi kategorisinde yer alır?</strong></br></br></br>",
+        "SoruMetni": "I. Times New Roman<br/>II. Bookman Old Style<br/>III. Cambria<br/>IV. Garamond<br/><strong>Yukarıdaki yazı tiplerinden hangisi ya da hangileri Serif yazı tipi kategorisinde yer alır?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 136898,
-        "SoruMetni": "I. Arial<br/>II. Calibri<br/>III. Lucida Bright<br/>IV. Comic Sans<br/><strong>Yukarıdaki yazı tiplerinden hangisi ya da hangileri Sans Serif yazı tipi kategorisinde yer alır?</strong></br></br></br>",
+        "SoruMetni": "I. Arial<br/>II. Calibri<br/>III. Lucida Bright<br/>IV. Comic Sans<br/><strong>Yukarıdaki yazı tiplerinden hangisi ya da hangileri Sans Serif yazı tipi kategorisinde yer alır?</strong>",
         "A": "I, II, III ve IV",
         "B": "I, II ve IV",
         "C": "I ve III",
@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 136939,
-        "SoruMetni": "I. Metnin puntosunu büyütme<br/>II. Metnin altını çizme<br/>III. Metni kalın yazma<br/>IV. Farklı renk kullanma<br/><strong>Vurgulama için yukarıdaki yöntemlerden hangisi ya da hangileri kullanılabilir?</strong></br></br></br>",
+        "SoruMetni": "I. Metnin puntosunu büyütme<br/>II. Metnin altını çizme<br/>III. Metni kalın yazma<br/>IV. Farklı renk kullanma<br/><strong>Vurgulama için yukarıdaki yöntemlerden hangisi ya da hangileri kullanılabilir?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -381,7 +381,7 @@
     },
     {
         "SoruID": 342342,
-        "SoruMetni": "I. Metnin puntosunu büyütme<br/>II. Altını çizme<br/>III. Kalın yazma<br/><strong>Yukarıdakilerden hangisi ya da hangileri vurgulama yapılırken kullanılanlar arasında yer almaktadır?</strong></br></br>",
+        "SoruMetni": "I. Metnin puntosunu büyütme<br/>II. Altını çizme<br/>III. Kalın yazma<br/><strong>Yukarıdakilerden hangisi ya da hangileri vurgulama yapılırken kullanılanlar arasında yer almaktadır?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",

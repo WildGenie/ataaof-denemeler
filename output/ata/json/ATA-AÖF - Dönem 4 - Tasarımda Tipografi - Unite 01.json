@@ -1,11 +1,11 @@
 [
     {
         "SoruID": 337371,
-        "SoruMetni": "<strong>Aşağıdaki yazı karakterlerinden hangisi tırnaklı (serif) yazı karakteridir?</strong><br/></br>",
-        "A": "Arial<br/></br>",
-        "B": "Times New Roman<br/></br>",
-        "C": "Futura<br/></br>",
-        "D": "Gotham<br/></br>",
+        "SoruMetni": "<strong>Aşağıdaki yazı karakterlerinden hangisi tırnaklı (serif) yazı karakteridir?</strong>",
+        "A": "Arial",
+        "B": "Times New Roman",
+        "C": "Futura",
+        "D": "Gotham",
         "E": "Calibri",
         "DogruCevap": "B",
         "DersAd": "Tasarımda Tipografi",

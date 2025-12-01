@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 321543,
-        "SoruMetni": "I. Kitabın okuma yönü tasarımın akışını belirler.<br/>II. Kitabın sayfa tasarımında göz yukarıdan aşağıya doğru bir hareket izler<br/>III. Kitabın tasarımında sayfalar bir bütün olarak tasarlanmalıdır.<br/><strong>Yukarıdakilerden hangisi ya da hangileri kitabın okunma ilkelerindendir?</strong> </br></br>",
+        "SoruMetni": "I. Kitabın okuma yönü tasarımın akışını belirler.<br/>II. Kitabın sayfa tasarımında göz yukarıdan aşağıya doğru bir hareket izler<br/>III. Kitabın tasarımında sayfalar bir bütün olarak tasarlanmalıdır.<br/><strong>Yukarıdakilerden hangisi ya da hangileri kitabın okunma ilkelerindendir?</strong>",
         "A": "Yalnız III",
         "B": "I, II ve III",
         "C": "Yalnız II",
@@ -381,7 +381,7 @@
     },
     {
         "SoruID": 398636,
-        "SoruMetni": "I. Denge<br/>II. Boşluk<br/>III. Hiyerarşi<br/><strong>Yukarıdakilerden hangisi ya da hangileri kitap tasarımında dikkate alınmalıdır?</strong></br></br>",
+        "SoruMetni": "I. Denge<br/>II. Boşluk<br/>III. Hiyerarşi<br/><strong>Yukarıdakilerden hangisi ya da hangileri kitap tasarımında dikkate alınmalıdır?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",

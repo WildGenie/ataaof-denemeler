@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel Sistem Tasarımları<br>Uluslararası Tasarım Konseyi (ICoD) <strong>tasarımı </strong>“estetik, işlevsel, bağlamsal, kültürel ve toplumsal hususları dikkate alarak, bir kişi (bir kullanıcı) ile insan yapımı çevre arasındaki etkileşime odaklanan bir çalışma ve uygulama disiplini” olarak tanımlar."
+        "Aciklama": "Görsel Sistem Tasarımları<br/>Uluslararası Tasarım Konseyi (ICoD) <strong>tasarımı </strong>“estetik, işlevsel, bağlamsal, kültürel ve toplumsal hususları dikkate alarak, bir kişi (bir kullanıcı) ile insan yapımı çevre arasındaki etkileşime odaklanan bir çalışma ve uygulama disiplini” olarak tanımlar."
     },
     {
         "SoruID": 3862266,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sistem Kavramının Tanımlanması<br><strong>Sistem</strong> kelimesi Latincede “düzenleme, birleşme, bir araya gelme” ve Yunancada “düzenli bütün, parçaların meydana getirdiği bütün” anlamında kullanılan systema kökünden gelir."
+        "Aciklama": "Sistem Kavramının Tanımlanması<br/><strong>Sistem</strong> kelimesi Latincede “düzenleme, birleşme, bir araya gelme” ve Yunancada “düzenli bütün, parçaların meydana getirdiği bütün” anlamında kullanılan systema kökünden gelir."
     },
     {
         "SoruID": 3862267,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sistem Kavramının Tanımlanması<br><strong>Sistemler</strong> mühendislikten işletmeye, sağlık hizmetlerinden eğitime kadar çeşitli alanlarda kullanılır. Süreçleri otomatikleştirmek, verimliliği artırmak ve karmaşık görevler üzerinde daha iyi kontrol<br/>sağlamak için kullanılırlar. Diğer yandan, verileri<br/>daha iyi anlayıp düzenlemek için ve böylelikle daha<br/>iyi ve kararlar vermek için kullanılır."
+        "Aciklama": "Sistem Kavramının Tanımlanması<br/><strong>Sistemler</strong> mühendislikten işletmeye, sağlık hizmetlerinden eğitime kadar çeşitli alanlarda kullanılır. Süreçleri otomatikleştirmek, verimliliği artırmak ve karmaşık görevler üzerinde daha iyi kontrol<br/>sağlamak için kullanılırlar. Diğer yandan, verileri<br/>daha iyi anlayıp düzenlemek için ve böylelikle daha<br/>iyi ve kararlar vermek için kullanılır."
     },
     {
         "SoruID": 3862268,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sistem Türleri<br><strong>Fiziksel sistemler</strong>, gözlemlenebilir ve ölçülebilir olan somut nesneler veya süreçlerdir"
+        "Aciklama": "Sistem Türleri<br/><strong>Fiziksel sistemler</strong>, gözlemlenebilir ve ölçülebilir olan somut nesneler veya süreçlerdir"
     },
     {
         "SoruID": 3862269,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sistem Türleri<br><strong>Belirlenimci</strong> bir sistem, tüm olayların oluşumunun tamamen tahmin edilebilir olduğu sistemdir."
+        "Aciklama": "Sistem Türleri<br/><strong>Belirlenimci</strong> bir sistem, tüm olayların oluşumunun tamamen tahmin edilebilir olduğu sistemdir."
     },
     {
         "SoruID": 3862270,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sistem Türleri<br>Bu nedenle kitaplaran konularına<br/>göre sınıflandırıldığı ve kodlandığı, bu kodları takip<br/>ederek bulunduğu sistemler geliştirilmiştir. <strong>DDC ve</strong><br/><strong>LCC sistemleri</strong> yaygın olarak kullanılmaktadır."
+        "Aciklama": "Sistem Türleri<br/>Bu nedenle kitaplaran konularına<br/>göre sınıflandırıldığı ve kodlandığı, bu kodları takip<br/>ederek bulunduğu sistemler geliştirilmiştir. <strong>DDC ve</strong><br/><strong>LCC sistemleri</strong> yaygın olarak kullanılmaktadır."
     },
     {
         "SoruID": 3862271,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gündelik Hayatta Sistemler<br><strong>Pantone</strong> ise tasarımcıların üreticilerle kritik kararları doğru şekilde alabilmesini sağlayan evrensel<br/>bir renk dili ortaya koyar."
+        "Aciklama": "Gündelik Hayatta Sistemler<br/><strong>Pantone</strong> ise tasarımcıların üreticilerle kritik kararları doğru şekilde alabilmesini sağlayan evrensel<br/>bir renk dili ortaya koyar."
     },
     {
         "SoruID": 3862272,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "GRAFİK TASARIM VE SİSTEM<br/>İLİŞKİSİ<br><strong>Grafik tasarım</strong>, gerekli mesaj ve bilgileri, belirli sosyal gruplara tanımlanmış amaçlarla aktarmak<br/>üzere görsel iletişim aracılığıyla çözümler sunan bir<br/>alandır."
+        "Aciklama": "GRAFİK TASARIM VE SİSTEM<br/>İLİŞKİSİ<br/><strong>Grafik tasarım</strong>, gerekli mesaj ve bilgileri, belirli sosyal gruplara tanımlanmış amaçlarla aktarmak<br/>üzere görsel iletişim aracılığıyla çözümler sunan bir<br/>alandır."
     },
     {
         "SoruID": 3862273,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Grafik Tasarımı Sistem Kavramı ile<br/>Birlikte Düşünmek<br>“Grafik tasarımı anlamsal olarak doğru, sözdizimsel olarak tutarlı ve pragmatik olarak anlaşılabilir bilgilerin organizasyonu olarak görüyorum” diyen tasarımcı <strong>Massimo Vignelli</strong>."
+        "Aciklama": "Grafik Tasarımı Sistem Kavramı ile<br/>Birlikte Düşünmek<br/>“Grafik tasarımı anlamsal olarak doğru, sözdizimsel olarak tutarlı ve pragmatik olarak anlaşılabilir bilgilerin organizasyonu olarak görüyorum” diyen tasarımcı <strong>Massimo Vignelli</strong>."
     },
     {
         "SoruID": 3862274,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kompleksite ve Tasarımın Çözüm Yöntemleri<br><strong>Kompleksite</strong>, yani karmaşıklık, bir<br/>sistem veya modelin ait bileşenlerinin pek çok yolla etkileşimde olduğu ve doğrusal olmayan, gelişigüzel,<br/>kolektif dinamiğe, hiyerarşiye ve gelişime yönelik yerel kuralları izleyen davranışı olarak nitelendirilir."
+        "Aciklama": "Kompleksite ve Tasarımın Çözüm Yöntemleri<br/><strong>Kompleksite</strong>, yani karmaşıklık, bir<br/>sistem veya modelin ait bileşenlerinin pek çok yolla etkileşimde olduğu ve doğrusal olmayan, gelişigüzel,<br/>kolektif dinamiğe, hiyerarşiye ve gelişime yönelik yerel kuralları izleyen davranışı olarak nitelendirilir."
     },
     {
         "SoruID": 3862329,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "huuoy<br>Birbirlerine bağlantılı ya da ilişkili unsurların oluşturduğu her şey bir sistemdir. Aynı zamanda, sistem kelimesi temel sözlük anlamında “birçok unsurdan oluşan düzen” olarak kullanılır. Sistemler mühendislikten işletmeye, sağlık hizmetlerinden eğitime kadar çeşitli alanlarda kullanılır. Süreçleri otomatikleştirmek, verimliliği artırmak ve karmaşık görevler üzerinde daha iyi kontrol sağlamak için kullanılırlar. Diğer yandan, verileri daha iyi anlayıp düzenlemek için ve böylelikle daha iyi ve kararlar vermek için kullanılır. Verimli üretim ve sağlıklı işleyişler için sistemlerin varlığı kaçınılmazdır. Görüldüğü gibi, sistem farklı birçok alanda kullanılmakta ve farklı bir çok amaca hizmet etmektedir. Bu bilgiler ışığında doğru cevap I, III ve IV maddelerinin yer aldığı D seçeneğidir."
+        "Aciklama": "huuoy<br/>Birbirlerine bağlantılı ya da ilişkili unsurların oluşturduğu her şey bir sistemdir. Aynı zamanda, sistem kelimesi temel sözlük anlamında “birçok unsurdan oluşan düzen” olarak kullanılır. Sistemler mühendislikten işletmeye, sağlık hizmetlerinden eğitime kadar çeşitli alanlarda kullanılır. Süreçleri otomatikleştirmek, verimliliği artırmak ve karmaşık görevler üzerinde daha iyi kontrol sağlamak için kullanılırlar. Diğer yandan, verileri daha iyi anlayıp düzenlemek için ve böylelikle daha iyi ve kararlar vermek için kullanılır. Verimli üretim ve sağlıklı işleyişler için sistemlerin varlığı kaçınılmazdır. Görüldüğü gibi, sistem farklı birçok alanda kullanılmakta ve farklı bir çok amaca hizmet etmektedir. Bu bilgiler ışığında doğru cevap I, III ve IV maddelerinin yer aldığı D seçeneğidir."
     },
     {
         "SoruID": 3862334,

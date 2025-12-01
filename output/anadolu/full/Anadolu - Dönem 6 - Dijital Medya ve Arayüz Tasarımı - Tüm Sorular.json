@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İBE, kullanıcı dostu, erişilebilir ve etkili arayüz tasarımları yoluyla teknolojiyi insan ihtiyaçlarına<br/>daha iyi hizmet eder hâle getirmeyi amaçlar. Sayfa 34 okuyup, bkz.<br>Ekonomiye katkı"
+        "Aciklama": "İBE, kullanıcı dostu, erişilebilir ve etkili arayüz tasarımları yoluyla teknolojiyi insan ihtiyaçlarına<br/>daha iyi hizmet eder hâle getirmeyi amaçlar. Sayfa 34 okuyup, bkz.<br/>Ekonomiye katkı"
     },
     {
         "SoruID": 3592860,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazılım ve kullanıcı arasındaki iletişimi kolaylaştıran, komutları alıp işleyen ve bilgiyi kullanıcıya geri besleyen her türlü işlemi, aracı ve süresi kapsar.<br>Arayüz"
+        "Aciklama": "Yazılım ve kullanıcı arasındaki iletişimi kolaylaştıran, komutları alıp işleyen ve bilgiyi kullanıcıya geri besleyen her türlü işlemi, aracı ve süresi kapsar.<br/>Arayüz"
     },
     {
         "SoruID": 3592863,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Arayüzler; grafik kullanıcı arayüzleri (GUI), komut satırı arayüzleri (CLI), dokunmatik ekranlar, sesli komut arayüzleri gibi çeşitli formlarda olabilir. Arayüzler, insanların bilgisayar sistemleriyle ile etkileşim kurabilmelerinin en temel aracıdır.<br>Çoklu ortamlar"
+        "Aciklama": "Arayüzler; grafik kullanıcı arayüzleri (GUI), komut satırı arayüzleri (CLI), dokunmatik ekranlar, sesli komut arayüzleri gibi çeşitli formlarda olabilir. Arayüzler, insanların bilgisayar sistemleriyle ile etkileşim kurabilmelerinin en temel aracıdır.<br/>Çoklu ortamlar"
     },
     {
         "SoruID": 3592864,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Erişebilirlik: Engelli kullanıcılar da dahil olmak üzere herkesin teknolojiyi kullanabilmesini sağlamayı hedefler.<br>Erişilebilirlik"
+        "Aciklama": "Erişebilirlik: Engelli kullanıcılar da dahil olmak üzere herkesin teknolojiyi kullanabilmesini sağlamayı hedefler.<br/>Erişilebilirlik"
     },
     {
         "SoruID": 3592865,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Modüler ızgaralar, farklı içerik türlerini (metin, resim, video vb.) bütünleştirmek için esnek bir yapı sunar. Tasarımcılar, içeriğin boyutuna ve türüne göre modülleri uygun şekilde boyutlandırabilirler.<br>Modüler (Modular) Izgara Sistemi"
+        "Aciklama": "Modüler ızgaralar, farklı içerik türlerini (metin, resim, video vb.) bütünleştirmek için esnek bir yapı sunar. Tasarımcılar, içeriğin boyutuna ve türüne göre modülleri uygun şekilde boyutlandırabilirler.<br/>Modüler (Modular) Izgara Sistemi"
     },
     {
         "SoruID": 3592872,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Popüler Tasarım Stilleri Arayüz tasarımı, çeşitli stil türlerini kullanarak estetik çeşitlilik sunan dinamik bir disiplindir. Bu stiller;...Flat Design (Düz Tasarım), Product-Oriented Design (Ürün Odaklı Tasarım), Typography-Centric Design (Tipografi Odaklı Tasarım), Minimalist Design (Minimalist Tasarım) ve Illustrative Design (İllüstratif Tasarım) popüler tasarım stillerinin başlıcalarıdır.<br>Grunge Design (Dağınık Tasarım)"
+        "Aciklama": "Popüler Tasarım Stilleri Arayüz tasarımı, çeşitli stil türlerini kullanarak estetik çeşitlilik sunan dinamik bir disiplindir. Bu stiller;...Flat Design (Düz Tasarım), Product-Oriented Design (Ürün Odaklı Tasarım), Typography-Centric Design (Tipografi Odaklı Tasarım), Minimalist Design (Minimalist Tasarım) ve Illustrative Design (İllüstratif Tasarım) popüler tasarım stillerinin başlıcalarıdır.<br/>Grunge Design (Dağınık Tasarım)"
     },
     {
         "SoruID": 3597916,
@@ -797,7 +797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt verimlilik<br>Kullanılabilirliğin beş temel prensiplerinden biri olan ve belirli bir görevi tamamlamak için gereken zaman ve kaynakların oranını verimlilik ile ifade ederiz"
+        "Aciklama": "Doğru yanıt verimlilik<br/>Kullanılabilirliğin beş temel prensiplerinden biri olan ve belirli bir görevi tamamlamak için gereken zaman ve kaynakların oranını verimlilik ile ifade ederiz"
     },
     {
         "SoruID": 3594979,
@@ -817,7 +817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A'dır<br>Uygulama ve iyileştirme geribildirim döngüsü adımlarındandır"
+        "Aciklama": "Doğru yanıt A'dır<br/>Uygulama ve iyileştirme geribildirim döngüsü adımlarındandır"
     },
     {
         "SoruID": 3594981,
@@ -837,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır.<br>Okunulabilirlik Gestalt ilkelerinden değildir."
+        "Aciklama": "Doğru yanıt E şıkkıdır.<br/>Okunulabilirlik Gestalt ilkelerinden değildir."
     },
     {
         "SoruID": 3594983,
@@ -857,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt D şıkkıdır<br>Başlıklar, alt başlıklar ve metin blokları arasındaki uygun hiyerarşi, kullanıcıların içeriği tarayabilmesini ve önemli bilgileri bulmalarını sağlayan görsel hiyerarşidir."
+        "Aciklama": "Yanıt D şıkkıdır<br/>Başlıklar, alt başlıklar ve metin blokları arasındaki uygun hiyerarşi, kullanıcıların içeriği tarayabilmesini ve önemli bilgileri bulmalarını sağlayan görsel hiyerarşidir."
     },
     {
         "SoruID": 3594986,
@@ -877,7 +877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt E şıkkıdır<br>Ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaştığı ve her türlü düşünceye açık bir ortamda yapılan oturuma beyin fırtınası adı verilir."
+        "Aciklama": "Yanıt E şıkkıdır<br/>Ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaştığı ve her türlü düşünceye açık bir ortamda yapılan oturuma beyin fırtınası adı verilir."
     },
     {
         "SoruID": 3594989,
@@ -897,7 +897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt D şıkkıdır.<br>UX, kullanıcı araştırmaları, kullanıcı senaryoları ve kullanıcı hikayeleri gibi stratejik ve araştırma odaklı süreçleri içerirken UI, renk şemaları gibi daha görsel ve estetik özelliklere odaklanır"
+        "Aciklama": "Doğru yanıt D şıkkıdır.<br/>UX, kullanıcı araştırmaları, kullanıcı senaryoları ve kullanıcı hikayeleri gibi stratejik ve araştırma odaklı süreçleri içerirken UI, renk şemaları gibi daha görsel ve estetik özelliklere odaklanır"
     },
     {
         "SoruID": 3595028,
@@ -917,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır<br>Kullanıcı deneyimi tasarım araçlarının takım içindeki iş birliğini arttırmak ve tutarlı tasarım sistemleri oluşturmak için sağladığı özelliklerden biri görsel hiyerarşi değildir."
+        "Aciklama": "Doğru yanıt E şıkkıdır<br/>Kullanıcı deneyimi tasarım araçlarının takım içindeki iş birliğini arttırmak ve tutarlı tasarım sistemleri oluşturmak için sağladığı özelliklerden biri görsel hiyerarşi değildir."
     },
     {
         "SoruID": 3595032,
@@ -937,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt C şıkkıdır<br>Adobe XD, Adobe bünyesinde bir yazılımdır"
+        "Aciklama": "Yanıt C şıkkıdır<br/>Adobe XD, Adobe bünyesinde bir yazılımdır"
     },
     {
         "SoruID": 3595034,
@@ -957,7 +957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt A şıkkıdır<br>Ürünlerin sadece işlevsel olmaktan öteye geçerek kullanıcılar üzerinde olumlu bir duygusal etki bırakmayı hedeflemesini açıklayan kavram duygu tasarımıdır"
+        "Aciklama": "Yanıt A şıkkıdır<br/>Ürünlerin sadece işlevsel olmaktan öteye geçerek kullanıcılar üzerinde olumlu bir duygusal etki bırakmayı hedeflemesini açıklayan kavram duygu tasarımıdır"
     },
     {
         "SoruID": 3595036,
@@ -977,7 +977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt D şıkkıdır<br>Aynı doğrultuda olan ve birbirine bağlı olan unsurların, insanlar tarafından aynı gruba ait olarak algılanmasını devamlılık kavramı ifade eder"
+        "Aciklama": "Yanıt D şıkkıdır<br/>Aynı doğrultuda olan ve birbirine bağlı olan unsurların, insanlar tarafından aynı gruba ait olarak algılanmasını devamlılık kavramı ifade eder"
     },
     {
         "SoruID": 3592891,
@@ -1397,7 +1397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br>1906 yılında J. Stuart Blackton tarafından yapılan ve animasyonun ilk örneklerinden biri olarak görülen film <span style=\"font-weight: 400;\">The Humorous Phases of Funny Faces'dir</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/>1906 yılında J. Stuart Blackton tarafından yapılan ve animasyonun ilk örneklerinden biri olarak görülen film <span style=\"font-weight: 400;\">The Humorous Phases of Funny Faces'dir</span>"
     },
     {
         "SoruID": 3601490,
@@ -1417,7 +1417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br><span style=\"font-weight: 400;\">1834 yılında İngiliz matematikçi William Horner tarafından icat edilen cihaz Zoetrope'dur</span>"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/><span style=\"font-weight: 400;\">1834 yılında İngiliz matematikçi William Horner tarafından icat edilen cihaz Zoetrope'dur</span>"
     },
     {
         "SoruID": 3601491,
@@ -1437,7 +1437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br><span style=\"font-weight: 400;\">Dünyanın ilk uzun metraj 3B animasyon filmi Toy Story'dir. </span>"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/><span style=\"font-weight: 400;\">Dünyanın ilk uzun metraj 3B animasyon filmi Toy Story'dir. </span>"
     },
     {
         "SoruID": 3601492,
@@ -1457,7 +1457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru şık D'dir.<br>Karakter ve nesnelerin üç boyutlu görünmesini sağlamak için hacim, ağırlık, denge ve anatomiyi dikkate alan çizimler oluşturmayı ifade eden prensip sağlam çizimdir."
+        "Aciklama": "Doğru şık D'dir.<br/>Karakter ve nesnelerin üç boyutlu görünmesini sağlamak için hacim, ağırlık, denge ve anatomiyi dikkate alan çizimler oluşturmayı ifade eden prensip sağlam çizimdir."
     },
     {
         "SoruID": 3601493,
@@ -1477,7 +1477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">Hareketin yer aldığı kompozisyonun arka plan, ışık kullanımı ve kamera açılarıyla desteklenmesini ifade eden prensip sahnelemedir</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/><span style=\"font-weight: 400;\">Hareketin yer aldığı kompozisyonun arka plan, ışık kullanımı ve kamera açılarıyla desteklenmesini ifade eden prensip sahnelemedir</span>"
     },
     {
         "SoruID": 3601494,
@@ -1497,7 +1497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt B şıkkıdır<br><span style=\"font-weight: 400;\">Animasyonlarda karaktere bir iskelet sistemi eklenerek doğal insan hareketleri simüle edilmesine rigging denir</span>"
+        "Aciklama": "Doğru yanıt B şıkkıdır<br/><span style=\"font-weight: 400;\">Animasyonlarda karaktere bir iskelet sistemi eklenerek doğal insan hareketleri simüle edilmesine rigging denir</span>"
     },
     {
         "SoruID": 3601495,
@@ -1517,7 +1517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır.<br>Bahsedilen tekniğin adı tweening'dir."
+        "Aciklama": "Doğru yanıt A şıkkıdır.<br/>Bahsedilen tekniğin adı tweening'dir."
     },
     {
         "SoruID": 3601496,
@@ -1537,7 +1537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">H.264 bir sıkıştırma türüdür.</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/><span style=\"font-weight: 400;\">H.264 bir sıkıştırma türüdür.</span>"
     },
     {
         "SoruID": 3601497,
@@ -1557,7 +1557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt D şıkkıdır<br>Bir öğenin yavaşça kaybolup başka bir görüntü veya ögeyle değişmesi dissolve ile ifade edilir"
+        "Aciklama": "Doğru yanıt D şıkkıdır<br/>Bir öğenin yavaşça kaybolup başka bir görüntü veya ögeyle değişmesi dissolve ile ifade edilir"
     },
     {
         "SoruID": 3601427,

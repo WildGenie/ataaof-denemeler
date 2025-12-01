@@ -64,7 +64,7 @@
         "SoruMetni": "<strong>Word programı karşılama ekranının yardımıyla aşağıdakilerden hangisi <u>yapılamaz</u>?</strong>",
         "A": "Boş belge açılabilir.",
         "B": "Var olan belge açılabilir.",
-        "C": "Hazır şablonlar kullanılabilir.<br/></br>",
+        "C": "Hazır şablonlar kullanılabilir.",
         "D": "Belge yazdırılabilir.",
         "E": "Word seçeneklerine erişilebilir.",
         "DogruCevap": "D",

@@ -342,7 +342,7 @@
     {
         "SoruID": 3863617,
         "SoruMetni": "Aşağıdakilerden hangisi diğerlerinden farklı bir başlıkta değerlendirilmelidir?",
-        "A": "Tamamen çevrimiçi bir dersin yürütülmesi<br data-end=\"266\" data-start=\"263\"/>",
+        "A": "Tamamen çevrimiçi bir dersin yürütülmesi",
         "B": "Tüm ders içeriklerinin yapay zekâ destekli bir platformda sunulması",
         "C": "Öğretmenin rolünün teknolojiye devredilmesi",
         "D": "Teknolojinin öğrencilerle doğrudan etkileşim kurarak ders işlemesi",
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu soru tipi ADDIE modelinin daha iyi kavranması bağlamında yararlı olabilir. Bu nedenle birkaç versiyonu hazırlanmıştır.<br>ADDIE modelinin ögeleri ve her ögede gerçekleştirilen işlemin özünü yansıtan ifadeleri şöyle sıralayabiliriz: <br/>Analiz - Tanımak<br/>Tasarım - Kararlar almak<br/>Geliştirme - Üretmek<br/>Uygulama - Sınamak<br/>Değerlendirme - İyileştirmek"
+        "Aciklama": "Bu soru tipi ADDIE modelinin daha iyi kavranması bağlamında yararlı olabilir. Bu nedenle birkaç versiyonu hazırlanmıştır.<br/>ADDIE modelinin ögeleri ve her ögede gerçekleştirilen işlemin özünü yansıtan ifadeleri şöyle sıralayabiliriz: <br/>Analiz - Tanımak<br/>Tasarım - Kararlar almak<br/>Geliştirme - Üretmek<br/>Uygulama - Sınamak<br/>Değerlendirme - İyileştirmek"
     },
     {
         "SoruID": 3940023,

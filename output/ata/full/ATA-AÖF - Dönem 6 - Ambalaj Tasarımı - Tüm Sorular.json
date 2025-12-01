@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 377423,
-        "SoruMetni": "I. Kâğıt<br/>II. Karton<br/>III. Selofan<br/><strong>Yukarıdakilerden hangisi ya da hangileri 1960’lı yıllarda ülkemizde kullanılan ambalaj malzemelerindendir?</strong></br></br>",
+        "SoruMetni": "I. Kâğıt<br/>II. Karton<br/>III. Selofan<br/><strong>Yukarıdakilerden hangisi ya da hangileri 1960’lı yıllarda ülkemizde kullanılan ambalaj malzemelerindendir?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -601,7 +601,7 @@
     },
     {
         "SoruID": 377475,
-        "SoruMetni": "<strong>Aşağıdaki ambalaj tasarımı </strong><strong>ilkelerinden hangisi mesajın en doğru ve gereksiz ayrıntılardan arındırılmış olması gerektiğini ifade eder?</strong><br type=\"_moz\"/>",
+        "SoruMetni": "<strong>Aşağıdaki ambalaj tasarımı </strong><strong>ilkelerinden hangisi mesajın en doğru ve gereksiz ayrıntılardan arındırılmış olması gerektiğini ifade eder?</strong>",
         "A": "Markaya ve ürüne uygunluk",
         "B": "Sadelik",
         "C": "Fark edilebilirlik",

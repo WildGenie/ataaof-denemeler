@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Geri Bildirimin Sağlanması: Akışın bozulmaması için kullanıcılar eylemlerine anlık ve hızlı geribildirimler almalıdır.<br><strong>Zaman</strong> <strong>Kavramının</strong> <strong>Yitimi;</strong> Arayüz ya da deneyim kullanıcısına zaman kavramını <span>unutturabilmelidir.</span>"
+        "Aciklama": "Geri Bildirimin Sağlanması: Akışın bozulmaması için kullanıcılar eylemlerine anlık ve hızlı geribildirimler almalıdır.<br/><strong>Zaman</strong> <strong>Kavramının</strong> <strong>Yitimi;</strong> Arayüz ya da deneyim kullanıcısına zaman kavramını <span>unutturabilmelidir.</span>"
     },
     {
         "SoruID": 3763327,

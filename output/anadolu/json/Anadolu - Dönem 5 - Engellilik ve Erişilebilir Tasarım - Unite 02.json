@@ -401,7 +401,7 @@
     },
     {
         "SoruID": 3863304,
-        "SoruMetni": "I. Erişilebilirlik, insan haklarının ayrımcılığı da kapsayan önemli bir alanıdır.<br data-end=\"200\" data-start=\"197\"/> II. Erişilebilirlik, gündelik yaşama tam katılımın ve bağımsız yaşamanın temel koşullarındandır.<br data-end=\"299\" data-start=\"296\"/> III. Erişilebilirlik yalnızca engellilerin değil, tüm bireylerin toplumsal yaşama katılımını destekler.<br data-end=\"405\" data-start=\"402\"/> IV. Erişilebilirlik, sadece fiziksel çevreye yönelik bir düzenleme alanıdır.<br data-end=\"484\" data-start=\"481\"/> V. 5378 sayılı Engelliler Hakkında Kanun’da erişilebilirlik tanımına yer verilmiştir.<br/>Yukarıdaki ifadelerden hangileri, “erişilebilirlik” kavramı ile ilgilidir?",
+        "SoruMetni": "I. Erişilebilirlik, insan haklarının ayrımcılığı da kapsayan önemli bir alanıdır.<br/>II. Erişilebilirlik, gündelik yaşama tam katılımın ve bağımsız yaşamanın temel koşullarındandır.<br/>III. Erişilebilirlik yalnızca engellilerin değil, tüm bireylerin toplumsal yaşama katılımını destekler.<br/>IV. Erişilebilirlik, sadece fiziksel çevreye yönelik bir düzenleme alanıdır.<br/>V. 5378 sayılı Engelliler Hakkında Kanun’da erişilebilirlik tanımına yer verilmiştir.<br/>Yukarıdaki ifadelerden hangileri, “erişilebilirlik” kavramı ile ilgilidir?",
         "A": "I, II ve III",
         "B": "I, II ve V",
         "C": "II, IV ve V",
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Soruda verilen durumda, bireye fiziksel, sosyal, zihinsel ve mesleki beceriler kazandırılarak günlük yaşamını bağımsız sürdürebilmesi hedeflenmektedir.<br data-end=\"177\" data-start=\"174\"/> Bu tanım, doğrudan habilitasyon kavramına karşılık gelir.<br data-end=\"241\" data-start=\"238\"/> Rehabilitasyondan farkı, habilitasyonun mevcut olmayan becerileri ilk kez kazandırmaya odaklanmasıdır; rehabilitasyon ise kaybedilmiş becerileri geri kazandırmaya yöneliktir."
+        "Aciklama": "Soruda verilen durumda, bireye fiziksel, sosyal, zihinsel ve mesleki beceriler kazandırılarak günlük yaşamını bağımsız sürdürebilmesi hedeflenmektedir.<br/>Bu tanım, doğrudan habilitasyon kavramına karşılık gelir.<br/>Rehabilitasyondan farkı, habilitasyonun mevcut olmayan becerileri ilk kez kazandırmaya odaklanmasıdır; rehabilitasyon ise kaybedilmiş becerileri geri kazandırmaya yöneliktir."
     },
     {
         "SoruID": 3863306,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "A) Habilitasyon hizmetleri- Engelli bireylere fiziksel, sosyal, zihinsel ve mesleki beceriler kazandırma sürecidir. Soruda beceri kazandırmadan çok çevresel düzenleme anlatılıyor.<br/>B) Engellilerin istihdamını artırma politikaları- İş bulma, iş ortamı uyarlama, mesleki eğitim gibi istihdama yönelik uygulamaları kapsar; burada genel yaşam alanları ve hizmetlerin erişilebilirliği söz konusu.<br/>D) Sosyal yardım programları -Maddi destek veya sosyal hizmet yardımlarıdır; erişilebilirlik düzenlemeleri ile doğrudan ilişkili değildir.<br/>E) Sağlık hizmetleri planlaması -Sağlık sisteminin organizasyonu ile ilgilidir; sorudaki düzenlemeler yalnızca sağlık alanını değil, tüm yaşam alanlarını kapsar.<br>Soruda anlatılan düzenlemeler, hem fiziki çevre (binalar, yollar, ulaşım araçları, okullar, sağlık tesisleri, işyerleri vb.) hem de bilgi ve iletişim olanakları (elektronik hizmetler, acil hizmetler vb.) için erişim imkânı sağlamaya yöneliktir.<br data-end=\"270\" data-start=\"267\"/> Bu durum, engelli bireylerin bağımsız yaşamasını ve topluma tam ve eşit katılımını mümkün kılan erişilebilirlik ilkesinin uygulanması anlamına gelir.<br data-end=\"434\" data-start=\"431\"/> Dolayısıyla doğru seçenek C) Erişilebilirlik ilkesinin hayata geçirilmesi’dir."
+        "Aciklama": "A) Habilitasyon hizmetleri- Engelli bireylere fiziksel, sosyal, zihinsel ve mesleki beceriler kazandırma sürecidir. Soruda beceri kazandırmadan çok çevresel düzenleme anlatılıyor.<br/>B) Engellilerin istihdamını artırma politikaları- İş bulma, iş ortamı uyarlama, mesleki eğitim gibi istihdama yönelik uygulamaları kapsar; burada genel yaşam alanları ve hizmetlerin erişilebilirliği söz konusu.<br/>D) Sosyal yardım programları -Maddi destek veya sosyal hizmet yardımlarıdır; erişilebilirlik düzenlemeleri ile doğrudan ilişkili değildir.<br/>E) Sağlık hizmetleri planlaması -Sağlık sisteminin organizasyonu ile ilgilidir; sorudaki düzenlemeler yalnızca sağlık alanını değil, tüm yaşam alanlarını kapsar.<br/>Soruda anlatılan düzenlemeler, hem fiziki çevre (binalar, yollar, ulaşım araçları, okullar, sağlık tesisleri, işyerleri vb.) hem de bilgi ve iletişim olanakları (elektronik hizmetler, acil hizmetler vb.) için erişim imkânı sağlamaya yöneliktir.<br/>Bu durum, engelli bireylerin bağımsız yaşamasını ve topluma tam ve eşit katılımını mümkün kılan erişilebilirlik ilkesinin uygulanması anlamına gelir.<br/>Dolayısıyla doğru seçenek C) Erişilebilirlik ilkesinin hayata geçirilmesi’dir."
     },
     {
         "SoruID": 3863307,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "A) Erişilebilirliğin tasarım ve planlama sürecine baştan dahil edilmemesi ve bilgi–iletişim alanında yetersizlik: Doğru yanıt<br data-end=\"203\" data-start=\"200\"/>Nedeni: Sorudaki metinde hem sonradan yapılan düzenlemelerin yarattığı maliyet–estetik sorunları (tasarım sürecine dahil edilmeme) hem de yönlendirme tabelaları ve dijital bilgilendirme ekranlarının standartlara uygun olmaması (bilgi–iletişim eksikliği) anlatılıyor.<br/>B) ERDEM sistemine kayıt yapılmaması ve toplu taşım erişiminin olmaması: Hatalı yanıt<br data-end=\"553\" data-start=\"550\"> Sebebi: Olayda ERDEM sistemine başvurulup başvurulmadığı veya toplu taşıma erişimi hakkında bilgi yok.</br><br/>C) Ulusal mevzuattaki dayanaklara uyulmaması ve sosyal yardım eksikliği: Hatalı yanıt<br data-end=\"748\" data-start=\"745\"> Sebep: Ulusal mevzuata uyulmaması ima edilebilir ancak olayda sosyal yardım konusuna dair hiçbir bilgi yok.</br><br/>&lt;p data-start=\"859\"<br>Birinci eksik: Erişilebilirliğin baştan, tasarım ve planlama aşamasında dikkate alınmaması. Bu yüzden sonradan eklemeler hem maliyetli hem de uyumsuz olmuştur.<br/>İkinci eksik: Erişilebilirliğin yalnızca fiziksel düzenlemelerle sınırlı kalması ve bilgi–iletişim alanında (tabelalar, dijital ekranlar) yetersizliklerin bulunması."
+        "Aciklama": "A) Erişilebilirliğin tasarım ve planlama sürecine baştan dahil edilmemesi ve bilgi–iletişim alanında yetersizlik: Doğru yanıt<br/>Nedeni: Sorudaki metinde hem sonradan yapılan düzenlemelerin yarattığı maliyet–estetik sorunları (tasarım sürecine dahil edilmeme) hem de yönlendirme tabelaları ve dijital bilgilendirme ekranlarının standartlara uygun olmaması (bilgi–iletişim eksikliği) anlatılıyor.<br/>B) ERDEM sistemine kayıt yapılmaması ve toplu taşım erişiminin olmaması: Hatalı yanıt<br/>Sebebi: Olayda ERDEM sistemine başvurulup başvurulmadığı veya toplu taşıma erişimi hakkında bilgi yok.<br/>C) Ulusal mevzuattaki dayanaklara uyulmaması ve sosyal yardım eksikliği: Hatalı yanıt<br/>Sebep: Ulusal mevzuata uyulmaması ima edilebilir ancak olayda sosyal yardım konusuna dair hiçbir bilgi yok.<br/>&lt;p data-start=\"859\"<br/>Birinci eksik: Erişilebilirliğin baştan, tasarım ve planlama aşamasında dikkate alınmaması. Bu yüzden sonradan eklemeler hem maliyetli hem de uyumsuz olmuştur.<br/>İkinci eksik: Erişilebilirliğin yalnızca fiziksel düzenlemelerle sınırlı kalması ve bilgi–iletişim alanında (tabelalar, dijital ekranlar) yetersizliklerin bulunması."
     },
     {
         "SoruID": 3863308,
@@ -521,7 +521,7 @@
     },
     {
         "SoruID": 3863310,
-        "SoruMetni": "Deniz, görme engelli bir yüzücüdür. Günlük yaşamında zamanı öğrenmek için telefonunu kullanmak istememektedir. Kullandığı yeni cihaz: I. Üzerindeki minik bilyeler sayesinde zamanı dokunarak algılamasını sağlar.<br data-end=\"294\" data-start=\"291\"/> II. Sessiz bir şekilde saatini öğrenmesine imkân verir.<br data-end=\"352\" data-is-only-node=\"\" data-start=\"349\"/> III. Görme engelli paralimpik sporculardan ilham alınarak tasarlanmıştır.<br/>Bu özelliklere sahip yardımcı teknoloji aşağıdakilerden hangisidir?",
+        "SoruMetni": "Deniz, görme engelli bir yüzücüdür. Günlük yaşamında zamanı öğrenmek için telefonunu kullanmak istememektedir. Kullandığı yeni cihaz: I. Üzerindeki minik bilyeler sayesinde zamanı dokunarak algılamasını sağlar.<br/>II. Sessiz bir şekilde saatini öğrenmesine imkân verir.<br/>III. Görme engelli paralimpik sporculardan ilham alınarak tasarlanmıştır.<br/>Bu özelliklere sahip yardımcı teknoloji aşağıdakilerden hangisidir?",
         "A": "Dokunsal ekranlı akıllı saat",
         "B": "Braille alfabeli kol saati",
         "C": "Eone saati",
@@ -541,7 +541,7 @@
     },
     {
         "SoruID": 3863311,
-        "SoruMetni": "I. Ürünlerin, hizmetlerin ve mekânların mümkün olan en geniş ölçekte insanlar tarafından kullanılabilmesini hedefler.<br data-end=\"386\" data-start=\"383\"/> II. Sadece engelli bireyler için uyum sürecine odaklanır.<br data-end=\"446\" data-start=\"443\"/> III. İşlevsellik ile estetik değerleri birlikte gözetir.<br data-end=\"505\" data-start=\"502\"/> IV. Tek bir kullanıcının bile dışlanmamasını esas alır.<br data-end=\"563\" data-start=\"560\"/> V. Sadece belirli bir pazar için özel tasarımlar yapmayı amaçlar.<br/>Yukarıdakilerden hangileri evrensel tasarım yaklaşımının özellikleri arasında yer alır?",
+        "SoruMetni": "I. Ürünlerin, hizmetlerin ve mekânların mümkün olan en geniş ölçekte insanlar tarafından kullanılabilmesini hedefler.<br/>II. Sadece engelli bireyler için uyum sürecine odaklanır.<br/>III. İşlevsellik ile estetik değerleri birlikte gözetir.<br/>IV. Tek bir kullanıcının bile dışlanmamasını esas alır.<br/>V. Sadece belirli bir pazar için özel tasarımlar yapmayı amaçlar.<br/>Yukarıdakilerden hangileri evrensel tasarım yaklaşımının özellikleri arasında yer alır?",
         "A": "I, III ve IV",
         "B": "II ve V",
         "C": "I, II ve III",
@@ -561,7 +561,7 @@
     },
     {
         "SoruID": 3863312,
-        "SoruMetni": "I. Eşitlikçi Kullanım<br data-end=\"220\" data-start=\"217\"/> II. Estetik Öncelikli Tasarım<br data-end=\"252\" data-start=\"249\"/> III. Algılanabilir Bilgi<br data-end=\"279\" data-start=\"276\"/> IV. Düşük Fiziksel Efor<br/>Yukarıdakilerden hangileri Evrensel Tasarım Kılavuzu’nun yedi ilkesinden biridir?",
+        "SoruMetni": "I. Eşitlikçi Kullanım<br/>II. Estetik Öncelikli Tasarım<br/>III. Algılanabilir Bilgi<br/>IV. Düşük Fiziksel Efor<br/>Yukarıdakilerden hangileri Evrensel Tasarım Kılavuzu’nun yedi ilkesinden biridir?",
         "A": "I ve II",
         "B": "I ve III",
         "C": "II ve IV",

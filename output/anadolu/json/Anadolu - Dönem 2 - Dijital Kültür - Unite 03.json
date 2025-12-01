@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>İlk Hesaplayıcılar</strong><br>“Hesaplamaya yarayan ilk teknoloji, MÖ 2500 yılları civarında Sümerlerde görülen Abaküs, hesaplamaya yarayan ve taşınabilir ilk alettir.”"
+        "Aciklama": "<strong>İlk Hesaplayıcılar</strong><br/>“Hesaplamaya yarayan ilk teknoloji, MÖ 2500 yılları civarında Sümerlerde görülen Abaküs, hesaplamaya yarayan ve taşınabilir ilk alettir.”"
     },
     {
         "SoruID": 3769247,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İlk Hesaplayıcılar<br>“MÖ 1. Yüzyıla tarihlendirilen Antikythera Mekanizması bazı kaynaklara göre tarihin ilk bilgisayarı olarak geçmektedir. Bu alet tahta bir kutunun içerisinde 30’dan fazla birbirine kilitlenen bronz parçalardan oluşmaktadır. Bir krank kolu çevrilerek parçalar hareket ettirilmektedir. Hareket eden parçalar güneşin, ayın pozisyonlarını hesaplamaya yaramaktadır. (Garfinkel, 2018).”"
+        "Aciklama": "İlk Hesaplayıcılar<br/>“MÖ 1. Yüzyıla tarihlendirilen Antikythera Mekanizması bazı kaynaklara göre tarihin ilk bilgisayarı olarak geçmektedir. Bu alet tahta bir kutunun içerisinde 30’dan fazla birbirine kilitlenen bronz parçalardan oluşmaktadır. Bir krank kolu çevrilerek parçalar hareket ettirilmektedir. Hareket eden parçalar güneşin, ayın pozisyonlarını hesaplamaya yaramaktadır. (Garfinkel, 2018).”"
     },
     {
         "SoruID": 3769248,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İlk Hesaplayıcılar<br>“Gottfried Wilhelm von Leibniz ise 1672-1674 yılları “Kademeli Hesaplayıcı (Stepped Reckoner)” olarak anılan makineyi bulmuştur. Leibniz, aynı zamanda ikilik sayı sistemleri üzerinde de (binary numbers) çalışmış ilk Avrupalılardan birisidir (Augarten, 1984).”"
+        "Aciklama": "İlk Hesaplayıcılar<br/>“Gottfried Wilhelm von Leibniz ise 1672-1674 yılları “Kademeli Hesaplayıcı (Stepped Reckoner)” olarak anılan makineyi bulmuştur. Leibniz, aynı zamanda ikilik sayı sistemleri üzerinde de (binary numbers) çalışmış ilk Avrupalılardan birisidir (Augarten, 1984).”"
     },
     {
         "SoruID": 3769249,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İlk Hesaplayıcılar<br>“Charles Babbage, 19. yüzyılın bilgisayar teknolojilerinin gelişmesini sağlayan Fark Motoru ve Analiz Motorunu keşfeder. Fark motoru bilimsel hesaplamalarda kullanılan ve insan faktöründen dolayı yüksek hata payı olan matematik tablolarının nasıl mekanik bir şekilde işletilebileceği fikrinden doğmuştur.”"
+        "Aciklama": "İlk Hesaplayıcılar<br/>“Charles Babbage, 19. yüzyılın bilgisayar teknolojilerinin gelişmesini sağlayan Fark Motoru ve Analiz Motorunu keşfeder. Fark motoru bilimsel hesaplamalarda kullanılan ve insan faktöründen dolayı yüksek hata payı olan matematik tablolarının nasıl mekanik bir şekilde işletilebileceği fikrinden doğmuştur.”"
     },
     {
         "SoruID": 3769250,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gerçekliğin Tanımı<br>“Aristoteles’e göre “idealar veya formlar birer soyutlamadan başka hiçbir şey değildir”<br/>(Cevizci, 2015). Aristoteles gerçeğe ulaşmak için idealara ulaşmak yerine çevremizde duyumsadıklarımızın gerçeğin kendisi olduğunu öne sürmektedir.”"
+        "Aciklama": "Gerçekliğin Tanımı<br/>“Aristoteles’e göre “idealar veya formlar birer soyutlamadan başka hiçbir şey değildir”<br/>(Cevizci, 2015). Aristoteles gerçeğe ulaşmak için idealara ulaşmak yerine çevremizde duyumsadıklarımızın gerçeğin kendisi olduğunu öne sürmektedir.”"
     },
     {
         "SoruID": 3769251,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Sayısal Gerçeklik</strong><br>“Gerçeklik Ortamlandırıcıları: Gerçekliğin görsel algısını zenginleştirebilen, eksiltebilen veya başkalaştırabilen sistemlerdir.”"
+        "Aciklama": "<strong>Sayısal Gerçeklik</strong><br/>“Gerçeklik Ortamlandırıcıları: Gerçekliğin görsel algısını zenginleştirebilen, eksiltebilen veya başkalaştırabilen sistemlerdir.”"
     },
     {
         "SoruID": 3769252,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayısal Gerçeklik<br>“Hiper (Üst) Gerçeklik: Gerçekliğin bir kökenden ya da gerçeklikten yoksun modeller aracılığı ile üretilmesine denir.”"
+        "Aciklama": "Sayısal Gerçeklik<br/>“Hiper (Üst) Gerçeklik: Gerçekliğin bir kökenden ya da gerçeklikten yoksun modeller aracılığı ile üretilmesine denir.”"
     },
     {
         "SoruID": 3769253,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanal ve Artırılmış Gerçekliğin Tarihi<br>“Teknik olarak ise sanal gerçekliğe yakın olarak üretilen ilk cihaz Sensorama’dır. Sinematograf Morton Heilig tarafından 1962’de üretilen bu cihaz, aslında bir çeşit çoklu duyumsama simülatörüdür.”"
+        "Aciklama": "Sanal ve Artırılmış Gerçekliğin Tarihi<br/>“Teknik olarak ise sanal gerçekliğe yakın olarak üretilen ilk cihaz Sensorama’dır. Sinematograf Morton Heilig tarafından 1962’de üretilen bu cihaz, aslında bir çeşit çoklu duyumsama simülatörüdür.”"
     },
     {
         "SoruID": 3769254,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanal ve Artırılmış Gerçekliğin Tarihi<br>“Sayısal gerçekliğin ilk defa bilgisayar sistemleri ile birleşmesi Ivan Shuterland tarafından gerçekleştirilmiştir.”"
+        "Aciklama": "Sanal ve Artırılmış Gerçekliğin Tarihi<br/>“Sayısal gerçekliğin ilk defa bilgisayar sistemleri ile birleşmesi Ivan Shuterland tarafından gerçekleştirilmiştir.”"
     },
     {
         "SoruID": 3769255,
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanal ve Artırılmış Gerçekliğin Tarihi<br>“Sanal gerçekliğin 4 temel elemanı vardır (Sherman&amp; Craig, 2003, s. 6):<br/><ol><br/><li>Sanal Dünya</li><br/><li>Gömülme</li><br/><li>Duyusal Geri Bildirim</li><br/><li>Etkileşim.”</li><br/></ol>"
+        "Aciklama": "Sanal ve Artırılmış Gerçekliğin Tarihi<br/>“Sanal gerçekliğin 4 temel elemanı vardır (Sherman&amp; Craig, 2003, s. 6):<br/><ol><br/><li>Sanal Dünya</li><br/><li>Gömülme</li><br/><li>Duyusal Geri Bildirim</li><br/><li>Etkileşim.”</li><br/></ol>"
     },
     {
         "SoruID": 3769481,
@@ -617,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BİLGİSAYARLARIN KISA TARİHÇESİ<br>Mezopotamya’da ortaya çıkan buluntular insanların bilgiyi toplamak ve kaydetmek için MÖ 7500 yılından itibaren üç boyutlu formlardan yararlandığını göstermektedir. “Token” adı verilen bu formlar üç boyutludur ve kilden zarflar içerisine veya zarfların üzerine gömülü bir şekilde saklanmaktadırlar."
+        "Aciklama": "BİLGİSAYARLARIN KISA TARİHÇESİ<br/>Mezopotamya’da ortaya çıkan buluntular insanların bilgiyi toplamak ve kaydetmek için MÖ 7500 yılından itibaren üç boyutlu formlardan yararlandığını göstermektedir. “Token” adı verilen bu formlar üç boyutludur ve kilden zarflar içerisine veya zarfların üzerine gömülü bir şekilde saklanmaktadırlar."
     },
     {
         "SoruID": 3769482,
@@ -637,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BİLGİSAYARLARIN KISA TARİHÇESİ<br>Hesaplamaya yarayan ilk teknoloji, MÖ 2500 yılları civarında Sümerlerde görülen Abaküs, hesaplamaya yarayan ve taşınabilir ilk alettir. Bu bilgi cevabın E şıkkı olduğunu göstermektedir."
+        "Aciklama": "BİLGİSAYARLARIN KISA TARİHÇESİ<br/>Hesaplamaya yarayan ilk teknoloji, MÖ 2500 yılları civarında Sümerlerde görülen Abaküs, hesaplamaya yarayan ve taşınabilir ilk alettir. Bu bilgi cevabın E şıkkı olduğunu göstermektedir."
     },
     {
         "SoruID": 3769483,
@@ -657,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BİLGİSAYARLARIN KISA TARİHÇESİ<br>Çin abaküsü bugünkü modern abaküse benzeyen bir sistemdir. Bakınız resim 3.1"
+        "Aciklama": "BİLGİSAYARLARIN KISA TARİHÇESİ<br/>Çin abaküsü bugünkü modern abaküse benzeyen bir sistemdir. Bakınız resim 3.1"
     },
     {
         "SoruID": 3769484,
@@ -677,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Analog Bilgisayarlar<br>Gottfried Wilhelm von Leibniz ise 1672-1674 yılları “Kademeli Hesaplayıcı (Stepped Reckoner)” olarak anılan makineyi bulmuştur."
+        "Aciklama": "Analog Bilgisayarlar<br/>Gottfried Wilhelm von Leibniz ise 1672-1674 yılları “Kademeli Hesaplayıcı (Stepped Reckoner)” olarak anılan makineyi bulmuştur."
     },
     {
         "SoruID": 3769485,
@@ -697,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital Bilgisayarlar<br>1989 yılında, bilgisayarların işe, eve ve her yere girmesine sebep olan gelişme yaşanmıştır: World Wide Web (Dünya Çapında Ağ). CERN laboratuvarlarında çalışan Tim Barners-Lee’nin HTTP Hipermetin Transfer Protokolü) ve HTML’yi<br/>(Hipermetin Biçimlendirme Dili) icat etmesi ile beraber dünya çapında ağ ortaya çıkmıştır."
+        "Aciklama": "Dijital Bilgisayarlar<br/>1989 yılında, bilgisayarların işe, eve ve her yere girmesine sebep olan gelişme yaşanmıştır: World Wide Web (Dünya Çapında Ağ). CERN laboratuvarlarında çalışan Tim Barners-Lee’nin HTTP Hipermetin Transfer Protokolü) ve HTML’yi<br/>(Hipermetin Biçimlendirme Dili) icat etmesi ile beraber dünya çapında ağ ortaya çıkmıştır."
     },
     {
         "SoruID": 3769486,
@@ -717,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YENİ GERÇEK, YENİ GÖRÜNTÜLER<br>Gerçeklik tartışmalarının tarihsel kökenine bakıldığı zaman, Platon’un Mağara Alegorisi’ne ulaşılır."
+        "Aciklama": "YENİ GERÇEK, YENİ GÖRÜNTÜLER<br/>Gerçeklik tartışmalarının tarihsel kökenine bakıldığı zaman, Platon’un Mağara Alegorisi’ne ulaşılır."
     },
     {
         "SoruID": 3769487,
@@ -737,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayısal Gerçeklik<br>Hiper (Üst) Gerçeklik: Bir kökenden ya da gerçeklikten yoksun modeller aracılığı ile üretilmesine denir."
+        "Aciklama": "Sayısal Gerçeklik<br/>Hiper (Üst) Gerçeklik: Bir kökenden ya da gerçeklikten yoksun modeller aracılığı ile üretilmesine denir."
     },
     {
         "SoruID": 3769488,
@@ -757,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayısal Gerçeklikler<br>Tamamen fiziksel olan dünya ile tamamen sanal olan dünyanın arasında kalan bölüme ise karma gerçeklik denilmektedir."
+        "Aciklama": "Sayısal Gerçeklikler<br/>Tamamen fiziksel olan dünya ile tamamen sanal olan dünyanın arasında kalan bölüme ise karma gerçeklik denilmektedir."
     },
     {
         "SoruID": 3769489,
@@ -777,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanal Gerçeklik<br>Sanal gerçekliğin 4 temel elemanı vardır (Sherman &amp; Craig, 2003, s. 6):<br/>1. Sanal Dünya<br/>2. Gömülme<br/>3. Duyusal Geri Bildirim<br/>4. Etkileşim<br/>Fiziksel dünya bunun bir ögesi olmadığından cevap C şıkkıdır."
+        "Aciklama": "Sanal Gerçeklik<br/>Sanal gerçekliğin 4 temel elemanı vardır (Sherman &amp; Craig, 2003, s. 6):<br/>1. Sanal Dünya<br/>2. Gömülme<br/>3. Duyusal Geri Bildirim<br/>4. Etkileşim<br/>Fiziksel dünya bunun bir ögesi olmadığından cevap C şıkkıdır."
     },
     {
         "SoruID": 3769490,

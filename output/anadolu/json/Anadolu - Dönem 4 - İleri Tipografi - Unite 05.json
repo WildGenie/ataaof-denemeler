@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazı karakteri terimi alfabenin özgün bir tasarımını tanımlamak için kullanılır. İngilizce “typeface” terimi için Türkçe kaynaklarda yazı karakteri yanında; yazı tipi, yazı biçimi, yazı yüzü, karşılıkları da kullanılmaktadır.<br>Yazı türü"
+        "Aciklama": "Yazı karakteri terimi alfabenin özgün bir tasarımını tanımlamak için kullanılır. İngilizce “typeface” terimi için Türkçe kaynaklarda yazı karakteri yanında; yazı tipi, yazı biçimi, yazı yüzü, karşılıkları da kullanılmaktadır.<br/>Yazı türü"
     },
     {
         "SoruID": 3487949,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Font (karakter seti), majüskül ve miniskül alfabeler, rakamlar, noktalama işaretleri, bütün semboller, bileşik harfler, üst ve alt karakterler, küçük majüsküller ve aksanlı harflerden oluşan bir settir.<br>Serif"
+        "Aciklama": "Font (karakter seti), majüskül ve miniskül alfabeler, rakamlar, noktalama işaretleri, bütün semboller, bileşik harfler, üst ve alt karakterler, küçük majüsküller ve aksanlı harflerden oluşan bir settir.<br/>Serif"
     },
     {
         "SoruID": 3487953,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tasarımcıların yazı karakterlerini sınıflandırıp tanımlamakta kullandığı kullanışlı yollar vardır. Bu sınıflandırmalar, kullanım şekli, kullanım yeri, tarihsel süreç, serif şekli, çizim stili, ağırlık, büyüklük, anatomi, boşluklama gibi pek çok farklı kıstas üzerine kuruludur.<br>Arial"
+        "Aciklama": "Tasarımcıların yazı karakterlerini sınıflandırıp tanımlamakta kullandığı kullanışlı yollar vardır. Bu sınıflandırmalar, kullanım şekli, kullanım yeri, tarihsel süreç, serif şekli, çizim stili, ağırlık, büyüklük, anatomi, boşluklama gibi pek çok farklı kıstas üzerine kuruludur.<br/>Arial"
     },
     {
         "SoruID": 3487988,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Seriflerine göre sınıflandırma yaygın olarak kullanılır. Yazı karakterleri, seriflerine göre genellikle dört alt grup olarak incelenir: Serifsiz olanlar, kavisli serifliler (curved serif, braketed serif), kare serifliler (slab serif, square serif) ve düz serifliler (straight serif, flat serif) (Görsel 5.26). Sadece serif yapısına göre yapılan bu sınıflandırma üzerinde birlik sağlanmamıştır. Yazı karakterlerini, serifli olanlar ve olmayanlar olarak iki gruba ayıranlar olduğu gibi, bu dört kategoriyi alt kategorilere ayırıp çok daha detaylı sınıflandırmalar da yapılır. Seriflerine göre sınıflandırma, yazı karakterlerinin tanınması ve tanımlanması açısından yararlıdır ama yeterli değildir. Tanımlama sadece serif yapısı üzerinden olduğu için başta el yazısı benzerleri olmak üzere, pek çok yazı karakteri tasarımını kapsam dışı bırakır.<br>Hepsi"
+        "Aciklama": "Seriflerine göre sınıflandırma yaygın olarak kullanılır. Yazı karakterleri, seriflerine göre genellikle dört alt grup olarak incelenir: Serifsiz olanlar, kavisli serifliler (curved serif, braketed serif), kare serifliler (slab serif, square serif) ve düz serifliler (straight serif, flat serif) (Görsel 5.26). Sadece serif yapısına göre yapılan bu sınıflandırma üzerinde birlik sağlanmamıştır. Yazı karakterlerini, serifli olanlar ve olmayanlar olarak iki gruba ayıranlar olduğu gibi, bu dört kategoriyi alt kategorilere ayırıp çok daha detaylı sınıflandırmalar da yapılır. Seriflerine göre sınıflandırma, yazı karakterlerinin tanınması ve tanımlanması açısından yararlıdır ama yeterli değildir. Tanımlama sadece serif yapısı üzerinden olduğu için başta el yazısı benzerleri olmak üzere, pek çok yazı karakteri tasarımını kapsam dışı bırakır.<br/>Hepsi"
     },
     {
         "SoruID": 3488029,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Haley, yeni harf formu arayışındaki tasarımcılara kaynak olabilecek dört alanı işaret eder:<br/>1. Tasarımcı, tipografi tarihini araştırarak henüz keşfedilmemiş kaynaklarına ulaşabilir. Eski yazılara ait harf örneklerini günümüz ihtiyaçlarına göre yeniden yorumlayabilir.<br/>2. Yeni teknolojiler tipografik tasarımın sınırlarını genişletip, yeni imkanlar yaratabilir.<br/>3. Tarihi sınıflandırmalardaki yazı türleri ve tasarım süreçleri sorgulanarak bu türler arası melez harf biçimleri yaratma çabasına girilebilir.<br/>4. Latin alfabesi dışındaki diller için yazı karakteri tasarlamak tipografik ufku genişletecektir (Haley vd. 2012: 51).<br>Eski yazılara ait harf örneklerini günümüz ihtiyaçlarına göre yeniden yorumlanması uygun olmaz."
+        "Aciklama": "Haley, yeni harf formu arayışındaki tasarımcılara kaynak olabilecek dört alanı işaret eder:<br/>1. Tasarımcı, tipografi tarihini araştırarak henüz keşfedilmemiş kaynaklarına ulaşabilir. Eski yazılara ait harf örneklerini günümüz ihtiyaçlarına göre yeniden yorumlayabilir.<br/>2. Yeni teknolojiler tipografik tasarımın sınırlarını genişletip, yeni imkanlar yaratabilir.<br/>3. Tarihi sınıflandırmalardaki yazı türleri ve tasarım süreçleri sorgulanarak bu türler arası melez harf biçimleri yaratma çabasına girilebilir.<br/>4. Latin alfabesi dışındaki diller için yazı karakteri tasarlamak tipografik ufku genişletecektir (Haley vd. 2012: 51).<br/>Eski yazılara ait harf örneklerini günümüz ihtiyaçlarına göre yeniden yorumlanması uygun olmaz."
     },
     {
         "SoruID": 3488072,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tür dışı yazı karakterleri, türlerden birinde yer almayan tüm yazı karakterlerinin dâhil edildiği bir gruptur. Bu grup çeşitli kaynaklarda, Miscellaneous, Novelty, Specialty, Artistic, Period, Fancy ve Ornamental gibi isimlerle karşımıza çıkar.<br>Gotik"
+        "Aciklama": "Tür dışı yazı karakterleri, türlerden birinde yer almayan tüm yazı karakterlerinin dâhil edildiği bir gruptur. Bu grup çeşitli kaynaklarda, Miscellaneous, Novelty, Specialty, Artistic, Period, Fancy ve Ornamental gibi isimlerle karşımıza çıkar.<br/>Gotik"
     },
     {
         "SoruID": 3488073,

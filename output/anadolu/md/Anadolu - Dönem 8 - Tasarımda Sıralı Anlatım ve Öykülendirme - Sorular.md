@@ -68,20 +68,7 @@
     - D-) Zorluk / Akış / Karakterler
     - **Cevap E-) Karakterler / Kolaylık / Topluluk**
 
-    > **Açıklama:** Karakterler:
-    > • Hikâyenin Kalbi: Karakterler, her hikâyenin merkezinde yer alır. Transmedyada, karakterlerin farklı platformlarda farklı yönleriyle ortaya çıkması, hikâyeye derinlik ve karmaşıklık katar.
-    > • İzleyiciyle Bağlantı: İzleyiciler, kendilerini karakterlerle özdeşleştirir ve onların hikâyelerine duygusal olarak bağlanır. Bu bağ, izleyicilerin hikâyeye daha fazla dahil olmasını sağlar.
-    > • Evrenin İnşası: Karakterler, hikâyenin evrenini şekillendirir. Onların ilişkileri, geçmişleri ve deneyimleri, hikâyenin genel tonunu ve atmosferini belirler.
-    > Kolaylık:
-    > • Doğru İçerik, Doğru Zaman, Doğru Kişi: İzleyicilere sunulan içeriğin, onların ilgi alanlarına ve tüketim alışkanlıklarına uygun olması, hikâyenin başarısı için kritik öneme sahiptir.
-    > • Çoklu Platform Entegrasyonu: Farklı platformlardaki içeriklerin birbirini tamamlaması ve tutarlı bir
-    > deneyim sunması, izleyicilerin hikâyeyi takip etmesini kolaylaştırır.
-    > • Kişiselleştirme: İzleyicilerin tercihlerine göre özelleştirilmiş içerikler sunmak, onların hikâyeye daha
-    > fazla bağlılık duymasını sağlar.
-    > Komünite/Topluluk:
-    > • Hayran Etkileşimi: Hayranların birbirleriyle ve hikâyenin yaratıcılarıyla etkileşim kurmasına olanak tanıyan platformlar oluşturmak, topluluk bilincini güçlendirir.
-    > • Ödüllendirme Sistemleri: Hayranların hikâyeye aktif olarak katılımını teşvik etmek için ödüllendirme sistemleri (ödül, özel içerik vb.) oluşturulabilir.
-    > • Birlikte Geliştirme: Hayranların hikâyenin yaratım sürecinde aktif rol almasına olanak tanıyan mekanizmalar (fan kurguları, fikir yarışmaları vb.) hikâyeye yeni boyutlar katabilir.
+    > **Açıklama:** Karakterler:<br />• Hikâyenin Kalbi: Karakterler, her hikâyenin merkezinde yer alır. Transmedyada, karakterlerin farklı platformlarda farklı yönleriyle ortaya çıkması, hikâyeye derinlik ve karmaşıklık katar.<br />• İzleyiciyle Bağlantı: İzleyiciler, kendilerini karakterlerle özdeşleştirir ve onların hikâyelerine duygusal olarak bağlanır. Bu bağ, izleyicilerin hikâyeye daha fazla dahil olmasını sağlar.<br />• Evrenin İnşası: Karakterler, hikâyenin evrenini şekillendirir. Onların ilişkileri, geçmişleri ve deneyimleri, hikâyenin genel tonunu ve atmosferini belirler.<br />Kolaylık:<br />• Doğru İçerik, Doğru Zaman, Doğru Kişi: İzleyicilere sunulan içeriğin, onların ilgi alanlarına ve tüketim alışkanlıklarına uygun olması, hikâyenin başarısı için kritik öneme sahiptir.<br />• Çoklu Platform Entegrasyonu: Farklı platformlardaki içeriklerin birbirini tamamlaması ve tutarlı bir<br />deneyim sunması, izleyicilerin hikâyeyi takip etmesini kolaylaştırır.<br />• Kişiselleştirme: İzleyicilerin tercihlerine göre özelleştirilmiş içerikler sunmak, onların hikâyeye daha<br />fazla bağlılık duymasını sağlar.<br />Komünite/Topluluk:<br />• Hayran Etkileşimi: Hayranların birbirleriyle ve hikâyenin yaratıcılarıyla etkileşim kurmasına olanak tanıyan platformlar oluşturmak, topluluk bilincini güçlendirir.<br />• Ödüllendirme Sistemleri: Hayranların hikâyeye aktif olarak katılımını teşvik etmek için ödüllendirme sistemleri (ödül, özel içerik vb.) oluşturulabilir.<br />• Birlikte Geliştirme: Hayranların hikâyenin yaratım sürecinde aktif rol almasına olanak tanıyan mekanizmalar (fan kurguları, fikir yarışmaları vb.) hikâyeye yeni boyutlar katabilir.
 
     <hr />
 1. Pratten’a göre transmedya hikâyeciliği kaç türde incelenebilir?
@@ -202,9 +189,7 @@
     - D-) Bağımlılık ve beceri erezyonu
     - **Cevap E-) Kaynak israfı**
 
-    > **Açıklama:** Hikâye anlatıcısı olarak yapay zekânın oluşturduğu riskler şunlardır:
-    > Etik Kaygılar, Yaratıcı Sınırlamalar, Kültürel Önyargı, Yanlış Bilgilendirme, Bağımlılık ve Beceri Erozyonu.
-    > Doğru cevap E'dir.
+    > **Açıklama:** Hikâye anlatıcısı olarak yapay zekânın oluşturduğu riskler şunlardır:<br />Etik Kaygılar, Yaratıcı Sınırlamalar, Kültürel Önyargı, Yanlış Bilgilendirme, Bağımlılık ve Beceri Erozyonu.<br />Doğru cevap E'dir.
 
     <hr />
 1. Lin ve diğerleri (2020) yapay zekânın üretkenliği artırabildiğini ancak insan tasarımcıların yaratıcı süreçle daha az ilgilenmesine ve uzmanlık kaybına yol açabileceğini belirtmektedir. Bu durum aşağıdakilerden hangisine neden olabilir?
@@ -255,14 +240,7 @@
     - **Cevap D-) 6**
     - E-) 5
 
-    > **Açıklama:** Literatürde birçok farklı tanım ve özellik sıralamaları bulunsa da Gary Zabel’ın sanal dünyalar için belirlediği genel özellikler genişletilmiş gerçekliğin ve anlatısının doğasını gözler önüne sermeye en yakın olanıdır. Bu özellikler sırasıyla aşağıdaki maddelerde tanımlanmıştır:
-    > • Gömülme (Immersion)
-    > • Etkileşim (Interaction)
-    > • Kimliğin muğlaklığı (Ambiguity of Identity)
-    > • Çevresel akışkanlık (Environmental Fluidity)
-    > • Yapay Eylemsellik (Artificial Agency)
-    > • Ağ temelli iş birliği (Networked Collaboration)
-    > Dolayısıyla cevap D şıkkıdır.
+    > **Açıklama:** Literatürde birçok farklı tanım ve özellik sıralamaları bulunsa da Gary Zabel’ın sanal dünyalar için belirlediği genel özellikler genişletilmiş gerçekliğin ve anlatısının doğasını gözler önüne sermeye en yakın olanıdır. Bu özellikler sırasıyla aşağıdaki maddelerde tanımlanmıştır:<br />• Gömülme (Immersion)<br />• Etkileşim (Interaction)<br />• Kimliğin muğlaklığı (Ambiguity of Identity)<br />• Çevresel akışkanlık (Environmental Fluidity)<br />• Yapay Eylemsellik (Artificial Agency)<br />• Ağ temelli iş birliği (Networked Collaboration)<br />Dolayısıyla cevap D şıkkıdır.
 
     <hr />
 1. Gobbins parkuru yüzyıldan fazla bir zaman önce tasarlanmış olsa da hangi yüzyılın uzamsal anlatılarına ışık tutmaktadır ?
@@ -343,10 +321,7 @@
     - D-) “Witcher
     - E-) Mass Effect
 
-    > **Açıklama:** İyi geliştirilmiş karakterlere sahip oyunlar, hikâyelerini diğer mecralara taşıyarak izleyici bağlılığını ikonik karakterler üzerinden sürdürebilir. “Tomb Raider” serisindeki Lara Croft ve “The
-    > Witcher”daki Rivialı Geralt gibi karakterler filmlerde, televizyon dizilerinde ve kitaplarda yer alan ikonik figürler hâline gelmiştir. Derinlemesine geliştirilmiş karakterlerin bir diğer önemli niteliği
-    > de oyuncularla duygusal bağlar kurulmasını sağlamalarıdır ve bu da transmedya hikâye anlatımında
-    > kullanılabilir.
+    > **Açıklama:** İyi geliştirilmiş karakterlere sahip oyunlar, hikâyelerini diğer mecralara taşıyarak izleyici bağlılığını ikonik karakterler üzerinden sürdürebilir. “Tomb Raider” serisindeki Lara Croft ve “The<br />Witcher”daki Rivialı Geralt gibi karakterler filmlerde, televizyon dizilerinde ve kitaplarda yer alan ikonik figürler hâline gelmiştir. Derinlemesine geliştirilmiş karakterlerin bir diğer önemli niteliği<br />de oyuncularla duygusal bağlar kurulmasını sağlamalarıdır ve bu da transmedya hikâye anlatımında<br />kullanılabilir.
 
     <hr />
 1. Transmedya bağlamında birincil anlatının veya kurgusal evrenin bir parçası olarak kabul edilen resmi, özgün hikâyeler, karakterler ve olaylar koleksiyonunu ifade eden kavram aşağıdakilerden hangisidir?
@@ -356,9 +331,7 @@
     - D-) Anlatı
     - E-) Makinima
 
-    > **Açıklama:** Kanon: Transmedya bağlamında “kanon”, birincil anlatının veya kurgusal evrenin bir parçası olarak kabul edilen resmi, özgün hikâyeler, karakterler ve olaylar koleksiyonunu ifade
-    > eder. Kanon, anlatı evreninde tutarlılığı ve sürekliliği sağlayarak kitaplar, filmler, televizyon programları, video oyunları ve çizgi romanlar gibi farklı medya platformlarında tutarlı bir
-    > hikâyeyi korur.
+    > **Açıklama:** Kanon: Transmedya bağlamında “kanon”, birincil anlatının veya kurgusal evrenin bir parçası olarak kabul edilen resmi, özgün hikâyeler, karakterler ve olaylar koleksiyonunu ifade<br />eder. Kanon, anlatı evreninde tutarlılığı ve sürekliliği sağlayarak kitaplar, filmler, televizyon programları, video oyunları ve çizgi romanlar gibi farklı medya platformlarında tutarlı bir<br />hikâyeyi korur.
 
     <hr />
 1. Kurgusal bir evrenin temelini oluşturan arka plan hikâyeleri, mitler, efsaneler ve yerleşik bilgiler koleksiyonunu ifade eden terim aşağıdakilerden hangisidir?
@@ -398,11 +371,7 @@
     - D-) Tarihi kişiler
     - **Cevap E-) Hayali hikayeler**
 
-    > **Açıklama:** Lor: Kurgusal bir evrenin temelini oluşturan arka plan
-    > hikâyeleri, mitler, efsaneler ve yerleşik bilgiler koleksiyonunu
-    > ifade eder. Bu bilgiler tutarlı ve sürükleyici bir dünya yaratan
-    > tarih, kültür, kurallar, karakterler, olaylar ve diğer unsurları
-    > içerir. Evreni inandırıcı ve ilgi çekici kılan derinlik ve bağlamı sağlamaları dolayısıyla dünya inşası için çok önemlidir.
+    > **Açıklama:** Lor: Kurgusal bir evrenin temelini oluşturan arka plan<br />hikâyeleri, mitler, efsaneler ve yerleşik bilgiler koleksiyonunu<br />ifade eder. Bu bilgiler tutarlı ve sürükleyici bir dünya yaratan<br />tarih, kültür, kurallar, karakterler, olaylar ve diğer unsurları<br />içerir. Evreni inandırıcı ve ilgi çekici kılan derinlik ve bağlamı sağlamaları dolayısıyla dünya inşası için çok önemlidir.
 
     <hr />
 1. Atari oyunlarının altın çağı aşağıdakilerden hangisidir?
@@ -412,8 +381,7 @@
     - **Cevap D-) 1980'ler**
     - E-) 1990'lar
 
-    > **Açıklama:** 1980’lerin başları özellikle ABD’de “Atari Salonlarının Altın Çağı” olarak anılır ve bu dönem
-    > atari oyunlarının yaygın popülaritesiyle dikkat çeker (Fulton, 2018). Namco tarafından geliştirilen “Pac-Man” (1980) ve Nintendo tarafından yaratılan “Donkey Kong” (1981) gibi oyunlar bu dönemde sadece ticari açıdan başarı kazanmakla kalmamış, aynı zamanda oyun tasarımı ve mekaniklerinin geleceğini şekillendirmede de etkili olmuşlardır.
+    > **Açıklama:** 1980’lerin başları özellikle ABD’de “Atari Salonlarının Altın Çağı” olarak anılır ve bu dönem<br />atari oyunlarının yaygın popülaritesiyle dikkat çeker (Fulton, 2018). Namco tarafından geliştirilen “Pac-Man” (1980) ve Nintendo tarafından yaratılan “Donkey Kong” (1981) gibi oyunlar bu dönemde sadece ticari açıdan başarı kazanmakla kalmamış, aynı zamanda oyun tasarımı ve mekaniklerinin geleceğini şekillendirmede de etkili olmuşlardır.
 
     <hr />
 1. Pac-Man hangi yıl Hanna-Barbera tarafından üretilen bir animasyon televizyon dizisine uyarlanmıştır?
@@ -423,8 +391,7 @@
     - D-) 1990
     - E-) 2001
 
-    > **Açıklama:** Pac-Man ilk olarak 1982 yılında Hanna-Barbera tarafından üretilen bir animasyon televizyon
-    > dizisine uyarlanır. Dizide Pac-Man, ailesi ve arkadaşları hayalet canavarlarla savaşarak çeşitli maceralara atılırlar.
+    > **Açıklama:** Pac-Man ilk olarak 1982 yılında Hanna-Barbera tarafından üretilen bir animasyon televizyon<br />dizisine uyarlanır. Dizide Pac-Man, ailesi ve arkadaşları hayalet canavarlarla savaşarak çeşitli maceralara atılırlar.
 
     <hr />
 1. Aşağıdakilerden hangisi Pac-Man oyunu örneğinin transmedya hikâye anlatımı ve markalaşma ilkeleri açısından taşıdığı temel unsurlardan biri değildir?
@@ -434,32 +401,7 @@
     - D-) Animasyon dizisi ve ticari ürünler ile hayran kitlesini genişletmesi
     - **Cevap E-) Aceleye getirilmiş prodüksiyonun riskleri**
 
-    > **Açıklama:** Pac-Man oyunu örneği, transmedya hikâye anlatımı ve markalaşma ilkeleri açısından temel bazı
-    > unsurları vurgulamaktadır. Bunlardan birincisi markanın birden fazla platformda varlık göstermesidir.
-    > Pac-Man’in televizyon, müzik ve ticari ürünler de
-    > dahil olmak üzere çeşitli medyalara yayılması, orijinal video oyunu formatının ötesine geçtiğini göstermektedir. Bu çapraz platform varlığı Pac-Man’in on
-    > yıllar boyunca popülaritesini korumasına ve artırmasına yardımcı olmuştur. İkinci önemli nokta ise
-    > markalaşma sürecindeki tutarlılıkta karşımıza çıkar.
-    > Pac-Man karakteri ve oyunun ayırt edici görsel ve
-    > işitsel unsurları farklı mecralarda tutarlı kalmıştır.
-    > Bu tutarlılık markanın güçlenmesine ve anında tanınabilir olmasına yardımcı olmuştur. Üçüncü nokta
-    > olarak markanın kitle etkileşimini sayabiliriz. PacMan, oyuncu olmayanlar da dahil olmak üzere geniş
-    > bir kitleye hitap eden içerikler yaratarak farklı bir
-    > demografinin ilgisini çekmeyi başarmıştır. Özellikle&lt;br
-    > Pac-Man oyunu örneği, transmedya hikâye anlatımı ve markalaşma ilkeleri açısından temel bazı
-    > unsurları vurgulamaktadır. Bunlardan birincisi markanın birden fazla platformda varlık göstermesidir.
-    > Pac-Man’in televizyon, müzik ve ticari ürünler de
-    > dahil olmak üzere çeşitli medyalara yayılması, orijinal video oyunu formatının ötesine geçtiğini göstermektedir. Bu çapraz platform varlığı Pac-Man’in on
-    > yıllar boyunca popülaritesini korumasına ve artırmasına yardımcı olmuştur. İkinci önemli nokta ise
-    > markalaşma sürecindeki tutarlılıkta karşımıza çıkar.
-    > Pac-Man karakteri ve oyunun ayırt edici görsel ve
-    > işitsel unsurları farklı mecralarda tutarlı kalmıştır.
-    > Bu tutarlılık markanın güçlenmesine ve anında tanınabilir olmasına yardımcı olmuştur. Üçüncü nokta
-    > olarak markanın kitle etkileşimini sayabiliriz. PacMan, oyuncu olmayanlar da dahil olmak üzere geniş
-    > bir kitleye hitap eden içerikler yaratarak farklı bir
-    > demografinin ilgisini çekmeyi başarmıştır. Özellikle
-    > animasyon dizisi ve ticari ürünler, karakteri çocuklar
-    > ve aileler için erişilebilir kılarak hayran kitlesini genişletmiştir.
+    > **Açıklama:** Pac-Man oyunu örneği, transmedya hikâye anlatımı ve markalaşma ilkeleri açısından temel bazı<br />unsurları vurgulamaktadır. Bunlardan birincisi markanın birden fazla platformda varlık göstermesidir.<br />Pac-Man’in televizyon, müzik ve ticari ürünler de<br />dahil olmak üzere çeşitli medyalara yayılması, orijinal video oyunu formatının ötesine geçtiğini göstermektedir. Bu çapraz platform varlığı Pac-Man’in on<br />yıllar boyunca popülaritesini korumasına ve artırmasına yardımcı olmuştur. İkinci önemli nokta ise<br />markalaşma sürecindeki tutarlılıkta karşımıza çıkar.<br />Pac-Man karakteri ve oyunun ayırt edici görsel ve<br />işitsel unsurları farklı mecralarda tutarlı kalmıştır.<br />Bu tutarlılık markanın güçlenmesine ve anında tanınabilir olmasına yardımcı olmuştur. Üçüncü nokta<br />olarak markanın kitle etkileşimini sayabiliriz. PacMan, oyuncu olmayanlar da dahil olmak üzere geniş<br />bir kitleye hitap eden içerikler yaratarak farklı bir<br />demografinin ilgisini çekmeyi başarmıştır. Özellikle&lt;br<br />Pac-Man oyunu örneği, transmedya hikâye anlatımı ve markalaşma ilkeleri açısından temel bazı<br />unsurları vurgulamaktadır. Bunlardan birincisi markanın birden fazla platformda varlık göstermesidir.<br />Pac-Man’in televizyon, müzik ve ticari ürünler de<br />dahil olmak üzere çeşitli medyalara yayılması, orijinal video oyunu formatının ötesine geçtiğini göstermektedir. Bu çapraz platform varlığı Pac-Man’in on<br />yıllar boyunca popülaritesini korumasına ve artırmasına yardımcı olmuştur. İkinci önemli nokta ise<br />markalaşma sürecindeki tutarlılıkta karşımıza çıkar.<br />Pac-Man karakteri ve oyunun ayırt edici görsel ve<br />işitsel unsurları farklı mecralarda tutarlı kalmıştır.<br />Bu tutarlılık markanın güçlenmesine ve anında tanınabilir olmasına yardımcı olmuştur. Üçüncü nokta<br />olarak markanın kitle etkileşimini sayabiliriz. PacMan, oyuncu olmayanlar da dahil olmak üzere geniş<br />bir kitleye hitap eden içerikler yaratarak farklı bir<br />demografinin ilgisini çekmeyi başarmıştır. Özellikle<br />animasyon dizisi ve ticari ürünler, karakteri çocuklar<br />ve aileler için erişilebilir kılarak hayran kitlesini genişletmiştir.
 
     <hr />
 1. 1\. Popüler seriler anlatılarını video oyunları aracılığıyla genişletebilirler.<br />2\. Transmedya hikayelerin bazı parçaları oyunlar üzerinden deneyimlenebilir.<br />3\. Oyunlar, hikayelerin tüketicilerine anlatı sürecinde aktif roller sunarlar.<br />Yukarıda verilen ifadelerden hangisi veya hangileri oyunlar ve transmedya ilişkisi hakkında söylenebilir?
@@ -479,8 +421,7 @@
     - D-) Mass Effect
     - E-) The Witcher
 
-    > **Açıklama:** Konu: Oyunlarda Anlatı Derinliğinin Evrimi
-    > Bu soru, video oyunlarındaki anlatı yapısının teknolojik gelişmelerle nasıl evrildiğini anlamaya yöneliktir. “Space Invaders” (1978) gibi erken dönem oyunlar, temel olarak oyun mekaniğine dayalı, oldukça basit ve sınırlı hikâyelere sahiptir. Bu tür oyunlarda karakter gelişimi, karmaşık olay örgüsü ya da duygusal derinlik bulunmaz. Buna karşılık, teknolojinin ilerlemesiyle birlikte geliştirilen “Final Fantasy”, “Mass Effect”, “The Witcher” ve “The Last of Us” gibi yapımlar; derinlemesine kurgulanmış anlatılar, detaylı karakter gelişimleri ve zengin evrenlerle dikkat çeker. Dolayısıyla “Space Invaders”, anlatı derinliğinin teknolojik gelişmelere paralel olarak arttığı oyunlar arasında yer almaz.
+    > **Açıklama:** Konu: Oyunlarda Anlatı Derinliğinin Evrimi<br />Bu soru, video oyunlarındaki anlatı yapısının teknolojik gelişmelerle nasıl evrildiğini anlamaya yöneliktir. “Space Invaders” (1978) gibi erken dönem oyunlar, temel olarak oyun mekaniğine dayalı, oldukça basit ve sınırlı hikâyelere sahiptir. Bu tür oyunlarda karakter gelişimi, karmaşık olay örgüsü ya da duygusal derinlik bulunmaz. Buna karşılık, teknolojinin ilerlemesiyle birlikte geliştirilen “Final Fantasy”, “Mass Effect”, “The Witcher” ve “The Last of Us” gibi yapımlar; derinlemesine kurgulanmış anlatılar, detaylı karakter gelişimleri ve zengin evrenlerle dikkat çeker. Dolayısıyla “Space Invaders”, anlatı derinliğinin teknolojik gelişmelere paralel olarak arttığı oyunlar arasında yer almaz.
 
     <hr />
 1. Video oyunlarında anlatı yapısı, teknolojik gelişmelerle birlikte büyük bir dönüşüm geçirmiştir. İlk dönem oyunlarında hikâyeler oldukça basit ve sınırlı iken, günümüzde gelişmiş grafikler, ses tasarımı ve yapay zekâ sayesinde çok katmanlı anlatılar kurgulanabilmektedir. Aşağıdakilerden hangisi, teknolojinin gelişmesiyle birlikte derinleşen hikâye anlatımıyla öne çıkan oyunlardan biri **değildir**?
@@ -490,8 +431,7 @@
     - D-) Mass Effect
     - E-) The Witcher
 
-    > **Açıklama:** Oyunlarda Anlatı ve Transmedya Stratejileri Üzerindeki Etkisi / Oyunlarda Anlatı Derinliğinin Evrimi
-    > Soru video oyunlarındaki anlatı yapısının teknolojiyle gelişimine dayalı olarak sorulmuştur. “Space Invaders” (1978) gibi erken dönem oyunlar, hikâyesi minimal olan ve yalnızca oyun mekaniğine dayalı yapımlardır. Bu tür oyunlarda karakter gelişimi, olay örgüsü veya duygusal derinlik bulunmaz. Buna karşılık, teknolojinin ilerlemesiyle birlikte geliştirilen “Final Fantasy”, “Mass Effect”, “The Witcher” ve “The Last of Us” gibi oyunlar; karmaşık anlatılar, detaylı karakterler ve zengin evrenler sunarak anlatı derinliğini artırmışlardır. Bu nedenle, “Space Invaders” teknolojinin gelişmesiyle birlikte derinleşen hikâye anlatımıyla öne çıkan bir oyun değildir.
+    > **Açıklama:** Oyunlarda Anlatı ve Transmedya Stratejileri Üzerindeki Etkisi / Oyunlarda Anlatı Derinliğinin Evrimi<br />Soru video oyunlarındaki anlatı yapısının teknolojiyle gelişimine dayalı olarak sorulmuştur. “Space Invaders” (1978) gibi erken dönem oyunlar, hikâyesi minimal olan ve yalnızca oyun mekaniğine dayalı yapımlardır. Bu tür oyunlarda karakter gelişimi, olay örgüsü veya duygusal derinlik bulunmaz. Buna karşılık, teknolojinin ilerlemesiyle birlikte geliştirilen “Final Fantasy”, “Mass Effect”, “The Witcher” ve “The Last of Us” gibi oyunlar; karmaşık anlatılar, detaylı karakterler ve zengin evrenler sunarak anlatı derinliğini artırmışlardır. Bu nedenle, “Space Invaders” teknolojinin gelişmesiyle birlikte derinleşen hikâye anlatımıyla öne çıkan bir oyun değildir.
 
     <hr />
 ## Unite 5
@@ -603,8 +543,7 @@
     - D-) Storyboard
     - E-) Dijital medya
 
-    > **Açıklama:** **Transmedya,** hikâye anlatımının ve içeriğin farklı medya platformları üzerinden genişletilmesi
-    > ve entegre edilmesi anlamına gelir.
+    > **Açıklama:** **Transmedya,** hikâye anlatımının ve içeriğin farklı medya platformları üzerinden genişletilmesi<br />ve entegre edilmesi anlamına gelir.
 
     <hr />
 1. Aşağıdakilerden hangisi *Eğitsel Transmedya Projeleri Geliştirmede Tasarım İlkelerinden* **değildir?**
@@ -614,8 +553,7 @@
     - D-) Esneklik ve uyarlanabilirlik
     - **Cevap E-) Konsept geliştirme**
 
-    > **Açıklama:** Eğitsel Transmedya Projeleri Geliştirmede Tasarım İlkeleri sayfa 160 detaylı bkz.
-    > Konsept geliştirme
+    > **Açıklama:** Eğitsel Transmedya Projeleri Geliştirmede Tasarım İlkeleri sayfa 160 detaylı bkz.<br />Konsept geliştirme
 
     <hr />
 1. İnteraktif ve çok platformlu doğası nedeniyle, transmedya projeleri öğrencilerin motivasyonunu artırma eğilimindedir. Bu teoriye göre, ***öğrenenlerin kendi öğrenme süreçlerini yönetmelerine olanak tanır, böylece öğrenen özerkliğini destekler.*** Bu teori aşağıdakilerden hangisidir?
@@ -635,13 +573,7 @@
     - D-) İletişim becerilerinin geliştirilmesi,
     - **Cevap E-) Dijital Öğrenme**
 
-    > **Açıklama:** Transmedya eğitimin özel eğitim alanındaki uygulamaları;
-    > • Çoklu duyusal öğrenme,
-    > • Bireyselleştirilmiş öğrenme,
-    > • Motivasyon ve katılım,
-    > • İletişim becerilerinin geliştirilmesi,
-    > • Sosyal etkileşim sağlanmasında faydalıdır.
-    > Dijital Öğrenme
+    > **Açıklama:** Transmedya eğitimin özel eğitim alanındaki uygulamaları;<br />• Çoklu duyusal öğrenme,<br />• Bireyselleştirilmiş öğrenme,<br />• Motivasyon ve katılım,<br />• İletişim becerilerinin geliştirilmesi,<br />• Sosyal etkileşim sağlanmasında faydalıdır.<br />Dijital Öğrenme
 
     <hr />
 1. Transmedya projeleri farklı özel gereksinim durumlarındaki bireylerin eğitimleri için farklı şekillerde kullanılabilir. Aşağıdakilerden hangisi fiziksel engelli öğrenciler için kullanılan eğitimlerdendir?
@@ -651,13 +583,7 @@
     - **Cevap D-) Titreşim bazlı geri bildirim sağlayan interaktif uygulamalar**
     - E-) Duygusal ifadeleri tanımayı geliştiren mimik tanıma tabanlı dijital oyunlar
 
-    > **Açıklama:** Fiziksel engelli öğrenciler için:
-    > • Göz izleme teknolojisi veya ses kontrolü ile yönetilebilen interaktif uygulamalar
-    > geliştirilebilir.
-    > • Sanal gerçeklik ve artırılmış gerçeklik uygulamaları ile fiziksel olarak erişilemeyen
-    > deneyimler sağlanabilir.
-    > • Uyarlanabilir giriş cihazları kullanılarak çeşitli dijital içeriklerle etkileşim kurulabilir.
-    > Titreşim bazlı geri bildirim sağlayan interaktif uygulamalar
+    > **Açıklama:** Fiziksel engelli öğrenciler için:<br />• Göz izleme teknolojisi veya ses kontrolü ile yönetilebilen interaktif uygulamalar<br />geliştirilebilir.<br />• Sanal gerçeklik ve artırılmış gerçeklik uygulamaları ile fiziksel olarak erişilemeyen<br />deneyimler sağlanabilir.<br />• Uyarlanabilir giriş cihazları kullanılarak çeşitli dijital içeriklerle etkileşim kurulabilir.<br />Titreşim bazlı geri bildirim sağlayan interaktif uygulamalar
 
     <hr />
 1. Aşağıdakilerden hangisinde Transmedya eğitim uygulamaları kullanılmaz?
@@ -667,8 +593,7 @@
     - D-) Turizm sektöründe
     - **Cevap E-) Oyun tasarımlarının pazarlanmasında**
 
-    > **Açıklama:** Transmedya eğitim uygulamaları ayrıca farkındalık yaratma ve topluluk katılımı için Sivil Toplum Kuruluşlarında, transmedya dijital okuryazarlık programları ve interaktif hikâye anlatımı etkinlikleri için kütüphanelerde, çalışan eğitimi ve kurumsal sosyal sorumluluk projeleri için şirketlerde, destinasyon pazarlaması ve kültürel deneyim sunumu için turizm sektöründe, vatandaş katılımı ve topluluk eğitimi projeleri için yerel yönetimlerde, interaktif sergi deneyimleri ve sanat eğitimi programları gibi sanata yönelik olarak kullanılmaktadırlar.
-    > Oyun tasarımlarının pazarlanmasında
+    > **Açıklama:** Transmedya eğitim uygulamaları ayrıca farkındalık yaratma ve topluluk katılımı için Sivil Toplum Kuruluşlarında, transmedya dijital okuryazarlık programları ve interaktif hikâye anlatımı etkinlikleri için kütüphanelerde, çalışan eğitimi ve kurumsal sosyal sorumluluk projeleri için şirketlerde, destinasyon pazarlaması ve kültürel deneyim sunumu için turizm sektöründe, vatandaş katılımı ve topluluk eğitimi projeleri için yerel yönetimlerde, interaktif sergi deneyimleri ve sanat eğitimi programları gibi sanata yönelik olarak kullanılmaktadırlar.<br />Oyun tasarımlarının pazarlanmasında
 
     <hr />
 1. Aşağıdakilerden hangisi, “Transmedya projeleri için öğretmen eğitiminin temel bileşenleri ve güncel araçların kullanımındaki” içeriklerden **değildir?**
@@ -678,8 +603,7 @@
     - D-) Veri analizi ve öğrenme analitiği
     - E-) Proje tabanlı öğrenme ve yönetimi
 
-    > **Açıklama:** “Transmedya projeleri için öğretmen eğitiminin temel bileşenleri ve güncel araçların kullanımındaki” içerikleri sayfa 168 bkz.
-    > Kalite yönetimi ve değerlendirme.
+    > **Açıklama:** “Transmedya projeleri için öğretmen eğitiminin temel bileşenleri ve güncel araçların kullanımındaki” içerikleri sayfa 168 bkz.<br />Kalite yönetimi ve değerlendirme.
 
     <hr />
 1. Aşağıdakilerden hangisi Transmedya ile Eğitimde Ölçme-Değerlendirme Yöntemleri arasında **değildir?**
@@ -689,8 +613,7 @@
     - D-) Portfolyo değerlendirmesi
     - E-) Performans değerlendirmesi
 
-    > **Açıklama:** Trasnmedya ile Eğitimde Ölçme-Değerlendirme Yöntemleri için sayfa 170-171 detaylı bkz.
-    > Demografik anket değerlendirmesi
+    > **Açıklama:** Trasnmedya ile Eğitimde Ölçme-Değerlendirme Yöntemleri için sayfa 170-171 detaylı bkz.<br />Demografik anket değerlendirmesi
 
     <hr />
 1. Öğrencilerin proje boyunca gösterdikleri katılım ve etkinliği ölçerek, süreç odaklı bir yaklaşımın benimsenmesine olanak tanıyan ***Ölçme-Değerlendirme Yöntemi*** aşağıdakilerden hangisidir?
@@ -700,10 +623,7 @@
     - **Cevap D-) Performans değerlendirmesi**
     - E-) Adaptif değerlendirme
 
-    > **Açıklama:** Performans değerlendirmesi ise öğrencilerin proje boyunca gösterdikleri katılım ve etkinliği ölçer;
-    > bu da süreç odaklı bir yaklaşımın benimsenmesine olanak tanır. Örneğin bir çevre bilinci projesinde
-    > öğrencilerin sosyal medya kampanyası yürütme, topluluk etkinlikleri düzenleme ve veri toplama gibi
-    > faaliyetlerdeki performansları değerlendirilebilir.
+    > **Açıklama:** Performans değerlendirmesi ise öğrencilerin proje boyunca gösterdikleri katılım ve etkinliği ölçer;<br />bu da süreç odaklı bir yaklaşımın benimsenmesine olanak tanır. Örneğin bir çevre bilinci projesinde<br />öğrencilerin sosyal medya kampanyası yürütme, topluluk etkinlikleri düzenleme ve veri toplama gibi<br />faaliyetlerdeki performansları değerlendirilebilir.
 
     <hr />
 1. Sağlıktan dil eğitimine kadar geniş bir yelpazede kullanılabilecek olan kısa, odaklanmış öğrenme deneyimlerini, öğrenme materyalleri, farklı medya kanalları aracılığıyla bütünleşik bir hikâye olarak sunan bu kullanım, zaman ve mekân sınırlamalarını aşabilme, yaşam boyu öğrenme ve anlık bilgi edinme ihtiyaçlarına cevap verme potansiyeline sahip, Transmedya ile eğitimde güncel eğilimler ve geleceğe yönelik öngörü aşağıdakilerden hangisidir?
@@ -713,8 +633,7 @@
     - D-) Sosyal Medya ve İş Birlikçi Öğrenme Platformları
     - E-) Açık Eğitim Kaynakları ve Transmedya
 
-    > **Açıklama:** **Mobil Öğrenme ve Mikro-Öğrenme**
-    > Sağlıktan dil eğitimine kadar geniş bir yelpazede kullanılabilecek olan kısa, odaklanmış öğrenme deneyimleri sunan Transmedya projeleri mobil cihazlar üzerinden kullanılacak uygulamalar olarak geliştirilebilmektedir. Öğrenme materyalleri, farklı medya kanalları aracılığıyla bütünleşik bir hikâye olarak sunulabilmektedir. Bu kullanım, zaman ve mekân sınırlamalarını aşabilme, yaşam boyu öğrenme ve anlık bilgi edinme ihtiyaçlarına cevap verme potansiyeline sahiptir.
+    > **Açıklama:** **Mobil Öğrenme ve Mikro-Öğrenme**<br />Sağlıktan dil eğitimine kadar geniş bir yelpazede kullanılabilecek olan kısa, odaklanmış öğrenme deneyimleri sunan Transmedya projeleri mobil cihazlar üzerinden kullanılacak uygulamalar olarak geliştirilebilmektedir. Öğrenme materyalleri, farklı medya kanalları aracılığıyla bütünleşik bir hikâye olarak sunulabilmektedir. Bu kullanım, zaman ve mekân sınırlamalarını aşabilme, yaşam boyu öğrenme ve anlık bilgi edinme ihtiyaçlarına cevap verme potansiyeline sahiptir.
 
     <hr />
 ## Unite 7

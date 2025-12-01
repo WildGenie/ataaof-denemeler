@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kompozisyon Bilgileri başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 1"
+        "Aciklama": "Kompozisyon Bilgileri başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 1"
     },
     {
         "SoruID": 3257466,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazılı Kompozisyon Oluşturulması – Konu başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "Yazılı Kompozisyon Oluşturulması – Konu başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3257468,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazılı Kompozisyon Oluşturulması – Konu başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "Yazılı Kompozisyon Oluşturulması – Konu başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3257474,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<em>Paragrafta Anlatım Biçimleri başlığı altındaki bilgileri gözden geçiriniz.</em><br><em>Amaç 3</em>"
+        "Aciklama": "<em>Paragrafta Anlatım Biçimleri başlığı altındaki bilgileri gözden geçiriniz.</em><br/><em>Amaç 3</em>"
     },
     {
         "SoruID": 3257476,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<em>Paragrafta Anlatım Biçimleri başlığı altındaki bilgileri gözden geçiriniz.</em><br><em>Amaç 3</em>"
+        "Aciklama": "<em>Paragrafta Anlatım Biçimleri başlığı altındaki bilgileri gözden geçiriniz.</em><br/><em>Amaç 3</em>"
     },
     {
         "SoruID": 3257479,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong><em>Yazılı Kompozisyon Oluşturulması – Konu başlığı altındaki bilgileri gözden geçiriniz.</em></strong><br><strong><em>Amaç 2 </em></strong>"
+        "Aciklama": "<strong><em>Yazılı Kompozisyon Oluşturulması – Konu başlığı altındaki bilgileri gözden geçiriniz.</em></strong><br/><strong><em>Amaç 2 </em></strong>"
     },
     {
         "SoruID": 3257481,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong><em>Dil Becerileri ve Bilgi Donanımı” başlığı altındaki bilgileri gözden geçiriniz. </em></strong><br><strong><em>Amaç 1</em></strong><br/>Yalnızca konuşmaları dinlemeyiz. Anlamsız gelen sesler de dinlenir. Kulaklarınızı tıkamıyorsanız ya da işitme sorununuz yoksa ilk edinilen dil becerisi dinlemedir.<br/>Sorularınız, ders kitabımızda verilen bilgilere göre düzenlenmiştir. (bkz. Bölüm 1, sayfa 5)<br/>Kitaptaki bilgilere güvenmiyorsanız, kitabın yazarlarıyla iletişime geçiniz."
+        "Aciklama": "<strong><em>Dil Becerileri ve Bilgi Donanımı” başlığı altındaki bilgileri gözden geçiriniz. </em></strong><br/><strong><em>Amaç 1</em></strong><br/>Yalnızca konuşmaları dinlemeyiz. Anlamsız gelen sesler de dinlenir. Kulaklarınızı tıkamıyorsanız ya da işitme sorununuz yoksa ilk edinilen dil becerisi dinlemedir.<br/>Sorularınız, ders kitabımızda verilen bilgilere göre düzenlenmiştir. (bkz. Bölüm 1, sayfa 5)<br/>Kitaptaki bilgilere güvenmiyorsanız, kitabın yazarlarıyla iletişime geçiniz."
     },
     {
         "SoruID": 3257483,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong><em>Yazılı Kompozisyonun Oluşturulması başlığı altındaki bilgileri gözden geçiriniz.</em></strong><br><strong><em>Amaç 2</em></strong>"
+        "Aciklama": "<strong><em>Yazılı Kompozisyonun Oluşturulması başlığı altındaki bilgileri gözden geçiriniz.</em></strong><br/><strong><em>Amaç 2</em></strong>"
     },
     {
         "SoruID": 3257507,
@@ -2097,7 +2097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kompozisyonla ilgili genel bilgileri açıklayabileceksiniz.<br>Konuşmanın inceliklerini yazıya aktarmak ve verilen iletiyi eksiksiz ve doğru olarak okura ulaştırabilmek için yazılı anlatımda birtakım işaretlere gereksinim duyulur. Yazılı anlatımda okumayı ve anlamayı kolaylaştıran, yazarın okura aktarmak istediği düşünce ya da duygunun doğru ulaşmasına yardımcı olan, sözün vurgu ve ton gibi özelliklerini belirten bu işaretlere noktalama işaretleri denir."
+        "Aciklama": "Kompozisyonla ilgili genel bilgileri açıklayabileceksiniz.<br/>Konuşmanın inceliklerini yazıya aktarmak ve verilen iletiyi eksiksiz ve doğru olarak okura ulaştırabilmek için yazılı anlatımda birtakım işaretlere gereksinim duyulur. Yazılı anlatımda okumayı ve anlamayı kolaylaştıran, yazarın okura aktarmak istediği düşünce ya da duygunun doğru ulaşmasına yardımcı olan, sözün vurgu ve ton gibi özelliklerini belirten bu işaretlere noktalama işaretleri denir."
     },
     {
         "SoruID": 3258237,
@@ -2117,7 +2117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kompozisyonla ilgili genel bilgileri açıklayabileceksiniz.<br>Günümüzde kullandığımız noktalama işaretlerinin birçoğu, yazı dilimize Batı’dan, Tanzimat döneminde geçmiştir. Bu işaretleri bizde ilk olarak Şinasi, Şair Evlenmesi (1859) adlı tiyatro eserinde kullanmıştır. Bilindiği gibi bu eser, aynı zamanda basılı ilk Türkçe tiyatro eseri olma özelliği taşımaktadır."
+        "Aciklama": "Kompozisyonla ilgili genel bilgileri açıklayabileceksiniz.<br/>Günümüzde kullandığımız noktalama işaretlerinin birçoğu, yazı dilimize Batı’dan, Tanzimat döneminde geçmiştir. Bu işaretleri bizde ilk olarak Şinasi, Şair Evlenmesi (1859) adlı tiyatro eserinde kullanmıştır. Bilindiği gibi bu eser, aynı zamanda basılı ilk Türkçe tiyatro eseri olma özelliği taşımaktadır."
     },
     {
         "SoruID": 3258705,
@@ -2177,7 +2177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazılı anlatımda okumayı ve anlamayı kolaylaştıran, yazarın okura aktarmak istediği düşünce ya da duygunun doğru ulaşmasına yardımcı olan, sözün<br/>vurgu ve ton gibi özelliklerini belirten bu işaretlere noktalama işaretleri denir.<br>Sözün hangi bölgeye ait olduğunu gösterir."
+        "Aciklama": "Yazılı anlatımda okumayı ve anlamayı kolaylaştıran, yazarın okura aktarmak istediği düşünce ya da duygunun doğru ulaşmasına yardımcı olan, sözün<br/>vurgu ve ton gibi özelliklerini belirten bu işaretlere noktalama işaretleri denir.<br/>Sözün hangi bölgeye ait olduğunu gösterir."
     },
     {
         "SoruID": 3257383,
@@ -2217,7 +2217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Günümüz Türk yazı dilinde elli kadar noktalama işareti kullanılmaktadır.<br>50"
+        "Aciklama": "Günümüz Türk yazı dilinde elli kadar noktalama işareti kullanılmaktadır.<br/>50"
     },
     {
         "SoruID": 3257388,
@@ -2237,7 +2237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cümlede kelime öbeklerini belirginleştirmek için virgül kullanılır.<br>Cümlede kelime öbeklerini belirginleştirmek için kullanılır."
+        "Aciklama": "Cümlede kelime öbeklerini belirginleştirmek için virgül kullanılır.<br/>Cümlede kelime öbeklerini belirginleştirmek için kullanılır."
     },
     {
         "SoruID": 3257390,
@@ -2257,7 +2257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Rakamların yazımında kesirleri göstermek için virgül kullanılır.<br>Rakamların yazımında kesirleri göstermek için kullanılır."
+        "Aciklama": "Rakamların yazımında kesirleri göstermek için virgül kullanılır.<br/>Rakamların yazımında kesirleri göstermek için kullanılır."
     },
     {
         "SoruID": 3257392,
@@ -2277,7 +2277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünlem ve soru işaretinden sonra anlatımı pekiştirmek için üç nokta konur.<br>Ünlem ve soru işaretinden sonra anlatımı pekiştirmek için konur."
+        "Aciklama": "Ünlem ve soru işaretinden sonra anlatımı pekiştirmek için üç nokta konur.<br/>Ünlem ve soru işaretinden sonra anlatımı pekiştirmek için konur."
     },
     {
         "SoruID": 3257394,
@@ -2897,7 +2897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Noktalı virgül, başlığı altındaki bilgileri gözden geçiriniz.<br>Doğru yanıt \"B\" seçeneğidir.<br/>Tırnak, ünlem, soru işareti, noktalı virgül başlıkları altındaki bilgileri gözden geçiriniz.<br/><strong>Bir öğrenci yazmış: </strong>Sorunun doğru cevabı \"a\" şıkkı olmalıydı, birçok soruda çeşitli hatalar mevcut ve bu uzun zamandır böyle; sanki hiç kontrol edilmiyormuşçasına hem de!..<br/><strong> Öğrenciye verilen yanıt:</strong><br/><ol><br/><li>Sizin dediğinizi seçersek (5) yerine (,) kullanılması gerek. Neden virgül (,) değil de noktalı virgül (;) kullanılması gerektiğini, ders kitabınızın 31. ile 34. sayfaları arasındaki bilgileri gözden geçirerek anlayabilirsiniz. Yine de açıklıyorum: Virgül, <strong>cümlede kelime öbeklerini belirginleştirmek için kullanılır (s. 31)</strong>. Verilen, “Gülümsediğimi gösteren bir ayna olsaydı; biraz da ışık.” cümlesinde sözcük öbekleri belirginleştirilmek istenmiyor. Noktalama işareti istenilen yerin öncesinde bir cümle var. Cümle, “olsaydı” diye bitiyor. Noktalı virgül kullanılarak, daha sonra gelen “biraz da ışık (olsaydı)” sözleriyle tek bir cümle kuruluyor. (Yazar, aynı eylemi yinelemekten kurtuluyor böylece.) Aralarında anlamca ilişki bulunan, cümlelerin arasına virgül konulmaz. Bu cümleler arasında <strong>noktalı virgül (;) </strong>kullanılır.</li><br/><li>Sizin, ”hata” dedikleriniz bilgi eksikliklerinizden kaynaklanıyor. Noktalama işaretleriyle ilgili bölümü daha dikkatli okuyunuz.</li><br/><li>Soruların denetlenmesine ilişkin kaygılarınız yersiz.</li><br/><li>İki satırlık kısacık yazınızda bile birçok noktalama yanlışı var. Anlatım bozukluğu da var.</li><br/></ol><br/>Öğrenci yanılıyor. Doğru cevap a seçeneği değildir!<br/><strong>Bir öğrenci yazmış: </strong>Açıklama yeterli değil.<br/><strong>Yanıt:</strong><br/>Yeterli açıklamayı ders kitabınızın ilgili bölümünde bulabilirsiniz. Her sorunun sonunda gözden geçirmeniz gereken konu, sayfa numaralarıyla birlikte verilmektedir.<br/><strong>Bir öğrenci yazmış: </strong>Yazar metninde öyle kullanmışsa da, bu iki cümle arasında noktalı virgül (;) kullanımı gerekmez.<br/><ol><br/><li>Yargınız dayanaksız.</li><br/><li>Neden noktalı virgül (;) kullanılması gerektiğini ders kitabınızın 33. ile 34. sayfaları arasındaki bilgileri gözden geçirerek anlayabilirsiniz. Yine de açıklıyorum: Noktalama işareti istenilen yerin öncesinde bir cümle var. Cümle, “olsaydı” diye bitiyor. Noktalı virgül kullanılarak, daha sonra gelen “biraz da ışık (olsaydı)” sözleriyle tek bir cümle kuruluyor. (Yazar, aynı eylemi yinelemekten kurtuluyor böylece.) Aralarında anlamca ilişki bulunan, cümleler arasında <strong>noktalı virgül (;) </strong>kullanılır.</li><br/><li>Kısacık cümlenizde bile hem anlatım bozukluğu hem de noktalama yanlışı var. Eksiklerinizi, ders kitabınızı daha iyi okuyarak giderebilirsiniz.</li><br/></ol><br/>Ders kitaplarıyla özetlere ilişkin soru(n)larınızı, kitapların yazarlarına iletebilirsiniz."
+        "Aciklama": "Noktalı virgül, başlığı altındaki bilgileri gözden geçiriniz.<br/>Doğru yanıt \"B\" seçeneğidir.<br/>Tırnak, ünlem, soru işareti, noktalı virgül başlıkları altındaki bilgileri gözden geçiriniz.<br/><strong>Bir öğrenci yazmış: </strong>Sorunun doğru cevabı \"a\" şıkkı olmalıydı, birçok soruda çeşitli hatalar mevcut ve bu uzun zamandır böyle; sanki hiç kontrol edilmiyormuşçasına hem de!..<br/><strong> Öğrenciye verilen yanıt:</strong><br/><ol><br/><li>Sizin dediğinizi seçersek (5) yerine (,) kullanılması gerek. Neden virgül (,) değil de noktalı virgül (;) kullanılması gerektiğini, ders kitabınızın 31. ile 34. sayfaları arasındaki bilgileri gözden geçirerek anlayabilirsiniz. Yine de açıklıyorum: Virgül, <strong>cümlede kelime öbeklerini belirginleştirmek için kullanılır (s. 31)</strong>. Verilen, “Gülümsediğimi gösteren bir ayna olsaydı; biraz da ışık.” cümlesinde sözcük öbekleri belirginleştirilmek istenmiyor. Noktalama işareti istenilen yerin öncesinde bir cümle var. Cümle, “olsaydı” diye bitiyor. Noktalı virgül kullanılarak, daha sonra gelen “biraz da ışık (olsaydı)” sözleriyle tek bir cümle kuruluyor. (Yazar, aynı eylemi yinelemekten kurtuluyor böylece.) Aralarında anlamca ilişki bulunan, cümlelerin arasına virgül konulmaz. Bu cümleler arasında <strong>noktalı virgül (;) </strong>kullanılır.</li><br/><li>Sizin, ”hata” dedikleriniz bilgi eksikliklerinizden kaynaklanıyor. Noktalama işaretleriyle ilgili bölümü daha dikkatli okuyunuz.</li><br/><li>Soruların denetlenmesine ilişkin kaygılarınız yersiz.</li><br/><li>İki satırlık kısacık yazınızda bile birçok noktalama yanlışı var. Anlatım bozukluğu da var.</li><br/></ol><br/>Öğrenci yanılıyor. Doğru cevap a seçeneği değildir!<br/><strong>Bir öğrenci yazmış: </strong>Açıklama yeterli değil.<br/><strong>Yanıt:</strong><br/>Yeterli açıklamayı ders kitabınızın ilgili bölümünde bulabilirsiniz. Her sorunun sonunda gözden geçirmeniz gereken konu, sayfa numaralarıyla birlikte verilmektedir.<br/><strong>Bir öğrenci yazmış: </strong>Yazar metninde öyle kullanmışsa da, bu iki cümle arasında noktalı virgül (;) kullanımı gerekmez.<br/><ol><br/><li>Yargınız dayanaksız.</li><br/><li>Neden noktalı virgül (;) kullanılması gerektiğini ders kitabınızın 33. ile 34. sayfaları arasındaki bilgileri gözden geçirerek anlayabilirsiniz. Yine de açıklıyorum: Noktalama işareti istenilen yerin öncesinde bir cümle var. Cümle, “olsaydı” diye bitiyor. Noktalı virgül kullanılarak, daha sonra gelen “biraz da ışık (olsaydı)” sözleriyle tek bir cümle kuruluyor. (Yazar, aynı eylemi yinelemekten kurtuluyor böylece.) Aralarında anlamca ilişki bulunan, cümleler arasında <strong>noktalı virgül (;) </strong>kullanılır.</li><br/><li>Kısacık cümlenizde bile hem anlatım bozukluğu hem de noktalama yanlışı var. Eksiklerinizi, ders kitabınızı daha iyi okuyarak giderebilirsiniz.</li><br/></ol><br/>Ders kitaplarıyla özetlere ilişkin soru(n)larınızı, kitapların yazarlarına iletebilirsiniz."
     },
     {
         "SoruID": 3257972,
@@ -2917,7 +2917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Virgül, başlığı altındaki bilgileri gözden geçiriniz.<br>Virgül (,), kesme (’), virgül (,), kesme (’), nokta (.)<br/>Özneden sonra virgül (,) kullanılır."
+        "Aciklama": "Virgül, başlığı altındaki bilgileri gözden geçiriniz.<br/>Virgül (,), kesme (’), virgül (,), kesme (’), nokta (.)<br/>Özneden sonra virgül (,) kullanılır."
     },
     {
         "SoruID": 3257974,
@@ -2937,7 +2937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uzun çizgi, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "Uzun çizgi, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3257976,
@@ -2957,7 +2957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uzun çizgi, başlığı altındaki bilgileri gözden geçiriniz.<br>Virgül (,), nokta (.), uzun çizgi (—), soru (?), nokta (.)"
+        "Aciklama": "Uzun çizgi, başlığı altındaki bilgileri gözden geçiriniz.<br/>Virgül (,), nokta (.), uzun çizgi (—), soru (?), nokta (.)"
     },
     {
         "SoruID": 3257977,
@@ -2977,7 +2977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İki nokta, başlığı altındaki bilgileri gözden geçiriniz.<br>İki nokta üst üste, ünlem, noktalı virgül başlıkları altındaki bilgileri gözden geçiriniz."
+        "Aciklama": "İki nokta, başlığı altındaki bilgileri gözden geçiriniz.<br/>İki nokta üst üste, ünlem, noktalı virgül başlıkları altındaki bilgileri gözden geçiriniz."
     },
     {
         "SoruID": 3257978,
@@ -2997,7 +2997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ayraç, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "Ayraç, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3257979,
@@ -3017,7 +3017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Üç nokta, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "Üç nokta, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3258017,
@@ -3197,7 +3197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "2. Rakamlardan sonra konursa sıra sayı sıfatlarını türetir; yani -ncI eki yerine<br/>geçer.<br/>67. Dil Bayramı, İstanbul’da Yıldız Teknik Üniversitesi’nce önemli bir toplantıyla kutlandı. (Oktay Akbal, Yazar Bir Tanıktır)<br>-ncI eki yerine kullanmak"
+        "Aciklama": "2. Rakamlardan sonra konursa sıra sayı sıfatlarını türetir; yani -ncI eki yerine<br/>geçer.<br/>67. Dil Bayramı, İstanbul’da Yıldız Teknik Üniversitesi’nce önemli bir toplantıyla kutlandı. (Oktay Akbal, Yazar Bir Tanıktır)<br/>-ncI eki yerine kullanmak"
     },
     {
         "SoruID": 3258038,
@@ -3217,7 +3217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Matematikte çarpma işlemi işareti olarak nokta kullanılır.<br/>2 . 3 = 6<br>Matematikte çarpma işlemi işareti olarak kullanılır."
+        "Aciklama": "Matematikte çarpma işlemi işareti olarak nokta kullanılır.<br/>2 . 3 = 6<br/>Matematikte çarpma işlemi işareti olarak kullanılır."
     },
     {
         "SoruID": 3258039,
@@ -3297,7 +3297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "2. Cümlede özellikle vurgulanan unsurlar tırnak içinde verilebilir.<br/>Nitekim, aklın ilk kez Batı’da pırıl pırıl göründüğü Eski Yunan çağında, “akıl” anlamına gelen “logos” sözcüğü olanca kuşatımıyla, aynı zamanda “dil” anlamına gelir.<br/>(Nermi Uygur, “İçi Dışıyla Batı’nın Kültür Dünyası”)<br>Tırnak işareti"
+        "Aciklama": "2. Cümlede özellikle vurgulanan unsurlar tırnak içinde verilebilir.<br/>Nitekim, aklın ilk kez Batı’da pırıl pırıl göründüğü Eski Yunan çağında, “akıl” anlamına gelen “logos” sözcüğü olanca kuşatımıyla, aynı zamanda “dil” anlamına gelir.<br/>(Nermi Uygur, “İçi Dışıyla Batı’nın Kültür Dünyası”)<br/>Tırnak işareti"
     },
     {
         "SoruID": 3258043,
@@ -3317,7 +3317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilimsel yazılarda kaynakça yazımında yay ayraç kullanılır.<br>Saat ve saniyeyi ayırmada eğik çizgi kullanılmaz."
+        "Aciklama": "Bilimsel yazılarda kaynakça yazımında yay ayraç kullanılır.<br/>Saat ve saniyeyi ayırmada eğik çizgi kullanılmaz."
     },
     {
         "SoruID": 3258045,
@@ -3357,7 +3357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazık oldu aslan gibi delikanlıya, billâhi... Çok yazık oldu! (Sabahattin Ali, Kuyucaklı Yusuf)<br>Ünlem"
+        "Aciklama": "Yazık oldu aslan gibi delikanlıya, billâhi... Çok yazık oldu! (Sabahattin Ali, Kuyucaklı Yusuf)<br/>Ünlem"
     },
     {
         "SoruID": 3258048,
@@ -3377,7 +3377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kelimeleri hecelerine ayırırken kullanılır.<br/>ge-li-yo-rum, sa-tı-cı-lar-da-ki gibi<br>Kelimeleri hecelerine ayırmak"
+        "Aciklama": "Kelimeleri hecelerine ayırırken kullanılır.<br/>ge-li-yo-rum, sa-tı-cı-lar-da-ki gibi<br/>Kelimeleri hecelerine ayırmak"
     },
     {
         "SoruID": 3258088,
@@ -3597,7 +3597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Noktalama işaretlerinin kullanım amaçlarını açıklayabileceksiniz.<br>II. ve III. kullanım virgülün doğru kullanımıdır ancak I. kullanım iki noktanın kullanımını açıklamaktadır."
+        "Aciklama": "Noktalama işaretlerinin kullanım amaçlarını açıklayabileceksiniz.<br/>II. ve III. kullanım virgülün doğru kullanımıdır ancak I. kullanım iki noktanın kullanımını açıklamaktadır."
     },
     {
         "SoruID": 3258245,
@@ -3617,7 +3617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Noktalama işaretlerinin kullanım amaçlarını açıklayabileceksiniz.<br>İki nokta kullanılmıştır."
+        "Aciklama": "Noktalama işaretlerinin kullanım amaçlarını açıklayabileceksiniz.<br/>İki nokta kullanılmıştır."
     },
     {
         "SoruID": 3258246,
@@ -3637,7 +3637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Noktalama işaretlerinin kullanım amaçlarını açıklayabileceksiniz.<br>Üç seçenekte ünlem işaretinin kullanıldığı durumlardır.<br/>1.Bunlar beni delirtecekler yahu!<br/>2. Ordular! İlk hedefiniz Akdeniz’dir, ileri!<br/>3. Doğru! Bence de halkın dili yazarlarımızın dilinden daha zengindir, hele edebiyat<br/>türüne giren eserler için."
+        "Aciklama": "Noktalama işaretlerinin kullanım amaçlarını açıklayabileceksiniz.<br/>Üç seçenekte ünlem işaretinin kullanıldığı durumlardır.<br/>1.Bunlar beni delirtecekler yahu!<br/>2. Ordular! İlk hedefiniz Akdeniz’dir, ileri!<br/>3. Doğru! Bence de halkın dili yazarlarımızın dilinden daha zengindir, hele edebiyat<br/>türüne giren eserler için."
     },
     {
         "SoruID": 3258599,
@@ -4097,7 +4097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazım Kuralları – Büyük Harf Kullanımı<br>Meslek Liseleri’nde değil Meslek liselerinde ...<br/>İzmirde değil İzmir'de ...<br/>Resmi gazetede değil Resmi Gazete'de<br/>Yurdumuzun Doğusu’nda değil Yurdumuzun doğusunda olmalıdır.<br/>B seçeneğinde yazım yanlışı yoktur."
+        "Aciklama": "Yazım Kuralları – Büyük Harf Kullanımı<br/>Meslek Liseleri’nde değil Meslek liselerinde ...<br/>İzmirde değil İzmir'de ...<br/>Resmi gazetede değil Resmi Gazete'de<br/>Yurdumuzun Doğusu’nda değil Yurdumuzun doğusunda olmalıdır.<br/>B seçeneğinde yazım yanlışı yoktur."
     },
     {
         "SoruID": 3256934,
@@ -4117,7 +4117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İkilemelerin Yazımı<br><strong>:</strong>Bütün ikilemeler ayrı ve araya herhangi bir noktalama işareti konulmadan yazılır. Pekiştirme sözcükleri ise bitişik yazılır. Pisi pisine ikilemedir; diğerleri pekiştirme sözcükleridir."
+        "Aciklama": "İkilemelerin Yazımı<br/><strong>:</strong>Bütün ikilemeler ayrı ve araya herhangi bir noktalama işareti konulmadan yazılır. Pekiştirme sözcükleri ise bitişik yazılır. Pisi pisine ikilemedir; diğerleri pekiştirme sözcükleridir."
     },
     {
         "SoruID": 3256935,
@@ -4137,7 +4137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı<br>‘’ki’’ aitlik eki olduğu zaman bitişik, bağlaç ise ayrı yazılır."
+        "Aciklama": "Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı<br/>‘’ki’’ aitlik eki olduğu zaman bitişik, bağlaç ise ayrı yazılır."
     },
     {
         "SoruID": 3256937,
@@ -4157,7 +4157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı<br>Hal eki olarak bulunma anlamı veren ‘’ de’’ bitişik yazılırken, bağlaç olan ‘’de’’ ayrı yazılır. Bunu uygulamanın en kısa yolu hal ekini cümleden çıkardığımızda anlam bozulurken bağlaç olanı çıkardığımızda anlam bozulmamaktadır."
+        "Aciklama": "Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı<br/>Hal eki olarak bulunma anlamı veren ‘’ de’’ bitişik yazılırken, bağlaç olan ‘’de’’ ayrı yazılır. Bunu uygulamanın en kısa yolu hal ekini cümleden çıkardığımızda anlam bozulurken bağlaç olanı çıkardığımızda anlam bozulmamaktadır."
     },
     {
         "SoruID": 3256938,
@@ -4177,7 +4177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Soru Ekinin yazımı<br>Soru eki olan ‘’mi’’ ayrı yazılır, ancak bunun yanında ‘’mi’’ pekiştirme amaçlı da kullanılabilir. Burada cümleyi birbirine bağlayan bir bağlaç olduğundan araya soru işareti konulması yanlış olur. Ayrıca oradaki yeni mi soru anlamı taşımamaktadır, kalıp ifadedir."
+        "Aciklama": "Soru Ekinin yazımı<br/>Soru eki olan ‘’mi’’ ayrı yazılır, ancak bunun yanında ‘’mi’’ pekiştirme amaçlı da kullanılabilir. Burada cümleyi birbirine bağlayan bir bağlaç olduğundan araya soru işareti konulması yanlış olur. Ayrıca oradaki yeni mi soru anlamı taşımamaktadır, kalıp ifadedir."
     },
     {
         "SoruID": 3256939,
@@ -4197,7 +4197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses Uyumları ve Yazım Kuralları<br>Büyük Ünlü Uyumu, Türkçe sözcüklerdeki ünlülerin kalınlık-incelik bakımından uyumudur. Diğer seçeneklerde sözcüğün kökü Büyük Ünlü Uyumuna uymazken meslektaş sözcüğünden ek uyumu bozmuştur."
+        "Aciklama": "Ses Uyumları ve Yazım Kuralları<br/>Büyük Ünlü Uyumu, Türkçe sözcüklerdeki ünlülerin kalınlık-incelik bakımından uyumudur. Diğer seçeneklerde sözcüğün kökü Büyük Ünlü Uyumuna uymazken meslektaş sözcüğünden ek uyumu bozmuştur."
     },
     {
         "SoruID": 3256940,
@@ -4217,7 +4217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses Uyumları ve Yazım Kuralları<br>fani, rüzgar, liman, istiyorum, kalbimiz sözcükleri Büyük Ünlü Uyumuna uymamaktadır. İstiyorum sözcüğünde ise hem Büyük Ünlü Uyumuna, hem de Küçük Ünlü Uyumuna uyumsuzluk söz konusudur. – yor şimdiki zaman eki Küçük Ünlü Uyumu kuralına daima aykırıdır. Çünkü Türkçe sözcüklerde o, ö ünlüleri sadece ilk hecede yer alır. o ve ö ünlüleri Türkçede sadece ilk hecede yer alır."
+        "Aciklama": "Ses Uyumları ve Yazım Kuralları<br/>fani, rüzgar, liman, istiyorum, kalbimiz sözcükleri Büyük Ünlü Uyumuna uymamaktadır. İstiyorum sözcüğünde ise hem Büyük Ünlü Uyumuna, hem de Küçük Ünlü Uyumuna uyumsuzluk söz konusudur. – yor şimdiki zaman eki Küçük Ünlü Uyumu kuralına daima aykırıdır. Çünkü Türkçe sözcüklerde o, ö ünlüleri sadece ilk hecede yer alır. o ve ö ünlüleri Türkçede sadece ilk hecede yer alır."
     },
     {
         "SoruID": 3256941,
@@ -4237,7 +4237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses Uyumları ve Yazım Kuralları – Ünlü Daralması<br>Sonu e / a ile biten fiillerde – yor şimdiki zaman eki geldiğinde geniş olan e / a daralır ve ı / i / u / ü olur. Suluyor, suçluyor, uğramıyor, gözlüyor fiillerinde daralma görülürken getiriyor fiilinde fiille şimdiki zaman eki arasına – i yardımcı sesi getirilmiştir, ünlü türemesi vardır."
+        "Aciklama": "Ses Uyumları ve Yazım Kuralları – Ünlü Daralması<br/>Sonu e / a ile biten fiillerde – yor şimdiki zaman eki geldiğinde geniş olan e / a daralır ve ı / i / u / ü olur. Suluyor, suçluyor, uğramıyor, gözlüyor fiillerinde daralma görülürken getiriyor fiilinde fiille şimdiki zaman eki arasına – i yardımcı sesi getirilmiştir, ünlü türemesi vardır."
     },
     {
         "SoruID": 3256942,
@@ -4257,7 +4257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses Uyumları ve Yazım Kuralları – Ünlü Daralması<br>oyun –a – yor –du biçiminde kök ve eklerine ayırdığımızda kökte bir ünlü düşmesi görülmektedir. Aynı zamanda da – a isimden fiili yapım eki daralmış, -u olmuştur."
+        "Aciklama": "Ses Uyumları ve Yazım Kuralları – Ünlü Daralması<br/>oyun –a – yor –du biçiminde kök ve eklerine ayırdığımızda kökte bir ünlü düşmesi görülmektedir. Aynı zamanda da – a isimden fiili yapım eki daralmış, -u olmuştur."
     },
     {
         "SoruID": 3256943,
@@ -6097,7 +6097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "kadir bil-mez<br>\"kadirbilmez\" burada kullanılan fiilimsi \"bil-mez\" sıfat fiil eklerinden olan -mez eki ile yapılmıştır. Diğer seçeneklerde fiil vardır ama fiilimsi yoktur."
+        "Aciklama": "kadir bil-mez<br/>\"kadirbilmez\" burada kullanılan fiilimsi \"bil-mez\" sıfat fiil eklerinden olan -mez eki ile yapılmıştır. Diğer seçeneklerde fiil vardır ama fiilimsi yoktur."
     },
     {
         "SoruID": 3257909,
@@ -6117,7 +6117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karadeniz<br>Kara Deniz"
+        "Aciklama": "Karadeniz<br/>Kara Deniz"
     },
     {
         "SoruID": 3257911,
@@ -6157,7 +6157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "gayrimenkul<br>gayri menkul"
+        "Aciklama": "gayrimenkul<br/>gayri menkul"
     },
     {
         "SoruID": 3257932,
@@ -6557,7 +6557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tabela, levha gibi yazılarda sözcüklerin ilk harfi büyük yazılır.<br/>Yasak Bölge.<br>Tabela, levha yazısı olduğu için"
+        "Aciklama": "Tabela, levha gibi yazılarda sözcüklerin ilk harfi büyük yazılır.<br/>Yasak Bölge.<br/>Tabela, levha yazısı olduğu için"
     },
     {
         "SoruID": 3258076,
@@ -6597,7 +6597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "2. Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.<br/>hanımeli (çiçek adı), kalburabastı (tatlı adı), imambayıldı (yemek adı), üçayak<br/>(bir halay türü), danaburnu (böcek adı), suçiçeği (hastalık), dilberdudağı (tatlı<br/>adı), kargaburnu (alet), demirbaş.</br><br>demir baş"
+        "Aciklama": "2. Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.<br/>hanımeli (çiçek adı), kalburabastı (tatlı adı), imambayıldı (yemek adı), üçayak<br/>(bir halay türü), danaburnu (böcek adı), suçiçeği (hastalık), dilberdudağı (tatlı<br/>adı), kargaburnu (alet), demirbaş.<br/>demir baş"
     },
     {
         "SoruID": 3258078,
@@ -6637,7 +6637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak,<br/>yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A,<br/>-U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır.<br/>uyuyakalmak, düşeyazmak, bilebilmek, bekleyedurmak, düşüvermek, okuyagelmek vb.<br>düşe yazmak"
+        "Aciklama": "Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak,<br/>yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A,<br/>-U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır.<br/>uyuyakalmak, düşeyazmak, bilebilmek, bekleyedurmak, düşüvermek, okuyagelmek vb.<br/>düşe yazmak"
     },
     {
         "SoruID": 3258080,
@@ -6677,7 +6677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "2. Hayvan veya bitki, eşya veya alet, durum, yer, bilim ve bilgi, yiyecek, gök<br/>cisimleri, organ, zaman, renk, yön, yol ve ulaşım vb. bildiren sözcüklerden birisi ile oluşan ve bunlardan birisinin anlamını koruduğu birleşik<br/>sözcükler ayrı yazılır.<br/>köpek balığı, muhabbet kuşu, hamam böceği, deniz yılanı, küpe çiçeği, yer elması, şeker kamışı, kuru incir, tuz ruhu.<br>kuruincir"
+        "Aciklama": "2. Hayvan veya bitki, eşya veya alet, durum, yer, bilim ve bilgi, yiyecek, gök<br/>cisimleri, organ, zaman, renk, yön, yol ve ulaşım vb. bildiren sözcüklerden birisi ile oluşan ve bunlardan birisinin anlamını koruduğu birleşik<br/>sözcükler ayrı yazılır.<br/>köpek balığı, muhabbet kuşu, hamam böceği, deniz yılanı, küpe çiçeği, yer elması, şeker kamışı, kuru incir, tuz ruhu.<br/>kuruincir"
     },
     {
         "SoruID": 3258082,
@@ -6697,7 +6697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayıların Yazımı<br/>1. Ondan itibaren birleşik rakamlar yazıyla verildiğinde bunlar ayrı ayrı<br/>yazılır.<br/>on beş kitap, beş yüz bin lira, bir milyon iki yüz bin vb.<br>\"onbeş\" yazımı yanlıştır. Sayıların yazımında ondan sonraki sayılar yazı ile yazıldığında ayrı yazılmalıdır. \"on beş\" olmalıdır."
+        "Aciklama": "Sayıların Yazımı<br/>1. Ondan itibaren birleşik rakamlar yazıyla verildiğinde bunlar ayrı ayrı<br/>yazılır.<br/>on beş kitap, beş yüz bin lira, bir milyon iki yüz bin vb.<br/>\"onbeş\" yazımı yanlıştır. Sayıların yazımında ondan sonraki sayılar yazı ile yazıldığında ayrı yazılmalıdır. \"on beş\" olmalıdır."
     },
     {
         "SoruID": 3258083,
@@ -6717,7 +6717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı<br/>Bilindiği gibi Türkçede soru eki dışındaki ekler, getirildikleri sözcüğe bitişik; sözcükler ise - bitişik yazılması gerekenlerin dışındakiler - ayrı yazılır. Ancak dilimizde +ki aitlik eki ile bağlaç ve edat olarak kullanılan ki sözcüğü; yine +DA bulunma hali eki ile dA bağlacının yazıda karıştırıldığı görülmektedir.<br>\"Bizimde işimiz bu! Onlar unutacak, biz söyleyeceğiz ki cümle âlem duysun.\" Cümlede de bağlacının yazımı ile ilgili bir hata vardır. Bağlaç olan de,da her zaman ayrı yazılır. \"Bizim de....\" biçiminde yazılmalıydı."
+        "Aciklama": "Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı<br/>Bilindiği gibi Türkçede soru eki dışındaki ekler, getirildikleri sözcüğe bitişik; sözcükler ise - bitişik yazılması gerekenlerin dışındakiler - ayrı yazılır. Ancak dilimizde +ki aitlik eki ile bağlaç ve edat olarak kullanılan ki sözcüğü; yine +DA bulunma hali eki ile dA bağlacının yazıda karıştırıldığı görülmektedir.<br/>\"Bizimde işimiz bu! Onlar unutacak, biz söyleyeceğiz ki cümle âlem duysun.\" Cümlede de bağlacının yazımı ile ilgili bir hata vardır. Bağlaç olan de,da her zaman ayrı yazılır. \"Bizim de....\" biçiminde yazılmalıydı."
     },
     {
         "SoruID": 3258084,
@@ -6737,7 +6737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Soru Ekinin Yazımı<br/>Soru eki, diğer eklerden farklı olarak daima ayrı yazılır ve sonuna “?” işareti konur. Kimi durumlarda soru ekinin üzerine kişi ekleri de getirilebilir, ancak bu<br/>durum ayrı yazılma kuralını değiştirmez.<br/>Hey Allah’ım, bu suali okumaktan bıkmadın mı hâlâ? (Ayşe Kulin, Türkan)<br/>Güneş batıyor... Yarın, yine doğar. Ben, şu topraklarda yatan güneşin - bir gün<br/>olsun - doğduğunu görmeyecek miyim? (Namık Kemal, Gülnihal)<br/>Soru eki şu durumlarda soru anlamı taşımaz: 1) -DI mI zarf-fiil yapısında 2)<br/>İyisi mi gibi kalıp ifadelerde 3) İkilemelerde pekiştirme amacıyla kullanıldığında<br/>soru işareti kullanılmaz.<br/>1. Hayat pahalılaştı mı dostluklar ucuzlar. (Haldun Taner, Koyma Akıl Oyma<br/>Akıl)<br/>2. İyisi mi, yarından tezi yok, keşişin izini tutup gidelim; kader, kısmetse bir gün<br/>olur arkalarından yetişiriz. (Eflâtun Cem Güney, Kerem İle Aslı)<br/>3. Öyle ki, Yorgi bir gün: - Yahu çocuklar, demişti, ay ışığında futbol oynamak<br/>kıyak mı kıyak olaca<br>Güneş batıyor... Yarın, yine doğar. Ben, şu topraklarda yatan güneşin - bir gün<br/>olsun - doğduğunu görmeyecekmiyim?"
+        "Aciklama": "Soru Ekinin Yazımı<br/>Soru eki, diğer eklerden farklı olarak daima ayrı yazılır ve sonuna “?” işareti konur. Kimi durumlarda soru ekinin üzerine kişi ekleri de getirilebilir, ancak bu<br/>durum ayrı yazılma kuralını değiştirmez.<br/>Hey Allah’ım, bu suali okumaktan bıkmadın mı hâlâ? (Ayşe Kulin, Türkan)<br/>Güneş batıyor... Yarın, yine doğar. Ben, şu topraklarda yatan güneşin - bir gün<br/>olsun - doğduğunu görmeyecek miyim? (Namık Kemal, Gülnihal)<br/>Soru eki şu durumlarda soru anlamı taşımaz: 1) -DI mI zarf-fiil yapısında 2)<br/>İyisi mi gibi kalıp ifadelerde 3) İkilemelerde pekiştirme amacıyla kullanıldığında<br/>soru işareti kullanılmaz.<br/>1. Hayat pahalılaştı mı dostluklar ucuzlar. (Haldun Taner, Koyma Akıl Oyma<br/>Akıl)<br/>2. İyisi mi, yarından tezi yok, keşişin izini tutup gidelim; kader, kısmetse bir gün<br/>olur arkalarından yetişiriz. (Eflâtun Cem Güney, Kerem İle Aslı)<br/>3. Öyle ki, Yorgi bir gün: - Yahu çocuklar, demişti, ay ışığında futbol oynamak<br/>kıyak mı kıyak olaca<br/>Güneş batıyor... Yarın, yine doğar. Ben, şu topraklarda yatan güneşin - bir gün<br/>olsun - doğduğunu görmeyecekmiyim?"
     },
     {
         "SoruID": 3258129,
@@ -6957,7 +6957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Birleşik Sözcüklerin Yazımı, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2<br/>Üçüncü cümlede yazım yanlışının yanı sıra anlatım bozukluğu da var. Üçüncü cümlede ‘koltuk altlarına’ yerine ‘koltuklarının altına’ yazılmalı."
+        "Aciklama": "Birleşik Sözcüklerin Yazımı, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2<br/>Üçüncü cümlede yazım yanlışının yanı sıra anlatım bozukluğu da var. Üçüncü cümlede ‘koltuk altlarına’ yerine ‘koltuklarının altına’ yazılmalı."
     },
     {
         "SoruID": 3258172,
@@ -6977,7 +6977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ayrı Yazılan Sözcükler, başlığı altındaki bilgileri gözden geçiriniz.<br>Son sözcük ayrı yazılır: fark etmez"
+        "Aciklama": "Ayrı Yazılan Sözcükler, başlığı altındaki bilgileri gözden geçiriniz.<br/>Son sözcük ayrı yazılır: fark etmez"
     },
     {
         "SoruID": 3258173,
@@ -6997,7 +6997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İkilemelerin Yazımı, başlığı altındaki bilgileri gözden geçiriniz.<br>İkilemeler arasına noktalama işareti konulmaz."
+        "Aciklama": "İkilemelerin Yazımı, başlığı altındaki bilgileri gözden geçiriniz.<br/>İkilemeler arasına noktalama işareti konulmaz."
     },
     {
         "SoruID": 3258174,
@@ -7017,7 +7017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses Uyumları ve Yazım Kuralları, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2<br/>Birinci cümledeki ‘geçdi’ sözcüğü yerine ‘geçti’ yazılmalı!<br/>Paragrafın yalnızca birinci cümlesinde yanlışlık var.<br/>Dördüncü cümlede herhangi bir anlatım bozukluğu yok.<br/>Cümledeki ‘gece’ sözcüğü, ‘karşılıklı iki yandan her biri, yaka’ anlamındadır. Sözcük ‘geçe’ diye de kullanılır. (bkz. TDK güncel sözlük)<br/>Kuşkuya düştüğünüz yerlerde, önce, sözlüğe bakınız!<br/>Ders kitabınızdaki ‘Ses Uyumları ve Yazım Kuralları’ başlığı altındaki bilgileri gözden geçiriniz."
+        "Aciklama": "Ses Uyumları ve Yazım Kuralları, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2<br/>Birinci cümledeki ‘geçdi’ sözcüğü yerine ‘geçti’ yazılmalı!<br/>Paragrafın yalnızca birinci cümlesinde yanlışlık var.<br/>Dördüncü cümlede herhangi bir anlatım bozukluğu yok.<br/>Cümledeki ‘gece’ sözcüğü, ‘karşılıklı iki yandan her biri, yaka’ anlamındadır. Sözcük ‘geçe’ diye de kullanılır. (bkz. TDK güncel sözlük)<br/>Kuşkuya düştüğünüz yerlerde, önce, sözlüğe bakınız!<br/>Ders kitabınızdaki ‘Ses Uyumları ve Yazım Kuralları’ başlığı altındaki bilgileri gözden geçiriniz."
     },
     {
         "SoruID": 3258175,
@@ -7037,7 +7037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İle Bağlacının Yazımı, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "İle Bağlacının Yazımı, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3258178,
@@ -7057,7 +7057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı</strong>, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "<strong>Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı</strong>, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3258185,
@@ -7097,7 +7097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br>Yazı dili konuşma diline göre daha tutucudur, yani yazı dilinin kuralları konuşma diline göre daha yavaş değişir. Dilin hem yaşayanlar hem de geçmişle gelecek nesiller arasında köprü olma niteliği dikkate alındığında, her neslin yazı dilini kendisine göre yeniden yapılandırmasının doğru olmadığı görülecektir."
+        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br/>Yazı dili konuşma diline göre daha tutucudur, yani yazı dilinin kuralları konuşma diline göre daha yavaş değişir. Dilin hem yaşayanlar hem de geçmişle gelecek nesiller arasında köprü olma niteliği dikkate alındığında, her neslin yazı dilini kendisine göre yeniden yapılandırmasının doğru olmadığı görülecektir."
     },
     {
         "SoruID": 3258233,
@@ -7117,7 +7117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br>12 Aralık 1928"
+        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br/>12 Aralık 1928"
     },
     {
         "SoruID": 3258234,
@@ -7137,7 +7137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br>Özel isim olmayan birleşik sözcükler büyük harfle yazılmaz."
+        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br/>Özel isim olmayan birleşik sözcükler büyük harfle yazılmaz."
     },
     {
         "SoruID": 3258235,
@@ -7157,7 +7157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br>Pekiştirme sıfatları, sözcüğün ilk hecesinin ünlüyle biten kısmı alınarak bunlara p, r, s, m seslerinin getirilmesiyle türetilir ve bunlar birleşik yazılır. Bu yapıların daha da pekiştirildiği veya bu yapılarda ünlü türemelerinin ortaya çıktığı görülür. \r<br/>yemyeşil, gömgök, kopkoyu, pespembe, yusyuvarlak, kapkaranlık, sırsıklam, çarçabuk, çırılçıplak, güpegündüz, çepeçevre, sırılsıklam, paramparça vb."
+        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br/>Pekiştirme sıfatları, sözcüğün ilk hecesinin ünlüyle biten kısmı alınarak bunlara p, r, s, m seslerinin getirilmesiyle türetilir ve bunlar birleşik yazılır. Bu yapıların daha da pekiştirildiği veya bu yapılarda ünlü türemelerinin ortaya çıktığı görülür. \r<br/>yemyeşil, gömgök, kopkoyu, pespembe, yusyuvarlak, kapkaranlık, sırsıklam, çarçabuk, çırılçıplak, güpegündüz, çepeçevre, sırılsıklam, paramparça vb."
     },
     {
         "SoruID": 3258241,
@@ -7177,7 +7177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br>• Sözcük ünlüyle bitiyorsa, ek fiilin başındaki /i/ ünlüsü yarı ünlü /y/ sesine dönüşür. \r<br/>başarılı idi / başarılıydı, gelmeli idi / gelmeliydi; hasta imiş / hastaymış; almalı imiş / almalıymış; yolcu iken / yolcuyken, okumalı iken / okumalıyken vb."
+        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br/>• Sözcük ünlüyle bitiyorsa, ek fiilin başındaki /i/ ünlüsü yarı ünlü /y/ sesine dönüşür. \r<br/>başarılı idi / başarılıydı, gelmeli idi / gelmeliydi; hasta imiş / hastaymış; almalı imiş / almalıymış; yolcu iken / yolcuyken, okumalı iken / okumalıyken vb."
     },
     {
         "SoruID": 3258243,
@@ -7197,7 +7197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br>Hem bağlaç hem de edat olarak kullanılan ile, bağımsız veya ekleştirilerek kullanılır. \r<br/>İle, ekleştiğinde, ünsüzle biten sözcüklere gelince baştaki /i/ sesi düşer; sonu ünlüyle biten sözcüklerde ise /i/ &gt; /y/ olur."
+        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br/>Hem bağlaç hem de edat olarak kullanılan ile, bağımsız veya ekleştirilerek kullanılır. \r<br/>İle, ekleştiğinde, ünsüzle biten sözcüklere gelince baştaki /i/ sesi düşer; sonu ünlüyle biten sözcüklerde ise /i/ &gt; /y/ olur."
     },
     {
         "SoruID": 3258278,
@@ -7217,7 +7217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br>İki cümleyi bağlayan yani bağlaç olan ki ayrı yazılır.<br/>\"Bu sorunun çözümü işte o yazı ki bunu sen de biliyorsun.\""
+        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br/>İki cümleyi bağlayan yani bağlaç olan ki ayrı yazılır.<br/>\"Bu sorunun çözümü işte o yazı ki bunu sen de biliyorsun.\""
     },
     {
         "SoruID": 3258279,
@@ -7237,7 +7237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br>Bağlaç olan de, önündeki ve arkasındaki sözcükten ayrı yazılır."
+        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br/>Bağlaç olan de, önündeki ve arkasındaki sözcükten ayrı yazılır."
     },
     {
         "SoruID": 3258280,
@@ -7257,7 +7257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br>İki veya daha fazla heceli sözcüklerin sonundaki /ç/ sesleri , ünlüyle başlayan ekle kullanıldığında /ç/ &gt; /c/ olur: kıvanç+ı+m &gt; kıvancım."
+        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br/>İki veya daha fazla heceli sözcüklerin sonundaki /ç/ sesleri , ünlüyle başlayan ekle kullanıldığında /ç/ &gt; /c/ olur: kıvanç+ı+m &gt; kıvancım."
     },
     {
         "SoruID": 3258283,
@@ -8157,7 +8157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Makale, herhangi bir konuda bilgi vermek, bir düşünce ya da konuya açıklık ge- tirmek, yeni bir görüş ve düşünceyi ileri sürmek, ele alınan konu üzerinde yapılan inceleme ve araştırma sonuçlarına göre kanıtlar sunarak bu yeni görüş ve düşün- celeri desteklemek ve doğruluğunu kanıtlamak amacıyla kaleme alınan bilimsel ağırlıklı gazete ve dergi yazılarıdır (Birinci, 2009: 368). Bilimsel yanı ağır basan ve bilimsel çalışmaların raporlaştırılmasını içeren bilimsel makaleler, çeşitli uzman- lık dallarının sorunlarıyla ilgili olup genellikle ayrıntılı bir araştırmaya dayanır. Bu tür makaleler gazetelerde yayımlanan güncel konulu makalelerden farklıdır.<br>Makale, herhangi bir konuda bilgi vermek, bir düşünce ya da konuya açıklık getirmek, yeni bir görüş ve düşünceyi ileri sürmek, ele alınan konu üzerinde yapılan inceleme ve araştırma sonuçlarına göre kanıtlar sunarak bu yeni görüş ve düşünceleri desteklemek ve doğruluğunu kanıtlamak amacıyla kaleme alınan bilimsel ağırlıklı gazete ve dergi yazılarıdır (Birinci, 2009: 368). Bilimsel yanı ağır basan ve bilimsel çalışmaların raporlaştırılmasını içeren bilimsel makaleler, çeşitli uzmanlık dallarının sorunlarıyla ilgili olup genellikle ayrıntılı bir araştırmaya dayanır. Bu tür makaleler gazetelerde yayımlanan güncel konulu makalelerden farklıdır. Doğru seçenek A'dır."
+        "Aciklama": "<br/>Makale, herhangi bir konuda bilgi vermek, bir düşünce ya da konuya açıklık ge- tirmek, yeni bir görüş ve düşünceyi ileri sürmek, ele alınan konu üzerinde yapılan inceleme ve araştırma sonuçlarına göre kanıtlar sunarak bu yeni görüş ve düşün- celeri desteklemek ve doğruluğunu kanıtlamak amacıyla kaleme alınan bilimsel ağırlıklı gazete ve dergi yazılarıdır (Birinci, 2009: 368). Bilimsel yanı ağır basan ve bilimsel çalışmaların raporlaştırılmasını içeren bilimsel makaleler, çeşitli uzman- lık dallarının sorunlarıyla ilgili olup genellikle ayrıntılı bir araştırmaya dayanır. Bu tür makaleler gazetelerde yayımlanan güncel konulu makalelerden farklıdır.<br/>Makale, herhangi bir konuda bilgi vermek, bir düşünce ya da konuya açıklık getirmek, yeni bir görüş ve düşünceyi ileri sürmek, ele alınan konu üzerinde yapılan inceleme ve araştırma sonuçlarına göre kanıtlar sunarak bu yeni görüş ve düşünceleri desteklemek ve doğruluğunu kanıtlamak amacıyla kaleme alınan bilimsel ağırlıklı gazete ve dergi yazılarıdır (Birinci, 2009: 368). Bilimsel yanı ağır basan ve bilimsel çalışmaların raporlaştırılmasını içeren bilimsel makaleler, çeşitli uzmanlık dallarının sorunlarıyla ilgili olup genellikle ayrıntılı bir araştırmaya dayanır. Bu tür makaleler gazetelerde yayımlanan güncel konulu makalelerden farklıdır. Doğru seçenek A'dır."
     },
     {
         "SoruID": 3257963,
@@ -8357,7 +8357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düşünce yazıları sanatsal boyutlu yazılar değildir.<br>Sanatlı anlatıma dayanır."
+        "Aciklama": "Düşünce yazıları sanatsal boyutlu yazılar değildir.<br/>Sanatlı anlatıma dayanır."
     },
     {
         "SoruID": 3258147,
@@ -8377,7 +8377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Deneme, öznel yanı bulunan ve genellikle gazete çevresinde oluşan yazılardan biridir.<br>Deneme yazı türünde yazar herhangi bir konu hakkındaki kişisel görüşlerini kanıtlama kaygısı olmaksızın kaleme alır."
+        "Aciklama": "Deneme, öznel yanı bulunan ve genellikle gazete çevresinde oluşan yazılardan biridir.<br/>Deneme yazı türünde yazar herhangi bir konu hakkındaki kişisel görüşlerini kanıtlama kaygısı olmaksızın kaleme alır."
     },
     {
         "SoruID": 3258148,
@@ -8397,7 +8397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Açıklamaya ve bilgi vermeye dayalı anlatım türlerinden biri olan makalenin<br/>konu sınırlaması yoktur. Toplumun genelini ya da bir bölümünü ilgilendiren bilimsel ve sanatsal her konuda yazılabilir. Yazar dilediği konuyu seçer.<br>Konu sınırlaması vardır."
+        "Aciklama": "Açıklamaya ve bilgi vermeye dayalı anlatım türlerinden biri olan makalenin<br/>konu sınırlaması yoktur. Toplumun genelini ya da bir bölümünü ilgilendiren bilimsel ve sanatsal her konuda yazılabilir. Yazar dilediği konuyu seçer.<br/>Konu sınırlaması vardır."
     },
     {
         "SoruID": 3258149,
@@ -8417,7 +8417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düşünceyi gölgeleyen anlatım oyunları, diğer bir deyişle sanatsal bir anlatım kaygısı taşımaz. Sözcüklerin mecaz anlamlarından çok gerçek anlamları tercih edilir.<br>Sözcüklerin gerçek anlamlarından çok mecaz anlamları tercih edilir."
+        "Aciklama": "Düşünceyi gölgeleyen anlatım oyunları, diğer bir deyişle sanatsal bir anlatım kaygısı taşımaz. Sözcüklerin mecaz anlamlarından çok gerçek anlamları tercih edilir.<br/>Sözcüklerin gerçek anlamlarından çok mecaz anlamları tercih edilir."
     },
     {
         "SoruID": 3258150,
@@ -8457,7 +8457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fıkra türü, Türkçede iki tür anlatıyı karşılar. Bunlardan<strong><em> ilki</em> </strong><span style=\"text-decoration: underline;\">ince anlamlı, güldürme amacı güden kısa öykülerdir.</span> Küçük öykü biçimindeki bu tür, <span style=\"text-decoration: underline;\">halk öykücülüğü geleneğinin uzantısıdır.</span> Bu tür fıkralarda, gerek <span style=\"text-decoration: underline;\">kahramanların davranışları ve</span><br/><span style=\"text-decoration: underline;\">düşüncelerinde gerekse taşıdıkları mizah ögeleri ve dilde ulusal kültürü yansıtan</span><br/><span style=\"text-decoration: underline;\">izler vardır</span>. <span style=\"text-decoration: underline;\">Edebiyatımızda bu tip fıkraların en bilinenleri Nasrettin Hoca, Bektaşi, Bekri Mustafa ve İncili Çavuş fıkralarıdır.</span><br/>Fıkra sözcüğünün bir anlatı türü olarak<strong><em> ikinci</em> </strong>anlamı, gazete ya da dergilerde<br/>yayımlanan, belgelendirme ve kanıtlama gereği duyulmadan günl</br><br>Günlük olayları, ülke sorunlarını veya yazarın bir konu hakkındaki görüşlerini çeşitli yönlerden inceler."
+        "Aciklama": "Fıkra türü, Türkçede iki tür anlatıyı karşılar. Bunlardan<strong><em> ilki</em> </strong><span style=\"text-decoration: underline;\">ince anlamlı, güldürme amacı güden kısa öykülerdir.</span> Küçük öykü biçimindeki bu tür, <span style=\"text-decoration: underline;\">halk öykücülüğü geleneğinin uzantısıdır.</span> Bu tür fıkralarda, gerek <span style=\"text-decoration: underline;\">kahramanların davranışları ve</span><br/><span style=\"text-decoration: underline;\">düşüncelerinde gerekse taşıdıkları mizah ögeleri ve dilde ulusal kültürü yansıtan</span><br/><span style=\"text-decoration: underline;\">izler vardır</span>. <span style=\"text-decoration: underline;\">Edebiyatımızda bu tip fıkraların en bilinenleri Nasrettin Hoca, Bektaşi, Bekri Mustafa ve İncili Çavuş fıkralarıdır.</span><br/>Fıkra sözcüğünün bir anlatı türü olarak<strong><em> ikinci</em> </strong>anlamı, gazete ya da dergilerde<br/>yayımlanan, belgelendirme ve kanıtlama gereği duyulmadan günl<br/>Günlük olayları, ülke sorunlarını veya yazarın bir konu hakkındaki görüşlerini çeşitli yönlerden inceler."
     },
     {
         "SoruID": 3258152,
@@ -8477,7 +8477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk edebiyatında gazete fıkracılığı, 19. yüzyılda gazetenin ortaya çıkışıyla<br/>başlamıştır.<br>19. yy"
+        "Aciklama": "Türk edebiyatında gazete fıkracılığı, 19. yüzyılda gazetenin ortaya çıkışıyla<br/>başlamıştır.<br/>19. yy"
     },
     {
         "SoruID": 3258153,
@@ -8517,7 +8517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Deneme türünde, anlatılanların kanıtlanmasına, belgelere dayandırılmasına gerek yoktur.<br>Anlatılanların kanıtlanır, belgelere dayandırılır."
+        "Aciklama": "Deneme türünde, anlatılanların kanıtlanmasına, belgelere dayandırılmasına gerek yoktur.<br/>Anlatılanların kanıtlanır, belgelere dayandırılır."
     },
     {
         "SoruID": 3258155,
@@ -8557,7 +8557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düşünce yazılarının sanatsal bir dil kullanması beklenen bir şey değildir.<br>Sanatsal yönü yüksek bir dil kullanması"
+        "Aciklama": "Düşünce yazılarının sanatsal bir dil kullanması beklenen bir şey değildir.<br/>Sanatsal yönü yüksek bir dil kullanması"
     },
     {
         "SoruID": 3258157,
@@ -8577,7 +8577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Makale türünün hedefi eleştirme değildir; bir konuyu açıklamak, incelemek, konu hakkında yeni görüşler ileri sürmek, bilgi vermektir.<br>Ele aldığı bir konuya eleştiri getirir."
+        "Aciklama": "Makale türünün hedefi eleştirme değildir; bir konuyu açıklamak, incelemek, konu hakkında yeni görüşler ileri sürmek, bilgi vermektir.<br/>Ele aldığı bir konuya eleştiri getirir."
     },
     {
         "SoruID": 3258158,
@@ -8617,7 +8617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fıkra yazarlarından bilimsellik ve kanıtlama beklenmez. Bu, makaleye ait bir özelliktir.<br>Günlük olaylarla ilgili bir gerçeği bilimsel olarak kanıtlaması"
+        "Aciklama": "Fıkra yazarlarından bilimsellik ve kanıtlama beklenmez. Bu, makaleye ait bir özelliktir.<br/>Günlük olaylarla ilgili bir gerçeği bilimsel olarak kanıtlaması"
     },
     {
         "SoruID": 3258160,
@@ -8637,7 +8637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kısalık ya da uzunluk eleştiri türünün belirleyici özelliklerinden biri değildir.<br>Okuru sıkmayacak kısalıkta olmalıdır."
+        "Aciklama": "Kısalık ya da uzunluk eleştiri türünün belirleyici özelliklerinden biri değildir.<br/>Okuru sıkmayacak kısalıkta olmalıdır."
     },
     {
         "SoruID": 3258161,
@@ -8677,7 +8677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaşam öykülerinde tarihsel gerçeklik en önemli ögedir. Bu nedenle yaşam<br/>öyküleri açık, sade ve tarafsız bir görüşle yazılmalıdır.<br/>Yaşam öyküsü anlatılacak kişinin çocukluğundan itibaren yaşamı ele alınır; öğrenim yaşamı, yetişmesini etkileyen başlıca etkenler belirtilir; bireysel ve toplumsal özellikleri, ürettiği değerler, başarıları ve önemi aktarılır.<br/>Yaşam öyküsü yazımında gerçekler saptırılmaz; ancak gerçekler sanatçı duyarlılığı ile yazılır. Sanat değer taşıması gereken bir tür deildir.<br>Yaşam öyküleri sanat değeri taşırlar."
+        "Aciklama": "Yaşam öykülerinde tarihsel gerçeklik en önemli ögedir. Bu nedenle yaşam<br/>öyküleri açık, sade ve tarafsız bir görüşle yazılmalıdır.<br/>Yaşam öyküsü anlatılacak kişinin çocukluğundan itibaren yaşamı ele alınır; öğrenim yaşamı, yetişmesini etkileyen başlıca etkenler belirtilir; bireysel ve toplumsal özellikleri, ürettiği değerler, başarıları ve önemi aktarılır.<br/>Yaşam öyküsü yazımında gerçekler saptırılmaz; ancak gerçekler sanatçı duyarlılığı ile yazılır. Sanat değer taşıması gereken bir tür deildir.<br/>Yaşam öyküleri sanat değeri taşırlar."
     },
     {
         "SoruID": 3258163,
@@ -8697,7 +8697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ansiklopedik yaşam öyküsünde, söz konusu kişinin yaşamının önemli kesitleri ele alınmakta kişisel yaşamına dair bilgi verilmemektedir.<br>Ansiklopedik yaşam öyküsünde, kişinin yaşam çocukluktan itibaren ayrıntılı olarak ele alınıp işlenir, ifadesi yanlıştır; ansiklopedik yaşam öykiüsünde kişinin yaşamının önemli kesitleri anlatılır, kişisel yaşamına dair bilgi verilmez (s. 100)."
+        "Aciklama": "Ansiklopedik yaşam öyküsünde, söz konusu kişinin yaşamının önemli kesitleri ele alınmakta kişisel yaşamına dair bilgi verilmemektedir.<br/>Ansiklopedik yaşam öyküsünde, kişinin yaşam çocukluktan itibaren ayrıntılı olarak ele alınıp işlenir, ifadesi yanlıştır; ansiklopedik yaşam öykiüsünde kişinin yaşamının önemli kesitleri anlatılır, kişisel yaşamına dair bilgi verilmez (s. 100)."
     },
     {
         "SoruID": 3258164,
@@ -8717,7 +8717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Anı yazıları her nasıl yazılırsa yazılsın kesin belge olarak kabul edilemez. Ancak bilim, sanat ya da siyaset alanında tanınmış kişilerin anı yazıları, döneme ışık tutmaya yardımcı olurlar. Zaten de anı yazarlarından bilimsel kesinlik ve doğruluk beklenemez.<br>Anılar ilk ağızdan anlatıldığı için doğruluğu kesin olan belge niteliği taşırlar. Anı yazılarında anlatıcının izlenimlerine dayandığı için kesin belge niteliği taşımaz."
+        "Aciklama": "Anı yazıları her nasıl yazılırsa yazılsın kesin belge olarak kabul edilemez. Ancak bilim, sanat ya da siyaset alanında tanınmış kişilerin anı yazıları, döneme ışık tutmaya yardımcı olurlar. Zaten de anı yazarlarından bilimsel kesinlik ve doğruluk beklenemez.<br/>Anılar ilk ağızdan anlatıldığı için doğruluğu kesin olan belge niteliği taşırlar. Anı yazılarında anlatıcının izlenimlerine dayandığı için kesin belge niteliği taşımaz."
     },
     {
         "SoruID": 3258165,
@@ -9157,7 +9157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düşünce yazılarının genel özelliklerini açıklayabileceksiniz.<br>Gazete ya da dergilerde yayımlanan belgelendirme ve kanıtlama gereği duyulmadan günlük olayları, ülke sorunlarını inceleyen ve yorumlayan kısa yazılara fıkra denir."
+        "Aciklama": "Düşünce yazılarının genel özelliklerini açıklayabileceksiniz.<br/>Gazete ya da dergilerde yayımlanan belgelendirme ve kanıtlama gereği duyulmadan günlük olayları, ülke sorunlarını inceleyen ve yorumlayan kısa yazılara fıkra denir."
     },
     {
         "SoruID": 3258247,
@@ -9177,7 +9177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düşünce yazılarının genel özelliklerini açıklayabileceksiniz.<br>insanları, bir konu üzerinde düşündürmeyi, tartışmayı, bu yolla gerçeklere ulaştırmayı amaçlayan yazı türlerine düşünce yazıları denir."
+        "Aciklama": "Düşünce yazılarının genel özelliklerini açıklayabileceksiniz.<br/>insanları, bir konu üzerinde düşündürmeyi, tartışmayı, bu yolla gerçeklere ulaştırmayı amaçlayan yazı türlerine düşünce yazıları denir."
     },
     {
         "SoruID": 3258248,
@@ -9197,7 +9197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düşünce yazıları türlerini sıralayabileceksiniz.<br>Herhangi bir konuda bilgi vermek, bir düşünce yada konuya açıklık getirmek, yeni bir görüş veya düşünceyi ileri sürmek, ele alınan konu üzerinde inceleme ve araştırma sonuçlarına göre kanıtlar sunarak bu yeni görüş ve düşünceleri desteklemek ve doğruluğunu kanıtlamak amacıyla kaleme alınana bilimsel ağırlıklı gazete ve dergi yazılarına makale denir."
+        "Aciklama": "Düşünce yazıları türlerini sıralayabileceksiniz.<br/>Herhangi bir konuda bilgi vermek, bir düşünce yada konuya açıklık getirmek, yeni bir görüş veya düşünceyi ileri sürmek, ele alınan konu üzerinde inceleme ve araştırma sonuçlarına göre kanıtlar sunarak bu yeni görüş ve düşünceleri desteklemek ve doğruluğunu kanıtlamak amacıyla kaleme alınana bilimsel ağırlıklı gazete ve dergi yazılarına makale denir."
     },
     {
         "SoruID": 3258249,
@@ -9217,7 +9217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br>Bir sanat eserini çeşitli yönleri ile inceleyip açıklamak, anlaşılmasını sağlamak ve değerlendirmek amacıyla yazılan yazılara ne denir?"
+        "Aciklama": "Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br/>Bir sanat eserini çeşitli yönleri ile inceleyip açıklamak, anlaşılmasını sağlamak ve değerlendirmek amacıyla yazılan yazılara ne denir?"
     },
     {
         "SoruID": 3258250,
@@ -9237,7 +9237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br>Herhangi bir konuyu yeni ve kişisel görüşlerle ele alarak etkili bir anlatımla sunan düz yazılara ne denir?"
+        "Aciklama": "Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br/>Herhangi bir konuyu yeni ve kişisel görüşlerle ele alarak etkili bir anlatımla sunan düz yazılara ne denir?"
     },
     {
         "SoruID": 3258251,
@@ -9257,7 +9257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br>Yazarın gözlem ve bilgiye dayalı olarak, gezip gördüğü yerleri çeşitli yönleriyle özenli bir anlatımla yansıttığı yazıya gezi yazısı denir."
+        "Aciklama": "Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br/>Yazarın gözlem ve bilgiye dayalı olarak, gezip gördüğü yerleri çeşitli yönleriyle özenli bir anlatımla yansıttığı yazıya gezi yazısı denir."
     },
     {
         "SoruID": 3258252,
@@ -9277,7 +9277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br>Edebiyat, sanat, spor, sosyal ya da fen bilimleri gibi kendi alanlarında tanınmış, ün yapmış, okurun ilgisini çekecek kişilerin yaşam öykülerini araştırarak okuyana bilgi vermeyi amaçlayan yazı türüne ne denir?"
+        "Aciklama": "Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br/>Edebiyat, sanat, spor, sosyal ya da fen bilimleri gibi kendi alanlarında tanınmış, ün yapmış, okurun ilgisini çekecek kişilerin yaşam öykülerini araştırarak okuyana bilgi vermeyi amaçlayan yazı türüne ne denir?"
     },
     {
         "SoruID": 3258253,
@@ -9297,7 +9297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br>Bilim, sanat, siyaset, spor vb. alanlarının herhangi birinde tanınmış kişilerin, kendi yaşamını anlattığı yazı türüne otobiyografi denir."
+        "Aciklama": "Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br/>Bilim, sanat, siyaset, spor vb. alanlarının herhangi birinde tanınmış kişilerin, kendi yaşamını anlattığı yazı türüne otobiyografi denir."
     },
     {
         "SoruID": 3258254,
@@ -9317,7 +9317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br>Bir kişiyi, yeri veya sanat dalını geniş okur kitlelerine, kendi görüş ve düşünceleriyle birleştirerek araştırma, inceleme yoluyla tanıtan, ayrıntılı bilgi veren yazılara <strong>röportaj</strong> denir."
+        "Aciklama": "Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br/>Bir kişiyi, yeri veya sanat dalını geniş okur kitlelerine, kendi görüş ve düşünceleriyle birleştirerek araştırma, inceleme yoluyla tanıtan, ayrıntılı bilgi veren yazılara <strong>röportaj</strong> denir."
     },
     {
         "SoruID": 3258277,
@@ -9337,7 +9337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br>Özdemir ( 2002, 2008) genel olarak eleştiri türlerini şöyle sınıflandırmaktadır: Sanatçıya dönük eleştiri Yapıta dönük eleştiri Okura dönük eleştiri Topluma dönük eleştiri Çözümleyici eleştiri"
+        "Aciklama": "Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br/>Özdemir ( 2002, 2008) genel olarak eleştiri türlerini şöyle sınıflandırmaktadır: Sanatçıya dönük eleştiri Yapıta dönük eleştiri Okura dönük eleştiri Topluma dönük eleştiri Çözümleyici eleştiri"
     },
     {
         "SoruID": 3258323,
@@ -9357,7 +9357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Makale, başlığı altındaki bilgileri gözden geçiriniz.<br>Tanzimat döneminde Türk edebiyatının batılılaşmasında gazete ve dergilerin rolü tartışılmazdır. Pek çok yazı türü bu dönemde edebiyatımıza girmiştir. Şinasi de dönemin öncülerindendir."
+        "Aciklama": "Makale, başlığı altındaki bilgileri gözden geçiriniz.<br/>Tanzimat döneminde Türk edebiyatının batılılaşmasında gazete ve dergilerin rolü tartışılmazdır. Pek çok yazı türü bu dönemde edebiyatımıza girmiştir. Şinasi de dönemin öncülerindendir."
     },
     {
         "SoruID": 3258324,
@@ -9377,7 +9377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eleştiri, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 3"
+        "Aciklama": "Eleştiri, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 3"
     },
     {
         "SoruID": 3258325,
@@ -9397,7 +9397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Deneme, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 3"
+        "Aciklama": "Deneme, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 3"
     },
     {
         "SoruID": 3258326,
@@ -9417,7 +9417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Röportaj, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 3"
+        "Aciklama": "Röportaj, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 3"
     },
     {
         "SoruID": 3258327,
@@ -9437,7 +9437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Söyleşi/Sohbet, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "Söyleşi/Sohbet, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3258328,
@@ -9457,7 +9457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gezi Yazısı, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 3"
+        "Aciklama": "Gezi Yazısı, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 3"
     },
     {
         "SoruID": 3258329,
@@ -9477,7 +9477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Anı, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 3<br/><strong>Dönüt :KİTAPDA OLMAYAN VE ÜNİTE İLE ALAKASIZ YANLIŞ BİR SORU KALDIRIN</strong><br/>Kitabınızın dördüncü bölümünün 95. sayfasındaki <strong>Anı</strong> başlığı altındaki bilgileri gözden geçiriniz."
+        "Aciklama": "Anı, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 3<br/><strong>Dönüt :KİTAPDA OLMAYAN VE ÜNİTE İLE ALAKASIZ YANLIŞ BİR SORU KALDIRIN</strong><br/>Kitabınızın dördüncü bölümünün 95. sayfasındaki <strong>Anı</strong> başlığı altındaki bilgileri gözden geçiriniz."
     },
     {
         "SoruID": 3258330,
@@ -9497,7 +9497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Anı, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 3"
+        "Aciklama": "Anı, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 3"
     },
     {
         "SoruID": 3258331,
@@ -9517,7 +9517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Günlük, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 3"
+        "Aciklama": "Günlük, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 3"
     },
     {
         "SoruID": 3258332,
@@ -9537,7 +9537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaşam öyküsü, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 3"
+        "Aciklama": "Yaşam öyküsü, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 3"
     },
     {
         "SoruID": 3258333,
@@ -9777,7 +9777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Soru kökünde fıkra türüne ait özellikler sıralanmıştır. Fıkra sözcüğünün bir anlatı türü olarak ikinci anlamı, gazete ya da dergilerde yayımlanan, belgelendirme ve kanıtlama gereği duyulmadan günlük olayları, ülke sorunlarını veya yazarın bir konu hakkındaki görüşlerini çeşitli yönlerden inceleyen ve yorumlayan kısa yazılardır. Doğru cevap B seçeneğidir.<br>Soru kökünde özellikleri sıralanan düşünsel yazı türü Fıkradır."
+        "Aciklama": "Soru kökünde fıkra türüne ait özellikler sıralanmıştır. Fıkra sözcüğünün bir anlatı türü olarak ikinci anlamı, gazete ya da dergilerde yayımlanan, belgelendirme ve kanıtlama gereği duyulmadan günlük olayları, ülke sorunlarını veya yazarın bir konu hakkındaki görüşlerini çeşitli yönlerden inceleyen ve yorumlayan kısa yazılardır. Doğru cevap B seçeneğidir.<br/>Soru kökünde özellikleri sıralanan düşünsel yazı türü Fıkradır."
     },
     {
         "SoruID": 3258345,
@@ -11837,7 +11837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanatsal yazıların genel özelliklerini açıklayabileceksiniz.<br>I. Yaşanmış ya da yaşanabilir izlenimi veren olayları anlatır.<br/>II. Kişi, zaman, yer, olay ögelerini içerir.<br/>III. Yaşamın bir kesitini ya da tümünü ayrıntılı olarak ele alır.<br/>Yukarıdaki özellikler seçeneklerden roman türünün özellikleridir."
+        "Aciklama": "Sanatsal yazıların genel özelliklerini açıklayabileceksiniz.<br/>I. Yaşanmış ya da yaşanabilir izlenimi veren olayları anlatır.<br/>II. Kişi, zaman, yer, olay ögelerini içerir.<br/>III. Yaşamın bir kesitini ya da tümünü ayrıntılı olarak ele alır.<br/>Yukarıdaki özellikler seçeneklerden roman türünün özellikleridir."
     },
     {
         "SoruID": 3258263,
@@ -11857,7 +11857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanatsal yazı türlerini sıralayabileceksiniz.<br>Sanatsal yazılar, edebi, yazınsal metinler veya kurmaca, kurgusal metinler olarak da ifade edilmektedir. Seçeneklerde yer alan \"bildiri\" bu özellikler açısından değerlendirildiğinde, sanatsal yazı türü arasında yer almaz"
+        "Aciklama": "Sanatsal yazı türlerini sıralayabileceksiniz.<br/>Sanatsal yazılar, edebi, yazınsal metinler veya kurmaca, kurgusal metinler olarak da ifade edilmektedir. Seçeneklerde yer alan \"bildiri\" bu özellikler açısından değerlendirildiğinde, sanatsal yazı türü arasında yer almaz"
     },
     {
         "SoruID": 3258264,
@@ -11877,7 +11877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanatsal yazıların türlerini ayırt edebileceksiniz.<br>Lirik sözcüğü Eski Yunan’da şairlerin şiirlerini telli bir çeşit saz olan “lir” ile birlikte söylemelerinden kaynaklanmış ve sonraları içe doğan duyguları dile getiren şiirlere lirik denmiştir."
+        "Aciklama": "Sanatsal yazıların türlerini ayırt edebileceksiniz.<br/>Lirik sözcüğü Eski Yunan’da şairlerin şiirlerini telli bir çeşit saz olan “lir” ile birlikte söylemelerinden kaynaklanmış ve sonraları içe doğan duyguları dile getiren şiirlere lirik denmiştir."
     },
     {
         "SoruID": 3258265,
@@ -11897,7 +11897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanatsal yazıların türlerini ayırt edebileceksiniz.<br>Okura yaşamdan kurgusal bir kesit sunan öykünün dört ögesi vardır: Olay ya da durum, kişiler, yer ve zaman. Üç birlik kuralı (tek olay, tek yer, tek zaman) tiyatroda trajedi ve klasik komedide yer alır."
+        "Aciklama": "Sanatsal yazıların türlerini ayırt edebileceksiniz.<br/>Okura yaşamdan kurgusal bir kesit sunan öykünün dört ögesi vardır: Olay ya da durum, kişiler, yer ve zaman. Üç birlik kuralı (tek olay, tek yer, tek zaman) tiyatroda trajedi ve klasik komedide yer alır."
     },
     {
         "SoruID": 3258266,
@@ -11917,7 +11917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanatsal yazıların türlerini ayırt edebileceksiniz.<br>İlk Türkçe roman Şemsettin Sami'nin Taaşşuk-ı Talat ve Fitnat adlı romanıdır."
+        "Aciklama": "Sanatsal yazıların türlerini ayırt edebileceksiniz.<br/>İlk Türkçe roman Şemsettin Sami'nin Taaşşuk-ı Talat ve Fitnat adlı romanıdır."
     },
     {
         "SoruID": 3258313,
@@ -11997,7 +11997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Şiirler içerdikleri konulara göre; lirik, epik, didaktik, pastoral, satirik, dramatik olmak üzere altı türe ayrılmaktadır.<br>trajik"
+        "Aciklama": "Şiirler içerdikleri konulara göre; lirik, epik, didaktik, pastoral, satirik, dramatik olmak üzere altı türe ayrılmaktadır.<br/>trajik"
     },
     {
         "SoruID": 3258317,
@@ -12057,7 +12057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeni Türk edebiyatı- Neyzen Tevfik, Abdurrahim Karakoç<br>Eski Türk Edebiyatı -Neyzen Tevfik"
+        "Aciklama": "Yeni Türk edebiyatı- Neyzen Tevfik, Abdurrahim Karakoç<br/>Eski Türk Edebiyatı -Neyzen Tevfik"
     },
     {
         "SoruID": 3258320,
@@ -12077,7 +12077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Öykü, Avrupa’da 14. yüzyılın ilk yarısında İtalyan yazar Boccacio’nun Decameron adlı kitabı ile ortaya çıkmıştır.<br>14./ Boccacio/ Decameron"
+        "Aciklama": "Öykü, Avrupa’da 14. yüzyılın ilk yarısında İtalyan yazar Boccacio’nun Decameron adlı kitabı ile ortaya çıkmıştır.<br/>14./ Boccacio/ Decameron"
     },
     {
         "SoruID": 3258321,
@@ -12117,7 +12117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Shakespeare’in <em>Romeo ve Juliet, Hamlet, Kral Lear </em>adlı eserleri ve Klasik dönemde (17. yüzyılda) Corneille’nin <em>Le Cid ve Horace </em>adlı eserleri ile Racine’nin <em>Andromak, Phedre </em>adlı eserleri tragedya türünün önemli eserleridir.<br>Elektra"
+        "Aciklama": "Shakespeare’in <em>Romeo ve Juliet, Hamlet, Kral Lear </em>adlı eserleri ve Klasik dönemde (17. yüzyılda) Corneille’nin <em>Le Cid ve Horace </em>adlı eserleri ile Racine’nin <em>Andromak, Phedre </em>adlı eserleri tragedya türünün önemli eserleridir.<br/>Elektra"
     },
     {
         "SoruID": 3258363,
@@ -12137,7 +12137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanatsal Yazılar, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 1"
+        "Aciklama": "Sanatsal Yazılar, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 1"
     },
     {
         "SoruID": 3258364,
@@ -12157,7 +12157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanatsal Yazılar, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 1"
+        "Aciklama": "Sanatsal Yazılar, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 1"
     },
     {
         "SoruID": 3258366,
@@ -12177,7 +12177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Şiir, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "Şiir, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3258367,
@@ -12197,7 +12197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Öykü, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 3"
+        "Aciklama": "Öykü, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 3"
     },
     {
         "SoruID": 3258368,
@@ -12217,7 +12217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Roman, başlığı altındaki bilgileri gözden geçiriniz.<br><br/>Doğru cevap E seçeneğidir."
+        "Aciklama": "Roman, başlığı altındaki bilgileri gözden geçiriniz.<br/><br/>Doğru cevap E seçeneğidir."
     },
     {
         "SoruID": 3258369,
@@ -12237,7 +12237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Roman, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 3"
+        "Aciklama": "Roman, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 3"
     },
     {
         "SoruID": 3258370,
@@ -12257,7 +12257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Roman, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 3"
+        "Aciklama": "Roman, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 3"
     },
     {
         "SoruID": 3258371,
@@ -12277,7 +12277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Roman, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 3"
+        "Aciklama": "Roman, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 3"
     },
     {
         "SoruID": 3258372,
@@ -12297,7 +12297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tiyatro, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 3<br/>Kitabınızın 129. sayfasındaki bilgileri gözden geçirmelisiniz! Okumak istemezseniz diye alıntılıyorum:<br/>\"Batılılar tarafından, tiyatronun kaynağı İÖ 7. ve 6. yüzyıllarda bolluk ve bereketi kutlamak için şarap ve bereket tanrısı Tanrı Dionysos adına düzenle- nen şenliklere bağlanır (Özdemir, 2002:345). Tiyatro, bağ bozumu şenliklerinde dinsel bir ayin olarak doğmuş ve bugüne kadar gelişerek varlığını sürdürmüştür. Tiyatronun ilk olarak bu törenlerde ortaya çıkışı ve bundan sonra da uzun süre varlığını sürdürmesi manzum olarak gerçekleşmiştir. 17. yüzyıldan itibaren ti- yatro sadece manzum bir edebî tür olmaktan çıkarak düz yazıya (mensur) doğru gelişme göstermiştir. Bu gelişmede Batı’da Shakespeare’in önemli bir rolü ve katkısı olmuştur.\""
+        "Aciklama": "Tiyatro, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 3<br/>Kitabınızın 129. sayfasındaki bilgileri gözden geçirmelisiniz! Okumak istemezseniz diye alıntılıyorum:<br/>\"Batılılar tarafından, tiyatronun kaynağı İÖ 7. ve 6. yüzyıllarda bolluk ve bereketi kutlamak için şarap ve bereket tanrısı Tanrı Dionysos adına düzenle- nen şenliklere bağlanır (Özdemir, 2002:345). Tiyatro, bağ bozumu şenliklerinde dinsel bir ayin olarak doğmuş ve bugüne kadar gelişerek varlığını sürdürmüştür. Tiyatronun ilk olarak bu törenlerde ortaya çıkışı ve bundan sonra da uzun süre varlığını sürdürmesi manzum olarak gerçekleşmiştir. 17. yüzyıldan itibaren ti- yatro sadece manzum bir edebî tür olmaktan çıkarak düz yazıya (mensur) doğru gelişme göstermiştir. Bu gelişmede Batı’da Shakespeare’in önemli bir rolü ve katkısı olmuştur.\""
     },
     {
         "SoruID": 3258373,
@@ -14037,7 +14037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilimsel araştırmalarda düşüncelerin hangi kelimelerle ifade edileceği önemli bir<br/>konudur. Akademik üslup, bilimsel araştırmalarda tercih edilmesi gereken bir üsluptur. Yazar, bu üslup çerçevesinde, kişisel ifadelerden ve günlük konuşma dilinde tercih edilen polemik üslubundan kaçınmalıdır. Aynı zamanda genelleyici<br/>ve belirsiz ifadeler ve kanıtlanamayacak düşüncelerin de akademik üslupta yeri<br/>yoktur.<br>Yazar düşüncesini açık bir biçimde ifade etmelidir."
+        "Aciklama": "Bilimsel araştırmalarda düşüncelerin hangi kelimelerle ifade edileceği önemli bir<br/>konudur. Akademik üslup, bilimsel araştırmalarda tercih edilmesi gereken bir üsluptur. Yazar, bu üslup çerçevesinde, kişisel ifadelerden ve günlük konuşma dilinde tercih edilen polemik üslubundan kaçınmalıdır. Aynı zamanda genelleyici<br/>ve belirsiz ifadeler ve kanıtlanamayacak düşüncelerin de akademik üslupta yeri<br/>yoktur.<br/>Yazar düşüncesini açık bir biçimde ifade etmelidir."
     },
     {
         "SoruID": 3258055,
@@ -14057,7 +14057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilimsel yazılar, araştırma sonuçlarının ilgili bilim insanlarına, yararlanacak kurum ve kuruluşlara, bilimsel dergilerde yayınlanarak, rapor halinde,<br/>kongre ve sempozyumlarda bildiri/poster halinde ya da bilim uzmanlığı/doktora/<br/>tıpta uzmanlık biçiminde hazırlanarak sunulmasına hizmet eden özgün yazılardır.<br>Araştırma sonuçlarının uzmanlık biçiminde hazırlanarak sunulmasına hizmet eden özgün yazılardır."
+        "Aciklama": "Bilimsel yazılar, araştırma sonuçlarının ilgili bilim insanlarına, yararlanacak kurum ve kuruluşlara, bilimsel dergilerde yayınlanarak, rapor halinde,<br/>kongre ve sempozyumlarda bildiri/poster halinde ya da bilim uzmanlığı/doktora/<br/>tıpta uzmanlık biçiminde hazırlanarak sunulmasına hizmet eden özgün yazılardır.<br/>Araştırma sonuçlarının uzmanlık biçiminde hazırlanarak sunulmasına hizmet eden özgün yazılardır."
     },
     {
         "SoruID": 3258057,
@@ -14177,7 +14177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dilekçelerin yazımında uyulması gereken noktalar şöyledir:<br/>1. Dilekçe kağıdının üst kenarından bir miktar boşluk bırakıldıktan sonra isteğin iletildiği makam adı yazılır ve alt satıra geçilerek makamın bulunduğu yer adı yazılır.<br/>2. Metin bölümü birkaç maddeden oluşmuyorsa paragraf başı kadar boşluk<br/>bırakılarak yazıya başlanır. Dilek, hiçbir yanlış anlamaya yer vermeyecek,<br/>açık ve anlaşılır bir ifade ile bildirilir. Anlatılmak istenen her şey kısa ve öz<br/>biçimde yazılmalıdır.<br/>3. Dilekçenin metin bölümü “arz ederim” ifadesiyle sonlandırılmalıdır.<br/>4. Metin bölümünün sonuna sağ alta tarih yazılır. Tarihin altına imza atılır.<br/>İmzanın altına da ad ve soyad yazılır.<br/>5. İmza bölümünden sonra kâğıdın sol alt tarafına adres ve iletişim bilgileri<br/>yazılır.<br/>6. Dilekçede ek belge varsa kağıdın sol alt tarafına adres ve iletişim bilgilerinin altına sıralanır.<br>Dilekçede ek belge varsa kağıdın sol alt tarafına adres ve iletişim bilgilerinin üstüne sıralanır."
+        "Aciklama": "Dilekçelerin yazımında uyulması gereken noktalar şöyledir:<br/>1. Dilekçe kağıdının üst kenarından bir miktar boşluk bırakıldıktan sonra isteğin iletildiği makam adı yazılır ve alt satıra geçilerek makamın bulunduğu yer adı yazılır.<br/>2. Metin bölümü birkaç maddeden oluşmuyorsa paragraf başı kadar boşluk<br/>bırakılarak yazıya başlanır. Dilek, hiçbir yanlış anlamaya yer vermeyecek,<br/>açık ve anlaşılır bir ifade ile bildirilir. Anlatılmak istenen her şey kısa ve öz<br/>biçimde yazılmalıdır.<br/>3. Dilekçenin metin bölümü “arz ederim” ifadesiyle sonlandırılmalıdır.<br/>4. Metin bölümünün sonuna sağ alta tarih yazılır. Tarihin altına imza atılır.<br/>İmzanın altına da ad ve soyad yazılır.<br/>5. İmza bölümünden sonra kâğıdın sol alt tarafına adres ve iletişim bilgileri<br/>yazılır.<br/>6. Dilekçede ek belge varsa kağıdın sol alt tarafına adres ve iletişim bilgilerinin altına sıralanır.<br/>Dilekçede ek belge varsa kağıdın sol alt tarafına adres ve iletişim bilgilerinin üstüne sıralanır."
     },
     {
         "SoruID": 3258063,
@@ -14537,7 +14537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yöntem, araştırmanın amacını gerçekleştirebilmek için kullanılan genel yaklaşımdır; araştırma tekniği ise araştırma yönteminin gerçekleştirilebilmesi için kullanılan bilgi toplama aracıdır. Böyle bir çabanın üretim olarak ortaya konması da <em>bilimsel yazı </em>olarak adlandırılır.<br>Yöntem/ araştırma tekniği/ bilimsel yazı"
+        "Aciklama": "Yöntem, araştırmanın amacını gerçekleştirebilmek için kullanılan genel yaklaşımdır; araştırma tekniği ise araştırma yönteminin gerçekleştirilebilmesi için kullanılan bilgi toplama aracıdır. Böyle bir çabanın üretim olarak ortaya konması da <em>bilimsel yazı </em>olarak adlandırılır.<br/>Yöntem/ araştırma tekniği/ bilimsel yazı"
     },
     {
         "SoruID": 3258354,
@@ -14557,7 +14557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözcük tekrarından kaçınılmalı, tekrara düşmemek için sözcüklerin eşanlamlıları kullanılmalıdır. Kavramlar veya terimler ise her defasında aynı biçimde kullanılmalıdır.<br>Kavramlar veya terimlerin her kullanımında farklı bir eş anlamlı kavram veya terim seçilmelidir."
+        "Aciklama": "Sözcük tekrarından kaçınılmalı, tekrara düşmemek için sözcüklerin eşanlamlıları kullanılmalıdır. Kavramlar veya terimler ise her defasında aynı biçimde kullanılmalıdır.<br/>Kavramlar veya terimlerin her kullanımında farklı bir eş anlamlı kavram veya terim seçilmelidir."
     },
     {
         "SoruID": 3258355,
@@ -14637,7 +14637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Metin bölümünün sonuna sağ alta tarih yazılır.<br>Metin bölümünün sonuna sol alta tarih yazılır."
+        "Aciklama": "Metin bölümünün sonuna sağ alta tarih yazılır.<br/>Metin bölümünün sonuna sol alta tarih yazılır."
     },
     {
         "SoruID": 3258359,
@@ -14657,7 +14657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tarihin altına imza atılır. İmzanın altına ad soyad yazılır.<br>Tarihin altına ad ve soyad yazılır. Ad soyadın altına imza atılır."
+        "Aciklama": "Tarihin altına imza atılır. İmzanın altına ad soyad yazılır.<br/>Tarihin altına ad ve soyad yazılır. Ad soyadın altına imza atılır."
     },
     {
         "SoruID": 3258360,
@@ -14677,7 +14677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dilekçede ek belge varsa kağıdın sol alt tarafına adres ve iletişim bilgilerinin altına sıralanır.<br>Dilekçede ek belge varsa kağıdın sağ alt tarafına sıralanır."
+        "Aciklama": "Dilekçede ek belge varsa kağıdın sol alt tarafına adres ve iletişim bilgilerinin altına sıralanır.<br/>Dilekçede ek belge varsa kağıdın sağ alt tarafına sıralanır."
     },
     {
         "SoruID": 3258361,
@@ -14697,7 +14697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Güvenilir araştırma sonuçları sağlamak bilimsel yazılarda standartlaşmanın bir özelliği değildir.<br>Bilimsel yazılarda güvenilir araştırma sonuçları sağlamak atandartlaşmanın özelliklerinden biri değildir."
+        "Aciklama": "Güvenilir araştırma sonuçları sağlamak bilimsel yazılarda standartlaşmanın bir özelliği değildir.<br/>Bilimsel yazılarda güvenilir araştırma sonuçları sağlamak atandartlaşmanın özelliklerinden biri değildir."
     },
     {
         "SoruID": 3258362,
@@ -14717,7 +14717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kaynaklar yazar soyadına göre ayrıntılı olarak sıralanır.<br>Kaynak yazarlarının soyadına göre olmalıdır."
+        "Aciklama": "Kaynaklar yazar soyadına göre ayrıntılı olarak sıralanır.<br/>Kaynak yazarlarının soyadına göre olmalıdır."
     },
     {
         "SoruID": 3258393,
@@ -14737,7 +14737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tamamlandı.<br>Bir soruna çözüm bulmak için gerekli verilerin planlı ve sistemli bir biçimde toplanması, sınıflandırılması, çözümlenmesi, açıklanması ve yorumlanması sürecine araştırma denir."
+        "Aciklama": "Tamamlandı.<br/>Bir soruna çözüm bulmak için gerekli verilerin planlı ve sistemli bir biçimde toplanması, sınıflandırılması, çözümlenmesi, açıklanması ve yorumlanması sürecine araştırma denir."
     },
     {
         "SoruID": 3258394,
@@ -14757,7 +14757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tamamlandı.<br>Bilimsel bir çalışmada giriş bölümü, çalışmanın amacının, konusunun, bilimsel çalışmalara ne kazandırılacağının, dolayısıyla özgünlüğünün ifade edildiği bölümdür.<br/>Doğru cevap D."
+        "Aciklama": "Tamamlandı.<br/>Bilimsel bir çalışmada giriş bölümü, çalışmanın amacının, konusunun, bilimsel çalışmalara ne kazandırılacağının, dolayısıyla özgünlüğünün ifade edildiği bölümdür.<br/>Doğru cevap D."
     },
     {
         "SoruID": 3258395,
@@ -14777,7 +14777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tmamlandı.<br>Anlatılmak istenen şeyi en açık ve en az kelime ile ifade etme anlamındaki yönteme \"kelime ekonomisi\" denir."
+        "Aciklama": "Tmamlandı.<br/>Anlatılmak istenen şeyi en açık ve en az kelime ile ifade etme anlamındaki yönteme \"kelime ekonomisi\" denir."
     },
     {
         "SoruID": 3258396,
@@ -14797,7 +14797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tamamlandı.<br>Daha çok psikoloji, eğitim ve diğer sosyal bilimlerdeki bilimsel yazıların hazırlanmasında tercih edilen bir yazım stili olan APA: Amerikan Psikoloji Birliği (American Psychological Association).<br/>Doğru cevap A."
+        "Aciklama": "Tamamlandı.<br/>Daha çok psikoloji, eğitim ve diğer sosyal bilimlerdeki bilimsel yazıların hazırlanmasında tercih edilen bir yazım stili olan APA: Amerikan Psikoloji Birliği (American Psychological Association).<br/>Doğru cevap A."
     },
     {
         "SoruID": 3258397,
@@ -14817,7 +14817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "TAMAMLANDI.<br>Yazarın konusuyla ilgili herhangi bir cümleyi/ paragrafı/fikri kaynakta yer aldığı şekliyle hiçbir müdahalede bulunmadan tırnak içinde alıntılama yapmasına doğrudan aktarım denir.<br/>Doğru cevap B."
+        "Aciklama": "TAMAMLANDI.<br/>Yazarın konusuyla ilgili herhangi bir cümleyi/ paragrafı/fikri kaynakta yer aldığı şekliyle hiçbir müdahalede bulunmadan tırnak içinde alıntılama yapmasına doğrudan aktarım denir.<br/>Doğru cevap B."
     },
     {
         "SoruID": 3258398,
@@ -14837,7 +14837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tamamlandı.<br>MLA (Modern Dil Birliği-Modern Language Association) ise, metin içinde yazar ve sayfa numarası bilgisini önermektedir. Bu stil daha çok edebiyat, tarih, felsefe, modern ve klasik diller gibi beşeri bilimler dallarında kullanılır.<br/>Doğru cevap E."
+        "Aciklama": "Tamamlandı.<br/>MLA (Modern Dil Birliği-Modern Language Association) ise, metin içinde yazar ve sayfa numarası bilgisini önermektedir. Bu stil daha çok edebiyat, tarih, felsefe, modern ve klasik diller gibi beşeri bilimler dallarında kullanılır.<br/>Doğru cevap E."
     },
     {
         "SoruID": 3258399,
@@ -14857,7 +14857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tamamlandı.<br>Bir eseri yayıma hazırlayan, derleyen, çeviren ya da esere editörlük yapanların kaynakçada mutlaka vurgulanması gerekir. Çeviri bir eserin orijinal yazarı, yazar ad ve soyadı bilgileri içerisinde yer alırken, eseri çeviren kişi, eserin adı belirtildikten sonra çev. ibaresi ile yer almalıdır. Eser editörlüğü ya da derlemesi ed. haz. ya da der. ibareleri ile belirtilmelidir. Kaynak gösterirken eserin bu konudaki niteliğini vurgulamak önemlidir.<br/>Doğru cevap E."
+        "Aciklama": "Tamamlandı.<br/>Bir eseri yayıma hazırlayan, derleyen, çeviren ya da esere editörlük yapanların kaynakçada mutlaka vurgulanması gerekir. Çeviri bir eserin orijinal yazarı, yazar ad ve soyadı bilgileri içerisinde yer alırken, eseri çeviren kişi, eserin adı belirtildikten sonra çev. ibaresi ile yer almalıdır. Eser editörlüğü ya da derlemesi ed. haz. ya da der. ibareleri ile belirtilmelidir. Kaynak gösterirken eserin bu konudaki niteliğini vurgulamak önemlidir.<br/>Doğru cevap E."
     },
     {
         "SoruID": 3258400,
@@ -14877,7 +14877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tamamlandı.<br>Resmî ya da özel kuruluşlara, gerçek ya da tüzel kişilere yazılan, bir dileği, isteği,<br/>ihbar ve şikayeti bildirmek üzere veya herhangi bir konuda bilgi sormak amacıyla<br/>yazılan resmî mektup türlerinden en yaygını dilekçedir. Dilekçelerin yazımında<br/>uyulması gereken noktalar şöyledir:<br/>1. Dilekçe kağıdının üst kenarından bir miktar boşluk bırakıldıktan sonra isteğin<br/>iletildiği makam adı yazılır ve alt satıra geçilerek makamın bulunduğu<br/>yer adı yazılır.<br/>2. Metin bölümü birkaç maddeden oluşmuyorsa paragraf başı kadar boşluk<br/>bırakılarak yazıya başlanır. Dilek, hiçbir yanlış anlamaya yer vermeyecek,<br/>açık ve anlaşılır bir ifade ile bildirilir. Anlatılmak istenen her şey kısa ve öz<br/>biçimde yazılmalıdır.<br/>3. Dilekçenin metin bölümü “arz ederim” ifadesiyle sonlandırılmalıdır.<br/>4. Metin bölümünün sonuna sağ alta tarih yazılır. Tarihin altına imza atılır.<br/>İmzanın altına da ad ve soyad yazılır.<br/>5. İmza bölümünden sonra kâğıdın sol alt tarafına adres ve iletişim bilgileri<br/>yazılır.<br/>6. Dilekçede ek belge varsa kağıdın sol alt tarafına adres ve iletişim bilgilerinin altına sıralanır.<br/>Eskiden arzuhal ya da istida diye de adlandırılan bu tür, çoğunlukla çizgisiz dosya kâğıdına yazılır.<br/>Doğru cevap C."
+        "Aciklama": "Tamamlandı.<br/>Resmî ya da özel kuruluşlara, gerçek ya da tüzel kişilere yazılan, bir dileği, isteği,<br/>ihbar ve şikayeti bildirmek üzere veya herhangi bir konuda bilgi sormak amacıyla<br/>yazılan resmî mektup türlerinden en yaygını dilekçedir. Dilekçelerin yazımında<br/>uyulması gereken noktalar şöyledir:<br/>1. Dilekçe kağıdının üst kenarından bir miktar boşluk bırakıldıktan sonra isteğin<br/>iletildiği makam adı yazılır ve alt satıra geçilerek makamın bulunduğu<br/>yer adı yazılır.<br/>2. Metin bölümü birkaç maddeden oluşmuyorsa paragraf başı kadar boşluk<br/>bırakılarak yazıya başlanır. Dilek, hiçbir yanlış anlamaya yer vermeyecek,<br/>açık ve anlaşılır bir ifade ile bildirilir. Anlatılmak istenen her şey kısa ve öz<br/>biçimde yazılmalıdır.<br/>3. Dilekçenin metin bölümü “arz ederim” ifadesiyle sonlandırılmalıdır.<br/>4. Metin bölümünün sonuna sağ alta tarih yazılır. Tarihin altına imza atılır.<br/>İmzanın altına da ad ve soyad yazılır.<br/>5. İmza bölümünden sonra kâğıdın sol alt tarafına adres ve iletişim bilgileri<br/>yazılır.<br/>6. Dilekçede ek belge varsa kağıdın sol alt tarafına adres ve iletişim bilgilerinin altına sıralanır.<br/>Eskiden arzuhal ya da istida diye de adlandırılan bu tür, çoğunlukla çizgisiz dosya kâğıdına yazılır.<br/>Doğru cevap C."
     },
     {
         "SoruID": 3258401,
@@ -14897,7 +14897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tamamlandı.<br>Bir konu ya da olayın incelenmesi sonucunda elde edilen veriler ışığında ortaya çıkan görüşlerin sunulduğu yazı türüne rapor denir.<br/>Doğru cevap D."
+        "Aciklama": "Tamamlandı.<br/>Bir konu ya da olayın incelenmesi sonucunda elde edilen veriler ışığında ortaya çıkan görüşlerin sunulduğu yazı türüne rapor denir.<br/>Doğru cevap D."
     },
     {
         "SoruID": 3258402,
@@ -14917,7 +14917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "TAMAMLANDI<br>Resmî dairelerin ve tüzel kişilik taşıyan kuruluşların birbirlerine yazdıkları resmî<br/>yazılarla, bunların vatandaşların başvurularına verdikleri yazılı cevaplara denir.<br/>Resmî mektuplar ve iş mektupları biçim ve içerik açısından bakıldığında dilekçe<br/>yazımı ile benzerlik göstermektedir. Dilekçeden farkı, bu tür mektuplarda tarihle<br/>birlikte mektubun sıra numarası ve konusunun belirtilmesidir. Cevap niteliğinde<br/>olan resmî mektuplarda ilgi hanesine cevabı olduğu mektubun sayı ve tarihi, konu<br/>başlığına da kısaca maksat yazılır. Bundan sonra iki ya da üç satır aralığı bırakılarak<br/>mektup yazılır.<br/>Doğru cevap A."
+        "Aciklama": "TAMAMLANDI<br/>Resmî dairelerin ve tüzel kişilik taşıyan kuruluşların birbirlerine yazdıkları resmî<br/>yazılarla, bunların vatandaşların başvurularına verdikleri yazılı cevaplara denir.<br/>Resmî mektuplar ve iş mektupları biçim ve içerik açısından bakıldığında dilekçe<br/>yazımı ile benzerlik göstermektedir. Dilekçeden farkı, bu tür mektuplarda tarihle<br/>birlikte mektubun sıra numarası ve konusunun belirtilmesidir. Cevap niteliğinde<br/>olan resmî mektuplarda ilgi hanesine cevabı olduğu mektubun sayı ve tarihi, konu<br/>başlığına da kısaca maksat yazılır. Bundan sonra iki ya da üç satır aralığı bırakılarak<br/>mektup yazılır.<br/>Doğru cevap A."
     },
     {
         "SoruID": 3258403,
@@ -14937,7 +14937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilimsel Araştırma Süreci<br>Maliyetinin yüksek olması"
+        "Aciklama": "Bilimsel Araştırma Süreci<br/>Maliyetinin yüksek olması"
     },
     {
         "SoruID": 3258404,
@@ -14957,7 +14957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilimsel Araştırma Süreci<br>Hipotez"
+        "Aciklama": "Bilimsel Araştırma Süreci<br/>Hipotez"
     },
     {
         "SoruID": 3258405,
@@ -14977,7 +14977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilimsel araştırma süreci<br>Kaynak taraması"
+        "Aciklama": "Bilimsel araştırma süreci<br/>Kaynak taraması"
     },
     {
         "SoruID": 3258406,
@@ -14997,7 +14997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilimsel Yazının İçeriği<br>Sonuç"
+        "Aciklama": "Bilimsel Yazının İçeriği<br/>Sonuç"
     },
     {
         "SoruID": 3258407,
@@ -15017,7 +15017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAZIŞMA TÜRLERİ<br>Rapor"
+        "Aciklama": "YAZIŞMA TÜRLERİ<br/>Rapor"
     },
     {
         "SoruID": 3258408,
@@ -15037,7 +15037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAZIŞMA TÜRLERİ<br>Karar"
+        "Aciklama": "YAZIŞMA TÜRLERİ<br/>Karar"
     },
     {
         "SoruID": 3258409,
@@ -15057,7 +15057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Özel Yazışmalar<br>Açık mektup"
+        "Aciklama": "Özel Yazışmalar<br/>Açık mektup"
     },
     {
         "SoruID": 3258410,
@@ -15077,7 +15077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Özel Yazışmalar<br>Dilekçe"
+        "Aciklama": "Özel Yazışmalar<br/>Dilekçe"
     },
     {
         "SoruID": 3258411,
@@ -15097,7 +15097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Özel yazışmalar<br>Edebi mektup"
+        "Aciklama": "Özel yazışmalar<br/>Edebi mektup"
     },
     {
         "SoruID": 3258412,
@@ -15117,7 +15117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Paragraf İçi Kaynak Gösterme Yöntemi<br>APA"
+        "Aciklama": "Paragraf İçi Kaynak Gösterme Yöntemi<br/>APA"
     },
     {
         "SoruID": 3258414,
@@ -15137,7 +15137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilimsel Araştırma Süreci, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "Bilimsel Araştırma Süreci, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3258416,
@@ -15157,7 +15157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilimsel Araştırma Süreci, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "Bilimsel Araştırma Süreci, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3258418,
@@ -15177,7 +15177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilimsel Araştırmada Dil ve Anlatım, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "Bilimsel Araştırmada Dil ve Anlatım, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3258419,
@@ -15197,7 +15197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kaynak Gösterme, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 3"
+        "Aciklama": "Kaynak Gösterme, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 3"
     },
     {
         "SoruID": 3258420,
@@ -15217,7 +15217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dilekçe, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 4"
+        "Aciklama": "Dilekçe, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 4"
     },
     {
         "SoruID": 3258424,
@@ -15737,7 +15737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuma amacını belirleme okuma öncesinde uygulanan bir stratejdir.<br>Okuma öncesinde belirlenen amaçlar doğrultusunda metnin okunması, değerlendirilmesi ve anlama düzeyinin kontrol edilmesidir. Bu amaçla not alma, okuma hızını ayarlama, önemli bilgiyi işaretleme, sözlük vb. başvuru kaynaklarını kullanma, okuma sırasında geri dönüşlerde bulunma, metne yoğunlaşma, sesli okuma, bağlama yönelik ipuçları kullanma, bilginin kalıcılığını sağlamak amacıyla şemalaştırma, resimleştirme, noktalama işaretlerine, yazım kurallarına dikkat etme, önce okunanları kontrol etme, anlamı bilinmeyen kelimeleri metinden yola çıkarak tahmin etme ya da ek-köke dayalı olarak anlamı kestirme gibi stratejiler okuma eylemi devam ederken kullanılabilir (Birincioğlu, 2006; Karatay, 2007)."
+        "Aciklama": "Okuma amacını belirleme okuma öncesinde uygulanan bir stratejdir.<br/>Okuma öncesinde belirlenen amaçlar doğrultusunda metnin okunması, değerlendirilmesi ve anlama düzeyinin kontrol edilmesidir. Bu amaçla not alma, okuma hızını ayarlama, önemli bilgiyi işaretleme, sözlük vb. başvuru kaynaklarını kullanma, okuma sırasında geri dönüşlerde bulunma, metne yoğunlaşma, sesli okuma, bağlama yönelik ipuçları kullanma, bilginin kalıcılığını sağlamak amacıyla şemalaştırma, resimleştirme, noktalama işaretlerine, yazım kurallarına dikkat etme, önce okunanları kontrol etme, anlamı bilinmeyen kelimeleri metinden yola çıkarak tahmin etme ya da ek-köke dayalı olarak anlamı kestirme gibi stratejiler okuma eylemi devam ederken kullanılabilir (Birincioğlu, 2006; Karatay, 2007)."
     },
     {
         "SoruID": 3257581,
@@ -15817,7 +15817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okumada geri bildirim için metne yönelmek, tekrar tekrar okumak, metinde atlamalar yapıp ileri-geri dönmek gibi yöntemler mümkünken, <strong>özellikle</strong> <strong>canlı bir dinleme sırasında</strong> kaynaktan gelen iletiyi sürekli tekrar et(tir)mek veya durdurmak ya da ileri-geri gitmek mümkün olmayabilir.<br>Okuma/dinleme öncesi, sırası ve sonrasındaki davranışlar her ikisi için de anlama sürecini etkilemektedir. Her ikisinde de anlamanın gerçekleşip gerçekleşmediği, anlama sürecinin aksadığı yönler alınan geri bildirimler sayesinde anlaşılabilir. İlgi ve istekler de yine her iki bileşen açısından anlama sürecini etkileyen ortak birer faktör olarak ifade edilebilir."
+        "Aciklama": "Okumada geri bildirim için metne yönelmek, tekrar tekrar okumak, metinde atlamalar yapıp ileri-geri dönmek gibi yöntemler mümkünken, <strong>özellikle</strong> <strong>canlı bir dinleme sırasında</strong> kaynaktan gelen iletiyi sürekli tekrar et(tir)mek veya durdurmak ya da ileri-geri gitmek mümkün olmayabilir.<br/>Okuma/dinleme öncesi, sırası ve sonrasındaki davranışlar her ikisi için de anlama sürecini etkilemektedir. Her ikisinde de anlamanın gerçekleşip gerçekleşmediği, anlama sürecinin aksadığı yönler alınan geri bildirimler sayesinde anlaşılabilir. İlgi ve istekler de yine her iki bileşen açısından anlama sürecini etkileyen ortak birer faktör olarak ifade edilebilir."
     },
     {
         "SoruID": 3257653,
@@ -16537,7 +16537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okumanın temel niteliklerini sıralayabileceksiniz.<br>Metnin sesli ya da sesiz okunmasından sonra, metinde ele alınan olay ya da düşüncelerin tartışılması esasına dayanan okumadır."
+        "Aciklama": "Okumanın temel niteliklerini sıralayabileceksiniz.<br/>Metnin sesli ya da sesiz okunmasından sonra, metinde ele alınan olay ya da düşüncelerin tartışılması esasına dayanan okumadır."
     },
     {
         "SoruID": 3258260,
@@ -16557,7 +16557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuduğunu anlama stratejilerini sıralayabileceksiniz.<br>Metinle ilgili önceden yapılan tahminlerin doğru olup olmadığını kontrol etme, özetleme, metindeki düşünceler arasındaki ilişkiyi görmek için metni yeniden gözden geçirme gibi stratejiler sayılabilir"
+        "Aciklama": "Okuduğunu anlama stratejilerini sıralayabileceksiniz.<br/>Metinle ilgili önceden yapılan tahminlerin doğru olup olmadığını kontrol etme, özetleme, metindeki düşünceler arasındaki ilişkiyi görmek için metni yeniden gözden geçirme gibi stratejiler sayılabilir"
     },
     {
         "SoruID": 3258261,
@@ -16577,7 +16577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dinleme türlerini sıralayabileceksiniz.<br>Bir kişinin duygu ve düşüncelerini anlayabilmek için kendimizi onun yerine koyarak yaptığımız dinlemedir."
+        "Aciklama": "Dinleme türlerini sıralayabileceksiniz.<br/>Bir kişinin duygu ve düşüncelerini anlayabilmek için kendimizi onun yerine koyarak yaptığımız dinlemedir."
     },
     {
         "SoruID": 3258262,
@@ -16597,7 +16597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuduğunu anlama stratejilerini sıralayabileceksiniz.<br>Okuma sürecinde metnin daha iyi anlaşılmasını sağlayacak, okuduğunu anlamayı destekleyecek, anlama hızını arttıracak bazı çalışmalar yapılabilir. Bu çalışmalar şu şekilde sıralanabilir:<br/>• Metnin ana ve ara başlıkları arasında ilişki kurmak<br/>• Metnin paragrafları arasında ilişki kurmak, ilişkiyi kavramak<br/>• Okuma sırasında önemli görülen yerleri not almak<br/>• Metnin konusunu belirlemek<br/>• Metindeki ana ve yardımcı düşünceyi belirlemek<br/>• Metin yazarının bakış açısını, anlatım tarzını belirlemek<br/>• Metinde yer alan örnekleri dikkatle okumak ve konuyla ilişkilendirmek<br/>• Metnin konusunu önceden bilinenlerle ilişkilendirmek<br/>• Metinde ele alınan konuyu zihinde yeniden yapılandırmak, analiz ve senteze<br/>gitmek, yorumlamak<br/>• Metinde geçen anlamı bilinmeyen kelime ve terimlere bağlama uygun anlamlar yüklemek<br/>• Metinden hareketle ‘’ne, nerede, ne zaman, nasıl, neden ve kim” sorularına<br/>cevap bulmak<br/>\"Zengin kelime dağarcığına sahip olmak\" bunlar arasında değildir."
+        "Aciklama": "Okuduğunu anlama stratejilerini sıralayabileceksiniz.<br/>Okuma sürecinde metnin daha iyi anlaşılmasını sağlayacak, okuduğunu anlamayı destekleyecek, anlama hızını arttıracak bazı çalışmalar yapılabilir. Bu çalışmalar şu şekilde sıralanabilir:<br/>• Metnin ana ve ara başlıkları arasında ilişki kurmak<br/>• Metnin paragrafları arasında ilişki kurmak, ilişkiyi kavramak<br/>• Okuma sırasında önemli görülen yerleri not almak<br/>• Metnin konusunu belirlemek<br/>• Metindeki ana ve yardımcı düşünceyi belirlemek<br/>• Metin yazarının bakış açısını, anlatım tarzını belirlemek<br/>• Metinde yer alan örnekleri dikkatle okumak ve konuyla ilişkilendirmek<br/>• Metnin konusunu önceden bilinenlerle ilişkilendirmek<br/>• Metinde ele alınan konuyu zihinde yeniden yapılandırmak, analiz ve senteze<br/>gitmek, yorumlamak<br/>• Metinde geçen anlamı bilinmeyen kelime ve terimlere bağlama uygun anlamlar yüklemek<br/>• Metinden hareketle ‘’ne, nerede, ne zaman, nasıl, neden ve kim” sorularına<br/>cevap bulmak<br/>\"Zengin kelime dağarcığına sahip olmak\" bunlar arasında değildir."
     },
     {
         "SoruID": 3258303,
@@ -16617,7 +16617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Temel dil becerileri, anlama ve anlatma olmak üzere iki temel alt bileşen üzerine kurulmuştur.<br>II ve III"
+        "Aciklama": "Temel dil becerileri, anlama ve anlatma olmak üzere iki temel alt bileşen üzerine kurulmuştur.<br/>II ve III"
     },
     {
         "SoruID": 3258304,
@@ -16637,7 +16637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuma eğitim süresince değil yaşam boyu devam etmelidir. Okuma yaşam boyu devam eden bir<br/>etkinliktir. Günlük yaşamın bir bölümü düzenli olarak okuma etkinliğine ayrılmalıdır. Bunun bir alışkanlık haline getirilmesiyle ancak etkin ve iyi okur olmanın temelleri atılabilir.<br>Okuma eğitim süresince devam etmelidir"
+        "Aciklama": "Okuma eğitim süresince değil yaşam boyu devam etmelidir. Okuma yaşam boyu devam eden bir<br/>etkinliktir. Günlük yaşamın bir bölümü düzenli olarak okuma etkinliğine ayrılmalıdır. Bunun bir alışkanlık haline getirilmesiyle ancak etkin ve iyi okur olmanın temelleri atılabilir.<br/>Okuma eğitim süresince devam etmelidir"
     },
     {
         "SoruID": 3258305,
@@ -16677,7 +16677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuma kültürü sürecinin ilk basamağı görsel okuryazarlık, ikinci basamağı okuma-yazma becerisi edinme, üçüncü basamağı ise okuma alışkanlığı becerisi kazanmaktır.<br>I, II ve III"
+        "Aciklama": "Okuma kültürü sürecinin ilk basamağı görsel okuryazarlık, ikinci basamağı okuma-yazma becerisi edinme, üçüncü basamağı ise okuma alışkanlığı becerisi kazanmaktır.<br/>I, II ve III"
     },
     {
         "SoruID": 3258307,
@@ -16717,7 +16717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuma sırasında kullanılan anlama stratejilerine; not alma, okuma hızını ayarlama, önemli bilgiyi işaretleme, metne yoğunlaşma ve bağlama yönelik ipuçlarını kullanma örnek olarak gösterilebilir.<br>Metnin bağlamına yönelik ipuçlarını kullanma"
+        "Aciklama": "Okuma sırasında kullanılan anlama stratejilerine; not alma, okuma hızını ayarlama, önemli bilgiyi işaretleme, metne yoğunlaşma ve bağlama yönelik ipuçlarını kullanma örnek olarak gösterilebilir.<br/>Metnin bağlamına yönelik ipuçlarını kullanma"
     },
     {
         "SoruID": 3258309,
@@ -16737,7 +16737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eleştirel okuma etkenliğinde metnin konusu ön yargılardan uzak bir şekilde zihinsel süreçlerden<br/>geçirilerek yeniden yapılandırılır, sorgulanır, yorumlanır ve değerlendirilir.<br>Eleştirel okumada okuyucunun ön yargıları sürece dahil edilir"
+        "Aciklama": "Eleştirel okuma etkenliğinde metnin konusu ön yargılardan uzak bir şekilde zihinsel süreçlerden<br/>geçirilerek yeniden yapılandırılır, sorgulanır, yorumlanır ve değerlendirilir.<br/>Eleştirel okumada okuyucunun ön yargıları sürece dahil edilir"
     },
     {
         "SoruID": 3258310,
@@ -16797,7 +16797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuma-dinleme ilişkisi ile ilgili olarak;<br/><ul><br/><li>Her ikisi de anlama becerisinin temel bileşenidir</li><br/><li>Her ikisinde de zihnin ve beynin aktif olması gerekir</li><br/><li>Okuma/dinleme öncesi, sırası ve sonrasındaki davranışlar her ikisi için de an<br/>lama sürecini etkilemektedir.</br></li><br/></ul><br>I, II ve III"
+        "Aciklama": "Okuma-dinleme ilişkisi ile ilgili olarak;<br/><ul><br/><li>Her ikisi de anlama becerisinin temel bileşenidir</li><br/><li>Her ikisinde de zihnin ve beynin aktif olması gerekir</li><br/><li>Okuma/dinleme öncesi, sırası ve sonrasındaki davranışlar her ikisi için de an<br/>lama sürecini etkilemektedir.</li><br/></ul><br/>I, II ve III"
     },
     {
         "SoruID": 3258433,
@@ -17017,7 +17017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 1"
+        "Aciklama": "Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 1"
     },
     {
         "SoruID": 3258454,
@@ -17037,7 +17037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 1"
+        "Aciklama": "<br/>Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 1"
     },
     {
         "SoruID": 3258455,
@@ -17057,7 +17057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 1"
+        "Aciklama": "<br/>Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 1"
     },
     {
         "SoruID": 3258456,
@@ -17077,7 +17077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Okuduğunu Anlama, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "<br/>Okuduğunu Anlama, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3258457,
@@ -17097,7 +17097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Okuma Alışkanlığı, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 3"
+        "Aciklama": "<br/>Okuma Alışkanlığı, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 3"
     },
     {
         "SoruID": 3258459,
@@ -17117,7 +17117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Eleştirel Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 5"
+        "Aciklama": "<br/>Eleştirel Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 5"
     },
     {
         "SoruID": 3258468,
@@ -18877,7 +18877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ezgi, titreşen, ses veren varlığın titreşim sayısının az ya da çok oluşuna denir.<br>Titreşen, ses veren varlığın titreşim sayısının az ya da çok oluşuna ezgi değil tonlama denir. İletilmek istenen mesaja, oluşturulmak istenen duygu değerine bağlı olarak konuşmacının cümle düzeyinde yaptığı tonlamalara <strong>ezgi</strong> denir."
+        "Aciklama": "Ezgi, titreşen, ses veren varlığın titreşim sayısının az ya da çok oluşuna denir.<br/>Titreşen, ses veren varlığın titreşim sayısının az ya da çok oluşuna ezgi değil tonlama denir. İletilmek istenen mesaja, oluşturulmak istenen duygu değerine bağlı olarak konuşmacının cümle düzeyinde yaptığı tonlamalara <strong>ezgi</strong> denir."
     },
     {
         "SoruID": 3258107,
@@ -19097,7 +19097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Konuşma türlerini ayırt edebileceksiniz.<br>Yukarıdaki tanımların hepsi sözlü iletişim ortamında bireyin uyması gereken kurallardandır. Dolayısıyla doğru cevap E seçeneğidir."
+        "Aciklama": "Konuşma türlerini ayırt edebileceksiniz.<br/>Yukarıdaki tanımların hepsi sözlü iletişim ortamında bireyin uyması gereken kurallardandır. Dolayısıyla doğru cevap E seçeneğidir."
     },
     {
         "SoruID": 3258257,
@@ -19117,7 +19117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Konuşma türlerini ayırt edebileceksiniz.<br>İş görüşmesi sırasında yapılan konuşmalar ile ilgili belirli hazırlıklar yapılabilse de bu konuşmaların içeriği, takınılan tutum bakımından standartları olamayacağından iş görüşmelerini topluluk karşısında yapılan hazırlıklı konuşmalardan ayrı ele almak gerekir. Dolayısıyla Doğru cevap A seçeneğidir."
+        "Aciklama": "Konuşma türlerini ayırt edebileceksiniz.<br/>İş görüşmesi sırasında yapılan konuşmalar ile ilgili belirli hazırlıklar yapılabilse de bu konuşmaların içeriği, takınılan tutum bakımından standartları olamayacağından iş görüşmelerini topluluk karşısında yapılan hazırlıklı konuşmalardan ayrı ele almak gerekir. Dolayısıyla Doğru cevap A seçeneğidir."
     },
     {
         "SoruID": 3258258,
@@ -19137,7 +19137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Konuşma türlerini ayırt edebileceksiniz.<br>Yukarıdaki ifade hazırlıklı konuşma türlerinden münazarayı tanımlamaktadır. Dolayısıyla doğru cevap C seçeneğidir."
+        "Aciklama": "Konuşma türlerini ayırt edebileceksiniz.<br/>Yukarıdaki ifade hazırlıklı konuşma türlerinden münazarayı tanımlamaktadır. Dolayısıyla doğru cevap C seçeneğidir."
     },
     {
         "SoruID": 3258281,
@@ -19157,7 +19157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru, güzel ve etkili konuşmada olması gereken temel içerik özelliklerini betimleyebileceksiniz.<br>Doğru, güzel, iyi bir sesin sahip olması gereken temel fiziksel özellikler işitilebilirlik, esneklik, akıcılık ve hoşagiderliktir."
+        "Aciklama": "Doğru, güzel ve etkili konuşmada olması gereken temel içerik özelliklerini betimleyebileceksiniz.<br/>Doğru, güzel, iyi bir sesin sahip olması gereken temel fiziksel özellikler işitilebilirlik, esneklik, akıcılık ve hoşagiderliktir."
     },
     {
         "SoruID": 3258282,
@@ -19177,7 +19177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru, güzel ve etkili konuşmada olması gereken temel içerik özelliklerini betimleyebileceksiniz.<br>Duygulara daha fazla yer veren üsluba hissi üslup denir."
+        "Aciklama": "Doğru, güzel ve etkili konuşmada olması gereken temel içerik özelliklerini betimleyebileceksiniz.<br/>Duygulara daha fazla yer veren üsluba hissi üslup denir."
     },
     {
         "SoruID": 3258463,

@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 132559,
-        "SoruMetni": "A: May I see your passport, please?<br/>B: Yes,...........................................<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br></br>",
+        "SoruMetni": "A: May I see your passport, please?<br/>B: Yes,...........................................<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "she could",
         "B": "I can",
         "C": "you may",
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 132614,
-        "SoruMetni": "Ahmet: Can I send these two parcels and this letter, please ?<br/>Efe: Yes, Of course. Where would you like to send the letter ?<br/>Ahmet: I ........................... to send it to Ankara.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir</strong><strong>?</strong></br></br>",
+        "SoruMetni": "Ahmet: Can I send these two parcels and this letter, please ?<br/>Efe: Yes, Of course. Where would you like to send the letter ?<br/>Ahmet: I ........................... to send it to Ankara.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir</strong><strong>?</strong>",
         "A": "should",
         "B": "would like",
         "C": "might",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 214490,
-        "SoruMetni": "Bir bebek yürüyebilir ve konuşabilir.<br/><strong>Yukarıdaki cümlenin İngilizce karşılığı aşağıdakilerden hangisidir?</strong><br/></br>",
+        "SoruMetni": "Bir bebek yürüyebilir ve konuşabilir.<br/><strong>Yukarıdaki cümlenin İngilizce karşılığı aşağıdakilerden hangisidir?</strong>",
         "A": "A baby will walk and talk.",
         "B": "A baby can walk and talk.",
         "C": "A baby prefers to walk and talk.",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 214540,
-        "SoruMetni": "able / she / speak / is / French / to<br/><strong>Verilen kelimelerle oluşturulabilecek anlamlı ve kurallı cümle<br/>aşağıdakilerden hangisidir?</br></strong><br/></br>",
+        "SoruMetni": "able / she / speak / is / French / to<br/><strong>Verilen kelimelerle oluşturulabilecek anlamlı ve kurallı cümle<br/>aşağıdakilerden hangisidir?</strong>",
         "A": "Able she is speak French to.",
         "B": "She able is speak French to.",
         "C": "She is able to speak French.",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 214563,
-        "SoruMetni": "A: Sorry. Can I send these two parcels and this letter, please?<br/>B: .............................................................................................<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "A: Sorry. Can I send these two parcels and this letter, please?<br/>B: .............................................................................................<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Oh, where are you from?",
         "B": "Oh, where did you send them?",
         "C": "Yes, of course. Where would you like to send?",
@@ -241,7 +241,7 @@
     },
     {
         "SoruID": 232114,
-        "SoruMetni": "___________ you pass me the salt, please?<br/>Which of the following completes the request statement above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki rica ifadesini doğru şekilde tamamlar?</strong> </br>",
+        "SoruMetni": "___________ you pass me the salt, please?<br/>Which of the following completes the request statement above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki rica ifadesini doğru şekilde tamamlar?</strong>",
         "A": "Does",
         "B": "Could",
         "C": "Are",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 232120,
-        "SoruMetni": "Excuse me, ___________ I go out to make a phone call?<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi doğru şekilde tamamlar?</strong> </br>",
+        "SoruMetni": "Excuse me, ___________ I go out to make a phone call?<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi doğru şekilde tamamlar?</strong>",
         "A": "are able to",
         "B": "should have",
         "C": "can",
@@ -281,7 +281,7 @@
     },
     {
         "SoruID": 232121,
-        "SoruMetni": "Ada: Is there anything that Ayşe is bad at doing?<br/>Burak: There is one. Ayşe ___________ swim very well.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki diyaloğu doğru şekilde tamamlar?</strong> </br></br>",
+        "SoruMetni": "Ada: Is there anything that Ayşe is bad at doing?<br/>Burak: There is one. Ayşe ___________ swim very well.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki diyaloğu doğru şekilde tamamlar?</strong>",
         "A": "do not",
         "B": "has not",
         "C": "be not able to",
@@ -301,7 +301,7 @@
     },
     {
         "SoruID": 232122,
-        "SoruMetni": "In the past, most people were able to speak only one foreign language.<br/>Which of thefollowing is Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong> </br>",
+        "SoruMetni": "In the past, most people were able to speak only one foreign language.<br/>Which of thefollowing is Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong>",
         "A": "Geçmişte birçok insan sadece bir tane yabancı dil konuşuyordu.",
         "B": "Geçmişte birçok insan sadece bir tane yabancı dil konuşurdu.",
         "C": "Geçmişte birçok insan sadece bir tane yabancı dil konuşmalıydı.",
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 232125,
-        "SoruMetni": "Hayrettin: Where is my laptop?<br/>Mehmet: ..........................................<br/>Which of the following expressions completes the dialogue above?<br/><strong>Aşağıdaki ifadelerden hangisi diyalogu doğru şekilde tamamlar?</strong> </br></br>",
+        "SoruMetni": "Hayrettin: Where is my laptop?<br/>Mehmet: ..........................................<br/>Which of the following expressions completes the dialogue above?<br/><strong>Aşağıdaki ifadelerden hangisi diyalogu doğru şekilde tamamlar?</strong>",
         "A": "It was been in your office.",
         "B": "It can to be in your office.",
         "C": "It is able to in your office.",
@@ -401,7 +401,7 @@
     },
     {
         "SoruID": 232127,
-        "SoruMetni": "Sarp and Âlp ___________ be brothers.<br/>They look so alike. Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi doğru şekilde tamamlar?</strong> </br>",
+        "SoruMetni": "Sarp and Âlp ___________ be brothers.<br/>They look so alike. Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi doğru şekilde tamamlar?</strong>",
         "A": "will",
         "B": "do",
         "C": "are",
@@ -441,7 +441,7 @@
     },
     {
         "SoruID": 343415,
-        "SoruMetni": "Alice: ................................................................. <br/>Officer: Sure. Where would you like to send it?<br/>Alice: To Istanbul. <br/><strong>Konuşma metninde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br></br>",
+        "SoruMetni": "Alice: ................................................................. <br/>Officer: Sure. Where would you like to send it?<br/>Alice: To Istanbul. <br/><strong>Konuşma metninde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Can I help you?",
         "B": "Are you able to you deliver this for me?",
         "C": "How can you send this letter?",
@@ -801,7 +801,7 @@
     },
     {
         "SoruID": 214499,
-        "SoruMetni": "Bu ilacı almalı mıyım? (tavsiye, nasihat alma)<br/><strong>Yukarıdaki cümlenin İngilizce karşılığı aşağıdakilerden hangisidir?</strong><br/></br>",
+        "SoruMetni": "Bu ilacı almalı mıyım? (tavsiye, nasihat alma)<br/><strong>Yukarıdaki cümlenin İngilizce karşılığı aşağıdakilerden hangisidir?</strong>",
         "A": "Can I take this medicine?",
         "B": "May I take this medicine?",
         "C": "Must I take this medicine?",
@@ -921,7 +921,7 @@
     },
     {
         "SoruID": 343427,
-        "SoruMetni": "<strong>Shop assistant:</strong> Can help you?<br/><strong>Sarah: </strong>Yes, please. Have you got this skirt in blue?<br/><strong>Shop assistant: </strong>Yes. What size would you like?<br/><strong>Sarah:</strong> Medium, please. <br/><strong>Shop assistant</strong>: OK, here you are. Would you like to try it on?<br/><strong>Sarah:</strong> .................................................... . Where are the changing rooms?<br/><strong>Konuşma metninde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong></br></br></br></br></br>",
+        "SoruMetni": "<strong>Shop assistant:</strong> Can help you?<br/><strong>Sarah: </strong>Yes, please. Have you got this skirt in blue?<br/><strong>Shop assistant: </strong>Yes. What size would you like?<br/><strong>Sarah:</strong> Medium, please. <br/><strong>Shop assistant</strong>: OK, here you are. Would you like to try it on?<br/><strong>Sarah:</strong> .................................................... . Where are the changing rooms?<br/><strong>Konuşma metninde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>",
         "A": "Oh, no. Thank you.",
         "B": "Maybe later.",
         "C": "I don't need to do that.",
@@ -1021,7 +1021,7 @@
     },
     {
         "SoruID": 197006,
-        "SoruMetni": "We are cleaning our house at the moment.<br/>Which of the following is the passive form of the sentence above?<br/><strong>Cümlenin edilgen biçimi aşağıdakilerden hangisidir?</strong> </br>",
+        "SoruMetni": "We are cleaning our house at the moment.<br/>Which of the following is the passive form of the sentence above?<br/><strong>Cümlenin edilgen biçimi aşağıdakilerden hangisidir?</strong>",
         "A": "The house was cleaned.",
         "B": "The house is been cleaned.",
         "C": "Our house is being cleaned at the moment.",
@@ -1061,7 +1061,7 @@
     },
     {
         "SoruID": 197012,
-        "SoruMetni": "The game __________ by the referee yesterday.<br/>Which of the following completes the passive sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki edilgen cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "The game __________ by the referee yesterday.<br/>Which of the following completes the passive sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki edilgen cümleyi tamamlar?</strong>",
         "A": "is being postponed",
         "B": "are postponed",
         "C": "are being postponed",
@@ -1101,7 +1101,7 @@
     },
     {
         "SoruID": 197019,
-        "SoruMetni": "...................... tea always ................. by your mother for breakfast?<br/>Which of the following completes the passive sentence above?<br/><strong>Aşağıdaki seçeneklerden hangisi sırasıyla yukarıdaki edilgen cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "...................... tea always ................. by your mother for breakfast?<br/>Which of the following completes the passive sentence above?<br/><strong>Aşağıdaki seçeneklerden hangisi sırasıyla yukarıdaki edilgen cümleyi tamamlar?</strong>",
         "A": "was/making",
         "B": "is/making",
         "C": "were/being made",
@@ -1121,7 +1121,7 @@
     },
     {
         "SoruID": 197024,
-        "SoruMetni": "Why are the flowers not ............................. watered now?<br/>Which of the following completes the passive sentence above?<br/><strong>Aşağıdakilerden hangisi verilen edilgen cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "Why are the flowers not ............................. watered now?<br/>Which of the following completes the passive sentence above?<br/><strong>Aşağıdakilerden hangisi verilen edilgen cümleyi tamamlar?</strong>",
         "A": "was",
         "B": "is",
         "C": "being",
@@ -1161,7 +1161,7 @@
     },
     {
         "SoruID": 197031,
-        "SoruMetni": "A: ................. are these lemons?<br/>B: They are 5 TL each.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "A: ................. are these lemons?<br/>B: They are 5 TL each.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Where",
         "B": "When",
         "C": "How",
@@ -1201,7 +1201,7 @@
     },
     {
         "SoruID": 197043,
-        "SoruMetni": "She couldn’t be persuaded by anybody to sell her land.<br/>Which of the following is Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong> </br>",
+        "SoruMetni": "She couldn’t be persuaded by anybody to sell her land.<br/>Which of the following is Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong>",
         "A": "O, arsasını satmak için hiç kimse tarafından ikna edilemiyordu.",
         "B": "Kimse onu arsasını satmaya ikna edemiyordu.",
         "C": "Kimse onun arsasının yerini bilmiyordu.",
@@ -1301,7 +1301,7 @@
     },
     {
         "SoruID": 214657,
-        "SoruMetni": "The tree .......... watered (by me) yesterday.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "The tree .......... watered (by me) yesterday.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "did",
         "B": "was",
         "C": "were",
@@ -1441,7 +1441,7 @@
     },
     {
         "SoruID": 134264,
-        "SoruMetni": "Ayşe was given a birthday present by Ahmet<br/><strong>Yukarıdaki edilgen cümlenin etken cümleye dönüştürülmüş hâli aşağıdaki seçeneklerden hangisidir?</strong><br type=\"_moz\"> <br/></br>",
+        "SoruMetni": "Ayşe was given a birthday present by Ahmet<br/><strong>Yukarıdaki edilgen cümlenin etken cümleye dönüştürülmüş hâli aşağıdaki seçeneklerden hangisidir?</strong>",
         "A": "Ahmet has given a birthday present to Ayşe.",
         "B": "Ahmet gives a birthday present to Ayşe",
         "C": "Ahmet will give a birthday present to Ayşe.",
@@ -1501,7 +1501,7 @@
     },
     {
         "SoruID": 197059,
-        "SoruMetni": "This survey ................. conducted by a professor tomorrow.<br/>Which of the following completes the passive sentence above?<br/><strong>Boş bırakılan yere aşağıdakilerden hangisi getirilirse edilgen cümleyi doğru şekilde tamamlar?</strong><br type=\"_moz\"> <br/></br></br>",
+        "SoruMetni": "This survey ................. conducted by a professor tomorrow.<br/>Which of the following completes the passive sentence above?<br/><strong>Boş bırakılan yere aşağıdakilerden hangisi getirilirse edilgen cümleyi doğru şekilde tamamlar?</strong>",
         "A": "will has been",
         "B": "was",
         "C": "is going to be",
@@ -1541,7 +1541,7 @@
     },
     {
         "SoruID": 197066,
-        "SoruMetni": "The old man is going to be taken to the hospital soon.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong> </br>",
+        "SoruMetni": "The old man is going to be taken to the hospital soon.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong>",
         "A": "Yaşlı adam dün hastaneye kaldırılmıştı.",
         "B": "Yaşlı adam kısa süre sonra hastaneye kaldırılmış olacak.",
         "C": "Yaşlı adam hastaneye kaldırılmış.",
@@ -1561,7 +1561,7 @@
     },
     {
         "SoruID": 197067,
-        "SoruMetni": "Will the neighbours be invited for the party this Saturday?<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong> </br>",
+        "SoruMetni": "Will the neighbours be invited for the party this Saturday?<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong>",
         "A": "Komşular bizi bu Cumartesi günkü partiye davet edecek mi?",
         "B": "Komşular bu Cumartesi günkü partiye davet edilir mi?",
         "C": "Komşular bu Cumartesi günkü partiye davet edilmiş mi?",
@@ -1581,7 +1581,7 @@
     },
     {
         "SoruID": 197069,
-        "SoruMetni": "this oil-painting / is going to / be sold / in the auction / next month<br/>Which of the following is the sentence form of the mixed words above.<br/><strong>Aşağıdakilerden hangisi yukarıda karışık olarak verilmiş kelimelerin cümle hâlidir?</strong> </br>",
+        "SoruMetni": "this oil-painting / is going to / be sold / in the auction / next month<br/>Which of the following is the sentence form of the mixed words above.<br/><strong>Aşağıdakilerden hangisi yukarıda karışık olarak verilmiş kelimelerin cümle hâlidir?</strong>",
         "A": "is going to this oil-painting be sold next month in the auction",
         "B": "In the auction next month this oil painting be sold",
         "C": "Be sold in the auction next month this oil painting is going to be sold.",
@@ -1641,7 +1641,7 @@
     },
     {
         "SoruID": 197075,
-        "SoruMetni": "Your trousers ................. shortened tomorrow.<br/>Which of the following completes the passive sentence above?<br/><strong>Hangisi yukarıdaki edilgen cümleyi doğru şekilde tamamlar?</strong> </br>",
+        "SoruMetni": "Your trousers ................. shortened tomorrow.<br/>Which of the following completes the passive sentence above?<br/><strong>Hangisi yukarıdaki edilgen cümleyi doğru şekilde tamamlar?</strong>",
         "A": "get",
         "B": "will have",
         "C": "are",
@@ -1721,7 +1721,7 @@
     },
     {
         "SoruID": 214529,
-        "SoruMetni": "The old man .......... going to be taken to the hospital soon.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "The old man .......... going to be taken to the hospital soon.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "be",
         "B": "were",
         "C": "am",
@@ -1741,7 +1741,7 @@
     },
     {
         "SoruID": 214637,
-        "SoruMetni": "She .......... born in London in 1795.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "She .......... born in London in 1795.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "is",
         "B": "has",
         "C": "was",
@@ -1821,7 +1821,7 @@
     },
     {
         "SoruID": 343455,
-        "SoruMetni": "<strong>Sales assistant: </strong>Hello, madam. Do you need any help?<br/><strong>Customer: </strong>Yes, please. I'd like to buy this shirt, but I don't like the colour. <br/><strong>Sales assistant: </strong>OK, what colour do you want? <br/><strong>Customer: </strong>Have you got it in black?<br/><strong>Sales assistant:</strong> Hold on a minute, please. ........................................................... .<br/><strong>Customer: </strong>OK, thank you.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br></br></br></br></br>",
+        "SoruMetni": "<strong>Sales assistant: </strong>Hello, madam. Do you need any help?<br/><strong>Customer: </strong>Yes, please. I'd like to buy this shirt, but I don't like the colour. <br/><strong>Sales assistant: </strong>OK, what colour do you want? <br/><strong>Customer: </strong>Have you got it in black?<br/><strong>Sales assistant:</strong> Hold on a minute, please. ........................................................... .<br/><strong>Customer: </strong>OK, thank you.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "I'll check and come back to help you.",
         "B": "Do you like everything in black?",
         "C": "I'll measure your waist.",
@@ -1941,7 +1941,7 @@
     },
     {
         "SoruID": 197096,
-        "SoruMetni": "If it rains a lot, erosion ................. .<br/>Which of the following completes the main clause above?<br/><strong>Hangisi yukarıdaki ana cümleciğini doğru şekilde tamamlar?</strong> </br>",
+        "SoruMetni": "If it rains a lot, erosion ................. .<br/>Which of the following completes the main clause above?<br/><strong>Hangisi yukarıdaki ana cümleciğini doğru şekilde tamamlar?</strong>",
         "A": "will be occurred",
         "B": "has occurred",
         "C": "might occur",
@@ -1961,7 +1961,7 @@
     },
     {
         "SoruID": 197099,
-        "SoruMetni": "If I arrive at home earlier, I __________ the dinner.<br/>Which of the following completes the main clause above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki ana cümleciğini doğru şekilde tamamlar?</strong> </br>",
+        "SoruMetni": "If I arrive at home earlier, I __________ the dinner.<br/>Which of the following completes the main clause above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki ana cümleciğini doğru şekilde tamamlar?</strong>",
         "A": "was preparing",
         "B": "have prepared",
         "C": "am preparing",
@@ -1981,7 +1981,7 @@
     },
     {
         "SoruID": 197104,
-        "SoruMetni": "If your parents decide to move to London, will you go there with them?<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong> </br>",
+        "SoruMetni": "If your parents decide to move to London, will you go there with them?<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong>",
         "A": "Eğer ailen Londra’ya yerleşme kararı alırsa, sen de onlarla birlikte git lütfen.",
         "B": "Eğer ailen Londra’ya yerleşme kararı alırsa, sen de onlarla birlikte gitmiş olur muydun?",
         "C": "Eğer ailen Londra’ya yerleşme kararı almış olsaydı, sen de onlarla birlikte gitmiş olur muydun?",
@@ -2001,7 +2001,7 @@
     },
     {
         "SoruID": 197109,
-        "SoruMetni": "If I were you, I would not do the same mistake.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong> </br>",
+        "SoruMetni": "If I were you, I would not do the same mistake.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong>",
         "A": "Senin yerinde olsam aynı hatayı yapmamış olacaktım.",
         "B": "Senin yerinde olsam aynı hatayı yapmayacağım.",
         "C": "Senin yerinde olsam aynı hatayı yapmazdım.",
@@ -2021,7 +2021,7 @@
     },
     {
         "SoruID": 197112,
-        "SoruMetni": "If I were you, I would buy a lovely gift to her.<br/><strong>Cümlenin çevirisi aşağıdakilerden hangisidir?</strong><br/></br>",
+        "SoruMetni": "If I were you, I would buy a lovely gift to her.<br/><strong>Cümlenin çevirisi aşağıdakilerden hangisidir?</strong>",
         "A": "Senin yerinde olsam, bana ne alırdın?",
         "B": "Senin yerinde olsam, ona güzel bir hediye alırdım.",
         "C": "Benim yerimde olsan, bana güzel bir hediye alırsın.",
@@ -2061,7 +2061,7 @@
     },
     {
         "SoruID": 197120,
-        "SoruMetni": "Thomas: When are you going to London?<br/>Shelby: If I __________ my master’s degree this semester, I can go to London in summer.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerin hangisi yukarıdaki diyaloğu tamamlar?</strong> </br></br>",
+        "SoruMetni": "Thomas: When are you going to London?<br/>Shelby: If I __________ my master’s degree this semester, I can go to London in summer.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerin hangisi yukarıdaki diyaloğu tamamlar?</strong>",
         "A": "complete",
         "B": "would complete",
         "C": "will have completed",
@@ -2081,7 +2081,7 @@
     },
     {
         "SoruID": 197125,
-        "SoruMetni": "Reporter: Is Ahmet coming to your wedding ceremony?<br/>Governor: If I ................ Ahmet’s phone number, I would / could invite him to my wedding ceremony but I don’t know his number.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong><br type=\"_moz\"> <br/></br></br>",
+        "SoruMetni": "Reporter: Is Ahmet coming to your wedding ceremony?<br/>Governor: If I ................ Ahmet’s phone number, I would / could invite him to my wedding ceremony but I don’t know his number.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>",
         "A": "will knowing",
         "B": "can know",
         "C": "is knowing",
@@ -2141,7 +2141,7 @@
     },
     {
         "SoruID": 214601,
-        "SoruMetni": "If you .......... regular exercise, you .......... fit.<br/><strong>Cümlede boş bırakılan yere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "If you .......... regular exercise, you .......... fit.<br/><strong>Cümlede boş bırakılan yere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "does / keep",
         "B": "does / keeps",
         "C": "doing / keeping",
@@ -2301,7 +2301,7 @@
     },
     {
         "SoruID": 197142,
-        "SoruMetni": "I feel really bored. I wish I ………. a book to read.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "I feel really bored. I wish I ………. a book to read.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "had",
         "B": "have",
         "C": "has",
@@ -2361,7 +2361,7 @@
     },
     {
         "SoruID": 197159,
-        "SoruMetni": "There was a concert yesterday. I wish I …………. known about the concert.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "There was a concert yesterday. I wish I …………. known about the concert.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "am",
         "B": "have",
         "C": "has",
@@ -2461,7 +2461,7 @@
     },
     {
         "SoruID": 197440,
-        "SoruMetni": "This room is very noisy. I wish I ……….. my own room.<br/><strong>Cümlede boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmedir?</strong><br/></br>",
+        "SoruMetni": "This room is very noisy. I wish I ……….. my own room.<br/><strong>Cümlede boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmedir?</strong>",
         "A": "has",
         "B": "have",
         "C": "am",
@@ -2501,7 +2501,7 @@
     },
     {
         "SoruID": 214643,
-        "SoruMetni": "I cannot go on holiday. I wish I .......... go.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "I cannot go on holiday. I wish I .......... go.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "can",
         "B": "will",
         "C": "am gong to",
@@ -2521,7 +2521,7 @@
     },
     {
         "SoruID": 214646,
-        "SoruMetni": "I can see that your assignment is quite difficult. I wish I .......... help you.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "I can see that your assignment is quite difficult. I wish I .......... help you.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "will",
         "B": "am going to",
         "C": "could",
@@ -2661,7 +2661,7 @@
     },
     {
         "SoruID": 197449,
-        "SoruMetni": "Ali, ....................is my cousin, lives in London.<br/>Which of the following completes the sentence above?<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong><br type=\"_moz\"> <br/></br></br>",
+        "SoruMetni": "Ali, ....................is my cousin, lives in London.<br/>Which of the following completes the sentence above?<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>",
         "A": "which",
         "B": "whom",
         "C": "who",
@@ -2681,7 +2681,7 @@
     },
     {
         "SoruID": 197452,
-        "SoruMetni": "He has bought a car _____________ has two doors.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "He has bought a car _____________ has two doors.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong>",
         "A": "which",
         "B": "whom",
         "C": "who",
@@ -2721,7 +2721,7 @@
     },
     {
         "SoruID": 197460,
-        "SoruMetni": "A- What are you looking for? B- I need a car ________ is strong and fast.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki diyaloğu tamamlar?</strong> </br>",
+        "SoruMetni": "A- What are you looking for? B- I need a car ________ is strong and fast.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki diyaloğu tamamlar?</strong>",
         "A": "when",
         "B": "which",
         "C": "what kind of",
@@ -2801,7 +2801,7 @@
     },
     {
         "SoruID": 197479,
-        "SoruMetni": "We live in Ankara __________ the capital city of Turkey.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "We live in Ankara __________ the capital city of Turkey.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong>",
         "A": "which",
         "B": "whom",
         "C": "who",
@@ -2821,7 +2821,7 @@
     },
     {
         "SoruID": 197484,
-        "SoruMetni": "Many people visit the Sherwood Forest where Robin lived.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong> </br>",
+        "SoruMetni": "Many people visit the Sherwood Forest where Robin lived.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong>",
         "A": "Birçok insan Robin’in yaşadığı Sherwood Forest’a göç etmiştir.",
         "B": "Birçok turist Robin’in yaşadığı Sherwood Forest’ı ziyaret eder.",
         "C": "Robin’in yaşadığı Sherwood Forest’ı ziyaret etmek birçok insanın hayalidir.",
@@ -2841,7 +2841,7 @@
     },
     {
         "SoruID": 197490,
-        "SoruMetni": "A- ................................ do you need a car which has six seats?<br/>B- Because five of my friends who are from England are coming to visit me.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi dialogu doğru olarak tamamlar?</strong> </br></br>",
+        "SoruMetni": "A- ................................ do you need a car which has six seats?<br/>B- Because five of my friends who are from England are coming to visit me.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi dialogu doğru olarak tamamlar?</strong>",
         "A": "when",
         "B": "which",
         "C": "why",
@@ -2901,7 +2901,7 @@
     },
     {
         "SoruID": 209145,
-        "SoruMetni": "A: The school ............... I go to is far. <br/>B: So how far is it?<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "A: The school ............... I go to is far. <br/>B: So how far is it?<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "when",
         "B": "which",
         "C": "why",
@@ -2921,7 +2921,7 @@
     },
     {
         "SoruID": 214583,
-        "SoruMetni": "I need a car .......... is strong and big.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "I need a car .......... is strong and big.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "what",
         "B": "why",
         "C": "where",
@@ -2941,7 +2941,7 @@
     },
     {
         "SoruID": 214656,
-        "SoruMetni": "The teacher ............. from Erzurum is very kind.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "The teacher ............. from Erzurum is very kind.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "who is",
         "B": "what is",
         "C": "which is",
@@ -3501,7 +3501,7 @@
     },
     {
         "SoruID": 238365,
-        "SoruMetni": "I do not know ......................the exam is.<br/>Which of the following completes the sentence above?<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "I do not know ......................the exam is.<br/>Which of the following completes the sentence above?<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "which",
         "B": "why",
         "C": "who",
@@ -3521,7 +3521,7 @@
     },
     {
         "SoruID": 238366,
-        "SoruMetni": "Does Ayşe know ........... she is?<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Does Ayşe know ........... she is?<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "who",
         "B": "why",
         "C": "which",
@@ -3541,7 +3541,7 @@
     },
     {
         "SoruID": 238367,
-        "SoruMetni": "Can you tell me __________ time it is?<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki dialogu tamamlar?</strong> </br>",
+        "SoruMetni": "Can you tell me __________ time it is?<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki dialogu tamamlar?</strong>",
         "A": "which",
         "B": "why",
         "C": "who",
@@ -3561,7 +3561,7 @@
     },
     {
         "SoruID": 238368,
-        "SoruMetni": "In the past, people believed in magic, ghosts, fairies.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong> </br>",
+        "SoruMetni": "In the past, people believed in magic, ghosts, fairies.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong>",
         "A": "Geçmişte insanlar büyüyle, hayaletlerle, perilerle yaşardı.",
         "B": "Geçmişte insanlar büyüye, hayaletlere, perilere inanırdı.",
         "C": "Geçmişte insan hayatında büyü, hayaletler, periler önemli yer tutardı.",
@@ -3581,7 +3581,7 @@
     },
     {
         "SoruID": 238369,
-        "SoruMetni": "Can you tell me ________ is coming to the meeting?<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "Can you tell me ________ is coming to the meeting?<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong>",
         "A": "which",
         "B": "why",
         "C": "who",
@@ -3601,7 +3601,7 @@
     },
     {
         "SoruID": 238370,
-        "SoruMetni": "A: Do you know where she is?<br/>B: ............................................<br/><strong>Aşağıdakilerden hangisi diyaloğu doğru bir şekilde tamamlar?</strong> </br>",
+        "SoruMetni": "A: Do you know where she is?<br/>B: ............................................<br/><strong>Aşağıdakilerden hangisi diyaloğu doğru bir şekilde tamamlar?</strong>",
         "A": "She works for a multinational company.",
         "B": "She has been in England for two years.",
         "C": "She has graduated from Oxford University.",
@@ -3621,7 +3621,7 @@
     },
     {
         "SoruID": 238371,
-        "SoruMetni": "Science has developed and people can get access to information easily.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong> </br>",
+        "SoruMetni": "Science has developed and people can get access to information easily.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong>",
         "A": "Bilim gelişmekte ve insanlar bilgiye kolayca ulaşabiliyor.",
         "B": "Bilim geliştiği için insanlar bilgiye ulaşabiliyor.",
         "C": "İnsanlar bilgiye kolayca ulaşabildiği için bilim gelişti.",
@@ -3641,7 +3641,7 @@
     },
     {
         "SoruID": 238372,
-        "SoruMetni": "A- I wonder what Pelin is doing for a living in London.<br/>B- _________________________________________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki diyaloğu tamamlar?</strong> </br></br>",
+        "SoruMetni": "A- I wonder what Pelin is doing for a living in London.<br/>B- _________________________________________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki diyaloğu tamamlar?</strong>",
         "A": "She is staying with a British family.",
         "B": "London is her favourite place.",
         "C": "She went to London last year.",
@@ -3701,7 +3701,7 @@
     },
     {
         "SoruID": 254631,
-        "SoruMetni": "Yağmurun yağdığını görüyoruz.<br/><strong>İfadesinin İngilizce karşılığı aşağıdakilerden hangisidir?</strong><br/></br>",
+        "SoruMetni": "Yağmurun yağdığını görüyoruz.<br/><strong>İfadesinin İngilizce karşılığı aşağıdakilerden hangisidir?</strong>",
         "A": "That we see it is raining.",
         "B": "We that see it is raining.",
         "C": "We see that it is raining.",
@@ -3761,7 +3761,7 @@
     },
     {
         "SoruID": 351948,
-        "SoruMetni": "<strong>Oprah: </strong>Do you belive in magic and witchcraft? <br/><strong>Ellen:</strong> No! I believe in ................. and technology. <br/><strong>Diyalogta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong></br>",
+        "SoruMetni": "<strong>Oprah: </strong>Do you belive in magic and witchcraft? <br/><strong>Ellen:</strong> No! I believe in ................. and technology. <br/><strong>Diyalogta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>",
         "A": "superstition",
         "B": "good luck",
         "C": "science",
@@ -3781,7 +3781,7 @@
     },
     {
         "SoruID": 149382,
-        "SoruMetni": "A: What did Yiğit say?<br/>B: He ………. that he was tired.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "A: What did Yiğit say?<br/>B: He ………. that he was tired.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "says",
         "B": "saying",
         "C": "will say",
@@ -3821,7 +3821,7 @@
     },
     {
         "SoruID": 149509,
-        "SoruMetni": "Ayşe: My daughter is a doctor.<br/>Selin: You say that ………………. daughter is a doctor. <br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "Ayşe: My daughter is a doctor.<br/>Selin: You say that ………………. daughter is a doctor. <br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "his",
         "B": "her",
         "C": "its",
@@ -3901,7 +3901,7 @@
     },
     {
         "SoruID": 238373,
-        "SoruMetni": "Bilimsel: When will Serkan fly to London?<br/>Çağdaş: Serkan told me that ____________________ the following week.<br/>Which of the following completes the blank in the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki diyalogda yer alan boşluğu tamamlar?</strong> </br></br>",
+        "SoruMetni": "Bilimsel: When will Serkan fly to London?<br/>Çağdaş: Serkan told me that ____________________ the following week.<br/>Which of the following completes the blank in the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki diyalogda yer alan boşluğu tamamlar?</strong>",
         "A": "he would fly to London",
         "B": "he will fly to London",
         "C": "he is going to fly to London",
@@ -3921,7 +3921,7 @@
     },
     {
         "SoruID": 238374,
-        "SoruMetni": "Alicia __________ to me that she could go on a weekend that weekend.<br/>Which of the following completes the reported speech statement above?<br/><strong>Cümledeki dolaylı anlatım ifadesini aşağıdakilerden hangisi tamamlar?</strong></br>",
+        "SoruMetni": "Alicia __________ to me that she could go on a weekend that weekend.<br/>Which of the following completes the reported speech statement above?<br/><strong>Cümledeki dolaylı anlatım ifadesini aşağıdakilerden hangisi tamamlar?</strong>",
         "A": "told",
         "B": "said",
         "C": "asked",
@@ -3941,7 +3941,7 @@
     },
     {
         "SoruID": 238375,
-        "SoruMetni": "Hakan: Why did the police stop you?<br/>Tuğba: The police __________ to me that I was a suspect.<br/>Which of the following completes the blank in the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki diyalogda yer alan boşluğu tamamlar?</strong> </br></br>",
+        "SoruMetni": "Hakan: Why did the police stop you?<br/>Tuğba: The police __________ to me that I was a suspect.<br/>Which of the following completes the blank in the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki diyalogda yer alan boşluğu tamamlar?</strong>",
         "A": "wanted",
         "B": "told",
         "C": "asked",
@@ -3981,7 +3981,7 @@
     },
     {
         "SoruID": 238377,
-        "SoruMetni": "The professor asked me if I had attended the conference.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong> </br>",
+        "SoruMetni": "The professor asked me if I had attended the conference.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong>",
         "A": "Profesör bana konferansa katılıp katılmadığımı anlatır.",
         "B": "Profesör bana konferansa katılıp katılmadığımı anlattı.",
         "C": "Profesör bana konferansa katılıp katılmadığımı sordu.",
@@ -4021,7 +4021,7 @@
     },
     {
         "SoruID": 238379,
-        "SoruMetni": "Filiz: We need to see the doctor next week.<br/>Kemal: We cannot. The doctor said to me that _______________.<br/>Which of the following completes the statement in the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki diyalogda yer alan ifadeyi tamamlar?</strong> </br></br>",
+        "SoruMetni": "Filiz: We need to see the doctor next week.<br/>Kemal: We cannot. The doctor said to me that _______________.<br/>Which of the following completes the statement in the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki diyalogda yer alan ifadeyi tamamlar?</strong>",
         "A": "he will have gone on a holiday the following week",
         "B": "he would go on a holiday the following week",
         "C": "he is going to go on a holiday the following week",
@@ -4081,7 +4081,7 @@
     },
     {
         "SoruID": 250373,
-        "SoruMetni": "The police ................... motorists to slow down around schools.<br/>Which of the following completes the reported speech imperative statement above?<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilirse dolaylı anlatım emir ifadesini tamamlar? </strong><br type=\"_moz\"> <br/></br></br>",
+        "SoruMetni": "The police ................... motorists to slow down around schools.<br/>Which of the following completes the reported speech imperative statement above?<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilirse dolaylı anlatım emir ifadesini tamamlar? </strong>",
         "A": "told",
         "B": "will tell",
         "C": "would tell",
@@ -4161,7 +4161,7 @@
     },
     {
         "SoruID": 351959,
-        "SoruMetni": "<strong>Josh: </strong>Hi Angelica. Did you go to see the doctor yesterday? <br/><strong>Angelica:</strong> Yes, I did. <br/><strong>Josh: </strong>What did she say?<br/><strong>Angelica: </strong>................................................... . She gave me some medicine. <br/><strong>Josh: </strong>Anything else?<br/><strong>Angelica: </strong>She also said, \"I should stay at home and have a rest.\" <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong></br></br></br></br></br>",
+        "SoruMetni": "<strong>Josh: </strong>Hi Angelica. Did you go to see the doctor yesterday? <br/><strong>Angelica:</strong> Yes, I did. <br/><strong>Josh: </strong>What did she say?<br/><strong>Angelica: </strong>................................................... . She gave me some medicine. <br/><strong>Josh: </strong>Anything else?<br/><strong>Angelica: </strong>She also said, \"I should stay at home and have a rest.\" <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>",
         "A": "She said I'm OK.",
         "B": "She said whether I'm ill or not.",
         "C": "She said that I had a cold.",
@@ -4221,7 +4221,7 @@
     },
     {
         "SoruID": 235515,
-        "SoruMetni": "A: What kind of music are you going to play?<br/>B: ...................................................................................<br/><strong>Aşağıdakilerden hangisi diyaloğu doğru bir şekilde tamamlar?</strong></br>",
+        "SoruMetni": "A: What kind of music are you going to play?<br/>B: ...................................................................................<br/><strong>Aşağıdakilerden hangisi diyaloğu doğru bir şekilde tamamlar?</strong>",
         "A": "I suggest learning pop music.",
         "B": "I would like to learn playing heavy metal.",
         "C": "I am not very good at playing rock music.",
@@ -4241,7 +4241,7 @@
     },
     {
         "SoruID": 238381,
-        "SoruMetni": "I want ...................... her tomorrow.<br/>Which of the following completes the sentence above?<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br type=\"_moz\"> <br/></br></br>",
+        "SoruMetni": "I want ...................... her tomorrow.<br/>Which of the following completes the sentence above?<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "seeing",
         "B": "to see",
         "C": "to seeing",
@@ -4261,7 +4261,7 @@
     },
     {
         "SoruID": 238382,
-        "SoruMetni": "He told me not ____________.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "He told me not ____________.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong>",
         "A": "over shouting",
         "B": "from shouting",
         "C": "in shouting",
@@ -4321,7 +4321,7 @@
     },
     {
         "SoruID": 238385,
-        "SoruMetni": "Will you give up __________ ?<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "Will you give up __________ ?<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong>",
         "A": "to smoking",
         "B": "from smoking",
         "C": "in smoking",
@@ -4361,7 +4361,7 @@
     },
     {
         "SoruID": 238387,
-        "SoruMetni": "A- Can I ask you to help me with preparations?<br/>B- _____________________________________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı tamamlar?</strong> </br></br>",
+        "SoruMetni": "A- Can I ask you to help me with preparations?<br/>B- _____________________________________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı tamamlar?</strong>",
         "A": "I suggest painting your house",
         "B": "Of course. I appreciate helping to you.",
         "C": "I’m pretty good, thanks and you.",
@@ -4381,7 +4381,7 @@
     },
     {
         "SoruID": 238388,
-        "SoruMetni": "We went back home without spending even one day in nature.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong> </br>",
+        "SoruMetni": "We went back home without spending even one day in nature.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong>",
         "A": "Doğada bir gün geçirdikten sonra eve geri gittik.",
         "B": "Eve geri gittiğimizde doğada yalnız birkaç gün kalmıştık.",
         "C": "Doğada bir gün bile geçirmeden eve geri gittik.",
@@ -4421,7 +4421,7 @@
     },
     {
         "SoruID": 253514,
-        "SoruMetni": "A: I would like to invite you to my wedding ceremony next Friday.<br/>B: ..................................................................................................<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br type=\"_moz\"> <br/></br></br>",
+        "SoruMetni": "A: I would like to invite you to my wedding ceremony next Friday.<br/>B: ..................................................................................................<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "I am getting married.",
         "B": "Oh really? Thank you very much.",
         "C": "You are lucky.",
@@ -4821,7 +4821,7 @@
     },
     {
         "SoruID": 351969,
-        "SoruMetni": "Patient: Hello, ...................................................<br/>Secretary: OK. When would you like to see him?<br/>Patient: Today, if possible.<br/>Secretary: He is fully booked today, I am afraid.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br></br></br>",
+        "SoruMetni": "Patient: Hello, ...................................................<br/>Secretary: OK. When would you like to see him?<br/>Patient: Today, if possible.<br/>Secretary: He is fully booked today, I am afraid.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "I would like to make an appointment with the doctor, please.",
         "B": "I need to see the doctor right now.",
         "C": "Is the doctor available now?",
@@ -4961,7 +4961,7 @@
     },
     {
         "SoruID": 238398,
-        "SoruMetni": "I called the police _______________ the thief left the building.<br/>Which of the following conjunctions completes the statement above?<br/><strong>Aşağıdaki bağlaçlardan hangisi yukarıdaki ifadeyi tamamlar?</strong> </br>",
+        "SoruMetni": "I called the police _______________ the thief left the building.<br/>Which of the following conjunctions completes the statement above?<br/><strong>Aşağıdaki bağlaçlardan hangisi yukarıdaki ifadeyi tamamlar?</strong>",
         "A": "why",
         "B": "so",
         "C": "before",
@@ -4981,7 +4981,7 @@
     },
     {
         "SoruID": 238400,
-        "SoruMetni": "I cannot go out tonight because I have lots of things to do.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong> </br>",
+        "SoruMetni": "I cannot go out tonight because I have lots of things to do.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong>",
         "A": "Yapacak çok işim olduğundan bu gece dışarı çıkamam.",
         "B": "Yapacak çok işim olduğundan bu gece dışarı çıkmayacağım.",
         "C": "Yapacak çok işim olduğundan bu gece dışarı çıkmadım.",
@@ -5001,7 +5001,7 @@
     },
     {
         "SoruID": 238402,
-        "SoruMetni": "I studied for the exam very much; thus, I was able to pass the test.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong> </br>",
+        "SoruMetni": "I studied for the exam very much; thus, I was able to pass the test.<br/>Which of the following is the Turkish translation of the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümlenin Türkçe çevirisidir?</strong>",
         "A": "Sınav için çok çalıştım; böylelikle, sınavı geçebildim.",
         "B": "Sınav için çok çalıştım; böylelikle, sınavı geçebilirim.",
         "C": "Sınav için çok çalıştım; böylelikle, sınavı geçeceğim.",
@@ -5041,7 +5041,7 @@
     },
     {
         "SoruID": 238406,
-        "SoruMetni": "__________ I like ice cream, I do not eat it in winter.<br/>Which of the following conjunctions completes the statement above?<br/><strong>Cümledeki boşluğa aşağıdaki bağlaçlardan hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "__________ I like ice cream, I do not eat it in winter.<br/>Which of the following conjunctions completes the statement above?<br/><strong>Cümledeki boşluğa aşağıdaki bağlaçlardan hangisi getirilmelidir?</strong>",
         "A": "Although",
         "B": "When",
         "C": "As soon as",
@@ -5101,7 +5101,7 @@
     },
     {
         "SoruID": 238412,
-        "SoruMetni": "__________ I like Formula 1, my younger brother is a football fan.<br/>Which of the following conjunctions completes the statement above?<br/><strong>Aşağıdaki bağlaçlardan hangisi yukarıdaki ifadeyi tamamlar?</strong> </br>",
+        "SoruMetni": "__________ I like Formula 1, my younger brother is a football fan.<br/>Which of the following conjunctions completes the statement above?<br/><strong>Aşağıdaki bağlaçlardan hangisi yukarıdaki ifadeyi tamamlar?</strong>",
         "A": "Whereas",
         "B": "Because",
         "C": "Since",
@@ -5141,7 +5141,7 @@
     },
     {
         "SoruID": 250390,
-        "SoruMetni": "........................... you pass English tests, you can go abroad for higher education.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "........................... you pass English tests, you can go abroad for higher education.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "By the time",
         "B": "During",
         "C": "Because",
@@ -5221,7 +5221,7 @@
     },
     {
         "SoruID": 254862,
-        "SoruMetni": "A: What time is it playing?<br/>B: .....................................<br/><strong>Cümlesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong></br>",
+        "SoruMetni": "A: What time is it playing?<br/>B: .....................................<br/><strong>Cümlesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>",
         "A": "I will have it free providing that I finish my homework.",
         "B": "I will not tell you its name untill we get to the cinema.",
         "C": "You will know about its name after we arrive there.",
@@ -5361,7 +5361,7 @@
     },
     {
         "SoruID": 235535,
-        "SoruMetni": "Our washing machine has broken ..............<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Our washing machine has broken ..............<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "at",
         "B": "after",
         "C": "down",
@@ -5381,7 +5381,7 @@
     },
     {
         "SoruID": 235542,
-        "SoruMetni": "A- What happened?<br/>B- ________________________________________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong> </br></br>",
+        "SoruMetni": "A- What happened?<br/>B- ________________________________________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong>",
         "A": "I called an electrician.",
         "B": "I feel terrible.",
         "C": "Somebody broke into my car.",
@@ -5401,7 +5401,7 @@
     },
     {
         "SoruID": 238413,
-        "SoruMetni": "He looks __________ his ill mother.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "He looks __________ his ill mother.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong>",
         "A": "at",
         "B": "after",
         "C": "to",
@@ -5421,7 +5421,7 @@
     },
     {
         "SoruID": 238414,
-        "SoruMetni": "I came __________ my primary school teacher yesterday.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "I came __________ my primary school teacher yesterday.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong>",
         "A": "at",
         "B": "after",
         "C": "to",
@@ -5441,7 +5441,7 @@
     },
     {
         "SoruID": 238415,
-        "SoruMetni": "You have to hand your homework __________ tomorrow.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "You have to hand your homework __________ tomorrow.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong>",
         "A": "in",
         "B": "after",
         "C": "down",
@@ -5461,7 +5461,7 @@
     },
     {
         "SoruID": 238416,
-        "SoruMetni": "It is very cold. I should put __________ a jacket.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong> </br>",
+        "SoruMetni": "It is very cold. I should put __________ a jacket.<br/>Which of the following completes the sentence above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki cümleyi tamamlar?</strong>",
         "A": "in",
         "B": "after",
         "C": "down",
@@ -5481,7 +5481,7 @@
     },
     {
         "SoruID": 238417,
-        "SoruMetni": "A- What did you do?<br/>B- __________________________________________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong> </br></br>",
+        "SoruMetni": "A- What did you do?<br/>B- __________________________________________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong>",
         "A": "I called an electrician.",
         "B": "I feel terrible.",
         "C": "Somebody broke into my car.",
@@ -5541,7 +5541,7 @@
     },
     {
         "SoruID": 238421,
-        "SoruMetni": "A- See you then?<br/>B - _______________________________________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong> </br></br>",
+        "SoruMetni": "A- See you then?<br/>B - _______________________________________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong>",
         "A": "I miss you so much.",
         "B": "See you. Bye for now.",
         "C": "What would you like to have?",
@@ -5641,7 +5641,7 @@
     },
     {
         "SoruID": 351982,
-        "SoruMetni": "<strong>Will: </strong>Hey Alice, what's up? <br/><strong>Alice: </strong>Not much. How about you?<br/><strong>Will: </strong>Alright. My parents will be away for two days. <br/><strong>Alice:</strong> Really? ....................................................<br/><strong>Will: </strong>I'd love to.Thank you very much. You're so nice. <br/><strong>Alice: </strong>Great. I'll tell my mum to cook your favourite dish. See you in the evening then.<br/><strong>Will:</strong> Thank you. See you. <br/><strong>Aşağıdakilerden hangisi diyaloğu doğru bir şekilde tamamlar?</strong> </br></br></br></br></br></br>",
+        "SoruMetni": "<strong>Will: </strong>Hey Alice, what's up? <br/><strong>Alice: </strong>Not much. How about you?<br/><strong>Will: </strong>Alright. My parents will be away for two days. <br/><strong>Alice:</strong> Really? ....................................................<br/><strong>Will: </strong>I'd love to.Thank you very much. You're so nice. <br/><strong>Alice: </strong>Great. I'll tell my mum to cook your favourite dish. See you in the evening then.<br/><strong>Will:</strong> Thank you. See you. <br/><strong>Aşağıdakilerden hangisi diyaloğu doğru bir şekilde tamamlar?</strong>",
         "A": "Where are they going to?",
         "B": "What time do you want to eat dinner?",
         "C": "Let's buy some food for you.",

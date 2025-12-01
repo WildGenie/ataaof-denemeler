@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 376251,
-        "SoruMetni": "I. Dot Pitch<br/>II. Çözünürlük<br/>III. Tazeleme hızı<br/><strong>Yukarıdakilerden hangisi ya da hangileri görüntü kalitesi üzerinde etkisi olan seçenekler arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Dot Pitch<br/>II. Çözünürlük<br/>III. Tazeleme hızı<br/><strong>Yukarıdakilerden hangisi ya da hangileri görüntü kalitesi üzerinde etkisi olan seçenekler arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -241,7 +241,7 @@
     },
     {
         "SoruID": 376638,
-        "SoruMetni": "I. HDD<br/>II. SSD<br/>III. HHD<br/><strong>Yukardakilerden hangisi veya hangileri sabit disk çeşitlerindendir?</strong><br/></br></br></br>",
+        "SoruMetni": "I. HDD<br/>II. SSD<br/>III. HHD<br/><strong>Yukardakilerden hangisi veya hangileri sabit disk çeşitlerindendir?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",

@@ -241,7 +241,7 @@
     },
     {
         "SoruID": 253983,
-        "SoruMetni": "<strong>Üretim toplumunun ahlaki nitelik arz eden kavramı aşağıdakilerden hangisidir?</strong><br/></br>",
+        "SoruMetni": "<strong>Üretim toplumunun ahlaki nitelik arz eden kavramı aşağıdakilerden hangisidir?</strong>",
         "A": "Çalışma etiği",
         "B": "Tüketim ahlakı",
         "C": "Kadim değerler",
@@ -281,7 +281,7 @@
     },
     {
         "SoruID": 298009,
-        "SoruMetni": "I. İnanç<br/>II. Gelenekler<br/>III. Yazısız kurallar<br/><strong>Yukarıdakilerden hangisi ya da hangileri manevi kültür ögeleri arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. İnanç<br/>II. Gelenekler<br/>III. Yazısız kurallar<br/><strong>Yukarıdakilerden hangisi ya da hangileri manevi kültür ögeleri arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -301,7 +301,7 @@
     },
     {
         "SoruID": 298012,
-        "SoruMetni": "I. Kullan at kültürünü yaygınlaştırmaktadır.<br/>II. Üretimi desteklemektedir.<br/>III. Tasarruf duygusunu ortadan kaldırmaktadır.<br/><strong>Yukarıda popüler kültür ile ilgili verilen bilgilerden hangisi ya da hangileri doğrudur?</strong></br></br>",
+        "SoruMetni": "I. Kullan at kültürünü yaygınlaştırmaktadır.<br/>II. Üretimi desteklemektedir.<br/>III. Tasarruf duygusunu ortadan kaldırmaktadır.<br/><strong>Yukarıda popüler kültür ile ilgili verilen bilgilerden hangisi ya da hangileri doğrudur?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",

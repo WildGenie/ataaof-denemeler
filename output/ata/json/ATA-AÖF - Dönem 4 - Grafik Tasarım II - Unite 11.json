@@ -241,7 +241,7 @@
     },
     {
         "SoruID": 354868,
-        "SoruMetni": "<strong>Piksel başına 2 bit veri bulunan bitmap grafikte her pikselin sahip olabileceği renk sayısı kaç olur?</strong><br type=\"_moz\"/>",
+        "SoruMetni": "<strong>Piksel başına 2 bit veri bulunan bitmap grafikte her pikselin sahip olabileceği renk sayısı kaç olur?</strong>",
         "A": "1",
         "B": "2",
         "C": "4",

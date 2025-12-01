@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 338550,
-        "SoruMetni": "I. IBM<br/>II. Coca-Cola<br/>III. DELL<br/><strong>Yukarıdakilerden hangisi ya da hangileri bazı markalara ait logotayp örneğidir?</strong></br></br>",
+        "SoruMetni": "I. IBM<br/>II. Coca-Cola<br/>III. DELL<br/><strong>Yukarıdakilerden hangisi ya da hangileri bazı markalara ait logotayp örneğidir?</strong>",
         "A": "I, II ve III",
         "B": "II ve III",
         "C": "Yalnız III",
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 338552,
-        "SoruMetni": "I. Ürüne dikkat çeker.<br/>II. Tüketiciyi satın almaya teşvik eder.<br/>III. Marka değerini yükseltir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri ambalajdaki tipografinin işlevini ifade eder?</strong></br></br>",
+        "SoruMetni": "I. Ürüne dikkat çeker.<br/>II. Tüketiciyi satın almaya teşvik eder.<br/>III. Marka değerini yükseltir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri ambalajdaki tipografinin işlevini ifade eder?</strong>",
         "A": "Yalnız I",
         "B": "I ve III",
         "C": "I, II ve III",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 338553,
-        "SoruMetni": "I. Etiketlerin grafik tasarımı<br/>II. Zor açılıp kapanabilme özellikleri<br/>III. Taşıyıcı kapların biçim ve boyutları<br/><strong>Yukarıdakilerden hangisi ya da hangileri ambalaj tasarımında değerlendirme kriterleriyle ilgilidir?</strong></br></br>",
+        "SoruMetni": "I. Etiketlerin grafik tasarımı<br/>II. Zor açılıp kapanabilme özellikleri<br/>III. Taşıyıcı kapların biçim ve boyutları<br/><strong>Yukarıdakilerden hangisi ya da hangileri ambalaj tasarımında değerlendirme kriterleriyle ilgilidir?</strong>",
         "A": "I ve II",
         "B": "I ve III",
         "C": "Yalnız III",

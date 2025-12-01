@@ -18,8 +18,7 @@
     - D-) Devlet tarafından yapılacak resmî nikah sistemi benimsenmiş ve tek eşle evlilik koşulu getirilmiştir.
     - **Cevap E-) Miras konusunda erkeğe öncelik tanımıştır.**
 
-    > **Açıklama:** Türk Medeni Kanunu şeriata dayalı hükümler yerine laik bir düzenleme getirirken kadın haklarını da güvence altına almıştır. Sosyal yaşamda kadın-erkek eşitliğini sağlamaya yönelik önemli bir adım olmuştur. Kanunla aile hayatıyla ilgili evlenme/boşanma işleri düzenlenmiştir. Devlet tarafından yapılacak resmî nikah sistemi benimsenmiş ve tek eşle evlilik koşulu getirilmiştir. Kadınlara istediği kişi ile evlenme hakkı tanınırken kadınlara da boşanma isteğinde bulunma hakkı verilmiştir. Ayrıca miras konusunda da kadın erkek eşitliği getirilmiştir (İnan, 1975). Çok uzun yıllar uygulanan 1926 tarihli Türk Medeni Kanunu 22 Kasım 2001’de TBMM’de kabul edilen Yeni Türk Medeni Kanunu ile 2002 yılından itibaren yürürlükten kaldırılmıştır (Resmî Gazete, 8.12.2001).
-    > Miras konusunda erkeğe öncelik tanımıştır.
+    > **Açıklama:** Türk Medeni Kanunu şeriata dayalı hükümler yerine laik bir düzenleme getirirken kadın haklarını da güvence altına almıştır. Sosyal yaşamda kadın-erkek eşitliğini sağlamaya yönelik önemli bir adım olmuştur. Kanunla aile hayatıyla ilgili evlenme/boşanma işleri düzenlenmiştir. Devlet tarafından yapılacak resmî nikah sistemi benimsenmiş ve tek eşle evlilik koşulu getirilmiştir. Kadınlara istediği kişi ile evlenme hakkı tanınırken kadınlara da boşanma isteğinde bulunma hakkı verilmiştir. Ayrıca miras konusunda da kadın erkek eşitliği getirilmiştir (İnan, 1975). Çok uzun yıllar uygulanan 1926 tarihli Türk Medeni Kanunu 22 Kasım 2001’de TBMM’de kabul edilen Yeni Türk Medeni Kanunu ile 2002 yılından itibaren yürürlükten kaldırılmıştır (Resmî Gazete, 8.12.2001).<br />Miras konusunda erkeğe öncelik tanımıştır.
 
     <hr />
 1. Türk kadınının seçme ve seçilme haklarını ilk kez kullandıkları belediye seçimleri hangi tarihte yapılmıştır?
@@ -39,8 +38,7 @@
     - **Cevap D-) Hepsi**
     - E-) IV ve V
 
-    > **Açıklama:** Tevhid-i Tedrisat Kanunu ve ardından yapılan düzenlemelerle Türk eğitim sistemi millî esaslara dayandırılmıştır. Eğitimin hayata dayalı olmasına özel önem verilmiştir. Öğretim ve eğitim yöntemlerinin her zaman pratiğe dayalı ve uygulamalı olması amaçlanmıştır. Eğitimde öncelikle herkese okuma yazma öğretmek ve cehaletin ortadan kaldırılması hedeflenmiştir. Eğitimin parasız olması ve temel eğitimin bütün çocuklara zorunlu olması ilkesi benimsenmiştir. Bu amaçla 1924 Anayasası’nda ilköğretimin zorunlu ve parasız olduğuna yer verilmiştir. Türk millî eğitim sisteminin temel ilkelerinden biri de laiklik olmuştur. Eğitim işleri dini makamların ve kişilerin etkisinden kurtarılarak devletin denetimi altına alınmıştır. Eğitimde millîlik, birlik, laiklik, çağdaşlık, ferdin ve toplumun ihtiyaçları, her vatandaşa temel eğitim hakkı tanınması, fırsat, imkân ve cinsiyet eşitliği, aklın ve bilimin rehberliği Türk millî eğitim sisteminin günümüze kadar izlediği temel ilkeler olmuştur
-    > Hepsi
+    > **Açıklama:** Tevhid-i Tedrisat Kanunu ve ardından yapılan düzenlemelerle Türk eğitim sistemi millî esaslara dayandırılmıştır. Eğitimin hayata dayalı olmasına özel önem verilmiştir. Öğretim ve eğitim yöntemlerinin her zaman pratiğe dayalı ve uygulamalı olması amaçlanmıştır. Eğitimde öncelikle herkese okuma yazma öğretmek ve cehaletin ortadan kaldırılması hedeflenmiştir. Eğitimin parasız olması ve temel eğitimin bütün çocuklara zorunlu olması ilkesi benimsenmiştir. Bu amaçla 1924 Anayasası’nda ilköğretimin zorunlu ve parasız olduğuna yer verilmiştir. Türk millî eğitim sisteminin temel ilkelerinden biri de laiklik olmuştur. Eğitim işleri dini makamların ve kişilerin etkisinden kurtarılarak devletin denetimi altına alınmıştır. Eğitimde millîlik, birlik, laiklik, çağdaşlık, ferdin ve toplumun ihtiyaçları, her vatandaşa temel eğitim hakkı tanınması, fırsat, imkân ve cinsiyet eşitliği, aklın ve bilimin rehberliği Türk millî eğitim sisteminin günümüze kadar izlediği temel ilkeler olmuştur<br />Hepsi
 
     <hr />
 1. 1925 yılında Ankara’da açılan, Cumhuriyet döneminin ilk yüksek öğretim kurumu aşağıdakilerden hangisidir?
@@ -50,8 +48,7 @@
     - D-) Dil ve Tarih Coğrafya Mektebi
     - E-) Ege Üniversitesi
 
-    > **Açıklama:** Cumhuriyet döneminin ilk yüksek öğretim kurumu 1925 yılında Ankara’da açılan Hukuk Mektebi olmuştur. Tevhid-i Tedrisat Kanunu’nun ardından medreseler kapatılırken Darülfünun pozitif bilimlerin okutulduğu bir okul olarak ayrı tutulmuş ve daha çok önem verilmeye başlanmıştır.
-    > Ankara Hukuk Mektebi
+    > **Açıklama:** Cumhuriyet döneminin ilk yüksek öğretim kurumu 1925 yılında Ankara’da açılan Hukuk Mektebi olmuştur. Tevhid-i Tedrisat Kanunu’nun ardından medreseler kapatılırken Darülfünun pozitif bilimlerin okutulduğu bir okul olarak ayrı tutulmuş ve daha çok önem verilmeye başlanmıştır.<br />Ankara Hukuk Mektebi
 
     <hr />
 1. Saffet Arıkan’ın Millî Eğitim Bakanlığı döneminde 1936 yılında hangi şehirde kırsal kesime öğretmen temini için, eğitmen kursu açılmıştır?
@@ -71,8 +68,7 @@
     - D-) Spor
     - **Cevap E-) Hukuk eğitimi**
 
-    > **Açıklama:** Cumhuriyet ideolojisini halka tanıtma, yaygınlaştırma ve toplumun kültür yapısını canlandırmaya yönelik faaliyetler yürütülmüştür. İlk olarak 19 Şubat 1932’de 14 şehirde Halkevleri törenlerle açılmıştır. Halk eğitim merkezi olarak görülen Halkevlerinin dokuz alanda faaliyet yürütmesi amaçlanmıştır. Faaliyet kollarını Dil-Tarih-Edebiyat, Güzel Sanatlar, Temsil, Spor, İçtimaî Yardım, Halk Dershaneleri ve Kurslar, Kütüphane ve Neşriyat, Köycülük, Müze ve Sergi şubeleri oluşturmuştur
-    > Hukuk eğitimi
+    > **Açıklama:** Cumhuriyet ideolojisini halka tanıtma, yaygınlaştırma ve toplumun kültür yapısını canlandırmaya yönelik faaliyetler yürütülmüştür. İlk olarak 19 Şubat 1932’de 14 şehirde Halkevleri törenlerle açılmıştır. Halk eğitim merkezi olarak görülen Halkevlerinin dokuz alanda faaliyet yürütmesi amaçlanmıştır. Faaliyet kollarını Dil-Tarih-Edebiyat, Güzel Sanatlar, Temsil, Spor, İçtimaî Yardım, Halk Dershaneleri ve Kurslar, Kütüphane ve Neşriyat, Köycülük, Müze ve Sergi şubeleri oluşturmuştur<br />Hukuk eğitimi
 
     <hr />
 1. 3 Ekim 1926’da İstanbul Sarayburnu’na dikilen ve Cumhuriyet Döneminde yapılan ilk heykel olan Gazi Mustafa Kemal Paşa heykelini yapan heykeltıraş kimdir?
@@ -112,8 +108,7 @@
     - D-) 05 Şubat 1937
     - E-) 17 Şubat 1926
 
-    > **Açıklama:** 3 Mart 1924: Şer’iye Mahkemeleri’nin kaldırılması
-    > 03 Mart 1924
+    > **Açıklama:** 3 Mart 1924: Şer’iye Mahkemeleri’nin kaldırılması<br />03 Mart 1924
 
     <hr />
 1. 1924 Anayasası'nın Türkiye Büyük Millet Meclisi'nde kabul edilme tarihi hangi seçenekte doğru verilmiştir?
@@ -133,8 +128,7 @@
     - D-) Amerika Birleşik Devletleri
     - E-) İtalya
 
-    > **Açıklama:** Cumhuriyet rejiminin benimsenmesiyle Mecelle yerine yeni bir medeni kanun hazırlanması yoluna
-    > gidilmiştir. Ancak yeni bir kanunun hazırlanmasının zaman alacağı için batı ülkelerinin medeni kanunlar incelenerek Türkiye koşullarına uygulanacak bir medeni kanun arayışına girilmiştir. Mustafa Kemal Paşa ve dönemin Adalet Vekili Mahmut Esat (Bozkurt) Bey’in yönlendirmesiyle İsviçre Medeni Kanunu’nun aktarma yoluyla alınması ve Türk Medeni Kanunu olarak kabul edilmesi kararlaştırılmıştır.
+    > **Açıklama:** Cumhuriyet rejiminin benimsenmesiyle Mecelle yerine yeni bir medeni kanun hazırlanması yoluna<br />gidilmiştir. Ancak yeni bir kanunun hazırlanmasının zaman alacağı için batı ülkelerinin medeni kanunlar incelenerek Türkiye koşullarına uygulanacak bir medeni kanun arayışına girilmiştir. Mustafa Kemal Paşa ve dönemin Adalet Vekili Mahmut Esat (Bozkurt) Bey’in yönlendirmesiyle İsviçre Medeni Kanunu’nun aktarma yoluyla alınması ve Türk Medeni Kanunu olarak kabul edilmesi kararlaştırılmıştır.
 
     <hr />
 1. Cumhuriyet'in ilanından sonra ilk Türk Medeni Kanunu aşağıdaki tarihlerden hangisinde kabul edilmiştir?
@@ -144,8 +138,7 @@
     - D-) 10 Nisan 1026
     - E-) 29 Ekim 1926
 
-    > **Açıklama:** Cumhuriyet rejiminin benimsenmesiyle Mecelle yerine yeni bir medeni kanun hazırlanması yoluna
-    > gidilmiştir. Türk Medeni Kanunu’nun hazırlanması için hukukçu milletvekillerinden, akademisyen, yargıç ve avukatlardan oluşan 26 kişilik bir komisyon kurulmuştur. Komisyon İsviçre Medeni Kanunu’nu Türkçeye çevirerek yeni bir kanun taslağı hazırlamış ve Türk Medeni Kanunu adıyla 17 Şubat 1926 tarihinde TBMM’de kabul edilmiştir.
+    > **Açıklama:** Cumhuriyet rejiminin benimsenmesiyle Mecelle yerine yeni bir medeni kanun hazırlanması yoluna<br />gidilmiştir. Türk Medeni Kanunu’nun hazırlanması için hukukçu milletvekillerinden, akademisyen, yargıç ve avukatlardan oluşan 26 kişilik bir komisyon kurulmuştur. Komisyon İsviçre Medeni Kanunu’nu Türkçeye çevirerek yeni bir kanun taslağı hazırlamış ve Türk Medeni Kanunu adıyla 17 Şubat 1926 tarihinde TBMM’de kabul edilmiştir.
 
     <hr />
 1. 1926 tarihli Türk Medeni Kanunu aşağıdaki yıllardan hangisinde -Yeni Medeni Kanunun kabulü sonrası- yürürlükten kaldırılmıştır?
@@ -175,9 +168,7 @@
     - D-) 10 Nisan 1928
     - E-) 17 Şubat 1925
 
-    > **Açıklama:** Cumhuriyetin ilanıyla laik devlet düzenini kurmaya yönelik düzenlemeler yapılırken İslami nitelik taşıyan ceza kanunu yerine yeni bir kanuna ihtiyaç doğmuştur. Batı ülkelerinin ceza kanunları incelenerek Türkiye koşullarına uygulanacak bir ceza kanunu arayışına girilmiştir. En uygun kanun olarak 1889 tarihli İtalyan Ceza Kanunu görülmüştür. İtalyan Ceza Kanunu’na dayanan yeni bir ceza kanunu hazırlanmış 1 Mart 1926’da TBMM’de kabul edilmiştir (Turan, 2005).
-    > Cumhuriyetin ilanıyla laik devlet düzenini kurmaya yönelik düzenlemeler yapılırken İslami nitelik taşıyan ceza kanunu yerine yeni bir kanuna ihtiyaç doğmuştur. Batı ülkelerinin ceza kanunları incelenerek Türkiye koşullarına uygulanacak bir ceza kanunu arayışına girilmiştir. En uygun kanun olarak
-    > 1889 tarihli İtalyan Ceza Kanunu görülmüştür. İtalyan Ceza Kanunu’na dayanan yeni bir ceza kanunu hazırlanmış 1 Mart 1926’da TBMM’de kabul edilmiştir.
+    > **Açıklama:** Cumhuriyetin ilanıyla laik devlet düzenini kurmaya yönelik düzenlemeler yapılırken İslami nitelik taşıyan ceza kanunu yerine yeni bir kanuna ihtiyaç doğmuştur. Batı ülkelerinin ceza kanunları incelenerek Türkiye koşullarına uygulanacak bir ceza kanunu arayışına girilmiştir. En uygun kanun olarak 1889 tarihli İtalyan Ceza Kanunu görülmüştür. İtalyan Ceza Kanunu’na dayanan yeni bir ceza kanunu hazırlanmış 1 Mart 1926’da TBMM’de kabul edilmiştir (Turan, 2005).<br />Cumhuriyetin ilanıyla laik devlet düzenini kurmaya yönelik düzenlemeler yapılırken İslami nitelik taşıyan ceza kanunu yerine yeni bir kanuna ihtiyaç doğmuştur. Batı ülkelerinin ceza kanunları incelenerek Türkiye koşullarına uygulanacak bir ceza kanunu arayışına girilmiştir. En uygun kanun olarak<br />1889 tarihli İtalyan Ceza Kanunu görülmüştür. İtalyan Ceza Kanunu’na dayanan yeni bir ceza kanunu hazırlanmış 1 Mart 1926’da TBMM’de kabul edilmiştir.
 
     <hr />
 1. Türkiye'de kadınlar seçme ve seçilme hakkını ilk defa hangi yıl kullanmışlardır?
@@ -207,8 +198,7 @@
     - D-) 15
     - E-) 14
 
-    > **Açıklama:** TBMM’nin 5 Aralık 1934 tarihli oturumunda anayasada yapılan değişiklikle 30 yaşını bitiren kadınlara milletvekili olma ve 22 yaşını bitiren kadınlara da seçme hakkı tanınmıştır. Türk kadını tüm Müslüman ülkelerdeki kadınlardan hatta Fransız, İtalyan gibi Batılı kadınlardan da önce erkeklerle aynı siyasal hakları elde etmiştir. Kadınlara siyasal haklarının verilmesinden sonra ilk genel seçimler 1935 yılında yapılmıştır. Seçimlerde CHP tarafından 17 kadın aday gösterilmiştir. Cumhuriyet rejiminin değerlerini benimsemiş çoğunlukla çok iyi eğitim görmüş ve toplumda saygı gören kadın adaylar tercih edilmiştir. Kadınlara seçme ve seçilme hakkı tanınmasından sonra V. Dönem TBMM’de 18 kadın milletvekili görev yapmıştır (Sezer, 1998).
-    > Kadınlara seçme ve seçilme hakkı tanınmasından sonra V. Dönem TBMM’de 18 kadın milletvekili görev yapmıştır.
+    > **Açıklama:** TBMM’nin 5 Aralık 1934 tarihli oturumunda anayasada yapılan değişiklikle 30 yaşını bitiren kadınlara milletvekili olma ve 22 yaşını bitiren kadınlara da seçme hakkı tanınmıştır. Türk kadını tüm Müslüman ülkelerdeki kadınlardan hatta Fransız, İtalyan gibi Batılı kadınlardan da önce erkeklerle aynı siyasal hakları elde etmiştir. Kadınlara siyasal haklarının verilmesinden sonra ilk genel seçimler 1935 yılında yapılmıştır. Seçimlerde CHP tarafından 17 kadın aday gösterilmiştir. Cumhuriyet rejiminin değerlerini benimsemiş çoğunlukla çok iyi eğitim görmüş ve toplumda saygı gören kadın adaylar tercih edilmiştir. Kadınlara seçme ve seçilme hakkı tanınmasından sonra V. Dönem TBMM’de 18 kadın milletvekili görev yapmıştır (Sezer, 1998).<br />Kadınlara seçme ve seçilme hakkı tanınmasından sonra V. Dönem TBMM’de 18 kadın milletvekili görev yapmıştır.
 
     <hr />
 1. Aşağıdakilerden hangisi "toplumun ihtiyaçlarına cevap vermeyen kurumların aksaklıklarının giderilerek çağın koşullarına göre yeniden düzenlenmesi" anlamına gelmez?
@@ -218,8 +208,7 @@
     - **Cevap D-) İnkılap**
     - E-) Islahat
 
-    > **Açıklama:** TÜRK İNKILABININ HEDEFLERİ
-    > İnkılap, "toplumun ihtiyaçlarına cevap vermeyen kurumların aksaklıklarının giderilerek çağın koşullarına göre yeniden düzenlenmesi" anlamına gelmez. Değişme, dönüşme, bir hâlden başka bir hâle geçme anlamına gelen inkılap; bir milletin sahip olduğu siyaset, eğitim, hukuk, ekonomi, sosyal hayat gibi alanlardaki kurumlarının, devlet eliyle köklü bir biçimde değiştirilerek yenileştirilmesidir. Osmanlı Devleti’nde 17. yüzyılda yapılan yenileşme hareketleriyle başlayan modernleşme çalışmaları ise ıslahat olarak adlandırılır. Reform ile eş anlamlı olarak kullanılan ıslahat düzeltme, iyileştirme anlamına gelir. Daha geniş ifade ile toplumun ihtiyaçlarına cevap vermeyen kurumların aksaklıklarını gidererek çağın koşullarına göre yeniden düzenlenmesidir.
+    > **Açıklama:** TÜRK İNKILABININ HEDEFLERİ<br />İnkılap, "toplumun ihtiyaçlarına cevap vermeyen kurumların aksaklıklarının giderilerek çağın koşullarına göre yeniden düzenlenmesi" anlamına gelmez. Değişme, dönüşme, bir hâlden başka bir hâle geçme anlamına gelen inkılap; bir milletin sahip olduğu siyaset, eğitim, hukuk, ekonomi, sosyal hayat gibi alanlardaki kurumlarının, devlet eliyle köklü bir biçimde değiştirilerek yenileştirilmesidir. Osmanlı Devleti’nde 17. yüzyılda yapılan yenileşme hareketleriyle başlayan modernleşme çalışmaları ise ıslahat olarak adlandırılır. Reform ile eş anlamlı olarak kullanılan ıslahat düzeltme, iyileştirme anlamına gelir. Daha geniş ifade ile toplumun ihtiyaçlarına cevap vermeyen kurumların aksaklıklarını gidererek çağın koşullarına göre yeniden düzenlenmesidir.
 
     <hr />
 1. Aşağıdakilerden hangisi üç aşamada gerçekleştirilen Türk İnkılabının, ikinci aşamasında yapılanlardan biri **değildir?**
@@ -229,9 +218,7 @@
     - D-) Cumhuriyet’in ilanıyla demokratik bir devlet kurulması
     - E-) Misak-ı Millî sınırları içerisinde yeni bir Türk Devleti kurma yolunda önemli bir adım atılmıştır.
 
-    > **Açıklama:** TÜRK İNKILABININ HEDEFLERİ
-    > "Türk inkılap hareketlerine girişilmesi" üç aşamada gerçekleştirilen Türk İnkılabının, ikinci aşamasında yapılanlardan biri değildir.
-    > Atatürk, Türk İnkılabını üç aşamada gerçekleştirmiştir. Birinci aşamada;1919-1922 yılları arasında yaşanan Türk Kurtuluş Savaşı sonucunda tam bağımsızlık kazanılmış ve Misak-ı Millî sınırları içerisinde yeni bir Türk Devleti kurma yolunda önemli bir adım atılmıştır. İkinci aşamada; Anadolu’yu işgalden kurtaran TBMM karşısında işlevi ve gücü kalmayan Osmanlı saltanatı kaldırılarak monarşiye son verilmiştir. Lozan Barış Antlaşması’nın imzalanmasıyla Türk devletinin siyasi ve iktisadi bağımsızlığı emperyalist devletler tarafından resmen tanınmıştır. Cumhuriyet’in ilanıyla demokratik bir devlet kurulmuştur. Son aşamada ise yeni kurulan devletin devamlılığını sağlayacak inkılap hareketlerine girişilmiştir.
+    > **Açıklama:** TÜRK İNKILABININ HEDEFLERİ<br />"Türk inkılap hareketlerine girişilmesi" üç aşamada gerçekleştirilen Türk İnkılabının, ikinci aşamasında yapılanlardan biri değildir.<br />Atatürk, Türk İnkılabını üç aşamada gerçekleştirmiştir. Birinci aşamada;1919-1922 yılları arasında yaşanan Türk Kurtuluş Savaşı sonucunda tam bağımsızlık kazanılmış ve Misak-ı Millî sınırları içerisinde yeni bir Türk Devleti kurma yolunda önemli bir adım atılmıştır. İkinci aşamada; Anadolu’yu işgalden kurtaran TBMM karşısında işlevi ve gücü kalmayan Osmanlı saltanatı kaldırılarak monarşiye son verilmiştir. Lozan Barış Antlaşması’nın imzalanmasıyla Türk devletinin siyasi ve iktisadi bağımsızlığı emperyalist devletler tarafından resmen tanınmıştır. Cumhuriyet’in ilanıyla demokratik bir devlet kurulmuştur. Son aşamada ise yeni kurulan devletin devamlılığını sağlayacak inkılap hareketlerine girişilmiştir.
 
     <hr />
 1. 1924 Anayasası’nda 10 Nisan 1928’de yapılan değişiklik aşağıdakilerden hangisidir?
@@ -241,8 +228,7 @@
     - **Cevap D-) “Devletin dini İslam’dır” maddesinin Anayasa'da çıkarılması**
     - E-) Altı ilkenin anayasaya dâhil edilerek devletin temel nitelikleri haline getirilmesi
 
-    > **Açıklama:** HUKUK ALANINDA YAPILAN İNKILAPLAR
-    > 1924 Anayasası’nda kuvvetler birliği ilkesinin benimsenmesine devam edilmiş, yargının bağımsız mahkemeler tarafından kullanılacağı kabul edilmiştir. Devletin bir Cumhuriyet, egemenliğin de kayıtsız, şartsız ulusa ait olduğu belirtilmiştir. Anayasada devletin resmî dilinin Türkçe, dininin de İslam olduğuna yer verilmiştir. Ancak laik devlet ve toplum düzenini kurmaya yönelik Halifelik kaldırılıp Şeriye ve Evkaf Vekâlet’ine son verilirken devletin dininin anayasada belirtilmesi bir çelişki yaratmıştır. Anayasada 10 Nisan 1928’de bir değişiklik yapılarak “devletin dini İslam’dır” maddesi çıkarılmış ve Anayasaya laik bir nitelik kazandırılmıştır. 5 Şubat 1937 tarihinde ise altı ilke anayasaya dâhil edilerek devletin temel nitelikleri haline getirilmiştir. Böylece anayasanın ikinci maddesi “Türkiye Devleti, cumhuriyetçi, milliyetçi, halkçı, devletçi, laik ve inkılapçıdır” olarak değiştirilmiştir.
+    > **Açıklama:** HUKUK ALANINDA YAPILAN İNKILAPLAR<br />1924 Anayasası’nda kuvvetler birliği ilkesinin benimsenmesine devam edilmiş, yargının bağımsız mahkemeler tarafından kullanılacağı kabul edilmiştir. Devletin bir Cumhuriyet, egemenliğin de kayıtsız, şartsız ulusa ait olduğu belirtilmiştir. Anayasada devletin resmî dilinin Türkçe, dininin de İslam olduğuna yer verilmiştir. Ancak laik devlet ve toplum düzenini kurmaya yönelik Halifelik kaldırılıp Şeriye ve Evkaf Vekâlet’ine son verilirken devletin dininin anayasada belirtilmesi bir çelişki yaratmıştır. Anayasada 10 Nisan 1928’de bir değişiklik yapılarak “devletin dini İslam’dır” maddesi çıkarılmış ve Anayasaya laik bir nitelik kazandırılmıştır. 5 Şubat 1937 tarihinde ise altı ilke anayasaya dâhil edilerek devletin temel nitelikleri haline getirilmiştir. Böylece anayasanın ikinci maddesi “Türkiye Devleti, cumhuriyetçi, milliyetçi, halkçı, devletçi, laik ve inkılapçıdır” olarak değiştirilmiştir.
 
     <hr />
 1. Aşağıdakilerden hangisi Türk Medeni Kanunu hazırlanırken İsviçre Medeni Kanunu'nun örnek alınmasının nedenlerinden biri değildir?
@@ -252,8 +238,7 @@
     - D-) Sosyal içerik taşıması
     - **Cevap E-) Kadınlara siyasal haklar tanıması**
 
-    > **Açıklama:** HUKUK ALANINDA YAPILAN İNKILAPLAR
-    > "Kadınlara siyasal haklar tanıması" Türk Medeni Kanunu hazırlanırken İsviçre Medeni Kanunu'nun örnek alınmasının nedenlerinden biri değildir. İsviçre Medeni Kanunu’nun seçilmesinde demokratik, laik, anlaşılması kolay ve sosyal içerikli olmasının yanında, Avrupa’da en son düzenlenen medeni kanun olması etkili olmuştur.
+    > **Açıklama:** HUKUK ALANINDA YAPILAN İNKILAPLAR<br />"Kadınlara siyasal haklar tanıması" Türk Medeni Kanunu hazırlanırken İsviçre Medeni Kanunu'nun örnek alınmasının nedenlerinden biri değildir. İsviçre Medeni Kanunu’nun seçilmesinde demokratik, laik, anlaşılması kolay ve sosyal içerikli olmasının yanında, Avrupa’da en son düzenlenen medeni kanun olması etkili olmuştur.
 
     <hr />
 1. Aşağıdakilerden hangisi Türk kadınının siyasal hayata girişinde bir başlangıç noktası oluşturmuştur?
@@ -263,9 +248,7 @@
     - D-) 1926 tarihli Türk Medeni Kanunu ile kadınlara temel haklar verilmesi
     - **Cevap E-) 1930’da kabul edilen Yeni Belediye Kanunu’nda, seçme ve seçilme şartı olarak “Türk olmak” maddesine yer verilmesi**
 
-    > **Açıklama:** HUKUK ALANINDA YAPILAN İNKILAPLAR
-    > "1930’da kabul edilen Yeni Belediye Kanunu’nda, seçme ve seçilme şartı olarak “Türk olmak” maddesine yer verilmesi" Türk kadınının siyasal hayata girişinde bir başlangıç noktası olmuştur. Bu gelişmenin ardından, 1930 yılı belediye seçimlerinde ilk defa kadınlar seçme ve seçilme haklarını kullanmışlardır. Kadınların belediye meclisi üyeliği seçimlerine katılımının sağlanmasından sonra 26 Ekim 1933’te, Köy Kanunu’nda yapılan değişiklikle Türk
-    > kadınlarına muhtarlığa ve köy ihtiyar heyetlerine seçme ve seçilme hakkı tanınmıştır. Son olarak da sıra kadınlara milletvekili seçme seçilme hakkının tanınmasına gelmiştir. TBMM’nin 5 Aralık 1934 tarihli oturumunda anayasada yapılan değişiklikle 30 yaşını bitiren kadınlara milletvekili olma ve 22 yaşını bitiren kadınlara da seçme hakkı tanınmıştır.
+    > **Açıklama:** HUKUK ALANINDA YAPILAN İNKILAPLAR<br />"1930’da kabul edilen Yeni Belediye Kanunu’nda, seçme ve seçilme şartı olarak “Türk olmak” maddesine yer verilmesi" Türk kadınının siyasal hayata girişinde bir başlangıç noktası olmuştur. Bu gelişmenin ardından, 1930 yılı belediye seçimlerinde ilk defa kadınlar seçme ve seçilme haklarını kullanmışlardır. Kadınların belediye meclisi üyeliği seçimlerine katılımının sağlanmasından sonra 26 Ekim 1933’te, Köy Kanunu’nda yapılan değişiklikle Türk<br />kadınlarına muhtarlığa ve köy ihtiyar heyetlerine seçme ve seçilme hakkı tanınmıştır. Son olarak da sıra kadınlara milletvekili seçme seçilme hakkının tanınmasına gelmiştir. TBMM’nin 5 Aralık 1934 tarihli oturumunda anayasada yapılan değişiklikle 30 yaşını bitiren kadınlara milletvekili olma ve 22 yaşını bitiren kadınlara da seçme hakkı tanınmıştır.
 
     <hr />
 1. Devletin izni olmadan hiçbir okulun açılamayacağı ve okullarda hangi derslerin ne şekilde okutulacağı kararı, Cumhuriyet döneminin ilk yıllarında yapılan hangi düzenlemenin sonuçlarından biridir?
@@ -275,8 +258,7 @@
     - D-) 3 Mart 1924 tarihli Tevhid-i Tedrisat Kanunu
     - **Cevap E-) 2 Mart 1926 tarihli Maarif Teşkilatı Hakkında Kanun**
 
-    > **Açıklama:** EĞİTİM VE KÜLTÜR ALANINDA YAPILAN İNKILAPLAR
-    > Türkiye’de eğitimin belli esaslara göre düzenlenmesi amacıyla 2 Mart 1926’da Maarif Teşkilatı Hakkında Kanun kabul edilmiştir. Bu kanun Tevhid-i Tedrisat Kanunu’nun tamamlayıcısı olmuştur. Devletin izni olmadan hiçbir okulun açılamayacağı ve okullarda hangi derslerin ne şekilde okutulacağı karar altına alınmıştır.
+    > **Açıklama:** EĞİTİM VE KÜLTÜR ALANINDA YAPILAN İNKILAPLAR<br />Türkiye’de eğitimin belli esaslara göre düzenlenmesi amacıyla 2 Mart 1926’da Maarif Teşkilatı Hakkında Kanun kabul edilmiştir. Bu kanun Tevhid-i Tedrisat Kanunu’nun tamamlayıcısı olmuştur. Devletin izni olmadan hiçbir okulun açılamayacağı ve okullarda hangi derslerin ne şekilde okutulacağı karar altına alınmıştır.
 
     <hr />
 1. 1 Ocak 1929'da açılan Millet Mektepleri, 1936 yılından sonra da ----------- adıyla 1950 yılına kadar halkın eğitimi için faaliyetlerini sürdürmüşlerdir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?
@@ -286,9 +268,7 @@
     - D-) Türk Ocakları
     - E-) Köy Yatılı Dershaneleri
 
-    > **Açıklama:** EĞİTİM VE KÜLTÜR ALANINDA YAPILAN İNKILAPLAR
-    > Yukarıdaki cümlede boş bırakılan yeri B seçeneği olan "Ulus Okulları" doğru olarak tamamlar.
-    > 1 Ocak 1929'da açılan Millet Mektepleri, 1936 yılından sonra da Ulus Okulları adıyla 1950 yılına kadar halkın eğitimi için faaliyetlerini sürdürmüşlerdir.
+    > **Açıklama:** EĞİTİM VE KÜLTÜR ALANINDA YAPILAN İNKILAPLAR<br />Yukarıdaki cümlede boş bırakılan yeri B seçeneği olan "Ulus Okulları" doğru olarak tamamlar.<br />1 Ocak 1929'da açılan Millet Mektepleri, 1936 yılından sonra da Ulus Okulları adıyla 1950 yılına kadar halkın eğitimi için faaliyetlerini sürdürmüşlerdir.
 
     <hr />
 1. Osmanlı Devleti'nin son zamanlarında Duyun-u Umumiye İdaresi'nden sonra Osmanlı ekonomisi üzerinde mali denetim sağlayan ikinci büyük kurum aşağıdakilerden hangisidir?
@@ -298,9 +278,7 @@
     - D-) İtibar-ı Milli Bankası
     - E-) Ziraat Bankası
 
-    > **Açıklama:** İKTİSADİ ALANDA YAPILAN İNKILAPLAR
-    > Son dönem Osmanlı Devleti üzerinde, Duyun-u Umumiye İdaresi'nden sonra mali denetim sağlayan ikinci büyük kurum Osmanlı Bankası'dır.
-    > Osmanlı Bankası “Bank-ı Osmani” adıyla 1856 yılında İngiliz sermayesi ile merkezi Londra’da olmak üzere İstanbul’da kurulmuştur. Başlangıçta ticari bir banka olarak faaliyete geçen Osmanlı Bankası, 1863 yılında Fransızların da ortak olmasıyla bir devlet bankası statüsünde hizmet vermiştir. Osmanlı Bankası I. Dünya Savaşı’na kadar âdeta Osmanlı devletinin para politikasında tek başına söz sahibi olmuştur. Bankanın etkinliğine son vermek ve para politikasına egemen olmak için milli iktisat politikası izleyen İttihat ve Terakki döneminde İtibar-ı Millî Bankası kurulmuştur. Ancak I. Dünya Savaşı’ndan sonra Osmanlı Bankası yine eski etkinliğine kavuşmuş hatta Cumhuriyet döneminde de para basma yetkisini Merkez Bankası’nın kuruluşuna kadar elinde tutmuştur.
+    > **Açıklama:** İKTİSADİ ALANDA YAPILAN İNKILAPLAR<br />Son dönem Osmanlı Devleti üzerinde, Duyun-u Umumiye İdaresi'nden sonra mali denetim sağlayan ikinci büyük kurum Osmanlı Bankası'dır.<br />Osmanlı Bankası “Bank-ı Osmani” adıyla 1856 yılında İngiliz sermayesi ile merkezi Londra’da olmak üzere İstanbul’da kurulmuştur. Başlangıçta ticari bir banka olarak faaliyete geçen Osmanlı Bankası, 1863 yılında Fransızların da ortak olmasıyla bir devlet bankası statüsünde hizmet vermiştir. Osmanlı Bankası I. Dünya Savaşı’na kadar âdeta Osmanlı devletinin para politikasında tek başına söz sahibi olmuştur. Bankanın etkinliğine son vermek ve para politikasına egemen olmak için milli iktisat politikası izleyen İttihat ve Terakki döneminde İtibar-ı Millî Bankası kurulmuştur. Ancak I. Dünya Savaşı’ndan sonra Osmanlı Bankası yine eski etkinliğine kavuşmuş hatta Cumhuriyet döneminde de para basma yetkisini Merkez Bankası’nın kuruluşuna kadar elinde tutmuştur.
 
     <hr />
 1. Şer’iye Mahkemeleri hangi yıl kaldırılmıştır?
@@ -310,8 +288,7 @@
     - D-) 1927
     - E-) 1928
 
-    > **Açıklama:** 3 Mart 1924’te Şer’iye Mahkemeleri’nin kaldırılması ve sonrasında 1924 Anayasası’nın kabul edilmesiyle birlikte hukuk alanında yapılacak düzenlemelere hız verilmiştir.
-    > Şer’iye Mahkemeleri 1924 yılında kaldırılmıştır.
+    > **Açıklama:** 3 Mart 1924’te Şer’iye Mahkemeleri’nin kaldırılması ve sonrasında 1924 Anayasası’nın kabul edilmesiyle birlikte hukuk alanında yapılacak düzenlemelere hız verilmiştir.<br />Şer’iye Mahkemeleri 1924 yılında kaldırılmıştır.
 
     <hr />
 1. Anayasadan “devletin dini İslam’dır” maddesinin çıkarılarak anayasaya laik bir nitelik kazandırılması hangi yıl gerçekleştirilen bir düzenlemedir?
@@ -321,8 +298,7 @@
     - **Cevap D-) 1928**
     - E-) 1929
 
-    > **Açıklama:** Anayasada 10 Nisan 1928’de bir değişiklik yapılarak “devletin dini İslam’dır” maddesi çıkarılmıştır. Anayasaya laik bir nitelik kazandırılmıştır.
-    > Anayasadan “devletin dini İslam’dır” maddesinin çıkarılarak anayasaya laik bir nitelik kazandırılması 1928 yılında gerçekleşmiştir.
+    > **Açıklama:** Anayasada 10 Nisan 1928’de bir değişiklik yapılarak “devletin dini İslam’dır” maddesi çıkarılmıştır. Anayasaya laik bir nitelik kazandırılmıştır.<br />Anayasadan “devletin dini İslam’dır” maddesinin çıkarılarak anayasaya laik bir nitelik kazandırılması 1928 yılında gerçekleşmiştir.
 
     <hr />
 1. Türkiye'de kadınların siyasi hayata girmesinde ilk aşama olarak kabul edilen Yeni Belediye Kanunu hangi tarihte kabul edilmiştir?
@@ -332,9 +308,7 @@
     - D-) 1932
     - E-) 1933
 
-    > **Açıklama:** 1930’lu yılların başında kadınların sosyal ve iktisadi yaşamdaki faaliyetlerinin artması üzerine “artık zamanının geldiği düşüncesiyle” Mustafa Kemal Atatürk
-    > tarafından kadınlara siyasal haklar tanınması yoluna gidilmiştir. TBMM’de 3 Nisan 1930’da kabul edilen Yeni Belediye Kanunu’nda seçme ve seçilme şartı olarak “Türk olmak” maddesine yer verilmesi Türk kadınının siyasal hayata girişinde bir başlangıç noktası olmuştur.
-    > Türkiye'de kadınların siyasi hayata girmesinde ilk aşama olarak kabul edilen Yeni Belediye Kanunu 1930 yılında kabul edilmiştir.
+    > **Açıklama:** 1930’lu yılların başında kadınların sosyal ve iktisadi yaşamdaki faaliyetlerinin artması üzerine “artık zamanının geldiği düşüncesiyle” Mustafa Kemal Atatürk<br />tarafından kadınlara siyasal haklar tanınması yoluna gidilmiştir. TBMM’de 3 Nisan 1930’da kabul edilen Yeni Belediye Kanunu’nda seçme ve seçilme şartı olarak “Türk olmak” maddesine yer verilmesi Türk kadınının siyasal hayata girişinde bir başlangıç noktası olmuştur.<br />Türkiye'de kadınların siyasi hayata girmesinde ilk aşama olarak kabul edilen Yeni Belediye Kanunu 1930 yılında kabul edilmiştir.
 
     <hr />
 1. Kadınlara seçme ve seçilme hakkı tanınmasından sonra TBMM'ye giren kadın milletvekili sayısı nedir?
@@ -344,8 +318,7 @@
     - **Cevap D-) 18**
     - E-) 19
 
-    > **Açıklama:** Kadınlara seçme ve seçilme hakkı tanınmasından sonra V. Dönem TBMM’de 18 kadın milletvekili görev yapmıştır.
-    > Kadınlara seçme ve seçilme hakkı tanınmasından sonra TBMM'ye giren kadın milletvekili sayısı 18'dir.
+    > **Açıklama:** Kadınlara seçme ve seçilme hakkı tanınmasından sonra V. Dönem TBMM’de 18 kadın milletvekili görev yapmıştır.<br />Kadınlara seçme ve seçilme hakkı tanınmasından sonra TBMM'ye giren kadın milletvekili sayısı 18'dir.
 
     <hr />
 1. Aşağıdakilerden hangisi İzmir İktisat Kongresine katılan tüccar grubunun iktisadi önerilerinden biri değildir?
@@ -355,9 +328,7 @@
     - D-) Kabotaj hakkında yabancılara imtiyaz tanınmaması
     - E-) Milli bir banka kurulması
 
-    > **Açıklama:** İKTİSADİ ALANDA YAPILAN İNKILAPLAR
-    > "Tütün ziraat ve ticaretinin serbest olması" İzmir İktisat Kongresine katılan tüccar grubunun değil, çiftçi grubunun istekleri arasındadır.
-    > Kongre çalışmaları esas olarak çiftçi, tüccar, sanayici ve işçi gruplarının kendi görüşlerini, iktisadi öneriler biçiminde formüle etmeleri ve her gruba ait önerilerin bütün gruplarca madde madde oylanması biçiminde olmuştur. Tüccar grubunun önerileri; gümrük himayesi, Cuma gününün bütün Türk halkı için tatil günü olması, yabancı sermayeye imtiyaz verilmemesi, kabotaj hakkında yabancılara imtiyaz tanınmaması, yabancı sermayenin ülkeye zarar vermeyecek şekilde girmesinin sağlanması, millî bir banka kurulması vb. olmuştur.
+    > **Açıklama:** İKTİSADİ ALANDA YAPILAN İNKILAPLAR<br />"Tütün ziraat ve ticaretinin serbest olması" İzmir İktisat Kongresine katılan tüccar grubunun değil, çiftçi grubunun istekleri arasındadır.<br />Kongre çalışmaları esas olarak çiftçi, tüccar, sanayici ve işçi gruplarının kendi görüşlerini, iktisadi öneriler biçiminde formüle etmeleri ve her gruba ait önerilerin bütün gruplarca madde madde oylanması biçiminde olmuştur. Tüccar grubunun önerileri; gümrük himayesi, Cuma gününün bütün Türk halkı için tatil günü olması, yabancı sermayeye imtiyaz verilmemesi, kabotaj hakkında yabancılara imtiyaz tanınmaması, yabancı sermayenin ülkeye zarar vermeyecek şekilde girmesinin sağlanması, millî bir banka kurulması vb. olmuştur.
 
     <hr />
 1. Eğitimin parasız olması ve temel eğitimin bütün çocuklar için zorunlu hale getirilmesi ilkesine ilk olarak hangi anayasada yer verilmiştir?
@@ -367,8 +338,7 @@
     - D-) 1961 Anayasası
     - E-) 1982 Anayasası
 
-    > **Açıklama:** Eğitimin parasız olması ve temel eğitimin bütün çocuklara zorunlu olması ilkesi benimsenmiştir. Bu amaçla 1924 Anayasası’nda ilköğretimin zorunlu ve parasız olduğuna yer verilmiştir.
-    > Eğitimin parasız olması ve temel eğitimin bütün çocuklara zorunlu olması ilkesi 1924 yılında anayasal bir zorunluluk olarak kabul edilmiştir
+    > **Açıklama:** Eğitimin parasız olması ve temel eğitimin bütün çocuklara zorunlu olması ilkesi benimsenmiştir. Bu amaçla 1924 Anayasası’nda ilköğretimin zorunlu ve parasız olduğuna yer verilmiştir.<br />Eğitimin parasız olması ve temel eğitimin bütün çocuklara zorunlu olması ilkesi 1924 yılında anayasal bir zorunluluk olarak kabul edilmiştir
 
     <hr />
 1. Cumhuriyetin ilk yıllarında yapılan bütçelerde aşağıdakilerden hangisine öncelik verilmiştir?
@@ -378,8 +348,7 @@
     - D-) Kültür sanat harcamalarına
     - E-) Sanayi alanında yapılan yatırım harcamalarına
 
-    > **Açıklama:** İKTİSADİ ALANDA YAPILAN İNKILAPLAR
-    > Cumhuriyetin ilk on yılında 1925 ve 1931 yılı bütçeleri dışındaki sekiz bütçe fazlalık vermiştir. Cumhuriyetin ilk yıllarında yapılan bütçelerde savunma ve bayındırlık harcamalarına öncelik verilmiştir.1929 yılından itibaren ise dış borç ödemeleri bütçedeki en büyük paylardan birini oluşturmuştur.
+    > **Açıklama:** İKTİSADİ ALANDA YAPILAN İNKILAPLAR<br />Cumhuriyetin ilk on yılında 1925 ve 1931 yılı bütçeleri dışındaki sekiz bütçe fazlalık vermiştir. Cumhuriyetin ilk yıllarında yapılan bütçelerde savunma ve bayındırlık harcamalarına öncelik verilmiştir.1929 yılından itibaren ise dış borç ödemeleri bütçedeki en büyük paylardan birini oluşturmuştur.
 
     <hr />
 1. Dil ve Tarih Coğrafya Fakültesi hangi tarihte kurulmuştur?
@@ -389,8 +358,7 @@
     - **Cevap D-) 1936**
     - E-) 1937
 
-    > **Açıklama:** Ankara’da 1925 yılında açılan Hukuk Mektebi, 1930 yılında açılan Ankara Yüksek Ziraat Mektebi, 1936’da açılan Dil ve Tarih Coğrafya Fakültesi ve Ankara’ya taşınan Siyasal Bilgiler Fakültesi 1946 yılında bir çatı altında toplanarak Ankara Üniversitesi kurulmuştur.
-    > Dil ve Tarih Coğrafya Fakültesi 1936 yılında kurulmuştur.
+    > **Açıklama:** Ankara’da 1925 yılında açılan Hukuk Mektebi, 1930 yılında açılan Ankara Yüksek Ziraat Mektebi, 1936’da açılan Dil ve Tarih Coğrafya Fakültesi ve Ankara’ya taşınan Siyasal Bilgiler Fakültesi 1946 yılında bir çatı altında toplanarak Ankara Üniversitesi kurulmuştur.<br />Dil ve Tarih Coğrafya Fakültesi 1936 yılında kurulmuştur.
 
     <hr />
 1. Sosyal, sağlık ve gündelik hayat alanında çıkarılan kanunlar ve tarihlerine ilişkin doğru eşleşme aşağıdakilerin hangisinde verilmiştir?<br />TARİH<br />K-25 Kasım 1925<br />L-3 Aralık 1934<br />M-26 Mart 1931<br />N-21 Haziran 1934<br />KANUN<br />1\.Şapka Kanunu<br />2\.Ölçü Kanunu
@@ -400,10 +368,7 @@
     - D-) L-1, K-2
     - E-) K-1, N-2
 
-    > **Açıklama:** SOSYAL, SAĞLIK VE GÜNDELİK HAYAT ALANINDA YAPILAN İNKILAPLAR
-    > Sosyal, sağlık ve gündelik hayat alanında çıkarılan kanunlar ve tarihlerine ilişkin doğru eşleşme B seçeneğinde verilmiştir.
-    > 25 Kasım 1925’te TBMM’de çıkarılan Şapka Kanunu ile Türk vatandaşlarına şapka giyme zorunluluğu getirilmiştir.
-    > 26 Mart 1931 tarihinde de Ölçü Kanunu kabul edilerek litre, kilogram, metre gibi birimlerin kullanımına geçilmiştir.
+    > **Açıklama:** SOSYAL, SAĞLIK VE GÜNDELİK HAYAT ALANINDA YAPILAN İNKILAPLAR<br />Sosyal, sağlık ve gündelik hayat alanında çıkarılan kanunlar ve tarihlerine ilişkin doğru eşleşme B seçeneğinde verilmiştir.<br />25 Kasım 1925’te TBMM’de çıkarılan Şapka Kanunu ile Türk vatandaşlarına şapka giyme zorunluluğu getirilmiştir.<br />26 Mart 1931 tarihinde de Ölçü Kanunu kabul edilerek litre, kilogram, metre gibi birimlerin kullanımına geçilmiştir.
 
     <hr />
 1. 1929’da Millet Mektepleri'nin açılmasındaki amaç aşağıdakilerden hangisidir?
@@ -413,8 +378,7 @@
     - **Cevap D-) Yeni alfabeyi halka öğretmek.**
     - E-) Öğretmek eksiğini karşılamak.
 
-    > **Açıklama:** Harf İnkılabından sonra yeni Türk alfabesini halka öğretmek için geniş kapsamlı yaygın eğitim programı uygulayacak bir kuruma ihtiyaç duyulmuştur. Dönemin Maarif Vekili Mustafa Necati Bey’in öncülüğünde Millet Mektepleri kuruluşuyla ilgili 24 Kasım 1928 tarihli bir talimatname yayınlanmıştır.
-    > 1929’da Millet Mektepleri'nin açılmasındaki amaç yeni alfabeyi halka öğretmektir.
+    > **Açıklama:** Harf İnkılabından sonra yeni Türk alfabesini halka öğretmek için geniş kapsamlı yaygın eğitim programı uygulayacak bir kuruma ihtiyaç duyulmuştur. Dönemin Maarif Vekili Mustafa Necati Bey’in öncülüğünde Millet Mektepleri kuruluşuyla ilgili 24 Kasım 1928 tarihli bir talimatname yayınlanmıştır.<br />1929’da Millet Mektepleri'nin açılmasındaki amaç yeni alfabeyi halka öğretmektir.
 
     <hr />
 1. İzmir İktisat Kongresi'nin toplanmasına öncülük eden dönemin İktisat Bakanı aşağıdakilerden hangisidir?
@@ -424,8 +388,7 @@
     - D-) Münir Hayri Egeli
     - **Cevap E-) Mahmut Esat Bozkurt**
 
-    > **Açıklama:** 17 Şubat-4 Mart 1923 tarihleri arasında İzmir’de Türkiye İktisat Kongresi toplanmıştır. Kongrenin toplanış amacı yeni Türk Devleti’nin izleyeceği iktisat politikasını belirlemek ve ekonomik kalkınmayı hızlandıracak önerileri tespit etmek olmuştur. Kongrenin toplanmasına dönemin İktisat Vekili Mahmut Esat (Bozkurt) Bey öncülük yapmıştır.
-    > İzmir İktisat Kongresi'nin toplanmasına öncülük eden dönemin İktisat Bakanı Mahmut Esat Bozkurt'tur.
+    > **Açıklama:** 17 Şubat-4 Mart 1923 tarihleri arasında İzmir’de Türkiye İktisat Kongresi toplanmıştır. Kongrenin toplanış amacı yeni Türk Devleti’nin izleyeceği iktisat politikasını belirlemek ve ekonomik kalkınmayı hızlandıracak önerileri tespit etmek olmuştur. Kongrenin toplanmasına dönemin İktisat Vekili Mahmut Esat (Bozkurt) Bey öncülük yapmıştır.<br />İzmir İktisat Kongresi'nin toplanmasına öncülük eden dönemin İktisat Bakanı Mahmut Esat Bozkurt'tur.
 
     <hr />
 1. Osmanlı Devleti'nden kalan borçların Türkiye Cumhuriyeti tarafından tamamen ödenmesi kaç yılında gerçekleşmiştir?
@@ -435,8 +398,7 @@
     - D-) 1950
     - **Cevap E-) 1954**
 
-    > **Açıklama:** Türkiye Dünya Ekonomik Krizinin çıktığı yıl borç ödemelerine başlamış devletin kamu yatırımlarının arttığı dönemlerde ve II. Dünya Savaşı yıllarında taksitler aksatılmadan ödenmiştir. Osmanlı borçları 1954 yılında tamamen tasfiye edilmiştir.
-    > Osmanlı Devleti'nden alan borçların Türkiye Cumhuriyeti tarafından tamamen ödenmesi 1954 yılında gerçekleşmiştir.
+    > **Açıklama:** Türkiye Dünya Ekonomik Krizinin çıktığı yıl borç ödemelerine başlamış devletin kamu yatırımlarının arttığı dönemlerde ve II. Dünya Savaşı yıllarında taksitler aksatılmadan ödenmiştir. Osmanlı borçları 1954 yılında tamamen tasfiye edilmiştir.<br />Osmanlı Devleti'nden alan borçların Türkiye Cumhuriyeti tarafından tamamen ödenmesi 1954 yılında gerçekleşmiştir.
 
     <hr />
 1. 1935 yılında maden ve enerji kaynaklarını bulmak ve bunları işletmek için kurulan banka aşağıdakilerden hangisidir?
@@ -446,8 +408,7 @@
     - D-) İş Bankası
     - E-) Halk Bankası
 
-    > **Açıklama:** 17 Nisan 1934’te Birinci Beş Yıllık Sanayi Planı uygulamaya konulmuştur. Planı uygulama görevi Sümerbank’a verilmiştir. “Birinci Beş Yıllık Sanayi Planı” çerçevesinde 1935 yılında maden ve enerji kaynaklarını bulmak ve bunları işletmek için Etibank kurulmuştur.
-    > *Etibank*, madencilik sahasında faaliyet gösterirken aynı zamanda enerji üretimi konusunda da çalışmalar yapmak üzere 1935 yılında kurulmuştur.
+    > **Açıklama:** 17 Nisan 1934’te Birinci Beş Yıllık Sanayi Planı uygulamaya konulmuştur. Planı uygulama görevi Sümerbank’a verilmiştir. “Birinci Beş Yıllık Sanayi Planı” çerçevesinde 1935 yılında maden ve enerji kaynaklarını bulmak ve bunları işletmek için Etibank kurulmuştur.<br />*Etibank*, madencilik sahasında faaliyet gösterirken aynı zamanda enerji üretimi konusunda da çalışmalar yapmak üzere 1935 yılında kurulmuştur.
 
     <hr />
 1. "İnkılap" kelimesinin kökeni aşağıdaki dillerden hangisine dayanmaktadır?
@@ -477,9 +438,7 @@
     - D-) 1980 Anayasası
     - E-) 1981 Anayasası
 
-    > **Açıklama:** 3 Mart 1924’te Şer’iye Mahkemeleri’nin kaldırılması ve sonrasında 1924 Anayasası’nın kabul
-    > edilmesiyle birlikte hukuk alanında yapılacak düzenlemelere hız verilmiştir. Çağdaş, laik ve toplumun
-    > ihtiyaçlarına yönelik bir Türk hukuk sistemi kurmak amaçlanmıştır.
+    > **Açıklama:** 3 Mart 1924’te Şer’iye Mahkemeleri’nin kaldırılması ve sonrasında 1924 Anayasası’nın kabul<br />edilmesiyle birlikte hukuk alanında yapılacak düzenlemelere hız verilmiştir. Çağdaş, laik ve toplumun<br />ihtiyaçlarına yönelik bir Türk hukuk sistemi kurmak amaçlanmıştır.
 
     <hr />
 1. Türk Medeni Kanunu'nun ilan edildiği tarih hangi seçenekte doğru olarak verilmiştir?
@@ -489,8 +448,7 @@
     - D-) 19 Mayıs 1930
     - E-) 17 Haziran 1927
 
-    > **Açıklama:** Türk Medeni Kanunu’nun hazırlanması için hukukçu milletvekillerinden, akademisyen, yargıç ve avukatlardan oluşan 26 kişilik bir komisyon kurulmuştur. Komisyon İsviçre Medeni Kanunu’nu Türkçeye çevirerek yeni bir kanun taslağı hazırlanmış ve Türk Medeni Kanunu adıyla 17 Şubat
-    > 1926 tarihinde TBMM’de kabul edilmiştir (Turan, 2005; Lewis, 1993).
+    > **Açıklama:** Türk Medeni Kanunu’nun hazırlanması için hukukçu milletvekillerinden, akademisyen, yargıç ve avukatlardan oluşan 26 kişilik bir komisyon kurulmuştur. Komisyon İsviçre Medeni Kanunu’nu Türkçeye çevirerek yeni bir kanun taslağı hazırlanmış ve Türk Medeni Kanunu adıyla 17 Şubat<br />1926 tarihinde TBMM’de kabul edilmiştir (Turan, 2005; Lewis, 1993).
 
     <hr />
 1. Türk Medeni Kanunu düzenlenirken hangi ülkenin Medeni Kanunu'ndan yararlanılmıştır?
@@ -500,8 +458,7 @@
     - D-) Fransa
     - **Cevap E-) İsviçre**
 
-    > **Açıklama:** Türk Medeni Kanunu’nun hazırlanması için hukukçu milletvekillerinden, akademisyen, yargıç ve avukatlardan oluşan 26 kişilik bir komisyon kurulmuştur. Komisyon İsviçre Medeni Kanunu’nu Türkçeye çevirerek yeni bir kanun taslağı hazırlanmış ve Türk Medeni Kanunu adıyla 17 Şubat
-    > 1926 tarihinde TBMM’de kabul edilmiştir (Turan, 2005; Lewis, 1993).
+    > **Açıklama:** Türk Medeni Kanunu’nun hazırlanması için hukukçu milletvekillerinden, akademisyen, yargıç ve avukatlardan oluşan 26 kişilik bir komisyon kurulmuştur. Komisyon İsviçre Medeni Kanunu’nu Türkçeye çevirerek yeni bir kanun taslağı hazırlanmış ve Türk Medeni Kanunu adıyla 17 Şubat<br />1926 tarihinde TBMM’de kabul edilmiştir (Turan, 2005; Lewis, 1993).
 
     <hr />
 1. İlk Türk Ceza Kanunu kaç yılında kabul edilmiştir?
@@ -511,11 +468,7 @@
     - **Cevap D-) 1 Mart 1926**
     - E-) 16 Haziran 1925
 
-    > **Açıklama:** En uygun kanun olarak
-    > 1889 tarihli İtalyan Ceza Kanunu görülmüştür. İtalyan
-    > Ceza Kanunu’na dayanan yeni bir ceza kanunu
-    > hazırlanmış 1 Mart 1926’da TBMM’de kabul edilmiştir
-    > (Turan, 2005).
+    > **Açıklama:** En uygun kanun olarak<br />1889 tarihli İtalyan Ceza Kanunu görülmüştür. İtalyan<br />Ceza Kanunu’na dayanan yeni bir ceza kanunu<br />hazırlanmış 1 Mart 1926’da TBMM’de kabul edilmiştir<br />(Turan, 2005).
 
     <hr />
 1. Türk Ceza Kanunu düzenlenirken hangi ülke örnek alınarak hazırlanmıştır?
@@ -525,12 +478,7 @@
     - D-) Almanya
     - E-) İngiltere
 
-    > **Açıklama:** Batı ülkelerinin ceza kanunları incelenerek
-    > Türkiye koşullarına uygulanacak bir ceza kanunu arayışına girilmiştir. En uygun kanun olarak
-    > 1889 tarihli İtalyan Ceza Kanunu görülmüştür. İtalyan
-    > Ceza Kanunu’na dayanan yeni bir ceza kanunu
-    > hazırlanmış 1 Mart 1926’da TBMM’de kabul edilmiştir
-    > (Turan, 2005).
+    > **Açıklama:** Batı ülkelerinin ceza kanunları incelenerek<br />Türkiye koşullarına uygulanacak bir ceza kanunu arayışına girilmiştir. En uygun kanun olarak<br />1889 tarihli İtalyan Ceza Kanunu görülmüştür. İtalyan<br />Ceza Kanunu’na dayanan yeni bir ceza kanunu<br />hazırlanmış 1 Mart 1926’da TBMM’de kabul edilmiştir<br />(Turan, 2005).
 
     <hr />
 1. Kadınlar ilk olarak aşağıdakilerden hangi belediye seçiminde seçme ve seçilme hakkını kullanmıştır?
@@ -540,8 +488,7 @@
     - D-) 1940
     - E-) 1945
 
-    > **Açıklama:** 1930 yılı belediye seçimlerinde ilk
-    > defa kadınlar seçme ve seçilme haklarını kullanmışlardır.
+    > **Açıklama:** 1930 yılı belediye seçimlerinde ilk<br />defa kadınlar seçme ve seçilme haklarını kullanmışlardır.
 
     <hr />
 1. Yeni Türk Alfabesi kaç yılında kabul edilmiştir?
@@ -551,8 +498,7 @@
     - **Cevap D-) 1 Kasım 1928**
     - E-) 25 Temmuz 1929
 
-    > **Açıklama:** Harf inkılabının uygulanması için bütün hazırlıklar tamamlandıktan sonra kanun, TBMM’de 1
-    > Kasım 1928 günü kabul edilmiştir (Ertan vd., 2011).
+    > **Açıklama:** Harf inkılabının uygulanması için bütün hazırlıklar tamamlandıktan sonra kanun, TBMM’de 1<br />Kasım 1928 günü kabul edilmiştir (Ertan vd., 2011).
 
     <hr />
 1. Yeni Türk Alfabesi Türk halkına Mustafa Kemal Atatürk tarafından nerede tanıtılmıştır?
@@ -562,13 +508,7 @@
     - D-) Ulus Meydanı
     - E-) Topkapı Sarayı
 
-    > **Açıklama:** 23 Mayıs 1928 tarihinde Mustafa Kemal
-    > Paşa’nın talimatıyla birçok batı ülkelerinde kullanılan
-    > Latin alfabe örneklerini inceleyerek yeni Türk alfabesini
-    > belirlemek üzere bir dil heyeti kurulmuştur. Üç
-    > ay gibi kısa bir sürede hazırlanan yeni alfabe Mustafa
-    > Kemal Paşa tarafından 9-10 Ağustos 1928 gecesi
-    > Sarayburnu’nda Gülhane Parkı’nda kamuoyuna tanıtılmıştır.
+    > **Açıklama:** 23 Mayıs 1928 tarihinde Mustafa Kemal<br />Paşa’nın talimatıyla birçok batı ülkelerinde kullanılan<br />Latin alfabe örneklerini inceleyerek yeni Türk alfabesini<br />belirlemek üzere bir dil heyeti kurulmuştur. Üç<br />ay gibi kısa bir sürede hazırlanan yeni alfabe Mustafa<br />Kemal Paşa tarafından 9-10 Ağustos 1928 gecesi<br />Sarayburnu’nda Gülhane Parkı’nda kamuoyuna tanıtılmıştır.
 
     <hr />
 1. Aşağıdakilerden hangisi Türk inkılabının temel aşamalarından biri olarak **değerlendirilemez**?
@@ -739,10 +679,7 @@
     - D-) I, II, III, IV
     - E-) II, IV
 
-    > **Açıklama:** I. Atatürk’ün oluşturduğu özel kütüphanesindeki kitapların sayısı 4289’ü, bibliyografik künye de 10.000’i bulmuştur.
-    > II. Mustafa Kemal’in okuduğu kitaplara bakıldığında **“tarih”** ön planda yer almaktadır.
-    > III. Atatürk’ün kitap okumadaki belirgin özelliklerinden biri, incelediği konuya ilişkin ya da ilgisini çeken konulardaki kitapları, sürekli bir okuma ile bitirmeden bırakmaması olmuştur.
-    > IV. Atatürk okuduğu kitaplarda önemli saydığı cümlelerin altını bazen kırmızı, bazen de mavi kalemle çizmiştir. Kırmızı kalemle çizdikleri fikri kuvvetli bulduğu ve kendisinin de katıldığı, mavi kalemle çizdikleri ise o fikri beğenmediği anlamına gelmiştir.
+    > **Açıklama:** I. Atatürk’ün oluşturduğu özel kütüphanesindeki kitapların sayısı 4289’ü, bibliyografik künye de 10.000’i bulmuştur.<br />II. Mustafa Kemal’in okuduğu kitaplara bakıldığında **“tarih”** ön planda yer almaktadır.<br />III. Atatürk’ün kitap okumadaki belirgin özelliklerinden biri, incelediği konuya ilişkin ya da ilgisini çeken konulardaki kitapları, sürekli bir okuma ile bitirmeden bırakmaması olmuştur.<br />IV. Atatürk okuduğu kitaplarda önemli saydığı cümlelerin altını bazen kırmızı, bazen de mavi kalemle çizmiştir. Kırmızı kalemle çizdikleri fikri kuvvetli bulduğu ve kendisinin de katıldığı, mavi kalemle çizdikleri ise o fikri beğenmediği anlamına gelmiştir.
 
     <hr />
 1. Anıtkabir ile ilgili aşağıdakilerden hangileri doğru bilgidir?<br />I. Anıtkabir'in inşaatı 20 yıl sürmüştür.<br />II. Anıtkabir için 49 projenin katıldığı bir proje yarışmasında Prof. Dr. Emin Onat ile Doç. Dr. Orhan Arda’nın ortak projeleri birinci olmuştur.<br />III. Anıtkabir'in yeri 7 Temmuz 1939'da Rasattepe (Anıttepe) olarak seçmiştir.<br />IV. Atatürk'ün aziz naaşı Anıtkabir'e inşa edilene kadar Cumhuriyet Müzesi’ndeki geçici kabrinde kalmıştır.
@@ -752,10 +689,7 @@
     - D-) I, II, III, IV
     - E-) II ve IV
 
-    > **Açıklama:** I. Anıtkabir'in inşaatı 15yıl sürmüştür.
-    > II. Anıtkabir için 49 projenin katıldığı bir proje yarışmasında Prof. Dr. Emin Onat ile Doç. Dr. Orhan Arda’nın ortak projeleri birinci olmuştur.
-    > III. Anıtkabir'in yeri 7 Temmuz 1939'da Rasattepe (Anıttepe) olarak seçmiştir.
-    > IV. Atatürk'ün aziz naaşı Anıtkabir'e inşa edilene kadar Etnografya Müzesi’ndeki geçici kabrinde kalmıştır.
+    > **Açıklama:** I. Anıtkabir'in inşaatı 15yıl sürmüştür.<br />II. Anıtkabir için 49 projenin katıldığı bir proje yarışmasında Prof. Dr. Emin Onat ile Doç. Dr. Orhan Arda’nın ortak projeleri birinci olmuştur.<br />III. Anıtkabir'in yeri 7 Temmuz 1939'da Rasattepe (Anıttepe) olarak seçmiştir.<br />IV. Atatürk'ün aziz naaşı Anıtkabir'e inşa edilene kadar Etnografya Müzesi’ndeki geçici kabrinde kalmıştır.
 
     <hr />
 1. Atatürk'ün ilkelerine ilişkin aşağıdakilerden hangileri doğrudur?<br />I. Tam bağımsızlık, çağdaşlaşma, akılcılık ve bilimsellik, demokrasi ve ulusal egemenlik bütün ilkelerin içinde bulunan ortak özelliklerdir.<br />II. Temel ilkeler, tüm ilkeler için temel teşkil eden genel ve ortak esaslardır.<br />III. Atatürk'ün temel ilkeleri: Tam bağımsızlık, Milli Egemenlik, Çağdaşlaşma, Akıl ve Bilimdir.<br />IV. Laiklik bir düşünce sistemidir; her şeyden önce bir zihin ve düşünce özgürlüğüdür.
@@ -765,10 +699,7 @@
     - D-) II ve III
     - E-) I, II, III
 
-    > **Açıklama:** I. Tam bağımsızlık, çağdaşlaşma, akılcılık ve bilimsellik, demokrasi ve ulusal egemenlik bütün ilkelerin içinde bulunan ortak özelliklerdir.
-    > II. **Bütünleyici ilkeler,** tüm ilkeler için temel teşkil eden genel ve ortak esaslardır.
-    > III. Atatürk'ün **Bütünleyici ilkeleri**: Tam bağımsızlık, Milli Egemenlik, Çağdaşlaşma, Akıl ve Bilimdir.
-    > IV. Laiklik bir düşünce sistemidir; her şeyden önce bir zihin ve düşünce özgürlüğüdür.
+    > **Açıklama:** I. Tam bağımsızlık, çağdaşlaşma, akılcılık ve bilimsellik, demokrasi ve ulusal egemenlik bütün ilkelerin içinde bulunan ortak özelliklerdir.<br />II. **Bütünleyici ilkeler,** tüm ilkeler için temel teşkil eden genel ve ortak esaslardır.<br />III. Atatürk'ün **Bütünleyici ilkeleri**: Tam bağımsızlık, Milli Egemenlik, Çağdaşlaşma, Akıl ve Bilimdir.<br />IV. Laiklik bir düşünce sistemidir; her şeyden önce bir zihin ve düşünce özgürlüğüdür.
 
     <hr />
 1. Mustafa Kemal, Manastır’da eğitimine devam ettiği sırada hangi hastalığa yakalanmıştır?
@@ -808,8 +739,7 @@
     - D-) Bulgaristan
     - E-) Sırbistan
 
-    > **Açıklama:** Mustafa Kemal, Harbiye Nazırı Mahmut Şevket Paşa ile birlikte 1910 yılının Mart ayında
-    > Arnavutluk’ta çıkan isyanı bastırma görevini icra etmiştir.
+    > **Açıklama:** Mustafa Kemal, Harbiye Nazırı Mahmut Şevket Paşa ile birlikte 1910 yılının Mart ayında<br />Arnavutluk’ta çıkan isyanı bastırma görevini icra etmiştir.
 
     <hr />
 1. Aşağıdakilerden hangisi İttihat ve Terakki Cemiyeti’nin 1909’da Selanik’te yaptığı II.Kongresi'ne Mustafa Kemal ile birlikte katılan arkadaşlarından biri **değildir?**
@@ -819,8 +749,7 @@
     - D-) Kazım (Karabekir)
     - E-) İsmet (İnönü)
 
-    > **Açıklama:** İttihat ve Terakki Cemiyeti’nin 1909’da Selanik’te yaptığı II. Kongresine Mustafa Kemal, Ali
-    > Fuat (Cebesoy), Fethi (Okyar), Kazım (Karabekir), Rauf (Orbay), Tevfik Rüştü (Aras) ve İsmet (İnönü) de katılmışlardır.
+    > **Açıklama:** İttihat ve Terakki Cemiyeti’nin 1909’da Selanik’te yaptığı II. Kongresine Mustafa Kemal, Ali<br />Fuat (Cebesoy), Fethi (Okyar), Kazım (Karabekir), Rauf (Orbay), Tevfik Rüştü (Aras) ve İsmet (İnönü) de katılmışlardır.
 
     <hr />
 1. Birinci Dünya Savaşı'nın başladığı zaman (28 Temmuz 1914) Yarbay Mustafa Kemal nerede askeri ataşe olarak görev yapmaktaydı?
@@ -840,8 +769,7 @@
     - D-) Mide
     - E-) Beyin
 
-    > **Açıklama:** Atatürk’ün ölümüne neden olan karaciğer rahatsızlığının ilk belirtileri önce aralıklarla daha son-
-    > ra sık sık görülen burun kanamaları ve bacaklarında kaşıntı ile ortaya çıkmıştır
+    > **Açıklama:** Atatürk’ün ölümüne neden olan karaciğer rahatsızlığının ilk belirtileri önce aralıklarla daha son-<br />ra sık sık görülen burun kanamaları ve bacaklarında kaşıntı ile ortaya çıkmıştır
 
     <hr />
 1. “Malik olduğum bütün nukut (nakit para) ve hisse senetleri ile Çankaya’daki menkul ve gayrimenkul emvalimi, ....................... aşağıdaki şartlarla terk ve vasiyet ediyorum."<br />Atatürk'ün Vasiyetnamesi'nden aktarılan yukarıdaki cümlede  boş bırakılan yere hangi ifade gelmelidir?
@@ -881,8 +809,7 @@
     - D-) Şemsi Efendi İlkokulu-Mahalle Mektebi-Selanik Askerî Rüştiyesi-Manastır Askerî İdadisi-Kara Harp Okulu-Mülkiye Rüştiyesi
     - **Cevap E-) Mahalle Mektebi-Şemsi Efendi İlkokulu-Mülkiye Rüştiyesi-Selanik Askerî Rüştiyesi-Manastır Askerî İdadisi-Kara Harp Okulu**
 
-    > **Açıklama:** Mustafa Kemal Atatürk'ün öğrenim gördüğü okulların sıralaması:
-    > Mahalle Mektebi-Şemsi Efendi İlkokulu-Mülkiye Rüştiyesi-Selanik Askerî Rüştiyesi-Manastır Askerî İdadisi-Kara Harp Okulu
+    > **Açıklama:** Mustafa Kemal Atatürk'ün öğrenim gördüğü okulların sıralaması:<br />Mahalle Mektebi-Şemsi Efendi İlkokulu-Mülkiye Rüştiyesi-Selanik Askerî Rüştiyesi-Manastır Askerî İdadisi-Kara Harp Okulu
 
     <hr />
 1. Kurmay Yüzbaşı Mustafa Kemal’in ilk görev yeri, merkezi Şam’da bulunan.........’dur.<br />Yukarıda boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -902,8 +829,7 @@
     - **Cevap D-) Bandırma Vapuru**
     - E-) Amasya Vapuru
 
-    > **Açıklama:** Mustafa Kemal Paşa, İzmir’in 15 Mayıs 1919 tarihinde Yunanlılar tarafından işgal edilmesinden bir gün sonra 16 Mayıs 1919 tarihinde **Bandırma Vapuru** ile Samsun’a hareket etmiş; 19 Mayıs
-    > 1919 tarihinde Samsun’a ayak basmıştır.
+    > **Açıklama:** Mustafa Kemal Paşa, İzmir’in 15 Mayıs 1919 tarihinde Yunanlılar tarafından işgal edilmesinden bir gün sonra 16 Mayıs 1919 tarihinde **Bandırma Vapuru** ile Samsun’a hareket etmiş; 19 Mayıs<br />1919 tarihinde Samsun’a ayak basmıştır.
 
     <hr />
 1. Mustafa Kemal Paşa’nın Türk halkına ilk seslenişi, 28 Mayıs 1919 tarihinde aşağıdakilerden hangi genelge ile gerçekleşmiştir?
@@ -953,8 +879,7 @@
     - D-) Devletçilik
     - E-) İnkılapçılık
 
-    > **Açıklama:** Atatürk’ün **Cumhuriyetçilik** anlayışı, demokrasi ve ulusal egemenlik olmak üzere iki
-    > temel esas üzerine inşa edilmiştir
+    > **Açıklama:** Atatürk’ün **Cumhuriyetçilik** anlayışı, demokrasi ve ulusal egemenlik olmak üzere iki<br />temel esas üzerine inşa edilmiştir
 
     <hr />
 1. Atatürk ilkelerinden en son uygulanmaya başlayan aşağıdakilerden hangisidir?
@@ -974,9 +899,7 @@
     - D-) Milliyetçilik
     - **Cevap E-) Devletçilik**
 
-    > **Açıklama:** Devletçilik ilkesi esas itibariyle Kurtuluş Savaşı’ndan ve Türkiye Cumhuriyeti’nin
-    > kuruluşundan sonra ülkenin en kısa zamanda kalkınması sürecinde, özellikle ekonomik alanda bireylerin yapamayacağı bazı işleri devletin üzerine alması esasına dayanmaktadır Devletçilik ilkesi, Türk ekonomisini geliştirmek, sosyal ve kültürel kalkınmasını sağlamak amacıyla
-    > uygulamaya konulmuştur
+    > **Açıklama:** Devletçilik ilkesi esas itibariyle Kurtuluş Savaşı’ndan ve Türkiye Cumhuriyeti’nin<br />kuruluşundan sonra ülkenin en kısa zamanda kalkınması sürecinde, özellikle ekonomik alanda bireylerin yapamayacağı bazı işleri devletin üzerine alması esasına dayanmaktadır Devletçilik ilkesi, Türk ekonomisini geliştirmek, sosyal ve kültürel kalkınmasını sağlamak amacıyla<br />uygulamaya konulmuştur
 
     <hr />
 1. Mustafa Kemal'in hitabet ve edebiyat sevgisinin gelişmesinde etkin rol oynayan ve kendisine Namık Kemal'i, Tevfik Fikret'i tanıtıp sevdiren kim olmuştur?
@@ -1016,8 +939,7 @@
     - **Cevap D-) 1914**
     - E-) 1915
 
-    > **Açıklama:** Bulgaristan ile Eylül 1913’te barış antlaşması imzalanmasının ardından 27 Ekim 1913 tarihinde Kurmay Binbaşı Mustafa Kemal, Sofya’ya askeri ataşe olarak tayin edilmiştir. Kurmay Binbaşı Mustafa Kemal, 6 Kasım 1913’te de Dördüncü Rütbeden Osmanî nişanı ile taltif edilmiştir. 11 Ocak 1914 tarihinden itibaren Bükreş, Belgrat ve Çetine askerî ataşeliklerini yürütme görevi de kendisine verilmiştir. Sofya’da görevli iken rütbesinin 1 Mart 1914’te yarbaylığa yükselmesinin ardından Mustafa Kemal’e, 11 Mart 1914’te Fransız Hükûmeti’nce Şövalye rütbesinin Legion d’Homeur nişanı verilmiştir.
-    > Bulgaristan ile Eylül 1913’te barış antlaşması imzalanmasının ardından 27 Ekim 1913 tarihinde Kurmay Binbaşı Mustafa Kemal, Sofya’ya askeri ataşe olarak tayin edilmiştir. Kurmay Binbaşı Mustafa Kemal, 6 Kasım 1913’te de Dördüncü Rütbeden Osmanî nişanı ile taltif edilmiştir. 11 Ocak 1914 tarihinden itibaren Bükreş, Belgrat ve Çetine askerî ataşeliklerini yürütme görevi de kendisine verilmiştir. Sofya’da görevli iken rütbesinin 1 Mart 1914’te yarbaylığa yükselmesinin ardından Mustafa Kemal’e, 11 Mart 1914’te Fransız Hükûmeti’nce Şövalye rütbesinin Legion d’Honneur nişanı verilmiştir. Doğru cevap D'dir.
+    > **Açıklama:** Bulgaristan ile Eylül 1913’te barış antlaşması imzalanmasının ardından 27 Ekim 1913 tarihinde Kurmay Binbaşı Mustafa Kemal, Sofya’ya askeri ataşe olarak tayin edilmiştir. Kurmay Binbaşı Mustafa Kemal, 6 Kasım 1913’te de Dördüncü Rütbeden Osmanî nişanı ile taltif edilmiştir. 11 Ocak 1914 tarihinden itibaren Bükreş, Belgrat ve Çetine askerî ataşeliklerini yürütme görevi de kendisine verilmiştir. Sofya’da görevli iken rütbesinin 1 Mart 1914’te yarbaylığa yükselmesinin ardından Mustafa Kemal’e, 11 Mart 1914’te Fransız Hükûmeti’nce Şövalye rütbesinin Legion d’Homeur nişanı verilmiştir.<br />Bulgaristan ile Eylül 1913’te barış antlaşması imzalanmasının ardından 27 Ekim 1913 tarihinde Kurmay Binbaşı Mustafa Kemal, Sofya’ya askeri ataşe olarak tayin edilmiştir. Kurmay Binbaşı Mustafa Kemal, 6 Kasım 1913’te de Dördüncü Rütbeden Osmanî nişanı ile taltif edilmiştir. 11 Ocak 1914 tarihinden itibaren Bükreş, Belgrat ve Çetine askerî ataşeliklerini yürütme görevi de kendisine verilmiştir. Sofya’da görevli iken rütbesinin 1 Mart 1914’te yarbaylığa yükselmesinin ardından Mustafa Kemal’e, 11 Mart 1914’te Fransız Hükûmeti’nce Şövalye rütbesinin Legion d’Honneur nişanı verilmiştir. Doğru cevap D'dir.
 
     <hr />
 1. Mustafa Kemal Atatürk'ün tarih merakının oluşmasında hangi öğretmeni etkin rol oynamıştır?
@@ -1267,8 +1189,7 @@
     - D-) Kan kanseri
     - E-) Beyin tümörü
 
-    > **Açıklama:** Yerli ve yabancı doktorların ortak yaptıkları tetkikler sonucu Atatürk’ün hastalığına
-    > “siroz” teşhisi konulmuştur. Ölümüne neden olan hastalık da budur.
+    > **Açıklama:** Yerli ve yabancı doktorların ortak yaptıkları tetkikler sonucu Atatürk’ün hastalığına<br />“siroz” teşhisi konulmuştur. Ölümüne neden olan hastalık da budur.
 
     <hr />
 1. Atatürk'ün "Türk toplumunda birey, aile, zümre ve sınıf egemenliğinin olmayacağı, bütün millet bireylerinin kanunlar önünde eşitliği esasına dayanan" temel ilkesi aşağıdakilerden hangisidir?
@@ -1389,8 +1310,7 @@
     - D-) Tasarruf bonoları
     - E-) Varlık vergisi
 
-    > **Açıklama:** **Refik Saydam Hükûmeti (25 Ocak 1939-8 Temmuz 1942)**
-    > Saydam hükûmetine ekonomi politikası açısından bakıldığında, II. Dünya Savaşı’nın tedirginliğinin yarattığı sıkı bir ekonomik denetim döneminin yaşandığı görülmektedir. II. Dünya Savaşı’nın başlaması ile birlikte Türkiye’de de, diğer birçok ülke gibi, ortaya çıkabilecek darlık ve sıkıntıları engellemek amacıyla ekonomik tedbirler alma ihtiyacı duyulmuştur. Bir bakımdan *“Savaş Ekonomisi”* olarak değerlendirilebilecek bu süreç, Saydam hükûmeti dönemine rastlamaktadır. Dönemin ekonomik perspektifini çizen dayanak, 18 Ocak 1940 tarihli Millî Korunma Kanunu olmuştur.
+    > **Açıklama:** **Refik Saydam Hükûmeti (25 Ocak 1939-8 Temmuz 1942)** <br />Saydam hükûmetine ekonomi politikası açısından bakıldığında, II. Dünya Savaşı’nın tedirginliğinin yarattığı sıkı bir ekonomik denetim döneminin yaşandığı görülmektedir. II. Dünya Savaşı’nın başlaması ile birlikte Türkiye’de de, diğer birçok ülke gibi, ortaya çıkabilecek darlık ve sıkıntıları engellemek amacıyla ekonomik tedbirler alma ihtiyacı duyulmuştur. Bir bakımdan *“Savaş Ekonomisi”* olarak değerlendirilebilecek bu süreç, Saydam hükûmeti dönemine rastlamaktadır. Dönemin ekonomik perspektifini çizen dayanak, 18 Ocak 1940 tarihli Millî Korunma Kanunu olmuştur.
 
     <hr />
 1. Çiftçiyi Topraklandırma Kanunu, 11 Haziran 1945 tarihinde oylamaya katılan 345 milletveki- linin oylarıyla kabul edilmiştir. Kanunun oylamasına 104 milletvekili katılmamıştır. Aşağıdaki hangi isimler katılmayanlar arasındadır?<br />I. Adnan Menderes<br />II. Cavit Oral<br />III. Cemal Gürsel<br />IV. Refet Bele
@@ -1400,8 +1320,7 @@
     - D-) III ve IV
     - E-) I ve II
 
-    > **Açıklama:** **Saracoğlu Hükûmeti (9 Temmuz 1942-7 Ağustos 1946)**
-    > Çiftçiyi Topraklandırma Kanunu, 11 Haziran 1945 tarihinde oylamaya katılan 345 milletvekilinin oylarıyla kabul edilmiştir. Kanunun oylamasına 104 milletvekili katılmamıştır. Katılmayanlar arasında Celal Bayar, Adnan Menderes, Kazım Karabekir, Hikmet Bayur, Refet Bele, Fuat Köprülü, Cavit Oral, Refik Koraltan, Emin Sazak, Feridun Fikri Düşünsel, Muhiddin Paha Pars gibi isimler de vardı.
+    > **Açıklama:** **Saracoğlu Hükûmeti (9 Temmuz 1942-7 Ağustos 1946)** <br />Çiftçiyi Topraklandırma Kanunu, 11 Haziran 1945 tarihinde oylamaya katılan 345 milletvekilinin oylarıyla kabul edilmiştir. Kanunun oylamasına 104 milletvekili katılmamıştır. Katılmayanlar arasında Celal Bayar, Adnan Menderes, Kazım Karabekir, Hikmet Bayur, Refet Bele, Fuat Köprülü, Cavit Oral, Refik Koraltan, Emin Sazak, Feridun Fikri Düşünsel, Muhiddin Paha Pars gibi isimler de vardı.
 
     <hr />
 1. Çok partili siyasal hayata geçiş hangi tarihte olmuştur?
@@ -1411,8 +1330,7 @@
     - D-) 1943
     - E-) 1942
 
-    > **Açıklama:** **Saracoğlu Hükûmeti (9 Temmuz 1942-7 Ağustos 1946)**
-    > Çok Partili Siyasal Hayata geçiş sürecinde Türkiye’de kurulan ilk parti, arti nizamnamesine göre 24 Temmuz 1945 tarihinde Nuri Demirağ tarafından kurulan Milli Kalkınma Partisi olmuştur.
+    > **Açıklama:** **Saracoğlu Hükûmeti (9 Temmuz 1942-7 Ağustos 1946)**<br />Çok Partili Siyasal Hayata geçiş sürecinde Türkiye’de kurulan ilk parti, arti nizamnamesine göre 24 Temmuz 1945 tarihinde Nuri Demirağ tarafından kurulan Milli Kalkınma Partisi olmuştur.
 
     <hr />
 1. Aşağıdakilerden hangisi ya da hangileri Saraçoğlu Hükümeti döneminde kabul edilen Kanunlardır.<br />I. Varlık Vergisi kanunu<br />II. Gelir vergisi kanunu<br />III. Toprak kanunu<br />IV. Seçim kanunu
@@ -1452,8 +1370,7 @@
     - D-) Türk-Sovyet Saldırmazlık Anlaşması
     - E-) Türk-Alman Dostluk ve Saldırmazlık Antlaşması
 
-    > **Açıklama:** Üçlü İttifak Antlaşmasına göre İngiltere ve Fransa, herhangi bir Avrupa
-    > devletinin Türkiye’ye saldırması durumunda, her türlü aktif desteği sağlamayı, Türkiye ise, İngiltere ve Fransa’ya herhangi bir Avrupa Devleti’nin saldırması durumunda “hayırhah tarafsızlık” taahhüdünü kabul etmiştir.
+    > **Açıklama:** Üçlü İttifak Antlaşmasına göre İngiltere ve Fransa, herhangi bir Avrupa<br />devletinin Türkiye’ye saldırması durumunda, her türlü aktif desteği sağlamayı, Türkiye ise, İngiltere ve Fransa’ya herhangi bir Avrupa Devleti’nin saldırması durumunda “hayırhah tarafsızlık” taahhüdünü kabul etmiştir.
 
     <hr />
 1. Devletlerarası savunma birliğini esas alan NATO (North Atlantic Treaty Organization- Kuzey Atlantik İttifakı), kaç devletin katılımı ile hangi tarihte kurulmuştur?
@@ -1473,9 +1390,7 @@
     - D-) I, IV
     - E-) II, IV
 
-    > **Açıklama:** 1\. İngiltere, Almanya’ya ait savaş gemilerinin Montreux’ye aykırı olarak boğazlardan geçirildiğine dair Türkiye’ye nota vermiştir.
-    > 2\. Türk-Alman diplomatik ilişkiler durmuştur.
-    > 3\. Türk siyasi hayatında ilk defa bir bakan (Dış İçleri Bakanı Numan Menemencioğlu) sağlık sebebi gösterilmeksizin istifa etmiştir.
+    > **Açıklama:** 1\. İngiltere, Almanya’ya ait savaş gemilerinin Montreux’ye aykırı olarak boğazlardan geçirildiğine dair Türkiye’ye nota vermiştir.<br />2\. Türk-Alman diplomatik ilişkiler durmuştur.<br />3\. Türk siyasi hayatında ilk defa bir bakan (Dış İçleri Bakanı Numan Menemencioğlu) sağlık sebebi gösterilmeksizin istifa etmiştir.
 
     <hr />
 1. 26 Aralık 1938 tarihinde toplanan CHP Olağanüstü Kurultayı’nda Türkiye Cumhuriyeti’nin kurucusu Mustafa Kemal Atatürk için kabul edilen unvan aşağıdakilerden hangisidir?
@@ -1505,8 +1420,7 @@
     - D-) Çok Partili Yönetimler Raporu
     - **Cevap E-) Müdafaa Ekonomisi Hakkında Raporu**
 
-    > **Açıklama:** Millî Korunma Kanunu’nun ortaya çıkış serüveni, Avrupa’da savaşın patlak vermesinden önce, 4 Eylül 1939 tarihinde, İsmail Hüsrev Tökin ve Şevket Süreyya tarafından hazırlanan ve “**Müdafaa Ekonomisi Hakkında Rapor**” adı altında Ekonomi Bakanı Hüsnü Çakır’a sunulan rapora dayanmaktadır. Harp ekonomisinin yürütülmesi esaslarını belirten bu rapor, CHP Grubu’nda görüşülerek yeterli bulunmamıştır. Fakat 6 Ocak 1940 tarihinde Recep Peker başkanlığında toplanarak çıkarılacak olan Millî Korunma Kanunu’na
-    > zemin oluşturmuştur.
+    > **Açıklama:** Millî Korunma Kanunu’nun ortaya çıkış serüveni, Avrupa’da savaşın patlak vermesinden önce, 4 Eylül 1939 tarihinde, İsmail Hüsrev Tökin ve Şevket Süreyya tarafından hazırlanan ve “**Müdafaa Ekonomisi Hakkında Rapor**” adı altında Ekonomi Bakanı Hüsnü Çakır’a sunulan rapora dayanmaktadır. Harp ekonomisinin yürütülmesi esaslarını belirten bu rapor, CHP Grubu’nda görüşülerek yeterli bulunmamıştır. Fakat 6 Ocak 1940 tarihinde Recep Peker başkanlığında toplanarak çıkarılacak olan Millî Korunma Kanunu’na<br />zemin oluşturmuştur.
 
     <hr />
 1. Aşağıdaki seçeneklerden hangisi II. Dünya Savaşında Türkiye'de buğday stoklarının yeterli olmaması nedeniyle alınan tedbirlerden **değildir?**
@@ -1516,9 +1430,7 @@
     - D-) Buğday ununa arpa, çavdar gibi benzer tahılların katılması
     - E-) Buğday unu ile pasta vb. mamullerinin yapımının yasaklanması
 
-    > **Açıklama:** Saydam hükûmeti döneminde halkın temel ihtiyacı olan ekmek meselesi ile ilgili de yeni bir düzenlemeye gidildi. Yeterli buğday stokunun olmaması ve üretimin tüketimi karşılamaması nedeniyle öncelikle iki yol izlenmişti. Birisi ekmeğe buğday dışında hububat malzemesi ilave etmek, diğeri ekmek gramajını azaltarak tüketimi kısmak. Bu nedenle hükûmet bir yandan ekmeğin gramajını azaltırken bir yandan da buğdaya, çavdar, arpa gibi yeni tahıllar eklenmesini istemiştir. Hatta 22 Kasım 1941’de buğday unundan pasta, börek, tatlı ve emsallerinin yapılması yasaklanmıştır (Cumhuriyet, 23.11.1941). Ekmek darlığının giderilmesi için yukarıda izlenen iki yol da yeterli çözümü sağlamayınca üçüncü bir yol olarak, ekmeğin karne ile halka dağıtma fikri gündeme gelmişti. 16 Aralık 1941 tarihinde toplanan Parti Meclis Grubu, Millî
-    > Korunma Kanunu’nda değişiklik yaparak ekmeği karne usulüne bağlama kararı vermiştir. Önce, bedenen çalışanlara tespit edilen miktardan 150 gram daha fazla verileceği; daha sonra bedenen çalışanlara 750 gram, çalışmayanlara ise bunun yarısı kadar ekmek verileceği duyurulmuştur. 14 Ocak 1942’den itibaren ekmek, İstanbul’da karne ile verilmeye başlanmıştır.
-    > "C" şıkkında belirtilen "Yurtdışından buğday ithal edilmesi" maddesi yanlıştır. Çünkü yukarıdaki metinde yer almadığı gibi savaş yıllarında dışarıdan buğday ithal etmek mümkün değildir.
+    > **Açıklama:** Saydam hükûmeti döneminde halkın temel ihtiyacı olan ekmek meselesi ile ilgili de yeni bir düzenlemeye gidildi. Yeterli buğday stokunun olmaması ve üretimin tüketimi karşılamaması nedeniyle öncelikle iki yol izlenmişti. Birisi ekmeğe buğday dışında hububat malzemesi ilave etmek, diğeri ekmek gramajını azaltarak tüketimi kısmak. Bu nedenle hükûmet bir yandan ekmeğin gramajını azaltırken bir yandan da buğdaya, çavdar, arpa gibi yeni tahıllar eklenmesini istemiştir. Hatta 22 Kasım 1941’de buğday unundan pasta, börek, tatlı ve emsallerinin yapılması yasaklanmıştır (Cumhuriyet, 23.11.1941). Ekmek darlığının giderilmesi için yukarıda izlenen iki yol da yeterli çözümü sağlamayınca üçüncü bir yol olarak, ekmeğin karne ile halka dağıtma fikri gündeme gelmişti. 16 Aralık 1941 tarihinde toplanan Parti Meclis Grubu, Millî<br />Korunma Kanunu’nda değişiklik yaparak ekmeği karne usulüne bağlama kararı vermiştir. Önce, bedenen çalışanlara tespit edilen miktardan 150 gram daha fazla verileceği; daha sonra bedenen çalışanlara 750 gram, çalışmayanlara ise bunun yarısı kadar ekmek verileceği duyurulmuştur. 14 Ocak 1942’den itibaren ekmek, İstanbul’da karne ile verilmeye başlanmıştır.<br />"C" şıkkında belirtilen "Yurtdışından buğday ithal edilmesi" maddesi yanlıştır. Çünkü yukarıdaki metinde yer almadığı gibi savaş yıllarında dışarıdan buğday ithal etmek mümkün değildir.
 
     <hr />
 1. II. Dünya Savaşı yıllarında Varlık Vergisi olarak adlandırılan yasanın kapsamı aşağıdakilerden hangisidir?
@@ -1538,8 +1450,7 @@
     - D-) Milli Birlik Partisi
     - E-) Milli Güvenlik Partisi
 
-    > **Açıklama:** Çok partili hayata geçiş döneminde, bir kesim ilkeler korunarak çok partili hayata geçilmesinin gerekliliğini savunurken, diğer bir kesim de demokrasinin tam manasıyla kurulması gerekliliğini savunmuştur. Bu tartışmaların yapıldığı esnada, 7 Temmuz 1945 tarihinde, **Nuri Demirağ, Millî Kalkınma Partisi** adında bir parti kurmak için İstanbul Valiliğine başvurmuştur. Demirağ, yeni kurulacak partinin amme hizmetinde önce ahlak, sonra vazife görevi arayacağını, serbest ticareti savunacağını, mecburi askerliğin kaldırılması taraftarı olacağını, bir dereceli seçim sistemi savunucusu olacağını, yeraltı madenlerini işleteceğini, Amerika ve İngiltere gibi devletlerin harici ve dâhili sistemlerine benzeyen, fakat Türk geleneklerine uygun siyasi, idari ve ekonomik bir siyaset güdeceğini açıklamıştır.
-    > Çok Partili Siyasal Hayata geçiş sürecinde Türkiye’de kurulan ilk parti, parti nizamnamesine göre 24 Temmuz 1945 tarihinde Nuri Demirağ tarafından kurulan Milli Kalkınma Partisi olmuştur.
+    > **Açıklama:** Çok partili hayata geçiş döneminde, bir kesim ilkeler korunarak çok partili hayata geçilmesinin gerekliliğini savunurken, diğer bir kesim de demokrasinin tam manasıyla kurulması gerekliliğini savunmuştur. Bu tartışmaların yapıldığı esnada, 7 Temmuz 1945 tarihinde, **Nuri Demirağ, Millî Kalkınma Partisi** adında bir parti kurmak için İstanbul Valiliğine başvurmuştur. Demirağ, yeni kurulacak partinin amme hizmetinde önce ahlak, sonra vazife görevi arayacağını, serbest ticareti savunacağını, mecburi askerliğin kaldırılması taraftarı olacağını, bir dereceli seçim sistemi savunucusu olacağını, yeraltı madenlerini işleteceğini, Amerika ve İngiltere gibi devletlerin harici ve dâhili sistemlerine benzeyen, fakat Türk geleneklerine uygun siyasi, idari ve ekonomik bir siyaset güdeceğini açıklamıştır.<br />Çok Partili Siyasal Hayata geçiş sürecinde Türkiye’de kurulan ilk parti, parti nizamnamesine göre 24 Temmuz 1945 tarihinde Nuri Demirağ tarafından kurulan Milli Kalkınma Partisi olmuştur.
 
     <hr />
 1. Çok partili Dönemin başlangıcında Demokrat Parti yönetiminin hangi bildirgeyi imzalamıştır?
@@ -1549,8 +1460,7 @@
     - D-) Demokrasi Misakı
     - E-) Özgürlük İddianamesi
 
-    > **Açıklama:** 18 Aralık 1946 tarihindeki meclis görüşmelerinde, muhalefet ile iktidar arasında ciddi bir gerilim yaşanmıştır. Adnan Menderes, özellikle memleketin ekonomik durumunu eleştirmiştir. Menderes’ten sonra söz alan Başbakan Recep Peker’in oldukça ağır sözlerine üzerine Demokrat Partili milletvekilleri meclisi terk etmişlerdir.
-    > Dokuz gün boyunca meclise gelmeyen DP milletvekilleri İsmet İnönü’nün araya girmesiyle 27 Aralık 1946 tarihinde meclise gelmişlerdir. 7-11 Ocak 1947 tarihleri arasında Demokrat Parti Birinci Kongresi yapılmıştır. Kongre açılış konuşmasını yapan Celal Bayar, demokrasiye geçilmesi, anayasaya aykırı olan bazı kanunların kaldırılması, idare mekanizmasının partilerin dışında çalışması, seçim kanunda değişiklik yapılması ve devlet başkanlığı ile parti başkanlığının ayrılması hususlarını dile getirmiştir (Bütün Tafsilat.., 1947). Kongrede, dile getirilen bu istekler yerine getirilmezse muhalafetin “sine-i millete” döneceğine dair “Hürriyet Misakı” adı verilen bir bildiri imzalanmıştır.
+    > **Açıklama:** 18 Aralık 1946 tarihindeki meclis görüşmelerinde, muhalefet ile iktidar arasında ciddi bir gerilim yaşanmıştır. Adnan Menderes, özellikle memleketin ekonomik durumunu eleştirmiştir. Menderes’ten sonra söz alan Başbakan Recep Peker’in oldukça ağır sözlerine üzerine Demokrat Partili milletvekilleri meclisi terk etmişlerdir.<br />Dokuz gün boyunca meclise gelmeyen DP milletvekilleri İsmet İnönü’nün araya girmesiyle 27 Aralık 1946 tarihinde meclise gelmişlerdir. 7-11 Ocak 1947 tarihleri arasında Demokrat Parti Birinci Kongresi yapılmıştır. Kongre açılış konuşmasını yapan Celal Bayar, demokrasiye geçilmesi, anayasaya aykırı olan bazı kanunların kaldırılması, idare mekanizmasının partilerin dışında çalışması, seçim kanunda değişiklik yapılması ve devlet başkanlığı ile parti başkanlığının ayrılması hususlarını dile getirmiştir (Bütün Tafsilat.., 1947). Kongrede, dile getirilen bu istekler yerine getirilmezse muhalafetin “sine-i millete” döneceğine dair “Hürriyet Misakı” adı verilen bir bildiri imzalanmıştır.
 
     <hr />
 1. 1939 yılında II. Dünya Savaşının başlangıç sürecinde Türkiye ilk olarak "Üçlü İttifak Antlaşması" 'nı hangi ülkeler ile yapmıştır?
@@ -1590,8 +1500,7 @@
     - D-) Hasan Saka Hükümeti
     - E-) Şemsettin Günaltay Hükümeti
 
-    > **Açıklama:** Celal Bayar’ın istifası üzerine hâlihazırda İçişleri Bakanı ve Cumhuriyet Halk Partisi Genel Sekreteri olan Refik Saydam, yeni hükûmeti kurmakla görevlendirilmiştir.
-    > Refik Saydam Hükümeti
+    > **Açıklama:** Celal Bayar’ın istifası üzerine hâlihazırda İçişleri Bakanı ve Cumhuriyet Halk Partisi Genel Sekreteri olan Refik Saydam, yeni hükûmeti kurmakla görevlendirilmiştir.<br />Refik Saydam Hükümeti
 
     <hr />
 1. Aşağıdaki hükümetlerden hangisinde alınan ilk karar, devlet-parti düzenlemesinde değişikliğe gitmektir?
@@ -1601,8 +1510,7 @@
     - D-) Hasan Saka Hükümeti
     - E-) Recep Peker Hükümeti
 
-    > **Açıklama:** Saydam hükûmetinin ilk kararı, 15 Haziran 1936 tarihli devlet-parti düzenlemesinde değişikliğe gitme kararıdır.
-    > Refik Saydam Hükümeti
+    > **Açıklama:** Saydam hükûmetinin ilk kararı, 15 Haziran 1936 tarihli devlet-parti düzenlemesinde değişikliğe gitme kararıdır.<br />Refik Saydam Hükümeti
 
     <hr />
 1. Milli koruma kanunu ile aşağıdakilerden hangisi gerçekleşmemiştir?
@@ -1712,8 +1620,7 @@
     - D-) Grup hükümetten ayrı ve bağımsız üyelerden oluşur.
     - **Cevap E-) Grup 3 kişilik idari kurulunun olduğu 30 kişiden oluşur.**
 
-    > **Açıklama:** Müstakil Grup 3 kişilik bir idare kurulunun olduğu 30 kişiden olu- şacaktır. Müstakil Grup’un üyeleri bu grupta kaldıkça kabineye giremeyeceklerdir. Meclisteki parti grup toplantısında hazır bulunacaklar, fakat alınacak ya da alınan herhangi bir karar hakkında görüş bildiremeyecekler, oylamaya katılmayacaklardır. Müstakil Grup, parti icraatlarını ve kararlarını eleştirerek, hükûmetten ayrı ve bağımsız üyelerden oluşan bir topluluk olarak düşünülmüştür. Tüzük gereğince Müstakil Grup Başkanı, doğrudan doğruya CHP Genel Başkanı’na, yani İsmet İnönü’ye bağlıdır. Türkiye’de çok partili hayata geçiş dönemine kadar varlığını sürdürmüştür. 4 Mayıs 1946 tarihinde son toplantısını yapmıştır.
-    > Grup 3 kişilik idari kurulunun olduğu 30 kişiden oluşur
+    > **Açıklama:** Müstakil Grup 3 kişilik bir idare kurulunun olduğu 30 kişiden olu- şacaktır. Müstakil Grup’un üyeleri bu grupta kaldıkça kabineye giremeyeceklerdir. Meclisteki parti grup toplantısında hazır bulunacaklar, fakat alınacak ya da alınan herhangi bir karar hakkında görüş bildiremeyecekler, oylamaya katılmayacaklardır. Müstakil Grup, parti icraatlarını ve kararlarını eleştirerek, hükûmetten ayrı ve bağımsız üyelerden oluşan bir topluluk olarak düşünülmüştür. Tüzük gereğince Müstakil Grup Başkanı, doğrudan doğruya CHP Genel Başkanı’na, yani İsmet İnönü’ye bağlıdır. Türkiye’de çok partili hayata geçiş dönemine kadar varlığını sürdürmüştür. 4 Mayıs 1946 tarihinde son toplantısını yapmıştır.<br />Grup 3 kişilik idari kurulunun olduğu 30 kişiden oluşur
 
     <hr />
 1. Aşağıdakilerden hangisi II. Dünya Savaşı döneminde ülkeyi ekonomik olarak savaşın etkilerinden korumak amaçlı bir girişim olan Millî Korunma Kanunu'na ilişkin **doğru** bir ifadedir?
@@ -1723,8 +1630,7 @@
     - **Cevap D-) Bu kanunla hükûmete savaş ihtimali nedeniyle olağanüstü yetki tanınmıştır.**
     - E-) Hükûmet, bu kanunla yalnızca ekonomik hayatın belirleyicisi konumuna gelmiştir.
 
-    > **Açıklama:** Millî Korunma Kanunu’nun gerekçesinde, savaş hâlinin yarattığı psikolojik ve ekonomik ortamın, savaş içinde ve savaşın dışında olan bütün ülkeleri etkilediği, çoğu ülkenin olağanüstü tedbirler almak gereği hissettiği belirtilmiş, bu nedenle acil ekonomik tedbirler alınması gerektiği vurgulanmıştır (TBMMZC, 1940). 3780 sayılı bu kanunun birinci maddesinde devletin bünyesini ekonomik ve millî savunma bakımından takviye etmek üzere hükûmete genel seferberlik, kısmî seferberlik, devletin bir savaşa girme ihtimali durumunda olağanüstü yetki tanınmıştır.
-    > Bu kanunla hükûmete savaş ihtimali nedeniyle olağanüstü yetki tanınmıştır.
+    > **Açıklama:** Millî Korunma Kanunu’nun gerekçesinde, savaş hâlinin yarattığı psikolojik ve ekonomik ortamın, savaş içinde ve savaşın dışında olan bütün ülkeleri etkilediği, çoğu ülkenin olağanüstü tedbirler almak gereği hissettiği belirtilmiş, bu nedenle acil ekonomik tedbirler alınması gerektiği vurgulanmıştır (TBMMZC, 1940). 3780 sayılı bu kanunun birinci maddesinde devletin bünyesini ekonomik ve millî savunma bakımından takviye etmek üzere hükûmete genel seferberlik, kısmî seferberlik, devletin bir savaşa girme ihtimali durumunda olağanüstü yetki tanınmıştır.<br />Bu kanunla hükûmete savaş ihtimali nedeniyle olağanüstü yetki tanınmıştır.
 
     <hr />
 1. Aşağıdaki hangi hükümet döneminde hem piyasadaki parayı geri çekmek hem de savaş yıllarında fazla kazanç elde eden zenginlerden bir defaya mahsus olmak üzere almak gerekçesiyle Varlık Vergisi Kanunu'nu kabul edilmiştir?
@@ -1754,16 +1660,7 @@
     - D-) Siyasi partilerin kurulmasının önü açılmıştır.
     - E-) Üniversiteler Kanunu çıkarılmıştır.
 
-    > **Açıklama:** Seçimlerin yapılacağı tarihe kadar çok önemli yasal
-    > düzenlemeler yapılmıştır:
-    > • 13 Haziran 1946’da Matbuat Kanunu’nun
-    > 50\. maddesi değiştirilerek gazete kapatmalarda mahkemeler yetkili kılınmıştır (Tasvir, 14.6.1946).
-    > • 4918 sayılı yasa ile tek dereceli seçim sistemi kabul edilmiştir.
-    > • 4919 sayılı yasa ile dernekler kanununda
-    > değişiklikler yapılarak siyasi partilerin kurulmasının önü açılmıştır.
-    > • 13 Haziran 1946 tarihinde 4936 sayılı Üniversiteler Kanunu çıkarılmıştır.
-    > • 14 Haziran 1946’da ise, 7 Haziran 1946 tarihine kadar işlenmiş basın suçları affedilmiştir.
-    > Milli Korunma Kanunu çıkarılmıştır.
+    > **Açıklama:** Seçimlerin yapılacağı tarihe kadar çok önemli yasal<br />düzenlemeler yapılmıştır:<br />• 13 Haziran 1946’da Matbuat Kanunu’nun<br />50\. maddesi değiştirilerek gazete kapatmalarda mahkemeler yetkili kılınmıştır (Tasvir, 14.6.1946).<br />• 4918 sayılı yasa ile tek dereceli seçim sistemi kabul edilmiştir.<br />• 4919 sayılı yasa ile dernekler kanununda<br />değişiklikler yapılarak siyasi partilerin kurulmasının önü açılmıştır.<br />• 13 Haziran 1946 tarihinde 4936 sayılı Üniversiteler Kanunu çıkarılmıştır.<br />• 14 Haziran 1946’da ise, 7 Haziran 1946 tarihine kadar işlenmiş basın suçları affedilmiştir.<br />Milli Korunma Kanunu çıkarılmıştır.
 
     <hr />
 1. Atatürk'ün ölümü ile yeni Cumhurbaşkanı olarak işaret edilen İsmet İnönü, yeni hükümeti kurma görevini kime vermiştir?
@@ -1773,9 +1670,7 @@
     - D-) Ahmet Fikri Tuzer
     - E-) Şükrü Saraçoğlu
 
-    > **Açıklama:** İnönü, yeni hükûmeti kurma
-    > görevini Celal Bayar’a vermiştir. Bayar, hükûmet
-    > üyelerini 14 Kasım 1938 tarihinde açıklamıştır.
+    > **Açıklama:** İnönü, yeni hükûmeti kurma<br />görevini Celal Bayar’a vermiştir. Bayar, hükûmet<br />üyelerini 14 Kasım 1938 tarihinde açıklamıştır.
 
     <hr />
 1. Ekmeği karne usulüne bağlama kararı hangi yılda verilmiştir?
@@ -1895,8 +1790,7 @@
     - D-) 20 temmuz 1946
     - **Cevap E-) 21 Temmuz 1946**
 
-    > **Açıklama:** 85
-    > 21 temmuz 1946
+    > **Açıklama:** 85<br />21 temmuz 1946
 
     <hr />
 1. Varlık vergisi uygulamasına kaç tarihinde başlanmıştır?
@@ -1986,8 +1880,7 @@
     - **Cevap D-) İyi komşuluk ve dostluk esaslarının tekrarlandığı Türkiye-Bulgaristan ortak beyannamesi yayımlanmıştır.**
     - E-) Rusya boğazlarda ortak savunmayı sağlamak için Sovyetlere üs verilmesini istemiştir.
 
-    > **Açıklama:** 1939-1945 Yılları Arası Türk Dış Politikası olarak iyi komşuluk ve dostluk esaslarının tekrarlandığı Türkiye-Bulgaristan ortak beyannamesi yayımlanmıştır.
-    > İyi komşuluk ve dostluk esaslarının tekrarlandığı Türkiye-Bulgaristan ortak beyannamesi yayımlanmıştır.
+    > **Açıklama:** 1939-1945 Yılları Arası Türk Dış Politikası olarak iyi komşuluk ve dostluk esaslarının tekrarlandığı Türkiye-Bulgaristan ortak beyannamesi yayımlanmıştır.<br />İyi komşuluk ve dostluk esaslarının tekrarlandığı Türkiye-Bulgaristan ortak beyannamesi yayımlanmıştır.
 
     <hr />
 1. Aşağıdakilerden hangisi 1945-1950 Yılları Arası Türk Dış Politikasına ilişkin **doğru** bir ifadedir?
@@ -1997,8 +1890,7 @@
     - D-) II. Dünya Savaşı'nın başlamasıyla gelişen bu olaylar Türkiye’yi endişeye düşürmüştür.
     - E-) Fransa, Sovyetlerin Bakü petrollerini, Türkiye hava sahasını kullanarak bombardıman etmek için talepte bulunmuştur.
 
-    > **Açıklama:** San Francisco Konferansı'na aralarında Türkiye’nin de bulunduğu 51 ülke katılmıştır. Çalışmalar bir ay sürmüş ve 26 Haziran 1945 tarihinde konferansa katılan ülkelerin Birleşmiş Milletler Antlaşması’nı imzalamasıyla son bulmuştur. Konferans sonunda imzalanan Birleşmiş Milletler Bildirisi’nde demokratik eğilimler, barış, özgürlük, insan hakları gibi temalar işlenmiştir.
-    > Türkiye'nin de katıldığı konferansta imzalanan Birleşmiş Milletler Bildirisi’nde demokratik eğilimler, özgürlük gibi temalar işlenmiştir.
+    > **Açıklama:** San Francisco Konferansı'na aralarında Türkiye’nin de bulunduğu 51 ülke katılmıştır. Çalışmalar bir ay sürmüş ve 26 Haziran 1945 tarihinde konferansa katılan ülkelerin Birleşmiş Milletler Antlaşması’nı imzalamasıyla son bulmuştur. Konferans sonunda imzalanan Birleşmiş Milletler Bildirisi’nde demokratik eğilimler, barış, özgürlük, insan hakları gibi temalar işlenmiştir.<br />Türkiye'nin de katıldığı konferansta imzalanan Birleşmiş Milletler Bildirisi’nde demokratik eğilimler, özgürlük gibi temalar işlenmiştir.
 
     <hr />
 ## Unite 4
@@ -2129,8 +2021,7 @@
     - D-) 14 Mart 1951
     - **Cevap E-) 24 Mart 1950**
 
-    > **Açıklama:** Seçimin yenilenmesine dair önerge, muhalefetin tepkilerine rağmen, 24 Mart 1950’de TBMM’de
-    > kabul edilmiştir.
+    > **Açıklama:** Seçimin yenilenmesine dair önerge, muhalefetin tepkilerine rağmen, 24 Mart 1950’de TBMM’de<br />kabul edilmiştir.
 
     <hr />
 1. Türk Siyasi Tarihinde Demokrat Parti’nin 1950- 1960 yılları arasında iktidarda kaldığı dönem, ne dönemi olarak da adlandırılmaktadır?
@@ -2140,9 +2031,7 @@
     - D-) Özal dönemi
     - E-) Bayar dönemi
 
-    > **Açıklama:** Türk Siyasi Tarihinde Demokrat Parti’nin 1950-
-    > 1960 yılları arasında iktidarda kaldığı dönem,
-    > “Menderes Dönemi” olarak da adlandırılmaktadır.
+    > **Açıklama:** Türk Siyasi Tarihinde Demokrat Parti’nin 1950-<br />1960 yılları arasında iktidarda kaldığı dönem,<br />“Menderes Dönemi” olarak da adlandırılmaktadır.
 
     <hr />
 1. Cumhurbaşkanı Bayar, 1 Aralık 1955’te kimi tekrar yeni hükümeti kurmakla görevlendirdi?
@@ -2172,8 +2061,7 @@
     - **Cevap D-) Amerika Birleşik Devletleri (ABD) ve Sovyet Sosyalist Cumhuriyetler Birliği (SSCB)**
     - E-) Fransa- Amerika
 
-    > **Açıklama:** Amerika Birleşik Devletleri (ABD) ve Sovyet Sosyalist Cumhuriyetler Birliği (SSCB). Bu iki
-    > güç, dünya siyasetine hâkim oldu ve bu dönem “Soğuk Savaş” dönemi olarak adlandırıldı.
+    > **Açıklama:** Amerika Birleşik Devletleri (ABD) ve Sovyet Sosyalist Cumhuriyetler Birliği (SSCB). Bu iki<br />güç, dünya siyasetine hâkim oldu ve bu dönem “Soğuk Savaş” dönemi olarak adlandırıldı.
 
     <hr />
 1. Aşağıdakilerden hangisi ABD, Brüksel Antlaşması’na katılanlardan değildir?
@@ -2183,10 +2071,7 @@
     - D-) Fransa
     - E-) İngiltere
 
-    > **Açıklama:** ABD, Brüksel Antlaşması’na katılanlar (İngiltere,
-    > Fransa, Belçika, Lüksemburg, Hollanda)
-    > ve Kanada, İtalya, Danimarka, Norveç,
-    > Portekiz ve İzlanda
+    > **Açıklama:** ABD, Brüksel Antlaşması’na katılanlar (İngiltere,<br />Fransa, Belçika, Lüksemburg, Hollanda)<br />ve Kanada, İtalya, Danimarka, Norveç,<br />Portekiz ve İzlanda
 
     <hr />
 1. “Kuzey Atlantik Antlaşması”nı (North Atlantic Treaty), ne zaman imzalanmıştır?
@@ -2216,8 +2101,7 @@
     - D-) X Toplantısında
     - E-) XI Toplantısında
 
-    > **Açıklama:** Demokrat Parti’nin Altın Yılları: Demirkırat Şahlanıyor! (1950-1954)
-    > IX. Toplantısında
+    > **Açıklama:** Demokrat Parti’nin Altın Yılları: Demirkırat Şahlanıyor! (1950-1954)<br />IX. Toplantısında
 
     <hr />
 1. 2 mayıs 1954 genel seçimlerinde, demokrat partiye oy vermedikleri için, halkının CMP’ye oy vermesinden dolayı, 30 Haziran 1954’de çıkarılan kanunla ilçe konumuna getirilen il aşağıdakilerden hangisidir?
@@ -2227,8 +2111,7 @@
     - **Cevap D-) Kırşehir**
     - E-) Adıyaman
 
-    > **Açıklama:** 1954-1957 Döneminde Türkiye’de Demokrat Parti: Başarıyla Gelen Özgüven
-    > Kırşehir
+    > **Açıklama:** 1954-1957 Döneminde Türkiye’de Demokrat Parti: Başarıyla Gelen Özgüven<br />Kırşehir
 
     <hr />
 1. 27 Mayıs’ın en belirgin habercisi olarak kabul edilen Dokuz Subay Olayı için geniş bir soruşturmanın yapılmasını ve tüm komplocu subayların tespit edilmesini isteyen kimdir?
@@ -2238,8 +2121,7 @@
     - **Cevap D-) Celal Bayar**
     - E-) İsmet İnönü
 
-    > **Açıklama:** Sert Rüzgârların Esmeye Başladığı Dönem (1957-1960)
-    > Celal Bayar
+    > **Açıklama:** Sert Rüzgârların Esmeye Başladığı Dönem (1957-1960)<br />Celal Bayar
 
     <hr />
 1. Aşağıdaki seçeneklerden hangisi**,** 555K yı ifade etmektedir?
@@ -2249,8 +2131,7 @@
     - D-) 12 Nisan 1960’daki grup toplantısında Tahkikat Komisyonu’nun kurulması konusunda alınan karardır
     - E-) DP’nin, 5 Mayıs 1960 tarihinde düzenlediği mitingin adıdır
 
-    > **Açıklama:** 27 Mayıs 1960 Darbesine Giden Süreç
-    > 5 Mayıs 1960 tarihinde, Ankara, Kızılay'da Demokrat Parti aleyhtarı öğrencilerin yaptığı protesto eyleminin şifresidir. Yani, 5'inci ayın 5'i, saat 5'te (17:00) Kızılay'da (555K)
+    > **Açıklama:** 27 Mayıs 1960 Darbesine Giden Süreç<br />5 Mayıs 1960 tarihinde, Ankara, Kızılay'da Demokrat Parti aleyhtarı öğrencilerin yaptığı protesto eyleminin şifresidir. Yani, 5'inci ayın 5'i, saat 5'te (17:00) Kızılay'da (555K)
 
     <hr />
 1. Farklı tarihlerde NATO’ya üyelik başvuruları kabul edilmeyen Türkiye, NATO ya kaç tarihinde girmiştir?
@@ -2260,8 +2141,7 @@
     - **Cevap D-) 18 Şubat 1952**
     - E-) 1 Mart 1952
 
-    > **Açıklama:** Türkiye’nin Kore’ye Asker Gönderme Kararı (1950) ve NATO Üyeliği (1952)
-    > 18 Şubat 1952
+    > **Açıklama:** Türkiye’nin Kore’ye Asker Gönderme Kararı (1950) ve NATO Üyeliği (1952)<br />18 Şubat 1952
 
     <hr />
 1. Bağımsız Kıbrıs Cumhuriyeti’nin kurulması ilgili antlaşma kaç tarihinde imzalanmıştır?
@@ -2271,8 +2151,7 @@
     - D-) 26 Şubat 1959
     - E-) 27 Şubat 1959
 
-    > **Açıklama:** Demokrat Parti Dönemi Türkiye’nin Kıbrıs Politikası (1950-1960))
-    > 19 Şubat 1959 Londra Antlaşması
+    > **Açıklama:** Demokrat Parti Dönemi Türkiye’nin Kıbrıs Politikası (1950-1960))<br />19 Şubat 1959 Londra Antlaşması
 
     <hr />
 1. Sovyetler Birliği'nin ortadoğu'da nüfuz kurmasını önlemeye yönelik olarak kurulan ve 21 Ağustos 1959 adı, Merkezi Antlaşma Örgütü olarak değiştirilen Bağdat Paktının, tek üye arap ülkesi hangisidir?
@@ -2282,8 +2161,7 @@
     - D-) Mısır
     - E-) Filistin
 
-    > **Açıklama:** Demokrat Parti Döneminde Türkiye’nin, Türkiye-ABD İlişkileri Ekseninde Ortadoğu Politikaları (1950-1960)
-    > Irak
+    > **Açıklama:** Demokrat Parti Döneminde Türkiye’nin, Türkiye-ABD İlişkileri Ekseninde Ortadoğu Politikaları (1950-1960)<br />Irak
 
     <hr />
 1. DP’nin kurulduğu 7 Ocak 1946’da ilan edilen parti tüzüğü ve programında yer alan ve iktisadi kalkınmanın temelini oluşturacak olan sektör hangi seçenektir?
@@ -2293,8 +2171,7 @@
     - **Cevap D-) Tarım Sektörü**
     - E-) Ormancılık Sektörü
 
-    > **Açıklama:** Demokrat Parti̇ Dönemi̇ Ekonomi̇ Poli̇ti̇kalari (1950-1960)
-    > Tarım Sektörü
+    > **Açıklama:** Demokrat Parti̇ Dönemi̇ Ekonomi̇ Poli̇ti̇kalari (1950-1960)<br />Tarım Sektörü
 
     <hr />
 1. Aşağıdaki hangi seçenek, DP’nin iktisadi alanda gerçekleştirdiği başarılar nedeniyle “altın yıllar” olarak adlandırılan dönemidir?
@@ -2304,8 +2181,7 @@
     - **Cevap D-) 1950- 1954 dönemi**
     - E-) 1950- 1960 dönemi
 
-    > **Açıklama:** Ekonomide Altın Yıllar (1950-1954)
-    > 1950- 1954 dönemi
+    > **Açıklama:** Ekonomide Altın Yıllar (1950-1954)<br />1950- 1954 dönemi
 
     <hr />
 1. 1954 dönemi özellikle iktisadi açıdan sıkıntılarla başlayan, aldığı sert tedbirlerle istifçiliği ve karaborsacılığı önlemede ve piyasada istikrarı sağlama konusunda başarılı olamayan DP Hükümeti, Millî Koruma Kanununu” hangi tarihte uygulamaya başlamıştır?
@@ -2315,8 +2191,7 @@
     - D-) 27 Ekim 1957
     - E-) 4 Ağustos 1958
 
-    > **Açıklama:** Ekonomide Sancıların Başladığı Yıllar (1954-1957)
-    > 25 Haziran 1956
+    > **Açıklama:** Ekonomide Sancıların Başladığı Yıllar (1954-1957)<br />25 Haziran 1956
 
     <hr />
 1. DP, 1946 seçimlerinden itibaren sürekli olarak adil seçimlerin yapılması, sandık güvenliğinin sağlanması konusunu her fırsatta dile getirerek kamuoyu oluşturmayı başardı.<br />Aşağıdakilerden hangisi Demokrat Parti'nin seçim kanununda bazı yeniliklerin kabul edilmesi tarihidir?
@@ -2326,8 +2201,7 @@
     - D-) 16 Nisan 1950.
     - E-) 20 Mart 1951.
 
-    > **Açıklama:** Lütfen "DEMOKRAT PARTİ DÖNEMİNDE İÇ POLİTİKADA YAŞANANLAR (1950-1960)" başlıklı yazıyı gözden geçiriniz.
-    > DP, 1946 seçimlerinden itibaren sürekli olarak adil seçimlerin yapılması, sandık güvenliğinin sağlanması konusunu her fırsatta dile getirerek kamuoyu oluşturmayı başardı. DP’nin bu yöndeki çalışmaları 16 Şubat 1950’de Seçim Kanunda bazı yeni maddelerin kabul edilmesi ile sonuçlandı.
+    > **Açıklama:** Lütfen "DEMOKRAT PARTİ DÖNEMİNDE İÇ POLİTİKADA YAŞANANLAR (1950-1960)" başlıklı yazıyı gözden geçiriniz.<br />DP, 1946 seçimlerinden itibaren sürekli olarak adil seçimlerin yapılması, sandık güvenliğinin sağlanması konusunu her fırsatta dile getirerek kamuoyu oluşturmayı başardı. DP’nin bu yöndeki çalışmaları 16 Şubat 1950’de Seçim Kanunda bazı yeni maddelerin kabul edilmesi ile sonuçlandı.
 
     <hr />
 1. 02 Haziran 1950 tarihinde güvenoyu olan 1. Menderes Hükümeti aşağıdaki tarih aralıkların hangisinde kurulup görev başında kalmıştır?
@@ -2337,8 +2211,7 @@
     - D-) 17\.05.1950-14.03.1951
     - E-) 26\.05.1950-19.04.1951
 
-    > **Açıklama:** Lütfen "Demokrat Parti’nin Altın Yılları: Demirkırat Şahlanıyor! (1950-1954)" başlıklı yazıyı gözden geçiriniz.
-    > 1950 seçimlerinden sonra, 22 Mayıs 1950’de açılan TBMM’nin IX. Toplantısına, en yaşlı üye sıfatıyla Hüseyin Cahit Yalçın başkanlık etti. Aynı gün Celal Bayar, Cumhurbaşkanı, Refik Koraltan da Meclis Başkanı seçildi. Cumhurbaşkanı Bayar, Adnan Menderes’i hükümeti kurmakla görevlendirdi. Böylece 10 yıl sürecek olan “Demokrat Parti Dönemi” bir başka deyişle “Menderesli Yıllar” başlamış oldu. Hükümet programı 29 Mayıs 1950’de TBMM’de Adnan Menderes tarafından okundu ve 2 Haziran 1950’de güvenoyu alarak I. Menderes Hükümeti (22.05.1950-09.03.1951) kuruldu.
+    > **Açıklama:** Lütfen "Demokrat Parti’nin Altın Yılları: Demirkırat Şahlanıyor! (1950-1954)" başlıklı yazıyı gözden geçiriniz.<br />1950 seçimlerinden sonra, 22 Mayıs 1950’de açılan TBMM’nin IX. Toplantısına, en yaşlı üye sıfatıyla Hüseyin Cahit Yalçın başkanlık etti. Aynı gün Celal Bayar, Cumhurbaşkanı, Refik Koraltan da Meclis Başkanı seçildi. Cumhurbaşkanı Bayar, Adnan Menderes’i hükümeti kurmakla görevlendirdi. Böylece 10 yıl sürecek olan “Demokrat Parti Dönemi” bir başka deyişle “Menderesli Yıllar” başlamış oldu. Hükümet programı 29 Mayıs 1950’de TBMM’de Adnan Menderes tarafından okundu ve 2 Haziran 1950’de güvenoyu alarak I. Menderes Hükümeti (22.05.1950-09.03.1951) kuruldu.
 
     <hr />
 1. II. Menderes Hükümeti göreve başladıktan hemen sonra 4 Mayıs 1951’de “Atatürk Aleyhine İşlenen Suçlar Hakkında Kanun” tasarısı hazırlanarak TBMM’ye sunuldu. Başbakan Menderes’in çabaları ile tasarı, 25 Temmuz 1951 tarihinde milletvekillerinin 232 kabul oyuyla yasalaştı.<br />Aşağıdakilerden hangisi bu kanunun kabul edilmesindeki en önemli neden olarak kabul edilmektedir?
@@ -2348,8 +2221,7 @@
     - D-) Kimi okullardan Atatürk fotoğraflarının kaldırılması.
     - E-) Kitle iletişim araçlarından Atatürk karşıtlığı yayınların çoğalması.
 
-    > **Açıklama:** Lütfen "Demokrat Parti’nin Altın Yılları: Demirkırat Şahlanıyor! (1950-1954)" başlıklı yazıyı gözden geçiriniz.
-    > Bu kanunun kabul edilmesindeki en önemli neden, 27 Şubat 1951 günü Kırşehir’deki Atatürk büstünün, Ticaniler adı verilen bir grup tarafından parçalanmasıydı.
+    > **Açıklama:** Lütfen "Demokrat Parti’nin Altın Yılları: Demirkırat Şahlanıyor! (1950-1954)" başlıklı yazıyı gözden geçiriniz.<br />Bu kanunun kabul edilmesindeki en önemli neden, 27 Şubat 1951 günü Kırşehir’deki Atatürk büstünün, Ticaniler adı verilen bir grup tarafından parçalanmasıydı.
 
     <hr />
 1. Köy Enstitüleri ile İlköğretmen Okullarının birleştirilmesi kararı aşağıdaki tarihlerden hangisinde gerçekleştirilmiştir?
@@ -2359,8 +2231,7 @@
     - D-) 16 Mart 1951
     - **Cevap E-) 27 Ocak 1954**
 
-    > **Açıklama:** Lütfen "Demokrat Parti’nin Altın Yılları: Demirkırat Şahlanıyor! (1950-1954)" başlıklı yazıyı gözden geçiriniz.
-    > Bu dönemde tartışmaya neden olan olaylardan bir diğeri de Köy Enstitülerinin ilköğretmen okulları ile birleştirilmesi kararıydı. 27 Ocak 1954’te 6234 sayılı kanunla Köy Enstitüleri, ilköğretmen okulları ile birleştirildi.
+    > **Açıklama:** Lütfen "Demokrat Parti’nin Altın Yılları: Demirkırat Şahlanıyor! (1950-1954)" başlıklı yazıyı gözden geçiriniz.<br />Bu dönemde tartışmaya neden olan olaylardan bir diğeri de Köy Enstitülerinin ilköğretmen okulları ile birleştirilmesi kararıydı. 27 Ocak 1954’te 6234 sayılı kanunla Köy Enstitüleri, ilköğretmen okulları ile birleştirildi.
 
     <hr />
 1. Aşağıdakilerden hangisi 27 Mayıs darbesinin en belirgin habercisi olarak kabul edilmektedir?
@@ -2370,8 +2241,7 @@
     - **Cevap D-) Dokuz Subay Olayı**
     - E-) Vatan Cephesi'nin örgütlenme çalışmaları.
 
-    > **Açıklama:** Lütfen "Sert Rüzgârların Esmeye Başladığı Dönem (1957-1960)" başlıklı yazıyı gözden geçiriniz.
-    > Dokuz Subay Olayı, 27 Mayıs’ın en belirgin habercisi olarak kabul edilmektedir. Başbakan Menderes, bu olay karşısında gerekli tepkiyi göstermedi. Bundan cesaret alan ordu içinde bir grup asker, 27 Mayıs Darbesine giden süreci sessizce hazırladı.
+    > **Açıklama:** Lütfen "Sert Rüzgârların Esmeye Başladığı Dönem (1957-1960)" başlıklı yazıyı gözden geçiriniz.<br />Dokuz Subay Olayı, 27 Mayıs’ın en belirgin habercisi olarak kabul edilmektedir. Başbakan Menderes, bu olay karşısında gerekli tepkiyi göstermedi. Bundan cesaret alan ordu içinde bir grup asker, 27 Mayıs Darbesine giden süreci sessizce hazırladı.
 
     <hr />
 1. 27 Mayıs 1960 darbesinin ilk duyurusunu Ankara Radyosu'ndan yapan kişinin adı aşağıdakilerden hangisidir?
@@ -2381,8 +2251,7 @@
     - D-) Cemal Gürsel.
     - E-) Cemal Madanoğlu.
 
-    > **Açıklama:** Lütfen "27 Mayıs 1960 Darbesine Giden Süreç" başlıklı yazıyı gözden geçiriniz.
-    > Silahlı Kuvvetler de aynı gece saat 11.30’da toplanarak, 27 Mayıs sabaha karşı 03.00’da darbeyi başlatma kararı aldı. Sabaha karşı saat 05.25’te Ankara Radyosu’nda Albay Alparslan Türkeş’in sesi yükseldi. Darbe bildirisi okuyan Türkeş tarafından, kardeş kavgasına son vermek amacıyla Türk Silahlı Kuvvetlerinin yönetime el koyduğu, en kısa sürede seçimlerin yapılarak idarenin sivil yöneticilere bırakılacağı, hareketin tarafsızlığı, hiçbir grup ve partiye karşı yapılmadığı, Birleşmiş Milletler Anayasası’na, insan haklarına saygılı, NATO ve CENTO’ya bağlı olunduğu ilan edildi.
+    > **Açıklama:** Lütfen "27 Mayıs 1960 Darbesine Giden Süreç" başlıklı yazıyı gözden geçiriniz.<br />Silahlı Kuvvetler de aynı gece saat 11.30’da toplanarak, 27 Mayıs sabaha karşı 03.00’da darbeyi başlatma kararı aldı. Sabaha karşı saat 05.25’te Ankara Radyosu’nda Albay Alparslan Türkeş’in sesi yükseldi. Darbe bildirisi okuyan Türkeş tarafından, kardeş kavgasına son vermek amacıyla Türk Silahlı Kuvvetlerinin yönetime el koyduğu, en kısa sürede seçimlerin yapılarak idarenin sivil yöneticilere bırakılacağı, hareketin tarafsızlığı, hiçbir grup ve partiye karşı yapılmadığı, Birleşmiş Milletler Anayasası’na, insan haklarına saygılı, NATO ve CENTO’ya bağlı olunduğu ilan edildi.
 
     <hr />
 1. II. Dünya Savaşı sonrasında ABD ile SSCB arasındaki yaşanan ve kendisini askeri eylemlerden çok ekonomik baskı, propaganda ve silahlanma yarışıyla gösteren, 1946’da başlayan ve 1989’da Berlin Duvarı’nın yıkılışı sonrası 1991’de<br />SSCB’nin dağılması ile sonlanan döneme verilen isim aşağıdakilerden hangisidir.
@@ -2392,8 +2261,7 @@
     - D-) Propaganda Savaşları
     - E-) Ekonomik Savaş.
 
-    > **Açıklama:** Lütfen "Türkiye’nin Kore’ye Asker Gönderme Kararı (1950) ve NATO Üyeliği (1952)" başlıklı yazıyı gözden geçiriniz.
-    > Soğuk Savaş: II. Dünya Savaşı sonrasında ABD ile SSCB arasındaki yaşanan ve kendisini askeri eylemlerden çok ekonomik baskı, propaganda ve silahlanma yarışıyla gösteren, 1946’da başlayan ve 1989’da Berlin Duvarı’nın yıkılışı sonrası 1991’de SSCB’nin dağılması ile sonlanan döneme verilen isimdir.
+    > **Açıklama:** Lütfen "Türkiye’nin Kore’ye Asker Gönderme Kararı (1950) ve NATO Üyeliği (1952)" başlıklı yazıyı gözden geçiriniz.<br />Soğuk Savaş: II. Dünya Savaşı sonrasında ABD ile SSCB arasındaki yaşanan ve kendisini askeri eylemlerden çok ekonomik baskı, propaganda ve silahlanma yarışıyla gösteren, 1946’da başlayan ve 1989’da Berlin Duvarı’nın yıkılışı sonrası 1991’de SSCB’nin dağılması ile sonlanan döneme verilen isimdir.
 
     <hr />
 1. Türkiye ve Yunanistan arasında bağımsız Kıbrıs Cumhuriyeti’nin kurulması yönünde görüşmeler aşağıdaki tarihlerden hangisinde başlamıştır?
@@ -2403,8 +2271,7 @@
     - D-) Ocak 1960'dan itibaren.
     - E-) Kasım 1958'den itibaren.
 
-    > **Açıklama:** Lütfen "Demokrat Parti Dönemi Türkiye’nin Kıbrıs Politikası (1950-1960)" başlıklı yazıyı gözden geçiriniz.
-    > Ocak 1959’dan itibaren Türkiye ve Yunanistan arasında bağımsız Kıbrıs Cumhuriyeti’nin kurulması yönünde görüşmeler gerçekleşmeye başladı.
+    > **Açıklama:** Lütfen "Demokrat Parti Dönemi Türkiye’nin Kıbrıs Politikası (1950-1960)" başlıklı yazıyı gözden geçiriniz.<br />Ocak 1959’dan itibaren Türkiye ve Yunanistan arasında bağımsız Kıbrıs Cumhuriyeti’nin kurulması yönünde görüşmeler gerçekleşmeye başladı.
 
     <hr />
 1. 18 Ocak 1954 yılında çıkartılan ve Türkiye’de faaliyette bulunacak yabancı sermayedarlara da yerli sermayedarların sahip olduğu hakların tanındığı kanun aşağıdakilerden hangisidir?
@@ -2414,8 +2281,7 @@
     - D-) Vergi Teşvik Kanunu
     - **Cevap E-) Yabancı Sermayeyi Teşvik Kanunu**
 
-    > **Açıklama:** Lütfen "Ekonomide Altın Yıllar (1950-1954)" başlıklı yazıyı gözden geçiriniz.
-    > Bu nedenle Türkiye’ye yabancı sermaye akışını hızlandırmak ve yatırımları artırmak amacıyla 18 Ocak 1954’te “Yabancı Sermayeyi Teşvik Kanunu” çıkarıldı.
+    > **Açıklama:** Lütfen "Ekonomide Altın Yıllar (1950-1954)" başlıklı yazıyı gözden geçiriniz.<br />Bu nedenle Türkiye’ye yabancı sermaye akışını hızlandırmak ve yatırımları artırmak amacıyla 18 Ocak 1954’te “Yabancı Sermayeyi Teşvik Kanunu” çıkarıldı.
 
     <hr />
 1. Demokrat Parti Hükümeti'nin Haziran 1956’da uygulamaya koyduğu “Millî Koruma Kanunu”na uymayanları daha etkin bir şekilde cezalandırmak için oluşturduğu mahkemelerin adı aşağıdakilerden hangisidir?
@@ -2425,8 +2291,7 @@
     - D-) Ticaret Mahkemeleri
     - E-) Vergi Usul Mahkemeleri
 
-    > **Açıklama:** Lütfen "Ekonomide Sancıların Başladığı Yıllar (1954-1957)" başlıklı yazıyı gözden geçiriniz.
-    > Demokrat Parti Hükümeti Haziran 1956’da uygulamaya koyduğu “Millî Koruma Kanunu”na uymayanları daha etkin bir şekilde cezalandırmak için “Millî Koruma Mahkemeleri” ni kurdu.
+    > **Açıklama:** Lütfen "Ekonomide Sancıların Başladığı Yıllar (1954-1957)" başlıklı yazıyı gözden geçiriniz.<br />Demokrat Parti Hükümeti Haziran 1956’da uygulamaya koyduğu “Millî Koruma Kanunu”na uymayanları daha etkin bir şekilde cezalandırmak için “Millî Koruma Mahkemeleri” ni kurdu.
 
     <hr />
 1. 1945 yılında CHP içinde muhalefetin belirginleştiğini gösteren gelişme aşağıdakilerden hangisidir?
@@ -2436,9 +2301,7 @@
     - D-) NATO'ya üyelik başvurusu yapılması
     - E-) Kore'ye asker gönderilmesi
 
-    > **Açıklama:** Giriş başlığı altında.
-    > Cumhuriyet Halk Partisi’nin (CHP) içinde belirginleşen muhalefet, kendini 1945 yılı bütçe görüşmeleri ve Çiftçiyi Topraklandırma Kanun tasarısının Türkiye Büyük Millet Meclisi (TBMM)’deki
-    > tartışmalarında gösterdi. 14 Mayıs 1945’te TBMM’de çiftçiye toprak dağıtılması ve çiftçi ocaklarının kurulmasıyla ilgili hazırlanan Çiftçiyi Topraklandırma Kanun tasarısı görüşmelerinde başta Adnan Menderes olmak üzere muhalefet belirginleşmeye başladı. Doğru yanıt A seçeneğinde verilmiştir.
+    > **Açıklama:** Giriş başlığı altında.<br />Cumhuriyet Halk Partisi’nin (CHP) içinde belirginleşen muhalefet, kendini 1945 yılı bütçe görüşmeleri ve Çiftçiyi Topraklandırma Kanun tasarısının Türkiye Büyük Millet Meclisi (TBMM)’deki<br />tartışmalarında gösterdi. 14 Mayıs 1945’te TBMM’de çiftçiye toprak dağıtılması ve çiftçi ocaklarının kurulmasıyla ilgili hazırlanan Çiftçiyi Topraklandırma Kanun tasarısı görüşmelerinde başta Adnan Menderes olmak üzere muhalefet belirginleşmeye başladı. Doğru yanıt A seçeneğinde verilmiştir.
 
     <hr />
 1. I. Toprak Mahsulleri Vergisi<br />II. Varlık Vergisi<br />III. İhracat Vergisi<br />Yukarıdakilerden hangisi Şemsettin Günaltay hükümeti tarafından kaldırılan vergilerdendir?
@@ -2448,8 +2311,7 @@
     - D-) II ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** Demokrat Parti’nin Altın Yılları: Demirkırat Şahlanıyor! (1950-1954) başlığı altında.
-    > 24 Mart 1950’de TBMM’de seçimlerin yenilenmesine yönelik olarak verilen önerge kabul edilmiş, Partiler seçim kampanyalarına başlamıştır. CHP'li Günaltay Hükûmeti seçime hazırlık sürecinde ekonomi alanında Toprak Mahsulleri Vergisi, Varlık Vergisi ve İhracat Vergisi’ni kaldırmış, Toprak Reformu Yasası’nda da değişiklikler yapmıştır. Doğru yanıt E seçeneğinde verilmiştir.
+    > **Açıklama:** Demokrat Parti’nin Altın Yılları: Demirkırat Şahlanıyor! (1950-1954) başlığı altında.<br />24 Mart 1950’de TBMM’de seçimlerin yenilenmesine yönelik olarak verilen önerge kabul edilmiş, Partiler seçim kampanyalarına başlamıştır. CHP'li Günaltay Hükûmeti seçime hazırlık sürecinde ekonomi alanında Toprak Mahsulleri Vergisi, Varlık Vergisi ve İhracat Vergisi’ni kaldırmış, Toprak Reformu Yasası’nda da değişiklikler yapmıştır. Doğru yanıt E seçeneğinde verilmiştir.
 
     <hr />
 1. Adnan Menderes'in ilk hükümetinde yer alan Tarım Bakanı Nihat Eğriboz'dan istifasını istemesinin nedeni aşağıdakilerden hangisidir?
@@ -2459,8 +2321,7 @@
     - D-) Köy Enstitülerinin kapatılmasına karşı çıkması
     - E-) Çiftçiyi Topraklandırma Yasası'nı desteklemesi
 
-    > **Açıklama:** Demokrat Parti’nin Altın Yılları: Demirkırat Şahlanıyor! (1950-1954) başlığı altında.
-    > DP, seçim vaatlerini tek tek yerine getirirken, Başbakan Menderes’in bakanlıkların bünyesindeki işlere müdahale etmesi, parti içinde anlaşmazlıklara neden olmuştu. Bu çerçevede Tarım Bakanı Nihat Eğriboz ile Başbakan Adnan Menderes arasında da gerginlik yaşanmıştı. Şöyle ki 1951 yılının şubat ayında Başbakan Adnan Menderes traktör satışlarını desteklemek için traktör üzerinden alınan bazı vergilerin kaldırılmasını istedi. Fakat Eğriboz, devletin bu yükü kaldıramayacağını gerekçe göstererek bu öneriyi kabul etmedi. Bunun üzerine Menderes, Tarım Bakanı’ndan görevden çekilmesini istedi. Tarım Bakanı Nihat Eğriboz'un istifa etmemesi üzerine Menderes Başbakanlıktan çekildi. aynı gün Bayar tarafından yeniden atanınca ikinci hükümetini kurdu.
+    > **Açıklama:** Demokrat Parti’nin Altın Yılları: Demirkırat Şahlanıyor! (1950-1954) başlığı altında.<br />DP, seçim vaatlerini tek tek yerine getirirken, Başbakan Menderes’in bakanlıkların bünyesindeki işlere müdahale etmesi, parti içinde anlaşmazlıklara neden olmuştu. Bu çerçevede Tarım Bakanı Nihat Eğriboz ile Başbakan Adnan Menderes arasında da gerginlik yaşanmıştı. Şöyle ki 1951 yılının şubat ayında Başbakan Adnan Menderes traktör satışlarını desteklemek için traktör üzerinden alınan bazı vergilerin kaldırılmasını istedi. Fakat Eğriboz, devletin bu yükü kaldıramayacağını gerekçe göstererek bu öneriyi kabul etmedi. Bunun üzerine Menderes, Tarım Bakanı’ndan görevden çekilmesini istedi. Tarım Bakanı Nihat Eğriboz'un istifa etmemesi üzerine Menderes Başbakanlıktan çekildi. aynı gün Bayar tarafından yeniden atanınca ikinci hükümetini kurdu.
 
     <hr />
 1. Menderes Hükümeti Atatürk Aleyhine İşlenen Suçlar Hakkında Kanunu hangi yıl çıkarmıştır?
@@ -2470,8 +2331,7 @@
     - D-) 1950
     - E-) 1953
 
-    > **Açıklama:** Demokrat Parti’nin Altın Yılları: Demirkırat Şahlanıyor! (1950-1954 başlığı altında.
-    > II. Menderes Hükümeti göreve başladıktan hemen sonra 4 Mayıs 1951’de “Atatürk Aleyhine İşlenen Suçlar Hakkında Kanun” tasarısı hazırlanarak TBMM’ye sunuldu. Başbakan Menderes’in çabaları ile tasarı, 25 Temmuz 1951 tarihinde milletvekillerinin 232 kabul oyuyla yasalaştı. Bu kanunun kabul edilmesindeki en önemli neden, 27 Şubat 1951 günü Kırşehir’deki Atatürk büstünün, Ticaniler adı verilen bir grup tarafından parçalanmasıydı. Bu eylemi kısa süre içinde yenileri izledi ve ülkenin çeşitli bölgelerinde 20 kadar Atatürk büst ve heykeli tahrip edildi. Bu kaygılar, DP yöneticilerini Atatürk’ün resim, büst, heykellerini ve Atatürk hakkındaki eserleri kanun yoluyla korumaya yöneltmişti.
+    > **Açıklama:** Demokrat Parti’nin Altın Yılları: Demirkırat Şahlanıyor! (1950-1954 başlığı altında.<br />II. Menderes Hükümeti göreve başladıktan hemen sonra 4 Mayıs 1951’de “Atatürk Aleyhine İşlenen Suçlar Hakkında Kanun” tasarısı hazırlanarak TBMM’ye sunuldu. Başbakan Menderes’in çabaları ile tasarı, 25 Temmuz 1951 tarihinde milletvekillerinin 232 kabul oyuyla yasalaştı. Bu kanunun kabul edilmesindeki en önemli neden, 27 Şubat 1951 günü Kırşehir’deki Atatürk büstünün, Ticaniler adı verilen bir grup tarafından parçalanmasıydı. Bu eylemi kısa süre içinde yenileri izledi ve ülkenin çeşitli bölgelerinde 20 kadar Atatürk büst ve heykeli tahrip edildi. Bu kaygılar, DP yöneticilerini Atatürk’ün resim, büst, heykellerini ve Atatürk hakkındaki eserleri kanun yoluyla korumaya yöneltmişti.
 
     <hr />
 1. I. İnkılaplardan verilen tavizler<br />II. Petrol Kanunu<br />III. Yabancı Sermaye'den duyulan rahatsızlık<br />IV. Seçim hileleri<br />Yukarıdakilerden hangisi 1954 yılında yapılacak seçimler öncesinde CHP Genel Başkanı İsmet İnönü'nin seçim konuşmalarında öne çıkardığı başlıklardan biri değildir?
@@ -2481,8 +2341,7 @@
     - D-) I, II ve IV
     - E-) II, III ve IV
 
-    > **Açıklama:** 1954-1957 Döneminde Türkiye’de Demokrat Parti: Başarıyla Gelen Özgüven başlığı altında.
-    > CHP Genel Başkanı İnönü, mitinglerdeki seçim konuşmalarını laiklik ve inkılaplardan verilen tavizler, Petrol Kanunu, DP ve Menderes’in partizanlığı, yabancı sermayenin Türkiye’ye gelmesinden duydukları rahatsızlık üzerine yoğunlaştırdı. Başbakan Menderes ise, kendi dönemlerinde yapılan iktisadi atılımlardan, halkın hayatının nasıl değiştiğinden, refah seviyesinin nasıl yükseltildiğinden, 1946 seçimlerinde yapılan hilelerden seçim konuşmalarında bahsetti. Ayrıca İnönü’yü hedef alarak CHP’nin kendilerine yönelttikleri eleştirilere sert şekilde cevap verdi. Doğru yanıt C seçeneğinde verilmiştir.
+    > **Açıklama:** 1954-1957 Döneminde Türkiye’de Demokrat Parti: Başarıyla Gelen Özgüven başlığı altında.<br />CHP Genel Başkanı İnönü, mitinglerdeki seçim konuşmalarını laiklik ve inkılaplardan verilen tavizler, Petrol Kanunu, DP ve Menderes’in partizanlığı, yabancı sermayenin Türkiye’ye gelmesinden duydukları rahatsızlık üzerine yoğunlaştırdı. Başbakan Menderes ise, kendi dönemlerinde yapılan iktisadi atılımlardan, halkın hayatının nasıl değiştiğinden, refah seviyesinin nasıl yükseltildiğinden, 1946 seçimlerinde yapılan hilelerden seçim konuşmalarında bahsetti. Ayrıca İnönü’yü hedef alarak CHP’nin kendilerine yönelttikleri eleştirilere sert şekilde cevap verdi. Doğru yanıt C seçeneğinde verilmiştir.
 
     <hr />
 1. I. Cumhuriyetçi Millet Partisi<br />II. Türkiye Köylü Partisi<br />III. Milli Kalkınma Partisi<br />IV. Cumhuriyet Halk Partisi<br />Yukarıdakilerden hangisi ya da hangileri 1955 yılında yapılan İl genel meclisi ve belediye seçimlerini boykot etmiştir?
@@ -2492,8 +2351,7 @@
     - D-) II ve III
     - E-) I ve II
 
-    > **Açıklama:** 1954-1957 Döneminde Türkiye’de Demokrat Parti: Başarıyla Gelen Özgüven başlığı altında.
-    > Başbakan Menderes, 6/7 Eylül olayları sonrasında altı aylık sıkıyönetim nedeni ile il genel meclisi ve belediye seçimlerinin ertelenmeyeceğini duyurmuştu. 25 Eylül 1955’teki il genel meclisi seçimlerini ve 13 Kasım 1955’te de yapılacak belediye seçimlerini Cumhuryiet Halk Partisi ve Cumhuriyetçi Millet Partisi boykot etti. 806 belediyenin 597’sini DP, 15’ini TKP ve 193’ünü de bağımsız adaylar kazandı. Doğru yanıt A seçeneğinde verilmiştir.
+    > **Açıklama:** 1954-1957 Döneminde Türkiye’de Demokrat Parti: Başarıyla Gelen Özgüven başlığı altında.<br />Başbakan Menderes, 6/7 Eylül olayları sonrasında altı aylık sıkıyönetim nedeni ile il genel meclisi ve belediye seçimlerinin ertelenmeyeceğini duyurmuştu. 25 Eylül 1955’teki il genel meclisi seçimlerini ve 13 Kasım 1955’te de yapılacak belediye seçimlerini Cumhuryiet Halk Partisi ve Cumhuriyetçi Millet Partisi boykot etti. 806 belediyenin 597’sini DP, 15’ini TKP ve 193’ünü de bağımsız adaylar kazandı. Doğru yanıt A seçeneğinde verilmiştir.
 
     <hr />
 1. DP döneminde yaşanan Dokuz Subay Olayı karşısında geniş bir soruşturma yapılmasını ve tüm komplocu subayların belirlenmesini isteyen devlet adamı kimdir?
@@ -2503,9 +2361,7 @@
     - D-) İsmet İnönü
     - E-) Namık Gedik
 
-    > **Açıklama:** Sert Rüzgârların Esmeye Başladığı Dönem (1957-1960) başlığı altında.
-    > 1957 yılında farklı grup ve alt rütbeli subayların oldukça gergin bir seyir almış olan partiler arası çekişme ile yakından ilgilendiğini gösteren Dokuz Subay Olayı olarak adlandırılan bir gelişme yaşanmıştı. Bu yıl, Türk basınında sık sık emekli olan generallerin CHP’ye katıldıklarına ilişkin haberler yer almaya başlamıştı. öyle ki 1957 yılı genel seçimleri öncesi askerî bir müdahaleden bahsedilmeye başlanmıştı. Millî Savunma Bakanlığı Temsil Bürosu Başkanlığında görev yapan Binbaşı Samet Kuşçu ile 15. Kolordu Kurmay Başkanı Kurmay Albay İlhami Barut 19 Aralık 1957’de askerî müdahale konusunda görüştü. Yapılan görüşmede Albay İlhami Barut, seçim öncesinde müdahale etmeyi planladıklarını fakat gerçekleştiremediklerini belirterek çalışmalarına devam ettiklerini söyledi. Ayrıca Barut, görüşmede birlikte hareket etmeyi de teklif etti. Fakat Binbaşı Samet Kuşçu, arkadaşlarının bazılarının ordu içinde iktidar karşıtı hareketleri izlemek amacıyla Başbakanlıkta kurulan “Menderes’e bağlı sadık subaylar örgütü”ne üye olduğunu düşündüğü için yapılması planlanan askerî müdahaleyi, 23 Aralık 1957’de DP İstanbul Milletvekili Mithat Perin’e anlattı. Yapılan ihbar üzerine 26 Aralık 1957’de dokuz subay tutuklandı. Korgeneral Cemal Tural’ın başkanlığında
-    > 25 Kasım 1958’de başlayan yargılama sonucunda, Kuşçu, haricindeki diğer subaylar serbest bırakılmış, Binbaşı Samet Kuşçu da “iftira ve isyana teşvik” suçlamasıyla iki yıl hapis cezasına çarptırılmıştır. Yaşananlar ile ilgili Celal Bayar ile Adnan Menderes farklı yaklaşımlar sergiledi. Celal Bayar, geniş bir soruşturmanın yapılmasını ve tüm komplocu subayların tespit edilmesini isterken; Menderes, ordu ile bir sorun yaratmamak için bu talebe soğuk bakmış ve bu nedenle de mesele kısa süre içinde kapanmıştı. Doğru yanıt B seçeneğinde verilmiştir.
+    > **Açıklama:** Sert Rüzgârların Esmeye Başladığı Dönem (1957-1960) başlığı altında.<br />1957 yılında farklı grup ve alt rütbeli subayların oldukça gergin bir seyir almış olan partiler arası çekişme ile yakından ilgilendiğini gösteren Dokuz Subay Olayı olarak adlandırılan bir gelişme yaşanmıştı. Bu yıl, Türk basınında sık sık emekli olan generallerin CHP’ye katıldıklarına ilişkin haberler yer almaya başlamıştı. öyle ki 1957 yılı genel seçimleri öncesi askerî bir müdahaleden bahsedilmeye başlanmıştı. Millî Savunma Bakanlığı Temsil Bürosu Başkanlığında görev yapan Binbaşı Samet Kuşçu ile 15. Kolordu Kurmay Başkanı Kurmay Albay İlhami Barut 19 Aralık 1957’de askerî müdahale konusunda görüştü. Yapılan görüşmede Albay İlhami Barut, seçim öncesinde müdahale etmeyi planladıklarını fakat gerçekleştiremediklerini belirterek çalışmalarına devam ettiklerini söyledi. Ayrıca Barut, görüşmede birlikte hareket etmeyi de teklif etti. Fakat Binbaşı Samet Kuşçu, arkadaşlarının bazılarının ordu içinde iktidar karşıtı hareketleri izlemek amacıyla Başbakanlıkta kurulan “Menderes’e bağlı sadık subaylar örgütü”ne üye olduğunu düşündüğü için yapılması planlanan askerî müdahaleyi, 23 Aralık 1957’de DP İstanbul Milletvekili Mithat Perin’e anlattı. Yapılan ihbar üzerine 26 Aralık 1957’de dokuz subay tutuklandı. Korgeneral Cemal Tural’ın başkanlığında<br />25 Kasım 1958’de başlayan yargılama sonucunda, Kuşçu, haricindeki diğer subaylar serbest bırakılmış, Binbaşı Samet Kuşçu da “iftira ve isyana teşvik” suçlamasıyla iki yıl hapis cezasına çarptırılmıştır. Yaşananlar ile ilgili Celal Bayar ile Adnan Menderes farklı yaklaşımlar sergiledi. Celal Bayar, geniş bir soruşturmanın yapılmasını ve tüm komplocu subayların tespit edilmesini isterken; Menderes, ordu ile bir sorun yaratmamak için bu talebe soğuk bakmış ve bu nedenle de mesele kısa süre içinde kapanmıştı. Doğru yanıt B seçeneğinde verilmiştir.
 
     <hr />
 1. I. Sovyetler Birliğine coğrafi yakınlığı<br />II. Deniz ve hava üslerinin Batı'nın hizmetine tahsis edilmesi isteği<br />III. Ortadoğu petrollerinin kilidi olarak görülmesi<br />IV. Kore'ye asker göndermesini sağlamak istemisi<br />Yukarıdakilerden hangileri ABD'nin 1951 yılında müttefiklerine Türkiye'nin NATO'ya alınmasını önermesinde etkili olmuştur?
@@ -2515,10 +2371,7 @@
     - D-) II, III ve IV
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** Türkiye’nin Kore’ye Asker Gönderme Kararı (1950) ve NATO Üyeliği (1952) başlığı altında.
-    > 15 Mayıs 195l’de ABD, müttefiklerine, Türkiye ve Yunanistan’ın NATO’ya alınmasını önerdi. Türkiye’nin; Sovyetler Birliği’ne coğrafi yakınlığı, Türkiye’deki deniz ve hava üslerinin Batı’nın hizmetine tahsis edilme isteği, Türkiye’nin Ortadoğu petrollerinin
-    > kilidi olarak görülmesi ve ABD’nin Ortadoğu devletleri ile olan ilişkilerinde Türkiye’nin iyi bir kanal oluşturacağı düşüncesi, bu önerinin ana nedeniydi. Türkiye ABD bu önerileri yaptığında çoktan Kore'ye asker göndermişti. Bununla birlikte Türk birliklerinin Kore Savaşı’nda gösterdiği askerî başarılar ve Kunuri Muharebesi’nde Amerikan birliklerini imha edilmekten kurtarması,
-    > Amerikan kamuoyunda Türkiye’nin Sovyet tehdidi karşısında yalnız bırakılmaması gerektiği yönündeki görüşün taraftar bulması ve en önemlisi de ABD’li hava uzmanlarının Türkiye’nin ittifaka alınması yönünde görüş bildirmesi bu öneride etkili olmuştu. Doğru yanıt E seçeneğinde verilmiştir.
+    > **Açıklama:** Türkiye’nin Kore’ye Asker Gönderme Kararı (1950) ve NATO Üyeliği (1952) başlığı altında.<br />15 Mayıs 195l’de ABD, müttefiklerine, Türkiye ve Yunanistan’ın NATO’ya alınmasını önerdi. Türkiye’nin; Sovyetler Birliği’ne coğrafi yakınlığı, Türkiye’deki deniz ve hava üslerinin Batı’nın hizmetine tahsis edilme isteği, Türkiye’nin Ortadoğu petrollerinin<br />kilidi olarak görülmesi ve ABD’nin Ortadoğu devletleri ile olan ilişkilerinde Türkiye’nin iyi bir kanal oluşturacağı düşüncesi, bu önerinin ana nedeniydi. Türkiye ABD bu önerileri yaptığında çoktan Kore'ye asker göndermişti. Bununla birlikte Türk birliklerinin Kore Savaşı’nda gösterdiği askerî başarılar ve Kunuri Muharebesi’nde Amerikan birliklerini imha edilmekten kurtarması,<br />Amerikan kamuoyunda Türkiye’nin Sovyet tehdidi karşısında yalnız bırakılmaması gerektiği yönündeki görüşün taraftar bulması ve en önemlisi de ABD’li hava uzmanlarının Türkiye’nin ittifaka alınması yönünde görüş bildirmesi bu öneride etkili olmuştu. Doğru yanıt E seçeneğinde verilmiştir.
 
     <hr />
 1. Kıbrıs'ın geleceği konusunda 29 Ağustos 1955 günü İngiltere ve Yunanistan temsilcileri ile birlikte Londra'da yapılan konferansa katılan Türk devlet adamı kimdir?
@@ -2528,8 +2381,7 @@
     - D-) Fazıl Küçük
     - E-) Burhan Nalbantoğlu
 
-    > **Açıklama:** Demokrat Parti Dönemi Türkiye’nin Kıbrıs Politikası (1950-1960) başlığı altında.
-    > İngiltere Dışişleri Bakanı olan Anthony Eden, Kıbrıs konusunu görüşmek üzere Türkiye, Yunanistan ve İngiltere’nin bir araya gelmesi gerektiği konusunda çalışmalara başladı. İngiltere, bu yaklaşımı ile Türkiye’yi Kıbrıs konusunda taraf olarak kabul ettiğini de tüm dünyaya duyururken 29 Ağustos 1955’de Londra’da Kıbrıs konusunu görüşmek üzere Türkiye Dışişleri Bakanı Fatin Rüştü Zorlu, İngiltere Dışişleri Bakanı Harold Macmillian ve Yunanistan Dışişleri Bakanı Stefanos Stefanopulos bir araya geldiler. Doğru yanıt B seçeneğinde verilmiştir.
+    > **Açıklama:** Demokrat Parti Dönemi Türkiye’nin Kıbrıs Politikası (1950-1960) başlığı altında.<br />İngiltere Dışişleri Bakanı olan Anthony Eden, Kıbrıs konusunu görüşmek üzere Türkiye, Yunanistan ve İngiltere’nin bir araya gelmesi gerektiği konusunda çalışmalara başladı. İngiltere, bu yaklaşımı ile Türkiye’yi Kıbrıs konusunda taraf olarak kabul ettiğini de tüm dünyaya duyururken 29 Ağustos 1955’de Londra’da Kıbrıs konusunu görüşmek üzere Türkiye Dışişleri Bakanı Fatin Rüştü Zorlu, İngiltere Dışişleri Bakanı Harold Macmillian ve Yunanistan Dışişleri Bakanı Stefanos Stefanopulos bir araya geldiler. Doğru yanıt B seçeneğinde verilmiştir.
 
     <hr />
 1. I. İhracat ve İthalatın kısıtlanması, döviz sıkıntısı başgöstermesi<br />II. Çifçiye yönelik destekleme alımları yapılarak geniş kredi olanakları sağlanması<br />III. Milli Koruma Kanunu ve Milli Koruma Mahkemeleri'nin kurulması<br />IV. ABD'den kredi istenmesi<br />Yukarıdakilerden hangisi/hangileri 1954-1957 yılları arasında ekonomide başgösteren sancının yansımalarından biri değildir?
@@ -2539,10 +2391,7 @@
     - D-) II ve IV
     - E-) I, II ve IV
 
-    > **Açıklama:** Ekonomide Sancıların Başladığı Yıllar
-    > (1954-1957)
-    > 1954-57 dönemi DP Hükümeti için özellikle iktisadi açıdan sıkıntılarla başladı. Tarıma ve dış ticarete ağırlık veren iktisadi kalkınma stratejisi, dış koşulların etkisi ile değişmek zorunda kaldı. Kötü hava şartları tarım üretimini olumsuz etkiledi ve ürün miktarında düşüş gerçekleşti. Bu düşüş, ihracat imkânlarını daralttı ve bu daralma ithalatında kısıtlanmasını beraberinde getirdi. Mahsulün azalması dış ticaret dengesini bozdu ve ülkede döviz sıkıntısı çekilmeye başlandı. Amerika’dan kredi istenmiş, fakat verilen az miktardaki hibe ile yetinilmek zorunda kalınmıştı. Bu durum fiyat artışları ve buna bağlı olarak beraberinde yüksek
-    > enflasyonu getirdi. Ayrıca tarımdaki üretim düşüşü iç talebe de cevap veremedi ve Türkiye ihtiyacı olan birçok maddeyi ithal eder duruma geldi. Bu durum karşısında DP Hükümeti sert tedbirler aldı. 1955 yılının Temmuz ayından itibaren aldığı sert tedbirlerle istifçiliği ve karaborsacılığı önlemeye çalıştı. Fakat piyasada istikrarı sağlama konusunda başarılı olamadı. Bu nedenle 25 Haziran 1956’da “Millî Koruma Kanunu” uygulanmaya başlandı. Yasaya uymayanları daha etkin bir şekilde cezalandırmak içinde “Millî Koruma Mahkemeleri” kuruldu. Yabancı sermaye yatırımlarının beklenenin altında gerçekleşmesi, dış borç sağlamada ve var olan dış borç ödemelerinde karşılaşılan güçlükler, 1954 yılından itibaren iktisadi alanda yaşanan plansızlık, DP hükümetini zor durumda bıraktı. Çifçiye yönelik destekleme alımları yapılarak geniş kredi olanakları sağlanması ise 1954 öncesinde gerçekleşmişti. Doğru yanıt A seçeneğinde verilmiştir.
+    > **Açıklama:** Ekonomide Sancıların Başladığı Yıllar<br />(1954-1957)<br />1954-57 dönemi DP Hükümeti için özellikle iktisadi açıdan sıkıntılarla başladı. Tarıma ve dış ticarete ağırlık veren iktisadi kalkınma stratejisi, dış koşulların etkisi ile değişmek zorunda kaldı. Kötü hava şartları tarım üretimini olumsuz etkiledi ve ürün miktarında düşüş gerçekleşti. Bu düşüş, ihracat imkânlarını daralttı ve bu daralma ithalatında kısıtlanmasını beraberinde getirdi. Mahsulün azalması dış ticaret dengesini bozdu ve ülkede döviz sıkıntısı çekilmeye başlandı. Amerika’dan kredi istenmiş, fakat verilen az miktardaki hibe ile yetinilmek zorunda kalınmıştı. Bu durum fiyat artışları ve buna bağlı olarak beraberinde yüksek<br />enflasyonu getirdi. Ayrıca tarımdaki üretim düşüşü iç talebe de cevap veremedi ve Türkiye ihtiyacı olan birçok maddeyi ithal eder duruma geldi. Bu durum karşısında DP Hükümeti sert tedbirler aldı. 1955 yılının Temmuz ayından itibaren aldığı sert tedbirlerle istifçiliği ve karaborsacılığı önlemeye çalıştı. Fakat piyasada istikrarı sağlama konusunda başarılı olamadı. Bu nedenle 25 Haziran 1956’da “Millî Koruma Kanunu” uygulanmaya başlandı. Yasaya uymayanları daha etkin bir şekilde cezalandırmak içinde “Millî Koruma Mahkemeleri” kuruldu. Yabancı sermaye yatırımlarının beklenenin altında gerçekleşmesi, dış borç sağlamada ve var olan dış borç ödemelerinde karşılaşılan güçlükler, 1954 yılından itibaren iktisadi alanda yaşanan plansızlık, DP hükümetini zor durumda bıraktı. Çifçiye yönelik destekleme alımları yapılarak geniş kredi olanakları sağlanması ise 1954 öncesinde gerçekleşmişti. Doğru yanıt A seçeneğinde verilmiştir.
 
     <hr />
 1. Demokrat Parti hangi yılda kurulmuştur?
@@ -2552,8 +2401,7 @@
     - D-) 1947
     - E-) 1948
 
-    > **Açıklama:** GİRİŞ
-    > Dörtlü Takrir’e imza atan ve CHP’den ayrılan dört milletvekili 7 Ocak 1946’da Demokrat Parti’yi (DP) kurdu(Timur, 2003; Eroğul, 2003). Doğru yanıt c seçeneğidir.
+    > **Açıklama:** GİRİŞ<br />Dörtlü Takrir’e imza atan ve CHP’den ayrılan dört milletvekili 7 Ocak 1946’da Demokrat Parti’yi (DP) kurdu(Timur, 2003; Eroğul, 2003). Doğru yanıt c seçeneğidir.
 
     <hr />
 1. Aşağıdaki seçeneklerden hangisi Celal Bayar'ın Cumhurbaşkanı seçildiği tarihtir?
@@ -2563,9 +2411,7 @@
     - **Cevap D-) 22 Mayıs 1950**
     - E-) 22 Ekim 1950
 
-    > **Açıklama:** Demokrat Parti’nin Altın Yılları:
-    > Demirkırat Şahlanıyor! (1950-1954)
-    > 1950 seçimlerinden sonra, 22 Mayıs 1950’de açılan TBMM’nin IX. Toplantısına, en yaşlı üye sıfatıyla Hüseyin Cahit Yalçın başkanlık etti. Aynı gün Celal Bayar, Cumhurbaşkanı, Refik Koraltan da Meclis Başkanı seçildi. Doğru yanıt d seçeneğidir.
+    > **Açıklama:** Demokrat Parti’nin Altın Yılları:<br />Demirkırat Şahlanıyor! (1950-1954)<br />1950 seçimlerinden sonra, 22 Mayıs 1950’de açılan TBMM’nin IX. Toplantısına, en yaşlı üye sıfatıyla Hüseyin Cahit Yalçın başkanlık etti. Aynı gün Celal Bayar, Cumhurbaşkanı, Refik Koraltan da Meclis Başkanı seçildi. Doğru yanıt d seçeneğidir.
 
     <hr />
 1. Türk Siyasi Tarihinde Demokrat Parti’nin iktidarda kaldığı dönem aşağıdakilerden hangisidir?
@@ -2575,9 +2421,7 @@
     - D-) 1960-1965
     - E-) 1960-1970
 
-    > **Açıklama:** DEMOKRAT PARTİ DÖNEMİNDE İÇ POLİTİKADA YAŞANANLAR (1950-1960) / Demokrat Parti’nin Altın Yılları: Demirkırat Şahlanıyor! (1950-1954)
-    > Türk Siyasi Tarihinde Demokrat Parti’nin 1950-1960 yılları arasında iktidarda kaldığı dönem, “Menderes Dönemi” olarak da adlandırılmaktadır. Bunun nedeni de Adnan Menderes’in beş hükümet kurması ve bu on yıllık dönemde kesintisiz
-    > olarak Başbakanlık görevinde bulunmasıdır. Doğru yanıt b seçeneğidir.
+    > **Açıklama:** DEMOKRAT PARTİ DÖNEMİNDE İÇ POLİTİKADA YAŞANANLAR (1950-1960) / Demokrat Parti’nin Altın Yılları: Demirkırat Şahlanıyor! (1950-1954)<br />Türk Siyasi Tarihinde Demokrat Parti’nin 1950-1960 yılları arasında iktidarda kaldığı dönem, “Menderes Dönemi” olarak da adlandırılmaktadır. Bunun nedeni de Adnan Menderes’in beş hükümet kurması ve bu on yıllık dönemde kesintisiz<br />olarak Başbakanlık görevinde bulunmasıdır. Doğru yanıt b seçeneğidir.
 
     <hr />
 1. Köy Enstitüleri hangi tarihte kapatılmıştır?
@@ -2587,8 +2431,7 @@
     - D-) 24 Şubat 1957
     - E-) 27 Ocak 1959
 
-    > **Açıklama:** Demokrat Parti’nin Altın Yılları:Demirkırat Şahlanıyor! (1950-1954)
-    > 1950’de DP iktidarı ile birlikte Enstitülerin kapanma süreci hızlanmıştır. 27 Ocak 1954’te 6234 sayılı kanunla Köy Enstitüleri, ilköğretmen okulları ile birleştirildi.(Yiğit, 1992 ; Göktürk Çetinkaya, 2019).
+    > **Açıklama:** Demokrat Parti’nin Altın Yılları:Demirkırat Şahlanıyor! (1950-1954)<br />1950’de DP iktidarı ile birlikte Enstitülerin kapanma süreci hızlanmıştır. 27 Ocak 1954’te 6234 sayılı kanunla Köy Enstitüleri, ilköğretmen okulları ile birleştirildi.(Yiğit, 1992 ; Göktürk Çetinkaya, 2019).
 
     <hr />
 1. Türkiye’nin NATO’ya girişini öngören anlaşma hakkındaki yasa tasarısının TBMM’ye sunulduğu tarih aşağıdakilerden hangisidir?
@@ -2598,8 +2441,7 @@
     - D-) 1953
     - E-) 1954
 
-    > **Açıklama:** Türkiye’nin Kore’ye Asker Gönderme Kararı (1950) ve NATO Üyeliği (1952)
-    > Türkiye’nin NATO’ya girişini öngören anlaşma hakkındaki yasa tasarısı 18 Şubat 1952’de TBMM’ye sunuldu. Doğru yanıt c seçeneğidir.
+    > **Açıklama:** Türkiye’nin Kore’ye Asker Gönderme Kararı (1950) ve NATO Üyeliği (1952)<br />Türkiye’nin NATO’ya girişini öngören anlaşma hakkındaki yasa tasarısı 18 Şubat 1952’de TBMM’ye sunuldu. Doğru yanıt c seçeneğidir.
 
     <hr />
 1. I. Kıbrıs Türklerinin can ve mal güvenliğini sağlamak,<br />II. Enosis’e ve bu hedef doğrultusunda gerçekleştirilen terör eylemlerine karşı<br />durmak,<br />III. Türklere yapılacak saldırıları geri püskürtmek,<br />IV. Türk toplumunun birliğini ve bütünlüğünü sağlamak,<br />V. Rumlara ve İngilizlere karşı Kıbrıs Türklerinin haklarını savunmak,<br />Yukarıdaki maddelerden hangileri Türk Mukavemet Teşkilatı (TMT)’nin amaçları<br />arasındadır?
@@ -2609,10 +2451,7 @@
     - D-) I, III, V
     - **Cevap E-) I, II, III, IV, V**
 
-    > **Açıklama:** Demokrat Parti Dönemi Türkiye’nin Kıbrıs Politikası (1950-1960)
-    > Türk Mukavemet Teşkilatı (TMT)’nin amaçları arasında, Kıbrıs Türklerinin can ve mal güvenliğini sağlamak, Enosis’e ve bu hedef doğrultusunda gerçekleştirilen terör eylemlerine karşı durmak, Türklere yapılacak saldırıları geri püskürtmek, Türk toplumunun birliğini ve bütünlüğünü sağlamak, Rumlara ve İngilizlere karşı
-    > Kıbrıs Türklerinin haklarını savunmak, Türkiye ile sıcak ilişkileri ve Türk halkının anavatana bağlılığını sürdürmek vardı.
-    > Soru metninde yer alan tüm maddeler doğrudur. Doğru yanıt e seçeneğidir.
+    > **Açıklama:** Demokrat Parti Dönemi Türkiye’nin Kıbrıs Politikası (1950-1960)<br />Türk Mukavemet Teşkilatı (TMT)’nin amaçları arasında, Kıbrıs Türklerinin can ve mal güvenliğini sağlamak, Enosis’e ve bu hedef doğrultusunda gerçekleştirilen terör eylemlerine karşı durmak, Türklere yapılacak saldırıları geri püskürtmek, Türk toplumunun birliğini ve bütünlüğünü sağlamak, Rumlara ve İngilizlere karşı<br />Kıbrıs Türklerinin haklarını savunmak, Türkiye ile sıcak ilişkileri ve Türk halkının anavatana bağlılığını sürdürmek vardı.<br />Soru metninde yer alan tüm maddeler doğrudur. Doğru yanıt e seçeneğidir.
 
     <hr />
 1. İngiltere, Kıbrıs üzerindeki egemenlik haklarını, Zürih ve Londra Antlaşmaları ile Kıbrıs’ta yaşayan Türk ve Rum halkın ortak egemenliği ve yönetimi temeli üzerine hangi yılda Kıbrıs Cumhuriyeti’ne devretmiştir?
@@ -2622,8 +2461,7 @@
     - D-) 1964
     - E-) 1966
 
-    > **Açıklama:** Demokrat Parti Dönemi Türkiye’nin Kıbrıs Politikası (1950-1960)
-    > İngiltere, Ada üzerindeki egemenlik haklarını, Zürih ve Londra Antlaşmaları ile Kıbrıs’ta yaşayan Türk ve Rum halkın ortak egemenliği ve yönetimi temeli üzerine 1960 yılında kurulan Kıbrıs Cumhuriyeti’ne devretti. Doğru yanıt b seçeneğidir.
+    > **Açıklama:** Demokrat Parti Dönemi Türkiye’nin Kıbrıs Politikası (1950-1960)<br />İngiltere, Ada üzerindeki egemenlik haklarını, Zürih ve Londra Antlaşmaları ile Kıbrıs’ta yaşayan Türk ve Rum halkın ortak egemenliği ve yönetimi temeli üzerine 1960 yılında kurulan Kıbrıs Cumhuriyeti’ne devretti. Doğru yanıt b seçeneğidir.
 
     <hr />
 1. Türkiye ve Irak, “Bağdat Paktı” olarak bilinen “Karşılıklı İşbirliği Antlaşması”’nı hangi tarihte imzalamıştır?
@@ -2633,8 +2471,7 @@
     - **Cevap D-) 1955**
     - E-) 1958
 
-    > **Açıklama:** Demokrat Parti Döneminde Türkiye’nin, Türkiye-ABD İlişkileri Ekseninde Ortadoğu Politikaları (1950-1960)
-    > Türkiye ve Irak, 24 Şubat 1955’te “Bağdat Paktı” olarak bilinen “Karşılıklı İşbirliği Antlaşması” nı imzaladı. Doğru yanıt d seçeneğidir.
+    > **Açıklama:** Demokrat Parti Döneminde Türkiye’nin, Türkiye-ABD İlişkileri Ekseninde Ortadoğu Politikaları (1950-1960)<br />Türkiye ve Irak, 24 Şubat 1955’te “Bağdat Paktı” olarak bilinen “Karşılıklı İşbirliği Antlaşması” nı imzaladı. Doğru yanıt d seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi Demokrat Parti’nin ekonomik alanda gerçekleştirdiği başarılar nedeniyle “altın yıllar” olarak adlandırıldığı dönemdir?
@@ -2644,9 +2481,7 @@
     - D-) 1952-1956
     - E-) 1952-1956
 
-    > **Açıklama:** Ekonomide Altın Yıllar (1950-1954)
-    > 1950- 1954 dönemi DP’nin iktisadi alanda gerçekleştirdiği başarılar nedeniyle “altın yıllar” olarak adlandırıldı.
-    > Doğru yanıt b seçeneğidir.
+    > **Açıklama:** Ekonomide Altın Yıllar (1950-1954)<br />1950- 1954 dönemi DP’nin iktisadi alanda gerçekleştirdiği başarılar nedeniyle “altın yıllar” olarak adlandırıldı.<br />Doğru yanıt b seçeneğidir.
 
     <hr />
 ## Unite 5
@@ -2657,8 +2492,7 @@
     - D-) Kuvvet Komutanları
     - E-) Darbeyi organize eden subaylar tarafından seçilen teknokratlar.
 
-    > **Açıklama:** 27 MAYIS 1960 ASKERÎ DARBESİ VE SONRASINDAKİ GELİŞMELER
-    > DP iktidarını deviren kadro General Cemal Gürsel liderliğinde 8 yüzbaşı, 10 binbaşı, 7 yarbay, 8 albay ve 5 generalden oluşmuştur. Bu kadro 38 kişilik Millî Birlik Komitesi (MBK) çatısı altında bir araya geldiler. Başkan, Cemal Gürsel, üyeler ise Ekrem Acuner, Fazlı Akkoyunlu, Refet Aksoyoğlu, Mucip Ataklı, İrfan Baştuğ, Rıfat Baykal, Emanullah Çelebi, Ahmet Er, Orhan Erkanlı, Vehbi Ersü, Numan Esin, Suphi Gürsoytrak, Orhan Kabibay, Kadri Kaplan, Mustafa Kaplan, Suphi Karaman, Muzaffer Karan, Kamil Karavelioğlu, Osman Köksal, Münir Köseoğlu, Fikret Kuytak, Sami Küçük, Cemal Madanoğlu, Sezai Okan, Muzaffer Özdağ, Fahri Özdilek, Mehmet Özgüneş, Gükran Özkaya, Selahattin Özgür, İrfan Solmazer, Refik Soyuyüce, Dündar Taşer, Haydar Tunçkanat, Alparslan Türkeş, Sıtkı Ulay, Ahmet Yıldız, Muzaffer Yurdakuler'dir.
+    > **Açıklama:** 27 MAYIS 1960 ASKERÎ DARBESİ VE SONRASINDAKİ GELİŞMELER<br />DP iktidarını deviren kadro General Cemal Gürsel liderliğinde 8 yüzbaşı, 10 binbaşı, 7 yarbay, 8 albay ve 5 generalden oluşmuştur. Bu kadro 38 kişilik Millî Birlik Komitesi (MBK) çatısı altında bir araya geldiler. Başkan, Cemal Gürsel, üyeler ise Ekrem Acuner, Fazlı Akkoyunlu, Refet Aksoyoğlu, Mucip Ataklı, İrfan Baştuğ, Rıfat Baykal, Emanullah Çelebi, Ahmet Er, Orhan Erkanlı, Vehbi Ersü, Numan Esin, Suphi Gürsoytrak, Orhan Kabibay, Kadri Kaplan, Mustafa Kaplan, Suphi Karaman, Muzaffer Karan, Kamil Karavelioğlu, Osman Köksal, Münir Köseoğlu, Fikret Kuytak, Sami Küçük, Cemal Madanoğlu, Sezai Okan, Muzaffer Özdağ, Fahri Özdilek, Mehmet Özgüneş, Gükran Özkaya, Selahattin Özgür, İrfan Solmazer, Refik Soyuyüce, Dündar Taşer, Haydar Tunçkanat, Alparslan Türkeş, Sıtkı Ulay, Ahmet Yıldız, Muzaffer Yurdakuler'dir.
 
     <hr />
 1. 24 Aralık 1960 tarihinde darbe teşebbüsü gerçekleştiren kişi, kişiler veya grup aşağıdakilerden hangisidir?
@@ -2668,8 +2502,7 @@
     - **Cevap D-) EMİNSU Derneği Üyeleri**
     - E-) TİP
 
-    > **Açıklama:** 27 MAYIS 1960 ASKERÎ DARBESİ VE SONRASINDAKİ GELİŞMELER
-    > 24 Aralık 1960 tarihinde gerçekleştirilen darbe girişimi 25 Ağustos 1960 tarihinde emekli edilen subayların örgütlendiği EMİNSU (Emekli İnkılap Subaylar) Derneği üyeleri tarafından gerçekleştirilmiştir.
+    > **Açıklama:** 27 MAYIS 1960 ASKERÎ DARBESİ VE SONRASINDAKİ GELİŞMELER<br />24 Aralık 1960 tarihinde gerçekleştirilen darbe girişimi 25 Ağustos 1960 tarihinde emekli edilen subayların örgütlendiği EMİNSU (Emekli İnkılap Subaylar) Derneği üyeleri tarafından gerçekleştirilmiştir.
 
     <hr />
 1. Aşağıdakilerden hangisi 12 Haziran 1960 tarihinde oluşturulan geçici anayasa komisyonu üyesidir?
@@ -2679,8 +2512,7 @@
     - D-) Fazlı Akkoyunlu
     - E-) Talat Aydemir
 
-    > **Açıklama:** 27 MAYIS 1960 ASKERÎ DARBESİ VE SONRASINDAKİ GELİŞMELER
-    > 12 Haziran 1960’ta İstanbul Üniversitesi Rektörü Prof. Dr. Sıddık Sami Onar’ın başkanlığında geçici bir anayasa komisyonu oluşturuldu ve hazırlanan geçici anayasa ile askerî yönetimin hukuki çerçevesi belirlendi. Komisyona çağrılan diğer isimler şunlardır: Naci Şen Soy, Hüseyin Nail Kubalı, Hafız Veldet Velidedeoğlu, Ragıp Sıraca, Tarık Zafer Tunaya, İsmet Giritli, Muammer Raşit Seviğ.
+    > **Açıklama:** 27 MAYIS 1960 ASKERÎ DARBESİ VE SONRASINDAKİ GELİŞMELER<br />12 Haziran 1960’ta İstanbul Üniversitesi Rektörü Prof. Dr. Sıddık Sami Onar’ın başkanlığında geçici bir anayasa komisyonu oluşturuldu ve hazırlanan geçici anayasa ile askerî yönetimin hukuki çerçevesi belirlendi. Komisyona çağrılan diğer isimler şunlardır: Naci Şen Soy, Hüseyin Nail Kubalı, Hafız Veldet Velidedeoğlu, Ragıp Sıraca, Tarık Zafer Tunaya, İsmet Giritli, Muammer Raşit Seviğ.
 
     <hr />
 1. Aşağıdakilerden hangisi "Albaylar Cuntası" olarak da bilinen askeri örgütlenmenin adıdır?
@@ -2690,8 +2522,7 @@
     - D-) 147'ler
     - E-) EMİNSU Derneği
 
-    > **Açıklama:** 27 MAYIS 1960 ASKERÎ DARBESİ VE SONRASINDAKİ GELİŞMELER
-    > Komuta kademesinin “Albaylar Cuntası” olarak adlandırdığı Silahlı Kuvvetler Birliği 14'lerin tasviyesi üzerine Türk Silahlı Kuvvetleri'nde oluşan endişeleri gidermek için kurulmuş ancak kısa sürede MBK'ya karşı bir konuma gelmiştir.
+    > **Açıklama:** 27 MAYIS 1960 ASKERÎ DARBESİ VE SONRASINDAKİ GELİŞMELER<br />Komuta kademesinin “Albaylar Cuntası” olarak adlandırdığı Silahlı Kuvvetler Birliği 14'lerin tasviyesi üzerine Türk Silahlı Kuvvetleri'nde oluşan endişeleri gidermek için kurulmuş ancak kısa sürede MBK'ya karşı bir konuma gelmiştir.
 
     <hr />
 1. Milli Birlik Komitesi’nin sivil yönetime geçiş sürecindeki ilk ciddi adımı aşağıdakilerden hangisidir?
@@ -2701,8 +2532,7 @@
     - D-) İnkılap Mahkemeleri Kanunu'nun çıkarılması
     - E-) 14'lerin Milli Birlik Komitesi'nden tasviye edilmesi
 
-    > **Açıklama:** SİVİL SİYASETE GEÇİŞ ÇABALARI: (1961-1965)
-    > MBK’nin sivil yönetime geçiş sürecinde ilk ciddi adımı 6 Ocak 1961 Kurucu Meclis ile güç ve yetkilerini paylaşması oldu. Milli Birlik Komitesi, yeni anayasanın ülkedeki siyasi güçlerin ve baskı gruplarının daha geniş temsiline dayanan bir Kurucu Meclis tarafından görüşülüp kabul edilmesinden yanaydı. Kurucu Meclis’in oluşması ve çalışma usullerini belirlemek üzere, Ortadoğu Teknik Üniversitesi Rektörü Prof. Dr. Turhan Feyzioğlu başkanlığında Profesör Süheyl Derbil, Profesör Bahri Savcı, Profesör İlhan Arsel ve Doçent Muammer Aksoy’dan oluşan bir bilim kurulu oluşturulmuştu.
+    > **Açıklama:** SİVİL SİYASETE GEÇİŞ ÇABALARI: (1961-1965)<br />MBK’nin sivil yönetime geçiş sürecinde ilk ciddi adımı 6 Ocak 1961 Kurucu Meclis ile güç ve yetkilerini paylaşması oldu. Milli Birlik Komitesi, yeni anayasanın ülkedeki siyasi güçlerin ve baskı gruplarının daha geniş temsiline dayanan bir Kurucu Meclis tarafından görüşülüp kabul edilmesinden yanaydı. Kurucu Meclis’in oluşması ve çalışma usullerini belirlemek üzere, Ortadoğu Teknik Üniversitesi Rektörü Prof. Dr. Turhan Feyzioğlu başkanlığında Profesör Süheyl Derbil, Profesör Bahri Savcı, Profesör İlhan Arsel ve Doçent Muammer Aksoy’dan oluşan bir bilim kurulu oluşturulmuştu.
 
     <hr />
 1. Türkiye'de bir anayasa için yapılan ilk halk oylaması ne zaman yapılmıştır?
@@ -2712,8 +2542,7 @@
     - D-) 27 Mayıs 1960
     - **Cevap E-) 9 Temmuz 1961**
 
-    > **Açıklama:** SİVİL SİYASETE GEÇİŞ ÇABALARI: (1961-1965)
-    > 1960 darbesinden sonra oluşturulan yeni anayasa 9 Temmuz 1961 tarihinde halkoyuna sunuldu. Halk yeni anayasayı %61.5 evet oyuyla kabul etti. Bu Türkiye’de bir anayasa için yapılan ilk halkoylamasıydı.
+    > **Açıklama:** SİVİL SİYASETE GEÇİŞ ÇABALARI: (1961-1965)<br />1960 darbesinden sonra oluşturulan yeni anayasa 9 Temmuz 1961 tarihinde halkoyuna sunuldu. Halk yeni anayasayı %61.5 evet oyuyla kabul etti. Bu Türkiye’de bir anayasa için yapılan ilk halkoylamasıydı.
 
     <hr />
 1. 1960 darbesi sonucu kapatılan Demokrat Parti'nin oylarına talip olarak kurulan siyasi parti aşağıdakilerden hangisidir?
@@ -2723,8 +2552,7 @@
     - D-) Cumhuriyetçi Köylü Millet Partisi
     - E-) Cumhuriyet Halk Partisi
 
-    > **Açıklama:** SİVİL SİYASETE GEÇİŞ ÇABALARI: (1961-1965)
-    > MBK, 13 Ocak 1961 tarihinde siyasal partilerin faaliyetlerine sınırlı ölçüde izin verdi. Karar sonrasında DP’nin kapatılmasından sonra partinin oyları- na talip olmak amacıyla merkez sağda 11 Şubat 1961’de Ragıp Gümüşpala’nın (emekli orgeneral) başkanlığında Adalet Partisi (AP) kuruldu.
+    > **Açıklama:** SİVİL SİYASETE GEÇİŞ ÇABALARI: (1961-1965)<br />MBK, 13 Ocak 1961 tarihinde siyasal partilerin faaliyetlerine sınırlı ölçüde izin verdi. Karar sonrasında DP’nin kapatılmasından sonra partinin oyları- na talip olmak amacıyla merkez sağda 11 Şubat 1961’de Ragıp Gümüşpala’nın (emekli orgeneral) başkanlığında Adalet Partisi (AP) kuruldu.
 
     <hr />
 1. 21 Ekim Protokolü'nün nedeni aşağıdakilerden hangisidir?
@@ -2734,8 +2562,7 @@
     - D-) MBK ile Silahlı Kuvvetler Birliği arasındaki dengelerin tespit edilmesi için
     - E-) Seçimlerin 29 Ekim 1061 tarihinde önce gerçekleştirilmesi için
 
-    > **Açıklama:** SİVİL SİYASETE GEÇİŞ ÇABALARI: (1961-1965)
-    > Talat Aydemir’in öncülük ettiği bazı gruplar, seçimlerin iptal edilmesini, siyasi partilerin ve MBK’nin dağılmasını ve bir askerî cunta rejiminin kurulmasını istiyordu. Bu gruplar arasında siyasete müdahale fikrinin ön plana çıkması üzerine 21 Ekim 1961 tarihinde 10 general 28 albayın katıldığı Harp Akademileri toplantısı sonrasında “21 Ekim Protokolü” olarak anılan bir protokol imza edildi. Buna göre Meclis toplanmadan önce 25 Ekim’de yönetime el konulacaktı.
+    > **Açıklama:** SİVİL SİYASETE GEÇİŞ ÇABALARI: (1961-1965)<br />Talat Aydemir’in öncülük ettiği bazı gruplar, seçimlerin iptal edilmesini, siyasi partilerin ve MBK’nin dağılmasını ve bir askerî cunta rejiminin kurulmasını istiyordu. Bu gruplar arasında siyasete müdahale fikrinin ön plana çıkması üzerine 21 Ekim 1961 tarihinde 10 general 28 albayın katıldığı Harp Akademileri toplantısı sonrasında “21 Ekim Protokolü” olarak anılan bir protokol imza edildi. Buna göre Meclis toplanmadan önce 25 Ekim’de yönetime el konulacaktı.
 
     <hr />
 1. 20-21 Şubat 1963 başarısız darbe girişimini gerçekleştirdiği için idam edilen subay aşağıdakilerden hangisidir?
@@ -2745,8 +2572,7 @@
     - D-) Ahmet Güçal
     - E-) Cevat Kırca
 
-    > **Açıklama:** SİVİL SİYASETE GEÇİŞ ÇABALARI: (1961-1965)
-    > 15 Eylül 1963 tarihinde Talat Aydemir, Fethi Gücran, Osman Deniz, İlhan Baş, Ahmet Güçal, Cevat Kırca ve Erol Dinçer ölüm cezasına çarptırılmış ancak sadece Talat Aydemir ve Fethi Gürcan’ın cezaları 9 Ocak 1964’te mecliste onaylanmış diğerlerinin cezaları müebbet hapse çevrilmiştir. Fethi Gürcan 27 Haziran Talat Aydemir ise 5 Temmuz’da idam edilmiştir.
+    > **Açıklama:** SİVİL SİYASETE GEÇİŞ ÇABALARI: (1961-1965)<br />15 Eylül 1963 tarihinde Talat Aydemir, Fethi Gücran, Osman Deniz, İlhan Baş, Ahmet Güçal, Cevat Kırca ve Erol Dinçer ölüm cezasına çarptırılmış ancak sadece Talat Aydemir ve Fethi Gürcan’ın cezaları 9 Ocak 1964’te mecliste onaylanmış diğerlerinin cezaları müebbet hapse çevrilmiştir. Fethi Gürcan 27 Haziran Talat Aydemir ise 5 Temmuz’da idam edilmiştir.
 
     <hr />
 1. Aşağıdakilerden hangisinde Talat Aydemir'in ikinci darbe girişiminde bulunmuştur?
@@ -2756,8 +2582,7 @@
     - D-) 12 Mart 1971
     - E-) 20 Mayıs 1969
 
-    > **Açıklama:** SİVİL SİYASETE GEÇİŞ ÇABALARI: (1961-1965)
-    > 20-21 Mayıs 1963 başarısız darbe girişimi Albay Talat Aydemir tarafından gerçekleştirilmiş, bu darbe girişimini takip eden süreçte Aydemir yargılanarak idam cezasına çarptırılmıştır.
+    > **Açıklama:** SİVİL SİYASETE GEÇİŞ ÇABALARI: (1961-1965)<br />20-21 Mayıs 1963 başarısız darbe girişimi Albay Talat Aydemir tarafından gerçekleştirilmiş, bu darbe girişimini takip eden süreçte Aydemir yargılanarak idam cezasına çarptırılmıştır.
 
     <hr />
 1. 27 Mayıs 1960 darbesi ile ilgili aşağıdakilerden hangisine ulaşılabilir?
@@ -2867,10 +2692,7 @@
     - D-) Yüksek Adalet Komitesi (YAK)
     - E-) Silahlı Kuvvetler Birliği (SKB)
 
-    > **Açıklama:** Yanıtınız yanlış ise "27 Mayıs 1960 Askerî Darbesi ve Sonrasındaki Gelişmeler" konusunu yeniden gözden geçiriniz.
-    > DP iktidarını deviren kadro General Cemal Gürsel liderliğinde 8 yüzbaşı, 10 binbaşı, 7 yarbay,
-    > 8 albay ve 5 generalden oluşmuştur. Bu kadro 38 kişilik Millî Birlik Komitesi (MBK) çatısı altında
-    > bir araya geldiler.
+    > **Açıklama:** Yanıtınız yanlış ise "27 Mayıs 1960 Askerî Darbesi ve Sonrasındaki Gelişmeler" konusunu yeniden gözden geçiriniz.<br />DP iktidarını deviren kadro General Cemal Gürsel liderliğinde 8 yüzbaşı, 10 binbaşı, 7 yarbay,<br />8 albay ve 5 generalden oluşmuştur. Bu kadro 38 kişilik Millî Birlik Komitesi (MBK) çatısı altında<br />bir araya geldiler.
 
     <hr />
 1. Aşağıdakilerden hangisi MBK'nin yapmış olduğu tasfiyeler arasında **yer** **almaz?**
@@ -2880,9 +2702,7 @@
     - D-) 14'lerin tasfiyesi
     - **Cevap E-) Özel kuruluşlardaki tasfiyeler**
 
-    > **Açıklama:** Yanıtınız yanlış ise "27 Mayıs 1960 Askerî Darbesi ve Sonrasındaki Gelişmeler" konusunu yeniden gözden geçiriniz.
-    > MBK’nin 1960 yazında aldığı önemli kararlar hayli yankı uyandırdı. Bu kararlardan ilki, Türk
-    > silahlı kuvvetlerinde yapılan geniş bir tasfiye hareketi idi. MBK’nin Türk Silahlı Kuvvetlerinde gerçekleştirdiği tasfiyeden sonra ikinci büyük tasfiye girişiminin merkezi üniversiteler oldu. MBK’nin gündemindeki diğer bir tasfiye de Yüksek Yargı’da yapıldı. Ayrıca 13 Kasım 1960 tasfiye için harekete geçilerek radikal olarak değerlendirilen MBK’nin 14 üyesi tasfiye edilerek çeşitli görevlerle yurt dışına gönderildi ve iki yıl ülkeye dönüşleri engellendi.
+    > **Açıklama:** Yanıtınız yanlış ise "27 Mayıs 1960 Askerî Darbesi ve Sonrasındaki Gelişmeler" konusunu yeniden gözden geçiriniz.<br />MBK’nin 1960 yazında aldığı önemli kararlar hayli yankı uyandırdı. Bu kararlardan ilki, Türk<br />silahlı kuvvetlerinde yapılan geniş bir tasfiye hareketi idi. MBK’nin Türk Silahlı Kuvvetlerinde gerçekleştirdiği tasfiyeden sonra ikinci büyük tasfiye girişiminin merkezi üniversiteler oldu. MBK’nin gündemindeki diğer bir tasfiye de Yüksek Yargı’da yapıldı. Ayrıca 13 Kasım 1960 tasfiye için harekete geçilerek radikal olarak değerlendirilen MBK’nin 14 üyesi tasfiye edilerek çeşitli görevlerle yurt dışına gönderildi ve iki yıl ülkeye dönüşleri engellendi.
 
     <hr />
 1. Aşağıdakilerden hangisi "İnkılap Mahkemeleri Kanunu"nun çıkarıldığı tarihtir?
@@ -2892,9 +2712,7 @@
     - D-) 28 Haziran 1961
     - E-) 6 Eylül 1961
 
-    > **Açıklama:** Yanıtınız yanlış ise "Yassıada Yargılamaları ve İdam Kararları" konusunu yeniden gözden
-    > geçiriniz.
-    > 1960 darbesine karşı gelişebilecek muhalefetin ve karşı koyuşların önüne geçilmesi için 2 Ağustos 1960 tarihinde "İnkılap Mahkemeleri Kanunu" çıkarıldı. Buna göre devlet başkanı ya da MBK üyelerine herhangi bir sözlü yazılı ya da fiilen tecavüz edenler 5 ile 15 yıla kadar ağır hapisle cezalandırılacaklardı.
+    > **Açıklama:** Yanıtınız yanlış ise "Yassıada Yargılamaları ve İdam Kararları" konusunu yeniden gözden<br />geçiriniz.<br />1960 darbesine karşı gelişebilecek muhalefetin ve karşı koyuşların önüne geçilmesi için 2 Ağustos 1960 tarihinde "İnkılap Mahkemeleri Kanunu" çıkarıldı. Buna göre devlet başkanı ya da MBK üyelerine herhangi bir sözlü yazılı ya da fiilen tecavüz edenler 5 ile 15 yıla kadar ağır hapisle cezalandırılacaklardı.
 
     <hr />
 1. Aşağıdakilerden hangisi 16 Ekim 1958’de Cumhuriyetçi Millet Partisi ile Türkiye Köylü Partisi’nin<br />birleşmesi ile oluşan siyasal partidir?
@@ -2904,8 +2722,7 @@
     - **Cevap D-) Cumhuriyetçi Köylü Millet Partisi**
     - E-) Milliyetçi Hareket Partisi
 
-    > **Açıklama:** Yanıtınız yanlış ise "Yeni Siyasi Partiler" konusunu yeniden gözden geçiriniz.
-    > Darbe sonrasının siyasal ortamında DP’nin oylarına talip olma noktasında yeni kurulan partiler arasında en etkili olan iki parti AP ve YTP oldu. Bu iki partiye 16 Ekim 1958’de Cumhuriyetçi Millet Partisi ile Türkiye Köylü Partisi’nin birleşmesi ile oluşan ve Genel Başkanlığını Osman Bölükbaşı’nın yaptığı Cumhuriyetçi Köylü Millet Partisi ile birlikte siyasal yaşamlarında Demokrat Parti’nin mirasçısı olduklarını belirterek faaliyetlerini sürdürdüler. Karizmatik bir lider olarak ön plana çıkan Bölükbaşı, DP döneminde adeta tek başına DP yönetimine meydan okumuş ve mücadele etmişti. Bu parti 1960’lı yılların sonunda Milliyetçi Hareket Partisi’ne (MHP) dönüşecektir.
+    > **Açıklama:** Yanıtınız yanlış ise "Yeni Siyasi Partiler" konusunu yeniden gözden geçiriniz.<br />Darbe sonrasının siyasal ortamında DP’nin oylarına talip olma noktasında yeni kurulan partiler arasında en etkili olan iki parti AP ve YTP oldu. Bu iki partiye 16 Ekim 1958’de Cumhuriyetçi Millet Partisi ile Türkiye Köylü Partisi’nin birleşmesi ile oluşan ve Genel Başkanlığını Osman Bölükbaşı’nın yaptığı Cumhuriyetçi Köylü Millet Partisi ile birlikte siyasal yaşamlarında Demokrat Parti’nin mirasçısı olduklarını belirterek faaliyetlerini sürdürdüler. Karizmatik bir lider olarak ön plana çıkan Bölükbaşı, DP döneminde adeta tek başına DP yönetimine meydan okumuş ve mücadele etmişti. Bu parti 1960’lı yılların sonunda Milliyetçi Hareket Partisi’ne (MHP) dönüşecektir.
 
     <hr />
 1. Aşağıdakilerden hangisi "21 Ekim Protokolü" olarak anılan protokolün imzalanma sonrasında parti liderlerinin aldığı kararlar arasında **yer** **almaz?**
@@ -2915,11 +2732,7 @@
     - D-) Cemal Gürsel’in Cumhurbaşkanı olması.
     - E-) İsmet İnönü’nün Başbakan olması
 
-    > **Açıklama:** Yanıtınız yanlış ise "Silahlı Kuvvetlerde Hareketlilik ve 21 Ekim Protokolü" konusunu yeniden gözden
-    > geçiriniz.
-    > 21 Ekim 1961 tarihinde 10 general 28 albayın katıldığı Harp Akademileri toplantısı sonrasında "21
-    > Ekim Protokolü" olarak anılan bir protokol imza edildi. Buna göre Meclis toplanmadan önce 25
-    > Ekim’de yönetime el konulacaktı. MBK dışında şekillenen bu girişim, Genelkurmay Başkanı Orgeneral Cevdet Sunay’ın devreye girmesi ile engellendi. Genelkurmay Başkanı Cevdet Sunay’ın aracılığıyla dönemin parti liderleri Çankaya Köşkü’nde toplanarak; "MBK’nin emekliye sevk ettiği subayların görevlerine iade edilmemesi", "Yassıada’da mahkûmnedilen DP’lilere genel af çıkarılmaması", "Cemal Gürsel’in Cumhurbaşkanı, İsmet İnönü’nün de Başbakan" olması şartıyla parlamenter demokrasiye devam edileceği kararı alınmıştır.
+    > **Açıklama:** Yanıtınız yanlış ise "Silahlı Kuvvetlerde Hareketlilik ve 21 Ekim Protokolü" konusunu yeniden gözden<br />geçiriniz.<br />21 Ekim 1961 tarihinde 10 general 28 albayın katıldığı Harp Akademileri toplantısı sonrasında "21<br />Ekim Protokolü" olarak anılan bir protokol imza edildi. Buna göre Meclis toplanmadan önce 25<br />Ekim’de yönetime el konulacaktı. MBK dışında şekillenen bu girişim, Genelkurmay Başkanı Orgeneral Cevdet Sunay’ın devreye girmesi ile engellendi. Genelkurmay Başkanı Cevdet Sunay’ın aracılığıyla dönemin parti liderleri Çankaya Köşkü’nde toplanarak; "MBK’nin emekliye sevk ettiği subayların görevlerine iade edilmemesi", "Yassıada’da mahkûmnedilen DP’lilere genel af çıkarılmaması", "Cemal Gürsel’in Cumhurbaşkanı, İsmet İnönü’nün de Başbakan" olması şartıyla parlamenter demokrasiye devam edileceği kararı alınmıştır.
 
     <hr />
 1. Aşağıdakilerden hangisi Kıbrıs'taki ilk Türk hava şehididir?
@@ -2929,8 +2742,7 @@
     - D-) Mehmet Konedralı
     - E-) Ethem Sancar
 
-    > **Açıklama:** Yanıtınız yanlış ise " 1964 Kıbrıs Olayı ve Jonson Mektubu" konusunu yeniden gözden geçiriniz.
-    > Şehit Yüzbaşı Cengiz Topel, 8 Ağustos 1964 tarihinde Kıbrıs Harekatı sırasında Eskişehir´den Kıbrıs'a, dörtlü kol komutanı olarak gönderildi. F-100 uçağıyla uçuş esnasında, uçağı yerden isabet alarak düşürüldü. Paraşütle atlamayı başardı, fakat Rumlar tarafından esir alındı. Rumların işkenceleri sonucunda hayatını kaybeden Cengiz Topel, Kıbrıs’taki ilk Türk hava harp şehididir.
+    > **Açıklama:** Yanıtınız yanlış ise " 1964 Kıbrıs Olayı ve Jonson Mektubu" konusunu yeniden gözden geçiriniz.<br />Şehit Yüzbaşı Cengiz Topel, 8 Ağustos 1964 tarihinde Kıbrıs Harekatı sırasında Eskişehir´den Kıbrıs'a, dörtlü kol komutanı olarak gönderildi. F-100 uçağıyla uçuş esnasında, uçağı yerden isabet alarak düşürüldü. Paraşütle atlamayı başardı, fakat Rumlar tarafından esir alındı. Rumların işkenceleri sonucunda hayatını kaybeden Cengiz Topel, Kıbrıs’taki ilk Türk hava harp şehididir.
 
     <hr />
 1. Aşağıdakilerden hangisi Alevilerin siyasal örgütü olarak kurulan Türkiye'nin ilk din-cemaat partisidir?
@@ -2940,9 +2752,7 @@
     - D-) Demokratik Birlik Partisi
     - **Cevap E-) Birlik Partisi**
 
-    > **Açıklama:** Yanıtınız yanlış ise "Partilerde Ayrışmalar ve Yeni Siyasi Partiler" konusunu yeniden gözden
-    > geçiriniz.
-    > 1969 genel seçimlerine doğru siyasal hayatta önemli gelişmeler yaşanmıştı. 1966 yılında Türkiye’de bir ilk daha yaşanmıştır. Alevilerin siyasal örgütü olarak 17 Ekim 1966’da Birlik Partisi kuruldu. Partinin ilk genel başkanı Tuğgeneral Hasan Tahsin Berkman idi. Parti Türkiye’nin ilk din-cemaat partisiydi. Ambleminde Hazreti Ali’yi simgeleyen bir aslan ve onun etrafında 12 imamı simgeleyen 12 yıldız bulunuyordu. Partinin öncelikli meselesi Diyanet İşleri Başkanlığının lağvedilmesi idi. Ancak parti 1967’de bölündü. Partiden ayrılan grup Demokratik Birlik Partisi’ni kurdu. Ancak bu parti de uzun ömürlü olmadı.
+    > **Açıklama:** Yanıtınız yanlış ise "Partilerde Ayrışmalar ve Yeni Siyasi Partiler" konusunu yeniden gözden<br />geçiriniz.<br />1969 genel seçimlerine doğru siyasal hayatta önemli gelişmeler yaşanmıştı. 1966 yılında Türkiye’de bir ilk daha yaşanmıştır. Alevilerin siyasal örgütü olarak 17 Ekim 1966’da Birlik Partisi kuruldu. Partinin ilk genel başkanı Tuğgeneral Hasan Tahsin Berkman idi. Parti Türkiye’nin ilk din-cemaat partisiydi. Ambleminde Hazreti Ali’yi simgeleyen bir aslan ve onun etrafında 12 imamı simgeleyen 12 yıldız bulunuyordu. Partinin öncelikli meselesi Diyanet İşleri Başkanlığının lağvedilmesi idi. Ancak parti 1967’de bölündü. Partiden ayrılan grup Demokratik Birlik Partisi’ni kurdu. Ancak bu parti de uzun ömürlü olmadı.
 
     <hr />
 1. Aşağıdakilerden hangisi 12 Mart 1971 Muhtırası'nın oluşmasına neden olan nedenler arasında **yer almaz?**
@@ -2952,8 +2762,7 @@
     - D-) Ekonominin kötü gidişatı
     - E-) Hükümet hakkındaki yolsuzluk iddiaları.
 
-    > **Açıklama:** Yanıtınız yanlış ise "1969 Seçimleri (12 Ekim 1969) ve 12 Mart 1971 Muhtırası" konusunu yeniden gözden geçiriniz.
-    > 1970'lerde siyasetteki istikrarsızlık ekonomiye de kısa süre içinde yansıdı. Hükûmet 9 Ağustos 1970’te devalüasyon yaparak 1 doların karşılığını 9 TL’den 15 TL’ye çıkardı. Bu arada hükûmet hakkındaki yolsuzluk iddiaları da kamuoyu tarafından yakından takip ediliyordu. Hükûmet öğrenci olaylarına ve işçi hareketlerine engel olamıyordu. Bu ortamda Hükûmetin DİSK’in sendikal faaliyetlerini sınırlayan bir yasa tasarısı hazırlaması üzerine Türkiye’nin ilk büyük kitlesel işçi hareketi gündeme geldi. 15-26 Haziran 1970’de işçiler sokağa inerek İstanbul ve Kocaeli’nde ana yolları keserek dev mitingler düzenledi. Can kaybının yaşandığı olaylar çıktı. Süleyman Demirel sağ ve sol öğrenci grupları arasındaki çatışmaları ve işçi mitinglerini, ekonominin kötü gidişatını önleyemiyordu. Durum ordu içinde de rahatsızlıklara ve müdahale fikrinin gündeme gelmesine neden oldu. Gelişmeler üzerine Orgeneral Memduh Tağmaç, başta Kara Kuvvetleri Komutanı Faruk Gürler, Hava Kuvvetleri Komutanı Orgeneral Muhsin Batur olmak üzere kuvvet komutanlarının desteğini alarak harekete geçti. Genişletilmiş Komuta Konseyi Toplantıları sonucunda hükûmete verilmek üzere bir muhtıra hazırlandı. 12 Mart günü TRT’nin Ankara merkezinden haberlerde okunan ordunun yüksek komuta kademesinin eksiksiz imzaladığı muhtırada ordu, hükûmet ve parlamento suçlanarak mevcut durumun sorumluları olarak gösteriyordu. Partiler üstü bir anlayışla kuvvetli ve inandırıcı bir hükûmete ihtiyaç olduğu, aksi takdirde idareyi doğrudan üzerlerine alacaklarını açıkladılar. Başbakan Demirel, 12 Mart Muhtırasına fazla direnmeden istifa etti. Hemen arkasından da 11 ilde sıkıyönetim ilan edildi.
+    > **Açıklama:** Yanıtınız yanlış ise "1969 Seçimleri (12 Ekim 1969) ve 12 Mart 1971 Muhtırası" konusunu yeniden gözden geçiriniz.<br />1970'lerde siyasetteki istikrarsızlık ekonomiye de kısa süre içinde yansıdı. Hükûmet 9 Ağustos 1970’te devalüasyon yaparak 1 doların karşılığını 9 TL’den 15 TL’ye çıkardı. Bu arada hükûmet hakkındaki yolsuzluk iddiaları da kamuoyu tarafından yakından takip ediliyordu. Hükûmet öğrenci olaylarına ve işçi hareketlerine engel olamıyordu. Bu ortamda Hükûmetin DİSK’in sendikal faaliyetlerini sınırlayan bir yasa tasarısı hazırlaması üzerine Türkiye’nin ilk büyük kitlesel işçi hareketi gündeme geldi. 15-26 Haziran 1970’de işçiler sokağa inerek İstanbul ve Kocaeli’nde ana yolları keserek dev mitingler düzenledi. Can kaybının yaşandığı olaylar çıktı. Süleyman Demirel sağ ve sol öğrenci grupları arasındaki çatışmaları ve işçi mitinglerini, ekonominin kötü gidişatını önleyemiyordu. Durum ordu içinde de rahatsızlıklara ve müdahale fikrinin gündeme gelmesine neden oldu. Gelişmeler üzerine Orgeneral Memduh Tağmaç, başta Kara Kuvvetleri Komutanı Faruk Gürler, Hava Kuvvetleri Komutanı Orgeneral Muhsin Batur olmak üzere kuvvet komutanlarının desteğini alarak harekete geçti. Genişletilmiş Komuta Konseyi Toplantıları sonucunda hükûmete verilmek üzere bir muhtıra hazırlandı. 12 Mart günü TRT’nin Ankara merkezinden haberlerde okunan ordunun yüksek komuta kademesinin eksiksiz imzaladığı muhtırada ordu, hükûmet ve parlamento suçlanarak mevcut durumun sorumluları olarak gösteriyordu. Partiler üstü bir anlayışla kuvvetli ve inandırıcı bir hükûmete ihtiyaç olduğu, aksi takdirde idareyi doğrudan üzerlerine alacaklarını açıkladılar. Başbakan Demirel, 12 Mart Muhtırasına fazla direnmeden istifa etti. Hemen arkasından da 11 ilde sıkıyönetim ilan edildi.
 
     <hr />
 1. Aşağıdakilerden hangisi I. ve II Nihat Erim Hükûmeti döneminde yaşanan gelişmeler arasında **yer almaz?**
@@ -2963,8 +2772,7 @@
     - **Cevap D-) Nihat Erim 17 Nisan 1972 tarihinde başbakanlık görevinden alındı.**
     - E-) Pek çok akademisyen ve aydına yönelik tutuklamalar.
 
-    > **Açıklama:** Yanıtınız yanlış ise "Ara Rejim Hükûmetlerinin Kuruluşu: I. ve II. Nihat Erim Hükûmetleri" konusunu yeniden gözden geçiriniz.
-    > Türk siyasetinde ara dönem olarak da nitelendirilen 12 Mart Muhtırası sonrasında iki hükûmet kuran Nihat Erim, ilk hükûmeti döneminde artan sokak olayları ve silahlı çatışmayı önlemek için sıkıyönetim ilanı ile işe başladı. İlan edilen sıkıyönetimin ardından 20 Mart’ta MNP, Anayasanın laik devlet niteliğinin ve Atatürk devrimciliğinin korunması ilkelerine aykırı bulunması nedeniyle 21 Temmuz’da da TİP "bölücülük" gerekçesiyle kapatıldı. 30 Haziran 1971’de 1961 Anayasasının siyasal ve ekonomik özgürlükleriyle ilgili maddelerinde hükûmetin elini kuvvetlendirecek düzenlemeler yapıldı. Gençlik örgütleri dağıtıldı, sendikal faaliyetler yasaklandı. Bazı basın yayın organları kapatıldı. Pek çok akademisyen ve aydına yönelik kapsamlı tutuklamalar başladı. Deniz Gezmiş, Hüseyin İnan ve Yusuf Aslan’a verilen idam cezaları 10 Mart 1972’de Meclis tarafından onayladı. II. Erim Hükûmeti de beklentilere cevap vermekten uzaktı. Nihat Erim başbakanlık görevinden 17 Nisan 1972’de istifa etmek suretiyle ayrılmak zorunda kaldı.
+    > **Açıklama:** Yanıtınız yanlış ise "Ara Rejim Hükûmetlerinin Kuruluşu: I. ve II. Nihat Erim Hükûmetleri" konusunu yeniden gözden geçiriniz.<br />Türk siyasetinde ara dönem olarak da nitelendirilen 12 Mart Muhtırası sonrasında iki hükûmet kuran Nihat Erim, ilk hükûmeti döneminde artan sokak olayları ve silahlı çatışmayı önlemek için sıkıyönetim ilanı ile işe başladı. İlan edilen sıkıyönetimin ardından 20 Mart’ta MNP, Anayasanın laik devlet niteliğinin ve Atatürk devrimciliğinin korunması ilkelerine aykırı bulunması nedeniyle 21 Temmuz’da da TİP "bölücülük" gerekçesiyle kapatıldı. 30 Haziran 1971’de 1961 Anayasasının siyasal ve ekonomik özgürlükleriyle ilgili maddelerinde hükûmetin elini kuvvetlendirecek düzenlemeler yapıldı. Gençlik örgütleri dağıtıldı, sendikal faaliyetler yasaklandı. Bazı basın yayın organları kapatıldı. Pek çok akademisyen ve aydına yönelik kapsamlı tutuklamalar başladı. Deniz Gezmiş, Hüseyin İnan ve Yusuf Aslan’a verilen idam cezaları 10 Mart 1972’de Meclis tarafından onayladı. II. Erim Hükûmeti de beklentilere cevap vermekten uzaktı. Nihat Erim başbakanlık görevinden 17 Nisan 1972’de istifa etmek suretiyle ayrılmak zorunda kaldı.
 
     <hr />
 1. Aşağıdakilerden hangisi Ferit Melen hükümetinin en önemli siyasi faaliyeti olan Cumhurbaşkanlığı seçimi sonucu Başbakan Ferit Melen'in istifa etmesine neden olan Cumhurbaşkanıdır?
@@ -2974,9 +2782,7 @@
     - D-) Ferruh Bozbeyli
     - E-) Naim Talu
 
-    > **Açıklama:** Yanıtınız yanlış ise "Ferit Melen ve Naim Talu Hükümetleri" konusunu yeniden gözden geçiriniz.
-    > Nihat Erim’in istifasından sonra 19 Mayıs’ta yeni hükûmeti kurma görevi Ferit Melen’e verildi.
-    > Yeni kabine 5 Haziran 1972’de güvenoyu alarak göreve başladı. Melen Hükûmeti döneminde sıkıyönetim rejimine devam edildi. Çeşitli gerekçelerle yazar, gazeteci ve siyasetçilerin tutuklanmalarına devam edildi. Bu hükûmet döneminin en önemli siyasi faaliyeti cumhurbaşkanlığı seçimiydi. Ordunun adayı General Faruk Gürler, AP’nin adayı Tekin Arıburnu ve DP’nin adayı ise Ferruh Bozbeyli’ydi. Seçimleri Arıburnu önde tamamladı fakat Anayasanın öngördüğü yeterli çoğunluğa ulaşamadığı için seçilemedi. Bu gelişme üzerine CHP’nin 5. Olağanüstü Kurultayında İsmet İnönü’ye karşı 14 Mayıs 1972’de CHP’nin yeni başkanı olarak seçilen Bülent Ecevit ve AP lideri Süleyman Demirel anlaşarak ortak bir aday çıkardılar. İki partinin adayı asker ve diplomat kökenli Fahri Korutürk, 6 Nisan 1973’te Cumhurbaşkanı seçildi.
+    > **Açıklama:** Yanıtınız yanlış ise "Ferit Melen ve Naim Talu Hükümetleri" konusunu yeniden gözden geçiriniz.<br />Nihat Erim’in istifasından sonra 19 Mayıs’ta yeni hükûmeti kurma görevi Ferit Melen’e verildi.<br />Yeni kabine 5 Haziran 1972’de güvenoyu alarak göreve başladı. Melen Hükûmeti döneminde sıkıyönetim rejimine devam edildi. Çeşitli gerekçelerle yazar, gazeteci ve siyasetçilerin tutuklanmalarına devam edildi. Bu hükûmet döneminin en önemli siyasi faaliyeti cumhurbaşkanlığı seçimiydi. Ordunun adayı General Faruk Gürler, AP’nin adayı Tekin Arıburnu ve DP’nin adayı ise Ferruh Bozbeyli’ydi. Seçimleri Arıburnu önde tamamladı fakat Anayasanın öngördüğü yeterli çoğunluğa ulaşamadığı için seçilemedi. Bu gelişme üzerine CHP’nin 5. Olağanüstü Kurultayında İsmet İnönü’ye karşı 14 Mayıs 1972’de CHP’nin yeni başkanı olarak seçilen Bülent Ecevit ve AP lideri Süleyman Demirel anlaşarak ortak bir aday çıkardılar. İki partinin adayı asker ve diplomat kökenli Fahri Korutürk, 6 Nisan 1973’te Cumhurbaşkanı seçildi.
 
     <hr />
 1. Türkiye'de Demokrat Parti döneminde partinin muhalefet partilerine baskı uygulamak için aşağıdaki komisyonlar hangisini oluşturmuştur?
@@ -2986,9 +2792,7 @@
     - **Cevap D-) Tahkikat Komisyonu**
     - E-) Bakanlık Komisyonu
 
-    > **Açıklama:** 14 Mayıs 1950 Genel seçimleri sonunda iktidara gelen DP’yi askerin büyük bir kısmı desteklemişti.
-    > Ancak ordu içindeki tasfiyeler, alt rütbeli subayların rahatsızlığının büyümesi, ekonomik sıkıntıların büyümesi huzursuzluğun artmasına neden oldu. 1954 yılından itibaren hızla örgütlenen cuntalar DP’nin
-    > anti demokratik icraatları nedeniyle hızla organize olmaya ve büyümeye başladı. DP’nin **Tahkikat Komisyonu** kurarak muhalefetin üzerine gitmesi ordudaki huzursuzluğu arttırdığı gibi üniversite gençliğinin de sokağa çıkmasına neden oldu.
+    > **Açıklama:** 14 Mayıs 1950 Genel seçimleri sonunda iktidara gelen DP’yi askerin büyük bir kısmı desteklemişti.<br />Ancak ordu içindeki tasfiyeler, alt rütbeli subayların rahatsızlığının büyümesi, ekonomik sıkıntıların büyümesi huzursuzluğun artmasına neden oldu. 1954 yılından itibaren hızla örgütlenen cuntalar DP’nin<br />anti demokratik icraatları nedeniyle hızla organize olmaya ve büyümeye başladı. DP’nin **Tahkikat Komisyonu** kurarak muhalefetin üzerine gitmesi ordudaki huzursuzluğu arttırdığı gibi üniversite gençliğinin de sokağa çıkmasına neden oldu.
 
     <hr />
 1. 5 Ocak 1961 yılına kadar görev alan 27 Mayıs 1960 devrimi sonrası kurulan hükümette bulunan Cemal Gürsel'e aşağıdaki görevlerden hangisi verilmemiştir.
@@ -2998,8 +2802,7 @@
     - D-) MBK (Milli Birlik Komitesi) Başkanı
     - E-) Başbakan
 
-    > **Açıklama:** İlk olarak TBMM ve hükûmet feshedildi. Her türlü siyasal faaliyet yasaklandı. Hareketin hiçbir şahıs ya da zümreye yapılmadığı açıklansa da Cumhurbaşkanı Celal Bayar, TBMM Başkanı Refik Koraltan, Başbakan Adnan Menderes, Bakanlar Kurulu üyeleri ve Demokrat Partili milletvekilleri tutuklanarak Yassıada’ya gönderildi. Gürsel, **Devlet Başkanı, Başbakan, Başkomutan ve MBK başkanı** yapıldı. Ardından teknokrat bakanlardan oluşan bir kabine kuruldu. Bu hükûmet 5 Ocak 1961 tarihine kadar görevde kaldı. 12 Haziran 1960’ta İstanbul Üniversitesi Rektörü Prof. Dr. Sıddık Sami Onar’ın başkanlığında geçici bir anayasa komisyonu oluşturuldu ve hazırlanan geçici anayasa ile askerî yönetimin hukuki çerçevesi belirlendi.
-    > Yukarıda koyu renkle belirtilen görevler Cemal Gürsel'e verilmiştir. "B" şıkkındaki Meclis Başkanlığı görevi verilmemiştir.
+    > **Açıklama:** İlk olarak TBMM ve hükûmet feshedildi. Her türlü siyasal faaliyet yasaklandı. Hareketin hiçbir şahıs ya da zümreye yapılmadığı açıklansa da Cumhurbaşkanı Celal Bayar, TBMM Başkanı Refik Koraltan, Başbakan Adnan Menderes, Bakanlar Kurulu üyeleri ve Demokrat Partili milletvekilleri tutuklanarak Yassıada’ya gönderildi. Gürsel, **Devlet Başkanı, Başbakan, Başkomutan ve MBK başkanı** yapıldı. Ardından teknokrat bakanlardan oluşan bir kabine kuruldu. Bu hükûmet 5 Ocak 1961 tarihine kadar görevde kaldı. 12 Haziran 1960’ta İstanbul Üniversitesi Rektörü Prof. Dr. Sıddık Sami Onar’ın başkanlığında geçici bir anayasa komisyonu oluşturuldu ve hazırlanan geçici anayasa ile askerî yönetimin hukuki çerçevesi belirlendi.<br />Yukarıda koyu renkle belirtilen görevler Cemal Gürsel'e verilmiştir. "B" şıkkındaki Meclis Başkanlığı görevi verilmemiştir.
 
     <hr />
 1. 27 Mayıs 1960 ihtilalinden sonra çıkartılan Üniversitelerdeki profesörlerin tasfiye kararı neticesinde aşağıdaki seçeneklerden hangisi gerçekleşmiştir?
@@ -3069,10 +2872,7 @@
     - **Cevap D-) Cengiz Topel**
     - E-) Hüseyin İnan
 
-    > **Açıklama:** Şehit Yüzbaşı **Cengiz Topel**, 8 Ağustos 1964 tarihinde Kıbrıs Harekatı sırasında Eskişehir´den Kıbrıs´a,
-    > dörtlü kol komutanı olarak gönderildi. F-100 uçağıyla uçuş esnasında, uçağı yerden isabet alarak düşürüldü. Paraşütle atlamayı başardı, fakat Rumlar tarafından esir alındı. Rumların işkenceleri sonucunda
-    > hayatını kaybeden Cengiz Topel, Kıbrıs’taki ilk Türk
-    > hava harp şehididir.
+    > **Açıklama:** Şehit Yüzbaşı **Cengiz Topel**, 8 Ağustos 1964 tarihinde Kıbrıs Harekatı sırasında Eskişehir´den Kıbrıs´a,<br />dörtlü kol komutanı olarak gönderildi. F-100 uçağıyla uçuş esnasında, uçağı yerden isabet alarak düşürüldü. Paraşütle atlamayı başardı, fakat Rumlar tarafından esir alındı. Rumların işkenceleri sonucunda<br />hayatını kaybeden Cengiz Topel, Kıbrıs’taki ilk Türk<br />hava harp şehididir.
 
     <hr />
 1. Taksimde düzenlenen 1 Mayıs kutlamalarında büyük kargaşa ve katliamın yaşandığı yıl aşağı seçeneklerden hangisindedir?
@@ -3092,17 +2892,7 @@
     - **Cevap D-) Cemal Gürsel**
     - E-) Numan Esin
 
-    > **Açıklama:** Alparslan Türkeş’in önderliğinde Dündar Taşer, Muzaffer Özdağ gibi radikaller olarak değerlendirilen grubun en aktif isimleri arasındaydılar. Gürsel ve generaller ise birinci grupta yani ılımlılar grubundaydılar. 14'ler: Kurmay Albay **Alparslan Türkeş**, Yeni Delhi;
-    > Kurmay Yarbay **Orhan Kabibay**, Brüksel; Kurmay, Binbaşı Orhan Erkanlı, Meksika; Deniz
-    > Kurmay Binbaşı Münir Köseoğlu, Stockholm;
-    > Kurmay Albay Mustafa Kaplan, Lizbon; Tankçı
-    > Binbaşı Muzaffer Karan, Oslo; Kurmay Binbaşı
-    > Şefik Soyuyüce, Kopenhag; Piyade Binbaşı Fazıl
-    > Akkoyunlu, Kabil; Deniz Kıdemli Yüzbaşı Rıfat
-    > Baykal, Tel Aviv; Kurmay Binbaşı Dündar Taşer,
-    > Rabat; Kurmay Yüzbaşı **Numan Esin**, Madrid;
-    > Kurmay Yüzbaşı **İrfan Solmazer**, Lahey; Kurmay
-    > Yüzbaşı Muzaffer Özdağ, Tokyo; Jandarma Yüzbaşı Ahmet Er, Trablusgarp
+    > **Açıklama:** Alparslan Türkeş’in önderliğinde Dündar Taşer, Muzaffer Özdağ gibi radikaller olarak değerlendirilen grubun en aktif isimleri arasındaydılar. Gürsel ve generaller ise birinci grupta yani ılımlılar grubundaydılar. 14'ler: Kurmay Albay **Alparslan Türkeş**, Yeni Delhi;<br />Kurmay Yarbay **Orhan Kabibay**, Brüksel; Kurmay, Binbaşı Orhan Erkanlı, Meksika; Deniz<br />Kurmay Binbaşı Münir Köseoğlu, Stockholm;<br />Kurmay Albay Mustafa Kaplan, Lizbon; Tankçı<br />Binbaşı Muzaffer Karan, Oslo; Kurmay Binbaşı<br />Şefik Soyuyüce, Kopenhag; Piyade Binbaşı Fazıl<br />Akkoyunlu, Kabil; Deniz Kıdemli Yüzbaşı Rıfat<br />Baykal, Tel Aviv; Kurmay Binbaşı Dündar Taşer,<br />Rabat; Kurmay Yüzbaşı **Numan Esin**, Madrid;<br />Kurmay Yüzbaşı **İrfan Solmazer**, Lahey; Kurmay<br />Yüzbaşı Muzaffer Özdağ, Tokyo; Jandarma Yüzbaşı Ahmet Er, Trablusgarp
 
     <hr />
 1. Aşağıdakilerden hangisi 1960 'lı yıllarda kurulan partilerden biri **değildir**?
@@ -3112,9 +2902,7 @@
     - D-) Cumhuriyetçi Köylü Millet Partisi
     - E-) Türkiye İşçi Partisi
 
-    > **Açıklama:** 15 Ekim **1973**’te yapılan seçimlere mevcut
-    > partilerin tamamı ile 12 Mart Muhtırasının henüz başında kapatılan MNP yerine 11 Ekim
-    > 1972’de kurulan **Millî Selamet Partisi** (MSP) katıldı.
+    > **Açıklama:** 15 Ekim **1973**’te yapılan seçimlere mevcut<br />partilerin tamamı ile 12 Mart Muhtırasının henüz başında kapatılan MNP yerine 11 Ekim<br />1972’de kurulan **Millî Selamet Partisi** (MSP) katıldı.
 
     <hr />
 1. 15 Ekim 1961 yılında yapılan darba sonrası ilk seçime aşağıdaki partilerden hangisi **katılmamıştır**?
@@ -3124,9 +2912,7 @@
     - D-) Cumhuriyetçi Köylü Millet Partisi
     - E-) Cumhuriyet Halk Partisi
 
-    > **Açıklama:** Darbe sonrasında ilk seçimler, 15 Ekim 1961 tarihinde yapıldı. Seçimlere, CHP’nin dışında yeni
-    > kurulan; Adalet Partisi (AP), Yeni Türkiye Partisi (YTP) ve Cumhuriyetçi Köylü Millet Partisi
-    > (CKMP) olmak üzere 4 parti katıldı.
+    > **Açıklama:** Darbe sonrasında ilk seçimler, 15 Ekim 1961 tarihinde yapıldı. Seçimlere, CHP’nin dışında yeni<br />kurulan; Adalet Partisi (AP), Yeni Türkiye Partisi (YTP) ve Cumhuriyetçi Köylü Millet Partisi<br />(CKMP) olmak üzere 4 parti katıldı.
 
     <hr />
 1. Aşağıdakilerden hangisi 22 Şubat ve 21 Mayıs 1961 tarihlerinde darbe girişiminde bulunmuştur?
@@ -3136,14 +2922,7 @@
     - D-) Adnan Menderes
     - **Cevap E-) Talat Aydemir**
 
-    > **Açıklama:** 22 Şubat 1961
-    > Kurmay Albay Talat
-    > Aydemir’in ilk darbe
-    > girişimi.
-    > 21 Mayıs 1961
-    > Kurmay Albay Talat
-    > Aydemir’in ikinci darbe
-    > girişimi
+    > **Açıklama:** 22 Şubat 1961<br />Kurmay Albay Talat<br />Aydemir’in ilk darbe<br />girişimi.<br />21 Mayıs 1961<br />Kurmay Albay Talat<br />Aydemir’in ikinci darbe<br />girişimi
 
     <hr />
 1. Ankara’da, ağırlıklı olarak Mülkiyeliler (SBF’liler)’in oluşturduğu bir okuma-tartışma grubunun çıkardığı dergi aşağıdakilerden hangisidir?
@@ -3163,8 +2942,7 @@
     - D-) Nihat İlhan
     - E-) Hıfzı Oğuz Bekata
 
-    > **Açıklama:** Şehit Yüzbaşı Cengiz Topel, 8 Ağustos 1964 tarihinde Kıbrıs Harekatı sırasında Eskişehir´den Kıbrıs´a, dörtlü kol komutanı olarak gönderildi. Cengiz Topel, Kıbrıs’taki ilk Türk
-    > hava harp şehididir.
+    > **Açıklama:** Şehit Yüzbaşı Cengiz Topel, 8 Ağustos 1964 tarihinde Kıbrıs Harekatı sırasında Eskişehir´den Kıbrıs´a, dörtlü kol komutanı olarak gönderildi. Cengiz Topel, Kıbrıs’taki ilk Türk<br />hava harp şehididir.
 
     <hr />
 1. Aşağıdakilerden hangisi Cevdet Sunay'dan önceki Cumhurbaşkanıdır?
@@ -3194,8 +2972,7 @@
     - D-) Necmettin Erbakan
     - E-) Ferruh Bozbeyli
 
-    > **Açıklama:** Ortanın solu yaklaşımı nedeniyle CHP’den ayrılan **Turhan Feyzioğlu** ve arkadaşları 12 Mayıs
-    > 1967’de Güven Partisi’ni (GP) kurdular
+    > **Açıklama:** Ortanın solu yaklaşımı nedeniyle CHP’den ayrılan **Turhan Feyzioğlu** ve arkadaşları 12 Mayıs<br />1967’de Güven Partisi’ni (GP) kurdular
 
     <hr />
 1. 26 Ocak 1974’te ........... koalisyonu kuruldu.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru biçimde tamamlar?
@@ -3316,8 +3093,7 @@
     - D-) Yabancı para birimleri üzerindeki devlet kontrolü kaldırılmıştır.
     - E-) Avrupa Birliği Bakanlığı kurularak batı ile ilişkiler geliştirilmiştir.
 
-    > **Açıklama:** 24 Ocak kararları ile Türk ekonomisinde radikal düzenlemelere gidilmiş, dolar kuru 47 liradan 70 liraya çıkmış, Kamu İktisadi Teşekküllerine verilen devlet desteği kaldırılmış, dönemin IMF görevlisi Kemal Derviş’in hazırladığı bu kararlar ile Türkiye dışa dönük yani liberal bir ekonomiye dönüşmüştür. Bu dönüşüm ile ABD ile Savunma ve Ekonomik İşbirliği Antlaşması yapılmış, nükleer silahsızlanma ve Trans Avrupa otoyolu gibi projelere imza atılmıştır. 24 Ocak kararları, içe dönük ulusal ekonomiye dayalı Türkiye’yi rekabetçi, liberal ekonomiye entegre olmuş bir Türkiye’yi hazırlama amacını taşımıştır.
-    > Doğru cevap a) şıkkıdır.
+    > **Açıklama:** 24 Ocak kararları ile Türk ekonomisinde radikal düzenlemelere gidilmiş, dolar kuru 47 liradan 70 liraya çıkmış, Kamu İktisadi Teşekküllerine verilen devlet desteği kaldırılmış, dönemin IMF görevlisi Kemal Derviş’in hazırladığı bu kararlar ile Türkiye dışa dönük yani liberal bir ekonomiye dönüşmüştür. Bu dönüşüm ile ABD ile Savunma ve Ekonomik İşbirliği Antlaşması yapılmış, nükleer silahsızlanma ve Trans Avrupa otoyolu gibi projelere imza atılmıştır. 24 Ocak kararları, içe dönük ulusal ekonomiye dayalı Türkiye’yi rekabetçi, liberal ekonomiye entegre olmuş bir Türkiye’yi hazırlama amacını taşımıştır.<br />Doğru cevap a) şıkkıdır.
 
     <hr />
 1. Aşağıdaki kurumlardan hangisi 1982 Anayasası’nı hazırlamakla görevlendirilmiştir?
@@ -3327,8 +3103,7 @@
     - D-) Kurucu Meclis
     - E-) Devlet Planlama Teşkilatı
 
-    > **Açıklama:** Yeni bir Anayasa yapmakla görevlendirilen Danışma Meclisi, 23 Kasım 1981 tarihinde bir Anayasa Komisyonu oluşturmuş ve anayasa yapım sürecini başlatmıştır. Komisyonun hazırlamış olduğu taslak metin 17 Temmuz 1982 tarihinde Danışma Meclisine sunulmuş ve burada yapılan görüşmeler sonucunda kabul edilen bu metin 18 Ekim 1982 tarihinde MGK üyelerince son şekli verilerek halk oylamasına sunulmuştur.
-    > Doğru cevap c) şıkkıdır.
+    > **Açıklama:** Yeni bir Anayasa yapmakla görevlendirilen Danışma Meclisi, 23 Kasım 1981 tarihinde bir Anayasa Komisyonu oluşturmuş ve anayasa yapım sürecini başlatmıştır. Komisyonun hazırlamış olduğu taslak metin 17 Temmuz 1982 tarihinde Danışma Meclisine sunulmuş ve burada yapılan görüşmeler sonucunda kabul edilen bu metin 18 Ekim 1982 tarihinde MGK üyelerince son şekli verilerek halk oylamasına sunulmuştur.<br />Doğru cevap c) şıkkıdır.
 
     <hr />
 1. 6 Kasım 1983 seçimleri sürecinde Cumhurbaşkanı Kenan Evren’in desteklediği siyasi parti aşağıdakilerin hangisinde doğru olarak verilmiştir?
@@ -3338,8 +3113,7 @@
     - D-) Halkçı Parti
     - E-) Milliyetçi Çalışma Partisi
 
-    > **Açıklama:** Seçim sürecinde Kenan Evren’in Turgut Sunalp’e destek vermesi ancak asker kökenli Sunalp’ın halka yönelik bir siyasi propaganda izleyememesi ve partinin temel ilkelerini anlatamaması önemli sorun olmuştur. Kenan Evren’in yurt gezilerinde MDP’yi (Milliyetçi Demokrasi Partisi) işaret etmesi siyasi partinin bir vesayet partisi olacağı hissiyatını doğurmuş bunun üstüne Sunalp’ın meydanlarda sık sık beka vurgusu yapması bu algıyı güçlendirmiştir.
-    > Doğru cevap b) şıkkıdır.
+    > **Açıklama:** Seçim sürecinde Kenan Evren’in Turgut Sunalp’e destek vermesi ancak asker kökenli Sunalp’ın halka yönelik bir siyasi propaganda izleyememesi ve partinin temel ilkelerini anlatamaması önemli sorun olmuştur. Kenan Evren’in yurt gezilerinde MDP’yi (Milliyetçi Demokrasi Partisi) işaret etmesi siyasi partinin bir vesayet partisi olacağı hissiyatını doğurmuş bunun üstüne Sunalp’ın meydanlarda sık sık beka vurgusu yapması bu algıyı güçlendirmiştir.<br />Doğru cevap b) şıkkıdır.
 
     <hr />
 1. 25 Mart 1984 tarihindeki yerel seçimlere aşağıdaki liderlerden hangisi katılmamıştır?
@@ -3359,8 +3133,7 @@
     - D-) Uluslararası kamuoyuna çağrıda bulunmak
     - **Cevap E-) Üç-beş eşkıyanın kalkışması olarak tanımlamak**
 
-    > **Açıklama:** 1960’lı yıllardan itibaren bir kimlik hareketi olarak büyüyen, sol partilerin söylemlerinde yer bulan Kürt kimliği ve dili ile ilgili taleplere dayalı olarak silahlı örgüte dönüşen PKK’nın 1984 yılındaki Eruh saldırısını, 1980 sonrası askerî vesayet sürecinin etkisiyle, sıkıyönetim ve kolluk gücü tedbirleriyle halledilebilecek üç beş eşkıya kalkışması olarak görmüştür.
-    > Doğru cevap e) şıkkıdır.
+    > **Açıklama:** 1960’lı yıllardan itibaren bir kimlik hareketi olarak büyüyen, sol partilerin söylemlerinde yer bulan Kürt kimliği ve dili ile ilgili taleplere dayalı olarak silahlı örgüte dönüşen PKK’nın 1984 yılındaki Eruh saldırısını, 1980 sonrası askerî vesayet sürecinin etkisiyle, sıkıyönetim ve kolluk gücü tedbirleriyle halledilebilecek üç beş eşkıya kalkışması olarak görmüştür.<br />Doğru cevap e) şıkkıdır.
 
     <hr />
 1. 1989 Cumhurbaşkanlığı seçimlerinde Turgut Özal’ın rakibi aşağıdakilerin hangisinde doğru olarak yer alır?
@@ -3370,8 +3143,7 @@
     - D-) Tekin Arıburun
     - **Cevap E-) Fethi Çelikbaş**
 
-    > **Açıklama:** Kenan Evren’in yedi yıllık Cumhurbaşkanlığı görevinin bitmesinin ardından 31 Ekim 1989 tarihinde Mecliste cumhurbaşkanlığı seçimleri yapılmıştır. Meclise girebilmeyi başaran muhalefet partileri SHP ve DYP, Mart 1989’da yapılan yerel seçimlerde ANAP’ın oylarında azalma yaşanmasının Özal’ın cumhurbaşkanı seçilmesinde meşruiyet sorunu yaratacağını iddia ederek mecliste yapılan seçimlere katılmayarak seçimi boykot etmiş ayrıca boykotun yanı sıra seçimlerde de meşruiyet sorunu yaşanması amacıyla cumhurbaşkanlığı seçimine aday göstermemişlerdir. Özal bu durum üzerine ANAP Burdur Milletvekili Fethi Çelikbaş’ın da aday gösterilmesini sağlayarak iki adaylı rekabet ortamını sağlamıştır. Yapılan ilk iki tur oylamada iki aday da seçilmek için yeterli oyu alamamış 31 Ekimde yapılan üçüncü tur oylamada seçime katılan 285 milletvekilinin 263’ünün oyunu alan Özal Türkiye’nin 8. Cumhurbaşkanı olarak seçilmiştir.
-    > Doğru cevap e) şıkkıdır.
+    > **Açıklama:** Kenan Evren’in yedi yıllık Cumhurbaşkanlığı görevinin bitmesinin ardından 31 Ekim 1989 tarihinde Mecliste cumhurbaşkanlığı seçimleri yapılmıştır. Meclise girebilmeyi başaran muhalefet partileri SHP ve DYP, Mart 1989’da yapılan yerel seçimlerde ANAP’ın oylarında azalma yaşanmasının Özal’ın cumhurbaşkanı seçilmesinde meşruiyet sorunu yaratacağını iddia ederek mecliste yapılan seçimlere katılmayarak seçimi boykot etmiş ayrıca boykotun yanı sıra seçimlerde de meşruiyet sorunu yaşanması amacıyla cumhurbaşkanlığı seçimine aday göstermemişlerdir. Özal bu durum üzerine ANAP Burdur Milletvekili Fethi Çelikbaş’ın da aday gösterilmesini sağlayarak iki adaylı rekabet ortamını sağlamıştır. Yapılan ilk iki tur oylamada iki aday da seçilmek için yeterli oyu alamamış 31 Ekimde yapılan üçüncü tur oylamada seçime katılan 285 milletvekilinin 263’ünün oyunu alan Özal Türkiye’nin 8. Cumhurbaşkanı olarak seçilmiştir.<br />Doğru cevap e) şıkkıdır.
 
     <hr />
 1. Turgut Özal’ın girişimleri ile 1992‘de kurulan uluslararası kuruluş aşağıdakilerin hangisinde doğru olarak verilmiştir?
@@ -3381,8 +3153,7 @@
     - D-) CENTO
     - E-) RCD
 
-    > **Açıklama:** Türkiye’nin bölgesel güç merkezi olması için çaba gösteren Özal’ın en önemli başarısı Karadeniz’e kıyısı olan ve Karadeniz havzasında bulunan ülkelerin bölgesel ekonomik işbirliğini hedefleyen Karadeniz Ekonomik İşbirliği’nin kurulmasıdır. 1990 yılından itibaren Özal’ın girişimleri ve ortaya attığı fikirle gelişen bu yapı 24 Haziran 1992 tarihinde İstanbul’da Çırağan Sarayı’nda yapılan zirve toplantısında Türkiye, Rusya, Ukrayna, Gürcistan, Romanya, Moldova, Azerbaycan, Bulgaristan, Ermenistan, Yunanistan ve bir gün sonra Arnavutluk’un katılmasıyla somutlaşmıştır
-    > Doğru cevap a) şıkkıdır.
+    > **Açıklama:** Türkiye’nin bölgesel güç merkezi olması için çaba gösteren Özal’ın en önemli başarısı Karadeniz’e kıyısı olan ve Karadeniz havzasında bulunan ülkelerin bölgesel ekonomik işbirliğini hedefleyen Karadeniz Ekonomik İşbirliği’nin kurulmasıdır. 1990 yılından itibaren Özal’ın girişimleri ve ortaya attığı fikirle gelişen bu yapı 24 Haziran 1992 tarihinde İstanbul’da Çırağan Sarayı’nda yapılan zirve toplantısında Türkiye, Rusya, Ukrayna, Gürcistan, Romanya, Moldova, Azerbaycan, Bulgaristan, Ermenistan, Yunanistan ve bir gün sonra Arnavutluk’un katılmasıyla somutlaşmıştır<br />Doğru cevap a) şıkkıdır.
 
     <hr />
 1. Aşağıdakilerden hangisi Özal döneminde kurulan ve ekonomik faaliyet yürüten kurumlardan birisidir?
@@ -3392,8 +3163,7 @@
     - D-) Hazine Müsteşarlığı
     - E-) Sosyal ve Ekonomik Konsey
 
-    > **Açıklama:** 1983-1987 yılları arası Başbakan olan Özal ile Türkiye’nin dünyaya entegre olduğu ve liberal ekonomiye geçiş dönemidir. Özal, ekonomik kalkınmayı başlatmak amacıyla, sabit kurdan esnek döviz kuru politikasına geçmiş, İstanbul Menkul Kıymetler Borsasını kurmuş, vergi kaçakçılığının önüne geçebilmek amacıyla katma değer vergisini getirmiş, ithalat ve ihracatta serbestleşmeye gidilmiştir.
-    > Doğru cevap b) şıkkıdır.
+    > **Açıklama:** 1983-1987 yılları arası Başbakan olan Özal ile Türkiye’nin dünyaya entegre olduğu ve liberal ekonomiye geçiş dönemidir. Özal, ekonomik kalkınmayı başlatmak amacıyla, sabit kurdan esnek döviz kuru politikasına geçmiş, İstanbul Menkul Kıymetler Borsasını kurmuş, vergi kaçakçılığının önüne geçebilmek amacıyla katma değer vergisini getirmiş, ithalat ve ihracatta serbestleşmeye gidilmiştir.<br />Doğru cevap b) şıkkıdır.
 
     <hr />
 1. Turgut Özal döneminde yaşanan ve uluslararası bir sorun haline gelen Türkiye’ye yapılan göçler aşağıdaki ülkelerden hangisinden yapılmıştır?
@@ -3403,8 +3173,7 @@
     - D-) Yunanistan
     - E-) Irak
 
-    > **Açıklama:** Sovyet blokunun yıkılma sürecine girmesi ile üye ülkeler topraklarında homojen toplum yaratma çabalarına girişmiş, bu bağlamda Bulgaristan vatandaşı olan Türkler yüzlerce yıldır yaşadıkları topraklardan göçe zorlandıkları gibi kalanlar kimliklerini değiştirmeye yani asimilasyona zorlanmıştır. Todor Jivkov yönetiminde Bulgaristan’ın göçe zorlanmasıyla Türk sınırına dayanan nüfus 300 bin kişiye ulaşmış göç uluslararası sorun hâline gelmiştir. Göçe zorlamanın yanı sıra isim ve din değiştirmeye zorlanması üzerine Cumhurbaşkanı Kenan Evren Bulgar Hükûmetini uyarmıştır. Turgut Özal’ın Başbakan olmasıyla konuyu diplomatik yollardan çözmek istemiş konuyu Avrupa Konseyi, İslam Konferansı Örgütü, Birleşmiş Milletler, Avrupa Güvenlik ve İşbirliği Teşkilatı, Helsinki izleme Komitesi ve Uluslararası Af Örgütü gibi üyesi olduğu bütün platformlarda gündeme getirmiştir. 1985 yılında Bulgaristan’a nota veren Türkiye sorunun bir göç anlaşmasıyla çözülmesini istemiştir. 1986 yılından itibaren Bulgar Hükûmeti göçe zorlananları geri kabul etmiş ise de Naim Süleymanoğlu’nun Türkiye’ye kaçması konuyu daha da gündemde tutmuştur
-    > Doğru cevap c) şıkkıdır.
+    > **Açıklama:** Sovyet blokunun yıkılma sürecine girmesi ile üye ülkeler topraklarında homojen toplum yaratma çabalarına girişmiş, bu bağlamda Bulgaristan vatandaşı olan Türkler yüzlerce yıldır yaşadıkları topraklardan göçe zorlandıkları gibi kalanlar kimliklerini değiştirmeye yani asimilasyona zorlanmıştır. Todor Jivkov yönetiminde Bulgaristan’ın göçe zorlanmasıyla Türk sınırına dayanan nüfus 300 bin kişiye ulaşmış göç uluslararası sorun hâline gelmiştir. Göçe zorlamanın yanı sıra isim ve din değiştirmeye zorlanması üzerine Cumhurbaşkanı Kenan Evren Bulgar Hükûmetini uyarmıştır. Turgut Özal’ın Başbakan olmasıyla konuyu diplomatik yollardan çözmek istemiş konuyu Avrupa Konseyi, İslam Konferansı Örgütü, Birleşmiş Milletler, Avrupa Güvenlik ve İşbirliği Teşkilatı, Helsinki izleme Komitesi ve Uluslararası Af Örgütü gibi üyesi olduğu bütün platformlarda gündeme getirmiştir. 1985 yılında Bulgaristan’a nota veren Türkiye sorunun bir göç anlaşmasıyla çözülmesini istemiştir. 1986 yılından itibaren Bulgar Hükûmeti göçe zorlananları geri kabul etmiş ise de Naim Süleymanoğlu’nun Türkiye’ye kaçması konuyu daha da gündemde tutmuştur<br />Doğru cevap c) şıkkıdır.
 
     <hr />
 1. Turgut Özal döneminde bölücü terör örgütü ile mücadelede 1987 yılında hayata geçirilen en kapsamlı düzenleme aşağıdakilerin hangisinde doğru olarak yer alır?
@@ -3414,8 +3183,7 @@
     - **Cevap D-) Olağanüstü Hal Valiliği kurulması**
     - E-) Terörle mücadelenin uzman erbaşlara devredilmesi
 
-    > **Açıklama:** Özal, ilerleyen yıllarda çok eleştiri alacağı Kürt meselesine yaklaşımını ekonomik kalkınma hamleleri ve güvenlik düzenlemeleriyle çözebileceğine inanmıştır. Bu sebeple köy koruculuğu sistemini getirmiş bu güvenlik uygulamaları 10 Temmuz 1987 yılında 11 ili kapsayan Olağanüstü Hâl Bölge Valiliğinin kuruluşuna kadar uzanmıştır. Başbakanlığı dönemindeki ekonomik yatırımların öncelikli olduğu siyasi politika ve askerî önlemlerin bölgede daha sıkı uygulanması PKK’nın bölgede halk üzerindeki etkisinin güçlenmesine sebep olmuştur.
-    > Doğru cevap d) şıkkıdır.
+    > **Açıklama:** Özal, ilerleyen yıllarda çok eleştiri alacağı Kürt meselesine yaklaşımını ekonomik kalkınma hamleleri ve güvenlik düzenlemeleriyle çözebileceğine inanmıştır. Bu sebeple köy koruculuğu sistemini getirmiş bu güvenlik uygulamaları 10 Temmuz 1987 yılında 11 ili kapsayan Olağanüstü Hâl Bölge Valiliğinin kuruluşuna kadar uzanmıştır. Başbakanlığı dönemindeki ekonomik yatırımların öncelikli olduğu siyasi politika ve askerî önlemlerin bölgede daha sıkı uygulanması PKK’nın bölgede halk üzerindeki etkisinin güçlenmesine sebep olmuştur.<br />Doğru cevap d) şıkkıdır.
 
     <hr />
 1. Aşağıdakilerden hangisi Özal tarafından hem Türkiye’nin bölgesel güç hâline gelebilmesi hem de Türkistan coğrafyasındaki kardeş ülkelerin dünya ekonomisine uyum sağlamasında önderlik yapabilmesi için başlattığı ikili görüşmeler sonucunda kurulmuştur?
@@ -3425,8 +3193,7 @@
     - D-) Türk Ortak Pazarı
     - E-) Demir İpek Yolu
 
-    > **Açıklama:** Özal, hem Türkiye’nin bölgesel güç hâline gelebilmesi hem de Türkistan coğrafyasındaki kardeş ülkelerin dünya ekonomisine uyum sağlamasında önderlik yapabilmesi için başlattığı ikili görüşmeler sonucunda Türk İşbirliği ve Kalkınma Ajansı kurulmuştur. Özal, Türkistan coğrafyasında etkili bir Türkiye’nin bölgesinde de güçlü olacağına dair politikaları etkisini göstermiş başlayan görüşmeler sonucunda bugün atılan adımlar sonuç vermiştir.
-    > Doğru cevap c) şıkkıdır.
+    > **Açıklama:** Özal, hem Türkiye’nin bölgesel güç hâline gelebilmesi hem de Türkistan coğrafyasındaki kardeş ülkelerin dünya ekonomisine uyum sağlamasında önderlik yapabilmesi için başlattığı ikili görüşmeler sonucunda Türk İşbirliği ve Kalkınma Ajansı kurulmuştur. Özal, Türkistan coğrafyasında etkili bir Türkiye’nin bölgesinde de güçlü olacağına dair politikaları etkisini göstermiş başlayan görüşmeler sonucunda bugün atılan adımlar sonuç vermiştir.<br />Doğru cevap c) şıkkıdır.
 
     <hr />
 1. Mart 1980’de süresi dolan cumhurbaşkanının yerine siyasi partiler uzlaşma içinde bir aday gösterememiştir. Bu dönemde cumhurbaşkanlığına aşağıdakilerden hangisi vekâlet etmiştir?
@@ -3436,8 +3203,7 @@
     - D-) Muhsin Batur
     - E-) Sadettin Bilgiç
 
-    > **Açıklama:** Doğru cevap: B
-    > Mart 1980’de süresi dolan Fahrettin Korutürk’ün yerine siyasi partiler uzlaşma içinde bir aday gösterememiştir. 25 Mart’ta Mardin bağımsız milletvekili Nurettin Yılmaz, Adalet Partisi’nden Sadettin Bilgiç ve Cumhuriyet Halk Partisi’nden Muhsin Batur’un aday olduğu seçim sürecinde hiçbir aday çoğunluğu sağlayamadığı için cumhurbaşkanlığına **İhsan Sabri Çağlayangil** vekâlet etmiştir
+    > **Açıklama:** Doğru cevap: B<br />Mart 1980’de süresi dolan Fahrettin Korutürk’ün yerine siyasi partiler uzlaşma içinde bir aday gösterememiştir. 25 Mart’ta Mardin bağımsız milletvekili Nurettin Yılmaz, Adalet Partisi’nden Sadettin Bilgiç ve Cumhuriyet Halk Partisi’nden Muhsin Batur’un aday olduğu seçim sürecinde hiçbir aday çoğunluğu sağlayamadığı için cumhurbaşkanlığına **İhsan Sabri Çağlayangil** vekâlet etmiştir
 
     <hr />
 1. I- Faili meçhul cinayetler<br />II- Sivil bürokrasinin yetersizlikleri ve siyasi partilerin aralarında uzlaşamamaları<br />III- Bankerlerin toplumun önemli bir kesiminin mevduatını iflas ile batırmasına bağlı olarak sokak eylemlerinin artması<br />IV- Sağ sol çatışmalarının artması ve emniyet ve huzurun kalmaması<br />Yukarıdakilerden hangisi/hangileri 1980 darbesine neden olan olaylardan biridir?
@@ -3447,12 +3213,7 @@
     - D-) I, II, IV
     - **Cevap E-) I, II, III, IV**
 
-    > **Açıklama:** Doğru cevap: E şıkkı
-    > 12 Eylül Askerî Darbesi’ne sebep olan olayların bir diğeri de faili meçhul cinayetler olmuştur.
-    > Sağ sol çatışmaları bölgeden bölgeye, ideolojik, dinî ve etnik olmak üzere, içeriği değişmiş ise de ülkenin bölünmesinin zeminini oluşturmaya başlamıştır.
-    > Sivil bürokrasi ve siyaset tarihi süreçte ordunun siyasete müdahale eğilimini vurgularken, TSK komuta kademesi de sivil bürokrasinin yetersizlikleri ve siyasi partilerin aralarında uzlaşamamaları nedeniyle demokrasiyi yozlaştırdıklarını öne sürmüş 12 Eylül sürecinde asıl sorumluluğun bu gruba ait olduğunu ifade etmiştir.
-    > Bankaların aralarında anlaşmalar yaparak faizleri bir seviyede tutma çabaları yanında Banker Kastelli olayında olduğu gibi bankerlerin toplumun önemli bir kesiminin mevduatını iflas ile batırdığı görülmüştür. Bu ekonomik krizlerin yansıması da fabrikalarda grevler ile kendisini göstermiş işsizliğin getirdiği tepki hükûmete karşı sokak eylemlerini de arttırmıştır.
-    > Tüm şıklar doğrudur.
+    > **Açıklama:** Doğru cevap: E şıkkı<br />12 Eylül Askerî Darbesi’ne sebep olan olayların bir diğeri de faili meçhul cinayetler olmuştur.<br />Sağ sol çatışmaları bölgeden bölgeye, ideolojik, dinî ve etnik olmak üzere, içeriği değişmiş ise de ülkenin bölünmesinin zeminini oluşturmaya başlamıştır.<br />Sivil bürokrasi ve siyaset tarihi süreçte ordunun siyasete müdahale eğilimini vurgularken, TSK komuta kademesi de sivil bürokrasinin yetersizlikleri ve siyasi partilerin aralarında uzlaşamamaları nedeniyle demokrasiyi yozlaştırdıklarını öne sürmüş 12 Eylül sürecinde asıl sorumluluğun bu gruba ait olduğunu ifade etmiştir.<br />Bankaların aralarında anlaşmalar yaparak faizleri bir seviyede tutma çabaları yanında Banker Kastelli olayında olduğu gibi bankerlerin toplumun önemli bir kesiminin mevduatını iflas ile batırdığı görülmüştür. Bu ekonomik krizlerin yansıması da fabrikalarda grevler ile kendisini göstermiş işsizliğin getirdiği tepki hükûmete karşı sokak eylemlerini de arttırmıştır.<br />Tüm şıklar doğrudur.
 
     <hr />
 1. Aşağıdakilerden hangisi 12 Eylül 1980 darbesindeki Millî Güvenlik Konseyi üyelerinden biri **değildir**?
@@ -3462,9 +3223,7 @@
     - D-) Sedat Celasun
     - E-) Kenan Evren
 
-    > **Açıklama:** **Bülent Ulusu** darbe sonrası kurulan ilk hükümetin başbakanıdır.
-    > Kenan Evren başkanlığındaki Millî Güvenlik Konseyi üyeleri; Karar Kuvvetleri Komutanı Orgeneral Nurettin Ersin, Hava Kuvvetleri Komutanı Orgeneral Tahsin Şahinkaya, Jandarma Genel Komutanı Orgeneral Sedat Celasun ve Deniz Kuvvetleri Komutanı Oramiral Nejat Tümer.
-    > Darbe yönetici kadrosu TBMM’de yemin ederek meclisin onayını almışlar ancak siyasete müdahale edilmeyeceği düşüncesinin oluşması için emekli Amiral **Bülent Ulusu**’nun hükûmet kurması sağlanarak meclisten güvenoyu alınmıştır.
+    > **Açıklama:** **Bülent Ulusu** darbe sonrası kurulan ilk hükümetin başbakanıdır.<br />Kenan Evren başkanlığındaki Millî Güvenlik Konseyi üyeleri; Karar Kuvvetleri Komutanı Orgeneral Nurettin Ersin, Hava Kuvvetleri Komutanı Orgeneral Tahsin Şahinkaya, Jandarma Genel Komutanı Orgeneral Sedat Celasun ve Deniz Kuvvetleri Komutanı Oramiral Nejat Tümer.<br />Darbe yönetici kadrosu TBMM’de yemin ederek meclisin onayını almışlar ancak siyasete müdahale edilmeyeceği düşüncesinin oluşması için emekli Amiral **Bülent Ulusu**’nun hükûmet kurması sağlanarak meclisten güvenoyu alınmıştır.
 
     <hr />
 1. Turgut Özal, Sermaye Piyasası Kurulu’nu aşağıdaki tarihlerden hangisinde kurmuştur?
@@ -3474,8 +3233,7 @@
     - D-) 1983
     - E-) 1984
 
-    > **Açıklama:** B şıkkı: 1981
-    > **1981 yılında Sermaye Piyasası Kurulu’nu kurmuş** Kamu İktisadi teşekküllerinin, üretim ve pazarlama stratejisi üzerinden rekabetçi bir ekonomi yaratılmasına katkı yapabilmeleri için, üzerindeki Fiyat Kontrol Komisyonu’nu kaldırmıştır.
+    > **Açıklama:** B şıkkı: 1981<br />**1981 yılında Sermaye Piyasası Kurulu’nu kurmuş** Kamu İktisadi teşekküllerinin, üretim ve pazarlama stratejisi üzerinden rekabetçi bir ekonomi yaratılmasına katkı yapabilmeleri için, üzerindeki Fiyat Kontrol Komisyonu’nu kaldırmıştır.
 
     <hr />
 1. Askeri darbe sonrası yeni hazırlanan 1980 anayasası hangi tarihte halk oylamasına sunulmuştur?
@@ -3485,8 +3243,7 @@
     - **Cevap D-) 7 Kasım 1982**
     - E-) 23 Kasım 1981
 
-    > **Açıklama:** **7 Kasım 1982** tarihinde yapılmıştır.
-    > Yeni bir Anayasa yapmakla görevlendirilen Danışma Meclisi, 23 Kasım 1981 tarihinde bir Anayasa Komisyonu oluşturmuş ve anayasa yapım sürecini başlatmıştır. Komisyonun hazırlamış olduğu taslak metin 17 Temmuz 1982 tarihinde Danışma Meclisine sunulmuş ve burada yapılan görüşmeler sonucunda kabul edilen bu metin 18 Ekim 1982 tarihinde MGK üyelerince son şekli verilerek halk oylamasına sunulmuştur. 1982 tarih ve 2709 sayılı Kanun, **7 Kasım 1982** tarihinde yapılan halk oylamasında %91,3 evet oranı ile kabul edilmiştir.
+    > **Açıklama:** **7 Kasım 1982** tarihinde yapılmıştır.<br />Yeni bir Anayasa yapmakla görevlendirilen Danışma Meclisi, 23 Kasım 1981 tarihinde bir Anayasa Komisyonu oluşturmuş ve anayasa yapım sürecini başlatmıştır. Komisyonun hazırlamış olduğu taslak metin 17 Temmuz 1982 tarihinde Danışma Meclisine sunulmuş ve burada yapılan görüşmeler sonucunda kabul edilen bu metin 18 Ekim 1982 tarihinde MGK üyelerince son şekli verilerek halk oylamasına sunulmuştur. 1982 tarih ve 2709 sayılı Kanun, **7 Kasım 1982** tarihinde yapılan halk oylamasında %91,3 evet oranı ile kabul edilmiştir.
 
     <hr />
 1. I- Devlet, millet için vardır.<br />II- Yabancı sermaye yatırımlarının teşvik edilmesi ile rekabet şartlarının etkin olduğu serbest pazar ekonomisinin uygulanması savunulmuştur.<br />III- Tüzükte milliyetçilik ve muhafazakârlık anlayışının millî ve manevi değerlere bağlılığa dayalı olduğu vurgulanmıştır.<br />IV- Özel teşebbüsün geliştirilmesi de sosyalizm ile tanımlanmıştır<br />Turgut Özal tarafından kurulan ANAP parti programı ile ilgili olarak verilen bilgilerden hangisi/hangileri doğrudur?
@@ -3496,9 +3253,7 @@
     - D-) II, III, IV
     - E-) III, IV
 
-    > **Açıklama:** IV- madde: Liberalizm ile tanımlanmıştır. olmalı
-    > Tüzükte milliyetçilik ve muhafazakârlık anlayışının millî ve manevi değerlere bağlılığa dayalı olduğu, bireylerin ve toplumun mutluluğunun sosyal adalet ve demokrasi ile fırsat eşitliği ve özel teşebbüs geliştirilmesinin de liberalizm ile tanımlanmıştır.
-    > Özel teşebbüsün geliştirilmesi de sosyalizm ile tanımlanmıştır yanlıştır. Liberalizm ile tanımlanmıştır olacaktır.
+    > **Açıklama:** IV- madde: Liberalizm ile tanımlanmıştır. olmalı<br />Tüzükte milliyetçilik ve muhafazakârlık anlayışının millî ve manevi değerlere bağlılığa dayalı olduğu, bireylerin ve toplumun mutluluğunun sosyal adalet ve demokrasi ile fırsat eşitliği ve özel teşebbüs geliştirilmesinin de liberalizm ile tanımlanmıştır.<br />Özel teşebbüsün geliştirilmesi de sosyalizm ile tanımlanmıştır yanlıştır. Liberalizm ile tanımlanmıştır olacaktır.
 
     <hr />
 1. Turgut Özal, aşağıdaki tarihlerden hangisinde seçim kanununda düzenlemeye giderek yerel seçimlere daha çok siyasi partinin katılabilmesinin önünü açmıştır?
@@ -3629,8 +3384,7 @@
     - D-) 28 Ağustos 1998
     - E-) 28 Eylül 1998
 
-    > **Açıklama:** Bu dönemde İsrail ile ilişkiler sanılanın aksine gelişme göstermiş, 28 Ağustos
-    > 1996’da Türkiye-İsrail arasında Savunma Sanayi İşbirliği Anlaşması imzalanmıştır. Buna göre, Türkiye’nin askerî teçhizatlarının özellikle uçakların İsrail tarafından modernizasyonu başlamış ve TSK’ya yönelik bazı yeni alımlar yapılmaya başlanmıştır.
+    > **Açıklama:** Bu dönemde İsrail ile ilişkiler sanılanın aksine gelişme göstermiş, 28 Ağustos<br />1996’da Türkiye-İsrail arasında Savunma Sanayi İşbirliği Anlaşması imzalanmıştır. Buna göre, Türkiye’nin askerî teçhizatlarının özellikle uçakların İsrail tarafından modernizasyonu başlamış ve TSK’ya yönelik bazı yeni alımlar yapılmaya başlanmıştır.
 
     <hr />
 1. İkinci DYP-SHP Koalisyon Döneminde Gümrük Birliği Anlaşması hangi tarihte imzalanmıştır?
@@ -3650,8 +3404,7 @@
     - D-) 1994
     - E-) 1995
 
-    > **Açıklama:** Yeşil Kart, hiçbir sosyal güvencesi olmayan vatandaşların sağlık hizmetlerine ilişkin giderlerinin devlet tarafından karşılanması amacıyla 18.06.1992
-    > tarih ve 3816 sayılı kanunla yasalaştırılmıştır.
+    > **Açıklama:** Yeşil Kart, hiçbir sosyal güvencesi olmayan vatandaşların sağlık hizmetlerine ilişkin giderlerinin devlet tarafından karşılanması amacıyla 18.06.1992<br />tarih ve 3816 sayılı kanunla yasalaştırılmıştır.
 
     <hr />
 1. İkinci DYP-SHP Koalisyonu hangi tarihler arasında görev yapmıştır?
@@ -3711,8 +3464,7 @@
     - D-) ANAP-DSP-DTP
     - **Cevap E-) DSP-MHP-ANAP**
 
-    > **Açıklama:** DSP-MHP-ANAP Koalisyonu döneminde dış politikada AB Helsinki Zirvesi’nde Türkiye’nin adaylığına ilk kez yeşil ışık yakmış, aynı dönemde Türkiye dünya ekonomisinin en büyüklerini bir araya getirmek üzere kurulan G20 grubuna
-    > girmiştir.
+    > **Açıklama:** DSP-MHP-ANAP Koalisyonu döneminde dış politikada AB Helsinki Zirvesi’nde Türkiye’nin adaylığına ilk kez yeşil ışık yakmış, aynı dönemde Türkiye dünya ekonomisinin en büyüklerini bir araya getirmek üzere kurulan G20 grubuna<br />girmiştir.
 
     <hr />
 1. Uğur Mumcu, Çetin Emeç, Eşref Bitlis gibi önemli isimlerin faili meçhul suikastlarda öldürüldüğü dönem aşağıdakilerden hangisidir?
@@ -3722,10 +3474,7 @@
     - D-) II. DYP – SHP Koalisyon dönemi
     - E-) ANAP-DSP-DTP koalisyon dönemi
 
-    > **Açıklama:** Birinci DYP-SHP Koalisyon Döneminde
-    > * Cumhuriyet Gazetesi Başyazarı Uğur Mumcu aracına konulan bombanın patlaması sonucu öldürüldü.
-    > * -Jandarma Genel Komutanı Eşref Bitlis şüpheli bir uçak kazası ile hayatını kaybetti.
-    > * Profesör Muammer Aksoy, Hürriyet Gazetesi Başyazarı Çetin Emeç ile şoförü ve gazeteci-yazar Turan Dursun farklı tarihlerde düzenlenen suikast sonucu öldürülmüşlerdir.
+    > **Açıklama:** Birinci DYP-SHP Koalisyon Döneminde<br />* Cumhuriyet Gazetesi Başyazarı Uğur Mumcu aracına konulan bombanın patlaması sonucu öldürüldü.<br />* -Jandarma Genel Komutanı Eşref Bitlis şüpheli bir uçak kazası ile hayatını kaybetti.<br />* Profesör Muammer Aksoy, Hürriyet Gazetesi Başyazarı Çetin Emeç ile şoförü ve gazeteci-yazar Turan Dursun farklı tarihlerde düzenlenen suikast sonucu öldürülmüşlerdir.
 
     <hr />
 1. 1\. Cumhurbaşkanı görevinde bulunan isim Süleyman Demirel’dir.<br />2\. Türkiye’de ilk kez bir kadın başbakan olmuştur<br />3\. 30 yıllık bir aradan sonra sağ ve solun iki büyük partisi aynı hükûmette yer almıştır<br />4\. Sosyal demokrat oylar giderek eridiği için sol partiler birleşme kararı almış, toplanan ortak kurultayda SHP fesh edilerek CHP’ye katılmıştır<br />5\. Susurluk’ta meydana gelen trafik kazası ile devlet, polis ve çete işbirliğinin ortaya çıkması Türkiye’de uzun süren bir deprem etkisi yaratmıştır.<br />Yukarıda ifade edilen olaylardan hangileri Birinci DYP – SHP koalisyon hükümeti döneminde gerçekleşmiştir?
@@ -3735,12 +3484,7 @@
     - D-) III ve IV
     - E-) II ve V
 
-    > **Açıklama:** * Birinci DYP – SHP koalisyon hükümettinde Cumhurbaşkanı Turgut Özal’dır. Özal’ın ölümüyle DYP başkanı hükümetten istifa ederek Cumhurbaşkanı seçilmiştir.
-    > * Türkiye’de ilk kadın başbakan Tansu Çiller İkinci DYP- SHP koalisyon hükümetinde başbakanlık görevini üstlenmiştir.
-    > * Birinci DYP ve SHP koalisyon hükümeti döneminde 30 yıllık bir aradan sonra sağ ve solun iki büyük partisi aynı hükûmette yer almıştır
-    > * İkinci DYP ve SHP koalisyon hükümeti döneminde sosyal demokrat oylar giderek eridiği için sol partiler birleşme kararı almış, toplanan ortak kurultayda SHP fesh edilerek CHP’ye katılmıştır
-    > * RP-DYP (REFAH-YOL) Koalisyonu Döneminde 3 Kasım 1996’da meydana gelen Susurluk’taki trafik kazası ile devlet, polis ve çete işbirliğinin ortaya çıkması Türkiye’de uzun süren bir deprem etkisi yarattı.
-    > Sorunun doğru cevabı yalnız III seçeneğinde verilmiştir.
+    > **Açıklama:** * Birinci DYP – SHP koalisyon hükümettinde Cumhurbaşkanı Turgut Özal’dır. Özal’ın ölümüyle DYP başkanı hükümetten istifa ederek Cumhurbaşkanı seçilmiştir.<br />* Türkiye’de ilk kadın başbakan Tansu Çiller İkinci DYP- SHP koalisyon hükümetinde başbakanlık görevini üstlenmiştir.<br />* Birinci DYP ve SHP koalisyon hükümeti döneminde 30 yıllık bir aradan sonra sağ ve solun iki büyük partisi aynı hükûmette yer almıştır<br />* İkinci DYP ve SHP koalisyon hükümeti döneminde sosyal demokrat oylar giderek eridiği için sol partiler birleşme kararı almış, toplanan ortak kurultayda SHP fesh edilerek CHP’ye katılmıştır<br />* RP-DYP (REFAH-YOL) Koalisyonu Döneminde 3 Kasım 1996’da meydana gelen Susurluk’taki trafik kazası ile devlet, polis ve çete işbirliğinin ortaya çıkması Türkiye’de uzun süren bir deprem etkisi yarattı.<br />Sorunun doğru cevabı yalnız III seçeneğinde verilmiştir.
 
     <hr />
 1. 1\. 20 Ekim 1991 seçimlerinden 24 Ekim 1995 seçimlerine kadar geçen sürede 3 kez hükümeti kurulmuştur. Bunlar birinci DYP- SHP hükümeti, İkinci DYP-SHP hükümeti ve DYP- CHP seçim hükümetleridir.<br />2\. 24 Ekim 1995 seçimlerinden 18 Nisan 1999 seçimlerine kadar geçen sürede 4 kez hükümet kurulmuştur. Bunlar ANAP-DYP (ANAYOL) hükümeti, RP-DYP (REFAHYOL) hükümeti, ANAP-DSP-DTP (ANASOL-D) hükümeti ve DSP azınlık hükümetidir.<br />3\. 18 Nisan 1999 genel seçimlerinden 3 Kasım 2002 genel seçimlerine kadar geçen sürede 2 kez hükümet kurulmuştur. Bunlar DSP-MHP-ANAP hükümeti ve DSP-DYP hükümetidir.<br />Türkiye’de 90’lı yıllarda yapılan genel seçim sonuçları ile ilgili yukarıda verilen ifadelerden hangileri doğrudur?
@@ -3750,9 +3494,7 @@
     - D-) I ve II
     - E-) II ve III
 
-    > **Açıklama:** 1\. 20 Ekim 1991 seçimlerinden 24 Ekim 1995 seçimlerine kadar geçen sürede 4 kez hükümeti kurulmuştur. Bunlar birinci DYP- SHP hükümeti, İkinci DYP-SHP hükümeti, Çiller azınlık hükümeti ve DYP- CHP seçim hükümetleridir.
-    > 2\. 24 Ekim 1995 seçimlerinden 18 Nisan 1999 seçimlerine kadar geçen sürede 4 kez hükümet kurulmuştur. Bunlar ANAP-DYP (ANAYOL) hükümeti, RP-DYP (REFAHYOL) hükümeti, ANAP-DSP-DTP (ANASOL-D) hükümeti ve DSP azınlık hükümetidir.
-    > * 18 Nisan 1999 genel seçimlerinden 3 Kasım 2002 genel seçimlerine kadar geçen sürede sadece DSP-MHP-ANAP hükümeti görev almıştır.
+    > **Açıklama:** 1\. 20 Ekim 1991 seçimlerinden 24 Ekim 1995 seçimlerine kadar geçen sürede 4 kez hükümeti kurulmuştur. Bunlar birinci DYP- SHP hükümeti, İkinci DYP-SHP hükümeti, Çiller azınlık hükümeti ve DYP- CHP seçim hükümetleridir.<br />2\. 24 Ekim 1995 seçimlerinden 18 Nisan 1999 seçimlerine kadar geçen sürede 4 kez hükümet kurulmuştur. Bunlar ANAP-DYP (ANAYOL) hükümeti, RP-DYP (REFAHYOL) hükümeti, ANAP-DSP-DTP (ANASOL-D) hükümeti ve DSP azınlık hükümetidir.<br />* 18 Nisan 1999 genel seçimlerinden 3 Kasım 2002 genel seçimlerine kadar geçen sürede sadece DSP-MHP-ANAP hükümeti görev almıştır.
 
     <hr />
 1. 20 Ekim 1991 genel seçimleri sonucuna göre parlamentoda yer almayan parti aşağıdakilerden hangisidir?
@@ -3762,14 +3504,7 @@
     - **Cevap D-) CHP**
     - E-) RP
 
-    > **Açıklama:** 20 Ekim 1991 genel seçileri sonucunda Beş parti %10’luk Türkiye barajını aşarak parlamentoya girmiştir. Bunlar:
-    > * Doğruyol Partisi (DYP) % 27.0 oy oranıyla 178 milletvekili
-    > * Anavatan Partisi (ANAP) % 24 oy oranıyla 115 milletvekili
-    > * Sosyal Demokrat Halkçı Parti (SHP) % 20.8 oy oranıyla 88 milletvekili,
-    > * Refah Partisi (RP) % 16.9 oy oranıyla 62 milletvekili,
-    > * Demokratik Sol Parti (DSP) % 10.8 oy oranıyla 7 milletvekili kazanmıştır
-    > 12 Eylül Askerî Darbesi sonrasında kapatılan siyasi partilerden Cumhuriyet Halk Partisi’nin (CHP) ise 20 Ekim Seçimleri sonrasında tekrar açılmıştır.
-    > Sorunun doğru cevabı D seçeneğinde verilmiştir.
+    > **Açıklama:** 20 Ekim 1991 genel seçileri sonucunda Beş parti %10’luk Türkiye barajını aşarak parlamentoya girmiştir. Bunlar:<br />* Doğruyol Partisi (DYP) % 27.0 oy oranıyla 178 milletvekili<br />* Anavatan Partisi (ANAP) % 24 oy oranıyla 115 milletvekili<br />* Sosyal Demokrat Halkçı Parti (SHP) % 20.8 oy oranıyla 88 milletvekili,<br />* Refah Partisi (RP) % 16.9 oy oranıyla 62 milletvekili,<br />* Demokratik Sol Parti (DSP) % 10.8 oy oranıyla 7 milletvekili kazanmıştır<br />12 Eylül Askerî Darbesi sonrasında kapatılan siyasi partilerden Cumhuriyet Halk Partisi’nin (CHP) ise 20 Ekim Seçimleri sonrasında tekrar açılmıştır.<br />Sorunun doğru cevabı D seçeneğinde verilmiştir.
 
     <hr />
 1. Aşağıdakilerden hangisi 28 Şubat sürecine ortam hazırlayan olaylardan biri değildir?
@@ -3779,14 +3514,7 @@
     - D-) Başbakanlık konutunda tarikat liderleri ve şeyhlere iftar yemeği verilmesi
     - E-) Üniversitelerde başörtüsünü serbest bırakan kararnamenin imzalanması
 
-    > **Açıklama:** **28 Şubat sürecine ortam hazırlayan olaylar şunlardır:**
-    > * Erbakan’ın gerçekleştirdiği Ortadoğu gezisi ve Müslüman devletlerle yaptığı anlaşmalar,
-    > * Susurluk Kazası’nın siyasi sonuçları,
-    > * Başbakanlık konutunda tarikat liderleri ve şeyhlere verilen iftar yemeği,
-    > * Ankara’da düzenlenen Kudüs Gecesi’nde cihat oyunu sergilenmesi,
-    > * Üniversitelerde başörtüsünü serbest bırakan kararnamenin imzalanması,
-    > * -Döneme damgasını vuran suikastlar ve faili meçhul cinayetler
-    > Diğer taraftan 28 **Şubat 1997** sürecinden yaklaşık 4 yıl sonra ülkenin içinde bulunduğu ağır ekonomik kriz nedeniyle elinde yüksek miktarda hazine bonosu ve tahvili bulunan bankalar ve gecelik borçlanma ihtiyacı yüksek kamu bankaları sıkıntı içine girmiştir. **19 Şubat 2001 tarihli** MGK toplantısında Ahmet Necdet Sezer Bankacılık Düzenleme ve Denetleme Kurulu’nu denetlemeyi başlatması üzerine Bülent Ecevit tepki göstermiş, Sezer bunun üzerine, Ecevit’e anayasa kitapçığı fırlatmıştır.
+    > **Açıklama:** **28 Şubat sürecine ortam hazırlayan olaylar şunlardır:** <br />* Erbakan’ın gerçekleştirdiği Ortadoğu gezisi ve Müslüman devletlerle yaptığı anlaşmalar,<br />* Susurluk Kazası’nın siyasi sonuçları,<br />* Başbakanlık konutunda tarikat liderleri ve şeyhlere verilen iftar yemeği,<br />* Ankara’da düzenlenen Kudüs Gecesi’nde cihat oyunu sergilenmesi,<br />* Üniversitelerde başörtüsünü serbest bırakan kararnamenin imzalanması,<br />* -Döneme damgasını vuran suikastlar ve faili meçhul cinayetler<br />Diğer taraftan 28 **Şubat 1997** sürecinden yaklaşık 4 yıl sonra ülkenin içinde bulunduğu ağır ekonomik kriz nedeniyle elinde yüksek miktarda hazine bonosu ve tahvili bulunan bankalar ve gecelik borçlanma ihtiyacı yüksek kamu bankaları sıkıntı içine girmiştir. **19 Şubat 2001 tarihli** MGK toplantısında Ahmet Necdet Sezer Bankacılık Düzenleme ve Denetleme Kurulu’nu denetlemeyi başlatması üzerine Bülent Ecevit tepki göstermiş, Sezer bunun üzerine, Ecevit’e anayasa kitapçığı fırlatmıştır.
 
     <hr />
 1. DSP-MHP-ANAP koalisyon hükümeti ile ilgili aşağıda verilen ifadelerden hangisi yanlıştır?
@@ -3796,13 +3524,7 @@
     - D-) PKK elebaşı Öcalan, özel Türk timleri tarafından Türkiye’ye getirmiş ve tutuklanmıştır
     - E-) Türkiye Cumhuriyet tarihinin en uzun süreli görev yapan koalisyon hükûmeti olmuştur
 
-    > **Açıklama:** **DSP-MHP-ANAP Hükûmeti:**
-    > * Türkiye Cumhuriyet tarihinin en uzun süreli görev yapan koalisyon hükûmeti olmuştur.
-    > * Bu dönemde laik devlet düzenini yıkarak teokratik devlete geçmek için faaliyet gösterdiği gerekçesiyle Fethullah Gülen hakkında soruşturma başlatılmıştır.
-    > * Bu dönemde Fazilet Partisi (FP) kapatılmış, sonrasında Saadet Partisi (SP) kurulmuştur.
-    > * Yine bu dönemde PKK elebaşı Öcalan, özel Türk timleri tarafından Türkiye’ye getirmiş ve tutuklanmıştır.
-    > Ancak Abdullah Öcalan ile anlaşmazlığa düşen PKK’nın iki numaralı ismi Şemdin Sakık yakalandığı dönem ANAP-DSP-DTP (ANASOL-D) Koalisyon hükümeti dönemidir.
-    > Sorunun doğru yanıtı C seçeneğinde verilmiştir.
+    > **Açıklama:** **DSP-MHP-ANAP Hükûmeti:**<br />* Türkiye Cumhuriyet tarihinin en uzun süreli görev yapan koalisyon hükûmeti olmuştur.<br />* Bu dönemde laik devlet düzenini yıkarak teokratik devlete geçmek için faaliyet gösterdiği gerekçesiyle Fethullah Gülen hakkında soruşturma başlatılmıştır.<br />* Bu dönemde Fazilet Partisi (FP) kapatılmış, sonrasında Saadet Partisi (SP) kurulmuştur.<br />* Yine bu dönemde PKK elebaşı Öcalan, özel Türk timleri tarafından Türkiye’ye getirmiş ve tutuklanmıştır.<br />Ancak Abdullah Öcalan ile anlaşmazlığa düşen PKK’nın iki numaralı ismi Şemdin Sakık yakalandığı dönem ANAP-DSP-DTP (ANASOL-D) Koalisyon hükümeti dönemidir.<br />Sorunun doğru yanıtı C seçeneğinde verilmiştir.
 
     <hr />
 1. |  |  |<br />| --- | --- |<br />| **I.** Karşı TSK 28 Şubat Millî Güvenlik Kurulu (MGK) toplantısında İslami harekete post modern darbe olarak adlandırılan bazı maddeler ortaya koymuşlardır. | **A.** **DYP ( II.** Çiller) Hükümeti |<br />| **II.** TBMM’den güvenoyu alamamış, böylelikle Türkiye’nin en kısa süre görev yapan hükûmetlerden biri olmuştur. | **B.** ANAP-DYP(ANAYOL) Hükümeti |<br />| **III.** Anayasanın öngördüğü çoğunluğun altında, 257 güvenoyu almıştır. Anayasa Mahkemesi sonucu oylamanın iptaline karar vermiştir. | **C.** RP-DYP (REFAH-YOL) Hükümeti |<br />Yukarıda tabloda birinci sütunda 1990’lı yıllarda Türk siyasi tarihinde gerçekleşen bazı olaylar, ikinci sütunda yine aynı yıllarda kurulan bazı hükümetler verilmiştir.<br />Tablonun birinci ve ikinci sütunu arasında doğru eşleştirme aşağıdaki seçeneklerden hangisinde verilmiştir?
@@ -3812,11 +3534,7 @@
     - **Cevap D-) I – C; II – A; III – B**
     - E-) I – C; II – B; III – A
 
-    > **Açıklama:** |  |
-    > | --- |
-    > | I – C : Karşı TSK 28 Şubat Millî Güvenlik Kurulu (MGK) toplantısında İslami harekete post modern darbe olarak adlandırılan bazı maddeler ortaya koymuşlardır. **RP-DYP hükümeti** |
-    > | II – A : TBMM’den güvenoyu alamamış, böylelikle Türkiye’nin en kısa süre görev yapan hükûmetlerden biri olmuştur. **DYP (İkinci Çiller) hükümeti** |
-    > | III – B: Anayasanın öngördüğü çoğunluğun altında, 257 güvenoyu almıştır. Anayasa Mahkemesi sonucu oylamanın iptaline karar vermiştir**. ANAP-DYP (ANAYOL) hükümeti** |
+    > **Açıklama:** |  |<br />| --- |<br />| I – C : Karşı TSK 28 Şubat Millî Güvenlik Kurulu (MGK) toplantısında İslami harekete post modern darbe olarak adlandırılan bazı maddeler ortaya koymuşlardır. **RP-DYP hükümeti** |<br />| II – A : TBMM’den güvenoyu alamamış, böylelikle Türkiye’nin en kısa süre görev yapan hükûmetlerden biri olmuştur. **DYP (İkinci Çiller) hükümeti** |<br />| III – B: Anayasanın öngördüğü çoğunluğun altında, 257 güvenoyu almıştır. Anayasa Mahkemesi sonucu oylamanın iptaline karar vermiştir**. ANAP-DYP (ANAYOL) hükümeti** |
 
     <hr />
 1. 1\. Ekonomik krizden çıkmak için alınan ve tarihe 5 Nisan Kararları olarak geçen ekonomik tedbirler alınmıştır<br />2\. Türkiye ekonomisi 14 yıl sonra yeniden IMF denetimine girmiştir<br />3\. Türkiye genelinde 600 bin memur iki gün süreyle iş bırakmışlardır<br />Yukarıda Türkiye’nin1990’lı yıllarında yaşadığı önemli bazı ekonomik olayları verilmiştir. Bunlardan hangileri İkinci DYP-SHP koalisyon hükümeti döneminde gerçekleşmiştir?
@@ -3826,9 +3544,7 @@
     - **Cevap D-) I ve II**
     - E-) II ve III
 
-    > **Açıklama:** İkinci DYP-SHP koalisyon döneminin en önemli olaylardan biri, siyasi istikrarsızlık, hükûmete güven duymama sonrası Türkiye’den ciddi sermaye çıkışı olmuş ve Türkiye tarihinin en ağır ekonomik krizlerinden biri yaşanmıştır. Dolar birkaç ay içinde 8 liradan 42 liraya yükselmiştir. Ekonomik krizden çıkmak için alınan ve tarihe 5 Nisan Kararları olarak geçen ekonomik tedbirler alınmıştır.
-    > Yüksek faizler nedeniyle artan iç borç yükü, faizleri baskılayarak azaltılmaya çalışılmış, bu durum ülkeden sermaye çıkışına neden olmuştur
-    > Değer kaybı ve enflasyon, acı reçete olarak adlandırılan önlemlerle giderilmeye çalışılmış; bu bağlamda devalüasyon yapılmış, vergiler artırılmış, Türkiye ekonomisi 14 yıl sonra yeniden IMF denetimine girmiştir.
+    > **Açıklama:** İkinci DYP-SHP koalisyon döneminin en önemli olaylardan biri, siyasi istikrarsızlık, hükûmete güven duymama sonrası Türkiye’den ciddi sermaye çıkışı olmuş ve Türkiye tarihinin en ağır ekonomik krizlerinden biri yaşanmıştır. Dolar birkaç ay içinde 8 liradan 42 liraya yükselmiştir. Ekonomik krizden çıkmak için alınan ve tarihe 5 Nisan Kararları olarak geçen ekonomik tedbirler alınmıştır.<br />Yüksek faizler nedeniyle artan iç borç yükü, faizleri baskılayarak azaltılmaya çalışılmış, bu durum ülkeden sermaye çıkışına neden olmuştur<br />Değer kaybı ve enflasyon, acı reçete olarak adlandırılan önlemlerle giderilmeye çalışılmış; bu bağlamda devalüasyon yapılmış, vergiler artırılmış, Türkiye ekonomisi 14 yıl sonra yeniden IMF denetimine girmiştir.
 
     <hr />
 1. 18 Nisan 1999 genel seçimleri sonucuna göre hangi parti meclis dışında kalmıştır?
@@ -3838,13 +3554,7 @@
     - D-) FP
     - E-) DYP
 
-    > **Açıklama:** 18 Nisan 1999 Genel Seçimleri sonucunda beş parti %10’luk Türkiye barajını aşarak parlamentoya girmiştir. Bunlar:
-    > * DSP %22.2 oy oranıyla 136,
-    > * MHP %18.0 oy oranıyla 129,
-    > * FP % 15.4 oy oranıyla 111,
-    > * DYP % 12.0 oy oranıyla 85,
-    > * BĞMSZ %0.9 oy oranıyla 3 milletvekili kazanmıştır
-    > *CHP ise %10’luk seçim barajına takılarak meclis dışında kalmıştır.*
+    > **Açıklama:** 18 Nisan 1999 Genel Seçimleri sonucunda beş parti %10’luk Türkiye barajını aşarak parlamentoya girmiştir. Bunlar:<br />* DSP %22.2 oy oranıyla 136,<br />* MHP %18.0 oy oranıyla 129,<br />* FP % 15.4 oy oranıyla 111,<br />* DYP % 12.0 oy oranıyla 85,<br />* BĞMSZ %0.9 oy oranıyla 3 milletvekili kazanmıştır<br />*CHP ise %10’luk seçim barajına takılarak meclis dışında kalmıştır.*
 
     <hr />
 1. Türk siyasi tarihinde önceleri marjinal bir parti olarak değerlendirilen Refah Partisi(RP)nin oylarını yükselterek kitle partisi hâline gelmesi hangi dönemde gerçekleşmiştir?
@@ -3854,9 +3564,7 @@
     - D-) 1995 ile 1999 arasındaki dönem
     - E-) 1999 ile 2002 arasındaki dönem
 
-    > **Açıklama:** * 27 Mart 1994’te yerel seçimler yapılmış ,bu seçimin sonucuna göre bir önceki yerel seçimin (1989) sonuçları açısından SHP 15.17, DYP ise 3.73 puanlık oy kaybı yaşarken, muhalefet partilerinden RP ise oylarını 9.33 puan arttırmıştır.
-    > * SHP’nin elinde bulunan büyükşehir belediyelerinden Adana ANAP’a, Ankara, İstanbul ve Kayseri RP’ye, İzmir DYP’ye geçmiştir.
-    > * Bu seçimin sonuçları Türkiye siyasetinin geleceği açısından doğurduğu iki önemli sonuçtan biri RP gibi önceleri marjinal sayılan bir siyasi partinin kitle partisi haline gelmesidir.
+    > **Açıklama:** * 27 Mart 1994’te yerel seçimler yapılmış ,bu seçimin sonucuna göre bir önceki yerel seçimin (1989) sonuçları açısından SHP 15.17, DYP ise 3.73 puanlık oy kaybı yaşarken, muhalefet partilerinden RP ise oylarını 9.33 puan arttırmıştır.<br />* SHP’nin elinde bulunan büyükşehir belediyelerinden Adana ANAP’a, Ankara, İstanbul ve Kayseri RP’ye, İzmir DYP’ye geçmiştir.<br />* Bu seçimin sonuçları Türkiye siyasetinin geleceği açısından doğurduğu iki önemli sonuçtan biri RP gibi önceleri marjinal sayılan bir siyasi partinin kitle partisi haline gelmesidir.
 
     <hr />
 1. Türkiye Cumhuriyeti’nin 54. hükûmeti hangi siyasi partilerin koalisyonu ile kurulmuştur ?
@@ -3876,8 +3584,7 @@
     - D-) DYP
     - E-) RP
 
-    > **Açıklama:** Türkiye’de 18 Nisan 1999 tarihinde gerçekleşen genel seçimlerde ilk sırada yer alan siyasi parti DSP’dir.
-    > Doğru Cevap C’dir.
+    > **Açıklama:** Türkiye’de 18 Nisan 1999 tarihinde gerçekleşen genel seçimlerde ilk sırada yer alan siyasi parti DSP’dir.<br />Doğru Cevap C’dir.
 
     <hr />
 1. 1999 yılında MHP’nin 21 yıl sonra ilk kez hükûmet ortağı olduğu koalisyon hükümeti hangi partilerden oluşmuştur ?
@@ -3887,8 +3594,7 @@
     - D-) FP – MHP - DYP
     - E-) DSP – CHP - ANAP
 
-    > **Açıklama:** DSP-MHP-ANAP’tan oluşan yeni koalisyon hükûmeti ile MHP 21 yıl sonra ilk kez hükûmet ortağı olmuştur. Cumhuriyet tarihininen uzun süreli koalisyon hükûmeti olarak bilinen bu hükûmet 28 Mayıs 1999 ile 18 Kasım 2002 tarihleri arasında görev yapmıştır.
-    > Doğru Cevap A’dır.
+    > **Açıklama:** DSP-MHP-ANAP’tan oluşan yeni koalisyon hükûmeti ile MHP 21 yıl sonra ilk kez hükûmet ortağı olmuştur. Cumhuriyet tarihininen uzun süreli koalisyon hükûmeti olarak bilinen bu hükûmet 28 Mayıs 1999 ile 18 Kasım 2002 tarihleri arasında görev yapmıştır.<br />Doğru Cevap A’dır.
 
     <hr />
 1. Türkiye’de 24 Aralık 1995 tarihinde gerçekleşen genel seçimlerde ilk sırada yer alan siyasi parti aşağıdakilerden hangisidir ?
@@ -3898,8 +3604,7 @@
     - D-) DYP
     - **Cevap E-) RP**
 
-    > **Açıklama:** 24 Aralık 1995’te yapılan milletvekilliği seçimlerinde beş parti %10’luk Türkiye barajını aşarak parlamentoya girmiştir. 1995 genel seçimlerinden RP birinci, ANAP ikinci, DYP üçüncü, DSP ve CHP beşinci parti olarak çıkmıştır.
-    > Doğru Cevap E’dir.
+    > **Açıklama:** 24 Aralık 1995’te yapılan milletvekilliği seçimlerinde beş parti %10’luk Türkiye barajını aşarak parlamentoya girmiştir. 1995 genel seçimlerinden RP birinci, ANAP ikinci, DYP üçüncü, DSP ve CHP beşinci parti olarak çıkmıştır.<br />Doğru Cevap E’dir.
 
     <hr />
 1. Erken seçim koşulu ile kurularak 30 Ekim 1995 ile 6 Mart 1996 arasında görev yapan ve Türkiye’yi 24 Aralık 1995 seçimlerine taşıyan koalisyon hükümetini oluşturan siyasi partiler aşağıdakilerden hangisidir ?
@@ -3909,8 +3614,7 @@
     - D-) ANAP – DYP
     - **Cevap E-) DYP - CHP**
 
-    > **Açıklama:** Erken seçim koşulu ile kurularak 30 Ekim 1995 ile 6 Mart 1996 arasında görev yapan ve Türkiye’yi 24 Aralık 1995 seçimlerine taşıyan koalisyon hükümetini oluşturan siyasi partiler DYP VE CHP’dir.
-    > Doğru Cevap E’dir.
+    > **Açıklama:** Erken seçim koşulu ile kurularak 30 Ekim 1995 ile 6 Mart 1996 arasında görev yapan ve Türkiye’yi 24 Aralık 1995 seçimlerine taşıyan koalisyon hükümetini oluşturan siyasi partiler DYP VE CHP’dir.<br />Doğru Cevap E’dir.
 
     <hr />
 1. Türkiye ile Avrupa Birliği arasında gerçekleşen Gümrük Birliği Anlaşması hangi yıl imzalanmıştır ?
@@ -3920,8 +3624,7 @@
     - **Cevap D-) 1995**
     - E-) 1996
 
-    > **Açıklama:** Türkiye ile Avrupa Birliği arasında gerçekleşen Gümrük Birliği Anlaşması 1995 yılında imzalanmıştır.
-    > Doğru Cevap D’dir.
+    > **Açıklama:** Türkiye ile Avrupa Birliği arasında gerçekleşen Gümrük Birliği Anlaşması 1995 yılında imzalanmıştır.<br />Doğru Cevap D’dir.
 
     <hr />
 1. Süleyman Demirel’in DYP Genel Başkanlığı’ndan ayrılması ve Cumhurbaşkanı olmasının ardından DYP genel başkanı olarak seçilen siyasetçi aşağıdakilerden hangisidir ?
@@ -3931,8 +3634,7 @@
     - D-) Yıldırım Avcı
     - E-) Mesut Yılmaz
 
-    > **Açıklama:** Süleyman Demirel’in DYP Genel Başkanlığı’ndan ayrılması ve Cumhurbaşkanı olmasının ardından DYP genel başkanı olarak seçilen siyasetçi Tansu Çiller’dir.
-    > Doğru Cevap A’dır.
+    > **Açıklama:** Süleyman Demirel’in DYP Genel Başkanlığı’ndan ayrılması ve Cumhurbaşkanı olmasının ardından DYP genel başkanı olarak seçilen siyasetçi Tansu Çiller’dir.<br />Doğru Cevap A’dır.
 
     <hr />
 1. Türkiye Cumhuriyeti’nin 9. Cumhurbaşkanı aşağıdakilerden hangisidir ?
@@ -3942,8 +3644,7 @@
     - D-) Ahmet Necdet Sezer
     - E-) Fahri Korutürk
 
-    > **Açıklama:** Türkiye Cumhuriyeti’nin 9. Cumhurbaşkanı Süleyman Demirel’dir.
-    > Doğru Cevap B’dir.
+    > **Açıklama:** Türkiye Cumhuriyeti’nin 9. Cumhurbaşkanı Süleyman Demirel’dir.<br />Doğru Cevap B’dir.
 
     <hr />
 1. 20 Ekim 1991’de yapılan erken genel seçimler sonrasında hangi partilerden oluşan koalisyon hükümeti kurulmuştur ?
@@ -3953,8 +3654,7 @@
     - D-) ANAP – RP
     - **Cevap E-) DYP - SHP**
 
-    > **Açıklama:** 20 Ekim 1991’de yapılan erken genel seçimler sonrasında DYP ve SHP den oluşan bir koalisyon hükümeti kurulmuştur.
-    > Doğru Cevap E’dir.
+    > **Açıklama:** 20 Ekim 1991’de yapılan erken genel seçimler sonrasında DYP ve SHP den oluşan bir koalisyon hükümeti kurulmuştur.<br />Doğru Cevap E’dir.
 
     <hr />
 1. Türkiye’de 20 Ekim 1991 genel seçimlerinde hangi parti ilk sırada yer almıştır ?
@@ -3964,8 +3664,7 @@
     - D-) RP
     - E-) SHP
 
-    > **Açıklama:** 20 Ekim 1991’de yapılan erken genel seçimlerde DYP birinci parti ve ANAP ikinci parti olmuştur.
-    > Doğru Cevap C’dir.
+    > **Açıklama:** 20 Ekim 1991’de yapılan erken genel seçimlerde DYP birinci parti ve ANAP ikinci parti olmuştur.<br />Doğru Cevap C’dir.
 
     <hr />
 1. Cumhurbaşkanı Kenan Evren'in görev süresi aşağıdaki tarihlerden hangisinde dolmuştur?
@@ -3985,8 +3684,7 @@
     - D-) Refah Partisi (RP)
     - E-) Demokratik Sol Parti (DSP)
 
-    > **Açıklama:** 1991’de yapılan milletvekilliği seçimlerinde beş parti %10’luk Türkiye barajını aşarak parlamentoya girmiştir. Seçim sonuçlarına göre Doğruyol Partisi (DYP) % 27.0 oy oranıyla 178, Anavatan Partisi (ANAP) % 24 oy oranıyla 115, Sosyal Demokrat Halkçı Parti (SHP) % 20.8 oy oranıyla 88, Refah Partisi (RP) % 16.9
-    > oy oranıyla 62, Demokratik Sol Parti (DSP) % 10.8 oy oranıyla 7 milletvekili kazanmıştır.
+    > **Açıklama:** 1991’de yapılan milletvekilliği seçimlerinde beş parti %10’luk Türkiye barajını aşarak parlamentoya girmiştir. Seçim sonuçlarına göre Doğruyol Partisi (DYP) % 27.0 oy oranıyla 178, Anavatan Partisi (ANAP) % 24 oy oranıyla 115, Sosyal Demokrat Halkçı Parti (SHP) % 20.8 oy oranıyla 88, Refah Partisi (RP) % 16.9<br />oy oranıyla 62, Demokratik Sol Parti (DSP) % 10.8 oy oranıyla 7 milletvekili kazanmıştır.
 
     <hr />
 1. 1991 seçimlerinde ortaya çıkan tablo sonrası hükûmet nasıl kurulmuştur?
@@ -3996,10 +3694,7 @@
     - D-) ANAP-SHP koalisyon hükûmeti kurulmuştur
     - E-) DYP-DSP koalisyon hükûmeti kurulmuştur
 
-    > **Açıklama:** 1991 seçimlerinde ortaya çıkan tablo sonrası iş dünyası DYP-ANAP koalisyonunu desteklemiş, fakat seçim stratejisini Özal’ı Cumhurbaşkanlığından indirmeyi kurgulayan DYP ile ANAP yönetimleri bu durumda bir koalisyonu anlamlı bulmamıştır.
-    > Demirel, RP ile girebileceği olası ittifakla üçüncü bir Milliyetçi Cephe hükûmeti kurulması fikrine sıcak bakmamıştır.
-    > Demirel’in SHP Genel Başkanı İnönü ile yapmış olduğu görüşmeler sonrası DYP-SHP koalisyon hükûmeti kurulmasına karar verilmiştir.
-    > DYP-SHP koalisyon hükûmeti kurulmuştur
+    > **Açıklama:** 1991 seçimlerinde ortaya çıkan tablo sonrası iş dünyası DYP-ANAP koalisyonunu desteklemiş, fakat seçim stratejisini Özal’ı Cumhurbaşkanlığından indirmeyi kurgulayan DYP ile ANAP yönetimleri bu durumda bir koalisyonu anlamlı bulmamıştır.<br />Demirel, RP ile girebileceği olası ittifakla üçüncü bir Milliyetçi Cephe hükûmeti kurulması fikrine sıcak bakmamıştır.<br />Demirel’in SHP Genel Başkanı İnönü ile yapmış olduğu görüşmeler sonrası DYP-SHP koalisyon hükûmeti kurulmasına karar verilmiştir.<br />DYP-SHP koalisyon hükûmeti kurulmuştur
 
     <hr />
 1. 18 Şubat 1995’te toplanan ortak kurultayda SHP fesh edilerek CHP’ye katılma kararı alınmış ve aşağıdakilerden hangisi oybirliğiyle CHP’nin 5. Genel Başkanı seçilmiştir.
@@ -4029,8 +3724,7 @@
     - D-) Cumhuriyet Halk Partisi (CHP)
     - E-) Demokratik Sol Parti (DSP)
 
-    > **Açıklama:** 24 Aralık 1995’te yapılan milletvekilliği seçimlerinde beş parti %10’luk Türkiye barajını aşarak parlamentoya girmiştir. 1995 genel seçimlerinden RP birinci, ANAP ikinci, DYP üçüncü, DSP ve CHP beşinci parti olarak çıkmıştır.
-    > Refah Partisi (RP)
+    > **Açıklama:** 24 Aralık 1995’te yapılan milletvekilliği seçimlerinde beş parti %10’luk Türkiye barajını aşarak parlamentoya girmiştir. 1995 genel seçimlerinden RP birinci, ANAP ikinci, DYP üçüncü, DSP ve CHP beşinci parti olarak çıkmıştır.<br />Refah Partisi (RP)
 
     <hr />
 1. ANAYOL hükûmeti Türkiye Cumhuriyeti’nin kaçıncı hükûmetidir?
@@ -4120,8 +3814,7 @@
     - D-) 17 Şubat 1994
     - E-) 17 Şubat 1995
 
-    > **Açıklama:** Doğru cevap C şıkkıdır. **Birinci DYP-SHP Koalisyon** **Döneminde Siyasal Hayat** başlığı altında açıklandığı gibi, ABD’nin Kuzey Irak’ta yaptığı çalışmaların Türk Devleti aleyhine olduğunu pek çok kez vurgulayan, bu durumu bir mektup ile zamanın Cumhurbaşkanı Turgut Özal’a da bildiren Orgeneral Eşref
-    > Bitlis şüpheli bir uçak kazası ile 17 Şubat 1993 yılında hayatını kaybetti.
+    > **Açıklama:** Doğru cevap C şıkkıdır. **Birinci DYP-SHP Koalisyon** **Döneminde Siyasal Hayat** başlığı altında açıklandığı gibi, ABD’nin Kuzey Irak’ta yaptığı çalışmaların Türk Devleti aleyhine olduğunu pek çok kez vurgulayan, bu durumu bir mektup ile zamanın Cumhurbaşkanı Turgut Özal’a da bildiren Orgeneral Eşref<br />Bitlis şüpheli bir uçak kazası ile 17 Şubat 1993 yılında hayatını kaybetti.
 
     <hr />
 1. 27 Mart 1994 yerel seçimlerinde oy oranını diğer siyasi partilere göre %9.33 oranında arttıran siyasi parti aşağıdakilerden hangisidir?
@@ -4242,9 +3935,7 @@
     - D-) 14 Eylül 2014
     - E-) 12 Ekim 2014
 
-    > **Açıklama:** AK Parti’nin dördüncü dönemine Türkiye Cumhuriyeti tarihinde cumhurbaşkanının ilk defa halkoyu
-    > ile seçilmesine geçilmiştir. 10 Ağustos 2014’te yapılacak Cumhurbaşkanlığı seçimleri yeni sistemin
-    > deneneceği ilk seçim olması bakımından önemli görülmüştür.
+    > **Açıklama:** AK Parti’nin dördüncü dönemine Türkiye Cumhuriyeti tarihinde cumhurbaşkanının ilk defa halkoyu<br />ile seçilmesine geçilmiştir. 10 Ağustos 2014’te yapılacak Cumhurbaşkanlığı seçimleri yeni sistemin<br />deneneceği ilk seçim olması bakımından önemli görülmüştür.
 
     <hr />
 1. Türkiye’nin “ilk geçici seçim Hükûmeti” hangi tarihte kurulmuştur?
@@ -4274,8 +3965,7 @@
     - D-) Kazakistan
     - E-) Türkmenistan
 
-    > **Açıklama:** Türkiye, 16 Aralık 1991 tarihinde Özbekistan’ın bağımsızlığını tanıyan ilk ülke olmuş, 4 Mart
-    > 1992’de ise iki ülke arasında diplomatik ilişkiler kurulmuştur.
+    > **Açıklama:** Türkiye, 16 Aralık 1991 tarihinde Özbekistan’ın bağımsızlığını tanıyan ilk ülke olmuş, 4 Mart<br />1992’de ise iki ülke arasında diplomatik ilişkiler kurulmuştur.
 
     <hr />
 1. Türkiye’nin öncülüğü ve teşvikiyle 26 Aralık 2011’de başlayan ve “Enerjinin İpek Yolu” olarak adlandırılan Trans Anadolu Doğalgaz Boru Hattı Projesi (TANAP)’nin açılışı ne zaman gerçekleştirilmiştir?
@@ -4315,21 +4005,7 @@
     - **Cevap D-) Kemal Kılıçdaroğlu**
     - E-) Abdullah Gül
 
-    > **Açıklama:** 2009 yerel seçimlerin ardından iç politika
-    > veya Türk siyaseti bakımından en önemli değişiklik CHP’de yaşanmıştır. TBMM’de “1 Mart
-    > Tezkeresi”nin reddedilmesinin ardından iç ve dış
-    > politikada gündemde olan CHP Genel Başkanı
-    > Deniz Baykal kendisine kurulan siyasi kumpas ve
-    > “kaset operasyonu” sonrasında 10 Mayıs 2010’da
-    > istifa etmiş, bu durum partide şok etkisi yaratmıştır
-    > (Sabah, 10.05.2010). Bu gelişme üzerine İstanbul
-    > Milletvekili ve yerel seçimlerde CHP’nin İstanbul
-    > Büyükşehir Belediye Başkan adayı olan Kemal
-    > Kılıçdaroğlu 22 Mayıs 2010’da Ankara Atatürk
-    > Spor Salonu’nda yapılan 33. Olağan Kurultayı’nda
-    > CHP’nin 7. Genel Başkanı seçilmiştir.
-    > 2009 yerel seçimlerin ardından iç politika veya Türk siyaseti bakımından en önemli değişiklik CHP’de yaşanmıştır. TBMM’de “1 Mart Tezkeresi”nin reddedilmesinin ardından iç ve dış politikada gündemde olan CHP Genel Başkanı Deniz Baykal kendisine kurulan siyasi kumpas ve “kaset operasyonu” sonrasında 10 Mayıs 2010’da istifa etmiş, bu durum partide şok etkisi yaratmıştır. Bu gelişme üzerine İstanbul Milletvekili ve yerel seçimlerde CHP’nin İstanbul Büyükşehir Belediye Başkan adayı olan Kemal Kılıçdaroğlu 22 Mayıs 2010’da Ankara Atatürk Spor Salonu’nda yapılan 33. Olağan Kurultayı’nda CHP’nin 7. Genel Başkanı seçilmiştir.
-    > Doğru seçenek D'dir.
+    > **Açıklama:** 2009 yerel seçimlerin ardından iç politika<br />veya Türk siyaseti bakımından en önemli değişiklik CHP’de yaşanmıştır. TBMM’de “1 Mart<br />Tezkeresi”nin reddedilmesinin ardından iç ve dış<br />politikada gündemde olan CHP Genel Başkanı<br />Deniz Baykal kendisine kurulan siyasi kumpas ve<br />“kaset operasyonu” sonrasında 10 Mayıs 2010’da<br />istifa etmiş, bu durum partide şok etkisi yaratmıştır<br />(Sabah, 10.05.2010). Bu gelişme üzerine İstanbul<br />Milletvekili ve yerel seçimlerde CHP’nin İstanbul<br />Büyükşehir Belediye Başkan adayı olan Kemal<br />Kılıçdaroğlu 22 Mayıs 2010’da Ankara Atatürk<br />Spor Salonu’nda yapılan 33. Olağan Kurultayı’nda<br />CHP’nin 7. Genel Başkanı seçilmiştir.<br />2009 yerel seçimlerin ardından iç politika veya Türk siyaseti bakımından en önemli değişiklik CHP’de yaşanmıştır. TBMM’de “1 Mart Tezkeresi”nin reddedilmesinin ardından iç ve dış politikada gündemde olan CHP Genel Başkanı Deniz Baykal kendisine kurulan siyasi kumpas ve “kaset operasyonu” sonrasında 10 Mayıs 2010’da istifa etmiş, bu durum partide şok etkisi yaratmıştır. Bu gelişme üzerine İstanbul Milletvekili ve yerel seçimlerde CHP’nin İstanbul Büyükşehir Belediye Başkan adayı olan Kemal Kılıçdaroğlu 22 Mayıs 2010’da Ankara Atatürk Spor Salonu’nda yapılan 33. Olağan Kurultayı’nda CHP’nin 7. Genel Başkanı seçilmiştir.<br />Doğru seçenek D'dir.
 
     <hr />
 1. Aşağıdakilerden hangisi/hangileri AK Parti’nin ikinci döneminde sivil-asker ilişkileri bağlamında iç politika gündemini meşgul eden konular arasında yer alır?<br />I. Ergenekon Davası<br />II. Balyoz Eylem Planı Davası<br />III. 2011 Yüksek Askeri Şura (YAŞ) Kararları
@@ -4349,8 +4025,7 @@
     - D-) Gezi Parkı Eylemi
     - E-) KCK Davaları
 
-    > **Açıklama:** FETÖ/PDY tarafından 15 Temmuz 2016’da AK Parti Hükümeti’ne karşı yapılan dış destekli “Darbe Girişimi”nin ilk uluslararası adımı Adana’da MİT tırlarına yapılan operasyonla atılmıştır.
-    > Doğru seçenek A şıkkıdır.
+    > **Açıklama:** FETÖ/PDY tarafından 15 Temmuz 2016’da AK Parti Hükümeti’ne karşı yapılan dış destekli “Darbe Girişimi”nin ilk uluslararası adımı Adana’da MİT tırlarına yapılan operasyonla atılmıştır.<br />Doğru seçenek A şıkkıdır.
 
     <hr />
 1. Türkiye Cumhuriyeti tarihinde halkoyu ile seçilen ilk Cumhurbaşkanı kim olmuştur?
@@ -4370,8 +4045,7 @@
     - D-) Saadet Partisi
     - E-) Demokrat Parti
 
-    > **Açıklama:** Muhalefet partileri 3 Mayıs 2018’e gelindiğinde “Millet İttifakı”nı oluşturmuşlardır. Bu ittifak içerisinde; CHP, İYİ Parti, Saadet Partisi ve Demokrat Parti yer almıştır.
-    > MHP, Cumhur İttifakı'ndadır. Doğru seçenek C'dir.
+    > **Açıklama:** Muhalefet partileri 3 Mayıs 2018’e gelindiğinde “Millet İttifakı”nı oluşturmuşlardır. Bu ittifak içerisinde; CHP, İYİ Parti, Saadet Partisi ve Demokrat Parti yer almıştır.<br />MHP, Cumhur İttifakı'ndadır. Doğru seçenek C'dir.
 
     <hr />
 1. Rusya, 24 Kasım 2015’ten sonra Türkiye’ye yönelik ekonomik yaptırım kararları almış, Türkiye’de üretilen bazı ticari ürünlerin Rusya’da satılmasını ve Rus turistlerin Türkiye’ye seyahatlerini kısıtlamıştır.<br />Yaşanan bu gelişmenin sebebi aşağıdaki seçeneklerden hangisinde doğru olarak verilmiştir?
@@ -4381,8 +4055,7 @@
     - **Cevap D-) Suriye’de bulunan Rus Hava Kuvvetlerinin SU-24 savaş uçağı Türk hava sahasını ihlal ettiği gerekçesiyle düşürülmesi.**
     - E-) İki ülke arasında turist vizelerinin kaldırılması
 
-    > **Açıklama:** AK Parti dönemi Türkiye-Rusya ilişkilerinin en büyük krizi 24 Kasım 2015’te yaşanmıştır. Bu tarihte Suriye’de bulunan Rus Hava Kuvvetlerinin SU-24 savaş uçağı Türk hava sahasını ihlal ettiği gerekçesiyle düşürülmüştür. 15 Temmuz Darbe Girişimi sonrasında Türk silahlı kuvvetlerinden FETÖ/PDY üyesi olduğu için atılan iki pilot tarafından uçağın düşürülmesi, Türk-Rus ilişkilerinde büyük bir kriz yaratmıştır. Bir anlamda Türkiye ile Rusya karşı karşıya getirilmek, hatta savaşa sürüklemek istenilmiştir. Rusya uçağının düşürülmesinden Türkiye’yi sorumlu tutmuş, uluslararası ilişkilerde ve diplomatik gelenekte olmayan bir üslupla Türkiye’yi suçlamıştır. Ayrıca Rusya, Türkiye’ye yönelik ekonomik yaptırım kararları almış, Türkiye’de üretilen bazı ticari ürünlerin Rusya’da satılmasını ve Rus turistlerin Türkiye’ye seyahatlerini kısıtlamıştır.
-    > Doğru cevap D seçeneğinde verilmiştir.
+    > **Açıklama:** AK Parti dönemi Türkiye-Rusya ilişkilerinin en büyük krizi 24 Kasım 2015’te yaşanmıştır. Bu tarihte Suriye’de bulunan Rus Hava Kuvvetlerinin SU-24 savaş uçağı Türk hava sahasını ihlal ettiği gerekçesiyle düşürülmüştür. 15 Temmuz Darbe Girişimi sonrasında Türk silahlı kuvvetlerinden FETÖ/PDY üyesi olduğu için atılan iki pilot tarafından uçağın düşürülmesi, Türk-Rus ilişkilerinde büyük bir kriz yaratmıştır. Bir anlamda Türkiye ile Rusya karşı karşıya getirilmek, hatta savaşa sürüklemek istenilmiştir. Rusya uçağının düşürülmesinden Türkiye’yi sorumlu tutmuş, uluslararası ilişkilerde ve diplomatik gelenekte olmayan bir üslupla Türkiye’yi suçlamıştır. Ayrıca Rusya, Türkiye’ye yönelik ekonomik yaptırım kararları almış, Türkiye’de üretilen bazı ticari ürünlerin Rusya’da satılmasını ve Rus turistlerin Türkiye’ye seyahatlerini kısıtlamıştır.<br />Doğru cevap D seçeneğinde verilmiştir.
 
     <hr />
 1. 15 Temmuz 2016 Darbe Girişimi sonrasında Türkiye’yi ziyaret eden, Türk milletiyle dayanışmasını açık ve net bir şekilde ortaya koyan ilk devlet başkanı kim olmuştur?
@@ -4412,8 +4085,7 @@
     - **Cevap D-) I, II, III, IV**
     - E-) I, II, III, IV, V
 
-    > **Açıklama:** Ak Parti’nin Birinci Döneminde Türkiye (2002-2007)
-    > Ak Parti’nin Birinci Döneminde, Recep Tayyip Erdoğan, AK Parti’nin Siirt Milletvekili olarak TBMM’ye girmiştir. Türkiye Cumhuriyeti’nin 58. Hükûmeti’ni kurma görevini Abdullah Gül yapmıştır. İç politika gündem maddesi “1 Mart Tezkeresi” olarak bilinen Başbakanlık Tezkeresi olmuştur. Türkiye Cumhuriyeti tarihinin ve dijital çağın ilk e-muhtırası yapılmıştır.
+    > **Açıklama:** Ak Parti’nin Birinci Döneminde Türkiye (2002-2007)<br />Ak Parti’nin Birinci Döneminde, Recep Tayyip Erdoğan, AK Parti’nin Siirt Milletvekili olarak TBMM’ye girmiştir. Türkiye Cumhuriyeti’nin 58. Hükûmeti’ni kurma görevini Abdullah Gül yapmıştır. İç politika gündem maddesi “1 Mart Tezkeresi” olarak bilinen Başbakanlık Tezkeresi olmuştur. Türkiye Cumhuriyeti tarihinin ve dijital çağın ilk e-muhtırası yapılmıştır.
 
     <hr />
 1. Ak Parti’nin İkinci Döneminde (2007-2011) aşağıdakilerden hangisinde TBMM başkanı doğru olarak verilmiştir?
@@ -4423,8 +4095,7 @@
     - D-) Abdullah Gül
     - E-) İsmet Yılmaz
 
-    > **Açıklama:** Ak Parti’nin İkinci Döneminde Türkiye (2007-2011).
-    > AK Parti Zonguldak Milletvekili Köksal Toptan 9 Ağustos 2007’de TBMM Başkanı seçilmiştir. Doğru cevap B seçeneğidir.
+    > **Açıklama:** Ak Parti’nin İkinci Döneminde Türkiye (2007-2011).<br />AK Parti Zonguldak Milletvekili Köksal Toptan 9 Ağustos 2007’de TBMM Başkanı seçilmiştir. Doğru cevap B seçeneğidir.
 
     <hr />
 1. Türkiye Cumhuriyeti’nin 11. Cumhurbaşkanı kim olmuştur?
@@ -4434,8 +4105,7 @@
     - D-) Ahmet Necdet SEZER
     - E-) Recep Tayyip ERDOĞAN
 
-    > **Açıklama:** Ak Parti’nin İkinci Döneminde Türkiye (2007-2011)
-    > 339 oy ile Abdullah Gül Türkiye Cumhuriyeti’nin 11. Cumhurbaşkanı olmuştur. Doğru cevap C seçeneğidir.
+    > **Açıklama:** Ak Parti’nin İkinci Döneminde Türkiye (2007-2011)<br />339 oy ile Abdullah Gül Türkiye Cumhuriyeti’nin 11. Cumhurbaşkanı olmuştur. Doğru cevap C seçeneğidir.
 
     <hr />
 1. Türkiye’de Parlamenter sistem içinde Cumhurbaşkanı’nın halk oylaması ile seçilmesi yöntemi Ak Parti’nin hangi döneminde gerçekleştirilmiştir?
@@ -4445,8 +4115,7 @@
     - D-) Dördüncü Dönem
     - E-) Beşinci Dönem
 
-    > **Açıklama:** Ak Parti’nin İkinci Döneminde Türkiye (2007-2011)
-    > Türkiye’de Parlamenter sistem içinde Cumhurbaşkanı’nın halk oylaması ile seçilmesi yöntemi 21 Ekim 2007’de gerçekleştirilen Anayasa Değişikliği Halkoylaması ile kabul edilmiştir. Doğru cevap B seçeneğidir.
+    > **Açıklama:** Ak Parti’nin İkinci Döneminde Türkiye (2007-2011)<br />Türkiye’de Parlamenter sistem içinde Cumhurbaşkanı’nın halk oylaması ile seçilmesi yöntemi 21 Ekim 2007’de gerçekleştirilen Anayasa Değişikliği Halkoylaması ile kabul edilmiştir. Doğru cevap B seçeneğidir.
 
     <hr />
 1. Türk siyasi hayatında ilk defa tek başına iktidarda iken kendisine yönelik kapatılma davası açılan siyasi parti aşağıdakilerden hangisinde doğru olarak verilmiştir?
@@ -4456,8 +4125,7 @@
     - D-) MHP
     - E-) CHP
 
-    > **Açıklama:** Ak Parti’nin İkinci Döneminde Türkiye (2007-2011)
-    > Türk siyasi hayatında ilk defa tek başına iktidarda iken kendisine yönelik kapatılma davası açılan siyasi parti AK Parti’dir. Doğru cevap A seçeneğidir.
+    > **Açıklama:** Ak Parti’nin İkinci Döneminde Türkiye (2007-2011)<br />Türk siyasi hayatında ilk defa tek başına iktidarda iken kendisine yönelik kapatılma davası açılan siyasi parti AK Parti’dir. Doğru cevap A seçeneğidir.
 
     <hr />
 1. İlk defa 25 yaşını doldurmuş kişilerin milletvekili adayı ve milletvekili olma hakkı hangi dönemde verilmiştir?
@@ -4467,8 +4135,7 @@
     - D-) Dördüncü Dönem
     - E-) Beşinci Dönem
 
-    > **Açıklama:** AK Parti’nin Üçüncü Döneminde Türkiye (2011-2014)
-    > 12 Haziran 2011 Milletvekilliği Genel Seçimleri ilkleri bünyesinde barındırmıştır. Bu seçimler Türkiye’de 34 yıl aradan sonra “erken” yapılmayan ilk genel seçimdir. Ayrıca ilk defa 25 yaşını doldurmuş kişiler bu seçimlerde milletvekili adayı ve milletvekili olmuştur. Doğru cevap C seçeneğidir.
+    > **Açıklama:** AK Parti’nin Üçüncü Döneminde Türkiye (2011-2014)<br />12 Haziran 2011 Milletvekilliği Genel Seçimleri ilkleri bünyesinde barındırmıştır. Bu seçimler Türkiye’de 34 yıl aradan sonra “erken” yapılmayan ilk genel seçimdir. Ayrıca ilk defa 25 yaşını doldurmuş kişiler bu seçimlerde milletvekili adayı ve milletvekili olmuştur. Doğru cevap C seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi ya da hangileri AK Parti’nin Dördüncü Döneminde gerçekleşmiştir?<br />I.Türkiye’nin “ilk geçici seçim Hükûmeti” 28 Ağustos 2015’te kurulmuştur<br />II.Yurtdışı seçmenler ilk defa Cumhurbaşkanlığı seçimi için oy kullanmıştır.<br />III.Recep Tayyip Erdoğan Türkiye Cumhuriyeti tarihinde halkoyu ile seçilen ilk Cumhurbaşkanı’dır<br />IV.AK Parti’nin tek başına iktidarı gerçekleşmiştir.<br />V. “Cumhurbaşkanlığı Hükûmet Sistemi”ne geçilmiştir.
@@ -4478,8 +4145,7 @@
     - D-) I, II, III, IV
     - **Cevap E-) I, II, III, IV, V**
 
-    > **Açıklama:** AK Parti’nin Dördüncü Döneminde Türkiye ve Yeni Hükûmet Sistemi (2014-2018)
-    > AK Parti’nin Dördüncü Döneminde; Türkiye’nin “ilk geçici seçim Hükûmeti” 28 Ağustos 2015’te kurulmuştur. Yurtdışı seçmenler ilk defa Cumhurbaşkanlığı seçimi için oy kullanmıştır. Recep Tayyip Erdoğan Türkiye Cumhuriyeti tarihinde halkoyu ile seçilen ilk Cumhurbaşkanı’dır. AK Parti’nin tek başına iktidarı gerçekleşmiştir ve “Cumhurbaşkanlığı Hükûmet Sistemi”ne geçilmiştir. Doğru cevap E seçeneğidir.
+    > **Açıklama:** AK Parti’nin Dördüncü Döneminde Türkiye ve Yeni Hükûmet Sistemi (2014-2018)<br />AK Parti’nin Dördüncü Döneminde; Türkiye’nin “ilk geçici seçim Hükûmeti” 28 Ağustos 2015’te kurulmuştur. Yurtdışı seçmenler ilk defa Cumhurbaşkanlığı seçimi için oy kullanmıştır. Recep Tayyip Erdoğan Türkiye Cumhuriyeti tarihinde halkoyu ile seçilen ilk Cumhurbaşkanı’dır. AK Parti’nin tek başına iktidarı gerçekleşmiştir ve “Cumhurbaşkanlığı Hükûmet Sistemi”ne geçilmiştir. Doğru cevap E seçeneğidir.
 
     <hr />
 1. Ak parti döneminde dış politika gelişmeleri ile verilen bilgilerden hangisi doğru değildir?
@@ -4489,8 +4155,7 @@
     - **Cevap D-) ABD,Türkiye’nin Suriye’de PYD/ YPG’ye karşı operasyon yapmasını desteklemiştir.**
     - E-) Orta Doğu politikası; bölgede barış ve istikrarın, refah artışının, ekonomik kalkınmanın sağlanması şeklinde olmuştur.
 
-    > **Açıklama:** AK Parti Dönemi Dış Politika Gelişmeleri(2002-2018)
-    > 4 Temmuz 2003’te yaşanan Çuval Olayı’ndan sonra Türkiye-ABD ilişkileri giderek zayıflamıştır. AB Türkiye’ye ilk defa 2004’te “imtiyazlı ortaklık” önermişlerdir. Türkiye-Rusya ilişkilerinin en büyük krizi 24 Kasım 2015’te yaşanmıştır. Orta Doğu politikası; bölgede barış ve istikrarın, refah artışının, ekonomik kalkınmanın sağlanması şeklinde olmuştur. ABD, Türkiye’nin Suriye’de PYD/ YPG’ye karşı operasyon yapmamasını istemiştir. Doğru cevap D seçeneğidir.
+    > **Açıklama:** AK Parti Dönemi Dış Politika Gelişmeleri(2002-2018)<br />4 Temmuz 2003’te yaşanan Çuval Olayı’ndan sonra Türkiye-ABD ilişkileri giderek zayıflamıştır. AB Türkiye’ye ilk defa 2004’te “imtiyazlı ortaklık” önermişlerdir. Türkiye-Rusya ilişkilerinin en büyük krizi 24 Kasım 2015’te yaşanmıştır. Orta Doğu politikası; bölgede barış ve istikrarın, refah artışının, ekonomik kalkınmanın sağlanması şeklinde olmuştur. ABD, Türkiye’nin Suriye’de PYD/ YPG’ye karşı operasyon yapmamasını istemiştir. Doğru cevap D seçeneğidir.
 
     <hr />
 1. Ak parti döneminde dış politika gelişmeleri ile verilen bilgilerden hangisi ya da hangileri doğrudur?<br />I.Türkiye, Balkanlarda dış politika aracı olarak “yumuşak güç” ilkesini ve unsurlarını kullanmıştır<br />II.İran, 15 Temmuz darbe girişimini kınayan ilk ülkelerden biri olmuştur.<br />III.Türkiye-Azerbaycan arasında günümüzde de var olan stratejik ortaklığın temeli Haydar Aliyev’in söylediği “BİZ TEK MİLLET, İKİ DEVLETİZ” anlayışıyla atılmıştır.<br />IV.4 Ekim 2009’da Nahçıvan Antlaşması ile Türkiye, Azerbaycan, Kazakistan, Kırgızistan ve Türkmenistan ilk defa “Türk Konseyi”ni kabul etmişlerdir.
@@ -4500,8 +4165,7 @@
     - D-) I, II, III
     - **Cevap E-) I, II, III, IV**
 
-    > **Açıklama:** Ak Parti Dönemi Dış Politika Gelişmeleri (2002-2018)
-    > Türkiye, Balkanlarda dış politika aracı olarak “yumuşak güç” ilkesini ve unsurlarını kullanmıştırİran, 15 Temmuz darbe girişimini kınayan ilk ülkelerden biri olmuştur. Türkiye-Azerbaycan arasında günümüzde de var olan stratejik ortaklığın temeli Haydar Aliyev’in söylediği “BİZ TEK MİLLET, İKİ DEVLETİZ” anlayışıyla atılmıştır. Ayrıca 4 Ekim 2009’da Nahçıvan Antlaşması ile Türkiye, Azerbaycan, Kazakistan, Kırgızistan ve Türkmenistan ilk defa “Türk Konseyi”ni kabul etmişlerdir. Doğru cevap E seçeneğidir.
+    > **Açıklama:** Ak Parti Dönemi Dış Politika Gelişmeleri (2002-2018)<br />Türkiye, Balkanlarda dış politika aracı olarak “yumuşak güç” ilkesini ve unsurlarını kullanmıştırİran, 15 Temmuz darbe girişimini kınayan ilk ülkelerden biri olmuştur. Türkiye-Azerbaycan arasında günümüzde de var olan stratejik ortaklığın temeli Haydar Aliyev’in söylediği “BİZ TEK MİLLET, İKİ DEVLETİZ” anlayışıyla atılmıştır. Ayrıca 4 Ekim 2009’da Nahçıvan Antlaşması ile Türkiye, Azerbaycan, Kazakistan, Kırgızistan ve Türkmenistan ilk defa “Türk Konseyi”ni kabul etmişlerdir. Doğru cevap E seçeneğidir.
 
     <hr />
 1. 12 Aralık 1995’te Birleşmiş Milletlerden “Daimi Tarafsız Ülke” statüsü elde eden Türk cumhuriyeti aşağıdakilerden hangisidir?
@@ -4511,8 +4175,7 @@
     - D-) Kuzey Kıbrıs Türk Cumhuriyeti
     - E-) Kazakistan
 
-    > **Açıklama:** Türkiye-Türkmenistan İlişkiler
-    > Türkmenistan 12 Aralık 1995’te Birleşmiş Milletlerden “Daimi Tarafsız Ülke” statüsü elde eden tek Türk cumhuriyetidir. Doğru cevap B seçeneğidir.
+    > **Açıklama:** Türkiye-Türkmenistan İlişkiler<br />Türkmenistan 12 Aralık 1995’te Birleşmiş Milletlerden “Daimi Tarafsız Ülke” statüsü elde eden tek Türk cumhuriyetidir. Doğru cevap B seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi 15 Temmuz darbe girişiminin hemen ardından Türkiye’ye desteğini açıklayan ülkeler arasında yer almaz?
@@ -4532,8 +4195,7 @@
     - D-) Aşkabat
     - E-) Ankara
 
-    > **Açıklama:** 3-4 Ekim 2009 tarihleri arasında Azerbaycan’a bağlı Nahçıvan Özerk Cumhuriyeti 9. Türk Dili Konuşan Devlet Başkanları Zirvesi’ne ev sahipliği yapmıştır. Zirvede 4 Ekim 2009’da Nahçıvan Antlaşması imzalanmıştır. Bu antlaşma ile Türkiye, Azerbaycan, Kazakistan, Kırgızistan ve
-    > Türkmenistan ilk defa “Türk Konseyi”nin veya “Türk Keneş”inin kurulmasını kabul etmişlerdir.
+    > **Açıklama:** 3-4 Ekim 2009 tarihleri arasında Azerbaycan’a bağlı Nahçıvan Özerk Cumhuriyeti 9. Türk Dili Konuşan Devlet Başkanları Zirvesi’ne ev sahipliği yapmıştır. Zirvede 4 Ekim 2009’da Nahçıvan Antlaşması imzalanmıştır. Bu antlaşma ile Türkiye, Azerbaycan, Kazakistan, Kırgızistan ve<br />Türkmenistan ilk defa “Türk Konseyi”nin veya “Türk Keneş”inin kurulmasını kabul etmişlerdir.
 
     <hr />
 1. 1\. Kürecik füze savunma sistemi<br />2\. Suriye iç savaşı<br />3\. 15 Temmuz darbe girişimi<br />Yukarıdakilerden hangisi ya da hangileri Türkiye ve İran’ı karşı karşıya getiren olaylar arasında yer almaktadır?
@@ -4553,8 +4215,7 @@
     - D-) Abdullah Gül
     - E-) Binali Yıldırım
 
-    > **Açıklama:** Erdoğan, seçim hükûmeti için AK Parti Genel Başkanı Davutoğlu’nu görevlendirmiştir. Türk siyasi tarihinde ilk defa kurulacak seçim Hükûmeti için Cumhurbaşkanı Erdoğan ve TBMM Başkanı
-    > İsmet Yılmaz Meclise giren partilerin vekil sayılarına göre bakanlık dağılımını belirlemiştir. Bağımsız olması gereken 3 bakan dışında AK Parti’ye 11, CHP’ye 5, MHP ve HDP’ye 3’er bakanlık düşmüştür. Yapılan siyasi tartışmaların, görüşmelerin ve çalışmaların ardından, Türkiye’nin “ilk geçici seçim Hükûmeti” 28 Ağustos 2015’te kurulmuştur (Habertürk, 29.08.2015).
+    > **Açıklama:** Erdoğan, seçim hükûmeti için AK Parti Genel Başkanı Davutoğlu’nu görevlendirmiştir. Türk siyasi tarihinde ilk defa kurulacak seçim Hükûmeti için Cumhurbaşkanı Erdoğan ve TBMM Başkanı<br />İsmet Yılmaz Meclise giren partilerin vekil sayılarına göre bakanlık dağılımını belirlemiştir. Bağımsız olması gereken 3 bakan dışında AK Parti’ye 11, CHP’ye 5, MHP ve HDP’ye 3’er bakanlık düşmüştür. Yapılan siyasi tartışmaların, görüşmelerin ve çalışmaların ardından, Türkiye’nin “ilk geçici seçim Hükûmeti” 28 Ağustos 2015’te kurulmuştur (Habertürk, 29.08.2015).
 
     <hr />
 1. Türkiye’de 15 Temmuz darbe girişiminde bulunan ve kamuoyunda “Fetullahçılar” olarak bilinen FETÖ/PDY’nin varmak istediği amaçlar doğrultusunda dış destekle harekete geçtiği ilk defa hangi olayla anlaşılmıştır?
@@ -4594,8 +4255,7 @@
     - D-) Rize
     - E-) İzmir
 
-    > **Açıklama:** TBMM’de 27 Aralık 2002’de gerçekleştirilen Anayasa değişikliği ile Erdoğan’ın mahkûm olduğu suç milletvekili seçilme engeli oluşturmaktan çıkarılmıştır. Yapılan son genel seçimlerde Yüksek Seçim Kurulu (YSK) Siirt’teki seçim sonuçlarını sandık kurullarının oluşturulmasında yaşanan usulsüzlüklerden dolayı 3 Aralık 2002’de iptal edilmesine ve yenilenmesine karar verdiğinden,
-    > Recep Tayyip Erdoğan’ın buradan milletvekili adayı olma imkanı ortaya çıkmıştır. Bunun üzerine Erdoğan, Siirt’ten partisi adına aday olmuş, 9 Mart 2003’te yapılan seçimlerde AK Parti’nin Siirt Milletvekili olarak TBMM’ye girmiştir (TCCB, 2020a).
+    > **Açıklama:** TBMM’de 27 Aralık 2002’de gerçekleştirilen Anayasa değişikliği ile Erdoğan’ın mahkûm olduğu suç milletvekili seçilme engeli oluşturmaktan çıkarılmıştır. Yapılan son genel seçimlerde Yüksek Seçim Kurulu (YSK) Siirt’teki seçim sonuçlarını sandık kurullarının oluşturulmasında yaşanan usulsüzlüklerden dolayı 3 Aralık 2002’de iptal edilmesine ve yenilenmesine karar verdiğinden,<br />Recep Tayyip Erdoğan’ın buradan milletvekili adayı olma imkanı ortaya çıkmıştır. Bunun üzerine Erdoğan, Siirt’ten partisi adına aday olmuş, 9 Mart 2003’te yapılan seçimlerde AK Parti’nin Siirt Milletvekili olarak TBMM’ye girmiştir (TCCB, 2020a).
 
     <hr />
 1. Ak parti hükümeti döneminde ilk meclis başkanı kim olmuştur?

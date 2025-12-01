@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 358800,
-        "SoruMetni": "<strong>I. </strong>Bilgi aktarma<br/>II. İkna etme<br/>III. Dikkat çekme<br/><strong>Yukarıdakilerden hangisi ya da hangileri reklamlarda tipografinin temel amaçları arasında yer alır?</strong></br></br>",
+        "SoruMetni": "<strong>I. </strong>Bilgi aktarma<br/>II. İkna etme<br/>III. Dikkat çekme<br/><strong>Yukarıdakilerden hangisi ya da hangileri reklamlarda tipografinin temel amaçları arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 358807,
-        "SoruMetni": "I. Bilgi aktarmak<br/>II. İkna etmek<br/>III. Dikkat çekmek<br/><strong>Yukarıdakilerden hangisi ya da hangileri reklamlarda tipografinin amaçlarındandır?</strong></br></br>",
+        "SoruMetni": "I. Bilgi aktarmak<br/>II. İkna etmek<br/>III. Dikkat çekmek<br/><strong>Yukarıdakilerden hangisi ya da hangileri reklamlarda tipografinin amaçlarındandır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",

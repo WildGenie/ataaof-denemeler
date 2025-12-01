@@ -1287,11 +1287,7 @@
     - D-) II, IV ve V
     - E-) III, IV ve V
 
-    > **Açıklama:** Metinde Aaker'dan alıntılanan markalaşma zorlukları arasında;
-    > * Yeni alt kategoriler yaratılması (I)
-    > * Marka varlığının büyümeyi sağlamak için güçlendirilmesi (IV)
-    > * İşletmenin etkili bir vizyona sahip olması (V)
-    > gibi maddeler bulunmaktadır. II ve III numaralı ifadeler ise bu zorlukların tam tersi olan hatalı yaklaşımları tanımlamaktadır.
+    > **Açıklama:** Metinde Aaker'dan alıntılanan markalaşma zorlukları arasında;<br />* Yeni alt kategoriler yaratılması (I)<br />* Marka varlığının büyümeyi sağlamak için güçlendirilmesi (IV)<br />* İşletmenin etkili bir vizyona sahip olması (V)<br />gibi maddeler bulunmaktadır. II ve III numaralı ifadeler ise bu zorlukların tam tersi olan hatalı yaklaşımları tanımlamaktadır.
 
     <hr />
 1. **Tüketicinin bir markayı hızlıca tanımlayıp ifade edebildiği bir özellik olarak tanımlanan temel marka kavramı aşağıdakilerden hangisidir?**
@@ -1331,10 +1327,7 @@
     - D-) II, IV ve V
     - **Cevap E-) III, IV ve V**
 
-    > **Açıklama:** Metne göre küresel markalar;
-    > * başarılı bir satış grafiğine ve yüksek müşteri sadakatine sahiptir (II),
-    > * sadece ürün satmakla kalmaz, aynı zamanda küresel birer kültür ikonu yaratır (IV),
-    > * ve girdikleri pazarın kültürel özelliklerine uyum sağlamak için marka isimlerini veya logolarını değiştirebilirler (V).
+    > **Açıklama:** Metne göre küresel markalar;<br />* başarılı bir satış grafiğine ve yüksek müşteri sadakatine sahiptir (II),<br />* sadece ürün satmakla kalmaz, aynı zamanda küresel birer kültür ikonu yaratır (IV),<br />* ve girdikleri pazarın kültürel özelliklerine uyum sağlamak için marka isimlerini veya logolarını değiştirebilirler (V).
 
     <hr />
 1. **Aşağıdakilerden hangisi küresel markalarla ilişki kuran tüketicilerin ayrıldıkları bölümlerden biri değildir?**
@@ -1344,12 +1337,7 @@
     - D-) Küresel bilinmezciler
     - E-) Küresel karşıtları
 
-    > **Açıklama:** Metinde küresel markalarla ilişki kuran tüketiciler dört bölüme ayrılmıştır:
-    > * Küresel vatandaşlar
-    > * Küresel hayalperestler
-    > * Küresel karşıtları
-    > * Küresel bilinmezciler
-    > 'Küresel yanlısı' bu sınıflandırmada yer almamaktadır.
+    > **Açıklama:** Metinde küresel markalarla ilişki kuran tüketiciler dört bölüme ayrılmıştır:<br />* Küresel vatandaşlar<br />* Küresel hayalperestler<br />* Küresel karşıtları<br />* Küresel bilinmezciler<br />'Küresel yanlısı' bu sınıflandırmada yer almamaktadır.
 
     <hr />
 1. I. Rekabet üstünlüğünü sürdürülebilir kılmak<br />II. Dağıtım ağının geniş olması.<br />III. Ölçek ekonomileri<br />IV. Tüketicilerin markayı küresel bir marka olarak kabul etmiş olması<br />V. Marka imajının olumlu olması<br />**Yerel bir markanın küresel marka haline gelmek istemesi durumunda uyması gereken temel şartlar aşağıdakilerden hangisinde yer almaktadır?**
@@ -1359,11 +1347,7 @@
     - D-) II, IV ve V
     - E-) III, IV ve V
 
-    > **Açıklama:** Randall'a göre yerel bir markanın küresel olma yolunda uyması gereken temel şartlar şunlardır:
-    > * Rekabet üstünlüğünü sürdürülebilir kılmak (I)
-    > * Ölçek ekonomileri (III)
-    > * Hedef ülkeye uygun bölümleme ve pazarlama stratejileri oluşturmak.
-    > Seçenek IV (Tüketicilerin markayı küresel kabul etmesi) ise bu sürecin bir sonucudur, ön şartı değildir.
+    > **Açıklama:** Randall'a göre yerel bir markanın küresel olma yolunda uyması gereken temel şartlar şunlardır:<br />* Rekabet üstünlüğünü sürdürülebilir kılmak (I)<br />* Ölçek ekonomileri (III)<br />* Hedef ülkeye uygun bölümleme ve pazarlama stratejileri oluşturmak.<br />Seçenek IV (Tüketicilerin markayı küresel kabul etmesi) ise bu sürecin bir sonucudur, ön şartı değildir.
 
     <hr />
 1. **Markalaşmayla ilgili olarak aşağıdakilerden hangisi söylenemez?**
@@ -1393,10 +1377,7 @@
     - D-) II ve III
     - E-) I, II ve III
 
-    > **Açıklama:** Bir markanın küresel olarak tanımlanabilmesi için temel hususlar;
-    > * tüm dünya pazarlarında genel bir bilinirliğe sahip olması (I)
-    > * pazarlama ölçeğinin dünya geneline yayılmış olmasıdır (II).
-    > Sadece tek bir coğrafi alanda faaliyet göstermesi (III) ise yerel markanın tanımıdır.
+    > **Açıklama:** Bir markanın küresel olarak tanımlanabilmesi için temel hususlar;<br />* tüm dünya pazarlarında genel bir bilinirliğe sahip olması (I)<br />* pazarlama ölçeğinin dünya geneline yayılmış olmasıdır (II).<br />Sadece tek bir coğrafi alanda faaliyet göstermesi (III) ise yerel markanın tanımıdır.
 
     <hr />
 ## Unite 11

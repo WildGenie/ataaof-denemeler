@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İngiliz bilim insanı Tim Berners-Lee tarafından geliştirilen WWW standartları sayesinde metin, ses, resim, görüntü gibi her türlü formatı İnternet üzerinde barındırmak, almak ve göndermek mümkün hâle gelmiş ve İnternet’in kitlesel bir iletişim ortamı hâline dönüşmesinin temelleri atılmıştır.<br>Tim Berners-Lee tarafından WWW standartlarının geliştirilmesi"
+        "Aciklama": "İngiliz bilim insanı Tim Berners-Lee tarafından geliştirilen WWW standartları sayesinde metin, ses, resim, görüntü gibi her türlü formatı İnternet üzerinde barındırmak, almak ve göndermek mümkün hâle gelmiş ve İnternet’in kitlesel bir iletişim ortamı hâline dönüşmesinin temelleri atılmıştır.<br/>Tim Berners-Lee tarafından WWW standartlarının geliştirilmesi"
     },
     {
         "SoruID": 3769131,
@@ -617,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Sorunun doğru yanıtı \"Paranın Tarihsel Evrimi ve Dijital Dönüşümü\" başlığı altında bulunmaktadır.</strong><br>Paradaki merkezsizleşme ihtiyacının en somut olarak hissedildiği ve çözüm arayışlarına girildiği ilk vaka, 2008 ABD Finans Krizi olmuştur."
+        "Aciklama": "<strong>Sorunun doğru yanıtı \"Paranın Tarihsel Evrimi ve Dijital Dönüşümü\" başlığı altında bulunmaktadır.</strong><br/>Paradaki merkezsizleşme ihtiyacının en somut olarak hissedildiği ve çözüm arayışlarına girildiği ilk vaka, 2008 ABD Finans Krizi olmuştur."
     },
     {
         "SoruID": 3769307,
@@ -637,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Paranın Tarihsel Evrimi ve Dijital Dönüşümü\" başlığı altında bulunmaktadır. </strong><br>Bireylerin ve toplumların onayı alınmadan alınan ancak faturası da onlara çıkartılan bu tür kriz süreçlerinde ihtiyaç duyulan adil, şeffaf, denetlenebilir bir işleyişin nasıl kurulabileceği sorunsalından hareketle 2008 yılı sonunda İnternet üzerinde başlatılan tartışmalar, giderek bir kural manzumesine dönüştürülmüş ve nihayet bu kural manzumesi de üzerinde geniş bir mutabakat sağlandıktan sonra kimsenin (kurucusu veya kurucularının bile) tek başına değiştiremeyeceği bir koda dönüştürülerek 2009 yılında Bitcoin adı verilen bir finansal işleyiş olarak hayata geçirilmiştir."
+        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Paranın Tarihsel Evrimi ve Dijital Dönüşümü\" başlığı altında bulunmaktadır. </strong><br/>Bireylerin ve toplumların onayı alınmadan alınan ancak faturası da onlara çıkartılan bu tür kriz süreçlerinde ihtiyaç duyulan adil, şeffaf, denetlenebilir bir işleyişin nasıl kurulabileceği sorunsalından hareketle 2008 yılı sonunda İnternet üzerinde başlatılan tartışmalar, giderek bir kural manzumesine dönüştürülmüş ve nihayet bu kural manzumesi de üzerinde geniş bir mutabakat sağlandıktan sonra kimsenin (kurucusu veya kurucularının bile) tek başına değiştiremeyeceği bir koda dönüştürülerek 2009 yılında Bitcoin adı verilen bir finansal işleyiş olarak hayata geçirilmiştir."
     },
     {
         "SoruID": 3769309,
@@ -657,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Sorunun doğru yanıtı \"Merkez Bankalarından Merkezsiz Finansa; Farklı Olan Ne?\" başlığı altında bulunmaktadır. </strong><br>Geleneksel finans kurumlarında işlem kayıtları, kurumun yönetiminin belirlediği oranda şeffaf ve denetime açıktır. Bitcoin ve özgün türevlerinde ise, tutulan işlem kayıtları ilk işlemden bugüne İnternet üzerinde isteyen herkesin görüş ve denetimine açıktır."
+        "Aciklama": "<strong>Sorunun doğru yanıtı \"Merkez Bankalarından Merkezsiz Finansa; Farklı Olan Ne?\" başlığı altında bulunmaktadır. </strong><br/>Geleneksel finans kurumlarında işlem kayıtları, kurumun yönetiminin belirlediği oranda şeffaf ve denetime açıktır. Bitcoin ve özgün türevlerinde ise, tutulan işlem kayıtları ilk işlemden bugüne İnternet üzerinde isteyen herkesin görüş ve denetimine açıktır."
     },
     {
         "SoruID": 3769310,
@@ -677,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Merkez Bankalarından Merkezsiz Finansa; Farklı Olan Ne?\" başlığı altında bulunmaktadır. </strong><br>Bitcoin benzeri açık kaynak kodlu blokzincirler olarak geliştirilen Dijital Güven Protokolleri de <strong><em>Kriptopara </em></strong>olarak adlandırılmaktadır."
+        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Merkez Bankalarından Merkezsiz Finansa; Farklı Olan Ne?\" başlığı altında bulunmaktadır. </strong><br/>Bitcoin benzeri açık kaynak kodlu blokzincirler olarak geliştirilen Dijital Güven Protokolleri de <strong><em>Kriptopara </em></strong>olarak adlandırılmaktadır."
     },
     {
         "SoruID": 3769312,
@@ -697,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"İlgili Regülasyonlar\" başlığı altındadır.</strong><br>Bu arada El Salvador devleti ise Bitcoin’i resmî para birimi olarak kabul eden ilk ülke oldu (Renteria ve arkadaşları, 2021)."
+        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"İlgili Regülasyonlar\" başlığı altındadır.</strong><br/>Bu arada El Salvador devleti ise Bitcoin’i resmî para birimi olarak kabul eden ilk ülke oldu (Renteria ve arkadaşları, 2021)."
     },
     {
         "SoruID": 3769314,
@@ -717,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Merkez Bankalarından Merkezsiz Finansa; Farklı Olan Ne?\"başlığı altında bulunmaktadır. </strong><br><table> <tbody> <tr> <td> <strong>İşleyiş </strong><br/></td> <td> Merkezi<br/></td> <td> Merkezsiz<br/></td> </tr> <tr> <td> <strong>İşlem Kayıtları </strong><br/></td> <td> Kuruma açık<br/></td> <td> Kamuya açık<br/></td> </tr> <tr> <td> <strong>Mahremiyet </strong><br/></td> <td> Kurum<br/></td> <td> Kullanıcı<br/></td> </tr> <tr> <td> <strong>Güvenlik </strong><br/></td> <td> Dijital<br/></td> <td> Kripto<br/></td> </tr> </tbody> </table>"
+        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Merkez Bankalarından Merkezsiz Finansa; Farklı Olan Ne?\"başlığı altında bulunmaktadır. </strong><br/><table> <tbody> <tr> <td> <strong>İşleyiş </strong><br/></td> <td> Merkezi<br/></td> <td> Merkezsiz<br/></td> </tr> <tr> <td> <strong>İşlem Kayıtları </strong><br/></td> <td> Kuruma açık<br/></td> <td> Kamuya açık<br/></td> </tr> <tr> <td> <strong>Mahremiyet </strong><br/></td> <td> Kurum<br/></td> <td> Kullanıcı<br/></td> </tr> <tr> <td> <strong>Güvenlik </strong><br/></td> <td> Dijital<br/></td> <td> Kripto<br/></td> </tr> </tbody> </table>"
     },
     {
         "SoruID": 3769315,
@@ -737,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Blokzincir Ekonomisi ve Ötesi\" başlığı altında bulunmaktadır.</strong><br>Blokzincire kimler ve neden ihtiyaç duyar? Bu soruyu kısa bir ifadeyle “aralarında güven problemi olan iki veya fazla sayıda sosyal veya ticari taraf ” olarak yanıtlayabiliriz. Bu ifadeyi detaylandırmak gerekirse:<br/><ul> <li>İş kayıtlarını başkalarıyla ortak tutma, kullanma ve paylaşma zorunluluğu olanlar, (Örnek: Proje/ taahhüt işleri yapanlar, kamu kurumlarıyla iş yapanlar)</li> <li>Nesnel ve manipüle edilemeyecek kayıt saklama zorunluluğu olanlar, (Ör: Tapu daireleri)</li> <li>Çalışma ilkeleri farklılık gösterenler (Ör: Gümrükler)</li> <li>İş ilkelerini ve içeriğini değiştirmeden saklama ihtiyacında olanlar (Ör: Diploma)</li> <li>Açıklık ve şeffaf kayıt zorunluluğu olanlar (Örnek: Telife tabi eserler)</li> </ul>"
+        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Blokzincir Ekonomisi ve Ötesi\" başlığı altında bulunmaktadır.</strong><br/>Blokzincire kimler ve neden ihtiyaç duyar? Bu soruyu kısa bir ifadeyle “aralarında güven problemi olan iki veya fazla sayıda sosyal veya ticari taraf ” olarak yanıtlayabiliriz. Bu ifadeyi detaylandırmak gerekirse:<br/><ul> <li>İş kayıtlarını başkalarıyla ortak tutma, kullanma ve paylaşma zorunluluğu olanlar, (Örnek: Proje/ taahhüt işleri yapanlar, kamu kurumlarıyla iş yapanlar)</li> <li>Nesnel ve manipüle edilemeyecek kayıt saklama zorunluluğu olanlar, (Ör: Tapu daireleri)</li> <li>Çalışma ilkeleri farklılık gösterenler (Ör: Gümrükler)</li> <li>İş ilkelerini ve içeriğini değiştirmeden saklama ihtiyacında olanlar (Ör: Diploma)</li> <li>Açıklık ve şeffaf kayıt zorunluluğu olanlar (Örnek: Telife tabi eserler)</li> </ul>"
     },
     {
         "SoruID": 3769317,
@@ -757,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Blokzincir Ekonomisi ve Ötesi\" başlığı altındadır. </strong><br><strong>Konsorsiyum </strong>(<em>Hybrid blockchain</em>) ise genel ile özel arasında konumlanmış blok zincirlerdir"
+        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Blokzincir Ekonomisi ve Ötesi\" başlığı altındadır. </strong><br/><strong>Konsorsiyum </strong>(<em>Hybrid blockchain</em>) ise genel ile özel arasında konumlanmış blok zincirlerdir"
     },
     {
         "SoruID": 3769318,
@@ -777,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Dijital Çağda Para\" başlığı altında bulunmaktadır.</strong><br>ICO: ICO, İngilizce “Initial Coin Offering” teriminin kısaltmasıdır ve kriptopara arzı anlamına gelmektedir. Projelere fon toplamak amacıyla, yeni üretilen bir jeton ya da kripto varlığın, Bitcoin, Ethereum gibi popüler kriptoparalar karşılığında satışa sunulması sürecini tanımlamaktadır."
+        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Dijital Çağda Para\" başlığı altında bulunmaktadır.</strong><br/>ICO: ICO, İngilizce “Initial Coin Offering” teriminin kısaltmasıdır ve kriptopara arzı anlamına gelmektedir. Projelere fon toplamak amacıyla, yeni üretilen bir jeton ya da kripto varlığın, Bitcoin, Ethereum gibi popüler kriptoparalar karşılığında satışa sunulması sürecini tanımlamaktadır."
     },
     {
         "SoruID": 3769319,
@@ -797,6 +797,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Kriptoparalar ve Blokzincir ile İlgili Eleştirilere Toplu Bir Bakış\" başlığı altında bulunmaktadır. </strong><br>Kriptoparaların çıkışında en önemli beklen­tilerden birisi, aracı kurumları aradan çıkarmak yanından insanlara dayanmadan yüksek teknoloji ile güven sorununu çözüp varlığını sürdürmekti. Ancak kriptoparalar en azından şu aşamada onları kullanan, yaşatan ve geliştiren topluluklar olmadan varlıklarını sürdüremiyor (Dodd, 2018"
+        "Aciklama": "<strong>Bu sorunun doğru yanıtı \"Kriptoparalar ve Blokzincir ile İlgili Eleştirilere Toplu Bir Bakış\" başlığı altında bulunmaktadır. </strong><br/>Kriptoparaların çıkışında en önemli beklen­tilerden birisi, aracı kurumları aradan çıkarmak yanından insanlara dayanmadan yüksek teknoloji ile güven sorununu çözüp varlığını sürdürmekti. Ancak kriptoparalar en azından şu aşamada onları kullanan, yaşatan ve geliştiren topluluklar olmadan varlıklarını sürdüremiyor (Dodd, 2018"
     }
 ]

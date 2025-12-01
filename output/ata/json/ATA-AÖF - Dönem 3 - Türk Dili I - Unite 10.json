@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 144716,
-        "SoruMetni": "Konuşma esnasında sözcükler ve sözcükleri oluşturan seslerin ifadesi hep aynı düzeyde olmaktan ziyade duruma, ifadeye duyguya göre alçalıp yükselir. Buna ………... denir.<br/><strong>Bu parçada boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br></br>",
+        "SoruMetni": "Konuşma esnasında sözcükler ve sözcükleri oluşturan seslerin ifadesi hep aynı düzeyde olmaktan ziyade duruma, ifadeye duyguya göre alçalıp yükselir. Buna ………... denir.<br/><strong>Bu parçada boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "vurgu",
         "B": "ünsüz benzeşmesi",
         "C": "ulama",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 144764,
-        "SoruMetni": "<strong>Aşağıdaki cümlelerin hangisinde vurgu yüklem üzerindedir?</strong><br/></br>",
+        "SoruMetni": "<strong>Aşağıdaki cümlelerin hangisinde vurgu yüklem üzerindedir?</strong>",
         "A": "Evler bir süre sonra eskimeye başladı.",
         "B": "Okuldan çıkınca apar topar eve vardı.",
         "C": "Görmektir insana verilen en önemli organ.",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 162406,
-        "SoruMetni": "<strong>Aşağıdaki kelimelerden hangisi vurgu yönünden diğerlerinden farklıdır?</strong><br/></br>",
+        "SoruMetni": "<strong>Aşağıdaki kelimelerden hangisi vurgu yönünden diğerlerinden farklıdır?</strong>",
         "A": "Fransızca",
         "B": "Teyze",
         "C": "Erzurum",
@@ -321,7 +321,7 @@
     },
     {
         "SoruID": 305368,
-        "SoruMetni": "<strong> Aşağıdaki cümlelerin hangisinde vurgu, zaman üzerindedir?</strong><br/></br>",
+        "SoruMetni": "<strong> Aşağıdaki cümlelerin hangisinde vurgu, zaman üzerindedir?</strong>",
         "A": "Ahmet, yarın akşam uçakla Ankara’ya gidecek.",
         "B": "Yarın akşam uçakla Ankara’ya Ahmet gidecek.",
         "C": "Ahmet, Ankara’ya uçakla yarın akşam gidecek.",

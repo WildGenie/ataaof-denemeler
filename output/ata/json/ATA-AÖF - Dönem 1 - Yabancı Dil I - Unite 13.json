@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 116684,
-        "SoruMetni": "A: When were you born?<br/>B:________________ .<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "A: When were you born?<br/>B:________________ .<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "You were born in Erzurum",
         "B": "I was born at 1985",
         "C": "You were from Istanbul",
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 143002,
-        "SoruMetni": "A: When did the bus leave?<br/>B: _____________________.<br/><strong>Which of the following completes the dialogue above?<br/>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</br></strong> </br>",
+        "SoruMetni": "A: When did the bus leave?<br/>B: _____________________.<br/><strong>Which of the following completes the dialogue above?<br/>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong>",
         "A": "It arrived in time.",
         "B": "It left on time.",
         "C": "It was rather late.",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 143083,
-        "SoruMetni": "A: ________________________.<br/>B: He was born on 23 April 1998.<br/><strong>Which of the following completes the dialogue?<br/>Aşağıdakilerden hangisi yukarıdaki tümceyi tamamlar?</br></strong> </br>",
+        "SoruMetni": "A: ________________________.<br/>B: He was born on 23 April 1998.<br/><strong>Which of the following completes the dialogue?<br/>Aşağıdakilerden hangisi yukarıdaki tümceyi tamamlar?</strong>",
         "A": "Where did he go?",
         "B": "What did he do?",
         "C": "What was he like?",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 143788,
-        "SoruMetni": "At midday there was a two-hour __________.<br/><strong>Which of the following completes the sentence above?<br/>Aşağıdakilerden hangisi yukarıdaki tümceyi doğru şekilde tamamlar?</br></strong>",
+        "SoruMetni": "At midday there was a two-hour __________.<br/><strong>Which of the following completes the sentence above?<br/>Aşağıdakilerden hangisi yukarıdaki tümceyi doğru şekilde tamamlar?</strong>",
         "A": "earn",
         "B": "death",
         "C": "lucky",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 143797,
-        "SoruMetni": "He got up ____ six o’clock.<br/><strong>Which of the following completes the sentence above?<br/>Aşağıdakilerden hangisi yukarıdaki cümleyi doğru şekilde tamamlar?</br></strong>",
+        "SoruMetni": "He got up ____ six o’clock.<br/><strong>Which of the following completes the sentence above?<br/>Aşağıdakilerden hangisi yukarıdaki cümleyi doğru şekilde tamamlar?</strong>",
         "A": "on",
         "B": "at",
         "C": "in",
@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 143805,
-        "SoruMetni": "My brother’s birthday is ____ the 27th of April.<br/><strong>Which of the following completes the sentence above?<br/>Aşağıdakilerden hangisi yukarıdaki cümleyi doğru şekilde tamamlar?</br></strong>",
+        "SoruMetni": "My brother’s birthday is ____ the 27th of April.<br/><strong>Which of the following completes the sentence above?<br/>Aşağıdakilerden hangisi yukarıdaki cümleyi doğru şekilde tamamlar?</strong>",
         "A": "in",
         "B": "at",
         "C": "since",
@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 143814,
-        "SoruMetni": "I met my girlfriend __________ 2017.<br/><strong>Which of the following completes the sentence above?<br/>Aşağıdakilerden hangisi yukarıdaki tümceyi doğru şekilde tamamlar?</br></strong>",
+        "SoruMetni": "I met my girlfriend __________ 2017.<br/><strong>Which of the following completes the sentence above?<br/>Aşağıdakilerden hangisi yukarıdaki tümceyi doğru şekilde tamamlar?</strong>",
         "A": "since",
         "B": "for",
         "C": "in",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 157476,
-        "SoruMetni": "A: When did you arrive at the station?<br/>B: _______________________________.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "A: When did you arrive at the station?<br/>B: _______________________________.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "It left on time.",
         "B": "Yes, we did.",
         "C": "We arrived in time.",
@@ -301,7 +301,7 @@
     },
     {
         "SoruID": 306410,
-        "SoruMetni": "Selma is leaving ................. Wednesday noon.<br/>Which of the following completes the sentence above?<br/><strong>Cümlede boş bırakılan yere aşağıdailerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "Selma is leaving ................. Wednesday noon.<br/>Which of the following completes the sentence above?<br/><strong>Cümlede boş bırakılan yere aşağıdailerden hangisi getirilmelidir?</strong>",
         "A": "onto",
         "B": "over",
         "C": "on",
@@ -341,7 +341,7 @@
     },
     {
         "SoruID": 334625,
-        "SoruMetni": "Jack: Why did you get up so early?<br/>Joe: We went to Trabzon to visit my elder brother<br/>Jack: .................................................?<br/>Joe: Of course by bus. There are no trains to Trabzon. The bus was at 8.30 so; we went to the coach station in time to catch the bus.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br></br></br>",
+        "SoruMetni": "Jack: Why did you get up so early?<br/>Joe: We went to Trabzon to visit my elder brother<br/>Jack: .................................................?<br/>Joe: Of course by bus. There are no trains to Trabzon. The bus was at 8.30 so; we went to the coach station in time to catch the bus.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Do you like travelling on a train",
         "B": "What time does the train leave from Trabzon",
         "C": "How did you go to Trabzon, by bus or train",
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 334627,
-        "SoruMetni": "Shakespeare is a very <u>famous</u> playwright and poet. <br/><strong>Cümlede altı çizili kelimenin yerine aşağıdakilerden hangisi getirilebilir?</strong><br/></br>",
+        "SoruMetni": "Shakespeare is a very <u>famous</u> playwright and poet. <br/><strong>Cümlede altı çizili kelimenin yerine aşağıdakilerden hangisi getirilebilir?</strong>",
         "A": "well-known",
         "B": "lucky",
         "C": "hardworking",

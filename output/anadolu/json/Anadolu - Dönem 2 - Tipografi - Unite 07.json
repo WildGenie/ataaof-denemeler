@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SAYFA YAPISINA YÖNELİK TEMEL BİLGİLER<br>ızgara"
+        "Aciklama": "SAYFA YAPISINA YÖNELİK TEMEL BİLGİLER<br/>ızgara"
     },
     {
         "SoruID": 3769817,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SAYFA YAPISINA YÖNELİK TEMEL<br/>BİLGİLER<br>altın dikdörtgen"
+        "Aciklama": "SAYFA YAPISINA YÖNELİK TEMEL<br/>BİLGİLER<br/>altın dikdörtgen"
     },
     {
         "SoruID": 3769818,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayfa Düzeni (Layout)<br>verso'dur"
+        "Aciklama": "Sayfa Düzeni (Layout)<br/>verso'dur"
     },
     {
         "SoruID": 3769819,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "METİN VE BOŞLUKLARIN DÜZENLENMESİ<br>ortalama altı karakterden oluşan beş-yedi kelime"
+        "Aciklama": "METİN VE BOŞLUKLARIN DÜZENLENMESİ<br/>ortalama altı karakterden oluşan beş-yedi kelime"
     },
     {
         "SoruID": 3769820,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Boşluk Düzenleme Biçimleri<br>okunabilirlik"
+        "Aciklama": "Boşluk Düzenleme Biçimleri<br/>okunabilirlik"
     },
     {
         "SoruID": 3769821,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Boşluk Düzenleme Biçimleri<br>Kelimelerin arasına birden fazla boşluk bırakılması"
+        "Aciklama": "Boşluk Düzenleme Biçimleri<br/>Kelimelerin arasına birden fazla boşluk bırakılması"
     },
     {
         "SoruID": 3769822,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Paragraf Boşluğu Düzeni<br>Metin içerisinde yer alan harflerin tümünün küçük veya tümünün büyük kullanılması"
+        "Aciklama": "Paragraf Boşluğu Düzeni<br/>Metin içerisinde yer alan harflerin tümünün küçük veya tümünün büyük kullanılması"
     },
     {
         "SoruID": 3769823,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Harf Arası Boşluk Düzeni<br>tracking"
+        "Aciklama": "Harf Arası Boşluk Düzeni<br/>tracking"
     },
     {
         "SoruID": 3769824,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Harf Arası Boşluk Düzeni<br>dar boşluk"
+        "Aciklama": "Harf Arası Boşluk Düzeni<br/>dar boşluk"
     },
     {
         "SoruID": 3769825,
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Izgara Mimarisi<br>sayfa numarası"
+        "Aciklama": "Izgara Mimarisi<br/>sayfa numarası"
     },
     {
         "SoruID": 3770101,
@@ -1037,7 +1037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "METİN VE BOŞLUKLARIN DÜZENLENMESİ<br><strong>Lorem ipsum, </strong>dizgi ve baskı endüstrisinde kullanılan, dengeli harf dağılımları sayesinde okunabilir yazı blokları yaratan, anlamı olmayan mıgır dolgu metinleridir."
+        "Aciklama": "METİN VE BOŞLUKLARIN DÜZENLENMESİ<br/><strong>Lorem ipsum, </strong>dizgi ve baskı endüstrisinde kullanılan, dengeli harf dağılımları sayesinde okunabilir yazı blokları yaratan, anlamı olmayan mıgır dolgu metinleridir."
     },
     {
         "SoruID": 3770198,
@@ -1057,7 +1057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Boşluk düzenleme biçimleri<br>İster harf arası isterse kelime arası boşluktan bahsedelim, doğru boşluk düzeni yazının daha iyi görünmesinin yanı sıra okunurluğunu da etkiler. Çok temel olarak harf arası boşlukların oranı arttığında, bir satırın barındırdığı harf karakter sayıları da aynı oranda azalacaktır. Tasarımcının tercihine göre yoğunluğuna karar verilen bu boşlukların düzenlenmesinde, en temel öncelik metnin okunabilirliğidir. Boşluklara bağlı olarak satırların oluşturduğu gri renk değerinin artması/azalması, paragrafların oluşturduğu yazı alanının yoğunluğunu da etkileyecek­tir."
+        "Aciklama": "Boşluk düzenleme biçimleri<br/>İster harf arası isterse kelime arası boşluktan bahsedelim, doğru boşluk düzeni yazının daha iyi görünmesinin yanı sıra okunurluğunu da etkiler. Çok temel olarak harf arası boşlukların oranı arttığında, bir satırın barındırdığı harf karakter sayıları da aynı oranda azalacaktır. Tasarımcının tercihine göre yoğunluğuna karar verilen bu boşlukların düzenlenmesinde, en temel öncelik metnin okunabilirliğidir. Boşluklara bağlı olarak satırların oluşturduğu gri renk değerinin artması/azalması, paragrafların oluşturduğu yazı alanının yoğunluğunu da etkileyecek­tir."
     },
     {
         "SoruID": 3770199,
@@ -1097,7 +1097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bloklama<br>Metin alanları içerisinde harfler ve sözcükler arasında oluşan tanımsız beyaz boşluklar görsel ve işlevsel açıdan sıkıntıya sebep olacaktır. Sıklıkla dar sütunlardaki yazı alanlarında karşılaşılan nehir oluşumları şu çözümler ile önlenebilmektedir;<br/>Satır uzunluğunu ve buna bağlı sütunların genişlik ölçüsünü değiştirmek,<br/>Metin içerisinde tireleme yapmak,<br/>Metni tam blok değil, sola blok biçiminde düzenlemek."
+        "Aciklama": "Bloklama<br/>Metin alanları içerisinde harfler ve sözcükler arasında oluşan tanımsız beyaz boşluklar görsel ve işlevsel açıdan sıkıntıya sebep olacaktır. Sıklıkla dar sütunlardaki yazı alanlarında karşılaşılan nehir oluşumları şu çözümler ile önlenebilmektedir;<br/>Satır uzunluğunu ve buna bağlı sütunların genişlik ölçüsünü değiştirmek,<br/>Metin içerisinde tireleme yapmak,<br/>Metni tam blok değil, sola blok biçiminde düzenlemek."
     },
     {
         "SoruID": 3770201,
@@ -1137,7 +1137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SAYFA TASARIMINDA IZGARA (GRID) SİSTEMİ<br>Izgara sistemi, tasarımcının zamanını verimli şekilde kullanabilmesi, farklı çeşitlilikte kompozisyonlar oluşturabilmesi ve tasarımın genelinde tutarlılık sağlamasına yardımcı bir araçtır. <strong>Izgara</strong>, sayfa üzerinde metin ve görüntü öğelerinin nasıl yerleşeceğine kılavuz oluşturması amacıyla, tüm alanın yatay ve dikey çizgiler ile belirli bir sistemde bölümlenmesi­dir."
+        "Aciklama": "SAYFA TASARIMINDA IZGARA (GRID) SİSTEMİ<br/>Izgara sistemi, tasarımcının zamanını verimli şekilde kullanabilmesi, farklı çeşitlilikte kompozisyonlar oluşturabilmesi ve tasarımın genelinde tutarlılık sağlamasına yardımcı bir araçtır. <strong>Izgara</strong>, sayfa üzerinde metin ve görüntü öğelerinin nasıl yerleşeceğine kılavuz oluşturması amacıyla, tüm alanın yatay ve dikey çizgiler ile belirli bir sistemde bölümlenmesi­dir."
     },
     {
         "SoruID": 3770203,
@@ -1217,7 +1217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bloklama (hizalama), metinlerin düzenlendiği yazı alanı içerisindeki yatay ve dikey konumlarını belirtir. Yatay bloklama biçimleri için soldan blok, ortadan blok, sağdan blok ve her iki tarafa yaslı (tam blok) ifadelerini kullanırız. Dikey bloklama biçimleri ise metin yazı alanındaki konumuna göre üste, ortaya, alta ve tam blok şeklinde ifade edilir (<br>Bloklama (hizalama), metinlerin düzenlendiği yazı alanı içerisindeki yatay ve dikey konumlarını belirtir. Yatay bloklama biçimleri için soldan blok, ortadan blok, sağdan blok ve her iki tarafa yaslı (tam blok) ifadelerini kullanırız. Dikey bloklama biçimleri ise metin yazı alanındaki konumuna göre üste, ortaya, alta ve tam blok şeklinde ifade edilir."
+        "Aciklama": "Bloklama (hizalama), metinlerin düzenlendiği yazı alanı içerisindeki yatay ve dikey konumlarını belirtir. Yatay bloklama biçimleri için soldan blok, ortadan blok, sağdan blok ve her iki tarafa yaslı (tam blok) ifadelerini kullanırız. Dikey bloklama biçimleri ise metin yazı alanındaki konumuna göre üste, ortaya, alta ve tam blok şeklinde ifade edilir (<br/>Bloklama (hizalama), metinlerin düzenlendiği yazı alanı içerisindeki yatay ve dikey konumlarını belirtir. Yatay bloklama biçimleri için soldan blok, ortadan blok, sağdan blok ve her iki tarafa yaslı (tam blok) ifadelerini kullanırız. Dikey bloklama biçimleri ise metin yazı alanındaki konumuna göre üste, ortaya, alta ve tam blok şeklinde ifade edilir."
     },
     {
         "SoruID": 3770262,
@@ -1297,7 +1297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<img alt=\"\" height=\"204\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/e3d11713996dfa4142934e532b74c5d5.png\" width=\"578\"/><br><img alt=\"\" height=\"204\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/e3d11713996dfa4142934e532b74c5d5.png\" width=\"578\"/>"
+        "Aciklama": "<img alt=\"\" height=\"204\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/e3d11713996dfa4142934e532b74c5d5.png\" width=\"578\"/><br/><img alt=\"\" height=\"204\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/e3d11713996dfa4142934e532b74c5d5.png\" width=\"578\"/>"
     },
     {
         "SoruID": 3770266,
@@ -1317,7 +1317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<img alt=\"\" height=\"204\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/e3d11713996dfa4142934e532b74c5d5.png\" width=\"578\"/><br><img alt=\"\" height=\"204\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/e3d11713996dfa4142934e532b74c5d5.png\" width=\"578\"/>"
+        "Aciklama": "<img alt=\"\" height=\"204\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/e3d11713996dfa4142934e532b74c5d5.png\" width=\"578\"/><br/><img alt=\"\" height=\"204\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/e3d11713996dfa4142934e532b74c5d5.png\" width=\"578\"/>"
     },
     {
         "SoruID": 3770267,
@@ -1357,7 +1357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Altın dikdörtgen bir kenarı “1”, diğer kenarı “1,618” ile orantılı olarak yaratılan dikdörtgendir. Altın dikdörtgen içinden, her seferinde kısa kenar uzunluğu karenin bir kenarını oluşturacak şekildeki kareler çıkarıldığında kalan her dikdörtgen yine altın dikdörtgendir. Bu durum sonsuza kadar kendini tekrarlamakta ve ortaya çıkan karenin köşegenlerinden geçen sarmal ise bir salyangoz sarmalını vermektedir (<br>Altın dikdörtgen bir kenarı “1”, diğer kenarı “1,618” ile orantılı olarak yaratılan dikdörtgendir. Altın dikdörtgen içinden, her seferinde kısa kenar uzunluğu karenin bir kenarını oluşturacak şekildeki kareler çıkarıldığında kalan her dikdörtgen yine altın dikdörtgendir. Bu durum sonsuza kadar kendini tekrarlamakta ve ortaya çıkan karenin köşegenlerinden geçen sarmal ise bir salyangoz sarmalını vermektedir."
+        "Aciklama": "Altın dikdörtgen bir kenarı “1”, diğer kenarı “1,618” ile orantılı olarak yaratılan dikdörtgendir. Altın dikdörtgen içinden, her seferinde kısa kenar uzunluğu karenin bir kenarını oluşturacak şekildeki kareler çıkarıldığında kalan her dikdörtgen yine altın dikdörtgendir. Bu durum sonsuza kadar kendini tekrarlamakta ve ortaya çıkan karenin köşegenlerinden geçen sarmal ise bir salyangoz sarmalını vermektedir (<br/>Altın dikdörtgen bir kenarı “1”, diğer kenarı “1,618” ile orantılı olarak yaratılan dikdörtgendir. Altın dikdörtgen içinden, her seferinde kısa kenar uzunluğu karenin bir kenarını oluşturacak şekildeki kareler çıkarıldığında kalan her dikdörtgen yine altın dikdörtgendir. Bu durum sonsuza kadar kendini tekrarlamakta ve ortaya çıkan karenin köşegenlerinden geçen sarmal ise bir salyangoz sarmalını vermektedir."
     },
     {
         "SoruID": 3770269,

@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yapay zekâ; makine öğrenimi, doğal dil işleme, veri madenciliği, sinir ağları veya bir algoritma gibi bir dizi teknoloji ve yöntemi tanımlamak için kullanılan bir şemsiye terimdir.<br>Yapay zekâ; makine öğrenimi, doğal dil işleme, veri madenciliği, sinir ağları veya bir algoritma gibi bir dizi teknoloji ve yöntemi tanımlamak için kullanılan şemsiye terimdir."
+        "Aciklama": "Yapay zekâ; makine öğrenimi, doğal dil işleme, veri madenciliği, sinir ağları veya bir algoritma gibi bir dizi teknoloji ve yöntemi tanımlamak için kullanılan bir şemsiye terimdir.<br/>Yapay zekâ; makine öğrenimi, doğal dil işleme, veri madenciliği, sinir ağları veya bir algoritma gibi bir dizi teknoloji ve yöntemi tanımlamak için kullanılan şemsiye terimdir."
     },
     {
         "SoruID": 3488867,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BÜYÜK VERİLERLE ÇALIŞMAK<br/>Veri Nedir?<br><strong>Veri kavramı,</strong> ham gerçek enformasyon parçacığına verilen isim olarak tanımlanabilir."
+        "Aciklama": "BÜYÜK VERİLERLE ÇALIŞMAK<br/>Veri Nedir?<br/><strong>Veri kavramı,</strong> ham gerçek enformasyon parçacığına verilen isim olarak tanımlanabilir."
     },
     {
         "SoruID": 3489022,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Büyük Verinin Özellikleri<br>• Çeşitlilik (Variety): Üretilen verilerin bü-<br/>yük bir kısmı, birbirinden farklı biçimlere<br/>sahiptir. Telefonlardan, tabletlerden, bilgi-<br/>sayarlardan, farklı işletim sistemlerinden<br/>ya da dillerden gelen veriler birbirinden<br/>farklı formatların ortaya çıkmasına neden<br/>olmaktadır.<br/>• Hız (Velocity): Gün geçtikçe artan<br/>teknolojik olanaklar, elde edilen veri<br/>miktarının, yapılacak işlem sayısının ve<br/>çeşitliliğinin de aynı şekilde artmasına<br/>neden olmaktadır.<br/>• Hacim (Volume): Geçtiğimiz 10 yılda veri<br/>miktarı (büyüklüğü) 40 kattan fazla bir ar-<br/>tış göstermiş fakat veri depolama için yapı-<br/>lan harcamalar ise yalnızca 1,5 kat artmış-<br/>tır. Bu durum, elde edilen verinin doğru ve<br/>verimli şekilde depolanması için çok iyi bir<br/>kurgulama gerektiğini ortaya koymaktadır.<br/>• Doğrulama (Verification): Verilerle ilgili<br/>son yıllarda öne çıkan bir diğer konu, veri<br/>güvenliği geçerliliği ve doğruluğu olmuştur.<br/>Elde edilen verilerin kimler tarafından<br/>ve hangi şartlarda görüntüleneceği, bu<br/>verilerin hangilerinin gizli kalması gerektiği<br/>konuları, üzerinde dikkatle durulması<br/>gereken boyutlardır.<br/>• Değer (Value): Büyük veri ile ilgili en<br/>önemli özellik, değerdir. Elde edilen ve<br/>işlenen veriler, kuruma değer kattığı sürece<br/>anlamlıdır. Bu nedenle, büyük verinin<br/>analizinin ve simülasyonlarının doğru<br/>şekilde kurgulanması ve büyük veriyi<br/>kullanan kuruma fayda sağlaması öncelikli<br/>olarak ele alınmalıdır."
+        "Aciklama": "Büyük Verinin Özellikleri<br/>• Çeşitlilik (Variety): Üretilen verilerin bü-<br/>yük bir kısmı, birbirinden farklı biçimlere<br/>sahiptir. Telefonlardan, tabletlerden, bilgi-<br/>sayarlardan, farklı işletim sistemlerinden<br/>ya da dillerden gelen veriler birbirinden<br/>farklı formatların ortaya çıkmasına neden<br/>olmaktadır.<br/>• Hız (Velocity): Gün geçtikçe artan<br/>teknolojik olanaklar, elde edilen veri<br/>miktarının, yapılacak işlem sayısının ve<br/>çeşitliliğinin de aynı şekilde artmasına<br/>neden olmaktadır.<br/>• Hacim (Volume): Geçtiğimiz 10 yılda veri<br/>miktarı (büyüklüğü) 40 kattan fazla bir ar-<br/>tış göstermiş fakat veri depolama için yapı-<br/>lan harcamalar ise yalnızca 1,5 kat artmış-<br/>tır. Bu durum, elde edilen verinin doğru ve<br/>verimli şekilde depolanması için çok iyi bir<br/>kurgulama gerektiğini ortaya koymaktadır.<br/>• Doğrulama (Verification): Verilerle ilgili<br/>son yıllarda öne çıkan bir diğer konu, veri<br/>güvenliği geçerliliği ve doğruluğu olmuştur.<br/>Elde edilen verilerin kimler tarafından<br/>ve hangi şartlarda görüntüleneceği, bu<br/>verilerin hangilerinin gizli kalması gerektiği<br/>konuları, üzerinde dikkatle durulması<br/>gereken boyutlardır.<br/>• Değer (Value): Büyük veri ile ilgili en<br/>önemli özellik, değerdir. Elde edilen ve<br/>işlenen veriler, kuruma değer kattığı sürece<br/>anlamlıdır. Bu nedenle, büyük verinin<br/>analizinin ve simülasyonlarının doğru<br/>şekilde kurgulanması ve büyük veriyi<br/>kullanan kuruma fayda sağlaması öncelikli<br/>olarak ele alınmalıdır."
     },
     {
         "SoruID": 3489023,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "dikkat<br>Derin öğrenme sürecinde <strong>öğrenme kabiliyeti</strong>, sinir ağlarının ana kavramını oluşturmaktadır."
+        "Aciklama": "dikkat<br/>Derin öğrenme sürecinde <strong>öğrenme kabiliyeti</strong>, sinir ağlarının ana kavramını oluşturmaktadır."
     },
     {
         "SoruID": 3489027,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Naive Bayes<br>Duygu analizi yapılmasında, yüz tanıma sistemlerinde, ses tanıma sistemlerinde, yazı içeriklerinin sınıflandırılmasında<strong> bayes algoritmaları</strong> kullanılabilir."
+        "Aciklama": "Naive Bayes<br/>Duygu analizi yapılmasında, yüz tanıma sistemlerinde, ses tanıma sistemlerinde, yazı içeriklerinin sınıflandırılmasında<strong> bayes algoritmaları</strong> kullanılabilir."
     },
     {
         "SoruID": 3489028,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tableau ile Veri Görselleştirme<br><strong>Tableau,</strong> büyük hacimli verileri görselleştirmek için çevrimiçi ve masaüstü ortamlarda kullanılabilen görsel analitik platformudur."
+        "Aciklama": "Tableau ile Veri Görselleştirme<br/><strong>Tableau,</strong> büyük hacimli verileri görselleştirmek için çevrimiçi ve masaüstü ortamlarda kullanılabilen görsel analitik platformudur."
     },
     {
         "SoruID": 3489030,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "VOSviewer ile Veri Görselleştirme<br><strong>VOSviewer,</strong> ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bir bilgisayar programıdır."
+        "Aciklama": "VOSviewer ile Veri Görselleştirme<br/><strong>VOSviewer,</strong> ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bir bilgisayar programıdır."
     },
     {
         "SoruID": 3489128,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BÜYÜK VERİLERLE ÇALIŞMAK<br>Üretilen verilerin büyük bir kısmı, birbirinden farklı biçimlere sahip olmasına çeşitlilik yani variety denmektedir."
+        "Aciklama": "BÜYÜK VERİLERLE ÇALIŞMAK<br/>Üretilen verilerin büyük bir kısmı, birbirinden farklı biçimlere sahip olmasına çeşitlilik yani variety denmektedir."
     },
     {
         "SoruID": 3489129,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BÜYÜK VERİLERLE ÇALIŞMAK<br>Büyük verinin sahip olması gereken 5 özelliği vardır. D şıkkı yanlıştır çünkü farklı özelliklere sahip birçok veriden oluşmalıdır."
+        "Aciklama": "BÜYÜK VERİLERLE ÇALIŞMAK<br/>Büyük verinin sahip olması gereken 5 özelliği vardır. D şıkkı yanlıştır çünkü farklı özelliklere sahip birçok veriden oluşmalıdır."
     },
     {
         "SoruID": 3489130,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAPAY ZEKÂ VE MAKİNE ÖĞRENİMİ<br>Yapay sinir ağlarının yapısı tek giriş değil birden çok giriş, çıkış ve gizli katmandan oluşmaktadır."
+        "Aciklama": "YAPAY ZEKÂ VE MAKİNE ÖĞRENİMİ<br/>Yapay sinir ağlarının yapısı tek giriş değil birden çok giriş, çıkış ve gizli katmandan oluşmaktadır."
     },
     {
         "SoruID": 3489131,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAPAY ZEKÂ VE MAKİNE ÖĞRENİMİ<br>Bir bağımlı değişken ile bağımsız değişkenler arasındaki ilişkinin tahmini için kullanılan istatistiksel yaklaşıma Lojistik Regresyon denir."
+        "Aciklama": "YAPAY ZEKÂ VE MAKİNE ÖĞRENİMİ<br/>Bir bağımlı değişken ile bağımsız değişkenler arasındaki ilişkinin tahmini için kullanılan istatistiksel yaklaşıma Lojistik Regresyon denir."
     },
     {
         "SoruID": 3489132,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br>Enformasyon daha anlaşılır olduğundan veri bilimcilerine olan ihtiyacı arttırmaz aksine ihtiyacı ortadan kaldırır."
+        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br/>Enformasyon daha anlaşılır olduğundan veri bilimcilerine olan ihtiyacı arttırmaz aksine ihtiyacı ortadan kaldırır."
     },
     {
         "SoruID": 3489133,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br>Tableau, büyük hacimli verileri görselleştirmek için çevrimiçi ve masaüstü ortamlarda ücretsiz kullanılabilen görsel analitik platformudur"
+        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br/>Tableau, büyük hacimli verileri görselleştirmek için çevrimiçi ve masaüstü ortamlarda ücretsiz kullanılabilen görsel analitik platformudur"
     },
     {
         "SoruID": 3489134,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br>VOSviewer, ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bir bilgisayar programıdır."
+        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br/>VOSviewer, ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, görselleştirmek ve keşfetmek için kullanılan bir bilgisayar programıdır."
     },
     {
         "SoruID": 3489135,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br>Yapay zekâ aracılığıyla gerçekleştirilecek veri görselleştirme süreci II,I, III sırası ile uygulanır."
+        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br/>Yapay zekâ aracılığıyla gerçekleştirilecek veri görselleştirme süreci II,I, III sırası ile uygulanır."
     },
     {
         "SoruID": 3489136,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br>Veri görselleştirme sürecinde kullanılmak amacıyla 2021 yılında ilk olarak OpenAI tarafından geliştirilen yapay zekâ uygulaması, DALL-E’dir"
+        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br/>Veri görselleştirme sürecinde kullanılmak amacıyla 2021 yılında ilk olarak OpenAI tarafından geliştirilen yapay zekâ uygulaması, DALL-E’dir"
     },
     {
         "SoruID": 3489137,
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br>Google tarafından geliştirilen Imagen uygulaması, doğal dildeki (Şu an için İngilizce dili) bir metin açıklaması üzerinden görseller oluşturabilen çevrimi platformda çalışan bir yapay zekâ görselleştirme uygulamasıdır."
+        "Aciklama": "YAPAY ZEKÂ İLE VERİLERİ GÖRSELLEŞTİRME<br/>Google tarafından geliştirilen Imagen uygulaması, doğal dildeki (Şu an için İngilizce dili) bir metin açıklaması üzerinden görseller oluşturabilen çevrimi platformda çalışan bir yapay zekâ görselleştirme uygulamasıdır."
     },
     {
         "SoruID": 3489138,

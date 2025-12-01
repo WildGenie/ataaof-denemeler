@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıtınız yanlış ise \"Video Kameralardaki Dijital Dönüşüm\" konusunu yeniden gözden geçiriniz.<br>Birçok ülke ve yayın platformu günümüzde hâlihazırda \"Yüksek Tanımlı Televizyon\", kısaltılmış ismiyle HDTV formatında yayın yapmaktadır."
+        "Aciklama": "Yanıtınız yanlış ise \"Video Kameralardaki Dijital Dönüşüm\" konusunu yeniden gözden geçiriniz.<br/>Birçok ülke ve yayın platformu günümüzde hâlihazırda \"Yüksek Tanımlı Televizyon\", kısaltılmış ismiyle HDTV formatında yayın yapmaktadır."
     },
     {
         "SoruID": 3353099,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıtınız yanlış ise \"Video Kameralardaki Dijital Dönüşüm\" konusunu yeniden gözden geçiriniz.<br><strong>Dijital Kameraların Yayıncılığa Etkisi</strong><br/>Dijital kameralar sadece bir grup amatör veya profesyonel tarafından kullanılan cihazlar olmaktan çıkarak yaygın olarak kullanılan bir ihtiyaca dönüşmüşlerdir. Daha az maliyetli üretilen dijital videolar artık çağın en önemli unsurlarından birisidir. Dijital depolama teknolojilerin değişimi kullanıcılar adına film veya kaset ve görüntü aktarım maliyetlerini bir hayli düşürmektedir. Dijital videoların montajlanması ve paylaşılması bir hayli kolaydır. Daha hızlı bir şekilde görüntülerin işlenmek üzere bilgisayarlara aktarımı, kayıt ve depolama süreçlerindeki maliyetler ve teknik kapasiteler bağlamında dijital video kameraların analoglardan farklılaştığı ve önemli avantajlar sunduğu görülmektedir."
+        "Aciklama": "Yanıtınız yanlış ise \"Video Kameralardaki Dijital Dönüşüm\" konusunu yeniden gözden geçiriniz.<br/><strong>Dijital Kameraların Yayıncılığa Etkisi</strong><br/>Dijital kameralar sadece bir grup amatör veya profesyonel tarafından kullanılan cihazlar olmaktan çıkarak yaygın olarak kullanılan bir ihtiyaca dönüşmüşlerdir. Daha az maliyetli üretilen dijital videolar artık çağın en önemli unsurlarından birisidir. Dijital depolama teknolojilerin değişimi kullanıcılar adına film veya kaset ve görüntü aktarım maliyetlerini bir hayli düşürmektedir. Dijital videoların montajlanması ve paylaşılması bir hayli kolaydır. Daha hızlı bir şekilde görüntülerin işlenmek üzere bilgisayarlara aktarımı, kayıt ve depolama süreçlerindeki maliyetler ve teknik kapasiteler bağlamında dijital video kameraların analoglardan farklılaştığı ve önemli avantajlar sunduğu görülmektedir."
     },
     {
         "SoruID": 3353100,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıtınız yanlış ise \"Video Kameralardaki Dijital Dönüşüm\" konusunu yeniden gözden geçiriniz.<br>Tarama formatları \"İnterlaced ve Progressive\" olarak iki türdedir. Tarama işlemi video kameraların çok yüksek hızlarda gerçekleştirdiği ve hareketli görüntünün ortaya çıkarılması adına gerekli olan bir işlemdir. İnterlaced taramada elektron ışını bir sayfanın üstünden altına sırayla tüm satırları taramaz ve yalnızca tek sayılı satırları okuyarak yarım çerçeve oluşturur. Sonraki tarama, ikinci alanı üreterek tüm çift sayılı satırları okur. İki alan bir çerçeve veya tam bir resim oluşturur. Progressive taramada ise her satır taranır. Tarama yükü (elektron ışını) ekranın sol üst köşesinden başlar ve ilk satırı tarar, sonra tekrar sola atlar ve ikinci satırı, ardından üçüncü ve diğerlerini tarar. Son çizgi tarandıktan sonra, ışın sol üstteki başlangıç noktasına geri döner ve süreci yeniden başlatır. Çizgiler gerçekten düzenli bir şekilde taranır. Bu tarama döngüsü, çerçeve adı verilen tek bir tam resim üretir. Saniyede aşamalı olarak taranan kare sayısı genellikle fps olarak listelenir ve genellikle yenileme hızı olarak adlandırılır. Tüm bilgisayar ekranları, dijital video ve sinemanın büyük bir kısmı Progressive taramayı kullanır. Hangisinin daha iyi olduğu sıkça sorulmaktadır ancak net bir cevap yoktur."
+        "Aciklama": "Yanıtınız yanlış ise \"Video Kameralardaki Dijital Dönüşüm\" konusunu yeniden gözden geçiriniz.<br/>Tarama formatları \"İnterlaced ve Progressive\" olarak iki türdedir. Tarama işlemi video kameraların çok yüksek hızlarda gerçekleştirdiği ve hareketli görüntünün ortaya çıkarılması adına gerekli olan bir işlemdir. İnterlaced taramada elektron ışını bir sayfanın üstünden altına sırayla tüm satırları taramaz ve yalnızca tek sayılı satırları okuyarak yarım çerçeve oluşturur. Sonraki tarama, ikinci alanı üreterek tüm çift sayılı satırları okur. İki alan bir çerçeve veya tam bir resim oluşturur. Progressive taramada ise her satır taranır. Tarama yükü (elektron ışını) ekranın sol üst köşesinden başlar ve ilk satırı tarar, sonra tekrar sola atlar ve ikinci satırı, ardından üçüncü ve diğerlerini tarar. Son çizgi tarandıktan sonra, ışın sol üstteki başlangıç noktasına geri döner ve süreci yeniden başlatır. Çizgiler gerçekten düzenli bir şekilde taranır. Bu tarama döngüsü, çerçeve adı verilen tek bir tam resim üretir. Saniyede aşamalı olarak taranan kare sayısı genellikle fps olarak listelenir ve genellikle yenileme hızı olarak adlandırılır. Tüm bilgisayar ekranları, dijital video ve sinemanın büyük bir kısmı Progressive taramayı kullanır. Hangisinin daha iyi olduğu sıkça sorulmaktadır ancak net bir cevap yoktur."
     },
     {
         "SoruID": 3353101,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıtınız yanlış ise \"Video Kameralardaki Dijital Dönüşüm\" konusunu yeniden gözden geçiriniz.<br>Veri sıkıştırma algoritmalarına kodek (codec) adı verilir. Dijital video dünyasında MPEG-2, MPEG-4, H.264, VC-3 gibi çok sayıda standart kodek vardır. Video kamera kodlaması diğer ifade ile yakalama kodeklerini her üretici özel olarak yaratmaktadır."
+        "Aciklama": "Yanıtınız yanlış ise \"Video Kameralardaki Dijital Dönüşüm\" konusunu yeniden gözden geçiriniz.<br/>Veri sıkıştırma algoritmalarına kodek (codec) adı verilir. Dijital video dünyasında MPEG-2, MPEG-4, H.264, VC-3 gibi çok sayıda standart kodek vardır. Video kamera kodlaması diğer ifade ile yakalama kodeklerini her üretici özel olarak yaratmaktadır."
     },
     {
         "SoruID": 3353102,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıtınız yanlış ise \"Dijital Video Kamera Çeşitleri\" konusunu yeniden gözden geçiriniz.<br>Son dönemde yaygınlaşan ve video çekebilen bir DSLR ile çalışıyorsanız, yalnızca bir kameramana ihtiyacınız olabilir. Tek başınıza veya küçük bir ekip ile çekim yapıyorsanız, omuz çantasına atılabilen ve uçakta taşınabilen küçük bir kamera büyük bir avantaj olabilir. Gerek maliyetleri gerekse taşıma kolaylığı gibi avantajları nedeniyle büyük boy kameralara kıyasla çok daha fazla tüketilen küçük boy video kameralar günümüzde dijital video üretiminde başat cihazlardan birisi konumundadır. Hem amatörlerce hem profesyonellerce kullanılan bu cihazlar oldukça önemli teknolojileri barındırmaya başlamışlardır. Son yıllarda dijital el kameraları HD görüntüden 4K görüntüye uzanan bir çözünürlük skalasını kullanıcılara sunmaktadır. Işık hücreleri daha küçük boyuttadır ve bu sebeple büyük boy kameralara kıyasla az ışıklı ortamlardaki performansları düşüktür. Pek çok marka ve model kullanıcılarına hem optik hem de dijital zoom olanağı sağlamaktadır. Dahili mikrofonları bulunan bu cihazların birçoğunda harici mikrofon girişleri bulunmamaktadır."
+        "Aciklama": "Yanıtınız yanlış ise \"Dijital Video Kamera Çeşitleri\" konusunu yeniden gözden geçiriniz.<br/>Son dönemde yaygınlaşan ve video çekebilen bir DSLR ile çalışıyorsanız, yalnızca bir kameramana ihtiyacınız olabilir. Tek başınıza veya küçük bir ekip ile çekim yapıyorsanız, omuz çantasına atılabilen ve uçakta taşınabilen küçük bir kamera büyük bir avantaj olabilir. Gerek maliyetleri gerekse taşıma kolaylığı gibi avantajları nedeniyle büyük boy kameralara kıyasla çok daha fazla tüketilen küçük boy video kameralar günümüzde dijital video üretiminde başat cihazlardan birisi konumundadır. Hem amatörlerce hem profesyonellerce kullanılan bu cihazlar oldukça önemli teknolojileri barındırmaya başlamışlardır. Son yıllarda dijital el kameraları HD görüntüden 4K görüntüye uzanan bir çözünürlük skalasını kullanıcılara sunmaktadır. Işık hücreleri daha küçük boyuttadır ve bu sebeple büyük boy kameralara kıyasla az ışıklı ortamlardaki performansları düşüktür. Pek çok marka ve model kullanıcılarına hem optik hem de dijital zoom olanağı sağlamaktadır. Dahili mikrofonları bulunan bu cihazların birçoğunda harici mikrofon girişleri bulunmamaktadır."
     },
     {
         "SoruID": 3353103,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıtınız yanlış ise \"Dijital Video Kamera Çeşitleri\" konusunu yeniden gözden geçiriniz.<br>Hibrit kameralar da 35 mm veya Süper 35 mm özellikleri taşıyan geniş format CMOS sensörleri ve bir dizi yüksek kaliteli değiştirilebilir lensi ile oldukça avantajlı ürünlerdir. Hibrit kameralar üst düzey video üretebilmek adına Zeiss, Cooke veya Schneider gibi seçkin lens üreticilerinin ultra yüksek kalitelisine lenslerinin kullanılmasına izin veren lens adaptörlerini kabul eder. Video kameralarda olduğu gibi, ses kaydetmek istemeniz durumunda; daha iyi kayıt ortamı, çıkış seçenekleri ve profesyonel XLR mikrofon girişleri sağlar. Bu özellikler DSLR’lerde neredeyse imkânsız olan bir seçenektir. Hibrit olarak adlandırılma nedenleri ebatlarının DSLR ve aynasız kameralara benzemesi fakat işlev olarak sinema kameralarına benzer şekilde video üretimi yapabilmeleridir. Hibritlerin çoğu ayrıca sıkıştırılmamış video formatları ile kayıt imkânı sunar. Sıkıştırılmamış yüksek verili video seçenekleri ile hibrit video kameraların daha üst düzey sinema kameralarına çok ciddi bir alternatif olduğu görülmektedir. Hibrit video kameralar ise belgesel, tanıtım ve reklam prodüksiyonları, kısa film vb. kategoriler için çok çekici bir seçenek olabilir. Bu kameralar büyük sensörlü sinema kameraların maliyetinin çok altında fiyatlara satılmaktadır, ancak yine de büyük sensörlere ve mükemmel düşük ışık performansına sahiptirler. Küçük boyutlu ve hafif olmaları taşıma kolaylığı <br/>sağlar. Tüm bunların ötesinde hibrit kameraların ergonomisi video çekiminden çok fotoğraf çekmeye daha uygundur. Bu sebeple video çekmek için tasarlanan bu cihazların üretim süreçlerinde üç ayak kullanımı ihtiyacını da ortaya çıkarmaktadır."
+        "Aciklama": "Yanıtınız yanlış ise \"Dijital Video Kamera Çeşitleri\" konusunu yeniden gözden geçiriniz.<br/>Hibrit kameralar da 35 mm veya Süper 35 mm özellikleri taşıyan geniş format CMOS sensörleri ve bir dizi yüksek kaliteli değiştirilebilir lensi ile oldukça avantajlı ürünlerdir. Hibrit kameralar üst düzey video üretebilmek adına Zeiss, Cooke veya Schneider gibi seçkin lens üreticilerinin ultra yüksek kalitelisine lenslerinin kullanılmasına izin veren lens adaptörlerini kabul eder. Video kameralarda olduğu gibi, ses kaydetmek istemeniz durumunda; daha iyi kayıt ortamı, çıkış seçenekleri ve profesyonel XLR mikrofon girişleri sağlar. Bu özellikler DSLR’lerde neredeyse imkânsız olan bir seçenektir. Hibrit olarak adlandırılma nedenleri ebatlarının DSLR ve aynasız kameralara benzemesi fakat işlev olarak sinema kameralarına benzer şekilde video üretimi yapabilmeleridir. Hibritlerin çoğu ayrıca sıkıştırılmamış video formatları ile kayıt imkânı sunar. Sıkıştırılmamış yüksek verili video seçenekleri ile hibrit video kameraların daha üst düzey sinema kameralarına çok ciddi bir alternatif olduğu görülmektedir. Hibrit video kameralar ise belgesel, tanıtım ve reklam prodüksiyonları, kısa film vb. kategoriler için çok çekici bir seçenek olabilir. Bu kameralar büyük sensörlü sinema kameraların maliyetinin çok altında fiyatlara satılmaktadır, ancak yine de büyük sensörlere ve mükemmel düşük ışık performansına sahiptirler. Küçük boyutlu ve hafif olmaları taşıma kolaylığı <br/>sağlar. Tüm bunların ötesinde hibrit kameraların ergonomisi video çekiminden çok fotoğraf çekmeye daha uygundur. Bu sebeple video çekmek için tasarlanan bu cihazların üretim süreçlerinde üç ayak kullanımı ihtiyacını da ortaya çıkarmaktadır."
     },
     {
         "SoruID": 3353104,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıtınız yanlış ise \"Dijital Video Kamera Çeşitleri\" konusunu yeniden gözden geçiriniz.<br>Dijital sinematografi, daha önce 35 mm filmlerle çekilmiş olan filmlere denk gelecek şekilde genellikle 2K ve 4K formatlarında yüksek kaliteli çekim anlamına gelir."
+        "Aciklama": "Yanıtınız yanlış ise \"Dijital Video Kamera Çeşitleri\" konusunu yeniden gözden geçiriniz.<br/>Dijital sinematografi, daha önce 35 mm filmlerle çekilmiş olan filmlere denk gelecek şekilde genellikle 2K ve 4K formatlarında yüksek kaliteli çekim anlamına gelir."
     },
     {
         "SoruID": 3353105,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıtınız yanlış ise \"Dijital Video Kamera Çeşitleri\" konusunu yeniden gözden geçiriniz.<br>Drone’lara herkes kolayca erişilebilir. Gelişmiş GPS özellikleri Drone’u uçuş yolunda güvende tutar ve ayrıca kalkış noktasına eve güvenli şekilde geri getirilmesine yardımcı olur. Drone’lar, çok hafif bir çerçeve üzerine monte edilmiş dört yatay pervaneye sahip küçük helikopter benzeri mekanizmalardır. Drone kameraları video üretiminde çeşitli araçlarla yaratılan hareketli görüntüleri örneğin tekerlekli araba, vinç veya jib gibi pahalı sinema ekipmanlarının sağladığı efektleri taklit etmek için de kullanılabilir. Drone'lar yaklaşık 20 dakika gibi sınırlı bir uçuş süresi ve 1000 fit menzile sahiptir."
+        "Aciklama": "Yanıtınız yanlış ise \"Dijital Video Kamera Çeşitleri\" konusunu yeniden gözden geçiriniz.<br/>Drone’lara herkes kolayca erişilebilir. Gelişmiş GPS özellikleri Drone’u uçuş yolunda güvende tutar ve ayrıca kalkış noktasına eve güvenli şekilde geri getirilmesine yardımcı olur. Drone’lar, çok hafif bir çerçeve üzerine monte edilmiş dört yatay pervaneye sahip küçük helikopter benzeri mekanizmalardır. Drone kameraları video üretiminde çeşitli araçlarla yaratılan hareketli görüntüleri örneğin tekerlekli araba, vinç veya jib gibi pahalı sinema ekipmanlarının sağladığı efektleri taklit etmek için de kullanılabilir. Drone'lar yaklaşık 20 dakika gibi sınırlı bir uçuş süresi ve 1000 fit menzile sahiptir."
     },
     {
         "SoruID": 3353106,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıtınız yanlış ise \"Dijital Audio ve Diğer Video Ekipmanları\" konusunu yeniden gözden geçiriniz.<br>Çeşitli yapımlarda ses kayıt cihazlarına takılan farklı mikrofon türlerinin kullanıldığı görülmektedir. En yaygın şekilde bireylere takılan kablosuz yaka mikrofonları ve ortamdan ses almak için \"Boom\" ismi verilen tepeden sahnenin sesini alan mikrofonların kullanıldıkları bilinmektedir."
+        "Aciklama": "Yanıtınız yanlış ise \"Dijital Audio ve Diğer Video Ekipmanları\" konusunu yeniden gözden geçiriniz.<br/>Çeşitli yapımlarda ses kayıt cihazlarına takılan farklı mikrofon türlerinin kullanıldığı görülmektedir. En yaygın şekilde bireylere takılan kablosuz yaka mikrofonları ve ortamdan ses almak için \"Boom\" ismi verilen tepeden sahnenin sesini alan mikrofonların kullanıldıkları bilinmektedir."
     },
     {
         "SoruID": 3353107,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıtınız yanlış ise \"Dijital Audio ve Diğer Video Ekipmanları\" konusunu yeniden gözden geçiriniz.<br>Mekan içinde derinlik ve genişlikte ilerleyerek dikey ve yatay bazen de dairesel veya düzensiz hareketler üreten, kimi zaman tekerlekli kimi zaman raylı sistemler üzerinde hareket eden araç Dolly olarak tanımlanmaktadır."
+        "Aciklama": "Yanıtınız yanlış ise \"Dijital Audio ve Diğer Video Ekipmanları\" konusunu yeniden gözden geçiriniz.<br/>Mekan içinde derinlik ve genişlikte ilerleyerek dikey ve yatay bazen de dairesel veya düzensiz hareketler üreten, kimi zaman tekerlekli kimi zaman raylı sistemler üzerinde hareket eden araç Dolly olarak tanımlanmaktadır."
     },
     {
         "SoruID": 3353108,

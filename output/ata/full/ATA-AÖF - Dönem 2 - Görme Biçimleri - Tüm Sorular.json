@@ -801,7 +801,7 @@
     },
     {
         "SoruID": 340848,
-        "SoruMetni": "I. Derinlik<br/>II. Uzaklık<br/>III. Gerçeklik<br/>IV. Ağırlık<br/><strong>Yukarıdakilerden hangileri fiziksel çevrenin sahip olduğu boyutlar arasında yer alır?</strong></br></br></br>",
+        "SoruMetni": "I. Derinlik<br/>II. Uzaklık<br/>III. Gerçeklik<br/>IV. Ağırlık<br/><strong>Yukarıdakilerden hangileri fiziksel çevrenin sahip olduğu boyutlar arasında yer alır?</strong>",
         "A": "I ve IV",
         "B": "II ve IV",
         "C": "IV ve III",
@@ -1001,7 +1001,7 @@
     },
     {
         "SoruID": 310764,
-        "SoruMetni": "I. Bir noktaya bakışımızı odakladığımızda görüntü merkezde keskin, net ve detaylıdır.<br/>II. Görüntünün merkezinde konturlar daha net gözükürken, merkezden uzaklaştıkça netlikleri azalır.<br/>III. Göz görsel alanın sınırlarına doğru konturları takip etmekte zorlanır.<br/>IV. Göz odaklandığı görüntünün merkezinden görüntünün sınırlarına doğru konturları takip etmek isteğindedir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri doğru kabul <u>edilemez</u>?</strong></br></br></br>",
+        "SoruMetni": "I. Bir noktaya bakışımızı odakladığımızda görüntü merkezde keskin, net ve detaylıdır.<br/>II. Görüntünün merkezinde konturlar daha net gözükürken, merkezden uzaklaştıkça netlikleri azalır.<br/>III. Göz görsel alanın sınırlarına doğru konturları takip etmekte zorlanır.<br/>IV. Göz odaklandığı görüntünün merkezinden görüntünün sınırlarına doğru konturları takip etmek isteğindedir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri doğru kabul <u>edilemez</u>?</strong>",
         "A": "Yalnız II",
         "B": "Yalnız IV",
         "C": "I ve II",
@@ -3241,7 +3241,7 @@
     },
     {
         "SoruID": 357287,
-        "SoruMetni": "I. Işık<br/>II. Göz<br/>III. Beyin<br/><strong>Fiziksel olarak renk yukarıdakilerin hangisi ya da hangileriyle algılanır?</strong></br></br>",
+        "SoruMetni": "I. Işık<br/>II. Göz<br/>III. Beyin<br/><strong>Fiziksel olarak renk yukarıdakilerin hangisi ya da hangileriyle algılanır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -3321,7 +3321,7 @@
     },
     {
         "SoruID": 313597,
-        "SoruMetni": "I. Renk değeri eşitliği<br/>II. Farklı güçlerin dengesi<br/>III. Çizgisel uyumluluk<br/><strong>Yukarıda verilen seçeneklerden hangisi ya da hangileri statik dengeyi oluşturan ögelerden <u>değildir</u>?</strong></br></br>",
+        "SoruMetni": "I. Renk değeri eşitliği<br/>II. Farklı güçlerin dengesi<br/>III. Çizgisel uyumluluk<br/><strong>Yukarıda verilen seçeneklerden hangisi ya da hangileri statik dengeyi oluşturan ögelerden <u>değildir</u>?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "Yalnız II",
@@ -3581,7 +3581,7 @@
     },
     {
         "SoruID": 316655,
-        "SoruMetni": "I. Ahenk ve armoni oluşturur.<br/>II. Düzen ifadesi verir.<br/>III. Dikkatimizi dağıtır.<br/><strong>Yukarıda verilen seçeneklerden hangisi ya da hangileri sanatta ritim fonksiyonlarının etkilerinden <u>değildir</u>?</strong></br></br>",
+        "SoruMetni": "I. Ahenk ve armoni oluşturur.<br/>II. Düzen ifadesi verir.<br/>III. Dikkatimizi dağıtır.<br/><strong>Yukarıda verilen seçeneklerden hangisi ya da hangileri sanatta ritim fonksiyonlarının etkilerinden <u>değildir</u>?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I, II ve III",
@@ -4221,7 +4221,7 @@
     },
     {
         "SoruID": 320057,
-        "SoruMetni": "<strong>İki boyutlu alanda uzaysal deneyimler ve algımızda üç boyuta ulaşma çabası aşağıdaki hangi ilke ya da ilkeler doğrultusunda hareket eder?</strong><br type=\"_moz\"/>",
+        "SoruMetni": "<strong>İki boyutlu alanda uzaysal deneyimler ve algımızda üç boyuta ulaşma çabası aşağıdaki hangi ilke ya da ilkeler doğrultusunda hareket eder?</strong>",
         "A": "Yakınlık, benzerlik",
         "B": "Benzerlik, kapalılık",
         "C": "Yakınlık, benzerlik, kapalılık",
@@ -4261,7 +4261,7 @@
     },
     {
         "SoruID": 320059,
-        "SoruMetni": "I. Yüzeydeki ilişkilerin canlılığı<br/>II. Yüzeydeki ilişkilerin netliği<br/>III. Optik elemanların bireysel özellikleri<br/><strong>Verilen özellikleri belirleyen kavram aşağıdakilerden hangisidir?</strong></br></br>",
+        "SoruMetni": "I. Yüzeydeki ilişkilerin canlılığı<br/>II. Yüzeydeki ilişkilerin netliği<br/>III. Optik elemanların bireysel özellikleri<br/><strong>Verilen özellikleri belirleyen kavram aşağıdakilerden hangisidir?</strong>",
         "A": "Yakınlık ilişkisi",
         "B": "Benzerlik ilişkisi",
         "C": "Dikkat enerjisi",
@@ -4661,7 +4661,7 @@
     },
     {
         "SoruID": 357368,
-        "SoruMetni": "I. Kübizm<br/>II. Pop-art<br/>III. Arazi sanatı<br/>IV. Minimalizm<br/><strong>Yukarıdakilerden hangileri 20. yüzyılın ikinci yarısından sonra ortaya çıkan sanat akımlarındandır?</strong></br></br></br>",
+        "SoruMetni": "I. Kübizm<br/>II. Pop-art<br/>III. Arazi sanatı<br/>IV. Minimalizm<br/><strong>Yukarıdakilerden hangileri 20. yüzyılın ikinci yarısından sonra ortaya çıkan sanat akımlarındandır?</strong>",
         "A": "I ve III",
         "B": "II ve IV",
         "C": "I, II ve III",
@@ -5321,7 +5321,7 @@
     },
     {
         "SoruID": 321000,
-        "SoruMetni": "<strong>İmgenin ışık–gölge kullanımıyla en belirgin özelliğe sahip olduğu sanat dönemi aşağıdakilerden hangisidir?</strong><br type=\"_moz\"/>",
+        "SoruMetni": "<strong>İmgenin ışık–gölge kullanımıyla en belirgin özelliğe sahip olduğu sanat dönemi aşağıdakilerden hangisidir?</strong>",
         "A": "Maniyerizm",
         "B": "Antik Yunan",
         "C": "Rönesans",

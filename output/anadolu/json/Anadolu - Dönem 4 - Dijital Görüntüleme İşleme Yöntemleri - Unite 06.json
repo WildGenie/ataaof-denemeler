@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tek yönlü iletişim sağlayan geleneksel medyada (gazete radyo televizyon) hedef kitle pasif durumdayken dijital olarak üretilen ve tüketilen yeni medyada hedef kitle aktif duruma geçmiştir.<br>Sorunun doğru cevabı A seçeneğinde verilmiştir."
+        "Aciklama": "Tek yönlü iletişim sağlayan geleneksel medyada (gazete radyo televizyon) hedef kitle pasif durumdayken dijital olarak üretilen ve tüketilen yeni medyada hedef kitle aktif duruma geçmiştir.<br/>Sorunun doğru cevabı A seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488763,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Temel anlamda sıfırdan bir oyun karakterinin nasıl tasarlandığını anlamak için şu basamakları bilmek gerekir: 1. Karakteri ve model türünü tasarlama, 2. Modelleme için hazırlık aşamasında eskiz oluşturma, 3. 3 boyutlu programda karakteri modelleme, 4. Karakterin dokularını hazırlama ve UV doku koordinatlarını haritalama, 5. Dokular ve kabartma haritaları oluşturma, 6. Animasyon öncesi karakter ağına (mesh) iki ayaklı bir iskelet uygulama, 7. Oyun sırasında bir oyun motoru tarafından çağrılacak animasyon dizileri oluşturma. 163<br>Sorunun doğru cevabı B seçeneğinde verilmiştir."
+        "Aciklama": "Temel anlamda sıfırdan bir oyun karakterinin nasıl tasarlandığını anlamak için şu basamakları bilmek gerekir: 1. Karakteri ve model türünü tasarlama, 2. Modelleme için hazırlık aşamasında eskiz oluşturma, 3. 3 boyutlu programda karakteri modelleme, 4. Karakterin dokularını hazırlama ve UV doku koordinatlarını haritalama, 5. Dokular ve kabartma haritaları oluşturma, 6. Animasyon öncesi karakter ağına (mesh) iki ayaklı bir iskelet uygulama, 7. Oyun sırasında bir oyun motoru tarafından çağrılacak animasyon dizileri oluşturma. 163<br/>Sorunun doğru cevabı B seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488764,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "NPC (Non Player Character): bilgisayar oyunlarında oyuncu tarafından kontrol edilmeyen, oyun motoru tarafından kontrol edilen karakterlere verilen isim.<br>Sorunun doğru cevabı C seçeneğinde verilmiştir."
+        "Aciklama": "NPC (Non Player Character): bilgisayar oyunlarında oyuncu tarafından kontrol edilmeyen, oyun motoru tarafından kontrol edilen karakterlere verilen isim.<br/>Sorunun doğru cevabı C seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488765,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Filmlerde ve oyunlarda kullanılan nesneler, poligon geometri sistemi ile oluşturulmaktadır.<br>Sorunun doğru cevabı D seçeneğinde verilmiştir."
+        "Aciklama": "Filmlerde ve oyunlarda kullanılan nesneler, poligon geometri sistemi ile oluşturulmaktadır.<br/>Sorunun doğru cevabı D seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488766,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Nesne ne kadar fazla poligondan oluşursa o kadar detaylı ve gerçekçi gözükmektedir.<br>Sorunun doğru cevabı E seçeneğinde verilmiştir"
+        "Aciklama": "Nesne ne kadar fazla poligondan oluşursa o kadar detaylı ve gerçekçi gözükmektedir.<br/>Sorunun doğru cevabı E seçeneğinde verilmiştir"
     },
     {
         "SoruID": 3488767,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "3 boyutlu olarak modellenen nesnelerin, bitkilerin, dokuların bulunduğu bu kütüphanedeki görseller fotoğraf kalitesindedir. Mega scans adında bir ekip dünyanın her yerini dolaşarak gerçek nesneleri 3 boyutlu tarayıcılar ile taramakta ve bu fotografik modellemeleri bu kütüphane üzerinden kullanıma sunmaktadırlar.<br>Sorunun doğru cevabı E seçeneğinde verilmiştir."
+        "Aciklama": "3 boyutlu olarak modellenen nesnelerin, bitkilerin, dokuların bulunduğu bu kütüphanedeki görseller fotoğraf kalitesindedir. Mega scans adında bir ekip dünyanın her yerini dolaşarak gerçek nesneleri 3 boyutlu tarayıcılar ile taramakta ve bu fotografik modellemeleri bu kütüphane üzerinden kullanıma sunmaktadırlar.<br/>Sorunun doğru cevabı E seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488768,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1895’te Alfred Clark, ilk sinema filmi özel efektini kullanmıştır. 36 saniye süren bu film, İskoçya Kraliçesi Mary’nin infazının yeniden canlandırılmasıdır.<br>Sorunun doğru yanıtı D seçeneğinde verilmiştir."
+        "Aciklama": "1895’te Alfred Clark, ilk sinema filmi özel efektini kullanmıştır. 36 saniye süren bu film, İskoçya Kraliçesi Mary’nin infazının yeniden canlandırılmasıdır.<br/>Sorunun doğru yanıtı D seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488769,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İlk sinema filmlerinin öncülerinden Georges Méliès, aynı dönemlerde “durdurma hilesi” denen bu etkiyi tesadüf eseri keşfetmiştir. Bir film çektiği sırada kameranın bir süreliğine durması ve çalışmaması sonucunda görüntüde atlamalar olduğunu ve bazı insanlarla araçların şaşırtıcı bir biçimde aniden yer değiştirdiğini fark etmiştir. Sinema büyücüsü lakaplı yönetmenin ayın yüzünün olduğu ve gözüne bir mekiğin çarptığı görselden hatırlanan, Jules Verne’ün Romanından esinlenerek oluşturduğu, 15 dakika süren, 1902 yapımı Le Voyage dans la Lune filmi görsel efektlerin yoğun bir şekilde kullanıldığı ilk örneklerdendir.<br>Sorunun doğru cevabı C seçeneğinde verilmiştir."
+        "Aciklama": "İlk sinema filmlerinin öncülerinden Georges Méliès, aynı dönemlerde “durdurma hilesi” denen bu etkiyi tesadüf eseri keşfetmiştir. Bir film çektiği sırada kameranın bir süreliğine durması ve çalışmaması sonucunda görüntüde atlamalar olduğunu ve bazı insanlarla araçların şaşırtıcı bir biçimde aniden yer değiştirdiğini fark etmiştir. Sinema büyücüsü lakaplı yönetmenin ayın yüzünün olduğu ve gözüne bir mekiğin çarptığı görselden hatırlanan, Jules Verne’ün Romanından esinlenerek oluşturduğu, 15 dakika süren, 1902 yapımı Le Voyage dans la Lune filmi görsel efektlerin yoğun bir şekilde kullanıldığı ilk örneklerdendir.<br/>Sorunun doğru cevabı C seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488770,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "1918’de Frank Williams “Traveling Matte” tekniğini buldu. Bu teknik kameranın sabit kalma zorunluluğunu ortadan kaldırıyordu. Teknik F.W. Murnau’nun Sunrise (1927) filminde kullanıldı.<br>Sorunun doğru yanıtı B seçeneğinde verilmiştir."
+        "Aciklama": "1918’de Frank Williams “Traveling Matte” tekniğini buldu. Bu teknik kameranın sabit kalma zorunluluğunu ortadan kaldırıyordu. Teknik F.W. Murnau’nun Sunrise (1927) filminde kullanıldı.<br/>Sorunun doğru yanıtı B seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488771,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Teknolojinin gelişmesi ve sinemanın da dijital teknikler ile üretilmeye başlanması ile, sinemada dijital görüntü işleme yöntemleri gelişmeye başlamıştır. Zaman geçtikçe ve dijital kamera teknolojisi ilerledikçe, film yapımcıları yeşil rengin arka plan ekranı rengi olarak daha uygun olduğunu fark etmeye başlamışlardır.<br>Sorunun doğru yanıtı A seçeneğinde verilmiştir."
+        "Aciklama": "Teknolojinin gelişmesi ve sinemanın da dijital teknikler ile üretilmeye başlanması ile, sinemada dijital görüntü işleme yöntemleri gelişmeye başlamıştır. Zaman geçtikçe ve dijital kamera teknolojisi ilerledikçe, film yapımcıları yeşil rengin arka plan ekranı rengi olarak daha uygun olduğunu fark etmeye başlamışlardır.<br/>Sorunun doğru yanıtı A seçeneğinde verilmiştir."
     },
     {
         "SoruID": 3488835,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YENİ MEDYA TEKNOLOJİLERİ<br>Eşzamansızlık"
+        "Aciklama": "YENİ MEDYA TEKNOLOJİLERİ<br/>Eşzamansızlık"
     },
     {
         "SoruID": 3488840,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "OYUNLARDA DİJİTAL GÖRÜNTÜ<br>Bilgisayar oyunlarında oyuncu tarafından kontrol edilmeyen, oyun motoru tarafından kontrol edilen karakterlere verilen isimdir"
+        "Aciklama": "OYUNLARDA DİJİTAL GÖRÜNTÜ<br/>Bilgisayar oyunlarında oyuncu tarafından kontrol edilmeyen, oyun motoru tarafından kontrol edilen karakterlere verilen isimdir"
     },
     {
         "SoruID": 3488843,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "OYUNLARDA DİJİTAL GÖRÜNTÜ<br>Oyun motoru"
+        "Aciklama": "OYUNLARDA DİJİTAL GÖRÜNTÜ<br/>Oyun motoru"
     },
     {
         "SoruID": 3488847,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Unreal Engine 5<br>Sanallaştırılmış geometri sistemi"
+        "Aciklama": "Unreal Engine 5<br/>Sanallaştırılmış geometri sistemi"
     },
     {
         "SoruID": 3488849,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Unreal Engine 5<br>Lumen teknolojisi"
+        "Aciklama": "Unreal Engine 5<br/>Lumen teknolojisi"
     },
     {
         "SoruID": 3489016,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SİNEMADA DİJİTAL GÖRÜNTÜ<br>Stop motion"
+        "Aciklama": "SİNEMADA DİJİTAL GÖRÜNTÜ<br/>Stop motion"
     },
     {
         "SoruID": 3489017,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeşil Ekran (Greenscreen)<br>Büyük LED ekran"
+        "Aciklama": "Yeşil Ekran (Greenscreen)<br/>Büyük LED ekran"
     },
     {
         "SoruID": 3489018,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeşil Ekran (Greenscreen)<br>24 fps"
+        "Aciklama": "Yeşil Ekran (Greenscreen)<br/>24 fps"
     },
     {
         "SoruID": 3489019,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SİNEMADA DİJİTAL GÖRÜNTÜ<br>Bayer filtresi"
+        "Aciklama": "SİNEMADA DİJİTAL GÖRÜNTÜ<br/>Bayer filtresi"
     },
     {
         "SoruID": 3489020,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SİNEMADA DİJİTAL GÖRÜNTÜ<br>Traveling Matte"
+        "Aciklama": "SİNEMADA DİJİTAL GÖRÜNTÜ<br/>Traveling Matte"
     },
     {
         "SoruID": 3489145,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Web 1.0 (1990 – 2000), kullanıcıların tek yönlü<br/>olarak karşıdaki içerikle iletişime geçtiği, statik sitelerden<br/>oluşan, geleneksel medyadan farkı olmayan,<br/>insanların sadece izleyip dinledikleri, içerik sunan<br/>sitelerden oluşmaktaydı. Kullanıcılar başka kullanıcılar<br/>ile iletişim kuramaz, web üzerinden alışveriş<br/>yapamazlardı. Bu dönem uzmanlar tarafından salt<br/>okunur web olarak tanımlanmaktadır.<br>Web 0.1"
+        "Aciklama": "Web 1.0 (1990 – 2000), kullanıcıların tek yönlü<br/>olarak karşıdaki içerikle iletişime geçtiği, statik sitelerden<br/>oluşan, geleneksel medyadan farkı olmayan,<br/>insanların sadece izleyip dinledikleri, içerik sunan<br/>sitelerden oluşmaktaydı. Kullanıcılar başka kullanıcılar<br/>ile iletişim kuramaz, web üzerinden alışveriş<br/>yapamazlardı. Bu dönem uzmanlar tarafından salt<br/>okunur web olarak tanımlanmaktadır.<br/>Web 0.1"
     },
     {
         "SoruID": 3489162,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Web 2.0 (2000 – 2010) ile sosyal medyanın<br/>ön plana çıktığı, insanların da katılabildiği, içerik<br/>sunabildiği, yönetebildiği etkileşimli, dinamik ve<br/>çift yönlü siteler ortaya çıkmaya başladı. Artık insanlar<br/>sadece izleyip dinleyen olmaktan çıkıp aynı<br/>zamanda yazabiliyor, içeriğe katkı sağlayabiliyor,<br/>bilgiyi birbirleriyle paylaşarak ortaklaşa kullanabiliyor<br/>hâle geldiler. Paylaşım siteleri, blog sayfaları,<br/>e-posta gibi uygulamalar buna örnek gösterilebilir.<br/>Bu dönem uzmanlar tarafından sosyal web olarak<br/>tanımlanmaktadır.<br>Web 0.2"
+        "Aciklama": "Web 2.0 (2000 – 2010) ile sosyal medyanın<br/>ön plana çıktığı, insanların da katılabildiği, içerik<br/>sunabildiği, yönetebildiği etkileşimli, dinamik ve<br/>çift yönlü siteler ortaya çıkmaya başladı. Artık insanlar<br/>sadece izleyip dinleyen olmaktan çıkıp aynı<br/>zamanda yazabiliyor, içeriğe katkı sağlayabiliyor,<br/>bilgiyi birbirleriyle paylaşarak ortaklaşa kullanabiliyor<br/>hâle geldiler. Paylaşım siteleri, blog sayfaları,<br/>e-posta gibi uygulamalar buna örnek gösterilebilir.<br/>Bu dönem uzmanlar tarafından sosyal web olarak<br/>tanımlanmaktadır.<br/>Web 0.2"
     },
     {
         "SoruID": 3489168,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görüntü işleme teknolojilerinin yoğun kullanılmaya<br/>başlandığı fotoğraflardaki yüz tanıma özelliği, etiketleme,<br/>asistan uygulamaları gibi gelişmeler bu<br/>dönemle birlikte hayatımıza dâhil olmuştur. Bu<br/>dönem uzmanlar tarafından semantik (anlamsal)<br/>web olarak tanımlanmaktadır.<br>Web 0.3"
+        "Aciklama": "Görüntü işleme teknolojilerinin yoğun kullanılmaya<br/>başlandığı fotoğraflardaki yüz tanıma özelliği, etiketleme,<br/>asistan uygulamaları gibi gelişmeler bu<br/>dönemle birlikte hayatımıza dâhil olmuştur. Bu<br/>dönem uzmanlar tarafından semantik (anlamsal)<br/>web olarak tanımlanmaktadır.<br/>Web 0.3"
     },
     {
         "SoruID": 3489170,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yakın gelecekte hayatımızda çok daha fazla<br/>hissedeceğimiz web 4.0 (2020 – 2030) ise sabit<br/>disklerin kullanılmadığı tamamen web üzerinden<br/>ve sanallaştırma üzerinden bulut sistemler ile karşımıza<br/>çıkacaktır. İ nsanların cihazlarına herhangi bir<br/>program kurma ihtiyacı olmadan, cihazlarında herhangi<br/>bir veri depolamak zorunda kalmadan tüm<br/>işlemlerin bulut sistemler üzerinden gerçekleştiği<br/>bir altyapı kullanacaktır.<br>Web 0.4"
+        "Aciklama": "Yakın gelecekte hayatımızda çok daha fazla<br/>hissedeceğimiz web 4.0 (2020 – 2030) ise sabit<br/>disklerin kullanılmadığı tamamen web üzerinden<br/>ve sanallaştırma üzerinden bulut sistemler ile karşımıza<br/>çıkacaktır. İ nsanların cihazlarına herhangi bir<br/>program kurma ihtiyacı olmadan, cihazlarında herhangi<br/>bir veri depolamak zorunda kalmadan tüm<br/>işlemlerin bulut sistemler üzerinden gerçekleştiği<br/>bir altyapı kullanacaktır.<br/>Web 0.4"
     },
     {
         "SoruID": 3489173,

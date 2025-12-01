@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">Çözülmemiş sorunun tanımı, çözüm için kullanılabilecek olası işlemlerin belirlenmesi, çözülmüş problemin tanımı, çözümün hemen belli olmaması gibi özelliklere sahip bir problem tanımlı problemdir</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/><span style=\"font-weight: 400;\">Çözülmemiş sorunun tanımı, çözüm için kullanılabilecek olası işlemlerin belirlenmesi, çözülmüş problemin tanımı, çözümün hemen belli olmaması gibi özelliklere sahip bir problem tanımlı problemdir</span>"
     },
     {
         "SoruID": 3862225,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt E şıkkıdır<br><span style=\"font-weight: 400;\">Gerçek hayatta var olan, çözülmemiş sorunun tanımı, çözüm için kullanılabilecek olası işlemlerin belirlenmesi, çözülmüş problemin tanımı, çözümün hemen belli olmaması gibi özelliklerin tamamına sahip olmayan problemler tanımsız problemlerdir</span>"
+        "Aciklama": "Yanıt E şıkkıdır<br/><span style=\"font-weight: 400;\">Gerçek hayatta var olan, çözülmemiş sorunun tanımı, çözüm için kullanılabilecek olası işlemlerin belirlenmesi, çözülmüş problemin tanımı, çözümün hemen belli olmaması gibi özelliklerin tamamına sahip olmayan problemler tanımsız problemlerdir</span>"
     },
     {
         "SoruID": 3862226,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru sıralama A şıkkıdır<br><span style=\"font-weight: 400;\">Yaratıcılık ile ilgili çalışmalar üç ana akım bakış açısıyla ele alınabilir. Birinci yaklaşımlarda yaratıcılık bireysel bir nitelik olarak ele alınır. İkincil yaklaşımlarda üretken bir çaba olarak ele alını. Üçüncü akımda ise sosyal etkileşim boyutunu ele alır. </span>"
+        "Aciklama": "Doğru sıralama A şıkkıdır<br/><span style=\"font-weight: 400;\">Yaratıcılık ile ilgili çalışmalar üç ana akım bakış açısıyla ele alınabilir. Birinci yaklaşımlarda yaratıcılık bireysel bir nitelik olarak ele alınır. İkincil yaklaşımlarda üretken bir çaba olarak ele alını. Üçüncü akımda ise sosyal etkileşim boyutunu ele alır. </span>"
     },
     {
         "SoruID": 3862227,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br><span style=\"font-weight: 400;\">Olası çözümler için bir arka plan olarak kullanılabilecek çok sayıda yeni fikir üretme eylemi ıraksak düşünmedir. </span>"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/><span style=\"font-weight: 400;\">Olası çözümler için bir arka plan olarak kullanılabilecek çok sayıda yeni fikir üretme eylemi ıraksak düşünmedir. </span>"
     },
     {
         "SoruID": 3862228,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br><span>Farklı kaynaklardan veya fikirlerden bilgi birleştirme, azaltılmış bir fikir kümesi geliştirme ve nihayetinde çeşitli değerlendirmeler sonucunda uygun bir tek çözüm bulma çabası yakınsak düşünmedir.</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/><span>Farklı kaynaklardan veya fikirlerden bilgi birleştirme, azaltılmış bir fikir kümesi geliştirme ve nihayetinde çeşitli değerlendirmeler sonucunda uygun bir tek çözüm bulma çabası yakınsak düşünmedir.</span>"
     },
     {
         "SoruID": 3862229,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br><span style=\"font-weight: 400;\">Tasarım ekibi, kurumun, markanın ve ürünün kimliği ve hedefleri hakkında derinlemesine bir anlayış geliştirdiği aşama tanımlama aşamasıdır</span>"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/><span style=\"font-weight: 400;\">Tasarım ekibi, kurumun, markanın ve ürünün kimliği ve hedefleri hakkında derinlemesine bir anlayış geliştirdiği aşama tanımlama aşamasıdır</span>"
     },
     {
         "SoruID": 3862230,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">Tasarım ekibinin içerik ve rekabet analizleri yaptığı,mevcut pazar koşulları, rakiplerin kimlikleri ve sektör trendleri gibi faktörleri araştırdığı ve hedef kitlenin ihtiyaçlarını ve beklentilerini değerlendirdiği aşama keşfetme aşamasıdır</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/><span style=\"font-weight: 400;\">Tasarım ekibinin içerik ve rekabet analizleri yaptığı,mevcut pazar koşulları, rakiplerin kimlikleri ve sektör trendleri gibi faktörleri araştırdığı ve hedef kitlenin ihtiyaçlarını ve beklentilerini değerlendirdiği aşama keşfetme aşamasıdır</span>"
     },
     {
         "SoruID": 3862231,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt D şıkkıdır<br><span style=\"font-weight: 400;\">Keşfetme aşamasında, markanın müşteri deneyimini daha iyi anlamak, duygusal bağlantıları incelemek ve strateji geliştirmek için önemli bir araç olarak görülen analiz türü temas noktaları analizidir</span>"
+        "Aciklama": "Doğru yanıt D şıkkıdır<br/><span style=\"font-weight: 400;\">Keşfetme aşamasında, markanın müşteri deneyimini daha iyi anlamak, duygusal bağlantıları incelemek ve strateji geliştirmek için önemli bir araç olarak görülen analiz türü temas noktaları analizidir</span>"
     },
     {
         "SoruID": 3862232,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt B şıkkıdır<br><span style=\"font-weight: 400;\">Belirli bir kavramı, duyguyu veya temayı bir dizi resim, renk ve diğer görsel ögeler ile yansıtan görsel kolaj duygu panolarıdır</span>"
+        "Aciklama": "Doğru yanıt B şıkkıdır<br/><span style=\"font-weight: 400;\">Belirli bir kavramı, duyguyu veya temayı bir dizi resim, renk ve diğer görsel ögeler ile yansıtan görsel kolaj duygu panolarıdır</span>"
     },
     {
         "SoruID": 3862233,
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt B şıkkıdır<br><span style=\"font-weight: 400;\">Hedef kitleden bilgi toplamak için hazırlanan bir dizi soru ve diğer ipuçlarını içeren araştırma araçları anketlerdir</span>"
+        "Aciklama": "Doğru yanıt B şıkkıdır<br/><span style=\"font-weight: 400;\">Hedef kitleden bilgi toplamak için hazırlanan bir dizi soru ve diğer ipuçlarını içeren araştırma araçları anketlerdir</span>"
     }
 ]

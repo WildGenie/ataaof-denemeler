@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 332496,
-        "SoruMetni": "I. Breakpoints (Kesme Noktaları)<br/>II. Containers (Kapsayıcılar)<br/>III. Grid (Izgara)<br/>IV. Tables (Tablolar)<br/><strong>Yukarıdakilerden hangisi ya da hangileri Layout (Düzen) Sistemi'nin bileşenleri arasında yer alır?</strong></br></br></br>",
+        "SoruMetni": "I. Breakpoints (Kesme Noktaları)<br/>II. Containers (Kapsayıcılar)<br/>III. Grid (Izgara)<br/>IV. Tables (Tablolar)<br/><strong>Yukarıdakilerden hangisi ya da hangileri Layout (Düzen) Sistemi'nin bileşenleri arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",

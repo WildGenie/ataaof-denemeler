@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">Unreal Engine yazılımını 1998 yılında geliştiren isim </span><span style=\"font-weight: 400;\">Tim Sweeney'dir.</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/><span style=\"font-weight: 400;\">Unreal Engine yazılımını 1998 yılında geliştiren isim </span><span style=\"font-weight: 400;\">Tim Sweeney'dir.</span>"
     },
     {
         "SoruID": 3690163,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br><span style=\"font-weight: 400;\">Önemli bir oyun firması olan Epic Games’i Tim Sweeney kurmuştur</span>"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/><span style=\"font-weight: 400;\">Önemli bir oyun firması olan Epic Games’i Tim Sweeney kurmuştur</span>"
     },
     {
         "SoruID": 3690165,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt B şıkkıdır<br><span style=\"font-weight: 400;\">Önemli bir oyun motoru olan Godot’u 2007 yılında piyasaya süren isim </span><span style=\"font-weight: 400;\">Juan Linietsky'dir. </span>"
+        "Aciklama": "Doğru yanıt B şıkkıdır<br/><span style=\"font-weight: 400;\">Önemli bir oyun motoru olan Godot’u 2007 yılında piyasaya süren isim </span><span style=\"font-weight: 400;\">Juan Linietsky'dir. </span>"
     },
     {
         "SoruID": 3690169,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır<br>Amazon’un piyasaya sürmüş olduğu oyun motoru Lumberyard'dır."
+        "Aciklama": "Doğru yanıt E şıkkıdır<br/>Amazon’un piyasaya sürmüş olduğu oyun motoru Lumberyard'dır."
     },
     {
         "SoruID": 3690172,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br>Bir eylemin oluşması durumunda nesnelerde meydana gelecek değişiklik efektinin kontrol edilmesini sağlayan modül animasyon/fizik motoru modülüdür"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/>Bir eylemin oluşması durumunda nesnelerde meydana gelecek değişiklik efektinin kontrol edilmesini sağlayan modül animasyon/fizik motoru modülüdür"
     },
     {
         "SoruID": 3690178,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır<br>Oyun oynayan bireyler dışında oyunda yer alan ve bilgisayar tarafından oyuncunun hareketlerine göre hareket eden nesnelerin davranışlarını kontrol etmeyi sağlayan modül yapay zeka modülüdür."
+        "Aciklama": "Doğru yanıt E şıkkıdır<br/>Oyun oynayan bireyler dışında oyunda yer alan ve bilgisayar tarafından oyuncunun hareketlerine göre hareket eden nesnelerin davranışlarını kontrol etmeyi sağlayan modül yapay zeka modülüdür."
     },
     {
         "SoruID": 3690180,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt B şıkkıdır<br>Hazır kütüphaneler bakımından öne çıkan, Pygame kütüphanesi ile oyun tasarımcılarına yönelik çok sayıda işlevi bulunduran dil Python'dır."
+        "Aciklama": "Doğru yanıt B şıkkıdır<br/>Hazır kütüphaneler bakımından öne çıkan, Pygame kütüphanesi ile oyun tasarımcılarına yönelik çok sayıda işlevi bulunduran dil Python'dır."
     },
     {
         "SoruID": 3690186,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır<br><span style=\"font-weight: 400;\">HTML5 ortamında çalışabilecek oyunlar geliştirmeye olanak sağlayan gelişmiş ve ücretsiz bir oyun motoru Phaser'dir</span>"
+        "Aciklama": "Doğru yanıt E şıkkıdır<br/><span style=\"font-weight: 400;\">HTML5 ortamında çalışabilecek oyunlar geliştirmeye olanak sağlayan gelişmiş ve ücretsiz bir oyun motoru Phaser'dir</span>"
     },
     {
         "SoruID": 3690190,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">Game Maker Studio 2 oyun motorunu kullandığı dil GML'dir.</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/><span style=\"font-weight: 400;\">Game Maker Studio 2 oyun motorunu kullandığı dil GML'dir.</span>"
     },
     {
         "SoruID": 3690194,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır.<br>Phaser açık kaynak kodlu bir oyun motorudur"
+        "Aciklama": "Doğru yanıt C şıkkıdır.<br/>Phaser açık kaynak kodlu bir oyun motorudur"
     },
     {
         "SoruID": 3688192,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br>1970 ve 1980lerde kullanılan ekranları tanımlamak için kullanılan ve resim, çizim, tasarım ve fotoğrafların tek renkten oluştuğunu ifade eden bir sözcükten gelen ekran türü monokrom ekranlardır"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/>1970 ve 1980lerde kullanılan ekranları tanımlamak için kullanılan ve resim, çizim, tasarım ve fotoğrafların tek renkten oluştuğunu ifade eden bir sözcükten gelen ekran türü monokrom ekranlardır"
     },
     {
         "SoruID": 3688196,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır<br>2D grafiklerin sunduğu sanatsal özgürlük daha yüksektir. Diğer şıklar yanlış ifadeler içermektedir."
+        "Aciklama": "Doğru yanıt E şıkkıdır<br/>2D grafiklerin sunduğu sanatsal özgürlük daha yüksektir. Diğer şıklar yanlış ifadeler içermektedir."
     },
     {
         "SoruID": 3688198,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br>Poligonların birleşiminden oluşan ağ yapısını ifade edilen ve 3D modellerin iskeleti olarak görülen kavram mesh'dir."
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/>Poligonların birleşiminden oluşan ağ yapısını ifade edilen ve 3D modellerin iskeleti olarak görülen kavram mesh'dir."
     },
     {
         "SoruID": 3688202,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır<br>2D oyunlarda zemin, duvar, tavan ve diğer tekrar eden ögeler için kullanılan resim setlerine tileset denir"
+        "Aciklama": "Doğru yanıt E şıkkıdır<br/>2D oyunlarda zemin, duvar, tavan ve diğer tekrar eden ögeler için kullanılan resim setlerine tileset denir"
     },
     {
         "SoruID": 3688212,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br>Konsept tasarımı aşamasının ilk adımı araştırmadır."
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/>Konsept tasarımı aşamasının ilk adımı araştırmadır."
     },
     {
         "SoruID": 3688217,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt B şıkkıdır<br>Modellere renk, desen ve detay ekleyerek onları daha gerçekçi veya stilize hâle getiren süreç tekstürlemedir."
+        "Aciklama": "Doğru yanıt B şıkkıdır<br/>Modellere renk, desen ve detay ekleyerek onları daha gerçekçi veya stilize hâle getiren süreç tekstürlemedir."
     },
     {
         "SoruID": 3688221,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br>C# programlama dilini kullanarak oyun mantığını ve etkileşimlerini geliştirmeye olanak tanıyan, Asset Store’da geliştiricilere hazır oyun varlıkları, scriptler ve daha fazlasını sunan yazılım Unity'dir."
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/>C# programlama dilini kullanarak oyun mantığını ve etkileşimlerini geliştirmeye olanak tanıyan, Asset Store’da geliştiricilere hazır oyun varlıkları, scriptler ve daha fazlasını sunan yazılım Unity'dir."
     },
     {
         "SoruID": 3688223,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt D şıkkıdır<br>Maya, Autodesk'in geliştirdiği bir yazılımdır"
+        "Aciklama": "Doğru yanıt D şıkkıdır<br/>Maya, Autodesk'in geliştirdiği bir yazılımdır"
     },
     {
         "SoruID": 3688226,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br>2D tasarım ve model geliştirmelerde kullanılan ve Adobe firmasının geliştirmiş olduğu yazılım Illustrator'dur."
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/>2D tasarım ve model geliştirmelerde kullanılan ve Adobe firmasının geliştirmiş olduğu yazılım Illustrator'dur."
     },
     {
         "SoruID": 3688228,
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt D şıkkıdır<br>Kenney, oyun geliştirici ve tasarımcılarının içerik indirebileceği platformlardandır"
+        "Aciklama": "Doğru yanıt D şıkkıdır<br/>Kenney, oyun geliştirici ve tasarımcılarının içerik indirebileceği platformlardandır"
     },
     {
         "SoruID": 3687417,
@@ -617,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karakter animasyonları, oyuncuların oyunun karakterleriyle duygusal bağ kurmasını sağlar. Karakterlerin mimikleri, hareketleri ve tepkileri, onların kişiliklerini ve hikâyelerini anlatır. Karakter<br/>animasyonları, kullanıcıların karakter kontrolüne ilişkin geri bildirim sağlar. Bir karakterin koşma,<br/>zıplama veya saldırı animasyonu, oyun içi fizik ve hareket sisteminin anlaşılmasına yardımcı olur. Yüz animasyonları ve beden dili, karakterlerin duygularını ve niyetlerini ifade etmede kritik öneme sahiptir. Bu, özellikle hikâye odaklı oyunlarda, oyuncuların hikâyeye daha fazla dahil olmasını sağlar.<br>Karakter animasyonu"
+        "Aciklama": "Karakter animasyonları, oyuncuların oyunun karakterleriyle duygusal bağ kurmasını sağlar. Karakterlerin mimikleri, hareketleri ve tepkileri, onların kişiliklerini ve hikâyelerini anlatır. Karakter<br/>animasyonları, kullanıcıların karakter kontrolüne ilişkin geri bildirim sağlar. Bir karakterin koşma,<br/>zıplama veya saldırı animasyonu, oyun içi fizik ve hareket sisteminin anlaşılmasına yardımcı olur. Yüz animasyonları ve beden dili, karakterlerin duygularını ve niyetlerini ifade etmede kritik öneme sahiptir. Bu, özellikle hikâye odaklı oyunlarda, oyuncuların hikâyeye daha fazla dahil olmasını sağlar.<br/>Karakter animasyonu"
     },
     {
         "SoruID": 3690999,
@@ -737,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kilit kare animasyonu, animatörlerin belirli anahtar pozisyonları elle çizdiği veya tasarladığı, ardından yazılımın bu kilit kareler arasındaki hareketi otomatik olarak doldurduğu bir tekniktir. Örneğin “Cuphead” oyunu, kilit kare tekniğini kullanarak karakterlerin animasyonlarında 1930’ların çizgi filmlerine özgü bir estetik sunar.<br>Kilit Kare (Keyframe) tekniği"
+        "Aciklama": "Kilit kare animasyonu, animatörlerin belirli anahtar pozisyonları elle çizdiği veya tasarladığı, ardından yazılımın bu kilit kareler arasındaki hareketi otomatik olarak doldurduğu bir tekniktir. Örneğin “Cuphead” oyunu, kilit kare tekniğini kullanarak karakterlerin animasyonlarında 1930’ların çizgi filmlerine özgü bir estetik sunar.<br/>Kilit Kare (Keyframe) tekniği"
     },
     {
         "SoruID": 3691378,
@@ -777,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "3D Ses ve Mekânsal Ses: Sesin kaynağının yönünü ve mesafesini simüle ederek oyuncuya mekânsal<br/>farkındalık kazandıran tekniktir. Özellikle VR oyunlar ve açık dünya oyunları için kritik öneme<br/>sahiptir.<br>3D Ses ve Mekansal Ses"
+        "Aciklama": "3D Ses ve Mekânsal Ses: Sesin kaynağının yönünü ve mesafesini simüle ederek oyuncuya mekânsal<br/>farkındalık kazandıran tekniktir. Özellikle VR oyunlar ve açık dünya oyunları için kritik öneme<br/>sahiptir.<br/>3D Ses ve Mekansal Ses"
     },
     {
         "SoruID": 3691398,
@@ -877,7 +877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Unity’de kodlama yaparken fare hareketlerini algılamak ve tuşlarının basılı olup olmadığını tespit etmek mümkündür. Fare hareketlerini algılamak ve bunları nesnenin dönüş hareketlerine dönüştürmek yaygın bir uygulamadır. Bu etkileşimleri yönetmek için öncelikle üye değişken tanımlanarak dönme hızını kontrol altına alabilirsiniz.<br>Üye değişken tanımlayarak dönme hızını kontrol altına alma"
+        "Aciklama": "Unity’de kodlama yaparken fare hareketlerini algılamak ve tuşlarının basılı olup olmadığını tespit etmek mümkündür. Fare hareketlerini algılamak ve bunları nesnenin dönüş hareketlerine dönüştürmek yaygın bir uygulamadır. Bu etkileşimleri yönetmek için öncelikle üye değişken tanımlanarak dönme hızını kontrol altına alabilirsiniz.<br/>Üye değişken tanımlayarak dönme hızını kontrol altına alma"
     },
     {
         "SoruID": 3691513,
@@ -897,7 +897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Örneğin farenin sol tuşuna basıldığında yeni bir mermi nesnesi oluşturulmakta ve hareket etmeye başlamaktadır. Ancak bu nesneler çok uzaklaşıp görünmez hâle gelse bile varlığını sürdürmekte ve sahnenin görünmeyen bir bölümünde hareketlerine devam etmektedirler. Bu durumda ham bellek hem de işlemci gücü tüketmeye devam edeceklerdir. Bu durumda kısa sürede bilgisayar kaynaklarının aşırı kullanımı ve performans kayıplarına yol açar. Dolayısıyla Unity’de, sahne dışına çıkan veya görüş alanından kaybolan mermi gibi nesnelerin hafıza ve işlemci kaynaklarını boşa harcamamaları için, onları belirli bir süre sonra otomatik olarak yok etmek önemlidir. Bunun önüne geçmek için, mermi nesnesini yok etmek üzere Destroy fonksiyonu kullanılır.<br>Mermi nesnesi belirli bir süre sonra otomatik olarak yok edilmelidir."
+        "Aciklama": "Örneğin farenin sol tuşuna basıldığında yeni bir mermi nesnesi oluşturulmakta ve hareket etmeye başlamaktadır. Ancak bu nesneler çok uzaklaşıp görünmez hâle gelse bile varlığını sürdürmekte ve sahnenin görünmeyen bir bölümünde hareketlerine devam etmektedirler. Bu durumda ham bellek hem de işlemci gücü tüketmeye devam edeceklerdir. Bu durumda kısa sürede bilgisayar kaynaklarının aşırı kullanımı ve performans kayıplarına yol açar. Dolayısıyla Unity’de, sahne dışına çıkan veya görüş alanından kaybolan mermi gibi nesnelerin hafıza ve işlemci kaynaklarını boşa harcamamaları için, onları belirli bir süre sonra otomatik olarak yok etmek önemlidir. Bunun önüne geçmek için, mermi nesnesini yok etmek üzere Destroy fonksiyonu kullanılır.<br/>Mermi nesnesi belirli bir süre sonra otomatik olarak yok edilmelidir."
     },
     {
         "SoruID": 3691529,
@@ -937,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Unity’de fiziksel etkileşimlerin ve nesnelerin birbirleriyle doğru şekilde etkileşimde bulunmalarının<br/>sağlanması için Collider bişenleri kullanılır. Collider’lar, fizik motorunun hangi nesnelerin birbirleriyle<br/>çarpışabileceğini ve hangi nesnelerin geçilmez olduğunu anlamasına olanak tanır. Örneğin; bir oyun karakterinin duvarlardan veya diğer nesnelerden geçmesini engellemek istiyorsanız, karakter nesnesine uygun bir Collider eklemelisiniz.<br/>Bu örnekte karakter kapsül şeklinde olduğu için, Capsule Collider bileşeninin kullanılması mantıklıdır.<br/>Capsule Collider, özellikle insan biçimindeki karakterler için popüler bir seçimdir çünkü insan vücudunun düzgün, dikey şekline uyumludur. Capsule Collider’ı bir karaktere eklemek için aşağıdaki adımlar takip edilebilir (Görsel 5.10).<br/>• Unity Editor’deki Hierarchy panelinden karakter nesnesi seçilmelidir.<br/>• İnspector panelinde, Add Component butonuna tıklanmalıdır.<br/>• Physics kategorisinden Capsule Collider bulunup ve seçilmelidir.&lt;/p<br>Karakter nesnesine bir Collider eklemek gerekir."
+        "Aciklama": "Unity’de fiziksel etkileşimlerin ve nesnelerin birbirleriyle doğru şekilde etkileşimde bulunmalarının<br/>sağlanması için Collider bişenleri kullanılır. Collider’lar, fizik motorunun hangi nesnelerin birbirleriyle<br/>çarpışabileceğini ve hangi nesnelerin geçilmez olduğunu anlamasına olanak tanır. Örneğin; bir oyun karakterinin duvarlardan veya diğer nesnelerden geçmesini engellemek istiyorsanız, karakter nesnesine uygun bir Collider eklemelisiniz.<br/>Bu örnekte karakter kapsül şeklinde olduğu için, Capsule Collider bileşeninin kullanılması mantıklıdır.<br/>Capsule Collider, özellikle insan biçimindeki karakterler için popüler bir seçimdir çünkü insan vücudunun düzgün, dikey şekline uyumludur. Capsule Collider’ı bir karaktere eklemek için aşağıdaki adımlar takip edilebilir (Görsel 5.10).<br/>• Unity Editor’deki Hierarchy panelinden karakter nesnesi seçilmelidir.<br/>• İnspector panelinde, Add Component butonuna tıklanmalıdır.<br/>• Physics kategorisinden Capsule Collider bulunup ve seçilmelidir.&lt;/p<br/>Karakter nesnesine bir Collider eklemek gerekir."
     },
     {
         "SoruID": 3691549,
@@ -977,7 +977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Unity’de çarpışma bileşenler çok çeşitlidir ve detaylı ayarları yapılabilmektedir. Unity’de çarpışma algılama ve fiziksel etkileşim, çarpışma bileşenleri (Collider’lar) ve fizik motoru aracılığıyla yönetilir. Örneğin mermiler gibi bazı nesnelerin çarpışması istenmeyen bir durum olabilir: Karakter ile karakter mermisi, düşman ile düşman mermileri çarpışmamalıdır. Bu gibi durumlar çeşitli ayarlar yapılarak çözülebilmektedir. Project Settings / Physics bölümünde bulunan Layer Collision Matrix kullanılarak hangi nesneler arasında çarpışma olacağı veya olmayacağı seçilebilmektedir.<br>Hangi katmanlar arasında çarpışma olacağını veya olmayacağını belirleyebilirsiniz."
+        "Aciklama": "Unity’de çarpışma bileşenler çok çeşitlidir ve detaylı ayarları yapılabilmektedir. Unity’de çarpışma algılama ve fiziksel etkileşim, çarpışma bileşenleri (Collider’lar) ve fizik motoru aracılığıyla yönetilir. Örneğin mermiler gibi bazı nesnelerin çarpışması istenmeyen bir durum olabilir: Karakter ile karakter mermisi, düşman ile düşman mermileri çarpışmamalıdır. Bu gibi durumlar çeşitli ayarlar yapılarak çözülebilmektedir. Project Settings / Physics bölümünde bulunan Layer Collision Matrix kullanılarak hangi nesneler arasında çarpışma olacağı veya olmayacağı seçilebilmektedir.<br/>Hangi katmanlar arasında çarpışma olacağını veya olmayacağını belirleyebilirsiniz."
     },
     {
         "SoruID": 3691576,
@@ -997,7 +997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "e Script’in işleyişi şu adımları içerir:<br/>• Oyun aktif olarak devam edip etmediği basla bool değişkeninde tutulmaktadır.<br/>• Başlangıçta (Start metodunda) ilk düşman nesnesi yaratılır ve rastgele bir süre belirlenir. Her düşman oluşturulduğunda 3 ile 10 saniye arasında rastgele bir sayi üretilmekte ve bir sonraki düşmanbu kadar saniye sonra oluşturulmaktadır.<br/>• Update metodu her karede çağrıldığında geçen süreyi izler (süre değişkeni ile) ve belirlenen süre<br/>geçtiğinde yeni bir düşman nesnesi yaratır.<br/>• Yeni bir düşman yaratıldıktan sonra süre sıfırlanır ve yeni bir rastgele süre tanımlanır.<br/>• Her düşman nesnesi, dusmanlar listesinde saklanır ve bu liste üzerinden takip edilir.<br/>• Eğer bir düşman nesnesi belirli bir z pozisyonunun altına inerse (örneğin 40F), oyun sonlandırılır<br/>(gameOverPanel aktif hâle getirilir ve basla değişkeni false olarak ayarlanır). Panel oluşturmak için<br/>GameObject / UI / Panel seçeneği seçilebilir. Panel’in altında Oyun sona erdiği ve tekrar<br>Düşman nesneleri rastgele sürelerle oluşturulur ve her seferinde süre sıfırlanır."
+        "Aciklama": "e Script’in işleyişi şu adımları içerir:<br/>• Oyun aktif olarak devam edip etmediği basla bool değişkeninde tutulmaktadır.<br/>• Başlangıçta (Start metodunda) ilk düşman nesnesi yaratılır ve rastgele bir süre belirlenir. Her düşman oluşturulduğunda 3 ile 10 saniye arasında rastgele bir sayi üretilmekte ve bir sonraki düşmanbu kadar saniye sonra oluşturulmaktadır.<br/>• Update metodu her karede çağrıldığında geçen süreyi izler (süre değişkeni ile) ve belirlenen süre<br/>geçtiğinde yeni bir düşman nesnesi yaratır.<br/>• Yeni bir düşman yaratıldıktan sonra süre sıfırlanır ve yeni bir rastgele süre tanımlanır.<br/>• Her düşman nesnesi, dusmanlar listesinde saklanır ve bu liste üzerinden takip edilir.<br/>• Eğer bir düşman nesnesi belirli bir z pozisyonunun altına inerse (örneğin 40F), oyun sonlandırılır<br/>(gameOverPanel aktif hâle getirilir ve basla değişkeni false olarak ayarlanır). Panel oluşturmak için<br/>GameObject / UI / Panel seçeneği seçilebilir. Panel’in altında Oyun sona erdiği ve tekrar<br/>Düşman nesneleri rastgele sürelerle oluşturulur ve her seferinde süre sıfırlanır."
     },
     {
         "SoruID": 3688600,
@@ -1217,7 +1217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital oyunlar bilişim dünyasının en eski ve popüler alanlarından birisidir. Dijital oyunların <br/>tasarlanması ve geliştirilmesi büyük çaba gerektirmektedir. Basit oyunlardan çok kullanıcılı<br/>karmaşık oyunlara kadar olan geniş oyun yelpazesinde oyunları geliştirmek için <strong>programlama</strong>,<br/><strong>teknik beceriler</strong>, <strong>grafik tasarım üretimleri</strong>, <strong>senaryo akışları</strong> ve diğer bileşenler yer alır.<br>Demografik özellikler"
+        "Aciklama": "Dijital oyunlar bilişim dünyasının en eski ve popüler alanlarından birisidir. Dijital oyunların <br/>tasarlanması ve geliştirilmesi büyük çaba gerektirmektedir. Basit oyunlardan çok kullanıcılı<br/>karmaşık oyunlara kadar olan geniş oyun yelpazesinde oyunları geliştirmek için <strong>programlama</strong>,<br/><strong>teknik beceriler</strong>, <strong>grafik tasarım üretimleri</strong>, <strong>senaryo akışları</strong> ve diğer bileşenler yer alır.<br/>Demografik özellikler"
     },
     {
         "SoruID": 3685503,
@@ -1237,7 +1237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyun yayıncı şirketler geliştiricilere pazarlama, reklam, satış, destek ve istatistik anlamında servisler sunmaktadır.<br>İnsan kaynakları"
+        "Aciklama": "Oyun yayıncı şirketler geliştiricilere pazarlama, reklam, satış, destek ve istatistik anlamında servisler sunmaktadır.<br/>İnsan kaynakları"
     },
     {
         "SoruID": 3685508,
@@ -1257,7 +1257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Avrupa 2023 verilerine göre ise ekonomik gelir anlamında<br/>1. Birleşik Krallık – 7,94 milyar ABD doları<br/>2. Almanya – 4,83 milyar ABD doları<br/>3. Fransa – 3,45 milyar ABD doları<br/>4. İtalya – 2,16 milyar ABD doları<br/>5. İspanya – 1,43 milyar ABD doları<br/>şeklinde ilk 5 ülke sıralanmaktadır (Statista, 2024).<br>Türkiye"
+        "Aciklama": "Avrupa 2023 verilerine göre ise ekonomik gelir anlamında<br/>1. Birleşik Krallık – 7,94 milyar ABD doları<br/>2. Almanya – 4,83 milyar ABD doları<br/>3. Fransa – 3,45 milyar ABD doları<br/>4. İtalya – 2,16 milyar ABD doları<br/>5. İspanya – 1,43 milyar ABD doları<br/>şeklinde ilk 5 ülke sıralanmaktadır (Statista, 2024).<br/>Türkiye"
     },
     {
         "SoruID": 3685513,
@@ -1277,7 +1277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital oyunların geliştirilmesinde çeşitli bileşenler vardır. Bir oyunun<br/><strong>• Bütçesi</strong><br/><strong>• Türü</strong><br/><strong>• Platformu</strong><br/><strong>• Programlama Dili</strong><br/><strong>• Oyun Motoru</strong><br/><strong>• Hedef Kitlesi</strong><br/><strong>• Yayıncı</strong><br/><strong>• ve Dağıtım Kanalı</strong> bunlardan bazılarıdır.<br>Oyunun bütçesi"
+        "Aciklama": "Dijital oyunların geliştirilmesinde çeşitli bileşenler vardır. Bir oyunun<br/><strong>• Bütçesi</strong><br/><strong>• Türü</strong><br/><strong>• Platformu</strong><br/><strong>• Programlama Dili</strong><br/><strong>• Oyun Motoru</strong><br/><strong>• Hedef Kitlesi</strong><br/><strong>• Yayıncı</strong><br/><strong>• ve Dağıtım Kanalı</strong> bunlardan bazılarıdır.<br/>Oyunun bütçesi"
     },
     {
         "SoruID": 3685517,
@@ -1297,7 +1297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyun geliştirmede kullanılan programlama dillerinden bazıları<br/><strong>• C++</strong><br/><strong>• C#</strong><br/><strong>• Java</strong><br/><strong>• Python</strong><br/><strong>• JavaScript</strong><br/><strong>• ve Lua</strong> olarak listelenebilir.<br>Montaj"
+        "Aciklama": "Oyun geliştirmede kullanılan programlama dillerinden bazıları<br/><strong>• C++</strong><br/><strong>• C#</strong><br/><strong>• Java</strong><br/><strong>• Python</strong><br/><strong>• JavaScript</strong><br/><strong>• ve Lua</strong> olarak listelenebilir.<br/>Montaj"
     },
     {
         "SoruID": 3685519,
@@ -1337,7 +1337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyunların oyuncularla buluşması genel olarak<br/><strong>• Üretim</strong><br/><strong>• Yayınlama</strong><br/><strong>• Pazarlama</strong><br/><strong>• Satış sonrası destek hizmetleri</strong> gibi aşamalarda gerçekleşmektedir.<br>Kalite değerlendirme"
+        "Aciklama": "Oyunların oyuncularla buluşması genel olarak<br/><strong>• Üretim</strong><br/><strong>• Yayınlama</strong><br/><strong>• Pazarlama</strong><br/><strong>• Satış sonrası destek hizmetleri</strong> gibi aşamalarda gerçekleşmektedir.<br/>Kalite değerlendirme"
     },
     {
         "SoruID": 3685531,
@@ -1357,7 +1357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyunun üretim aşamaları;<br/><strong>1. Kavramsal tasarım</strong><br/><strong>2. Ön üretim ve prototip geliştirme</strong><br/><strong>3. Üretim</strong><br/><strong>4. Alfa Beta denemeleri</strong><br/><strong>5. Son ürün ve yayınlama</strong> şeklindedir.<br>Kullanıcı anketi"
+        "Aciklama": "Oyunun üretim aşamaları;<br/><strong>1. Kavramsal tasarım</strong><br/><strong>2. Ön üretim ve prototip geliştirme</strong><br/><strong>3. Üretim</strong><br/><strong>4. Alfa Beta denemeleri</strong><br/><strong>5. Son ürün ve yayınlama</strong> şeklindedir.<br/>Kullanıcı anketi"
     },
     {
         "SoruID": 3685539,
@@ -1377,7 +1377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyunun;<br/><strong>• Kullanıcı deneyimi</strong><br/><strong>• Hikâyesinin akıcılığı ve senaryosu</strong><br/><strong>• Karakterlerin kişilik özellikleri</strong><br/><strong>• Oynanabilirliği</strong><br/><strong>• Oyun mekaniği ve kinematik özellikleri </strong>incelenir.<br>Oyunun satın alınabilirliği"
+        "Aciklama": "Oyunun;<br/><strong>• Kullanıcı deneyimi</strong><br/><strong>• Hikâyesinin akıcılığı ve senaryosu</strong><br/><strong>• Karakterlerin kişilik özellikleri</strong><br/><strong>• Oynanabilirliği</strong><br/><strong>• Oyun mekaniği ve kinematik özellikleri </strong>incelenir.<br/>Oyunun satın alınabilirliği"
     },
     {
         "SoruID": 3685546,
@@ -1397,7 +1397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Google Play Console’da sonraki aşamalarda oyunun tür seçimi ve etiketleri belirleme işlemleri<br/>yapılır. Oyun türleri olarak<br/><strong>• Aksiyon</strong><br/><strong>• Arcade</strong><br/><strong>• Bulmaca</strong><br/><strong>• Eğitici</strong><br/><strong>• Gündelik</strong><br/><strong>• Kâğıt</strong><br/><strong>• Kelime</strong><br/><strong>• Macera</strong><br/><strong>• Masa</strong><br/><strong>• Müzik</strong><br/><strong>• Rol oyunu</strong> yer almaktadır.<br>IQ testleri"
+        "Aciklama": "Google Play Console’da sonraki aşamalarda oyunun tür seçimi ve etiketleri belirleme işlemleri<br/>yapılır. Oyun türleri olarak<br/><strong>• Aksiyon</strong><br/><strong>• Arcade</strong><br/><strong>• Bulmaca</strong><br/><strong>• Eğitici</strong><br/><strong>• Gündelik</strong><br/><strong>• Kâğıt</strong><br/><strong>• Kelime</strong><br/><strong>• Macera</strong><br/><strong>• Masa</strong><br/><strong>• Müzik</strong><br/><strong>• Rol oyunu</strong> yer almaktadır.<br/>IQ testleri"
     },
     {
         "SoruID": 3685458,
@@ -1437,7 +1437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilindiği üzere oyun geliştirme süreci <strong>programlama</strong>dan <strong>veri toplama</strong>ya; veri toplamadan<br/><strong>maddi kaynak oluşturma</strong> ve <strong>yayınlamaya</strong> kadar oldukça kapsamlı bir yaşam döngüsüne sahne olmaktadır.<br>Demografik yapı belirleme"
+        "Aciklama": "Bilindiği üzere oyun geliştirme süreci <strong>programlama</strong>dan <strong>veri toplama</strong>ya; veri toplamadan<br/><strong>maddi kaynak oluşturma</strong> ve <strong>yayınlamaya</strong> kadar oldukça kapsamlı bir yaşam döngüsüne sahne olmaktadır.<br/>Demografik yapı belirleme"
     },
     {
         "SoruID": 3685462,
@@ -1537,7 +1537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Goh, Al-Tabbaa ve Khan (2023) oyun endüstrisinin benzer bir anlayış ve özellikle araştırma tabanlı ele alınması konusunda gelecek trendleri altı başlık altında ele almışlardır: sayfa 193 bkz.<br>Oyun tasarımı"
+        "Aciklama": "Goh, Al-Tabbaa ve Khan (2023) oyun endüstrisinin benzer bir anlayış ve özellikle araştırma tabanlı ele alınması konusunda gelecek trendleri altı başlık altında ele almışlardır: sayfa 193 bkz.<br/>Oyun tasarımı"
     },
     {
         "SoruID": 3685471,
@@ -1557,7 +1557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "2019 yılı itibarıyla Dünya Sağlık Örgütü (DSÖ) tarafından dijital oyun bağımlılığı, uluslararası<br/>ortak hastalıklar sıralamasına <strong>11. sıradan</strong> girmiştir.<br>11.sırada"
+        "Aciklama": "2019 yılı itibarıyla Dünya Sağlık Örgütü (DSÖ) tarafından dijital oyun bağımlılığı, uluslararası<br/>ortak hastalıklar sıralamasına <strong>11. sıradan</strong> girmiştir.<br/>11.sırada"
     },
     {
         "SoruID": 3685474,
@@ -1577,7 +1577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dolayısıyla gelecekte bu konuda özellikle oyun dünyasındaki metaverse etkisinin artması öngörüsü doğrultusunda, söz konusu ortama şimdiden ileri seviyede ilgi gösteren çocuklara yönelik sorumluluk sahibi kişi, kurum ve yönetimlerin takınacağı tavırlar bir dizi öneriyle ele alınmıştır: ...devamına sayfa 196 bkz.<br>Eğitimciler"
+        "Aciklama": "Dolayısıyla gelecekte bu konuda özellikle oyun dünyasındaki metaverse etkisinin artması öngörüsü doğrultusunda, söz konusu ortama şimdiden ileri seviyede ilgi gösteren çocuklara yönelik sorumluluk sahibi kişi, kurum ve yönetimlerin takınacağı tavırlar bir dizi öneriyle ele alınmıştır: ...devamına sayfa 196 bkz.<br/>Eğitimciler"
     },
     {
         "SoruID": 3685476,
@@ -1597,6 +1597,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Oyun tasarımı ve oyunculuğun bir arada ele alındığı bir raporda Lucintel (2021) video oyunların dünyasında yaşanmakta olan ve olası yaşanacak gelişmeleri ele alarak, geleceği şekillendirecek beş trendi özetlemiştir:...devamına sayfa 198 bkz.<br>Sürdürülebilir Oyunculuk"
+        "Aciklama": "Oyun tasarımı ve oyunculuğun bir arada ele alındığı bir raporda Lucintel (2021) video oyunların dünyasında yaşanmakta olan ve olası yaşanacak gelişmeleri ele alarak, geleceği şekillendirecek beş trendi özetlemiştir:...devamına sayfa 198 bkz.<br/>Sürdürülebilir Oyunculuk"
     }
 ]

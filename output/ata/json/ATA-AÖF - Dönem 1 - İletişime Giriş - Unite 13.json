@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 117089,
-        "SoruMetni": "I. Bilgi işleme<br/>II. Bilgi saklama<br/>III. Bilgi üretme<br/><strong>Yukarıdakilerden hangisi ya da hangileri enformatik toplumlarda üretkenliğin kaynakları arasında <u>yer almaz</u>?</strong></br></br>",
+        "SoruMetni": "I. Bilgi işleme<br/>II. Bilgi saklama<br/>III. Bilgi üretme<br/><strong>Yukarıdakilerden hangisi ya da hangileri enformatik toplumlarda üretkenliğin kaynakları arasında <u>yer almaz</u>?</strong>",
         "A": "Yalnız I",
         "B": "I ve III",
         "C": "I ve II",
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 171402,
-        "SoruMetni": "I. Buhar makinesi<br/>II. Bilgisayar<br/>III. Zihinsel emeğin ikamesi<br/>IV. Enformasyon hizmetleri<br/><strong>Yukarıdakilerden hangisi ya da hangileri enformasyon toplumunun karakteristiğini belirleyen unsurlardandır?</strong> </br></br></br>",
+        "SoruMetni": "I. Buhar makinesi<br/>II. Bilgisayar<br/>III. Zihinsel emeğin ikamesi<br/>IV. Enformasyon hizmetleri<br/><strong>Yukarıdakilerden hangisi ya da hangileri enformasyon toplumunun karakteristiğini belirleyen unsurlardandır?</strong>",
         "A": "Yalnız I",
         "B": "I ve III",
         "C": "I, III ve IV",
@@ -461,7 +461,7 @@
     },
     {
         "SoruID": 290146,
-        "SoruMetni": "Genel anlamda ..................................., bilginin egemen olduğu, demokratik, rasyonel, özgürlükçü bir toplum yapısı olarak tanımlanabilir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Genel anlamda ..................................., bilginin egemen olduğu, demokratik, rasyonel, özgürlükçü bir toplum yapısı olarak tanımlanabilir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "enformasyon toplumu",
         "B": "bilgi toplumu",
         "C": "ağ toplumu",

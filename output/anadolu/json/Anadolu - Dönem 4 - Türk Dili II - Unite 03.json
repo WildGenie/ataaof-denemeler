@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazım Kuralları – Büyük Harf Kullanımı<br>Meslek Liseleri’nde değil Meslek liselerinde ...<br/>İzmirde değil İzmir'de ...<br/>Resmi gazetede değil Resmi Gazete'de<br/>Yurdumuzun Doğusu’nda değil Yurdumuzun doğusunda olmalıdır.<br/>B seçeneğinde yazım yanlışı yoktur."
+        "Aciklama": "Yazım Kuralları – Büyük Harf Kullanımı<br/>Meslek Liseleri’nde değil Meslek liselerinde ...<br/>İzmirde değil İzmir'de ...<br/>Resmi gazetede değil Resmi Gazete'de<br/>Yurdumuzun Doğusu’nda değil Yurdumuzun doğusunda olmalıdır.<br/>B seçeneğinde yazım yanlışı yoktur."
     },
     {
         "SoruID": 3256934,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İkilemelerin Yazımı<br><strong>:</strong>Bütün ikilemeler ayrı ve araya herhangi bir noktalama işareti konulmadan yazılır. Pekiştirme sözcükleri ise bitişik yazılır. Pisi pisine ikilemedir; diğerleri pekiştirme sözcükleridir."
+        "Aciklama": "İkilemelerin Yazımı<br/><strong>:</strong>Bütün ikilemeler ayrı ve araya herhangi bir noktalama işareti konulmadan yazılır. Pekiştirme sözcükleri ise bitişik yazılır. Pisi pisine ikilemedir; diğerleri pekiştirme sözcükleridir."
     },
     {
         "SoruID": 3256935,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı<br>‘’ki’’ aitlik eki olduğu zaman bitişik, bağlaç ise ayrı yazılır."
+        "Aciklama": "Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı<br/>‘’ki’’ aitlik eki olduğu zaman bitişik, bağlaç ise ayrı yazılır."
     },
     {
         "SoruID": 3256937,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı<br>Hal eki olarak bulunma anlamı veren ‘’ de’’ bitişik yazılırken, bağlaç olan ‘’de’’ ayrı yazılır. Bunu uygulamanın en kısa yolu hal ekini cümleden çıkardığımızda anlam bozulurken bağlaç olanı çıkardığımızda anlam bozulmamaktadır."
+        "Aciklama": "Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı<br/>Hal eki olarak bulunma anlamı veren ‘’ de’’ bitişik yazılırken, bağlaç olan ‘’de’’ ayrı yazılır. Bunu uygulamanın en kısa yolu hal ekini cümleden çıkardığımızda anlam bozulurken bağlaç olanı çıkardığımızda anlam bozulmamaktadır."
     },
     {
         "SoruID": 3256938,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Soru Ekinin yazımı<br>Soru eki olan ‘’mi’’ ayrı yazılır, ancak bunun yanında ‘’mi’’ pekiştirme amaçlı da kullanılabilir. Burada cümleyi birbirine bağlayan bir bağlaç olduğundan araya soru işareti konulması yanlış olur. Ayrıca oradaki yeni mi soru anlamı taşımamaktadır, kalıp ifadedir."
+        "Aciklama": "Soru Ekinin yazımı<br/>Soru eki olan ‘’mi’’ ayrı yazılır, ancak bunun yanında ‘’mi’’ pekiştirme amaçlı da kullanılabilir. Burada cümleyi birbirine bağlayan bir bağlaç olduğundan araya soru işareti konulması yanlış olur. Ayrıca oradaki yeni mi soru anlamı taşımamaktadır, kalıp ifadedir."
     },
     {
         "SoruID": 3256939,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses Uyumları ve Yazım Kuralları<br>Büyük Ünlü Uyumu, Türkçe sözcüklerdeki ünlülerin kalınlık-incelik bakımından uyumudur. Diğer seçeneklerde sözcüğün kökü Büyük Ünlü Uyumuna uymazken meslektaş sözcüğünden ek uyumu bozmuştur."
+        "Aciklama": "Ses Uyumları ve Yazım Kuralları<br/>Büyük Ünlü Uyumu, Türkçe sözcüklerdeki ünlülerin kalınlık-incelik bakımından uyumudur. Diğer seçeneklerde sözcüğün kökü Büyük Ünlü Uyumuna uymazken meslektaş sözcüğünden ek uyumu bozmuştur."
     },
     {
         "SoruID": 3256940,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses Uyumları ve Yazım Kuralları<br>fani, rüzgar, liman, istiyorum, kalbimiz sözcükleri Büyük Ünlü Uyumuna uymamaktadır. İstiyorum sözcüğünde ise hem Büyük Ünlü Uyumuna, hem de Küçük Ünlü Uyumuna uyumsuzluk söz konusudur. – yor şimdiki zaman eki Küçük Ünlü Uyumu kuralına daima aykırıdır. Çünkü Türkçe sözcüklerde o, ö ünlüleri sadece ilk hecede yer alır. o ve ö ünlüleri Türkçede sadece ilk hecede yer alır."
+        "Aciklama": "Ses Uyumları ve Yazım Kuralları<br/>fani, rüzgar, liman, istiyorum, kalbimiz sözcükleri Büyük Ünlü Uyumuna uymamaktadır. İstiyorum sözcüğünde ise hem Büyük Ünlü Uyumuna, hem de Küçük Ünlü Uyumuna uyumsuzluk söz konusudur. – yor şimdiki zaman eki Küçük Ünlü Uyumu kuralına daima aykırıdır. Çünkü Türkçe sözcüklerde o, ö ünlüleri sadece ilk hecede yer alır. o ve ö ünlüleri Türkçede sadece ilk hecede yer alır."
     },
     {
         "SoruID": 3256941,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses Uyumları ve Yazım Kuralları – Ünlü Daralması<br>Sonu e / a ile biten fiillerde – yor şimdiki zaman eki geldiğinde geniş olan e / a daralır ve ı / i / u / ü olur. Suluyor, suçluyor, uğramıyor, gözlüyor fiillerinde daralma görülürken getiriyor fiilinde fiille şimdiki zaman eki arasına – i yardımcı sesi getirilmiştir, ünlü türemesi vardır."
+        "Aciklama": "Ses Uyumları ve Yazım Kuralları – Ünlü Daralması<br/>Sonu e / a ile biten fiillerde – yor şimdiki zaman eki geldiğinde geniş olan e / a daralır ve ı / i / u / ü olur. Suluyor, suçluyor, uğramıyor, gözlüyor fiillerinde daralma görülürken getiriyor fiilinde fiille şimdiki zaman eki arasına – i yardımcı sesi getirilmiştir, ünlü türemesi vardır."
     },
     {
         "SoruID": 3256942,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses Uyumları ve Yazım Kuralları – Ünlü Daralması<br>oyun –a – yor –du biçiminde kök ve eklerine ayırdığımızda kökte bir ünlü düşmesi görülmektedir. Aynı zamanda da – a isimden fiili yapım eki daralmış, -u olmuştur."
+        "Aciklama": "Ses Uyumları ve Yazım Kuralları – Ünlü Daralması<br/>oyun –a – yor –du biçiminde kök ve eklerine ayırdığımızda kökte bir ünlü düşmesi görülmektedir. Aynı zamanda da – a isimden fiili yapım eki daralmış, -u olmuştur."
     },
     {
         "SoruID": 3256943,
@@ -2357,7 +2357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "kadir bil-mez<br>\"kadirbilmez\" burada kullanılan fiilimsi \"bil-mez\" sıfat fiil eklerinden olan -mez eki ile yapılmıştır. Diğer seçeneklerde fiil vardır ama fiilimsi yoktur."
+        "Aciklama": "kadir bil-mez<br/>\"kadirbilmez\" burada kullanılan fiilimsi \"bil-mez\" sıfat fiil eklerinden olan -mez eki ile yapılmıştır. Diğer seçeneklerde fiil vardır ama fiilimsi yoktur."
     },
     {
         "SoruID": 3257909,
@@ -2377,7 +2377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karadeniz<br>Kara Deniz"
+        "Aciklama": "Karadeniz<br/>Kara Deniz"
     },
     {
         "SoruID": 3257911,
@@ -2417,7 +2417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "gayrimenkul<br>gayri menkul"
+        "Aciklama": "gayrimenkul<br/>gayri menkul"
     },
     {
         "SoruID": 3257932,
@@ -2797,7 +2797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tabela, levha gibi yazılarda sözcüklerin ilk harfi büyük yazılır.<br/>Yasak Bölge.<br>Tabela, levha yazısı olduğu için"
+        "Aciklama": "Tabela, levha gibi yazılarda sözcüklerin ilk harfi büyük yazılır.<br/>Yasak Bölge.<br/>Tabela, levha yazısı olduğu için"
     },
     {
         "SoruID": 3258076,
@@ -2837,7 +2837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "2. Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.<br/>hanımeli (çiçek adı), kalburabastı (tatlı adı), imambayıldı (yemek adı), üçayak<br/>(bir halay türü), danaburnu (böcek adı), suçiçeği (hastalık), dilberdudağı (tatlı<br/>adı), kargaburnu (alet), demirbaş.</br><br>demir baş"
+        "Aciklama": "2. Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.<br/>hanımeli (çiçek adı), kalburabastı (tatlı adı), imambayıldı (yemek adı), üçayak<br/>(bir halay türü), danaburnu (böcek adı), suçiçeği (hastalık), dilberdudağı (tatlı<br/>adı), kargaburnu (alet), demirbaş.<br/>demir baş"
     },
     {
         "SoruID": 3258078,
@@ -2877,7 +2877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak,<br/>yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A,<br/>-U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır.<br/>uyuyakalmak, düşeyazmak, bilebilmek, bekleyedurmak, düşüvermek, okuyagelmek vb.<br>düşe yazmak"
+        "Aciklama": "Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak,<br/>yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A,<br/>-U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır.<br/>uyuyakalmak, düşeyazmak, bilebilmek, bekleyedurmak, düşüvermek, okuyagelmek vb.<br/>düşe yazmak"
     },
     {
         "SoruID": 3258080,
@@ -2917,7 +2917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "2. Hayvan veya bitki, eşya veya alet, durum, yer, bilim ve bilgi, yiyecek, gök<br/>cisimleri, organ, zaman, renk, yön, yol ve ulaşım vb. bildiren sözcüklerden birisi ile oluşan ve bunlardan birisinin anlamını koruduğu birleşik<br/>sözcükler ayrı yazılır.<br/>köpek balığı, muhabbet kuşu, hamam böceği, deniz yılanı, küpe çiçeği, yer elması, şeker kamışı, kuru incir, tuz ruhu.<br>kuruincir"
+        "Aciklama": "2. Hayvan veya bitki, eşya veya alet, durum, yer, bilim ve bilgi, yiyecek, gök<br/>cisimleri, organ, zaman, renk, yön, yol ve ulaşım vb. bildiren sözcüklerden birisi ile oluşan ve bunlardan birisinin anlamını koruduğu birleşik<br/>sözcükler ayrı yazılır.<br/>köpek balığı, muhabbet kuşu, hamam böceği, deniz yılanı, küpe çiçeği, yer elması, şeker kamışı, kuru incir, tuz ruhu.<br/>kuruincir"
     },
     {
         "SoruID": 3258082,
@@ -2937,7 +2937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sayıların Yazımı<br/>1. Ondan itibaren birleşik rakamlar yazıyla verildiğinde bunlar ayrı ayrı<br/>yazılır.<br/>on beş kitap, beş yüz bin lira, bir milyon iki yüz bin vb.<br>\"onbeş\" yazımı yanlıştır. Sayıların yazımında ondan sonraki sayılar yazı ile yazıldığında ayrı yazılmalıdır. \"on beş\" olmalıdır."
+        "Aciklama": "Sayıların Yazımı<br/>1. Ondan itibaren birleşik rakamlar yazıyla verildiğinde bunlar ayrı ayrı<br/>yazılır.<br/>on beş kitap, beş yüz bin lira, bir milyon iki yüz bin vb.<br/>\"onbeş\" yazımı yanlıştır. Sayıların yazımında ondan sonraki sayılar yazı ile yazıldığında ayrı yazılmalıdır. \"on beş\" olmalıdır."
     },
     {
         "SoruID": 3258083,
@@ -2957,7 +2957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı<br/>Bilindiği gibi Türkçede soru eki dışındaki ekler, getirildikleri sözcüğe bitişik; sözcükler ise - bitişik yazılması gerekenlerin dışındakiler - ayrı yazılır. Ancak dilimizde +ki aitlik eki ile bağlaç ve edat olarak kullanılan ki sözcüğü; yine +DA bulunma hali eki ile dA bağlacının yazıda karıştırıldığı görülmektedir.<br>\"Bizimde işimiz bu! Onlar unutacak, biz söyleyeceğiz ki cümle âlem duysun.\" Cümlede de bağlacının yazımı ile ilgili bir hata vardır. Bağlaç olan de,da her zaman ayrı yazılır. \"Bizim de....\" biçiminde yazılmalıydı."
+        "Aciklama": "Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı<br/>Bilindiği gibi Türkçede soru eki dışındaki ekler, getirildikleri sözcüğe bitişik; sözcükler ise - bitişik yazılması gerekenlerin dışındakiler - ayrı yazılır. Ancak dilimizde +ki aitlik eki ile bağlaç ve edat olarak kullanılan ki sözcüğü; yine +DA bulunma hali eki ile dA bağlacının yazıda karıştırıldığı görülmektedir.<br/>\"Bizimde işimiz bu! Onlar unutacak, biz söyleyeceğiz ki cümle âlem duysun.\" Cümlede de bağlacının yazımı ile ilgili bir hata vardır. Bağlaç olan de,da her zaman ayrı yazılır. \"Bizim de....\" biçiminde yazılmalıydı."
     },
     {
         "SoruID": 3258084,
@@ -2977,7 +2977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Soru Ekinin Yazımı<br/>Soru eki, diğer eklerden farklı olarak daima ayrı yazılır ve sonuna “?” işareti konur. Kimi durumlarda soru ekinin üzerine kişi ekleri de getirilebilir, ancak bu<br/>durum ayrı yazılma kuralını değiştirmez.<br/>Hey Allah’ım, bu suali okumaktan bıkmadın mı hâlâ? (Ayşe Kulin, Türkan)<br/>Güneş batıyor... Yarın, yine doğar. Ben, şu topraklarda yatan güneşin - bir gün<br/>olsun - doğduğunu görmeyecek miyim? (Namık Kemal, Gülnihal)<br/>Soru eki şu durumlarda soru anlamı taşımaz: 1) -DI mI zarf-fiil yapısında 2)<br/>İyisi mi gibi kalıp ifadelerde 3) İkilemelerde pekiştirme amacıyla kullanıldığında<br/>soru işareti kullanılmaz.<br/>1. Hayat pahalılaştı mı dostluklar ucuzlar. (Haldun Taner, Koyma Akıl Oyma<br/>Akıl)<br/>2. İyisi mi, yarından tezi yok, keşişin izini tutup gidelim; kader, kısmetse bir gün<br/>olur arkalarından yetişiriz. (Eflâtun Cem Güney, Kerem İle Aslı)<br/>3. Öyle ki, Yorgi bir gün: - Yahu çocuklar, demişti, ay ışığında futbol oynamak<br/>kıyak mı kıyak olaca<br>Güneş batıyor... Yarın, yine doğar. Ben, şu topraklarda yatan güneşin - bir gün<br/>olsun - doğduğunu görmeyecekmiyim?"
+        "Aciklama": "Soru Ekinin Yazımı<br/>Soru eki, diğer eklerden farklı olarak daima ayrı yazılır ve sonuna “?” işareti konur. Kimi durumlarda soru ekinin üzerine kişi ekleri de getirilebilir, ancak bu<br/>durum ayrı yazılma kuralını değiştirmez.<br/>Hey Allah’ım, bu suali okumaktan bıkmadın mı hâlâ? (Ayşe Kulin, Türkan)<br/>Güneş batıyor... Yarın, yine doğar. Ben, şu topraklarda yatan güneşin - bir gün<br/>olsun - doğduğunu görmeyecek miyim? (Namık Kemal, Gülnihal)<br/>Soru eki şu durumlarda soru anlamı taşımaz: 1) -DI mI zarf-fiil yapısında 2)<br/>İyisi mi gibi kalıp ifadelerde 3) İkilemelerde pekiştirme amacıyla kullanıldığında<br/>soru işareti kullanılmaz.<br/>1. Hayat pahalılaştı mı dostluklar ucuzlar. (Haldun Taner, Koyma Akıl Oyma<br/>Akıl)<br/>2. İyisi mi, yarından tezi yok, keşişin izini tutup gidelim; kader, kısmetse bir gün<br/>olur arkalarından yetişiriz. (Eflâtun Cem Güney, Kerem İle Aslı)<br/>3. Öyle ki, Yorgi bir gün: - Yahu çocuklar, demişti, ay ışığında futbol oynamak<br/>kıyak mı kıyak olaca<br/>Güneş batıyor... Yarın, yine doğar. Ben, şu topraklarda yatan güneşin - bir gün<br/>olsun - doğduğunu görmeyecekmiyim?"
     },
     {
         "SoruID": 3258129,
@@ -3197,7 +3197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Birleşik Sözcüklerin Yazımı, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2<br/>Üçüncü cümlede yazım yanlışının yanı sıra anlatım bozukluğu da var. Üçüncü cümlede ‘koltuk altlarına’ yerine ‘koltuklarının altına’ yazılmalı."
+        "Aciklama": "Birleşik Sözcüklerin Yazımı, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2<br/>Üçüncü cümlede yazım yanlışının yanı sıra anlatım bozukluğu da var. Üçüncü cümlede ‘koltuk altlarına’ yerine ‘koltuklarının altına’ yazılmalı."
     },
     {
         "SoruID": 3258172,
@@ -3217,7 +3217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ayrı Yazılan Sözcükler, başlığı altındaki bilgileri gözden geçiriniz.<br>Son sözcük ayrı yazılır: fark etmez"
+        "Aciklama": "Ayrı Yazılan Sözcükler, başlığı altındaki bilgileri gözden geçiriniz.<br/>Son sözcük ayrı yazılır: fark etmez"
     },
     {
         "SoruID": 3258173,
@@ -3237,7 +3237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İkilemelerin Yazımı, başlığı altındaki bilgileri gözden geçiriniz.<br>İkilemeler arasına noktalama işareti konulmaz."
+        "Aciklama": "İkilemelerin Yazımı, başlığı altındaki bilgileri gözden geçiriniz.<br/>İkilemeler arasına noktalama işareti konulmaz."
     },
     {
         "SoruID": 3258174,
@@ -3257,7 +3257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses Uyumları ve Yazım Kuralları, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2<br/>Birinci cümledeki ‘geçdi’ sözcüğü yerine ‘geçti’ yazılmalı!<br/>Paragrafın yalnızca birinci cümlesinde yanlışlık var.<br/>Dördüncü cümlede herhangi bir anlatım bozukluğu yok.<br/>Cümledeki ‘gece’ sözcüğü, ‘karşılıklı iki yandan her biri, yaka’ anlamındadır. Sözcük ‘geçe’ diye de kullanılır. (bkz. TDK güncel sözlük)<br/>Kuşkuya düştüğünüz yerlerde, önce, sözlüğe bakınız!<br/>Ders kitabınızdaki ‘Ses Uyumları ve Yazım Kuralları’ başlığı altındaki bilgileri gözden geçiriniz."
+        "Aciklama": "Ses Uyumları ve Yazım Kuralları, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2<br/>Birinci cümledeki ‘geçdi’ sözcüğü yerine ‘geçti’ yazılmalı!<br/>Paragrafın yalnızca birinci cümlesinde yanlışlık var.<br/>Dördüncü cümlede herhangi bir anlatım bozukluğu yok.<br/>Cümledeki ‘gece’ sözcüğü, ‘karşılıklı iki yandan her biri, yaka’ anlamındadır. Sözcük ‘geçe’ diye de kullanılır. (bkz. TDK güncel sözlük)<br/>Kuşkuya düştüğünüz yerlerde, önce, sözlüğe bakınız!<br/>Ders kitabınızdaki ‘Ses Uyumları ve Yazım Kuralları’ başlığı altındaki bilgileri gözden geçiriniz."
     },
     {
         "SoruID": 3258175,
@@ -3277,7 +3277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İle Bağlacının Yazımı, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "İle Bağlacının Yazımı, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3258178,
@@ -3297,7 +3297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı</strong>, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "<strong>Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı</strong>, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3258185,
@@ -3337,7 +3337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br>Yazı dili konuşma diline göre daha tutucudur, yani yazı dilinin kuralları konuşma diline göre daha yavaş değişir. Dilin hem yaşayanlar hem de geçmişle gelecek nesiller arasında köprü olma niteliği dikkate alındığında, her neslin yazı dilini kendisine göre yeniden yapılandırmasının doğru olmadığı görülecektir."
+        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br/>Yazı dili konuşma diline göre daha tutucudur, yani yazı dilinin kuralları konuşma diline göre daha yavaş değişir. Dilin hem yaşayanlar hem de geçmişle gelecek nesiller arasında köprü olma niteliği dikkate alındığında, her neslin yazı dilini kendisine göre yeniden yapılandırmasının doğru olmadığı görülecektir."
     },
     {
         "SoruID": 3258233,
@@ -3357,7 +3357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br>12 Aralık 1928"
+        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br/>12 Aralık 1928"
     },
     {
         "SoruID": 3258234,
@@ -3377,7 +3377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br>Özel isim olmayan birleşik sözcükler büyük harfle yazılmaz."
+        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br/>Özel isim olmayan birleşik sözcükler büyük harfle yazılmaz."
     },
     {
         "SoruID": 3258235,
@@ -3397,7 +3397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br>Pekiştirme sıfatları, sözcüğün ilk hecesinin ünlüyle biten kısmı alınarak bunlara p, r, s, m seslerinin getirilmesiyle türetilir ve bunlar birleşik yazılır. Bu yapıların daha da pekiştirildiği veya bu yapılarda ünlü türemelerinin ortaya çıktığı görülür. \r<br/>yemyeşil, gömgök, kopkoyu, pespembe, yusyuvarlak, kapkaranlık, sırsıklam, çarçabuk, çırılçıplak, güpegündüz, çepeçevre, sırılsıklam, paramparça vb."
+        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br/>Pekiştirme sıfatları, sözcüğün ilk hecesinin ünlüyle biten kısmı alınarak bunlara p, r, s, m seslerinin getirilmesiyle türetilir ve bunlar birleşik yazılır. Bu yapıların daha da pekiştirildiği veya bu yapılarda ünlü türemelerinin ortaya çıktığı görülür. \r<br/>yemyeşil, gömgök, kopkoyu, pespembe, yusyuvarlak, kapkaranlık, sırsıklam, çarçabuk, çırılçıplak, güpegündüz, çepeçevre, sırılsıklam, paramparça vb."
     },
     {
         "SoruID": 3258241,
@@ -3417,7 +3417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br>• Sözcük ünlüyle bitiyorsa, ek fiilin başındaki /i/ ünlüsü yarı ünlü /y/ sesine dönüşür. \r<br/>başarılı idi / başarılıydı, gelmeli idi / gelmeliydi; hasta imiş / hastaymış; almalı imiş / almalıymış; yolcu iken / yolcuyken, okumalı iken / okumalıyken vb."
+        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br/>• Sözcük ünlüyle bitiyorsa, ek fiilin başındaki /i/ ünlüsü yarı ünlü /y/ sesine dönüşür. \r<br/>başarılı idi / başarılıydı, gelmeli idi / gelmeliydi; hasta imiş / hastaymış; almalı imiş / almalıymış; yolcu iken / yolcuyken, okumalı iken / okumalıyken vb."
     },
     {
         "SoruID": 3258243,
@@ -3437,7 +3437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br>Hem bağlaç hem de edat olarak kullanılan ile, bağımsız veya ekleştirilerek kullanılır. \r<br/>İle, ekleştiğinde, ünsüzle biten sözcüklere gelince baştaki /i/ sesi düşer; sonu ünlüyle biten sözcüklerde ise /i/ &gt; /y/ olur."
+        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br/>Hem bağlaç hem de edat olarak kullanılan ile, bağımsız veya ekleştirilerek kullanılır. \r<br/>İle, ekleştiğinde, ünsüzle biten sözcüklere gelince baştaki /i/ sesi düşer; sonu ünlüyle biten sözcüklerde ise /i/ &gt; /y/ olur."
     },
     {
         "SoruID": 3258278,
@@ -3457,7 +3457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br>İki cümleyi bağlayan yani bağlaç olan ki ayrı yazılır.<br/>\"Bu sorunun çözümü işte o yazı ki bunu sen de biliyorsun.\""
+        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br/>İki cümleyi bağlayan yani bağlaç olan ki ayrı yazılır.<br/>\"Bu sorunun çözümü işte o yazı ki bunu sen de biliyorsun.\""
     },
     {
         "SoruID": 3258279,
@@ -3477,7 +3477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br>Bağlaç olan de, önündeki ve arkasındaki sözcükten ayrı yazılır."
+        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br/>Bağlaç olan de, önündeki ve arkasındaki sözcükten ayrı yazılır."
     },
     {
         "SoruID": 3258280,
@@ -3497,7 +3497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br>İki veya daha fazla heceli sözcüklerin sonundaki /ç/ sesleri , ünlüyle başlayan ekle kullanıldığında /ç/ &gt; /c/ olur: kıvanç+ı+m &gt; kıvancım."
+        "Aciklama": "Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br/>İki veya daha fazla heceli sözcüklerin sonundaki /ç/ sesleri , ünlüyle başlayan ekle kullanıldığında /ç/ &gt; /c/ olur: kıvanç+ı+m &gt; kıvancım."
     },
     {
         "SoruID": 3258283,

@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karakter animasyonları, oyuncuların oyunun karakterleriyle duygusal bağ kurmasını sağlar. Karakterlerin mimikleri, hareketleri ve tepkileri, onların kişiliklerini ve hikâyelerini anlatır. Karakter<br/>animasyonları, kullanıcıların karakter kontrolüne ilişkin geri bildirim sağlar. Bir karakterin koşma,<br/>zıplama veya saldırı animasyonu, oyun içi fizik ve hareket sisteminin anlaşılmasına yardımcı olur. Yüz animasyonları ve beden dili, karakterlerin duygularını ve niyetlerini ifade etmede kritik öneme sahiptir. Bu, özellikle hikâye odaklı oyunlarda, oyuncuların hikâyeye daha fazla dahil olmasını sağlar.<br>Karakter animasyonu"
+        "Aciklama": "Karakter animasyonları, oyuncuların oyunun karakterleriyle duygusal bağ kurmasını sağlar. Karakterlerin mimikleri, hareketleri ve tepkileri, onların kişiliklerini ve hikâyelerini anlatır. Karakter<br/>animasyonları, kullanıcıların karakter kontrolüne ilişkin geri bildirim sağlar. Bir karakterin koşma,<br/>zıplama veya saldırı animasyonu, oyun içi fizik ve hareket sisteminin anlaşılmasına yardımcı olur. Yüz animasyonları ve beden dili, karakterlerin duygularını ve niyetlerini ifade etmede kritik öneme sahiptir. Bu, özellikle hikâye odaklı oyunlarda, oyuncuların hikâyeye daha fazla dahil olmasını sağlar.<br/>Karakter animasyonu"
     },
     {
         "SoruID": 3690999,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kilit kare animasyonu, animatörlerin belirli anahtar pozisyonları elle çizdiği veya tasarladığı, ardından yazılımın bu kilit kareler arasındaki hareketi otomatik olarak doldurduğu bir tekniktir. Örneğin “Cuphead” oyunu, kilit kare tekniğini kullanarak karakterlerin animasyonlarında 1930’ların çizgi filmlerine özgü bir estetik sunar.<br>Kilit Kare (Keyframe) tekniği"
+        "Aciklama": "Kilit kare animasyonu, animatörlerin belirli anahtar pozisyonları elle çizdiği veya tasarladığı, ardından yazılımın bu kilit kareler arasındaki hareketi otomatik olarak doldurduğu bir tekniktir. Örneğin “Cuphead” oyunu, kilit kare tekniğini kullanarak karakterlerin animasyonlarında 1930’ların çizgi filmlerine özgü bir estetik sunar.<br/>Kilit Kare (Keyframe) tekniği"
     },
     {
         "SoruID": 3691378,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "3D Ses ve Mekânsal Ses: Sesin kaynağının yönünü ve mesafesini simüle ederek oyuncuya mekânsal<br/>farkındalık kazandıran tekniktir. Özellikle VR oyunlar ve açık dünya oyunları için kritik öneme<br/>sahiptir.<br>3D Ses ve Mekansal Ses"
+        "Aciklama": "3D Ses ve Mekânsal Ses: Sesin kaynağının yönünü ve mesafesini simüle ederek oyuncuya mekânsal<br/>farkındalık kazandıran tekniktir. Özellikle VR oyunlar ve açık dünya oyunları için kritik öneme<br/>sahiptir.<br/>3D Ses ve Mekansal Ses"
     },
     {
         "SoruID": 3691398,

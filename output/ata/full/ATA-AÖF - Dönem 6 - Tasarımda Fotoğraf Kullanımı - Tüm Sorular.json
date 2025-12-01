@@ -25,7 +25,7 @@
         "A": "Zihinde canlandırılan biçim, tasavvur tasarım kelimesinin karşılığıdır.",
         "B": "Tasar çizim, dizayn anlamında; bir sanat eserinin, yapının veya teknik ürünün ilk taslağını da belirtir, en yeni teknolojik alt yapıya sahiptir.",
         "C": "Bir araştırma sürecinin çeşitli dönemlerinde izlenecek yol ve işlemleri tasarlayan plan ve çerçeve olarakta yorumlanır.",
-        "D": "Tasarı oluşturma anlamında gelerek kural ve kanun koyma eylemidir.<br type=\"_moz\"/>",
+        "D": "Tasarı oluşturma anlamında gelerek kural ve kanun koyma eylemidir.",
         "E": "Mimari ya da sanat alanında planlanan bir çalışmanın ilk taslağını belirtir.",
         "DogruCevap": "D",
         "DersAd": "Tasarımda Fotoğraf Kullanımı",
@@ -921,7 +921,7 @@
     },
     {
         "SoruID": 379438,
-        "SoruMetni": "I. Eyfel Kulesi<br/>II. Çin Setti<br/>III. Mısır Piramitleri<br/><strong>Yukarıdakilerden hangisi ya da hangileri nesnel ve evrensel simgeler arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Eyfel Kulesi<br/>II. Çin Setti<br/>III. Mısır Piramitleri<br/><strong>Yukarıdakilerden hangisi ya da hangileri nesnel ve evrensel simgeler arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",
@@ -1281,7 +1281,7 @@
     },
     {
         "SoruID": 381121,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi reklam fotoğrafçısının yapmaması gerekenler arasında yer alır?</strong><br type=\"_moz\"/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi reklam fotoğrafçısının yapmaması gerekenler arasında yer alır?</strong>",
         "A": "Yaratıcı olmak",
         "B": "Konuşmayıp sadece fotoğrafını çekmek",
         "C": "Ekipten ayrı tek başına çalışmak",
@@ -1961,7 +1961,7 @@
     },
     {
         "SoruID": 405770,
-        "SoruMetni": "I. Dikkat çekmek<br/>II. İlgi uyandırmak <br/>III. Hizmet vermek<br/><strong>Hedef kitleyle iletişim kurarken grafik tasarımın hizmet ettiği amaçlar arasında yukarıdakilerden hangisi ya da hangileri yer alır?</strong></br></br>",
+        "SoruMetni": "I. Dikkat çekmek<br/>II. İlgi uyandırmak <br/>III. Hizmet vermek<br/><strong>Hedef kitleyle iletişim kurarken grafik tasarımın hizmet ettiği amaçlar arasında yukarıdakilerden hangisi ya da hangileri yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -2221,7 +2221,7 @@
     },
     {
         "SoruID": 405275,
-        "SoruMetni": "I. Dikkat çekmesi<br/>II. Göze hitap etmesi<br/>III. Tasarımda ahengin sağlanması<br/><strong>Yukarıdakilerden hangisi ya da hangileri afişte renk kullanımının sağladığı avantajlar arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Dikkat çekmesi<br/>II. Göze hitap etmesi<br/>III. Tasarımda ahengin sağlanması<br/><strong>Yukarıdakilerden hangisi ya da hangileri afişte renk kullanımının sağladığı avantajlar arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",
@@ -3025,7 +3025,7 @@
         "A": "Doğru renkleri ve ışığı doğru kullanabilecek estetik bir göz terbiyesine sahip olmalıdır.",
         "B": "Modayı yakından takip etmeli, hayal gücü ve yaratıcılığı yüksek olmalıdır.",
         "C": "Fotoğraf tekniği konusunda bilgisi olmasına gerek yoktur.",
-        "D": "Giyim, kuşam ve bunların kuşattığı insan bedenleriyle ilgili temel bilgi sahibi olmalıdır.<br type=\"_moz\"/>",
+        "D": "Giyim, kuşam ve bunların kuşattığı insan bedenleriyle ilgili temel bilgi sahibi olmalıdır.",
         "E": "Çekim sonrasında ise fotoğrafçının post prodüksiyon ekibi ile fotoğraf üzerinde son rötüşları yapacak yeterli bilgisi olabilmelidir.",
         "DogruCevap": "C",
         "DersAd": "Tasarımda Fotoğraf Kullanımı",

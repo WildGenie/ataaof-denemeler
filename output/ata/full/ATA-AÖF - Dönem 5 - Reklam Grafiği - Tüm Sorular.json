@@ -1481,7 +1481,7 @@
     },
     {
         "SoruID": 358800,
-        "SoruMetni": "<strong>I. </strong>Bilgi aktarma<br/>II. İkna etme<br/>III. Dikkat çekme<br/><strong>Yukarıdakilerden hangisi ya da hangileri reklamlarda tipografinin temel amaçları arasında yer alır?</strong></br></br>",
+        "SoruMetni": "<strong>I. </strong>Bilgi aktarma<br/>II. İkna etme<br/>III. Dikkat çekme<br/><strong>Yukarıdakilerden hangisi ya da hangileri reklamlarda tipografinin temel amaçları arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -1521,7 +1521,7 @@
     },
     {
         "SoruID": 358807,
-        "SoruMetni": "I. Bilgi aktarmak<br/>II. İkna etmek<br/>III. Dikkat çekmek<br/><strong>Yukarıdakilerden hangisi ya da hangileri reklamlarda tipografinin amaçlarındandır?</strong></br></br>",
+        "SoruMetni": "I. Bilgi aktarmak<br/>II. İkna etmek<br/>III. Dikkat çekmek<br/><strong>Yukarıdakilerden hangisi ya da hangileri reklamlarda tipografinin amaçlarındandır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",
@@ -2063,8 +2063,8 @@
         "SoruID": 372366,
         "SoruMetni": "<strong>Aşağıdakilerden hangisi el ilanları reklam grafiğinin özellikleri arasında <u>yer almaz</u>?</strong>",
         "A": "Ulusal ve yerel kuruluşlar tarafından kullanılan bir reklam aracıdır.",
-        "B": "Tek bir ürünü ya da hizmeti anlatan çok sayfalı çalışmalardır.<br type=\"_moz\"/>",
-        "C": "El ilanları genellikle tek yapraktan oluşur.<br type=\"_moz\"/>",
+        "B": "Tek bir ürünü ya da hizmeti anlatan çok sayfalı çalışmalardır.",
+        "C": "El ilanları genellikle tek yapraktan oluşur.",
         "D": "El ilanları daha çok kampanya dönemlerinde tercih edilir.",
         "E": "Diğer reklam mecralarına göre daha ekonomiktir.",
         "DogruCevap": "B",
@@ -2941,7 +2941,7 @@
     },
     {
         "SoruID": 372414,
-        "SoruMetni": "Reklamlar nihayetinde .........................…………….. veya korumayı hedefleyen belirli amaçları yerine getirmek için yapılırlar.<br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Reklamlar nihayetinde .........................…………….. veya korumayı hedefleyen belirli amaçları yerine getirmek için yapılırlar.<br/><strong>Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "satışı sağlamayı, artırmayı",
         "B": "satışı durdurmayı, dondurmayı",
         "C": "pazarı durdurmayı, bekletmeyi",

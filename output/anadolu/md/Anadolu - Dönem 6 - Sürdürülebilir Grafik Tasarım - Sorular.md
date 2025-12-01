@@ -8,11 +8,7 @@
     - D-) I ve II
     - E-) II ve III
 
-    > **Açıklama:** Canlıların bir birleriyle ve çevreleriyle olan tüm ilişkilerinin yönü farklılıklar gösterdiği için Eylem (Aksiyon), Tepki (Reaksiyon) ve **Etkileşim (Koaksiyon)** olmak üzere ayrı ayrı tanımlanır. Bu ilişkileri, insanlar üzerinden örnekler vererek şöyle
-    > tanımlayabiliriz:
-    > • EYLEM; Çevrenin → Organizmalar üzerine olan etkileri. Örnek; İnsanların kuraklık nedeniyle açlık ve susuzluk çekmesi.
-    > • REAKSİYON: Organizmaların → Çevre üzerine etkileri. Örnek; İnsanlar tarafından yaratılan çevre kirliliği.
-    > **ETKİLEŞİM: Organizmaların → Organizmalarla etkileşimleri. Örnek; İnsanlar tarafından yapılan avlanma faaliyetleri.**
+    > **Açıklama:** Canlıların bir birleriyle ve çevreleriyle olan tüm ilişkilerinin yönü farklılıklar gösterdiği için Eylem (Aksiyon), Tepki (Reaksiyon) ve **Etkileşim (Koaksiyon)** olmak üzere ayrı ayrı tanımlanır. Bu ilişkileri, insanlar üzerinden örnekler vererek şöyle<br />tanımlayabiliriz:<br />• EYLEM; Çevrenin → Organizmalar üzerine olan etkileri. Örnek; İnsanların kuraklık nedeniyle açlık ve susuzluk çekmesi.<br />• REAKSİYON: Organizmaların → Çevre üzerine etkileri. Örnek; İnsanlar tarafından yaratılan çevre kirliliği.<br />**ETKİLEŞİM: Organizmaların → Organizmalarla etkileşimleri. Örnek; İnsanlar tarafından yapılan avlanma faaliyetleri.**
 
     <hr />
 1. Yapay ekosistemlere en iyi örnek aşağıdakilerden hangisidir?
@@ -52,8 +48,7 @@
     - **Cevap D-) I, IV ve V**
     - E-) II, III ve IV
 
-    > **Açıklama:** **Şekil 1.3'te görüldüğü gibi**
-    > ![](https://ets.anadolu.edu.tr/storage/nfs/questions/1fd8a089e8e665c1cd4640c4191f71c9.png)
+    > **Açıklama:** **Şekil 1.3'te görüldüğü gibi**<br />![](https://ets.anadolu.edu.tr/storage/nfs/questions/1fd8a089e8e665c1cd4640c4191f71c9.png)
 
     <hr />
 1. Sürdürülebilirliğin temel bileşenlerini destekleyen strateji aşağıdakilerden hangisidir?
@@ -73,9 +68,7 @@
     - D-) Sosyal sürdürebilirlik
     - E-) Ekonomik sürdürülebilirlik
 
-    > **Açıklama:** İnsan faaliyetlerine açık olan ormanlar, sahiller, mera/çayırlar, tarım arazileri ve kentsel alanlar vb.ekosistem parçaları yoğun ve ekolojik taşıma kapasitesinin üzerinde kullanılarak tüketilmekte ya da değişime uğratılmaktadır. Bunun sonucunda bir yandan sosyoekonomik refah artarken diğer yandan iklim, su, gıda ve enerji kaynaklarının korunması ve kirlilik kontrolüne yönelik klasik yaklaşımlar, sürdürülemez hâle gelen sorunlara sistematik ve uzun vadeli çözümler yaratabilme konusunda yetersizkalmaktadır.
-    > Böylece insan refahı ve ekosistem hizmetleri arasındaki bağların doğru tanımlanmasına ve yönetilmesine yönelik **yeni ekolojik ve çevresel yaklaşımlar benimsenmeye başlanmıştır.**
-    > İşte bu kapsamda; insan yaşamının destekleyicisi olan ekosistemleri, yeniden üretme ve onların taşıma kapasitesini aşmayacak şekilde kullanarak insan kültürü ve yaşayan dünya arasındaki mevcut yıkıcı ilişkiyi dengeleme sorumluluğu olarak tanımlanan **ekolojik ve çevresel sürdürülebilirlik** yaklaşımı, sürdürülebilirlik gündeminde yerini almıştır.
+    > **Açıklama:** İnsan faaliyetlerine açık olan ormanlar, sahiller, mera/çayırlar, tarım arazileri ve kentsel alanlar vb.ekosistem parçaları yoğun ve ekolojik taşıma kapasitesinin üzerinde kullanılarak tüketilmekte ya da değişime uğratılmaktadır. Bunun sonucunda bir yandan sosyoekonomik refah artarken diğer yandan iklim, su, gıda ve enerji kaynaklarının korunması ve kirlilik kontrolüne yönelik klasik yaklaşımlar, sürdürülemez hâle gelen sorunlara sistematik ve uzun vadeli çözümler yaratabilme konusunda yetersizkalmaktadır.<br />Böylece insan refahı ve ekosistem hizmetleri arasındaki bağların doğru tanımlanmasına ve yönetilmesine yönelik **yeni ekolojik ve çevresel yaklaşımlar benimsenmeye başlanmıştır.**<br />İşte bu kapsamda; insan yaşamının destekleyicisi olan ekosistemleri, yeniden üretme ve onların taşıma kapasitesini aşmayacak şekilde kullanarak insan kültürü ve yaşayan dünya arasındaki mevcut yıkıcı ilişkiyi dengeleme sorumluluğu olarak tanımlanan **ekolojik ve çevresel sürdürülebilirlik** yaklaşımı, sürdürülebilirlik gündeminde yerini almıştır.
 
     <hr />
 1. Kaynakları verimli kullanarak ekolojik ve çevresel sorunları önemli ölçüde azaltırken insan refahını ve sosyal eşitliği iyileştiren ekonomi modeline ne ad verilir?
@@ -105,8 +98,7 @@
     - **Cevap D-) Motivasyon**
     - E-) Teklarlama
 
-    > **Açıklama:** **Tablo 1.4'de görüldüğü gibi;**
-    > **![](https://ets.anadolu.edu.tr/storage/nfs/questions/d72d738b849d87c0b43883ebae405199.png)**
+    > **Açıklama:** **Tablo 1.4'de görüldüğü gibi;**<br />**![](https://ets.anadolu.edu.tr/storage/nfs/questions/d72d738b849d87c0b43883ebae405199.png)**
 
     <hr />
 1. Doğal kaynakların sorumlu kullanılarak ekosistemlerin sağlığı ve insan refahının uzun vadeli olarak birlikte korunması gerektiği anlayışını ifade eden kavram aşağıdakilerden hangisidir?
@@ -206,8 +198,7 @@
     - D-) II, III, IV ve V
     - **Cevap E-) I, II, III, IV ve V**
 
-    > **Açıklama:** Sürdürülebilirliğin toplumda yaygınlaşması için sosyal öğrenmenin organizasyonunda beş te- mel basamak vardır. Bunlar:
-    > • Sürdürülebilirlik sistemi düşüncesi • Ağ oluşturma • Diyalog • Bilgi yönetimi• Yansıtıcı uygulamalar
+    > **Açıklama:** Sürdürülebilirliğin toplumda yaygınlaşması için sosyal öğrenmenin organizasyonunda beş te- mel basamak vardır. Bunlar:<br />• Sürdürülebilirlik sistemi düşüncesi • Ağ oluşturma • Diyalog • Bilgi yönetimi• Yansıtıcı uygulamalar
 
     <hr />
 ## Unite 2
@@ -218,12 +209,7 @@
     - **Cevap D-) Dadaizm**
     - E-) Montaj
 
-    > **Açıklama:** Sürdürülebilirlik kavramı doğrultusunda, atık ya da kullanılmayan nesnenin sanat objesine dönüşme sürecinde, eğitim kurumlarında ders kapsamında öğretilen ve uygulamalarının yapıldığı, temel yöntemler aşağıdaki gibi sıralanabilir.
-    > Kolaj
-    > Dekolaj
-    > Asamblaj
-    > Akümülasyon
-    > Montaj
+    > **Açıklama:** Sürdürülebilirlik kavramı doğrultusunda, atık ya da kullanılmayan nesnenin sanat objesine dönüşme sürecinde, eğitim kurumlarında ders kapsamında öğretilen ve uygulamalarının yapıldığı, temel yöntemler aşağıdaki gibi sıralanabilir.<br />Kolaj<br />Dekolaj<br />Asamblaj<br />Akümülasyon<br />Montaj
 
     <hr />
 1. Kelime olarak bir araya getirme birleştirme anlamına gelen ve bir resim tekniği olan, elde var olan her türlü basılı, yazılı, çizili, resimsel malzemelerin bir yüzey üzerinde yeniden kurgulanmasıyla oluşturulan yöntem aşağıdakilerden hangisidir?
@@ -313,8 +299,7 @@
     - D-) biyoloji
     - E-) arazi sanatı
 
-    > **Açıklama:** **Biyo-Sanat:** Biyo-Sanat, 20. yüzyılın sonu ve 21. yüzyılın başında ortaya çıkmıştır. ***Biyo-Sanat*** çalışan sanatçılar canlı madde ile çalışsalar da maddenin canlı veya canlı olarak kabul edilebileceği aşamalar konusunda etik, sosyal ve estetik tartışmalar vardır. Sanat eserleri laboratuvarlarda, galerilerde veya sanatçı stüdyolarında üretilirken, bazı sanatçılar canlı dokular, bakteriler, canlı organizmalar ve yaşam süreçlerinin sadece görsellerini kullanarak eserlerini üretirler.
-    > **Biyo-Sanat,** sanatçıların biyoloji, canlı dokular, bakteriler, canlı or-ganizmalar ve yaşam süreçleri ile çalıştığı bir sanat pratiğidir.
+    > **Açıklama:** **Biyo-Sanat:** Biyo-Sanat, 20. yüzyılın sonu ve 21. yüzyılın başında ortaya çıkmıştır. ***Biyo-Sanat*** çalışan sanatçılar canlı madde ile çalışsalar da maddenin canlı veya canlı olarak kabul edilebileceği aşamalar konusunda etik, sosyal ve estetik tartışmalar vardır. Sanat eserleri laboratuvarlarda, galerilerde veya sanatçı stüdyolarında üretilirken, bazı sanatçılar canlı dokular, bakteriler, canlı organizmalar ve yaşam süreçlerinin sadece görsellerini kullanarak eserlerini üretirler.<br />**Biyo-Sanat,** sanatçıların biyoloji, canlı dokular, bakteriler, canlı or-ganizmalar ve yaşam süreçleri ile çalıştığı bir sanat pratiğidir.
 
     <hr />
 1. Sanayileşmenin getirdiği kirlilik, küresel ısınma, artan nüfus ve buna bağlı olarak artan tüketim, azalan kaynaklarımız ve üretimin sınırlılığı, aşağıdaki kavramlardan hangisinin her alanda daha yoğun biçimde kullanımını ortaya çıkarmıştır?
@@ -334,9 +319,7 @@
     - D-) Bilginin daha hızlı yayılması
     - **Cevap E-) Toplumsal eşit hakların yaygınlaşması**
 
-    > **Açıklama:** Sürdürülebilir ekonomik kalkınma, yükselen yaşam standartları, teknolojik ilerleme ve bilginin
-    > daha hızlı yayılması, küreselleşmenin **en belirgin faydaları** arasında sayılmaktadır.
-    > Toplumsal eşit hakların yaygınlaşması
+    > **Açıklama:** Sürdürülebilir ekonomik kalkınma, yükselen yaşam standartları, teknolojik ilerleme ve bilginin<br />daha hızlı yayılması, küreselleşmenin **en belirgin faydaları** arasında sayılmaktadır.<br />Toplumsal eşit hakların yaygınlaşması
 
     <hr />
 1. Sürdürülebilirlik kavramı doğrultusunda, atık ya da kullanılmayan nesnenin sanat objesine dönüşme sürecinde, eğitim kurumlarında ders kapsamında öğretilen ve uygulamalarının yapıldığı, temel yöntemler aşağıdakilerden hangisi **değildir?**
@@ -346,14 +329,7 @@
     - D-) Asamblaj
     - E-) Montaj
 
-    > **Açıklama:** Sürdürülebilirlik kavramı doğrultusunda, atık ya da kullanılmayan nesnenin sanat objesine dönüşme
-    > sürecinde, eğitim kurumlarında ders kapsamında öğretilen ve uygulamalarının yapıldığı, temel yöntemler aşağıdaki gibi sıralanabilir.
-    > **• Kolaj**
-    > **• Dekolaj**
-    > **• Asamblaj**
-    > **• Akümülasyon**
-    > **• Montaj**
-    > Simülasyon
+    > **Açıklama:** Sürdürülebilirlik kavramı doğrultusunda, atık ya da kullanılmayan nesnenin sanat objesine dönüşme<br />sürecinde, eğitim kurumlarında ders kapsamında öğretilen ve uygulamalarının yapıldığı, temel yöntemler aşağıdaki gibi sıralanabilir.<br />**• Kolaj**<br />**• Dekolaj**<br />**• Asamblaj**<br />**• Akümülasyon**<br />**• Montaj**<br />Simülasyon
 
     <hr />
 1. Elde var olan her türlü basılı, yazılı, çizili, resimsel malzemelerin bir yüzey üzerinde yeniden kurgulanmasıyla oluşturulan temel yöntem aşağıdakilerden hangisidir**?**
@@ -363,8 +339,7 @@
     - D-) Akümülasyon
     - E-) Dekolaj
 
-    > **Açıklama:** **Kolaj:** Kelime olarak bir araya getirme birleştirme anlamına gelir. Bir resim tekniğidir. **Elde**
-    > **var olan her türlü basılı, yazılı, çizili, resimsel malzemelerin bir yüzey üzerinde yeniden kurgulanmasıyla** oluşturulur.
+    > **Açıklama:** **Kolaj:** Kelime olarak bir araya getirme birleştirme anlamına gelir. Bir resim tekniğidir. **Elde**<br />**var olan her türlü basılı, yazılı, çizili, resimsel malzemelerin bir yüzey üzerinde yeniden kurgulanmasıyla** oluşturulur.
 
     <hr />
 1. Sökülmek anlamına gelen Fransızca bir kelimedir. Üst üste katmanlar hâlinde yerleştirilmiş afiş, resim ya da basılı kâğıtların bazı bölümlerinin kesilip çıkarılmasıyla oluşturulan teknik aşağıdakilerden hangisidir?
@@ -384,9 +359,7 @@
     - D-) Dekolaj
     - **Cevap E-) Asamblaj**
 
-    > **Açıklama:** Bir form oluşturacak biçimde kullanılmayan objelerin birleştirilerek heykele dönüştürülmesi
-    > anlamına gelir.
-    > Asamblaj
+    > **Açıklama:** Bir form oluşturacak biçimde kullanılmayan objelerin birleştirilerek heykele dönüştürülmesi<br />anlamına gelir.<br />Asamblaj
 
     <hr />
 1. Toplumdaki kimlik kaybı ve toplumun bunu fark etmemesi, israfın korkunç boyutlarını Akümülasyon tekniği ile eserlerinde aktaran sanatçı aşağıdakilerden hangisidir?
@@ -406,8 +379,7 @@
     - D-) Jean Dubuffet
     - E-) Wolf Vostell
 
-    > **Açıklama:** **Hans Haacke** ve Joseph Beuys projeleriyle ekolojik sanat anlayışının gelişimine katkıda bulunan
-    > ilk aktivist sanatçılardandır.
+    > **Açıklama:** **Hans Haacke** ve Joseph Beuys projeleriyle ekolojik sanat anlayışının gelişimine katkıda bulunan<br />ilk aktivist sanatçılardandır.
 
     <hr />
 1. Sürdürülebilir sanat uygulamaları; belirli kriterler sebebiyle desteklenmeli, öğretilmeli ve sürdürülebilir olmalıdır. Aşağıdakilerden hangisi bu kriterlerden **değildir?**
@@ -417,14 +389,7 @@
     - **Cevap D-) Bilgi ve teknolojiyi kabul etmediği için**
     - E-) Sosyal farkındalık yaratıp, çevre dostu yaklaşımın benimsenmesini sağladığı için
 
-    > **Açıklama:** **Sürdürülebilir sanat uygulamaları;**
-    > • Erişilebilir uygun maliyetli malzemelerden yapıldığı için,
-    > • Siyasi ve sosyal meselelerin altını çizdiği için,
-    > • Yaratıcılığı desteklediği için,
-    > • Sosyal farkındalık yaratıp, çevre dostu yaklaşımın benimsenmesini sağladığı için,
-    > • Ekolojik dinamikler ve karşılaştığımız çevre sorunları hakkında toplumun bilgilendiren eserler
-    > olduğu için desteklenmeli, öğretilmeli ve sürdürülebilir olmalıdır.
-    > Bilgi ve teknolojiyi kabul etmediği için
+    > **Açıklama:** **Sürdürülebilir sanat uygulamaları;**<br />• Erişilebilir uygun maliyetli malzemelerden yapıldığı için,<br />• Siyasi ve sosyal meselelerin altını çizdiği için,<br />• Yaratıcılığı desteklediği için,<br />• Sosyal farkındalık yaratıp, çevre dostu yaklaşımın benimsenmesini sağladığı için,<br />• Ekolojik dinamikler ve karşılaştığımız çevre sorunları hakkında toplumun bilgilendiren eserler<br />olduğu için desteklenmeli, öğretilmeli ve sürdürülebilir olmalıdır.<br />Bilgi ve teknolojiyi kabul etmediği için
 
     <hr />
 1. Çalışmalarında İleri dönüşüm tekniğini kullanır. Lise döneminden beri atık malzemeleri en yaratıcı biçimde kullanarak heykel yapan sanatçı, kullanılamayacak durumda olan çanta ve valizleri kullanarak tematik Star Wars heykel serisini yaratmıştır. Bu sanatçı aşağıdakilerden hangisidir?
@@ -434,9 +399,7 @@
     - D-) Tim Noble
     - E-) Sue Webster
 
-    > **Açıklama:** **Gabriel Dishaw** bu biçimde çalışan sanatçılar için iyi bir örnektir. Çalışmalarında *“Upcycling- İleri*
-    > *dönüşüm”* tekniğini kullanan **Gabriel Dishaw**, lise döneminden beri atık malzemeleri en yaratıcı
-    > biçimde kullanarak heykel yapan bir sanatçıdır.
+    > **Açıklama:** **Gabriel Dishaw** bu biçimde çalışan sanatçılar için iyi bir örnektir. Çalışmalarında *“Upcycling- İleri*<br />*dönüşüm”* tekniğini kullanan **Gabriel Dishaw**, lise döneminden beri atık malzemeleri en yaratıcı<br />biçimde kullanarak heykel yapan bir sanatçıdır.
 
     <hr />
 ## Unite 3
@@ -477,8 +440,7 @@
     - **Cevap D-) 1\.Sırada**
     - E-) 5\.Sırada
 
-    > **Açıklama:** Önleme (prevention):Adımı geri dönüşümün adımları arasında 1. sırasında yer alır, sorunun yanıtı D şıkkıdır.
-    > 1\.Sırada
+    > **Açıklama:** Önleme (prevention):Adımı geri dönüşümün adımları arasında 1. sırasında yer alır, sorunun yanıtı D şıkkıdır.<br />1\.Sırada
 
     <hr />
 1. Bertaraf (disposal) adımı geri dönüşümün adımları arasında kaçıncı sırada yer alır.
@@ -488,8 +450,7 @@
     - D-) 4\.Sırada
     - E-) 3\.Sırada
 
-    > **Açıklama:** Bertaraf (disposal) adımı geri dönüşümün adımları arasında 5. sırasında yer alır, sorunun yanıtı A şıkkıdır.
-    > 5\.Sırada
+    > **Açıklama:** Bertaraf (disposal) adımı geri dönüşümün adımları arasında 5. sırasında yer alır, sorunun yanıtı A şıkkıdır.<br />5\.Sırada
 
     <hr />
 1. Geri dönüşüm yoluyla da basılan antik paralara ne ad verilir.
@@ -549,8 +510,7 @@
     - D-) Enerji geri kazanımı
     - E-) Bertaraf
 
-    > **Açıklama:** "Önleme (Prevention): Ürünlerin çeşitli yollarla kullanım ömürlerini uzatarak
-    > yeniden kullanılmasıdır." Buna göre cevap a seçeneğidir.
+    > **Açıklama:** "Önleme (Prevention): Ürünlerin çeşitli yollarla kullanım ömürlerini uzatarak<br />yeniden kullanılmasıdır." Buna göre cevap a seçeneğidir.
 
     <hr />
 1. Tarihte ilk belgelenmiş geri dönüşüm ürünü olan gri kağıt hangi yılda ve hangi ülkede elde edilmiştir?
@@ -661,11 +621,7 @@
     - D-) Hammadde ve Malzeme Seçimi Planlama Tasarım Üretim Dağıtım Kullanım Ömrünü Tamamlayan Ürün
     - E-) Hammadde ve Malzeme Seçimi Üretim Dağıtım Kullanım Geri Dönüşüm
 
-    > **Açıklama:** Hammadde ve Malzeme Seçimi
-    > Üretim
-    > Dağıtım
-    > Kullanım
-    > Ömrünü Tamamlayan Ürün
+    > **Açıklama:** Hammadde ve Malzeme Seçimi<br />Üretim<br />Dağıtım<br />Kullanım<br />Ömrünü Tamamlayan Ürün
 
     <hr />
 1. Var olan bir firmada, var olan üretim metodu ve ürünün tekrar gözden geçirilmesi üzerine odaklanan eko tasarım yaklaşımı hangisidir?
@@ -715,12 +671,7 @@
     - D-) Global GreenTag Certified
     - E-) Çevre Etiketi
 
-    > **Açıklama:** Eco-Mark programı tüketiciler için daha bilinçli seçimler yaparak doğaya daha dost bir yaşam tarzı oluşturmaya hizmet eden Tip I Eko Etiketidir.
-    > **Tip II eko etiket** kapsamında olan, **Energy Star** (ABD), WaterSense (ABD), SCS Recycled Content (ABD)
-    > gibi etiketlerin tanımları aşağıda verilmiştir;
-    > **Tip I eko etiket** kapsamında olan, **Blue Angel** (Almanya), EU Ecolabel (Avrupa Birliği), **Eco-Mark** (Japonya) ve **Çevre Etiketi** (Türkiye) bazı etiket örnekleri aşağıda verilmiştir;
-    > **Tip III** **eko etiket** kapsamında olan, **Global GreenTag**
-    > **Certified (Avustralya),** Climatop (İsviçre) gibi etiketlerin tanımları aşağıda verilmiştir;
+    > **Açıklama:** Eco-Mark programı tüketiciler için daha bilinçli seçimler yaparak doğaya daha dost bir yaşam tarzı oluşturmaya hizmet eden Tip I Eko Etiketidir.<br />**Tip II eko etiket** kapsamında olan, **Energy Star** (ABD), WaterSense (ABD), SCS Recycled Content (ABD)<br />gibi etiketlerin tanımları aşağıda verilmiştir;<br />**Tip I eko etiket** kapsamında olan, **Blue Angel** (Almanya), EU Ecolabel (Avrupa Birliği), **Eco-Mark** (Japonya) ve **Çevre Etiketi** (Türkiye) bazı etiket örnekleri aşağıda verilmiştir;<br />**Tip III** **eko etiket** kapsamında olan, **Global GreenTag**<br />**Certified (Avustralya),** Climatop (İsviçre) gibi etiketlerin tanımları aşağıda verilmiştir;
 
     <hr />
 1. Eco-Mark etiketini hangi ülke öne sürmüştür?
@@ -810,12 +761,7 @@
     - D-) Dagıtım
     - E-) Ömrünü tamamlayan ürün
 
-    > **Açıklama:** **Yasam Döngüsü Asamaları**
-    > Hammadde ve malzeme seçimi
-    > Üretim
-    > Dagıtım
-    > Kullanım
-    > Ömrünü tamamlayan ürün
+    > **Açıklama:** **Yasam Döngüsü Asamaları** <br />Hammadde ve malzeme seçimi<br />Üretim<br />Dagıtım<br />Kullanım<br />Ömrünü tamamlayan ürün
 
     <hr />
 1. Aşağıdakilerden hangisi *eko tasarım* kavramını ayırt edebilmemizde yol gösterici olacak belirleyici özelliklerdendir?<br />I. Daha iyi tasarım ile ürünün tüm yaşam döngüsü boyunca çevresel etkilerin azaltılmasıdır.<br />II. Ürüne ait kalite, fiyat, güvenlik gibi faktörlerle birlikte çevresel etkisinin de hesaplanmasıdır.<br />III. Üretilecek olan ürünün henüz hammadde aşamasındayken çevreye etkisinin araştırılması ve üretim sürecinin bu şekilde planlanmasıdır.<br />IV. Sosyal ve kültürel yönden kabul görebilecek yeni önerilerin, teknik olarak mümkün, çevre için mecburi olanlarını birleştiren bir tasarım faaliyetidir.
@@ -825,11 +771,7 @@
     - D-) I/II/IV
     - E-) I/III/IV
 
-    > **Açıklama:** Sonuç olarak eko tasarımın ve birbirleri yerine kullanılan diğer kavramların ortak amacının çevreyi korumak olmasına karşın, kapsam olarak birbirlerinden farklılıkları vardır.Bu nedenle aşağıda *eko tasarım* kavramını ayırt edebilmemizde yol gösterici olacak belirleyici bazı özellikler yer almaktadır:
-    > • Daha iyi tasarım ile ürünün tüm yaşam döngüsü boyunca çevresel etkilerin azaltılmasıdır.
-    > • Ürüne ait kalite, fiyat, güvenlik gibi faktörlerle birlikte çevresel etkisinin de hesaplanmasıdır.
-    > • Üretilecek olan ürünün henüz hammadde aşamasındayken çevreye etkisinin araştırılması ve üretim sürecinin bu şekilde planlanmasıdır.
-    > • Sosyal ve kültürel yönden kabul görebilecek yeni önerilerin, teknik olarak mümkün, çevre için mecburi olanlarını birleştiren bir tasarım faaliyetidir.
+    > **Açıklama:** Sonuç olarak eko tasarımın ve birbirleri yerine kullanılan diğer kavramların ortak amacının çevreyi korumak olmasına karşın, kapsam olarak birbirlerinden farklılıkları vardır.Bu nedenle aşağıda *eko tasarım* kavramını ayırt edebilmemizde yol gösterici olacak belirleyici bazı özellikler yer almaktadır:<br />• Daha iyi tasarım ile ürünün tüm yaşam döngüsü boyunca çevresel etkilerin azaltılmasıdır.<br />• Ürüne ait kalite, fiyat, güvenlik gibi faktörlerle birlikte çevresel etkisinin de hesaplanmasıdır.<br />• Üretilecek olan ürünün henüz hammadde aşamasındayken çevreye etkisinin araştırılması ve üretim sürecinin bu şekilde planlanmasıdır.<br />• Sosyal ve kültürel yönden kabul görebilecek yeni önerilerin, teknik olarak mümkün, çevre için mecburi olanlarını birleştiren bir tasarım faaliyetidir.
 
     <hr />
 1. Temelde ekoloji ve ekolojik sistemlerin fonksiyonlarını, süreçlerini ve üretkenliğini gelecekte de devam ettirebilme yeteneği olarak algılanan kavram aşağıdakilerden hangisidir?
@@ -849,18 +791,7 @@
     - D-) II/III/IV/V/VI/VII/VIII/IX/X
     - E-) I/II/III/IV/V/VI/VII/VIII/IX/
 
-    > **Açıklama:** Dieter Rams’ın iyi tasarım için on ilkesi aşağıdaki gibidir;
-    > 1980’lerin başında, ünlü ürün ve mobilya tasarımcısı Dieter Rams kendine “Tasarım iyi bir tasarım mı?” sorusunu sordu.
-    > 1\. İyi tasarım yenilikçidir.
-    > 2\. İyi tasarım bir ürünü kullanışlı kılar.
-    > 3\. İyi tasarım estetiktir.
-    > 4\. İyi tasarım bir ürünü anlaşılır kılar.
-    > 5\. İyi tasarım göze batmaz.
-    > 6\. İyi tasarım dürüsttür.
-    > 7\. İyi tasarım uzun ömürlüdür.
-    > 8\. İyi tasarım en ince ayrıntısına kadar eksiksizdir.
-    > 9\. İyi tasarım çevre dostudur.
-    > 10\. İyi tasarım mümkün olduğunca az tasarımdır
+    > **Açıklama:** Dieter Rams’ın iyi tasarım için on ilkesi aşağıdaki gibidir;<br />1980’lerin başında, ünlü ürün ve mobilya tasarımcısı Dieter Rams kendine “Tasarım iyi bir tasarım mı?” sorusunu sordu.<br />1\. İyi tasarım yenilikçidir.<br />2\. İyi tasarım bir ürünü kullanışlı kılar.<br />3\. İyi tasarım estetiktir.<br />4\. İyi tasarım bir ürünü anlaşılır kılar.<br />5\. İyi tasarım göze batmaz.<br />6\. İyi tasarım dürüsttür.<br />7\. İyi tasarım uzun ömürlüdür.<br />8\. İyi tasarım en ince ayrıntısına kadar eksiksizdir.<br />9\. İyi tasarım çevre dostudur.<br />10\. İyi tasarım mümkün olduğunca az tasarımdır
 
     <hr />
 1. Attığı her adımda ticari faaliyetleri için ihtiyaç duyduğu kaynakların gelecek nesillere azalmadan, tam tersine geliştirilerek aktarılmasına özen gösterme çabasında olup, bilinçli üretim-bilinçli tüketim döngüsü ile daha yaşanır bir gelecek için çalışmalarını sürdüren şirket hangisidir?
@@ -870,8 +801,7 @@
     - D-) Henkel
     - E-) Amway
 
-    > **Açıklama:** **Unilever**
-    > Unilever Türkiye, attığı her adımda ticari faaliyetleri için ihtiyaç duyduğu kaynakların gelecek nesillere azalmadan, tam tersine geliştirilerek aktarılmasına özen gösterme çabasında olup, bilinçli üretim-bilinçli tüketim döngüsü ile daha yaşanır bir gelecek için çalışmalarını sürdürmektedir.
+    > **Açıklama:** **Unilever**<br />Unilever Türkiye, attığı her adımda ticari faaliyetleri için ihtiyaç duyduğu kaynakların gelecek nesillere azalmadan, tam tersine geliştirilerek aktarılmasına özen gösterme çabasında olup, bilinçli üretim-bilinçli tüketim döngüsü ile daha yaşanır bir gelecek için çalışmalarını sürdürmektedir.
 
     <hr />
 ## Unite 5
@@ -882,8 +812,7 @@
     - D-) 1500
     - **Cevap E-) 1600**
 
-    > **Açıklama:** Grafik tasarımcıların mesleki sorumlulukları ve tasarım öncelikleri ilk olarak 1963 yılında Ken Garland tarafından kaleme alınan ve 20 tasarımcının altına imza attığı, “Önce Öncelikler” (First Things First) manifestosu ile vurgulanmıştır. 1999 yılında yeniden kaleme alınan ve 2014 yılında 1600 tasarımcının imzası ile güncellenen manifesto, 2020 yılında güncellenmiş, çok sayıda dile çevrilerek, grafik tasarımcılara önceliklerini sorgulamayı hatırlatmıştır. Önce Öncelikler 2020 manifestosu grafik tasarımcılara doğadan bağımız olmadıklarını ve eylemlerini bu bilinçle gerçekleştirmeleri gerektiğini salık verirken, tasarımlarıyla Dünya ve onun üzerindeki canlı yaşam arasındaki ilişkiyi yeniden tesis etmeyi amaçlamalarını, yeteneklerini insanlığın daha ekolojik bir medeniyet yolunda iyileştirilmesi için kullanmalarını söyler.
-    > Grafik tasarımcıların mesleki sorumlulukları ve tasarım öncelikleri ilk olarak 1963 yılında Ken Garland tarafından kaleme alınan ve 20 tasarımcının altına imza attığı, “Önce Öncelikler” (First Things First) manifestosu ile vurgulanmıştır. 1999 yılında yeniden kaleme alınan ve 2014 yılında 1600 tasarımcının imzası ile güncellenmiştir.
+    > **Açıklama:** Grafik tasarımcıların mesleki sorumlulukları ve tasarım öncelikleri ilk olarak 1963 yılında Ken Garland tarafından kaleme alınan ve 20 tasarımcının altına imza attığı, “Önce Öncelikler” (First Things First) manifestosu ile vurgulanmıştır. 1999 yılında yeniden kaleme alınan ve 2014 yılında 1600 tasarımcının imzası ile güncellenen manifesto, 2020 yılında güncellenmiş, çok sayıda dile çevrilerek, grafik tasarımcılara önceliklerini sorgulamayı hatırlatmıştır. Önce Öncelikler 2020 manifestosu grafik tasarımcılara doğadan bağımız olmadıklarını ve eylemlerini bu bilinçle gerçekleştirmeleri gerektiğini salık verirken, tasarımlarıyla Dünya ve onun üzerindeki canlı yaşam arasındaki ilişkiyi yeniden tesis etmeyi amaçlamalarını, yeteneklerini insanlığın daha ekolojik bir medeniyet yolunda iyileştirilmesi için kullanmalarını söyler.<br />Grafik tasarımcıların mesleki sorumlulukları ve tasarım öncelikleri ilk olarak 1963 yılında Ken Garland tarafından kaleme alınan ve 20 tasarımcının altına imza attığı, “Önce Öncelikler” (First Things First) manifestosu ile vurgulanmıştır. 1999 yılında yeniden kaleme alınan ve 2014 yılında 1600 tasarımcının imzası ile güncellenmiştir.
 
     <hr />
 1. Aşağıdaki kavramlardan hangisi grafik tasarımda bir grafik tasarım ürününün (afiş, ambalaj, katalog, kitap kapağı vb.) uzunluk, genişlik ve derinliğinin boyutlarını sayısal olarak niteleyen değerdir?
@@ -933,8 +862,7 @@
     - D-) PNG kalıplar
     - E-) Ofset kalıplar
 
-    > **Açıklama:** Flekso baskı olarak da bilinen fleksografi de temel çalışma prensibi bakımından tipo baskı yöntemine benzeyen bir baskı çeşididir. İngilizce esnek anlamına gelen “flex” sözcüğünden türetilmiş olan fleksografi, esnek bir kalıp kullanır. Tıpkı tipo baskı gibi yükseltilmiş bir baskı yüzeyi kullanan bu baskı yöntemi, tipo baskıdan farklı olarak çok yüksek hızlı bir döner çalışma sistemine sahiptir. Plastikten metal filmlere kadar çok çeşitli yüzeye baskı yapma imkânı verdiği için ambalaj baskılarında en çok kullanılan yöntemlerin başında gelir.
-    > Fleksografi ismini kullanılan esnek kalıplardan almıştır.
+    > **Açıklama:** Flekso baskı olarak da bilinen fleksografi de temel çalışma prensibi bakımından tipo baskı yöntemine benzeyen bir baskı çeşididir. İngilizce esnek anlamına gelen “flex” sözcüğünden türetilmiş olan fleksografi, esnek bir kalıp kullanır. Tıpkı tipo baskı gibi yükseltilmiş bir baskı yüzeyi kullanan bu baskı yöntemi, tipo baskıdan farklı olarak çok yüksek hızlı bir döner çalışma sistemine sahiptir. Plastikten metal filmlere kadar çok çeşitli yüzeye baskı yapma imkânı verdiği için ambalaj baskılarında en çok kullanılan yöntemlerin başında gelir.<br />Fleksografi ismini kullanılan esnek kalıplardan almıştır.
 
     <hr />
 1. Farklı sayfaları tek bir ürün (kitap, dergi, katalog vb.) olacak şekilde, sağlam biçimde bir araya getirmeyi tanımlayan kavram aşağıdakilerden hangisidir?
@@ -974,8 +902,7 @@
     - D-) Zeminde açık renkler kullanmak
     - E-) Yazıcı dostu tasarımlar yapmak
 
-    > **Açıklama:** Tasarımda kullanılan tipografik elemanların seçim ve yerleşimi söz konusu tasarımı daha çevre dostu kılabilir. Örneği kalın ağırlığa sahip (bold) yazı karakterleri daha fazla mürekkep harcanmasına sebep olacaktır. Kullanılan yazı karakteri tasarımının da sürdürülebilirlik konusunda etkileri olabileceği unutulmamalıdır. Tasarımı gereği okunurluğu düşük olan yazı karakterlerini daha okunur kılmak için yazı boyutunu büyütmek gerekebilir. Bu da metnin tasarım alanında gereğinden fazla yer kaplamasına ve tıpkı sayfa düzeninde öğelerin hatalı yerleşiminde olduğu gibi fazladan sayfa sayısına ve israfa neden olabilir.
-    > Kalın ağırlığa sahip (bold) yazı karakterleri daha fazla mürekkep harcanmasına sebep olur.
+    > **Açıklama:** Tasarımda kullanılan tipografik elemanların seçim ve yerleşimi söz konusu tasarımı daha çevre dostu kılabilir. Örneği kalın ağırlığa sahip (bold) yazı karakterleri daha fazla mürekkep harcanmasına sebep olacaktır. Kullanılan yazı karakteri tasarımının da sürdürülebilirlik konusunda etkileri olabileceği unutulmamalıdır. Tasarımı gereği okunurluğu düşük olan yazı karakterlerini daha okunur kılmak için yazı boyutunu büyütmek gerekebilir. Bu da metnin tasarım alanında gereğinden fazla yer kaplamasına ve tıpkı sayfa düzeninde öğelerin hatalı yerleşiminde olduğu gibi fazladan sayfa sayısına ve israfa neden olabilir.<br />Kalın ağırlığa sahip (bold) yazı karakterleri daha fazla mürekkep harcanmasına sebep olur.
 
     <hr />
 1. Grafik tasarımcıların mesleki sorumlulukları ve tasarım öncelikleri ilk olarak hangi yılda kim tarafından nasıl vurgulanmıştır?
@@ -985,9 +912,7 @@
     - D-) Johansson, Lundberg, ve Ryberg tarafından 2012 yılında.
     - E-) C.F. Barth tarafından 2008 yılında.
 
-    > **Açıklama:** Grafik tasarımcıların mesleki sorumlulukları ve tasarım öncelikleri ilk olarak 1963 yılında Ken Garland tarafından kaleme alınan ve 20 tasarımcının
-    > altına imza attığı, “Önce Öncelikler” (First Things First) manifestosu ile vurgulanmıştır.
-    > 1963 yılında Ken Garland tarafından ve 20 tasarımcının altına imza attığı, “Önce Öncelikler” (First Things First) manifestosu ile vurgulanmıştır.
+    > **Açıklama:** Grafik tasarımcıların mesleki sorumlulukları ve tasarım öncelikleri ilk olarak 1963 yılında Ken Garland tarafından kaleme alınan ve 20 tasarımcının<br />altına imza attığı, “Önce Öncelikler” (First Things First) manifestosu ile vurgulanmıştır.<br />1963 yılında Ken Garland tarafından ve 20 tasarımcının altına imza attığı, “Önce Öncelikler” (First Things First) manifestosu ile vurgulanmıştır.
 
     <hr />
 1. Aşağıdaki şıklardan hangisi ticari amaçlı başlıca baskı yöntemlerinden birisidir?
@@ -997,9 +922,7 @@
     - D-) İnfekt
     - E-) Dijital baskı
 
-    > **Açıklama:** Ticari amaçlı başlıca baskı yöntemleri, ofset litografi, tipo baskı, fleksografi ve serigrafidir. Bu yöntemlerin bazıları ticari olmayan amaçlarla ya da toplu üretim amacı taşımayan özgün baskı üretimi amacıyla da
-    > kullanılmaktadır.
-    > Fleksografi.
+    > **Açıklama:** Ticari amaçlı başlıca baskı yöntemleri, ofset litografi, tipo baskı, fleksografi ve serigrafidir. Bu yöntemlerin bazıları ticari olmayan amaçlarla ya da toplu üretim amacı taşımayan özgün baskı üretimi amacıyla da<br />kullanılmaktadır.<br />Fleksografi.
 
     <hr />
 1. Geleneksel bir görünüm istenen kartvizit ya da davetiye basımında ya da kabartma, çukurlaştırma, perfore gibi baskı sonlandırma işlemleri için kullanılan baskı yöntemi aşağıdakilerden hangisidir?
@@ -1009,10 +932,7 @@
     - D-) Serigrafi baskı
     - E-) Fotokopi
 
-    > **Açıklama:** Tipo Baskı ve Fleksografi: Geçmişi Orta Çağlardaki ahşap baskılara ve Gutenberg’in icadı olan baskı
-    > makinesine kadar dayanan tipo baskı, klasik baskı yöntemlerinden biridir. Ofset baskının aksine, bu kez
-    > mürekkep taşıyıcı yüzeyin baskı oluşturacak kısımları, baskının oluşmayacağı kısımlardan yüksektedir. Bu açıdan bakıldığında, hepimizin bildiği mühürlerin çalışma şekline benzer (Johansson, Lundberg, ve
-    > Ryberg, 2012). Yüksek sayıdaki ticari baskı ihtiyaçları için çok elverişli olmayan tipo baskı yöntemi daha geleneksel bir görünüm arzu edilen kartvizit ya da davetiye gibi baskılarda, numaralandırma gerektiren form ve fatura benzeri belgelerin basımında ya da kabartma, çukurlaştırma, perfore gibi baskı sonlandırma işlemleri için kullanılmaktadır.
+    > **Açıklama:** Tipo Baskı ve Fleksografi: Geçmişi Orta Çağlardaki ahşap baskılara ve Gutenberg’in icadı olan baskı<br />makinesine kadar dayanan tipo baskı, klasik baskı yöntemlerinden biridir. Ofset baskının aksine, bu kez<br />mürekkep taşıyıcı yüzeyin baskı oluşturacak kısımları, baskının oluşmayacağı kısımlardan yüksektedir. Bu açıdan bakıldığında, hepimizin bildiği mühürlerin çalışma şekline benzer (Johansson, Lundberg, ve<br />Ryberg, 2012). Yüksek sayıdaki ticari baskı ihtiyaçları için çok elverişli olmayan tipo baskı yöntemi daha geleneksel bir görünüm arzu edilen kartvizit ya da davetiye gibi baskılarda, numaralandırma gerektiren form ve fatura benzeri belgelerin basımında ya da kabartma, çukurlaştırma, perfore gibi baskı sonlandırma işlemleri için kullanılmaktadır.
 
     <hr />
 1. Aşağıdaki şıklardan hangisi "serigrafi baskının çalışma yöntemini" açıklar?
@@ -1022,9 +942,7 @@
     - **Cevap D-) Kıvamlı bir mürekkebin, yönteme adını da veren ipek gibi gözenekli bir kalıptan geçerek, baskı yüzeyine aktarılması olarak özetlenebilir.**
     - E-) Elektriksel yüklenme kullanır. Baskı işlemi esnasında yoğunlaştırılmış ışınlar, silindirik bir tambura yansıtılır. Belli bir elektrik yüküne sahip olan bu tambur, lazer ışınlarının vurduğu alanlarda tersine bir elektrik yüküne sahip olur. Basılacak imaj, elektriksel biçimde oluşturulmuş olur. Elektriksel yüke sahip bir mürekkep olan toneri kendine çeker. Çekilen toner kâğıda aktarılır.
 
-    > **Açıklama:** Serigrafi baskının çalışma yöntemi, temelde kıvamlı bir mürekkebin, yönteme adını da veren ipek gibi
-    > gözenekli bir kalıptan geçerek, baskı yüzeyine aktarılması olarak özetlenebilir. Çok ince ve küçük gözenekli bir kumaş, çerçeveye gerilir. Her farklı baskı ve kimi zaman her bir farklı renk için ayrı ayrı
-    > hazırlanan bu çerçeveye, ışığa duyarlı emülsiyon yardımıyla baskı için kullanılacak imaj pozlandırılır. Pozlandırmanın ardından yapılan yıkama işlemi sonucunda baskı oluşturmayacak alanlardaki gözenekler emülsiyonun sertleşmesi ile tıkanır, baskı elde edilecek gözeneklerdeki emülsiyon akıp gider. Böylece baskıda kullanılacak kalıp hazırlanmış olur.
+    > **Açıklama:** Serigrafi baskının çalışma yöntemi, temelde kıvamlı bir mürekkebin, yönteme adını da veren ipek gibi<br />gözenekli bir kalıptan geçerek, baskı yüzeyine aktarılması olarak özetlenebilir. Çok ince ve küçük gözenekli bir kumaş, çerçeveye gerilir. Her farklı baskı ve kimi zaman her bir farklı renk için ayrı ayrı<br />hazırlanan bu çerçeveye, ışığa duyarlı emülsiyon yardımıyla baskı için kullanılacak imaj pozlandırılır. Pozlandırmanın ardından yapılan yıkama işlemi sonucunda baskı oluşturmayacak alanlardaki gözenekler emülsiyonun sertleşmesi ile tıkanır, baskı elde edilecek gözeneklerdeki emülsiyon akıp gider. Böylece baskıda kullanılacak kalıp hazırlanmış olur.
 
     <hr />
 1. Baskı için kullanılan kağıtların kabul edilmiş çeşitli boyut standartları bulunur. En yaygın kullanılanları ISO tarafından belirlenmiş olan ISO 216 standartlarıdır. Bu doğrultuda kağıt ve zarflar için tanımlanmış ev ve ofis tipi yazıcılarda sıklıkla kullanılan kağıtların ölçüleri aşağıdakilerden hangisidir?
@@ -1034,9 +952,7 @@
     - D-) B serisi, her kâğıt bir öncekinin yarı alanına sahiptir. Sayı küçüldükçe kâğıt ölçüsü küçülür.
     - **Cevap E-) A ve B serileri kağıtlar için, C serisi ise zarflar için tanımlanmıştır. A0, A1, A2, …, A10 şeklinde ilerleyen bu serilerde her kâğıt bir öncekinin yarı alanına sahiptir. Sayı küçüldükçe kâğıt ölçüsü büyür.**
 
-    > **Açıklama:** Baskı için kullanılan kağıtların dünya genelinde kabul edilmiş çeşitli boyut standartları bulunur. Bunlardan en yaygın kullanılanları ISO (International Organization for Standardization - Uluslararası Standartlar Teşkilatı) tarafından belirlenmiş olan ISO 216 standartlarıdır (Johansson, Lundberg ve Ryberg, 2012). A ve B serileri kağıtlar için, C serisi ise zarflar için tanımlanmıştır. A0, A1, A2, …, A10 şeklinde ilerleyen bu serilerde her kâğıt bir öncekinin yarı alanına sahiptir. Sayı küçüldükçe kâğıt ölçüsü büyür. Ev ve ofis tipi yazıcılarda ve fotokopi makinelerinde sıklıkla kullanılan A4 kağıtlar bu standart serinin en bilinen örneklerindendir.
-    > A ve B serileri kağıtlar için, C serisi ise zarflar için tanımlanmıştır. A0, A1, A2, …, A10 şeklinde ilerleyen bu serilerde her kâğıt bir öncekinin yarı alanına sahiptir. Sayı
-    > küçüldükçe kâğıt ölçüsü büyür
+    > **Açıklama:** Baskı için kullanılan kağıtların dünya genelinde kabul edilmiş çeşitli boyut standartları bulunur. Bunlardan en yaygın kullanılanları ISO (International Organization for Standardization - Uluslararası Standartlar Teşkilatı) tarafından belirlenmiş olan ISO 216 standartlarıdır (Johansson, Lundberg ve Ryberg, 2012). A ve B serileri kağıtlar için, C serisi ise zarflar için tanımlanmıştır. A0, A1, A2, …, A10 şeklinde ilerleyen bu serilerde her kâğıt bir öncekinin yarı alanına sahiptir. Sayı küçüldükçe kâğıt ölçüsü büyür. Ev ve ofis tipi yazıcılarda ve fotokopi makinelerinde sıklıkla kullanılan A4 kağıtlar bu standart serinin en bilinen örneklerindendir.<br />A ve B serileri kağıtlar için, C serisi ise zarflar için tanımlanmıştır. A0, A1, A2, …, A10 şeklinde ilerleyen bu serilerde her kâğıt bir öncekinin yarı alanına sahiptir. Sayı<br />küçüldükçe kâğıt ölçüsü büyür
 
     <hr />
 1. Kâğıt üzerinde fiziksel basınç ile oluşturulan kabartma etkisine ne ad verilir?
@@ -1056,10 +972,7 @@
     - D-) Piksellerden oluşturulan görüntülerdir. Pikseller bir araya gelerek fotoğraf gibi çok ayrıntılı görüntüleri oluşturabilen, çok büyük miktarda küçük renkli karelerdir.
     - E-) Dijital bir grafik dosyasının bilgisayar belleğinde kapladığı yer arttıkça bu dosyanın üretimi, işlenmesi ve görüntülenmesi sırasında harcanacak enerjinin asgari olması.
 
-    > **Açıklama:** Vektörel grafik: Vektör dosyaları, bir görüntü oluşturmak için ızgara üzerinde matematiksel denklemler,
-    > çizgiler ve eğriler kullanır. Bu dosyalarda piksel yoktur. Bir vektör dosyasının matematiksel formülleri
-    > görüntü oluşturmak için şekil, kenarlık ve dolgu rengini tanımlar. Bu formül her boyutta yeniden hesaplanabildiğinden vektör görüntülerini kaliteden ödün vermeden sınırsız şekilde büyütmek ya da küçültmek mümkündür (Adobe, 2022b).
-    > Bir görüntü oluşturmak için ızgara üzerinde matematiksel denklemler, çizgiler ve eğriler kullanır. Bu dosyalarda piksel yoktur. Dosya matematiksel formülleri görüntü oluşturmak için şekil, kenarlık ve dolgu rengini tanımlar.
+    > **Açıklama:** Vektörel grafik: Vektör dosyaları, bir görüntü oluşturmak için ızgara üzerinde matematiksel denklemler,<br />çizgiler ve eğriler kullanır. Bu dosyalarda piksel yoktur. Bir vektör dosyasının matematiksel formülleri<br />görüntü oluşturmak için şekil, kenarlık ve dolgu rengini tanımlar. Bu formül her boyutta yeniden hesaplanabildiğinden vektör görüntülerini kaliteden ödün vermeden sınırsız şekilde büyütmek ya da küçültmek mümkündür (Adobe, 2022b).<br />Bir görüntü oluşturmak için ızgara üzerinde matematiksel denklemler, çizgiler ve eğriler kullanır. Bu dosyalarda piksel yoktur. Dosya matematiksel formülleri görüntü oluşturmak için şekil, kenarlık ve dolgu rengini tanımlar.
 
     <hr />
 1. Vektörel grafik ile Raster grafik arasındaki fark nedir?
@@ -1069,11 +982,7 @@
     - D-) Vektör dosyaları, düşük çözünürlüğü olan dosyalardır. Raster grafik dosyaları, çok yüksek çözünürlükteki dosyaları içerir.
     - E-) Raster grafik dosyaları, bir görüntü oluşturmak için ızgara üzerinde matematiksel denklemler, çizgiler ve eğriler kullanır. Bu dosyalarda piksel yoktur. Vektör dosyaları, piksellerden oluşturulan görüntülerdir.
 
-    > **Açıklama:** Vektörel grafik: Vektör dosyaları, bir görüntü oluşturmak için ızgara üzerinde matematiksel denklemler,
-    > çizgiler ve eğriler kullanır. Bu dosyalarda piksel yoktur. Bir vektör dosyasının matematiksel formülleri
-    > görüntü oluşturmak için şekil, kenarlık ve dolgu rengini tanımlar. Bu formül her boyutta yeniden hesaplanabildiğinden vektör görüntülerini kaliteden ödün vermeden sınırsız şekilde büyütmek ya da küçültmek mümkündür (Adobe, 2022b).
-    > Raster grafik: Raster grafik dosyaları, piksellerden oluşturulan görüntülerdir. Pikseller bir araya gelerek fotoğraf gibi çok ayrıntılı görüntüleri oluşturabilen, çok büyük miktarda küçük renkli karelerdir. Bir görüntünün piksel sayısı ne kadar fazla olursa görüntü kalitesi ve dosya boyutu da o kadar yüksek olur (Adobe, 2022b)
-    > Vektör dosyaları, bir görüntü oluşturmak için ızgara üzerinde matematiksel denklemler, çizgiler ve eğriler kullanır. Bu dosyalarda piksel yoktur. Raster grafik dosyaları, piksellerden oluşturulan görüntülerdir.
+    > **Açıklama:** Vektörel grafik: Vektör dosyaları, bir görüntü oluşturmak için ızgara üzerinde matematiksel denklemler,<br />çizgiler ve eğriler kullanır. Bu dosyalarda piksel yoktur. Bir vektör dosyasının matematiksel formülleri<br />görüntü oluşturmak için şekil, kenarlık ve dolgu rengini tanımlar. Bu formül her boyutta yeniden hesaplanabildiğinden vektör görüntülerini kaliteden ödün vermeden sınırsız şekilde büyütmek ya da küçültmek mümkündür (Adobe, 2022b).<br />Raster grafik: Raster grafik dosyaları, piksellerden oluşturulan görüntülerdir. Pikseller bir araya gelerek fotoğraf gibi çok ayrıntılı görüntüleri oluşturabilen, çok büyük miktarda küçük renkli karelerdir. Bir görüntünün piksel sayısı ne kadar fazla olursa görüntü kalitesi ve dosya boyutu da o kadar yüksek olur (Adobe, 2022b)<br />Vektör dosyaları, bir görüntü oluşturmak için ızgara üzerinde matematiksel denklemler, çizgiler ve eğriler kullanır. Bu dosyalarda piksel yoktur. Raster grafik dosyaları, piksellerden oluşturulan görüntülerdir.
 
     <hr />
 1. Aşağıdaki şıklardan hangisi iklim değişikliği konusunda çalışmalar yapan My Climate organizasyonu dijital karbon ayak izini azaltmak için tüm bilgisayar ve internet kullanıcılarına önerdiklerinden birisi değildir?
@@ -1083,18 +992,7 @@
     - D-) Dosyaları mümkün olduğunca yerel olarak depolamak ve çevrimiçi depolama sağlayan bulut benzeri hizmetleri daha az kullanmak.
     - E-) Mobil internet bağlantısı yerine yerel ağ bağlantılarını tercih etmek
 
-    > **Açıklama:** İklim değişikliği konusunda çalışmalar yapan My Climate organizasyonu dijital karbon ayak
-    > izini azaltmak için tüm bilgisayar ve internet kullanıcılarına şunları önermektedir:
-    > • Video akışını (streaming) azaltmak. Video akışı evrensel veri trafiğinin yüzde 75’ini oluşturmakta,
-    > videonun görüntülendiği cihazın üretimi, internet ağ enerji tüketimi, sürece dâhil olan sürücüler
-    > ve videonun görüntülenmesi esnasında aracın kendi enerji tüketimi de hesaba katıldığında ne denli
-    > bir kaynak ve enerji tüketimi yaşandığı anlaşılmaktadır.
-    > • Cihazları daha uzun süre kullanmak.
-    > • Kullanılmayan elektronik cihazları doğru şekilde geri dönüşüme kazandırmak.
-    > • E-posta kutularını düzenli olarak boşaltarak gereksiz depolama alanı kullanımını engellemek.
-    > • Dosyaları mümkün olduğunca yerel olarak depolamak ve çevrimiçi depolama sağlayan bulut benzeri hizmetleri daha az kullanmak.
-    > • Mobil internet bağlantısı yerine yerel ağ bağlantılarını tercih etmek (Myclimate, 2022)
-    > E-posta kutularını her zaman dolu tutmak. Verileri masa üzerine kayıt etmemek.
+    > **Açıklama:** İklim değişikliği konusunda çalışmalar yapan My Climate organizasyonu dijital karbon ayak<br />izini azaltmak için tüm bilgisayar ve internet kullanıcılarına şunları önermektedir:<br />• Video akışını (streaming) azaltmak. Video akışı evrensel veri trafiğinin yüzde 75’ini oluşturmakta,<br />videonun görüntülendiği cihazın üretimi, internet ağ enerji tüketimi, sürece dâhil olan sürücüler<br />ve videonun görüntülenmesi esnasında aracın kendi enerji tüketimi de hesaba katıldığında ne denli<br />bir kaynak ve enerji tüketimi yaşandığı anlaşılmaktadır.<br />• Cihazları daha uzun süre kullanmak.<br />• Kullanılmayan elektronik cihazları doğru şekilde geri dönüşüme kazandırmak.<br />• E-posta kutularını düzenli olarak boşaltarak gereksiz depolama alanı kullanımını engellemek.<br />• Dosyaları mümkün olduğunca yerel olarak depolamak ve çevrimiçi depolama sağlayan bulut benzeri hizmetleri daha az kullanmak.<br />• Mobil internet bağlantısı yerine yerel ağ bağlantılarını tercih etmek (Myclimate, 2022)<br />E-posta kutularını her zaman dolu tutmak. Verileri masa üzerine kayıt etmemek.
 
     <hr />
 1. "Mantıklı bir düzen ve iyi tasarlanmış bir öncelik sıralaması, tasarımın algı etkisini artırır. Görünenden fazla bilgi ve mesajın profesyonel bir dil ve anlaşılır, hazmedilebilir, açıklayıcı bir biçimle görsel olarak tasarlanmasıdır. Başka bir değişle, dar bir alanda, kısa sürede, çok fazla bilgiyi verme işinin başarılmasıdır."<br />Yukarıda sözü edilen tanım aşağıdaki şıklardan hangisini tanımlamaktadır?
@@ -1104,9 +1002,7 @@
     - D-) Raster grafik
     - E-) Dijital baskı
 
-    > **Açıklama:** Mantıklı bir düzen ve iyi tasarlanmış bir öncelik sıralaması, tasarımın algı etkisini artırır. Bilgigrafi, görünenden fazla bilgi ve mesajın profesyonel bir dil ve anlaşılır, hazmedilebilir, açıklayıcı bir biçimle görsel olarak tasarlanmasıdır. İşte bu yüzden, maalesef çoğu kez az bir alanda pek çok bilgi verilmek durumunda kalınır. Başka bir değişle, dar bir alanda, kısa sürede, çok fazla bilgiyi verme işinin başarılmasıdır. Bu yüzden iyi bir bilgigrafi tasarımcısı, bir orkestra şefi gibi, her görsel elemanın ne
-    > işe yaradığını bilen ve bunları doğru zamanda, doğru tonda ve ritimde kullanmasını bilen kişidir (Uçar, 2019).
-    > Bibgigrafi
+    > **Açıklama:** Mantıklı bir düzen ve iyi tasarlanmış bir öncelik sıralaması, tasarımın algı etkisini artırır. Bilgigrafi, görünenden fazla bilgi ve mesajın profesyonel bir dil ve anlaşılır, hazmedilebilir, açıklayıcı bir biçimle görsel olarak tasarlanmasıdır. İşte bu yüzden, maalesef çoğu kez az bir alanda pek çok bilgi verilmek durumunda kalınır. Başka bir değişle, dar bir alanda, kısa sürede, çok fazla bilgiyi verme işinin başarılmasıdır. Bu yüzden iyi bir bilgigrafi tasarımcısı, bir orkestra şefi gibi, her görsel elemanın ne<br />işe yaradığını bilen ve bunları doğru zamanda, doğru tonda ve ritimde kullanmasını bilen kişidir (Uçar, 2019).<br />Bibgigrafi
 
     <hr />
 ## Unite 6
@@ -1117,11 +1013,7 @@
     - D-) Baskı
     - E-) Dağıtım
 
-    > **Açıklama:** Basılı grafik ürünler için üretim süreci en temel haliyle dört aşamaya ayrılır:
-    > • Tasarım
-    > • Uygulama
-    > • Baskı (Baskı öncesi hazırlık, baskı, baskı sonlandırma ve ciltleme)
-    > • Dağıtım
+    > **Açıklama:** Basılı grafik ürünler için üretim süreci en temel haliyle dört aşamaya ayrılır:<br />• Tasarım<br />• Uygulama<br />• Baskı (Baskı öncesi hazırlık, baskı, baskı sonlandırma ve ciltleme)<br />• Dağıtım
 
     <hr />
 1. Aşağıdakilerden hangisi tasarımın özünü ifade eder?
@@ -1151,8 +1043,7 @@
     - D-) Görseller ve Metin
     - E-) Uygulama
 
-    > **Açıklama:** Sayfa düzeni ya da diğer bir deyişle yerleşim, tasarımda kullanılacak olan tüm elemanların tasarım yüzeyinde bir araya getirilmesidir. Kullanılacak görsel elemanların boyutu, konumu ve birbirleriyle
-    > olan ilişkileri tasarımın verdiği mesajın algılanma şekli üzerinde büyük etkiye sahiptir. Renk bilgisi, kompozisyon kuralları gibi temel tasarım ilkeleri ışığında tasarlanmış bir sayfa düzeni mesajın alıcıya yani hedef kitleye etkili biçimde ulaşmasını sağlar.
+    > **Açıklama:** Sayfa düzeni ya da diğer bir deyişle yerleşim, tasarımda kullanılacak olan tüm elemanların tasarım yüzeyinde bir araya getirilmesidir. Kullanılacak görsel elemanların boyutu, konumu ve birbirleriyle<br />olan ilişkileri tasarımın verdiği mesajın algılanma şekli üzerinde büyük etkiye sahiptir. Renk bilgisi, kompozisyon kuralları gibi temel tasarım ilkeleri ışığında tasarlanmış bir sayfa düzeni mesajın alıcıya yani hedef kitleye etkili biçimde ulaşmasını sağlar.
 
     <hr />
 1. Aşağıdakilerden hangisi yüksek baskı tekniklerinden biridir?
@@ -1192,8 +1083,7 @@
     - D-) Selefon kaplama
     - **Cevap E-) Sayfa düzeni**
 
-    > **Açıklama:** Baskı sonlandırma ifadesi söz konusu basılı materyalin baskısı tamamlandıktan sonra bir tasarıma son dokunuşları sağlayan çok çeşitli işlemleri kapsar. Bu işlemler arasında tıraşlama, ciltleme,
-    > selefon kaplama, yaldız baskı uygulama, kabartma gibi çok farklı seçenekler bulunur.
+    > **Açıklama:** Baskı sonlandırma ifadesi söz konusu basılı materyalin baskısı tamamlandıktan sonra bir tasarıma son dokunuşları sağlayan çok çeşitli işlemleri kapsar. Bu işlemler arasında tıraşlama, ciltleme,<br />selefon kaplama, yaldız baskı uygulama, kabartma gibi çok farklı seçenekler bulunur.
 
     <hr />
 1. Aşağıdakilerden hangisi bir ürünün sürdürülebilir kabul edilmesinde gerekli koşullardan biri değildir?
@@ -1203,13 +1093,7 @@
     - **Cevap D-) Tüm tedarik zincirinin ve ilgili şirketlerin çevresel etkisini önemsememek**
     - E-) Tüm malzemelerin nereden temin edildiğini belirleyip, daha iyi alternatiflerin mevcut olup olmadığını tespit etmek
 
-    > **Açıklama:** Bir malzemenin ya da ürünün sürdürülebilir kabul edilebilmesi için sağlanması gereken koşullar şunlardır:
-    > • Geri dönüştürülmüş malzemelerin, kirletici içermeyen ya da daha az içeren malzemeler gibi daha az zararlı alternatiflerle değiştirilip değiştirilemeyeceklerini görmek için üretimde kullanılan tüm hammaddeleri değerlendirmek,
-    > • Nihai üründeki her malzemenin geri dönüştürülebilirliğini kontrol etmek,
-    > • Üretim sürecinde minimum israf ve çevresel etkiyi hedeflemek,
-    > • Tüm tedarik zincirinin ve ilgili şirketlerin çevresel etkisini incelemek,
-    > • Sera gazı emisyonlarını azaltmak için taşınabilirliği iyileştirmenin yollarını bulmak,
-    > • Tüm malzemelerin nereden temin edildiğini belirleyip, daha iyi alternatiflerin mevcut olup olmadığını tespit etmek.
+    > **Açıklama:** Bir malzemenin ya da ürünün sürdürülebilir kabul edilebilmesi için sağlanması gereken koşullar şunlardır:<br />• Geri dönüştürülmüş malzemelerin, kirletici içermeyen ya da daha az içeren malzemeler gibi daha az zararlı alternatiflerle değiştirilip değiştirilemeyeceklerini görmek için üretimde kullanılan tüm hammaddeleri değerlendirmek,<br />• Nihai üründeki her malzemenin geri dönüştürülebilirliğini kontrol etmek,<br />• Üretim sürecinde minimum israf ve çevresel etkiyi hedeflemek,<br />• Tüm tedarik zincirinin ve ilgili şirketlerin çevresel etkisini incelemek,<br />• Sera gazı emisyonlarını azaltmak için taşınabilirliği iyileştirmenin yollarını bulmak,<br />• Tüm malzemelerin nereden temin edildiğini belirleyip, daha iyi alternatiflerin mevcut olup olmadığını tespit etmek.
 
     <hr />
 1. Aşağıdakilerden hangisi grafik üretim süreçlerinde meydana gelen sıvı atıklardan biridir?
@@ -1219,8 +1103,7 @@
     - D-) Eskizler
     - E-) Kumaşlar
 
-    > **Açıklama:** Grafik üretim süreçlerinde oluşan sıvı atıkların çoğunluğunu baskı aşamalarında kimyasal maddelerin
-    > kullanımına bağlı olarak açığa çıkan atık nemlendirme ve temizleme solüsyonları, birçok farklı amaçla kullanılan solventler, kalıpların banyo kimyasalları ve suları, makine temizliğinde kullanılan temizleyiciler ve mürekkep artıkları oluşturur. Başta solvent olmak üzere hem sağlığa zararlı hem de çevreye zarar verme riski taşıyan bu kimyasal atıkların uygun şekilde ortadan kaldırılması sürdürülebilirlik ve çevre bilinci açısından kritik öneme sahiptir.
+    > **Açıklama:** Grafik üretim süreçlerinde oluşan sıvı atıkların çoğunluğunu baskı aşamalarında kimyasal maddelerin<br />kullanımına bağlı olarak açığa çıkan atık nemlendirme ve temizleme solüsyonları, birçok farklı amaçla kullanılan solventler, kalıpların banyo kimyasalları ve suları, makine temizliğinde kullanılan temizleyiciler ve mürekkep artıkları oluşturur. Başta solvent olmak üzere hem sağlığa zararlı hem de çevreye zarar verme riski taşıyan bu kimyasal atıkların uygun şekilde ortadan kaldırılması sürdürülebilirlik ve çevre bilinci açısından kritik öneme sahiptir.
 
     <hr />
 1. Para ve tahvil benzeri değerli evrak gibi çok yüksek sayılarda basılacak olan ve kusursuz bir baskı kalitesinin gerektiği baskı tekniği aşağıdakilerden hangisidir?
@@ -1431,18 +1314,7 @@
     - D-) Ambalaj içinde bulundurduğu ürünün ve o ürünü üreten markanın müşterileri ile iletişim kurabilmelidir.
     - E-) Ambalaj koruma ve bilgilendirme işlevini yerine getirebilmelidir.
 
-    > **Açıklama:** Ambalaj yükleme, depolama ve taşıma sırasında
-    > ürünü koruyacak şekilde ürüne koruyucu ve bil
-    > gilendirici bir kaplama sağlama sürecidir. Ayrıca
-    > koruduğu ürünün içeriği hakkında ilgili tüm ta
-    > raflara (nakliyeci, toptancı, perakendeci, alıcı vb.)
-    > faydalı bilgiler sağlamayı amaçlar. İyi bir ambalaj
-    > tasarımının işlevleri korumak ve bilgilendirmekle
-    > sınırlı değildir. Ambalaj aynı zamanda içinde bu
-    > lundurduğu ürünün ve o ürünü üreten markanın
-    > müşterileri ya da potansiyel müşterileri ile iletişim
-    > kurma aracıdır. Bu özelliğiyle ambalajların ürünün
-    > ya da markanın “yüzü” olduğu söylenebilir.
+    > **Açıklama:** Ambalaj yükleme, depolama ve taşıma sırasında<br />ürünü koruyacak şekilde ürüne koruyucu ve bil<br />gilendirici bir kaplama sağlama sürecidir. Ayrıca<br />koruduğu ürünün içeriği hakkında ilgili tüm ta<br />raflara (nakliyeci, toptancı, perakendeci, alıcı vb.)<br />faydalı bilgiler sağlamayı amaçlar. İyi bir ambalaj<br />tasarımının işlevleri korumak ve bilgilendirmekle<br />sınırlı değildir. Ambalaj aynı zamanda içinde bu<br />lundurduğu ürünün ve o ürünü üreten markanın<br />müşterileri ya da potansiyel müşterileri ile iletişim<br />kurma aracıdır. Bu özelliğiyle ambalajların ürünün<br />ya da markanın “yüzü” olduğu söylenebilir.
 
     <hr />
 1. Ambalaj tasarımında önemli ölçüde dikkate alınması gereken bilgilendirme kriterinin işlevini yerine getirebilmesi için gerekli unsurlar nelerdir?
@@ -1472,11 +1344,7 @@
     - D-) Kolaylık sağlama
     - E-) Kapsama
 
-    > **Açıklama:** İyi bir ambalajın hangi özelliklere sahip olması gerektiği sorusunun ardından ambalajın hangi işlevlere sahip olması gerektiği sorusu gelir. Bu soruya verilebilecek çok sayıda cevap olmakla birlikte aşağıda sıralanan şu dört işlev bir ambalajın yerine getirmesi gereken en temel vazifeleri özetleyecektir:
-    > 1\. Koruma
-    > 2\. Bir araya getirme
-    > 3\. Kolaylık sağlama
-    > 4\. Kapsama
+    > **Açıklama:** İyi bir ambalajın hangi özelliklere sahip olması gerektiği sorusunun ardından ambalajın hangi işlevlere sahip olması gerektiği sorusu gelir. Bu soruya verilebilecek çok sayıda cevap olmakla birlikte aşağıda sıralanan şu dört işlev bir ambalajın yerine getirmesi gereken en temel vazifeleri özetleyecektir:<br />1\. Koruma<br />2\. Bir araya getirme<br />3\. Kolaylık sağlama<br />4\. Kapsama
 
     <hr />
 1. Ambalajlar neye göre sınıflandırılır?
@@ -1516,8 +1384,7 @@
     - D-) II, III, IV, V
     - **Cevap E-) I, II, III, IV. V**
 
-    > **Açıklama:** Ambalajlama için kullanılan malzemelerle bu malzemelerin üretim – dağıtım süreçlerinin çevre ve
-    > insan sağlığı üzerindeki olumsuz etkileri; sınırlı doğal kaynakların sarfiyatı, üretim aşamasında yapılan enerji tüketimi, üretim işlemleri esnasında ortaya çıkan zehirli atıkların oluşturduğu hava ve su kirliliği, hammaddenin ya da ürünün taşınması için ihtiyaç duyulan enerji ihtiyacı ve ambalajların işlevini tamamlamasıyla oluşan atıkların yarattığı çevre kirliliği olarak sınıflandırılabilir.
+    > **Açıklama:** Ambalajlama için kullanılan malzemelerle bu malzemelerin üretim – dağıtım süreçlerinin çevre ve<br />insan sağlığı üzerindeki olumsuz etkileri; sınırlı doğal kaynakların sarfiyatı, üretim aşamasında yapılan enerji tüketimi, üretim işlemleri esnasında ortaya çıkan zehirli atıkların oluşturduğu hava ve su kirliliği, hammaddenin ya da ürünün taşınması için ihtiyaç duyulan enerji ihtiyacı ve ambalajların işlevini tamamlamasıyla oluşan atıkların yarattığı çevre kirliliği olarak sınıflandırılabilir.
 
     <hr />
 1. Ambalajlama için kullanılan malzemelerle bu<br />malzemelerin üretim – dağıtım süreçlerinin çevre ve<br />insan sağlığı üzerindeki olumsuz etkileri sıralandığında;<br />I- sınırlı doğal kaynakların sarfiyatı,<br />II- üretim aşamasında yapılan enerji tüketimi,<br />III- üretim işlemleri esnasında ortaya çıkan zehirli atıkların oluşturduğu hava ve su kirliliği,<br />IV-hammaddenin ya da ürünün taşınması için ihtiyaç duyulan enerji ihtiyacı,<br />V- ambalajların işlevini tamamlamasıyla oluşan atıkların yarattığı çevre kirliliği olarak sınıflandırılabilir<br />Yukarıdakilerden hangileri doğru ifadeyi oluşturur?
@@ -1527,16 +1394,7 @@
     - **Cevap D-) I, II, III, IV, V**
     - E-) I, III, V
 
-    > **Açıklama:** Ambalajlama için kullanılan malzemelerle bu
-    > malzemelerin üretim – dağıtım süreçlerinin çevre ve
-    > insan sağlığı üzerindeki olumsuz etkileri; sınırlı do
-    > ğal kaynakların sarfiyatı, üretim aşamasında yapılan
-    > enerji tüketimi, üretim işlemleri esnasında ortaya çı
-    > kan zehirli atıkların oluşturduğu hava ve su kirliliği,
-    > hammaddenin ya da ürünün taşınması için ihtiyaç
-    > duyulan enerji ihtiyacı ve ambalajların işlevini ta
-    > mamlamasıyla oluşan atıkların yarattığı çevre kirli
-    > liği olarak sınıflandırılabilir.
+    > **Açıklama:** Ambalajlama için kullanılan malzemelerle bu<br />malzemelerin üretim – dağıtım süreçlerinin çevre ve<br />insan sağlığı üzerindeki olumsuz etkileri; sınırlı do<br />ğal kaynakların sarfiyatı, üretim aşamasında yapılan<br />enerji tüketimi, üretim işlemleri esnasında ortaya çı<br />kan zehirli atıkların oluşturduğu hava ve su kirliliği,<br />hammaddenin ya da ürünün taşınması için ihtiyaç<br />duyulan enerji ihtiyacı ve ambalajların işlevini ta<br />mamlamasıyla oluşan atıkların yarattığı çevre kirli<br />liği olarak sınıflandırılabilir.
 
     <hr />
 1. Bir ambalajın yerine getirmesi gereken en temel işlevler hangileridir?
@@ -1546,12 +1404,7 @@
     - D-) Satışı artırma, pazarlama, depolama, kullanım kolaylığı
     - E-) Stoklama, içeriği koruma, dayanıklılık, marka bilinirliği
 
-    > **Açıklama:** Ambalajın İşlevleri
-    > İyi bir ambalajın hangi özelliklere sahip olması gerektiği sorusunun ardından ambalajın hangi işlevlere sahip olması gerektiği sorusu gelir. Bu soruya verilebilecek çok sayıda cevap olmakla birlikte aşağıda sıralanan şu dört işlev bir ambalajın yerine getirmesi gereken en temel vazifeleri özetleyecektir:
-    > 1\. Koruma
-    > 2\. Bir araya getirme
-    > 3\. Kolaylık sağlama
-    > 4\. Kapsama
+    > **Açıklama:** Ambalajın İşlevleri<br />İyi bir ambalajın hangi özelliklere sahip olması gerektiği sorusunun ardından ambalajın hangi işlevlere sahip olması gerektiği sorusu gelir. Bu soruya verilebilecek çok sayıda cevap olmakla birlikte aşağıda sıralanan şu dört işlev bir ambalajın yerine getirmesi gereken en temel vazifeleri özetleyecektir:<br />1\. Koruma<br />2\. Bir araya getirme<br />3\. Kolaylık sağlama<br />4\. Kapsama
 
     <hr />
 1. Ambalaj tasarımında sürdürülebilirliğe en çok etki eden özelliklerin başında yer alan unsur nedir?
@@ -1561,14 +1414,7 @@
     - **Cevap D-) Malzeme**
     - E-) Format
 
-    > **Açıklama:** Ambalaj da dâhil olmak üzere tüm basılı grafik
-    > ürünlerin sürdürülebilirliğinde rol oynayan pek çok
-    > unsur bulunmaktadır. Üretim yöntemi, mürekkep,
-    > format ya da ölçü gibi nitelikler basılı grafik ürün
-    > lerin ne denli sürdürülebilir olduğunu belirlemede
-    > etkilidir. Ancak konu ambalaj tasarımı olduğunda
-    > sürdürülebilirliğe en çok etki eden özelliklerin başın
-    > da malzeme gelir.
+    > **Açıklama:** Ambalaj da dâhil olmak üzere tüm basılı grafik<br />ürünlerin sürdürülebilirliğinde rol oynayan pek çok<br />unsur bulunmaktadır. Üretim yöntemi, mürekkep,<br />format ya da ölçü gibi nitelikler basılı grafik ürün<br />lerin ne denli sürdürülebilir olduğunu belirlemede<br />etkilidir. Ancak konu ambalaj tasarımı olduğunda<br />sürdürülebilirliğe en çok etki eden özelliklerin başın<br />da malzeme gelir.
 
     <hr />
 1. Organik ya da inorganik yeni kaynak ihtiyacını ve üretimde harcanan enerji miktarını<br />düşürmenin, atıkların oluşturduğu çevresel ve sağlık tehdidini azaltmanın en basit yolu nedir?
@@ -1598,12 +1444,7 @@
     - D-) Satışı artırma, pazarlama, depolama, kullanım kolaylığı
     - E-) Stoklama, içeriği koruma, dayanıklılık, marka bilinirliği
 
-    > **Açıklama:** Ambalajın İşlevleri
-    > İyi bir ambalajın hangi özelliklere sahip olması gerektiği sorusunun ardından ambalajın hangi işlevlere sahip olması gerektiği sorusu gelir. Bu soruya verilebilecek .ok sayıda cevap olmakla birlikte aşağıda sıralanan şu dört işlev bir ambalajın yerine getirmesi gereken en temel vazifeleri özetleyecektir:
-    > 1\. Koruma
-    > 2\. Bir araya getirme
-    > 3\. Kolaylık sağlama
-    > 4\. Kapsama
+    > **Açıklama:** Ambalajın İşlevleri<br />İyi bir ambalajın hangi özelliklere sahip olması gerektiği sorusunun ardından ambalajın hangi işlevlere sahip olması gerektiği sorusu gelir. Bu soruya verilebilecek .ok sayıda cevap olmakla birlikte aşağıda sıralanan şu dört işlev bir ambalajın yerine getirmesi gereken en temel vazifeleri özetleyecektir:<br />1\. Koruma<br />2\. Bir araya getirme<br />3\. Kolaylık sağlama<br />4\. Kapsama
 
     <hr />
 ## Unite 8
@@ -1614,8 +1455,7 @@
     - D-) Ölçüleri doğru kullanarak tasarımını kağıttan fire vermeyecek şekilde oluşturabilir.
     - E-) Kağıt üreticilerine ve matbaalara baskı yaparak çevreye daha az zarar verecek ürünlerin ön plana çıkarılmasını sağlayabilir.
 
-    > **Açıklama:** Kâğıdı hem tüketen hem de tüketimini yönlendiren grafik tasarımcının konu hakkında bilinç sahibi
-    > olması, özellikle son üründe ciddi farklar yaratabilir. Sürdürülebilir dünya görüşüne sahip olan grafik tasarımcı; hangi ürünün kağıt üzerinde hangisinin dijital ortamda iş göreceğini bilir, seçtiği kağıt için daha çevre dostu alternatifleri araştırabilir, ölçüleri doğru kullanarak tasarımını kağıttan fire vermeyecek şekilde oluşturabilir, kağıt kullanımına yönelik müşterisine yapacağı uyarılarla firmanın imajını destekleyebilir, kağıt üreticileri ve matbaalar gibi ortaklaşa çalıştığı iş sektörlerine baskı yaparak çevreye daha az zarar verecek ürünlerin ön plana çıkarılmasını sağlayabilir.
+    > **Açıklama:** Kâğıdı hem tüketen hem de tüketimini yönlendiren grafik tasarımcının konu hakkında bilinç sahibi<br />olması, özellikle son üründe ciddi farklar yaratabilir. Sürdürülebilir dünya görüşüne sahip olan grafik tasarımcı; hangi ürünün kağıt üzerinde hangisinin dijital ortamda iş göreceğini bilir, seçtiği kağıt için daha çevre dostu alternatifleri araştırabilir, ölçüleri doğru kullanarak tasarımını kağıttan fire vermeyecek şekilde oluşturabilir, kağıt kullanımına yönelik müşterisine yapacağı uyarılarla firmanın imajını destekleyebilir, kağıt üreticileri ve matbaalar gibi ortaklaşa çalıştığı iş sektörlerine baskı yaparak çevreye daha az zarar verecek ürünlerin ön plana çıkarılmasını sağlayabilir.
 
     <hr />
 1. Komünist ideolojiyi savunan Grapus grubu ne zaman hangi ülkede kurulmuştur?
@@ -1645,13 +1485,7 @@
     - D-) Tasarımcı, bir projenin tamamlanmasından önce devam eden tüm çalışmaları ve müşteri hakkındaki bilgileri tutacak ve müşterinin rızası olmadan bu bilgileri hiçbir şekilde ifşa etmeyecektir.
     - E-) Müşteri veya işverenden gelen, tasarımcının etik standartlarının ihlalini içeren talimatlar, tasarımcı tarafından düzeltilmelidir.
 
-    > **Açıklama:** **Tasarımcının Müşterilere Karşı Sorumluluğu Şunlardır:**
-    > a. Tasarımc**ı, müşterinin iş ve tasarım standa**rtları hakkında bilgi sahibi olacak ve mesleki sorumluluk sınırları dâhilinde müşterinin çıkarlarına en uygun şekilde hareket edecektir.
-    > b. T**asarımcı, ilgili müşterileri**n veya **işverenlerin** anlaşması olmadan çıkar çatışması yaratan görevlerde aynı anda çalışmayacaktır.
-    > c. **Tasarımcı, bir projenin t**amamlanmasından önce devam eden tüm çalışmaları ve müşteri hakkındaki bilgileri tutacak ve müşterinin rızası olmadan bu bilgileri hiçbir şekilde ifşa etmeyecektir. Tüm personelin buna göre hareket etmesini sağlamak, tasarımcının sorumluluğundadır.
-    > d. **Müşteri veya** işverenden gelen, tasarımcının etik standartlarının ihlalini içeren talimatlar, tasarımcı tarafından düzeltilmelidir veya reddetmelidir.
-    > **Tasarımcının Diğer Tasarımcılara Karşı Sorumluluğu:**
-    > **c. Tasarımcı, etik olmayan teşviklerle doğrudan veya dolaylı olarak başka bir tasarımcının yerini almaya veya onunla rekabet etmeye çalışmamalıdır.**
+    > **Açıklama:** **Tasarımcının Müşterilere Karşı Sorumluluğu Şunlardır:** <br />a. Tasarımc**ı, müşterinin iş ve tasarım standa**rtları hakkında bilgi sahibi olacak ve mesleki sorumluluk sınırları dâhilinde müşterinin çıkarlarına en uygun şekilde hareket edecektir.<br />b. T**asarımcı, ilgili müşterileri**n veya **işverenlerin** anlaşması olmadan çıkar çatışması yaratan görevlerde aynı anda çalışmayacaktır.<br />c. **Tasarımcı, bir projenin t**amamlanmasından önce devam eden tüm çalışmaları ve müşteri hakkındaki bilgileri tutacak ve müşterinin rızası olmadan bu bilgileri hiçbir şekilde ifşa etmeyecektir. Tüm personelin buna göre hareket etmesini sağlamak, tasarımcının sorumluluğundadır.<br />d. **Müşteri veya** işverenden gelen, tasarımcının etik standartlarının ihlalini içeren talimatlar, tasarımcı tarafından düzeltilmelidir veya reddetmelidir.<br />**Tasarımcının Diğer Tasarımcılara Karşı Sorumluluğu:**<br />**c. Tasarımcı, etik olmayan teşviklerle doğrudan veya dolaylı olarak başka bir tasarımcının yerini almaya veya onunla rekabet etmeye çalışmamalıdır.**
 
     <hr />
 1. Aşağıdakilerden hangisi tasarımcının halka karşı sorumluluğundan biridir?
@@ -1661,12 +1495,7 @@
     - D-) Müşteri veya işverenden gelen, tasarımcının etik standartlarının ihlalini içeren talimatlar, tasarımcı tarafından düzeltilmelidir.
     - E-) Tasarımcı, müşterinin iş ve tasarım standartları hakkında bilgi sahibi olacak ve mesleki sorumluluk sınırları dâhilinde müşterinin çıkarlarına en uygun şekilde hareket edecektir.
 
-    > **Açıklama:** Tasarımcının Halka Karşı Sorumluluğu:
-    > a. Tasarımcı, halka zarar verecek projelerden kaçınmalıdır.
-    > b. Tasarımcı, her durumda ve her zaman gerçeği iletmelidir; çalışmaları yanlış iddialarda bulunmamalı veya bilerek yanlış bilgi vermemelidir. Profesyonel tasarımcı, her
-    > türlü iletişim tasarımında mesajları açık bir şekilde temsil etmeli ve yanlış, yanıltıcı ve
-    > aldatıcı tanıtımlardan kaçınmalıdır.
-    > c. Tasarımcı, tüm izleyicilerin onuruna ve bireysel farklılıklara saygı göstermeli, insanları veya insan gruplarını olumsuz, insanlıktan çıkarıcı bir şekilde tasvir etmekten veya klişeleştirmekten kaçınmalıdır. Profesyonel bir tasarımcı, kültürel değerlere ve inançlara duyarlı olmaya çalışmalı ve karşılıklı anlayışı teşvik eden ve cesaretlendiren adil ve dengeli iletişim tasarımı geliştirmelidir.
+    > **Açıklama:** Tasarımcının Halka Karşı Sorumluluğu:<br />a. Tasarımcı, halka zarar verecek projelerden kaçınmalıdır.<br />b. Tasarımcı, her durumda ve her zaman gerçeği iletmelidir; çalışmaları yanlış iddialarda bulunmamalı veya bilerek yanlış bilgi vermemelidir. Profesyonel tasarımcı, her<br />türlü iletişim tasarımında mesajları açık bir şekilde temsil etmeli ve yanlış, yanıltıcı ve<br />aldatıcı tanıtımlardan kaçınmalıdır.<br />c. Tasarımcı, tüm izleyicilerin onuruna ve bireysel farklılıklara saygı göstermeli, insanları veya insan gruplarını olumsuz, insanlıktan çıkarıcı bir şekilde tasvir etmekten veya klişeleştirmekten kaçınmalıdır. Profesyonel bir tasarımcı, kültürel değerlere ve inançlara duyarlı olmaya çalışmalı ve karşılıklı anlayışı teşvik eden ve cesaretlendiren adil ve dengeli iletişim tasarımı geliştirmelidir.
 
     <hr />
 1. Aşağıdakilerden hangisi tasarımcının topluma ve çevreye karşı sorumluluğundan biri değildir?
@@ -1676,15 +1505,7 @@
     - D-) Tasarımcı, ifade özgürlüğü, toplanma özgürlüğü ve açık fikir pazarına erişim ilkelerini anlamaya ve desteklemeye çalışmalı ve buna göre hareket etmelidir.
     - **Cevap E-) Tasarımcı, başka bir tasarımcının çalışmasını eleştirirken objektif ve dengeli olmalı ve bir tasarımcı meslektaşının eserini veya itibarını karalamamalıdır.**
 
-    > **Açıklama:** Tasarımcının Topluma ve Çevreye Karşı Sorumluluğu:
-    > Tasarımcı, uygulama ya da tasarım eğitiminde, içinde yaşadığı toplulukların sağlık, güvenlik ya da mahremiyetini kasıtlı ve pervasız bir şekilde göz ardı eden herhangi bir şeyi bilerek ve isteyerek yapmayacaktır. Profesyonel tasarımcı; insanların görsel tasvirinde, doğal kaynakların tüketiminde,
-    > hayvanların ve çevrenin korunmasında sorumlu bir rol üstlenmelidir.
-    > b. Tasarımcı, zamanının yüzde beşini, topluma hizmet eden ve insan deneyimini geliştiren, kamu yararı gözeten projelere katkıda bulunmaya ayırmalıdır.
-    > c. Tasarımcı, yaptığı işin çevresel, ekonomik, sosyal ve kültürel sonuçlarını dikkate almalı ve olumsuz etkileri en aza indirmelidir.
-    > d. Tasarımcı, başka bir kişinin veya grubun insan haklarının veya mülkiyet haklarının ihlalini içeren talimatları, söz konusu diğer kişi veya grubun izni olmadan bilerek kabul etmeyecek veya bu tür ihlalleri içeren herhangi bir bilinçli eylemde bulunmayacaktır.
-    > e. Tasarımcı, imalatçılar, tedarikçiler veya üstlenici tarafından sunulan ve müşterisinin, toplumun veya çevrenin çıkarlarına zarar veren mal veya hizmetleri bilerek kullanamaz.
-    > f. Tasarımcı, ırk, cinsiyet, yaş, din, ulusal köken, cinsel yönelim veya engellilik temelinde ayrımcılık yapmayı reddetmeli veya bu ayrımcılığı desteklememelidir.
-    > g. Tasarımcı, ifade özgürlüğü, toplanma özgürlüğü ve açık fikir pazarına erişim ilkelerini anlamaya ve desteklemeye çalışmalı ve buna göre hareket etmelidir.
+    > **Açıklama:** Tasarımcının Topluma ve Çevreye Karşı Sorumluluğu:<br />Tasarımcı, uygulama ya da tasarım eğitiminde, içinde yaşadığı toplulukların sağlık, güvenlik ya da mahremiyetini kasıtlı ve pervasız bir şekilde göz ardı eden herhangi bir şeyi bilerek ve isteyerek yapmayacaktır. Profesyonel tasarımcı; insanların görsel tasvirinde, doğal kaynakların tüketiminde,<br />hayvanların ve çevrenin korunmasında sorumlu bir rol üstlenmelidir.<br />b. Tasarımcı, zamanının yüzde beşini, topluma hizmet eden ve insan deneyimini geliştiren, kamu yararı gözeten projelere katkıda bulunmaya ayırmalıdır.<br />c. Tasarımcı, yaptığı işin çevresel, ekonomik, sosyal ve kültürel sonuçlarını dikkate almalı ve olumsuz etkileri en aza indirmelidir.<br />d. Tasarımcı, başka bir kişinin veya grubun insan haklarının veya mülkiyet haklarının ihlalini içeren talimatları, söz konusu diğer kişi veya grubun izni olmadan bilerek kabul etmeyecek veya bu tür ihlalleri içeren herhangi bir bilinçli eylemde bulunmayacaktır.<br />e. Tasarımcı, imalatçılar, tedarikçiler veya üstlenici tarafından sunulan ve müşterisinin, toplumun veya çevrenin çıkarlarına zarar veren mal veya hizmetleri bilerek kullanamaz.<br />f. Tasarımcı, ırk, cinsiyet, yaş, din, ulusal köken, cinsel yönelim veya engellilik temelinde ayrımcılık yapmayı reddetmeli veya bu ayrımcılığı desteklememelidir.<br />g. Tasarımcı, ifade özgürlüğü, toplanma özgürlüğü ve açık fikir pazarına erişim ilkelerini anlamaya ve desteklemeye çalışmalı ve buna göre hareket etmelidir.
 
     <hr />
 1. Aşağıdakilerden hangisi sürdürülebilir olmayan bir firmanın çevre dostu olduğunu iddia eden uygulamalarına verilen bir isimdir?
@@ -1764,10 +1585,7 @@
     - D-) Sahiplik
     - **Cevap E-) Tasarımcının Diğer Tasarımcılara Karşı Sorumluluğu**
 
-    > **Açıklama:** AIGA’nın mesleki standartları:
-    > Tasarımcının Diğer Tasarımcılara Karşı Sorumluluğu:
-    > **a. İş olanaklarını takip eden tasarımcılar, adil ve açık rekabeti desteklemelidir.** b. Profesyonel tasarımcı, başka bir tasarımcının üzerinde çalıştığı veya çalışmakta olduğu herhangi bir profesyonel görevi bilerek kabul etmeyecektir. c. Tasarımcı, etik olmayan teşviklerle doğrudan veya dolaylı olarak başka bir tasarımcının yerini almaya veya onunla rekabet etmeye çalışmamalıdır. d. Tasarımcı, başka bir tasarımcının çalışmasını eleştirirken objektif ve dengeli olmalı ve bir tasarımcı meslektaşının eserini veya itibarını karalamamalıdır. e. Tasarımcı, başka bir kişinin mülkiyet haklarının izinsiz olarak ihlal edilmesini içerentalimatları kabul etmeyecek veya bu tür ihlalleri içeren çalışmalar içinde bilinçli olarak yer almayacaktır. f. Kendi ülkesinden başka bir ülkede çalışan profesyonel bir tasarımcı, ilgili ulusal toplumun davranış kurallarına uyacaktır.
-    > Mesleki Uygulama Standartları; Tasarımcının Diğer Tasarımcılara Karşı Sorumluluğu: a. İş olanaklarını takip eden tasarımcılar, adil ve açık rekabeti desteklemelidir.
+    > **Açıklama:** AIGA’nın mesleki standartları:<br />Tasarımcının Diğer Tasarımcılara Karşı Sorumluluğu:<br />**a. İş olanaklarını takip eden tasarımcılar, adil ve açık rekabeti desteklemelidir.** b. Profesyonel tasarımcı, başka bir tasarımcının üzerinde çalıştığı veya çalışmakta olduğu herhangi bir profesyonel görevi bilerek kabul etmeyecektir. c. Tasarımcı, etik olmayan teşviklerle doğrudan veya dolaylı olarak başka bir tasarımcının yerini almaya veya onunla rekabet etmeye çalışmamalıdır. d. Tasarımcı, başka bir tasarımcının çalışmasını eleştirirken objektif ve dengeli olmalı ve bir tasarımcı meslektaşının eserini veya itibarını karalamamalıdır. e. Tasarımcı, başka bir kişinin mülkiyet haklarının izinsiz olarak ihlal edilmesini içerentalimatları kabul etmeyecek veya bu tür ihlalleri içeren çalışmalar içinde bilinçli olarak yer almayacaktır. f. Kendi ülkesinden başka bir ülkede çalışan profesyonel bir tasarımcı, ilgili ulusal toplumun davranış kurallarına uyacaktır.<br />Mesleki Uygulama Standartları; Tasarımcının Diğer Tasarımcılara Karşı Sorumluluğu: a. İş olanaklarını takip eden tasarımcılar, adil ve açık rekabeti desteklemelidir.
 
     <hr />
 1. Grafik tasarımda özgün bir çalışma yapmak yerine önceden yapılan kendi çalışmalarımızdan aynen almak hangi eylem altında yer alır?
@@ -1817,8 +1635,7 @@
     - D-) Woman
     - E-) Child
 
-    > **Açıklama:** [https://youtu.be/WfGMYdalClU](https://youtu.be/WfGMYdalClU)
-    > Steve Cutts’un 2012 yılında Flash & After Effects programlarıyla ürettiği, “Man” isimli söz içermeyen kısa animasyon filmi, görselliğin gücünü gözler önüne serer niteliktedir.
+    > **Açıklama:** [https://youtu.be/WfGMYdalClU](https://youtu.be/WfGMYdalClU)<br />Steve Cutts’un 2012 yılında Flash & After Effects programlarıyla ürettiği, “Man” isimli söz içermeyen kısa animasyon filmi, görselliğin gücünü gözler önüne serer niteliktedir.
 
     <hr />
 1. Reklam aracı olarak grafik tasarım, ……………….. ve genel olarak ……………….. yöneltir.<br />Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangileri doğru şekilde tamamlar?

@@ -151,7 +151,7 @@
         "SoruMetni": "<strong>Monitör kalibrasyonunda en iyi yöntem olarak tavsiye edilen ve renkleri monitör üzerinden doğru bir şekilde görmek için kullanılan renk kalibrasron cihazı aşağıdakilerden hangisidir?</strong>",
         "A": "Yazıcı",
         "B": "Monitör",
-        "C": "Colormetre<br/></br>",
+        "C": "Colormetre",
         "D": "Fotoğraf makinesi",
         "E": "Tarayıcı",
         "DogruCevap": "C",

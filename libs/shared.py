@@ -11,7 +11,7 @@ def clean_html(text):
     text = html.unescape(text)
 
     # Pre-process newlines to <br> to preserve them
-    text = text.replace('\n', '<br>')
+    text = text.replace('\n', '<br/>')
 
     # Fix specific encoding artifacts found in Anadolu content
     # \x1e and \x1f appear to be corrupted 'i' characters
@@ -38,7 +38,7 @@ def clean_html(text):
         tag.unwrap()
 
     # 4. Strip attributes from strict tags
-    strict_tags = ['strong', 'b', 'i', 'em', 'table', 'tr', 'td', 'th', 'tbody', 'thead', 'tfoot', 'ul', 'li', 'blockquote', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'code', 'pre', 'sup', 'sub']
+    strict_tags = ['strong', 'b', 'i', 'em', 'table', 'tr', 'td', 'th', 'tbody', 'thead', 'tfoot', 'ul', 'li', 'blockquote', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'code', 'pre', 'sup', 'sub', 'br']
     for tag_name in strict_tags:
         for tag in soup.find_all(tag_name):
             tag.attrs = {}
@@ -76,10 +76,10 @@ def clean_html(text):
     cleaned_text = re.sub(r'[ \t]+', ' ', cleaned_text)
 
     # Collapse multiple <br> tags
-    cleaned_text = re.sub(r'(<br\s*/?>\s*)+', '<br/>', cleaned_text, flags=re.IGNORECASE)
+    cleaned_text = re.sub(r'(<br\b[^>]*>\s*)+', '<br/>', cleaned_text, flags=re.IGNORECASE)
 
     # 8. Remove trailing <br> tags
-    cleaned_text = re.sub(r'\s*<br\s*/?>\s*$', '', cleaned_text, flags=re.IGNORECASE)
+    cleaned_text = re.sub(r'\s*<br\b[^>]*>\s*$', '', cleaned_text, flags=re.IGNORECASE)
 
     return cleaned_text
 
@@ -97,7 +97,7 @@ def questions_to_markdown(questions):
         if not text: return ""
         # Pre-process text to replace <br> with newlines before markdownify
         # This prevents markdownify from truncating text with multiple <br> tags
-        text = re.sub(r'<br\s*/?>', '\n', text, flags=re.IGNORECASE)
+        text = re.sub(r'<br\b[^>]*>', '\n', text, flags=re.IGNORECASE)
         text = re.sub(r'</br>', '', text, flags=re.IGNORECASE) # Remove invalid closing tags
         converted = converter.convert(text).strip()
         # Escape dots after numbers at the start of a line to prevent markdown list parsing
@@ -115,7 +115,7 @@ def questions_to_markdown(questions):
         # Replace newlines with <br /> for questions, but ensure no double <br />
         q_text_formatted = q_text_raw.replace('\n', '<br />')
         # Collapse multiple <br /> and remove surrounding spaces
-        q_text_formatted = re.sub(r'\s*(<br\s*/?>\s*)+', '<br />', q_text_formatted)
+        q_text_formatted = re.sub(r'\s*(<br\b[^>]*>\s*)+', '<br />', q_text_formatted)
 
         md += f"1. {q_text_formatted}\n"
 
@@ -134,7 +134,9 @@ def questions_to_markdown(questions):
                 # Replace newlines with space in options
                 opt_text_formatted = opt_text_raw.replace('\n', ' ')
                 # Aggressively remove any remaining <br> tags
-                opt_text_formatted = re.sub(r'<br\s*/?>', ' ', opt_text_formatted)
+                opt_text_formatted = re.sub(r'<br\b[^>]*>|&lt;br\s*/?&gt;', ' ', opt_text_formatted, flags=re.IGNORECASE)
+                # Collapse multiple spaces
+                opt_text_formatted = re.sub(r'\s+', ' ', opt_text_formatted).strip()
             else:
                 opt_text_formatted = ""
 
@@ -142,16 +144,11 @@ def questions_to_markdown(questions):
 
         if q.get('Aciklama'):
             explanation = safe_convert(q['Aciklama'])
-            # Ensure every line of explanation is quoted and indented
-            exp_lines = explanation.split('\n')
-            md += f"\n    > **Açıklama:** {exp_lines[0].strip()}\n"
-            if len(exp_lines) > 1:
-                # Add subsequent lines with prefix
-                for line in exp_lines[1:]:
-                    clean_line = line.strip()
-                    if clean_line:
-                        md += f"    > {clean_line}\n"
-            md += "\n" # Extra newline after blockquote
+            # Replace newlines with <br /> to match question formatting
+            explanation = explanation.replace('\n', '<br />')
+            # Collapse multiple <br /> tags
+            explanation = re.sub(r'(<br\b[^>]*>\s*)+', '<br />', explanation)
+            md += f"\n    > **Açıklama:** {explanation}\n\n"
 
         md += "    <hr />\n"
     return md

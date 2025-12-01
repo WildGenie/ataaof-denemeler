@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Giriş<br>Dünyayı soyut akıl yürütmelerle anlamak.<br/>Fenomenolojist bakış açısına göre, dünyayı soyut akıl yürütmeler yolu ile değil, dünya ile fiili münasebetlerimiz üzerinden anlarız. Bilgi ve anlayış, eylem ve uygulama üzerinden şekillenir. Teorik modeller, gerçek dünya koşullarından yola çıkarak kavramsallaştırılırlar..."
+        "Aciklama": "Giriş<br/>Dünyayı soyut akıl yürütmelerle anlamak.<br/>Fenomenolojist bakış açısına göre, dünyayı soyut akıl yürütmeler yolu ile değil, dünya ile fiili münasebetlerimiz üzerinden anlarız. Bilgi ve anlayış, eylem ve uygulama üzerinden şekillenir. Teorik modeller, gerçek dünya koşullarından yola çıkarak kavramsallaştırılırlar..."
     },
     {
         "SoruID": 3763333,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BİLGİ MİMARİSİ<br>Doğal bir sıra ile birbirlerini izleyen, birbirine göre alt ve üst olarak değerlendirilebilecek ölçüm kademeleri"
+        "Aciklama": "BİLGİ MİMARİSİ<br/>Doğal bir sıra ile birbirlerini izleyen, birbirine göre alt ve üst olarak değerlendirilebilecek ölçüm kademeleri"
     },
     {
         "SoruID": 3763334,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BİLGİ MİMARİSİ<br>Bilgi mimarisi dendiğinde, başta web siteleri olmak üzere, çeşitli medya uzamlarında sunulan bilginin organizasyonu, etiketlenmesi, dolaşımı ve aranması ile ilgili, çıkış noktasında kütüphane ve enformasyon bilimi alanı bulunan bir disiplin anlaşılır"
+        "Aciklama": "BİLGİ MİMARİSİ<br/>Bilgi mimarisi dendiğinde, başta web siteleri olmak üzere, çeşitli medya uzamlarında sunulan bilginin organizasyonu, etiketlenmesi, dolaşımı ve aranması ile ilgili, çıkış noktasında kütüphane ve enformasyon bilimi alanı bulunan bir disiplin anlaşılır"
     },
     {
         "SoruID": 3763335,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yapılandırma, Organize Etme ve Etiketleme<br>renk-üretildikleri bölge-yapım şekilleri-yemek"
+        "Aciklama": "Yapılandırma, Organize Etme ve Etiketleme<br/>renk-üretildikleri bölge-yapım şekilleri-yemek"
     },
     {
         "SoruID": 3763336,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BİLGİ HİYERARŞİSİ<br>bilgi-bilgi birikimi-bilgelik"
+        "Aciklama": "BİLGİ HİYERARŞİSİ<br/>bilgi-bilgi birikimi-bilgelik"
     },
     {
         "SoruID": 3763337,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BİLGİ HİYERARŞİSİ<br>Düzenleme bilgi sınıfıdır."
+        "Aciklama": "BİLGİ HİYERARŞİSİ<br/>Düzenleme bilgi sınıfıdır."
     },
     {
         "SoruID": 3763338,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BİLGİ HİYERARŞİSİ<br>bilgi-bilgi birikimi-bilgelik"
+        "Aciklama": "BİLGİ HİYERARŞİSİ<br/>bilgi-bilgi birikimi-bilgelik"
     },
     {
         "SoruID": 3763339,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Farklar, Oranlar ve Korelasyonlar (Bağıntılar)<br>Bir ile ne kadar yabancı uyruklu kişinin yerleştiğinin, o ilin mevcut nüfusu ile korelasyonu çok düşük düzeydedir."
+        "Aciklama": "Farklar, Oranlar ve Korelasyonlar (Bağıntılar)<br/>Bir ile ne kadar yabancı uyruklu kişinin yerleştiğinin, o ilin mevcut nüfusu ile korelasyonu çok düşük düzeydedir."
     },
     {
         "SoruID": 3763340,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Verinin İçeriği<br>Eskişehirdeki Covit salgın verileri"
+        "Aciklama": "Verinin İçeriği<br/>Eskişehirdeki Covit salgın verileri"
     },
     {
         "SoruID": 3763341,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ölçüm Düzeyleri<br>Ordinal"
+        "Aciklama": "Ölçüm Düzeyleri<br/>Ordinal"
     },
     {
         "SoruID": 3763619,

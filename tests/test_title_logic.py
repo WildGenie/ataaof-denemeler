@@ -19,7 +19,7 @@ def test_title_logic():
     print(f"Title: {q1['Title']}")
     print(f"Explanation: {q1['AnswerExplanation']}")
     print(f"Result: {mapped_q1['Aciklama']}")
-    assert mapped_q1['Aciklama'] == "This is a title.<br>This is an explanation."
+    assert mapped_q1['Aciklama'] == "This is a title.<br/>This is an explanation."
 
     # Test Case 2: Title contains Explanation
     print("\n--- Test Case 2: Title contains Explanation ---")

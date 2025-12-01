@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "sayfa 190 Displacement haritalandırma ile oluşturulan malzemelerin 2B olarak dokulara atanan haritalardan bir başka farkı da sahnedeki ışık ve gölge ile olan ilişkisidir. Görsel 6.9’da displacement harita ile oluşturulmuş örgünün bir malzemenin sık dokulu hâli ile seyrek dokulu<br/>hâlini yan yana görülmektedir.<br>Displacement harita, kabaca bir malzemenin ne kadar ve ne şekilde yer değiştirerek 3B görünüm kazanacağını belirler. Sahnelerde saç, kıl, ot ve tüy gibi tek tek modellemenin hem zaman hem de performans kaybı olacağı durumlarda tercih edilen bir haritalandırma yöntemidir"
+        "Aciklama": "sayfa 190 Displacement haritalandırma ile oluşturulan malzemelerin 2B olarak dokulara atanan haritalardan bir başka farkı da sahnedeki ışık ve gölge ile olan ilişkisidir. Görsel 6.9’da displacement harita ile oluşturulmuş örgünün bir malzemenin sık dokulu hâli ile seyrek dokulu<br/>hâlini yan yana görülmektedir.<br/>Displacement harita, kabaca bir malzemenin ne kadar ve ne şekilde yer değiştirerek 3B görünüm kazanacağını belirler. Sahnelerde saç, kıl, ot ve tüy gibi tek tek modellemenin hem zaman hem de performans kaybı olacağı durumlarda tercih edilen bir haritalandırma yöntemidir"
     },
     {
         "SoruID": 3834307,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Arnold<br/>Fiziksel olarak doğru aydınlatma<br/>hesaplamaları, üstün bellek<br/>yönetimi, yüksek performans<br/>Sinema endüstrisi,<br/>karmaşık karakter<br/>animasyonları, VFX<br/>projeleri, yüksek<br/>poligonlu objeler</br><br/>Büyük bütçeli film ve<br/>animasyon stüdyoları<br/>tarafından sıklıkla tercih<br/>edilir.</br><br>Arnold büyük bütçeli film ve animasyon stüdyoları tarafından sıklıkla tercih edilir. Fiziksel olarak doğru aydınlatma hesaplamaları yapar, yüksek poligonlu objeler için kullanılır."
+        "Aciklama": "Arnold<br/>Fiziksel olarak doğru aydınlatma<br/>hesaplamaları, üstün bellek<br/>yönetimi, yüksek performans<br/>Sinema endüstrisi,<br/>karmaşık karakter<br/>animasyonları, VFX<br/>projeleri, yüksek<br/>poligonlu objeler<br/>Büyük bütçeli film ve<br/>animasyon stüdyoları<br/>tarafından sıklıkla tercih<br/>edilir.<br/>Arnold büyük bütçeli film ve animasyon stüdyoları tarafından sıklıkla tercih edilir. Fiziksel olarak doğru aydınlatma hesaplamaları yapar, yüksek poligonlu objeler için kullanılır."
     },
     {
         "SoruID": 3834329,

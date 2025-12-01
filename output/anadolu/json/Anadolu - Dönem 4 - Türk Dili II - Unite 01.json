@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kompozisyon Bilgileri başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 1"
+        "Aciklama": "Kompozisyon Bilgileri başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 1"
     },
     {
         "SoruID": 3257466,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazılı Kompozisyon Oluşturulması – Konu başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "Yazılı Kompozisyon Oluşturulması – Konu başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3257468,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazılı Kompozisyon Oluşturulması – Konu başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "Yazılı Kompozisyon Oluşturulması – Konu başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3257474,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<em>Paragrafta Anlatım Biçimleri başlığı altındaki bilgileri gözden geçiriniz.</em><br><em>Amaç 3</em>"
+        "Aciklama": "<em>Paragrafta Anlatım Biçimleri başlığı altındaki bilgileri gözden geçiriniz.</em><br/><em>Amaç 3</em>"
     },
     {
         "SoruID": 3257476,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<em>Paragrafta Anlatım Biçimleri başlığı altındaki bilgileri gözden geçiriniz.</em><br><em>Amaç 3</em>"
+        "Aciklama": "<em>Paragrafta Anlatım Biçimleri başlığı altındaki bilgileri gözden geçiriniz.</em><br/><em>Amaç 3</em>"
     },
     {
         "SoruID": 3257479,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong><em>Yazılı Kompozisyon Oluşturulması – Konu başlığı altındaki bilgileri gözden geçiriniz.</em></strong><br><strong><em>Amaç 2 </em></strong>"
+        "Aciklama": "<strong><em>Yazılı Kompozisyon Oluşturulması – Konu başlığı altındaki bilgileri gözden geçiriniz.</em></strong><br/><strong><em>Amaç 2 </em></strong>"
     },
     {
         "SoruID": 3257481,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong><em>Dil Becerileri ve Bilgi Donanımı” başlığı altındaki bilgileri gözden geçiriniz. </em></strong><br><strong><em>Amaç 1</em></strong><br/>Yalnızca konuşmaları dinlemeyiz. Anlamsız gelen sesler de dinlenir. Kulaklarınızı tıkamıyorsanız ya da işitme sorununuz yoksa ilk edinilen dil becerisi dinlemedir.<br/>Sorularınız, ders kitabımızda verilen bilgilere göre düzenlenmiştir. (bkz. Bölüm 1, sayfa 5)<br/>Kitaptaki bilgilere güvenmiyorsanız, kitabın yazarlarıyla iletişime geçiniz."
+        "Aciklama": "<strong><em>Dil Becerileri ve Bilgi Donanımı” başlığı altındaki bilgileri gözden geçiriniz. </em></strong><br/><strong><em>Amaç 1</em></strong><br/>Yalnızca konuşmaları dinlemeyiz. Anlamsız gelen sesler de dinlenir. Kulaklarınızı tıkamıyorsanız ya da işitme sorununuz yoksa ilk edinilen dil becerisi dinlemedir.<br/>Sorularınız, ders kitabımızda verilen bilgilere göre düzenlenmiştir. (bkz. Bölüm 1, sayfa 5)<br/>Kitaptaki bilgilere güvenmiyorsanız, kitabın yazarlarıyla iletişime geçiniz."
     },
     {
         "SoruID": 3257483,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong><em>Yazılı Kompozisyonun Oluşturulması başlığı altındaki bilgileri gözden geçiriniz.</em></strong><br><strong><em>Amaç 2</em></strong>"
+        "Aciklama": "<strong><em>Yazılı Kompozisyonun Oluşturulması başlığı altındaki bilgileri gözden geçiriniz.</em></strong><br/><strong><em>Amaç 2</em></strong>"
     },
     {
         "SoruID": 3257507,
@@ -2097,7 +2097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kompozisyonla ilgili genel bilgileri açıklayabileceksiniz.<br>Konuşmanın inceliklerini yazıya aktarmak ve verilen iletiyi eksiksiz ve doğru olarak okura ulaştırabilmek için yazılı anlatımda birtakım işaretlere gereksinim duyulur. Yazılı anlatımda okumayı ve anlamayı kolaylaştıran, yazarın okura aktarmak istediği düşünce ya da duygunun doğru ulaşmasına yardımcı olan, sözün vurgu ve ton gibi özelliklerini belirten bu işaretlere noktalama işaretleri denir."
+        "Aciklama": "Kompozisyonla ilgili genel bilgileri açıklayabileceksiniz.<br/>Konuşmanın inceliklerini yazıya aktarmak ve verilen iletiyi eksiksiz ve doğru olarak okura ulaştırabilmek için yazılı anlatımda birtakım işaretlere gereksinim duyulur. Yazılı anlatımda okumayı ve anlamayı kolaylaştıran, yazarın okura aktarmak istediği düşünce ya da duygunun doğru ulaşmasına yardımcı olan, sözün vurgu ve ton gibi özelliklerini belirten bu işaretlere noktalama işaretleri denir."
     },
     {
         "SoruID": 3258237,
@@ -2117,7 +2117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kompozisyonla ilgili genel bilgileri açıklayabileceksiniz.<br>Günümüzde kullandığımız noktalama işaretlerinin birçoğu, yazı dilimize Batı’dan, Tanzimat döneminde geçmiştir. Bu işaretleri bizde ilk olarak Şinasi, Şair Evlenmesi (1859) adlı tiyatro eserinde kullanmıştır. Bilindiği gibi bu eser, aynı zamanda basılı ilk Türkçe tiyatro eseri olma özelliği taşımaktadır."
+        "Aciklama": "Kompozisyonla ilgili genel bilgileri açıklayabileceksiniz.<br/>Günümüzde kullandığımız noktalama işaretlerinin birçoğu, yazı dilimize Batı’dan, Tanzimat döneminde geçmiştir. Bu işaretleri bizde ilk olarak Şinasi, Şair Evlenmesi (1859) adlı tiyatro eserinde kullanmıştır. Bilindiği gibi bu eser, aynı zamanda basılı ilk Türkçe tiyatro eseri olma özelliği taşımaktadır."
     },
     {
         "SoruID": 3258705,

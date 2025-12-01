@@ -241,7 +241,7 @@
     },
     {
         "SoruID": 326356,
-        "SoruMetni": "Yazı karakterlerinin getirdiği tipografik özgürlük 256 karakterle sınırlı olmayıp bir dosyanın 65.536 şekil içerebilmesidir. Bu sayede çağdaş yazı karakterlerinin pek çoğu düzinelerce farklı small caps (küçük büyük harfler), farklı rakamlar ve sayısız özel karakterler içerecek şekilde geliştirilmektedir.<br/><strong>Paragraftaki ifade hangi yazı karakterine aittir?</strong><br/></br>",
+        "SoruMetni": "Yazı karakterlerinin getirdiği tipografik özgürlük 256 karakterle sınırlı olmayıp bir dosyanın 65.536 şekil içerebilmesidir. Bu sayede çağdaş yazı karakterlerinin pek çoğu düzinelerce farklı small caps (küçük büyük harfler), farklı rakamlar ve sayısız özel karakterler içerecek şekilde geliştirilmektedir.<br/><strong>Paragraftaki ifade hangi yazı karakterine aittir?</strong>",
         "A": "Bitmap",
         "B": "Type 1",
         "C": "TrueType",

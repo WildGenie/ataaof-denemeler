@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 311952,
-        "SoruMetni": "I. Yaratıcılık<br/>II. Hayal gücü<br/>III. Bilgi<br/><strong>Yukarıdakilerden hangisi ya da hangileri soyutlama ve soyutun eksenini belirler?</strong></br></br>",
+        "SoruMetni": "I. Yaratıcılık<br/>II. Hayal gücü<br/>III. Bilgi<br/><strong>Yukarıdakilerden hangisi ya da hangileri soyutlama ve soyutun eksenini belirler?</strong>",
         "A": "I ve III",
         "B": "Yalnız II",
         "C": "II ve III",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 314990,
-        "SoruMetni": "I. Düzenleme<br/>II. Öz<br/>III. Anlam<br/><strong>Yukarıdakilerden hangisi ya da hangileri soyutlama ve soyut ile ilişki içindedir?</strong></br></br>",
+        "SoruMetni": "I. Düzenleme<br/>II. Öz<br/>III. Anlam<br/><strong>Yukarıdakilerden hangisi ya da hangileri soyutlama ve soyut ile ilişki içindedir?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",

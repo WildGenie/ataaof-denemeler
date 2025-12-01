@@ -721,7 +721,7 @@
     },
     {
         "SoruID": 327248,
-        "SoruMetni": "I. İrlanda veya Anglo-Sakson stili<br/>II. Merovenj ve Doğu Frenk stili<br/>III. Lombardik ve Vizigot stili<br/><strong>Yukarıdaki ifadelerden hagisi ya da hangileri ulusal el yazısı stillerindendir?</strong><br/></br></br></br>",
+        "SoruMetni": "I. İrlanda veya Anglo-Sakson stili<br/>II. Merovenj ve Doğu Frenk stili<br/>III. Lombardik ve Vizigot stili<br/><strong>Yukarıdaki ifadelerden hagisi ya da hangileri ulusal el yazısı stillerindendir?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "II ve III",
@@ -1961,7 +1961,7 @@
     },
     {
         "SoruID": 327250,
-        "SoruMetni": "I. Küt Serifliler<br/>II. Clarendonlar<br/>III. Golden Type<br/>IV. Ofset Litografi<br/><strong>Yukarıdakilerden hangisi ya da hangileri Sanayi Dönemi yazı karakterlerinden biridir?</strong></br></br></br>",
+        "SoruMetni": "I. Küt Serifliler<br/>II. Clarendonlar<br/>III. Golden Type<br/>IV. Ofset Litografi<br/><strong>Yukarıdakilerden hangisi ya da hangileri Sanayi Dönemi yazı karakterlerinden biridir?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I, II ve III",
@@ -2361,7 +2361,7 @@
     },
     {
         "SoruID": 326356,
-        "SoruMetni": "Yazı karakterlerinin getirdiği tipografik özgürlük 256 karakterle sınırlı olmayıp bir dosyanın 65.536 şekil içerebilmesidir. Bu sayede çağdaş yazı karakterlerinin pek çoğu düzinelerce farklı small caps (küçük büyük harfler), farklı rakamlar ve sayısız özel karakterler içerecek şekilde geliştirilmektedir.<br/><strong>Paragraftaki ifade hangi yazı karakterine aittir?</strong><br/></br>",
+        "SoruMetni": "Yazı karakterlerinin getirdiği tipografik özgürlük 256 karakterle sınırlı olmayıp bir dosyanın 65.536 şekil içerebilmesidir. Bu sayede çağdaş yazı karakterlerinin pek çoğu düzinelerce farklı small caps (küçük büyük harfler), farklı rakamlar ve sayısız özel karakterler içerecek şekilde geliştirilmektedir.<br/><strong>Paragraftaki ifade hangi yazı karakterine aittir?</strong>",
         "A": "Bitmap",
         "B": "Type 1",
         "C": "TrueType",
@@ -2701,7 +2701,7 @@
     },
     {
         "SoruID": 327254,
-        "SoruMetni": "I. Work Sans<br/>II. Canola <br/>III. Breite<br/><strong>Yukarıdakilerden hangisi ya da hangileri Metapolator ile geliştirilen ilk yazı ailelerindendir?</strong></br></br>",
+        "SoruMetni": "I. Work Sans<br/>II. Canola <br/>III. Breite<br/><strong>Yukarıdakilerden hangisi ya da hangileri Metapolator ile geliştirilen ilk yazı ailelerindendir?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -2721,7 +2721,7 @@
     },
     {
         "SoruID": 327256,
-        "SoruMetni": "I. OpenType’ın geliştirilmesi<br/>II. Unicode’un geliştirilmesi<br/>III. İnternet kullanımının yaygınlaşması <br/>IV. Baskı teknolojilerinin geliştirilmesi<br/><strong>Yukarıdaki ifadelerden hangileri 20. yüzyılın sonunda tipografi alanında görülen değişimlerdendir?</strong><br/></br></br></br></br>",
+        "SoruMetni": "I. OpenType’ın geliştirilmesi<br/>II. Unicode’un geliştirilmesi<br/>III. İnternet kullanımının yaygınlaşması <br/>IV. Baskı teknolojilerinin geliştirilmesi<br/><strong>Yukarıdaki ifadelerden hangileri 20. yüzyılın sonunda tipografi alanında görülen değişimlerdendir?</strong>",
         "A": "Yalnız I",
         "B": "I ve III",
         "C": "I, II ve III",
@@ -2761,7 +2761,7 @@
     },
     {
         "SoruID": 363296,
-        "SoruMetni": "I. Work Sans<br/>II. Canola<br/>III. Breite<br/><strong>Yukarıdaki ifadelerden hangisi ya da hangileri metapolator ile geliştirilen ilk yazı ailelerindendir?</strong></br></br>",
+        "SoruMetni": "I. Work Sans<br/>II. Canola<br/>III. Breite<br/><strong>Yukarıdaki ifadelerden hangisi ya da hangileri metapolator ile geliştirilen ilk yazı ailelerindendir?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",

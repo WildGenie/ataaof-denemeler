@@ -118,8 +118,7 @@
     - D-) Fenomen
     - E-) Kiç (Kitsch)
 
-    > **Açıklama:** Tin, Ruh (Geist), özellikle Hegel felsefesinde geniş anlam ifade eden kavramdır.
-    > İnsanın kendi aklı ile yarattığı doğanın karşıtı olan her şey.
+    > **Açıklama:** Tin, Ruh (Geist), özellikle Hegel felsefesinde geniş anlam ifade eden kavramdır.<br />İnsanın kendi aklı ile yarattığı doğanın karşıtı olan her şey.
 
     <hr />
 1. "İnsan varlıklarına, doğrudan ve aracısız deneyde, tecrübede görünen şey" aşağıdakilerden hangisinin tanımıdır?
@@ -129,9 +128,7 @@
     - D-) Kiç (Kitsch)
     - E-) Sanat
 
-    > **Açıklama:** Fenomen, görünüş, genel olarak, algının nesnesi, algılanan ya da bilince görünen
-    > şey, gözlemlenebilir olan olay ya da olgu. İnsan varlıklarına, doğrudan ve aracısız
-    > deneyde, tecrübede görünen şey
+    > **Açıklama:** Fenomen, görünüş, genel olarak, algının nesnesi, algılanan ya da bilince görünen<br />şey, gözlemlenebilir olan olay ya da olgu. İnsan varlıklarına, doğrudan ve aracısız<br />deneyde, tecrübede görünen şey
 
     <hr />
 1. "Bizim dışımızdaki herhangi bir şeyin, bizde bıraktığı etki yoluyla yaşadığımız duygu durumu" aşağıdakilerden hangisinin tanımıdır?
@@ -351,8 +348,7 @@
     - **Cevap D-) Plotinus**
     - E-) Heraklitos
 
-    > **Açıklama:** Plotinus (MS. 205-270), Platon ve Aristoteles metafiziğini farklı şekilde yeniden değerlendiren ve
-    > Orta Çağ düşünce dünyasında da Neo-Platonist felsefe ile kendisinden sonraki dönmelerde de etkisi devam etmiş düşünürdür.
+    > **Açıklama:** Plotinus (MS. 205-270), Platon ve Aristoteles metafiziğini farklı şekilde yeniden değerlendiren ve<br />Orta Çağ düşünce dünyasında da Neo-Platonist felsefe ile kendisinden sonraki dönmelerde de etkisi devam etmiş düşünürdür.
 
     <hr />
 1. “Her sanat eseri zamanının çocuğu, çoğu zaman da duygularımızın anasıdır” sözü kime aittir?
@@ -362,8 +358,7 @@
     - D-) Friedrich Schiller
     - **Cevap E-) Kandinski**
 
-    > **Açıklama:** Kandinski’nin dediği “her sanat eseri zamanının çocuğu, çoğu zaman da duygularımızın anasıdır”
-    > (Kandinski, 1993: 21), cümlesinde olduğu gibi yaşadığın zamanla ve insanlığın yaşadığı tüm zamanlarla da ilişkisi olması gerekir estetik süje’nin.
+    > **Açıklama:** Kandinski’nin dediği “her sanat eseri zamanının çocuğu, çoğu zaman da duygularımızın anasıdır”<br />(Kandinski, 1993: 21), cümlesinde olduğu gibi yaşadığın zamanla ve insanlığın yaşadığı tüm zamanlarla da ilişkisi olması gerekir estetik süje’nin.
 
     <hr />
 1. Olumlu anlamda bir değer ifade etmek, gördüğümüz, duyduğumuz, dokunduğumuz, tattığımız, duyusal algı alanımıza giren ögeleri tanımlamak için kullandığımız kavrama ne ad verilir?
@@ -463,8 +458,7 @@
     - D-) Plotinus
     - E-) Decartes
 
-    > **Açıklama:** Alman filozofu Baumgarten (Alexander Gottlieb, 1714-1762) 1750’de yayımladığı Aesthetica adlı yapıtında, akıl’a göre daha aşağı düzeydeki «duyulardan gelen bilginin bilimi» üzerinde dururken felsefe tarihinde estetik sözcüğünü
-    > ilk kullanan filozof olmaktadır.
+    > **Açıklama:** Alman filozofu Baumgarten (Alexander Gottlieb, 1714-1762) 1750’de yayımladığı Aesthetica adlı yapıtında, akıl’a göre daha aşağı düzeydeki «duyulardan gelen bilginin bilimi» üzerinde dururken felsefe tarihinde estetik sözcüğünü<br />ilk kullanan filozof olmaktadır.
 
     <hr />
 1. Genel olarak sanatsal değeri olmayan, ucuza satın alınabilen, genel beğeni düzeyine uydurulmuş nesneleri dile getiren terim aşağıdakilerden hangisidir?
@@ -644,8 +638,7 @@
     - D-) Adorno
     - E-) Marx
 
-    > **Açıklama:** Hegel sanatı da insan aklının bir ürünü olarak görmüş ve doğadaki güzelden
-    > üstün tutmuştur. “Sanat güzelliği tinden doğmuş ve yeniden doğmuş güzelliktir” diye ifade eder. Doğru seçenek A' dır.
+    > **Açıklama:** Hegel sanatı da insan aklının bir ürünü olarak görmüş ve doğadaki güzelden<br />üstün tutmuştur. “Sanat güzelliği tinden doğmuş ve yeniden doğmuş güzelliktir” diye ifade eder. Doğru seçenek A' dır.
 
     <hr />
 1. I. Dadaist bir sanatçıdır<br />II. Kavramsal ve Fluxus gibi 1960 sonrası akımların esin kaynağı olmuştur<br />III. Tabure ve bisiklet tekerleği isimli çalışmayı yapan sanatçıdır<br />Yukarıdakilerden hangisi ya da hangileri Marcel Duchamp' a aittir?
@@ -665,8 +658,7 @@
     - D-) Fenomen
     - E-) Mimesis
 
-    > **Açıklama:** Tin, Ruh (Geist), özellikle Hegel felsefesinde geniş anlam ifade eden kavramdır.
-    > İnsanın kendi aklı ile yarattığı doğanın karşıtı olan her şey. olarak tanımlanmaktadır. Doğru seçenek C' dir.
+    > **Açıklama:** Tin, Ruh (Geist), özellikle Hegel felsefesinde geniş anlam ifade eden kavramdır.<br />İnsanın kendi aklı ile yarattığı doğanın karşıtı olan her şey. olarak tanımlanmaktadır. Doğru seçenek C' dir.
 
     <hr />
 1. Sanatı diğer alanların belirleniminden farklı, kendinde-şey olarak ele alırken, estetik yargıların ifade edilebileceği tümel yasaları, ortaklaşa duyumun ilkelerinin neler olabileceği üzerinde de duran düşünür aşağıdakilerden hangisidir?
@@ -837,8 +829,7 @@
     - **Cevap D-) Van Gogh**
     - E-) Albrecht Dürer
 
-    > **Açıklama:** Bazı ünlü düşünür ve sanatçıların konuya ilişkin duyarlılıklarını ifade eden cümleler aşağıda verilmiştir:
-    > Bence ressam, olduğu gibi değil, hissettiği gibi resmedendir. (Van Gogh)
+    > **Açıklama:** Bazı ünlü düşünür ve sanatçıların konuya ilişkin duyarlılıklarını ifade eden cümleler aşağıda verilmiştir:<br />Bence ressam, olduğu gibi değil, hissettiği gibi resmedendir. (Van Gogh)
 
     <hr />
 1. Fotoğrafçılıktaki beyaz ışığın renk ısısı kaç kelvin değerindedir?
@@ -888,9 +879,7 @@
     - **Cevap D-) Eğlenme, oyalanma aracı olması**
     - E-) İçinde tutarlı bir evrensel bildiri taşıması
 
-    > **Açıklama:** Sanat bir eğlenme, oyalanma aracı veya bir lüks değildir. Gerçi sanatın doğuşunda,
-    > kaynağında ve kökeninde oyunun bir yeri olduğu ileri sürülür. Ancak sanat, sonunda
-    > denge ve tutarlılık içinde bir evrensel bildiri taşır.
+    > **Açıklama:** Sanat bir eğlenme, oyalanma aracı veya bir lüks değildir. Gerçi sanatın doğuşunda,<br />kaynağında ve kökeninde oyunun bir yeri olduğu ileri sürülür. Ancak sanat, sonunda<br />denge ve tutarlılık içinde bir evrensel bildiri taşır.
 
     <hr />
 1. Aşağıdakilerden hangisi Daguerre çekim tekniğinin sorunlarından sayılamaz?
@@ -920,11 +909,7 @@
     - D-) Sanat eseri felsefi bir öz taşır.
     - E-) Sanat bir eğlenme, oyalanma aracı veya bir lüks değildir.
 
-    > **Açıklama:** Bir işin sanat olması veya bir nesnenin sanat eseri olabilmesi için hangi koşulların gerekli olduğu bu özellikler ile belirlenebilir:
-    > 1\. Sanat, insan üretimidir, sanat eserini insan yaratır. Ne doğada ne de hayvanların yaptıkları işlerde (güzellik olsa bile) sanat olamaz. Zekâ düzeyi ne olursa olsun hayvanlar sanat yapamazlar.
-    > 2\. Sanat eseri kalıcılık özelliği taşır. Rastlantılar ve günlük kullanıma dönük nesnelerde çoğu zaman bu özellik yoktur.
-    > 3\. Sanat bir biçim yaratır, kendini biçim (form) ile ifade eder. Biçim yoksa orada sanat da yoktur. Sanat ağırlıklı biçimlere dönüştürülebilen duygu ve düşünceler, karşımıza bazen bir tablo, bazen bir beste, bazen de bir fotoğraf veya sinema filmi olarak çıkabilir.
-    > 4\. Sanat bir eğlenme, oyalanma aracı veya bir lüks değildir. Gerçi sanatın doğuşunda, kaynağında ve kökeninde oyunun bir yeri olduğu ileri sürülür. Ancak sanat, sonunda denge ve tutarlılık içinde bir evrensel bildiri taşır. Diğer bir deyişle, felsefi bir öz taşımayan sanat eseri bulmak güçtür.
+    > **Açıklama:** Bir işin sanat olması veya bir nesnenin sanat eseri olabilmesi için hangi koşulların gerekli olduğu bu özellikler ile belirlenebilir:<br />1\. Sanat, insan üretimidir, sanat eserini insan yaratır. Ne doğada ne de hayvanların yaptıkları işlerde (güzellik olsa bile) sanat olamaz. Zekâ düzeyi ne olursa olsun hayvanlar sanat yapamazlar.<br />2\. Sanat eseri kalıcılık özelliği taşır. Rastlantılar ve günlük kullanıma dönük nesnelerde çoğu zaman bu özellik yoktur.<br />3\. Sanat bir biçim yaratır, kendini biçim (form) ile ifade eder. Biçim yoksa orada sanat da yoktur. Sanat ağırlıklı biçimlere dönüştürülebilen duygu ve düşünceler, karşımıza bazen bir tablo, bazen bir beste, bazen de bir fotoğraf veya sinema filmi olarak çıkabilir.<br />4\. Sanat bir eğlenme, oyalanma aracı veya bir lüks değildir. Gerçi sanatın doğuşunda, kaynağında ve kökeninde oyunun bir yeri olduğu ileri sürülür. Ancak sanat, sonunda denge ve tutarlılık içinde bir evrensel bildiri taşır. Diğer bir deyişle, felsefi bir öz taşımayan sanat eseri bulmak güçtür.
 
     <hr />
 1. Fotoğrafta, üçüncü boyutu hissettiren durum aşağıdakilerden hangisidir?
@@ -994,12 +979,7 @@
     - **Cevap D-) Bir süreç gerektirmesi**
     - E-) Yazıyla desteklemesi
 
-    > **Açıklama:** Haber fotoğraflarının bazı temel özellikleri şu şekilde belirtilebilir:
-    > 1\. Düşünsel bir yanının olması
-    > 2\. İkna etme gücünün olması
-    > 3\. Tarihe tanıklık etmesi
-    > 4\. Anlık olması
-    > 5\. Yazıyla desteklemesi.
+    > **Açıklama:** Haber fotoğraflarının bazı temel özellikleri şu şekilde belirtilebilir:<br />1\. Düşünsel bir yanının olması<br />2\. İkna etme gücünün olması<br />3\. Tarihe tanıklık etmesi<br />4\. Anlık olması<br />5\. Yazıyla desteklemesi.
 
     <hr />
 1. İnsanın kişiliğini, duygusal durumunu ve diğer bilgilerini aktaran, ifadesinin kişiye özgü aktarıldığı fotoğraf türü aşağıdakilerden hangisidir?
@@ -1199,8 +1179,7 @@
     - D-) Gündelik yaşam fotoğrafçılığı
     - E-) Sokak fotoğrafçılığı
 
-    > **Açıklama:** Belgesel Fotoğrafçılığı: amacı fotoğraflarla bir hikâye anlatmaktır. Ele aldığı konular sosyal sorunlar, güncel konular. Belgesel, günümüz sorunlarına tanıklık
-    > ederek topluma bilgi akışı sağlar, farkındalık yaratır. Kimi zaman çözüm yollarının bulunmasına yardımcı olarak iletişim kurmaya çalışır.
+    > **Açıklama:** Belgesel Fotoğrafçılığı: amacı fotoğraflarla bir hikâye anlatmaktır. Ele aldığı konular sosyal sorunlar, güncel konular. Belgesel, günümüz sorunlarına tanıklık<br />ederek topluma bilgi akışı sağlar, farkındalık yaratır. Kimi zaman çözüm yollarının bulunmasına yardımcı olarak iletişim kurmaya çalışır.
 
     <hr />
 1. İnsanın kişiliğini, duygusal durumunu ve diğer bilgilerini aktaran, ifadesinin kişiye özgü aktarıldığı fotoğraf türü hangisidir?
@@ -1370,8 +1349,7 @@
     - **Cevap D-) Pozlama**
     - E-) Diyafram
 
-    > **Açıklama:** Fotoğraf makinelerinin görüntü oluşturabilmesi
-    > için ihtiyaç duyulan ışık miktarına pozlama denmektedir.
+    > **Açıklama:** Fotoğraf makinelerinin görüntü oluşturabilmesi<br />için ihtiyaç duyulan ışık miktarına pozlama denmektedir.
 
     <hr />
 1. Alan derinliği ile ilgili aşağıdaki bilgilerden hangisi doğru değildir ?
@@ -1461,8 +1439,7 @@
     - D-) Tarih bilgisi
     - **Cevap E-) Sanat bilgisi**
 
-    > **Açıklama:** Fotoğrafçının kameralar, objektifler, ışık kaynakları ve buna benzer birçok ekipman bilgisinin yanında sanat bilgisi de fotoğrafı oluşturmasında
-    > önemli niteliklerden biri sayılır. Dolayısıyla cevap E şıkkıdır.
+    > **Açıklama:** Fotoğrafçının kameralar, objektifler, ışık kaynakları ve buna benzer birçok ekipman bilgisinin yanında sanat bilgisi de fotoğrafı oluşturmasında<br />önemli niteliklerden biri sayılır. Dolayısıyla cevap E şıkkıdır.
 
     <hr />
 1. Fotoğraf ve sanat ilişkisinde; hayal dünyamızda tasarlanan, nasıl olduğunu bildiğimiz, bilincimizde beliren nesne ve olaylar ne olarak adlandırılmaktadır ?
@@ -1492,8 +1469,7 @@
     - D-) I, II, III ve V
     - E-) I, II, III ve IV
 
-    > **Açıklama:** İlk Daguerre portre çalışmalarına 1840’ta ABD’nin doğu sahillerinde açılan ticari atölyelerde başlanır. Poz süresinin on saniyeye düştüğü bu dönemde, yalnızca 1853’te New York’ta yüzden fazla Dagerotip atölyede üç milyon kadar portreden başka gezici fotoğrafçıların ürettikleri fotoğraflar da vardır. Portre çalışmanın yanı sıra Dagerotipler mimari ve peyzaj çalışmalarınıda yaparlar. Dagerotip atölyeler Avrupa’nın büyük kentlerinde hızla yayılır. Daguerre’nin en yaygın dönemi 1839-1850 arasını kapsar ve Daguerre en çok Amerika’da gelişir.
-    > En önemli sorunları; poz süresinin uzun olması, tek kopya olması, **renk ve ton aralığının olmaması**, metal levhadan oluştuğundan ağır oluşu, oksitlenmeden etkilenmesi ayrıca metal levhanın çizilir olması biçiminde sıralandırılır.
+    > **Açıklama:** İlk Daguerre portre çalışmalarına 1840’ta ABD’nin doğu sahillerinde açılan ticari atölyelerde başlanır. Poz süresinin on saniyeye düştüğü bu dönemde, yalnızca 1853’te New York’ta yüzden fazla Dagerotip atölyede üç milyon kadar portreden başka gezici fotoğrafçıların ürettikleri fotoğraflar da vardır. Portre çalışmanın yanı sıra Dagerotipler mimari ve peyzaj çalışmalarınıda yaparlar. Dagerotip atölyeler Avrupa’nın büyük kentlerinde hızla yayılır. Daguerre’nin en yaygın dönemi 1839-1850 arasını kapsar ve Daguerre en çok Amerika’da gelişir.<br />En önemli sorunları; poz süresinin uzun olması, tek kopya olması, **renk ve ton aralığının olmaması**, metal levhadan oluştuğundan ağır oluşu, oksitlenmeden etkilenmesi ayrıca metal levhanın çizilir olması biçiminde sıralandırılır.
 
     <hr />
 1. Fotoğraf makinelerinin görüntü oluşturabilmesi için ihtiyaç duyulan ışık miktarına ne denmektedir ?
@@ -1513,14 +1489,7 @@
     - D-) I, III, IV ve V
     - **Cevap E-) I, II, III, IV ve V**
 
-    > **Açıklama:** Haber fotoğraflarının bazı temel özelliklerini şu
-    > şekilde belirtebiliriz:
-    > 1\. Düşünsel bir yanının olması
-    > 2\. İkna etme gücünün olması
-    > 3\. Tarihe tanıklık etmesi
-    > 4\. Anlık olması
-    > 5\. Yazıyla desteklemesi
-    > Dolayısıyla cevap E şıkkıdır.
+    > **Açıklama:** Haber fotoğraflarının bazı temel özelliklerini şu<br />şekilde belirtebiliriz:<br />1\. Düşünsel bir yanının olması<br />2\. İkna etme gücünün olması<br />3\. Tarihe tanıklık etmesi<br />4\. Anlık olması<br />5\. Yazıyla desteklemesi<br />Dolayısıyla cevap E şıkkıdır.
 
     <hr />
 1. Klasik dönem hangi zaman dilimini kapsar?
@@ -1700,11 +1669,7 @@
     - D-) I, II, III, IV
     - E-) I, II, III, IV, V
 
-    > **Açıklama:** Bir işin sanat olması veya bir nesnenin sanat eseri olabilmesi için hangi koşulların gerekli olduğunu belirlemeye çalışalım:
-    > 1\. Sanat, insan üretimidir, sanat eserini insan yaratır. Ne doğada ne de hayvanların yaptıkları işlerde (güzellik olsa bile) sanat olamaz. Zekâ düzeyi ne olursa olsun hayvanlar sanat yapamazlar.
-    > 2\. Sanat eseri kalıcılık özelliği taşır. Rastlantılar ve günlük kullanıma dönük nesnelerde çoğu zaman bu özellik yoktur.
-    > 3\. Sanat bir biçim yaratır, kendini biçim (form) ile ifade eder. Biçim yoksa orada sanat da yoktur. Sanat ağırlıklı biçimlere dönüştürülebilen duygu ve düşünceler, karşımıza bazen bir tablo, bazen bir beste, bazen de bir fotoğraf veya sinema filmi olarak çıkabilir.
-    > 4\. Sanat bir eğlenme, oyalanma aracı veya bir lüks değildir. Gerçi sanatın doğuşunda, kaynağında ve kökeninde oyunun bir yeri olduğu ileri sürülür. Ancak sanat, sonunda denge ve tutarlılık içinde bir evrensel bildiri taşır. Diğer bir deyişle, felsefi bir öz taşımayan sanat eseri bulmak güçtür. Yerine göre, çoğumuzun oldukça basit gördüğü bir natürmort bile, doğa’nın dinamik ve canlı çağrışımlarını dile getirir. O hâlde, belirli bir konu ve içerik taşımayan güzellik sanat sayılmaz. En genel çizgileriyle, bir sanat tanımı vermek gerekirse: “Sanat, belirli bir düşünme şekliyle duyguları harekete geçirmek ve ilgili sanat disiplininin araçlarıyla özgün ve yeni anlatımlarda bulunmak, yaşama ilişkin yeni şeyler önermek, sanatçı ve izleyici açısından ise estetik haz oluşturmaktır”.
+    > **Açıklama:** Bir işin sanat olması veya bir nesnenin sanat eseri olabilmesi için hangi koşulların gerekli olduğunu belirlemeye çalışalım:<br />1\. Sanat, insan üretimidir, sanat eserini insan yaratır. Ne doğada ne de hayvanların yaptıkları işlerde (güzellik olsa bile) sanat olamaz. Zekâ düzeyi ne olursa olsun hayvanlar sanat yapamazlar.<br />2\. Sanat eseri kalıcılık özelliği taşır. Rastlantılar ve günlük kullanıma dönük nesnelerde çoğu zaman bu özellik yoktur.<br />3\. Sanat bir biçim yaratır, kendini biçim (form) ile ifade eder. Biçim yoksa orada sanat da yoktur. Sanat ağırlıklı biçimlere dönüştürülebilen duygu ve düşünceler, karşımıza bazen bir tablo, bazen bir beste, bazen de bir fotoğraf veya sinema filmi olarak çıkabilir.<br />4\. Sanat bir eğlenme, oyalanma aracı veya bir lüks değildir. Gerçi sanatın doğuşunda, kaynağında ve kökeninde oyunun bir yeri olduğu ileri sürülür. Ancak sanat, sonunda denge ve tutarlılık içinde bir evrensel bildiri taşır. Diğer bir deyişle, felsefi bir öz taşımayan sanat eseri bulmak güçtür. Yerine göre, çoğumuzun oldukça basit gördüğü bir natürmort bile, doğa’nın dinamik ve canlı çağrışımlarını dile getirir. O hâlde, belirli bir konu ve içerik taşımayan güzellik sanat sayılmaz. En genel çizgileriyle, bir sanat tanımı vermek gerekirse: “Sanat, belirli bir düşünme şekliyle duyguları harekete geçirmek ve ilgili sanat disiplininin araçlarıyla özgün ve yeni anlatımlarda bulunmak, yaşama ilişkin yeni şeyler önermek, sanatçı ve izleyici açısından ise estetik haz oluşturmaktır”.
 
     <hr />
 1. Sanattaki güzelliğin doğadaki güzellikten üstün olduğunu iddia ederek, sanatın bir taklit olmadığını, gerçek sanatın bir yaratma sürecinden geçtiğini savunan düşünür kimdir?
@@ -1714,11 +1679,7 @@
     - **Cevap D-) Hegel**
     - E-) Baumgarten
 
-    > **Açıklama:** * Platon, sanat ve güzelliğin asıl kaynağını arayıp öncesiz, sonrasız ve tanrısal olan öz yapısını saptamak istiyor.
-    > * Aristoteles, güzeli açıklayan sanata vurgu yaparak gerçekliğin taklit edilmesidir, diyor.
-    > * Kant, duyguları ve duyarlılığı incelemek için, estetiği genel bir kavram olarak kullanıyor.
-    > * Hegel, sanattaki güzelliğin doğadaki güzellikten üstün olduğunu iddia ediyor. Sanatın bir taklit olmadığını, gerçek sanatın bir yaratma sürecinden geçtiğini savunuyor.
-    > * Estetiğin kurucusu Alexander G.Baumgarten sayılır. (1714-1762). Ona göre mantık, düşünce ve zihne bağlı yukarıdaki bilgilerin doğruluğunu inceleyen bir bilimdi. Estetik de duyu ve duygulara bağlı bilgilerin doğruluğunu inceleyecekti. Yani estetik mantığın ikiz kardeşi veya duyulara dayalı bilgilerin mantığı olarak ortaya konmuştu.
+    > **Açıklama:** * Platon, sanat ve güzelliğin asıl kaynağını arayıp öncesiz, sonrasız ve tanrısal olan öz yapısını saptamak istiyor.<br />* Aristoteles, güzeli açıklayan sanata vurgu yaparak gerçekliğin taklit edilmesidir, diyor.<br />* Kant, duyguları ve duyarlılığı incelemek için, estetiği genel bir kavram olarak kullanıyor.<br />* Hegel, sanattaki güzelliğin doğadaki güzellikten üstün olduğunu iddia ediyor. Sanatın bir taklit olmadığını, gerçek sanatın bir yaratma sürecinden geçtiğini savunuyor.<br />* Estetiğin kurucusu Alexander G.Baumgarten sayılır. (1714-1762). Ona göre mantık, düşünce ve zihne bağlı yukarıdaki bilgilerin doğruluğunu inceleyen bir bilimdi. Estetik de duyu ve duygulara bağlı bilgilerin doğruluğunu inceleyecekti. Yani estetik mantığın ikiz kardeşi veya duyulara dayalı bilgilerin mantığı olarak ortaya konmuştu.
 
     <hr />
 1. Güzelin ne olduğunu, sanatın özünü ve kaynağını, değerini araştıran felsefe dalı nedir?
@@ -1798,12 +1759,7 @@
     - D-) I, II, III, IV
     - **Cevap E-) I, II, III, V, VI**
 
-    > **Açıklama:** Haber fotoğraflarının bazı temel özelliklerini şu şekilde belirtebiliriz:
-    > 1\. Düşünsel bir yanının olması
-    > 2\. İkna etme gücünün olması
-    > 3\. Tarihe tanıklık etmesi
-    > 4\. Anlık olması
-    > 5\. Yazıyla desteklemesi
+    > **Açıklama:** Haber fotoğraflarının bazı temel özelliklerini şu şekilde belirtebiliriz:<br />1\. Düşünsel bir yanının olması<br />2\. İkna etme gücünün olması<br />3\. Tarihe tanıklık etmesi<br />4\. Anlık olması<br />5\. Yazıyla desteklemesi
 
     <hr />
 1. Geleneksel bilgiyle üretilen ve belirli fonksiyonları olan, belirli modellere göre üretilen, özgün denilemeyecek ve sanattan niteliksel olarak farklı olan ürünlere ne ad verilir?
@@ -2004,8 +1960,7 @@
     - D-) Luminance Masking
     - **Cevap E-) TTL**
 
-    > **Açıklama:** Son birkaç yılda, HDR terimi ayrıca “Tone Mapping”, “Digital Blending”, “DRI (dinamik aralık artışı)” ve “Luminance Masking” gibi birçok farklı tekniği tanımlamak için kullanılmıştır.
-    > TTL bir ışık ölçer sistemidir.
+    > **Açıklama:** Son birkaç yılda, HDR terimi ayrıca “Tone Mapping”, “Digital Blending”, “DRI (dinamik aralık artışı)” ve “Luminance Masking” gibi birçok farklı tekniği tanımlamak için kullanılmıştır.<br />TTL bir ışık ölçer sistemidir.
 
     <hr />
 1. Aşağıdakilerden hangisi el boyaması olmayan ilk renkli fotoğrafı üretmeyi başarmıştır?
@@ -2095,8 +2050,7 @@
     - D-) 1/1000
     - **Cevap E-) 1/22000**
 
-    > **Açıklama:** Pozlama süresi de­diğimiz enstantane ayar pozisyonları ve rakam şeklinde dizilimi aşağıdaki gibidir:
-    > 30, 15, 8, 4, 2, 1, ½, ¼, 1/8, 1/15, 1/30, 1/60, 1/125, 1/250, 1/500, 1/1000, 1/1500, 1/2000.
+    > **Açıklama:** Pozlama süresi de­diğimiz enstantane ayar pozisyonları ve rakam şeklinde dizilimi aşağıdaki gibidir:<br />30, 15, 8, 4, 2, 1, ½, ¼, 1/8, 1/15, 1/30, 1/60, 1/125, 1/250, 1/500, 1/1000, 1/1500, 1/2000.
 
     <hr />
 1. ISO hızı değerlerinin ışığa göre kullanım koşullarından hangisi yanlış verilmiştir?
@@ -2106,12 +2060,7 @@
     - D-) ISO 400:Dış mekân için, gün ışığı veya kapalı hava. İç mekân için, gün ışığı ve aydınlatma.
     - E-) ISO 800:Dış mekân için, çok kapalı hava veya hızlı çekimlerin geçerli olduğu koşullar. İç Mekân, hafif aydınlatma.
 
-    > **Açıklama:** ISO 50: Veya aşağısı, parlak güneş ışığı veya stüdyo ışığı.
-    > ISO 100:Parlak güneş ışığı, gündüz kapalı hava veya stüdyo ışığı.
-    > ISO 200:Gün ışığı, kapalı hava veya stüdyo ışığı.
-    > ISO 400:Dış mekân için, gün ışığı veya kapalı hava. İç mekân için, gün ışığı ve aydınlatma.
-    > ISO 800:Dış mekân için, çok kapalı hava veya hızlı çekimlerin geçerli olduğu koşullar. İç Mekân, hafif aydınlatma.
-    > ISO 1600:Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar.
+    > **Açıklama:** ISO 50: Veya aşağısı, parlak güneş ışığı veya stüdyo ışığı.<br />ISO 100:Parlak güneş ışığı, gündüz kapalı hava veya stüdyo ışığı.<br />ISO 200:Gün ışığı, kapalı hava veya stüdyo ışığı.<br />ISO 400:Dış mekân için, gün ışığı veya kapalı hava. İç mekân için, gün ışığı ve aydınlatma.<br />ISO 800:Dış mekân için, çok kapalı hava veya hızlı çekimlerin geçerli olduğu koşullar. İç Mekân, hafif aydınlatma.<br />ISO 1600:Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar.
 
     <hr />
 1. “Genellikle küçük bir ampulle sem­bolize edilir. Bu ayarı fotoğraf makinenizde seçti­ğinizde, akkor ampul aydınlatmasının fotoğrafı­nıza vereceği sarartmayı dengeleyerek fotoğraftaki renklerinizi soğutacaktır. Böylelikle gerçeğe yakın bir renk dengesi yakalarsınız. 2700-3200 K renk ısısına etki eder.”<br />Yukarıdaki verilen bilgide aşağıdakilerden hangisinden bahsetmektedir?
@@ -2491,8 +2440,7 @@
     - **Cevap D-) Beyaz dengesi filtresi**
     - E-) Hafıza kartı
 
-    > **Açıklama:** Uzun pozlama tekniğinde yanımızda tripod (üç ayak), kablolu veya kablosuz kumanda,
-    > batarya, geniş açı veya telelensler, hafıza kartları eğer gece ışıkla boyama yapacaksanız bir led lamba, ışık ve pozlama yapacağınız saate göre ND filtre seçenekleri (ND:2-4-8), saati dış ve gece çekimlerinde her ihtimale karşı sizin ve makine için bir yağmur koruyucu olması gerekmektedir. Doğru cevap D'dir.
+    > **Açıklama:** Uzun pozlama tekniğinde yanımızda tripod (üç ayak), kablolu veya kablosuz kumanda,<br />batarya, geniş açı veya telelensler, hafıza kartları eğer gece ışıkla boyama yapacaksanız bir led lamba, ışık ve pozlama yapacağınız saate göre ND filtre seçenekleri (ND:2-4-8), saati dış ve gece çekimlerinde her ihtimale karşı sizin ve makine için bir yağmur koruyucu olması gerekmektedir. Doğru cevap D'dir.
 
     <hr />
 1. Kameranızı hareketli konuyla birlikte zaman içinde kaydırmanız ve göreceli olarak net, keskin bir konuya sahip olurken, arka planın hız etkisi veren flu bir duruma gelmesi .........................olarak açıklanabilir. Yukarıda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
@@ -2672,8 +2620,7 @@
     - D-) Orta koyu gri
     - E-) Orta açık gri
 
-    > **Açıklama:** Işık ölçer (TTL) Ansel Adams’dan miras kalan zone systemin tam ortasındaki %18’lik gri
-    > tona göre ölçüm yapar. Dolayısıyla cevap B şıkkıdır.
+    > **Açıklama:** Işık ölçer (TTL) Ansel Adams’dan miras kalan zone systemin tam ortasındaki %18’lik gri<br />tona göre ölçüm yapar. Dolayısıyla cevap B şıkkıdır.
 
     <hr />
 1. Aşağıda verilen teknikler ve yöntemler eşleştirmesinde hangisi yada hangileri doğrudur?<br />I. Hareketi dondurma – Yüksek enstantane hızı<br />II. Hareketi pozlama - Düşük enstantane hızı<br />III. Sis fotoğrafı – Otomatik fokus ayarı kullanmak<br />IV. Manzara fotoğrafında netlik – Kısık diyafram
@@ -2733,15 +2680,7 @@
     - D-) I ve II
     - E-) IV ve V
 
-    > **Açıklama:** Pozlama telafisi fotoğraf çekim teknikleri içerisinde hangi şartlarda pozlama üçgenine destek olur:
-    > 1\. Çok parlak veya çok karanlık sahneler
-    > 2\. Yüksek anahtar (high key) portre pozlamaları
-    > 3\. Karlı sahneler
-    > 4\. Plaj, deniz yansıması olan sahneler
-    > 5\. Büyük miktarda parlak gökyüzü içeren sahneler
-    > 6\. Arkadan aydınlatmalı konular
-    > 7\. Gece sahneleri
-    > 8\. Manzara doku pozlamaları
+    > **Açıklama:** Pozlama telafisi fotoğraf çekim teknikleri içerisinde hangi şartlarda pozlama üçgenine destek olur:<br />1\. Çok parlak veya çok karanlık sahneler<br />2\. Yüksek anahtar (high key) portre pozlamaları<br />3\. Karlı sahneler<br />4\. Plaj, deniz yansıması olan sahneler<br />5\. Büyük miktarda parlak gökyüzü içeren sahneler<br />6\. Arkadan aydınlatmalı konular<br />7\. Gece sahneleri<br />8\. Manzara doku pozlamaları
 
     <hr />
 1. Hangisi sayısal fotoğraf makineniz çerçevenin tamamının üzerindeki ortalama ışık seviyesini ölçerek pozlama değeri oluşturur?
@@ -2771,13 +2710,7 @@
     - D-) I, II, III ve IV
     - **Cevap E-) I, II, III, IV ve V**
 
-    > **Açıklama:** İyi bir pan tekniği için ip uçları,
-    > * İlk kez denemeye karar verdiğinizde biraz daha yavaş bir deklanşör hızı seçin 1/30 gibi. Daha son- raları ışık koşullarına göre 1/15 ve 1/60 enstantane hızları deneyebilirsiniz.
-    > * Konuyla aranıza başka bir nesnenin (insan, direk, ağaç vs.) girmeyeceği bir konum seçmeniz yara- rınıza olacaktır.
-    > * Sonuçların iyi olması için, konumunuzu, çekecek olduğunuz hareketli nesnenin yoluna paralel olacak şekilde yerleşiniz. Bu sayede odaklamanız daha kolay olacaktır.
-    > * Konu yaklaştıkça makinenizle izlemeye başlayın. Kameranızın ekstra desteği için, döner başlıklı bir monopod veya tripod kullanmak doğru olacaktır.
-    > * Otomatik odak izlemeli bir kameranız varsa, deklanşör düğmesine yarım basarak kameranın odaklanma- sını sağlayabilirsiniz. Kameranız yeterince hızlı otomatik odaklanmaya sahip değilse, fotoğraf makinesini deklanşörü bıraktığınız noktaya önceden odaklamanız gerekir.
-    > * Deklanşörü serbest bıraktığınızda, çekim tamamlandıktan sonra konuyla birlikte herekete kaydır- ma yapmaya devam edin.
+    > **Açıklama:** İyi bir pan tekniği için ip uçları,<br />* İlk kez denemeye karar verdiğinizde biraz daha yavaş bir deklanşör hızı seçin 1/30 gibi. Daha son- raları ışık koşullarına göre 1/15 ve 1/60 enstantane hızları deneyebilirsiniz.<br />* Konuyla aranıza başka bir nesnenin (insan, direk, ağaç vs.) girmeyeceği bir konum seçmeniz yara- rınıza olacaktır.<br />* Sonuçların iyi olması için, konumunuzu, çekecek olduğunuz hareketli nesnenin yoluna paralel olacak şekilde yerleşiniz. Bu sayede odaklamanız daha kolay olacaktır.<br />* Konu yaklaştıkça makinenizle izlemeye başlayın. Kameranızın ekstra desteği için, döner başlıklı bir monopod veya tripod kullanmak doğru olacaktır.<br />* Otomatik odak izlemeli bir kameranız varsa, deklanşör düğmesine yarım basarak kameranın odaklanma- sını sağlayabilirsiniz. Kameranız yeterince hızlı otomatik odaklanmaya sahip değilse, fotoğraf makinesini deklanşörü bıraktığınız noktaya önceden odaklamanız gerekir.<br />* Deklanşörü serbest bıraktığınızda, çekim tamamlandıktan sonra konuyla birlikte herekete kaydır- ma yapmaya devam edin.
 
     <hr />
 1. Hangisi fotoğraflanacak nesneye pozlamada verilen süre kadar sabit odaklı olmayan bir lensinizle yaklaşma veya uzaklaşma prensibine dayanır?
@@ -2807,8 +2740,7 @@
     - **Cevap D-) HDR**
     - E-) PSAM
 
-    > **Açıklama:** HDR (HIGH DYNAMIC RANGE) Çekim Tekniği
-    > Sayısal fotoğrafçılığın ve yazılımların devreye girmesiyle fotoğraf teknikleri de farklı yönlere evrilmiştir. Bunların en başında deneysel teknikler gelir. HDR de bu tekniklerden birisidir. Yüksek dinamik aralık anlamına gelen HDR’nin temel prensibi aynı çerçeveden oluşturulan fotoğraflarda aydınlık ve karanlık yüzey arasındaki temel ışık farklarının şiddetini ortaya koyar. Bu sayede fotoğrafta gözü okşayan yapay bir derinlik oluşur.
+    > **Açıklama:** HDR (HIGH DYNAMIC RANGE) Çekim Tekniği<br />Sayısal fotoğrafçılığın ve yazılımların devreye girmesiyle fotoğraf teknikleri de farklı yönlere evrilmiştir. Bunların en başında deneysel teknikler gelir. HDR de bu tekniklerden birisidir. Yüksek dinamik aralık anlamına gelen HDR’nin temel prensibi aynı çerçeveden oluşturulan fotoğraflarda aydınlık ve karanlık yüzey arasındaki temel ışık farklarının şiddetini ortaya koyar. Bu sayede fotoğrafta gözü okşayan yapay bir derinlik oluşur.
 
     <hr />
 1. 1\. 50mm f/1.4 veya f/1.8<br />2\. 16x35mm f2.8, veya 16x50mm<br />3\. 24x70 mm f2.8<br />4\. 85 mm f1.2<br />5\. Dar mekânlar 35mm altında geniş açı lensler<br />Yukardakilerden hangileri Mimari fotoğrafçılıkta kullanılması gereken temel lenslerdendir?
@@ -2818,14 +2750,7 @@
     - D-) I, II ve III
     - E-) I ve II
 
-    > **Açıklama:** Fotoğrafçılıkta çok genel bir söylem vardır: iyi bir fotoğraf makinesi mi, iyi bir lens mi profesyoneller bu soruya hep iyi bir lens cevabı verirler. Mimari fotoğrafçılıkta kullanılması gereken temel lensleri örneklenecek olursa:
-    > • 50mm f/1.4 veya f/1.8
-    > • 16x35mm f2.8, veya 16x50mm
-    > • 24x70 mm f2.8
-    > • 85 mm f1.2
-    > • Dar mekânlar 35mm altında geniş açı lensler
-    > • Uzak çekimler için kısmen telefoto lensler
-    > Geniş açı veya balık gözüne yakın lensler dar mekânlarda etkili sonuçlar almanızı sağlar.
+    > **Açıklama:** Fotoğrafçılıkta çok genel bir söylem vardır: iyi bir fotoğraf makinesi mi, iyi bir lens mi profesyoneller bu soruya hep iyi bir lens cevabı verirler. Mimari fotoğrafçılıkta kullanılması gereken temel lensleri örneklenecek olursa:<br />• 50mm f/1.4 veya f/1.8<br />• 16x35mm f2.8, veya 16x50mm<br />• 24x70 mm f2.8<br />• 85 mm f1.2<br />• Dar mekânlar 35mm altında geniş açı lensler<br />• Uzak çekimler için kısmen telefoto lensler<br />Geniş açı veya balık gözüne yakın lensler dar mekânlarda etkili sonuçlar almanızı sağlar.
 
     <hr />
 1. Aşağıdakilerden hangisi Camera Obscura'nın kelime anlamıdır?
@@ -2835,12 +2760,7 @@
     - D-) Çizmek
     - E-) Atmosfer
 
-    > **Açıklama:** Fotoğraf
-    > ve kameranın bulunmasına neden olan fotoğraf
-    > literatüründe karanlık oda ya da karanlık kutu
-    > anlamına gelen kamera obscura (pinhole) iğne
-    > deliği muhtemelen doğanın gerçek görüntüsünü
-    > yansıtabilen ilk cihazdır.
+    > **Açıklama:** Fotoğraf<br />ve kameranın bulunmasına neden olan fotoğraf<br />literatüründe karanlık oda ya da karanlık kutu<br />anlamına gelen kamera obscura (pinhole) iğne<br />deliği muhtemelen doğanın gerçek görüntüsünü<br />yansıtabilen ilk cihazdır.
 
     <hr />
 1. Aşağıdakilerden hangisi 10. yüzyılda ışık ışınlarının doğrusal yayılımı ilkesini bulmuştur?
@@ -2850,13 +2770,7 @@
     - D-) Paolo Toscanelli
     - E-) Gemma Frisius
 
-    > **Açıklama:** MÖ 4. yüzyılda Aristo;
-    > 10\. yüzyılda ise ışık ışınlarının doğrusal yayılımı
-    > ilkesini bulan Ibn Al-Haytam; 15. yüzyılda Leonardo
-    > da Vinci ve Paolo Toscanellı; 16. yüzyılda
-    > Gemma Frisius ve 19. yüzyılda Sir David Brewster
-    > karanlık bir ortama açılan iğne deliğinden sızan
-    > ışığın giziyle ilgilendiler.
+    > **Açıklama:** MÖ 4. yüzyılda Aristo;<br />10\. yüzyılda ise ışık ışınlarının doğrusal yayılımı<br />ilkesini bulan Ibn Al-Haytam; 15. yüzyılda Leonardo<br />da Vinci ve Paolo Toscanellı; 16. yüzyılda<br />Gemma Frisius ve 19. yüzyılda Sir David Brewster<br />karanlık bir ortama açılan iğne deliğinden sızan<br />ışığın giziyle ilgilendiler.
 
     <hr />
 1. Gümüş tuzlarının ışığa duyarlılığı olduğu kim tarafından keşfedilmiştir?
@@ -2866,9 +2780,7 @@
     - D-) Michelangelo
     - E-) Niepce
 
-    > **Açıklama:** Fotoğrafın önünü açan buluş hiç kuşkusuz ki
-    > bilim adamı Johann Heinrich Schulze tarafından
-    > gümüş tuzlarının ışığa duyarlılığının keşfedilmesidir.
+    > **Açıklama:** Fotoğrafın önünü açan buluş hiç kuşkusuz ki<br />bilim adamı Johann Heinrich Schulze tarafından<br />gümüş tuzlarının ışığa duyarlılığının keşfedilmesidir.
 
     <hr />
 1. Birçok fotoğraf ekipmanıyla yaptığı hareket çalışmalarıyla tanınan fotoğraf sanatçısı aşağıdakilerden hangisidir?
@@ -2878,10 +2790,7 @@
     - D-) Annie Leibowitz
     - **Cevap E-) Eadweard Muybridge**
 
-    > **Açıklama:** Eadweard Muybridge (1830-1907) birçok fotoğraf ekipmanıyla yaptığı hareket çalışmalarıyla tanınan
-    > İngiliz doğumlu bir fotoğrafçı. Muybridge, at yarışlarını birden çok kamerayla birden çok açıdan fotoğrafladı
-    > ve atı hareket ettirmek için bu görüntüleri birleştirdi. 1878’de yapılan bu deneyde, Kolodinium
-    > tekniği ile dörtnala giden atın tüm hareketini çekti.
+    > **Açıklama:** Eadweard Muybridge (1830-1907) birçok fotoğraf ekipmanıyla yaptığı hareket çalışmalarıyla tanınan<br />İngiliz doğumlu bir fotoğrafçı. Muybridge, at yarışlarını birden çok kamerayla birden çok açıdan fotoğrafladı<br />ve atı hareket ettirmek için bu görüntüleri birleştirdi. 1878’de yapılan bu deneyde, Kolodinium<br />tekniği ile dörtnala giden atın tüm hareketini çekti.
 
     <hr />
 1. Aşağıdakilerden hangisi fotoğraf tarihinin ilk portre fotoğrafını çekmiştir?
@@ -2891,8 +2800,7 @@
     - D-) Alphose Giroux
     - E-) William Henry Fox Talbot
 
-    > **Açıklama:** John William Draper (1811-1882) 1840’da fotoğraf
-    > tarihin ilk portre fotoğrafını çekmiştir.
+    > **Açıklama:** John William Draper (1811-1882) 1840’da fotoğraf<br />tarihin ilk portre fotoğrafını çekmiştir.
 
     <hr />
 1. El boyaması olmayan ilk renkli fotoğrafı kim üretmiştir?
@@ -2902,8 +2810,7 @@
     - D-) Stephen Henry Horgan
     - E-) Hippolyte Bayard
 
-    > **Açıklama:** 1861’de James Clark Maxwell, el boyaması olmayan
-    > ilk renkli fotoğrafı üretmeyi başarmıştı.
+    > **Açıklama:** 1861’de James Clark Maxwell, el boyaması olmayan<br />ilk renkli fotoğrafı üretmeyi başarmıştı.
 
     <hr />
 1. Aşağıdakilerden hangisi poz ölçüm modlarından birisi değildir?
@@ -2933,13 +2840,7 @@
     - D-) LED el fenerleri
     - E-) Kablosuz uzaktan kumanda
 
-    > **Açıklama:** Teknik olarak oldukça yaratıcı ve
-    > eğlenceli bir tekniktir. Bu teknik sayesinde fotoğrafa
-    > yeni başlayanların ilgisi canlı tutulur ve fotoğraf bir tutku
-    > hâline dönüşebilir. Bu tekniği uygulamak için ışıktan
-    > arındırılmış bir stüdyo, ev odası veya kapalı herhangi bir
-    > mekân olabileceği gibi yine ışık almayan bir gece ortamında
-    > dış mekân da olabilir.
+    > **Açıklama:** Teknik olarak oldukça yaratıcı ve<br />eğlenceli bir tekniktir. Bu teknik sayesinde fotoğrafa<br />yeni başlayanların ilgisi canlı tutulur ve fotoğraf bir tutku<br />hâline dönüşebilir. Bu tekniği uygulamak için ışıktan<br />arındırılmış bir stüdyo, ev odası veya kapalı herhangi bir<br />mekân olabileceği gibi yine ışık almayan bir gece ortamında<br />dış mekân da olabilir.
 
     <hr />
 1. 1855'te ilk savaş fotoğrafçısı olarak Kraliçenin emri ile Kırım Savaşı'nı görüntülemek için gönderilen fotoğrafçı aşağıdakilerden hangisidir?
@@ -2949,9 +2850,7 @@
     - D-) Oskar Barnack
     - E-) James Clark Maxwell
 
-    > **Açıklama:** 1855’te İngiliz Roger Fenton (1819-1869) ilk
-    > savaş fotoğrafçısı olarak Kraliçe’nin emri ile Kırım
-    > Savaşı’nı görüntülemek için gönderilmişti.
+    > **Açıklama:** 1855’te İngiliz Roger Fenton (1819-1869) ilk<br />savaş fotoğrafçısı olarak Kraliçe’nin emri ile Kırım<br />Savaşı’nı görüntülemek için gönderilmişti.
 
     <hr />
 1. Aşağıdakilerden hangisi fotoğraf kelimesinin anlamıdır?
@@ -2961,8 +2860,7 @@
     - D-) Tarihe not düşmek
     - E-) Cisimleri hafızaya almak
 
-    > **Açıklama:** Fotoğrafın kelime anlamı, ışık yardımı ile iz bırakmaktır.
-    > Doğru cevap C seçeneğidir.
+    > **Açıklama:** Fotoğrafın kelime anlamı, ışık yardımı ile iz bırakmaktır.<br />Doğru cevap C seçeneğidir.
 
     <hr />
 1. Kamera Obscura aşağıdakilerden hangi anlama gelmektedir?
@@ -3042,8 +2940,7 @@
     - D-) Agfa
     - E-) Minolta
 
-    > **Açıklama:** Oskar Barnack(1879-1936), 1913’te Ernst Leitz Optische Werke adlı ilk 35 mm kamerayı yapan bir mucit ve Alman fotoğrafçıydı. Yurt dışında fotoğraf çekebilmek için kameraların boyutunu ve ağırlığını azaltmayı önerdi. Kameraya verilen isim Leica, Lei tz Camera’dan elde edilen bir anagramdı. Leica I, 1927 yılında satışa başladı. 1930 yılında
-    > Leica değiştirilebilir objektife sahip ilk 35 mm kamerayı üretti.
+    > **Açıklama:** Oskar Barnack(1879-1936), 1913’te Ernst Leitz Optische Werke adlı ilk 35 mm kamerayı yapan bir mucit ve Alman fotoğrafçıydı. Yurt dışında fotoğraf çekebilmek için kameraların boyutunu ve ağırlığını azaltmayı önerdi. Kameraya verilen isim Leica, Lei tz Camera’dan elde edilen bir anagramdı. Leica I, 1927 yılında satışa başladı. 1930 yılında<br />Leica değiştirilebilir objektife sahip ilk 35 mm kamerayı üretti.
 
     <hr />
 1. Aşağıdakilerden hangisinde diyafram en çok alan derinliğine sahiptir?
@@ -3053,8 +2950,7 @@
     - D-) f/8
     - **Cevap E-) f/16**
 
-    > **Açıklama:** Konu f stoplarının rakamsal değeri üzerinden örneklenecek olursa; manzara fotoğrafı pozlayacaksınız ve geniş bir alan derinliği elde ederek her şeyi net görmek istiyorsunuz,
-    > diyafram “f ” değerinizin f/16 ile f/22 gibi bir aralıkta olması sonuç almanızı sağlayacaktır.
+    > **Açıklama:** Konu f stoplarının rakamsal değeri üzerinden örneklenecek olursa; manzara fotoğrafı pozlayacaksınız ve geniş bir alan derinliği elde ederek her şeyi net görmek istiyorsunuz,<br />diyafram “f ” değerinizin f/16 ile f/22 gibi bir aralıkta olması sonuç almanızı sağlayacaktır.
 
     <hr />
 1. Bir fotoğraf makinasında enstantane hızı ne işe yarar?
@@ -3104,8 +3000,7 @@
     - D-) Gün Işığı
     - E-) Flaş
 
-    > **Açıklama:** Histogram: profesyonel fotoğrafçıların çok önem verdiği bir araçtır. Bir fotoğrafın
-    > çekim tekniği olarak doğru pozlandığının ölçümünün yapıldığı grafiktir.
+    > **Açıklama:** Histogram: profesyonel fotoğrafçıların çok önem verdiği bir araçtır. Bir fotoğrafın<br />çekim tekniği olarak doğru pozlandığının ölçümünün yapıldığı grafiktir.
 
     <hr />
 1. Fotoğraf makinesinin pozometresi ne olursa olsun fotoğrafların daha parlak veya daha karanlık olmasını sağlamak için poz ayarlarının değişmesine olanak sağlayan özellik aşağıdakilerden hangisidir?
@@ -3125,8 +3020,7 @@
     - D-) Spot Ölçüm
     - **Cevap E-) Tam Ölçüm**
 
-    > **Açıklama:** Tam ölçüm adında bir ölçüm çeşidi poz ölçüm modları arasında yer almamaktadır.
-    > Doğru cevap E seçeneğidir.
+    > **Açıklama:** Tam ölçüm adında bir ölçüm çeşidi poz ölçüm modları arasında yer almamaktadır.<br />Doğru cevap E seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi otomatik netleme parametrelerinde yer alan ayarlamalar arasında *bulunmaz?*
@@ -3136,8 +3030,7 @@
     - D-) Kullanıcı seçili netleme alanı
     - **Cevap E-) Ortalama odak noktası**
 
-    > **Açıklama:** Soru kökünde ifade edilen ayarlamalar arasında "ortalama odak noktası" bulunmamaktadır.
-    > Doğru cevap E seçeneğidir.
+    > **Açıklama:** Soru kökünde ifade edilen ayarlamalar arasında "ortalama odak noktası" bulunmamaktadır.<br />Doğru cevap E seçeneğidir.
 
     <hr />
 1. Fotoğraf çekim tekniklerinde estetik yaratıcılık kapsamında hareketi dondurmanın yolu aşağıdakilerden hangisinden geçmektedir?
@@ -3517,8 +3410,7 @@
     - D-) ISO 800 Dış mekân için, çok kapalı hava veya hızlı çekimlerin geçerli olduğu koşullar. İç Mekân, hafif aydınlatma.
     - E-) ISO 200 Gün ışığı, kapalı hava veya stüdyo ışığı.
 
-    > **Açıklama:** ISO hızı değerlerinin ışığa göre kullanım koşulları;
-    > ISO 50 Veya aşağısı, parlak güneş ışığı veya stüdyo ışığı. ISO 100 Parlak güneş ışığı, gündüz kapalı hava veya stüdyo ışığı. ISO 200 Gün ışığı, kapalı hava veya stüdyo ışığı. ISO 400 Dış mekân için, gün ışığı veya kapalı hava. İç mekân için, gün ışığı ve aydınlatma. ISO 800 Dış mekân için, çok kapalı hava veya hızlı çekimlerin geçerli olduğu koşullar. İç Mekân, hafif aydınlatma. ISO 1600 Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar. ISO 3200 Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar.
+    > **Açıklama:** ISO hızı değerlerinin ışığa göre kullanım koşulları;<br />ISO 50 Veya aşağısı, parlak güneş ışığı veya stüdyo ışığı. ISO 100 Parlak güneş ışığı, gündüz kapalı hava veya stüdyo ışığı. ISO 200 Gün ışığı, kapalı hava veya stüdyo ışığı. ISO 400 Dış mekân için, gün ışığı veya kapalı hava. İç mekân için, gün ışığı ve aydınlatma. ISO 800 Dış mekân için, çok kapalı hava veya hızlı çekimlerin geçerli olduğu koşullar. İç Mekân, hafif aydınlatma. ISO 1600 Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar. ISO 3200 Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar.
 
     <hr />
 1. Hangisi Calotype/Kalotip olarak adlandırılan teknikle günümüze ulaşan en eski negatifi üretmiştir?
@@ -3648,8 +3540,7 @@
     - D-) Calotype
     - E-) Poz Telafisi
 
-    > **Açıklama:** Pozlamanın omurgası sayılan üç temel kavram “Diyafram”, “Enstantane Hızı” ve “ISO Hızı” dır.
-    > Bu üçlüye fotoğrafta Pozlama Üçgeni denir. A, C, D ve E seçenekleri bu üçlüye ait değildir. Doğru cevap B seçeneğidir.
+    > **Açıklama:** Pozlamanın omurgası sayılan üç temel kavram “Diyafram”, “Enstantane Hızı” ve “ISO Hızı” dır.<br />Bu üçlüye fotoğrafta Pozlama Üçgeni denir. A, C, D ve E seçenekleri bu üçlüye ait değildir. Doğru cevap B seçeneğidir.
 
     <hr />
 1. Aşağıda verilen seçeneklerden hangisi pozlama üçgeni kavramlarından biri olan diyafram ile ilgili ***doğru değildir?***
@@ -3809,26 +3700,7 @@
     - **Cevap D-) ISO 400**
     - E-) ISO 800
 
-    > **Açıklama:** ISO 50 Veya aşağısı, parlak güneş ışığı veya
-    > stüdyo ışığı.
-    > ISO 100 Parlak güneş ışığı, gündüz kapalı hava
-    > veya stüdyo ışığı.
-    > ISO 200 Gün ışığı, kapalı hava veya stüdyo ışığı.
-    > ISO 400 Dış mekân için, gün ışığı veya kapalı hava.
-    > İç mekân için, gün ışığı ve aydınlatma.
-    > ISO 800
-    > Dış mekân için, çok kapalı hava veya
-    > hızlı çekimlerin geçerli olduğu koşullar.
-    > İç Mekân, hafif aydınlatma.
-    > ISO 1600
-    > Akşam ve az ışığın olduğu yerler veya
-    > çok hızlı çekimlerin geçerli olduğu
-    > koşullar.
-    > ISO 3200
-    > Akşam ve az ışığın olduğu yerler veya
-    > çok hızlı çekimlerin geçerli olduğu
-    > koşullar.
-    > Bu tabloya göre doğru cevap D'dir.
+    > **Açıklama:** ISO 50 Veya aşağısı, parlak güneş ışığı veya<br />stüdyo ışığı.<br />ISO 100 Parlak güneş ışığı, gündüz kapalı hava<br />veya stüdyo ışığı.<br />ISO 200 Gün ışığı, kapalı hava veya stüdyo ışığı.<br />ISO 400 Dış mekân için, gün ışığı veya kapalı hava.<br />İç mekân için, gün ışığı ve aydınlatma.<br />ISO 800<br />Dış mekân için, çok kapalı hava veya<br />hızlı çekimlerin geçerli olduğu koşullar.<br />İç Mekân, hafif aydınlatma.<br />ISO 1600<br />Akşam ve az ışığın olduğu yerler veya<br />çok hızlı çekimlerin geçerli olduğu<br />koşullar.<br />ISO 3200<br />Akşam ve az ışığın olduğu yerler veya<br />çok hızlı çekimlerin geçerli olduğu<br />koşullar.<br />Bu tabloya göre doğru cevap D'dir.
 
     <hr />
 1. Aşağıdakilerden hangisi ışıkla boyama tekniği için gerekli olan ihtiyaçlardan biri değildir?
@@ -3888,14 +3760,7 @@
     - **Cevap D-) Dar mekânlar 35mm üstünde dar açı lensler**
     - E-) 85 mm f1.2
 
-    > **Açıklama:** Lens Seçimi, Mimari fotoğrafçılık için en önemli teknik birikimlerden birisi kullanılacak teknik ekipmana hakim olmaktır. Bunlar içerisin­de en önemlisi lenslerdir. Fotoğrafçılıkta çok genel bir söylem vardır: iyi bir fotoğraf makinesi mi, iyi bir lens mi profesyoneller bu soruya hep iyi bir lens cevabı verirler. Mimari fotoğrafçılıkta kullanılması gereken temel lensleri örneklenecek olursa:
-    > • 50mm f/1.4 veya f/1.8
-    > • 16x35mm f2.8, veya 16x50mm
-    > • 24x70 mm f2.8
-    > • 85 mm f1.2
-    > • Dar mekânlar 35mm altında geniş açı lensler
-    > • Uzak çekimler için kısmen telefoto lensler
-    > Geniş açı veya balık gözüne yakın lensler dar mekânlarda etkili sonuçlar almanızı sağlar. Aynı zamanda mimari yapıların bütünü üzerinde bir hiyerarşik abartı ve görkem sağlamanız mümkün­dür. Özellikle iç mekânlar sıkışık alanlarda 160 derece gibi bir alanı tarama şansı size verir. Yine ticari otel çekimlerinde dar odalarda, banyolarda mekânı tarama şansınız çok fazladır. Geniş açı lensler fotoğrafçılık anlamında bir de handikaba sahiptir. Bu tür lenslerin oluşturacağı bombe­leşme etkisi, distorsiyon ve perspektif sapmaları gözü rahatsız eder. Bu tür sonuçları düşünerek çekim yapmalı ve gerektiği takdirde yazılımlardan perspektif düzeltme desteği alınmalıdır. Doğru cevap D şıkkıdır.
+    > **Açıklama:** Lens Seçimi, Mimari fotoğrafçılık için en önemli teknik birikimlerden birisi kullanılacak teknik ekipmana hakim olmaktır. Bunlar içerisin­de en önemlisi lenslerdir. Fotoğrafçılıkta çok genel bir söylem vardır: iyi bir fotoğraf makinesi mi, iyi bir lens mi profesyoneller bu soruya hep iyi bir lens cevabı verirler. Mimari fotoğrafçılıkta kullanılması gereken temel lensleri örneklenecek olursa:<br />• 50mm f/1.4 veya f/1.8<br />• 16x35mm f2.8, veya 16x50mm<br />• 24x70 mm f2.8<br />• 85 mm f1.2<br />• Dar mekânlar 35mm altında geniş açı lensler<br />• Uzak çekimler için kısmen telefoto lensler<br />Geniş açı veya balık gözüne yakın lensler dar mekânlarda etkili sonuçlar almanızı sağlar. Aynı zamanda mimari yapıların bütünü üzerinde bir hiyerarşik abartı ve görkem sağlamanız mümkün­dür. Özellikle iç mekânlar sıkışık alanlarda 160 derece gibi bir alanı tarama şansı size verir. Yine ticari otel çekimlerinde dar odalarda, banyolarda mekânı tarama şansınız çok fazladır. Geniş açı lensler fotoğrafçılık anlamında bir de handikaba sahiptir. Bu tür lenslerin oluşturacağı bombe­leşme etkisi, distorsiyon ve perspektif sapmaları gözü rahatsız eder. Bu tür sonuçları düşünerek çekim yapmalı ve gerektiği takdirde yazılımlardan perspektif düzeltme desteği alınmalıdır. Doğru cevap D şıkkıdır.
 
     <hr />
 1. Mimari fotoğraflarda çekim sonrası fotoğraf üzerinde oynama ve perspektif dü­zeltmeleri için çekimleri hangi dosya türünde kaydetmek önerilir?
@@ -3935,15 +3800,7 @@
     - D-) ISO 200- Gün ışığı, kapalı hava veya stüdyo ışığı.
     - E-) ISO 3200- Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar.
 
-    > **Açıklama:** ISO hızı değerlerinin ışığa göre kullanım koşulları;
-    > ISO 50- veya aşağısı, parlak güneş ışığı veya stüdyo ışığı.
-    > ISO 100- Parlak güneş ışığı, gündüz kapalı hava veya stüdyo ışığı.
-    > ISO 200- Gün ışığı, kapalı hava veya stüdyo ışığı.
-    > ISO 400- Dış mekân için, gün ışığı veya kapalı hava. İç mekân için, gün ışığı ve aydınlatma.
-    > ISO 800- Dış mekân için, çok kapalı hava veya hızlı çekimlerin geçerli olduğu koşullar. İç Mekân, hafif aydınlatma.
-    > ISO 1600- Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar.
-    > ISO 3200- Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar.
-    > Doğru cevap B şıkkıdır.
+    > **Açıklama:** ISO hızı değerlerinin ışığa göre kullanım koşulları;<br />ISO 50- veya aşağısı, parlak güneş ışığı veya stüdyo ışığı.<br />ISO 100- Parlak güneş ışığı, gündüz kapalı hava veya stüdyo ışığı.<br />ISO 200- Gün ışığı, kapalı hava veya stüdyo ışığı.<br />ISO 400- Dış mekân için, gün ışığı veya kapalı hava. İç mekân için, gün ışığı ve aydınlatma.<br />ISO 800- Dış mekân için, çok kapalı hava veya hızlı çekimlerin geçerli olduğu koşullar. İç Mekân, hafif aydınlatma.<br />ISO 1600- Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar.<br />ISO 3200- Akşam ve az ışığın olduğu yerler veya çok hızlı çekimlerin geçerli olduğu koşullar.<br />Doğru cevap B şıkkıdır.
 
     <hr />
 ## Unite 4
@@ -3984,9 +3841,7 @@
     - D-) Şekil-zemin ilişkisi, yakınlık, benzerlik, süreklilik, tamamlama, devamlılık, basitlik yasaları, algısal örgütleme yasalarından oluşur.
     - E-) Gestalt kura­mı olay, olgu, nesnelere bütüncül yaklaşımla bak­mayı öğreten algısal organizasyon kuramıdır.
 
-    > **Açıklama:** Gestalt Kuramı;
-    > Algısal psikoloji üzerinde çalışan ilk Alman psikologları gestalt kelimesi ile ifade ettiler.
-    > Gestalt Almanca bir kelime olup; biçim, şekil, form gibi anlamlara gelmektedir. Gestalt kuramı algısal örgütleme yasaları ile ilgilenen bir psikoloji teorisidir. Şekil-zemin ilişkisi, yakınlık, benzerlik, süreklilik, tamamlama, devamlılık, basitlik yasaları, algısal örgütleme yasalarından oluşur. Gestalt kura­mı olay, olgu, nesnelere bütüncül yaklaşımla bak­mayı öğreten algısal organizasyon kuramıdır.
+    > **Açıklama:** Gestalt Kuramı;<br />Algısal psikoloji üzerinde çalışan ilk Alman psikologları gestalt kelimesi ile ifade ettiler.<br />Gestalt Almanca bir kelime olup; biçim, şekil, form gibi anlamlara gelmektedir. Gestalt kuramı algısal örgütleme yasaları ile ilgilenen bir psikoloji teorisidir. Şekil-zemin ilişkisi, yakınlık, benzerlik, süreklilik, tamamlama, devamlılık, basitlik yasaları, algısal örgütleme yasalarından oluşur. Gestalt kura­mı olay, olgu, nesnelere bütüncül yaklaşımla bak­mayı öğreten algısal organizasyon kuramıdır.
 
     <hr />
 1. “Görsel Düşünme” kitabında; deneyimli bir hekimin bir yaraya, deneyimli bir makine ustasının bir ma­kinaya, bir fizyoloğun bir mikroskop preparatına baktığında aceminin görmediği şeyleri görebildiği­ni ifade eder.<br />Yukarıda bahsedilen anlatımda kitabın yazarı aşağıdakilerden hangisidir?
@@ -4036,8 +3891,7 @@
     - D-) Göstergebilim, insanların sözcüklerden, sesler­den ve resimlerden nasıl anlam çıkardığına dair bir tarif ortaya koyar.
     - E-) Göstergebilim üç ‘sınıflan­dırıcı’ olduğunu önerir. Bunlar; gösterge, sistem ve bağlamdır.
 
-    > **Açıklama:** Göstergebilim (semiyoloji) imaj olgusunun an­laşılmasında, reklamların anlamlarının çözülmesinde ve tüketim tartışmalarına yön verilmesinde oldukça önemli bir yere sahiptir. Göstergebilim “göstergeleri inceleyen bilim dalı” olarak tanımlanabilir.
-    > Göstergebilim, insanların sözcüklerden, sesler­den ve resimlerden nasıl anlam çıkardığına dair bir tarif ortaya koyar. Göstergebilim üç ‘sınıflan­dırıcı’ olduğunu önerir. Bunlar; gösterge, sistem ve bağlamdır. Gösterge içeriği aracılığıyla bilgi verir, sistem göstergenin iş gördüğü düzendir (yol işaret­lendirme sistemleri gibi) ve bağlam da göstergenin konumlandığı düzendir (hareketli makinelerin yanı gibi). Pek çok tasarım sembolik göndermeler veya çoklu bilgi katmanlarıyla iletişim kuran göstergeler barındırır. Gösterge güçlü bir iletişim aracıdır.
+    > **Açıklama:** Göstergebilim (semiyoloji) imaj olgusunun an­laşılmasında, reklamların anlamlarının çözülmesinde ve tüketim tartışmalarına yön verilmesinde oldukça önemli bir yere sahiptir. Göstergebilim “göstergeleri inceleyen bilim dalı” olarak tanımlanabilir.<br />Göstergebilim, insanların sözcüklerden, sesler­den ve resimlerden nasıl anlam çıkardığına dair bir tarif ortaya koyar. Göstergebilim üç ‘sınıflan­dırıcı’ olduğunu önerir. Bunlar; gösterge, sistem ve bağlamdır. Gösterge içeriği aracılığıyla bilgi verir, sistem göstergenin iş gördüğü düzendir (yol işaret­lendirme sistemleri gibi) ve bağlam da göstergenin konumlandığı düzendir (hareketli makinelerin yanı gibi). Pek çok tasarım sembolik göndermeler veya çoklu bilgi katmanlarıyla iletişim kuran göstergeler barındırır. Gösterge güçlü bir iletişim aracıdır.
 
     <hr />
 1. “Inquiries into Human Faculty and Develop­ment adlı kitabında, bazı bireylerin canlı zihinsel resimler gördüğünü yazar ve diğerleri için “Fikir­ler zihinsel resimler olarak değil, olguların sembolleri olarak hissedilir. Düşük düzeyde resimsel imgeleme sahip bireyler, kahvaltı masalarını hatırlar ancak onu göremezler” diye ekler.”<br />Yukarıda bahsedilen yazar aşağıdakilerden hangisidir?
@@ -4067,8 +3921,7 @@
     - D-) Dokunma
     - E-) Özümseme
 
-    > **Açıklama:** Algı (perception) insanın anlık yaşantısı sırasında kazanılan duyusal bilgilerin (çevrede var olan olay ve etkilerin) beyin tarafından organize edilip yorumlanma veya anlamlandırma sürecidir. Algı gerçekliği bilinç ve muhakeme içerir; algı, görme,
-    > işitme, koku, tat, dokunma ve diğer vücut duyularıyla ilişkilidir. Doğru cevap A'dır.
+    > **Açıklama:** Algı (perception) insanın anlık yaşantısı sırasında kazanılan duyusal bilgilerin (çevrede var olan olay ve etkilerin) beyin tarafından organize edilip yorumlanma veya anlamlandırma sürecidir. Algı gerçekliği bilinç ve muhakeme içerir; algı, görme,<br />işitme, koku, tat, dokunma ve diğer vücut duyularıyla ilişkilidir. Doğru cevap A'dır.
 
     <hr />
 1. Zihinde tasarlanan ve gerçekleştirilmesi özlenen şey, hayal, hülya, aşağıdaki kavramlardan hangisinin tanımıdır?
@@ -4098,8 +3951,7 @@
     - D-) Kimlik
     - E-) Sembol
 
-    > **Açıklama:** Amblem bir şirketin, ürünün, hizmetin veya oluşumun karakterini yansıtmak üzere tasarlanan grafik bir semboldür. Logo, bir kurumu yazınsal olarak tanımlar, yazı karakterlerini onun güçlü yönlerinin ve kültürünün göstergesi olacak şekilde stilize eder. Marka ise bir ürünü, hizmeti veya kurumu rakiplerinden ayrıştıran ve
-    > tanımlayan bir sembol, işarettir. Buna göre doğru cevap C'dir.
+    > **Açıklama:** Amblem bir şirketin, ürünün, hizmetin veya oluşumun karakterini yansıtmak üzere tasarlanan grafik bir semboldür. Logo, bir kurumu yazınsal olarak tanımlar, yazı karakterlerini onun güçlü yönlerinin ve kültürünün göstergesi olacak şekilde stilize eder. Marka ise bir ürünü, hizmeti veya kurumu rakiplerinden ayrıştıran ve<br />tanımlayan bir sembol, işarettir. Buna göre doğru cevap C'dir.
 
     <hr />
 1. Göz içerisinde görüntünün odaklandığı tabaka aşağıdakilerden hangisidir?
@@ -4119,8 +3971,7 @@
     - D-) Süreklilik
     - **Cevap E-) Sonsuzluk**
 
-    > **Açıklama:** Gestalt Almanca bir kelime olup; biçim, şekil, form gibi anlamlara gelmektedir. Gestalt kuramı algısal örgütleme yasaları ile ilgilenen bir psikoloji teorisidir. Şekil-zemin ilişkisi, yakınlık, benzerlik, süreklilik, tamamlama, devamlılık, basitlik yasaları,
-    > algısal örgütleme yasalarından oluşur. Doğru cevap E'dir.
+    > **Açıklama:** Gestalt Almanca bir kelime olup; biçim, şekil, form gibi anlamlara gelmektedir. Gestalt kuramı algısal örgütleme yasaları ile ilgilenen bir psikoloji teorisidir. Şekil-zemin ilişkisi, yakınlık, benzerlik, süreklilik, tamamlama, devamlılık, basitlik yasaları,<br />algısal örgütleme yasalarından oluşur. Doğru cevap E'dir.
 
     <hr />
 1. Hiyeroglif ve benzeri yazı sistemlerinde bir kavramın karşılığı olarak kullanılan resimsel öge olarak tanımlanan kavram aşağıdakilerden hangisidir?
@@ -4190,9 +4041,7 @@
     - D-) Nesnelere ve olaylara ilişkin bilinçli farkındalığı içerir.
     - **Cevap E-) Algı bilinçli bir yaklaşım içermeyip duygusal yaklaşımdır.**
 
-    > **Açıklama:** Algı gerçekliği bilinç ve muhakeme içerir; algı, görme,
-    > işitme, koku, tat, dokunma ve diğer vücut duyularıyla ilişkilidir. Algı, bir şeyler öğrenmenin yanı sıra bireyin çevre ile bağlantısını da kurar. Daha yalın
-    > bir deyimle ifade edecek olursak algı; duyu organlarımıza gelen dışsal uyarıcıların anlamlı hâle getirilmesidir.
+    > **Açıklama:** Algı gerçekliği bilinç ve muhakeme içerir; algı, görme,<br />işitme, koku, tat, dokunma ve diğer vücut duyularıyla ilişkilidir. Algı, bir şeyler öğrenmenin yanı sıra bireyin çevre ile bağlantısını da kurar. Daha yalın<br />bir deyimle ifade edecek olursak algı; duyu organlarımıza gelen dışsal uyarıcıların anlamlı hâle getirilmesidir.
 
     <hr />
 1. Aşağıdakilerden hangisi Gestalt kuramı için söylenemez?
@@ -4202,12 +4051,7 @@
     - D-) Gestalt kuramı olay, olgu, nesnelere bütüncül yaklaşımla bakmayı öğreten algısal organizasyon kuramıdır.
     - **Cevap E-) Bütüne değil parçanın kendine önem veren kuramdır.**
 
-    > **Açıklama:** Almanca bir kelime olup; biçim, şekil,
-    > form gibi anlamlara gelmektedir. Gestalt kuramı
-    > algısal örgütleme yasaları ile ilgilenen bir psikoloji
-    > teorisidir. Şekil-zemin ilişkisi, yakınlık, benzerlik,
-    > süreklilik, tamamlama, devamlılık, basitlik yasaları,
-    > algısal örgütleme yasalarından oluşur. Gestalt kuramı olay, olgu, nesnelere bütüncül yaklaşımla bakmayı öğreten algısal organizasyon kuramıdır.
+    > **Açıklama:** Almanca bir kelime olup; biçim, şekil,<br />form gibi anlamlara gelmektedir. Gestalt kuramı<br />algısal örgütleme yasaları ile ilgilenen bir psikoloji<br />teorisidir. Şekil-zemin ilişkisi, yakınlık, benzerlik,<br />süreklilik, tamamlama, devamlılık, basitlik yasaları,<br />algısal örgütleme yasalarından oluşur. Gestalt kuramı olay, olgu, nesnelere bütüncül yaklaşımla bakmayı öğreten algısal organizasyon kuramıdır.
 
     <hr />
 1. İnsanların duyu organlarına gelen uyarıcılardan yalnızca bazılarına tepki vermesi olayına ne ad verilir?
@@ -4217,8 +4061,7 @@
     - D-) İmaj
     - E-) İmge
 
-    > **Açıklama:** Algıda seçicilik, insanların duyu organlarına
-    > gelen uyarıcılardan yalnızca bazılarına tepki vermesi olayıdır
+    > **Açıklama:** Algıda seçicilik, insanların duyu organlarına<br />gelen uyarıcılardan yalnızca bazılarına tepki vermesi olayıdır
 
     <hr />
 1. Aşağıdakilerden hangisi algıda değişmezliği tanımlar?
@@ -4368,8 +4211,7 @@
     - D-) Gestalt
     - E-) İmge
 
-    > **Açıklama:** İnsanların duyu organlarına gelen uyarıcılardan yalnızca bazılarına tepki vermesi olayına algıda seçicilik denilmektedir.
-    > Doğru cevap: A
+    > **Açıklama:** İnsanların duyu organlarına gelen uyarıcılardan yalnızca bazılarına tepki vermesi olayına algıda seçicilik denilmektedir.<br />Doğru cevap: A
 
     <hr />
 1. I. Bilim<br />II. Rasyonellik<br />III. Matematik<br />IV. Sezgisellik<br />Yukarıda verilmiş olan seçeneklerden hangi/hangileri sol beyin fonksiyonlarındandır ?
@@ -4379,8 +4221,7 @@
     - D-) II ve IV
     - E-) I,II,III ve IV
 
-    > **Açıklama:** Bilim,rasyonellik ve matematik sol beynin fonksiyonlarındandır.
-    > Doğru cevap: B
+    > **Açıklama:** Bilim,rasyonellik ve matematik sol beynin fonksiyonlarındandır.<br />Doğru cevap: B
 
     <hr />
 1. İnsanın anlık yaşantısı sırasında kazanılan duyusal bilgilerin,beyin tarafından organize edilip anlamlandırma sürecine ne denir ?
@@ -4390,8 +4231,7 @@
     - D-) Algı yanılsaması
     - E-) İmge
 
-    > **Açıklama:** İnsanın anlık yaşantısı sırasında kazanılan duyusal bilgilerin beyin tarafından organize edilip anlamlandırma sürecine algı denilir.
-    > Doğru cevap: A
+    > **Açıklama:** İnsanın anlık yaşantısı sırasında kazanılan duyusal bilgilerin beyin tarafından organize edilip anlamlandırma sürecine algı denilir.<br />Doğru cevap: A
 
     <hr />
 1. Algıladığımız an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere ne denir ?
@@ -4401,8 +4241,7 @@
     - D-) İç algılar
     - E-) Algılama
 
-    > **Açıklama:** Algıladığımız an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere algı yanılsaması denilir.
-    > Doğru cevap: C seçeneğidir.
+    > **Açıklama:** Algıladığımız an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere algı yanılsaması denilir.<br />Doğru cevap: C seçeneğidir.
 
     <hr />
 1. Beyin loblarının kesitsel görünümünde hangisini göremeyiz ?
@@ -4412,8 +4251,7 @@
     - **Cevap D-) Retina**
     - E-) Yan lob
 
-    > **Açıklama:** Alın lobu,yan lob,omirilik ve omirilik soğanı beynin bölümlerinden biridir ama retina yanlış cevaptır.
-    > Doğru cevap D seçeneğidir.
+    > **Açıklama:** Alın lobu,yan lob,omirilik ve omirilik soğanı beynin bölümlerinden biridir ama retina yanlış cevaptır.<br />Doğru cevap D seçeneğidir.
 
     <hr />
 1. Bir şirketin, ürünün, hizmetin veya oluşumun karakterini yansıtmak üzere tasarlanan grafik sembole ne denir ?
@@ -4423,8 +4261,7 @@
     - D-) İmaj
     - E-) Reklam
 
-    > **Açıklama:** Bir şirketin, ürünün, hizmetin veya oluşumun karakterini yansıtmak üzere tasarlanan grafik sembole amblem denir.
-    > Doğru cevap B seçeneğidir.
+    > **Açıklama:** Bir şirketin, ürünün, hizmetin veya oluşumun karakterini yansıtmak üzere tasarlanan grafik sembole amblem denir.<br />Doğru cevap B seçeneğidir.
 
     <hr />
 1. Bir insanın gözünün kesitinde hangisini göremeyiz ?
@@ -4434,8 +4271,7 @@
     - D-) Jel
     - E-) İris
 
-    > **Açıklama:** Bağ dokusu,iris,kolorid tabakası ve jel göz kesitinde mevcuttur ama omirilik yanlış cevaptır.
-    > Doğru yanıt C seçeneğidir.
+    > **Açıklama:** Bağ dokusu,iris,kolorid tabakası ve jel göz kesitinde mevcuttur ama omirilik yanlış cevaptır.<br />Doğru yanıt C seçeneğidir.
 
     <hr />
 1. Sürekli değişen duyusal girdilere rağmen nesnelerin biçimlerini, büyüklüklerini, yerlerini ve renklerini değişmeden algılamamıza ne denir ?
@@ -4445,8 +4281,7 @@
     - D-) İç algılar
     - **Cevap E-) Algıda değişmezlik**
 
-    > **Açıklama:** Sürekli değişen duyusal girdilere rağmen nesnelerin biçimlerini, büyüklüklerini, yerlerini ve renklerini değişmeden algılamamıza algıda değişmezlik denir.
-    > Doğru cevap E seçeneğidir.
+    > **Açıklama:** Sürekli değişen duyusal girdilere rağmen nesnelerin biçimlerini, büyüklüklerini, yerlerini ve renklerini değişmeden algılamamıza algıda değişmezlik denir.<br />Doğru cevap E seçeneğidir.
 
     <hr />
 1. I. İç ve dış algılar<br />II. Zihinsel algılar<br />III. Görme ve algılama becerisi<br />IV. Görme ve işitme duyuları<br />Yukarıdakilerden hangisi algı türlerinden biridir ?
@@ -4456,8 +4291,7 @@
     - D-) Yalnız IV
     - E-) Hiçbiri
 
-    > **Açıklama:** İç ve dış algılar,algılama türlerindendir.
-    > Doğru cevap A seçeneğidir.
+    > **Açıklama:** İç ve dış algılar,algılama türlerindendir.<br />Doğru cevap A seçeneğidir.
 
     <hr />
 1. Görmenin konuşmadan önce geldiğini hangi yazar söylemiştir?
@@ -4877,8 +4711,7 @@
     - D-) Göz sıvısı ve lens
     - E-) Optik sinirler
 
-    > **Açıklama:** Gözlerimizi ve bir fotoğraf makinasının kamerası gibidir. Öncelikli olarak ışık öndeki saydam tabakadan (cornea) girer. İrisin ortasında
-    > yer alan gözbebeği (pupil) ve irisin çapı, aynı fotoğraf makinesinin diyaframı gibi büyüyüp küçülerek ışığın şiddetini ayarlar. Buna göre doğru cevap B seçeneğidir.
+    > **Açıklama:** Gözlerimizi ve bir fotoğraf makinasının kamerası gibidir. Öncelikli olarak ışık öndeki saydam tabakadan (cornea) girer. İrisin ortasında<br />yer alan gözbebeği (pupil) ve irisin çapı, aynı fotoğraf makinesinin diyaframı gibi büyüyüp küçülerek ışığın şiddetini ayarlar. Buna göre doğru cevap B seçeneğidir.
 
     <hr />
 1. Ağ tabakada ışık duyargalarının bulunmadığı bölgeye ne ad verilir?
@@ -4898,15 +4731,7 @@
     - D-) Tat alma: Dokuz litrelik bir suda bir çay kaşığı şeker
     - E-) Koku alma: Sekiz odalı büyük bir evde bir damla esans
 
-    > **Açıklama:** Bir alıcı organın uyarılabildiği en ufak uyarıcı şiddetine mutlak eşik (abssolute threshold) adı verilir.
-    > Buna göre belirli duyu organlarımızın mutlak eşikleri aşağıdaki tabloda gösterilmiştir.
-    > Görme: Karanlık bir gecede 50 km’den bir mum ışığı
-    > İşitme: Sessiz bir ortamda 5 metreden bir kol saatinin işleyişi
-    > Tat alma: Sekiz litrelik bir suda bir çay kaşığı şeker
-    > Koku alma: Altı odalı büyük bir evde bir damla esans
-    > Dokunma: Bir santimetre yükseklikten yüzüne düşen bir sineğin kanadı
-    > Tat alma: Sekiz litrelik bir suda bir çay kaşığı şeker
-    > Buna göre doğru cevap A seçeneğidir.
+    > **Açıklama:** Bir alıcı organın uyarılabildiği en ufak uyarıcı şiddetine mutlak eşik (abssolute threshold) adı verilir.<br />Buna göre belirli duyu organlarımızın mutlak eşikleri aşağıdaki tabloda gösterilmiştir.<br />Görme: Karanlık bir gecede 50 km’den bir mum ışığı<br />İşitme: Sessiz bir ortamda 5 metreden bir kol saatinin işleyişi<br />Tat alma: Sekiz litrelik bir suda bir çay kaşığı şeker<br />Koku alma: Altı odalı büyük bir evde bir damla esans<br />Dokunma: Bir santimetre yükseklikten yüzüne düşen bir sineğin kanadı<br />Tat alma: Sekiz litrelik bir suda bir çay kaşığı şeker<br />Buna göre doğru cevap A seçeneğidir.
 
     <hr />
 1. Ahmet bey geçen yıl bir başkasına satmış olduğu arabasını yolda görür ve bu araba ile olan hatıraları canlanır. Mehmet bey ise aynı arabayı ilk kez görür ve bu arabanın ne kadar hızlı ve güçlü olduğunu düşünür. Ahmet ve Mehmet bey için aynı arabanın farklı şeyler ifade etmesinin sebebi hangi durumla açıklanabilir?
@@ -5116,12 +4941,7 @@
     - D-) Algıda seçicilik
     - **Cevap E-) Algıda değişmezlik**
 
-    > **Açıklama:** **Algıda değişmezlik**, sürekli değişen duyusal girdilere rağmen nesnelerin biçimlerini, büyüklüklerini, yerlerini ve renklerini değişmeden algılamamıza verilen addır (Cüceloğlu, 1997). (Sayfa 117)
-    > **Algıda seçicilik**, insanların duyu organlarına gelen uyarıcılardan yalnızca bazılarına tepki vermesi olayıdır. Bir anlamda uyarıcılar arasında seçim yapma durumudur. (Sayfa 116)
-    > **Algı (perception**) insanın anlık yaşantısı sırasında kazanılan duyusal bilgilerin (çevrede var olan olay ve etkilerin) beyin tarafından organize edilip yorumlanma veya anlamlandırma sürecidir. Algı, bir şeyler öğrenmenin yanı sıra bireyin çevre ile bağlantısını da kurar. (Sayfa 112)
-    > **İmge,** Türk Dil Kurumuna göre; zihinde tasarlanan ve gerçekleştirilmesi özlenen şey, hayal, hülya’dır. İkinci bir anlam olarak imge; genel görünüş, izlenim ve imaj olarak da tanımlanabilmektedir. (Sayfa 117)
-    > **İm (işaret),** algılanmış bir olayı dile getirir. Örneğin uzakta bir yerde duman görürsek orada bir ateş yanmakta olduğunu anlarız. Bu gibi doğal bağlantıları biz doğal bir işaret (im) olarak algılarız. (Sayfa 117)
-    > **Algı yanılsaması:** Algıladığımız an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere **algı yanılsaması** denir. Bu durum bir çeşit optik illüzyon olarak da bilinir. Mevcut nesnel gerçekliğin fiziksel değerlerle ya da ölçümlerle örtüşmeyen, farklı algılanan durumlarıdır. (Sayfa 118)
+    > **Açıklama:** **Algıda değişmezlik**, sürekli değişen duyusal girdilere rağmen nesnelerin biçimlerini, büyüklüklerini, yerlerini ve renklerini değişmeden algılamamıza verilen addır (Cüceloğlu, 1997). (Sayfa 117)<br />**Algıda seçicilik**, insanların duyu organlarına gelen uyarıcılardan yalnızca bazılarına tepki vermesi olayıdır. Bir anlamda uyarıcılar arasında seçim yapma durumudur. (Sayfa 116)<br />**Algı (perception**) insanın anlık yaşantısı sırasında kazanılan duyusal bilgilerin (çevrede var olan olay ve etkilerin) beyin tarafından organize edilip yorumlanma veya anlamlandırma sürecidir. Algı, bir şeyler öğrenmenin yanı sıra bireyin çevre ile bağlantısını da kurar. (Sayfa 112)<br />**İmge,** Türk Dil Kurumuna göre; zihinde tasarlanan ve gerçekleştirilmesi özlenen şey, hayal, hülya’dır. İkinci bir anlam olarak imge; genel görünüş, izlenim ve imaj olarak da tanımlanabilmektedir. (Sayfa 117)<br />**İm (işaret),** algılanmış bir olayı dile getirir. Örneğin uzakta bir yerde duman görürsek orada bir ateş yanmakta olduğunu anlarız. Bu gibi doğal bağlantıları biz doğal bir işaret (im) olarak algılarız. (Sayfa 117)<br />**Algı yanılsaması:** Algıladığımız an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere **algı yanılsaması** denir. Bu durum bir çeşit optik illüzyon olarak da bilinir. Mevcut nesnel gerçekliğin fiziksel değerlerle ya da ölçümlerle örtüşmeyen, farklı algılanan durumlarıdır. (Sayfa 118)
 
     <hr />
 1. Algıladığımız an ya da durum ile gerçek durum arasındaki farklılıklara, değişkenliklere ne denir?
@@ -5151,8 +4971,7 @@
     - D-) Rasyonellik
     - **Cevap E-) Subjektiflik**
 
-    > **Açıklama:** Beynin sağ ve sol beyin küreleri’nin farklı işlevleri vardır. Örneğin sağ beyin (turuncu kısım) daha çok artistik duyular, yani resim, müzik, hayal gücü ve yaratıcılık gibi işlevleri yerine getirir. Sol beyin ise (mavi kısım) daha çok matematiksel-mantıksal düşüncenin merkezidir.
-    > ![](https://ets.anadolu.edu.tr/storage/nfs/questions/5ea916d4b1c687d40c4046a5dcd6502b.png)
+    > **Açıklama:** Beynin sağ ve sol beyin küreleri’nin farklı işlevleri vardır. Örneğin sağ beyin (turuncu kısım) daha çok artistik duyular, yani resim, müzik, hayal gücü ve yaratıcılık gibi işlevleri yerine getirir. Sol beyin ise (mavi kısım) daha çok matematiksel-mantıksal düşüncenin merkezidir.<br />![](https://ets.anadolu.edu.tr/storage/nfs/questions/5ea916d4b1c687d40c4046a5dcd6502b.png)
 
     <hr />
 1. Beynin sağ ve sol beyin kürelerinin farklı işlevleri vardır. Sağ beyin daha çok artistik duyular merkezidir. Sol beyin ise daha çok matematiksel-mantıksal düşüncenin merkezidir. Buna göre aşağıdaki alanlardan hangisi matematiksel-mantıksal düşüncenin merkezinde yer alır?
@@ -5162,8 +4981,7 @@
     - **Cevap D-) Rasyonellik**
     - E-) Fotoğrafçılık
 
-    > **Açıklama:** Beynin sağ ve sol beyin küreleri’nin farklı işlevleri vardır. Örneğin sağ beyin (turuncu kısım) daha çok artistik duyular, yani resim, müzik, hayal gücü ve yaratıcılık gibi işlevleri yerine getirir. Sol beyin ise (mavi kısım) daha çok matematiksel-mantıksal düşüncenin merkezidir.
-    > ![](https://ets.anadolu.edu.tr/storage/nfs/questions/5ea916d4b1c687d40c4046a5dcd6502b.png)
+    > **Açıklama:** Beynin sağ ve sol beyin küreleri’nin farklı işlevleri vardır. Örneğin sağ beyin (turuncu kısım) daha çok artistik duyular, yani resim, müzik, hayal gücü ve yaratıcılık gibi işlevleri yerine getirir. Sol beyin ise (mavi kısım) daha çok matematiksel-mantıksal düşüncenin merkezidir.<br />![](https://ets.anadolu.edu.tr/storage/nfs/questions/5ea916d4b1c687d40c4046a5dcd6502b.png)
 
     <hr />
 1. Bir şirketin, ürünün, hizmetin veya oluşumun karakterini yansıtmak üzere tasarlanan grafik sembole ne ad verilir?
@@ -5283,8 +5101,7 @@
     - D-) Kornea
     - E-) Jel
 
-    > **Açıklama:** Göz ve Görme Duyusu – Gözün Anatomisi
-    > Gözün anatomisinde glokom yer almaz. Glokom, göz tansiyonu da adı verilen bir hastalıktır.
+    > **Açıklama:** Göz ve Görme Duyusu – Gözün Anatomisi<br />Gözün anatomisinde glokom yer almaz. Glokom, göz tansiyonu da adı verilen bir hastalıktır.
 
     <hr />
 1. **Çocukların konuşmaya başlamadan önce bakıp tanımayı öğrendiğini, görmenin konuşmadan önce geldiğini ileri süren sanat eleştirmeni aşağıdakilerden hangisidir?**
@@ -5294,8 +5111,7 @@
     - D-) Taylor
     - E-) Sekuler
 
-    > **Açıklama:** Göz ve Görme Duyusu – Gözün Anatomisi
-    > Görme ve görülenlerin anlamlandırılması bir bütünmüş gibi gözükmekle birlikte belli bir süreci oluşturmaktadır. Bu süreç, temel görsel elemanlar, duyu teorileri ve görsel kültür gibi birçok konunun basamak oluşturduğu bir süreçtir. John Bergere’e göre görme konuşmadan önce gelmiştir. Çocuk konuşmaya başlamadan önce bakıp tanımayı öğrenir. Bir diğer anlamda da görme sözcüklerden önce gelmiştir denilebilir.
+    > **Açıklama:** Göz ve Görme Duyusu – Gözün Anatomisi<br />Görme ve görülenlerin anlamlandırılması bir bütünmüş gibi gözükmekle birlikte belli bir süreci oluşturmaktadır. Bu süreç, temel görsel elemanlar, duyu teorileri ve görsel kültür gibi birçok konunun basamak oluşturduğu bir süreçtir. John Bergere’e göre görme konuşmadan önce gelmiştir. Çocuk konuşmaya başlamadan önce bakıp tanımayı öğrenir. Bir diğer anlamda da görme sözcüklerden önce gelmiştir denilebilir.
 
     <hr />
 1. **Aşağıdakilerden hangisi insanın anlık yaşantısı sırasında kazanılan duyusal bilgilerin beyin tarafından organize edilip yorumlanma ya da anlamlandırma sürecinin adıdır?**
@@ -5305,8 +5121,7 @@
     - **Cevap D-) Algı**
     - E-) Sezgi
 
-    > **Açıklama:** Algı ve Algılama
-    > İnsanın anlık yaşantısı sırasında kazanılan duyusal bilgilerin beyin tarafından organize edilip yorumlanma ya da anlamlandırma sürecine algı denir.
+    > **Açıklama:** Algı ve Algılama<br />İnsanın anlık yaşantısı sırasında kazanılan duyusal bilgilerin beyin tarafından organize edilip yorumlanma ya da anlamlandırma sürecine algı denir.
 
     <hr />
 1. **Algıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?**
@@ -5316,8 +5131,7 @@
     - D-) Algı, göz önündeki nesnelerin, varlıkların tüm duyular yoluyla alınan izlenimlerin yorumlanma eylemidir.
     - E-) Algı, nesneleri görmek, duymak, tatmak, koklamak veya hissetmek için duyusal bilgilerin edinilmesi ve işlenmesidir.
 
-    > **Açıklama:** Algı ve Algılama
-    > Duyu organlarımızın dışardan gelen uyarıları alması ve bunları sinirler aracılığıyla beyindeki ilgili merkeze iletmesi algı değil duyumdur.
+    > **Açıklama:** Algı ve Algılama<br />Duyu organlarımızın dışardan gelen uyarıları alması ve bunları sinirler aracılığıyla beyindeki ilgili merkeze iletmesi algı değil duyumdur.
 
     <hr />
 1. **‘’Gestalt Kuramı’’ aşağıdaki alanlardan hangisine bir yenilik getirmemiştir?**
@@ -5327,8 +5141,7 @@
     - D-) Algılama
     - **Cevap E-) Düşünme**
 
-    > **Açıklama:** Algı ve Algılama – Görsel Algı ve Gestalt Kuramı
-    > Gestalt Almanca bir sözcük olup; biçim, form gibi anlamlara gelmektedir. Gestalt kuramı algısal örgütleme yasaları ile ilgilenen bir psikoloji teorisidir. Şekil-zemin ilişkisi, yakınlık, benzerlik, süreklilik, tamamlama, devamlılık, basitlik yasaları, algısal örgütleme yasalarından oluşur. Gestalt kuramı olay, olgu, nesnelere bütüncül yaklaşımla bakmayı öğreten algısal organizasyon kuramıdır. Gestalt kuramı bellek, öğrenme, hatırlama, problem çözme, algılama konularında yenilikler getirmiştir. Düşünme konusunda bir yenilikten söz edilemez.
+    > **Açıklama:** Algı ve Algılama – Görsel Algı ve Gestalt Kuramı<br />Gestalt Almanca bir sözcük olup; biçim, form gibi anlamlara gelmektedir. Gestalt kuramı algısal örgütleme yasaları ile ilgilenen bir psikoloji teorisidir. Şekil-zemin ilişkisi, yakınlık, benzerlik, süreklilik, tamamlama, devamlılık, basitlik yasaları, algısal örgütleme yasalarından oluşur. Gestalt kuramı olay, olgu, nesnelere bütüncül yaklaşımla bakmayı öğreten algısal organizasyon kuramıdır. Gestalt kuramı bellek, öğrenme, hatırlama, problem çözme, algılama konularında yenilikler getirmiştir. Düşünme konusunda bir yenilikten söz edilemez.
 
     <hr />
 1. **Bir nesne ya da olayı algılamanın en kolay yolu aşağıdakilerden hangisidir?**
@@ -5338,8 +5151,7 @@
     - D-) Görsel uyarıcıları etkin hale getirmek
     - E-) Estetik haz alabilmek
 
-    > **Açıklama:** Algı ve Algılama – Görsel Algı ve Gestalt Kuramı
-    > Yıldırım’a göre bir nesne veya olayı algılamanın en kolay yolu onu zihinde canlandırmaktır.
+    > **Açıklama:** Algı ve Algılama – Görsel Algı ve Gestalt Kuramı<br />Yıldırım’a göre bir nesne veya olayı algılamanın en kolay yolu onu zihinde canlandırmaktır.
 
     <hr />
 1. **Beynin sağ yarım küresi, insanda aşağıda belirtilen hangi becerilerin gelişmesinde etkendir?**
@@ -5349,8 +5161,7 @@
     - D-) Sayısal düşünme
     - E-) Global düşünme
 
-    > **Açıklama:** Görsel İletişim ve Görsel Öğeler
-    > Sol beyin, matematiksel-mantıksal düşüncenin merkeziyken; sağ beyin daha çok artistik duyular, resim, müzik, hayal gücü ve yaratıcılık gibi işlevleri yerine getirir.
+    > **Açıklama:** Görsel İletişim ve Görsel Öğeler<br />Sol beyin, matematiksel-mantıksal düşüncenin merkeziyken; sağ beyin daha çok artistik duyular, resim, müzik, hayal gücü ve yaratıcılık gibi işlevleri yerine getirir.
 
     <hr />
 1. **Aşağıdaki örneklerden hangisi göstergebilimin inceleme alanına girmez?**
@@ -5360,8 +5171,7 @@
     - D-) Üzerinde uyarıcı şekiller bulunan trafik levhaları
     - **Cevap E-) Balık tutmakta olan bir adamın tuttuğu balığı tekrar suya atması**
 
-    > **Açıklama:** Görsel İletişim ve Görsel Öğeler – Görsellikte Semboller ve Sembollerin Gücü
-    > Göstergebilim ( semiyoloji ) imaj olgusunun anlaşılmasında, reklamların anlamlarının çözülmesinde ve tüketim tartışmalarına yön verilmesinde oldukça önemli bir yere sahiptir. Göstergebilim, göstergeleri inceleyen bilim dalıdır. Doğal diller, trafik ışıkları, jest ve mimikler, sağır-dilsiz alfabesi, moda, tiyatro gösterileri, edebiyat yapıtları, tablolar vb. göstergelerdir.
+    > **Açıklama:** Görsel İletişim ve Görsel Öğeler – Görsellikte Semboller ve Sembollerin Gücü<br />Göstergebilim ( semiyoloji ) imaj olgusunun anlaşılmasında, reklamların anlamlarının çözülmesinde ve tüketim tartışmalarına yön verilmesinde oldukça önemli bir yere sahiptir. Göstergebilim, göstergeleri inceleyen bilim dalıdır. Doğal diller, trafik ışıkları, jest ve mimikler, sağır-dilsiz alfabesi, moda, tiyatro gösterileri, edebiyat yapıtları, tablolar vb. göstergelerdir.
 
     <hr />
 1. **Sanatsal düşünce becerisinin gelişimi için aşağıdakilerden hangisine ihtiyaç vardır?**
@@ -5371,8 +5181,7 @@
     - D-) Uyarım
     - E-) Duyum
 
-    > **Açıklama:** Görsel İletişim ve Görsel Öğeler – Görsel Düşünme
-    > Sanatta görsel düşünme süreci sanatı anlaşılır kılma etkinliğidir. Sanatsal düşünce becerisinin gelişimi için imgelere ihtiyaç vardır. İmge; zihinde tasarlanan ve gerçekleştirilmesi özlenen şey, hayaldir.
+    > **Açıklama:** Görsel İletişim ve Görsel Öğeler – Görsel Düşünme<br />Sanatta görsel düşünme süreci sanatı anlaşılır kılma etkinliğidir. Sanatsal düşünce becerisinin gelişimi için imgelere ihtiyaç vardır. İmge; zihinde tasarlanan ve gerçekleştirilmesi özlenen şey, hayaldir.
 
     <hr />
 1. **Medya okuryazarlığının yararlı olduğunu belirten, öneren kaynak ve konular aşağıdakilerden hangisinde verilmiştir?**
@@ -5382,8 +5191,7 @@
     - D-) Dil becerileri ve öyküleştirme
     - E-) Görsel düşünme süreci
 
-    > **Açıklama:** Görsel İletişim ve Görsel Öğeler – Görsel Kültür
-    > Medya okuryazarlığı, kitle iletişim araçlarını referans alır. Günümüzde insanların görsel iletişim aygıtlarının hâkim olduğu medyatik aygıtların bir parçası haline dönüştüğünü görebiliriz. İnsanlar artık kitap okuma ya da bir konu hakkında bilgi edinme zahmetine katlanmaktansa bu ihtiyacını çeşitli görsellerle giderebilmektedir. Söz konusu olan görsel aygıtlar düşünceyi daha belirgin, aktif kılabilmekte, etkileşim ve iletişimi güçlendirmektedir. Çünkü medya, insanların birbirleriyle sınırsız iletişim ve etkileşim olanaklarını sağlayan, dünyayı nasıl algılayacağımızı, davranış biçimlerimizi ve yaşam örüntülerimizi etkileyip yönlendiren, sanal imgeler yaratıp mesajlar veren, sanatın olanaklarını ve sınırlarını zorlayan, kullanan önemli teknolojik bir harekettir.
+    > **Açıklama:** Görsel İletişim ve Görsel Öğeler – Görsel Kültür<br />Medya okuryazarlığı, kitle iletişim araçlarını referans alır. Günümüzde insanların görsel iletişim aygıtlarının hâkim olduğu medyatik aygıtların bir parçası haline dönüştüğünü görebiliriz. İnsanlar artık kitap okuma ya da bir konu hakkında bilgi edinme zahmetine katlanmaktansa bu ihtiyacını çeşitli görsellerle giderebilmektedir. Söz konusu olan görsel aygıtlar düşünceyi daha belirgin, aktif kılabilmekte, etkileşim ve iletişimi güçlendirmektedir. Çünkü medya, insanların birbirleriyle sınırsız iletişim ve etkileşim olanaklarını sağlayan, dünyayı nasıl algılayacağımızı, davranış biçimlerimizi ve yaşam örüntülerimizi etkileyip yönlendiren, sanal imgeler yaratıp mesajlar veren, sanatın olanaklarını ve sınırlarını zorlayan, kullanan önemli teknolojik bir harekettir.
 
     <hr />
 1. Işığın azlık veya çokluğuna göre görme için gerekli ışık miktarını ayarlayan bölüm gözün hangi tabakasıdır?
@@ -5493,8 +5301,7 @@
     - **Cevap D-) I, III ve IV**
     - E-) Hepsi
 
-    > **Açıklama:** Yapısal ve işlevsel yönüyle karmaşık bir yapı gösteren insan gözü, yapısal olarak incelendiğinde üç
-    > ana tabakadan oluşur. Bu tabakalar dışardan içeriye doğru; göz akı, renkli ‘koroit’ ve ağsı ‘retina’ tabakaları olarak adlandırılır. Doğru cevap D'dir.
+    > **Açıklama:** Yapısal ve işlevsel yönüyle karmaşık bir yapı gösteren insan gözü, yapısal olarak incelendiğinde üç<br />ana tabakadan oluşur. Bu tabakalar dışardan içeriye doğru; göz akı, renkli ‘koroit’ ve ağsı ‘retina’ tabakaları olarak adlandırılır. Doğru cevap D'dir.
 
     <hr />
 1. Gözün anatomik yapısında aşağıdakilerin hangisi fotoğraf makinesinin diyaframı gibi büyüyüp küçülerek ışığın şiddetini ayarlar?
@@ -5644,10 +5451,7 @@
     - D-) I, III ve IV
     - **Cevap E-) Hepsi**
 
-    > **Açıklama:** Görsel medyayı kullanma, analiz etme, yorumlama, değerlendirme, kullanma ve yeniden yapılandırmaya yönelik bir dizi organize edilmiş, entelektüel yeteneğin gelişimine katkı sağlar. Etik, yasal, sosyal ve ekonomik konuları betimleyen sözel, görsel farkındalıklar gelişir. Görsellere karşı duygusal ve estetik reaksiyonlar gelişebilir.
-    > Görsel okuryazarlık, becerisi birçok insanın görerek ve aynı zamanda diğer duyusal deneyimleri yaşayıp bu deneyimleri bütünleştirerek gelişebileceği bir yeterliliğine işaret eder. Bu görsel ve bilişsel yetkinliklerin gelişimi normal insan öğreniminin temelidir. Bu özellikler geliştirildiğinde bireylerin çevrelerinde karşılaştıkları nesneleri, sembolleri/ imajları, eylemleri daha hızlı yorumlamalarına, kavramalarına ve algılamalarına olanak sağlar.
-    > Görsel okuryazarlık sanatsal, disiplinler arası bir nitelik taşır. Görsel okuryazarlık görüntüleri, imleri (medya ögeleri, resimler, mesajlar, grafikler ve çeşitli uyarıcılar) algılama, ayrımsama, yorumlama, tasarlama ve bunları sunabilme becerilerini kapsar.
-    > Görsel okuryazarlık, bireyin başkaları ile kasıtlı olarak iletişim kurması için görselleri anlama ve kullanma olanağı sağlayan bir beceri grubdur. tüm öncller doğru olduğundan doğru cevap E'dir.
+    > **Açıklama:** Görsel medyayı kullanma, analiz etme, yorumlama, değerlendirme, kullanma ve yeniden yapılandırmaya yönelik bir dizi organize edilmiş, entelektüel yeteneğin gelişimine katkı sağlar. Etik, yasal, sosyal ve ekonomik konuları betimleyen sözel, görsel farkındalıklar gelişir. Görsellere karşı duygusal ve estetik reaksiyonlar gelişebilir.<br />Görsel okuryazarlık, becerisi birçok insanın görerek ve aynı zamanda diğer duyusal deneyimleri yaşayıp bu deneyimleri bütünleştirerek gelişebileceği bir yeterliliğine işaret eder. Bu görsel ve bilişsel yetkinliklerin gelişimi normal insan öğreniminin temelidir. Bu özellikler geliştirildiğinde bireylerin çevrelerinde karşılaştıkları nesneleri, sembolleri/ imajları, eylemleri daha hızlı yorumlamalarına, kavramalarına ve algılamalarına olanak sağlar.<br />Görsel okuryazarlık sanatsal, disiplinler arası bir nitelik taşır. Görsel okuryazarlık görüntüleri, imleri (medya ögeleri, resimler, mesajlar, grafikler ve çeşitli uyarıcılar) algılama, ayrımsama, yorumlama, tasarlama ve bunları sunabilme becerilerini kapsar.<br />Görsel okuryazarlık, bireyin başkaları ile kasıtlı olarak iletişim kurması için görselleri anlama ve kullanma olanağı sağlayan bir beceri grubdur. tüm öncller doğru olduğundan doğru cevap E'dir.
 
     <hr />
 1. Aşağıdakilerden hangisi tasarım ilkeleri içinde **yer almaz?**
@@ -5878,8 +5682,7 @@
     - D-) Modle
     - E-) Modülasyon
 
-    > **Açıklama:** Işık, insan gözünün duyarlılık bölgesinde yer alan 400-780 nanometre(nm.) arasında değişen doğal veya yapay kaynaklı ışımaya verilen addır.
-    > Doğru cevap a'dır.
+    > **Açıklama:** Işık, insan gözünün duyarlılık bölgesinde yer alan 400-780 nanometre(nm.) arasında değişen doğal veya yapay kaynaklı ışımaya verilen addır.<br />Doğru cevap a'dır.
 
     <hr />
 1. Elektromanyetik spektruma göre, beyaz ışığın oluşumunu sağlayan altı renge ait ışık bantlarının dağılma nicelikleri birbirinden farklılık gösterir. Aşağıdaki renklerden hangisine ait ışık bandı diğer renklere ait ışık bantlarından daha fazla yayılma özelliğine sahiptir?
@@ -5889,8 +5692,7 @@
     - D-) Sarı
     - E-) Mor
 
-    > **Açıklama:** Elektromanyetik spektruma göre, beyaz ışığın oluşumunu sağlayan altı renge ait ışık bantlarının dağılma nicelikleri birbirinden farklılık gösterir. Mavi renge ait ışık bandı diğer renklere ait ışık bantlarından daha fazla yayılma özelliğine sahiptir.
-    > Doğru cevap b'dir.
+    > **Açıklama:** Elektromanyetik spektruma göre, beyaz ışığın oluşumunu sağlayan altı renge ait ışık bantlarının dağılma nicelikleri birbirinden farklılık gösterir. Mavi renge ait ışık bandı diğer renklere ait ışık bantlarından daha fazla yayılma özelliğine sahiptir.<br />Doğru cevap b'dir.
 
     <hr />
 1. Aşağıdakilerden hangisi sıklıkla kullanılan yapay ışık kaynaklarından biri **değildir?**
@@ -5900,10 +5702,7 @@
     - **Cevap D-) ay ışığı**
     - E-) balon ışıktır
 
-    > **Açıklama:** Sıklıkla Kullanılan Yapay Işık Kaynak Çeşitleri
-    > Bunlar; gün ışığı projektörleri, camlı projektörler, camsız projektörler, par projektörler, kanal projektörler, takip spotlar, akülü setler, efekt spotlar, fon
-    > spotlar ve balon ışıktır.
-    > Doğru cevap d'dir.
+    > **Açıklama:** Sıklıkla Kullanılan Yapay Işık Kaynak Çeşitleri<br />Bunlar; gün ışığı projektörleri, camlı projektörler, camsız projektörler, par projektörler, kanal projektörler, takip spotlar, akülü setler, efekt spotlar, fon<br />spotlar ve balon ışıktır.<br />Doğru cevap d'dir.
 
     <hr />
 1. I. Konu ve ışık kaynağı arasındaki mesafe ayarlanabilir.<br />II. Konu ve ışık kaynağı arasındaki yön değiştirilebilir.<br />III. Işık şiddeti ayarlanabilir.<br />IV. Konu üzerine gelen ışığın yumuşatılarak yayılması denetlenebilir.<br />Yukarıdakilerden hangisi-hangileri tek ışık kaynağı kullanarak çekimi yapılacak olan konunun üzerinde oluşan etkiyi denetleme yollarındandır?
@@ -5913,15 +5712,7 @@
     - D-) III. ve IV.
     - **Cevap E-) Hepsi**
 
-    > **Açıklama:** Tek ışık kaynağı kullanarak çekimi yapılacak olan konunun üzerinde oluşan etki, altı
-    > farklı şekilde denetlenebilir. Bunlar:
-    > • Konunun üzerine gelen ışığın açısı yönlendirilebilir.
-    > • Konu ve ışık kaynağı arasındaki mesafe
-    > ayarlanabilir.
-    > • Konu ve ışık kaynağı arasındaki yön değiştirilebilir.
-    > • Işık şiddeti ayarlanabilir.
-    > • Konu üzerine gelen ışığın yumuşatılarak yayılması denetlenebilir. Işığın filtreler yardımıyla renk ve kelvin derecesi değiştirilebilir.
-    > Doğru cevap e'dir.
+    > **Açıklama:** Tek ışık kaynağı kullanarak çekimi yapılacak olan konunun üzerinde oluşan etki, altı<br />farklı şekilde denetlenebilir. Bunlar:<br />• Konunun üzerine gelen ışığın açısı yönlendirilebilir.<br />• Konu ve ışık kaynağı arasındaki mesafe<br />ayarlanabilir.<br />• Konu ve ışık kaynağı arasındaki yön değiştirilebilir.<br />• Işık şiddeti ayarlanabilir.<br />• Konu üzerine gelen ışığın yumuşatılarak yayılması denetlenebilir. Işığın filtreler yardımıyla renk ve kelvin derecesi değiştirilebilir.<br />Doğru cevap e'dir.
 
     <hr />
 1. Ritimle beraber yanıp sönen ve ritimle eş zamanlı çalıştırılabilen, sinemada yapay şimşek etkisi yaratmak için kullanılabilen flaş görünümündeki ışık aşağıdakilerden hangisidir?
@@ -5931,9 +5722,7 @@
     - D-) Akkor Flamanlı Lamba
     - E-) Monitör
 
-    > **Açıklama:** Strop Işık
-    > Strop, ritimle beraber yanıp sönen ve ritimle eş zamanlı çalıştırılabilen flaş görünümünde bir ışıktır. Ortama çok güçlü ışık verir. Sinemada, yapay şimşek etkisi yaratmak için kullanılabilir.
-    > Doğru cevap a'dır.
+    > **Açıklama:** Strop Işık<br />Strop, ritimle beraber yanıp sönen ve ritimle eş zamanlı çalıştırılabilen flaş görünümünde bir ışıktır. Ortama çok güçlü ışık verir. Sinemada, yapay şimşek etkisi yaratmak için kullanılabilir.<br />Doğru cevap a'dır.
 
     <hr />
 1. Gün ışığı projektörü, kaynak makinesi gibi yapay olarak üretilmiş ışığa aşağıdakilerden hangisi ile yön verilebilir?
@@ -5943,9 +5732,7 @@
     - D-) Monitör
     - E-) Akvaryum
 
-    > **Açıklama:** Ayna
-    > Gün ışığı projektörü, kaynak makinesi ya da strop ışık aracılığıyla yapay olarak üretilmiş ışığa ayna ile yön verilebilir. Ayna ile bu tür ışık kaynakları arasındaki mesafe küçükse etkilediği alan büyük olur.
-    > Doğru cevap b'dir.
+    > **Açıklama:** Ayna<br />Gün ışığı projektörü, kaynak makinesi ya da strop ışık aracılığıyla yapay olarak üretilmiş ışığa ayna ile yön verilebilir. Ayna ile bu tür ışık kaynakları arasındaki mesafe küçükse etkilediği alan büyük olur.<br />Doğru cevap b'dir.
 
     <hr />
 1. Bir objenin izdüşümünün yere vurduğu bölgelere ne ad verilir?
@@ -5955,8 +5742,7 @@
     - D-) yatay gölge
     - E-) dikey gölge
 
-    > **Açıklama:** Üç çeşit gölge vardır. Bunlar; gölge, yarı gölge ve düşen gölgedir. Gölge, bir objenin üzerinde oluşan karanlık bölgelerdir. Yarı gölge, bir objenin aydınlık kısmı ile koyu kısmı arasında kalan ve objenin girinti ve çıkıntılarına göre ışığın azaldığı yarı karanlık bölgelerdir. Düşen gölge, objenin izdüşümünün yere vurduğu bölgelerdir.
-    > Doğru cevap c'dir.
+    > **Açıklama:** Üç çeşit gölge vardır. Bunlar; gölge, yarı gölge ve düşen gölgedir. Gölge, bir objenin üzerinde oluşan karanlık bölgelerdir. Yarı gölge, bir objenin aydınlık kısmı ile koyu kısmı arasında kalan ve objenin girinti ve çıkıntılarına göre ışığın azaldığı yarı karanlık bölgelerdir. Düşen gölge, objenin izdüşümünün yere vurduğu bölgelerdir.<br />Doğru cevap c'dir.
 
     <hr />
 1. Aşağıdakilerden hangisi ışığın temel işlevlerinden biri değildir?
@@ -5966,12 +5752,7 @@
     - **Cevap D-) Işık, düz çizgiler şeklinde ilerler.**
     - E-) Işık, desen oluşturmak için kullanılır.
 
-    > **Açıklama:** • Işığın dört temel işlevi vardır. Bunlar;
-    > • Işık, konuyu aydınlatmak için kullanılır.
-    > • Işık, konuya hacim ve derinlik vererek boyut kazandırır.
-    > • Işık, atmosferi şekillendirir.
-    > • Işık, desen oluşturmak için kullanılır.
-    > Doğru cevap d'dir.
+    > **Açıklama:** • Işığın dört temel işlevi vardır. Bunlar;<br />• Işık, konuyu aydınlatmak için kullanılır.<br />• Işık, konuya hacim ve derinlik vererek boyut kazandırır.<br />• Işık, atmosferi şekillendirir.<br />• Işık, desen oluşturmak için kullanılır.<br />Doğru cevap d'dir.
 
     <hr />
 1. Gece çekimlerinde kullanılmayan, gündüz set, stüdyo gibi iç mekân çekimlerinde spotların önüne konulan jelatin filtrelere ne ad verilir?
@@ -5981,9 +5762,7 @@
     - D-) Yeşil filtre
     - **Cevap E-) Mavi filtre**
 
-    > **Açıklama:** Mavi filtre, gece çekimlerinde kullanılmayan gündüz set, stüdyo gibi iç mekân çekimlerinde spotların
-    > önüne konulan jelatin filtrelerdir.
-    > Doğru cevap e'dir.
+    > **Açıklama:** Mavi filtre, gece çekimlerinde kullanılmayan gündüz set, stüdyo gibi iç mekân çekimlerinde spotların<br />önüne konulan jelatin filtrelerdir.<br />Doğru cevap e'dir.
 
     <hr />
 1. Spot ışığının sertliğini yumuşatmak için spotların önüne koyacağımız “aydınger” diye bilinen filtre aşağıdakilerden hangisidir?
@@ -5993,10 +5772,7 @@
     - D-) Mor filtre
     - **Cevap E-) Beyaz filtre**
 
-    > **Açıklama:** Beyaz Filtre
-    > Spot ışığının sertliğini yumuşatmak için spotların
-    > önüne koyacağımız “aydınger” diye bilinen filtredir.
-    > Doğru cevap e'dir.
+    > **Açıklama:** Beyaz Filtre<br />Spot ışığının sertliğini yumuşatmak için spotların<br />önüne koyacağımız “aydınger” diye bilinen filtredir.<br />Doğru cevap e'dir.
 
     <hr />
 1. Kameranın lens aksıyla 30 derecelik açıyla konumlandırılmış arka ışık, aşağıdakilerden hangisidir?
@@ -6056,12 +5832,7 @@
     - **Cevap D-) Bulutlu bir günde aydınlatma zıtlığı artar**
     - E-) Kapalı havalarda aydınlatma zıtlığı en aza iner ve gölgeler kaybolur
 
-    > **Açıklama:** Güneş ışığı ile aydınlatmalarda elde edilecek sonuçlar;
-    > • Açık havada, gün ışığının renk ısısı yüksek ve rengi mavimsidir.
-    > • Bulutsuz bir günde, çekimi yapılacak olan konunun gölgede kalan tarafları fotoğrafta mavimsi bir renge bürünür.
-    > • Gün ışığının çok yoğun olduğu zamanlarda aydınlatma zıtlığı artar.
-    > • Bulutlu bir günde aydınlatma zıtlığı azalır.
-    > • Kapalı havalarda aydınlatma zıtlığı en aza iner ve gölgeler kaybolur.
+    > **Açıklama:** Güneş ışığı ile aydınlatmalarda elde edilecek sonuçlar;<br />• Açık havada, gün ışığının renk ısısı yüksek ve rengi mavimsidir.<br />• Bulutsuz bir günde, çekimi yapılacak olan konunun gölgede kalan tarafları fotoğrafta mavimsi bir renge bürünür.<br />• Gün ışığının çok yoğun olduğu zamanlarda aydınlatma zıtlığı artar.<br />• Bulutlu bir günde aydınlatma zıtlığı azalır.<br />• Kapalı havalarda aydınlatma zıtlığı en aza iner ve gölgeler kaybolur.
 
     <hr />
 1. Bir ışık kaynağı olarak kabul edilen 'ay' için aşağıda verilenlerden hangisi yanlıştır?
@@ -6101,11 +5872,7 @@
     - D-) Işık, atmosferi şekillendirir
     - E-) Işık, desen oluşturmak için kullanılır
 
-    > **Açıklama:** Işığın dört temel işlevi vardır. Bunlar;
-    > • Işık, konuyu aydınlatmak için kullanılır.
-    > • Işık, konuya hacim ve derinlik vererek boyut kazandırır.
-    > • Işık, atmosferi şekillendirir.
-    > • Işık, desen oluşturmak için kullanılır.
+    > **Açıklama:** Işığın dört temel işlevi vardır. Bunlar;<br />• Işık, konuyu aydınlatmak için kullanılır.<br />• Işık, konuya hacim ve derinlik vererek boyut kazandırır.<br />• Işık, atmosferi şekillendirir.<br />• Işık, desen oluşturmak için kullanılır.
 
     <hr />
 1. Işık şiddeti ve renk ısısının görüntü almaya çok uygun olduğu doğal ışık kaynağı aşağıdakilerden hangisidir?
@@ -6355,15 +6122,7 @@
     - D-) Işığın filtreler yardımıyla renk ve kelvin derecesi değiştirilebilir.
     - **Cevap E-) Konu ve ışık kaynağı arasındaki yön değiştirilemez.**
 
-    > **Açıklama:** Tek ışık kaynağı kullanarak çekimi yapılacak olan konunun üzerinde oluşan etki, altı farklı şekilde denetlenebilir. Bunlar:
-    > * Konunun üzerine gelen ışığın açısı yönlendirilebilir.
-    > * Konu ve ışık kaynağı arasındaki mesafe ayarlanabilir.
-    > * Konu ve ışık kaynağı arasındaki yön değiştirilebilir.
-    > * Işık şiddeti ayarlanabilir.
-    > * Konu üzerine gelen ışığın yumuşatılarak yayılması denetlenebilir.
-    > * Işığın filtreler yardımıyla renk ve kelvin derecesi
-    > değiştirilebilir.
-    > Doğru cevap E'dir.
+    > **Açıklama:** Tek ışık kaynağı kullanarak çekimi yapılacak olan konunun üzerinde oluşan etki, altı farklı şekilde denetlenebilir. Bunlar:<br />* Konunun üzerine gelen ışığın açısı yönlendirilebilir.<br />* Konu ve ışık kaynağı arasındaki mesafe ayarlanabilir.<br />* Konu ve ışık kaynağı arasındaki yön değiştirilebilir.<br />* Işık şiddeti ayarlanabilir.<br />* Konu üzerine gelen ışığın yumuşatılarak yayılması denetlenebilir.<br />* Işığın filtreler yardımıyla renk ve kelvin derecesi<br />değiştirilebilir.<br />Doğru cevap E'dir.
 
     <hr />
 1. Aşağıdakilerden hangisi stüdyo dışı, dekor amaçlı kullanılan yapay ışık kaynaklarındandır?
@@ -6483,8 +6242,7 @@
     - D-) Kırılma
     - E-) Düşme
 
-    > **Açıklama:** Işığın bilinmesi gereken üç temel özelliği vardır. Bunlar; Action (Hareket), Reflection (Yansıma) ve Transition (Geçme).
-    > Action (Hareket); ışık, düz çizgiler şeklinde ilerler. Doğru cevap A'dır.
+    > **Açıklama:** Işığın bilinmesi gereken üç temel özelliği vardır. Bunlar; Action (Hareket), Reflection (Yansıma) ve Transition (Geçme).<br />Action (Hareket); ışık, düz çizgiler şeklinde ilerler. Doğru cevap A'dır.
 
     <hr />
 1. 1\. Işık, konuyu aydınlatmak için kullanılır.<br />2\. Işık, atmosferi şekillendirir.<br />3\. Işık, desen oluşturmak için kullanılır.<br />Yukarıdaki ifadelerden hangisi/hangileri ışığın temel işlevlerindendir?
@@ -6494,12 +6252,7 @@
     - D-) I ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** Işığın dört temel işlevi vardır. Bunlar;
-    > * Işık, konuyu aydınlatmak için kullanılır.
-    > * Işık, konuya hacim ve derinlik vererek boyut kazandırır.
-    > * Işık, atmosferi şekillendirir.
-    > * Işık, desen oluşturmak için kullanılır.
-    > Doğru cevap E'dir.
+    > **Açıklama:** Işığın dört temel işlevi vardır. Bunlar;<br />* Işık, konuyu aydınlatmak için kullanılır.<br />* Işık, konuya hacim ve derinlik vererek boyut kazandırır.<br />* Işık, atmosferi şekillendirir.<br />* Işık, desen oluşturmak için kullanılır.<br />Doğru cevap E'dir.
 
     <hr />
 1. Konunun vurgulanması gereken yerler aydınlık, konunun dışında kalan yerlerin ise karanlık olduğu aydınlatma türü aşağıdakilerden hangisidir?
@@ -6589,11 +6342,7 @@
     - D-) I, III, V
     - E-) Hepsi
 
-    > **Açıklama:** Işığın dört temel işlevi vardır. Bunlar;
-    > * Işık, konuyu aydınlatmak için kullanılır.
-    > * Işık, konuya hacim ve derinlik vererek bo- yut kazandırır.
-    > * Işık, atmosferi şekillendirir.
-    > * Işık, desen oluşturmak için kullanılır. Ancak ışık sabit değil, hareketlidir. Doğru cevap A'dır.
+    > **Açıklama:** Işığın dört temel işlevi vardır. Bunlar;<br />* Işık, konuyu aydınlatmak için kullanılır.<br />* Işık, konuya hacim ve derinlik vererek bo- yut kazandırır.<br />* Işık, atmosferi şekillendirir.<br />* Işık, desen oluşturmak için kullanılır. Ancak ışık sabit değil, hareketlidir. Doğru cevap A'dır.
 
     <hr />
 1. Dış mekânlarda yapılan çekimlerde ışığın yoğunluğu fazla ise hangi renk filtre kullanılmalıdır?
@@ -6663,13 +6412,7 @@
     - D-) Konu ve ışık kaynağı arasındaki yön değiştirilebilir.
     - E-) Işık şiddeti ayarlanabilir.
 
-    > **Açıklama:** Tek ışık kaynağı kullanarak çekimi yapılacak olan konunun üzerinde oluşan etki, altı farklı şekilde denetlenebilir. Bunlar:
-    > * Konunun üzerine gelen ışığın açısı yönlendirilebilir.
-    > * Konu ve ışık kaynağı arasındaki mesafe ayarlanabilir.
-    > * Konu ve ışık kaynağı arasındaki yön değiştirilebilir.
-    > * Işık şiddeti ayarlanabilir.
-    > * Konu üzerine gelen ışığın yumuşatılarak yayılması denetlenebilir.
-    > * Işığın filtreler yardımıyla renk ve kelvin derecesi değiştirilebilir.
+    > **Açıklama:** Tek ışık kaynağı kullanarak çekimi yapılacak olan konunun üzerinde oluşan etki, altı farklı şekilde denetlenebilir. Bunlar:<br />* Konunun üzerine gelen ışığın açısı yönlendirilebilir.<br />* Konu ve ışık kaynağı arasındaki mesafe ayarlanabilir.<br />* Konu ve ışık kaynağı arasındaki yön değiştirilebilir.<br />* Işık şiddeti ayarlanabilir.<br />* Konu üzerine gelen ışığın yumuşatılarak yayılması denetlenebilir.<br />* Işığın filtreler yardımıyla renk ve kelvin derecesi değiştirilebilir.
 
     <hr />
 1. Aşağıdakilerden hangisi ışık efektleri arasında sayılamaz?
@@ -6679,8 +6422,7 @@
     - D-) Çoklu gölge efekti
     - E-) Şimşek efekti
 
-    > **Açıklama:** Işık Efektleri
-    > Ayna efekti, kesintili ışık, su dalgası efekti, ışık animasyonu, çoklu gölge efekti, şeffaf objeler, şimşek efekti.
+    > **Açıklama:** Işık Efektleri<br />Ayna efekti, kesintili ışık, su dalgası efekti, ışık animasyonu, çoklu gölge efekti, şeffaf objeler, şimşek efekti.
 
     <hr />
 1. “Genel de ofis gibi mekanlarda aydınlatma amaçlı kullanılırlar. Yaydığı ışıkta mavi ve yeşil renk egemen olduğu için sıcak renkleri yansıtamazlar. Çoğunlukla buzlu camdan üretilirler. Işığı doğrudan değil yayarak iletirler.”<br />Yukarıda belirtilen özellikler hangi ışık kaynağına aittir?
@@ -6710,10 +6452,7 @@
     - **Cevap D-) Yansıma**
     - E-) Hacim
 
-    > **Açıklama:** Işığın bilinmesi gereken üç temel özelliği vardır. Bunlar;
-    > • Action (Hareket); ışık, düz çizgiler şeklinde ilerler.
-    > • Reflection (Yansıma); ışık, bir engele çarptığında, engelin özelliği oranında yansır.
-    > • Transition (Geçme); ışık, ortam değiştirdiğinde kırılır.
+    > **Açıklama:** Işığın bilinmesi gereken üç temel özelliği vardır. Bunlar;<br />• Action (Hareket); ışık, düz çizgiler şeklinde ilerler.<br />• Reflection (Yansıma); ışık, bir engele çarptığında, engelin özelliği oranında yansır.<br />• Transition (Geçme); ışık, ortam değiştirdiğinde kırılır.
 
     <hr />
 1. Gece çekimlerinde kullanılmayan gündüz set, stüdyo gibi iç mekân çekimlerinde spotların önüne konulan jelatin filtre aşağıdakilerden hangisidir?
@@ -6733,8 +6472,7 @@
     - D-) 5
     - E-) 6
 
-    > **Açıklama:** Aydınlatma sırasında kullanılan ışık kaynakları ikiye ayrılır. Bunlar doğal
-    > ışık kaynakları ve yapay ışık kaynaklarıdır.
+    > **Açıklama:** Aydınlatma sırasında kullanılan ışık kaynakları ikiye ayrılır. Bunlar doğal<br />ışık kaynakları ve yapay ışık kaynaklarıdır.
 
     <hr />
 1. Bulutsuz bir günde güneşten gelen ışınların rengi hangi renktir?
@@ -6764,8 +6502,7 @@
     - D-) Işık animasyonu
     - E-) Su dalgası efekti
 
-    > **Açıklama:** Işık Efektleri
-    > Ayna efekti, kesintili ışık, su dalgası efekti, ışık animasyonu, çoklu gölge efekti, şeffaf objeler, şimşek efekti.
+    > **Açıklama:** Işık Efektleri<br />Ayna efekti, kesintili ışık, su dalgası efekti, ışık animasyonu, çoklu gölge efekti, şeffaf objeler, şimşek efekti.
 
     <hr />
 1. Derinlik etkisi oluşturmak için fon ve konu arasındaki uzaklığın kaç metre olması gerekir?
@@ -6805,11 +6542,7 @@
     - D-) Işık, desen oluşturmak için kullanılır
     - **Cevap E-) Işık seyirciye gösterilmesi istenmeyen objeleri saklar.**
 
-    > **Açıklama:** Işığın dört temel işlevi vardır. Bunlar;
-    > • Işık, konuyu aydınlatmak için kullanılır.
-    > • Işık, konuya hacim ve derinlik vererek boyut kazandırır.
-    > • Işık, atmosferi şekillendirir.
-    > • Işık, desen oluşturmak için kullanılır
+    > **Açıklama:** Işığın dört temel işlevi vardır. Bunlar;<br />• Işık, konuyu aydınlatmak için kullanılır.<br />• Işık, konuya hacim ve derinlik vererek boyut kazandırır.<br />• Işık, atmosferi şekillendirir.<br />• Işık, desen oluşturmak için kullanılır
 
     <hr />
 1. Konuyu görünebilir yapmak için kullanılan ışık kaynağı hangisidir?
@@ -6839,8 +6572,7 @@
     - D-) Işık, insan gözünün duyarlılık bölgesinde yer alan 400-780 nanometre(nm.) arasında değişen doğal veya yapay kaynaklı ışımadır.
     - E-) Güneş doğal ışık kaynağıdır.
 
-    > **Açıklama:** Işık, havada yaklaşık saniyede 300 km hızla yayılır.
-    > Yapay ışık kaynaklarının renk niteliği dinamik değil statiktir. Doğal ışık kaynaklarının renk niteliği dinamiktir.
+    > **Açıklama:** Işık, havada yaklaşık saniyede 300 km hızla yayılır.<br />Yapay ışık kaynaklarının renk niteliği dinamik değil statiktir. Doğal ışık kaynaklarının renk niteliği dinamiktir.
 
     <hr />
 1. Seçeneklerden hangisi ek ışık kaynağı kullanarak çekimi yapılacak olan konunun üzerinde oluşan etkiler arasında değildir?
@@ -7040,8 +6772,7 @@
     - D-) Projektör
     - E-) Spotlar
 
-    > **Açıklama:** Işık,insan gözünün duyarlılık bölgesinde yer alan 400-780 nanometre(nm.) arasında değişen
-    > doğal veya yapay kaynaklı ışımaya verilen addır
+    > **Açıklama:** Işık,insan gözünün duyarlılık bölgesinde yer alan 400-780 nanometre(nm.) arasında değişen<br />doğal veya yapay kaynaklı ışımaya verilen addır
 
     <hr />
 1. Aşağıdakilerden hangisi doğal ışık kaynakları arasındadır?<br />I.Güneş Işığı<br />II.Ay<br />III.Şimşek
@@ -7081,8 +6812,7 @@
     - D-) Sadece doğal ışık kaynakların kullanılması
     - E-) Sadece yapay ışık kaynakların kullanılması
 
-    > **Açıklama:** Bir kameraman veya fotoğrafçı, ışığı bir ressamın palet, fırça ve boyaları kullandığı gibi kullanır. Bir ressam malzemelerini özgürce kullanarak
-    > nasıl yaratıcı oluyorsa bir fotoğrafçı veya kameraman da ışığı aynı şekilde kullanmalıdır.Fotoğrafçılıkta ve sinemada ışık kullanımı diğer sanat dallarında olduğu gibi yaratıcılık ile doğrudan ilgilidir. Bunun için ışığın kullanımı sırasında kurallar yoktur.
+    > **Açıklama:** Bir kameraman veya fotoğrafçı, ışığı bir ressamın palet, fırça ve boyaları kullandığı gibi kullanır. Bir ressam malzemelerini özgürce kullanarak<br />nasıl yaratıcı oluyorsa bir fotoğrafçı veya kameraman da ışığı aynı şekilde kullanmalıdır.Fotoğrafçılıkta ve sinemada ışık kullanımı diğer sanat dallarında olduğu gibi yaratıcılık ile doğrudan ilgilidir. Bunun için ışığın kullanımı sırasında kurallar yoktur.
 
     <hr />
 1. Atmosferde kaybolmayan elektromanyetik ışınımlar aşağıdakilerden hangisidir?<br />I- X ışınları<br />II- Mor ötesi ışık<br />III-Görünür ışık<br />IV-Mikro Dalgalar
@@ -7092,8 +6822,7 @@
     - D-) I-III-IV
     - **Cevap E-) I-II-III-IV**
 
-    > **Açıklama:** Atmosferde kaybolmayan diğer elektromanyetik ışınımları:X ışınları,
-    > Mor ötesi ışık, Görünür ışık, Kızıl ötesi ışık, Mikro dalgalar ve Radyo dalgalarıdır.
+    > **Açıklama:** Atmosferde kaybolmayan diğer elektromanyetik ışınımları:X ışınları,<br />Mor ötesi ışık, Görünür ışık, Kızıl ötesi ışık, Mikro dalgalar ve Radyo dalgalarıdır.
 
     <hr />
 1. Güneş ışığının renk ısısı ile verilerden hangisi doğrudur?
@@ -7123,9 +6852,7 @@
     - D-) Renk kullanımını
     - E-) Ses kullanımını
 
-    > **Açıklama:** Işık EfektleriAyna efekti, kesintili ışık, su dalgası efekti, ışık animasyonu,
-    > çoklu gölge efekti, şeaf objeler, şimşek efekti. Işık efektlerini etkili bir şekilde kullanmayı
-    > bilmek, herhangi bir stüdyo(sinema, kamera, fotoğraf vb.) çekimi için önemlidir.
+    > **Açıklama:** Işık EfektleriAyna efekti, kesintili ışık, su dalgası efekti, ışık animasyonu,<br />çoklu gölge efekti, şeaf objeler, şimşek efekti. Işık efektlerini etkili bir şekilde kullanmayı<br />bilmek, herhangi bir stüdyo(sinema, kamera, fotoğraf vb.) çekimi için önemlidir.
 
     <hr />
 1. Koyu fon perdeleri set ve stüdyo çekimleri sırasında çekimi yapılacak konu üzerinde hangi etkiyi yaratmak için kullanılır?
@@ -7145,8 +6872,7 @@
     - D-) Konu ve ışık kaynağı arasındaki yön değiştirilebilir.
     - E-) Işığın filtreler yardımıyla renk ve kelvin derecesi değiştirilebilir.
 
-    > **Açıklama:** Tek ışık kaynağı kullanarak çekimi yapılacak olan konunun üzerinde oluşan etki, altı farklı şekilde denetlenebilir. Bunlar:
-    > Konunun üzerine gelen ışığın açısı yönlendirilebilir. Konu ve ışık kaynağı arasındaki mesafe ayarlanabilir. Konu ve ışık kaynağı arasındaki yön değiştirilebilir. Işık şiddeti ayarlanabilir. Konu üzerine gelen ışığın yumuşatılarak yayılması denetlenebilir. Işığın filtreler yardımıyla renk ve kelvin derecesi değiştirilebilir.
+    > **Açıklama:** Tek ışık kaynağı kullanarak çekimi yapılacak olan konunun üzerinde oluşan etki, altı farklı şekilde denetlenebilir. Bunlar:<br />Konunun üzerine gelen ışığın açısı yönlendirilebilir. Konu ve ışık kaynağı arasındaki mesafe ayarlanabilir. Konu ve ışık kaynağı arasındaki yön değiştirilebilir. Işık şiddeti ayarlanabilir. Konu üzerine gelen ışığın yumuşatılarak yayılması denetlenebilir. Işığın filtreler yardımıyla renk ve kelvin derecesi değiştirilebilir.
 
     <hr />
 1. Çekimler sırasında aydınlatma amaçlı kullanılan yapay ışık kaynakları aşağıdakilerden hangisileridir?<br />I-Mum<br />II-Gaz lambası<br />III-Kamp ateşi<br />IV-Şimşek
@@ -7156,13 +6882,7 @@
     - D-) IV-III
     - E-) I-III-IV
 
-    > **Açıklama:** Çekimler sırasında aydınlatma amaçlı kullanılan yapay ışık kaynaklar,mum, gaz
-    > lambası ve gemici feneri, şömine ateşi, kamp ateşi,akkor flamanlı lambalar, floresan lambalar, sokak lambaları, el feneri, kask feneri, akvaryum, araba
-    > farı, sinema veya projeksiyon perdesi, televizyon veya monitör, kaynak makinesi, gün ışığı projektörü, strop ışık, ayna ve reflektördür.
-    > Çözüm:
-    > I-Mum
-    > II-Gaz lambası
-    > III-Kamp ateşi
+    > **Açıklama:** Çekimler sırasında aydınlatma amaçlı kullanılan yapay ışık kaynaklar,mum, gaz<br />lambası ve gemici feneri, şömine ateşi, kamp ateşi,akkor flamanlı lambalar, floresan lambalar, sokak lambaları, el feneri, kask feneri, akvaryum, araba<br />farı, sinema veya projeksiyon perdesi, televizyon veya monitör, kaynak makinesi, gün ışığı projektörü, strop ışık, ayna ve reflektördür.<br />Çözüm:<br />I-Mum<br />II-Gaz lambası<br />III-Kamp ateşi
 
     <hr />
 1. I- konuyu aydınlatmak için kullanılır.<br />II- konuya hacim ve derinlik vererek boyut kazandırır.<br />III- atmosferi şekillendirir.<br />IV- desen oluşturmak için kullanılır<br />Yukarıda verilen işlevsel özellikler hangi kavrama aittir?
@@ -7172,11 +6892,7 @@
     - D-) Hacim
     - E-) Derinlik
 
-    > **Açıklama:** Işığın dört temel işlevi vardır. Bunlar;
-    > • Işık, konuyu aydınlatmak için kullanılır.
-    > • Işık, konuya hacim ve derinlik vererek boyut kazandırır.
-    > • Işık, atmosferi şekillendirir.
-    > • Işık, desen oluşturmak için kullanılır
+    > **Açıklama:** Işığın dört temel işlevi vardır. Bunlar;<br />• Işık, konuyu aydınlatmak için kullanılır.<br />• Işık, konuya hacim ve derinlik vererek boyut kazandırır.<br />• Işık, atmosferi şekillendirir.<br />• Işık, desen oluşturmak için kullanılır
 
     <hr />
 1. ''Işık, ortam değiştirdiğinde kırılır''<br />Yukarıda verilen yargı ışığın hangi özelliği ile ilgilidir?
@@ -7206,9 +6922,7 @@
     - **Cevap D-) I, III ve IV**
     - E-) II, III ve IV
 
-    > **Açıklama:** Güneş Işığı; Güneş, içerisinde meydana gelen nükleer tepki­meler sonucunda etrafına ısı ve ışık yayar. Dünya­mıza doğrudan veya atmosferden/aydan yansıyarak gelen bu ışık, doğal ışık kaynağımızdır.
-    > Ay; Ay gerçekte bir ışık kaynağı değildir. Güneşten gelen ışınları yansıtır (Fotoğraf 5.4.). Fakat ayın insan üzerindeki psikolojik yansı­maları sinema ya da fotoğraf sana­tında kullanılır. Ay aynı zamanda, izleyiciye zaman bilgisini sunar. Aydan yansıyan ışığın, yoğunluğu az ama renk ısısı yüksektir. Mavi renk yoğunluğu fazladır. Ay ışığı altında oluşan konuya ait gölge tektir. Gece yapılacak olan çekim­lerde, ay ışığının karakteristik bu özellikleri dikkate alınmalı ve bu özelliklere göre aydınlatma plan­laması yapılmalıdır. Bu gibi du­rumlarda, ısı derecesi ve ışık şiddeti yüksek olan gün ışığı projektörleri kullanılabilir.
-    > Şimşek; Şimşek, elektronların yeryüzünden gökyüzüne doğru hareket etmesiyle gerçekleşen güçlü ve beyaz ışık saçan bir elektrik olayıdır. Bulutlu bir günde, bulutlar pozitif yük ile yüklenir. Elektrik akımı, oluşan po­tansiyel fark nedeniyle negatif yüklü elektronların pozitif yüke doğru hareket etmesiyle oluşur. Bulutların pozitif yük ile yüklenmesi ve yer kürenin negatif yük ile yüklü olması sebebiyle yer küreden bulutlara doğru bir elektron hareketi başlar. Bu olay şimşek çakması olarak tanımlanır. Şimşek çakması sırasında ışık ve ses oluşumu gözlemlenir. Işık hızı ses hızından daha büyük olduğu için, şimşek çakması sırasında önce şimşeğin yaydığı beyaz ışığı görür sonra da şimşeğin sesini duyarız. Şimşek çakması bir doğa olayıdır ve insan psikolojisi üzerinde de etkileri vardır. Sinema ve fotoğraf sanatı da insan psikolojisi üzerinde bu denli güçlü etkiye sahip olan bu tür bir doğa olayını konusu olarak seçerek seyircisine o anı yaşatmak ister. Doğru cevap D şıkkıdır.
+    > **Açıklama:** Güneş Işığı; Güneş, içerisinde meydana gelen nükleer tepki­meler sonucunda etrafına ısı ve ışık yayar. Dünya­mıza doğrudan veya atmosferden/aydan yansıyarak gelen bu ışık, doğal ışık kaynağımızdır.<br />Ay; Ay gerçekte bir ışık kaynağı değildir. Güneşten gelen ışınları yansıtır (Fotoğraf 5.4.). Fakat ayın insan üzerindeki psikolojik yansı­maları sinema ya da fotoğraf sana­tında kullanılır. Ay aynı zamanda, izleyiciye zaman bilgisini sunar. Aydan yansıyan ışığın, yoğunluğu az ama renk ısısı yüksektir. Mavi renk yoğunluğu fazladır. Ay ışığı altında oluşan konuya ait gölge tektir. Gece yapılacak olan çekim­lerde, ay ışığının karakteristik bu özellikleri dikkate alınmalı ve bu özelliklere göre aydınlatma plan­laması yapılmalıdır. Bu gibi du­rumlarda, ısı derecesi ve ışık şiddeti yüksek olan gün ışığı projektörleri kullanılabilir.<br />Şimşek; Şimşek, elektronların yeryüzünden gökyüzüne doğru hareket etmesiyle gerçekleşen güçlü ve beyaz ışık saçan bir elektrik olayıdır. Bulutlu bir günde, bulutlar pozitif yük ile yüklenir. Elektrik akımı, oluşan po­tansiyel fark nedeniyle negatif yüklü elektronların pozitif yüke doğru hareket etmesiyle oluşur. Bulutların pozitif yük ile yüklenmesi ve yer kürenin negatif yük ile yüklü olması sebebiyle yer küreden bulutlara doğru bir elektron hareketi başlar. Bu olay şimşek çakması olarak tanımlanır. Şimşek çakması sırasında ışık ve ses oluşumu gözlemlenir. Işık hızı ses hızından daha büyük olduğu için, şimşek çakması sırasında önce şimşeğin yaydığı beyaz ışığı görür sonra da şimşeğin sesini duyarız. Şimşek çakması bir doğa olayıdır ve insan psikolojisi üzerinde de etkileri vardır. Sinema ve fotoğraf sanatı da insan psikolojisi üzerinde bu denli güçlü etkiye sahip olan bu tür bir doğa olayını konusu olarak seçerek seyircisine o anı yaşatmak ister. Doğru cevap D şıkkıdır.
 
     <hr />
 1. Aşağıdakilerden hangisi Fotoğrafçının aydınlatma üzerindeki denetim yolları arasında yer almaz?
@@ -7218,15 +6932,7 @@
     - D-) Konu üzerine gelen ışığın yumuşatılarak ya­yılması denetlenebilir.
     - **Cevap E-) Işık kaynağı kullanmayarak konunun üzerinde oluşan etki değiştirilebilir.**
 
-    > **Açıklama:** Konunun aydınlatılması üzerindeki denetim tamamen fotoğrafçı tarafından yapılır. Fotoğrafçı aydınlatma üzerinde denetimlerini yansıtıcılar ve spotlar aracılığıyla yapar.
-    > Tek ışık kaynağı kullanarak çekimi yapıla­cak olan konunun üzerinde oluşan etki, altı farklı şekilde denetlenebilir. Bunlar:
-    > • Konunun üzerine gelen ışığın açısı yönlen­dirilebilir.
-    > • Konu ve ışık kaynağı arasındaki mesafe ayarlanabilir.
-    > • Konu ve ışık kaynağı arasındaki yön değiş­tirilebilir.
-    > • Işık şiddeti ayarlanabilir.
-    > • Konu üzerine gelen ışığın yumuşatılarak ya­yılması denetlenebilir.
-    > • Işığın filtreler yardımıyla renk ve kelvin de­recesi değiştirilebilir.
-    > Doğru cevap E şıkkıdır.
+    > **Açıklama:** Konunun aydınlatılması üzerindeki denetim tamamen fotoğrafçı tarafından yapılır. Fotoğrafçı aydınlatma üzerinde denetimlerini yansıtıcılar ve spotlar aracılığıyla yapar.<br />Tek ışık kaynağı kullanarak çekimi yapıla­cak olan konunun üzerinde oluşan etki, altı farklı şekilde denetlenebilir. Bunlar:<br />• Konunun üzerine gelen ışığın açısı yönlen­dirilebilir.<br />• Konu ve ışık kaynağı arasındaki mesafe ayarlanabilir.<br />• Konu ve ışık kaynağı arasındaki yön değiş­tirilebilir.<br />• Işık şiddeti ayarlanabilir.<br />• Konu üzerine gelen ışığın yumuşatılarak ya­yılması denetlenebilir.<br />• Işığın filtreler yardımıyla renk ve kelvin de­recesi değiştirilebilir.<br />Doğru cevap E şıkkıdır.
 
     <hr />
 1. Aşağıdakilerden hangisi ışık efektleri arasında yer almaz?
@@ -7326,10 +7032,7 @@
     - D-) II-III
     - E-) III
 
-    > **Açıklama:** Işığın bilinmesi gereken üç temel özelliği vardır. Bunlar;
-    > * Action (Hareket); ışık, düz çizgiler şeklinde ilerler.
-    > * Reflection (Yansıma); ışık, bir engele çarptığında, engelin özelliği oranında yansır.
-    > * Transition (Geçme); ışık, ortam değiştirdiğinde kırılır.
+    > **Açıklama:** Işığın bilinmesi gereken üç temel özelliği vardır. Bunlar;<br />* Action (Hareket); ışık, düz çizgiler şeklinde ilerler.<br />* Reflection (Yansıma); ışık, bir engele çarptığında, engelin özelliği oranında yansır.<br />* Transition (Geçme); ışık, ortam değiştirdiğinde kırılır.
 
     <hr />
 1. Işığın dört temel işlevi vardır. Aşağıda bunlardan hangileri doğru verilmiştir?<br />I- Işık, konuyu aydınlatmak için kullanılır.<br />II- Işık, konuya hacim ve derinlik vererek boyut kazandırır.<br />III- Işık, konuyu şekillendirir.<br />IV- Işık, renk oluşturmak için kullanılır.
@@ -7339,11 +7042,7 @@
     - D-) I-II-III
     - **Cevap E-) I-II**
 
-    > **Açıklama:** Işığın dört temel işlevi vardır. Bunlar;
-    > * Işık, konuyu aydınlatmak için kullanılır.
-    > * Işık, konuya hacim ve derinlik vererek bo- yut kazandırır.
-    > * Işık, atmosferi şekillendirir.
-    > * Işık, desen oluşturmak için kullanılır
+    > **Açıklama:** Işığın dört temel işlevi vardır. Bunlar;<br />* Işık, konuyu aydınlatmak için kullanılır.<br />* Işık, konuya hacim ve derinlik vererek bo- yut kazandırır.<br />* Işık, atmosferi şekillendirir.<br />* Işık, desen oluşturmak için kullanılır
 
     <hr />
 1. "Arka ışığın az olması ya da hiç olmaması sonucu ortaya çıkan aydınlatma biçimidir." şeklindeki tanım aşağıdakilerden hangisine aittir?
@@ -7394,8 +7093,7 @@
     - **Cevap D-) Nokta**
     - E-) Yön
 
-    > **Açıklama:** Nokta (benek) hareketsiz, sakin bir yapıya sahiptir. Nokta bu özelliği ile göz hareketini kontrol ederek onu bakması gereken alana doğru yönlendirir, dikkati
-    > toplar, odaklar. Bedri Rahmi Eyüboğlu’na göre sanatsal bir kurguda nokta ya da benek, herhangi bir çorbaya konulan tuz kadar önemlidir. Doğru cevap D'dir.
+    > **Açıklama:** Nokta (benek) hareketsiz, sakin bir yapıya sahiptir. Nokta bu özelliği ile göz hareketini kontrol ederek onu bakması gereken alana doğru yönlendirir, dikkati<br />toplar, odaklar. Bedri Rahmi Eyüboğlu’na göre sanatsal bir kurguda nokta ya da benek, herhangi bir çorbaya konulan tuz kadar önemlidir. Doğru cevap D'dir.
 
     <hr />
 1. 1\. Tür<br />2\. Değer<br />3\. Chroma<br />Yukarıda verilenlerden hangileri Johannes Itten’e göre rengin değişken özelliklerindendir?
@@ -7405,9 +7103,7 @@
     - **Cevap D-) I, II ve III**
     - E-) Yalnız III
 
-    > **Açıklama:** Bugün kullanılmakta olan renk kuramını; Aslında 1919 -1923 yılları arasında Bauhaus okulunda verdiği derslerde geliştiren, daha sonra kendi kurmuş olduğu tasarım okulunda öğreten Johannes Itten’e borçluyuz. Herhangi bir renkten bahsediyor isek biz o rengin üç değişken özelliğinden de bahsetmemiz gerekir. Bunlardan birincisi o rengin türüdür (cinsi) sarı, kırmızı, mavi gibi. İkinci değişken özelliği o rengin değeridir yani her rengin algılamada siyahla beyaz arasında bulunan bir ton değeri vardır. Örneğin; kırmızı ve yeşil gri değerdedir, sarı beyaza mor ise siyaha yakın bir gri değerdedir. Üçüncü değişken özelliği ise ‘chroma’ yani yoğunluğudur. Herhangi bir renk içerisine başka bir renk almadığı
-    > sürece o renk kroması yüksek durumdadır ama içine başka renkler karışarak griye yaklaştıkça kroması düşer. Gri, Siyah ve Beyaz sıfır kromalı yani kromasız renklerdir. Açıksoluk bir mavi dediğimiz zaman biz o rengin üç değişkenini
-    > de belirtmiş oluruz. Doğru cevap D'dir.
+    > **Açıklama:** Bugün kullanılmakta olan renk kuramını; Aslında 1919 -1923 yılları arasında Bauhaus okulunda verdiği derslerde geliştiren, daha sonra kendi kurmuş olduğu tasarım okulunda öğreten Johannes Itten’e borçluyuz. Herhangi bir renkten bahsediyor isek biz o rengin üç değişken özelliğinden de bahsetmemiz gerekir. Bunlardan birincisi o rengin türüdür (cinsi) sarı, kırmızı, mavi gibi. İkinci değişken özelliği o rengin değeridir yani her rengin algılamada siyahla beyaz arasında bulunan bir ton değeri vardır. Örneğin; kırmızı ve yeşil gri değerdedir, sarı beyaza mor ise siyaha yakın bir gri değerdedir. Üçüncü değişken özelliği ise ‘chroma’ yani yoğunluğudur. Herhangi bir renk içerisine başka bir renk almadığı<br />sürece o renk kroması yüksek durumdadır ama içine başka renkler karışarak griye yaklaştıkça kroması düşer. Gri, Siyah ve Beyaz sıfır kromalı yani kromasız renklerdir. Açıksoluk bir mavi dediğimiz zaman biz o rengin üç değişkenini<br />de belirtmiş oluruz. Doğru cevap D'dir.
 
     <hr />
 1. Yazılı kültürün dil bilgisi ve söz dizimi kavramların görsel sanatlardaki karşılığına \_\_\_\_\_\_\_\_\_\_\_\_\_ adı verilir.<br />Yukarıdaki boşluğu aşağıdakilerden hangisi en iyi şekilde tamamlar?
@@ -7527,8 +7223,7 @@
     - D-) Denge
     - **Cevap E-) Egemenlik**
 
-    > **Açıklama:** Bir kompozisyonda, tasar ögelerinin birinin ya da bir grubun diğerleri üzerinde
-    > baskın bir şekilde kullanılması, hâkimiyet sağlaması bu ilkenin ana kuralıdır. Tasar ögelerinin birinin o kompozisyonda daha fazla kullanılması kompozisyona canlılık katar, hareket verir, ilgiyi çeker. Doğru cevap E'dir.
+    > **Açıklama:** Bir kompozisyonda, tasar ögelerinin birinin ya da bir grubun diğerleri üzerinde<br />baskın bir şekilde kullanılması, hâkimiyet sağlaması bu ilkenin ana kuralıdır. Tasar ögelerinin birinin o kompozisyonda daha fazla kullanılması kompozisyona canlılık katar, hareket verir, ilgiyi çeker. Doğru cevap E'dir.
 
     <hr />
 1. Tüm iki boyutlu sanatsal çalışmalarda üç boyutlu görünüm elde etmek için gerekli çizim tekniği hangisidir?
@@ -7558,8 +7253,7 @@
     - D-) Açık kompozisyon
     - E-) Altın oran
 
-    > **Açıklama:** “Z’’ ekseni bir dik açının ortasından çizilen 45 derecelik eksenini oluşturur. Bir tasarıya ya da kompozisyona Z ekseninin yerleştirilmesi, görsel pozisyonu üç boyutlu algı sürecine yaklaştırır, derinlik yaratır, nesneler arasındaki uzaklık ve
-    > yakınlık ilişkisini kurulmasına yardımcı olur ve doğal olarak ön-arka ilişkisi yaratır. Önemli bir kompozisyon türüdür. Doğru cevap A'dır.
+    > **Açıklama:** “Z’’ ekseni bir dik açının ortasından çizilen 45 derecelik eksenini oluşturur. Bir tasarıya ya da kompozisyona Z ekseninin yerleştirilmesi, görsel pozisyonu üç boyutlu algı sürecine yaklaştırır, derinlik yaratır, nesneler arasındaki uzaklık ve<br />yakınlık ilişkisini kurulmasına yardımcı olur ve doğal olarak ön-arka ilişkisi yaratır. Önemli bir kompozisyon türüdür. Doğru cevap A'dır.
 
     <hr />
 1. Günümüz yaşam biçimine ve postmodern dünya görüşüne uygun düşen, hiçbir kural kabul etmeyen, tanımayan, uymayan en uygun kompozisyon türü hangisidir?
@@ -7659,8 +7353,7 @@
     - D-) Resim sanatında perspektifi ilk kez onun uyguladığı söylenen sanatçı Leonardo Da Vinci dir.
     - **Cevap E-) Çin, Hitit, Mezopotamya ve Mısır uygarlıklarında da perspektif kullanılmıştır.**
 
-    > **Açıklama:** Tüm iki boyutlu sanatsal çalışmalarda üç boyutlu görünüm elde etme (görüldükleri gibi çizme) perspektif çizim tekniği kullanılarak yapılır. Perspektif, yüzey organizasyonunda, iki boyutlu bir düzlemde üçüncü boyut yani derinlik yanılsaması vermek için kullanılan tekniktir. Kesin geometrik kurallara ve orantılara bağlıdır. Bu­gün çizgi perspektifin tek, iki ve üç kaçar noktalı çizim yöntemlerin yanında hava perspektifi de kullanılmaktadır.
-    > Resim sanatında perspektifi ilk kez onun uyguladığı söylenen Leonardo Da Vinci’den çok daha önce­leri bile, antikite denilen dönemde yani eski Yunan ve Roma uygarlıklarında uygulandığı bilinmektedir, Resim 6.32. Ancak tarihin tüm çağlarında kullanılan bir teknik de değildir. Minyatür sanatı buna en basit örnektir. Çin, Hitit, Mezopotamya ve Mısır uygarlıklarında da kullanılmamıştır.
+    > **Açıklama:** Tüm iki boyutlu sanatsal çalışmalarda üç boyutlu görünüm elde etme (görüldükleri gibi çizme) perspektif çizim tekniği kullanılarak yapılır. Perspektif, yüzey organizasyonunda, iki boyutlu bir düzlemde üçüncü boyut yani derinlik yanılsaması vermek için kullanılan tekniktir. Kesin geometrik kurallara ve orantılara bağlıdır. Bu­gün çizgi perspektifin tek, iki ve üç kaçar noktalı çizim yöntemlerin yanında hava perspektifi de kullanılmaktadır.<br />Resim sanatında perspektifi ilk kez onun uyguladığı söylenen Leonardo Da Vinci’den çok daha önce­leri bile, antikite denilen dönemde yani eski Yunan ve Roma uygarlıklarında uygulandığı bilinmektedir, Resim 6.32. Ancak tarihin tüm çağlarında kullanılan bir teknik de değildir. Minyatür sanatı buna en basit örnektir. Çin, Hitit, Mezopotamya ve Mısır uygarlıklarında da kullanılmamıştır.
 
     <hr />
 1. Simetrik (merkezi) kompozisyon hakkında verilen bilgilerden hangisi yanlıştır?
@@ -7770,8 +7463,7 @@
     - D-) Ayırıcı nitelik
     - **Cevap E-) Ritim**
 
-    > **Açıklama:** Tüm iki boyutlu yüzeylerin üzerindeki sanatsal çalışmalarda üç boyutlu görünüm elde etme (görüldükleri gibi çizme) perspektif çizim tekniği kullanılarak yapılır. Derinlik yanılsaması verme tekniğidir. Kesin geometrik kurallara ve orantılara bağlıdır. Bugün çizgi perspektifin tek, iki ve üç kaçar noktalı çizim yöntemlerin yanında hava perspektifi de kullanılmaktadır. İki boyutlu bir düzlem üzerinde derinlik yanılsaması yaratma, fon ve figür elde etme yöntemi ile yapılabilir, figür öne gelir fon arkaya
-    > gider. Yakınlık, Benzerlik, Saydamlık ve Ayırıcı nitelik görsel algılamada belirliliği sağlayan dört temel ayırıcı ilkelerdir. Doğru cevap E'dir.
+    > **Açıklama:** Tüm iki boyutlu yüzeylerin üzerindeki sanatsal çalışmalarda üç boyutlu görünüm elde etme (görüldükleri gibi çizme) perspektif çizim tekniği kullanılarak yapılır. Derinlik yanılsaması verme tekniğidir. Kesin geometrik kurallara ve orantılara bağlıdır. Bugün çizgi perspektifin tek, iki ve üç kaçar noktalı çizim yöntemlerin yanında hava perspektifi de kullanılmaktadır. İki boyutlu bir düzlem üzerinde derinlik yanılsaması yaratma, fon ve figür elde etme yöntemi ile yapılabilir, figür öne gelir fon arkaya<br />gider. Yakınlık, Benzerlik, Saydamlık ve Ayırıcı nitelik görsel algılamada belirliliği sağlayan dört temel ayırıcı ilkelerdir. Doğru cevap E'dir.
 
     <hr />
 1. Maddelerden hangileri herhangi bir zamanda ve yerde, insanlar tarafından üretilmiş olan bir yapıtı var eden ortak temel özelliklerdendir?<br />**I.** Bireysellik **II.** Renk **III.** Zaman<br />**IV.** Hareket  **V.** Malzeme  **VI.** Evrensellik
@@ -7791,8 +7483,7 @@
     - D-) I, III, IV
     - **Cevap E-) I, III, IV, V**
 
-    > **Açıklama:** Kompozisyonun bugünkü tanım ve işlevini ele alan Jean Rudel’ e göre kompozisyon yapma yöntemini; yapıtın farklı yapısal kısımlarının, bütüne göre dinamik ya da yavaşça kendilerini belirlemeleri, birbirlerine bağımlı ve bir düzen içerisinde bütünlüğü oluşturmak için bir araya getirilmeleri olarak tanımlar. Kompozisyonun esas işlevi, bir iletişim için bildirimde bulunmaktır. Çünkü sanatsal bir ürün, ancak bir anlatım ile varlığını kazanabilen iletişim aracıdır. Yazılı kültürün dil bilgisi ve söz dizimi kavramların görsel sanatlardaki karşılığı kompozisyondur.
-    > Gördüklerimiz arasında bir önem sıralaması yapmayız ama eğer bir yüzey organizasyonu için düzenleme yapacaksak (yönetmen, ressam, fotoğraf sanatçısı, mimar olarak), görüntüyü düzenleyeceğimiz yüzey parçası içerisine alacağımız tüm ögeleri, önem sırasına göre belirli bir düzene göre yerleştirmek durumundadır. ‘’Kompozisyon’’ bu düzenlemenin adıdır. Bir kompozisyon (Yüzey organizasyonu) oluşturarak bir bildirimde bulunabilmek için; Birbirinden çeşitli yönlerden farklılık ya da benzerlik gösteren bütünün temsilcisi yapısal parçaların olması, bu yapısal parçaları oluşturan öğelerin birbirleriyle etkileşimini (parçadaki herhangi bir değişim bütünü de değiştirir) belirleyecek belirli bir düzenin olması ve tüm bunların sonucunda bir bütünlüğe ulaşılması gerekir.
+    > **Açıklama:** Kompozisyonun bugünkü tanım ve işlevini ele alan Jean Rudel’ e göre kompozisyon yapma yöntemini; yapıtın farklı yapısal kısımlarının, bütüne göre dinamik ya da yavaşça kendilerini belirlemeleri, birbirlerine bağımlı ve bir düzen içerisinde bütünlüğü oluşturmak için bir araya getirilmeleri olarak tanımlar. Kompozisyonun esas işlevi, bir iletişim için bildirimde bulunmaktır. Çünkü sanatsal bir ürün, ancak bir anlatım ile varlığını kazanabilen iletişim aracıdır. Yazılı kültürün dil bilgisi ve söz dizimi kavramların görsel sanatlardaki karşılığı kompozisyondur.<br />Gördüklerimiz arasında bir önem sıralaması yapmayız ama eğer bir yüzey organizasyonu için düzenleme yapacaksak (yönetmen, ressam, fotoğraf sanatçısı, mimar olarak), görüntüyü düzenleyeceğimiz yüzey parçası içerisine alacağımız tüm ögeleri, önem sırasına göre belirli bir düzene göre yerleştirmek durumundadır. ‘’Kompozisyon’’ bu düzenlemenin adıdır. Bir kompozisyon (Yüzey organizasyonu) oluşturarak bir bildirimde bulunabilmek için; Birbirinden çeşitli yönlerden farklılık ya da benzerlik gösteren bütünün temsilcisi yapısal parçaların olması, bu yapısal parçaları oluşturan öğelerin birbirleriyle etkileşimini (parçadaki herhangi bir değişim bütünü de değiştirir) belirleyecek belirli bir düzenin olması ve tüm bunların sonucunda bir bütünlüğe ulaşılması gerekir.
 
     <hr />
 1. Metne göre boş bırakılan yer seçeneklerden hangisi ile uygun şekilde tamamlanabilir?<br />“Elvin Toffler diyor ki; geleceğin cahili, okuma yazma bilmeyen değil ………………………………………dır. Günümüzde bilgiye ulaşmada öğrenenin, edindiği bilgileri analiz ve sentez etmesi gerektiği için, gelişen ve değişen okuryazarlık becerilerinin de edinilme zorunluluğu ortadadır. 1983 yılındaki ABD’nin nüfus dairesinin istatistiklerine göre, Amerikalıların %99’u okuryazar sayılmasına rağmen, pek çok uzman her beş yetişkinden birinin (%20) uygulamada, (çağdaş kültürün gerektirdiği bilgi eksiklerinden ötürü, teknoloji okuryazarlığı eksikliği gibi) okuma yazma bilmeyenler grubuna katıldığını belirtilmiştir.”
@@ -7982,8 +7673,7 @@
     - D-) Ekonomik katkı
     - E-) İnanç
 
-    > **Açıklama:** İnsanoğlunun geliştirdiği iletişim araçları arasında en güçlü etkiyi görsel iletişim araçları yapar. Güçlü bir şekilde hemen etkiler. Görsel özelliği olan iletişim araçlarının bize kazandırdığı en büyük avantaj “hız’’ kavramıdır diyebiliriz. Konuşma dili, yazma dili gibi bir dil olarak ele alındığında, görsel iletişim araçları diğerlerinden şu farklılığı ile ön plana çıkar. Konuşma dilinde ya da yazma dilinde bir anlatının olabilmesi ya da algılanabilmesi belirli bir sürece (zaman) bağlıdır. Heceleri, sözcükleri ya da sesleri birbirlerine pekiştire pekiştire ardışık bir biçimde bağlayarak, tümcenin tamamlanması ve sonucunda bir algılamanın olmasına karşın, görsel iletişim aracı kullanan sanat
-    > dilinde bu algılama, aynı anda (eş zamanda) ögelerin tümünü birbirleriyle ilişkileri içerisinde bir bütün olarak ve birden olur. İnsanların görsel bilgiyi, yazılı bilgiye göre 60.000 kez daha hızlı işlediği yönündeki bulguları olan bir araştırma (3M Corporation Research, 2001) bunu destekler niteliktedir. Doğru cevap B'dir.
+    > **Açıklama:** İnsanoğlunun geliştirdiği iletişim araçları arasında en güçlü etkiyi görsel iletişim araçları yapar. Güçlü bir şekilde hemen etkiler. Görsel özelliği olan iletişim araçlarının bize kazandırdığı en büyük avantaj “hız’’ kavramıdır diyebiliriz. Konuşma dili, yazma dili gibi bir dil olarak ele alındığında, görsel iletişim araçları diğerlerinden şu farklılığı ile ön plana çıkar. Konuşma dilinde ya da yazma dilinde bir anlatının olabilmesi ya da algılanabilmesi belirli bir sürece (zaman) bağlıdır. Heceleri, sözcükleri ya da sesleri birbirlerine pekiştire pekiştire ardışık bir biçimde bağlayarak, tümcenin tamamlanması ve sonucunda bir algılamanın olmasına karşın, görsel iletişim aracı kullanan sanat<br />dilinde bu algılama, aynı anda (eş zamanda) ögelerin tümünü birbirleriyle ilişkileri içerisinde bir bütün olarak ve birden olur. İnsanların görsel bilgiyi, yazılı bilgiye göre 60.000 kez daha hızlı işlediği yönündeki bulguları olan bir araştırma (3M Corporation Research, 2001) bunu destekler niteliktedir. Doğru cevap B'dir.
 
     <hr />
 1. Bir sanatçı çalışması aracılığıyla izleyici ile iletişime geçmek için öncelikle neye dikkat etmelidir?
@@ -7993,8 +7683,7 @@
     - D-) Malzemeye
     - E-) Tekniğe
 
-    > **Açıklama:** Görsel sanatların kendi dilinde, dil bilgisindeki söz dizimine denk düşen ve onu karşılayan kavrama kompozisyon diyoruz. Amacı, bir iletişim için bildirimde bulunma işlevini yerine getirmektir. Bu günkü yazı dilinin oluşmasından çok önce, ilkyazı
-    > dillerinin resimsi sembollerden oluştuğunu ve sadece resimsi sembollerle sınırlı kaldığını hatırlayınız. Buna göre sanatçının dili eserindeki kompozisyon anlayışıdır. Diğer öğeler kompozisyona hizmet eder. Doğru cevap C'dir.
+    > **Açıklama:** Görsel sanatların kendi dilinde, dil bilgisindeki söz dizimine denk düşen ve onu karşılayan kavrama kompozisyon diyoruz. Amacı, bir iletişim için bildirimde bulunma işlevini yerine getirmektir. Bu günkü yazı dilinin oluşmasından çok önce, ilkyazı<br />dillerinin resimsi sembollerden oluştuğunu ve sadece resimsi sembollerle sınırlı kaldığını hatırlayınız. Buna göre sanatçının dili eserindeki kompozisyon anlayışıdır. Diğer öğeler kompozisyona hizmet eder. Doğru cevap C'dir.
 
     <hr />
 1. Nesnelerin fiziksel yapılarının iç özelliklerini, dış yüzeylerinden anlamamızı sağlayan işlevsel özelliklerin genel adı nedir?
@@ -8014,8 +7703,7 @@
     - D-) Ritim-Tekrar
     - E-) Ritim-Ölçü
 
-    > **Açıklama:** Eğer bir düzen veya yapı içerisinde tek bir öge yinelenirse (aralıklı ya da aralıksız) tekrar, birden fazla öge bir arada belirli aralıklarla yinelenirse ritim oluşturmuş oluruz,
-    > Yani ritim tekrardan oluşmaktadır ama birden fazla ögenin bir arada tekrarlanması gerekir. Ritim düzenli bir tekrara dayanarak hareketi başlatan, sürdüren, birleştirici ve uyum sağlayıcı bir ögedir ve bireyin algılamasına kolaylık sağlar. Doğru cevap B'dir.
+    > **Açıklama:** Eğer bir düzen veya yapı içerisinde tek bir öge yinelenirse (aralıklı ya da aralıksız) tekrar, birden fazla öge bir arada belirli aralıklarla yinelenirse ritim oluşturmuş oluruz,<br />Yani ritim tekrardan oluşmaktadır ama birden fazla ögenin bir arada tekrarlanması gerekir. Ritim düzenli bir tekrara dayanarak hareketi başlatan, sürdüren, birleştirici ve uyum sağlayıcı bir ögedir ve bireyin algılamasına kolaylık sağlar. Doğru cevap B'dir.
 
     <hr />
 1. Görsel bir ögenin kompozisyonu oluşturulurken kurguda egemenliğin sağlanabilmesi için aşağıdakilerden hangisinin varlığı olamak **zorundadır**?
@@ -8055,8 +7743,7 @@
     - D-) Z ekseni
     - E-) Serbest kompozisyon
 
-    > **Açıklama:** Hem matematiksel olarak hem de doğada kendine geniş bir yer bulmuş olan altın oran,
-    > bir dikdörtgenin kısa kenarı 5 uzun kenarı 8 birim yapılırsa, bir kompozisyonda yer alan büyük parça 8 küçük parça 5 en küçük parça 3 birim olarak yer kaplarsa, (Elbette ki bunlar göz kararı yapılabilir) bir fotoğraf çekiminde gökyüzü 8 yeryüzü 5 birim olarak planlanırsa (tıpkı Romantizim akımına bağlı resimlerde, insanoğlunun zayıf/cılız bir varlık buna karşın doğanın çok güçlü olduğunun vurgulanması için) yapılan bu kompozisyon türüne açık/asimetrik kompozisyon, yararlanılan ilkeye ise altın kesim oranı denir. Doğru cevap C'dir.
+    > **Açıklama:** Hem matematiksel olarak hem de doğada kendine geniş bir yer bulmuş olan altın oran,<br />bir dikdörtgenin kısa kenarı 5 uzun kenarı 8 birim yapılırsa, bir kompozisyonda yer alan büyük parça 8 küçük parça 5 en küçük parça 3 birim olarak yer kaplarsa, (Elbette ki bunlar göz kararı yapılabilir) bir fotoğraf çekiminde gökyüzü 8 yeryüzü 5 birim olarak planlanırsa (tıpkı Romantizim akımına bağlı resimlerde, insanoğlunun zayıf/cılız bir varlık buna karşın doğanın çok güçlü olduğunun vurgulanması için) yapılan bu kompozisyon türüne açık/asimetrik kompozisyon, yararlanılan ilkeye ise altın kesim oranı denir. Doğru cevap C'dir.
 
     <hr />
 1. Simetrik kompozisyonun diğer bir adı nedir?
@@ -8066,8 +7753,7 @@
     - D-) Açık kompozisyon
     - **Cevap E-) Kapalı kompozisyon**
 
-    > **Açıklama:** Orta Çağ’da simetrik (Merkezî) kompozisyon başat bir rol oynamıştır. Yani anlatılmak
-    > istenen konu çerçevelerden belli bir boşluk bırakılarak merkezî bir şekilde alana yerleştirilir, gereksiz ögelerden detaylardan ayıklanarak sunulur. Bu tür kompozisyonların diğer bir adı kapalı kompozisyondur. Doğru cevap E'dir.
+    > **Açıklama:** Orta Çağ’da simetrik (Merkezî) kompozisyon başat bir rol oynamıştır. Yani anlatılmak<br />istenen konu çerçevelerden belli bir boşluk bırakılarak merkezî bir şekilde alana yerleştirilir, gereksiz ögelerden detaylardan ayıklanarak sunulur. Bu tür kompozisyonların diğer bir adı kapalı kompozisyondur. Doğru cevap E'dir.
 
     <hr />
 1. Bir nesnenin belli ve sabit bir noktaya göre devamlı olarak durumunu ve yerini değiştirmesine ne denir?
@@ -8127,8 +7813,7 @@
     - D-) Dans
     - **Cevap E-) Dokumacılık**
 
-    > **Açıklama:** (Endüstriyel sanatlar) kavram şemsiyesi adı altında, özellikle de işlevselliği ön plana alan, ‘ Biçim, işlevi takip eder’ teziyle kümelenebilen Dokumacılık, Ayakkabıcılık, Nakışcılık, Sarraflık, Takıcılık, Saatçilik, Marangozluk ve Aşçılık gibi pratik alanları içeren, güzel sanatlar alanında kullanılan araçların da
-    > kullanılabildiği, günlük hayatımızda iş olarak yaptığımız ve belli bir alışkanlık ve ustalık isteyen sanat dalları yer aldı.
+    > **Açıklama:** (Endüstriyel sanatlar) kavram şemsiyesi adı altında, özellikle de işlevselliği ön plana alan, ‘ Biçim, işlevi takip eder’ teziyle kümelenebilen Dokumacılık, Ayakkabıcılık, Nakışcılık, Sarraflık, Takıcılık, Saatçilik, Marangozluk ve Aşçılık gibi pratik alanları içeren, güzel sanatlar alanında kullanılan araçların da<br />kullanılabildiği, günlük hayatımızda iş olarak yaptığımız ve belli bir alışkanlık ve ustalık isteyen sanat dalları yer aldı.
 
     <hr />
 1. Özne ile nesne arasındaki ilişkiden doğan her türlü ürün olarak tanımlanan kavram hangisidir?
@@ -8188,9 +7873,7 @@
     - D-) İmge, renk, doku
     - E-) Simge, ağırlık, renk
 
-    > **Açıklama:** Görsel göstergebilim ve görsel algılama ile ilişkili araştırmacılar çoğu görsel
-    > anlatı dizgesinin algılanışında temel ögeleri şöyle saptarlar: Sınır çizgisi, Fon(düzlem), Figür (biçim), Doku ve Renk. Doğal ortamında bütünden ayrı ve
-    > tek tek göremediğimiz bu Görsel göstergeler (Plastik ve İkonik göstergeler) ayrı ayrı ya da ikisi birden tek bir bütünde karşımıza çıkabilirler.
+    > **Açıklama:** Görsel göstergebilim ve görsel algılama ile ilişkili araştırmacılar çoğu görsel<br />anlatı dizgesinin algılanışında temel ögeleri şöyle saptarlar: Sınır çizgisi, Fon(düzlem), Figür (biçim), Doku ve Renk. Doğal ortamında bütünden ayrı ve<br />tek tek göremediğimiz bu Görsel göstergeler (Plastik ve İkonik göstergeler) ayrı ayrı ya da ikisi birden tek bir bütünde karşımıza çıkabilirler.
 
     <hr />
 1. 1\. Düz çizgi kesinlik belirtisidir.<br />2\. Düz çizgi aynı zamanda kargaşa, çatışma ve şiddet gibi kavramları simgeler.<br />3\. Dikey çizgi yüksekliği belirterek dengeyi ve gücü (kuvvet) vurgular.<br />4\. Eğri çizgi yön değiştirmesinden ötürü süreklilik algısına yol açar.<br />5\. Kırık ya da zikzak çizgiler ise sakinlik ve dinginliği simgeler.<br />Yukarıda çizgi ile ilgili verilen bilgilerden hangileri doğrudur?
@@ -8200,9 +7883,7 @@
     - D-) 1,4,5
     - **Cevap E-) 1,3,4**
 
-    > **Açıklama:** Düz çizgi kesinlik belirtisidir ama aynı zamanda da ufuk belirleyicisi olarak serinlik ve
-    > sessizliği de simgeler. Dikey çizgi yüksekliği belirterek dengeyi ve gücü (kuvvet) vurgular. Eğri çizgi yön değiştirmesinden ötürü süreklilik algısına yol açar. Hızla yönü değişen eğik bir çizgi, hareketi, dinamizmi güçlü bir etkiyi ve gücü simgeler. Kırık
-    > ya da zikzak çizgiler ise kargaşa, çatışma ve şiddet gibi kavramları simgeler.
+    > **Açıklama:** Düz çizgi kesinlik belirtisidir ama aynı zamanda da ufuk belirleyicisi olarak serinlik ve<br />sessizliği de simgeler. Dikey çizgi yüksekliği belirterek dengeyi ve gücü (kuvvet) vurgular. Eğri çizgi yön değiştirmesinden ötürü süreklilik algısına yol açar. Hızla yönü değişen eğik bir çizgi, hareketi, dinamizmi güçlü bir etkiyi ve gücü simgeler. Kırık<br />ya da zikzak çizgiler ise kargaşa, çatışma ve şiddet gibi kavramları simgeler.
 
     <hr />
 1. Aşağıdakilerden hangisi koşullar değişmesine rağmen objeyi aynı obje olarak görmemizi ifade eden ilkedir?
@@ -8222,8 +7903,7 @@
     - **Cevap D-) Eğik yön**
     - E-) Zıt yön
 
-    > **Açıklama:** Yatay yönler durağanlık, etkisizlik etkileri yaratırken dikey yönler akışkanlık,
-    > dinamiklik, sağlamlık etkileri yaratır. Eğik yönler hafiflik, yumuşaklık, süreklilik etkileri yaratırken paralel yönler biz de monotonluk, sıkıntı, bıkkınlık, sessizlik etkileri yaratır.
+    > **Açıklama:** Yatay yönler durağanlık, etkisizlik etkileri yaratırken dikey yönler akışkanlık,<br />dinamiklik, sağlamlık etkileri yaratır. Eğik yönler hafiflik, yumuşaklık, süreklilik etkileri yaratırken paralel yönler biz de monotonluk, sıkıntı, bıkkınlık, sessizlik etkileri yaratır.
 
     <hr />
 1. Bauhaus öğretilerine göre temel tasarım ilkeleri hangi seçenekte doğru verilmiştir?
@@ -8283,8 +7963,7 @@
     - D-) Serbest Kompozisyon
     - E-) Spiral kompozisyon
 
-    > **Açıklama:** Tıpkı Romantizim akımına bağlı resimlerde, insanoğlunun zayıf/cılız bir varlık buna karşın doğanın çok güçlü olduğunun vurgulanması için) yapılan bu kompozisyon
-    > türüne açık/asimetrik kompozisyon, yararlanılan ilkeye ise altın kesim oranı denir.
+    > **Açıklama:** Tıpkı Romantizim akımına bağlı resimlerde, insanoğlunun zayıf/cılız bir varlık buna karşın doğanın çok güçlü olduğunun vurgulanması için) yapılan bu kompozisyon<br />türüne açık/asimetrik kompozisyon, yararlanılan ilkeye ise altın kesim oranı denir.
 
     <hr />
 1. Bir ulus veya toplumun, yaşama biçimlerinin, maddi ve manevi değerlerinin yani düşünsel ve sanatsal etkinliklerinin, inançlarının, bilim, teknolojilerinin tamamına ne ad verilir?
@@ -8314,8 +7993,7 @@
     - D-) Renk
     - E-) Oran
 
-    > **Açıklama:** Hareketsiz, sakin bir yapıya sahiptir. Bu özelliği ile göz hareketini kontrol ederek onu bakması gereken alana doğru yönlendirir, dikkati toplar, odaklar.
-    > Yukarıda özellikleri verilen öğe kompozisyonun temel öğelerinden nokta'dır. Doğru cevap "c"dir.
+    > **Açıklama:** Hareketsiz, sakin bir yapıya sahiptir. Bu özelliği ile göz hareketini kontrol ederek onu bakması gereken alana doğru yönlendirir, dikkati toplar, odaklar.<br />Yukarıda özellikleri verilen öğe kompozisyonun temel öğelerinden nokta'dır. Doğru cevap "c"dir.
 
     <hr />
 1. Temel olarak yön belirleyen algısal bir etkiye sahiptir ve bu özelliğiyle hem yatay hem dikey hem de eğik biçimde kullanılabilmektedir. Bir yüzey içinde aldığı biçimlere göre tek başına farklı algısal etkiler yaratabilmektedir. Bir alanı / düzlemi bölmek için kullanılır.<br />Yukarıda özellikleri belirtilen temel tasarım öğesi aşağıdakilerden hangisidir?
@@ -8325,8 +8003,7 @@
     - **Cevap D-) Çizgi**
     - E-) Oran
 
-    > **Açıklama:** Temel olarak yön belirleyen algısal bir etkiye sahiptir ve bu özelliğiyle hem yatay hem dikey hem de eğik biçimde kullanılabilmektedir. Bir yüzey içinde aldığı biçimlere göre tek başına farklı algısal etkiler yaratabilmektedir. Bir alanı / düzlemi bölmek için kullanılır.
-    > Yukarıda özellikleri belirtilen temel tasarım öğesi çizgidir. Doğru cevap "d"dir.
+    > **Açıklama:** Temel olarak yön belirleyen algısal bir etkiye sahiptir ve bu özelliğiyle hem yatay hem dikey hem de eğik biçimde kullanılabilmektedir. Bir yüzey içinde aldığı biçimlere göre tek başına farklı algısal etkiler yaratabilmektedir. Bir alanı / düzlemi bölmek için kullanılır.<br />Yukarıda özellikleri belirtilen temel tasarım öğesi çizgidir. Doğru cevap "d"dir.
 
     <hr />
 1. Herhangi bir nesnenin yapısında ya da bir tasarımda bir ögenin aynen veya çok yakın değerde birden fazla sayıda var olması .............. oluşturur. Birbirleriyle eşdeğer olan parçaların bir düzen içerisinde bir sıra oluşturarak birbirleriyle ilişkili yer almaları .................. 'ın ana özelliğidir. Doğa’nın özünde ............. zaten vardır.<br />Yukarıda boşluklara gelmesi gereken kompozisyonun temel ilkesi aşağıdakilerden hangisidir?
@@ -8336,8 +8013,7 @@
     - D-) Ahenk
     - **Cevap E-) Tekrar**
 
-    > **Açıklama:** Herhangi bir nesnenin yapısında ya da bir tasarımda bir ögenin aynen veya çok yakın değerde birden fazla sayıda var olması .............. oluşturur. Birbirleriyle eşdeğer olan parçaların bir düzen içerisinde bir sıra oluşturarak birbirleriyle ilişkili yer almaları .................. 'ın ana özelliğidir. Doğa’nın özünde ............. zaten vardır.
-    > Yukarıda boşluklara gelmesi gereken kompozisyonun temel ilkesi tekrar'dır. Doğru cevap "e"dir.
+    > **Açıklama:** Herhangi bir nesnenin yapısında ya da bir tasarımda bir ögenin aynen veya çok yakın değerde birden fazla sayıda var olması .............. oluşturur. Birbirleriyle eşdeğer olan parçaların bir düzen içerisinde bir sıra oluşturarak birbirleriyle ilişkili yer almaları .................. 'ın ana özelliğidir. Doğa’nın özünde ............. zaten vardır.<br />Yukarıda boşluklara gelmesi gereken kompozisyonun temel ilkesi tekrar'dır. Doğru cevap "e"dir.
 
     <hr />
 1. Aynı olmama, benzer yönlerin olmaması, karşıt olma, çelişkili olmak demektir. Felsefedeki karşıtların birliği ilkesi evrendeki her şeyin karşıtların dengesi üzerine oluştuğunu varsayar. Buna göre hafifi tanımlayabilmek için ağırın bilinmesi, beyazı tanımlayabilmek için siyahın bilinmesi gerekir.<br />Yukarıda açıklanan kompozisyonun temel ilkesi aşağıdakilerden hangisidir?
@@ -8347,8 +8023,7 @@
     - D-) Ahenk
     - E-) Degrade
 
-    > **Açıklama:** Aynı olmama, benzer yönlerin olmaması, karşıt olma, çelişkili olmak demektir. Felsefedeki karşıtların birliği ilkesi evrendeki her şeyin karşıtların dengesi üzerine oluştuğunu varsayar. Buna göre hafifi tanımlayabilmek için ağırın bilinmesi, beyazı tanımlayabilmek için siyahın bilinmesi gerekir.
-    > Yukarıda açıklanan kompozisyonun temel ilkesi zıtlıktır. Doğru cevap "a"dır.
+    > **Açıklama:** Aynı olmama, benzer yönlerin olmaması, karşıt olma, çelişkili olmak demektir. Felsefedeki karşıtların birliği ilkesi evrendeki her şeyin karşıtların dengesi üzerine oluştuğunu varsayar. Buna göre hafifi tanımlayabilmek için ağırın bilinmesi, beyazı tanımlayabilmek için siyahın bilinmesi gerekir.<br />Yukarıda açıklanan kompozisyonun temel ilkesi zıtlıktır. Doğru cevap "a"dır.
 
     <hr />
 1. Tüm iki boyutlu sanatsal çalışmalarda üç boyutlu görünüm elde etme (görüldükleri gibi çizme) aşağıdakilerden hangisi kullanılarak yapılır?
@@ -8388,12 +8063,7 @@
     - D-) I. II. III. ve IV.
     - **Cevap E-) Hepsi**
 
-    > **Açıklama:** I. Etkili çevre
-    > II. Örtme
-    > III. Saydamlık
-    > IV. Ölçü derecelemesi
-    > V. Ton derecelemesi
-    > Yukarıdakilerden hepsi uzaklık ve derinlik algısı yaratmada kullanılan ilkelerdendir. Doğru cevap "e"dir.
+    > **Açıklama:** I. Etkili çevre<br />II. Örtme<br />III. Saydamlık<br />IV. Ölçü derecelemesi<br />V. Ton derecelemesi<br />Yukarıdakilerden hepsi uzaklık ve derinlik algısı yaratmada kullanılan ilkelerdendir. Doğru cevap "e"dir.
 
     <hr />
 1. Temel olarak yön belirleyen algısal etkiye sahip olan temel öğe aşağıdakilerden hangisidir?
@@ -8483,9 +8153,7 @@
     - **Cevap D-) I. Benzerlik ve Yakınlık yasası II. Tamamlama yasası III. Süreklilik yasası**
     - E-) I. Benzerlik ve Yakınlık yasası II. Süreklilik yasası III.Tamamlama yasası
 
-    > **Açıklama:** I. Benzerlik ve Yakınlık yasası
-    > II. Tamamlama yasası
-    > III. Süreklilik yasası
+    > **Açıklama:** I. Benzerlik ve Yakınlık yasası<br />II. Tamamlama yasası<br />III. Süreklilik yasası
 
     <hr />
 1. Günümüz yaşam biçimine ve postmodern dünya görüşüne uygun düşen, hiçbir kural kabul etmeyen kompozisyon aşağıdakilerden hangisidir?
@@ -8775,8 +8443,7 @@
     - **Cevap D-) Altın kesim**
     - E-) Dairesel
 
-    > **Açıklama:** Altın kesimin en basiti, kullanılan yüzeyi enine ve boyuna üçe bölmektir.1/3 kuralı olarak da bilinen bu üç parçaya bölmede, ikisini bir tarafa diğerini öbür tarafa aldığımız zaman altın kesime uygun parçalama yapmış oluruz. Bu bölme de kesişim noktaları görsel ilgi çekme noktalarıdır, dikkati toplarlar. Bu noktalara yerleştirilen figürlerle yapılan kompozisyonlar canlı, hareket içeren, göze uyumlu ve alımlı ama simetrik olmayan, en bilindik kompozisyon türüdür ve asimetrik (açık) bir kompozisyondur. Doğru yanıt D’dir.
-    > ![](https://ets.anadolu.edu.tr/storage/nfs/questions/d1778246d906d9484b143e4bc5268fe3.png)
+    > **Açıklama:** Altın kesimin en basiti, kullanılan yüzeyi enine ve boyuna üçe bölmektir.1/3 kuralı olarak da bilinen bu üç parçaya bölmede, ikisini bir tarafa diğerini öbür tarafa aldığımız zaman altın kesime uygun parçalama yapmış oluruz. Bu bölme de kesişim noktaları görsel ilgi çekme noktalarıdır, dikkati toplarlar. Bu noktalara yerleştirilen figürlerle yapılan kompozisyonlar canlı, hareket içeren, göze uyumlu ve alımlı ama simetrik olmayan, en bilindik kompozisyon türüdür ve asimetrik (açık) bir kompozisyondur. Doğru yanıt D’dir.<br />![](https://ets.anadolu.edu.tr/storage/nfs/questions/d1778246d906d9484b143e4bc5268fe3.png)
 
     <hr />
 1. Aşağıdaki görselde hangi tür kompozisyon kullanılmıştır?![](https://ets.anadolu.edu.tr/storage/nfs/questions/f390fe05c70b22cc304a08e0f361da4d.png)
@@ -8967,12 +8634,7 @@
     - D-) Diz çekim: Dizin hemen altından başın üzerine ve baş boşluğuna kadar olan çerçeve içindeki çekimdir.
     - E-) Göğüs çekim: Göğsün tamamının baş boşluğu ile beraber görüntü çerçevesi içine dahil edilmesidir.
 
-    > **Açıklama:** Uzak çekim: Büyük bir alanın, geniş bir me­safeden görüntülenmesidir.
-    > Genel çekim: İzleyene mekân hakkında bir fikir veren çekim türü­dür.
-    > Boy çekim: Kişinin veya kişilerin bütün vücudu ile göründüğü çekim türüdür.
-    > Diz çekim: Dizin hemen altından başın üzerine ve baş boşluğuna kadar olan çerçeve içindeki çekimdir.
-    > Göğüs çekim: Göğsün tamamının baş boşluğu ile beraber görüntü çerçevesi içine dahil edilmesidir.
-    > Ayrıntı çekim: Objenin bir kısmının görüntü çerçevesini doldurmasıdır.
+    > **Açıklama:** Uzak çekim: Büyük bir alanın, geniş bir me­safeden görüntülenmesidir.<br />Genel çekim: İzleyene mekân hakkında bir fikir veren çekim türü­dür.<br />Boy çekim: Kişinin veya kişilerin bütün vücudu ile göründüğü çekim türüdür.<br />Diz çekim: Dizin hemen altından başın üzerine ve baş boşluğuna kadar olan çerçeve içindeki çekimdir.<br />Göğüs çekim: Göğsün tamamının baş boşluğu ile beraber görüntü çerçevesi içine dahil edilmesidir.<br />Ayrıntı çekim: Objenin bir kısmının görüntü çerçevesini doldurmasıdır.
 
     <hr />
 1. Görüntü geçiş türleri arasında en çok kullanılan yöntem olan bir planın ardından hemen ikinci planı getirmekle yapılan işlem aşağıdakilerden hangisidir?
@@ -8982,8 +8644,7 @@
     - D-) Silinme
     - E-) Açılma ve kararma
 
-    > **Açıklama:** Görüntü geçiş türleri;
-    > Kesme: En çok kullanılan yöntemdir. Bir pla­nın ardından hemen ikinci planı getirmekle yapılır.
+    > **Açıklama:** Görüntü geçiş türleri;<br />Kesme: En çok kullanılan yöntemdir. Bir pla­nın ardından hemen ikinci planı getirmekle yapılır.
 
     <hr />
 1. “Yönetmenliğini üstlendiği Shirley: Visions of Reality, Edward Hopper’ın Office at Night, Woman in the Sun dâhil olmak üzere 13 farklı tablosunda resmettiği Shirley’in hikayesini 1920’lerde başlayıp, yıllara yayılan bir süreçte anlatarak benzersiz bir hikayeyi önümüze getiriyor.”<br />Yukarıda bahsedilen film yönetmeni aşağıdakilerden hangisidir?
@@ -9043,8 +8704,7 @@
     - D-) Nesnel görüş açısı
     - E-) Özel görüş açısı
 
-    > **Açıklama:** Kameranın çekim konusunu görüntülemek için yukarı doğru doğrultulduğu her türden çekimdir. Bunun dışında kameranın alt açıdan görüşü söz konusu olunca alt açıdan yapılmış çekimlerde de objeler gereğinden büyük görünürler. Burada çekilen, objenin, cismin özelliğine göre izleyicilerde güçlülük, heybetlik, ululuk duygusu
-    > uyandırmasıdır. Doğru cevap A'dır.
+    > **Açıklama:** Kameranın çekim konusunu görüntülemek için yukarı doğru doğrultulduğu her türden çekimdir. Bunun dışında kameranın alt açıdan görüşü söz konusu olunca alt açıdan yapılmış çekimlerde de objeler gereğinden büyük görünürler. Burada çekilen, objenin, cismin özelliğine göre izleyicilerde güçlülük, heybetlik, ululuk duygusu<br />uyandırmasıdır. Doğru cevap A'dır.
 
     <hr />
 1. Genellikle herhangi bir olayın belli bir kişinin gözüyle ortaya konmasında kullanılan kamera açısı aşağıdakilerden hangisidir?
@@ -9074,8 +8734,7 @@
     - D-) Optik kaydırma
     - E-) Zıplama
 
-    > **Açıklama:** Yatay çevrinme (pan): Kameranın gövdesinin sabit kalmak koşuluyla sağa-sola yapmış olduğu harekettir. En çok yapılan kamera hareketidir. Pan hareketi nesnenin hareketinden geç kalmamalıdır. Doğal akışı bozmadığı için çok kullanılan kamera
-    > hareketidir. Doğru cevap A'dır.
+    > **Açıklama:** Yatay çevrinme (pan): Kameranın gövdesinin sabit kalmak koşuluyla sağa-sola yapmış olduğu harekettir. En çok yapılan kamera hareketidir. Pan hareketi nesnenin hareketinden geç kalmamalıdır. Doğal akışı bozmadığı için çok kullanılan kamera<br />hareketidir. Doğru cevap A'dır.
 
     <hr />
 1. Kameranın kadrajına giren kişinin, bakış yönü doğrultusunda bırakılan mesafeye ne ad verilir?
@@ -9415,8 +9074,7 @@
     - **Cevap D-) Göğüs çekim**
     - E-) Bel çekim
 
-    > **Açıklama:** Görüntüde karakterin göğsünün tamamının baş boşluğu ile beraber görüntü çerçevesi içine dâhil edildiği görülmektedir. Bu tür çekim planı, göğüs çekim olarak adlandırılır.
-    > Doğru cevap "göğüs çekim", yani D şıkkıdır.
+    > **Açıklama:** Görüntüde karakterin göğsünün tamamının baş boşluğu ile beraber görüntü çerçevesi içine dâhil edildiği görülmektedir. Bu tür çekim planı, göğüs çekim olarak adlandırılır.<br />Doğru cevap "göğüs çekim", yani D şıkkıdır.
 
     <hr />
 1. Görüntünün kalıcı olmasını başaran ilk kişi aşağıdakilerden hangisidir?
@@ -9426,8 +9084,7 @@
     - D-) Carl Wilhelm Scheele
     - E-) Elizabeth Fulhame
 
-    > **Açıklama:** Görüntünün sabitlenmesi Joseph Nicéphore Niépce’nin, 1826 yılında, tarihteki ilk fotoğrafı (Pencereden Le Gras’a bakış) çekmesiyle olmuştur.
-    > Doğru cevap Joseph Nicéphore Niépce, yani B şıkkıdır.
+    > **Açıklama:** Görüntünün sabitlenmesi Joseph Nicéphore Niépce’nin, 1826 yılında, tarihteki ilk fotoğrafı (Pencereden Le Gras’a bakış) çekmesiyle olmuştur.<br />Doğru cevap Joseph Nicéphore Niépce, yani B şıkkıdır.
 
     <hr />
 1. “Seyircinin bakış açısı” olarak da bilinen kamera açısı aşağıdakilerden hangisidir?
@@ -9437,8 +9094,7 @@
     - **Cevap D-) Nesnel görüş açısı**
     - E-) Eğik bakış
 
-    > **Açıklama:** Nesnel görüş açısında kamera hareketleri seyirci tarafından tamamen tarafsız olarak izlenir. Bu tür çalışmaya ‘seyircinin bakış açısı’ da denir. Olay, sahnedeki oyunculardan birinin bakış açısından verilmediği için nesnel kamera açıları kişiliksizdir. Böyle bir çalışmada, filmi çekilen kişiler ortada kamera yokmuş gibi davranırlar, hiçbir zaman objektife doğrudan bakmazlar.
-    > Doğru cevap D şıkkıdır.
+    > **Açıklama:** Nesnel görüş açısında kamera hareketleri seyirci tarafından tamamen tarafsız olarak izlenir. Bu tür çalışmaya ‘seyircinin bakış açısı’ da denir. Olay, sahnedeki oyunculardan birinin bakış açısından verilmediği için nesnel kamera açıları kişiliksizdir. Böyle bir çalışmada, filmi çekilen kişiler ortada kamera yokmuş gibi davranırlar, hiçbir zaman objektife doğrudan bakmazlar.<br />Doğru cevap D şıkkıdır.
 
     <hr />
 1. Bir kameradan diğerine geçilirken ilk kameranın görüntüsünün ağır ağır kaybolması, aynı anda diğer kameranın görüntüsünün ağır ağır belirmesi biçimindeki geçiş yöntemi aşağıdakilerden hangisidir?
@@ -9448,8 +9104,7 @@
     - D-) Bindirme
     - **Cevap E-) Zincirleme**
 
-    > **Açıklama:** “Zincirleme” en çok kullanılan ikinci geçiş türüdür. Bir kameradan diğerine geçilirken ilk kameranın görüntüsünün ağır ağır kaybolması, aynı anda diğer kameranın görüntüsünün ağır ağır belirmesi biçiminde bir geçiş yöntemidir.
-    > Doğru cevap E şıkkıdır.
+    > **Açıklama:** “Zincirleme” en çok kullanılan ikinci geçiş türüdür. Bir kameradan diğerine geçilirken ilk kameranın görüntüsünün ağır ağır kaybolması, aynı anda diğer kameranın görüntüsünün ağır ağır belirmesi biçiminde bir geçiş yöntemidir.<br />Doğru cevap E şıkkıdır.
 
     <hr />
 1. Çekilen filmi veya görüntüyü bir sanat eseri haline getiren esas unsur aşağıdakilerden hangisidir?
@@ -9459,8 +9114,7 @@
     - D-) Açı
     - E-) Çerçevelendirme
 
-    > **Açıklama:** Bir kamera açısından çekilmiş görüntüler, kendi başına bir sanat eseri meydana getiremez. Bu görüntü içindeki cisimler hareket etseler bile, sinema bakımından bu hareketin büyük bir değeri yoktur. Bu parçalar ancak özel bir anlayışla birleştirildikleri vakit sinemaya özgü kullanılışlar meydana çıkar. Belli bir sahnenin tespit edilen görüntüleri, film sanatının sadece malzemesini meydana getirir; asıl film sanatı, kurgu yoluyla, bu parçaların birleştirilmesine geçildiği vakit başlar.
-    > Doğru cevap kurgu, C şıkkıdır.
+    > **Açıklama:** Bir kamera açısından çekilmiş görüntüler, kendi başına bir sanat eseri meydana getiremez. Bu görüntü içindeki cisimler hareket etseler bile, sinema bakımından bu hareketin büyük bir değeri yoktur. Bu parçalar ancak özel bir anlayışla birleştirildikleri vakit sinemaya özgü kullanılışlar meydana çıkar. Belli bir sahnenin tespit edilen görüntüleri, film sanatının sadece malzemesini meydana getirir; asıl film sanatı, kurgu yoluyla, bu parçaların birleştirilmesine geçildiği vakit başlar.<br />Doğru cevap kurgu, C şıkkıdır.
 
     <hr />
 1. Kamera sabit haldeyken objektif aracılığıyla yapılan hareketlere ne denir?
@@ -9470,8 +9124,7 @@
     - D-) Aşağı-yukarı kaydırma
     - E-) İleri-geri kaydırma
 
-    > **Açıklama:** Kamera sabit haldeyken objektif aracılığıyla yapılan hareketlere zoom ya da optik kaydırma denir. Çekilen konunun sabit bir yerde durması ve kamera gövdesi ile hareket etmeye gerek kalmadan görüntü açısının büyümesi veya küçülmesinin mercekler yardımıyla sağlanmasıdır.
-    > Doğru cevap zoom, A şıkkıdır.
+    > **Açıklama:** Kamera sabit haldeyken objektif aracılığıyla yapılan hareketlere zoom ya da optik kaydırma denir. Çekilen konunun sabit bir yerde durması ve kamera gövdesi ile hareket etmeye gerek kalmadan görüntü açısının büyümesi veya küçülmesinin mercekler yardımıyla sağlanmasıdır.<br />Doğru cevap zoom, A şıkkıdır.
 
     <hr />
 1. David Wark Griffith hakkında verilen ifadelerden hangisi yanlıştır?
@@ -9481,8 +9134,7 @@
     - **Cevap D-) İlk hareketli görüntüyü elde etmiştir.**
     - E-) “Hoşgörüsüzlük” adlı filmini 1916’da çekmiştir.
 
-    > **Açıklama:** İlk hareketli görüntüyü, koşan bir atı 12 farklı açıdan çeken Eadweard Muybridge elde etmiştir. Bu sebeple, aradığımız cevap D şıkkıdır.
-    > Doğru cevap D şıkkıdır.
+    > **Açıklama:** İlk hareketli görüntüyü, koşan bir atı 12 farklı açıdan çeken Eadweard Muybridge elde etmiştir. Bu sebeple, aradığımız cevap D şıkkıdır.<br />Doğru cevap D şıkkıdır.
 
     <hr />
 1. Kadrajı 9 eşit dikdörtgene bölerek ilgi noktasını ortada yer alan dört kesişim noktasından birine yakın yerleştirme, aşağıdaki hangi terimle ifade edilir?
@@ -9492,8 +9144,7 @@
     - D-) Üstten bakış
     - E-) Camera lucida
 
-    > **Açıklama:** B ve E şıkları, görüntü elde etmek için kullanılan optik aygıtlardır. C şıkkı kurgu öncesi yapılan eskizlerdir. D şıkkı bir kamera açısıdır. Soruda bahsedilen kompozisyon tekniği, altın orandır. Doğru cevap A şıkkıdır.
-    > Doğru cevap altın oran, A şıkkıdır.
+    > **Açıklama:** B ve E şıkları, görüntü elde etmek için kullanılan optik aygıtlardır. C şıkkı kurgu öncesi yapılan eskizlerdir. D şıkkı bir kamera açısıdır. Soruda bahsedilen kompozisyon tekniği, altın orandır. Doğru cevap A şıkkıdır.<br />Doğru cevap altın oran, A şıkkıdır.
 
     <hr />
 1. Mekânın nesneden daha çok yer kapladığı çekim türü aşağıdakilerden hangisidir?
@@ -9503,8 +9154,7 @@
     - D-) Boy çekim
     - E-) Baş çekim
 
-    > **Açıklama:** Genel çekim, izleyene mekân hakkında bir fikir veren çekim türüdür. Genel çekim aynı zamanda mekân içindeki elemanlar arasında uzaklık farklılıklarını verme amaçlıdır. Genel çekimde mekân, nesneden daha çok alan kaplamaktadır. Doğru cevap B şıkkıdır.
-    > Doğru cevap genel çekim, B şıkkıdır.
+    > **Açıklama:** Genel çekim, izleyene mekân hakkında bir fikir veren çekim türüdür. Genel çekim aynı zamanda mekân içindeki elemanlar arasında uzaklık farklılıklarını verme amaçlıdır. Genel çekimde mekân, nesneden daha çok alan kaplamaktadır. Doğru cevap B şıkkıdır.<br />Doğru cevap genel çekim, B şıkkıdır.
 
     <hr />
 1. Camera obscura ile ilgili verilen bilgilerden hangisi yanlıştır?
@@ -9524,12 +9174,7 @@
     - D-) I, II, III
     - E-) I, IV, V
 
-    > **Açıklama:** Gerçek görüntü, cisimden çıkan ışınların aynada yansıdıktan sonra aynanın içinde değil de önünde oluşturduğu görüntüdür. Gerçek görüntüler cisme göre terstir ve bir ekran üzerine düşürülebilirler.
-    > Derinlemesine görüntü işlemi çok yakındaki bir objeyle uzaktaki objenin aynı netlikte görülebilmesidir. Bu da özel yapıdaki mercekler, diyaframın küçülmesi ve iyi bir aydınlatma ile mümkündür.
-    > Derinlemesine görüntünün sağladığı özellikleri belirtmek gerekirse:
-    > * Görüş alanını derinlemesine genişletir.
-    > * Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.
-    > * Derinlemesine görüntüde çözümleme izleyiciye bırakılır.
+    > **Açıklama:** Gerçek görüntü, cisimden çıkan ışınların aynada yansıdıktan sonra aynanın içinde değil de önünde oluşturduğu görüntüdür. Gerçek görüntüler cisme göre terstir ve bir ekran üzerine düşürülebilirler.<br />Derinlemesine görüntü işlemi çok yakındaki bir objeyle uzaktaki objenin aynı netlikte görülebilmesidir. Bu da özel yapıdaki mercekler, diyaframın küçülmesi ve iyi bir aydınlatma ile mümkündür.<br />Derinlemesine görüntünün sağladığı özellikleri belirtmek gerekirse:<br />* Görüş alanını derinlemesine genişletir.<br />* Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.<br />* Derinlemesine görüntüde çözümleme izleyiciye bırakılır.
 
     <hr />
 1. Aşağıdakilerden hangileri kameranın konumlandırılmasına göre yapılan çekimlerdendir?<br />**I.** Uzak **II.** Genel **III.** Diz<br />**IV.** Tepe **V.** Bel **VI.** Omuz<br />**VII.** Yüz **VIII.** Ayrıntı **IX.** Duvar
@@ -9559,10 +9204,7 @@
     - D-) Kamera kendi ekseninde sağa-sola eğildiği takdirde çekilen görüntüler dikey kenarlara göre sağa-sola eğik olarak görünür.
     - E-) Kameranın merceğinin görüntüyü filmdeki kişilerden birinin gözüyle görüyormuş gibi kullanıldığı çekim biçimidir.
 
-    > **Açıklama:** Üstten bakış: Kameranın konuyu görüntülemek için aşağıya doğru eğimlendirildiği bir çekimdir. Kamera yüksekte bir görüş noktasından aşağıya doğru eğilmiş olarak çalıştırıldığında üstten görüş açısı meydana gelir. Bir insanın önüne bakması, yüksek bir yerden aşağıya bakma durumlarında bu bakış açısı kullanılır. Üstten bakış kameranın yüksek bir yere konumlandırılacağı anlamı taşımaz. Tüm açılar görelidir. Çekimi yapılan konunun yüksekliğiyle bağlantılıdır. Çekimi yapılan konunun yüksekliği ne olursa olsun, her türden aşağı doğru açılandırma üstten bakış olarak nitelendirilmelidir. Üstten bakış açısı ile çekilmiş görüntü çekimlerinde, objeler gerçekte küçülmediği hâlde olduğundan küçük görünür. Böyle çekim açısının kullanılması seyircilerde ezilmişliği, küçük düşmeyi, yenilgi duygusunu uyandırması içindir.
-    > Alttan bakış: Kameranın çekim konusunu görüntülemek için yukarı doğru doğrultulduğu her türden çekimdir. Bunun dışında kameranın alt açıdan görüşü söz konusu olunca alt açıdan yapılmış çekimlerde de objeler gereğinden büyük görünürler. Burada çekilen, objenin, cismin özelliğine göre izleyicilerde güçlülük, heybetlik, ululuk duygusu uyandırmasıdır.
-    > Eğik bakış: Kamera kendi ekseninde sağa-sola eğildiği takdirde çekilen görüntüler dikey kenarlara göre sağa-sola eğik olarak görünür. Böyle bir görüntü oluşturma olumsuzluk duygusunu verebilmek için kullanılır. Baş aşağı çekimde ise temel amaç kameranın tamamıyla baş aşağı duruma getirilerek yapılan çekimdir. Burada çekilen, görüntünün birisinin gözüyle çekilmiş gibi sahnenin alışılmamış bir açıdan verilmesidir.
-    > Öznel görüş açısı: Kameranın merceğinin görüntüyü filmdeki kişilerden birinin gözüyle görüyormuş gibi kullanıldığı çekim biçimidir. Daha çok herhangi bir olayın belli bir kişinin gözüyle ortaya konmasında kullanılır. Bu çekimlerde oyunculardan birinin doğrudan doğruya kamera objektifine bakması da seyircinin ilgisini çekmesi bakımından etkilidir.
+    > **Açıklama:** Üstten bakış: Kameranın konuyu görüntülemek için aşağıya doğru eğimlendirildiği bir çekimdir. Kamera yüksekte bir görüş noktasından aşağıya doğru eğilmiş olarak çalıştırıldığında üstten görüş açısı meydana gelir. Bir insanın önüne bakması, yüksek bir yerden aşağıya bakma durumlarında bu bakış açısı kullanılır. Üstten bakış kameranın yüksek bir yere konumlandırılacağı anlamı taşımaz. Tüm açılar görelidir. Çekimi yapılan konunun yüksekliğiyle bağlantılıdır. Çekimi yapılan konunun yüksekliği ne olursa olsun, her türden aşağı doğru açılandırma üstten bakış olarak nitelendirilmelidir. Üstten bakış açısı ile çekilmiş görüntü çekimlerinde, objeler gerçekte küçülmediği hâlde olduğundan küçük görünür. Böyle çekim açısının kullanılması seyircilerde ezilmişliği, küçük düşmeyi, yenilgi duygusunu uyandırması içindir.<br />Alttan bakış: Kameranın çekim konusunu görüntülemek için yukarı doğru doğrultulduğu her türden çekimdir. Bunun dışında kameranın alt açıdan görüşü söz konusu olunca alt açıdan yapılmış çekimlerde de objeler gereğinden büyük görünürler. Burada çekilen, objenin, cismin özelliğine göre izleyicilerde güçlülük, heybetlik, ululuk duygusu uyandırmasıdır.<br />Eğik bakış: Kamera kendi ekseninde sağa-sola eğildiği takdirde çekilen görüntüler dikey kenarlara göre sağa-sola eğik olarak görünür. Böyle bir görüntü oluşturma olumsuzluk duygusunu verebilmek için kullanılır. Baş aşağı çekimde ise temel amaç kameranın tamamıyla baş aşağı duruma getirilerek yapılan çekimdir. Burada çekilen, görüntünün birisinin gözüyle çekilmiş gibi sahnenin alışılmamış bir açıdan verilmesidir.<br />Öznel görüş açısı: Kameranın merceğinin görüntüyü filmdeki kişilerden birinin gözüyle görüyormuş gibi kullanıldığı çekim biçimidir. Daha çok herhangi bir olayın belli bir kişinin gözüyle ortaya konmasında kullanılır. Bu çekimlerde oyunculardan birinin doğrudan doğruya kamera objektifine bakması da seyircinin ilgisini çekmesi bakımından etkilidir.
 
     <hr />
 1. Çekilen, objenin, cismin özelliğine göre izleyicilerde güçlülük, heybetlik, ululuk duygusu uyandırması hedeflenen bir çekim için kamera nasıl konumlandırılır?
@@ -9622,15 +9264,7 @@
     - D-) I, II, III, IV, V, VI, VII, VIII
     - **Cevap E-) I, III, IV, V, VI, VII, VIII, IX**
 
-    > **Açıklama:** Görsel Etkiyi Artırma Yöntemleri
-    > Renkler: Görsel olarak renkler yaşantımızda önemli bir yere sahiptir ve renkleri ışığın cisimler üzerinden yansıması sonucu görürüz. Renk konusunu bilmek ve çekimi yapılacak nesne ile ilgili olarak görüntü çerçevesini ona göre düzenlemek gerekir. Renklerin gerçek değerleri dışında bizlerdeki psikolojik etkileri de önemlidir. Sıcak ve soğuk olarak sınıfladığımız renkleri bilmek ve çekimde ona göre kullanmak görsel etkiyi artırabilir. Görsel etki için yerine göre renkli filtreler, renkli ışıklar da kullanılabilir. Renklerin etkileri kültürlere göre de değişebilir.
-    > Çizgiler: Çizgiler insan üzerinde fiziki yapılarından doğan birtakım anlamlar ve duygular uyandırır. Bu, genel olarak geometrik biçimlerin dış dünyayla ilgili çağrışımlar yaratmasından kaynaklanır. Örneğin düz çizgiler durağanlık etkisi uyandırır. Tabiatta olduğu gibi, sakin bir havada her şey düz, yatay çizgi sistemine uygundur. Ama bir fırtına çıktığında doğadaki düz çizgiler bozularak yerine kırık, eğik çizgiler egemen olur; durgun denizin kırışıksız, yatay çizgisinin kırık, hareketli dalgalara dönüşmesi gibi. İnsanlar yatay çizgilerin dikey çizgilere oranla daha güçlü bir dinginlik duygusu yarattığını bilirler. Diagonal (çapraz, eğik) çizgiler ise dinamizm, resim derinliği ve hareket duygusu sağlar. Asimetrik düzenlemeler dengesizlik yaratır.
-    > Denge: Kompozisyonun temel unsurlarındandır. Çekim yapan kameramanın amacı görüntüde bir denge oluşturabilmektir. Çekimi yapılan objeye göre baş, bakış, hareket boşlukları, kamera açıları vb.nin görüntüde denge oluşturabilmek için yapılması gerekir. Görüntünün dengesini de nesnenin boyutu, rengi ve çevresi içindeki konum.
-    > Birlik: Kompozisyonda denge sağlanırken görüntüde yer alan çeşitli şey ve kişiler arasındaki ilişkilerin düzenlenmesinin gözetilmesi ve ardı ardına gelecek görüntüler arasında, denge yönünden de bir uyum sağlanması anlamına gelir. Örneğin iki kamerayla iki konuşmacının karşılıklı çekiminde, kameramanlar aynı ölçekte çekim yapmalı ve aynı oranda baş boşluğu bırakmalıdır.
-    > Ölçü: Çerçeve içinde yer alan bir konunun büyüklüğünü anlatan bir belirlemedir. Herhangi bir konunun gerçek ölçüsü belirtilmek isteniyorsa çerçeve içine ölçüleri herkes tarafından bilinen bir başka cisim de konmalı ve ona göre düzenleme yapılmalıdır.
-    > Ton: Görüntüde kullanılan resimlerin renk değerlerinin açıklık ve koyuluğunun ifadesidir. Ton, çekimin resimsel dengesini ve atmosferini doğrudan etkiler. Bir kompozisyonun duygusal yönü, egemen olan tonlarla yakından ilgilidir. Mesela görüntüde dinamikliği ve değişkenliği anlatabilmek için koyu tonların kullanılması gibi. Kullanılan renklerin ton değerleri objelerin niteliklerine göre ayarlanmalıdır.
-    > Derinlik: Hacim, derinlik konusu her zaman önemli olmuştur. Derinlik duygusu kamera açısı ve ışıkla sağlanabilir. Kamerada yan açı kullanımı ve kamera hareketleri, tepe ışığı, yan ışık ve anahtar ışık kullanılarak gölgeler oluşturulması, kişiler ve nesnelerin kamera karşısında dağınık bir şekilde derinlemesine yerleştirilmesi derinlik hissini artırabilir.
-    > Sadelik: Çerçevede mümkün olduğu kadar az elemanla konuyu anlatmak önemlidir. Ama konunun dışında anlatımı destekleyen ve çevreyi yansıtan ikinci derece elemanlardan sadece gerekli olanlar alınmalı, gereksiz unsurlar çerçeve dışında kalmalıdır.
+    > **Açıklama:** Görsel Etkiyi Artırma Yöntemleri<br />Renkler: Görsel olarak renkler yaşantımızda önemli bir yere sahiptir ve renkleri ışığın cisimler üzerinden yansıması sonucu görürüz. Renk konusunu bilmek ve çekimi yapılacak nesne ile ilgili olarak görüntü çerçevesini ona göre düzenlemek gerekir. Renklerin gerçek değerleri dışında bizlerdeki psikolojik etkileri de önemlidir. Sıcak ve soğuk olarak sınıfladığımız renkleri bilmek ve çekimde ona göre kullanmak görsel etkiyi artırabilir. Görsel etki için yerine göre renkli filtreler, renkli ışıklar da kullanılabilir. Renklerin etkileri kültürlere göre de değişebilir.<br />Çizgiler: Çizgiler insan üzerinde fiziki yapılarından doğan birtakım anlamlar ve duygular uyandırır. Bu, genel olarak geometrik biçimlerin dış dünyayla ilgili çağrışımlar yaratmasından kaynaklanır. Örneğin düz çizgiler durağanlık etkisi uyandırır. Tabiatta olduğu gibi, sakin bir havada her şey düz, yatay çizgi sistemine uygundur. Ama bir fırtına çıktığında doğadaki düz çizgiler bozularak yerine kırık, eğik çizgiler egemen olur; durgun denizin kırışıksız, yatay çizgisinin kırık, hareketli dalgalara dönüşmesi gibi. İnsanlar yatay çizgilerin dikey çizgilere oranla daha güçlü bir dinginlik duygusu yarattığını bilirler. Diagonal (çapraz, eğik) çizgiler ise dinamizm, resim derinliği ve hareket duygusu sağlar. Asimetrik düzenlemeler dengesizlik yaratır.<br />Denge: Kompozisyonun temel unsurlarındandır. Çekim yapan kameramanın amacı görüntüde bir denge oluşturabilmektir. Çekimi yapılan objeye göre baş, bakış, hareket boşlukları, kamera açıları vb.nin görüntüde denge oluşturabilmek için yapılması gerekir. Görüntünün dengesini de nesnenin boyutu, rengi ve çevresi içindeki konum.<br />Birlik: Kompozisyonda denge sağlanırken görüntüde yer alan çeşitli şey ve kişiler arasındaki ilişkilerin düzenlenmesinin gözetilmesi ve ardı ardına gelecek görüntüler arasında, denge yönünden de bir uyum sağlanması anlamına gelir. Örneğin iki kamerayla iki konuşmacının karşılıklı çekiminde, kameramanlar aynı ölçekte çekim yapmalı ve aynı oranda baş boşluğu bırakmalıdır.<br />Ölçü: Çerçeve içinde yer alan bir konunun büyüklüğünü anlatan bir belirlemedir. Herhangi bir konunun gerçek ölçüsü belirtilmek isteniyorsa çerçeve içine ölçüleri herkes tarafından bilinen bir başka cisim de konmalı ve ona göre düzenleme yapılmalıdır.<br />Ton: Görüntüde kullanılan resimlerin renk değerlerinin açıklık ve koyuluğunun ifadesidir. Ton, çekimin resimsel dengesini ve atmosferini doğrudan etkiler. Bir kompozisyonun duygusal yönü, egemen olan tonlarla yakından ilgilidir. Mesela görüntüde dinamikliği ve değişkenliği anlatabilmek için koyu tonların kullanılması gibi. Kullanılan renklerin ton değerleri objelerin niteliklerine göre ayarlanmalıdır.<br />Derinlik: Hacim, derinlik konusu her zaman önemli olmuştur. Derinlik duygusu kamera açısı ve ışıkla sağlanabilir. Kamerada yan açı kullanımı ve kamera hareketleri, tepe ışığı, yan ışık ve anahtar ışık kullanılarak gölgeler oluşturulması, kişiler ve nesnelerin kamera karşısında dağınık bir şekilde derinlemesine yerleştirilmesi derinlik hissini artırabilir.<br />Sadelik: Çerçevede mümkün olduğu kadar az elemanla konuyu anlatmak önemlidir. Ama konunun dışında anlatımı destekleyen ve çevreyi yansıtan ikinci derece elemanlardan sadece gerekli olanlar alınmalı, gereksiz unsurlar çerçeve dışında kalmalıdır.
 
     <hr />
 1. İtalyan ressamı Caravaggio’nun yağlı boya tablosu görüntü kavramıyla ilgili güzel bir çalışmadır.<br />Bu çalışmanın adı nedir?
@@ -9660,10 +9294,7 @@
     - D-) Bel
     - **Cevap E-) Parmak**
 
-    > **Açıklama:** Ayrıntı çekim:Objenin bir kısmının görüntü çerçevesini doldurmasıdır (Resim 7.20).
-    > Kameranın çekim için bu kadar farklı konumlandırılmış olmasının nedeni, görüntü aynı olsa bile görüntü üzerinde bakış açısından dolayı farklılıkların olabileceğidir. Fransız empresyonist ressam Claude Monet de, Rouen Katedrali’nin resmini yapmıştır. Son derece ihtişamlı bir mimariye sahip olan Rouen Katedrali’nin,ışığın bir yapıyı nasıl değiştirdiğini gözlemleyebilmek adına otuzdan fazla resmini yapmıştır (Resim 7.21).
-    > 1892 yılında farklı mevsimlerde ve günün farklı saatlerinde katedralin görüntüsünü resmetmiştir.
-    > Uzak çekim,Genel çekim,Boy çekim,Omuz çekim,Diz çekim,Göğüs çekim,Bel çekim,Baş çekim,Yüz çekim,Ayrıntı çekim
+    > **Açıklama:** Ayrıntı çekim:Objenin bir kısmının görüntü çerçevesini doldurmasıdır (Resim 7.20).<br />Kameranın çekim için bu kadar farklı konumlandırılmış olmasının nedeni, görüntü aynı olsa bile görüntü üzerinde bakış açısından dolayı farklılıkların olabileceğidir. Fransız empresyonist ressam Claude Monet de, Rouen Katedrali’nin resmini yapmıştır. Son derece ihtişamlı bir mimariye sahip olan Rouen Katedrali’nin,ışığın bir yapıyı nasıl değiştirdiğini gözlemleyebilmek adına otuzdan fazla resmini yapmıştır (Resim 7.21).<br />1892 yılında farklı mevsimlerde ve günün farklı saatlerinde katedralin görüntüsünü resmetmiştir.<br />Uzak çekim,Genel çekim,Boy çekim,Omuz çekim,Diz çekim,Göğüs çekim,Bel çekim,Baş çekim,Yüz çekim,Ayrıntı çekim
 
     <hr />
 1. Görüntünün sabitlenmesi Joseph Nicéphore Niépce’nin, 1826 yılında, tarihteki ilk fotoğrafı çekmesiyle olmuştur.<br />Bu fotoğrafın adı nedir?
@@ -9803,9 +9434,7 @@
     - D-) Sanat eseri
     - E-) Perspektif
 
-    > **Açıklama:** bir kimse veya nesnenin, birtakım optik
-    > olayların etkisiyle meydana gelen görünüşüdür. Gerçekte
-    > bulunmadığı hâlde varmış gibi görünen şeydir. Doğru cevap "b"dir.
+    > **Açıklama:** bir kimse veya nesnenin, birtakım optik<br />olayların etkisiyle meydana gelen görünüşüdür. Gerçekte<br />bulunmadığı hâlde varmış gibi görünen şeydir. Doğru cevap "b"dir.
 
     <hr />
 1. I. Görüş alanını derinlemesine genişletir.<br />II. Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.<br />III. Derinlemesine görüntüde çözümleme izleyiciye bırakılır.<br />Yukarıdakilerden hangisi-hangileri derinlemesine görüntünün sağladığı özelliklerdendir?
@@ -9815,14 +9444,7 @@
     - D-) II. ve III.
     - **Cevap E-) I. II. ve III.**
 
-    > **Açıklama:** Derinlemesine görüntünün sağladığı özellikleri
-    > belirtmek gerekirse:
-    > • Görüş alanını derinlemesine genişletir.
-    > • Derinlemesine görüntü, izleyiciyi daha aktif
-    > olmaya zorlar.
-    > • Derinlemesine görüntüde çözümleme izleyiciye
-    > bırakılır.
-    > Doğru cevap "e"dir.
+    > **Açıklama:** Derinlemesine görüntünün sağladığı özellikleri<br />belirtmek gerekirse:<br />• Görüş alanını derinlemesine genişletir.<br />• Derinlemesine görüntü, izleyiciyi daha aktif<br />olmaya zorlar.<br />• Derinlemesine görüntüde çözümleme izleyiciye<br />bırakılır.<br />Doğru cevap "e"dir.
 
     <hr />
 1. Birden fazla kamera kullanarak yaptığı hareket çekimleriyle bilinen, 1878 yılında koşan bir atı 12 ayrı açıdan çekerek sinemanın ilk hâlini bulan kişi olarak<br />bilinen İngiliz fotoğrafçı aşağıdakilerden hangisidir?
@@ -9832,11 +9454,7 @@
     - **Cevap D-) Eadweard Muybridge**
     - E-) Danielo Barbaro
 
-    > **Açıklama:** Eadweard Muybridge birden fazla kamera kullanarak yaptığı hareket
-    > çekimleriyle bilinen İngiliz fotoğrafçıdır. 1878 yılında koşan bir atı, 12 ayrı açıdan çekmiştir ve sinemanın ilk hâlini bulan kişi olarak
-    > bilinir. Fotoğraf makinelerinden oluşan bir düzenek kurarak 1/1000 enstantane
-    > hızıyla koşan at görüntüsünü elde etmiştir.
-    > Doğru cevap "d"dir.
+    > **Açıklama:** Eadweard Muybridge birden fazla kamera kullanarak yaptığı hareket<br />çekimleriyle bilinen İngiliz fotoğrafçıdır. 1878 yılında koşan bir atı, 12 ayrı açıdan çekmiştir ve sinemanın ilk hâlini bulan kişi olarak<br />bilinir. Fotoğraf makinelerinden oluşan bir düzenek kurarak 1/1000 enstantane<br />hızıyla koşan at görüntüsünü elde etmiştir.<br />Doğru cevap "d"dir.
 
     <hr />
 1. Kameranın merceğinin görüntüyü filmdeki kişilerden birinin gözüyle görüyormuş gibi kullanıldığı çekim biçimi aşağıdakilerden hangisidir?
@@ -9846,9 +9464,7 @@
     - D-) Üstten bakış
     - E-) Alttan bakış
 
-    > **Açıklama:** Öznel görüş açısı: Kameranın merceğinin görüntüyü
-    > filmdeki kişilerden birinin gözüyle görüyormuş
-    > gibi kullanıldığı çekim biçimidir. Doğru cevap "c"dir.
+    > **Açıklama:** Öznel görüş açısı: Kameranın merceğinin görüntüyü<br />filmdeki kişilerden birinin gözüyle görüyormuş<br />gibi kullanıldığı çekim biçimidir. Doğru cevap "c"dir.
 
     <hr />
 1. Objenin bir kısmının görüntü çerçevesini doldurması ile oluşturulan temel çekim ölçeği aşağıdakilerden hangisidir?
@@ -9868,11 +9484,7 @@
     - D-) Perspektif çalışması
     - E-) Ölçek
 
-    > **Açıklama:** Görüntünün tek bir kare olması ve fotoğrafik bir görüntüden öteye gitmeyeceği bir gerçektir. Önemli olan
-    > görüntünün sinema filmi özelliği bulabilmesi için art arda olması gerekliliğidir. Bu şekilde görüntü oluşturulması
-    > ile ilgili olarak görüntüler için farklı kurgulamalar söz konusudur. Bunlardan ilk olanı ve her zaman yapılmasının
-    > önemli olduğu vurgulanan, çekim öncesi konu ile ilgili olan görsel düzenlemelerdir. Kâğıt üzerinde
-    > yapılan bu görsel düzenlemeye storyboard denir. Doğru cevap "b"dir.
+    > **Açıklama:** Görüntünün tek bir kare olması ve fotoğrafik bir görüntüden öteye gitmeyeceği bir gerçektir. Önemli olan<br />görüntünün sinema filmi özelliği bulabilmesi için art arda olması gerekliliğidir. Bu şekilde görüntü oluşturulması<br />ile ilgili olarak görüntüler için farklı kurgulamalar söz konusudur. Bunlardan ilk olanı ve her zaman yapılmasının<br />önemli olduğu vurgulanan, çekim öncesi konu ile ilgili olan görsel düzenlemelerdir. Kâğıt üzerinde<br />yapılan bu görsel düzenlemeye storyboard denir. Doğru cevap "b"dir.
 
     <hr />
 1. En çok kullanılan ikinci geçiş türüdür. Bir kameradan diğerine geçilirken ilk kameranın görüntüsünün ağır ağır kaybolması, aynı anda diğer kameranın görüntüsünün ağır ağır belirmesi biçiminde bir geçiş yöntemidir.<br />Yukarıda anlatılan kurgulama tipi aşağıdakilerden hangisdir?
@@ -9882,11 +9494,7 @@
     - D-) Bindirme
     - E-) Silinme
 
-    > **Açıklama:** Zincirleme: En çok kullanılan ikinci geçiş türüdür.
-    > Bir kameradan diğerine geçilirken ilk kameranın
-    > görüntüsünün ağır ağır kaybolması, aynı
-    > anda diğer kameranın görüntüsünün ağır ağır belirmesi
-    > biçiminde bir geçiş yöntemidir. Doğru cevap "c"dir.
+    > **Açıklama:** Zincirleme: En çok kullanılan ikinci geçiş türüdür.<br />Bir kameradan diğerine geçilirken ilk kameranın<br />görüntüsünün ağır ağır kaybolması, aynı<br />anda diğer kameranın görüntüsünün ağır ağır belirmesi<br />biçiminde bir geçiş yöntemidir. Doğru cevap "c"dir.
 
     <hr />
 1. Kompozisyonda denge sağlanırken görüntüde yer alan çeşitli şey ve kişiler arasındaki ilişkilerin düzenlenmesinin gözetilmesi ve ardı ardına gelecek görüntüler arasında, denge yönünden de bir uyum sağlanması anlamına gelir. Örneğin iki kamerayla iki konuşmacının karşılıklı çekiminde, kameramanlar aynı ölçekte çekim yapmalı ve aynı oranda baş boşluğu bırakmalıdır.<br />Yukarıda anlatılan görsel etkiyi artırma yöntemi aşağıdakilerden hangisidir?
@@ -9896,15 +9504,7 @@
     - **Cevap D-) Birlik**
     - E-) Ton
 
-    > **Açıklama:** Birlik
-    > Kompozisyonda denge sağlanırken görüntüde
-    > yer alan çeşitli şey ve kişiler arasındaki ilişkilerin
-    > düzenlenmesinin gözetilmesi ve ardı ardına gelecek
-    > görüntüler arasında, denge yönünden de bir uyum
-    > sağlanması anlamına gelir. Örneğin iki kamerayla
-    > iki konuşmacının karşılıklı çekiminde, kameramanlar
-    > aynı ölçekte çekim yapmalı ve aynı oranda
-    > baş boşluğu bırakmalıdır. Doğru cevap "d"dir.
+    > **Açıklama:** Birlik<br />Kompozisyonda denge sağlanırken görüntüde<br />yer alan çeşitli şey ve kişiler arasındaki ilişkilerin<br />düzenlenmesinin gözetilmesi ve ardı ardına gelecek<br />görüntüler arasında, denge yönünden de bir uyum<br />sağlanması anlamına gelir. Örneğin iki kamerayla<br />iki konuşmacının karşılıklı çekiminde, kameramanlar<br />aynı ölçekte çekim yapmalı ve aynı oranda<br />baş boşluğu bırakmalıdır. Doğru cevap "d"dir.
 
     <hr />
 1. Sanat ortamında kullanılan bir kompozisyon yöntemidir. Fotoğraftaki kullanımında yapılması gereken, kadrajı 9 eşit dikdörtgene bölerek ilgi noktasını ortada yer alan dört kesişim noktasından birine yakın yerleştirmektir. 1/3 kuralı olarak bilinen bu prensip düzgün görüntüler oluşturulmasını mümkün kılar. Genel itibariyle bu kurala uygun kadrajlar göze çok daha iyi görünür.<br />Yukarıda anlatılan kompozisyon yöntemi aşağıdakilerden hangisidir?
@@ -9914,15 +9514,7 @@
     - D-) Bakış boşluğu
     - **Cevap E-) Altın oran**
 
-    > **Açıklama:** Altın oran: Sanat ortamında kullanılan bir
-    > kompozisyon yöntemidir. Fotoğraftaki kullanımında
-    > yapılması gereken, kadrajı 9 eşit dikdörtgene
-    > bölerek ilgi noktasını ortada yer alan dört
-    > kesişim noktasından birine yakın yerleştirmektir
-    > (Resim 7.25). 1/3 kuralı olarak bilinen bu prensip
-    > düzgün görüntüler oluşturulmasını mümkün kılar.
-    > Genel itibariyle bu kurala uygun kadrajlar göze çok
-    > daha iyi görünür. Doğru cevap "e"dir.
+    > **Açıklama:** Altın oran: Sanat ortamında kullanılan bir<br />kompozisyon yöntemidir. Fotoğraftaki kullanımında<br />yapılması gereken, kadrajı 9 eşit dikdörtgene<br />bölerek ilgi noktasını ortada yer alan dört<br />kesişim noktasından birine yakın yerleştirmektir<br />(Resim 7.25). 1/3 kuralı olarak bilinen bu prensip<br />düzgün görüntüler oluşturulmasını mümkün kılar.<br />Genel itibariyle bu kurala uygun kadrajlar göze çok<br />daha iyi görünür. Doğru cevap "e"dir.
 
     <hr />
 1. Kameranın merceğinin görüntüyü filmdeki kişilerden birinin gözüyle görüyormuş gibi kullanıldığı çekim biçimi aşağıdakilerden hangisidir?
@@ -9992,10 +9584,7 @@
     - D-) II. ve III.
     - **Cevap E-) Hepsi**
 
-    > **Açıklama:** Derinlemesine görüntünün sağladığı özellikleri belirtmek gerekirse:
-    > • Görüş alanını derinlemesine genişletir.
-    > • Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.
-    > • Derinlemesine görüntüde çözümleme izleyiciye bırakılır
+    > **Açıklama:** Derinlemesine görüntünün sağladığı özellikleri belirtmek gerekirse:<br />• Görüş alanını derinlemesine genişletir.<br />• Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.<br />• Derinlemesine görüntüde çözümleme izleyiciye bırakılır
 
     <hr />
 1. Görüntünün ilk olarak kalıcı hâle getirilmesini başaran kişi kimdir?
@@ -10065,8 +9654,7 @@
     - D-) Gerçek görüntü cisme göre düzdür.
     - **Cevap E-) Gerçekte bulunmadığı hâlde varmış gibi görünen şey görüntü olarak tanımlanmaktadır.**
 
-    > **Açıklama:** GÖRÜNTÜ başlıklı bölümden alınmıştır.
-    > Görme, Gözle algılama, görmek eylemi, ışığı, renkleri, nesne görüntülerini algılama yetisidir. Görüntü ise bir kimse veya nesnenin, birtakım optik olayların etkisiyle meydana gelen görünüşüdür. Gerçekte bulunmadığı hâlde varmış gibi görünen şeydir. Doğru yanıt E seçeneğidir.
+    > **Açıklama:** GÖRÜNTÜ başlıklı bölümden alınmıştır.<br />Görme, Gözle algılama, görmek eylemi, ışığı, renkleri, nesne görüntülerini algılama yetisidir. Görüntü ise bir kimse veya nesnenin, birtakım optik olayların etkisiyle meydana gelen görünüşüdür. Gerçekte bulunmadığı hâlde varmış gibi görünen şeydir. Doğru yanıt E seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi görsel etkiyi artırma yöntemlerinden biri değildir?
@@ -10096,8 +9684,7 @@
     - D-) Gerçek görüntü
     - E-) Eğik bakış
 
-    > **Açıklama:** GÖRÜNTÜ başlıklı bölümden alınmıştır.
-    > Derinlemesine görüntü işlemi çok yakındaki bir objeyle uzaktaki objenin aynı netlikte görülebilmesidir. Sinemanın ilk zamanlarında sonsuza odaklanmış bir mercekle yapılan bu işlemin, II. Dünya Savaşı’ndan bugüne önemli bir hâle geldiği söylenebilir. Nedeni de film görüntüsünde üç boyutluluk algısını en iyi verebilen işlemin derinlemesine görüntü oluşudur. Doğru yanıt A seçeneğidir.
+    > **Açıklama:** GÖRÜNTÜ başlıklı bölümden alınmıştır.<br />Derinlemesine görüntü işlemi çok yakındaki bir objeyle uzaktaki objenin aynı netlikte görülebilmesidir. Sinemanın ilk zamanlarında sonsuza odaklanmış bir mercekle yapılan bu işlemin, II. Dünya Savaşı’ndan bugüne önemli bir hâle geldiği söylenebilir. Nedeni de film görüntüsünde üç boyutluluk algısını en iyi verebilen işlemin derinlemesine görüntü oluşudur. Doğru yanıt A seçeneğidir.
 
     <hr />
 1. Görüntünün ilk olarak kalıcı hâle getirilmesini başaran kişi aşağıdakilerden hangisidir?
@@ -10107,8 +9694,7 @@
     - D-) Carl Wilhelm Scheele
     - E-) Elizabeth Fulhame
 
-    > **Açıklama:** İLK GÖRÜNTÜLER başlıklı bölümden alınmıştır.
-    > Görüntü oluşumu ile ilgili temel değer ışık ve ışığa duyarlı maddedir. Carl Wilhelm Scheele, kimyager Elizabeth Fulhame, Thomas Wedgwood’un fotoğraf fikrine yaklaşarak görüntüler oluşturdukları ama kalıcılığı sağlayamadıkları belirtilir. Görüntünün ilk olarak kalıcı hâle getirilmesini başaran Joseph Nicéphore Niépce’dir. Doğru yanıt B seçeneğidir.
+    > **Açıklama:** İLK GÖRÜNTÜLER başlıklı bölümden alınmıştır.<br />Görüntü oluşumu ile ilgili temel değer ışık ve ışığa duyarlı maddedir. Carl Wilhelm Scheele, kimyager Elizabeth Fulhame, Thomas Wedgwood’un fotoğraf fikrine yaklaşarak görüntüler oluşturdukları ama kalıcılığı sağlayamadıkları belirtilir. Görüntünün ilk olarak kalıcı hâle getirilmesini başaran Joseph Nicéphore Niépce’dir. Doğru yanıt B seçeneğidir.
 
     <hr />
 1. Karanlık oda çevresindeki görüntüleri ekrana yansıtan optik alet aşağıdakilerden hangisidir?
@@ -10118,8 +9704,7 @@
     - **Cevap D-) Camera obscura**
     - E-) Kamera
 
-    > **Açıklama:** İLK GÖRÜNTÜLER başlıklı bölümden alınmıştır.
-    > Camera obscura karanlık oda çevresindeki görüntüleri ekrana yansıtan optik bir alettir. Çizim amacıyla kullanılır. Ayrıca fotoğraf ve kameranın icadına yol açan buluşlardan da biridir. Camera obscura, bir kutu veya oda ve onun bir yüzüne açılmış delikten ibarettir. Dışarıdan gelen ışık delikten geçerek içerisindeki yüzeye düşer ve yansıdığı kaynağın perspektifini ve renklerini koruyarak ters dönmüş (180 derece, baş aşağı) görüntüsünü oluşturur. Resmin bir kâğıt üzerine düşürülerek net çizimler elde edilmesini sağlar. Doğru yanıt D seçeneğidir.
+    > **Açıklama:** İLK GÖRÜNTÜLER başlıklı bölümden alınmıştır.<br />Camera obscura karanlık oda çevresindeki görüntüleri ekrana yansıtan optik bir alettir. Çizim amacıyla kullanılır. Ayrıca fotoğraf ve kameranın icadına yol açan buluşlardan da biridir. Camera obscura, bir kutu veya oda ve onun bir yüzüne açılmış delikten ibarettir. Dışarıdan gelen ışık delikten geçerek içerisindeki yüzeye düşer ve yansıdığı kaynağın perspektifini ve renklerini koruyarak ters dönmüş (180 derece, baş aşağı) görüntüsünü oluşturur. Resmin bir kâğıt üzerine düşürülerek net çizimler elde edilmesini sağlar. Doğru yanıt D seçeneğidir.
 
     <hr />
 1. 1826 yılında çekilen tarihteki ilk fotoğraf aşağıdakilerden hangisidir?
@@ -10129,8 +9714,7 @@
     - D-) Uçan Pelikan
     - E-) Narcissus
 
-    > **Açıklama:** İLK GÖRÜNTÜLER başlıklı bölümden alınmıştır.
-    > Görüntünün ilk olarak kalıcı hâle getirilmesini başaran Joseph Nicéphore Niépce’dir. Bu görüntünün sabitlenmesi Joseph Nicéphore Niépce’nin, 1826 yılında, tarihteki ilk fotoğrafı (Pencereden Le Gras’a bakış) çekmesiyle olmuştur. Joseph Nicéphore Niépce, camera obscura kullanarak görüntüyü oluşturmuştur. Doğru yanıt B seçeneğidir.
+    > **Açıklama:** İLK GÖRÜNTÜLER başlıklı bölümden alınmıştır.<br />Görüntünün ilk olarak kalıcı hâle getirilmesini başaran Joseph Nicéphore Niépce’dir. Bu görüntünün sabitlenmesi Joseph Nicéphore Niépce’nin, 1826 yılında, tarihteki ilk fotoğrafı (Pencereden Le Gras’a bakış) çekmesiyle olmuştur. Joseph Nicéphore Niépce, camera obscura kullanarak görüntüyü oluşturmuştur. Doğru yanıt B seçeneğidir.
 
     <hr />
 1. Çekilen objenin, cismin özelliğine göre izleyicilerde güçlülük, heybetlik, ululuk duygusu uyandırması için kullanılan kamera açısı aşağıdakilerden hangisidir?
@@ -10140,8 +9724,7 @@
     - D-) Öznel görüş açısı
     - E-) Nesnel görüş açısı
 
-    > **Açıklama:** KAMERA VE GÖRÜNTÜ başlıklı bölümden alınmıştır.
-    > Alttan bakış: Kameranın çekim konusunu görüntülemek için yukarı doğru doğrultulduğu her türden çekimdir. Bunun dışında kameranın alt açıdan görüşü söz konusu olunca alt açıdan yapılmış çekimlerde de objeler gereğinden büyük görünürler. Burada çekilen, objenin, cismin özelliğine göre izleyicilerde güçlülük, heybetlik, ululuk duygusu uyandırmasıdır. Doğru yanıt B seçeneğidir.
+    > **Açıklama:** KAMERA VE GÖRÜNTÜ başlıklı bölümden alınmıştır.<br />Alttan bakış: Kameranın çekim konusunu görüntülemek için yukarı doğru doğrultulduğu her türden çekimdir. Bunun dışında kameranın alt açıdan görüşü söz konusu olunca alt açıdan yapılmış çekimlerde de objeler gereğinden büyük görünürler. Burada çekilen, objenin, cismin özelliğine göre izleyicilerde güçlülük, heybetlik, ululuk duygusu uyandırmasıdır. Doğru yanıt B seçeneğidir.
 
     <hr />
 1. Kamera gövdesi hareket ettirilerek yapılan mekanik hareket aşağıdakilerden hangisidir?
@@ -10151,8 +9734,7 @@
     - D-) Optik kaydırma
     - **Cevap E-) Kaydırma hareketi**
 
-    > **Açıklama:** KAMERA VE GÖRÜNTÜ başlıklı bölümden alınmıştır.
-    > Kaydırma hareketi: Kamera gövdesi hareket ettirilerek yapılan mekanik harekettir. Yapılan kamera hareketi, kameranın herhangi bir araç üzerinde ileri-geri kaydırılmasıdır. Çevrinmede kamera olduğu yerde durur; kaydırmada ise yapılan hareket kameranın gövdesiyle hareket etmesidir. Doğru yanıt E seçeneğidir.
+    > **Açıklama:** KAMERA VE GÖRÜNTÜ başlıklı bölümden alınmıştır.<br />Kaydırma hareketi: Kamera gövdesi hareket ettirilerek yapılan mekanik harekettir. Yapılan kamera hareketi, kameranın herhangi bir araç üzerinde ileri-geri kaydırılmasıdır. Çevrinmede kamera olduğu yerde durur; kaydırmada ise yapılan hareket kameranın gövdesiyle hareket etmesidir. Doğru yanıt E seçeneğidir.
 
     <hr />
 1. İzleyene mekân hakkında bir fikir veren çekim türü aşağıdakilerden hangisidir?
@@ -10162,8 +9744,7 @@
     - D-) Omuz çekim
     - E-) Boy çekim
 
-    > **Açıklama:** ÇEKİM ÖLÇEKLERİ başlıklı bölümden alınmıştır.
-    > Genel çekim: İzleyene mekân hakkında bir fikir veren çekim türüdür. Genel çekim aynı zamanda mekân içindeki elemanlar arasında uzaklık farklılıklarını verme amaçlıdır. Genel çekimde mekân, nesneden daha çok alan kaplamaktadır. Doğru yanıt C seçeneğidir.
+    > **Açıklama:** ÇEKİM ÖLÇEKLERİ başlıklı bölümden alınmıştır.<br />Genel çekim: İzleyene mekân hakkında bir fikir veren çekim türüdür. Genel çekim aynı zamanda mekân içindeki elemanlar arasında uzaklık farklılıklarını verme amaçlıdır. Genel çekimde mekân, nesneden daha çok alan kaplamaktadır. Doğru yanıt C seçeneğidir.
 
     <hr />
 1. Çekim öncesi konu ile ilgili olarak kağıt üzerinde yapılan görsel düzenleme aşağıdakilerden hangisidir?
@@ -10173,8 +9754,7 @@
     - D-) Derleme
     - E-) Bindirme
 
-    > **Açıklama:** GÖRÜNTÜNÜN KURGULANMASI başlıklı bölümden alınmıştır.
-    > Görüntünün tek bir kare olması ve fotoğrafik bir görüntüden öteye gitmeyeceği bir gerçektir. Önemli olan görüntünün sinema filmi özelliği bulabilmesi için art arda olması gerekliliğidir. Bu şekilde görüntü oluşturulması ile ilgili olarak görüntüler için farklı kurgulamalar söz konusudur. Bunlardan ilk olanı ve her zaman yapılmasının önemli olduğu vurgulanan, çekim öncesi konu ile ilgili olan görsel düzenlemelerdir. Kâğıt üzerinde yapılan bu görsel düzenlemeye storyboard denir. Doğru yanıt A seçeneğidir.
+    > **Açıklama:** GÖRÜNTÜNÜN KURGULANMASI başlıklı bölümden alınmıştır.<br />Görüntünün tek bir kare olması ve fotoğrafik bir görüntüden öteye gitmeyeceği bir gerçektir. Önemli olan görüntünün sinema filmi özelliği bulabilmesi için art arda olması gerekliliğidir. Bu şekilde görüntü oluşturulması ile ilgili olarak görüntüler için farklı kurgulamalar söz konusudur. Bunlardan ilk olanı ve her zaman yapılmasının önemli olduğu vurgulanan, çekim öncesi konu ile ilgili olan görsel düzenlemelerdir. Kâğıt üzerinde yapılan bu görsel düzenlemeye storyboard denir. Doğru yanıt A seçeneğidir.
 
     <hr />
 1. Görüntülenen nesnenin boyutu, rengi ve çevresi içindeki konumu ile diğer nesnelerle aralarındaki ilişkiyi belirleyen temel unsur aşağıdakilerden hangisidir?
@@ -10184,8 +9764,7 @@
     - D-) Birlik
     - **Cevap E-) Denge**
 
-    > **Açıklama:** GÖRÜNTÜLEME VE ESTETİK KAYGI başlıklı bölümden alınmıştır.
-    > Denge, kompozisyonun temel unsurlarındandır. Çekim yapan kameramanın amacı görüntüde bir denge oluşturabilmektir. Çekimi yapılan objeye göre baş, bakış, hareket boşlukları, kamera açıları vb.nin görüntüde denge oluşturabilmek için yapılması gerekir. Görüntünün dengesini de nesnenin boyutu, rengi ve çevresi içindeki konumu ile diğer nesnelerle aralarındaki ilişki belirler. Doğru yanıt E seçeneğidir.
+    > **Açıklama:** GÖRÜNTÜLEME VE ESTETİK KAYGI başlıklı bölümden alınmıştır.<br />Denge, kompozisyonun temel unsurlarındandır. Çekim yapan kameramanın amacı görüntüde bir denge oluşturabilmektir. Çekimi yapılan objeye göre baş, bakış, hareket boşlukları, kamera açıları vb.nin görüntüde denge oluşturabilmek için yapılması gerekir. Görüntünün dengesini de nesnenin boyutu, rengi ve çevresi içindeki konumu ile diğer nesnelerle aralarındaki ilişki belirler. Doğru yanıt E seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi Derinlemesine görüntünün sağladığı özelliklerden biri **değildir**?
@@ -10265,8 +9844,7 @@
     - D-) Bindirme
     - **Cevap E-) Kaydırma**
 
-    > **Açıklama:** Kesintisizlik kurgusu, kesme, açılma ve kararma, zincirleme, bindirme ve silinme
-    > kurgulama yöntemleridir. Buna göre doğru cevap E’dir.
+    > **Açıklama:** Kesintisizlik kurgusu, kesme, açılma ve kararma, zincirleme, bindirme ve silinme<br />kurgulama yöntemleridir. Buna göre doğru cevap E’dir.
 
     <hr />
 1. Görüntü ile ilgili Narkissos ve Ekho'nun hikayesinden etkilenerek "Narcissus" adlı tabloyu yapan İtalyan ressam aşağıdakilerden hangisidir?
@@ -10276,8 +9854,7 @@
     - **Cevap D-) Caravaggio**
     - E-) Rembrant
 
-    > **Açıklama:** İtalyan ressamı Caravaggio’nun 1594-1596 tarihleri arasında tamamladığı “Narcissus” adlı yağlı
-    > boya tablosu da görüntü kavramıyla ilgili güzel bir çalışmadır. Eser Roma’daki “Galleria Nazionale d’Arte Antica”da bulunuyor. Doğru yanıt D'dir.
+    > **Açıklama:** İtalyan ressamı Caravaggio’nun 1594-1596 tarihleri arasında tamamladığı “Narcissus” adlı yağlı<br />boya tablosu da görüntü kavramıyla ilgili güzel bir çalışmadır. Eser Roma’daki “Galleria Nazionale d’Arte Antica”da bulunuyor. Doğru yanıt D'dir.
 
     <hr />
 1. 1\. Görüş alanını derinlemesine genişletir.<br />2\. Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.<br />3\. Derinlemesine görüntüde çözümleme izleyiciye bırakılır.<br />Yukarıdakilerden hangisi / hangileri derinlemesine görüntünün sağladığı özellikler arasında yer almaktadır?
@@ -10287,11 +9864,7 @@
     - D-) Hiçbiri
     - **Cevap E-) Hepsi**
 
-    > **Açıklama:** Derinlemesine görüntünün sağladığı özellikleri belirtmek gerekirse:
-    > • Görüş alanını derinlemesine genişletir.
-    > • Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.
-    > • Derinlemesine görüntüde çözümleme izleyiciye bırakılır.
-    > Doğru yanıt E'dir.
+    > **Açıklama:** Derinlemesine görüntünün sağladığı özellikleri belirtmek gerekirse:<br />• Görüş alanını derinlemesine genişletir.<br />• Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.<br />• Derinlemesine görüntüde çözümleme izleyiciye bırakılır.<br />Doğru yanıt E'dir.
 
     <hr />
 1. Aşağıdakilerden hangisi görüntüyü ilk kaydedebilen kişidir?
@@ -10331,13 +9904,7 @@
     - D-) Hiçbiri
     - **Cevap E-) Hepsi**
 
-    > **Açıklama:** Kamera Açısı Tipleri:
-    > * Üstten Bakış
-    > * Alttan Bakış
-    > * Eğik Bakış
-    > * Öznel Görüş Açısı
-    > * Nesnel Görüş Açısı
-    > Doğru yanıt E'dir.
+    > **Açıklama:** Kamera Açısı Tipleri:<br />* Üstten Bakış<br />* Alttan Bakış<br />* Eğik Bakış<br />* Öznel Görüş Açısı<br />* Nesnel Görüş Açısı<br />Doğru yanıt E'dir.
 
     <hr />
 1. 1\. Yatay Çevrinme (pan),<br />2\. Yukarı - Aşağı Çevrinme (tilt),<br />3\. Kaydırma Hareketi,<br />4\. Optik Kaydırma.<br />Yukarıdakilerden hangisi / hangileri kamera hareketleri arasında yer almaktadır?
@@ -10347,12 +9914,7 @@
     - **Cevap D-) Hepsi**
     - E-) Hiçbiri
 
-    > **Açıklama:** Kamera Hareketleri
-    > * Yatay Çevrinme (pan),
-    > * Yukarı - Aşağı Çevrinme (tilt),
-    > * Kaydırma Hareketi,
-    > * Optik Kaydırma.
-    > Doğru yanıt D'dir.
+    > **Açıklama:** Kamera Hareketleri<br />* Yatay Çevrinme (pan),<br />* Yukarı - Aşağı Çevrinme (tilt),<br />* Kaydırma Hareketi,<br />* Optik Kaydırma.<br />Doğru yanıt D'dir.
 
     <hr />
 1. 1\. Baş Boşluğu,<br />2\. Altın Oran,<br />3\. Hareket Boşluğu,<br />4\. Bakış Boşluğu.<br />Yukarıdakilerden hangisi / hangileri çerçeveleme kuralları arasında yer almaktadır?
@@ -10362,12 +9924,7 @@
     - D-) Hiçbiri
     - **Cevap E-) Hepsi**
 
-    > **Açıklama:** Çerçeveleme Kuralları
-    > * Baş Boşluğu,
-    > * Altın Oran,
-    > * Hareket Boşluğu,
-    > * Bakış Boşluğu.
-    > Doğru yanıt E'dir.
+    > **Açıklama:** Çerçeveleme Kuralları<br />* Baş Boşluğu,<br />* Altın Oran,<br />* Hareket Boşluğu,<br />* Bakış Boşluğu.<br />Doğru yanıt E'dir.
 
     <hr />
 1. "Sanat ortamında kullanılan bir kompozisyon yöntemidir. Fotoğraftaki kullanımında yapılması gereken, kadrajı 9 eşit dikdörtgene bölerek ilgi noktasını ortada yer alan dört kesişim noktasından birine yakın yerleştirmektir." aşağıdaki çerçeveleme yöntemlerinden hangisine aittir?
@@ -10387,16 +9944,7 @@
     - D-) Hiçbiri
     - **Cevap E-) Hepsi**
 
-    > **Açıklama:** Görsel Etkiyi Artırma Yöntemleri:
-    > * Renkler,
-    > * Çizgiler,
-    > * Denge,
-    > * Birlik,
-    > * Ölçü,
-    > * Ton,
-    > * Derinlik
-    > * Sadelik.
-    > Doğru yanıt E'dir.
+    > **Açıklama:** Görsel Etkiyi Artırma Yöntemleri:<br />* Renkler,<br />* Çizgiler,<br />* Denge,<br />* Birlik,<br />* Ölçü,<br />* Ton,<br />* Derinlik<br />* Sadelik.<br />Doğru yanıt E'dir.
 
     <hr />
 1. Aşağıdakilerden hangisi görsel etkiyi arttırmak için kulanılan yöntemlerden biri değildir?
@@ -10636,11 +10184,7 @@
     - D-) II ve III
     - E-) II ve IV
 
-    > **Açıklama:** Derinlemesine görüntünün sağladığı özellikleri belirtmek gerekirse:
-    > a-) Görüş alanını derinlemesine genişletir.
-    > b-) Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.
-    > c-) Derinlemesine görüntüde çözümleme izleyiciye bırakılır.
-    > Dolayısıyla cevap B şıkkıdır.
+    > **Açıklama:** Derinlemesine görüntünün sağladığı özellikleri belirtmek gerekirse:<br />a-) Görüş alanını derinlemesine genişletir.<br />b-) Derinlemesine görüntü, izleyiciyi daha aktif olmaya zorlar.<br />c-) Derinlemesine görüntüde çözümleme izleyiciye bırakılır.<br />Dolayısıyla cevap B şıkkıdır.
 
     <hr />
 1. Kameraman tarafından görüntünün, görüntü çerçevesi içinde kalıcı hâle getirilmesine ne denilmektedir ?
@@ -10680,13 +10224,7 @@
     - D-) I, II, III ve V
     - E-) I, II, III ve IV
 
-    > **Açıklama:** Kamera Açısı Tipleri
-    > a-) Üstten bakış
-    > b-) Alttan bakış
-    > c-) Eğik bakış
-    > d-) Öznel görüş açısı
-    > e-) Nesnel görüş açısı
-    > şeklindedir. Konu açısı bunlardan biri değildir. Dolayısıyla cevap A şıkkıdır.
+    > **Açıklama:** Kamera Açısı Tipleri<br />a-) Üstten bakış<br />b-) Alttan bakış<br />c-) Eğik bakış<br />d-) Öznel görüş açısı<br />e-) Nesnel görüş açısı<br />şeklindedir. Konu açısı bunlardan biri değildir. Dolayısıyla cevap A şıkkıdır.
 
     <hr />
 1. Aşağıdakilerden hangileri "Kamera Açısını Belirleyen Ögeler" arasında yer almaktadır ?<br />I-) Konunun büyüklüğü<br />II-) Konu açısı<br />III-) Kaydırma hareketi<br />IV-) Kameranın yüksekliği
@@ -10696,11 +10234,7 @@
     - D-) I, II ve III
     - E-) II ve IV
 
-    > **Açıklama:** Kamera Açısını Belirleyen Ögeler
-    > a-) Konunun büyüklüğü
-    > b-) Konu açısı
-    > c-) Kameranın yüksekliği
-    > şeklindendir. Kaydırma hareketi bunlardan biri değildir. Doalyısıyla cevap B şıkkıdır.
+    > **Açıklama:** Kamera Açısını Belirleyen Ögeler<br />a-) Konunun büyüklüğü<br />b-) Konu açısı<br />c-) Kameranın yüksekliği<br />şeklindendir. Kaydırma hareketi bunlardan biri değildir. Doalyısıyla cevap B şıkkıdır.
 
     <hr />
 1. Aşağıdaki seçeneklerden hangileri "Kamera Hareketleri"ndendir ?<br />I-) Yatay çevrinme<br />II-) Kameranın yüksekliği<br />III-) Yukarı-Aşağı çevrinme<br />IV-) Kaydırma hareketi<br />V-) Optik kaydırma
@@ -10710,12 +10244,7 @@
     - D-) I, II, III ve IV
     - E-) I, II, III ve V
 
-    > **Açıklama:** Kamera Hareketleri
-    > a-) Yatay çevrinme
-    > b-) Yukarı-Aşağı çevrinme
-    > c-) Kaydırma hareketi
-    > d-) Optik kaydırma
-    > şeklindedir. Kameranın yüksekliği bunlardan biri değildir. Dolayısıyla cevap C şıkkıdır.
+    > **Açıklama:** Kamera Hareketleri<br />a-) Yatay çevrinme<br />b-) Yukarı-Aşağı çevrinme<br />c-) Kaydırma hareketi<br />d-) Optik kaydırma<br />şeklindedir. Kameranın yüksekliği bunlardan biri değildir. Dolayısıyla cevap C şıkkıdır.
 
     <hr />
 1. Aşağıdaki hangi seçeneklerde "Temel Çekim Ölçekleri" belirtilmiştir ?<br />I-) Uzak çekim<br />II-) Genel çekim<br />III-) Boy çekim<br />IV-) Eğik bakış<br />V-) Omuz çekim<br />VI-) Alttan bakış
@@ -10725,16 +10254,7 @@
     - **Cevap D-) I, II, III ve V**
     - E-) IV ve V
 
-    > **Açıklama:** Temel çekim ölçekleri
-    > a-) Uzak çekim
-    > b-) Genel çekim
-    > c-) Boy çekim
-    > d-) Omuz çekim
-    > e-) Göğüs çekim
-    > f-) Baş çekim
-    > g-) Yüz çekim
-    > h-) Ayrıntı çekim
-    > şeklindedir. Eğik bakış ve Alttan bakış bu ölçeklerden değildir. Dolayısıyla cevap D şıkkıdır.
+    > **Açıklama:** Temel çekim ölçekleri<br />a-) Uzak çekim<br />b-) Genel çekim<br />c-) Boy çekim<br />d-) Omuz çekim<br />e-) Göğüs çekim<br />f-) Baş çekim<br />g-) Yüz çekim<br />h-) Ayrıntı çekim<br />şeklindedir. Eğik bakış ve Alttan bakış bu ölçeklerden değildir. Dolayısıyla cevap D şıkkıdır.
 
     <hr />
 1. Aşağıdakilerden hangileri "Görsel Etkiyi Artırma Yöntemleri" ana başlıklarındandır ?<br />I-) Renkler<br />II-) Çizgiler<br />III-) Bindirme<br />IV-) Denge<br />V-) Ölçü
@@ -10744,12 +10264,7 @@
     - D-) II, III, IV ve V
     - **Cevap E-) I, II, IV ve V**
 
-    > **Açıklama:** Görsel Etkiyi Artırma Yöntemleri
-    > a-) Renkler
-    > b-) Çizgiler
-    > c-) Denge
-    > d-) Ölçü
-    > şeklindedir. Bindirme bunlardan biri değildir. Dolayısıyla cevap E şıkkıdır.
+    > **Açıklama:** Görsel Etkiyi Artırma Yöntemleri<br />a-) Renkler<br />b-) Çizgiler<br />c-) Denge<br />d-) Ölçü<br />şeklindedir. Bindirme bunlardan biri değildir. Dolayısıyla cevap E şıkkıdır.
 
     <hr />
 ## Unite 8
@@ -10880,8 +10395,7 @@
     - **Cevap D-) Platon**
     - E-) Einstein
 
-    > **Açıklama:** Zaman kavramına ilişkin görüş belirten ilk isimler arasında Platon ve Aristoteles yer almaktadır. Platon’a göre zaman, zihnin varlıkları bütünlüklü olarak, anında kavrayamamasının sonucunda meydana gelmiştir. Zaman, idealar dünyasının
-    > sadece bir taklididir. Doğru cevap D'dir.
+    > **Açıklama:** Zaman kavramına ilişkin görüş belirten ilk isimler arasında Platon ve Aristoteles yer almaktadır. Platon’a göre zaman, zihnin varlıkları bütünlüklü olarak, anında kavrayamamasının sonucunda meydana gelmiştir. Zaman, idealar dünyasının<br />sadece bir taklididir. Doğru cevap D'dir.
 
     <hr />
 1. Aşağıdaki düşünürlerden hangisi göreli zaman görüşünü savunmaktadır?
@@ -10891,8 +10405,7 @@
     - D-) Bergson
     - E-) Aristoteles
 
-    > **Açıklama:** Einstein’a göre; uzay ve zaman noktaları, uzaysal koordinatlarına ek olarak, ayrı bir ‘şimdiler’ çokluğu ile belirlenirler. Bu belirlenen ‘şimdiler’ tikel-göreli ‘şimdiler’dir. Bu
-    > nedenle, zamanın nesnel bir algılanışından söz etmek mümkün değildir. Doğru cevap B'dir.
+    > **Açıklama:** Einstein’a göre; uzay ve zaman noktaları, uzaysal koordinatlarına ek olarak, ayrı bir ‘şimdiler’ çokluğu ile belirlenirler. Bu belirlenen ‘şimdiler’ tikel-göreli ‘şimdiler’dir. Bu<br />nedenle, zamanın nesnel bir algılanışından söz etmek mümkün değildir. Doğru cevap B'dir.
 
     <hr />
 1. Filmde geçen sürenin gerçek zamanla uyum halinde olduğu zaman türüne ne ad verilir?
@@ -10952,8 +10465,7 @@
     - D-) Astronomik zaman
     - E-) İrreel zaman
 
-    > **Açıklama:** Hayali zaman daha çok bilim kurgu filmlerde görülen, nasıl ve ne zaman olduğu belli olmayan zaman türüdür. Bunun yanı sıra filmdeki kahramanlardan birinin
-    > düşünceleri ya da istekleri görselleştirildiğinde bu da hayali zaman olarak nitelendirilir. Doğru cevap A'dır.
+    > **Açıklama:** Hayali zaman daha çok bilim kurgu filmlerde görülen, nasıl ve ne zaman olduğu belli olmayan zaman türüdür. Bunun yanı sıra filmdeki kahramanlardan birinin<br />düşünceleri ya da istekleri görselleştirildiğinde bu da hayali zaman olarak nitelendirilir. Doğru cevap A'dır.
 
     <hr />
 1. Genel olarak bir işin, bir oluşun içinde geçtiği, geçeceği veya geçmekte olduğu süre, vakit olarak tanımlanan aşağıdakilerden hangisidir?
@@ -10993,13 +10505,7 @@
     - D-) Zaman yenilenebilir
     - E-) Zaman para gibi borç alınıp verilebilir
 
-    > **Açıklama:** Zamanı diğer kaynaklardan (para, insan gücü, ham madde vb.) ayıran özellikleri ise şu şekilde sıralamak mümkündür (Demirel ve Ramazanoğlu, 2005: 31-32):
-    > * Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz yani zamanın ileride gereksinim duyulduğunda kullanılmak üzere depolanması olanaksızdır.
-    > * Zaman ancak içinde bulunulan an tüketilebilir. Zaman gerektiğinde başkaları tarafından kullanılmak üzere devredilemez. Birinin zamanını başka biri onun adına kullanamaz. Zaman sadece kişinin kendisine bağlıdır.
-    > * Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir.
-    > * Zaman yenilenemez. Bir örgüt ürettiği mal, hizmet ve düşüncenin bir kısmını, tekrar kendisi için girdi olarak kullanır ancak kullanılan zamanın ne doğal yolla ne de üretim yoluyla yerine konulması, yeniden üretilmesi mümkün değildir.
-    > * Zaman para gibi borç alınıp verilemez ancak bir işi para karşılığında başkasına yaptırmak da bir bakıma zamanın satın almak demektir.
-    > Doğru cevap C'dir.
+    > **Açıklama:** Zamanı diğer kaynaklardan (para, insan gücü, ham madde vb.) ayıran özellikleri ise şu şekilde sıralamak mümkündür (Demirel ve Ramazanoğlu, 2005: 31-32):<br />* Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz yani zamanın ileride gereksinim duyulduğunda kullanılmak üzere depolanması olanaksızdır.<br />* Zaman ancak içinde bulunulan an tüketilebilir. Zaman gerektiğinde başkaları tarafından kullanılmak üzere devredilemez. Birinin zamanını başka biri onun adına kullanamaz. Zaman sadece kişinin kendisine bağlıdır.<br />* Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir.<br />* Zaman yenilenemez. Bir örgüt ürettiği mal, hizmet ve düşüncenin bir kısmını, tekrar kendisi için girdi olarak kullanır ancak kullanılan zamanın ne doğal yolla ne de üretim yoluyla yerine konulması, yeniden üretilmesi mümkün değildir.<br />* Zaman para gibi borç alınıp verilemez ancak bir işi para karşılığında başkasına yaptırmak da bir bakıma zamanın satın almak demektir.<br />Doğru cevap C'dir.
 
     <hr />
 1. Zamana ilişkin düşüncesini "zaman, idealar dünyasının sadece bir taklididir çünkü idealar dünyası değişmez ve zaman dışıdır" şeklinde açıklayan düşünür aşağıdakilerden hangisidir?
@@ -11049,8 +10555,7 @@
     - D-) II ve I
     - E-) V
 
-    > **Açıklama:** I- Horozların belli bir saatte ötmesi
-    > III-Bir insanın her sabah aynı saatte uyanması
+    > **Açıklama:** I- Horozların belli bir saatte ötmesi<br />III-Bir insanın her sabah aynı saatte uyanması
 
     <hr />
 1. Aşağıdakilerden hangisi Platon’un zamana ilişkin görüşlerini içerir?
@@ -11060,8 +10565,7 @@
     - D-) Zaman bir nokta üzerinden diğer bir nokta üzerine hareket eden kesintisiz, dinamik ve döngüsel olmayan şeydir.
     - E-) Zaman mutlaktır, ölçülebilir, hesaplanabilir ve temelde dışsal bir öğeden bağımsız olarak akar.
 
-    > **Açıklama:** Platon’a göre zaman, zihnin varlıkları bütünlüklü olarak, anında kavrayamamasının sonucunda meydana gelmiştir. Zaman, idealar dünyasının
-    > sadece bir taklididir.
+    > **Açıklama:** Platon’a göre zaman, zihnin varlıkları bütünlüklü olarak, anında kavrayamamasının sonucunda meydana gelmiştir. Zaman, idealar dünyasının<br />sadece bir taklididir.
 
     <hr />
 1. “Uzay ve zaman noktaları, uzaysal koordinatlarına ek olarak, ayrı bir ‘şimdiler’ çokluğu ile belirlenirler. Bu belirlenen ‘şimdiler’ tikel-göreli ‘şimdiler’dir. Bu nedenle, zamanın nesnel bir algılanışından söz etmek mümkün değildir.” Zamanla ilgili yukarıdaki görüşü savunan düşünür aşağıdakilerden hangisidir?
@@ -11091,8 +10595,7 @@
     - D-) İzleyicinin film izleme sürecinde salonda tükettiği reel zamana
     - E-) Hayali zamana
 
-    > **Açıklama:** Kameranın pelikül üzerinde kaydettiği zamandır. Film üzerine kaydedilen zaman ile gösterim anındaki zaman birbirinden farklı olabilir. Kaydetme hızı 8 kare hız olan görüntü 24 kare hızla gösterilebilir ki bu görüntünün daha hızlı olmasına neden olacağından zaman algısını da etkiler. Kameranın normal hızının üzerinde çalıştırılmasıyla ise yavaşlatılmış bir hareket elde edilebilir. Bu yöntemin en
-    > iyi örneklerinden biri Akira Kurosawa’nın Yedi Samuray filminde yer alan iki samurayın dövüş sahnesidir.
+    > **Açıklama:** Kameranın pelikül üzerinde kaydettiği zamandır. Film üzerine kaydedilen zaman ile gösterim anındaki zaman birbirinden farklı olabilir. Kaydetme hızı 8 kare hız olan görüntü 24 kare hızla gösterilebilir ki bu görüntünün daha hızlı olmasına neden olacağından zaman algısını da etkiler. Kameranın normal hızının üzerinde çalıştırılmasıyla ise yavaşlatılmış bir hareket elde edilebilir. Bu yöntemin en<br />iyi örneklerinden biri Akira Kurosawa’nın Yedi Samuray filminde yer alan iki samurayın dövüş sahnesidir.
 
     <hr />
 1. Filmde bir kovalama anının farklı açılardan farklı planlarla görüntülenerek ekranda hız ve heyecan yaratması sinemada hangi zaman türüne verilebilecek bir örnektir?
@@ -11162,37 +10665,7 @@
     - **Cevap D-) Reel zaman-Hayali zaman**
     - E-) Hayali zaman-Kurgusal zaman
 
-    > **Açıklama:** Sinemada zamanı ele aldıgımızda “Reel (astronom
-    > ik) Zaman”, “Kurgusal (irreel) Zaman” ve
-    > “Hayali (mevhum) Zaman” olmak üzere üçe ayırmak
-    > mümkündür. Reel zaman, filmde geçen süren
-    > in gerçek zamanla uyum hâlinde oldugu zaman
-    > türüdür. Örnegin; filmde bir karakterin koltuktan
-    > kalkarak mutfaga gitme süresi gerçek zamanla bire
-    > bir uyum hâlinde olur. Kurgusal zaman; filmde
-    > geçen bir zaman diliminin, öznel çekimlerle ya
-    > da kurgu yoluyla gerçek zamana göre kısaltılması
-    > veya uzatılmasıdır. Demir’in (1994: 6) de belirtt
-    > igi gibi gerçek zamanda ve mekânda yapılan bu
-    > seçmeler aksiyonun gelisiminde en önemli unsurdur.
-    > Kurgusal zamana saatler sürecek bir yolculugun
-    > baslangıcı ve bitisine iliskin görüntülerin
-    > kurgu yoluyla kısaltılmasını ya da bir kovalama
-    > anının farklı açılardan farklı planlarla görüntülenerek
-    > ekranda hız ve heyecan yaratmasını örnek
-    > olarak vermek mümkündür. Hayali zaman ise
-    > daha çok bilim kurgu filmlerde görülen, nasıl ve
-    > ne zaman oldugu belli olmayan zaman türüdür.
-    > Bunun yanı sıra filmdeki kahramanlardan birinin
-    > düsünceleri ya da istekleri görsellestirildiginde
-    > bu da hayali zaman olarak nitelendirilir. Sinema
-    > dogası geregi reel zaman ve hayali zamanı aynı
-    > anda görsellestirebilmektedir. Örnegin; 3 dakika
-    > 10 saniye süren bir sekansın isitsel boyutunda 3
-    > dakika 10 saniyelik bir müzik parçasının çalması
-    > o sekansa iliskin reel zamanın ifadesi iken sekansın
-    > görsel içeriginde yaratılan hayali zaman daha
-    > uzun ya da daha kısa olabilmektedir ( Doğru cevap D'dir.
+    > **Açıklama:** Sinemada zamanı ele aldıgımızda “Reel (astronom<br />ik) Zaman”, “Kurgusal (irreel) Zaman” ve<br />“Hayali (mevhum) Zaman” olmak üzere üçe ayırmak<br />mümkündür. Reel zaman, filmde geçen süren<br />in gerçek zamanla uyum hâlinde oldugu zaman<br />türüdür. Örnegin; filmde bir karakterin koltuktan<br />kalkarak mutfaga gitme süresi gerçek zamanla bire<br />bir uyum hâlinde olur. Kurgusal zaman; filmde<br />geçen bir zaman diliminin, öznel çekimlerle ya<br />da kurgu yoluyla gerçek zamana göre kısaltılması<br />veya uzatılmasıdır. Demir’in (1994: 6) de belirtt<br />igi gibi gerçek zamanda ve mekânda yapılan bu<br />seçmeler aksiyonun gelisiminde en önemli unsurdur.<br />Kurgusal zamana saatler sürecek bir yolculugun<br />baslangıcı ve bitisine iliskin görüntülerin<br />kurgu yoluyla kısaltılmasını ya da bir kovalama<br />anının farklı açılardan farklı planlarla görüntülenerek<br />ekranda hız ve heyecan yaratmasını örnek<br />olarak vermek mümkündür. Hayali zaman ise<br />daha çok bilim kurgu filmlerde görülen, nasıl ve<br />ne zaman oldugu belli olmayan zaman türüdür.<br />Bunun yanı sıra filmdeki kahramanlardan birinin<br />düsünceleri ya da istekleri görsellestirildiginde<br />bu da hayali zaman olarak nitelendirilir. Sinema<br />dogası geregi reel zaman ve hayali zamanı aynı<br />anda görsellestirebilmektedir. Örnegin; 3 dakika<br />10 saniye süren bir sekansın isitsel boyutunda 3<br />dakika 10 saniyelik bir müzik parçasının çalması<br />o sekansa iliskin reel zamanın ifadesi iken sekansın<br />görsel içeriginde yaratılan hayali zaman daha<br />uzun ya da daha kısa olabilmektedir ( Doğru cevap D'dir.
 
     <hr />
 1. Zamanın nesnel dünyadan kazanılmış bir şey olmadığını ancak insanın nesnel dünyayı algılamasının temel şartı olduğunu dile getiren düşünür aşağıdakilerden hangisidir?
@@ -11322,13 +10795,7 @@
     - D-) Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz.
     - E-) Zaman para gibi borç alınıp verilemez.
 
-    > **Açıklama:** Zamanı diğer kaynaklardan ayıran özellikler şunlardır;
-    > * Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz yani zamanın ileride gereksinim duyulduğunda kullanılmak üzere depolanması olanaksızdır.
-    > * Zaman ancak içinde bulunulan an tüketilebilir. Zaman gerektiğinde başkaları tarafından kullanılmak üzere devredilemez.
-    > * Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir.
-    > * Zaman yenilenemez. Bir örgüt ürettiği mal, hizmet ve düşüncenin bir kısmını, tekrar kendisi için girdi olarak kullanır ancak kullanılan zamanın ne doğal yolla ne de üretim yoluyla yerine konulması, yeniden üretilmesi mümkün değildir.
-    > * Zaman para gibi borç alınıp verilemez ancak bir işi para karşılığında başkasına yaptırmak da bir bakıma zamanın satın almak demektir.
-    > Doğru cevap C'dir.
+    > **Açıklama:** Zamanı diğer kaynaklardan ayıran özellikler şunlardır;<br />* Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz yani zamanın ileride gereksinim duyulduğunda kullanılmak üzere depolanması olanaksızdır.<br />* Zaman ancak içinde bulunulan an tüketilebilir. Zaman gerektiğinde başkaları tarafından kullanılmak üzere devredilemez.<br />* Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir.<br />* Zaman yenilenemez. Bir örgüt ürettiği mal, hizmet ve düşüncenin bir kısmını, tekrar kendisi için girdi olarak kullanır ancak kullanılan zamanın ne doğal yolla ne de üretim yoluyla yerine konulması, yeniden üretilmesi mümkün değildir.<br />* Zaman para gibi borç alınıp verilemez ancak bir işi para karşılığında başkasına yaptırmak da bir bakıma zamanın satın almak demektir.<br />Doğru cevap C'dir.
 
     <hr />
 1. Algılanılan, hissedilen zaman aşağıdakilerden hangisidir?
@@ -11548,12 +11015,7 @@
     - **Cevap D-) Zaman yeniden üretilebilir.**
     - E-) Zaman sadece kişinin kendisine bağlıdır.
 
-    > **Açıklama:** Zamanı diğer kaynaklardan ayıran özellikleri ise şu şekilde sıralamak mümkündür:
-    > • Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz yani zamanın ileride gereksinim duyulduğunda kullanılmak üzere depolanması olanaksızdır.
-    > • Zaman ancak içinde bulunulan an tüketilebilir. Zaman gerektiğinde başkaları tarafından kullanılmak üzere devredilemez. Birinin zamanını başka biri onun adına kullanamaz. Zaman sadece kişinin kendisine bağlıdır.
-    > • Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir.
-    > • Zaman yenilenemez. Bir örgüt ürettiği mal, hizmet ve düşüncenin bir kısmını, tekrar kendisi için girdi olarak kullanır ancak kullanılan zamanın ne doğal yolla ne de üretim yoluyla yerine konulması, yeniden üretilmesi mümkün değildir.
-    > • Zaman para gibi borç alınıp verilemez ancak bir işi para karşılığında başkasına yaptırmak da bir bakıma zamanın satın almak demektir.
+    > **Açıklama:** Zamanı diğer kaynaklardan ayıran özellikleri ise şu şekilde sıralamak mümkündür:<br />• Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz yani zamanın ileride gereksinim duyulduğunda kullanılmak üzere depolanması olanaksızdır.<br />• Zaman ancak içinde bulunulan an tüketilebilir. Zaman gerektiğinde başkaları tarafından kullanılmak üzere devredilemez. Birinin zamanını başka biri onun adına kullanamaz. Zaman sadece kişinin kendisine bağlıdır.<br />• Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir.<br />• Zaman yenilenemez. Bir örgüt ürettiği mal, hizmet ve düşüncenin bir kısmını, tekrar kendisi için girdi olarak kullanır ancak kullanılan zamanın ne doğal yolla ne de üretim yoluyla yerine konulması, yeniden üretilmesi mümkün değildir.<br />• Zaman para gibi borç alınıp verilemez ancak bir işi para karşılığında başkasına yaptırmak da bir bakıma zamanın satın almak demektir.
 
     <hr />
 1. Bireylerin, zihinlerinde bir şey değişmediğinde ya da herhangi bir değişimi fark etmediklerinde zamanın da geçmediğini düşünen filozof kimdir?
@@ -11643,8 +11105,7 @@
     - D-) İletişim Toplumu
     - E-) İlkel Toplum
 
-    > **Açıklama:** İnternet ve internetin yaygınlaşması ile ortaya çıkan yeni toplumsal yapıyı Castells,
-    > “ağ toplumu” olarak nitelendirir. Ağ toplumunda internetin ortaya çıkardığı yeni zaman deneyimi, zamanın düz çizgisel, geri döndürülemez ve hesaplanabilir olduğuna ilişkin var olana anlayışı ortadan kaldırmıştır. Doğru cevap C'dir.
+    > **Açıklama:** İnternet ve internetin yaygınlaşması ile ortaya çıkan yeni toplumsal yapıyı Castells,<br />“ağ toplumu” olarak nitelendirir. Ağ toplumunda internetin ortaya çıkardığı yeni zaman deneyimi, zamanın düz çizgisel, geri döndürülemez ve hesaplanabilir olduğuna ilişkin var olana anlayışı ortadan kaldırmıştır. Doğru cevap C'dir.
 
     <hr />
 1. I. Mercekler<br />II. Çekim ölçekleri<br />III. Tripod<br />IV. Kurgu<br />Yukarıdakilerden hangisi hareketli görüntüde zaman boyutunun oluşturmasında öne çıkan ögeler arasında sayılabilir?
@@ -11664,8 +11125,7 @@
     - D-) Baudrillard
     - E-) Foucalt
 
-    > **Açıklama:** Bergson, insan algısı da tıpkı sinemada olduğu gibi hareketi, hareketi oluşturan anların bir dizilişi olarak kavradığını söyler. Bergson’un işaret ettiği, insan düşüncesinin belirli anlara odaklanarak bütünü açıklamada bu anı referans alması alışkanlığıdır. Bu sözlerinden de anlaşılacağı üzere Bergson açısından sinema, yeni bir bilgi edinme tarzı olmaktan öte, bizim dış dünyayla temasımızın teknik olarak
-    > gerçekleşmesidir. Doğru cevap B'dir.
+    > **Açıklama:** Bergson, insan algısı da tıpkı sinemada olduğu gibi hareketi, hareketi oluşturan anların bir dizilişi olarak kavradığını söyler. Bergson’un işaret ettiği, insan düşüncesinin belirli anlara odaklanarak bütünü açıklamada bu anı referans alması alışkanlığıdır. Bu sözlerinden de anlaşılacağı üzere Bergson açısından sinema, yeni bir bilgi edinme tarzı olmaktan öte, bizim dış dünyayla temasımızın teknik olarak<br />gerçekleşmesidir. Doğru cevap B'dir.
 
     <hr />
 1. Filmde geçen sürenin gerçek zamanla uyum hâlinde olduğu zaman türüne ne ad verilir?
@@ -11675,8 +11135,7 @@
     - D-) Gelecek Zaman
     - E-) Geçmiş Zaman
 
-    > **Açıklama:** Sinemada zamanı ele aldığımızda “Reel (astronomik) Zaman”, “Kurgusal (irreel) Zaman” ve “Hayali (mevhum) Zaman” olmak üzere üçe ayırmak mümkündür. Reel zaman, filmde geçen sürenin gerçek zamanla uyum hâlinde olduğu zaman
-    > türüdür. Doğru cevap B'dir.
+    > **Açıklama:** Sinemada zamanı ele aldığımızda “Reel (astronomik) Zaman”, “Kurgusal (irreel) Zaman” ve “Hayali (mevhum) Zaman” olmak üzere üçe ayırmak mümkündür. Reel zaman, filmde geçen sürenin gerçek zamanla uyum hâlinde olduğu zaman<br />türüdür. Doğru cevap B'dir.
 
     <hr />
 1. Aşağıdakilerden hangisi zamanı para, ham madde gibi diğer kaynaklardan ayıran özellikler arasında değildir?
@@ -11856,12 +11315,7 @@
     - D-) Depolanamaması
     - E-) Sonrasında tüketilememesi
 
-    > **Açıklama:** * Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz yani zamanın ileride gereksinim duyulduğunda kullanılmak üzere depolanması olanaksızdır.
-    > * Zaman ancak içinde bulunulan an tüketilebilir. Zaman gerektiğinde başkaları tarafından kullanılmak üzere devredilemez. Birinin zamanını başka biri onun adına kullanamaz. Zaman sadece kişinin kendisine bağlıdır.
-    > * Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir.
-    > * Zaman yenilenemez. Bir örgüt ürettiği mal, hizmet ve düşüncenin bir kısmını, tekrar kendisi için girdi olarak kullanır ancak kullanılan zamanın ne doğal yolla ne de üretim yoluyla yerine konulması, yeniden üretilmesi mümkün değildir.
-    > * Zaman para gibi borç alınıp verilemez ancak bir işi para karşılığında başkasına yaptırmak da bir bakıma zamanın satın almak demektir.
-    > Doğru cevap A'dır.
+    > **Açıklama:** * Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz yani zamanın ileride gereksinim duyulduğunda kullanılmak üzere depolanması olanaksızdır.<br />* Zaman ancak içinde bulunulan an tüketilebilir. Zaman gerektiğinde başkaları tarafından kullanılmak üzere devredilemez. Birinin zamanını başka biri onun adına kullanamaz. Zaman sadece kişinin kendisine bağlıdır.<br />* Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir.<br />* Zaman yenilenemez. Bir örgüt ürettiği mal, hizmet ve düşüncenin bir kısmını, tekrar kendisi için girdi olarak kullanır ancak kullanılan zamanın ne doğal yolla ne de üretim yoluyla yerine konulması, yeniden üretilmesi mümkün değildir.<br />* Zaman para gibi borç alınıp verilemez ancak bir işi para karşılığında başkasına yaptırmak da bir bakıma zamanın satın almak demektir.<br />Doğru cevap A'dır.
 
     <hr />
 1. Kerime Üstünova bir çalışmasında, bir eylemin gerçekleşmesi için, olmazsa olmaz türünden iki koşula gereksinim olduğunu belirtir. Bunlardan biri eylemi yapan kişi, diğeri de eylemin yapılma zamanıdır. Bu nedenle eylemde var olan zaman, sözcüklerle tanımlayamayacağımız kadar soyuttur. Zaman eklerinin görevi, eylemde var olan soyut zamanı somuta çevirmektir. Zaman ifade eden sözcükler, bu konuda zaman eklerinin destekçisidir. Çünkü onlar da somutluğu zaman yelpazesi içinde daha kesin bir çizgiye oturtmakla yükümlüdürler. Bu nedenle çekimli, çekimsiz, kök, gövde her tür eylemin içinde zaman kavramı bulunmaktadır der. Bu çalışma aşağıdakilerden hangisidir?
@@ -12071,8 +11525,7 @@
     - **Cevap D-) Castells**
     - E-) Einstein
 
-    > **Açıklama:** İnternet ve internetin yaygınlaşması ile ortaya çıkan yeni toplumsal yapıyı Castells,
-    > “ağ toplumu” olarak nitelendirir. Ağ toplumunda internetin ortaya çıkardığı yeni zaman deneyimi, zamanın düz çizgisel, geri döndürülemez ve hesaplanabilir olduğuna ilişkin var olana anlayışı ortadan kaldırmıştır. Doğru cevap D'dir.
+    > **Açıklama:** İnternet ve internetin yaygınlaşması ile ortaya çıkan yeni toplumsal yapıyı Castells,<br />“ağ toplumu” olarak nitelendirir. Ağ toplumunda internetin ortaya çıkardığı yeni zaman deneyimi, zamanın düz çizgisel, geri döndürülemez ve hesaplanabilir olduğuna ilişkin var olana anlayışı ortadan kaldırmıştır. Doğru cevap D'dir.
 
     <hr />
 1. Aşağıdakilerden hangisi sinema zamanına ilişkin bir kavramdır?
@@ -12132,8 +11585,7 @@
     - D-) Henri Bergson
     - E-) Newton
 
-    > **Açıklama:** Platon’a göre zaman, zihnin varlıkları bütünlüklü olarak, anında kavrayamamasının sonucunda meydana gelmiştir. Zaman, idealar dünyasının
-    > sadece bir taklididir. Çünkü idealar dünyası değişmez ve zaman dışıdır (Cevizci, 1999, s.943).
+    > **Açıklama:** Platon’a göre zaman, zihnin varlıkları bütünlüklü olarak, anında kavrayamamasının sonucunda meydana gelmiştir. Zaman, idealar dünyasının<br />sadece bir taklididir. Çünkü idealar dünyası değişmez ve zaman dışıdır (Cevizci, 1999, s.943).
 
     <hr />
 1. Aşağıdakilerden hangisi, sinemanın kendine özgü özellikleri dikkate alındığında, zamana ilişkin 4 farklı kategorizasyonundan biri değildir?
@@ -12143,8 +11595,7 @@
     - D-) İzleyici tarafından algılanan zaman
     - E-) Reel zaman
 
-    > **Açıklama:** Buna ek olarak sinemanın kendine özgü özellikleri dikkate alındığında zamana ilişkin farklı bir kategorizasyonu daha gerektirdiği görülmektedir. Zamanı bu çerçevede dört başlık altında incelemek mümkün olmaktadır. Bunlardan ilki süjesel zamandır ki bu filmsel olayın sujede ele alınış biçimiyle ilişkili zamandır. "..." İkinci zaman türü ise,kameranın pelikül üzerinde kaydettiği zamandır. Film üzerine kaydedilen zaman ile gösterim anındaki zaman birbirinden farklı olabilir. "..." Sinemada zamana ilişkin üçüncü kategori ise izleyici tarafından algılanan zamandır. Bir film deneyiminde, görüntülerin şimdiki zamanının yanında izleyicinin zamanı algılamasının da etken oluşu nedeniyle karmaşık bir zamansallık söz konusudur. "..." Sinemaya ilişkin dördüncü zaman ise izleyicinin film izleme sürecinde salonda tükettiği reel zamandır (Aslanyürek, 2011: 175-176; Biro, 2011: 51).
-    > "Mutlak zaman" ise Newton'un zamana ilişkin yaklaşımını tanımlar.
+    > **Açıklama:** Buna ek olarak sinemanın kendine özgü özellikleri dikkate alındığında zamana ilişkin farklı bir kategorizasyonu daha gerektirdiği görülmektedir. Zamanı bu çerçevede dört başlık altında incelemek mümkün olmaktadır. Bunlardan ilki süjesel zamandır ki bu filmsel olayın sujede ele alınış biçimiyle ilişkili zamandır. "..." İkinci zaman türü ise,kameranın pelikül üzerinde kaydettiği zamandır. Film üzerine kaydedilen zaman ile gösterim anındaki zaman birbirinden farklı olabilir. "..." Sinemada zamana ilişkin üçüncü kategori ise izleyici tarafından algılanan zamandır. Bir film deneyiminde, görüntülerin şimdiki zamanının yanında izleyicinin zamanı algılamasının da etken oluşu nedeniyle karmaşık bir zamansallık söz konusudur. "..." Sinemaya ilişkin dördüncü zaman ise izleyicinin film izleme sürecinde salonda tükettiği reel zamandır (Aslanyürek, 2011: 175-176; Biro, 2011: 51).<br />"Mutlak zaman" ise Newton'un zamana ilişkin yaklaşımını tanımlar.
 
     <hr />
 1. Bazı hayvanların kış uykusuna yatması ya da horozların belirli saatlerde ötmesi aşağıdakilerin hangisi ile ilişkilendirilebilir?
@@ -12164,11 +11615,7 @@
     - D-) Depolanamaz olması
     - E-) Alınıp verilemez olması
 
-    > **Açıklama:** • Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz yani zamanın ileride gereksinim duyulduğunda kullanılmak üzere depolanması olanaksızdır.
-    > • Zaman ancak içinde bulunulan an tüketilebilir. Zaman gerektiğinde başkaları tarafından kullanılmak üzere devredilemez. Birinin zamanını başka biri onun adına kullanamaz. Zaman sadece kişinin kendisine bağlıdır.
-    > • Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir.
-    > • Zaman yenilenemez. Bir örgüt ürettiği mal, hizmet ve düşüncenin bir kısmını, tekrar kendisi için girdi olarak kullanır ancak kullanılan zamanın ne doğal yolla ne de üretim yoluyla yerine konulması, yeniden üretilmesi mümkün değildir.
-    > • Zaman para gibi borç alınıp verilemez ancak bir işi para karşılığında başkasına yaptırmak da bir bakıma zamanın satın almak demektir.
+    > **Açıklama:** • Zaman bir ham madde gibi gerektiğinde kullanılmak üzere depolanamaz yani zamanın ileride gereksinim duyulduğunda kullanılmak üzere depolanması olanaksızdır.<br />• Zaman ancak içinde bulunulan an tüketilebilir. Zaman gerektiğinde başkaları tarafından kullanılmak üzere devredilemez. Birinin zamanını başka biri onun adına kullanamaz. Zaman sadece kişinin kendisine bağlıdır.<br />• Zaman ikame edilemez. Zamanın ne diğer bir malzemeyle ne de daha ucuz bir zamanla ikâme edilmesi mümkün değildir.<br />• Zaman yenilenemez. Bir örgüt ürettiği mal, hizmet ve düşüncenin bir kısmını, tekrar kendisi için girdi olarak kullanır ancak kullanılan zamanın ne doğal yolla ne de üretim yoluyla yerine konulması, yeniden üretilmesi mümkün değildir.<br />• Zaman para gibi borç alınıp verilemez ancak bir işi para karşılığında başkasına yaptırmak da bir bakıma zamanın satın almak demektir.
 
     <hr />
 1. Deleuze, Bergson’dan süre ve sezgi kavramlarını ödünç alarak zaman-imge kavramını geliştirmiştir. Bu yaklaşıma göre gündelik hayata ait zaman uzamsaldır ve nicel yöntemlerle ölçülebilir. Süre ise öznenin içsel zamanına göre akan, duran, geri ve ileri gidebilen esnek bir bütünlüktedir.<br />Deleuze'ün bu yaklaşımına göre aşağıdakilerden hangisi süre'nin özelliklerinden olamaz?
@@ -12188,8 +11635,7 @@
     - **Cevap D-) Bergson**
     - E-) Baker
 
-    > **Açıklama:** Bergson, dış dünyayla temasımızı bütünüyle sinematografik bir zemine indirger. Bu bakış açısıyla sinema, imgeye hareket ve zaman
-    > gibi iki tane sıfat vermiş olsa da en eski illüzyondan başka bir şey değildir. Böylece Bergson, Zenon’un paradokslarına modern bir ad verir: Sinematografik illüzyon.
+    > **Açıklama:** Bergson, dış dünyayla temasımızı bütünüyle sinematografik bir zemine indirger. Bu bakış açısıyla sinema, imgeye hareket ve zaman<br />gibi iki tane sıfat vermiş olsa da en eski illüzyondan başka bir şey değildir. Böylece Bergson, Zenon’un paradokslarına modern bir ad verir: Sinematografik illüzyon.
 
     <hr />
 1. Castells'in "ağ toplumu" olarak adlandırdığı toplum hangisini işaret etmektedir?
@@ -12209,8 +11655,7 @@
     - D-) göreli
     - E-) mutlak
 
-    > **Açıklama:** Objektif zaman, saate ve/veya takvime bağlı (saat, gün, hafta, ay) olarak ölçülebilen, gözlenebilen, takip edilebilen zamandır.
-    > Subjektif zaman ise algılanılan, hissedilen zamandır.
+    > **Açıklama:** Objektif zaman, saate ve/veya takvime bağlı (saat, gün, hafta, ay) olarak ölçülebilen, gözlenebilen, takip edilebilen zamandır.<br />Subjektif zaman ise algılanılan, hissedilen zamandır.
 
     <hr />
 1. Zamanı durdurmak, anı yakalamak ve hareketi kaydetmek gibi özellikleri olan fotoğraf ve sinema için hangisi söylenemez?
@@ -12220,8 +11665,7 @@
     - **Cevap D-) Mekân ve hareketle ilişkili olarak fotoğraf makinesi nesneyi şimdiki zamanında dinamik bir şey olarak resmeder.**
     - E-) Videoda hareket doğrusal olarak ilerlemek zorunda değildir.
 
-    > **Açıklama:** Zamanı durdurmak, anı yakalamak ve hareketi kaydetmek, görsel ve görsel-işitsel sanatlar için oldukça önemlidir. Örneğin; fotoğraf ve sinema, temelde iki boyutlu bir görüntü sağlamaktadır. Kameranın aracılığı ile üç boyutlu olan uzay iki boyutlu bir yüzey üzerine indirgenebilmektedir. Bu doğrultuda, görüntüde düzenleme yapılamasının amacı izleyicileri mümkün olduğu kadar uzay yanılmasına inandırabilmektir. Tarihsel süreçte diğer sanatlardan faklı olarak fotoğraf ve görsel-işitsel bir sanat dalı olarak sinema, görüntünün oluşma sürecindeki aralığı en aza indirmiştir. Fotoğraf makinesi ışıkla resmetmekte, nesneden yansıyan ışık makinenin optiğinden geçerek yüzey üzerinde görüntü oluşturmaktadır. Bu süreçte fotoğrafı çekilen nesnenin an’ı (resmedilen an) ile makinenin içinde resmedildiği an (resmedilme eylemi anı) neredeyse aynıdır. Yani fotoğrafı çekilen nesnenin şimdiki zamanı ile makinenin içinde ortaya çıkan görüntünün şimdiki zamanı aynıdır. Bu nedenle fotoğraf makinesi şimdiyi resmeden bir aygıt olarak değerlendirilebilir. Mekân ve hareketle ilişkili olarak fotoğraf makinesi nesneyi şimdiki zamanında dinamik bir şey olarak değil statik bir şey olarak resmeder. "..." Videoda hareket doğrusal olarak ilerlemek zorunda
-    > değildir. Bu nedenle, bir hareket diğeri ile bağlantısızdır.
+    > **Açıklama:** Zamanı durdurmak, anı yakalamak ve hareketi kaydetmek, görsel ve görsel-işitsel sanatlar için oldukça önemlidir. Örneğin; fotoğraf ve sinema, temelde iki boyutlu bir görüntü sağlamaktadır. Kameranın aracılığı ile üç boyutlu olan uzay iki boyutlu bir yüzey üzerine indirgenebilmektedir. Bu doğrultuda, görüntüde düzenleme yapılamasının amacı izleyicileri mümkün olduğu kadar uzay yanılmasına inandırabilmektir. Tarihsel süreçte diğer sanatlardan faklı olarak fotoğraf ve görsel-işitsel bir sanat dalı olarak sinema, görüntünün oluşma sürecindeki aralığı en aza indirmiştir. Fotoğraf makinesi ışıkla resmetmekte, nesneden yansıyan ışık makinenin optiğinden geçerek yüzey üzerinde görüntü oluşturmaktadır. Bu süreçte fotoğrafı çekilen nesnenin an’ı (resmedilen an) ile makinenin içinde resmedildiği an (resmedilme eylemi anı) neredeyse aynıdır. Yani fotoğrafı çekilen nesnenin şimdiki zamanı ile makinenin içinde ortaya çıkan görüntünün şimdiki zamanı aynıdır. Bu nedenle fotoğraf makinesi şimdiyi resmeden bir aygıt olarak değerlendirilebilir. Mekân ve hareketle ilişkili olarak fotoğraf makinesi nesneyi şimdiki zamanında dinamik bir şey olarak değil statik bir şey olarak resmeder. "..." Videoda hareket doğrusal olarak ilerlemek zorunda<br />değildir. Bu nedenle, bir hareket diğeri ile bağlantısızdır.
 
     <hr />
 1. Zaman söz konusu olduğunda çoğunlukla kaç farklı zaman diliminden söz edilir ?

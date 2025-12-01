@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SAYISAL FOTOĞRAF MAKİNELERİNDE P-S-A-M KADRANI<br>Geniş alan derinliği, yakındaki nesnelerden uzak mesafelere kadar her şeyin keskin bir görüntüye sahip olması anlamına gelir."
+        "Aciklama": "SAYISAL FOTOĞRAF MAKİNELERİNDE P-S-A-M KADRANI<br/>Geniş alan derinliği, yakındaki nesnelerden uzak mesafelere kadar her şeyin keskin bir görüntüye sahip olması anlamına gelir."
     },
     {
         "SoruID": 3353165,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SAYISAL FOTOĞRAF MAKİNELERİNDE P-S-A-M KADRANI<br>Manuel mod, zorlu aydınlatma koşullarında yararlı olan pozlama ayarlarıyla daha deneysel fotoğraflar çekmenizi sağlar."
+        "Aciklama": "SAYISAL FOTOĞRAF MAKİNELERİNDE P-S-A-M KADRANI<br/>Manuel mod, zorlu aydınlatma koşullarında yararlı olan pozlama ayarlarıyla daha deneysel fotoğraflar çekmenizi sağlar."
     },
     {
         "SoruID": 3353166,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SAYISAL FOTOĞRAF MAKİNELERİNDE P-S-A-M KADRANI<br>Bulp modu 30 saniyeden uzun pozlamalar için kullanılmaktadır."
+        "Aciklama": "SAYISAL FOTOĞRAF MAKİNELERİNDE P-S-A-M KADRANI<br/>Bulp modu 30 saniyeden uzun pozlamalar için kullanılmaktadır."
     },
     {
         "SoruID": 3353167,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SAYISAL FOTOĞRAFÇILIKTA POZLAMA VE HAZIR SAHNELEME MODLARI<br>Pozlama da ışığı üç farklı yolla kamerada toplamak mümkündür. Bu yollar enstantane hızı, diyafram açıklığı ve ISO hızıdır."
+        "Aciklama": "SAYISAL FOTOĞRAFÇILIKTA POZLAMA VE HAZIR SAHNELEME MODLARI<br/>Pozlama da ışığı üç farklı yolla kamerada toplamak mümkündür. Bu yollar enstantane hızı, diyafram açıklığı ve ISO hızıdır."
     },
     {
         "SoruID": 3353168,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SAYISAL FOTOĞRAFÇILIKTA POZLAMA VE HAZIR SAHNELEME MODLARI<br>Işık miktarında bir durak artış, iki kat daha fazla ışık olduğu anlamına gelir."
+        "Aciklama": "SAYISAL FOTOĞRAFÇILIKTA POZLAMA VE HAZIR SAHNELEME MODLARI<br/>Işık miktarında bir durak artış, iki kat daha fazla ışık olduğu anlamına gelir."
     },
     {
         "SoruID": 3353169,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SAYISAL FOTOĞRAFÇILIKTA IŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ, ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ<br>Matris ölçümü (Matrix metering): Sayısal fotoğraf makinesi, sahnedeki ışığın tümünü ölçerek ortalama bir değer alır."
+        "Aciklama": "SAYISAL FOTOĞRAFÇILIKTA IŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ, ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ<br/>Matris ölçümü (Matrix metering): Sayısal fotoğraf makinesi, sahnedeki ışığın tümünü ölçerek ortalama bir değer alır."
     },
     {
         "SoruID": 3353170,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SAYISAL FOTOĞRAFÇILIKTA IŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ,<br/>ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ<br>Alan derinliği, bir görüntüdeki kabul edilebilir keskinlik alanını ifade eder. Bu netlik bölgesi üç faktöre bağlıdır: lensin açıklığı, kamera ile konu arasındaki mesafe ve lensin odak uzaklığıdır."
+        "Aciklama": "SAYISAL FOTOĞRAFÇILIKTA IŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ,<br/>ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ<br/>Alan derinliği, bir görüntüdeki kabul edilebilir keskinlik alanını ifade eder. Bu netlik bölgesi üç faktöre bağlıdır: lensin açıklığı, kamera ile konu arasındaki mesafe ve lensin odak uzaklığıdır."
     },
     {
         "SoruID": 3353171,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SAYISAL FOTOĞRAF MAKİNELERİ TEMEL MENÜLERİ<br>EXIF, “Exchangeable Image File” değiştirilebilir görüntü dosyası açılımı olan ve içerisinde fotoğrafın çekildiği tarih, yer, boyut, ekipman bilgilerine kadar ve hatta çekim ayarlarına kadar birçok bilgiyi barındıran bölümdür. Fotoğraf yarışmalarında bu bilgiler olmazsa olmazdır."
+        "Aciklama": "SAYISAL FOTOĞRAF MAKİNELERİ TEMEL MENÜLERİ<br/>EXIF, “Exchangeable Image File” değiştirilebilir görüntü dosyası açılımı olan ve içerisinde fotoğrafın çekildiği tarih, yer, boyut, ekipman bilgilerine kadar ve hatta çekim ayarlarına kadar birçok bilgiyi barındıran bölümdür. Fotoğraf yarışmalarında bu bilgiler olmazsa olmazdır."
     },
     {
         "SoruID": 3353172,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SAYISAL FOTOĞRAFÇILIKTA IŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ,<br/>ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ<br>Sonuç olarak kameranın sensörü ne olursa olsun üzerinde daha fazla kontrole sahip olunan gerçek alan derinliği aralığını belirleyen üç değişken daha söz konusudur. Bunlardan ilki diyarafram açıklığıdır.<br/>Diyafram açıklığı ne kadar büyükse (daha küçük f-stop numaraları), alan derinliği o kadar sığ olacaktır ve açıklık ne kadar küçükse (daha büyük f-stop numaraları), o kadar derin olacaktır. Bir diğer değişken ise merceğin odak uzaklığıdır. Merceğin odak uzaklığı ne kadar uzun olursa, DOF o kadar sığ olur ve merceğimiz ne kadar kısa olursa alan derinliğimiz o kadar derin olur. Geniş açılı lensler, telefoto lenslere göre daha derin alan derinliği oluşturur. Son olarak Netleme noktası ayarı alan derinliğini belirleyen bir değişken olarak karşımıza çıkar."
+        "Aciklama": "SAYISAL FOTOĞRAFÇILIKTA IŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ,<br/>ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ<br/>Sonuç olarak kameranın sensörü ne olursa olsun üzerinde daha fazla kontrole sahip olunan gerçek alan derinliği aralığını belirleyen üç değişken daha söz konusudur. Bunlardan ilki diyarafram açıklığıdır.<br/>Diyafram açıklığı ne kadar büyükse (daha küçük f-stop numaraları), alan derinliği o kadar sığ olacaktır ve açıklık ne kadar küçükse (daha büyük f-stop numaraları), o kadar derin olacaktır. Bir diğer değişken ise merceğin odak uzaklığıdır. Merceğin odak uzaklığı ne kadar uzun olursa, DOF o kadar sığ olur ve merceğimiz ne kadar kısa olursa alan derinliğimiz o kadar derin olur. Geniş açılı lensler, telefoto lenslere göre daha derin alan derinliği oluşturur. Son olarak Netleme noktası ayarı alan derinliğini belirleyen bir değişken olarak karşımıza çıkar."
     },
     {
         "SoruID": 3353173,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SAYISAL FOTOĞRAFÇILIKTAIŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ,<br/>ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ<br>Histogram, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında size söyler."
+        "Aciklama": "SAYISAL FOTOĞRAFÇILIKTAIŞIK ÖLÇÜMÜ, ALAN DERİNLİĞİ,<br/>ODAKLAMA, HİSTOGRAM VE BEYAZ DENGESI SEÇENEKLERİ<br/>Histogram, kullanıcının sahada bir fotoğraf çekimi için yapılan pozlamanın doğru olup olmadığını veya ışık ve gölgenin tüm fotoğraf için mükemmel bir şekilde dengeli olup olmadığını anında size söyler."
     },
     {
         "SoruID": 3353174,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br><span><span style=\"left: 94.4882px; top: 188.151px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.895945);\"><span><span style=\"left: 94.4882px; top: 144.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.944058);\">Çoğu </span></span><span><span style=\"left: 94.4882px; top: 166.484px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.959377);\">dijital kamera aşağıdaki standart pozlama modlarından birine sahiptir: “Auto” (otomatik), “Program” (P), </span></span>“Enstantane Önceliği” (S veya Tv), “Açıklık Önceliği” (A veya Av), “Manuel” (M) ve “Bulb” (B). Her <span><span style=\"left: 94.4882px; top: 209.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.964699);\">mod, belirli bir pozlama için diyafram açıklığı, ISO hızı ve enstantane hızı değerlerinin nasıl seçileceğini </span></span><span><span style=\"left: 94.4882px; top: 231.484px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.949722);\">etkiler. Bazı modlar sizin için üç değeri de seçmeye çalışır, diğerleri ise bir ayar belirlemenize izin verir ve </span></span><span><span style=\"left: 94.4882px; top: 253.151px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.974872);\">mümkün olduğunda diğer ikisini kamera seçimine bırakır</span></span>. <br/></span></span>"
+        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br/><span><span style=\"left: 94.4882px; top: 188.151px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.895945);\"><span><span style=\"left: 94.4882px; top: 144.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.944058);\">Çoğu </span></span><span><span style=\"left: 94.4882px; top: 166.484px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.959377);\">dijital kamera aşağıdaki standart pozlama modlarından birine sahiptir: “Auto” (otomatik), “Program” (P), </span></span>“Enstantane Önceliği” (S veya Tv), “Açıklık Önceliği” (A veya Av), “Manuel” (M) ve “Bulb” (B). Her <span><span style=\"left: 94.4882px; top: 209.817px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.964699);\">mod, belirli bir pozlama için diyafram açıklığı, ISO hızı ve enstantane hızı değerlerinin nasıl seçileceğini </span></span><span><span style=\"left: 94.4882px; top: 231.484px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.949722);\">etkiler. Bazı modlar sizin için üç değeri de seçmeye çalışır, diğerleri ise bir ayar belirlemenize izin verir ve </span></span><span><span style=\"left: 94.4882px; top: 253.151px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.974872);\">mümkün olduğunda diğer ikisini kamera seçimine bırakır</span></span>. <br/></span></span>"
     },
     {
         "SoruID": 3353185,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br><span><span style=\"left: 118.11px; top: 972.423px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.940119);\">Programlanmış otomatik pozlama olarak da </span></span><span><span style=\"left: 94.4882px; top: 994.09px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.01091);\">adlandırılan bu mod, kamera üzerinde kontrol </span></span><span><span style=\"left: 94.4882px; top: 1015.76px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.928456);\">sağlamayan temel otomatik modlar ile ayarları </span></span><span><span style=\"left: 94.4882px; top: 1037.42px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.949806);\">değiştirmeyi sağlayan gelişmiş modlar arasındaki </span></span><span><span style=\"left: 94.4882px; top: 1059.09px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.966403);\">boşluğu doldurur. </span></span>"
+        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br/><span><span style=\"left: 118.11px; top: 972.423px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.940119);\">Programlanmış otomatik pozlama olarak da </span></span><span><span style=\"left: 94.4882px; top: 994.09px; font-size: 18.3333px; font-family: serif; transform: scaleX(1.01091);\">adlandırılan bu mod, kamera üzerinde kontrol </span></span><span><span style=\"left: 94.4882px; top: 1015.76px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.928456);\">sağlamayan temel otomatik modlar ile ayarları </span></span><span><span style=\"left: 94.4882px; top: 1037.42px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.949806);\">değiştirmeyi sağlayan gelişmiş modlar arasındaki </span></span><span><span style=\"left: 94.4882px; top: 1059.09px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.966403);\">boşluğu doldurur. </span></span>"
     },
     {
         "SoruID": 3353186,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br><span><span style=\"left: 132.284px; top: 197.279px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.976714);\">Bu modda kullanıcıya enstantane hızını be</span></span><span><span style=\"left: 108.661px; top: 218.945px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.971065);\">lirleme noktasında makine tarafından müdahale </span></span><span><span style=\"left: 108.661px; top: 240.612px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.972334);\">olanağı verilir. Diğer ifade ile kullanıcı enstantane </span></span><span><span style=\"left: 108.661px; top: 262.279px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.940246);\">hızını seçer ve kamera doğru pozlamayı verecek di</span></span><span><span style=\"left: 108.661px; top: 283.945px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.964912);\">yafram değerini kendisi belirler. Bu mod, özellikle </span></span><span><span style=\"left: 108.661px; top: 305.612px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.926437);\">çekimlerde görünen “hareket netsizliği” miktarını </span></span><span><span style=\"left: 108.661px; top: 327.279px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.985119);\">kontrol etmek istendiğinde kullanışlıdır.</span></span>"
+        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br/><span><span style=\"left: 132.284px; top: 197.279px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.976714);\">Bu modda kullanıcıya enstantane hızını be</span></span><span><span style=\"left: 108.661px; top: 218.945px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.971065);\">lirleme noktasında makine tarafından müdahale </span></span><span><span style=\"left: 108.661px; top: 240.612px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.972334);\">olanağı verilir. Diğer ifade ile kullanıcı enstantane </span></span><span><span style=\"left: 108.661px; top: 262.279px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.940246);\">hızını seçer ve kamera doğru pozlamayı verecek di</span></span><span><span style=\"left: 108.661px; top: 283.945px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.964912);\">yafram değerini kendisi belirler. Bu mod, özellikle </span></span><span><span style=\"left: 108.661px; top: 305.612px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.926437);\">çekimlerde görünen “hareket netsizliği” miktarını </span></span><span><span style=\"left: 108.661px; top: 327.279px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.985119);\">kontrol etmek istendiğinde kullanışlıdır.</span></span>"
     },
     {
         "SoruID": 3353187,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br><span><span style=\"left: 132.284px; top: 1016.24px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.975542);\">Pozlama, bir görüntünün kameranız tarafından </span></span><span><span style=\"left: 108.661px; top: 1037.91px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.973449);\">çekildiğinde ne kadar açık, doygun veya koyu gö</span></span><span><span style=\"left: 108.661px; top: 1059.58px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.957111);\">rüneceğini belirler.</span></span>"
+        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br/><span><span style=\"left: 132.284px; top: 1016.24px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.975542);\">Pozlama, bir görüntünün kameranız tarafından </span></span><span><span style=\"left: 108.661px; top: 1037.91px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.973449);\">çekildiğinde ne kadar açık, doygun veya koyu gö</span></span><span><span style=\"left: 108.661px; top: 1059.58px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.957111);\">rüneceğini belirler.</span></span>"
     },
     {
         "SoruID": 3353188,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br><span><span style=\"left: 493.701px; top: 1025.01px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.976043);\">Diyafram, lenslerde bulunan, açılıp kapanarak </span></span><span><span style=\"left: 493.701px; top: 1046.68px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.911335);\">genişliği değişen bir deliktir ve ışığın kameranıza </span></span><span><span style=\"left: 493.701px; top: 1068.35px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.955746);\">girebileceği alanı kontrol eder.</span></span>"
+        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br/><span><span style=\"left: 493.701px; top: 1025.01px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.976043);\">Diyafram, lenslerde bulunan, açılıp kapanarak </span></span><span><span style=\"left: 493.701px; top: 1046.68px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.911335);\">genişliği değişen bir deliktir ve ışığın kameranıza </span></span><span><span style=\"left: 493.701px; top: 1068.35px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.955746);\">girebileceği alanı kontrol eder.</span></span>"
     },
     {
         "SoruID": 3353189,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br><span><span style=\"left: 493.701px; top: 873.347px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.942357);\"><span><span style=\"left: 493.701px; top: 1068.35px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.955746);\">ISO hızı kameranın</span></span><span><span style=\"left: 493.701px; top: 1090.01px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.947711);\"> sensörünün belirli bir ışık miktarına olan hassa</span></span><span><span style=\"left: 493.701px; top: 1111.68px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.976972);\">siyetini kontrol eder. <br/></span></span></span></span>"
+        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br/><span><span style=\"left: 493.701px; top: 873.347px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.942357);\"><span><span style=\"left: 493.701px; top: 1068.35px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.955746);\">ISO hızı kameranın</span></span><span><span style=\"left: 493.701px; top: 1090.01px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.947711);\"> sensörünün belirli bir ışık miktarına olan hassa</span></span><span><span style=\"left: 493.701px; top: 1111.68px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.976972);\">siyetini kontrol eder. <br/></span></span></span></span>"
     },
     {
         "SoruID": 3353190,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br><span><span style=\"left: 132.284px; top: 819.26px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.970062);\">Hazır sahneleme modları </span></span><span><span style=\"left: 108.662px; top: 840.927px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.938708);\">çekilecek fotoğrafın türüne göre pozlama değerlerinin fotoğraf makinesi tarafından belirlenmesi ile ilgilidir.</span></span>"
+        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br/><span><span style=\"left: 132.284px; top: 819.26px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.970062);\">Hazır sahneleme modları </span></span><span><span style=\"left: 108.662px; top: 840.927px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.938708);\">çekilecek fotoğrafın türüne göre pozlama değerlerinin fotoğraf makinesi tarafından belirlenmesi ile ilgilidir.</span></span>"
     },
     {
         "SoruID": 3353191,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br><span><span style=\"left: 108.661px; top: 740.218px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.925886);\"> Fotografik üçgenin </span></span><span><span style=\"left: 108.661px; top: 761.885px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.956697);\">kalbi ışık ölçümüdür. Her pozlamanın merkezinde, </span></span><span><span style=\"left: 108.661px; top: 783.552px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.940674);\">o ışık kaynağı ne kadar parlak veya loş olursa olsun </span></span><span><span style=\"left: 108.661px; top: 805.218px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.918966);\">herhangi bir ışık kaynağına tepki verecek şekilde </span></span><span><span style=\"left: 108.661px; top: 826.885px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.973388);\">tasarlanmış önceden kalibre edilmiş bir cihaz olan </span></span><span><span style=\"left: 108.661px; top: 848.552px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.942498);\">kameranızın ışık ölçeri bulunur.</span></span>"
+        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br/><span><span style=\"left: 108.661px; top: 740.218px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.925886);\"> Fotografik üçgenin </span></span><span><span style=\"left: 108.661px; top: 761.885px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.956697);\">kalbi ışık ölçümüdür. Her pozlamanın merkezinde, </span></span><span><span style=\"left: 108.661px; top: 783.552px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.940674);\">o ışık kaynağı ne kadar parlak veya loş olursa olsun </span></span><span><span style=\"left: 108.661px; top: 805.218px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.918966);\">herhangi bir ışık kaynağına tepki verecek şekilde </span></span><span><span style=\"left: 108.661px; top: 826.885px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.973388);\">tasarlanmış önceden kalibre edilmiş bir cihaz olan </span></span><span><span style=\"left: 108.661px; top: 848.552px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.942498);\">kameranızın ışık ölçeri bulunur.</span></span>"
     },
     {
         "SoruID": 3353192,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br><span><span style=\"left: 132.284px; top: 1015.84px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.948727);\">Alan derinliği, bir görüntüdeki kabul edilebilir keskinlik alanını ifade eder.</span></span>"
+        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br/><span><span style=\"left: 132.284px; top: 1015.84px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.948727);\">Alan derinliği, bir görüntüdeki kabul edilebilir keskinlik alanını ifade eder.</span></span>"
     },
     {
         "SoruID": 3353193,
@@ -597,6 +597,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br><span><span style=\"left: 503.15px; top: 659.824px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.998888);\">Histogram, kullanıcının sahada bir fotoğraf </span></span><span><span style=\"left: 479.528px; top: 681.49px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.970335);\">çekimi için yapılan pozlamanın doğru olup ol</span></span><span><span style=\"left: 479.528px; top: 703.157px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.91878);\">madığını veya ışık ve gölgenin tüm fotoğraf için </span></span><span><span style=\"left: 479.528px; top: 724.824px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.975024);\">mükemmel bir şekilde dengeli olup olmadığını </span></span><span><span style=\"left: 479.528px; top: 746.49px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.907819);\">anında size söyler.</span></span>"
+        "Aciklama": "Sorunun doğru cevabını belirtilen sayfada bulmanız mümkündür.<br/><span><span style=\"left: 503.15px; top: 659.824px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.998888);\">Histogram, kullanıcının sahada bir fotoğraf </span></span><span><span style=\"left: 479.528px; top: 681.49px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.970335);\">çekimi için yapılan pozlamanın doğru olup ol</span></span><span><span style=\"left: 479.528px; top: 703.157px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.91878);\">madığını veya ışık ve gölgenin tüm fotoğraf için </span></span><span><span style=\"left: 479.528px; top: 724.824px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.975024);\">mükemmel bir şekilde dengeli olup olmadığını </span></span><span><span style=\"left: 479.528px; top: 746.49px; font-size: 18.3333px; font-family: serif; transform: scaleX(0.907819);\">anında size söyler.</span></span>"
     }
 ]

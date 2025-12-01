@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 308269,
-        "SoruMetni": "<strong>I. Arka plan<br/>II. Hiyerarşik yapılandırma<br/>III. Katman<br/>Yukarıdaki seçeneklerden hangisi/hangileri tasarımda vurguyu oluşturan unsurlar arasında gösterilir?</br></br></strong>",
+        "SoruMetni": "<strong>I. Arka plan<br/>II. Hiyerarşik yapılandırma<br/>III. Katman<br/>Yukarıdaki seçeneklerden hangisi/hangileri tasarımda vurguyu oluşturan unsurlar arasında gösterilir?</strong>",
         "A": "Yalnız I",
         "B": "I ve III",
         "C": "Yalnız II",
@@ -281,7 +281,7 @@
     },
     {
         "SoruID": 335169,
-        "SoruMetni": "I. Tasarımcının bilgi birikimine göre şekillenir.<br/>II. Mesajın etkisini zayıflatır.<br/>III. Tasarım sürecine yansıtılmayan kavramlardır.<br/><strong>Yukarıdakilerden hangisi ya da hangileri tasarımda görsel hiyerarşi ve vurguyla ilgilidir?</strong></br></br>",
+        "SoruMetni": "I. Tasarımcının bilgi birikimine göre şekillenir.<br/>II. Mesajın etkisini zayıflatır.<br/>III. Tasarım sürecine yansıtılmayan kavramlardır.<br/><strong>Yukarıdakilerden hangisi ya da hangileri tasarımda görsel hiyerarşi ve vurguyla ilgilidir?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve III",

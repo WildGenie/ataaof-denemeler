@@ -253,7 +253,7 @@
     },
     {
         "SoruID": 403524,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi bir yazı fontudur?</strong><br type=\"_moz\"/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi bir yazı fontudur?</strong>",
         "A": "Garamond",
         "B": "Cheltenham",
         "C": "Arial Regular",

@@ -108,8 +108,7 @@
     - D-) Yazılı kompozisyonun kuralları, daha kalıcıdır.
     - E-) Sözcük seçimi, tüm kompozisyon türlerinde önemlidir.
 
-    > **Açıklama:** Kompozisyon Bilgileri başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 1
+    > **Açıklama:** Kompozisyon Bilgileri başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 1
 
     <hr />
 1. Bana göre modern dünyada varo­luşun karmaşıklığını yakalamak eksiltiye, silmeye, yoğunlaşmaya dayanan bir teknik gerektiriyor. Yoksa sonu gelmeyen bir uzunluğun tuzağına düşersiniz. Niteliksiz Adam benim en çok sevdiğim iki-üç romandan biridir. Ama o tamamlanmamış uçsuz bucaksız genişliğine hay­ran olmamı istemeyin benden. Bir bakışta kucaklayamayacağınız muazzam bir şato düşünün. Dokuz saat süren bir kuartet düşünün. Aşılmaması gereken antropolojik sınırlar vardır, sözgelimi belleğin sınırları. Okumanız bittiğinde başlangıcı hatırlayacak durumda olmalısınız. Yoksa roman şekilsizleşir, "yapısal açıklığı" bulanıklaşır.<br />(Milan Kundera, Kompozisyon Sanatı Üzerine Konuşma)<br />Yukarıdaki sözlü anlatımın konusu, aşağıdakilerden hangisidir?
@@ -119,8 +118,7 @@
     - D-) Milan Kundera’nın Niteliksiz Adam romanını övmesi
     - E-) Milan Kundera’nın antropolojik sınırlara saygı duyması
 
-    > **Açıklama:** Yazılı Kompozisyon Oluşturulması – Konu başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 2
+    > **Açıklama:** Yazılı Kompozisyon Oluşturulması – Konu başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 2
 
     <hr />
 1. Sanatla ilgili sorunlara ilk kez ciddiyetle eğilen Platon’un sanat kuramı tutarlı bir sistem değildi, *lon, Şölen, Devlet, Phaidros, Sofist, Kratylos* ve *Kanunlar* gibi diyaloglarında sanat hakkında bazen birbirini tutmayan fikirlere rastlamamızın bir nedeni de herhalde Platon’un fikirlerini zamanla değiştirmiş olmasıdır. Ne ki biz burada edebiyat ile ilgili görüşlerini inceleyeceğimizden tartışmalara sebep olmuş, müzik, heykel, mimari ile güzellik arasındaki bağlara değinen bazı sorunları bir yana bırakacağız. Bizi ilgilendiren edebiyat olduğu içindir ki bu kitapta Platon’un kuramını, yansıtılanın görüngü dünyası olduğunu ileri süren bir kuram olarak inceliyoruz.<br />(Berna Moran, Edebiyat Kuramları ve Eleştiri)<br />Yukarıdaki alıntı, Edebiyat Kuramları ve Eleştiri kitabının başlangıç sayfalarındandır. Verilen yazılı anlatımın konusu, aşağıdakilerden hangisidir?
@@ -130,8 +128,7 @@
     - D-) Platon’un görüngü dünyası
     - **Cevap E-) Platon’un kitaptaki yeri**
 
-    > **Açıklama:** Yazılı Kompozisyon Oluşturulması – Konu başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 2
+    > **Açıklama:** Yazılı Kompozisyon Oluşturulması – Konu başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 2
 
     <hr />
 1. Ağacını silkmek, Türkçemizin «az ve öz» deyimini karşılar bir bakıma. Düşüncelerin ve duyguların canevine en kestirme yoldan gitmesini bilen koca Yunus şöyle diyor:<br />*Az söz erin yüküdür<br />Çok söz hayvan yüküdür*<br />*Bilene bu söz yeter*<br />*Sende güher var ise.*<br />*(Vedat Günyol, Ağacını Silkmek)*<br />*Yukarıdaki paragrafta aşağıdaki anlatım biçimlerinden hangisi kullanılmıştır?*
@@ -141,8 +138,7 @@
     - D-) *Karşılaştırma*
     - E-) *Tümdengelim*
 
-    > **Açıklama:** *Paragrafta Anlatım Biçimleri başlığı altındaki bilgileri gözden geçiriniz.*
-    > *Amaç 3*
+    > **Açıklama:** *Paragrafta Anlatım Biçimleri başlığı altındaki bilgileri gözden geçiriniz.*<br />*Amaç 3*
 
     <hr />
 1. ***“Devlet» adlı ünlü yapıtında, tiyatro için, «Bu başıboş sanatı devletimizden atmakta haklıydık; aklın gereğine uymak ödevimizdi,» diyen Eflâtun, yaman bir tiyatro düşmanı olarak karşımıza çıkıyor. Gerçi Eflâtun'un bu düşmanlığı, tiyatro teriminin sınırladığı dar bir alanda kalmıyor, bütün taklit sanatlarını, bu arada ve en başta destanları da içine alıyor. Bilindiği gibi, destanlarda ozan hem kendi konuşmakta, hem de ele aldığı kişileri konuşturmaktadır.***<br />***(Melih Cevdet Anday, Gelişen Komedya)***<br />***Yukarıdaki paragrafta aşağıdaki anlatım biçimlerinden hangisi kullanılmıştır?***
@@ -152,8 +148,7 @@
     - D-) *Karşılaştırma*
     - E-) *Tümdengelim*
 
-    > **Açıklama:** *Paragrafta Anlatım Biçimleri başlığı altındaki bilgileri gözden geçiriniz.*
-    > *Amaç 3*
+    > **Açıklama:** *Paragrafta Anlatım Biçimleri başlığı altındaki bilgileri gözden geçiriniz.*<br />*Amaç 3*
 
     <hr />
 1. ***Roman Osmanlı kültürüne 19. yüzyılın son otuz yılında, 1870-1890 yıllan arasında girdi. Roman kuramcılarına göre, romanın Batı’da ortaya çıkışı Batı’nın burjuvalaşmasıyla eş zamanlıdır ve yeni bir ideolojinin (liberalizmin) ve yeni bir epistemolojinin (ampirik pozitivizmin) temel ilkelerini yansıtır. Ayrıca, roman türünün, belki de bütün diğer türlerden daha fazla, döneminin ikonoklastik gerilimlerini taşıdığı kabul edilir.*** ***Ne var ki, yeni bir epistemolojiye yaslanmış olmakla birlikte kültürel değişim amaçlayan toplumsal süreçler içinde ortaya çıkan ve farklı bir düzeydeki gerilimleri ve anakronizmleri sergileyen başka bir roman türü, bu kuramsal incelemelere konu olmamıştır. O da yansıttığı toplumsal gerilimlere rağmen olanca gücüyle eski bir epistemolojiye bağlı olarak ortaya çıkan Türk romanıdır. Yalnız burada çok belirli bir dönemden, 1870-1890 yılları arasında yazılan ilk Türk romanlarının döneminden sözediyoruz.***<br />***(Jale Parla, Babalar ve Oğullar)***<br />***Yukarıdaki paragrafın konusu, aşağıdakilerden hangisidir?***
@@ -163,8 +158,7 @@
     - D-) ***Romanın ortaya çıkışı***
     - E-) ***Roman kuramcıları***
 
-    > **Açıklama:** ***Yazılı Kompozisyon Oluşturulması – Konu başlığı altındaki bilgileri gözden geçiriniz.***
-    > ***Amaç 2***
+    > **Açıklama:** ***Yazılı Kompozisyon Oluşturulması – Konu başlığı altındaki bilgileri gözden geçiriniz.***<br />***Amaç 2***
 
     <hr />
 1. İlk edinilen iletişim becerisi aşağıdakilerden hangisidir?
@@ -174,11 +168,7 @@
     - D-) ***Anlama***
     - **Cevap E-) ***Dinleme*****
 
-    > **Açıklama:** ***Dil Becerileri ve Bilgi Donanımı” başlığı altındaki bilgileri gözden geçiriniz.***
-    > ***Amaç 1***
-    > Yalnızca konuşmaları dinlemeyiz. Anlamsız gelen sesler de dinlenir. Kulaklarınızı tıkamıyorsanız ya da işitme sorununuz yoksa ilk edinilen dil becerisi dinlemedir.
-    > Sorularınız, ders kitabımızda verilen bilgilere göre düzenlenmiştir. (bkz. Bölüm 1, sayfa 5)
-    > Kitaptaki bilgilere güvenmiyorsanız, kitabın yazarlarıyla iletişime geçiniz.
+    > **Açıklama:** ***Dil Becerileri ve Bilgi Donanımı” başlığı altındaki bilgileri gözden geçiriniz.*** <br />***Amaç 1***<br />Yalnızca konuşmaları dinlemeyiz. Anlamsız gelen sesler de dinlenir. Kulaklarınızı tıkamıyorsanız ya da işitme sorununuz yoksa ilk edinilen dil becerisi dinlemedir.<br />Sorularınız, ders kitabımızda verilen bilgilere göre düzenlenmiştir. (bkz. Bölüm 1, sayfa 5)<br />Kitaptaki bilgilere güvenmiyorsanız, kitabın yazarlarıyla iletişime geçiniz.
 
     <hr />
 1. ***Küçük çocuk fiziksel gelişimi doğrultusunda evin içinde bir yerden diğerine gitmeye başlayıp zaman zaman yalnız kalmayı seçtiği ya da tek başına oyun oynamaya başladığı dönemde bir yandan kendi dünyasını yaşarken, diğer yandan annesinin evin neresinde olduğunu aralıklarla kontrol eder. İçgüdüsel güvenlik dürtüsü gereği bunu bilmek ihtiyacındadır. Çağdaş iletişim teknolojisi, günümüzde özellikle iş hayatının hızlı dinamizminde ya da bazı acil durumlarda harikalar yaratıyor, ancak cep telefonlarını neredeyse kendi beden imgelerinin bir parçası durumuna getirmiş olan bir kesim, bu teknolojiyi yalnız olmadıklarına ilişkin güvence aracı haline getirmiş bir halde. "Annem yerinde mi?" tarzı haberleşme ağı sayesinde herkes birbirinin o anda nerede, kimle ne yaptığından haberdar olabiliyor. Bir araya geldiklerinde de birbirleriyle paylaşacak hikâyeleri kalmamış oluyor.***<br />***(Engin Geçtan, Hayat)***<br />***Yukardaki paragrafın ana düşüncesi, aşağıdakilerden hangisidir?***
@@ -188,8 +178,7 @@
     - **Cevap D-) ***Etkili iletişim kurmak zorlaşıyor.*****
     - E-) ***Anında iletişim, güven veriyor.***
 
-    > **Açıklama:** ***Yazılı Kompozisyonun Oluşturulması başlığı altındaki bilgileri gözden geçiriniz.***
-    > ***Amaç 2***
+    > **Açıklama:** ***Yazılı Kompozisyonun Oluşturulması başlığı altındaki bilgileri gözden geçiriniz.***<br />***Amaç 2***
 
     <hr />
 1. Aşağıdakilerden hangisi kompozisyon kelimesinin Latince kökenindeki anlamıdır?
@@ -349,10 +338,7 @@
     - D-) I, II, III ve V
     - E-) I, II, III, IV ve V
 
-    > **Açıklama:** Konunun özelliğine, işlenecek ana düşünce ve yardımcı düşüncelerin niteliğine, kullanılacak örneklere, anlatım biçimine göre kompozisyon yazmada üç tür plan bulunur:
-    > Olaya dayalı plan
-    > Düşünceye dayalı plan
-    > Duyguya dayalı plan
+    > **Açıklama:** Konunun özelliğine, işlenecek ana düşünce ve yardımcı düşüncelerin niteliğine, kullanılacak örneklere, anlatım biçimine göre kompozisyon yazmada üç tür plan bulunur:<br />Olaya dayalı plan<br />Düşünceye dayalı plan<br />Duyguya dayalı plan
 
     <hr />
 1. “*Bir kavramın niteliklerini eksiksiz olarak belirtmek, açıklamak onu …………….’dir/dır.*”<br />Boş bırakılan yere aşağıdaki paragrafta anlatım biçimlerinden hangisinin getirilmesi doğru olur?
@@ -522,8 +508,7 @@
     - **Cevap D-) Biçim**
     - E-) Yazım
 
-    > **Açıklama:** Kullanılan kâğıdın kompozisyon yazmaya uygunluğu, yaklaşık
-    > olarak üstten 6 cm, alttan 2 cm, soldan 3 cm, sağdan 1 cm boşluk bırakılması biçimsel açıdan açıklanan bir özelliktir. Doğru cevap D seçeneğidir.
+    > **Açıklama:** Kullanılan kâğıdın kompozisyon yazmaya uygunluğu, yaklaşık<br />olarak üstten 6 cm, alttan 2 cm, soldan 3 cm, sağdan 1 cm boşluk bırakılması biçimsel açıdan açıklanan bir özelliktir. Doğru cevap D seçeneğidir.
 
     <hr />
 1. "Çeşitli bilim dallarında parçaların bütünü oluşturacak bir düzende bir araya getirilmesi" anlamını taşıyan kavram aşağıdakilerden hangisidir?
@@ -593,8 +578,7 @@
     - D-) I, II ve III
     - **Cevap E-) I, II, III ve IV**
 
-    > **Açıklama:** Sözlü kompozisyonun değişebilirliğine, esnekliğine karşın yazılı kompozisyon daha değişmez ve durağandır. Bu yönüyle daha kuralcı ve daha düzenli, üzerinde düşünülüp oluşturulan bir anlatımdır, diyebiliriz. Okur, yazılı bir metni tekrar tekrar okuyabilir; ancak yazar, okurun tepkisini hemen göremez. Buna karşılık sözlü kompozisyonda etkileşim söz konusu olduğu için konuşan, dinleyenlerin tepkilerini anında alabilir ve kendini daha doğru ifade etme yollarını çeşitlendirebilir.
-    > Doğru cevap E'dir.
+    > **Açıklama:** Sözlü kompozisyonun değişebilirliğine, esnekliğine karşın yazılı kompozisyon daha değişmez ve durağandır. Bu yönüyle daha kuralcı ve daha düzenli, üzerinde düşünülüp oluşturulan bir anlatımdır, diyebiliriz. Okur, yazılı bir metni tekrar tekrar okuyabilir; ancak yazar, okurun tepkisini hemen göremez. Buna karşılık sözlü kompozisyonda etkileşim söz konusu olduğu için konuşan, dinleyenlerin tepkilerini anında alabilir ve kendini daha doğru ifade etme yollarını çeşitlendirebilir.<br />Doğru cevap E'dir.
 
     <hr />
 1. I. Sözcük anlamı olarak farklı parçaların bir araya getirilmesiyle oluşturulan bütünü ifade eder.<br />II. Dilimize Fransızcadan geçmiştir.<br />III.“Bir araya getirmek, birleştirmek, inşa etmek” anlamındaki componere sözünden gelişen compositio(n-) sözcüğünün kökeni Latincedir.<br />IV.Türkçe'de dar anlamda ise “öğrencilere duygu ve düşüncelerini etkili ve düzgün bir biçimde anlatmaları için yaptırılan yazılı veya sözlü çalışma” karşılıklarındadır.<br />Kompozisyon sözcüğü ile ilgili yukarıdakilerden hangileri doğrudur?
@@ -604,8 +588,7 @@
     - D-) I,II ve III
     - **Cevap E-) I, II, III ve IV**
 
-    > **Açıklama:** Derslerdeki yazma çalışmasıyla dar bir tanıma sığdırdığımız kompozisyon, aslında sözcük anlamı olarak farklı parçaların bir araya getirilmesiyle oluşturulan bütünü ifade eder. Dilimize Fransızcadan geçen kompozisyon sözünün kökeni Latinceye dayanmaktadır. Latincede “bir araya getirmek, birleştirmek, inşa etmek” anlamındaki componere sözünden gelişen compositio(n-) eski Fransızcaya geçmiştir (Chantrell, 2002: 109). Composition sözü Fransızcada “bileşim, beste” gibi anlamlarda kullanılırken Türkçede geniş anlamda “ayrı ayrı parçaları bir araya getirerek bir bütün oluşturma biçimi ve işi”, dar anlamda ise “öğrencilere duygu ve düşüncelerini etkili ve düzgün bir biçimde anlatmaları için yaptırılan yazılı veya sözlü çalışma” karşılıklarındadır (TDK, 2011a: 1468).
-    > Doğru cevap E'dir.
+    > **Açıklama:** Derslerdeki yazma çalışmasıyla dar bir tanıma sığdırdığımız kompozisyon, aslında sözcük anlamı olarak farklı parçaların bir araya getirilmesiyle oluşturulan bütünü ifade eder. Dilimize Fransızcadan geçen kompozisyon sözünün kökeni Latinceye dayanmaktadır. Latincede “bir araya getirmek, birleştirmek, inşa etmek” anlamındaki componere sözünden gelişen compositio(n-) eski Fransızcaya geçmiştir (Chantrell, 2002: 109). Composition sözü Fransızcada “bileşim, beste” gibi anlamlarda kullanılırken Türkçede geniş anlamda “ayrı ayrı parçaları bir araya getirerek bir bütün oluşturma biçimi ve işi”, dar anlamda ise “öğrencilere duygu ve düşüncelerini etkili ve düzgün bir biçimde anlatmaları için yaptırılan yazılı veya sözlü çalışma” karşılıklarındadır (TDK, 2011a: 1468).<br />Doğru cevap E'dir.
 
     <hr />
 1. I. Türkiye’de işsizlik sorunu<br />II. Atıkların yol açtığı çevre felaketleri<br />III. Trafik kazalarının ülke ekonomisine zararları<br />IV. Bilinçsizce televizyon izlemenin çocukların yetişmesindeki olumsuz etkileri<br />Yukarıdakilerden hangisi ya da hangileri kompozisyon konusu olabilir?
@@ -615,8 +598,7 @@
     - D-) I, II ve III
     - **Cevap E-) I, II, III ve IV**
 
-    > **Açıklama:** Olgular, veriler, sorunlar da kompozisyonun konusunu oluşturabilir. Örneğin son birkaç yılın verileri göz önünde bulundurularak Türkiye’de işsizlik sorunu, atıkların yol açtığı çevre felaketleri, trafik kazalarının ülke ekonomisine zararları, bilinçsizce televizyon izlemenin çocukların yetişmesindeki olumsuz etkileri gibi hemen her konu kompozisyonun konusu olabilir.
-    > Doğru cevap E'dir.
+    > **Açıklama:** Olgular, veriler, sorunlar da kompozisyonun konusunu oluşturabilir. Örneğin son birkaç yılın verileri göz önünde bulundurularak Türkiye’de işsizlik sorunu, atıkların yol açtığı çevre felaketleri, trafik kazalarının ülke ekonomisine zararları, bilinçsizce televizyon izlemenin çocukların yetişmesindeki olumsuz etkileri gibi hemen her konu kompozisyonun konusu olabilir.<br />Doğru cevap E'dir.
 
     <hr />
 1. I. Yardımcı düşünce, yazarın iletmek istediği temel düşünceyi destekleyen yan düşüncelerdir.<br />II. Ne kadar çok ana düşünce varsa o kadar çok yardımcı düşünce olmalıdır.<br />III. Yardımcı düşünceler, ana düşünceyi desteklediği oranda değerlidir.<br />IV. Konu yazarın bir sorunu, bir düşünceyi, bir bilgiyi yakalayıp sorgulamasıyla ortaya çıkardığı malzemedir.<br />V. Ana düşünce yazarın kompozisyonda yaptığı sorgulamanın yanıtıdır.<br />Kompozisyon unsurları ile ilgili yukarıdakilerden hangileri söylenebilir?
@@ -626,9 +608,7 @@
     - D-) I, II, IV ve V
     - E-) I, II, III, IV ve V
 
-    > **Açıklama:** Yardımcı düşünce, yazarın iletmek istediği temel düşünceyi destekleyen yan düşüncelerdir. Ana düşünce tek iken yardımcı düşünce birden çoktur. Yardımcı düşünceler, ana düşünceyi desteklediği oranda değerlidir.
-    > Konu yazarın bir sorunu, bir düşünceyi, bir bilgiyi yakalayıp sorgulamasıyla ortaya çıkardığı malzemedir; ana düşünce ise bu sorgulamanın yanıtıdır.
-    > Doğru cevap A'dır.
+    > **Açıklama:** Yardımcı düşünce, yazarın iletmek istediği temel düşünceyi destekleyen yan düşüncelerdir. Ana düşünce tek iken yardımcı düşünce birden çoktur. Yardımcı düşünceler, ana düşünceyi desteklediği oranda değerlidir.<br />Konu yazarın bir sorunu, bir düşünceyi, bir bilgiyi yakalayıp sorgulamasıyla ortaya çıkardığı malzemedir; ana düşünce ise bu sorgulamanın yanıtıdır.<br />Doğru cevap A'dır.
 
     <hr />
 1. Kompozisyonda plan ile ilgili aşağıdakilerden hangisi söylenemez?
@@ -638,15 +618,7 @@
     - **Cevap D-) Bir veya birkaç olayı konu edinen yazılı anlatım türlerinde duyguya dayalı plan uygulanır.**
     - E-) Bakış açısının egemen olduğu, düşüncelerin işlendiği, kavramların ve sorunların tartışıldığı yazılarda düşünceye dayalı plan uygulanır
 
-    > **Açıklama:** Fransızcadan alıntı olan plan “bir işin, bir eserin gerçekleştirilmesi için uyulması tasarlanan düzen” anlamındadır. (TDK, 2011a: 1932). Kompozisyonda plan, konunun nasıl ve ne ölçüde işleneceğinin; görüşlerin, düşüncelerin hangi sırayla ele alınacağının adımlarıdır.Plan, yazar için yazmayı kolaylaştırdığı gibi, okur için de okumayı kolaylaştırır ve okur ile düşünce bağının tez kurulmasını sağlar.
-    > Konunun özelliğine, işlenecek ana düşünce ve yardımcı düşüncelerin niteliğine, kullanılacak örneklere, anlatım biçimine göre kompozisyon yazmada üç tür plan uygulanabilir:
-    > • Olaya dayalı plan
-    > • Düşünceye dayalı plan
-    > • Duyguya dayalı plan
-    > Bir veya birkaç olayı konu edinen yazılı anlatım türlerinde olaya dayalı plan uygulanır. Bu tür planlarda olaylar, gerçekleşme anına ve sebep sonuç ilişkisine göre yazı içerisinde değerlendirilir.
-    > Bakış açısının egemen olduğu, düşüncelerin işlendiği, kavramların ve sorunların tartışıldığı yazılarda düşünceye dayalı plan uygulanır.
-    > Belirli nesne, olay veya bireylerin iç dünyamızda uyandırdığı izlenimlerin, heyecanların egemen olduğu, betimlemelerimizin yer aldığı yazılar duyguya dayalı plan ile yazılır.
-    > Doğru cevap D'dir.
+    > **Açıklama:** Fransızcadan alıntı olan plan “bir işin, bir eserin gerçekleştirilmesi için uyulması tasarlanan düzen” anlamındadır. (TDK, 2011a: 1932). Kompozisyonda plan, konunun nasıl ve ne ölçüde işleneceğinin; görüşlerin, düşüncelerin hangi sırayla ele alınacağının adımlarıdır.Plan, yazar için yazmayı kolaylaştırdığı gibi, okur için de okumayı kolaylaştırır ve okur ile düşünce bağının tez kurulmasını sağlar.<br />Konunun özelliğine, işlenecek ana düşünce ve yardımcı düşüncelerin niteliğine, kullanılacak örneklere, anlatım biçimine göre kompozisyon yazmada üç tür plan uygulanabilir:<br />• Olaya dayalı plan<br />• Düşünceye dayalı plan<br />• Duyguya dayalı plan<br />Bir veya birkaç olayı konu edinen yazılı anlatım türlerinde olaya dayalı plan uygulanır. Bu tür planlarda olaylar, gerçekleşme anına ve sebep sonuç ilişkisine göre yazı içerisinde değerlendirilir.<br />Bakış açısının egemen olduğu, düşüncelerin işlendiği, kavramların ve sorunların tartışıldığı yazılarda düşünceye dayalı plan uygulanır.<br />Belirli nesne, olay veya bireylerin iç dünyamızda uyandırdığı izlenimlerin, heyecanların egemen olduğu, betimlemelerimizin yer aldığı yazılar duyguya dayalı plan ile yazılır.<br />Doğru cevap D'dir.
 
     <hr />
 1. Aşağıdakilerden hangisi düşünceye dayalı planın uygulandığı bir metindir?
@@ -656,9 +628,7 @@
     - D-) Öykü
     - E-) Tiyatro oyunu
 
-    > **Açıklama:** Bir veya birkaç olayı konu edinen yazılı anlatım türlerinde olaya dayalı plan uygulanır. Genellikle öykü, roman, tiyatro eseri gibi sanatsal yazıların hazırlanmasında olaya dayalı plan uygulanır.
-    > Bakış açısının egemen olduğu, düşüncelerin işlendiği, kavramların ve sorunların tartışıldığı yazılarda düşünceye dayalı plan uygulanır. Makale, konferans, araştırma gibi bilgilendirici metinlerin hazırlanmasında düşünceye dayalı plan uygulanır.
-    > Doğru cevap A'dır.
+    > **Açıklama:** Bir veya birkaç olayı konu edinen yazılı anlatım türlerinde olaya dayalı plan uygulanır. Genellikle öykü, roman, tiyatro eseri gibi sanatsal yazıların hazırlanmasında olaya dayalı plan uygulanır.<br />Bakış açısının egemen olduğu, düşüncelerin işlendiği, kavramların ve sorunların tartışıldığı yazılarda düşünceye dayalı plan uygulanır. Makale, konferans, araştırma gibi bilgilendirici metinlerin hazırlanmasında düşünceye dayalı plan uygulanır.<br />Doğru cevap A'dır.
 
     <hr />
 1. I. Bir paragrafın uzunluğu açıklanan bilgiyi, anlatılan olayı, betimlenen varlığı, savunulan düşünceyi, açık seçik kapsayacak kadardır.<br />II. Paragraf uzunluğunun ölçüsü, okurun ilgisini canlı tutacak kadar kısa; savunduğu düşünceyi açıklayacak kadar uzun olmalıdır.<br />III.Parafta genellikle konu ilk cümlede, ana düşünce son cümlede, yardımcı düşünceler gelişme cümlelerinde bulunur.<br />IV. Paragraflandırma, düşünceleri belirli kılar, düşünceler arasında bağ kurar ve okumayı kolaylaştırır.<br />V. Paragraflar birden fazla cümleden oluşmak zorundadır.<br />Paragraflarla ilgili yukarıdakilerden hangileri söylenebilir?
@@ -668,8 +638,7 @@
     - D-) I, II, III ve V
     - E-) I, II, III, IV ve V
 
-    > **Açıklama:** Bir paragrafın uzunluğu açıklanan bilgiyi, anlatılan olayı, betimlenen varlığı, savunulan düşünceyi, açık seçik kapsayacak kadardır. Paragraf uzunluğunun ölçüsü, okurun ilgisini canlı tutacak kadar kısa; savunduğu düşünceyi açıklayacak kadar uzun olmalıdır. Parafta genellikle konu ilk cümlede, ana düşünce son cümlede, yardımcı düşünceler gelişme cümlelerinde bulunur. Bu genellemenin dışında kalan paragraflarda konu, ana düşünce, yardımcı düşünceler paragrafın değişik cümlelerinde de bulunabilir.
-    > Paragraflandırma, düşünceleri belirli kılar, düşünceler arasında bağ kurar ve okumayı kolaylaştırır.
+    > **Açıklama:** Bir paragrafın uzunluğu açıklanan bilgiyi, anlatılan olayı, betimlenen varlığı, savunulan düşünceyi, açık seçik kapsayacak kadardır. Paragraf uzunluğunun ölçüsü, okurun ilgisini canlı tutacak kadar kısa; savunduğu düşünceyi açıklayacak kadar uzun olmalıdır. Parafta genellikle konu ilk cümlede, ana düşünce son cümlede, yardımcı düşünceler gelişme cümlelerinde bulunur. Bu genellemenin dışında kalan paragraflarda konu, ana düşünce, yardımcı düşünceler paragrafın değişik cümlelerinde de bulunabilir.<br />Paragraflandırma, düşünceleri belirli kılar, düşünceler arasında bağ kurar ve okumayı kolaylaştırır.
 
     <hr />
 1. "Bir iddianın gerçekliğini inkâr edilmeyecek bir kesinlikle göstermek, ispatlamaktır"<br />Yukarıdaki tanım hangi anlatım biçimini ifade eder?
@@ -679,12 +648,7 @@
     - D-) Tanımlamak
     - E-) Kıyaslamak
 
-    > **Açıklama:** Bir kavramın niteliklerini eksiksiz olarak belirtmek, açıklamak onu tanımlamaktır.
-    > Konuyu daha ayrıntılı bir biçimde anlatmanın bir yolu da örneklendirmedir.
-    > Karşılaştırma kişilerin, nesnelerin, olayların ve olguların benzer veya ayrı yanlarını incelemek için yapılan kıyaslamadır.
-    > Tanıklama, anlatılanlara somutluk kazandırmak için başkalarının düşüncelerinden, sözlerinden yararlanmadır. Tanık göstermek olarak da adlandırılır.
-    > Tanıtlamak, bir iddianın gerçekliğini inkâr edilmeyecek bir kesinlikle göstermek, ispatlamaktır.
-    > Doğru cevap B'dir.
+    > **Açıklama:** Bir kavramın niteliklerini eksiksiz olarak belirtmek, açıklamak onu tanımlamaktır.<br />Konuyu daha ayrıntılı bir biçimde anlatmanın bir yolu da örneklendirmedir.<br />Karşılaştırma kişilerin, nesnelerin, olayların ve olguların benzer veya ayrı yanlarını incelemek için yapılan kıyaslamadır.<br />Tanıklama, anlatılanlara somutluk kazandırmak için başkalarının düşüncelerinden, sözlerinden yararlanmadır. Tanık göstermek olarak da adlandırılır.<br />Tanıtlamak, bir iddianın gerçekliğini inkâr edilmeyecek bir kesinlikle göstermek, ispatlamaktır.<br />Doğru cevap B'dir.
 
     <hr />
 1. Kompozisyon yazarken üstten kaç santim boşluk bırakılması önerilir?
@@ -784,9 +748,7 @@
     - D-) Sözlü kompozisyonda tepki hemen görülebilir.
     - E-) Sözlü kompozisyonda etkileşim fazladır.
 
-    > **Açıklama:** Sözlü kompozisyonun değişebilirliğine, esnekliğine karşın yazılı kompozisyon
-    > daha değişmez ve durağandır. Bu yönüyle daha kuralcı ve daha düzenli, üzerinde
-    > düşünülüp oluşturulan bir anlatımdır, diyebiliriz. Okur, yazılı bir metni tekrar tekrar okuyabilir; ancak yazar, okurun tepkisini hemen göremez. Buna karşılık sözlü kompozisyonda etkileşim söz konusu olduğu için konuşan, dinleyenlerin tepkilerini anında alabilir ve kendini daha doğru ifade etme yollarını çeşitlendirebilir.
+    > **Açıklama:** Sözlü kompozisyonun değişebilirliğine, esnekliğine karşın yazılı kompozisyon<br />daha değişmez ve durağandır. Bu yönüyle daha kuralcı ve daha düzenli, üzerinde<br />düşünülüp oluşturulan bir anlatımdır, diyebiliriz. Okur, yazılı bir metni tekrar tekrar okuyabilir; ancak yazar, okurun tepkisini hemen göremez. Buna karşılık sözlü kompozisyonda etkileşim söz konusu olduğu için konuşan, dinleyenlerin tepkilerini anında alabilir ve kendini daha doğru ifade etme yollarını çeşitlendirebilir.
 
     <hr />
 1. Dil becerisini geliştiren en önemli etkinlik nedir?
@@ -796,8 +758,7 @@
     - D-) Dinleme
     - E-) Anlama
 
-    > **Açıklama:** Dil becerisini geliştiren en önemli etkinlik okumadır. Yazıyı öğrenmekle başlayan okuma sürecinde binlerce sözcükle karşılaşan kişinin bir yandan söz varlığı
-    > genişlerken bir yandan da kişi, anlatım gücüne vâkıf olur.
+    > **Açıklama:** Dil becerisini geliştiren en önemli etkinlik okumadır. Yazıyı öğrenmekle başlayan okuma sürecinde binlerce sözcükle karşılaşan kişinin bir yandan söz varlığı<br />genişlerken bir yandan da kişi, anlatım gücüne vâkıf olur.
 
     <hr />
 1. Yazarın iletmek istediği temel düşünceye ne ad verilir?
@@ -817,12 +778,7 @@
     - **Cevap D-) Duyguya dayalı plan**
     - E-) Analizlere dayalı plan
 
-    > **Açıklama:** Konunun özelliğine, işlenecek ana düşünce ve yardımcı düşüncelerin niteliğine,
-    > kullanılacak örneklere, anlatım biçimine göre kompozisyon yazmada üç tür plan
-    > uygulanabilir:
-    > • Olaya dayalı plan
-    > • Düşünceye dayalı plan
-    > • Duyguya dayalı plan
+    > **Açıklama:** Konunun özelliğine, işlenecek ana düşünce ve yardımcı düşüncelerin niteliğine,<br />kullanılacak örneklere, anlatım biçimine göre kompozisyon yazmada üç tür plan<br />uygulanabilir:<br />• Olaya dayalı plan<br />• Düşünceye dayalı plan<br />• Duyguya dayalı plan
 
     <hr />
 1. Bir duyguyu, düşünceyi, bilgiyi, dileği, öneriyi, ya da olayı, olaydan alınmış bir kesiti yalnız bir yönüyle tam olarak çözümleyen, açıklayan, tartışan, öyküleyen, betimleyen cümleler bütününe ne ad verilir?
@@ -852,9 +808,7 @@
     - D-) Tanıklama
     - E-) Tanıtlama
 
-    > **Açıklama:** Aşağıdaki paragrafta Mehmet Kaplan kültür sözünün tanımını yaparak söze girmekte, kültürlü insan ve kültürlü millet kavramlarını tanımlayarak okuyucuyu
-    > bir düşünceye ulaştırmaktadır (TDK, 2011b: 235).
-    > Kültür kelimesi Latince “ekin ekmek” manasına gelirmiş. Mikrop cinsinden canlı bir varlığın muayyen bir ortam içinde çoğalmasına da kültür denilir. Bir ferdin veya bir milletin manevi kıymetlerini işlemesi, çoğaltması ve geliştirmesi de kültür adını alır. Kültürlü bir insan birçok şeyleri okumuş, düşünmüş ve iyice sindirmiş bir insandır. Kültürlü bir millet, maddi ve manevi imkânlarını geliştirmiş, iptidailikten yüksek bir medeniyet seviyesine ulaşmış olan millettir. İster toprak gibi maddi, ister ilim ve sanat gibi manevi olsun, işlenen ve geliştirilen her şey “kültür” adı altında toplanabilir.
+    > **Açıklama:** Aşağıdaki paragrafta Mehmet Kaplan kültür sözünün tanımını yaparak söze girmekte, kültürlü insan ve kültürlü millet kavramlarını tanımlayarak okuyucuyu<br />bir düşünceye ulaştırmaktadır (TDK, 2011b: 235).<br />Kültür kelimesi Latince “ekin ekmek” manasına gelirmiş. Mikrop cinsinden canlı bir varlığın muayyen bir ortam içinde çoğalmasına da kültür denilir. Bir ferdin veya bir milletin manevi kıymetlerini işlemesi, çoğaltması ve geliştirmesi de kültür adını alır. Kültürlü bir insan birçok şeyleri okumuş, düşünmüş ve iyice sindirmiş bir insandır. Kültürlü bir millet, maddi ve manevi imkânlarını geliştirmiş, iptidailikten yüksek bir medeniyet seviyesine ulaşmış olan millettir. İster toprak gibi maddi, ister ilim ve sanat gibi manevi olsun, işlenen ve geliştirilen her şey “kültür” adı altında toplanabilir.
 
     <hr />
 1. Hint-Avrupa ailesindeki dillerden başkalık gösteren niteliğiyle Türkçe, akrabalık<br />bağlarını anlatan sözcüklere geldiğimizde yine ayrıntılı anlatımla kendine özgü bir<br />görünümle karşımıza çıkar. Örneğin Türkçede “baldız”, “elti”, “görümce” ve “yenge” ayrı ayrı kavramlar oluştururken Hint-Avrupa dil ailesinde tek bir göstergeyle dile getirilir. Sırasıyla, Fransızcada belle-soeur, İngilizcede sister-in-law, Almancada Schwägerin. Bu durumun daha başka örneklerini gösterebiliriz.<br />Paragrafta hangi anlatım biçimi kullanılmıştır?
@@ -864,11 +818,7 @@
     - D-) Örneklendirme
     - E-) Tanıtlama
 
-    > **Açıklama:** Aşağıdaki örnekte Doğan Aksan, Türkçedeki akrabalık adlarının zenginliğini
-    > diğer dillerle karşılaştırma yaparak vermiştir
-    > Hint-Avrupa ailesindeki dillerden başkalık gösteren niteliğiyle Türkçe, akrabalık
-    > bağlarını anlatan sözcüklere geldiğimizde yine ayrıntılı anlatımla kendine özgü bir
-    > görünümle karşımıza çıkar. Örneğin Türkçede “baldız”, “elti”, “görümce” ve “yenge” ayrı ayrı kavramlar oluştururken Hint-Avrupa dil ailesinde tek bir göstergeyle dile getirilir. Sırasıyla, Fransızcada belle-soeur, İngilizcede sister-in-law, Almancada Schwägerin. Bu durumun daha başka örneklerini gösterebiliriz.
+    > **Açıklama:** Aşağıdaki örnekte Doğan Aksan, Türkçedeki akrabalık adlarının zenginliğini<br />diğer dillerle karşılaştırma yaparak vermiştir<br />Hint-Avrupa ailesindeki dillerden başkalık gösteren niteliğiyle Türkçe, akrabalık<br />bağlarını anlatan sözcüklere geldiğimizde yine ayrıntılı anlatımla kendine özgü bir<br />görünümle karşımıza çıkar. Örneğin Türkçede “baldız”, “elti”, “görümce” ve “yenge” ayrı ayrı kavramlar oluştururken Hint-Avrupa dil ailesinde tek bir göstergeyle dile getirilir. Sırasıyla, Fransızcada belle-soeur, İngilizcede sister-in-law, Almancada Schwägerin. Bu durumun daha başka örneklerini gösterebiliriz.
 
     <hr />
 1. Anlatılanlara somutluk kazandırmak için başkalarının düşüncelerinden yararlanmaya ne ad verilir?
@@ -888,9 +838,7 @@
     - D-) Örneklendirme
     - **Cevap E-) Tanıtlama**
 
-    > **Açıklama:** Bir düşüncenin gerçekliğini yadsınamayacak bir kesinlikle göstermek anlamında
-    > olan tanıtlama, yazıda sayısal verilerin, istatistiklerin, göstergelerin, tahminlerin
-    > tanıt olarak kullanılmasıdır. İleri sürdüğümüz düşüncelerin birtakım verilerle tanıtlanması gerekebilir.
+    > **Açıklama:** Bir düşüncenin gerçekliğini yadsınamayacak bir kesinlikle göstermek anlamında<br />olan tanıtlama, yazıda sayısal verilerin, istatistiklerin, göstergelerin, tahminlerin<br />tanıt olarak kullanılmasıdır. İleri sürdüğümüz düşüncelerin birtakım verilerle tanıtlanması gerekebilir.
 
     <hr />
 1. Konuşmada, yazıda, eserde ele alınan düşünce, olay veya duruma ne denir?
@@ -990,8 +938,7 @@
     - D-) Tanıtlama
     - E-) Tanıklama
 
-    > **Açıklama:** Kurtuluş Savaşı, Türk ulusunun var olma mücadelesidir. Halide Edip Adıvar "Türkün Ateşle İmtihanı" adlı romanında bu mücadelenin nasıl kazanıldığını çok çarpıcı bir şekilde anlatmıştır.
-    > Bu paragrafta Adıvar'ın eseri örnek olarak gösterildiği için "örnekleme" anlatım biçimine başvurulmuştur. Doğru yanıt: B'dir.
+    > **Açıklama:** Kurtuluş Savaşı, Türk ulusunun var olma mücadelesidir. Halide Edip Adıvar "Türkün Ateşle İmtihanı" adlı romanında bu mücadelenin nasıl kazanıldığını çok çarpıcı bir şekilde anlatmıştır.<br />Bu paragrafta Adıvar'ın eseri örnek olarak gösterildiği için "örnekleme" anlatım biçimine başvurulmuştur. Doğru yanıt: B'dir.
 
     <hr />
 1. Kompozisyonla ilgili aşağıdaki ifadelerden hangisi yanlış bilgi içermektedir?
@@ -1101,8 +1048,7 @@
     - D-) Sözün vurgu ve ton gibi özelliklerini belirtir
     - **Cevap E-) Metnin hızlı okunmasını sağlar**
 
-    > **Açıklama:** Kompozisyonla ilgili genel bilgileri açıklayabileceksiniz.
-    > Konuşmanın inceliklerini yazıya aktarmak ve verilen iletiyi eksiksiz ve doğru olarak okura ulaştırabilmek için yazılı anlatımda birtakım işaretlere gereksinim duyulur. Yazılı anlatımda okumayı ve anlamayı kolaylaştıran, yazarın okura aktarmak istediği düşünce ya da duygunun doğru ulaşmasına yardımcı olan, sözün vurgu ve ton gibi özelliklerini belirten bu işaretlere noktalama işaretleri denir.
+    > **Açıklama:** Kompozisyonla ilgili genel bilgileri açıklayabileceksiniz.<br />Konuşmanın inceliklerini yazıya aktarmak ve verilen iletiyi eksiksiz ve doğru olarak okura ulaştırabilmek için yazılı anlatımda birtakım işaretlere gereksinim duyulur. Yazılı anlatımda okumayı ve anlamayı kolaylaştıran, yazarın okura aktarmak istediği düşünce ya da duygunun doğru ulaşmasına yardımcı olan, sözün vurgu ve ton gibi özelliklerini belirten bu işaretlere noktalama işaretleri denir.
 
     <hr />
 1. Hangi yazar noktalama işaretlerini ilk defa bir tiyatro eserinde kullanmıştır?
@@ -1112,8 +1058,7 @@
     - D-) Teodor Kasap
     - E-) Ahmed Vefik Paşa
 
-    > **Açıklama:** Kompozisyonla ilgili genel bilgileri açıklayabileceksiniz.
-    > Günümüzde kullandığımız noktalama işaretlerinin birçoğu, yazı dilimize Batı’dan, Tanzimat döneminde geçmiştir. Bu işaretleri bizde ilk olarak Şinasi, Şair Evlenmesi (1859) adlı tiyatro eserinde kullanmıştır. Bilindiği gibi bu eser, aynı zamanda basılı ilk Türkçe tiyatro eseri olma özelliği taşımaktadır.
+    > **Açıklama:** Kompozisyonla ilgili genel bilgileri açıklayabileceksiniz.<br />Günümüzde kullandığımız noktalama işaretlerinin birçoğu, yazı dilimize Batı’dan, Tanzimat döneminde geçmiştir. Bu işaretleri bizde ilk olarak Şinasi, Şair Evlenmesi (1859) adlı tiyatro eserinde kullanmıştır. Bilindiği gibi bu eser, aynı zamanda basılı ilk Türkçe tiyatro eseri olma özelliği taşımaktadır.
 
     <hr />
 1. **Sigara**nın vücuda zararları sayılamayacak kadar çoktur. Sigara dumanı, çoğu toksik ve kanserojen olan 4800'den fazla farklı madde içerir. Dumanın solunması halinde, bu toksinler akciğerler tarafından emilir ve vücuda dağılır. Sigara içmek, kardiyovasküler hastalıklar, kronik solunum sistemi hastalıkları, kanser ve tip 2 diyabet gibi kronik bulaşıcı olmayan hastalıklar için en önemli risk faktörlerinden biridir. Tütün kullanımı sadece solunum sistemi hastalıkları, kardiyovasküler hastalıklar veya kanser riskini arttırmaz. Kanın oksijen taşıma kapasitesini düşürerek ve damar yapısını bozarak vücuttaki tüm organ ve dokulara zarar verir.<br />**Bu paragrafta düşünceyi geliştirmek için aşağıdaki anlatım biçimlerinden hangisinden yararlanılmıştır?**
@@ -1144,9 +1089,7 @@
     - D-) Okumayı kolaylaştırır.
     - E-) Anlamayı kolaylaştırır.
 
-    > **Açıklama:** Yazılı anlatımda okumayı ve anlamayı kolaylaştıran, yazarın okura aktarmak istediği düşünce ya da duygunun doğru ulaşmasına yardımcı olan, sözün
-    > vurgu ve ton gibi özelliklerini belirten bu işaretlere noktalama işaretleri denir.
-    > Sözün hangi bölgeye ait olduğunu gösterir.
+    > **Açıklama:** Yazılı anlatımda okumayı ve anlamayı kolaylaştıran, yazarın okura aktarmak istediği düşünce ya da duygunun doğru ulaşmasına yardımcı olan, sözün<br />vurgu ve ton gibi özelliklerini belirten bu işaretlere noktalama işaretleri denir.<br />Sözün hangi bölgeye ait olduğunu gösterir.
 
     <hr />
 1. Bugün dünyada çoğunlukla kullanılan noktalama işaretleri aşağıdakilerden hangisidir?
@@ -1166,8 +1109,7 @@
     - D-) 20
     - E-) 10
 
-    > **Açıklama:** Günümüz Türk yazı dilinde elli kadar noktalama işareti kullanılmaktadır.
-    > 50
+    > **Açıklama:** Günümüz Türk yazı dilinde elli kadar noktalama işareti kullanılmaktadır.<br />50
 
     <hr />
 1. Nokta işaretinin kullanımı ile ilgili olarak aşağıdakilerden hangisi yanlıştır.
@@ -1177,8 +1119,7 @@
     - D-) Kimi kısaltmalarda kullanılır.
     - E-) Rakamlardan sonra konursa sıra sayı sıfatlarını türetir
 
-    > **Açıklama:** Cümlede kelime öbeklerini belirginleştirmek için virgül kullanılır.
-    > Cümlede kelime öbeklerini belirginleştirmek için kullanılır.
+    > **Açıklama:** Cümlede kelime öbeklerini belirginleştirmek için virgül kullanılır.<br />Cümlede kelime öbeklerini belirginleştirmek için kullanılır.
 
     <hr />
 1. Noktalı virgül işaretinin kullanımı ile ilgili olarak aşağıdakilerden hangisi yanlıştır.
@@ -1188,8 +1129,7 @@
     - D-) Bir cümlede virgüllerle ayrılan kelimeler veya kelime öbekleri kendi içinde gruplanabiliyorsa bunlar da birbirinden noktalı virgülle ayrılır.
     - E-) Sıralı cümleyi oluşturan cümleler, virgülle ayrılıyor ve kendi aralarında gruplanabiliyorsa bu gruplar birbirinden noktalı virgülle ayrılır.
 
-    > **Açıklama:** Rakamların yazımında kesirleri göstermek için virgül kullanılır.
-    > Rakamların yazımında kesirleri göstermek için kullanılır.
+    > **Açıklama:** Rakamların yazımında kesirleri göstermek için virgül kullanılır.<br />Rakamların yazımında kesirleri göstermek için kullanılır.
 
     <hr />
 1. Aşağıdakilerden hangisi üç nokta işaretinin kullanımı ile ilgilidir?
@@ -1199,8 +1139,7 @@
     - D-) Cümleden sonra, cümle ilgili yapılacak açıklamadan önce kullanılır.
     - E-) Cümleyle doğrudan ilgisi olmayan açıklamaların başına ve sonuna konur.
 
-    > **Açıklama:** Ünlem ve soru işaretinden sonra anlatımı pekiştirmek için üç nokta konur.
-    > Ünlem ve soru işaretinden sonra anlatımı pekiştirmek için konur.
+    > **Açıklama:** Ünlem ve soru işaretinden sonra anlatımı pekiştirmek için üç nokta konur.<br />Ünlem ve soru işaretinden sonra anlatımı pekiştirmek için konur.
 
     <hr />
 1. Bir yazıda yer, tarih vb. verilen bilgilerle ilgili olarak tereddütler varsa bu<br />durum aşağıdaki noktalama işaretlerinden hangisi kullanılarak belirtilir.
@@ -1210,8 +1149,7 @@
     - D-) ayraç içinde iki nokta
     - E-) ayraç içinde köşeli parantez
 
-    > **Açıklama:** Bir yazıda yer, tarih vb. verilen bilgilerle ilgili olarak tereddütler varsa bu
-    > durum ayraç içinde soru işareti kullanılarak belirtilir.
+    > **Açıklama:** Bir yazıda yer, tarih vb. verilen bilgilerle ilgili olarak tereddütler varsa bu<br />durum ayraç içinde soru işareti kullanılarak belirtilir.
 
     <hr />
 1. Alıntılarda atlamalar yapılıyorsa bu kısım aşağıdaki noktalama işaretlerinden hangisi ile gösterilebilir.
@@ -1251,9 +1189,7 @@
     - D-) Noktalı virgül, virgül, üç nokta
     - E-) Nokta, ünlem işareti, virgül
 
-    > **Açıklama:** Büyük rakamların okunuşunu kolaylaştırmak için rakamlar basamaklara ayrılarak aralarına nokta konulmaktadır.
-    > 2\. Sıralı cümleleri birbirinden ayırmak için virgül konur.
-    > 3\. Konuşma bölümlerinde, duraksama veya kekelemeyi göstermek için üç nokta kullanılır. Doğru cevap A'dır.
+    > **Açıklama:** Büyük rakamların okunuşunu kolaylaştırmak için rakamlar basamaklara ayrılarak aralarına nokta konulmaktadır.<br />2\. Sıralı cümleleri birbirinden ayırmak için virgül konur.<br />3\. Konuşma bölümlerinde, duraksama veya kekelemeyi göstermek için üç nokta kullanılır. Doğru cevap A'dır.
 
     <hr />
 1. Toplumun yozlaşmaya ve her şeyin parayla ölçüldüğü() bilgi ve kültüre duyulan saygının() kredi kartlarına() görselliğe yönelmeye başladığı yıllarda() edebiyat ()Bir işlevi yok()()düşüncesiyle gazetelerden kovuldu()<br />Boşluklara gelmesi gereken noktalama işaretleri hangi seçenekte doğru olarak verilmiştir?
@@ -1383,8 +1319,7 @@
     - D-) Kesme işareti, köşeli ayraç
     - E-) virgül, tırnak işareti
 
-    > **Açıklama:** Doğru noktalama işareti,
-    > Orhan Veli Kanık'ın "Dalgacı Mahmut" şiirini okudunuz mu?
+    > **Açıklama:** Doğru noktalama işareti,<br />Orhan Veli Kanık'ın "Dalgacı Mahmut" şiirini okudunuz mu?
 
     <hr />
 1. 1\. Düz yazıda yapılan şiir alıntılarında mısraları birbirinden ayırmak için kullanılır.<br />2\. Özellikle bilimsel yazılarda veya, hem o hem bu bağlaçlarının yerine kullanılır.<br />3\. Dil bilgisi çalışmalarında eklerin farklı biçimlerini gösterirken kullanılır.<br />4\. Matematikte bölme işareti olarak da kullanılır.<br />**Yukarıda verilen bilgiler hangi noktalama işaretini açıklar?**
@@ -1514,24 +1449,7 @@
     - D-) Kısa çizgi (-), ünlem (!), kısa çizgi (-), soru (?), noktalı virgül (;)
     - E-) Tırnak açma (“), ünlem (!), tırnak kapama (”), nokta (.), noktalı virgül (;)
 
-    > **Açıklama:** Noktalı virgül, başlığı altındaki bilgileri gözden geçiriniz.
-    > Doğru yanıt "B" seçeneğidir.
-    > Tırnak, ünlem, soru işareti, noktalı virgül başlıkları altındaki bilgileri gözden geçiriniz.
-    > **Bir öğrenci yazmış:** Sorunun doğru cevabı "a" şıkkı olmalıydı, birçok soruda çeşitli hatalar mevcut ve bu uzun zamandır böyle; sanki hiç kontrol edilmiyormuşçasına hem de!..
-    > **Öğrenciye verilen yanıt:**
-    > 1\. Sizin dediğinizi seçersek (5) yerine (,) kullanılması gerek. Neden virgül (,) değil de noktalı virgül (;) kullanılması gerektiğini, ders kitabınızın 31. ile 34. sayfaları arasındaki bilgileri gözden geçirerek anlayabilirsiniz. Yine de açıklıyorum: Virgül, **cümlede kelime öbeklerini belirginleştirmek için kullanılır (s. 31)**. Verilen, “Gülümsediğimi gösteren bir ayna olsaydı; biraz da ışık.” cümlesinde sözcük öbekleri belirginleştirilmek istenmiyor. Noktalama işareti istenilen yerin öncesinde bir cümle var. Cümle, “olsaydı” diye bitiyor. Noktalı virgül kullanılarak, daha sonra gelen “biraz da ışık (olsaydı)” sözleriyle tek bir cümle kuruluyor. (Yazar, aynı eylemi yinelemekten kurtuluyor böylece.) Aralarında anlamca ilişki bulunan, cümlelerin arasına virgül konulmaz. Bu cümleler arasında **noktalı virgül (;)** kullanılır.
-    > 2\. Sizin, ”hata” dedikleriniz bilgi eksikliklerinizden kaynaklanıyor. Noktalama işaretleriyle ilgili bölümü daha dikkatli okuyunuz.
-    > 3\. Soruların denetlenmesine ilişkin kaygılarınız yersiz.
-    > 4\. İki satırlık kısacık yazınızda bile birçok noktalama yanlışı var. Anlatım bozukluğu da var.
-    > Öğrenci yanılıyor. Doğru cevap a seçeneği değildir!
-    > **Bir öğrenci yazmış:** Açıklama yeterli değil.
-    > **Yanıt:**
-    > Yeterli açıklamayı ders kitabınızın ilgili bölümünde bulabilirsiniz. Her sorunun sonunda gözden geçirmeniz gereken konu, sayfa numaralarıyla birlikte verilmektedir.
-    > **Bir öğrenci yazmış:** Yazar metninde öyle kullanmışsa da, bu iki cümle arasında noktalı virgül (;) kullanımı gerekmez.
-    > 1\. Yargınız dayanaksız.
-    > 2\. Neden noktalı virgül (;) kullanılması gerektiğini ders kitabınızın 33. ile 34. sayfaları arasındaki bilgileri gözden geçirerek anlayabilirsiniz. Yine de açıklıyorum: Noktalama işareti istenilen yerin öncesinde bir cümle var. Cümle, “olsaydı” diye bitiyor. Noktalı virgül kullanılarak, daha sonra gelen “biraz da ışık (olsaydı)” sözleriyle tek bir cümle kuruluyor. (Yazar, aynı eylemi yinelemekten kurtuluyor böylece.) Aralarında anlamca ilişki bulunan, cümleler arasında **noktalı virgül (;)** kullanılır.
-    > 3\. Kısacık cümlenizde bile hem anlatım bozukluğu hem de noktalama yanlışı var. Eksiklerinizi, ders kitabınızı daha iyi okuyarak giderebilirsiniz.
-    > Ders kitaplarıyla özetlere ilişkin soru(n)larınızı, kitapların yazarlarına iletebilirsiniz.
+    > **Açıklama:** Noktalı virgül, başlığı altındaki bilgileri gözden geçiriniz.<br />Doğru yanıt "B" seçeneğidir.<br />Tırnak, ünlem, soru işareti, noktalı virgül başlıkları altındaki bilgileri gözden geçiriniz.<br />**Bir öğrenci yazmış:** Sorunun doğru cevabı "a" şıkkı olmalıydı, birçok soruda çeşitli hatalar mevcut ve bu uzun zamandır böyle; sanki hiç kontrol edilmiyormuşçasına hem de!..<br />**Öğrenciye verilen yanıt:**<br />1\. Sizin dediğinizi seçersek (5) yerine (,) kullanılması gerek. Neden virgül (,) değil de noktalı virgül (;) kullanılması gerektiğini, ders kitabınızın 31. ile 34. sayfaları arasındaki bilgileri gözden geçirerek anlayabilirsiniz. Yine de açıklıyorum: Virgül, **cümlede kelime öbeklerini belirginleştirmek için kullanılır (s. 31)**. Verilen, “Gülümsediğimi gösteren bir ayna olsaydı; biraz da ışık.” cümlesinde sözcük öbekleri belirginleştirilmek istenmiyor. Noktalama işareti istenilen yerin öncesinde bir cümle var. Cümle, “olsaydı” diye bitiyor. Noktalı virgül kullanılarak, daha sonra gelen “biraz da ışık (olsaydı)” sözleriyle tek bir cümle kuruluyor. (Yazar, aynı eylemi yinelemekten kurtuluyor böylece.) Aralarında anlamca ilişki bulunan, cümlelerin arasına virgül konulmaz. Bu cümleler arasında **noktalı virgül (;)** kullanılır.<br />2\. Sizin, ”hata” dedikleriniz bilgi eksikliklerinizden kaynaklanıyor. Noktalama işaretleriyle ilgili bölümü daha dikkatli okuyunuz.<br />3\. Soruların denetlenmesine ilişkin kaygılarınız yersiz.<br />4\. İki satırlık kısacık yazınızda bile birçok noktalama yanlışı var. Anlatım bozukluğu da var.<br />Öğrenci yanılıyor. Doğru cevap a seçeneği değildir!<br />**Bir öğrenci yazmış:** Açıklama yeterli değil.<br />**Yanıt:**<br />Yeterli açıklamayı ders kitabınızın ilgili bölümünde bulabilirsiniz. Her sorunun sonunda gözden geçirmeniz gereken konu, sayfa numaralarıyla birlikte verilmektedir.<br />**Bir öğrenci yazmış:** Yazar metninde öyle kullanmışsa da, bu iki cümle arasında noktalı virgül (;) kullanımı gerekmez.<br />1\. Yargınız dayanaksız.<br />2\. Neden noktalı virgül (;) kullanılması gerektiğini ders kitabınızın 33. ile 34. sayfaları arasındaki bilgileri gözden geçirerek anlayabilirsiniz. Yine de açıklıyorum: Noktalama işareti istenilen yerin öncesinde bir cümle var. Cümle, “olsaydı” diye bitiyor. Noktalı virgül kullanılarak, daha sonra gelen “biraz da ışık (olsaydı)” sözleriyle tek bir cümle kuruluyor. (Yazar, aynı eylemi yinelemekten kurtuluyor böylece.) Aralarında anlamca ilişki bulunan, cümleler arasında **noktalı virgül (;)** kullanılır.<br />3\. Kısacık cümlenizde bile hem anlatım bozukluğu hem de noktalama yanlışı var. Eksiklerinizi, ders kitabınızı daha iyi okuyarak giderebilirsiniz.<br />Ders kitaplarıyla özetlere ilişkin soru(n)larınızı, kitapların yazarlarına iletebilirsiniz.
 
     <hr />
 1. Aşağıdaki paragrafta, parantezle numaralandırılmış yerlere gelmesi gereken noktalama işaretleri, aşağıdaki seçeneklerden hangisinde doğru sırada verilmiştir?<br />Adam (1) yıllardır, Sazandere (2) ye gideceğim, gidiyorum diye tutturmuş yaşardı. Biri mi gitmiş de övmüştü orayı (3) haritanın birinde mi görüp merak etmişti, yoksa bir resmi mi ilişmişti gözü ne bir yerlerde, bilemiyordu. Tek bildiği, denize gitmeğe her kalkışında, Sazandere (4) yi düşünerek yollara düştüğü, sonra da ya üşendiği, ya başka yerlere giden arkadaşlarına uyduğu, ya da yolun bozuluverdiği, arabaların işlemeyiverdiği bir sıraya rastladığı için, oraya bir türlü gidememiş olduğuydu (5)<br />(Bilge Karasu, Geceden Geceye Arabayı Kaçıran Adam)
@@ -1541,9 +1459,7 @@
     - D-) Virgül (,), kesme (’), noktalı virgül (;), kesme (’), nokta (.)
     - E-) İki nokta üst üste (:), kesme (’), virgül (,), kesme (’), nokta (.)
 
-    > **Açıklama:** Virgül, başlığı altındaki bilgileri gözden geçiriniz.
-    > Virgül (,), kesme (’), virgül (,), kesme (’), nokta (.)
-    > Özneden sonra virgül (,) kullanılır.
+    > **Açıklama:** Virgül, başlığı altındaki bilgileri gözden geçiriniz.<br />Virgül (,), kesme (’), virgül (,), kesme (’), nokta (.)<br />Özneden sonra virgül (,) kullanılır.
 
     <hr />
 1. Aşağıdaki paragrafta, parantezle numaralandırılmış yerlere gelmesi gereken noktalama işaretleri, aşağıdaki seçeneklerden hangisinde doğru sırada verilmiştir?<br />Bir Alman (ya da Avusturya, hiç fark etmez) Yahudisinin emriyle (1) haşa! önerisiyle diyelim(2) yazmaya girişmekle sanki ruhumu bütün çıplaklığıyla ortaya koyuyormuşum gibi hissettiğim için utanıyorum. Ben kimim (3) Belki de kendimi hayatımın olayları değil de tutkularım konusunda sorguya çeksem daha yararlı olur. Kimi seviyorum? Aklıma sevilen yüzler gelmiyor. İyi yemeği sevdiğimi biliyorum (4) La Tour d'Argent lokantasının adını anarken bile bütün bedenimin titrediğini hissediyorum. Ya aşk (5)<br />(Umberto Eco, Prag Mezarlığı)
@@ -1553,8 +1469,7 @@
     - D-) Eğik çizgi (/), eğik çizgi (/), soru (?), iki nokta üst üste (:), soru (?)
     - E-) Eğik çizgi (/), uzun çizgi (–), soru (?), iki nokta üst üste (:), soru (?)
 
-    > **Açıklama:** Uzun çizgi, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 2
+    > **Açıklama:** Uzun çizgi, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 2
 
     <hr />
 1. Aşağıdaki paragrafta, parantezle numaralandırılmış yerlere gelmesi gereken noktalama işaretleri, aşağıdaki seçeneklerden hangisinde doğru sırada verilmiştir?<br />Silme halı kaplı yaldızlı eşyalarla dolu odaları ilk görüşü­nü düşündü. Şaşırmıştı (1) parmak uçlarını şöylece değdirmişti gizliden (2)<br />(3) Hanım döşedi evi kız, demişti ablası, sanırsın ki peri padi­şahının bir yeri...<br />Tavanlar üzüm salkımlarıyla resimlenmişti. Bu odanınki nasıldı acaba (4) Gözlerini daha sıkı yumdu. Morların arasına sarı üzümler serpmişlerdi (5) Peki yaprakları neden mor yapmışlardı? Gittikçe üstündeki ağırlıklar daha çok küçülüyordu.<br />(Füruzan, Nehir)
@@ -1564,8 +1479,7 @@
     - D-) Virgül (,), nokta (.), uzun çizgi (—), soru (?), iki nokta üst üste (:)
     - E-) Virgül (,), nokta (.), uzun çizgi (—), ünlem (!), nokta (.)
 
-    > **Açıklama:** Uzun çizgi, başlığı altındaki bilgileri gözden geçiriniz.
-    > Virgül (,), nokta (.), uzun çizgi (—), soru (?), nokta (.)
+    > **Açıklama:** Uzun çizgi, başlığı altındaki bilgileri gözden geçiriniz.<br />Virgül (,), nokta (.), uzun çizgi (—), soru (?), nokta (.)
 
     <hr />
 1. Aşağıdaki paragrafta, parantezle numaralandırılmış yerlere gelmesi gereken noktalama işaretleri, aşağıdaki seçeneklerden hangisinde doğru sırada verilmiştir? Salondan, bahçedekilerin kahkahaları işitilebiliyordu. Süreyya, canı sıkılanlara özgü bir tahammülsüzlükle (1)"Çılgın kız (2)" diye söylendi. Balkona açılan büyük kapıdan parmaklığa dayanmış dışarıya bakan karısı dönüp (3)"Bu gece hava ne güzel (4)" dedi. Bu Nisan gününün akşama doğru başlayan yağmuru yarım saat sonra dinmişti; yaş bir yeşilliğin üstünde şimdi altınlı incileriyle lâcivert gökyüzü titriyor (5) toprağın, ağaçların ıslak soluğu her şeyin içine işliyordu. (Mehmet Rauf, Eylül)
@@ -1575,8 +1489,7 @@
     - **Cevap D-) İki nokta üst üste (:), ünlem (!), iki nokta üst üste (:), ünlem (!), noktalı virgül (;)**
     - E-) Noktalı virgül (;), ünlem (!), noktalı virgül (;), ünlem (!), noktalı virgül (;)
 
-    > **Açıklama:** İki nokta, başlığı altındaki bilgileri gözden geçiriniz.
-    > İki nokta üst üste, ünlem, noktalı virgül başlıkları altındaki bilgileri gözden geçiriniz.
+    > **Açıklama:** İki nokta, başlığı altındaki bilgileri gözden geçiriniz.<br />İki nokta üst üste, ünlem, noktalı virgül başlıkları altındaki bilgileri gözden geçiriniz.
 
     <hr />
 1. Aşağıdaki paragrafta, parantezle numaralandırılmış yerlere gelmesi gereken noktalama işaretleri, aşağıdaki seçeneklerden hangisinde doğru sırada verilmiştir?<br />Bana bunları anlattıktan sonra, bu hanımın biraz da gelinini çekiştireceğini sanıyordum, yanılmışım (1) Gelini için hiçbir şey söylemedi. Onun yerine oğlunu çekiştirdi (2) Bu hanım zengin bir yağlıkçının kızı, bir polis komiserinin karısı imiş. "O zamanın polis komiserinin de adı (3) şanı vardı" diyor. Anlaşılıyor ki parası da varmış. Bu hanıma babasından epeyce kırıntı kalmış (4) Bu kalan mallar arasında; bir bostanın dörtte biri, Ayvansaray (5)da bir çekek yerinin yarısı da varmış.<br />(Memduh Şevket Esendal, Ayaşlı ve Kiracıları)
@@ -1586,8 +1499,7 @@
     - D-) Uzun çizgi (—), iki nokta üst üste (:), virgül (,), nokta (.), ayraç (/)
     - E-) Ünlem (!), iki nokta üst üste (:), üç nokta yan yana (…), nokta (.), kesme (’)
 
-    > **Açıklama:** Ayraç, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 2
+    > **Açıklama:** Ayraç, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 2
 
     <hr />
 1. Aşağıdaki paragrafta, parantezle numaralandırılmış yerlere gelmesi gereken noktalama işaretleri, aşağıdaki seçeneklerden hangisinde doğru sırada verilmiştir?<br />O durgun masanın ikinci kişisi (1) Erkek. Kızı sevdiğini söyle­yen erkek. Uzun, kollanmış suskunluklardan sonra belki de ilk kez konuşuyorlar. Erkeğin sorusunda için için birikmiş bir öfke var (2)<br />"Peki ne yapacaksın yarın (3)"<br />"Tepelere çıkacağız. Şu çam ormanla nın tepesine. Hani dün uzun uzun seyrettiğim o ufuk çizgisine."<br />"Gene mi yıkıntılar, harabeler (4)"<br />"Seviyorum oraları, tarihi, geçmişi (5)"<br />(Murathan Mungan, Lal Masallar)
@@ -1597,8 +1509,7 @@
     - D-) Nokta (.), iki nokta üst üste (:), soru (?), soru (?), nokta (.)
     - E-) İki nokta üst üste (:), noktalı virgül (;), soru (?), soru (?), ünlem (!)
 
-    > **Açıklama:** Üç nokta, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 2
+    > **Açıklama:** Üç nokta, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 2
 
     <hr />
 1. Aşağıdaki metinde parantezle gösterilen yerlere sırasıyla hangi noktalama işaretleri getirilmelidir?<br />Sağlık Bakanı Fahrettin Koca (I) Bilim Kurulu toplantısının ardından (II) (III) Şu ana kadar can kaybı söz konusu olmadı (IV) Bu olmayacağı anlamına gelmez (V) (VI) dedi.
@@ -1688,10 +1599,7 @@
     - D-) Tarih belirtmek
     - E-) Saat belirtmek
 
-    > **Açıklama:** 2\. Rakamlardan sonra konursa sıra sayı sıfatlarını türetir; yani -ncI eki yerine
-    > geçer.
-    > 67\. Dil Bayramı, İstanbul’da Yıldız Teknik Üniversitesi’nce önemli bir toplantıyla kutlandı. (Oktay Akbal, Yazar Bir Tanıktır)
-    > -ncI eki yerine kullanmak
+    > **Açıklama:** 2\. Rakamlardan sonra konursa sıra sayı sıfatlarını türetir; yani -ncI eki yerine<br />geçer.<br />67\. Dil Bayramı, İstanbul’da Yıldız Teknik Üniversitesi’nce önemli bir toplantıyla kutlandı. (Oktay Akbal, Yazar Bir Tanıktır)<br />-ncI eki yerine kullanmak
 
     <hr />
 1. Aşağıdakilerden hangisi virgülün görevlerinden biri değildir?
@@ -1701,9 +1609,7 @@
     - D-) Cümlede kelime öbeklerini belirginleştirmek için kullanılır.
     - E-) Cümlede benzer veya eş değer öğeler, art arda sıralanıyorsa bunların arasına konur.
 
-    > **Açıklama:** Matematikte çarpma işlemi işareti olarak nokta kullanılır.
-    > 2 . 3 = 6
-    > Matematikte çarpma işlemi işareti olarak kullanılır.
+    > **Açıklama:** Matematikte çarpma işlemi işareti olarak nokta kullanılır.<br />2 . 3 = 6<br />Matematikte çarpma işlemi işareti olarak kullanılır.
 
     <hr />
 1. Aşağıdakilerden hangisi virgülün görevidir?
@@ -1713,10 +1619,7 @@
     - D-) Cümleden sonra, cümle ilgili yapılacak açıklamadan önce kullanılır
     - E-) Cümleyle ilgili verilecek örneklerden önce kullanılır.
 
-    > **Açıklama:** 11\.Onaylama veya ret bildiren kelimelerden sonra kullanılır.
-    > Evet, Türkçe hâlâ çoğumuzun şuur altında farklı medeniyet projelerinin bayrağı olmaya devam eder. (...) (Hayati Develi, Dil Doktoru)
-    > Binbaşı: æ Yok, dedi, onun evinden çıkacağım. Yalnız bana bir hafta izin versin.
-    > (Memduh Şevket Esendal, Ev Ona Yakıştı)
+    > **Açıklama:** 11\.Onaylama veya ret bildiren kelimelerden sonra kullanılır.<br />Evet, Türkçe hâlâ çoğumuzun şuur altında farklı medeniyet projelerinin bayrağı olmaya devam eder. (...) (Hayati Develi, Dil Doktoru)<br />Binbaşı: æ Yok, dedi, onun evinden çıkacağım. Yalnız bana bir hafta izin versin.<br />(Memduh Şevket Esendal, Ev Ona Yakıştı)
 
     <hr />
 1. Aşağıdakilerden hangisi iki noktanın görevlerinden biri **değildir?**
@@ -1726,9 +1629,7 @@
     - D-) Ses bilgisiyle ilgili çalışmalarda ünlünün uzun olduğunu göstermek için ünlüden sonra konur.
     - **Cevap E-) Alıntı yapıldığında atlanan yeri belirtmek için kullanılır.**
 
-    > **Açıklama:** Alıntı yapıldığında atlanan yeri belirtmek için üç nokta kullanılır.
-    > Eliot, kitabının bir başka yerinde şöyle diyordu:
-    > “... Önce size, şiirde musikinin, anlamla ilişkisi olmayan bir musiki olmadığını hatırlatmak isterim. Aksi hâlde anlamsız fakat musiki değeri üstün şiirler yaratabilirdik, böyle bir şiirin varlığına hiç şahit olmadım.” (Doğan Aksan, Şiir Dili ve Türk Şiir Dili)
+    > **Açıklama:** Alıntı yapıldığında atlanan yeri belirtmek için üç nokta kullanılır.<br />Eliot, kitabının bir başka yerinde şöyle diyordu:<br />“... Önce size, şiirde musikinin, anlamla ilişkisi olmayan bir musiki olmadığını hatırlatmak isterim. Aksi hâlde anlamsız fakat musiki değeri üstün şiirler yaratabilirdik, böyle bir şiirin varlığına hiç şahit olmadım.” (Doğan Aksan, Şiir Dili ve Türk Şiir Dili)
 
     <hr />
 1. Cümleyle doğrudan ilgisi olmayan açıklamalar için hangi noktalama işareti kullanılır?
@@ -1738,10 +1639,7 @@
     - D-) Virgül
     - E-) Nokta
 
-    > **Açıklama:** Ayraç/Parantez ( )
-    > 1\. Cümleyle doğrudan ilgisi olmayan açıklamalar ayraç içinde verilebilir.
-    > Ak sakallı bir pir peyda olarak onlara doğru yolu gösterir. Gece olduğu zaman da
-    > Demirkazık yıldızının tersine (güneye) gitmelerini söyler. (Fikret Türkmen, Tahir ile Zühre)
+    > **Açıklama:** Ayraç/Parantez ( )<br />1\. Cümleyle doğrudan ilgisi olmayan açıklamalar ayraç içinde verilebilir.<br />Ak sakallı bir pir peyda olarak onlara doğru yolu gösterir. Gece olduğu zaman da<br />Demirkazık yıldızının tersine (güneye) gitmelerini söyler. (Fikret Türkmen, Tahir ile Zühre)
 
     <hr />
 1. Cümlede özellikle vurgulanan unsurlar için hangi noktalama işareti kullanılır?
@@ -1751,10 +1649,7 @@
     - D-) İki nokta
     - **Cevap E-) Tırnak işareti**
 
-    > **Açıklama:** 2\. Cümlede özellikle vurgulanan unsurlar tırnak içinde verilebilir.
-    > Nitekim, aklın ilk kez Batı’da pırıl pırıl göründüğü Eski Yunan çağında, “akıl” anlamına gelen “logos” sözcüğü olanca kuşatımıyla, aynı zamanda “dil” anlamına gelir.
-    > (Nermi Uygur, “İçi Dışıyla Batı’nın Kültür Dünyası”)
-    > Tırnak işareti
+    > **Açıklama:** 2\. Cümlede özellikle vurgulanan unsurlar tırnak içinde verilebilir.<br />Nitekim, aklın ilk kez Batı’da pırıl pırıl göründüğü Eski Yunan çağında, “akıl” anlamına gelen “logos” sözcüğü olanca kuşatımıyla, aynı zamanda “dil” anlamına gelir.<br />(Nermi Uygur, “İçi Dışıyla Batı’nın Kültür Dünyası”)<br />Tırnak işareti
 
     <hr />
 1. **Aşağıdakilerden hangisi eğik çizginin görevlerinden biri değildir?**
@@ -1764,8 +1659,7 @@
     - D-) Dil bilgisi çalışmalarında eklerin farklı biçimlerini gösterirken kullanılır.
     - E-) Matematikte bölme işareti olarak da kullanılır.
 
-    > **Açıklama:** Bilimsel yazılarda kaynakça yazımında yay ayraç kullanılır.
-    > Saat ve saniyeyi ayırmada eğik çizgi kullanılmaz.
+    > **Açıklama:** Bilimsel yazılarda kaynakça yazımında yay ayraç kullanılır.<br />Saat ve saniyeyi ayırmada eğik çizgi kullanılmaz.
 
     <hr />
 1. Roman, hikâye, masal, tiyatro gibi türlerde kişilerin konuşmaları verilirken kullanılan noktalama işareti aşağıdakilerden hangisidir?
@@ -1775,9 +1669,7 @@
     - D-) Kesme işareti
     - E-) Tek tırnak
 
-    > **Açıklama:** Uzun Çizgi (–)
-    > 1\. Roman, hikâye, masal, tiyatro gibi türlerde kişilerin konuşmaları verilirken kullanılır.
-    > Bu kucaklaşmadan sonra kardeşini kendinden biraz uzaklaştıran annem, sesine nazlı bir küskünlük katarak konuşurdu: – Eee, enişten gitmese buralara yolun düşmeyecek belli ki. (Füruzan, Sevda Dolu Bir Yaz)
+    > **Açıklama:** Uzun Çizgi (–)<br />1\. Roman, hikâye, masal, tiyatro gibi türlerde kişilerin konuşmaları verilirken kullanılır.<br />Bu kucaklaşmadan sonra kardeşini kendinden biraz uzaklaştıran annem, sesine nazlı bir küskünlük katarak konuşurdu: – Eee, enişten gitmese buralara yolun düşmeyecek belli ki. (Füruzan, Sevda Dolu Bir Yaz)
 
     <hr />
 1. "Yazık oldu aslan gibi delikanlıya, billâhi... Çok yazık oldu ( )"<br />Yukarıdaki cümlede parantez içine hangi noktalama işareti getirilmelidir?
@@ -1787,8 +1679,7 @@
     - **Cevap D-) Ünlem**
     - E-) Nokta
 
-    > **Açıklama:** Yazık oldu aslan gibi delikanlıya, billâhi... Çok yazık oldu! (Sabahattin Ali, Kuyucaklı Yusuf)
-    > Ünlem
+    > **Açıklama:** Yazık oldu aslan gibi delikanlıya, billâhi... Çok yazık oldu! (Sabahattin Ali, Kuyucaklı Yusuf)<br />Ünlem
 
     <hr />
 1. "ge-li-yo-rum" örneğinde kullanılan kısa çizginin görevi nedir?
@@ -1798,9 +1689,7 @@
     - D-) Yaklaşıklık anlamı vermek
     - E-) Karşıtlık ilişkisi belirtmek
 
-    > **Açıklama:** Kelimeleri hecelerine ayırırken kullanılır.
-    > ge-li-yo-rum, sa-tı-cı-lar-da-ki gibi
-    > Kelimeleri hecelerine ayırmak
+    > **Açıklama:** Kelimeleri hecelerine ayırırken kullanılır.<br />ge-li-yo-rum, sa-tı-cı-lar-da-ki gibi<br />Kelimeleri hecelerine ayırmak
 
     <hr />
 1. "Kadıköyü’nde, Bahariye Caddesi’ndeki Geren Apartmanı’nın giriş katında, 21 ( )05’te doğmuşum."<br />Yukarıdaki cümlede ( ) ayraç ile gösterilen yere hangi noktalama işareti konmalıdır?
@@ -1910,8 +1799,7 @@
     - D-) I, II, III
     - E-) III
 
-    > **Açıklama:** Noktalama işaretlerinin kullanım amaçlarını açıklayabileceksiniz.
-    > II. ve III. kullanım virgülün doğru kullanımıdır ancak I. kullanım iki noktanın kullanımını açıklamaktadır.
+    > **Açıklama:** Noktalama işaretlerinin kullanım amaçlarını açıklayabileceksiniz.<br />II. ve III. kullanım virgülün doğru kullanımıdır ancak I. kullanım iki noktanın kullanımını açıklamaktadır.
 
     <hr />
 1. Aşağıdakilerden hangisi Göktürk ve Yenisey yazıtlarında kullanılan noktalama işaretidir?
@@ -1921,8 +1809,7 @@
     - D-) Köşeli Ayraç
     - E-) Kısa Çizgi
 
-    > **Açıklama:** Noktalama işaretlerinin kullanım amaçlarını açıklayabileceksiniz.
-    > İki nokta kullanılmıştır.
+    > **Açıklama:** Noktalama işaretlerinin kullanım amaçlarını açıklayabileceksiniz.<br />İki nokta kullanılmıştır.
 
     <hr />
 1. **Aşağıdakilerden hangisi veya hangileri ünlem işaretinin kullanıldığı durumlardandır?**<br />1\.Acıma, üzüntü, sevinç, kızma, korku, şaşırma, coşma gibi her türlü duyguyu ifade eden kelime, kelime öbeği veya cümlelerden sonra konur.<br />2\.Hitap, çağrı, seslenme, uyarı vb. bildiren kelime, kelime öbekleri veya cümlelerden sonra konur.<br />3\. Onay veya ret bildiren kelimelerden sonra konabilir.
@@ -1932,12 +1819,7 @@
     - D-) 2,3
     - **Cevap E-) 1,2,3**
 
-    > **Açıklama:** Noktalama işaretlerinin kullanım amaçlarını açıklayabileceksiniz.
-    > Üç seçenekte ünlem işaretinin kullanıldığı durumlardır.
-    > 1\.Bunlar beni delirtecekler yahu!
-    > 2\. Ordular! İlk hedefiniz Akdeniz’dir, ileri!
-    > 3\. Doğru! Bence de halkın dili yazarlarımızın dilinden daha zengindir, hele edebiyat
-    > türüne giren eserler için.
+    > **Açıklama:** Noktalama işaretlerinin kullanım amaçlarını açıklayabileceksiniz.<br />Üç seçenekte ünlem işaretinin kullanıldığı durumlardır.<br />1\.Bunlar beni delirtecekler yahu!<br />2\. Ordular! İlk hedefiniz Akdeniz’dir, ileri!<br />3\. Doğru! Bence de halkın dili yazarlarımızın dilinden daha zengindir, hele edebiyat<br />türüne giren eserler için.
 
     <hr />
 1. Edebî metin her okunduğunda yeni anlamlar kazanır () edebî metnin çok katmanlı olması yanında ()duygu ve çağrışım değerleri bakımından zengin olması önemli faktörlerdir()<br />Yukarıdaki metinde kullanılması gereken noktalama işaretleri hangi seçenekte doğru olarak verilmiştir?
@@ -2128,8 +2010,7 @@
     - **Cevap D-) Bütün ikilemeler ayrı ve araya herhangi bir noktalama işareti konulmadan yazılır.**
     - E-) İsim veya fiil soylu yüklemlere, ek fiilin çekimli idi, imiş veya ise biçimleri getirildiğinde bunlar ayrı veya bitişik yazılabilir
 
-    > **Açıklama:** Bütün ikilemeler ayrı ve araya herhangi bir noktalama işareti konulmadan yazılır. renk renk, hızlı hızlı, düşe kalka, koşa koşa, açık seçik, büyük büyük, çarşı pazar, eğri büğrü, çoluk çocuk, tek tük, pat küt, gümbür gümbür, masa filan, falan falan, falan filan, defter mefter, yol mol vb.
-    > Belli ki anasından, atasından, obasından kopmak kolay değildi. Yüreğinin bir yanı usul usul sökülüyordu. (Murathan Mungan, Lal Masallar)
+    > **Açıklama:** Bütün ikilemeler ayrı ve araya herhangi bir noktalama işareti konulmadan yazılır. renk renk, hızlı hızlı, düşe kalka, koşa koşa, açık seçik, büyük büyük, çarşı pazar, eğri büğrü, çoluk çocuk, tek tük, pat küt, gümbür gümbür, masa filan, falan falan, falan filan, defter mefter, yol mol vb.<br />Belli ki anasından, atasından, obasından kopmak kolay değildi. Yüreğinin bir yanı usul usul sökülüyordu. (Murathan Mungan, Lal Masallar)
 
     <hr />
 1. Aşağıdakilerden hangisinde ki yazımı **yanlıştır**?
@@ -2169,12 +2050,7 @@
     - D-) Yeni yasa Resmi gazetede yayımlanarak yürürlüğe girdi.
     - E-) Yurdumuzun Doğusu’nda kar yağışı başladı.
 
-    > **Açıklama:** Yazım Kuralları – Büyük Harf Kullanımı
-    > Meslek Liseleri’nde değil Meslek liselerinde ...
-    > İzmirde değil İzmir'de ...
-    > Resmi gazetede değil Resmi Gazete'de
-    > Yurdumuzun Doğusu’nda değil Yurdumuzun doğusunda olmalıdır.
-    > B seçeneğinde yazım yanlışı yoktur.
+    > **Açıklama:** Yazım Kuralları – Büyük Harf Kullanımı<br />Meslek Liseleri’nde değil Meslek liselerinde ...<br />İzmirde değil İzmir'de ...<br />Resmi gazetede değil Resmi Gazete'de<br />Yurdumuzun Doğusu’nda değil Yurdumuzun doğusunda olmalıdır.<br />B seçeneğinde yazım yanlışı yoktur.
 
     <hr />
 1. **Aşağıdaki cümlelerde altı çizili ikilemelerden hangisinin yazımı doğrudur?**
@@ -2184,8 +2060,7 @@
     - D-) Sen de tıpa tıp onlara benzersin.
     - **Cevap E-) Pisi pisine yok olur gidersin.**
 
-    > **Açıklama:** İkilemelerin Yazımı
-    > **:**Bütün ikilemeler ayrı ve araya herhangi bir noktalama işareti konulmadan yazılır. Pekiştirme sözcükleri ise bitişik yazılır. Pisi pisine ikilemedir; diğerleri pekiştirme sözcükleridir.
+    > **Açıklama:** İkilemelerin Yazımı<br />**:**Bütün ikilemeler ayrı ve araya herhangi bir noktalama işareti konulmadan yazılır. Pekiştirme sözcükleri ise bitişik yazılır. Pisi pisine ikilemedir; diğerleri pekiştirme sözcükleridir.
 
     <hr />
 1. **Aşağıdakilerin cümlelerin hangisinde ‘’ki’’ nin yazımı ile ilgili bir yanlışlık yapılmıştır?**
@@ -2195,8 +2070,7 @@
     - D-) Sınıftakilerin tümü dışarı çıksın.
     - E-) Üstüme o kadar çok düşüyorsunuz ki bazen bunalıyorum.
 
-    > **Açıklama:** Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı
-    > ‘’ki’’ aitlik eki olduğu zaman bitişik, bağlaç ise ayrı yazılır.
+    > **Açıklama:** Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı<br />‘’ki’’ aitlik eki olduğu zaman bitişik, bağlaç ise ayrı yazılır.
 
     <hr />
 1. **Aşağıdaki cümlelerin hangisinde ‘’de’’ nin yanlış yazılmasından kaynaklanan bir yazım yanlışı bulunmaktadır?**
@@ -2206,8 +2080,7 @@
     - D-) Yepyeni bir hizmet ya da mal üretmek için düşünmeye başlamışlar.
     - E-) Ben olacakları önceden söyledim de dinleyen kim?
 
-    > **Açıklama:** Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı
-    > Hal eki olarak bulunma anlamı veren ‘’ de’’ bitişik yazılırken, bağlaç olan ‘’de’’ ayrı yazılır. Bunu uygulamanın en kısa yolu hal ekini cümleden çıkardığımızda anlam bozulurken bağlaç olanı çıkardığımızda anlam bozulmamaktadır.
+    > **Açıklama:** Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı<br />Hal eki olarak bulunma anlamı veren ‘’ de’’ bitişik yazılırken, bağlaç olan ‘’de’’ ayrı yazılır. Bunu uygulamanın en kısa yolu hal ekini cümleden çıkardığımızda anlam bozulurken bağlaç olanı çıkardığımızda anlam bozulmamaktadır.
 
     <hr />
 1. Sormak gerekirdi; bugüne kadar aklı neredeydi ( I ) Bu düşünce kafasında yeni mi oluşmuştu ( II ) yoksa onu eskiden beri tasarlıyordu da açıklamaya cesaret mi edememişti ( III ) Öyleyse birdenbire bu cesareti nereden almıştı ( IV ) Yoksa ona akıl verip onu kışkırtan biri mi vardı ( V )<br />**Bu parçada numaralanmış yerlerden hangisine, soru işareti (?) konulamaz?**
@@ -2217,8 +2090,7 @@
     - D-) IV
     - E-) V
 
-    > **Açıklama:** Soru Ekinin yazımı
-    > Soru eki olan ‘’mi’’ ayrı yazılır, ancak bunun yanında ‘’mi’’ pekiştirme amaçlı da kullanılabilir. Burada cümleyi birbirine bağlayan bir bağlaç olduğundan araya soru işareti konulması yanlış olur. Ayrıca oradaki yeni mi soru anlamı taşımamaktadır, kalıp ifadedir.
+    > **Açıklama:** Soru Ekinin yazımı<br />Soru eki olan ‘’mi’’ ayrı yazılır, ancak bunun yanında ‘’mi’’ pekiştirme amaçlı da kullanılabilir. Burada cümleyi birbirine bağlayan bir bağlaç olduğundan araya soru işareti konulması yanlış olur. Ayrıca oradaki yeni mi soru anlamı taşımamaktadır, kalıp ifadedir.
 
     <hr />
 1. **Aşağıdakilerden hangisinde altı çizili sözcüğün büyük ünlü uyumuna uymayış nedeni diğerlerinden farklıdır?**
@@ -2228,8 +2100,7 @@
     - D-) Arabanın lastiklerinin inik olduğunu fark etmemişti bile.
     - **Cevap E-) Seninle meslektaşız demek, diye karşısındaki adamı uzun uzun süzdü.**
 
-    > **Açıklama:** Ses Uyumları ve Yazım Kuralları
-    > Büyük Ünlü Uyumu, Türkçe sözcüklerdeki ünlülerin kalınlık-incelik bakımından uyumudur. Diğer seçeneklerde sözcüğün kökü Büyük Ünlü Uyumuna uymazken meslektaş sözcüğünden ek uyumu bozmuştur.
+    > **Açıklama:** Ses Uyumları ve Yazım Kuralları<br />Büyük Ünlü Uyumu, Türkçe sözcüklerdeki ünlülerin kalınlık-incelik bakımından uyumudur. Diğer seçeneklerde sözcüğün kökü Büyük Ünlü Uyumuna uymazken meslektaş sözcüğünden ek uyumu bozmuştur.
 
     <hr />
 1. **Aşağıdaki cümlelerin hangisinde hem büyük ünlü uyumuna, hem de küçük ünlü uyumuna uymayan bir sözcük bulunmaktadır?**
@@ -2239,8 +2110,7 @@
     - **Cevap D-) Aya haber sal çıksın bu gece, yaşamak istiyorum gençliğimi yeni baştan.**
     - E-) Uzak bir sevgiden her ne kalmışsa, unutuldu ve duruldu kalbimiz.
 
-    > **Açıklama:** Ses Uyumları ve Yazım Kuralları
-    > fani, rüzgar, liman, istiyorum, kalbimiz sözcükleri Büyük Ünlü Uyumuna uymamaktadır. İstiyorum sözcüğünde ise hem Büyük Ünlü Uyumuna, hem de Küçük Ünlü Uyumuna uyumsuzluk söz konusudur. – yor şimdiki zaman eki Küçük Ünlü Uyumu kuralına daima aykırıdır. Çünkü Türkçe sözcüklerde o, ö ünlüleri sadece ilk hecede yer alır. o ve ö ünlüleri Türkçede sadece ilk hecede yer alır.
+    > **Açıklama:** Ses Uyumları ve Yazım Kuralları<br />fani, rüzgar, liman, istiyorum, kalbimiz sözcükleri Büyük Ünlü Uyumuna uymamaktadır. İstiyorum sözcüğünde ise hem Büyük Ünlü Uyumuna, hem de Küçük Ünlü Uyumuna uyumsuzluk söz konusudur. – yor şimdiki zaman eki Küçük Ünlü Uyumu kuralına daima aykırıdır. Çünkü Türkçe sözcüklerde o, ö ünlüleri sadece ilk hecede yer alır. o ve ö ünlüleri Türkçede sadece ilk hecede yer alır.
 
     <hr />
 1. **Aşağıdaki sözcüklerin hangisinin yükleminde ünlü daralması yoktur?**
@@ -2250,8 +2120,7 @@
     - D-) Herkes, onun yolunu gözlüyor.
     - **Cevap E-) Yanında bir arkadaşını getiriyor.**
 
-    > **Açıklama:** Ses Uyumları ve Yazım Kuralları – Ünlü Daralması
-    > Sonu e / a ile biten fiillerde – yor şimdiki zaman eki geldiğinde geniş olan e / a daralır ve ı / i / u / ü olur. Suluyor, suçluyor, uğramıyor, gözlüyor fiillerinde daralma görülürken getiriyor fiilinde fiille şimdiki zaman eki arasına – i yardımcı sesi getirilmiştir, ünlü türemesi vardır.
+    > **Açıklama:** Ses Uyumları ve Yazım Kuralları – Ünlü Daralması<br />Sonu e / a ile biten fiillerde – yor şimdiki zaman eki geldiğinde geniş olan e / a daralır ve ı / i / u / ü olur. Suluyor, suçluyor, uğramıyor, gözlüyor fiillerinde daralma görülürken getiriyor fiilinde fiille şimdiki zaman eki arasına – i yardımcı sesi getirilmiştir, ünlü türemesi vardır.
 
     <hr />
 1. **Aşağıdakilerden hangisinde ünlü düşmesinin olduğu bir sözcükte ünlü daralması da vardır?**
@@ -2261,8 +2130,7 @@
     - D-) Bu konuda söyleyecek hiçbir söz bulamıyorum.
     - E-) Durup dururken ne diye bağırdı ki...
 
-    > **Açıklama:** Ses Uyumları ve Yazım Kuralları – Ünlü Daralması
-    > oyun –a – yor –du biçiminde kök ve eklerine ayırdığımızda kökte bir ünlü düşmesi görülmektedir. Aynı zamanda da – a isimden fiili yapım eki daralmış, -u olmuştur.
+    > **Açıklama:** Ses Uyumları ve Yazım Kuralları – Ünlü Daralması<br />oyun –a – yor –du biçiminde kök ve eklerine ayırdığımızda kökte bir ünlü düşmesi görülmektedir. Aynı zamanda da – a isimden fiili yapım eki daralmış, -u olmuştur.
 
     <hr />
 1. Aşağıdakilerden hangisinde büyük harf kullanımı ile ilgili bir yazım yanlışı vardır?
@@ -2432,8 +2300,7 @@
     - **Cevap D-) Karanlığın içinden Emine’nin beyaz dişleri iki sır sedef taneleri gibi parlıyor. (Yakup Kadri, Yaban)**
     - E-) Kendimi hiç de eksik hissetmiyorum. (Ayşe Kulin, Türkan)
 
-    > **Açıklama:** Karanlığın içinden Emine’nin beyaz dişleri iki sır sedef taneleri gibi **parlıyor**. (Yakup Kadri, Yaban)
-    > parlamak-parlıyor
+    > **Açıklama:** Karanlığın içinden Emine’nin beyaz dişleri iki sır sedef taneleri gibi **parlıyor**. (Yakup Kadri, Yaban)<br />parlamak-parlıyor
 
     <hr />
 1. Aşağıdaki paragraftaki hata nedir?<br />"Vakit gece yarısını geçmiş olmalıydı. Annem ve kız kardeşlerim çoktan uyumuşlardı. Arada, dışarıdan babamın kalın öksürüğü geliyordu. Biz Niyaziyle koyun koyuna, usul usul konuşuyorduk. (Orhan Kemal, Baba Evi)"
@@ -2523,8 +2390,7 @@
     - D-) Bugüne kadarki tecrübelerime dayanarak diyebilirim ki, her rengin alıcısı var.
     - E-) Umudu da umutsuzluğu da yaşadım; ancak hiçbir zaman yılgınlığa kapılmadım.
 
-    > **Açıklama:** Yıllar sonra lise arkadaşlarımızla buluştuk. Kimler gelmemişti ki? Lisedeyken en samimi arkadaşımı, Haluğu orada gördüm.
-    > Özel isimlerde nöbetleşme sözlü dilde olur ancak yazılı dilde olmaz. Doğrusu Haluk'u olmalıydı.
+    > **Açıklama:** Yıllar sonra lise arkadaşlarımızla buluştuk. Kimler gelmemişti ki? Lisedeyken en samimi arkadaşımı, Haluğu orada gördüm.<br />Özel isimlerde nöbetleşme sözlü dilde olur ancak yazılı dilde olmaz. Doğrusu Haluk'u olmalıydı.
 
     <hr />
 1. Aşağıdakilerin hangisinde ünlü düşmesinden kaynaklanan yazım yanlışı yapılmıştır?
@@ -2664,16 +2530,7 @@
     - D-) Topkapı sarayı Osmanlı padişahlarının yaşadığı yerdir.
     - E-) Sınavdan yüz alınca Dünya'lar benim oldu.
 
-    > **Açıklama:** Büyük Harf Kullanımı
-    > 1\. Bütün özel isimler -kişi adları ve soyadları, ülke, millet, dil, din, mezhep, gezegen, yer, bölge, yerleşim birimleri, kurum, kuruluş, eser, gazete, dergi, kanun, tüzük, dönem, mevsim, (belirli bir tarih bildiren) ay ve gün, bayram, toplantı vb. isimleri - büyük harfle başlatılır.
-    > 2\. Birtakım kısaltmaların tamamı veya ilk harfleri büyük harfle yazılır.
-    > 3\. Bütün cümleler ile şiirlerde dizeler büyük harfle başlar.
-    > 4\. İki noktadan sonra veya tırnak içinde verilen cümlelerin ilk kelimesi büyük harfle başlar ve sonuna ilgili noktalama işareti konur.
-    > 5\. Unvanlar ve lakap gibi kullanılan akrabalık sözleri büyük harfle yazılır.
-    > 6\. Hitap sonrası kullanılan unvanlar büyük harfle yazılır.
-    > 7\. Kitap, dergi, bildiri vb. gibi çalışmalarda, yazı başlıkları ve çizelge, şema vb. ile ilgili açıklamaların ilk harfleri büyük yazılır.
-    > 8\. Tabela, levha gibi yazılarda sözcüklerin ilk harfi büyük yazılır.
-    > 9\. Özel adlardan türetilen bütün sözcüklerin ilk harfleri büyük yazılır.
+    > **Açıklama:** Büyük Harf Kullanımı<br />1\. Bütün özel isimler -kişi adları ve soyadları, ülke, millet, dil, din, mezhep, gezegen, yer, bölge, yerleşim birimleri, kurum, kuruluş, eser, gazete, dergi, kanun, tüzük, dönem, mevsim, (belirli bir tarih bildiren) ay ve gün, bayram, toplantı vb. isimleri - büyük harfle başlatılır.<br />2\. Birtakım kısaltmaların tamamı veya ilk harfleri büyük harfle yazılır.<br />3\. Bütün cümleler ile şiirlerde dizeler büyük harfle başlar.<br />4\. İki noktadan sonra veya tırnak içinde verilen cümlelerin ilk kelimesi büyük harfle başlar ve sonuna ilgili noktalama işareti konur.<br />5\. Unvanlar ve lakap gibi kullanılan akrabalık sözleri büyük harfle yazılır.<br />6\. Hitap sonrası kullanılan unvanlar büyük harfle yazılır.<br />7\. Kitap, dergi, bildiri vb. gibi çalışmalarda, yazı başlıkları ve çizelge, şema vb. ile ilgili açıklamaların ilk harfleri büyük yazılır.<br />8\. Tabela, levha gibi yazılarda sözcüklerin ilk harfi büyük yazılır.<br />9\. Özel adlardan türetilen bütün sözcüklerin ilk harfleri büyük yazılır.
 
     <hr />
 1. Hangisi Türkçe'nin değişmeyen yazım kurallarından değildir?
@@ -2693,14 +2550,7 @@
     - D-) Akşam yemeğinde imam bayıldı ve pirinç pilavı var.
     - E-) Hayatımda hiç bu kadar çıt kırıldım bir insan görmemiştim.
 
-    > **Açıklama:** Bitişik Yazılan Sözcükler
-    > 1\. İki sözcük birlikte kullanıldığında ses düşmesi, türemesi veya değişmesi oluyorsa bitişik yazılır
-    > 2\. Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.
-    > 3\. Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak, yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A, -U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır.
-    > 4\. Fiil çekim eklerinin ve fiilimsilerin kalıplaşmasıyla ortaya çıkan ve yeni anlam taşıyan sözcükler bitişik yazılır.
-    > 5\. Birleşik yapıdaki kişi ad ve soyadları, yer adları, kurum adları bitişik yazılır.
-    > 6\. Ara yönleri bildiren sözcükler ile artık somut yer bildirmeyen alt, üst, üzeri sözcükleriyle kurulan birleşik sözcükler bitişik yazılır.
-    > 7\. Dilimize Arapça ve Farsçadan geçen, tek sözcük gibi düşünülen tamlamalar bitişik yazılır.
+    > **Açıklama:** Bitişik Yazılan Sözcükler<br />1\. İki sözcük birlikte kullanıldığında ses düşmesi, türemesi veya değişmesi oluyorsa bitişik yazılır<br />2\. Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.<br />3\. Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak, yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A, -U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır.<br />4\. Fiil çekim eklerinin ve fiilimsilerin kalıplaşmasıyla ortaya çıkan ve yeni anlam taşıyan sözcükler bitişik yazılır.<br />5\. Birleşik yapıdaki kişi ad ve soyadları, yer adları, kurum adları bitişik yazılır.<br />6\. Ara yönleri bildiren sözcükler ile artık somut yer bildirmeyen alt, üst, üzeri sözcükleriyle kurulan birleşik sözcükler bitişik yazılır.<br />7\. Dilimize Arapça ve Farsçadan geçen, tek sözcük gibi düşünülen tamlamalar bitişik yazılır.
 
     <hr />
 1. Aşağıdaki cümlelerin hangisinde bitişik sözcük doğru yazılmıştır?
@@ -2710,14 +2560,7 @@
     - D-) Gece sınava çalışırken uyuya kalmışım.
     - E-) Okulda öğrencilere su çiçeği aşısı yapılmış.
 
-    > **Açıklama:** Bitişik Yazılan Sözcükler
-    > 1\. İki sözcük birlikte kullanıldığında ses düşmesi, türemesi veya değişmesi oluyorsa bitişik yazılır
-    > 2\. Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.
-    > 3\. Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak, yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A, -U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır.
-    > 4\. Fiil çekim eklerinin ve fiilimsilerin kalıplaşmasıyla ortaya çıkan ve yeni anlam taşıyan sözcükler bitişik yazılır.
-    > 5\. Birleşik yapıdaki kişi ad ve soyadları, yer adları, kurum adları bitişik yazılır.
-    > 6\. Ara yönleri bildiren sözcükler ile artık somut yer bildirmeyen alt, üst, üzeri sözcükleriyle kurulan birleşik sözcükler bitişik yazılır.
-    > 7\. Dilimize Arapça ve Farsçadan geçen, tek sözcük gibi düşünülen tamlamalar bitişik yazılır.
+    > **Açıklama:** Bitişik Yazılan Sözcükler<br />1\. İki sözcük birlikte kullanıldığında ses düşmesi, türemesi veya değişmesi oluyorsa bitişik yazılır<br />2\. Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.<br />3\. Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak, yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A, -U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır.<br />4\. Fiil çekim eklerinin ve fiilimsilerin kalıplaşmasıyla ortaya çıkan ve yeni anlam taşıyan sözcükler bitişik yazılır.<br />5\. Birleşik yapıdaki kişi ad ve soyadları, yer adları, kurum adları bitişik yazılır.<br />6\. Ara yönleri bildiren sözcükler ile artık somut yer bildirmeyen alt, üst, üzeri sözcükleriyle kurulan birleşik sözcükler bitişik yazılır.<br />7\. Dilimize Arapça ve Farsçadan geçen, tek sözcük gibi düşünülen tamlamalar bitişik yazılır.
 
     <hr />
 1. Hangi cümlede ek fiil doğru şekilde kullanılmıştır?
@@ -2727,9 +2570,7 @@
     - D-) Demirden korksa trene binmez imiş!
     - E-) Biz burada değil iken çok yaramazlık yaptın mı?
 
-    > **Açıklama:** Ek Fiilin Yazımı
-    > 1\. İsim veya fiil soylu yüklemlere, ek fiilin çekimli idi, imiş veya ise biçimleri getirildiğinde bunlar ayrı veya bitişik yazılabilir. Aynı durum ek fiilin zarf-fiil biçimi olan iken için de söz konusudur.
-    > 2\. Sözcük ünlüyle bitiyorsa, ek fiilin başındaki /i/ ünlüsü yarı ünlü /y/ sesine dönüşür.
+    > **Açıklama:** Ek Fiilin Yazımı<br />1\. İsim veya fiil soylu yüklemlere, ek fiilin çekimli idi, imiş veya ise biçimleri getirildiğinde bunlar ayrı veya bitişik yazılabilir. Aynı durum ek fiilin zarf-fiil biçimi olan iken için de söz konusudur.<br />2\. Sözcük ünlüyle bitiyorsa, ek fiilin başındaki /i/ ünlüsü yarı ünlü /y/ sesine dönüşür.
 
     <hr />
 1. I- Son nüfus sayımına göre Türkiye'de 82 milyon 3 bin 882 kişi yaşamaktadır.<br />II- Bir yıl üç yüz atmış beş gün altı saattir.<br />III- Fizik sınavından yetmişiki aldım.<br />Yukarıdaki cümlelerin hangisinde yazım hatası vardır?
@@ -2739,13 +2580,7 @@
     - D-) I, II ve III
     - E-) Yalnız III
 
-    > **Açıklama:** Sayıların Yazımı
-    > 1\. Ondan itibaren birleşik rakamlar yazıyla verildiğinde bunlar ayrı ayrı yazılır.
-    > 2\. Büyük sayılar yazılırken okumayı kolaylaştırmak amacıyla farklı yöntemler kullanılır.
-    > 3\. Eğer sayılar rakamla yazılıyor ve sonrasında ek geliyorsa bu eklerin yazımında ünlü ve ünsüz uyumlarına uyulur ve bunlar kesme işareti kullanılarak yazılır.
-    > Doğru yazımlar aşağıdaki gibidir.
-    > II- 1 yıl üç yüz altmış beş gün 6 saattir.
-    > III- Fizik sınavından yetmiş iki aldım.
+    > **Açıklama:** Sayıların Yazımı<br />1\. Ondan itibaren birleşik rakamlar yazıyla verildiğinde bunlar ayrı ayrı yazılır.<br />2\. Büyük sayılar yazılırken okumayı kolaylaştırmak amacıyla farklı yöntemler kullanılır.<br />3\. Eğer sayılar rakamla yazılıyor ve sonrasında ek geliyorsa bu eklerin yazımında ünlü ve ünsüz uyumlarına uyulur ve bunlar kesme işareti kullanılarak yazılır.<br />Doğru yazımlar aşağıdaki gibidir.<br />II- 1 yıl üç yüz altmış beş gün 6 saattir.<br />III- Fizik sınavından yetmiş iki aldım.
 
     <hr />
 1. Hangi cümlede -ki eki doğru bir şekilde kullanılmıştır?
@@ -2755,22 +2590,7 @@
     - **Cevap D-) Diğer ülkelerde bulunan doğal güzelliklere göre Türkiye'ninkiler daha güzel.**
     - E-) Derlerki bugünün işini yarına bırakma.
 
-    > **Açıklama:** +ki Aitlik Eki, ki Bağlacı ile ki Pekiştirme ve Şüphe Edatının Yazımı
-    > Türkçede sesteş olan üç ayrı ki vardır:
-    > Aitlik bildiren +ki ekinin yazımı: Bir ek olduğu için sözcüğe bitişik yazılır.
-    > Elimizdeki imkânları kullanmamakta neden direniyoruz? (Haldun Taner, Koyma Akıl, Oyma Akıl)
-    > Bağlama işlevindeki ki sözcüğünün yazımı: İki cümleyi bağlayan yani bağlaç olan ki ayrı yazılır.
-    > Bizim de işimiz bu! Onlar unutacak, biz söyleyeceğiz ki cümle âlem duysun. (Feyza Hepçilingirler, Türkçe “OFF”)
-    > Pekiştirme veya şüphe görevinde kullanılan ki sözcüğünün yazımı: Pekiştirme görevindeki ki sözü yüklemlerden sonra kullanılır ve ayrı yazılır.
-    > Sen zaten evde çalışıyorsun, senden önce gelebilmem mümkün değil ki! (Ayşe Kulin, Türkan)
-    > Türkçede özellikle ilk iki maddedekilerin karıştırıldığı, çok defa ayrı yazılacakken bitişik yazıldığı görülmektedir. Bunu ayırt etmenin iki basit çözümü vardır:
-    > • Üzerine hâl eki getirmek mümkünse bitişik, değilse ayrı yazılmalıdır: Evdekine, yoldakinden, seninkini vb.
-    > Elbette Avrupa ülkelerinde konuşulan Türkçe, Türkiye’dekinden farklı şartlar altında varlığını devam ettirmekte, kendine has kimi özellikler geliştirmektedir.
-    > (Nurettin Demir-Emine Yılmaz, Türk Dili El Kitabı)
-    > ki cümleden çıkarıldığında anlam bozuluyorsa bitişik; bozulmuyorsa ayrı yazılır.
-    > Derler ki binlerce işçi çalışmış bu köşkü yapmak için; şimdi hiçbirinin adı bilinmez. (Murathan Mungan, Lal Masallar)
-    > Yukarıdaki metni okuyunuz. Bir de koyu yazılı sözcüğü çıkarak okuyunuz.
-    > Böyle okunduğunda da cümlenin anlamının bozulmadığı görülür. Öyleyse burada ki ayrı yazılmalıdır.
+    > **Açıklama:** +ki Aitlik Eki, ki Bağlacı ile ki Pekiştirme ve Şüphe Edatının Yazımı<br />Türkçede sesteş olan üç ayrı ki vardır:<br />Aitlik bildiren +ki ekinin yazımı: Bir ek olduğu için sözcüğe bitişik yazılır.<br />Elimizdeki imkânları kullanmamakta neden direniyoruz? (Haldun Taner, Koyma Akıl, Oyma Akıl)<br />Bağlama işlevindeki ki sözcüğünün yazımı: İki cümleyi bağlayan yani bağlaç olan ki ayrı yazılır.<br />Bizim de işimiz bu! Onlar unutacak, biz söyleyeceğiz ki cümle âlem duysun. (Feyza Hepçilingirler, Türkçe “OFF”)<br />Pekiştirme veya şüphe görevinde kullanılan ki sözcüğünün yazımı: Pekiştirme görevindeki ki sözü yüklemlerden sonra kullanılır ve ayrı yazılır.<br />Sen zaten evde çalışıyorsun, senden önce gelebilmem mümkün değil ki! (Ayşe Kulin, Türkan)<br />Türkçede özellikle ilk iki maddedekilerin karıştırıldığı, çok defa ayrı yazılacakken bitişik yazıldığı görülmektedir. Bunu ayırt etmenin iki basit çözümü vardır:<br />• Üzerine hâl eki getirmek mümkünse bitişik, değilse ayrı yazılmalıdır: Evdekine, yoldakinden, seninkini vb.<br />Elbette Avrupa ülkelerinde konuşulan Türkçe, Türkiye’dekinden farklı şartlar altında varlığını devam ettirmekte, kendine has kimi özellikler geliştirmektedir.<br />(Nurettin Demir-Emine Yılmaz, Türk Dili El Kitabı)<br />ki cümleden çıkarıldığında anlam bozuluyorsa bitişik; bozulmuyorsa ayrı yazılır.<br />Derler ki binlerce işçi çalışmış bu köşkü yapmak için; şimdi hiçbirinin adı bilinmez. (Murathan Mungan, Lal Masallar)<br />Yukarıdaki metni okuyunuz. Bir de koyu yazılı sözcüğü çıkarak okuyunuz.<br />Böyle okunduğunda da cümlenin anlamının bozulmadığı görülür. Öyleyse burada ki ayrı yazılmalıdır.
 
     <hr />
 1. Cümlelerin hangisinde yazım yanlışı vardır?
@@ -2780,8 +2600,7 @@
     - D-) Sorumlu tutulabilirliğin yerini alması gereken sözcük değiştirilebilirlik olmalıdır.
     - E-) İnsan davranışlarında özgür iradenin yeri, eski ve hararetli bir tartışma konusudur.
 
-    > **Açıklama:** Sözcük Sonunda /ç/ > /c/ Nöbetleşmesi
-    > Türkçede hac, sac gibi birkaç sözcük dışında esas olarak sözcük sonunda /c/ sesi bulunmaz. İki veya daha fazla heceli sözcüklerin sonundaki /ç/ sesleri ise, ünlüyle başlayan ekle kullanıldığında /ç/ > /c/ olur: kıvanç+ı+m > kıvancım; avuç+a > avuca; sevinç+i > sevinci, kırlangıç+a > kırlangıca vb.
+    > **Açıklama:** Sözcük Sonunda /ç/ > /c/ Nöbetleşmesi<br />Türkçede hac, sac gibi birkaç sözcük dışında esas olarak sözcük sonunda /c/ sesi bulunmaz. İki veya daha fazla heceli sözcüklerin sonundaki /ç/ sesleri ise, ünlüyle başlayan ekle kullanıldığında /ç/ > /c/ olur: kıvanç+ı+m > kıvancım; avuç+a > avuca; sevinç+i > sevinci, kırlangıç+a > kırlangıca vb.
 
     <hr />
 1. Hangi seçenekte büyük harf kullanımı ile ilgili bir yanlış vardır?
@@ -2891,8 +2710,7 @@
     - **Cevap D-) Cins isimler**
     - E-) Özel isimler
 
-    > **Açıklama:** Bütün özel isimler -kişi adları ve soyadları, ülke, millet, dil, din, mezhep, gezegen, yer, bölge, yerleşim birimleri, kurum, kuruluş, eser, gazete, dergi, kanun, tüzük, dönem, mevsim, (belirli bir tarih bildiren) ay ve
-    > gün, bayram, toplantı vb. isimleri - büyük harfle başlatılır. Doğru cevap D seçeneğidir.
+    > **Açıklama:** Bütün özel isimler -kişi adları ve soyadları, ülke, millet, dil, din, mezhep, gezegen, yer, bölge, yerleşim birimleri, kurum, kuruluş, eser, gazete, dergi, kanun, tüzük, dönem, mevsim, (belirli bir tarih bildiren) ay ve<br />gün, bayram, toplantı vb. isimleri - büyük harfle başlatılır. Doğru cevap D seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisinin yazımı doğrudur?
@@ -2902,8 +2720,7 @@
     - D-) Dede korkut
     - E-) Şeyh Galibin
 
-    > **Açıklama:** Bütün özel isimler -kişi adları ve soyadları, ülke, millet, dil, din, mezhep, gezegen, yer, bölge, yerleşim birimleri, kurum, kuruluş, eser, gazete, dergi, kanun, tüzük, dönem, mevsim, (belirli bir tarih bildiren) ay ve
-    > gün, bayram, toplantı vb. isimleri - büyük harfle başlatılır. Doğru cevap A seçeneğidir.
+    > **Açıklama:** Bütün özel isimler -kişi adları ve soyadları, ülke, millet, dil, din, mezhep, gezegen, yer, bölge, yerleşim birimleri, kurum, kuruluş, eser, gazete, dergi, kanun, tüzük, dönem, mevsim, (belirli bir tarih bildiren) ay ve<br />gün, bayram, toplantı vb. isimleri - büyük harfle başlatılır. Doğru cevap A seçeneğidir.
 
     <hr />
 1. Unvanlar ve lakap gibi kullanılan akrabalık sözlerinin yazımı hangi seçenekte doğru verilmiştir?
@@ -2913,8 +2730,7 @@
     - D-) Dede korkut
     - **Cevap E-) Yüzbaşı Cengiz Topel**
 
-    > **Açıklama:** Unvanlar ve lakap gibi kullanılan akrabalık sözleri büyük harfle yazılır.
-    > Sultan Murat, Şah İsmail, Yüzbaşı Cengiz Topel, Dede Korkut, Nene Hatun, Hala Sultan vb. Doğru cevap E seçeneğidir.
+    > **Açıklama:** Unvanlar ve lakap gibi kullanılan akrabalık sözleri büyük harfle yazılır.<br />Sultan Murat, Şah İsmail, Yüzbaşı Cengiz Topel, Dede Korkut, Nene Hatun, Hala Sultan vb. Doğru cevap E seçeneğidir.
 
     <hr />
 1. "Güzelmi güzel bir kızdı. Öyle bir havası vardı ki yanına kimse yaklaşamıyordu bile. Mahalledeki kızlar da ona hayrandı." Parçadaki yazım yanlışı hangi durumla ilgilidir?
@@ -2934,9 +2750,7 @@
     - D-) Muhterem dedeciğim
     - E-) saygıdeğer meslektaşlar
 
-    > **Açıklama:** Hitap sonrası kullanılan unvanlar büyük harfle yazılır.
-    > Sayın Başkan, Saygıdeğer Meslektaşlar, Aziz Dostum, Sevgili Babacığım, Muhterem Dedeciğim;
-    > Doğru cevap C seçeneğidir.
+    > **Açıklama:** Hitap sonrası kullanılan unvanlar büyük harfle yazılır.<br />Sayın Başkan, Saygıdeğer Meslektaşlar, Aziz Dostum, Sevgili Babacığım, Muhterem Dedeciğim;<br />Doğru cevap C seçeneğidir.
 
     <hr />
 1. Aşağıda verilen birleşik sözcüğü oluşturan yazımlardan hangisi doğrudur?
@@ -2946,11 +2760,7 @@
     - D-) su çiçeği
     - E-) dilber dudağı
 
-    > **Açıklama:** Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.
-    > hanımeli (çiçek adı), kalburabastı (tatlı adı), imambayıldı (yemek adı), üçayak
-    > (bir halay türü), danaburnu (böcek adı), suçiçeği (hastalık), dilberdudağı (tatlı
-    > adı), kargaburnu (alet), demirbaş (dayanıklı veya temel eşya) vb.
-    > Doğru cevap B seçeneğidir.
+    > **Açıklama:** Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.<br />hanımeli (çiçek adı), kalburabastı (tatlı adı), imambayıldı (yemek adı), üçayak<br />(bir halay türü), danaburnu (böcek adı), suçiçeği (hastalık), dilberdudağı (tatlı<br />adı), kargaburnu (alet), demirbaş (dayanıklı veya temel eşya) vb.<br />Doğru cevap B seçeneğidir.
 
     <hr />
 1. Aşağıda verilen isimlerden hangisinin yazımı doğrudur?
@@ -2960,12 +2770,7 @@
     - D-) Açık öğretim Fakültesi
     - **Cevap E-) Osmaneli**
 
-    > **Açıklama:** Birleşik yapıdaki kişi ad ve soyadları, yer adları, kurum adları bitişik
-    > yazılır.
-    > Gülenay, Alper, Songül, Birol, Ertan, Ertürk, Türker, Akbay, Erdemir; Kırklareli,
-    > İçel, Çanakkale, Kırıkkale, Karadeniz, Kocatepe, Uludağ, Yenişehir, Yeşilırmak, Osmaneli; Yükseköğretim Kurumu, Açıköğretim Fakültesi, Genelkurmay, Osmangazi
-    > Üniversitesi vb.
-    > Doğru cevap E seçeneğidir.
+    > **Açıklama:** Birleşik yapıdaki kişi ad ve soyadları, yer adları, kurum adları bitişik<br />yazılır.<br />Gülenay, Alper, Songül, Birol, Ertan, Ertürk, Türker, Akbay, Erdemir; Kırklareli,<br />İçel, Çanakkale, Kırıkkale, Karadeniz, Kocatepe, Uludağ, Yenişehir, Yeşilırmak, Osmaneli; Yükseköğretim Kurumu, Açıköğretim Fakültesi, Genelkurmay, Osmangazi<br />Üniversitesi vb.<br />Doğru cevap E seçeneğidir.
 
     <hr />
 1. Aşağıda verilen dilimize Arapça ve Farsçadan geçen sözcüklerden hangisinin yazımı doğrudur?
@@ -2975,9 +2780,7 @@
     - D-) hüsnü niyet
     - E-) gayri menkul
 
-    > **Açıklama:** Dilimize Arapça ve Farsçadan geçen, tek sözcük gibi düşünülen tamlamalar bitişik yazılır.
-    > fevkalade, suikast; ehlibeyt, cihanşümul, hüsnüniyet, gayrimenkul vb.
-    > Doğru cevap B seçeneğidir.
+    > **Açıklama:** Dilimize Arapça ve Farsçadan geçen, tek sözcük gibi düşünülen tamlamalar bitişik yazılır.<br />fevkalade, suikast; ehlibeyt, cihanşümul, hüsnüniyet, gayrimenkul vb.<br />Doğru cevap B seçeneğidir.
 
     <hr />
 1. Aşağıda verilen sözcüklerden hangisinin yazımı doğrudur?
@@ -2987,15 +2790,7 @@
     - D-) madensuyu
     - E-) haftabaşı
 
-    > **Açıklama:** Hayvan veya bitki, eşya veya alet, durum, yer, bilim ve bilgi, yiyecek, gök
-    > cisimleri, organ, zaman, renk, yön, yol ve ulaşım vb. bildiren sözcüklerden birisi ile oluşan ve bunlardan birisinin anlamını koruduğu birleşik
-    > sözcükler ayrı yazılır.
-    > köpek balığı, muhabbet kuşu, hamam böceği, deniz yılanı, küpe çiçeği, yer elması, şeker kamışı, kuru incir, tuz ruhu, sirke ruhu; boy aynası, çakmak taşı, masa
-    > örtüsü, ay tutulması, baş dönmesi, kalp çarpıntısı, gece yarısı, hafta başı; gül rengi,
-    > gece mavisi, açık sarı, koyu yeşil, ses bilgisi, halk bilimi, Çoban Yıldızı, Kutup Yıldızı,
-    > Kuyruklu Yıldız, gök taşı, Doğu Anadolu, Kuzey kutbu, Kemalpaşa tatlısı, içli köfte,
-    > badem şekeri, Adana kebabı, maden suyu, meyve tatlısı, aşık kemiği, işaret parmağı, azı dişi, takma kirpik, köprü yol, çevre yolu, keçi yolu vb.
-    > Doğru cevap A seçeneğidir.
+    > **Açıklama:** Hayvan veya bitki, eşya veya alet, durum, yer, bilim ve bilgi, yiyecek, gök<br />cisimleri, organ, zaman, renk, yön, yol ve ulaşım vb. bildiren sözcüklerden birisi ile oluşan ve bunlardan birisinin anlamını koruduğu birleşik<br />sözcükler ayrı yazılır.<br />köpek balığı, muhabbet kuşu, hamam böceği, deniz yılanı, küpe çiçeği, yer elması, şeker kamışı, kuru incir, tuz ruhu, sirke ruhu; boy aynası, çakmak taşı, masa<br />örtüsü, ay tutulması, baş dönmesi, kalp çarpıntısı, gece yarısı, hafta başı; gül rengi,<br />gece mavisi, açık sarı, koyu yeşil, ses bilgisi, halk bilimi, Çoban Yıldızı, Kutup Yıldızı,<br />Kuyruklu Yıldız, gök taşı, Doğu Anadolu, Kuzey kutbu, Kemalpaşa tatlısı, içli köfte,<br />badem şekeri, Adana kebabı, maden suyu, meyve tatlısı, aşık kemiği, işaret parmağı, azı dişi, takma kirpik, köprü yol, çevre yolu, keçi yolu vb.<br />Doğru cevap A seçeneğidir.
 
     <hr />
 1. Aşağıdakilerin hangisinde büyük harf kullanımıyla ilgili bir yazım yanlışı vardır?
@@ -3005,8 +2800,7 @@
     - D-) Çocuklar bahçede buldukları yavru köpeğe bayılmış ve ona Bulut ismini takmışlardı.
     - E-) Türkiye Büyük Millet Meclisi’nce kabul edilen kanunlar, başvuru halinde Anayasa Mahkemesi tarafından Anayasa’ya uygunluk yönünden denetlenirler.
 
-    > **Açıklama:** 23 nisan 1920 ulu önder Atatürk’ün çocuklara bayram olarak hediye ettiği tarihtir.
-    > Belli bir tarih veriliyorsa ve ay yazı ile yazılıyorsa büyük harfle başlamalıdır. C seçeneğinde "nisan" değil "Nisan" olarak yazılmalıydı.
+    > **Açıklama:** 23 nisan 1920 ulu önder Atatürk’ün çocuklara bayram olarak hediye ettiği tarihtir.<br />Belli bir tarih veriliyorsa ve ay yazı ile yazılıyorsa büyük harfle başlamalıdır. C seçeneğinde "nisan" değil "Nisan" olarak yazılmalıydı.
 
     <hr />
 1. Aşağıdakilerin hangisinde pekiştirme sıfatının yazımı yanlıştır?
@@ -3256,8 +3050,7 @@
     - D-) çıtkırıldım
     - E-) dedikodu
 
-    > **Açıklama:** kadir bil-mez
-    > "kadirbilmez" burada kullanılan fiilimsi "bil-mez" sıfat fiil eklerinden olan -mez eki ile yapılmıştır. Diğer seçeneklerde fiil vardır ama fiilimsi yoktur.
+    > **Açıklama:** kadir bil-mez<br />"kadirbilmez" burada kullanılan fiilimsi "bil-mez" sıfat fiil eklerinden olan -mez eki ile yapılmıştır. Diğer seçeneklerde fiil vardır ama fiilimsi yoktur.
 
     <hr />
 1. Aşağıdaki birleşik yapılardan hangisinin yazımı yanlıştır?
@@ -3267,8 +3060,7 @@
     - D-) Açıköğretim Fakültesi
     - E-) Genelkurmay
 
-    > **Açıklama:** Karadeniz
-    > Kara Deniz
+    > **Açıklama:** Karadeniz<br />Kara Deniz
 
     <hr />
 1. Aşağıdaki birleşik yapılardan hangisinin yazımı doğrudur?
@@ -3278,11 +3070,7 @@
     - D-) haftabaşı
     - E-) ayak üzeri
 
-    > **Açıklama:** suçüstü
-    > güneybatı
-    > gece yarısı
-    > hafta başı
-    > ayaküzeri
+    > **Açıklama:** suçüstü<br />güneybatı<br />gece yarısı<br />hafta başı<br />ayaküzeri
 
     <hr />
 1. Aşağıdaki birleşik yapılardan hangisinin yazımı yanlıştır?
@@ -3292,8 +3080,7 @@
     - D-) takma kirpik
     - E-) ardı sıra
 
-    > **Açıklama:** gayrimenkul
-    > gayri menkul
+    > **Açıklama:** gayrimenkul<br />gayri menkul
 
     <hr />
 1. 1\. DNA<br />2\. Dede Korkut<br />3\. Sayın Başkan<br />Yukarıda verilenlerden hangisi ya da hangileri büyük harf yazım kurallarına uygundur?
@@ -3303,9 +3090,7 @@
     - D-) II ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** **Hitap sonrası kullanılan unvanlar büyük harfle yazılır.** Sayın Başkan, Saygıdeğer Meslektaşlar, Aziz Dostum, Sevgili Babacığım vb. Muhterem Dedeciğim; Pek çok savaşa girip, çıktık; baskınlara uğradık; baskınlar yaptık. (...)
-    > **Unvanlar ve lakap gibi kullanılan akrabalık sözleri büyük harfle yazılır.** Sultan Murat, Şah İsmail, Yüzbaşı Cengiz Topel, Dede Korkut, Nene Hatun, Hala Sultan vb.
-    > **Birtakım kısaltmaların tamamı veya ilk harfleri büyük harfle yazılır.** Dilimizin kimliğimizi ele vermesi kaçınılmazdır. Ama bu ele veriş parmak izinin yahut DNA’nınki kadar kesin olamaz; çünkü genetik kimliğimizi değil, sosyal kimliğimizi belli eder dilimiz.
+    > **Açıklama:** **Hitap sonrası kullanılan unvanlar büyük harfle yazılır.** Sayın Başkan, Saygıdeğer Meslektaşlar, Aziz Dostum, Sevgili Babacığım vb. Muhterem Dedeciğim; Pek çok savaşa girip, çıktık; baskınlara uğradık; baskınlar yaptık. (...)<br />**Unvanlar ve lakap gibi kullanılan akrabalık sözleri büyük harfle yazılır.** Sultan Murat, Şah İsmail, Yüzbaşı Cengiz Topel, Dede Korkut, Nene Hatun, Hala Sultan vb.<br />**Birtakım kısaltmaların tamamı veya ilk harfleri büyük harfle yazılır.** Dilimizin kimliğimizi ele vermesi kaçınılmazdır. Ama bu ele veriş parmak izinin yahut DNA’nınki kadar kesin olamaz; çünkü genetik kimliğimizi değil, sosyal kimliğimizi belli eder dilimiz.
 
     <hr />
 1. 1\. Saygıdeğer Meslektaşlar,<br />2\. Yasak Bölge<br />3\. Hayatı ve Bilimi: Aziz Sancar<br />Yukarıda verilenlerden hangisi ya da hangileri büyük harf yazım kurallarına uygundur?
@@ -3315,9 +3100,7 @@
     - D-) II ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** **Hitap sonrası kullanılan unvanlar büyük harfle yazılır.** Sayın Başkan, Saygıdeğer Meslektaşlar, Aziz Dostum, Sevgili Babacığım vb. Muhterem Dedeciğim; Pek çok savaşa girip, çıktık; baskınlara uğradık; baskınlar yaptık. (...) (Mehmet Niyazi, Çanakkale Mahşeri)
-    > **Kitap, dergi, bildiri vb. gibi çalışmalarda, yazı başlıkları ve çizelge, şema vb. ile ilgili açıklamaların ilk harfleri büyük yazılır.** Yazım Kuralları, Büyük Harf Kullanımı vb.
-    > **Tabela, levha gibi yazılarda sözcüklerin ilk harfi büyük yazılır.** Yasak Bölge.
+    > **Açıklama:** **Hitap sonrası kullanılan unvanlar büyük harfle yazılır.** Sayın Başkan, Saygıdeğer Meslektaşlar, Aziz Dostum, Sevgili Babacığım vb. Muhterem Dedeciğim; Pek çok savaşa girip, çıktık; baskınlara uğradık; baskınlar yaptık. (...) (Mehmet Niyazi, Çanakkale Mahşeri)<br />**Kitap, dergi, bildiri vb. gibi çalışmalarda, yazı başlıkları ve çizelge, şema vb. ile ilgili açıklamaların ilk harfleri büyük yazılır.** Yazım Kuralları, Büyük Harf Kullanımı vb.<br />**Tabela, levha gibi yazılarda sözcüklerin ilk harfi büyük yazılır.** Yasak Bölge.
 
     <hr />
 1. 1\. Çaykovski<br />2\. Noam Chomsky<br />3\. Nikolas Papadopulos<br />Yukarıda verilenlerden hangisi ya da hangileri yabancı isimlerin yazım kurallarına uygundur?
@@ -3327,9 +3110,7 @@
     - D-) II ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** **Türkçeye eskiden yerleşen yabancı isimler söylendiği gibi yazılır.** Çaykovski, Aristo, Dante, Şarlo, Tokyo, Kolombiya, Çar Nikola, Paris, Nis vb. Şu bölgede altın varmış denildi mi, halk deliye dönüyor. Şarlo’nun “Altına Hücum” filmi, mezar taşıdır. (Melih Cevdet Anday, Ölümsüzlük Ardında Gılgamış)
-    > **Latin alfabesi kullanan ülke ve toplumlara ait özel isimler aynen yazılır.** Rio de Janeiro, Margaret Thatcher, Noam Chomsky, National Geographic vb. Amerika’nın en köklü dergilerinden Atlantic, dünyanın en iyi oyuncuları olarak görülen isimlerin en kötü performanslarını bir araya getirdi. Listede Robert De Niro’dan Hellen Mirren’e kadar birçok ünlü isim var. (Milliyet, 20.07.2012)
-    > **Latin alfabesi kullanılmayan ülke ve toplumlara ait özel isimler söylendiği gibi yazılır.** Yeltsin, Nikolas Papadopulos, Benazir Butto, Faysal, Dubai, Tiananmen vb.
+    > **Açıklama:** **Türkçeye eskiden yerleşen yabancı isimler söylendiği gibi yazılır.** Çaykovski, Aristo, Dante, Şarlo, Tokyo, Kolombiya, Çar Nikola, Paris, Nis vb. Şu bölgede altın varmış denildi mi, halk deliye dönüyor. Şarlo’nun “Altına Hücum” filmi, mezar taşıdır. (Melih Cevdet Anday, Ölümsüzlük Ardında Gılgamış)<br />**Latin alfabesi kullanan ülke ve toplumlara ait özel isimler aynen yazılır.** Rio de Janeiro, Margaret Thatcher, Noam Chomsky, National Geographic vb. Amerika’nın en köklü dergilerinden Atlantic, dünyanın en iyi oyuncuları olarak görülen isimlerin en kötü performanslarını bir araya getirdi. Listede Robert De Niro’dan Hellen Mirren’e kadar birçok ünlü isim var. (Milliyet, 20.07.2012)<br />**Latin alfabesi kullanılmayan ülke ve toplumlara ait özel isimler söylendiği gibi yazılır.** Yeltsin, Nikolas Papadopulos, Benazir Butto, Faysal, Dubai, Tiananmen vb.
 
     <hr />
 1. 1\. Çar Nikola<br />2\. Margaret Thatcher<br />3\. Benazir Butto<br />Yukarıda verilenlerden hangisi ya da hangileri yabancı isimlerin yazımı kurallarına uygundur?
@@ -3339,9 +3120,7 @@
     - D-) II ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** **Türkçeye eskiden yerleşen yabancı isimler söylendiği gibi yazılır.** Çaykovski, Aristo, Dante, Şarlo, Tokyo, Kolombiya, Çar Nikola, Paris, Nis vb. Şu bölgede altın varmış denildi mi, halk deliye dönüyor. Şarlo’nun “Altına Hücum” filmi, mezar taşıdır. (Melih Cevdet Anday, Ölümsüzlük Ardında Gılgamış)
-    > **Latin alfabesi kullanan ülke ve toplumlara ait özel isimler aynen yazılır.** Rio de Janeiro, Margaret Thatcher, Noam Chomsky, National Geographic vb. Amerika’nın en köklü dergilerinden Atlantic, dünyanın en iyi oyuncuları olarak görülen isimlerin en kötü performanslarını bir araya getirdi. Listede Robert De Niro’dan Hellen Mirren’e kadar birçok ünlü isim var. (Milliyet, 20.07.2012)
-    > **Latin alfabesi kullanılmayan ülke ve toplumlara ait özel isimler söylendiği gibi yazılır.** Yeltsin, Nikolas Papadopulos, Benazir Butto, Faysal, Dubai, Tiananmen vb.
+    > **Açıklama:** **Türkçeye eskiden yerleşen yabancı isimler söylendiği gibi yazılır.** Çaykovski, Aristo, Dante, Şarlo, Tokyo, Kolombiya, Çar Nikola, Paris, Nis vb. Şu bölgede altın varmış denildi mi, halk deliye dönüyor. Şarlo’nun “Altına Hücum” filmi, mezar taşıdır. (Melih Cevdet Anday, Ölümsüzlük Ardında Gılgamış)<br />**Latin alfabesi kullanan ülke ve toplumlara ait özel isimler aynen yazılır.** Rio de Janeiro, Margaret Thatcher, Noam Chomsky, National Geographic vb. Amerika’nın en köklü dergilerinden Atlantic, dünyanın en iyi oyuncuları olarak görülen isimlerin en kötü performanslarını bir araya getirdi. Listede Robert De Niro’dan Hellen Mirren’e kadar birçok ünlü isim var. (Milliyet, 20.07.2012)<br />**Latin alfabesi kullanılmayan ülke ve toplumlara ait özel isimler söylendiği gibi yazılır.** Yeltsin, Nikolas Papadopulos, Benazir Butto, Faysal, Dubai, Tiananmen vb.
 
     <hr />
 1. I. Üsküdar, Beylerbeyi sırtlarına bakar dururduk. Geçen gemileri seyrederdik. II. Yine bir gün, 27 yaşındaki üsteğmen, Çanakkale’den geçecekleri gün ve saati, denizaltının uğradığı bir limandan telefonla haber verir nişanlısına. III. Meğerse bir sandalda gidiyormuş. Meğerse vakit akşamüzeri, günbatımı, akşammış. Yukarıda verilenlerden hangisi ya da hangileri birleşik sözcüklerin yazım kurallarına uygundur?
@@ -3351,9 +3130,7 @@
     - D-) II ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** Ara yönleri bildiren sözcükler ile artık somut yer bildirmeyen alt, üst, üzeri sözcükleriyle kurulan birleşik sözcükler bitişik yazılır. (III)
-    > Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.(II)
-    > İki sözcük birlikte kullanıldığında ses düşmesi, türemesi veya değişmesi oluyorsa bitişik yazılır. (I)
+    > **Açıklama:** Ara yönleri bildiren sözcükler ile artık somut yer bildirmeyen alt, üst, üzeri sözcükleriyle kurulan birleşik sözcükler bitişik yazılır. (III)<br />Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.(II)<br />İki sözcük birlikte kullanıldığında ses düşmesi, türemesi veya değişmesi oluyorsa bitişik yazılır. (I)
 
     <hr />
 1. 1\. kaydolmak<br />2\. kalburabastı<br />3\. uyuyakalmak<br />Yukarıda verilenlerden hangisi ya da hangileri birleşik sözcüklerin yazım kurallarına uygundur?
@@ -3363,9 +3140,7 @@
     - D-) II ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak, yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A, -U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır.
-    > Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.
-    > İki sözcük birlikte kullanıldığında ses düşmesi, türemesi veya değişmesi oluyorsa bitişik yazılır.
+    > **Açıklama:** Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak, yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A, -U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır.<br />Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.<br />İki sözcük birlikte kullanıldığında ses düşmesi, türemesi veya değişmesi oluyorsa bitişik yazılır.
 
     <hr />
 1. 1\. Bir tohum toprağa düşmeyegörsün, ne yapar eder, çatlar, sonra da fırsatını bulup gelişir böyle.<br />2\. Üsküdar, Beylerbeyi sırtlarına bakar dururduk. Geçen gemileri seyrederdik.<br />3\. Yine bir gün, 27 yaşındaki üsteğmen, Çanakkale’den geçecekleri gün ve saati, denizaltının uğradığı bir limandan telefonla haber verir nişanlısına.<br />Yukarıda verilenlerden hangisi ya da hangileri birleşik sözcük yazım kurallarına uygundur?
@@ -3375,9 +3150,7 @@
     - D-) II ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak, yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A, -U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır.
-    > Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.
-    > İki sözcük birlikte kullanıldığında ses düşmesi, türemesi veya değişmesi oluyorsa bitişik yazılır.
+    > **Açıklama:** Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak, yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A, -U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır.<br />Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.<br />İki sözcük birlikte kullanıldığında ses düşmesi, türemesi veya değişmesi oluyorsa bitişik yazılır.
 
     <hr />
 1. 1\. Kasımpaşa’dan Beyoğlu’na hiç çıkmamış adam ilk konuşmaya başladığı zaman, kara gözlerini açmıştı.<br />2\. Bir tohum toprağa düşmeyegörsün, ne yapar eder, çatlar, sonra da fırsatını bulup gelişir böyle.<br />3\. Yine bir gün, 27 yaşındaki üsteğmen, Çanakkale’den geçecekleri gün ve saati, denizaltının uğradığı bir limandan telefonla haber verir nişanlısına.<br />Yukarıda verilenlerden hangisi ya da hangileri birleşik sözcük yazım kurallarına uygundur?
@@ -3387,10 +3160,7 @@
     - D-) II ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak, yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A, -U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır.
-    > Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.
-    > İki sözcük birlikte kullanıldığında ses düşmesi, türemesi veya değişmesi oluyorsa bitişik yazılır.
-    > Birleşik yapıdaki kişi ad ve soyadları, yer adları, kurum adları bitişik yazılır.
+    > **Açıklama:** Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak, yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A, -U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır.<br />Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.<br />İki sözcük birlikte kullanıldığında ses düşmesi, türemesi veya değişmesi oluyorsa bitişik yazılır.<br />Birleşik yapıdaki kişi ad ve soyadları, yer adları, kurum adları bitişik yazılır.
 
     <hr />
 1. 1\. Üsküdar, Beylerbeyi sırtlarına bakar dururduk. Geçen gemileri seyrederdik.<br />2\. Gerçek sanat eseri böyle en basit tabakadan bir insana seslenebilmeli, duygusunu ona aktarabilmeli.<br />3\. Kasımpaşa’dan Beyoğlu’na hiç çıkmamış adam ilk konuşmaya başladığı zaman, kara gözlerini açmıştı.<br />Yukarıda verilenlerden hangisi ya da hangileri birleşik sözcük yazım kurallarına uygundur?
@@ -3400,10 +3170,7 @@
     - D-) II ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak, yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A, -U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır.
-    > Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.
-    > İki sözcük birlikte kullanıldığında ses düşmesi, türemesi veya değişmesi oluyorsa bitişik yazılır.
-    > Birleşik yapıdaki kişi ad ve soyadları, yer adları, kurum adları bitişik yazılır.
+    > **Açıklama:** Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak, yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A, -U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır.<br />Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.<br />İki sözcük birlikte kullanıldığında ses düşmesi, türemesi veya değişmesi oluyorsa bitişik yazılır.<br />Birleşik yapıdaki kişi ad ve soyadları, yer adları, kurum adları bitişik yazılır.
 
     <hr />
 1. Aşağıdakilerin hangisinde büyük harf kullanılmamasından kaynaklanan yazım yanlışı vardır?
@@ -3423,9 +3190,7 @@
     - D-) Dede Korkut
     - **Cevap E-) hala Sultan**
 
-    > **Açıklama:** Unvanlar ve lakap gibi kullanılan akrabalık sözleri büyük harfle yazılır.
-    > Sultan Murat, Şah İsmail, Yüzbaşı Cengiz Topel, Dede Korkut, Nene Hatun,
-    > Hala Sultan vb.
+    > **Açıklama:** Unvanlar ve lakap gibi kullanılan akrabalık sözleri büyük harfle yazılır.<br />Sultan Murat, Şah İsmail, Yüzbaşı Cengiz Topel, Dede Korkut, Nene Hatun,<br />Hala Sultan vb.
 
     <hr />
 1. Aşağıdakilerin hangisinde pekiştirme sıfatının yazımı **yanlıştır?**
@@ -3455,8 +3220,7 @@
     - **Cevap D-) Ee ne demişler: Evdeki hesap çarşıya uymaz. Kardeşim, ayağını yorganına göre uzatki sonra sen rahat edesin!**
     - E-) Nihayet diplomayı alıyorum. İçim öyle sevinçle dolu, yüreğim öyle kıpır kıpır ki sanki içimde bir güvercin kanat çırpıyor.
 
-    > **Açıklama:** Ee ne demişler: Evdeki hesap çarşıya uymaz. Kardeşim, ayağını yorganına göre uzatki sonra sen rahat edesin!
-    > "uzat ki" şeklinde ayrı yazılmalı.
+    > **Açıklama:** Ee ne demişler: Evdeki hesap çarşıya uymaz. Kardeşim, ayağını yorganına göre uzatki sonra sen rahat edesin!<br />"uzat ki" şeklinde ayrı yazılmalı.
 
     <hr />
 1. Aşağıdakilerin hangisinde düzeltme işaretinin kullanılmamasından kaynaklanan bir anlatım bozukluğu vardır?
@@ -3476,9 +3240,7 @@
     - D-) Sevgili Babacığım
     - **Cevap E-) Muhterem dedeciğim**
 
-    > **Açıklama:** Hitap sonrası kullanılan unvanlar büyük harfle yazılır.
-    > Sayın Başkan, Saygıdeğer Meslektaşlar, Aziz Dostum, Sevgili Babacığım vb.
-    > Muhterem Dedeciğim;
+    > **Açıklama:** Hitap sonrası kullanılan unvanlar büyük harfle yazılır.<br />Sayın Başkan, Saygıdeğer Meslektaşlar, Aziz Dostum, Sevgili Babacığım vb.<br />Muhterem Dedeciğim;
 
     <hr />
 1. Aşağıdakilerin hangisinde /k/ > /ğ/ nöbetleşmesi görülür?
@@ -3518,9 +3280,7 @@
     - D-) Özel addan türetildiği için
     - E-) Dergi adı olduğu için
 
-    > **Açıklama:** Tabela, levha gibi yazılarda sözcüklerin ilk harfi büyük yazılır.
-    > Yasak Bölge.
-    > Tabela, levha yazısı olduğu için
+    > **Açıklama:** Tabela, levha gibi yazılarda sözcüklerin ilk harfi büyük yazılır.<br />Yasak Bölge.<br />Tabela, levha yazısı olduğu için
 
     <hr />
 1. Aşağıdakilerin hangisinde ünlü daralmasından kaynaklanan yazım yanlışı yapılmıştır?
@@ -3540,11 +3300,7 @@
     - D-) suçiçeği
     - E-) dilberdudağı
 
-    > **Açıklama:** 2\. Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.
-    > hanımeli (çiçek adı), kalburabastı (tatlı adı), imambayıldı (yemek adı), üçayak
-    > (bir halay türü), danaburnu (böcek adı), suçiçeği (hastalık), dilberdudağı (tatlı
-    > adı), kargaburnu (alet), demirbaş.
-    > demir baş
+    > **Açıklama:** 2\. Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır.<br />hanımeli (çiçek adı), kalburabastı (tatlı adı), imambayıldı (yemek adı), üçayak<br />(bir halay türü), danaburnu (böcek adı), suçiçeği (hastalık), dilberdudağı (tatlı<br />adı), kargaburnu (alet), demirbaş.<br />demir baş
 
     <hr />
 1. Aşağıdaki seçeneklerden hangisinde yazım yanlışı yapılmıştır?
@@ -3554,8 +3310,7 @@
     - **Cevap D-) Bütün gün halk âşıklarının saz çalmalarını hayran hayran seyir ettik.**
     - E-) Bir ömür çalışıp da elde ettiklerimizi bu kadar çabuk yitirmemiz çok hazin!
 
-    > **Açıklama:** Bütün gün halk âşıklarının saz çalmalarını hayran hayran seyir ettik.
-    > "seyir etmek" değil "seyretmek" olmalıdır.
+    > **Açıklama:** Bütün gün halk âşıklarının saz çalmalarını hayran hayran seyir ettik.<br />"seyir etmek" değil "seyretmek" olmalıdır.
 
     <hr />
 1. Aşağıdakilerden hangisinin yazımında yanlışlık vardır?
@@ -3565,11 +3320,7 @@
     - D-) bekleyedurmak
     - E-) okuyagelmek
 
-    > **Açıklama:** Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak,
-    > yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A,
-    > -U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır.
-    > uyuyakalmak, düşeyazmak, bilebilmek, bekleyedurmak, düşüvermek, okuyagelmek vb.
-    > düşe yazmak
+    > **Açıklama:** Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak,<br />yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A,<br />-U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır.<br />uyuyakalmak, düşeyazmak, bilebilmek, bekleyedurmak, düşüvermek, okuyagelmek vb.<br />düşe yazmak
 
     <hr />
 1. Aşağıdaki sözcüklerden hangisinin yazımı doğrudur?
@@ -3579,9 +3330,7 @@
     - D-) suç üstü
     - E-) bekleye durmak
 
-    > **Açıklama:** Ara yönleri bildiren sözcükler ile artık somut yer bildirmeyen alt, üst,
-    > üzeri sözcükleriyle kurulan birleşik sözcükler bitişik yazılır.
-    > kuzeydoğu, güneybatı; gözaltı, suçüstü, ayaküzeri vb
+    > **Açıklama:** Ara yönleri bildiren sözcükler ile artık somut yer bildirmeyen alt, üst,<br />üzeri sözcükleriyle kurulan birleşik sözcükler bitişik yazılır.<br />kuzeydoğu, güneybatı; gözaltı, suçüstü, ayaküzeri vb
 
     <hr />
 1. Aşağıdaki sözcüklerin hangisinde yazım yanlışlığı vardır?
@@ -3591,11 +3340,7 @@
     - D-) tuz ruhu
     - **Cevap E-) kuruincir**
 
-    > **Açıklama:** 2\. Hayvan veya bitki, eşya veya alet, durum, yer, bilim ve bilgi, yiyecek, gök
-    > cisimleri, organ, zaman, renk, yön, yol ve ulaşım vb. bildiren sözcüklerden birisi ile oluşan ve bunlardan birisinin anlamını koruduğu birleşik
-    > sözcükler ayrı yazılır.
-    > köpek balığı, muhabbet kuşu, hamam böceği, deniz yılanı, küpe çiçeği, yer elması, şeker kamışı, kuru incir, tuz ruhu.
-    > kuruincir
+    > **Açıklama:** 2\. Hayvan veya bitki, eşya veya alet, durum, yer, bilim ve bilgi, yiyecek, gök<br />cisimleri, organ, zaman, renk, yön, yol ve ulaşım vb. bildiren sözcüklerden birisi ile oluşan ve bunlardan birisinin anlamını koruduğu birleşik<br />sözcükler ayrı yazılır.<br />köpek balığı, muhabbet kuşu, hamam böceği, deniz yılanı, küpe çiçeği, yer elması, şeker kamışı, kuru incir, tuz ruhu.<br />kuruincir
 
     <hr />
 1. Aşağıdaki sözcüklerin hangisinde yazım yanlışlığı vardır?
@@ -3605,11 +3350,7 @@
     - D-) onunki
     - E-) kâğıt
 
-    > **Açıklama:** Sayıların Yazımı
-    > 1\. Ondan itibaren birleşik rakamlar yazıyla verildiğinde bunlar ayrı ayrı
-    > yazılır.
-    > on beş kitap, beş yüz bin lira, bir milyon iki yüz bin vb.
-    > "onbeş" yazımı yanlıştır. Sayıların yazımında ondan sonraki sayılar yazı ile yazıldığında ayrı yazılmalıdır. "on beş" olmalıdır.
+    > **Açıklama:** Sayıların Yazımı<br />1\. Ondan itibaren birleşik rakamlar yazıyla verildiğinde bunlar ayrı ayrı<br />yazılır.<br />on beş kitap, beş yüz bin lira, bir milyon iki yüz bin vb.<br />"onbeş" yazımı yanlıştır. Sayıların yazımında ondan sonraki sayılar yazı ile yazıldığında ayrı yazılmalıdır. "on beş" olmalıdır.
 
     <hr />
 1. Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?
@@ -3619,9 +3360,7 @@
     - D-) Sen zaten evde çalışıyorsun, senden önce gelebilmem mümkün değil ki!
     - E-) Derler ki binlerce işçi çalışmış bu köşkü yapmak için; şimdi hiçbirinin adı bilinmez.
 
-    > **Açıklama:** Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı
-    > Bilindiği gibi Türkçede soru eki dışındaki ekler, getirildikleri sözcüğe bitişik; sözcükler ise - bitişik yazılması gerekenlerin dışındakiler - ayrı yazılır. Ancak dilimizde +ki aitlik eki ile bağlaç ve edat olarak kullanılan ki sözcüğü; yine +DA bulunma hali eki ile dA bağlacının yazıda karıştırıldığı görülmektedir.
-    > "Bizimde işimiz bu! Onlar unutacak, biz söyleyeceğiz ki cümle âlem duysun." Cümlede de bağlacının yazımı ile ilgili bir hata vardır. Bağlaç olan de,da her zaman ayrı yazılır. "Bizim de...." biçiminde yazılmalıydı.
+    > **Açıklama:** Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı<br />Bilindiği gibi Türkçede soru eki dışındaki ekler, getirildikleri sözcüğe bitişik; sözcükler ise - bitişik yazılması gerekenlerin dışındakiler - ayrı yazılır. Ancak dilimizde +ki aitlik eki ile bağlaç ve edat olarak kullanılan ki sözcüğü; yine +DA bulunma hali eki ile dA bağlacının yazıda karıştırıldığı görülmektedir.<br />"Bizimde işimiz bu! Onlar unutacak, biz söyleyeceğiz ki cümle âlem duysun." Cümlede de bağlacının yazımı ile ilgili bir hata vardır. Bağlaç olan de,da her zaman ayrı yazılır. "Bizim de...." biçiminde yazılmalıydı.
 
     <hr />
 1. Aşağıdaki cümlelerin hangisinde yazım yanlışlığı vardır?
@@ -3631,23 +3370,7 @@
     - D-) Öyle ki, Yorgi bir gün: - Yahu çocuklar, demişti, ay ışığında futbol oynamak kıyak mı kıyak olacak!
     - E-) İyisi mi, yarından tezi yok, keşişin izini tutup gidelim; kader, kısmetse bir gün olur arkalarından yetişiriz.
 
-    > **Açıklama:** Soru Ekinin Yazımı
-    > Soru eki, diğer eklerden farklı olarak daima ayrı yazılır ve sonuna “?” işareti konur. Kimi durumlarda soru ekinin üzerine kişi ekleri de getirilebilir, ancak bu
-    > durum ayrı yazılma kuralını değiştirmez.
-    > Hey Allah’ım, bu suali okumaktan bıkmadın mı hâlâ? (Ayşe Kulin, Türkan)
-    > Güneş batıyor... Yarın, yine doğar. Ben, şu topraklarda yatan güneşin - bir gün
-    > olsun - doğduğunu görmeyecek miyim? (Namık Kemal, Gülnihal)
-    > Soru eki şu durumlarda soru anlamı taşımaz: 1) -DI mI zarf-fiil yapısında 2)
-    > İyisi mi gibi kalıp ifadelerde 3) İkilemelerde pekiştirme amacıyla kullanıldığında
-    > soru işareti kullanılmaz.
-    > 1\. Hayat pahalılaştı mı dostluklar ucuzlar. (Haldun Taner, Koyma Akıl Oyma
-    > Akıl)
-    > 2\. İyisi mi, yarından tezi yok, keşişin izini tutup gidelim; kader, kısmetse bir gün
-    > olur arkalarından yetişiriz. (Eflâtun Cem Güney, Kerem İle Aslı)
-    > 3\. Öyle ki, Yorgi bir gün: - Yahu çocuklar, demişti, ay ışığında futbol oynamak
-    > kıyak mı kıyak olaca
-    > Güneş batıyor... Yarın, yine doğar. Ben, şu topraklarda yatan güneşin - bir gün
-    > olsun - doğduğunu görmeyecekmiyim?
+    > **Açıklama:** Soru Ekinin Yazımı<br />Soru eki, diğer eklerden farklı olarak daima ayrı yazılır ve sonuna “?” işareti konur. Kimi durumlarda soru ekinin üzerine kişi ekleri de getirilebilir, ancak bu<br />durum ayrı yazılma kuralını değiştirmez.<br />Hey Allah’ım, bu suali okumaktan bıkmadın mı hâlâ? (Ayşe Kulin, Türkan)<br />Güneş batıyor... Yarın, yine doğar. Ben, şu topraklarda yatan güneşin - bir gün<br />olsun - doğduğunu görmeyecek miyim? (Namık Kemal, Gülnihal)<br />Soru eki şu durumlarda soru anlamı taşımaz: 1) -DI mI zarf-fiil yapısında 2)<br />İyisi mi gibi kalıp ifadelerde 3) İkilemelerde pekiştirme amacıyla kullanıldığında<br />soru işareti kullanılmaz.<br />1\. Hayat pahalılaştı mı dostluklar ucuzlar. (Haldun Taner, Koyma Akıl Oyma<br />Akıl)<br />2\. İyisi mi, yarından tezi yok, keşişin izini tutup gidelim; kader, kısmetse bir gün<br />olur arkalarından yetişiriz. (Eflâtun Cem Güney, Kerem İle Aslı)<br />3\. Öyle ki, Yorgi bir gün: - Yahu çocuklar, demişti, ay ışığında futbol oynamak<br />kıyak mı kıyak olaca<br />Güneş batıyor... Yarın, yine doğar. Ben, şu topraklarda yatan güneşin - bir gün<br />olsun - doğduğunu görmeyecekmiyim?
 
     <hr />
 1. I. zannetmek<br />II. terk etmek<br />III. hapis olmak<br />IV. kaydetmek<br />Yukarıdakilerden hangisinin/hangilerinin yazımı doğrudur?
@@ -3667,9 +3390,7 @@
     - D-) Nereden aldın elinde ki bardağı?
     - E-) Yanda ki genç seni sordu.
 
-    > **Açıklama:** A seçeneğinde ki'nin yazımı doğrudur . Bağlaç görevinde kullanılmış ve iki cümleyi bağlamıştır.
-    > "Onlar düzgün yapacak ki size örnek olsunlar."
-    > B seçeneğinde ilgi zamiri ki varken diğer seçeneklerde sıfat yapan ki vardır ve bunlar sözcüğe bitişik yazılır.
+    > **Açıklama:** A seçeneğinde ki'nin yazımı doğrudur . Bağlaç görevinde kullanılmış ve iki cümleyi bağlamıştır.<br />"Onlar düzgün yapacak ki size örnek olsunlar."<br />B seçeneğinde ilgi zamiri ki varken diğer seçeneklerde sıfat yapan ki vardır ve bunlar sözcüğe bitişik yazılır.
 
     <hr />
 1. I. anlata bildik<br />II. kabul etti<br />III. yardımsever<br />IV. gidi vermiş<br />Yukarıdakilerden hangisinin/hangilerinin yazımı doğrudur?
@@ -3729,11 +3450,7 @@
     - D-) Televizyon izlemekten sıkılmadın mı hâlâ
     - E-) İstiyor musun, istemiyor musun
 
-    > **Açıklama:** Dün mü geldi kuzenin Avustralya’dan?
-    > Alıp almadıklarını biliyor musun?
-    > Televizyon izlemekten sıkılmadın mı hâlâ? İstiyor musun, istemiyor musun?
-    > İşin içine para girdi mi durumlar değişir.
-    > İstiyor musun, istemiyor musun?
+    > **Açıklama:** Dün mü geldi kuzenin Avustralya’dan?<br />Alıp almadıklarını biliyor musun?<br />Televizyon izlemekten sıkılmadın mı hâlâ? İstiyor musun, istemiyor musun?<br />İşin içine para girdi mi durumlar değişir.<br />İstiyor musun, istemiyor musun?
 
     <hr />
 1. I. görmüyen<br />II. yaptıkça<br />III. izliyeli<br />IV. burnu<br />Yukarıdakilerden hangisinin/hangilerinin yazımı doğrudur?
@@ -3763,9 +3480,7 @@
     - D-) Dördüncü cümleyle beşinci cümlede
     - E-) Yalnızca beşinci cümlede
 
-    > **Açıklama:** Birleşik Sözcüklerin Yazımı, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 2
-    > Üçüncü cümlede yazım yanlışının yanı sıra anlatım bozukluğu da var. Üçüncü cümlede ‘koltuk altlarına’ yerine ‘koltuklarının altına’ yazılmalı.
+    > **Açıklama:** Birleşik Sözcüklerin Yazımı, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 2<br />Üçüncü cümlede yazım yanlışının yanı sıra anlatım bozukluğu da var. Üçüncü cümlede ‘koltuk altlarına’ yerine ‘koltuklarının altına’ yazılmalı.
 
     <hr />
 1. (1) Tutamak sorunu dedim. (2) Dünyada hepimiz sallantılı, korkuluksuz bir köprüde yürür gibiyiz. Tutunacak bir şey olmadı mı insan yuvarlanır. (3) Tramvaylardaki tutamaklar gibi. Uzanır tutunurlar. Kimi zenginliğine tutunur; kimi müdürlüğüne; ki­mi işine, sanatına. Çocuklarına tutunanlar vardır. (4) Herkes kendi tutamağının en iyi, en yüksek olduğuna inanır. (5) Gülünçlüğünü farketmez. (Yusuf Atılgan, Aylak Adam) Yukarıdaki paragrafta numaralandırılmış cümlelerin hangilerinde yazım yanlışı vardır?
@@ -3775,8 +3490,7 @@
     - D-) Dördüncü cümleyle beşinci cümlede
     - **Cevap E-) Yalnızca beşinci cümlede**
 
-    > **Açıklama:** Ayrı Yazılan Sözcükler, başlığı altındaki bilgileri gözden geçiriniz.
-    > Son sözcük ayrı yazılır: fark etmez
+    > **Açıklama:** Ayrı Yazılan Sözcükler, başlığı altındaki bilgileri gözden geçiriniz.<br />Son sözcük ayrı yazılır: fark etmez
 
     <hr />
 1. (1) Yolun kenarına oturdum. Az ötemde bir eşek otluyor. (2) Onun da rengi çağla bademi, ağzı, dişleri, kulakları boynu ne güzel. Otluyor. (3) Otları adeta çatırdata, çatırdata yiyor. (4) Belki de bu çıtırtılı, çatırtılı sesi hişt hişt diye duymuşumdur. (Sait Faik Abasıyanık, Hişt Hişt) Yukarıdaki paragrafta numaralandırılmış cümlelerin hangilerinde yazım yanlışı vardır?
@@ -3786,8 +3500,7 @@
     - D-) Yalnızca dördüncü cümlede
     - **Cevap E-) Üçüncü cümleyle dördüncü cümlede**
 
-    > **Açıklama:** İkilemelerin Yazımı, başlığı altındaki bilgileri gözden geçiriniz.
-    > İkilemeler arasına noktalama işareti konulmaz.
+    > **Açıklama:** İkilemelerin Yazımı, başlığı altındaki bilgileri gözden geçiriniz.<br />İkilemeler arasına noktalama işareti konulmaz.
 
     <hr />
 1. (1) Sinekler arasındaki bu olay, o büyük kentin, yüksek yapıların çok sıkışık bulunduğu bir bölgesinde geçdi. (2) Orada çok katlı bir konut vardı. Bu konutun en alt katı, çok az güneş alan bir evdi. (3) Bu evin yarısı, yerden aşağıdaydı, toprağa gömülüydü. (4) Dar sokağın iki gecesinde çok yüksek yapılar, bu bodrumdaki eve güneş ışınlarının girmesini engellerdi. (5) Bu yüzden o eve sabah aydınlığı geç gelir, ama akşam karanlığı erkenden basardı.<br />(Aziz Nesin, Anıtı Dikilen Sinek)<br />Yukarıdaki paragrafta numaralandırılmış cümlelerin hangilerinde yazım yanlışı vardır?
@@ -3797,14 +3510,7 @@
     - D-) Yalnızca dördüncü cümlede
     - E-) Üçüncü cümleyle beşinci cümlede
 
-    > **Açıklama:** Ses Uyumları ve Yazım Kuralları, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 2
-    > Birinci cümledeki ‘geçdi’ sözcüğü yerine ‘geçti’ yazılmalı!
-    > Paragrafın yalnızca birinci cümlesinde yanlışlık var.
-    > Dördüncü cümlede herhangi bir anlatım bozukluğu yok.
-    > Cümledeki ‘gece’ sözcüğü, ‘karşılıklı iki yandan her biri, yaka’ anlamındadır. Sözcük ‘geçe’ diye de kullanılır. (bkz. TDK güncel sözlük)
-    > Kuşkuya düştüğünüz yerlerde, önce, sözlüğe bakınız!
-    > Ders kitabınızdaki ‘Ses Uyumları ve Yazım Kuralları’ başlığı altındaki bilgileri gözden geçiriniz.
+    > **Açıklama:** Ses Uyumları ve Yazım Kuralları, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 2<br />Birinci cümledeki ‘geçdi’ sözcüğü yerine ‘geçti’ yazılmalı!<br />Paragrafın yalnızca birinci cümlesinde yanlışlık var.<br />Dördüncü cümlede herhangi bir anlatım bozukluğu yok.<br />Cümledeki ‘gece’ sözcüğü, ‘karşılıklı iki yandan her biri, yaka’ anlamındadır. Sözcük ‘geçe’ diye de kullanılır. (bkz. TDK güncel sözlük)<br />Kuşkuya düştüğünüz yerlerde, önce, sözlüğe bakınız!<br />Ders kitabınızdaki ‘Ses Uyumları ve Yazım Kuralları’ başlığı altındaki bilgileri gözden geçiriniz.
 
     <hr />
 1. (1) Doğaya bakın bir. (2) Nasıl yaratılmışsa yaratıl­mış. (3) Alabildiğine cömert bir sevginin durmadan yenilenen atılımlariyle tazelenip yeşermiyor mu? (4) Bunca güzellikler, denizin mavisinden, yaprakla­rın, çimenlerin yeşilinden, çiçeklerin o çeşit çeşit, o güzelim renklerine, kokularına kadar, hepsi hep­si inanılmaz bir sevginin eseri değil mi? (5) Sevgi de­ğil mi ağaçları yeşerten, tomurcuğu çiçek, çiçeği meyve yapan, tırtılı yapraklara, kelebekleri, arı­ları çiçeklere salan tutkuyla?<br />(Vedat Günyol, Bunalım Dediğimiz)<br />Yukarıdaki paragrafta numaralandırılmış cümlelerin hangilerinde yazım yanlışı vardır?
@@ -3814,8 +3520,7 @@
     - D-) Yalnızca beşinci cümlede
     - E-) Dördüncü cümleyle beşinci cümlede
 
-    > **Açıklama:** İle Bağlacının Yazımı, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 2
+    > **Açıklama:** İle Bağlacının Yazımı, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 2
 
     <hr />
 1. (1) Sana değil, yanlış anlama.<br />(2) Bana, bana... (3) İnanki böyle bir şey imkânsız değildir. Çünkü Selmin'i çok güzel<br />bulduğum ve senin kızın olduğunu unuttuğum anlar çok oldu. (4) Hani şöyle bir<br />karıncalandım. Kız kardeşim olsaydı yine benden şüphe edebilirdin. (5) Ne çıkar<br />ablacığım?<br />(Peyami Safa, Yalnızız)<br />Yukarıdaki paragrafta numaralandırılmış cümlelerin hangilerinde yazım yanlışı vardır?
@@ -3825,8 +3530,7 @@
     - D-) Üçüncü cümleyle beşinci cümlede
     - E-) Yalnız beşinci cümlede
 
-    > **Açıklama:** **Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı**, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 2
+    > **Açıklama:** **Karıştırılması Olası Eklerle Bağlaç ve Edatların Yazımı**, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 2
 
     <hr />
 1. Ara yönleri bildiren sözcükler ile ilgili hangisi doğrudur?
@@ -3846,8 +3550,7 @@
     - D-) Yazı dilinin kuralları daha yavaş değişir.
     - E-) Yazı dili her nesil kendine göre değiştirmemelidir.
 
-    > **Açıklama:** Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.
-    > Yazı dili konuşma diline göre daha tutucudur, yani yazı dilinin kuralları konuşma diline göre daha yavaş değişir. Dilin hem yaşayanlar hem de geçmişle gelecek nesiller arasında köprü olma niteliği dikkate alındığında, her neslin yazı dilini kendisine göre yeniden yapılandırmasının doğru olmadığı görülecektir.
+    > **Açıklama:** Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br />Yazı dili konuşma diline göre daha tutucudur, yani yazı dilinin kuralları konuşma diline göre daha yavaş değişir. Dilin hem yaşayanlar hem de geçmişle gelecek nesiller arasında köprü olma niteliği dikkate alındığında, her neslin yazı dilini kendisine göre yeniden yapılandırmasının doğru olmadığı görülecektir.
 
     <hr />
 1. İmla Lügatı hangi tarihte basılmıştır?
@@ -3857,8 +3560,7 @@
     - D-) 7 Kasım 1929
     - E-) 11 Nisan 1926
 
-    > **Açıklama:** Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.
-    > 12 Aralık 1928
+    > **Açıklama:** Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br />12 Aralık 1928
 
     <hr />
 1. Aşağıdakilerden hangisi büyük harfle yazma kurallarından birisi değildir?
@@ -3868,8 +3570,7 @@
     - D-) Bütün cümleler ile şiirlerde dizelerin yazımı
     - E-) İki noktadan sonra veya tırnak içinde verilen cümlelerin ilk kelimesinin yazımı
 
-    > **Açıklama:** Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.
-    > Özel isim olmayan birleşik sözcükler büyük harfle yazılmaz.
+    > **Açıklama:** Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br />Özel isim olmayan birleşik sözcükler büyük harfle yazılmaz.
 
     <hr />
 1. Aşağıdakilerden hangisi pekiştirme sıfatlarına örnektir?
@@ -3879,9 +3580,7 @@
     - D-) Eğri büğrü
     - E-) Defter mefter
 
-    > **Açıklama:** Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.
-    > Pekiştirme sıfatları, sözcüğün ilk hecesinin ünlüyle biten kısmı alınarak bunlara p, r, s, m seslerinin getirilmesiyle türetilir ve bunlar birleşik yazılır. Bu yapıların daha da pekiştirildiği veya bu yapılarda ünlü türemelerinin ortaya çıktığı görülür.
-    > yemyeşil, gömgök, kopkoyu, pespembe, yusyuvarlak, kapkaranlık, sırsıklam, çarçabuk, çırılçıplak, güpegündüz, çepeçevre, sırılsıklam, paramparça vb.
+    > **Açıklama:** Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br />Pekiştirme sıfatları, sözcüğün ilk hecesinin ünlüyle biten kısmı alınarak bunlara p, r, s, m seslerinin getirilmesiyle türetilir ve bunlar birleşik yazılır. Bu yapıların daha da pekiştirildiği veya bu yapılarda ünlü türemelerinin ortaya çıktığı görülür.<br />yemyeşil, gömgök, kopkoyu, pespembe, yusyuvarlak, kapkaranlık, sırsıklam, çarçabuk, çırılçıplak, güpegündüz, çepeçevre, sırılsıklam, paramparça vb.
 
     <hr />
 1. ' başarılı idi / başarılıydı, gelmeli idi / gelmeliydi, hasta imiş / hastaymış, yolcu iken / yolcuyken' Yukarıdakiler hangi yazıma örnektir?
@@ -3891,9 +3590,7 @@
     - **Cevap D-) Ek fiilin yazımı**
     - E-) Geniş zaman çekimli fiillerin yazımı
 
-    > **Açıklama:** Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.
-    > • Sözcük ünlüyle bitiyorsa, ek fiilin başındaki /i/ ünlüsü yarı ünlü /y/ sesine dönüşür.
-    > başarılı idi / başarılıydı, gelmeli idi / gelmeliydi; hasta imiş / hastaymış; almalı imiş / almalıymış; yolcu iken / yolcuyken, okumalı iken / okumalıyken vb.
+    > **Açıklama:** Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br />• Sözcük ünlüyle bitiyorsa, ek fiilin başındaki /i/ ünlüsü yarı ünlü /y/ sesine dönüşür.<br />başarılı idi / başarılıydı, gelmeli idi / gelmeliydi; hasta imiş / hastaymış; almalı imiş / almalıymış; yolcu iken / yolcuyken, okumalı iken / okumalıyken vb.
 
     <hr />
 1. Aşağıdakilerden hangisi 'ile' sözcüğünün yazım kurallarından birisi değildir?
@@ -3903,9 +3600,7 @@
     - **Cevap D-) Bağımsız kullanılamaz.**
     - E-) Ekleştirilerek kullanılır.
 
-    > **Açıklama:** Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.
-    > Hem bağlaç hem de edat olarak kullanılan ile, bağımsız veya ekleştirilerek kullanılır.
-    > İle, ekleştiğinde, ünsüzle biten sözcüklere gelince baştaki /i/ sesi düşer; sonu ünlüyle biten sözcüklerde ise /i/ > /y/ olur.
+    > **Açıklama:** Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br />Hem bağlaç hem de edat olarak kullanılan ile, bağımsız veya ekleştirilerek kullanılır.<br />İle, ekleştiğinde, ünsüzle biten sözcüklere gelince baştaki /i/ sesi düşer; sonu ünlüyle biten sözcüklerde ise /i/ > /y/ olur.
 
     <hr />
 1. Türkçede sesteş olan üç ayrı ki vardır ve her biri işlevine bağlı olarak ayrı ya da bitişik yazılır.<br />Buna göre aşağıdaki örneklerden hangisinde "ki" eki doğru **yazılmamıştır?**
@@ -3915,9 +3610,7 @@
     - D-) Elimizdeki imkânları kullanmamakta neden direniyoruz?
     - **Cevap E-) Bu sorunun çözümü işte o yazıki bunu sen de biliyorsun.**
 
-    > **Açıklama:** Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.
-    > İki cümleyi bağlayan yani bağlaç olan ki ayrı yazılır.
-    > "Bu sorunun çözümü işte o yazı ki bunu sen de biliyorsun."
+    > **Açıklama:** Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br />İki cümleyi bağlayan yani bağlaç olan ki ayrı yazılır.<br />"Bu sorunun çözümü işte o yazı ki bunu sen de biliyorsun."
 
     <hr />
 1. Aşağıdakilerden hangisi bağlaç ya da hâl / durum eki olarak kullanılan de / da'nın yazım kurallarından değildir?
@@ -3927,8 +3620,7 @@
     - D-) Ek olan de, Türkçedeki ünsüz uyumu kuralına uyar.
     - E-) Bağlaç olan de, cümleden çıkarıldığında anlam bozulmaz.
 
-    > **Açıklama:** Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.
-    > Bağlaç olan de, önündeki ve arkasındaki sözcükten ayrı yazılır.
+    > **Açıklama:** Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br />Bağlaç olan de, önündeki ve arkasındaki sözcükten ayrı yazılır.
 
     <hr />
 1. Dilimizde bazı sözcükler ünlü ile başlayan ek aldıklarında son harfleri değişir. buna göre aşağıdakilerden hangisi bu nöbetleşmeye örnek teşkil eder?
@@ -3938,8 +3630,7 @@
     - D-) B-P
     - E-) Ğ-K
 
-    > **Açıklama:** Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.
-    > İki veya daha fazla heceli sözcüklerin sonundaki /ç/ sesleri , ünlüyle başlayan ekle kullanıldığında /ç/ > /c/ olur: kıvanç+ı+m > kıvancım.
+    > **Açıklama:** Türk yazı dilinin temel yazım kurallarını sıralayabileceksiniz.<br />İki veya daha fazla heceli sözcüklerin sonundaki /ç/ sesleri , ünlüyle başlayan ekle kullanıldığında /ç/ > /c/ olur: kıvanç+ı+m > kıvancım.
 
     <hr />
 1. Aşağıdaki hangi seçenekte büyük harf doğru kullanılmıştır?
@@ -3949,10 +3640,7 @@
     - D-) İngiltere Başbakanı Boris Johnson, “bu pandemiyi yenmek için sürü bağışıklığı sistemini kullanacağız” dedi.
     - E-) Bu bilgileri *Türkçenin sesleri* kitabından yararlanarak toparladım.
 
-    > **Açıklama:** Kurum ve kuruluş isimleri büyük harf ile yazılır --> (a) Örgüt olmalıydı.
-    > Hitap sonrası kullanılan unvanlar büyük harfle yazılır -->(c) Aysel Hanım olmalıydı
-    > İki noktadan sonra veya tırnak içinde verilen cümlelerin ilk kelimesi büyük harfle başlar ve sonuna ilgili noktalama işareti konur --> (d) ... "Bu pandemiyi ..." olmalıydı.
-    > Kitap isimlerinin ilk harfleri büyük yazılır --> (e) Türkçenin Sesleri olmalıydı.
+    > **Açıklama:** Kurum ve kuruluş isimleri büyük harf ile yazılır --> (a) Örgüt olmalıydı.<br />Hitap sonrası kullanılan unvanlar büyük harfle yazılır -->(c) Aysel Hanım olmalıydı<br />İki noktadan sonra veya tırnak içinde verilen cümlelerin ilk kelimesi büyük harfle başlar ve sonuna ilgili noktalama işareti konur --> (d) ... "Bu pandemiyi ..." olmalıydı.<br />Kitap isimlerinin ilk harfleri büyük yazılır --> (e) Türkçenin Sesleri olmalıydı.
 
     <hr />
 1. Aşağıdaki cümlelerin hangisinde altı çizili sözcüğün yazımı doğrudur?
@@ -3982,8 +3670,7 @@
     - D-) Bu akşam bizde toplanıyoruz, sende gel.
     - E-) Sen de benim ödevim vardı, verir misin?
 
-    > **Açıklama:** Bağlaç olarak kullanılan *dA* ayrı, bulunma hâli (*+DA*) eki ise bitişik yazılır. (b) seçeneğinde “de” bağlaç olarak kullanılmış ve ayrı yazılmıştır.
-    > (d) seçeneğindeki "bizde" bulunma halini gösterdiği için doğrudur ancak "sende gel" ifadesinde "de" bağlaç olarak kullanıldığı için "sen de" şeklinde ayrı yazılmalıdır.
+    > **Açıklama:** Bağlaç olarak kullanılan *dA* ayrı, bulunma hâli (*+DA*) eki ise bitişik yazılır. (b) seçeneğinde “de” bağlaç olarak kullanılmış ve ayrı yazılmıştır.<br />(d) seçeneğindeki "bizde" bulunma halini gösterdiği için doğrudur ancak "sende gel" ifadesinde "de" bağlaç olarak kullanıldığı için "sen de" şeklinde ayrı yazılmalıdır.
 
     <hr />
 1. Aşağıdaki hangi seçenekte /ç/ > /c/ nöbetleşmesi vardır?
@@ -4023,11 +3710,7 @@
     - D-) Bedava yaşıyoruz, bedava; / Hava bedava, bulut bedava;
     - **Cevap E-) Kim görmüş beni / Süheyla'yla sandala binerken?**
 
-    > **Açıklama:** Türkçede fiillere bir ek geldiği zaman temel olarak kök değişmez. Ancak birtakım eklerde geçici ünlü daralması görülür. Sonu /a/ veya /e/ ünlüsüyle biten fiillere *-(I) yor* eki geldiğinde bu ünlüler daralır. E seçeneğindeki dizelerde ünlü daralması yoktur. Ancak aşağıdaki sözcüklerde ünlü daralması vardır.
-    > Kımılda- kımıldıyor
-    > Dinle- dinliyor
-    > bekle-bekliyor
-    > yaşa-yaşıyor
+    > **Açıklama:** Türkçede fiillere bir ek geldiği zaman temel olarak kök değişmez. Ancak birtakım eklerde geçici ünlü daralması görülür. Sonu /a/ veya /e/ ünlüsüyle biten fiillere *-(I) yor* eki geldiğinde bu ünlüler daralır. E seçeneğindeki dizelerde ünlü daralması yoktur. Ancak aşağıdaki sözcüklerde ünlü daralması vardır.<br />Kımılda- kımıldıyor<br />Dinle- dinliyor<br />bekle-bekliyor<br />yaşa-yaşıyor
 
     <hr />
 1. Aşağıdaki seçeneklerden hangisinde ünsüz türemesi vardır?
@@ -4067,8 +3750,7 @@
     - D-) İşsizlik oranlarındaki yüksek artış ekonomik krizin habercisidir.
     - **Cevap E-) Son zamanlarda pisikoloji kitaplarına ilgili duymaya başladım.**
 
-    > **Açıklama:** Türkçede sözcük başında çift ünsüz bulunmaz. Batı dillerinden giren bu tip sözcükler
-    > genellikle aslına uygun biçimde yazılır. Psikoloji de bu sözcüklerden biridir. Doğru cevap E seçeneğidir.
+    > **Açıklama:** Türkçede sözcük başında çift ünsüz bulunmaz. Batı dillerinden giren bu tip sözcükler<br />genellikle aslına uygun biçimde yazılır. Psikoloji de bu sözcüklerden biridir. Doğru cevap E seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisinde türeme ünlülerinin düşmesinden kaynaklanan bir yazım yanlışı vardır?
@@ -4078,8 +3760,7 @@
     - D-) Sisteme giriş yapmadan önce kaydolman gerekiyor.
     - E-) Arkadaşımın böbrek nakli gelecek hafta gerçekleştirilecek
 
-    > **Açıklama:** Türkçeye Arapçadan giren ve geldiği dilde ikinci hecesinde ünlü bulunmayan,
-    > ancak Türkçede telaffuz güçlüğünden dolayı ünlü türemesi görülen sözcüklerden biri "akıl"dır. Bu sözcük ünlüyle başlayan ek veya ünlüyle başlayan bir yardımcı fiille kullanıldığında ikinci hecelerindeki türeme "akıl+a > akla" bu biçimde düşer. Doğru cevap A seçeneğidir.
+    > **Açıklama:** Türkçeye Arapçadan giren ve geldiği dilde ikinci hecesinde ünlü bulunmayan,<br />ancak Türkçede telaffuz güçlüğünden dolayı ünlü türemesi görülen sözcüklerden biri "akıl"dır. Bu sözcük ünlüyle başlayan ek veya ünlüyle başlayan bir yardımcı fiille kullanıldığında ikinci hecelerindeki türeme "akıl+a > akla" bu biçimde düşer. Doğru cevap A seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisinde sözcüklerin ayrı yazımı konusu ile ilgili bir yazım yanlışı vardır?
@@ -4159,8 +3840,7 @@
     - **Cevap D-) II ve III**
     - E-) I, II ve III
 
-    > **Açıklama:** Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak, yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A, -U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır. *gidebileceğini biçiminde yazılmalıdır.*
-    > Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır. *Hanımeli olmalıdır.*
+    > **Açıklama:** Gerçek anlamı dışında, yardımcı fiil olarak kullanılan, vermek, durmak, yazmak, kalmak, bilmek ve gelmek fiilleri, kendisinden önceki fiile -A, -U, -I zarf-fiil ekleri yardımıyla bağlandığında bitişik yazılır. *gidebileceğini biçiminde yazılmalıdır.*<br />Birleşik sözcüğü oluşturan sözcüklerin biri ya da ikisi de artık asıl anlamlarını yitirmiş, yeni bir anlam kazanmışlarsa bitişik yazılır. *Hanımeli olmalıdır.*
 
     <hr />
 1. **Aşağıdaki cümlelerin hangisinde bileşik eylemlerin yazımıyla ilgili bir yanlışlık yapılmıştır?**
@@ -4401,8 +4081,7 @@
     - D-) Eleştiri
     - E-) Deneme
 
-    > **Açıklama:** Makale, herhangi bir konuda bilgi vermek, bir düşünce ya da konuya açıklık ge- tirmek, yeni bir görüş ve düşünceyi ileri sürmek, ele alınan konu üzerinde yapılan inceleme ve araştırma sonuçlarına göre kanıtlar sunarak bu yeni görüş ve düşün- celeri desteklemek ve doğruluğunu kanıtlamak amacıyla kaleme alınan bilimsel ağırlıklı gazete ve dergi yazılarıdır (Birinci, 2009: 368). Bilimsel yanı ağır basan ve bilimsel çalışmaların raporlaştırılmasını içeren bilimsel makaleler, çeşitli uzman- lık dallarının sorunlarıyla ilgili olup genellikle ayrıntılı bir araştırmaya dayanır. Bu tür makaleler gazetelerde yayımlanan güncel konulu makalelerden farklıdır.
-    > Makale, herhangi bir konuda bilgi vermek, bir düşünce ya da konuya açıklık getirmek, yeni bir görüş ve düşünceyi ileri sürmek, ele alınan konu üzerinde yapılan inceleme ve araştırma sonuçlarına göre kanıtlar sunarak bu yeni görüş ve düşünceleri desteklemek ve doğruluğunu kanıtlamak amacıyla kaleme alınan bilimsel ağırlıklı gazete ve dergi yazılarıdır (Birinci, 2009: 368). Bilimsel yanı ağır basan ve bilimsel çalışmaların raporlaştırılmasını içeren bilimsel makaleler, çeşitli uzmanlık dallarının sorunlarıyla ilgili olup genellikle ayrıntılı bir araştırmaya dayanır. Bu tür makaleler gazetelerde yayımlanan güncel konulu makalelerden farklıdır. Doğru seçenek A'dır.
+    > **Açıklama:** Makale, herhangi bir konuda bilgi vermek, bir düşünce ya da konuya açıklık ge- tirmek, yeni bir görüş ve düşünceyi ileri sürmek, ele alınan konu üzerinde yapılan inceleme ve araştırma sonuçlarına göre kanıtlar sunarak bu yeni görüş ve düşün- celeri desteklemek ve doğruluğunu kanıtlamak amacıyla kaleme alınan bilimsel ağırlıklı gazete ve dergi yazılarıdır (Birinci, 2009: 368). Bilimsel yanı ağır basan ve bilimsel çalışmaların raporlaştırılmasını içeren bilimsel makaleler, çeşitli uzman- lık dallarının sorunlarıyla ilgili olup genellikle ayrıntılı bir araştırmaya dayanır. Bu tür makaleler gazetelerde yayımlanan güncel konulu makalelerden farklıdır.<br />Makale, herhangi bir konuda bilgi vermek, bir düşünce ya da konuya açıklık getirmek, yeni bir görüş ve düşünceyi ileri sürmek, ele alınan konu üzerinde yapılan inceleme ve araştırma sonuçlarına göre kanıtlar sunarak bu yeni görüş ve düşünceleri desteklemek ve doğruluğunu kanıtlamak amacıyla kaleme alınan bilimsel ağırlıklı gazete ve dergi yazılarıdır (Birinci, 2009: 368). Bilimsel yanı ağır basan ve bilimsel çalışmaların raporlaştırılmasını içeren bilimsel makaleler, çeşitli uzmanlık dallarının sorunlarıyla ilgili olup genellikle ayrıntılı bir araştırmaya dayanır. Bu tür makaleler gazetelerde yayımlanan güncel konulu makalelerden farklıdır. Doğru seçenek A'dır.
 
     <hr />
 1. Yazılı anlatım türü olarak bu yazı türü, bir sanat eserini çeşitli yönleri ile inceleyip açıklamak, anlaşılmasını sağlamak ve değerlendirmek amacıyla yazılan yazılardır (Kavcar, 2007). Söz edilen yazı türü aşağıdakilerden hangisidir?
@@ -4422,18 +4101,7 @@
     - **Cevap D-) Deneme**
     - E-) Hikaye
 
-    > **Açıklama:** Deneme türünde yazarken denemenin dikkat edilmesi gereken ayırt edici özelliklerini şöyle sıralayabiliriz (Kurt, 2009, Kantemir,1995; Kavcar, Oğuzkan, Aksoy, 2007: Özdemir, 2008; Aktaş ve Gündüz, 2009):
-    > * Her türlü konuda deneme yazılabilir.
-    > * Anlatımda öznellik egemendir.
-    > * Anlatılanların kanıtlanmasına, belgelere dayandırılmasına gerek yoktur.
-    > * Bilgi vermekten çok düşündürme amacı güder.
-    > * Özgün söyleyişlere yer verilir.
-    > * İroniden geniş ölçüde yararlanılır.
-    > * Anlatılanlar iç konuşma tekniğiyle verilir.
-    > * Senli benli ve içtenlikli bir dil kullanılır.
-    > * Düşünceler kesin yargılara bağlanmaya çalışılmaz; okurun dolaylı olarak
-    > sonuca varması amaçlanır.
-    > Doğru seçenek D'dir.
+    > **Açıklama:** Deneme türünde yazarken denemenin dikkat edilmesi gereken ayırt edici özelliklerini şöyle sıralayabiliriz (Kurt, 2009, Kantemir,1995; Kavcar, Oğuzkan, Aksoy, 2007: Özdemir, 2008; Aktaş ve Gündüz, 2009):<br />* Her türlü konuda deneme yazılabilir.<br />* Anlatımda öznellik egemendir.<br />* Anlatılanların kanıtlanmasına, belgelere dayandırılmasına gerek yoktur.<br />* Bilgi vermekten çok düşündürme amacı güder.<br />* Özgün söyleyişlere yer verilir.<br />* İroniden geniş ölçüde yararlanılır.<br />* Anlatılanlar iç konuşma tekniğiyle verilir.<br />* Senli benli ve içtenlikli bir dil kullanılır.<br />* Düşünceler kesin yargılara bağlanmaya çalışılmaz; okurun dolaylı olarak<br />sonuca varması amaçlanır.<br />Doğru seçenek D'dir.
 
     <hr />
 1. Bu yazı türünde yazar, kendi eğilimleri doğrultusunda seçtiği herhangi bir konu hakkındaki görüşlerini, konuşma doğallığı içinde anlatır. Söz edilen yazı türü aşağıdakilerden hangisidir?
@@ -4483,18 +4151,7 @@
     - **Cevap D-) Biyografi**
     - E-) Röportaj
 
-    > **Açıklama:** Yaşam öyküleri yazılış amacına göre farklılıklar göstermekle beraber ya- zımında dikkat edilmesi gereken belirleyici özellikleri şöyledir (Aktaş ve Gündüz, 2009; Çelebioğlu, 2007):
-    > * Yaşam öykülerinde tarihsel gerçeklik en önemli ögedir. Bu nedenle yaşam öyküleri açık, sade ve tarafsız bir görüşle yazılmalıdır.
-    > * Yaşam öyküsü anlatılacak kişinin çocukluğundan itibaren yaşamı ele alınır.
-    > * Yaşam öyküsünde anlatılacak kişinin öğrenim yaşamı, yetişmesini etkile-
-    > yen başlıca etkenler belirtilir.
-    > * Yaşam öyküsünde kişinin bireysel ve toplumsal özellikleri yansıtılır.
-    > * Yaşam öyküsünde ele alınan kişinin ürettiği değerler, başarıları ve önemi
-    > aktarılır.
-    > * Yaşam öyküsü yazımında gerçekler saptırılmaz, ancak gerçekler sanatçı du-
-    > yarlılığı ile yazılır.
-    > * Yaşam öyküsünde üçüncü kişili anlatım kullanılır.
-    > Doğru seçenek D'dir.
+    > **Açıklama:** Yaşam öyküleri yazılış amacına göre farklılıklar göstermekle beraber ya- zımında dikkat edilmesi gereken belirleyici özellikleri şöyledir (Aktaş ve Gündüz, 2009; Çelebioğlu, 2007):<br />* Yaşam öykülerinde tarihsel gerçeklik en önemli ögedir. Bu nedenle yaşam öyküleri açık, sade ve tarafsız bir görüşle yazılmalıdır.<br />* Yaşam öyküsü anlatılacak kişinin çocukluğundan itibaren yaşamı ele alınır.<br />* Yaşam öyküsünde anlatılacak kişinin öğrenim yaşamı, yetişmesini etkile-<br />yen başlıca etkenler belirtilir.<br />* Yaşam öyküsünde kişinin bireysel ve toplumsal özellikleri yansıtılır.<br />* Yaşam öyküsünde ele alınan kişinin ürettiği değerler, başarıları ve önemi<br />aktarılır.<br />* Yaşam öyküsü yazımında gerçekler saptırılmaz, ancak gerçekler sanatçı du-<br />yarlılığı ile yazılır.<br />* Yaşam öyküsünde üçüncü kişili anlatım kullanılır.<br />Doğru seçenek D'dir.
 
     <hr />
 1. Bu yazı türünde yazar diğer insanlar tarafından bilinmeyen ya da kendisi hakkında bilinmesini istediklerini doğrudan aktarır, gelecek kuşaklar tarafından tanınmasına olanak sağlar. Söz edilen yazı türü aşağıdakilerden hangisidir?
@@ -4524,8 +4181,7 @@
     - D-) Deneyime dayanır.
     - E-) Bilgiye dayanır.
 
-    > **Açıklama:** Düşünce yazıları sanatsal boyutlu yazılar değildir.
-    > Sanatlı anlatıma dayanır.
+    > **Açıklama:** Düşünce yazıları sanatsal boyutlu yazılar değildir.<br />Sanatlı anlatıma dayanır.
 
     <hr />
 1. Aşağıdaki düşünce yazı türlerinden hangisinde kişisel görüşler (öznellik) ağır basar?
@@ -4535,8 +4191,7 @@
     - D-) belgesel gezi
     - **Cevap E-) deneme**
 
-    > **Açıklama:** Deneme, öznel yanı bulunan ve genellikle gazete çevresinde oluşan yazılardan biridir.
-    > Deneme yazı türünde yazar herhangi bir konu hakkındaki kişisel görüşlerini kanıtlama kaygısı olmaksızın kaleme alır.
+    > **Açıklama:** Deneme, öznel yanı bulunan ve genellikle gazete çevresinde oluşan yazılardan biridir.<br />Deneme yazı türünde yazar herhangi bir konu hakkındaki kişisel görüşlerini kanıtlama kaygısı olmaksızın kaleme alır.
 
     <hr />
 1. Aşağıdakilerden hangisi makalenin özelliklerinden biri değildir?
@@ -4546,9 +4201,7 @@
     - D-) Düşünceyi gölgeleyen anlatım oyunları, diğer bir deyişle sanatsal bir anlatım kaygısı taşımaz.
     - E-) Yazar dilediği konuyu seçer.
 
-    > **Açıklama:** Açıklamaya ve bilgi vermeye dayalı anlatım türlerinden biri olan makalenin
-    > konu sınırlaması yoktur. Toplumun genelini ya da bir bölümünü ilgilendiren bilimsel ve sanatsal her konuda yazılabilir. Yazar dilediği konuyu seçer.
-    > Konu sınırlaması vardır.
+    > **Açıklama:** Açıklamaya ve bilgi vermeye dayalı anlatım türlerinden biri olan makalenin<br />konu sınırlaması yoktur. Toplumun genelini ya da bir bölümünü ilgilendiren bilimsel ve sanatsal her konuda yazılabilir. Yazar dilediği konuyu seçer.<br />Konu sınırlaması vardır.
 
     <hr />
 1. Aşağıdakilerden hangisi makalenin özelliklerinden biri değildir?
@@ -4558,8 +4211,7 @@
     - D-) Genellikle canlılığını anlatımın yalınlığından, yoğunluğundan alır.
     - E-) Yazar dilediği konuyu seçer.
 
-    > **Açıklama:** Düşünceyi gölgeleyen anlatım oyunları, diğer bir deyişle sanatsal bir anlatım kaygısı taşımaz. Sözcüklerin mecaz anlamlarından çok gerçek anlamları tercih edilir.
-    > Sözcüklerin gerçek anlamlarından çok mecaz anlamları tercih edilir.
+    > **Açıklama:** Düşünceyi gölgeleyen anlatım oyunları, diğer bir deyişle sanatsal bir anlatım kaygısı taşımaz. Sözcüklerin mecaz anlamlarından çok gerçek anlamları tercih edilir.<br />Sözcüklerin gerçek anlamlarından çok mecaz anlamları tercih edilir.
 
     <hr />
 1. “Günümüzde Belgesel Tiyatro Anlayışının Önemi” başlıklı makale aşağıdakilerden hangisine aittir?
@@ -4579,12 +4231,7 @@
     - D-) Kahramanların davranışları ve düşüncelerinde ulusal kültürü yansıtan izler vardır.
     - E-) En bilinenleri Nasrettin Hoca, Bektaşi, Bekri Mustafa ve İncili Çavuş fıkralarıdır.
 
-    > **Açıklama:** Fıkra türü, Türkçede iki tür anlatıyı karşılar. Bunlardan ***ilki*** ince anlamlı, güldürme amacı güden kısa öykülerdir. Küçük öykü biçimindeki bu tür, halk öykücülüğü geleneğinin uzantısıdır. Bu tür fıkralarda, gerek kahramanların davranışları ve
-    > düşüncelerinde gerekse taşıdıkları mizah ögeleri ve dilde ulusal kültürü yansıtan
-    > izler vardır. Edebiyatımızda bu tip fıkraların en bilinenleri Nasrettin Hoca, Bektaşi, Bekri Mustafa ve İncili Çavuş fıkralarıdır.
-    > Fıkra sözcüğünün bir anlatı türü olarak ***ikinci*** anlamı, gazete ya da dergilerde
-    > yayımlanan, belgelendirme ve kanıtlama gereği duyulmadan günl
-    > Günlük olayları, ülke sorunlarını veya yazarın bir konu hakkındaki görüşlerini çeşitli yönlerden inceler.
+    > **Açıklama:** Fıkra türü, Türkçede iki tür anlatıyı karşılar. Bunlardan ***ilki*** ince anlamlı, güldürme amacı güden kısa öykülerdir. Küçük öykü biçimindeki bu tür, halk öykücülüğü geleneğinin uzantısıdır. Bu tür fıkralarda, gerek kahramanların davranışları ve<br />düşüncelerinde gerekse taşıdıkları mizah ögeleri ve dilde ulusal kültürü yansıtan<br />izler vardır. Edebiyatımızda bu tip fıkraların en bilinenleri Nasrettin Hoca, Bektaşi, Bekri Mustafa ve İncili Çavuş fıkralarıdır.<br />Fıkra sözcüğünün bir anlatı türü olarak ***ikinci*** anlamı, gazete ya da dergilerde<br />yayımlanan, belgelendirme ve kanıtlama gereği duyulmadan günl<br />Günlük olayları, ülke sorunlarını veya yazarın bir konu hakkındaki görüşlerini çeşitli yönlerden inceler.
 
     <hr />
 1. Türk edebiyatında gazete fıkracılığı ne zaman başlamıştır?
@@ -4594,9 +4241,7 @@
     - D-) 17\. yy
     - E-) 21\. yy
 
-    > **Açıklama:** Türk edebiyatında gazete fıkracılığı, 19. yüzyılda gazetenin ortaya çıkışıyla
-    > başlamıştır.
-    > 19\. yy
+    > **Açıklama:** Türk edebiyatında gazete fıkracılığı, 19. yüzyılda gazetenin ortaya çıkışıyla<br />başlamıştır.<br />19\. yy
 
     <hr />
 1. Eleştirmenin, konunun ele alınış biçimi, yapıttaki anlatım biçimi, dilin kullanımı gibi noktaların işlenişi üzerinde durduğu eleştiri türü aşağıdakilerden hangisidir?
@@ -4606,9 +4251,7 @@
     - D-) Topluma dönük eleştiri
     - E-) Çözümleyici eleştiri
 
-    > **Açıklama:** **Yapıta dönük eleştiri;** eleştirmenin bakış açısının sanatçıya değil de yapıtına
-    > yönelik olduğu eleştiridir. Bu tür eleştiride tek ölçüt okura sunulmuş yapıttır.
-    > Eleştirmen, konunun ele alınış biçimi, yapıttaki anlatım biçimi, dilin kullanımı gibi noktaların işlenişi üzerinde durur. Nesnel eleştiri ve dil bilimsel eleştiri bu tür eleştirinin çeşitleridir.
+    > **Açıklama:** **Yapıta dönük eleştiri;** eleştirmenin bakış açısının sanatçıya değil de yapıtına<br />yönelik olduğu eleştiridir. Bu tür eleştiride tek ölçüt okura sunulmuş yapıttır.<br />Eleştirmen, konunun ele alınış biçimi, yapıttaki anlatım biçimi, dilin kullanımı gibi noktaların işlenişi üzerinde durur. Nesnel eleştiri ve dil bilimsel eleştiri bu tür eleştirinin çeşitleridir.
 
     <hr />
 1. Aşağıdakilerden hangisi deneme türünün özelliklerinden biri değildir?
@@ -4618,8 +4261,7 @@
     - D-) İroniden geniş ölçüde yararlanılır.
     - E-) Anlatılanlar iç konuşma tekniğiyle verilir.
 
-    > **Açıklama:** Deneme türünde, anlatılanların kanıtlanmasına, belgelere dayandırılmasına gerek yoktur.
-    > Anlatılanların kanıtlanır, belgelere dayandırılır.
+    > **Açıklama:** Deneme türünde, anlatılanların kanıtlanmasına, belgelere dayandırılmasına gerek yoktur.<br />Anlatılanların kanıtlanır, belgelere dayandırılır.
 
     <hr />
 1. Aşağıdakilerden hangisi düşünce yazılarına özgü özellikleri taşımaz?
@@ -4639,8 +4281,7 @@
     - D-) Okuyucuyu gerçeklere götürmeyi amaçlaması
     - E-) Fikirlerin gözlemi deney ve kanıta dayalı olması
 
-    > **Açıklama:** Düşünce yazılarının sanatsal bir dil kullanması beklenen bir şey değildir.
-    > Sanatsal yönü yüksek bir dil kullanması
+    > **Açıklama:** Düşünce yazılarının sanatsal bir dil kullanması beklenen bir şey değildir.<br />Sanatsal yönü yüksek bir dil kullanması
 
     <hr />
 1. Aşağıdakilerden hangisi makale türünün özelliklerinden biri değildir?
@@ -4650,8 +4291,7 @@
     - D-) Ele aldığı konuyla ilişkili yapılan araştırmanın sonuçlarını duyurur.
     - **Cevap E-) Ele aldığı bir konuya eleştiri getirir.**
 
-    > **Açıklama:** Makale türünün hedefi eleştirme değildir; bir konuyu açıklamak, incelemek, konu hakkında yeni görüşler ileri sürmek, bilgi vermektir.
-    > Ele aldığı bir konuya eleştiri getirir.
+    > **Açıklama:** Makale türünün hedefi eleştirme değildir; bir konuyu açıklamak, incelemek, konu hakkında yeni görüşler ileri sürmek, bilgi vermektir.<br />Ele aldığı bir konuya eleştiri getirir.
 
     <hr />
 1. I. Yazar, savunduğu düşünceyi kanıtlayıcı belgelerden, örneklerden yararlanmalıdır.<br />II. Üçüncü tekil anlatım kullanılmalıdır.<br />III. Düşünceler planlı olarak sunulmalı ve sonuç bölümünde bir yargıya varılmalıdır.<br />IV. Yazar, konuya tarafsız bir gözle yaklaşmalı, öznel görüşlerden sakınılmalı ve nesnellik ön planda olmalıdır.<br />Yukarıda özellikleri verilen yazı türü aşağıdakilerden hangisidir?
@@ -4671,8 +4311,7 @@
     - **Cevap D-) Günlük olaylarla ilgili bir gerçeği bilimsel olarak kanıtlaması**
     - E-) Güncel olayları kendine göre yorumlayabilmesi
 
-    > **Açıklama:** Fıkra yazarlarından bilimsellik ve kanıtlama beklenmez. Bu, makaleye ait bir özelliktir.
-    > Günlük olaylarla ilgili bir gerçeği bilimsel olarak kanıtlaması
+    > **Açıklama:** Fıkra yazarlarından bilimsellik ve kanıtlama beklenmez. Bu, makaleye ait bir özelliktir.<br />Günlük olaylarla ilgili bir gerçeği bilimsel olarak kanıtlaması
 
     <hr />
 1. I. Okuru sıkmayacak kısalıkta olmalıdır.<br />II. Öznellikten kaçınılmalı, peşin yargılara yer verilmemelidir.<br />III. Temel anlatım biçimlerinden açıklayıcı ve tartışmacı anlatım kullanılabilir.<br />IV. Yargılar, kırıcı ve yıkıcı değil; yapıcı ve yol gösterici olmalıdır.<br />V. Yapıt ile ilgili yargılar, yapıttan örneklere dayandırılarak sunulmalıdır.<br />Eleştiri türüyle ilgili olarak yukarıdakilerin hangisi söylenemez?
@@ -4682,8 +4321,7 @@
     - D-) IV
     - E-) V
 
-    > **Açıklama:** Kısalık ya da uzunluk eleştiri türünün belirleyici özelliklerinden biri değildir.
-    > Okuru sıkmayacak kısalıkta olmalıdır.
+    > **Açıklama:** Kısalık ya da uzunluk eleştiri türünün belirleyici özelliklerinden biri değildir.<br />Okuru sıkmayacak kısalıkta olmalıdır.
 
     <hr />
 1. I. Kişinin yaşadıklarını gün içinde tarih atarak yazdıkları yazılardır.<br />II. Yazıldığı andaki duygu ve düşünceleri, değişikliğe uğramadan sonraya taşırlar.<br />III. Bir anlamda yazarın kendisi ile konuşması, iç dökmesi olarak görülebilirler.<br />Özellikleri verilen yazı türü aşağıdakilerden hangisidir?
@@ -4693,9 +4331,7 @@
     - D-) Anı
     - E-) Tarih
 
-    > **Açıklama:** Bazı yazarlar, yaşadıkları önemli olayları, duygu ya da düşüncelerini bir deftere
-    > yazarlar. Kişinin kendi algı ve bakış açısına göre günü gününe yazılan, üzerinde yazıldığı günün tarihi bulunan yazılara ve bu yazılardan oluşturulan yapıtlara
-    > günlük denir.
+    > **Açıklama:** Bazı yazarlar, yaşadıkları önemli olayları, duygu ya da düşüncelerini bir deftere<br />yazarlar. Kişinin kendi algı ve bakış açısına göre günü gününe yazılan, üzerinde yazıldığı günün tarihi bulunan yazılara ve bu yazılardan oluşturulan yapıtlara<br />günlük denir.
 
     <hr />
 1. Yaşam öyküsü türü için aşağıda söylenenlerden hangisi doğru değildir?
@@ -4705,11 +4341,7 @@
     - **Cevap D-) Yaşam öyküleri sanat değeri taşırlar.**
     - E-) Yaşam öyküleri tarihsel gerçekliğe bağlı; açık, sade ve tarafsız bir görüşle yazılır.
 
-    > **Açıklama:** Yaşam öykülerinde tarihsel gerçeklik en önemli ögedir. Bu nedenle yaşam
-    > öyküleri açık, sade ve tarafsız bir görüşle yazılmalıdır.
-    > Yaşam öyküsü anlatılacak kişinin çocukluğundan itibaren yaşamı ele alınır; öğrenim yaşamı, yetişmesini etkileyen başlıca etkenler belirtilir; bireysel ve toplumsal özellikleri, ürettiği değerler, başarıları ve önemi aktarılır.
-    > Yaşam öyküsü yazımında gerçekler saptırılmaz; ancak gerçekler sanatçı duyarlılığı ile yazılır. Sanat değer taşıması gereken bir tür deildir.
-    > Yaşam öyküleri sanat değeri taşırlar.
+    > **Açıklama:** Yaşam öykülerinde tarihsel gerçeklik en önemli ögedir. Bu nedenle yaşam<br />öyküleri açık, sade ve tarafsız bir görüşle yazılmalıdır.<br />Yaşam öyküsü anlatılacak kişinin çocukluğundan itibaren yaşamı ele alınır; öğrenim yaşamı, yetişmesini etkileyen başlıca etkenler belirtilir; bireysel ve toplumsal özellikleri, ürettiği değerler, başarıları ve önemi aktarılır.<br />Yaşam öyküsü yazımında gerçekler saptırılmaz; ancak gerçekler sanatçı duyarlılığı ile yazılır. Sanat değer taşıması gereken bir tür deildir.<br />Yaşam öyküleri sanat değeri taşırlar.
 
     <hr />
 1. Aşağıdakilerin hangisinde yaşam öyküsü türleri için söylenenlerde bir yanlışlık söz konusudur?
@@ -4719,8 +4351,7 @@
     - D-) Söyleşi biçiminde yaşam öyküsü, kişi hayattayken birinci elden toplanan bilgilerle belgelerin birleştirildiği bir türdür.
     - E-) Akademik araştırma örnekleri belgesel yaşam öyküsü türü içinde kabul edilir.
 
-    > **Açıklama:** Ansiklopedik yaşam öyküsünde, söz konusu kişinin yaşamının önemli kesitleri ele alınmakta kişisel yaşamına dair bilgi verilmemektedir.
-    > Ansiklopedik yaşam öyküsünde, kişinin yaşam çocukluktan itibaren ayrıntılı olarak ele alınıp işlenir, ifadesi yanlıştır; ansiklopedik yaşam öykiüsünde kişinin yaşamının önemli kesitleri anlatılır, kişisel yaşamına dair bilgi verilmez (s. 100).
+    > **Açıklama:** Ansiklopedik yaşam öyküsünde, söz konusu kişinin yaşamının önemli kesitleri ele alınmakta kişisel yaşamına dair bilgi verilmemektedir.<br />Ansiklopedik yaşam öyküsünde, kişinin yaşam çocukluktan itibaren ayrıntılı olarak ele alınıp işlenir, ifadesi yanlıştır; ansiklopedik yaşam öykiüsünde kişinin yaşamının önemli kesitleri anlatılır, kişisel yaşamına dair bilgi verilmez (s. 100).
 
     <hr />
 1. Anı türü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
@@ -4730,8 +4361,7 @@
     - D-) Anıların geçmişte yaşanan olaylara dayanması, onu tarihe yaklaştırır; ancak tarih toplumsal iken anı daha çok bireyseldir.
     - E-) Anı türünde, yaşanılanların tamamının eksiksiz anlatılması beklenemez.
 
-    > **Açıklama:** Anı yazıları her nasıl yazılırsa yazılsın kesin belge olarak kabul edilemez. Ancak bilim, sanat ya da siyaset alanında tanınmış kişilerin anı yazıları, döneme ışık tutmaya yardımcı olurlar. Zaten de anı yazarlarından bilimsel kesinlik ve doğruluk beklenemez.
-    > Anılar ilk ağızdan anlatıldığı için doğruluğu kesin olan belge niteliği taşırlar. Anı yazılarında anlatıcının izlenimlerine dayandığı için kesin belge niteliği taşımaz.
+    > **Açıklama:** Anı yazıları her nasıl yazılırsa yazılsın kesin belge olarak kabul edilemez. Ancak bilim, sanat ya da siyaset alanında tanınmış kişilerin anı yazıları, döneme ışık tutmaya yardımcı olurlar. Zaten de anı yazarlarından bilimsel kesinlik ve doğruluk beklenemez.<br />Anılar ilk ağızdan anlatıldığı için doğruluğu kesin olan belge niteliği taşırlar. Anı yazılarında anlatıcının izlenimlerine dayandığı için kesin belge niteliği taşımaz.
 
     <hr />
 1. Herhangi bir konuda bilgi vermek, bir düşünce ya da konuya açıklık getirmek, yeni bir görüş ve düşünceyi ileri sürmek, ele alınan konu üzerinde yapılan inceleme ve araştırma sonuçlarına göre kanıtlar sunarak bu yeni görüş ve düşünceleri desteklemek ve doğruluğunu kanıtlamak amacıyla kaleme alınan bilimsel ağırlıklı gazete ve dergi yazılarına ne ad verilir?
@@ -4741,10 +4371,7 @@
     - D-) Fıkra
     - **Cevap E-) Makale**
 
-    > **Açıklama:** Makale
-    > Makale, herhangi bir konuda bilgi vermek, bir düşünce ya da konuya açıklık getirmek, yeni bir görüş ve düşünceyi ileri sürmek, ele alınan konu üzerinde yapılan
-    > inceleme ve araştırma sonuçlarına göre kanıtlar sunarak bu yeni görüş ve düşünceleri desteklemek ve doğruluğunu kanıtlamak amacıyla kaleme alınan bilimsel
-    > ağırlıklı gazete ve dergi yazılarıdır (Birinci, 2009: 368).
+    > **Açıklama:** Makale<br />Makale, herhangi bir konuda bilgi vermek, bir düşünce ya da konuya açıklık getirmek, yeni bir görüş ve düşünceyi ileri sürmek, ele alınan konu üzerinde yapılan<br />inceleme ve araştırma sonuçlarına göre kanıtlar sunarak bu yeni görüş ve düşünceleri desteklemek ve doğruluğunu kanıtlamak amacıyla kaleme alınan bilimsel<br />ağırlıklı gazete ve dergi yazılarıdır (Birinci, 2009: 368).
 
     <hr />
 1. İlk özel gazete olan Tercüman-ı Ahvâl’i 22 Ekim 1860 tarihinde çıkaran ikili hangisidir?
@@ -4754,11 +4381,7 @@
     - D-) Ziya Gökalp - Yakup Kadri
     - E-) Refik Halid Karay - Falih Rıfkı Atay
 
-    > **Açıklama:** İlk özel gazete olan Tercüman-ı
-    > Ahvâl’i 22 Ekim 1860
-    > tarihinde, İstanbul telgraf
-    > müdürü Agah Efendi ile Şinasi
-    > birlikte çıkarmışlardır.
+    > **Açıklama:** İlk özel gazete olan Tercüman-ı<br />Ahvâl’i 22 Ekim 1860<br />tarihinde, İstanbul telgraf<br />müdürü Agah Efendi ile Şinasi<br />birlikte çıkarmışlardır.
 
     <hr />
 1. Türk edebiyatında gazete fıkracılığı hangi yüzyılda başlamıştır?
@@ -4768,9 +4391,7 @@
     - **Cevap D-) 19\.yy**
     - E-) 20\.yy
 
-    > **Açıklama:** Türk edebiyatında gazete fıkracılığı, 19. yüzyılda gazetenin ortaya çıkışıyla
-    > başlamıştır. 20. yüzyılın başlarında özellikle gazeteciliğin gelişmesiyle, gazete yazılarının çeşitlenmesi ve batı edebiyatının da etkileriyle fıkra, bir yazılı anlatım
-    > türü olarak yaygınlık kazanmış ve belirginleşmiştir (Topçu, 2009: 278).
+    > **Açıklama:** Türk edebiyatında gazete fıkracılığı, 19. yüzyılda gazetenin ortaya çıkışıyla<br />başlamıştır. 20. yüzyılın başlarında özellikle gazeteciliğin gelişmesiyle, gazete yazılarının çeşitlenmesi ve batı edebiyatının da etkileriyle fıkra, bir yazılı anlatım<br />türü olarak yaygınlık kazanmış ve belirginleşmiştir (Topçu, 2009: 278).
 
     <hr />
 1. Bir sanat eserini çeşitli yönleri ile inceleyip açıklamak, anlaşılmasını sağlamak ve değerlendirmek amacıyla yazılan yazılara ne denir?
@@ -4790,10 +4411,7 @@
     - D-) Yapıta dönük eleştiri
     - E-) Sanatçıya dönük eleştiri
 
-    > **Açıklama:** Çözümleyici eleştiri; yukarıda açıklanan eleştiri türlerinin yetersiz görülmesi üzerine kimi eleştirmenler, yapıtı çok yönlü inceleme yoluna gitmişlerdir.
-    > Bu türde eleştirmen, gerektiğinde öznel, nesnel ya da toplumcu bir bakışla
-    > yapıta yaklaşılabileceğini savunur. Türü ne olursa olsun her eleştiri, yazarın
-    > ne yaptığını, ne yapmak istediğini bulmaya yöneliktir.
+    > **Açıklama:** Çözümleyici eleştiri; yukarıda açıklanan eleştiri türlerinin yetersiz görülmesi üzerine kimi eleştirmenler, yapıtı çok yönlü inceleme yoluna gitmişlerdir.<br />Bu türde eleştirmen, gerektiğinde öznel, nesnel ya da toplumcu bir bakışla<br />yapıta yaklaşılabileceğini savunur. Türü ne olursa olsun her eleştiri, yazarın<br />ne yaptığını, ne yapmak istediğini bulmaya yöneliktir.
 
     <hr />
 1. Cumhuriyet dönemi Türk edebiyatında eleştirmenliğiyle ön plana çıkan ve<br />öznel eleştiri anlayışıyla dikkat çeken ilk isim kimdir?
@@ -4803,9 +4421,7 @@
     - D-) Beşir Ayvazoğlu
     - E-) Cemal Süreya
 
-    > **Açıklama:** Cumhuriyet dönemi Türk edebiyatında eleştirmenliğiyle ön plana çıkan ve
-    > öznel eleştiri anlayışıyla dikkat çeken ilk isim olan Nurullah Ataç, eleştiri üzerine görüşleriyle de eleştirinin bağımsız bir tür olması konusunda önemli katkılar
-    > sağlamıştır
+    > **Açıklama:** Cumhuriyet dönemi Türk edebiyatında eleştirmenliğiyle ön plana çıkan ve<br />öznel eleştiri anlayışıyla dikkat çeken ilk isim olan Nurullah Ataç, eleştiri üzerine görüşleriyle de eleştirinin bağımsız bir tür olması konusunda önemli katkılar<br />sağlamıştır
 
     <hr />
 1. Herhangi bir konuyu yeni ve kişisel görüşlerle ele alarak etkili bir anlatımla sunan<br />düzyazılara ne denir?
@@ -4815,8 +4431,7 @@
     - D-) Fıkra
     - E-) Röportaj
 
-    > **Açıklama:** Herhangi bir konuyu yeni ve kişisel görüşlerle ele alarak etkili bir anlatımla sunan
-    > düzyazılara deneme denir.
+    > **Açıklama:** Herhangi bir konuyu yeni ve kişisel görüşlerle ele alarak etkili bir anlatımla sunan<br />düzyazılara deneme denir.
 
     <hr />
 1. Fransız edebiyatında deneme türünün kurucusu sayılan yazar kimdir?
@@ -4826,8 +4441,7 @@
     - D-) İbni Batuta
     - E-) J. J. Rouseau
 
-    > **Açıklama:** Batı edebiyatında en tanınmış deneme yazarları Fransız edebiyatında, bu türün
-    > kurucusu sayılan Montaigne, İngiliz edebiyatında Bacon’dur.
+    > **Açıklama:** Batı edebiyatında en tanınmış deneme yazarları Fransız edebiyatında, bu türün<br />kurucusu sayılan Montaigne, İngiliz edebiyatında Bacon’dur.
 
     <hr />
 1. * Metin içinde sorulu cevaplı anlatımdan yararlanılarak konuşma havası yaratılır.<br />* Sıkça devrik cümlelere rastlanır.<br />* Anlatımında içtenlik, yalınlık, duruluk egemendir.<br />* Genellikle günlük sanat olaylarını ele alır.<br />Yukarıda özellikleri verilen yazı türü hangisidir?
@@ -4837,15 +4451,7 @@
     - D-) Röportaj
     - E-) Fıkra
 
-    > **Açıklama:** Söyleşi türünde yazarken bu yazı türünün dikkat edilmesi gereken ayırt edici özelliklerini şöyle sıralayabiliriz (Aktaş ve Gündüz, 2009; Parlatır, 2009; Abak,
-    > 1992):
-    > • Metin içinde sorulu cevaplı anlatımdan yararlanılarak konuşma havası yaratılır.
-    > • Sıkça devrik cümlelere rastlanır.
-    > • Anlatımında içtenlik, yalınlık, duruluk egemendir.
-    > • Genellikle günlük sanat olaylarını ele alır.
-    > • Konu genel ve yüzeysel olarak ele alınır.
-    > • Öznel bir anlatım vardır.
-    > • Anlatılanları kanıtlama çabası yoktur.
+    > **Açıklama:** Söyleşi türünde yazarken bu yazı türünün dikkat edilmesi gereken ayırt edici özelliklerini şöyle sıralayabiliriz (Aktaş ve Gündüz, 2009; Parlatır, 2009; Abak,<br />1992):<br />• Metin içinde sorulu cevaplı anlatımdan yararlanılarak konuşma havası yaratılır.<br />• Sıkça devrik cümlelere rastlanır.<br />• Anlatımında içtenlik, yalınlık, duruluk egemendir.<br />• Genellikle günlük sanat olaylarını ele alır.<br />• Konu genel ve yüzeysel olarak ele alınır.<br />• Öznel bir anlatım vardır.<br />• Anlatılanları kanıtlama çabası yoktur.
 
     <hr />
 1. Türk edebiyatında anı türünün ilk örneği olarak kabul edilen eser hangisidir?
@@ -4855,8 +4461,7 @@
     - D-) Başka Kentler, Başka Denizler
     - E-) Hıtay Sefaretnamesi
 
-    > **Açıklama:** Türk edebiyatında bazı tarihler, seyahatnameler, tezkireler anı sınırları içinde
-    > değerlendirilebilir. Bu açıdan bakıldığında Göktürk Kitabeleri anı türünün ilk örneği olarak kabul edilebilir.
+    > **Açıklama:** Türk edebiyatında bazı tarihler, seyahatnameler, tezkireler anı sınırları içinde<br />değerlendirilebilir. Bu açıdan bakıldığında Göktürk Kitabeleri anı türünün ilk örneği olarak kabul edilebilir.
 
     <hr />
 1. "İnsanları, bir konu üzerinde düşündürmeyi, tartıştırmayı, bu yolla gerçeklere ulaştırmayı amaçlayan yazı türlerine düşünce yazıları denir." Bu tanımdan hareketle seçeneklerden hangisi düşünce yazısıdır?
@@ -4976,8 +4581,7 @@
     - D-) Deneme
     - E-) Anı
 
-    > **Açıklama:** Düşünce yazılarının genel özelliklerini açıklayabileceksiniz.
-    > Gazete ya da dergilerde yayımlanan belgelendirme ve kanıtlama gereği duyulmadan günlük olayları, ülke sorunlarını inceleyen ve yorumlayan kısa yazılara fıkra denir.
+    > **Açıklama:** Düşünce yazılarının genel özelliklerini açıklayabileceksiniz.<br />Gazete ya da dergilerde yayımlanan belgelendirme ve kanıtlama gereği duyulmadan günlük olayları, ülke sorunlarını inceleyen ve yorumlayan kısa yazılara fıkra denir.
 
     <hr />
 1. insanları, bir konu üzerinde düşündürmeyi, tartışmayı, bu yolla gerçeklere ulaştırmayı amaçlayan yazı türlerine ne denir?
@@ -4987,8 +4591,7 @@
     - D-) metin anlatımı
     - E-) sempozyum
 
-    > **Açıklama:** Düşünce yazılarının genel özelliklerini açıklayabileceksiniz.
-    > insanları, bir konu üzerinde düşündürmeyi, tartışmayı, bu yolla gerçeklere ulaştırmayı amaçlayan yazı türlerine düşünce yazıları denir.
+    > **Açıklama:** Düşünce yazılarının genel özelliklerini açıklayabileceksiniz.<br />insanları, bir konu üzerinde düşündürmeyi, tartışmayı, bu yolla gerçeklere ulaştırmayı amaçlayan yazı türlerine düşünce yazıları denir.
 
     <hr />
 1. Herhangi bir konuda bilgi vermek, bir düşünce ya da konuya açıklık getirmek, yeni bir görüş veya düşünceyi ileri sürmek, ele alınan konu üzerinde inceleme ve araştırma sonuçlarına göre kanıtlar sunarak bu yeni görüş ve düşünceleri desteklemek ve doğruluğunu kanıtlamak amacıyla kaleme alınana bilimsel ağırlıklı gazete ve dergi yazılarına ne denir?
@@ -4998,8 +4601,7 @@
     - D-) magazin yazıları
     - E-) dergi yazıları
 
-    > **Açıklama:** Düşünce yazıları türlerini sıralayabileceksiniz.
-    > Herhangi bir konuda bilgi vermek, bir düşünce yada konuya açıklık getirmek, yeni bir görüş veya düşünceyi ileri sürmek, ele alınan konu üzerinde inceleme ve araştırma sonuçlarına göre kanıtlar sunarak bu yeni görüş ve düşünceleri desteklemek ve doğruluğunu kanıtlamak amacıyla kaleme alınana bilimsel ağırlıklı gazete ve dergi yazılarına makale denir.
+    > **Açıklama:** Düşünce yazıları türlerini sıralayabileceksiniz.<br />Herhangi bir konuda bilgi vermek, bir düşünce yada konuya açıklık getirmek, yeni bir görüş veya düşünceyi ileri sürmek, ele alınan konu üzerinde inceleme ve araştırma sonuçlarına göre kanıtlar sunarak bu yeni görüş ve düşünceleri desteklemek ve doğruluğunu kanıtlamak amacıyla kaleme alınana bilimsel ağırlıklı gazete ve dergi yazılarına makale denir.
 
     <hr />
 1. Bir sanat eserini çeşitli yönleri ile inceleyip açıklamak, anlaşılmasını sağlamak ve değerlendirmek amacıyla yazılan yazılara ne denir?
@@ -5009,8 +4611,7 @@
     - D-) tez
     - E-) fıkra
 
-    > **Açıklama:** Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.
-    > Bir sanat eserini çeşitli yönleri ile inceleyip açıklamak, anlaşılmasını sağlamak ve değerlendirmek amacıyla yazılan yazılara ne denir?
+    > **Açıklama:** Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br />Bir sanat eserini çeşitli yönleri ile inceleyip açıklamak, anlaşılmasını sağlamak ve değerlendirmek amacıyla yazılan yazılara ne denir?
 
     <hr />
 1. Herhangi bir konuyu yeni ve kişisel görüşlerle ele alarak etkili bir anlatımla sunan düz yazılara ne denir?
@@ -5020,8 +4621,7 @@
     - **Cevap D-) deneme**
     - E-) hikayeleme
 
-    > **Açıklama:** Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.
-    > Herhangi bir konuyu yeni ve kişisel görüşlerle ele alarak etkili bir anlatımla sunan düz yazılara ne denir?
+    > **Açıklama:** Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br />Herhangi bir konuyu yeni ve kişisel görüşlerle ele alarak etkili bir anlatımla sunan düz yazılara ne denir?
 
     <hr />
 1. Yazarın gözlem ve bilgiye dayalı olarak, gezip gördüğü yerleri çeşitli yönleriyle özenli bir anlatımla yansıttığı yazıya ne denir?
@@ -5031,8 +4631,7 @@
     - D-) eleştiri
     - E-) tez
 
-    > **Açıklama:** Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.
-    > Yazarın gözlem ve bilgiye dayalı olarak, gezip gördüğü yerleri çeşitli yönleriyle özenli bir anlatımla yansıttığı yazıya gezi yazısı denir.
+    > **Açıklama:** Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br />Yazarın gözlem ve bilgiye dayalı olarak, gezip gördüğü yerleri çeşitli yönleriyle özenli bir anlatımla yansıttığı yazıya gezi yazısı denir.
 
     <hr />
 1. Edebiyat, sanat, spor, sosyal ya da fen bilimleri gibi kendi alanlarında tanınmış, ün yapmış, okurun ilgisini çekecek kişilerin yaşam öykülerini araştırarak okuyana bilgi vermeyi amaçlayan yazı türüne ne denir?
@@ -5042,8 +4641,7 @@
     - D-) dergi yazıları
     - E-) gezi yazıları
 
-    > **Açıklama:** Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.
-    > Edebiyat, sanat, spor, sosyal ya da fen bilimleri gibi kendi alanlarında tanınmış, ün yapmış, okurun ilgisini çekecek kişilerin yaşam öykülerini araştırarak okuyana bilgi vermeyi amaçlayan yazı türüne ne denir?
+    > **Açıklama:** Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br />Edebiyat, sanat, spor, sosyal ya da fen bilimleri gibi kendi alanlarında tanınmış, ün yapmış, okurun ilgisini çekecek kişilerin yaşam öykülerini araştırarak okuyana bilgi vermeyi amaçlayan yazı türüne ne denir?
 
     <hr />
 1. Bilim, sanat, siyaset, spor vb. alanlarının herhangi birinde tanınmış kişilerin, kendi yaşamını anlattığı yazı türüne ne denir?
@@ -5053,8 +4651,7 @@
     - D-) makale
     - E-) tez
 
-    > **Açıklama:** Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.
-    > Bilim, sanat, siyaset, spor vb. alanlarının herhangi birinde tanınmış kişilerin, kendi yaşamını anlattığı yazı türüne otobiyografi denir.
+    > **Açıklama:** Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br />Bilim, sanat, siyaset, spor vb. alanlarının herhangi birinde tanınmış kişilerin, kendi yaşamını anlattığı yazı türüne otobiyografi denir.
 
     <hr />
 1. Bir kişiyi, yeri veya sanat dalını geniş okur kitlelerine, kendi görüş ve düşünceleriyle birleştirerek araştırma, inceleme yoluyla tanıtan, ayrıntılı bilgi veren yazılara ne ad verilir?
@@ -5064,8 +4661,7 @@
     - D-) tez
     - E-) sunum
 
-    > **Açıklama:** Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.
-    > Bir kişiyi, yeri veya sanat dalını geniş okur kitlelerine, kendi görüş ve düşünceleriyle birleştirerek araştırma, inceleme yoluyla tanıtan, ayrıntılı bilgi veren yazılara **röportaj** denir.
+    > **Açıklama:** Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br />Bir kişiyi, yeri veya sanat dalını geniş okur kitlelerine, kendi görüş ve düşünceleriyle birleştirerek araştırma, inceleme yoluyla tanıtan, ayrıntılı bilgi veren yazılara **röportaj** denir.
 
     <hr />
 1. Aşağıdakilerden hangisi eleştiri türlerinin sınıflandırmalarından birisi değildir?
@@ -5075,8 +4671,7 @@
     - D-) Sanatçıya dönük eleştiri
     - **Cevap E-) Döneme dönük eleştiri**
 
-    > **Açıklama:** Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.
-    > Özdemir ( 2002, 2008) genel olarak eleştiri türlerini şöyle sınıflandırmaktadır: Sanatçıya dönük eleştiri Yapıta dönük eleştiri Okura dönük eleştiri Topluma dönük eleştiri Çözümleyici eleştiri
+    > **Açıklama:** Düşünce yazılarının türlerini ayırt edebilecek bilgi ve beceriler kazanabileceksiniz.<br />Özdemir ( 2002, 2008) genel olarak eleştiri türlerini şöyle sınıflandırmaktadır: Sanatçıya dönük eleştiri Yapıta dönük eleştiri Okura dönük eleştiri Topluma dönük eleştiri Çözümleyici eleştiri
 
     <hr />
 1. **Aşağıdakilerden hangisi, makale yazı türünün, Türk basınına girmesinde öncü olarak görülür?**
@@ -5086,8 +4681,7 @@
     - D-) Ziya Gökalp
     - **Cevap E-) İbrahim Şinasi**
 
-    > **Açıklama:** Makale, başlığı altındaki bilgileri gözden geçiriniz.
-    > Tanzimat döneminde Türk edebiyatının batılılaşmasında gazete ve dergilerin rolü tartışılmazdır. Pek çok yazı türü bu dönemde edebiyatımıza girmiştir. Şinasi de dönemin öncülerindendir.
+    > **Açıklama:** Makale, başlığı altındaki bilgileri gözden geçiriniz.<br />Tanzimat döneminde Türk edebiyatının batılılaşmasında gazete ve dergilerin rolü tartışılmazdır. Pek çok yazı türü bu dönemde edebiyatımıza girmiştir. Şinasi de dönemin öncülerindendir.
 
     <hr />
 1. Eleştiri sözcüğü, tenkit ile eş anlamlıdır ve Fransızcadaki yargılamak anlamına gelen “critique” teriminin karşılığıdır. Eleştiri, bir düşünceyi destekleyerek olumlu yanlarını ortaya koyması ya da bir sanat eserini geniş okur kitlesine tanıtması bakımından sıkça başvurulan bir yazılı anlatım türüdür.<br />Tanzimat döneminde eleştiri anlayışı, “eskinin reddi, yeninin yaratılması” üzerine kuruludur.<br />Aşağıdakilerden hangisi, tanzimat döneminin eleştiri yazarlarından **değildir**?
@@ -5097,8 +4691,7 @@
     - D-) Muallim Naci
     - **Cevap E-) Nurullah Ataç**
 
-    > **Açıklama:** Eleştiri, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 3
+    > **Açıklama:** Eleştiri, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 3
 
     <hr />
 1. Herhangi bir konuyu yeni ve kişisel görüşlerle ele alarak etkili bir anlatımla sunan düzyazılara *deneme* denir. Deneme, okuyucuyu düşündürmeyi amaç edinmesi nedeniyle makale ve fıkra gibi düşünsel boyutlu bir yazı türüdür. Ancak belirli bir düşünceyi benimsetmeye çalışmaması nedeniyle fıkradan; belgelere, tanıklara yer verme zorunluluğu taşımaması açısından da makaleden; belirli bir sonuç ve yargıya varmama yönüyle de eleştiriden ayrı bir özellik taşır.<br />Aşağıdakilerden hangisi, denemenin özellikleri arasında sıralanabilir?
@@ -5108,8 +4701,7 @@
     - D-) İç konuşmadan uzak durulur.
     - E-) Kesin bir sonuca ulaşılır.
 
-    > **Açıklama:** Deneme, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 3
+    > **Açıklama:** Deneme, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 3
 
     <hr />
 1. Röportaj sözcüğünün kökeni, Latincede ‘toplamak’ ‘getirmek’ anlamlarında kullanılan “reporte” fiiline dayanır. Türkçeye, Fransızca “reportage” sözcüğünden geçmiştir. Röportaj yazıları, genellikle gazete ve dergilerde yayımlanmakla birlikte son yıllarda televizyon, radyo hatta internet ortamında da yaygınlaşmıştır. Röportaj yerine “mülakat, görüşme” terimleri de kullanılmaktadır.<br />Aşağıdakilerden hangisi, Atatürk’ü Türkiye’ye ve dünyaya tanıtan *“Anafartalar Kumandanı Mustafa Kemal’le Mülakat”*ı gerçekleştirmiştir?
@@ -5119,8 +4711,7 @@
     - D-) Yaşar Nabi Nayır
     - E-) Yaşar Kemal
 
-    > **Açıklama:** Röportaj, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 3
+    > **Açıklama:** Röportaj, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 3
 
     <hr />
 1. * Sorulu cevaplı anlatımdan yararlanılır.<br />* Devrik cümleler sıkça kullanılır.<br />* Anlatımında içtenlik egemendir.<br />* Genellikle günlük sanat olaylarını ele alır.<br />* Öznel bir anlatım vardır.<br />* Anlatılanları kanıtlama çabası yoktur.<br />Aşağıdakilerden hangi yazı türü yukarıdaki özellikleri taşır?
@@ -5130,8 +4721,7 @@
     - D-) Eleştiri
     - E-) Gezi yazısı
 
-    > **Açıklama:** Söyleşi/Sohbet, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 2
+    > **Açıklama:** Söyleşi/Sohbet, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 2
 
     <hr />
 1. Türk edebiyatında gezi yazısı için seyahat, gezi yazılarının yer aldığı esere de seyahatname terimi kullanılmaktaydı. Osmanlı İmparatorluğu’nun son yüzyıllarında Batıyla ilişkilerin geliştirilmesi için gönderilen elçilerin yazdığı Sefaretnameler de gezi yazısı sınıfında değerlendirilebilmektedir.<br />Aşağıdakilerden hangisi, 17. yüzyılda *Seyahatname* adlı yapıtıyla tanınmıştır?
@@ -5141,8 +4731,7 @@
     - D-) Cenap Şahabettin
     - **Cevap E-) Evliya Çelebi**
 
-    > **Açıklama:** Gezi Yazısı, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 3
+    > **Açıklama:** Gezi Yazısı, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 3
 
     <hr />
 1. Anılar, farklı amaçlarla yazılabilir. Anı yazarının toplumdaki yeri, yaşı, mesleği; yazının içeriğindeki konular belirleyicidir. Bu nedenle siyasal anılar, askerlik anıları, gençlik anıları öğretmenlik anıları, kültürel anılar, edebiyat anıları vb. adlandırmalarla karşılaşılabilir. Anı yazı türünün geçmişi, Batı edebiyatında çok eskilere uzanır. Batı’da, Gallia Savaşı adlı eser, ilk anı örneklerinden biri sayılır. Aşağıdakilerden hangisi, söz konusu eserin yazarıdır?
@@ -5152,10 +4741,7 @@
     - D-) Verlaine
     - E-) Tolstoy
 
-    > **Açıklama:** Anı, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 3
-    > **Dönüt :KİTAPDA OLMAYAN VE ÜNİTE İLE ALAKASIZ YANLIŞ BİR SORU KALDIRIN**
-    > Kitabınızın dördüncü bölümünün 95. sayfasındaki **Anı** başlığı altındaki bilgileri gözden geçiriniz.
+    > **Açıklama:** Anı, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 3<br />**Dönüt :KİTAPDA OLMAYAN VE ÜNİTE İLE ALAKASIZ YANLIŞ BİR SORU KALDIRIN**<br />Kitabınızın dördüncü bölümünün 95. sayfasındaki **Anı** başlığı altındaki bilgileri gözden geçiriniz.
 
     <hr />
 1. Tanzimat öncesindeki menakıpname, vakayi’name, gazavatname, fetihname, sefaretname gibi eserler bugünkü anlamıyla birer anı yazı türüne girmese de anı türüne özgü özellikler taşırlar.<br />Aşağıdakilerden hangisi, Tanzimat döneminin anı yazarlarından **değildir?**
@@ -5165,8 +4751,7 @@
     - **Cevap D-) Refik Halit Karay**
     - E-) Halit Ziya Uşaklıgil
 
-    > **Açıklama:** Anı, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 3
+    > **Açıklama:** Anı, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 3
 
     <hr />
 1. Kişinin kendi bakış açısına göre günü gününe yazdığı, üzerinde yazıldığı günün tarihini belirttiği yazılarla bu yazıların bir araya getirilerek basılan kitaplara günlük denir.<br />Günlükler, Batı’da özellikle 19. yüzyılda büyük artış göstererek birçoğu Türkçeye çevrilmiştir.<br />Aşağıdakilerden hangisi, "Defterler" başlığıyla basılan günlüğün yazarıdır?
@@ -5176,8 +4761,7 @@
     - D-) Virginia Woolf
     - E-) Stefan Zweig
 
-    > **Açıklama:** Günlük, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 3
+    > **Açıklama:** Günlük, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 3
 
     <hr />
 1. Kendi alanlarında tanınmış, okurun ilgisini çekecek kişilerin yaşadıklarını araştırarak okuyana aktaran yazı türüne yaşam öyküsü denir. Biyografi sözcüğünden Türkçeleştirilen yaşam öyküsünün, belli bir uzunluğu yoktur. Kişinin kendi yaşamını yazmasına da öz yaşam öyküsü adı verilir. Otobiyografi sözcüğünden Türkçeleştirilen öz yaşam öyküsü, birinci kişinin ağzından anlatılır. Yazar, öykü ya da roman türünde de öz yaşam öyküsünü kaleme alabilir.<br />Aşağıdakilerden hangisi, yaşam öyküsü yazı türüne benzer özellikler taşır?
@@ -5187,8 +4771,7 @@
     - **Cevap D-) Anı**
     - E-) Günlük
 
-    > **Açıklama:** Yaşam öyküsü, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 3
+    > **Açıklama:** Yaşam öyküsü, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 3
 
     <hr />
 1. Aşağıdakilerden hangileri düşünce yazılarının özelliklerindendir?<br />1\. Sözcüklerin ilk anlamları kullanılır.<br />2\. Yazılış amacı ile sezdirilen anlam ilişkilidir.<br />3\. Okur izlenimi okurdan okura değişmez.<br />4\. Sanatlı anlatım içerir.
@@ -5308,8 +4891,7 @@
     - D-) Söyleşi
     - E-) Eleştiri
 
-    > **Açıklama:** Soru kökünde fıkra türüne ait özellikler sıralanmıştır. Fıkra sözcüğünün bir anlatı türü olarak ikinci anlamı, gazete ya da dergilerde yayımlanan, belgelendirme ve kanıtlama gereği duyulmadan günlük olayları, ülke sorunlarını veya yazarın bir konu hakkındaki görüşlerini çeşitli yönlerden inceleyen ve yorumlayan kısa yazılardır. Doğru cevap B seçeneğidir.
-    > Soru kökünde özellikleri sıralanan düşünsel yazı türü Fıkradır.
+    > **Açıklama:** Soru kökünde fıkra türüne ait özellikler sıralanmıştır. Fıkra sözcüğünün bir anlatı türü olarak ikinci anlamı, gazete ya da dergilerde yayımlanan, belgelendirme ve kanıtlama gereği duyulmadan günlük olayları, ülke sorunlarını veya yazarın bir konu hakkındaki görüşlerini çeşitli yönlerden inceleyen ve yorumlayan kısa yazılardır. Doğru cevap B seçeneğidir.<br />Soru kökünde özellikleri sıralanan düşünsel yazı türü Fıkradır.
 
     <hr />
 1. Eleştirmenin incelediği bir yapıtın, kendisi üzerine bıraktığı etkileri değerlendirdiği eleştiri türü aşağıdakilerden hangisidir?
@@ -5400,8 +4982,7 @@
     - D-) Heykel
     - **Cevap E-) Sanat**
 
-    > **Açıklama:** Türk Dil Kurumunun genel ağdaki Büyük Türkçe Sözlük içinde yer alan Yazın Terimleri Sözlüğü’nde sanat, “Bir duygunun, bir tasarının, bir düşüncenin ya da güzelliğin anlatımında kullanılan yöntemlerin tümü ve bunların sonunda erişilen üstün
-    > yaratıcılık.” (tdkterim.gov.tr/bts.) olarak tanımlanmaktadır.
+    > **Açıklama:** Türk Dil Kurumunun genel ağdaki Büyük Türkçe Sözlük içinde yer alan Yazın Terimleri Sözlüğü’nde sanat, “Bir duygunun, bir tasarının, bir düşüncenin ya da güzelliğin anlatımında kullanılan yöntemlerin tümü ve bunların sonunda erişilen üstün<br />yaratıcılık.” (tdkterim.gov.tr/bts.) olarak tanımlanmaktadır.
 
     <hr />
 1. Şiiri tanımlama tartışmaları çerçevesinde "Tanım akıl işidir. Şiir ise akıl dışıdır." sözünü söyleyen tanınmış şair aşağıdakilerden hangisinde doğru olarak verilmiştir?
@@ -5411,9 +4992,7 @@
     - **Cevap D-) Melih Cevdet**
     - E-) Necip Fazıl
 
-    > **Açıklama:** Cahit Sıtkı’ya göre “şiir, kelimelerle güzel biçimler kurmak sanatıdır.” Şiiri tanımlamaya
-    > çalışmanın boş bir çaba olduğunu belirten Melih Cevdet’e göre “Tanım akıl işidir.
-    > Şiir ise akıl dışıdır.”
+    > **Açıklama:** Cahit Sıtkı’ya göre “şiir, kelimelerle güzel biçimler kurmak sanatıdır.” Şiiri tanımlamaya<br />çalışmanın boş bir çaba olduğunu belirten Melih Cevdet’e göre “Tanım akıl işidir.<br />Şiir ise akıl dışıdır.”
 
     <hr />
 1. Şairlerin şiirde müzikal etkiyi sözcüklerin kullanımıyla da sağlamaya çalışmaları, sözcüklerin şiirde gizemli bir hâl almasını ifade etmek için şiiri büyüye, şairleri de büyücülere benzeten şairimiz kimdir?
@@ -5423,11 +5002,7 @@
     - D-) Can Yücel
     - E-) Edip Cansever
 
-    > **Açıklama:** Şiirin düz yazıdan farkları arasında çağrışımlar, imgeler kadar şiirde dizelerin kümelenişi, uzunluk kısalık durumu ve uyak dizilişi gibi yapısal özelliklerdeki farklılık da büyük önem taşır. Biçim olarak adlandırılan bu özelliklerle yani
-    > uyak ve ölçü ile şiirde müzikal bir etki yaratmaya çalışır şair. Şairler şiirde müzikal
-    > etkiyi sözcüklerin kullanımıyla da sağlamaya çalışırlar. Sözcükler şiirde gizemli
-    > bir hâl alırlar. Bu yönüyle Sabahattin Eyüboğlu (1997: 55) şiiri büyüye, şairi ise
-    > büyücüye benzetir.
+    > **Açıklama:** Şiirin düz yazıdan farkları arasında çağrışımlar, imgeler kadar şiirde dizelerin kümelenişi, uzunluk kısalık durumu ve uyak dizilişi gibi yapısal özelliklerdeki farklılık da büyük önem taşır. Biçim olarak adlandırılan bu özelliklerle yani<br />uyak ve ölçü ile şiirde müzikal bir etki yaratmaya çalışır şair. Şairler şiirde müzikal<br />etkiyi sözcüklerin kullanımıyla da sağlamaya çalışırlar. Sözcükler şiirde gizemli<br />bir hâl alırlar. Bu yönüyle Sabahattin Eyüboğlu (1997: 55) şiiri büyüye, şairi ise<br />büyücüye benzetir.
 
     <hr />
 1. Şiir dizelerinin sonlarındaki ses benzerliğine ne ad verilir?
@@ -5447,8 +5022,7 @@
     - D-) Didaktik
     - E-) Satirik
 
-    > **Açıklama:** Şiirler içerdikleri konulara göre; lirik, epik, didaktik, pastoral, satirik, dramatik
-    > olmak üzere altı türe ayrılmaktadır.
+    > **Açıklama:** Şiirler içerdikleri konulara göre; lirik, epik, didaktik, pastoral, satirik, dramatik<br />olmak üzere altı türe ayrılmaktadır.
 
     <hr />
 1. Aşağıdakilerden hangisi Eski Yunan'da epos, Batı'da epope, Türk edebiyatında ise destan denilen şiir türü ile ilgili doğru bir bilgidir?
@@ -5468,8 +5042,7 @@
     - D-) Dramatik
     - E-) Lirik
 
-    > **Açıklama:** Tanzimat döneminde Tevfik Fikret’in çocuklara seslendiği Şermin
-    > adlı eseri, Mehmet Akif’in Asım adlı eseri didaktik şiirler arasındadır.
+    > **Açıklama:** Tanzimat döneminde Tevfik Fikret’in çocuklara seslendiği Şermin<br />adlı eseri, Mehmet Akif’in Asım adlı eseri didaktik şiirler arasındadır.
 
     <hr />
 1. Faruk Nafiz Çamlıbel’in Han Duvarları adlı şiiri hangi şiir türüne örnek gösterilmektedir?
@@ -5489,8 +5062,7 @@
     - D-) Epik
     - E-) Lirik
 
-    > **Açıklama:** Bir kimseyi, bir düşünceyi, bir durumu açık ya da kapalı biçimde, iğneli bir dille,
-    > eleştirme yönü ağır basan şiirlere satirik şiir denir. Verilen şiir, satirik bir şiirdir.
+    > **Açıklama:** Bir kimseyi, bir düşünceyi, bir durumu açık ya da kapalı biçimde, iğneli bir dille,<br />eleştirme yönü ağır basan şiirlere satirik şiir denir. Verilen şiir, satirik bir şiirdir.
 
     <hr />
 1. Okura yaşamdan kurgusal bir kesit sunan öykünün ögeleri aşağıdakilerden hangisinde tam ve doğru olarak verilmiştir?
@@ -5500,8 +5072,7 @@
     - D-) Olay, kişiler ve mekan
     - E-) Durum, kişiler, mekan ve zaman
 
-    > **Açıklama:** Okura yaşamdan kurgusal bir kesit sunan öykünün dört ögesi vardır: Olay ya da
-    > durum, kişiler, yer ve zaman.
+    > **Açıklama:** Okura yaşamdan kurgusal bir kesit sunan öykünün dört ögesi vardır: Olay ya da<br />durum, kişiler, yer ve zaman.
 
     <hr />
 1. Aşağıdaki şairlerden hangisi şiiri kalpten gelen bir durumun dile yansıması olarak niteler?
@@ -5931,11 +5502,7 @@
     - D-) Satirik Şiir
     - E-) Didaktik Şiir
 
-    > **Açıklama:** Attila İlhan ve birçok şair lirik şiir türüne ölümsüz örnekler vermiş şairler arasında sayılabilir.Aşağıda Attila İlhan’ın çok bilinen şiirini bu türe örnek olarak okuyabilirsiniz.
-    > gözlerin gözlerime değince
-    > felâketim olurdu ağlardım
-    > beni sevmiyordun bilirdim
-    > bir sevdiğin vardı duyardım
+    > **Açıklama:** Attila İlhan ve birçok şair lirik şiir türüne ölümsüz örnekler vermiş şairler arasında sayılabilir.Aşağıda Attila İlhan’ın çok bilinen şiirini bu türe örnek olarak okuyabilirsiniz.<br />gözlerin gözlerime değince<br />felâketim olurdu ağlardım<br />beni sevmiyordun bilirdim<br />bir sevdiğin vardı duyardım
 
     <hr />
 1. Şiirde ritmi sağlayan ve dizelerin hece sayısına veya hecelerin ses değerine göre bir uyum içinde olması aşağıdakilerden hangisi ile ifade edilir?
@@ -6045,8 +5612,7 @@
     - **Cevap D-) En önemli temsilcisi Nazım Hikmet'tir.**
     - E-) Latin edebiyatında en önemli temsilcisi Vergilus'tur.
 
-    > **Açıklama:** Doğayı, doğa güzelliklerini ve bunları sevdirmeyi amaçlayan, çobanların yaşamı- nı, aşklarını, üzüntülerini anlatan şiirlere pastoral şiir denir. Yalın bir dille yazılan bu şiirler, doğrudan ozanın ağzından anlatılıyorsa (monolog) idil, çobanların kar- şılıklı konuşması biçimindeyse (diyalog) eglog adını alır. İdiller, monolog tarzında olduğu için egloğa göre daha kısa olur. Pastoral şiirler, Yunan edebiyatında The- okritos, Latin edebiyatında Vergilus tarafından yazılmıştır. Pastoral şiir geleneği sonraki çağlarda da sürmüştür. Özellikle Romantik dönemde, doğa Batı şiirini besleyen önemli bir kaynak olmuştur (Gökalp Alpaslan, 2009:177).
-    > Türk edebiyatında pastoral şiir çok ilgi gören bir tür olmamakla birlikte özel- likle halk şiirlerinde doğa ve kır güzelliklerini anlatan şiirler bulunmaktadır. Divan edebiyatında gazellerde doğa betimlemeleri; kasidelerde doğa, mevsim betimleme- lerinin yapıldığı teşbîb bölümleri vardır. Halk edebiyatında Karacaoğlan’ın “Çuku- rova bayramlığın giyerken” dizeleriyle başlayan şiiri bu tür içinde değerlendirilebilir. Tanzimat döneminde pastoral şiire yeni bir soluk getiren şairler arasında Abdülhak Hamit, Servet-i Fünun’da Tevfik Fikret ve Cenap Şehabettin vardır. Çağdaş Türk şiirinde Kemalettin Kamu, Behçet Necatigil, Cahit Külebi bu türde şiirler yazmıştır. Buna göre tsöylenemeyecek ifade D seçeneğinde yer alır.
+    > **Açıklama:** Doğayı, doğa güzelliklerini ve bunları sevdirmeyi amaçlayan, çobanların yaşamı- nı, aşklarını, üzüntülerini anlatan şiirlere pastoral şiir denir. Yalın bir dille yazılan bu şiirler, doğrudan ozanın ağzından anlatılıyorsa (monolog) idil, çobanların kar- şılıklı konuşması biçimindeyse (diyalog) eglog adını alır. İdiller, monolog tarzında olduğu için egloğa göre daha kısa olur. Pastoral şiirler, Yunan edebiyatında The- okritos, Latin edebiyatında Vergilus tarafından yazılmıştır. Pastoral şiir geleneği sonraki çağlarda da sürmüştür. Özellikle Romantik dönemde, doğa Batı şiirini besleyen önemli bir kaynak olmuştur (Gökalp Alpaslan, 2009:177).<br />Türk edebiyatında pastoral şiir çok ilgi gören bir tür olmamakla birlikte özel- likle halk şiirlerinde doğa ve kır güzelliklerini anlatan şiirler bulunmaktadır. Divan edebiyatında gazellerde doğa betimlemeleri; kasidelerde doğa, mevsim betimleme- lerinin yapıldığı teşbîb bölümleri vardır. Halk edebiyatında Karacaoğlan’ın “Çuku- rova bayramlığın giyerken” dizeleriyle başlayan şiiri bu tür içinde değerlendirilebilir. Tanzimat döneminde pastoral şiire yeni bir soluk getiren şairler arasında Abdülhak Hamit, Servet-i Fünun’da Tevfik Fikret ve Cenap Şehabettin vardır. Çağdaş Türk şiirinde Kemalettin Kamu, Behçet Necatigil, Cahit Külebi bu türde şiirler yazmıştır. Buna göre tsöylenemeyecek ifade D seçeneğinde yer alır.
 
     <hr />
 1. Bir ulusun başından geçen olayları, savaşları, büyük göçleri, ayaklanmaları, toplum ile ilgili sorunları, doğal afetleri, olağanüstü olayları ve bu olaylarda kahramanlık gösterenleri, yurt sevgisini coşkulu bir dille anlatan uzunca şiirlere denir.<br />Söz edilen şiir türü aşağıdakilerden hangisidir?
@@ -6206,8 +5772,7 @@
     - D-) Çobanların yaşamını, aşklarını, üzüntülerini anlatan şiirlerdir.
     - E-) Çobanların karşılıklı konuşması biçimindeyse (diyalog) eglog adını alır.
 
-    > **Açıklama:** Pastoral Şiir; Doğayı, doğa güzelliklerini ve bunları sevdirmeyi amaçlayan, çobanların yaşamını, aşklarını, üzüntülerini anlatan şiirlere pastoral şiir denir. Yalın bir dille yazılan bu şiirler, doğrudan ozanın ağzından anlatılıyorsa (monolog) idil, çobanların karşılıklı konuşması biçimindeyse (diyalog) eglog adını alır.
-    > Fakat en yaygın şiir türü değildir.
+    > **Açıklama:** Pastoral Şiir; Doğayı, doğa güzelliklerini ve bunları sevdirmeyi amaçlayan, çobanların yaşamını, aşklarını, üzüntülerini anlatan şiirlere pastoral şiir denir. Yalın bir dille yazılan bu şiirler, doğrudan ozanın ağzından anlatılıyorsa (monolog) idil, çobanların karşılıklı konuşması biçimindeyse (diyalog) eglog adını alır.<br />Fakat en yaygın şiir türü değildir.
 
     <hr />
 1. Aşağıdakilerden hangisi öykünün ögelerinden birisi değildir?
@@ -6217,8 +5782,7 @@
     - D-) Yer
     - **Cevap E-) Ölçü**
 
-    > **Açıklama:** Okura yaşamdan kurgusal bir kesit sunan öykünün dört ögesi vardır: Olay ya da
-    > durum, kişiler, yer ve zaman.
+    > **Açıklama:** Okura yaşamdan kurgusal bir kesit sunan öykünün dört ögesi vardır: Olay ya da<br />durum, kişiler, yer ve zaman.
 
     <hr />
 1. Aşağıdakilerden hangisi olay öykülerinin özelliklerinden birisidir?
@@ -6228,8 +5792,7 @@
     - D-) Okur, öykünün bitmediğini düşünebilir
     - **Cevap E-) Serim, düğüm ve çözüm aşamalılığı vardır.**
 
-    > **Açıklama:** Olay öyküsü: Olay öyküsü adından da anlaşılacağı gibi olay ağırlıklıdır. Olay
-    > öykülerinde serim, düğüm ve çözüm aşamalılığı vardır.
+    > **Açıklama:** Olay öyküsü: Olay öyküsü adından da anlaşılacağı gibi olay ağırlıklıdır. Olay<br />öykülerinde serim, düğüm ve çözüm aşamalılığı vardır.
 
     <hr />
 1. Aşağıdakilerden hangisinde ilk Türkçe roman ve yazar eşleşmesi verilmiştir?
@@ -6359,11 +5922,7 @@
     - D-) Masal
     - **Cevap E-) Roman**
 
-    > **Açıklama:** Sanatsal yazıların genel özelliklerini açıklayabileceksiniz.
-    > I. Yaşanmış ya da yaşanabilir izlenimi veren olayları anlatır.
-    > II. Kişi, zaman, yer, olay ögelerini içerir.
-    > III. Yaşamın bir kesitini ya da tümünü ayrıntılı olarak ele alır.
-    > Yukarıdaki özellikler seçeneklerden roman türünün özellikleridir.
+    > **Açıklama:** Sanatsal yazıların genel özelliklerini açıklayabileceksiniz.<br />I. Yaşanmış ya da yaşanabilir izlenimi veren olayları anlatır.<br />II. Kişi, zaman, yer, olay ögelerini içerir.<br />III. Yaşamın bir kesitini ya da tümünü ayrıntılı olarak ele alır.<br />Yukarıdaki özellikler seçeneklerden roman türünün özellikleridir.
 
     <hr />
 1. Seçeneklerden hangisi sanatsal yazı türlerine örnek gösterilemez?
@@ -6373,8 +5932,7 @@
     - D-) Roman
     - E-) Tiyatro
 
-    > **Açıklama:** Sanatsal yazı türlerini sıralayabileceksiniz.
-    > Sanatsal yazılar, edebi, yazınsal metinler veya kurmaca, kurgusal metinler olarak da ifade edilmektedir. Seçeneklerde yer alan "bildiri" bu özellikler açısından değerlendirildiğinde, sanatsal yazı türü arasında yer almaz
+    > **Açıklama:** Sanatsal yazı türlerini sıralayabileceksiniz.<br />Sanatsal yazılar, edebi, yazınsal metinler veya kurmaca, kurgusal metinler olarak da ifade edilmektedir. Seçeneklerde yer alan "bildiri" bu özellikler açısından değerlendirildiğinde, sanatsal yazı türü arasında yer almaz
 
     <hr />
 1. Adını bir enstrümandan alan , duyguları coşkulu bir dille anlatan şiir türü seçeneklerden hangisinde doğru olarak verilmiştir?
@@ -6384,8 +5942,7 @@
     - D-) Pastoral
     - **Cevap E-) Lirik**
 
-    > **Açıklama:** Sanatsal yazıların türlerini ayırt edebileceksiniz.
-    > Lirik sözcüğü Eski Yunan’da şairlerin şiirlerini telli bir çeşit saz olan “lir” ile birlikte söylemelerinden kaynaklanmış ve sonraları içe doğan duyguları dile getiren şiirlere lirik denmiştir.
+    > **Açıklama:** Sanatsal yazıların türlerini ayırt edebileceksiniz.<br />Lirik sözcüğü Eski Yunan’da şairlerin şiirlerini telli bir çeşit saz olan “lir” ile birlikte söylemelerinden kaynaklanmış ve sonraları içe doğan duyguları dile getiren şiirlere lirik denmiştir.
 
     <hr />
 1. I. Olay<br />II. Kişi<br />III. Yer<br />IV. Zaman<br />V. Üç birlik kuralı<br />Yukarıda verilenlerden hangisi öykünün öğeleri arasında **yer almaz**?
@@ -6395,8 +5952,7 @@
     - D-) Zaman
     - **Cevap E-) Üç birlik kuralı**
 
-    > **Açıklama:** Sanatsal yazıların türlerini ayırt edebileceksiniz.
-    > Okura yaşamdan kurgusal bir kesit sunan öykünün dört ögesi vardır: Olay ya da durum, kişiler, yer ve zaman. Üç birlik kuralı (tek olay, tek yer, tek zaman) tiyatroda trajedi ve klasik komedide yer alır.
+    > **Açıklama:** Sanatsal yazıların türlerini ayırt edebileceksiniz.<br />Okura yaşamdan kurgusal bir kesit sunan öykünün dört ögesi vardır: Olay ya da durum, kişiler, yer ve zaman. Üç birlik kuralı (tek olay, tek yer, tek zaman) tiyatroda trajedi ve klasik komedide yer alır.
 
     <hr />
 1. Seçeneklerden hangisinde ilk Türkçe roman ve yazarı doğru olarak verilmiştir?
@@ -6406,8 +5962,7 @@
     - D-) Karabibik- Nabizade Nazım
     - E-) Mai ve Siyah- Halit Ziya Uşaklıgil
 
-    > **Açıklama:** Sanatsal yazıların türlerini ayırt edebileceksiniz.
-    > İlk Türkçe roman Şemsettin Sami'nin Taaşşuk-ı Talat ve Fitnat adlı romanıdır.
+    > **Açıklama:** Sanatsal yazıların türlerini ayırt edebileceksiniz.<br />İlk Türkçe roman Şemsettin Sami'nin Taaşşuk-ı Talat ve Fitnat adlı romanıdır.
 
     <hr />
 1. **“Şiir, kelimelerle güzel biçimler kurmak sanatıdır.” görüşü aşağıdakilerden hangisine aittir?**
@@ -6447,8 +6002,7 @@
     - D-) satirik
     - E-) dramatik
 
-    > **Açıklama:** Şiirler içerdikleri konulara göre; lirik, epik, didaktik, pastoral, satirik, dramatik olmak üzere altı türe ayrılmaktadır.
-    > trajik
+    > **Açıklama:** Şiirler içerdikleri konulara göre; lirik, epik, didaktik, pastoral, satirik, dramatik olmak üzere altı türe ayrılmaktadır.<br />trajik
 
     <hr />
 1. **Attila İlhan’ın yazdığı “Üçüncü Şahsın Şiiri” konu bakımından aşağıdaki şiir türlerinden hangisine örnektir?**
@@ -6478,8 +6032,7 @@
     - D-) Tanzimat Edebiyatı - Ziya Paşa
     - E-) Yeni Türk edebiyatı- Abdurrahim Karakoç
 
-    > **Açıklama:** Yeni Türk edebiyatı- Neyzen Tevfik, Abdurrahim Karakoç
-    > Eski Türk Edebiyatı -Neyzen Tevfik
+    > **Açıklama:** Yeni Türk edebiyatı- Neyzen Tevfik, Abdurrahim Karakoç<br />Eski Türk Edebiyatı -Neyzen Tevfik
 
     <hr />
 1. **Öykü, Avrupa’da …………… yüzyılın ilk yarısında İtalyan yazar……………. ’nun ... adlı kitabı ile ortaya çıkmıştır.**
@@ -6489,8 +6042,7 @@
     - D-) 17/ Madame de La Fayette/ La Princesse de Cleves
     - E-) 18\. / Goethe/ Genç Werther’in Acıları
 
-    > **Açıklama:** Öykü, Avrupa’da 14. yüzyılın ilk yarısında İtalyan yazar Boccacio’nun Decameron adlı kitabı ile ortaya çıkmıştır.
-    > 14\./ Boccacio/ Decameron
+    > **Açıklama:** Öykü, Avrupa’da 14. yüzyılın ilk yarısında İtalyan yazar Boccacio’nun Decameron adlı kitabı ile ortaya çıkmıştır.<br />14\./ Boccacio/ Decameron
 
     <hr />
 1. **Aşağıdaki seçeneklerden hangisinde tüm sanatçılar Rus edebiyatını temsil etmektedir?**
@@ -6510,8 +6062,7 @@
     - D-) Kral Lear
     - E-) Andromak
 
-    > **Açıklama:** Shakespeare’in *Romeo ve Juliet, Hamlet, Kral Lear* adlı eserleri ve Klasik dönemde (17. yüzyılda) Corneille’nin *Le Cid ve Horace* adlı eserleri ile Racine’nin *Andromak, Phedre* adlı eserleri tragedya türünün önemli eserleridir.
-    > Elektra
+    > **Açıklama:** Shakespeare’in *Romeo ve Juliet, Hamlet, Kral Lear* adlı eserleri ve Klasik dönemde (17. yüzyılda) Corneille’nin *Le Cid ve Horace* adlı eserleri ile Racine’nin *Andromak, Phedre* adlı eserleri tragedya türünün önemli eserleridir.<br />Elektra
 
     <hr />
 1. Aşağıdakilerden hangisi, sanatsal yazıların özellikleri arasındadır?
@@ -6521,8 +6072,7 @@
     - D-) Sanatsal yazılarda, kurmacadan uzak durulur.
     - **Cevap E-) Sanatsal yazılarda, dilin kullanımı önemsizdir.**
 
-    > **Açıklama:** Sanatsal Yazılar, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 1
+    > **Açıklama:** Sanatsal Yazılar, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 1
 
     <hr />
 1. Aşağıdakilerden hangisi, sanatsal yazıların özellikleri arasındadır?
@@ -6532,8 +6082,7 @@
     - D-) Sanatsal yazılarda, yaratıcılıktan uzak durulur.
     - E-) Sanatsal yazılar, nesnel bilgiler aktarmakla yükümlüdür.
 
-    > **Açıklama:** Sanatsal Yazılar, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 1
+    > **Açıklama:** Sanatsal Yazılar, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 1
 
     <hr />
 1. Şiir türleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?
@@ -6543,19 +6092,17 @@
     - D-) Lirik şiirler, doğa güzelliklerini anlatır.
     - E-) Pastoral şiirler, yaşananları bir tiyatro gibi canladırır.
 
-    > **Açıklama:** Şiir, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 2
+    > **Açıklama:** Şiir, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 2
 
     <hr />
 1. Günümüzdeki anlamıyla öykü, Batı edebiyatında doğup gelişen sanatsal anlatı türlerinden biridir. Öykü, Avrupa’da 14. yüzyılın ilk yarısında İtalyan yazar Boccacio’nun Decameron adlı kitabıyla tanınmıştır.<br />Öyküye ilişkin aşağıda verilenlerden hangisi, geçerli bir bilgidir?
     - **Cevap A-) 19\. yüzyılda, Batı’dan örnek alınan türlerin başında gelir.**
     - B-) Öyküde anlatılan kişi sayısı sınırsızdır.
-    - C-) Durum öyküsü, **Mappussant**  öykücülüğü adıyla da anılır.
+    - C-) Durum öyküsü, **Mappussant** öykücülüğü adıyla da anılır.
     - D-) Öyküde olaylar zamandizisel açıdan anlatılır.
     - E-) Olay öyküsü, **Cehov** öykücülüğü adıyla da anılır.
 
-    > **Açıklama:** Öykü, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 3
+    > **Açıklama:** Öykü, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 3
 
     <hr />
 1. Romanla ilgili aşağıda verilen bilgilerden hangisi yanlıştır?
@@ -6565,8 +6112,7 @@
     - D-) 19\. yüzyılda, Fransız edebiyatında Balzac, Stendhal ile Flaubert, gerçekçi roman yazarları arasında gösterilir.
     - **Cevap E-) 19\. yüzyılda, Herman Melville ve N. Hawthorne, romantizm ile realizm anlayışlarını kesin çizgilerle ayırır.**
 
-    > **Açıklama:** Roman, başlığı altındaki bilgileri gözden geçiriniz.
-    > Doğru cevap E seçeneğidir.
+    > **Açıklama:** Roman, başlığı altındaki bilgileri gözden geçiriniz.<br />Doğru cevap E seçeneğidir.
 
     <hr />
 1. Türk romanının başlangıcına ilişkin, aşağıda verilen bilgilerden hangisi **yanlıştır?**
@@ -6576,8 +6122,7 @@
     - D-) 2\. Meşrutiyet’ten sonra H. Edip Adıvar, Y. Kadri Karaosmanoğlu, R. Halit Karay, H. Ziya Uşaklıgil romanlar yazarlar.
     - E-) Şemsettin Sami’nin yazdığı *Taaşşuk-ı Talat ve Fitnat (Talat ve Fitnat’ın Aşkları),* ilk Türkçe romandır.
 
-    > **Açıklama:** Roman, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 3
+    > **Açıklama:** Roman, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 3
 
     <hr />
 1. 1950’lerde Köy Enstitüleri’nin kuruluşunu izleyen dönemde, “köy edebiyatı” gelişmiştir.<br />Aşağıdaki yazarlardan hangisi, Türk romancılığında köy edebiyatının temsilcisidir?
@@ -6587,8 +6132,7 @@
     - D-) Reşat Nuri Güntekin
     - E-) Sabahattin Ali
 
-    > **Açıklama:** Roman, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 3
+    > **Açıklama:** Roman, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 3
 
     <hr />
 1. 1980’lerden sonraki toplumsal ve siyasal hayattaki değişimlerin yanı sıra dünya edebiyatındaki **postmodern** eğilimler Türk romanını da etkilemiştir.<br />Aşağıdakilerden hangisi, Türk romanında postmodern eğilimler taşır?
@@ -6598,8 +6142,7 @@
     - **Cevap D-) Orhan Pamuk**
     - E-) Muzaffer İzgü
 
-    > **Açıklama:** Roman, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 3
+    > **Açıklama:** Roman, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 3
 
     <hr />
 1. Batılılar, tiyatronun kaynağını İÖ 7. ve 6. yüzyıllarda bolluk ve bereketi kutlamak için şarap ve bereket tanrısı Tanrı Dionysos adına düzenlenen şenliklere bağlar. Tiyatro, bağ bozumu şenliklerinde dinsel bir ayin gibi doğmuş ve bugüne kadar gelişerek varlığını sürdürmüştür.<br />Tiyatroya ilişkin aşağıdakilerden hangisi, geçerli bir bilgidir?
@@ -6609,10 +6152,7 @@
     - D-) Tiyatro her zaman için, bir eylem sanatıdır.
     - E-) Tiyatroda karşılıklı konuşmalar baskındır.
 
-    > **Açıklama:** Tiyatro, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 3
-    > Kitabınızın 129. sayfasındaki bilgileri gözden geçirmelisiniz! Okumak istemezseniz diye alıntılıyorum:
-    > "Batılılar tarafından, tiyatronun kaynağı İÖ 7. ve 6. yüzyıllarda bolluk ve bereketi kutlamak için şarap ve bereket tanrısı Tanrı Dionysos adına düzenle- nen şenliklere bağlanır (Özdemir, 2002:345). Tiyatro, bağ bozumu şenliklerinde dinsel bir ayin olarak doğmuş ve bugüne kadar gelişerek varlığını sürdürmüştür. Tiyatronun ilk olarak bu törenlerde ortaya çıkışı ve bundan sonra da uzun süre varlığını sürdürmesi manzum olarak gerçekleşmiştir. 17. yüzyıldan itibaren ti- yatro sadece manzum bir edebî tür olmaktan çıkarak düz yazıya (mensur) doğru gelişme göstermiştir. Bu gelişmede Batı’da Shakespeare’in önemli bir rolü ve katkısı olmuştur."
+    > **Açıklama:** Tiyatro, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 3<br />Kitabınızın 129. sayfasındaki bilgileri gözden geçirmelisiniz! Okumak istemezseniz diye alıntılıyorum:<br />"Batılılar tarafından, tiyatronun kaynağı İÖ 7. ve 6. yüzyıllarda bolluk ve bereketi kutlamak için şarap ve bereket tanrısı Tanrı Dionysos adına düzenle- nen şenliklere bağlanır (Özdemir, 2002:345). Tiyatro, bağ bozumu şenliklerinde dinsel bir ayin olarak doğmuş ve bugüne kadar gelişerek varlığını sürdürmüştür. Tiyatronun ilk olarak bu törenlerde ortaya çıkışı ve bundan sonra da uzun süre varlığını sürdürmesi manzum olarak gerçekleşmiştir. 17. yüzyıldan itibaren ti- yatro sadece manzum bir edebî tür olmaktan çıkarak düz yazıya (mensur) doğru gelişme göstermiştir. Bu gelişmede Batı’da Shakespeare’in önemli bir rolü ve katkısı olmuştur."
 
     <hr />
 1. Aşağıdakilerden hangisi düşünce ve sanatsal yazıların ortak özelliğindendir?
@@ -6772,8 +6312,7 @@
     - D-) Pastoral şiir
     - E-) Dramatik şiir
 
-    > **Açıklama:** İnsanlara ahlak dersi vermeyi amaçlayan ve genellikle manzum şiirler
-    > olarak yazılan fabllar, didaktik şiir türü içinde yer almaktadır. Doğru cevap C seçeneğidir.
+    > **Açıklama:** İnsanlara ahlak dersi vermeyi amaçlayan ve genellikle manzum şiirler<br />olarak yazılan fabllar, didaktik şiir türü içinde yer almaktadır. Doğru cevap C seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi olay öyküsü türünün özelliklerinden biri **değildir?**
@@ -6803,8 +6342,7 @@
     - D-) Meddah
     - E-) Ortaoyunu
 
-    > **Açıklama:** Tragedya (Trajedi- Ağlatı), okurda ya da izleyicide korku ve acımaya yönelik hisler uyandırmayı amaçlayan, kurallı bir anlatımı olan tiyatro türüdür. Türk tiyatro geleneğinin güldürü temelli olması, tiyatronun Türk edebiyatına girdiği dönemde tragedyanın geçirdiği değişim, konuların mitoloji ve din kaynaklı olması gibi nedenlerden dolayı Türk edebiyatında
-    > tragedya türünde eser veren sanatçı sayısı azdır. Doğru cevap A seçeneğidir.
+    > **Açıklama:** Tragedya (Trajedi- Ağlatı), okurda ya da izleyicide korku ve acımaya yönelik hisler uyandırmayı amaçlayan, kurallı bir anlatımı olan tiyatro türüdür. Türk tiyatro geleneğinin güldürü temelli olması, tiyatronun Türk edebiyatına girdiği dönemde tragedyanın geçirdiği değişim, konuların mitoloji ve din kaynaklı olması gibi nedenlerden dolayı Türk edebiyatında<br />tragedya türünde eser veren sanatçı sayısı azdır. Doğru cevap A seçeneğidir.
 
     <hr />
 1. 1870 yılında kurulan ilk Osmanlı tiyatrosunun kurucusu aşağıdakilerden hangisidir?
@@ -6825,8 +6363,7 @@
     - D-) IASSS
     - E-) IMSAS
 
-    > **Açıklama:** Bilimsel yazı yazım stili **IMRAD** formatında olmalıdır. **IMRAD**, bilimsel yazıda yer alan temel bölümler olan Introduction (Giriş), Material (Yöntem, Veri Toplama), Results (Bulgular ve Analizler), And (ve), Discussion (Tartışma) ana bölümlerinin
-    > baş harflerinden oluşan bir yazım tarzı kısaltmasıdır. IMRAD formatında yazılacak bir yazının sunacağı bilgiler, anlattıkları temalara göre temel başlıkların içinde ait oldukları alt bölümlerde yer alacak biçimde düzenlenmiştir. Her temel bölümün hangi içerikte hazırlanması gerektiği belirlenmiştir. Doğru cevap **" A "** dır.
+    > **Açıklama:** Bilimsel yazı yazım stili **IMRAD** formatında olmalıdır. **IMRAD**, bilimsel yazıda yer alan temel bölümler olan Introduction (Giriş), Material (Yöntem, Veri Toplama), Results (Bulgular ve Analizler), And (ve), Discussion (Tartışma) ana bölümlerinin<br />baş harflerinden oluşan bir yazım tarzı kısaltmasıdır. IMRAD formatında yazılacak bir yazının sunacağı bilgiler, anlattıkları temalara göre temel başlıkların içinde ait oldukları alt bölümlerde yer alacak biçimde düzenlenmiştir. Her temel bölümün hangi içerikte hazırlanması gerektiği belirlenmiştir. Doğru cevap **" A "** dır.
 
     <hr />
 1. Aşağıdakilerden hangisi bir araştırma yazısında aranacak en önemli özelliklerden biri **değildir?**
@@ -6856,8 +6393,7 @@
     - **Cevap D-) Dolaylı**
     - E-) Dolaysız
 
-    > **Açıklama:** Dolaylı aktarımda yazar, metinde yer vereceği kaynakta okuduğu bilgileri kendi
-    > anlatımı ile ifade eder. Doğru cevap **" D "** dir.
+    > **Açıklama:** Dolaylı aktarımda yazar, metinde yer vereceği kaynakta okuduğu bilgileri kendi<br />anlatımı ile ifade eder. Doğru cevap **" D "** dir.
 
     <hr />
 1. " İkinci ve daha sonraki başvurularda, yalnızca yazarın soyadı ile sayfa numarasını göstermek .................. . " cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -6867,9 +6403,7 @@
     - D-) dolaysızdır
     - **Cevap E-) yeterlidir**
 
-    > **Açıklama:** İlk kez dipnotta geçen bir kaynağa yeniden başvuru yapıldığında, o kaynak
-    > hakkındaki tüm bilgiler yinelenmez. İkinci ve daha sonraki başvurularda, yalnızca
-    > yazarın soyadı ile sayfa numarasını göstermek **yeterlidir**. Bir yazarın birden fazla çalışması kaynak gösteriliyorsa karışıklık olmaması açısından, yazar soyadından sonra çalışmanın başlığı da kısaca yazılabilir. Doğru cevap **" E "** dir.
+    > **Açıklama:** İlk kez dipnotta geçen bir kaynağa yeniden başvuru yapıldığında, o kaynak<br />hakkındaki tüm bilgiler yinelenmez. İkinci ve daha sonraki başvurularda, yalnızca<br />yazarın soyadı ile sayfa numarasını göstermek **yeterlidir**. Bir yazarın birden fazla çalışması kaynak gösteriliyorsa karışıklık olmaması açısından, yazar soyadından sonra çalışmanın başlığı da kısaca yazılabilir. Doğru cevap **" E "** dir.
 
     <hr />
 1. Yazarın, bazen metinde geçen bir konu hakkında ayrıntılı bilgi vermek istediği durumlar olabilir. Bunun için aşağıdakilerden hangisi doğru tercihdir?
@@ -6899,10 +6433,7 @@
     - D-) Kişiden kuruma
     - E-) Kişiden kişiye
 
-    > **Açıklama:** Resmî yazı, devlet kurumlarının kendi aralarında veya kişi ve özel kuruluşlarla iletişimlerini sağlamak amacıyla yazılan yazılardır. Bilimsel yazılarda olduğu
-    > gibi bu tür yazılarda da, uzun anlatıma dayalı edebiyat türlerinden farklı olarak
-    > konuyu doğrudan ifade etmek amaçlanır. **Resmî yazışmalar** kurumlar arasında
-    > olabileceği gibi kurumdan kişiye, kişiden kuruma ya da kişiden kişiye de olabilir. Doğru cevap **" C "** dir.
+    > **Açıklama:** Resmî yazı, devlet kurumlarının kendi aralarında veya kişi ve özel kuruluşlarla iletişimlerini sağlamak amacıyla yazılan yazılardır. Bilimsel yazılarda olduğu<br />gibi bu tür yazılarda da, uzun anlatıma dayalı edebiyat türlerinden farklı olarak<br />konuyu doğrudan ifade etmek amaçlanır. **Resmî yazışmalar** kurumlar arasında<br />olabileceği gibi kurumdan kişiye, kişiden kuruma ya da kişiden kişiye de olabilir. Doğru cevap **" C "** dir.
 
     <hr />
 1. Ad, soyad, tarih ve imzanın mutlaka bulunması gereken düzenleme aşağıdakilerden hangisidir?
@@ -6912,9 +6443,7 @@
     - **Cevap D-) Dilekçe**
     - E-) Elektronik evrak
 
-    > **Açıklama:** Resmî ya da özel kuruluşlara, gerçek ya da tüzel kişilere yazılan, bir dileği, isteği,
-    > ihbar ve şikayeti bildirmek üzere veya herhangi bir konuda bilgi sormak amacıyla
-    > yazılan resmî mektup türlerinden en yaygını dilekçedir. Dilekçelerde ad, soyad, tarih ve imza mutlaka bulunmalıdır. Doğru cevap **" D "** dir.
+    > **Açıklama:** Resmî ya da özel kuruluşlara, gerçek ya da tüzel kişilere yazılan, bir dileği, isteği,<br />ihbar ve şikayeti bildirmek üzere veya herhangi bir konuda bilgi sormak amacıyla<br />yazılan resmî mektup türlerinden en yaygını dilekçedir. Dilekçelerde ad, soyad, tarih ve imza mutlaka bulunmalıdır. Doğru cevap **" D "** dir.
 
     <hr />
 1. Kamu veya özel kuruluşların iş başvurusu sırasında kişilerin niteliklerini kısaca anlatmalarını istediği yazı türü aşağıdakilerden hangisidir?
@@ -6984,9 +6513,7 @@
     - D-) Yalçın Armağan, İmkansız Özerklik: Türk Şiirinde Modernizm, İstanbul: İletişim Yayınları, 2011, s.60 - s.75.
     - E-) Yalçın Armağan, İmkansız Özerklik: Türk Şiirinde Modernizm, İstanbul: İletişim Yayınları, 2011, syf.60- syf.75
 
-    > **Açıklama:** Kaynağı tanıtıcı bilgilerden sonra sayfa numarası yazılır. Birden fazla sayfaya işaret edilecek ise, bilgilerin geçtiği ilk ve son sayfaların numaraları aralarına çizgi konarak gösterilir. Aşağıdaki örneklerde altı çizili yerleri karşılaştırınız.
-    > • Yalçın Armağan, İmkansız Özerklik: Türk Şiirinde Modernizm, İstanbul: İletişim Yayınları, 2011, s.45.
-    > • Yalçın Armağan, İmkansız Özerklik: Türk Şiirinde Modernizm, İstanbul: İletişim Yayınları, 2011, s.60-75.
+    > **Açıklama:** Kaynağı tanıtıcı bilgilerden sonra sayfa numarası yazılır. Birden fazla sayfaya işaret edilecek ise, bilgilerin geçtiği ilk ve son sayfaların numaraları aralarına çizgi konarak gösterilir. Aşağıdaki örneklerde altı çizili yerleri karşılaştırınız.<br />• Yalçın Armağan, İmkansız Özerklik: Türk Şiirinde Modernizm, İstanbul: İletişim Yayınları, 2011, s.45.<br />• Yalçın Armağan, İmkansız Özerklik: Türk Şiirinde Modernizm, İstanbul: İletişim Yayınları, 2011, s.60-75.
 
     <hr />
 1. Yararlanılan kaynak dergide yer alan bir makale ise bu kaynak aşağıdakilerden hangisindeki gibi yazılmalıdır?
@@ -6996,8 +6523,7 @@
     - D-) Süer Eker, “Avrupa Birliğinin Yeni Mottosu ‘Farklılıkta Birlik’ ve Türkçenin ‘Farklılıkta Birlik’teki Yeri”, Bilig, 49: Güz 2009; s. 35-58.
     - E-) Süer Eker, Bilig, 49 (Güz 2009), s. 35-58. “Avrupa Birliğinin Yeni Mottosu ‘Farklılıkta Birlik’ ve Türkçenin ‘Farklılıkta Birlik’teki Yeri”
 
-    > **Açıklama:** Yararlanılan kaynak dergide yer alan bir makale ise, makalenin başlığı tırnak içinde verilir. Derginin adının belirtilmesinin ardından makalenin hangi ciltte ve derginin hangi sayısında yer aldığı ve sayfa aralığı numaraları sırasıyla verilmelidir. Aşağıdaki örneği inceleyiniz.
-    > Süer Eker, “Avrupa Birliğinin Yeni Mottosu ‘Farklılıkta Birlik’ ve Türkçenin ‘Farklılıkta Birlik’teki Yeri”, Bilig, 49 (Güz 2009) , s. 35-58.
+    > **Açıklama:** Yararlanılan kaynak dergide yer alan bir makale ise, makalenin başlığı tırnak içinde verilir. Derginin adının belirtilmesinin ardından makalenin hangi ciltte ve derginin hangi sayısında yer aldığı ve sayfa aralığı numaraları sırasıyla verilmelidir. Aşağıdaki örneği inceleyiniz.<br />Süer Eker, “Avrupa Birliğinin Yeni Mottosu ‘Farklılıkta Birlik’ ve Türkçenin ‘Farklılıkta Birlik’teki Yeri”, Bilig, 49 (Güz 2009) , s. 35-58.
 
     <hr />
 1. Yazının içinde kaynak göstereceğiniz bir kitabın ikiden fazla yazarı olması durumunda bu durum aşağıdakilerden hangisindeki gibi yazılmalıdır?
@@ -7007,9 +6533,7 @@
     - D-) (Grigoriyev ibid., 1974: 102)
     - E-) (Grigoriyev a.g.e., 1974: 102)
 
-    > **Açıklama:** Kitabın iki yazarlı olması durumunda her iki yazarın soyadına da yer verilir; ikiden fazla yazar olması durumunda ise sadece kitapta ismi ilk sırada yer alan yazarın soyadı yazılır ve yanına ve diğerleri anlamına gelen “vd.” kısaltması konulur. Aşağıdaki örnekleri inceleyiniz.
-    > • “Tolman hayvan davranışları, Lewin insan davranışları üzerinde yaptıkları çalışmalarla, organizmaların çevre ile etkileşim kurarken geleceğe ilişkin bilinçli kararlar aldıkları yargısında mutabık kalmışlardır.” (Steers ve Porter, 1987: 12)
-    > • “Bütün Sibirya Türkleri gibi Sahalar arasında da ateşi doyurmak, ona yiyecek sunmak oldukça önemlidir. Onlara göre yeni bir yere geldiklerinde veya iyi bir yemeğe başlamadan önce uot iççi adı verilen ateş iyesine yiyecek verilmelidir.” (Grigoriyev vd., 1974: 102)
+    > **Açıklama:** Kitabın iki yazarlı olması durumunda her iki yazarın soyadına da yer verilir; ikiden fazla yazar olması durumunda ise sadece kitapta ismi ilk sırada yer alan yazarın soyadı yazılır ve yanına ve diğerleri anlamına gelen “vd.” kısaltması konulur. Aşağıdaki örnekleri inceleyiniz.<br />• “Tolman hayvan davranışları, Lewin insan davranışları üzerinde yaptıkları çalışmalarla, organizmaların çevre ile etkileşim kurarken geleceğe ilişkin bilinçli kararlar aldıkları yargısında mutabık kalmışlardır.” (Steers ve Porter, 1987: 12)<br />• “Bütün Sibirya Türkleri gibi Sahalar arasında da ateşi doyurmak, ona yiyecek sunmak oldukça önemlidir. Onlara göre yeni bir yere geldiklerinde veya iyi bir yemeğe başlamadan önce uot iççi adı verilen ateş iyesine yiyecek verilmelidir.” (Grigoriyev vd., 1974: 102)
 
     <hr />
 1. Kaynak olarak basılmamış bir yüksek lisans ya da doktora tezinden yararlanılmışsa bu kaynakçada nasıl belirtilmelidir?
@@ -7019,8 +6543,7 @@
     - **Cevap D-) İsen, Tuba Işınsu (2002), “Divan Şiirinde Fahriye”, Yayımlanmamış Yüksek Lisans Tezi, Ankara: Bilkent Üniversitesi.**
     - E-) İsen, Tuba Işınsu (2002), Yayımlanmamış Yüksek Lisans Tezi, Ankara: Bilkent Üniversitesi. “Divan Şiirinde Fahriye”
 
-    > **Açıklama:** Yazar, kaynak olarak basılmamış yüksek lisans veya doktora tezlerinden yararlanıyorsa kaynakça listesinde tezin basılmamış olduğunu ve hangi üniversitede hazırlandığını mutlaka belirtmelidir.
-    > • İsen, Tuba Işınsu (2002), “Divan Şiirinde Fahriye”, Yayımlanmamış Yüksek Lisans Tezi, Ankara: Bilkent Üniversitesi.
+    > **Açıklama:** Yazar, kaynak olarak basılmamış yüksek lisans veya doktora tezlerinden yararlanıyorsa kaynakça listesinde tezin basılmamış olduğunu ve hangi üniversitede hazırlandığını mutlaka belirtmelidir.<br />• İsen, Tuba Işınsu (2002), “Divan Şiirinde Fahriye”, Yayımlanmamış Yüksek Lisans Tezi, Ankara: Bilkent Üniversitesi.
 
     <hr />
 1. Meclis, kurul, toplantı, mahkeme gibi yerlerde söylenen sözlerin, tespit edildiği anda aynen yazıya geçirilmesiyle oluşturulan yazılara ne ad verilir?
@@ -7230,9 +6753,7 @@
     - D-) Aynı konuyu farklı açıdan ele alan çalışmalara bakmak
     - E-) Konu farklı olmasına rağmen aynı yöntemi kullanan çalışmalara bakmak
 
-    > **Açıklama:** Bu noktada araştırıcının dikkat etmesi gereken şey, kaynak taraması yaparken sadece kendi konusuna ve bu konuyu kendi çalışacağı yöntemle inceleyen kaynaklara bakmak olmamalıdır. Konu ile ilgili taranması gereken çalışmalar şöyle sıralanabilir: Konunun bir yönünü ele alan çalışmalar; aynı konuyu farklı amaçla, farklı açıdan ele alan çalışmalar;
-    > konu farklı olmasına rağmen aynı yöntemi kullanan çalışmalar; farklı konuları
-    > aynı amaçlarla ele alan çalışmalar; benzer konuları benzer amaçlarla ele alan çalışmalar
+    > **Açıklama:** Bu noktada araştırıcının dikkat etmesi gereken şey, kaynak taraması yaparken sadece kendi konusuna ve bu konuyu kendi çalışacağı yöntemle inceleyen kaynaklara bakmak olmamalıdır. Konu ile ilgili taranması gereken çalışmalar şöyle sıralanabilir: Konunun bir yönünü ele alan çalışmalar; aynı konuyu farklı amaçla, farklı açıdan ele alan çalışmalar;<br />konu farklı olmasına rağmen aynı yöntemi kullanan çalışmalar; farklı konuları<br />aynı amaçlarla ele alan çalışmalar; benzer konuları benzer amaçlarla ele alan çalışmalar
 
     <hr />
 1. Bilimsel yazı yazım stili hangi formatta olmalıdır?
@@ -7372,10 +6893,7 @@
     - **Cevap D-) I ve III**
     - E-) I*,* II ve III
 
-    > **Açıklama:** • Yalçın Armağan, İmkansız Özerklik: Türk Şiirinde Modernizm, İstanbul: İletişim Yayınları, 2011, s.45.
-    > • Yalçın Armağan, İmkansız Özerklik: Türk Şiirinde Modernizm, İstanbul: İletişim Yayınları, 2011, s.60-75.
-    > Yararlanılan kaynak dergide yer alan bir makale ise, makalenin başlığı tırnak içinde verilir. Derginin adının belirtilmesinin ardından makalenin hangi ciltte ve derginin hangi sayısında yer aldığı ve sayfa aralığı numaraları sırasıyla verilmeli-dir. Aşağıdaki örneği inceleyiniz.
-    > • Süer Eker, “Avrupa Birliğinin Yeni Mottosu ‘Farklılıkta Birlik’ ve Türkçenin ‘Farklılıkta Birlik’teki Yeri”, Bilig, 49 (Güz 2009) , s. 35-58.
+    > **Açıklama:** • Yalçın Armağan, İmkansız Özerklik: Türk Şiirinde Modernizm, İstanbul: İletişim Yayınları, 2011, s.45.<br />• Yalçın Armağan, İmkansız Özerklik: Türk Şiirinde Modernizm, İstanbul: İletişim Yayınları, 2011, s.60-75.<br />Yararlanılan kaynak dergide yer alan bir makale ise, makalenin başlığı tırnak içinde verilir. Derginin adının belirtilmesinin ardından makalenin hangi ciltte ve derginin hangi sayısında yer aldığı ve sayfa aralığı numaraları sırasıyla verilmeli-dir. Aşağıdaki örneği inceleyiniz.<br />• Süer Eker, “Avrupa Birliğinin Yeni Mottosu ‘Farklılıkta Birlik’ ve Türkçenin ‘Farklılıkta Birlik’teki Yeri”, Bilig, 49 (Güz 2009) , s. 35-58.
 
     <hr />
 1. Aşağıdakilerden hangisi dilekçe yazımı ile ilgili doğru bir bilgi **değildir**?
@@ -7385,12 +6903,7 @@
     - **Cevap D-) İmzanın üstüne ad ve soyad yazılır.**
     - E-) Tarihin altına imza atılır.
 
-    > **Açıklama:** Dilekçelerin yazımında uyulması gereken noktalar şöyledir:
-    > Dilekçelerde ad, soyad, tarih ve imza mutlaka bulunmalıdır
-    > Dilekçenin metin bölümü “arz ederim” ifadesiyle sonlandırılmalıdır.
-    > Metin bölümünün sonuna sağ alta tarih yazılır.
-    > Tarihin altına imza atılır.
-    > İmzanın **altına** da ad ve soyad yazılır.
+    > **Açıklama:** Dilekçelerin yazımında uyulması gereken noktalar şöyledir:<br />Dilekçelerde ad, soyad, tarih ve imza mutlaka bulunmalıdır<br />Dilekçenin metin bölümü “arz ederim” ifadesiyle sonlandırılmalıdır. <br />Metin bölümünün sonuna sağ alta tarih yazılır.<br />Tarihin altına imza atılır.<br />İmzanın **altına** da ad ve soyad yazılır.
 
     <hr />
 1. Aşağıdakilerden hangisi herhangi bir olayın gerçekleşmesi durumunda, olayı kayıt altına almak amacıyla hazır bulunanların onayı ve imzası alınarak yazılanyazı türüdür?
@@ -7430,9 +6943,7 @@
     - D-) Özel Mektup
     - E-) Rapor
 
-    > **Açıklama:** Resmî ya da özel kuruluşlara, gerçek ya da tüzel kişilere yazılan, bir dileği, isteği,
-    > ihbar ve şikayeti bildirmek üzere veya herhangi bir konuda bilgi sormak amacıyla
-    > yazılan resmî mektup türlerinden en yaygını dilekçedir.
+    > **Açıklama:** Resmî ya da özel kuruluşlara, gerçek ya da tüzel kişilere yazılan, bir dileği, isteği,<br />ihbar ve şikayeti bildirmek üzere veya herhangi bir konuda bilgi sormak amacıyla<br />yazılan resmî mektup türlerinden en yaygını dilekçedir.
 
     <hr />
 1. Aşağıdakilerden hangisi dilekçelerin yazımında uyulması gereken noktalardan biri *değildir?*
@@ -7512,11 +7023,7 @@
     - D-) Yazar, kanıtlanamayacak düşüncelere yer vermelidir.
     - **Cevap E-) Yazar düşüncesini açık bir biçimde ifade etmelidir.**
 
-    > **Açıklama:** Bilimsel araştırmalarda düşüncelerin hangi kelimelerle ifade edileceği önemli bir
-    > konudur. Akademik üslup, bilimsel araştırmalarda tercih edilmesi gereken bir üsluptur. Yazar, bu üslup çerçevesinde, kişisel ifadelerden ve günlük konuşma dilinde tercih edilen polemik üslubundan kaçınmalıdır. Aynı zamanda genelleyici
-    > ve belirsiz ifadeler ve kanıtlanamayacak düşüncelerin de akademik üslupta yeri
-    > yoktur.
-    > Yazar düşüncesini açık bir biçimde ifade etmelidir.
+    > **Açıklama:** Bilimsel araştırmalarda düşüncelerin hangi kelimelerle ifade edileceği önemli bir<br />konudur. Akademik üslup, bilimsel araştırmalarda tercih edilmesi gereken bir üsluptur. Yazar, bu üslup çerçevesinde, kişisel ifadelerden ve günlük konuşma dilinde tercih edilen polemik üslubundan kaçınmalıdır. Aynı zamanda genelleyici<br />ve belirsiz ifadeler ve kanıtlanamayacak düşüncelerin de akademik üslupta yeri<br />yoktur.<br />Yazar düşüncesini açık bir biçimde ifade etmelidir.
 
     <hr />
 1. Aşağıdakilerin hangisi bilimsel yazıyı en doğru biçimde tanımlamaktadır?
@@ -7526,10 +7033,7 @@
     - D-) Bilimsel yazılar, poster halinde sunulan yazılardır.
     - E-) Bilimsel yazılar, bilim insanlarının hazırladığı yazılardır.
 
-    > **Açıklama:** Bilimsel yazılar, araştırma sonuçlarının ilgili bilim insanlarına, yararlanacak kurum ve kuruluşlara, bilimsel dergilerde yayınlanarak, rapor halinde,
-    > kongre ve sempozyumlarda bildiri/poster halinde ya da bilim uzmanlığı/doktora/
-    > tıpta uzmanlık biçiminde hazırlanarak sunulmasına hizmet eden özgün yazılardır.
-    > Araştırma sonuçlarının uzmanlık biçiminde hazırlanarak sunulmasına hizmet eden özgün yazılardır.
+    > **Açıklama:** Bilimsel yazılar, araştırma sonuçlarının ilgili bilim insanlarına, yararlanacak kurum ve kuruluşlara, bilimsel dergilerde yayınlanarak, rapor halinde,<br />kongre ve sempozyumlarda bildiri/poster halinde ya da bilim uzmanlığı/doktora/<br />tıpta uzmanlık biçiminde hazırlanarak sunulmasına hizmet eden özgün yazılardır.<br />Araştırma sonuçlarının uzmanlık biçiminde hazırlanarak sunulmasına hizmet eden özgün yazılardır.
 
     <hr />
 1. Tıp, sağlık bilimleri ve biyolojik bilimler, alanındaki bilimsel yazıların hazırlanmasında tercih edilen yazım stili aşağıdakilerden hangisidir?
@@ -7549,8 +7053,7 @@
     - D-) APSA
     - E-) MLA
 
-    > **Açıklama:** Daha çok psikoloji, eğitim ve diğer sosyal bilimlerdeki
-    > bilimsel yazıların hazırlanmasında tercih edilen bir yazım stili olan APA: Amerikan Psikoloji Birliği (American Psychological Association)
+    > **Açıklama:** Daha çok psikoloji, eğitim ve diğer sosyal bilimlerdeki<br />bilimsel yazıların hazırlanmasında tercih edilen bir yazım stili olan APA: Amerikan Psikoloji Birliği (American Psychological Association)
 
     <hr />
 1. Medikal denemelerin (RCT) sonuçlarının bildirilmesi ile ilgili olan yazım tarzı aşağıdakilerden hangisidir?
@@ -7560,8 +7063,7 @@
     - **Cevap D-) CONSORT**
     - E-) CHICAGO
 
-    > **Açıklama:** Medikal denemelerin (RCT) sonuçlarının bildirilmesi ile ilgili yazım tarzını içeren
-    > CONSORT: (Consolidated Standarts of Reporting Trials Group).
+    > **Açıklama:** Medikal denemelerin (RCT) sonuçlarının bildirilmesi ile ilgili yazım tarzını içeren<br />CONSORT: (Consolidated Standarts of Reporting Trials Group).
 
     <hr />
 1. İstatistik, tıp, biyolojik bilimler, psikoloji ve diğer bilimsel yazılar hazırlanırken istatistiksel sonuçların gösteriminde uyulması gereken kuralları içeren yazım stili aşağıdakilerden hangisidir?
@@ -7591,19 +7093,7 @@
     - D-) Metin bölümünün sonuna sağ alta tarih yazılır.
     - E-) İmza bölümünden sonra kâğıdın sol alt tarafına adres ve iletişim bilgileri yazılır.
 
-    > **Açıklama:** Dilekçelerin yazımında uyulması gereken noktalar şöyledir:
-    > 1\. Dilekçe kağıdının üst kenarından bir miktar boşluk bırakıldıktan sonra isteğin iletildiği makam adı yazılır ve alt satıra geçilerek makamın bulunduğu yer adı yazılır.
-    > 2\. Metin bölümü birkaç maddeden oluşmuyorsa paragraf başı kadar boşluk
-    > bırakılarak yazıya başlanır. Dilek, hiçbir yanlış anlamaya yer vermeyecek,
-    > açık ve anlaşılır bir ifade ile bildirilir. Anlatılmak istenen her şey kısa ve öz
-    > biçimde yazılmalıdır.
-    > 3\. Dilekçenin metin bölümü “arz ederim” ifadesiyle sonlandırılmalıdır.
-    > 4\. Metin bölümünün sonuna sağ alta tarih yazılır. Tarihin altına imza atılır.
-    > İmzanın altına da ad ve soyad yazılır.
-    > 5\. İmza bölümünden sonra kâğıdın sol alt tarafına adres ve iletişim bilgileri
-    > yazılır.
-    > 6\. Dilekçede ek belge varsa kağıdın sol alt tarafına adres ve iletişim bilgilerinin altına sıralanır.
-    > Dilekçede ek belge varsa kağıdın sol alt tarafına adres ve iletişim bilgilerinin üstüne sıralanır.
+    > **Açıklama:** Dilekçelerin yazımında uyulması gereken noktalar şöyledir:<br />1\. Dilekçe kağıdının üst kenarından bir miktar boşluk bırakıldıktan sonra isteğin iletildiği makam adı yazılır ve alt satıra geçilerek makamın bulunduğu yer adı yazılır.<br />2\. Metin bölümü birkaç maddeden oluşmuyorsa paragraf başı kadar boşluk<br />bırakılarak yazıya başlanır. Dilek, hiçbir yanlış anlamaya yer vermeyecek,<br />açık ve anlaşılır bir ifade ile bildirilir. Anlatılmak istenen her şey kısa ve öz<br />biçimde yazılmalıdır.<br />3\. Dilekçenin metin bölümü “arz ederim” ifadesiyle sonlandırılmalıdır.<br />4\. Metin bölümünün sonuna sağ alta tarih yazılır. Tarihin altına imza atılır.<br />İmzanın altına da ad ve soyad yazılır.<br />5\. İmza bölümünden sonra kâğıdın sol alt tarafına adres ve iletişim bilgileri<br />yazılır.<br />6\. Dilekçede ek belge varsa kağıdın sol alt tarafına adres ve iletişim bilgilerinin altına sıralanır.<br />Dilekçede ek belge varsa kağıdın sol alt tarafına adres ve iletişim bilgilerinin üstüne sıralanır.
 
     <hr />
 1. Meclis, kurul, toplantı, mahkeme gibi yerlerde söylenen sözlerin, tespit edildiği<br />anda aynen yazıya geçirilmesiyle oluşturulan yazılara ne ad verilir?
@@ -7613,8 +7103,7 @@
     - D-) Rapor
     - E-) Öz geçmiş
 
-    > **Açıklama:** Meclis, kurul, toplantı, mahkeme gibi yerlerde söylenen sözlerin, tespit edildiği
-    > anda aynen yazıya geçirilmesiyle oluşturulan yazılara tutanak adı verilir.
+    > **Açıklama:** Meclis, kurul, toplantı, mahkeme gibi yerlerde söylenen sözlerin, tespit edildiği<br />anda aynen yazıya geçirilmesiyle oluşturulan yazılara tutanak adı verilir.
 
     <hr />
 1. Bir konu ya da olayın incelenmesi sonucunda elde edilen veriler ışığında ortaya<br />çıkan görüşlerin sunulduğu yazı türüne ne ad verilir?
@@ -7624,8 +7113,7 @@
     - D-) Tutanak
     - E-) Dilekçe
 
-    > **Açıklama:** Bir konu ya da olayın incelenmesi sonucunda elde edilen veriler ışığında ortaya
-    > çıkan görüşlerin sunulduğu yazı türüne rapor adı verilir.
+    > **Açıklama:** Bir konu ya da olayın incelenmesi sonucunda elde edilen veriler ışığında ortaya<br />çıkan görüşlerin sunulduğu yazı türüne rapor adı verilir.
 
     <hr />
 1. I. Yazar, konu ile ilgili başka kaynaklara göndermede bulunabilir.<br />II. Yalnızca yazarın yorumlarının yer aldığı bir yazı türüdür.<br />III. Deneme, fıkra, gazete yazısı gibi türlerle içerik bakımından benzerdir.<br />Yukarıdaki ifadelerden hangisi/hangileri bilimsel yazı ile ilgili olarak doğrudur?
@@ -7715,8 +7203,7 @@
     - D-) II, III
     - E-) I, III
 
-    > **Açıklama:** Dipnot yöntemiyle belirtilen kaynaklarda yazarın önce adı sonra soyadı yazılır. İsimlerin yalnızca baş harfleri büyük olmalıdır, unvan belirtmeye gerek yoktur.
-    > Yazarın, bazen metinde geçen bir konu hakkında ayrıntılı bilgi vermek istediği durumlar olabilir, bunlar metinde verildiğinde akıcılığı bozabilen ancak konunun daha iyi anlaşılması için gerekli olan bilgiler olabilir. Yazarın bazen dipnotlara bu sebeple gereğinden fazla yer vermesi, yazarı konunun amacından uzaklaştırarak, konunun bütünlük ve sürekliliğini bozabilir. Bu sebeplerden dolayı yazarın dipnot sistemini, kaynak göstermek yerine, bütünlüğü bozmayacağını düşündüğü ek bilgiler ve özel açıklamalar yapmak için tercih etmesi daha doğru görünmektedir.
+    > **Açıklama:** Dipnot yöntemiyle belirtilen kaynaklarda yazarın önce adı sonra soyadı yazılır. İsimlerin yalnızca baş harfleri büyük olmalıdır, unvan belirtmeye gerek yoktur.<br />Yazarın, bazen metinde geçen bir konu hakkında ayrıntılı bilgi vermek istediği durumlar olabilir, bunlar metinde verildiğinde akıcılığı bozabilen ancak konunun daha iyi anlaşılması için gerekli olan bilgiler olabilir. Yazarın bazen dipnotlara bu sebeple gereğinden fazla yer vermesi, yazarı konunun amacından uzaklaştırarak, konunun bütünlük ve sürekliliğini bozabilir. Bu sebeplerden dolayı yazarın dipnot sistemini, kaynak göstermek yerine, bütünlüğü bozmayacağını düşündüğü ek bilgiler ve özel açıklamalar yapmak için tercih etmesi daha doğru görünmektedir.
 
     <hr />
 1. I. Anlatılmak istenen her şey kısa ve öz biçimde yazılmalıdır.<br />II. Metin bölümünün sonuna, sağ alt kısma tarih yazılır.<br />III. Ad-soyad yazılıp altına imza atılır.<br />IV. Ekler, sol tarafa adresin altına yazılır.<br />Yukarıdaki ifadelerden hangisi/hangileri dilekçe ilgili olarak doğrudur?
@@ -7786,8 +7273,7 @@
     - D-) Strateji/ araştırma tekniği/ yöntem
     - E-) Bilimsel yazı / araştırma tekniği/ yöntem
 
-    > **Açıklama:** Yöntem, araştırmanın amacını gerçekleştirebilmek için kullanılan genel yaklaşımdır; araştırma tekniği ise araştırma yönteminin gerçekleştirilebilmesi için kullanılan bilgi toplama aracıdır. Böyle bir çabanın üretim olarak ortaya konması da *bilimsel yazı* olarak adlandırılır.
-    > Yöntem/ araştırma tekniği/ bilimsel yazı
+    > **Açıklama:** Yöntem, araştırmanın amacını gerçekleştirebilmek için kullanılan genel yaklaşımdır; araştırma tekniği ise araştırma yönteminin gerçekleştirilebilmesi için kullanılan bilgi toplama aracıdır. Böyle bir çabanın üretim olarak ortaya konması da *bilimsel yazı* olarak adlandırılır.<br />Yöntem/ araştırma tekniği/ bilimsel yazı
 
     <hr />
 1. Aşağıdakilerden hangisi bilimsel yazıların dil ve anlatımına ilişkin doğru bir madde değildir?
@@ -7797,8 +7283,7 @@
     - D-) İlgili bilim dalına özgü terimler kullanılmalıdır.
     - E-) Sözcük tekrarından kaçınılmalı, tekrara düşmemek için sözcüklerin eşanlamlıları kullanılmalıdır.
 
-    > **Açıklama:** Sözcük tekrarından kaçınılmalı, tekrara düşmemek için sözcüklerin eşanlamlıları kullanılmalıdır. Kavramlar veya terimler ise her defasında aynı biçimde kullanılmalıdır.
-    > Kavramlar veya terimlerin her kullanımında farklı bir eş anlamlı kavram veya terim seçilmelidir.
+    > **Açıklama:** Sözcük tekrarından kaçınılmalı, tekrara düşmemek için sözcüklerin eşanlamlıları kullanılmalıdır. Kavramlar veya terimler ise her defasında aynı biçimde kullanılmalıdır.<br />Kavramlar veya terimlerin her kullanımında farklı bir eş anlamlı kavram veya terim seçilmelidir.
 
     <hr />
 1. Aşağıdakilerden hangisi daha çok istatistik, tıp, biyolojik bilimler, psikoloji ve diğer bilimsel yazılar hazırlanırken istatistiksel sonuçların gösteriminde uyulması gereken kuralları içeren bir yazım stilidir?
@@ -7838,8 +7323,7 @@
     - **Cevap D-) Metin bölümünün sonuna sol alta tarih yazılır.**
     - E-) Tarihin altına imza atılır. İmzanın altına ad ve soyad yazılır.
 
-    > **Açıklama:** Metin bölümünün sonuna sağ alta tarih yazılır.
-    > Metin bölümünün sonuna sol alta tarih yazılır.
+    > **Açıklama:** Metin bölümünün sonuna sağ alta tarih yazılır.<br />Metin bölümünün sonuna sol alta tarih yazılır.
 
     <hr />
 1. Aşağıdakilerden hangisi dilekçe yazımı ile ilgili doğru bir bilgi değildir?
@@ -7849,8 +7333,7 @@
     - D-) Metin bölümünün sonuna sağ alta tarih yazılır.
     - **Cevap E-) Tarihin altına ad ve soyad yazılır. Ad soyadın altına imza atılır.**
 
-    > **Açıklama:** Tarihin altına imza atılır. İmzanın altına ad soyad yazılır.
-    > Tarihin altına ad ve soyad yazılır. Ad soyadın altına imza atılır.
+    > **Açıklama:** Tarihin altına imza atılır. İmzanın altına ad soyad yazılır.<br />Tarihin altına ad ve soyad yazılır. Ad soyadın altına imza atılır.
 
     <hr />
 1. Aşağıdakilerden hangisi dilekçe yazımı ile ilgili doğru bir bilgi değildir?
@@ -7860,8 +7343,7 @@
     - D-) İmza bölümünden sonra kâğıdın sol alt tarafına adres ve iletişim bilgileri yazılır.
     - **Cevap E-) Dilekçede ek belge varsa kağıdın sağ alt tarafına sıralanır.**
 
-    > **Açıklama:** Dilekçede ek belge varsa kağıdın sol alt tarafına adres ve iletişim bilgilerinin altına sıralanır.
-    > Dilekçede ek belge varsa kağıdın sağ alt tarafına sıralanır.
+    > **Açıklama:** Dilekçede ek belge varsa kağıdın sol alt tarafına adres ve iletişim bilgilerinin altına sıralanır.<br />Dilekçede ek belge varsa kağıdın sağ alt tarafına sıralanır.
 
     <hr />
 1. Aşağıdaki seçeneklerden hangisi bilimsel yazımda standartlaşmanın özelliklerinden biri değildir?
@@ -7871,8 +7353,7 @@
     - D-) Okurlara bilgiye hızlı ve kolay erişmeyi sağlar
     - **Cevap E-) Güvenilir araştırma sonuçları sağlar**
 
-    > **Açıklama:** Güvenilir araştırma sonuçları sağlamak bilimsel yazılarda standartlaşmanın bir özelliği değildir.
-    > Bilimsel yazılarda güvenilir araştırma sonuçları sağlamak atandartlaşmanın özelliklerinden biri değildir.
+    > **Açıklama:** Güvenilir araştırma sonuçları sağlamak bilimsel yazılarda standartlaşmanın bir özelliği değildir.<br />Bilimsel yazılarda güvenilir araştırma sonuçları sağlamak atandartlaşmanın özelliklerinden biri değildir.
 
     <hr />
 1. Aşağıdaki seçeneklerden hangisi bilimsel bir yazının kaynakça listesini oluştururken dikkat edilmesi gerekenlerden biridir?
@@ -7882,8 +7363,7 @@
     - D-) Kaynak yazarlarının adına göre olmalıdır.
     - E-) Kaynakların alfabetik olarak adına göre olmalıdır.
 
-    > **Açıklama:** Kaynaklar yazar soyadına göre ayrıntılı olarak sıralanır.
-    > Kaynak yazarlarının soyadına göre olmalıdır.
+    > **Açıklama:** Kaynaklar yazar soyadına göre ayrıntılı olarak sıralanır.<br />Kaynak yazarlarının soyadına göre olmalıdır.
 
     <hr />
 1. Bir soruna çözüm bulmak için gerekli verilerin planlı ve sistemli bir biçimde toplanması, sınıflandırılması, çözümlenmesi, açıklanması ve yorumlanması sürecine ne ad verilir?
@@ -7893,8 +7373,7 @@
     - D-) Tasarım
     - E-) Analiz
 
-    > **Açıklama:** Tamamlandı.
-    > Bir soruna çözüm bulmak için gerekli verilerin planlı ve sistemli bir biçimde toplanması, sınıflandırılması, çözümlenmesi, açıklanması ve yorumlanması sürecine araştırma denir.
+    > **Açıklama:** Tamamlandı.<br />Bir soruna çözüm bulmak için gerekli verilerin planlı ve sistemli bir biçimde toplanması, sınıflandırılması, çözümlenmesi, açıklanması ve yorumlanması sürecine araştırma denir.
 
     <hr />
 1. Bilimsel bir çalışmada çalışmanın konusu ve özgünlüğün yazıldığı bölüm aşağıdakilerden hangisidir?
@@ -7904,9 +7383,7 @@
     - **Cevap D-) Giriş**
     - E-) Veri toplama
 
-    > **Açıklama:** Tamamlandı.
-    > Bilimsel bir çalışmada giriş bölümü, çalışmanın amacının, konusunun, bilimsel çalışmalara ne kazandırılacağının, dolayısıyla özgünlüğünün ifade edildiği bölümdür.
-    > Doğru cevap D.
+    > **Açıklama:** Tamamlandı.<br />Bilimsel bir çalışmada giriş bölümü, çalışmanın amacının, konusunun, bilimsel çalışmalara ne kazandırılacağının, dolayısıyla özgünlüğünün ifade edildiği bölümdür.<br />Doğru cevap D.
 
     <hr />
 1. Anlatılmak istenen şeyi en açık ve en az kelime ile ifade etme anlamındaki yönteme ne ad verilir?
@@ -7916,8 +7393,7 @@
     - D-) Sentez
     - E-) Doğrudan aktarım
 
-    > **Açıklama:** Tmamlandı.
-    > Anlatılmak istenen şeyi en açık ve en az kelime ile ifade etme anlamındaki yönteme "kelime ekonomisi" denir.
+    > **Açıklama:** Tmamlandı.<br />Anlatılmak istenen şeyi en açık ve en az kelime ile ifade etme anlamındaki yönteme "kelime ekonomisi" denir.
 
     <hr />
 1. Daha çok psikoloji, eğitim ve diğer sosyal bilimlerdeki bilimsel yazıların hazırlanmasında tercih edilen bir yazım stili aşağıdakilerden hangisidir?
@@ -7927,9 +7403,7 @@
     - D-) ASA: Amerikan İstatistikçiler Birliği (American Statistical Association)
     - E-) APSA: Amerikan Politik Bilimler Birliği (American Political Science Association)
 
-    > **Açıklama:** Tamamlandı.
-    > Daha çok psikoloji, eğitim ve diğer sosyal bilimlerdeki bilimsel yazıların hazırlanmasında tercih edilen bir yazım stili olan APA: Amerikan Psikoloji Birliği (American Psychological Association).
-    > Doğru cevap A.
+    > **Açıklama:** Tamamlandı.<br />Daha çok psikoloji, eğitim ve diğer sosyal bilimlerdeki bilimsel yazıların hazırlanmasında tercih edilen bir yazım stili olan APA: Amerikan Psikoloji Birliği (American Psychological Association).<br />Doğru cevap A.
 
     <hr />
 1. Yazarın konusuyla ilgili herhangi bir cümleyi/ paragrafı/fikri kaynakta yer aldığı şekliyle hiçbir müdahalede bulunmadan tırnak içinde alıntılama yapmasına ne ad verilir?
@@ -7939,9 +7413,7 @@
     - D-) Dipnot
     - E-) Analiz
 
-    > **Açıklama:** TAMAMLANDI.
-    > Yazarın konusuyla ilgili herhangi bir cümleyi/ paragrafı/fikri kaynakta yer aldığı şekliyle hiçbir müdahalede bulunmadan tırnak içinde alıntılama yapmasına doğrudan aktarım denir.
-    > Doğru cevap B.
+    > **Açıklama:** TAMAMLANDI.<br />Yazarın konusuyla ilgili herhangi bir cümleyi/ paragrafı/fikri kaynakta yer aldığı şekliyle hiçbir müdahalede bulunmadan tırnak içinde alıntılama yapmasına doğrudan aktarım denir.<br />Doğru cevap B.
 
     <hr />
 1. Daha çok edebiyat, tarih, felsefe, modern ve klasik diller gibi beşeri bilimler dallarında kullanılan kaynak gösterme stili aşağıdakilerden hangisidir?
@@ -7951,9 +7423,7 @@
     - D-) APSA: Amerikan Politik Bilimler Birliği (American Political Science Association)
     - **Cevap E-) MLA: Modern Dil Birliği (Modern Language Association)**
 
-    > **Açıklama:** Tamamlandı.
-    > MLA (Modern Dil Birliği-Modern Language Association) ise, metin içinde yazar ve sayfa numarası bilgisini önermektedir. Bu stil daha çok edebiyat, tarih, felsefe, modern ve klasik diller gibi beşeri bilimler dallarında kullanılır.
-    > Doğru cevap E.
+    > **Açıklama:** Tamamlandı.<br />MLA (Modern Dil Birliği-Modern Language Association) ise, metin içinde yazar ve sayfa numarası bilgisini önermektedir. Bu stil daha çok edebiyat, tarih, felsefe, modern ve klasik diller gibi beşeri bilimler dallarında kullanılır.<br />Doğru cevap E.
 
     <hr />
 1. Aşağıdakilerden hangisi editörlü çeviri bir kitabın kullanıldığı kaynakçada **yer almaz?**
@@ -7963,9 +7433,7 @@
     - D-) Yayınevinin adı
     - **Cevap E-) Yayın günü, ayı ve yılı**
 
-    > **Açıklama:** Tamamlandı.
-    > Bir eseri yayıma hazırlayan, derleyen, çeviren ya da esere editörlük yapanların kaynakçada mutlaka vurgulanması gerekir. Çeviri bir eserin orijinal yazarı, yazar ad ve soyadı bilgileri içerisinde yer alırken, eseri çeviren kişi, eserin adı belirtildikten sonra çev. ibaresi ile yer almalıdır. Eser editörlüğü ya da derlemesi ed. haz. ya da der. ibareleri ile belirtilmelidir. Kaynak gösterirken eserin bu konudaki niteliğini vurgulamak önemlidir.
-    > Doğru cevap E.
+    > **Açıklama:** Tamamlandı.<br />Bir eseri yayıma hazırlayan, derleyen, çeviren ya da esere editörlük yapanların kaynakçada mutlaka vurgulanması gerekir. Çeviri bir eserin orijinal yazarı, yazar ad ve soyadı bilgileri içerisinde yer alırken, eseri çeviren kişi, eserin adı belirtildikten sonra çev. ibaresi ile yer almalıdır. Eser editörlüğü ya da derlemesi ed. haz. ya da der. ibareleri ile belirtilmelidir. Kaynak gösterirken eserin bu konudaki niteliğini vurgulamak önemlidir.<br />Doğru cevap E.
 
     <hr />
 1. Aşağıdakilerden hangisi dilekçelerin yazımında uyulması gereken noktalardan biri **değildir?**
@@ -7975,26 +7443,7 @@
     - D-) Tarihin altında imza ve imzanın altında da ad ve soyad olmalıdır.
     - E-) Genelde çizgisiz dosya kâğıdına yazılır.
 
-    > **Açıklama:** Tamamlandı.
-    > Resmî ya da özel kuruluşlara, gerçek ya da tüzel kişilere yazılan, bir dileği, isteği,
-    > ihbar ve şikayeti bildirmek üzere veya herhangi bir konuda bilgi sormak amacıyla
-    > yazılan resmî mektup türlerinden en yaygını dilekçedir. Dilekçelerin yazımında
-    > uyulması gereken noktalar şöyledir:
-    > 1\. Dilekçe kağıdının üst kenarından bir miktar boşluk bırakıldıktan sonra isteğin
-    > iletildiği makam adı yazılır ve alt satıra geçilerek makamın bulunduğu
-    > yer adı yazılır.
-    > 2\. Metin bölümü birkaç maddeden oluşmuyorsa paragraf başı kadar boşluk
-    > bırakılarak yazıya başlanır. Dilek, hiçbir yanlış anlamaya yer vermeyecek,
-    > açık ve anlaşılır bir ifade ile bildirilir. Anlatılmak istenen her şey kısa ve öz
-    > biçimde yazılmalıdır.
-    > 3\. Dilekçenin metin bölümü “arz ederim” ifadesiyle sonlandırılmalıdır.
-    > 4\. Metin bölümünün sonuna sağ alta tarih yazılır. Tarihin altına imza atılır.
-    > İmzanın altına da ad ve soyad yazılır.
-    > 5\. İmza bölümünden sonra kâğıdın sol alt tarafına adres ve iletişim bilgileri
-    > yazılır.
-    > 6\. Dilekçede ek belge varsa kağıdın sol alt tarafına adres ve iletişim bilgilerinin altına sıralanır.
-    > Eskiden arzuhal ya da istida diye de adlandırılan bu tür, çoğunlukla çizgisiz dosya kâğıdına yazılır.
-    > Doğru cevap C.
+    > **Açıklama:** Tamamlandı.<br />Resmî ya da özel kuruluşlara, gerçek ya da tüzel kişilere yazılan, bir dileği, isteği,<br />ihbar ve şikayeti bildirmek üzere veya herhangi bir konuda bilgi sormak amacıyla<br />yazılan resmî mektup türlerinden en yaygını dilekçedir. Dilekçelerin yazımında<br />uyulması gereken noktalar şöyledir:<br />1\. Dilekçe kağıdının üst kenarından bir miktar boşluk bırakıldıktan sonra isteğin<br />iletildiği makam adı yazılır ve alt satıra geçilerek makamın bulunduğu<br />yer adı yazılır.<br />2\. Metin bölümü birkaç maddeden oluşmuyorsa paragraf başı kadar boşluk<br />bırakılarak yazıya başlanır. Dilek, hiçbir yanlış anlamaya yer vermeyecek,<br />açık ve anlaşılır bir ifade ile bildirilir. Anlatılmak istenen her şey kısa ve öz<br />biçimde yazılmalıdır.<br />3\. Dilekçenin metin bölümü “arz ederim” ifadesiyle sonlandırılmalıdır.<br />4\. Metin bölümünün sonuna sağ alta tarih yazılır. Tarihin altına imza atılır.<br />İmzanın altına da ad ve soyad yazılır.<br />5\. İmza bölümünden sonra kâğıdın sol alt tarafına adres ve iletişim bilgileri<br />yazılır.<br />6\. Dilekçede ek belge varsa kağıdın sol alt tarafına adres ve iletişim bilgilerinin altına sıralanır.<br />Eskiden arzuhal ya da istida diye de adlandırılan bu tür, çoğunlukla çizgisiz dosya kâğıdına yazılır.<br />Doğru cevap C.
 
     <hr />
 1. Bir konu ya da olayın incelenmesi sonucunda elde edilen veriler ışığında ortaya çıkan görüşlerin sunulduğu yazı türü aşağıdakilerden hangisidir?
@@ -8004,9 +7453,7 @@
     - **Cevap D-) Rapor**
     - E-) Mektup
 
-    > **Açıklama:** Tamamlandı.
-    > Bir konu ya da olayın incelenmesi sonucunda elde edilen veriler ışığında ortaya çıkan görüşlerin sunulduğu yazı türüne rapor denir.
-    > Doğru cevap D.
+    > **Açıklama:** Tamamlandı.<br />Bir konu ya da olayın incelenmesi sonucunda elde edilen veriler ışığında ortaya çıkan görüşlerin sunulduğu yazı türüne rapor denir.<br />Doğru cevap D.
 
     <hr />
 1. Resmi mektubun dilekçeden farkı aşağıdakilerden hangisidir?
@@ -8016,16 +7463,7 @@
     - D-) Resmi mektubu bir kişinin hazırlaması
     - E-) Dilekçenin tüzel kişilere yazılıyor olması
 
-    > **Açıklama:** TAMAMLANDI
-    > Resmî dairelerin ve tüzel kişilik taşıyan kuruluşların birbirlerine yazdıkları resmî
-    > yazılarla, bunların vatandaşların başvurularına verdikleri yazılı cevaplara denir.
-    > Resmî mektuplar ve iş mektupları biçim ve içerik açısından bakıldığında dilekçe
-    > yazımı ile benzerlik göstermektedir. Dilekçeden farkı, bu tür mektuplarda tarihle
-    > birlikte mektubun sıra numarası ve konusunun belirtilmesidir. Cevap niteliğinde
-    > olan resmî mektuplarda ilgi hanesine cevabı olduğu mektubun sayı ve tarihi, konu
-    > başlığına da kısaca maksat yazılır. Bundan sonra iki ya da üç satır aralığı bırakılarak
-    > mektup yazılır.
-    > Doğru cevap A.
+    > **Açıklama:** TAMAMLANDI<br />Resmî dairelerin ve tüzel kişilik taşıyan kuruluşların birbirlerine yazdıkları resmî<br />yazılarla, bunların vatandaşların başvurularına verdikleri yazılı cevaplara denir.<br />Resmî mektuplar ve iş mektupları biçim ve içerik açısından bakıldığında dilekçe<br />yazımı ile benzerlik göstermektedir. Dilekçeden farkı, bu tür mektuplarda tarihle<br />birlikte mektubun sıra numarası ve konusunun belirtilmesidir. Cevap niteliğinde<br />olan resmî mektuplarda ilgi hanesine cevabı olduğu mektubun sayı ve tarihi, konu<br />başlığına da kısaca maksat yazılır. Bundan sonra iki ya da üç satır aralığı bırakılarak<br />mektup yazılır.<br />Doğru cevap A.
 
     <hr />
 1. Araştırma konusu seçiminde dikkat edilen unsurlar arasında aşağıdakilerden hangisi yer almaz?
@@ -8035,8 +7473,7 @@
     - **Cevap D-) Maliyetinin yüksek olması**
     - E-) Araştırmacının bilgi düzeyi
 
-    > **Açıklama:** Bilimsel Araştırma Süreci
-    > Maliyetinin yüksek olması
+    > **Açıklama:** Bilimsel Araştırma Süreci<br />Maliyetinin yüksek olması
 
     <hr />
 1. "Araştırılmak üzere belirlenen soruna verilen bir ön yanıt" olarak tanımlanan kavram aşağıdakilerden hangisidir?
@@ -8046,8 +7483,7 @@
     - D-) Kuram
     - **Cevap E-) Hipotez**
 
-    > **Açıklama:** Bilimsel Araştırma Süreci
-    > Hipotez
+    > **Açıklama:** Bilimsel Araştırma Süreci<br />Hipotez
 
     <hr />
 1. "Turistlerin memnuniyet düzeyi" üzerine yapılan bir çalışmada araştırma konusu belirlendikten sonra izlenecek adım aşağıdakilerden hangisidir?
@@ -8057,8 +7493,7 @@
     - D-) Veri analizi
     - E-) Sonuçların raporlanması
 
-    > **Açıklama:** Bilimsel araştırma süreci
-    > Kaynak taraması
+    > **Açıklama:** Bilimsel araştırma süreci<br />Kaynak taraması
 
     <hr />
 1. "Çalışmanın ........... bölümünde yazar, giriş bölümünde ulaşmayı hedeflediği sonucun gerçekleşip gerçekleşmediğini ortaya koyarak konu ile ilgili kendi yorumlarını içeren ifadelere yer verir" Yukarıdaki cümlede boş bırakılan yere uygun gelen bölüm aşağıdakilerden hangisidir?
@@ -8068,8 +7503,7 @@
     - D-) Yöntem
     - E-) Bulgular
 
-    > **Açıklama:** Bilimsel Yazının İçeriği
-    > Sonuç
+    > **Açıklama:** Bilimsel Yazının İçeriği<br />Sonuç
 
     <hr />
 1. Bir konu ya da olayın incelenmesi sonucunda elde edilen veriler ışığında ortaya çıkan görüşlerin sunulduğu yazı türü aşağıdakilerden hangisidir?
@@ -8079,8 +7513,7 @@
     - D-) Dilekçe
     - E-) İş mektubu
 
-    > **Açıklama:** YAZIŞMA TÜRLERİ
-    > Rapor
+    > **Açıklama:** YAZIŞMA TÜRLERİ<br />Rapor
 
     <hr />
 1. Resmî bir yazı niteliği taşıyan ve taraflar arasında bağlayıcılık niteliği taşıyan yazışma türü aşağıdakilerden hangisidir?
@@ -8090,8 +7523,7 @@
     - D-) Makale
     - E-) Dilekçe
 
-    > **Açıklama:** YAZIŞMA TÜRLERİ
-    > Karar
+    > **Açıklama:** YAZIŞMA TÜRLERİ<br />Karar
 
     <hr />
 1. Herhangi bir düşüncenin, görüşün açıklanması veya bir tezin savunulması ve halka duyurulması için yazılan ve gazete veya dergi aracılığıyla yayımlanan mektuplar aşağıdakilerden hangisi ile tanımlanmaktadır?
@@ -8101,8 +7533,7 @@
     - **Cevap D-) Açık mektup**
     - E-) Yasal mektup
 
-    > **Açıklama:** Özel Yazışmalar
-    > Açık mektup
+    > **Açıklama:** Özel Yazışmalar<br />Açık mektup
 
     <hr />
 1. Aşağıdakilerden hangisi özel yazışma türlerinden biri değildir?
@@ -8112,8 +7543,7 @@
     - D-) Resmi mektup
     - E-) Mektup
 
-    > **Açıklama:** Özel Yazışmalar
-    > Dilekçe
+    > **Açıklama:** Özel Yazışmalar<br />Dilekçe
 
     <hr />
 1. ........... mektupların sanatsal yönü daha ağır basmakta ve genellikle sonraki yıllarda edebiyat araştırmacıları tarafından yayımlanmaktadır.<br />Yukarıda boş bırakılan yere uygun gelen ifade aşağıdakilerden hangisidir?
@@ -8123,8 +7553,7 @@
     - D-) İş mektubu
     - **Cevap E-) Edebi mektup**
 
-    > **Açıklama:** Özel yazışmalar
-    > Edebi mektup
+    > **Açıklama:** Özel yazışmalar<br />Edebi mektup
 
     <hr />
 1. Metin içinde yazar ve tarih bilgisini veren ve daha çok, ekonomi, işletme, eğitim, sosyoloji, psikoloji, antropoloji, siyaset bilimi ve biyoloji alanlarında tercih edilen stil aşağıdakilerden hangisidir?
@@ -8134,8 +7563,7 @@
     - D-) MLA
     - E-) DLC
 
-    > **Açıklama:** Paragraf İçi Kaynak Gösterme Yöntemi
-    > APA
+    > **Açıklama:** Paragraf İçi Kaynak Gösterme Yöntemi<br />APA
 
     <hr />
 1. Aşağıdakilerden hangisi, bilimsel yazma sürecindeki aşamalardan biri **değildir**?
@@ -8145,8 +7573,7 @@
     - **Cevap D-) Yazılı anlatımda öznelliği korumak.**
     - E-) Yönlendirmeden uzak durmak.
 
-    > **Açıklama:** Bilimsel Araştırma Süreci, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 2
+    > **Açıklama:** Bilimsel Araştırma Süreci, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 2
 
     <hr />
 1. Her bilimsel araştırma, bir tez ortaya koymalıdır. Tez, araştırılmak için belirlenen soruna verilen bir ön yanıt ya da ona karşı önerilen ilk çözüm niteliğindedir. Çalışmanın ilk aşamalarında öne sürülen tez, kesin bir görüş değil, bir tür geçici çözümdür. Araştırma derinleştirildikçe edinilen yeni bilgilerin ışığında, tezin değiştirilmesi ya da araştırmanın sonuçlarına uyacak biçimde geliştirilmesi gerekebilir.<br />Aşağıdakilerden hangisi, tutarlı bir tez ortaya konulması sürecinde geçilmesi gereken aşamalardan biri **değildir?**
@@ -8156,8 +7583,7 @@
     - **Cevap D-) Kaynak taramasını konunun tek bir yönüyle sınırlamak.**
     - E-) Tez cümlesini ilgi çekici yazmak.
 
-    > **Açıklama:** Bilimsel Araştırma Süreci, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 2
+    > **Açıklama:** Bilimsel Araştırma Süreci, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 2
 
     <hr />
 1. Aşağıdakilerden hangisi, bilimsel yazının diliyle anlatımına ilişkin geçerli bir bilgidir?
@@ -8167,8 +7593,7 @@
     - D-) Birinci tekil anlatımla etkin anlatıma yer verilmelidir.
     - E-) Fiil kullanılmadan uzun cümleler kurulmalıdır.
 
-    > **Açıklama:** Bilimsel Araştırmada Dil ve Anlatım, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 2
+    > **Açıklama:** Bilimsel Araştırmada Dil ve Anlatım, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 2
 
     <hr />
 1. Bilimsel çalışmalarda, konuyla ilgili yararlanılan kaynaklara göndermede bulunmak, özen gösterilmesi gereken en önemli konudur. Bilim etiği, çalışmanın doğruluğuyla inanılırlığı açısından, başkalarının görüşlerinin alındıkları kaynağın gösterilmesini gerektirir.<br />Aşağıdakilerden hangisi, bilimsel çalışmalarda kaynak gösterimine ilişkin geçerli bir bilgidir?
@@ -8178,8 +7603,7 @@
     - D-) Paragraf içinde kaynak gösterimi yaygın bir kullanım değildir.
     - E-) Kaynaklar, yayınevlerine göre alfabetik düzende verilirler.
 
-    > **Açıklama:** Kaynak Gösterme, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 3
+    > **Açıklama:** Kaynak Gösterme, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 3
 
     <hr />
 1. Resmî ya da özel kuruluşlara, gerçek ya da tüzel kişilere bir dileği, durumu, yakınmayı bildirmek ya da bu kaynaklardan herhangi bir konuda bilgi edinmek için yazılan resmî mektup türlerinden en yaygını **dilekçe**dir.<br />Aşağıdakilerden hangisi dilekçede bulunması gereken bölümlerden biri değildir?
@@ -8189,8 +7613,7 @@
     - D-) Tarih
     - E-) İmza
 
-    > **Açıklama:** Dilekçe, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 4
+    > **Açıklama:** Dilekçe, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 4
 
     <hr />
 1. Aşağıdakilerden hangileri bir araştırmada olması gereken özelliklerdendir?<br />1\. Konunun sınırlandırılması<br />2\. Konuyla ilgili bir tezin olması<br />3\. İlgili kaynakların taranması<br />4\. Çözüm önerisinin olması
@@ -8230,8 +7653,7 @@
     - D-) Okuyucuya diğer kaynaklardaki görüşleri göz önünde bulundurduğunu göstermek
     - E-) Okuyucuya yararlandığı kaynakları tanıtarak kaynakların yazarlarına kredi vermek
 
-    > **Açıklama:** Karasar (2004:53) bilimsel bir çalışmada kaynak göstermenin gerekliliğini şöyle belirtir:
-    > "Yararlanılan kaynakların yazarlarına kredi vererek, ahlaki ve yasal kurallara uymak; okuyucuya alıntıların asıl kaynağa uygunluğunu denetleme imkanı vermek; araştırmada ileri sürülen görüş̧ ve olguları, varsa destekleyen ve desteklemeyen görüş̧ ve olguların varlığını belirterek, araştırmacının, bunları göz önüne aldığını kanıtlamak ve okuyucuya aynı konuda, yararlanabileceği öteki önemli kaynakları tanıtmaktır."
+    > **Açıklama:** Karasar (2004:53) bilimsel bir çalışmada kaynak göstermenin gerekliliğini şöyle belirtir:<br />"Yararlanılan kaynakların yazarlarına kredi vererek, ahlaki ve yasal kurallara uymak; okuyucuya alıntıların asıl kaynağa uygunluğunu denetleme imkanı vermek; araştırmada ileri sürülen görüş̧ ve olguları, varsa destekleyen ve desteklemeyen görüş̧ ve olguların varlığını belirterek, araştırmacının, bunları göz önüne aldığını kanıtlamak ve okuyucuya aynı konuda, yararlanabileceği öteki önemli kaynakları tanıtmaktır."
 
     <hr />
 1. Aşağıdakilerden hangisi dipnotta doğru kaynak gösterme yöntemidir?
@@ -8321,8 +7743,7 @@
     - D-) MLA: Modern Dil Birliği
     - E-) AMA: Amerikan Tıp Birliği
 
-    > **Açıklama:** Psikoloji ile birlikte eğitim ve diğer sosyal bilimlerdeki bilimsel yazıların hazırlanmasında tercih edilen yazım stili APA: Amerikan
-    > Psikoloji Birliği (American Psychological Association) yazım stilidir. Doğru cevap C seçeneğidir.
+    > **Açıklama:** Psikoloji ile birlikte eğitim ve diğer sosyal bilimlerdeki bilimsel yazıların hazırlanmasında tercih edilen yazım stili APA: Amerikan<br />Psikoloji Birliği (American Psychological Association) yazım stilidir. Doğru cevap C seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi bilimsel araştırmalarda olması gereken dil ve anlatım özelliklerinden biri **değildir?**
@@ -8453,8 +7874,7 @@
     - D-) Okuma hızını ayarlama
     - E-) Not alma
 
-    > **Açıklama:** Okuma amacını belirleme okuma öncesinde uygulanan bir stratejdir.
-    > Okuma öncesinde belirlenen amaçlar doğrultusunda metnin okunması, değerlendirilmesi ve anlama düzeyinin kontrol edilmesidir. Bu amaçla not alma, okuma hızını ayarlama, önemli bilgiyi işaretleme, sözlük vb. başvuru kaynaklarını kullanma, okuma sırasında geri dönüşlerde bulunma, metne yoğunlaşma, sesli okuma, bağlama yönelik ipuçları kullanma, bilginin kalıcılığını sağlamak amacıyla şemalaştırma, resimleştirme, noktalama işaretlerine, yazım kurallarına dikkat etme, önce okunanları kontrol etme, anlamı bilinmeyen kelimeleri metinden yola çıkarak tahmin etme ya da ek-köke dayalı olarak anlamı kestirme gibi stratejiler okuma eylemi devam ederken kullanılabilir (Birincioğlu, 2006; Karatay, 2007).
+    > **Açıklama:** Okuma amacını belirleme okuma öncesinde uygulanan bir stratejdir.<br />Okuma öncesinde belirlenen amaçlar doğrultusunda metnin okunması, değerlendirilmesi ve anlama düzeyinin kontrol edilmesidir. Bu amaçla not alma, okuma hızını ayarlama, önemli bilgiyi işaretleme, sözlük vb. başvuru kaynaklarını kullanma, okuma sırasında geri dönüşlerde bulunma, metne yoğunlaşma, sesli okuma, bağlama yönelik ipuçları kullanma, bilginin kalıcılığını sağlamak amacıyla şemalaştırma, resimleştirme, noktalama işaretlerine, yazım kurallarına dikkat etme, önce okunanları kontrol etme, anlamı bilinmeyen kelimeleri metinden yola çıkarak tahmin etme ya da ek-köke dayalı olarak anlamı kestirme gibi stratejiler okuma eylemi devam ederken kullanılabilir (Birincioğlu, 2006; Karatay, 2007).
 
     <hr />
 1. Aşağıdakilerden hangisinde eleştirel düşünme sürecinin içerdiği beceriler tam olarak verilmiştir?
@@ -8494,8 +7914,7 @@
     - D-) İkisinde de anlamanın gerçekleşmesi dilsel bir gereksinime ihtiyaç vardır.
     - **Cevap E-) İkisinde de geri bildirim yöntemi aynıdır.**
 
-    > **Açıklama:** Okumada geri bildirim için metne yönelmek, tekrar tekrar okumak, metinde atlamalar yapıp ileri-geri dönmek gibi yöntemler mümkünken, **özellikle** **canlı bir dinleme sırasında** kaynaktan gelen iletiyi sürekli tekrar et(tir)mek veya durdurmak ya da ileri-geri gitmek mümkün olmayabilir.
-    > Okuma/dinleme öncesi, sırası ve sonrasındaki davranışlar her ikisi için de anlama sürecini etkilemektedir. Her ikisinde de anlamanın gerçekleşip gerçekleşmediği, anlama sürecinin aksadığı yönler alınan geri bildirimler sayesinde anlaşılabilir. İlgi ve istekler de yine her iki bileşen açısından anlama sürecini etkileyen ortak birer faktör olarak ifade edilebilir.
+    > **Açıklama:** Okumada geri bildirim için metne yönelmek, tekrar tekrar okumak, metinde atlamalar yapıp ileri-geri dönmek gibi yöntemler mümkünken, **özellikle** **canlı bir dinleme sırasında** kaynaktan gelen iletiyi sürekli tekrar et(tir)mek veya durdurmak ya da ileri-geri gitmek mümkün olmayabilir.<br />Okuma/dinleme öncesi, sırası ve sonrasındaki davranışlar her ikisi için de anlama sürecini etkilemektedir. Her ikisinde de anlamanın gerçekleşip gerçekleşmediği, anlama sürecinin aksadığı yönler alınan geri bildirimler sayesinde anlaşılabilir. İlgi ve istekler de yine her iki bileşen açısından anlama sürecini etkileyen ortak birer faktör olarak ifade edilebilir.
 
     <hr />
 1. Aşağıdakilerden hangisi okuma sürecinde dikkat edilmesi gereken okumanın beş temel ilkesinden biri değildir?
@@ -8555,15 +7974,7 @@
     - D-) Akıl yürütme
     - **Cevap E-) İçselleştirme**
 
-    > **Açıklama:** Eleştirel düşünme sürecinin içerdiği beceriler şunlardır (Henderson, 1973):
-    > • Tanımlama
-    > • Hipotez (Denence) kurma
-    > • Bilgi toplama
-    > • Yorumlama ve genelleme
-    > • Akıl yürütme
-    > • Değerlendirme
-    > • Uygulama
-    > Doğru yanıt E'dir.
+    > **Açıklama:** Eleştirel düşünme sürecinin içerdiği beceriler şunlardır (Henderson, 1973):<br />• Tanımlama<br />• Hipotez (Denence) kurma<br />• Bilgi toplama<br />• Yorumlama ve genelleme<br />• Akıl yürütme<br />• Değerlendirme<br />• Uygulama<br />Doğru yanıt E'dir.
 
     <hr />
 1. Aşağıdakilerden hangisi dinleme sürecini etkileyen alıcı temelli faktörlerden biridir?
@@ -8623,17 +8034,7 @@
     - D-) Yeniden yapılandırma
     - E-) Anlamı kavramı
 
-    > **Açıklama:** Okuduğunu anlayabilmenin başlıca şartları şunlardır (Moffet ve Wagler, 1976,
-    > 127-129):
-    > Yoğun dikkat: Metinde birbirini izleyen kelimelerin anlamlarına yoğunlaşma
-    > konusunda dikkat yeteneğini geliştirebilmek için değişik etkinlikler gerçekleştirilebilir. Karşılıklı tartışmalar, metni oyunlaştırma, canlandırma ve metinle ilgili
-    > hazırlıksız konuşmalar bu etkinlikler arasında yer almaktadır.
-    > Yeniden yapılandırma: Metinden elde edilen bilgilerle, metnin konusuyla ilgili önceden sahip olunan bilgilerin ilişkilendirilmesi ve zihinde yapılandırılmasıdır. Bilginin yeniden yapılandırılması, dikkat ve bilgiyi yeniden elde etmek için
-    > harcanan çabayla yakından ilişkilidir.
-    > Zihinde canlandırma: Düşünmenin gerçekleşmesi doğrudan okumaya yoğunlaşmak, okunanların anlamları üzerinde düşünmek ve bunları zihinde canlandırmakla ilişkilidir.
-    > Çıkarımlarda bulunma: Çıkarımda bulunma metindeki sebep-sonuç ilişkilerinin, durumlar, olaylar vb. arasındaki kıyaslama ve ilişkilerin belirlenmesini
-    > gerektirmektedir.
-    > Anlamı kavrama: Karmaşık zihinsel etkinliklerin yer aldığı bu aşamada ipuçları ve kullanılan kelimeler büyük önem taşımaktadır.
+    > **Açıklama:** Okuduğunu anlayabilmenin başlıca şartları şunlardır (Moffet ve Wagler, 1976,<br />127-129):<br />Yoğun dikkat: Metinde birbirini izleyen kelimelerin anlamlarına yoğunlaşma<br />konusunda dikkat yeteneğini geliştirebilmek için değişik etkinlikler gerçekleştirilebilir. Karşılıklı tartışmalar, metni oyunlaştırma, canlandırma ve metinle ilgili<br />hazırlıksız konuşmalar bu etkinlikler arasında yer almaktadır.<br />Yeniden yapılandırma: Metinden elde edilen bilgilerle, metnin konusuyla ilgili önceden sahip olunan bilgilerin ilişkilendirilmesi ve zihinde yapılandırılmasıdır. Bilginin yeniden yapılandırılması, dikkat ve bilgiyi yeniden elde etmek için<br />harcanan çabayla yakından ilişkilidir.<br />Zihinde canlandırma: Düşünmenin gerçekleşmesi doğrudan okumaya yoğunlaşmak, okunanların anlamları üzerinde düşünmek ve bunları zihinde canlandırmakla ilişkilidir.<br />Çıkarımlarda bulunma: Çıkarımda bulunma metindeki sebep-sonuç ilişkilerinin, durumlar, olaylar vb. arasındaki kıyaslama ve ilişkilerin belirlenmesini<br />gerektirmektedir.<br />Anlamı kavrama: Karmaşık zihinsel etkinliklerin yer aldığı bu aşamada ipuçları ve kullanılan kelimeler büyük önem taşımaktadır.
 
     <hr />
 1. Aşağıdakilerden hangisi eleştirel düşünmenin temelinde yatan unsurlardan biri değildir?
@@ -8683,8 +8084,7 @@
     - **Cevap D-) Çıkarım ve yargıda bulunmayı kolaylaştırmak**
     - E-) Metinde yer alan bilgilerle önceden sahip olunan bilgileri birleştirmek
 
-    > **Açıklama:** Okuma sırasında kullanılan stratejilerin amaçları; yönlendirme ve sorular yoluyla metinle etkileşimi sağlamak, metnin yapı ve mantıksal sırasını kavramak, metnin bağlamını açıklamak, anlamak, çıkarım ve yargıda bulunmayı kolaylaştırmak, anlamı bilinmeyen kelimelerin anlamlarının bağlamdan çıkarılabilmesi için ipuçları bulmak, paragraf ve metnin ana düşüncesini çıkarmada kolaylık sağlamak, metin içinde özel bir bilgiyi aramak, metni okumaya başlamadan önce verilen soruların cevaplarını bulmak, metinle ilgili olarak verilen şekilleri ya da haritaları tamamlamak, metinde
-    > verilen mesajla ilgili not almak şeklinde özetlenebilir.
+    > **Açıklama:** Okuma sırasında kullanılan stratejilerin amaçları; yönlendirme ve sorular yoluyla metinle etkileşimi sağlamak, metnin yapı ve mantıksal sırasını kavramak, metnin bağlamını açıklamak, anlamak, çıkarım ve yargıda bulunmayı kolaylaştırmak, anlamı bilinmeyen kelimelerin anlamlarının bağlamdan çıkarılabilmesi için ipuçları bulmak, paragraf ve metnin ana düşüncesini çıkarmada kolaylık sağlamak, metin içinde özel bir bilgiyi aramak, metni okumaya başlamadan önce verilen soruların cevaplarını bulmak, metinle ilgili olarak verilen şekilleri ya da haritaları tamamlamak, metinde<br />verilen mesajla ilgili not almak şeklinde özetlenebilir.
 
     <hr />
 1. Aşağıdakilerden hangisi okuma sonrası kullanılan stratejilerin amaçlarından biridir?
@@ -8704,16 +8104,7 @@
     - D-) Ön yargı
     - E-) Fiziksel konfor
 
-    > **Açıklama:** Dinleme Sürecinin Etkileyen Kaynak (Konuşmacı) Temelli Faktörler:
-    > • Mesajda kullanılan sözcükler, terimler, yanlış anlaşılmaya yol açacak cümle
-    > kuruluşları, yanlış vurgu ve tonlamalar
-    > • Konuşma bozuklukları, konuşmayı etkileyen fiziksel etkenler
-    > • Konuşma hızı
-    > • Ses tonu
-    > • Jest ve mimikler
-    > • Bilgi birikimi
-    > • Konuyla ilgili yapılan hazırlık
-    > • Konunun sunuluş şekli
+    > **Açıklama:** Dinleme Sürecinin Etkileyen Kaynak (Konuşmacı) Temelli Faktörler:<br />• Mesajda kullanılan sözcükler, terimler, yanlış anlaşılmaya yol açacak cümle<br />kuruluşları, yanlış vurgu ve tonlamalar<br />• Konuşma bozuklukları, konuşmayı etkileyen fiziksel etkenler<br />• Konuşma hızı<br />• Ses tonu<br />• Jest ve mimikler<br />• Bilgi birikimi<br />• Konuyla ilgili yapılan hazırlık<br />• Konunun sunuluş şekli
 
     <hr />
 1. Aşağıdakilerden hangisi dinleme sürecini etkileyen alıcı temelli faktörlerden biridir?
@@ -8723,15 +8114,7 @@
     - D-) yanlış vurgu ve tonlamalar
     - E-) Fiziksel konfor
 
-    > **Açıklama:** Dinleme Sürecini Etkileyen Alıcı (Dinleyici)Temelli Faktörler:
-    > • Alıcının zihinsel ve fizyolojik yetileri
-    > • Dikkat
-    > • İlgi, istek
-    > • Kelime dağarcığı
-    > • Bilgi birikimi
-    > • Ön yargı
-    > • Dinleme sürecinde uygun dinleme davranışları gösterme (Dik oturma, konuşanla göz teması kurma, not tutma, soru sorma, dinlenenlere uygun geri bildirimlerde bulunma, vb.)
-    > • Dinleme hızı
+    > **Açıklama:** Dinleme Sürecini Etkileyen Alıcı (Dinleyici)Temelli Faktörler:<br />• Alıcının zihinsel ve fizyolojik yetileri<br />• Dikkat<br />• İlgi, istek<br />• Kelime dağarcığı<br />• Bilgi birikimi<br />• Ön yargı<br />• Dinleme sürecinde uygun dinleme davranışları gösterme (Dik oturma, konuşanla göz teması kurma, not tutma, soru sorma, dinlenenlere uygun geri bildirimlerde bulunma, vb.)<br />• Dinleme hızı
 
     <hr />
 1. Aşağıdakilerden hangisi okuma sürecinde dikkat edilmesi gereken okumanın beş temel ilkesinden biri **değildir**?
@@ -8891,8 +8274,7 @@
     - D-) İşaretleyerek okuma
     - E-) Özetleyerek okuma
 
-    > **Açıklama:** Okumanın temel niteliklerini sıralayabileceksiniz.
-    > Metnin sesli ya da sesiz okunmasından sonra, metinde ele alınan olay ya da düşüncelerin tartışılması esasına dayanan okumadır.
+    > **Açıklama:** Okumanın temel niteliklerini sıralayabileceksiniz.<br />Metnin sesli ya da sesiz okunmasından sonra, metinde ele alınan olay ya da düşüncelerin tartışılması esasına dayanan okumadır.
 
     <hr />
 1. 5- Aşağıdakilerden hangisi okuma sonrasında kullanılan stratejilerdendir?
@@ -8902,8 +8284,7 @@
     - D-) Anlamı bilinmeyen kelimelerin anlamlarının bağlamdan çıkarılabilmesi için ipuçları bulmak
     - E-) Konuyla ilgili ön bilgileri harekete geçirmek
 
-    > **Açıklama:** Okuduğunu anlama stratejilerini sıralayabileceksiniz.
-    > Metinle ilgili önceden yapılan tahminlerin doğru olup olmadığını kontrol etme, özetleme, metindeki düşünceler arasındaki ilişkiyi görmek için metni yeniden gözden geçirme gibi stratejiler sayılabilir
+    > **Açıklama:** Okuduğunu anlama stratejilerini sıralayabileceksiniz.<br />Metinle ilgili önceden yapılan tahminlerin doğru olup olmadığını kontrol etme, özetleme, metindeki düşünceler arasındaki ilişkiyi görmek için metni yeniden gözden geçirme gibi stratejiler sayılabilir
 
     <hr />
 1. 6- Bir kişinin duygu ve düşüncelerini anlayabilmek için kendimizi onun yerine koyarak yaptığımız dinlemeye ne denir?
@@ -8913,8 +8294,7 @@
     - D-) Sorgulayıcı dinleme
     - E-) Seçici dinleme
 
-    > **Açıklama:** Dinleme türlerini sıralayabileceksiniz.
-    > Bir kişinin duygu ve düşüncelerini anlayabilmek için kendimizi onun yerine koyarak yaptığımız dinlemedir.
+    > **Açıklama:** Dinleme türlerini sıralayabileceksiniz.<br />Bir kişinin duygu ve düşüncelerini anlayabilmek için kendimizi onun yerine koyarak yaptığımız dinlemedir.
 
     <hr />
 1. 10- Aşağıdakilerden hangisi okuduğunu anlamayı hızlandıracak çalışmalardan değildir?
@@ -8924,22 +8304,7 @@
     - D-) Metinde yer alan örnekleri dikkatle okumak ve konuyla ilişkilendirmek
     - **Cevap E-) Zengin kelime dağarcığına sahip olmak**
 
-    > **Açıklama:** Okuduğunu anlama stratejilerini sıralayabileceksiniz.
-    > Okuma sürecinde metnin daha iyi anlaşılmasını sağlayacak, okuduğunu anlamayı destekleyecek, anlama hızını arttıracak bazı çalışmalar yapılabilir. Bu çalışmalar şu şekilde sıralanabilir:
-    > • Metnin ana ve ara başlıkları arasında ilişki kurmak
-    > • Metnin paragrafları arasında ilişki kurmak, ilişkiyi kavramak
-    > • Okuma sırasında önemli görülen yerleri not almak
-    > • Metnin konusunu belirlemek
-    > • Metindeki ana ve yardımcı düşünceyi belirlemek
-    > • Metin yazarının bakış açısını, anlatım tarzını belirlemek
-    > • Metinde yer alan örnekleri dikkatle okumak ve konuyla ilişkilendirmek
-    > • Metnin konusunu önceden bilinenlerle ilişkilendirmek
-    > • Metinde ele alınan konuyu zihinde yeniden yapılandırmak, analiz ve senteze
-    > gitmek, yorumlamak
-    > • Metinde geçen anlamı bilinmeyen kelime ve terimlere bağlama uygun anlamlar yüklemek
-    > • Metinden hareketle ‘’ne, nerede, ne zaman, nasıl, neden ve kim” sorularına
-    > cevap bulmak
-    > "Zengin kelime dağarcığına sahip olmak" bunlar arasında değildir.
+    > **Açıklama:** Okuduğunu anlama stratejilerini sıralayabileceksiniz.<br />Okuma sürecinde metnin daha iyi anlaşılmasını sağlayacak, okuduğunu anlamayı destekleyecek, anlama hızını arttıracak bazı çalışmalar yapılabilir. Bu çalışmalar şu şekilde sıralanabilir:<br />• Metnin ana ve ara başlıkları arasında ilişki kurmak<br />• Metnin paragrafları arasında ilişki kurmak, ilişkiyi kavramak<br />• Okuma sırasında önemli görülen yerleri not almak<br />• Metnin konusunu belirlemek<br />• Metindeki ana ve yardımcı düşünceyi belirlemek<br />• Metin yazarının bakış açısını, anlatım tarzını belirlemek<br />• Metinde yer alan örnekleri dikkatle okumak ve konuyla ilişkilendirmek<br />• Metnin konusunu önceden bilinenlerle ilişkilendirmek<br />• Metinde ele alınan konuyu zihinde yeniden yapılandırmak, analiz ve senteze<br />gitmek, yorumlamak<br />• Metinde geçen anlamı bilinmeyen kelime ve terimlere bağlama uygun anlamlar yüklemek<br />• Metinden hareketle ‘’ne, nerede, ne zaman, nasıl, neden ve kim” sorularına<br />cevap bulmak<br />"Zengin kelime dağarcığına sahip olmak" bunlar arasında değildir.
 
     <hr />
 1. I. Algılama<br />II. Anlama<br />III. Anlatma<br />Yukarıdakilerden hangisi/hangileri temel dil becerilerini oluşturan alt bileşenlerdendir?
@@ -8949,8 +8314,7 @@
     - **Cevap D-) II ve III**
     - E-) I ve III
 
-    > **Açıklama:** Temel dil becerileri, anlama ve anlatma olmak üzere iki temel alt bileşen üzerine kurulmuştur.
-    > II ve III
+    > **Açıklama:** Temel dil becerileri, anlama ve anlatma olmak üzere iki temel alt bileşen üzerine kurulmuştur.<br />II ve III
 
     <hr />
 1. Aşağıdakilerden hangisi okuma sürecinde dikkat edilmesi gereken okumanın beş temel ilkesinden biri değildir?
@@ -8960,9 +8324,7 @@
     - D-) Okuma stratejik olarak yapılmalıdır
     - E-) Kişiler okumak için güdülenmelidir
 
-    > **Açıklama:** Okuma eğitim süresince değil yaşam boyu devam etmelidir. Okuma yaşam boyu devam eden bir
-    > etkinliktir. Günlük yaşamın bir bölümü düzenli olarak okuma etkinliğine ayrılmalıdır. Bunun bir alışkanlık haline getirilmesiyle ancak etkin ve iyi okur olmanın temelleri atılabilir.
-    > Okuma eğitim süresince devam etmelidir
+    > **Açıklama:** Okuma eğitim süresince değil yaşam boyu devam etmelidir. Okuma yaşam boyu devam eden bir<br />etkinliktir. Günlük yaşamın bir bölümü düzenli olarak okuma etkinliğine ayrılmalıdır. Bunun bir alışkanlık haline getirilmesiyle ancak etkin ve iyi okur olmanın temelleri atılabilir.<br />Okuma eğitim süresince devam etmelidir
 
     <hr />
 1. “Metinde okunan bilgilerle, metnin konusuyla ilgili önceden sahip olunan bilgilerin ilişkilendirilmesi ve zihinde kurgulandırılmasıdır.” Bu cümlede okuduğunu anlayabilmenin başlıca şartlarından hangisinin tanımı verilmiştir?
@@ -8982,8 +8344,7 @@
     - D-) II, I ve III
     - E-) III, II ve I
 
-    > **Açıklama:** Okuma kültürü sürecinin ilk basamağı görsel okuryazarlık, ikinci basamağı okuma-yazma becerisi edinme, üçüncü basamağı ise okuma alışkanlığı becerisi kazanmaktır.
-    > I, II ve III
+    > **Açıklama:** Okuma kültürü sürecinin ilk basamağı görsel okuryazarlık, ikinci basamağı okuma-yazma becerisi edinme, üçüncü basamağı ise okuma alışkanlığı becerisi kazanmaktır.<br />I, II ve III
 
     <hr />
 1. Rıza metinde önemli gördüğü yerlerin altını çizerek okumaktadır. Rızanın yaptığı okuma türü aşağıdakilerden hangisidir?
@@ -9003,8 +8364,7 @@
     - D-) Metinle ilgili tahminleri kontrol etme
     - E-) Metni yeniden gözden geçirme
 
-    > **Açıklama:** Okuma sırasında kullanılan anlama stratejilerine; not alma, okuma hızını ayarlama, önemli bilgiyi işaretleme, metne yoğunlaşma ve bağlama yönelik ipuçlarını kullanma örnek olarak gösterilebilir.
-    > Metnin bağlamına yönelik ipuçlarını kullanma
+    > **Açıklama:** Okuma sırasında kullanılan anlama stratejilerine; not alma, okuma hızını ayarlama, önemli bilgiyi işaretleme, metne yoğunlaşma ve bağlama yönelik ipuçlarını kullanma örnek olarak gösterilebilir.<br />Metnin bağlamına yönelik ipuçlarını kullanma
 
     <hr />
 1. Eleştirel okuma etkinliği ile ilgili aşağıdaki ifadelerden hangisi **yanlıştır**?
@@ -9014,9 +8374,7 @@
     - **Cevap D-) Eleştirel okumada okuyucunun ön yargıları sürece dahil edilir**
     - E-) Eleştirel okuma yazarın bakış açısını kavramak ve değerlendirmektir
 
-    > **Açıklama:** Eleştirel okuma etkenliğinde metnin konusu ön yargılardan uzak bir şekilde zihinsel süreçlerden
-    > geçirilerek yeniden yapılandırılır, sorgulanır, yorumlanır ve değerlendirilir.
-    > Eleştirel okumada okuyucunun ön yargıları sürece dahil edilir
+    > **Açıklama:** Eleştirel okuma etkenliğinde metnin konusu ön yargılardan uzak bir şekilde zihinsel süreçlerden<br />geçirilerek yeniden yapılandırılır, sorgulanır, yorumlanır ve değerlendirilir.<br />Eleştirel okumada okuyucunun ön yargıları sürece dahil edilir
 
     <hr />
 1. Dinleme sürecini etkileyen aşağıdaki faktörlerden hangisi dinleyici temelli faktörlerden birisidir?
@@ -9026,17 +8384,7 @@
     - D-) Konunun sunuluş şekli
     - E-) Jest ve mimikler
 
-    > **Açıklama:** Dinleme sürecini etkileyen alıcı (dinleyici) temelli faktörler aşağıdaki gibidir:
-    > • Alıcının zihinsel ve fizyolojik yetileri
-    > • Dikkat
-    > • İlgi, istek
-    > • Kelime dağarcığı
-    > • Bilgi birikimi
-    > • Ön yargı
-    > • Dinleme sürecinde uygun dinleme davranışları gösterme (Dik oturma, ko
-    > nuşanla göz teması kurma, not tutma, soru sorma, dinlenenlere uygun geri
-    > bildirimlerde bulunma, vb.)
-    > • Dinleme hızı
+    > **Açıklama:** Dinleme sürecini etkileyen alıcı (dinleyici) temelli faktörler aşağıdaki gibidir:<br />• Alıcının zihinsel ve fizyolojik yetileri<br />• Dikkat<br />• İlgi, istek<br />• Kelime dağarcığı<br />• Bilgi birikimi<br />• Ön yargı<br />• Dinleme sürecinde uygun dinleme davranışları gösterme (Dik oturma, ko<br />nuşanla göz teması kurma, not tutma, soru sorma, dinlenenlere uygun geri<br />bildirimlerde bulunma, vb.)<br />• Dinleme hızı
 
     <hr />
 1. Dinleyicinin dinlediklerine anlam yükledikten sonra zihninde yapılandırması, yorumlaması, analiz ve senteze gittikten sonra bunlardan yeni fikirler üretmesi şeklinde tanımlanan dinleme türü aşağıdakilerden hangisidir?
@@ -9056,12 +8404,7 @@
     - D-) II ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** Okuma-dinleme ilişkisi ile ilgili olarak;
-    > * Her ikisi de anlama becerisinin temel bileşenidir
-    > * Her ikisinde de zihnin ve beynin aktif olması gerekir
-    > * Okuma/dinleme öncesi, sırası ve sonrasındaki davranışlar her ikisi için de an
-    > lama sürecini etkilemektedir.
-    > I, II ve III
+    > **Açıklama:** Okuma-dinleme ilişkisi ile ilgili olarak;<br />* Her ikisi de anlama becerisinin temel bileşenidir<br />* Her ikisinde de zihnin ve beynin aktif olması gerekir<br />* Okuma/dinleme öncesi, sırası ve sonrasındaki davranışlar her ikisi için de an<br />lama sürecini etkilemektedir.<br />I, II ve III
 
     <hr />
 1. Aşağıdakilerden hangisi temel dil becerilerinden biridir?
@@ -9171,8 +8514,7 @@
     - **Cevap D-) Algılama**
     - E-) Yazma
 
-    > **Açıklama:** Okuma, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 1
+    > **Açıklama:** Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 1
 
     <hr />
 1. Aşağıdakilerden hangisi, okuma sürecine ilişkin geçerli bir bilgidir?
@@ -9182,8 +8524,7 @@
     - D-) Okuma becerisi, okuduğunu anlamayı sağlar.
     - E-) Kavramak, fiziksel okuma sürecidir.
 
-    > **Açıklama:** Okuma, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 1
+    > **Açıklama:** Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 1
 
     <hr />
 1. Aşağıdakilerden hangisi, okumanın ilkeleri arasında değildir?
@@ -9193,8 +8534,7 @@
     - **Cevap D-) Okuma, günlük yaşamın dışındadır.**
     - E-) Okuma, konuşurcasına akıcı ilerler.
 
-    > **Açıklama:** Okuma, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 1
+    > **Açıklama:** Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 1
 
     <hr />
 1. Aşağıdakilerden hangisi, okuduğunu anlamaya ilişkin geçerli bir bilgidir?
@@ -9204,8 +8544,7 @@
     - D-) Sözcük dağarcığının genişliği, okuduğunu anlamayı yavaşlatır.
     - E-) Okuduğunu anlama, tek bir metnin ana düşüncesiyle sınırlıdır.
 
-    > **Açıklama:** Okuduğunu Anlama, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 2
+    > **Açıklama:** Okuduğunu Anlama, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 2
 
     <hr />
 1. Aşağıdakilerden hangisi, okuma alışkanlığına ilişkin geçerli bir bilgi değildir?
@@ -9215,8 +8554,7 @@
     - D-) Düşünsel gelişimin yolunu açar.
     - E-) Düzeyli ilişkilerin kurulmasında etkilidir.
 
-    > **Açıklama:** Okuma Alışkanlığı, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 3
+    > **Açıklama:** Okuma Alışkanlığı, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 3
 
     <hr />
 1. Eleştirel okuma, eleştirel düşünme süreciyle birlikte ilerler. Cüceloğlu’na göre, “Kendi düşünce süreçlerimizin bilincinde olarak, başkalarının düşünce süreçlerini göz önünde tutarak, öğrendiklerimizi uygulayarak kendimizi ve çevremizde yer alan olayları anlayabilmeyi amaç edinen aktif ve organize bir zihinsel sürece *eleştirel düşünme*” denir.<br />Aşağıdakilerden hangisi, eleştirel düşünmeye ilişkin geçerli bir bilgidir?
@@ -9226,8 +8564,7 @@
     - **Cevap D-) Edinilen bilgileri eyleme dönüştürür.**
     - E-) Öznel bilgilerden yanadır.
 
-    > **Açıklama:** Eleştirel Okuma, başlığı altındaki bilgileri gözden geçiriniz.
-    > Amaç 5
+    > **Açıklama:** Eleştirel Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br />Amaç 5
 
     <hr />
 1. Aşağıdakilerden hangileri okurun bir metni daha iyi anlamasına yardımcı olacak çalışmalardır?<br />1\. ana ve yardımcı düşüncelerini belirlemek<br />2\. konusunu önceden bilinenlerle ilişkilendirmek<br />3\. yazarının bakış açısını belirlemek<br />4\. yazarının hayatı ile ilgili ön bilgiye sahip olmak<br />5\. paragraflar arasındaki ilişkiyi kavramak
@@ -9498,8 +8835,7 @@
     - **Cevap D-) I-II-III-IV**
     - E-) II-III-IV
 
-    > **Açıklama:** Doğru, güzel, iyi bir sesin sahip olması gereken temel fiziksel özellikler şöyle sıralanabilir:
-    > • İşitilebilirlik: Konuşmanın sıklığı, tonu, yeğinliği ve tınısı dinleyicinin rahatça işitebileceği nitelikte olmalıdır. Konuşmacıyı sağlıklı bir şekilde işitemeyen dinleyici, dikkatini konuşmanın içeriğine yoğunlaştıramayabilir, sinirlenebilir; dolayısıyla iletişim sorunları yaşanabilir. • Esneklik: Esneklik, ses hacminin değişikliğe bağlı olan ses tonunu ya da perde değişikliğini ifade eder. Konuşmayı aynı tonda, tekdüze olmaktan çıkaran unsurlardan biri, ses hacminin ve perdelerinin karışık olarak kullanılmasıdır (Vural, 2003: 99). Konuşma sırasında kişi, ses aralığını bilmeli ve sesinin pesliğini, tizliğini, tonunu bu ses aralığına göre ayarlamalıdır. • Akıcılık: Konuşma sırasında sesin boğumlanarak sözcüklere dönüştürülmesi ve boğumlanma hızı, iletilmek istenen mesajın hedefe en doğru şekilde ulaşması için iyi ayarlanmalıdır. Konuşmada akıcılığın sağlanması,ayrıca sözcüklerin art arda sesletim hızı ve uyumlu bir şekilde bir araya getirilmesine özen gösterilmesi ile mümkündür. • Hoşagiderlik: Kişi doğru, güzel ve etkili iletişim kurabilmek için ses aralığını, perde genişliğini, tonlamayla sesine katabileceği tınıları, ifadesine katabileceği ezgiyi, sözcükleri söyleyiş hızını öncelikle tanımalı ardından da doğru şekillerde bunlardan yararlanmalıdır.
+    > **Açıklama:** Doğru, güzel, iyi bir sesin sahip olması gereken temel fiziksel özellikler şöyle sıralanabilir:<br />• İşitilebilirlik: Konuşmanın sıklığı, tonu, yeğinliği ve tınısı dinleyicinin rahatça işitebileceği nitelikte olmalıdır. Konuşmacıyı sağlıklı bir şekilde işitemeyen dinleyici, dikkatini konuşmanın içeriğine yoğunlaştıramayabilir, sinirlenebilir; dolayısıyla iletişim sorunları yaşanabilir. • Esneklik: Esneklik, ses hacminin değişikliğe bağlı olan ses tonunu ya da perde değişikliğini ifade eder. Konuşmayı aynı tonda, tekdüze olmaktan çıkaran unsurlardan biri, ses hacminin ve perdelerinin karışık olarak kullanılmasıdır (Vural, 2003: 99). Konuşma sırasında kişi, ses aralığını bilmeli ve sesinin pesliğini, tizliğini, tonunu bu ses aralığına göre ayarlamalıdır. • Akıcılık: Konuşma sırasında sesin boğumlanarak sözcüklere dönüştürülmesi ve boğumlanma hızı, iletilmek istenen mesajın hedefe en doğru şekilde ulaşması için iyi ayarlanmalıdır. Konuşmada akıcılığın sağlanması,ayrıca sözcüklerin art arda sesletim hızı ve uyumlu bir şekilde bir araya getirilmesine özen gösterilmesi ile mümkündür. • Hoşagiderlik: Kişi doğru, güzel ve etkili iletişim kurabilmek için ses aralığını, perde genişliğini, tonlamayla sesine katabileceği tınıları, ifadesine katabileceği ezgiyi, sözcükleri söyleyiş hızını öncelikle tanımalı ardından da doğru şekillerde bunlardan yararlanmalıdır.
 
     <hr />
 1. Aşağıdakilerden hangisi konuşmanın doğru, güzel ve etkili bir şekilde gerçekleşmesi için **kişinin konuşmayla ilgili olarak dikkat etmesi gereken özelliklerden *değildir****?*
@@ -9509,15 +8845,7 @@
     - D-) İnandırıcılık
     - **Cevap E-) Güzellik**
 
-    > **Açıklama:** Konuşmanın doğru, güzel ve etkili bir şekilde gerçekleşmesi için **kişinin konuşmayla ilgili olarak dikkat etmesi gereken başka özellikler**;
-    > Açıklık Açıklık, konuşmanın hem fizyolojik hem de psikolojik yönüyle ilgilidir. Sesleri doğru çıkarmak, yine o sesleri sözcüklere dönüştürürken doğru boğumlamak, sözcükleri cümlelere dönüştürürken iletilmek istenen mesaja göre doğru vurguları yapmak açık konuşmanın fizyolojik yönünü ilgilendirir ve başarılı bir konuşma için gereklidir.
-    > İçten olmayı gerektiren doğallık, konuşmacının yapmacık sözcük tercihleri ve vurgulara başvurmadan iletmek istediği mesajı karşısındakilere ulaştırması ile mümkün olabilir.
-    > İnandırıcılık, konuşmacının ortaya koyacağı fikirlerin dinleyici tarafından inandırıcı bulunabilmesi için bu fikirlere önce konuşmacının inanmış görünmesi gerekir.
-    > İlginçlik Konuşmanın konusu her zaman ilgi çekici olmayabilir.
-    > Konuşmacının Bilgi ve Donanımı Konuşmacının genellikle ilk ve temel amacı dinleyiciye mesaj, bilgi iletmektir.
-    > Ön Çalışma Başarılı bir konuşmacı dinleyici karşısında konuşmadan önce belirli hazırlık süreçlerini geçirmelidir.
-    > Diğer yandan; doğru, güzel ve iyi bir **sesin sahip olması gereken temel fiziksel özellikler;** işitilebilirlik, esneklik, akıcılık ve **hoşagiderliktir**.
-    > Ancak güzellik bu koşullardan biri değildir.
+    > **Açıklama:** Konuşmanın doğru, güzel ve etkili bir şekilde gerçekleşmesi için **kişinin konuşmayla ilgili olarak dikkat etmesi gereken başka özellikler**;<br />Açıklık Açıklık, konuşmanın hem fizyolojik hem de psikolojik yönüyle ilgilidir. Sesleri doğru çıkarmak, yine o sesleri sözcüklere dönüştürürken doğru boğumlamak, sözcükleri cümlelere dönüştürürken iletilmek istenen mesaja göre doğru vurguları yapmak açık konuşmanın fizyolojik yönünü ilgilendirir ve başarılı bir konuşma için gereklidir.<br />İçten olmayı gerektiren doğallık, konuşmacının yapmacık sözcük tercihleri ve vurgulara başvurmadan iletmek istediği mesajı karşısındakilere ulaştırması ile mümkün olabilir.<br />İnandırıcılık, konuşmacının ortaya koyacağı fikirlerin dinleyici tarafından inandırıcı bulunabilmesi için bu fikirlere önce konuşmacının inanmış görünmesi gerekir.<br />İlginçlik Konuşmanın konusu her zaman ilgi çekici olmayabilir.<br />Konuşmacının Bilgi ve Donanımı Konuşmacının genellikle ilk ve temel amacı dinleyiciye mesaj, bilgi iletmektir.<br />Ön Çalışma Başarılı bir konuşmacı dinleyici karşısında konuşmadan önce belirli hazırlık süreçlerini geçirmelidir.<br />Diğer yandan; doğru, güzel ve iyi bir **sesin sahip olması gereken temel fiziksel özellikler;** işitilebilirlik, esneklik, akıcılık ve **hoşagiderliktir**.<br />Ancak güzellik bu koşullardan biri değildir.
 
     <hr />
 1. Aşağıda verilen konuşma türlerinden hangisi tek bir kişi tarafından yapılan konuşmalardandır?
@@ -9577,12 +8905,7 @@
     - D-) II ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** Doğru, güzel, iyi bir sesin sahip olması gereken temel fiziksel özellikler şöyle sıralanabilir:
-    > * İşitilebilirlik
-    > * Esneklik
-    > * Akıcılık
-    > * Hoşagiderlik
-    > Doğru cevap E'dir.
+    > **Açıklama:** Doğru, güzel, iyi bir sesin sahip olması gereken temel fiziksel özellikler şöyle sıralanabilir:<br />* İşitilebilirlik<br />* Esneklik<br />* Akıcılık<br />* Hoşagiderlik<br />Doğru cevap E'dir.
 
     <hr />
 1. Konuşmanın içten olması, yapmacık sözcükler içermemesi etkili konuşmanın hangi özelliğidir?
@@ -9742,9 +9065,7 @@
     - D-) Mürettebatlar
     - **Cevap E-) Tadilat**
 
-    > **Açıklama:** Başka dillerden geçen ve tarihî dönemlerde Türkçede kullanılmış olan bazı dil bilgisel yapılar, artık Türkçede yer almadığından ve dolayısıyla çağdaş Türkçe konuşurları için bilişsel düzeyde işlevlerini yitirmiş bulunduklarından, eski örneklerin kalıntısı olarak ne yazık ki yanlış bicimde kullanılmaktadır.
-    > ![](https://ets.anadolu.edu.tr/storage/nfs/questions/75e4edb6915fb78fcd6d6f9d0800e198.png)
-    > Doğru cevap E’ dir.
+    > **Açıklama:** Başka dillerden geçen ve tarihî dönemlerde Türkçede kullanılmış olan bazı dil bilgisel yapılar, artık Türkçede yer almadığından ve dolayısıyla çağdaş Türkçe konuşurları için bilişsel düzeyde işlevlerini yitirmiş bulunduklarından, eski örneklerin kalıntısı olarak ne yazık ki yanlış bicimde kullanılmaktadır.<br />![](https://ets.anadolu.edu.tr/storage/nfs/questions/75e4edb6915fb78fcd6d6f9d0800e198.png)<br />Doğru cevap E’ dir.
 
     <hr />
 1. Ciğerlerden gönderilen havanın ağız ve burun yolundaki ses aygıtlarının yardımıyla ağızdan çıkarken konuşma sesi biçimlerini almasına ne denir?
@@ -9784,8 +9105,7 @@
     - D-) Övünme üslubu
     - E-) Çenebaz üslup
 
-    > **Açıklama:** Kitle toplantılarında halkı galeyana getirmek isteyenlerin, halk katiplerinin,
-    > inkılapçıların tercih ettiği, bazen çekingen ve azametli bazen birden bire patlayan, bağırtan ama genelde ardında coşkunluk saklayan üsluba keskin üslup denir. Doğru cevap B'dir.
+    > **Açıklama:** Kitle toplantılarında halkı galeyana getirmek isteyenlerin, halk katiplerinin,<br />inkılapçıların tercih ettiği, bazen çekingen ve azametli bazen birden bire patlayan, bağırtan ama genelde ardında coşkunluk saklayan üsluba keskin üslup denir. Doğru cevap B'dir.
 
     <hr />
 1. Önceden belirlenen bir konuda karşıt iki görüşün izleyiciler önünde tartışıldığı<br />konuşma türüne ne denir?
@@ -9795,8 +9115,7 @@
     - D-) Panel
     - E-) Forum
 
-    > **Açıklama:** Önceden belirlenen bir konuda karşıt iki görüşün izleyiciler önünde tartışıldığı
-    > konuşma türüne münazara denir. Doğru cevap A'dır.
+    > **Açıklama:** Önceden belirlenen bir konuda karşıt iki görüşün izleyiciler önünde tartışıldığı<br />konuşma türüne münazara denir. Doğru cevap A'dır.
 
     <hr />
 1. Bir sunumda önemli mesajlar ne zaman ortaya konulmalıdır?
@@ -9806,9 +9125,7 @@
     - D-) Dinleyiciler ses çıkarmaya başlayınca
     - **Cevap E-) İlk yirmi dakikada**
 
-    > **Açıklama:** Dinleyicilerin konsantrasyon eğrisine dair bilgiler, yirmi dakikadan sonra ciddi oranda dikkat eksilmesi yaşandığını göstermektedir. Buna göre önemli mesajlar, dikkatin yoğun olduğu bölümlerde, yani ilk yirmi dakikada, konuşmanın son
-    > bölümünde ya da dinleyicilerin dikkatini çekecek teknikler kullanıldıktan sonra
-    > ortaya konulmalıdır. Doğru cevap E'dir.
+    > **Açıklama:** Dinleyicilerin konsantrasyon eğrisine dair bilgiler, yirmi dakikadan sonra ciddi oranda dikkat eksilmesi yaşandığını göstermektedir. Buna göre önemli mesajlar, dikkatin yoğun olduğu bölümlerde, yani ilk yirmi dakikada, konuşmanın son<br />bölümünde ya da dinleyicilerin dikkatini çekecek teknikler kullanıldıktan sonra<br />ortaya konulmalıdır. Doğru cevap E'dir.
 
     <hr />
 1. *Geleceğim* sözcüğünün söylenişi aşağıdakilerden hangisidir?
@@ -9858,8 +9175,7 @@
     - D-) Yüz yüze anlatım
     - E-) Doğrudan anlatım
 
-    > **Açıklama:** İnsanın karşısındakine dileklerini, duygularını sözlü olarak anlatması eylemine
-    > sözlü anlatım denir
+    > **Açıklama:** İnsanın karşısındakine dileklerini, duygularını sözlü olarak anlatması eylemine<br />sözlü anlatım denir
 
     <hr />
 1. İnsanın duygularını, düşüncelerini sese dayalı bir dizge halinde sunması, başka bir deyişle anlamlı parçalara dönüştürülmüş seslerden yararlanarak düşüncelerini ifade etmesine ne denir?
@@ -9949,10 +9265,7 @@
     - D-) I ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** Sıklık / Frekans
-    > Titreşen her nesnenin 1 saniyedeki yalın titreşimleridir.
-    > Titreşen, ses veren varlığın titreşim sayısının az ya da çok oluşuna **tonlama** denir
-    > İletilmek istenen mesaja, oluşturulmak istenen duygu değe-rine bağlı olarak konuşmacının cümle düzeyinde yaptığı tonlamalara **ezgi** denir.
+    > **Açıklama:** Sıklık / Frekans<br />Titreşen her nesnenin 1 saniyedeki yalın titreşimleridir.<br />Titreşen, ses veren varlığın titreşim sayısının az ya da çok oluşuna **tonlama** denir<br />İletilmek istenen mesaja, oluşturulmak istenen duygu değe-rine bağlı olarak konuşmacının cümle düzeyinde yaptığı tonlamalara **ezgi** denir.
 
     <hr />
 1. Güzel konuşma kapsamında iletilmek istenen mesaja, oluşturulmak istenen duygu değerine bağlı olarak konuşmacının cümle düzeyinde yaptığı tonlamalara ne ad verilir?
@@ -9972,11 +9285,7 @@
     - D-) Hoşagiderlik
     - **Cevap E-) Doğallık**
 
-    > **Açıklama:** Doğru, güzel, iyi bir sesin sahip olması gereken temel fiziksel özellikler şöyle sıralanabilir:
-    > • İşitilebilirlik
-    > • Esneklik
-    > • Akıcılık
-    > • Hoşagiderlik
+    > **Açıklama:** Doğru, güzel, iyi bir sesin sahip olması gereken temel fiziksel özellikler şöyle sıralanabilir:<br />• İşitilebilirlik<br />• Esneklik<br />• Akıcılık<br />• Hoşagiderlik
 
     <hr />
 1. Aşağıdakilerden hangisi doğru, güzel ve etkili konuşmanın temel ilkeleri arasında yer alır?
@@ -9986,12 +9295,7 @@
     - D-) Esneklik
     - E-) İşitilebilirlik
 
-    > **Açıklama:** ##### DOĞRU, GÜZEL VE ETKİLİ KONUŞMANIN TEMEL İLKELERİ Açıklık Doğallık İnandırıcılık İlginçlik
-    > Doğru, güzel, iyi bir **sesin** sahip olması gereken temel fiziksel özellikler şöyle sıralanabilir:
-    > • İşitilebilirlik
-    > • Esneklik
-    > • Akıcılık
-    > • Hoşagiderlik
+    > **Açıklama:** ##### DOĞRU, GÜZEL VE ETKİLİ KONUŞMANIN TEMEL İLKELERİ Açıklık Doğallık İnandırıcılık İlginçlik<br />Doğru, güzel, iyi bir **sesin** sahip olması gereken temel fiziksel özellikler şöyle sıralanabilir:<br />• İşitilebilirlik<br />• Esneklik<br />• Akıcılık<br />• Hoşagiderlik
 
     <hr />
 1. Aşağıdakilerden hangisi Cosson'un belirlediği cümlelerin genellikle uzun ve bazı belirli maddelere ayrılarak ortaya konulduğu, içeriğinde hiç eğlendirici unsur bulunmayan, âlimane konuşmaya dayalı uslüp türüdür?
@@ -10011,8 +9315,7 @@
     - **Cevap D-) Açık Oturum**
     - E-) Kurultay
 
-    > **Açıklama:** Açık Oturum
-    > Önceden belirlenen bir konunun, o konuda uzman bir grup kişi tarafından tartışılarak ele alındığı konuşmalardır. Davet edilen 3 ile 5 konuşmacı, konunun genel olarak veya sadece belirli bir yönüyle uzmanı olabilir ve uzmanı olduğu konuda görüş bildirmek üzere söz alabilir. Açık oturumlar, belirli bir salonda ve hazır bulunan dinleyici kitle karşısında olabildiği gibi, televizyon veya radyoda hatta bilgisayar aracılığıyla internet kullanıcısı karşısında da gerçekleştirilebilir. Birden fazla konuşmacı yer aldığından açık oturumun bir yöneticisi (başkanı/moderatörü) olur.
+    > **Açıklama:** Açık Oturum<br />Önceden belirlenen bir konunun, o konuda uzman bir grup kişi tarafından tartışılarak ele alındığı konuşmalardır. Davet edilen 3 ile 5 konuşmacı, konunun genel olarak veya sadece belirli bir yönüyle uzmanı olabilir ve uzmanı olduğu konuda görüş bildirmek üzere söz alabilir. Açık oturumlar, belirli bir salonda ve hazır bulunan dinleyici kitle karşısında olabildiği gibi, televizyon veya radyoda hatta bilgisayar aracılığıyla internet kullanıcısı karşısında da gerçekleştirilebilir. Birden fazla konuşmacı yer aldığından açık oturumun bir yöneticisi (başkanı/moderatörü) olur.
 
     <hr />
 1. Amacı herhangi bir konuyu tartışmaktan çok konuya açıklık ya da çözüm getirmek olan konuşma türü aşağıdakilerden hangisidir?
@@ -10032,19 +9335,7 @@
     - D-) Etki yapmak
     - **Cevap E-) Katkıda bulunmak**
 
-    > **Açıklama:** Ya n l ı ş Doğru
-    > açıklama yapmak açıklama
-    > kalkış almak alkışlanmak
-    > beğeni almak beğenilmek
-    > bekleme yapmak beklemek
-    > duş almak yıkanmak
-    > etki yapmak etkilemek
-    > içki almak içki içmek
-    > istek almak istenmek
-    > katkı yapmak katkıda bulunmak
-    > konuşma yapmak konuşmak
-    > panik yapmak paniğe kapılmak
-    > sahne almak sahneye çıkmak
+    > **Açıklama:** Ya n l ı ş Doğru<br />açıklama yapmak açıklama<br />kalkış almak alkışlanmak<br />beğeni almak beğenilmek<br />bekleme yapmak beklemek<br />duş almak yıkanmak<br />etki yapmak etkilemek<br />içki almak içki içmek<br />istek almak istenmek<br />katkı yapmak katkıda bulunmak<br />konuşma yapmak konuşmak<br />panik yapmak paniğe kapılmak<br />sahne almak sahneye çıkmak
 
     <hr />
 1. Akciğerlerden başlayıp ağız ve burunda sona eren solunum yollarında sıralanmış organlara çarpıp veya sürtünüp seda haline geldikten sonra en son olarak bir kalıptan, engelden geçip ağızdan çıkan titreşime ne ad verilir?
@@ -10154,8 +9445,7 @@
     - **Cevap D-) Ezgi, titreşen, ses veren varlığın titreşim sayısının az ya da çok oluşuna denir.**
     - E-) Tını, bir sesi başka seslerden ayırmamızı sağlayan niteliğe denir.
 
-    > **Açıklama:** Ezgi, titreşen, ses veren varlığın titreşim sayısının az ya da çok oluşuna denir.
-    > Titreşen, ses veren varlığın titreşim sayısının az ya da çok oluşuna ezgi değil tonlama denir. İletilmek istenen mesaja, oluşturulmak istenen duygu değerine bağlı olarak konuşmacının cümle düzeyinde yaptığı tonlamalara **ezgi** denir.
+    > **Açıklama:** Ezgi, titreşen, ses veren varlığın titreşim sayısının az ya da çok oluşuna denir.<br />Titreşen, ses veren varlığın titreşim sayısının az ya da çok oluşuna ezgi değil tonlama denir. İletilmek istenen mesaja, oluşturulmak istenen duygu değerine bağlı olarak konuşmacının cümle düzeyinde yaptığı tonlamalara **ezgi** denir.
 
     <hr />
 1. Aşağıdakilerden hangisi konuşmayla ilgili dikkat edilmesi gereken özelliklerden biridir?
@@ -10265,8 +9555,7 @@
     - D-) I, III ve IV
     - **Cevap E-) I, II, III, IV**
 
-    > **Açıklama:** Konuşma türlerini ayırt edebileceksiniz.
-    > Yukarıdaki tanımların hepsi sözlü iletişim ortamında bireyin uyması gereken kurallardandır. Dolayısıyla doğru cevap E seçeneğidir.
+    > **Açıklama:** Konuşma türlerini ayırt edebileceksiniz.<br />Yukarıdaki tanımların hepsi sözlü iletişim ortamında bireyin uyması gereken kurallardandır. Dolayısıyla doğru cevap E seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi hazırlıklı konuşma türlerinden birisi değildir?
@@ -10276,8 +9565,7 @@
     - D-) Konferans
     - E-) Forum
 
-    > **Açıklama:** Konuşma türlerini ayırt edebileceksiniz.
-    > İş görüşmesi sırasında yapılan konuşmalar ile ilgili belirli hazırlıklar yapılabilse de bu konuşmaların içeriği, takınılan tutum bakımından standartları olamayacağından iş görüşmelerini topluluk karşısında yapılan hazırlıklı konuşmalardan ayrı ele almak gerekir. Dolayısıyla Doğru cevap A seçeneğidir.
+    > **Açıklama:** Konuşma türlerini ayırt edebileceksiniz.<br />İş görüşmesi sırasında yapılan konuşmalar ile ilgili belirli hazırlıklar yapılabilse de bu konuşmaların içeriği, takınılan tutum bakımından standartları olamayacağından iş görüşmelerini topluluk karşısında yapılan hazırlıklı konuşmalardan ayrı ele almak gerekir. Dolayısıyla Doğru cevap A seçeneğidir.
 
     <hr />
 1. "Önceden belirlenen bir konuda karşıt iki görüşün izleyiciler önünde tartışıldığı konuşma türüdür. Kura sonucu seçtikleri görüşü araştırıp sunum yapan iki grubun her birinde 3-5 konuşmacı yer alır. Bir yönetici kontrolünde, sırayla sunumunu yapan konuşmacılar aynı zamanda kendilerine yöneltilen sorulara da cevap verirler. Daha önce belirlenen jüri üyelerinin değerlendirmeleri sonucunda bir grubun üstünlüğü ile sona erer."Yukarıdaki ifade konuşma türlerinden hangisini tanımlamaktadır?
@@ -10287,8 +9575,7 @@
     - D-) Sempozyum
     - E-) Konferans
 
-    > **Açıklama:** Konuşma türlerini ayırt edebileceksiniz.
-    > Yukarıdaki ifade hazırlıklı konuşma türlerinden münazarayı tanımlamaktadır. Dolayısıyla doğru cevap C seçeneğidir.
+    > **Açıklama:** Konuşma türlerini ayırt edebileceksiniz.<br />Yukarıdaki ifade hazırlıklı konuşma türlerinden münazarayı tanımlamaktadır. Dolayısıyla doğru cevap C seçeneğidir.
 
     <hr />
 1. 3\. Aşağıdakilerden hangisi doğru, güzel, iyi bir sesin sahip olması gereken temel fiziksel özelliklerden değildir?
@@ -10298,8 +9585,7 @@
     - D-) Hoşagiderlik
     - **Cevap E-) Tını**
 
-    > **Açıklama:** Doğru, güzel ve etkili konuşmada olması gereken temel içerik özelliklerini betimleyebileceksiniz.
-    > Doğru, güzel, iyi bir sesin sahip olması gereken temel fiziksel özellikler işitilebilirlik, esneklik, akıcılık ve hoşagiderliktir.
+    > **Açıklama:** Doğru, güzel ve etkili konuşmada olması gereken temel içerik özelliklerini betimleyebileceksiniz.<br />Doğru, güzel, iyi bir sesin sahip olması gereken temel fiziksel özellikler işitilebilirlik, esneklik, akıcılık ve hoşagiderliktir.
 
     <hr />
 1. Duygulara daha fazla yer veren üslup aşağıdakilerden hangisidir?
@@ -10309,8 +9595,7 @@
     - **Cevap D-) Hissi üslup**
     - E-) Delil üslubu
 
-    > **Açıklama:** Doğru, güzel ve etkili konuşmada olması gereken temel içerik özelliklerini betimleyebileceksiniz.
-    > Duygulara daha fazla yer veren üsluba hissi üslup denir.
+    > **Açıklama:** Doğru, güzel ve etkili konuşmada olması gereken temel içerik özelliklerini betimleyebileceksiniz.<br />Duygulara daha fazla yer veren üsluba hissi üslup denir.
 
     <hr />
 1. **Hertz, aşağıdakilerden hangisinin ölçü birimidir?**
@@ -10320,8 +9605,7 @@
     - D-) Vurgu
     - E-) Duraklama
 
-    > **Açıklama:** Sıklık / Frekans:
-    > Titreşen her nesnenin 1 saniyedeki yalın titreşimleridir. Ölçü birimi Hertz’dir.
+    > **Açıklama:** Sıklık / Frekans:<br />Titreşen her nesnenin 1 saniyedeki yalın titreşimleridir. Ölçü birimi Hertz’dir.
 
     <hr />
 1. **İ****letilmek istenen mesaja, olu****ş****turulmak istenen duygu de****ğ****erine ba****ğ****l****ı** **olarak konu****ş****mac****ı****n****ı****n c****ü****mle d****ü****zeyinde yapt****ığı** **tonlamalara a****ş****a****ğı****dakilerden hangisi ile adland****ı****r****ı****l****ı****r?**

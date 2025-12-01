@@ -8,9 +8,7 @@
     - D-) IV
     - E-) V
 
-    > **Açıklama:** Sanat, Teknoloji ve İlgili Kavramlar
-    > Avrupa’nın pek çok ülkesinde kurulan akademilerin temeli Platon’un felsefi yaklaşımına ve kurduğu akademiye referans vermektedir.
-    > Doğru cevap A şıkkıdır.
+    > **Açıklama:** Sanat, Teknoloji ve İlgili Kavramlar<br />Avrupa’nın pek çok ülkesinde kurulan akademilerin temeli Platon’un felsefi yaklaşımına ve kurduğu akademiye referans vermektedir.<br />Doğru cevap A şıkkıdır.
 
     <hr />
 1. I. Fotoğrafın icadı sanatı etkileyen en önemli buluşlardandır.<br />II. Fotoğrafın icadı sanat kavramının zaman içerisinde dönüşmesinde önemli rol oynamıştır.<br />III. Fotoğrafın temeli Rönesans dönemine dayanmamaktadır.<br />IV. Fotoğrafın icadı 1900'lü yıllarda gerçekleşmiştir.<br />Fotoğrafın icadı ile ilgili yukarıda verilenlerden hangileri doğrudur?
@@ -20,9 +18,7 @@
     - D-) I, II, III
     - E-) I, II, III, IV
 
-    > **Açıklama:** Endüstrinin Dönüştürücü Gücü
-    > Fotoğrafın icadı sanatı etkileyen en önemli buluşlardandır. Fotoğrafın icadı sanatta yerleşmiş dogma ve görüşlerin tartışılmasında, sonuç olarak da sanat kavramının zaman içerisinde dönüşmesinde önemli rol oynamıştır. Fotoğrafın temeli sayılan “camera obscura” Avrupa’da Rönesans döneminden beri bilinmektedir ve pek çok sanatçı tarafından konularındaki oranları doğru verebilmek için kullanılmaktadır. 1820’li yıllarda Joseph Nicéphore Niépce’in camera obscuranın mantığını kullanarak doğadaki bir görüntüyü kimyasal olarak metal bir plakanın üzerine sabitlemesi ile başlayan fotoğrafın yolculuğu, Louis J.M. Daguerreo ve Henry Fox Talbot’un çalışmaları ile kısa zamanda hızla gelişmiş, çoğaltma yapılabilmeye başlanmış ve geniş kitleler tarafından benimsenmiştir. Geniş kitleler tarafından hızla benimsenmesinin altında, dönemin kültürel ve sosyal ihtiyaçlarının el çizimi resimler tarafından karşılanmaması yatmaktadır. Fotoğraf Rönesans’dan beri süregelen gerçeğin, gerçek gibi görünen el çizimleri ile temsilinin endüstri devrimindeki karşılığı olmuştur.
-    > Doğru cevap A şıkkıdır.
+    > **Açıklama:** Endüstrinin Dönüştürücü Gücü<br />Fotoğrafın icadı sanatı etkileyen en önemli buluşlardandır. Fotoğrafın icadı sanatta yerleşmiş dogma ve görüşlerin tartışılmasında, sonuç olarak da sanat kavramının zaman içerisinde dönüşmesinde önemli rol oynamıştır. Fotoğrafın temeli sayılan “camera obscura” Avrupa’da Rönesans döneminden beri bilinmektedir ve pek çok sanatçı tarafından konularındaki oranları doğru verebilmek için kullanılmaktadır. 1820’li yıllarda Joseph Nicéphore Niépce’in camera obscuranın mantığını kullanarak doğadaki bir görüntüyü kimyasal olarak metal bir plakanın üzerine sabitlemesi ile başlayan fotoğrafın yolculuğu, Louis J.M. Daguerreo ve Henry Fox Talbot’un çalışmaları ile kısa zamanda hızla gelişmiş, çoğaltma yapılabilmeye başlanmış ve geniş kitleler tarafından benimsenmiştir. Geniş kitleler tarafından hızla benimsenmesinin altında, dönemin kültürel ve sosyal ihtiyaçlarının el çizimi resimler tarafından karşılanmaması yatmaktadır. Fotoğraf Rönesans’dan beri süregelen gerçeğin, gerçek gibi görünen el çizimleri ile temsilinin endüstri devrimindeki karşılığı olmuştur.<br />Doğru cevap A şıkkıdır.
 
     <hr />
 1. I. Basılı kitap<br />II. Basılı dergi<br />III. Sinema<br />IV. Televizyon<br />Yukarıdakilerden hangileri geleneksel medya olarak kabul edilmektedir?
@@ -32,9 +28,7 @@
     - D-) II, III, IV
     - **Cevap E-) I, II, III, IV**
 
-    > **Açıklama:** Yeni Medya
-    > Geleneksel medya terimi basılı kitap, dergi, gazete gibi ortamların yanı sıra sinema, radyo ve televizyon gibi ortamları da içerisinde barındırmaktadır.
-    > Doğru cevap E şıkkıdır.
+    > **Açıklama:** Yeni Medya<br />Geleneksel medya terimi basılı kitap, dergi, gazete gibi ortamların yanı sıra sinema, radyo ve televizyon gibi ortamları da içerisinde barındırmaktadır.<br />Doğru cevap E şıkkıdır.
 
     <hr />
 1. I. Yeni medya kavramı kronolojik bir sıralamayı içermektedir.<br />II. Yeni medyada içerik sabittir.<br />III. Yeni medya dijitaldir.<br />IV. Yeni medya matematiksel kodlarla üretilmiştir.<br />Yeni medya kavramı ile ilgili yukarıda verilenlerden hangileri doğrudur?
@@ -44,8 +38,7 @@
     - D-) I, II, III
     - E-) I, II, III, IV
 
-    > **Açıklama:** Kronolojik bir sıralamayı içeren ve içeriğin sabit olduğu medya, geleneksel medyadır. III ve IV. maddelerde verilen özellikler ise yeni medyayla ilişkilidir.
-    > Doğru cevap C şıkkıdır.
+    > **Açıklama:** Kronolojik bir sıralamayı içeren ve içeriğin sabit olduğu medya, geleneksel medyadır. III ve IV. maddelerde verilen özellikler ise yeni medyayla ilişkilidir.<br />Doğru cevap C şıkkıdır.
 
     <hr />
 1. I. Dijital olması<br />II. Etkileşimli olması<br />III. Sanal olması<br />IV. Ağ tabanlı olması<br />V. Üstmetinsel olması<br />Yukarıdakilerden hangileri yeni medyanın özelliklerindendir?
@@ -55,14 +48,7 @@
     - D-) I, II, III, IV
     - **Cevap E-) I, II, III, IV, V**
 
-    > **Açıklama:** Yeni medya tanımlanırken altı temel özellik belirtilmektedir:
-    > • Sayısal (dijital)
-    > • Etkileşimli
-    > • Üstmetinsel (hypertextual)
-    > • Sanal
-    > • Ağ tabanlı
-    > • Simüle edilmiş olmasıdır.
-    > Doğru cevap E şıkkıdır.
+    > **Açıklama:** Yeni medya tanımlanırken altı temel özellik belirtilmektedir:<br />• Sayısal (dijital)<br />• Etkileşimli<br />• Üstmetinsel (hypertextual)<br />• Sanal<br />• Ağ tabanlı<br />• Simüle edilmiş olmasıdır.<br />Doğru cevap E şıkkıdır.
 
     <hr />
 1. I. Dijitalleşme<br />II. Teknoloji<br />III. Sanal ortam<br />IV. Tekrar ortamlandırma<br />V. Değişim<br />"Bir ortamın içeriği her zaman başka bir ortamdır” saptamasına dayanan kavram yukarıdakilerden hangisidir?
@@ -72,9 +58,7 @@
     - **Cevap D-) IV**
     - E-) V
 
-    > **Açıklama:** Sanatın Yeni Alanı Yeni Medya
-    > Bolter ve Grusin (2000) tarafından öne sürülen "tekrar ortamlandırma" kavramı kökenini McLuhan’ın “bir ortamın içeriği her zaman başka bir ortamdır” saptamasına dayandırmaktadır.
-    > Doğru cevap D şıkkıdır.
+    > **Açıklama:** Sanatın Yeni Alanı Yeni Medya<br />Bolter ve Grusin (2000) tarafından öne sürülen "tekrar ortamlandırma" kavramı kökenini McLuhan’ın “bir ortamın içeriği her zaman başka bir ortamdır” saptamasına dayandırmaktadır.<br />Doğru cevap D şıkkıdır.
 
     <hr />
 1. I. Bilgisayar oyunları<br />II. Gözetim kameraları<br />III. Cep telefonları<br />IV. Taşınabilir bilgisayarlar<br />V. Konum belirleyici cihazlar<br />Yukarıdaki teknolojik aletlerden hangileri yeni medya sanatında yer alabilir?
@@ -84,9 +68,7 @@
     - D-) II, III, IV, V
     - **Cevap E-) I, II, III, IV, V**
 
-    > **Açıklama:** Sanatın Yeni Alanı Yeni Medya
-    > Bilgisayar oyunları, gözetim kameraları, cep telefonları, taşınabilir bilgisayarlar ve konum belirleyici cihazlar gibi pek çok teknolojik alet yeni medya sanatında yer almaktadır.
-    > Doğru cevap E şıkkıdır.
+    > **Açıklama:** Sanatın Yeni Alanı Yeni Medya<br />Bilgisayar oyunları, gözetim kameraları, cep telefonları, taşınabilir bilgisayarlar ve konum belirleyici cihazlar gibi pek çok teknolojik alet yeni medya sanatında yer almaktadır.<br />Doğru cevap E şıkkıdır.
 
     <hr />
 1. I. Telematik sanat<br />II. Sanal sanat<br />III. Bozunma sanatı<br />IV. Etkileşimli sanat<br />V. İnternet sanatı<br />Üç boyutlu görüntüleme teknolojileri, üç boyutlu ses, veri eldivenleri, veri duyumsatabilen giysiler, konum sensörleri gibi seyircilerin imgelerin içerisine gömülmesine ve onlarla etkileşime girmesine olanak sağlayan yeni medya sanatı yukarıdakilerden hangisidir?
@@ -96,11 +78,7 @@
     - D-) IV
     - E-) V
 
-    > **Açıklama:** Sanatın Yeni Alanı Yeni Medya
-    > Sanal sanat üç boyutlu görüntüleme teknolojileri, üç boyutlu ses, veri eldivenleri, veri duyumsatabilen giysiler, konum sensörleri gibi seyircilerin
-    > imgelerin içerisine gömülmesini ve onlarla etkileşime girmesine olanak sağlayan sanat eserlerini
-    > içermektedir.
-    > Doğru cevap B şıkkıdır.
+    > **Açıklama:** Sanatın Yeni Alanı Yeni Medya<br />Sanal sanat üç boyutlu görüntüleme teknolojileri, üç boyutlu ses, veri eldivenleri, veri duyumsatabilen giysiler, konum sensörleri gibi seyircilerin<br />imgelerin içerisine gömülmesini ve onlarla etkileşime girmesine olanak sağlayan sanat eserlerini<br />içermektedir.<br />Doğru cevap B şıkkıdır.
 
     <hr />
 1. I. Dada hareketi<br />II. Fluxus hareketi<br />III. Kavramsal sanat hareketi<br />IV. Kinetik sanat hareketi<br />V. Yeni sanat hareketi<br />Sanat eserlerinin bir işlevi olması gerektiğini, sanatçının geçimi için metalaştırılan, alınıp satılan bir ürün olmasına, sanatın sanatçıların egolarını tatmin etmeleri için kullanılmasına karşı çıkan hareket yukarıdakilerden hangisidir?
@@ -110,8 +88,7 @@
     - D-) IV
     - E-) V
 
-    > **Açıklama:** Fluxus hareketi 1960’lı yıllarda ortaya çıkmıştır ve etkisi 1970’li yılların sonuna kadar sürmüştür. Kelime anlamı olarak “akış” demektir. Fluxus bir sanat akımı olarak tanımlanmaktan ziyade dahil olan sanatçıların ortak bir tavrı olarak görülmektedir. Hareketin ilk defa 1961 yılında sanatçı George Maciunas tarafından ortaya atıldığı düşünülmektedir. Maciunas sanat eserlerinin bir işlevi olması gerektiğini, sanatçının geçimi için metalaştırılan, alınıp satılan bir ürün olmasına, sanatın sanatçıların egolarını tatmin etmeleri için kullanılmasına karşı çıkmaktadır.
-    > Doğru cevap B şıkkıdır.
+    > **Açıklama:** Fluxus hareketi 1960’lı yıllarda ortaya çıkmıştır ve etkisi 1970’li yılların sonuna kadar sürmüştür. Kelime anlamı olarak “akış” demektir. Fluxus bir sanat akımı olarak tanımlanmaktan ziyade dahil olan sanatçıların ortak bir tavrı olarak görülmektedir. Hareketin ilk defa 1961 yılında sanatçı George Maciunas tarafından ortaya atıldığı düşünülmektedir. Maciunas sanat eserlerinin bir işlevi olması gerektiğini, sanatçının geçimi için metalaştırılan, alınıp satılan bir ürün olmasına, sanatın sanatçıların egolarını tatmin etmeleri için kullanılmasına karşı çıkmaktadır.<br />Doğru cevap B şıkkıdır.
 
     <hr />
 1. I. Frieder Nake'in eserlerinin bulunduğu sergi<br />II. Lillian Shwartz'ın açtığı sergi<br />III. Georg Nees’in eserlerinin içinde bulunduğu karma sergi<br />IV. Kenneth Knowlton'un eserlerinin bulunduğu sergi<br />V. Sozo Hashimoto'nun açtığı sergi<br />Bilgisayarla üretilmiş sanat eserlerinin yer aldığı ilk sergi yukarıdakilerden hangisidir?
@@ -121,9 +98,7 @@
     - D-) IV
     - E-) V
 
-    > **Açıklama:** YENİ MEDYA SANATININ TARİHİ
-    > Stuttgart Teknik Üniversitesi Stüdyo Galerisi’nde 5 Şubat 1965 yılında açılan Georg Nees’in eserlerinin de içinde bulunduğu bir kolokyum için düzenlenmiş karma sergi, bilgisayarla üretilmiş sanat eserlerinin yer aldığı ilk sergidir.
-    > Doğru cevap C şıkkıdır.
+    > **Açıklama:** YENİ MEDYA SANATININ TARİHİ<br />Stuttgart Teknik Üniversitesi Stüdyo Galerisi’nde 5 Şubat 1965 yılında açılan Georg Nees’in eserlerinin de içinde bulunduğu bir kolokyum için düzenlenmiş karma sergi, bilgisayarla üretilmiş sanat eserlerinin yer aldığı ilk sergidir.<br />Doğru cevap C şıkkıdır.
 
     <hr />
 1. Türk Dil Kurumuna göre : “İnsanın maddi çevresini denetlemek ve değiştirmek amacıyla geliştirdiği araç gereçlerle bunlara ilişkin bilgilerin tümü” olarak tanımlanan kelime aşağıdakilerden hangisidir?
@@ -133,14 +108,7 @@
     - D-) Kültür
     - E-) Bilgisayar
 
-    > **Açıklama:** Türk Dil Kurumuna göre teknoloji: “İnsanın maddi
-    > çevresini denetlemek ve değiştirmek amacıyla
-    > geliştirdiği araç gereçlerle bunlara ilişkin bilgilerin
-    > tümü” olarak tanımlanmaktadır. Dolayısıyla insanın
-    > maddi çevresini denetleyip değiştirebildiği tüm
-    > aletler; makas, kürek, araba, uçak, bilgisayar gibi,
-    > taş devrinden beri kullanılanlardan iki binli yıllara
-    > kadar kullanılanların hepsi bir teknolojidir.
+    > **Açıklama:** Türk Dil Kurumuna göre teknoloji: “İnsanın maddi<br />çevresini denetlemek ve değiştirmek amacıyla<br />geliştirdiği araç gereçlerle bunlara ilişkin bilgilerin<br />tümü” olarak tanımlanmaktadır. Dolayısıyla insanın<br />maddi çevresini denetleyip değiştirebildiği tüm<br />aletler; makas, kürek, araba, uçak, bilgisayar gibi,<br />taş devrinden beri kullanılanlardan iki binli yıllara<br />kadar kullanılanların hepsi bir teknolojidir.
 
     <hr />
 1. Yeni medyanın en çok öne çıkan özelliği nedir?
@@ -150,14 +118,7 @@
     - D-) Geleneksel olması
     - E-) Basılı içerik üretmesi
 
-    > **Açıklama:** Yeni medyanın en çok öne çıkan özelliği dijital
-    > olmasıdır. Yeni medya ortamında deneyimlenen
-    > her şey birler ve sıfırlardan, matematiksel kodlarla
-    > üretilmiştir. Örneğin geleneksel medyadaki kitap
-    > örneğinden farklı olarak bir internet sitesindeki resimler
-    > mürekkepten değil, sayılarla oluşturulmuştur.
-    > Yeni medya tanımlanırken altı temel özellik
-    > belirtilmektedir
+    > **Açıklama:** Yeni medyanın en çok öne çıkan özelliği dijital<br />olmasıdır. Yeni medya ortamında deneyimlenen<br />her şey birler ve sıfırlardan, matematiksel kodlarla<br />üretilmiştir. Örneğin geleneksel medyadaki kitap<br />örneğinden farklı olarak bir internet sitesindeki resimler<br />mürekkepten değil, sayılarla oluşturulmuştur.<br />Yeni medya tanımlanırken altı temel özellik<br />belirtilmektedir
 
     <hr />
 1. Yeni medya tanımlanırken altı temel özellik belirtilmektedir. Aşağıdakilerden hangisi bu özelliklerdendir?
@@ -167,13 +128,7 @@
     - D-) Analog olması
     - E-) Geleneksel olması
 
-    > **Açıklama:** Sayısal (dijital)
-    > • Etkileşimli
-    > • Üstmetinsel (hypertextual)
-    > • Sanal
-    > • Ağ tabanlı
-    > • Simüle edilmiş olmasıdır.
-    > Sayısal (dijital) olması
+    > **Açıklama:** Sayısal (dijital)<br />• Etkileşimli<br />• Üstmetinsel (hypertextual)<br />• Sanal<br />• Ağ tabanlı<br />• Simüle edilmiş olmasıdır.<br />Sayısal (dijital) olması
 
     <hr />
 1. Remediation kelimesinin anlamı aşağıdakilerden hangisidir?
@@ -183,13 +138,7 @@
     - **Cevap D-) Tekrar ortamlandırma**
     - E-) Boyutlandırma
 
-    > **Açıklama:** Bahsi geçen tanım ve kısıtlamaların ötesinde
-    > ele alınabilecek, dikkat çekilmesi gereken bir diğer
-    > husus “remediation (tekrar ortamlandırma)” kavramıdır.
-    > Bolter ve Grusin (2000) tarafından öne
-    > sürülen bu kavram kökenini McLuhan’ın “bir ortamın
-    > içeriği her zaman başka bir ortamdır” saptamasına
-    > dayandırmaktadır.
+    > **Açıklama:** Bahsi geçen tanım ve kısıtlamaların ötesinde<br />ele alınabilecek, dikkat çekilmesi gereken bir diğer<br />husus “remediation (tekrar ortamlandırma)” kavramıdır.<br />Bolter ve Grusin (2000) tarafından öne<br />sürülen bu kavram kökenini McLuhan’ın “bir ortamın<br />içeriği her zaman başka bir ortamdır” saptamasına<br />dayandırmaktadır.
 
     <hr />
 1. "Virtual Reality" kelimesinin anlamı aşağıdakilerden hangisinde verilmiştir?
@@ -199,19 +148,7 @@
     - D-) Oyun sanatı
     - **Cevap E-) Sanal gerçeklik**
 
-    > **Açıklama:** Sanal sanat (virtual art)
-    > • Yazılım sanatı (software art)
-    > • İnternet sanatı
-    > • Oyun sanatı
-    > • Bozunma sanatı (glitch art)
-    > • Telematik sanat (Telematic art)
-    > • Biyosanat
-    > • Bilgisayar animasyonu
-    > • Etkileşimli sanat
-    > • Bilgisayar grafikleri
-    > • Hacktivizm
-    > • Taktiksel medya (tactical media)
-    > Sanal gerçeklik
+    > **Açıklama:** Sanal sanat (virtual art)<br />• Yazılım sanatı (software art)<br />• İnternet sanatı<br />• Oyun sanatı<br />• Bozunma sanatı (glitch art)<br />• Telematik sanat (Telematic art)<br />• Biyosanat<br />• Bilgisayar animasyonu<br />• Etkileşimli sanat<br />• Bilgisayar grafikleri<br />• Hacktivizm<br />• Taktiksel medya (tactical media)<br />Sanal gerçeklik
 
     <hr />
 1. İçeriğini bilgisayarlar ve diğer telekomünikasyon aletleri ile verinin işlenmesi ve yayılması olarak oluşturmayı tanımlayan kelime aşağıdakilerden hangisidir?
@@ -221,12 +158,7 @@
     - D-) Etkileşimli sanat
     - E-) Taktiksel medya
 
-    > **Açıklama:** Telematik kavramı Alain Minc ve Simon Nora
-    > tarafından 1978 yılında toplumun bilgisayarlaşması
-    > (computerization) hakkında hazırlanan bir raporda
-    > ortaya atılmıştır. İçeriğini bilgisayarlar ve diğer
-    > telekomünikasyon aletleri ile verinin işlenmesi ve
-    > yayılması oluşturmaktadır
+    > **Açıklama:** Telematik kavramı Alain Minc ve Simon Nora<br />tarafından 1978 yılında toplumun bilgisayarlaşması<br />(computerization) hakkında hazırlanan bir raporda<br />ortaya atılmıştır. İçeriğini bilgisayarlar ve diğer<br />telekomünikasyon aletleri ile verinin işlenmesi ve<br />yayılması oluşturmaktadır
 
     <hr />
 1. Daha önce etkileşimli sanat, sibernetik sanat gibi alanlarla ilgilenen, ilk telematik eseri 1980 yılında üreten, telematik sanatın isim babası ve öncü sanatçısı kimdir?
@@ -236,14 +168,7 @@
     - D-) Roden
     - E-) Giloth
 
-    > **Açıklama:** Daha önce etkileşimli sanat, sibernetik sanat gibi alanlarla
-    > ilgilenen, ilk telematik eseri 1980 yılında üreten,
-    > telematik sanatın isim babası ve öncü sanatçısı Roy
-    > Ascott’un yaşamı, düşünce ve çalışmalarını inceleyen
-    > araştırmacı Edward A. Shanken, Ascott’un ağ
-    > tabanlı iletişim sayesinde teknoloji tabanlı zeka ve
-    > bilincin insanlar ile birleşerek algı ve farkındalığın
-    > gelişebileceğine inandığını belirtmiştir.
+    > **Açıklama:** Daha önce etkileşimli sanat, sibernetik sanat gibi alanlarla<br />ilgilenen, ilk telematik eseri 1980 yılında üreten,<br />telematik sanatın isim babası ve öncü sanatçısı Roy<br />Ascott’un yaşamı, düşünce ve çalışmalarını inceleyen<br />araştırmacı Edward A. Shanken, Ascott’un ağ<br />tabanlı iletişim sayesinde teknoloji tabanlı zeka ve<br />bilincin insanlar ile birleşerek algı ve farkındalığın<br />gelişebileceğine inandığını belirtmiştir.
 
     <hr />
 1. Dada sanatçılarının önde gelen isimlerinden ...............................’ın da yeni medya sanatı üzerinde güçlü<br />etkileri olmuştur. Cümlesinde boşluğaaşağıdakilerden hangisi gelmelidir?
@@ -253,9 +178,7 @@
     - D-) John Cage
     - E-) Joseph Beuys
 
-    > **Açıklama:** Dada sanatçılarının önde gelen isimlerinden Marcel Duchamp’ın da yeni medya sanatı üzerinde güçlü
-    > etkileri olmuştur. Duchamp’ın çalışmaları resimsel tasvirden kavramsal sorgulamaya ve seyirci ile etkileşime
-    > geçişe önayak olmuştur.
+    > **Açıklama:** Dada sanatçılarının önde gelen isimlerinden Marcel Duchamp’ın da yeni medya sanatı üzerinde güçlü<br />etkileri olmuştur. Duchamp’ın çalışmaları resimsel tasvirden kavramsal sorgulamaya ve seyirci ile etkileşime<br />geçişe önayak olmuştur.
 
     <hr />
 1. 1960’lı yıllarda ortaya çıkmıştır ve etkisi 1970’li yılların sonuna kadar sürmüştür. Kelime<br />anlamı olarak “akış” anlamına gelen hareketin adı aşağıdakilerden hangisidir?
@@ -265,9 +188,7 @@
     - **Cevap D-) Fluxus**
     - E-) Sürrealizm
 
-    > **Açıklama:** Fluxus hareketi 1960’lı yıllarda ortaya çıkmıştır ve etkisi 1970’li yılların sonuna kadar sürmüştür. Kelime
-    > anlamı olarak “akış” demektir. Fluxus bir sanat akımı olarak tanımlanmaktan ziyade dahil olan sanatçıların
-    > ortak bir tavrı olarak görülmektedir.
+    > **Açıklama:** Fluxus hareketi 1960’lı yıllarda ortaya çıkmıştır ve etkisi 1970’li yılların sonuna kadar sürmüştür. Kelime<br />anlamı olarak “akış” demektir. Fluxus bir sanat akımı olarak tanımlanmaktan ziyade dahil olan sanatçıların<br />ortak bir tavrı olarak görülmektedir.
 
     <hr />
 1. İnternet sayesinde üretilen eserlere bakıldığı zaman ilk öne çıkan örnek 1993 yılında Joan Heemskerk ve Dirk Paesmans’ın “............” isimli çalışmasıdır. Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -277,10 +198,7 @@
     - D-) edu.org
     - **Cevap E-) Jodi.org**
 
-    > **Açıklama:** İnternet sayesinde üretilen eserlere bakıldığı
-    > zaman ilk öne çıkan örnek 1993 yılında Joan
-    > Heemskerk ve Dirk Paesmans’ın “Jodi.org” isimli
-    > çalışmasıdır.
+    > **Açıklama:** İnternet sayesinde üretilen eserlere bakıldığı<br />zaman ilk öne çıkan örnek 1993 yılında Joan<br />Heemskerk ve Dirk Paesmans’ın “Jodi.org” isimli<br />çalışmasıdır.
 
     <hr />
 1. Antik Yunan ve Roma’da sanatçılar hangi sosyal sınıfa dahildi?
@@ -290,8 +208,7 @@
     - D-) Özgür yurttaş
     - E-) Konsül
 
-    > **Açıklama:** SANAT VE TEKNOLOJİ İLİŞKİSİ başlıklı bölümü inceleyiniz.
-    > Batı sanatı tarihinde sanat kelimesinin kökeni Yunanca’da “tekne”, yani tekniğe; İngilizce “art” ve “artist” kelimeleri ise Latince bir kelime olan “ars” yani “beceri, sanat, hüner” kelimesinden gelmektedir. Bu tanımdan yola çıkarak Antik döneme bakıldığında, Yunanistan ve Roma’da ressamlar ve heykeltıraşların işçi sınıfı içerisinde değerlendirilmesi şaşırtıcı olmamaktadır.
+    > **Açıklama:** SANAT VE TEKNOLOJİ İLİŞKİSİ başlıklı bölümü inceleyiniz.<br />Batı sanatı tarihinde sanat kelimesinin kökeni Yunanca’da “tekne”, yani tekniğe; İngilizce “art” ve “artist” kelimeleri ise Latince bir kelime olan “ars” yani “beceri, sanat, hüner” kelimesinden gelmektedir. Bu tanımdan yola çıkarak Antik döneme bakıldığında, Yunanistan ve Roma’da ressamlar ve heykeltıraşların işçi sınıfı içerisinde değerlendirilmesi şaşırtıcı olmamaktadır.
 
     <hr />
 1. Floransa’da ilk sanat akademisini kuran sanatçı aşağıdakilerden hangisidir?
@@ -301,10 +218,7 @@
     - D-) J.M. Daguerreo
     - E-) Paul Delaroche
 
-    > **Açıklama:** SANAT VE TEKNOLOJİ İLİŞKİSİ başlığı altında yer alan bölümü inceleyiniz.
-    > Giorgio Vasari tarafından Floransa’da 1563 yılında kurulan ilk sanat akademisi (Accademia e
-    > Compagnia delle Arti del Disegno), kısa zamanda sanatçıların statülerini esnaftan çıkarıp liberal
-    > sanatçılar seviyesine yükseltmiştir.
+    > **Açıklama:** SANAT VE TEKNOLOJİ İLİŞKİSİ başlığı altında yer alan bölümü inceleyiniz.<br />Giorgio Vasari tarafından Floransa’da 1563 yılında kurulan ilk sanat akademisi (Accademia e<br />Compagnia delle Arti del Disegno), kısa zamanda sanatçıların statülerini esnaftan çıkarıp liberal<br />sanatçılar seviyesine yükseltmiştir.
 
     <hr />
 1. Sanat yapıtının "şimdiliğinin ve buradalığının", başka bir deyişle "bulunduğu yerde biriciklik taşıyan varlığının eserin sahiciliği" olduğunu dile getirerek teknolojik yeniden üretimlerin eserin bu özelliğini yok ettiğini ileri süren yazar aşağıdakilerden hangisidir?
@@ -314,9 +228,7 @@
     - D-) Alan Turing
     - E-) Oliver Grau
 
-    > **Açıklama:** SANAT VE TEKNOLOJİ İLİŞKİSİ başlığı altında yer alan ilgili bölümü inceleyiniz.
-    > Sanatın mekanik bir şekilde üretilebilmesinin etkilerine karşı en önemli görüşlerden birisi şüphesiz Walter Benjamin’in “Tekniğin Olanaklarıyla Yeniden Üretilebildiği Çağda Sanat Yapıtı” isimli 1935-36 yıllarında kaleme aldığı metindir. Walter Benjamin (Benjamin, 2002) bu metninde sanat yapıtlarının insan tarafından taklit edilebileceğini, yeniden üretilebileceğini ancak mekanik olarak bir sanat yapıtının üretilmesinin yeni bir şey olduğunu söylemektedir. Elbette ki tahta baskı, matbaa ve litografinin de çoğaltma metotları olduğunu, hatta antik dönemlerde döküm ve kalıp çıkararak da üretim yapılabildiğinden bahsetmektedir. Fakat fotoğrafın hepsinin önüne geçtiğini, resimsel çoğaltmanın konuşma kadar hızlı yapılabildiğini ve hatta sinemanın fotoğraftan da hızlı olduğunu iletmektedir. Yazar, fotoğraf ve sinemanın bu özelliklerinden bahsettikten sonra en etkin yeniden üretimde bile eksik olan bir yan olduğunu, o yanın da “sanat yapıtının şimdiliğinin ve buradalığının, başka bir deyişle bulunduğu yerde biriciklik taşıyan varlığı” olduğunu söylemektedir. Eserin hakikiliğinin (sahiciliğnin, orijinalliğinin) biriciklik kavramından
-    > oluştuğunu dile getirmektedir.
+    > **Açıklama:** SANAT VE TEKNOLOJİ İLİŞKİSİ başlığı altında yer alan ilgili bölümü inceleyiniz.<br />Sanatın mekanik bir şekilde üretilebilmesinin etkilerine karşı en önemli görüşlerden birisi şüphesiz Walter Benjamin’in “Tekniğin Olanaklarıyla Yeniden Üretilebildiği Çağda Sanat Yapıtı” isimli 1935-36 yıllarında kaleme aldığı metindir. Walter Benjamin (Benjamin, 2002) bu metninde sanat yapıtlarının insan tarafından taklit edilebileceğini, yeniden üretilebileceğini ancak mekanik olarak bir sanat yapıtının üretilmesinin yeni bir şey olduğunu söylemektedir. Elbette ki tahta baskı, matbaa ve litografinin de çoğaltma metotları olduğunu, hatta antik dönemlerde döküm ve kalıp çıkararak da üretim yapılabildiğinden bahsetmektedir. Fakat fotoğrafın hepsinin önüne geçtiğini, resimsel çoğaltmanın konuşma kadar hızlı yapılabildiğini ve hatta sinemanın fotoğraftan da hızlı olduğunu iletmektedir. Yazar, fotoğraf ve sinemanın bu özelliklerinden bahsettikten sonra en etkin yeniden üretimde bile eksik olan bir yan olduğunu, o yanın da “sanat yapıtının şimdiliğinin ve buradalığının, başka bir deyişle bulunduğu yerde biriciklik taşıyan varlığı” olduğunu söylemektedir. Eserin hakikiliğinin (sahiciliğnin, orijinalliğinin) biriciklik kavramından<br />oluştuğunu dile getirmektedir.
 
     <hr />
 1. 1\. Sayısal (dijital)<br />2\. Etkileşimli<br />3\. Sanal<br />4\. Analog<br />Yukardakilerden hangileri yeni medyanın özelliklerindendir?
@@ -326,16 +238,7 @@
     - D-) (II); ve (IV)
     - E-) (III); ve (IV)
 
-    > **Açıklama:** YENİ MEDYA SANATI VE KÖKENLERİ başlığı altında yer alan ilgili bölümü inceleyiniz.
-    > Yeni medya tanımlanırken altı temel özellik
-    > belirtilmektedir (Lister vd, 2009. s.13):
-    > • Sayısal (dijital)
-    > • Etkileşimli
-    > • Üstmetinsel (hypertextual)
-    > • Sanal
-    > • Ağ tabanlı
-    > • Simüle edilmiş olmasıdır.
-    > Buna göre doğru cevap A şıkkıdır.
+    > **Açıklama:** YENİ MEDYA SANATI VE KÖKENLERİ başlığı altında yer alan ilgili bölümü inceleyiniz.<br />Yeni medya tanımlanırken altı temel özellik<br />belirtilmektedir (Lister vd, 2009. s.13):<br />• Sayısal (dijital)<br />• Etkileşimli<br />• Üstmetinsel (hypertextual)<br />• Sanal<br />• Ağ tabanlı<br />• Simüle edilmiş olmasıdır.<br />Buna göre doğru cevap A şıkkıdır.
 
     <hr />
 1. Aşağıdakilerden hangisi genel kullanıma yönelik bilgisayar animasyonları yapmayı sağlayan ilk yazılımdır?
@@ -345,8 +248,7 @@
     - **Cevap D-) BEFLIX**
     - E-) ENIAC
 
-    > **Açıklama:** YENİ MEDYA SANATI VE KÖKENLERİ başlığı atında ilgili bölümü inceleyiniz.
-    > Kenneth Knowlton’un ilk genel kullanıma yönelik bilgisayar animasyonları yapmayı sağlayan yazılımı BEFLIX’i 1964 yılında çıkması dijital animasyonun doğuş noktası olarak gözükmektedir.
+    > **Açıklama:** YENİ MEDYA SANATI VE KÖKENLERİ başlığı atında ilgili bölümü inceleyiniz.<br />Kenneth Knowlton’un ilk genel kullanıma yönelik bilgisayar animasyonları yapmayı sağlayan yazılımı BEFLIX’i 1964 yılında çıkması dijital animasyonun doğuş noktası olarak gözükmektedir.
 
     <hr />
 1. Aşağıdakilerden hangisi Fluxus akımının özelliğidir?
@@ -356,8 +258,7 @@
     - D-) Sanat eserlerinde şok edici, isyankar ve saçma - beklenmedik karakteristikler ön plana çıkmaktadır
     - **Cevap E-) Bir sanat akımı olarak tanımlanmaktan ziyade dahil olan sanatçıların ortak bir tavrı olarak görülmektedir**
 
-    > **Açıklama:** YENİ MEDYA SANATI VE KÖKENLERİ başlığı altında ilgili bölümü inceleyiniz.
-    > Fluxus hareketi 1960’lı yıllarda ortaya çıkmıştır ve etkisi 1970’li yılların sonuna kadar sürmüştür. Kelime anlamı olarak “akış” demektir. Fluxus bir sanat akımı olarak tanımlanmaktan ziyade dahil olan sanatçıların ortak bir tavrı olarak görülmektedir. Hareketin ilk defa 1961 yılında sanatçı George Maciunas tarafından ortaya atıldığı düşünülmektedir.
+    > **Açıklama:** YENİ MEDYA SANATI VE KÖKENLERİ başlığı altında ilgili bölümü inceleyiniz.<br />Fluxus hareketi 1960’lı yıllarda ortaya çıkmıştır ve etkisi 1970’li yılların sonuna kadar sürmüştür. Kelime anlamı olarak “akış” demektir. Fluxus bir sanat akımı olarak tanımlanmaktan ziyade dahil olan sanatçıların ortak bir tavrı olarak görülmektedir. Hareketin ilk defa 1961 yılında sanatçı George Maciunas tarafından ortaya atıldığı düşünülmektedir.
 
     <hr />
 1. İlk bilgisayar sanatçısı olarak adlandırılan sanatçı aşağıdakilerden hangisidir?
@@ -367,8 +268,7 @@
     - D-) G. Kepes
     - E-) L. Shwartz
 
-    > **Açıklama:** YENİ MEDYA SANATININ TARİHİ başlığı altında ilgili bölümü inceleyiniz.
-    > Bilim, teknoloji ve sanat nesnelerinin arasındaki sınırları ilk defa sistematik olarak kaldırma teşebbüsünde bulunan kişi Ben F. Laposky olmuştur. Laposky aynı zamanda bilgisayar sanatının estetik iddialarının temelini atan kişidir. Kendisi de sanatçının çağdaşı ve osiloskoplar ile benzer çalışmalar yapan Avusturyalı Herbert W. Franke, Laposky’nin çalışmalarını elektronik ve bilgisayarlar ile yapılan grafik üretiminin öncü ismi olduğunu söylemektedir. Bilgisayar sanatı konusunda çalışan araştırmacılar Laposky’i ilk bilgisayar sanatçısı olarak isimlendirmektedirler.
+    > **Açıklama:** YENİ MEDYA SANATININ TARİHİ başlığı altında ilgili bölümü inceleyiniz.<br />Bilim, teknoloji ve sanat nesnelerinin arasındaki sınırları ilk defa sistematik olarak kaldırma teşebbüsünde bulunan kişi Ben F. Laposky olmuştur. Laposky aynı zamanda bilgisayar sanatının estetik iddialarının temelini atan kişidir. Kendisi de sanatçının çağdaşı ve osiloskoplar ile benzer çalışmalar yapan Avusturyalı Herbert W. Franke, Laposky’nin çalışmalarını elektronik ve bilgisayarlar ile yapılan grafik üretiminin öncü ismi olduğunu söylemektedir. Bilgisayar sanatı konusunda çalışan araştırmacılar Laposky’i ilk bilgisayar sanatçısı olarak isimlendirmektedirler.
 
     <hr />
 1. 1960’lı yıllarda Hummingbird adlı eseri ile Belçika’da deneysel sinema ödülünü kazanan sanatçı aşağıdakilerden hangisidir?
@@ -378,9 +278,7 @@
     - **Cevap D-) C. Csuri**
     - E-) P. Modrian
 
-    > **Açıklama:** YENİ MEDYA SANATININ TARİHİ başlığı altında yer alan ilgili bölümü inceleyiniz.
-    > Csuri animasyon alanında da önde gelen figürlerden biridir. Hummingbird (Arıkuşu) çalışması
-    > imgedeki çizgilerin tanımlanarak bilgisayar tarafından kontrol altında bir rastgelelik ile değişime uğraması ile sonuçlanır. Kuş büyümekte, küçülmekte, yer değiştirmekte, deforme olmakta, dağılmakta ve tekrar birleşmektedir. Bu çalışması ile Belçika’da deneysel sinema ödülü kazanmıştır.
+    > **Açıklama:** YENİ MEDYA SANATININ TARİHİ başlığı altında yer alan ilgili bölümü inceleyiniz.<br />Csuri animasyon alanında da önde gelen figürlerden biridir. Hummingbird (Arıkuşu) çalışması<br />imgedeki çizgilerin tanımlanarak bilgisayar tarafından kontrol altında bir rastgelelik ile değişime uğraması ile sonuçlanır. Kuş büyümekte, küçülmekte, yer değiştirmekte, deforme olmakta, dağılmakta ve tekrar birleşmektedir. Bu çalışması ile Belçika’da deneysel sinema ödülü kazanmıştır.
 
     <hr />
 1. 1970’li yıllarda bilgisayar teknolojisinde görülen hangi gelişme 1980’li yıllarda meyvelerini vermeye başlayacaktır?
@@ -390,8 +288,7 @@
     - D-) Dijital enstalasyonun uygulamada kullanılmaya başlanması
     - E-) Bilgisayarlı ışık ve ses düzenlemelerinin ortaya çıkışı
 
-    > **Açıklama:** YENİ MEDYA SANATININ TARİHİ başlığı altında ilgili bölümü inceleyiniz.
-    > Yetmişli yıllar bilgisayarların daha geniş kullanım alanlarına kavuştuğu yıllardır. Kişisel bilgisayarların ilk prototiplerinin bu yıllarda ortaya çıkmasının yanı sıra grafik arayüzleri ile ilgili çalışmalar da bu yıllarda yoğunlaşmıştır ve meyvelerini seksenli yıllarda verecektir.
+    > **Açıklama:** YENİ MEDYA SANATININ TARİHİ başlığı altında ilgili bölümü inceleyiniz.<br />Yetmişli yıllar bilgisayarların daha geniş kullanım alanlarına kavuştuğu yıllardır. Kişisel bilgisayarların ilk prototiplerinin bu yıllarda ortaya çıkmasının yanı sıra grafik arayüzleri ile ilgili çalışmalar da bu yıllarda yoğunlaşmıştır ve meyvelerini seksenli yıllarda verecektir.
 
     <hr />
 1. Internetin sanat yapıtı için kullanılması ile aşağıdakilerden hangisi kastedilmektedir?
@@ -401,9 +298,7 @@
     - D-) Internetin basit bir ortam yoluyla sanat üretimine katkıda bulunması
     - E-) Internette hazır bulunan kodların kullanımı
 
-    > **Açıklama:** YENİ MEDYA SANATININ TARİHİ başlığı altında ilgili bölümü inceleyiniz.
-    > İnternetin sanat yapıtı için kullanılmasından kasıt, internetin bir ortam olarak sanat eserini oluşturmasını veya sanat eserine eklemlenmesini içermektedir. Sanatçıların işlerinin fotoğraflarını
-    > çekip sergiledikleri siteler ve benzeri uygulamalar bu kapsama dahil değildir.
+    > **Açıklama:** YENİ MEDYA SANATININ TARİHİ başlığı altında ilgili bölümü inceleyiniz.<br />İnternetin sanat yapıtı için kullanılmasından kasıt, internetin bir ortam olarak sanat eserini oluşturmasını veya sanat eserine eklemlenmesini içermektedir. Sanatçıların işlerinin fotoğraflarını<br />çekip sergiledikleri siteler ve benzeri uygulamalar bu kapsama dahil değildir.
 
     <hr />
 1. Aşağıdakilerden hangisi ilk çağ ve orta çağda sanatçı olarak adlandırılan kişilere yönelik doğru bir açıklama **değildir**?
@@ -413,8 +308,7 @@
     - **Cevap D-) Yeteneği olan kimseler, özel okullarda eğitim görürdü.**
     - E-) Yüksek değer atfedilen sanatçıların eserleri güç sahibi kimselerin özel alanlarında sergilenebilirdi.
 
-    > **Açıklama:** Bu soru, GİRİŞ başlığından türetilmiştir.
-    > Özellikle ilk çağlarda ve orta çağ toplumlarında, sanatçı olarak adlandırılan kişilerin çoğu zaman için Tanrı veya başka doğaüstü güçlerden aldıkları ilhamları dışa vuran, yeteneklerinin Tanrı vergisi olduğu kabul edilen seçilmiş insanlar olarak görülmüşlerdir. İlk çağ toplumlarında neredeyse her mitolojide sanatı ve sanatçıları kutsayan Tanrı, Tanrıça veya diğer mitolojik figürler görülmektedir. Tek tanrılı dinlere geçişle beraber sanatçıların ilham ve yetenekleri Tanrı’nın bir lütfu olarak anlamlandırılmaya devam etmiştir ve bu tutum Rönesans döneminde bile etkisini sürdürmüştür. Aristokrasi, din merkezleri ve çeşitli otoriteler tarafından korunan, yüksek değer atfedilen kimi sanatçıların eserleri bazen kamuya açık alan ve yapılarda, kimi zaman da güç sahibi kimselerin özel alanlarında sergilenmiştir.
+    > **Açıklama:** Bu soru, GİRİŞ başlığından türetilmiştir.<br />Özellikle ilk çağlarda ve orta çağ toplumlarında, sanatçı olarak adlandırılan kişilerin çoğu zaman için Tanrı veya başka doğaüstü güçlerden aldıkları ilhamları dışa vuran, yeteneklerinin Tanrı vergisi olduğu kabul edilen seçilmiş insanlar olarak görülmüşlerdir. İlk çağ toplumlarında neredeyse her mitolojide sanatı ve sanatçıları kutsayan Tanrı, Tanrıça veya diğer mitolojik figürler görülmektedir. Tek tanrılı dinlere geçişle beraber sanatçıların ilham ve yetenekleri Tanrı’nın bir lütfu olarak anlamlandırılmaya devam etmiştir ve bu tutum Rönesans döneminde bile etkisini sürdürmüştür. Aristokrasi, din merkezleri ve çeşitli otoriteler tarafından korunan, yüksek değer atfedilen kimi sanatçıların eserleri bazen kamuya açık alan ve yapılarda, kimi zaman da güç sahibi kimselerin özel alanlarında sergilenmiştir.
 
     <hr />
 1. İnsanın maddi çevresini denetleyip değiştirebildiği tüm aletler "teknoloji" olarak betimlendiğine göre, aşağıdakilerden hangisi teknolojik bir alet **olamaz?**
@@ -424,9 +318,7 @@
     - D-) Uçak
     - **Cevap E-) Yatak**
 
-    > **Açıklama:** Bu soru "Sanat, Teknoloji ve İlgili Kavramlar" başlığından türetilmiştir.
-    > Türk Dil Kurumuna göre teknoloji: “İnsanın maddi çevresini denetlemek ve değiştirmek amacıyla
-    > geliştirdiği araç gereçlerle bunlara ilişkin bilgilerin tümü” olarak tanımlanmaktadır. Dolayısıyla insanın maddi çevresini denetleyip değiştirebildiği tüm aletler; makas, kürek, araba, uçak, bilgisayar gibi, taş devrinden beri kullanılanlardan iki binli yıllara kadar kullanılanların hepsi bir teknolojidir.
+    > **Açıklama:** Bu soru "Sanat, Teknoloji ve İlgili Kavramlar" başlığından türetilmiştir.<br />Türk Dil Kurumuna göre teknoloji: “İnsanın maddi çevresini denetlemek ve değiştirmek amacıyla<br />geliştirdiği araç gereçlerle bunlara ilişkin bilgilerin tümü” olarak tanımlanmaktadır. Dolayısıyla insanın maddi çevresini denetleyip değiştirebildiği tüm aletler; makas, kürek, araba, uçak, bilgisayar gibi, taş devrinden beri kullanılanlardan iki binli yıllara kadar kullanılanların hepsi bir teknolojidir.
 
     <hr />
 1. Bilinen ilk görsel sanat örnekleri aşağıdakilerden hangisidir?
@@ -436,9 +328,7 @@
     - D-) Ana tanrıça heykelleri
     - E-) Tapınaklar
 
-    > **Açıklama:** Bu soru "Sanat, Teknoloji ve İlgili Kavramlar" başlığından türetilmiştir.
-    > Sanat alanında da teknoloji elbette ki özellikle görsel sanatlarda her zaman için önemli olmuştur.
-    > Bilinen ilk görsel sanat örnekleri olan kaya resimleri insanların geliştirdiği aletler yoluyla yapılmıştır; ister bu imgeler bir kayaya kazınmış olsun veya ister tavana boyanmış, hepsi de bir teknolojinin yardımı ile yapılmıştır.
+    > **Açıklama:** Bu soru "Sanat, Teknoloji ve İlgili Kavramlar" başlığından türetilmiştir.<br />Sanat alanında da teknoloji elbette ki özellikle görsel sanatlarda her zaman için önemli olmuştur.<br />Bilinen ilk görsel sanat örnekleri olan kaya resimleri insanların geliştirdiği aletler yoluyla yapılmıştır; ister bu imgeler bir kayaya kazınmış olsun veya ister tavana boyanmış, hepsi de bir teknolojinin yardımı ile yapılmıştır.
 
     <hr />
 1. Aşağıdakilerden hangisi yeni medyanın özelliklerinden biridir?
@@ -448,15 +338,7 @@
     - D-) Analog olması
     - E-) Sayısal öğelerden bağımsız olması
 
-    > **Açıklama:** Bu soru "Yeni Medya" başlığından türetilmiştir.
-    > Yeni medyanın en çok öne çıkan özelliği dijital olmasıdır. Yeni medya ortamında deneyimlenen her şey birler ve sıfırlardan, matematiksel kodlarla üretilmiştir. Örneğin geleneksel medyadaki kitap
-    > örneğinden farklı olarak bir internet sitesindeki resimler mürekkepten değil, sayılarla oluşturulmuştur. Yeni medya tanımlanırken altı temel özellik belirtilmektedir :
-    > • Sayısal (dijital)
-    > • Etkileşimli
-    > • Üstmetinsel (hypertextual)
-    > • Sanal
-    > • Ağ tabanlı
-    > • Simüle edilmiş olmasıdır.
+    > **Açıklama:** Bu soru "Yeni Medya" başlığından türetilmiştir.<br />Yeni medyanın en çok öne çıkan özelliği dijital olmasıdır. Yeni medya ortamında deneyimlenen her şey birler ve sıfırlardan, matematiksel kodlarla üretilmiştir. Örneğin geleneksel medyadaki kitap<br />örneğinden farklı olarak bir internet sitesindeki resimler mürekkepten değil, sayılarla oluşturulmuştur. Yeni medya tanımlanırken altı temel özellik belirtilmektedir :<br />• Sayısal (dijital)<br />• Etkileşimli<br />• Üstmetinsel (hypertextual)<br />• Sanal<br />• Ağ tabanlı<br />• Simüle edilmiş olmasıdır.
 
     <hr />
 1. 1960 yılından 1990’lı yıllara kadar multimedya (çoklu ortam) sanatına verilen ad aşağıdakilerden hangisidir?
@@ -466,9 +348,7 @@
     - D-) Postmodern sanat
     - E-) Kavramsal sanat
 
-    > **Açıklama:** Bu soru "Sanatın Yeni Alanı Yeni Medya" başlığından türetilmiştir.
-    > 1960 yılından 1990’lı yıllara kadar multimedya (çoklu ortam) sanatı, etkileşimli sanatlar
-    > ve siber sanatlar adı altında da isimlendirilmiştir.
+    > **Açıklama:** Bu soru "Sanatın Yeni Alanı Yeni Medya" başlığından türetilmiştir.<br />1960 yılından 1990’lı yıllara kadar multimedya (çoklu ortam) sanatı, etkileşimli sanatlar<br />ve siber sanatlar adı altında da isimlendirilmiştir.
 
     <hr />
 1. Bir romanın sinema filmi olarak yeniden üretilmesi aşağıdaki hangi kavram ile açıklanabilir?
@@ -478,8 +358,7 @@
     - **Cevap D-) Tekrar ortamlandırma**
     - E-) Simüle edilmiş ortam
 
-    > **Açıklama:** Bu soru "Sanatın Yeni Alanı Yeni Medya" başlığından türetilmiştir.
-    > Dikkat çekilmesi gereken bir diğer husus “remediation (tekrar ortamlandırma)” kavramıdır. Bu kavrama göre örneğin Yüzüklerin Efendisi romanı sinema filmi olarak üretildiğinde yeniden ortamlanmıştır. Yeni ortam eski ortam ile karşılaşmakta ve kendi özellikleri ile içeriği yeniden ele almaktadır.
+    > **Açıklama:** Bu soru "Sanatın Yeni Alanı Yeni Medya" başlığından türetilmiştir.<br />Dikkat çekilmesi gereken bir diğer husus “remediation (tekrar ortamlandırma)” kavramıdır. Bu kavrama göre örneğin Yüzüklerin Efendisi romanı sinema filmi olarak üretildiğinde yeniden ortamlanmıştır. Yeni ortam eski ortam ile karşılaşmakta ve kendi özellikleri ile içeriği yeniden ele almaktadır.
 
     <hr />
 1. Temelini sanatçının yazdığı kodlarda bulan yaratıcı işleri tanımlamak için kullanılan kavram aşağıdakilerden hangisidir?
@@ -489,8 +368,7 @@
     - D-) Bozunma sanatı
     - **Cevap E-) Yazılım sanatı**
 
-    > **Açıklama:** Bu soru "Sanatın Yeni Alanı Yeni Medya" başlığından türetilmiştir.
-    > Yazılım sanatı, temelini sanatçının yazdığı kodlarda bulan yaratıcı işleri tanımlamak için kullanılmaktadır.
+    > **Açıklama:** Bu soru "Sanatın Yeni Alanı Yeni Medya" başlığından türetilmiştir.<br />Yazılım sanatı, temelini sanatçının yazdığı kodlarda bulan yaratıcı işleri tanımlamak için kullanılmaktadır.
 
     <hr />
 1. Temelde medyum ortamının kullanıldığı ve yaşamın, evrimin, toplumun ve sanatın geleceği hakkındaki konulara odaklanan sanata verilen ad hangidir?
@@ -500,10 +378,7 @@
     - D-) Etkileşimli sanat
     - E-) Bozunma sanatı
 
-    > **Açıklama:** Bu soru "Sanatın Yeni Alanı Yeni Medya" başlığından türetilmiştir.
-    > Biyosanat, biyoteknolojinin ortam (medyum) olarak kullanıldığı bir sanat türüdür. Temelde yaşamın, evrimin, toplumun ve sanatın geleceği hakkındaki konulara odaklanılmıştır. Kendi içerisinde
-    > farklı alanlara ayrılmış olsa da iki binli yılların ilk çeyreğinde genetik, nörofizyoloji, hücre ve doku
-    > kültürleri üzerinde deneysel çalışmalar yapılmaktadır.
+    > **Açıklama:** Bu soru "Sanatın Yeni Alanı Yeni Medya" başlığından türetilmiştir.<br />Biyosanat, biyoteknolojinin ortam (medyum) olarak kullanıldığı bir sanat türüdür. Temelde yaşamın, evrimin, toplumun ve sanatın geleceği hakkındaki konulara odaklanılmıştır. Kendi içerisinde<br />farklı alanlara ayrılmış olsa da iki binli yılların ilk çeyreğinde genetik, nörofizyoloji, hücre ve doku<br />kültürleri üzerinde deneysel çalışmalar yapılmaktadır.
 
     <hr />
 1. Aşağıdakilerden hangisi kavramsal sanatın özelliklerinden biri **değildir?**
@@ -513,9 +388,7 @@
     - D-) Sanatın tekil nesneleri dışlanarak, düşünce ön plana konulmuştur.
     - E-) Estetikten önce düşünsel bir algılama yapılması gerekmektedir.
 
-    > **Açıklama:** Bu soru "Kavramsal Sanat" başlığından türetilmiştir.
-    > Kavramsal sanatın temelinde sanatın nesneye olan ihtiyacının sorgulanması yatmaktadır. Sanatçıların bedenlerini kullanarak yaptıkları performans gösterileri, yerleştirme (enstalasyon) ve
-    > çevre düzenlemeleri geleneksel sanat yapıtının tekilliğinin, kalıcılığının ve eserin metalaştırılmasının sorgulanmasını sağladığı gibi aynı zamanda galeri ve müzelerin fiziksel ve ideolojik sınırlarınında aşılmasını sağlamaktadır. Sanatın tekil nesneleri dışlanarak, düşünce ön plana konulmuştur. Bu tip eserlerin deneyimlenebilmesi için estetikten önce düşünsel bir algılama yapılması gerekmektedir.
+    > **Açıklama:** Bu soru "Kavramsal Sanat" başlığından türetilmiştir.<br />Kavramsal sanatın temelinde sanatın nesneye olan ihtiyacının sorgulanması yatmaktadır. Sanatçıların bedenlerini kullanarak yaptıkları performans gösterileri, yerleştirme (enstalasyon) ve<br />çevre düzenlemeleri geleneksel sanat yapıtının tekilliğinin, kalıcılığının ve eserin metalaştırılmasının sorgulanmasını sağladığı gibi aynı zamanda galeri ve müzelerin fiziksel ve ideolojik sınırlarınında aşılmasını sağlamaktadır. Sanatın tekil nesneleri dışlanarak, düşünce ön plana konulmuştur. Bu tip eserlerin deneyimlenebilmesi için estetikten önce düşünsel bir algılama yapılması gerekmektedir.
 
     <hr />
 1. Resimsel tasvirden kavramsal sorgulamaya ve seyirci ile etkileşime geçişe önayak olan ve yeni medyanın da öncülerinden kabul edilen sanat akımı hangisidir?
@@ -525,8 +398,7 @@
     - D-) Işık sanatı
     - E-) Feminist sanat
 
-    > **Açıklama:** Bu soru "Sanat Akımlarının Etkisi" başlığından türetilmiştir.
-    > Dada sanatçılarının önde gelen isimlerinden Marcel Duchamp’ın da yeni medya sanatı üzerinde güçlü etkileri olmuştur. Duchamp’ın çalışmaları resimsel tasvirden kavramsal sorgulamaya ve seyirci ile etkileşime geçişe önayak olmuştur. Yaptığı optik efektlere sahip kinetik heykeller ile seyirci katılımını öne çıkarmıştır. 20. yy sanat tarihinin en ünlü ve önemli eserlerinden biri olan Duchamp’ın “Pisuvarı” da hazır nesne kullanımının sanat eserlerinde görülmesi açısından bir mihenk taşı sayılmaktadır.
+    > **Açıklama:** Bu soru "Sanat Akımlarının Etkisi" başlığından türetilmiştir.<br />Dada sanatçılarının önde gelen isimlerinden Marcel Duchamp’ın da yeni medya sanatı üzerinde güçlü etkileri olmuştur. Duchamp’ın çalışmaları resimsel tasvirden kavramsal sorgulamaya ve seyirci ile etkileşime geçişe önayak olmuştur. Yaptığı optik efektlere sahip kinetik heykeller ile seyirci katılımını öne çıkarmıştır. 20. yy sanat tarihinin en ünlü ve önemli eserlerinden biri olan Duchamp’ın “Pisuvarı” da hazır nesne kullanımının sanat eserlerinde görülmesi açısından bir mihenk taşı sayılmaktadır.
 
     <hr />
 ## Unite 2
@@ -607,11 +479,7 @@
     - D-) Paralel Kurgu
     - E-) Paralelleştirilen kurgu
 
-    > **Açıklama:** Kurgu türleri de pek çok bakımdan sınıflandırılabilir. Bülent Küçükerdoğan’ın sınıflandırmasında (Küçükerdoğan, Yavuz ve Zengin, 2005) zaman ve mekan etmenlerine göre kurgu türleri:
-    > • Anlatı Kurgusu
-    > • Nedensel Kurgu
-    > • Paralel Kurgu
-    > • Paralelleştirilen kurgu türleridir
+    > **Açıklama:** Kurgu türleri de pek çok bakımdan sınıflandırılabilir. Bülent Küçükerdoğan’ın sınıflandırmasında (Küçükerdoğan, Yavuz ve Zengin, 2005) zaman ve mekan etmenlerine göre kurgu türleri:<br />• Anlatı Kurgusu<br />• Nedensel Kurgu<br />• Paralel Kurgu<br />• Paralelleştirilen kurgu türleridir
 
     <hr />
 1. Metaverse fikrini Philip Rosedale hangi yılda Second Life adlı oyunla hayata geçirmeye çalışmıştır?
@@ -641,8 +509,7 @@
     - D-) Aristoteles
     - E-) Hegel
 
-    > **Açıklama:** Platon’a göre; bir şeyin güzel olmasını sağlayan tek şeyin güzelin kendisinin o şeydeki varlığı,
-    > ya da o şeyin güzelin kendisinden aldığı paydır (Platon, 1995; 88). Platon’a göre akıl her şeyin üstündedir. Duyular değişken olduklarından geçicidir. Kalıcı olan akıldır. Dolayısıyla; güzel anlayışı güzellik ideasının somutlaşmasıdır.
+    > **Açıklama:** Platon’a göre; bir şeyin güzel olmasını sağlayan tek şeyin güzelin kendisinin o şeydeki varlığı,<br />ya da o şeyin güzelin kendisinden aldığı paydır (Platon, 1995; 88). Platon’a göre akıl her şeyin üstündedir. Duyular değişken olduklarından geçicidir. Kalıcı olan akıldır. Dolayısıyla; güzel anlayışı güzellik ideasının somutlaşmasıdır.
 
     <hr />
 1. Felsefe tarihinde estetik kavramını ilk kullanan Alman filozof aşağıdakilerden hangisidir?
@@ -652,8 +519,7 @@
     - **Cevap D-) Baumgarten**
     - E-) Delacroix
 
-    > **Açıklama:** Yunanca “aisthanesthai” (duymak, algılamak) ve “aisthesis” (duygu, duyum) kavramlarından gelen estetik kelimesi, günümüzde kullanılan anlamıyla ilk kez Alman filozof Baumgarten tarafından
-    > 1750’de yayımladığı “Aesthetica” adlı yapıtında kullanılmıştır. Felsefe tarihinde estetik kavramını ilk kullanan filozof olan Baumgarten, akla kıyasla daha alt seviyedeki duygulardan gelen bilginin bilimi üzerinde durmuştur.
+    > **Açıklama:** Yunanca “aisthanesthai” (duymak, algılamak) ve “aisthesis” (duygu, duyum) kavramlarından gelen estetik kelimesi, günümüzde kullanılan anlamıyla ilk kez Alman filozof Baumgarten tarafından<br />1750’de yayımladığı “Aesthetica” adlı yapıtında kullanılmıştır. Felsefe tarihinde estetik kavramını ilk kullanan filozof olan Baumgarten, akla kıyasla daha alt seviyedeki duygulardan gelen bilginin bilimi üzerinde durmuştur.
 
     <hr />
 1. Aşağıdakilerden hangisi yeni şeyler üretilmesinin yanında nesnelerin yeniden biçimlendirilerek amaçlandırıldığı, yeni içeriklerle ilişkilendirilen bir süreci ifade etmektedir?
@@ -663,9 +529,7 @@
     - D-) Dijital kültür
     - E-) Dijital kimlik
 
-    > **Açıklama:** Yaşadığımız dijital zamanın teknolojisinden beslenen sanat ya da dijital teknolojilerin özelliklerini taşıması ve bu kavramlarla adlandırılması gerekir. Dijital ortamda bilgisayar vasıtasıyla oluşturulan sanat şeklinde tanımlansa da dijital sanat kavramı sadece kod, yazılım veya veri yardımıyla anlatılan ya da oluşan maddesiz sanat durumunu kapsamaz. Bununla birlikte dijital medyayı kullanan enstalasyonları ve gerçek olarak adlandırdığımız yapımları da içermektedir. Üretim şekillerinin bir bölümü olan ve karşımıza böyle çıkan, dijital teknolojileri kullanan sanatlar dışında (NFT gibi) bu teknolojilerin oluşumsal özelliklerinin sanatın zeminini hazırladığı alternatif ve değişik yazılımlar, etkileşimsel sanat işleri dijital sanatlar kavramları içinde bulunur. Aslında dijital sanat, yeni şeyler üretilmesinin yanında nesnelerin yeniden biçimlendirilerek amaçlandırıldığı, yeni içeriklerle ilişkilendirilen bir süreci ifade etmektedir. Üretici (sanatçı, yorumcu), gözüken probleme yönelik,
-    > belirlenen işlemler
-    > Dijital sanat, yeni şeyler üretilmesinin yanında nesnelerin yeniden biçimlendirilerek amaçlandırıldığı, yeni içeriklerle ilişkilendirilen bir süreci ifade etmektedir. Üretici (sanatçı, yorumcu), gözüken probleme yönelik, belirlenen işlemler ardından mümkün görülen en pratik ve anlaşılır biçimde çözülmesini arzu eder ve buna göre üretimde bulunur.
+    > **Açıklama:** Yaşadığımız dijital zamanın teknolojisinden beslenen sanat ya da dijital teknolojilerin özelliklerini taşıması ve bu kavramlarla adlandırılması gerekir. Dijital ortamda bilgisayar vasıtasıyla oluşturulan sanat şeklinde tanımlansa da dijital sanat kavramı sadece kod, yazılım veya veri yardımıyla anlatılan ya da oluşan maddesiz sanat durumunu kapsamaz. Bununla birlikte dijital medyayı kullanan enstalasyonları ve gerçek olarak adlandırdığımız yapımları da içermektedir. Üretim şekillerinin bir bölümü olan ve karşımıza böyle çıkan, dijital teknolojileri kullanan sanatlar dışında (NFT gibi) bu teknolojilerin oluşumsal özelliklerinin sanatın zeminini hazırladığı alternatif ve değişik yazılımlar, etkileşimsel sanat işleri dijital sanatlar kavramları içinde bulunur. Aslında dijital sanat, yeni şeyler üretilmesinin yanında nesnelerin yeniden biçimlendirilerek amaçlandırıldığı, yeni içeriklerle ilişkilendirilen bir süreci ifade etmektedir. Üretici (sanatçı, yorumcu), gözüken probleme yönelik,<br />belirlenen işlemler<br />Dijital sanat, yeni şeyler üretilmesinin yanında nesnelerin yeniden biçimlendirilerek amaçlandırıldığı, yeni içeriklerle ilişkilendirilen bir süreci ifade etmektedir. Üretici (sanatçı, yorumcu), gözüken probleme yönelik, belirlenen işlemler ardından mümkün görülen en pratik ve anlaşılır biçimde çözülmesini arzu eder ve buna göre üretimde bulunur.
 
     <hr />
 1. "Organizmanın sürekli devam eden veya tekrarlanan bir uyarılmaya maruz kalınması sonucu hassasiyetin azalması" ifadesi aşağıdakilerden hangisinin tanımıdır?
@@ -675,8 +539,7 @@
     - D-) Fark eşiği
     - **Cevap E-) Duyusal uyum**
 
-    > **Açıklama:** Duyumsal Uyum ve Etkileri: Arkonaç’a (2005) göre “Duyusal uyum, organizmanın sürekli
-    > devam eden veya tekrarlanan bir uyarılmaya maruz kalınması sonucu hassasiyetin azalması demektir.”
+    > **Açıklama:** Duyumsal Uyum ve Etkileri: Arkonaç’a (2005) göre “Duyusal uyum, organizmanın sürekli<br />devam eden veya tekrarlanan bir uyarılmaya maruz kalınması sonucu hassasiyetin azalması demektir.”
 
     <hr />
 1. Aşağıdakilerden hangisi uyarıcıların bir bütün olarak algılanmasını ifade eder?
@@ -686,11 +549,7 @@
     - D-) Seçimleyici algılama
     - E-) Duygusal algılama
 
-    > **Açıklama:** Algıda Organizasyon: Uyarıcıların bir bütün olarak algılanması algıda organizasyonu oluşturur.
-    > Bu algının en önemli özelliğidir. Her obje bir zemin üzerinde algılanır. Kişiler algılanacak objeleri
-    > bazı özelliklerinden dolayı gruplandırır ve birlikte algılar. Birbirine yakın olan objeler, birbirine benzeyen objeler, sürekliliği olan objeler birlikte algılanır. Önceden kişi tarafından algılanmış objeler
-    > eksik olsa bile kişi tarafından ilk algılandıkları tam şekilleriyle algılanır.
-    > Uyarıcıların bir bütün olarak algılanması algıda organizasyonu oluşturur. Her obje bir zemin üzerinde algılanır. Kişiler algılanacak objeleribazı özelliklerinden dolayı gruplandırır ve birlikte algılar. Birbirine yakın olan objeler, birbirine benzeyen objeler, sürekliliği olan objeler birlikte algılanır.
+    > **Açıklama:** Algıda Organizasyon: Uyarıcıların bir bütün olarak algılanması algıda organizasyonu oluşturur.<br />Bu algının en önemli özelliğidir. Her obje bir zemin üzerinde algılanır. Kişiler algılanacak objeleri<br />bazı özelliklerinden dolayı gruplandırır ve birlikte algılar. Birbirine yakın olan objeler, birbirine benzeyen objeler, sürekliliği olan objeler birlikte algılanır. Önceden kişi tarafından algılanmış objeler<br />eksik olsa bile kişi tarafından ilk algılandıkları tam şekilleriyle algılanır.<br />Uyarıcıların bir bütün olarak algılanması algıda organizasyonu oluşturur. Her obje bir zemin üzerinde algılanır. Kişiler algılanacak objeleribazı özelliklerinden dolayı gruplandırır ve birlikte algılar. Birbirine yakın olan objeler, birbirine benzeyen objeler, sürekliliği olan objeler birlikte algılanır.
 
     <hr />
 1. “Titanik” filminde Rose Dawson kurtulmaya çalışırken gösterilen geminin batış anı ya da saha ajanı ve masa başı ajanın aynı anda gelişen hikayelerini anlatan “Casus” hangi kurgu türüne örnek olarak verilebilir?
@@ -700,10 +559,7 @@
     - D-) Anlatı kurgusu
     - E-) Paralelleştirilen kurgu
 
-    > **Açıklama:** Paralel kurguda ise aynı anda gelişmekte olan iki ya da daha fazla olay aktarılmaktadır. “Filmlerde sıklıkla kullanılan bir başka teknik ise iki sahne arasında gidip gelen kesmelerle eş zamanlı olayların anlatıldığı paralel kurgudur. Paralel kurgu aynı zamanda zıtlıkları vurgulamak için de kullanılır.
-    > Paralel kurgu birbiriyle alakalı iki plan arasında gerilimli ilişki kurar.” (Rnwell J., 2011) Bu nedenle
-    > filmin en az iki farklı mekanda kurgulanıyor olması gerekmektedir. Bu kurgu türüne “Titanik” filminde Rose Dawson kurtulmaya çalışırken gösterilen geminin batış anı ya da saha ajanı ve masa başı ajanın paralel hikayelerini anlatan “Casus” örnek gösterilebilir.
-    > Paralel kurgu türüne “Titanik” filminde Rose Dawson kurtulmaya çalışırken gösterilen geminin batış anı ya da saha ajanı ve masa başı ajanın paralel hikayelerini anlatan “Casus” örnek gösterilebilir.
+    > **Açıklama:** Paralel kurguda ise aynı anda gelişmekte olan iki ya da daha fazla olay aktarılmaktadır. “Filmlerde sıklıkla kullanılan bir başka teknik ise iki sahne arasında gidip gelen kesmelerle eş zamanlı olayların anlatıldığı paralel kurgudur. Paralel kurgu aynı zamanda zıtlıkları vurgulamak için de kullanılır.<br />Paralel kurgu birbiriyle alakalı iki plan arasında gerilimli ilişki kurar.” (Rnwell J., 2011) Bu nedenle<br />filmin en az iki farklı mekanda kurgulanıyor olması gerekmektedir. Bu kurgu türüne “Titanik” filminde Rose Dawson kurtulmaya çalışırken gösterilen geminin batış anı ya da saha ajanı ve masa başı ajanın paralel hikayelerini anlatan “Casus” örnek gösterilebilir.<br />Paralel kurgu türüne “Titanik” filminde Rose Dawson kurtulmaya çalışırken gösterilen geminin batış anı ya da saha ajanı ve masa başı ajanın paralel hikayelerini anlatan “Casus” örnek gösterilebilir.
 
     <hr />
 1. Philip Rosedale 1999’da Second Life adlı oyunla aşağıdakilerden hangisini hayata geçirmeye çalışmıştır?
@@ -713,10 +569,7 @@
     - **Cevap D-) Metaverse**
     - E-) Dijital evren
 
-    > **Açıklama:** Metaverse için en iyi, internetin yeni nesli olarak anlaşılabileceğini öne sürmektedir. İnternetin üzerine inşa edecek ve onu tekrar tekrar dönüştürecektir. Metaverse fikrini Philip Rosedale 1999’da Second Life adlı oyunla hayata geçirmeye çalışmıştır.
-    > 2021 yılının Ekim ayında sosyal medya devi ve veri baronu olarak görülen Facebook’un CEO’su
-    > Mark Zuckerberg’in Facebook şirketinin adını “Meta” olarak yeniden markalaştığını duyurması ise
-    > çoğu insan tarafından öte evren fikrini yeniden hızlandırmıştı. Metaverse’i sosyal bağlantının bir sonraki bölümü olarak tanımlayan Zuckerberg, onu oluşturmayı destekleyecek Meta için ise “3 boyutlu olarak oynayacağımız ve bağlanacağımız bir yer” olarak ifade etmektedir. Aslında Metaverse kavramı her zaman vardı masallardan, efsanelerden, kitaplardan, sinemadan beslenen ve hep kılıf değiştiren sadece teknolojinin son 30 yılda inanılmaz şekilde gelişmesi ile şekil değiştirerek hayatımıza girmeye hazırlanıyor.
+    > **Açıklama:** Metaverse için en iyi, internetin yeni nesli olarak anlaşılabileceğini öne sürmektedir. İnternetin üzerine inşa edecek ve onu tekrar tekrar dönüştürecektir. Metaverse fikrini Philip Rosedale 1999’da Second Life adlı oyunla hayata geçirmeye çalışmıştır.<br />2021 yılının Ekim ayında sosyal medya devi ve veri baronu olarak görülen Facebook’un CEO’su<br />Mark Zuckerberg’in Facebook şirketinin adını “Meta” olarak yeniden markalaştığını duyurması ise<br />çoğu insan tarafından öte evren fikrini yeniden hızlandırmıştı. Metaverse’i sosyal bağlantının bir sonraki bölümü olarak tanımlayan Zuckerberg, onu oluşturmayı destekleyecek Meta için ise “3 boyutlu olarak oynayacağımız ve bağlanacağımız bir yer” olarak ifade etmektedir. Aslında Metaverse kavramı her zaman vardı masallardan, efsanelerden, kitaplardan, sinemadan beslenen ve hep kılıf değiştiren sadece teknolojinin son 30 yılda inanılmaz şekilde gelişmesi ile şekil değiştirerek hayatımıza girmeye hazırlanıyor.
 
     <hr />
 1. Christopher Nolan tarafından yazılan ve yönetilen bilimkurgu filmi ‘Inception’ da aşağıdakilerden hangi eser iki kez görünmüştür?
@@ -726,11 +579,7 @@
     - D-) Squid Game
     - **Cevap E-) Penrose Merdivenleri**
 
-    > **Açıklama:** Escherian Merdiven Boşluğu: Escherian Stairwell, Penrose merdiven yanılsamasına dayanan viral bir çalışma. Rochester Institute of technology’de Michael Lacanilao tarafından filme alınan video,
-    > görünüşte döngüsel bir merdiven boşluğu yaratmak için düzenlendi, öyle ki birisi her iki yönde
-    > de yürürse başladıkları yere varacaklar.
-    > Bu esere yeni medya penceresinden, popular kültür perspektifinde baktığımızda; Penrose merdivenleri Inception filminde iki kez göründü. Bu paradoksal illüzyon, ancak filmin rüya dünyasında gerçekleştirilebilir. Filmde kahraman, bir muhafızdan kaçarak merdivenlerden iniyor. Gerçek dünyada, kahraman bu kovalamaca boyunca her zaman kötü adamın önünde olmalıdır.
-    > Penrose Merdivenleri, Inception filminde iki kez göründü.
+    > **Açıklama:** Escherian Merdiven Boşluğu: Escherian Stairwell, Penrose merdiven yanılsamasına dayanan viral bir çalışma. Rochester Institute of technology’de Michael Lacanilao tarafından filme alınan video,<br />görünüşte döngüsel bir merdiven boşluğu yaratmak için düzenlendi, öyle ki birisi her iki yönde<br />de yürürse başladıkları yere varacaklar.<br />Bu esere yeni medya penceresinden, popular kültür perspektifinde baktığımızda; Penrose merdivenleri Inception filminde iki kez göründü. Bu paradoksal illüzyon, ancak filmin rüya dünyasında gerçekleştirilebilir. Filmde kahraman, bir muhafızdan kaçarak merdivenlerden iniyor. Gerçek dünyada, kahraman bu kovalamaca boyunca her zaman kötü adamın önünde olmalıdır.<br />Penrose Merdivenleri, Inception filminde iki kez göründü.
 
     <hr />
 1. Aşağıdakilerden hangisi sayesinde kullanıcılar kendi konumlarını, sosyoekonomik sınıflarını, kimliklerini kurgulayıp iletişimde oldukları bireylerle Avatarları vasıtası ile yansıtacak, artırılmış gerçeklik ekipmanları ile bu deneyimi tüm fiziksel varlığı ile yaşıyor algısına sahip olacaklardır?
@@ -740,13 +589,7 @@
     - D-) Bilizzzard
     - E-) Microsoft
 
-    > **Açıklama:** Kullanıcılar NFT’lerle kendi konumlarını, sosyoekonomik sınıflarını, kimliklerini kurgulayıp
-    > iletişimde oldukları bireylerle Avatarları vasıtası ile yansıtacak, artırılmış gerçeklik ekipmanları ile bu
-    > deneyimi tüm fiziksel varlığı ile yaşıyor algısına sahip olacaklardır. Bu sebeple kullanıcılar tasarlanan
-    > fiziki evren içinde, bu üç boyutlu sanal evrende varlıklarını muhataplarının beklentilerine göre tasarlamaktan çekinmemektedir. Özellikle lüks olarak tanımladığımız markalar açısından yeni pazar
-    > olanaklarına dönüşen bu evrenler, kullanıcıların ideal benliklerine uygun dijital ürünler ile yeni
-    > bir tüketim deneyimine ana temeli oluşturmaktadır. Markalar fiziksel mağazalarında yer alan fiziki ürünlerinden daha da pahalıya sattıkları “NFT” ürünler sayesinde tüketim kültürüne yeni bir anlayış getirmişlerdir. “NFT” aslında günümüzde dijital estetiğin maddi getirisi olarak kullanılan en
-    > bariz örneğidir.
+    > **Açıklama:** Kullanıcılar NFT’lerle kendi konumlarını, sosyoekonomik sınıflarını, kimliklerini kurgulayıp<br />iletişimde oldukları bireylerle Avatarları vasıtası ile yansıtacak, artırılmış gerçeklik ekipmanları ile bu<br />deneyimi tüm fiziksel varlığı ile yaşıyor algısına sahip olacaklardır. Bu sebeple kullanıcılar tasarlanan<br />fiziki evren içinde, bu üç boyutlu sanal evrende varlıklarını muhataplarının beklentilerine göre tasarlamaktan çekinmemektedir. Özellikle lüks olarak tanımladığımız markalar açısından yeni pazar<br />olanaklarına dönüşen bu evrenler, kullanıcıların ideal benliklerine uygun dijital ürünler ile yeni<br />bir tüketim deneyimine ana temeli oluşturmaktadır. Markalar fiziksel mağazalarında yer alan fiziki ürünlerinden daha da pahalıya sattıkları “NFT” ürünler sayesinde tüketim kültürüne yeni bir anlayış getirmişlerdir. “NFT” aslında günümüzde dijital estetiğin maddi getirisi olarak kullanılan en<br />bariz örneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi insanların herhangi bir fiziksel çaba harcamadan artırılmış sanal gerçeklik cihazları yardımıyla tamamen zihinsel olarak kendilerini hissettikleri algısal evreni tanımlamaktadır?
@@ -756,10 +599,7 @@
     - **Cevap D-) Metaverse**
     - E-) Minecraft
 
-    > **Açıklama:** İnsanların herhangi bir fiziksel çaba harcamadan artırılmış sanal gerçeklik cihazları yardımıyla
-    > tamamen zihinsel olarak kendilerini hissettikleri algısal evrene metaverse ya da sanal evren denilmektedir. Bu evren bilgisayarlar, android cihazlar ve 3D cihazlar yardımıyla insan bilişinin yapay
-    > bir fiziksel ortama dâhil olmasını sağlamaktadır. Kurgusal mekânlar olarak adlandırılan metaverse
-    > için uzlaşılan tek bir tanım olmamakla birlikte; bireyler, şirketler ve yöneticiler tarafından çeşitlilik göstermektedir.
+    > **Açıklama:** İnsanların herhangi bir fiziksel çaba harcamadan artırılmış sanal gerçeklik cihazları yardımıyla<br />tamamen zihinsel olarak kendilerini hissettikleri algısal evrene metaverse ya da sanal evren denilmektedir. Bu evren bilgisayarlar, android cihazlar ve 3D cihazlar yardımıyla insan bilişinin yapay<br />bir fiziksel ortama dâhil olmasını sağlamaktadır. Kurgusal mekânlar olarak adlandırılan metaverse<br />için uzlaşılan tek bir tanım olmamakla birlikte; bireyler, şirketler ve yöneticiler tarafından çeşitlilik göstermektedir.
 
     <hr />
 1. Kökeni, Yunanca “duyu organlarıyla algılanabilen şeyler, görülenler” anlamına gelen sözcük hangisidir?
@@ -829,11 +669,7 @@
     - D-) Nedensel Kurgu
     - E-) Anlatı Kurgusu
 
-    > **Açıklama:** Bülent Küçükerdoğan’ın sınıflandırmasında (Küçükerdoğan, Yavuz ve Zengin, 2005) zaman ve mekan etmenlerine göre kurgu türleri:
-    > • Anlatı Kurgusu
-    > • Nedensel Kurgu
-    > • Paralel Kurgu
-    > • Paralelleştirilen kurgu türleridir.
+    > **Açıklama:** Bülent Küçükerdoğan’ın sınıflandırmasında (Küçükerdoğan, Yavuz ve Zengin, 2005) zaman ve mekan etmenlerine göre kurgu türleri:<br />• Anlatı Kurgusu<br />• Nedensel Kurgu<br />• Paralel Kurgu<br />• Paralelleştirilen kurgu türleridir.
 
     <hr />
 1. Aşağıdaki filmlerden hangisi nedensel kurguya örnek gösterilebilir?
@@ -1114,10 +950,7 @@
     - D-) II-III
     - E-) Yanlız I
 
-    > **Açıklama:** Ronald Azuma’ya (1997, s. 356) göre artırılmış gerçekliğin üç temel elemanı aşağıdaki gibidir:
-    > • Gerçek ve sanal dünyaları birleştirmelidir.
-    > • Gerçek zamanlı olarak etkileşimlidir.
-    > • Üç boyutlu harekete izin vermelidir.
+    > **Açıklama:** Ronald Azuma’ya (1997, s. 356) göre artırılmış gerçekliğin üç temel elemanı aşağıdaki gibidir:<br />• Gerçek ve sanal dünyaları birleştirmelidir.<br />• Gerçek zamanlı olarak etkileşimlidir.<br />• Üç boyutlu harekete izin vermelidir.
 
     <hr />
 1. Aşağıdakilerden hangisi veya hangileri Sherman ve Craig’e göre sanal gerçekliğin temel elemanlarından sayılır?<br />I-Sanal dünya<br />II-Gömülme (Immersion)<br />III-Kullanıcının girdilerine göre duyusal geribildirim<br />IV- Etkileşim
@@ -1127,11 +960,7 @@
     - D-) III-IV
     - E-) I-IV
 
-    > **Açıklama:** Sherman ve Craig’e göre. (2002, s.6) sanal gerçekliğin 4 temel elemanı aşağıdaki gibidir:
-    > • Sanal dünya
-    > • Gömülme (Immersion)
-    > • Kullanıcının girdilerine göre duyusal geribildirim
-    > • Etkileşim
+    > **Açıklama:** Sherman ve Craig’e göre. (2002, s.6) sanal gerçekliğin 4 temel elemanı aşağıdaki gibidir:<br />• Sanal dünya<br />• Gömülme (Immersion)<br />• Kullanıcının girdilerine göre duyusal geribildirim<br />• Etkileşim
 
     <hr />
 1. Sayısal ortamı deneyimleyenlerin ortamla fiziksel olarak etkileşime girdiği algısının yaratılması aşağıdakilerden hangisidir?
@@ -1191,12 +1020,7 @@
     - D-) Etkileşim
     - **Cevap E-) Karma gerçeklik**
 
-    > **Açıklama:** Sherman ve Craig’e göre sanal gerçekliğin 4 temel elemanı aşağıdaki gibidir:
-    > • Sanal dünya
-    > • Gömülme (Immersion)
-    > • Kullanıcının girdilerine göre duyusal geribildirim
-    > • Etkileşim
-    > Karma gerçeklik
+    > **Açıklama:** Sherman ve Craig’e göre sanal gerçekliğin 4 temel elemanı aşağıdaki gibidir:<br />• Sanal dünya<br />• Gömülme (Immersion)<br />• Kullanıcının girdilerine göre duyusal geribildirim<br />• Etkileşim<br />Karma gerçeklik
 
     <hr />
 1. Sayısal ortam ile etkileşime giren kullanıcıların, ortamla fiziksel olarak etkileşime girdikleri algısının yaratılmasına ne denmektedir?
@@ -1216,8 +1040,7 @@
     - D-) Robert Barker
     - E-) Oliver Grau
 
-    > **Açıklama:** Duchamp’ın “Rotary Glass Plates (1920)” isimli eseri de çalıştırıldığında sanal özellikler taşımaktadır.
-    > Marcel Duchamp
+    > **Açıklama:** Duchamp’ın “Rotary Glass Plates (1920)” isimli eseri de çalıştırıldığında sanal özellikler taşımaktadır.<br />Marcel Duchamp
 
     <hr />
 1. Siber kültür ve siberpunk gibi kavramların kapısını aralayan Neuromencer romanı kim tarafından yazılmılştır?
@@ -1257,8 +1080,7 @@
     - D-) Red Libre Red Visible (2004)
     - E-) E-Tree (2008)
 
-    > **Açıklama:** Yeni medya sanatı alanında artırılmış gerçeklik, donanım ve yazılımlar geliştirilirken adım adım ilerlemiştir. Öncü sayılabilecek çalışmaların arasında “Augmented Groove (2000)”, “LifeClipper (2004)”, “Red Libre Red Visible (2004)”, “Debbusy 3.0 Bale Gösterisi”, “E-Tree (2008)” gibi çalışmalar bulunmaktadır (Portalés, 2018).
-    > The Matrix
+    > **Açıklama:** Yeni medya sanatı alanında artırılmış gerçeklik, donanım ve yazılımlar geliştirilirken adım adım ilerlemiştir. Öncü sayılabilecek çalışmaların arasında “Augmented Groove (2000)”, “LifeClipper (2004)”, “Red Libre Red Visible (2004)”, “Debbusy 3.0 Bale Gösterisi”, “E-Tree (2008)” gibi çalışmalar bulunmaktadır (Portalés, 2018).<br />The Matrix
 
     <hr />
 1. Yönetmen Oscar Sharp ve yapay zekâ uzmanı Ross Goodwin’in ortak çalışmalarında kullandığı yazılımın adı nedir?
@@ -1358,12 +1180,7 @@
     - D-) Kullanıcının girdilerine göre duyusal geribildirim
     - E-) Etkileşim
 
-    > **Açıklama:** Bilgisayar tarafından oluşturulmuş simüle edilmiş sayısal evrenin gerçek bir dünya gibi deneyimlenmesi amacıyla yapılan ortamlara sanal gerçeklik denmektedir. Sherman & Craig'e göre (2002, s.6) sanal gerçekliğin 4 temel elemanı şu şekildedir:
-    > Sanal Dünya
-    > Gömülme
-    > Kullanıcın girdilerine göre duyusal geribildirim
-    > Etkileşim
-    > Sorudaki A seçeneği "Soyutlama" sanal gerçekliğin bir elemanı değildir.
+    > **Açıklama:** Bilgisayar tarafından oluşturulmuş simüle edilmiş sayısal evrenin gerçek bir dünya gibi deneyimlenmesi amacıyla yapılan ortamlara sanal gerçeklik denmektedir. Sherman & Craig'e göre (2002, s.6) sanal gerçekliğin 4 temel elemanı şu şekildedir:<br />Sanal Dünya<br />Gömülme<br />Kullanıcın girdilerine göre duyusal geribildirim<br />Etkileşim<br />Sorudaki A seçeneği "Soyutlama" sanal gerçekliğin bir elemanı değildir.
 
     <hr />
 1. Aşağıdakilerden hangisi artırılmış gerçeklik, karma gerçeklik ve sanal gerçeklikleri tek bir çatı altında toplayan terimdir?
@@ -1644,8 +1461,7 @@
     - **Cevap D-) Torino papirüs haritası**
     - E-) Lascaux mağarası resimleri
 
-    > **Açıklama:** ![Torino Papirüs Haritası](https://ets.anadolu.edu.tr/storage/nfs/questions/ed82e5cca8ca2f78464ca01a329232dc.jpeg)
-    > İlk belgelenmiş veri görselleştirmesi jeolojik kaynakların ne şekilde dağıldığını gösteren ve bu kaynaklar hakkında bilgi sağlayan Torino Papirüs Haritası ile MÖ 1160 yılına kadar izlenebilir.
+    > **Açıklama:** ![Torino Papirüs Haritası](https://ets.anadolu.edu.tr/storage/nfs/questions/ed82e5cca8ca2f78464ca01a329232dc.jpeg)<br />İlk belgelenmiş veri görselleştirmesi jeolojik kaynakların ne şekilde dağıldığını gösteren ve bu kaynaklar hakkında bilgi sağlayan Torino Papirüs Haritası ile MÖ 1160 yılına kadar izlenebilir.
 
     <hr />
 1. Değerlerin zaman içinde nasıl değiştiğini göstermek için soldan sağa doğru ilerledikçe yukarı ve aşağı hareket eden bir çizgiyi kullanan ilk kişi kimdir?
@@ -1915,8 +1731,7 @@
     - **Cevap D-) Dataviz**
     - E-) Sankey
 
-    > **Açıklama:** Dataviz:
-    > Dataviz görseller çok büyük oranda bilgisayarlar aracılığı ile algoritmik olarak çizilirler. Bilgisayar kullanıldığı için farklı veriler kullanarak yeniden oluşturulması çok daha kolaydır. Aynı şekil farklı veri kümelerini temsil edecek şekilde yeniden kullanılabilirler. Büyük hacimli verilere uygulanabildiğinden infografiklere göre veri açısından zengindir. Fakat büyük verileri görselleştirmek için kullanılan dataviz yöntemi estetik açıdan infografiklere göre daha zayıf kalır. Doğru cevap D'dir.
+    > **Açıklama:** Dataviz:<br />Dataviz görseller çok büyük oranda bilgisayarlar aracılığı ile algoritmik olarak çizilirler. Bilgisayar kullanıldığı için farklı veriler kullanarak yeniden oluşturulması çok daha kolaydır. Aynı şekil farklı veri kümelerini temsil edecek şekilde yeniden kullanılabilirler. Büyük hacimli verilere uygulanabildiğinden infografiklere göre veri açısından zengindir. Fakat büyük verileri görselleştirmek için kullanılan dataviz yöntemi estetik açıdan infografiklere göre daha zayıf kalır. Doğru cevap D'dir.
 
     <hr />
 1. Aşağıdakilerden hangisi, verilerin üç boyutunu görüntüleyen bir grafik türüne verilen addır?
@@ -1946,8 +1761,7 @@
     - D-) Daha hızlı anlaşılma sağladığı için hata payını en aza indirir
     - E-) Verilerin erişilebilir, açık ve anlaşılır olmasını sağlar.
 
-    > **Açıklama:** Veri bilimi açısından kaynağından toplanıp istiflenmiş ama analize
-    > hazır hale getirilmemiş veridir
+    > **Açıklama:** Veri bilimi açısından kaynağından toplanıp istiflenmiş ama analize<br />hazır hale getirilmemiş veridir
 
     <hr />
 1. Büyük veri nedir?
@@ -1957,8 +1771,7 @@
     - D-) Daha hızlı anlaşılma sağladığı için hata payını en aza indirir
     - E-) Gelişme ve iyileşme yolunda yapılması gerekenlerin daha iyi anlaşılmasını sağlar
 
-    > **Açıklama:** Toplumsal medya paylaşımları, ağ günlükleri ,bloglar, fotoğraf, video, log dosyaları gibi değişik kaynaklardan
-    > toparlanan tüm verinin, anlamlı ve işlenebilir biçime dönüştürülmüş biçimine denir
+    > **Açıklama:** Toplumsal medya paylaşımları, ağ günlükleri ,bloglar, fotoğraf, video, log dosyaları gibi değişik kaynaklardan<br />toparlanan tüm verinin, anlamlı ve işlenebilir biçime dönüştürülmüş biçimine denir
 
     <hr />
 1. Aşağıdakilerden hangisi Veri görselleştirmenin önemlerinden biri değildir?
@@ -1968,8 +1781,7 @@
     - D-) Bilginin daha hızlı bir şekilde anlaşılmasına, buna bağlı iç görüler geliştirilmesine ve kararların daha çabuk alınmasına yardımcı olur
     - **Cevap E-) Toplumsal medya paylaşımları, ağ günlükleri ,bloglar, fotoğraf, video, log dosyaları gibi değişik kaynaklardan toparlanan tüm verinin, anlamlı ve işlenebilir biçime dönüştürülmüş biçimine denir**
 
-    > **Açıklama:** Toplumsal medya paylaşımları, ağ günlükleri ,bloglar, fotoğraf, video, log dosyaları gibi değişik kaynaklardan
-    > toparlanan tüm verinin, anlamlı ve işlenebilir biçime dönüştürülmüş biçimine denir
+    > **Açıklama:** Toplumsal medya paylaşımları, ağ günlükleri ,bloglar, fotoğraf, video, log dosyaları gibi değişik kaynaklardan<br />toparlanan tüm verinin, anlamlı ve işlenebilir biçime dönüştürülmüş biçimine denir
 
     <hr />
 1. Aşağıdakilerden hangisi veri görselleştirmenin faydalarından değildir?
@@ -1999,12 +1811,7 @@
     - D-) Frekans dağılımı
     - E-) korelasyon
 
-    > **Açıklama:** Büyük ölçekli veriler
-    > arasından faydalı bilgiye ulaşma, bilgiyi
-    > madenleme işidir. Büyük veri yığınları
-    > içerisinden gelecekle ilgili tahminde bulunabilmemizi sağlayabilecek bağıntıların
-    > bilgisayar programı kullanarak aranması
-    > olarak da tanımlanabilir.
+    > **Açıklama:** Büyük ölçekli veriler<br />arasından faydalı bilgiye ulaşma, bilgiyi<br />madenleme işidir. Büyük veri yığınları<br />içerisinden gelecekle ilgili tahminde bulunabilmemizi sağlayabilecek bağıntıların<br />bilgisayar programı kullanarak aranması<br />olarak da tanımlanabilir.
 
     <hr />
 1. Aşağıdakilerden hangisi veri görselleştirme türüdür?
@@ -2245,8 +2052,7 @@
     - D-) Phase IV
     - E-) Alien
 
-    > **Açıklama:** Martin Minsky ise bilgisayarı insan davranışını yöneten kurallara göre önceden programlama yani yukarıdan aşağıya yaklaşımı ile programlamayı o dönem yaygın görüş haline getirmiştir. Minsky, akıllı bilgisayar HAL 9000’in yer aldığı, Stanley Kubrick’ın meşhur filmi 2001: A Space Odyssey filminin de danışmanıdır.
-    > Martin Minsky, akıllı bilgisayar HAL9000'in yer aldığı 2001: A Space Odyssey filmin danışmanıdır.
+    > **Açıklama:** Martin Minsky ise bilgisayarı insan davranışını yöneten kurallara göre önceden programlama yani yukarıdan aşağıya yaklaşımı ile programlamayı o dönem yaygın görüş haline getirmiştir. Minsky, akıllı bilgisayar HAL 9000’in yer aldığı, Stanley Kubrick’ın meşhur filmi 2001: A Space Odyssey filminin de danışmanıdır.<br />Martin Minsky, akıllı bilgisayar HAL9000'in yer aldığı 2001: A Space Odyssey filmin danışmanıdır.
 
     <hr />
 1. Aşağıdaki türlerden hangisi Elektronik edebiyatta **yer almaz?**
@@ -2256,8 +2062,7 @@
     - **Cevap D-) Elektronik kompozisyon**
     - E-) Üretken metin
 
-    > **Açıklama:** Elektronik edebiyat Hiper metin şiir, hiper metin kurgu, etkileşimli kurgu, kinetik şiir, üretken metin, etkileşimli tiyatro gibi pek çok türü barındırır.
-    > Elektronik kompozisyon Elektronik edebiyatta yer almaz.
+    > **Açıklama:** Elektronik edebiyat Hiper metin şiir, hiper metin kurgu, etkileşimli kurgu, kinetik şiir, üretken metin, etkileşimli tiyatro gibi pek çok türü barındırır.<br />Elektronik kompozisyon Elektronik edebiyatta yer almaz.
 
     <hr />
 1. Aşağıdakilerden hangisi Theo Lutz'un 1959 yılında 'Stochastische Texte' stokastik metinler adını verdiği bilgisayarda yaratılmış şiir ile ilgili bilgiler **yanlıştır****?**
@@ -2267,8 +2072,7 @@
     - D-) 70 Satırlık bilgisayar yapımı bir şiirdir
     - E-) Franz Kafka'nın Das Schloss adlı romanından metinler kullanılmıştır
 
-    > **Açıklama:** Elektronik Edebiyat eseri olarak sınıflandırılabilen ilk metnin (Lutz, 1959, s. 3-9) yazarı olarak kabul edilen Theo Lutz, ‘rastlantısal’ metinlerinden sonra edebi değeri olan birkaç eser daha üretmiştir (Funkhouser, 2012, s. 263). Theo Lutz’ın 1959 yı- lında ‘Stochastische Texte’ stokastik metinler adını verdiği bilgisayarda yaratılmış şiiri elektronik edebiyatın başlangıcı sayılır. Fortran programlama dili ile yazılan, 70 satırlık bilgisayar yapımı bir şiirdir. Stuttgart Teknik Üniversitesinde öğrenim gören Theo Lutz, bilgisayarların sadece metinlerin istatistiksel analiz için değil, aynı zamanda sentez için de kullanılabileceğini düşünmüştür. O dönemde herhangi bir dilin kuralları algoritmalar kullanılarak tanımlanabilmektedir. Lutz’un, üniversiteden bir arkadaşı olan matematikçi Rul Gunzenhäuser (1933–2018) gerekli algoritmaları matematiksel olarak modelleyerek Lutz’un proje
-    > C seçeneğindeki "Permütasyon tekniği ile oluşturulmuş 'rastlantısal' bir metindir" bilgisi Theo Lutz'un 1959 yılında 'Stochastische Texte' stokastik metinler adını verdiği bilgisayarda yaratılmış şiir ile ilgili yanlıştır.
+    > **Açıklama:** Elektronik Edebiyat eseri olarak sınıflandırılabilen ilk metnin (Lutz, 1959, s. 3-9) yazarı olarak kabul edilen Theo Lutz, ‘rastlantısal’ metinlerinden sonra edebi değeri olan birkaç eser daha üretmiştir (Funkhouser, 2012, s. 263). Theo Lutz’ın 1959 yı- lında ‘Stochastische Texte’ stokastik metinler adını verdiği bilgisayarda yaratılmış şiiri elektronik edebiyatın başlangıcı sayılır. Fortran programlama dili ile yazılan, 70 satırlık bilgisayar yapımı bir şiirdir. Stuttgart Teknik Üniversitesinde öğrenim gören Theo Lutz, bilgisayarların sadece metinlerin istatistiksel analiz için değil, aynı zamanda sentez için de kullanılabileceğini düşünmüştür. O dönemde herhangi bir dilin kuralları algoritmalar kullanılarak tanımlanabilmektedir. Lutz’un, üniversiteden bir arkadaşı olan matematikçi Rul Gunzenhäuser (1933–2018) gerekli algoritmaları matematiksel olarak modelleyerek Lutz’un proje<br />C seçeneğindeki "Permütasyon tekniği ile oluşturulmuş 'rastlantısal' bir metindir" bilgisi Theo Lutz'un 1959 yılında 'Stochastische Texte' stokastik metinler adını verdiği bilgisayarda yaratılmış şiir ile ilgili yanlıştır.
 
     <hr />
 1. Lutz'un eserleri 1990'dan itibaren kim tarafından basılarak piyasaya sürülmüştür?
@@ -2288,8 +2092,7 @@
     - D-) Edwin Morgan
     - **Cevap E-) Nicolas Schöffer**
 
-    > **Açıklama:** Schöffer, bilgisayarlı sanatın kesinlikle insan sanatının yerini alacağını veya onu geçeceğini ve sanat eğitimi için gerekli olan “fiziksel eğitim ve kültürel birikimi” azaltacağını ve insanın sanatsal pratiğini neredeyse yok edeceğini söylemiştir.
-    > Bilgisayarlı sanatın kesinlikle insan sanatının yerini alacağını veya onu geçeceğini ve sanat eğitimi için gerekli olan "fiziksel eğitim ve kültürel birikimi" azaltacağını ve insanın sanatsal pratiğini neredeyse yok edeceğini söyleyen Nicolas Schöffer'dir.
+    > **Açıklama:** Schöffer, bilgisayarlı sanatın kesinlikle insan sanatının yerini alacağını veya onu geçeceğini ve sanat eğitimi için gerekli olan “fiziksel eğitim ve kültürel birikimi” azaltacağını ve insanın sanatsal pratiğini neredeyse yok edeceğini söylemiştir.<br />Bilgisayarlı sanatın kesinlikle insan sanatının yerini alacağını veya onu geçeceğini ve sanat eğitimi için gerekli olan "fiziksel eğitim ve kültürel birikimi" azaltacağını ve insanın sanatsal pratiğini neredeyse yok edeceğini söyleyen Nicolas Schöffer'dir.
 
     <hr />
 1. Aşağıdakilerden hangisi aksaklık ve kusur terimi için kullanılan kelimedir?
@@ -2329,8 +2132,7 @@
     - D-) Cetus
     - E-) Ten Cubed
 
-    > **Açıklama:** Kendi niş kitlesinin dışında, sanal sosyal dünyalar başlığı altında akademik olarak da incelenmiş olan Second Life adlı oyun bunun ilk örneklerinden biridir. İnternet tabanlı bu sanal dünya, bölümün ilerleyen kısımlarında adından ve çalışmalarından tekrar söz edeceğimiz Neal Stephenson’ın 1992 tarihin yayınlanan bilimkurgu romanı Snow Crash’ten ilham alınarak yaratılmıştır.
-    > İnternet tabanlı bir sanal dünyayı anlatan, Neal Stephenson'ın 1992 tarihinde yayınlanan bilimkurgu romanı *Snow Crash*'ten ilham alınarak yaratılan oyun Second Life isimli oyundur.
+    > **Açıklama:** Kendi niş kitlesinin dışında, sanal sosyal dünyalar başlığı altında akademik olarak da incelenmiş olan Second Life adlı oyun bunun ilk örneklerinden biridir. İnternet tabanlı bu sanal dünya, bölümün ilerleyen kısımlarında adından ve çalışmalarından tekrar söz edeceğimiz Neal Stephenson’ın 1992 tarihin yayınlanan bilimkurgu romanı Snow Crash’ten ilham alınarak yaratılmıştır.<br />İnternet tabanlı bir sanal dünyayı anlatan, Neal Stephenson'ın 1992 tarihinde yayınlanan bilimkurgu romanı *Snow Crash*'ten ilham alınarak yaratılan oyun Second Life isimli oyundur.
 
     <hr />
 1. Aşağıdakilerden hangisi Second Life adlı bilgisayar oyununda yer alan ve "sims" olarak adlandırılan bir sanat galerisi simülasyonu **değildir?**
@@ -2340,8 +2142,7 @@
     - D-) Cetus
     - **Cevap E-) Taurus**
 
-    > **Açıklama:** Second Life’da “sims” olarak adlandırılan çok sayıda sanat galerisi simülasyonu vardır. Popüler galeriler arasında Sisse Singhs Sanat Galerisi, Windlight Sanat Galerisi ve Horus Sanat Galerisi bulunmaktadır. Bunların arasında en dikkate değer olanı, dünyanın ilk sanal çevrimiçi kentsel sanatlar bölgesi olan Cetus Gallery District sanat galerisidir. Cetus, fiziksel dünyada yer alan örneklerinde olduğu gibi içinde sanat galerileri, ofisler, yaşam alanları, yiyecek içecek dükkanları bulunan bir sanat kompleksinin simülasyonudur. Cetus’un içinde yer alan mekanlardaki kiracılar farklı sanatsal aktiviteler gerçekleştirirler.
-    > Taurus, Second Life adlı bilgisayar oyununda yer alan ve "sims" olarak adlandırılan bir sanat galerisi simülasyonu değildir.
+    > **Açıklama:** Second Life’da “sims” olarak adlandırılan çok sayıda sanat galerisi simülasyonu vardır. Popüler galeriler arasında Sisse Singhs Sanat Galerisi, Windlight Sanat Galerisi ve Horus Sanat Galerisi bulunmaktadır. Bunların arasında en dikkate değer olanı, dünyanın ilk sanal çevrimiçi kentsel sanatlar bölgesi olan Cetus Gallery District sanat galerisidir. Cetus, fiziksel dünyada yer alan örneklerinde olduğu gibi içinde sanat galerileri, ofisler, yaşam alanları, yiyecek içecek dükkanları bulunan bir sanat kompleksinin simülasyonudur. Cetus’un içinde yer alan mekanlardaki kiracılar farklı sanatsal aktiviteler gerçekleştirirler.<br />Taurus, Second Life adlı bilgisayar oyununda yer alan ve "sims" olarak adlandırılan bir sanat galerisi simülasyonu değildir.
 
     <hr />
 1. Dijital bir varlığın benzersiz olduğunu ve bu nedenle birbirinin yerine geçemeyeceğini onaylayan, blok zinciri adı verilen bir dijital defterde depolanan veri birimine ne ad verilir?
@@ -2482,8 +2283,7 @@
     - D-) Karl Marx
     - E-) Harriet Martineau
 
-    > **Açıklama:** Giriş
-    > Sosyolog Zygmunt Bauman’ın ifade ettiği üzere oyunsallaşma, bu yeni yaklaşımlara göre, çocukluk dönemiyle sınırlandırılmış olmaktan çıkıp yaşam boyu süren bir tutuma dönüşmüştür. Bu bağlam­da Bauman (1995, s.99) “postmodern yetişkinliğin işareti, oyunu çocukların yaptığı gibi tüm kalbiyle kucaklamaya istekli olmaktır” der. Oyunsallaşmanın medya ürünlerinde görü­nürlüğünün artışı da 1990’lı yıllarla birlikte ivme kazanmıştır.
+    > **Açıklama:** Giriş<br />Sosyolog Zygmunt Bauman’ın ifade ettiği üzere oyunsallaşma, bu yeni yaklaşımlara göre, çocukluk dönemiyle sınırlandırılmış olmaktan çıkıp yaşam boyu süren bir tutuma dönüşmüştür. Bu bağlam­da Bauman (1995, s.99) “postmodern yetişkinliğin işareti, oyunu çocukların yaptığı gibi tüm kalbiyle kucaklamaya istekli olmaktır” der. Oyunsallaşmanın medya ürünlerinde görü­nürlüğünün artışı da 1990’lı yıllarla birlikte ivme kazanmıştır.
 
     <hr />
 1. Aşağıdakilerden hangisi farklı medya platformları üzerinden giriş noktaları bulunan geniş anlatı dünyalarını ifade eder?
@@ -2503,11 +2303,7 @@
     - D-) Joe Williams
     - E-) Arielle Kebbel
 
-    > **Açıklama:** Dijital Oyunlar ve Sanat İlişkisi
-    > Amerikalı ünlü film eleştirmeni Roger Ebert 2010 tarihli *‘Video Oyunları Asla Sanat Olamaz’* başlıklı makalesinde, video oyunlarının yüksek sanat sayılamayacağını söyleyerek oyuncu top­lulukları arasında tepkilere yol açan popüler bir tartışmaya sebep olmuştu. Ebert’e (2010) göre kazanma-kaybetme hedefleri, kurallar ve etkileşim üzerine kurulu dijital oyunların yüksek sanat statü­süne ulaşması mümkün değildi. Satranç, futbol ya da basketbolun sanat sayılmaması gibi, duygu ve düşünceleri ifade etmekten çok kazanma-kaybetme ikiliğine sıkışmış dijital oyunların sanatsal ortamlar olarak nitelenmesi de anlamsız bir girişimdir.
-    > Oyun araştırmacısı Brian Schrank (2015), Ebert’in video oyunların sanat sayılmaması yönün­deki tutumunu, bir kulübe son üye olanların, yeni alınacak üyeler konusunda daha katı bir tutum takınmasına benzetir. 1950’li ve 1960’lı yıllarda dönemin yeni medyası olarak film medyumunun sanatsal niteliğine yönelik itirazlar ile bugün dijital oyunların yüksek sanat sayılıp sayılmamasına iliş­kin tartışmalar arasındaki paralellikleri göz önünde bulundurulduğunda Schrank’in (2015) bu benzet­mesinin yerinde olduğu söylenebilir.
-    > Yük­sek sanat ve popüler sanat arasındaki bu söylemsel dikotominin, sinema sanatı ve dijital oyunları iki ayrı söylemsel cepheye konumlandıran Ebert’in makalesiyle tekrar ortaya çıktığını söylemek yanlış olmaz.
-    > Roger Ebert’e göre filmlerin büyük bölümü popü­ler eğlence niteliği taşısa dahi, bir ifadesel iletişim ortamı olarak yüksek sanat statüsündedir; diğer yandan, sanatın düşüncelerin ifade edilmesi olarak nitelenebilecek en temel karakteristiği dijital oyun­larda eksiktir.
+    > **Açıklama:** Dijital Oyunlar ve Sanat İlişkisi<br />Amerikalı ünlü film eleştirmeni Roger Ebert 2010 tarihli *‘Video Oyunları Asla Sanat Olamaz’* başlıklı makalesinde, video oyunlarının yüksek sanat sayılamayacağını söyleyerek oyuncu top­lulukları arasında tepkilere yol açan popüler bir tartışmaya sebep olmuştu. Ebert’e (2010) göre kazanma-kaybetme hedefleri, kurallar ve etkileşim üzerine kurulu dijital oyunların yüksek sanat statü­süne ulaşması mümkün değildi. Satranç, futbol ya da basketbolun sanat sayılmaması gibi, duygu ve düşünceleri ifade etmekten çok kazanma-kaybetme ikiliğine sıkışmış dijital oyunların sanatsal ortamlar olarak nitelenmesi de anlamsız bir girişimdir. <br />Oyun araştırmacısı Brian Schrank (2015), Ebert’in video oyunların sanat sayılmaması yönün­deki tutumunu, bir kulübe son üye olanların, yeni alınacak üyeler konusunda daha katı bir tutum takınmasına benzetir. 1950’li ve 1960’lı yıllarda dönemin yeni medyası olarak film medyumunun sanatsal niteliğine yönelik itirazlar ile bugün dijital oyunların yüksek sanat sayılıp sayılmamasına iliş­kin tartışmalar arasındaki paralellikleri göz önünde bulundurulduğunda Schrank’in (2015) bu benzet­mesinin yerinde olduğu söylenebilir. <br />Yük­sek sanat ve popüler sanat arasındaki bu söylemsel dikotominin, sinema sanatı ve dijital oyunları iki ayrı söylemsel cepheye konumlandıran Ebert’in makalesiyle tekrar ortaya çıktığını söylemek yanlış olmaz. <br />Roger Ebert’e göre filmlerin büyük bölümü popü­ler eğlence niteliği taşısa dahi, bir ifadesel iletişim ortamı olarak yüksek sanat statüsündedir; diğer yandan, sanatın düşüncelerin ifade edilmesi olarak nitelenebilecek en temel karakteristiği dijital oyun­larda eksiktir.
 
     <hr />
 1. “Dijital oyunların çağdaş sanat manzarasında görünürlüğü 1990’lı yılların sonuna rastlar. Bu dönemde ortaya çıkan ve *‘oyun sanatı’* (game art) olarak adlandırılan dijital sanat yapıtları çoğunlukla ticari dijital oyunların esin kaynağı olarak görüldüğü yapıtlardır. ……….. sürecine sokularak görsel, işitsel unsurları, etkileşimli yapıları modifiye edilen bu yapıtlar, oynanmaktan çok müze ve galeriler gibi çağdaş sanat me­kanlarında sergilenmek üzere üretilmişlerdir.” Boşluğu doğru olarak dolduracak olan ifade aşağıdakilerden hangisidir?
@@ -2547,8 +2343,7 @@
     - **Cevap D-) Braid**
     - E-) The Marriage
 
-    > **Açıklama:** Sanat Oyunu
-    > Jonathan Blow’un sanat oyunları arasında en bilinen örneklerden biri haline gelen *Braid* (2008) oyununda oyuncu tipik bir platform oyununda ol­duğu gibi bir prensesi kurtarmak üzere yola çıkan bir kahramanın hikayesi ile başlar. Ancak bulma­caları çözmeye çalışırken oyuncu zamanı geri alma becerisinin de olduğunu fark eder. Zamanı geri almak bulmacaları çözme sürecinin temel aşama­larından biridir. Oyun mekanikleri, oyuncuya za­manı geri alarak hatalarını düzeltme olanağı verir. *Braid*, platform türünün oyun konvansiyonlarını yeniden yorumlayarak oyuncunun beklentilerini kırmayı ve bu türün en bilinen mekanikleriyle me­taforlara dayalı yeni bir anlatı deneyimi kurmayı vadeder.
+    > **Açıklama:** Sanat Oyunu<br />Jonathan Blow’un sanat oyunları arasında en bilinen örneklerden biri haline gelen *Braid* (2008) oyununda oyuncu tipik bir platform oyununda ol­duğu gibi bir prensesi kurtarmak üzere yola çıkan bir kahramanın hikayesi ile başlar. Ancak bulma­caları çözmeye çalışırken oyuncu zamanı geri alma becerisinin de olduğunu fark eder. Zamanı geri almak bulmacaları çözme sürecinin temel aşama­larından biridir. Oyun mekanikleri, oyuncuya za­manı geri alarak hatalarını düzeltme olanağı verir. *Braid*, platform türünün oyun konvansiyonlarını yeniden yorumlayarak oyuncunun beklentilerini kırmayı ve bu türün en bilinen mekanikleriyle me­taforlara dayalı yeni bir anlatı deneyimi kurmayı vadeder.
 
     <hr />
 1. “Prosedürelci sanat oyunlarında, oyuncuların üretece­ği anlamlar netlik içermezken, tasarımcının oyun mekanikleri üzerinden ortaya koyduğu prosedürel argüman, tasarımcının ………… varlığını duyumsata­cak şekilde belirgindir.” Boşluğu doğru olarak dolduracak olan ifade aşağıdakilerden hangisidir?
@@ -2558,8 +2353,7 @@
     - D-) Artsüremli
     - **Cevap E-) Auteur**
 
-    > **Açıklama:** Sanat Oyunu
-    > Prosedürelci sanat oyunla­rında, kural tabanlı sistemler üzerinde anlam üret­mek birincil önemdedir. Soyutlamaya dayalı anla­tımda, oyuncular metaforlar ve semboller üzerinde içe bakış ve refleksiyon ile kendi öznel anlamlarını üretmeye teşvik edilirler. Oyuncuların üretece­ği anlamlar netlik içermezken, tasarımcının oyun mekanikleri üzerinden ortaya koyduğu prosedürel argüman, tasarımcının *auteur* varlığını duyumsata­cak şekilde belirgindir.
+    > **Açıklama:** Sanat Oyunu<br />Prosedürelci sanat oyunla­rında, kural tabanlı sistemler üzerinde anlam üret­mek birincil önemdedir. Soyutlamaya dayalı anla­tımda, oyuncular metaforlar ve semboller üzerinde içe bakış ve refleksiyon ile kendi öznel anlamlarını üretmeye teşvik edilirler. Oyuncuların üretece­ği anlamlar netlik içermezken, tasarımcının oyun mekanikleri üzerinden ortaya koyduğu prosedürel argüman, tasarımcının *auteur* varlığını duyumsata­cak şekilde belirgindir.
 
     <hr />
 1. Yeni oyunlar yapma ve oynama yöntemleri ortaya koyan oyunlar olarak tanımlanan oyunlar aşağıdakilerden hangisidir?
@@ -2569,8 +2363,7 @@
     - D-) İnteraktif Oyun
     - E-) Konvansiyonel Oyun
 
-    > **Açıklama:** Oyunların İfadesel Olanakları: Şiir-Oyunlar, Politik Oyunlar Ve Avangart Oyunlar**/** Avangart Oyun
-    > Brian Schrank (2015) avantgart oyunları, yeni oyunlar yapma ve oynama yöntemleri ortaya koyan oyunlar olarak tanımlar. Ana akım oyun endüst­risi, oyuncuları sınırları belli konvansiyonlara göre çizilmiş bir üretim ve tüketim zinciri içinde kalma­ya yönlendiren oyunların hâkim olduğu bir yapı­yı sürdürür. Buna karşılık avangart oyunlar, oyun medyumunun sınırlarının yenilikçi, şaşırtıcı ve beklenmedik denemelerle zorlanabileceği ve yeni anlamlar üretebilecek çabalara işaret eder. Avan­gart deneyimler Schrank’e göre, sanat dünyasında oyunlara yer açmanın yanı sıra yaşadığımız ger­çekliğin politik deneyimlerini oyun medyumunun interaktivite, kurallar, enformasyon ve navigasyona dayalı prensipleriyle keşfetmeyi içerir.
+    > **Açıklama:** Oyunların İfadesel Olanakları: Şiir-Oyunlar, Politik Oyunlar Ve Avangart Oyunlar**/** Avangart Oyun<br />Brian Schrank (2015) avantgart oyunları, yeni oyunlar yapma ve oynama yöntemleri ortaya koyan oyunlar olarak tanımlar. Ana akım oyun endüst­risi, oyuncuları sınırları belli konvansiyonlara göre çizilmiş bir üretim ve tüketim zinciri içinde kalma­ya yönlendiren oyunların hâkim olduğu bir yapı­yı sürdürür. Buna karşılık avangart oyunlar, oyun medyumunun sınırlarının yenilikçi, şaşırtıcı ve beklenmedik denemelerle zorlanabileceği ve yeni anlamlar üretebilecek çabalara işaret eder. Avan­gart deneyimler Schrank’e göre, sanat dünyasında oyunlara yer açmanın yanı sıra yaşadığımız ger­çekliğin politik deneyimlerini oyun medyumunun interaktivite, kurallar, enformasyon ve navigasyona dayalı prensipleriyle keşfetmeyi içerir.
 
     <hr />
 1. 2017 yılında oyuncularla buluşan ve dünya çapında bir ulu­sal arkeoloji müzesi tarafından üretilen ve dağıtılan ilk oyun aşağıdakilerden hangisidir?
@@ -2580,8 +2373,7 @@
     - D-) Today I Die
     - E-) Passage
 
-    > **Açıklama:** Sanat Mekanlarının Oyunlaşması
-    > 2017 yılında oyuncularla buluşan *Father and Son* (2017) adlı mobil oyun dünya çapında bir ulu­sal arkeoloji müzesi tarafından üretilen ve dağıtılan ilk oyun olması açısından ilginç bir örnektir. Oyu­nun amacı tüm dünyadan özellikle genç ziyaretçi­lerin ilgisini çekecek, müzenin fiziki gerçekliğiyle dijital kurgusal dünya arasında bir köprü oluştu­rabilecek bir deneyim yaratmaktır. Oyuncular, söz konusu oyunu, müzeye gelmeden sadece dijital or­tamda oynayabilecekleri gibi, müzeyi ziyaret etme­leri halinde oyunun dijitalde sunduğu deneyimin ötesine geçip yeni oyun özelliklerine erişebilmeleri de mümkündür. Aşk, rüyalar, korku ve geçen za­man gibi temalar üzerine odaklanan anlatı-temelli oyunda, arkeolog bir baba ve hiç tanımadığı oğlu­nun hikayesi deneyimlenir. Oyun boyunca ana ka­rakterin yolu Antik Roma, Antik Mısır ve Burbon Hanedanı Dönemi gibi farklı tarihi dönemlerden karakterlerle kesişir. Kişisel bir hikâye olarak baş­layan deneyim, bugün ve geçmiş arasında bir dizi seçimler gerektiren evrensel ve zamansız bir anlatı­ya dönüşür.
+    > **Açıklama:** Sanat Mekanlarının Oyunlaşması<br />2017 yılında oyuncularla buluşan *Father and Son* (2017) adlı mobil oyun dünya çapında bir ulu­sal arkeoloji müzesi tarafından üretilen ve dağıtılan ilk oyun olması açısından ilginç bir örnektir. Oyu­nun amacı tüm dünyadan özellikle genç ziyaretçi­lerin ilgisini çekecek, müzenin fiziki gerçekliğiyle dijital kurgusal dünya arasında bir köprü oluştu­rabilecek bir deneyim yaratmaktır. Oyuncular, söz konusu oyunu, müzeye gelmeden sadece dijital or­tamda oynayabilecekleri gibi, müzeyi ziyaret etme­leri halinde oyunun dijitalde sunduğu deneyimin ötesine geçip yeni oyun özelliklerine erişebilmeleri de mümkündür. Aşk, rüyalar, korku ve geçen za­man gibi temalar üzerine odaklanan anlatı-temelli oyunda, arkeolog bir baba ve hiç tanımadığı oğlu­nun hikayesi deneyimlenir. Oyun boyunca ana ka­rakterin yolu Antik Roma, Antik Mısır ve Burbon Hanedanı Dönemi gibi farklı tarihi dönemlerden karakterlerle kesişir. Kişisel bir hikâye olarak baş­layan deneyim, bugün ve geçmiş arasında bir dizi seçimler gerektiren evrensel ve zamansız bir anlatı­ya dönüşür.
 
     <hr />
 1. Ana akım oyun deneyimlerine meydan okuyan aktivist oynama deneyimlerini ifade eden oyun türü aşağıdakilerden hangisidir?
@@ -2691,8 +2483,7 @@
     - D-) Eğitim
     - E-) Siyaset
 
-    > **Açıklama:** Bu dönemde mobil cihazların da yaygınlaşmasıyla farklı yaş gruplarından, cinsiyetlerden, sosyo-ekonomik gruplardan kullanıcıların erişebildiği dijital oyunlar sadece bir boş zaman etkinliği niteliğinin ötesine geçerek, **eğitim** (örneğin eğitsel oyunlar), **siyaset** (politik oyunlar, haber-oyunlar gibi), **kültür** (kültürel miras ve oyunları bir araya getiren oyunlaştırma projeleri), **sanat** (sanat oyunları), **savaş** (insansız araçların kontrollerinin dijital oyun arayüzleri ile olan benzerliği) gibi ilk anda oyun oynama etkinlikleriyle birlikte düşünülmeyen alanlara da genişlemiştir.
-    > Bilim
+    > **Açıklama:** Bu dönemde mobil cihazların da yaygınlaşmasıyla farklı yaş gruplarından, cinsiyetlerden, sosyo-ekonomik gruplardan kullanıcıların erişebildiği dijital oyunlar sadece bir boş zaman etkinliği niteliğinin ötesine geçerek, **eğitim** (örneğin eğitsel oyunlar), **siyaset** (politik oyunlar, haber-oyunlar gibi), **kültür** (kültürel miras ve oyunları bir araya getiren oyunlaştırma projeleri), **sanat** (sanat oyunları), **savaş** (insansız araçların kontrollerinin dijital oyun arayüzleri ile olan benzerliği) gibi ilk anda oyun oynama etkinlikleriyle birlikte düşünülmeyen alanlara da genişlemiştir.<br />Bilim
 
     <hr />
 1. Oyunsallaşmanın medya ürünlerinde görünürlüğünün artışı hangi yıllarla birlikte ivme kazanmıştır?
@@ -2702,8 +2493,7 @@
     - **Cevap D-) 1990**
     - E-) 1993
 
-    > **Açıklama:** Oyunsallaşmanın medya ürünlerinde görünürlüğünün artışı da **1990’lı** yıllarla birlikte ivme
-    > kazanmıştır.
+    > **Açıklama:** Oyunsallaşmanın medya ürünlerinde görünürlüğünün artışı da **1990’lı** yıllarla birlikte ivme<br />kazanmıştır.
 
     <hr />
 1. Dijital oyunların sanat eseri mi olduğu tartışılırken, sanat eseri kavramını katılımcıların kendi deneyimleri üzerinden yorumladığı ve onların katılımıyla nihai bir ürüne dönüşen açık bir form olarak tanımlar. Sanat yapıtı, bir fikrin, mesajın bütünlüklü olarak aktarıldığı bir yapıt olarak biricik ve kapalı olmakla birlikte, izleyicinin algı ve yorumuyla dönüşen bir performans niteliği kazanması yönüyle açık bir yapıttır. Bu açıklama aşağıdaki **hangi bilim insanı**na aittir?
@@ -2723,9 +2513,7 @@
     - D-) Counter-Strike
     - E-) Super Mario Bros
 
-    > **Açıklama:** Medya araştırmacısı Alexander Galloway (2006), ticari oyunlarda yoğun olarak kullanılan
-    > şiddet içerikli unsurları, onları çevreleyen hikâye örgüsünden arındırarak eleştirel bir şekilde tartışan
-    > **Adam Killer** gibi yapıtları ‘karşı oyun’ (counter gaming) olarak adlandırır.
+    > **Açıklama:** Medya araştırmacısı Alexander Galloway (2006), ticari oyunlarda yoğun olarak kullanılan<br />şiddet içerikli unsurları, onları çevreleyen hikâye örgüsünden arındırarak eleştirel bir şekilde tartışan<br />**Adam Killer** gibi yapıtları ‘karşı oyun’ (counter gaming) olarak adlandırır.
 
     <hr />
 1. Oyuncu interaksiyonu gibi niteliklerin sanatsal ifade amaçlı kullanılmaları sonucunda ortaya çıkan yapıtlara ne denir?
@@ -2735,9 +2523,7 @@
     - D-) Dijital art
     - E-) Counter gaming (Karşı oyun)
 
-    > **Açıklama:** **Sanat oyunları (Artgame)**, video oyunlarının tanımsal nitelikleri sayılabilecek, kurallar,
-    > mekanikler, hedefler, oyuncu interaksiyonu gibi niteliklerin sanatsal ifade amaçlı kullanılmaları sonucunda ortaya çıkan yapıtlardır.
-    > Artgame (Sanat oyunu)
+    > **Açıklama:** **Sanat oyunları (Artgame)**, video oyunlarının tanımsal nitelikleri sayılabilecek, kurallar,<br />mekanikler, hedefler, oyuncu interaksiyonu gibi niteliklerin sanatsal ifade amaçlı kullanılmaları sonucunda ortaya çıkan yapıtlardır.<br />Artgame (Sanat oyunu)
 
     <hr />
 1. Sanat oyunları, oyuncunun bazı sistemleri keşfetmesine imkân sunan reflektif uzamlar yaratırlar. Aşağıdakilerden hangisi bu uzamlardan **değildir?**
@@ -2747,8 +2533,7 @@
     - **Cevap D-) Poetikalar**
     - E-) Kurgusal mekanik modeller
 
-    > **Açıklama:** Sanat oyunları, **soyutlama**, **alegoriler**, **metaforlar**ı modelleyen oyun **mekanikleri kurgulay**arak oyuncunun bu sistemleri keşfetmesine imkân sunan reflektif uzamlar yaratırlar.
-    > Poetikalar
+    > **Açıklama:** Sanat oyunları, **soyutlama**, **alegoriler**, **metaforlar**ı modelleyen oyun **mekanikleri kurgulay**arak oyuncunun bu sistemleri keşfetmesine imkân sunan reflektif uzamlar yaratırlar.<br />Poetikalar
 
     <hr />
 1. Bu oyundaki amaç, evliliği temsil eden sistemin dengesini olabildiğince uzun sürdürebilmektir. Oyuncu, ekrandaki geometrik şekilleri etkileşime sokmayı deneyerek, şekillerin sistemdeki rollerini kavrayabilmek için girişimlerde bulunabilir. Oyuncu evli çifti temsil eden ve onları kuşatan dünya arasındaki ilişkinin dinamiklerini deneyerek anlamaya çalışır. Bu oyun çeşidi aşağıdakilerden hangisidir?
@@ -2758,13 +2543,7 @@
     - D-) Adam Killer
     - E-) Passage
 
-    > **Açıklama:** Rod Humble’ın son derece basit mekaniklerle işleyen sembolik anlamlara dayalı **The Marriage**
-    > (2007) (Evlilik) oyununu ele alalım. Oyun, bir kadın ve erkek arasındaki ilişkiyi, kadını temsil eden
-    > pembe bir kare ile bir erkeği temsil eden mavi bir karenin farklı renklerdeki çemberlerle kesiştiği bir
-    > uzamda modeller. **Oyunun amacı, evliliği temsil eden sistemin dengesini olabildiğince uzun sürdürebilmektir.** Oyuncu, ekrandaki geometrik şekilleri etkileşime sokmayı deneyerek, şekillerin sistemdeki rollerini kavrayabilmek için girişimlerde bulunabilir. Bu girişimlerin sonunda çeşitlemeler
-    > ortaya çıkar. Şekillerin boyutları küçülebilir, birbirlerine yaklaşabilirler, çok yaklaşmaları halinde
-    > renkleri silikleşebilir ya da daha belirginleşebilir. Oyuncu evli çifti temsil eden ve onları kuşatan
-    > dünya arasındaki ilişkinin dinamiklerini deneyerek anlamaya çalışır.
+    > **Açıklama:** Rod Humble’ın son derece basit mekaniklerle işleyen sembolik anlamlara dayalı **The Marriage**<br />(2007) (Evlilik) oyununu ele alalım. Oyun, bir kadın ve erkek arasındaki ilişkiyi, kadını temsil eden<br />pembe bir kare ile bir erkeği temsil eden mavi bir karenin farklı renklerdeki çemberlerle kesiştiği bir<br />uzamda modeller. **Oyunun amacı, evliliği temsil eden sistemin dengesini olabildiğince uzun sürdürebilmektir.** Oyuncu, ekrandaki geometrik şekilleri etkileşime sokmayı deneyerek, şekillerin sistemdeki rollerini kavrayabilmek için girişimlerde bulunabilir. Bu girişimlerin sonunda çeşitlemeler<br />ortaya çıkar. Şekillerin boyutları küçülebilir, birbirlerine yaklaşabilirler, çok yaklaşmaları halinde<br />renkleri silikleşebilir ya da daha belirginleşebilir. Oyuncu evli çifti temsil eden ve onları kuşatan<br />dünya arasındaki ilişkinin dinamiklerini deneyerek anlamaya çalışır.
 
     <hr />
 1. Prosedürelci oyunlar (proceduralist games), sanatsal anlamı ifade etmek için ana araç olarak kural sistemlerini kullanırlar. Örneğin Braid oyununda bazı konular üzerine sorularla karşı karşıya gelir ve oyun, ‘eğer geri dönebilseydim’ sorusunun farklı şekillerde deneyimlenebileceği imkânlar sunar. Aşağıdakilerden hangisi bu konulardan **değildir****?**
@@ -2774,8 +2553,7 @@
     - D-) Pişmanlık
     - **Cevap E-) Gözlem**
 
-    > **Açıklama:** Dolayısıyla prosedürelci oyunlar (proceduralist games), sanatsal anlamı ifade etmek için ana araç olarak kural sistemlerini kullanırlar...Braid oyununda sözgelimi, **oyuncu, şüphe, affetme, zaman, pişmanlık** üzerine sorularla karşı karşıya gelir ve oyun, ‘eğer geri dönebilseydim’ sorusunun farklı şekillerde deneyimlenebileceği imkanlar sunar.
-    > Gözlem
+    > **Açıklama:** Dolayısıyla prosedürelci oyunlar (proceduralist games), sanatsal anlamı ifade etmek için ana araç olarak kural sistemlerini kullanırlar...Braid oyununda sözgelimi, **oyuncu, şüphe, affetme, zaman, pişmanlık** üzerine sorularla karşı karşıya gelir ve oyun, ‘eğer geri dönebilseydim’ sorusunun farklı şekillerde deneyimlenebileceği imkanlar sunar.<br />Gözlem
 
     <hr />
 1. Oyunların ve şiirlerin ortak özelliği farklı olasılıklar üretebilen sistemik yapılar olarak inşa edilmeleridir. Bulmaca türüne şiirin bir türü olarak yaklaşan ve dijital interaktif kurmacaları öncüleyen bir form olarak ele alan oyun ve interaktif anlatı araştırmacı aşağıdakilerden hangisidir?
@@ -2795,8 +2573,7 @@
     - D-) Passage
     - E-) Unmanned
 
-    > **Açıklama:** 2017 yılında oyuncularla buluşan **Father and Son** (2017) adlı mobil oyun dünya çapında bir ulusal
-    > arkeoloji müzesi tarafından üretilen ve dağıtılan ilk oyun olması açısından ilginç bir örnektir...Aşk, rüyalar, korku ve geçen zaman gibi temalar üzerine odaklanan anlatı-temelli oyunda, arkeolog bir baba ve hiç tanımadığı oğlunun hikayesi deneyimlenir. Oyun boyunca ana karakterin yolu Antik Roma, Antik Mısır ve Burbon Hanedanı Dönemi gibi farklı tarihi dönemlerden karakterlerle kesişir.
+    > **Açıklama:** 2017 yılında oyuncularla buluşan **Father and Son** (2017) adlı mobil oyun dünya çapında bir ulusal<br />arkeoloji müzesi tarafından üretilen ve dağıtılan ilk oyun olması açısından ilginç bir örnektir...Aşk, rüyalar, korku ve geçen zaman gibi temalar üzerine odaklanan anlatı-temelli oyunda, arkeolog bir baba ve hiç tanımadığı oğlunun hikayesi deneyimlenir. Oyun boyunca ana karakterin yolu Antik Roma, Antik Mısır ve Burbon Hanedanı Dönemi gibi farklı tarihi dönemlerden karakterlerle kesişir.
 
     <hr />
 1. Aşağıdakilerden hangisi oyunsal film anlatılarının sinemaya yansıması olarak değerlendirilen filimler arasında **yer almaz**?
@@ -2806,8 +2583,7 @@
     - D-) Memento
     - **Cevap E-) Das Experiment (Deney)**
 
-    > **Açıklama:** Harold Ramis’in yönettiği Groundhog Day (1993), David Lynch’in yönettiği Kayıp Otoban (1997), Tom Tykwer’ın yönettiği Koş
-    > Lola, Koş (1998), Christopher Nolan’ın yönettiği Memento (2000) gibi sanatsal niteliği yüksek, oyunsal film anlatılarının ortaya çıkışı bu dönüşümün sinemaya yansıması olarak değerlendirilebilir.
+    > **Açıklama:** Harold Ramis’in yönettiği Groundhog Day (1993), David Lynch’in yönettiği Kayıp Otoban (1997), Tom Tykwer’ın yönettiği Koş<br />Lola, Koş (1998), Christopher Nolan’ın yönettiği Memento (2000) gibi sanatsal niteliği yüksek, oyunsal film anlatılarının ortaya çıkışı bu dönüşümün sinemaya yansıması olarak değerlendirilebilir.
 
     <hr />
 1. Bir oyun sanatı örneği olarak "Super Mario Clouds (2002)" isimli yapıta ilişkin aşağıda verilen ifadelerden hangisi **yanlıştır**?
@@ -2817,8 +2593,7 @@
     - **Cevap D-) Amaç oynanabilir bir deneyim elde etmektir**
     - E-) Çağdaş dijital gelişmelere katılmaya dair bir direncin göstergesidir
 
-    > **Açıklama:** Bir oyun sanatı örneği olarak sanatçı Cory Arcangel’ın Super Mario Clouds (2002) isimli yapıtı, 1985 tarihli Nintendo Super Mario Bros oyununun
-    > mavi gökyüzü ve beyaz bulut kümeleri dışında tüm görsel ve işitsel unsurlarının ortadan kaldırdığı bir sanatsal hackleme projesidir. Etkileşimlilik gerektiren oynanabilirlik unsurları kaldırılmış olan Super Mario Bros oyunu, Cory Arcangel’in projesinde işleme bir dijital yapıta dönüşmüştür. Bu işleme yapıtta amaç oynanabilir bir deneyim elde etmek olmadığı gibi, interaktif unsurların eksikliği yüksek hızdaki çağdaş dijital gelişmelere katılmaya dair bir direncin göstergesi olarak anlaşılabilir.
+    > **Açıklama:** Bir oyun sanatı örneği olarak sanatçı Cory Arcangel’ın Super Mario Clouds (2002) isimli yapıtı, 1985 tarihli Nintendo Super Mario Bros oyununun<br />mavi gökyüzü ve beyaz bulut kümeleri dışında tüm görsel ve işitsel unsurlarının ortadan kaldırdığı bir sanatsal hackleme projesidir. Etkileşimlilik gerektiren oynanabilirlik unsurları kaldırılmış olan Super Mario Bros oyunu, Cory Arcangel’in projesinde işleme bir dijital yapıta dönüşmüştür. Bu işleme yapıtta amaç oynanabilir bir deneyim elde etmek olmadığı gibi, interaktif unsurların eksikliği yüksek hızdaki çağdaş dijital gelişmelere katılmaya dair bir direncin göstergesi olarak anlaşılabilir.
 
     <hr />
 1. Bir video oyununun görsel, işitsel ya da prosedürel unsurlarının oyuncular veya hayranlar tarafından değiştirilme sürecini ifade eden kavram aşağıdakilerden hangisidir?
@@ -2858,8 +2633,7 @@
     - D-) Politik Oyun
     - E-) Şiir Oyun
 
-    > **Açıklama:** Bağımsız Oyun kavramı, bireysel olarak ya da küçük ölçekli ekipler tarafından, büyük bir oyun yayımcısının teknik ya da mali
-    > desteği olmaksızın gerçekleştirilen oyunları ifade etmek için kullanılır.
+    > **Açıklama:** Bağımsız Oyun kavramı, bireysel olarak ya da küçük ölçekli ekipler tarafından, büyük bir oyun yayımcısının teknik ya da mali<br />desteği olmaksızın gerçekleştirilen oyunları ifade etmek için kullanılır.
 
     <hr />
 1. Oscar Wilde’ın Salome (1891) adlı piyesinden esinlenen, Belçikalı bağımsız oyun tasarımcıları Auriea Harvey and Michaël Samyn’in kurduğu Tale of Tales yapımı 2009 tarihli dijital oyun aşağıdakilerden hangisidir?
@@ -3110,8 +2884,7 @@
     - D-) Olgusal sanat
     - E-) İnteraktif sanat
 
-    > **Açıklama:** Yeni Medya Sanatı (Giriş)
-    > **Generatif sanat** içeriği üretmek kadar içeriği üreten sistemleri keşfetmeyi de kapsar.
+    > **Açıklama:** Yeni Medya Sanatı (Giriş)<br />**Generatif sanat** içeriği üretmek kadar içeriği üreten sistemleri keşfetmeyi de kapsar.
 
     <hr />
 1. Sanat dalı görsel sanatlar olsa da elektronik müzik ve algoritmik kompozisyon, bilgisayar grafikleri ve animasyonu, VJ kültürü, endüstriyel tasarım ve mimari gibi pek çok alanda karşımıza çıkan sanatı hangisi içerir?
@@ -3151,9 +2924,7 @@
     - D-) G-art
     - E-) CG-art
 
-    > **Açıklama:** Generatif Sanat
-    > **C-art (Bilgisayar sanatı):** Bilgisayarları sanatsal üretim sürecinin bir parçası olarak kullanır.
-    > .
+    > **Açıklama:** Generatif Sanat<br />**C-art (Bilgisayar sanatı):** Bilgisayarları sanatsal üretim sürecinin bir parçası olarak kullanır. <br />.
 
     <hr />
 1. CI-art'ı aşağıdakilerden hangisi tanımlar?
@@ -3163,8 +2934,7 @@
     - D-) Sanat üreten programın kendisini etkileyen rastgele varyasyonlar ve seçici yeniden üretme süreçleri ile şekillenir.
     - E-) Bir bilgisayar programının kendi kendine çalışmaya bırakıldığı, insan müdahalesi çok sınırlı olacak ya da hiç olmayacak şekilde üretilen sanattır.
 
-    > **Açıklama:** Generatif Sanat
-    > **CI-art (Bilgisayar temelli interaktif sanat):** Bilgisayar temelli sanat eserinin içeriği ve formu, önemli ölçüde izleyicinin davranışları ve hareketleri ile şekillenir.
+    > **Açıklama:** Generatif Sanat<br />**CI-art (Bilgisayar temelli interaktif sanat):** Bilgisayar temelli sanat eserinin içeriği ve formu, önemli ölçüde izleyicinin davranışları ve hareketleri ile şekillenir.
 
     <hr />
 1. Generatif sanat üreten sistemler zaman içinde teknoloji ile birlikte evrim geçirseler de hangisi aynı kalır?
@@ -3174,8 +2944,7 @@
     - D-) Doğal içerikler
     - E-) Bilişsel öğeler
 
-    > **Açıklama:** GENERATİF SANATIN TARİHÇESİ
-    > Algoritmalar doğanın bir parçasıdır ve evrenseldir, generatif sanat üreten sistemler zaman içinde teknoloji ile birlikte evrim geçirseler de **algoritmalar** aynı kalır.
+    > **Açıklama:** GENERATİF SANATIN TARİHÇESİ<br />Algoritmalar doğanın bir parçasıdır ve evrenseldir, generatif sanat üreten sistemler zaman içinde teknoloji ile birlikte evrim geçirseler de **algoritmalar** aynı kalır.
 
     <hr />
 1. Bilgisayar programcılığında algoritmalar genellikle ne ile ifade edilir?
@@ -3185,8 +2954,7 @@
     - D-) Log-in
     - E-) Log-out
 
-    > **Açıklama:** GENERATİF SANATIN TARİHÇESİ
-    > Bilgisayar programcılığında algoritmalar genellikle **sözde kod** (pseudocode) ile ifade edilir.
+    > **Açıklama:** GENERATİF SANATIN TARİHÇESİ<br />Bilgisayar programcılığında algoritmalar genellikle **sözde kod** (pseudocode) ile ifade edilir.
 
     <hr />
 1. 1805 yılında bir programı delikli kartlara kaydetme fikri, generatif dokuma sanatında hangi sanatçı bir devrim yarattı?
@@ -3196,8 +2964,7 @@
     - D-) Manfred Mohr
     - E-) Ian Goodfellow
 
-    > **Açıklama:** GENERATİF SANATIN TARİHÇESİ
-    > 1805 yılında **Jacquard’ın** bir programı delikli kartlara kaydetme fikri, generatif dokuma sanatında bir devrim yarattı.
+    > **Açıklama:** GENERATİF SANATIN TARİHÇESİ<br />1805 yılında **Jacquard’ın** bir programı delikli kartlara kaydetme fikri, generatif dokuma sanatında bir devrim yarattı.
 
     <hr />
 1. 2001 yılında Simon Colton ve meslektaşları tarafından geliştirilen bir bilgisayar programı ve eserlerini sayısal olarak üreten ve farklı stillerde boyayabilen yazılım hangisidir?
@@ -3207,8 +2974,7 @@
     - D-) Tree Drawings
     - E-) Aaron
 
-    > **Açıklama:** Örnekler
-    > **The Painting Fool:** The Painting Fool, 2001 yılında Simon Colton ve meslektaşları tarafından geliştirilen bir bilgisayar programı, yapay bir sanatçıdır. Bu yazılım eserlerini sayısal olarak üretir ve farklı stillerde boyayabilir.
+    > **Açıklama:** Örnekler<br />**The Painting Fool:** The Painting Fool, 2001 yılında Simon Colton ve meslektaşları tarafından geliştirilen bir bilgisayar programı, yapay bir sanatçıdır. Bu yazılım eserlerini sayısal olarak üretir ve farklı stillerde boyayabilir.
 
     <hr />
 1. Sanatın içeriği ve formunun önemli ölçüde izleyicinin davranışları ve hareketleri ile şekillendiği sanat türü aşağıdakilerden hangisidir?
@@ -3228,9 +2994,7 @@
     - D-) Üretme, ortaya çıkarma, yeniden üretme gücü ya da işlevine sahip olması
     - E-) Sonucun kısmen de olsa sistem tarafından ortaya çıkması
 
-    > **Açıklama:** Generatif sanat otonom olarak işleyen bir sistem tarafından oluşturulmuş sanata işaret eder. Sanatçı söz konusu sistemi kendisi oluşturabileceği gibi, sadece var olan bir sistemin sonucu etkileyecek parametrelerini de değiştirebilir. Ancak sonuç en azından kısmen de olsa sanatçı değil, sistem tarafından ortaya çıkartılır. Generatif sanat sistemleri, özellikle günümüzde sıklıkla bilgisayar yazılımları olsa da biyolojik, sosyal ve diğer sistemler
-    > de generatif sanat üretiminde kullanılabilir. **Ayrıca bilgisayar aracılığı ile üretilen her sanat eseri generatif sanata örnek teşkil etmez. Boden ve Edmonds (2009) da generatif sanatın
-    > sadece bilgisayarlarla yapılan sanatla sınırlandırılmaması gerektiği konusunda hemfikirdir.**
+    > **Açıklama:** Generatif sanat otonom olarak işleyen bir sistem tarafından oluşturulmuş sanata işaret eder. Sanatçı söz konusu sistemi kendisi oluşturabileceği gibi, sadece var olan bir sistemin sonucu etkileyecek parametrelerini de değiştirebilir. Ancak sonuç en azından kısmen de olsa sanatçı değil, sistem tarafından ortaya çıkartılır. Generatif sanat sistemleri, özellikle günümüzde sıklıkla bilgisayar yazılımları olsa da biyolojik, sosyal ve diğer sistemler<br />de generatif sanat üretiminde kullanılabilir. **Ayrıca bilgisayar aracılığı ile üretilen her sanat eseri generatif sanata örnek teşkil etmez. Boden ve Edmonds (2009) da generatif sanatın<br />sadece bilgisayarlarla yapılan sanatla sınırlandırılmaması gerektiği konusunda hemfikirdir.**
 
     <hr />
 1. Jacquard’un 1805’te bilgisayar teknolojilerinin keşfedilmesini sağlayacak adımlardan biri olan icadı aşağıdakilerden hangisidir?
@@ -3240,11 +3004,7 @@
     - D-) Mimari desen üretme tezgahı
     - E-) Kalıp çıkarma tezgahı
 
-    > **Açıklama:** J**acquard dokuma tezgahının icadı** da generatif sanatın tarihi içerisinde altı çizilmesi gereken olaylardan birisidir. Jacquard’ın bu icadından önce de elle çalışan dokuma makineleri dokumacıların generatif
-    > olarak desenli kumaş üretiminde tekrar eden prosedürler kullanmasına izin veriyordu. Endüstri devrimi
-    > ile bu sistemlerin bir kısmı otomatik hale geldi. 1805 yılında Jacquard’ın bir programı delikli kartlara kaydetme fikri,
-    > generatif dokuma sanatında bir devrim yarattı. Jacquard’ın
-    > buradaki temel amacı daha karmaşık desenlerin otomasyonunu sağlamaktı. **Jacquard’ın bu buluşu analog olarak algoritmaların üretimde kullanıldığı ilk noktalardan biri olarak daha sonraki bilgisayar teknolojilerinin keşfedilmesini sağlayacak süreçlerden biri olmuştur.**
+    > **Açıklama:** J**acquard dokuma tezgahının icadı** da generatif sanatın tarihi içerisinde altı çizilmesi gereken olaylardan birisidir. Jacquard’ın bu icadından önce de elle çalışan dokuma makineleri dokumacıların generatif<br />olarak desenli kumaş üretiminde tekrar eden prosedürler kullanmasına izin veriyordu. Endüstri devrimi<br />ile bu sistemlerin bir kısmı otomatik hale geldi. 1805 yılında Jacquard’ın bir programı delikli kartlara kaydetme fikri,<br />generatif dokuma sanatında bir devrim yarattı. Jacquard’ın<br />buradaki temel amacı daha karmaşık desenlerin otomasyonunu sağlamaktı. **Jacquard’ın bu buluşu analog olarak algoritmaların üretimde kullanıldığı ilk noktalardan biri olarak daha sonraki bilgisayar teknolojilerinin keşfedilmesini sağlayacak süreçlerden biri olmuştur.**
 
     <hr />
 1. 1965’de bilgisayar sanatı eserlerinin sergilendiği ilk etkinliği gerçekleştiren kimdir?
@@ -3254,9 +3014,7 @@
     - D-) Ian Goodfellow
     - E-) Tim Knowles
 
-    > **Açıklama:** **Bilgisayar sanatı eserlerinin sergilendiği ilk etkinlik 1965** yılının Şubat ayında Stuttgart’da düzenlenen
-    > **“Generative Computergraphik” adını taşıyan, Georg Nees**’in işlerinin yer aldığı bir sergiydi. Kasım 1965’te
-    > Nees bir kez daha, bu kez Frieder Nake ile birlikte işlerini sergiledi. Sanatçılar burada çalışmalarını tanımlamak için “generatif” terimini kullandılar.
+    > **Açıklama:** **Bilgisayar sanatı eserlerinin sergilendiği ilk etkinlik 1965** yılının Şubat ayında Stuttgart’da düzenlenen<br />**“Generative Computergraphik” adını taşıyan, Georg Nees**’in işlerinin yer aldığı bir sergiydi. Kasım 1965’te<br />Nees bir kez daha, bu kez Frieder Nake ile birlikte işlerini sergiledi. Sanatçılar burada çalışmalarını tanımlamak için “generatif” terimini kullandılar.
 
     <hr />
 1. Generatif sistemlerin ürettiği sonuçları ifade eden ana bileşen aşağıdakilerden hangisidir?
@@ -3266,9 +3024,7 @@
     - D-) Matamatiksel çıktılar
     - **Cevap E-) Duyusal çıktılar**
 
-    > **Açıklama:** Duyusal Çıktılar: **Duyusal çıktılar generatif sistemlerin ürettiği sonuçlardır.** Bu çıktılar durağan ya da
-    > zaman temelli formlarda sanat eserleri (görsel, işitsel, müzikal, edebi, yapısal vb.) olabilir. Durağan eserler
-    > generatif süreçten seçilen enstantaneler, sürecin nihai çıktısı ya da sürecin zaman içindeki gelişimini gösteren bir çıktı dizisi olabilir.
+    > **Açıklama:** Duyusal Çıktılar: **Duyusal çıktılar generatif sistemlerin ürettiği sonuçlardır.** Bu çıktılar durağan ya da<br />zaman temelli formlarda sanat eserleri (görsel, işitsel, müzikal, edebi, yapısal vb.) olabilir. Durağan eserler<br />generatif süreçten seçilen enstantaneler, sürecin nihai çıktısı ya da sürecin zaman içindeki gelişimini gösteren bir çıktı dizisi olabilir.
 
     <hr />
 1. 2001 yılında Simon Colton ve meslektaşlarının geliştirdiği bilgisayar programı aşağıdakilerden hangisidir?
@@ -3278,8 +3034,7 @@
     - D-) Processing
     - E-) IDE
 
-    > **Açıklama:** The Painting Fool: **The Painting Fool, 2001 yılında Simon Colton ve meslektaşları tarafından geliştirilen bir bilgisayar programı, yapay bir sanatçıdır.** Bu yazılım eserlerini sayısal olarak üretir ve farklı stillerde
-    > boyayabilir
+    > **Açıklama:** The Painting Fool: **The Painting Fool, 2001 yılında Simon Colton ve meslektaşları tarafından geliştirilen bir bilgisayar programı, yapay bir sanatçıdır.** Bu yazılım eserlerini sayısal olarak üretir ve farklı stillerde<br />boyayabilir
 
     <hr />
 1. Fotoğrafları sanat eserlerine dönüştürebilen yapay zeka temelli generatif sanat programı aşağıdakilerden hangisidir?
@@ -3289,8 +3044,7 @@
     - **Cevap D-) Instapainting**
     - E-) Cartoonify
 
-    > **Açıklama:** AIportraits adındaki bir uygulama ile kullanıcılar bir portre fotoğrafını ünlü portre eserlerinden birinin tarzına dönüştürebilmektedir. **Instapainting adındaki bir başka uygulama ile fotoğraflar sanat eserlerine dönüştürülebilmektedir.** GANbreeder adında bir uygulama ile iki farklı görüntü yeni bir görüntü üretmek üzere birleştirilebilmektedir. Deepart.i.o uygulaması ile bir görüntü önceden tanımlanmış stillerden birine
-    > dönüştürülebilmektedir. Cartoonify uygulaması bir bir fotoğrafı karikatüre dönüştürebilmektedir.
+    > **Açıklama:** AIportraits adındaki bir uygulama ile kullanıcılar bir portre fotoğrafını ünlü portre eserlerinden birinin tarzına dönüştürebilmektedir. **Instapainting adındaki bir başka uygulama ile fotoğraflar sanat eserlerine dönüştürülebilmektedir.** GANbreeder adında bir uygulama ile iki farklı görüntü yeni bir görüntü üretmek üzere birleştirilebilmektedir. Deepart.i.o uygulaması ile bir görüntü önceden tanımlanmış stillerden birine<br />dönüştürülebilmektedir. Cartoonify uygulaması bir bir fotoğrafı karikatüre dönüştürebilmektedir.
 
     <hr />
 1. Aşağıdakilerden hangisi Reas’a göre bilgisayar programlarının sanatsal amaçlarla kullanılabilecek önemli yeteneklerinden biri **değildir?**
@@ -3310,8 +3064,7 @@
     - D-) Lingo
     - E-) Python
 
-    > **Açıklama:** Processing bilgisayar ortamında generatif sanat üretmek için pek çok sanatçı tarafından kullanılan bir programlama ortamıdır. Processing elektronik sanat, yeni medya sanatı ve görsel tasarım toplulukları için, programcınolmayanlara bilgisayar programcılığının temellerini görsel bir bağlam içerisinde öğretme amacıyla Java programlama dili kullanılarak oluşturulmuş bir grafik kütüphane ve tümleşik geliştirme ortamıdır (IDE). Processing aslında bir programlama dili değil, daha çok bir programlama ortamıdır. Bunun sebebi
-    > **Processing’in Java programlama dili üzerine kurulu olmasıdır.** Elbette ki Java’nın kendisini oluşturan parçalar da C ve C++ gibi başka programlama dilleri ile oluşturulmuştur (Peters, 2007). Processing kullandığınızda aslında Java kullanıyorsunuz demektir, Processing sadece Java kullanarak yazmanız gereken koddan çok daha basitleştirilmiş kodlar yazarak amacınıza ulaşmanıza olanak verir.
+    > **Açıklama:** Processing bilgisayar ortamında generatif sanat üretmek için pek çok sanatçı tarafından kullanılan bir programlama ortamıdır. Processing elektronik sanat, yeni medya sanatı ve görsel tasarım toplulukları için, programcınolmayanlara bilgisayar programcılığının temellerini görsel bir bağlam içerisinde öğretme amacıyla Java programlama dili kullanılarak oluşturulmuş bir grafik kütüphane ve tümleşik geliştirme ortamıdır (IDE). Processing aslında bir programlama dili değil, daha çok bir programlama ortamıdır. Bunun sebebi<br />**Processing’in Java programlama dili üzerine kurulu olmasıdır.** Elbette ki Java’nın kendisini oluşturan parçalar da C ve C++ gibi başka programlama dilleri ile oluşturulmuştur (Peters, 2007). Processing kullandığınızda aslında Java kullanıyorsunuz demektir, Processing sadece Java kullanarak yazmanız gereken koddan çok daha basitleştirilmiş kodlar yazarak amacınıza ulaşmanıza olanak verir.
 
     <hr />
 1. Bilgisayar programlama dilleri ile dönüştürme tekniğine göre gerçekleştirilen sanatsal çalışma aşağıdakilerden hangisidir?
@@ -3521,13 +3274,7 @@
     - D-) V-c, VI-e VII-d
     - E-) Yalnız VII-d
 
-    > **Açıklama:** I-Manfred Mohr **a** a-Subsets
-    > II-Frieder Nake **c** b-100 Special Moments
-    > III-Tim Knowles **e** c-Tekrar
-    > IV-Jason Salavon **b** d-Lindenmayer sistemleri
-    > V-Simon Colton e- Ağaç Çizimleri
-    > VI-Harold Cohen
-    > VII-Aristid Lindenmayer **d**
+    > **Açıklama:** I-Manfred Mohr **a** a-Subsets<br />II-Frieder Nake **c** b-100 Special Moments<br />III-Tim Knowles **e** c-Tekrar<br />IV-Jason Salavon **b** d-Lindenmayer sistemleri<br />V-Simon Colton e- Ağaç Çizimleri<br />VI-Harold Cohen<br />VII-Aristid Lindenmayer **d**
 
     <hr />
 ## Unite 8
@@ -3728,11 +3475,7 @@
     - D-) festival
     - E-) amberPlatform
 
-    > **Açıklama:** Küratör ve tasarımcı Başak Şenova’nın küratöryel
-    > projesi olarak 2002 yılında ortaya çıkan oluşum
-    > dijital kültür içinde yerel bir şebeke kurma amacıyla
-    > kurulmuş.
-    > Nomad.tv
+    > **Açıklama:** Küratör ve tasarımcı Başak Şenova’nın küratöryel<br />projesi olarak 2002 yılında ortaya çıkan oluşum<br />dijital kültür içinde yerel bir şebeke kurma amacıyla<br />kurulmuş.<br />Nomad.tv
 
     <hr />
 1. Ülkemizde sanat eğitiminin planlaması yapılırken ağırlıklı olarak hangi ekoller baz alınmıştır?
@@ -3742,9 +3485,7 @@
     - D-) Bulgaristan ve Arnavutluk
     - E-) Hollanda ve Danimarka
 
-    > **Açıklama:** Ülkemizde sanat eğitiminin planlaması yapılırken
-    > ağırlıklı olarak Alman ve Fransız ekolleri
-    > baz alınmıştır.
+    > **Açıklama:** Ülkemizde sanat eğitiminin planlaması yapılırken<br />ağırlıklı olarak Alman ve Fransız ekolleri<br />baz alınmıştır.
 
     <hr />
 1. En temel ifade ile sanat bir insanın ........................ şeklidir. Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -3754,8 +3495,7 @@
     - D-) anlama
     - E-) başkasını ifade etme
 
-    > **Açıklama:** En temel ifade ile sanat bir insanın kendini ifade
-    > etme şeklidir
+    > **Açıklama:** En temel ifade ile sanat bir insanın kendini ifade<br />etme şeklidir
 
     <hr />
 1. 1982’de üretilen ve ilk oyun bilgisayarlarından biri sayılabilecek bilgisayarın adı nedir?
@@ -3765,11 +3505,7 @@
     - **Cevap D-) Commodore 64**
     - E-) LG
 
-    > **Açıklama:** 1982’de üretilen ve ilk oyun bilgisayarlarından
-    > biri sayılabilecek Commodore 64’ün yaygınlaşması
-    > ile oyunları edinmeye maddi imkanı
-    > olmayan birçok çocuk bu oyunları kopyalamaya
-    > başlamıştır.
+    > **Açıklama:** 1982’de üretilen ve ilk oyun bilgisayarlarından<br />biri sayılabilecek Commodore 64’ün yaygınlaşması<br />ile oyunları edinmeye maddi imkanı<br />olmayan birçok çocuk bu oyunları kopyalamaya<br />başlamıştır.
 
     <hr />
 1. Karmaşık ağ sistemleri ile toplumsal konular üzerine soyut mekanizmalar, ağ haritaları ve tahmin sistemleri yaratarak, sosyal yapılardaki güç odaklarını ve ilişkileri bu sistemler sayesinde görselleştiren yeni medya sanatçısı aşağıdakilerden hangisidir?
@@ -3779,11 +3515,7 @@
     - D-) Ali Artun
     - **Cevap E-) Selçuk Artut**
 
-    > **Açıklama:** Karmaşık ağ sistemleri ile toplumsal konular
-    > üzerine soyut mekanizmalar, ağ haritaları ve tahmin
-    > sistemleri yaratarak, sosyal yapılardaki güç odaklarını
-    > ve ilişkileri bu sistemler sayesinde görselleştirir
-    > Selçuk Artut
+    > **Açıklama:** Karmaşık ağ sistemleri ile toplumsal konular<br />üzerine soyut mekanizmalar, ağ haritaları ve tahmin<br />sistemleri yaratarak, sosyal yapılardaki güç odaklarını<br />ve ilişkileri bu sistemler sayesinde görselleştirir<br />Selçuk Artut
 
     <hr />
 1. Sürreal, dijital ve figüratif GIF looplarındaki müdahaleler mekanı renk ve formlar yerine hareket ve zamanla kompoze eden yeni medya sanatçısı kimdir?
@@ -3793,10 +3525,7 @@
     - D-) Murat Pak
     - E-) Candaş Şiman
 
-    > **Açıklama:** İnci’nin yarattığı sürreal, dijital ve figüratif
-    > GIF looplarındaki müdahaleler mekanı renk ve
-    > formlar yerine hareket ve zamanla kompoze eder.
-    > Erdal İnci
+    > **Açıklama:** İnci’nin yarattığı sürreal, dijital ve figüratif<br />GIF looplarındaki müdahaleler mekanı renk ve<br />formlar yerine hareket ve zamanla kompoze eder.<br />Erdal İnci
 
     <hr />
 1. İzleyicinin başına özel bir gözlük takınca, önündeki kağıda düz çizgi çizmek, kullanıcının elindeki topu atıp tutması gibi basit psikomotor faaliyetleri gerçekleştirememesini konu alan yeni medya sanatçısı kimdir?
@@ -3806,12 +3535,7 @@
     - D-) Başak Şenova
     - E-) İnci Eviner
 
-    > **Açıklama:** İzleyicinin başına
-    > özel bir gözlük takınca, önündeki kağıda düz
-    > çizgi çizmek, kullanıcının elindeki topu atıp tutması
-    > gibi basit psikomotor faaliyetleri gerçekleştirememesini
-    > konu alıyor.
-    > Bager Akbay
+    > **Açıklama:** İzleyicinin başına<br />özel bir gözlük takınca, önündeki kağıda düz<br />çizgi çizmek, kullanıcının elindeki topu atıp tutması<br />gibi basit psikomotor faaliyetleri gerçekleştirememesini<br />konu alıyor.<br />Bager Akbay
 
     <hr />
 1. Mimari yapıların 3 boyutlu rekonstrüksiyonlarının deneysel görselleştirmelerini içeren çalışmaları ve üç boyutlu görüntüleme tekniği fotogrametriyi kullanarak oluşturdukları envanterleri ile tanınan sanat kolektifi aşağıdakilerden hangisidir?
@@ -3821,14 +3545,7 @@
     - D-) Hafryat
     - E-) Clones Project
 
-    > **Açıklama:** Oddviz adlı sanatçı kolektifi
-    > ile de yapıtlar üretir. Oddviz’in yoğunlaştığı
-    > başlıca konular mimarlık ve şehircilik sayılabilir.
-    > Mimari yapıların 3 boyutlu rekonstrüksiyonlarının
-    > deneysel görselleştirmelerini içeren çalışmaları
-    > ve üç boyutlu görüntüleme tekniği fotogrametriyi
-    > kullanarak oluşturdukları envanterleri ile tanınmaktadır.
-    > Oddviz kolektifi
+    > **Açıklama:** Oddviz adlı sanatçı kolektifi<br />ile de yapıtlar üretir. Oddviz’in yoğunlaştığı<br />başlıca konular mimarlık ve şehircilik sayılabilir.<br />Mimari yapıların 3 boyutlu rekonstrüksiyonlarının<br />deneysel görselleştirmelerini içeren çalışmaları<br />ve üç boyutlu görüntüleme tekniği fotogrametriyi<br />kullanarak oluşturdukları envanterleri ile tanınmaktadır.<br />Oddviz kolektifi
 
     <hr />
 1. 2007 yılında ürettiği My Pocket / Cüzdanım adlı Bank of Amerika’nın gizlilik sözleşmesindeki ifadelerden hareketle oluşan projeyi yapan yeni medya sanatçısı kimdir?
@@ -3838,10 +3555,7 @@
     - **Cevap D-) Burak Arıkan**
     - E-) Murat Pak
 
-    > **Açıklama:** 2007 yılında ürettiği My Pocket / Cüzdanım adlı
-    > Bank of Amerika’nın gizlilik sözleşmesindeki ifadelerden
-    > hareketle oluşur.
-    > Burak Arıkan
+    > **Açıklama:** 2007 yılında ürettiği My Pocket / Cüzdanım adlı<br />Bank of Amerika’nın gizlilik sözleşmesindeki ifadelerden<br />hareketle oluşur.<br />Burak Arıkan
 
     <hr />
 1. Bugün yapay zeka ile üretilen estetiğin öncüsü olarak bilinir. Sanatçı bugün yapay zeka ile veri öykülemeleri ve bunların açık ve kapalı alanlara yansıtılmasıyla ilgili çalışmalar yürüttüğü RAS LAB’ı da yöneten yeni medya sanatçısı aşağıdakilerden hangisidir?
@@ -3851,12 +3565,7 @@
     - D-) Murat Pak
     - **Cevap E-) Refik Anadol**
 
-    > **Açıklama:** bugün yapay zeka
-    > ile üretilen estetiğin öncüsü olarak bilinir. Sanatçı
-    > bugün Refik Anadol Studiosunu ve yapay zeka ile
-    > veri öykülemeleri ve bunların açık ve kapalı alanlara
-    > yansıtılmasıyla ilgili öncülü olmayan çalışmalar
-    > yürüttüğü RAS LAB’ı yönetir.
+    > **Açıklama:** bugün yapay zeka<br />ile üretilen estetiğin öncüsü olarak bilinir. Sanatçı<br />bugün Refik Anadol Studiosunu ve yapay zeka ile<br />veri öykülemeleri ve bunların açık ve kapalı alanlara<br />yansıtılmasıyla ilgili öncülü olmayan çalışmalar<br />yürüttüğü RAS LAB’ı yönetir.
 
     <hr />
 1. Türkiye’de yeni medya sanatının yaygınlaştığı tarih aşağıdakilerden hangisidir?
@@ -3876,8 +3585,7 @@
     - D-) Türkiye'de teknolojinin gelişmesi
     - E-) Sanatçıların geleneksel yöntemlerden yetişmeleri
 
-    > **Açıklama:** Türkiye’de günümüz sanatçılarını klasik yöntemlerle sanat üretimi yapan sanatçılardan ayıran başlıca kriter, sanatçıların dijital dünyaya doğup, doğmadıkları, bir diğer deyişle **dijital yerli olarak tanımlanmasıdır.** Dijital dünyanın teknolojilerinin ,kullanıldığı bir dünyaya doğmuş, bilgisayar ve teknolojilerine doğar doğmaz tanışan ve ana dili gibi bilen bireyler dijital yerli, bu dünyaya doğmamış ancak bu teknolojileri bilen ve kullanan bireyler
-    > de dijital göçmendir
+    > **Açıklama:** Türkiye’de günümüz sanatçılarını klasik yöntemlerle sanat üretimi yapan sanatçılardan ayıran başlıca kriter, sanatçıların dijital dünyaya doğup, doğmadıkları, bir diğer deyişle **dijital yerli olarak tanımlanmasıdır.** Dijital dünyanın teknolojilerinin ,kullanıldığı bir dünyaya doğmuş, bilgisayar ve teknolojilerine doğar doğmaz tanışan ve ana dili gibi bilen bireyler dijital yerli, bu dünyaya doğmamış ancak bu teknolojileri bilen ve kullanan bireyler<br />de dijital göçmendir
 
     <hr />
 1. Türk Yeni Medya sanatçılarının yetişmesine öncü olan ekol aşağıdakilerden hangisidir?
@@ -3887,9 +3595,7 @@
     - D-) Görsel Sanatlar
     - E-) Sahne ve Gösteri Sanatları
 
-    > **Açıklama:** Görsel İletişim Tasarımı Ekolü
-    > Çağın iletişim teknolojilerini, görsellik ve tasarımla birleştirme ihtiyacı gün geçtikçe artarken bu
-    > alandaki mesleki profesyonelleri eğitmek için Bilgi Üniversitesi’nde 1997 yılında Görsel İletişim Tasarımı bölümü kurulur. Birbirinden farklı konuları müfredatında barındıran İletişim Tasarımı Fakültesi yeni bir araştırma-geliştirme akımının da öncüsü olur.
+    > **Açıklama:** Görsel İletişim Tasarımı Ekolü<br />Çağın iletişim teknolojilerini, görsellik ve tasarımla birleştirme ihtiyacı gün geçtikçe artarken bu<br />alandaki mesleki profesyonelleri eğitmek için Bilgi Üniversitesi’nde 1997 yılında Görsel İletişim Tasarımı bölümü kurulur. Birbirinden farklı konuları müfredatında barındıran İletişim Tasarımı Fakültesi yeni bir araştırma-geliştirme akımının da öncüsü olur.
 
     <hr />
 1. 1\. Amber Platformu<br />2\. NOMAD-TV.network<br />3\. Nerdworking<br />4\. Contemporary İstanbul<br />5\. 2010 Yılı Kültür Başkenti İstanbul<br />Yukarıdakilerden hangileri yeni medya sanatının Türkiye’de yaygınlaşmasında etkili olan oluşumlardır?
@@ -3899,20 +3605,7 @@
     - **Cevap D-) I, II, III ve V**
     - E-) II, III, IV ve V
 
-    > **Açıklama:** Günümüz yeni medya sanatçılarının Türkiye’dehiç fark edilmeden dünyada alanlarının en önemli isimleri haline gelmesini sağlayan en etkili kurumlardan biri **Amber Platformu’**dur.
-    > **NOMAD-TV.network**
-    > Küratör ve tasarımcı Başak Şenova’nın küratöryel projesi olarak 2002 yılında ortaya çıkan oluşum
-    > dijital kültür içinde yerel bir şebeke kurma amacıyla kurulmuş.
-    > **2010 Yılı Kültür Başkenti İstanbul**
-    > 2010 yılında Avrupa Konseyi tarafından 1995 yılından bugüne sürdürülen bir fon projesi kapsamında rekor bir bütçe ile İstanbul ve Linz birlikte Avrupa
-    > kültür başkentleri seçilmiştir (Hızlan, 2011). Hem
-    > iki şehir arasında hem de Avrupa’daki İstanbul’un
-    > kültür başkentliği kültürel ve sanatsal hareketlilik sağlamış, uluslararası alanda ses duyurarak ve İstanbul’da
-    > da sanatın yaygınlaşmasını sağlayan pek çok sanat ve
-    > kültür kurumu etkinlikler düzenlemiştir.
-    > **Nerdworking**
-    > İstanbul’da 2009 yılında yeni medya teknolojileri ile yaratıcı alanlarda teknoloji çözümleri sunan, kamusal alanlarda sergileme ihtiyaçlarını karşılayabilecek Nerdworking adlı bir kolektif kurulmuştur.
-    > Bu oluşum yeni medya projelerine odaklanan ilk ya da tek oluşum değildir. Ancak yeni medya sanatının Türkiye’deki gelişimine etkisi benzerlerinden daha kapsamlı olagelmiştir.
+    > **Açıklama:** Günümüz yeni medya sanatçılarının Türkiye’dehiç fark edilmeden dünyada alanlarının en önemli isimleri haline gelmesini sağlayan en etkili kurumlardan biri **Amber Platformu’**dur.<br />**NOMAD-TV.network**<br />Küratör ve tasarımcı Başak Şenova’nın küratöryel projesi olarak 2002 yılında ortaya çıkan oluşum<br />dijital kültür içinde yerel bir şebeke kurma amacıyla kurulmuş.<br />**2010 Yılı Kültür Başkenti İstanbul**<br />2010 yılında Avrupa Konseyi tarafından 1995 yılından bugüne sürdürülen bir fon projesi kapsamında rekor bir bütçe ile İstanbul ve Linz birlikte Avrupa<br />kültür başkentleri seçilmiştir (Hızlan, 2011). Hem<br />iki şehir arasında hem de Avrupa’daki İstanbul’un<br />kültür başkentliği kültürel ve sanatsal hareketlilik sağlamış, uluslararası alanda ses duyurarak ve İstanbul’da<br />da sanatın yaygınlaşmasını sağlayan pek çok sanat ve<br />kültür kurumu etkinlikler düzenlemiştir.<br />**Nerdworking**<br />İstanbul’da 2009 yılında yeni medya teknolojileri ile yaratıcı alanlarda teknoloji çözümleri sunan, kamusal alanlarda sergileme ihtiyaçlarını karşılayabilecek Nerdworking adlı bir kolektif kurulmuştur.<br />Bu oluşum yeni medya projelerine odaklanan ilk ya da tek oluşum değildir. Ancak yeni medya sanatının Türkiye’deki gelişimine etkisi benzerlerinden daha kapsamlı olagelmiştir.
 
     <hr />
 1. Generative Sanat Yazılım Aracı olarak tanımlanabilecek bir yazılım geliştiren sanatçı aşağıdakilerden hangisidir?
@@ -3942,9 +3635,7 @@
     - D-) Beeple
     - E-) Damien Hirst
 
-    > **Açıklama:** Mahir Yavuz’la birlikte yaptıkları **News Knitter / Haber Ören Twitter’de hızla trend olan**
-    > **başlık verisini alıp kazağa çeviren bir makineden oluşur.** Bu yapıtlarında görüldüğü gibi **Ebru Kurbak**
-    > yeni işlevler kazandırarak dönüştürdüğü cihazlara farklı önermeler getirirken teknolojiyi sanatsal müdahale aracı olarak kullanır.
+    > **Açıklama:** Mahir Yavuz’la birlikte yaptıkları **News Knitter / Haber Ören Twitter’de hızla trend olan**<br />**başlık verisini alıp kazağa çeviren bir makineden oluşur.** Bu yapıtlarında görüldüğü gibi **Ebru Kurbak**<br />yeni işlevler kazandırarak dönüştürdüğü cihazlara farklı önermeler getirirken teknolojiyi sanatsal müdahale aracı olarak kullanır.
 
     <hr />
 1. Ars Electronica’nın dış cephesini etkileşim tasarım yerleştirmesi ile aydınlatan yeni medya sanatçısı aşağıdakilerden hangisidir?
@@ -3954,9 +3645,7 @@
     - **Cevap D-) Onur Sönmez**
     - E-) Selçuk Artut
 
-    > **Açıklama:** Sanat pratiğinde **Onur Sönmez**’in uluslararası alanda tanındığı yapıtlarından biri Ars Electronica
-    > ana binasına yapmış olduğu etkileşim tasarım yerleştirmesidir. Linz’in 2010 Kültür Başkenti bütçesiyle
-    > **Ars Electronica yapısını dış cephesine yapılan aydınlatılmıştır.**
+    > **Açıklama:** Sanat pratiğinde **Onur Sönmez**’in uluslararası alanda tanındığı yapıtlarından biri Ars Electronica<br />ana binasına yapmış olduğu etkileşim tasarım yerleştirmesidir. Linz’in 2010 Kültür Başkenti bütçesiyle<br />**Ars Electronica yapısını dış cephesine yapılan aydınlatılmıştır.**
 
     <hr />
 1. Candaş Şişman ve Deniz Kader’in yeni medya sanatında ortak çalışma kültürüne örnek olan çalışması aşağıdakilerden hangisidir?
@@ -3966,12 +3655,7 @@
     - D-) Tuneable Touch
     - E-) Knitted Radio
 
-    > **Açıklama:** **Candaş Şişman ve Deniz Kader birlikte kurdukları NOHlab ile 2012 yılında Ars Electronica’da**
-    > **Deep Space Music adlı bir iş daha sergilemişlerdir**.Candaş Şişman ve Deniz Kader’in kürasyonunu yaptığı görsellere sanatçı Zeynep Nal, Bager Akbay, İsmail Kasarcı, Osman Koç ve Kaan Kaner bölümler üretmişlerdir.
-    > Namekawa’nın soyut notalarına, mekanın atmosferi ve gerçek zamanlı performans ile izleyicilere büyüleyici bir immersive deneyim sunan performans karma tekniklerle üretilmiştir. Teknikler, kod ile
-    > üretilen animasyonlar, reaktif sahneler ve önceden hazırlanmış videolar ile emprovize edilen müziğe
-    > tepki veren sistemleri içermektedir. Bu açıdan **güncel yeni medya sanatında ortak çalışma kültürünü**
-    > **de örneklendirir.**
+    > **Açıklama:** **Candaş Şişman ve Deniz Kader birlikte kurdukları NOHlab ile 2012 yılında Ars Electronica’da**<br />**Deep Space Music adlı bir iş daha sergilemişlerdir**.Candaş Şişman ve Deniz Kader’in kürasyonunu yaptığı görsellere sanatçı Zeynep Nal, Bager Akbay, İsmail Kasarcı, Osman Koç ve Kaan Kaner bölümler üretmişlerdir.<br />Namekawa’nın soyut notalarına, mekanın atmosferi ve gerçek zamanlı performans ile izleyicilere büyüleyici bir immersive deneyim sunan performans karma tekniklerle üretilmiştir. Teknikler, kod ile<br />üretilen animasyonlar, reaktif sahneler ve önceden hazırlanmış videolar ile emprovize edilen müziğe<br />tepki veren sistemleri içermektedir. Bu açıdan **güncel yeni medya sanatında ortak çalışma kültürünü**<br />**de örneklendirir.**
 
     <hr />
 1. Sanatçılara yeni medya teknoloji çözümleri sunan, sergileme ihtiyaçlarını karşılayan topluluk aşağıdakilerden hangisidir?
@@ -4001,8 +3685,7 @@
     - D-) Açık kaynak yazılımının çoğalması
     - E-) Eğitim kalitesinin yeterli olması
 
-    > **Açıklama:** Türkiye'de kökü bulunmamakta
-    > Alanın köklü geçmişi
+    > **Açıklama:** Türkiye'de kökü bulunmamakta<br />Alanın köklü geçmişi
 
     <hr />
 1. Beden İşlemsel Sanatlar Derneğinin bünyesinde yer alan aşağıdakilerden hangisi Data City, Öteki Ekoloji, Rapataktik Müşterekler gibi dönemin yenilikçi konuları üzerine araştırmalar yapan bir düşünce kuruluşudur?
@@ -4042,8 +3725,7 @@
     - D-) Refik Anadol
     - E-) Burak Arıkan
 
-    > **Açıklama:** Cerebra Electronica yapıtı ile festival izleyicileri ile müze arasında unik bir bağ kuran Osman Sönmez'dir. Müzenin bio verilerle aydınlatılmasını sağlamıştır.
-    > Onur Sönmez
+    > **Açıklama:** Cerebra Electronica yapıtı ile festival izleyicileri ile müze arasında unik bir bağ kuran Osman Sönmez'dir. Müzenin bio verilerle aydınlatılmasını sağlamıştır.<br />Onur Sönmez
 
     <hr />
 1. Immersive sanat eserlerinde yapay zekayı ilk kullanan ve immersive enstalasyonları ile alanın en önemli isimleri arasında yer alan sanatçı aşağıdakilerden hangisidir?

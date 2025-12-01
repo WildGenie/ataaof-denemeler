@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BÜYÜK VERİ ÇAĞINDA DİJİTAL PARMAK İZLERİMİZ<br>“2016 yılında Avrupa Birliği Genel Veri Koruma Yönetmeliği (GDPR) uygulamaya konuldu.”"
+        "Aciklama": "BÜYÜK VERİ ÇAĞINDA DİJİTAL PARMAK İZLERİMİZ<br/>“2016 yılında Avrupa Birliği Genel Veri Koruma Yönetmeliği (GDPR) uygulamaya konuldu.”"
     },
     {
         "SoruID": 3769297,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Algoritmik Yöntemlerin Temel Özellikleri<br>“Algoritmik yöntemlerinin dört tane temel özelliği vardır: büyük veri setlerinin kullanımı, otomatik veya yarı otomatik yazılımlar kullanarak dijital ortamdan veri toplanılması, toplanılan büyük veri kümelerinin bilgisayar bilimlerinden alınan bir dizi farklı teknik ile modellenmesi ve işlenen verinin görselleştirilmesidir.”"
+        "Aciklama": "Algoritmik Yöntemlerin Temel Özellikleri<br/>“Algoritmik yöntemlerinin dört tane temel özelliği vardır: büyük veri setlerinin kullanımı, otomatik veya yarı otomatik yazılımlar kullanarak dijital ortamdan veri toplanılması, toplanılan büyük veri kümelerinin bilgisayar bilimlerinden alınan bir dizi farklı teknik ile modellenmesi ve işlenen verinin görselleştirilmesidir.”"
     },
     {
         "SoruID": 3769298,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Algoritmik Yöntemlerin Temel Özellikleri<br>“Algoritmik yöntemlerde veri toplama teknik­lerine; kazıma ve programatik erişim örnek olarak verilebilir.”"
+        "Aciklama": "Algoritmik Yöntemlerin Temel Özellikleri<br/>“Algoritmik yöntemlerde veri toplama teknik­lerine; kazıma ve programatik erişim örnek olarak verilebilir.”"
     },
     {
         "SoruID": 3769299,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "DİJİTAL MECRALARDA VERİ DİNAMİKLERİ VE TEMEL ARAŞTIRMA YAKLAŞIMLARI<br>“Tümüyle erişime kapalı olarak bulunan ya da paylaşılan veriye “karanlık” denir – bunlara örnek olarak e-postalar, SMS, WhatsApp’daki gibi içerikler verilebilir.”"
+        "Aciklama": "DİJİTAL MECRALARDA VERİ DİNAMİKLERİ VE TEMEL ARAŞTIRMA YAKLAŞIMLARI<br/>“Tümüyle erişime kapalı olarak bulunan ya da paylaşılan veriye “karanlık” denir – bunlara örnek olarak e-postalar, SMS, WhatsApp’daki gibi içerikler verilebilir.”"
     },
     {
         "SoruID": 3769300,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yapılandırılmış Veriler (Structured)<br>Yapılandırılmış veriler sayıya dayalı, nicel oldukları için sayılabilir. Nicel olmaları sebebiyle de bu tür veriler nicel yöntemlere dayalı olarak analiz edilir. Yapılandırılmış veriler daha az depolama alanı gerektirirken yapılandırılmamış veriler daha fazlasını gerektirir."
+        "Aciklama": "Yapılandırılmış Veriler (Structured)<br/>Yapılandırılmış veriler sayıya dayalı, nicel oldukları için sayılabilir. Nicel olmaları sebebiyle de bu tür veriler nicel yöntemlere dayalı olarak analiz edilir. Yapılandırılmış veriler daha az depolama alanı gerektirirken yapılandırılmamış veriler daha fazlasını gerektirir."
     },
     {
         "SoruID": 3769301,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Web Kazıma Yöntemleri ve Süreci<br>“Web Kazıma yönteminde veriler HTML biçiminde alınır, daha sonra istediğiniz algoritmik yöntemlerle temizlenerek yapılandırılmış veri formatına çevrilir.”"
+        "Aciklama": "Web Kazıma Yöntemleri ve Süreci<br/>“Web Kazıma yönteminde veriler HTML biçiminde alınır, daha sonra istediğiniz algoritmik yöntemlerle temizlenerek yapılandırılmış veri formatına çevrilir.”"
     },
     {
         "SoruID": 3769302,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Web Kazıma Yöntemleri ve Süreci<br>“UPA, iki uygulamanın birbiriyle konuşmasına olanak tanıyan bir yazılım aracısı olan Uygulama Programlama Arayüzü’nün kısaltmasıdır. Sosyal medya platformlarından veri toplamak için kullanılan araçların çoğu, Uygulama Programlama Arayüzleri’nden (UPA’lar) programatik erişime dayanır.”"
+        "Aciklama": "Web Kazıma Yöntemleri ve Süreci<br/>“UPA, iki uygulamanın birbiriyle konuşmasına olanak tanıyan bir yazılım aracısı olan Uygulama Programlama Arayüzü’nün kısaltmasıdır. Sosyal medya platformlarından veri toplamak için kullanılan araçların çoğu, Uygulama Programlama Arayüzleri’nden (UPA’lar) programatik erişime dayanır.”"
     },
     {
         "SoruID": 3769304,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sosyal Medya Dinleme ve Analiz Uygulamalarında Veri Kriterleri ve Boyutları<br>“Neredeyse tüm takip veya dinleme uygulamaları duygu (ton) analizini kullanıcılarına hizmet olarak sağlamaya çalışır. Duygu (ton) analizi, tekil bir içerikten milyonlarca içeriğin ortalamasına kadar ifade edilenlerin en basitinde olumlu, olumsuz ve nötr olmak üzere yaklaşımların ya da ifadelerin genel olarak bakış açısını belirten bir değerlendirme ve analiz biçimidir.”"
+        "Aciklama": "Sosyal Medya Dinleme ve Analiz Uygulamalarında Veri Kriterleri ve Boyutları<br/>“Neredeyse tüm takip veya dinleme uygulamaları duygu (ton) analizini kullanıcılarına hizmet olarak sağlamaya çalışır. Duygu (ton) analizi, tekil bir içerikten milyonlarca içeriğin ortalamasına kadar ifade edilenlerin en basitinde olumlu, olumsuz ve nötr olmak üzere yaklaşımların ya da ifadelerin genel olarak bakış açısını belirten bir değerlendirme ve analiz biçimidir.”"
     },
     {
         "SoruID": 3769305,
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğal Dil İşleme ve Metin Madenciliği<br>“Sözlüğün ya da kurallar setinin kaynağı verinin kendisidir. Verinin kendisinden kurallar dizini ve modelleri çıkarabilmek için kullanılan en temel uygulama ise Ngram çıkarmaktır. Ngram, bir veri içerisinde bulunan tüm tekli, ikili, üçlü; sırasıyla ihtiyaç duyulan uzunluğa kadar verinin içerisinde yer alan tüm yapıların toplam sayılarına göre hiyerarşik olarak listelenmesidir (Tsapatsoulis ve Djouvas 2019).”"
+        "Aciklama": "Doğal Dil İşleme ve Metin Madenciliği<br/>“Sözlüğün ya da kurallar setinin kaynağı verinin kendisidir. Verinin kendisinden kurallar dizini ve modelleri çıkarabilmek için kullanılan en temel uygulama ise Ngram çıkarmaktır. Ngram, bir veri içerisinde bulunan tüm tekli, ikili, üçlü; sırasıyla ihtiyaç duyulan uzunluğa kadar verinin içerisinde yer alan tüm yapıların toplam sayılarına göre hiyerarşik olarak listelenmesidir (Tsapatsoulis ve Djouvas 2019).”"
     },
     {
         "SoruID": 3769501,
@@ -617,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Büyük Veri Çağinda Dijital Parmak İzlerimiz<br>GDPR (General Data Protection Regulation)"
+        "Aciklama": "Büyük Veri Çağinda Dijital Parmak İzlerimiz<br/>GDPR (General Data Protection Regulation)"
     },
     {
         "SoruID": 3769502,
@@ -637,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Nitel ve Nicel Veri Nedir?<br>Belirli bir miktar belirtilmeyen, bir sıra ya da dereceye göre elde edilen verilerdir"
+        "Aciklama": "Nitel ve Nicel Veri Nedir?<br/>Belirli bir miktar belirtilmeyen, bir sıra ya da dereceye göre elde edilen verilerdir"
     },
     {
         "SoruID": 3769503,
@@ -657,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yapılandırılmış Veriler (Structured)<br>SQL (Structured Query Language)"
+        "Aciklama": "Yapılandırılmış Veriler (Structured)<br/>SQL (Structured Query Language)"
     },
     {
         "SoruID": 3769504,
@@ -677,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital Mecralarda Veri Nasıl Toplanır?<br>Dijital ortamlardan veri çıkarılması ve bu verileri merkezî bir veri tabanında ve analizde depolanmaya uygun bir forma dönüştürülmesi işlemidir"
+        "Aciklama": "Dijital Mecralarda Veri Nasıl Toplanır?<br/>Dijital ortamlardan veri çıkarılması ve bu verileri merkezî bir veri tabanında ve analizde depolanmaya uygun bir forma dönüştürülmesi işlemidir"
     },
     {
         "SoruID": 3769505,
@@ -697,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Web Kazıma Aşamaları<br>Örümcek"
+        "Aciklama": "Web Kazıma Aşamaları<br/>Örümcek"
     },
     {
         "SoruID": 3769506,
@@ -717,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Web Kazıma Yasal Mı?<br><br/>Türkiye’de 6698 numaralı Kişisel Verilerin Korunması Kanunu (KVKK) gereği kişisel verilerin toplanılması için için kullanıcının rıza alınması şarttır."
+        "Aciklama": "Web Kazıma Yasal Mı?<br/><br/>Türkiye’de 6698 numaralı Kişisel Verilerin Korunması Kanunu (KVKK) gereği kişisel verilerin toplanılması için için kullanıcının rıza alınması şarttır."
     },
     {
         "SoruID": 3769507,
@@ -737,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Algoritmik Yöntemlerle Veri Temizleme Ve Analizi<br>Metin Madenciliği"
+        "Aciklama": "Algoritmik Yöntemlerle Veri Temizleme Ve Analizi<br/>Metin Madenciliği"
     },
     {
         "SoruID": 3769508,
@@ -757,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğal Dil İşleme (Natural Language Processing, DDİ)<br>Duygu analizi"
+        "Aciklama": "Doğal Dil İşleme (Natural Language Processing, DDİ)<br/>Duygu analizi"
     },
     {
         "SoruID": 3769509,
@@ -797,7 +797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Jacob Moreno’nun Yatakhane Firarileri (1932)<br>Stanley Milgram"
+        "Aciklama": "Jacob Moreno’nun Yatakhane Firarileri (1932)<br/>Stanley Milgram"
     },
     {
         "SoruID": 3769511,
@@ -817,7 +817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Algoritmik Yöntemlerin Sınırları, başlığını inceleyiniz.<br>Algoritmik yöntemlerin sınırlarından bazıları şunlardır:<br/>I- Veri, kullanıcıların belirli şekillerde nasıl davrandığına ilişkin soruları yanıtlar.<br/>II- Yorum öznel bir süreç olduğundan dolayı veri güdümlü yöntemlerle üretilmiş bilgi hiçbir zaman tamamen nesnel değildir.<br/>III- Toplumun belli kesimleri düzenli olarak internet kullanmıyor. Herkesin sosyal medya hesabı yok. Bazen, aynı hesabı kullanan birden fazla kullanıcı olabilir. Bunlardan dolayı çevrimiçi ortamlardan toplanan verilerle topluma ilişkin kapsamlı genellemeler yapmaktan kaçınmak gerekir.<br/>IV- Büyük veri ve bütün veri aynı şeyler değildir.<br/>VI- Algoritmik yöntemlerle toplanmış bağlam dışı verinin herhangi bir değeri yoktur."
+        "Aciklama": "Algoritmik Yöntemlerin Sınırları, başlığını inceleyiniz.<br/>Algoritmik yöntemlerin sınırlarından bazıları şunlardır:<br/>I- Veri, kullanıcıların belirli şekillerde nasıl davrandığına ilişkin soruları yanıtlar.<br/>II- Yorum öznel bir süreç olduğundan dolayı veri güdümlü yöntemlerle üretilmiş bilgi hiçbir zaman tamamen nesnel değildir.<br/>III- Toplumun belli kesimleri düzenli olarak internet kullanmıyor. Herkesin sosyal medya hesabı yok. Bazen, aynı hesabı kullanan birden fazla kullanıcı olabilir. Bunlardan dolayı çevrimiçi ortamlardan toplanan verilerle topluma ilişkin kapsamlı genellemeler yapmaktan kaçınmak gerekir.<br/>IV- Büyük veri ve bütün veri aynı şeyler değildir.<br/>VI- Algoritmik yöntemlerle toplanmış bağlam dışı verinin herhangi bir değeri yoktur."
     },
     {
         "SoruID": 3769512,
@@ -837,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Algoritmik Yöntemlerin Temel Özellikleri, başlığını inceleyiniz.<br>“İnsan davranışları hakkında üretilmiş tüm sosyal bilim teorilerini unutun gitsin (...) insanlar neyi neden yaptığını nereden bilebiliriz ki? Önemli olan insanların nasıl davrandığını ölçebilmek. Elimizdeki yeni imkanlarla insanların davranışlarını eşi benzeri görülmemiş bir doğrulukla takip edip ölçebiliyoruz. Yeterli veriyle, insan davranışlarını öngörüp aksiyon almamız mümkün”. Wired dergisinin genel yayın yönetmeni <strong>Chris Anderson</strong>, yayımladığı bir yazıda teknoloji şirketleri tarafından toplanan verilerin sosyal bilim teorilerini geçersiz kıldığını iddia eder. Anderson, her şeyin dijital izi olduğu bir çağda sosyal bilimleri ve sosyal bilim yöntemlerine ihtiyaç olmadığını savunur. Anderson’ın sosyal bilimlere yönelik sözlerinin eleştiriden ziyade tatlı bir provokasyon olmasıyla beraber, verileşmenin sosyal bilimlerin epistemolojik ufkunu sarstığını işaret etmekte haklıdır."
+        "Aciklama": "Algoritmik Yöntemlerin Temel Özellikleri, başlığını inceleyiniz.<br/>“İnsan davranışları hakkında üretilmiş tüm sosyal bilim teorilerini unutun gitsin (...) insanlar neyi neden yaptığını nereden bilebiliriz ki? Önemli olan insanların nasıl davrandığını ölçebilmek. Elimizdeki yeni imkanlarla insanların davranışlarını eşi benzeri görülmemiş bir doğrulukla takip edip ölçebiliyoruz. Yeterli veriyle, insan davranışlarını öngörüp aksiyon almamız mümkün”. Wired dergisinin genel yayın yönetmeni <strong>Chris Anderson</strong>, yayımladığı bir yazıda teknoloji şirketleri tarafından toplanan verilerin sosyal bilim teorilerini geçersiz kıldığını iddia eder. Anderson, her şeyin dijital izi olduğu bir çağda sosyal bilimleri ve sosyal bilim yöntemlerine ihtiyaç olmadığını savunur. Anderson’ın sosyal bilimlere yönelik sözlerinin eleştiriden ziyade tatlı bir provokasyon olmasıyla beraber, verileşmenin sosyal bilimlerin epistemolojik ufkunu sarstığını işaret etmekte haklıdır."
     },
     {
         "SoruID": 3769513,
@@ -857,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital Mecra Türleri ve Veriye Erişim, başlığını inceleyiniz.<br>Dijital mecralar, ilk aklımıza gelen büyük platformlarla sınırlı değildir – Facebook, Twitter, Instagram vb. dışında birçok başka şeyi de kapsar. Bunların arasında bloglar, forumlar, haberler portalları ve hatta kişisel web siteleri dâhildir. İnternette karşılaştığınız herhangi kamuya açık herhangi bir site, toplumun davranışlarını ve görüşlerini anlamamıza yardımcı olmak için kullanılabilir."
+        "Aciklama": "Dijital Mecra Türleri ve Veriye Erişim, başlığını inceleyiniz.<br/>Dijital mecralar, ilk aklımıza gelen büyük platformlarla sınırlı değildir – Facebook, Twitter, Instagram vb. dışında birçok başka şeyi de kapsar. Bunların arasında bloglar, forumlar, haberler portalları ve hatta kişisel web siteleri dâhildir. İnternette karşılaştığınız herhangi kamuya açık herhangi bir site, toplumun davranışlarını ve görüşlerini anlamamıza yardımcı olmak için kullanılabilir."
     },
     {
         "SoruID": 3769514,
@@ -877,7 +877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital Mecra Türleri ve Veriye Erişim, başlığını inceleyiniz.<br>Nitel veriler, belli bir yapısal özelliğe sahip olup olmadıklarına göre simgelenen verilerdir. Nitel veriler konvansiyonel araştırma yöntemlerine göre sayılabilir ama ölçülmez.<br/>Birimlere dayalı ölçülmezler ve sayılarak değerleri, yoğunlukları belirtilebilen, belli bir yapısal özelliği, farklılığı taşımakla (veya taşımamakla) simgelenen verilerdir."
+        "Aciklama": "Dijital Mecra Türleri ve Veriye Erişim, başlığını inceleyiniz.<br/>Nitel veriler, belli bir yapısal özelliğe sahip olup olmadıklarına göre simgelenen verilerdir. Nitel veriler konvansiyonel araştırma yöntemlerine göre sayılabilir ama ölçülmez.<br/>Birimlere dayalı ölçülmezler ve sayılarak değerleri, yoğunlukları belirtilebilen, belli bir yapısal özelliği, farklılığı taşımakla (veya taşımamakla) simgelenen verilerdir."
     },
     {
         "SoruID": 3769515,
@@ -897,7 +897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital Mecralarda Bulunan Veri Türleri, başlığını inceleyiniz.<br>Hava yolu rezervasyon sistemleri, envanter kontrol sistemleri, <strong>satış işlemlerini kayıtları</strong> yapılandırılmış verilerin kullanıldığı yaygın ilişkisel veritabanı örnekleridir.<br/>Diğer seçeneklerdeki veriler, yapılandırılmamış verilerdir."
+        "Aciklama": "Dijital Mecralarda Bulunan Veri Türleri, başlığını inceleyiniz.<br/>Hava yolu rezervasyon sistemleri, envanter kontrol sistemleri, <strong>satış işlemlerini kayıtları</strong> yapılandırılmış verilerin kullanıldığı yaygın ilişkisel veritabanı örnekleridir.<br/>Diğer seçeneklerdeki veriler, yapılandırılmamış verilerdir."
     },
     {
         "SoruID": 3769516,
@@ -917,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital Mecralarda Bulunan Veri Türleri, başlığını inceleyiniz.<br>İşaretleme dili XML: Yarı yapılandırılmış bir belge dilidir. XML, insan ve makine tarafından okunabilir bir formatı tanımlayan bir dizi belge kodlama kuralıdır. Her ne kadar XML insanlar tarafından manuel olarak okunabilir olsa da büyük boyuttaki bir XML dökümanını okumak oldukça çok fazla alır ve verimli, etkili bir çalışma şekli değildir. Avantajı, etiket odaklı yapısının oldukça esnek olmasıdır ve kodlayıcılar ile bu yapılabilir."
+        "Aciklama": "Dijital Mecralarda Bulunan Veri Türleri, başlığını inceleyiniz.<br/>İşaretleme dili XML: Yarı yapılandırılmış bir belge dilidir. XML, insan ve makine tarafından okunabilir bir formatı tanımlayan bir dizi belge kodlama kuralıdır. Her ne kadar XML insanlar tarafından manuel olarak okunabilir olsa da büyük boyuttaki bir XML dökümanını okumak oldukça çok fazla alır ve verimli, etkili bir çalışma şekli değildir. Avantajı, etiket odaklı yapısının oldukça esnek olmasıdır ve kodlayıcılar ile bu yapılabilir."
     },
     {
         "SoruID": 3769517,
@@ -937,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Örnek: Twitter REST ve STREAM UPA, başlığını inceleyiniz.<br>Twitter, diğer sosyal medya platformlarına kıyasla, araştırmacılara verilerini paylaşma konusunda daha imkan tanır. REST (Temsili durum aktarımı) ve STREAM UPA’ları aracılığıyla platform verilerine gerçek zamanlı erişim sunar. Bu UPA’lar üzerinden alınan veriler bizlere aşağıdaki bilgileri verir:<br/>• Kullanıcı bilgisi<br/>• Herkese açık profil bilgileri<br/>• Konum<br/>• Arkadaşlar ve takipçiler<br/>• İleti metni<br/>• Gönderi Zamanı<br/>• Mention’lar, hashtag’ler, emojiler<br/>• Resimler ve videolar<br/>• Paylaşılan İçeriğe Bağlantılar<br/>• Web Sitelerine Bağlantılar"
+        "Aciklama": "Örnek: Twitter REST ve STREAM UPA, başlığını inceleyiniz.<br/>Twitter, diğer sosyal medya platformlarına kıyasla, araştırmacılara verilerini paylaşma konusunda daha imkan tanır. REST (Temsili durum aktarımı) ve STREAM UPA’ları aracılığıyla platform verilerine gerçek zamanlı erişim sunar. Bu UPA’lar üzerinden alınan veriler bizlere aşağıdaki bilgileri verir:<br/>• Kullanıcı bilgisi<br/>• Herkese açık profil bilgileri<br/>• Konum<br/>• Arkadaşlar ve takipçiler<br/>• İleti metni<br/>• Gönderi Zamanı<br/>• Mention’lar, hashtag’ler, emojiler<br/>• Resimler ve videolar<br/>• Paylaşılan İçeriğe Bağlantılar<br/>• Web Sitelerine Bağlantılar"
     },
     {
         "SoruID": 3769518,
@@ -957,7 +957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sosyal Medya Dinleme ve Analiz Uygulamalarında Veri Kriterleri ve Boyutları, başlığını inceleyiniz.<br>Web platformlarını ve sosyal medyayı takip için kullanılan standart takip uygulamalarına kıyasla daha fazla çok yönlü ve çeşitli, derinlemesine içgörü sağlayacak özelliklerle veri toplamayı ve analiz etmeyi sağlayan uygulamalara genellikle ‘Sosyal Zeka’ (Social Intelligence) uygulamaları denir.<br/>I- Sosyal zeka uygulamaları, sosyal medya metriklerine, paylaşılan içeriklere veya bu sosyal medya platformlarında meydana gelen aktivitelere bağlı olarak çeşitli içgörüler sunar.<br/>III- Bunun da nedeni bu uygulamaların ve sosyal medya platformlarının dinamikleri, teknik özellikleri ve kullanıcı alışkanlıkları, birbirine paralel olarak, sürekli olarak gelişmektedir ya da değişmektedir. <br/>IV- Temel veri özellikleri ile ilgili kriterler kabul edilmiş sabit metrik (metrics) olarak ifade edilen ölçüm kriterleri vardır.<br/><strong>I, III, IV</strong> sosyal zeka uygulamalarının özelliklerindendir.<br/>Ancak \"II- Bu uygulamalar ve işlevleri hakkında geniş bir bilimsel literatür mevcuttur.\" şıkkı yanlıştır. Çünkü \"bu uygulamaların ve sosyal medya platformlarının dinamikleri, teknik özellikleri ve kullanıcı alışkanlıkları, birbirine paralel olarak, sürekli olarak gelişmektedir ya da değişmektedir. \" Bu nedenle bu uygulamalar ve işlevleri hakkında geniş bir bilimsel literatür yoktur."
+        "Aciklama": "Sosyal Medya Dinleme ve Analiz Uygulamalarında Veri Kriterleri ve Boyutları, başlığını inceleyiniz.<br/>Web platformlarını ve sosyal medyayı takip için kullanılan standart takip uygulamalarına kıyasla daha fazla çok yönlü ve çeşitli, derinlemesine içgörü sağlayacak özelliklerle veri toplamayı ve analiz etmeyi sağlayan uygulamalara genellikle ‘Sosyal Zeka’ (Social Intelligence) uygulamaları denir.<br/>I- Sosyal zeka uygulamaları, sosyal medya metriklerine, paylaşılan içeriklere veya bu sosyal medya platformlarında meydana gelen aktivitelere bağlı olarak çeşitli içgörüler sunar.<br/>III- Bunun da nedeni bu uygulamaların ve sosyal medya platformlarının dinamikleri, teknik özellikleri ve kullanıcı alışkanlıkları, birbirine paralel olarak, sürekli olarak gelişmektedir ya da değişmektedir. <br/>IV- Temel veri özellikleri ile ilgili kriterler kabul edilmiş sabit metrik (metrics) olarak ifade edilen ölçüm kriterleri vardır.<br/><strong>I, III, IV</strong> sosyal zeka uygulamalarının özelliklerindendir.<br/>Ancak \"II- Bu uygulamalar ve işlevleri hakkında geniş bir bilimsel literatür mevcuttur.\" şıkkı yanlıştır. Çünkü \"bu uygulamaların ve sosyal medya platformlarının dinamikleri, teknik özellikleri ve kullanıcı alışkanlıkları, birbirine paralel olarak, sürekli olarak gelişmektedir ya da değişmektedir. \" Bu nedenle bu uygulamalar ve işlevleri hakkında geniş bir bilimsel literatür yoktur."
     },
     {
         "SoruID": 3769529,
@@ -977,7 +977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğal Dil İşleme ve Metin Madenciliği, başlığını inceleyiniz.<br>Doğal Dil İşleme uygulamalarının görevlerinden bazıları şunlardır:<br/><strong>I- konuşma tanıma</strong><br/><strong>II- kelime anlam ayrımı</strong><br/><strong>III- eş referans çözümlemesi</strong><br/><strong>V- doğal dil üretimi</strong><br/>Ancak, IV- görsel metin analizi görevlerinden değildir."
+        "Aciklama": "Doğal Dil İşleme ve Metin Madenciliği, başlığını inceleyiniz.<br/>Doğal Dil İşleme uygulamalarının görevlerinden bazıları şunlardır:<br/><strong>I- konuşma tanıma</strong><br/><strong>II- kelime anlam ayrımı</strong><br/><strong>III- eş referans çözümlemesi</strong><br/><strong>V- doğal dil üretimi</strong><br/>Ancak, IV- görsel metin analizi görevlerinden değildir."
     },
     {
         "SoruID": 3769530,
@@ -997,7 +997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Algoritmik Yöntemlerle Veri Temizleme ve Analizi<br>Sosyal Ağ Analizinin Temel Prensipleri<br/>1. Aktörler arası ilişkisellik, bulundukları sistemin niteliklerine dair önemli ipuçları barındırır.<br/>2. Toplum gruplar ve topluluklardan değil, sosyal ağlardan oluşur.<br/>3. Sosyal ağ analizi, nitel araştırma yöntemlerinden elde edilen bilgiyi tamamlayıcı niteliğe sahiptir."
+        "Aciklama": "Algoritmik Yöntemlerle Veri Temizleme ve Analizi<br/>Sosyal Ağ Analizinin Temel Prensipleri<br/>1. Aktörler arası ilişkisellik, bulundukları sistemin niteliklerine dair önemli ipuçları barındırır.<br/>2. Toplum gruplar ve topluluklardan değil, sosyal ağlardan oluşur.<br/>3. Sosyal ağ analizi, nitel araştırma yöntemlerinden elde edilen bilgiyi tamamlayıcı niteliğe sahiptir."
     },
     {
         "SoruID": 3769531,

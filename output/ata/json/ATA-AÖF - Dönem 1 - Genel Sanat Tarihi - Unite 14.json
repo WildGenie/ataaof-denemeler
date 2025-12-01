@@ -401,11 +401,11 @@
     },
     {
         "SoruID": 393989,
-        "SoruMetni": "I. Ahar<br/>II. Divit<br/>III. Hokka<br/>IV. Mühre <br/><strong>Yukarıdakilerden hangisi ya da hangileri hat sanatında kullanılan araç gereçler arasında yer alır?</strong></br></br></br>",
+        "SoruMetni": "I. Ahar<br/>II. Divit<br/>III. Hokka<br/>IV. Mühre <br/><strong>Yukarıdakilerden hangisi ya da hangileri hat sanatında kullanılan araç gereçler arasında yer alır?</strong>",
         "A": "I ve II",
         "B": "Yalnız III",
         "C": "Yalnız IV",
-        "D": "II ve IV<br type=\"_moz\"/>",
+        "D": "II ve IV",
         "E": "I, II, III ve IV",
         "DogruCevap": "E",
         "DersAd": "Genel Sanat Tarihi",

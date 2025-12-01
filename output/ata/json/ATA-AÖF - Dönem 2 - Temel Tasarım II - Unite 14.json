@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 313465,
-        "SoruMetni": "I. Dikey<br/>II. Yatay<br/>III. Diyagonal<br/><strong>Yukarıdakilerden hangisi ya da hangileri ile tasarımda yönler tayin edilebilir?</strong></br></br>",
+        "SoruMetni": "I. Dikey<br/>II. Yatay<br/>III. Diyagonal<br/><strong>Yukarıdakilerden hangisi ya da hangileri ile tasarımda yönler tayin edilebilir?</strong>",
         "A": "I ve III",
         "B": "I, II ve III",
         "C": "Yalnız I",
@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 316509,
-        "SoruMetni": "I. Derinlik<br/>II. Renk<br/>III. Hareket<br/><strong>Yukarıdakilerden hangisi ya da hangileri bir yüzeyde aynı yönde konumlanmış görsel ögelerin neden olabileceği kavramlar arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Derinlik<br/>II. Renk<br/>III. Hareket<br/><strong>Yukarıdakilerden hangisi ya da hangileri bir yüzeyde aynı yönde konumlanmış görsel ögelerin neden olabileceği kavramlar arasında yer alır?</strong>",
         "A": "Yalnız II",
         "B": "Yalnız III",
         "C": "I ve II",

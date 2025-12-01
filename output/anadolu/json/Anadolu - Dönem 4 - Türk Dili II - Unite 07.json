@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuma amacını belirleme okuma öncesinde uygulanan bir stratejdir.<br>Okuma öncesinde belirlenen amaçlar doğrultusunda metnin okunması, değerlendirilmesi ve anlama düzeyinin kontrol edilmesidir. Bu amaçla not alma, okuma hızını ayarlama, önemli bilgiyi işaretleme, sözlük vb. başvuru kaynaklarını kullanma, okuma sırasında geri dönüşlerde bulunma, metne yoğunlaşma, sesli okuma, bağlama yönelik ipuçları kullanma, bilginin kalıcılığını sağlamak amacıyla şemalaştırma, resimleştirme, noktalama işaretlerine, yazım kurallarına dikkat etme, önce okunanları kontrol etme, anlamı bilinmeyen kelimeleri metinden yola çıkarak tahmin etme ya da ek-köke dayalı olarak anlamı kestirme gibi stratejiler okuma eylemi devam ederken kullanılabilir (Birincioğlu, 2006; Karatay, 2007)."
+        "Aciklama": "Okuma amacını belirleme okuma öncesinde uygulanan bir stratejdir.<br/>Okuma öncesinde belirlenen amaçlar doğrultusunda metnin okunması, değerlendirilmesi ve anlama düzeyinin kontrol edilmesidir. Bu amaçla not alma, okuma hızını ayarlama, önemli bilgiyi işaretleme, sözlük vb. başvuru kaynaklarını kullanma, okuma sırasında geri dönüşlerde bulunma, metne yoğunlaşma, sesli okuma, bağlama yönelik ipuçları kullanma, bilginin kalıcılığını sağlamak amacıyla şemalaştırma, resimleştirme, noktalama işaretlerine, yazım kurallarına dikkat etme, önce okunanları kontrol etme, anlamı bilinmeyen kelimeleri metinden yola çıkarak tahmin etme ya da ek-köke dayalı olarak anlamı kestirme gibi stratejiler okuma eylemi devam ederken kullanılabilir (Birincioğlu, 2006; Karatay, 2007)."
     },
     {
         "SoruID": 3257581,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okumada geri bildirim için metne yönelmek, tekrar tekrar okumak, metinde atlamalar yapıp ileri-geri dönmek gibi yöntemler mümkünken, <strong>özellikle</strong> <strong>canlı bir dinleme sırasında</strong> kaynaktan gelen iletiyi sürekli tekrar et(tir)mek veya durdurmak ya da ileri-geri gitmek mümkün olmayabilir.<br>Okuma/dinleme öncesi, sırası ve sonrasındaki davranışlar her ikisi için de anlama sürecini etkilemektedir. Her ikisinde de anlamanın gerçekleşip gerçekleşmediği, anlama sürecinin aksadığı yönler alınan geri bildirimler sayesinde anlaşılabilir. İlgi ve istekler de yine her iki bileşen açısından anlama sürecini etkileyen ortak birer faktör olarak ifade edilebilir."
+        "Aciklama": "Okumada geri bildirim için metne yönelmek, tekrar tekrar okumak, metinde atlamalar yapıp ileri-geri dönmek gibi yöntemler mümkünken, <strong>özellikle</strong> <strong>canlı bir dinleme sırasında</strong> kaynaktan gelen iletiyi sürekli tekrar et(tir)mek veya durdurmak ya da ileri-geri gitmek mümkün olmayabilir.<br/>Okuma/dinleme öncesi, sırası ve sonrasındaki davranışlar her ikisi için de anlama sürecini etkilemektedir. Her ikisinde de anlamanın gerçekleşip gerçekleşmediği, anlama sürecinin aksadığı yönler alınan geri bildirimler sayesinde anlaşılabilir. İlgi ve istekler de yine her iki bileşen açısından anlama sürecini etkileyen ortak birer faktör olarak ifade edilebilir."
     },
     {
         "SoruID": 3257653,
@@ -917,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okumanın temel niteliklerini sıralayabileceksiniz.<br>Metnin sesli ya da sesiz okunmasından sonra, metinde ele alınan olay ya da düşüncelerin tartışılması esasına dayanan okumadır."
+        "Aciklama": "Okumanın temel niteliklerini sıralayabileceksiniz.<br/>Metnin sesli ya da sesiz okunmasından sonra, metinde ele alınan olay ya da düşüncelerin tartışılması esasına dayanan okumadır."
     },
     {
         "SoruID": 3258260,
@@ -937,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuduğunu anlama stratejilerini sıralayabileceksiniz.<br>Metinle ilgili önceden yapılan tahminlerin doğru olup olmadığını kontrol etme, özetleme, metindeki düşünceler arasındaki ilişkiyi görmek için metni yeniden gözden geçirme gibi stratejiler sayılabilir"
+        "Aciklama": "Okuduğunu anlama stratejilerini sıralayabileceksiniz.<br/>Metinle ilgili önceden yapılan tahminlerin doğru olup olmadığını kontrol etme, özetleme, metindeki düşünceler arasındaki ilişkiyi görmek için metni yeniden gözden geçirme gibi stratejiler sayılabilir"
     },
     {
         "SoruID": 3258261,
@@ -957,7 +957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dinleme türlerini sıralayabileceksiniz.<br>Bir kişinin duygu ve düşüncelerini anlayabilmek için kendimizi onun yerine koyarak yaptığımız dinlemedir."
+        "Aciklama": "Dinleme türlerini sıralayabileceksiniz.<br/>Bir kişinin duygu ve düşüncelerini anlayabilmek için kendimizi onun yerine koyarak yaptığımız dinlemedir."
     },
     {
         "SoruID": 3258262,
@@ -977,7 +977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuduğunu anlama stratejilerini sıralayabileceksiniz.<br>Okuma sürecinde metnin daha iyi anlaşılmasını sağlayacak, okuduğunu anlamayı destekleyecek, anlama hızını arttıracak bazı çalışmalar yapılabilir. Bu çalışmalar şu şekilde sıralanabilir:<br/>• Metnin ana ve ara başlıkları arasında ilişki kurmak<br/>• Metnin paragrafları arasında ilişki kurmak, ilişkiyi kavramak<br/>• Okuma sırasında önemli görülen yerleri not almak<br/>• Metnin konusunu belirlemek<br/>• Metindeki ana ve yardımcı düşünceyi belirlemek<br/>• Metin yazarının bakış açısını, anlatım tarzını belirlemek<br/>• Metinde yer alan örnekleri dikkatle okumak ve konuyla ilişkilendirmek<br/>• Metnin konusunu önceden bilinenlerle ilişkilendirmek<br/>• Metinde ele alınan konuyu zihinde yeniden yapılandırmak, analiz ve senteze<br/>gitmek, yorumlamak<br/>• Metinde geçen anlamı bilinmeyen kelime ve terimlere bağlama uygun anlamlar yüklemek<br/>• Metinden hareketle ‘’ne, nerede, ne zaman, nasıl, neden ve kim” sorularına<br/>cevap bulmak<br/>\"Zengin kelime dağarcığına sahip olmak\" bunlar arasında değildir."
+        "Aciklama": "Okuduğunu anlama stratejilerini sıralayabileceksiniz.<br/>Okuma sürecinde metnin daha iyi anlaşılmasını sağlayacak, okuduğunu anlamayı destekleyecek, anlama hızını arttıracak bazı çalışmalar yapılabilir. Bu çalışmalar şu şekilde sıralanabilir:<br/>• Metnin ana ve ara başlıkları arasında ilişki kurmak<br/>• Metnin paragrafları arasında ilişki kurmak, ilişkiyi kavramak<br/>• Okuma sırasında önemli görülen yerleri not almak<br/>• Metnin konusunu belirlemek<br/>• Metindeki ana ve yardımcı düşünceyi belirlemek<br/>• Metin yazarının bakış açısını, anlatım tarzını belirlemek<br/>• Metinde yer alan örnekleri dikkatle okumak ve konuyla ilişkilendirmek<br/>• Metnin konusunu önceden bilinenlerle ilişkilendirmek<br/>• Metinde ele alınan konuyu zihinde yeniden yapılandırmak, analiz ve senteze<br/>gitmek, yorumlamak<br/>• Metinde geçen anlamı bilinmeyen kelime ve terimlere bağlama uygun anlamlar yüklemek<br/>• Metinden hareketle ‘’ne, nerede, ne zaman, nasıl, neden ve kim” sorularına<br/>cevap bulmak<br/>\"Zengin kelime dağarcığına sahip olmak\" bunlar arasında değildir."
     },
     {
         "SoruID": 3258303,
@@ -997,7 +997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Temel dil becerileri, anlama ve anlatma olmak üzere iki temel alt bileşen üzerine kurulmuştur.<br>II ve III"
+        "Aciklama": "Temel dil becerileri, anlama ve anlatma olmak üzere iki temel alt bileşen üzerine kurulmuştur.<br/>II ve III"
     },
     {
         "SoruID": 3258304,
@@ -1017,7 +1017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuma eğitim süresince değil yaşam boyu devam etmelidir. Okuma yaşam boyu devam eden bir<br/>etkinliktir. Günlük yaşamın bir bölümü düzenli olarak okuma etkinliğine ayrılmalıdır. Bunun bir alışkanlık haline getirilmesiyle ancak etkin ve iyi okur olmanın temelleri atılabilir.<br>Okuma eğitim süresince devam etmelidir"
+        "Aciklama": "Okuma eğitim süresince değil yaşam boyu devam etmelidir. Okuma yaşam boyu devam eden bir<br/>etkinliktir. Günlük yaşamın bir bölümü düzenli olarak okuma etkinliğine ayrılmalıdır. Bunun bir alışkanlık haline getirilmesiyle ancak etkin ve iyi okur olmanın temelleri atılabilir.<br/>Okuma eğitim süresince devam etmelidir"
     },
     {
         "SoruID": 3258305,
@@ -1057,7 +1057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuma kültürü sürecinin ilk basamağı görsel okuryazarlık, ikinci basamağı okuma-yazma becerisi edinme, üçüncü basamağı ise okuma alışkanlığı becerisi kazanmaktır.<br>I, II ve III"
+        "Aciklama": "Okuma kültürü sürecinin ilk basamağı görsel okuryazarlık, ikinci basamağı okuma-yazma becerisi edinme, üçüncü basamağı ise okuma alışkanlığı becerisi kazanmaktır.<br/>I, II ve III"
     },
     {
         "SoruID": 3258307,
@@ -1097,7 +1097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuma sırasında kullanılan anlama stratejilerine; not alma, okuma hızını ayarlama, önemli bilgiyi işaretleme, metne yoğunlaşma ve bağlama yönelik ipuçlarını kullanma örnek olarak gösterilebilir.<br>Metnin bağlamına yönelik ipuçlarını kullanma"
+        "Aciklama": "Okuma sırasında kullanılan anlama stratejilerine; not alma, okuma hızını ayarlama, önemli bilgiyi işaretleme, metne yoğunlaşma ve bağlama yönelik ipuçlarını kullanma örnek olarak gösterilebilir.<br/>Metnin bağlamına yönelik ipuçlarını kullanma"
     },
     {
         "SoruID": 3258309,
@@ -1117,7 +1117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eleştirel okuma etkenliğinde metnin konusu ön yargılardan uzak bir şekilde zihinsel süreçlerden<br/>geçirilerek yeniden yapılandırılır, sorgulanır, yorumlanır ve değerlendirilir.<br>Eleştirel okumada okuyucunun ön yargıları sürece dahil edilir"
+        "Aciklama": "Eleştirel okuma etkenliğinde metnin konusu ön yargılardan uzak bir şekilde zihinsel süreçlerden<br/>geçirilerek yeniden yapılandırılır, sorgulanır, yorumlanır ve değerlendirilir.<br/>Eleştirel okumada okuyucunun ön yargıları sürece dahil edilir"
     },
     {
         "SoruID": 3258310,
@@ -1177,7 +1177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuma-dinleme ilişkisi ile ilgili olarak;<br/><ul><br/><li>Her ikisi de anlama becerisinin temel bileşenidir</li><br/><li>Her ikisinde de zihnin ve beynin aktif olması gerekir</li><br/><li>Okuma/dinleme öncesi, sırası ve sonrasındaki davranışlar her ikisi için de an<br/>lama sürecini etkilemektedir.</br></li><br/></ul><br>I, II ve III"
+        "Aciklama": "Okuma-dinleme ilişkisi ile ilgili olarak;<br/><ul><br/><li>Her ikisi de anlama becerisinin temel bileşenidir</li><br/><li>Her ikisinde de zihnin ve beynin aktif olması gerekir</li><br/><li>Okuma/dinleme öncesi, sırası ve sonrasındaki davranışlar her ikisi için de an<br/>lama sürecini etkilemektedir.</li><br/></ul><br/>I, II ve III"
     },
     {
         "SoruID": 3258433,
@@ -1397,7 +1397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 1"
+        "Aciklama": "Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 1"
     },
     {
         "SoruID": 3258454,
@@ -1417,7 +1417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 1"
+        "Aciklama": "<br/>Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 1"
     },
     {
         "SoruID": 3258455,
@@ -1437,7 +1437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 1"
+        "Aciklama": "<br/>Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 1"
     },
     {
         "SoruID": 3258456,
@@ -1457,7 +1457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Okuduğunu Anlama, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 2"
+        "Aciklama": "<br/>Okuduğunu Anlama, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 2"
     },
     {
         "SoruID": 3258457,
@@ -1477,7 +1477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Okuma Alışkanlığı, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 3"
+        "Aciklama": "<br/>Okuma Alışkanlığı, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 3"
     },
     {
         "SoruID": 3258459,
@@ -1497,7 +1497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Eleştirel Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 5"
+        "Aciklama": "<br/>Eleştirel Okuma, başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 5"
     },
     {
         "SoruID": 3258468,

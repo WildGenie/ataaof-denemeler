@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 107701,
-        "SoruMetni": "A: Excuse me, can I help you?<br/>B: I …… an ice-cream please.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong></br>",
+        "SoruMetni": "A: Excuse me, can I help you?<br/>B: I …… an ice-cream please.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>",
         "A": "wants",
         "B": "am wanting",
         "C": "want",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 143265,
-        "SoruMetni": "I ___________ working at the moment.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "I ___________ working at the moment.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "is not",
         "B": "are not",
         "C": "not am",
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 157716,
-        "SoruMetni": "Duygu is ................... Spanish now.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Duygu is ................... Spanish now.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "learn",
         "B": "learns",
         "C": "learning",
@@ -421,7 +421,7 @@
     },
     {
         "SoruID": 325356,
-        "SoruMetni": "A: Who does he want to call? <br/>B: .......................................... .<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "A: Who does he want to call? <br/>B: .......................................... .<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "My",
         "B": "Mine",
         "C": "Myself",
@@ -461,7 +461,7 @@
     },
     {
         "SoruID": 325483,
-        "SoruMetni": "A: ‘Who is it on the phone?’ <br/>B: ‘It’s .............., Alp.’<br/><strong>Diyalogta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br></br>",
+        "SoruMetni": "A: ‘Who is it on the phone?’ <br/>B: ‘It’s .............., Alp.’<br/><strong>Diyalogta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "my",
         "B": "me",
         "C": "mine",
@@ -481,7 +481,7 @@
     },
     {
         "SoruID": 329405,
-        "SoruMetni": "\"Çınar writes letters to his friends.\"<br/><strong>Simple present tense ile verilen bu cümlenin present continuous tense ile yazılmış biçimi aşağıdakilerden hangisidir?</strong><br/></br>",
+        "SoruMetni": "\"Çınar writes letters to his friends.\"<br/><strong>Simple present tense ile verilen bu cümlenin present continuous tense ile yazılmış biçimi aşağıdakilerden hangisidir?</strong>",
         "A": "Çınar wrote letters to his friends",
         "B": "Çınar was writing letters to his friends.",
         "C": "Çınar is write letters to his friends.",

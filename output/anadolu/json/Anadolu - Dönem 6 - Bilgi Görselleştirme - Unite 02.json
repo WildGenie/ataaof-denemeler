@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt diyagramdır<br>Karmaşık verileri daha anlaşılır ve hızlı bir şekilde iletmek amacıyla verileri görsel olarak temsil etmek için kullanılan grafik araçlarına diyagram denir"
+        "Aciklama": "Doğru yanıt diyagramdır<br/>Karmaşık verileri daha anlaşılır ve hızlı bir şekilde iletmek amacıyla verileri görsel olarak temsil etmek için kullanılan grafik araçlarına diyagram denir"
     },
     {
         "SoruID": 3763434,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt Yeni Astronomi<br>Johannes Kepler’in diyagramla gezegenlerin güneşe olan mesafeleriyle hızlarındaki değişimi matematiksel olarak açıkladığı kitabı Yeni Astronomi'dir"
+        "Aciklama": "Doğru yanıt Yeni Astronomi<br/>Johannes Kepler’in diyagramla gezegenlerin güneşe olan mesafeleriyle hızlarındaki değişimi matematiksel olarak açıkladığı kitabı Yeni Astronomi'dir"
     },
     {
         "SoruID": 3763435,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt Galileo Galilei'dir<br>Optik gözlemlerine dayanarak ayın ilk haritasını çizen Galileo Galilei'dir"
+        "Aciklama": "Yanıt Galileo Galilei'dir<br/>Optik gözlemlerine dayanarak ayın ilk haritasını çizen Galileo Galilei'dir"
     },
     {
         "SoruID": 3763436,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt Ölüler Kitabı<br>Mısır’ın Üçüncü Hanedanlığı Dönemi ve ardından üretilen mezar resimleri ve yazıtlarda kullanılan kavramlardan türetilen eser Ölüler Kitabı'dır"
+        "Aciklama": "Doğru yanıt Ölüler Kitabı<br/>Mısır’ın Üçüncü Hanedanlığı Dönemi ve ardından üretilen mezar resimleri ve yazıtlarda kullanılan kavramlardan türetilen eser Ölüler Kitabı'dır"
     },
     {
         "SoruID": 3763437,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt Antik Roma’da yol haritalarıdır<br>Itinerarium Antik Roma’da yol haritalarını ifade eder"
+        "Aciklama": "Yanıt Antik Roma’da yol haritalarıdır<br/>Itinerarium Antik Roma’da yol haritalarını ifade eder"
     },
     {
         "SoruID": 3763438,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt nirengidir<br>Mesafe, açı ve yükseklik ölçümleri gibi coğrafi özelliklerin doğru ölçümlerini almak için kullanılan ölçüm aletine nirengi denir"
+        "Aciklama": "Yanıt nirengidir<br/>Mesafe, açı ve yükseklik ölçümleri gibi coğrafi özelliklerin doğru ölçümlerini almak için kullanılan ölçüm aletine nirengi denir"
     },
     {
         "SoruID": 3763439,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt \"istatiksel verileri sembolik grafiklere dönüştürmek için kullanmıştır\"'tır.<br>İskoç yazar ve bilim insanı William Playfair kartezyen koordinatları ve analitik geometriyi, istatiksel verileri sembolik grafiklere dönüştürmek için kullanmıştır"
+        "Aciklama": "Yanıt \"istatiksel verileri sembolik grafiklere dönüştürmek için kullanmıştır\"'tır.<br/>İskoç yazar ve bilim insanı William Playfair kartezyen koordinatları ve analitik geometriyi, istatiksel verileri sembolik grafiklere dönüştürmek için kullanmıştır"
     },
     {
         "SoruID": 3763440,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt Dmitri Mendeleev<br>Kimya Prensipleri kitabını yayımlayan bilim insanı Dmitri Mendeleev'dir"
+        "Aciklama": "Yanıt Dmitri Mendeleev<br/>Kimya Prensipleri kitabını yayımlayan bilim insanı Dmitri Mendeleev'dir"
     },
     {
         "SoruID": 3763441,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt Charles Booth<br>Sosyal dokunun bilgigrafi tasarımcısı olarak tanımlanan isim Charles Booth'tur"
+        "Aciklama": "Yanıt Charles Booth<br/>Sosyal dokunun bilgigrafi tasarımcısı olarak tanımlanan isim Charles Booth'tur"
     },
     {
         "SoruID": 3763442,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yanıt Florence Nightingale<br>Döngüsel zaman modeli kullanarak tıbbi veriler üreten, “Doğru Ordusunda Ölüm Nedenleri Diyagramı” çalışmasını gerçekleştiren ünlü İngiliz Hemşire Florence Nightingale'dir."
+        "Aciklama": "Yanıt Florence Nightingale<br/>Döngüsel zaman modeli kullanarak tıbbi veriler üreten, “Doğru Ordusunda Ölüm Nedenleri Diyagramı” çalışmasını gerçekleştiren ünlü İngiliz Hemşire Florence Nightingale'dir."
     },
     {
         "SoruID": 3763604,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<img alt=\"\" height=\"398\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/c902fe294886e555d051224ba55513c6.png\" width=\"764\"/><br>İngiliz teolog, din adamı ve doğal filozofluğunun yanında şema tasarımında da önemli bir isim olan Joseph Priestley (1733-1804), 1765 yılında MÖ 1200 ile 1800 yılları arasında yaşamış tarihin önemli figürlerini gösteren bir “Biyografi Tablosu” yayımlamıştır. Yaklaşık olarak 60x90 cm boyutundaki bir diyagram içeren ve iki bin isimden oluşan kitapçıkla, öğrencileri için tarih ve genel politikadaki derslerini somutlaştırmıştır. 1769 yılına gelindiğinde ise daha yeni versiyonu olarak “Yeni Bir Tarih Grafiği”ni tekrar yayımlanmıştır"
+        "Aciklama": "<img alt=\"\" height=\"398\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/c902fe294886e555d051224ba55513c6.png\" width=\"764\"/><br/>İngiliz teolog, din adamı ve doğal filozofluğunun yanında şema tasarımında da önemli bir isim olan Joseph Priestley (1733-1804), 1765 yılında MÖ 1200 ile 1800 yılları arasında yaşamış tarihin önemli figürlerini gösteren bir “Biyografi Tablosu” yayımlamıştır. Yaklaşık olarak 60x90 cm boyutundaki bir diyagram içeren ve iki bin isimden oluşan kitapçıkla, öğrencileri için tarih ve genel politikadaki derslerini somutlaştırmıştır. 1769 yılına gelindiğinde ise daha yeni versiyonu olarak “Yeni Bir Tarih Grafiği”ni tekrar yayımlanmıştır"
     },
     {
         "SoruID": 3763606,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<img alt=\"\" height=\"498\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/1f672a19ea19fc059359154422080cb9.png\" width=\"550\"/><br><img alt=\"\" height=\"498\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/1f672a19ea19fc059359154422080cb9.png\" width=\"550\"/>"
+        "Aciklama": "<img alt=\"\" height=\"498\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/1f672a19ea19fc059359154422080cb9.png\" width=\"550\"/><br/><img alt=\"\" height=\"498\" src=\"https://ets.anadolu.edu.tr/storage/nfs/questions/1f672a19ea19fc059359154422080cb9.png\" width=\"550\"/>"
     },
     {
         "SoruID": 3763608,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Avusturyalı ekonomist, ekonomi tarihçisi, filozof ve politikacı Otto Neurath (1882-1945), bu alanlardaki çalışmalarının yanında bilgi görselleştirmede de oldukça önemli çalışmalar gerçekleştirmiş ve bilgigrafi tarihine öncü isimlerden biri olarak geçmiştir. Neurath, “Görsel eğitimin, entelektüel demokrasinin toplumlardaki ve insanlık içindeki genişlemesiyle ilişkili olduğunu” savunmuştur (Oven ve Požar, 2016). Neurath, Viyana merkezli konut, şehircilik, toplum ve ekonomi başlıklarıyla ilgili iki müzenin kurulmasını sağlamış ve bu müzeleri yönetmiştir. Müzelerin sergilerini oluşturmak için çalışırken, aralarında grafik tasarımcı Gerd Arntz’ın da bulunduğu ekibiyle birlikte önceleri “Viyana Yöntemi” olarak isimlendirdikleri görsel bir dil yaratmışlardır. Daha sonra ismine 42 “Uluslararası Tipografik Resim Eğitimi SistemiISOTYPE” dedikleri bu ikonik görsel dil, “bazı değerli bilgileri sunmak, çarpıcı bir şekilde bir ilişki veya gelişme göstermek, ilgiyi uyandırmak, dikkati yönlendirmek ve seyirciyi aktif katı<br>Otto Neurath’ın Görsel Dil Mirası: ISOTYPE Avusturyalı ekonomist, ekonomi tarihçisi, filozof ve politikacı Otto Neurath (1882-1945), bu alanlardaki çalışmalarının yanında bilgi görselleştirmede de oldukça önemli çalışmalar gerçekleştirmiş ve bilgigrafi tarihine öncü isimlerden biri olarak geçmiştir. Uluslararası bir dil yaratma arzusuyla ortaya çıkan ISOTYPE hareketi, özellikle katmanlı ve istatistiki bilgiyi vermek için görsel temsiller kullanılmasını öngörmektedir."
+        "Aciklama": "Avusturyalı ekonomist, ekonomi tarihçisi, filozof ve politikacı Otto Neurath (1882-1945), bu alanlardaki çalışmalarının yanında bilgi görselleştirmede de oldukça önemli çalışmalar gerçekleştirmiş ve bilgigrafi tarihine öncü isimlerden biri olarak geçmiştir. Neurath, “Görsel eğitimin, entelektüel demokrasinin toplumlardaki ve insanlık içindeki genişlemesiyle ilişkili olduğunu” savunmuştur (Oven ve Požar, 2016). Neurath, Viyana merkezli konut, şehircilik, toplum ve ekonomi başlıklarıyla ilgili iki müzenin kurulmasını sağlamış ve bu müzeleri yönetmiştir. Müzelerin sergilerini oluşturmak için çalışırken, aralarında grafik tasarımcı Gerd Arntz’ın da bulunduğu ekibiyle birlikte önceleri “Viyana Yöntemi” olarak isimlendirdikleri görsel bir dil yaratmışlardır. Daha sonra ismine 42 “Uluslararası Tipografik Resim Eğitimi SistemiISOTYPE” dedikleri bu ikonik görsel dil, “bazı değerli bilgileri sunmak, çarpıcı bir şekilde bir ilişki veya gelişme göstermek, ilgiyi uyandırmak, dikkati yönlendirmek ve seyirciyi aktif katı<br/>Otto Neurath’ın Görsel Dil Mirası: ISOTYPE Avusturyalı ekonomist, ekonomi tarihçisi, filozof ve politikacı Otto Neurath (1882-1945), bu alanlardaki çalışmalarının yanında bilgi görselleştirmede de oldukça önemli çalışmalar gerçekleştirmiş ve bilgigrafi tarihine öncü isimlerden biri olarak geçmiştir. Uluslararası bir dil yaratma arzusuyla ortaya çıkan ISOTYPE hareketi, özellikle katmanlı ve istatistiki bilgiyi vermek için görsel temsiller kullanılmasını öngörmektedir."
     },
     {
         "SoruID": 3763615,

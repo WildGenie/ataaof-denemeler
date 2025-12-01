@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3603576,
-        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"><br/><li>Yazılı iletişim daha geniş bir zamanda gerçekleşir.</li><br/><li>Yazı, yazılı iletişimde belge niteliği taşır.</li><br/><li>Kişisel sürtüşmeler yazılı iletişimde daha az olur.</li><br/><li>sözel iletişimde aktarılan mesaj geri alınamaz.</li><br/><li>sözel iletişimde yorumlama özgürlüğü daha çoktur.<br/>Yazılı iletişim ve sözlü iletişim arasındaki doğru olan farklılıklar yukarıdakilerden hangileridir?<br/></br></li><br/></ol>",
+        "SoruMetni": "<ol style=\"list-style-type: upper-roman;\"><br/><li>Yazılı iletişim daha geniş bir zamanda gerçekleşir.</li><br/><li>Yazı, yazılı iletişimde belge niteliği taşır.</li><br/><li>Kişisel sürtüşmeler yazılı iletişimde daha az olur.</li><br/><li>sözel iletişimde aktarılan mesaj geri alınamaz.</li><br/><li>sözel iletişimde yorumlama özgürlüğü daha çoktur.<br/>Yazılı iletişim ve sözlü iletişim arasındaki doğru olan farklılıklar yukarıdakilerden hangileridir?<br/></li><br/></ol>",
         "A": "Yalnız I ve II",
         "B": "I, II ve V",
         "C": "I, II,III ve IV",
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir Kültür Aktarım Aracı Olarak Söz<br>Dünyada konuşulan yaklaşık 3000 dildeki ses dizgelerini oluşturan seslerin toplam sayısı ortalama kırk civarındadır ve bunların her birine sesbirim denir."
+        "Aciklama": "Bir Kültür Aktarım Aracı Olarak Söz<br/>Dünyada konuşulan yaklaşık 3000 dildeki ses dizgelerini oluşturan seslerin toplam sayısı ortalama kırk civarındadır ve bunların her birine sesbirim denir."
     },
     {
         "SoruID": 3841089,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir Kültür Aktarım Aracı Olarak Söz<br>Her dilde belli ve sınırlı sayıda bulunan sesbirimler söz üretiminde bir dilsel birimi diğerinden farklılaştıran en küçük ayırıcı birim olarak işlev görürler."
+        "Aciklama": "Bir Kültür Aktarım Aracı Olarak Söz<br/>Her dilde belli ve sınırlı sayıda bulunan sesbirimler söz üretiminde bir dilsel birimi diğerinden farklılaştıran en küçük ayırıcı birim olarak işlev görürler."
     },
     {
         "SoruID": 3841090,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir Kültür Aktarım Aracı Olarak Söz<br>Söz, ses, kelimeler ve gramer yapısından oluşur."
+        "Aciklama": "Bir Kültür Aktarım Aracı Olarak Söz<br/>Söz, ses, kelimeler ve gramer yapısından oluşur."
     },
     {
         "SoruID": 3841091,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözlü Kültür ve Sözlü İletişim<br>Genel yapısı itibarıyla sözlü kültürde öne çıkan özellikleri <em>İletişim Tarihi </em>kitabında Baldini şöyle özetlemektedir (Baldini, 2000: 11-17):<br/><ul> <li>Sözlü kültürde kulak en önemli organdır</li> <li>Sözel iletişim tümce yapısını üstün tutmak­tadır</li> <li>Sözel iletişim aşırıya kaçar</li> <li>Sözel iletişim yarışma biçimini tercih eder</li> <li>Sözlü kültür tutucu ve gelenekseldir</li> <li>Sözlü kültür taşkın ve katılımlıdır</li> <li>Sözlü kültür unutulmaya uygun yapıdadır</li> <li>Sözlü kültürde bireyler duruma göre dav­ranırlar.</li> </ul>"
+        "Aciklama": "Sözlü Kültür ve Sözlü İletişim<br/>Genel yapısı itibarıyla sözlü kültürde öne çıkan özellikleri <em>İletişim Tarihi </em>kitabında Baldini şöyle özetlemektedir (Baldini, 2000: 11-17):<br/><ul> <li>Sözlü kültürde kulak en önemli organdır</li> <li>Sözel iletişim tümce yapısını üstün tutmak­tadır</li> <li>Sözel iletişim aşırıya kaçar</li> <li>Sözel iletişim yarışma biçimini tercih eder</li> <li>Sözlü kültür tutucu ve gelenekseldir</li> <li>Sözlü kültür taşkın ve katılımlıdır</li> <li>Sözlü kültür unutulmaya uygun yapıdadır</li> <li>Sözlü kültürde bireyler duruma göre dav­ranırlar.</li> </ul>"
     },
     {
         "SoruID": 3841092,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir Görsel İletişim Aracı Olarak Yazı<br>Yazının tarihî gelişimine baktığımızda, ilk yazının İ Ö 3500’lerde Mezopotamya’da ve Sümerlerce kullanıldığına ilişkin kanıların daha güçlü olduğunu söylemek mümkündür."
+        "Aciklama": "Bir Görsel İletişim Aracı Olarak Yazı<br/>Yazının tarihî gelişimine baktığımızda, ilk yazının İ Ö 3500’lerde Mezopotamya’da ve Sümerlerce kullanıldığına ilişkin kanıların daha güçlü olduğunu söylemek mümkündür."
     },
     {
         "SoruID": 3841093,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir Görsel İletişim Aracı Olarak Yazı<br>Mısırlılar (İ.Ö. 3000), Hintliler (İ.Ö.2400), Çinliler (İ.Ö. 1500), (Mayalar (İ.S. 50) ve Aztekler (İ.S. 1400) de kendi yazı yöntemlerini bulmuşlardır (Ong, 2003: 105)."
+        "Aciklama": "Bir Görsel İletişim Aracı Olarak Yazı<br/>Mısırlılar (İ.Ö. 3000), Hintliler (İ.Ö.2400), Çinliler (İ.Ö. 1500), (Mayalar (İ.S. 50) ve Aztekler (İ.S. 1400) de kendi yazı yöntemlerini bulmuşlardır (Ong, 2003: 105)."
     },
     {
         "SoruID": 3841094,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir Görsel İletişim Aracı Olarak Yazı<br>Mısırlılar (İ.Ö. 3000), Hintliler (İ.Ö.2400), Çinliler (İ.Ö. 1500), (Mayalar (İ.S. 50) ve Aztekler (İ.S. 1400) de kendi yazı yöntemlerini bulmuşlardır (Ong, 2003: 105)."
+        "Aciklama": "Bir Görsel İletişim Aracı Olarak Yazı<br/>Mısırlılar (İ.Ö. 3000), Hintliler (İ.Ö.2400), Çinliler (İ.Ö. 1500), (Mayalar (İ.S. 50) ve Aztekler (İ.S. 1400) de kendi yazı yöntemlerini bulmuşlardır (Ong, 2003: 105)."
     },
     {
         "SoruID": 3841095,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir Görsel İletişim Aracı Olarak Yazı<br>Matbaa dizgisi­nin ilk hâli olan hurufat dizgisinde, hurufat kalıp­ları elle dizilip basıldıktan sonra dizilişleri bozulur ve ilerde tekrar kullanılmak üzere yerlerine yerleş­tirilirdi (büyük harfler ya da “üst kasa” harfleri üst bölüme, küçük harfler ya da “alt kasa” harfleri alt bölüme)."
+        "Aciklama": "Bir Görsel İletişim Aracı Olarak Yazı<br/>Matbaa dizgisi­nin ilk hâli olan hurufat dizgisinde, hurufat kalıp­ları elle dizilip basıldıktan sonra dizilişleri bozulur ve ilerde tekrar kullanılmak üzere yerlerine yerleş­tirilirdi (büyük harfler ya da “üst kasa” harfleri üst bölüme, küçük harfler ya da “alt kasa” harfleri alt bölüme)."
     },
     {
         "SoruID": 3841096,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazılı Kültür ve Yazılı İletişim<br>Yunan uygarlığının doğuşu, kelimenin gerçek anlamıyla okuryazar bir topluma geçişin ilk örne­ğine işaret eder."
+        "Aciklama": "Yazılı Kültür ve Yazılı İletişim<br/>Yunan uygarlığının doğuşu, kelimenin gerçek anlamıyla okuryazar bir topluma geçişin ilk örne­ğine işaret eder."
     },
     {
         "SoruID": 3841097,
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazılı Kültür ve Yazılı İletişim<br>Yazılı iletişimle sözlü iletişimi karşılaştırdığımızda şöyle farklılıklar görülmektedir:<br/><ol><br/><li>Yazılı iletişim sözlü iletişime kıyasla daha geniş bir zamanda gerçekleşir.</li><br/><li>Yazı, yazılı iletişimde belge niteliği taşır</li><br/><li>Kişisel sürtüşmeler yazılı iletişimde sözlü iletişime nazaran daha az olur</li><br/><li>Yazılı iletişim sözel iletişime kıyasla yanlış anlaşılmanın daha az olduğu bir iletişim türüdür.</li><br/><li>Bilimsel platformlarda yazı, sözden çok daha fazla değerli bulunur ve anlam ihtiva eder.</li><br/></ol><br/><ol start=\"6\"><br/><li>Yazılı iletişimde mesaj alıcıya ulaşmadan önce kaynağın iletiyi düzenleme, değiştirme veya iptal</li><br/></ol><br/>etme şansı bulunmaktadır."
+        "Aciklama": "Yazılı Kültür ve Yazılı İletişim<br/>Yazılı iletişimle sözlü iletişimi karşılaştırdığımızda şöyle farklılıklar görülmektedir:<br/><ol><br/><li>Yazılı iletişim sözlü iletişime kıyasla daha geniş bir zamanda gerçekleşir.</li><br/><li>Yazı, yazılı iletişimde belge niteliği taşır</li><br/><li>Kişisel sürtüşmeler yazılı iletişimde sözlü iletişime nazaran daha az olur</li><br/><li>Yazılı iletişim sözel iletişime kıyasla yanlış anlaşılmanın daha az olduğu bir iletişim türüdür.</li><br/><li>Bilimsel platformlarda yazı, sözden çok daha fazla değerli bulunur ve anlam ihtiva eder.</li><br/></ol><br/><ol start=\"6\"><br/><li>Yazılı iletişimde mesaj alıcıya ulaşmadan önce kaynağın iletiyi düzenleme, değiştirme veya iptal</li><br/></ol><br/>etme şansı bulunmaktadır."
     },
     {
         "SoruID": 3841187,
@@ -677,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözlü kültürde duygu ve düşünceler, söz üzerinden aktarılır ve söze bu kültürün dayanak noktası olarak işlev yüklenir. Dolayısıyla <strong>sözün asli unsurları; konuşma, dinleme, empati, karşılıklı anlayış</strong> bu kültürün de temelini oluşturmaktadır.<br>Sempati"
+        "Aciklama": "Sözlü kültürde duygu ve düşünceler, söz üzerinden aktarılır ve söze bu kültürün dayanak noktası olarak işlev yüklenir. Dolayısıyla <strong>sözün asli unsurları; konuşma, dinleme, empati, karşılıklı anlayış</strong> bu kültürün de temelini oluşturmaktadır.<br/>Sempati"
     },
     {
         "SoruID": 3841191,
@@ -697,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Halk edebiyatını oluşturan <strong>bilmece, atasözleri, deyişler sözlü kültürün ürünüdür</strong> ve toplumsal ilişkilerin çözümlenmesinde önemli roller yüklenmişlerdir. Sözlü kültürde <strong>atasözü, masal ve deyişler </strong>âdeta toplumların yazılı olmayan kanunları gibi işlev yüklenmekte, düşünceleri ve düzeni oluşturmaktadır.<br>Makale"
+        "Aciklama": "Halk edebiyatını oluşturan <strong>bilmece, atasözleri, deyişler sözlü kültürün ürünüdür</strong> ve toplumsal ilişkilerin çözümlenmesinde önemli roller yüklenmişlerdir. Sözlü kültürde <strong>atasözü, masal ve deyişler </strong>âdeta toplumların yazılı olmayan kanunları gibi işlev yüklenmekte, düşünceleri ve düzeni oluşturmaktadır.<br/>Makale"
     },
     {
         "SoruID": 3841192,
@@ -717,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sözlü iletişimde sözün oluşabilmesi için, ses dalgasının seyahat edeceği havanın yanında, insanda<br/>ses yapabilecek (<strong>akciğerler, ses telleri, ağız ve dil </strong>vb.) ve sesi duyabilecek (<strong>kulak sistemi</strong> ve altıncı sinirin) sistemin olması gerekir.<br>Göz"
+        "Aciklama": "Sözlü iletişimde sözün oluşabilmesi için, ses dalgasının seyahat edeceği havanın yanında, insanda<br/>ses yapabilecek (<strong>akciğerler, ses telleri, ağız ve dil </strong>vb.) ve sesi duyabilecek (<strong>kulak sistemi</strong> ve altıncı sinirin) sistemin olması gerekir.<br/>Göz"
     },
     {
         "SoruID": 3841193,
@@ -737,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Walter J. Ong da yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları dönemi birinci sözlü kültür olarak tanımlamaktadır. Ong, birinci sözlü kültürün <strong>bol tekrara, ezbere dayalı olduğunu,</strong> isimlerin çeşitli sıfatlarla nitelendirildiğini, son derece <strong>gelenekçi olduğunu</strong>, sözü koruma adına yeniliklere karşı dirençli olduğunu, insan doğasını yansıttığını, güç ve mücadeleci yaşam tarzını övdüğünü belirtmektedir. Birinci sözlü kültürde <strong>bilge kişi ile sıradan halk arasında bir duygudaşlık ve eşitlik söz konusu</strong>dur, toplumsal hiyerarşiler henüz netleşmemiştir ve katılımcılar arasında mesafe yoktur.<br>Ezbere dayalı olması"
+        "Aciklama": "Walter J. Ong da yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları dönemi birinci sözlü kültür olarak tanımlamaktadır. Ong, birinci sözlü kültürün <strong>bol tekrara, ezbere dayalı olduğunu,</strong> isimlerin çeşitli sıfatlarla nitelendirildiğini, son derece <strong>gelenekçi olduğunu</strong>, sözü koruma adına yeniliklere karşı dirençli olduğunu, insan doğasını yansıttığını, güç ve mücadeleci yaşam tarzını övdüğünü belirtmektedir. Birinci sözlü kültürde <strong>bilge kişi ile sıradan halk arasında bir duygudaşlık ve eşitlik söz konusu</strong>dur, toplumsal hiyerarşiler henüz netleşmemiştir ve katılımcılar arasında mesafe yoktur.<br/>Ezbere dayalı olması"
     },
     {
         "SoruID": 3841194,
@@ -757,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazılı kültürle birlikte, aydın kesim yazı üzerinden geçimini sağlamaya başlamış ve yazının imkânını keşfeden toplumda da <strong>sözlü kültürün dogmatik doğası kırıma uğramıştı</strong>r. Yeni fikirler, özgür düşünceler <strong>matbaayla birlikte</strong> popülerleşmiş ve yazı sözün ulaşamadığı noktalarda kendi gücünü topluma dayatmıştır.<br>Matbaanın bulunması"
+        "Aciklama": "Yazılı kültürle birlikte, aydın kesim yazı üzerinden geçimini sağlamaya başlamış ve yazının imkânını keşfeden toplumda da <strong>sözlü kültürün dogmatik doğası kırıma uğramıştı</strong>r. Yeni fikirler, özgür düşünceler <strong>matbaayla birlikte</strong> popülerleşmiş ve yazı sözün ulaşamadığı noktalarda kendi gücünü topluma dayatmıştır.<br/>Matbaanın bulunması"
     },
     {
         "SoruID": 3841195,
@@ -777,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Matbaa, zamanla düşünme ve anlatım biçimine hükmetmekten bir türlü vazgeçmeyen işitsel üstünlüğün yerine, yazının başlattığı ama tek başına yeterince destekleyemediği görsel üstünlüğü geçirmiştir. Baskı, yazının hiçbir zaman yapamayacağı kadar amansızca yerleştirir kelimeleri mekâna...sayfa 13 bkz. ve okuyunuz.<br>Bürokratik sistemler çökmüştür."
+        "Aciklama": "Matbaa, zamanla düşünme ve anlatım biçimine hükmetmekten bir türlü vazgeçmeyen işitsel üstünlüğün yerine, yazının başlattığı ama tek başına yeterince destekleyemediği görsel üstünlüğü geçirmiştir. Baskı, yazının hiçbir zaman yapamayacağı kadar amansızca yerleştirir kelimeleri mekâna...sayfa 13 bkz. ve okuyunuz.<br/>Bürokratik sistemler çökmüştür."
     },
     {
         "SoruID": 3841196,
@@ -797,6 +797,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazı, iletişimi sözel iletişimden farklılaştırmış ve kendi doğasına uygun yeni bir iletişim doğurmuştur.<br/>Bu bağlamda yazılı iletişimle sözlü iletişimi karşılaştırdığımızda şöyle farklılıklar görülmektedir:<br/>1. Yazılı iletişim sözlü iletişime kıyasla daha<strong> geniş bir zamanda</strong> gerçekleşir... Sayfa 20 bkz. ve okuyunuz.<br>Yazılı iletişim sözlü iletişime kıyasla daha dar bir zamanda gerçekleşir."
+        "Aciklama": "Yazı, iletişimi sözel iletişimden farklılaştırmış ve kendi doğasına uygun yeni bir iletişim doğurmuştur.<br/>Bu bağlamda yazılı iletişimle sözlü iletişimi karşılaştırdığımızda şöyle farklılıklar görülmektedir:<br/>1. Yazılı iletişim sözlü iletişime kıyasla daha<strong> geniş bir zamanda</strong> gerçekleşir... Sayfa 20 bkz. ve okuyunuz.<br/>Yazılı iletişim sözlü iletişime kıyasla daha dar bir zamanda gerçekleşir."
     }
 ]

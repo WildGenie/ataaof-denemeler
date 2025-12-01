@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanat ve tasarım alanında yaratıcı düşünmeden bahsetmek, düşünme süreci, problemin çözümüne yönelik geliştirilen çözüm önerileri vb. şeylerin yanı sıra düşünme ile hareket etme arasındaki bağdan, uygulama sürecinden ve ortaya çıkan eylem ya da ürünün değerlendirilmesinden söz etmeyi de kapsar.<br>Yaratıcı düşünmenin cisimleşme süreci yaratıcı edim olarak açıklanabilir."
+        "Aciklama": "Sanat ve tasarım alanında yaratıcı düşünmeden bahsetmek, düşünme süreci, problemin çözümüne yönelik geliştirilen çözüm önerileri vb. şeylerin yanı sıra düşünme ile hareket etme arasındaki bağdan, uygulama sürecinden ve ortaya çıkan eylem ya da ürünün değerlendirilmesinden söz etmeyi de kapsar.<br/>Yaratıcı düşünmenin cisimleşme süreci yaratıcı edim olarak açıklanabilir."
     },
     {
         "SoruID": 3763651,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaratıcı bireylerin ortak özellikleri: Beklenmeyene, yeni olana açık olma, belirsizliğe tolerans gösterme, deneyime ve risk almaya gönüllü olma, meraklı olma, karmaşık işlere ilgi duyma, esnek olma, bağımsızlığa düşkün ve içe dönük olma, sorgulayıcı olma, gelişmiş bir mizah anlayışına sahip olma, güçlü bir duygusal farkındalığı olma.<br>I-II-IV"
+        "Aciklama": "Yaratıcı bireylerin ortak özellikleri: Beklenmeyene, yeni olana açık olma, belirsizliğe tolerans gösterme, deneyime ve risk almaya gönüllü olma, meraklı olma, karmaşık işlere ilgi duyma, esnek olma, bağımsızlığa düşkün ve içe dönük olma, sorgulayıcı olma, gelişmiş bir mizah anlayışına sahip olma, güçlü bir duygusal farkındalığı olma.<br/>I-II-IV"
     },
     {
         "SoruID": 3763934,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaratıcılık, tutum, süreç, ürün, beceri, kişilik özelliklerinin birleşimi ve bununla birlikte çevresel koşulların bir sonucu olarak açıklanabilir<br>Cinsiyet"
+        "Aciklama": "Yaratıcılık, tutum, süreç, ürün, beceri, kişilik özelliklerinin birleşimi ve bununla birlikte çevresel koşulların bir sonucu olarak açıklanabilir<br/>Cinsiyet"
     },
     {
         "SoruID": 3763935,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sinektik yöntemde adımlar: Sorun Tanımlama, Sorunu Parçalara Ayırma, Elde Edilen Düşünceleri<br/>Değerlendirme, Soruna İlişkin Bilgi Edinme, Eğer, Gibi Sözcüklerini Kullanarak Düşünme/Cümle Kurma, Alternati\u001beri Seçip<br/>Görselleştirme<br>Farklı Bakış Açılarını İnceleme"
+        "Aciklama": "Sinektik yöntemde adımlar: Sorun Tanımlama, Sorunu Parçalara Ayırma, Elde Edilen Düşünceleri<br/>Değerlendirme, Soruna İlişkin Bilgi Edinme, Eğer, Gibi Sözcüklerini Kullanarak Düşünme/Cümle Kurma, Alternati\u001beri Seçip<br/>Görselleştirme<br/>Farklı Bakış Açılarını İnceleme"
     },
     {
         "SoruID": 3763940,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğrudan anoloji, karşılaştırma yapmaya ve benzeşime dayanır. Benzerlikleri kurmak için hayvanlar, bitkiler vb. gibi çoğunlukla doğal anolojilere başvurulur. Elma kurdunun açtığı oyuk ile yer altı tünellerinin benzerliği gibi, hayvanların kendilerini koruma yöntemleri ya da fiziksel özellikleri pek çok yaratıcı tasarıma kaynaklık etmiştir<br>Doğrudan Analoji Tekniği"
+        "Aciklama": "Doğrudan anoloji, karşılaştırma yapmaya ve benzeşime dayanır. Benzerlikleri kurmak için hayvanlar, bitkiler vb. gibi çoğunlukla doğal anolojilere başvurulur. Elma kurdunun açtığı oyuk ile yer altı tünellerinin benzerliği gibi, hayvanların kendilerini koruma yöntemleri ya da fiziksel özellikleri pek çok yaratıcı tasarıma kaynaklık etmiştir<br/>Doğrudan Analoji Tekniği"
     },
     {
         "SoruID": 3763941,
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaratıcı düşünme süreci çeşitli düşünme yetilerinin bir bütünü olarak değerlendirilebilir: Eleştirel Düşünme, Analitik Düşünme, Janusyan Düşünme, Sentetik Düşünme, Çağrışımsal Düşünme, Iraksak-yakınsak, İmgesel Düşünme.<br>I, II, III, IV"
+        "Aciklama": "Yaratıcı düşünme süreci çeşitli düşünme yetilerinin bir bütünü olarak değerlendirilebilir: Eleştirel Düşünme, Analitik Düşünme, Janusyan Düşünme, Sentetik Düşünme, Çağrışımsal Düşünme, Iraksak-yakınsak, İmgesel Düşünme.<br/>I, II, III, IV"
     }
 ]

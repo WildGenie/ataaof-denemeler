@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görüntüler vektör ve piksel tabanlı olabilir. Vektörel görüntüler çözünürlükten ödün vermeden ölçeklenebilir. Yani büyütüldüğünde kalite kaybı yaşamaz. Ayrıca kolay bir şekilde düzenlenebilirler. Logolar, illüstrasyonlar, ikonlar, tablolar, grafikler, kavram haritaları ve çizimler vektör tabanlı görüntülere örnektir. Piksel tabanlı görüntüler ise gerçekçi ayrıntıları ve detayları göstermek amacıyla kullanılabilir. Ancak vektör tabanlı görüntüler gibi ölçeklenebilirlik açısından oldukça zayıftır. Çözünürlüğü düşük olan piksel tabanlı görüntüler büyütüldüğünde kalite kaybına uğramaktadır. Fotoğraflar ise piksel tabanlı görüntüye örnektir.<br>Fotoğraflar piksel tabanlıdır."
+        "Aciklama": "Görüntüler vektör ve piksel tabanlı olabilir. Vektörel görüntüler çözünürlükten ödün vermeden ölçeklenebilir. Yani büyütüldüğünde kalite kaybı yaşamaz. Ayrıca kolay bir şekilde düzenlenebilirler. Logolar, illüstrasyonlar, ikonlar, tablolar, grafikler, kavram haritaları ve çizimler vektör tabanlı görüntülere örnektir. Piksel tabanlı görüntüler ise gerçekçi ayrıntıları ve detayları göstermek amacıyla kullanılabilir. Ancak vektör tabanlı görüntüler gibi ölçeklenebilirlik açısından oldukça zayıftır. Çözünürlüğü düşük olan piksel tabanlı görüntüler büyütüldüğünde kalite kaybına uğramaktadır. Fotoğraflar ise piksel tabanlı görüntüye örnektir.<br/>Fotoğraflar piksel tabanlıdır."
     },
     {
         "SoruID": 3863326,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Benzer nesnelerin birlikte gruplanması durumunu ifade eder. Renk, şekil, boyut veya doku gibi benzer özelliklere sahip öğelerin aynı gruba ait olarak algılandığını belirtmektedir. Benzerlik, bir tasarımda yan yana olmayabilecek ögeleri birbirine bağlamak için kullanılabilir. Önemli işlevlere sahip düğmelerin farklı renklerde veya boyutlarda sunulması benzerlik ilkesine bir örnektir. Bir arayüzdeki tüm tıklanabilir düğmeler için aynı rengin kullanılması, öğrenenlerin bunları benzer işlevlere sahip düğmeler olarak tanımasına yardımcı olur.<br>Önemli işlevlere sahip düğmelerin farklı renklerde veya boyutlarda sunulması benzerlik ilkesine örnek gösterilebilir."
+        "Aciklama": "Benzer nesnelerin birlikte gruplanması durumunu ifade eder. Renk, şekil, boyut veya doku gibi benzer özelliklere sahip öğelerin aynı gruba ait olarak algılandığını belirtmektedir. Benzerlik, bir tasarımda yan yana olmayabilecek ögeleri birbirine bağlamak için kullanılabilir. Önemli işlevlere sahip düğmelerin farklı renklerde veya boyutlarda sunulması benzerlik ilkesine bir örnektir. Bir arayüzdeki tüm tıklanabilir düğmeler için aynı rengin kullanılması, öğrenenlerin bunları benzer işlevlere sahip düğmeler olarak tanımasına yardımcı olur.<br/>Önemli işlevlere sahip düğmelerin farklı renklerde veya boyutlarda sunulması benzerlik ilkesine örnek gösterilebilir."
     },
     {
         "SoruID": 3863331,
@@ -342,10 +342,10 @@
     {
         "SoruID": 3863638,
         "SoruMetni": "<span style=\"font-family: 'Times New Roman',serif;\">Dijital görsel içerik geliştirme sürecinin adımları incelendiğinde aşağıdakilerden hangisi farklı bir başlık altında değerlendirilecektir? </span>",
-        "A": "Görsel öğelerin ayrıntılı bir biçimde planlanması<br data-end=\"364\" data-start=\"361\"/>",
-        "B": "Üretim sürecinde olası maliyetlerin azaltılması<br data-end=\"417\" data-start=\"414\"/>",
+        "A": "Görsel öğelerin ayrıntılı bir biçimde planlanması",
+        "B": "Üretim sürecinde olası maliyetlerin azaltılması",
         "C": "Yazarlar ve tasarımcılar arasında ortak bir dilin oluşturulması",
-        "D": "Görsel içeriklerin dijital ortamlarda çalışabilirliğinin test edilmesi<br data-end=\"553\" data-start=\"550\"/>",
+        "D": "Görsel içeriklerin dijital ortamlarda çalışabilirliğinin test edilmesi",
         "E": "Soyut fikirlerin somutlaşmasına yardımcı olunması",
         "DogruCevap": "D",
         "DersAd": "Öğretim Tasarımı",

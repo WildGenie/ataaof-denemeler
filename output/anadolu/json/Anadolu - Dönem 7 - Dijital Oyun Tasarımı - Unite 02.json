@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">Unreal Engine yazılımını 1998 yılında geliştiren isim </span><span style=\"font-weight: 400;\">Tim Sweeney'dir.</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/><span style=\"font-weight: 400;\">Unreal Engine yazılımını 1998 yılında geliştiren isim </span><span style=\"font-weight: 400;\">Tim Sweeney'dir.</span>"
     },
     {
         "SoruID": 3690163,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br><span style=\"font-weight: 400;\">Önemli bir oyun firması olan Epic Games’i Tim Sweeney kurmuştur</span>"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/><span style=\"font-weight: 400;\">Önemli bir oyun firması olan Epic Games’i Tim Sweeney kurmuştur</span>"
     },
     {
         "SoruID": 3690165,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt B şıkkıdır<br><span style=\"font-weight: 400;\">Önemli bir oyun motoru olan Godot’u 2007 yılında piyasaya süren isim </span><span style=\"font-weight: 400;\">Juan Linietsky'dir. </span>"
+        "Aciklama": "Doğru yanıt B şıkkıdır<br/><span style=\"font-weight: 400;\">Önemli bir oyun motoru olan Godot’u 2007 yılında piyasaya süren isim </span><span style=\"font-weight: 400;\">Juan Linietsky'dir. </span>"
     },
     {
         "SoruID": 3690169,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır<br>Amazon’un piyasaya sürmüş olduğu oyun motoru Lumberyard'dır."
+        "Aciklama": "Doğru yanıt E şıkkıdır<br/>Amazon’un piyasaya sürmüş olduğu oyun motoru Lumberyard'dır."
     },
     {
         "SoruID": 3690172,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br>Bir eylemin oluşması durumunda nesnelerde meydana gelecek değişiklik efektinin kontrol edilmesini sağlayan modül animasyon/fizik motoru modülüdür"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/>Bir eylemin oluşması durumunda nesnelerde meydana gelecek değişiklik efektinin kontrol edilmesini sağlayan modül animasyon/fizik motoru modülüdür"
     },
     {
         "SoruID": 3690178,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır<br>Oyun oynayan bireyler dışında oyunda yer alan ve bilgisayar tarafından oyuncunun hareketlerine göre hareket eden nesnelerin davranışlarını kontrol etmeyi sağlayan modül yapay zeka modülüdür."
+        "Aciklama": "Doğru yanıt E şıkkıdır<br/>Oyun oynayan bireyler dışında oyunda yer alan ve bilgisayar tarafından oyuncunun hareketlerine göre hareket eden nesnelerin davranışlarını kontrol etmeyi sağlayan modül yapay zeka modülüdür."
     },
     {
         "SoruID": 3690180,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt B şıkkıdır<br>Hazır kütüphaneler bakımından öne çıkan, Pygame kütüphanesi ile oyun tasarımcılarına yönelik çok sayıda işlevi bulunduran dil Python'dır."
+        "Aciklama": "Doğru yanıt B şıkkıdır<br/>Hazır kütüphaneler bakımından öne çıkan, Pygame kütüphanesi ile oyun tasarımcılarına yönelik çok sayıda işlevi bulunduran dil Python'dır."
     },
     {
         "SoruID": 3690186,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır<br><span style=\"font-weight: 400;\">HTML5 ortamında çalışabilecek oyunlar geliştirmeye olanak sağlayan gelişmiş ve ücretsiz bir oyun motoru Phaser'dir</span>"
+        "Aciklama": "Doğru yanıt E şıkkıdır<br/><span style=\"font-weight: 400;\">HTML5 ortamında çalışabilecek oyunlar geliştirmeye olanak sağlayan gelişmiş ve ücretsiz bir oyun motoru Phaser'dir</span>"
     },
     {
         "SoruID": 3690190,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">Game Maker Studio 2 oyun motorunu kullandığı dil GML'dir.</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/><span style=\"font-weight: 400;\">Game Maker Studio 2 oyun motorunu kullandığı dil GML'dir.</span>"
     },
     {
         "SoruID": 3690194,
@@ -197,6 +197,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır.<br>Phaser açık kaynak kodlu bir oyun motorudur"
+        "Aciklama": "Doğru yanıt C şıkkıdır.<br/>Phaser açık kaynak kodlu bir oyun motorudur"
     }
 ]

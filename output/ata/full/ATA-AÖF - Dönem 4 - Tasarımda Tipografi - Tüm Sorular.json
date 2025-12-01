@@ -1,11 +1,11 @@
 [
     {
         "SoruID": 337371,
-        "SoruMetni": "<strong>Aşağıdaki yazı karakterlerinden hangisi tırnaklı (serif) yazı karakteridir?</strong><br/></br>",
-        "A": "Arial<br/></br>",
-        "B": "Times New Roman<br/></br>",
-        "C": "Futura<br/></br>",
-        "D": "Gotham<br/></br>",
+        "SoruMetni": "<strong>Aşağıdaki yazı karakterlerinden hangisi tırnaklı (serif) yazı karakteridir?</strong>",
+        "A": "Arial",
+        "B": "Times New Roman",
+        "C": "Futura",
+        "D": "Gotham",
         "E": "Calibri",
         "DogruCevap": "B",
         "DersAd": "Tasarımda Tipografi",
@@ -781,7 +781,7 @@
     },
     {
         "SoruID": 342923,
-        "SoruMetni": "I. 1700-1800’lü yıllar arası dönemde kullanılan yazı tiplerinin tanımlanmasında kullanılır.<br/>II. Kalın ve ince çizgiler arasındaki kontrast daha keskindir.<br/>III. Kavisli seriflerin yerine düz ve ince serifler bulunur.<br/><strong>Yukarıdakilerden hangisi ya da hangileri modern yazı karekterlerinin özelliklerindendir?</strong><br/></br></br></br>",
+        "SoruMetni": "I. 1700-1800’lü yıllar arası dönemde kullanılan yazı tiplerinin tanımlanmasında kullanılır.<br/>II. Kalın ve ince çizgiler arasındaki kontrast daha keskindir.<br/>III. Kavisli seriflerin yerine düz ve ince serifler bulunur.<br/><strong>Yukarıdakilerden hangisi ya da hangileri modern yazı karekterlerinin özelliklerindendir?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -841,7 +841,7 @@
     },
     {
         "SoruID": 347614,
-        "SoruMetni": "Bauhaus Akımı özellikle De Stijl ve Konstrüktivizm etkisinde kalmakla beraber, Almanya’nın savaşta aldığı yenilgiyle birlikte sosyal, ekonomik ve kültürel alanlarda yeni bir düzen arayışından ortaya çıkmıştır. <br/><strong>Buna göre Bauhaus Akımı kimin önderliğinde ortaya çıkmıştır?</strong><br/></br>",
+        "SoruMetni": "Bauhaus Akımı özellikle De Stijl ve Konstrüktivizm etkisinde kalmakla beraber, Almanya’nın savaşta aldığı yenilgiyle birlikte sosyal, ekonomik ve kültürel alanlarda yeni bir düzen arayışından ortaya çıkmıştır. <br/><strong>Buna göre Bauhaus Akımı kimin önderliğinde ortaya çıkmıştır?</strong>",
         "A": "Walter Gropius",
         "B": "Moholy-Nagy",
         "C": "Jan Tschichold",
@@ -982,7 +982,7 @@
     {
         "SoruID": 337402,
         "SoruMetni": "<strong>Aşağıdakilerden hangisi tipografik hiyerarşi oluşturmada dikkat edilmesi gereken hususlardan biri <u>değildir</u>?</strong>",
-        "A": "Tasarım ile verilmek istenen görsel mesaj<br type=\"_moz\"/>",
+        "A": "Tasarım ile verilmek istenen görsel mesaj",
         "B": "Yazının içeriği",
         "C": "Tipografik elemanlar arası öncelik sırası",
         "D": "Metinde akış",
@@ -2001,7 +2001,7 @@
     },
     {
         "SoruID": 343503,
-        "SoruMetni": "I. Tipografinin hareketli hâli, durağan yapısına göre izleyicide daha fazla dikkat çekmekte ve insanların bu ürüne daha fazla zaman ayırmasına yol açmaktadır.<br/>II. Kinetik tipografinin, hareketi uygulayarak duyguyu etkili bir şekilde ilettiği söylenebilir.<br/>III. Hareketli nesneler veya görüntüler durağana nazaran daha çok dikkat çekicidir.<br/>IV. Yeni medya içerisinde tipografi kinetik ve etkileşimli olma özelliği de kazanmıştır.<br/><strong>Hareketli tipografi ile ilgili y</strong><strong>ukarıdakilerden hangisi doğrudur?</strong></br></br></br>",
+        "SoruMetni": "I. Tipografinin hareketli hâli, durağan yapısına göre izleyicide daha fazla dikkat çekmekte ve insanların bu ürüne daha fazla zaman ayırmasına yol açmaktadır.<br/>II. Kinetik tipografinin, hareketi uygulayarak duyguyu etkili bir şekilde ilettiği söylenebilir.<br/>III. Hareketli nesneler veya görüntüler durağana nazaran daha çok dikkat çekicidir.<br/>IV. Yeni medya içerisinde tipografi kinetik ve etkileşimli olma özelliği de kazanmıştır.<br/><strong>Hareketli tipografi ile ilgili y</strong><strong>ukarıdakilerden hangisi doğrudur?</strong>",
         "A": "I ve II",
         "B": "II ve III",
         "C": "I, II ve III",
@@ -3361,7 +3361,7 @@
     },
     {
         "SoruID": 338546,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi reklam filmlerinde kullanılan hareketli tipografi uygulamalarının dezavantajları arasında <u>yer almaz</u>?</strong><br type=\"_moz\"/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi reklam filmlerinde kullanılan hareketli tipografi uygulamalarının dezavantajları arasında <u>yer almaz</u>?</strong>",
         "A": "Sürekli görsel takip gerektirir.",
         "B": "Yayınlandığı ekrana göre içerik deformasyonu yaşanabilir.",
         "C": "Birden çok ekrana göre tasarım planlaması gerektirir.",
@@ -3521,7 +3521,7 @@
     },
     {
         "SoruID": 338550,
-        "SoruMetni": "I. IBM<br/>II. Coca-Cola<br/>III. DELL<br/><strong>Yukarıdakilerden hangisi ya da hangileri bazı markalara ait logotayp örneğidir?</strong></br></br>",
+        "SoruMetni": "I. IBM<br/>II. Coca-Cola<br/>III. DELL<br/><strong>Yukarıdakilerden hangisi ya da hangileri bazı markalara ait logotayp örneğidir?</strong>",
         "A": "I, II ve III",
         "B": "II ve III",
         "C": "Yalnız III",
@@ -3561,7 +3561,7 @@
     },
     {
         "SoruID": 338552,
-        "SoruMetni": "I. Ürüne dikkat çeker.<br/>II. Tüketiciyi satın almaya teşvik eder.<br/>III. Marka değerini yükseltir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri ambalajdaki tipografinin işlevini ifade eder?</strong></br></br>",
+        "SoruMetni": "I. Ürüne dikkat çeker.<br/>II. Tüketiciyi satın almaya teşvik eder.<br/>III. Marka değerini yükseltir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri ambalajdaki tipografinin işlevini ifade eder?</strong>",
         "A": "Yalnız I",
         "B": "I ve III",
         "C": "I, II ve III",
@@ -3581,7 +3581,7 @@
     },
     {
         "SoruID": 338553,
-        "SoruMetni": "I. Etiketlerin grafik tasarımı<br/>II. Zor açılıp kapanabilme özellikleri<br/>III. Taşıyıcı kapların biçim ve boyutları<br/><strong>Yukarıdakilerden hangisi ya da hangileri ambalaj tasarımında değerlendirme kriterleriyle ilgilidir?</strong></br></br>",
+        "SoruMetni": "I. Etiketlerin grafik tasarımı<br/>II. Zor açılıp kapanabilme özellikleri<br/>III. Taşıyıcı kapların biçim ve boyutları<br/><strong>Yukarıdakilerden hangisi ya da hangileri ambalaj tasarımında değerlendirme kriterleriyle ilgilidir?</strong>",
         "A": "I ve II",
         "B": "I ve III",
         "C": "Yalnız III",
@@ -3961,7 +3961,7 @@
     },
     {
         "SoruID": 354606,
-        "SoruMetni": "................... algılama örgütleme ilkelerinden şekil-zemin ilişkisine göre; normal şartlar altında, bireyin dikkati şekil üstünde odaklanır; bazı durumlarda şekil ve zeminin birbirleriyle yer değiştirdiği durumlar ortaya çıkabilir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "................... algılama örgütleme ilkelerinden şekil-zemin ilişkisine göre; normal şartlar altında, bireyin dikkati şekil üstünde odaklanır; bazı durumlarda şekil ve zeminin birbirleriyle yer değiştirdiği durumlar ortaya çıkabilir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Anstalt",
         "B": "Dergestalt",
         "C": "Haftanstalt",

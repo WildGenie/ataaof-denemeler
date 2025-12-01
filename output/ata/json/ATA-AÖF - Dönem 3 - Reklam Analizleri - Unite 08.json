@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 116601,
-        "SoruMetni": "<br/>I. Algılama kodları<br/>​II. Görüntüsel kodlar<br/>​III. İkonbilimsel kodlar<br/><strong>Umberto Eco'ya göre yukarıdakilerden hangisi ya da hangileri kod türleri arasında yer alır?</strong></br></br></br>",
+        "SoruMetni": "<br/>I. Algılama kodları<br/>​II. Görüntüsel kodlar<br/>​III. İkonbilimsel kodlar<br/><strong>Umberto Eco'ya göre yukarıdakilerden hangisi ya da hangileri kod türleri arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 166740,
-        "SoruMetni": "I. Edimbilim<br/>II. Anlambilim<br/>III. Sözdizim<br/><strong>Yukarıdakilerden hangisi ya da hangileri Charles William Morris'in göstergebilimi tanımladığı temellerdendir?</strong></br></br>",
+        "SoruMetni": "I. Edimbilim<br/>II. Anlambilim<br/>III. Sözdizim<br/><strong>Yukarıdakilerden hangisi ya da hangileri Charles William Morris'in göstergebilimi tanımladığı temellerdendir?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",

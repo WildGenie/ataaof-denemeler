@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 133827,
-        "SoruMetni": "I. Göstergebilim insanlara, yaşadığı ortamda kendisine anlatılmak isteneni çözümleme fırsatı sunar.<br/>II. Göstergebilim çok önemli bir anlatı çözümleme stratejisidir.<br/>III. Göstergebilim, sembollerin, işaretlerin, logoların yorumlama eylemidir.<br/><strong>Göstergebilim ile ilgili yukarıdakilerden hangisi ya da hangileri doğrudur?</strong> </br></br>",
+        "SoruMetni": "I. Göstergebilim insanlara, yaşadığı ortamda kendisine anlatılmak isteneni çözümleme fırsatı sunar.<br/>II. Göstergebilim çok önemli bir anlatı çözümleme stratejisidir.<br/>III. Göstergebilim, sembollerin, işaretlerin, logoların yorumlama eylemidir.<br/><strong>Göstergebilim ile ilgili yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",
@@ -81,11 +81,11 @@
     },
     {
         "SoruID": 133918,
-        "SoruMetni": "<b>Göstergebilimde kuram oluşturan ilk düşünür aşağıdakilerden hangisidir?</b><br type=\"_moz\"/>",
-        "A": "Thomas Albert Sebeok<br type=\"_moz\"/>",
+        "SoruMetni": "<b>Göstergebilimde kuram oluşturan ilk düşünür aşağıdakilerden hangisidir?</b>",
+        "A": "Thomas Albert Sebeok",
         "B": "Roland Barthes",
         "C": "Ferdinand de Saussure",
-        "D": "Charles Sanders Peirce<br type=\"_moz\"/>",
+        "D": "Charles Sanders Peirce",
         "E": "Paul de Man",
         "DogruCevap": "D",
         "DersAd": "Göstergebilim",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 145933,
-        "SoruMetni": "I. Söz dizimi<br/>II. Anlambilim<br/>III. Epigrafi<br/><strong>Yukarıdaki kavramlardan hangisi ya da hangileri Charles Williams Morris tarafından ifade edilen üç bileşenden biri <u>değildir</u>?</strong></br></br>",
+        "SoruMetni": "I. Söz dizimi<br/>II. Anlambilim<br/>III. Epigrafi<br/><strong>Yukarıdaki kavramlardan hangisi ya da hangileri Charles Williams Morris tarafından ifade edilen üç bileşenden biri <u>değildir</u>?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -321,7 +321,7 @@
     },
     {
         "SoruID": 189613,
-        "SoruMetni": "I. Alımlama Estetiği<br/>II. Metindilbilim<br/>III. Çeviribilim<br/><strong>Yukarıdakilerden hangisi ya da hangileri Almanya’da yapılan çalışmalardan biri <u>değildir</u>?</strong><br/></br></br></br>",
+        "SoruMetni": "I. Alımlama Estetiği<br/>II. Metindilbilim<br/>III. Çeviribilim<br/><strong>Yukarıdakilerden hangisi ya da hangileri Almanya’da yapılan çalışmalardan biri <u>değildir</u>?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -441,7 +441,7 @@
     },
     {
         "SoruID": 133951,
-        "SoruMetni": "I. Fonoloji<br/>II. Sentaks<br/>III. Pragmatik<br/><strong>Yukarıdakilerden hangisi ya da hangileri dilbilim düzeyleri arasında yer alır?</strong><br/></br></br></br>",
+        "SoruMetni": "I. Fonoloji<br/>II. Sentaks<br/>III. Pragmatik<br/><strong>Yukarıdakilerden hangisi ya da hangileri dilbilim düzeyleri arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",
@@ -481,7 +481,7 @@
     },
     {
         "SoruID": 133968,
-        "SoruMetni": "I. Telaffuz<br/>II. Sözcük yapısı <br/>III. Cümle yapısı<br/>IV. Anlam<br/><strong>Yukarıdakilerden hangisi ya da hangileri sosyodilbilimin inceleme alanına girmektedir?</strong></br></br></br>",
+        "SoruMetni": "I. Telaffuz<br/>II. Sözcük yapısı <br/>III. Cümle yapısı<br/>IV. Anlam<br/><strong>Yukarıdakilerden hangisi ya da hangileri sosyodilbilimin inceleme alanına girmektedir?</strong>",
         "A": "Yalnız III",
         "B": "I ve II",
         "C": "II ve IV",
@@ -501,7 +501,7 @@
     },
     {
         "SoruID": 133971,
-        "SoruMetni": "I. Gösterge<br/>II. Anlam<br/>III. Yorum<br/><strong>Charles</strong> <strong>Morris'e göre yukarıdakilerden hangisi ya da hangileri göstergebilimin boyutları arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Gösterge<br/>II. Anlam<br/>III. Yorum<br/><strong>Charles</strong> <strong>Morris'e göre yukarıdakilerden hangisi ya da hangileri göstergebilimin boyutları arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "II ve III",
@@ -921,7 +921,7 @@
     },
     {
         "SoruID": 134128,
-        "SoruMetni": "I. Derinlik yüzeyi açıklar.<br/>II. Yorumcu nesneldir.<br/>III. Kültür dile benzer.<br/><strong>Yukarıdakilerden hangisi ya da hangileri Smith ve Riley'e göre yapısalcı yaklaşımların ortak özellikleri arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Derinlik yüzeyi açıklar.<br/>II. Yorumcu nesneldir.<br/>III. Kültür dile benzer.<br/><strong>Yukarıdakilerden hangisi ya da hangileri Smith ve Riley'e göre yapısalcı yaklaşımların ortak özellikleri arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -1241,12 +1241,12 @@
     },
     {
         "SoruID": 341850,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi yapısalcılığın temel amaç ve yönelimleri arasında <u>yer almaz</u>?</strong><br type=\"_moz\"/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi yapısalcılığın temel amaç ve yönelimleri arasında <u>yer almaz</u>?</strong>",
         "A": "Ele alınan nesnenin \"kendi başına ve kendi kendisi için\" incelenmesi",
         "B": "Nesnenin kendi ögeleri arasındaki bağıntılardan oluşan bir \"dizge\" olarak ele alınması",
-        "C": "Nesnenin artsüremlilik içinde değil, eşsüremlilik (eşzamanlılık) içinde ele alınması<br type=\"_moz\"/>",
+        "C": "Nesnenin artsüremlilik içinde değil, eşsüremlilik (eşzamanlılık) içinde ele alınması",
         "D": "Bu yaklaşımın felsefi, siyasal ya da sanatsal bir öğreti olması",
-        "E": "Nesnenin \"doğa ötesel\" değil, \"özdekçi\" bir yaklaşım biçiminde tanımlanması<br type=\"_moz\"/>",
+        "E": "Nesnenin \"doğa ötesel\" değil, \"özdekçi\" bir yaklaşım biçiminde tanımlanması",
         "DogruCevap": "D",
         "DersAd": "Göstergebilim",
         "Somestre": 2,
@@ -2201,7 +2201,7 @@
     },
     {
         "SoruID": 134444,
-        "SoruMetni": "I. Birinci Öbek<br/>II. İkinci Öbek<br/>III. Orta Öbek<br/>IV. Sonuncu Öbek<br/><strong>Yukarıdakilerden hangisi ya da hangileri Peirce tarafından göstergeleri açıklamak üzere oluşturulan öbeklerdendir?</strong><br/></br></br></br></br>",
+        "SoruMetni": "I. Birinci Öbek<br/>II. İkinci Öbek<br/>III. Orta Öbek<br/>IV. Sonuncu Öbek<br/><strong>Yukarıdakilerden hangisi ya da hangileri Peirce tarafından göstergeleri açıklamak üzere oluşturulan öbeklerdendir?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız IV",
         "C": "I ve II",
@@ -2281,7 +2281,7 @@
     },
     {
         "SoruID": 145639,
-        "SoruMetni": "I. Charles Sanders Peirce<br/>II. Ferdinand de Saussure<br/>III. George Eliot<br/><strong>Yukarıdaki bilim insanlarından hangisi ya da hangileri göstergebilimin öncülerinden biri <u>değildir</u>?</strong><br/></br></br></br>",
+        "SoruMetni": "I. Charles Sanders Peirce<br/>II. Ferdinand de Saussure<br/>III. George Eliot<br/><strong>Yukarıdaki bilim insanlarından hangisi ya da hangileri göstergebilimin öncülerinden biri <u>değildir</u>?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -2321,7 +2321,7 @@
     },
     {
         "SoruID": 145653,
-        "SoruMetni": "I. Söz dizim<br/>II. Anlam bilim<br/>III. Simge<br/><strong>Yukarıdakilerden hangisi ya da hangileri Morris’in belirlediği bileşenler arasında <u>yer almaz</u>?</strong><br/></br></br></br>",
+        "SoruMetni": "I. Söz dizim<br/>II. Anlam bilim<br/>III. Simge<br/><strong>Yukarıdakilerden hangisi ya da hangileri Morris’in belirlediği bileşenler arasında <u>yer almaz</u>?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -2421,7 +2421,7 @@
     },
     {
         "SoruID": 190296,
-        "SoruMetni": "I. Önerme<br/>II. Belirtisel Gösterge/İndeks<br/>III. Kavramsal/Kural Gösterge<br/><strong>Yukarıdakilerden hangisi ya da hangileri Peirce’in belirlediği üçüncü öbek içerisinde yer alır?</strong><br/></br></br></br>",
+        "SoruMetni": "I. Önerme<br/>II. Belirtisel Gösterge/İndeks<br/>III. Kavramsal/Kural Gösterge<br/><strong>Yukarıdakilerden hangisi ya da hangileri Peirce’in belirlediği üçüncü öbek içerisinde yer alır?</strong>",
         "A": "Yalnız II",
         "B": "Yalnız III",
         "C": "I, II ve III",
@@ -2581,7 +2581,7 @@
     },
     {
         "SoruID": 134491,
-        "SoruMetni": "<b>Aşağıdakilerden hangisi Barthes'in etkilendiği isimlerden biri <u>değildir</u>?</b><br/><br type=\"_moz\"> <br/></br>",
+        "SoruMetni": "<b>Aşağıdakilerden hangisi Barthes'in etkilendiği isimlerden biri <u>değildir</u>?</b>",
         "A": "Grunig",
         "B": "Marx",
         "C": "Freud",
@@ -3121,7 +3121,7 @@
     },
     {
         "SoruID": 149037,
-        "SoruMetni": "............................................ “dışarıdan eleştiri” yöntemiyle araştırmayı amaçlayan bakış açılarına karşılık metnin içindeki ögeleri inceleyerek “içeriden eleştiri” anlayışını çalışmalarına uygulayan ilk kuramcılardır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "............................................ “dışarıdan eleştiri” yöntemiyle araştırmayı amaçlayan bakış açılarına karşılık metnin içindeki ögeleri inceleyerek “içeriden eleştiri” anlayışını çalışmalarına uygulayan ilk kuramcılardır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Rus biçimciler",
         "B": "Alman biçimciler",
         "C": "Japon biçimciler",
@@ -3161,7 +3161,7 @@
     },
     {
         "SoruID": 150619,
-        "SoruMetni": "I. Olağanüstü masalların içerdiği işlevler sayıca sınırlıdır.<br/>II. İşlevlerin dizilişi her zaman aynıdır.<br/>III. Bütün olağanüstü masallar yapıları açısından aynı tipe bağlanır.<br/><strong>Yukarıdakilerden hangisi ya da hangileri Propp’a göre işlevin temel özelliklerindendir?</strong></br></br>",
+        "SoruMetni": "I. Olağanüstü masalların içerdiği işlevler sayıca sınırlıdır.<br/>II. İşlevlerin dizilişi her zaman aynıdır.<br/>III. Bütün olağanüstü masallar yapıları açısından aynı tipe bağlanır.<br/><strong>Yukarıdakilerden hangisi ya da hangileri Propp’a göre işlevin temel özelliklerindendir?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",
@@ -3281,7 +3281,7 @@
     },
     {
         "SoruID": 356574,
-        "SoruMetni": "I. Dil yoluyla algılama sürecini uzatmak<br/>II. Anlaşılmayı zorlaştırmak<br/>III. Alışkanlıkları kırmak<br/><strong>Yukarıdakilerden hangisi ya da hangileri Rus Biçimciler'e göre sanatın amaçları arasındadır?</strong></br></br>",
+        "SoruMetni": "I. Dil yoluyla algılama sürecini uzatmak<br/>II. Anlaşılmayı zorlaştırmak<br/>III. Alışkanlıkları kırmak<br/><strong>Yukarıdakilerden hangisi ya da hangileri Rus Biçimciler'e göre sanatın amaçları arasındadır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -3341,7 +3341,7 @@
     },
     {
         "SoruID": 145947,
-        "SoruMetni": "Umberto Eco ………………. kavramını kendisinin dışında herhangi başka bir şeklin, biçimin yahut objenin yerine geçen ve onu simgeleyen bir kavram olarak kullandığını ifade eder.<br/><strong>Cümlede boş bırakılan yere aşağıdaki kavramlardan hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Umberto Eco ………………. kavramını kendisinin dışında herhangi başka bir şeklin, biçimin yahut objenin yerine geçen ve onu simgeleyen bir kavram olarak kullandığını ifade eder.<br/><strong>Cümlede boş bırakılan yere aşağıdaki kavramlardan hangisi getirilmelidir?</strong>",
         "A": "açıklık",
         "B": "aşırı yorum",
         "C": "kodlama",
@@ -3401,7 +3401,7 @@
     },
     {
         "SoruID": 145964,
-        "SoruMetni": "I. Okuma süreci boyunca önceden rotası çizilmiş bir yol üzerinde ilerler.<br/>II. Genel olarak aydın kesime ait ve edebi metinlerdir.<br/>III. Bir projeye göre tasarlanmış çok katı metinlerdir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri kapalı metnin özellikleri arasında yer alır?</strong> </br></br>",
+        "SoruMetni": "I. Okuma süreci boyunca önceden rotası çizilmiş bir yol üzerinde ilerler.<br/>II. Genel olarak aydın kesime ait ve edebi metinlerdir.<br/>III. Bir projeye göre tasarlanmış çok katı metinlerdir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri kapalı metnin özellikleri arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -3541,7 +3541,7 @@
     },
     {
         "SoruID": 150621,
-        "SoruMetni": "I. Kodlamanın özelliklerini biçimselleştirme yolu ile üstlenir.<br/>II. Dördüncü aşama olarak kabul edilir.<br/>III. Bu aşamanın örnekleri amblemler, müzik harfleri ve matematiksel göstergelerdir.<br/><strong>Yukarıdaki özellikler Eco'nun göstergelerin üretim tarzı tipolojisine ait aşamalarından hangisi ile ilgilidir?</strong><br/></br></br></br>",
+        "SoruMetni": "I. Kodlamanın özelliklerini biçimselleştirme yolu ile üstlenir.<br/>II. Dördüncü aşama olarak kabul edilir.<br/>III. Bu aşamanın örnekleri amblemler, müzik harfleri ve matematiksel göstergelerdir.<br/><strong>Yukarıdaki özellikler Eco'nun göstergelerin üretim tarzı tipolojisine ait aşamalarından hangisi ile ilgilidir?</strong>",
         "A": "Fiziksel emek",
         "B": "Tanıma",
         "C": "Doğrudan gösterge (ostensiyon)",
@@ -3561,7 +3561,7 @@
     },
     {
         "SoruID": 190586,
-        "SoruMetni": "I. Dördüncü aşama olarak kabul edilir.<br/>II. Kodlamanın özelliklerini biçimselleştirme yolu ile üstlenir.<br/>III. Örnekleri arasında amblemler, müzik harfleri ve matematiksel göstergeler vardır.<br/><strong>Özellikleri verilen üretim tipoloji aşaması aşağıdakilerden hangisidir?</strong><br/></br></br></br>",
+        "SoruMetni": "I. Dördüncü aşama olarak kabul edilir.<br/>II. Kodlamanın özelliklerini biçimselleştirme yolu ile üstlenir.<br/>III. Örnekleri arasında amblemler, müzik harfleri ve matematiksel göstergeler vardır.<br/><strong>Özellikleri verilen üretim tipoloji aşaması aşağıdakilerden hangisidir?</strong>",
         "A": "Fiziksel emek",
         "B": "Kopya (örnek)",
         "C": "Tanıma",
@@ -3581,7 +3581,7 @@
     },
     {
         "SoruID": 190587,
-        "SoruMetni": "Eco Göstergebilim Kuramı'nı temellendirirken bazı kavramsal durumlara da kendi düşünceleri ekseninde açıklamalar yapmış ve kavramlar kullanmıştır. Bu durumda ilk olarak ……………………………… bahsetmektedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Eco Göstergebilim Kuramı'nı temellendirirken bazı kavramsal durumlara da kendi düşünceleri ekseninde açıklamalar yapmış ve kavramlar kullanmıştır. Bu durumda ilk olarak ……………………………… bahsetmektedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "sistemsel kodlardan",
         "B": "biçim teorisinden",
         "C": "açık metinden",
@@ -3601,7 +3601,7 @@
     },
     {
         "SoruID": 190600,
-        "SoruMetni": "I. Genel itibarıyla her kesime açık olan kitle iletişim araçlarından gelen iletilerdir.<br/>II. Yorum düzeyinin oldukça yüksek olabileceği bir şekilde kurulur.<br/>III. Genel olarak aydın kesime ait ve edebimetinlerin özelliğidir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri açık metinin özelliklerinden <u>değildir</u>?</strong><br/></br></br></br>",
+        "SoruMetni": "I. Genel itibarıyla her kesime açık olan kitle iletişim araçlarından gelen iletilerdir.<br/>II. Yorum düzeyinin oldukça yüksek olabileceği bir şekilde kurulur.<br/>III. Genel olarak aydın kesime ait ve edebimetinlerin özelliğidir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri açık metinin özelliklerinden <u>değildir</u>?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "Yalnız II",
@@ -3661,7 +3661,7 @@
     },
     {
         "SoruID": 145088,
-        "SoruMetni": "Bütün sanatlar insanın varlığı üzerine kuruludur; ancak fotoğrafçılıkta insanın yokluğundan zevk alırız.<br/><strong>Film kuramcısı André Bazin bu cümle ile aşağıdakilerden hangisini vurgulamak istemiştir?</strong><br/></br>",
+        "SoruMetni": "Bütün sanatlar insanın varlığı üzerine kuruludur; ancak fotoğrafçılıkta insanın yokluğundan zevk alırız.<br/><strong>Film kuramcısı André Bazin bu cümle ile aşağıdakilerden hangisini vurgulamak istemiştir?</strong>",
         "A": "Fotoğrafın şeffaf bir araç olmadığını",
         "B": "Fotoğrafik gerçekliğin imkânsızlığını",
         "C": "Fotoğrafın bir simge olduğunu",
@@ -3721,7 +3721,7 @@
     },
     {
         "SoruID": 146013,
-        "SoruMetni": "Sahnelenmiş fotoğraf yaklaşımının öncülerinden biri olan Amerikalı sanatçı ............................. çeşitli kadın rollerine bürünerek hem kameranın önünde performansını gerçekleştirmekte hem de tıpkı bir yönetmen gibi görüntüleri düzenlemekte ve sahnelemektedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Sahnelenmiş fotoğraf yaklaşımının öncülerinden biri olan Amerikalı sanatçı ............................. çeşitli kadın rollerine bürünerek hem kameranın önünde performansını gerçekleştirmekte hem de tıpkı bir yönetmen gibi görüntüleri düzenlemekte ve sahnelemektedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Sherrie Levine",
         "B": "Cindy Sherman",
         "C": "Susan Meiselas",
@@ -3801,7 +3801,7 @@
     },
     {
         "SoruID": 150686,
-        "SoruMetni": "Bir köken ya da bir gerçeklikten yoksun gerçeğin modeller aracılığıyla türetilmesine ............................ yani simülasyon denilmektedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Bir köken ya da bir gerçeklikten yoksun gerçeğin modeller aracılığıyla türetilmesine ............................ yani simülasyon denilmektedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "nesnellik",
         "B": "öznellik",
         "C": "sadelik",
@@ -3861,7 +3861,7 @@
     },
     {
         "SoruID": 190655,
-        "SoruMetni": "I. Kurgu<br/>II. Nesnellik<br/>III. Doğrudanlık<br/><strong>Yukarıdakilerden hangisi ya da hangileri modernist fotoğrafın temel özellikleri arasında yer alır?</strong><br/></br></br></br>",
+        "SoruMetni": "I. Kurgu<br/>II. Nesnellik<br/>III. Doğrudanlık<br/><strong>Yukarıdakilerden hangisi ya da hangileri modernist fotoğrafın temel özellikleri arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -3881,7 +3881,7 @@
     },
     {
         "SoruID": 190658,
-        "SoruMetni": "Charles Sanders Pierce, nesnesiyle olan fiziksel bağından dolayı fotoğrafı ................................. olarak kabul etmiştir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Charles Sanders Pierce, nesnesiyle olan fiziksel bağından dolayı fotoğrafı ................................. olarak kabul etmiştir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "ikon",
         "B": "görüntüsel gösterge",
         "C": "belirtisel gösterge",
@@ -4161,7 +4161,7 @@
     },
     {
         "SoruID": 150711,
-        "SoruMetni": "I. İkna etme<br/>II. Etkileme<br/>III. Yönlendirme<br/><strong>Yukarıdakilerden hangisi ya da hangileri bir dil olarak sinemanın kitleler üzerinde sahip olduğu güç unsurları arasında yer alır?</strong><br/></br></br></br>",
+        "SoruMetni": "I. İkna etme<br/>II. Etkileme<br/>III. Yönlendirme<br/><strong>Yukarıdakilerden hangisi ya da hangileri bir dil olarak sinemanın kitleler üzerinde sahip olduğu güç unsurları arasında yer alır?</strong>",
         "A": "Yalnız II",
         "B": "Yalnız III",
         "C": "I ve II",
@@ -4181,7 +4181,7 @@
     },
     {
         "SoruID": 151366,
-        "SoruMetni": "I. Belirtisel gösterge<br/>II. Görüntüsel gösterge<br/>III. Simgesel gösterge<br/><strong>Yukarıdakilerden hangisi ya da hangileri Pierce'ın göstergebilim alanında ortaya koymuş olduğu gösterge tiplerindendir?</strong> </br></br>",
+        "SoruMetni": "I. Belirtisel gösterge<br/>II. Görüntüsel gösterge<br/>III. Simgesel gösterge<br/><strong>Yukarıdakilerden hangisi ya da hangileri Pierce'ın göstergebilim alanında ortaya koymuş olduğu gösterge tiplerindendir?</strong>",
         "A": "Yalnız II",
         "B": "I ve II",
         "C": "I ve III",
@@ -4301,7 +4301,7 @@
     },
     {
         "SoruID": 356309,
-        "SoruMetni": "I. Görüntü çerçevesi<br/>II. Kamera açıları<br/>III. Ses efektleri<br/><strong>Yukarıdakilerden hangisi ya da hangileri sinemada anlam oluşturan unsurlar arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Görüntü çerçevesi<br/>II. Kamera açıları<br/>III. Ses efektleri<br/><strong>Yukarıdakilerden hangisi ya da hangileri sinemada anlam oluşturan unsurlar arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -4661,7 +4661,7 @@
     },
     {
         "SoruID": 356577,
-        "SoruMetni": "I. Sadelik<br/>II. Gerçeğe uygunluk<br/>III. Olağandışılık<br/><strong>Yukarıdakilerden hangisi ya da hangileri haber değeri ölçütleri arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Sadelik<br/>II. Gerçeğe uygunluk<br/>III. Olağandışılık<br/><strong>Yukarıdakilerden hangisi ya da hangileri haber değeri ölçütleri arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -4761,7 +4761,7 @@
     },
     {
         "SoruID": 181909,
-        "SoruMetni": "Postallı ayakkabılar büyük ordunun, takvimden düşen yapraklar ise geçen<br/>zamanı temsil etmektedir.<br/><strong>Cümlede verilen örnek aşağıdakilerden hangisine aittir?</strong><br/></br></br>",
+        "SoruMetni": "Postallı ayakkabılar büyük ordunun, takvimden düşen yapraklar ise geçen<br/>zamanı temsil etmektedir.<br/><strong>Cümlede verilen örnek aşağıdakilerden hangisine aittir?</strong>",
         "A": "Metafor",
         "B": "Sembolik kod",
         "C": "Metonim",
@@ -4821,7 +4821,7 @@
     },
     {
         "SoruID": 181912,
-        "SoruMetni": "I. Kurumsal reklamcılık<br/>II. Sosyal sorumluluk<br/>III. Ekonomi<br/><strong>Yukarıdakilerden hangisi ya da hangileri halkla ilişkilerin uygulama alanlarındandır?</strong><br/></br></br></br>",
+        "SoruMetni": "I. Kurumsal reklamcılık<br/>II. Sosyal sorumluluk<br/>III. Ekonomi<br/><strong>Yukarıdakilerden hangisi ya da hangileri halkla ilişkilerin uygulama alanlarındandır?</strong>",
         "A": "Yalnız III",
         "B": "I ve II",
         "C": "I ve III",
@@ -4961,7 +4961,7 @@
     },
     {
         "SoruID": 190879,
-        "SoruMetni": "I. Bilgilendirme<br/>II. İkna Etme<br/>III. Sınırlandırma<br/><strong>Yukarıdakilerden hangisi ya da hangileri reklamın işlevleri arasında <u>yer almaz</u>?</strong><br/></br></br></br>",
+        "SoruMetni": "I. Bilgilendirme<br/>II. İkna Etme<br/>III. Sınırlandırma<br/><strong>Yukarıdakilerden hangisi ya da hangileri reklamın işlevleri arasında <u>yer almaz</u>?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -4981,7 +4981,7 @@
     },
     {
         "SoruID": 190885,
-        "SoruMetni": "I. Enigmatik kod<br/>II. Yananlamsal kod<br/>III. İnfomersiyal kod<br/><strong>Yukarıdaki kodlardan hangisi ya da hangileri reklam iletisindeki anlamı kurgulamada, aktarmada ve çözümlemede kullanılan kodlardan biri <u>değildir</u>?</strong><br/></br></br></br>",
+        "SoruMetni": "I. Enigmatik kod<br/>II. Yananlamsal kod<br/>III. İnfomersiyal kod<br/><strong>Yukarıdaki kodlardan hangisi ya da hangileri reklam iletisindeki anlamı kurgulamada, aktarmada ve çözümlemede kullanılan kodlardan biri <u>değildir</u>?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -5021,7 +5021,7 @@
     },
     {
         "SoruID": 146967,
-        "SoruMetni": "I. Veriler üzerinde arama yapmak daha hızlı ve kolay hâle gelmiştir.<br/>II. Enformasyon istenildiği kadar çoğaltılabilir hâle gelmiştir.<br/>III. Enformasyon üzerinde düzeltme yapılması kolaylaşmıştır.<br/><strong>Yukarıdakilerden hangisi ya da hangileri dijitalleşmenin iletişim sürecinde sağladığı avantajlardandır?</strong><br/></br></br></br>",
+        "SoruMetni": "I. Veriler üzerinde arama yapmak daha hızlı ve kolay hâle gelmiştir.<br/>II. Enformasyon istenildiği kadar çoğaltılabilir hâle gelmiştir.<br/>III. Enformasyon üzerinde düzeltme yapılması kolaylaşmıştır.<br/><strong>Yukarıdakilerden hangisi ya da hangileri dijitalleşmenin iletişim sürecinde sağladığı avantajlardandır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -5121,7 +5121,7 @@
     },
     {
         "SoruID": 146973,
-        "SoruMetni": "Teknolojinin kullanımı ve teknoloji tabanlı öğrenmede güçlük çeken ve uyum problemi yaşayan, dijital okuryazarlığı çok daha düşük olan bireylerin oluşturduğu grup …………… olarak adlandırılmaktadır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Teknolojinin kullanımı ve teknoloji tabanlı öğrenmede güçlük çeken ve uyum problemi yaşayan, dijital okuryazarlığı çok daha düşük olan bireylerin oluşturduğu grup …………… olarak adlandırılmaktadır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "dijital melez",
         "B": "dijital göçmen",
         "C": "dijital yerli",
@@ -5141,7 +5141,7 @@
     },
     {
         "SoruID": 146975,
-        "SoruMetni": "I. Maddi yetersizlik<br/>II. Zaman yetersizliği<br/>III. Kullanım engeli<br/><strong>Yukarıdakilerden hangisi ya da hangileri bireyler arasındaki dijital uçuruma neden olan ve bu durumu besleyen unsurlardan biri <u>değildir</u>?</strong><br/></br></br></br>",
+        "SoruMetni": "I. Maddi yetersizlik<br/>II. Zaman yetersizliği<br/>III. Kullanım engeli<br/><strong>Yukarıdakilerden hangisi ya da hangileri bireyler arasındaki dijital uçuruma neden olan ve bu durumu besleyen unsurlardan biri <u>değildir</u>?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -5261,7 +5261,7 @@
     },
     {
         "SoruID": 151163,
-        "SoruMetni": ".......................................: İnterneti, sanal oyunları, akıllı telefonları dijital bir dile çevirerek iletişim kuran nesil dijital yerliler olarak adlandırılmaktadır ve bu neslin dijital okuryazarlık oranı oldukça yüksektir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": ".......................................: İnterneti, sanal oyunları, akıllı telefonları dijital bir dile çevirerek iletişim kuran nesil dijital yerliler olarak adlandırılmaktadır ve bu neslin dijital okuryazarlık oranı oldukça yüksektir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Dijital göçmenler",
         "B": "Dijital yerliler",
         "C": "Kör dijitalciler",

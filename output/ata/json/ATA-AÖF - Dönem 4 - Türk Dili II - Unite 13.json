@@ -146,7 +146,7 @@
         "B": "Açık oturum",
         "C": "Münazara",
         "D": "Konferans",
-        "E": "Sempozyum<br type=\"_moz\"/>",
+        "E": "Sempozyum",
         "DogruCevap": "D",
         "DersAd": "Türk Dili II",
         "Somestre": 2,
@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 238600,
-        "SoruMetni": "I. Topluluk karşısında yapılır.<br/>II. Süreci yöneten bir başkan vardır.<br/>III. Dinleyiciler görüşlerini açıklayabilir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri açık oturumun özellikleri arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Topluluk karşısında yapılır.<br/>II. Süreci yöneten bir başkan vardır.<br/>III. Dinleyiciler görüşlerini açıklayabilir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri açık oturumun özellikleri arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -321,7 +321,7 @@
     },
     {
         "SoruID": 254838,
-        "SoruMetni": "I.Farklı görüşteki kişiler bir araya gelir.<br/>II. Bilimsel ve belgeye dayalı kanıtlar sunulur.<br/>III. Eleştirel ve analitik düşünme becerisi kazandırır.<br/><strong>Yukarıdaki özellikleri verilen konuşma türü hangisidir?</strong><br/></br></br></br></br>",
+        "SoruMetni": "I.Farklı görüşteki kişiler bir araya gelir.<br/>II. Bilimsel ve belgeye dayalı kanıtlar sunulur.<br/>III. Eleştirel ve analitik düşünme becerisi kazandırır.<br/><strong>Yukarıdaki özellikleri verilen konuşma türü hangisidir?</strong>",
         "A": "Nutuk",
         "B": "Telekonferans",
         "C": "Açılış konuşması",
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 350382,
-        "SoruMetni": "Ey benim, namlı, şerefli, sadık emirlerim! <br/>İyi bilirsiniz ki üstünde durduğumuz şu memleket ve maliki olduğumuz bu devlet, nice müşkil muharebe ve mücahedeler sonunda, ecdadımız tarafından kazanılmış ve bize nasip olmuştur. <br/>Diyarı Rum'a az zamanda sahip olan ecdadımız, Allah'ın azamet ve kudretine, peygamberimiz Hazreti Muhammed'in imdad-ı ruhaniyesine sığınarak, bütün Asya ve Avrupa'da diledikleri her cengi kazanmışlardır.<br/>Bugün sizlere derim ki (...)<br/><strong>Bu metin aşağıdaki sözlü anlatım türlerinden hangisine aittir?</strong></br></br></br>",
+        "SoruMetni": "Ey benim, namlı, şerefli, sadık emirlerim! <br/>İyi bilirsiniz ki üstünde durduğumuz şu memleket ve maliki olduğumuz bu devlet, nice müşkil muharebe ve mücahedeler sonunda, ecdadımız tarafından kazanılmış ve bize nasip olmuştur. <br/>Diyarı Rum'a az zamanda sahip olan ecdadımız, Allah'ın azamet ve kudretine, peygamberimiz Hazreti Muhammed'in imdad-ı ruhaniyesine sığınarak, bütün Asya ve Avrupa'da diledikleri her cengi kazanmışlardır.<br/>Bugün sizlere derim ki (...)<br/><strong>Bu metin aşağıdaki sözlü anlatım türlerinden hangisine aittir?</strong>",
         "A": "Söylev / Nutuk",
         "B": "Konferans",
         "C": "Sempozyum",

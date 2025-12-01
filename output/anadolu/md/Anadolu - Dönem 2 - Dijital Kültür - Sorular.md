@@ -8,13 +8,7 @@
     - D-) Facebook
     - E-) TikTok
 
-    > **Açıklama:** Amerika Birleşik Devletleri’ndeki Black Lives Matter sosyal
-    > hareketi Twitter’ı örgütlenme ve siyasi katılım için
-    > sıkça kullandı (Cohen and Jackson; 2016). Twitter
-    > üzerinden yapılan çağrılar ve paylaşılan haberler insanların protestolara katılması için bilgi dağıtırken
-    > bir yandan da genel kamuoyunu bilgilendirme rolünü üstlendi. Platformlar bu bağlamda birçok sosyal
-    > aksiyonun temeline oturabiliyor.
-    > Yanıt Twitter olmalıdır.
+    > **Açıklama:** Amerika Birleşik Devletleri’ndeki Black Lives Matter sosyal<br />hareketi Twitter’ı örgütlenme ve siyasi katılım için<br />sıkça kullandı (Cohen and Jackson; 2016). Twitter<br />üzerinden yapılan çağrılar ve paylaşılan haberler insanların protestolara katılması için bilgi dağıtırken<br />bir yandan da genel kamuoyunu bilgilendirme rolünü üstlendi. Platformlar bu bağlamda birçok sosyal<br />aksiyonun temeline oturabiliyor.<br />Yanıt Twitter olmalıdır.
 
     <hr />
 1. Belli bir problemi çözmek veya belirli bir amaca ulaşmak için tasarlanan yol olarak tanımlanan terim aşağıdakilerden hangisidir ?
@@ -24,9 +18,7 @@
     - D-) Kamusal alan teorisi
     - E-) Konstruktivizm
 
-    > **Açıklama:** Belli bir problemi çözmek veya belirli bir amaca ulaşmak için tasarlanan yol olarak tanımlanan algoritma (Merriam-Webster.com Dictionary)
-    > bilgisayar mühendisliğinin kullandığı standart bir kavram iken artık internet kullanıcılarının da anlaması gereken bir unsura dönüşmüştür.
-    > Yanıt B seçeneği olmalıdır.
+    > **Açıklama:** Belli bir problemi çözmek veya belirli bir amaca ulaşmak için tasarlanan yol olarak tanımlanan algoritma (Merriam-Webster.com Dictionary)<br />bilgisayar mühendisliğinin kullandığı standart bir kavram iken artık internet kullanıcılarının da anlaması gereken bir unsura dönüşmüştür.<br />Yanıt B seçeneği olmalıdır.
 
     <hr />
 1. Kriptografi kullanılarak verinin bloklar hâlinde art arda bir zincir gibi dijital olarak kaydedilmesine terim olarak ne ad verilir?
@@ -36,8 +28,7 @@
     - D-) Mikroblogging
     - E-) Büyük veri
 
-    > **Açıklama:** Blokzincir kabaca (ya da Blok Zinciri, İngilizce kullanımıyla blockchain) kriptografi kullanılarak verinin bloklar hâlinde art arda bir zincir gibi dijital olarak kaydedilmesine deniyor. En ünlü ve yaygın kripto para birimi Bitcoin bu teknolojiye dayanıyor.
-    > Cevap A seçeneği olmalıdır.
+    > **Açıklama:** Blokzincir kabaca (ya da Blok Zinciri, İngilizce kullanımıyla blockchain) kriptografi kullanılarak verinin bloklar hâlinde art arda bir zincir gibi dijital olarak kaydedilmesine deniyor. En ünlü ve yaygın kripto para birimi Bitcoin bu teknolojiye dayanıyor.<br />Cevap A seçeneği olmalıdır.
 
     <hr />
 1. CS GO ve Valorant gibi dijital içerikler hangi sosyal medya platformunda yer almaktadır ?
@@ -47,8 +38,7 @@
     - D-) Dijital topluluklar
     - E-) Dijital satış
 
-    > **Açıklama:** Yüksek işletim ve ekran gücü olan bilgisayarlar, hızlı ve pingi düşük internete bağlanarak CS GO, Valorant, League of Legends, Rainbow 6 gibi oyunları oynatabilmektedir.
-    > Yanıt dijital oyun olmalıdır.
+    > **Açıklama:** Yüksek işletim ve ekran gücü olan bilgisayarlar, hızlı ve pingi düşük internete bağlanarak CS GO, Valorant, League of Legends, Rainbow 6 gibi oyunları oynatabilmektedir.<br />Yanıt dijital oyun olmalıdır.
 
     <hr />
 1. İnternetin yapısına uygun olarak bir hikayeyi/anlatıyı birçok mecra kullanarak<br />anlatmak olarak tanımlanan terim aşağıdakilerden hangisidir ?
@@ -58,8 +48,7 @@
     - D-) Sosyal konstrüktivizm
     - E-) Teknolojik olanaklar
 
-    > **Açıklama:** Transmedya tam da internetin yapısına uygun olarak bir hikayeyi/anlatıyı birçok mecra kullanarak anlatmak olarak tanımlanabilir.
-    > Cevap Transmedya olmalıdır.
+    > **Açıklama:** Transmedya tam da internetin yapısına uygun olarak bir hikayeyi/anlatıyı birçok mecra kullanarak anlatmak olarak tanımlanabilir.<br />Cevap Transmedya olmalıdır.
 
     <hr />
 1. Aşağıdakilerden hangisi teknolojinin yarattığı koşulların; insanların çalışma ve haberleşme biçimlerini veya siyasete katılım biçimlerini doğrudan etkileyeceğini iddia eden bu yaklaşımın bilinen isimlerindendir ?
@@ -69,12 +58,7 @@
     - D-) Papacharissi
     - E-) Habermas
 
-    > **Açıklama:** Teknolojinin yarattığı koşulların;
-    > insanların çalışma ve haberleşme biçimlerini veya
-    > siyasete katılım biçimlerini doğrudan etkileyeceğini iddia eden bu yaklaşımın en bilinen isimlerinden birisi Marshall McLuhan’dır. Bilim ve Teknoloji Çalışmaları ise sosyal konstrüktivizmi daha çok
-    > benimsemiştir. Bu ekole göre insanın ve toplumun
-    > eylemleri teknolojiyi inşa eden en önemli faktör
-    > Cevap Marshall McLuhan olmalıdır.
+    > **Açıklama:** Teknolojinin yarattığı koşulların;<br />insanların çalışma ve haberleşme biçimlerini veya<br />siyasete katılım biçimlerini doğrudan etkileyeceğini iddia eden bu yaklaşımın en bilinen isimlerinden birisi Marshall McLuhan’dır. Bilim ve Teknoloji Çalışmaları ise sosyal konstrüktivizmi daha çok<br />benimsemiştir. Bu ekole göre insanın ve toplumun<br />eylemleri teknolojiyi inşa eden en önemli faktör<br />Cevap Marshall McLuhan olmalıdır.
 
     <hr />
 1. Thomas Kuhn’un Bilimsel Devrimlerin Yapısı eseri hangi konunun öncülerindendir ?
@@ -84,13 +68,7 @@
     - D-) Kültürel incelemeler
     - E-) Yapay zeka
 
-    > **Açıklama:** İnsan toplulukları etkendir ve karşılarına çıkan teknolojileri arzuladıkları
-    > gibi şekillendirirler. Bilim ve Teknolojiye dair sosyal bilimcilerin çalışmaları başlarda özellikle bu perspektiften yapıldı. Thomas Kuhn’un Bilimsel
-    > Devrimlerin Yapısı (Kuhn, 1962) bu yaklaşımın en
-    > öncü eserlerinden biridir. Bilimsel paradigmaların
-    > lineer bir şekilde ilerlemediğini aksine bilim insanlarının öznel deneyimlerinin bu paradigmaların oluşmasında etkili olduğunu savunan Kuhn daha
-    > sonraki birçok çalışmaya ilham vermiştir.
-    > Yanıt A seçeneği olmalıdır.
+    > **Açıklama:** İnsan toplulukları etkendir ve karşılarına çıkan teknolojileri arzuladıkları<br />gibi şekillendirirler. Bilim ve Teknolojiye dair sosyal bilimcilerin çalışmaları başlarda özellikle bu perspektiften yapıldı. Thomas Kuhn’un Bilimsel<br />Devrimlerin Yapısı (Kuhn, 1962) bu yaklaşımın en<br />öncü eserlerinden biridir. Bilimsel paradigmaların<br />lineer bir şekilde ilerlemediğini aksine bilim insanlarının öznel deneyimlerinin bu paradigmaların oluşmasında etkili olduğunu savunan Kuhn daha<br />sonraki birçok çalışmaya ilham vermiştir.<br />Yanıt A seçeneği olmalıdır.
 
     <hr />
 1. Kamusal Alan teorisiyle 1960’larda gelişmiş kapitalizm içerisinde ticarileşen medyayı eleştiren araştırmacı kimdir ?
@@ -100,8 +78,7 @@
     - D-) Adorno
     - **Cevap E-) Habermas**
 
-    > **Açıklama:** Frankfurt Okulu’nun bir diğer temsilcisi olan Habermas ise Kamusal Alan teorisiyle 1960’larda gelişmiş kapitalizm içerisinde ticarileşen medyayı eleştiriyordu (Habermas, 1991). Habermas’a göre kamusal alan aslında insanların özgürce sosyal problemleri ve güncel siyaseti tartışabildikleri bir alandı. Bu alana katılımı teşvik eden sosyal kurumlardan birisi de medyaydı. Medyanın ticarileşmesi ise insanları yalnızca pasif hâle getirmiyor, aynı zamanda kamusal ve özel alanların birleşmesine yol açıyordu. Bu birleşme aynı zamanda insanların sürekli olarak ticari olana ve kapitalizme maruz kalması anlamına geliyordu
-    > Yanıt E seçeneği olmalıdır.
+    > **Açıklama:** Frankfurt Okulu’nun bir diğer temsilcisi olan Habermas ise Kamusal Alan teorisiyle 1960’larda gelişmiş kapitalizm içerisinde ticarileşen medyayı eleştiriyordu (Habermas, 1991). Habermas’a göre kamusal alan aslında insanların özgürce sosyal problemleri ve güncel siyaseti tartışabildikleri bir alandı. Bu alana katılımı teşvik eden sosyal kurumlardan birisi de medyaydı. Medyanın ticarileşmesi ise insanları yalnızca pasif hâle getirmiyor, aynı zamanda kamusal ve özel alanların birleşmesine yol açıyordu. Bu birleşme aynı zamanda insanların sürekli olarak ticari olana ve kapitalizme maruz kalması anlamına geliyordu<br />Yanıt E seçeneği olmalıdır.
 
     <hr />
 1. Aşağıdakilerden ahngisi/hangileri büyük Veri’nin temel özelliklerindendir ?<br />I. Yüksek volüm<br />II. Yüksek çeşitlilik<br />III. Yüksek hız
@@ -111,11 +88,7 @@
     - D-) II ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** Büyük Veri son yılların popülerleşen terimlerinden birisi. Büyük Veri, alışageldiğimiz veri işleme yöntemleriyle analiz edilmesi, sistematik veri toplamanın ve iş yapmanın genellikle zor olan verilerini inceleyen, bu verilerden anlamlı sonuçlar çıkaran bir
-    > çalışma alanıdır. Büyük Veri hem yapılanmış (structured) hem de dağınık/yapılanmamış (unstructured) formlarda olabilir. Yüksek volümdeki (volume)
-    > bu veri setleri, yüksek çeşitlilik (diversity) ve yüksek
-    > hız (velocity) Büyük Veri’nin temel özelliklerindendir.
-    > Yanıt hepsi olmalıdır.
+    > **Açıklama:** Büyük Veri son yılların popülerleşen terimlerinden birisi. Büyük Veri, alışageldiğimiz veri işleme yöntemleriyle analiz edilmesi, sistematik veri toplamanın ve iş yapmanın genellikle zor olan verilerini inceleyen, bu verilerden anlamlı sonuçlar çıkaran bir<br />çalışma alanıdır. Büyük Veri hem yapılanmış (structured) hem de dağınık/yapılanmamış (unstructured) formlarda olabilir. Yüksek volümdeki (volume)<br />bu veri setleri, yüksek çeşitlilik (diversity) ve yüksek<br />hız (velocity) Büyük Veri’nin temel özelliklerindendir.<br />Yanıt hepsi olmalıdır.
 
     <hr />
 1. ''Web 2.0 teknolojisiyle hayatımıza daha çok giren ............ bu kanaat önderliği<br />iletişiminin yoğunlaşmasına müsaade etti.'' cümlesindeki boşluğa aşağıdakilerden hangisi getirilmelidir ?
@@ -135,9 +108,7 @@
     - D-) Oyunlaştırma
     - E-) Dijital dönüşüm
 
-    > **Açıklama:** TEORİK ÇERÇEVELER
-    > Henry Jenkins’in geliştirdiği “Katılımcı Kültür” kavramı internet sayesinde sıradan vatandaşların kamusal alana daha kolay ve aktif
-    > bir şekilde katılabilir olmasını kastediyor
+    > **Açıklama:** TEORİK ÇERÇEVELER<br />Henry Jenkins’in geliştirdiği “Katılımcı Kültür” kavramı internet sayesinde sıradan vatandaşların kamusal alana daha kolay ve aktif<br />bir şekilde katılabilir olmasını kastediyor
 
     <hr />
 1. Aşağıdakilerden hangisi Henry Jenkins’in oyun olarak görülmeyen alanların oyun mekanikleri ve felsefesiyle yapılandırılmasını kastettiği kavramdır?
@@ -147,8 +118,7 @@
     - D-) Transmedya
     - **Cevap E-) Oyunlaştırma**
 
-    > **Açıklama:** TEORİK ÇERÇEVELER
-    > Oyunlaştırma
+    > **Açıklama:** TEORİK ÇERÇEVELER<br />Oyunlaştırma
 
     <hr />
 1. Aşağıdakilerden hangisi teknolojik determinizmi açıklar?
@@ -158,9 +128,7 @@
     - D-) Bireylerlerin teknolojinin kullanım amacını gözetmeksizin teknolojinin sağladığı olanakları kullanarak dijital medya ve kültürlerle etkileşime geçmesi
     - **Cevap E-) Teknolojinin ortaya çıkardığı sanal topluluklar ile yepyeni ve daha demokratik ve katılımcı bir toplum ortaya çıkacağı inancı**
 
-    > **Açıklama:** Teknolojik Determinizm
-    > Teknolojinin ortaya çıkardığı sanal topluluklar ile yepyeni ve daha
-    > demokratik ve katılımcı bir toplum ortaya çıkacağı inancı
+    > **Açıklama:** Teknolojik Determinizm<br />Teknolojinin ortaya çıkardığı sanal topluluklar ile yepyeni ve daha<br />demokratik ve katılımcı bir toplum ortaya çıkacağı inancı
 
     <hr />
 1. Aşağıdakilerden hangisi kültürün şekillenmesinde sosyal kurumların rolünü inceleyen disiplinlerarası bir alandır?
@@ -170,8 +138,7 @@
     - D-) Teknolojik Determinizm
     - E-) Dijital kültür
 
-    > **Açıklama:** Sosyal Konstruktivizm
-    > Kültürel İncelemeler
+    > **Açıklama:** Sosyal Konstruktivizm<br />Kültürel İncelemeler
 
     <hr />
 1. İnternetin geleceğini net göremeyeceğimiz, internetin geleceğinin birden çok faktöre bağlı olduğu savı kime aittir?
@@ -181,8 +148,7 @@
     - D-) Henry Jenkins
     - E-) Thomas Kuhn
 
-    > **Açıklama:** YÜKSELEN ÇALIŞMA ALANLARI
-    > Zizi Papacharissi
+    > **Açıklama:** YÜKSELEN ÇALIŞMA ALANLARI<br />Zizi Papacharissi
 
     <hr />
 1. "Özgür Yazılım Hareketi" aşağıdakilerden hangisinin iyi bir örneğidir?
@@ -192,8 +158,7 @@
     - D-) Medyanın ticarileşmesi
     - E-) Medyanın özgürleşmiş bir alan olmadığı
 
-    > **Açıklama:** Ticarileşme & Metalaşma
-    > İnternetin tamamen kapanmış bir yer olmadığı
+    > **Açıklama:** Ticarileşme & Metalaşma<br />İnternetin tamamen kapanmış bir yer olmadığı
 
     <hr />
 1. Avustralya’daki aseksüel toplulukların Tumblr’ı keşfi ve kullanımı aşağıdakilerden hangisine iyi bir örnek teşkil eder?
@@ -213,8 +178,7 @@
     - **Cevap D-) Sosyal eşitsizlik**
     - E-) Kapitalizme maruz kalma
 
-    > **Açıklama:** Algoritmik Düzen
-    > Sosyal eşitsizlik
+    > **Açıklama:** Algoritmik Düzen<br />Sosyal eşitsizlik
 
     <hr />
 1. Aşağıdakilerden hangisi internetin finansal düzenlere en doğrudan<br />müdahalesi olarak görülür?
@@ -224,8 +188,7 @@
     - D-) Algoritmik Düzen
     - **Cevap E-) Blokzinciri teknolojisi**
 
-    > **Açıklama:** Blokzincir ve Kripto Paralar
-    > Blokzinciri teknolojisi
+    > **Açıklama:** Blokzincir ve Kripto Paralar<br />Blokzinciri teknolojisi
 
     <hr />
 1. 20 bine yakına internet kullanıcısının “Güvenli İnternet” uygulamalarını protesto etmek için sokağa çıkışı aşağıdakilerden hangisine örnek teşkil eder?
@@ -546,9 +509,7 @@
     - D-) Dijital alan
     - **Cevap E-) Dijital uçurum**
 
-    > **Açıklama:** Dijital uçurum; farklı sosyoekonomik düzeylerdeki insanların, dezavantajlı grupların, hanelerin, ülkelerin ve coğrafi bölgelerin internet başta olmak üzere dijital iletişim teknolojilerine erişimlerinde ve
-    > ondan yararlanmalarında gözlenen eşitsizlikleri anlatan bir kavramdır. Dijital eşitsizliklerin daha geniş bir tanımı ise
-    > cinsiyet, yaş, sınıf, ırk, eğitim düzeyi ya da coğrafi konum faktörleri bazında internet başta olmak üzere dijital teknolojilere erişimde ve onları kullanmadaki farklılıklardır.
+    > **Açıklama:** Dijital uçurum; farklı sosyoekonomik düzeylerdeki insanların, dezavantajlı grupların, hanelerin, ülkelerin ve coğrafi bölgelerin internet başta olmak üzere dijital iletişim teknolojilerine erişimlerinde ve<br />ondan yararlanmalarında gözlenen eşitsizlikleri anlatan bir kavramdır. Dijital eşitsizliklerin daha geniş bir tanımı ise<br />cinsiyet, yaş, sınıf, ırk, eğitim düzeyi ya da coğrafi konum faktörleri bazında internet başta olmak üzere dijital teknolojilere erişimde ve onları kullanmadaki farklılıklardır.
 
     <hr />
 1. Rheingold, çevrimiçi toplulukların gelişiminin izini sürerken, ilk çevrimiçi topluluk örneğinin aşağıdakileren hangisi olduğunu savunmuştur?
@@ -558,8 +519,7 @@
     - **Cevap D-) WELL**
     - E-) NATO
 
-    > **Açıklama:** Rheingold, çevrimiçi toplulukların gelişiminin izini sürerken, ilk çevrimiçi topluluk örneğinin
-    > Whole Earth ‘Lectronic Link’in (WELL) olduğunu belirtir (1993,1994). WELL, bilgisayarlar ve iletişim dâhil olmak üzere beden, zihin, sağlık, sanat, rekreasyon ve popüler müzik grubu Grateful Dead’u da kapsayan bir dizi konunun tartışıldığı elektronik bir çevrimiçi topluluktur.
+    > **Açıklama:** Rheingold, çevrimiçi toplulukların gelişiminin izini sürerken, ilk çevrimiçi topluluk örneğinin<br />Whole Earth ‘Lectronic Link’in (WELL) olduğunu belirtir (1993,1994). WELL, bilgisayarlar ve iletişim dâhil olmak üzere beden, zihin, sağlık, sanat, rekreasyon ve popüler müzik grubu Grateful Dead’u da kapsayan bir dizi konunun tartışıldığı elektronik bir çevrimiçi topluluktur.
 
     <hr />
 1. Bireylerin kendileriyle benzer yaş, cinsiyet, etnik köken, sosyoekonomik<br />durum ve kişisel inançlar gibi tanımlayıcı özellikleri paylaşan diğer insanlarla güçlü sosyal bağlantılar kurma eğilimini ifade eden kavram aşağıdakilerden hangisidir?
@@ -569,8 +529,7 @@
     - D-) Aktivism
     - E-) Sosyal uyum
 
-    > **Açıklama:** Homofili bireylerin kendileriyle benzer yaş, cinsiyet, etnik köken, sosyoekonomik
-    > durum ve kişisel inançlar gibi tanımlayıcı özellikleri paylaşan diğer insanlarla güçlü sosyal bağlantılar kurma eğilimini ifade eden kavramdır.
+    > **Açıklama:** Homofili bireylerin kendileriyle benzer yaş, cinsiyet, etnik köken, sosyoekonomik<br />durum ve kişisel inançlar gibi tanımlayıcı özellikleri paylaşan diğer insanlarla güçlü sosyal bağlantılar kurma eğilimini ifade eden kavramdır.
 
     <hr />
 1. Aşağıdakilerden hangisi çevrimiçi topluluklarının bileşenleri arasında yer **almaz?**
@@ -580,18 +539,7 @@
     - D-) Topluluk üyelerinin davranışlarını yönlendiren örtük ya da açık kurallar biçimindeki prensipler,
     - E-) Sosyal etkileşime aracılık eden taşıyıcı dijital platform olarak hizmet veren teknik bir sistem
 
-    > **Açıklama:** Çevrimiçi topluluklar bireysel, grupla ilgili ve
-    > teknolojiyle ilgili boyutlar içermektedir. Çevrimiçi
-    > bir topluluk dört temel bileşenden oluşur (Preece,
-    > 2000: 3):
-    > • Kendi ihtiyaçlarını karşılamak amacıyla
-    > toplumsal olarak etkileşime giren insanlar,
-    > • Çıkar, ihtiyaç ya da iş birliği yapmak gibi
-    > ortak bir amaç,
-    > • Topluluk üyelerinin davranışlarını yönlendiren örtük ya da açık kurallar biçimindeki
-    > prensipler,
-    > • Sosyal etkileşime aracılık eden taşıyıcı dijital platform olarak hizmet veren teknik bir
-    > sistem.
+    > **Açıklama:** Çevrimiçi topluluklar bireysel, grupla ilgili ve<br />teknolojiyle ilgili boyutlar içermektedir. Çevrimiçi<br />bir topluluk dört temel bileşenden oluşur (Preece,<br />2000: 3):<br />• Kendi ihtiyaçlarını karşılamak amacıyla<br />toplumsal olarak etkileşime giren insanlar,<br />• Çıkar, ihtiyaç ya da iş birliği yapmak gibi<br />ortak bir amaç,<br />• Topluluk üyelerinin davranışlarını yönlendiren örtük ya da açık kurallar biçimindeki<br />prensipler,<br />• Sosyal etkileşime aracılık eden taşıyıcı dijital platform olarak hizmet veren teknik bir<br />sistem.
 
     <hr />
 1. Aşağıdakilerden hangisi aktivizm amaçlı çevrimiçi gruplardan biridir?
@@ -601,19 +549,7 @@
     - D-) BitTorrent
     - **Cevap E-) MoveOn**
 
-    > **Açıklama:** Sosyalleşme amaçlı çevrimiçi gruplar: Facebook, Swarm
-    > • Oyun amaçlı çevrimiçi gruplar: Twitch,
-    > Everquest, Full Tilt Poker
-    > • İçerik paylaşımı amaçlı çevrimiçi gruplar:
-    > YouTube, BitTorrent
-    > • Bilgi paylaşımı amaçlı çevrimiçi gruplar:
-    > Wikipedia, Slashdot, SMC
-    > • Aktivizm amaçlı çevrimiçi gruplar: Change.
-    > org, MoveOn, ImmigrationVoice
-    > • Geliştirme amaçlı çevrimiçi gruplar: Linux,
-    > InnovationJam
-    > • Değişim ve satış amaçlı çevrimiçi gruplar:
-    > eBay, Craigslist
+    > **Açıklama:** Sosyalleşme amaçlı çevrimiçi gruplar: Facebook, Swarm<br />• Oyun amaçlı çevrimiçi gruplar: Twitch,<br />Everquest, Full Tilt Poker<br />• İçerik paylaşımı amaçlı çevrimiçi gruplar:<br />YouTube, BitTorrent<br />• Bilgi paylaşımı amaçlı çevrimiçi gruplar:<br />Wikipedia, Slashdot, SMC<br />• Aktivizm amaçlı çevrimiçi gruplar: Change.<br />org, MoveOn, ImmigrationVoice<br />• Geliştirme amaçlı çevrimiçi gruplar: Linux,<br />InnovationJam<br />• Değişim ve satış amaçlı çevrimiçi gruplar:<br />eBay, Craigslist
 
     <hr />
 1. Bazı çevrimiçi toplulukların ticari işlemlerde satıcıları ortadan kaldırıp alıcıları<br />doğrudan tedarikçilere bağlaması durumu hangi kavramla açıklanmaktadır?
@@ -623,9 +559,7 @@
     - **Cevap D-) Aracısızlaştırma**
     - E-) Hesap verilirlik
 
-    > **Açıklama:** Bazı çevrimiçi topluluklar ticari işlemlerde satıcıları ortadan kaldırıp alıcıları
-    > doğrudan tedarikçilere bağlayarak; aracısızlaştırma gibi avantajlar da sağlar.
-    > Aracısızlaştırma, ürünlerin daha ucuza satılıp-alınmasına olanak sağladığı gibi tüketici ile üretici arasında daha doğrudan bir iletişime de yol açar.
+    > **Açıklama:** Bazı çevrimiçi topluluklar ticari işlemlerde satıcıları ortadan kaldırıp alıcıları<br />doğrudan tedarikçilere bağlayarak; aracısızlaştırma gibi avantajlar da sağlar.<br />Aracısızlaştırma, ürünlerin daha ucuza satılıp-alınmasına olanak sağladığı gibi tüketici ile üretici arasında daha doğrudan bir iletişime de yol açar.
 
     <hr />
 1. İnternet’te insanların keyfini kaçırmak ya da münakaşa başlatmak için tohum ekmeye çalışmak, alaycı söylemlerle hakaret ederek rahatsızlık vermek olarak tanımlanan kavram aşağıdakilerden hangisidir?
@@ -655,8 +589,7 @@
     - D-) Zarar vermeyiniz
     - E-) Etkileri idrak ediniz
 
-    > **Açıklama:** Çoğu iş ve görev uygulaması, amaçlanan hizmetleri sağlamak
-    > için en saldırgan konum izleme ölçeğini gerektirmez. Belirli bir amaçla konum verisini kullanacak olanların yalnızca yeterli, ilgili ve hedefle sınırlı kişisel verileri kullanması gerekir. Veriyi asgariye indirme ilkesine bağlı kalınmalıdır
+    > **Açıklama:** Çoğu iş ve görev uygulaması, amaçlanan hizmetleri sağlamak<br />için en saldırgan konum izleme ölçeğini gerektirmez. Belirli bir amaçla konum verisini kullanacak olanların yalnızca yeterli, ilgili ve hedefle sınırlı kişisel verileri kullanması gerekir. Veriyi asgariye indirme ilkesine bağlı kalınmalıdır
 
     <hr />
 1. Aşağıdakilerden hangisi değişim ve satış amaçlı çevrimiçi gruplardan biridir?
@@ -666,8 +599,7 @@
     - D-) Full Tilt Poker
     - **Cevap E-) Craigslist**
 
-    > **Açıklama:** Değişim ve satış amaçlı çevrimiçi gruplar:
-    > eBay, Craigslist
+    > **Açıklama:** Değişim ve satış amaçlı çevrimiçi gruplar:<br />eBay, Craigslist
 
     <hr />
 1. Dijitalleşme ile birlikte toplumun dönüşüme uğradığı fikri çok sayıda düşünür tarafından farklı<br />kavramlarla ifade edilmektedir. Seçeneklerden hangisi bilgisayar teknolojilerinin, bilginin ve zihinsel<br />emeğin günümüz toplumsal yaşamındaki artan önemini tanımlamak için kullanılan kavramlardan **değildir?**
@@ -677,18 +609,7 @@
     - **Cevap D-) Sosyal toplum**
     - E-) Postmodern toplum
 
-    > **Açıklama:** Dijitalleşme ile birlikte toplumun dönüşüme
-    > uğradığı fikri çok sayıda düşünür tarafından farklı
-    > kavramlarla ifade edilmektedir. Siber toplum (Jones,
-    > 1995), internet toplumu (Bakardjieva, 2005),
-    > bilgi toplumu (Stehr, 1994), sanal toplum (Bühl,
-    > 1997), sanayi sonrası toplum (Bell, 1973), enformasyon
-    > toplumu (Masuda, 1980), postmodern
-    > toplum (Lyotard, 1984) ve post-fordizm (Lipietz,
-    > 1987) bilgisayar teknolojilerinin, bilginin ve zihinsel
-    > emeğin günümüz toplumsal yaşamındaki artan
-    > önemini tanımlamak için kullanılan kavramlardan
-    > bazılarıdır.
+    > **Açıklama:** Dijitalleşme ile birlikte toplumun dönüşüme<br />uğradığı fikri çok sayıda düşünür tarafından farklı<br />kavramlarla ifade edilmektedir. Siber toplum (Jones,<br />1995), internet toplumu (Bakardjieva, 2005),<br />bilgi toplumu (Stehr, 1994), sanal toplum (Bühl,<br />1997), sanayi sonrası toplum (Bell, 1973), enformasyon<br />toplumu (Masuda, 1980), postmodern<br />toplum (Lyotard, 1984) ve post-fordizm (Lipietz,<br />1987) bilgisayar teknolojilerinin, bilginin ve zihinsel<br />emeğin günümüz toplumsal yaşamındaki artan<br />önemini tanımlamak için kullanılan kavramlardan<br />bazılarıdır.
 
     <hr />
 1. İnsan etkinliklerinin, deneyimlerinin ve gücünün internetin ağ yapısından etkilendiği<br />mevcut toplum yapısını tasvir eden kavram hangisidir?
@@ -698,9 +619,7 @@
     - D-) Modern toplum
     - **Cevap E-) Ağ toplumu**
 
-    > **Açıklama:** Ağ toplumunda temel toplumsal yapılar ve faaliyetler bilgi ve iletişim teknolojileri
-    > etrafında düzenlenmektedir. Dijital bilgi ağlarından yararlanma becerisi hem bireyler hem de kurumlar için kritik hâle gelmiştir. Dolayısıyla ağ toplumu insan etkinliklerinin, deneyimlerinin
-    > ve gücünün internetin ağ yapısından etkilendiği mevcut toplum yapısını tasvir etmektedir.
+    > **Açıklama:** Ağ toplumunda temel toplumsal yapılar ve faaliyetler bilgi ve iletişim teknolojileri<br />etrafında düzenlenmektedir. Dijital bilgi ağlarından yararlanma becerisi hem bireyler hem de kurumlar için kritik hâle gelmiştir. Dolayısıyla ağ toplumu insan etkinliklerinin, deneyimlerinin<br />ve gücünün internetin ağ yapısından etkilendiği mevcut toplum yapısını tasvir etmektedir.
 
     <hr />
 1. ................., yurttaşların farklı görüşleri ifade edebildiği, toplumu ilgilendiren sorunların tartışıldığı<br />ve iletişimsel olarak kolektif çözümlerin geliştirildiği toplumsal bir alandır. Boş bırakılan yere gelmesi gereken ifade hangisidir?
@@ -710,10 +629,7 @@
     - D-) Bilgi toplumu
     - E-) Açık toplum
 
-    > **Açıklama:** Kamusal alan, yurttaşların farklı görüşleri ifade
-    > edebildiği, toplumu ilgilendiren sorunların tartışıldığı
-    > ve iletişimsel olarak kolektif çözümlerin
-    > geliştirildiği toplumsal bir alandır.
+    > **Açıklama:** Kamusal alan, yurttaşların farklı görüşleri ifade<br />edebildiği, toplumu ilgilendiren sorunların tartışıldığı<br />ve iletişimsel olarak kolektif çözümlerin<br />geliştirildiği toplumsal bir alandır.
 
     <hr />
 1. ............... genişlemesi, siyasi kararların alınmasında halkı yalnızca izleyici konumuna<br />indirgeyerek kamusal alanı yok etmiştir. boş bırakılan yere gelmesi gereken ifade hangisidir?
@@ -723,17 +639,7 @@
     - D-) Postmodernizmin
     - E-) Modernizmin
 
-    > **Açıklama:** Habermas ve diğer teorisyenlere
-    > göre kapitalizmin genişlemesi, siyasi
-    > kararların alınmasında halkı yalnızca izleyici konumuna
-    > indirgeyerek kamusal alanı yok etmiştir.
-    > Böylece yurttaşlar siyasal meseleler etrafında fikir
-    > yürütmekten vazgeçmiş, kendilerini doğrudan ilgilendiren
-    > konular hakkında seçimler dışında söz
-    > sahibi olamayacak hâle gelmiştir. Oysa sağlıklı bir
-    > demokratik toplumda yurttaşların, yalnızca seçim
-    > dönemlerinde değil, her zaman parlamento dışı
-    > muhalefet ve müzakere hakkı bulunmalıdır.
+    > **Açıklama:** Habermas ve diğer teorisyenlere<br />göre kapitalizmin genişlemesi, siyasi<br />kararların alınmasında halkı yalnızca izleyici konumuna<br />indirgeyerek kamusal alanı yok etmiştir.<br />Böylece yurttaşlar siyasal meseleler etrafında fikir<br />yürütmekten vazgeçmiş, kendilerini doğrudan ilgilendiren<br />konular hakkında seçimler dışında söz<br />sahibi olamayacak hâle gelmiştir. Oysa sağlıklı bir<br />demokratik toplumda yurttaşların, yalnızca seçim<br />dönemlerinde değil, her zaman parlamento dışı<br />muhalefet ve müzakere hakkı bulunmalıdır.
 
     <hr />
 1. Çevrimiçi ortamda ..............., kullanıcıların gerçek kimliklerini açıklamadan daha özgür ve açık<br />bir şekilde iletişim kurmasına yardımcı olmaktadır. Boş bırakılan yere gelmesi gereken ifade hangisidir?
@@ -743,9 +649,7 @@
     - D-) Pasiflik
     - E-) Agresiflik
 
-    > **Açıklama:** Çevrimiçi ortamda anonimlik, kullanıcıların
-    > gerçek kimliklerini açıklamadan daha özgür ve açık
-    > bir şekilde iletişim kurmasına yardımcı olmaktadır.
+    > **Açıklama:** Çevrimiçi ortamda anonimlik, kullanıcıların<br />gerçek kimliklerini açıklamadan daha özgür ve açık<br />bir şekilde iletişim kurmasına yardımcı olmaktadır.
 
     <hr />
 1. farklı sosyoekonomik düzeylerdeki insanların, dezavantajlı grupların, hanelerin, ülkelerin ve coğrafi bölgelerin internet başta olmak üzere dijital iletişim teknolojilerine erişimlerinde ve ondan yararlanmalarında gözlenen eşitsizlikleri anlatan kavram hangisidir?
@@ -755,13 +659,7 @@
     - **Cevap D-) Dijital uçurum**
     - E-) Küresel ayrışma
 
-    > **Açıklama:** Dijital uçurum; farklı sosyoekonomik düzeylerdeki
-    > insanların, dezavantajlı grupların,
-    > hanelerin, ülkelerin ve coğrafi bölgelerin
-    > internet başta olmak üzere dijital
-    > iletişim teknolojilerine erişimlerinde ve
-    > ondan yararlanmalarında gözlenen eşitsizlikleri
-    > anlatan bir kavramdır.
+    > **Açıklama:** Dijital uçurum; farklı sosyoekonomik düzeylerdeki<br />insanların, dezavantajlı grupların,<br />hanelerin, ülkelerin ve coğrafi bölgelerin<br />internet başta olmak üzere dijital<br />iletişim teknolojilerine erişimlerinde ve<br />ondan yararlanmalarında gözlenen eşitsizlikleri<br />anlatan bir kavramdır.
 
     <hr />
 1. Ağ toplumunda fiziksel coğrafi mekânın alternatifi olarak karşımıza çıkan dijital örgütlenmelere ne ad verilir?
@@ -771,8 +669,7 @@
     - D-) Ağ alanı
     - E-) Bilgi toplumu
 
-    > **Açıklama:** Çevrimiçi topluluklar ağ toplumunda fiziksel coğrafi mekânın alternatifi olarak karşımıza çıkan dijital
-    > örgütlenmelerdir.
+    > **Açıklama:** Çevrimiçi topluluklar ağ toplumunda fiziksel coğrafi mekânın alternatifi olarak karşımıza çıkan dijital<br />örgütlenmelerdir.
 
     <hr />
 1. Hangisi çevrimiçi bir topluluğun temel bileşenlerinden değildir?
@@ -782,19 +679,7 @@
     - D-) Sosyal etkileşime aracılık eden taşıyıcı dijital platform olarak hizmet veren teknik bir sistem
     - **Cevap E-) Temel iletişimin yüz yüze gerçekleştirilmesi ve etkinliklerin sadece yüz yüze yapılması**
 
-    > **Açıklama:** Çevrimiçi topluluklar bireysel, grupla ilgili ve
-    > teknolojiyle ilgili boyutlar içermektedir. Çevrimiçi
-    > bir topluluk dört temel bileşenden oluşur
-    > • Kendi ihtiyaçlarını karşılamak amacıyla
-    > toplumsal olarak etkileşime giren insanlar,
-    > • Çıkar, ihtiyaç ya da iş birliği yapmak gibi
-    > ortak bir amaç,
-    > • Topluluk üyelerinin davranışlarını yönlendiren
-    > örtük ya da açık kurallar biçimindeki
-    > prensipler,
-    > • Sosyal etkileşime aracılık eden taşıyıcı dijital
-    > platform olarak hizmet veren teknik bir
-    > sistem.
+    > **Açıklama:** Çevrimiçi topluluklar bireysel, grupla ilgili ve<br />teknolojiyle ilgili boyutlar içermektedir. Çevrimiçi<br />bir topluluk dört temel bileşenden oluşur<br />• Kendi ihtiyaçlarını karşılamak amacıyla<br />toplumsal olarak etkileşime giren insanlar,<br />• Çıkar, ihtiyaç ya da iş birliği yapmak gibi<br />ortak bir amaç,<br />• Topluluk üyelerinin davranışlarını yönlendiren<br />örtük ya da açık kurallar biçimindeki<br />prensipler,<br />• Sosyal etkileşime aracılık eden taşıyıcı dijital<br />platform olarak hizmet veren teknik bir<br />sistem.
 
     <hr />
 1. Mekânsal bilgileri üreten, işleyen, analiz eden, kullanan ve paylaşan teknolojiler<br />içeren uygulamalar nasıl adlandırılmaktadır?
@@ -814,9 +699,7 @@
     - D-) Sanayileşme
     - E-) Postmodernizm
 
-    > **Açıklama:** Konumsal medya insanları fiziksel mekân ve dijital
-    > mekân arasında gidip gelen yeni bir mekânsal formun
-    > içinde konumlandırmaktadır.
+    > **Açıklama:** Konumsal medya insanları fiziksel mekân ve dijital<br />mekân arasında gidip gelen yeni bir mekânsal formun<br />içinde konumlandırmaktadır.
 
     <hr />
 1. İnternet ve dijital iletişim teknolojileri sayesinde bireylerin ve grupların dijital bilgi ağları etrafında örgütlendiği yeni toplumsal yaşama ne ad verilir?
@@ -836,8 +719,7 @@
     - D-) I ve II
     - **Cevap E-) I ve III**
 
-    > **Açıklama:** Ağ toplumu, küreselleşmenin toplumsal etkileri ve elektronik iletişim teknolojilerinin toplumdaki giderek artan rolüyle yakından ilişkilidir. Manuel Castells tarihsel olarak toplumsal ağların her zaman bulunduğunu; ağ toplumunu ayıran kilit faktörün ise bu dönemde bilgi ve iletişim teknolojilerinin kullanımının yaygınlaşması olduğunu vurgular. Ağ
-    > toplumunda bütün kurumlar hem kendi aralarında hem de kendi içlerinde bir ağ biçiminde örgütlenmektedir.
+    > **Açıklama:** Ağ toplumu, küreselleşmenin toplumsal etkileri ve elektronik iletişim teknolojilerinin toplumdaki giderek artan rolüyle yakından ilişkilidir. Manuel Castells tarihsel olarak toplumsal ağların her zaman bulunduğunu; ağ toplumunu ayıran kilit faktörün ise bu dönemde bilgi ve iletişim teknolojilerinin kullanımının yaygınlaşması olduğunu vurgular. Ağ<br />toplumunda bütün kurumlar hem kendi aralarında hem de kendi içlerinde bir ağ biçiminde örgütlenmektedir.
 
     <hr />
 1. Aşağıdakilerden hangisinin ağ toplumunun oluşmasına etki eden olaylardan olduğu söylenebilir?
@@ -857,8 +739,7 @@
     - D-) İletişim
     - **Cevap E-) Mahremiyet**
 
-    > **Açıklama:** Kamusal alan, yurttaşların farklı görüşleri ifade edebildiği, toplumu ilgilendiren sorunların tartışıldığı ve iletişimsel olarak kolektif çözümlerin
-    > geliştirildiği toplumsal bir alandır
+    > **Açıklama:** Kamusal alan, yurttaşların farklı görüşleri ifade edebildiği, toplumu ilgilendiren sorunların tartışıldığı ve iletişimsel olarak kolektif çözümlerin<br />geliştirildiği toplumsal bir alandır
 
     <hr />
 1. Aşağıdakilerden hangisi kamusal alanın sağladıkları fırsatlardan değildir?
@@ -908,19 +789,7 @@
     - D-) Change.org
     - E-) eBay
 
-    > **Açıklama:** Sosyalleşme amaçlı çevrimiçi gruplar: Facebook, Swarm
-    > • Oyun amaçlı çevrimiçi gruplar: Twitch,
-    > Everquest, Full Tilt Poker
-    > • İçerik paylaşımı amaçlı çevrimiçi gruplar:
-    > YouTube, BitTorrent
-    > • Bilgi paylaşımı amaçlı çevrimiçi gruplar:
-    > Wikipedia, Slashdot, SMC
-    > • Aktivizm amaçlı çevrimiçi gruplar: Change.
-    > org, MoveOn, ImmigrationVoice
-    > • Geliştirme amaçlı çevrimiçi gruplar: Linux,
-    > InnovationJam
-    > • Değişim ve satış amaçlı çevrimiçi gruplar:
-    > eBay, Craigslist
+    > **Açıklama:** Sosyalleşme amaçlı çevrimiçi gruplar: Facebook, Swarm<br />• Oyun amaçlı çevrimiçi gruplar: Twitch,<br />Everquest, Full Tilt Poker<br />• İçerik paylaşımı amaçlı çevrimiçi gruplar:<br />YouTube, BitTorrent<br />• Bilgi paylaşımı amaçlı çevrimiçi gruplar:<br />Wikipedia, Slashdot, SMC<br />• Aktivizm amaçlı çevrimiçi gruplar: Change.<br />org, MoveOn, ImmigrationVoice<br />• Geliştirme amaçlı çevrimiçi gruplar: Linux,<br />InnovationJam<br />• Değişim ve satış amaçlı çevrimiçi gruplar:<br />eBay, Craigslist
 
     <hr />
 1. Aşağıdakilerden hangisi çevirimiçi toplulukların olumsuz yönleri arasında öne çıkan ve genel kullanıcı tarafından kabul gören sorundur?
@@ -1071,8 +940,7 @@
     - D-) İletişim doğal değil, teknoloji ile üretilen bir ortamda yapılmalıdır.
     - E-) Kullanıcılarına sayısal dünyanın içine gömülme imkanı sağlamalıdır.
 
-    > **Açıklama:** Artırılmış gerçeklik, sanal gerçeklikten farklı olarak fiziksel dünyadan kopmamaktadır. Aynı anda hem fiziksel dünya deneyimlenirken hem de sayısal nesneler fiziksel dünya ile bir arada var olmaktadırlar. Bu yüzen artırılmış gerçekliğin kullanım alanı, fiziksel evren kadar geniştir. Kullanıcılar fiziksel dünyadan kopmadan sayısal enformasyonu deneyimlemektedirler. Azuma’ya (1997, s. 356) göre artırılmış gerçeklik için üç kriterin sağlanmış olması lazımdır: • Fiziksel ve sanalı birleştirmelidir • Gerçek zamanlı olarak etkileşimli olmalıdır • Üç boyutlu olmalıdır.
-    > Artırılmış gerçeklik de sanal gerçeklik gibi ortamlandırıcılar aracılığı ile duyumsanmaktadır. Sanal gerçeklikten farklı olarak bu aracılar kullanıcıyı dış dünyaya kapatmadan sayısal veriyi iletmektedir.
+    > **Açıklama:** Artırılmış gerçeklik, sanal gerçeklikten farklı olarak fiziksel dünyadan kopmamaktadır. Aynı anda hem fiziksel dünya deneyimlenirken hem de sayısal nesneler fiziksel dünya ile bir arada var olmaktadırlar. Bu yüzen artırılmış gerçekliğin kullanım alanı, fiziksel evren kadar geniştir. Kullanıcılar fiziksel dünyadan kopmadan sayısal enformasyonu deneyimlemektedirler. Azuma’ya (1997, s. 356) göre artırılmış gerçeklik için üç kriterin sağlanmış olması lazımdır: • Fiziksel ve sanalı birleştirmelidir • Gerçek zamanlı olarak etkileşimli olmalıdır • Üç boyutlu olmalıdır.<br />Artırılmış gerçeklik de sanal gerçeklik gibi ortamlandırıcılar aracılığı ile duyumsanmaktadır. Sanal gerçeklikten farklı olarak bu aracılar kullanıcıyı dış dünyaya kapatmadan sayısal veriyi iletmektedir.
 
     <hr />
 1. Milgram ve Kishino’nun sanallık skalasına göre, tamamen fiziksel olan dünya ile tamamen sanal olan dünya arasında kalan bölüme ne ad verilir?
@@ -1112,8 +980,7 @@
     - D-) İşaretsiz tetikleyici
     - E-) Cihaza bağımlı
 
-    > **Açıklama:** Sayısal nesnelerin fiziksel dünyaya oturtulması için tetikleyicilere ihtiyaç vardır. Bu tetikleyiciler, artırılmış gerçeklik ile sayısal nesnelerin nerede, nasıl ve ne zaman ortaya çıkacağını belirlemektedirler.
-    > İşaretli tetikleyici: Karekod gibi bir işaretin telefon tarafından okutulmasından sonra ortaya çıkmaktadır.
+    > **Açıklama:** Sayısal nesnelerin fiziksel dünyaya oturtulması için tetikleyicilere ihtiyaç vardır. Bu tetikleyiciler, artırılmış gerçeklik ile sayısal nesnelerin nerede, nasıl ve ne zaman ortaya çıkacağını belirlemektedirler.<br />İşaretli tetikleyici: Karekod gibi bir işaretin telefon tarafından okutulmasından sonra ortaya çıkmaktadır.
 
     <hr />
 1. Henüz tasarım halindeki mimari bir projenin fiziksel dünya üzerinde gerçek boyutlarında konumlandırılabilmesi artırılmış gerçekliğin hangi alanda kullanımına örnektir?
@@ -1143,8 +1010,7 @@
     - D-) MÖ 2300 yılları
     - E-) MÖ 2200 yılları
 
-    > **Açıklama:** **İlk Hesaplayıcılar**
-    > “Hesaplamaya yarayan ilk teknoloji, MÖ 2500 yılları civarında Sümerlerde görülen Abaküs, hesaplamaya yarayan ve taşınabilir ilk alettir.”
+    > **Açıklama:** **İlk Hesaplayıcılar**<br />“Hesaplamaya yarayan ilk teknoloji, MÖ 2500 yılları civarında Sümerlerde görülen Abaküs, hesaplamaya yarayan ve taşınabilir ilk alettir.”
 
     <hr />
 1. "Bir kutunun içerisinde 30’dan fazla birbirine kilitlenen bronz parçalardan oluşan, bir krank kolu çevrilerek parçaları hareket ettirilen ve hareket eden parçaları güneşin, ayın pozisyonlarını hesaplamaya yarayan” tarihin ilk bilgisayarı olarak da kabul edilen mekanizma aşağıdakilerden hangisidir?
@@ -1154,8 +1020,7 @@
     - D-) Fakih Saati
     - E-) Kale Saati
 
-    > **Açıklama:** İlk Hesaplayıcılar
-    > “MÖ 1. Yüzyıla tarihlendirilen Antikythera Mekanizması bazı kaynaklara göre tarihin ilk bilgisayarı olarak geçmektedir. Bu alet tahta bir kutunun içerisinde 30’dan fazla birbirine kilitlenen bronz parçalardan oluşmaktadır. Bir krank kolu çevrilerek parçalar hareket ettirilmektedir. Hareket eden parçalar güneşin, ayın pozisyonlarını hesaplamaya yaramaktadır. (Garfinkel, 2018).”
+    > **Açıklama:** İlk Hesaplayıcılar<br />“MÖ 1. Yüzyıla tarihlendirilen Antikythera Mekanizması bazı kaynaklara göre tarihin ilk bilgisayarı olarak geçmektedir. Bu alet tahta bir kutunun içerisinde 30’dan fazla birbirine kilitlenen bronz parçalardan oluşmaktadır. Bir krank kolu çevrilerek parçalar hareket ettirilmektedir. Hareket eden parçalar güneşin, ayın pozisyonlarını hesaplamaya yaramaktadır. (Garfinkel, 2018).”
 
     <hr />
 1. Aşağıdakilerden hangisi “Kademeli Hesaplayıcı (Stepped Reckoner)” olarak anılan makineyi geliştiren araştırmacıdır?
@@ -1165,8 +1030,7 @@
     - D-) John Napier
     - E-) Wilhelm Schickard
 
-    > **Açıklama:** İlk Hesaplayıcılar
-    > “Gottfried Wilhelm von Leibniz ise 1672-1674 yılları “Kademeli Hesaplayıcı (Stepped Reckoner)” olarak anılan makineyi bulmuştur. Leibniz, aynı zamanda ikilik sayı sistemleri üzerinde de (binary numbers) çalışmış ilk Avrupalılardan birisidir (Augarten, 1984).”
+    > **Açıklama:** İlk Hesaplayıcılar<br />“Gottfried Wilhelm von Leibniz ise 1672-1674 yılları “Kademeli Hesaplayıcı (Stepped Reckoner)” olarak anılan makineyi bulmuştur. Leibniz, aynı zamanda ikilik sayı sistemleri üzerinde de (binary numbers) çalışmış ilk Avrupalılardan birisidir (Augarten, 1984).”
 
     <hr />
 1. Fark Motoru ve Analiz Motorunu keşfeden araştırmacı aşağıdakilerden hangisidir?
@@ -1176,8 +1040,7 @@
     - D-) John Napier
     - E-) Wilhelm Schickard
 
-    > **Açıklama:** İlk Hesaplayıcılar
-    > “Charles Babbage, 19. yüzyılın bilgisayar teknolojilerinin gelişmesini sağlayan Fark Motoru ve Analiz Motorunu keşfeder. Fark motoru bilimsel hesaplamalarda kullanılan ve insan faktöründen dolayı yüksek hata payı olan matematik tablolarının nasıl mekanik bir şekilde işletilebileceği fikrinden doğmuştur.”
+    > **Açıklama:** İlk Hesaplayıcılar<br />“Charles Babbage, 19. yüzyılın bilgisayar teknolojilerinin gelişmesini sağlayan Fark Motoru ve Analiz Motorunu keşfeder. Fark motoru bilimsel hesaplamalarda kullanılan ve insan faktöründen dolayı yüksek hata payı olan matematik tablolarının nasıl mekanik bir şekilde işletilebileceği fikrinden doğmuştur.”
 
     <hr />
 1. “Gerçeğe ulaşmak için idealara ulaşmak yerine çevremizde duyumsadıklarımızın gerçeğin kendisi olduğu” savını öne süren düşünür aşağıdakilerden hangisidir?
@@ -1187,9 +1050,7 @@
     - D-) Platon
     - E-) Sokrates
 
-    > **Açıklama:** Gerçekliğin Tanımı
-    > “Aristoteles’e göre “idealar veya formlar birer soyutlamadan başka hiçbir şey değildir”
-    > (Cevizci, 2015). Aristoteles gerçeğe ulaşmak için idealara ulaşmak yerine çevremizde duyumsadıklarımızın gerçeğin kendisi olduğunu öne sürmektedir.”
+    > **Açıklama:** Gerçekliğin Tanımı<br />“Aristoteles’e göre “idealar veya formlar birer soyutlamadan başka hiçbir şey değildir”<br />(Cevizci, 2015). Aristoteles gerçeğe ulaşmak için idealara ulaşmak yerine çevremizde duyumsadıklarımızın gerçeğin kendisi olduğunu öne sürmektedir.”
 
     <hr />
 1. “Gerçekliğin görsel algısını zenginleştirebilen, eksiltebilen veya başkalaştırabilen sistemler” olarak yapılan tanım aşağıdakilerden hangise aittir?
@@ -1199,8 +1060,7 @@
     - D-) Yeni Estetik
     - E-) Yeni Gerçek
 
-    > **Açıklama:** **Sayısal Gerçeklik**
-    > “Gerçeklik Ortamlandırıcıları: Gerçekliğin görsel algısını zenginleştirebilen, eksiltebilen veya başkalaştırabilen sistemlerdir.”
+    > **Açıklama:** **Sayısal Gerçeklik**<br />“Gerçeklik Ortamlandırıcıları: Gerçekliğin görsel algısını zenginleştirebilen, eksiltebilen veya başkalaştırabilen sistemlerdir.”
 
     <hr />
 1. “Gerçekliğin bir kökenden ya da gerçeklikten yoksun modeller aracılığı ile üretilmesi” olarak yapılan tanım aşağıdakilerden hangisine aittir?
@@ -1210,8 +1070,7 @@
     - **Cevap D-) Üst Gerçeklik**
     - E-) Yeni Gerçek
 
-    > **Açıklama:** Sayısal Gerçeklik
-    > “Hiper (Üst) Gerçeklik: Gerçekliğin bir kökenden ya da gerçeklikten yoksun modeller aracılığı ile üretilmesine denir.”
+    > **Açıklama:** Sayısal Gerçeklik<br />“Hiper (Üst) Gerçeklik: Gerçekliğin bir kökenden ya da gerçeklikten yoksun modeller aracılığı ile üretilmesine denir.”
 
     <hr />
 1. Teknik olarak sanal gerçekliğe yakın olarak üretilen ilk cihaz aşağıdakilerden hangisidir?
@@ -1221,8 +1080,7 @@
     - D-) Memex
     - E-) Fark Motoru
 
-    > **Açıklama:** Sanal ve Artırılmış Gerçekliğin Tarihi
-    > “Teknik olarak ise sanal gerçekliğe yakın olarak üretilen ilk cihaz Sensorama’dır. Sinematograf Morton Heilig tarafından 1962’de üretilen bu cihaz, aslında bir çeşit çoklu duyumsama simülatörüdür.”
+    > **Açıklama:** Sanal ve Artırılmış Gerçekliğin Tarihi<br />“Teknik olarak ise sanal gerçekliğe yakın olarak üretilen ilk cihaz Sensorama’dır. Sinematograf Morton Heilig tarafından 1962’de üretilen bu cihaz, aslında bir çeşit çoklu duyumsama simülatörüdür.”
 
     <hr />
 1. Sayısal gerçekliğin ilk defa bilgisayar sistemleri ile birleşmesi aşağıdakilerden hangisi tarafından gerçekleştirilmiştir?
@@ -1232,8 +1090,7 @@
     - D-) Hugo Gernsback
     - **Cevap E-) Ivan Shuterland**
 
-    > **Açıklama:** Sanal ve Artırılmış Gerçekliğin Tarihi
-    > “Sayısal gerçekliğin ilk defa bilgisayar sistemleri ile birleşmesi Ivan Shuterland tarafından gerçekleştirilmiştir.”
+    > **Açıklama:** Sanal ve Artırılmış Gerçekliğin Tarihi<br />“Sayısal gerçekliğin ilk defa bilgisayar sistemleri ile birleşmesi Ivan Shuterland tarafından gerçekleştirilmiştir.”
 
     <hr />
 1. Aşağıdakilerden hangisi sanal gerçekliğin 4 temel elemanından biri **değildir**?
@@ -1243,12 +1100,7 @@
     - D-) Duyusal Geri Bildirim
     - E-) Etkileşim
 
-    > **Açıklama:** Sanal ve Artırılmış Gerçekliğin Tarihi
-    > “Sanal gerçekliğin 4 temel elemanı vardır (Sherman& Craig, 2003, s. 6):
-    > 1\. Sanal Dünya
-    > 2\. Gömülme
-    > 3\. Duyusal Geri Bildirim
-    > 4\. Etkileşim.”
+    > **Açıklama:** Sanal ve Artırılmış Gerçekliğin Tarihi<br />“Sanal gerçekliğin 4 temel elemanı vardır (Sherman& Craig, 2003, s. 6):<br />1\. Sanal Dünya<br />2\. Gömülme<br />3\. Duyusal Geri Bildirim<br />4\. Etkileşim.”
 
     <hr />
 1. Token adı verilen, bilgiyi toplamak ve kaydetmek için kullanılan üç boyutlu formlara, **ilk olarak** nerede rastlanmaktadır?
@@ -1258,8 +1110,7 @@
     - D-) Afrika
     - **Cevap E-) Mezapotamya**
 
-    > **Açıklama:** BİLGİSAYARLARIN KISA TARİHÇESİ
-    > Mezopotamya’da ortaya çıkan buluntular insanların bilgiyi toplamak ve kaydetmek için MÖ 7500 yılından itibaren üç boyutlu formlardan yararlandığını göstermektedir. “Token” adı verilen bu formlar üç boyutludur ve kilden zarflar içerisine veya zarfların üzerine gömülü bir şekilde saklanmaktadırlar.
+    > **Açıklama:** BİLGİSAYARLARIN KISA TARİHÇESİ<br />Mezopotamya’da ortaya çıkan buluntular insanların bilgiyi toplamak ve kaydetmek için MÖ 7500 yılından itibaren üç boyutlu formlardan yararlandığını göstermektedir. “Token” adı verilen bu formlar üç boyutludur ve kilden zarflar içerisine veya zarfların üzerine gömülü bir şekilde saklanmaktadırlar.
 
     <hr />
 1. Hesaplamaya yarayan ilk teknoloji olan abaküs hangi medeniyette ortaya çıkmıştır?
@@ -1269,8 +1120,7 @@
     - D-) Urartu
     - **Cevap E-) Sümer**
 
-    > **Açıklama:** BİLGİSAYARLARIN KISA TARİHÇESİ
-    > Hesaplamaya yarayan ilk teknoloji, MÖ 2500 yılları civarında Sümerlerde görülen Abaküs, hesaplamaya yarayan ve taşınabilir ilk alettir. Bu bilgi cevabın E şıkkı olduğunu göstermektedir.
+    > **Açıklama:** BİLGİSAYARLARIN KISA TARİHÇESİ<br />Hesaplamaya yarayan ilk teknoloji, MÖ 2500 yılları civarında Sümerlerde görülen Abaküs, hesaplamaya yarayan ve taşınabilir ilk alettir. Bu bilgi cevabın E şıkkı olduğunu göstermektedir.
 
     <hr />
 1. Bugünkü modern abaküse benzeyen bir sistem oluşturan medeniyet hangisidir?
@@ -1280,8 +1130,7 @@
     - D-) Japon
     - E-) Ceneviz
 
-    > **Açıklama:** BİLGİSAYARLARIN KISA TARİHÇESİ
-    > Çin abaküsü bugünkü modern abaküse benzeyen bir sistemdir. Bakınız resim 3.1
+    > **Açıklama:** BİLGİSAYARLARIN KISA TARİHÇESİ<br />Çin abaküsü bugünkü modern abaküse benzeyen bir sistemdir. Bakınız resim 3.1
 
     <hr />
 1. Kademeli Hesaplayıcı'yı bulan düşünür kimdir?
@@ -1291,8 +1140,7 @@
     - D-) Wilhelm Schickard
     - E-) Wolfgang von Kempelen
 
-    > **Açıklama:** Analog Bilgisayarlar
-    > Gottfried Wilhelm von Leibniz ise 1672-1674 yılları “Kademeli Hesaplayıcı (Stepped Reckoner)” olarak anılan makineyi bulmuştur.
+    > **Açıklama:** Analog Bilgisayarlar<br />Gottfried Wilhelm von Leibniz ise 1672-1674 yılları “Kademeli Hesaplayıcı (Stepped Reckoner)” olarak anılan makineyi bulmuştur.
 
     <hr />
 1. World Wide Web (Dünya Çapında Ağ), yanı WWW ne zaman ortaya çıkmıştır?
@@ -1302,9 +1150,7 @@
     - D-) 1984
     - **Cevap E-) 1989**
 
-    > **Açıklama:** Dijital Bilgisayarlar
-    > 1989 yılında, bilgisayarların işe, eve ve her yere girmesine sebep olan gelişme yaşanmıştır: World Wide Web (Dünya Çapında Ağ). CERN laboratuvarlarında çalışan Tim Barners-Lee’nin HTTP Hipermetin Transfer Protokolü) ve HTML’yi
-    > (Hipermetin Biçimlendirme Dili) icat etmesi ile beraber dünya çapında ağ ortaya çıkmıştır.
+    > **Açıklama:** Dijital Bilgisayarlar<br />1989 yılında, bilgisayarların işe, eve ve her yere girmesine sebep olan gelişme yaşanmıştır: World Wide Web (Dünya Çapında Ağ). CERN laboratuvarlarında çalışan Tim Barners-Lee’nin HTTP Hipermetin Transfer Protokolü) ve HTML’yi<br />(Hipermetin Biçimlendirme Dili) icat etmesi ile beraber dünya çapında ağ ortaya çıkmıştır.
 
     <hr />
 1. Gerçeklik tartışmalarının tarihsel kökenine bakıldığı zaman, karşımıza çıkan ilk isim kimdir?
@@ -1314,8 +1160,7 @@
     - D-) Spinoza
     - E-) Aristoteles
 
-    > **Açıklama:** YENİ GERÇEK, YENİ GÖRÜNTÜLER
-    > Gerçeklik tartışmalarının tarihsel kökenine bakıldığı zaman, Platon’un Mağara Alegorisi’ne ulaşılır.
+    > **Açıklama:** YENİ GERÇEK, YENİ GÖRÜNTÜLER<br />Gerçeklik tartışmalarının tarihsel kökenine bakıldığı zaman, Platon’un Mağara Alegorisi’ne ulaşılır.
 
     <hr />
 1. "Bir kökenden ya da gerçeklikten yoksun modeller aracılığı ile üretilmesine" ifadesi aşağıdakilerden hangisini tanımlar?
@@ -1325,8 +1170,7 @@
     - D-) Aracılı İletişim
     - **Cevap E-) Hiper (Üst) Gerçeklik**
 
-    > **Açıklama:** Sayısal Gerçeklik
-    > Hiper (Üst) Gerçeklik: Bir kökenden ya da gerçeklikten yoksun modeller aracılığı ile üretilmesine denir.
+    > **Açıklama:** Sayısal Gerçeklik<br />Hiper (Üst) Gerçeklik: Bir kökenden ya da gerçeklikten yoksun modeller aracılığı ile üretilmesine denir.
 
     <hr />
 1. Tamamen fiziksel olan dünya ile tamamen sanal olan dünyanın arasında kalan bölüme ne ad verilmektedir?
@@ -1336,8 +1180,7 @@
     - D-) Sanal Dünya
     - **Cevap E-) Karma Gerçeklik**
 
-    > **Açıklama:** Sayısal Gerçeklikler
-    > Tamamen fiziksel olan dünya ile tamamen sanal olan dünyanın arasında kalan bölüme ise karma gerçeklik denilmektedir.
+    > **Açıklama:** Sayısal Gerçeklikler<br />Tamamen fiziksel olan dünya ile tamamen sanal olan dünyanın arasında kalan bölüme ise karma gerçeklik denilmektedir.
 
     <hr />
 1. Aşağıdakilerden hangisi, sanal gerçekliğin ögelerinden **biri değildir?**
@@ -1347,13 +1190,7 @@
     - D-) Duyusal Geri Bildirim
     - E-) Etkileşim
 
-    > **Açıklama:** Sanal Gerçeklik
-    > Sanal gerçekliğin 4 temel elemanı vardır (Sherman & Craig, 2003, s. 6):
-    > 1\. Sanal Dünya
-    > 2\. Gömülme
-    > 3\. Duyusal Geri Bildirim
-    > 4\. Etkileşim
-    > Fiziksel dünya bunun bir ögesi olmadığından cevap C şıkkıdır.
+    > **Açıklama:** Sanal Gerçeklik<br />Sanal gerçekliğin 4 temel elemanı vardır (Sherman & Craig, 2003, s. 6):<br />1\. Sanal Dünya<br />2\. Gömülme<br />3\. Duyusal Geri Bildirim<br />4\. Etkileşim<br />Fiziksel dünya bunun bir ögesi olmadığından cevap C şıkkıdır.
 
     <hr />
 1. Google’ın geliştirdiği Tilt Brush, hangi alandaki sanal gerçeklik örneklerinden biridir?
@@ -1433,15 +1270,7 @@
     - D-) Cihaza bağımlı
     - **Cevap E-) Serbeslik derecesi**
 
-    > **Açıklama:** Sayısal nesnelerin fiziksel dünyaya oturtulması için tetikleyicilere ihtiyaç vardır. Bu tetikleyiciler, artırılmış gerçeklik ile sayısal nesnelerin nerede, nasıl ve ne zaman ortaya çıkacağını belirlemektedirler:
-    > 1\. İşaretsiz tetikleyici: Sayısal nesne, sistem başlatıldığında ortaya çıkar. Örneğin akıllı telefon uygulama başlatıldığında kendiliğinden ortaya çıkar. Genellikle havada uçuyormuş gibi gözükür.
-    > 2\. İşaretli tetikleyici: Karekod gibi bir işaretin telefon tarafından okutulmasından sonra ortaya çıkmaktadır
-    > 3\. Mekân ve/veya Yüzey Tanımlı: Uygulama başlatıldıktan sonra cihaz mekânı tarar ve haritasını çıkartır. Daha sonra sayısal nesneler mekâna yerleştirilir.
-    > 4\. Görüntü Tanımlı: Sisteme kaydedilmiş bir resim veya nesne tarandığı zaman ortaya çıkmaktadır.
-    > 5\. Radyo Sinyalleri: RFID, Bluetooth veya benzeri sinyaller sistemi çalıştırmaktadır.
-    > 6\. Konum Tanımlı (GPS): Kullanıcı dünya üzerindeki belli bir noktaya geldiği zaman çalışır.
-    > 7\. Cihaza bağımlı: Kiosk, akıllı ayna ve başüstü göstergeleri gibi büyük nesnelerle etkileşime girildiğine çalışmaktadır.
-    > 8\. Diğer: Sayısal dünyada tam bir sınır koymak mümkün değildir. Bir sosyal medya iletisi, e-posta veya takvimde belirlenmiş herhangi bir gün bile olabilmektedir.
+    > **Açıklama:** Sayısal nesnelerin fiziksel dünyaya oturtulması için tetikleyicilere ihtiyaç vardır. Bu tetikleyiciler, artırılmış gerçeklik ile sayısal nesnelerin nerede, nasıl ve ne zaman ortaya çıkacağını belirlemektedirler:<br />1\. İşaretsiz tetikleyici: Sayısal nesne, sistem başlatıldığında ortaya çıkar. Örneğin akıllı telefon uygulama başlatıldığında kendiliğinden ortaya çıkar. Genellikle havada uçuyormuş gibi gözükür.<br />2\. İşaretli tetikleyici: Karekod gibi bir işaretin telefon tarafından okutulmasından sonra ortaya çıkmaktadır<br />3\. Mekân ve/veya Yüzey Tanımlı: Uygulama başlatıldıktan sonra cihaz mekânı tarar ve haritasını çıkartır. Daha sonra sayısal nesneler mekâna yerleştirilir.<br />4\. Görüntü Tanımlı: Sisteme kaydedilmiş bir resim veya nesne tarandığı zaman ortaya çıkmaktadır.<br />5\. Radyo Sinyalleri: RFID, Bluetooth veya benzeri sinyaller sistemi çalıştırmaktadır.<br />6\. Konum Tanımlı (GPS): Kullanıcı dünya üzerindeki belli bir noktaya geldiği zaman çalışır.<br />7\. Cihaza bağımlı: Kiosk, akıllı ayna ve başüstü göstergeleri gibi büyük nesnelerle etkileşime girildiğine çalışmaktadır.<br />8\. Diğer: Sayısal dünyada tam bir sınır koymak mümkün değildir. Bir sosyal medya iletisi, e-posta veya takvimde belirlenmiş herhangi bir gün bile olabilmektedir.
 
     <hr />
 1. Aşağıdakilerden hangisi artırılmış gerçekliğin özelliklerinden biri **değildir**?
@@ -1451,11 +1280,7 @@
     - D-) Etkileşimli olması
     - E-) Üç boyutlu olması
 
-    > **Açıklama:** Azuma’ya (1997, s. 356) göre artırılmış gerçeklik için 3 kriterin sağlanmış olması lazımdır:
-    > • Fiziksel ve sanalı birleştirmelidir
-    > • Gerçek zamanlı olarak etkileşimli olmalıdır
-    > • Üç boyutlu olmalıdır
-    > Artırılmış gerçeklik de sanal gerçeklik gibi ortamlandırıcılar aracılığı ile duyumsanmaktadır. Sanal gerçeklikten farklı olarak bu aracılar kullanıcıyı dış dünyaya kapatmadan sayısal veriyi iletmektedir.
+    > **Açıklama:** Azuma’ya (1997, s. 356) göre artırılmış gerçeklik için 3 kriterin sağlanmış olması lazımdır:<br />• Fiziksel ve sanalı birleştirmelidir<br />• Gerçek zamanlı olarak etkileşimli olmalıdır<br />• Üç boyutlu olmalıdır<br />Artırılmış gerçeklik de sanal gerçeklik gibi ortamlandırıcılar aracılığı ile duyumsanmaktadır. Sanal gerçeklikten farklı olarak bu aracılar kullanıcıyı dış dünyaya kapatmadan sayısal veriyi iletmektedir.
 
     <hr />
 1. 18\. yüzyılda icat edilen, yarısı masa yarısı o dönemin Osmanlı kıyafetlerini giyen bir robot olarak tasarlanan ve otomatik olarak karşısındaki bir oyuncu ile satranç oynayan makine aşağıdakilerden hangisidir?
@@ -1655,12 +1480,7 @@
     - D-) Duyusal Geri Bildirim
     - E-) Etkileşim
 
-    > **Açıklama:** Sanal gerçekliğin 4 temel elemanı:
-    > 1\. Sanal Dünya
-    > 2\. Gömülme
-    > 3\. Duyusal Geri Bildirim
-    > 4\. Etkileşim
-    > Avatar ise; Bir kullanıcının veya fiziksel bir nesnenin, sanal bir nesne tarafından temsil edilmesidir.
+    > **Açıklama:** Sanal gerçekliğin 4 temel elemanı:<br />1\. Sanal Dünya<br />2\. Gömülme<br />3\. Duyusal Geri Bildirim<br />4\. Etkileşim<br />Avatar ise; Bir kullanıcının veya fiziksel bir nesnenin, sanal bir nesne tarafından temsil edilmesidir.
 
     <hr />
 1. Azuma’ya (1997) göre artırılmış gerçeklik; fiziksel ve .......... birleştirmelidir, gerçek zamanlı olarak ........ ve ......... boyutlu olmalıdır.<br />Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?
@@ -1670,10 +1490,7 @@
     - D-) zamanı / tek yönlü / üç
     - E-) uzayı / etkileşimli / dört
 
-    > **Açıklama:** Azuma’ya (1997) göre artırılmış gerçeklik için 3 kriterin sağlanmış olması lazımdır:
-    > • Fiziksel ve **sanalı** birleştirmelidir.
-    > • Gerçek zamanlı olarak **etkileşimli** olmalıdır.
-    > • **Üç boyutlu** olmalıdır.
+    > **Açıklama:** Azuma’ya (1997) göre artırılmış gerçeklik için 3 kriterin sağlanmış olması lazımdır:<br />• Fiziksel ve **sanalı** birleştirmelidir.<br />• Gerçek zamanlı olarak **etkileşimli** olmalıdır.<br />• **Üç boyutlu** olmalıdır.
 
     <hr />
 1. Sayısal nesnelerin fiziksel dünyaya oturtulması için ihtiyaç duyulan ................., artırılmış gerçeklik ile sayısal nesnelerin nerede, nasıl ve ne zaman ortaya çıkacağını belirlemektedirler.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?
@@ -1763,8 +1580,7 @@
     - D-) Etkileşimlidir.
     - E-) Fiziksel ve sanalı birleştirir.
 
-    > **Açıklama:** Azuma’ya (1997, s. 356) göre artırılmış gerçeklik için 3 kriterin sağlanmış olması lazımdır: Fiziksel ve sanalı birleştirmelidir, Gerçek zamanlı olarak etkileşimli olmalıdır, üç boyutlu olmalıdır.
-    > Gömülle hissi sanal gerçeklikle ilgilidir.
+    > **Açıklama:** Azuma’ya (1997, s. 356) göre artırılmış gerçeklik için 3 kriterin sağlanmış olması lazımdır: Fiziksel ve sanalı birleştirmelidir, Gerçek zamanlı olarak etkileşimli olmalıdır, üç boyutlu olmalıdır.<br />Gömülle hissi sanal gerçeklikle ilgilidir.
 
     <hr />
 1. **Akıllı telefon uygulaması hangi tür arttırılmış gerçeklik tetikleyicilerinden biridir?**
@@ -1795,8 +1611,7 @@
     - D-) 2010
     - E-) 2011
 
-    > **Açıklama:** Bireylerin ve toplumların onayı alınmadan alınan ancak faturası da onlara çıkartılan bu tür kriz süreçlerinde ihtiyaç duyulan adil, şeffaf, denetlenebilir bir işleyişin nasıl kurulabileceği sorunsalından hareketle 2008 yılı sonunda İnternet üzerinde başlatılan tartışmalar, giderek bir kural manzumesine dönüştürülmüş ve nihayet bu kural manzumesi de üzerinde geniş bir mutabakat sağlandıktan sonra kimsenin (kurucusu
-    > veya kurucularının bile) tek başına değiştiremeyeceği bir koda dönüştürülerek 2009 yılında Bitcoin adı verilen bir finansal işleyiş olarak hayata geçirilmiştir.
+    > **Açıklama:** Bireylerin ve toplumların onayı alınmadan alınan ancak faturası da onlara çıkartılan bu tür kriz süreçlerinde ihtiyaç duyulan adil, şeffaf, denetlenebilir bir işleyişin nasıl kurulabileceği sorunsalından hareketle 2008 yılı sonunda İnternet üzerinde başlatılan tartışmalar, giderek bir kural manzumesine dönüştürülmüş ve nihayet bu kural manzumesi de üzerinde geniş bir mutabakat sağlandıktan sonra kimsenin (kurucusu<br />veya kurucularının bile) tek başına değiştiremeyeceği bir koda dönüştürülerek 2009 yılında Bitcoin adı verilen bir finansal işleyiş olarak hayata geçirilmiştir.
 
     <hr />
 1. Projelere fon toplamak amacıyla, yeni üretilen bir jeton ya da kripto varlığın, Bitcoin, Ethereum gibi popüler kripto paralar karşılığında satışa sunulması sürecini tanımlayan kavram aşağıdakilerden hangisidir?
@@ -1886,10 +1701,7 @@
     - **Cevap D-) I, II ve III**
     - E-) II, III ve IV
 
-    > **Açıklama:** Kripto paralara yönelik yapılan bazı eleştiriler:
-    > * Kripto paraların kara para aklama ya da illegal işlemlerde kullanılması sık sık gündeme geliyor. Burada bahsedilen suçların çoğunun hâlâ resmî/geleneksel para birimleri üzerinden yapıldığını belirtelim.
-    > * Ponciano (2021) ise Bitcoin üretiminde harcanan enerjiye dikkat çekiyor ve kripto paraların çevreye zararını tartışmaya açıyor. Burada diğer kripto paraların daha az enerji harcadığını ve muhtemelen genel olarak gelecekte daha az enerji ile kripto para üretiminin gerçekleşeceğini belirtelim.
-    > * Kripto para çevrelerine yönelik başka bir eleştiri de alandaki kadınların azlığı. Diğer tüm bilim ve teknoloji alanlarında kadınların eksikliğinin yarattığı eksiklikler ve sistematik önyargılar burada da olabilir.
+    > **Açıklama:** Kripto paralara yönelik yapılan bazı eleştiriler:<br />* Kripto paraların kara para aklama ya da illegal işlemlerde kullanılması sık sık gündeme geliyor. Burada bahsedilen suçların çoğunun hâlâ resmî/geleneksel para birimleri üzerinden yapıldığını belirtelim.<br />* Ponciano (2021) ise Bitcoin üretiminde harcanan enerjiye dikkat çekiyor ve kripto paraların çevreye zararını tartışmaya açıyor. Burada diğer kripto paraların daha az enerji harcadığını ve muhtemelen genel olarak gelecekte daha az enerji ile kripto para üretiminin gerçekleşeceğini belirtelim.<br />* Kripto para çevrelerine yönelik başka bir eleştiri de alandaki kadınların azlığı. Diğer tüm bilim ve teknoloji alanlarında kadınların eksikliğinin yarattığı eksiklikler ve sistematik önyargılar burada da olabilir.
 
     <hr />
 1. Aşağıdakilerden hangisi İnternet’in kitlesel bir iletişim ortamı hâline dönüşmesinin temellerini atan adımdır?
@@ -1899,8 +1711,7 @@
     - D-) Yeni medya döneminin başlaması
     - E-) Dağıtık ağ mimarisine geçilmesi
 
-    > **Açıklama:** İngiliz bilim insanı Tim Berners-Lee tarafından geliştirilen WWW standartları sayesinde metin, ses, resim, görüntü gibi her türlü formatı İnternet üzerinde barındırmak, almak ve göndermek mümkün hâle gelmiş ve İnternet’in kitlesel bir iletişim ortamı hâline dönüşmesinin temelleri atılmıştır.
-    > Tim Berners-Lee tarafından WWW standartlarının geliştirilmesi
+    > **Açıklama:** İngiliz bilim insanı Tim Berners-Lee tarafından geliştirilen WWW standartları sayesinde metin, ses, resim, görüntü gibi her türlü formatı İnternet üzerinde barındırmak, almak ve göndermek mümkün hâle gelmiş ve İnternet’in kitlesel bir iletişim ortamı hâline dönüşmesinin temelleri atılmıştır.<br />Tim Berners-Lee tarafından WWW standartlarının geliştirilmesi
 
     <hr />
 1. Aşağıdakilerden hangisi Bitcoin'in geleneksel paradan temel farklarından biri **değildir**?
@@ -1920,8 +1731,7 @@
     - D-) Nesnelerin İnterneti
     - E-) Dijital Dönüşüm
 
-    > **Açıklama:** Blokzinciri; bireylere, toplumlara, topluluklara, kurumlara, kuruluşlara ve hatta devletlere adil, şeffaf
-    > ve denetlenebilir işleyişler sunan bir Dijital Güven Protokolü olarak tanımlanmaktadır.
+    > **Açıklama:** Blokzinciri; bireylere, toplumlara, topluluklara, kurumlara, kuruluşlara ve hatta devletlere adil, şeffaf<br />ve denetlenebilir işleyişler sunan bir Dijital Güven Protokolü olarak tanımlanmaktadır.
 
     <hr />
 1. Aşağıdakilerden hangisi paradaki merkezsizleşme ihtiyacının en somut olarak hissedildiği vakadır?
@@ -2101,8 +1911,7 @@
     - **Cevap D-) 2008 ABD Finans Krizi**
     - E-) 2009 Bitcoinin Hayata Geçirilmesi
 
-    > **Açıklama:** **Sorunun doğru yanıtı "Paranın Tarihsel Evrimi ve Dijital Dönüşümü" başlığı altında bulunmaktadır.**
-    > Paradaki merkezsizleşme ihtiyacının en somut olarak hissedildiği ve çözüm arayışlarına girildiği ilk vaka, 2008 ABD Finans Krizi olmuştur.
+    > **Açıklama:** **Sorunun doğru yanıtı "Paranın Tarihsel Evrimi ve Dijital Dönüşümü" başlığı altında bulunmaktadır.**<br />Paradaki merkezsizleşme ihtiyacının en somut olarak hissedildiği ve çözüm arayışlarına girildiği ilk vaka, 2008 ABD Finans Krizi olmuştur.
 
     <hr />
 1. Kurucusu veya kurucularının bile tek başına değiştiremeyeceği bir koda dönüştürülerek oluşturulan bir finansal işleyiş olan Bitcoin kaç yılında hayata geçirilmiştir?
@@ -2112,8 +1921,7 @@
     - D-) 2016
     - E-) 2020
 
-    > **Açıklama:** **Bu sorunun doğru yanıtı "Paranın Tarihsel Evrimi ve Dijital Dönüşümü" başlığı altında bulunmaktadır.**
-    > Bireylerin ve toplumların onayı alınmadan alınan ancak faturası da onlara çıkartılan bu tür kriz süreçlerinde ihtiyaç duyulan adil, şeffaf, denetlenebilir bir işleyişin nasıl kurulabileceği sorunsalından hareketle 2008 yılı sonunda İnternet üzerinde başlatılan tartışmalar, giderek bir kural manzumesine dönüştürülmüş ve nihayet bu kural manzumesi de üzerinde geniş bir mutabakat sağlandıktan sonra kimsenin (kurucusu veya kurucularının bile) tek başına değiştiremeyeceği bir koda dönüştürülerek 2009 yılında Bitcoin adı verilen bir finansal işleyiş olarak hayata geçirilmiştir.
+    > **Açıklama:** **Bu sorunun doğru yanıtı "Paranın Tarihsel Evrimi ve Dijital Dönüşümü" başlığı altında bulunmaktadır.** <br />Bireylerin ve toplumların onayı alınmadan alınan ancak faturası da onlara çıkartılan bu tür kriz süreçlerinde ihtiyaç duyulan adil, şeffaf, denetlenebilir bir işleyişin nasıl kurulabileceği sorunsalından hareketle 2008 yılı sonunda İnternet üzerinde başlatılan tartışmalar, giderek bir kural manzumesine dönüştürülmüş ve nihayet bu kural manzumesi de üzerinde geniş bir mutabakat sağlandıktan sonra kimsenin (kurucusu veya kurucularının bile) tek başına değiştiremeyeceği bir koda dönüştürülerek 2009 yılında Bitcoin adı verilen bir finansal işleyiş olarak hayata geçirilmiştir.
 
     <hr />
 1. Bitcoin ve özgün türevlerinde tutulan işlem kayıtlarının ilk işlemden bugüne İnternet üzerinde isteyen herkesin görüş ve denetimine açık olması merkezsiz finansın hangi özelliğidir?
@@ -2123,8 +1931,7 @@
     - D-) Kripto olması
     - E-) Blokzincir olması
 
-    > **Açıklama:** **Sorunun doğru yanıtı "Merkez Bankalarından Merkezsiz Finansa; Farklı Olan Ne?" başlığı altında bulunmaktadır.**
-    > Geleneksel finans kurumlarında işlem kayıtları, kurumun yönetiminin belirlediği oranda şeffaf ve denetime açıktır. Bitcoin ve özgün türevlerinde ise, tutulan işlem kayıtları ilk işlemden bugüne İnternet üzerinde isteyen herkesin görüş ve denetimine açıktır.
+    > **Açıklama:** **Sorunun doğru yanıtı "Merkez Bankalarından Merkezsiz Finansa; Farklı Olan Ne?" başlığı altında bulunmaktadır.** <br />Geleneksel finans kurumlarında işlem kayıtları, kurumun yönetiminin belirlediği oranda şeffaf ve denetime açıktır. Bitcoin ve özgün türevlerinde ise, tutulan işlem kayıtları ilk işlemden bugüne İnternet üzerinde isteyen herkesin görüş ve denetimine açıktır.
 
     <hr />
 1. Bitcoin benzeri açık kaynak kodlu blokzincirler olarak geliştirilen Dijital Güven Protokolleri ne olarak adlandırılmaktadır?
@@ -2134,8 +1941,7 @@
     - D-) P2P
     - E-) Regülasyon
 
-    > **Açıklama:** **Bu sorunun doğru yanıtı "Merkez Bankalarından Merkezsiz Finansa; Farklı Olan Ne?" başlığı altında bulunmaktadır.**
-    > Bitcoin benzeri açık kaynak kodlu blokzincirler olarak geliştirilen Dijital Güven Protokolleri de ***Kriptopara*** olarak adlandırılmaktadır.
+    > **Açıklama:** **Bu sorunun doğru yanıtı "Merkez Bankalarından Merkezsiz Finansa; Farklı Olan Ne?" başlığı altında bulunmaktadır.** <br />Bitcoin benzeri açık kaynak kodlu blokzincirler olarak geliştirilen Dijital Güven Protokolleri de ***Kriptopara*** olarak adlandırılmaktadır.
 
     <hr />
 1. Bitcoin’i resmî para birimi olarak kabul eden ilk ülke seçeneklerden hangisidir?
@@ -2145,8 +1951,7 @@
     - D-) ABD
     - E-) Belçika
 
-    > **Açıklama:** **Bu sorunun doğru yanıtı "İlgili Regülasyonlar" başlığı altındadır.**
-    > Bu arada El Salvador devleti ise Bitcoin’i resmî para birimi olarak kabul eden ilk ülke oldu (Renteria ve arkadaşları, 2021).
+    > **Açıklama:** **Bu sorunun doğru yanıtı "İlgili Regülasyonlar" başlığı altındadır.**<br />Bu arada El Salvador devleti ise Bitcoin’i resmî para birimi olarak kabul eden ilk ülke oldu (Renteria ve arkadaşları, 2021).
 
     <hr />
 1. I. İşleyiş merkezi<br />II. Kamuya açık işlem kayıtları<br />III. Dijital güvenlik<br />IV. İşleyiş merkezsiz<br />V. Kuruma açık işlem kayıtları<br />Yukarıdakilerden hangisi ya da hangileri Bitcoin ve türe­vi yeni nesil dijital finans işleyişlerinin mevcut finansal işleyişten farkı nedir?
@@ -2156,13 +1961,7 @@
     - D-) Yalnız II
     - E-) Yalnız III
 
-    > **Açıklama:** **Bu sorunun doğru yanıtı "Merkez Bankalarından Merkezsiz Finansa; Farklı Olan Ne?"başlığı altında bulunmaktadır.**
-    > |  |  |  |
-    > | --- | --- | --- |
-    > | **İşleyiş** | Merkezi | Merkezsiz |
-    > | **İşlem Kayıtları** | Kuruma açık | Kamuya açık |
-    > | **Mahremiyet** | Kurum | Kullanıcı |
-    > | **Güvenlik** | Dijital | Kripto |
+    > **Açıklama:** **Bu sorunun doğru yanıtı "Merkez Bankalarından Merkezsiz Finansa; Farklı Olan Ne?"başlığı altında bulunmaktadır.** <br />|  |  |  |<br />| --- | --- | --- |<br />| **İşleyiş** | Merkezi | Merkezsiz |<br />| **İşlem Kayıtları** | Kuruma açık | Kamuya açık |<br />| **Mahremiyet** | Kurum | Kullanıcı |<br />| **Güvenlik** | Dijital | Kripto |
 
     <hr />
 1. I. Gümrükler<br />II. Tapu daireler<br />III. Telife tabi eserler<br />IV. Kamu kurumlarıyla iş yapanlar<br />V. Taahhüt işleri yapanlar yukarıda yer alanlardan hangisi ya da hangileri blokzincire ihtiyaç duyar?
@@ -2172,13 +1971,7 @@
     - **Cevap D-) I, II, III, IV, V**
     - E-) Yalnız IV
 
-    > **Açıklama:** **Bu sorunun doğru yanıtı "Blokzincir Ekonomisi ve Ötesi" başlığı altında bulunmaktadır.**
-    > Blokzincire kimler ve neden ihtiyaç duyar? Bu soruyu kısa bir ifadeyle “aralarında güven problemi olan iki veya fazla sayıda sosyal veya ticari taraf ” olarak yanıtlayabiliriz. Bu ifadeyi detaylandırmak gerekirse:
-    > * İş kayıtlarını başkalarıyla ortak tutma, kullanma ve paylaşma zorunluluğu olanlar, (Örnek: Proje/ taahhüt işleri yapanlar, kamu kurumlarıyla iş yapanlar)
-    > * Nesnel ve manipüle edilemeyecek kayıt saklama zorunluluğu olanlar, (Ör: Tapu daireleri)
-    > * Çalışma ilkeleri farklılık gösterenler (Ör: Gümrükler)
-    > * İş ilkelerini ve içeriğini değiştirmeden saklama ihtiyacında olanlar (Ör: Diploma)
-    > * Açıklık ve şeffaf kayıt zorunluluğu olanlar (Örnek: Telife tabi eserler)
+    > **Açıklama:** **Bu sorunun doğru yanıtı "Blokzincir Ekonomisi ve Ötesi" başlığı altında bulunmaktadır.**<br />Blokzincire kimler ve neden ihtiyaç duyar? Bu soruyu kısa bir ifadeyle “aralarında güven problemi olan iki veya fazla sayıda sosyal veya ticari taraf ” olarak yanıtlayabiliriz. Bu ifadeyi detaylandırmak gerekirse:<br />* İş kayıtlarını başkalarıyla ortak tutma, kullanma ve paylaşma zorunluluğu olanlar, (Örnek: Proje/ taahhüt işleri yapanlar, kamu kurumlarıyla iş yapanlar)<br />* Nesnel ve manipüle edilemeyecek kayıt saklama zorunluluğu olanlar, (Ör: Tapu daireleri)<br />* Çalışma ilkeleri farklılık gösterenler (Ör: Gümrükler)<br />* İş ilkelerini ve içeriğini değiştirmeden saklama ihtiyacında olanlar (Ör: Diploma)<br />* Açıklık ve şeffaf kayıt zorunluluğu olanlar (Örnek: Telife tabi eserler)
 
     <hr />
 1. Genel ile özel arasında konumlanmış blok zincirler aşağıdakilerden hangisidir?
@@ -2188,8 +1981,7 @@
     - D-) Yan zincirler
     - E-) Yaygın blokzincir
 
-    > **Açıklama:** **Bu sorunun doğru yanıtı "Blokzincir Ekonomisi ve Ötesi" başlığı altındadır.**
-    > **Konsorsiyum** (*Hybrid blockchain*) ise genel ile özel arasında konumlanmış blok zincirlerdir
+    > **Açıklama:** **Bu sorunun doğru yanıtı "Blokzincir Ekonomisi ve Ötesi" başlığı altındadır.** <br />**Konsorsiyum** (*Hybrid blockchain*) ise genel ile özel arasında konumlanmış blok zincirlerdir
 
     <hr />
 1. Projelere fon toplamak amacıyla, yeni üretilen bir jeton ya da kripto varlığın, Bitcoin, Ethereum gibi popüler kriptoparalar karşılığında satışa sunulması sürecine ne denir?
@@ -2199,8 +1991,7 @@
     - D-) Merkesizleşme
     - E-) Blokzincir
 
-    > **Açıklama:** **Bu sorunun doğru yanıtı "Dijital Çağda Para" başlığı altında bulunmaktadır.**
-    > ICO: ICO, İngilizce “Initial Coin Offering” teriminin kısaltmasıdır ve kriptopara arzı anlamına gelmektedir. Projelere fon toplamak amacıyla, yeni üretilen bir jeton ya da kripto varlığın, Bitcoin, Ethereum gibi popüler kriptoparalar karşılığında satışa sunulması sürecini tanımlamaktadır.
+    > **Açıklama:** **Bu sorunun doğru yanıtı "Dijital Çağda Para" başlığı altında bulunmaktadır.**<br />ICO: ICO, İngilizce “Initial Coin Offering” teriminin kısaltmasıdır ve kriptopara arzı anlamına gelmektedir. Projelere fon toplamak amacıyla, yeni üretilen bir jeton ya da kripto varlığın, Bitcoin, Ethereum gibi popüler kriptoparalar karşılığında satışa sunulması sürecini tanımlamaktadır.
 
     <hr />
 1. Aşağıdakilerden hangisi kriptopara ve blokzincir çevrelerine yönelik eleştiriler arasında yer almaz?
@@ -2210,8 +2001,7 @@
     - D-) kriptopara değerlerindeki volatilitenin spekülasyonlar yol açması
     - **Cevap E-) Kriptoparalar kullanan, geliştiren topluluklar olmadan varlıklarını sürdürebilmesi**
 
-    > **Açıklama:** **Bu sorunun doğru yanıtı "Kriptoparalar ve Blokzincir ile İlgili Eleştirilere Toplu Bir Bakış" başlığı altında bulunmaktadır.**
-    > Kriptoparaların çıkışında en önemli beklen­tilerden birisi, aracı kurumları aradan çıkarmak yanından insanlara dayanmadan yüksek teknoloji ile güven sorununu çözüp varlığını sürdürmekti. Ancak kriptoparalar en azından şu aşamada onları kullanan, yaşatan ve geliştiren topluluklar olmadan varlıklarını sürdüremiyor (Dodd, 2018
+    > **Açıklama:** **Bu sorunun doğru yanıtı "Kriptoparalar ve Blokzincir ile İlgili Eleştirilere Toplu Bir Bakış" başlığı altında bulunmaktadır.** <br />Kriptoparaların çıkışında en önemli beklen­tilerden birisi, aracı kurumları aradan çıkarmak yanından insanlara dayanmadan yüksek teknoloji ile güven sorununu çözüp varlığını sürdürmekti. Ancak kriptoparalar en azından şu aşamada onları kullanan, yaşatan ve geliştiren topluluklar olmadan varlıklarını sürdüremiyor (Dodd, 2018
 
     <hr />
 ## Unite 5
@@ -2432,8 +2222,7 @@
     - **Cevap D-) Kullanıcılar ağa katılırken mutlaka bir isim bildirmek zorundadır.**
     - E-) Bilgisayarlar “binary code” denen bir dilde konuşurlar.
 
-    > **Açıklama:** Kullanıcılar aynı zamanda ağa isterlerse anonim olarak da katılabilmektedirler. Anonimlik yeni medyaya öteki mevcudiyet özelliğini kazandırmaktadır.
-    > Kullanıcılar ağa katılırken mutlaka bir isim bildirmek zorundadır.
+    > **Açıklama:** Kullanıcılar aynı zamanda ağa isterlerse anonim olarak da katılabilmektedirler. Anonimlik yeni medyaya öteki mevcudiyet özelliğini kazandırmaktadır.<br />Kullanıcılar ağa katılırken mutlaka bir isim bildirmek zorundadır.
 
     <hr />
 1. Berners-Lee’nin tanımından yola çıkarak, “oku, yaz, uygula” şeklinde tanımlanabilen web teknolojisi aşağıdakilerden hangisidir?
@@ -2453,9 +2242,7 @@
     - D-) I ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** **20. yüzyılda kültür kavramı endüstrileşmiş, sanat nesnesi de alınıp satılan bir meta hâline gelmiştir.** Adorno (Adorno, 2011; 13) ve Lukacs gibi Frankfurt okulundan çağdaşlarının aksine Benjamin “Mekanik Çoğaltım Çağı”nı negatif bir olgu olarak anlamlandırmaz. Yeni teknolojilerin sanatın alımlanmasındaki demokratik etkilerine yoğunlaşır. Benjamin’e göre; sanat yapıtının tekniğin olanaklarıyla yeniden üretilebilirliği anda sanat yapıtı ilk kez kutsal törenlerin asalağı olmaktan kurtulup, özgürleşmiştir (Benjamin, 1992; 52). “Kapitalist Kültür Endüstri”sinden bağımsız insanların olabileceğini savunan Benjamin’i, Marshall McLuhan, Jean Baudrillard ve Paul Virilio gibi kuramcıların düşünceleri doğrular niteliktedir. Van Gogh Alive adlı gezici, dijital teknolojilerle desteklenmiş, çoklu ortam sergisi Benjamin’in
-    > özgürleşen sanat eserlerine örnek olabilir. Sergi sayesinde Van Gogh’un eserleri koleksiyonlarında bu eserlerin bulunduğu belli yerlerdeki müze ve galerile
-    > I, II ve III
+    > **Açıklama:** **20. yüzyılda kültür kavramı endüstrileşmiş, sanat nesnesi de alınıp satılan bir meta hâline gelmiştir.** Adorno (Adorno, 2011; 13) ve Lukacs gibi Frankfurt okulundan çağdaşlarının aksine Benjamin “Mekanik Çoğaltım Çağı”nı negatif bir olgu olarak anlamlandırmaz. Yeni teknolojilerin sanatın alımlanmasındaki demokratik etkilerine yoğunlaşır. Benjamin’e göre; sanat yapıtının tekniğin olanaklarıyla yeniden üretilebilirliği anda sanat yapıtı ilk kez kutsal törenlerin asalağı olmaktan kurtulup, özgürleşmiştir (Benjamin, 1992; 52). “Kapitalist Kültür Endüstri”sinden bağımsız insanların olabileceğini savunan Benjamin’i, Marshall McLuhan, Jean Baudrillard ve Paul Virilio gibi kuramcıların düşünceleri doğrular niteliktedir. Van Gogh Alive adlı gezici, dijital teknolojilerle desteklenmiş, çoklu ortam sergisi Benjamin’in<br />özgürleşen sanat eserlerine örnek olabilir. Sergi sayesinde Van Gogh’un eserleri koleksiyonlarında bu eserlerin bulunduğu belli yerlerdeki müze ve galerile<br />I, II ve III
 
     <hr />
 1. Aşağıdaki seçenlerden hangisi Marx'a göre yaratıcı sürecin işlemesindeki iki önemli bileşendir?
@@ -2465,8 +2252,7 @@
     - D-) Hayalcilik ve kuşkulanma
     - E-) Tasvir ve algı
 
-    > **Açıklama:** İnsanların, doğayı ve çevrelerini değiştirme çabası için harcanan emek Marx’a göre yaratıcıdır (Marx-Engels; 1973). Yaratıcı sürecin işlemesindeki iki önemli bileşen imgelem gücü ve soyut düşüncedir.
-    > İmgelem gücü ve soyut düşünce
+    > **Açıklama:** İnsanların, doğayı ve çevrelerini değiştirme çabası için harcanan emek Marx’a göre yaratıcıdır (Marx-Engels; 1973). Yaratıcı sürecin işlemesindeki iki önemli bileşen imgelem gücü ve soyut düşüncedir.<br />İmgelem gücü ve soyut düşünce
 
     <hr />
 1. Aşağıdakilerden hangisi ya da hangileri elektronik edebiyat türlerindendir?<br />I- Hipermetin Şiir<br />II- Etkileşimli Tiyatro<br />III- Kinetik Şiir
@@ -2476,8 +2262,7 @@
     - D-) I ve II
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** Elektronik edebiyat okur/kullanıcıları kapağı açıldığında müzik çalan bir kitaptan fazlasına sahiptirler. Elektronik edebiyat; hipermetin şiir, hipermetin kurgu, etkileşimli kurgu, kinetik şiir, üretken metin, etkileşimli tiyatro gibi pek çok türü barındırır.
-    > I, II ve III
+    > **Açıklama:** Elektronik edebiyat okur/kullanıcıları kapağı açıldığında müzik çalan bir kitaptan fazlasına sahiptirler. Elektronik edebiyat; hipermetin şiir, hipermetin kurgu, etkileşimli kurgu, kinetik şiir, üretken metin, etkileşimli tiyatro gibi pek çok türü barındırır.<br />I, II ve III
 
     <hr />
 1. Hangisi ya da hangileri dijital kültür çağı sanat kategorilerindendir?<br />I- Ağ Sanatı<br />II- Elektronik Edebiyat<br />III- Bilgisayar Oyunları
@@ -2487,8 +2272,7 @@
     - D-) II ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** Ağ ve bilgisayarlarla beslenen; ağ sanatı, elektronik edebiyat ve bilgisayar oyunları dijital kültür çağı sanatı kategorilerindendir.
-    > I, II ve III
+    > **Açıklama:** Ağ ve bilgisayarlarla beslenen; ağ sanatı, elektronik edebiyat ve bilgisayar oyunları dijital kültür çağı sanatı kategorilerindendir.<br />I, II ve III
 
     <hr />
 1. Aşağıdaki ifadelerden hangisi yanlıştır?
@@ -2498,8 +2282,7 @@
     - D-) Dijital teknolojiler, sanatçılara bu teknolojileri eserlerinin konusu yapmaları dışında, onları yaratmak için kullandıkları araç da olmuşlardır.
     - **Cevap E-) Görsel sanatlarda gerçekçilik kavramı, sanatçının eserini fiziksel dünyadaki görüntü kadar gerçekçi yapmasını sağlayacak zanaatkarlık üzerinden değerlendirilirken, 1 ve 0’lardan oluşan dijital dünyada durum tamamen aynıdır.**
 
-    > **Açıklama:** Görsel sanatlarda gerçekçilik kavramı, sanatçının eserini fiziksel dünyadaki görüntü kadar gerçekçi yapmasını sağlayacak zanaatkarlık üzerinden değerlendirilirken, 1 ve 0’lardan oluşan dijital dünyada durum farklıdır.
-    > Görsel sanatlarda gerçekçilik kavramı, sanatçının eserini fiziksel dünyadaki görüntü kadar gerçekçi yapmasını sağlayacak zanaatkarlık üzerinden değerlendirilirken, 1 ve 0’lardan oluşan dijital dünyada durum tamamen aynıdır.
+    > **Açıklama:** Görsel sanatlarda gerçekçilik kavramı, sanatçının eserini fiziksel dünyadaki görüntü kadar gerçekçi yapmasını sağlayacak zanaatkarlık üzerinden değerlendirilirken, 1 ve 0’lardan oluşan dijital dünyada durum farklıdır.<br />Görsel sanatlarda gerçekçilik kavramı, sanatçının eserini fiziksel dünyadaki görüntü kadar gerçekçi yapmasını sağlayacak zanaatkarlık üzerinden değerlendirilirken, 1 ve 0’lardan oluşan dijital dünyada durum tamamen aynıdır.
 
     <hr />
 1. Aşağıdaki ikililerden hangisi GAN'ın (Generative Adversarial Network) iki bölümünü ifade eder?
@@ -2509,8 +2292,7 @@
     - D-) İşlem-Algoritma
     - E-) Yapı-Kurum
 
-    > **Açıklama:** Yapay zekayı sanatın enstrümanı olarak kullanan sanatçılar, 2014 yılından itibaren çoğunlukla GAN (Generative Adversarial Network) adlı ağı kullanmaktadırlar. “Üretici”, ve “Ayrımcı” adlı iki bölümden oluşan bu yapay zeka ağında üretici yeni görüntüler yaratırken, ayrımcının rolü; hangi görüntülerin bilgisayarda üretildiğini bulmaktır.
-    > Üretici-Ayrımcı
+    > **Açıklama:** Yapay zekayı sanatın enstrümanı olarak kullanan sanatçılar, 2014 yılından itibaren çoğunlukla GAN (Generative Adversarial Network) adlı ağı kullanmaktadırlar. “Üretici”, ve “Ayrımcı” adlı iki bölümden oluşan bu yapay zeka ağında üretici yeni görüntüler yaratırken, ayrımcının rolü; hangi görüntülerin bilgisayarda üretildiğini bulmaktır.<br />Üretici-Ayrımcı
 
     <hr />
 1. Aşağdakilerden hangisi NFT kısaltmasının açılımıdır?
@@ -2530,8 +2312,7 @@
     - D-) Steve Jobs
     - E-) John M. Culkin
 
-    > **Açıklama:** İkinci Dünya Savaşı sırasında, İngilizlerin, Almanların kendi aralarındaki şifreli mesajlarını çözmek için yaptıkları çalışmalar, 1. nesil elektronik bilgisayarların doğmasına neden olmuştur. Alain Turing gibi öncüler tarafından geliştirilen bu ilk elektronik bilgisayarlar ortalama bir oda büyüklüğünde ve hayli karmaşık makineler olarak tarihe geçmişlerdir.
-    > Sorunun doğru yanıtı A seçeneğinde verilmiştir.
+    > **Açıklama:** İkinci Dünya Savaşı sırasında, İngilizlerin, Almanların kendi aralarındaki şifreli mesajlarını çözmek için yaptıkları çalışmalar, 1. nesil elektronik bilgisayarların doğmasına neden olmuştur. Alain Turing gibi öncüler tarafından geliştirilen bu ilk elektronik bilgisayarlar ortalama bir oda büyüklüğünde ve hayli karmaşık makineler olarak tarihe geçmişlerdir.<br />Sorunun doğru yanıtı A seçeneğinde verilmiştir.
 
     <hr />
 1. Fizik mühendisi Tim Berners-Lee internet ağı için üç ana yapı taşı geliştirmiştir. Aşağıdakilerden hangisi bu teknolojilerden birisidir?
@@ -2541,8 +2322,7 @@
     - D-) NCSA
     - E-) DARPA
 
-    > **Açıklama:** 1990’da ise internet teknolojilerini şekillendiren www (World wide web), İsviçre’nin Cenevre şehrindeki Avrupa Nükleer Araştırma Örgütü’nde (CERN) çalışan fizik mühendisi Tim Berners-Lee tarafından geliştirilmiştir. Berners-Lee, ağ için üç ana yapı taşı geliştirmiştir, bunlar; HTTP (Hiper metin transfer protokolü), HTML (Hiper metin işaretleme dili) ve ağdaki her dosyanın “adresi” için URL (Tekdüzen kaynak bulucu) teknolojileridir.
-    > Sorunun doğru yanıtı B seçeneğinde verilmiştir.
+    > **Açıklama:** 1990’da ise internet teknolojilerini şekillendiren www (World wide web), İsviçre’nin Cenevre şehrindeki Avrupa Nükleer Araştırma Örgütü’nde (CERN) çalışan fizik mühendisi Tim Berners-Lee tarafından geliştirilmiştir. Berners-Lee, ağ için üç ana yapı taşı geliştirmiştir, bunlar; HTTP (Hiper metin transfer protokolü), HTML (Hiper metin işaretleme dili) ve ağdaki her dosyanın “adresi” için URL (Tekdüzen kaynak bulucu) teknolojileridir.<br />Sorunun doğru yanıtı B seçeneğinde verilmiştir.
 
     <hr />
 1. Kevin Systrom ve Mike Krieger tarafından Ekim 2010’da ücretsiz olarak kullanıma açılan fotoğraf ve video paylaşma uygulaması aşağıdakilerden hangisidir?
@@ -2552,8 +2332,7 @@
     - D-) Tumblr
     - **Cevap E-) Instagram**
 
-    > **Açıklama:** Kevin Systrom ve Mike Krieger tarafından Ekim 2010’da ücretsiz olarak kullanıma açılan Instagram, fotoğraf ve video paylaşma uygulamasıdır.
-    > Kevin Systrom ve Mike Krieger tarafından Ekim 2010’da ücretsiz olarak kullanıma açılan Instagram, fotoğraf ve video paylaşma uygulamasıdır.
+    > **Açıklama:** Kevin Systrom ve Mike Krieger tarafından Ekim 2010’da ücretsiz olarak kullanıma açılan Instagram, fotoğraf ve video paylaşma uygulamasıdır.<br />Kevin Systrom ve Mike Krieger tarafından Ekim 2010’da ücretsiz olarak kullanıma açılan Instagram, fotoğraf ve video paylaşma uygulamasıdır.
 
     <hr />
 1. Daha soyut bir kavram olan, 2020’lerde gelişimini sürdüren \_\_\_\_\_\_\_\_\_ kavramı ise Berners-Lee’nin tanımından yola çıkarak, “oku, yaz, uygula” şeklinde tanımlanabilir. Semantik web olarak da bilinen bu yeni aşamasında webin anlamsal biçimlendirme işlevi öne çıkar.<br />Yukarıdaki boşluğa aşağıdakilerden hangisinin gelmesi daha uygun olur?
@@ -2563,8 +2342,7 @@
     - **Cevap D-) Web 3.0**
     - E-) Sanal Gerçeklik
 
-    > **Açıklama:** Daha soyut bir kavram olan, 2020’lerde gelişimini sürdüren Web 3.0 kavramı ise Berners-Lee’nin tanımından yola çıkarak, “oku, yaz, uygula” şeklinde tanımlanabilir. Semantik web olarak da bilinen bu yeni aşamasında webin anlamsal biçimlendirme işlevi öne çıkar.
-    > Sorunun doğru cevabı D seçeneğinde verilmiştir.
+    > **Açıklama:** Daha soyut bir kavram olan, 2020’lerde gelişimini sürdüren Web 3.0 kavramı ise Berners-Lee’nin tanımından yola çıkarak, “oku, yaz, uygula” şeklinde tanımlanabilir. Semantik web olarak da bilinen bu yeni aşamasında webin anlamsal biçimlendirme işlevi öne çıkar.<br />Sorunun doğru cevabı D seçeneğinde verilmiştir.
 
     <hr />
 1. Yazdığı ünlü makalesinde İlk Çağ’dan 20. yüzyıla kadar sanat eserini kuşatan “aura” kavramını tanımlayan, çoğaltma teknolojileriyle birlikte bu “aura”nın nasıl yok olduğunu çözümleyen ve bu yok oluşun sosyal temelini, çağdaş kitlelerin evrensel eşitlik algısıyla ilişkilendiren ünlü edebiyat eleştirmen kimdir?
@@ -2574,8 +2352,7 @@
     - D-) Thedor Adorno
     - **Cevap E-) Walter Benjamin**
 
-    > **Açıklama:** Walter Benjamin İlk Çağ’dan 20. yüzyıla kadar sanat eserini kuşatan “aura” kavramını da tanımlamaktır. Benjamin, makalesinde çoğaltma teknolojileriyle birlikte bu “aura”nın nasıl yok olduğunu çözümler ve bu yok oluşun sosyal temelini, çağdaş kitlelerin evrensel eşitlik algısıyla ilişkilendirir.
-    > Sorunun doğru cevabı E seçeneğinde verilmiştir.
+    > **Açıklama:** Walter Benjamin İlk Çağ’dan 20. yüzyıla kadar sanat eserini kuşatan “aura” kavramını da tanımlamaktır. Benjamin, makalesinde çoğaltma teknolojileriyle birlikte bu “aura”nın nasıl yok olduğunu çözümler ve bu yok oluşun sosyal temelini, çağdaş kitlelerin evrensel eşitlik algısıyla ilişkilendirir.<br />Sorunun doğru cevabı E seçeneğinde verilmiştir.
 
     <hr />
 1. Elektronik edebiyat pek çok alt türü barındırır. Aşağıdakilerden hangisi bu türlerden birisi değildir?
@@ -2585,8 +2362,7 @@
     - D-) Etkileşimli tiyatro
     - E-) Üretken metin
 
-    > **Açıklama:** Elektronik edebiyat; hipermetin şiir, hipermetin kurgu, etkileşimli kurgu, kinetik şiir, üretken metin, etkileşimli tiyatro gibi pek çok türü barındırır.
-    > Elektronik edebiyat basılı değildir.
+    > **Açıklama:** Elektronik edebiyat; hipermetin şiir, hipermetin kurgu, etkileşimli kurgu, kinetik şiir, üretken metin, etkileşimli tiyatro gibi pek çok türü barındırır.<br />Elektronik edebiyat basılı değildir.
 
     <hr />
 1. Elektronik edebiyatın tarihi hangi şairin 1959 yılında “Stochastische Texte” adını verdiği bilgisayarda yaratılmış şiiri ile başlar?
@@ -2596,8 +2372,7 @@
     - **Cevap D-) Theo Lutz**
     - E-) Walter Benjamin
 
-    > **Açıklama:** Elektronik edebiyatın tarihi Theo Lutz’ın 1959 yılında “Stochastische Texte” adını verdiği bilgisayarda yaratılmış şiiri ile başlar.
-    > Sorunun doğru yanıtı D seçeneğinde verilmiştir.
+    > **Açıklama:** Elektronik edebiyatın tarihi Theo Lutz’ın 1959 yılında “Stochastische Texte” adını verdiği bilgisayarda yaratılmış şiiri ile başlar.<br />Sorunun doğru yanıtı D seçeneğinde verilmiştir.
 
     <hr />
 1. Ağ tabanlı popüler kültür ürünleri, dijital ve ağ tabanlı sanat uygulamaları, elektronik edebiyat ve bilgisayar oyunları, anlatı ve oyun teorisi çalışmaları konseptinde analiz edilmektedir. Bu yeni sanat ortamında farklı araç ve ortamları kullanan türler bulunur. Aşağıdakilerden hangisi bunlardan birisi değildir?
@@ -2607,8 +2382,7 @@
     - D-) Web tarayıcı
     - E-) Yazılım
 
-    > **Açıklama:** Ağ tabanlı popüler kültür ürünleri, dijital ve ağ tabanlı sanat uygulamaları, elektronik edebiyat ve bilgisayar oyunları, anlatı ve oyun teorisi çalışmaları konseptinde analiz edilmektedir. Bu yeni sanat ortamında e-posta, canlı video, yazılım, web enstalasyonları, ses, web tarayıcı, istemsiz e-posta (spam e-mail) sanatı gibi farklı araç ve ortamları kullanan türler bulunur.
-    > Sorunun doğru yanıtı C seçeneğinde verilmiştir.
+    > **Açıklama:** Ağ tabanlı popüler kültür ürünleri, dijital ve ağ tabanlı sanat uygulamaları, elektronik edebiyat ve bilgisayar oyunları, anlatı ve oyun teorisi çalışmaları konseptinde analiz edilmektedir. Bu yeni sanat ortamında e-posta, canlı video, yazılım, web enstalasyonları, ses, web tarayıcı, istemsiz e-posta (spam e-mail) sanatı gibi farklı araç ve ortamları kullanan türler bulunur.<br />Sorunun doğru yanıtı C seçeneğinde verilmiştir.
 
     <hr />
 1. Sanat eserinin üretiminden sunumuna kadar dijital teknolojilerin kullanımı belli kategorilerden oluşur. Aşağıdakilerden hangisi bunlardan birisi değildir?
@@ -2618,8 +2392,7 @@
     - D-) Arttırılmış gerçeklik
     - E-) Enstalasyon
 
-    > **Açıklama:** Üretiminden sunumuna kadar dijital teknolojilerin kullanımı: • Yerleştirme (Enstalasyon) Film, video ve animasyon • Internet ve ağ sanatı • Yazılım sanatı (Software art) • Sanal gerçeklik (virtual reality) ve artırılmış gerçeklik (augmented reality) • Oyunlar ve sosyal dünyalar
-    > Sorunun doğru yanıtı B seçeneğinde verilmiştir.
+    > **Açıklama:** Üretiminden sunumuna kadar dijital teknolojilerin kullanımı: • Yerleştirme (Enstalasyon) Film, video ve animasyon • Internet ve ağ sanatı • Yazılım sanatı (Software art) • Sanal gerçeklik (virtual reality) ve artırılmış gerçeklik (augmented reality) • Oyunlar ve sosyal dünyalar<br />Sorunun doğru yanıtı B seçeneğinde verilmiştir.
 
     <hr />
 1. Yapay zekayı sanatın enstrümanı olarak kullanan sanatçılar, 2014 yılından itibaren çoğunlukla aşağıdakilerden hangisini kullanmaktadırlar?
@@ -2629,8 +2402,7 @@
     - D-) DALL-E
     - E-) NFT
 
-    > **Açıklama:** Yapay zekayı sanatın enstrümanı olarak kullanan sanatçılar, 2014 yılından itibaren çoğunlukla GAN (Generative Adversarial Network) adlı ağı kullanmaktadırlar.
-    > Sorunun doğru yanıtı A seçeneğinde verilmiştir.
+    > **Açıklama:** Yapay zekayı sanatın enstrümanı olarak kullanan sanatçılar, 2014 yılından itibaren çoğunlukla GAN (Generative Adversarial Network) adlı ağı kullanmaktadırlar.<br />Sorunun doğru yanıtı A seçeneğinde verilmiştir.
 
     <hr />
 1. **Aşağıdaki ifadelerden hangisi** **“kültür”ün tanımlarından biri değildir?**
@@ -2790,12 +2562,7 @@
     - D-) Oyunlar
     - E-) Sanal Gerçeklik
 
-    > **Açıklama:** Ortam Olarak Üretiminden sunumuna kadar dijital teknolojilerin kullanımı:
-    > • Yerleştirme (Enstalasyon) Film, video ve animasyon
-    > • Internet ve ağ sanatı
-    > • Yazılım sanatı (Software art)
-    > • Sanal gerçeklik (virtual reality) ve artırılmış gerçeklik (augmented reality)
-    > • Oyunlar ve sosyal dünyalar
+    > **Açıklama:** Ortam Olarak Üretiminden sunumuna kadar dijital teknolojilerin kullanımı:<br />• Yerleştirme (Enstalasyon) Film, video ve animasyon<br />• Internet ve ağ sanatı<br />• Yazılım sanatı (Software art)<br />• Sanal gerçeklik (virtual reality) ve artırılmış gerçeklik (augmented reality)<br />• Oyunlar ve sosyal dünyalar
 
     <hr />
 1. “Görünür kılmak, zihinde bir imaj yaratmak anlamına gelir. İşlemi öncesi zihinde görsel bir form yoktur. Form bu işlemin sonunda oluşur. 1990’lardan itibarense bu defa verileri anlamlandırmak için, farklı tekniklerle ve daha soyut şekilde yapılmaya başlanmıştır”<br />Bu ifadeler aşağıdakilerden hangisini tanımlamaktadır?
@@ -2905,8 +2672,7 @@
     - **Cevap D-) Resim sanatı**
     - E-) Sanal gerçeklik sanatı
 
-    > **Açıklama:** 1970’lerden itibaren bilgisayar sanatı, çoklu ortam sanatı, dijital sanat, ağ sanatı, dijital yerleştirme sanatı, sanal gerçeklik sanatı gibi, üretildiği veya sergilendiği teknolojiye göre isimlendiren, yeni dijital ifade biçimlerini, yeni medya sanatı adı altında toplamak mümkündür.
-    > Yerleştirme sanatı ya da enstalasyon bilgisayarın olmadığı fiziksel ortamlar için de mümkündür. Bu yüzden yeni medya yerleştirmeleri "dijital yerleştirme", "web yerleştirmesi" şeklinde ifade edilerek diğerinden ayrılır.
+    > **Açıklama:** 1970’lerden itibaren bilgisayar sanatı, çoklu ortam sanatı, dijital sanat, ağ sanatı, dijital yerleştirme sanatı, sanal gerçeklik sanatı gibi, üretildiği veya sergilendiği teknolojiye göre isimlendiren, yeni dijital ifade biçimlerini, yeni medya sanatı adı altında toplamak mümkündür.<br />Yerleştirme sanatı ya da enstalasyon bilgisayarın olmadığı fiziksel ortamlar için de mümkündür. Bu yüzden yeni medya yerleştirmeleri "dijital yerleştirme", "web yerleştirmesi" şeklinde ifade edilerek diğerinden ayrılır.
 
     <hr />
 1. Aşağıdakilerden hangisi dijital teknolojilerin sanat için **ortam olarak** kullanımına örnektir?
@@ -2947,8 +2713,7 @@
     - D-) Yunanistan’da Olympia Antik Kenti’nde yapılan arkeolojik kazılarda.
     - E-) İran’da yapılan arkeolojik kazılarda.
 
-    > **Açıklama:** OYUN NEDİR?
-    > Siirt Başur Höyük’te yapılan arkeolojik kazılarda.
+    > **Açıklama:** OYUN NEDİR?<br />Siirt Başur Höyük’te yapılan arkeolojik kazılarda.
 
     <hr />
 1. Dijital oyunların bilimsel çalışmalardan ticari değere sahip ürünlere dönüşümü hangi yıla rastlar?
@@ -2958,9 +2723,7 @@
     - D-) 1980
     - E-) 1995
 
-    > **Açıklama:** 137
-    > DİJİTAL OYUNLAR
-    > 1972
+    > **Açıklama:** 137<br />DİJİTAL OYUNLAR<br />1972
 
     <hr />
 1. Aşağıdaki ifade, Janet H. Murray’e göre dijital medyaya özgü temel özelliklerden hangisini tanımlar?<br />“Dijital teknolojinin en önemli niteliklerinin başında doğrudan interaktif geri besleme olanağı sunması gelir. Dijital sistemler kullanıcının girdilerine dinamik şekilde, eş zamanlı tepki verirler.”
@@ -2970,8 +2733,7 @@
     - D-) Hedef vurmayı simule etme niteliği
     - E-) Ansiklopedik nitelik
 
-    > **Açıklama:** Dijital Medya ve Oyun
-    > Katılım
+    > **Açıklama:** Dijital Medya ve Oyun<br />Katılım
 
     <hr />
 1. Hangisi bir yaratıcı temsil sistemi olan dijital oyunların özelliklerinden biri **değildir**?
@@ -2981,8 +2743,7 @@
     - D-) Oyunlar, oyuncular arasında iletişimi mümkün kılar.
     - **Cevap E-) Oyuncular, kurallarla sınırları belirlenen yönergeleri izleyerek oyunda adım adım ilerler.**
 
-    > **Açıklama:** Dijital Medya ve Oyun
-    > Oyuncular, kurallarla sınırları belirlenen yönergeleri izleyerek oyunda adım adım ilerler.
+    > **Açıklama:** Dijital Medya ve Oyun<br />Oyuncular, kurallarla sınırları belirlenen yönergeleri izleyerek oyunda adım adım ilerler.
 
     <hr />
 1. 2021 yılı verilerine göre küresel oyun endüstrisinden en yüksek gelir elde eden ülke hangisidir?
@@ -2992,8 +2753,7 @@
     - **Cevap D-) Çin**
     - E-) Almanya
 
-    > **Açıklama:** Dijital Medya ve Oyun
-    > Çin
+    > **Açıklama:** Dijital Medya ve Oyun<br />Çin
 
     <hr />
 1. Richard Bartle’a göre çok-oyunculu dijital oyunlarda hangi tip oyuncular, belirlenmiş oyun hedeflerini yerine getirmek ve oyunda yükselmek için oynarlar; oyunda üst seviyelere ulaşmayı, skor listelerinde başarılarını diğer oyuncularla paylaşmayı hedeflerler?
@@ -3003,8 +2763,7 @@
     - **Cevap D-) **Başaranlar****
     - E-) Yarışanlar
 
-    > **Açıklama:** Oyuncu Tipleri
-    > Başaranlar
+    > **Açıklama:** Oyuncu Tipleri<br />Başaranlar
 
     <hr />
 1. Hangisi oyunların spesifik bir amaca hizmet edecek şekilde kullanılmasını ifade eder?
@@ -3024,8 +2783,7 @@
     - **Cevap D-) Ayiti: The Cost of Life**
     - E-) Passage
 
-    > **Açıklama:** Ciddi Oyunlar
-    > Ayiti: The Cost of Life
+    > **Açıklama:** Ciddi Oyunlar<br />Ayiti: The Cost of Life
 
     <hr />
 1. Hangi uygulamalar sanal ve gerçek nesnelerin bir araya geldiği dijital uzam ve fiziki uzam arasında melez bir ortam oluşturulması sürecini ifade eder?
@@ -3035,8 +2793,7 @@
     - D-) Katılım
     - E-) Ansiklopedik nitelik
 
-    > **Açıklama:** Ciddi Oyunlar
-    > Arttırılmış Gerçeklik
+    > **Açıklama:** Ciddi Oyunlar<br />Arttırılmış Gerçeklik
 
     <hr />
 1. Son yıllarda tüm dünyada ilgi gören e-sporun ulusal bir hobi etkinliği olarak kabul edilmeye başlandığı ülkelerin başında gelen ülke hangisidir?
@@ -3046,8 +2803,7 @@
     - D-) Avustralya
     - **Cevap E-) Güney Kore**
 
-    > **Açıklama:** E-Sporlar
-    > Güney Kore
+    > **Açıklama:** E-Sporlar<br />Güney Kore
 
     <hr />
 1. Donanım ve yazılım katmanlarından oluşan bilgi işleme sistemlerine ne ad verilir?
@@ -3077,8 +2833,7 @@
     - D-) Siyah ve beyaz taşlardan 24 adet bulunur.
     - **Cevap E-) Taşların nasıl hareket edeceğini oyuncu kendi belirlemez.**
 
-    > **Açıklama:** Oyuncunun çabası: Oyuncu, taşların nasıl hareket edeceğini kendi belirlemektedir. Zar atma gibi şans faktörleri bu oyunda yoktur.
-    > Taşların nasıl hareket edeceğini oyuncu kendi belirlemez.
+    > **Açıklama:** Oyuncunun çabası: Oyuncu, taşların nasıl hareket edeceğini kendi belirlemektedir. Zar atma gibi şans faktörleri bu oyunda yoktur.<br />Taşların nasıl hareket edeceğini oyuncu kendi belirlemez.
 
     <hr />
 1. Aşağıdakilerden hangisi dijital oyunların içine gizlenmiş bir mesaj, imaj vb. ifade eder?
@@ -3138,8 +2893,7 @@
     - D-) Gerçek zaman
     - **Cevap E-) Sanal düzlem**
 
-    > **Açıklama:** Toplumun oyunlaşması sürecinin teknolojik yönlerinden birini simgeleyen arttırılmış gerçeklik uygulamaları sanal nesnelerin fiziki gerçeklikteki nesnelerle aynı uzamı paylaştığı bir sistemi ifade eder. Arttırılmış gerçeklik üç temel nitelik ile tanımlanır: gerçek ve sanal objeler (1) gerçek bir uzamda, (2) gerçek zamanlı olarak (3) etkileşime girerler.
-    > Sanal düzlem
+    > **Açıklama:** Toplumun oyunlaşması sürecinin teknolojik yönlerinden birini simgeleyen arttırılmış gerçeklik uygulamaları sanal nesnelerin fiziki gerçeklikteki nesnelerle aynı uzamı paylaştığı bir sistemi ifade eder. Arttırılmış gerçeklik üç temel nitelik ile tanımlanır: gerçek ve sanal objeler (1) gerçek bir uzamda, (2) gerçek zamanlı olarak (3) etkileşime girerler.<br />Sanal düzlem
 
     <hr />
 1. Oyunların spesifik bir amaca hizmet edecek şekilde kullanılmasını ifade eden oyun tanımı aşağıdakilerden hangisine aittir?
@@ -3159,8 +2913,7 @@
     - D-) ATM uyarlama katmanı
     - E-) Brouter
 
-    > **Açıklama:** DİJİTAL OYUNLAR
-    > Donanım ve yazılım katmanlarından oluşan bilgi işleme sistemlerine Platform denir. Platform araştırmaları perspektifine göre bu katmanlar arasındaki etkileşimler sadece teknolojik değil, aynı zamanda sosyokültürel sonuçlar da doğurur. Örneğin oyuncuların beden hareketleri ile kontrol ettikleri Wii gibi oyun konsolları 2000’li yılların ortasında toplumda var olan antisosyal oyuncu algısının değişimine katkı sağlamıştır.
+    > **Açıklama:** DİJİTAL OYUNLAR<br />Donanım ve yazılım katmanlarından oluşan bilgi işleme sistemlerine Platform denir. Platform araştırmaları perspektifine göre bu katmanlar arasındaki etkileşimler sadece teknolojik değil, aynı zamanda sosyokültürel sonuçlar da doğurur. Örneğin oyuncuların beden hareketleri ile kontrol ettikleri Wii gibi oyun konsolları 2000’li yılların ortasında toplumda var olan antisosyal oyuncu algısının değişimine katkı sağlamıştır.
 
     <hr />
 1. Aşağıdakilerden hangisi Dijital Oyun kültürü için söylenebilir?
@@ -3170,8 +2923,7 @@
     - D-) Oyun kültürü özellikleri bu kavrama tekil özellikler katar.
     - E-) Dijital oyunlarda tekil bir dijital oyun kültüründen söz etmek mümkündür.
 
-    > **Açıklama:** DİJİTAL OYUNLAR
-    > Dijital oyunların, oyuncuların ve dijital oyun- lar etrafında gelişen kültürün homojen bir yapısı yoktur. Oyun konsolları, mobil cihazlar, bilgisayarlar veya bunlara bağlı sanal gerçeklik donanımları ile tek başına, bir grup hâlinde veya devasa toplulukların bir parçası olarak oyun oynamak arasında platform, platformun ifade olanakları, estetiği ve dili, oyuncu profilleri ve toplulukları, iş modeli gibi pek çok alanda önemli farklar vardır. Benzer olarak Türkiye’deki oyun kültürünü, söz gelimi ABD’deki oyun kültüründen ya da Güney Kore’deki oyun kültüründen ayıran derin toplumsal farklar mevcuttur. Oyun kültürü çeşitlilik içerir, karmaşık süreçlerden oluşur ve sürekli bir devinim ve dönüşüm içindedir. Tam da bu nedenlerle tekil bir dijital oyun kültüründen söz edilemez. Ancak oyun pratiklerinin, deneyimlerinin kurumsallaşması olarak ifade edilebilecek, giderek gelişen ve pekişen, toplumsal süreçlere etki eden ve çağdaş toplumsal süreçleri anlamak üzere bize bir kavramsal çerçeve sağlayacak şekilde devamlılık gösteren bir dijital oyun kültüründen söz etmek mümkündür.
+    > **Açıklama:** DİJİTAL OYUNLAR<br />Dijital oyunların, oyuncuların ve dijital oyun- lar etrafında gelişen kültürün homojen bir yapısı yoktur. Oyun konsolları, mobil cihazlar, bilgisayarlar veya bunlara bağlı sanal gerçeklik donanımları ile tek başına, bir grup hâlinde veya devasa toplulukların bir parçası olarak oyun oynamak arasında platform, platformun ifade olanakları, estetiği ve dili, oyuncu profilleri ve toplulukları, iş modeli gibi pek çok alanda önemli farklar vardır. Benzer olarak Türkiye’deki oyun kültürünü, söz gelimi ABD’deki oyun kültüründen ya da Güney Kore’deki oyun kültüründen ayıran derin toplumsal farklar mevcuttur. Oyun kültürü çeşitlilik içerir, karmaşık süreçlerden oluşur ve sürekli bir devinim ve dönüşüm içindedir. Tam da bu nedenlerle tekil bir dijital oyun kültüründen söz edilemez. Ancak oyun pratiklerinin, deneyimlerinin kurumsallaşması olarak ifade edilebilecek, giderek gelişen ve pekişen, toplumsal süreçlere etki eden ve çağdaş toplumsal süreçleri anlamak üzere bize bir kavramsal çerçeve sağlayacak şekilde devamlılık gösteren bir dijital oyun kültüründen söz etmek mümkündür.
 
     <hr />
 1. Tarihin bilinen en eski oyun seti nerede bulunmuş ve hangi yıla tarihlenmiştir?
@@ -3181,8 +2933,7 @@
     - D-) Aizonai, M.Ö. 2.200
     - E-) Han, M.Ö. 3.000
 
-    > **Açıklama:** DİJİTAL OYUNLAR
-    > Siirt Başur Höyük’te yapılan arkeolojik kazılarda ortaya çıkarılan ve günümüzden 5000 yıl öncesine tarihlenen oyun taşları tarihin bilinen en eski oyun setine aittir.
+    > **Açıklama:** DİJİTAL OYUNLAR<br />Siirt Başur Höyük’te yapılan arkeolojik kazılarda ortaya çıkarılan ve günümüzden 5000 yıl öncesine tarihlenen oyun taşları tarihin bilinen en eski oyun setine aittir.
 
     <hr />
 1. Oyunu; Özgürce razı olunan, ama tamamen emredici kurallara uygun olarak belirli zaman ve mekân sınırları içinde gerçekleştirilen, bizatihi bir amaca sahip olan, bir gerilim ve sevinç duygusu ile "alışılmış hayat"tan "başka türlü olmak" bilincinin eşlik ettiği, iradi bir eylem veya faaliyet olarak tanımlayan antropolog aşağıdakilerden hangisidir?
@@ -3192,8 +2943,7 @@
     - D-) Roger Caillois
     - **Cevap E-) Johan Huizinga**
 
-    > **Açıklama:** OYUN NEDİR?
-    > Hollandalı antropolog Johan Huizinga, 1938’de Türkçeye “Oyun Oynayan İnsan” olarak çevirebileceğimiz ve çağdaş oyun araştırmaları disiplininin temelini de oluşturan Homo Ludens adlı kitabını yayımladı. Tarih boyunca iş ve diğer “ciddi” etkinliklere göre değersizleştirilen oyunların ve oyun oynama etkinliğinin kültür içindeki değerini ve önemini ortaya koymayı amaçlayan Huizinga oyunu, “özgürce razı olunan, ama tamamen emredici kurallara uygun olarak belirli zaman ve mekân sınırları içinde gerçekleştirilen, bizatihi bir amaca sahip olan, bir gerilim ve sevinç duygusu ile "alışılmış hayat’"tan "başka türlü olmak" bilincinin eşlik ettiği, iradi bir eylem veya faaliyet” olarak tanımlamıştır.
+    > **Açıklama:** OYUN NEDİR?<br />Hollandalı antropolog Johan Huizinga, 1938’de Türkçeye “Oyun Oynayan İnsan” olarak çevirebileceğimiz ve çağdaş oyun araştırmaları disiplininin temelini de oluşturan Homo Ludens adlı kitabını yayımladı. Tarih boyunca iş ve diğer “ciddi” etkinliklere göre değersizleştirilen oyunların ve oyun oynama etkinliğinin kültür içindeki değerini ve önemini ortaya koymayı amaçlayan Huizinga oyunu, “özgürce razı olunan, ama tamamen emredici kurallara uygun olarak belirli zaman ve mekân sınırları içinde gerçekleştirilen, bizatihi bir amaca sahip olan, bir gerilim ve sevinç duygusu ile "alışılmış hayat’"tan "başka türlü olmak" bilincinin eşlik ettiği, iradi bir eylem veya faaliyet” olarak tanımlamıştır.
 
     <hr />
 1. 1960'larda oyun ve oynama deneyimleri arasındaki farka dikkat çeken sosyolog aşağıdakilerden hangisidir?
@@ -3203,8 +2953,7 @@
     - D-) Eric Zimmerman
     - E-) Jesper Juul
 
-    > **Açıklama:** OYUN NEDİR?
-    > 20\. yüzyılın ikinci yarısında Huizinga’nın oyun tanımını ve sihirli çember yaklaşımını başlangıç noktası olarak alan bir dizi çalışma, oyunlara yönelik yeni tanım ve kriterler ortaya koymuştur. 1960’larda Fransız sosyolog Roger Caillois oyun ve oynama deneyimleri arasındaki farka dikkat çeker. Buna göre oynamak, her zaman bir oyunun oynanması anlamına gelmeyebilir. Bu ayrım, her iki kavramın farklı sözcüklerle ifade edildiği dillerde çok daha belirgindir. Örneğin İngilizcede oyun game sözcüğü ile ifade edilirken oynamak için play sözcüğü kullanılır. Caillois ise bu ayrımı ortaya koymak için ludus ve paidia kavramlarını önerir. Ludus, önceden belirlenmiş kurallar ve hedeflerle yapılandırılmış bir oyun deneyimini ifade eder. Paidia ise oyuncunun şekillendirdiği, önceden yapılandırılmamış, özgürce hareket edilebilen serbest oynama deneyimlerini ifade eder.
+    > **Açıklama:** OYUN NEDİR?<br />20\. yüzyılın ikinci yarısında Huizinga’nın oyun tanımını ve sihirli çember yaklaşımını başlangıç noktası olarak alan bir dizi çalışma, oyunlara yönelik yeni tanım ve kriterler ortaya koymuştur. 1960’larda Fransız sosyolog Roger Caillois oyun ve oynama deneyimleri arasındaki farka dikkat çeker. Buna göre oynamak, her zaman bir oyunun oynanması anlamına gelmeyebilir. Bu ayrım, her iki kavramın farklı sözcüklerle ifade edildiği dillerde çok daha belirgindir. Örneğin İngilizcede oyun game sözcüğü ile ifade edilirken oynamak için play sözcüğü kullanılır. Caillois ise bu ayrımı ortaya koymak için ludus ve paidia kavramlarını önerir. Ludus, önceden belirlenmiş kurallar ve hedeflerle yapılandırılmış bir oyun deneyimini ifade eder. Paidia ise oyuncunun şekillendirdiği, önceden yapılandırılmamış, özgürce hareket edilebilen serbest oynama deneyimlerini ifade eder.
 
     <hr />
 1. Oyuncunun şekillendirdiği, önceden yapılandırılmamış, özgürce hareket edilebilen serbest oynama deneyimlerini ifade eden terim aşağıdakilerden hangisidir?
@@ -3214,8 +2963,7 @@
     - D-) Play
     - E-) Serbest Oyun
 
-    > **Açıklama:** OYUN NEDİR?
-    > Ludus, önceden belirlenmiş kurallar ve hedeflerle yapılandırılmış bir oyun deneyimini ifade eder. Paidia ise oyuncunun şekillendirdiği, önceden yapılandırılmamış, özgürce hareket edilebilen serbest oynama deneyimlerini ifade eder.
+    > **Açıklama:** OYUN NEDİR?<br />Ludus, önceden belirlenmiş kurallar ve hedeflerle yapılandırılmış bir oyun deneyimini ifade eder. Paidia ise oyuncunun şekillendirdiği, önceden yapılandırılmamış, özgürce hareket edilebilen serbest oynama deneyimlerini ifade eder.
 
     <hr />
 1. Aşağıda "Oyun" için söylenenlerden hangisi doğru **değildir?**
@@ -3225,8 +2973,7 @@
     - D-) Oyunlar bir tür aktivite, süreç ya da etkinlik içerir.
     - E-) Oyunlar karar verme süreçleri içerir.
 
-    > **Açıklama:** OYUN NEDİR?
-    > Oyunların, oyuncuları sınırlandıran kuralları vardır. Kuralsız oyun olmaz. Kuralların ihlal edilmesi oyunu ortadan kaldırır.
+    > **Açıklama:** OYUN NEDİR?<br />Oyunların, oyuncuları sınırlandıran kuralları vardır. Kuralsız oyun olmaz. Kuralların ihlal edilmesi oyunu ortadan kaldırır.
 
     <hr />
 1. Sistem kavramını oyun tanımının temelinde yer veren oyun araştırmacıları aşağıdakilerden hangisidir?
@@ -3236,8 +2983,7 @@
     - D-) Chris Crawford, David Kelley
     - E-) David Parlett, Roger Caillois
 
-    > **Açıklama:** OYUN NEDİR?
-    > Salen Tekinbaş ve Zimmerman (2004) oyun kavramına ilişkin kendi geliştirdikleri tanımı şöyle ifade ederler: “Bir oyun, oyuncuların, kurallarla tanımlanmış yapay bir çatışmaya girdiği ve ölçülebilir sonuçlar ortaya koyan bir sistemdir”. Salen Tekinbaş ve Zimmerman’ın yaklaşımında sistem kavramı oyun tanımının temelinde yer alır. Oyuncular, oyunun oynanışını deneyimlemek üzere bu sistemle etkileşime girerler. Oyunun belli bir zamanı ve mekânı vardır ve yapay sınırlarla gerçek yaşamdan ayrılır.
+    > **Açıklama:** OYUN NEDİR?<br />Salen Tekinbaş ve Zimmerman (2004) oyun kavramına ilişkin kendi geliştirdikleri tanımı şöyle ifade ederler: “Bir oyun, oyuncuların, kurallarla tanımlanmış yapay bir çatışmaya girdiği ve ölçülebilir sonuçlar ortaya koyan bir sistemdir”. Salen Tekinbaş ve Zimmerman’ın yaklaşımında sistem kavramı oyun tanımının temelinde yer alır. Oyuncular, oyunun oynanışını deneyimlemek üzere bu sistemle etkileşime girerler. Oyunun belli bir zamanı ve mekânı vardır ve yapay sınırlarla gerçek yaşamdan ayrılır.
 
     <hr />
 1. Oyun, değişken ve ölçülebilir bir sonucu olan, farklı sonuçlara farklı değerlerin atandığı, oyuncunun sonucu etkilemek için çaba sarf ettiği, oyuncunun sonuca duygusal olarak bağlı hissettiği ve etkinliğin sonuçlarının pazarlık edilebilir olduğu kural tabanlı bir sistemdir” tanımını yapan oyun bilimci aşağıdakilerden hangisidir?
@@ -3247,8 +2993,7 @@
     - **Cevap D-) Jesper Juul**
     - E-) Katie Salen Tekinbaş
 
-    > **Açıklama:** OYUN NEDİR?
-    > Juul oyun kavramını şöyle tanımlar: “Oyun, değişken ve ölçülebilir bir sonucu olan, farklı sonuçlara farklı değerlerin atandığı, oyuncunun sonucu etkilemek için çaba sarf ettiği, oyuncunun sonuca duygusal olarak bağlı hissettiği ve etkinliğin sonuçlarının pazarlık edilebilir olduğu kural tabanlı bir sistemdir”. Juul’un ortaya koyduğu tanımın temel unsurlarını şöyle açıklamak mümkündür. Oyunlar kural tabanlıdır. Oyunların değişkenleri ve ölçülebilir sonuçları vardır. Oyunun farklı sonuçlarına farklı değerler atanır. Bu değerlerin bazıları pozitif, bazıları ise negatif niteliktedir. Oyun, sonucu etkileyebilmek için çaba sarf eder. Oyuncu, oyunun sonucuna duygusal olarak bağlıdır. Bir diğer deyişle, olumlu bir sonuç elde etmesi hâlinde mutlu olacak, olumsuz bir sonuç elde etmesi hâlinde ise mutsuz olacaktır.
+    > **Açıklama:** OYUN NEDİR?<br />Juul oyun kavramını şöyle tanımlar: “Oyun, değişken ve ölçülebilir bir sonucu olan, farklı sonuçlara farklı değerlerin atandığı, oyuncunun sonucu etkilemek için çaba sarf ettiği, oyuncunun sonuca duygusal olarak bağlı hissettiği ve etkinliğin sonuçlarının pazarlık edilebilir olduğu kural tabanlı bir sistemdir”. Juul’un ortaya koyduğu tanımın temel unsurlarını şöyle açıklamak mümkündür. Oyunlar kural tabanlıdır. Oyunların değişkenleri ve ölçülebilir sonuçları vardır. Oyunun farklı sonuçlarına farklı değerler atanır. Bu değerlerin bazıları pozitif, bazıları ise negatif niteliktedir. Oyun, sonucu etkileyebilmek için çaba sarf eder. Oyuncu, oyunun sonucuna duygusal olarak bağlıdır. Bir diğer deyişle, olumlu bir sonuç elde etmesi hâlinde mutlu olacak, olumsuz bir sonuç elde etmesi hâlinde ise mutsuz olacaktır.
 
     <hr />
 1. Aşağıdakilerden hangisi Janet H. Murray dijital medyanın ve spesifik olarak interaktif anlatı ortamları olarak dijital oyunların ifade olanaklarını tartıştığı Hamlet on the Holodeck adlı kitabında belirttiği dijital medyaya özgü dört temel özellikten biri **değildir?**
@@ -3258,8 +3003,7 @@
     - D-) Ansiklopedik Nitelik
     - E-) Uzamsallık
 
-    > **Açıklama:** DİJİTAL OYUNLAR
-    > Janet H. Murray dijital medyanın ve spesifik olarak interaktif anlatı ortamları olarak dijital oyunların ifade olanaklarını tartıştığı Hamlet on the Holodeck adlı kitabında dijital medyaya özgü dört temel özellikten söz eder. Bunlar sırasıyla; prosedürellik, katılım, ansiklopedik nitelik ve uzamsallık kavramlarıdır.
+    > **Açıklama:** DİJİTAL OYUNLAR<br />Janet H. Murray dijital medyanın ve spesifik olarak interaktif anlatı ortamları olarak dijital oyunların ifade olanaklarını tartıştığı Hamlet on the Holodeck adlı kitabında dijital medyaya özgü dört temel özellikten söz eder. Bunlar sırasıyla; prosedürellik, katılım, ansiklopedik nitelik ve uzamsallık kavramlarıdır.
 
     <hr />
 1. Dijital oyunlar aşağıdaki alanlardan hangisiyle ilgili göz ardı edilemeyecek bir aktör değildir ?
@@ -3269,10 +3013,7 @@
     - D-) Eğitim
     - **Cevap E-) Savaş**
 
-    > **Açıklama:** Özellikle son 20 yılda mobil cihazlar ve sosyal ağ siteleri
-    > üzerinden oynanan gündelik oyunların da katkısı
-    > ile oyunların dijital kültürü etkileme hızları artmış,
-    > sadece eğlence sektöründe değil, sanat, ticaret, eğitim ve hatta politika alanlarında da göz ardı edilemeyecek birer aktör hâline gelmişlerdir
+    > **Açıklama:** Özellikle son 20 yılda mobil cihazlar ve sosyal ağ siteleri<br />üzerinden oynanan gündelik oyunların da katkısı<br />ile oyunların dijital kültürü etkileme hızları artmış,<br />sadece eğlence sektöründe değil, sanat, ticaret, eğitim ve hatta politika alanlarında da göz ardı edilemeyecek birer aktör hâline gelmişlerdir
 
     <hr />
 1. Aşağıdakilerden hangisi tarihin bilinen en eski oyun setidır ?
@@ -3282,10 +3023,7 @@
     - D-) Fransa Lascaux Mağarası günümzden 17 bin yıl öncesi.
     - E-) Irak Şanidar Mağarası günümüzden 50 bin yıl öncesi.
 
-    > **Açıklama:** Siirt Başur Höyük’te yapılan arkeolojik kazılarda ortaya çıkarılan ve günümüzden 5000 yıl
-    > öncesine tarihlenen oyun taşları (Sağlamtimur ve
-    > Massimino, 2018), tarihin bilinen en eski oyun
-    > setine aittir.
+    > **Açıklama:** Siirt Başur Höyük’te yapılan arkeolojik kazılarda ortaya çıkarılan ve günümüzden 5000 yıl<br />öncesine tarihlenen oyun taşları (Sağlamtimur ve<br />Massimino, 2018), tarihin bilinen en eski oyun<br />setine aittir.
 
     <hr />
 1. I. Mısır'da Senet oyunu<br />II. İran'da Tavla oyunu<br />III. Çin'de Satranç oyunu<br />IV. Hindistan'da Go oyunu<br />Yukarıdaki eşleşmelereden hangileri doğrudur ?
@@ -3295,15 +3033,7 @@
     - D-) I., III. ve IV.
     - E-) III. ve IV.
 
-    > **Açıklama:** Erken Tunç
-    > Çağı’nda Mısır’da Senet isimli oyuna dair
-    > ilk hiyeroglifler çizilmiş, Mezopotamya’da
-    > ise Ur Kraliyet Oyunu yaygınlaşmıştır. Her
-    > iki oyunun da dinî ve manevi özellikleri
-    > olduğuna inanılmış, oyun taşları ve tahtaları bu inançları yansıtacak şekilde bezenmiştir. Bugün de yaygın olarak oynanan
-    > geleneksel oyunlardan Tavlanın ilk örnekleri ise günümüzden yaklaşık 4400 yıl öncesinde bugünkü İran topraklarında oynanırken, Go Oyunu 2400 yıl önce Çin’de,
-    > Satrancın erken versiyonları ise 1500 yıl
-    > önce Hindistan’da ortaya çıkmıştır.
+    > **Açıklama:** Erken Tunç<br />Çağı’nda Mısır’da Senet isimli oyuna dair<br />ilk hiyeroglifler çizilmiş, Mezopotamya’da<br />ise Ur Kraliyet Oyunu yaygınlaşmıştır. Her<br />iki oyunun da dinî ve manevi özellikleri<br />olduğuna inanılmış, oyun taşları ve tahtaları bu inançları yansıtacak şekilde bezenmiştir. Bugün de yaygın olarak oynanan<br />geleneksel oyunlardan Tavlanın ilk örnekleri ise günümüzden yaklaşık 4400 yıl öncesinde bugünkü İran topraklarında oynanırken, Go Oyunu 2400 yıl önce Çin’de,<br />Satrancın erken versiyonları ise 1500 yıl<br />önce Hindistan’da ortaya çıkmıştır.
 
     <hr />
 1. "özgürce razı olunan, ama tamamen emredici kurallara uygun olarak belirli zaman ve mekân sınırları içinde gerçekleştirilen, bizatihi bir amaca sahip olan, bir gerilim ve sevinç duygusu ile ’alışılmış hayat’tan ’başka türlü olmak’ bilincinin eşlik ettiği, iradi bir eylem veya faaliyet” oyun tanımını kim tarafından yapılmıştır ?
@@ -3313,12 +3043,7 @@
     - D-) Bernard Perron
     - E-) Richard Bartle
 
-    > **Açıklama:** Huizinga
-    > oyunu, “özgürce razı olunan, ama tamamen emredici kurallara uygun olarak belirli zaman ve mekân
-    > sınırları içinde gerçekleştirilen, bizatihi bir amaca
-    > sahip olan, bir gerilim ve sevinç duygusu ile ’alışılmış hayat’tan ’başka türlü olmak’ bilincinin eşlik
-    > ettiği, iradi bir eylem veya faaliyet” (2006, s.50)
-    > olarak tanımlar
+    > **Açıklama:** Huizinga<br />oyunu, “özgürce razı olunan, ama tamamen emredici kurallara uygun olarak belirli zaman ve mekân<br />sınırları içinde gerçekleştirilen, bizatihi bir amaca<br />sahip olan, bir gerilim ve sevinç duygusu ile ’alışılmış hayat’tan ’başka türlü olmak’ bilincinin eşlik<br />ettiği, iradi bir eylem veya faaliyet” (2006, s.50)<br />olarak tanımlar
 
     <hr />
 1. Aşağıdakilerden hangisi "ludus" deneyimine örnek gösterilebilecek oyunlardan biridir ?
@@ -3328,9 +3053,7 @@
     - D-) Lego.
     - **Cevap E-) Super Mario.**
 
-    > **Açıklama:** Seksek, satranç ya da Super Mario gibi kazanma
-    > koşulları ve kuralları önceden belirlenmiş oyunlar
-    > ludus deneyimine örnek gösterilebilir
+    > **Açıklama:** Seksek, satranç ya da Super Mario gibi kazanma<br />koşulları ve kuralları önceden belirlenmiş oyunlar<br />ludus deneyimine örnek gösterilebilir
 
     <hr />
 1. İnternet üzerinden iki kişi arasında oynanan aşağıdaki oyunlardan hangisi bir ortamdan diğerine doğrudan aktarılabilir?
@@ -3340,8 +3063,7 @@
     - D-) Futbol.
     - **Cevap E-) Satranç.**
 
-    > **Açıklama:** İnternet üzerinden iki kişi arasında oynanan
-    > dijital bir satranç oyunu bir ortamdan diğerine doğrudan aktarılabilmiştir. Ancak tenis gibi bir oyunun dijital versiyonu ancak bir uyarlama olabilir.
+    > **Açıklama:** İnternet üzerinden iki kişi arasında oynanan<br />dijital bir satranç oyunu bir ortamdan diğerine doğrudan aktarılabilmiştir. Ancak tenis gibi bir oyunun dijital versiyonu ancak bir uyarlama olabilir.
 
     <hr />
 1. Dijital oyunların bilimsel çalışmalardan ticari değere sahip ürünlere dönüşümü hangi şirketin tenis uyarlaması olan Pong’u dijital oyun makineleri için piyasaya sürmesi ile gerçekleşir ?
@@ -3351,10 +3073,7 @@
     - D-) Apple.
     - E-) Nintendo.
 
-    > **Açıklama:** Ancak dijital
-    > oyunların bilimsel çalışmalardan ticari
-    > değere sahip ürünlere dönüşümü 1972 tarihinde kurulan Atari şirketinin bir diğer
-    > tenis uyarlaması Pong’u dijital oyun makineleri için piyasaya sürmesi ile gerçekleşir.
+    > **Açıklama:** Ancak dijital<br />oyunların bilimsel çalışmalardan ticari<br />değere sahip ürünlere dönüşümü 1972 tarihinde kurulan Atari şirketinin bir diğer<br />tenis uyarlaması Pong’u dijital oyun makineleri için piyasaya sürmesi ile gerçekleşir.
 
     <hr />
 1. Bir yazılımın, çoğunlukla da dijital oyunların içine gizlenmiş bir mesaj, imaj vb. ifade eden kavram hangisidir ?
@@ -3364,13 +3083,7 @@
     - D-) Malware.
     - E-) Spyware.
 
-    > **Açıklama:** Paskalya Yumurtası (Easter Egg): Bir
-    > yazılımın, çoğunlukla da dijital oyunların
-    > içine gizlenmiş bir mesaj, imaj vb. ifade
-    > eder. Bu kavram ilk kez 1979’da Atari
-    > şirketinde çalışan oyun tasarımcısı Steve Wright’ın geliştirdiği Adventure isimli
-    > oyunun içine sakladığı gizli mesajı ifade
-    > etmek üzere kullanılmıştır.
+    > **Açıklama:** Paskalya Yumurtası (Easter Egg): Bir<br />yazılımın, çoğunlukla da dijital oyunların<br />içine gizlenmiş bir mesaj, imaj vb. ifade<br />eder. Bu kavram ilk kez 1979’da Atari<br />şirketinde çalışan oyun tasarımcısı Steve Wright’ın geliştirdiği Adventure isimli<br />oyunun içine sakladığı gizli mesajı ifade<br />etmek üzere kullanılmıştır.
 
     <hr />
 1. Aşağıdakilerden hangisi Muriel ve Crawford'un dijital oyunlar ile ilgili görüşlerindendir ?
@@ -3380,8 +3093,7 @@
     - D-) Dijital kültürün en basit formudur.
     - E-) Dijital kültürün en karmaşık formudur.
 
-    > **Açıklama:** Muriel ve Crawford’a (2018) göre video oyunlar, dijital kültürün en saf formudur. Tam da bu nedenle
-    > içinde yaşadığımız toplumun en önemli ürünü ve de yönlendiricisidir
+    > **Açıklama:** Muriel ve Crawford’a (2018) göre video oyunlar, dijital kültürün en saf formudur. Tam da bu nedenle<br />içinde yaşadığımız toplumun en önemli ürünü ve de yönlendiricisidir
 
     <hr />
 1. ...........amatör ve profesyonel olarak, farklı liglerde, turnuvalarda sponsorlar tarafından desteklenen<br />spor organizasyonlarına dâhil oyuncuların ve takımların yarıştığı video oyunu müsabakalarını ifade eder. Cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir ?
@@ -3391,8 +3103,7 @@
     - D-) E-player.
     - E-) E-videogame.
 
-    > **Açıklama:** E-spor amatör ve profesyonel olarak, farklı liglerde, turnuvalarda sponsorlar tarafından desteklenen
-    > spor organizasyonlarına dâhil oyuncuların ve takımların yarıştığı video oyunu müsabakalarını ifade eder.
+    > **Açıklama:** E-spor amatör ve profesyonel olarak, farklı liglerde, turnuvalarda sponsorlar tarafından desteklenen<br />spor organizasyonlarına dâhil oyuncuların ve takımların yarıştığı video oyunu müsabakalarını ifade eder.
 
     <hr />
 1. Aşağıdakilerden hangisi, *Homa Ludens* adlı kitabın yazarı ve çağdaş oyun araştırmaları disiplininin temelini oluşturan antropologdur?
@@ -3502,12 +3213,7 @@
     - D-) Ağ Bağlantısı
     - E-) Yerel Ağ
 
-    > **Açıklama:** Platform: Donanım ve yazılım katmanlarından
-    > oluşan bilgi işleme sistemleri.
-    > Platform araştırmaları perspektifine göre
-    > bu katmanlar arasındaki etkileşimler sadece
-    > teknolojik değil, aynı zamanda sosyokültürel
-    > sonuçlar da doğurur.
+    > **Açıklama:** Platform: Donanım ve yazılım katmanlarından<br />oluşan bilgi işleme sistemleri.<br />Platform araştırmaları perspektifine göre<br />bu katmanlar arasındaki etkileşimler sadece<br />teknolojik değil, aynı zamanda sosyokültürel<br />sonuçlar da doğurur.
 
     <hr />
 1. Tarihin bilinen en eski oyun seti arkeolojik kazılar sonrası nerede bulunmuştur?
@@ -3517,11 +3223,7 @@
     - D-) Elazığ
     - **Cevap E-) Siirt**
 
-    > **Açıklama:** Siirt Başur Höyük’te yapılan arkeolojik kazılarda
-    > ortaya çıkarılan ve günümüzden 5000 yıl
-    > öncesine tarihlenen oyun taşları (Sağlamtimur ve
-    > Massimino, 2018), tarihin bilinen en eski oyun
-    > setine aittir.
+    > **Açıklama:** Siirt Başur Höyük’te yapılan arkeolojik kazılarda<br />ortaya çıkarılan ve günümüzden 5000 yıl<br />öncesine tarihlenen oyun taşları (Sağlamtimur ve<br />Massimino, 2018), tarihin bilinen en eski oyun<br />setine aittir.
 
     <hr />
 1. "Senet" isimli oyun hangi uygarlık tarafından kullanılmıştır?
@@ -3531,10 +3233,7 @@
     - D-) Frig
     - E-) Hitit
 
-    > **Açıklama:** Erken Tunç
-    > Çağı’nda Mısır’da Senet isimli oyuna dair
-    > ilk hiyeroglifler çizilmiş, Mezopotamya’da
-    > ise Ur Kraliyet Oyunu yaygınlaşmıştır.
+    > **Açıklama:** Erken Tunç<br />Çağı’nda Mısır’da Senet isimli oyuna dair<br />ilk hiyeroglifler çizilmiş, Mezopotamya’da<br />ise Ur Kraliyet Oyunu yaygınlaşmıştır.
 
     <hr />
 1. "Yasalar" isimli felsefi diyaloğunda oyunu bir ibadet türü olarak tanımlayan filozof aşağıdakilerden hangisidir?
@@ -3544,11 +3243,7 @@
     - D-) Demokritos
     - E-) Aristotales
 
-    > **Açıklama:** Oyun ve Felsefe: 20. yüzyıl öncesinde
-    > oyun kavramına dair sınırlı literatürün
-    > kaynağı felsefi metinlerdir. MÖ 345’te
-    > Platon, Yasalar isimli felsefi diyaloğunda
-    > oyunu bir ibadet türü olarak tanımlar.
+    > **Açıklama:** Oyun ve Felsefe: 20. yüzyıl öncesinde<br />oyun kavramına dair sınırlı literatürün<br />kaynağı felsefi metinlerdir. MÖ 345’te<br />Platon, Yasalar isimli felsefi diyaloğunda<br />oyunu bir ibadet türü olarak tanımlar.
 
     <hr />
 1. Çok-oyunculu dijital oyunlar üzerine yaptığı çalışmalarda hâkim dört oyuncu tipinin bulunduğunu öne süren araştırmacı aşağıdakilerden hangisidir?
@@ -3558,11 +3253,7 @@
     - D-) Jason Norman
     - E-) Henry Brave
 
-    > **Açıklama:** Richard Bartle (1996), çok-oyunculu dijital
-    > oyunlar üzerine yaptığı çalışmalarda hâkim dört
-    > oyuncu tipinin bulunduğunu öne sürer: (1) Sosyalleşenler
-    > (socializers), (2) başaranlar (achievers),
-    > (3) katiller (killers), ve (4) kaşifler (explorers).
+    > **Açıklama:** Richard Bartle (1996), çok-oyunculu dijital<br />oyunlar üzerine yaptığı çalışmalarda hâkim dört<br />oyuncu tipinin bulunduğunu öne sürer: (1) Sosyalleşenler<br />(socializers), (2) başaranlar (achievers),<br />(3) katiller (killers), ve (4) kaşifler (explorers).
 
     <hr />
 1. Bir yazılımın, çoğunlukla da dijital oyunların içine gizlenmiş bir mesaj, imaj vb. ifade eden kavram aşağıdakilerden hangisidir?
@@ -3572,14 +3263,7 @@
     - D-) Hidden Gold
     - E-) Secret Box
 
-    > **Açıklama:** Paskalya Yumurtası (Easter Egg): Bir
-    > yazılımın, çoğunlukla da dijital oyunların
-    > içine gizlenmiş bir mesaj, imaj vb. ifade
-    > eder. Bu kavram ilk kez 1979’da Atari
-    > şirketinde çalışan oyun tasarımcısı Steve
-    > Wright’ın geliştirdiği Adventure isimli
-    > oyunun içine sakladığı gizli mesajı ifade
-    > etmek üzere kullanılmıştır.
+    > **Açıklama:** Paskalya Yumurtası (Easter Egg): Bir<br />yazılımın, çoğunlukla da dijital oyunların<br />içine gizlenmiş bir mesaj, imaj vb. ifade<br />eder. Bu kavram ilk kez 1979’da Atari<br />şirketinde çalışan oyun tasarımcısı Steve<br />Wright’ın geliştirdiği Adventure isimli<br />oyunun içine sakladığı gizli mesajı ifade<br />etmek üzere kullanılmıştır.
 
     <hr />
 1. “Gamification”, “Ludification” ve “Videoludification” kavramlarını kullanan araştırmacılar aşağıdakilerden hangisidir?
@@ -3589,17 +3273,7 @@
     - D-) Richards ve Hills
     - E-) Norris ve Hats
 
-    > **Açıklama:** İngilizce literatürde Türkçe oyunlaşma veya
-    > oyunlaştırılma kavramının birden fazla karşılığı
-    > vardır. Muriel ve Crawford (2018), kültürün
-    > oyunlaşmasını tartışırken “gamification”, “ludification”
-    > ve “videoludification” kavramlarını
-    > kullanırlar. Bu kavramlar arasındaki temel fark
-    > oyun kavramının öne çıkarılmak istenen özelliğidir.
-    > Bunun için yukarıda da ele alınan game ve
-    > ludus sözcükleri yanında dijital oyun anlamına
-    > gelen “video game” sözcüğü, oyunlaştırmanın
-    > odağını belirleyecek şekilde yer değiştirmiştir.
+    > **Açıklama:** İngilizce literatürde Türkçe oyunlaşma veya<br />oyunlaştırılma kavramının birden fazla karşılığı<br />vardır. Muriel ve Crawford (2018), kültürün<br />oyunlaşmasını tartışırken “gamification”, “ludification”<br />ve “videoludification” kavramlarını<br />kullanırlar. Bu kavramlar arasındaki temel fark<br />oyun kavramının öne çıkarılmak istenen özelliğidir.<br />Bunun için yukarıda da ele alınan game ve<br />ludus sözcükleri yanında dijital oyun anlamına<br />gelen “video game” sözcüğü, oyunlaştırmanın<br />odağını belirleyecek şekilde yer değiştirmiştir.
 
     <hr />
 1. Oyuncuları oyun içi motivasyona göre kategorize eden araştırmacı aşağıdakilerden hangisidir?
@@ -3609,15 +3283,7 @@
     - D-) Richard Noire
     - E-) Chris Hawks
 
-    > **Açıklama:** Richard Bartle (1996), çok-oyunculu dijital
-    > oyunlar üzerine yaptığı çalışmalarda hâkim dört
-    > oyuncu tipinin bulunduğunu öne sürer: (1) Sosyalleşenler
-    > (socializers), (2) başaranlar (achievers),
-    > (3) katiller (killers), ve (4) kaşifler (explorers).
-    > Oyun araştırmacısı Espen Aarseth (2003) bu sınıflandırmanın
-    > sanal ortamlardaki insan davranışını
-    > ve bu ortamlardaki oyuncu ve oynama davranışını
-    > en iyi modelleyen yaklaşım olduğunu ifade eder.
+    > **Açıklama:** Richard Bartle (1996), çok-oyunculu dijital<br />oyunlar üzerine yaptığı çalışmalarda hâkim dört<br />oyuncu tipinin bulunduğunu öne sürer: (1) Sosyalleşenler<br />(socializers), (2) başaranlar (achievers),<br />(3) katiller (killers), ve (4) kaşifler (explorers).<br />Oyun araştırmacısı Espen Aarseth (2003) bu sınıflandırmanın<br />sanal ortamlardaki insan davranışını<br />ve bu ortamlardaki oyuncu ve oynama davranışını<br />en iyi modelleyen yaklaşım olduğunu ifade eder.
 
     <hr />
 1. Ludus ve paidia kavramlarını ortaya atan araştırmacı aşağıdakilerden hangisidir?
@@ -3627,10 +3293,7 @@
     - D-) Crawford
     - E-) Kelley
 
-    > **Açıklama:** Caillois ise bu ayrımı ortaya
-    > koymak için ludus ve paidia kavramlarını önerir.
-    > Ludus, önceden belirlenmiş kurallar ve hedeflerle
-    > yapılandırılmış bir oyun deneyimini ifade eder.
+    > **Açıklama:** Caillois ise bu ayrımı ortaya<br />koymak için ludus ve paidia kavramlarını önerir.<br />Ludus, önceden belirlenmiş kurallar ve hedeflerle<br />yapılandırılmış bir oyun deneyimini ifade eder.
 
     <hr />
 1. Önceden belirlenmiş kurallar ve hedeflerle yapılandırılmış bir oyun deneyimini ifade eden kavram aşağıdakilerden hangisidir?
@@ -3640,11 +3303,7 @@
     - D-) Hidden Gems
     - E-) Secret Box
 
-    > **Açıklama:** Ludus, önceden belirlenmiş kurallar ve hedeflerle
-    > yapılandırılmış bir oyun deneyimini ifade eder.
-    > Paidia ise oyuncunun şekillendirdiği, önceden yapılandırılmamış,
-    > özgürce hareket edilebilen serbest
-    > oynama deneyimlerini ifade eder.
+    > **Açıklama:** Ludus, önceden belirlenmiş kurallar ve hedeflerle<br />yapılandırılmış bir oyun deneyimini ifade eder.<br />Paidia ise oyuncunun şekillendirdiği, önceden yapılandırılmamış,<br />özgürce hareket edilebilen serbest<br />oynama deneyimlerini ifade eder.
 
     <hr />
 ## Unite 7
@@ -3655,8 +3314,7 @@
     - D-) Teknolojinin insan, doğa ve hayvanlar üzerindeki olumlu etkisi olacağını savunanlar.
     - E-) Teknolojiyi kısmi olarak kabul edenler.
 
-    > **Açıklama:** Lütfen "İNSAN, TEKNOLOJİ VE KÜLTÜR" başlıklı yazıyı gözden geçiriniz.
-    > Teknolojinin yalnızca iyi yanlarını gören ve teknoloji aşığı diyebileceğimiz, teknolojinin insan gelişimi için olumlu katkılarına inanan Teknofilikler ve teknolojinin olumsuz yönlerine odaklanan ve insanın geleceği için tehditler oluşturduğunu savunan **Teknofobikler** bu parantezlerdir.
+    > **Açıklama:** Lütfen "İNSAN, TEKNOLOJİ VE KÜLTÜR" başlıklı yazıyı gözden geçiriniz.<br />Teknolojinin yalnızca iyi yanlarını gören ve teknoloji aşığı diyebileceğimiz, teknolojinin insan gelişimi için olumlu katkılarına inanan Teknofilikler ve teknolojinin olumsuz yönlerine odaklanan ve insanın geleceği için tehditler oluşturduğunu savunan **Teknofobikler** bu parantezlerdir.
 
     <hr />
 1. İlkel toplumların doğa ile girdikleri üretim ilişkisi aşağıdakilerden hangisidir?
@@ -3666,8 +3324,7 @@
     - D-) Ekim ve tüketim.
     - E-) Topraktan almak ve insana vermek.
 
-    > **Açıklama:** Lütfen "Teknoloji Toplumsal Yapıyı Belirleyebilir mi?" başlıklı yazıyı gözden geçiriniz.
-    > Örneğin, ilkel insanların doğayla girdikleri üretim ilişkisi avcılık ve toplayıcılıktır.
+    > **Açıklama:** Lütfen "Teknoloji Toplumsal Yapıyı Belirleyebilir mi?" başlıklı yazıyı gözden geçiriniz.<br />Örneğin, ilkel insanların doğayla girdikleri üretim ilişkisi avcılık ve toplayıcılıktır.
 
     <hr />
 1. Bir girdinin olduğu, içeride belirlenmiş işlemlerin yapıldığı, öngörülen ve kitlesel olarak üretimin olduğu ve aynı zamanda bir bir kurallar bütünü olarak tanımlanan yer aşağıdakilerden hangi isimle anılır?
@@ -3677,8 +3334,7 @@
     - D-) Kurumsal merkez.
     - E-) Kentsel üzerim alanı.
 
-    > **Açıklama:** Lütfen "Teknoloji Toplumsal Yapıyı Belirleyebilir mi?" başlıklı yazıyı gözden geçiriniz.
-    > Fabrika demek, sistem demektir. Bir girdinin olduğu, içeride belirlenmiş işlemlerin yapıldığı, öngörülen ve kitlesel olarak üretimin olduğu bir yerdir fabrika. Aynı zamanda da bir kurallar bütünüdür.
+    > **Açıklama:** Lütfen "Teknoloji Toplumsal Yapıyı Belirleyebilir mi?" başlıklı yazıyı gözden geçiriniz.<br />Fabrika demek, sistem demektir. Bir girdinin olduğu, içeride belirlenmiş işlemlerin yapıldığı, öngörülen ve kitlesel olarak üretimin olduğu bir yerdir fabrika. Aynı zamanda da bir kurallar bütünüdür.
 
     <hr />
 1. Heidegger aşağıdaki hangi nedenden dolayı modern teknolojiyi eleştirmektedir?
@@ -3688,8 +3344,7 @@
     - D-) Teknolojide çalışma zamanını belirlemekte doğa yerine patronun sözü geçecektir.
     - **Cevap E-) Modern teknoloji, araçsal bir bakış açısına sahiptir ve bu araçsal bakış açısı tüm varlıkları bir nedensellik içinde algılar.**
 
-    > **Açıklama:** Lütfen "Teknolojinin Özü Teknolojik Değildir!" başlıklı yazıyı gözden geçiriniz.
-    > Heidegger’e göre modern teknoloji, araçsal bir bakış açısına sahiptir ve bu araçsal bakış açısı tüm varlıkları bir nedensellik içinde algılar.
+    > **Açıklama:** Lütfen "Teknolojinin Özü Teknolojik Değildir!" başlıklı yazıyı gözden geçiriniz.<br />Heidegger’e göre modern teknoloji, araçsal bir bakış açısına sahiptir ve bu araçsal bakış açısı tüm varlıkları bir nedensellik içinde algılar.
 
     <hr />
 1. “Cogito ergo sum” (düşünüyorum öyleyse varım) sözcüğünü aşağıdakilerden hangisi söylemiştir?
@@ -3699,8 +3354,7 @@
     - D-) Dennett
     - E-) Marx
 
-    > **Açıklama:** Lütfen "Kavanozdaki Beyin" başlıklı yazıyı gözden geçiriniz.
-    > Descartes’in meşhur “cogito ergo sum” deyişini biliriz. Düşünüyorum öyleyse varım, derken varoluşunun temeline düşünme yetisini koymaktadır.
+    > **Açıklama:** Lütfen "Kavanozdaki Beyin" başlıklı yazıyı gözden geçiriniz.<br />Descartes’in meşhur “cogito ergo sum” deyişini biliriz. Düşünüyorum öyleyse varım, derken varoluşunun temeline düşünme yetisini koymaktadır.
 
     <hr />
 1. Aşağıdakilerden hangisi yapay zeka tanımı katagorilerinden biri **değildir?**
@@ -3710,8 +3364,7 @@
     - D-) Akılcı Düşünmek.
     - E-) Akılcı Biçimde Eylemek.
 
-    > **Açıklama:** Lütfen "Yapay Zeka Tanım ve Türleri" başlıklı yazıyı gözden geçiriniz.
-    > Stuart ve Norvig (2016, s. 2) sekiz yapay zeka tanımını dört kategoride gruplamışlardır. Bunlar: İnsanca düşünmek, insanca eylenmek, akılcı düşünmek ve akılcı biçimde eylenmekdir.
+    > **Açıklama:** Lütfen "Yapay Zeka Tanım ve Türleri" başlıklı yazıyı gözden geçiriniz.<br />Stuart ve Norvig (2016, s. 2) sekiz yapay zeka tanımını dört kategoride gruplamışlardır. Bunlar: İnsanca düşünmek, insanca eylenmek, akılcı düşünmek ve akılcı biçimde eylenmekdir.
 
     <hr />
 1. Yapay Zekanın sorulan sorulara sakladığı bilgilerle yanıt verebilmesi ve yeni yargılara varabilmesi yetkinliği aşağıdakilerden hangisidir?
@@ -3721,12 +3374,7 @@
     - D-) Mantık Kuralları Oluşumu.
     - **Cevap E-) Otomatikleştirilmiş Akıl Yürütme.**
 
-    > **Açıklama:** Lütfen "İnsanca Eylemek ya da Turing Testi Yaklaşımı" başlıklı yazıyı gözden geçiriniz.
-    > Yapay zekanın aşağıdaki yetkinlikleri sağlaması gerekir ki, bu yetkinlikler aynı zamanda bu yaklaşım içerisinde yapay zeka çalışma alanlarını da ifade etmektedir:
-    > • Doğal Dil İşleme (Natural Language Processing): Yapay zekanın testin yapıldığı dilde yetkin biçimde iletişim kurabilmesini sağlamaya çalışan araştırmaları kapsar.
-    > • Bilgi Temsili (Knowledge Representation): Yapay zekanın bildiği veya duyduğunu saklayabilmesi
-    > • Otomatikleştirilmiş Akıl Yürütme (Automated Reasoning): Yapay Zekanın sorulan sorulara sakladığı bilgilerle yanıt verebilmesi ve yeni yargılara varabilmesi
-    > • Makine Öğrenmesi (Machine Learning):Yapay zekanın yeni koşullara uyum sağlayabilmesi ve verilerden yola çıkarak desen veya modelleri belirleyebilmek.
+    > **Açıklama:** Lütfen "İnsanca Eylemek ya da Turing Testi Yaklaşımı" başlıklı yazıyı gözden geçiriniz.<br />Yapay zekanın aşağıdaki yetkinlikleri sağlaması gerekir ki, bu yetkinlikler aynı zamanda bu yaklaşım içerisinde yapay zeka çalışma alanlarını da ifade etmektedir:<br />• Doğal Dil İşleme (Natural Language Processing): Yapay zekanın testin yapıldığı dilde yetkin biçimde iletişim kurabilmesini sağlamaya çalışan araştırmaları kapsar.<br />• Bilgi Temsili (Knowledge Representation): Yapay zekanın bildiği veya duyduğunu saklayabilmesi<br />• Otomatikleştirilmiş Akıl Yürütme (Automated Reasoning): Yapay Zekanın sorulan sorulara sakladığı bilgilerle yanıt verebilmesi ve yeni yargılara varabilmesi<br />• Makine Öğrenmesi (Machine Learning):Yapay zekanın yeni koşullara uyum sağlayabilmesi ve verilerden yola çıkarak desen veya modelleri belirleyebilmek.
 
     <hr />
 1. 1960’ların ortalarına gelindiğinde Yapay Zeka alanındaki en dikkat çeken olay aşağıdakilerden hangisidir?
@@ -3736,8 +3384,7 @@
     - **Cevap D-) Newell ve Simon’un Genel Problem Çözücüsü.**
     - E-) Norbert Wiener’in Cybernetic çalışmaları.
 
-    > **Açıklama:** Lütfen "Yapay Zeka Çalışmaları" başlıklı yazıyı gözden geçiriniz.
-    > 1960’ların ortalarına gelindiğinde Yapay Zeka alanındaki en dikkat çeken olay Newell ve Simon’un Genel Problem Çözücüsüdür.
+    > **Açıklama:** Lütfen "Yapay Zeka Çalışmaları" başlıklı yazıyı gözden geçiriniz.<br />1960’ların ortalarına gelindiğinde Yapay Zeka alanındaki en dikkat çeken olay Newell ve Simon’un Genel Problem Çözücüsüdür.
 
     <hr />
 1. Çamur ya da taştan meydana gelmiş ve ağzından içeri yazılarak atılan yönergelere göre çalışan ve durdurulması çok zor efsanevi robotun adı aşağıdakilerden hangisidir?
@@ -3747,8 +3394,7 @@
     - D-) Electro.
     - E-) Frankenstein.
 
-    > **Açıklama:** Lütfen "ROBOT KAVRAM VE TANIMI" başlıklı yazıyı gözden geçiriniz.
-    > Bir başka efsane Golem efsanesidir. Golem çamur ya da taştan bir robottur ve ağzından içeri yazılarak atılan yönergelere göre çalışır ve durdurulması çok zordur.
+    > **Açıklama:** Lütfen "ROBOT KAVRAM VE TANIMI" başlıklı yazıyı gözden geçiriniz.<br />Bir başka efsane Golem efsanesidir. Golem çamur ya da taştan bir robottur ve ağzından içeri yazılarak atılan yönergelere göre çalışır ve durdurulması çok zordur.
 
     <hr />
 1. J.Hudson'a göre robot tanımı aşağıdakilerden hangisidir?
@@ -3758,8 +3404,7 @@
     - D-) İnsanların verdikleri emirleri yenine getiren mekanik düzen.
     - E-) Kendi varlıklarını koruyan, ancak insanlara zarar vermeyen iç amaçlı üretilen mekanikler.
 
-    > **Açıklama:** Lütfen "ROBOT KAVRAM VE TANIMI" başlıklı yazıyı gözden geçiriniz.
-    > Anlatılardan gerçek hayata biraz yüzümüzü çevirirsek Hudson (2019 s.19) robot tanımını ISO standartları açısından yapmaktadır. Buna göre robot “otomatik olarak kontrol edilen, üç boyutlu, çok amaçlı manipülatör”dür.
+    > **Açıklama:** Lütfen "ROBOT KAVRAM VE TANIMI" başlıklı yazıyı gözden geçiriniz.<br />Anlatılardan gerçek hayata biraz yüzümüzü çevirirsek Hudson (2019 s.19) robot tanımını ISO standartları açısından yapmaktadır. Buna göre robot “otomatik olarak kontrol edilen, üç boyutlu, çok amaçlı manipülatör”dür.
 
     <hr />
 1. Tek­nolojinin yalnızca iyi yanlarını gören ve teknoloji aşığı diyebileceğimiz, teknolojinin insan gelişimi için olumlu katkılarına inanan kişiler aşağıdakilerden hangisi ile tanımlanır?
@@ -3799,10 +3444,7 @@
     - D-) Alan Turing
     - **Cevap E-) Postman**
 
-    > **Açıklama:** Postman (1993) insanlık tarihi bölümlemesini teknoloji ve kültür ilişkisi açısından şöyle yapar kitabında:
-    > * Araç kullanan toplumlar
-    > * Teknokrasiler
-    > * Teknopoli Postman’a göre ilk tarihsel dönem “araç kullanan toplumlardır”. Bu toplum yapısında kültür teknolo­jinin ortaya çıkış koşullarını ve kullanımını kesin olarak tanımlayan ve belirleyen bir güçtedir. Teknoloji ancak ihtiyaç karşısında buluş olarak ortaya çıkar ve kültürün ve geleneğin belirlediği biçimde kullanılır.
+    > **Açıklama:** Postman (1993) insanlık tarihi bölümlemesini teknoloji ve kültür ilişkisi açısından şöyle yapar kitabında:<br />* Araç kullanan toplumlar<br />* Teknokrasiler<br />* Teknopoli Postman’a göre ilk tarihsel dönem “araç kullanan toplumlardır”. Bu toplum yapısında kültür teknolo­jinin ortaya çıkış koşullarını ve kullanımını kesin olarak tanımlayan ve belirleyen bir güçtedir. Teknoloji ancak ihtiyaç karşısında buluş olarak ortaya çıkar ve kültürün ve geleneğin belirlediği biçimde kullanılır.
 
     <hr />
 1. Sayılabilirliğin ölçülebilirliği ortaya çıkardığını ölçülebilirliğin ise satıla bilirliği ortaya çıkardığını vurgulayan kişi aşağıdakilerden hangisidir?
@@ -3822,8 +3464,7 @@
     - D-) Alan Turing
     - E-) Kurzweil
 
-    > **Açıklama:** John Searle (1996)’ın Çince Odası düşünsel dene­yidir.
-    > John Searle :Bir oda düşünün ki yalnızca bir penceresi olsun ve içinde de Çince bilmeyen bir kişi ve birçok Çince harfler yazılı tabelalar olsun. Her bir tabelanın üzerinde bir numa­ra bulunduğunu varsayalım. Odadaki kişinin elinde de bir yönerge olsun. Bu yönergede dışarıdan bir ki­şinin tuttuğu ve üzerinde Çince yazılar bulunan bir tabelanın numarasını gördüğünde, odadaki tabelalar­dan hangisini kaldırması ve pencereden göstermesi gerektiği yazılı olsun. Dışarıdan gösterilen tabelalarda Çince sorular ve odadan gösterilen tabelalarda da bunların cevapları yer alsın. Her ne kadar tüm sorulara, odadaki kişi tamamıyla doğru yanıt verse de bu, o kişinin Çince bildiği anlamına gelir mi? İşte Searle burada yapay zekanın işleyiş biçimi ile insanın düşünebilme yetisi arasındaki farkı ortaya koyarak eleştiri getirmektedir. Searle’ye göre düşünmek ve hesap etmek aynı şey değildir.
+    > **Açıklama:** John Searle (1996)’ın Çince Odası düşünsel dene­yidir.<br />John Searle :Bir oda düşünün ki yalnızca bir penceresi olsun ve içinde de Çince bilmeyen bir kişi ve birçok Çince harfler yazılı tabelalar olsun. Her bir tabelanın üzerinde bir numa­ra bulunduğunu varsayalım. Odadaki kişinin elinde de bir yönerge olsun. Bu yönergede dışarıdan bir ki­şinin tuttuğu ve üzerinde Çince yazılar bulunan bir tabelanın numarasını gördüğünde, odadaki tabelalar­dan hangisini kaldırması ve pencereden göstermesi gerektiği yazılı olsun. Dışarıdan gösterilen tabelalarda Çince sorular ve odadan gösterilen tabelalarda da bunların cevapları yer alsın. Her ne kadar tüm sorulara, odadaki kişi tamamıyla doğru yanıt verse de bu, o kişinin Çince bildiği anlamına gelir mi? İşte Searle burada yapay zekanın işleyiş biçimi ile insanın düşünebilme yetisi arasındaki farkı ortaya koyarak eleştiri getirmektedir. Searle’ye göre düşünmek ve hesap etmek aynı şey değildir.
 
     <hr />
 1. Bilginin şifrelenmesi, çözümü konusunda ilk kodlama çalışmalarına örnek olan ve geliş­tirdiği Enigma adlı makine ile İkinci Dünya Savaşı’nın kazanılmasında önemli bir etkiye sahip olan kişi aşağıdakilerden hangisidir?
@@ -4043,8 +3684,7 @@
     - D-) Teknofilikler
     - E-) Saban teknolojisi
 
-    > **Açıklama:** Teknoloji Toplumsal Yapıyı Belirleyebilir mi?
-    > Jakard dokuma makinesi
+    > **Açıklama:** Teknoloji Toplumsal Yapıyı Belirleyebilir mi?<br />Jakard dokuma makinesi
 
     <hr />
 1. Hangisi tarih içerisinde farklı anlamlarda kullanılan ‘kültür’ kavramları arasında **sayılamaz**?
@@ -4054,8 +3694,7 @@
     - D-) Kültür belirli bir grup insanın üretme, tüketme, yaşama biçimleri ve ürettikleri maddi ve manevi değerlerdir.
     - E-) Kültür, doğal olmayandır; en temelde bir insan müdahalesi söz konusudur.
 
-    > **Açıklama:** Teknoloji ve Kültür İlişkisi
-    > Kültür doğadaki haliyle kalan, insan etkisinin söz konusu olmadığı, insanı doğal olarak et­kileyen bir organizma gibidir.
+    > **Açıklama:** Teknoloji ve Kültür İlişkisi<br />Kültür doğadaki haliyle kalan, insan etkisinin söz konusu olmadığı, insanı doğal olarak et­kileyen bir organizma gibidir.
 
     <hr />
 1. Hangi düşünür/lere göre, endüstriyel olarak üretim araçla­rının sahiplerince ürettirilmiş kültür, kişilerin algısında marjinal-normal, iyi-kötü, doğru-yanlış gibi değerleri belirleyerek bir sahte bilinç edinme­lerine neden olan ideolojinin bir taşıyıcısına indir­genir ve bu sahte bilinç sa­yesinde belirli bir grubun daha avantajlı bir konumda yaşadığı toplumsal yapının devamı için avantajsız konumda olanlar kendiliklerinden rıza gösterebilirler?
@@ -4065,8 +3704,7 @@
     - D-) Goethe
     - E-) Kopernik
 
-    > **Açıklama:** Kültür Endüstrisi
-    > Horkheimer ve Adorno
+    > **Açıklama:** Kültür Endüstrisi<br />Horkheimer ve Adorno
 
     <hr />
 1. İnsanca Eylemek ya da Turing Testi Yaklaşımına göre hangisi yapay zekanın Turing Testini geçebilmesi için sağlaması gereken yet­kinliklerden biri **değildir**?
@@ -4076,8 +3714,7 @@
     - D-) Makine öğrenmesi
     - **Cevap E-) Düşünme ve hesap etme**
 
-    > **Açıklama:** Yapay Zeka Tanım ve Türleri
-    > Düşünme ve hesap etme
+    > **Açıklama:** Yapay Zeka Tanım ve Türleri<br />Düşünme ve hesap etme
 
     <hr />
 1. Hangisi mantıkçıların yapay zeka üzerine çalışmala­rında karşılaştıkları temel sorunlar arasında **yer** **almaz**?
@@ -4087,8 +3724,7 @@
     - D-) Akılcı davranışlar göstermek yalnızca mantık kurallarına göre hareket etmekle sınırlı kalmamak­tadır. Bazen muhtemel en iyi çıktıyı ya da sonucu elde etmek gerekir.
     - E-) Argümanların, akıl yürüt­me sürecinde doğru kurulması ve kullanılması ile doğru düşünme gerçekleşir. Bir argüman en az iki öncül ve bir yargıdan oluşur. İki öncül doğru ise yargı da doğru olacaktır.
 
-    > **Açıklama:** Akılcı Düşünmek: Düşünmenin Kanunları Yaklaşımı
-    > Her sorunu yüzde yüz biçimde man­tıksal notasyona dökmek mümkün olmamaktadır; bir problemi prensipte çözmek ile gerçek hayatta çözmek arasında fark vardır.
+    > **Açıklama:** Akılcı Düşünmek: Düşünmenin Kanunları Yaklaşımı<br />Her sorunu yüzde yüz biçimde man­tıksal notasyona dökmek mümkün olmamaktadır; bir problemi prensipte çözmek ile gerçek hayatta çözmek arasında fark vardır.
 
     <hr />
 1. Yapay zeka çalışmalarını eleştiren düşünürlerden John Searle (1996) Çince Odası düşünsel dene­yi ile neyi ortaya koymuştur?
@@ -4098,8 +3734,7 @@
     - D-) Yapay zeka sorulan sorulara sakladığı bilgilerle yanıt verebilir ve yeni yargılara varabilir.
     - E-) Bazen muhtemel en iyi çıktıyı ya da sonucu elde etmek gerekir. Bu durum karmaşık ortamlar­daki problem çözümlerinde özellikle önemlidir.
 
-    > **Açıklama:** Çince Odası Deneyi
-    > Yapay zekanın işleyiş biçimi ile insanın düşünebilme yetisi arasında fark vardır. Düşünmek ve hesap etmek aynı şey değildir.
+    > **Açıklama:** Çince Odası Deneyi<br />Yapay zekanın işleyiş biçimi ile insanın düşünebilme yetisi arasında fark vardır. Düşünmek ve hesap etmek aynı şey değildir.
 
     <hr />
 1. Yeni şifrelere adapte olabildiği ve Almanların şifreli mesaj ve bilgilerini yeniden kodlayabildiği için İkinci Dünya Savaşı’nın kazanılmasında önemli bir etkiye sahip olan ve yazılımın temelini oluşturan Enigma adlı makineyi kim geliştirmiştir?
@@ -4109,8 +3744,7 @@
     - D-) Weisenbaum
     - E-) Selfridge
 
-    > **Açıklama:** Yapay Zeka Çalışmaları
-    > Turing
+    > **Açıklama:** Yapay Zeka Çalışmaları<br />Turing
 
     <hr />
 1. İlk olarak hangi ülkede işçi azlığından dolayı varil boyamak için robot geliştirilmiştir?
@@ -4120,8 +3754,7 @@
     - D-) Pakistan
     - **Cevap E-) Norveç**
 
-    > **Açıklama:** ROBOT KAVRAM VE TANIMI
-    > Norveç
+    > **Açıklama:** ROBOT KAVRAM VE TANIMI<br />Norveç
 
     <hr />
 1. Aşağıdakilerden hangisi robotları konu eden bir dizi hikayesi yayımlanan (1950) Isaac Asimov’un dört robot kuralından biri **değildir**?
@@ -4131,8 +3764,7 @@
     - D-) Daha üst bir kuralı ihlal etmedikçe robotlar insanların verdikleri emirleri yerine getirmek zorundadır.
     - E-) Daha üst bir kural ile çelişmedikçe bir robot kendi varlığını korumak zorundadır.
 
-    > **Açıklama:** ROBOT KAVRAM VE TANIMI
-    > Robot “otomatik olarak kontrol edilen, üç boyutlu, çok amaçlı manipülatör”dür.
+    > **Açıklama:** ROBOT KAVRAM VE TANIMI<br />Robot “otomatik olarak kontrol edilen, üç boyutlu, çok amaçlı manipülatör”dür.
 
     <hr />
 1. Üretim biçiminin, ürünün ni­teliklerini de belirlediği savından yola çıkan Horkheimer ve Adorno, insanın ürettiği bir şeyin sayılabilir, ölçülebilir, standart ve kitlesel olarak üretilebilir bir meta hâline dönüşmesinin nasıl bir süreç olduğunu vurgulamaktadır?
@@ -4142,8 +3774,7 @@
     - D-) Kolektif kül­tür oluşumu
     - E-) Teknoloji ve üretim ilişkisi
 
-    > **Açıklama:** Kültür Endüstrisi
-    > Bir yabancılaşma süreci
+    > **Açıklama:** Kültür Endüstrisi<br />Bir yabancılaşma süreci
 
     <hr />
 1. Aşağıdakilerden hangisi Stuart ve Norvig'in Yapay Zeka Tanımlarını incelediği dört kategoriden biri **değildir?**
@@ -4153,8 +3784,7 @@
     - D-) Akılcı Biçimde Eylemek
     - **Cevap E-) Akılcı Biçimde Gelişmek**
 
-    > **Açıklama:** Stuart ve Norvig (2016, s. 2) sekiz yapay zeka tanımını dört kategoride gruplamışlardır. Bu dört kategori, yapay zekaya farklı tanımları düzenlediği gibi aynı zamanda farklı yaklaşımları da ifade etmektedir. Bu dört kategorinin üstteki ikisi düşünme süreci ve akıl yürütme ile alttaki ikisi ise davranış ile ilişkilidir. ![](https://ets.anadolu.edu.tr/storage/nfs/questions/0653357a73c55d704c1591be5f96ef79.png)
-    > Akılcı Biçimde Gelişmek
+    > **Açıklama:** Stuart ve Norvig (2016, s. 2) sekiz yapay zeka tanımını dört kategoride gruplamışlardır. Bu dört kategori, yapay zekaya farklı tanımları düzenlediği gibi aynı zamanda farklı yaklaşımları da ifade etmektedir. Bu dört kategorinin üstteki ikisi düşünme süreci ve akıl yürütme ile alttaki ikisi ise davranış ile ilişkilidir. ![](https://ets.anadolu.edu.tr/storage/nfs/questions/0653357a73c55d704c1591be5f96ef79.png)<br />Akılcı Biçimde Gelişmek
 
     <hr />
 1. ".......... testinde sorgulayıcı kişi klavyeden yazı ortamında karşı tarafa sorular sorar ve gelen yanıtlara göre karşı tarafın bir yapay zeka olup olmadığı konusunda fikrini beyan eder. Eğer karşısındakinin yapay zeka olduğunu belirlemezse yapay zeka testi geçmiş sayılır. Yani düşünebilen bir makine olduğu varsayılır." cümlesindeki boş yere aşağıdakilerden hangisi gelmelidir?
@@ -4184,8 +3814,7 @@
     - D-) II, III
     - E-) I, IV
 
-    > **Açıklama:** İnsan, Teknoloji ve Kültür
-    > Postman (1993) teknoloji ve toplum arasındaki ilişkiyi anlamak için bu iki yaklaşıma-teknofilik ve teknofobik- bir üçüncüsünü önerir. Bu ekolojik yaklaşımdır. Bir yeni teknolojinin topluma girmesini bir göle bir timsah bırakılmasına benzeten Postman, ortaya çıkan durumun eski göl artı timsah olmadığını yeni bir göl, bir başka deyişle yeni bir ekoloji olduğunu ifade etmektedir. Burada teknolojinin toplumu belirli bir bölge ya da sınıf ile sınırlı olarak değil tümden etkilediği iddiasındadır.
+    > **Açıklama:** İnsan, Teknoloji ve Kültür<br />Postman (1993) teknoloji ve toplum arasındaki ilişkiyi anlamak için bu iki yaklaşıma-teknofilik ve teknofobik- bir üçüncüsünü önerir. Bu ekolojik yaklaşımdır. Bir yeni teknolojinin topluma girmesini bir göle bir timsah bırakılmasına benzeten Postman, ortaya çıkan durumun eski göl artı timsah olmadığını yeni bir göl, bir başka deyişle yeni bir ekoloji olduğunu ifade etmektedir. Burada teknolojinin toplumu belirli bir bölge ya da sınıf ile sınırlı olarak değil tümden etkilediği iddiasındadır.
 
     <hr />
 1. Aşağıdakilerden hangisi kültürün en basit tanımıdır?
@@ -4195,9 +3824,7 @@
     - D-) Ruhun eğitimi
     - E-) Bir grup insana ait olan
 
-    > **Açıklama:** İnsan, Teknoloji ve Kültür
-    > Kültür kavramı tarih içerisinde farklı anlamlarda kullanılmıştır. Kelimenin ortaya çıktığı coğrafyada kultura tarım ile ilişkili olarak ekme-biçme yetiştirme anlamındadır. Orta Çağ’a geldiğimizde kelimenin Cultura Animi ya da ruhun eğitimi yetiştirilmesi olarak kullanıldığını görürüz. Antropolojinin gelişmesi ile birlikte ise kültür belirli bir grup insanın üretme, tüketme, yaşama biçimleri ve ürettikleri maddi ve manevi değerler olarak değerlendirilmiştir.
-    > Aslında çok daha basit bir tanım da mümkündür. Kültür, doğal olmayandır. Pazarlarda gördüğümüz mantarları aklımıza getirebiliriz. Kültür mantarı demek doğal olarak değil insan müdahalesiyle yetiştirilmiş demektir. Dolayısıyla kültür dediğimiz anda, en temelde bir insan müdahalesinden bahsediyoruz demektir.
+    > **Açıklama:** İnsan, Teknoloji ve Kültür<br />Kültür kavramı tarih içerisinde farklı anlamlarda kullanılmıştır. Kelimenin ortaya çıktığı coğrafyada kultura tarım ile ilişkili olarak ekme-biçme yetiştirme anlamındadır. Orta Çağ’a geldiğimizde kelimenin Cultura Animi ya da ruhun eğitimi yetiştirilmesi olarak kullanıldığını görürüz. Antropolojinin gelişmesi ile birlikte ise kültür belirli bir grup insanın üretme, tüketme, yaşama biçimleri ve ürettikleri maddi ve manevi değerler olarak değerlendirilmiştir.<br />Aslında çok daha basit bir tanım da mümkündür. Kültür, doğal olmayandır. Pazarlarda gördüğümüz mantarları aklımıza getirebiliriz. Kültür mantarı demek doğal olarak değil insan müdahalesiyle yetiştirilmiş demektir. Dolayısıyla kültür dediğimiz anda, en temelde bir insan müdahalesinden bahsediyoruz demektir.
 
     <hr />
 1. Aşağıdakilerden hangisi kültür endüstrisi ile ilgili söylenemez?
@@ -4207,8 +3834,7 @@
     - D-) Metaya dönüşmüştür.
     - E-) Pazar koşulları belirleyicidir.
 
-    > **Açıklama:** İnsan, Teknoloji ve Kültür
-    > Kültür insanî bir üretimdir ve bu üretim biçiminin getirdiği nitelikler insana çevresini ve kendini ifade etme ve aşma imkanları tanımaktadır. Oysa endüstri çağının teknolojileri ile kültür de herhangi bir meta gibi endüstriyel olarak üretilmeye başlamış ve insanlar bu niteliklerden yoksun kalmışlardır. Kültür endüstrisi insanın yarattığı değil endüstri ürünü olduğundan doğru yanıt C şıkkıdır.
+    > **Açıklama:** İnsan, Teknoloji ve Kültür<br />Kültür insanî bir üretimdir ve bu üretim biçiminin getirdiği nitelikler insana çevresini ve kendini ifade etme ve aşma imkanları tanımaktadır. Oysa endüstri çağının teknolojileri ile kültür de herhangi bir meta gibi endüstriyel olarak üretilmeye başlamış ve insanlar bu niteliklerden yoksun kalmışlardır. Kültür endüstrisi insanın yarattığı değil endüstri ürünü olduğundan doğru yanıt C şıkkıdır.
 
     <hr />
 1. Nilsson’ın (1998) “Yapay zeka … yapay şeylerde zeki davranışlar ile ilgilenir.” tanımı Stuart ve Norvig ‘in ortaya attığı kategorilerden hangisine aittir?<br />1\. İnsanca eylemek<br />2\. İnsanca Düşünmek<br />3\. Akılcı Biçimde eylemek<br />4\. Akılcı Düşünmek
@@ -4218,9 +3844,7 @@
     - **Cevap D-) III**
     - E-) II
 
-    > **Açıklama:** Yapay Zeka Tür ve Çalışmaları
-    > Aşağıdaki tablo 4 kategoriye ayrılmış tanımları göstermektedir.
-    > ![](https://ets.anadolu.edu.tr/storage/nfs/questions/a1cb0c686a505077a219ff64bad42e56.jpeg)
+    > **Açıklama:** Yapay Zeka Tür ve Çalışmaları<br />Aşağıdaki tablo 4 kategoriye ayrılmış tanımları göstermektedir.<br />![](https://ets.anadolu.edu.tr/storage/nfs/questions/a1cb0c686a505077a219ff64bad42e56.jpeg)
 
     <hr />
 1. Belliman’ın (1978) “İnsan düşünmesi ile ilişkilendirdiğimiz aktivitelerin otomasyonu, karar verme, problem çözme ve öğrenme…” tanımı Stuart ve Norvig‘in ortaya attığı kategorilerden hangisine aittir?<br />1\. İnsanca eylemek<br />2\. İnsanca Düşünmek<br />3\. Akılcı Biçimde eylemek<br />4\. Akılcı Düşünmek
@@ -4230,9 +3854,7 @@
     - D-) III
     - **Cevap E-) II**
 
-    > **Açıklama:** Yapay Zeka Tür ve Çalışmaları
-    > Yapay zeka tanımlarının kategorileri
-    > ![](https://ets.anadolu.edu.tr/storage/nfs/questions/a1cb0c686a505077a219ff64bad42e56.jpeg)
+    > **Açıklama:** Yapay Zeka Tür ve Çalışmaları<br />Yapay zeka tanımlarının kategorileri<br />![](https://ets.anadolu.edu.tr/storage/nfs/questions/a1cb0c686a505077a219ff64bad42e56.jpeg)
 
     <hr />
 1. Stuart ve Norvig (2016, s. 2) sekiz yapay zeka tanımını dört kategoride toplamıştır ve her bir kategori benzer tanım, araştırma yaklaşımı, metot ve anlayışları da işaret etmektedir. Aşağıda bu eşleşmeler verilmiştir. Hangileri doğrudur?<br />1\. İnsanca Düşünmek ya da Turing Testi Yaklaşımı<br />2\. İnsanca Eylemek: Bilişsel Modelleme Yaklaşımı<br />3\. Akılcı Düşünmek: Düşünmenin Kanunları Yaklaşımı<br />4\. Akılcı Eylemek: Akılcı Fail Yaklaşımı
@@ -4242,12 +3864,7 @@
     - D-) II, III
     - E-) I, IV
 
-    > **Açıklama:** Yapay Zeka Tür ve Çalışmaları
-    > Doğru eşleşmeler aşağıda verilmiştir.
-    > * İnsanca Düşünmek Bilişsel Modelleme Yaklaşımı
-    > * İnsanca Eylemek ya da Turing Testi Yaklaşımı
-    > * Akılcı Düşünmek: Düşünmenin Kanunları Yaklaşımı
-    > * Akılcı Eylemek: Akılcı Fail Yaklaşımı
+    > **Açıklama:** Yapay Zeka Tür ve Çalışmaları<br />Doğru eşleşmeler aşağıda verilmiştir.<br />* İnsanca Düşünmek Bilişsel Modelleme Yaklaşımı<br />* İnsanca Eylemek ya da Turing Testi Yaklaşımı<br />* Akılcı Düşünmek: Düşünmenin Kanunları Yaklaşımı<br />* Akılcı Eylemek: Akılcı Fail Yaklaşımı
 
     <hr />
 1. Turing testini geçebilmesi için yapay zekanın aşağıdaki yetkinliklerden hangisini geçmesi gerekmez?
@@ -4257,12 +3874,7 @@
     - D-) Doğal dil işleme
     - E-) Bilgi temsili
 
-    > **Açıklama:** Yapay Zeka Tür ve Çalışmaları
-    > Turing testini geçebilmesi için yapay zekanın geçmesi gereken yetkinlikler aşağıda verilmiştir. Bunlar arasında Farklı dillerde işleme bulunmamaktadır.
-    > 1\. Doğal Dil İşleme (Natural Language Processing): Yapay zekanın testin yapıldığı dilde yetkin biçimde iletişim kurabilmesini sağlamaya çalışan araştırmaları kapsar.
-    > 2\. Bilgi Temsili (Knowledge Representation): Yapay zekanın bildiği veya duyduğunu saklayabilmesi
-    > 3\. Otomatikleştirilmiş Akıl Yürütme (Automated Reasoning): Yapay Zekanın sorulan sorulara sakladığı bilgilerle yanıt verebilmesi ve yeni yargılara varabilmesi
-    > 4\. Makine Öğrenmesi (Machine Learning):Yapay zekanın yeni koşullara uyum sağlayabilmesi ve verilerden yola çıkarak desen veya modelleri belirleyebilmek.
+    > **Açıklama:** Yapay Zeka Tür ve Çalışmaları<br />Turing testini geçebilmesi için yapay zekanın geçmesi gereken yetkinlikler aşağıda verilmiştir. Bunlar arasında Farklı dillerde işleme bulunmamaktadır.<br />1\. Doğal Dil İşleme (Natural Language Processing): Yapay zekanın testin yapıldığı dilde yetkin biçimde iletişim kurabilmesini sağlamaya çalışan araştırmaları kapsar.<br />2\. Bilgi Temsili (Knowledge Representation): Yapay zekanın bildiği veya duyduğunu saklayabilmesi<br />3\. Otomatikleştirilmiş Akıl Yürütme (Automated Reasoning): Yapay Zekanın sorulan sorulara sakladığı bilgilerle yanıt verebilmesi ve yeni yargılara varabilmesi<br />4\. Makine Öğrenmesi (Machine Learning):Yapay zekanın yeni koşullara uyum sağlayabilmesi ve verilerden yola çıkarak desen veya modelleri belirleyebilmek.
 
     <hr />
 1. Aşağıdakilerden hangisi yapay zekayı eleştiren ve Çince odası düşünsel deneyini ortaya atan düşünürdür?
@@ -4272,8 +3884,7 @@
     - D-) Shannon
     - E-) Winston
 
-    > **Açıklama:** Yapay Zeka Tür ve Çalışmaları
-    > Yapay zeka çalışmalarını eleştiren ve Çince Odası düşünsel deneyi ortaya atan düşünür John Searle (1996)’dir.
+    > **Açıklama:** Yapay Zeka Tür ve Çalışmaları<br />Yapay zeka çalışmalarını eleştiren ve Çince Odası düşünsel deneyi ortaya atan düşünür John Searle (1996)’dir.
 
     <hr />
 1. Yapay zeka çalışmaları hangi yıllarda gerçek bir yavaşlama yaşamıştır?
@@ -4283,8 +3894,7 @@
     - **Cevap D-) 1970ler**
     - E-) 1950ler
 
-    > **Açıklama:** Robot Kavram ve Tanımı
-    > 1970’ler yapay zeka için karanlık yıllar olarak adlandırılır (Warvick, 2011). Gerek önceki çalışmaların vaatlerini yerine getirememesi gerekse buna bağlı olarak tahsis edilen bütçelerin kesilmesi çalışmaların da yavaşlamasına neden olmuştur. O dönem teknik imkanlar bugünkü bilgisayarlardan çok daha ilkeldir ve ele alınan problemlerin çözümü için yeterli değildir.
+    > **Açıklama:** Robot Kavram ve Tanımı<br />1970’ler yapay zeka için karanlık yıllar olarak adlandırılır (Warvick, 2011). Gerek önceki çalışmaların vaatlerini yerine getirememesi gerekse buna bağlı olarak tahsis edilen bütçelerin kesilmesi çalışmaların da yavaşlamasına neden olmuştur. O dönem teknik imkanlar bugünkü bilgisayarlardan çok daha ilkeldir ve ele alınan problemlerin çözümü için yeterli değildir.
 
     <hr />
 1. Aşağıdakilerden hangisi Isaac Asimov’un (1950) hikayelerine dayanan üç robot kuralıdır?<br />1\. Bu kural daha üst bir kuralı ihlal etmedikçe hiçbir robot bir insana zarar veremez ya da hareketsiz kalarak zarar görmesine izin veremez.<br />2\. Daha üst bir kuralı ihlal etmedikçe robotlar insanların verdikleri emirleri yerine getirmek zorundadır.<br />3\. Bir robot insanlığı incitemez ya da hiçbir şey yapmayarak zarar gelmesine izin veremez.<br />4\. Daha üst bir kural ile çelişmedikçe bir robot kendi varlığını korumak zorundadır.
@@ -4294,12 +3904,7 @@
     - D-) I, II, III
     - **Cevap E-) I, II, IV**
 
-    > **Açıklama:** Robot Kavram ve Tanımı
-    > Isaac Asimov'un 1950 yayınladığı hikayelerinde geçen üç robot kuralı aşağıda verilmiştir. 1985’de ise Zeroth kuralı da getirilmiş v
-    > * Birinci Kanun: Bu kural daha üst bir kuralı ihlal etmedikçe hiçbir robot bir insana zarar veremez ya da hareketsiz kalarak zarar görmesine izin veremez.
-    > * İkinci Kanun: Daha üst bir kuralı ihlal etmedikçe robotlar insanların verdikleri emirleri yerine getirmek zorundadır.
-    > * Üçüncü Kanun: Daha üst bir kural ile çelişmedikçe bir robot kendi varlığını korumak zorundadır.
-    > * Zeroth Kanun: Bir robot insanlığı incitemez ya da hiçbir şey yapmayarak zarar gelmesine izin veremez.
+    > **Açıklama:** Robot Kavram ve Tanımı<br />Isaac Asimov'un 1950 yayınladığı hikayelerinde geçen üç robot kuralı aşağıda verilmiştir. 1985’de ise Zeroth kuralı da getirilmiş v<br />* Birinci Kanun: Bu kural daha üst bir kuralı ihlal etmedikçe hiçbir robot bir insana zarar veremez ya da hareketsiz kalarak zarar görmesine izin veremez.<br />* İkinci Kanun: Daha üst bir kuralı ihlal etmedikçe robotlar insanların verdikleri emirleri yerine getirmek zorundadır.<br />* Üçüncü Kanun: Daha üst bir kural ile çelişmedikçe bir robot kendi varlığını korumak zorundadır.<br />* Zeroth Kanun: Bir robot insanlığı incitemez ya da hiçbir şey yapmayarak zarar gelmesine izin veremez.
 
     <hr />
 ## Unite 8
@@ -4440,8 +4045,7 @@
     - D-) Kelime Anlam Ayrımı
     - **Cevap E-) Doğal Dil Üretimi**
 
-    > **Açıklama:** DDİ’nin temelinde programlama açısından öğretimi ya da kavraması zor yapıları veya diğer tüm sözlü ve yazılı kurallar bütününü parçalara veya yapılara ayırarak sistemsel düzenlemeyi ve öğretimi makinaya uygulamaktır. Bu sayede bilgisayarın insan ses ve metin verilerini daha kolay anlamlandırması sağlanır ve uygulamadan beklenen görevi yerine getirebilmesi için, yani insan metinlerini ve ses verilerini anlamlandırmasına yardımcı olacak şekilde işleme alabilmesi için bunları parçalar ve uygun modellemelerle düzenler (Kao v.d 2007). Bu görevlerden Doğal dil üretimi şöyle tanımlanır:
-    > Doğal dil üretimi bazen konuşma tanımanın veya konuşmayı metne dönüştürmenin tersi olarak tanımlanır; yapılandırılmış bilgiyi insan diline yerleştirme görevidir. Yapay konuşma sistemleri ile makine veya robotlarla insan etkileşimi sağlama. Örneğin ev asistanları ya da akıllı sistemlerin sesli komutları ile geri bildirimleri.
+    > **Açıklama:** DDİ’nin temelinde programlama açısından öğretimi ya da kavraması zor yapıları veya diğer tüm sözlü ve yazılı kurallar bütününü parçalara veya yapılara ayırarak sistemsel düzenlemeyi ve öğretimi makinaya uygulamaktır. Bu sayede bilgisayarın insan ses ve metin verilerini daha kolay anlamlandırması sağlanır ve uygulamadan beklenen görevi yerine getirebilmesi için, yani insan metinlerini ve ses verilerini anlamlandırmasına yardımcı olacak şekilde işleme alabilmesi için bunları parçalar ve uygun modellemelerle düzenler (Kao v.d 2007). Bu görevlerden Doğal dil üretimi şöyle tanımlanır:<br />Doğal dil üretimi bazen konuşma tanımanın veya konuşmayı metne dönüştürmenin tersi olarak tanımlanır; yapılandırılmış bilgiyi insan diline yerleştirme görevidir. Yapay konuşma sistemleri ile makine veya robotlarla insan etkileşimi sağlama. Örneğin ev asistanları ya da akıllı sistemlerin sesli komutları ile geri bildirimleri.
 
     <hr />
 1. DDİ dil modelleri arasında en basiti olarak kabul edilen yaklaşım aşağıdakilerden hangisidir?
@@ -4511,8 +4115,7 @@
     - D-) 2012
     - E-) 2017
 
-    > **Açıklama:** BÜYÜK VERİ ÇAĞINDA DİJİTAL PARMAK İZLERİMİZ
-    > “2016 yılında Avrupa Birliği Genel Veri Koruma Yönetmeliği (GDPR) uygulamaya konuldu.”
+    > **Açıklama:** BÜYÜK VERİ ÇAĞINDA DİJİTAL PARMAK İZLERİMİZ<br />“2016 yılında Avrupa Birliği Genel Veri Koruma Yönetmeliği (GDPR) uygulamaya konuldu.”
 
     <hr />
 1. Aşağıdakilerden hangisi algoritmik yöntemlerin dört temel özelliğinden biri **değildir**?
@@ -4522,8 +4125,7 @@
     - **Cevap D-) Nitel yaklaşım gerektirmesi**
     - E-) İşlenen verinin görselleştirilmesi
 
-    > **Açıklama:** Algoritmik Yöntemlerin Temel Özellikleri
-    > “Algoritmik yöntemlerinin dört tane temel özelliği vardır: büyük veri setlerinin kullanımı, otomatik veya yarı otomatik yazılımlar kullanarak dijital ortamdan veri toplanılması, toplanılan büyük veri kümelerinin bilgisayar bilimlerinden alınan bir dizi farklı teknik ile modellenmesi ve işlenen verinin görselleştirilmesidir.”
+    > **Açıklama:** Algoritmik Yöntemlerin Temel Özellikleri<br />“Algoritmik yöntemlerinin dört tane temel özelliği vardır: büyük veri setlerinin kullanımı, otomatik veya yarı otomatik yazılımlar kullanarak dijital ortamdan veri toplanılması, toplanılan büyük veri kümelerinin bilgisayar bilimlerinden alınan bir dizi farklı teknik ile modellenmesi ve işlenen verinin görselleştirilmesidir.”
 
     <hr />
 1. Aşağıdakilerden hangisi algoritmik yöntemlerde veri toplama tekniklerinden biridir?
@@ -4533,8 +4135,7 @@
     - D-) Yarı yapılandırma
     - **Cevap E-) Kazıma**
 
-    > **Açıklama:** Algoritmik Yöntemlerin Temel Özellikleri
-    > “Algoritmik yöntemlerde veri toplama teknik­lerine; kazıma ve programatik erişim örnek olarak verilebilir.”
+    > **Açıklama:** Algoritmik Yöntemlerin Temel Özellikleri<br />“Algoritmik yöntemlerde veri toplama teknik­lerine; kazıma ve programatik erişim örnek olarak verilebilir.”
 
     <hr />
 1. Tümüyle erişime kapalı olarak bulunan ya da paylaşılan veriye verilen isim aşağıdakilerden hangisidir?
@@ -4544,8 +4145,7 @@
     - D-) Ton dağılımı
     - E-) Kelime torbası
 
-    > **Açıklama:** DİJİTAL MECRALARDA VERİ DİNAMİKLERİ VE TEMEL ARAŞTIRMA YAKLAŞIMLARI
-    > “Tümüyle erişime kapalı olarak bulunan ya da paylaşılan veriye “karanlık” denir – bunlara örnek olarak e-postalar, SMS, WhatsApp’daki gibi içerikler verilebilir.”
+    > **Açıklama:** DİJİTAL MECRALARDA VERİ DİNAMİKLERİ VE TEMEL ARAŞTIRMA YAKLAŞIMLARI<br />“Tümüyle erişime kapalı olarak bulunan ya da paylaşılan veriye “karanlık” denir – bunlara örnek olarak e-postalar, SMS, WhatsApp’daki gibi içerikler verilebilir.”
 
     <hr />
 1. Aşağıdakilerden hangisi yapılandırılmış verilerin temel özelliklerinden biri **değildir**?
@@ -4555,8 +4155,7 @@
     - **Cevap D-) Forma dayalı veriler olarak sınıflandırılırlar.**
     - E-) Yaygın biçimleri metin ve sayılardır.
 
-    > **Açıklama:** Yapılandırılmış Veriler (Structured)
-    > Yapılandırılmış veriler sayıya dayalı, nicel oldukları için sayılabilir. Nicel olmaları sebebiyle de bu tür veriler nicel yöntemlere dayalı olarak analiz edilir. Yapılandırılmış veriler daha az depolama alanı gerektirirken yapılandırılmamış veriler daha fazlasını gerektirir.
+    > **Açıklama:** Yapılandırılmış Veriler (Structured)<br />Yapılandırılmış veriler sayıya dayalı, nicel oldukları için sayılabilir. Nicel olmaları sebebiyle de bu tür veriler nicel yöntemlere dayalı olarak analiz edilir. Yapılandırılmış veriler daha az depolama alanı gerektirirken yapılandırılmamış veriler daha fazlasını gerektirir.
 
     <hr />
 1. Web Kazıma yönteminde veriler hangi biçimde alınır?
@@ -4566,8 +4165,7 @@
     - D-) CSV
     - **Cevap E-) HTML**
 
-    > **Açıklama:** Web Kazıma Yöntemleri ve Süreci
-    > “Web Kazıma yönteminde veriler HTML biçiminde alınır, daha sonra istediğiniz algoritmik yöntemlerle temizlenerek yapılandırılmış veri formatına çevrilir.”
+    > **Açıklama:** Web Kazıma Yöntemleri ve Süreci<br />“Web Kazıma yönteminde veriler HTML biçiminde alınır, daha sonra istediğiniz algoritmik yöntemlerle temizlenerek yapılandırılmış veri formatına çevrilir.”
 
     <hr />
 1. Kazıyıcı yazılımlarına sitelerin hangi bölümlerine erişim sağlayabileceğini, hangi bölümlerin alınabileceğini anlatan, Erişim ve kullanım protokolleri belirleyen dosyanın adı nedir?
@@ -4587,8 +4185,7 @@
     - D-) JSON
     - E-) APİ
 
-    > **Açıklama:** Web Kazıma Yöntemleri ve Süreci
-    > “UPA, iki uygulamanın birbiriyle konuşmasına olanak tanıyan bir yazılım aracısı olan Uygulama Programlama Arayüzü’nün kısaltmasıdır. Sosyal medya platformlarından veri toplamak için kullanılan araçların çoğu, Uygulama Programlama Arayüzleri’nden (UPA’lar) programatik erişime dayanır.”
+    > **Açıklama:** Web Kazıma Yöntemleri ve Süreci<br />“UPA, iki uygulamanın birbiriyle konuşmasına olanak tanıyan bir yazılım aracısı olan Uygulama Programlama Arayüzü’nün kısaltmasıdır. Sosyal medya platformlarından veri toplamak için kullanılan araçların çoğu, Uygulama Programlama Arayüzleri’nden (UPA’lar) programatik erişime dayanır.”
 
     <hr />
 1. “Tekil bir içerikten milyonlarca içeriğin ortalamasına kadar ifade edilenlerin en basitinde olumlu, olumsuz ve nötr olmak üzere yaklaşımların ya da ifadelerin genel olarak bakış açısını belirten değerlendirme ve analiz biçimi” olarak verilen tanım aşağıdakilerden hangisine aittir?
@@ -4598,8 +4195,7 @@
     - D-) Metin analizi
     - E-) İlişkisel analiz
 
-    > **Açıklama:** Sosyal Medya Dinleme ve Analiz Uygulamalarında Veri Kriterleri ve Boyutları
-    > “Neredeyse tüm takip veya dinleme uygulamaları duygu (ton) analizini kullanıcılarına hizmet olarak sağlamaya çalışır. Duygu (ton) analizi, tekil bir içerikten milyonlarca içeriğin ortalamasına kadar ifade edilenlerin en basitinde olumlu, olumsuz ve nötr olmak üzere yaklaşımların ya da ifadelerin genel olarak bakış açısını belirten bir değerlendirme ve analiz biçimidir.”
+    > **Açıklama:** Sosyal Medya Dinleme ve Analiz Uygulamalarında Veri Kriterleri ve Boyutları<br />“Neredeyse tüm takip veya dinleme uygulamaları duygu (ton) analizini kullanıcılarına hizmet olarak sağlamaya çalışır. Duygu (ton) analizi, tekil bir içerikten milyonlarca içeriğin ortalamasına kadar ifade edilenlerin en basitinde olumlu, olumsuz ve nötr olmak üzere yaklaşımların ya da ifadelerin genel olarak bakış açısını belirten bir değerlendirme ve analiz biçimidir.”
 
     <hr />
 1. “Bir veri içerisinde bulunan tüm tekli, ikili, üçlü; sırasıyla ihtiyaç duyulan uzunluğa kadar verinin içerisinde yer alan tüm yapıların toplam sayılarına göre hiyerarşik olarak listelenmesi” olarak yapılan tanım aşağıdakilerden hangisine aittir?
@@ -4609,8 +4205,7 @@
     - D-) Kanal temizliği
     - E-) DataViz
 
-    > **Açıklama:** Doğal Dil İşleme ve Metin Madenciliği
-    > “Sözlüğün ya da kurallar setinin kaynağı verinin kendisidir. Verinin kendisinden kurallar dizini ve modelleri çıkarabilmek için kullanılan en temel uygulama ise Ngram çıkarmaktır. Ngram, bir veri içerisinde bulunan tüm tekli, ikili, üçlü; sırasıyla ihtiyaç duyulan uzunluğa kadar verinin içerisinde yer alan tüm yapıların toplam sayılarına göre hiyerarşik olarak listelenmesidir (Tsapatsoulis ve Djouvas 2019).”
+    > **Açıklama:** Doğal Dil İşleme ve Metin Madenciliği<br />“Sözlüğün ya da kurallar setinin kaynağı verinin kendisidir. Verinin kendisinden kurallar dizini ve modelleri çıkarabilmek için kullanılan en temel uygulama ise Ngram çıkarmaktır. Ngram, bir veri içerisinde bulunan tüm tekli, ikili, üçlü; sırasıyla ihtiyaç duyulan uzunluğa kadar verinin içerisinde yer alan tüm yapıların toplam sayılarına göre hiyerarşik olarak listelenmesidir (Tsapatsoulis ve Djouvas 2019).”
 
     <hr />
 1. Avrupa Birliği içindeki tüm bireylerin mahremiyetine ilişkin veri koruma düzenlemesi aşağıdakilerden hangisidir?
@@ -4620,8 +4215,7 @@
     - D-) RBPM
     - **Cevap E-) GDPR**
 
-    > **Açıklama:** Büyük Veri Çağinda Dijital Parmak İzlerimiz
-    > GDPR (General Data Protection Regulation)
+    > **Açıklama:** Büyük Veri Çağinda Dijital Parmak İzlerimiz<br />GDPR (General Data Protection Regulation)
 
     <hr />
 1. Tüm araştırma yöntemlerinde iki ana veri türü bulunur. Aşağıdakilerden hangisi **sıralanabilen nitel veriyi** tanımlar?
@@ -4631,8 +4225,7 @@
     - D-) Sayılarak elde edilen ve tam sayılı değerlerdir
     - E-) Birbirinden bağımsız isim bildiren, kod ve numara ile gösterilebilen, sınıflara ayrılan verilerdir
 
-    > **Açıklama:** Nitel ve Nicel Veri Nedir?
-    > Belirli bir miktar belirtilmeyen, bir sıra ya da dereceye göre elde edilen verilerdir
+    > **Açıklama:** Nitel ve Nicel Veri Nedir?<br />Belirli bir miktar belirtilmeyen, bir sıra ya da dereceye göre elde edilen verilerdir
 
     <hr />
 1. Yapılandırılmış veri terimi, bir dosya veya kayıt içindeki sabit bir alanda bulunan verileri ifade eder. Aşağıdakilerden hangisi yapılandırılmış veriler için kullanılan programlama dilidir?
@@ -4642,8 +4235,7 @@
     - D-) RDBMS
     - E-) RBPM
 
-    > **Açıklama:** Yapılandırılmış Veriler (Structured)
-    > SQL (Structured Query Language)
+    > **Açıklama:** Yapılandırılmış Veriler (Structured)<br />SQL (Structured Query Language)
 
     <hr />
 1. Dijital ortamlardan veri toplamak için kullanılan algoritmik yöntemler kullanılır. Aşağıdaki seçeneklerden hangisi Web kazımayı ifade eder?
@@ -4653,8 +4245,7 @@
     - D-) Bilimsel gözlem sonucu ulaşılan verilerdir
     - E-) İlişkilerle oluşan yapıyı daha geniş bir çerçeveden görmemizi sağlar
 
-    > **Açıklama:** Dijital Mecralarda Veri Nasıl Toplanır?
-    > Dijital ortamlardan veri çıkarılması ve bu verileri merkezî bir veri tabanında ve analizde depolanmaya uygun bir forma dönüştürülmesi işlemidir
+    > **Açıklama:** Dijital Mecralarda Veri Nasıl Toplanır?<br />Dijital ortamlardan veri çıkarılması ve bu verileri merkezî bir veri tabanında ve analizde depolanmaya uygun bir forma dönüştürülmesi işlemidir
 
     <hr />
 1. Web Taramasında kullanılan aradığımız içeriği araştırmak için interneti tarayan ve linkleri toplayan bir yazılım olan web tarayıcısı, genelde hangi isimle adlandırılır?
@@ -4664,8 +4255,7 @@
     - D-) Sinek
     - E-) Uğur böceği
 
-    > **Açıklama:** Web Kazıma Aşamaları
-    > Örümcek
+    > **Açıklama:** Web Kazıma Aşamaları<br />Örümcek
 
     <hr />
 1. Kazıma ile toplanılan kişisel verilerin kullanılması için kullanıcıların ... ... gerekmektedir. Cümledeki boşluğu aşağıdakilerin hangisi doğru bir şekilde doldurur?
@@ -4675,8 +4265,7 @@
     - D-) düzenli olması
     - E-) bilinçli olması
 
-    > **Açıklama:** Web Kazıma Yasal Mı?
-    > Türkiye’de 6698 numaralı Kişisel Verilerin Korunması Kanunu (KVKK) gereği kişisel verilerin toplanılması için için kullanıcının rıza alınması şarttır.
+    > **Açıklama:** Web Kazıma Yasal Mı?<br />Türkiye’de 6698 numaralı Kişisel Verilerin Korunması Kanunu (KVKK) gereği kişisel verilerin toplanılması için için kullanıcının rıza alınması şarttır.
 
     <hr />
 1. Yapılandırılmamış veriyi temizleyip yapılandırmak için yaygın biçimde kullanılan algoritmik yöntem aşağıdaki seçeneklerden hangisidir?
@@ -4686,8 +4275,7 @@
     - D-) Kural Tabanlı Sistemler
     - E-) Kelime Torbası Modeli
 
-    > **Açıklama:** Algoritmik Yöntemlerle Veri Temizleme Ve Analizi
-    > Metin Madenciliği
+    > **Açıklama:** Algoritmik Yöntemlerle Veri Temizleme Ve Analizi<br />Metin Madenciliği
 
     <hr />
 1. Doğal Dil İşlemede, analiz edilen ya da ele alınan konu veya koşulu barındıran metinin göreceli yaklaşımının duygulara veya tutumlara göre tanımlanması, Doğal Dil İşleme programının hangi görevidir?
@@ -4697,8 +4285,7 @@
     - D-) Kelime anlam ayrımı
     - **Cevap E-) Duygu analizi**
 
-    > **Açıklama:** Doğal Dil İşleme (Natural Language Processing, DDİ)
-    > Duygu analizi
+    > **Açıklama:** Doğal Dil İşleme (Natural Language Processing, DDİ)<br />Duygu analizi
 
     <hr />
 1. Tüm DDİ dil modellerinin en basiti olan ve çoğu ticari platform tarafından kullanılan model hangisidir?
@@ -4718,8 +4305,7 @@
     - D-) Lee Rainie
     - E-) Manuel Castells
 
-    > **Açıklama:** Jacob Moreno’nun Yatakhane Firarileri (1932)
-    > Stanley Milgram
+    > **Açıklama:** Jacob Moreno’nun Yatakhane Firarileri (1932)<br />Stanley Milgram
 
     <hr />
 1. I- Veri, kullanıcıların belirli şekillerde nasıl davrandığına ilişkin soruları yanıtlar.<br />II- Yorum öznel bir süreç olduğundan dolayı veri güdümlü yöntemlerle üretilmiş bilgi hiçbir zaman tamamen nesnel değildir.<br />III- Toplumun belli kesimleri düzenli olarak internet kullanmıyor. Herkesin sosyal medya hesabı yok. Bazen, aynı hesabı kullanan birden fazla kullanıcı olabilir. Bunlardan dolayı çevrimiçi ortamlardan toplanan verilerle topluma ilişkin kapsamlı genellemeler yapmaktan kaçınmak gerekir.<br />IV- Büyük veri ve bütün veri aynı şeyler değildir.<br />V- Daha küçük, nitel veri setleri araştırdığımız konuya dair sağlıklı bilgi sağlayamaz. Nitel yöntemlerle elde edilen veri, algoritmik yöntemler kullanıldığında gözden kaçabilir.<br />VI- Algoritmik yöntemlerle toplanmış bağlam dışı verinin herhangi bir değeri yoktur.<br />Yukarıdaki bilgilerden hangileri algoritmik yöntemlerin sınırlarındandır?
@@ -4729,13 +4315,7 @@
     - D-) II, IV, V, VI
     - E-) III, IV, V, VI
 
-    > **Açıklama:** Algoritmik Yöntemlerin Sınırları, başlığını inceleyiniz.
-    > Algoritmik yöntemlerin sınırlarından bazıları şunlardır:
-    > I- Veri, kullanıcıların belirli şekillerde nasıl davrandığına ilişkin soruları yanıtlar.
-    > II- Yorum öznel bir süreç olduğundan dolayı veri güdümlü yöntemlerle üretilmiş bilgi hiçbir zaman tamamen nesnel değildir.
-    > III- Toplumun belli kesimleri düzenli olarak internet kullanmıyor. Herkesin sosyal medya hesabı yok. Bazen, aynı hesabı kullanan birden fazla kullanıcı olabilir. Bunlardan dolayı çevrimiçi ortamlardan toplanan verilerle topluma ilişkin kapsamlı genellemeler yapmaktan kaçınmak gerekir.
-    > IV- Büyük veri ve bütün veri aynı şeyler değildir.
-    > VI- Algoritmik yöntemlerle toplanmış bağlam dışı verinin herhangi bir değeri yoktur.
+    > **Açıklama:** Algoritmik Yöntemlerin Sınırları, başlığını inceleyiniz.<br />Algoritmik yöntemlerin sınırlarından bazıları şunlardır:<br />I- Veri, kullanıcıların belirli şekillerde nasıl davrandığına ilişkin soruları yanıtlar.<br />II- Yorum öznel bir süreç olduğundan dolayı veri güdümlü yöntemlerle üretilmiş bilgi hiçbir zaman tamamen nesnel değildir.<br />III- Toplumun belli kesimleri düzenli olarak internet kullanmıyor. Herkesin sosyal medya hesabı yok. Bazen, aynı hesabı kullanan birden fazla kullanıcı olabilir. Bunlardan dolayı çevrimiçi ortamlardan toplanan verilerle topluma ilişkin kapsamlı genellemeler yapmaktan kaçınmak gerekir.<br />IV- Büyük veri ve bütün veri aynı şeyler değildir.<br />VI- Algoritmik yöntemlerle toplanmış bağlam dışı verinin herhangi bir değeri yoktur.
 
     <hr />
 1. “*İnsan davranışları hakkında üretilmiş tüm sosyal bilim teorilerini unutun gitsin (...) insanlar neyi neden yaptığını nereden bilebiliriz ki? Önemli olan insanların nasıl davrandığını ölçebilmek. Elimizdeki yeni imkanlarla insanların davranışlarını eşi benzeri görülmemiş bir doğrulukla takip edip ölçebiliyoruz. Yeterli veriyle, insan davranışlarını öngörüp aksiyon almamız mümkün*” diyerek günümüz koşullarında insanların nasıl davrandığının ölçülebileceğine vurgu yapan yayıncı aşağıdakilerden hangisidir?
@@ -4745,8 +4325,7 @@
     - D-) Shoshana Zuboff
     - E-) Luciano Floridi
 
-    > **Açıklama:** Algoritmik Yöntemlerin Temel Özellikleri, başlığını inceleyiniz.
-    > “İnsan davranışları hakkında üretilmiş tüm sosyal bilim teorilerini unutun gitsin (...) insanlar neyi neden yaptığını nereden bilebiliriz ki? Önemli olan insanların nasıl davrandığını ölçebilmek. Elimizdeki yeni imkanlarla insanların davranışlarını eşi benzeri görülmemiş bir doğrulukla takip edip ölçebiliyoruz. Yeterli veriyle, insan davranışlarını öngörüp aksiyon almamız mümkün”. Wired dergisinin genel yayın yönetmeni **Chris Anderson**, yayımladığı bir yazıda teknoloji şirketleri tarafından toplanan verilerin sosyal bilim teorilerini geçersiz kıldığını iddia eder. Anderson, her şeyin dijital izi olduğu bir çağda sosyal bilimleri ve sosyal bilim yöntemlerine ihtiyaç olmadığını savunur. Anderson’ın sosyal bilimlere yönelik sözlerinin eleştiriden ziyade tatlı bir provokasyon olmasıyla beraber, verileşmenin sosyal bilimlerin epistemolojik ufkunu sarstığını işaret etmekte haklıdır.
+    > **Açıklama:** Algoritmik Yöntemlerin Temel Özellikleri, başlığını inceleyiniz.<br />“İnsan davranışları hakkında üretilmiş tüm sosyal bilim teorilerini unutun gitsin (...) insanlar neyi neden yaptığını nereden bilebiliriz ki? Önemli olan insanların nasıl davrandığını ölçebilmek. Elimizdeki yeni imkanlarla insanların davranışlarını eşi benzeri görülmemiş bir doğrulukla takip edip ölçebiliyoruz. Yeterli veriyle, insan davranışlarını öngörüp aksiyon almamız mümkün”. Wired dergisinin genel yayın yönetmeni **Chris Anderson**, yayımladığı bir yazıda teknoloji şirketleri tarafından toplanan verilerin sosyal bilim teorilerini geçersiz kıldığını iddia eder. Anderson, her şeyin dijital izi olduğu bir çağda sosyal bilimleri ve sosyal bilim yöntemlerine ihtiyaç olmadığını savunur. Anderson’ın sosyal bilimlere yönelik sözlerinin eleştiriden ziyade tatlı bir provokasyon olmasıyla beraber, verileşmenin sosyal bilimlerin epistemolojik ufkunu sarstığını işaret etmekte haklıdır.
 
     <hr />
 1. I- Facebook<br />II- Twitter<br />III- Instagram<br />IV- Bloglar<br />V- Forumlar<br />VI- Haberler portalları<br />VII- Kişisel web siteleri<br />Yukarıdakilerden hangileri toplumun davranışlarını ve görüşlerini anlamak için kullanılabilecek dijital mecralardır?
@@ -4756,8 +4335,7 @@
     - D-) I, II, III, VII
     - **Cevap E-) I, II, III, IV, V, VI, VII**
 
-    > **Açıklama:** Dijital Mecra Türleri ve Veriye Erişim, başlığını inceleyiniz.
-    > Dijital mecralar, ilk aklımıza gelen büyük platformlarla sınırlı değildir – Facebook, Twitter, Instagram vb. dışında birçok başka şeyi de kapsar. Bunların arasında bloglar, forumlar, haberler portalları ve hatta kişisel web siteleri dâhildir. İnternette karşılaştığınız herhangi kamuya açık herhangi bir site, toplumun davranışlarını ve görüşlerini anlamamıza yardımcı olmak için kullanılabilir.
+    > **Açıklama:** Dijital Mecra Türleri ve Veriye Erişim, başlığını inceleyiniz.<br />Dijital mecralar, ilk aklımıza gelen büyük platformlarla sınırlı değildir – Facebook, Twitter, Instagram vb. dışında birçok başka şeyi de kapsar. Bunların arasında bloglar, forumlar, haberler portalları ve hatta kişisel web siteleri dâhildir. İnternette karşılaştığınız herhangi kamuya açık herhangi bir site, toplumun davranışlarını ve görüşlerini anlamamıza yardımcı olmak için kullanılabilir.
 
     <hr />
 1. I- Konvansiyonel araştırma yöntemlerine göre sayılabilir ama ölçülmez verilerdir.<br />II- Birimlere dayalı ölçülmez verilerdir.<br />III- Sayılarak değerleri, yoğunlukları belirtilebilen, belli bir yapısal özelliği, farklılığı taşımakla (veya taşımamakla) simgelenen verilerdir.<br />Yukarıda özellikleri belirtilen veri türü aşağıdakilerden hangisidir?
@@ -4767,9 +4345,7 @@
     - D-) betimsel veriler
     - E-) içerik analizi verileri
 
-    > **Açıklama:** Dijital Mecra Türleri ve Veriye Erişim, başlığını inceleyiniz.
-    > Nitel veriler, belli bir yapısal özelliğe sahip olup olmadıklarına göre simgelenen verilerdir. Nitel veriler konvansiyonel araştırma yöntemlerine göre sayılabilir ama ölçülmez.
-    > Birimlere dayalı ölçülmezler ve sayılarak değerleri, yoğunlukları belirtilebilen, belli bir yapısal özelliği, farklılığı taşımakla (veya taşımamakla) simgelenen verilerdir.
+    > **Açıklama:** Dijital Mecra Türleri ve Veriye Erişim, başlığını inceleyiniz.<br />Nitel veriler, belli bir yapısal özelliğe sahip olup olmadıklarına göre simgelenen verilerdir. Nitel veriler konvansiyonel araştırma yöntemlerine göre sayılabilir ama ölçülmez.<br />Birimlere dayalı ölçülmezler ve sayılarak değerleri, yoğunlukları belirtilebilen, belli bir yapısal özelliği, farklılığı taşımakla (veya taşımamakla) simgelenen verilerdir.
 
     <hr />
 1. Aşağıdakilerden hangisi yapılandırılmış verilere bir örnektir?
@@ -4779,9 +4355,7 @@
     - **Cevap D-) Satış işlemlerini kayıtları**
     - E-) SMS
 
-    > **Açıklama:** Dijital Mecralarda Bulunan Veri Türleri, başlığını inceleyiniz.
-    > Hava yolu rezervasyon sistemleri, envanter kontrol sistemleri, **satış işlemlerini kayıtları** yapılandırılmış verilerin kullanıldığı yaygın ilişkisel veritabanı örnekleridir.
-    > Diğer seçeneklerdeki veriler, yapılandırılmamış verilerdir.
+    > **Açıklama:** Dijital Mecralarda Bulunan Veri Türleri, başlığını inceleyiniz.<br />Hava yolu rezervasyon sistemleri, envanter kontrol sistemleri, **satış işlemlerini kayıtları** yapılandırılmış verilerin kullanıldığı yaygın ilişkisel veritabanı örnekleridir.<br />Diğer seçeneklerdeki veriler, yapılandırılmamış verilerdir.
 
     <hr />
 1. I- İnsan ve makine tarafından okunabilir bir formatı tanımlayan bir dizi belge kodlama kuralıdır.<br />II- Her ne kadar insanlar tarafından manuel olarak okunabilir olsa da büyük boyuttaki bu veri formatında dökümanı okumak oldukça fazla zaman alır ve verimli, etkili bir çalışma şekli değildir.<br />III- Avantajı, etiket odaklı yapısının oldukça esnek olmasıdır ve kodlayıcılar ile bu yapılabilir.<br />Yukarıda verilen özellikler yarı yapılandırılmış veri formatlarından hangisine aittir?
@@ -4791,8 +4365,7 @@
     - D-) ETL (extract, transform, load)
     - E-) Elektronik veri değişimi (EDI)
 
-    > **Açıklama:** Dijital Mecralarda Bulunan Veri Türleri, başlığını inceleyiniz.
-    > İşaretleme dili XML: Yarı yapılandırılmış bir belge dilidir. XML, insan ve makine tarafından okunabilir bir formatı tanımlayan bir dizi belge kodlama kuralıdır. Her ne kadar XML insanlar tarafından manuel olarak okunabilir olsa da büyük boyuttaki bir XML dökümanını okumak oldukça çok fazla alır ve verimli, etkili bir çalışma şekli değildir. Avantajı, etiket odaklı yapısının oldukça esnek olmasıdır ve kodlayıcılar ile bu yapılabilir.
+    > **Açıklama:** Dijital Mecralarda Bulunan Veri Türleri, başlığını inceleyiniz.<br />İşaretleme dili XML: Yarı yapılandırılmış bir belge dilidir. XML, insan ve makine tarafından okunabilir bir formatı tanımlayan bir dizi belge kodlama kuralıdır. Her ne kadar XML insanlar tarafından manuel olarak okunabilir olsa da büyük boyuttaki bir XML dökümanını okumak oldukça çok fazla alır ve verimli, etkili bir çalışma şekli değildir. Avantajı, etiket odaklı yapısının oldukça esnek olmasıdır ve kodlayıcılar ile bu yapılabilir.
 
     <hr />
 1. I- Kullanıcı bilgisi<br />II- Herkese açık profil bilgileri<br />III- Konum<br />IV- Arkadaşlar ve takipçiler<br />V- İleti metni<br />VI- Gönderi Zamanı<br />Yukarıdaki bilgilerden hangileri Twitter REST ve STREAM UPA verileri üzerinden alınabilir?
@@ -4802,18 +4375,7 @@
     - D-) I, II, III, V
     - E-) I, III, IV, VI
 
-    > **Açıklama:** Örnek: Twitter REST ve STREAM UPA, başlığını inceleyiniz.
-    > Twitter, diğer sosyal medya platformlarına kıyasla, araştırmacılara verilerini paylaşma konusunda daha imkan tanır. REST (Temsili durum aktarımı) ve STREAM UPA’ları aracılığıyla platform verilerine gerçek zamanlı erişim sunar. Bu UPA’lar üzerinden alınan veriler bizlere aşağıdaki bilgileri verir:
-    > • Kullanıcı bilgisi
-    > • Herkese açık profil bilgileri
-    > • Konum
-    > • Arkadaşlar ve takipçiler
-    > • İleti metni
-    > • Gönderi Zamanı
-    > • Mention’lar, hashtag’ler, emojiler
-    > • Resimler ve videolar
-    > • Paylaşılan İçeriğe Bağlantılar
-    > • Web Sitelerine Bağlantılar
+    > **Açıklama:** Örnek: Twitter REST ve STREAM UPA, başlığını inceleyiniz.<br />Twitter, diğer sosyal medya platformlarına kıyasla, araştırmacılara verilerini paylaşma konusunda daha imkan tanır. REST (Temsili durum aktarımı) ve STREAM UPA’ları aracılığıyla platform verilerine gerçek zamanlı erişim sunar. Bu UPA’lar üzerinden alınan veriler bizlere aşağıdaki bilgileri verir:<br />• Kullanıcı bilgisi<br />• Herkese açık profil bilgileri<br />• Konum<br />• Arkadaşlar ve takipçiler<br />• İleti metni<br />• Gönderi Zamanı<br />• Mention’lar, hashtag’ler, emojiler<br />• Resimler ve videolar<br />• Paylaşılan İçeriğe Bağlantılar<br />• Web Sitelerine Bağlantılar
 
     <hr />
 1. I- Sosyal zeka uygulamaları, sosyal medya metriklerine, paylaşılan içeriklere veya bu sosyal medya platformlarında meydana gelen aktivitelere bağlı olarak çeşitli içgörüler sunar.<br />II- Bu uygulamalar ve işlevleri hakkında geniş bir bilimsel literatür mevcuttur.<br />III- Bu uygulamaların ve sosyal medya platformlarının dinamikleri, teknik özellikleri ve kullanıcı alışkanlıkları, birbirine paralel olarak, sürekli olarak gelişmektedir ya da değişmektedir.<br />IV- Temel veri özellikleri ile ilgili kriterler kabul edilmiş sabit metrik (metrics) olarak ifade edilen ölçüm kriterleri vardır.<br />Yukarıdakilerden hangileri sosyal zeka uygulamalarının özelliklerindendir?
@@ -4823,13 +4385,7 @@
     - D-) I, II, III, IV
     - **Cevap E-) I, III, IV**
 
-    > **Açıklama:** Sosyal Medya Dinleme ve Analiz Uygulamalarında Veri Kriterleri ve Boyutları, başlığını inceleyiniz.
-    > Web platformlarını ve sosyal medyayı takip için kullanılan standart takip uygulamalarına kıyasla daha fazla çok yönlü ve çeşitli, derinlemesine içgörü sağlayacak özelliklerle veri toplamayı ve analiz etmeyi sağlayan uygulamalara genellikle ‘Sosyal Zeka’ (Social Intelligence) uygulamaları denir.
-    > I- Sosyal zeka uygulamaları, sosyal medya metriklerine, paylaşılan içeriklere veya bu sosyal medya platformlarında meydana gelen aktivitelere bağlı olarak çeşitli içgörüler sunar.
-    > III- Bunun da nedeni bu uygulamaların ve sosyal medya platformlarının dinamikleri, teknik özellikleri ve kullanıcı alışkanlıkları, birbirine paralel olarak, sürekli olarak gelişmektedir ya da değişmektedir.
-    > IV- Temel veri özellikleri ile ilgili kriterler kabul edilmiş sabit metrik (metrics) olarak ifade edilen ölçüm kriterleri vardır.
-    > **I, III, IV** sosyal zeka uygulamalarının özelliklerindendir.
-    > Ancak "II- Bu uygulamalar ve işlevleri hakkında geniş bir bilimsel literatür mevcuttur." şıkkı yanlıştır. Çünkü "bu uygulamaların ve sosyal medya platformlarının dinamikleri, teknik özellikleri ve kullanıcı alışkanlıkları, birbirine paralel olarak, sürekli olarak gelişmektedir ya da değişmektedir. " Bu nedenle bu uygulamalar ve işlevleri hakkında geniş bir bilimsel literatür yoktur.
+    > **Açıklama:** Sosyal Medya Dinleme ve Analiz Uygulamalarında Veri Kriterleri ve Boyutları, başlığını inceleyiniz.<br />Web platformlarını ve sosyal medyayı takip için kullanılan standart takip uygulamalarına kıyasla daha fazla çok yönlü ve çeşitli, derinlemesine içgörü sağlayacak özelliklerle veri toplamayı ve analiz etmeyi sağlayan uygulamalara genellikle ‘Sosyal Zeka’ (Social Intelligence) uygulamaları denir.<br />I- Sosyal zeka uygulamaları, sosyal medya metriklerine, paylaşılan içeriklere veya bu sosyal medya platformlarında meydana gelen aktivitelere bağlı olarak çeşitli içgörüler sunar.<br />III- Bunun da nedeni bu uygulamaların ve sosyal medya platformlarının dinamikleri, teknik özellikleri ve kullanıcı alışkanlıkları, birbirine paralel olarak, sürekli olarak gelişmektedir ya da değişmektedir.<br />IV- Temel veri özellikleri ile ilgili kriterler kabul edilmiş sabit metrik (metrics) olarak ifade edilen ölçüm kriterleri vardır.<br />**I, III, IV** sosyal zeka uygulamalarının özelliklerindendir.<br />Ancak "II- Bu uygulamalar ve işlevleri hakkında geniş bir bilimsel literatür mevcuttur." şıkkı yanlıştır. Çünkü "bu uygulamaların ve sosyal medya platformlarının dinamikleri, teknik özellikleri ve kullanıcı alışkanlıkları, birbirine paralel olarak, sürekli olarak gelişmektedir ya da değişmektedir. " Bu nedenle bu uygulamalar ve işlevleri hakkında geniş bir bilimsel literatür yoktur.
 
     <hr />
 1. I- konuşma tanıma<br />II- kelime anlam ayrımı<br />III- eş referans çözümlemesi<br />IV- görsel metin analizi<br />V- doğal dil üretimi<br />Yukarıdakilerden hangileri Doğal Dil İşleme uygulamalarının görevlerindendir?
@@ -4839,13 +4395,7 @@
     - D-) II, III, IV, V
     - **Cevap E-) I, II, III, V**
 
-    > **Açıklama:** Doğal Dil İşleme ve Metin Madenciliği, başlığını inceleyiniz.
-    > Doğal Dil İşleme uygulamalarının görevlerinden bazıları şunlardır:
-    > **I- konuşma tanıma**
-    > **II- kelime anlam ayrımı**
-    > **III- eş referans çözümlemesi**
-    > **V- doğal dil üretimi**
-    > Ancak, IV- görsel metin analizi görevlerinden değildir.
+    > **Açıklama:** Doğal Dil İşleme ve Metin Madenciliği, başlığını inceleyiniz.<br />Doğal Dil İşleme uygulamalarının görevlerinden bazıları şunlardır:<br />**I- konuşma tanıma**<br />**II- kelime anlam ayrımı**<br />**III- eş referans çözümlemesi**<br />**V- doğal dil üretimi**<br />Ancak, IV- görsel metin analizi görevlerinden değildir.
 
     <hr />
 1. I. Aktörler arası ilişkisellik, bulundukları sistemin niteliklerine dair önemli ipuçları barındırır.<br />II. Toplum gruplar ve topluluklardan değil, sosyal ağlardan oluşur.<br />III. Sosyal ağ analizi, nitel araştırma yöntemlerinden elde edilen bilgiyi tamamlayıcı niteliğe sahiptir.<br />Yukarıdakilerden hangisi/ hangileri sosyal ağ analizinin temel prensibidir/ prensiplerindendir?
@@ -4855,11 +4405,7 @@
     - D-) I, II
     - **Cevap E-) I, II, III**
 
-    > **Açıklama:** Algoritmik Yöntemlerle Veri Temizleme ve Analizi
-    > Sosyal Ağ Analizinin Temel Prensipleri
-    > 1\. Aktörler arası ilişkisellik, bulundukları sistemin niteliklerine dair önemli ipuçları barındırır.
-    > 2\. Toplum gruplar ve topluluklardan değil, sosyal ağlardan oluşur.
-    > 3\. Sosyal ağ analizi, nitel araştırma yöntemlerinden elde edilen bilgiyi tamamlayıcı niteliğe sahiptir.
+    > **Açıklama:** Algoritmik Yöntemlerle Veri Temizleme ve Analizi<br />Sosyal Ağ Analizinin Temel Prensipleri<br />1\. Aktörler arası ilişkisellik, bulundukları sistemin niteliklerine dair önemli ipuçları barındırır.<br />2\. Toplum gruplar ve topluluklardan değil, sosyal ağlardan oluşur.<br />3\. Sosyal ağ analizi, nitel araştırma yöntemlerinden elde edilen bilgiyi tamamlayıcı niteliğe sahiptir.
 
     <hr />
 1. Aşağıdakilerden hangisi gerçek zamanlı verileri işleyebilen algoritmaların, yani verileşmenin potansiyel olumsuz sonuçlarından biridir?

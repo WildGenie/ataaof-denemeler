@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 180242,
-        "SoruMetni": "<strong>I. </strong>Kırmızı<br/>II. Turuncu<br/>III. Sarı<br/>IV. Yeşil<br/><strong>Yukarıdakilerden hangisi ya da hangileri renk tayfında yer alır?</strong></br></br></br>",
+        "SoruMetni": "<strong>I. </strong>Kırmızı<br/>II. Turuncu<br/>III. Sarı<br/>IV. Yeşil<br/><strong>Yukarıdakilerden hangisi ya da hangileri renk tayfında yer alır?</strong>",
         "A": "I ve II",
         "B": "III ve IV",
         "C": "Yalnız III",

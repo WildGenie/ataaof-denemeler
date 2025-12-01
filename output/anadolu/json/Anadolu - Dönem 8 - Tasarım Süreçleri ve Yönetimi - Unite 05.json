@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Konu ile ilgili maddelere ayrıntılı olarak sayfa 128 e bkz.<br>Ekonomik katkı sağlamıştır."
+        "Aciklama": "Konu ile ilgili maddelere ayrıntılı olarak sayfa 128 e bkz.<br/>Ekonomik katkı sağlamıştır."
     },
     {
         "SoruID": 3832062,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Photoshop gibi yazılımlar</strong>, dijital görüntülerin renk düzeltme, kontrast ayarı, keskinlik artırma ve<br/>kompozisyon iyileştirme gibi işlemlerle geliştirilmesini sağlamaktadır.<br>Yüksek çözünürlüklü ve ölçeklenebilir grafikler oluşturma"
+        "Aciklama": "<strong>Photoshop gibi yazılımlar</strong>, dijital görüntülerin renk düzeltme, kontrast ayarı, keskinlik artırma ve<br/>kompozisyon iyileştirme gibi işlemlerle geliştirilmesini sağlamaktadır.<br/>Yüksek çözünürlüklü ve ölçeklenebilir grafikler oluşturma"
     },
     {
         "SoruID": 3832063,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Veri görselleştirmenin yoğun olarak kullanıldığı bazı alanlar ise şunlardır:</strong><br/>• Bilim: NASA’nın iklim değişikliği verilerini halka sunmak için oluşturduğu etkileşimli<br/>ısı haritaları, büyük veri görselleştirmenin bilimsel bir örneğidir.<br/>• Medya ve İletişim: The New York Times’ın veri görselleştirme projeleri, gazetecilikte<br/>bilgiye dayalı hikâye anlatımının etkili bir örneğini sunar (Cairo, 2013).<br/>• Pazarlama: Kullanıcı davranış verilerinin görselleştirilmesi, kampanyalarının hedef<br/>kitleye uygun şekilde optimize edilmesini sağlar.<br>Yaşlı bakımı"
+        "Aciklama": "<strong>Veri görselleştirmenin yoğun olarak kullanıldığı bazı alanlar ise şunlardır:</strong><br/>• Bilim: NASA’nın iklim değişikliği verilerini halka sunmak için oluşturduğu etkileşimli<br/>ısı haritaları, büyük veri görselleştirmenin bilimsel bir örneğidir.<br/>• Medya ve İletişim: The New York Times’ın veri görselleştirme projeleri, gazetecilikte<br/>bilgiye dayalı hikâye anlatımının etkili bir örneğini sunar (Cairo, 2013).<br/>• Pazarlama: Kullanıcı davranış verilerinin görselleştirilmesi, kampanyalarının hedef<br/>kitleye uygun şekilde optimize edilmesini sağlar.<br/>Yaşlı bakımı"
     },
     {
         "SoruID": 3832067,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Sanal gerçeklik teknolojilerinin temel özellikleri şunlardır:</strong><br/>• Tamamen Dijital Ortam: Kullanıcıları fiziksel dünyadan izole ederek yalnızca dijital<br/>bir ortamda deneyim yaşamalarını sağlar.<br/>• Immersif Deneyimler: Stereo görüntü, 3D ses ve dokunsal geri bildirim gibi teknolojilerle<br/>gerçeklik algısını artırır (Bailenson, 2018).<br/>• Etkileşimli Ortamlar: VR kontrol cihazlarıyla kullanıcıların sanal nesnelerle etkileşim<br/>kurmasına olanak tanır.<br/>• Simülasyon Kapasitesi: Özellikle eğitim ve tasarım alanında, karmaşık süreçlerin simülasyonunu<br/>sağlar.<br>Taşınabilirlik."
+        "Aciklama": "<strong>Sanal gerçeklik teknolojilerinin temel özellikleri şunlardır:</strong><br/>• Tamamen Dijital Ortam: Kullanıcıları fiziksel dünyadan izole ederek yalnızca dijital<br/>bir ortamda deneyim yaşamalarını sağlar.<br/>• Immersif Deneyimler: Stereo görüntü, 3D ses ve dokunsal geri bildirim gibi teknolojilerle<br/>gerçeklik algısını artırır (Bailenson, 2018).<br/>• Etkileşimli Ortamlar: VR kontrol cihazlarıyla kullanıcıların sanal nesnelerle etkileşim<br/>kurmasına olanak tanır.<br/>• Simülasyon Kapasitesi: Özellikle eğitim ve tasarım alanında, karmaşık süreçlerin simülasyonunu<br/>sağlar.<br/>Taşınabilirlik."
     },
     {
         "SoruID": 3832068,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İcatların temel özelliklerine ayrıntılı olarak sayfa 137. bkz.<br>Kavramsal uygulanabilir."
+        "Aciklama": "İcatların temel özelliklerine ayrıntılı olarak sayfa 137. bkz.<br/>Kavramsal uygulanabilir."
     },
     {
         "SoruID": 3832072,
@@ -197,6 +197,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İnovasyonların Özelliklerine detaylı sayfa 139'a bkz.<br>Konsept Geliştirme (Concept Development)"
+        "Aciklama": "İnovasyonların Özelliklerine detaylı sayfa 139'a bkz.<br/>Konsept Geliştirme (Concept Development)"
     }
 ]

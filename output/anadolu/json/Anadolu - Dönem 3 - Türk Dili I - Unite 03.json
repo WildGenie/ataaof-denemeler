@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçede sekiz ünlü vardır: a, e, ı, i, o, ö, u, ü.<br>b"
+        "Aciklama": "Türkçede sekiz ünlü vardır: a, e, ı, i, o, ö, u, ü.<br/>b"
     },
     {
         "SoruID": 3891846,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçe kökenli sözlerde /j/ bulunmaz<br>kolej"
+        "Aciklama": "Türkçe kökenli sözlerde /j/ bulunmaz<br/>kolej"
     },
     {
         "SoruID": 3891851,
@@ -637,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yuarıdaki iadelerden sadece C seçeneği doğrudur. Sözcük ya da hece sonunda belirli ünsüz çiftleri bulunabilir: Söz ya da hece sonunda bulunan ünsüz çiftlerinin tamamında ilk ünsüz akıcı /l, n, r/ ünsüzlerinden biri veya /s/dir. <br/>-LÇ: ölç, -LK: ilk, -LP: alp, -LḲ: kalḳ, -LT: alt, -NÇ: korkunç, -NK: denk, -NT: ant,<br/>-RÇ: sürç, -RK: Türk, -RḲ: sarḳ, -RP: sarp, -RS: pars, -RT: sürt, -ST: üst.</br>"
+        "Aciklama": "Yuarıdaki iadelerden sadece C seçeneği doğrudur. Sözcük ya da hece sonunda belirli ünsüz çiftleri bulunabilir: Söz ya da hece sonunda bulunan ünsüz çiftlerinin tamamında ilk ünsüz akıcı /l, n, r/ ünsüzlerinden biri veya /s/dir. <br/>-LÇ: ölç, -LK: ilk, -LP: alp, -LḲ: kalḳ, -LT: alt, -NÇ: korkunç, -NK: denk, -NT: ant,<br/>-RÇ: sürç, -RK: Türk, -RḲ: sarḳ, -RP: sarp, -RS: pars, -RT: sürt, -ST: üst."
     },
     {
         "SoruID": 3891864,
@@ -997,7 +997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses Bilgisi ile ilgili temel kavramlar - Konuşma sesi<br>Ses; üretim, iletişim, algılama ve<br/>değerlendirmeden ibaret dört ana<br/>aşamalı bir sürecin ürünüdür."
+        "Aciklama": "Ses Bilgisi ile ilgili temel kavramlar - Konuşma sesi<br/>Ses; üretim, iletişim, algılama ve<br/>değerlendirmeden ibaret dört ana<br/>aşamalı bir sürecin ürünüdür."
     },
     {
         "SoruID": 3891883,
@@ -1017,7 +1017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses bilgisi ile ilgili temel kavramlar<br>Konuşma seslerinin üretimin ve algılanmasını şu üç aşamada değerlend<br/>irebiliriz:<br/>• Söyleyiş ses bilgisi: Konuşurlar sesleri nasıl üretir?<br/>• Akustik ses bilgisi: Sesler havada nasıl yol alır?<br/>• İşitsel ses bilgisi: Dinleyenler sesleri nasıl algılar?"
+        "Aciklama": "Ses bilgisi ile ilgili temel kavramlar<br/>Konuşma seslerinin üretimin ve algılanmasını şu üç aşamada değerlend<br/>irebiliriz:<br/>• Söyleyiş ses bilgisi: Konuşurlar sesleri nasıl üretir?<br/>• Akustik ses bilgisi: Sesler havada nasıl yol alır?<br/>• İşitsel ses bilgisi: Dinleyenler sesleri nasıl algılar?"
     },
     {
         "SoruID": 3891884,
@@ -1037,7 +1037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses bilgisi ile ilgili temel kavramlar<br>Ses tellerinde ham ses haline gelen hava akımının ikinci durağı gırtlaktır. Gırtlağı geçen ham ses, küçük dil tarafından ağız boşluğuna veya geniz boşluğuna veya her ikisine birden gönderilir."
+        "Aciklama": "Ses bilgisi ile ilgili temel kavramlar<br/>Ses tellerinde ham ses haline gelen hava akımının ikinci durağı gırtlaktır. Gırtlağı geçen ham ses, küçük dil tarafından ağız boşluğuna veya geniz boşluğuna veya her ikisine birden gönderilir."
     },
     {
         "SoruID": 3891885,
@@ -1057,7 +1057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünlülerin sınıflandırılması<br>Ağız boşluğunun ön ve art bölümleriyle ilgili karşıtlık; /a/-/e/, /ı/-/i/, /o/-/ö/, /u/-/ü/ ayrımlarını belirler. Dilin ön tarafının tümsekleşmesiyle ağzın<br/>arka bölgesinde art ünlüler /a, ı, o, u/, dilin arka tarafının tümsekleşmesiyle ağız<br/>boşluğunun ön tarafında ön ünlüler /e, i, ö, ü/ oluşur."
+        "Aciklama": "Ünlülerin sınıflandırılması<br/>Ağız boşluğunun ön ve art bölümleriyle ilgili karşıtlık; /a/-/e/, /ı/-/i/, /o/-/ö/, /u/-/ü/ ayrımlarını belirler. Dilin ön tarafının tümsekleşmesiyle ağzın<br/>arka bölgesinde art ünlüler /a, ı, o, u/, dilin arka tarafının tümsekleşmesiyle ağız<br/>boşluğunun ön tarafında ön ünlüler /e, i, ö, ü/ oluşur."
     },
     {
         "SoruID": 3891886,
@@ -1077,7 +1077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünlülerin sınıflandırılması<br>Türkçe için en zayıf ünlü /ı/ harfidir."
+        "Aciklama": "Ünlülerin sınıflandırılması<br/>Türkçe için en zayıf ünlü /ı/ harfidir."
     },
     {
         "SoruID": 3891887,
@@ -1157,7 +1157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçe kökenli sözcüklerde bulunmayan ünsüzler<br>Türkçede istisna birkaç sözcüğün dışında /c, f, ğ, h, j, l, m, n, ñ, p, r, ş, v, z/ ünsüzler söz başında bulunmaz.ünsüzlerle başlayan sözcükler, belirtilen özel durumların dışında yabancı kökenlidir. Örneğin cuma, fen, hesap, şükür, vali, ziyaret Arapçadan; can,jale, peri, renk, şah Farsçadan; halter, jandarma, marj, narkoz, plato, raket, şövalye,vites Fransızcadan; cıvata, ciro, filika, firma, lastik, pipo, rota, vazo İtalyancadan;feribot, golf, hentbol, lider, miting, roket, şilt, vinç İngilizceden; cımbız, fire, huni,lahana, marangoz, poyraz, roka, vatos, zargana, zoka Rumcadan kopyalanmıştır."
+        "Aciklama": "Türkçe kökenli sözcüklerde bulunmayan ünsüzler<br/>Türkçede istisna birkaç sözcüğün dışında /c, f, ğ, h, j, l, m, n, ñ, p, r, ş, v, z/ ünsüzler söz başında bulunmaz.ünsüzlerle başlayan sözcükler, belirtilen özel durumların dışında yabancı kökenlidir. Örneğin cuma, fen, hesap, şükür, vali, ziyaret Arapçadan; can,jale, peri, renk, şah Farsçadan; halter, jandarma, marj, narkoz, plato, raket, şövalye,vites Fransızcadan; cıvata, ciro, filika, firma, lastik, pipo, rota, vazo İtalyancadan;feribot, golf, hentbol, lider, miting, roket, şilt, vinç İngilizceden; cımbız, fire, huni,lahana, marangoz, poyraz, roka, vatos, zargana, zoka Rumcadan kopyalanmıştır."
     },
     {
         "SoruID": 3891891,
@@ -1177,7 +1177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses uyumları<br>Ölçünlü Türkçede dudak uyumu veya düzlük-yuvarlaklık uyumu adı verilen uyuma göre düz ünlülerden sonra ancak düz ünlüler, yuvarlak ünlülerden sonra dar-yuvarlak veya düz-geniş ünlüler gelebilir. Çamur, kabuk, kavun, kavur-, yağmur gibi birkaç sözcük dudak uyumuna aykırıdır."
+        "Aciklama": "Ses uyumları<br/>Ölçünlü Türkçede dudak uyumu veya düzlük-yuvarlaklık uyumu adı verilen uyuma göre düz ünlülerden sonra ancak düz ünlüler, yuvarlak ünlülerden sonra dar-yuvarlak veya düz-geniş ünlüler gelebilir. Çamur, kabuk, kavun, kavur-, yağmur gibi birkaç sözcük dudak uyumuna aykırıdır."
     },
     {
         "SoruID": 3891892,
@@ -2117,7 +2117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçedeki ses olaylarını ayırt edebileceksiniz.<br>C seçeneğindeki muşamma sözcüğünün muşambaya dönüşmesi ünsüz ikizleşmesine değil, ünsüz aykırılaşmasına örnek gösterilebilir."
+        "Aciklama": "Türkçedeki ses olaylarını ayırt edebileceksiniz.<br/>C seçeneğindeki muşamma sözcüğünün muşambaya dönüşmesi ünsüz ikizleşmesine değil, ünsüz aykırılaşmasına örnek gösterilebilir."
     },
     {
         "SoruID": 3891939,
@@ -2137,7 +2137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Parçalar üstü ses birimlerini genel olarak değerlendirebileceksiniz.<br>Açıklama : Masmavi :Pekiştirme ekleri alan kelimelerde vurgu pekiştirme ekindedir; birinci hece.\r<br/>Hanımeli :Birleşik sözcüklerde vurgu bütün sözcüktedir.\r<br/>Kapı, Osman : İki heceli kelimelerde vurgu genelde son hecededir.\r<br/>İzmir: İki heceli yer adlarında vurgu ilk hecededir"
+        "Aciklama": "Parçalar üstü ses birimlerini genel olarak değerlendirebileceksiniz.<br/>Açıklama : Masmavi :Pekiştirme ekleri alan kelimelerde vurgu pekiştirme ekindedir; birinci hece.\r<br/>Hanımeli :Birleşik sözcüklerde vurgu bütün sözcüktedir.\r<br/>Kapı, Osman : İki heceli kelimelerde vurgu genelde son hecededir.\r<br/>İzmir: İki heceli yer adlarında vurgu ilk hecededir"
     },
     {
         "SoruID": 3891940,
@@ -2157,7 +2157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.<br>\"Konuşma seslerini özellikleri, türleri, sözcüklerdeki sıralanışları, görevleri ve uğradıkları değişmeler açısından araştıran, sını\u0018flandıran ve herhangi bir kurama dayalı olmayan, genellikle fiziksel yönleri ağır basan dil bilgisi dalına ses bilgisi denir. \""
+        "Aciklama": "Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.<br/>\"Konuşma seslerini özellikleri, türleri, sözcüklerdeki sıralanışları, görevleri ve uğradıkları değişmeler açısından araştıran, sını\u0018flandıran ve herhangi bir kurama dayalı olmayan, genellikle fiziksel yönleri ağır basan dil bilgisi dalına ses bilgisi denir. \""
     },
     {
         "SoruID": 3891941,
@@ -2177,7 +2177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br>\"Ünlülerin sını\u0018fandırılmasında esas olan boğumlanmayla ilgili belli başlı ölçütler şu şekildedir: Artlık/Önlük, Darlık/Genişlik, Düzlük/Yuvarlaklık, Uzunluk/Kısalık.\""
+        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br/>\"Ünlülerin sını\u0018fandırılmasında esas olan boğumlanmayla ilgili belli başlı ölçütler şu şekildedir: Artlık/Önlük, Darlık/Genişlik, Düzlük/Yuvarlaklık, Uzunluk/Kısalık.\""
     },
     {
         "SoruID": 3891942,
@@ -2197,7 +2197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ses özelliklerini açıklayabileceksiniz.<br>\" Ölçünlü Türkçede dudak uyumu veya düzlük-yuvarlaklık uyumu adı verilen uyuma göre düz ünlülerden sonra ancak düz ünlüler, yuvarlak ünlülerden sonra dar-yuvarlak veya düz-geniş ünlüler gelebilir.\" O halde B doğru cevaptır."
+        "Aciklama": "Türkçenin ses özelliklerini açıklayabileceksiniz.<br/>\" Ölçünlü Türkçede dudak uyumu veya düzlük-yuvarlaklık uyumu adı verilen uyuma göre düz ünlülerden sonra ancak düz ünlüler, yuvarlak ünlülerden sonra dar-yuvarlak veya düz-geniş ünlüler gelebilir.\" O halde B doğru cevaptır."
     },
     {
         "SoruID": 3891943,
@@ -2217,7 +2217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br>\"Türkçenin ünsüzleri genel olarak; oluşum/boğumlanma yerlerine (çıkaklarına) göre ve boğumlanma biçimlerine yani ötümlü/ötümsüz (titreşimli/titreşimsiz) olmalarına göre, sürekli/süreksiz olmalarına göre, ağız/geniz ünsüzü olmalarına göre sınıflandırılır. \" O halde D doğru cevaptır.<br/>Örneğin, boğumlanma yerine göre \"çift dudak ünsüzü\" olarak adlandırılan /b/ ünsüzü aynı zamanda \"titreşimli\", \"süreksiz\", \"ağız ünsüzü\" olarak sınıflandırılacaktır. <br/>Soru kökünde yer alan \"darlık/genişlik\" ve \"artlık/önlük\" ölçütleri ise ünlüleri sınıflandırmada kullanılır. Ayrıca bütün ünlüler titreşimlidir."
+        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br/>\"Türkçenin ünsüzleri genel olarak; oluşum/boğumlanma yerlerine (çıkaklarına) göre ve boğumlanma biçimlerine yani ötümlü/ötümsüz (titreşimli/titreşimsiz) olmalarına göre, sürekli/süreksiz olmalarına göre, ağız/geniz ünsüzü olmalarına göre sınıflandırılır. \" O halde D doğru cevaptır.<br/>Örneğin, boğumlanma yerine göre \"çift dudak ünsüzü\" olarak adlandırılan /b/ ünsüzü aynı zamanda \"titreşimli\", \"süreksiz\", \"ağız ünsüzü\" olarak sınıflandırılacaktır. <br/>Soru kökünde yer alan \"darlık/genişlik\" ve \"artlık/önlük\" ölçütleri ise ünlüleri sınıflandırmada kullanılır. Ayrıca bütün ünlüler titreşimlidir."
     },
     {
         "SoruID": 3891944,
@@ -2237,7 +2237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Parçalar üstü ses birimlerini genel olarak değerlendirebileceksiniz.<br>Kitapta verilen tanıma göre durak, \"konuşma esnasında cümleler veya sözcükler arasında verilen kısa aralıklardır. \""
+        "Aciklama": "Parçalar üstü ses birimlerini genel olarak değerlendirebileceksiniz.<br/>Kitapta verilen tanıma göre durak, \"konuşma esnasında cümleler veya sözcükler arasında verilen kısa aralıklardır. \""
     },
     {
         "SoruID": 3891945,
@@ -2257,7 +2257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ses özelliklerini açıklayabileceksiniz.<br>\"Türkçe sözcüklerde ikiz ve üçüz ünlüler yoktur. Türkçenin ünlüleri yalın ünlülerdir.\" O halde, doğru cevap B'dir."
+        "Aciklama": "Türkçenin ses özelliklerini açıklayabileceksiniz.<br/>\"Türkçe sözcüklerde ikiz ve üçüz ünlüler yoktur. Türkçenin ünlüleri yalın ünlülerdir.\" O halde, doğru cevap B'dir."
     },
     {
         "SoruID": 3891946,
@@ -2277,7 +2277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçedeki ses olaylarını ayırt edebileceksiniz.<br>Dar/geniş ses özellikleri yalnızca ünlülerde görülür. O halde doğru cevap D'dir."
+        "Aciklama": "Türkçedeki ses olaylarını ayırt edebileceksiniz.<br/>Dar/geniş ses özellikleri yalnızca ünlülerde görülür. O halde doğru cevap D'dir."
     },
     {
         "SoruID": 3891947,
@@ -2297,7 +2297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.<br>Doğru cevap B şıkkıdır."
+        "Aciklama": "Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.<br/>Doğru cevap B şıkkıdır."
     },
     {
         "SoruID": 3891948,
@@ -2317,7 +2317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.<br>Doğru cevap E şıkkıdır"
+        "Aciklama": "Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.<br/>Doğru cevap E şıkkıdır"
     },
     {
         "SoruID": 3891949,
@@ -2337,7 +2337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br>Doğru cevap D şıkkıdır"
+        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br/>Doğru cevap D şıkkıdır"
     },
     {
         "SoruID": 3891950,
@@ -2357,7 +2357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br>Doğru cevap D şıkkıdır"
+        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br/>Doğru cevap D şıkkıdır"
     },
     {
         "SoruID": 3891951,
@@ -2377,7 +2377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br>Doğru cevap B şıkkıdır"
+        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br/>Doğru cevap B şıkkıdır"
     },
     {
         "SoruID": 3891952,
@@ -2397,7 +2397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br>Doğru cevap E şıkkıdır"
+        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br/>Doğru cevap E şıkkıdır"
     },
     {
         "SoruID": 3891953,
@@ -2417,7 +2417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ses özelliklerini açıklayabileceksiniz.<br>Doğru cevap D şıkkıdır."
+        "Aciklama": "Türkçenin ses özelliklerini açıklayabileceksiniz.<br/>Doğru cevap D şıkkıdır."
     },
     {
         "SoruID": 3891954,
@@ -2437,7 +2437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ses özelliklerini açıklayabileceksiniz.<br>Doğru cevap B şıkkıdır"
+        "Aciklama": "Türkçenin ses özelliklerini açıklayabileceksiniz.<br/>Doğru cevap B şıkkıdır"
     },
     {
         "SoruID": 3891955,
@@ -2457,7 +2457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçedeki ses olaylarını ayırt edebileceksiniz.<br>Doğru cevap C şıkkıdır"
+        "Aciklama": "Türkçedeki ses olaylarını ayırt edebileceksiniz.<br/>Doğru cevap C şıkkıdır"
     },
     {
         "SoruID": 3891956,
@@ -2477,7 +2477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçedeki ses olaylarını ayırt edebileceksiniz.<br>Doğru cevap E şıkkıdır"
+        "Aciklama": "Türkçedeki ses olaylarını ayırt edebileceksiniz.<br/>Doğru cevap E şıkkıdır"
     },
     {
         "SoruID": 3891957,
@@ -2497,7 +2497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Parçalar üstü ses birimlerini genel olarak değerlendirebileceksiniz.<br>Doğru cevap A şıkkıdır"
+        "Aciklama": "Parçalar üstü ses birimlerini genel olarak değerlendirebileceksiniz.<br/>Doğru cevap A şıkkıdır"
     },
     {
         "SoruID": 3891958,
@@ -2517,7 +2517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br>Doğru cevap A şıkkıdır"
+        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br/>Doğru cevap A şıkkıdır"
     },
     {
         "SoruID": 3891959,
@@ -2537,7 +2537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçedeki ses olaylarını ayırt edebileceksiniz.<br>Doğru cevap C şıkkıdır"
+        "Aciklama": "Türkçedeki ses olaylarını ayırt edebileceksiniz.<br/>Doğru cevap C şıkkıdır"
     },
     {
         "SoruID": 3891960,
@@ -2557,7 +2557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçedeki ses olaylarını ayırt edebileceksiniz.<br>Doğru cevap E şıkkıdır"
+        "Aciklama": "Türkçedeki ses olaylarını ayırt edebileceksiniz.<br/>Doğru cevap E şıkkıdır"
     },
     {
         "SoruID": 3891961,
@@ -2577,7 +2577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br>Doğru cevap C şıkkıdır"
+        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br/>Doğru cevap C şıkkıdır"
     },
     {
         "SoruID": 3891962,
@@ -2597,7 +2597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçedeki ses olaylarını ayırt edebileceksiniz.<br>Doğru cevap A şıkkıdır"
+        "Aciklama": "Türkçedeki ses olaylarını ayırt edebileceksiniz.<br/>Doğru cevap A şıkkıdır"
     },
     {
         "SoruID": 3891963,
@@ -2617,7 +2617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.<br>Doğru cevap B şıkkıdır"
+        "Aciklama": "Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.<br/>Doğru cevap B şıkkıdır"
     },
     {
         "SoruID": 3891964,
@@ -2637,7 +2637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçedeki ses olaylarını ayırt edebileceksiniz.<br>Doğru cevap D şıkkıdır"
+        "Aciklama": "Türkçedeki ses olaylarını ayırt edebileceksiniz.<br/>Doğru cevap D şıkkıdır"
     },
     {
         "SoruID": 3891965,
@@ -2657,7 +2657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Parçalar üstü ses birimlerini genel olarak değerlendirebileceksiniz.<br>Doğru cevap A şıkkıdır. Çift dudak ünsüzlerinden \"b\" sesi \"n\" sesini çift dudak ünsüzü olan \"m\" sesi değiştiriyor."
+        "Aciklama": "Parçalar üstü ses birimlerini genel olarak değerlendirebileceksiniz.<br/>Doğru cevap A şıkkıdır. Çift dudak ünsüzlerinden \"b\" sesi \"n\" sesini çift dudak ünsüzü olan \"m\" sesi değiştiriyor."
     },
     {
         "SoruID": 3891966,
@@ -2677,7 +2677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.<br>Ses; üretim, iletim, algılama ve değerlendirmeden ibaret dört ana aşamalı bir sürecin ürünüdür. Üretim, sesin konuşma özelliğine karşılık gelmektedir. Bu nedenle doğru yanıt 'B' şıkkıdır."
+        "Aciklama": "Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.<br/>Ses; üretim, iletim, algılama ve değerlendirmeden ibaret dört ana aşamalı bir sürecin ürünüdür. Üretim, sesin konuşma özelliğine karşılık gelmektedir. Bu nedenle doğru yanıt 'B' şıkkıdır."
     },
     {
         "SoruID": 3891967,
@@ -2697,7 +2697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.<br>Ses tellerinde ham ses hâline gelen hava akımının ikinci durağı gırtlaktır. Gırtlağı geçen ham ses, küçük dil tarafından ağız boşluğuna veya geniz boşluğuna veya her ikisine birden gönderilir. Bu nedenle doğru yanıt E şıkkıdır."
+        "Aciklama": "Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.<br/>Ses tellerinde ham ses hâline gelen hava akımının ikinci durağı gırtlaktır. Gırtlağı geçen ham ses, küçük dil tarafından ağız boşluğuna veya geniz boşluğuna veya her ikisine birden gönderilir. Bu nedenle doğru yanıt E şıkkıdır."
     },
     {
         "SoruID": 3891968,
@@ -2717,7 +2717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.<br>Türk alfabesi sesçildir, yani söylendiği ile yazılışı aynı olma ilkesi ile hazırlanmıştır. Bu nedenle doğru yanıt E şıkkıdır."
+        "Aciklama": "Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.<br/>Türk alfabesi sesçildir, yani söylendiği ile yazılışı aynı olma ilkesi ile hazırlanmıştır. Bu nedenle doğru yanıt E şıkkıdır."
     },
     {
         "SoruID": 3891969,
@@ -2737,7 +2737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br>*Artlık/Önlük: Ağız boşluğunun ön ve art bölümleriyle ilgili karşıtlık; /a/-/e/, /ı/-/i/, /o/-/ö/, /u/-/ü/ ayrımlarını belirler. Dilin ön tarafının tümsekleşmesiyle ağzın arka bölgesinde art ünlüler /a, ı, o, u/, dilin arka tarafının tümsekleşmesiyle ağız boşluğunun ön tarafında ön ünlüler /e, i, ö, ü/ oluşur. *Düzlük/Yuvarlaklık: Dudakların düzleştiği ya da yuvarlaklaştığı düz/yuvarlak karşıtlığı a/-/o/, /ı/-/u/, /e/-/ö/, /i/-/ü/ ayırımlarını belirler. Dudakların yuvarlaklaşması durumunda yuvarlak ünlüler /o, u, ö, ü/, düzleşmesi durumunda ise düz ünlüler /a, e, ı, i/ oluşur. *Darlık/Genişlik: Alt çenenin üst çeneye yaklaştığı veya üst çeneden uzaklaşması- na bağlı dar/geniş karşıtlığı ise a/-/ı/, /e/-/i/, /ö/-/ü/, /o/-/u/ ayırımlarını belirler. Alt çene ve üst çenenin birbirinden uzaklaşmasıyla, ağız boşluğu genişler, dolayısıyla geniş ünlüler /a, e, o, ö/; alt çene ile üst çenenin birbirine yaklaşmasıyla ağız boşluğu daralır ve dar ünlüler /ı, i, u, ü/ oluşur. Bu bilgilere göre 'Bursa' sözcüğündeki 'u' art, yuvarlak ve dar ünlüdür; 'a' art, düz ve geniş ünlüdür. İki ünlü sesin doğru olarak sınıflandırıldığı seçenek D'dir."
+        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br/>*Artlık/Önlük: Ağız boşluğunun ön ve art bölümleriyle ilgili karşıtlık; /a/-/e/, /ı/-/i/, /o/-/ö/, /u/-/ü/ ayrımlarını belirler. Dilin ön tarafının tümsekleşmesiyle ağzın arka bölgesinde art ünlüler /a, ı, o, u/, dilin arka tarafının tümsekleşmesiyle ağız boşluğunun ön tarafında ön ünlüler /e, i, ö, ü/ oluşur. *Düzlük/Yuvarlaklık: Dudakların düzleştiği ya da yuvarlaklaştığı düz/yuvarlak karşıtlığı a/-/o/, /ı/-/u/, /e/-/ö/, /i/-/ü/ ayırımlarını belirler. Dudakların yuvarlaklaşması durumunda yuvarlak ünlüler /o, u, ö, ü/, düzleşmesi durumunda ise düz ünlüler /a, e, ı, i/ oluşur. *Darlık/Genişlik: Alt çenenin üst çeneye yaklaştığı veya üst çeneden uzaklaşması- na bağlı dar/geniş karşıtlığı ise a/-/ı/, /e/-/i/, /ö/-/ü/, /o/-/u/ ayırımlarını belirler. Alt çene ve üst çenenin birbirinden uzaklaşmasıyla, ağız boşluğu genişler, dolayısıyla geniş ünlüler /a, e, o, ö/; alt çene ile üst çenenin birbirine yaklaşmasıyla ağız boşluğu daralır ve dar ünlüler /ı, i, u, ü/ oluşur. Bu bilgilere göre 'Bursa' sözcüğündeki 'u' art, yuvarlak ve dar ünlüdür; 'a' art, düz ve geniş ünlüdür. İki ünlü sesin doğru olarak sınıflandırıldığı seçenek D'dir."
     },
     {
         "SoruID": 3891970,
@@ -2757,7 +2757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçedeki ses olaylarını ayırt edebileceksiniz.<br>Dildeki değişmelerin nedenlerinden biri, doğadaki en az çaba yasası’dır (minimum enerji düzeyine düşme). İnsanlar sözcüklerin söylenişi esnasında mümkün olduğunca az enerji harcama eğilimindedir. Bu nedenle doğru yanıt C seçeneğidir."
+        "Aciklama": "Türkçedeki ses olaylarını ayırt edebileceksiniz.<br/>Dildeki değişmelerin nedenlerinden biri, doğadaki en az çaba yasası’dır (minimum enerji düzeyine düşme). İnsanlar sözcüklerin söylenişi esnasında mümkün olduğunca az enerji harcama eğilimindedir. Bu nedenle doğru yanıt C seçeneğidir."
     },
     {
         "SoruID": 3891971,
@@ -2777,7 +2777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Parçalar üstü ses birimlerini genel olarak değerlendirebileceksiniz.<br>Tonlama konuşma sırasında sesin perdesinin değişmesiyle oluşan melodik perdeleme ve dalgalanmadır. Bu nedenle sorunun doğru yanıt D şıkkıdır."
+        "Aciklama": "Parçalar üstü ses birimlerini genel olarak değerlendirebileceksiniz.<br/>Tonlama konuşma sırasında sesin perdesinin değişmesiyle oluşan melodik perdeleme ve dalgalanmadır. Bu nedenle sorunun doğru yanıt D şıkkıdır."
     },
     {
         "SoruID": 3891972,
@@ -2797,7 +2797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ses özelliklerini açıklayabileceksiniz.<br>Türkçede iki ünsüz hatta üç ünsüz yan yana gelebilir: ‘Türkçede iki sessizin yan yana gelemeyeceği’ kanısı oldukça yaygındır oysa Türkçede iki hatta üç ünsüz yan yana gelebilir. Bu nedenle doğru yanıt A şıkkıdır."
+        "Aciklama": "Türkçenin ses özelliklerini açıklayabileceksiniz.<br/>Türkçede iki ünsüz hatta üç ünsüz yan yana gelebilir: ‘Türkçede iki sessizin yan yana gelemeyeceği’ kanısı oldukça yaygındır oysa Türkçede iki hatta üç ünsüz yan yana gelebilir. Bu nedenle doğru yanıt A şıkkıdır."
     },
     {
         "SoruID": 3891973,
@@ -2817,7 +2817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ses özelliklerini açıklayabileceksiniz.<br>'Türkçe hece türleri' tablosunu incelendiğinde, 'ünsüz+ünsüz+ünlü' olan 'gri' sözcüğünün Türkçe hece türü olmadığı görülmektedir. Bu nedenle doğru yanıt D seçeneğidir."
+        "Aciklama": "Türkçenin ses özelliklerini açıklayabileceksiniz.<br/>'Türkçe hece türleri' tablosunu incelendiğinde, 'ünsüz+ünsüz+ünlü' olan 'gri' sözcüğünün Türkçe hece türü olmadığı görülmektedir. Bu nedenle doğru yanıt D seçeneğidir."
     },
     {
         "SoruID": 3891974,
@@ -2837,7 +2837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.<br>Ses dört aşamadan meydana gelir. Bunlar; üretim, iletim, algılama ve değerlendirmedir. Bu nedenle doğru cevap E şıkkıdır."
+        "Aciklama": "Ses bilgisi ile ilgili temel kavramları açıklayabileceksiniz.<br/>Ses dört aşamadan meydana gelir. Bunlar; üretim, iletim, algılama ve değerlendirmedir. Bu nedenle doğru cevap E şıkkıdır."
     },
     {
         "SoruID": 3891975,
@@ -2857,7 +2857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br>Türkçede iki ünsüz hatta üç ünsüz yan yana gelebilir: ‘Türkçede iki sessizin yan yana gelemeyecegi kanısı oldukça yaygındır oysa Türkçede iki hatta üç ünsüz yan yana gelebilir. Türkçede iki ünsüzün veya üç ünsüzün yana yana gelebileceği veya gelemeyeceği özel durumlar şu şekildedir: Türkçe kökenli sözcüklerde söz basında, bir iki tartışmalı örnek göz önüne alınmazsa söyleyişte ve yazımda iki ünsüz yan yana bulunamaz. Ancak sözcük veya heceler Türk, alt, ölç, üst vb. belirli ünsüz çiftleri ile sona erebilir. Altı, aldı, eller, gitmiş vb. örneklerdeki gibi farklı hecelerde iki ünsüz yan yana bulunabilir. Türkçe, altta, ölçtü, üstten örneklerinde olduğu gibi ikisi hecenin sonunda, üçüncüsü sonraki hecenin basında olmak üzere üç ünsüz yan yana gelebilir."
+        "Aciklama": "Türkçenin ünlü ve ünsüzlerinin özelliklerini betimleyebileceksiniz.<br/>Türkçede iki ünsüz hatta üç ünsüz yan yana gelebilir: ‘Türkçede iki sessizin yan yana gelemeyecegi kanısı oldukça yaygındır oysa Türkçede iki hatta üç ünsüz yan yana gelebilir. Türkçede iki ünsüzün veya üç ünsüzün yana yana gelebileceği veya gelemeyeceği özel durumlar şu şekildedir: Türkçe kökenli sözcüklerde söz basında, bir iki tartışmalı örnek göz önüne alınmazsa söyleyişte ve yazımda iki ünsüz yan yana bulunamaz. Ancak sözcük veya heceler Türk, alt, ölç, üst vb. belirli ünsüz çiftleri ile sona erebilir. Altı, aldı, eller, gitmiş vb. örneklerdeki gibi farklı hecelerde iki ünsüz yan yana bulunabilir. Türkçe, altta, ölçtü, üstten örneklerinde olduğu gibi ikisi hecenin sonunda, üçüncüsü sonraki hecenin basında olmak üzere üç ünsüz yan yana gelebilir."
     },
     {
         "SoruID": 3891976,
@@ -2877,7 +2877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ses özelliklerini açıklayabileceksiniz.<br>Türk Dil Kurumu 12 Temmuz 1932 yılında kurulmuştur."
+        "Aciklama": "Türkçenin ses özelliklerini açıklayabileceksiniz.<br/>Türk Dil Kurumu 12 Temmuz 1932 yılında kurulmuştur."
     },
     {
         "SoruID": 3891977,
@@ -2997,7 +2997,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin ses özelliklerini açıklayabileceksiniz.<br>Kutadgu Bilig, Yusuf Has Hacib tarafından yazılan önemli bir eserdir."
+        "Aciklama": "Türkçenin ses özelliklerini açıklayabileceksiniz.<br/>Kutadgu Bilig, Yusuf Has Hacib tarafından yazılan önemli bir eserdir."
     },
     {
         "SoruID": 3891983,
@@ -4097,7 +4097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Giriş başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 1"
+        "Aciklama": "Giriş başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 1"
     },
     {
         "SoruID": 3892038,
@@ -4117,7 +4117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünlüler başlığı altındaki bilgileri gözden geçiriniz.<br>A seçeneğinde dinle- fiili şimdiki zaman eki -yor ile birleştiğinde fiilin sonundaki -a- geniş ünlüsü şimdiki zaman ekinin daraltıcı etkisiyle -i- ünlüsüne dönüşmüştür. Bu nedenle bu cümlede ünlü daralması vardır."
+        "Aciklama": "Ünlüler başlığı altındaki bilgileri gözden geçiriniz.<br/>A seçeneğinde dinle- fiili şimdiki zaman eki -yor ile birleştiğinde fiilin sonundaki -a- geniş ünlüsü şimdiki zaman ekinin daraltıcı etkisiyle -i- ünlüsüne dönüşmüştür. Bu nedenle bu cümlede ünlü daralması vardır."
     },
     {
         "SoruID": 3892039,
@@ -4137,7 +4137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünsüzler başlığı altındaki bilgileri gözden geçiriniz.<br>Türkçede sert ünsüzlerle biten sözcükler d,c,g ünsüzlerinden biri ile başlayan ek aldıklarında d t'ye, c ç'ye ve g de k'ye dönüşür. Bu durumda B seçeneğindeki sözcükte bu durum yoktur."
+        "Aciklama": "Ünsüzler başlığı altındaki bilgileri gözden geçiriniz.<br/>Türkçede sert ünsüzlerle biten sözcükler d,c,g ünsüzlerinden biri ile başlayan ek aldıklarında d t'ye, c ç'ye ve g de k'ye dönüşür. Bu durumda B seçeneğindeki sözcükte bu durum yoktur."
     },
     {
         "SoruID": 3892040,
@@ -4157,7 +4157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Türkçenin Ses Özellikleri başlığı altındaki bilgileri gözde geçiriniz.<br>Amaç 3"
+        "Aciklama": "Türkçenin Ses Özellikleri başlığı altındaki bilgileri gözde geçiriniz.<br/>Amaç 3"
     },
     {
         "SoruID": 3892041,
@@ -4177,7 +4177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ünlü Birleşmesi başlığı altındaki bilgileri gözden geçiriniz.<br>Amaç 4"
+        "Aciklama": "Ünlü Birleşmesi başlığı altındaki bilgileri gözden geçiriniz.<br/>Amaç 4"
     },
     {
         "SoruID": 3892042,
@@ -4197,7 +4197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Vurgu başlığı altındaki bilgileri gözden geçiriniz.<br>Gelin sözcüğü gelmek fiilinin emir kipinde kullanılırsa vurgu ikinci hecededir ancak yeni evlenen, yada evlenme töreni için hazırlanmış anlamında ise ikinci hecede vurgu olmaz."
+        "Aciklama": "Vurgu başlığı altındaki bilgileri gözden geçiriniz.<br/>Gelin sözcüğü gelmek fiilinin emir kipinde kullanılırsa vurgu ikinci hecededir ancak yeni evlenen, yada evlenme töreni için hazırlanmış anlamında ise ikinci hecede vurgu olmaz."
     },
     {
         "SoruID": 3892043,
@@ -4217,7 +4217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Vurgu başlığı altındaki bilgileri gözden geçiriniz.<br>Türkçede cümlelerdeki vurgu yükleme en yakın olanda olur. Bu durumda cümlede özne hem açık biçimde yazılarak hem de yükleme yakın verilerek vurguyu üzerine almıştır. Gerçekleştirme eyleminin kim tarafından olduğu vurgulanmıştır bu cümlede."
+        "Aciklama": "Vurgu başlığı altındaki bilgileri gözden geçiriniz.<br/>Türkçede cümlelerdeki vurgu yükleme en yakın olanda olur. Bu durumda cümlede özne hem açık biçimde yazılarak hem de yükleme yakın verilerek vurguyu üzerine almıştır. Gerçekleştirme eyleminin kim tarafından olduğu vurgulanmıştır bu cümlede."
     },
     {
         "SoruID": 3892044,

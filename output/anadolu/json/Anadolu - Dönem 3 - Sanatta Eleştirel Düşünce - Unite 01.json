@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "DEĞERLENDİRME, YORUM VE ELEŞTİRİ<br>Satıcının kişiliği"
+        "Aciklama": "DEĞERLENDİRME, YORUM VE ELEŞTİRİ<br/>Satıcının kişiliği"
     },
     {
         "SoruID": 3354062,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Eleştiri Tarihi<br>Platon"
+        "Aciklama": "<br/>Eleştiri Tarihi<br/>Platon"
     },
     {
         "SoruID": 3354064,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Medya eleştirisi<br>Görsel Medya"
+        "Aciklama": "<br/>Medya eleştirisi<br/>Görsel Medya"
     },
     {
         "SoruID": 3354065,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Toplumsal Gerçekçilik Kuramı<br>Karl Marx"
+        "Aciklama": "Toplumsal Gerçekçilik Kuramı<br/>Karl Marx"
     },
     {
         "SoruID": 3354066,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Toplumsal Gerçekçilik Kuramı<br>Gerçekçilik ve Doğalcılık"
+        "Aciklama": "Toplumsal Gerçekçilik Kuramı<br/>Gerçekçilik ve Doğalcılık"
     },
     {
         "SoruID": 3354067,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Sanatçıya Dönük Eleştiri: Anlatımcılık Kuramları, Romantizm<br>Eugene Veron"
+        "Aciklama": "<br/>Sanatçıya Dönük Eleştiri: Anlatımcılık Kuramları, Romantizm<br/>Eugene Veron"
     },
     {
         "SoruID": 3354068,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "tanımlar, kavramlar<br>Algı İng. perception: Bir şeye dikkati yönelterek, duyular yoluyla o şeyin bilincine varma. Bir nesne duyular aracılığıyla algılanır ancak algı duyusal izlenimlerden daha fazla bir şeydir, bilinçli bir farkına varmadır, duyumları bilince ileten bir olaydır."
+        "Aciklama": "tanımlar, kavramlar<br/>Algı İng. perception: Bir şeye dikkati yönelterek, duyular yoluyla o şeyin bilincine varma. Bir nesne duyular aracılığıyla algılanır ancak algı duyusal izlenimlerden daha fazla bir şeydir, bilinçli bir farkına varmadır, duyumları bilince ileten bir olaydır."
     },
     {
         "SoruID": 3354219,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "tanım ve kavramlar<br>Anlama; bir öznenin-süjenin veya herhangi bir şeyin bilincine ve farkına varılmasını ya da onunla ilgili bilgilerin edinilmesini sağlayan süreç ve de şeylerin, olay ve varlıkların anlamını kavrayabilme bütünüdür."
+        "Aciklama": "tanım ve kavramlar<br/>Anlama; bir öznenin-süjenin veya herhangi bir şeyin bilincine ve farkına varılmasını ya da onunla ilgili bilgilerin edinilmesini sağlayan süreç ve de şeylerin, olay ve varlıkların anlamını kavrayabilme bütünüdür."
     },
     {
         "SoruID": 3354220,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Değerlendirme tanımı, kapsamı<br>Günlük hayatta bütün bireyler bilinçli ya da bilinçsiz bir şekilde karşılaştığı tüm şeyleri değerlendirmeye sokar. Değerlendirme yöntemi ya da bir şeyin değerini bulma-saptama olarak İoanna Kuçuradi üç yol olduğunu ifade eder: Değer Yakıştırma, Değer Biçme ve Doğru Değerlendirme."
+        "Aciklama": "Değerlendirme tanımı, kapsamı<br/>Günlük hayatta bütün bireyler bilinçli ya da bilinçsiz bir şekilde karşılaştığı tüm şeyleri değerlendirmeye sokar. Değerlendirme yöntemi ya da bir şeyin değerini bulma-saptama olarak İoanna Kuçuradi üç yol olduğunu ifade eder: Değer Yakıştırma, Değer Biçme ve Doğru Değerlendirme."
     },
     {
         "SoruID": 3354221,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "tanım ve kavramlar<br>Eleştiri: 1. isim Bir insanı, bir eseri, bir konuyu doğru ve yanlış yanlarını bulup göstermek amacıyla inceleme işi, tenkit"
+        "Aciklama": "tanım ve kavramlar<br/>Eleştiri: 1. isim Bir insanı, bir eseri, bir konuyu doğru ve yanlış yanlarını bulup göstermek amacıyla inceleme işi, tenkit"
     },
     {
         "SoruID": 3354223,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eleştiri kavramı<br>Platon (MÖ 424-347), sanat, iyi ve güzel konusunda birçok önemli estetik kuramlar ortaya koymuş, sanatı bir yansıtma aracı olarak gören Yansıtma Kuramının ilk temsilcisi olmuştur. İdealar kuramında sanatı ‘mimesis’ kavramıyla açıklamaya çalışır ve yansımanın yansıması ya da taklidin taklidi olarak gerçekliğe ulaşmada ikincil bir yol olarak görür ve küçümser."
+        "Aciklama": "Eleştiri kavramı<br/>Platon (MÖ 424-347), sanat, iyi ve güzel konusunda birçok önemli estetik kuramlar ortaya koymuş, sanatı bir yansıtma aracı olarak gören Yansıtma Kuramının ilk temsilcisi olmuştur. İdealar kuramında sanatı ‘mimesis’ kavramıyla açıklamaya çalışır ve yansımanın yansıması ya da taklidin taklidi olarak gerçekliğe ulaşmada ikincil bir yol olarak görür ve küçümser."
     },
     {
         "SoruID": 3354224,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eleştiri kavramı<br>Aristoteles (MÖ 384–322), “Poetika” ve “Retorik” adlı kitaplarında sanatı sistematik bilimsel yaklaşımla ele alan, normlar ortaya koyan ve sınıflandıran ve döneminin öne çıkan sanat eserlerini eleştirel yaklaşımla inceleyen düşünürdür."
+        "Aciklama": "Eleştiri kavramı<br/>Aristoteles (MÖ 384–322), “Poetika” ve “Retorik” adlı kitaplarında sanatı sistematik bilimsel yaklaşımla ele alan, normlar ortaya koyan ve sınıflandıran ve döneminin öne çıkan sanat eserlerini eleştirel yaklaşımla inceleyen düşünürdür."
     },
     {
         "SoruID": 3354226,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eleştiri ve eleştiri tarihi<br>Tipik bir Rönesans eleştiricisi ve şair olan Sir Philip Sidney “Sanat yansıtmadır ve amacı eğlendirerek eğitmektir” der (Moran, 1983)."
+        "Aciklama": "Eleştiri ve eleştiri tarihi<br/>Tipik bir Rönesans eleştiricisi ve şair olan Sir Philip Sidney “Sanat yansıtmadır ve amacı eğlendirerek eğitmektir” der (Moran, 1983)."
     },
     {
         "SoruID": 3354227,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eleştiri tarihi<br>Eleştiri çalışmaları daha sonra İskenderiye Okulu tarafından geliştirilmiştir. Burada yapılan çalışmalar, Platon’un ve Aristoteles’in felsefi görüşlerine dayanmakla birlikte esas olarak dil bilgisi ağırlıklıydı, yani dil ve kültür ögeleri üzerinde derin, sistemli görüşler geliştirdiler. Başlıca temsilcileri Aristarque de Samothrace’tı. Aristarque, İlk Çağ’ın en meşhur eleştirmen ve gramercisiydi. Ciceron ve Horace, onu eleştirmenlerin eleştirmeni olarak görüyorlardı (Filizok, 2013)."
+        "Aciklama": "Eleştiri tarihi<br/>Eleştiri çalışmaları daha sonra İskenderiye Okulu tarafından geliştirilmiştir. Burada yapılan çalışmalar, Platon’un ve Aristoteles’in felsefi görüşlerine dayanmakla birlikte esas olarak dil bilgisi ağırlıklıydı, yani dil ve kültür ögeleri üzerinde derin, sistemli görüşler geliştirdiler. Başlıca temsilcileri Aristarque de Samothrace’tı. Aristarque, İlk Çağ’ın en meşhur eleştirmen ve gramercisiydi. Ciceron ve Horace, onu eleştirmenlerin eleştirmeni olarak görüyorlardı (Filizok, 2013)."
     },
     {
         "SoruID": 3354228,
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eleştiri kavramı ve tarihçesi<br>René Descartes Metot Üzerine Konuşma (1637) adlı eseriyle Klasisizmin temellerini atmıştır. İnsan aklının gerçekliği kavramasının ancak kuşkucu yaklaşımla mümkün olacağını savunur ve eleştirel düşüncenin en önemli temsilcisi olarak karşımıza çıkar. Modern felsefenin kurucusu ve felsefenin yönelimini değiştiren Descartes, 20. yüzyıl felsefesinde öne çıkan ve günümüz felsefesinin popüler alanlarından olan “Zihin Felsefesi” için başlangıç olur."
+        "Aciklama": "Eleştiri kavramı ve tarihçesi<br/>René Descartes Metot Üzerine Konuşma (1637) adlı eseriyle Klasisizmin temellerini atmıştır. İnsan aklının gerçekliği kavramasının ancak kuşkucu yaklaşımla mümkün olacağını savunur ve eleştirel düşüncenin en önemli temsilcisi olarak karşımıza çıkar. Modern felsefenin kurucusu ve felsefenin yönelimini değiştiren Descartes, 20. yüzyıl felsefesinde öne çıkan ve günümüz felsefesinin popüler alanlarından olan “Zihin Felsefesi” için başlangıç olur."
     },
     {
         "SoruID": 3785793,

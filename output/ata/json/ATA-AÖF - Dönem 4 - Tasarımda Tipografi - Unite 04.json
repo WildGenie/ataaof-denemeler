@@ -82,7 +82,7 @@
     {
         "SoruID": 337402,
         "SoruMetni": "<strong>Aşağıdakilerden hangisi tipografik hiyerarşi oluşturmada dikkat edilmesi gereken hususlardan biri <u>değildir</u>?</strong>",
-        "A": "Tasarım ile verilmek istenen görsel mesaj<br type=\"_moz\"/>",
+        "A": "Tasarım ile verilmek istenen görsel mesaj",
         "B": "Yazının içeriği",
         "C": "Tipografik elemanlar arası öncelik sırası",
         "D": "Metinde akış",

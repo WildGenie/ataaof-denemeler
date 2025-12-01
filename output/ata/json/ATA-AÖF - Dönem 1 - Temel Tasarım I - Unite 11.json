@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 300919,
-        "SoruMetni": "<strong>I. Simetri<br/>II. Asimetri<br/>III. Renk<br/>Yukarıda verilen seçeneklerden hangisi/hangileri tasarımda dengeyi oluşturan unsurlar arasında gösterilir?</br></br></strong>",
+        "SoruMetni": "<strong>I. Simetri<br/>II. Asimetri<br/>III. Renk<br/>Yukarıda verilen seçeneklerden hangisi/hangileri tasarımda dengeyi oluşturan unsurlar arasında gösterilir?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "II ve III",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 335165,
-        "SoruMetni": "I. Renk öğesi bir tasarımdaki dengeyi etkilemez.<br/>II. Tasarımın izlenme yönünü etkiler.<br/>III. Asimetri, tasarım yüzeyinin birbirine eşit olmayan bir etkide düzenlenmesidir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri asimetrinin temel tasarımdaki önemine yöneliktir?</strong></br></br>",
+        "SoruMetni": "I. Renk öğesi bir tasarımdaki dengeyi etkilemez.<br/>II. Tasarımın izlenme yönünü etkiler.<br/>III. Asimetri, tasarım yüzeyinin birbirine eşit olmayan bir etkide düzenlenmesidir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri asimetrinin temel tasarımdaki önemine yöneliktir?</strong>",
         "A": "II ve III",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -321,7 +321,7 @@
     },
     {
         "SoruID": 392409,
-        "SoruMetni": "I. Simetrik olmayan her tasarım asimetriktir.<br/>II. Denge, tasarıma düzen sağlar.<br/>III. Tasarımda denge, içeriğe aykırı bir etkide olmamalıdır.<br/><strong>Tasarım ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong></br></br>",
+        "SoruMetni": "I. Simetrik olmayan her tasarım asimetriktir.<br/>II. Denge, tasarıma düzen sağlar.<br/>III. Tasarımda denge, içeriğe aykırı bir etkide olmamalıdır.<br/><strong>Tasarım ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",

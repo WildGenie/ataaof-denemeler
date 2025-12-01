@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BİLGİSAYARLAR VE MONİTÖRLER<br>Bilgisayarların ayrılmaz parçası olan monitörler de çözünürlük, renk kalitesi, kontrast oranları ve boyut olarak devamlı değişmekte ve gelişmektedir. Anakart bilgisayar donanımındadır."
+        "Aciklama": "BİLGİSAYARLAR VE MONİTÖRLER<br/>Bilgisayarların ayrılmaz parçası olan monitörler de çözünürlük, renk kalitesi, kontrast oranları ve boyut olarak devamlı değişmekte ve gelişmektedir. Anakart bilgisayar donanımındadır."
     },
     {
         "SoruID": 3353136,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgisayarlar<br>Bilgisayarı oluşturan bütün fiziksel parçalara (işlemci, ekran, sabit disk, fare, klavye, ekran…) donanım adı verilir. MacOS bir yazılımdır"
+        "Aciklama": "Bilgisayarlar<br/>Bilgisayarı oluşturan bütün fiziksel parçalara (işlemci, ekran, sabit disk, fare, klavye, ekran…) donanım adı verilir. MacOS bir yazılımdır"
     },
     {
         "SoruID": 3353137,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bilgisayarlar<br>RAM geçici bellek birimidir"
+        "Aciklama": "Bilgisayarlar<br/>RAM geçici bellek birimidir"
     },
     {
         "SoruID": 3353138,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BİLGİSAYARLAR VE MONİTÖRLER<br>şletim sistemleri içerisinde çalışan ve çeşitli işlevleri olan yazılımlara ise uygulama yazılımları (program) denir. Photoshop, chrome, word, premiere gibi bilgisayarda kullandığımız tüm programlar birer uygulama yazılımıdır"
+        "Aciklama": "BİLGİSAYARLAR VE MONİTÖRLER<br/>şletim sistemleri içerisinde çalışan ve çeşitli işlevleri olan yazılımlara ise uygulama yazılımları (program) denir. Photoshop, chrome, word, premiere gibi bilgisayarda kullandığımız tüm programlar birer uygulama yazılımıdır"
     },
     {
         "SoruID": 3353139,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Monitörler<br>Çözünürlük azaldıkça netlik azalır ve görüntü bozulur."
+        "Aciklama": "Monitörler<br/>Çözünürlük azaldıkça netlik azalır ve görüntü bozulur."
     },
     {
         "SoruID": 3353140,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Monitör Özellikleri<br>Monitöre tam karşıdan baktığımızda ideal görüntüyü alırken, biraz yukarıdan bakıldığında görüntü açık tonlarda görünmeye başlarken biraz aşağıdan bakıldığında görüntü koyulaşır ve belli bir açıdan sonra neredeyse tamamen kaybolur. Bu nedenle hassas renk kontrolü gereken fotoğrafçılık gibi alanlarda tercih edilmemelidir"
+        "Aciklama": "Monitör Özellikleri<br/>Monitöre tam karşıdan baktığımızda ideal görüntüyü alırken, biraz yukarıdan bakıldığında görüntü açık tonlarda görünmeye başlarken biraz aşağıdan bakıldığında görüntü koyulaşır ve belli bir açıdan sonra neredeyse tamamen kaybolur. Bu nedenle hassas renk kontrolü gereken fotoğrafçılık gibi alanlarda tercih edilmemelidir"
     },
     {
         "SoruID": 3353141,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "UV (ultraviyole) Baskı Yöntemi<br>UV baskı cam, ahşap, seramik, metal, pvc gibi her türden sert yüzey üzerine, uygun tekstil ürünlerine hatta düzgün yüzeyli taş üzerine bile baskı yapabilen bir teknolojidir."
+        "Aciklama": "UV (ultraviyole) Baskı Yöntemi<br/>UV baskı cam, ahşap, seramik, metal, pvc gibi her türden sert yüzey üzerine, uygun tekstil ürünlerine hatta düzgün yüzeyli taş üzerine bile baskı yapabilen bir teknolojidir."
     },
     {
         "SoruID": 3353144,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "RENK YÖNETİMİ VE KALİBRASYON<br>Rengin baskın olan dalga boyunu tanımlar ve onu kırmızı, sarı, yeşil, mavi vb. gibi diğer renklerden ayıran rengin özelliğidir. Daha basit bir tanımla; renge baktığımızda gördüğümüz, rengin kendisidir."
+        "Aciklama": "RENK YÖNETİMİ VE KALİBRASYON<br/>Rengin baskın olan dalga boyunu tanımlar ve onu kırmızı, sarı, yeşil, mavi vb. gibi diğer renklerden ayıran rengin özelliğidir. Daha basit bir tanımla; renge baktığımızda gördüğümüz, rengin kendisidir."
     },
     {
         "SoruID": 3353145,

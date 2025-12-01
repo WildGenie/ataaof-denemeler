@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 133827,
-        "SoruMetni": "I. Göstergebilim insanlara, yaşadığı ortamda kendisine anlatılmak isteneni çözümleme fırsatı sunar.<br/>II. Göstergebilim çok önemli bir anlatı çözümleme stratejisidir.<br/>III. Göstergebilim, sembollerin, işaretlerin, logoların yorumlama eylemidir.<br/><strong>Göstergebilim ile ilgili yukarıdakilerden hangisi ya da hangileri doğrudur?</strong> </br></br>",
+        "SoruMetni": "I. Göstergebilim insanlara, yaşadığı ortamda kendisine anlatılmak isteneni çözümleme fırsatı sunar.<br/>II. Göstergebilim çok önemli bir anlatı çözümleme stratejisidir.<br/>III. Göstergebilim, sembollerin, işaretlerin, logoların yorumlama eylemidir.<br/><strong>Göstergebilim ile ilgili yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",
@@ -81,11 +81,11 @@
     },
     {
         "SoruID": 133918,
-        "SoruMetni": "<b>Göstergebilimde kuram oluşturan ilk düşünür aşağıdakilerden hangisidir?</b><br type=\"_moz\"/>",
-        "A": "Thomas Albert Sebeok<br type=\"_moz\"/>",
+        "SoruMetni": "<b>Göstergebilimde kuram oluşturan ilk düşünür aşağıdakilerden hangisidir?</b>",
+        "A": "Thomas Albert Sebeok",
         "B": "Roland Barthes",
         "C": "Ferdinand de Saussure",
-        "D": "Charles Sanders Peirce<br type=\"_moz\"/>",
+        "D": "Charles Sanders Peirce",
         "E": "Paul de Man",
         "DogruCevap": "D",
         "DersAd": "Göstergebilim",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 145933,
-        "SoruMetni": "I. Söz dizimi<br/>II. Anlambilim<br/>III. Epigrafi<br/><strong>Yukarıdaki kavramlardan hangisi ya da hangileri Charles Williams Morris tarafından ifade edilen üç bileşenden biri <u>değildir</u>?</strong></br></br>",
+        "SoruMetni": "I. Söz dizimi<br/>II. Anlambilim<br/>III. Epigrafi<br/><strong>Yukarıdaki kavramlardan hangisi ya da hangileri Charles Williams Morris tarafından ifade edilen üç bileşenden biri <u>değildir</u>?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -321,7 +321,7 @@
     },
     {
         "SoruID": 189613,
-        "SoruMetni": "I. Alımlama Estetiği<br/>II. Metindilbilim<br/>III. Çeviribilim<br/><strong>Yukarıdakilerden hangisi ya da hangileri Almanya’da yapılan çalışmalardan biri <u>değildir</u>?</strong><br/></br></br></br>",
+        "SoruMetni": "I. Alımlama Estetiği<br/>II. Metindilbilim<br/>III. Çeviribilim<br/><strong>Yukarıdakilerden hangisi ya da hangileri Almanya’da yapılan çalışmalardan biri <u>değildir</u>?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",

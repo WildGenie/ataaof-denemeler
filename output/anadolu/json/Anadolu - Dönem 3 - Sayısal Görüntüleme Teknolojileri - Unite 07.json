@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<br/>Hareketsiz görüntünün sayısallaştırılarak bilgi- sayar ortamına taşınmasıyla beraber pek çok farklı işlev ve özelliği bir arada yürütebilen Adobe Photoshop ve Lightroom, Corel PaintShop Pro gibi profesyonel görüntü işleme yazılımların yanında Picasa, Gimp gibi tüketici düzeyinde daha basit arayüzlerle çalışan ve çoğunlukla ücretsiz uygula- malar da ardı ardına ortaya çıkarak kullanıcıların beğenisine sunulmuştur.<br>Picasa, Gimp gibi tüketici düzeyinde daha basit arayüzlerle çalışan ve çoğunlukla ücretsiz uygulamalar da ardı ardına ortaya çıkarak kullanıcıların beğenisine sunulmuştur."
+        "Aciklama": "<br/>Hareketsiz görüntünün sayısallaştırılarak bilgi- sayar ortamına taşınmasıyla beraber pek çok farklı işlev ve özelliği bir arada yürütebilen Adobe Photoshop ve Lightroom, Corel PaintShop Pro gibi profesyonel görüntü işleme yazılımların yanında Picasa, Gimp gibi tüketici düzeyinde daha basit arayüzlerle çalışan ve çoğunlukla ücretsiz uygula- malar da ardı ardına ortaya çıkarak kullanıcıların beğenisine sunulmuştur.<br/>Picasa, Gimp gibi tüketici düzeyinde daha basit arayüzlerle çalışan ve çoğunlukla ücretsiz uygulamalar da ardı ardına ortaya çıkarak kullanıcıların beğenisine sunulmuştur."
     },
     {
         "SoruID": 3353245,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Beş değil iki rakamlı olacak.<br>Sayısal görüntü, temel anlamda piksellerden oluşur. Sayısal görüntüler, ya orijinal basılı fotoğraf/filmlerden taranır ya da sayısal fotoğraf makineleri/kameralar ile çekilir. Görüntüyü oluşturan her bir piksel üzerinde renk, ışık ya da parlaklık gibi bilgileri içeren değerler bulunur. Bu değerler <strong>iki rakamlı (ing.binary)</strong> bilgisayar veri algoritmasına uygun bir biçimde kodlanarak sayısallaştırılır."
+        "Aciklama": "Beş değil iki rakamlı olacak.<br/>Sayısal görüntü, temel anlamda piksellerden oluşur. Sayısal görüntüler, ya orijinal basılı fotoğraf/filmlerden taranır ya da sayısal fotoğraf makineleri/kameralar ile çekilir. Görüntüyü oluşturan her bir piksel üzerinde renk, ışık ya da parlaklık gibi bilgileri içeren değerler bulunur. Bu değerler <strong>iki rakamlı (ing.binary)</strong> bilgisayar veri algoritmasına uygun bir biçimde kodlanarak sayısallaştırılır."
     },
     {
         "SoruID": 3353246,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "C seçeneği vektörel, diğer seçenekler raster (bitmap) görüntü formatı kapsamındadır.<br>Vektörelin; en yaygın dosya türleri. AI, EPS, SVG, CDR ve PDF’dir."
+        "Aciklama": "C seçeneği vektörel, diğer seçenekler raster (bitmap) görüntü formatı kapsamındadır.<br/>Vektörelin; en yaygın dosya türleri. AI, EPS, SVG, CDR ve PDF’dir."
     },
     {
         "SoruID": 3353248,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "E seçeneği hariç diğerleri diğer görüntü formatlarının dosya türleridir.<br>3 boyutlu görüntü formatının en yaygın dosya türleri OBJ, DWF, MAX, STL ve MGF’dir."
+        "Aciklama": "E seçeneği hariç diğerleri diğer görüntü formatlarının dosya türleridir.<br/>3 boyutlu görüntü formatının en yaygın dosya türleri OBJ, DWF, MAX, STL ve MGF’dir."
     },
     {
         "SoruID": 3353249,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "B seçeneği dosya transferi üzerine uzmanlaşmış internet sitesi iken diğer seçenekler bulut depolama örnekleridir.<br>İnternet üzerin- den görüntü transferi açısından kullanılan bir baş- ka çözüm ise dosya transferi üzerine uzmanlaşmış internet sitelerinin verdiği aktarım hizmetleridir. WeTransfer ve FirefoxSend gibi internet siteleri e-posta adreslerine gönderilen indirme linkleriyle yüksek ebatlı dosya ve görüntü transferlerinin hızlı bir biçimde gönderilmesine olanak tanırlar."
+        "Aciklama": "B seçeneği dosya transferi üzerine uzmanlaşmış internet sitesi iken diğer seçenekler bulut depolama örnekleridir.<br/>İnternet üzerin- den görüntü transferi açısından kullanılan bir baş- ka çözüm ise dosya transferi üzerine uzmanlaşmış internet sitelerinin verdiği aktarım hizmetleridir. WeTransfer ve FirefoxSend gibi internet siteleri e-posta adreslerine gönderilen indirme linkleriyle yüksek ebatlı dosya ve görüntü transferlerinin hızlı bir biçimde gönderilmesine olanak tanırlar."
     },
     {
         "SoruID": 3353254,

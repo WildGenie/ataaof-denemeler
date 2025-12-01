@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 321597,
-        "SoruMetni": "I. Yeteneğinizi gösterir.<br/>II. Potansiyelinizi sunar.<br/>III. Çalışma yöntemlerinizi anlatır.<br/><strong>Yukarıdakilerden hangisi ya da hangileri portfolyonun özellikleri ile ilgilidir?</strong> </br></br>",
+        "SoruMetni": "I. Yeteneğinizi gösterir.<br/>II. Potansiyelinizi sunar.<br/>III. Çalışma yöntemlerinizi anlatır.<br/><strong>Yukarıdakilerden hangisi ya da hangileri portfolyonun özellikleri ile ilgilidir?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "II ve III",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 321602,
-        "SoruMetni": "I. Yazı karakterinin güncelliği<br/>II. Sayfa düzeni<br/>III. Katlama yöntemi<br/><strong>Yukarıdakilerden hangisi ya da hangileri portfolyo tasarımının öncelikli konuları arasındadır?</strong> </br></br>",
+        "SoruMetni": "I. Yazı karakterinin güncelliği<br/>II. Sayfa düzeni<br/>III. Katlama yöntemi<br/><strong>Yukarıdakilerden hangisi ya da hangileri portfolyo tasarımının öncelikli konuları arasındadır?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "II ve III",
@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 336489,
-        "SoruMetni": "Bir portfolyo tasarımında ilk dikkati çeken öge doğal olarak ............ unsurlardır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Bir portfolyo tasarımında ilk dikkati çeken öge doğal olarak ............ unsurlardır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "ganatsal",
         "B": "görsel",
         "C": "içeriksel",

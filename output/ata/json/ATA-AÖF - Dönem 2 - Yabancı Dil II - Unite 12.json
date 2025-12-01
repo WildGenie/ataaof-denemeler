@@ -341,7 +341,7 @@
     },
     {
         "SoruID": 351969,
-        "SoruMetni": "Patient: Hello, ...................................................<br/>Secretary: OK. When would you like to see him?<br/>Patient: Today, if possible.<br/>Secretary: He is fully booked today, I am afraid.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br></br></br>",
+        "SoruMetni": "Patient: Hello, ...................................................<br/>Secretary: OK. When would you like to see him?<br/>Patient: Today, if possible.<br/>Secretary: He is fully booked today, I am afraid.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "I would like to make an appointment with the doctor, please.",
         "B": "I need to see the doctor right now.",
         "C": "Is the doctor available now?",

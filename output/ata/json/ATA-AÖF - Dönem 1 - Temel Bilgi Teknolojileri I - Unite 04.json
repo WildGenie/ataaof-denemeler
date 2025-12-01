@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 376266,
-        "SoruMetni": "Dosya sistemi virüsleri, genellikle … veya … uzantılı olan işletilebilir dosyalara bulaşan virüs türleridir.<br/><strong>Cümledeki boşluğa sırasıyla aşağıdaki hangi ifadeler getirilmelidir</strong><br/></br>",
+        "SoruMetni": "Dosya sistemi virüsleri, genellikle … veya … uzantılı olan işletilebilir dosyalara bulaşan virüs türleridir.<br/><strong>Cümledeki boşluğa sırasıyla aşağıdaki hangi ifadeler getirilmelidir</strong>",
         "A": "EXE-COM",
         "B": "EXE-XLS",
         "C": "COM-DOCX",
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 376269,
-        "SoruMetni": "Kullanıcının isteği dışında kendisine gelen elektronik postalar ....................… olarak adlandırılmaktadır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Kullanıcının isteği dışında kendisine gelen elektronik postalar ....................… olarak adlandırılmaktadır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "solucan",
         "B": "spam",
         "C": "truva atı",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 376274,
-        "SoruMetni": "………..; farklı programlama dilleri ile oluşturulan, program kütüphanelerinin yetersiz olduğu durumlarda programcılara esneklik sağlayan çeşitli komut setleridir.<br/><strong>Cümledeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "………..; farklı programlama dilleri ile oluşturulan, program kütüphanelerinin yetersiz olduğu durumlarda programcılara esneklik sağlayan çeşitli komut setleridir.<br/><strong>Cümledeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Virüsler",
         "B": "Dosyalar",
         "C": "Makrolar",

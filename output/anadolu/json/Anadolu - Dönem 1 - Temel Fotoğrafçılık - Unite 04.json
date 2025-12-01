@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "yapısal öğeler<br/>• Nokta ve çizgi<br/>• Leke<br/>• Doku<br/>• Boşluk (Espas)<br/>• Ritim<br/>• Renk<br/>• Denge<br/>• Kontrast (Zıtlık)<br/>• Perspektif<br/>• Şemalar<br/>• Oran ve Orantı, Ölçek<br/>• Sadelik<br><br/>hız; fotoğrafik bir öğedir"
+        "Aciklama": "yapısal öğeler<br/>• Nokta ve çizgi<br/>• Leke<br/>• Doku<br/>• Boşluk (Espas)<br/>• Ritim<br/>• Renk<br/>• Denge<br/>• Kontrast (Zıtlık)<br/>• Perspektif<br/>• Şemalar<br/>• Oran ve Orantı, Ölçek<br/>• Sadelik<br/><br/>hız; fotoğrafik bir öğedir"
     },
     {
         "SoruID": 3351036,
@@ -1161,7 +1161,7 @@
     },
     {
         "SoruID": 3351082,
-        "SoruMetni": "Temel fotoğraf eğitimi sürecinde kompozisyonu daha iyi kavrayabilmek için aşağıdakilerden hangisi doğrudur?<br/>I. Aktif ve pasif düzenleme, <br/>II. Kompozisyon içerisindeki konunun açık mı? Kapalı mı? <br/>III. Kompozisyonda yapısal ve fotoğrafik ögeler,</br>",
+        "SoruMetni": "Temel fotoğraf eğitimi sürecinde kompozisyonu daha iyi kavrayabilmek için aşağıdakilerden hangisi doğrudur?<br/>I. Aktif ve pasif düzenleme, <br/>II. Kompozisyon içerisindeki konunun açık mı? Kapalı mı? <br/>III. Kompozisyonda yapısal ve fotoğrafik ögeler,",
         "A": "Yalnız I",
         "B": "Yalnız II.",
         "C": "Yalnız III",
@@ -1617,7 +1617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<ul><br/><li>Sayfa 88'de 'Çizgi' bölümünde ' Bu çizginin karakterini belirler; eğri mi? geometrik mi? olacağı.' Cümlesinde hem noktalama hatası (gereksiz soru işaretleri), hem de düşüklük vardır. </li><br/><li>Soru işaretleriyle ilgili aynı hata sayfa 93'te ve 112'de de vardır: 'Fotoğraf çekerken renkli mi? Siyah-beyaz mı? değerlendirileceği fotoğrafı çeken kişinin tercihine bağlıdır.' 'Kompozisyon içerisindeki konunun açık mı? kapalı mı? oldu</li><br/><li>Bir cümle atladıktan sonra gelen cümledeki 'elamanıdır' sözcüğü 'elemanıdır' olarak düzeltilmelidir.</li><br/><li>Neler Öğrendik?: Testin 5. sorusunda 'da' nın ayrı yazımı yanlıştır; bitişik olmalıdır: 'Aşağıdakilerden hangisi çizgi çeşitleri arasında <strong>fotoğraf da</strong> mekanı, açıyı ve derinliği belirleyen ana omurgalardan biridir? </li><br/></ul><br>Yatay çizgiler fotoğrafta, sakinliği, durağanlığı verir. Kompozisyona yerleştirirken taban çağrışımı yaratır. Ufuk çizgisinde olduğu gibi mekanı ve konumu belirtir. Dikey çizgiler fotoğraf yüzeyinde yukarı ve aşağı yönde hız ve hareket belirtir. Çapraz, diyagonal ve zig-Zag çizgiler dinamizmi ve hareketi gösterir. Eğri, kıvrımlı çizgiler yatay ve dikey çerçevenin sertliğini yumuşatır. Doğru yanıt B’dir."
+        "Aciklama": "<ul><br/><li>Sayfa 88'de 'Çizgi' bölümünde ' Bu çizginin karakterini belirler; eğri mi? geometrik mi? olacağı.' Cümlesinde hem noktalama hatası (gereksiz soru işaretleri), hem de düşüklük vardır. </li><br/><li>Soru işaretleriyle ilgili aynı hata sayfa 93'te ve 112'de de vardır: 'Fotoğraf çekerken renkli mi? Siyah-beyaz mı? değerlendirileceği fotoğrafı çeken kişinin tercihine bağlıdır.' 'Kompozisyon içerisindeki konunun açık mı? kapalı mı? oldu</li><br/><li>Bir cümle atladıktan sonra gelen cümledeki 'elamanıdır' sözcüğü 'elemanıdır' olarak düzeltilmelidir.</li><br/><li>Neler Öğrendik?: Testin 5. sorusunda 'da' nın ayrı yazımı yanlıştır; bitişik olmalıdır: 'Aşağıdakilerden hangisi çizgi çeşitleri arasında <strong>fotoğraf da</strong> mekanı, açıyı ve derinliği belirleyen ana omurgalardan biridir? </li><br/></ul><br/>Yatay çizgiler fotoğrafta, sakinliği, durağanlığı verir. Kompozisyona yerleştirirken taban çağrışımı yaratır. Ufuk çizgisinde olduğu gibi mekanı ve konumu belirtir. Dikey çizgiler fotoğraf yüzeyinde yukarı ve aşağı yönde hız ve hareket belirtir. Çapraz, diyagonal ve zig-Zag çizgiler dinamizmi ve hareketi gösterir. Eğri, kıvrımlı çizgiler yatay ve dikey çerçevenin sertliğini yumuşatır. Doğru yanıt B’dir."
     },
     {
         "SoruID": 3351105,

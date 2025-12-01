@@ -87,7 +87,7 @@ def map_to_old_format(api_question, course_name, unit_or_type, donem):
                 explanation = title
             else:
                 # Distinct content, concatenate
-                explanation = f"{title}<br>{explanation}"
+                explanation = f"{title}<br/>{explanation}"
         else:
             explanation = title
 

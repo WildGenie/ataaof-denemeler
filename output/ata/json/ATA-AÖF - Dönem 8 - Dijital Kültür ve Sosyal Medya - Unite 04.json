@@ -254,11 +254,11 @@
     {
         "SoruID": 204393,
         "SoruMetni": "<strong>Aşağıdakilerden hangisi Web 2.0 teknolojisinin özellikleri arasında <u>değerlendirilemez</u>?</strong>",
-        "A": "Çift yönlü iletişimin mümkün olması<br type=\"_moz\"/>",
+        "A": "Çift yönlü iletişimin mümkün olması",
         "B": "Kullanıcının içerik üretebilmesi",
         "C": "Sosyal katılıma uygun olması",
         "D": "Anlamsal web teknolojisi kullanılması",
-        "E": "Kullanıcının aktif olması<br type=\"_moz\"/>",
+        "E": "Kullanıcının aktif olması",
         "DogruCevap": "D",
         "DersAd": "Dijital Kültür ve Sosyal Medya",
         "Somestre": 2,

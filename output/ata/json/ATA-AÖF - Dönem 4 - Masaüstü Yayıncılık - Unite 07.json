@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 405714,
-        "SoruMetni": "I. 3D Studio Max genellikle üç boyutlu modelleme için kullanılır.<br/>II. Adobe Photoshop yalnızca statik grafik düzenleme amacıyla kullanılır ve animasyon için uygun değildir.<br/>III. Maya, üç boyutlu animasyon, modelleme, benzetim ve görüntüleme yazılımıdır.<br/><strong>Animasyon tasarımında kullanılan yazılımlara ilişkin yukarıdakilerden hangisi ya da hangileri doğrudur?</strong></br></br>",
+        "SoruMetni": "I. 3D Studio Max genellikle üç boyutlu modelleme için kullanılır.<br/>II. Adobe Photoshop yalnızca statik grafik düzenleme amacıyla kullanılır ve animasyon için uygun değildir.<br/>III. Maya, üç boyutlu animasyon, modelleme, benzetim ve görüntüleme yazılımıdır.<br/><strong>Animasyon tasarımında kullanılan yazılımlara ilişkin yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>",
         "A": "Yalnız II",
         "B": "I ve III",
         "C": "I ve II",

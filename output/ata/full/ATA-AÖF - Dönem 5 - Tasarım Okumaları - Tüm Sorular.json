@@ -3821,7 +3821,7 @@
     },
     {
         "SoruID": 373969,
-        "SoruMetni": "I. Malzemeleri toplamak<br/>II. Geri dönüştürmek<br/>III. Geri dönüştürülmüş ürünleri tekrar üretime döndürerek satın almak<br/>IV. Sürekli üretim yapmak<br/><strong>Sürdürülebilirliğin temel göstergesi olan geri dönüşüm logosundaki oklar yukarıdakilerden hangilerini temsil eder?</strong></br></br></br>",
+        "SoruMetni": "I. Malzemeleri toplamak<br/>II. Geri dönüştürmek<br/>III. Geri dönüştürülmüş ürünleri tekrar üretime döndürerek satın almak<br/>IV. Sürekli üretim yapmak<br/><strong>Sürdürülebilirliğin temel göstergesi olan geri dönüşüm logosundaki oklar yukarıdakilerden hangilerini temsil eder?</strong>",
         "A": "I ve II",
         "B": "I ve IV",
         "C": "II ve III",
@@ -3881,7 +3881,7 @@
     },
     {
         "SoruID": 373973,
-        "SoruMetni": "I. Yoksullukla mücadele<br/>II. Sorumlu üretim ve tüketim<br/>III. Sağlıklı yaşam<br/><strong>Yukarıdakilerden hangisi ya da hangileri sürdürülebilir kalkınma amaçları ve hedefleri arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Yoksullukla mücadele<br/>II. Sorumlu üretim ve tüketim<br/>III. Sağlıklı yaşam<br/><strong>Yukarıdakilerden hangisi ya da hangileri sürdürülebilir kalkınma amaçları ve hedefleri arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -4481,9 +4481,9 @@
     },
     {
         "SoruID": 373992,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi “İyi Tasarlanmış Bir Arayüzün Kullanılabilirlik Kriterleri” arasında bulunan “Sistem Durumunun Görünürlüğü” ifadesine güzel bir örnek sayılır?</strong><br type=\"_moz\"/>",
-        "A": "Netflix dizinin bir bölümünü izlemeyi bitirdiğinizde, sistem size bir sonraki bölümün yüklenmesinin ne kadar süreceğini söyleyen küçük bir ekran sunar. Dilerseniz atlayabilir dilerseniz geri sayımı bekleyebilirsiniz.<br type=\"_moz\"/>",
-        "B": "Kindle uygulamasında okuduğunuzda sayfalar, fiziksel bir kitap okuma deneyimini taklit eden bir arayüze sahiptir.<br type=\"_moz\"/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi “İyi Tasarlanmış Bir Arayüzün Kullanılabilirlik Kriterleri” arasında bulunan “Sistem Durumunun Görünürlüğü” ifadesine güzel bir örnek sayılır?</strong>",
+        "A": "Netflix dizinin bir bölümünü izlemeyi bitirdiğinizde, sistem size bir sonraki bölümün yüklenmesinin ne kadar süreceğini söyleyen küçük bir ekran sunar. Dilerseniz atlayabilir dilerseniz geri sayımı bekleyebilirsiniz.",
+        "B": "Kindle uygulamasında okuduğunuzda sayfalar, fiziksel bir kitap okuma deneyimini taklit eden bir arayüze sahiptir.",
         "C": "Kullanıcının yanlışlıkla dosyaları silmesi hâlinde hüsrana uğramalarını önlemek için, tasarımcı bu durumu ön görmeli ve eylemle devam etmeden önce kullanıcının tekrar onayını alacağı bölümleri eklemelidir.",
         "D": "Arayüzdeki menü ögelerinin gerektiğinde kolayca erişilebilir olması gerekir.",
         "E": "TV kanallarının logolarındaki renk seçimi bu duruma örnek sayılabilir.",

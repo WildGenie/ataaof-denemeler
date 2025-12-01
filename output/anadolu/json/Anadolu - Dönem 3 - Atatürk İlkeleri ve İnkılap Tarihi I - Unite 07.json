@@ -677,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Giriş<br>1930 yılında kurulan Serbest Cumhuriyet Fırkası özellikle ekonomik açıdan hükümetin işlerini eleştirecek ve denetleyecek bir parti olarak doğmuşsa da sadece belediye seçimlerine katılabilip başarısız bir deneme olarak kendini feshetmiştir."
+        "Aciklama": "Giriş<br/>1930 yılında kurulan Serbest Cumhuriyet Fırkası özellikle ekonomik açıdan hükümetin işlerini eleştirecek ve denetleyecek bir parti olarak doğmuşsa da sadece belediye seçimlerine katılabilip başarısız bir deneme olarak kendini feshetmiştir."
     },
     {
         "SoruID": 3887488,
@@ -697,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Ankara’nın Başkent Oluşu<br>Ankara’nın jeopolitik öneminin yanı sıra Millî Mücadele’nin merkezi olması Ankara’nın başkent seçilmesinde en önemli etkenlerdir."
+        "Aciklama": "Ankara’nın Başkent Oluşu<br/>Ankara’nın jeopolitik öneminin yanı sıra Millî Mücadele’nin merkezi olması Ankara’nın başkent seçilmesinde en önemli etkenlerdir."
     },
     {
         "SoruID": 3887489,
@@ -717,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cumhuriyet’in İlanı<br>Yeni devletin idare şeklinin Cumhuriyet olması 1924 Anayasası’nda “Devletin şekli cumhuriyettir.” ifadesiyle kesin hükme bağlanmıştır."
+        "Aciklama": "Cumhuriyet’in İlanı<br/>Yeni devletin idare şeklinin Cumhuriyet olması 1924 Anayasası’nda “Devletin şekli cumhuriyettir.” ifadesiyle kesin hükme bağlanmıştır."
     },
     {
         "SoruID": 3887490,
@@ -737,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Halifeliğin Kaldırılması<br>Yavuz Sultan Selim Mısır’ı alınca kutsal eşyalarla birlikte halifelik makamını İstanbul’a getirmiştir."
+        "Aciklama": "Halifeliğin Kaldırılması<br/>Yavuz Sultan Selim Mısır’ı alınca kutsal eşyalarla birlikte halifelik makamını İstanbul’a getirmiştir."
     },
     {
         "SoruID": 3887491,
@@ -757,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İstiklal Mahkemeleri<br>İstanbul Hükümeti’nin Kuva-yı Milliye’ye karşı kurduğu askeri örgüt Hilafet Ordusu olarak da anılan Kuva-yı İnzibatiye Ordusu’dur."
+        "Aciklama": "İstiklal Mahkemeleri<br/>İstanbul Hükümeti’nin Kuva-yı Milliye’ye karşı kurduğu askeri örgüt Hilafet Ordusu olarak da anılan Kuva-yı İnzibatiye Ordusu’dur."
     },
     {
         "SoruID": 3887492,
@@ -777,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Şeyh Sait İsyanı ve Takrir-i Sükun Kanunu<br><span style=\"font-family: 'Times New Roman',serif;\">Şeyh Sait Ayaklanması13 Şubat 1925’te Ergani’nin Piran köyünde başlamıştır. </span>"
+        "Aciklama": "Şeyh Sait İsyanı ve Takrir-i Sükun Kanunu<br/><span style=\"font-family: 'Times New Roman',serif;\">Şeyh Sait Ayaklanması13 Şubat 1925’te Ergani’nin Piran köyünde başlamıştır. </span>"
     },
     {
         "SoruID": 3887493,
@@ -817,7 +817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Milli Bayramlar ve Yıl Dönümleri<br><span style=\"font-family: 'Times New Roman',serif;\">Türkiye’de 23 Nisan günü Çocuk Bayramı olarak 1927 yılında kutlanmaya başlanmıştır. </span>"
+        "Aciklama": "Milli Bayramlar ve Yıl Dönümleri<br/><span style=\"font-family: 'Times New Roman',serif;\">Türkiye’de 23 Nisan günü Çocuk Bayramı olarak 1927 yılında kutlanmaya başlanmıştır. </span>"
     },
     {
         "SoruID": 3887495,
@@ -837,6 +837,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Atatürk ve İnönü Ayrılığı<br>Atatürk döneminin son başbakanı Celal Bayar’dır."
+        "Aciklama": "Atatürk ve İnönü Ayrılığı<br/>Atatürk döneminin son başbakanı Celal Bayar’dır."
     }
 ]

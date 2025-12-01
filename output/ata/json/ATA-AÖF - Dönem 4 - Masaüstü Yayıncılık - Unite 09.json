@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 151081,
-        "SoruMetni": "I. Linux<br/>II. FreeBSD<br/>III. Mac OS X<br/>IV. Windows<br/><strong>Yukarıdakilerden hangisi ya da hangileri Scribus’u destekleyen işletim sistemleri arasında yer alır?</strong></br></br></br>",
+        "SoruMetni": "I. Linux<br/>II. FreeBSD<br/>III. Mac OS X<br/>IV. Windows<br/><strong>Yukarıdakilerden hangisi ya da hangileri Scribus’u destekleyen işletim sistemleri arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "II ve III",

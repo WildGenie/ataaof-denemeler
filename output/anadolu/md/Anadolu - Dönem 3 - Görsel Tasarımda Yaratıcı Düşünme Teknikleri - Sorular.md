@@ -18,13 +18,7 @@
     - D-) Farklı öneriler geliştirilerek nedenleri ve içeriklerinin araştırılması
     - **Cevap E-) Anket ve deneysel araştırmalar yapılması**
 
-    > **Açıklama:** Yaratıcılık kavramının büyük ölçüde sorun çözme yetisi üzerinde odaklandığı görülür. John Dewey’e göre sorun çözmeye ilişkin aşağıda belirlenen mantıksal beş basamak vardır (Steveni, 1968), bunlar:
-    > • Fark edilmiş bir sorun
-    > • Sorunun oluştuğu, bulunduğu yer ve tanımı
-    > • Olası çözüm ve alternatiflerin ortaya konulması
-    > • Farklı öneriler geliştirilerek nedenleri ve içeriklerinin araştırılması
-    > • Kabul gören veya sonuca götüren ileri derecedeki gözlemlerdir.
-    > "Anket ve deneysel araştırmalar yapılması" ifadesi bu basamaklar arasında yer almaz.
+    > **Açıklama:** Yaratıcılık kavramının büyük ölçüde sorun çözme yetisi üzerinde odaklandığı görülür. John Dewey’e göre sorun çözmeye ilişkin aşağıda belirlenen mantıksal beş basamak vardır (Steveni, 1968), bunlar:<br />• Fark edilmiş bir sorun<br />• Sorunun oluştuğu, bulunduğu yer ve tanımı<br />• Olası çözüm ve alternatiflerin ortaya konulması<br />• Farklı öneriler geliştirilerek nedenleri ve içeriklerinin araştırılması<br />• Kabul gören veya sonuca götüren ileri derecedeki gözlemlerdir.<br />"Anket ve deneysel araştırmalar yapılması" ifadesi bu basamaklar arasında yer almaz.
 
     <hr />
 1. "............................, konuyu değerlendirmek ve bir plan geliştirmek için doğru araçları kullanarak konuya farklı ve özgün açılardan bakmak için kullanılan tekniklerdir." ifadesinde boş bırakılan yeri aşağıdakilerden hangisi doğru biçimde tamamlar?
@@ -34,8 +28,7 @@
     - D-) İş kurma becerileri
     - E-) Algılama ve anlama becerileri
 
-    > **Açıklama:** Yaratıcı düşünme becerileri, konuyu değerlendirmek ve bir plan geliştirmek için doğru araçları kullanarak konuya farklı ve özgün açılardan bakmak için kullanılan tekniklerdir.
-    > Doğru yanıt C seçeneğidir.
+    > **Açıklama:** Yaratıcı düşünme becerileri, konuyu değerlendirmek ve bir plan geliştirmek için doğru araçları kullanarak konuya farklı ve özgün açılardan bakmak için kullanılan tekniklerdir.<br />Doğru yanıt C seçeneğidir.
 
     <hr />
 1. I. Neden bunun doğru olduğuna inanıyorum? II. Bunun doğru olduğunu nasıl bilebilirim? III. Bu inancı nasıl destekleyebilirim? IV. Bunu kim neden ve nasıl geliştirmiştir? V. Hangi alternatif bakış açıları mevcut olabilir?Sıralananlardan hangileri ilk ilkeler düşüncesine göre sorabileceğiniz sorular arasında yer almaktadır?
@@ -45,12 +38,7 @@
     - D-) II, IV ve V
     - E-) III, IV ve V
 
-    > **Açıklama:** İlk ilkeler prensibine göre sorabileceğiniz bazı sorular şunlardır:
-    > • Neden bunun doğru olduğuna inanıyorum?
-    > • Bunun doğru olduğunu nasıl bilebilirim?
-    > • Bu inancı nasıl destekleyebilirim?
-    > • Hangi alternatif bakış açıları mevcut olabilir?
-    > "IV. Bunu kim neden ve nasıl geliştirmiştir?" ifadesinin konu ile ilgisi bulunmamaktadır. Doğru yanıt I, II, III ve V numaralı ifadeleri içeren A seçeneğidir.
+    > **Açıklama:** İlk ilkeler prensibine göre sorabileceğiniz bazı sorular şunlardır:<br />• Neden bunun doğru olduğuna inanıyorum?<br />• Bunun doğru olduğunu nasıl bilebilirim?<br />• Bu inancı nasıl destekleyebilirim?<br />• Hangi alternatif bakış açıları mevcut olabilir?<br />"IV. Bunu kim neden ve nasıl geliştirmiştir?" ifadesinin konu ile ilgisi bulunmamaktadır. Doğru yanıt I, II, III ve V numaralı ifadeleri içeren A seçeneğidir.
 
     <hr />
 1. Yaratıcılık hakkındaki mitler ile ilgili aşağıda verilen ifadelerden hangisi doğru **değildir?**
@@ -60,10 +48,7 @@
     - D-) Bazı kısıtlamalar yaratıcılığı öldürür.
     - **Cevap E-) Yaratıcılık herkeste olan bir beceridir.**
 
-    > **Açıklama:** Çoğu insan yaratıcılığın ilahi bir ilham olduğunu, genetik olduğunu ve sadece şanslı birkaç kişide var olabileceğini düşünür. Özellikle iş yaratıcılığı hakkında pek çok popüler efsane var ancak bunların birçoğu, bilimsel kanıtı olmamakla birlikte günümüzde yaratıcı düşünceye ilişkin “mit” olarak kabul edilen kanıksanmış tutumlara bağlı bazı gerçekleri değiştirmemektedir.
-    > Yaratıcılık herkeste olan bir beceridir" ifadesi ise, bir gerçekliği yansıtmaktadır.
-    > Bu ifadenin mit olarak tanımlanan biçimi ise, tam tersi olan, "Yaratıcılık herkeste olmayan özel bir beceridir." biçiminde olacaktır.
-    > Doğru yanıt E seçeneğidir.
+    > **Açıklama:** Çoğu insan yaratıcılığın ilahi bir ilham olduğunu, genetik olduğunu ve sadece şanslı birkaç kişide var olabileceğini düşünür. Özellikle iş yaratıcılığı hakkında pek çok popüler efsane var ancak bunların birçoğu, bilimsel kanıtı olmamakla birlikte günümüzde yaratıcı düşünceye ilişkin “mit” olarak kabul edilen kanıksanmış tutumlara bağlı bazı gerçekleri değiştirmemektedir.<br />Yaratıcılık herkeste olan bir beceridir" ifadesi ise, bir gerçekliği yansıtmaktadır.<br />Bu ifadenin mit olarak tanımlanan biçimi ise, tam tersi olan, "Yaratıcılık herkeste olmayan özel bir beceridir." biçiminde olacaktır.<br />Doğru yanıt E seçeneğidir.
 
     <hr />
 1. I.Yetenek, herhangi bir şeyi öğrenmek, bir işi yapmak ve tamamlamak ya da bir duruma başarıyla uymak konusunda organizmada bulunan ve doğuştan gelen ve kişinin kalıtımsal olarak öğrenmesini çerçeveleyen sınır ve dışarıdan gelen bir etkiyi alabilme gücüdür.<br />II. Yetenek, bir kimsenin bir şeyi anlama veya yapabilme niteliği olduğu gibi bir duruma uyma konusunda organizmada bulunan ve doğuştan gelen güçtür.<br />III. Yetenek, aynı zamanda yetiştirmeyle kazanılan ya da kendiliğinden var olan, herhangi bir işin yapılmasını sağlayan bilişsel ya da fiziksel güç olarak da tanımlanabilir.<br />IV. Yetenek, düşünme, bilgi temelli bir disiplin çerçevesinde ve pratiklerle gelişir. Deneyerek, keşfederek, varsayımları sorgulayarak, hayal gücünü kullanarak ve bilgileri sentezleyerek yetenekli olmanın yolları öğrenilebilir.<br />Yetenek konusunda sıralanan ifadelerden hangileri doğrudur?
@@ -73,10 +58,7 @@
     - **Cevap D-) I, II ve III**
     - E-) I ve IV
 
-    > **Açıklama:** IV numaralı ifade yeteneğin değil, yaratıcılık kavramının tanımı ile ilgilidir.
-    > Doğrusu ise şöyle olacaktır.
-    > **Yaratıcılık**, düşünme, bilgi temelli bir disiplin çerçevesinde ve pratiklerle gelişir. Deneyerek, keşfederek, varsayımları sorgulayarak, hayal gücünü kullanarak ve bilgileri sentezleyerek **yaratıcı** olmanın yolları öğrenilebilir.
-    > Doğru yanıt, I, II ve III numaralı ifadelerin yer aldığı D seçeneğidir.
+    > **Açıklama:** IV numaralı ifade yeteneğin değil, yaratıcılık kavramının tanımı ile ilgilidir.<br />Doğrusu ise şöyle olacaktır.<br />**Yaratıcılık**, düşünme, bilgi temelli bir disiplin çerçevesinde ve pratiklerle gelişir. Deneyerek, keşfederek, varsayımları sorgulayarak, hayal gücünü kullanarak ve bilgileri sentezleyerek **yaratıcı** olmanın yolları öğrenilebilir.<br />Doğru yanıt, I, II ve III numaralı ifadelerin yer aldığı D seçeneğidir.
 
     <hr />
 1. "Girişkenlik, kolay arkadaş edinme, konuşma, sohbet eğilimi ve cana yakınlık" aşağıdaki kişilik özelliklerinden hangisine aittir?
@@ -96,8 +78,7 @@
     - D-) Stres faktörlerine yatkınlık. Kaygı, güvensizlik ve karamsarlık duyguları.
     - E-) Girişkenlik, kolay arkadaş edinme, konuşma, sohbet eğilimi, cana yakınlık.
 
-    > **Açıklama:** Özdenetimin temel unsurları şunlardır: Çalışkanlık, Düzenli ve güvenilir olma eğilimi.
-    > Doğru yanıt A seçeneğidir.
+    > **Açıklama:** Özdenetimin temel unsurları şunlardır: Çalışkanlık, Düzenli ve güvenilir olma eğilimi.<br />Doğru yanıt A seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi Torrance'e göre yaratıcı aşamanın boyutlarından biri **değildir?**
@@ -107,13 +88,7 @@
     - D-) Orijinallik
     - **Cevap E-) Sınırlandırma**
 
-    > **Açıklama:** Paul Torrance yaratıcılık üzerindeki araştırmalarıyla tanınan Amerikalı bir psikolog ve eğitimde yaratıcılık alanındaki en verimli yazarlardan biridir.
-    > Torrance yaratıcı aşamanın boyutlarını şu şekilde belirlemiştir (Robinson, 2003):
-    > Orijinallik: Düşüncenin tam anlamıyla tek (özgün) olmasıdır. Hiçbir ürüne benzememeli, taklit veya tekrar olmamalıdır.
-    > Akıcılık: Birçok farklı düşüncenin üretilmesidir.
-    > Esneklik: Düşünce yönünün değişimi veya başka bir şekilde düşünme yeteneğidir.
-    > Ayrıntılama: Düşünceyi daha ilginç ve karmaşık yapmak için genişletmedir.
-    > E seçeneğinde yer verilen Sınırlandırma kavramının yaratıcı aşama ile ilgisi yoktur.
+    > **Açıklama:** Paul Torrance yaratıcılık üzerindeki araştırmalarıyla tanınan Amerikalı bir psikolog ve eğitimde yaratıcılık alanındaki en verimli yazarlardan biridir.<br />Torrance yaratıcı aşamanın boyutlarını şu şekilde belirlemiştir (Robinson, 2003):<br />Orijinallik: Düşüncenin tam anlamıyla tek (özgün) olmasıdır. Hiçbir ürüne benzememeli, taklit veya tekrar olmamalıdır.<br />Akıcılık: Birçok farklı düşüncenin üretilmesidir.<br />Esneklik: Düşünce yönünün değişimi veya başka bir şekilde düşünme yeteneğidir.<br />Ayrıntılama: Düşünceyi daha ilginç ve karmaşık yapmak için genişletmedir.<br />E seçeneğinde yer verilen Sınırlandırma kavramının yaratıcı aşama ile ilgisi yoktur.
 
     <hr />
 1. "Yaratıcı düşünce sürecinin ..................., ürünün 'bilinç ötesinde olgunlaşmakta olduğu' kademe olup, yaratıcılık çabasının sürmekte olduğu evredir." ifadesinde boş bırakılan yeri aşağıdakilerden hangisi doğru biçimde tamamlar?
@@ -133,8 +108,7 @@
     - D-) Motivasyon ve azim
     - **Cevap E-) Alan bilgisi**
 
-    > **Açıklama:** Herhangi bir testin, yaratıcı çabalarda başarı için gerekli olan inisiyatif, kendine güven, belirsizliğe tolerans, motivasyon ve azim gibi belirli kişisel özellikleri ölçmesi imkânsız olabilir.
-    > Bir testin, yaratıcı çabalarda başarı için gerekli olan inisiyatif, kendine güven, belirsizliğe tolerans, motivasyon ve azim gibi belirli kişisel özellikleri ölçmesi imkânsız olabilir ancak alan bilgisi ölçülebilir özelliklerdendir.
+    > **Açıklama:** Herhangi bir testin, yaratıcı çabalarda başarı için gerekli olan inisiyatif, kendine güven, belirsizliğe tolerans, motivasyon ve azim gibi belirli kişisel özellikleri ölçmesi imkânsız olabilir.<br />Bir testin, yaratıcı çabalarda başarı için gerekli olan inisiyatif, kendine güven, belirsizliğe tolerans, motivasyon ve azim gibi belirli kişisel özellikleri ölçmesi imkânsız olabilir ancak alan bilgisi ölçülebilir özelliklerdendir.
 
     <hr />
 1. .................. sorunlara, bozukluklara, bilgi eksikliğine, kayıp ögelere, uyumsuzluğa karşı duyarlı olma; güçlüğü tanımlama; çözüm arama, tahminlerde bulunma ya da eksikliklere ilişkin denenceler geliştirme; bu denenceleri değiştirme ya da yeniden sınama; daha sonra da sonucu başkalarına iletmektir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -144,8 +118,7 @@
     - D-) Görsel zeka
     - E-) Hipotez kurma
 
-    > **Açıklama:** Yaratıcılık: sorunlara, bozukluklara, bilgi eksikliğine, kayıp ögelere, uyumsuzluğa karşı duyarlı olma; güçlüğü tanımlama; çözüm arama, tahminlerde bulunma ya da eksikliklere ilişkin denenceler geliştirme; bu denenceleri değiştirme ya da yeniden sınama; daha sonra da sonucu başkalarına iletmektir.
-    > Soruda yaratıcılığın tanımı verilmiştir bu nedenle boşluğa C seçeneği gelmelidir.
+    > **Açıklama:** Yaratıcılık: sorunlara, bozukluklara, bilgi eksikliğine, kayıp ögelere, uyumsuzluğa karşı duyarlı olma; güçlüğü tanımlama; çözüm arama, tahminlerde bulunma ya da eksikliklere ilişkin denenceler geliştirme; bu denenceleri değiştirme ya da yeniden sınama; daha sonra da sonucu başkalarına iletmektir.<br />Soruda yaratıcılığın tanımı verilmiştir bu nedenle boşluğa C seçeneği gelmelidir.
 
     <hr />
 1. Aşağıdaki yaklaşımlardan hangisi her insanın uygun zaman ve yeterli koşullar sağlandığında yaratıcı ürünler ortaya koyabileceğini savunur?
@@ -165,8 +138,7 @@
     - D-) Üstbilişsel düşünme
     - E-) Yansıtıcı düşünce
 
-    > **Açıklama:** İlk prensipler düşüncesi yeni bir zihniyet benimsemeyi gerektirir. Geleneksel bilgeliği reddeden, dogmatizmin önünü kesen ve kendi inançlarımızı, bilgilerimizi sorgulayan bir düşünce biçimidir.
-    > Doğru cevap A seçeneğinde verilmiştir.
+    > **Açıklama:** İlk prensipler düşüncesi yeni bir zihniyet benimsemeyi gerektirir. Geleneksel bilgeliği reddeden, dogmatizmin önünü kesen ve kendi inançlarımızı, bilgilerimizi sorgulayan bir düşünce biçimidir.<br />Doğru cevap A seçeneğinde verilmiştir.
 
     <hr />
 1. Aşağıdakilerden hangisi yaratıcı düşünceye ilişkin mitlerden biri değildir?
@@ -176,13 +148,7 @@
     - D-) Yaratıcı fikirler kesinlikle orijinal olmalıdır.
     - E-) Yaratıcılık anlık parlak fikirlerle ortaya çıkar.
 
-    > **Açıklama:** A seçeneğinde verilen bir mit değildir. Her alanda insanların yaratıcı olabileceği bir gerçektir. Aşağıda kitapta yer alan mitler verilmiştir.
-    > Yaratıcılık sadece sanatsal alanlarla ilgilidir.
-    > Yaratıcılık genetiktir, geliştirilemez.
-    > Yaratıcılık herkeste olmayan özel bir beceridir.
-    > Bazı kısıtlamalar yaratıcılığı öldürür.
-    > Yaratıcı fikirler kesinlikle orijinal olmalıdır.
-    > Yaratıcılık anlık parlak fikirlerle ortaya çıkar.
+    > **Açıklama:** A seçeneğinde verilen bir mit değildir. Her alanda insanların yaratıcı olabileceği bir gerçektir. Aşağıda kitapta yer alan mitler verilmiştir.<br />Yaratıcılık sadece sanatsal alanlarla ilgilidir.<br />Yaratıcılık genetiktir, geliştirilemez.<br />Yaratıcılık herkeste olmayan özel bir beceridir.<br />Bazı kısıtlamalar yaratıcılığı öldürür.<br />Yaratıcı fikirler kesinlikle orijinal olmalıdır.<br />Yaratıcılık anlık parlak fikirlerle ortaya çıkar.
 
     <hr />
 1. Bir alana yönelik olağanüstü yatkınlık ve üstün bir başarı için doğuştan gelen, eğitimle geliştirilebilen gizil bir güç olarak ifade edilebilir.<br />Yukarıda verilen tanım aşağıdakilerden hangisine aittir?
@@ -192,8 +158,7 @@
     - D-) Zeka
     - **Cevap E-) Yetenek**
 
-    > **Açıklama:** Bir alana yönelik olağanüstü yatkınlık ve üstün bir başarı için doğuştan gelen, eğitimle geliştirilebilen gizil bir güç olarak ifade edilebilir.
-    > Yukarıda verilen tanım yeteneğin tanımıdır. Doğru cevap E seçeneğinde verilmiştir.
+    > **Açıklama:** Bir alana yönelik olağanüstü yatkınlık ve üstün bir başarı için doğuştan gelen, eğitimle geliştirilebilen gizil bir güç olarak ifade edilebilir.<br />Yukarıda verilen tanım yeteneğin tanımıdır. Doğru cevap E seçeneğinde verilmiştir.
 
     <hr />
 1. Aşağıdaki kişilik özelliklerinden hangisi diğer kişilik özelliklerden daha çok yaratıcılıkla ilişkilidir?
@@ -203,8 +168,7 @@
     - D-) Uyumluluk
     - E-) Nevrotizm
 
-    > **Açıklama:** Beş kişilik özelliğinden/faktörlerinden açıklık diğer özelliklerden daha çok yaratıcılıkla ilişkilidir. Açıklık kişilik özelliği: entelektüel merak, yaratıcılık, sanat alanlarına ilgi, öğrenme ve yeniliklere ilgi ve açıklık olarak tanımlanabilir.
-    > Doğru cevap A seçeneğinde verilmiştir.
+    > **Açıklama:** Beş kişilik özelliğinden/faktörlerinden açıklık diğer özelliklerden daha çok yaratıcılıkla ilişkilidir. Açıklık kişilik özelliği: entelektüel merak, yaratıcılık, sanat alanlarına ilgi, öğrenme ve yeniliklere ilgi ve açıklık olarak tanımlanabilir.<br />Doğru cevap A seçeneğinde verilmiştir.
 
     <hr />
 1. Aşağıdakilerden hangisi yaratıcılığın 3 bileşeninden biridir?
@@ -224,8 +188,7 @@
     - D-) optimum alternatifleri seçme
     - E-) bulunan çözümleri ürün olarak uygulama
 
-    > **Açıklama:** Yaratıcı düşünme becerileri, bir sorunu doğru bir şekilde tanımlama, zorlukları yeni perspektiflerden görme, birden fazla fikir üret­me, optimum alternatifleri seçme ve bu çözümleri ürün olarak uygulamaya yönelik teknikleri içerir.
-    > Doğru cevap C seçeneğinde verilmiştir. Tek bir fikir değil birden fazla fikir üretmek gerekir.
+    > **Açıklama:** Yaratıcı düşünme becerileri, bir sorunu doğru bir şekilde tanımlama, zorlukları yeni perspektiflerden görme, birden fazla fikir üret­me, optimum alternatifleri seçme ve bu çözümleri ürün olarak uygulamaya yönelik teknikleri içerir.<br />Doğru cevap C seçeneğinde verilmiştir. Tek bir fikir değil birden fazla fikir üretmek gerekir.
 
     <hr />
 1. Aşağıdakilerden hangisi Torrance'ın oluşturduğu yaratıcı aşamanın boyutlarından biri değildir?
@@ -235,8 +198,7 @@
     - D-) Ayrıntılama
     - **Cevap E-) Tutarlılık**
 
-    > **Açıklama:** Torrance'ın oluşturduğu yaratıcı aşamanın boyutları: akıcılık, esneklik, orijinallik, ayrıntılamadır.
-    > Tutarlılık yaratıcılıkla ilişkili bir kavram değildir. Doğru cevap E seçeneğinde verilmiştir.
+    > **Açıklama:** Torrance'ın oluşturduğu yaratıcı aşamanın boyutları: akıcılık, esneklik, orijinallik, ayrıntılamadır.<br />Tutarlılık yaratıcılıkla ilişkili bir kavram değildir. Doğru cevap E seçeneğinde verilmiştir.
 
     <hr />
 1. Yaratıcılığın süreç içindeki gelişimi birbiriyle bağlantılı tepkiler şeklinde oluşur. Bu<br />sürecin işleyişine göre aşağıdakilerden hangisi yaratıcılık sürecinin basamaklarından biri değildir?
@@ -256,10 +218,7 @@
     - D-) Howard Gardner
     - E-) Florence Goodenough
 
-    > **Açıklama:** Jean P. Guilford’un çalışması üzerine inşa edilen ve Paul Torrance tarafından geliştirilen bir yaratıcılık
-    > testi olan Torrance Yaratıcı Düşünme Testleri, farklı düşünme ve diğer problem çözme becerilerinin basit testlerini içeriyordu.
-    > Paul Torrance tarafından geliştirilen bir yaratıcılık
-    > testi olan Torrance Yaratıcı Düşünme Testleri Jean P. Guilford’un çalışması üzerine inşa edilmiştir.
+    > **Açıklama:** Jean P. Guilford’un çalışması üzerine inşa edilen ve Paul Torrance tarafından geliştirilen bir yaratıcılık<br />testi olan Torrance Yaratıcı Düşünme Testleri, farklı düşünme ve diğer problem çözme becerilerinin basit testlerini içeriyordu.<br />Paul Torrance tarafından geliştirilen bir yaratıcılık<br />testi olan Torrance Yaratıcı Düşünme Testleri Jean P. Guilford’un çalışması üzerine inşa edilmiştir.
 
     <hr />
 1. Amerikalı psikolog Paul Torrance’a göre “birçok farklı düşüncenin üretilmesi” olan yaratıcı aşamanın boyutları aşağıdakilerden hangisidir?
@@ -269,13 +228,7 @@
     - **Cevap D-) Akıcılık**
     - E-) Ayrıntılama
 
-    > **Açıklama:** Torrance yaratıcı aşamanın boyutlarını şu şekilde belirlemiştir:
-    > Orijinallik: Düşüncenin tam anlamıyla tek (özgün) olmasıdır. Hiçbir ürüne benzememeli, taklit veya
-    > tekrar olmamalıdır.
-    > Akıcılık: Birçok farklı düşüncenin üretilmesidir.
-    > Esneklik: Düşünce yönünün değişimi veya başka bir şekilde düşünme yeteneğidir.
-    > Ayrıntılama: Düşünceyi daha ilginç ve karmaşık yapmak için genişletmedir.
-    > Torrance yaratıcı aşamanın boyutlarından akıcılığı "Birçok farklı düşüncenin üretilmesidir." biçiminde açıklar.
+    > **Açıklama:** Torrance yaratıcı aşamanın boyutlarını şu şekilde belirlemiştir:<br />Orijinallik: Düşüncenin tam anlamıyla tek (özgün) olmasıdır. Hiçbir ürüne benzememeli, taklit veya<br />tekrar olmamalıdır.<br />Akıcılık: Birçok farklı düşüncenin üretilmesidir.<br />Esneklik: Düşünce yönünün değişimi veya başka bir şekilde düşünme yeteneğidir.<br />Ayrıntılama: Düşünceyi daha ilginç ve karmaşık yapmak için genişletmedir.<br />Torrance yaratıcı aşamanın boyutlarından akıcılığı "Birçok farklı düşüncenin üretilmesidir." biçiminde açıklar.
 
     <hr />
 1. Aşağıdakilerden hangileri mit değildir ve tümü ile doğrudur?
@@ -285,13 +238,7 @@
     - D-) Yaratıcılık sadece anlık parlak fikirler ile ortaya çıkar, yaratıcı ilham gelmedikçe yaratamaz, parlak fikir sadece beklemek ile gelir.
     - E-) Yaratıcılık genetiktir, geliştirilemez.
 
-    > **Açıklama:** Aşağıdakiler kitapta Yaratıcılık ile ilgili mitler olarak listelenmiştir.
-    > 1\. yaratıcılık sadece sanatsal alanlarla ilgilidir, genetiktir, geliştirilemez
-    > 2\. yaratıcılık herkeste olmayan özel bir beceridir, bazı kısıtlamalar yaratıcılığı öldürür, yaratıcı fikirler tümü ile orijinal olmak zorunda değildir
-    > 3\. Yaratıcılık sadece anlık parlak fikirlerle ortaya çıkar, sadece sanatsal alanlar ile ilgilidir
-    > 4\. Yaratıcılık sadece anlık parlak fikirler ile ortaya çıkar, yaratıcı ilham gelmedikçe yaratamaz, parlak fikir sadece beklemek ile gelir
-    > 5\. Yaratıcılık genetiktir, geliştirilemez
-    > Kitapta geçen mitlerden biri de "Yaratıcılık sadece anlık parlak fikirlerle ortaya çıkar, sadece sanatsal alanlar ile ilgilidir". olduğu için bu soruda bu beyanın tersi kullanılmıştır.
+    > **Açıklama:** Aşağıdakiler kitapta Yaratıcılık ile ilgili mitler olarak listelenmiştir.<br />1\. yaratıcılık sadece sanatsal alanlarla ilgilidir, genetiktir, geliştirilemez<br />2\. yaratıcılık herkeste olmayan özel bir beceridir, bazı kısıtlamalar yaratıcılığı öldürür, yaratıcı fikirler tümü ile orijinal olmak zorunda değildir<br />3\. Yaratıcılık sadece anlık parlak fikirlerle ortaya çıkar, sadece sanatsal alanlar ile ilgilidir<br />4\. Yaratıcılık sadece anlık parlak fikirler ile ortaya çıkar, yaratıcı ilham gelmedikçe yaratamaz, parlak fikir sadece beklemek ile gelir<br />5\. Yaratıcılık genetiktir, geliştirilemez<br />Kitapta geçen mitlerden biri de "Yaratıcılık sadece anlık parlak fikirlerle ortaya çıkar, sadece sanatsal alanlar ile ilgilidir". olduğu için bu soruda bu beyanın tersi kullanılmıştır.
 
     <hr />
 1. Aşağıdakilerden hangisi 4-7 yaş arası çocukların sezgisel düşünme becerileri ile ilgili değildir?
@@ -301,17 +248,7 @@
     - D-) Başka konuşmacıları doğru olarak algılama becerileri henüz gelişmemiştir
     - E-) Kuralları hatırlama ve anlama konusunda zorluk çekebilirler
 
-    > **Açıklama:** 4-7 yaş arası çocuklar, mantık kurallarına uygun düşünme yerine, olayları
-    > sezgilerine dayanarak açıklar ve neden gösterirler.
-    > Sezgisel Düşünme (4-7 yaş) : Çocuklar, mantık kurallarına uygun düşünme yerine, olayları
-    > sezgilerine dayanarak açıklar ve neden gösterirler.
-    > Aşağıdaki konularda çok zayıftırlar.
-    > • Olayların sırasını açıklama
-    > • İlişkileri, özellikle sebep-sonuç ilişkisini
-    > açıklama
-    > • Sayıları ve ilişkilerini anlama
-    > • Başka konuşmacıları doğru olarak algılama
-    > • Kuralları hatırlama ve anlama
+    > **Açıklama:** 4-7 yaş arası çocuklar, mantık kurallarına uygun düşünme yerine, olayları<br />sezgilerine dayanarak açıklar ve neden gösterirler.<br />Sezgisel Düşünme (4-7 yaş) : Çocuklar, mantık kurallarına uygun düşünme yerine, olayları<br />sezgilerine dayanarak açıklar ve neden gösterirler.<br />Aşağıdaki konularda çok zayıftırlar.<br />• Olayların sırasını açıklama<br />• İlişkileri, özellikle sebep-sonuç ilişkisini<br />açıklama<br />• Sayıları ve ilişkilerini anlama<br />• Başka konuşmacıları doğru olarak algılama<br />• Kuralları hatırlama ve anlama
 
     <hr />
 1. Karşıdaki kişinin duygularını anlama paylaşımı ile ilgili Bell'e göre aşağıdakilerden hangisi doğrudur?
@@ -321,16 +258,7 @@
     - **Cevap D-) Bildirişim bileşeni**
     - E-) Davranışsal Empati
 
-    > **Açıklama:** Empati kavramı kendi içinde dört ana bileşen altında incelenmiştir. Bell’e (2018) göre bunlar:
-    > 1\. Algısal Empati: Karşıdaki kişinin fiziki durumu, tutum ve davranışı üzerindeki ilk
-    > izlenimler ve bunların algılanabilmesi durumudur.
-    > 2\. Bilişsel Empati: Bir başkasının duygularını
-    > yaşamadan, kendi yerine koyarak anlayabilme becerisidir.
-    > 3\. Duygusal Empati: Doğrudan başkalarının
-    > durumlarına/duygularına karşı hissedilen
-    > tepkilerdir.
-    > 4\. Bildirişim Bileşeni: Karşıdaki kişinin duygularını anlama paylaşımıdır.
-    > Kitabımızda H. Bell'in söylemine göre "Bildirişim Bileşeni" karşıdaki kişinin duygularını anlama paylaşımıdır.
+    > **Açıklama:** Empati kavramı kendi içinde dört ana bileşen altında incelenmiştir. Bell’e (2018) göre bunlar:<br />1\. Algısal Empati: Karşıdaki kişinin fiziki durumu, tutum ve davranışı üzerindeki ilk<br />izlenimler ve bunların algılanabilmesi durumudur.<br />2\. Bilişsel Empati: Bir başkasının duygularını<br />yaşamadan, kendi yerine koyarak anlayabilme becerisidir.<br />3\. Duygusal Empati: Doğrudan başkalarının<br />durumlarına/duygularına karşı hissedilen<br />tepkilerdir.<br />4\. Bildirişim Bileşeni: Karşıdaki kişinin duygularını anlama paylaşımıdır.<br />Kitabımızda H. Bell'in söylemine göre "Bildirişim Bileşeni" karşıdaki kişinin duygularını anlama paylaşımıdır.
 
     <hr />
 1. Üstel'e göre yaratıcılığın süreç içindeki gelişiminin hangi aşamasında yaratıcılık sürecinden süzülen orijinallik “rafine edilerek” uygulanabilir kılınmaktadır.
@@ -340,8 +268,7 @@
     - D-) Hazırlık
     - E-) Tasdik
 
-    > **Açıklama:** Eleme: Sürecin bu bölümünde, yaratıcılık sürecinden süzülen orijinallik “rafine edilerek” uygulanabilir kılınmaktadır.
-    > Sürecin rafinasyon yani eleme aşamasında, yaratıcılık sürecinden süzülen orijinallik “rafine edilerek” uygulanabilir kılınmaktadır.
+    > **Açıklama:** Eleme: Sürecin bu bölümünde, yaratıcılık sürecinden süzülen orijinallik “rafine edilerek” uygulanabilir kılınmaktadır.<br />Sürecin rafinasyon yani eleme aşamasında, yaratıcılık sürecinden süzülen orijinallik “rafine edilerek” uygulanabilir kılınmaktadır.
 
     <hr />
 1. Hangisi çocukları gelişimsel ve duygusal açıdan değerlendirme amacıyla gerçekleştirilen bir çizim testidir?
@@ -351,20 +278,7 @@
     - D-) Benton Görsel Bellek Testi
     - E-) Karen Machover
 
-    > **Açıklama:** Bireylerin artistik, fiziksel ve biyolojik gelişimlerinin izlenmesi ve bazı tespitlerin yapılmasına
-    > yönelik (özellikle insan çizim testleri) bazı araştırmacılar tarafından uygulanan en önemli testler aşağıda verilmiştir:
-    > Florence Goodenough: Çocuklarda bir insan
-    > çizimi vasıtasıyla zekâ düzeyini ölçme amaçlı gerçekleştirilen bir testtir.
-    > Elizabeth M. Koppitz: Çocukları gelişimsel ve
-    > duygusal açıdan değerlendirme amacıyla gerçekleştirilen bir çizim testidir.
-    > Denver Gelişim Testi: Küçük çocuklarda var
-    > olan gelişimsel sorunları tespit etmek amacıyla geliştirilmiş bir ölçme aracıdır.
-    > Benton Görsel Bellek Testi: Görsel-mekânsal
-    > belleği ölçen bir performans testidir.
-    > Karen Machover: Bir insan çiziminde kişinin
-    > ihtiyaçlarına ve çatışmalarına odaklanan psikanalitik bir tekniktir
-    > Çocukları gelişimsel ve
-    > duygusal açıdan değerlendirme amacıyla gerçekleştirilen bir çizim testi Elizabeth M. Koppitz tarafından geliştirilmiştir.
+    > **Açıklama:** Bireylerin artistik, fiziksel ve biyolojik gelişimlerinin izlenmesi ve bazı tespitlerin yapılmasına<br />yönelik (özellikle insan çizim testleri) bazı araştırmacılar tarafından uygulanan en önemli testler aşağıda verilmiştir:<br />Florence Goodenough: Çocuklarda bir insan<br />çizimi vasıtasıyla zekâ düzeyini ölçme amaçlı gerçekleştirilen bir testtir.<br />Elizabeth M. Koppitz: Çocukları gelişimsel ve<br />duygusal açıdan değerlendirme amacıyla gerçekleştirilen bir çizim testidir.<br />Denver Gelişim Testi: Küçük çocuklarda var<br />olan gelişimsel sorunları tespit etmek amacıyla geliştirilmiş bir ölçme aracıdır.<br />Benton Görsel Bellek Testi: Görsel-mekânsal<br />belleği ölçen bir performans testidir.<br />Karen Machover: Bir insan çiziminde kişinin<br />ihtiyaçlarına ve çatışmalarına odaklanan psikanalitik bir tekniktir<br />Çocukları gelişimsel ve<br />duygusal açıdan değerlendirme amacıyla gerçekleştirilen bir çizim testi Elizabeth M. Koppitz tarafından geliştirilmiştir.
 
     <hr />
 1. Bakırcıoğlu'na göre "Bir Ağaç Çiz" testinde deneğin yaptığı resim değerlendirilirken "eğitsel zorluk yaratmama" olarak yorumlanan aşağıdakilerin arasından hangi durumdur?
@@ -374,8 +288,7 @@
     - D-) Ağaç gövdesinin köklere yakın bölümünün ana gövdeye oranla geniş tutulması
     - **Cevap E-) Ağaç gövdesini oluşturan çizgilerin birbirine koşut olması**
 
-    > **Açıklama:** Bir Ağaç Çiz testinde resim, belli kurallar çerçevesinde değerlendirilir. Bu amaçla, resimdeki ağacın gövdesine, dallarına, yapraklarına, meyvelerine, resmin sayfadaki yerine bakılır.
-    > Bir Ağaç Çiz testinde ağaç gövdesini oluşturan çizgilerin birbirine koşut olması söz dinlerlik ve uyumlu olma, eğitsel zorluk yaratmama olarak yorumlanıyor.
+    > **Açıklama:** Bir Ağaç Çiz testinde resim, belli kurallar çerçevesinde değerlendirilir. Bu amaçla, resimdeki ağacın gövdesine, dallarına, yapraklarına, meyvelerine, resmin sayfadaki yerine bakılır.<br />Bir Ağaç Çiz testinde ağaç gövdesini oluşturan çizgilerin birbirine koşut olması söz dinlerlik ve uyumlu olma, eğitsel zorluk yaratmama olarak yorumlanıyor.
 
     <hr />
 1. Sungur'dan aldığımız bilgilere göre aşağıdakilerden hangileri doğrudur?<br />a) yüksek düzeyde zekânın, yüksek düzeyde yaratıcılığı garanti<br />etmediği<br />b) yaratıcılıkla zekâ arasında yüksek bir korelasyon olduğu<br />c) daha zeki bir bireyin daha yaratıcı birey anlamına gelmediğini<br />d) yaratıcılık için minimum genel zekâ düzeyinin (IQ:125) gerektiği
@@ -385,11 +298,7 @@
     - D-) b, c ve d
     - E-) a, b, c ve d
 
-    > **Açıklama:** Sungur’a (1997) göre, araştırmacılar yüksek düzeyde zekânın, yüksek düzeyde yaratıcılığı garanti
-    > etmediğini, yaratıcılıkla zekâ arasında yüksek bir korelasyon olmadığını, daha zeki bir bireyin daha
-    > yaratıcı birey anlamına gelmediğini belirtmektedirler. Bu alandaki son araştırmalar ise yaratıcılık için
-    > minimum genel zekâ düzeyinin (IQ:125) gerektiğini ortaya koymaktadır
-    > Yaratıcılıkla zekâ arasında yüksek bir korelasyon olduğu diğer maddeler dikkate alındığında da anlamlı gelmiyor olmalı.
+    > **Açıklama:** Sungur’a (1997) göre, araştırmacılar yüksek düzeyde zekânın, yüksek düzeyde yaratıcılığı garanti<br />etmediğini, yaratıcılıkla zekâ arasında yüksek bir korelasyon olmadığını, daha zeki bir bireyin daha<br />yaratıcı birey anlamına gelmediğini belirtmektedirler. Bu alandaki son araştırmalar ise yaratıcılık için<br />minimum genel zekâ düzeyinin (IQ:125) gerektiğini ortaya koymaktadır<br />Yaratıcılıkla zekâ arasında yüksek bir korelasyon olduğu diğer maddeler dikkate alındığında da anlamlı gelmiyor olmalı.
 
     <hr />
 1. "**...**, dünyayı yeni biçimlerde algılama, farklı bakış açıları geliştirme, görünüşte ilgisiz fenomenler arasında bağlantı kurma, sorun çözme, çözümler üretme yeteneği ve kalıpların dışında düşünme biçiminde karakterize edilir" anlatımında yer alan boşluğa gelmesi en uygun seçenek aşağıdakilerden hangisidir?
@@ -409,12 +318,7 @@
     - D-) Paul Torrance
     - E-) Howard Garner
 
-    > **Açıklama:** Yaratıcılık kavramının büyük ölçüde sorun çözme yetisi üzerinde odaklandığı görülür. **John Dewey’**e göre sorun çözmeye ilişkin aşağıda belirlenen mantıksal beş basamak vardır, bunlar:
-    > * Fark edilmiş bir sorun
-    > * Sorunun oluştuğu, bulunduğu yer ve tanımı
-    > * Olası çözüm ve alternatiflerin ortaya konulması
-    > * Farklı öneriler geliştirilerek nedenleri ve içeriklerinin araştırılması
-    > * Kabul gören veya sonuca götüren ileri derecedeki gözlemlerdir.
+    > **Açıklama:** Yaratıcılık kavramının büyük ölçüde sorun çözme yetisi üzerinde odaklandığı görülür. **John Dewey’**e göre sorun çözmeye ilişkin aşağıda belirlenen mantıksal beş basamak vardır, bunlar:<br />* Fark edilmiş bir sorun<br />* Sorunun oluştuğu, bulunduğu yer ve tanımı<br />* Olası çözüm ve alternatiflerin ortaya konulması<br />* Farklı öneriler geliştirilerek nedenleri ve içeriklerinin araştırılması<br />* Kabul gören veya sonuca götüren ileri derecedeki gözlemlerdir.
 
     <hr />
 1. Sorunları bir bütünlük içinde algılama ve çözme sürecini içeren yaklaşım aşağıdakilerden hangisidir?
@@ -505,8 +409,7 @@
     - **Cevap D-) Piktogram**
     - E-) İlkel sanat
 
-    > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK TARİHİNDE TOPLUMSAL YARATICILIK
-    > Piktogram, bir objeyi, eşyayı, bir kavramı ya da bir olguyu temsil eden çok basit sembollerdir.
+    > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK TARİHİNDE TOPLUMSAL YARATICILIK<br />Piktogram, bir objeyi, eşyayı, bir kavramı ya da bir olguyu temsil eden çok basit sembollerdir.
 
     <hr />
 1. Ünsüzleri temsil etmek için semboller kullanan ve bunu kayıt tutmak için kullanan gezgin tüccarlar tarafından Akdeniz’e yaymasını sağlayan, bugün bir alfabenin kullanıldığının ilk kanıtı hangi alfabede bulunmaktaydı?
@@ -516,8 +419,7 @@
     - D-) Yunan
     - E-) Mısır
 
-    > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK TARİHİNDE TOPLUMSAL YARATICILIK
-    > Bugün bir alfabenin kullanıldığının ilk kanıtı Fenike alfabesiydi. Sistem, ünsüzleri temsil etmek için semboller kullandı ve bunu kayıt tutmak için kullanan gezgin tüccarlar tarafından Akdeniz’e yaydırıldı. Bu alfabeden sonra Aramice alfabesi ve Yunan alfabesi geldi, bu da hem ünsüz hem de sesli harflerin karşılığı olan semboller içeren bugün kullandığımız Latin alfabesinin gelişimine zemin hazırladı.
+    > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK TARİHİNDE TOPLUMSAL YARATICILIK<br />Bugün bir alfabenin kullanıldığının ilk kanıtı Fenike alfabesiydi. Sistem, ünsüzleri temsil etmek için semboller kullandı ve bunu kayıt tutmak için kullanan gezgin tüccarlar tarafından Akdeniz’e yaydırıldı. Bu alfabeden sonra Aramice alfabesi ve Yunan alfabesi geldi, bu da hem ünsüz hem de sesli harflerin karşılığı olan semboller içeren bugün kullandığımız Latin alfabesinin gelişimine zemin hazırladı.
 
     <hr />
 1. Televizyon, cep telefonu, devasa jet uçakları, araçlardaki uydu navigasyon sistemleri, tren tarifeleri, tıbbi tarayıcılar ve şu an bize çok doğal gelen her şey aslında ..................... fikirlere ve yöntemlere dayanır.<br />Cümledeki boşluk aşağıdakilerden hangisi ile doğru doldurulur?
@@ -527,8 +429,7 @@
     - D-) Zihinsel
     - **Cevap E-) Matematiksel**
 
-    > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK TARİHİNDE TOPLUMSAL YARATICILIK
-    > Günümüz toplumu, matematik olmazsa işlevsiz kalır. Televizyon, cep telefonu, devasa jet uçakları, araçlardaki uydu navigasyon sistemleri, tren tarifeleri, tıbbi tarayıcılar ve şu an bize çok doğal gelen her şey aslında matematiksel fikirlere ve yöntemlere dayanır.
+    > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK TARİHİNDE TOPLUMSAL YARATICILIK<br />Günümüz toplumu, matematik olmazsa işlevsiz kalır. Televizyon, cep telefonu, devasa jet uçakları, araçlardaki uydu navigasyon sistemleri, tren tarifeleri, tıbbi tarayıcılar ve şu an bize çok doğal gelen her şey aslında matematiksel fikirlere ve yöntemlere dayanır.
 
     <hr />
 1. Hangi yüzyılın sonlarına doğru hızla ilerleyen görüş, yaratıcılığın daha önce düşünüldüğü kadar ilahi bir şey olmadığı ancak herkesin olmamakla birlikte bazılarının yaratıcı olabileceği görüşü önem kazandı?
@@ -538,8 +439,7 @@
     - **Cevap D-) 17\. yy**
     - E-) 18\. yy
 
-    > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK TARİHİNDE TOPLUMSAL YARATICILIK
-    > **17. yüzyıl** sonlarına doğru hızla ilerleyen görüş, yaratıcılığın daha önce düşünüldüğü kadar ilahi bir şey olmadığı ancak herkesin olmamakla birlikte bazılarının yaratıcı olabileceği görüşü önem kazandı.
+    > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK TARİHİNDE TOPLUMSAL YARATICILIK<br />**17. yüzyıl** sonlarına doğru hızla ilerleyen görüş, yaratıcılığın daha önce düşünüldüğü kadar ilahi bir şey olmadığı ancak herkesin olmamakla birlikte bazılarının yaratıcı olabileceği görüşü önem kazandı.
 
     <hr />
 1. Isaac Newton evrensel kütle çekim yasasını hangi yüzyılda formüle etti?
@@ -549,11 +449,7 @@
     - D-) 18\. yy
     - E-) 19\. yy
 
-    > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK TARİHİNDE TOPLUMSAL YARATICILIK
-    > Tablo 2.2 Dünyadaki belli başlı icat ve gelişmeler:
-    > 17\. yüzyıl:
-    > • İnsan gücüyle çalışan ilk denizaltı icat edildi.
-    > • Isaac Newton evrensel kütle çekim yasasını formüle etti.
+    > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK TARİHİNDE TOPLUMSAL YARATICILIK<br />Tablo 2.2 Dünyadaki belli başlı icat ve gelişmeler:<br />17\. yüzyıl:<br />• İnsan gücüyle çalışan ilk denizaltı icat edildi.<br />• Isaac Newton evrensel kütle çekim yasasını formüle etti.
 
     <hr />
 1. Yenilikçi fikirler üretme yeteneğimiz yalnızca zihnin bir işlevi değil, aynı zamanda beynimizi keşif için optimize eden beş temel davranışın bir işlevidir. Aşağıdakilerden hangisi **'İlgisiz alanlardan sorular sorma, problemler veya fikirler arasında bağlantı kurmadır.'** davranışını açıklar?
@@ -563,9 +459,7 @@
     - D-) Sorgulama
     - **Cevap E-) İlişkilendirme**
 
-    > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK TARİHİNDE TOPLUMSAL YARATICILIK
-    > Yenilikçi fikirler üretme yeteneğimiz yalnızca zihnin bir işlevi değil, aynı zamanda beynimizi keşif için optimize eden beş temel davranışın bir işlevidir. Bunlar (https://www.creativityatwork. com/what-is-creativity/):
-    > **İlişkilendirme:** İlgisiz alanlardan sorular sorma, problemler veya fikirler arasında bağlantı kurmadır.
+    > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK TARİHİNDE TOPLUMSAL YARATICILIK<br />Yenilikçi fikirler üretme yeteneğimiz yalnızca zihnin bir işlevi değil, aynı zamanda beynimizi keşif için optimize eden beş temel davranışın bir işlevidir. Bunlar (https://www.creativityatwork. com/what-is-creativity/):<br />**İlişkilendirme:** İlgisiz alanlardan sorular sorma, problemler veya fikirler arasında bağlantı kurmadır.
 
     <hr />
 1. Aşağıdakilerden hangisi **Yaratıcı Olmayan Tutum**'u temsil eder?
@@ -575,8 +469,7 @@
     - D-) Açık ve sonlu tepkiler var
     - E-) Belirsizlikleri ve aksilikleri hoş görme
 
-    > **Açıklama:** YARATICILIK VE EĞİTİM İLİŞKİSİ
-    > Tablo 2.5 Yaratıcı Tutum ve Yaratıcı Olmayan Tutum
+    > **Açıklama:** YARATICILIK VE EĞİTİM İLİŞKİSİ<br />Tablo 2.5 Yaratıcı Tutum ve Yaratıcı Olmayan Tutum
 
     <hr />
 1. Polya’nın Problem Çözme Stratejisi kaç aşamadan oluşmaktadır?
@@ -586,8 +479,7 @@
     - D-) 5
     - E-) 6
 
-    > **Açıklama:** YARATICILIK VE EĞİTİM İLİŞKİSİ
-    > Polya’nın Problem Çözme Stratejisi **dört** aşamadan oluşmaktadır. Bu aşamalar Tablo 2.6’da gösterilmiştir:
+    > **Açıklama:** YARATICILIK VE EĞİTİM İLİŞKİSİ<br />Polya’nın Problem Çözme Stratejisi **dört** aşamadan oluşmaktadır. Bu aşamalar Tablo 2.6’da gösterilmiştir:
 
     <hr />
 1. Holland’ın Meslek Tipoloji olarak bilinen bu kuramının amacı bireylere mesleki özelliklerini açıklamak ve meslek seçimi veya meslek değişimi<br />yaparken yardımcı olmak, mesleklerini benimsemelerine katkı sağlamak, bir anlamda mesleki danışmanlık yapmaktır. Bu kurama göre mesleki bağlamda **kaç kişilik tipi** vardır?
@@ -597,10 +489,7 @@
     - D-) 8
     - E-) 10
 
-    > **Açıklama:** TOPLUMSAL GELİŞİMDE YARATICILIK VE YENİLİKÇİ ETKİLER
-    > Holland’ın Meslek Tipoloji olarak bilinen bu kuramının amacı bireylere mesleki özelliklerini açıklamak ve meslek seçimi veya meslek değişimi
-    > yaparken yardımcı olmak, mesleklerini benimsemelerine katkı sağlamak, bir anlamda mesleki danışmanlık yapmaktır. Bu kurama göre; Gerçekçi,
-    > Araştırmacı, Sanatsal, Sosyal, Girişimci ve Geleneksel olmak üzere mesleki bağlamda **altı kişilik tip**i vardır.
+    > **Açıklama:** TOPLUMSAL GELİŞİMDE YARATICILIK VE YENİLİKÇİ ETKİLER<br />Holland’ın Meslek Tipoloji olarak bilinen bu kuramının amacı bireylere mesleki özelliklerini açıklamak ve meslek seçimi veya meslek değişimi<br />yaparken yardımcı olmak, mesleklerini benimsemelerine katkı sağlamak, bir anlamda mesleki danışmanlık yapmaktır. Bu kurama göre; Gerçekçi,<br />Araştırmacı, Sanatsal, Sosyal, Girişimci ve Geleneksel olmak üzere mesleki bağlamda **altı kişilik tip**i vardır.
 
     <hr />
 1. Aşağıdakilerden hangisi **yenilikçi düşünmeyi** merkeze alan temel beceriler arasında ***yer almaz?***
@@ -610,13 +499,7 @@
     - D-) İletişim Kurma
     - **Cevap E-) Hayal Kurma**
 
-    > **Açıklama:** TOPLUMSAL GELİŞİMDE YARATICILIK VE YENİLİKÇİ ETKİLER
-    > Yenilikçi düşünmeyi merkeze alan temel beceriler aşağıda beş aşamada verilmiştir. Bunlar:
-    > **1. Analitik Düşünme:** Ne anlama geldiklerini anlamak için şeyleri dikkatlice inceleme yeteneğidir.
-    > **2. Açık Fikirli Olma:** Varsayımlarınızı veya ön yargılarınızı bir kenara bırakmalı ve olaylara tamamen yeni bir şekilde bakmalısınız.
-    > **3. Problem Çözme:** Yalnızca yaratıcı düşünme yeteneğiniz değil, aynı zamanda önemli bir sorunu çözmek için yaratıcılığınızı kullanma yeteneğinizdir.
-    > **4. Organize Olma:** Açık hedefler ve son tarihler içeren bir eylem planı oluşturabilmedir.
-    > **5. İletişim Kurma:** Güçlü yazılı ve sözlü iletişim becerilerine sahip olmanız gerekir.
+    > **Açıklama:** TOPLUMSAL GELİŞİMDE YARATICILIK VE YENİLİKÇİ ETKİLER<br />Yenilikçi düşünmeyi merkeze alan temel beceriler aşağıda beş aşamada verilmiştir. Bunlar:<br />**1. Analitik Düşünme:** Ne anlama geldiklerini anlamak için şeyleri dikkatlice inceleme yeteneğidir.<br />**2. Açık Fikirli Olma:** Varsayımlarınızı veya ön yargılarınızı bir kenara bırakmalı ve olaylara tamamen yeni bir şekilde bakmalısınız.<br />**3. Problem Çözme:** Yalnızca yaratıcı düşünme yeteneğiniz değil, aynı zamanda önemli bir sorunu çözmek için yaratıcılığınızı kullanma yeteneğinizdir.<br />**4. Organize Olma:** Açık hedefler ve son tarihler içeren bir eylem planı oluşturabilmedir.<br />**5. İletişim Kurma:** Güçlü yazılı ve sözlü iletişim becerilerine sahip olmanız gerekir.
 
     <hr />
 1. Yazının icadından önce insanlar arasında iletişimi sağlayan sembol sistemlerinden biri aşağıdakilerden hangisidir?
@@ -626,12 +509,7 @@
     - D-) ikonografi
     - E-) filigran
 
-    > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK
-    > TARİHİNDE TOPLUMSAL
-    > YARATICILIK başlığını inceleyiniz.
-    > Konuşulan dilin yazılı formdan on binlerce yıl önce evrimleştiğine inanılmaktadır. Yazı alfabeden
-    > önce gelmiştir. İlk önce piktografik sembollerle oluşturulan karakterler daha sonraları harflere,
-    > ardından alfabeye dönüştürülmüştür. Dolayısıyla yazı sistemleri gelişmeden önce piktogramlar geldi. Piktogram, bir objeyi, eşyayı, bir kavramı ya da bir olguyu temsil eden çok basit sembollerdir. Bir cümle oluşturmak için inşa edilmişlerdi.
+    > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK<br />TARİHİNDE TOPLUMSAL<br />YARATICILIK başlığını inceleyiniz.<br />Konuşulan dilin yazılı formdan on binlerce yıl önce evrimleştiğine inanılmaktadır. Yazı alfabeden<br />önce gelmiştir. İlk önce piktografik sembollerle oluşturulan karakterler daha sonraları harflere,<br />ardından alfabeye dönüştürülmüştür. Dolayısıyla yazı sistemleri gelişmeden önce piktogramlar geldi. Piktogram, bir objeyi, eşyayı, bir kavramı ya da bir olguyu temsil eden çok basit sembollerdir. Bir cümle oluşturmak için inşa edilmişlerdi.
 
     <hr />
 1. I- Aydınlanma Çağı olarak bilinir.<br />II- İlk Sanayi Devrimi’nin başlangıcıdır.<br />III- Modern üretimin başladığı bir dönemdir.<br />IV- Hayvan gücünün yerini buharlı motorlar almıştır.<br />Yukarıda özellikleri verilen yüzyıl aşağıdakilerden hangisidir?
@@ -641,14 +519,7 @@
     - D-) 19\. yüzyıl
     - E-) 20\. yüzyıl
 
-    > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK
-    > TARİHİNDE TOPLUMSAL
-    > YARATICILIK başlığını inceleyiniz.
-    > I- Aydınlanma Çağı olarak bilinir.
-    > II- İlk Sanayi Devrimi’nin başlangıcıdır.
-    > III- Modern üretimin başladığı bir dönemdir.
-    > IV- Hayvan gücünün yerini buharlı motorlar almıştır.
-    > Bu özellikler 18. yüzyıla aittir.
+    > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK<br />TARİHİNDE TOPLUMSAL<br />YARATICILIK başlığını inceleyiniz.<br />I- Aydınlanma Çağı olarak bilinir.<br />II- İlk Sanayi Devrimi’nin başlangıcıdır.<br />III- Modern üretimin başladığı bir dönemdir.<br />IV- Hayvan gücünün yerini buharlı motorlar almıştır.<br />Bu özellikler 18. yüzyıla aittir.
 
     <hr />
 1. I- İlişkilendirme<br />II- Şüphecilik<br />III- Sorgulama<br />IV- Gözlemleme<br />V- Deney yapma<br />VI- Kuramsallaştırma<br />Clayton M. Christensen ve arkadaşlarının araştırmaları sonucunda ortaya çıkardıkları, yenilikçi fikirler üretme yeteneğini geliştirmek için beynin keşif sürecini optimize eden temel davranışlar yukarıdakilerden hangileridir?
@@ -658,20 +529,7 @@
     - **Cevap D-) I- III- IV- V**
     - E-) II- III- VI
 
-    > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK
-    > TARİHİNDE TOPLUMSAL
-    > YARATICILIK başlığını inceleyniz.
-    > Clayton M. Christensen ve arkadaşları tarafından yapılan araştırmalar, Yenilikçilerin DNA’sını
-    > ortaya çıkardı: Yenilikçi fikirler üretme yeteneğimiz yalnızca zihnin bir işlevi değil, aynı zamanda beynimizi keşif için optimize eden beş temel davranışın bir işlevidir.
-    > Bunlar (https://www.creativityatwork.com/what-is-creativity/):
-    > * **İlişkilendirme:** İlgisiz alanlardan sorular sorma, problemler veya fikirler arasında bağlantı kurmadır.
-    > * **Sorgulama:** Ortak bilgeliğe meydan okuyan sorgular oluşturmadır.
-    > * **Gözlemleme:** Yeni şeyler yapmanın yollarını belirlemek için müşterilerin, tedarikçilerin
-    > ve rakiplerin davranışlarını incelemektir.
-    > * **İletişim kurma:** Farklı fikir ve bakış açılarına sahip insanlarla tanışmaktır.
-    > * **Deney yapma:** Etkileşimli deneyimler oluşturma ve hangi içgörülerin ortaya çıktığını
-    > görmek için alışılmışın dışında tepkiler uyandırmadır.
-    > Şüphecilik ve Kuramsallaştırma bu davranışlar içinde ifade edilmemiştir.
+    > **Açıklama:** UYGARLIK ÖNCESİ VE UYGARLIK<br />TARİHİNDE TOPLUMSAL<br />YARATICILIK başlığını inceleyniz.<br />Clayton M. Christensen ve arkadaşları tarafından yapılan araştırmalar, Yenilikçilerin DNA’sını<br />ortaya çıkardı: Yenilikçi fikirler üretme yeteneğimiz yalnızca zihnin bir işlevi değil, aynı zamanda beynimizi keşif için optimize eden beş temel davranışın bir işlevidir.<br />Bunlar (https://www.creativityatwork.com/what-is-creativity/):<br />* **İlişkilendirme:** İlgisiz alanlardan sorular sorma, problemler veya fikirler arasında bağlantı kurmadır.<br />* **Sorgulama:** Ortak bilgeliğe meydan okuyan sorgular oluşturmadır.<br />* **Gözlemleme:** Yeni şeyler yapmanın yollarını belirlemek için müşterilerin, tedarikçilerin<br />ve rakiplerin davranışlarını incelemektir.<br />* **İletişim kurma:** Farklı fikir ve bakış açılarına sahip insanlarla tanışmaktır.<br />* **Deney yapma:** Etkileşimli deneyimler oluşturma ve hangi içgörülerin ortaya çıktığını<br />görmek için alışılmışın dışında tepkiler uyandırmadır.<br />Şüphecilik ve Kuramsallaştırma bu davranışlar içinde ifade edilmemiştir.
 
     <hr />
 1. * Problem çözme, analitik düşünme becerilerini geliştirir.<br />* Grupla çalışmaya bağlı olarak sosyal etkileşim ve iletişim becerilerini geliştirir.<br />* Yaratıcı, özgün düşünmeyi destekler.<br />* Bilişsel, duyuşsal, muhakeme ve estetik eleştirel düşünme becerileri gelişir.<br />Yukarıda verilen özellikler hangi yaratıcı eğitim anlayışına aittir?
@@ -681,13 +539,7 @@
     - D-) İnovasyon
     - E-) Çoklu Zeka Kuramı
 
-    > **Açıklama:** YARATICILIK VE EĞİTİM İLİŞKİSİ başlığını inceleyiniz.
-    > STEAM Eğitiminin öğrencilere hangi kazanımları sağlayabileceği aşağıdaki şekliyle açıklanabilir:
-    > • Problem çözme, analitik düşünme becerilerini geliştirir.
-    > • Grupla çalışmaya bağlı olarak sosyal etkileşim ve iletişim becerilerini geliştirir.
-    > • Yaratıcı, özgün düşünmeyi destekler.
-    > • Bilişsel, duyuşsal, muhakeme ve estetik
-    > eleştirel düşünme becerileri gelişir.
+    > **Açıklama:** YARATICILIK VE EĞİTİM İLİŞKİSİ başlığını inceleyiniz.<br />STEAM Eğitiminin öğrencilere hangi kazanımları sağlayabileceği aşağıdaki şekliyle açıklanabilir:<br />• Problem çözme, analitik düşünme becerilerini geliştirir.<br />• Grupla çalışmaya bağlı olarak sosyal etkileşim ve iletişim becerilerini geliştirir.<br />• Yaratıcı, özgün düşünmeyi destekler.<br />• Bilişsel, duyuşsal, muhakeme ve estetik<br />eleştirel düşünme becerileri gelişir.
 
     <hr />
 1. I- Görmek, algılamak, duyumsamak, hissetmek, dokunmak, hayal kurmak, denemek, tasarlamak, eleştirel düşünme becerisi, merak, sezgi, kuşku ve muhakeme sanatsal yaratımın ön koşullarındandır.<br />II- Sanatsal yaratım soyutlamacı düşüncenin/ zekânın bir gereğidir.<br />III- “Yaratıcılık” kavramı ile “sanatsallık” kavramı birbirinin yerine kullanılabilir.<br />IV- Sanat eğitimi, genel eğitim içinde yenilik ve gelişimi destekleyen önemli bir alandır.<br />Yaratıcılık ve sanat eğitimine ilişkin yukarıdaki ifadelerden hangileri doğrudur?
@@ -697,13 +549,7 @@
     - **Cevap D-) I- II- IV**
     - E-) I-II- III
 
-    > **Açıklama:** YARATICILIK VE EĞİTİM İLİŞKİSİ başlığını inceleyiniz.
-    > I- Görmek, algılamak, duyumsamak, hissetmek, dokunmak, hayal kurmak, denemek, tasarlamak,
-    > eleştirel düşünme becerisi, merak, sezgi, kuşku ve muhakeme sanatsal yaratımın ön koşullarındandır.
-    > II- Sanatsal yaratım soyutlamacı düşüncenin/ zekânın bir gereğidir.
-    > IV- Sanat eğitimi, genel eğitim içinde yenilik ve gelişimi destekleyen önemli bir alandır.
-    > I- II ve IV. maddeler yaratıcılık ve sanat eğitimi arasındaki ilişkiyi tanımlayan maddelerdir.
-    > Ancak III. madde yanlıştır. Çünkü “yaratıcılık” kavramı ile “sanatsallık” kavramı çoğu zaman birbirinin yerine kullanılsa da anlamları aynı değildir. Yaratıcılık, güzel, etkileyici bir şiir yazmanın, güzel bir şarkı bestelemenin ya da güzel bir resim yapmanın, tasarım gerçekleştirmenin ötesinde olan bir şeydir. Yeni fikirler yaratma, fikirler arasında çatışmaları, bağlantıları, problemleri bulma ve sorunları çözme yeteneğimizdir. Daha basit bir şekilde ifade etmek gerekirse yaratıcılık, ister çığır açan yeni bir teori üzerinde çalışıyor olalım, isterse sadece çalışma masamızı yeniden organize ediyor olalım, günlük hayatımızdaki problemleri alışılmışın dışında, özgün ve etkileyici bir şekilde çözme biçimidir. Bu durumda “yaratıcılık” kavramını doğrudan, sadece sanat alanlarıyla ilişkilendirmenin ötesinde analitik düşünceye sahip mühendisler, bilişim uzmanları, büyük şirketlerin CEO’ları ve avukatlar gibi insanlar da yaratıcı olabilirler.
+    > **Açıklama:** YARATICILIK VE EĞİTİM İLİŞKİSİ başlığını inceleyiniz.<br />I- Görmek, algılamak, duyumsamak, hissetmek, dokunmak, hayal kurmak, denemek, tasarlamak,<br />eleştirel düşünme becerisi, merak, sezgi, kuşku ve muhakeme sanatsal yaratımın ön koşullarındandır.<br />II- Sanatsal yaratım soyutlamacı düşüncenin/ zekânın bir gereğidir.<br />IV- Sanat eğitimi, genel eğitim içinde yenilik ve gelişimi destekleyen önemli bir alandır.<br />I- II ve IV. maddeler yaratıcılık ve sanat eğitimi arasındaki ilişkiyi tanımlayan maddelerdir.<br />Ancak III. madde yanlıştır. Çünkü “yaratıcılık” kavramı ile “sanatsallık” kavramı çoğu zaman birbirinin yerine kullanılsa da anlamları aynı değildir. Yaratıcılık, güzel, etkileyici bir şiir yazmanın, güzel bir şarkı bestelemenin ya da güzel bir resim yapmanın, tasarım gerçekleştirmenin ötesinde olan bir şeydir. Yeni fikirler yaratma, fikirler arasında çatışmaları, bağlantıları, problemleri bulma ve sorunları çözme yeteneğimizdir. Daha basit bir şekilde ifade etmek gerekirse yaratıcılık, ister çığır açan yeni bir teori üzerinde çalışıyor olalım, isterse sadece çalışma masamızı yeniden organize ediyor olalım, günlük hayatımızdaki problemleri alışılmışın dışında, özgün ve etkileyici bir şekilde çözme biçimidir. Bu durumda “yaratıcılık” kavramını doğrudan, sadece sanat alanlarıyla ilişkilendirmenin ötesinde analitik düşünceye sahip mühendisler, bilişim uzmanları, büyük şirketlerin CEO’ları ve avukatlar gibi insanlar da yaratıcı olabilirler.
 
     <hr />
 1. Aşağıdaki ülkelerden hangisinde "Yaratıcı düşünme temel öğrenme alanlarından biri olarak kabul edilir."?
@@ -713,12 +559,7 @@
     - D-) Japonya
     - **Cevap E-) Kanada**
 
-    > **Açıklama:** YARATICILIK VE EĞİTİM İLİŞKİSİ başlığındaki Tablo 2.7 yi inceleyiniz.
-    > Kitapta Tablo 2.7 de "Dünyada Yaratıcı Eğitim Politikaları" ülkelere göre belirtilmiştir. Ve KANADA' nın eğitim politikasında, "Yaratıcı düşünme temel öğrenme alanlarından biri olarak kabul edilir."
-    > KORE, Ulusal Müfredat, eğitimli bir insanı “sağlıklı, bağımsız, yaratıcı ve ahlaklı” olarak tanımlar.
-    > JAPONYA, Japon Eğitim Reformu Ulusal Konseyi (NCER), yaratıcılığın gelişimini 21. yüzyıl için
-    > eğitimin en önemli hedefi olarak belirlemiştir.
-    > Tabloda Finlandiya ve Norveç' e yer verilmemiştir.
+    > **Açıklama:** YARATICILIK VE EĞİTİM İLİŞKİSİ başlığındaki Tablo 2.7 yi inceleyiniz.<br />Kitapta Tablo 2.7 de "Dünyada Yaratıcı Eğitim Politikaları" ülkelere göre belirtilmiştir. Ve KANADA' nın eğitim politikasında, "Yaratıcı düşünme temel öğrenme alanlarından biri olarak kabul edilir."<br />KORE, Ulusal Müfredat, eğitimli bir insanı “sağlıklı, bağımsız, yaratıcı ve ahlaklı” olarak tanımlar.<br />JAPONYA, Japon Eğitim Reformu Ulusal Konseyi (NCER), yaratıcılığın gelişimini 21. yüzyıl için<br />eğitimin en önemli hedefi olarak belirlemiştir.<br />Tabloda Finlandiya ve Norveç' e yer verilmemiştir.
 
     <hr />
 1. * Yeni medya ve diğer iletişim araçlarını kullanan,<br />* Standartlaşmış davranışların yerleşmesini teşvik eden,<br />* Hedef tüketicisini bilinçli olarak belirleyen,<br />* Bireylerin üzerinde edilgenleştirici etkiye sahip olan,<br />Kültürel hareket aşağıdakilerden hangisidir?
@@ -728,9 +569,7 @@
     - **Cevap D-) kültür endüstrisi**
     - E-) liberal kültür
 
-    > **Açıklama:** TOPLUMSAL GELİŞİMDE YARATICILIK VE YENİLİKÇİ ETKİLER başlığını inceleyiniz.
-    > Kültür endüstrisi deyimi klasik “endüstri” tanımından daha farklı bir kavramdır. Yeni medya ve diğer iletişim araçlarının kullanımı ve popüler kültürün standartlaştırılmasıyla hedef tüketicisini bilinçli olarak belirleyen ve bireyler üzerinde edilgenleştirici etkiye sahip olan bir kültür hareketi
-    > şeklinde tanımlanabilir.
+    > **Açıklama:** TOPLUMSAL GELİŞİMDE YARATICILIK VE YENİLİKÇİ ETKİLER başlığını inceleyiniz.<br />Kültür endüstrisi deyimi klasik “endüstri” tanımından daha farklı bir kavramdır. Yeni medya ve diğer iletişim araçlarının kullanımı ve popüler kültürün standartlaştırılmasıyla hedef tüketicisini bilinçli olarak belirleyen ve bireyler üzerinde edilgenleştirici etkiye sahip olan bir kültür hareketi<br />şeklinde tanımlanabilir.
 
     <hr />
 1. Aşağıdakilerden hangisi yaratıcılığın özelliklerinden biri değildir?
@@ -740,17 +579,7 @@
     - D-) Yaratıcılık, yaratıcı deneyimler ile ilişkilidir.
     - E-) Doğrudan risk faktörü yoktur.
 
-    > **Açıklama:** TOPLUMSAL GELİŞİMDE YARATICILIK VE YENİLİKÇİ ETKİLERİ başlığını ve Tablo 2.8 i inceleyiniz.
-    > Yaratıcılığa özgü özellikler Tablo 2.8 de aşağıdaki şekilde belirtilmiştir.
-    > * Yaratıcılık bir süreçtir.
-    > * Yaratıcılık pratikleri ölçülemez.
-    > * Yaratıcılık bireysel ve bilişsel sürecin daha etkin olduğu bir alandır.
-    > * Yaratıcılık, özgün bir şeyi düşünme, hayal etme ve tasarlama eylemidir.
-    > * Yaratıcılık, hedefi bulmanıza yardımcı olur.
-    > * Yaratıcılık, yaratıcı deneyimler ile ilişkilidir.
-    > * Doğrudan risk faktörü yoktur.
-    > * Yaratıcılık yeni özgün bir şey tasarlama eylemidir.
-    > Bu nedenle inovasyona ait olan "bir şeyi uygulamaya koyma eylemi" (B seçeneği) ifadesi yaratıcılığın bir özelliği değildir.
+    > **Açıklama:** TOPLUMSAL GELİŞİMDE YARATICILIK VE YENİLİKÇİ ETKİLERİ başlığını ve Tablo 2.8 i inceleyiniz.<br />Yaratıcılığa özgü özellikler Tablo 2.8 de aşağıdaki şekilde belirtilmiştir.<br />* Yaratıcılık bir süreçtir.<br />* Yaratıcılık pratikleri ölçülemez.<br />* Yaratıcılık bireysel ve bilişsel sürecin daha etkin olduğu bir alandır.<br />* Yaratıcılık, özgün bir şeyi düşünme, hayal etme ve tasarlama eylemidir.<br />* Yaratıcılık, hedefi bulmanıza yardımcı olur.<br />* Yaratıcılık, yaratıcı deneyimler ile ilişkilidir.<br />* Doğrudan risk faktörü yoktur.<br />* Yaratıcılık yeni özgün bir şey tasarlama eylemidir.<br />Bu nedenle inovasyona ait olan "bir şeyi uygulamaya koyma eylemi" (B seçeneği) ifadesi yaratıcılığın bir özelliği değildir.
 
     <hr />
 1. Aşağıdakilerden hangisi Gardner'ın Çoklu Zeka Kuramı'ndaki zeka türlerinden biri değildir?
@@ -760,8 +589,7 @@
     - D-) Görsel
     - E-) Doğacı
 
-    > **Açıklama:** TOPLUMSAL GELİŞİMDE YARATICILIK VE YENİLİKÇİ ETKİLER başlığını inceleyiniz.
-    > Gardner, insanın farklı zekâ türlerine sahip olduğunu ileri sürmüş ve çoklu öğrenme ortamlarında bireylerin problem çözme becerisinin ve üretkenliğinin daha fazla olabileceğini belirtmiştir. Gardner, insanlarda sekiz zekâ türünün olduğunu savunur. Gardner bunları; **Sözel, Mantıksal, Görsel, Devinimsel, Müziksel, Sosyal, Bireysel ve Doğacı** olmak üzere sınıflandırmıştır (Armstrong, 1994).
+    > **Açıklama:** TOPLUMSAL GELİŞİMDE YARATICILIK VE YENİLİKÇİ ETKİLER başlığını inceleyiniz.<br />Gardner, insanın farklı zekâ türlerine sahip olduğunu ileri sürmüş ve çoklu öğrenme ortamlarında bireylerin problem çözme becerisinin ve üretkenliğinin daha fazla olabileceğini belirtmiştir. Gardner, insanlarda sekiz zekâ türünün olduğunu savunur. Gardner bunları; **Sözel, Mantıksal, Görsel, Devinimsel, Müziksel, Sosyal, Bireysel ve Doğacı** olmak üzere sınıflandırmıştır (Armstrong, 1994).
 
     <hr />
 1. Yeni fikirler ve bunların uygulanması, başarılı inovasyonun can damarı, bir değer yaratmanın<br />kaynağıdır. Aşağıdakilerden hangisi değer yaratmanın temel bileşenlerinden biri değildir?
@@ -771,14 +599,7 @@
     - D-) Empati
     - E-) Yenilik
 
-    > **Açıklama:** TOPLUMSAL GELİŞİMDE YARATICILIK VE YENİLİKÇİ ETKİLER başlığını inceleyiniz.
-    > Yeni fikirler ve bunların uygulanması, başarılı inovasyonun can damarı, bir değer yaratmanın
-    > kaynağıdır. Dolayısıyla bir işte değer yaratmanın temel bileşenleri şu şekilde ifade edilebilir:
-    > * Hayal Gücü
-    > * Yaratıcılık
-    > * Empati
-    > * Yenilik
-    > Deneyim, değer yaratmanın temel bileşenlerinden biri değildir.
+    > **Açıklama:** TOPLUMSAL GELİŞİMDE YARATICILIK VE YENİLİKÇİ ETKİLER başlığını inceleyiniz.<br />Yeni fikirler ve bunların uygulanması, başarılı inovasyonun can damarı, bir değer yaratmanın<br />kaynağıdır. Dolayısıyla bir işte değer yaratmanın temel bileşenleri şu şekilde ifade edilebilir:<br />* Hayal Gücü<br />* Yaratıcılık<br />* Empati<br />* Yenilik<br />Deneyim, değer yaratmanın temel bileşenlerinden biri değildir.
 
     <hr />
 1. Aşağıdakilerden hangisi İlkel sanatın daha çok görüldüğü kıtalardan biridir?
@@ -788,8 +609,7 @@
     - **Cevap D-) Güney Afrika**
     - E-) Güney Amerika
 
-    > **Açıklama:** İlkel sanat, daha çok Avrupa’da (Altamira ve Lascaux Mağaralarında) Güney Afrika,
-    > Sahra ve Çad bölgelerinde görülmüştür.
+    > **Açıklama:** İlkel sanat, daha çok Avrupa’da (Altamira ve Lascaux Mağaralarında) Güney Afrika,<br />Sahra ve Çad bölgelerinde görülmüştür.
 
     <hr />
 1. Bir objeyi, eşyayı, bir kavramı ya da bir olguyu temsil eden çok basit sembollere ne ad verilir?
@@ -829,8 +649,7 @@
     - D-) İletişim kurma
     - E-) Arayış içerisinde olma
 
-    > **Açıklama:** Gözlemleme: Yeni şeyler yapmanın yollarını belirlemek için müşterilerin, tedarikçilerin
-    > ve rakiplerin davranışlarını incelemektir.
+    > **Açıklama:** Gözlemleme: Yeni şeyler yapmanın yollarını belirlemek için müşterilerin, tedarikçilerin<br />ve rakiplerin davranışlarını incelemektir.
 
     <hr />
 1. TDK Sözlüğüne göre “aynı şekilde olumlu ya da olumsuz, bilinçli veya bilinçsiz biçimde<br />ortaya çıkan durum için inisiyatif almak” anlamı taşıyan kelime aşağıdakilerden hangisidir?
@@ -850,14 +669,7 @@
     - D-) Risk analizi yapmazlar
     - E-) Genelde depresif, negatif ve şikayet eden tavır sergilerler
 
-    > **Açıklama:** Proaktif Özellikler:
-    > • Olay, aksiyon öncesi bilgi toplarlar
-    > • İnisiyatif almaktan çekinmezler
-    > • Planlıdırlar
-    > • Karar vermekte tereddüt etmezler
-    > • Analiz ederler, düşünürler
-    > • Olayların öncesinde harekete geçerler
-    > • Çevrelerine örnek olurlar
+    > **Açıklama:** Proaktif Özellikler:<br />• Olay, aksiyon öncesi bilgi toplarlar<br />• İnisiyatif almaktan çekinmezler<br />• Planlıdırlar<br />• Karar vermekte tereddüt etmezler<br />• Analiz ederler, düşünürler<br />• Olayların öncesinde harekete geçerler<br />• Çevrelerine örnek olurlar
 
     <hr />
 1. Aşağıdakilerden hangisi proaktif olmayan özelliklerden biridir?
@@ -867,14 +679,7 @@
     - D-) İnisiyatif almaktan çekinmezler
     - E-) Karar vermekte tereddüt etmezler
 
-    > **Açıklama:** Proaktif Olmayan/Reaktif Özellikler:
-    > • Olaylardan, fiziki şartlardan etkilenirler
-    > • Ciddi bir planları yoktur
-    > • İnisiyatif alma ve karar vermede çekimser davranırlar
-    > • Risk analizi yapmazlar
-    > • Olumsuz anlarda kontrollerini kaybederler
-    > • Genelde depresif, negatif ve şikayet eden tavır
-    > • Ancak ciddi sonuçlar ortaya çıktığında harekete geçerler
+    > **Açıklama:** Proaktif Olmayan/Reaktif Özellikler:<br />• Olaylardan, fiziki şartlardan etkilenirler<br />• Ciddi bir planları yoktur<br />• İnisiyatif alma ve karar vermede çekimser davranırlar<br />• Risk analizi yapmazlar<br />• Olumsuz anlarda kontrollerini kaybederler<br />• Genelde depresif, negatif ve şikayet eden tavır<br />• Ancak ciddi sonuçlar ortaya çıktığında harekete geçerler
 
     <hr />
 1. Aşağıdakilerden hangisi yaratıcı bir öğretmende bulunması gereken özelliklerden biri değildir?
@@ -894,12 +699,7 @@
     - D-) Problem Çözme
     - E-) Organize Olma
 
-    > **Açıklama:** Yenilikçi düşünmeyi merkeze alan temel beceriler aşağıda beş aşamada verilmiştir. Bunlar:
-    > 1\. Analitik Düşünme
-    > 2\. Açık Fikirli Olma
-    > 3\.Problem Çözme
-    > 4\. Organize Olma
-    > 5\. İletişim Kurma
+    > **Açıklama:** Yenilikçi düşünmeyi merkeze alan temel beceriler aşağıda beş aşamada verilmiştir. Bunlar:<br />1\. Analitik Düşünme<br />2\. Açık Fikirli Olma<br />3\.Problem Çözme<br />4\. Organize Olma<br />5\. İletişim Kurma
 
     <hr />
 ## Unite 3
@@ -920,9 +720,7 @@
     - D-) Yansıtma Kuramı
     - E-) İşlevsellik Kuramı
 
-    > **Açıklama:** Biçimi oluşturan renk, leke, çizgi, doku gibi elemanların düzenleri söz konusudur. Bu sanatsal
-    > elemanların birbirleriyle ilişkileri, konumlandırılmaları ve daha çok soyut düzendeki görünüşleri önem taşır. Kuram, soyut eser üreten sanatçıların eserlerinde izlenir. Bu anlamda “Sanat, Sanat İçindir” ilkesi bu kuram bağlamında değerlendirilebilir.
-    > Biçimci Kuram
+    > **Açıklama:** Biçimi oluşturan renk, leke, çizgi, doku gibi elemanların düzenleri söz konusudur. Bu sanatsal<br />elemanların birbirleriyle ilişkileri, konumlandırılmaları ve daha çok soyut düzendeki görünüşleri önem taşır. Kuram, soyut eser üreten sanatçıların eserlerinde izlenir. Bu anlamda “Sanat, Sanat İçindir” ilkesi bu kuram bağlamında değerlendirilebilir.<br />Biçimci Kuram
 
     <hr />
 1. Eğitim sisteminin; bağımsız düşünen, özgün, yaratıcı olmaktan çok eğitimini tamamlamış bireyler yetiştirdiğini dile getiren kişi aşağıdakilerden hangisidir?
@@ -942,8 +740,7 @@
     - D-) 1960'lı ve 1970'liyıllarda yaratıcılık konusunda görsel imajların etkisi görüşü hakimdir.
     - **Cevap E-) 1980'de sonrası yaratıcılıkta Geniş Uygulama Dönemi olarak tanımlanır.**
 
-    > **Açıklama:** Bu seçenek yanlıştır. Çünkü Geniş Uygulama Dönemi 1960'lı ve 1970'li yılları ifade eder.
-    > 1980'de sonrası yaratıcılıkta Geniş Uygulama Dönemi olarak tanımlanır.
+    > **Açıklama:** Bu seçenek yanlıştır. Çünkü Geniş Uygulama Dönemi 1960'lı ve 1970'li yılları ifade eder.<br />1980'de sonrası yaratıcılıkta Geniş Uygulama Dönemi olarak tanımlanır.
 
     <hr />
 1. Düşünmenin iki biçimi analitik düşünme ve yaratıcı düşünmedir. Analitik düşünmede mantık ön plandayken yaratıcı düşünmede aşağıdakilerden hangisi öne çıkar?
@@ -973,8 +770,7 @@
     - **Cevap D-) İhtiyaca göre yaratıcılık**
     - E-) Acil durumlarda yaratıcılık
 
-    > **Açıklama:** Taylor’ın sınıflandırması ise şöyledir: Anlamlı yaratıcılık, Verimli yaratıcılık, Yeniliğe yönelik yaratıcılık, Acildurumlarda yaratıcılıktır. Dolayısıyla ihtiyaca göre yaratıcılık bu sınıflandırmada yer almaz.
-    > İhtiyaca göre yaratıcılık
+    > **Açıklama:** Taylor’ın sınıflandırması ise şöyledir: Anlamlı yaratıcılık, Verimli yaratıcılık, Yeniliğe yönelik yaratıcılık, Acildurumlarda yaratıcılıktır. Dolayısıyla ihtiyaca göre yaratıcılık bu sınıflandırmada yer almaz.<br />İhtiyaca göre yaratıcılık
 
     <hr />
 1. "Sanatçıların eserlerini oluştururken hayallerinin, istek ve arzularının, baskılanmış duygu ve düşüncelerinin bir yansıması olduğunu ve sanat eserlerinin de onları meydana getiren sanatçıların psikolojik durumlarını yansıttığı görüşü" yaratıcı düşünce kuramlarından/yaklaşımlarından hangisine aittir?
@@ -984,8 +780,7 @@
     - **Cevap D-) Psikanalitik Yaklaşım**
     - E-) Yapısalcı Kuram
 
-    > **Açıklama:** Sanatçıların eserlerini oluştururken hayallerinin, istek ve arzularının, baskılanmış duygu ve düşüncelerinin bir yansıması olduğu ve sanat eserlerinin de onları meydana getiren sanatçıların psikolojik durumlarını yansıttığı görüşü öne sürülmüştür.
-    > Psikanalitik Yaklaşım
+    > **Açıklama:** Sanatçıların eserlerini oluştururken hayallerinin, istek ve arzularının, baskılanmış duygu ve düşüncelerinin bir yansıması olduğu ve sanat eserlerinin de onları meydana getiren sanatçıların psikolojik durumlarını yansıttığı görüşü öne sürülmüştür.<br />Psikanalitik Yaklaşım
 
     <hr />
 1. Gestalt kuramının yaratıcı düşünceye bakışı hangi iki kavramın birleşimidir?
@@ -995,9 +790,7 @@
     - D-) İyi düşünce ve kötü düşünce
     - **Cevap E-) Üretken düşünce ve sorun çözme**
 
-    > **Açıklama:** Gestalt kuramının yaratıcı düşünceye bakışı “üretken düşünce” ve “sorun çözme” kavramlarının
-    > bir birleşimidir.
-    > Üretken düşünce ve sorun çözme
+    > **Açıklama:** Gestalt kuramının yaratıcı düşünceye bakışı “üretken düşünce” ve “sorun çözme” kavramlarının<br />bir birleşimidir.<br />Üretken düşünce ve sorun çözme
 
     <hr />
 1. Çağrışımcı yaklaşımın önemli isimlerinden biri Mednick'e göre yaratıcı çözüm için hangi faktörler önemlidir?<br />I) Olumlu Rastlantı<br />II) Benzerlik<br />III) Algı<br />IV) Aracılık
@@ -1007,8 +800,7 @@
     - **Cevap D-) I, II ve IV**
     - E-) I, II, III ve IV
 
-    > **Açıklama:** Mednick'e göre yaratıcı çözüm için üç faktörönemlidir. Bunlar; olumlu rastlantı, benzerlik ve aracılıktır.
-    > I, II ve IV
+    > **Açıklama:** Mednick'e göre yaratıcı çözüm için üç faktörönemlidir. Bunlar; olumlu rastlantı, benzerlik ve aracılıktır.<br />I, II ve IV
 
     <hr />
 1. Aşağıdakilerden hangi terim "İnsan ve doğa arasındaki estetik ilişki olarak tanımlamaktadır"
@@ -1078,8 +870,7 @@
     - D-) Pollock
     - E-) Kandinsky
 
-    > **Açıklama:** İşlevsellik Kuramı
-    > “To be or not to be” adındaki bu politik afiş 1975 yılında Mieczysław Wasilewski tarafından yapılmıştır.
+    > **Açıklama:** İşlevsellik Kuramı<br />“To be or not to be” adındaki bu politik afiş 1975 yılında Mieczysław Wasilewski tarafından yapılmıştır.
 
     <hr />
 1. Öğretim yöntemlerini ele alan öğretim bilgisine ne denir?
@@ -1189,8 +980,7 @@
     - D-) Kalıtım
     - **Cevap E-) Irk**
 
-    > **Açıklama:** Yaratıcılığın kişilerde farklı oranlarda bulunma nedenleri sosyal ve kültürel
-    > geçmiş, kalıtım ve eğitimdir. Yaratıcı düşünmedeki büyüklük buna göre değişim göstermektedir. Irk bu değişimin nedenlerinden biri değildir. Doğru cevap E seçeneğinde verilmiştir.
+    > **Açıklama:** Yaratıcılığın kişilerde farklı oranlarda bulunma nedenleri sosyal ve kültürel<br />geçmiş, kalıtım ve eğitimdir. Yaratıcı düşünmedeki büyüklük buna göre değişim göstermektedir. Irk bu değişimin nedenlerinden biri değildir. Doğru cevap E seçeneğinde verilmiştir.
 
     <hr />
 1. 1\. Fikrin Doğuşu<br />2\. Hazırlık<br />3\. Uygulama<br />4\. Kuluçka<br />Yukarıda verilen dört aşamalı yaratıcılık modelinin aşamalarının doğru sıralaması hangi seçenekte verilmiştir?
@@ -1200,11 +990,7 @@
     - D-) II, I, III, IV
     - **Cevap E-) II, IV, I, III**
 
-    > **Açıklama:** Doğru sıralama E seçeneğinde verilen II, IV, I, III'dür. Dört aşamalı yaratıcılık modelinin aşamalarının doğru sıralaması aşağıda verilmiştir.
-    > II. Hazırlık
-    > IV. Kuluçka
-    > I. Fikrin Doğuşu
-    > III. Uygulama
+    > **Açıklama:** Doğru sıralama E seçeneğinde verilen II, IV, I, III'dür. Dört aşamalı yaratıcılık modelinin aşamalarının doğru sıralaması aşağıda verilmiştir.<br />II. Hazırlık<br />IV. Kuluçka<br />I. Fikrin Doğuşu<br />III. Uygulama
 
     <hr />
 1. Carl Rogers ve Abraham Maslow hangi yaklaşımın kurucularıdır?
@@ -1264,14 +1050,7 @@
     - **Cevap D-) Yaratıcı düşünme için malzeme ve zaman sınırlı olmalıdır**
     - E-) Yaratıcılık; algı, duygu ve kültürle beraberdir
 
-    > **Açıklama:** Yaratıcılığın süreç ve ürün olarak tanımlanması gerekirse;
-    > 1\. Oluşan ürün özgün olmalıdır: (Örneğin araba tekerleği), özgün ürünlerden yeni bir ürün de meydana gelebilir. (Örneğin araba).
-    > 2\. Olgular arasında ilişki kurma yeteneği önemlidir.
-    > 3\. Bireyin, özgün bütünler oluşturabilmesi için ilgilendiği sanat ya da bilim dalıyla ilgili olan sembolleri bilmesi gerekir ki onlarla nasıl bir oluşum yapabileceğine karar versin.
-    > 4\. Birey, duygu ve düşünce olarak bir bütünlük içinde olup özenle işini yapmak için yoğunlaşmalıdır.
-    > 5\. Birey düşünürken hayal gücünü kullanmalıdır.
-    > 6\. Yaratıcı düşünme her zaman oluşabilir bu yüzden malzeme ve zaman sınırlı olmamalıdır.
-    > 7\. Yaratıcılık; algı, duygu ve kültürle beraberdir (Üstündağ, 2002).
+    > **Açıklama:** Yaratıcılığın süreç ve ürün olarak tanımlanması gerekirse;<br />1\. Oluşan ürün özgün olmalıdır: (Örneğin araba tekerleği), özgün ürünlerden yeni bir ürün de meydana gelebilir. (Örneğin araba).<br />2\. Olgular arasında ilişki kurma yeteneği önemlidir.<br />3\. Bireyin, özgün bütünler oluşturabilmesi için ilgilendiği sanat ya da bilim dalıyla ilgili olan sembolleri bilmesi gerekir ki onlarla nasıl bir oluşum yapabileceğine karar versin.<br />4\. Birey, duygu ve düşünce olarak bir bütünlük içinde olup özenle işini yapmak için yoğunlaşmalıdır.<br />5\. Birey düşünürken hayal gücünü kullanmalıdır.<br />6\. Yaratıcı düşünme her zaman oluşabilir bu yüzden malzeme ve zaman sınırlı olmamalıdır.<br />7\. Yaratıcılık; algı, duygu ve kültürle beraberdir (Üstündağ, 2002).
 
     <hr />
 1. Hangi yaratıcı düşünce kuramında yaratıcı davranışa bakış açısı sorun ya da zorlukların fonksiyonu olarak belli bir durumu yeni bir bütün içinde yeniden keşfetmektir?
@@ -1332,8 +1111,7 @@
     - D-) Sadece II
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** ANLATI KAVRAMI VE ANLATI BİLEŞENLERİ
-    > Günümüzde anlatıların en yaygın olarak insanlara ulaştığı mecra televizyon­lar, internet ve sosyal medyadır. Bu medyalar aracılığı ile kültürel ve siyasal düzeyde etki göstermesi isteni­len anlatılar sürekli olarak küresel bir ölçekte sunul­maktadır.
+    > **Açıklama:** ANLATI KAVRAMI VE ANLATI BİLEŞENLERİ<br />Günümüzde anlatıların en yaygın olarak insanlara ulaştığı mecra televizyon­lar, internet ve sosyal medyadır. Bu medyalar aracılığı ile kültürel ve siyasal düzeyde etki göstermesi isteni­len anlatılar sürekli olarak küresel bir ölçekte sunul­maktadır.
 
     <hr />
 1. “Bir anlatının biçim ve içerik ilişkisini, …………ve ……… olarak kategorize edeceğimiz kavramlarla an­latabiliriz.”<br />Metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?
@@ -1343,8 +1121,7 @@
     - D-) karakter ve bakış açısı
     - E-) olay ve zaman
 
-    > **Açıklama:** ANLATI KAVRAMI VE ANLATI BİLEŞENLERİ
-    > Bir anlatının biçim ve içerik ilişkisini, öykü ve söylem olarak kategorize edeceğimiz kavramlarla an­latabiliriz.
+    > **Açıklama:** ANLATI KAVRAMI VE ANLATI BİLEŞENLERİ<br />Bir anlatının biçim ve içerik ilişkisini, öykü ve söylem olarak kategorize edeceğimiz kavramlarla an­latabiliriz.
 
     <hr />
 1. Aşağıdakilerden hangisi ya da hangileri anlatının bileşenleri arasında yer alır?<br />I-Olay<br />II-Zaman<br />III-Dinleyici<br />IV-Bakış açısı
@@ -1354,8 +1131,7 @@
     - D-) III ve IV
     - E-) Sadece III
 
-    > **Açıklama:** ANLATI KAVRAMI VE ANLATI BİLEŞENLERİ
-    > Bir anlatının biçim ve içerik ilişkisini, öykü ve söylem olarak kategorize edeceğimiz kavramlarla an­latabiliriz. Diğer anlatı bileşenleri ise olay, zaman, mekân, anlatıcı, karakter ve bakış açısı unsurlarıdır.
+    > **Açıklama:** ANLATI KAVRAMI VE ANLATI BİLEŞENLERİ<br />Bir anlatının biçim ve içerik ilişkisini, öykü ve söylem olarak kategorize edeceğimiz kavramlarla an­latabiliriz. Diğer anlatı bileşenleri ise olay, zaman, mekân, anlatıcı, karakter ve bakış açısı unsurlarıdır.
 
     <hr />
 1. Temsil edilen dünyadaki durum değişikliklerini içeren ve böylece anlatının kurucu bir yönü olan ve onu betimleme veya tartışma gibi diğer söylem biçimlerinden ayıran geçici zamanın varlığını ima eden anlatı bileşeni aşağıdakilerden hangisidir?
@@ -1375,8 +1151,7 @@
     - D-) olay
     - **Cevap E-) mekân**
 
-    > **Açıklama:** Mekan
-    > Anlatıların varoluşsal ön koşullardan birisi olup zamana göre daha esnek bir yapıda olan, duygusal mekân terimi, duygusal tepkiler üretebilen bir mekân deneyimini anlatır.
+    > **Açıklama:** Mekan<br />Anlatıların varoluşsal ön koşullardan birisi olup zamana göre daha esnek bir yapıda olan, duygusal mekân terimi, duygusal tepkiler üretebilen bir mekân deneyimini anlatır.
 
     <hr />
 1. Olayları farklı şekillerde sıralayabilen ki, böylelikle anlatılarda ileri veya geri sıçramaların yapılışı mümkün kılan anlatı bileşeni aşağıdakilerden hangisidir?
@@ -1386,8 +1161,7 @@
     - D-) mekân
     - E-) zaman
 
-    > **Açıklama:** ÖYKÜ VE SÖYLEM
-    > Olayları farklı şekillerde sıralayabilen ki, böylelikle anlatılarda ileri veya geri sıçramaların yapılışı mümkün kılan anlatı bileşeni SÖYLEM dir.
+    > **Açıklama:** ÖYKÜ VE SÖYLEM<br />Olayları farklı şekillerde sıralayabilen ki, böylelikle anlatılarda ileri veya geri sıçramaların yapılışı mümkün kılan anlatı bileşeni SÖYLEM dir.
 
     <hr />
 1. “Olay örgüsü sırasın­da mekânsal çerçeveler değişse de anlatının tamamını kapsayan nispeten istikrarlı bir sosyo-tarihsel-coğrafi kategoriyi içeren mekân……………………dır.<br />Metinde boş bırakılan yere temel anlatı mekânlarından hangisi gelmelidir?
@@ -1397,8 +1171,7 @@
     - **Cevap D-) Genel Anlatı Mekânı**
     - E-) Öykü dünyası
 
-    > **Açıklama:** MEKAN
-    > Genel Anlatı Mekânı: Olay örgüsü sırasın­da mekânsal çerçeveler değişse de anlatının tamamını kapsayan nispeten istikrarlı bir sosyo-tarihsel-coğrafi kategoridir.
+    > **Açıklama:** MEKAN<br />Genel Anlatı Mekânı: Olay örgüsü sırasın­da mekânsal çerçeveler değişse de anlatının tamamını kapsayan nispeten istikrarlı bir sosyo-tarihsel-coğrafi kategoridir.
 
     <hr />
 1. “................... ; eylemi gerçekleştiren ve bir değişi­me neden olan anlatı aracıdır”<br />Metinde boş bırakılan yere anlatı karakterlerinden hangisi gelmelidir?
@@ -1408,8 +1181,7 @@
     - **Cevap D-) Eylemci Olarak Karakter**
     - E-) Dinleyici Olarak Karakter
 
-    > **Açıklama:** ANLATI KARAKTERLERİ
-    > Eylemci Olarak Karakter: Eylemci olarak karakter, bir eylem alanıyla eşittir. Diğer ifade ile eylemi gerçekleştiren ve bir değişi­me neden olan anlatı aracıdır.
+    > **Açıklama:** ANLATI KARAKTERLERİ<br />Eylemci Olarak Karakter: Eylemci olarak karakter, bir eylem alanıyla eşittir. Diğer ifade ile eylemi gerçekleştiren ve bir değişi­me neden olan anlatı aracıdır.
 
     <hr />
 1. Bir anlatı aracı olarak karakterler sınıflandırıldığında, bireyden bağımsız sosyal konum ve kodlarla tanımlanan karakter aşağıdakilerden hangisi ya da hangileridir?<br />I. Eylemci olarak karakter<br />II. Rol olarak karakter<br />III. Anlatı aracı olarak karakter
@@ -1419,8 +1191,7 @@
     - D-) I ve III
     - E-) I ve II
 
-    > **Açıklama:** ANLATI KARAKTERLERİ
-    > Rol Olarak Karakter: Rol olarak karakter, bireyden bağımsızdır. Toplumsal anlamda eylem ve uygunluk normları, beklentiler ve değerlerle birlikte standart, kalıplaşmış ve kodlanmış bir sosyal rol olan veya konum olarak tanımlanır. Klasik örnekler aristok­ratlar, kral, yargıç, savaşçı gibidir.
+    > **Açıklama:** ANLATI KARAKTERLERİ<br />Rol Olarak Karakter: Rol olarak karakter, bireyden bağımsızdır. Toplumsal anlamda eylem ve uygunluk normları, beklentiler ve değerlerle birlikte standart, kalıplaşmış ve kodlanmış bir sosyal rol olan veya konum olarak tanımlanır. Klasik örnekler aristok­ratlar, kral, yargıç, savaşçı gibidir.
 
     <hr />
 1. Zihinsel bir öge olan öykü ile bunun nesneleştirilmesini tanımlayan söylemden oluşan sinema anlatısı; edebî anlatılardan **farklı olarak** aşağıdaki öğelerden hangisi ya da hangileriyle nesneleştirilir?<br />I-Görüntü düzenlemesi<br />II-Montaj<br />III-Olay
@@ -1440,8 +1211,7 @@
     - D-) Jameson
     - E-) Barthes
 
-    > **Açıklama:** ***Anlatı Kavramı ve Anlatı Bileşenleri*** başlıklı bölüm
-    > Abbott’a göre anlatı; “hikâye (öykü) ve anlatı söyleminden oluşan olayların temsilidir, hikâye bir olay veya olaylar dizisidir ve anlatı söylemi, temsil edilen bu olaylardır.”
+    > **Açıklama:** ***Anlatı Kavramı ve Anlatı Bileşenleri*** başlıklı bölüm<br />Abbott’a göre anlatı; “hikâye (öykü) ve anlatı söyleminden oluşan olayların temsilidir, hikâye bir olay veya olaylar dizisidir ve anlatı söylemi, temsil edilen bu olaylardır.”
 
     <hr />
 1. Düşünür Fredric Jameson anlatıyı nasıl tanımlamıştır?
@@ -1451,8 +1221,7 @@
     - D-) Anlatı, dil tarafından taşınabilen, sözlü veya yazılı, sabit veya hareketli görüntüler, jestler ve tüm bu maddelerin düzenli karışımlarıdır.
     - E-) Anlatı, insan kelimeleri bir araya getirmeye başladığı ve dil dünyasına girdiği ilk andan itibaren var olmaya başlayan şeydir.
 
-    > **Açıklama:** ***Anlatı Kavramı ve Anlatı Bileşenleri*** *başlıklı bölüm*
-    > Fredric Jameson anlatıyı, “insan zihninin merkezî işlevi ya da örneği” olarak tanımlar ve anlatıyı bir açıklama işlevi ile ilişkilendirir.
+    > **Açıklama:** ***Anlatı Kavramı ve Anlatı Bileşenleri*** *başlıklı bölüm*<br />Fredric Jameson anlatıyı, “insan zihninin merkezî işlevi ya da örneği” olarak tanımlar ve anlatıyı bir açıklama işlevi ile ilişkilendirir.
 
     <hr />
 1. Aşağıdakilerden hangileri birer anlatı türü olarak kabul edilebilir?<br />1\. Efsane, mit, masal<br />2\. Roman<br />3\. Tarih, destan<br />4\. Resim<br />5\. Fotoğraf, sinema<br />6\. Bale, dans
@@ -1462,8 +1231,7 @@
     - D-) I, II, III, IV ve V
     - E-) I, II, III ve VI
 
-    > **Açıklama:** ***Anlatı Kavramı ve Anlatı Bileşenleri*** başlıklı bölüm
-    > Efsane, mit, fabl, masal, roman, destan, tarih, trajedi, dram, komedi, resim, vitray, sinema, fotoğraf, çizgi roman, haber, sohbet vb. türlerle sunulabilir. Barthes’ın bu düşünüşü pek çok anlatı bilimcisi tarafından doğru kabul edilmektedir. Anlatıların sadece sözlü veya yazılı temsilleri olması gerektiğini düşünmek doğru değildir. Elbette sessiz bir film, bir bale, bir pandomim ya da bir çizgi roman vb. de bir hikâye anlatabilir.
+    > **Açıklama:** ***Anlatı Kavramı ve Anlatı Bileşenleri*** başlıklı bölüm<br />Efsane, mit, fabl, masal, roman, destan, tarih, trajedi, dram, komedi, resim, vitray, sinema, fotoğraf, çizgi roman, haber, sohbet vb. türlerle sunulabilir. Barthes’ın bu düşünüşü pek çok anlatı bilimcisi tarafından doğru kabul edilmektedir. Anlatıların sadece sözlü veya yazılı temsilleri olması gerektiğini düşünmek doğru değildir. Elbette sessiz bir film, bir bale, bir pandomim ya da bir çizgi roman vb. de bir hikâye anlatabilir.
 
     <hr />
 1. Anlatının egemen ideolojilerin bir aracı dolayısıyla da bir iktidar aracı olduğunu ifade eden düşünür kimdir?
@@ -1473,8 +1241,7 @@
     - D-) Jameson
     - E-) Barthes
 
-    > **Açıklama:** ***Anlatı Kavramı ve Anlatı Bileşenleri***
-    > Foucault’ya göre anlatı, egemen ideolojilerin bir aracı dolayısıyla da bir iktidar aracıdır.
+    > **Açıklama:** ***Anlatı Kavramı ve Anlatı Bileşenleri***<br />Foucault’ya göre anlatı, egemen ideolojilerin bir aracı dolayısıyla da bir iktidar aracıdır.
 
     <hr />
 1. Bir anlatı için iki ana unsur söz konusudur. Bunlardan ilki; belirli bir anlatının malzemesini oluşturan olaylar, eylemler, karakterler ve nesnelerdir. İkincisi aşağıdakilerden hangisidir?
@@ -1484,8 +1251,7 @@
     - D-) Anlatının amacı
     - E-) Anlatının hedef kitlesi
 
-    > **Açıklama:** ***Anlatı Kavramı ve Anlatı Bileşenleri*** başlıklı bölüm
-    > Bir anlatı için iki ana unsurdan söz edebiliriz. Bunlardan ilki belirli bir anlatının malzemesini oluşturan olaylar, eylemler, karakterler ve nesnelerdir. İkincisi ise anlatının bu malzemesinin bir araya getirilişi yani anlatıyı oluşturan şekildir.
+    > **Açıklama:** ***Anlatı Kavramı ve Anlatı Bileşenleri*** başlıklı bölüm<br />Bir anlatı için iki ana unsurdan söz edebiliriz. Bunlardan ilki belirli bir anlatının malzemesini oluşturan olaylar, eylemler, karakterler ve nesnelerdir. İkincisi ise anlatının bu malzemesinin bir araya getirilişi yani anlatıyı oluşturan şekildir.
 
     <hr />
 1. Yapısalcı kurama göre bir anlatının gerekli bileşenleri iki tabakalıdır. Bunlardan ilki öykü veya hikayedir. İkincisi aşağıdakilerden hangisidir?
@@ -1495,8 +1261,7 @@
     - D-) Hikayenin geçtiği zaman
     - E-) Hikayenin geçtiği mekan
 
-    > **Açıklama:** ***Anlatı Kavramı ve Anlatı Bileşenleri*** başlıklı bölüm
-    > Bir anlatının gerekli bileşenleri yapısalcı kuram tarafından iki tabakalı olarak düşünülmüştür. Bu tabakalardan ilki öykü (histoire-story hikâye) olarak tanımlanır. Öykü veya diğer şekilde ifade edilirse hikâye, içerik ya da olaylar zinciridir ve bunları meydana getiren eylemler, eylemleri gerçekleştiren varlıklar diğer ifade ile karakterler, eylemin meydana geldiği uzam ve zamandan oluşur. **Öyküler ikinci tabaka olarak kabul edilen "söylem" ile ifade edilir.**
+    > **Açıklama:** ***Anlatı Kavramı ve Anlatı Bileşenleri*** başlıklı bölüm<br />Bir anlatının gerekli bileşenleri yapısalcı kuram tarafından iki tabakalı olarak düşünülmüştür. Bu tabakalardan ilki öykü (histoire-story hikâye) olarak tanımlanır. Öykü veya diğer şekilde ifade edilirse hikâye, içerik ya da olaylar zinciridir ve bunları meydana getiren eylemler, eylemleri gerçekleştiren varlıklar diğer ifade ile karakterler, eylemin meydana geldiği uzam ve zamandan oluşur. **Öyküler ikinci tabaka olarak kabul edilen "söylem" ile ifade edilir.**
 
     <hr />
 1. Öykü akışında zamansal olarak ileri sıçramaya ne ad verilir?
@@ -1506,8 +1271,7 @@
     - D-) Anakroni
     - E-) Analepsi
 
-    > **Açıklama:** ***Anlatı Kavramı ve Anlatı Bileşenleri*** başlıklı bölüm
-    > Anakronik dizim ise öykü akışında, zamanda analepsi olarak tanımlanan geri dönüş ve **zamansal olarak ileri sıçramayı tanımlayan *prolepsi*** şeklinde gerçekleştirilir.
+    > **Açıklama:** ***Anlatı Kavramı ve Anlatı Bileşenleri*** başlıklı bölüm<br />Anakronik dizim ise öykü akışında, zamanda analepsi olarak tanımlanan geri dönüş ve **zamansal olarak ileri sıçramayı tanımlayan *prolepsi*** şeklinde gerçekleştirilir.
 
     <hr />
 1. Aşağıdakilerden hangisi diegetik anlatıcının bir özelliği değildir?
@@ -1517,8 +1281,7 @@
     - D-) Anlatıcının birinci şahıs anlatıcı olması
     - E-) Anlatıcının hem bir karakter hem de dış ses olarak olayları yorumlayan ve anlatan kişi olması
 
-    > **Açıklama:** ***Anlatı Kavramı ve Anlatı Bileşenleri*** başlıklı bölüm
-    > Bir anlatıcı, diegesis’e aitse ve buna göre kendisi hakkında veya daha spesifik olarak, önceki benliği veya geçmişi hakkında anlatılan hikâyedeki bir karakter olarak yer alıyorsa bu ‘diegetik’tir. Diegetik anlatıcı ile iki düzeyde karşılaşırız. Bunlardan ilki anlatım ve yorumdur diğeri ise öyküdür. Başka bir ifade ile **diegetik anlatıcı hem bir öykü karakteri hem de anlatan ve yorumlayan kişidir.**
+    > **Açıklama:** ***Anlatı Kavramı ve Anlatı Bileşenleri*** başlıklı bölüm<br />Bir anlatıcı, diegesis’e aitse ve buna göre kendisi hakkında veya daha spesifik olarak, önceki benliği veya geçmişi hakkında anlatılan hikâyedeki bir karakter olarak yer alıyorsa bu ‘diegetik’tir. Diegetik anlatıcı ile iki düzeyde karşılaşırız. Bunlardan ilki anlatım ve yorumdur diğeri ise öyküdür. Başka bir ifade ile **diegetik anlatıcı hem bir öykü karakteri hem de anlatan ve yorumlayan kişidir.**
 
     <hr />
 1. Aşağıdakilerden hangisi sözlü anlatı türlerinden biri olarak kabul edilemez?
@@ -1528,8 +1291,7 @@
     - D-) Masal
     - E-) Türkü
 
-    > **Açıklama:** ***Görsel İletişim Tasarımında Anlatı Ortamları ve Özellikleri*** başlıklı bölüm
-    > Anlık konuşmalar, doktor-hasta konuşması, masallar, türküler birer sözlü anlatı türünü oluşturur. Gazeteler ise yazılı/basılı ve fotoğraf gibi görsellik kullanan bir anlatı türü olarak farklılaşır.
+    > **Açıklama:** ***Görsel İletişim Tasarımında Anlatı Ortamları ve Özellikleri*** başlıklı bölüm<br />Anlık konuşmalar, doktor-hasta konuşması, masallar, türküler birer sözlü anlatı türünü oluşturur. Gazeteler ise yazılı/basılı ve fotoğraf gibi görsellik kullanan bir anlatı türü olarak farklılaşır.
 
     <hr />
 1. Filmin içeriğinin seyircinin tercihine göre belirlendiği, filmin potansiyel olarak birden çok sonu veya içeriğinin olduğu film türüne ne ad verilir?
@@ -1539,8 +1301,7 @@
     - D-) Farklı sonları olan filmler
     - E-) Değişime açık filmler
 
-    > **Açıklama:** ***Yeni Teknolojiler ve Hikâye Anlatıcılığı*** başlıklı bölüm
-    > Bu film türüne **seçime dayalı filmler** denir. Bu tür filmlerde seyircilerin seçimleri ile filmin içeriği belirlenmektedir. Her gösterimde filmin potansiyel olarak farklı bir sonu ve içeriğinin oluştuğu bu deneysel girişimler zaman içinde yaygınlaşmamış ve dijital teknolojilerin yeni imkânlarının gelişimine kadar etkileşimli filmlerin etkisiz kaldığı veya tanınmadığı görülmüştür. İlk seçime dayalı dijital etkileşimli filmler internet üzerinden yayımlanmıştır.
+    > **Açıklama:** ***Yeni Teknolojiler ve Hikâye Anlatıcılığı*** başlıklı bölüm<br />Bu film türüne **seçime dayalı filmler** denir. Bu tür filmlerde seyircilerin seçimleri ile filmin içeriği belirlenmektedir. Her gösterimde filmin potansiyel olarak farklı bir sonu ve içeriğinin oluştuğu bu deneysel girişimler zaman içinde yaygınlaşmamış ve dijital teknolojilerin yeni imkânlarının gelişimine kadar etkileşimli filmlerin etkisiz kaldığı veya tanınmadığı görülmüştür. İlk seçime dayalı dijital etkileşimli filmler internet üzerinden yayımlanmıştır.
 
     <hr />
 1. Lichtenberg’in geçmişteki ve şimdiki eleştirmenler tarafından değerlendirildiği üzere bir anlatının estetik başarısı, gücü ve etkisi, hangi yaratıcı biçimde olursa olsun diğerlerine kıyasla büyük farklılıklar gösterir. Yaratıcılıkla ilgili değerlendirmeler ise zamanla değişir. Aşağıdakilerden hangisi bu değerlendirmeler sonucunda çalışmalarını “bitiremeyen” yetersizler olarak görülen izlenimci sanatçılardan **değildir?**
@@ -1550,9 +1311,7 @@
     - D-) Monet
     - E-) Rodin
 
-    > **Açıklama:** Bourdelle kendi zamanında Rodin’in dengi veya üstü olarak kabul edilmiş; Monet, Renoir, Cezanne
-    > ve diğer izlenimciler ise çalışmalarını “bitiremeyen” yetersizler olarak görülmüştür.
-    > Rembrant
+    > **Açıklama:** Bourdelle kendi zamanında Rodin’in dengi veya üstü olarak kabul edilmiş; Monet, Renoir, Cezanne<br />ve diğer izlenimciler ise çalışmalarını “bitiremeyen” yetersizler olarak görülmüştür.<br />Rembrant
 
     <hr />
 1. Anlatıyı “hikâye (öykü) ve anlatı söyleminden oluşan olayların temsilidir, hikâye bir olay veya olaylar dizisidir ve anlatı söylemi, temsil edilen bu olaylardır.” olarak tanımlayan düşünür aşağıdakilerden hangisidir?
@@ -1562,8 +1321,7 @@
     - D-) Martin Kreiswirth
     - **Cevap E-) H. Porter Abbot**
 
-    > **Açıklama:** Abbott’a göre anlatı; “hikâye (öykü) ve anlatı söyleminden oluşan olayların temsilidir, hikâye bir olay veya olaylar dizisidir ve anlatı söylemi, temsil edilen bu olaylardır.”
-    > H. Porter Abbot
+    > **Açıklama:** Abbott’a göre anlatı; “hikâye (öykü) ve anlatı söyleminden oluşan olayların temsilidir, hikâye bir olay veya olaylar dizisidir ve anlatı söylemi, temsil edilen bu olaylardır.”<br />H. Porter Abbot
 
     <hr />
 1. Yapısalcı kurama göre bir anlatının gerekli bileşenleri iki tabakalı olarak düşünülmüştür. Bunlar Öykü (Hikâye) ve Söylemdir. Aşağıdakilerden hangisi Öyküyü meydana getiren unsurlardan **değildir?**
@@ -1573,9 +1331,7 @@
     - D-) Karakterler
     - E-) Eylemler
 
-    > **Açıklama:** Öykü veya diğer şekilde ifade edilirse hikâye, içerik ya da olaylar zinciridir ve bunları meydana getiren eylemler, eylemleri gerçekleştiren varlıklar diğer ifade ile karakterler, eylemin
-    > meydana geldiği uzam ve zamandan oluşur.
-    > Hayaller
+    > **Açıklama:** Öykü veya diğer şekilde ifade edilirse hikâye, içerik ya da olaylar zinciridir ve bunları meydana getiren eylemler, eylemleri gerçekleştiren varlıklar diğer ifade ile karakterler, eylemin<br />meydana geldiği uzam ve zamandan oluşur.<br />Hayaller
 
     <hr />
 1. Aşağıdakilerden hangisi beş temel anlatı mekân unsurlardan **değildir?**
@@ -1585,9 +1341,7 @@
     - D-) Anlatı Evreni
     - E-) Mekânsal Çerçeveler
 
-    > **Açıklama:** Anlatı mekânı, bir anlatıda tanımlanan bireysel nesnelerden hikâyenin gerçekleştiği kozmik düzene
-    > kadar uzanır ve bu durumda beş temel anlatı mekânı ortaya çıkar. Bunlar şöyledir:... S.113 bkz.
-    > Gerçek Mekân
+    > **Açıklama:** Anlatı mekânı, bir anlatıda tanımlanan bireysel nesnelerden hikâyenin gerçekleştiği kozmik düzene<br />kadar uzanır ve bu durumda beş temel anlatı mekânı ortaya çıkar. Bunlar şöyledir:... S.113 bkz.<br />Gerçek Mekân
 
     <hr />
 1. Aşağıdakilerden hangisi sezgisel olarak anlatının en can alıcı ve aynı zamanda yansıtma ve yanılgılara en çok maruz kalan kategoridir?
@@ -1607,9 +1361,7 @@
     - D-) Anlatı Aracı Olarak Karakter
     - E-) Birey veya Kişi Olarak Karakter
 
-    > **Açıklama:** Bir anlatı aracı olarak karakterleri sınıflandırmak mümkündür. Buna göre en belirgin çeşitleri
-    > şu şekildedir: ...S.115 bkz.
-    > Heyecan Verici Olarak Karakter
+    > **Açıklama:** Bir anlatı aracı olarak karakterleri sınıflandırmak mümkündür. Buna göre en belirgin çeşitleri<br />şu şekildedir: ...S.115 bkz.<br />Heyecan Verici Olarak Karakter
 
     <hr />
 1. Bakış açısı konusunu farklı kategorilerde incelemek mümkündür. Örneğin; anladıklarını tefsir ederken bilgi ve değerlendirmelerine, o andaki iç durumlarına uygun ifade ve tonlamaları veya değişen bir iç durumun veya değişen bilgi ve değerlendirmenin ortaya çıktığı ifade biçimlerini kullanabilirler. Bu bakış açısı aşağıdaki kategorilerden hangisidir?
@@ -1619,8 +1371,7 @@
     - D-) Mekânsal Bakış Açısı
     - **Cevap E-) Dil Bilimsel Bakış Açısı**
 
-    > **Açıklama:** Dil Bilimsel Bakış Açısı: Tanıklar ifadelerinde bir dizi farklı dilsel kayıt kullanabilirler.
-    > Anladıklarını tefsir ederken bilgi ve değerlendirmelerine, o andaki iç durumlarına uygun ifade ve tonlamaları veya değişen bir iç durumun veya değişen bilgi ve değerlendirmenin ortaya çıktığı ifade biçimlerini kullanabilirler. Bu seçim dilsel bakış açısını ortaya koymaktadır.
+    > **Açıklama:** Dil Bilimsel Bakış Açısı: Tanıklar ifadelerinde bir dizi farklı dilsel kayıt kullanabilirler.<br />Anladıklarını tefsir ederken bilgi ve değerlendirmelerine, o andaki iç durumlarına uygun ifade ve tonlamaları veya değişen bir iç durumun veya değişen bilgi ve değerlendirmenin ortaya çıktığı ifade biçimlerini kullanabilirler. Bu seçim dilsel bakış açısını ortaya koymaktadır.
 
     <hr />
 1. Son yıllarda sıkça kullanılan, herhangi bir olay veya eylemi seri fotoğraflarla göstermek için özel montajlarla üretilen özel bir teknik aşağıdakilerden hangisidir?
@@ -1640,8 +1391,7 @@
     - D-) Sinema Anlatısı
     - E-) Fotoğraf ve Anlatı
 
-    > **Açıklama:** Sıradan kullanıcılara yayıncı olma imkânı sunan sosyal medya yazı, fotoğraf, video ve podcastlerle anlatı üretme imkânı yaratmaktadır.
-    > Sosyal Medya Anlatısı
+    > **Açıklama:** Sıradan kullanıcılara yayıncı olma imkânı sunan sosyal medya yazı, fotoğraf, video ve podcastlerle anlatı üretme imkânı yaratmaktadır.<br />Sosyal Medya Anlatısı
 
     <hr />
 1. Bilgisayar tarafından oluşturulan bilgileri onun üzerine bindirerek gerçek dünyayı zenginleştiren bir sistem olan anlatı aşağıdakilerden hangisidir?
@@ -1651,8 +1401,7 @@
     - D-) Transmedya
     - E-) İnteraktif Medya
 
-    > **Açıklama:** **Artırılmış gerçeklik,** bilgisayar tarafından oluşturulan bilgileri onun üzerine bindirerek gerçek
-    > dünyayı zenginleştiren bir sistemdir.
+    > **Açıklama:** **Artırılmış gerçeklik,** bilgisayar tarafından oluşturulan bilgileri onun üzerine bindirerek gerçek<br />dünyayı zenginleştiren bir sistemdir.
 
     <hr />
 ## Unite 5
@@ -1663,9 +1412,7 @@
     - D-) Hazırlık
     - E-) Doğrulama
 
-    > **Açıklama:** Wallas ise 1926’da yaratıcı düşünme sürecini “Hazırlık”, “Kuluçka”, “İlham” ve “Doğrulama”
-    > olarak dört ana grupta toplamıştır (Rouquette, 1992: 18).
-    > Farkındalık
+    > **Açıklama:** Wallas ise 1926’da yaratıcı düşünme sürecini “Hazırlık”, “Kuluçka”, “İlham” ve “Doğrulama”<br />olarak dört ana grupta toplamıştır (Rouquette, 1992: 18).<br />Farkındalık
 
     <hr />
 1. En yaygın kullanılan düşünme türlerinden biridir. İki alan arasındaki benzerliklere bakarak bilinmeyen bir olgu bilinen bir olgu ile açıklanır. Özelden özele doğru bir akıl yürütme biçimi söz konusudur. Anlatılan bu düşünme türü aşağıdakilerden hangisidir?
@@ -1675,9 +1422,7 @@
     - **Cevap D-) Analojik Düşünme**
     - E-) Tümevarım Düşünme
 
-    > **Açıklama:** Bütünün parçalara ayrıldığı ve her parçanın analiz edilerek yeniden tanımlandığı, sınıflandırıldığı, bütünle ilişkilerinin incelendiği düşünme biçimine ise **analitik düşünme** denilmektedir. Çözümlemeye yönelik bir düşünme biçimidir. **Sistemli düşünme,** çeşitli elemanlar ve aralarındaki ilişkileri içeren karmaşık bir bakış açısı ile bilinçli düşünme biçimidir. Sistemli düşünmede bir amaç ve bu amaç doğrultusunda bir hedef belirlenir, bilinenden yola çıkarak bilinmeyene ulaşmak için mantıklı işlemler gerçekleştirilir. Bir düşünceyi geliştirebilmek için akıl yürütme ve mantıksal sorgulama yöntemlerine başvurarak olguları nesnel kanıtlar ışığında sorgulama, inceleme ve değerlendirme şeklinde gerçekleşen düşünme biçimi ise **eleştirel düşünme** biçimidir. **Yaratıcı düşünme**; buluşçu, yenilikçi, sorunlara yeni ve farklı çözümler üreten, özgün düşüncelerin
-    > ortaya çıkmasını sağlayan bir düşünme biçimidir. Yani esnek, akıcı, özgün, alışılmışın
-    > Analojik Düşünme
+    > **Açıklama:** Bütünün parçalara ayrıldığı ve her parçanın analiz edilerek yeniden tanımlandığı, sınıflandırıldığı, bütünle ilişkilerinin incelendiği düşünme biçimine ise **analitik düşünme** denilmektedir. Çözümlemeye yönelik bir düşünme biçimidir. **Sistemli düşünme,** çeşitli elemanlar ve aralarındaki ilişkileri içeren karmaşık bir bakış açısı ile bilinçli düşünme biçimidir. Sistemli düşünmede bir amaç ve bu amaç doğrultusunda bir hedef belirlenir, bilinenden yola çıkarak bilinmeyene ulaşmak için mantıklı işlemler gerçekleştirilir. Bir düşünceyi geliştirebilmek için akıl yürütme ve mantıksal sorgulama yöntemlerine başvurarak olguları nesnel kanıtlar ışığında sorgulama, inceleme ve değerlendirme şeklinde gerçekleşen düşünme biçimi ise **eleştirel düşünme** biçimidir. **Yaratıcı düşünme**; buluşçu, yenilikçi, sorunlara yeni ve farklı çözümler üreten, özgün düşüncelerin<br />ortaya çıkmasını sağlayan bir düşünme biçimidir. Yani esnek, akıcı, özgün, alışılmışın<br />Analojik Düşünme
 
     <hr />
 1. En yaygın olan ve en çok kullanılan fikir üretme yöntemlerinden birisidir. Sosyal psikoloji, motivasyon ve kurumsal kültür bilgisi gerektiren karmaşık bir sosyal süreçtir. Katılımcıların temel kurallara uyarak yargılayıcı olmayan bir ortamda belirli bir konu veya sorun hakkında fikir ürettiği bir seanstır. Aşağıdakilerden hangisi bu yöntemlerdendir?
@@ -1687,8 +1432,7 @@
     - D-) SCAMPER Tekniği
     - **Cevap E-) Beyin Fırtınası**
 
-    > **Açıklama:** Sayfa 147 bkz.
-    > Beyin Fırtınası
+    > **Açıklama:** Sayfa 147 bkz.<br />Beyin Fırtınası
 
     <hr />
 1. Beyin fırtınası yönteminin, yaratıcı düşünmeyi ve problem çözmeyi kolaylaştırması için dört temel koşulu sağlaması gerekir. Aşağıdakilerden hangisi bu koşullardan **değildir?**
@@ -1698,9 +1442,7 @@
     - D-) Sınırsız düşünme
     - E-) Eleştiri kapı dışına bırakılır
 
-    > **Açıklama:** Beyin fırtınası yönteminin, yaratıcı düşünmeyi ve problem çözmeyi kolaylaştırması için dört temel
-    > koşulu sağlaması gerekir: 1. Eleştiri kapı dışına bırakılır, 2. Sınırsız düşünme, 3. Nicelik aranır, 4. Kombinasyon ve gelişme aranır.
-    > Nitelik aranır
+    > **Açıklama:** Beyin fırtınası yönteminin, yaratıcı düşünmeyi ve problem çözmeyi kolaylaştırması için dört temel<br />koşulu sağlaması gerekir: 1. Eleştiri kapı dışına bırakılır, 2. Sınırsız düşünme, 3. Nicelik aranır, 4. Kombinasyon ve gelişme aranır.<br />Nitelik aranır
 
     <hr />
 1. Bu yaratıcı düşünme yönteminde yaratıcı fikri bulabilmek için genellikle mantık, problem çözme ve kavram oluşturmayı içerir. Öte yandan “hayal ederken” bireyin, materyali nispeten yapılandırılmamış ve belki de amaçsız bir şekilde birleştirerek kendi deneyiminden yararlandığı söylenir. Sanatsal ve yaratıcı düşüncenin yanı sıra hayal kurmanın da yaratıcı bir eylem olduğu düşünülür. Aşağıdakilerden hangisi bu yaratıcı düşünme yöntemlerinden biridir?
@@ -1720,8 +1462,7 @@
     - **Cevap D-) Yeşil**
     - E-) Beyaz
 
-    > **Açıklama:** Yeşil şapka yaratıcı çözümlerin ve üretkenliğin konuşulmaya başlandığı aşamadır. Probleme ilişkin
-    > yeni fikirler, çözüm önerileri ortaya atılır, seçenekler belirlenir.
+    > **Açıklama:** Yeşil şapka yaratıcı çözümlerin ve üretkenliğin konuşulmaya başlandığı aşamadır. Probleme ilişkin<br />yeni fikirler, çözüm önerileri ortaya atılır, seçenekler belirlenir.
 
     <hr />
 1. Yaratıcı fikir üretme sürecinde hangi yaratıcı teknik ya da teknikler kullanılırsa kullanılsın süreç tamamlandıktan sonra çıktıların değerlendirilmesi gerekmektedir. Bunu yaparken bir kontrol listesi oluşturmak faydalı olacaktır. Bu süreç aşağıdakilerden hangisidir?
@@ -1741,8 +1482,7 @@
     - D-) Beyin Yazısı
     - **Cevap E-) Eskiz**
 
-    > **Açıklama:** Bu temel bilgiler ışığında tasarım fikrinin nasıl görsel bir anlatım biçimine dönüşeceği düşünülürken
-    > kullanılabilecek en etkili yöntem eskiz çizmek olacaktır. Eskiz, tasarımcının kafasından geçen fikirlerin görsel olarak mikro ve makro düzeyde bir bakış açısına oturabilmesi için çizilen, orijinal işe yakın olarak düzenlenen, yapı, şekil, renk, denge, hiyerarşi gibi kararların net bir şekilde gösterildiği taslak çizimlerdir.
+    > **Açıklama:** Bu temel bilgiler ışığında tasarım fikrinin nasıl görsel bir anlatım biçimine dönüşeceği düşünülürken<br />kullanılabilecek en etkili yöntem eskiz çizmek olacaktır. Eskiz, tasarımcının kafasından geçen fikirlerin görsel olarak mikro ve makro düzeyde bir bakış açısına oturabilmesi için çizilen, orijinal işe yakın olarak düzenlenen, yapı, şekil, renk, denge, hiyerarşi gibi kararların net bir şekilde gösterildiği taslak çizimlerdir.
 
     <hr />
 1. Göstergebilim, göstergelerin belirli konularıyla ilgilenen bilim dalıdır. Aşağıdakilerden hangisi bu konulardan **değildir?**
@@ -1752,8 +1492,7 @@
     - D-) Yorumlanması
     - E-) İncelenmesi
 
-    > **Açıklama:** **Göstergebilim,** göstergelerin **üretilmesi**, **anlamlandırılması**, **yorumlanmas**ı ve **incelenmes**i gibi konularla ilgilenen bilim dalıdır.
-    > Düşünülmesi
+    > **Açıklama:** **Göstergebilim,** göstergelerin **üretilmesi**, **anlamlandırılması**, **yorumlanmas**ı ve **incelenmes**i gibi konularla ilgilenen bilim dalıdır.<br />Düşünülmesi
 
     <hr />
 1. Âşık Veysel’in “iki kapılı bir handa gidiyorum gündüz gece” dizelerinde bahsi geçen “iki kapılı han” da bahsi geçen *Dünya* aşağıdakilerden hangisiyle adlandırılır?
@@ -1763,8 +1502,7 @@
     - D-) Sinekdok
     - E-) Sembol
 
-    > **Açıklama:** Aşık Veysel’in “iki kapılı bir handa gidiyorum gündüz gece” dizelerinde bahsi geçen “iki kapılı
-    > han” dünyanın **metaforudur**.
+    > **Açıklama:** Aşık Veysel’in “iki kapılı bir handa gidiyorum gündüz gece” dizelerinde bahsi geçen “iki kapılı<br />han” dünyanın **metaforudur**.
 
     <hr />
 1. Wallas 1926’da yaratıcı düşünme sürecini dört ana grupta toplamıştır. Aşağıdakilerden hangisi bu grupta olanlardan ***değildir***?
@@ -1924,11 +1662,7 @@
     - D-) Duruma iyimser bir açıdan bakmak
     - E-) Süreci sonlandırmak
 
-    > **Açıklama:** Beyaz şapka durum tespiti yapmak için kullanılır.
-    > Siyah şapka olumsuzlukları tespit etmek için kullanılır.
-    > Sarı şapka duruma iyimser bir açıdan bakmak ve durumun tüm olumlu ve faydalı taraflarını görmek için kullanılır.
-    > Mavi şapka sürecin sonlandırıldığı kısımdır.
-    > Kırmızı şapka duyguları tespit etmek ve gün yüzüne çıkartmak için kullanılır.
+    > **Açıklama:** Beyaz şapka durum tespiti yapmak için kullanılır.<br />Siyah şapka olumsuzlukları tespit etmek için kullanılır.<br />Sarı şapka duruma iyimser bir açıdan bakmak ve durumun tüm olumlu ve faydalı taraflarını görmek için kullanılır.<br />Mavi şapka sürecin sonlandırıldığı kısımdır.<br />Kırmızı şapka duyguları tespit etmek ve gün yüzüne çıkartmak için kullanılır.
 
     <hr />
 1. Aşağıdakilerden hangisi ikonlara örnek olarak gösterilebilir?
@@ -1938,8 +1672,7 @@
     - D-) Mors alfabesi
     - E-) Şirket logoları
 
-    > **Açıklama:** ![](https://ets.anadolu.edu.tr/storage/nfs/questions/46d62b60009b3c3e527d01afd6286851.jpeg)
-    > İkon: Temsil ettiği şeye fiziksel olarak benzerlik gösterir. Gösteren ve gösterilen aynıdır. Tuvaletlerde kullanılan kadın erkek piktogramları, ikona güzel bir örnek olarak gösterilebilir.
+    > **Açıklama:** ![](https://ets.anadolu.edu.tr/storage/nfs/questions/46d62b60009b3c3e527d01afd6286851.jpeg)<br />İkon: Temsil ettiği şeye fiziksel olarak benzerlik gösterir. Gösteren ve gösterilen aynıdır. Tuvaletlerde kullanılan kadın erkek piktogramları, ikona güzel bir örnek olarak gösterilebilir.
 
     <hr />
 1. Kaotik görünen bir dünyada anlamlı bir algıya sahip olmamızın temelde hangi kanunlara dayandığını anlamaya çalışan psikoloji teorisi aşağıdakilerden hangisidir?
@@ -2079,10 +1812,7 @@
     - D-) Aristoteles
     - E-) Sokrates
 
-    > **Açıklama:** Dikey ve yanal düşünmenin temellerinin kavranması
-    > |  |
-    > | --- |
-    > | Yanal düşünme teorisini Edward De Bono geliştirmiştir. |
+    > **Açıklama:** Dikey ve yanal düşünmenin temellerinin kavranması<br />|  |<br />| --- |<br />| Yanal düşünme teorisini Edward De Bono geliştirmiştir. |
 
     <hr />
 1. Aşağıdakilerden hangisi dikey düşünmenin özelliklerinden birisi değildir?
@@ -2092,9 +1822,7 @@
     - D-) Dikey düşünme sıralıdır
     - **Cevap E-) Dikey düşünmede olumsuzluk yoktur**
 
-    > **Açıklama:** Dikey düşünme ve yanal düşünmenin karşılaştırılması
-    > Dikey düşünmede, belirli yolları engellemek için olumsuzluklar kullanılır, yanal
-    > düşünmede olumsuzluk yoktur.
+    > **Açıklama:** Dikey düşünme ve yanal düşünmenin karşılaştırılması<br />Dikey düşünmede, belirli yolları engellemek için olumsuzluklar kullanılır, yanal<br />düşünmede olumsuzluk yoktur.
 
     <hr />
 1. Yaratıcı düşünmeyi;<br />1\. İhtiyacın belirlenmesi<br />2\. Eldeki bilgilerin gözden geçirilmesi<br />3\. Bilginin sindirilmesi<br />4\. Parıltının sezilmesi<br />5\. Ortaya çıkanların değerlendirilmesi<br />şeklinde 5 aşamalı bir süreç olarak tanımlayan araştırmacı aşağıdakilerden hangisidir?
@@ -2104,13 +1832,7 @@
     - D-) İ. Tahir Erda
     - E-) Zeynep Yanık
 
-    > **Açıklama:** Yaratıcı düşüncenin kavranması
-    > Yaratıcı düşünme, Trevor Bentley tarafından 5 aşamalı bir süreç olarak tanımlanmaktadır:
-    > 1\. İhtiyacın belirlenmesi
-    > 2\. Eldeki bilgilerin gözden geçirilmesi
-    > 3\. Bilginin sindirilmesi
-    > 4\. Parıltının sezilmesi
-    > 5\. Ortaya çıkanların değerlendirilmesi
+    > **Açıklama:** Yaratıcı düşüncenin kavranması<br />Yaratıcı düşünme, Trevor Bentley tarafından 5 aşamalı bir süreç olarak tanımlanmaktadır:<br />1\. İhtiyacın belirlenmesi<br />2\. Eldeki bilgilerin gözden geçirilmesi<br />3\. Bilginin sindirilmesi<br />4\. Parıltının sezilmesi<br />5\. Ortaya çıkanların değerlendirilmesi
 
     <hr />
 1. Bütünden parçaya doğru, genelden özele ya da yasalardan olaylara doğru giden düşünme biçimine ne ad verilir?
@@ -2120,8 +1842,7 @@
     - D-) Analitik düşünme
     - E-) Sistemli düşünme
 
-    > **Açıklama:** Düşünme türlerinin kavranması
-    > Bütünden parçaya doğru, genelden özele ya da yasalardan olaylara doğru giden düşünme biçimine tümdengelim düşünme denir.
+    > **Açıklama:** Düşünme türlerinin kavranması<br />Bütünden parçaya doğru, genelden özele ya da yasalardan olaylara doğru giden düşünme biçimine tümdengelim düşünme denir.
 
     <hr />
 1. İki alan arasındaki benzerliklere bakarak bilinmeyen bir olgunun bilinen bir olgu ile açıklanması yolu ile özelden özele doğru bir akıl yürütmenin söz konusu olduğu düşünme biçimi aşağıdakilerden hangisidir?
@@ -2131,8 +1852,7 @@
     - **Cevap D-) Analojik düşünme**
     - E-) Eleştirel düşünme
 
-    > **Açıklama:** düşünme biçimlerinin kavranması
-    > Analojik düşünmede iki alan arasındaki benzerliklerden hareket edilir. Benzerliklere bakarak bilinmeyen bir olgu bilinen bir olgu ile açıklanır.
+    > **Açıklama:** düşünme biçimlerinin kavranması<br />Analojik düşünmede iki alan arasındaki benzerliklerden hareket edilir. Benzerliklere bakarak bilinmeyen bir olgu bilinen bir olgu ile açıklanır.
 
     <hr />
 1. Fikir üretmek, yaratıcı etkinliği arttırmak veya sorunlara çözüm bulmak amacı ile katılımcıların temel kurallara uyarak yargılayıcı olmayan bir ortamda belirli bir<br />konu veya sorun hakkında fikir ürettiği yaratıcı düşünme tekniği aşağıdakilerden hangisidir?
@@ -2142,10 +1862,7 @@
     - D-) Altı Şapkalı Düşünme
     - **Cevap E-) Beyin fırtınası**
 
-    > **Açıklama:** yaratıcı fikir geliştirme yöntemlerinin kavranması
-    > Beyin fırtınası, fikir üretmek, yaratıcı etkinliği arttırmak veya sorunlara çözüm
-    > bulmak için bireysel veya gruplar hâlinde uygulanan bir yöntemdir. Katılımcıların temel kurallara uyarak yargılayıcı olmayan bir ortamda belirli bir
-    > konu veya sorun hakkında fikir ürettiği bir seanstır.
+    > **Açıklama:** yaratıcı fikir geliştirme yöntemlerinin kavranması<br />Beyin fırtınası, fikir üretmek, yaratıcı etkinliği arttırmak veya sorunlara çözüm<br />bulmak için bireysel veya gruplar hâlinde uygulanan bir yöntemdir. Katılımcıların temel kurallara uyarak yargılayıcı olmayan bir ortamda belirli bir<br />konu veya sorun hakkında fikir ürettiği bir seanstır.
 
     <hr />
 1. Beyin Yazısı, Beyin Çizimi, SCAMPER tekniği ve Charette Prosedürü aşağıdaki yaratıcı fikir geliştirme yöntemlerinden hangisinin çeşitleridir?
@@ -2165,9 +1882,7 @@
     - D-) Beyin Yazısı
     - E-) 6-3-5 Metodu
 
-    > **Açıklama:** Yaratıcı fikir geliştirme tekniklerinin kavranması
-    > SCAMPER tekniği, genellikle okul öncesi eğitimde kullanılan bir beyin fırtınası yöntemidir. Farklı düşünme, hayal kurma ve sezgileri kullanarak özgün ürünler ortaya koyma açısından faydalıdır. Özgün bir fikre ulaşmak için mevcut bir fikri farklı türde sorular sorarak değiştirme ve çeşitlendirme mantığı üzerine kuruludur. SCAMPER’ın felsefesi “Her fikir, var olan başka bir fikirden doğar.” cümlesi ile özetlenebilir.
-    > Teknik adını, uygulamayı yaparken hatırlanması gereken İngilizce yedi kelimenin baş harfinden alır. Uygulama yapılırken bir nesne, olay, kişi seçilir ve sorular sorularak değiştirilir ve geliştirilir.
+    > **Açıklama:** Yaratıcı fikir geliştirme tekniklerinin kavranması<br />SCAMPER tekniği, genellikle okul öncesi eğitimde kullanılan bir beyin fırtınası yöntemidir. Farklı düşünme, hayal kurma ve sezgileri kullanarak özgün ürünler ortaya koyma açısından faydalıdır. Özgün bir fikre ulaşmak için mevcut bir fikri farklı türde sorular sorarak değiştirme ve çeşitlendirme mantığı üzerine kuruludur. SCAMPER’ın felsefesi “Her fikir, var olan başka bir fikirden doğar.” cümlesi ile özetlenebilir.<br />Teknik adını, uygulamayı yaparken hatırlanması gereken İngilizce yedi kelimenin baş harfinden alır. Uygulama yapılırken bir nesne, olay, kişi seçilir ve sorular sorularak değiştirilir ve geliştirilir.
 
     <hr />
 1. 6 şapkalı düşünme tekniğinde yaratıcı, fizibiliteyi düşünmeden birçok yeni fikir üreten ve yaratıcı düşünmeyi simgeleyen şapka aşağıdakilerden hangisidir?
@@ -2177,8 +1892,7 @@
     - D-) Siyah şapka
     - E-) Mavi şapka
 
-    > **Açıklama:** yaratıcı düşünme tekniklerinin kavranması
-    > Yeşil şapka yaratıcı çözümlerin ve üretkenliğin konuşulmaya başlandığı aşamadır. Probleme ilişkin yeni fikirler, çözüm önerileri ortaya atılır, seçenekler belirlenir.
+    > **Açıklama:** yaratıcı düşünme tekniklerinin kavranması<br />Yeşil şapka yaratıcı çözümlerin ve üretkenliğin konuşulmaya başlandığı aşamadır. Probleme ilişkin yeni fikirler, çözüm önerileri ortaya atılır, seçenekler belirlenir.
 
     <hr />
 1. Temsil ettiği şeye fiziksel olarak benzerlik gösteren ve gösteren ve gösterilen aynı olduğu gösterge aşağıdakilerden hangisidir?
@@ -2188,9 +1902,7 @@
     - D-) Metafor
     - E-) Sinekdok
 
-    > **Açıklama:** Tasarımda Göstergelerle Düşünme
-    > İkon: Temsil ettiği şeye fiziksel olarak benzerlik gösterir. Gösteren ve gösterilen aynıdır. Bir kişinin fotoğrafı onun ikonik göstergesidir. Grafik tasarımda ikonlar, detaylarından arındırılarak stilize edilerek yalın biçimlere dönüştürülürler. Tuvaletlerde kullanılan kadın erkek piktogramları, ikona güzel bir örnek
-    > olarak gösterilebilir.
+    > **Açıklama:** Tasarımda Göstergelerle Düşünme<br />İkon: Temsil ettiği şeye fiziksel olarak benzerlik gösterir. Gösteren ve gösterilen aynıdır. Bir kişinin fotoğrafı onun ikonik göstergesidir. Grafik tasarımda ikonlar, detaylarından arındırılarak stilize edilerek yalın biçimlere dönüştürülürler. Tuvaletlerde kullanılan kadın erkek piktogramları, ikona güzel bir örnek<br />olarak gösterilebilir.
 
     <hr />
 ## Unite 6
@@ -2311,12 +2023,7 @@
     - D-) V
     - E-) IV/V
 
-    > **Açıklama:** Fuchs ve Diamantopoulos, ürünlerin hangi ko- numlandırma desenlerine göre olabileceğini “araba pazarı” üzerinden beş ayrı kategoride özetler:
-    > Somut Özellikler
-    > Soyut Özellikler
-    > Doğrudan (İşlevsel) Faydalar
-    > Dolaylı (Deneyimsel/Sembolik) Faydalar
-    > Vekil (Yer Tutucu) Konumlandırma
+    > **Açıklama:** Fuchs ve Diamantopoulos, ürünlerin hangi ko- numlandırma desenlerine göre olabileceğini “araba pazarı” üzerinden beş ayrı kategoride özetler:<br />Somut Özellikler<br />Soyut Özellikler<br />Doğrudan (İşlevsel) Faydalar<br />Dolaylı (Deneyimsel/Sembolik) Faydalar<br />Vekil (Yer Tutucu) Konumlandırma
 
     <hr />
 1. Kelime anlamıyla “emsalsiz”, “kendine mahsus”, “eşsiz”, “farklı” gibi anlamlara gelen kelime aşağıdakilerden hangisidir?
@@ -2326,12 +2033,7 @@
     - D-) Customer
     - E-) Lovemarks
 
-    > **Açıklama:** Unique (Özgün): Unique kelime anlamıyla
-    > “emsalsiz”, “kendine mahsus”, “eşsiz”, “farklı” gibi
-    > anlamlara gelir. Bu kavram, bir ürün ya da hizmetin
-    > diğer ürün ve hizmetlerden ayrıldığı temel
-    > noktadır. Yalnızca reklamı yapılan ürünün sahip
-    > olduğu bir özelliktir.
+    > **Açıklama:** Unique (Özgün): Unique kelime anlamıyla<br />“emsalsiz”, “kendine mahsus”, “eşsiz”, “farklı” gibi<br />anlamlara gelir. Bu kavram, bir ürün ya da hizmetin<br />diğer ürün ve hizmetlerden ayrıldığı temel<br />noktadır. Yalnızca reklamı yapılan ürünün sahip<br />olduğu bir özelliktir.
 
     <hr />
 1. Reklamı yapılan ürün veya hizmetin satış boyutuyla ilgilenir ve tüketicinin temel ihtiyaçlarını karşılamaya yönelik olan kavram aşağıdakilerden hangisidir?
@@ -2341,9 +2043,7 @@
     - D-) Unique (Özgün)
     - E-) Temel satış
 
-    > **Açıklama:** Selling (Satış): Reklamı yapılan ürün veya hizmetin
-    > satış boyutuyla ilgilenir ve tüketicinin temel
-    > ihtiyaçlarını karşılamaya yöneliktir.
+    > **Açıklama:** Selling (Satış): Reklamı yapılan ürün veya hizmetin<br />satış boyutuyla ilgilenir ve tüketicinin temel<br />ihtiyaçlarını karşılamaya yöneliktir.
 
     <hr />
 1. Arzu ve istekleri harekete geçirmeye yönelik vaatleri içeren reklam stratejisi aşağıdakilerden hangisidir?
@@ -2353,14 +2053,7 @@
     - D-) dijital satış yöntemi
     - E-) markalaşma
 
-    > **Açıklama:** Bu sebeple markalar
-    > “emotional selling propositions (ESP)”lere yoğunlaşmıştır.
-    > Türkçeye “duygusal satış vaadi” olarak
-    > çevrilebilecek bu terim duygu ve imaja dayalı bir
-    > vaat sunmayı amaçlar. Bu yaklaşım, arzu ve istekleri
-    > harekete geçirmeye yönelik vaatleri içerir. Duygusal
-    > satış vaadi ile birlikte tüketicilerle iletişim kurulur
-    > (Fill, Hughes, & Francesco, 2013: 65).
+    > **Açıklama:** Bu sebeple markalar<br />“emotional selling propositions (ESP)”lere yoğunlaşmıştır.<br />Türkçeye “duygusal satış vaadi” olarak<br />çevrilebilecek bu terim duygu ve imaja dayalı bir<br />vaat sunmayı amaçlar. Bu yaklaşım, arzu ve istekleri<br />harekete geçirmeye yönelik vaatleri içerir. Duygusal<br />satış vaadi ile birlikte tüketicilerle iletişim kurulur<br />(Fill, Hughes, & Francesco, 2013: 65).
 
     <hr />
 1. Ürünün fiziksel ve işlevsel özelliklerini öne çıkaran strateji aşağıdakilerden hangisidir?
@@ -2370,9 +2063,7 @@
     - **Cevap D-) Temel satış vaadi**
     - E-) Türev satış vaadi
 
-    > **Açıklama:** “Temel satış vaadi
-    > (USP)”, ürünün fiziksel ve işlevsel özelliklerini öne
-    > çıkaran bir stratejidir.
+    > **Açıklama:** “Temel satış vaadi<br />(USP)”, ürünün fiziksel ve işlevsel özelliklerini öne<br />çıkaran bir stratejidir.
 
     <hr />
 1. Aşağıdakilerden hangisi veya hangileri reklam stratejisinde yaratıcı stratejilerdir?<br />I. Konumlandırma Stratejisi<br />II. Yeniden Konumlandırma<br />III. Marka İmajı<br />IV. Temel Satış Vaadi<br />V. Lovemarks<br />VI.Star Stratejisi
@@ -2382,13 +2073,7 @@
     - D-) I/II/V
     - E-) V/VI
 
-    > **Açıklama:** Reklam stratejileri kendi içerisinde mutlaka tutarlı olması gerekirken aynı zamanda markanın diğer stratejileriyle de uyumlu olmalıdır. Reklam stratejileri; tüketicileri, müşterileri ve potansiyel müşterileri kapsayabilir. Stratejiler, hedef kitle merkezli olmalıdır. Bununla birlikte, verilen mesajlarla hedef kitlenin zihninde, markanın nasıl konumlandığı oldukça önemlidir.
-    > Konumlandırma Stratejisi
-    > Yeniden Konumlandırma
-    > Marka İmajı
-    > Temel Satış Vaadi
-    > Lovemarks
-    > Star Stratejisi
+    > **Açıklama:** Reklam stratejileri kendi içerisinde mutlaka tutarlı olması gerekirken aynı zamanda markanın diğer stratejileriyle de uyumlu olmalıdır. Reklam stratejileri; tüketicileri, müşterileri ve potansiyel müşterileri kapsayabilir. Stratejiler, hedef kitle merkezli olmalıdır. Bununla birlikte, verilen mesajlarla hedef kitlenin zihninde, markanın nasıl konumlandığı oldukça önemlidir.<br />Konumlandırma Stratejisi<br />Yeniden Konumlandırma<br />Marka İmajı<br />Temel Satış Vaadi<br />Lovemarks<br />Star Stratejisi
 
     <hr />
 1. Bir ürün, hizmet ya da markanın, tüketicinin zihninde neyi temsil ettiği ve nasıl tanımlandığı ile ilgili stratejiye ne denir?
@@ -2398,8 +2083,7 @@
     - D-) Temel Satış Vaadi
     - E-) Lovemarks
 
-    > **Açıklama:** Konumlandırma Stratejisi
-    > Konumlandırma marka temelli iletişim stratejileri için kritik bir öneme sahiptir. Konumlandırma bir ürün, hizmet ya da markanın, tüketicinin zihninde neyi temsil ettiği ve nasıl tanımlandığı ile ilgilidir.
+    > **Açıklama:** Konumlandırma Stratejisi<br />Konumlandırma marka temelli iletişim stratejileri için kritik bir öneme sahiptir. Konumlandırma bir ürün, hizmet ya da markanın, tüketicinin zihninde neyi temsil ettiği ve nasıl tanımlandığı ile ilgilidir.
 
     <hr />
 1. Kapsayıcı Tanımlamalar<br />Sembolizm Vurgusu<br />Anlamlara ve Mesajlara Vurgu<br />Kişileştirme Vurgusu<br />Bilişsel veya Psikolojik Unsurlara Vurgu<br />Yukarıdaki başlıklar hangi imajın farklı kişiler tarafından tanımlanmış halidir?
@@ -2409,13 +2093,7 @@
     - D-) Lovemarks
     - E-) Star Stratejisi
 
-    > **Açıklama:** Marka imajı tanımlamasına dair birçok farklı yorum vardır ve kesin bir fikir birliği yoktur. Marka imajı çeşitli araştırmacılar tarafından farklı şekillerde tanımlanmıştır
-    > Kapsayıcı Tanımlamalar
-    > Sembolizm Vurgusu
-    > Anlamlara ve Mesajlara Vurgu
-    > Kişileştirme Vurgusu
-    > Bilişsel veya Psikolojik Unsurlara Vurgu
-    > Yukarıdaki balkıjkarn
+    > **Açıklama:** Marka imajı tanımlamasına dair birçok farklı yorum vardır ve kesin bir fikir birliği yoktur. Marka imajı çeşitli araştırmacılar tarafından farklı şekillerde tanımlanmıştır<br />Kapsayıcı Tanımlamalar<br />Sembolizm Vurgusu<br />Anlamlara ve Mesajlara Vurgu<br />Kişileştirme Vurgusu<br />Bilişsel veya Psikolojik Unsurlara Vurgu<br />Yukarıdaki balkıjkarn
 
     <hr />
 1. Unique kelimesinin anlamı aşağıdakilerden hangisidir?
@@ -2445,21 +2123,7 @@
     - D-) XI
     - E-) XII
 
-    > **Açıklama:** Roberts (2004), markaların Lovemark olmak için atlamaması gereken adımları listeler:
-    > Gerçekleştirin, gerçekleştirin, gerçekleştirin:
-    > Yenilikleri takip edin:
-    > Bağlılık sözü verin:
-    > Kolaylaştırın:
-    > Saklanmayın:
-    > İtibarınızı(Saygınlığınızı) koruyun:
-    > Öne geç ve orada kal:
-    > Doğruyu söyle:
-    > Bütünlüğe önem verin:
-    > Sorumluluğu kabul edin:
-    > Hizmet odaklı olun:
-    > Tasarımlarınıza önem verin:
-    > Değeri önemseyin:
-    > Güveni hak edin:
+    > **Açıklama:** Roberts (2004), markaların Lovemark olmak için atlamaması gereken adımları listeler:<br />Gerçekleştirin, gerçekleştirin, gerçekleştirin:<br />Yenilikleri takip edin:<br />Bağlılık sözü verin:<br />Kolaylaştırın:<br />Saklanmayın:<br />İtibarınızı(Saygınlığınızı) koruyun:<br />Öne geç ve orada kal:<br />Doğruyu söyle:<br />Bütünlüğe önem verin:<br />Sorumluluğu kabul edin:<br />Hizmet odaklı olun:<br />Tasarımlarınıza önem verin:<br />Değeri önemseyin:<br />Güveni hak edin:
 
     <hr />
 1. Reklamda Star Stratejisinin olumsuz yönü aşağıdakilerden hangisidir?
@@ -2469,8 +2133,7 @@
     - D-) Küresel kampanyalar desteklenebilir, marka iyi bir reklam yapabilir ve daha yüksek kârlar elde edebilir.
     - **Cevap E-) Ünlü, markayı gölgede bırakabilir.**
 
-    > **Açıklama:** Reklamda star stratejisi kullanımının markalar için olumlu ve olumsuz yönleri olabilir
-    > Ünlü, markayı gölgede bırakabilir.
+    > **Açıklama:** Reklamda star stratejisi kullanımının markalar için olumlu ve olumsuz yönleri olabilir<br />Ünlü, markayı gölgede bırakabilir.
 
     <hr />
 1. Reklamda Star Stratejisinin olumlu yönü aşağıdakilerden hangisidir?
@@ -2480,8 +2143,7 @@
     - D-) Ünlünün, halk tarafından tanınırlığının azalması sonucu önemi azalabilir.
     - E-) Marka imajında değişiklik yapılmak istenebilir ve o ünlü artık markaya uymayabilir. Bu sebeple markaya uymayan ya da basarısız bir ünlü ile uzun vadeli sözleşme yapılmış olabilir. Finansal riskleri vardır.
 
-    > **Açıklama:** Reklamda Star Stratejisinin Olumlu ve Olumsuz Yönleri
-    > Markanın tanınması sağlanır ve markaya karsı farkındalık yaratılır.
+    > **Açıklama:** Reklamda Star Stratejisinin Olumlu ve Olumsuz Yönleri<br />Markanın tanınması sağlanır ve markaya karsı farkındalık yaratılır.
 
     <hr />
 1. Star stratejisi .......................... ve karar verme süreçlerini etkileyen bir kullanımdır. Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -2491,11 +2153,7 @@
     - D-) sermaye ile üretim
     - E-) ekonomi
 
-    > **Açıklama:** Star stratejisi müşterilerin algısını ve karar verme süreçlerini etkileyen bir kullanımdır. Ünlü, reklamın
-    > hatırlanmasını ve hedef kitle ile bir bağ kurulmasını sağlar. Bununla birlikte, marka ile uyumlu olmayan
-    > bir ünlü seçimi, reklamda sunulması amaçlanan mesajın iletilmemesine ve tüketicide satın alma niyetinin
-    > ortaya çıkmamasına sebep olabilir. Star stratejisi, markalar tarafından sıkça kullanılan bir strateji olsa da
-    > riskleri göz önünde bulundurularak iyi bir şekilde planlanmalıdır.
+    > **Açıklama:** Star stratejisi müşterilerin algısını ve karar verme süreçlerini etkileyen bir kullanımdır. Ünlü, reklamın<br />hatırlanmasını ve hedef kitle ile bir bağ kurulmasını sağlar. Bununla birlikte, marka ile uyumlu olmayan<br />bir ünlü seçimi, reklamda sunulması amaçlanan mesajın iletilmemesine ve tüketicide satın alma niyetinin<br />ortaya çıkmamasına sebep olabilir. Star stratejisi, markalar tarafından sıkça kullanılan bir strateji olsa da<br />riskleri göz önünde bulundurularak iyi bir şekilde planlanmalıdır.
 
     <hr />
 1. Bir reklam, hedef kitlenin ihtiyaçlarının ve isteklerinin marka tarafından anlaşıldığını yansıtabiliyorsa aşağıdakilerden hangisi gerçekleşmiş olur?
@@ -2505,10 +2163,7 @@
     - D-) Temel ihtiyaç
     - E-) Star stratejisi
 
-    > **Açıklama:** Bir reklam, hedef kitlenin ihtiyaçlarının
-    > ve isteklerinin marka tarafından anlaşıldığını yansıtabiliyorsa
-    > bağlantılıdır.
-    > Bağlantılılık
+    > **Açıklama:** Bir reklam, hedef kitlenin ihtiyaçlarının<br />ve isteklerinin marka tarafından anlaşıldığını yansıtabiliyorsa<br />bağlantılıdır.<br />Bağlantılılık
 
     <hr />
 1. Farklı ülke ve bölgelerdeki tüketicilerin reklamı nasıl algıladıklarını aşağıdakilerden hangisi etkiler.
@@ -2518,8 +2173,7 @@
     - **Cevap D-) Kültür**
     - E-) Coğrafya
 
-    > **Açıklama:** Kültür, farklı ülke ve bölgelerdeki tüketicilerin
-    > reklamı nasıl algıladıklarını etkiler.
+    > **Açıklama:** Kültür, farklı ülke ve bölgelerdeki tüketicilerin<br />reklamı nasıl algıladıklarını etkiler.
 
     <hr />
 1. Birçok Asya ülkesindeki reklamcılar, bilişsel ve rasyonel çekicilikten ziyade .................. çekiciliği kullanır. Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -2529,9 +2183,7 @@
     - D-) teknik
     - **Cevap E-) duygusal**
 
-    > **Açıklama:** Birçok Asya
-    > ülkesindeki reklamcılar, bilişsel ve rasyonel çekicilikten
-    > ziyade duygusal çekiciliği kullanır.
+    > **Açıklama:** Birçok Asya<br />ülkesindeki reklamcılar, bilişsel ve rasyonel çekicilikten<br />ziyade duygusal çekiciliği kullanır.
 
     <hr />
 1. Aşağıdakilerden hangisi ya da hangileri bir markanın reklam stratejileriyle belirlenir?<br />I- Markanın; nasıl bir yol haritası çizeceğini<br />II-Markanın rakipleriyle nasıl rekabet edeceğini<br />III-Markanın tüketiciye nasıl mesajlar vereceğini
@@ -2541,8 +2193,7 @@
     - D-) Sadece III
     - E-) Sadece II
 
-    > **Açıklama:** REKLAM ÇALIŞMALARINDA YARATICI STRATEJİLER
-    > Stratejiler, bir markanın; nasıl bir yol haritası çizeceğini, kaynaklarını nasıl kullanma­sı gerektiğini, rakipleriyle nasıl rekabet edeceğini ve tüketiciye nasıl mesajlar vereceğini belirler.
+    > **Açıklama:** REKLAM ÇALIŞMALARINDA YARATICI STRATEJİLER<br />Stratejiler, bir markanın; nasıl bir yol haritası çizeceğini, kaynaklarını nasıl kullanma­sı gerektiğini, rakipleriyle nasıl rekabet edeceğini ve tüketiciye nasıl mesajlar vereceğini belirler.
 
     <hr />
 1. Metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?<br />“Pazar segmentlerinin nasıl hedeflenmesi gerektiğine ve nasıl konumlandırma yapılması ge­rektiğine dair daha iyi stratejik pazarlama kararları almanın temelini…………oluşturur.”
@@ -2552,8 +2203,7 @@
     - D-) Reklamcılık
     - E-) Reklam çekiciliği
 
-    > **Açıklama:** Marka İmajı
-    > Pazar segmentlerinin nasıl hedeflenmesi gerektiğine ve nasıl konumlandırma yapılması ge­rektiğine dair daha iyi stratejik pazarlama kararları almanın temelini marka imaji oluşturur.
+    > **Açıklama:** Marka İmajı<br />Pazar segmentlerinin nasıl hedeflenmesi gerektiğine ve nasıl konumlandırma yapılması ge­rektiğine dair daha iyi stratejik pazarlama kararları almanın temelini marka imaji oluşturur.
 
     <hr />
 1. Aşağıdakilerden hangisi ya da hangileri temel satış vaadi temelin­de yer alan kavramlar arasında yer alır?<br />I- Unique (Özgün)<br />II-Zaman<br />III- Proposition (Vaat)
@@ -2563,10 +2213,7 @@
     - D-) Sadece I
     - **Cevap E-) I ve III**
 
-    > **Açıklama:** Temel satış vaadi, bir ürünü başka bir üründen ayıran be­lirli nitelikler ile ilgilidir. Temel satış vaadi temelin­de üç kavramdan oluşur:
-    > *Unique (Özgün)*
-    > *Selling (Satış)*
-    > *Proposition (Vaat)*
+    > **Açıklama:** Temel satış vaadi, bir ürünü başka bir üründen ayıran be­lirli nitelikler ile ilgilidir. Temel satış vaadi temelin­de üç kavramdan oluşur:<br />*Unique (Özgün)*<br />*Selling (Satış)*<br />*Proposition (Vaat)*
 
     <hr />
 1. Yaratıcı bir fikrin ortaya çıkması yalnızca kişilik özellikleriyle sınırlı değildir ve yaratıcı süreç bir dizi adımlardan geçer. Aşağıdakilerden hangisi fikir sürecinin ilk adımıdır?
@@ -2576,10 +2223,7 @@
     - D-) Değerlendirme
     - E-) Aydınlanma evresi
 
-    > **Açıklama:** Yaratıcı Düşünme Süreci-Fikir Süreci
-    > Derinlemesine okuma: Konu hakkında bilgileri
-    > öğrenebilmek için detaylı araştırmalar gerekir ve
-    > o konu hakkında öğrenilebilecek her şey öğrenilmelidir.
+    > **Açıklama:** Yaratıcı Düşünme Süreci-Fikir Süreci<br />Derinlemesine okuma: Konu hakkında bilgileri<br />öğrenebilmek için detaylı araştırmalar gerekir ve<br />o konu hakkında öğrenilebilecek her şey öğrenilmelidir.
 
     <hr />
 1. Yaratıcı süreçte bir fikrin ortaya çıkmasında kişilik özellikleri önemli yer tutar, aşağıdakilerden hangisi ya da hangileri yaratıcı süreçte olması istenen kişilik özellikleri arasında yer alır?<br />I-Görselleştirme yeteneğinin olması<br />II-Problem çözebilme becerisinin olması<br />III-Orta yaş üstü olması
@@ -2589,12 +2233,7 @@
     - **Cevap D-) I ve II**
     - E-) Sadece II
 
-    > **Açıklama:** Yaratıcı Düşünme Süreci-Fikir Süreci
-    > *Problem çözen:* Yaratıcı kişiler dikkatli, gözlemci­dir ve sonuçlara mantık yerine sezgi yoluyla ulaşırlar.
-    > *Eğlenebilen:* Yaratıcı kişiler fikirlerle eğlenir ve zihinlerinde yeni çağrışımlar kurabilirler.
-    > *Görselleştirme yeteneği:* Bilgilerin çoğu görme yoluyla gelir. Bu nedenle görselleri **manipüle etme** yeteneği, tasarımcıların yanı sıra iyi metin yazarları için de önemlidir. Yaratıcı insanlar, ürünleri, insan­ları ve sahneleri henüz fikir aşamasındayken zihin­sel olarak görselleştirebilir ve bitmiş görüntüsünü hayal edebilirler.
-    > *Yeni deneyimlere açık:* Deneyime açık olmak, beraberinde yeni maceralar getirebilir. Bu dene­yimler, bir romancıya hakkında yazacak daha fazla karakter, bir ressama boyayacak daha fazla sahne ve yaratıcı bir ekibe fikir sağlayabilecek daha fazla ba­kış açısı verecektir.
-    > *Kavramsal düşünce:* Kavramsal düşünme, yeni fikir yaratma, soyut ve farklı fikirleri birleştirme pra­tiğidir. Kavramsal düşünürler, karmaşık bir işin işle­vini ya da dijital süreç gibi soyut kavramları kolayca anlayabilir. Yenilikçi fikirler bulmak için farklı kav­ramları birbirine bağlayabilir ve geçmiş ile gelecek arasında olumlu sonuçlar doğuracak bağlar kurabilir.
+    > **Açıklama:** Yaratıcı Düşünme Süreci-Fikir Süreci<br />*Problem çözen:* Yaratıcı kişiler dikkatli, gözlemci­dir ve sonuçlara mantık yerine sezgi yoluyla ulaşırlar.<br />*Eğlenebilen:* Yaratıcı kişiler fikirlerle eğlenir ve zihinlerinde yeni çağrışımlar kurabilirler.<br />*Görselleştirme yeteneği:* Bilgilerin çoğu görme yoluyla gelir. Bu nedenle görselleri **manipüle etme** yeteneği, tasarımcıların yanı sıra iyi metin yazarları için de önemlidir. Yaratıcı insanlar, ürünleri, insan­ları ve sahneleri henüz fikir aşamasındayken zihin­sel olarak görselleştirebilir ve bitmiş görüntüsünü hayal edebilirler.<br />*Yeni deneyimlere açık:* Deneyime açık olmak, beraberinde yeni maceralar getirebilir. Bu dene­yimler, bir romancıya hakkında yazacak daha fazla karakter, bir ressama boyayacak daha fazla sahne ve yaratıcı bir ekibe fikir sağlayabilecek daha fazla ba­kış açısı verecektir.<br />*Kavramsal düşünce:* Kavramsal düşünme, yeni fikir yaratma, soyut ve farklı fikirleri birleştirme pra­tiğidir. Kavramsal düşünürler, karmaşık bir işin işle­vini ya da dijital süreç gibi soyut kavramları kolayca anlayabilir. Yenilikçi fikirler bulmak için farklı kav­ramları birbirine bağlayabilir ve geçmiş ile gelecek arasında olumlu sonuçlar doğuracak bağlar kurabilir.
 
     <hr />
 1. Kevin Roberts’a göre aşağıdakilerden hangisi ya da hangileri Lovemark olmak isteyen işlet­melerin izlemeleri gereken ana unsurlar arasında yer alır?<br />I-Gizem<br />II-Duygusallık<br />III-Samimiyet
@@ -2604,8 +2243,7 @@
     - D-) Sadece I
     - E-) Sadece II
 
-    > **Açıklama:** Lovemarks
-    > Roberts’a göre Lovemark olmak isteyen işlet­meler üç ana unsur üzerinden ilerlemelidir: Gizem, duygusallık ve samimiyet.
+    > **Açıklama:** Lovemarks<br />Roberts’a göre Lovemark olmak isteyen işlet­meler üç ana unsur üzerinden ilerlemelidir: Gizem, duygusallık ve samimiyet.
 
     <hr />
 1. Aşağıdakilerden hangisi ya da hangileri reklamda star stratejisinin **olumlu** yönleri arasında yer alır?<br />I-Markanın tanınması sağlaması ve markaya farkındalık yaratması.<br />II-Markaya olan dikkati arttırması.<br />III-Ünlünün, markayı gölgede bırakması.
@@ -2615,9 +2253,7 @@
     - **Cevap D-) I ve II**
     - E-) Sadece II
 
-    > **Açıklama:** Reklam stratejisi
-    > Markaya olan dikkati arttırır, markanın yeni bir görünüme kavusmasını saglayabilir ve markaya yenilik getirir. Markanın tanınması saglanır ve markaya karsı farkındalık yaratılır. Ünlü ile marka konumlandırma, yeniden konumlandırma, marka yenileme stratejileri uygulanabilir. Küresel kampanyalar desteklenebilir, marka iyi bir reklam yapabilir ve daha yüksek kârlar elde edebilir.
-    > Ünlünün, markayı gölgede bırakması **olumsuz** yönler arasında sayılır.
+    > **Açıklama:** Reklam stratejisi<br />Markaya olan dikkati arttırır, markanın yeni bir görünüme kavusmasını saglayabilir ve markaya yenilik getirir. Markanın tanınması saglanır ve markaya karsı farkındalık yaratılır. Ünlü ile marka konumlandırma, yeniden konumlandırma, marka yenileme stratejileri uygulanabilir. Küresel kampanyalar desteklenebilir, marka iyi bir reklam yapabilir ve daha yüksek kârlar elde edebilir.<br />Ünlünün, markayı gölgede bırakması **olumsuz** yönler arasında sayılır.
 
     <hr />
 1. Aşağıdakilerden hangisi ya da hangileri reklamda star stratejisinin **olumsuz** yönleri arasında yer alır?<br />I-Markanın tanınması sağlaması ve markaya farkındalık yaratması.<br />II- Ünlünün, çok fazla markayla iş birliği yapmış olması.<br />III-Ünlünün, markayı gölgede bırakması.
@@ -2627,9 +2263,7 @@
     - D-) Sadece II
     - E-) I ve II
 
-    > **Açıklama:** Reklam stratejisi
-    > Ünlü, markayı gölgede bırakabilir. Ünlü, çok fazla markayla iş birliği yapmış olabilir bu da hedef kitlenin o ünlüden hoşlanmamasına sebep olabilir. Ünlünün, halk tarafından tanınırlığının azalması sonucu önemi azalabilir. Marka imajında değişiklik yapılmak istenebilir ve o ünlü artık markaya uymayabilir. Bu sebeple markaya uymayan ya da başarısız bir ünlü ile uzun vadeli sözleşme yapılmış olabilir. Finansal riskleri vardır.
-    > Markanın tanınması sağlaması ve markaya farkındalık yaratması **olumlu** yönler arasındadır.
+    > **Açıklama:** Reklam stratejisi<br />Ünlü, markayı gölgede bırakabilir. Ünlü, çok fazla markayla iş birliği yapmış olabilir bu da hedef kitlenin o ünlüden hoşlanmamasına sebep olabilir. Ünlünün, halk tarafından tanınırlığının azalması sonucu önemi azalabilir. Marka imajında değişiklik yapılmak istenebilir ve o ünlü artık markaya uymayabilir. Bu sebeple markaya uymayan ya da başarısız bir ünlü ile uzun vadeli sözleşme yapılmış olabilir. Finansal riskleri vardır.<br />Markanın tanınması sağlaması ve markaya farkındalık yaratması **olumlu** yönler arasındadır.
 
     <hr />
 1. “Shimp, ünlü kullanımının TEARS modeli olarak adlandırdığı…………özelliğe göre değerlendirilmesi gerektiğini belirtir”. Metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?
@@ -2639,8 +2273,7 @@
     - D-) Üç
     - E-) İki
 
-    > **Açıklama:** Star stratejisi
-    > Shimp, ünlü kullanımının TEARS modeli olarak adlandırdığı beş özelliğe göre değerlendirilmesi gerektiğini belirtir
+    > **Açıklama:** Star stratejisi<br />Shimp, ünlü kullanımının TEARS modeli olarak adlandırdığı beş özelliğe göre değerlendirilmesi gerektiğini belirtir
 
     <hr />
 1. Reklamda mizah çekiciliği kullanımında “açıkça belli olan ironik durumlar ya da yanıtlarla yaratılan mizah anlatım duruma ne ad verilir?
@@ -2650,16 +2283,7 @@
     - D-) Karşılaştırma
     - E-) Mavi Mizah
 
-    > **Açıklama:** Reklamda çekicilik kullanımı-mizah çekiciliği
-    > 1\. Karşılaştırma: Esprili bir durum yaratabil­mek için iki veya daha fazla unsur bir araya getirilir.
-    > 2\. Kişiselleştirme: İnsan özellikleri, hayvanla­ra, nesnelere ya da bitkilere atfedilir.
-    > 3\. Abartı: Bir şey orantısız bir şekilde abartılır ya da büyütülür.
-    > 4\. Kelime Oyunu: Mizahi bir anlatım yarat­mak için kelimeler farklı anlamlara çekilir.
-    > 5\. Alay: Açıkça belli olan ironik durumlar ya da yanıtlar yaratılır.
-    > 6\. Saçma Durum: Komik surat ifadeleri ya da gülünç durumlar oluşturulur.
-    > 7\. Sürpriz: Mizah, beklenmedik durumlar kullanılarak yaratılır.
-    > 8\. Kara Mizah: Ölüm, hastalık, ahlak veya seks gibi sosyal olarak tabu olan konuların ciddi yönlerini görmezden gelerek bu du­rumlara şakacı bir şekilde yaklaşır.
-    > 9\. Mavi Mizah: Cinsellik ve bedensel mizah üzerine kurulur.
+    > **Açıklama:** Reklamda çekicilik kullanımı-mizah çekiciliği<br />1\. Karşılaştırma: Esprili bir durum yaratabil­mek için iki veya daha fazla unsur bir araya getirilir.<br />2\. Kişiselleştirme: İnsan özellikleri, hayvanla­ra, nesnelere ya da bitkilere atfedilir.<br />3\. Abartı: Bir şey orantısız bir şekilde abartılır ya da büyütülür.<br />4\. Kelime Oyunu: Mizahi bir anlatım yarat­mak için kelimeler farklı anlamlara çekilir.<br />5\. Alay: Açıkça belli olan ironik durumlar ya da yanıtlar yaratılır.<br />6\. Saçma Durum: Komik surat ifadeleri ya da gülünç durumlar oluşturulur.<br />7\. Sürpriz: Mizah, beklenmedik durumlar kullanılarak yaratılır.<br />8\. Kara Mizah: Ölüm, hastalık, ahlak veya seks gibi sosyal olarak tabu olan konuların ciddi yönlerini görmezden gelerek bu du­rumlara şakacı bir şekilde yaklaşır.<br />9\. Mavi Mizah: Cinsellik ve bedensel mizah üzerine kurulur.
 
     <hr />
 1. Aşağıdakilerden hangisi veya hangileri Shimp'in TEARS modelinin özellikleridir?<br />I. Güvenilirlik (Trustworthiness)<br />II. Uzmanlık (Expertise)<br />III. Fiziksel çekicilik (Physical attractiveness)<br />IV. Saygı (Respect)<br />V. Benzerlik (Similarity)
@@ -2669,14 +2293,7 @@
     - D-) III/IV/V
     - E-) III/IV
 
-    > **Açıklama:** Shimp (2008), ünlü kullanımının TEARS modeli olarak adlandırdığı beş özelliğe göre değerlendirilmesi gerektiğini belirtir:
-    > |  |  |
-    > | --- | --- |
-    > | Güvenilirlik (Trustworthiness) | Markanın hedef kitlesi için ünlünün inanılır ve güvenilebilir biri olarak algılanması özelliği |
-    > | Uzmanlık (Expertise) | Ünlünün, markanın ürünüyle ilgili becerilere, bilgilere veya yeteneklere sahip olma özelliği |
-    > | Fiziksel çekicilik (Physical attractiveness) | Belirli bir grup için fiziksel çekicilik açısından hoş gözükme özelliği |
-    > | Saygı (Respect) | Ünlünün kişisel nitelikleri ve başarıları nedeniyle beğenilmesi ve saygı görmesi özelliği |
-    > | Benzerlik (Similarity) | Ünlünün markanın hedef kitlesiyle yaş, cinsiyet, etnik köken vb. açılardan ne derecede eşleştiği |
+    > **Açıklama:** Shimp (2008), ünlü kullanımının TEARS modeli olarak adlandırdığı beş özelliğe göre değerlendirilmesi gerektiğini belirtir:<br />|  |  |<br />| --- | --- |<br />| Güvenilirlik (Trustworthiness) | Markanın hedef kitlesi için ünlünün inanılır ve güvenilebilir biri olarak algılanması özelliği |<br />| Uzmanlık (Expertise) | Ünlünün, markanın ürünüyle ilgili becerilere, bilgilere veya yeteneklere sahip olma özelliği |<br />| Fiziksel çekicilik (Physical attractiveness) | Belirli bir grup için fiziksel çekicilik açısından hoş gözükme özelliği |<br />| Saygı (Respect) | Ünlünün kişisel nitelikleri ve başarıları nedeniyle beğenilmesi ve saygı görmesi özelliği |<br />| Benzerlik (Similarity) | Ünlünün markanın hedef kitlesiyle yaş, cinsiyet, etnik köken vb. açılardan ne derecede eşleştiği |
 
     <hr />
 1. Markanın hedef kitlesi için ünlünün inanılır ve güvenilebilir biri olarak algılanması özelliğine ne denir?
@@ -2797,11 +2414,7 @@
     - **Cevap D-) Günümüz dünyasında pozitif ve negatif estetik değerler bütünleştirilmiştir.**
     - E-) Güzel olan duygular sanatta yer edinebilir, olmayanlar sanata dahil değildir.
 
-    > **Açıklama:** “Çağdaş estetik kuramcılarına göre çağımızda sanatları belirleyen yalnızca ‘güzellik’
-    > kavramı değildir. Onlar bu kategoriye, trajik, iğneleyici, dehşet verici ve bunun gibi güzel olmayan
-    > duyguları da katmaktadırlar. Çünkü güzellik kadar çirkinlik de bir estetik kategorisi olmuş, negatif ve
-    > pozitif estetik değerler bütünleştirilmiştir. Çünkü çirkinlik de olumsuz olmakla birlikte sanatsal-estetik bir değerdir. Bu durumda estetik güzel olandan ziyade daha geniş bir alanı içine almaktadır”
-    > Günümüz dünyasında pozitif ve negatif estetik değerler bütünleştirilmiştir.
+    > **Açıklama:** “Çağdaş estetik kuramcılarına göre çağımızda sanatları belirleyen yalnızca ‘güzellik’<br />kavramı değildir. Onlar bu kategoriye, trajik, iğneleyici, dehşet verici ve bunun gibi güzel olmayan<br />duyguları da katmaktadırlar. Çünkü güzellik kadar çirkinlik de bir estetik kategorisi olmuş, negatif ve<br />pozitif estetik değerler bütünleştirilmiştir. Çünkü çirkinlik de olumsuz olmakla birlikte sanatsal-estetik bir değerdir. Bu durumda estetik güzel olandan ziyade daha geniş bir alanı içine almaktadır”<br />Günümüz dünyasında pozitif ve negatif estetik değerler bütünleştirilmiştir.
 
     <hr />
 1. Fotoğraf terminolojisinde kadraj ya da çevre düzenlemesi görsel bir anlatının temel yapısal ögelerinden hangisine işaret eder?
@@ -2821,8 +2434,7 @@
     - D-) I ve III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** Her bir seçenek yaratıcılık performansıyla ilişkilidir.
-    > I,II ve III
+    > **Açıklama:** Her bir seçenek yaratıcılık performansıyla ilişkilidir.<br />I,II ve III
 
     <hr />
 1. Görsel iletişimde ve sanatta, anlamı oluşturan temel yapı taşı aşağıdakilerden hangisidir?
@@ -2842,10 +2454,7 @@
     - **Cevap D-) Geniş toplulukları etkileyebilme potansiyeli**
     - E-) Fordist üretimin istihdam etkileri
 
-    > **Açıklama:** İki Dünya Savaşı arasındaki dönemle
-    > birlikte kitle iletişim araçlarının geniş toplulukları etkileyebilme potansiyeli nedeniyle propaganda
-    > aracı olarak görülmesini sağlamıştır.
-    > Geniş toplulukları etkileyebilme potansiyeli
+    > **Açıklama:** İki Dünya Savaşı arasındaki dönemle<br />birlikte kitle iletişim araçlarının geniş toplulukları etkileyebilme potansiyeli nedeniyle propaganda<br />aracı olarak görülmesini sağlamıştır.<br />Geniş toplulukları etkileyebilme potansiyeli
 
     <hr />
 1. Fotoğrafın aşağıdaki hangi özelliği kitle iletişim aracı olarak avantaj sağlarken sanat disiplini açısından dezavantaj yaratır?
@@ -2855,8 +2464,7 @@
     - D-) Geçmişe ait izleri günümüze taşıması
     - E-) Teknik araçların kullanılması
 
-    > **Açıklama:** fotoğrafın üretim sürecinde teknik araçların kullanılması daha kolayca ve sınırsız sayıda çoğaltılabilme özelliğini de öne çıkarmaktadır. Kitle iletişimi açısından bu özellik avantaj sağlarken, öte yandan sanat eserlerinin değerlendirilmesinde önemli bir kriter olan “biriciklik” özelliğinin de ortadan kalkmasını sağlamıştır. Bu durum iletişim aracı olarak fotoğrafa avantaj sağlarken, sanat disiplini olarak ise dezavantaj yaratmıştır.
-    > Kolayca ve sınırsız sayıda çoğaltılması
+    > **Açıklama:** fotoğrafın üretim sürecinde teknik araçların kullanılması daha kolayca ve sınırsız sayıda çoğaltılabilme özelliğini de öne çıkarmaktadır. Kitle iletişimi açısından bu özellik avantaj sağlarken, öte yandan sanat eserlerinin değerlendirilmesinde önemli bir kriter olan “biriciklik” özelliğinin de ortadan kalkmasını sağlamıştır. Bu durum iletişim aracı olarak fotoğrafa avantaj sağlarken, sanat disiplini olarak ise dezavantaj yaratmıştır.<br />Kolayca ve sınırsız sayıda çoğaltılması
 
     <hr />
 1. İnci San'a göre yaratıcılık süreci sonunda ortaya çıkan nesne hangi özellik/özellikleri taşımalıdır?<br />I) Yanlılık<br />II) Soyutluk<br />III) Olağanüstülük<br />IV) Değişik olma<br />V) Kural dışılık
@@ -2866,10 +2474,7 @@
     - D-) II,III,IV ve V
     - E-) I,II,III,IV ve V
 
-    > **Açıklama:** İnci San’a göre yaratıcılık sürecinde ilk olarak özne tarafından daha önce görülmemiş ve deneyimlenmemiş bir yenilik ortaya konulmalıdır. Yaratım sürecinde özne “sezgi, imgelem, deneme, araştırma, sınama, bulma, kalıplardan kurtulma, yeniden kurma gibi birtakım yeti, olgu ve niteliklere, merak gibi bir çıkış ve özgünlük gibi” olgularla yaklaşım sağlamalıdır.
-    > San, bu sürecin sonunda ortaya çıkan nesnenin sahip olması gereken nitelikleri “yenilik, özgünlük,
-    > olağanüstülük, kuraldışılık, değişik olma” olarak ifade eder
-    > III, IV ve V
+    > **Açıklama:** İnci San’a göre yaratıcılık sürecinde ilk olarak özne tarafından daha önce görülmemiş ve deneyimlenmemiş bir yenilik ortaya konulmalıdır. Yaratım sürecinde özne “sezgi, imgelem, deneme, araştırma, sınama, bulma, kalıplardan kurtulma, yeniden kurma gibi birtakım yeti, olgu ve niteliklere, merak gibi bir çıkış ve özgünlük gibi” olgularla yaklaşım sağlamalıdır.<br />San, bu sürecin sonunda ortaya çıkan nesnenin sahip olması gereken nitelikleri “yenilik, özgünlük,<br />olağanüstülük, kuraldışılık, değişik olma” olarak ifade eder<br />III, IV ve V
 
     <hr />
 1. Timuroğlu'na göre güzel sanatlar diye bilinen edimlerin temel ögesi olan sanatsal yaratışın ilk adımı aşağıdakilerden hangisidir?
@@ -2889,10 +2494,7 @@
     - D-) Zaman farklılıklarını ortadan kaldırır
     - E-) Mekan farklılıklarını ortadan kaldırır.
 
-    > **Açıklama:** Ancak fotoğraflar günümüzde dijital medya olarak da ifade edilen internet ve sosyal medya aracılığıyla daha çok ekranlardan izlenmektedir. Dijital medya olarak da tanımlanan bu mecralarda yeni
-    > sergileme/paylaşma/izlenme biçimleri ve deneyimleri söz konusudur. Bu ortamın sağladığı olanaklar ağlar üzerinden daha geniş bir kitleye ulaşabilme imkânı tanırken, öte yandan da zaman ve mekân
-    > farklılıklarını da ortadan kaldırmaktadır. “Dijital medya zamanı ve mekânı yeniden tanımlarken; soyutlamaya, doğrusal olmamaya, asenkronize, kodların dokunun üstünde dans etmesine, çoklu yazarlara ve hepsinden de önemlisi bildiğimiz doğanın sahteleşmesine avantaj sağlıyor.
-    > Görsel manipülasyonlardan ve realist olmayandan uzaktır.
+    > **Açıklama:** Ancak fotoğraflar günümüzde dijital medya olarak da ifade edilen internet ve sosyal medya aracılığıyla daha çok ekranlardan izlenmektedir. Dijital medya olarak da tanımlanan bu mecralarda yeni<br />sergileme/paylaşma/izlenme biçimleri ve deneyimleri söz konusudur. Bu ortamın sağladığı olanaklar ağlar üzerinden daha geniş bir kitleye ulaşabilme imkânı tanırken, öte yandan da zaman ve mekân<br />farklılıklarını da ortadan kaldırmaktadır. “Dijital medya zamanı ve mekânı yeniden tanımlarken; soyutlamaya, doğrusal olmamaya, asenkronize, kodların dokunun üstünde dans etmesine, çoklu yazarlara ve hepsinden de önemlisi bildiğimiz doğanın sahteleşmesine avantaj sağlıyor.<br />Görsel manipülasyonlardan ve realist olmayandan uzaktır.
 
     <hr />
 1. Kimyasal ya da dijital yollarla elde edilmiş bir görüntünün bilgisayar ortamına aktarılarak, yazılımlar aracılığıyla, görüntünün bir kısmına ya da bütününe yapılan müdahale ve değişiklikler aşağıdaki hangi kavramı ifade eder?
@@ -2902,8 +2504,7 @@
     - D-) Manipülasyon
     - E-) Aktarma
 
-    > **Açıklama:** Görüntü İşleme: Kimyasal ya da dijital yollarla elde edilmiş bir görüntünün bilgisayar ortamına aktarılarak, yazılımlar aracılığıyla, görüntünün bir kısmına ya da
-    > bütününe yapılan müdahale ve değişikliklere görüntü işleme denilmektedir.
+    > **Açıklama:** Görüntü İşleme: Kimyasal ya da dijital yollarla elde edilmiş bir görüntünün bilgisayar ortamına aktarılarak, yazılımlar aracılığıyla, görüntünün bir kısmına ya da<br />bütününe yapılan müdahale ve değişikliklere görüntü işleme denilmektedir.
 
     <hr />
 1. Aşağıdakilerden hangisi ya da hangileri fotoğrafın estetik düzeyini belirleyen teknik özellikler arasında yer alır?<br />I-Kadraj<br />II-Pozlama<br />III-Mesaj
@@ -2913,8 +2514,7 @@
     - D-) II ve III
     - E-) sadece III
 
-    > **Açıklama:** GÖRSEL İLETİŞİM, FOTOĞRAF VE YARATICILIK
-    > Üretilen her bir fotoğraf öncelikle teknik özel­likleri itibarıyla doğru ve başarılı olmalıdır. **Netlik, kadraj, pozlama, aydınlatma, zamanlama, renk ve ton değerleri, baskısı vb. nitelikleri** fotoğrafın ilk göze çarpan teknik özellikleridir ki aynı zamanda estetik düzeyini de belirlerler. Teknik özellikleri dı­şında fotoğrafın taşıdığı mesaj, verdiği bilgi, sıra dı­şılığı, şaşırtıcılığı, yenilikçiliği, eşsizliği, özgünlüğü, fotoğrafçının; bakış açısı, tarzı, yarattığı atmosfer, uyandırdığı duygu(lar) ve tüm bunların toplamını yansıtan “***yaratıcı***”lığıdır.
+    > **Açıklama:** GÖRSEL İLETİŞİM, FOTOĞRAF VE YARATICILIK<br />Üretilen her bir fotoğraf öncelikle teknik özel­likleri itibarıyla doğru ve başarılı olmalıdır. **Netlik, kadraj, pozlama, aydınlatma, zamanlama, renk ve ton değerleri, baskısı vb. nitelikleri** fotoğrafın ilk göze çarpan teknik özellikleridir ki aynı zamanda estetik düzeyini de belirlerler. Teknik özellikleri dı­şında fotoğrafın taşıdığı mesaj, verdiği bilgi, sıra dı­şılığı, şaşırtıcılığı, yenilikçiliği, eşsizliği, özgünlüğü, fotoğrafçının; bakış açısı, tarzı, yarattığı atmosfer, uyandırdığı duygu(lar) ve tüm bunların toplamını yansıtan “***yaratıcı***”lığıdır.
 
     <hr />
 1. Aşağıdakilerden hangisi ya da hangileri fotoğrafın estetik düzeyini belirleyen teknik özellikleri **dışındaki** unsurlardandır?<br />I-Özgünlük<br />II-Pozlama<br />III-Taşıdığı mesaj
@@ -2924,8 +2524,7 @@
     - D-) I ve II
     - E-) sadece III
 
-    > **Açıklama:** GÖRSEL İLETİŞİM, FOTOĞRAF VE YARATICILIK
-    > Üretilen her bir fotoğraf öncelikle teknik özel­likleri itibarıyla doğru ve başarılı olmalıdır. Netlik, kadraj, pozlama, aydınlatma, zamanlama, renk ve ton değerleri, baskısı vb. nitelikleri fotoğrafın ilk göze çarpan teknik özellikleridir ki aynı zamanda estetik düzeyini de belirlerler. Teknik özellikleri dı­şında fotoğrafın taşıdığı **mesaj, verdiği bilgi, sıra dı­şılığı, şaşırtıcılığı, yenilikçiliği, eşsizliği, özgünlüğü, fotoğrafçının; bakış açısı, tarzı, yarattığı atmosfer, uyandırdığı duygu(lar)** ve tüm bunların toplamını yansıtan “***yaratıcı***”lığıdır.
+    > **Açıklama:** GÖRSEL İLETİŞİM, FOTOĞRAF VE YARATICILIK<br />Üretilen her bir fotoğraf öncelikle teknik özel­likleri itibarıyla doğru ve başarılı olmalıdır. Netlik, kadraj, pozlama, aydınlatma, zamanlama, renk ve ton değerleri, baskısı vb. nitelikleri fotoğrafın ilk göze çarpan teknik özellikleridir ki aynı zamanda estetik düzeyini de belirlerler. Teknik özellikleri dı­şında fotoğrafın taşıdığı **mesaj, verdiği bilgi, sıra dı­şılığı, şaşırtıcılığı, yenilikçiliği, eşsizliği, özgünlüğü, fotoğrafçının; bakış açısı, tarzı, yarattığı atmosfer, uyandırdığı duygu(lar)** ve tüm bunların toplamını yansıtan “***yaratıcı***”lığıdır.
 
     <hr />
 1. Aşağıdakilerden hangisi ya da hangileri fotoğrafçının yaratıcılık düzeyini belirleyen göstergeler arasında yer alır?<br />I-Fotoğrafçının yaşı ve konumu<br />II- Fotoğrafçının ele aldığı içeriğin fikirsel ve felsefi boyutu<br />III-İmgeye dönüştürmede ortaya koyduğu yaratıcı fikirler
@@ -2935,8 +2534,7 @@
     - **Cevap D-) II ve III**
     - E-) I ve III
 
-    > **Açıklama:** FOTOĞRAFIN FİKİR GELİŞTİRME AŞAMASINDA YARATICILIK
-    > Fotoğrafın fikir anlamında iki farklı boyutu bulunur. Biri ele alınan içeriğin işlenip, yorumlanmasıyla izleyicilerine verdiği bilgi ve mesajlardır. Bir diğeri ise içeriğin biçime dönüştürülmesinde anlatı ögelerine yönelik tercihlerin fikir olarak değerlendirilmesidir. **Fotoğ­rafçının hem ele aldığı içeriğin fikirsel ve felsefi boyutu, hem de imgeye dönüştürülme sürecinin yaratıcı fikirlerden oluşması ortaya çıkan ürün/eser olarak fotoğraf kadar fotoğrafçının da yaratıcılık düzeyinin göstergesi olarak kabul edilir.**
+    > **Açıklama:** FOTOĞRAFIN FİKİR GELİŞTİRME AŞAMASINDA YARATICILIK<br />Fotoğrafın fikir anlamında iki farklı boyutu bulunur. Biri ele alınan içeriğin işlenip, yorumlanmasıyla izleyicilerine verdiği bilgi ve mesajlardır. Bir diğeri ise içeriğin biçime dönüştürülmesinde anlatı ögelerine yönelik tercihlerin fikir olarak değerlendirilmesidir. **Fotoğ­rafçının hem ele aldığı içeriğin fikirsel ve felsefi boyutu, hem de imgeye dönüştürülme sürecinin yaratıcı fikirlerden oluşması ortaya çıkan ürün/eser olarak fotoğraf kadar fotoğrafçının da yaratıcılık düzeyinin göstergesi olarak kabul edilir.**
 
     <hr />
 1. “Kişiye ya da döneme özgü bir anlatım şekli olarak da değerlendirilen ……….., yaratıcı bir sanatçının tüm eserlerin­de bulunan ortak bir özellik olarak görülür. Bu özellikler sanatçıyı ve eserlerini tanıyanlar için imza niteliği taşımaktadır.”<br />Metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?
@@ -2946,8 +2544,7 @@
     - D-) Donanım
     - E-) Zaman
 
-    > **Açıklama:** Yaratıcı Özne Olarak Fotoğrafçı
-    > Bir fotoğrafçı için tarz geliştirmek zamana, deneyime ve yeteneğe bağlı olarak değişkenlik gösterir. Tarz sahibi olmak alanında “ustalık” vasfına ulaşabilmeyi de sağlar. Tarz, yaratıcı bir sanatçının tüm eserlerin­de bulunan ortak bir özellik olarak görülür. Bu özellikler sanatçıyı ve eserlerini tanıyanlar için imza niteliği taşımaktadır. Tarz sahibi fotoğraflar açıklayıcı bilgiye ihtiyaç duymadan da kime ya da hangi döneme ait olduğunu belli ederler.
+    > **Açıklama:** Yaratıcı Özne Olarak Fotoğrafçı<br />Bir fotoğrafçı için tarz geliştirmek zamana, deneyime ve yeteneğe bağlı olarak değişkenlik gösterir. Tarz sahibi olmak alanında “ustalık” vasfına ulaşabilmeyi de sağlar. Tarz, yaratıcı bir sanatçının tüm eserlerin­de bulunan ortak bir özellik olarak görülür. Bu özellikler sanatçıyı ve eserlerini tanıyanlar için imza niteliği taşımaktadır. Tarz sahibi fotoğraflar açıklayıcı bilgiye ihtiyaç duymadan da kime ya da hangi döneme ait olduğunu belli ederler.
 
     <hr />
 1. Fotoğrafın çekim aşamasında aşağıdakilerden hangisi ya da hangileri fotoğrafçının yaratıcı performansını belirleyen anlatı ögelerindendir?<br />I-Işık ve pozlama<br />II-Kompozisyon oluşturma<br />III-Çekim tekniği
@@ -2957,8 +2554,7 @@
     - D-) sadece III
     - E-) sadece II
 
-    > **Açıklama:** FOTOĞRAFIN ÇEKİM AŞAMASINDA YARATICILIK
-    > Çekim aşamasında fotoğrafçının yaratıcı performansını belirleyen üç temel anlatı ögesi bulunur. Bunlar ışık ve pozlama, kompozisyon oluşturma ve çekim teknikleridir.
+    > **Açıklama:** FOTOĞRAFIN ÇEKİM AŞAMASINDA YARATICILIK<br />Çekim aşamasında fotoğrafçının yaratıcı performansını belirleyen üç temel anlatı ögesi bulunur. Bunlar ışık ve pozlama, kompozisyon oluşturma ve çekim teknikleridir.
 
     <hr />
 1. Fotoğraf çekim aşamasında ışığın yansıtma özellikleri aşağıdakilerden hangisi ya da hangilerinde değişkenlik gösterir?<br />I-Yüzeyin hangi malzemeden yapıldığına<br />II-Yüzeyin pürüzlü ya da düz olmasına<br />III-Yü­zeyin parlak ve mat olmasına
@@ -2968,8 +2564,7 @@
     - D-) sadece III
     - **Cevap E-) I, II ve III**
 
-    > **Açıklama:** FOTOĞRAFIN ÇEKİM AŞAMASINDA YARATICILIK
-    > Işığın yansıtma özellikleri ise **nesnelerin dış yü­zeyinin parlak ve mat olmalarına, düz ve pürüzlü ol­malarına aynı zamanda ahşap, kumaş, cam, metal, taş vb. maddelerden oluşmalarına göre değişkenlik gösterir.** Parlak, düz yüzeylere sahip cam ve metal gibi maddelerden oluşan nesneler ışığı daha fazla yansıtırken, diğer maddelerin yansıtma özellikleri daha az, emme (soğurma) özellikleri daha fazladır.
+    > **Açıklama:** FOTOĞRAFIN ÇEKİM AŞAMASINDA YARATICILIK<br />Işığın yansıtma özellikleri ise **nesnelerin dış yü­zeyinin parlak ve mat olmalarına, düz ve pürüzlü ol­malarına aynı zamanda ahşap, kumaş, cam, metal, taş vb. maddelerden oluşmalarına göre değişkenlik gösterir.** Parlak, düz yüzeylere sahip cam ve metal gibi maddelerden oluşan nesneler ışığı daha fazla yansıtırken, diğer maddelerin yansıtma özellikleri daha az, emme (soğurma) özellikleri daha fazladır.
 
     <hr />
 1. Aşağıdakiler hangisi ya da hangileri fotoğraf çekimlerinde kullanılan doğal ışık kaynakları arasında yer alır?<br />I-Yıldızlar<br />II-Projektör<br />III-Güneş
@@ -2979,8 +2574,7 @@
     - D-) sadece II
     - E-) I ve II
 
-    > **Açıklama:** Işık ve Pozlamanın Yaratıcı Kullanımı
-    > **Güneş ve yıldızlar doğal ışık kaynağı** olarak kabul edilirken, diğerleri ise yapay ışık kaynağı olarak tanımlanır. Her ışık kaynağının bir ışık yayma gücü vardır.
+    > **Açıklama:** Işık ve Pozlamanın Yaratıcı Kullanımı<br />**Güneş ve yıldızlar doğal ışık kaynağı** olarak kabul edilirken, diğerleri ise yapay ışık kaynağı olarak tanımlanır. Her ışık kaynağının bir ışık yayma gücü vardır.
 
     <hr />
 1. “Işık yarı saydam bir yüzeyden geçerken bir miktar soğurulma ve kırılmaya uğrayarak nesneye ulaşıp aydınlatırsa …………….olarak tanımlanır.”<br />Metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?
@@ -2990,8 +2584,7 @@
     - D-) Yansıyan ışık
     - E-) Arka aydınlatma
 
-    > **Açıklama:** Işık ve Pozlamanın Yaratıcı Kullanımı
-    > Işık yarı saydam bir yüzeyden geçerken bir miktar soğurulma ve kırılmaya uğrayarak nesneye ulaşıp aydınlatırsa süzülmüş ışık olarak tanımlanır.
+    > **Açıklama:** Işık ve Pozlamanın Yaratıcı Kullanımı<br />Işık yarı saydam bir yüzeyden geçerken bir miktar soğurulma ve kırılmaya uğrayarak nesneye ulaşıp aydınlatırsa süzülmüş ışık olarak tanımlanır.
 
     <hr />
 1. “Iso, enstantane ve diyafram değerleriyle birlikte konudan yansıyan ışığın optimum bir biçimde algılayıcı yüzeye düşürülme ve kaydedilme işlemine ……………adı verilir”.<br />Metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?
@@ -3001,9 +2594,7 @@
     - **Cevap D-) Pozlandırma**
     - E-) Post prodüksiyon
 
-    > **Açıklama:** Işık ve Pozlamanın Yaratıcı Kullanımı
-    > Pozlandırma, Iso, enstantane ve diyafram değerleriyle birlikte konudan yansıyan ışığın optimum bir
-    > biçimde algılayıcı yüzeye düşürülme ve kaydedilme işlemidir.
+    > **Açıklama:** Işık ve Pozlamanın Yaratıcı Kullanımı<br />Pozlandırma, Iso, enstantane ve diyafram değerleriyle birlikte konudan yansıyan ışığın optimum bir<br />biçimde algılayıcı yüzeye düşürülme ve kaydedilme işlemidir.
 
     <hr />
 1. Kimyasal ya da dijital yollarla elde edilmiş bir görüntünün bil­gisayar ortamına aktarılarak, yazılımlar aracılığıyla, görüntünün bir kısmına ya da bütününe yapılan müdahale ve değişiklik­lere …………denilmektedir.<br />Metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?
@@ -3013,8 +2604,7 @@
     - D-) Post prodüksiyon
     - E-) Kompozisyon
 
-    > **Açıklama:** ÇEKİM SONRASI SÜREÇLERDE YARATICILIK
-    > Kimyasal ya da dijital yollarla elde edilmiş bir görüntünün bil­gisayar ortamına aktarılarak, yazılımlar aracılığıyla, görüntünün bir kısmına ya da bütününe yapılan müdahale ve değişiklik­lere **görüntü işleme** denilmektedir
+    > **Açıklama:** ÇEKİM SONRASI SÜREÇLERDE YARATICILIK<br />Kimyasal ya da dijital yollarla elde edilmiş bir görüntünün bil­gisayar ortamına aktarılarak, yazılımlar aracılığıyla, görüntünün bir kısmına ya da bütününe yapılan müdahale ve değişiklik­lere **görüntü işleme** denilmektedir
 
     <hr />
 1. Aşağıdakilerin hangisi bir fotoğrafın yaratıcı bulunmasını etkileyen faktörlerden birisi değildir?
@@ -3124,8 +2714,7 @@
     - D-) Tasarım
     - E-) Baskı
 
-    > **Açıklama:** Fotoğrafın ortaya çıkarıldığı üretim süreci kabaca hazırlık/tasarım, çekim, çekim sonrası işlemler (post prodüksiyon), baskı ve sunum aşamalarından oluşmaktadır. Her bir süreç, nihai bir ürün olarak fotoğrafın teknik kalitesi kadar izleyicide yaratacağı etkinin seviyesini belirleyecek derecede önemlidir. Örneğin, diğer tüm aşamalarda üstün bir performans gösterildiği hâlde, fotoğraf baskısının teknik yetersizliği ya da kalitesizliği sonuca olumsuz yansır. Öte yandan fikirsel
-    > dayanağı yetersiz bir fotoğraf, diğer aşamalarda özen gösterilse de izleyicide yaratacağı etki kısa süreli olacak ve yetersiz bir nitelik olarak ortaya çıkacaktır.
+    > **Açıklama:** Fotoğrafın ortaya çıkarıldığı üretim süreci kabaca hazırlık/tasarım, çekim, çekim sonrası işlemler (post prodüksiyon), baskı ve sunum aşamalarından oluşmaktadır. Her bir süreç, nihai bir ürün olarak fotoğrafın teknik kalitesi kadar izleyicide yaratacağı etkinin seviyesini belirleyecek derecede önemlidir. Örneğin, diğer tüm aşamalarda üstün bir performans gösterildiği hâlde, fotoğraf baskısının teknik yetersizliği ya da kalitesizliği sonuca olumsuz yansır. Öte yandan fikirsel<br />dayanağı yetersiz bir fotoğraf, diğer aşamalarda özen gösterilse de izleyicide yaratacağı etki kısa süreli olacak ve yetersiz bir nitelik olarak ortaya çıkacaktır.
 
     <hr />
 1. Fotoğrafın üretim sürecinde teknik araçların kullanılması daha kolayca ve sınırsız sayıda çoğaltılabilme özelliğini öne çıkarması sanat eserlerinin değerlendirilmesinde önemli bir kriter olan hangi özelliğin ortadan kalkmasına sebep olmuştur?
@@ -3135,8 +2724,7 @@
     - **Cevap D-) Biriciklik**
     - E-) Etkileyicilik
 
-    > **Açıklama:** Fotoğrafın teknik araçlarla ortaya çıkarılması/üretilmesi onun çizim gerektiren diğer görsel anlatım araçlarına göre daha hızlı ve gerçekçi bir görsel
-    > anlatım aracı olarak görülmesini sağlamıştır. Ancak fotoğrafın üretim sürecinde teknik araçların kullanılması daha kolayca ve sınırsız sayıda çoğaltılabilme özelliğini de öne çıkarmaktadır. Kitle iletişimi açısından bu özellik avantaj sağlarken, öte yandan sanat eserlerinin değerlendirilmesinde önemli bir kriter olan “biriciklik” özelliğinin de ortadan kalkmasını sağlamıştır. Bu durum iletişim aracı olarak fotoğrafa avantaj sağlarken, sanat disiplini olarak ise dezavantaj yaratmıştır
+    > **Açıklama:** Fotoğrafın teknik araçlarla ortaya çıkarılması/üretilmesi onun çizim gerektiren diğer görsel anlatım araçlarına göre daha hızlı ve gerçekçi bir görsel<br />anlatım aracı olarak görülmesini sağlamıştır. Ancak fotoğrafın üretim sürecinde teknik araçların kullanılması daha kolayca ve sınırsız sayıda çoğaltılabilme özelliğini de öne çıkarmaktadır. Kitle iletişimi açısından bu özellik avantaj sağlarken, öte yandan sanat eserlerinin değerlendirilmesinde önemli bir kriter olan “biriciklik” özelliğinin de ortadan kalkmasını sağlamıştır. Bu durum iletişim aracı olarak fotoğrafa avantaj sağlarken, sanat disiplini olarak ise dezavantaj yaratmıştır
 
     <hr />
 1. Sanatsal yaratışın ilk adımı aşağıdakilerden hangisidir?
@@ -3176,8 +2764,7 @@
     - **Cevap D-) Telefon**
     - E-) Televizyon
 
-    > **Açıklama:** teknolojik gelişmeler doğrultusunda gazete, dergi, radyo, televizyon vb. kitle iletişim araçları kullanılmaya başlanmıştır.
-    > Telefon
+    > **Açıklama:** teknolojik gelişmeler doğrultusunda gazete, dergi, radyo, televizyon vb. kitle iletişim araçları kullanılmaya başlanmıştır.<br />Telefon
 
     <hr />
 1. Fotoğraf, çoğunlukla merkezinde………………. yer aldığı, buna ek olarak birçok teknik donanım ve yazılımın da bu süreç içerisinde kullanıldığı bir ürün olarak ortaya çıkmaktadır.<br />Yukarıdaki cümledeki boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -3207,8 +2794,7 @@
     - D-) Aydınlatma
     - **Cevap E-) Pozlama**
 
-    > **Açıklama:** Pozlandırma, Iso, enstantane ve diyafram değerleriyle birlikte konudan yansıyan ışığın optimum bir
-    > biçimde algılayıcı yüzeye düşürülme ve kaydedilme işlemidir. Bu nedenle her üç değişkenin farklı değerlerinden kombinasyonlarla farklı poz değerleri pozometre kullanılarak ayarlanabilir. Pozlama işleminde kaynaktan gelen ve konudan yansıyan ışığın doğru ölçümlenip kaydedilmesi kadar, çerçeve içerisinde yer alan nesnelerin yüzeylerindeki doku ve detayların da kayıpsız bir biçimde elde edilmesine çalışılır. Poz değerleri aynı zamanda renklerin ve tonların açıklık koyuluk ilişkilerini de belirler. Bu nedenle bazı özel ışık koşullarında az ya da çok pozlama yapılarak nesne üzerine düşen ışığa müdahale edilerek ışığın miktarı kontrol edilir.
+    > **Açıklama:** Pozlandırma, Iso, enstantane ve diyafram değerleriyle birlikte konudan yansıyan ışığın optimum bir<br />biçimde algılayıcı yüzeye düşürülme ve kaydedilme işlemidir. Bu nedenle her üç değişkenin farklı değerlerinden kombinasyonlarla farklı poz değerleri pozometre kullanılarak ayarlanabilir. Pozlama işleminde kaynaktan gelen ve konudan yansıyan ışığın doğru ölçümlenip kaydedilmesi kadar, çerçeve içerisinde yer alan nesnelerin yüzeylerindeki doku ve detayların da kayıpsız bir biçimde elde edilmesine çalışılır. Poz değerleri aynı zamanda renklerin ve tonların açıklık koyuluk ilişkilerini de belirler. Bu nedenle bazı özel ışık koşullarında az ya da çok pozlama yapılarak nesne üzerine düşen ışığa müdahale edilerek ışığın miktarı kontrol edilir.
 
     <hr />
 1. “İcat edildiği günden itibaren fotoğraf bir sanat dalı olarak tanınma mücadelesi verdi.”<br />Yukarıdaki cümleyi aşağıdakilerden hangisi söylemiştir?
@@ -3218,8 +2804,7 @@
     - D-) Haggins
     - **Cevap E-) Higgins**
 
-    > **Açıklama:** “İcat edildiği günden itibaren fotoğraf bir sanat dalı olarak tanınma mücadelesi verdi. Mekanik ve otomatik doğası, birçok kişinin onu sanatsal bece-
-    > ri ve yorum gerektirmeyen, sıradan bir kopyalayıcı olarak görmesine neden oldu... Bu görüştekiler, fotoğrafın sanatsal olarak görülebilmesi için önce- likle mekanik ve kimyasal kökenlerinin gizlenmesi gerektiğine inanıyorlardı. Piktoryalistler kısıtlı bir biçimde öznelerine odaklanmadılar ve resim este- tiğini taklit etmek amacıyla yaratıcı baskı yöntem- lerini icat ettiler... Bugün fotoğraf döngüsünü ta- mamladı. Sonunda sanat dünyası tarafından başlı başına bir sanat formu olarak benimsendi” (Higgins, 2014:6).
+    > **Açıklama:** “İcat edildiği günden itibaren fotoğraf bir sanat dalı olarak tanınma mücadelesi verdi. Mekanik ve otomatik doğası, birçok kişinin onu sanatsal bece-<br />ri ve yorum gerektirmeyen, sıradan bir kopyalayıcı olarak görmesine neden oldu... Bu görüştekiler, fotoğrafın sanatsal olarak görülebilmesi için önce- likle mekanik ve kimyasal kökenlerinin gizlenmesi gerektiğine inanıyorlardı. Piktoryalistler kısıtlı bir biçimde öznelerine odaklanmadılar ve resim este- tiğini taklit etmek amacıyla yaratıcı baskı yöntem- lerini icat ettiler... Bugün fotoğraf döngüsünü ta- mamladı. Sonunda sanat dünyası tarafından başlı başına bir sanat formu olarak benimsendi” (Higgins, 2014:6).
 
     <hr />
 1. Ünitede bahsi geçen ve sanat eserlerinin değerlendirilmesinde önemli bir kriter sayılan terim aşağıdakilerden hangisidir?
@@ -3249,10 +2834,7 @@
     - D-) Deforme etme
     - E-) Aktif düzenleme
 
-    > **Açıklama:** Kimyasal ya da dijital yollarla elde edilmiş bir görüntünün bilgisayar ortamına aktarılarak, yazılımlar
-    > aracılığıyla, görüntünün bir kısmına ya da bütününe yapılan müdahale ve değişikliklere görüntü işleme denilmektedir.
-    > Bu aşamadaki tüm işlemler bilgisayar donanım ve yazılımları aracılığıyla gerçekleştirilir.
-    > Dijital fotoğraf dosyalarının boyut olarak görece büyük olmaları nedeniyle kullanılacak donanımların iş akışını yavaşlatmayacak kadar hızlı olmaları, yapılan işlemlerin kontrolü ve renklerin doğru görüntülenebilmesi için de kaliteli bir monitöre sahip olunması gerekir.
+    > **Açıklama:** Kimyasal ya da dijital yollarla elde edilmiş bir görüntünün bilgisayar ortamına aktarılarak, yazılımlar<br />aracılığıyla, görüntünün bir kısmına ya da bütününe yapılan müdahale ve değişikliklere görüntü işleme denilmektedir.<br />Bu aşamadaki tüm işlemler bilgisayar donanım ve yazılımları aracılığıyla gerçekleştirilir.<br />Dijital fotoğraf dosyalarının boyut olarak görece büyük olmaları nedeniyle kullanılacak donanımların iş akışını yavaşlatmayacak kadar hızlı olmaları, yapılan işlemlerin kontrolü ve renklerin doğru görüntülenebilmesi için de kaliteli bir monitöre sahip olunması gerekir.
 
     <hr />
 1. Geniş anlamıyla, “bilinç içeriği” aşağıdakilerden hangisine denmektedir?
@@ -3272,8 +2854,7 @@
     - D-) Kompozisyon
     - E-) Pasif düzenleme
 
-    > **Açıklama:** Dijital teknoloji ve yazılımlar aracılığıyla manipülasyon uygulamalarında en sık birleştirme işlemleri
-    > gerçekleştirilmektedir. Birleştirme işlemleri, farklı amaçlar ve biçimlerde yapılabilmektedir. Aynı eksende farklı kadraj sınırları olan fotoğraflar yatay düzlemde birleştirilerek panoramik bir fotoğraf elde edilir. Bunun yanı sıra farklı fotoğraflardan seçili bölge, alan ya da nesneler seçilerek başka bir fotoğrafın yüzeyinde katmanlar hâlinde üst üste getirilerek birleştirilir. Yeni bir görüntü oluşturmak için bir fotoğrafın ögelerini yeniden düzenleme veya fotoğrafları birleştirme sanatına fotoğraf birleştirme denir. Dijital teknoloji, açıkça fantastik, paradoksal veya basitçe gerçek dışı olması amaçlanan kompozisyonlar oluşturmak için fotoğraf birleştirmeyi kullanmayı her zamankinden daha kolay hâle getiriyor.
+    > **Açıklama:** Dijital teknoloji ve yazılımlar aracılığıyla manipülasyon uygulamalarında en sık birleştirme işlemleri<br />gerçekleştirilmektedir. Birleştirme işlemleri, farklı amaçlar ve biçimlerde yapılabilmektedir. Aynı eksende farklı kadraj sınırları olan fotoğraflar yatay düzlemde birleştirilerek panoramik bir fotoğraf elde edilir. Bunun yanı sıra farklı fotoğraflardan seçili bölge, alan ya da nesneler seçilerek başka bir fotoğrafın yüzeyinde katmanlar hâlinde üst üste getirilerek birleştirilir. Yeni bir görüntü oluşturmak için bir fotoğrafın ögelerini yeniden düzenleme veya fotoğrafları birleştirme sanatına fotoğraf birleştirme denir. Dijital teknoloji, açıkça fantastik, paradoksal veya basitçe gerçek dışı olması amaçlanan kompozisyonlar oluşturmak için fotoğraf birleştirmeyi kullanmayı her zamankinden daha kolay hâle getiriyor.
 
     <hr />
 1. Eserin evrenselliği, kalıcılığı ve sürekliliği ne değeri ile sağlanır?
@@ -3293,8 +2874,7 @@
     - **Cevap D-) Çözünürlük**
     - E-) Oran
 
-    > **Açıklama:** Biçim ise anlatının türüne göre eser/yapıtın duyumsanabilir yapısal özellikleridir. Görsel iletişimde konunun renk, ton, ışık, gölge, kontrast, çizgi, doku, ritim, oran, ölçek, boyut, derinlik vb. ögelerle dile getirilmesidir.
-    > Çözünürlük
+    > **Açıklama:** Biçim ise anlatının türüne göre eser/yapıtın duyumsanabilir yapısal özellikleridir. Görsel iletişimde konunun renk, ton, ışık, gölge, kontrast, çizgi, doku, ritim, oran, ölçek, boyut, derinlik vb. ögelerle dile getirilmesidir.<br />Çözünürlük
 
     <hr />
 1. Kaynaktan çıkan taneciklere ne ad verilir?
@@ -3324,19 +2904,7 @@
     - **Cevap D-) 8**
     - E-) 9
 
-    > **Açıklama:** Fotoğrafın anlam ve estetik yapısını oluşturan aşağıda sıralanan tercihler “aktif düzenleme” olarak kabul edilen kompozisyon düzenlemeleridir:
-    > 1\. Kullanılacak objektifin odak uzaklığının (farklı optik etkiler göz önünde bulunarak) tercih edilmesi,
-    > 2\. Konuyla aradaki mesafe,
-    > 221
-    > 7
-    > Fotoğraf ve Görüntü Tasarımında Yaratıcılık
-    > 222
-    > 3\. Bakış açısı ve bakış yüksekliği,
-    > 4\. Anlamı oluşturan ideal ‘kritik an’ın tespit edilerek uygun zamanlamanın belirlenmesi,
-    > 5\. Görsel kayıt türü ya da formatının (siyah beyaz ya da renkli, pozitif ya da negatif, sa- yısal ya da kimyasal) seçimi,
-    > 6\. Konunun anlam ve dramatik yapısına uy- gun ışık koşularının beklenmesi ya da yeni- den oluşturulması,
-    > 7\. Estetik kaygılarla çerçeve içerisinde bulu- nan nesnelerin yerlerine ve konumlarına yapılan değişiklikler ya da müdahaleler ile birlikte fotoğrafçının etkili çekim noktasını belirleme arayışı,
-    > 8\. Modelli çekimlerde modeli verilmek iste- nen etkiye göre yönlendi
+    > **Açıklama:** Fotoğrafın anlam ve estetik yapısını oluşturan aşağıda sıralanan tercihler “aktif düzenleme” olarak kabul edilen kompozisyon düzenlemeleridir:<br />1\. Kullanılacak objektifin odak uzaklığının (farklı optik etkiler göz önünde bulunarak) tercih edilmesi,<br />2\. Konuyla aradaki mesafe,<br />221<br />7<br />Fotoğraf ve Görüntü Tasarımında Yaratıcılık<br />222<br />3\. Bakış açısı ve bakış yüksekliği,<br />4\. Anlamı oluşturan ideal ‘kritik an’ın tespit edilerek uygun zamanlamanın belirlenmesi,<br />5\. Görsel kayıt türü ya da formatının (siyah beyaz ya da renkli, pozitif ya da negatif, sa- yısal ya da kimyasal) seçimi,<br />6\. Konunun anlam ve dramatik yapısına uy- gun ışık koşularının beklenmesi ya da yeni- den oluşturulması,<br />7\. Estetik kaygılarla çerçeve içerisinde bulu- nan nesnelerin yerlerine ve konumlarına yapılan değişiklikler ya da müdahaleler ile birlikte fotoğrafçının etkili çekim noktasını belirleme arayışı,<br />8\. Modelli çekimlerde modeli verilmek iste- nen etkiye göre yönlendi
 
     <hr />
 1. Dijital teknolojiye geçilmesiyle birlikte fotoğraf çok yaygın bir şekilde kullanılmaya başlamıştır. Aşağıdakilerden hangileri bu yaygınlığın temel sebepleri arasındadır?<br />1\. Kameraların küçülmesi<br />2\. Kameraların ucuzlaması<br />3\. Kameraların kullanımının kolaylaşması<br />4\. Fotoğrafların internet ve sosyal medyada paylaşılabilmesinin sağladığı imkanlar<br />5\. Fotoğrafın artık bir sanat dalı olarak kabul edilmesi
@@ -3346,8 +2914,7 @@
     - D-) I, III, IV ve V
     - E-) III, IV ve V
 
-    > **Açıklama:** Görsel İletişim, Fotoğraf ve Yaratıcılık
-    > Analog dönemle karşılaştırıldığında dijital teknolojiyle birlikte kameraların küçülmesi, “ucuzlaması”, kullanımının “kolaylaşması” gibi teknik nedenlere ek olarak internet ve sosyal medyada yayımlanıp paylaşılabilmesinin sağladığı olanaklar da bu yaygınlığın temel sebepleri olarak görülebilir. Fotoğrafın artık bir sanat dalı olarak kabul edilmesi ise bunlardan biri değildir.
+    > **Açıklama:** Görsel İletişim, Fotoğraf ve Yaratıcılık<br />Analog dönemle karşılaştırıldığında dijital teknolojiyle birlikte kameraların küçülmesi, “ucuzlaması”, kullanımının “kolaylaşması” gibi teknik nedenlere ek olarak internet ve sosyal medyada yayımlanıp paylaşılabilmesinin sağladığı olanaklar da bu yaygınlığın temel sebepleri olarak görülebilir. Fotoğrafın artık bir sanat dalı olarak kabul edilmesi ise bunlardan biri değildir.
 
     <hr />
 1. Fotoğrafın çoğaltılarak geniş kitlelere yönelik en yaygın biçimde kullanıldığı alanlardan biri reklam fotoğraflarıdır. Diğeri aşağıdakilerden hangisidir?
@@ -3357,8 +2924,7 @@
     - D-) Sosyal medya profil fotoğrafları
     - E-) Gezi fotoğrafları
 
-    > **Açıklama:** Görsel İletişim, Fotoğraf ve Yaratıcılık
-    > Fotoğrafın çoğaltılarak geniş kitlelere yönelik en yaygın biçimde kullanıldığı alanlar haber ve reklam fotoğraflarıdır.
+    > **Açıklama:** Görsel İletişim, Fotoğraf ve Yaratıcılık<br />Fotoğrafın çoğaltılarak geniş kitlelere yönelik en yaygın biçimde kullanıldığı alanlar haber ve reklam fotoğraflarıdır.
 
     <hr />
 1. Aşağıdakilerden hangileri/hangisi fotoğrafın ortaya çıkarıldığı üretim sürecinin aşamaları arasında yer alır?<br />1\. Çekim<br />2\. Çekim sonrası işlemler (post prodüksiyon)<br />3\. Baskı ve sunum
@@ -3368,8 +2934,7 @@
     - D-) I, II
     - E-) Yalnızca I
 
-    > **Açıklama:** Görsel İletişim, Fotoğraf ve Yaratıcılık
-    > Fotoğrafın ortaya çıkarıldığı üretim süreci kabaca hazırlık/tasarım, çekim, çekim sonrası işlemler (post prodüksiyon), baskı ve sunum aşamalarından oluşmaktadır.
+    > **Açıklama:** Görsel İletişim, Fotoğraf ve Yaratıcılık<br />Fotoğrafın ortaya çıkarıldığı üretim süreci kabaca hazırlık/tasarım, çekim, çekim sonrası işlemler (post prodüksiyon), baskı ve sunum aşamalarından oluşmaktadır.
 
     <hr />
 1. Aşağıdakilerden hangisi fotoğrafın teknik özelliklerinden değil yaratıcı özelliklerinden biridir?
@@ -3379,8 +2944,7 @@
     - D-) Renk ve ton değerleri
     - **Cevap E-) Özgünlük**
 
-    > **Açıklama:** Görsel İletişim, Fotoğraf ve Yaratıcılık
-    > Netlik, kadraj, pozlama, aydınlatma, zamanlama, renk ve ton değerleri, baskısı vb. nitelikleri fotoğrafın ilk göze çarpan teknik özellikleridir ki aynı zamanda estetik düzeyini de belirlerler. Teknik özellikleri dışında fotoğrafın taşıdığı mesaj, verdiği bilgi, sıra dışılığı, şaşırtıcılığı, yenilikçiliği, eşsizliği, özgünlüğü, fotoğrafçının; bakış açısı, tarzı, yarattığı atmosfer, uyandırdığı duygu(lar) ve tüm bunların toplamını yansıtan “yaratıcı”lığıdır.
+    > **Açıklama:** Görsel İletişim, Fotoğraf ve Yaratıcılık<br />Netlik, kadraj, pozlama, aydınlatma, zamanlama, renk ve ton değerleri, baskısı vb. nitelikleri fotoğrafın ilk göze çarpan teknik özellikleridir ki aynı zamanda estetik düzeyini de belirlerler. Teknik özellikleri dışında fotoğrafın taşıdığı mesaj, verdiği bilgi, sıra dışılığı, şaşırtıcılığı, yenilikçiliği, eşsizliği, özgünlüğü, fotoğrafçının; bakış açısı, tarzı, yarattığı atmosfer, uyandırdığı duygu(lar) ve tüm bunların toplamını yansıtan “yaratıcı”lığıdır.
 
     <hr />
 1. Aşağıdakilerden hangisi fotoğrafın hazırlık aşamasına ait süreçlerden biri değildir?
@@ -3390,9 +2954,7 @@
     - D-) Çalışılacak konunun görsel olarak nasıl ele alıp yorumlayacağına karar verme
     - E-) Kullanılacak ekipmana karar verilerek hazır hâle getirme
 
-    > **Açıklama:** Fotoğrafın Fikir Geliştirme Aşamasında Yaratıcılık
-    > Hazırlık aşamasının da kendi içerisinde iki farklı yönü bulunmaktadır. İlk olarak fotoğrafçının çalışacağı konuya karar verme, konu hakkında bilgi toplama ve konuyu görsel olarak nasıl ele alıp yorumlayacağına karar verdiği tasarı aşamasıdır. İkinci olarak belki de daha kolay olanı ise teknik hazırlık sürecidir. Çekim sürecine yönelik koşulların sağlanması için kullanılacak ekipmana karar verilerek hazır hâle getirilmesi ve çalışılacak konuya göre gerekli organizasyonların yapılarak çekim ortamının/koşullarının hazırlanmasıdır.
-    > Fotoğraf makinesinin ışık ve pozlama ayarlarını yapmak ise “çekim” aşamasına ait bir iştir.
+    > **Açıklama:** Fotoğrafın Fikir Geliştirme Aşamasında Yaratıcılık<br />Hazırlık aşamasının da kendi içerisinde iki farklı yönü bulunmaktadır. İlk olarak fotoğrafçının çalışacağı konuya karar verme, konu hakkında bilgi toplama ve konuyu görsel olarak nasıl ele alıp yorumlayacağına karar verdiği tasarı aşamasıdır. İkinci olarak belki de daha kolay olanı ise teknik hazırlık sürecidir. Çekim sürecine yönelik koşulların sağlanması için kullanılacak ekipmana karar verilerek hazır hâle getirilmesi ve çalışılacak konuya göre gerekli organizasyonların yapılarak çekim ortamının/koşullarının hazırlanmasıdır.<br />Fotoğraf makinesinin ışık ve pozlama ayarlarını yapmak ise “çekim” aşamasına ait bir iştir.
 
     <hr />
 1. Aşağıdakilerden hangisi fotoğrafta çalışılacak konunun seçimini belirleyen öğelerden biri değildir?
@@ -3402,8 +2964,7 @@
     - D-) Fotoğrafçının kültürel ve entelektüel altyapısı
     - E-) Fotoğrafçının içinde yaşadığı çevre ve dönem
 
-    > **Açıklama:** Fotoğrafın Fikir Geliştirme Aşamasında Yaratıcılık
-    > Konu seçimi, fotoğrafçının bilgi düzeyine, mesleki deneyimine, kültürel ve entelektüel altyapısına göre değişmektedir. Fotoğrafçının ideolojisi ve hayat görüşü kadar yaşadığı çevre ve dönem de ele aldığı konulara yansıyabilir. Ayrıca bu sürecin zaman aralığı fotoğrafın nerede ve kimlere gösterileceğine göre de değişebilir.
+    > **Açıklama:** Fotoğrafın Fikir Geliştirme Aşamasında Yaratıcılık<br />Konu seçimi, fotoğrafçının bilgi düzeyine, mesleki deneyimine, kültürel ve entelektüel altyapısına göre değişmektedir. Fotoğrafçının ideolojisi ve hayat görüşü kadar yaşadığı çevre ve dönem de ele aldığı konulara yansıyabilir. Ayrıca bu sürecin zaman aralığı fotoğrafın nerede ve kimlere gösterileceğine göre de değişebilir.
 
     <hr />
 1. Bir olay, beyan ya da fikrin arka planını oluşturan koşullara ne denir?
@@ -3413,8 +2974,7 @@
     - D-) Yaratıcılık
     - E-) Ortam
 
-    > **Açıklama:** Fotoğrafın Fikir Geliştirme Aşamasında Yaratıcılık
-    > Bağlam, bir olay, beyan ya da fikrin arka planını oluşturan koşullar olarak tanımlanabilir.
+    > **Açıklama:** Fotoğrafın Fikir Geliştirme Aşamasında Yaratıcılık<br />Bağlam, bir olay, beyan ya da fikrin arka planını oluşturan koşullar olarak tanımlanabilir.
 
     <hr />
 1. Aşağıdakilerden hangileri "çekim aşamasında" fotoğrafçının yaratıcı performansını belirleyen anlatı öğeleri arasındadır?<br />1\. Konunun seçimi<br />2\. Işık ayarı<br />3\. Pozlama<br />4\. Kompozisyon oluşturma<br />5\. Çekim teknikleri
@@ -3424,8 +2984,7 @@
     - D-) I, II, III ve V
     - E-) I, IV ve V
 
-    > **Açıklama:** Fotoğrafın Çekim Sürecinde Yaratıcılık
-    > Çekim aşamasında fotoğrafçının yaratıcı performansını belirleyen üç temel anlatı ögesi bulunur. Bunlar ışık ve pozlama, kompozisyon oluşturma ve çekim teknikleridir. Konunun seçimi bu aşamaya değil hazırlık aşamasına ait bir öğedir.
+    > **Açıklama:** Fotoğrafın Çekim Sürecinde Yaratıcılık<br />Çekim aşamasında fotoğrafçının yaratıcı performansını belirleyen üç temel anlatı ögesi bulunur. Bunlar ışık ve pozlama, kompozisyon oluşturma ve çekim teknikleridir. Konunun seçimi bu aşamaya değil hazırlık aşamasına ait bir öğedir.
 
     <hr />
 1. Yarı saydam bir yüzeyden geçerken bir miktar soğurulma ve kırılmaya uğrayarak nesneye ulaşıp aydınlatan ışığa ne ad verilir?
@@ -3435,8 +2994,7 @@
     - D-) Doğal ışık
     - E-) Yapay ışık
 
-    > **Açıklama:** Fotoğrafın Çekim Sürecinde Yaratıcılık
-    > Işık yarı saydam bir yüzeyden geçerken bir miktar soğurulma ve kırılmaya uğrayarak nesneye ulaşıp aydınlatırsa “süzülmüş ışık” olarak tanımlanır.
+    > **Açıklama:** Fotoğrafın Çekim Sürecinde Yaratıcılık<br />Işık yarı saydam bir yüzeyden geçerken bir miktar soğurulma ve kırılmaya uğrayarak nesneye ulaşıp aydınlatırsa “süzülmüş ışık” olarak tanımlanır.
 
     <hr />
 1. Çekilen görüntünün bilgisayar ortamına aktarılarak, yazılımlar aracılığıyla, görüntünün bir kısmına ya da bütününe yapılan müdahale ve değişikliklere ne denir?
@@ -3446,8 +3004,7 @@
     - D-) Filtreleme
     - E-) Baskı alma
 
-    > **Açıklama:** Çekim Sonrası Süreçlerde Yaratıcılık
-    > Kimyasal ya da dijital yollarla elde edilmiş bir görüntünün bilgisayar ortamına aktarılarak, yazılımlar aracılığıyla, görüntünün bir kısmına ya da bütününe yapılan müdahale ve değişikliklere "görüntü işleme" denilmektedir.
+    > **Açıklama:** Çekim Sonrası Süreçlerde Yaratıcılık<br />Kimyasal ya da dijital yollarla elde edilmiş bir görüntünün bilgisayar ortamına aktarılarak, yazılımlar aracılığıyla, görüntünün bir kısmına ya da bütününe yapılan müdahale ve değişikliklere "görüntü işleme" denilmektedir.
 
     <hr />
 ## Unite 8
@@ -3568,9 +3125,7 @@
     - D-) İPTV
     - E-) TV/HDTV
 
-    > **Açıklama:** OTT (ing. Over e Top Media), izleyicilere internet üzerinden doğrudan ulaşan
-    > Netflix, Blutv, Amazon Prime gibi çeşitli görsel içerik sağlayıcılarını tanımlamak için
-    > kullanılan çatı bir kavramdır.
+    > **Açıklama:** OTT (ing. Over e Top Media), izleyicilere internet üzerinden doğrudan ulaşan<br />Netflix, Blutv, Amazon Prime gibi çeşitli görsel içerik sağlayıcılarını tanımlamak için<br />kullanılan çatı bir kavramdır.
 
     <hr />
 1. I. Temanın bulunması<br />II. Sinopsis, tretman ve çekim senaryosu yazımı<br />III. Bütçe hazırlama<br />IV. Oyuncuların ve mekânların belirlenmesi<br />V. Oyuncularla anlaşma<br />VI. Çekim izinleri alınması<br />VII. Telif Hakları<br />Yukarıdaki bu aşamalar Film yapımında hangi katagoriyi işaret ediyor?
@@ -3580,10 +3135,7 @@
     - D-) Çekim Sonrası
     - E-) Yapım Sonrası
 
-    > **Açıklama:** |  |  |  |  |  |
-    > | --- | --- | --- | --- | --- |
-    > | Yapım Öncesi | Çekim Öncesi | Çekim Aşaması | Çekim Sonrası | Yapım Sonrası |
-    > | * Temanın bulunması * Sinopsis, tretman   ve çekim senaryosu   yazımı * Bütçe hazırlama * Oyuncuların   ve mekânların   belirlenmesi * Oyuncularla anlaşma * Çekim izinleri   alınması * Telif Hakları |
+    > **Açıklama:** |  |  |  |  |  |<br />| --- | --- | --- | --- | --- |<br />| Yapım Öncesi | Çekim Öncesi | Çekim Aşaması | Çekim Sonrası | Yapım Sonrası |<br />| * Temanın bulunması * Sinopsis, tretman   ve çekim senaryosu   yazımı * Bütçe hazırlama * Oyuncuların   ve mekânların   belirlenmesi * Oyuncularla anlaşma * Çekim izinleri   alınması * Telif Hakları |
 
     <hr />
 1. Film yapım aşamaları aşağıdakilerden hangisi veya hangileridir?<br />I. Yapım Öncesi<br />II. Çekim Öncesi<br />III. Çekim Aşaması<br />IV. Çekim Sonrası<br />V. Yapım Sonrası
@@ -3593,10 +3145,7 @@
     - D-) I/II
     - E-) V
 
-    > **Açıklama:** Tablo 8.1 Film Yapım Aşamaları (Aytaş, 2015)
-    > |  |  |  |  |  |
-    > | --- | --- | --- | --- | --- |
-    > | Yapım Öncesi | Çekim Öncesi | Çekim Aşaması | Çekim Sonrası | Yapım Sonrası |
+    > **Açıklama:** Tablo 8.1 Film Yapım Aşamaları (Aytaş, 2015)<br />|  |  |  |  |  |<br />| --- | --- | --- | --- | --- |<br />| Yapım Öncesi | Çekim Öncesi | Çekim Aşaması | Çekim Sonrası | Yapım Sonrası |
 
     <hr />
 1. Bir yazı, müzik ya da görüş olarak televizyon yapımlarınca işlenen ve konunun dayandığı ana fikri ifade eden kavram aşağıdakilerden hangisidir?
@@ -3626,10 +3175,7 @@
     - D-) Görüntü üretim ilişkisidir
     - E-) Giriş, gelişme ve sonuç bölüdür
 
-    > **Açıklama:** Anlatı görsel olarak bu birimlerin bir araya gelmesi ve birbiriyle kurduğu ilişkilerle belirlenir. Söz konusu bu kavramları şu şekilde açıklayabiliriz;
-    > Sahne:
-    > Çekim:
-    > Sekans: Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya sekanslar çıkar.
+    > **Açıklama:** Anlatı görsel olarak bu birimlerin bir araya gelmesi ve birbiriyle kurduğu ilişkilerle belirlenir. Söz konusu bu kavramları şu şekilde açıklayabiliriz;<br />Sahne:<br />Çekim:<br />Sekans: Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya sekanslar çıkar.
 
     <hr />
 1. Storyboard nedir?
@@ -3639,8 +3185,7 @@
     - D-) Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birle- şiminden ortaya sekanslardır
     - E-) Sahne terimi ile oyunun oluşturulduğu yer ve dekor tanımlanır
 
-    > **Açıklama:** Storyboard Oluşturma
-    > Hareketli görüntü tasarımında ortaya konacak olan yapım ile ilgili senaryo oluşturulduktan sonra yapılacak çekimlere ilişkin metnin görselleştirilmesi çok daha başarılı sonuçlar doğurur. Profesyonel film çalışmalarında senaryo belirlendikten sonra hikâye tahtası ya da şeridi olarak çevirebileceğimiz ‘storyboard’ adı verilen, temel çekim kompozis- yonlarının, çerçevenin ve oyuncuların yer aldığı resimli taslaklar çizilir. Film içerisinde yer alan her sahne, kamera açısı, çerçevesi ve oyuncuların ko- numu bu resimli taslak şemasında görselleştirilir. Storyboard çizimleri, çekimler başlamadan önce potansiyel sorunların ortaya çıkmasını engelleme ve filmin önceden görselleştirilmesi noktasında yönetmen ve görüntü yönetmenine yardımcı olur. Bu görsel çizimlere dayalı senaryo, prodüksiyona dâhil olan tüm tara arı bütünleştirir
+    > **Açıklama:** Storyboard Oluşturma<br />Hareketli görüntü tasarımında ortaya konacak olan yapım ile ilgili senaryo oluşturulduktan sonra yapılacak çekimlere ilişkin metnin görselleştirilmesi çok daha başarılı sonuçlar doğurur. Profesyonel film çalışmalarında senaryo belirlendikten sonra hikâye tahtası ya da şeridi olarak çevirebileceğimiz ‘storyboard’ adı verilen, temel çekim kompozis- yonlarının, çerçevenin ve oyuncuların yer aldığı resimli taslaklar çizilir. Film içerisinde yer alan her sahne, kamera açısı, çerçevesi ve oyuncuların ko- numu bu resimli taslak şemasında görselleştirilir. Storyboard çizimleri, çekimler başlamadan önce potansiyel sorunların ortaya çıkmasını engelleme ve filmin önceden görselleştirilmesi noktasında yönetmen ve görüntü yönetmenine yardımcı olur. Bu görsel çizimlere dayalı senaryo, prodüksiyona dâhil olan tüm tara arı bütünleştirir
 
     <hr />
 1. Videoda görüntüyü oluşturan her bir resme ne denir?
@@ -3670,8 +3215,7 @@
     - **Cevap D-) OTT**
     - E-) DSLR
 
-    > **Açıklama:** HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ
-    > OTT (ing. Over The Top Media), izleyicilere internet üzerinden doğrudan ulaşan Netflix, Blutv, Amazon Prime gibi çeşitli görsel içerik sağlayıcılarını tanımlamak için kullanılan çatı bir kavramdır.
+    > **Açıklama:** HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ<br />OTT (ing. Over The Top Media), izleyicilere internet üzerinden doğrudan ulaşan Netflix, Blutv, Amazon Prime gibi çeşitli görsel içerik sağlayıcılarını tanımlamak için kullanılan çatı bir kavramdır.
 
     <hr />
 1. * Çekim öncesi toplantısı<br />* Prova yapılması<br />* Çekim sırasında izleme ve değerlendirme<br />Yukarıdaki işlemler film yapım aşamalarından hangisine aittir?
@@ -3681,9 +3225,7 @@
     - D-) Çekim sonrası
     - E-) Yapım sonrası
 
-    > **Açıklama:** HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ
-    > Üçüncü aşama yani çekim aşamasında filmin yönetmeni çekimlere başlamadan önce tüm ekiple bir toplantı gerçekleştirerek filmin genel yapısına yönelik bilgileri
-    > ekiple paylaşır. Oyuncular ve teknik ekip çekime başlamadan önce provalarını yapar ve çekim başlar.
+    > **Açıklama:** HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ<br />Üçüncü aşama yani çekim aşamasında filmin yönetmeni çekimlere başlamadan önce tüm ekiple bir toplantı gerçekleştirerek filmin genel yapısına yönelik bilgileri<br />ekiple paylaşır. Oyuncular ve teknik ekip çekime başlamadan önce provalarını yapar ve çekim başlar.
 
     <hr />
 1. I. Film öyküsünün görüntü diline çevrildiği teknik bir metne karşılık gelir.<br />II. Bir yazı, müzik ya da görüş olarak televizyon yapımlarınca işlenir<br />ve konunun dayandığı ana fikri ifade eder.<br />III. Film öyküsünü özetleyen ilk yazılı taslaktır.<br />IV. Filmde yer alan kişiler ve mekânların yanı sıra öykünün giriş, gelişme ve sonuç bölümlerini kapsar.<br />Yukarıda film üretimi sürecine ilişkin kavramların özellikleri ve tanımları yer almaktadır. Bu özellik ve tanımların ait oldukları doğru kavramlar hangi seçenekte verilmiştir?
@@ -3693,11 +3235,7 @@
     - D-) I. Sinopsis II. Tretman III. Tema IV. Senaryo
     - E-) I. Sinopsis II. Tretman III. Senaryo IV. Tema
 
-    > **Açıklama:** HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ
-    > Etimolojik kökeni Fransızcaya dayanan tema kavramı bir yazı, müzik ya da görüş olarak televizyon yapımlarınca işlenir ve konunun dayandığı ana fikri ifade eder.
-    > Senaryo, film öyküsünün görüntü diline çevrildiği teknik bir metne karşılık gelir. Senaryo, ilke olarak yönetmene verilmiş ayrıntılı bir öneridir.
-    > Sinopsis: Film öyküsünü özetleyen ilk yazılı taslaktır. Sinopsis, sözlük anlamı olarak Yunancada “bir bakışta okunabilen” anlamına gelir.
-    > Tretman, sinopsisin geliştirilmiş hâlidir. Filmde yer alan kişiler ve mekânların yanı sıra öykünün giriş, gelişme ve sonuç bölümleri bulunur.
+    > **Açıklama:** HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ<br />Etimolojik kökeni Fransızcaya dayanan tema kavramı bir yazı, müzik ya da görüş olarak televizyon yapımlarınca işlenir ve konunun dayandığı ana fikri ifade eder.<br />Senaryo, film öyküsünün görüntü diline çevrildiği teknik bir metne karşılık gelir. Senaryo, ilke olarak yönetmene verilmiş ayrıntılı bir öneridir.<br />Sinopsis: Film öyküsünü özetleyen ilk yazılı taslaktır. Sinopsis, sözlük anlamı olarak Yunancada “bir bakışta okunabilen” anlamına gelir.<br />Tretman, sinopsisin geliştirilmiş hâlidir. Filmde yer alan kişiler ve mekânların yanı sıra öykünün giriş, gelişme ve sonuç bölümleri bulunur.
 
     <hr />
 1. "Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya çıkar."<br />Yukarıda tanımı verilen kavram aşağıdakilerden hangisidir?
@@ -3707,8 +3245,7 @@
     - D-) Olay örgüsü
     - E-) Söylem
 
-    > **Açıklama:** HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ
-    > Sekans: Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya sekanslar çıkar. Sekans çok sayıda sahneden oluşur.
+    > **Açıklama:** HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ<br />Sekans: Birbirinden farklı zaman ve mekânlar da geçse bile birbiri ile ilişkili olan sahnelerin birleşiminden ortaya sekanslar çıkar. Sekans çok sayıda sahneden oluşur.
 
     <hr />
 1. I. Temel çekim kompozisyonlarının, çerçevenin ve oyuncuların yer aldığı resimli taslaklardır.<br />II. Filmin önceden görselleştirilmesi noktasında yönetmen ve görüntü yönetmenine yardımcı olur.<br />III. Storyboard ve çekim senaryosu tamamlanmadan çekim zamanı ve takvimi planlanır.<br />IV. Prodüksiyona dâhil olan tüm tarafları bütünleştirir.<br />Yukarıda storyboarda ilişkin verilen bilgilerden hangileri doğrudur?
@@ -3718,10 +3255,7 @@
     - D-) I ve II
     - E-) III ve IV
 
-    > **Açıklama:** HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ
-    > Profesyonel film çalışmalarında senaryo belirlendikten sonra
-    > hikâye tahtası ya da şeridi olarak çevirebileceğimiz ‘storyboard’ adı verilen, temel çekim kompozisyonlarının, çerçevenin ve oyuncuların yer aldığı resimli taslaklar çizilir. Film içerisinde yer alan her sahne, kamera açısı, çerçevesi ve oyuncuların konumu bu resimli taslak şemasında görselleştirilir. Storyboard çizimleri, çekimler başlamadan önce potansiyel sorunların ortaya çıkmasını engelleme ve filmin önceden görselleştirilmesi noktasında yönetmen ve görüntü yönetmenine yardımcı olur. Bu görsel çizimlere dayalı senaryo, prodüksiyona dâhil olan tüm tarafları bütünleştirir (Lelie, 2006). Yönetmenin tercihine göre yapımın kurgusu da storyboard’da yer alan sıraya göre dizilir. Yaratıcı ekibin başında yer alan yönetmen, storyboard ve
-    > çekim senaryosu tamamlandıktan sonra çekim zamanı ve takvimini planlar.
+    > **Açıklama:** HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ<br />Profesyonel film çalışmalarında senaryo belirlendikten sonra<br />hikâye tahtası ya da şeridi olarak çevirebileceğimiz ‘storyboard’ adı verilen, temel çekim kompozisyonlarının, çerçevenin ve oyuncuların yer aldığı resimli taslaklar çizilir. Film içerisinde yer alan her sahne, kamera açısı, çerçevesi ve oyuncuların konumu bu resimli taslak şemasında görselleştirilir. Storyboard çizimleri, çekimler başlamadan önce potansiyel sorunların ortaya çıkmasını engelleme ve filmin önceden görselleştirilmesi noktasında yönetmen ve görüntü yönetmenine yardımcı olur. Bu görsel çizimlere dayalı senaryo, prodüksiyona dâhil olan tüm tarafları bütünleştirir (Lelie, 2006). Yönetmenin tercihine göre yapımın kurgusu da storyboard’da yer alan sıraya göre dizilir. Yaratıcı ekibin başında yer alan yönetmen, storyboard ve<br />çekim senaryosu tamamlandıktan sonra çekim zamanı ve takvimini planlar.
 
     <hr />
 1. Aşağıdakilerden hangisi kabul gören çerçeveleme birimlerinden biri **değildir**?
@@ -3731,9 +3265,7 @@
     - D-) Bel çekim
     - **Cevap E-) Yüz çekim**
 
-    > **Açıklama:** HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ
-    > Evrensel olarak ortak bir uzlaşım olmamasına rağmen kabul gören çerçeveleme birimlerinden biri olan çekim açı ve
-    > ölçekleri en genelden en dar açıya şu şekilde sıralanmaktadır; uzak çekim, genel çekim, boy çekim, diz çekim, bel çekim, yakın çekim ve ayrıntı çekim.
+    > **Açıklama:** HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ<br />Evrensel olarak ortak bir uzlaşım olmamasına rağmen kabul gören çerçeveleme birimlerinden biri olan çekim açı ve<br />ölçekleri en genelden en dar açıya şu şekilde sıralanmaktadır; uzak çekim, genel çekim, boy çekim, diz çekim, bel çekim, yakın çekim ve ayrıntı çekim.
 
     <hr />
 1. Anahtar ışığın oluşturduğu sert kontrasttı ve gölgeleri yumuşatmak amacıyla kullanılan ışık türü aşağıdakilerden hangisidir?
@@ -3743,8 +3275,7 @@
     - D-) Doğal ışık
     - E-) Hareketli ışık
 
-    > **Açıklama:** HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ
-    > Dolgu Işığı: Anahtar ışığa göre konuya diğer taraftan 45 derecelik açı yapacak şekilde yarısı kadar bir şiddette yöneltilen ikinci yapay aydınlatma kaynağıdır. Dolgu ışığı, anahtar ışığın oluşturduğu sert kontrasttı ve gölgeleri yumuşatmak amacıyla kullanılır.
+    > **Açıklama:** HAREKETLİ GÖRÜNTÜ TASARIMINDA YARATICI İÇERİK VE GÖRSELLEŞTİRME TEKNİKLERİ<br />Dolgu Işığı: Anahtar ışığa göre konuya diğer taraftan 45 derecelik açı yapacak şekilde yarısı kadar bir şiddette yöneltilen ikinci yapay aydınlatma kaynağıdır. Dolgu ışığı, anahtar ışığın oluşturduğu sert kontrasttı ve gölgeleri yumuşatmak amacıyla kullanılır.
 
     <hr />
 1. Animasyon karakterlerinin hareketini geliştirmek ve daha gerçekçi görünmelerini sağlamak için 1915 yılında animatör Max Fleischer tarafından icat edilen teknik aşağıdakilerden hangisidir?
@@ -3754,8 +3285,7 @@
     - D-) Kolaj animasyon
     - E-) Piksilasyon
 
-    > **Açıklama:** ANİMASYON (CANLANDIRMA) TÜRLERİ VE YARATICI TEKNİKLER
-    > Rotoskop (Rotoscoping): Animasyon alanında çok daha gerçekçi bir görüntü üretebilmek amacıyla karakter hareketlerinin kare kare çizilmesiyle ortaya çıkan tekniktir. Animasyon karakterlerinin hareketini geliştirmek ve daha gerçekçi görünmelerini sağlamak için 1915 yılında animatör Max Fleischer tarafından icat edildi
+    > **Açıklama:** ANİMASYON (CANLANDIRMA) TÜRLERİ VE YARATICI TEKNİKLER<br />Rotoskop (Rotoscoping): Animasyon alanında çok daha gerçekçi bir görüntü üretebilmek amacıyla karakter hareketlerinin kare kare çizilmesiyle ortaya çıkan tekniktir. Animasyon karakterlerinin hareketini geliştirmek ve daha gerçekçi görünmelerini sağlamak için 1915 yılında animatör Max Fleischer tarafından icat edildi
 
     <hr />
 1. Hareketin dinamiğini daha iyi taklit edebilmek ve gerçekçi bir görüntü yakalamak amacıyla oluşturulan; oyuncuların performansı üzerinden alınan referansın bilgisayar üzerinde modellenen karakterle eşlenmesiyle yapılan animasyon tekniği aşağıdakilerden hangisidir?
@@ -3765,9 +3295,7 @@
     - D-) 3 Boyutlu Animasyon
     - E-) Stereoskopik 3D
 
-    > **Açıklama:** ANİMASYON (CANLANDIRMA) TÜRLERİ VE YARATICI TEKNİKLER
-    > Hareket Yakalama (Motion Capture): Hareketin dinamiğini daha iyi taklit edebilmek ve gerçekçi bir görüntü yakalamak amacıyla oluşturulan bu
-    > teknikte oyuncuların performansı üzerinden alınan referansın bilgisayar üzerinde modellenen karakterle eşlenmesiyle yapılır. Bu yöntem animasyon olarak hazırlanan yapımlarda karakterlerin daha gerçekçi hareket etmesini sağlamasının yanında görsel efekt olarak gerçek görüntüye dayalı filmlerde de sıklıkla kullanılır.
+    > **Açıklama:** ANİMASYON (CANLANDIRMA) TÜRLERİ VE YARATICI TEKNİKLER<br />Hareket Yakalama (Motion Capture): Hareketin dinamiğini daha iyi taklit edebilmek ve gerçekçi bir görüntü yakalamak amacıyla oluşturulan bu<br />teknikte oyuncuların performansı üzerinden alınan referansın bilgisayar üzerinde modellenen karakterle eşlenmesiyle yapılır. Bu yöntem animasyon olarak hazırlanan yapımlarda karakterlerin daha gerçekçi hareket etmesini sağlamasının yanında görsel efekt olarak gerçek görüntüye dayalı filmlerde de sıklıkla kullanılır.
 
     <hr />
 1. “Ya olgusal çekimle ya da aslına sadık olarak yeniden kurulmak suretiyle yorumlanan gerçekliğin herhangi bir yönünü, akla ya da duygulara hitap edecek şekilde film üzerine kaydetme yöntemlerinin tümü" olarak tanımlanan kısa film türü aşağıdakilerden hangisidir?
@@ -3777,8 +3305,7 @@
     - D-) Animasyon film
     - E-) Reklam filmi
 
-    > **Açıklama:** YARATICI SANATSAL FİLM UYGULAMALARI
-    > Belgeseli tanımlamada kullanılan “non-fiction” ve “documentary” terimleri, Türkçede “kurmaca olmayan” ve “belgesel” olarak karşımıza çıkar. Belgesel türü, sinema sanatı içerisinde gerçekliğe yaklaşım ve gerçekliği ele alış biçimine karşılık gelir. En önemli ve ayırt edilebilir kısmı ise gerçekle olan ilgisidir. Grierson, belgeseli “gerçek olayların yaratıcı biçimde yorumlanması” olarak tanımlıyordu. Dünya Belgesel Birliğinin 1948 yılında yaptığı bir başka tanım ise şudur: “Ya olgusal çekimle ya da aslına sadık olarak yeniden kurulmak suretiyle yorumlanan gerçekliğin herhangi bir yönünü, akla ya da duygulara hitap edecek şekilde film üzerine kaydetme yöntemlerinin tümü, belgesel filmdir”.
+    > **Açıklama:** YARATICI SANATSAL FİLM UYGULAMALARI<br />Belgeseli tanımlamada kullanılan “non-fiction” ve “documentary” terimleri, Türkçede “kurmaca olmayan” ve “belgesel” olarak karşımıza çıkar. Belgesel türü, sinema sanatı içerisinde gerçekliğe yaklaşım ve gerçekliği ele alış biçimine karşılık gelir. En önemli ve ayırt edilebilir kısmı ise gerçekle olan ilgisidir. Grierson, belgeseli “gerçek olayların yaratıcı biçimde yorumlanması” olarak tanımlıyordu. Dünya Belgesel Birliğinin 1948 yılında yaptığı bir başka tanım ise şudur: “Ya olgusal çekimle ya da aslına sadık olarak yeniden kurulmak suretiyle yorumlanan gerçekliğin herhangi bir yönünü, akla ya da duygulara hitap edecek şekilde film üzerine kaydetme yöntemlerinin tümü, belgesel filmdir”.
 
     <hr />
 1. OTT over the top media nedir?
@@ -3788,10 +3315,7 @@
     - D-) sayısal tv
     - E-) DSLR kamera
 
-    > **Açıklama:** izleyicilere internet üzerinden doğrudan ulaşan
-    > Netflix, Blutv, Amazon Prime gibi çeşitli
-    > görsel içerik sağlayıcılarını tanımlamak
-    > için kullanılan çatı bir kavramdır
+    > **Açıklama:** izleyicilere internet üzerinden doğrudan ulaşan<br />Netflix, Blutv, Amazon Prime gibi çeşitli<br />görsel içerik sağlayıcılarını tanımlamak<br />için kullanılan çatı bir kavramdır
 
     <hr />
 1. Aşağıdakilerden hangisi yapım süreçlerinden değildir?
@@ -3821,8 +3345,7 @@
     - **Cevap D-) I, II ve III**
     - E-) I ve III
 
-    > **Açıklama:** Tema ve senaryo
-    > Hareketli görüntü tasarımı ya da film üretimi ***tema,*** senaryo, kurgu, ışık, renk ve ses gibi bir­takım yaratıcı ögelerin içerik ve biçem anlamında işlevsel olarak bir araya getirilmesiyle gerçekleşti­rilir.
+    > **Açıklama:** Tema ve senaryo<br />Hareketli görüntü tasarımı ya da film üretimi ***tema,*** senaryo, kurgu, ışık, renk ve ses gibi bir­takım yaratıcı ögelerin içerik ve biçem anlamında işlevsel olarak bir araya getirilmesiyle gerçekleşti­rilir.
 
     <hr />
 1. “Bir yazı, müzik ya da gö­rüş olarak televizyon yapımlarınca işlenir olan ve konunun dayandığı ana fikri ifade eden kavrama……….denir.”<br />Metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?
@@ -3832,8 +3355,7 @@
     - D-) Sekans
     - E-) Sinopsis
 
-    > **Açıklama:** Film Yapım Aşamaları
-    > Etimolojik kökeni Fransızcaya dayanan **tema** kavramı bir yazı, müzik ya da gö­rüş olarak televizyon yapımlarınca işlenir ve konunun dayandığı ana fikri ifade eder.
+    > **Açıklama:** Film Yapım Aşamaları<br />Etimolojik kökeni Fransızcaya dayanan **tema** kavramı bir yazı, müzik ya da gö­rüş olarak televizyon yapımlarınca işlenir ve konunun dayandığı ana fikri ifade eder.
 
     <hr />
 1. Aşağıdakilerden hangisi ya da hangileri film yapım aşamalarındaki **çekim öncesi** faaliyetler arasında yer alır yer alır?<br />I- Malzemelerin tespiti<br />II-Prova yapılması<br />III-Film ekibinin kurulması
@@ -3843,13 +3365,7 @@
     - D-) Sadece I
     - E-) Sadece III
 
-    > **Açıklama:** Film yapım aşamaları
-    > Film yapımında çekim öncesi faaliyetler şunlardır:
-    > Film ekibinin kurulması
-    > Malzemelerin tespiti
-    > Çekim formatını belirleme
-    > Çekim takvimi oluşturma
-    > Yapım için destek ve sponsor tespiti dir. Provalar çekim sırasındaki faaliyetlerdendir.
+    > **Açıklama:** Film yapım aşamaları<br />Film yapımında çekim öncesi faaliyetler şunlardır:<br />Film ekibinin kurulması<br />Malzemelerin tespiti<br />Çekim formatını belirleme<br />Çekim takvimi oluşturma<br />Yapım için destek ve sponsor tespiti dir. Provalar çekim sırasındaki faaliyetlerdendir.
 
     <hr />
 1. Aşağıdakilerden hangisi ya da hangileri film yapım aşamalarındaki **çekim sonrası** faaliyetler arasında yer alır yer alır?<br />I- Kurgu<br />II-Prova yapılması<br />III-Görsel efektler
@@ -3859,11 +3375,7 @@
     - D-) Sadece I
     - E-) Sadece I ve II
 
-    > **Açıklama:** Film yapım aşamaları
-    > Çekim sonrası faaliyetleri şunlardır:
-    > |  |
-    > | --- |
-    > | • Kurgu formatı ve tekniğinin belirlenmesi • Kurgu • İzleme ve değerlendirme • Seslendirme • Renk düzeltme • Görsel efektler • Fragman • Tanıtım Filmi’dir. Prova çekim sırasındaki faaliyetlerdendir. |
+    > **Açıklama:** Film yapım aşamaları<br />Çekim sonrası faaliyetleri şunlardır:<br />|  |<br />| --- |<br />| • Kurgu formatı ve tekniğinin belirlenmesi • Kurgu • İzleme ve değerlendirme • Seslendirme • Renk düzeltme • Görsel efektler • Fragman • Tanıtım Filmi’dir. Prova çekim sırasındaki faaliyetlerdendir. |
 
     <hr />
 1. Film öyküsünü özetleyen ilk yazılı taslağa ne ad verilir?
@@ -3873,8 +3385,7 @@
     - D-) Tretman
     - E-) Sekans
 
-    > **Açıklama:** Tema ve senaryo
-    > Film öyküsünü özetleyen ilk yazılı taslağa Sinopsis adı verilir, sözlük anlamı olarak Yunan­cada “bir bakışta okunabilen” anlamına gelir.
+    > **Açıklama:** Tema ve senaryo<br />Film öyküsünü özetleyen ilk yazılı taslağa Sinopsis adı verilir, sözlük anlamı olarak Yunan­cada “bir bakışta okunabilen” anlamına gelir.
 
     <hr />
 1. Görüntü üretiminde ışık kullanımında yapımın türü ve anlatısıyla bağlantılı olarak istenilen atmosferi ve duygu durumlarını yansıtıl­masını içeren aydınlatma türüne…………..denir.<br />Metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?
@@ -3884,8 +3395,7 @@
     - **Cevap D-) Dramatik aydınlatma**
     - E-) Anahtar ışık
 
-    > **Açıklama:** Işık
-    > Teknik aydınlatma; sahne içerisinde yer alan ögelerin karanlık ve aydın­lık dengesi açısından sağlıklı ve dengeli bir biçimde ortaya çıkmasına ilişkin yapılan ışık düzenlemeleri içerir. Sahnenin teknik olarak aydınlatılması dı­şında, yapımın türü ve anlatısıyla bağlantılı olarak istenilen atmosferi ve duygu durumlarını yansıtıl­masını içeren dramatik aydınlatma söz konusudur.
+    > **Açıklama:** Işık<br />Teknik aydınlatma; sahne içerisinde yer alan ögelerin karanlık ve aydın­lık dengesi açısından sağlıklı ve dengeli bir biçimde ortaya çıkmasına ilişkin yapılan ışık düzenlemeleri içerir. Sahnenin teknik olarak aydınlatılması dı­şında, yapımın türü ve anlatısıyla bağlantılı olarak istenilen atmosferi ve duygu durumlarını yansıtıl­masını içeren dramatik aydınlatma söz konusudur.
 
     <hr />
 1. Aşağıdakilerden hangisi ya da hangileri kısa film türleri arasında yer alır?<br />I-Deneysel film<br />II-Klip<br />III-Reklam filmi
@@ -3905,8 +3415,7 @@
     - D-) Sadece III
     - E-) Sadece II
 
-    > **Açıklama:** Deneysel / İmgesel Kısa Filmler
-    > Ticari ya da geleneksel sinemadan farklı olarak duygu, düşünce, öykü ve tepkilerini alışılagelmiş ka­lıplar dışında izleyicilerine sunmak isteyen sanatçılar, sinemanın sınırlarını genişletmek adına deneysel bir tavırla filmler meydana getirdiler. Deneysel kısa filmler yapmak, kamera ve kurgunun sınırlarını zorlamak, onlarla neler yapılabileceğini keşfetmek olarak da yorumlanabilir. Deneysel sinema türünde, sinemanın alışılagelmiş anlatı kalıplarını ve sınırlarını genişletmeye yönelik üst üste pozlama, filmi geri sarma, filmin hızıyla oynama gibi birçok yöntemin kullanıldığı görülür.
+    > **Açıklama:** Deneysel / İmgesel Kısa Filmler<br />Ticari ya da geleneksel sinemadan farklı olarak duygu, düşünce, öykü ve tepkilerini alışılagelmiş ka­lıplar dışında izleyicilerine sunmak isteyen sanatçılar, sinemanın sınırlarını genişletmek adına deneysel bir tavırla filmler meydana getirdiler. Deneysel kısa filmler yapmak, kamera ve kurgunun sınırlarını zorlamak, onlarla neler yapılabileceğini keşfetmek olarak da yorumlanabilir. Deneysel sinema türünde, sinemanın alışılagelmiş anlatı kalıplarını ve sınırlarını genişletmeye yönelik üst üste pozlama, filmi geri sarma, filmin hızıyla oynama gibi birçok yöntemin kullanıldığı görülür.
 
     <hr />
 1. Hareketli görüntü üretiminde ışık kullanımını en temelde ………. kategoriye ayırabiliriz. Bunlar tek­nik ve dramatik aydınlatmadır.<br />Metinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?
@@ -3916,8 +3425,7 @@
     - D-) Altı
     - E-) Dört
 
-    > **Açıklama:** Işık
-    > Hareketli görüntü üretiminde ışık kullanımını en temelde iki kategoriye ayırabiliriz. Bunlar tek­nik ve dramatik aydınlatmadır.
+    > **Açıklama:** Işık<br />Hareketli görüntü üretiminde ışık kullanımını en temelde iki kategoriye ayırabiliriz. Bunlar tek­nik ve dramatik aydınlatmadır.
 
     <hr />
 1. Aşağıdakilerden hangisi ya da hangileri bilgisayar animasyonu türüne ait tekniklerdendir**?**<br />I- Şekil Değiştirme / Morphing<br />II-Piksilasyon (Pixilation)<br />III-Hareket Yakalama (Motion Capture)
@@ -3937,8 +3445,7 @@
     - D-) Temanın bulunması
     - E-) • Sinopsis, tretman ve çekim senaryosu yazımı
 
-    > **Açıklama:** Film ekibinin
-    > kurulması
+    > **Açıklama:** Film ekibinin<br />kurulması
 
     <hr />
 1. Aşağıdakilerden hangisi çekim sonrası aşamalardsndır?
@@ -3948,9 +3455,7 @@
     - D-) • Film ekibinin kurulması
     - E-) Çekim öncesi toplantısı
 
-    > **Açıklama:** Kurgu formatı
-    > ve tekniğinin
-    > belirlenmesi
+    > **Açıklama:** Kurgu formatı<br />ve tekniğinin<br />belirlenmesi
 
     <hr />
 1. çekim senaryosu nedir?
@@ -3960,8 +3465,7 @@
     - D-) Film öyküsünü özetleyen ilk yazılı taslaktır
     - E-) sinopsisin geliştirilmiş hâlidir. Filmde yer alan kişiler ve mekânların yanı sıra öykünün giriş, gelişme ve sonuç bölümleri bulunur
 
-    > **Açıklama:** Film öyküsünün sahnelere
-    > bölünerek ayrımlandığı, çekim yerlerinin belirtildiği, oyuncu diyalogları, kamera, hareket ve çerçeve gibi ayrıntılı bilgileri içeren teknik bir metindir
+    > **Açıklama:** Film öyküsünün sahnelere<br />bölünerek ayrımlandığı, çekim yerlerinin belirtildiği, oyuncu diyalogları, kamera, hareket ve çerçeve gibi ayrıntılı bilgileri içeren teknik bir metindir
 
     <hr />
 1. Sahne nedir?
@@ -3971,8 +3475,7 @@
     - D-) geleneksel dramatik anlatımlarda öykü bir çatışma ile başlar ve doruk noktasına ulaşana dek yükselen bir eğride devam ede
     - E-) Film öyküsünü özetleyen ilk yazılı taslaktır.
 
-    > **Açıklama:** Sahne terimi ile oyunun oluşturulduğu
-    > yer ve dekor tanımlanır
+    > **Açıklama:** Sahne terimi ile oyunun oluşturulduğu<br />yer ve dekor tanımlanır
 
     <hr />
 1. çerçeve oranı nedir?
@@ -3992,7 +3495,6 @@
     - D-) : Film öyküsünün sahnelere bölünerek ayrımlandığı, çekim yerlerinin belirtildiği, oyuncu diyalogları, kamera, hareket ve çerçeve gibi ayrıntılı bilgileri içeren teknik bir metindir
     - E-) görüntü genişliğinin yüksekliğine olan oranını ifade eder.
 
-    > **Açıklama:** Video aslında birbiri ardına dizilmiş fotoğrafların sırayla gösterilmesi olayıdır. Kare (frame), videoda
-    > görüntüyü oluşturan her bir resme denir
+    > **Açıklama:** Video aslında birbiri ardına dizilmiş fotoğrafların sırayla gösterilmesi olayıdır. Kare (frame), videoda<br />görüntüyü oluşturan her bir resme denir
 
     <hr />

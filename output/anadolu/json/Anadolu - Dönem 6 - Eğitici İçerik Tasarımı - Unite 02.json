@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "EĞİTİM PROGRAMININ ÖGELERİ<br>kapsam"
+        "Aciklama": "EĞİTİM PROGRAMININ ÖGELERİ<br/>kapsam"
     },
     {
         "SoruID": 3763944,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "EĞİTİM PROGRAMININ ÖGELERİ:<br>II, IV ve V"
+        "Aciklama": "EĞİTİM PROGRAMININ ÖGELERİ:<br/>II, IV ve V"
     },
     {
         "SoruID": 3763945,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "EĞİTİM PROGRAMININ ÖGELERİ<br>I ve V"
+        "Aciklama": "EĞİTİM PROGRAMININ ÖGELERİ<br/>I ve V"
     },
     {
         "SoruID": 3763946,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İçeriğin Yapısı<br>Beceri, tutum, değer"
+        "Aciklama": "İçeriğin Yapısı<br/>Beceri, tutum, değer"
     },
     {
         "SoruID": 3763947,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İçeriğin Yapısı<br>Olgu"
+        "Aciklama": "İçeriğin Yapısı<br/>Olgu"
     },
     {
         "SoruID": 3763948,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İçeriğin Yapısı<br>Görsel, yazılı ve sözlü bilgi edinebilmek için çalışma, okuma, yazma, dinleme, konuşma becerileri geliştirme"
+        "Aciklama": "İçeriğin Yapısı<br/>Görsel, yazılı ve sözlü bilgi edinebilmek için çalışma, okuma, yazma, dinleme, konuşma becerileri geliştirme"
     },
     {
         "SoruID": 3763949,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İÇERİK SEÇİMİ<br>İçerikte sunulan bilgi bilimsel açıdan doğru mu?"
+        "Aciklama": "İÇERİK SEÇİMİ<br/>İçerikte sunulan bilgi bilimsel açıdan doğru mu?"
     },
     {
         "SoruID": 3763950,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İÇERİK SEÇİMİ<br>Sistematik mi?"
+        "Aciklama": "İÇERİK SEÇİMİ<br/>Sistematik mi?"
     },
     {
         "SoruID": 3763951,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İÇERİĞİN DÜZENLENMESİ<br>Vardama"
+        "Aciklama": "İÇERİĞİN DÜZENLENMESİ<br/>Vardama"
     },
     {
         "SoruID": 3763952,
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İçerik Düzenlemede Öğrenme Stratejilerinden Yararlanma<br>Anlamlandırma"
+        "Aciklama": "İçerik Düzenlemede Öğrenme Stratejilerinden Yararlanma<br/>Anlamlandırma"
     }
 ]

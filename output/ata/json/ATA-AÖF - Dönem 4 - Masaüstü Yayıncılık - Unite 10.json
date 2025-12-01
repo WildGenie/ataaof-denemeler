@@ -4,7 +4,7 @@
         "SoruMetni": "<strong>Aşağıdakilerden hangisi Ofset baskı hakkında <u>yanlıştır</u>?</strong>",
         "A": "Ofset baskı genellikle kâğıt yüzeyinde kullanılan baskı tekniğidir.",
         "B": "Ofset baskı dünyada nadir kullanılan baskı tekniğidir.",
-        "C": "Ofset baskı, Amerikalı Ira W. Rubel tarafından bulunmuştur.<br type=\"_moz\"/>",
+        "C": "Ofset baskı, Amerikalı Ira W. Rubel tarafından bulunmuştur.",
         "D": "Ofset sisteminin ana sistemi merdane ve kazan olmak üzere küçüklü-büyüklü silindir mekanizmalardan oluşur.",
         "E": "Ofset baskı, yağ bazlı ofset mürekkebiyle nemlendirme suyunun birbirini kabul etmemesi prensibine dayanır.",
         "DogruCevap": "B",
@@ -321,7 +321,7 @@
     },
     {
         "SoruID": 244060,
-        "SoruMetni": "I. Kitap ucuzlamıştır.<br/>II. Okuryazar sayısı artmıştır.<br/>III. Sanatta gerileme olmuştur.<br/><strong>Yukarıdakilerden hangisi ya da hangileri matbaayla ilgili bir gelişmedir?</strong> </br></br>",
+        "SoruMetni": "I. Kitap ucuzlamıştır.<br/>II. Okuryazar sayısı artmıştır.<br/>III. Sanatta gerileme olmuştur.<br/><strong>Yukarıdakilerden hangisi ya da hangileri matbaayla ilgili bir gelişmedir?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",

@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 327254,
-        "SoruMetni": "I. Work Sans<br/>II. Canola <br/>III. Breite<br/><strong>Yukarıdakilerden hangisi ya da hangileri Metapolator ile geliştirilen ilk yazı ailelerindendir?</strong></br></br>",
+        "SoruMetni": "I. Work Sans<br/>II. Canola <br/>III. Breite<br/><strong>Yukarıdakilerden hangisi ya da hangileri Metapolator ile geliştirilen ilk yazı ailelerindendir?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -241,7 +241,7 @@
     },
     {
         "SoruID": 327256,
-        "SoruMetni": "I. OpenType’ın geliştirilmesi<br/>II. Unicode’un geliştirilmesi<br/>III. İnternet kullanımının yaygınlaşması <br/>IV. Baskı teknolojilerinin geliştirilmesi<br/><strong>Yukarıdaki ifadelerden hangileri 20. yüzyılın sonunda tipografi alanında görülen değişimlerdendir?</strong><br/></br></br></br></br>",
+        "SoruMetni": "I. OpenType’ın geliştirilmesi<br/>II. Unicode’un geliştirilmesi<br/>III. İnternet kullanımının yaygınlaşması <br/>IV. Baskı teknolojilerinin geliştirilmesi<br/><strong>Yukarıdaki ifadelerden hangileri 20. yüzyılın sonunda tipografi alanında görülen değişimlerdendir?</strong>",
         "A": "Yalnız I",
         "B": "I ve III",
         "C": "I, II ve III",
@@ -281,7 +281,7 @@
     },
     {
         "SoruID": 363296,
-        "SoruMetni": "I. Work Sans<br/>II. Canola<br/>III. Breite<br/><strong>Yukarıdaki ifadelerden hangisi ya da hangileri metapolator ile geliştirilen ilk yazı ailelerindendir?</strong></br></br>",
+        "SoruMetni": "I. Work Sans<br/>II. Canola<br/>III. Breite<br/><strong>Yukarıdaki ifadelerden hangisi ya da hangileri metapolator ile geliştirilen ilk yazı ailelerindendir?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",

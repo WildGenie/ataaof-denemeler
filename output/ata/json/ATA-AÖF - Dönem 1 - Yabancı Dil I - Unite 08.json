@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 116679,
-        "SoruMetni": "A: .............................................................? <br/>B: She has been there for 5 days.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "A: .............................................................? <br/>B: She has been there for 5 days.<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Have you ever been to the hospital?",
         "B": "Has she been to the hospital?",
         "C": "How long has she been in the hospital?",
@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 143084,
-        "SoruMetni": "First, …….., Third, ……..<br/><strong>Boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "First, …….., Third, ……..<br/><strong>Boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Three/Four",
         "B": "Thirth/Fourthieth",
         "C": "Threeth/ Forth",
@@ -241,7 +241,7 @@
     },
     {
         "SoruID": 157343,
-        "SoruMetni": "Have you .......................your homework? <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Have you .......................your homework? <br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "did",
         "B": "does",
         "C": "doing",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 157344,
-        "SoruMetni": "We have ....................... that film.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong><br/></br>",
+        "SoruMetni": "We have ....................... that film.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>",
         "A": "saw",
         "B": "seen",
         "C": "see",
@@ -421,7 +421,7 @@
     },
     {
         "SoruID": 334588,
-        "SoruMetni": "A: How long has she been there?<br/>B: ...................................................... .<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br></br>",
+        "SoruMetni": "A: How long has she been there?<br/>B: ...................................................... .<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Last year",
         "B": "In 1990",
         "C": "For three days",

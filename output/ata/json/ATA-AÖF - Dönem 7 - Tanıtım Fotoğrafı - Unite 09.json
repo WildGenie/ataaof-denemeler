@@ -1,11 +1,11 @@
 [
     {
         "SoruID": 386132,
-        "SoruMetni": "<strong>Makine içi pozometreler hangi ışığı ölçer?</strong><br type=\"_moz\"/>",
+        "SoruMetni": "<strong>Makine içi pozometreler hangi ışığı ölçer?</strong>",
         "A": "Gelen ışığı",
-        "B": "Yansıyan ışığı<br/><br type=\"_moz\"> <br/></br>",
-        "C": "Konuya düşen ışığı<br/><br type=\"_moz\"> <br/></br>",
-        "D": "Konuyu aydınlatan ışığı<br/><br type=\"_moz\"> <br/></br>",
+        "B": "Yansıyan ışığı",
+        "C": "Konuya düşen ışığı",
+        "D": "Konuyu aydınlatan ışığı",
         "E": "Bir yerden yansıyarak konuya ulaşan ışığı",
         "DogruCevap": "B",
         "DersAd": "Tanıtım Fotoğrafı",

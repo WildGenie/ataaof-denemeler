@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 116813,
-        "SoruMetni": "A: What does your brother look like?<br/>B:_________________________ .<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> </br>",
+        "SoruMetni": "A: What does your brother look like?<br/>B:_________________________ .<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "He likes coffee.",
         "B": "He is tall and fat.",
         "C": "He is very well.",
@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 116906,
-        "SoruMetni": "A: What do you think about the match tomorrow? <br/>B: __________________________________ .<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "A: What do you think about the match tomorrow? <br/>B: __________________________________ .<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Our team will win the match",
         "B": "Our team won the match",
         "C": "Our team has been winning the match",
@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 142463,
-        "SoruMetni": "He doesn’t care about others. He is a ..................... man.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "He doesn’t care about others. He is a ..................... man.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "dirty",
         "B": "reliable",
         "C": "pessimistic",
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 143295,
-        "SoruMetni": "A: Is he fat or thin?<br/>B: He is ....................<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "A: Is he fat or thin?<br/>B: He is ....................<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "hot",
         "B": "tall",
         "C": "cool",
@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 143306,
-        "SoruMetni": "A: What do you think about Ali?<br/>B: He doesn’t like working, he is very ....................<br/><strong>Diyalogta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "A: What do you think about Ali?<br/>B: He doesn’t like working, he is very ....................<br/><strong>Diyalogta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "agressive",
         "B": "easy going",
         "C": "helpful",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 143463,
-        "SoruMetni": "Your brother__________ the exam.<br/>Which of the following completes the sentence in negative future?<br/><strong>Aşağıdakilerden hangisi yukarıdaki tümceyi olumsuz gelecek zaman olarak tamamlar?</strong> </br>",
+        "SoruMetni": "Your brother__________ the exam.<br/>Which of the following completes the sentence in negative future?<br/><strong>Aşağıdakilerden hangisi yukarıdaki tümceyi olumsuz gelecek zaman olarak tamamlar?</strong>",
         "A": "will take",
         "B": "won't take",
         "C": "haven not taken",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 143471,
-        "SoruMetni": "A: What will you have for a starter?<br/>B: ..................................................<br/><strong>Diyaloğu aşağıdakilerden hangisi doğru şekilde tamamlar?</strong> </br>",
+        "SoruMetni": "A: What will you have for a starter?<br/>B: ..................................................<br/><strong>Diyaloğu aşağıdakilerden hangisi doğru şekilde tamamlar?</strong>",
         "A": "I do not like brown clothes.",
         "B": "I do not like sunny days.",
         "C": "I promise I will be on time.",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 143504,
-        "SoruMetni": "He never lies. He is very __________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong> </br>",
+        "SoruMetni": "He never lies. He is very __________.<br/>Which of the following completes the dialogue above?<br/><strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong>",
         "A": "honest",
         "B": "mean",
         "C": "untidy",
@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 157412,
-        "SoruMetni": "A: And, would you like a salad as well?<br/>B: ....................... <br/><strong>Aşağıdakilerden hangisi diyaloğu en iyi şekilde tamamlar?</strong> <br/></br>",
+        "SoruMetni": "A: And, would you like a salad as well?<br/>B: ....................... <br/><strong>Aşağıdakilerden hangisi diyaloğu en iyi şekilde tamamlar?</strong>",
         "A": "Can I get you anything to drink?",
         "B": "Of course, here you are.",
         "C": "Yes please. That will be nice.",
@@ -261,7 +261,7 @@
     },
     {
         "SoruID": 157414,
-        "SoruMetni": "A: What is ayran?<br/>B: ____________________.<br/><strong>Karşılıklı konuşmada </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br>",
+        "SoruMetni": "A: What is ayran?<br/>B: ____________________.<br/><strong>Karşılıklı konuşmada </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "I will have a doner, please.",
         "B": "He is medium weight.",
         "C": "He is medium height.",
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 306371,
-        "SoruMetni": "1. A: What would you like to drink, tea or coffe?<br/>B: I (have) __________ a cup of tea.<br/>Which of the following completes the dialogue above? ,<br/><strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong> </br></br>",
+        "SoruMetni": "1. A: What would you like to drink, tea or coffe?<br/>B: I (have) __________ a cup of tea.<br/>Which of the following completes the dialogue above? ,<br/><strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong>",
         "A": "will have",
         "B": "have had",
         "C": "did have",
@@ -421,7 +421,7 @@
     },
     {
         "SoruID": 334613,
-        "SoruMetni": "Tara: Can I have the menu, please?<br/>The waiter: Of course, here you are.<br/>Tara: ................................................. .<br/>The waiter: OK. Would you like something to drink?<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong></br></br></br>",
+        "SoruMetni": "Tara: Can I have the menu, please?<br/>The waiter: Of course, here you are.<br/>Tara: ................................................. .<br/>The waiter: OK. Would you like something to drink?<br/><strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "I will have a vegetarian pizza, please.",
         "B": "That will be nice.",
         "C": "I'll have an ayran, please.",
@@ -481,7 +481,7 @@
     },
     {
         "SoruID": 398489,
-        "SoruMetni": "A: What is she like?<br/>B: She always thinks negatively. She is very ..........................<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong></br>",
+        "SoruMetni": "A: What is she like?<br/>B: She always thinks negatively. She is very ..........................<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>",
         "A": "honest",
         "B": "easy-going",
         "C": "pessimistic",

@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Renk Teorisi<br>• 3 ikincil (yeşil, <strong>mor,</strong> turuncu)"
+        "Aciklama": "Renk Teorisi<br/>• 3 ikincil (yeşil, <strong>mor,</strong> turuncu)"
     },
     {
         "SoruID": 3764579,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Renk Teorisi<br>• 3 birincil (sarı, mavi, <strong>kırmızı)•</strong>"
+        "Aciklama": "Renk Teorisi<br/>• 3 birincil (sarı, mavi, <strong>kırmızı)•</strong>"
     },
     {
         "SoruID": 3764604,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>ICC ve Renk Profilleri</strong><br><strong>Renk yönetimi</strong>, tasarım ve üretim aşamasında kullanılan cihazlar arasında renk dönüşümlerinin yapılmasını, baskı sonucunun ekranda ve provada simüle edilmesini sağlar."
+        "Aciklama": "<strong>ICC ve Renk Profilleri</strong><br/><strong>Renk yönetimi</strong>, tasarım ve üretim aşamasında kullanılan cihazlar arasında renk dönüşümlerinin yapılmasını, baskı sonucunun ekranda ve provada simüle edilmesini sağlar."
     },
     {
         "SoruID": 3764606,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Işık ile Oluşan Renk (Toplamsal Renk Metodu)<br>Toplamsal renk metodunun üç ana rengi olan kırmızı yeşil ve mavi, beyaz ışığın bir bileşenini temsil eder ve böylece tüm renklerin üst üste geldiği yerde beyaz üretilir."
+        "Aciklama": "Işık ile Oluşan Renk (Toplamsal Renk Metodu)<br/>Toplamsal renk metodunun üç ana rengi olan kırmızı yeşil ve mavi, beyaz ışığın bir bileşenini temsil eder ve böylece tüm renklerin üst üste geldiği yerde beyaz üretilir."
     },
     {
         "SoruID": 3764611,

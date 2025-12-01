@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görsel iletişim tasarımı, kavramsal mesajları şekil, renk, tipografi ve düzen gibi görsel unsurlar aracılığıyla iletmeyi amaçlar. Bu disiplin, grafik tasarımdan animasyona, dijital medya tasarımından reklamcılığa kadar geniş bir yelpazeyi kapsar.<br><strong>Görsel iletişim tasarımı</strong>, mesajların görsel ögeler aracılığıyla etkili bir şekilde iletilmesini amaçlayan disiplinler arası bir alandır. Grafik tasarım, tipografi, renk teorisi, kompozisyon ve dijital medya gibi unsurların birleşimiyle, bilgiye anlam kazandıran yaratıcı çözümler üretilir. Günümüzde markalaşmadan eğitim materyallerine, sosyal medyadan sanat projelerine kadar geniş bir yelpazede kullanılan görsel iletişim tasarımı, insanların algılarını yönlendirme ve duygu yaratma gücüne sahiptir."
+        "Aciklama": "Görsel iletişim tasarımı, kavramsal mesajları şekil, renk, tipografi ve düzen gibi görsel unsurlar aracılığıyla iletmeyi amaçlar. Bu disiplin, grafik tasarımdan animasyona, dijital medya tasarımından reklamcılığa kadar geniş bir yelpazeyi kapsar.<br/><strong>Görsel iletişim tasarımı</strong>, mesajların görsel ögeler aracılığıyla etkili bir şekilde iletilmesini amaçlayan disiplinler arası bir alandır. Grafik tasarım, tipografi, renk teorisi, kompozisyon ve dijital medya gibi unsurların birleşimiyle, bilgiye anlam kazandıran yaratıcı çözümler üretilir. Günümüzde markalaşmadan eğitim materyallerine, sosyal medyadan sanat projelerine kadar geniş bir yelpazede kullanılan görsel iletişim tasarımı, insanların algılarını yönlendirme ve duygu yaratma gücüne sahiptir."
     },
     {
         "SoruID": 3834100,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>İletişim teknolojisi</strong>, bilgi alışverişinde kullanılan teknik süreçlerin öğrenimini kapsamaktadır. Bazıları iletişim teknolojisini bilgi alışverişi veya semboller ve kelimelerin kullanımı olarak algılarken, diğerleri bunu mesajların iletimi ve depolanması olarak değerlendirmektedir. Ancak iletişim teknolojisi kavramını tam anlamıyla kavrayabilmek için kapsamlı bir tanım gereklidir. Bu tanım, süreci açıklamalı ve insanlar ile makineler arasındaki etkileşimi içermelidir. Symour, Ritz ve Cloghessy (1987)’e göre, iletişim teknolojisi, mesajların kaynaktan alıcıya kodlar ve sistemler kullanılarak iletilmesi anlamına gelmektedir.<br>Symour, Ritz ve Cloghessy (1987)’e göre, <strong>iletişim teknolojisi</strong>, mesajların kaynaktan alıcıya kodlar ve sistemler kullanılarak iletilmesi anlamına gelmektedir."
+        "Aciklama": "<strong>İletişim teknolojisi</strong>, bilgi alışverişinde kullanılan teknik süreçlerin öğrenimini kapsamaktadır. Bazıları iletişim teknolojisini bilgi alışverişi veya semboller ve kelimelerin kullanımı olarak algılarken, diğerleri bunu mesajların iletimi ve depolanması olarak değerlendirmektedir. Ancak iletişim teknolojisi kavramını tam anlamıyla kavrayabilmek için kapsamlı bir tanım gereklidir. Bu tanım, süreci açıklamalı ve insanlar ile makineler arasındaki etkileşimi içermelidir. Symour, Ritz ve Cloghessy (1987)’e göre, iletişim teknolojisi, mesajların kaynaktan alıcıya kodlar ve sistemler kullanılarak iletilmesi anlamına gelmektedir.<br/>Symour, Ritz ve Cloghessy (1987)’e göre, <strong>iletişim teknolojisi</strong>, mesajların kaynaktan alıcıya kodlar ve sistemler kullanılarak iletilmesi anlamına gelmektedir."
     },
     {
         "SoruID": 3834104,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Üretken yapay zekânın etik ilkelere uygun kullanımı konusunda Yükseköğretim Kurumu bir rehber yayımlamıştır. Bu rehberde yer alan temel etik değerler şu şekildedir (YÖK, 2024):<br/><strong>• Şeffaflık: </strong>Üretken yapay zekânın hangi aşamalarda ve ne ölçüde kullanıldığının açıkça belirtilmesi gerekir. Şeffaflık, bilimsel dürüstlüğün korunması ve yapay zekâ tarafından getirilen risklere karşı önlem alınmasını sağlar.<br/><strong>• Dürüstlük</strong>: Bilimsel bilginin tüm insanlığa fayda sağlaması ve bilimsel süreçlerin taraflılıktan arındırılması gereklidir. Dürüstlük, bilimsel sürecin her aşamasında öncelikli bir etik değerdir.<br/><strong>• Özen</strong>: Araştırmacıların bilimsel bilgi üretimi ve yayınında göstermeleri gereken ciddiyet ve etik duyarlılıktır. Özen, bilimsel yanıltma ve etik ihlallerin önlenmesinde kritik bir rol oynar.<br/><strong>• Adalet ve Saygı</strong>: Araştırma sürecindeki diğer paydaşlara ve veri sağlayan bir<br>E: Teknolojik Tarafsızlık seçeneği rehberde yer almamaktadır."
+        "Aciklama": "Üretken yapay zekânın etik ilkelere uygun kullanımı konusunda Yükseköğretim Kurumu bir rehber yayımlamıştır. Bu rehberde yer alan temel etik değerler şu şekildedir (YÖK, 2024):<br/><strong>• Şeffaflık: </strong>Üretken yapay zekânın hangi aşamalarda ve ne ölçüde kullanıldığının açıkça belirtilmesi gerekir. Şeffaflık, bilimsel dürüstlüğün korunması ve yapay zekâ tarafından getirilen risklere karşı önlem alınmasını sağlar.<br/><strong>• Dürüstlük</strong>: Bilimsel bilginin tüm insanlığa fayda sağlaması ve bilimsel süreçlerin taraflılıktan arındırılması gereklidir. Dürüstlük, bilimsel sürecin her aşamasında öncelikli bir etik değerdir.<br/><strong>• Özen</strong>: Araştırmacıların bilimsel bilgi üretimi ve yayınında göstermeleri gereken ciddiyet ve etik duyarlılıktır. Özen, bilimsel yanıltma ve etik ihlallerin önlenmesinde kritik bir rol oynar.<br/><strong>• Adalet ve Saygı</strong>: Araştırma sürecindeki diğer paydaşlara ve veri sağlayan bir<br/>E: Teknolojik Tarafsızlık seçeneği rehberde yer almamaktadır."
     },
     {
         "SoruID": 3834136,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Metin İşleme Araçları </strong><br/>Metin işleme araçları, dil işleme algoritmalarını kullanarak yazım hatalarını düzeltmekten yaratıcı içerikler üretmeye kadar birçok farklı işlevi yerine getirebilmektedir. Bu araçlar, doğal dil işleme (NLP) yöntemlerini uygulayarak bağlamı anlama ve kullanıcı ihtiyaçlarına yönelik hassas çözümler sunma kabiliyetine sahiptir. Dil modellerindeki bu gelişmeler, yazım denetimi, özetleme ve duygu analizi gibi çeşitli görevlerde önemli başarılar elde edilmesini sağlamaktadır. Bu alanda, BERT (Bidirectional Encoder Representations from Transformers) modeli, metin işleme araçlarının bağlam anlayışını önemli ölçüde geliştirmiştir. BERT, çift yönlü bağlam modelleme yaklaşımı sayesinde dil bilgisi denetimi, metin özetleme ve duygu analizi gibi görevlerde yüksek doğruluk oranları sunarak alandaki önemli yeniliklerden biri olarak öne çıkmaktadır (Devlin et al., 2019).<br/>Benzer şekilde, T5 (Text-to-Text Transfer Transformer) modeli, met<br>T5 (Text-to-Text Transfer Transformer) modeli, metin işleme süreçlerini “metinden metne dönüşüm” paradigması ile yeniden tanımlamıştır. Bu model, metin özetleme, çeviri ve içerik üretimi gibi geniş bir yelpazede kullanım alanı bularak metin işleme araçlarının çok yönlülüğünü artırmaktadır (Raffel et al., 2020)."
+        "Aciklama": "<strong>Metin İşleme Araçları </strong><br/>Metin işleme araçları, dil işleme algoritmalarını kullanarak yazım hatalarını düzeltmekten yaratıcı içerikler üretmeye kadar birçok farklı işlevi yerine getirebilmektedir. Bu araçlar, doğal dil işleme (NLP) yöntemlerini uygulayarak bağlamı anlama ve kullanıcı ihtiyaçlarına yönelik hassas çözümler sunma kabiliyetine sahiptir. Dil modellerindeki bu gelişmeler, yazım denetimi, özetleme ve duygu analizi gibi çeşitli görevlerde önemli başarılar elde edilmesini sağlamaktadır. Bu alanda, BERT (Bidirectional Encoder Representations from Transformers) modeli, metin işleme araçlarının bağlam anlayışını önemli ölçüde geliştirmiştir. BERT, çift yönlü bağlam modelleme yaklaşımı sayesinde dil bilgisi denetimi, metin özetleme ve duygu analizi gibi görevlerde yüksek doğruluk oranları sunarak alandaki önemli yeniliklerden biri olarak öne çıkmaktadır (Devlin et al., 2019).<br/>Benzer şekilde, T5 (Text-to-Text Transfer Transformer) modeli, met<br/>T5 (Text-to-Text Transfer Transformer) modeli, metin işleme süreçlerini “metinden metne dönüşüm” paradigması ile yeniden tanımlamıştır. Bu model, metin özetleme, çeviri ve içerik üretimi gibi geniş bir yelpazede kullanım alanı bularak metin işleme araçlarının çok yönlülüğünü artırmaktadır (Raffel et al., 2020)."
     },
     {
         "SoruID": 3834169,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Görsel Üretim Araçları </strong><br/>Görsel üretim araçları, kullanıcıların yalnızca kısa metin açıklamalarıyla yüksek kaliteli görseller oluşturmasına olanak sağlayarak yaratıcı süreçleri dönüştürmektedir. Bu alanda, OpenAI araştırmacıları tarafından geliştirilen DALL-E modeli, metin açıklamalarını görsellere dönüştürme konusunda çığır açıcı bir yaklaşıma sahiptir. Bu model, sıfırdan öğrenme (zero-shot learning) yeteneği sayesinde daha önce karşılaşmadığı kavramları dahi metin açıklamaları üzerinden anlamlandırabilmekte ve bu kavramları görselleştirebilmektedir. Bu özellik, yalnızca görsellerin oluşturulmasını değil, aynı zamanda özgün fikirlerin hızlı bir şekilde somutlaştırılmasını mümkün kılmaktadır (Ramesh et al., 2021). Benzer şekilde, Martin Gatys’in stil transfer algoritmalarına ilişkin çalışmaları, görsel düzenleme süreçlerinde estetik bütünlüğün sağlanmasına önemli katkılar sunmaktadır. Bu araştırmalarda, bir görüntünün stilini başka bir görüntüye aktarma süreci,<br>Martin Gatys’in stil transfer algoritmalarına ilişkin çalışmaları, görsel düzenleme süreçlerinde estetik bütünlüğün sağlanmasına önemli katkılar sunmaktadır. Bu araştırmalarda, bir görüntünün stilini başka bir görüntüye aktarma süreci, renk ve doku uyumunun derin öğrenme yöntemleriyle analiz edilmesi yoluyla detaylandırılmıştır. Bu yöntem, estetik açıdan tatmin edici ve yaratıcı sonuçlar elde edilmesini mümkün kılmaktadır (Gatys et al., 2016)."
+        "Aciklama": "<strong>Görsel Üretim Araçları </strong><br/>Görsel üretim araçları, kullanıcıların yalnızca kısa metin açıklamalarıyla yüksek kaliteli görseller oluşturmasına olanak sağlayarak yaratıcı süreçleri dönüştürmektedir. Bu alanda, OpenAI araştırmacıları tarafından geliştirilen DALL-E modeli, metin açıklamalarını görsellere dönüştürme konusunda çığır açıcı bir yaklaşıma sahiptir. Bu model, sıfırdan öğrenme (zero-shot learning) yeteneği sayesinde daha önce karşılaşmadığı kavramları dahi metin açıklamaları üzerinden anlamlandırabilmekte ve bu kavramları görselleştirebilmektedir. Bu özellik, yalnızca görsellerin oluşturulmasını değil, aynı zamanda özgün fikirlerin hızlı bir şekilde somutlaştırılmasını mümkün kılmaktadır (Ramesh et al., 2021). Benzer şekilde, Martin Gatys’in stil transfer algoritmalarına ilişkin çalışmaları, görsel düzenleme süreçlerinde estetik bütünlüğün sağlanmasına önemli katkılar sunmaktadır. Bu araştırmalarda, bir görüntünün stilini başka bir görüntüye aktarma süreci,<br/>Martin Gatys’in stil transfer algoritmalarına ilişkin çalışmaları, görsel düzenleme süreçlerinde estetik bütünlüğün sağlanmasına önemli katkılar sunmaktadır. Bu araştırmalarda, bir görüntünün stilini başka bir görüntüye aktarma süreci, renk ve doku uyumunun derin öğrenme yöntemleriyle analiz edilmesi yoluyla detaylandırılmıştır. Bu yöntem, estetik açıdan tatmin edici ve yaratıcı sonuçlar elde edilmesini mümkün kılmaktadır (Gatys et al., 2016)."
     },
     {
         "SoruID": 3834174,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kitap, yapay zekâ destekli video prodüksiyonunun, otomasyon sayesinde üretim süresini kısaltıp maliyetleri düşürdüğünü ve çok dilli içerik üretebildiğini belirtmektedir.<br>Yapay zekâ destekli video prodüksiyonu, üretim süresini kısaltarak maliyetleri düşürme ve çok dilli içerik üretebilme noktalarında katkı sağlar."
+        "Aciklama": "Kitap, yapay zekâ destekli video prodüksiyonunun, otomasyon sayesinde üretim süresini kısaltıp maliyetleri düşürdüğünü ve çok dilli içerik üretebildiğini belirtmektedir.<br/>Yapay zekâ destekli video prodüksiyonu, üretim süresini kısaltarak maliyetleri düşürme ve çok dilli içerik üretebilme noktalarında katkı sağlar."
     },
     {
         "SoruID": 3832232,
@@ -1017,7 +1017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">1988 yılında kullanıcı deneyimi terimini ilk kez kullanan isim Donald Norman'dır. </span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/><span style=\"font-weight: 400;\">1988 yılında kullanıcı deneyimi terimini ilk kez kullanan isim Donald Norman'dır. </span>"
     },
     {
         "SoruID": 3832794,
@@ -1037,7 +1037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br><span style=\"font-weight: 400;\">OpenAI tarafından geliştirilen ve kullanıcı destek süreçlerinde yaygın olarak kullanılan araç ChatGpt'dir</span>"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/><span style=\"font-weight: 400;\">OpenAI tarafından geliştirilen ve kullanıcı destek süreçlerinde yaygın olarak kullanılan araç ChatGpt'dir</span>"
     },
     {
         "SoruID": 3832798,
@@ -1057,7 +1057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır<br><span style=\"font-weight: 400;\">kullanıcı davranışlarını analiz ederek tasarım önerileri sunar, görsel düzenlemeleri optimize eder ve kullanılabilirlik sorunlarını tespit eden araç Adobe Sensei'dir</span>"
+        "Aciklama": "Doğru yanıt E şıkkıdır<br/><span style=\"font-weight: 400;\">kullanıcı davranışlarını analiz ederek tasarım önerileri sunar, görsel düzenlemeleri optimize eder ve kullanılabilirlik sorunlarını tespit eden araç Adobe Sensei'dir</span>"
     },
     {
         "SoruID": 3832801,
@@ -1077,7 +1077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt D şıkkıdır<br><span style=\"font-weight: 400;\">Kullanıcı davranışlarını izlemek ve görselleştirmekte yararlanılan, sunduğu kayıtlar ve ısı haritalarıyla kullanıcıların hangi alanda daha çok etkileşimde bulunduğunu belirlemeye yarayan araç Hotjar'dır</span>"
+        "Aciklama": "Doğru yanıt D şıkkıdır<br/><span style=\"font-weight: 400;\">Kullanıcı davranışlarını izlemek ve görselleştirmekte yararlanılan, sunduğu kayıtlar ve ısı haritalarıyla kullanıcıların hangi alanda daha çok etkileşimde bulunduğunu belirlemeye yarayan araç Hotjar'dır</span>"
     },
     {
         "SoruID": 3832802,
@@ -1097,7 +1097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "doğru yanıt D şıkkıdır<br>A/B testi <span style=\"font-weight: 400;\"> farklı tasarım varyasyonlarını karşılaştırarak hangisinin daha iyi performans gösterdiğini belirlemek için kullanılan temel bir yöntemdir.</span>"
+        "Aciklama": "doğru yanıt D şıkkıdır<br/>A/B testi <span style=\"font-weight: 400;\"> farklı tasarım varyasyonlarını karşılaştırarak hangisinin daha iyi performans gösterdiğini belirlemek için kullanılan temel bir yöntemdir.</span>"
     },
     {
         "SoruID": 3832806,
@@ -1117,7 +1117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br><span style=\"font-weight: 400;\">Bireysel öğeler yerine bütünsel bir algıya yönelme eğilimimizi açıklayan tasarım ilkesi Gestalt'dır.</span>"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/><span style=\"font-weight: 400;\">Bireysel öğeler yerine bütünsel bir algıya yönelme eğilimimizi açıklayan tasarım ilkesi Gestalt'dır.</span>"
     },
     {
         "SoruID": 3832807,
@@ -1137,7 +1137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır<br><span style=\"font-weight: 400;\">Kullanıcının sayfadaki göz hareketlerini yönlendirmek ve tasarım öğelerinin önem sırasına göre algılanmasını sağlamak amacıyla kullanılan ilke hiyerarşidir</span>"
+        "Aciklama": "Doğru yanıt E şıkkıdır<br/><span style=\"font-weight: 400;\">Kullanıcının sayfadaki göz hareketlerini yönlendirmek ve tasarım öğelerinin önem sırasına göre algılanmasını sağlamak amacıyla kullanılan ilke hiyerarşidir</span>"
     },
     {
         "SoruID": 3832810,
@@ -1157,7 +1157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br><span style=\"font-weight: 400;\">Kullanıcıların tasarım sürecine manuel olarak daha fazla müdahale etmesini teşvik etmesi, sağladığı katkılardan biri değildir</span>"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/><span style=\"font-weight: 400;\">Kullanıcıların tasarım sürecine manuel olarak daha fazla müdahale etmesini teşvik etmesi, sağladığı katkılardan biri değildir</span>"
     },
     {
         "SoruID": 3832814,
@@ -1177,7 +1177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">Gerçek zamanlı analizler yaparak hangi tasarımın daha etkili olduğunu hızlı bir şekilde belirleyen Google Optimiza'dır.</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/><span style=\"font-weight: 400;\">Gerçek zamanlı analizler yaparak hangi tasarımın daha etkili olduğunu hızlı bir şekilde belirleyen Google Optimiza'dır.</span>"
     },
     {
         "SoruID": 3832818,
@@ -1197,7 +1197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır<br><span style=\"font-weight: 400;\">Hem görsel hem video içerik üretiminde kullanılan, nesne algılama, video düzenleme ve stil transferi gibi özellikler sunan platform Runway ML'dir.</span>"
+        "Aciklama": "Doğru yanıt E şıkkıdır<br/><span style=\"font-weight: 400;\">Hem görsel hem video içerik üretiminde kullanılan, nesne algılama, video düzenleme ve stil transferi gibi özellikler sunan platform Runway ML'dir.</span>"
     },
     {
         "SoruID": 3833331,
@@ -1217,7 +1217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Etik Boyutlar ve Tartışmalar / Telif Hakları ve Mülkiyet Sorunları başlğı altında çözüm yer almaktadır.<br>Yapay zekânın görsel tasarım alanındaki en büyük etik sorunlarından biri, telif hakları ve fikri mülkiyet konusudur."
+        "Aciklama": "Etik Boyutlar ve Tartışmalar / Telif Hakları ve Mülkiyet Sorunları başlğı altında çözüm yer almaktadır.<br/>Yapay zekânın görsel tasarım alanındaki en büyük etik sorunlarından biri, telif hakları ve fikri mülkiyet konusudur."
     },
     {
         "SoruID": 3833333,
@@ -1237,7 +1237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yapay zekâ destekli tasarım araçlarının kullanımına dair etik şartnameler ve sorumluluk sözleşmeleri geliştirilmelidir (Morley vd., 2020). Bu metinlerde telif hakları, ön yargısızlık, şeffaflık, hesap verebilirlik gibi ilkeler vurgulanmalı, olası ihlal ve zararlar durumunda izlenecek adımlar belirtilmelidir. Sistemin karar verme mekanizmalarına da açıklık getirilmesi, kullanıcıların bilgilendirilmesi önem taşımaktadır<br>Şeffaf algoritmalar, yapay zekanın etik ve sürdürülebilir olmasını sağlar."
+        "Aciklama": "Yapay zekâ destekli tasarım araçlarının kullanımına dair etik şartnameler ve sorumluluk sözleşmeleri geliştirilmelidir (Morley vd., 2020). Bu metinlerde telif hakları, ön yargısızlık, şeffaflık, hesap verebilirlik gibi ilkeler vurgulanmalı, olası ihlal ve zararlar durumunda izlenecek adımlar belirtilmelidir. Sistemin karar verme mekanizmalarına da açıklık getirilmesi, kullanıcıların bilgilendirilmesi önem taşımaktadır<br/>Şeffaf algoritmalar, yapay zekanın etik ve sürdürülebilir olmasını sağlar."
     },
     {
         "SoruID": 3833336,
@@ -1257,7 +1257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir yapay zekâ aracı telif haklarını ihlal eden veya ayrımcı unsurlar içeren bir görsel ürettiğinde, bunun yükümlülüğü tasarımcıya mı, yazılımı geliştirene mi yoksa eğitim verisini sağlayana mı aittir tartışmalıdır (Brkan, 2019). Bir diğer belirsizlik, oluşabilecek zararların tazmini hususundadır. Yapay zekânın ürettiği hatalı<br/>veya yanıltıcı tasarımlar sebebiyle zarara uğrayanlar hangi mercilere başvurabilir, henüz netleşmemiştir.<br>Yapay zeka hatalarının kime ait olduğu net olarak belirsizdir."
+        "Aciklama": "Bir yapay zekâ aracı telif haklarını ihlal eden veya ayrımcı unsurlar içeren bir görsel ürettiğinde, bunun yükümlülüğü tasarımcıya mı, yazılımı geliştirene mi yoksa eğitim verisini sağlayana mı aittir tartışmalıdır (Brkan, 2019). Bir diğer belirsizlik, oluşabilecek zararların tazmini hususundadır. Yapay zekânın ürettiği hatalı<br/>veya yanıltıcı tasarımlar sebebiyle zarara uğrayanlar hangi mercilere başvurabilir, henüz netleşmemiştir.<br/>Yapay zeka hatalarının kime ait olduğu net olarak belirsizdir."
     },
     {
         "SoruID": 3833337,
@@ -1277,7 +1277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Derin öğrenme sistemleri, eğitildikleri veri setlerindeki dengesizlik ve yanlılık nedeniyle belirli kalıpyargıları pekiştirebil mektedir (Ntoutsi vd., 2020).<br>Önyargı (Bias): Yapay zekâ sistemlerinin eğitim verilerindeki dengesizlikler veya yanlılıklar nedeniyle belirli gruplara karşı sistematik olarak ayrımcı davranması durumudur."
+        "Aciklama": "Derin öğrenme sistemleri, eğitildikleri veri setlerindeki dengesizlik ve yanlılık nedeniyle belirli kalıpyargıları pekiştirebil mektedir (Ntoutsi vd., 2020).<br/>Önyargı (Bias): Yapay zekâ sistemlerinin eğitim verilerindeki dengesizlikler veya yanlılıklar nedeniyle belirli gruplara karşı sistematik olarak ayrımcı davranması durumudur."
     },
     {
         "SoruID": 3833340,
@@ -1317,7 +1317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tasarımcıların yaratıcılık ve problem çözme gibi üst düzey beceriler her zaman tasarımcıların tekelinde kalacaktır. Yapay zekâ ne kadar ilerlerse ilerlesin, insan sezgisi, empati yeteneği, eleştirel düşünme ve iletişim gücünün yerini alamayacaktır (Deterding vd, 2017). Fakat tasarımcıların da değişen çağa ayak uydurması,<br/>yapay zekâ okuryazarlıklarını geliştirmeleri şarttır. Veri analizi, algoritma tasarımı, kodlama gibi teknik yetkinlikleri içeren “computational design” yaklaşımını benimsemeleri gerekmektedir (Oxman, 2017).<br>Tasarımcıların yaratıcılık ve problem çözme gibi üst düzey becerilerin yanında veri analizi, algoritma tasarımı, kodlama gibi teknik yetkinlikleri de ihtiyacı vardır."
+        "Aciklama": "Tasarımcıların yaratıcılık ve problem çözme gibi üst düzey beceriler her zaman tasarımcıların tekelinde kalacaktır. Yapay zekâ ne kadar ilerlerse ilerlesin, insan sezgisi, empati yeteneği, eleştirel düşünme ve iletişim gücünün yerini alamayacaktır (Deterding vd, 2017). Fakat tasarımcıların da değişen çağa ayak uydurması,<br/>yapay zekâ okuryazarlıklarını geliştirmeleri şarttır. Veri analizi, algoritma tasarımı, kodlama gibi teknik yetkinlikleri içeren “computational design” yaklaşımını benimsemeleri gerekmektedir (Oxman, 2017).<br/>Tasarımcıların yaratıcılık ve problem çözme gibi üst düzey becerilerin yanında veri analizi, algoritma tasarımı, kodlama gibi teknik yetkinlikleri de ihtiyacı vardır."
     },
     {
         "SoruID": 3833346,
@@ -1337,7 +1337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Makinelerin yaratıcı süreçlerdeki rolleri destekleyici ve zenginleştirici olmalıdır, tümüyle ikame edici veya baskın değil. Ancak bu şekilde yapay zekânın tasarımın geleceğinde sorumlu ve güvenilir bir ortak olması mümkün olabilir<br>İnsan-yapay zekâ etkileşimi bir “centaur” yaklaşımıyla yani karşılıklı ve tamamlayıcı bir anlayışla kurgulanmalıdır."
+        "Aciklama": "Makinelerin yaratıcı süreçlerdeki rolleri destekleyici ve zenginleştirici olmalıdır, tümüyle ikame edici veya baskın değil. Ancak bu şekilde yapay zekânın tasarımın geleceğinde sorumlu ve güvenilir bir ortak olması mümkün olabilir<br/>İnsan-yapay zekâ etkileşimi bir “centaur” yaklaşımıyla yani karşılıklı ve tamamlayıcı bir anlayışla kurgulanmalıdır."
     },
     {
         "SoruID": 3833349,
@@ -1357,7 +1357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanatın özünde insan duygu ve deneyimlerini yansıtma, yaratıcılık ve ifade özgürlüğü vardır. Fakat yapay zekâ araçları bu süreçleri taklit etme ve hatta belli teknik ölçütlerde aşma yeteneğine ulaşmışlardır. Resim veya müzikleri tarzından ayırt edilemeyecek şekilde kopyalayabilen, soyut kavramları bile görselleştirebilen<br/>sistemler mevcuttur. Dolayısıyla “yapay zekâ sanatçılığı” kavramı yeni bir olgu olarak karşımıza çıkmaktadır (Hong ve Curran, 2019).<br>Bununla birlikte, bir sanat eserinin değerini salt teknik ustalık ile ölçmek doğru değildir. Sanatçının iç dünyası, duyguları, mesajı, bağlamı gibi unsurlar da çok önemlidir (Hertzmann, 2018). Yapay zekâlar henüz bu insani ve öznel nitelikleri tam anlamıyla yansıtamamaktadır."
+        "Aciklama": "Sanatın özünde insan duygu ve deneyimlerini yansıtma, yaratıcılık ve ifade özgürlüğü vardır. Fakat yapay zekâ araçları bu süreçleri taklit etme ve hatta belli teknik ölçütlerde aşma yeteneğine ulaşmışlardır. Resim veya müzikleri tarzından ayırt edilemeyecek şekilde kopyalayabilen, soyut kavramları bile görselleştirebilen<br/>sistemler mevcuttur. Dolayısıyla “yapay zekâ sanatçılığı” kavramı yeni bir olgu olarak karşımıza çıkmaktadır (Hong ve Curran, 2019).<br/>Bununla birlikte, bir sanat eserinin değerini salt teknik ustalık ile ölçmek doğru değildir. Sanatçının iç dünyası, duyguları, mesajı, bağlamı gibi unsurlar da çok önemlidir (Hertzmann, 2018). Yapay zekâlar henüz bu insani ve öznel nitelikleri tam anlamıyla yansıtamamaktadır."
     },
     {
         "SoruID": 3833353,
@@ -1377,7 +1377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu manada sanat dünyasının ve eleştirmenlerin ön yargısız, esnek ve kapsayıcı bir<br/>tutum benimsemesi önem taşımaktadır. Yapay zekânın yaratıcılığı zenginleştirici katkıları görmezden gelinmemeli, insan zekâsına bir alternatif değil bir katalizör olarak değerlendirilmelidir (Miller, 2019). Hem insan hem de makine için sanatsal değer ve özgünlük kavramları çağa uygun şekilde güncellenmeli, yeniden yorumlanmalıdır.<br>teknoloji ilerledikçe estetik yargı ve değer kriterlerinin de evrilmesi muhtemeldir. Belki de yapay zekâ sanatı zamanla kendi özgün ifade biçimlerini geliştirecek, yeni bir tür olarak kabul görecektir."
+        "Aciklama": "Bu manada sanat dünyasının ve eleştirmenlerin ön yargısız, esnek ve kapsayıcı bir<br/>tutum benimsemesi önem taşımaktadır. Yapay zekânın yaratıcılığı zenginleştirici katkıları görmezden gelinmemeli, insan zekâsına bir alternatif değil bir katalizör olarak değerlendirilmelidir (Miller, 2019). Hem insan hem de makine için sanatsal değer ve özgünlük kavramları çağa uygun şekilde güncellenmeli, yeniden yorumlanmalıdır.<br/>teknoloji ilerledikçe estetik yargı ve değer kriterlerinin de evrilmesi muhtemeldir. Belki de yapay zekâ sanatı zamanla kendi özgün ifade biçimlerini geliştirecek, yeni bir tür olarak kabul görecektir."
     },
     {
         "SoruID": 3833363,
@@ -1397,7 +1397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Örneğin GPT-3 gibi büyük dil modellerinin eğitimi için harcanan enerji, 100 yolcu uçağının ömür boyu yarattığı karbon emisyonuna eş değerdir (Patterson, 2022). DALL-E benzeri üretken modellerin çalıştırılması da hatırı sayılır elektrik sarfiyatı gerektirmektedir<br>Yapay zekâ sistemleri ve veri merkezleri devasa miktarlarda enerji tüketmekte, ciddi karbon salınımına yol açmaktadır"
+        "Aciklama": "Örneğin GPT-3 gibi büyük dil modellerinin eğitimi için harcanan enerji, 100 yolcu uçağının ömür boyu yarattığı karbon emisyonuna eş değerdir (Patterson, 2022). DALL-E benzeri üretken modellerin çalıştırılması da hatırı sayılır elektrik sarfiyatı gerektirmektedir<br/>Yapay zekâ sistemleri ve veri merkezleri devasa miktarlarda enerji tüketmekte, ciddi karbon salınımına yol açmaktadır"
     },
     {
         "SoruID": 3833364,
@@ -1417,7 +1417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeşil yapay zekâ, çevre dostu, düşük karbonlu ve etik ilkelere uygun sistemler geliştirmeyi hedefler. Veri merkezlerinde yenilenebilir enerji kullanımı, bulut ve uç (edge) bilişim optimizasyonu, enerji tasarruflu donanımlar gibi yöntemler önerilmektedir (Schwartz vd., 2020). Yazılım düzeyinde de az parametreli, hafif modeller ve verimli algoritmalar geliştirilmelidir. Yapay zekâ destekli tasarım araçları bu ilkeler doğrultusunda tasarlanıp kullanıldığı takdirde, çevresel etkileri en aza indirgenebilecektir.<br>Yeşil Yapay Zekâ, enerji verimliliğini artırarak çevresel etkileri minimize etmeyi amaçlar"
+        "Aciklama": "Yeşil yapay zekâ, çevre dostu, düşük karbonlu ve etik ilkelere uygun sistemler geliştirmeyi hedefler. Veri merkezlerinde yenilenebilir enerji kullanımı, bulut ve uç (edge) bilişim optimizasyonu, enerji tasarruflu donanımlar gibi yöntemler önerilmektedir (Schwartz vd., 2020). Yazılım düzeyinde de az parametreli, hafif modeller ve verimli algoritmalar geliştirilmelidir. Yapay zekâ destekli tasarım araçları bu ilkeler doğrultusunda tasarlanıp kullanıldığı takdirde, çevresel etkileri en aza indirgenebilecektir.<br/>Yeşil Yapay Zekâ, enerji verimliliğini artırarak çevresel etkileri minimize etmeyi amaçlar"
     },
     {
         "SoruID": 3833366,
@@ -1437,7 +1437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yapay zekâ, döngüsel ekonomi ve sıfır atık hedefleri doğrultusunda akıllı tasarımlara zemin hazırlayabilir. Ürünlerin tüm yaşam döngüsünü kapsayan simülasyonlar ve optimizasyonlar ile<br/>tasarımın çevresel ve ekonomik sürdürülebilirliği<br/>önemli ölçüde artırılabilir<br>Yapay zekâ, ürünlerin geri dönüştürülebilirliğini analiz ederek sürdürülebilir tasarımlar geliştirir."
+        "Aciklama": "Yapay zekâ, döngüsel ekonomi ve sıfır atık hedefleri doğrultusunda akıllı tasarımlara zemin hazırlayabilir. Ürünlerin tüm yaşam döngüsünü kapsayan simülasyonlar ve optimizasyonlar ile<br/>tasarımın çevresel ve ekonomik sürdürülebilirliği<br/>önemli ölçüde artırılabilir<br/>Yapay zekâ, ürünlerin geri dönüştürülebilirliğini analiz ederek sürdürülebilir tasarımlar geliştirir."
     },
     {
         "SoruID": 3831926,

@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Etik Boyutlar ve Tartışmalar / Telif Hakları ve Mülkiyet Sorunları başlğı altında çözüm yer almaktadır.<br>Yapay zekânın görsel tasarım alanındaki en büyük etik sorunlarından biri, telif hakları ve fikri mülkiyet konusudur."
+        "Aciklama": "Etik Boyutlar ve Tartışmalar / Telif Hakları ve Mülkiyet Sorunları başlğı altında çözüm yer almaktadır.<br/>Yapay zekânın görsel tasarım alanındaki en büyük etik sorunlarından biri, telif hakları ve fikri mülkiyet konusudur."
     },
     {
         "SoruID": 3833333,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yapay zekâ destekli tasarım araçlarının kullanımına dair etik şartnameler ve sorumluluk sözleşmeleri geliştirilmelidir (Morley vd., 2020). Bu metinlerde telif hakları, ön yargısızlık, şeffaflık, hesap verebilirlik gibi ilkeler vurgulanmalı, olası ihlal ve zararlar durumunda izlenecek adımlar belirtilmelidir. Sistemin karar verme mekanizmalarına da açıklık getirilmesi, kullanıcıların bilgilendirilmesi önem taşımaktadır<br>Şeffaf algoritmalar, yapay zekanın etik ve sürdürülebilir olmasını sağlar."
+        "Aciklama": "Yapay zekâ destekli tasarım araçlarının kullanımına dair etik şartnameler ve sorumluluk sözleşmeleri geliştirilmelidir (Morley vd., 2020). Bu metinlerde telif hakları, ön yargısızlık, şeffaflık, hesap verebilirlik gibi ilkeler vurgulanmalı, olası ihlal ve zararlar durumunda izlenecek adımlar belirtilmelidir. Sistemin karar verme mekanizmalarına da açıklık getirilmesi, kullanıcıların bilgilendirilmesi önem taşımaktadır<br/>Şeffaf algoritmalar, yapay zekanın etik ve sürdürülebilir olmasını sağlar."
     },
     {
         "SoruID": 3833336,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bir yapay zekâ aracı telif haklarını ihlal eden veya ayrımcı unsurlar içeren bir görsel ürettiğinde, bunun yükümlülüğü tasarımcıya mı, yazılımı geliştirene mi yoksa eğitim verisini sağlayana mı aittir tartışmalıdır (Brkan, 2019). Bir diğer belirsizlik, oluşabilecek zararların tazmini hususundadır. Yapay zekânın ürettiği hatalı<br/>veya yanıltıcı tasarımlar sebebiyle zarara uğrayanlar hangi mercilere başvurabilir, henüz netleşmemiştir.<br>Yapay zeka hatalarının kime ait olduğu net olarak belirsizdir."
+        "Aciklama": "Bir yapay zekâ aracı telif haklarını ihlal eden veya ayrımcı unsurlar içeren bir görsel ürettiğinde, bunun yükümlülüğü tasarımcıya mı, yazılımı geliştirene mi yoksa eğitim verisini sağlayana mı aittir tartışmalıdır (Brkan, 2019). Bir diğer belirsizlik, oluşabilecek zararların tazmini hususundadır. Yapay zekânın ürettiği hatalı<br/>veya yanıltıcı tasarımlar sebebiyle zarara uğrayanlar hangi mercilere başvurabilir, henüz netleşmemiştir.<br/>Yapay zeka hatalarının kime ait olduğu net olarak belirsizdir."
     },
     {
         "SoruID": 3833337,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Derin öğrenme sistemleri, eğitildikleri veri setlerindeki dengesizlik ve yanlılık nedeniyle belirli kalıpyargıları pekiştirebil mektedir (Ntoutsi vd., 2020).<br>Önyargı (Bias): Yapay zekâ sistemlerinin eğitim verilerindeki dengesizlikler veya yanlılıklar nedeniyle belirli gruplara karşı sistematik olarak ayrımcı davranması durumudur."
+        "Aciklama": "Derin öğrenme sistemleri, eğitildikleri veri setlerindeki dengesizlik ve yanlılık nedeniyle belirli kalıpyargıları pekiştirebil mektedir (Ntoutsi vd., 2020).<br/>Önyargı (Bias): Yapay zekâ sistemlerinin eğitim verilerindeki dengesizlikler veya yanlılıklar nedeniyle belirli gruplara karşı sistematik olarak ayrımcı davranması durumudur."
     },
     {
         "SoruID": 3833340,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tasarımcıların yaratıcılık ve problem çözme gibi üst düzey beceriler her zaman tasarımcıların tekelinde kalacaktır. Yapay zekâ ne kadar ilerlerse ilerlesin, insan sezgisi, empati yeteneği, eleştirel düşünme ve iletişim gücünün yerini alamayacaktır (Deterding vd, 2017). Fakat tasarımcıların da değişen çağa ayak uydurması,<br/>yapay zekâ okuryazarlıklarını geliştirmeleri şarttır. Veri analizi, algoritma tasarımı, kodlama gibi teknik yetkinlikleri içeren “computational design” yaklaşımını benimsemeleri gerekmektedir (Oxman, 2017).<br>Tasarımcıların yaratıcılık ve problem çözme gibi üst düzey becerilerin yanında veri analizi, algoritma tasarımı, kodlama gibi teknik yetkinlikleri de ihtiyacı vardır."
+        "Aciklama": "Tasarımcıların yaratıcılık ve problem çözme gibi üst düzey beceriler her zaman tasarımcıların tekelinde kalacaktır. Yapay zekâ ne kadar ilerlerse ilerlesin, insan sezgisi, empati yeteneği, eleştirel düşünme ve iletişim gücünün yerini alamayacaktır (Deterding vd, 2017). Fakat tasarımcıların da değişen çağa ayak uydurması,<br/>yapay zekâ okuryazarlıklarını geliştirmeleri şarttır. Veri analizi, algoritma tasarımı, kodlama gibi teknik yetkinlikleri içeren “computational design” yaklaşımını benimsemeleri gerekmektedir (Oxman, 2017).<br/>Tasarımcıların yaratıcılık ve problem çözme gibi üst düzey becerilerin yanında veri analizi, algoritma tasarımı, kodlama gibi teknik yetkinlikleri de ihtiyacı vardır."
     },
     {
         "SoruID": 3833346,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Makinelerin yaratıcı süreçlerdeki rolleri destekleyici ve zenginleştirici olmalıdır, tümüyle ikame edici veya baskın değil. Ancak bu şekilde yapay zekânın tasarımın geleceğinde sorumlu ve güvenilir bir ortak olması mümkün olabilir<br>İnsan-yapay zekâ etkileşimi bir “centaur” yaklaşımıyla yani karşılıklı ve tamamlayıcı bir anlayışla kurgulanmalıdır."
+        "Aciklama": "Makinelerin yaratıcı süreçlerdeki rolleri destekleyici ve zenginleştirici olmalıdır, tümüyle ikame edici veya baskın değil. Ancak bu şekilde yapay zekânın tasarımın geleceğinde sorumlu ve güvenilir bir ortak olması mümkün olabilir<br/>İnsan-yapay zekâ etkileşimi bir “centaur” yaklaşımıyla yani karşılıklı ve tamamlayıcı bir anlayışla kurgulanmalıdır."
     },
     {
         "SoruID": 3833349,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanatın özünde insan duygu ve deneyimlerini yansıtma, yaratıcılık ve ifade özgürlüğü vardır. Fakat yapay zekâ araçları bu süreçleri taklit etme ve hatta belli teknik ölçütlerde aşma yeteneğine ulaşmışlardır. Resim veya müzikleri tarzından ayırt edilemeyecek şekilde kopyalayabilen, soyut kavramları bile görselleştirebilen<br/>sistemler mevcuttur. Dolayısıyla “yapay zekâ sanatçılığı” kavramı yeni bir olgu olarak karşımıza çıkmaktadır (Hong ve Curran, 2019).<br>Bununla birlikte, bir sanat eserinin değerini salt teknik ustalık ile ölçmek doğru değildir. Sanatçının iç dünyası, duyguları, mesajı, bağlamı gibi unsurlar da çok önemlidir (Hertzmann, 2018). Yapay zekâlar henüz bu insani ve öznel nitelikleri tam anlamıyla yansıtamamaktadır."
+        "Aciklama": "Sanatın özünde insan duygu ve deneyimlerini yansıtma, yaratıcılık ve ifade özgürlüğü vardır. Fakat yapay zekâ araçları bu süreçleri taklit etme ve hatta belli teknik ölçütlerde aşma yeteneğine ulaşmışlardır. Resim veya müzikleri tarzından ayırt edilemeyecek şekilde kopyalayabilen, soyut kavramları bile görselleştirebilen<br/>sistemler mevcuttur. Dolayısıyla “yapay zekâ sanatçılığı” kavramı yeni bir olgu olarak karşımıza çıkmaktadır (Hong ve Curran, 2019).<br/>Bununla birlikte, bir sanat eserinin değerini salt teknik ustalık ile ölçmek doğru değildir. Sanatçının iç dünyası, duyguları, mesajı, bağlamı gibi unsurlar da çok önemlidir (Hertzmann, 2018). Yapay zekâlar henüz bu insani ve öznel nitelikleri tam anlamıyla yansıtamamaktadır."
     },
     {
         "SoruID": 3833353,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu manada sanat dünyasının ve eleştirmenlerin ön yargısız, esnek ve kapsayıcı bir<br/>tutum benimsemesi önem taşımaktadır. Yapay zekânın yaratıcılığı zenginleştirici katkıları görmezden gelinmemeli, insan zekâsına bir alternatif değil bir katalizör olarak değerlendirilmelidir (Miller, 2019). Hem insan hem de makine için sanatsal değer ve özgünlük kavramları çağa uygun şekilde güncellenmeli, yeniden yorumlanmalıdır.<br>teknoloji ilerledikçe estetik yargı ve değer kriterlerinin de evrilmesi muhtemeldir. Belki de yapay zekâ sanatı zamanla kendi özgün ifade biçimlerini geliştirecek, yeni bir tür olarak kabul görecektir."
+        "Aciklama": "Bu manada sanat dünyasının ve eleştirmenlerin ön yargısız, esnek ve kapsayıcı bir<br/>tutum benimsemesi önem taşımaktadır. Yapay zekânın yaratıcılığı zenginleştirici katkıları görmezden gelinmemeli, insan zekâsına bir alternatif değil bir katalizör olarak değerlendirilmelidir (Miller, 2019). Hem insan hem de makine için sanatsal değer ve özgünlük kavramları çağa uygun şekilde güncellenmeli, yeniden yorumlanmalıdır.<br/>teknoloji ilerledikçe estetik yargı ve değer kriterlerinin de evrilmesi muhtemeldir. Belki de yapay zekâ sanatı zamanla kendi özgün ifade biçimlerini geliştirecek, yeni bir tür olarak kabul görecektir."
     },
     {
         "SoruID": 3833363,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Örneğin GPT-3 gibi büyük dil modellerinin eğitimi için harcanan enerji, 100 yolcu uçağının ömür boyu yarattığı karbon emisyonuna eş değerdir (Patterson, 2022). DALL-E benzeri üretken modellerin çalıştırılması da hatırı sayılır elektrik sarfiyatı gerektirmektedir<br>Yapay zekâ sistemleri ve veri merkezleri devasa miktarlarda enerji tüketmekte, ciddi karbon salınımına yol açmaktadır"
+        "Aciklama": "Örneğin GPT-3 gibi büyük dil modellerinin eğitimi için harcanan enerji, 100 yolcu uçağının ömür boyu yarattığı karbon emisyonuna eş değerdir (Patterson, 2022). DALL-E benzeri üretken modellerin çalıştırılması da hatırı sayılır elektrik sarfiyatı gerektirmektedir<br/>Yapay zekâ sistemleri ve veri merkezleri devasa miktarlarda enerji tüketmekte, ciddi karbon salınımına yol açmaktadır"
     },
     {
         "SoruID": 3833364,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yeşil yapay zekâ, çevre dostu, düşük karbonlu ve etik ilkelere uygun sistemler geliştirmeyi hedefler. Veri merkezlerinde yenilenebilir enerji kullanımı, bulut ve uç (edge) bilişim optimizasyonu, enerji tasarruflu donanımlar gibi yöntemler önerilmektedir (Schwartz vd., 2020). Yazılım düzeyinde de az parametreli, hafif modeller ve verimli algoritmalar geliştirilmelidir. Yapay zekâ destekli tasarım araçları bu ilkeler doğrultusunda tasarlanıp kullanıldığı takdirde, çevresel etkileri en aza indirgenebilecektir.<br>Yeşil Yapay Zekâ, enerji verimliliğini artırarak çevresel etkileri minimize etmeyi amaçlar"
+        "Aciklama": "Yeşil yapay zekâ, çevre dostu, düşük karbonlu ve etik ilkelere uygun sistemler geliştirmeyi hedefler. Veri merkezlerinde yenilenebilir enerji kullanımı, bulut ve uç (edge) bilişim optimizasyonu, enerji tasarruflu donanımlar gibi yöntemler önerilmektedir (Schwartz vd., 2020). Yazılım düzeyinde de az parametreli, hafif modeller ve verimli algoritmalar geliştirilmelidir. Yapay zekâ destekli tasarım araçları bu ilkeler doğrultusunda tasarlanıp kullanıldığı takdirde, çevresel etkileri en aza indirgenebilecektir.<br/>Yeşil Yapay Zekâ, enerji verimliliğini artırarak çevresel etkileri minimize etmeyi amaçlar"
     },
     {
         "SoruID": 3833366,
@@ -237,6 +237,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yapay zekâ, döngüsel ekonomi ve sıfır atık hedefleri doğrultusunda akıllı tasarımlara zemin hazırlayabilir. Ürünlerin tüm yaşam döngüsünü kapsayan simülasyonlar ve optimizasyonlar ile<br/>tasarımın çevresel ve ekonomik sürdürülebilirliği<br/>önemli ölçüde artırılabilir<br>Yapay zekâ, ürünlerin geri dönüştürülebilirliğini analiz ederek sürdürülebilir tasarımlar geliştirir."
+        "Aciklama": "Yapay zekâ, döngüsel ekonomi ve sıfır atık hedefleri doğrultusunda akıllı tasarımlara zemin hazırlayabilir. Ürünlerin tüm yaşam döngüsünü kapsayan simülasyonlar ve optimizasyonlar ile<br/>tasarımın çevresel ve ekonomik sürdürülebilirliği<br/>önemli ölçüde artırılabilir<br/>Yapay zekâ, ürünlerin geri dönüştürülebilirliğini analiz ederek sürdürülebilir tasarımlar geliştirir."
     }
 ]

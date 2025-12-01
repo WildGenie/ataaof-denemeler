@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 162480,
-        "SoruMetni": "<strong>‘’Çocuklar inanın, İnanın çocuklar.’’ cümlesinin özellikleri aşağıdaki seçeneklerden hangisinde doğru olarak verilmiştir?</strong><br/></br>",
+        "SoruMetni": "<strong>‘’Çocuklar inanın, İnanın çocuklar.’’ cümlesinin özellikleri aşağıdaki seçeneklerden hangisinde doğru olarak verilmiştir?</strong>",
         "A": "Basit/İsim/Olumsuz/Devrik",
         "B": "Birleşik/Eylem/Olumlu/Devrik",
         "C": "Sıralı/İsim/Olumsuz/Kurallı",
@@ -121,7 +121,7 @@
     },
     {
         "SoruID": 162482,
-        "SoruMetni": "Türkçe, dünya dilleri arasında en sağlam matematiksel yapıya sahip dillerden biridir. Cümlede önce özne sonra nesne en son yüklem gelir.<br/><strong>Paragrafta verilen bilgilerden hareketle aşağıdaki cümlelerden hangisi özne-nesne-yüklem şeklinde <u>sıralanmamıştır</u>?</strong><br/></br></br>",
+        "SoruMetni": "Türkçe, dünya dilleri arasında en sağlam matematiksel yapıya sahip dillerden biridir. Cümlede önce özne sonra nesne en son yüklem gelir.<br/><strong>Paragrafta verilen bilgilerden hareketle aşağıdaki cümlelerden hangisi özne-nesne-yüklem şeklinde <u>sıralanmamıştır</u>?</strong>",
         "A": "Zayıflıklar insanı sıradanlaştırır.",
         "B": "Vedalaştık bir ikindi öncesi.",
         "C": "Sen de onu getir.",

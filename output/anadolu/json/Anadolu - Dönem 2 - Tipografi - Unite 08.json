@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okunurluk<br>Bir yazı karakterinin okunurluğuna katkıda bulunan ana başlıklar şunlardır:<br/>• x- yüksekliği<br/>• Karakter Ağırlığı<br/>• Karakter Genişliği<br/>• Harf Çizgisi Kontrastı<br/>• İç Boşluklar<br/>• Tırnaklı ve Tırnaksız Yazılar<br/>• Başlık Yazı Karakterleri<br/>• Bitişik Yazılar"
+        "Aciklama": "Okunurluk<br/>Bir yazı karakterinin okunurluğuna katkıda bulunan ana başlıklar şunlardır:<br/>• x- yüksekliği<br/>• Karakter Ağırlığı<br/>• Karakter Genişliği<br/>• Harf Çizgisi Kontrastı<br/>• İç Boşluklar<br/>• Tırnaklı ve Tırnaksız Yazılar<br/>• Başlık Yazı Karakterleri<br/>• Bitişik Yazılar"
     },
     {
         "SoruID": 3769689,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karakter ağırlığı<br>Yazı karakterinin ağırlığı, harf çizgilerinin kalınlığını ifade etmektedir."
+        "Aciklama": "Karakter ağırlığı<br/>Yazı karakterinin ağırlığı, harf çizgilerinin kalınlığını ifade etmektedir."
     },
     {
         "SoruID": 3769690,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "x-yüksekliği<br>Küçük harfin büyük harfe göre yüksekliğini ifade eder."
+        "Aciklama": "x-yüksekliği<br/>Küçük harfin büyük harfe göre yüksekliğini ifade eder."
     },
     {
         "SoruID": 3769693,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuturluk<br>Kelimelerin, cümlelerin ve metin bloklarının okuturluğuna katkıda bulunan ana başlıklar şunlardır:<br/>• Yazı Boyutu<br/>• Büyük ve Küçük Harfler<br/>• Harfler ve Kelimeler Arası Boşluklar<br/>• Satır Arası Boşluklar<br/>• Paragraflar Ayrımları<br/>• Satır Uzunlukları<br/>• Hizalamalar<br/>• Optik Hizalama<br/>• Renk, Kontrast ve Dişi Yazı<br/>Karakter ağırlığı okunurlukla ilgili bir unsurdur."
+        "Aciklama": "Okuturluk<br/>Kelimelerin, cümlelerin ve metin bloklarının okuturluğuna katkıda bulunan ana başlıklar şunlardır:<br/>• Yazı Boyutu<br/>• Büyük ve Küçük Harfler<br/>• Harfler ve Kelimeler Arası Boşluklar<br/>• Satır Arası Boşluklar<br/>• Paragraflar Ayrımları<br/>• Satır Uzunlukları<br/>• Hizalamalar<br/>• Optik Hizalama<br/>• Renk, Kontrast ve Dişi Yazı<br/>Karakter ağırlığı okunurlukla ilgili bir unsurdur."
     },
     {
         "SoruID": 3769698,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazı boyutu<br>Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyutları 9 ile 12 punto arasında değişmektedir."
+        "Aciklama": "Yazı boyutu<br/>Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyutları 9 ile 12 punto arasında değişmektedir."
     },
     {
         "SoruID": 3769699,
@@ -817,7 +817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okunurluk<br>Karakter Ağırlığı"
+        "Aciklama": "Okunurluk<br/>Karakter Ağırlığı"
     },
     {
         "SoruID": 3770135,
@@ -837,7 +837,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Karakter Ağırlığı<br>Harf çizgilerinin kalınlığıdır"
+        "Aciklama": "Karakter Ağırlığı<br/>Harf çizgilerinin kalınlığıdır"
     },
     {
         "SoruID": 3770136,
@@ -857,7 +857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tek Katlı – Çift Katlı Harfler<br>Allograf olarak"
+        "Aciklama": "Tek Katlı – Çift Katlı Harfler<br/>Allograf olarak"
     },
     {
         "SoruID": 3770137,
@@ -877,7 +877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eğik Yazılar<br>Elle eğim verilmesidir"
+        "Aciklama": "Eğik Yazılar<br/>Elle eğim verilmesidir"
     },
     {
         "SoruID": 3770138,
@@ -897,7 +897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bitişik Yazılar<br>Bitişik yazı kulllanılan metinlerde bütün harfler büyük yazılmamalıdır"
+        "Aciklama": "Bitişik Yazılar<br/>Bitişik yazı kulllanılan metinlerde bütün harfler büyük yazılmamalıdır"
     },
     {
         "SoruID": 3770139,
@@ -917,7 +917,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuturluk<br>Satır Arası Boşluklar"
+        "Aciklama": "Okuturluk<br/>Satır Arası Boşluklar"
     },
     {
         "SoruID": 3770140,
@@ -937,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazı Boyutu<br>16 punto"
+        "Aciklama": "Yazı Boyutu<br/>16 punto"
     },
     {
         "SoruID": 3770141,
@@ -957,7 +957,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Uyumlama<br>İki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesidir"
+        "Aciklama": "Uyumlama<br/>İki harf arasındaki boşluğun özel olarak ayarlanmasına, optik olarak dengelenmesidir"
     },
     {
         "SoruID": 3770142,
@@ -977,7 +977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Satır Uzunlukları<br>65 karakter"
+        "Aciklama": "Satır Uzunlukları<br/>65 karakter"
     },
     {
         "SoruID": 3770143,
@@ -1177,7 +1177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dişi (negatif ) yazı koyu renk zeminde açık renk harflerin kullanılmasıdır. Uzun metinlerde dişi yazı<br/>kulanılması okuturluğu zorlaştırmaktadır. İnce ve tırnaklı yazı karakterleri küçük puntolar ile kullanıldıklarında<br/>kopmalara maruz kalabilirler. Bu yüzden daha kalın hatlara sahip yazı karakterleri seçmek gerekmektedir.<br/>Küçük puntolarda mürekkebin şişme yapacağı göz önünde bulundurularak daha açık harf arası<br/>espas değeri kullanmak gerekmektedir (Başer Nejat, 2017).<br>negatif yazı"
+        "Aciklama": "Dişi (negatif ) yazı koyu renk zeminde açık renk harflerin kullanılmasıdır. Uzun metinlerde dişi yazı<br/>kulanılması okuturluğu zorlaştırmaktadır. İnce ve tırnaklı yazı karakterleri küçük puntolar ile kullanıldıklarında<br/>kopmalara maruz kalabilirler. Bu yüzden daha kalın hatlara sahip yazı karakterleri seçmek gerekmektedir.<br/>Küçük puntolarda mürekkebin şişme yapacağı göz önünde bulundurularak daha açık harf arası<br/>espas değeri kullanmak gerekmektedir (Başer Nejat, 2017).<br/>negatif yazı"
     },
     {
         "SoruID": 3770180,
@@ -1217,7 +1217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okunurluk<br>Bir yazı karakterinin okunurluğuna katkıda bu­lunan ana başlıklar şunlardır:<br/><ul> <li>x- yüksekliği</li> <li>Karakter Ağırlığı</li> <li>Karakter Genişliği</li> <li>Harf Çizgisi Kontrastı</li> <li>İç Boşluklar</li> <li>Tırnaklı ve Tırnaksız Yazılar</li> <li>Başlık Yazı Karakterleri</li> <li>Bitişik Yazılar</li> </ul>"
+        "Aciklama": "Okunurluk<br/>Bir yazı karakterinin okunurluğuna katkıda bu­lunan ana başlıklar şunlardır:<br/><ul> <li>x- yüksekliği</li> <li>Karakter Ağırlığı</li> <li>Karakter Genişliği</li> <li>Harf Çizgisi Kontrastı</li> <li>İç Boşluklar</li> <li>Tırnaklı ve Tırnaksız Yazılar</li> <li>Başlık Yazı Karakterleri</li> <li>Bitişik Yazılar</li> </ul>"
     },
     {
         "SoruID": 3770207,
@@ -1277,7 +1277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tek Katlı – Çift Katlı Harfler<br>Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her birine Allograf adı verilir."
+        "Aciklama": "Tek Katlı – Çift Katlı Harfler<br/>Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her birine Allograf adı verilir."
     },
     {
         "SoruID": 3770210,
@@ -1317,7 +1317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazı boyutu<br>Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyutları 9 ile 12 punto arasında değişmektedir."
+        "Aciklama": "Yazı boyutu<br/>Araştırmalara göre normal okuma mesafelerinde en okunaklı yazı boyutları 9 ile 12 punto arasında değişmektedir."
     },
     {
         "SoruID": 3770212,
@@ -1337,7 +1337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yazı boyutu<br>Karakterler, tasarım amaçlarına uygun olarak kullanıldıkları punto büyüklüklerine göre aşağıdaki şekilde sınıflandırılmaktadır:<br/>Başlık (Display) 24 pt ve üzeri,<br/>Alt başlık (Subhead) 14 pt – 24 pt<br/>Gövde metni (Body copy) 9 pt – 14 pt<br/>Alt yazı (Caption) 6 pt – 8 pt (Cullen, 2012)."
+        "Aciklama": "Yazı boyutu<br/>Karakterler, tasarım amaçlarına uygun olarak kullanıldıkları punto büyüklüklerine göre aşağıdaki şekilde sınıflandırılmaktadır:<br/>Başlık (Display) 24 pt ve üzeri,<br/>Alt başlık (Subhead) 14 pt – 24 pt<br/>Gövde metni (Body copy) 9 pt – 14 pt<br/>Alt yazı (Caption) 6 pt – 8 pt (Cullen, 2012)."
     },
     {
         "SoruID": 3770213,
@@ -1377,7 +1377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Paragraf ayrımları<br>Paragrafları birbirinden ayırt edebilmek için en çok kullanılan yöntemlerden bazıları şu şekildedir:<br/><ul> <li>Paragraf Başı Girintisi</li> <li>Satır Arası Boşluğu ile Paragraf Ayrımı</li> <li>Asılı Girinti ile Paragraf Ayrımı</li> <li>Paragraf İşareti veya Özel İşaretler Kullanılarak Yapılan Paragraf Ayrımı</li> </ul>"
+        "Aciklama": "Paragraf ayrımları<br/>Paragrafları birbirinden ayırt edebilmek için en çok kullanılan yöntemlerden bazıları şu şekildedir:<br/><ul> <li>Paragraf Başı Girintisi</li> <li>Satır Arası Boşluğu ile Paragraf Ayrımı</li> <li>Asılı Girinti ile Paragraf Ayrımı</li> <li>Paragraf İşareti veya Özel İşaretler Kullanılarak Yapılan Paragraf Ayrımı</li> </ul>"
     },
     {
         "SoruID": 3770215,
@@ -1397,7 +1397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "satır Uzunlukları<br>Genel olarak kabul edilen standart, satır başına yaklaşık 45-75 karakterdir (kelime boşlukları dahil),<br/>80 karaktere gidebilir ancak bu seçilen yazı karakterine bağlıdır. Genel olarak x-yüksekliği küçük olan<br/>yazı karakteri için maksimum satır uzunluğu yaklaşık 65 karakterdir."
+        "Aciklama": "satır Uzunlukları<br/>Genel olarak kabul edilen standart, satır başına yaklaşık 45-75 karakterdir (kelime boşlukları dahil),<br/>80 karaktere gidebilir ancak bu seçilen yazı karakterine bağlıdır. Genel olarak x-yüksekliği küçük olan<br/>yazı karakteri için maksimum satır uzunluğu yaklaşık 65 karakterdir."
     },
     {
         "SoruID": 3770216,

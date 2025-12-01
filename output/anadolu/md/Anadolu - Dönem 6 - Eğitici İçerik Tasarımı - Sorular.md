@@ -108,8 +108,7 @@
     - D-) Karşılaştırmalı ihtiyaç
     - E-) Beklenen ihtiyaç
 
-    > **Açıklama:** Lee ve Roadman beş tür ihtiyaç türünden söz etmektedirler. Cevap C seçeneği, bu ihtiyaç
-    > türlerinden olan Normatif ihtiyaçtır. Normatif ihtiyaç; genellikle uzmanlar tarafından belirlenen bir norm ya da standarta dayalı olarak oluşturulur. Bu standardın altına düşen her birey ya da grubun ihtiyaçları karşılanmalıdır.
+    > **Açıklama:** Lee ve Roadman beş tür ihtiyaç türünden söz etmektedirler. Cevap C seçeneği, bu ihtiyaç<br />türlerinden olan Normatif ihtiyaçtır. Normatif ihtiyaç; genellikle uzmanlar tarafından belirlenen bir norm ya da standarta dayalı olarak oluşturulur. Bu standardın altına düşen her birey ya da grubun ihtiyaçları karşılanmalıdır.
 
     <hr />
 1. Ulaşılmak istenen kazanımlar ile bireylerde var olan durumlar arasındaki farkları tanımlayan kavram aşağıdakilerden hangisidir?
@@ -119,8 +118,7 @@
     - D-) Yetersizlik
     - E-) Sosyal uçurum
 
-    > **Açıklama:** İhtiyaç, ulaşılmak istenen kazanımlar ile bireylerde var olan durumlar arasındaki farklar olarak tanımlanabilir. Bu tanıma bağlı olarak ihtiyaçların belirlenmesi için öncelikle ulaşılmak
-    > istenen kazanımların ve bireylerin istenen özelliklerinin belirlenmesi gereklidir.
+    > **Açıklama:** İhtiyaç, ulaşılmak istenen kazanımlar ile bireylerde var olan durumlar arasındaki farklar olarak tanımlanabilir. Bu tanıma bağlı olarak ihtiyaçların belirlenmesi için öncelikle ulaşılmak<br />istenen kazanımların ve bireylerin istenen özelliklerinin belirlenmesi gereklidir.
 
     <hr />
 1. Kullanılan veri toplama tekniğine göre bilgilerin analiz edildiği aşamadır. Bu bölüm ayrıştırma, tanımlama, sıralama, bulguların yorumu, ihtiyacı ortaya çıkarmaya yönelik çalışmaları içerir. Tüm bilgiler gözden geçirilerek, sorunlar, koşullar ve yeni gelişmeler değerlendirilir.<br />Yukarıda açıklaması verilen ihtiyaç analizi aşaması aşağıdakilerden hangisidir?
@@ -140,8 +138,7 @@
     - D-) Demokratik yaklaşım
     - E-) Standartlar yaklaşımı
 
-    > **Açıklama:** Cevap A'dır. Betimsel yaklaşım eğitim yaşantılarından ortaya çıkan durumla ilgilidir. Bu nedenle betimsel yaklaşımda ihtiyaç, şu anda var olan bir özelliğin, nesnenin, kuralın ya da dersin vb. yokluğunun, eksikliğinin sonucu ortaya çıkan zarar ile varlığının sonucu sağlayacağı yarar karşılaştırılarak belirlenir. Örneğin bir İngilizce kursundaki öğrencilerin hepsinin fikirleri doğrultusunda, konuşma becerileri ders saati süresinin arttırılması
-    > bu yaklaşım bağlamında düşünülebilir.
+    > **Açıklama:** Cevap A'dır. Betimsel yaklaşım eğitim yaşantılarından ortaya çıkan durumla ilgilidir. Bu nedenle betimsel yaklaşımda ihtiyaç, şu anda var olan bir özelliğin, nesnenin, kuralın ya da dersin vb. yokluğunun, eksikliğinin sonucu ortaya çıkan zarar ile varlığının sonucu sağlayacağı yarar karşılaştırılarak belirlenir. Örneğin bir İngilizce kursundaki öğrencilerin hepsinin fikirleri doğrultusunda, konuşma becerileri ders saati süresinin arttırılması<br />bu yaklaşım bağlamında düşünülebilir.
 
     <hr />
 1. Doktorluk mesleğinin ileride gereksinim duyabileceği yeterliliklerin belirlenmesi ve tıp fakülteleri programları için bilgi toplanmasına yönelik ihtiyaç analizi yaklaşımı aşağıdakilerden hangisidir?
@@ -171,12 +168,7 @@
     - D-) Delphi tekniği ile elde edilen verilerin farklılık göstermesi, çeşitliliği önemli iken Progel tekniğinde fikir birliğine varılması, tek bir fikir üzerine yoğunlaşılması ön plandadır.
     - **Cevap E-) Progel tekniği öncesinde planlama sürecine yönelik hazırlıklar bulunmaktayken, Delphi tekniğinde süreç plansız bir şekilde gelişir.**
 
-    > **Açıklama:** Progel (Dacum) tekniği, uygulama ve biçim bakımından en çok Delphi tekniğine benzemektedir.
-    > Ancak, aralarında önemli farklar bulunmaktadır:
-    > * Progel(Dacum) ile Delphi arasındaki en büyük fark, Progel(Dacum) grup iletişimini ön plana çıkarırken, Delphi katılımcıların birbirlerini etkilemelerinin önüne geçmeye çalışır.
-    > * Delphi tekniğinde katılımcıların birbirleri ile iletişim kurmasını engellemek önemli iken, Progel(Dacum) tekniğinde elde edilen sonuçlar, katılımcıların iletişimi ile oluşturulur.
-    > * Delphi tekniğinde bağımsız düşünce önemli iken, Progel(Dacum) uygulamasında fikir birliği önemlidir.
-    > * Delphi tekniği ile elde edilen verilerin farklılık göstermesi, çeşitliliği önemli iken Progel(Dacum) tekniğinde fikir birliğine varılması, tek bir fikir üzerine yoğunlaşılması ön plandadır.
+    > **Açıklama:** Progel (Dacum) tekniği, uygulama ve biçim bakımından en çok Delphi tekniğine benzemektedir.<br />Ancak, aralarında önemli farklar bulunmaktadır:<br />* Progel(Dacum) ile Delphi arasındaki en büyük fark, Progel(Dacum) grup iletişimini ön plana çıkarırken, Delphi katılımcıların birbirlerini etkilemelerinin önüne geçmeye çalışır.<br />* Delphi tekniğinde katılımcıların birbirleri ile iletişim kurmasını engellemek önemli iken, Progel(Dacum) tekniğinde elde edilen sonuçlar, katılımcıların iletişimi ile oluşturulur.<br />* Delphi tekniğinde bağımsız düşünce önemli iken, Progel(Dacum) uygulamasında fikir birliği önemlidir.<br />* Delphi tekniği ile elde edilen verilerin farklılık göstermesi, çeşitliliği önemli iken Progel(Dacum) tekniğinde fikir birliğine varılması, tek bir fikir üzerine yoğunlaşılması ön plandadır.
 
     <hr />
 1. I. Gözlemci ortamın veya durumun bir parçası gibi davranır.<br />II. Gözlemcinin kimliği gizlenebilir veya bilinebilir.<br />III. Gözlemci ortamın veya durumun bir parçası değildir.<br />IV. Araştırmacının gözlemci rolüne daha iyi odaklanabilmesi açısından güçlüdür.<br />V. Doğal ortamın bozulmaması açısından güçlüdür.<br />Gözlem tekniğine ilişkin verilen bilgilerden hangisi veya hangileri katılımsız gözlem için geçerlidir?
@@ -186,15 +178,7 @@
     - D-) IV ve V
     - E-) I, II ve III
 
-    > **Açıklama:** Katılımsız gözlemin özellikleri:
-    > * Gözlemci ortam ya da durumun
-    > bir parçası değildir.
-    > * Gözlemcinin kimliği gizlenebilir
-    > veya bilinebilir.
-    > * Araştırmacı gözlemlenenlerin dışında kalarak daha nesnel bir
-    > yaklaşım sergileyebilir.
-    > * Gözlemcinin kimliği gizlendiğinde etik problemlere
-    > ve araştırmacının olayların dışında kalması nedeniyle derinlemesine anlayış kazanamamasına sebep olabilir.
+    > **Açıklama:** Katılımsız gözlemin özellikleri:<br />* Gözlemci ortam ya da durumun<br />bir parçası değildir.<br />* Gözlemcinin kimliği gizlenebilir<br />veya bilinebilir.<br />* Araştırmacı gözlemlenenlerin dışında kalarak daha nesnel bir<br />yaklaşım sergileyebilir.<br />* Gözlemcinin kimliği gizlendiğinde etik problemlere<br />ve araştırmacının olayların dışında kalması nedeniyle derinlemesine anlayış kazanamamasına sebep olabilir.
 
     <hr />
 1. Bir disiplin hakkında bilgi sahibi olmak ya da onunla ilgili bir problemi çözmek için öğrencilerin bilmesi gereken temel ögeleri kapsayan bilgi boyutu aşağıdakilerden hangisidir?
@@ -204,8 +188,7 @@
     - D-) Üstbilişsel bilgi
     - E-) Terimsel bilgi
 
-    > **Açıklama:** Bilgi boyutları içerisinde yer alan olgusal bilgi bir disiplin hakkında bilgi sahibi olmak ya da
-    > onunla ilgili bir problemi çözmek için öğrencilerin bilmesi gereken temel ögeleri kapsamaktadır.
+    > **Açıklama:** Bilgi boyutları içerisinde yer alan olgusal bilgi bir disiplin hakkında bilgi sahibi olmak ya da<br />onunla ilgili bir problemi çözmek için öğrencilerin bilmesi gereken temel ögeleri kapsamaktadır.
 
     <hr />
 1. Aşağıdakilerden hangisi Bloom taksonomisine göre değerlendirme aşamasındaki bilişsel süreçlerden biridir?
@@ -326,8 +309,7 @@
     - **Cevap D-) Kapsam**
     - E-) Değerlendirme
 
-    > **Açıklama:** EĞİTİM PROGRAMININ ÖGELERİ
-    > kapsam
+    > **Açıklama:** EĞİTİM PROGRAMININ ÖGELERİ<br />kapsam
 
     <hr />
 1. 1\. Ne oldu?<br />2\. Neden oldu?<br />3\. Nerede oldu?<br />4\. Tekrar olur mu?<br />5\. Nasıl olmalıydı?<br />Yukarıdaki soru ifadelerinden hangileri normatif içerikte ne tür sorulara yanıt aranacağına ilişkindir?
@@ -337,8 +319,7 @@
     - D-) III, IV ve V
     - E-) II, III ve IV
 
-    > **Açıklama:** EĞİTİM PROGRAMININ ÖGELERİ:
-    > II, IV ve V
+    > **Açıklama:** EĞİTİM PROGRAMININ ÖGELERİ:<br />II, IV ve V
 
     <hr />
 1. 1\. Ne zaman oldu?<br />2\. İyi mi, yoksa kötü mü oldu?<br />3\. Nasıl olmalıydı?<br />4\. Kim yaptı?<br />5\. Nerede oldu?<br />Yukarıdaki soru ifadelerinden hangileri, betimsel araştırmalarda yanıt aranacak soru türlerine örnek oluşturmaktadır?
@@ -348,8 +329,7 @@
     - D-) II ve V
     - **Cevap E-) I ve V**
 
-    > **Açıklama:** EĞİTİM PROGRAMININ ÖGELERİ
-    > I ve V
+    > **Açıklama:** EĞİTİM PROGRAMININ ÖGELERİ<br />I ve V
 
     <hr />
 1. İçerik, geniş anlamıyla öğrenilecek olan bilgi dışında aşağıdakilerden hangileriyle birlikte düşünülmelidir?
@@ -359,8 +339,7 @@
     - D-) Değer, inanç, tutum
     - E-) Değer, inanç, beceri
 
-    > **Açıklama:** İçeriğin Yapısı
-    > Beceri, tutum, değer
+    > **Açıklama:** İçeriğin Yapısı<br />Beceri, tutum, değer
 
     <hr />
 1. “Ankara’nın nüfusu İzmir’den daha fazladır”<br />Yukarıdaki ifade aşağıdakilerden hangisidir?
@@ -370,8 +349,7 @@
     - D-) Değer
     - E-) Analiz
 
-    > **Açıklama:** İçeriğin Yapısı
-    > Olgu
+    > **Açıklama:** İçeriğin Yapısı<br />Olgu
 
     <hr />
 1. Aşağıdakilerden hangisi bireylere kazandırılacak bir içerik tasarlanıp uygulanırken içerikte değerler bakımından dikkat edilmesi gereken hususlardan biri değildir?
@@ -381,8 +359,7 @@
     - **Cevap D-) Görsel, yazılı ve sözlü bilgi edinebilmek için çalışma, okuma, yazma, dinleme, konuşma becerileri geliştirme**
     - E-) İnsan ilişkilerinde sorumluluk duyma, işbirliği yapma, başkaları için kaygı duyma, açık fikirli olma ve yaratıcılığın önemini bilme
 
-    > **Açıklama:** İçeriğin Yapısı
-    > Görsel, yazılı ve sözlü bilgi edinebilmek için çalışma, okuma, yazma, dinleme, konuşma becerileri geliştirme
+    > **Açıklama:** İçeriğin Yapısı<br />Görsel, yazılı ve sözlü bilgi edinebilmek için çalışma, okuma, yazma, dinleme, konuşma becerileri geliştirme
 
     <hr />
 1. Küresel ısınma nedeniyle iklimlerde ortaya çıkan değişiklikler sonucu bir ilde gerçekleşen toplam yağış miktarı için aşağıdakilerden hangisi içerik seçiminde göz önünde bulundurulacak ölçüttür?
@@ -392,8 +369,7 @@
     - D-) Sunulan içerik öğrencilerin önceki öğrenmeleriyle ilişki kuruyor mu?
     - E-) İçerikte temel ayrıntılar etkili bir şekilde gösteriliyor mu?
 
-    > **Açıklama:** İÇERİK SEÇİMİ
-    > İçerikte sunulan bilgi bilimsel açıdan doğru mu?
+    > **Açıklama:** İÇERİK SEÇİMİ<br />İçerikte sunulan bilgi bilimsel açıdan doğru mu?
 
     <hr />
 1. İçerikte yer alan kavram, olgu ve olaylar iç içe yer alacak biçimde bir örüntü oluşturulmalıdır. Buna göre içerik seçiminde göz önünde bulundurulacak ölçüt aşağıdakilerden hangisidir?
@@ -403,8 +379,7 @@
     - D-) Amaçlarla tutarlı mı?
     - **Cevap E-) Sistematik mi?**
 
-    > **Açıklama:** İÇERİK SEÇİMİ
-    > Sistematik mi?
+    > **Açıklama:** İÇERİK SEÇİMİ<br />Sistematik mi?
 
     <hr />
 1. İçerikte yer alan bilgiler, uyarıcılar kişinin bugünden yola çıkarak geçmişi tahmin etmesine, geleceğe yönelik kestirimlerde bulunmasına olanak tanıyorsa aşağıdakilerden hangi içerik düzenleme ilkesine uygundur?
@@ -414,8 +389,7 @@
     - **Cevap D-) Vardama**
     - E-) Şema
 
-    > **Açıklama:** İÇERİĞİN DÜZENLENMESİ
-    > Vardama
+    > **Açıklama:** İÇERİĞİN DÜZENLENMESİ<br />Vardama
 
     <hr />
 1. İçeriğin geçmiş yaşantılarla ilişkilendirilmesi, cümlede kullanma, özetleme, benzetim yapma, ilgili görsel oluşturma, soru oluşturma ve üretici not alma gibi teknikler aşağıdakilerden hangi stratejiye aittir?
@@ -425,8 +399,7 @@
     - D-) Anlamayı izleme
     - E-) Duyuşsal
 
-    > **Açıklama:** İçerik Düzenlemede Öğrenme Stratejilerinden Yararlanma
-    > Anlamlandırma
+    > **Açıklama:** İçerik Düzenlemede Öğrenme Stratejilerinden Yararlanma<br />Anlamlandırma
 
     <hr />
 ## Unite 3
@@ -467,9 +440,7 @@
     - D-) Genelleme
     - E-) Ayırt etme
 
-    > **Açıklama:** Habercilik-Bilgilendiricilik: Klasik koşullanma sürecinin başarılı olabilmesi için koşullu uyarıcının, gelecekte ne olacağını haber verir nitelikte
-    > olması gerekmektedir. Bu, önce koşullu uyarıcının ardından koşulsuz uyarıcının sunulmasını gerektirmektedir. Örneğin, bir sesin yemek geleceğinin bir işareti olması, köpeği sese karşı koşullanması için yardımcı bir etken olabilir. Bu şekilde, gelecekteki
-    > olayları haber veren bir koşullu uyarıcı, koşullanma sürecini kolaylaştırabilir.
+    > **Açıklama:** Habercilik-Bilgilendiricilik: Klasik koşullanma sürecinin başarılı olabilmesi için koşullu uyarıcının, gelecekte ne olacağını haber verir nitelikte<br />olması gerekmektedir. Bu, önce koşullu uyarıcının ardından koşulsuz uyarıcının sunulmasını gerektirmektedir. Örneğin, bir sesin yemek geleceğinin bir işareti olması, köpeği sese karşı koşullanması için yardımcı bir etken olabilir. Bu şekilde, gelecekteki<br />olayları haber veren bir koşullu uyarıcı, koşullanma sürecini kolaylaştırabilir.
 
     <hr />
 1. Köpeğin etten önce verilen zil sesi ile benzer bir ses işittiğinde, salya akışı göstermesi klasik koşullanma ilkelerinden hangisi ile ilgilidir?
@@ -499,13 +470,7 @@
     - D-) Gözlem sırasında modelin davranışları zihinsel olarak kodlanır.
     - E-) İnsanlar diğer insanları gözlemleyerek öğrenebilirler.
 
-    > **Açıklama:** Sosyal bilişsel kuramın temel ilkeleri şu şekilde açıklanabilir (Bandura, 1977; Karataş ve Öztürk, 2009; Morgan, 2007; Watson, 2013):
-    > • İnsanlar diğer insanları gözlemleyerek öğrenebilirler. Bireyler, çevrelerindeki insanları takip ederek yeni davranışları öğrenme yeteneğine sahiptirler.
-    > • Gözlem sırasında modelin davranışları zihinsel olarak kodlanır. Bu kodlar, ilerleyen zamanlarda benzer davranışlar sergileme konusunda bireylere rehberlik edebilir.
-    > • Öğrenme, davranışlarda gözle görülür bir değişiklik olmadan da gerçekleşebilir. Yani, bireyler gözlemledikleri davranışları hemen uygulamak zorunda değildirler.
-    > • Bilişsel süreçler, öğrenme sürecinde önemli bir rol oynar. Bu süreçler, davranışların öğrenilmesi ve uzun süreli belleğe aktarılması sürecinde etkilidir. Sosyal öğrenme, bu bilişsel süreçlerle gerçekleşir.
-    > • İnsanlar, çevreleri ve kendi davranışları üzerinde kontrol sahibi olabilirler. Bireyler, kendi davranışlarını düzenleme yetisine sahiptirler.
-    > • Yaş ilerledikçe, toplumun beklentileri ve sosyal çevrenin değişiklikleri, öğrenme sürecini etkilemeye devam eder. Bireyler yaşlarına uygun davranışları öğrenme ve uyum sağlama eğilimindedirler.
+    > **Açıklama:** Sosyal bilişsel kuramın temel ilkeleri şu şekilde açıklanabilir (Bandura, 1977; Karataş ve Öztürk, 2009; Morgan, 2007; Watson, 2013):<br />• İnsanlar diğer insanları gözlemleyerek öğrenebilirler. Bireyler, çevrelerindeki insanları takip ederek yeni davranışları öğrenme yeteneğine sahiptirler.<br />• Gözlem sırasında modelin davranışları zihinsel olarak kodlanır. Bu kodlar, ilerleyen zamanlarda benzer davranışlar sergileme konusunda bireylere rehberlik edebilir.<br />• Öğrenme, davranışlarda gözle görülür bir değişiklik olmadan da gerçekleşebilir. Yani, bireyler gözlemledikleri davranışları hemen uygulamak zorunda değildirler.<br />• Bilişsel süreçler, öğrenme sürecinde önemli bir rol oynar. Bu süreçler, davranışların öğrenilmesi ve uzun süreli belleğe aktarılması sürecinde etkilidir. Sosyal öğrenme, bu bilişsel süreçlerle gerçekleşir.<br />• İnsanlar, çevreleri ve kendi davranışları üzerinde kontrol sahibi olabilirler. Bireyler, kendi davranışlarını düzenleme yetisine sahiptirler.<br />• Yaş ilerledikçe, toplumun beklentileri ve sosyal çevrenin değişiklikleri, öğrenme sürecini etkilemeye devam eder. Bireyler yaşlarına uygun davranışları öğrenme ve uyum sağlama eğilimindedirler.
 
     <hr />
 1. ![Sekil Zemin](https://ets.anadolu.edu.tr/storage/nfs/questions/9487918f0ad694158a4e9a5a3133e70d.jpeg)<br />Yukarıdaki görsel, Gestalt kuramı algısal örgütleme yasalarından hangisi ile ilgilidir?
@@ -535,8 +500,7 @@
     - D-) Davranışçı öğrenme kuramı
     - E-) Nörofizyolojik kuram
 
-    > **Açıklama:** Örneğin, bir hesap makinesi, sayıları semboller olarak kabul eder, matematiksel işlemleri uygular ve sonuçları gösterir. İnsanlar da
-    > dil veya matematik gibi bilgi alanlarında sembollerle çalışırken, düşünsel işlemlerini kullanır ve sonuçları üretirler. Bu nedenle, öğrenmeyi bir bilgisayarın çalışma prensibine benzetmek, bilgiyi işleme kuramının temelini oluşturur
+    > **Açıklama:** Örneğin, bir hesap makinesi, sayıları semboller olarak kabul eder, matematiksel işlemleri uygular ve sonuçları gösterir. İnsanlar da<br />dil veya matematik gibi bilgi alanlarında sembollerle çalışırken, düşünsel işlemlerini kullanır ve sonuçları üretirler. Bu nedenle, öğrenmeyi bir bilgisayarın çalışma prensibine benzetmek, bilgiyi işleme kuramının temelini oluşturur
 
     <hr />
 1. Bir organizmanın çevresel uyaranlar arasındaki ilişkileri öğrenerek belirli bir tepkiyi kazanması sürecini tanımlayan öğrenme türü aşağıdakilerden hangisidir?
@@ -546,8 +510,7 @@
     - D-) Bağlaşımcılık
     - E-) Yapılandırmacılık
 
-    > **Açıklama:** Detaylı bilgi için sayfa 68i inceleyiniz
-    > Klasik koşullanma, bir organizmanın çevresel uyaranlar arasındaki ilişkileri öğrenerek belirli bir tepkiyi kazanması sürecini tanımlayan bir öğrenme türüdür. Bu tür öğrenme, Ivan Pavlov’un ünlü deneyleriyle öne çıkmıştır.
+    > **Açıklama:** Detaylı bilgi için sayfa 68i inceleyiniz<br />Klasik koşullanma, bir organizmanın çevresel uyaranlar arasındaki ilişkileri öğrenerek belirli bir tepkiyi kazanması sürecini tanımlayan bir öğrenme türüdür. Bu tür öğrenme, Ivan Pavlov’un ünlü deneyleriyle öne çıkmıştır.
 
     <hr />
 1. Pavlov'un köpekler üzerinde yaptığı ünlü koşullandırma deneyinde aşağıdakilerden hangisi koşulsuz uyarıcıdır?
@@ -557,11 +520,7 @@
     - **Cevap D-) Sesle eşleştirilmeden önce verilen yiyecek ya da ekşi tat**
     - E-) Yiyecekle ilişkilendirilmiş ses ya da ışık
 
-    > **Açıklama:** Detaylı bilgi için S. 69
-    > Pavlov ilk olarak metronomla ses vererek köpeğin tepkisini ölçmüştür. Köpek bu uyarıcıya sadece kulaklarını dikerek başını çevirmiştir. Sonrasında ise et tozu içeren bir yiyecek verilmiştir. Ses ile eti birkaç kez art arda verdikten sonra artık sesi tek başına verdiğinde de köpeğin salya tepkisi gözlemlenmiştir.
-    > Bu deneyde salyayı ortaya çıkarmadaki etkinlik herhangi bir ön eğitime bağlı olmadığından, yiyecek
-    > ya da ekşi tat koşulsuz uyarıcı olarak adlandırılmıştır. Bu bağlamda koşulsuz uyarıcı, organizma için tepkinin otomatik meydana geldiği doğal bir uyarandır. Yiyeceğin ortaya çıkardığı salyaya ise koşulsuz tepki adı verilmiştir. Koşulsuz tepki, koşulsuz uyaranın organizmada meydana getirdiği otomatik ve doğal tepkidir. Ses tonu ya da ışık henüz yiyecek ile ilişkilendirilmeden önce, köpek için nötr bir uyarıcıdır. Ses tonu ya da ışığın salya salgılamasını sağlamadaki etkinliği yiyecek sunumuyla birkaç kez eşleştirilmesinden sonra bu uyaran koşullu uyarıcı olarak adlandırmıştır.
-    > Sonunda köpeğe tek başına ses verildiğinde meydana gelen salya salgılama tepkisi ise koşullu tepkidir. Böylece, özellikleri önceki eğitime bağlı olmayan uyaran ve tepkiler koşulsuz, özellikleri ancak eğitimden sonra ortaya çıkan uyaran ve tepkiler ise koşullu olarak adlandırılmıştır (Slavin, 1986; Gibson ve Chandler, 1988).
+    > **Açıklama:** Detaylı bilgi için S. 69<br />Pavlov ilk olarak metronomla ses vererek köpeğin tepkisini ölçmüştür. Köpek bu uyarıcıya sadece kulaklarını dikerek başını çevirmiştir. Sonrasında ise et tozu içeren bir yiyecek verilmiştir. Ses ile eti birkaç kez art arda verdikten sonra artık sesi tek başına verdiğinde de köpeğin salya tepkisi gözlemlenmiştir.<br />Bu deneyde salyayı ortaya çıkarmadaki etkinlik herhangi bir ön eğitime bağlı olmadığından, yiyecek<br />ya da ekşi tat koşulsuz uyarıcı olarak adlandırılmıştır. Bu bağlamda koşulsuz uyarıcı, organizma için tepkinin otomatik meydana geldiği doğal bir uyarandır. Yiyeceğin ortaya çıkardığı salyaya ise koşulsuz tepki adı verilmiştir. Koşulsuz tepki, koşulsuz uyaranın organizmada meydana getirdiği otomatik ve doğal tepkidir. Ses tonu ya da ışık henüz yiyecek ile ilişkilendirilmeden önce, köpek için nötr bir uyarıcıdır. Ses tonu ya da ışığın salya salgılamasını sağlamadaki etkinliği yiyecek sunumuyla birkaç kez eşleştirilmesinden sonra bu uyaran koşullu uyarıcı olarak adlandırmıştır.<br />Sonunda köpeğe tek başına ses verildiğinde meydana gelen salya salgılama tepkisi ise koşullu tepkidir. Böylece, özellikleri önceki eğitime bağlı olmayan uyaran ve tepkiler koşulsuz, özellikleri ancak eğitimden sonra ortaya çıkan uyaran ve tepkiler ise koşullu olarak adlandırılmıştır (Slavin, 1986; Gibson ve Chandler, 1988).
 
     <hr />
 1. 'Koşullu uyarıcının tek başına artık koşullu tepkiye neden olmadığı bir öğrenme süreci' aşağıdaki ilkelerden hangisiyle ilişkilidir?
@@ -571,10 +530,7 @@
     - **Cevap D-) Sönme**
     - E-) Ayırt etme
 
-    > **Açıklama:** Diğer ilkeler için S.70e bakınız.
-    > Klasik koşullanmaya göre tasarlanan bir öğrenme sürecinde koşullanmanın meydana gelmesi ya
-    > da önlenmesi için göz önünde bulundurulması gereken çeşitli ilkeler söz konusudur. Bunlar; Bitişiklik, Habercilik-Bilgilendiricilik, Pekiştirme, Sönme, KEndiliğinden Geri Gelme, Genelleme ve Ayırt Etme dir.
-    > Sönme: Koşullu uyarıcının tek başına artık koşullu tepkiye neden olmadığı bir öğrenme sürecini tanımlar. Örneğin, koşulsuz uyarıcı (et) olmadan koşullu uyarıcı (ses) tek başına sunulduğunda, bir süre sonra koşullu tepkinin (salya akışı) azaldığı ve sonunda ortadan kaybolduğu gözlemlenir. Pavlov’un köpek deneylerinde, sesin uzun bir süre boyunca et sunulmadan verildiğinde, köpeklerin artık sese salya salgılamadıkları gözlemlenmiştir. Bu durum, sönme olarak adlandırılır ve koşullanmış tepkinin zayıfladığını veya kaybolduğunu gösterir.
+    > **Açıklama:** Diğer ilkeler için S.70e bakınız.<br />Klasik koşullanmaya göre tasarlanan bir öğrenme sürecinde koşullanmanın meydana gelmesi ya<br />da önlenmesi için göz önünde bulundurulması gereken çeşitli ilkeler söz konusudur. Bunlar; Bitişiklik, Habercilik-Bilgilendiricilik, Pekiştirme, Sönme, KEndiliğinden Geri Gelme, Genelleme ve Ayırt Etme dir.<br />Sönme: Koşullu uyarıcının tek başına artık koşullu tepkiye neden olmadığı bir öğrenme sürecini tanımlar. Örneğin, koşulsuz uyarıcı (et) olmadan koşullu uyarıcı (ses) tek başına sunulduğunda, bir süre sonra koşullu tepkinin (salya akışı) azaldığı ve sonunda ortadan kaybolduğu gözlemlenir. Pavlov’un köpek deneylerinde, sesin uzun bir süre boyunca et sunulmadan verildiğinde, köpeklerin artık sese salya salgılamadıkları gözlemlenmiştir. Bu durum, sönme olarak adlandırılır ve koşullanmış tepkinin zayıfladığını veya kaybolduğunu gösterir.
 
     <hr />
 1. Aşağıdakilerden hangisi davranış kuramcılarından Watson'un savunduğu ilkelerden **değildir**?
@@ -584,9 +540,7 @@
     - D-) Bir uyarıcıya verilen tepki, o uyarıcıya karşı en son deneyimlenen ve en sık tekrarlanan tepki tarafından belirlenir.
     - **Cevap E-) Çocuklar doğuştan gelen içgüdülerle donatılmıştır.**
 
-    > **Açıklama:** Detaylı bilgi için S.72
-    > Watson, çocukların yeteneklerini değil, çevrelerini ve eğitimlerini kontrol ederek onları farklı alanlarda uzmanlaşmış bireyler olarak yetiştirebileceğini iddia eder. Watson, davranışların çevresel koşullandırma yoluyla öğrenildiğini vurgulamıştır. İnsanlar, çevrelerinden gelen uyarıcılara tepki olarak davranışlarını şekillendirirler. Bu doğrultuda bireylerin davranışlarının büyük ölçüde çevresel faktörlerden etkilendiğini ve doğru şekilde düzenlenen ortamların istenen davranışların gelişmesini destekleyebileceğini öne sürmüştür (Schultz ve Schultz, 2001)
-    > John B. Watson, çocuk gelişimini değerlendirirken dış çevreyi temel alır. O’na göre, çocuklar doğuştan gelen içgüdülerle donatılmamışlardır. Aksine, çevreleriyle etkileşimde bulunarak davranışlarını yapılandırırlar. Bu nedenle, bir çocuğun geleceği, büyüdüğü çevreye bağlıdır. Watson’un korkuları azaltmak için kullandığı deney, öğrencilere davranış öğretme veya istenmeyen davranışları engelleme, öğretmen-öğrenme sürecinde etkili bir şekilde kullanılabilir
+    > **Açıklama:** Detaylı bilgi için S.72<br />Watson, çocukların yeteneklerini değil, çevrelerini ve eğitimlerini kontrol ederek onları farklı alanlarda uzmanlaşmış bireyler olarak yetiştirebileceğini iddia eder. Watson, davranışların çevresel koşullandırma yoluyla öğrenildiğini vurgulamıştır. İnsanlar, çevrelerinden gelen uyarıcılara tepki olarak davranışlarını şekillendirirler. Bu doğrultuda bireylerin davranışlarının büyük ölçüde çevresel faktörlerden etkilendiğini ve doğru şekilde düzenlenen ortamların istenen davranışların gelişmesini destekleyebileceğini öne sürmüştür (Schultz ve Schultz, 2001)<br />John B. Watson, çocuk gelişimini değerlendirirken dış çevreyi temel alır. O’na göre, çocuklar doğuştan gelen içgüdülerle donatılmamışlardır. Aksine, çevreleriyle etkileşimde bulunarak davranışlarını yapılandırırlar. Bu nedenle, bir çocuğun geleceği, büyüdüğü çevreye bağlıdır. Watson’un korkuları azaltmak için kullandığı deney, öğrencilere davranış öğretme veya istenmeyen davranışları engelleme, öğretmen-öğrenme sürecinde etkili bir şekilde kullanılabilir
 
     <hr />
 1. Edimsel koşullanmada yeni bir davranış öğretilirken kullanışlı olan, ancak davranış öğrenildikten<br />sonra daha az sıklıkla kullanılması önerilen pekiştireç uygulaması hangisidir?
@@ -596,8 +550,7 @@
     - D-) Değişken Zaman Aralıklı Pekiştirme
     - E-) Değişken Oranlı Pekiştirme
 
-    > **Açıklama:** Diğer pekiştirme uygulamalarının detayları için S.76 yı inceleyiniz.
-    > Sürekli Pekiştirme: Davranış her zaman pekiştirilir. Yeni bir davranış öğretilirken kullanışlıdır, ancak davranış öğrenildikten sonra daha az sıklıkla kullanılmalıdır
+    > **Açıklama:** Diğer pekiştirme uygulamalarının detayları için S.76 yı inceleyiniz.<br />Sürekli Pekiştirme: Davranış her zaman pekiştirilir. Yeni bir davranış öğretilirken kullanışlıdır, ancak davranış öğrenildikten sonra daha az sıklıkla kullanılmalıdır
 
     <hr />
 1. Aşağıdakilerden hangisi Sosyal Bilişsel Kuramın temel ilkelerinden **değildir**?
@@ -607,9 +560,7 @@
     - D-) İnsanlar, çevreleri ve kendi davranışları üzerinde kontrol sahibi olabilirler
     - E-) Bilişsel süreçler, öğrenme sürecinde önemli bir rol oynar.
 
-    > **Açıklama:** S.79 da ilkelerle ilgili açıklamalara yer verilmiştir.
-    > Öğrenme, davranışlarda gözle görülür bir değişiklik olmadan da gerçekleşebilir. Yani, bireyler
-    > gözlemledikleri davranışları hemen uygulamak zorunda değildirler
+    > **Açıklama:** S.79 da ilkelerle ilgili açıklamalara yer verilmiştir.<br />Öğrenme, davranışlarda gözle görülür bir değişiklik olmadan da gerçekleşebilir. Yani, bireyler<br />gözlemledikleri davranışları hemen uygulamak zorunda değildirler
 
     <hr />
 1. İçerik sunumunda Sosyal Bilişsel Kuramdan yararlanan bir kullanıcı aşağıdakilerden hangisine **özellikle** dikkat eder?
@@ -619,8 +570,7 @@
     - D-) Öğrenme deneyimi görsel, işitsel ve dokunsal öğeler kullanılarak zenginleştirilerek öğrenme daha etkili hale getirilir.
     - **Cevap E-) Katılımcılara konuyla ilgili rol modeller sunarak veya birebir yaşanmış örnekleri onlarla paylaşarak bilgiyi daha iyi anlamaları ve öğrenmeleri sağlanır.**
 
-    > **Açıklama:** Diğer kuram ilkeleri için tüm ünitedeki içerik sunumunda dikkat edilecek ilkeler incelenmelidir.
-    > A, B ve C seçenekleri davranışsal kuram, D seçeneği ise Gestalt kuramı ile özellikle ilişkili ilkelerdir.
+    > **Açıklama:** Diğer kuram ilkeleri için tüm ünitedeki içerik sunumunda dikkat edilecek ilkeler incelenmelidir.<br />A, B ve C seçenekleri davranışsal kuram, D seçeneği ise Gestalt kuramı ile özellikle ilişkili ilkelerdir.
 
     <hr />
 1. Öğrenmeyi ve algıyı anlamak için bireyin deneyimlerini bütünsel, yapısal ve anlam odaklı bir perspektifle inceleyen kuram hangisidir?
@@ -630,9 +580,7 @@
     - D-) Yapılandırmacı Kuram
     - E-) Nörofizyolojik Kuram
 
-    > **Açıklama:** Detaylı bilgi için S. 83
-    > Gestalt kuramı, bilişsel psikolojinin bir dalı olarak ortaya çıkmış olan ve insan algısını, öğrenmeyi ve problem çözme süreçlerini anlamak için kullanılan bir psikoloji kuramıdır. “Gestalt” kelimesi Almancada “şekil”, “biçim” veya “görüntü” anlamına gelir. Gestalt Kuramı, öğrenmeyi ve algıyı anlamak için bireyin
-    > deneyimlerini bütünsel, yapısal ve anlam odaklı bir perspektifle incelemektedir
+    > **Açıklama:** Detaylı bilgi için S. 83<br />Gestalt kuramı, bilişsel psikolojinin bir dalı olarak ortaya çıkmış olan ve insan algısını, öğrenmeyi ve problem çözme süreçlerini anlamak için kullanılan bir psikoloji kuramıdır. “Gestalt” kelimesi Almancada “şekil”, “biçim” veya “görüntü” anlamına gelir. Gestalt Kuramı, öğrenmeyi ve algıyı anlamak için bireyin<br />deneyimlerini bütünsel, yapısal ve anlam odaklı bir perspektifle incelemektedir
 
     <hr />
 1. Aşağıdakilerden hangisi Bilgiyi İşleme Kuramı nın cevap aradığı temel sorulardan biri **değildir**?
@@ -642,8 +590,7 @@
     - D-) Bilgi, ihtiyaç duyulduğunda nasıl geri çağrılır ve hatırlanır?
     - **Cevap E-) Öğrenme sürecinde pekiştireçler nasıl kullanılır?**
 
-    > **Açıklama:** S.89 daki dört temel soruyu inceleyiniz.
-    > Bilgiyi işleme kuramı, öğrenme ve bilişsel süreçleri anlamaya odaklanan bir öğrenme kuramıdır. Amerikalı psikolog Jerome Bruner (1915-2016) tarafından geliştirilen bu kuram, bilişsel psikoloji ve bilişsel bilim alanlarından etkilenmiştir ve insanların bilgiyi nasıl işlediğini, anladığını, hatırladığını ve çözdüğünü açıklamaya çalışır. Bilgiyi İşleme Kuramı öğrenmeyi, özellikle insan zihni tarafından gerçekleştirilen işlemleri vurgulayarak açıklar. Bu kuramın temel özellikleri, öğrenme ve hafızaya ilişkin süreksiz ve çok aşamalı bakış açılarıdır.
+    > **Açıklama:** S.89 daki dört temel soruyu inceleyiniz.<br />Bilgiyi işleme kuramı, öğrenme ve bilişsel süreçleri anlamaya odaklanan bir öğrenme kuramıdır. Amerikalı psikolog Jerome Bruner (1915-2016) tarafından geliştirilen bu kuram, bilişsel psikoloji ve bilişsel bilim alanlarından etkilenmiştir ve insanların bilgiyi nasıl işlediğini, anladığını, hatırladığını ve çözdüğünü açıklamaya çalışır. Bilgiyi İşleme Kuramı öğrenmeyi, özellikle insan zihni tarafından gerçekleştirilen işlemleri vurgulayarak açıklar. Bu kuramın temel özellikleri, öğrenme ve hafızaya ilişkin süreksiz ve çok aşamalı bakış açılarıdır.
 
     <hr />
 1. Öğrenmenin beyin ve sinir sistemi üzerindeki etkilerini araştırarak, öğrenme süreçlerini biyolojik ve nöral faktörlerin ışığında açıklamaya çalışan kuram hangisidir?
@@ -653,10 +600,7 @@
     - D-) Sosyal Bilişsel Kuram
     - E-) Yapılandırmacı Kuram
 
-    > **Açıklama:** S.92 yi inceleyiniz.
-    > Nörofizyolojik öğrenme kuramı, öğrenme süreçlerini nörolojik ve fizyolojik düzeyde inceleyen bir öğrenme kuramıdır. Bu kuram, öğrenmenin beyin ve sinir sistemi üzerindeki etkilerini araştırarak, öğrenme süreçlerini biyolojik ve nöral faktörlerin ışığında açıklamaya çalışır. Yapılan araştırmalarda elde edilen
-    > bulgular doğrultusunda insan beyninin çalışma prensibini keşfetmeden öğrenmenin tam olarak anlaşılamayacağı görüşü benimsenmiştir (Özden, 2003). Bu doğrultuda öğrenmenin ne olduğunu anlamak için
-    > öğrenme sırasından insan beyninde ne tür fizyolojik ve kimyasal değişimlerin yaşandığını keşfetme çabası önem kazanmıştır.
+    > **Açıklama:** S.92 yi inceleyiniz.<br />Nörofizyolojik öğrenme kuramı, öğrenme süreçlerini nörolojik ve fizyolojik düzeyde inceleyen bir öğrenme kuramıdır. Bu kuram, öğrenmenin beyin ve sinir sistemi üzerindeki etkilerini araştırarak, öğrenme süreçlerini biyolojik ve nöral faktörlerin ışığında açıklamaya çalışır. Yapılan araştırmalarda elde edilen<br />bulgular doğrultusunda insan beyninin çalışma prensibini keşfetmeden öğrenmenin tam olarak anlaşılamayacağı görüşü benimsenmiştir (Özden, 2003). Bu doğrultuda öğrenmenin ne olduğunu anlamak için<br />öğrenme sırasından insan beyninde ne tür fizyolojik ve kimyasal değişimlerin yaşandığını keşfetme çabası önem kazanmıştır.
 
     <hr />
 ## Unite 4
@@ -837,11 +781,7 @@
     - **Cevap D-) Gerçeği yansıtmamaktadır.**
     - E-) Dengeli kullanılmıştır.
 
-    > **Açıklama:** Rengin şiddeti nesnelerin biçimini algılamada etkili bir özelliktir. Bir öğretim içeriğinde metnin anlaşılmasına destek veren görsellerde renk kullanımında dikkat edilmesi önerilen bazı kurallar vardır;
-    > • Kullanılan renkler gerçeği yansıtmalı, orijinaline en yakın renkler kullanılmalıdır.
-    > • Rengin doğru kullanımı grafik ya da illüstrasyon gibi görselleştirmelerde ayrıntıları birbirinden ayırmaya yardım etmelidir. Örneğin zemin ve nesne rengi arasında fark oluşturmak nesnenin daha kolay anlaşılmasını sağlayacaktır.
-    > • Renk, okuyucunun ilgisini çekmeli ama konudan uzaklaştırmamalıdır.
-    > • Zıt renkler ya da sıcak-soğuk renkler denge ve ahenk içinde kullanılmalıdır.
+    > **Açıklama:** Rengin şiddeti nesnelerin biçimini algılamada etkili bir özelliktir. Bir öğretim içeriğinde metnin anlaşılmasına destek veren görsellerde renk kullanımında dikkat edilmesi önerilen bazı kurallar vardır;<br />• Kullanılan renkler gerçeği yansıtmalı, orijinaline en yakın renkler kullanılmalıdır.<br />• Rengin doğru kullanımı grafik ya da illüstrasyon gibi görselleştirmelerde ayrıntıları birbirinden ayırmaya yardım etmelidir. Örneğin zemin ve nesne rengi arasında fark oluşturmak nesnenin daha kolay anlaşılmasını sağlayacaktır.<br />• Renk, okuyucunun ilgisini çekmeli ama konudan uzaklaştırmamalıdır.<br />• Zıt renkler ya da sıcak-soğuk renkler denge ve ahenk içinde kullanılmalıdır.
 
     <hr />
 1. Öğrencilerin hazırlamaları gereken bir ödevde, tabloların sayfadaki konumu ve büyüklüğü ile ilgili oranlar verilmiştir. Bu oranları dikkate almadan tablo hazırlayan öğrencilerin ödevlerinin geçersiz olacağı söylenmiştir. Bu örnekte, görsel öğelerin sayfada kullanımında, aşağıdaki faktörlerden hangisinin önemi vurgulanmaktadır?
@@ -851,11 +791,7 @@
     - D-) Doğal dinamikler
     - **Cevap E-) Boyut**
 
-    > **Açıklama:** Sayfa tasarımında kullanılan illüstrasyon, grafik, diyagram ya da fotoğraf gibi öğeler görsel malzeme olarak adlandırılır. Sayfa üzerinde bu görsellerin doğru şekilde yer alması için belli bir hiyerarşiye uyulması gerekir. Bu düzen için etken unsurlar şunlardır;
-    > • Görselin boyu ve kapladığı alan
-    > • Görselin renk yoğunluğu ve koyu-açık değerleri
-    > • Görselin kendi doğal dinamiği
-    > • Renk değerleri
+    > **Açıklama:** Sayfa tasarımında kullanılan illüstrasyon, grafik, diyagram ya da fotoğraf gibi öğeler görsel malzeme olarak adlandırılır. Sayfa üzerinde bu görsellerin doğru şekilde yer alması için belli bir hiyerarşiye uyulması gerekir. Bu düzen için etken unsurlar şunlardır;<br />• Görselin boyu ve kapladığı alan<br />• Görselin renk yoğunluğu ve koyu-açık değerleri<br />• Görselin kendi doğal dinamiği<br />• Renk değerleri
 
     <hr />
 1. Ayşe, okul öncesi çağındaki çocuklara sabahları el yüz yıkama ve yemekten sonra diş fırçalama davranışlarını öğretmek için bu davranışları çizim tekniği ile resimleyerek bir hikaye haline getirmiştir. Bu örnekte, Ayşe, görsel öğe oluşturmada aşağıdaki tekniklerden hangisini kullanmıştır.
@@ -996,14 +932,7 @@
     - D-) Hızlı geri bildirim sağlanması
     - E-) Yüksek beklentilerin karşılanması
 
-    > **Açıklama:** Chickering ve Ehrmann (1996)’a göre e-öğrenmede teknoloji yardımıyla oluşturulan iyi uygulamalar ve içerikler, aşağıdaki yedi çıktının elde edilmesinde yardımcı olmaktadır:
-    > • Öğrenen ve kurum arasındaki ilişkinin kuvvetlendirilmesi
-    > • Öğrenenler arasında uyum ve işbirliğinin geliştirilmesi
-    > • Aktif öğrenme tekniklerinin kullanılması
-    > • Hızlı geri bildirim sağlanması
-    > • Görev süresinin belirlenmesi
-    > • Yüksek beklentilerin karşılanması
-    > • Farklı yeteneklerin ve öğrenme yollarının dikkate alınması
+    > **Açıklama:** Chickering ve Ehrmann (1996)’a göre e-öğrenmede teknoloji yardımıyla oluşturulan iyi uygulamalar ve içerikler, aşağıdaki yedi çıktının elde edilmesinde yardımcı olmaktadır:<br />• Öğrenen ve kurum arasındaki ilişkinin kuvvetlendirilmesi<br />• Öğrenenler arasında uyum ve işbirliğinin geliştirilmesi<br />• Aktif öğrenme tekniklerinin kullanılması<br />• Hızlı geri bildirim sağlanması<br />• Görev süresinin belirlenmesi<br />• Yüksek beklentilerin karşılanması<br />• Farklı yeteneklerin ve öğrenme yollarının dikkate alınması
 
     <hr />
 1. “İş ekiplerinin fiziksel konumlarına bağlı olmaksızın, internet ve diğer teknolojik araçlar aracılığıyla etkili bir şekilde iletişim kurmalarını ve projeleri yönetmeleri……….kavramına denk gelir.”<br />Yukarıdaki ifadede boş bırakılan yere aşağıdakilerden hangisi gelirse doğru olur?
@@ -1013,9 +942,7 @@
     - D-) Katılım
     - E-) Oyunlaştırma
 
-    > **Açıklama:** **Dijital İş birliği:** İş ekiplerinin fiziksel konumlarına bağlı olmaksızın, internet ve diğer teknolojik
-    > araçlar aracılığıyla etkili bir şekilde iletişim kurmalarını, işbirliği yapmalarını ve projeleri birlikte
-    > yönetmelerini sağlayan bir yaklaşımdır.
+    > **Açıklama:** **Dijital İş birliği:** İş ekiplerinin fiziksel konumlarına bağlı olmaksızın, internet ve diğer teknolojik<br />araçlar aracılığıyla etkili bir şekilde iletişim kurmalarını, işbirliği yapmalarını ve projeleri birlikte<br />yönetmelerini sağlayan bir yaklaşımdır.
 
     <hr />
 1. Aşağıdakilerden hangisi olumlu bir öğrenme ortamı yaratılmada kullanılan içeriğin taşıması gereken özelliklerden değildir?
@@ -1025,19 +952,7 @@
     - **Cevap D-) Alıştırmalar tek bir yerde sunulur.**
     - E-) İçerik, öğrenenlerin kontrolüne sahip olduğu kısa diziler halinde sunulur.
 
-    > **Açıklama:** Noe (2020)’ye göre olumlu bir öğrenme ortamı yaratılmada kullanılan içeriğin taşıması gereken
-    > özellikler şunlardır:
-    > • Talimatlar, ilgili görselleri ve kelimeleri içerir.
-    > • Metin görsellere yakın hizalanmıştır.
-    > • Karmaşık görseller, hem metin hem de sesle değil, ses veya metinle açıklanır.
-    > • Konu dışı görseller, kelimeler ve sesler çıkarılmıştır.
-    > • Öğrenciler, konuşma dili aracıları aracılığıyla sosyal olarak etkileşime girerler.
-    > • Anahtar kavramlar, tüm süreç veya görevle ilişkili görevden önce açıklanır.
-    > • Kendi kendini düzenlemeyi teşvik eden bilgi sistemleri sağlanır.
-    > • İçerik, öğrenenlerin kontrolüne sahip olduğu kısa diziler halinde sunulur.
-    > • Süreci pekiştiren etkinlikler ve alıştırmalar sağlanır.
-    > • Kısa sınavlara ve alıştırmalara verilen öğrenci yanıtları için açıklamalar sağlanmıştır.
-    > • Alıştırmalar tek bir yerde değil, modül(ler) içinde ve arasında dağıtılır.
+    > **Açıklama:** Noe (2020)’ye göre olumlu bir öğrenme ortamı yaratılmada kullanılan içeriğin taşıması gereken<br />özellikler şunlardır:<br />• Talimatlar, ilgili görselleri ve kelimeleri içerir.<br />• Metin görsellere yakın hizalanmıştır.<br />• Karmaşık görseller, hem metin hem de sesle değil, ses veya metinle açıklanır.<br />• Konu dışı görseller, kelimeler ve sesler çıkarılmıştır.<br />• Öğrenciler, konuşma dili aracıları aracılığıyla sosyal olarak etkileşime girerler.<br />• Anahtar kavramlar, tüm süreç veya görevle ilişkili görevden önce açıklanır.<br />• Kendi kendini düzenlemeyi teşvik eden bilgi sistemleri sağlanır.<br />• İçerik, öğrenenlerin kontrolüne sahip olduğu kısa diziler halinde sunulur.<br />• Süreci pekiştiren etkinlikler ve alıştırmalar sağlanır.<br />• Kısa sınavlara ve alıştırmalara verilen öğrenci yanıtları için açıklamalar sağlanmıştır.<br />• Alıştırmalar tek bir yerde değil, modül(ler) içinde ve arasında dağıtılır.
 
     <hr />
 1. 1\. Bağlantıcı Kitlesel Açık Çevrimiçi Dersler (cKAÇD) çoğunlukla ağ-tabanlı, üniversiteler bünyesinde kurulan ve akademisyenlerin yürütücülüğünde işlenen dersleri ele almaktadır.<br />2\. (xKAÇD) Kitlesel Katılımlı ve Genişletilmiş KAÇD’ler, geleneksel çevrim içi öğrenmenin platformlar aracılığı ile sunulmasına odaklanmaktadır.<br />3\. Coursera ve EdX gibi platformlar cKAÇD’lere örnektir.<br />4\. xKAÇD ile öğrenenlerin aldıkları derslere devam sağlamamasındaki, dersi bırakmasındaki oran oldukça gerilemekle birlikte öğrenenlerin memnuniyetlerinde artış yaşanmaktadır.<br />Yukarıda Kitlesel Açık Çevrimiçi Derslerle ilgili verilenlerden hangisi doğrudur?
@@ -1047,12 +962,7 @@
     - D-) III ve IV
     - E-) I, II, III ve IV
 
-    > **Açıklama:** KAÇD’ler temelde üç ayrı model olarak ele alınmaktadır. Bunlar xKAÇD, cKAÇD ve hKAÇD
-    > olarak üçe ayrılmaktadır. cKAÇD olarak isimlendirilen ve bağlantıcılık (Connectivism) felsefesinin
-    > ön planda olduğu Bağlantıcı Kitlesel Açık Çevrim İçi Dersler, çoğunlukla ağ-tabanlı, üniversiteler
-    > bünyesinde kurulan ve akademisyenlerin yürütücülüğünde işlenen dersleri ele almaktadır. Bu KAÇD türünde akran öğrenmesi ve bireylerin etkileşim içerisinde olması ön plandadır. xKAÇD olarak nitelendirilen Kitlesel Katılımlı ve Genişletilmiş (Extended) KAÇD’ler, geleneksel çevrim içi öğrenmenin platformlar aracılığı ile sunulmasına odaklanmaktadır. xKAÇD’lerin temelinde yükseköğretim kurumları, içerik geliştiriciler, konu uzmanları ve teknoloji hizmeti sağlayıcıları
-    > arasında kurulan iş birlikleri bulunur. Günümüzde en yaygın xKAÇD platformları arasında küresel
-    > çapta birçok üniversitenin yer aldığı Coursera ve EdX gibi platformlar örnek gösterilebilmektedir. hKAÇD ile öğrenenlerin aldıkları derslere devam sağlamamasındaki, dersi bırakmasındaki oran oldukça gerilemekle birlikte öğrenenlerin memnuniyetlerinde artış yaşanmıştır.
+    > **Açıklama:** KAÇD’ler temelde üç ayrı model olarak ele alınmaktadır. Bunlar xKAÇD, cKAÇD ve hKAÇD<br />olarak üçe ayrılmaktadır. cKAÇD olarak isimlendirilen ve bağlantıcılık (Connectivism) felsefesinin<br />ön planda olduğu Bağlantıcı Kitlesel Açık Çevrim İçi Dersler, çoğunlukla ağ-tabanlı, üniversiteler<br />bünyesinde kurulan ve akademisyenlerin yürütücülüğünde işlenen dersleri ele almaktadır. Bu KAÇD türünde akran öğrenmesi ve bireylerin etkileşim içerisinde olması ön plandadır. xKAÇD olarak nitelendirilen Kitlesel Katılımlı ve Genişletilmiş (Extended) KAÇD’ler, geleneksel çevrim içi öğrenmenin platformlar aracılığı ile sunulmasına odaklanmaktadır. xKAÇD’lerin temelinde yükseköğretim kurumları, içerik geliştiriciler, konu uzmanları ve teknoloji hizmeti sağlayıcıları<br />arasında kurulan iş birlikleri bulunur. Günümüzde en yaygın xKAÇD platformları arasında küresel<br />çapta birçok üniversitenin yer aldığı Coursera ve EdX gibi platformlar örnek gösterilebilmektedir. hKAÇD ile öğrenenlerin aldıkları derslere devam sağlamamasındaki, dersi bırakmasındaki oran oldukça gerilemekle birlikte öğrenenlerin memnuniyetlerinde artış yaşanmıştır.
 
     <hr />
 1. Itslearning, Blackboard, Moodle, Sakai ve Open LMS aşağıdakilerden hangisine örnek olarak verilebilir?
@@ -1082,20 +992,7 @@
     - D-) Sürdürülebilirlik
     - **Cevap E-) Öğrenme ve pedagojik gereksinimler**
 
-    > **Açıklama:** Faxen (2011) çalışmasında yer verdiği öğrenme yönetim sisteminin gerekliliklerini içeren 11 unsur
-    > şunlardır;
-    > • Ders içeriği yönetimi: Ders içeriklerinin, dersin görevlerinin veya görevlere ilişkin bilgilerin dağıtılması, planlanması, aktif veya pasif edilmesi, yeniden kullanımı gibi süreçlerin yönetimi.
-    > • Değerlendirme: Sistemin ders değerlendirmesi için öğrencilerden gelen geri bildirimi destekleme, değerlendirmelerin öğrencilere sunulması, sonuçları sistemin içinde veya farklı bir programla analiz edebilme.
-    > • İletişim: Sistemin asenkron ve senkron öğretmen-öğrenci ve öğrenci-öğrenci iletişimlerini desteklemesi.
-    > • İlerleme: Sistemin öğrencinin öğrenme sürecini, görevlerini, notlarını raporlaması.
-    > • Yönetim: Sistemin ders veya kullanıcıya uygun şekilde düzenlenerek sunulması. Öğrenme yönetim sistemindeki sistem yöneticilerinin kullanıcılara uygun erişim izinlerini verme yetkileri olmalıdır.
-    > Öğretmen ve öğrencilerin sistemde erişim izinlerinin farklılık göstermesi, hiyerarşik bir yapı olması.
-    > • Entegrasyon: Sistemin diğer sistemlerle uyumlu çalışması ve birden fazla yazılımı destekleyebilmesi.
-    > • İçerik uyumluluğu: Sistemin farklı sistemler tarafından oluşturulmuş materyalleri kendine dahil edebilmesi, kullanımına izin vermesi.
-    > • Kullanılabilirlik: Uygulamanın ara yüzünün öğrenmeyi kolaylaştırıcı biçimde kullanıcı dostu olması.
-    > • Konfigürasyon ve modifikasyon: Sistemin var olan/kullanılan sunucuya uyumlu olması ve kolayca kurulum ve düzenleme yapılabilmesi.
-    > • Teknik gereksinim: Sistemin kullanım yoğunluğu ve kullanıcı kitlesi arttığında sorunsuz işleyebilecek yeterlilikte olması.
-    > • Öğrenme ve pedagojik gereksinimler: Dikkat dağıtıcı, gereksiz bilgi bulunmaması ve etkileşimi artırıcı görseller içermesi.
+    > **Açıklama:** Faxen (2011) çalışmasında yer verdiği öğrenme yönetim sisteminin gerekliliklerini içeren 11 unsur<br />şunlardır;<br />• Ders içeriği yönetimi: Ders içeriklerinin, dersin görevlerinin veya görevlere ilişkin bilgilerin dağıtılması, planlanması, aktif veya pasif edilmesi, yeniden kullanımı gibi süreçlerin yönetimi.<br />• Değerlendirme: Sistemin ders değerlendirmesi için öğrencilerden gelen geri bildirimi destekleme, değerlendirmelerin öğrencilere sunulması, sonuçları sistemin içinde veya farklı bir programla analiz edebilme.<br />• İletişim: Sistemin asenkron ve senkron öğretmen-öğrenci ve öğrenci-öğrenci iletişimlerini desteklemesi.<br />• İlerleme: Sistemin öğrencinin öğrenme sürecini, görevlerini, notlarını raporlaması.<br />• Yönetim: Sistemin ders veya kullanıcıya uygun şekilde düzenlenerek sunulması. Öğrenme yönetim sistemindeki sistem yöneticilerinin kullanıcılara uygun erişim izinlerini verme yetkileri olmalıdır.<br />Öğretmen ve öğrencilerin sistemde erişim izinlerinin farklılık göstermesi, hiyerarşik bir yapı olması.<br />• Entegrasyon: Sistemin diğer sistemlerle uyumlu çalışması ve birden fazla yazılımı destekleyebilmesi.<br />• İçerik uyumluluğu: Sistemin farklı sistemler tarafından oluşturulmuş materyalleri kendine dahil edebilmesi, kullanımına izin vermesi.<br />• Kullanılabilirlik: Uygulamanın ara yüzünün öğrenmeyi kolaylaştırıcı biçimde kullanıcı dostu olması.<br />• Konfigürasyon ve modifikasyon: Sistemin var olan/kullanılan sunucuya uyumlu olması ve kolayca kurulum ve düzenleme yapılabilmesi.<br />• Teknik gereksinim: Sistemin kullanım yoğunluğu ve kullanıcı kitlesi arttığında sorunsuz işleyebilecek yeterlilikte olması.<br />• Öğrenme ve pedagojik gereksinimler: Dikkat dağıtıcı, gereksiz bilgi bulunmaması ve etkileşimi artırıcı görseller içermesi.
 
     <hr />
 1. Aşağıdakilerden hangisi yanlıştır?
@@ -1176,8 +1073,7 @@
     - D-) fikrin doğması
     - E-) yaratıcı süreç
 
-    > **Açıklama:** Sanat ve tasarım alanında yaratıcı düşünmeden bahsetmek, düşünme süreci, problemin çözümüne yönelik geliştirilen çözüm önerileri vb. şeylerin yanı sıra düşünme ile hareket etme arasındaki bağdan, uygulama sürecinden ve ortaya çıkan eylem ya da ürünün değerlendirilmesinden söz etmeyi de kapsar.
-    > Yaratıcı düşünmenin cisimleşme süreci yaratıcı edim olarak açıklanabilir.
+    > **Açıklama:** Sanat ve tasarım alanında yaratıcı düşünmeden bahsetmek, düşünme süreci, problemin çözümüne yönelik geliştirilen çözüm önerileri vb. şeylerin yanı sıra düşünme ile hareket etme arasındaki bağdan, uygulama sürecinden ve ortaya çıkan eylem ya da ürünün değerlendirilmesinden söz etmeyi de kapsar.<br />Yaratıcı düşünmenin cisimleşme süreci yaratıcı edim olarak açıklanabilir.
 
     <hr />
 1. İmgelemin sonuçlarının dış dünyada görünür olması ne olarak tanımlanabilir?
@@ -1217,8 +1113,7 @@
     - **Cevap D-) I-II-IV**
     - E-) II-III-IV
 
-    > **Açıklama:** Yaratıcı bireylerin ortak özellikleri: Beklenmeyene, yeni olana açık olma, belirsizliğe tolerans gösterme, deneyime ve risk almaya gönüllü olma, meraklı olma, karmaşık işlere ilgi duyma, esnek olma, bağımsızlığa düşkün ve içe dönük olma, sorgulayıcı olma, gelişmiş bir mizah anlayışına sahip olma, güçlü bir duygusal farkındalığı olma.
-    > I-II-IV
+    > **Açıklama:** Yaratıcı bireylerin ortak özellikleri: Beklenmeyene, yeni olana açık olma, belirsizliğe tolerans gösterme, deneyime ve risk almaya gönüllü olma, meraklı olma, karmaşık işlere ilgi duyma, esnek olma, bağımsızlığa düşkün ve içe dönük olma, sorgulayıcı olma, gelişmiş bir mizah anlayışına sahip olma, güçlü bir duygusal farkındalığı olma.<br />I-II-IV
 
     <hr />
 1. Aşağıdakilerden hangisi yaratıcılık kavramının açıklanmasında kullanılan ifadelerden biri **değildir**?<br />Yaratıcılık, tutum, süreç, ürün, beceri, kişilik özelliklerinin<br />birleşimi ve bununla birlikte çevresel koşulların bir<br />sonucu olarak açıklanabilir
@@ -1228,8 +1123,7 @@
     - D-) Ürün
     - **Cevap E-) Cinsiyet**
 
-    > **Açıklama:** Yaratıcılık, tutum, süreç, ürün, beceri, kişilik özelliklerinin birleşimi ve bununla birlikte çevresel koşulların bir sonucu olarak açıklanabilir
-    > Cinsiyet
+    > **Açıklama:** Yaratıcılık, tutum, süreç, ürün, beceri, kişilik özelliklerinin birleşimi ve bununla birlikte çevresel koşulların bir sonucu olarak açıklanabilir<br />Cinsiyet
 
     <hr />
 1. Aşağıdakilerden hangisi Hermann’ın Yaratıcı Sorun Çözme Model'indeki değişik zihinsel düşünme becerisiyle ilişki olan becerilerden dedektif meslek grubu ile ilgili bir özelliktir?
@@ -1279,10 +1173,7 @@
     - D-) Sorun Tanımlama
     - E-) Alternatifleri Seçip Görselleştirme
 
-    > **Açıklama:** Sinektik yöntemde adımlar: Sorun Tanımlama, Sorunu Parçalara Ayırma, Elde Edilen Düşünceleri
-    > Değerlendirme, Soruna İlişkin Bilgi Edinme, Eğer, Gibi Sözcüklerini Kullanarak Düşünme/Cümle Kurma, Alternatieri Seçip
-    > Görselleştirme
-    > Farklı Bakış Açılarını İnceleme
+    > **Açıklama:** Sinektik yöntemde adımlar: Sorun Tanımlama, Sorunu Parçalara Ayırma, Elde Edilen Düşünceleri<br />Değerlendirme, Soruna İlişkin Bilgi Edinme, Eğer, Gibi Sözcüklerini Kullanarak Düşünme/Cümle Kurma, Alternatieri Seçip<br />Görselleştirme<br />Farklı Bakış Açılarını İnceleme
 
     <hr />
 1. Elma kurdunun açtığı oyuk ile yer altı tünelleri arasında benzerlik kurulması yaratıcı içerik geliştirme tekniklerinden hangisidir?
@@ -1292,8 +1183,7 @@
     - **Cevap D-) Doğrudan Analoji Tekniği**
     - E-) Eleştirel Düşünme Tekniği
 
-    > **Açıklama:** Doğrudan anoloji, karşılaştırma yapmaya ve benzeşime dayanır. Benzerlikleri kurmak için hayvanlar, bitkiler vb. gibi çoğunlukla doğal anolojilere başvurulur. Elma kurdunun açtığı oyuk ile yer altı tünellerinin benzerliği gibi, hayvanların kendilerini koruma yöntemleri ya da fiziksel özellikleri pek çok yaratıcı tasarıma kaynaklık etmiştir
-    > Doğrudan Analoji Tekniği
+    > **Açıklama:** Doğrudan anoloji, karşılaştırma yapmaya ve benzeşime dayanır. Benzerlikleri kurmak için hayvanlar, bitkiler vb. gibi çoğunlukla doğal anolojilere başvurulur. Elma kurdunun açtığı oyuk ile yer altı tünellerinin benzerliği gibi, hayvanların kendilerini koruma yöntemleri ya da fiziksel özellikleri pek çok yaratıcı tasarıma kaynaklık etmiştir<br />Doğrudan Analoji Tekniği
 
     <hr />
 1. Aşağıdakilerden hangisi biçim, içerik ve öznenin birbirinden ayrılmaz bir şekilde etkileşim ile canlı bir organizma gibi etkili, başarılı bir şekilde bir araya gelmesini ifade eder?
@@ -1313,8 +1203,7 @@
     - D-) II, III, IV, V
     - E-) II, III, IV
 
-    > **Açıklama:** Yaratıcı düşünme süreci çeşitli düşünme yetilerinin bir bütünü olarak değerlendirilebilir: Eleştirel Düşünme, Analitik Düşünme, Janusyan Düşünme, Sentetik Düşünme, Çağrışımsal Düşünme, Iraksak-yakınsak, İmgesel Düşünme.
-    > I, II, III, IV
+    > **Açıklama:** Yaratıcı düşünme süreci çeşitli düşünme yetilerinin bir bütünü olarak değerlendirilebilir: Eleştirel Düşünme, Analitik Düşünme, Janusyan Düşünme, Sentetik Düşünme, Çağrışımsal Düşünme, Iraksak-yakınsak, İmgesel Düşünme.<br />I, II, III, IV
 
     <hr />
 ## Unite 7
@@ -1325,16 +1214,7 @@
     - D-) Toplumsal fayda
     - **Cevap E-) Ekonomiklik**
 
-    > **Açıklama:** İçeriğin düzenlenmesine yönelik bazı ilkeler ve yaklaşımlar bulunmaktadır. Bir etkinliğe ilişkin içeriğin belirlenmesi ve tasarlanmasına yönelik ilkeler aşağıdaki gibi özetlenebilir;
-    > Geçerlik ve güvenirlik
-    > Bireylerin ilgi ve ihtiyaçlarına yönelik olma
-    > Aktarılabilirlik ve uygunluk
-    > Toplumsal fayda
-    > İçeriğin mantıksal yapısı
-    > Bilimsellik
-    > İçeriğin psikolojik temeli
-    > **Ekonomiklik:** İçeriğin belirlenmesinde ve
-    > sürece alınmasında verimli olması amaçlanmalıdır.
+    > **Açıklama:** İçeriğin düzenlenmesine yönelik bazı ilkeler ve yaklaşımlar bulunmaktadır. Bir etkinliğe ilişkin içeriğin belirlenmesi ve tasarlanmasına yönelik ilkeler aşağıdaki gibi özetlenebilir;<br />Geçerlik ve güvenirlik<br />Bireylerin ilgi ve ihtiyaçlarına yönelik olma<br />Aktarılabilirlik ve uygunluk<br />Toplumsal fayda<br />İçeriğin mantıksal yapısı<br />Bilimsellik<br />İçeriğin psikolojik temeli<br />**Ekonomiklik:** İçeriğin belirlenmesinde ve<br />sürece alınmasında verimli olması amaçlanmalıdır.
 
     <hr />
 1. 1\. Yapılandırılmış sorgulama<br />2\. Rehberli sorgulama<br />3\. Destekli sorgulama<br />4\. Açık uçlu sorgulama<br />Yukarıdakilerden hangileri Sadeh ve Zion tarafından belirtilen araştırmaya-sorgulamaya dayalı yöntemlerdir?
@@ -1344,11 +1224,7 @@
     - **Cevap D-) I, II ve IV**
     - E-) II, III ve IV
 
-    > **Açıklama:** Araştırmaya-sorgulamaya dayalı yaklaşımda Sadeh ve Zion (2012) tarafından belirtilen şu yöntemler kullanılmaktadır.
-    > • Yapılandırılmış sorgulama: Alıcının daha pasif olduğu, öğretenin daha etkin olduğu bir sorgulama yöntemidir. Bu yöntemde öğreten süreç içinde gerekli olabilecek araç ve gereçleri hazırlar. Birey ise ilişkisel bir inceleme yaparak sorgulama yapar.
-    > • Rehberli sorgulama: Bir problem oluşturularak öğretenin rehberlik ettiği bir süreç
-    > gerçekleştirilir. Hitap edilen kitle problem durumunu rehber eşliğinde sorgulayarak ele alır. Bu yöntemde kişi yapılandırılmış sorgulamaya göre daha etkindir.
-    > • Açık uçlu sorgulama: Bu yöntemde birey yapılandırılmış sorgulama ve rehberli sorgulama yöntemine göre daha aktiftir. Sürecin tüm aşamalarında hitap edilen kitleden sorgulaması, problemin çözümüne yönelik çalışmalar gerçekleştirmesi beklenmektedir.
+    > **Açıklama:** Araştırmaya-sorgulamaya dayalı yaklaşımda Sadeh ve Zion (2012) tarafından belirtilen şu yöntemler kullanılmaktadır.<br />• Yapılandırılmış sorgulama: Alıcının daha pasif olduğu, öğretenin daha etkin olduğu bir sorgulama yöntemidir. Bu yöntemde öğreten süreç içinde gerekli olabilecek araç ve gereçleri hazırlar. Birey ise ilişkisel bir inceleme yaparak sorgulama yapar.<br />• Rehberli sorgulama: Bir problem oluşturularak öğretenin rehberlik ettiği bir süreç<br />gerçekleştirilir. Hitap edilen kitle problem durumunu rehber eşliğinde sorgulayarak ele alır. Bu yöntemde kişi yapılandırılmış sorgulamaya göre daha etkindir.<br />• Açık uçlu sorgulama: Bu yöntemde birey yapılandırılmış sorgulama ve rehberli sorgulama yöntemine göre daha aktiftir. Sürecin tüm aşamalarında hitap edilen kitleden sorgulaması, problemin çözümüne yönelik çalışmalar gerçekleştirmesi beklenmektedir.
 
     <hr />
 1. Aşağıdakilerden hangisi post-pozitivist eğitim yaklaşımın özelliklerinden biri değildir?
@@ -1358,13 +1234,7 @@
     - D-) Bireysel ihtiyaçlara ve beklentilere cevap verebilecek esnek bir yapıya sahiptir.
     - E-) Eğitim bireysel gelişimin önemsendiği bilişsel ve duyuşsal bir alan olarak algılanır.
 
-    > **Açıklama:** Post-pozitivist eğitim anlayışı olarak isimlendirilen yaklaşım eğitimin amacının ve kapsamının yeniden tanımlanmasına neden olmuştur Bu yaklaşımın özellikleri kısaca şöyle sıralanabilir;
-    > • **Temel felsefesi çok kültürlü ve demokratik eğitime dayanır.**
-    > • Ortak duygu, diyalog ve karşılıklı etkileşimin insanlar arasında bağlayıcı olacağına
-    > inanılmaktadır.
-    > • Mevcut sosyal ve politik yapı içinde yetişen yeni neslin beklentilerine ve arzularına hitap edebilir.
-    > • Homojen eğitim anlayışından farklı olarak bireysel ihtiyaçlara ve beklentilere cevap verebilecek esnek bir yapıya sahiptir.
-    > • Eğitim bireysel gelişimin önemsendiği bilişsel ve duyuşsal bir alan olarak algılanır.
+    > **Açıklama:** Post-pozitivist eğitim anlayışı olarak isimlendirilen yaklaşım eğitimin amacının ve kapsamının yeniden tanımlanmasına neden olmuştur Bu yaklaşımın özellikleri kısaca şöyle sıralanabilir;<br />• **Temel felsefesi çok kültürlü ve demokratik eğitime dayanır.**<br />• Ortak duygu, diyalog ve karşılıklı etkileşimin insanlar arasında bağlayıcı olacağına<br />inanılmaktadır.<br />• Mevcut sosyal ve politik yapı içinde yetişen yeni neslin beklentilerine ve arzularına hitap edebilir.<br />• Homojen eğitim anlayışından farklı olarak bireysel ihtiyaçlara ve beklentilere cevap verebilecek esnek bir yapıya sahiptir.<br />• Eğitim bireysel gelişimin önemsendiği bilişsel ve duyuşsal bir alan olarak algılanır.
 
     <hr />
 1. İktidarın kendi varlığını sürdürebilmek adına bilgiye ihtiyaç duyduğunu belirten düşünür aşağıdakilerden hangisidir?
@@ -1384,8 +1254,7 @@
     - **Cevap D-) Paulo Freire**
     - E-) Jurgen Habermas
 
-    > **Açıklama:** Eleştirel pedagojinin anlamlandırılmasında bu yaklaşımın insan kavramını nasıl ele aldığının incelenmesi önemli görülmektedir.
-    > Marksist filozof **Paulo Freire’de öncelikle insan, insanlaşma ve insandışılaşma kavramlarını ele almıştır.**
+    > **Açıklama:** Eleştirel pedagojinin anlamlandırılmasında bu yaklaşımın insan kavramını nasıl ele aldığının incelenmesi önemli görülmektedir.<br />Marksist filozof **Paulo Freire’de öncelikle insan, insanlaşma ve insandışılaşma kavramlarını ele almıştır.**
 
     <hr />
 1. Coney’in düşünme becerilerini sınıflandırmasına göre 'teorik düşünmenin' tanımı aşağıdakilerden hangisidir?
@@ -1395,9 +1264,7 @@
     - D-) Problemin belirlenmesi, çözüm önerileri geliştirilmesi, karar verilmesi ve uygulamaya geçilmesi adımlarının takip edilerek yaşamın sürdürülmesiyle bağıntılıdır.
     - E-) Bir bütündeki her bir parçanın analiz edilerek bütünle/sistemle ilişkilerinin incelendiği düşünce becerisidir.
 
-    > **Açıklama:** Coney düşünme becerilerini teknik düşünme, pratik düşünme, teorik düşünme ve eleştirel düşünme olmak üzere dört ana başlık altında toplayarak ele almıştır. Teknik düşünme becerisi bireyin sahip olduğu meta, malzeme ve araçlarla istendik bir ürün ortaya çıkarması olarak düşünülebilir. Pratik düşünme,
-    > bireyin kişisel ve sosyal hayatını ve ilişkilerini yönlendirmesiyle açıklanmaktadır. **Teorik düşünme, ontolojik anlamda varlık ve var olan şeyler üzerine**
-    > **yapılan sorgulamalara karşılık gelmektedir.** Eleştirel düşünme ise problemin belirlenmesi, çözüm önerileri geliştirilmesi, karar verilmesi ve uygulamaya geçilmesi adımlarının takip edilerek yaşamınsürdürülmesiyle bağıntılıdır.
+    > **Açıklama:** Coney düşünme becerilerini teknik düşünme, pratik düşünme, teorik düşünme ve eleştirel düşünme olmak üzere dört ana başlık altında toplayarak ele almıştır. Teknik düşünme becerisi bireyin sahip olduğu meta, malzeme ve araçlarla istendik bir ürün ortaya çıkarması olarak düşünülebilir. Pratik düşünme,<br />bireyin kişisel ve sosyal hayatını ve ilişkilerini yönlendirmesiyle açıklanmaktadır. **Teorik düşünme, ontolojik anlamda varlık ve var olan şeyler üzerine**<br />**yapılan sorgulamalara karşılık gelmektedir.** Eleştirel düşünme ise problemin belirlenmesi, çözüm önerileri geliştirilmesi, karar verilmesi ve uygulamaya geçilmesi adımlarının takip edilerek yaşamınsürdürülmesiyle bağıntılıdır.
 
     <hr />
 1. “Bireyin ulaşmış olduğu sonuç ya da sonuçları kavramsal, kuramsal ve metodolojik boyutta ifade etmesidir. Bireyin ulaştığı sonuçları gerekçelendirmesi, geliştirdiği argümanlarla diğer kişilerle tartışmalar yapabilmesidir.”<br />Yukarıdaki ifade eleştirel düşünmenin aşağıdaki alt becerilerinden hangisini açıklar?
@@ -1407,8 +1274,7 @@
     - D-) Değerlendirme
     - **Cevap E-) Açıklama**
 
-    > **Açıklama:** Facione (1990) eleştirel düşünme becerisinin şu alt becerilerin bir araya gelmesiyle oluştuğunu ifade etmektedir;
-    > • Yorumlama• Çözümleme• Çıkarsama• Değerlendirme• **Açıklama:** Bireyin ulaşmış olduğu sonuç ya da sonuçları kavramsal, kuramsal ve metodolojik boyutta ifade etmesidir. Bireyin ulaştığı sonuçları gerekçelendirmesi, geliştirdiği argümanlarla diğer kişilerle tartışmalar yapabilmesidir.• Kendini Düzenleme
+    > **Açıklama:** Facione (1990) eleştirel düşünme becerisinin şu alt becerilerin bir araya gelmesiyle oluştuğunu ifade etmektedir;<br />• Yorumlama• Çözümleme• Çıkarsama• Değerlendirme• **Açıklama:** Bireyin ulaşmış olduğu sonuç ya da sonuçları kavramsal, kuramsal ve metodolojik boyutta ifade etmesidir. Bireyin ulaştığı sonuçları gerekçelendirmesi, geliştirdiği argümanlarla diğer kişilerle tartışmalar yapabilmesidir.• Kendini Düzenleme
 
     <hr />
 1. Aşağıdakilerden hangisi eleştirel düşünme öğretimine yönelik yaklaşımlardan biri değildir?
@@ -1418,12 +1284,7 @@
     - D-) Beceri Temelli Öğretim Yaklaşımı
     - E-) Karma Öğretim Yaklaşımı
 
-    > **Açıklama:** Alanyazına göre, eleştirel düşünmenin öğretimine ilişkin dört temel yaklaşım vardır;
-    > • **Konu Tabanlı Öğretim Yaklaşımı**: Eleştirel düşünme prensiplerini eğitsel içerik öğretimiyle entegre
-    > eder. Bu yaklaşımda eleştirel düşünme öğretimi, içerik öğretimiyle birlikte işlenir ve bireylere eleştirel düşünmeyi kullanmaları için konuyla ilgili cesaretlendirme yapılır. Bu şekilde eleştirel düşünme, bireylerin konuları daha derinlemesine ve dikkatli bir şekilde anlamalarına yardımcı olur ve aktarım sürecine entegre edilir.
-    > • **İçerik Temelli Öğretim Yaklaşımı**: İçerik ve eleştirel düşünmenin prensiplerini birleştirir, hitap edilen kitleye eğitsel içerik öğretilirken aynı zamanda eleştirel düşünmeye odaklandırır. Bu yaklaşımda, içerik öğretimine ağırlık verilir ve eleştirel düşünmenin ilke ve kuralları örtük şekilde verilebilir. Bireyler, içerik odaklı çalışmalar sırasında eleştirel düşünmeyi kendiliğinden geliştirir ve bu yaklaşım onları eleştirel düşünce becerilerini içeren bir sürece dahil eder.
-    > • **Beceri Temelli Öğretim Yaklaşımı:** Eleştirel düşünme öğretimi içerikten bağımsız olarak temellendirir. Bu yaklaşımda, eleştirel düşünmenin ilkeleri, prensipleri ve eleştirel düşünme becerileri, hitap edilen kitleye eleştirel düşünme yeteneği ve eğilimini kazandırmak için yapılandırılmış içeriklerle birlikte öğretilir. Bu içerikler genellikle yerel sosyo-politik konular, eğitim ortamındaki sorunlar veya çevreyle ilgili sorunlar gibi gerçek yaşam sorunları olabilir, ancak bu yaklaşım bir içeriğin olmasını zorunlu kılmaz. Bu şekilde, bireylere eleştirel düşünme becerilerini günlük hayatlarına uygulama fırsatı sunulur.
-    > • **Karma Öğretim Yaklaşımı:** Bu yaklaşım eleştirel düşünmenin genel ilkelerini ayrı bir eğitim aracılığıyla hitap edilen kitleye sunar. Ancak bireyler aynı zamanda içerik temelli eleştirel düşünme öğretimine de maruz bırakılırlar. Bu şekilde, bireylere eleştirel düşünmenin temel becerileri ve prensipleri ayrı bir disiplinde öğretilirken, aynı zamanda gerçek yaşam içerikleriyle ilişkili aktarıma dayalı deneyim de sunulur. Bu yaklaşım, eleştirel düşünme becerilerini teorik düzeyde aktarmanın yanı sıra, bu becerileri günlük hayatta uygulamayı teşvik eder. Böylece, bireyler hem eleştirel düşünmeyi kavramsal olarak anlar hem de pratik olarak kullanmayı öğrenirler.
+    > **Açıklama:** Alanyazına göre, eleştirel düşünmenin öğretimine ilişkin dört temel yaklaşım vardır;<br />• **Konu Tabanlı Öğretim Yaklaşımı**: Eleştirel düşünme prensiplerini eğitsel içerik öğretimiyle entegre<br />eder. Bu yaklaşımda eleştirel düşünme öğretimi, içerik öğretimiyle birlikte işlenir ve bireylere eleştirel düşünmeyi kullanmaları için konuyla ilgili cesaretlendirme yapılır. Bu şekilde eleştirel düşünme, bireylerin konuları daha derinlemesine ve dikkatli bir şekilde anlamalarına yardımcı olur ve aktarım sürecine entegre edilir.<br />• **İçerik Temelli Öğretim Yaklaşımı**: İçerik ve eleştirel düşünmenin prensiplerini birleştirir, hitap edilen kitleye eğitsel içerik öğretilirken aynı zamanda eleştirel düşünmeye odaklandırır. Bu yaklaşımda, içerik öğretimine ağırlık verilir ve eleştirel düşünmenin ilke ve kuralları örtük şekilde verilebilir. Bireyler, içerik odaklı çalışmalar sırasında eleştirel düşünmeyi kendiliğinden geliştirir ve bu yaklaşım onları eleştirel düşünce becerilerini içeren bir sürece dahil eder.<br />• **Beceri Temelli Öğretim Yaklaşımı:** Eleştirel düşünme öğretimi içerikten bağımsız olarak temellendirir. Bu yaklaşımda, eleştirel düşünmenin ilkeleri, prensipleri ve eleştirel düşünme becerileri, hitap edilen kitleye eleştirel düşünme yeteneği ve eğilimini kazandırmak için yapılandırılmış içeriklerle birlikte öğretilir. Bu içerikler genellikle yerel sosyo-politik konular, eğitim ortamındaki sorunlar veya çevreyle ilgili sorunlar gibi gerçek yaşam sorunları olabilir, ancak bu yaklaşım bir içeriğin olmasını zorunlu kılmaz. Bu şekilde, bireylere eleştirel düşünme becerilerini günlük hayatlarına uygulama fırsatı sunulur.<br />• **Karma Öğretim Yaklaşımı:** Bu yaklaşım eleştirel düşünmenin genel ilkelerini ayrı bir eğitim aracılığıyla hitap edilen kitleye sunar. Ancak bireyler aynı zamanda içerik temelli eleştirel düşünme öğretimine de maruz bırakılırlar. Bu şekilde, bireylere eleştirel düşünmenin temel becerileri ve prensipleri ayrı bir disiplinde öğretilirken, aynı zamanda gerçek yaşam içerikleriyle ilişkili aktarıma dayalı deneyim de sunulur. Bu yaklaşım, eleştirel düşünme becerilerini teorik düzeyde aktarmanın yanı sıra, bu becerileri günlük hayatta uygulamayı teşvik eder. Böylece, bireyler hem eleştirel düşünmeyi kavramsal olarak anlar hem de pratik olarak kullanmayı öğrenirler.
 
     <hr />
 1. “Eleştirel düşünebilme yetisine sahip birey/ bireyler yaşadıkları deneyimler aracılığıyla içselleştirdikleri bilgileri karşılaştıkları benzer ve/veya yeni durumların içinde etkin şekilde kullanabilirler.”<br />Yukarıdaki ifade eleştirel düşünme stratejilerinden/makro yeteneklerden hangisini açıklar?
@@ -1433,8 +1294,7 @@
     - D-) *Varsayımları değerlendirme*
     - E-) *İlgili ve ilgili olmayan gerçekleri ayırt etme*
 
-    > **Açıklama:** **Yaşadıkları deneyimlerden öğrendiklerini diğer bir benzer deneyime transfer edebilme:**
-    > Eleştirel düşünebilme yetisine sahip birey/bireyler yaşadıkları deneyimler aracılığıyla içselleştirdikleri bilgileri karşılaştıkları benzer ve/veya yeni durumların içinde etkin şekilde kullanabilirler.
+    > **Açıklama:** **Yaşadıkları deneyimlerden öğrendiklerini diğer bir benzer deneyime transfer edebilme:**<br />Eleştirel düşünebilme yetisine sahip birey/bireyler yaşadıkları deneyimler aracılığıyla içselleştirdikleri bilgileri karşılaştıkları benzer ve/veya yeni durumların içinde etkin şekilde kullanabilirler.
 
     <hr />
 1. İçeriğin amaçlarla ve içeriğin kullanıcısı olan bireyle uyum içerisinde olması biçiminde açıklanan sorgulama temelli içerik belirleme ve tasarlanma ilkesi aşağıdakilerden hangisidir?
@@ -1625,11 +1485,7 @@
     - D-) Öğrencilerin başarı ortalamalarının 61 olduğunu hesaplaması
     - E-) Öğrencilerin başarı düzeylerinin "orta" olduğuna karar vermesi
 
-    > **Açıklama:** Ölçme işleminin üç safhada gerçekleştiğini dile getirilmektedir:
-    > • Ölçülmesi amaçlanan özelliklerin (niteliklerin) belirlenmesi (Davranışların belirlenmesi)
-    > • Niceliklerin tespit edilmesi, yani ölçülecek özelliğin ne tür bir sıfat ya da sayıyla ifade edileceğinin belirlenmesi (Ölçme aracının belirlenmesi)
-    > • Belli bir kurala göre niteliklerle niceliklerin eşleştirilmesi (Ölçme işleminin gerçekleştirilmesi)
-    > Örnek olayda öğretmenin öğrencilerin Görsel İletişim Tasarımı dersine ilişkin başarı durumlarını belirlemek istemesi, ölçme işleminin ilk aşaması olan neyin ölçüleceğine karar verildiği, ölçülecek özelliklerin belirlenmesi aşaması ile ilgilidir. Doğru yanıt A seçeneğidir.
+    > **Açıklama:** Ölçme işleminin üç safhada gerçekleştiğini dile getirilmektedir:<br />• Ölçülmesi amaçlanan özelliklerin (niteliklerin) belirlenmesi (Davranışların belirlenmesi)<br />• Niceliklerin tespit edilmesi, yani ölçülecek özelliğin ne tür bir sıfat ya da sayıyla ifade edileceğinin belirlenmesi (Ölçme aracının belirlenmesi)<br />• Belli bir kurala göre niteliklerle niceliklerin eşleştirilmesi (Ölçme işleminin gerçekleştirilmesi)<br />Örnek olayda öğretmenin öğrencilerin Görsel İletişim Tasarımı dersine ilişkin başarı durumlarını belirlemek istemesi, ölçme işleminin ilk aşaması olan neyin ölçüleceğine karar verildiği, ölçülecek özelliklerin belirlenmesi aşaması ile ilgilidir. Doğru yanıt A seçeneğidir.
 
     <hr />
 1. I-Nicel<br />II-Süreksiz<br />III-Bağımsız<br />IV-Karıştırıcı<br />V-Moderatör<br />Yukarıdakilerden hangileri araştırmanın amacına göre gruplandırılan değişkenler arasında yer almaktadır?
@@ -1639,13 +1495,7 @@
     - D-) II, IV ve V
     - **Cevap E-) III, IV ve V**
 
-    > **Açıklama:** Değişkenler aldıkları değere göre ve araştırmanın amacına göre iki grupta değerlendirilmektedir. Araştırma amacına göre değişkenler arasında,
-    > * Bağımsız Değişken
-    > * Bağımsız Değişken
-    > * Karıştırıcı Değişken
-    > * Moderatör Değişken
-    > * Kontrol Değişkeni
-    > yer almaktadır. Doğru yanıt E seçeneğidir.
+    > **Açıklama:** Değişkenler aldıkları değere göre ve araştırmanın amacına göre iki grupta değerlendirilmektedir. Araştırma amacına göre değişkenler arasında,<br />* Bağımsız Değişken<br />* Bağımsız Değişken<br />* Karıştırıcı Değişken<br />* Moderatör Değişken<br />* Kontrol Değişkeni<br />yer almaktadır. Doğru yanıt E seçeneğidir.
 
     <hr />
 1. I-Cinsiyet<br />II-Yaş<br />III-Akademik başarı<br />IV-Eğitim düzeyi<br />V-Medeni durum<br />Bir görsel iletişim tasarımcısı tasarlamış olduğu Web sistesinin ziyaret edilme durumlarını süreksiz (kesikli) değişkenler açısından analiz etmek istemektedir. Buna göre yukarıdaki değişkenlerden hangilerine ilişkin veri toplaması gerekmektedir?
@@ -1715,7 +1565,6 @@
     - D-) Portfolyo
     - **Cevap E-) Kelime İlişkilendirme Testleri**
 
-    > **Açıklama:** Bireylerin bir konuya dair bilişsel yapılarını belirleyip uzun süreli bellekteki kavramlar ve bilgiler arasındaki münasebetin yeterliliğini tespit etmeye yarayan bir tekniktir. Bilişsel yapıların yanı
-    > sıra kavram yanılgıları ve kavramsal değişimleri saptamak için KİT tekniğinden yararlanılmaktadır. Doğru yanıt E seçeneğidir.
+    > **Açıklama:** Bireylerin bir konuya dair bilişsel yapılarını belirleyip uzun süreli bellekteki kavramlar ve bilgiler arasındaki münasebetin yeterliliğini tespit etmeye yarayan bir tekniktir. Bilişsel yapıların yanı<br />sıra kavram yanılgıları ve kavramsal değişimleri saptamak için KİT tekniğinden yararlanılmaktadır. Doğru yanıt E seçeneğidir.
 
     <hr />

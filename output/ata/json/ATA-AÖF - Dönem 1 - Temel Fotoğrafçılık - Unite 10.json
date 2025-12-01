@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 117474,
-        "SoruMetni": "I. Çok yakın çekimleri ifade eder.<br/>II. Fotoğrafa konu olan objenin ya da ayrıntının kendi boyutunda veya büyütülerek görselleştirilmesidir.<br/>III. Fotoğrafçı ile konu arasındaki mesafe minimum düzeyde olduğu için görüntüde netliği yakalamak güçleşir.<br/><strong>Özellikleri verilen fotoğrafçılık türü aşağıdakilerden hangisidir?</strong></br></br>",
+        "SoruMetni": "I. Çok yakın çekimleri ifade eder.<br/>II. Fotoğrafa konu olan objenin ya da ayrıntının kendi boyutunda veya büyütülerek görselleştirilmesidir.<br/>III. Fotoğrafçı ile konu arasındaki mesafe minimum düzeyde olduğu için görüntüde netliği yakalamak güçleşir.<br/><strong>Özellikleri verilen fotoğrafçılık türü aşağıdakilerden hangisidir?</strong>",
         "A": "Portre fotoğrafçılığı",
         "B": "Doğa fotoğrafçılığı",
         "C": "Manzara fotoğrafçılığı",
@@ -461,7 +461,7 @@
     },
     {
         "SoruID": 334696,
-        "SoruMetni": "I. Temsilî<br/>II. İzlenimci<br/>III. Soyut<br/><strong>Yukarıdakilerden hangisi ya da hangileri manzara fotoğrafçılığının başlıkları arasında yer alır?</strong> </br></br>",
+        "SoruMetni": "I. Temsilî<br/>II. İzlenimci<br/>III. Soyut<br/><strong>Yukarıdakilerden hangisi ya da hangileri manzara fotoğrafçılığının başlıkları arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",

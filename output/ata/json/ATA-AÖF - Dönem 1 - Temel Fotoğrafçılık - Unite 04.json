@@ -61,7 +61,7 @@
     },
     {
         "SoruID": 110879,
-        "SoruMetni": "I. Bir imgeye bakışta farklı yollar ileri sürmektedir.<br/>II. Fotoğrafa bakan kişiye farklı bakış açısı kazandırarak keşfetmeye yöneltir.<br/>III. Anlamın sınırsız okunmasına imkân sağlamaktadır.<br/><strong>Yukarıda özellikleri verilen fotoğraf türü hangisidir?</strong></br></br>",
+        "SoruMetni": "I. Bir imgeye bakışta farklı yollar ileri sürmektedir.<br/>II. Fotoğrafa bakan kişiye farklı bakış açısı kazandırarak keşfetmeye yöneltir.<br/>III. Anlamın sınırsız okunmasına imkân sağlamaktadır.<br/><strong>Yukarıda özellikleri verilen fotoğraf türü hangisidir?</strong>",
         "A": "Sanat fotoğrafı",
         "B": "Belgesel fotoğraf",
         "C": "Deneysel fotoğraf",
@@ -281,7 +281,7 @@
     },
     {
         "SoruID": 118311,
-        "SoruMetni": "I. Görüntünün önceden izlenebilmesi<br/>II. Fotoğraf filminin ortadan kalkması<br/>III. Görüntünün anında elde edilebilmesi<br/><strong>Yukarıdakilerden hangisi ya da hangileri dijital fotoğrafçılığın özellikleri arasında yer alır?</strong> </br></br>",
+        "SoruMetni": "I. Görüntünün önceden izlenebilmesi<br/>II. Fotoğraf filminin ortadan kalkması<br/>III. Görüntünün anında elde edilebilmesi<br/><strong>Yukarıdakilerden hangisi ya da hangileri dijital fotoğrafçılığın özellikleri arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -421,7 +421,7 @@
     },
     {
         "SoruID": 331106,
-        "SoruMetni": "I. Burhan Felek<br/>II. Ara Güler<br/>III. Ferit İbrahim<br/><strong>Yukarıdakilerden hangisi ya da hangileri Osmanlı Dönemi fotoğrafçıları arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. Burhan Felek<br/>II. Ara Güler<br/>III. Ferit İbrahim<br/><strong>Yukarıdakilerden hangisi ya da hangileri Osmanlı Dönemi fotoğrafçıları arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız III",
         "C": "I ve II",

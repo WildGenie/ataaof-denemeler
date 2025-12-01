@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 3862103,
-        "SoruMetni": "I. 'Geleneksel Dönem', Birinci Dünya Savaşı’nın sonuna kadar süren bir zaman dilimini ifade eder.<br/>II. I.Dünya Savaşı’nın sonu ile II. Dünya Savaşı’nın başlangıcı arasındaki dönem 'Marka Tekniği Dönemi' olarak isimlendirilmektedir.<br/>III. 'Tasarım Döneminde', AEG kurumsal kimlik talebiyle tasarımcıyı görevlendiren ilk kurum olmuştur.<br/>IV. 'Stratejik Dönem', 1970’li yılların sonundan günümüze kadar devam eden dönem için kullanılmaktadır.<br/>V. Günümüzde devam eden 'Stratejik Dönem'de, markaların minimal ve sade tasarımlara geçişine yönelik bir eğilim görülmektedir.<br/>Yukarıda verilen bilgiler ışığında, kurumsal kimliğin geçmişten günümüze kadar geçirdiği evreler aşağıda verilen seçeneklerden hangisinde doğru olarak verilmiştir? </br></br>",
+        "SoruMetni": "I. 'Geleneksel Dönem', Birinci Dünya Savaşı’nın sonuna kadar süren bir zaman dilimini ifade eder.<br/>II. I.Dünya Savaşı’nın sonu ile II. Dünya Savaşı’nın başlangıcı arasındaki dönem 'Marka Tekniği Dönemi' olarak isimlendirilmektedir.<br/>III. 'Tasarım Döneminde', AEG kurumsal kimlik talebiyle tasarımcıyı görevlendiren ilk kurum olmuştur.<br/>IV. 'Stratejik Dönem', 1970’li yılların sonundan günümüze kadar devam eden dönem için kullanılmaktadır.<br/>V. Günümüzde devam eden 'Stratejik Dönem'de, markaların minimal ve sade tasarımlara geçişine yönelik bir eğilim görülmektedir.<br/>Yukarıda verilen bilgiler ışığında, kurumsal kimliğin geçmişten günümüze kadar geçirdiği evreler aşağıda verilen seçeneklerden hangisinde doğru olarak verilmiştir?",
         "A": "I, II, III ve IV",
         "B": "I, III, ve V",
         "C": "I, II, IV ve V",
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "KURUMSAL KİMLİK<br>Kurumsal Kimliğin Unsurları (Bileşenleri): Kurum Felsefesi, Kurumsal Davranış, Kurumsal İletişim, Kurumsal Tasarım."
+        "Aciklama": "KURUMSAL KİMLİK<br/>Kurumsal Kimliğin Unsurları (Bileşenleri): Kurum Felsefesi, Kurumsal Davranış, Kurumsal İletişim, Kurumsal Tasarım."
     },
     {
         "SoruID": 3862255,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kurumsal kimlik<br>Görsel kimlik, markanın zihinlerde algılanmasını ve hatırlanmasını sağlayan en önemli unsurdur. Görsel kimlik, bir markanın “giyindiği elbise” olarak düşünülebilir."
+        "Aciklama": "Kurumsal kimlik<br/>Görsel kimlik, markanın zihinlerde algılanmasını ve hatırlanmasını sağlayan en önemli unsurdur. Görsel kimlik, bir markanın “giyindiği elbise” olarak düşünülebilir."
     },
     {
         "SoruID": 3862256,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kurumsal kimlikte tarihsel süreçler<br>Kurumsal kimliğin geçmişten günümüze kadar geçirdiği evreler ve özellikleri incelendiğinde, bu süreci dört dönem olarak sınıflandırmak mümkündür (Okay, 2003). Bu evreler; geleneksel dönem, marka teknikleri dönemi, tasarım dönemi ve stratejik dönem olarak sınıflandırılabilir."
+        "Aciklama": "Kurumsal kimlikte tarihsel süreçler<br/>Kurumsal kimliğin geçmişten günümüze kadar geçirdiği evreler ve özellikleri incelendiğinde, bu süreci dört dönem olarak sınıflandırmak mümkündür (Okay, 2003). Bu evreler; geleneksel dönem, marka teknikleri dönemi, tasarım dönemi ve stratejik dönem olarak sınıflandırılabilir."
     },
     {
         "SoruID": 3862258,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "KURUMSAL KİMLİKTE TARİHSEL SÜREÇLER<br>Geleneksel dönem, Birinci Dünya Savaşı’nın sonuna kadar süren bir zaman dilimini ifade eder."
+        "Aciklama": "KURUMSAL KİMLİKTE TARİHSEL SÜREÇLER<br/>Geleneksel dönem, Birinci Dünya Savaşı’nın sonuna kadar süren bir zaman dilimini ifade eder."
     },
     {
         "SoruID": 3862259,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "KURUMSAL KİMLİKTE TARİHSEL SÜREÇLER<br>Geleneksel dönemde kurumsal kimlik tasarımına yönelik ilk çabalar, 1850’li yıllarda İngiliz demiryolu şirketleri tarafından sergilenmiştir."
+        "Aciklama": "KURUMSAL KİMLİKTE TARİHSEL SÜREÇLER<br/>Geleneksel dönemde kurumsal kimlik tasarımına yönelik ilk çabalar, 1850’li yıllarda İngiliz demiryolu şirketleri tarafından sergilenmiştir."
     },
     {
         "SoruID": 3862260,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "KURUMSAL KİMLİKTE TARİHSEL SÜREÇLER<br>Geleneksel dönemde AEG kurumsal kimlik talebiyle tasarımcı görevlendiren ilk kurum olmuştur."
+        "Aciklama": "KURUMSAL KİMLİKTE TARİHSEL SÜREÇLER<br/>Geleneksel dönemde AEG kurumsal kimlik talebiyle tasarımcı görevlendiren ilk kurum olmuştur."
     },
     {
         "SoruID": 3862261,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "KURUMSAL KİMLİKTE TARİHSEL SÜREÇLER<br>Aynı dönemde Coca-Cola da önemli bir marka olarak öne çıkmıştır (Okay, 2018). 1885 yılında Frank Mason Robinson tarafından tasarlanan kaligrafi tarzındaki logo, o günden bu yana değişmeden gelmiştir (Heller ve Vienne, 2016). Kurumsal kimlik tasarımının temellerini oluşturan bu tasarım, günümüzde hâlâ geçerliliğini korumaktadır."
+        "Aciklama": "KURUMSAL KİMLİKTE TARİHSEL SÜREÇLER<br/>Aynı dönemde Coca-Cola da önemli bir marka olarak öne çıkmıştır (Okay, 2018). 1885 yılında Frank Mason Robinson tarafından tasarlanan kaligrafi tarzındaki logo, o günden bu yana değişmeden gelmiştir (Heller ve Vienne, 2016). Kurumsal kimlik tasarımının temellerini oluşturan bu tasarım, günümüzde hâlâ geçerliliğini korumaktadır."
     },
     {
         "SoruID": 3862262,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "KURUMSAL KİMLİKTE TARİHSEL SÜREÇLER<br>Amerika Birleşik Devletleri’nde bu alanda öncü bir ajans olan Lipincott ve Margulies’tir. Lipincott ve Margulies (L&amp;M) ajansı “kurum kimliği” ifadesini ilk kez kullanan ajans olarak bilinir."
+        "Aciklama": "KURUMSAL KİMLİKTE TARİHSEL SÜREÇLER<br/>Amerika Birleşik Devletleri’nde bu alanda öncü bir ajans olan Lipincott ve Margulies’tir. Lipincott ve Margulies (L&amp;M) ajansı “kurum kimliği” ifadesini ilk kez kullanan ajans olarak bilinir."
     },
     {
         "SoruID": 3862263,
@@ -397,6 +397,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "KURUMSAL KİMLİK YAPILARI<br>Olins’e göre monolitik kimlikle faaliyet gösteren işletmeler, şu özelliklere sahiptir: • Organizasyon tarafından tanıtılan her ürün ve hizmetin aynı isme, tarza, niteliklere ve karaktere sahip olmasından dolayı tek kimliğin esas gücü ortaya çıkar. • Bu tür işletmeleri kontrol etmek, ana kuruluş tarafından kolay, ekonomik ve ucuz bir şekilde gerçekleştirilir. • Kimlik bakımından dar bir alanda çalışırlar. • Uzun ömürlü işletmelerdir. Tek kimliğe sahip işletmelerin tanınırlık oranı daha yüksektir; bu da pazar açısından büyük bir avantaj sağlar."
+        "Aciklama": "KURUMSAL KİMLİK YAPILARI<br/>Olins’e göre monolitik kimlikle faaliyet gösteren işletmeler, şu özelliklere sahiptir: • Organizasyon tarafından tanıtılan her ürün ve hizmetin aynı isme, tarza, niteliklere ve karaktere sahip olmasından dolayı tek kimliğin esas gücü ortaya çıkar. • Bu tür işletmeleri kontrol etmek, ana kuruluş tarafından kolay, ekonomik ve ucuz bir şekilde gerçekleştirilir. • Kimlik bakımından dar bir alanda çalışırlar. • Uzun ömürlü işletmelerdir. Tek kimliğe sahip işletmelerin tanınırlık oranı daha yüksektir; bu da pazar açısından büyük bir avantaj sağlar."
     }
 ]

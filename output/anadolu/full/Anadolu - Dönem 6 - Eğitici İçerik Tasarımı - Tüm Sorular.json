@@ -617,7 +617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "EĞİTİM PROGRAMININ ÖGELERİ<br>kapsam"
+        "Aciklama": "EĞİTİM PROGRAMININ ÖGELERİ<br/>kapsam"
     },
     {
         "SoruID": 3763944,
@@ -637,7 +637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "EĞİTİM PROGRAMININ ÖGELERİ:<br>II, IV ve V"
+        "Aciklama": "EĞİTİM PROGRAMININ ÖGELERİ:<br/>II, IV ve V"
     },
     {
         "SoruID": 3763945,
@@ -657,7 +657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "EĞİTİM PROGRAMININ ÖGELERİ<br>I ve V"
+        "Aciklama": "EĞİTİM PROGRAMININ ÖGELERİ<br/>I ve V"
     },
     {
         "SoruID": 3763946,
@@ -677,7 +677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İçeriğin Yapısı<br>Beceri, tutum, değer"
+        "Aciklama": "İçeriğin Yapısı<br/>Beceri, tutum, değer"
     },
     {
         "SoruID": 3763947,
@@ -697,7 +697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İçeriğin Yapısı<br>Olgu"
+        "Aciklama": "İçeriğin Yapısı<br/>Olgu"
     },
     {
         "SoruID": 3763948,
@@ -717,7 +717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İçeriğin Yapısı<br>Görsel, yazılı ve sözlü bilgi edinebilmek için çalışma, okuma, yazma, dinleme, konuşma becerileri geliştirme"
+        "Aciklama": "İçeriğin Yapısı<br/>Görsel, yazılı ve sözlü bilgi edinebilmek için çalışma, okuma, yazma, dinleme, konuşma becerileri geliştirme"
     },
     {
         "SoruID": 3763949,
@@ -737,7 +737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İÇERİK SEÇİMİ<br>İçerikte sunulan bilgi bilimsel açıdan doğru mu?"
+        "Aciklama": "İÇERİK SEÇİMİ<br/>İçerikte sunulan bilgi bilimsel açıdan doğru mu?"
     },
     {
         "SoruID": 3763950,
@@ -757,7 +757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İÇERİK SEÇİMİ<br>Sistematik mi?"
+        "Aciklama": "İÇERİK SEÇİMİ<br/>Sistematik mi?"
     },
     {
         "SoruID": 3763951,
@@ -777,7 +777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İÇERİĞİN DÜZENLENMESİ<br>Vardama"
+        "Aciklama": "İÇERİĞİN DÜZENLENMESİ<br/>Vardama"
     },
     {
         "SoruID": 3763952,
@@ -797,7 +797,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İçerik Düzenlemede Öğrenme Stratejilerinden Yararlanma<br>Anlamlandırma"
+        "Aciklama": "İçerik Düzenlemede Öğrenme Stratejilerinden Yararlanma<br/>Anlamlandırma"
     },
     {
         "SoruID": 3763810,
@@ -1017,7 +1017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Detaylı bilgi için sayfa 68i inceleyiniz<br>Klasik koşullanma, bir organizmanın çevresel uyaranlar arasındaki ilişkileri öğrenerek belirli bir tepkiyi kazanması sürecini tanımlayan bir öğrenme türüdür. Bu tür öğrenme, Ivan Pavlov’un ünlü deneyleriyle öne çıkmıştır."
+        "Aciklama": "Detaylı bilgi için sayfa 68i inceleyiniz<br/>Klasik koşullanma, bir organizmanın çevresel uyaranlar arasındaki ilişkileri öğrenerek belirli bir tepkiyi kazanması sürecini tanımlayan bir öğrenme türüdür. Bu tür öğrenme, Ivan Pavlov’un ünlü deneyleriyle öne çıkmıştır."
     },
     {
         "SoruID": 3763980,
@@ -1037,7 +1037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Detaylı bilgi için S. 69<br>Pavlov ilk olarak metronomla ses vererek köpeğin tepkisini ölçmüştür. Köpek bu uyarıcıya sadece kulaklarını dikerek başını çevirmiştir. Sonrasında ise et tozu içeren bir yiyecek verilmiştir. Ses ile eti birkaç kez art arda verdikten sonra artık sesi tek başına verdiğinde de köpeğin salya tepkisi gözlemlenmiştir. <br/>Bu deneyde salyayı ortaya çıkarmadaki etkinlik herhangi bir ön eğitime bağlı olmadığından, yiyecek<br/>ya da ekşi tat koşulsuz uyarıcı olarak adlandırılmıştır. Bu bağlamda koşulsuz uyarıcı, organizma için tepkinin otomatik meydana geldiği doğal bir uyarandır. Yiyeceğin ortaya çıkardığı salyaya ise koşulsuz tepki adı verilmiştir. Koşulsuz tepki, koşulsuz uyaranın organizmada meydana getirdiği otomatik ve doğal tepkidir. Ses tonu ya da ışık henüz yiyecek ile ilişkilendirilmeden önce, köpek için nötr bir uyarıcıdır. Ses tonu ya da ışığın salya salgılamasını sağlamadaki etkinliği yiyecek sunumuyla birkaç kez eşleştirilmesinden sonra bu uyaran koşullu uyarıcı olarak adlandırmıştır.<br/>Sonunda köpeğe tek başına ses verildiğinde meydana gelen salya salgılama tepkisi ise koşullu tepkidir. Böylece, özellikleri önceki eğitime bağlı olmayan uyaran ve tepkiler koşulsuz, özellikleri ancak eğitimden sonra ortaya çıkan uyaran ve tepkiler ise koşullu olarak adlandırılmıştır (Slavin, 1986; Gibson ve Chandler, 1988)."
+        "Aciklama": "Detaylı bilgi için S. 69<br/>Pavlov ilk olarak metronomla ses vererek köpeğin tepkisini ölçmüştür. Köpek bu uyarıcıya sadece kulaklarını dikerek başını çevirmiştir. Sonrasında ise et tozu içeren bir yiyecek verilmiştir. Ses ile eti birkaç kez art arda verdikten sonra artık sesi tek başına verdiğinde de köpeğin salya tepkisi gözlemlenmiştir. <br/>Bu deneyde salyayı ortaya çıkarmadaki etkinlik herhangi bir ön eğitime bağlı olmadığından, yiyecek<br/>ya da ekşi tat koşulsuz uyarıcı olarak adlandırılmıştır. Bu bağlamda koşulsuz uyarıcı, organizma için tepkinin otomatik meydana geldiği doğal bir uyarandır. Yiyeceğin ortaya çıkardığı salyaya ise koşulsuz tepki adı verilmiştir. Koşulsuz tepki, koşulsuz uyaranın organizmada meydana getirdiği otomatik ve doğal tepkidir. Ses tonu ya da ışık henüz yiyecek ile ilişkilendirilmeden önce, köpek için nötr bir uyarıcıdır. Ses tonu ya da ışığın salya salgılamasını sağlamadaki etkinliği yiyecek sunumuyla birkaç kez eşleştirilmesinden sonra bu uyaran koşullu uyarıcı olarak adlandırmıştır.<br/>Sonunda köpeğe tek başına ses verildiğinde meydana gelen salya salgılama tepkisi ise koşullu tepkidir. Böylece, özellikleri önceki eğitime bağlı olmayan uyaran ve tepkiler koşulsuz, özellikleri ancak eğitimden sonra ortaya çıkan uyaran ve tepkiler ise koşullu olarak adlandırılmıştır (Slavin, 1986; Gibson ve Chandler, 1988)."
     },
     {
         "SoruID": 3763981,
@@ -1057,7 +1057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Diğer ilkeler için S.70e bakınız.<br>Klasik koşullanmaya göre tasarlanan bir öğrenme sürecinde koşullanmanın meydana gelmesi ya<br/>da önlenmesi için göz önünde bulundurulması gereken çeşitli ilkeler söz konusudur. Bunlar; Bitişiklik, Habercilik-Bilgilendiricilik, Pekiştirme, Sönme, KEndiliğinden Geri Gelme, Genelleme ve Ayırt Etme dir. <br/>Sönme: Koşullu uyarıcının tek başına artık koşullu tepkiye neden olmadığı bir öğrenme sürecini tanımlar. Örneğin, koşulsuz uyarıcı (et) olmadan koşullu uyarıcı (ses) tek başına sunulduğunda, bir süre sonra koşullu tepkinin (salya akışı) azaldığı ve sonunda ortadan kaybolduğu gözlemlenir. Pavlov’un köpek deneylerinde, sesin uzun bir süre boyunca et sunulmadan verildiğinde, köpeklerin artık sese salya salgılamadıkları gözlemlenmiştir. Bu durum, sönme olarak adlandırılır ve koşullanmış tepkinin zayıfladığını veya kaybolduğunu gösterir."
+        "Aciklama": "Diğer ilkeler için S.70e bakınız.<br/>Klasik koşullanmaya göre tasarlanan bir öğrenme sürecinde koşullanmanın meydana gelmesi ya<br/>da önlenmesi için göz önünde bulundurulması gereken çeşitli ilkeler söz konusudur. Bunlar; Bitişiklik, Habercilik-Bilgilendiricilik, Pekiştirme, Sönme, KEndiliğinden Geri Gelme, Genelleme ve Ayırt Etme dir. <br/>Sönme: Koşullu uyarıcının tek başına artık koşullu tepkiye neden olmadığı bir öğrenme sürecini tanımlar. Örneğin, koşulsuz uyarıcı (et) olmadan koşullu uyarıcı (ses) tek başına sunulduğunda, bir süre sonra koşullu tepkinin (salya akışı) azaldığı ve sonunda ortadan kaybolduğu gözlemlenir. Pavlov’un köpek deneylerinde, sesin uzun bir süre boyunca et sunulmadan verildiğinde, köpeklerin artık sese salya salgılamadıkları gözlemlenmiştir. Bu durum, sönme olarak adlandırılır ve koşullanmış tepkinin zayıfladığını veya kaybolduğunu gösterir."
     },
     {
         "SoruID": 3763984,
@@ -1077,7 +1077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Detaylı bilgi için S.72<br>Watson, çocukların yeteneklerini değil, çevrelerini ve eğitimlerini kontrol ederek onları farklı alanlarda uzmanlaşmış bireyler olarak yetiştirebileceğini iddia eder. Watson, davranışların çevresel koşullandırma yoluyla öğrenildiğini vurgulamıştır. İnsanlar, çevrelerinden gelen uyarıcılara tepki olarak davranışlarını şekillendirirler. Bu doğrultuda bireylerin davranışlarının büyük ölçüde çevresel faktörlerden etkilendiğini ve doğru şekilde düzenlenen ortamların istenen davranışların gelişmesini destekleyebileceğini öne sürmüştür (Schultz ve Schultz, 2001)<br/>John B. Watson, çocuk gelişimini değerlendirirken dış çevreyi temel alır. O’na göre, çocuklar doğuştan gelen içgüdülerle donatılmamışlardır. Aksine, çevreleriyle etkileşimde bulunarak davranışlarını yapılandırırlar. Bu nedenle, bir çocuğun geleceği, büyüdüğü çevreye bağlıdır. Watson’un korkuları azaltmak için kullandığı deney, öğrencilere davranış öğretme veya istenmeyen davranışları engelleme, öğretmen-öğrenme sürecinde etkili bir şekilde kullanılabilir"
+        "Aciklama": "Detaylı bilgi için S.72<br/>Watson, çocukların yeteneklerini değil, çevrelerini ve eğitimlerini kontrol ederek onları farklı alanlarda uzmanlaşmış bireyler olarak yetiştirebileceğini iddia eder. Watson, davranışların çevresel koşullandırma yoluyla öğrenildiğini vurgulamıştır. İnsanlar, çevrelerinden gelen uyarıcılara tepki olarak davranışlarını şekillendirirler. Bu doğrultuda bireylerin davranışlarının büyük ölçüde çevresel faktörlerden etkilendiğini ve doğru şekilde düzenlenen ortamların istenen davranışların gelişmesini destekleyebileceğini öne sürmüştür (Schultz ve Schultz, 2001)<br/>John B. Watson, çocuk gelişimini değerlendirirken dış çevreyi temel alır. O’na göre, çocuklar doğuştan gelen içgüdülerle donatılmamışlardır. Aksine, çevreleriyle etkileşimde bulunarak davranışlarını yapılandırırlar. Bu nedenle, bir çocuğun geleceği, büyüdüğü çevreye bağlıdır. Watson’un korkuları azaltmak için kullandığı deney, öğrencilere davranış öğretme veya istenmeyen davranışları engelleme, öğretmen-öğrenme sürecinde etkili bir şekilde kullanılabilir"
     },
     {
         "SoruID": 3763985,
@@ -1097,7 +1097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Diğer pekiştirme uygulamalarının detayları için S.76 yı inceleyiniz.<br>Sürekli Pekiştirme: Davranış her zaman pekiştirilir. Yeni bir davranış öğretilirken kullanışlıdır, ancak davranış öğrenildikten sonra daha az sıklıkla kullanılmalıdır"
+        "Aciklama": "Diğer pekiştirme uygulamalarının detayları için S.76 yı inceleyiniz.<br/>Sürekli Pekiştirme: Davranış her zaman pekiştirilir. Yeni bir davranış öğretilirken kullanışlıdır, ancak davranış öğrenildikten sonra daha az sıklıkla kullanılmalıdır"
     },
     {
         "SoruID": 3763986,
@@ -1117,7 +1117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "S.79 da ilkelerle ilgili açıklamalara yer verilmiştir.<br>Öğrenme, davranışlarda gözle görülür bir değişiklik olmadan da gerçekleşebilir. Yani, bireyler<br/>gözlemledikleri davranışları hemen uygulamak zorunda değildirler"
+        "Aciklama": "S.79 da ilkelerle ilgili açıklamalara yer verilmiştir.<br/>Öğrenme, davranışlarda gözle görülür bir değişiklik olmadan da gerçekleşebilir. Yani, bireyler<br/>gözlemledikleri davranışları hemen uygulamak zorunda değildirler"
     },
     {
         "SoruID": 3763987,
@@ -1137,7 +1137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Diğer kuram ilkeleri için tüm ünitedeki içerik sunumunda dikkat edilecek ilkeler incelenmelidir.<br>A, B ve C seçenekleri davranışsal kuram, D seçeneği ise Gestalt kuramı ile özellikle ilişkili ilkelerdir."
+        "Aciklama": "Diğer kuram ilkeleri için tüm ünitedeki içerik sunumunda dikkat edilecek ilkeler incelenmelidir.<br/>A, B ve C seçenekleri davranışsal kuram, D seçeneği ise Gestalt kuramı ile özellikle ilişkili ilkelerdir."
     },
     {
         "SoruID": 3763988,
@@ -1157,7 +1157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Detaylı bilgi için S. 83<br>Gestalt kuramı, bilişsel psikolojinin bir dalı olarak ortaya çıkmış olan ve insan algısını, öğrenmeyi ve problem çözme süreçlerini anlamak için kullanılan bir psikoloji kuramıdır. “Gestalt” kelimesi Almancada “şekil”, “biçim” veya “görüntü” anlamına gelir. Gestalt Kuramı, öğrenmeyi ve algıyı anlamak için bireyin<br/>deneyimlerini bütünsel, yapısal ve anlam odaklı bir perspektifle incelemektedir"
+        "Aciklama": "Detaylı bilgi için S. 83<br/>Gestalt kuramı, bilişsel psikolojinin bir dalı olarak ortaya çıkmış olan ve insan algısını, öğrenmeyi ve problem çözme süreçlerini anlamak için kullanılan bir psikoloji kuramıdır. “Gestalt” kelimesi Almancada “şekil”, “biçim” veya “görüntü” anlamına gelir. Gestalt Kuramı, öğrenmeyi ve algıyı anlamak için bireyin<br/>deneyimlerini bütünsel, yapısal ve anlam odaklı bir perspektifle incelemektedir"
     },
     {
         "SoruID": 3764001,
@@ -1177,7 +1177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "S.89 daki dört temel soruyu inceleyiniz.<br>Bilgiyi işleme kuramı, öğrenme ve bilişsel süreçleri anlamaya odaklanan bir öğrenme kuramıdır. Amerikalı psikolog Jerome Bruner (1915-2016) tarafından geliştirilen bu kuram, bilişsel psikoloji ve bilişsel bilim alanlarından etkilenmiştir ve insanların bilgiyi nasıl işlediğini, anladığını, hatırladığını ve çözdüğünü açıklamaya çalışır. Bilgiyi İşleme Kuramı öğrenmeyi, özellikle insan zihni tarafından gerçekleştirilen işlemleri vurgulayarak açıklar. Bu kuramın temel özellikleri, öğrenme ve hafızaya ilişkin süreksiz ve çok aşamalı bakış açılarıdır."
+        "Aciklama": "S.89 daki dört temel soruyu inceleyiniz.<br/>Bilgiyi işleme kuramı, öğrenme ve bilişsel süreçleri anlamaya odaklanan bir öğrenme kuramıdır. Amerikalı psikolog Jerome Bruner (1915-2016) tarafından geliştirilen bu kuram, bilişsel psikoloji ve bilişsel bilim alanlarından etkilenmiştir ve insanların bilgiyi nasıl işlediğini, anladığını, hatırladığını ve çözdüğünü açıklamaya çalışır. Bilgiyi İşleme Kuramı öğrenmeyi, özellikle insan zihni tarafından gerçekleştirilen işlemleri vurgulayarak açıklar. Bu kuramın temel özellikleri, öğrenme ve hafızaya ilişkin süreksiz ve çok aşamalı bakış açılarıdır."
     },
     {
         "SoruID": 3764002,
@@ -1197,7 +1197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "S.92 yi inceleyiniz.<br>Nörofizyolojik öğrenme kuramı, öğrenme süreçlerini nörolojik ve fizyolojik düzeyde inceleyen bir öğrenme kuramıdır. Bu kuram, öğrenmenin beyin ve sinir sistemi üzerindeki etkilerini araştırarak, öğrenme süreçlerini biyolojik ve nöral faktörlerin ışığında açıklamaya çalışır. Yapılan araştırmalarda elde edilen<br/>bulgular doğrultusunda insan beyninin çalışma prensibini keşfetmeden öğrenmenin tam olarak anlaşılamayacağı görüşü benimsenmiştir (Özden, 2003). Bu doğrultuda öğrenmenin ne olduğunu anlamak için<br/>öğrenme sırasından insan beyninde ne tür fizyolojik ve kimyasal değişimlerin yaşandığını keşfetme çabası önem kazanmıştır."
+        "Aciklama": "S.92 yi inceleyiniz.<br/>Nörofizyolojik öğrenme kuramı, öğrenme süreçlerini nörolojik ve fizyolojik düzeyde inceleyen bir öğrenme kuramıdır. Bu kuram, öğrenmenin beyin ve sinir sistemi üzerindeki etkilerini araştırarak, öğrenme süreçlerini biyolojik ve nöral faktörlerin ışığında açıklamaya çalışır. Yapılan araştırmalarda elde edilen<br/>bulgular doğrultusunda insan beyninin çalışma prensibini keşfetmeden öğrenmenin tam olarak anlaşılamayacağı görüşü benimsenmiştir (Özden, 2003). Bu doğrultuda öğrenmenin ne olduğunu anlamak için<br/>öğrenme sırasından insan beyninde ne tür fizyolojik ve kimyasal değişimlerin yaşandığını keşfetme çabası önem kazanmıştır."
     },
     {
         "SoruID": 3763909,
@@ -2137,7 +2137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sanat ve tasarım alanında yaratıcı düşünmeden bahsetmek, düşünme süreci, problemin çözümüne yönelik geliştirilen çözüm önerileri vb. şeylerin yanı sıra düşünme ile hareket etme arasındaki bağdan, uygulama sürecinden ve ortaya çıkan eylem ya da ürünün değerlendirilmesinden söz etmeyi de kapsar.<br>Yaratıcı düşünmenin cisimleşme süreci yaratıcı edim olarak açıklanabilir."
+        "Aciklama": "Sanat ve tasarım alanında yaratıcı düşünmeden bahsetmek, düşünme süreci, problemin çözümüne yönelik geliştirilen çözüm önerileri vb. şeylerin yanı sıra düşünme ile hareket etme arasındaki bağdan, uygulama sürecinden ve ortaya çıkan eylem ya da ürünün değerlendirilmesinden söz etmeyi de kapsar.<br/>Yaratıcı düşünmenin cisimleşme süreci yaratıcı edim olarak açıklanabilir."
     },
     {
         "SoruID": 3763651,
@@ -2217,7 +2217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaratıcı bireylerin ortak özellikleri: Beklenmeyene, yeni olana açık olma, belirsizliğe tolerans gösterme, deneyime ve risk almaya gönüllü olma, meraklı olma, karmaşık işlere ilgi duyma, esnek olma, bağımsızlığa düşkün ve içe dönük olma, sorgulayıcı olma, gelişmiş bir mizah anlayışına sahip olma, güçlü bir duygusal farkındalığı olma.<br>I-II-IV"
+        "Aciklama": "Yaratıcı bireylerin ortak özellikleri: Beklenmeyene, yeni olana açık olma, belirsizliğe tolerans gösterme, deneyime ve risk almaya gönüllü olma, meraklı olma, karmaşık işlere ilgi duyma, esnek olma, bağımsızlığa düşkün ve içe dönük olma, sorgulayıcı olma, gelişmiş bir mizah anlayışına sahip olma, güçlü bir duygusal farkındalığı olma.<br/>I-II-IV"
     },
     {
         "SoruID": 3763934,
@@ -2237,7 +2237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaratıcılık, tutum, süreç, ürün, beceri, kişilik özelliklerinin birleşimi ve bununla birlikte çevresel koşulların bir sonucu olarak açıklanabilir<br>Cinsiyet"
+        "Aciklama": "Yaratıcılık, tutum, süreç, ürün, beceri, kişilik özelliklerinin birleşimi ve bununla birlikte çevresel koşulların bir sonucu olarak açıklanabilir<br/>Cinsiyet"
     },
     {
         "SoruID": 3763935,
@@ -2337,7 +2337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sinektik yöntemde adımlar: Sorun Tanımlama, Sorunu Parçalara Ayırma, Elde Edilen Düşünceleri<br/>Değerlendirme, Soruna İlişkin Bilgi Edinme, Eğer, Gibi Sözcüklerini Kullanarak Düşünme/Cümle Kurma, Alternati\u001beri Seçip<br/>Görselleştirme<br>Farklı Bakış Açılarını İnceleme"
+        "Aciklama": "Sinektik yöntemde adımlar: Sorun Tanımlama, Sorunu Parçalara Ayırma, Elde Edilen Düşünceleri<br/>Değerlendirme, Soruna İlişkin Bilgi Edinme, Eğer, Gibi Sözcüklerini Kullanarak Düşünme/Cümle Kurma, Alternati\u001beri Seçip<br/>Görselleştirme<br/>Farklı Bakış Açılarını İnceleme"
     },
     {
         "SoruID": 3763940,
@@ -2357,7 +2357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğrudan anoloji, karşılaştırma yapmaya ve benzeşime dayanır. Benzerlikleri kurmak için hayvanlar, bitkiler vb. gibi çoğunlukla doğal anolojilere başvurulur. Elma kurdunun açtığı oyuk ile yer altı tünellerinin benzerliği gibi, hayvanların kendilerini koruma yöntemleri ya da fiziksel özellikleri pek çok yaratıcı tasarıma kaynaklık etmiştir<br>Doğrudan Analoji Tekniği"
+        "Aciklama": "Doğrudan anoloji, karşılaştırma yapmaya ve benzeşime dayanır. Benzerlikleri kurmak için hayvanlar, bitkiler vb. gibi çoğunlukla doğal anolojilere başvurulur. Elma kurdunun açtığı oyuk ile yer altı tünellerinin benzerliği gibi, hayvanların kendilerini koruma yöntemleri ya da fiziksel özellikleri pek çok yaratıcı tasarıma kaynaklık etmiştir<br/>Doğrudan Analoji Tekniği"
     },
     {
         "SoruID": 3763941,
@@ -2397,7 +2397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yaratıcı düşünme süreci çeşitli düşünme yetilerinin bir bütünü olarak değerlendirilebilir: Eleştirel Düşünme, Analitik Düşünme, Janusyan Düşünme, Sentetik Düşünme, Çağrışımsal Düşünme, Iraksak-yakınsak, İmgesel Düşünme.<br>I, II, III, IV"
+        "Aciklama": "Yaratıcı düşünme süreci çeşitli düşünme yetilerinin bir bütünü olarak değerlendirilebilir: Eleştirel Düşünme, Analitik Düşünme, Janusyan Düşünme, Sentetik Düşünme, Çağrışımsal Düşünme, Iraksak-yakınsak, İmgesel Düşünme.<br/>I, II, III, IV"
     },
     {
         "SoruID": 3763658,
@@ -2417,7 +2417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İçeriğin düzenlenmesine yönelik bazı ilkeler ve yaklaşımlar bulunmaktadır. Bir etkinliğe ilişkin içeriğin belirlenmesi ve tasarlanmasına yönelik ilkeler aşağıdaki gibi özetlenebilir;<br/>Geçerlik ve güvenirlik<br/>Bireylerin ilgi ve ihtiyaçlarına yönelik olma<br/>Aktarılabilirlik ve uygunluk<br/>Toplumsal fayda<br/>İçeriğin mantıksal yapısı<br/>Bilimsellik<br/>İçeriğin psikolojik temeli<br/><strong>Ekonomiklik: </strong>İçeriğin belirlenmesinde ve<br/>sürece alınmasında verimli olması amaçlanmalıdır.</br>"
+        "Aciklama": "İçeriğin düzenlenmesine yönelik bazı ilkeler ve yaklaşımlar bulunmaktadır. Bir etkinliğe ilişkin içeriğin belirlenmesi ve tasarlanmasına yönelik ilkeler aşağıdaki gibi özetlenebilir;<br/>Geçerlik ve güvenirlik<br/>Bireylerin ilgi ve ihtiyaçlarına yönelik olma<br/>Aktarılabilirlik ve uygunluk<br/>Toplumsal fayda<br/>İçeriğin mantıksal yapısı<br/>Bilimsellik<br/>İçeriğin psikolojik temeli<br/><strong>Ekonomiklik: </strong>İçeriğin belirlenmesinde ve<br/>sürece alınmasında verimli olması amaçlanmalıdır."
     },
     {
         "SoruID": 3763660,

@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Metal kalıp ile ilgili önemli bir buluş yine bu yüzyılın sonlarına doğru Hollanda’da bulunmuştur. Master of the Housebook veya Master of the Amsterdam Cabinet adıyla bilinen Hollandalı sanatçı, <strong>Kurukazıma</strong> olarak bilinen tekniği icat etmiş ve bu teknikle eser vermiştir. Bu baskıresimler Hollanda’nın Rijksmuseum müzesinde kondisyonları oldukça iyi konumda bugüne kadar gelebilmiş olan nadir baskıresimlerdir.( Görsel 3.10.)<br/>Baskıresmin teknik gelişmesine oldukça önemli bir katkı yapan bu buluş daha sonraları<strong> Albrecht Dürer ve Rembrandt tarafından kullanılmış,</strong> özellikle 19. yüzyılda metal kalıp teknolojisinin gelişmesiyle<br/>beraber yaygınlaşmıştır.<br/>Kurukazıma en çok diğer baskı teknikleriyle birlikte kullanılır. Örneğin, neredeyse tamamlanmış bir baskıresime koyu vurgular vermek için kullanılabilir veya başlangıçta tasarımı<br/>metal levha üzerine çizmek için kullanılabilir.</br>"
+        "Aciklama": "Metal kalıp ile ilgili önemli bir buluş yine bu yüzyılın sonlarına doğru Hollanda’da bulunmuştur. Master of the Housebook veya Master of the Amsterdam Cabinet adıyla bilinen Hollandalı sanatçı, <strong>Kurukazıma</strong> olarak bilinen tekniği icat etmiş ve bu teknikle eser vermiştir. Bu baskıresimler Hollanda’nın Rijksmuseum müzesinde kondisyonları oldukça iyi konumda bugüne kadar gelebilmiş olan nadir baskıresimlerdir.( Görsel 3.10.)<br/>Baskıresmin teknik gelişmesine oldukça önemli bir katkı yapan bu buluş daha sonraları<strong> Albrecht Dürer ve Rembrandt tarafından kullanılmış,</strong> özellikle 19. yüzyılda metal kalıp teknolojisinin gelişmesiyle<br/>beraber yaygınlaşmıştır.<br/>Kurukazıma en çok diğer baskı teknikleriyle birlikte kullanılır. Örneğin, neredeyse tamamlanmış bir baskıresime koyu vurgular vermek için kullanılabilir veya başlangıçta tasarımı<br/>metal levha üzerine çizmek için kullanılabilir."
     },
     {
         "SoruID": 3764387,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lazer işleme teknolojisi; baskı yapılacak yüzeye bilgisayar ortamında tasarlanan tasarımın, bilgisayara bağlı lazer gravür makinesi ile işlenmesi işlemidir. İşlem yöntemi temel olarak elektromekanik yöntemle büyük benzerlikler taşımaktadır.<br/>Aradaki temel farklar;<br/>• Silindir hazırlama işleminde bakır kaplama yerine çinko kaplama yapılması,<br/>• Gravür makinesine gönderilecek tasarımın arayüz programının farklılığı,<br/>• Oyma işleminin lazer ışınlarıyla yapılmasından oluşmaktadır.<br/>• Gelişen teknolojilerin bu yönteme hızlı adapte edilmesi, endüstriyel anlamda bu<br/>tekniğin ileriye dönük kullanım alanını genişletmekte ve tekniğe verilen önemi artırmaktadır.</br>"
+        "Aciklama": "Lazer işleme teknolojisi; baskı yapılacak yüzeye bilgisayar ortamında tasarlanan tasarımın, bilgisayara bağlı lazer gravür makinesi ile işlenmesi işlemidir. İşlem yöntemi temel olarak elektromekanik yöntemle büyük benzerlikler taşımaktadır.<br/>Aradaki temel farklar;<br/>• Silindir hazırlama işleminde bakır kaplama yerine çinko kaplama yapılması,<br/>• Gravür makinesine gönderilecek tasarımın arayüz programının farklılığı,<br/>• Oyma işleminin lazer ışınlarıyla yapılmasından oluşmaktadır.<br/>• Gelişen teknolojilerin bu yönteme hızlı adapte edilmesi, endüstriyel anlamda bu<br/>tekniğin ileriye dönük kullanım alanını genişletmekte ve tekniğe verilen önemi artırmaktadır."
     },
     {
         "SoruID": 3764409,
@@ -937,7 +937,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lazer işleme teknolojisi, günümüzde kullanılan tifdruk baskı teknolojisinin geldiği en son aşamadır.<br>Lazer İşleme"
+        "Aciklama": "Lazer işleme teknolojisi, günümüzde kullanılan tifdruk baskı teknolojisinin geldiği en son aşamadır.<br/>Lazer İşleme"
     },
     {
         "SoruID": 3764826,

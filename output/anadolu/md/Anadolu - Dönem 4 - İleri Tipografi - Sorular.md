@@ -118,8 +118,7 @@
     - D-) I, II, IV
     - **Cevap E-) I, II, III, IV**
 
-    > **Açıklama:** "....mimari imge olarak tasarlanan grafikler mekânın bir parçası olmalı, mimari nitelikler ile bütünleşmeli ve mekânın kullanılabilirliğini desteklemelidir.
-    > Fiziksel bir mekânda coğrafi boyutlar bir birey için algılanması zor bir hâldedir. Bunu kolay hâle getirmek tasarımcıların görevidir. Ziyaretçinin dikkatini mekâna çekmek, coğrafi ve mimari ilgi alanı yaratmak suretiyle gerçekleşir. Üç boyutlu tipografik elemanlar alışılmışın ötesine geçebilme becerileriyle bu ilgiyi fazlasıyla yaratırlar" (s.8). Buna göre cevap e seçeneğidir.
+    > **Açıklama:** "....mimari imge olarak tasarlanan grafikler mekânın bir parçası olmalı, mimari nitelikler ile bütünleşmeli ve mekânın kullanılabilirliğini desteklemelidir.<br />Fiziksel bir mekânda coğrafi boyutlar bir birey için algılanması zor bir hâldedir. Bunu kolay hâle getirmek tasarımcıların görevidir. Ziyaretçinin dikkatini mekâna çekmek, coğrafi ve mimari ilgi alanı yaratmak suretiyle gerçekleşir. Üç boyutlu tipografik elemanlar alışılmışın ötesine geçebilme becerileriyle bu ilgiyi fazlasıyla yaratırlar" (s.8). Buna göre cevap e seçeneğidir.
 
     <hr />
 1. Bir şarkı albümünün ön, arka kapağında ve iç görsellerinde adını oluşturan üç boyutlu gerçek harfler kullanılması aşağıdaki tipografi türlerinden hangisi ile ilişkilendirilebilir?
@@ -410,15 +409,7 @@
     - D-) 1\.Bilgilendirme amaçlı 2.mimari imge olarak 3. alfabeyi tanıtım amaçlı 4.sanat-tasarım amaçlı 5. oyun amaçlı-obje çıkışlı 6. geleneksel sanat amaçlı
     - **Cevap E-) 1\.Bilgilendirme amaçlı 2.mimari imge olarak 3. gösteri-reklam amaçlı 4.yer imi amaçlı 5. sanat-tasarım amaçlı 6. oyun amaçlı-obje çıkışlı**
 
-    > **Açıklama:** KULLANIM ALANLARINA GÖRE ÜÇ BOYUTLU TİPOGRAFİ
-    > Kullanım alanlarına göre üç boyutlu tipografiyi;
-    > 1\.Bilgilendirme amaçlı üç boyutlu tipografi,
-    > 2\.Mimari imge olarak üç boyutlu tipografi,
-    > 3\.Gösteri-reklam amaçlı üç boyutlu tipografi,
-    > 4\.Yer imi amaçlı üç boyutlu tipografi,
-    > 5\.Sanat-tasarım amaçlı üç boyutlu tipografi,
-    > 6\.Oyun amaçlı-obje çıkışlı üç boyutlu tipografi
-    > olarak sınıflandırmak mümkündür.
+    > **Açıklama:** KULLANIM ALANLARINA GÖRE ÜÇ BOYUTLU TİPOGRAFİ<br />Kullanım alanlarına göre üç boyutlu tipografiyi;<br />1\.Bilgilendirme amaçlı üç boyutlu tipografi,<br />2\.Mimari imge olarak üç boyutlu tipografi,<br />3\.Gösteri-reklam amaçlı üç boyutlu tipografi,<br />4\.Yer imi amaçlı üç boyutlu tipografi,<br />5\.Sanat-tasarım amaçlı üç boyutlu tipografi,<br />6\.Oyun amaçlı-obje çıkışlı üç boyutlu tipografi<br />olarak sınıflandırmak mümkündür.
 
     <hr />
 1. Swansea’deki National Waterfront Museum'daki “Pobl Machines” adlı üç boyutlu dış mekân enstalasyonu olan harf biçimli oturma gruplarından oluşan tasarımın tasarımcısı kimdir?
@@ -428,8 +419,7 @@
     - D-) Stanley Morison
     - E-) Beatrice Warde
 
-    > **Açıklama:** Bilgilendirme Amaçlı Üç Boyutlu Tipografi
-    > Why Not Associates ajansının, Swansea’deki National Waterfront Museum için sanatçı Gordon Young’la ortaklaşa tasarladığı “Pobl Machines” adlı dış mekân enstalasyonu da üç boyutlu olarak var olmuştur. Harf biçimli oturma grupların- dan oluşan tasarım,....
+    > **Açıklama:** Bilgilendirme Amaçlı Üç Boyutlu Tipografi<br />Why Not Associates ajansının, Swansea’deki National Waterfront Museum için sanatçı Gordon Young’la ortaklaşa tasarladığı “Pobl Machines” adlı dış mekân enstalasyonu da üç boyutlu olarak var olmuştur. Harf biçimli oturma grupların- dan oluşan tasarım,....
 
     <hr />
 1. Çevresel tasarımlarda boyut etkisinin yaratılmasının önemini vurgulayan “Dimensional Typography” kitabının yazarı kimdir?
@@ -439,8 +429,7 @@
     - D-) Herbert Bayer
     - E-) Josep Maria Subirachs
 
-    > **Açıklama:** Mimari İmge Olarak Üç Boyutlu Tipografi
-    > “Dimensional Typography” kitabının yazarı Abbott Miller’dır.
+    > **Açıklama:** Mimari İmge Olarak Üç Boyutlu Tipografi<br />“Dimensional Typography” kitabının yazarı Abbott Miller’dır.
 
     <hr />
 1. Yazı karakterleri ve tasarımcıları hakkında eğlenceli bir tarihi yolculuğu anlatan “Tam Benim Tipim” adlı tipografi kitabının yazarı kimdir?
@@ -450,8 +439,7 @@
     - D-) David Prakel
     - E-) Namık Kemal Sarıkavak
 
-    > **Açıklama:** Gösteri Reklam Amaçlı Üç Boyutlu Tipografi
-    > “Tam Benim Tipim” kitabının yazarı Simon Garfield (2012) şöyle demiştir: “Lily Allen, “it’s not me, it’s you” adlı albümün kapağında ana imaj olarak bir harf kullandı:...
+    > **Açıklama:** Gösteri Reklam Amaçlı Üç Boyutlu Tipografi<br />“Tam Benim Tipim” kitabının yazarı Simon Garfield (2012) şöyle demiştir: “Lily Allen, “it’s not me, it’s you” adlı albümün kapağında ana imaj olarak bir harf kullandı:...
 
     <hr />
 1. Laszlo Moholy-Nagy'nin 1925 yılında kaleme aldığı, tipografik malzemelerin kendilerinin, yalnızca dolaylı bir entelektüellik ile kalmayıp, güçlü bir optik somutluğa sahip olduğunu anlatan makalesinin adı nedir?
@@ -461,8 +449,7 @@
     - D-) Tipotype
     - E-) 3DTipo
 
-    > **Açıklama:** Çeşitli Nesneler Kullanılarak Oluşturulan Üç Boyutlu Tipografi
-    > Laszlo Moholy-Nagy, 1925 yılında kaleme aldığı “Tipofoto” adlı makalesinde, tipografik malzemelerin kendilerinin, yalnızca dolaylı bir entelektüellik ile kalmaksızın ayrıca doğrudan görünürlüklü, güçlü bir optik somutluğa sahip olduğundan söz etmiştir (Armstrong, 2012).
+    > **Açıklama:** Çeşitli Nesneler Kullanılarak Oluşturulan Üç Boyutlu Tipografi<br />Laszlo Moholy-Nagy, 1925 yılında kaleme aldığı “Tipofoto” adlı makalesinde, tipografik malzemelerin kendilerinin, yalnızca dolaylı bir entelektüellik ile kalmaksızın ayrıca doğrudan görünürlüklü, güçlü bir optik somutluğa sahip olduğundan söz etmiştir (Armstrong, 2012).
 
     <hr />
 1. Anamorfik tasarım nedir?
@@ -472,8 +459,7 @@
     - **Cevap D-) Üç boyutlu mekânda belli bir açıdan bakıldığında yazının iki boyutlu ve düz olarak algılanması**
     - E-) Kullanılan malzemenin anlam kattığı tipografiler
 
-    > **Açıklama:** Bakış Açısına Göre Değişen (Anamorfik) Üç Boyutlu Tipografi
-    > Karbondioksit salınımının ekoloji için yaptığı problemlere dikkat çekmek için Japon Kokokumaru firması tarafından düzenlenen yazılarda üç boyutlu mekânda belli bir açıdan bakıldığında yazı iki boyutlu ve düz olarak algılanmaktadır
+    > **Açıklama:** Bakış Açısına Göre Değişen (Anamorfik) Üç Boyutlu Tipografi<br />Karbondioksit salınımının ekoloji için yaptığı problemlere dikkat çekmek için Japon Kokokumaru firması tarafından düzenlenen yazılarda üç boyutlu mekânda belli bir açıdan bakıldığında yazı iki boyutlu ve düz olarak algılanmaktadır
 
     <hr />
 1. Tasarımcıları, Ruedi Baur-Denis Coueignoux-Vera Kockot ve Karim Sabano olan Nazi karşıtları için yapılan tipografik anıt nerededir?
@@ -483,8 +469,7 @@
     - **Cevap D-) Almanya Köln**
     - E-) Polonya Krakov
 
-    > **Açıklama:** Tipografik Heykel Olarak Oluşturulan Üç Boyutlu Tipografi
-    > Almanya, Köln’de bulunan tipografik anıtın tasarımcıları Ruedi Baur, Denis Coueignoux, Vera Kockot ve Karim Sabano’dur. 1 Eylül 2009 tarihinde yerleştirilen tipografik anıt, Nazi kuvvetlerine karşı askerî isyankarlara, işine bağlı muhaliflere, sivil savaş karşıtlarına adanmıştır.
+    > **Açıklama:** Tipografik Heykel Olarak Oluşturulan Üç Boyutlu Tipografi<br />Almanya, Köln’de bulunan tipografik anıtın tasarımcıları Ruedi Baur, Denis Coueignoux, Vera Kockot ve Karim Sabano’dur. 1 Eylül 2009 tarihinde yerleştirilen tipografik anıt, Nazi kuvvetlerine karşı askerî isyankarlara, işine bağlı muhaliflere, sivil savaş karşıtlarına adanmıştır.
 
     <hr />
 1. “Letterform for the Ephemeral” 2009-2010 yılları arasında, giyilebilir tipografiden yola çıkılarak deneyimlenen bir projedir. Bolero tarzı kollardan geçirilen birbirine bağlı kumaş parçasının, kollar ve omuz yardımıyla harf formlarının oluşturulduğu ve birkaç evreden meydana gelen bu düzenleme kime aittir?
@@ -494,8 +479,7 @@
     - D-) Axel Peemoeller'in projesidir.
     - E-) Clotilde Olyff'in projesidir.
 
-    > **Açıklama:** Hareket ya da Performans Oluşturulan Üç Boyutlu Tipografi
-    > Amandine Alessandra’nın projesi “Letterform for the Ephemeral” 2009-2010 yılları arasında oluşturulmuş, birkaç evreden meydana gelen bir projedir. Giyilebilir tipografiden yola çıkılarak deneyimlenen proje, bolero tarzı kollardan geçirilen birbirine bağlı kumaş parçasının kollar ve omuz yardımıyla harf formlarının oluşturulduğu bir düzenlemedir.
+    > **Açıklama:** Hareket ya da Performans Oluşturulan Üç Boyutlu Tipografi<br />Amandine Alessandra’nın projesi “Letterform for the Ephemeral” 2009-2010 yılları arasında oluşturulmuş, birkaç evreden meydana gelen bir projedir. Giyilebilir tipografiden yola çıkılarak deneyimlenen proje, bolero tarzı kollardan geçirilen birbirine bağlı kumaş parçasının kollar ve omuz yardımıyla harf formlarının oluşturulduğu bir düzenlemedir.
 
     <hr />
 1. “Kullanılan malzeme miktarı düşüyor, maddesizleşiyoruz ve yüklü malzemeler giderek serbest kalmış enerjiye dönüşüyor.” sözü kime aittir?
@@ -505,8 +489,7 @@
     - D-) Gavin Ambrose
     - E-) Paul Harris
 
-    > **Açıklama:** Hareket ya da Performans Oluşturulan Üç Boyutlu Tipografi
-    > El Lissitzky, 1926 yılında yazdığı bir yazıda: “Kullanılan malzeme miktarı düşüyor, maddesizleşiyoruz ve yüklü malzemeler giderek serbest kalmış enerjiye dönüşüyor.” demiştir.
+    > **Açıklama:** Hareket ya da Performans Oluşturulan Üç Boyutlu Tipografi<br />El Lissitzky, 1926 yılında yazdığı bir yazıda: “Kullanılan malzeme miktarı düşüyor, maddesizleşiyoruz ve yüklü malzemeler giderek serbest kalmış enerjiye dönüşüyor.” demiştir.
 
     <hr />
 1. Alüminyum plakaların farklı kesitlerle bir araya getirilmesiyle oluşan alfabe serisinde Japon tasarımcı Takenobu Igarashi, üç boyutlu formların potansiyellerini keşfetmiştir. Tasarımcının kendi tanımıyla mimari alfabeleri hangi yıllarda büyük ses getirmiştir?
@@ -516,8 +499,7 @@
     - D-) 1995
     - E-) 2000
 
-    > **Açıklama:** Çeşitli Nesneler Kullanılarak Oluşturulan Üç Boyutlu Tipografi
-    > Japon tasarımcı Takenobu Igarashi’nin üç boyutlu alfabe çalışmaları kendi tanımıyla mimari alfabeleri 1980’li yıllarda büyük ses getirmiştir. Alüminyum plakaların farklı kesitlerle bir araya getirilmesiyle oluşan alfabe serisinde Igarashi, üç boyutlu formların potansiyellerini keşfetmiştir.
+    > **Açıklama:** Çeşitli Nesneler Kullanılarak Oluşturulan Üç Boyutlu Tipografi<br />Japon tasarımcı Takenobu Igarashi’nin üç boyutlu alfabe çalışmaları kendi tanımıyla mimari alfabeleri 1980’li yıllarda büyük ses getirmiştir. Alüminyum plakaların farklı kesitlerle bir araya getirilmesiyle oluşan alfabe serisinde Igarashi, üç boyutlu formların potansiyellerini keşfetmiştir.
 
     <hr />
 1. Deneyseli, “daha önce denemediğim, görülmemiş veya duyul­mamış bir şey” şeklinde ifade eden tasarımcı aşağıdakilerden hangisidir?
@@ -527,8 +509,7 @@
     - D-) Alice Twemlow
     - **Cevap E-) David Carson**
 
-    > **Açıklama:** **TASARIMDA DENEY, DENEYSEL VE ANTRENMAN KAVRAMLARI**
-    > Deneysel tipografinin herkes tarafından üzerin­de uzlaşılmış bir tanımı olduğu söylenememekte­dir. Amerikalı tasarımcı David Carson deneyseli, “daha önce denemediğim, görülmemiş veya duyul­mamış bir şey” şeklinde ifade edip yaratıcı sürecin biricikliğine ve öznel oluşuna vurgu yapmaktadır. Dolayısıyla, doğru yanıt E seçeneğidir.
+    > **Açıklama:** **TASARIMDA DENEY, DENEYSEL VE ANTRENMAN KAVRAMLARI**<br />Deneysel tipografinin herkes tarafından üzerin­de uzlaşılmış bir tanımı olduğu söylenememekte­dir. Amerikalı tasarımcı David Carson deneyseli, “daha önce denemediğim, görülmemiş veya duyul­mamış bir şey” şeklinde ifade edip yaratıcı sürecin biricikliğine ve öznel oluşuna vurgu yapmaktadır. Dolayısıyla, doğru yanıt E seçeneğidir.
 
     <hr />
 1. I. Purizm<br />II. Realizm<br />III. Romantizm<br />IV. Ekspresyonizm<br />Yukarıdakilerden hangileri Avrupa’dan dünyaya yayılan öncü (avant-garde) sanat ve tasarım akımları arasında sayılmaktadır?
@@ -538,8 +519,7 @@
     - D-) I ve II
     - E-) II ve IV
 
-    > **Açıklama:** **GÖRSEL İLETİŞİM TARİHİNDE DENEYSEL TİPOGRAFİ**
-    > Avrupa’dan dünyaya yayılan öncü (avant-garde) sanat ve tasarım akımları modernizm bayrağı altında Konstrüktivizm, Kübizm, Dadaizm, Ekspresyonizm, Fütürizm, Prodüktivizm, Purizm, Süprematizm, Vortisizm, Zenitizm ve De Stijl gibi pek çok akım ortaya çıkarmıştır. Bu akımlar içerisinde Kübizm’in genelgeçer kurallardan uzak kompozisyon anlayışı sanatçılara ve tasarım­cılara yeni yollar açmış, “bu yenilikçi düşüncelerin ilk uygulan­dığı alanlardan biri de tipografi olmuştur” Dolayısıyla, doğru yanıt C seçeneğidir.
+    > **Açıklama:** **GÖRSEL İLETİŞİM TARİHİNDE DENEYSEL TİPOGRAFİ**<br />Avrupa’dan dünyaya yayılan öncü (avant-garde) sanat ve tasarım akımları modernizm bayrağı altında Konstrüktivizm, Kübizm, Dadaizm, Ekspresyonizm, Fütürizm, Prodüktivizm, Purizm, Süprematizm, Vortisizm, Zenitizm ve De Stijl gibi pek çok akım ortaya çıkarmıştır. Bu akımlar içerisinde Kübizm’in genelgeçer kurallardan uzak kompozisyon anlayışı sanatçılara ve tasarım­cılara yeni yollar açmış, “bu yenilikçi düşüncelerin ilk uygulan­dığı alanlardan biri de tipografi olmuştur” Dolayısıyla, doğru yanıt C seçeneğidir.
 
     <hr />
 1. Görsel iletişim tasarımında “Biçim işlevi izler.” düsturuyla asimetrik sayfa düzenlerini, ızgara (grid) düzenine sıkı sıkıya bağlılığı, beyaz alanlara daha çok yer verilmesini, serifsiz yazıların kulla­nımını ve süslemeden neredeyse bütünüy­le kaçınılmasını savunan akıma ne ad verilir?
@@ -549,8 +529,7 @@
     - D-) Sürrealizm
     - E-) Post-modernizm
 
-    > **Açıklama:** **GÖRSEL İLETİŞİM TARİHİNDE DENEYSEL TİPOGRAFİ**
-    > Doğru yanıt B seçeneğidir. Çünkü, görsel iletişim tasarımında “Biçim işlevi izler.” düsturuyla asimetrik sayfa düzenlerini, ızgara (grid) düzenine sıkı sıkıya bağlılığı, beyaz alanlara daha çok yer verilmesini, serifsiz yazıların kulla­nımını ve süslemeden neredeyse bütünüy­le kaçınılmasını savunan akım “modernizm”dir.
+    > **Açıklama:** **GÖRSEL İLETİŞİM TARİHİNDE DENEYSEL TİPOGRAFİ**<br />Doğru yanıt B seçeneğidir. Çünkü, görsel iletişim tasarımında “Biçim işlevi izler.” düsturuyla asimetrik sayfa düzenlerini, ızgara (grid) düzenine sıkı sıkıya bağlılığı, beyaz alanlara daha çok yer verilmesini, serifsiz yazıların kulla­nımını ve süslemeden neredeyse bütünüy­le kaçınılmasını savunan akım “modernizm”dir.
 
     <hr />
 1. Gutenberg’ten bu yana oluşan işlev öncelikli, kuralcı ve durağan olan tipografik geleneğe karşı çıkış, yaratıcı insanları özgür ve dinamik ifade biçimlerinin kapısını aralamaya çağırmış; …………….. düşünce edebiyat, felsefe, tiyatro, mimari, reklam, fotoğraf, sinema gibi birçok alanda kendini göstermiştir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -560,8 +539,7 @@
     - D-) Vortisizm
     - E-) Zenitizm
 
-    > **Açıklama:** **Fütürizm ve Deneysel Tipografi**
-    > Doğru yanıt B seçeneğidir. Çünkü, Gutenberg’ten bu yana oluşan işlev öncelikli, kuralcı ve durağan olan tipografik geleneğe karşı çıkış, yaratıcı insanları özgür ve dinamik ifade biçimlerinin kapısını aralamaya çağırmış; fütürist düşünce edebiyat, felsefe, tiyatro, mimari, reklam, fotoğraf, sinema gibi birçok alanda kendini göstermiştir.
+    > **Açıklama:** **Fütürizm ve Deneysel Tipografi**<br />Doğru yanıt B seçeneğidir. Çünkü, Gutenberg’ten bu yana oluşan işlev öncelikli, kuralcı ve durağan olan tipografik geleneğe karşı çıkış, yaratıcı insanları özgür ve dinamik ifade biçimlerinin kapısını aralamaya çağırmış; fütürist düşünce edebiyat, felsefe, tiyatro, mimari, reklam, fotoğraf, sinema gibi birçok alanda kendini göstermiştir.
 
     <hr />
 1. Dada’nın tipografik açıdan ilk deneysel örneklerinin görüldüğü şair aşağıdakilerden hangisidir?
@@ -571,8 +549,7 @@
     - D-) Vladimir Mayakovski
     - E-) Raoul Hausmann
 
-    > **Açıklama:** **Dadaizm ve Deneysel Tipografi**
-    > Dada’nın tipografik açıdan ilk deneysel örnekleri Hugo Ball’ın şiirlerinde görülür. Dolayısıyla, doğru yanıt B seçeneğidir.
+    > **Açıklama:** **Dadaizm ve Deneysel Tipografi**<br />Dada’nın tipografik açıdan ilk deneysel örnekleri Hugo Ball’ın şiirlerinde görülür. Dolayısıyla, doğru yanıt B seçeneğidir.
 
     <hr />
 1. Yeni tipografi kavramı için aşağıdaki ifadelerden hangisi yanlıştır?
@@ -582,8 +559,7 @@
     - D-) Zamanının tipografi anlayışını kökten değiştirmiştir.
     - **Cevap E-) Serifli yazı kullanımına önem verilmiştir.**
 
-    > **Açıklama:** **Yeni Tipografi ve Deneysellik**
-    > Doğru yanıt, E seçeneğidir. Çünkü, yeni tipografi; 1925 yılında Jan Tschichold tarafından sistemleştirilen, modernizmin tipografiye yansıması olarak asimetrik, serifsiz yazı kullanımı ve geometriye verilen önemle öne çıkmış, zamanının tipografi anlayışını kökten değiştirmiştir.
+    > **Açıklama:** **Yeni Tipografi ve Deneysellik**<br />Doğru yanıt, E seçeneğidir. Çünkü, yeni tipografi; 1925 yılında Jan Tschichold tarafından sistemleştirilen, modernizmin tipografiye yansıması olarak asimetrik, serifsiz yazı kullanımı ve geometriye verilen önemle öne çıkmış, zamanının tipografi anlayışını kökten değiştirmiştir.
 
     <hr />
 1. Aşağıdakilerden hangisi günümüzde tasarımcıların deneyler yapmasını ve kendi ifade biçimlerini aramalarını sağlayan etkenlerden biri değildir?
@@ -593,8 +569,7 @@
     - D-) Tarayıcı ve yazıcıların ofislere girmesi
     - E-) Dijital fotoğraf makine­lerinin ortaya çıkışı
 
-    > **Açıklama:** **Postmodernizm ve Deneysel Tipografi**
-    > Kişisel bilgisayarın yaygınlaşması, grafik yazı­lımların ortaya çıkması, dijital fotoğraf makine­lerinin ortaya çıkışı, tarayıcı ve yazıcıların ofislere girmesi tasarımcıların deneyler yapmasını ve kendi ifade biçimlerini aramalarını sağlamıştır. Tasarım­cıların yaratıcılıklarıyla birleştirdiği bu keşifler, her yeni gün taze fikirlerin, olası olanakların kapısını aralamaktadır. Dolayısıyla, doğru yanıt A seçeneğidir.
+    > **Açıklama:** **Postmodernizm ve Deneysel Tipografi**<br />Kişisel bilgisayarın yaygınlaşması, grafik yazı­lımların ortaya çıkması, dijital fotoğraf makine­lerinin ortaya çıkışı, tarayıcı ve yazıcıların ofislere girmesi tasarımcıların deneyler yapmasını ve kendi ifade biçimlerini aramalarını sağlamıştır. Tasarım­cıların yaratıcılıklarıyla birleştirdiği bu keşifler, her yeni gün taze fikirlerin, olası olanakların kapısını aralamaktadır. Dolayısıyla, doğru yanıt A seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi güncel tasarımda uygulanan deneysel tipografi yaklaşımlarından biri değildir?
@@ -604,8 +579,7 @@
     - D-) Teknoloji
     - E-) Mecra
 
-    > **Açıklama:** **GÜNCEL TASARIMDA DENEYSEL TİPOGRAFİ YAKLAŞIMLARI**
-    > Deneysel tipografi yaklaşımları tasarımcılara, onların bilgi, birikim ve hayal güçlerine göre çeşitlenebileceğinden; sunulduk­ları mecrayı önceleyen, farklı türden malzemeler kullanılmasıyla öne çıkan, odağına hareketi temel alan veya teknolojinin verdiği imkânların sınırlarını zorlayan çalışmalar üzerinden düşünülerek *mecra, malzeme, hareket* ve *teknoloji* temelli olmak üzere dört kategoride toplanmıştır. Dolayısıyla, doğru yanıt C seçeneğidir.
+    > **Açıklama:** **GÜNCEL TASARIMDA DENEYSEL TİPOGRAFİ YAKLAŞIMLARI**<br />Deneysel tipografi yaklaşımları tasarımcılara, onların bilgi, birikim ve hayal güçlerine göre çeşitlenebileceğinden; sunulduk­ları mecrayı önceleyen, farklı türden malzemeler kullanılmasıyla öne çıkan, odağına hareketi temel alan veya teknolojinin verdiği imkânların sınırlarını zorlayan çalışmalar üzerinden düşünülerek *mecra, malzeme, hareket* ve *teknoloji* temelli olmak üzere dört kategoride toplanmıştır. Dolayısıyla, doğru yanıt C seçeneğidir.
 
     <hr />
 1. Amerikalı sanatçı Jenny Holzer’in 1993 yılında Bosna’da işlenen savaş suçlarına tepki olarak hazırla­dığı *Lustmord* adlı çalışması, insan bedeni üzerine …………. kullanarak üretilmiştir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -615,8 +589,7 @@
     - D-) Sim
     - E-) Kâğıt
 
-    > **Açıklama:** **Mecra Temelli Deneysel Tipografi**
-    > Doğru yanıt C seçeneğidir. Çünkü, Amerikalı sanatçı Jenny Holzer’in 1993 yılında Bosna’da işlenen savaş suçlarına tepki olarak hazırla­dığı *Lustmord* adlı çalışması, insan bedeni üzerine mürekkep kullanarak üretilmiştir.
+    > **Açıklama:** **Mecra Temelli Deneysel Tipografi**<br />Doğru yanıt C seçeneğidir. Çünkü, Amerikalı sanatçı Jenny Holzer’in 1993 yılında Bosna’da işlenen savaş suçlarına tepki olarak hazırla­dığı *Lustmord* adlı çalışması, insan bedeni üzerine mürekkep kullanarak üretilmiştir.
 
     <hr />
 1. İzleyiciyi bir deneyime sürükleyen ve kamusal alanda sergilenen veya doğrudan kamusal alan için hazırlanmış çalışmalar hangi tür deneysel tipografi yaklaşımı altında değerlendirilmektedir?
@@ -676,8 +649,7 @@
     - **Cevap D-) Fütürizm**
     - E-) De Stijl
 
-    > **Açıklama:** Fütürizm savaş, makine çağı, hız ve modern yaşama yönelik hayranlığın ve coşkunun dile getirildiği, müzelerin ve kütüphanelerin yok olmasını savunan, ahlaki değerlere ve feminizme karşı çıkan yeni
-    > bir söylemi dillendirmiştir.
+    > **Açıklama:** Fütürizm savaş, makine çağı, hız ve modern yaşama yönelik hayranlığın ve coşkunun dile getirildiği, müzelerin ve kütüphanelerin yok olmasını savunan, ahlaki değerlere ve feminizme karşı çıkan yeni<br />bir söylemi dillendirmiştir.
 
     <hr />
 1. Savaşın dehşetine, Avrupa toplumunun çöküşüne, teknolojik ilerlemeye körü körüne inanmanın<br />sığlığına ve dinin ve geleneksel ahlak kurallarının yetersizliğine şiddetle isyan eder.<br />Yukarıdaki söz aşağıdaki akımların hangisiyle doğrudan ilişkilidir?
@@ -747,10 +719,7 @@
     - D-) Yalnızca I
     - **Cevap E-) I, II ve IV**
 
-    > **Açıklama:** I. Tasarımda deney; geleneksel kısıtlamaların ortadan kalktığı, temel işlev ve estetik kavramlara meydan okunduğu, bir şeyi denemenin, oynamanın yoludur.
-    > II. Tasarımda deney, “daha önce kalkışılmamış başarılara girişmek ve başarısız olma lisansına sahip olmak” demektir.
-    > III. Genellikle pozitif bilimlerde kullanılan deney kavramı, sanat ve tasarım alanlarında **kullanılmaktadır.**
-    > IV. Her yaratıcı çözüm süreci, özü itibarıyla deneyseldir.
+    > **Açıklama:** I. Tasarımda deney; geleneksel kısıtlamaların ortadan kalktığı, temel işlev ve estetik kavramlara meydan okunduğu, bir şeyi denemenin, oynamanın yoludur.<br />II. Tasarımda deney, “daha önce kalkışılmamış başarılara girişmek ve başarısız olma lisansına sahip olmak” demektir.<br />III. Genellikle pozitif bilimlerde kullanılan deney kavramı, sanat ve tasarım alanlarında **kullanılmaktadır.**<br />IV. Her yaratıcı çözüm süreci, özü itibarıyla deneyseldir.
 
     <hr />
 1. Tipografide geleneğe karşı atılan adımlar, deney ve görselleştirme ile ilgili yenilikçi yaklaşımlar en çok hangi alanda görülmüştür?
@@ -780,10 +749,7 @@
     - **Cevap D-) II, III ve IV**
     - E-) Yalnızca IV
 
-    > **Açıklama:** I. Mekanik okuma biçimini **protesto eden** bir anlayışın ürünüdür.
-    > II. Herhangi bir teknolojik kısıtlama olmaksızın oluşturuldukları için doğrusal yazımın geleneklerinden kaçmış ve okurları algısal bir mücadeleye zorlamıştır.
-    > III. Apollinaire’nin 1918 tarihli Calligrammes adlı kitabında yayımlanan Il Pleut şiirinde harfler, içeriği yansıtacak şekilde dizilmiş ve yağmur yağdığı izlenimi uyandırarak sayfanın aşağısına doğru akıtılmıştır.
-    > IV. Latin tipografisinin soldan sağa doğru olan doğrusal okuma düzeni yıkılmış, biçim ile içerik arasında ilişki kurulması ve içeriğin daha etkin bir şekilde okura aktarılması hedeflenmiştir.
+    > **Açıklama:** I. Mekanik okuma biçimini **protesto eden** bir anlayışın ürünüdür.<br />II. Herhangi bir teknolojik kısıtlama olmaksızın oluşturuldukları için doğrusal yazımın geleneklerinden kaçmış ve okurları algısal bir mücadeleye zorlamıştır.<br />III. Apollinaire’nin 1918 tarihli Calligrammes adlı kitabında yayımlanan Il Pleut şiirinde harfler, içeriği yansıtacak şekilde dizilmiş ve yağmur yağdığı izlenimi uyandırarak sayfanın aşağısına doğru akıtılmıştır.<br />IV. Latin tipografisinin soldan sağa doğru olan doğrusal okuma düzeni yıkılmış, biçim ile içerik arasında ilişki kurulması ve içeriğin daha etkin bir şekilde okura aktarılması hedeflenmiştir.
 
     <hr />
 1. Görsel iletişim tasarımında “Biçim işlevi izler” düsturuyla asimetrik sayfa düzenlerini, ızgara (grid) düzenine sıkı sıkıya bağlılığı, beyaz alanlara daha çok yer verilmesini, serifsiz yazıların kullanımını ve süslemeden neredeyse bütünüyle kaçınılmasını savunan akım aşağıdakilerden hangisidir?
@@ -984,8 +950,7 @@
     - D-) Alice Twemlow
     - **Cevap E-) Albert Einstein**
 
-    > **Açıklama:** **HAREKET VE TİPOGRAFİ-Hareket**
-    > Albert Einstein ise fizik alanında öneme sahip görelilik (izafiyet) teorisinde hareketi ele almakta­dır. Bu teoriye göre, hareketle ilgili bir gözlem ya­pabilmek için ikinci bir hareket ya da hareketsizlik gerekmektedir. Tek bir nesnenin olduğu bir uzayda, hareketi tanımlamak mümkün değildir, bu tanım­lamayı yapabilmek için ikinci bir nesne olmalıdır. Bu nesnelerden hangisinin hareketli ya da durağan olduğu, gözlemcisine göre görelilik taşımaktadır. Dolayısıyla, doğru yanıt E seçeneğidir.
+    > **Açıklama:** **HAREKET VE TİPOGRAFİ-Hareket**<br />Albert Einstein ise fizik alanında öneme sahip görelilik (izafiyet) teorisinde hareketi ele almakta­dır. Bu teoriye göre, hareketle ilgili bir gözlem ya­pabilmek için ikinci bir hareket ya da hareketsizlik gerekmektedir. Tek bir nesnenin olduğu bir uzayda, hareketi tanımlamak mümkün değildir, bu tanım­lamayı yapabilmek için ikinci bir nesne olmalıdır. Bu nesnelerden hangisinin hareketli ya da durağan olduğu, gözlemcisine göre görelilik taşımaktadır. Dolayısıyla, doğru yanıt E seçeneğidir.
 
     <hr />
 1. I. Akışkan tipografi<br />II. Mekânsal tipografi<br />III. Statik tipografi<br />IV. Kinetik tipografi<br />Yukarıdakilerden hangileri yazının hareketlenmesi üzerine yapılan akademik çalışmalarda, farklı isimlendirmeler ile vurgulanan hareketli tipografi tanımları arasında sayılmaktadır?
@@ -995,8 +960,7 @@
     - D-) I ve II
     - E-) II ve IV
 
-    > **Açıklama:** **Hareketli Tipografi Tanımları**
-    > Yazının hareketlenmesi üzerine yapılan akademik çalışmalarda, bu kısmen yeni sayılabilecek uygula­maları farklı yazarlar farklı isimlendirmeler ile tanımlamışlardır. Bunlar; akışkan, zamansal, kinetik ve likit tipografi. Dolayısıyla, doğru yanıt C seçeneğidir.
+    > **Açıklama:** **Hareketli Tipografi Tanımları**<br />Yazının hareketlenmesi üzerine yapılan akademik çalışmalarda, bu kısmen yeni sayılabilecek uygula­maları farklı yazarlar farklı isimlendirmeler ile tanımlamışlardır. Bunlar; akışkan, zamansal, kinetik ve likit tipografi. Dolayısıyla, doğru yanıt C seçeneğidir.
 
     <hr />
 1. Harfin, sözcüğün ya da cümlenin, yapısının değişerek kazandığı hareketlenme türüne ne ad verilir?
@@ -1006,8 +970,7 @@
     - D-) Dairesel
     - E-) Çizgisel
 
-    > **Açıklama:** **Hareketli Tipografi Tanımları**
-    > Doğru yanıt B seçeneğidir. Çünkü, dönüşen tipografi; harfin, sözcüğün ya da cümlenin, yapısının değişerek kazandığı hareketlenmedir. Burada hareketlenen birim özelinde bir dönüşüm söz konusudur. Bu birim bir harf ise başlangıçtaki harf formu ile dönüşüm gerçekleştirdikten sonraki harf formları farklıdır. Aynı durum dönüşen sözcük ya da cümle için de geçerlidir.
+    > **Açıklama:** **Hareketli Tipografi Tanımları**<br />Doğru yanıt B seçeneğidir. Çünkü, dönüşen tipografi; harfin, sözcüğün ya da cümlenin, yapısının değişerek kazandığı hareketlenmedir. Burada hareketlenen birim özelinde bir dönüşüm söz konusudur. Bu birim bir harf ise başlangıçtaki harf formu ile dönüşüm gerçekleştirdikten sonraki harf formları farklıdır. Aynı durum dönüşen sözcük ya da cümle için de geçerlidir.
 
     <hr />
 1. Hareketli tipografinin erken örnekleri izleyiciyle ……………… buluşmuştur.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -1017,8 +980,7 @@
     - D-) Televizyonda
     - E-) Fotoğrafta
 
-    > **Açıklama:** **Hareketli Tipografi Tarihi**
-    > Doğru yanıt B seçeneğidir. Çünkü, hareketli tipografinin erken örnekleri izleyiciyle sinemada, ticari filmlerde yer alan deneysel jenerikler aracılığıyla buluşmuştur. Sinemadaki kul­lanımı ışıklı reklam panoları takip etmektedir. Sonrasında televizyon, bilgisayar, internet gibi ortamlarda, endüstriyel veya sanatsal formda hareketli tipografi örnekleri bulunmaktadır.
+    > **Açıklama:** **Hareketli Tipografi Tarihi**<br />Doğru yanıt B seçeneğidir. Çünkü, hareketli tipografinin erken örnekleri izleyiciyle sinemada, ticari filmlerde yer alan deneysel jenerikler aracılığıyla buluşmuştur. Sinemadaki kul­lanımı ışıklı reklam panoları takip etmektedir. Sonrasında televizyon, bilgisayar, internet gibi ortamlarda, endüstriyel veya sanatsal formda hareketli tipografi örnekleri bulunmaktadır.
 
     <hr />
 1. Yazının hareket kazandığı ilk ürünlerden olan sinema jene­rikleri konusunda önem taşıyan ve tasarımcı bakış açısını sinemaya taşıyan isim aşağıdakilerden hangisidir?
@@ -1028,8 +990,7 @@
     - D-) Otto Preminger
     - E-) Stanley Kubrick
 
-    > **Açıklama:** **Sinemada Tipografi**
-    > Amerikalı grafik tasarımcı Saul Bass, yazının hareket kazandığı ilk ürünlerden olan sinema jene­rikleri konusunda önem taşıyan bir isimdir. Bass, tasarımcı bakış açısını, sinemaya taşımıştır. Dolayısıyla, doğru yanıt B seçeneğidir.
+    > **Açıklama:** **Sinemada Tipografi**<br />Amerikalı grafik tasarımcı Saul Bass, yazının hareket kazandığı ilk ürünlerden olan sinema jene­rikleri konusunda önem taşıyan bir isimdir. Bass, tasarımcı bakış açısını, sinemaya taşımıştır. Dolayısıyla, doğru yanıt B seçeneğidir.
 
     <hr />
 1. İlk hareketli logolar aşağıdaki mecralardan hangisinde yer almıştır?
@@ -1039,8 +1000,7 @@
     - D-) VOD
     - **Cevap E-) Analog televizyon**
 
-    > **Açıklama:** **HAREKET İÇEREN ORTAMLAR VE TİPOGRAFİ**
-    > Doğru yanıt, E seçeneğidir. Çünkü, hareketli tipografi uygulamalarının en sıklıkla yer aldığı ortamlar ekran egemenliğindeki ortam­lardır. Kuşkusuz hareketli tipografinin serüveni kâğıt ve perde ile başlamış, ilk hareketli logolar analog televizyonlarda yer almıştır. Ancak sinema­nın, televizyonun sayısal ortama taşınması, sayısal ortamda asenkron içerik sunan VOD’lerin (Video on Demand) yaygınlaşması, oyun sektörünün geli­şerek hemen her türlü donanım üzerinden erişile­bilir olması, gelişmiş akıllı telefon ve tabletlere olan talebin artması, ekranın bir ortam olarak baskın hâle gelmesini sağlamıştır.
+    > **Açıklama:** **HAREKET İÇEREN ORTAMLAR VE TİPOGRAFİ**<br />Doğru yanıt, E seçeneğidir. Çünkü, hareketli tipografi uygulamalarının en sıklıkla yer aldığı ortamlar ekran egemenliğindeki ortam­lardır. Kuşkusuz hareketli tipografinin serüveni kâğıt ve perde ile başlamış, ilk hareketli logolar analog televizyonlarda yer almıştır. Ancak sinema­nın, televizyonun sayısal ortama taşınması, sayısal ortamda asenkron içerik sunan VOD’lerin (Video on Demand) yaygınlaşması, oyun sektörünün geli­şerek hemen her türlü donanım üzerinden erişile­bilir olması, gelişmiş akıllı telefon ve tabletlere olan talebin artması, ekranın bir ortam olarak baskın hâle gelmesini sağlamıştır.
 
     <hr />
 1. Aşağıdakilerden hangisi ekranın fiziksel ve teknolojik özelliklerinden biridir?
@@ -1050,8 +1010,7 @@
     - D-) Esnekliği
     - E-) Ağırlığı
 
-    > **Açıklama:** **HAREKET İÇEREN ORTAMLAR VE TİPOGRAFİ-Ekran**
-    > Ekranın fiziksel ve teknolojik özellikleri arasında ekranın boyutu, çözünürlüğü ve piksel yoğunluğu yer almaktadır. İzleyici ekran ilişkisi ise ekrana olan mesafe, bu­lunduğu ortam gibi izleyicinin kullanım modelle­rini içermektedir. Dolayısıyla, doğru yanıt A seçeneğidir.
+    > **Açıklama:** **HAREKET İÇEREN ORTAMLAR VE TİPOGRAFİ-Ekran**<br />Ekranın fiziksel ve teknolojik özellikleri arasında ekranın boyutu, çözünürlüğü ve piksel yoğunluğu yer almaktadır. İzleyici ekran ilişkisi ise ekrana olan mesafe, bu­lunduğu ortam gibi izleyicinin kullanım modelle­rini içermektedir. Dolayısıyla, doğru yanıt A seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi hareketli tipografi bileşenlerinden olan kompozisyonu etkileyen özelliklerden biri değildir?
@@ -1061,8 +1020,7 @@
     - D-) Boşluk
     - E-) Derinlik
 
-    > **Açıklama:** **HAREKETLİ TİPOGRAFİ BİLEŞENLERİ-****Kompozisyonel Özellikler**
-    > Hareketli görüntünün bir karesinde yer alan tek bir harf dahi, sunulduğu alana ilişkisi bakımından önem taşımaktadır. Bu nedenle, hareketli ortamda yer alacak tipografik düzenlemeler de adeta bir afiş tasarımı ya da bir sayfa düzenine benzer biçimde özenle hazırlanmalıdır. Bu bakımdan kompozisyonu etki­leyen özellikler arasında tekrar, kontrast odak noktası, hiyerarşi, boşluk ve derinlik kavramları ele alınabilir. Dolayısıyla, doğru yanıt C seçeneğidir.
+    > **Açıklama:** **HAREKETLİ TİPOGRAFİ BİLEŞENLERİ-****Kompozisyonel Özellikler** <br />Hareketli görüntünün bir karesinde yer alan tek bir harf dahi, sunulduğu alana ilişkisi bakımından önem taşımaktadır. Bu nedenle, hareketli ortamda yer alacak tipografik düzenlemeler de adeta bir afiş tasarımı ya da bir sayfa düzenine benzer biçimde özenle hazırlanmalıdır. Bu bakımdan kompozisyonu etki­leyen özellikler arasında tekrar, kontrast odak noktası, hiyerarşi, boşluk ve derinlik kavramları ele alınabilir. Dolayısıyla, doğru yanıt C seçeneğidir.
 
     <hr />
 1. Sekansların ardışık yerleştirilmesi ile bir anlam oluşturmak …………. yardımıyla gerçekleştirilmektedir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
@@ -1072,8 +1030,7 @@
     - D-) Dolly
     - E-) Pan
 
-    > **Açıklama:** **Sinematografik Özellikler -** **Kurgu**
-    > Doğru yanıt C seçeneğidir. Çünkü, sekansların ardışık yerleştirilmesi ile bir anlam oluşturmak kurgu yardımıyla gerçekleştirilmektedir. Kurgu ile ilgili teoriler, en yaygın olarak sinema alanından çıkmaktadır.
+    > **Açıklama:** **Sinematografik Özellikler -** **Kurgu**<br />Doğru yanıt C seçeneğidir. Çünkü, sekansların ardışık yerleştirilmesi ile bir anlam oluşturmak kurgu yardımıyla gerçekleştirilmektedir. Kurgu ile ilgili teoriler, en yaygın olarak sinema alanından çıkmaktadır.
 
     <hr />
 1. Aşağıdakilerden hangisi kamera hareketlerinden biri değildir?
@@ -1083,15 +1040,7 @@
     - D-) Optik kaydırma
     - **Cevap E-) Doğrusal hareket**
 
-    > **Açıklama:** **Sinematografik Özellikler - Kamera hareketleri**
-    > Doğru yanıt E seçeneğidir. Çünkü, sinematografik anlatımda kamera hareketleri, çeşitli kuramlar eşliğinde kurguya destek olabilecek özel­liktedir. Kameranın temelde 7 hareketi bulunmaktadır. Bunlar:
-    > * sağa sola çevirme (pan)
-    > * aşağı yukarı çevirme (tilt)
-    > * ileri geri hareket (dolly)
-    > * sağa sola hareket (truck)
-    > * aşağı yukarı hareket (pedestal)
-    > * dairesel hareket (roll)
-    > * ve optik kaydırma (zoom)’dur.
+    > **Açıklama:** **Sinematografik Özellikler - Kamera hareketleri**<br />Doğru yanıt E seçeneğidir. Çünkü, sinematografik anlatımda kamera hareketleri, çeşitli kuramlar eşliğinde kurguya destek olabilecek özel­liktedir. Kameranın temelde 7 hareketi bulunmaktadır. Bunlar:<br />* sağa sola çevirme (pan)<br />* aşağı yukarı çevirme (tilt)<br />* ileri geri hareket (dolly)<br />* sağa sola hareket (truck)<br />* aşağı yukarı hareket (pedestal)<br />* dairesel hareket (roll)<br />* ve optik kaydırma (zoom)’dur.
 
     <hr />
 1. Hareketi algılamayı anlatan ilk kültür ürünü nesneler nelerdir?
@@ -1101,8 +1050,7 @@
     - D-) Çivi yazısı
     - E-) Alfabe
 
-    > **Açıklama:** HAREKET VE TİPOGRAFİ
-    > İlk kültür ürünü nesneler olarak görülebilecek mağara resimlerinde de insanların hareketi algılamaya ve sonrasında onları mağara yüzeylerine görselleştirmeye çalıştıkları gözlemlenmektedir.
+    > **Açıklama:** HAREKET VE TİPOGRAFİ<br />İlk kültür ürünü nesneler olarak görülebilecek mağara resimlerinde de insanların hareketi algılamaya ve sonrasında onları mağara yüzeylerine görselleştirmeye çalıştıkları gözlemlenmektedir.
 
     <hr />
 1. Araştırmacı David Small ve Yin Yin Wong tarafından kullanılan, Tipografi’ye dördüncü boyut olarak zamanın eklenmesinden yola çıkılarak isimlendirilen tipografi tanımı nedir?
@@ -1112,8 +1060,7 @@
     - D-) Devinen Tipografi
     - E-) Tipografik Rezonans
 
-    > **Açıklama:** Hareketli Tipografi Tanımları
-    > Tipografi’ye dördüncü boyut olarak zamanın eklenmesinden yola çıkarak Zamansal Tipografi (Temporal Typography) terimi araştırmacı David Small ve Yin Yin Wong tarafından kullanılmıştır.
+    > **Açıklama:** Hareketli Tipografi Tanımları<br />Tipografi’ye dördüncü boyut olarak zamanın eklenmesinden yola çıkarak Zamansal Tipografi (Temporal Typography) terimi araştırmacı David Small ve Yin Yin Wong tarafından kullanılmıştır.
 
     <hr />
 1. Devinen Tipografi tanımı aşağıdakilerden hangisidir?
@@ -1123,8 +1070,7 @@
     - D-) Harfin, sözcüğün ya da cümlenin, yapısının değişerek kazandığı hareketlenmedir.
     - E-) Hareketi de dâhil eden daha kuvvetli bir iletişim biçimidir.
 
-    > **Açıklama:** Hareketli Tipografi Tanımları
-    > Devinen Tipografi: Harfin, sözcüğün ya da cümlenin 2 ya da 3 boyutlu yüzeyde düzlemsel ya da radyal hareketler gerçekleştirmesidir.
+    > **Açıklama:** Hareketli Tipografi Tanımları<br />Devinen Tipografi: Harfin, sözcüğün ya da cümlenin 2 ya da 3 boyutlu yüzeyde düzlemsel ya da radyal hareketler gerçekleştirmesidir.
 
     <hr />
 1. Fenakistoskop nedir?
@@ -1134,8 +1080,7 @@
     - D-) Görüntüyü kaydetmeye yönelik bir icattır.
     - **Cevap E-) Aynadan bakıldığında hareket yanılsaması yaratan dönen bir karton diskten oluşan oyuncaktır.**
 
-    > **Açıklama:** Hareketli Tipografİ Tarihi
-    > Bu teorinin hayata geçtiği örneklerden, 1832’de Joseph Plateau tarafından buluşu yapılan bir oyuncak, fenakistoskop, aynadan bakıldığında hareket yanılsaması yaratan dönen bir karton diskten oluşmaktaydı.
+    > **Açıklama:** Hareketli Tipografİ Tarihi<br />Bu teorinin hayata geçtiği örneklerden, 1832’de Joseph Plateau tarafından buluşu yapılan bir oyuncak, fenakistoskop, aynadan bakıldığında hareket yanılsaması yaratan dönen bir karton diskten oluşmaktaydı.
 
     <hr />
 1. “La Voyage Dans La Lune” (Aya Yolculuk, 1902) filminde deneysel yöntemler kullanarak yazıyı hareketlendiren ilk örneklere imza atan isim kimdir?
@@ -1145,8 +1090,7 @@
     - **Cevap D-) Georges Méliès**
     - E-) Niepce ve Jacque Daguerre
 
-    > **Açıklama:** Sinemada Tipografi
-    > “La Voyage Dans La Lune” (Aya Yolculuk, 1902) filmi ile tanınan Fransız illüzyonist ve sinemacı Georges Méliès, deneysel yöntemler kullanarak yazıyı hareketlendiren ilk örneklere imza atmıştır. Reklam içeriğine sahip bu filmler stop motion (duraklı çekim) tekniği ile hazırlanmıştır
+    > **Açıklama:** Sinemada Tipografi<br />“La Voyage Dans La Lune” (Aya Yolculuk, 1902) filmi ile tanınan Fransız illüzyonist ve sinemacı Georges Méliès, deneysel yöntemler kullanarak yazıyı hareketlendiren ilk örneklere imza atmıştır. Reklam içeriğine sahip bu filmler stop motion (duraklı çekim) tekniği ile hazırlanmıştır
 
     <hr />
 1. İlk jenerik çalışması, 1954 yılında gösterime giren ve Otto Preminger tarafından yönetilen hangi filmi içindir?
@@ -1156,8 +1100,7 @@
     - D-) Gizli Teşkilat
     - E-) Sapık
 
-    > **Açıklama:** Sinemada Tipografi
-    > İlk jenerik çalışması, 1954 yılında gösterime giren ve Otto Preminger tarafından yönetilen Carmen Jones filmi içindir.
+    > **Açıklama:** Sinemada Tipografi<br />İlk jenerik çalışması, 1954 yılında gösterime giren ve Otto Preminger tarafından yönetilen Carmen Jones filmi içindir.
 
     <hr />
 1. Sinemada hareketlenmeye başlayan yazı, hangi yılda mecra olarak televizyona geçiş yapmıştır?
@@ -1167,8 +1110,7 @@
     - D-) 1980
     - E-) 1890
 
-    > **Açıklama:** Televizyonda Hareketli Tipografi
-    > Sinemada hareketlenmeye başlayan yazı, mecra olarak televizyona geçiş yapmıştır. Özellikle kanal kimliği oluşturulmasında önemli bir unsur hâline gelmiş ve 1960’lardan sonra renkli olarak da televizyon izleyicisiyle buluşmuştur.
+    > **Açıklama:** Televizyonda Hareketli Tipografi<br />Sinemada hareketlenmeye başlayan yazı, mecra olarak televizyona geçiş yapmıştır. Özellikle kanal kimliği oluşturulmasında önemli bir unsur hâline gelmiş ve 1960’lardan sonra renkli olarak da televizyon izleyicisiyle buluşmuştur.
 
     <hr />
 1. David Fincher yönetmenliğinde çekilen ve Kyle Cooper tarafından jeneriği tasarlanan filmin adı nedir?
@@ -1178,8 +1120,7 @@
     - **Cevap D-) Se7en**
     - E-) Chucky
 
-    > **Açıklama:** Sinema, Televizyon ve Oyun Jeneriklerinde Öyküsel Yaklaşım
-    > Sinema ve televizyon alanlarında farklı başlıklarda seyreden hareketli yazılar, 1990’lardan itibaren dizi ve film jeneriklerinde, öykünün bir parçası hâline gelen yeni bir açılım kazanmıştır. 1995 yılında, David Fincher yönetmenliğinde çekilen Se7en (Yedi) filmi, bu açılımlar açısından öne çıkan bir örnektir. Filmin Kyle Cooper tarafından tasarlanan jeneriği, neredeyse filmin kendisi kadar ilgi çekmiştir.
+    > **Açıklama:** Sinema, Televizyon ve Oyun Jeneriklerinde Öyküsel Yaklaşım<br />Sinema ve televizyon alanlarında farklı başlıklarda seyreden hareketli yazılar, 1990’lardan itibaren dizi ve film jeneriklerinde, öykünün bir parçası hâline gelen yeni bir açılım kazanmıştır. 1995 yılında, David Fincher yönetmenliğinde çekilen Se7en (Yedi) filmi, bu açılımlar açısından öne çıkan bir örnektir. Filmin Kyle Cooper tarafından tasarlanan jeneriği, neredeyse filmin kendisi kadar ilgi çekmiştir.
 
     <hr />
 1. Ekranın fiziksel boyutu, ekranı oluşturan dikdörtgenin köşegen uzunluğu üzerinden tanımlanır ve Amerikan standart ölçü birimi olan inç ile ifade edilmektedir. 15 inç büyüklükteki bir bilgisayar ekranının köşegen uzunluğu kaç cm’dir?
@@ -1189,8 +1130,7 @@
     - D-) 30 cm
     - E-) Hiçbiri
 
-    > **Açıklama:** Ekran Boyutları
-    > Ekranın fiziksel boyutu, ekranı oluşturan dikdörtgenin köşegen uzunluğu üzerinden tanımlanır. Amerikan standart ölçü birimi olan inç ile ifade edilmektedir. Örnek olarak 15 inç büyüklükte bir bilgisayar ekranının köşegen uzunluğu 15 inç yani 38.1 cm’dir.
+    > **Açıklama:** Ekran Boyutları<br />Ekranın fiziksel boyutu, ekranı oluşturan dikdörtgenin köşegen uzunluğu üzerinden tanımlanır. Amerikan standart ölçü birimi olan inç ile ifade edilmektedir. Örnek olarak 15 inç büyüklükte bir bilgisayar ekranının köşegen uzunluğu 15 inç yani 38.1 cm’dir.
 
     <hr />
 1. Bir inç'e karşılık gelen yazı karakterinin punto değeri kaçtır?
@@ -1200,8 +1140,7 @@
     - D-) 84
     - E-) 96
 
-    > **Açıklama:** Yazı Boyutu ve x-yüksekliği
-    > Metnin boyutunu ifade eden punto (point), 1980’lerin sonlarında font teknolojisinin gelişmesiyle bilgisayarlarda kullanılan biçimini almıştır. Bu yeni hesaplamada 1 inçe eşit olan 72 punto büyüklüğünde iki farklı yazı karakteri ile yazılan sözcükler, farklı boyutlarda algılanabilmektedir.
+    > **Açıklama:** Yazı Boyutu ve x-yüksekliği<br />Metnin boyutunu ifade eden punto (point), 1980’lerin sonlarında font teknolojisinin gelişmesiyle bilgisayarlarda kullanılan biçimini almıştır. Bu yeni hesaplamada 1 inçe eşit olan 72 punto büyüklüğünde iki farklı yazı karakteri ile yazılan sözcükler, farklı boyutlarda algılanabilmektedir.
 
     <hr />
 1. "Günümüzde tasarımcılar, var olan tipografi ve kompozisyon bilgi ve birikimlerine harekete özgü özellikleri eklemiş, “motion designer” olarak yeni ortamları deneyimlemeye başlamışlardır".<br />Yukarıda belirtilen özellik tipografinin hangi alanı için geçerlidir?
@@ -1412,8 +1351,7 @@
     - D-) Sanat felsefesi insan ve insana ait değerler açısından sanata bakar.
     - E-) Sanat tarihi tarihsel süreç içerisinde sanata bakar ve eski dönemler için arkeolojiden destek alır.
 
-    > **Açıklama:** Günümüzde sanatı bilimsel olarak ele alıp inceleyen sanat tarihi yanında sanat felsefesi, estetik, sanat psikolojisi, sanat sosyolojisi gibi sanat bilim
-    > alanları vardır. Bu sanat bilim alanları kendi uğraşları çerçevesinde, sanatın içinde barındırdığı kavramlardan biri ya da diğerini ön plana alarak sanata yaklaşır ve bu doğrultuda tanımlar yaparlar. Sanat tarihi tarihsel süreç içerisinde sanata bakar ve eski dönemler için arkeolojiden destek alır. Estetik, güzeli sorgularken; sanat felsefesi insan ve insana ait değerler ve ontoloji açısından sanata bakar. Sanat psikolojisi sanatçı ve onu izleyenin psikolojisini dikkate alırken, sanat sosyolojisi sanatı, içinde bulunduğu toplumsal yapı ile birlikte değerlendirir. Buna göre "B" seçeneği doğru cevaptır.
+    > **Açıklama:** Günümüzde sanatı bilimsel olarak ele alıp inceleyen sanat tarihi yanında sanat felsefesi, estetik, sanat psikolojisi, sanat sosyolojisi gibi sanat bilim<br />alanları vardır. Bu sanat bilim alanları kendi uğraşları çerçevesinde, sanatın içinde barındırdığı kavramlardan biri ya da diğerini ön plana alarak sanata yaklaşır ve bu doğrultuda tanımlar yaparlar. Sanat tarihi tarihsel süreç içerisinde sanata bakar ve eski dönemler için arkeolojiden destek alır. Estetik, güzeli sorgularken; sanat felsefesi insan ve insana ait değerler ve ontoloji açısından sanata bakar. Sanat psikolojisi sanatçı ve onu izleyenin psikolojisini dikkate alırken, sanat sosyolojisi sanatı, içinde bulunduğu toplumsal yapı ile birlikte değerlendirir. Buna göre "B" seçeneği doğru cevaptır.
 
     <hr />
 1. Tipografi ile çalışırken etkili bir ürün ortaya koymak için aşağıdaki önerilerden hangisini dikkate almalıyız?
@@ -1423,17 +1361,7 @@
     - D-) Harf espaslarına dikkat etmeye gerek yoktur.
     - E-) Aynı sayfada sadece bir yazı karakteri kullan.
 
-    > **Açıklama:** Conover’e (1985) göre, tipografi ile çalışırken etkili bir ürün ortaya koymak için denemeler, araştırmalar ve testlerle ispatlanmış, şu on öneriye uymak gerekir:
-    > 1\. Doğru yazı karakteri kullan,
-    > 2\. Tipografiyi uygun ölçüde diz,
-    > 3\. Harf, kelime ve satır espaslarına dikkat et,
-    > 4\. Sayfa kenar boşlukları ve sınırlarını göz önünde bulundur,
-    > 5\. Doğru yazı ölçüsünü seç,
-    > 6\. Kullandığın yazı karakterlerini dikkatli karıştır,
-    > 7\. Tamamı büyük harfle oluşturulan satırları dikkatli kullan,
-    > 8\. Düzenlemede sıkıcı olma,
-    > 9\. Tuhaf düzenlemelerden kaçın,
-    > 10\. Metin yazılarını kontrol etmeyi unutma (Conover, 1985, s. 66). Buna göre "C" seçeneği doğru cevaptır.
+    > **Açıklama:** Conover’e (1985) göre, tipografi ile çalışırken etkili bir ürün ortaya koymak için denemeler, araştırmalar ve testlerle ispatlanmış, şu on öneriye uymak gerekir:<br />1\. Doğru yazı karakteri kullan,<br />2\. Tipografiyi uygun ölçüde diz,<br />3\. Harf, kelime ve satır espaslarına dikkat et,<br />4\. Sayfa kenar boşlukları ve sınırlarını göz önünde bulundur,<br />5\. Doğru yazı ölçüsünü seç,<br />6\. Kullandığın yazı karakterlerini dikkatli karıştır,<br />7\. Tamamı büyük harfle oluşturulan satırları dikkatli kullan,<br />8\. Düzenlemede sıkıcı olma,<br />9\. Tuhaf düzenlemelerden kaçın,<br />10\. Metin yazılarını kontrol etmeyi unutma (Conover, 1985, s. 66). Buna göre "C" seçeneği doğru cevaptır.
 
     <hr />
 1. "Text art" ve içerdiği tekniklere ait aşağıdaki açıklamalardan hangisi doğrudur?
@@ -1453,8 +1381,7 @@
     - D-) Raoul Hausmann (Sürrealizm) ve Rene Magritte (Pop Art)
     - **Cevap E-) Carlo Carra (Fütürizm) ve Pablo Picasso (Kübizm)**
 
-    > **Açıklama:** Tipografiyi resim sanatına taşıyan sanatçılara Joan Miro ve Paul Klee (Ekspresyonizm), Pablo Picasso ve Georges Braque (Kübizm), Carlo Carra (Fütürizm), Kurt Schwitters, Raoul Hausmann (Dadaizm), Rene Magritte (Sürrealizm), Jasper Johns (Neo-Dada ve Pop Art), Roy Lichtenstein (Pop
-    > Art), Stuart Davis (Soyut Sanat) örnek gösterilebilir.Buna göre "E" seçeneği doğru cevaptır.
+    > **Açıklama:** Tipografiyi resim sanatına taşıyan sanatçılara Joan Miro ve Paul Klee (Ekspresyonizm), Pablo Picasso ve Georges Braque (Kübizm), Carlo Carra (Fütürizm), Kurt Schwitters, Raoul Hausmann (Dadaizm), Rene Magritte (Sürrealizm), Jasper Johns (Neo-Dada ve Pop Art), Roy Lichtenstein (Pop<br />Art), Stuart Davis (Soyut Sanat) örnek gösterilebilir.Buna göre "E" seçeneği doğru cevaptır.
 
     <hr />
 1. Ekslibris ile ilgili aşağıdaki açıklamalardan hangisi doğrudur?
@@ -1464,8 +1391,7 @@
     - D-) Ekslibris içinde yazı 3 farklı konumdadır.
     - E-) Ekslibris üretiminde sanatçılar sadece ağaç baskı tekniğini kullanmaktadır.
 
-    > **Açıklama:** Sözcük olarak “...’nın kitaplığından”, “...’nın kütüphanesine ait” anlamına gelir. Ekslibrisler, 15-16. yüzyıldan itibaren kitapların kime ait olduğunu gösteren bir kimlik kazanmıştır. Ekslibrisler öncelikli olarak kitapların çalınmasını önlemeye yönelik bir tedbir olarak kullanılmıştır. Exlibris üretiminde geçmişten günümüze yüksek görüntü kalitesi elde edilebilecek ağaç, baskı, gravür, serigrafi, taş baskı gibi tüm geleneksel baskı teknikleri kullanılırken günümüzde bu tekniklerin yanı sıra bilgisayar teknolojisi de sanatçılar tarafından tercih edilmektedir.
-    > Exlibris içinde yazı iki farklı konumdadır: Ya resmin içinde resimle birlikte yer alır ya da sadece tipografik ve kaligrafik ögelerin görsel bir biçime dönüşmesiyle oluşur. Doğru cevap "A" seçeneğidir.
+    > **Açıklama:** Sözcük olarak “...’nın kitaplığından”, “...’nın kütüphanesine ait” anlamına gelir. Ekslibrisler, 15-16. yüzyıldan itibaren kitapların kime ait olduğunu gösteren bir kimlik kazanmıştır. Ekslibrisler öncelikli olarak kitapların çalınmasını önlemeye yönelik bir tedbir olarak kullanılmıştır. Exlibris üretiminde geçmişten günümüze yüksek görüntü kalitesi elde edilebilecek ağaç, baskı, gravür, serigrafi, taş baskı gibi tüm geleneksel baskı teknikleri kullanılırken günümüzde bu tekniklerin yanı sıra bilgisayar teknolojisi de sanatçılar tarafından tercih edilmektedir.<br />Exlibris içinde yazı iki farklı konumdadır: Ya resmin içinde resimle birlikte yer alır ya da sadece tipografik ve kaligrafik ögelerin görsel bir biçime dönüşmesiyle oluşur. Doğru cevap "A" seçeneğidir.
 
     <hr />
 1. Üç boyutlu hurufatlar sanatın hangi alanı ile tipografiyi birlikte kullanmaktadır?
@@ -1475,9 +1401,7 @@
     - **Cevap D-) Heykel**
     - E-) Enstalasyon sanatı
 
-    > **Açıklama:** Tipografi ve heykel buluşması ise baskının doğuşuyla beraberdir. Henüz tipo baskıya geçilmeden önce ahşap kalıplarla harflerin oluşturulması ve
-    > soğuk dizgi döneminde harflerin metal üzerine işlenerek hurufat oluşturulması minik heykelciklerin yapımına benzer. Üç boyutlu hurufatlar yüzyıllar
-    > boyunca bir araya getirilip, iki boyutlu yüzeylere basılarak insanlığın bilgi birikimini oluştururken, heykeller sanat alanında başka bir boyutta insanoğlunun güzellik arayışını gözler önüne serer.
+    > **Açıklama:** Tipografi ve heykel buluşması ise baskının doğuşuyla beraberdir. Henüz tipo baskıya geçilmeden önce ahşap kalıplarla harflerin oluşturulması ve<br />soğuk dizgi döneminde harflerin metal üzerine işlenerek hurufat oluşturulması minik heykelciklerin yapımına benzer. Üç boyutlu hurufatlar yüzyıllar<br />boyunca bir araya getirilip, iki boyutlu yüzeylere basılarak insanlığın bilgi birikimini oluştururken, heykeller sanat alanında başka bir boyutta insanoğlunun güzellik arayışını gözler önüne serer.
 
     <hr />
 1. Aşağıdakilerden hangisi anamorfik tipografide ortaya konulan eserlerin içinde barındırdığı kavramlardan biri **değildir**?
@@ -1517,9 +1441,7 @@
     - D-) Günümüzde sanatçılar bu tekniği atölyelerinde kullanmamaktadır.
     - **Cevap E-) Tipografinin başlangıç noktası sayılan tipo baskı bir yüksek baskı tekniğidir.**
 
-    > **Açıklama:** Tipografinin başlangıç noktası sayılan tipo baskı da bir yüksek baskı tekniğidir. Tipo baskı yüzyıllar boyunca, tek kitap çoğaltım yöntemi olarak basım endüstrisine hizmet etmiş, günümüzde tipo baskının yerini yeni teknolojilere bırakmasıyla sanatçı atölyelerinde kendine yer bulmaya başlamıştır.
-    > 15\. yüzyıl ortalarında Gutenberg tarafından icat edilen tipo baskı, kısa sürede bütün Avrupa ülkelerine yayılmış, geliştirilerek kullanılmış, yüzyıllarca
-    > temel baskı ve çoğaltım yöntemi olarak insanlığın hizmetinde olmuştur. Tarihsel süreçte taşbaskının gelişmesi, soğuk dizgi yöntemleri gibi tipo baskının güç kaybetmesine neden olan gelişmeler olsa da ofset baskının ardından 20. yüzyılın sonlarına doğru, dijital dizgi ve baskı yöntemlerinin sektöre tamamen egemen olmasıyla tipo baskı makineleri terk edilmiştir. “Endüstriyel alandan çekilen tipo baskı yine 20. yüzyılın sonlarından itibaren, kültürel anlamda yaratıcı bir dönüşüm geçirmektedir. Ticari anlamda kullanımdan kalkmasının ardından tipo baskı artan bir hızla küçük atölyelerde, hobi amaçlı ya da ticari çalışmalar yapan bireyler arasında, bazı sanatçı ortamlarında ve üniversitelerde gözle görülür bir yeniden canlanma yaşamaktadır”. "E" seçeneği doğru cevaptır.
+    > **Açıklama:** Tipografinin başlangıç noktası sayılan tipo baskı da bir yüksek baskı tekniğidir. Tipo baskı yüzyıllar boyunca, tek kitap çoğaltım yöntemi olarak basım endüstrisine hizmet etmiş, günümüzde tipo baskının yerini yeni teknolojilere bırakmasıyla sanatçı atölyelerinde kendine yer bulmaya başlamıştır.<br />15\. yüzyıl ortalarında Gutenberg tarafından icat edilen tipo baskı, kısa sürede bütün Avrupa ülkelerine yayılmış, geliştirilerek kullanılmış, yüzyıllarca<br />temel baskı ve çoğaltım yöntemi olarak insanlığın hizmetinde olmuştur. Tarihsel süreçte taşbaskının gelişmesi, soğuk dizgi yöntemleri gibi tipo baskının güç kaybetmesine neden olan gelişmeler olsa da ofset baskının ardından 20. yüzyılın sonlarına doğru, dijital dizgi ve baskı yöntemlerinin sektöre tamamen egemen olmasıyla tipo baskı makineleri terk edilmiştir. “Endüstriyel alandan çekilen tipo baskı yine 20. yüzyılın sonlarından itibaren, kültürel anlamda yaratıcı bir dönüşüm geçirmektedir. Ticari anlamda kullanımdan kalkmasının ardından tipo baskı artan bir hızla küçük atölyelerde, hobi amaçlı ya da ticari çalışmalar yapan bireyler arasında, bazı sanatçı ortamlarında ve üniversitelerde gözle görülür bir yeniden canlanma yaşamaktadır”. "E" seçeneği doğru cevaptır.
 
     <hr />
 1. Aşağıdakilerden hangisi tasarım için doğru **değildir**?
@@ -1679,17 +1601,7 @@
     - D-) Metin yazılarını kontrol etme
     - E-) Sayfa kenar boşlukları ve sınırlarını göz önünde bulundurma
 
-    > **Açıklama:** Conover’e göre, tipografi ile çalışırken etkili bir ürün ortaya koymak için denemeler, araştırmalar ve testlerle ispatlanmış, şu on öneriye uymak gerekir:
-    > * Doğru yazı karakteri kullan,
-    > * Tipografiyi uygun ölçüde diz,
-    > * Harf, kelime ve satır espaslarına dikkat et,
-    > * Sayfa kenar boşlukları ve sınırlarını göz önünde bulundur,
-    > * Doğru yazı ölçüsünü seç,
-    > * Kullandığın yazı karakterlerini dikkatli karıştır,
-    > * Tamamı büyük harfle oluşturulan satırları dikkatli kullan,
-    > * Düzenlemede sıkıcı olma,
-    > * Tuhaf düzenlemelerden kaçın,
-    > * Metin yazılarını kontrol etmeyi unutma
+    > **Açıklama:** Conover’e göre, tipografi ile çalışırken etkili bir ürün ortaya koymak için denemeler, araştırmalar ve testlerle ispatlanmış, şu on öneriye uymak gerekir:<br />* Doğru yazı karakteri kullan,<br />* Tipografiyi uygun ölçüde diz,<br />* Harf, kelime ve satır espaslarına dikkat et,<br />* Sayfa kenar boşlukları ve sınırlarını göz önünde bulundur,<br />* Doğru yazı ölçüsünü seç,<br />* Kullandığın yazı karakterlerini dikkatli karıştır,<br />* Tamamı büyük harfle oluşturulan satırları dikkatli kullan,<br />* Düzenlemede sıkıcı olma,<br />* Tuhaf düzenlemelerden kaçın,<br />* Metin yazılarını kontrol etmeyi unutma
 
     <hr />
 1. Yazının metin özelliğini bozmadan gerçekleştirilen uygulamalara ne ad verilir?
@@ -1709,8 +1621,7 @@
     - D-) Yazı resim
     - E-) Hat sanatı
 
-    > **Açıklama:** Grafitiler yazı ve sanatı birleştiren önemli örneklerdir. Grafiti, sokak sanatının en önemli
-    > parçası ve sokağın dilidir.
+    > **Açıklama:** Grafitiler yazı ve sanatı birleştiren önemli örneklerdir. Grafiti, sokak sanatının en önemli<br />parçası ve sokağın dilidir.
 
     <hr />
 1. Sanat ve tasarımda kullanılan görsel algıyı bakış açısına göre değiştirerek illüzyon yaratan tekniğe ne ad verilir?
@@ -1740,22 +1651,7 @@
     - D-) I, II, III, IV, V
     - E-) III ve V
 
-    > **Açıklama:** Tasarımı tanımlamak da sanatı tanımlamak kadar güçtür. Pek çok yazar, araştırmacı ve bilim
-    > insanı tasarım üzerine araştırmalar yapmış ve tasarım terimini farklı şekillerde tanımlamıştır. Lang ve Hampe, detaylandırılmış bir tanım yerine, literatürdeki tasarımla ilgili bazı ifadeleri aşağıdaki liste
-    > ile özetlemektedir:
-    > • Bir sanat formu
-    > • Uygulamalı bir bilim
-    > • Veri girişi ve çıkışı olan bir süreç
-    > • Hedefe yönelik bir problem çözme ve kararverme etkinliği
-    > • Kasıtlı olarak tasarlanmış ya da üretilmiş bir model
-    > • Yaratıcılık ve hayal gücü
-    > • İhtiyaçların karşılanması
-    > • Çizimler, eskizler, planlar, hesaplamalar
-    > • Üretime, montaja, teste ve diğer süreçlere yönelik öngörü
-    > • Yönetme, öğrenme, planlama ve optimize etme
-    > • Veri toplama ve işleme
-    > • Bilgiyi aktarma ve dönüştürme (Lang ve Hampe, 2010: 3)
-    > I, II, IV, V
+    > **Açıklama:** Tasarımı tanımlamak da sanatı tanımlamak kadar güçtür. Pek çok yazar, araştırmacı ve bilim<br />insanı tasarım üzerine araştırmalar yapmış ve tasarım terimini farklı şekillerde tanımlamıştır. Lang ve Hampe, detaylandırılmış bir tanım yerine, literatürdeki tasarımla ilgili bazı ifadeleri aşağıdaki liste<br />ile özetlemektedir:<br />• Bir sanat formu<br />• Uygulamalı bir bilim<br />• Veri girişi ve çıkışı olan bir süreç<br />• Hedefe yönelik bir problem çözme ve kararverme etkinliği<br />• Kasıtlı olarak tasarlanmış ya da üretilmiş bir model<br />• Yaratıcılık ve hayal gücü<br />• İhtiyaçların karşılanması<br />• Çizimler, eskizler, planlar, hesaplamalar<br />• Üretime, montaja, teste ve diğer süreçlere yönelik öngörü<br />• Yönetme, öğrenme, planlama ve optimize etme<br />• Veri toplama ve işleme<br />• Bilgiyi aktarma ve dönüştürme (Lang ve Hampe, 2010: 3)<br />I, II, IV, V
 
     <hr />
 1. Yazı karakteri tasarımına özgü fiziksel özelliklerle bir harfin diğerinden ayırt edilebilmesi özelliği aşağıdakilerden hangisidir?
@@ -1785,11 +1681,7 @@
     - D-) Ekspresyonist
     - E-) Suprematist
 
-    > **Açıklama:** Şekilli dizeler olarak tanımlanabilecek kaligramların, plastik sanatlar içinde yazının görsel bir eleman
-    > olarak kullanımının ve yaygınlaşmasının önünü açtığı söylenebilir. Yazı/metin Kübist ve Dadaist
-    > kolajlarda görsel bir imge olarak karşımıza çıkarken, Sürrealist çalışmalarda dil ve imge arasındaki
-    > ilişkiyi yıkmıştır. Yirminci yüzyılın ikinci yarısında ise kavramsal çalışmalarda, yazı ve metnin sanatsal
-    > temsilin yerini aldığı görülür. Günümüz sanatında, yazı hem görsel bir imge, hem de dilsel bir ifade aracı olarak karşımıza çıkmaya devam etmektedir”
+    > **Açıklama:** Şekilli dizeler olarak tanımlanabilecek kaligramların, plastik sanatlar içinde yazının görsel bir eleman<br />olarak kullanımının ve yaygınlaşmasının önünü açtığı söylenebilir. Yazı/metin Kübist ve Dadaist<br />kolajlarda görsel bir imge olarak karşımıza çıkarken, Sürrealist çalışmalarda dil ve imge arasındaki<br />ilişkiyi yıkmıştır. Yirminci yüzyılın ikinci yarısında ise kavramsal çalışmalarda, yazı ve metnin sanatsal<br />temsilin yerini aldığı görülür. Günümüz sanatında, yazı hem görsel bir imge, hem de dilsel bir ifade aracı olarak karşımıza çıkmaya devam etmektedir”
 
     <hr />
 1. Aşağıdakilerden hangisi tipografiyi resim sanatına taşıyan sanatçılardan biridir?
@@ -1799,9 +1691,7 @@
     - D-) Edvard Munch
     - E-) Georges Seurat
 
-    > **Açıklama:** Çağdaş sanata yön veren sanat akımlarına göre resim içerisinde yer alan tipografi de farklılaşmıştır.
-    > Tipografiyi resim sanatına taşıyan sanatçılara Joan Miro ve Paul Klee (Ekspresyonizm), Pablo Picasso
-    > ve Georges Braque (Kübizm), Carlo Carra (Fütürizm), Kurt Schwitters, Raoul Hausmann (Dadaizm), Rene Magritte (Sürrealizm), Jasper Johns (Neo-Dada ve Pop Art), Roy Lichtenstein (Pop Art), Stuart Davis (Soyut Sanat) örnek gösterilebilir.
+    > **Açıklama:** Çağdaş sanata yön veren sanat akımlarına göre resim içerisinde yer alan tipografi de farklılaşmıştır.<br />Tipografiyi resim sanatına taşıyan sanatçılara Joan Miro ve Paul Klee (Ekspresyonizm), Pablo Picasso<br />ve Georges Braque (Kübizm), Carlo Carra (Fütürizm), Kurt Schwitters, Raoul Hausmann (Dadaizm), Rene Magritte (Sürrealizm), Jasper Johns (Neo-Dada ve Pop Art), Roy Lichtenstein (Pop Art), Stuart Davis (Soyut Sanat) örnek gösterilebilir.
 
     <hr />
 1. Aşağıdakilerden hangisi Çağdaş Türk ressamları arasında yazının farklı formlarını tuvale aktaran ressamlardan biridir?
@@ -1811,9 +1701,7 @@
     - D-) Neşe Erdok
     - E-) İbrahim Çallı
 
-    > **Açıklama:** ÇağdaşTürk ressamları arasında da yazının farklı formlarını tuvale aktaran pek çok ressam vardır.
-    > Burhan Doğançay, Ergin İnan, Mustafa Horasan ve İsmet Doğan resimlerinde tipografik yaklaşımlar
-    > kullanan sanatçılara örnek gösterilebilir.
+    > **Açıklama:** ÇağdaşTürk ressamları arasında da yazının farklı formlarını tuvale aktaran pek çok ressam vardır.<br />Burhan Doğançay, Ergin İnan, Mustafa Horasan ve İsmet Doğan resimlerinde tipografik yaklaşımlar<br />kullanan sanatçılara örnek gösterilebilir.
 
     <hr />
 1. Tipografiyi insan figürüyle birleştirdiği heykelleri dikkat çeken İspanyol heykeltraş aşağıdakilerden hangisidir?
@@ -1864,8 +1752,7 @@
     - **Cevap D-) Yazı türü**
     - E-) Yazı yüzü
 
-    > **Açıklama:** Yazı karakteri terimi alfabenin özgün bir tasarımını tanımlamak için kullanılır. İngilizce “typeface” terimi için Türkçe kaynaklarda yazı karakteri yanında; yazı tipi, yazı biçimi, yazı yüzü, karşılıkları da kullanılmaktadır.
-    > Yazı türü
+    > **Açıklama:** Yazı karakteri terimi alfabenin özgün bir tasarımını tanımlamak için kullanılır. İngilizce “typeface” terimi için Türkçe kaynaklarda yazı karakteri yanında; yazı tipi, yazı biçimi, yazı yüzü, karşılıkları da kullanılmaktadır.<br />Yazı türü
 
     <hr />
 1. El yazması ya da basılı sayfalarda; bir kelimenin, bölümün veya paragrafın başında metnin geri kalanından daha büyük olarak yazılan ya da dizilen harfe ne ad verilir?
@@ -1905,8 +1792,7 @@
     - D-) Üst ve alt karakterler
     - **Cevap E-) Serif**
 
-    > **Açıklama:** Font (karakter seti), majüskül ve miniskül alfabeler, rakamlar, noktalama işaretleri, bütün semboller, bileşik harfler, üst ve alt karakterler, küçük majüsküller ve aksanlı harflerden oluşan bir settir.
-    > Serif
+    > **Açıklama:** Font (karakter seti), majüskül ve miniskül alfabeler, rakamlar, noktalama işaretleri, bütün semboller, bileşik harfler, üst ve alt karakterler, küçük majüsküller ve aksanlı harflerden oluşan bir settir.<br />Serif
 
     <hr />
 1. Bir yazı karakteri ailesininde harflerin yükseklikleriyle bağlantılı hat kalınlıklarına ne ad verilir?
@@ -1996,8 +1882,7 @@
     - D-) Serif şekli
     - **Cevap E-) Arial**
 
-    > **Açıklama:** Tasarımcıların yazı karakterlerini sınıflandırıp tanımlamakta kullandığı kullanışlı yollar vardır. Bu sınıflandırmalar, kullanım şekli, kullanım yeri, tarihsel süreç, serif şekli, çizim stili, ağırlık, büyüklük, anatomi, boşluklama gibi pek çok farklı kıstas üzerine kuruludur.
-    > Arial
+    > **Açıklama:** Tasarımcıların yazı karakterlerini sınıflandırıp tanımlamakta kullandığı kullanışlı yollar vardır. Bu sınıflandırmalar, kullanım şekli, kullanım yeri, tarihsel süreç, serif şekli, çizim stili, ağırlık, büyüklük, anatomi, boşluklama gibi pek çok farklı kıstas üzerine kuruludur.<br />Arial
 
     <hr />
 1. Aşağıdakilerden hangisi ya da hangileri yazı karakterlerinde, seriflerine göre sınıflandırmada alt grup olarak incelenir?<br />I) Serifsiz olanlar,<br />II) kavisli serifliler (curved serif, braketed serif)<br />III) kare serifliler (slab serif, square serif)<br />IV) düz serifliler (straight serif, flat serif)
@@ -2007,8 +1892,7 @@
     - D-) I, II ve III
     - E-) II ve IV
 
-    > **Açıklama:** Seriflerine göre sınıflandırma yaygın olarak kullanılır. Yazı karakterleri, seriflerine göre genellikle dört alt grup olarak incelenir: Serifsiz olanlar, kavisli serifliler (curved serif, braketed serif), kare serifliler (slab serif, square serif) ve düz serifliler (straight serif, flat serif) (Görsel 5.26). Sadece serif yapısına göre yapılan bu sınıflandırma üzerinde birlik sağlanmamıştır. Yazı karakterlerini, serifli olanlar ve olmayanlar olarak iki gruba ayıranlar olduğu gibi, bu dört kategoriyi alt kategorilere ayırıp çok daha detaylı sınıflandırmalar da yapılır. Seriflerine göre sınıflandırma, yazı karakterlerinin tanınması ve tanımlanması açısından yararlıdır ama yeterli değildir. Tanımlama sadece serif yapısı üzerinden olduğu için başta el yazısı benzerleri olmak üzere, pek çok yazı karakteri tasarımını kapsam dışı bırakır.
-    > Hepsi
+    > **Açıklama:** Seriflerine göre sınıflandırma yaygın olarak kullanılır. Yazı karakterleri, seriflerine göre genellikle dört alt grup olarak incelenir: Serifsiz olanlar, kavisli serifliler (curved serif, braketed serif), kare serifliler (slab serif, square serif) ve düz serifliler (straight serif, flat serif) (Görsel 5.26). Sadece serif yapısına göre yapılan bu sınıflandırma üzerinde birlik sağlanmamıştır. Yazı karakterlerini, serifli olanlar ve olmayanlar olarak iki gruba ayıranlar olduğu gibi, bu dört kategoriyi alt kategorilere ayırıp çok daha detaylı sınıflandırmalar da yapılır. Seriflerine göre sınıflandırma, yazı karakterlerinin tanınması ve tanımlanması açısından yararlıdır ama yeterli değildir. Tanımlama sadece serif yapısı üzerinden olduğu için başta el yazısı benzerleri olmak üzere, pek çok yazı karakteri tasarımını kapsam dışı bırakır.<br />Hepsi
 
     <hr />
 1. Aşağıdakilerden hangisi bir yazı karakteri ailesini tanımlayan özelliklerden biri değildir?
@@ -2068,8 +1952,7 @@
     - D-) Egyptian
     - E-) Square Serif
 
-    > **Açıklama:** Gotik el yazısından baskıya adapte edilen ve ilk yazı karakterleri olma unvanına sahip olan yazılardan oluşur. Bu tür, farklı kaynaklarda “Gothic”, “Text Letter”, “Blackletter”, “Text or Blackletter”,
-    > “Fraktur”, “Broken Letters” ve “Old English” isimlerinden biriyle karşımıza çıkabilir.
+    > **Açıklama:** Gotik el yazısından baskıya adapte edilen ve ilk yazı karakterleri olma unvanına sahip olan yazılardan oluşur. Bu tür, farklı kaynaklarda “Gothic”, “Text Letter”, “Blackletter”, “Text or Blackletter”,<br />“Fraktur”, “Broken Letters” ve “Old English” isimlerinden biriyle karşımıza çıkabilir.
 
     <hr />
 1. Yazı karakteri tasarlamak isteyen kişilere aşağıdakilerden hangisi önerilmez?
@@ -2079,11 +1962,7 @@
     - D-) Eski yazılardaki harf örneklerini günümüze uyarlaması
     - E-) Tarihi sınıflandırmada yer alan türler arası melez harf yaratması
 
-    > **Açıklama:** Haley, yeni harf formu arayışındaki tasarımcılara kaynak olabilecek dört alanı işaret eder:
-    > 1\. Tasarımcı, tipografi tarihini araştırarak henüz keşfedilmemiş kaynaklarına ulaşabilir. Eski yazılara ait harf örneklerini günümüz ihtiyaçlarına göre yeniden yorumlayabilir.
-    > 2\. Yeni teknolojiler tipografik tasarımın sınırlarını genişletip, yeni imkanlar yaratabilir.
-    > 3\. Tarihi sınıflandırmalardaki yazı türleri ve tasarım süreçleri sorgulanarak bu türler arası melez harf biçimleri yaratma çabasına girilebilir.
-    > 4\. Latin alfabesi dışındaki diller için yazı karakteri tasarlamak tipografik ufku genişletecektir
+    > **Açıklama:** Haley, yeni harf formu arayışındaki tasarımcılara kaynak olabilecek dört alanı işaret eder:<br />1\. Tasarımcı, tipografi tarihini araştırarak henüz keşfedilmemiş kaynaklarına ulaşabilir. Eski yazılara ait harf örneklerini günümüz ihtiyaçlarına göre yeniden yorumlayabilir.<br />2\. Yeni teknolojiler tipografik tasarımın sınırlarını genişletip, yeni imkanlar yaratabilir.<br />3\. Tarihi sınıflandırmalardaki yazı türleri ve tasarım süreçleri sorgulanarak bu türler arası melez harf biçimleri yaratma çabasına girilebilir.<br />4\. Latin alfabesi dışındaki diller için yazı karakteri tasarlamak tipografik ufku genişletecektir
 
     <hr />
 1. Kabaca belirlenen ana ölçüleri, keskinleştirip, defalarca test etme zamanı burasıdır. Yazı karakteri tasarım aşamalarından biri olan bu aşama aşağıdakilerden hangisidir?
@@ -2103,8 +1982,7 @@
     - **Cevap D-) Harflerin reklamını yapmak**
     - E-) Kontrol karakterleriyle çalışmak
 
-    > **Açıklama:** Halley (1998: 11) asıl işin tasarım tamamlandıktan sonra başladığını söyler: Bir yazı karakterinin finansal açıdan başarılı olması için paketlenmesi, pazarlanması, reklamının yapılması, dağıtılması
-    > ve teknik destek sağlanması gerekir
+    > **Açıklama:** Halley (1998: 11) asıl işin tasarım tamamlandıktan sonra başladığını söyler: Bir yazı karakterinin finansal açıdan başarılı olması için paketlenmesi, pazarlanması, reklamının yapılması, dağıtılması<br />ve teknik destek sağlanması gerekir
 
     <hr />
 1. Aşağıdakilerden hangisi eskiz geliştirme aşamasında yapılması gereken görevlerden biridir?
@@ -2114,8 +1992,7 @@
     - D-) Minisküller, majüsküller ve noktalama işaretlerinin oluşturulması
     - E-) Harfin pazarlanması, reklamının yapılması ve dağıtılması
 
-    > **Açıklama:** Bu aşamada tüm harfleri çizmek gerekmez, kurgulanan sistemin birkaç harf üzerinde denenmesiyle devam kararı alınabilir. Yakovleva (2021) bu birkaç harfi “kontrol karakterleri” olarak isimlendirir
-    > ve “H”, “n”, “o” ve “y” olarak sıralar.
+    > **Açıklama:** Bu aşamada tüm harfleri çizmek gerekmez, kurgulanan sistemin birkaç harf üzerinde denenmesiyle devam kararı alınabilir. Yakovleva (2021) bu birkaç harfi “kontrol karakterleri” olarak isimlendirir<br />ve “H”, “n”, “o” ve “y” olarak sıralar.
 
     <hr />
 1. "Bu tür, farklı kaynaklarda Antik yazılar ve Hümanistik yazılar isimleriyle de yer alır. Bazı araştırmacılar bu türün alt grupları olan Klasik, Geçiş Dönemi ve Modern olmak üzere ayrı türler olarak ele alırlar." Cümlesinde hangi yazı karakterinden bahsedilmektedir?
@@ -2145,12 +2022,7 @@
     - D-) Tarihi sınıflandırmalardaki yazı türleri ve tasarım süreçleri sorgulanarak bu türler arası melez harf biçimleri yaratma çabasına girilebilir.
     - E-) Latin alfabesi dışındaki diller için yazı karakteri tasarlamak tipografik ufku genişletecektir.
 
-    > **Açıklama:** Haley, yeni harf formu arayışındaki tasarımcılara kaynak olabilecek dört alanı işaret eder:
-    > 1\. Tasarımcı, tipografi tarihini araştırarak henüz keşfedilmemiş kaynaklarına ulaşabilir. Eski yazılara ait harf örneklerini günümüz ihtiyaçlarına göre yeniden yorumlayabilir.
-    > 2\. Yeni teknolojiler tipografik tasarımın sınırlarını genişletip, yeni imkanlar yaratabilir.
-    > 3\. Tarihi sınıflandırmalardaki yazı türleri ve tasarım süreçleri sorgulanarak bu türler arası melez harf biçimleri yaratma çabasına girilebilir.
-    > 4\. Latin alfabesi dışındaki diller için yazı karakteri tasarlamak tipografik ufku genişletecektir (Haley vd. 2012: 51).
-    > Eski yazılara ait harf örneklerini günümüz ihtiyaçlarına göre yeniden yorumlanması uygun olmaz.
+    > **Açıklama:** Haley, yeni harf formu arayışındaki tasarımcılara kaynak olabilecek dört alanı işaret eder:<br />1\. Tasarımcı, tipografi tarihini araştırarak henüz keşfedilmemiş kaynaklarına ulaşabilir. Eski yazılara ait harf örneklerini günümüz ihtiyaçlarına göre yeniden yorumlayabilir.<br />2\. Yeni teknolojiler tipografik tasarımın sınırlarını genişletip, yeni imkanlar yaratabilir.<br />3\. Tarihi sınıflandırmalardaki yazı türleri ve tasarım süreçleri sorgulanarak bu türler arası melez harf biçimleri yaratma çabasına girilebilir.<br />4\. Latin alfabesi dışındaki diller için yazı karakteri tasarlamak tipografik ufku genişletecektir (Haley vd. 2012: 51).<br />Eski yazılara ait harf örneklerini günümüz ihtiyaçlarına göre yeniden yorumlanması uygun olmaz.
 
     <hr />
 1. Aşağıdakilerden hangisi tür dışı yazı karakterlerinden biri değildir?
@@ -2160,8 +2032,7 @@
     - D-) Artistic
     - **Cevap E-) Gotik**
 
-    > **Açıklama:** Tür dışı yazı karakterleri, türlerden birinde yer almayan tüm yazı karakterlerinin dâhil edildiği bir gruptur. Bu grup çeşitli kaynaklarda, Miscellaneous, Novelty, Specialty, Artistic, Period, Fancy ve Ornamental gibi isimlerle karşımıza çıkar.
-    > Gotik
+    > **Açıklama:** Tür dışı yazı karakterleri, türlerden birinde yer almayan tüm yazı karakterlerinin dâhil edildiği bir gruptur. Bu grup çeşitli kaynaklarda, Miscellaneous, Novelty, Specialty, Artistic, Period, Fancy ve Ornamental gibi isimlerle karşımıza çıkar.<br />Gotik
 
     <hr />
 1. Harfleri tasarlarken; temel kılavuz çizgileri kullanılarak, tasarımın karakteristiğini belirleyecek detaylar üzerinde bolca yapılan denemelere ne denir?
@@ -2181,9 +2052,7 @@
     - D-) Genişlik
     - E-) Uzunluk
 
-    > **Açıklama:** Harflerin yükseklikleriyle bağlantılı hat kalınlıkları “ağırlık” olarak isimlendirilir. Ağırlıklar, bir yazı
-    > karakteri ailesi içindeki farklı kalınlıklara sahip çeşitlemelerdir. Normal ağırlıkta bir harfin hat kalınlığı
-    > yaklaşık olarak harf yüksekliğinin 1/7’si kadardır. Bu normal hat kalınlığı, inceltilip kalınlaştırılarak farklı ağırlıklar oluşturulur. Aile içinde oluşturulabilecek temel ağırlıklar ince (light), normal (medium, plain ya da regular) ve kalın (bold) çeşitlemeleridir (Görsel 5.5). Normal ve ince arasına yarı ince (book) ağırlığı eklenebilir ve özellikle metinler için uygun olan ve tercih edilen bir ağırlıktır. Normal ve kalın arasında da yarı kalın (demi, semibold) ağırlığı vardır. Ağırlıktaki çeşitlemeler çok ince (extra light) ve çok kalın (extra bold, ultra bold, ultra/extra black, heavy) ağırlıklarıyla çoğaltılabilir Tasarımcı, kompozisyonu hareketlendirmek, sözcük ya da sözcük grupları üzerinde vurgu yaratmak için farklı ağırlıkları kullanabilir
+    > **Açıklama:** Harflerin yükseklikleriyle bağlantılı hat kalınlıkları “ağırlık” olarak isimlendirilir. Ağırlıklar, bir yazı<br />karakteri ailesi içindeki farklı kalınlıklara sahip çeşitlemelerdir. Normal ağırlıkta bir harfin hat kalınlığı<br />yaklaşık olarak harf yüksekliğinin 1/7’si kadardır. Bu normal hat kalınlığı, inceltilip kalınlaştırılarak farklı ağırlıklar oluşturulur. Aile içinde oluşturulabilecek temel ağırlıklar ince (light), normal (medium, plain ya da regular) ve kalın (bold) çeşitlemeleridir (Görsel 5.5). Normal ve ince arasına yarı ince (book) ağırlığı eklenebilir ve özellikle metinler için uygun olan ve tercih edilen bir ağırlıktır. Normal ve kalın arasında da yarı kalın (demi, semibold) ağırlığı vardır. Ağırlıktaki çeşitlemeler çok ince (extra light) ve çok kalın (extra bold, ultra bold, ultra/extra black, heavy) ağırlıklarıyla çoğaltılabilir Tasarımcı, kompozisyonu hareketlendirmek, sözcük ya da sözcük grupları üzerinde vurgu yaratmak için farklı ağırlıkları kullanabilir
 
     <hr />
 1. Özgün bir tasarımı olan yazı karakterlerinin belli bir stil ve ölçüsündeki harfler, rakamlar, noktalama işaretleri ve sembollerini içeren özellikleri aşağıdakilerden hangisidir?
@@ -2213,8 +2082,7 @@
     - D-) Hat
     - E-) Omurga
 
-    > **Açıklama:** Sap (stem): Sap terimi genel olarak harflerin dikey ana hatlarını tanımlamak için kullanılır. Bu terim
-    > üzerinde fikir birliği yoktur. Bazı kaynaklarda minisküllerin alt uzantıları da “sap” olarak nitelendirilir.
+    > **Açıklama:** Sap (stem): Sap terimi genel olarak harflerin dikey ana hatlarını tanımlamak için kullanılır. Bu terim<br />üzerinde fikir birliği yoktur. Bazı kaynaklarda minisküllerin alt uzantıları da “sap” olarak nitelendirilir.
 
     <hr />
 1. Aşağıdakilerden hangisi harfte uçları boşlukta olmayan yatay hatları tanımlamak için kullanılır?
@@ -2234,8 +2102,7 @@
     - D-) Tür dışı serifliler
     - E-) Düz serifliler
 
-    > **Açıklama:** Yazı karakteri türlerinde üçüncüsü Kare Seriflilerdir. Tür ismini farklı kaynaklarda “Egyptian”, “Square
-    > Serif” ya da “Slab Serif” isimleriyle görmek mümkündür.
+    > **Açıklama:** Yazı karakteri türlerinde üçüncüsü Kare Seriflilerdir. Tür ismini farklı kaynaklarda “Egyptian”, “Square<br />Serif” ya da “Slab Serif” isimleriyle görmek mümkündür.
 
     <hr />
 1. Aşağıdakilerden hangisi miniskül “g”nin üst parçasından dışarıya doğru uzanan küçük hatta verilen isimdir?
@@ -2275,9 +2142,7 @@
     - D-) Gotik
     - E-) Roman
 
-    > **Açıklama:** İnisiyal (İlk, büyük harf): El yazması ya da basılı sayfalarda; bir kelimenin, bölümün
-    > veya paragrafın başında metnin geri kalanından daha büyük olarak yazılan ya da
-    > dizilen harftir.
+    > **Açıklama:** İnisiyal (İlk, büyük harf): El yazması ya da basılı sayfalarda; bir kelimenin, bölümün<br />veya paragrafın başında metnin geri kalanından daha büyük olarak yazılan ya da<br />dizilen harftir.
 
     <hr />
 ## Unite 6
@@ -2388,8 +2253,7 @@
     - D-) Soyut yazı
     - E-) Graffitti
 
-    > **Açıklama:** Resimyazı: Nesnelerin yalınlaştırılmış resimleri ile yazılan yazı, hiyeroglif.
-    > Sorunun doğru cevabı A seçeneğinde verilmiştir.
+    > **Açıklama:** Resimyazı: Nesnelerin yalınlaştırılmış resimleri ile yazılan yazı, hiyeroglif.<br />Sorunun doğru cevabı A seçeneğinde verilmiştir.
 
     <hr />
 1. 1989’da Antik Yunan’da halka açık mimari yapılarda kullanılan yazılardan yola çıkarak “Lithos” adlı yazı karakterini tasarlayan kişi aşağıdakilerden hangisidir?
@@ -2399,8 +2263,7 @@
     - D-) Edward Johnston
     - E-) Paula Scher
 
-    > **Açıklama:** Roma Kapital Yazısı yıllar sonra 1989’da, Chapparal, Myriad gibi pek çok yazı karakterinin de tasarımcısı olan ABD’li Carol Twombly tarafından “Trajan” olarak adlandırılıp yeniden tasarlanarak, günümüz dijital formatına aktarmıştır. Twombly aynı yıl Antik Yunan’da halka açık mimari yapılarda kullanılan yazılardan yola çıkarak “Lithos” adlı yazı karakterini de tasarlamıştır.
-    > Sorunun doğru yanıtı B seçeneğinde verilmiştir.
+    > **Açıklama:** Roma Kapital Yazısı yıllar sonra 1989’da, Chapparal, Myriad gibi pek çok yazı karakterinin de tasarımcısı olan ABD’li Carol Twombly tarafından “Trajan” olarak adlandırılıp yeniden tasarlanarak, günümüz dijital formatına aktarmıştır. Twombly aynı yıl Antik Yunan’da halka açık mimari yapılarda kullanılan yazılardan yola çıkarak “Lithos” adlı yazı karakterini de tasarlamıştır.<br />Sorunun doğru yanıtı B seçeneğinde verilmiştir.
 
     <hr />
 1. M.Ö. 7. yüzyıl civarında Kral Midas için yaptırıldığı düşünülen, Frig dönemine ait, geometrik metinlerin büyük ustalıkla işlendiği ve Kibele heykeline de yer verdiği düşünülen yapı aşağıdakilerden hangisidir?
@@ -2410,8 +2273,7 @@
     - D-) Hattuşaş
     - E-) İncekaya
 
-    > **Açıklama:** Taş üzerine yazı ve motiflerin işlenmiş olduğu başka bir örnek Yazılıkaya’dır. Eskişehir’in Han ilçesinde bulunan, Midas Anıtı olarak adlandırılan ve halk arasında Yazılıkaya olarak bilinen Frig dönemine ait bu anıtın MÖ. 7. yy civarında kral Midas için yaptırıldığı düşünülmektedir. Geometrik motiflerin büyük ustalıkla işlendiği kayanın Kibele heykeline de yer verdiği tahmin edilmektedir. Woodard ve Roller’a göre, yazıtın üst köşesinde yer alan metinde “Ates, bu anıtı halk lideri ve yönetici Midas’a ithaf etmiştir.” yazmaktadır.
-    > Sorunun doğru yanıtı C seçeneğinde verilmiştir.
+    > **Açıklama:** Taş üzerine yazı ve motiflerin işlenmiş olduğu başka bir örnek Yazılıkaya’dır. Eskişehir’in Han ilçesinde bulunan, Midas Anıtı olarak adlandırılan ve halk arasında Yazılıkaya olarak bilinen Frig dönemine ait bu anıtın MÖ. 7. yy civarında kral Midas için yaptırıldığı düşünülmektedir. Geometrik motiflerin büyük ustalıkla işlendiği kayanın Kibele heykeline de yer verdiği tahmin edilmektedir. Woodard ve Roller’a göre, yazıtın üst köşesinde yer alan metinde “Ates, bu anıtı halk lideri ve yönetici Midas’a ithaf etmiştir.” yazmaktadır.<br />Sorunun doğru yanıtı C seçeneğinde verilmiştir.
 
     <hr />
 1. Aşağıdakilerden hangisi tipografik unsurların ve dolayısıyla mesajın nesiller sonrasına kalmasını hedefleyen mimari yapılardandır?
@@ -2421,8 +2283,7 @@
     - **Cevap D-) Anıt**
     - E-) Sinema
 
-    > **Açıklama:** Mağazalar sezonluk mekân grafiklerine ve tipografik ögelere sahipken, okul hastane gibi kurumlar kalıcı tasarımlar barındırırlar; öte yandan anıt gibi mimari yapılar ise tipografik unsurların ve dolayısıyla mesajın nesiller sonrasına kalmasını hedefleyen mimari yapılardır.
-    > Sorunun doğru yanıtı D seçeneğinde verilmiştir.
+    > **Açıklama:** Mağazalar sezonluk mekân grafiklerine ve tipografik ögelere sahipken, okul hastane gibi kurumlar kalıcı tasarımlar barındırırlar; öte yandan anıt gibi mimari yapılar ise tipografik unsurların ve dolayısıyla mesajın nesiller sonrasına kalmasını hedefleyen mimari yapılardır.<br />Sorunun doğru yanıtı D seçeneğinde verilmiştir.
 
     <hr />
 1. Yerleri, mekânları tanımlayan, adını pekiştiren işaretlemeler, tabelalar ve yer imleri (placemaking) ve yer işaretleri (landmark) barındıran tipografi aşağıdakilerden hangisidir?
@@ -2432,8 +2293,7 @@
     - D-) Mimari Tipografi
     - **Cevap E-) Normatif Tipografi**
 
-    > **Açıklama:** Normatif Tipografi: Yerleri, mekânları tanımlayan, adını pekiştiren işaretlemeler, tabelalar ve yer imleri (placemaking) ve yer işaretleri (landmark).
-    > Sorunun doğru yanıtı E seçeneğinde verilmiştir.
+    > **Açıklama:** Normatif Tipografi: Yerleri, mekânları tanımlayan, adını pekiştiren işaretlemeler, tabelalar ve yer imleri (placemaking) ve yer işaretleri (landmark).<br />Sorunun doğru yanıtı E seçeneğinde verilmiştir.
 
     <hr />
 1. Kent ve tipografi söz konusu olduğunda akla gelen en klasik örneklerden biri olan, Los Angeles’taki Santa Monica tepelerinde bulunan, toplam 240 ton ağırlığında ve harflerin yüksekliği ise yaklaşık 14 metreye ulaştığı yazı aşağıdakilerden hangisidir?
@@ -2443,8 +2303,7 @@
     - D-) Warner Brothers
     - **Cevap E-) Hollywood**
 
-    > **Açıklama:** Kent ve tipografi söz konusu olduğunda yine akla gelen en klasik örneklerden biri, aynı zamanda malzeme ve boyutu algılamada önemli bir örnek, Los Angeles’ta bulunan “Hollywood” yazısıdır. Santa Monica tepelerinde bulunan bu şehir simgesi toplam 240 ton ağırlığındadır, harflerin yüksekliği ise yaklaşık 14 metredir. Bu dev tipografik şehir simgesinin yapımı da bir mimarlık ve mühendislik çalışmasını beraberinde getirmiştir.
-    > Sorunun doğru yanıtı E seçeneğinde verilmiştir.
+    > **Açıklama:** Kent ve tipografi söz konusu olduğunda yine akla gelen en klasik örneklerden biri, aynı zamanda malzeme ve boyutu algılamada önemli bir örnek, Los Angeles’ta bulunan “Hollywood” yazısıdır. Santa Monica tepelerinde bulunan bu şehir simgesi toplam 240 ton ağırlığındadır, harflerin yüksekliği ise yaklaşık 14 metredir. Bu dev tipografik şehir simgesinin yapımı da bir mimarlık ve mühendislik çalışmasını beraberinde getirmiştir.<br />Sorunun doğru yanıtı E seçeneğinde verilmiştir.
 
     <hr />
 1. 1965 yılında Total Design firmasından Amsterdam Schiphol havaalanı için bir “güzergâh sistemi” yapması istenmiştir. Yönlendirme tasarımı alanındaki ilk örneklerden birisi olan bu proje kim tarafından yönetilmiştir?
@@ -2454,8 +2313,7 @@
     - **Cevap D-) Benno Wissing**
     - E-) Jules Cheret
 
-    > **Açıklama:** 1965 yılında Total Design firmasından Amsterdam Schiphol havaalanı için bir “güzergâh sistemi” yapması istenmiştir. Benno Wissing tarafından yönetilen bu proje yönlendirme tasarımı alanındaki ilk örneklerden biridir.
-    > Sorunun doğru yanıtı D seçeneğinde verilmiştir.
+    > **Açıklama:** 1965 yılında Total Design firmasından Amsterdam Schiphol havaalanı için bir “güzergâh sistemi” yapması istenmiştir. Benno Wissing tarafından yönetilen bu proje yönlendirme tasarımı alanındaki ilk örneklerden biridir.<br />Sorunun doğru yanıtı D seçeneğinde verilmiştir.
 
     <hr />
 1. \_\_\_\_\_\_\_\_\_\_\_’in New Jersey Performing Arts Center (New Jersey Performans Sanatları Merkezi) için yaptığı tasarım, çevresel grafik tasarım alanında en çok adı geçen tasarım projelerinden biridir. Mimari bir yapının tipografiyle yeniden tanımlanması ve mekânın içerdiklerinin yazınsal olarak dışına taşınmasıyla mekân aynı zamanda kurumsal bir dönem noktası yaşamış, merkeze olan ilgi tasarım sayesinde artmıştır.<br />Yukarıdaki boşluğa aşağıdaki isimlerden hangisinin gelmesi uygun olur?
@@ -2465,8 +2323,7 @@
     - D-) Benno Wissing
     - E-) Jules Cheret
 
-    > **Açıklama:** Paula Scher’in New Jersey Performing Arts Center (New Jersey Performans Sanatları Merkezi) için yaptığı tasarım, çevresel grafik tasarım alanında en çok adı geçen tasarım projelerinden biridir. Mimari bir yapının tipografiyle yeniden tanımlanması ve mekânın içerdiklerinin yazınsal olarak dışına taşınmasıyla mekân aynı zamanda kurumsal bir dönem noktası yaşamış, merkeze olan ilgi tasarım sayesinde artmıştır.
-    > Sorunun doğru yanıtı C seçeneğinde verilmiştir.
+    > **Açıklama:** Paula Scher’in New Jersey Performing Arts Center (New Jersey Performans Sanatları Merkezi) için yaptığı tasarım, çevresel grafik tasarım alanında en çok adı geçen tasarım projelerinden biridir. Mimari bir yapının tipografiyle yeniden tanımlanması ve mekânın içerdiklerinin yazınsal olarak dışına taşınmasıyla mekân aynı zamanda kurumsal bir dönem noktası yaşamış, merkeze olan ilgi tasarım sayesinde artmıştır.<br />Sorunun doğru yanıtı C seçeneğinde verilmiştir.
 
     <hr />
 1. Aşağıdakilerden hangisinin tasarımında altın orandan faydalanılmamıştır?
@@ -2476,8 +2333,7 @@
     - D-) Stonehenge
     - E-) İpod
 
-    > **Açıklama:** Yunanlılar, şehir planlama ve mimaride çoğu yapıda altın oran dikdörtgeni baz almışlardır. Atina’daki Akropolis’in mimarı Phidias (MÖ. 430430), Parthenon Tapınağının mimari Ictinus (MÖ. 400) altın orana çok önem vermiştir. İngiltere’de Stonehenge (MÖ 1500) yine bu oran baz alınarak yapılmıştır. Rönesans sanatçıları resim ve heykellerinde genel bir armoni ve denge yaratmak için kullanmıştır. İtalya’da Antonio Stradivari (1656-1737) aralarında ünlü Stradivarius kemanlarının da olduğu müzik enstrümanlarının yapımında, ABD’de Charles Eames’in 1946’da tasarladığı “LCW Chair” sandalyesine ve 2001’de Jonathan Ive’ın tasarladığı MP3 çalar iPod’a kadar pek çok endüstriyel tasarım da bu oranı kullanır.
-    > Sorunun doğru yanıtı B seçeneğinde verilmiştir.
+    > **Açıklama:** Yunanlılar, şehir planlama ve mimaride çoğu yapıda altın oran dikdörtgeni baz almışlardır. Atina’daki Akropolis’in mimarı Phidias (MÖ. 430430), Parthenon Tapınağının mimari Ictinus (MÖ. 400) altın orana çok önem vermiştir. İngiltere’de Stonehenge (MÖ 1500) yine bu oran baz alınarak yapılmıştır. Rönesans sanatçıları resim ve heykellerinde genel bir armoni ve denge yaratmak için kullanmıştır. İtalya’da Antonio Stradivari (1656-1737) aralarında ünlü Stradivarius kemanlarının da olduğu müzik enstrümanlarının yapımında, ABD’de Charles Eames’in 1946’da tasarladığı “LCW Chair” sandalyesine ve 2001’de Jonathan Ive’ın tasarladığı MP3 çalar iPod’a kadar pek çok endüstriyel tasarım da bu oranı kullanır.<br />Sorunun doğru yanıtı B seçeneğinde verilmiştir.
 
     <hr />
 1. Çevresel grafik tasarım, insan bedeninin hareketleri ve oranlarını hesaba aldığı gibi aynı zamanda neye dair unsurları da hesaba almalıdır?
@@ -2487,8 +2343,7 @@
     - D-) Maddiyat
     - E-) Maneviyat
 
-    > **Açıklama:** Çevresel grafik tasarım, insan bedeninin hareketleri ve oranlarını hesaba aldığı gibi aynı zamanda mekâna dair unsurları da hesaba almalıdır.
-    > Sorunun doğru yanıtı A seçeneğinde verilmiştir.
+    > **Açıklama:** Çevresel grafik tasarım, insan bedeninin hareketleri ve oranlarını hesaba aldığı gibi aynı zamanda mekâna dair unsurları da hesaba almalıdır.<br />Sorunun doğru yanıtı A seçeneğinde verilmiştir.
 
     <hr />
 1. I. Mekânın varlığı, mekânın amacı ve kimliği birbirinden bağımsızdır ve birbirinden ayrı tasarlanır.<br />II. Mimari yapıların estetik bütünlüğü ile doğru malzeme ve teknikleri kullanımı, kaliteli ve özenli işçilik ile birleştiğinde asırlar sonrasına kalan bir kültürel miras hâline gelmektedir.<br />III. Mimarlar ve tasarımcılar bu bireysel ve toplumsal gereksinimlere yönelik yaratıcı çözümler sunar.<br />Yukarıdaki ifadelerden hangisi ya da hangileri doğrudur?
@@ -2688,8 +2543,7 @@
     - **Cevap D-) Serifli**
     - E-) İtalik
 
-    > **Açıklama:** Serifsiz
-    > Uzun blok metinlerde okumayı kolaylaştırıcı küçük tırnakların olduğu yazı karakteri "Serifli" yazılardır.
+    > **Açıklama:** Serifsiz<br />Uzun blok metinlerde okumayı kolaylaştırıcı küçük tırnakların olduğu yazı karakteri "Serifli" yazılardır.
 
     <hr />
 ## Unite 7
@@ -2700,8 +2554,7 @@
     - D-) Harfleme
     - E-) Kaligrafi
 
-    > **Açıklama:** Tipografi, herhangi bir boyut veya uzunluktaki yazılı metin parçası üzerindeki harflerin, kelimelerin ve cümlelerin dizilimi için yazı karakteri tasarlama ve düzenleme tekniğidir.
-    > Sorunun doğru yanıtı A seçeneğinde verilmiştir.
+    > **Açıklama:** Tipografi, herhangi bir boyut veya uzunluktaki yazılı metin parçası üzerindeki harflerin, kelimelerin ve cümlelerin dizilimi için yazı karakteri tasarlama ve düzenleme tekniğidir.<br />Sorunun doğru yanıtı A seçeneğinde verilmiştir.
 
     <hr />
 1. Harfler elle yazılmış ya da yazı karakterleri olarak birileri tarafından tasarlanmış da olsa sanatsal ifade araçlarıdır. Kısacası kaligrafi, harfleme ve tipografi arasındaki temel fark; kaligrafinin harfleri yazma, harflemenin harfleri\_\_\_\_\_\_ ve tipografinin harfleri kullanma/tasarlama sanatı olmasıdır.<br />Yukarıdaki boşluğa aşağıdakilerden hangisinin gelmesi daha uygun olur?
@@ -2711,8 +2564,7 @@
     - D-) Yuvarlama
     - E-) Boyama
 
-    > **Açıklama:** Harfler elle yazılmış ya da yazı karakterleri olarak birileri tarafından tasarlanmış da olsa sanatsal ifade araçlarıdır. Kısacası kaligrafi, harfleme ve tipografi arasındaki temel fark; kaligrafinin harfleri yazma, harflemenin harfleri çizme ve tipografinin harfleri kullanma/tasarlama sanatı olmasıdır.
-    > Sorunun doğru yanıtı B seçeneğinde verilmiştir.
+    > **Açıklama:** Harfler elle yazılmış ya da yazı karakterleri olarak birileri tarafından tasarlanmış da olsa sanatsal ifade araçlarıdır. Kısacası kaligrafi, harfleme ve tipografi arasındaki temel fark; kaligrafinin harfleri yazma, harflemenin harfleri çizme ve tipografinin harfleri kullanma/tasarlama sanatı olmasıdır.<br />Sorunun doğru yanıtı B seçeneğinde verilmiştir.
 
     <hr />
 1. Bütünlüğü, uyumu, dengeyi, ritmi ve ruhu göstermek için güzel ve anlamlı işaretlerle sanat olarak yazma eylemine ne ad verilir?
@@ -2722,8 +2574,7 @@
     - D-) Lettering
     - E-) Harfleme
 
-    > **Açıklama:** Kaligrafi: Bütünlüğü, uyumu, dengeyi, ritmi ve ruhu göstermek için güzel ve anlamlı işaretlerle sanat olarak yazmaktır.
-    > Sorunun doğru yanıtı C seçeneğinde verilmiştir.
+    > **Açıklama:** Kaligrafi: Bütünlüğü, uyumu, dengeyi, ritmi ve ruhu göstermek için güzel ve anlamlı işaretlerle sanat olarak yazmaktır.<br />Sorunun doğru yanıtı C seçeneğinde verilmiştir.
 
     <hr />
 1. Kaligrafinin başlangıcı olarak adlandırılabilecek en eski tarihi hangi uygarlığa temellendirmek mümkündür?
@@ -2733,8 +2584,7 @@
     - **Cevap D-) Mısır**
     - E-) Hindistan
 
-    > **Açıklama:** Kaligrafinin başlangıcı olarak adlandırılabilecek en eski tarihini Mısır Uygarlığına temellendirmek mümkündür.
-    > Sorunun doğru cevabı D seçeneğinde verilmiştir.
+    > **Açıklama:** Kaligrafinin başlangıcı olarak adlandırılabilecek en eski tarihini Mısır Uygarlığına temellendirmek mümkündür.<br />Sorunun doğru cevabı D seçeneğinde verilmiştir.
 
     <hr />
 1. Mısır’da M.Ö. VII. yüzyılda günlük işlerde kullanılan halk yazısına verilen isim aşağıdakilerden hangisidir?
@@ -2744,8 +2594,7 @@
     - D-) Tipografik yazı
     - **Cevap E-) Demotik yazı**
 
-    > **Açıklama:** Demotik yazı: Mısır’da M.Ö. VII. yüzyılda günlük işlerde kullanılan halk yazısına verilen isimdir.
-    > Sorunun doğru yanıtı E seçeneğinde verilmiştir.
+    > **Açıklama:** Demotik yazı: Mısır’da M.Ö. VII. yüzyılda günlük işlerde kullanılan halk yazısına verilen isimdir.<br />Sorunun doğru yanıtı E seçeneğinde verilmiştir.
 
     <hr />
 1. El yazısında ustalaşmak için öğrenilmesi gereken en önemli beceri aşağıdakilerden hangisidir?
@@ -2755,8 +2604,7 @@
     - D-) Çizgi kalınlığı
     - **Cevap E-) Çizgi ağırlığı**
 
-    > **Açıklama:** El yazısında ustalaşmak için öğrenilmesi gereken en önemli beceri, çizgi ağırlığıdır. Çizgi ağırlığı, bir çizginin kalınlığını veya inceliğini ifade eder. Basınç fazla ise çizgi kalın, basınç az ise çizgi incedir.
-    > Sorunun doğru yanıtı E seçeneğinde verilmiştir.
+    > **Açıklama:** El yazısında ustalaşmak için öğrenilmesi gereken en önemli beceri, çizgi ağırlığıdır. Çizgi ağırlığı, bir çizginin kalınlığını veya inceliğini ifade eder. Basınç fazla ise çizgi kalın, basınç az ise çizgi incedir.<br />Sorunun doğru yanıtı E seçeneğinde verilmiştir.
 
     <hr />
 1. Elle yazılmayan, bunun yerine çizilmiş, boyanmış, oyulmuş veya kesilmiş belirli bir tek kullanımlık tasarlanmış metine ne ad verilir?
@@ -2766,8 +2614,7 @@
     - **Cevap D-) Harfleme**
     - E-) Kaligrafi
 
-    > **Açıklama:** Harfleme: Elle yazılmayan, bunun yerine çizilmiş, boyanmış, oyulmuş veya kesilmiş belirli bir tek kullanımlık tasarlanmış metindir.
-    > Sorunun doğru yanıtı D seçeneğinde verilmiştir.
+    > **Açıklama:** Harfleme: Elle yazılmayan, bunun yerine çizilmiş, boyanmış, oyulmuş veya kesilmiş belirli bir tek kullanımlık tasarlanmış metindir.<br />Sorunun doğru yanıtı D seçeneğinde verilmiştir.
 
     <hr />
 1. Aşağıdakilerden hangisi harfleme çalışmaya başlarken gereken araçlardan birisi değildir?
@@ -2777,8 +2624,7 @@
     - D-) Silgi
     - E-) Cetvel
 
-    > **Açıklama:** Harfleme çalışmaya başlarken gereken araçlar sadece bir kalem, kâğıt, silgi ve cetveldir.
-    > Sorunun doğru yanıtı C seçeneğinde verilmiştir.
+    > **Açıklama:** Harfleme çalışmaya başlarken gereken araçlar sadece bir kalem, kâğıt, silgi ve cetveldir.<br />Sorunun doğru yanıtı C seçeneğinde verilmiştir.
 
     <hr />
 1. Harfleri, rakamları yazıları, bunların tasarım, ölçü, stil, ağırlık ve düzenlemeleri ile ilgili konuları kapsayan grafik tasarımın bir alt dalına ne ad verilir?
@@ -2788,8 +2634,7 @@
     - D-) Hat sanatı
     - E-) Brush Pen
 
-    > **Açıklama:** Tipografi, harfleri, rakamları yazıları, bunların tasarım, ölçü, stil, ağırlık ve düzenlemeleri ile ilgili konuları kapsayan grafik tasarımın bir alt dalıdır.
-    > Sorunun doğru yanıtı B seçeneğinde verilmiştir.
+    > **Açıklama:** Tipografi, harfleri, rakamları yazıları, bunların tasarım, ölçü, stil, ağırlık ve düzenlemeleri ile ilgili konuları kapsayan grafik tasarımın bir alt dalıdır.<br />Sorunun doğru yanıtı B seçeneğinde verilmiştir.
 
     <hr />
 1. Bilinen ilk alfabe aşağıdakilerden hangisidir?
@@ -2799,8 +2644,7 @@
     - D-) Latin Alfabesi
     - E-) Roma Alfabesi
 
-    > **Açıklama:** Bilinen ilk alfabe, en eski yazıtlarda Proto-Kenan (Protocanaanite) alfabesidir. Bu alfabedeki karakterler, erken Mısır hiyerogliflerinden türetilmiştir ve her biri bir ünsüzü temsil etmektedir.
-    > Sorunun doğru yanıtı A seçeneğinde verilmiştir.
+    > **Açıklama:** Bilinen ilk alfabe, en eski yazıtlarda Proto-Kenan (Protocanaanite) alfabesidir. Bu alfabedeki karakterler, erken Mısır hiyerogliflerinden türetilmiştir ve her biri bir ünsüzü temsil etmektedir.<br />Sorunun doğru yanıtı A seçeneğinde verilmiştir.
 
     <hr />
 1. Konuşma dilindeki seslerin, harfler aracılığı ile somutlaştırılan görsel sembollerine ne ad verilir?
@@ -2900,8 +2744,7 @@
     - D-) İleri Kaligrafi
     - E-) İleri Harfleme
 
-    > **Açıklama:** Grafik tasarımın en önemli dallarından olan tipografi, düzenlenmiş yazı yoluyla iletişim kurma sanatıdır; yani grafik tasarımın temel çalışma alanı
-    > içinde yer alan sonsuz bir evrendir. Aynı zamanda tipografi, yazıyla ilgilenen ve yazının okunurluğunu arttırmaya yönelik araştırmalar yapan bir disiplindir. Kavramsal problemler grafik tasarıma dönüştürülürken görsel dilin çözümüne katkı sunar. Yazılacak yazı için seçilen karakter, düzenlenmesi, bölümlendirilmesi, rengi ve tasarımın konusu çok önemlidir. Çünkü tipografi sanatı, sayısız biçimsel oyun arasında yapılan doğru bir seçimin yardımıyla metnin yorumlanıp düzenlenmesine dayanır. Doğru cevap A'dır.
+    > **Açıklama:** Grafik tasarımın en önemli dallarından olan tipografi, düzenlenmiş yazı yoluyla iletişim kurma sanatıdır; yani grafik tasarımın temel çalışma alanı<br />içinde yer alan sonsuz bir evrendir. Aynı zamanda tipografi, yazıyla ilgilenen ve yazının okunurluğunu arttırmaya yönelik araştırmalar yapan bir disiplindir. Kavramsal problemler grafik tasarıma dönüştürülürken görsel dilin çözümüne katkı sunar. Yazılacak yazı için seçilen karakter, düzenlenmesi, bölümlendirilmesi, rengi ve tasarımın konusu çok önemlidir. Çünkü tipografi sanatı, sayısız biçimsel oyun arasında yapılan doğru bir seçimin yardımıyla metnin yorumlanıp düzenlenmesine dayanır. Doğru cevap A'dır.
 
     <hr />
 1. Aşağıdaki seçeneklerden hangisi harfin görselini tasarlama işlemine verilen addır?
@@ -2911,8 +2754,7 @@
     - D-) Litografi
     - E-) Hiyeroglif
 
-    > **Açıklama:** GİRİŞ
-    > Harfin görselini tasarlama işlemine tipografi denir. Doğru yanıta seçeneğidir.
+    > **Açıklama:** GİRİŞ<br />Harfin görselini tasarlama işlemine tipografi denir. Doğru yanıta seçeneğidir.
 
     <hr />
 1. Elle güzel harfler oluşturma ve bunların bütünlük, uyum, denge ve ritim içeren sözcükleri yazacak şekilde düzenlemesi süreci aşağıdakilerden hangisidir?
@@ -2922,8 +2764,7 @@
     - D-) Litografi
     - E-) İllüstrasyon
 
-    > **Açıklama:** KALİGRAFİ
-    > Kaligrafi sanatı, elle güzel harfler oluşturma ve bunları bütünlük, uyum, denge ve ritim içeren sözcükleri yazacak şekilde düzenlemenin sanatsal sürecidir. Doğru yanıt b seçeneğidir.
+    > **Açıklama:** KALİGRAFİ<br />Kaligrafi sanatı, elle güzel harfler oluşturma ve bunları bütünlük, uyum, denge ve ritim içeren sözcükleri yazacak şekilde düzenlemenin sanatsal sürecidir. Doğru yanıt b seçeneğidir.
 
     <hr />
 1. Kaligrafinin başlangıcı olarak kabul edilen uygarlık aşağıdakilerden hangisidir?
@@ -2933,8 +2774,7 @@
     - D-) Sümer
     - E-) Mezapotamya
 
-    > **Açıklama:** Kaligrafinin Farklı Kültürlerdeki Yolculuğu
-    > Doğru yanıt Mısır c seçeneğidir.
+    > **Açıklama:** Kaligrafinin Farklı Kültürlerdeki Yolculuğu<br />Doğru yanıt Mısır c seçeneğidir.
 
     <hr />
 1. Mısır’da M.Ö. VII. yüzyılda günlük işlerde kullanılan halk yazısına verilen isim aşağıdakilerden hangisidir?
@@ -2944,8 +2784,7 @@
     - **Cevap D-) Demotik yazı**
     - E-) Blackletter
 
-    > **Açıklama:** Kaligrafinin Farklı Kültürlerdeki Yolculuğu
-    > Doğru yanıt d seçeneğidir.
+    > **Açıklama:** Kaligrafinin Farklı Kültürlerdeki Yolculuğu<br />Doğru yanıt d seçeneğidir.
 
     <hr />
 1. Hiyeroglif yazıdaki temellere dayanarak oluşan, yuvarlak hatlı formel resim yazısı aşağıdakilerden hangisidir?
@@ -2955,8 +2794,7 @@
     - D-) Blackletter
     - **Cevap E-) Hiyeratik yazı**
 
-    > **Açıklama:** Kaligrafinin Farklı Kültürlerdeki Yolculuğu
-    > Doğru yanıt e seçeneğidir.
+    > **Açıklama:** Kaligrafinin Farklı Kültürlerdeki Yolculuğu<br />Doğru yanıt e seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi 19. yüzyıl yazı ustalarından değildir?
@@ -2966,8 +2804,7 @@
     - D-) Eric Gill
     - E-) Stanley Morison
 
-    > **Açıklama:** Kaligrafinin Farklı Kültürlerdeki Yolculuğu
-    > Doğru yanıt a seçeneğidir.
+    > **Açıklama:** Kaligrafinin Farklı Kültürlerdeki Yolculuğu<br />Doğru yanıt a seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi Osmanlı Döneminde Hattat Amasyalı Şeyh Hamdullah tarafından üretilen yazı çeşitlerinden değildir?
@@ -2977,8 +2814,7 @@
     - D-) Rık’a
     - E-) Divani
 
-    > **Açıklama:** Kaligrafinin Farklı Kültürlerdeki Yolculuğu
-    > Doğru yanıt b seçeneğidir.
+    > **Açıklama:** Kaligrafinin Farklı Kültürlerdeki Yolculuğu<br />Doğru yanıt b seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi Arap alfabesini belli kurallara bağlı kalarak güzel bir şekilde yazma sanatına verilen isimdir?
@@ -2988,8 +2824,7 @@
     - D-) Demotik yazı
     - E-) Copperplate
 
-    > **Açıklama:** Kaligrafinin Farklı Kültürlerdeki Yolculuğu
-    > Doğru yanıt c seçeneğidir.
+    > **Açıklama:** Kaligrafinin Farklı Kültürlerdeki Yolculuğu<br />Doğru yanıt c seçeneğidir.
 
     <hr />
 1. Aşağıdaki seçeneklerden hangisi geleneksel kaligrafi örneklerindendir?
@@ -2999,8 +2834,7 @@
     - **Cevap D-) Italic**
     - E-) Kaligrafütürizm
 
-    > **Açıklama:** Kaligrafinin Yazılış Biçimleri
-    > Doğru yanıt d seçeneğidir.
+    > **Açıklama:** Kaligrafinin Yazılış Biçimleri<br />Doğru yanıt d seçeneğidir.
 
     <hr />
 1. "Elle yazılmayan, bunun yerine çizilmiş, boyanmış, oyulmuş veya kesilmiş belirli bir tek kullanımlık tasarlanmış metindir" ifadesini aşağıdaki seçeneklerden hangisi açıklar?
@@ -3010,8 +2844,7 @@
     - D-) Blackletter
     - **Cevap E-) Harfleme**
 
-    > **Açıklama:** HARFLEME (LETTERING)
-    > Doğru yanıt e seçeneğidir.
+    > **Açıklama:** HARFLEME (LETTERING)<br />Doğru yanıt e seçeneğidir.
 
     <hr />
 1. ".................. bir yazı sanatıdır, yani harfler baştan sona yazılır; ..................... ise daha çok harflerin gösterimidir" cümlesinin doğru bir şekilde tamamlanması için boşluklara sırasıyla aşağıdakilerden hangisi gelmelidir?
@@ -3031,9 +2864,7 @@
     - **Cevap D-) I, III, IV**
     - E-) I, II, III, IV
 
-    > **Açıklama:** "Kaligrafi, kültürel ve tarihî mirasının toplamı hakkında bir açıklama yapar. Yalnızca yazılı anlamı aracılığıyla bilgi sağlamakla kalmaz, aynı zamanda doğal resimsel güçleri
-    > aracılığıyla da doğrudan iletişim kurar. **Özünde kaligrafi sanatı, tasarımdan çok, güzel sanatlara yakındır.** Yani zaman zaman harflerin okunabilirliğinin tehlikeye atılabileceği görsel bir sanattır. Sanatsal kaligrafinin varmak istediği sonuçta artık kelimenin okunurluğu önemli değil, sadece harflerin süslemeleri, incelikleri ve dekoratif kalitesi önem taşır. Kaligrafi sayesinde orantı, pozitif ve negatif boşluk, derinlik algısı ve ışık hakkında bilgi edinilir" (s.196).
-    > Buna göre sadece II. madde yanlış olup cevap d seçeneğidir.
+    > **Açıklama:** "Kaligrafi, kültürel ve tarihî mirasının toplamı hakkında bir açıklama yapar. Yalnızca yazılı anlamı aracılığıyla bilgi sağlamakla kalmaz, aynı zamanda doğal resimsel güçleri<br />aracılığıyla da doğrudan iletişim kurar. **Özünde kaligrafi sanatı, tasarımdan çok, güzel sanatlara yakındır.** Yani zaman zaman harflerin okunabilirliğinin tehlikeye atılabileceği görsel bir sanattır. Sanatsal kaligrafinin varmak istediği sonuçta artık kelimenin okunurluğu önemli değil, sadece harflerin süslemeleri, incelikleri ve dekoratif kalitesi önem taşır. Kaligrafi sayesinde orantı, pozitif ve negatif boşluk, derinlik algısı ve ışık hakkında bilgi edinilir" (s.196).<br />Buna göre sadece II. madde yanlış olup cevap d seçeneğidir.
 
     <hr />
 1. Kaligrafinin başlangıcı hangi uygarlığa dayanmaktadır?
@@ -3063,13 +2894,7 @@
     - D-) d
     - E-) g
 
-    > **Açıklama:** Harfler benzer gövde yapılarına göre aşağıda gruplandırılmıştır (s.202):
-    > Düz harfler: i, l, t, f**,**
-    > Çatallı harfler: n, m, h, b, p, k, r
-    > Ters çatallı harfler: u, y, a, d, g, q
-    > Oval harfler: o, c, e
-    > Çapraz harfler: s, v, w, x,
-    > Buna göre o harfi oval harf olup cevap c seçeneğidir.
+    > **Açıklama:** Harfler benzer gövde yapılarına göre aşağıda gruplandırılmıştır (s.202):<br />Düz harfler: i, l, t, f**,**<br />Çatallı harfler: n, m, h, b, p, k, r<br />Ters çatallı harfler: u, y, a, d, g, q<br />Oval harfler: o, c, e<br />Çapraz harfler: s, v, w, x,<br />Buna göre o harfi oval harf olup cevap c seçeneğidir.
 
     <hr />
 1. Elle yazılmayan, bunun yerine çizilmiş, boyanmış, oyulmuş veya kesilmiş belirli bir tek kullanımlık tasarlanmış metine ne ad verilmektedir?
@@ -3089,9 +2914,7 @@
     - D-) Harflerin ve kelimelerin oluşturduğu temel vuruşlar, kaligrafiden farklıdır.
     - E-) Tasarlanan veya çizilen bu çalışmalardan el yazısı alfabesi oluşturulduğunda, farklı durumlarda kullanılmaması gerekir.
 
-    > **Açıklama:** "Harfleme, temel olarak, bir klavye kullanarak yazmak yerine, gerektiği kadar araştırma eskizleri yaparak harfleri çizmektir. Her harfin benzersiz bir stili vardır. Tasarlanan veya çizilen bu çalışmalardan el yazısı alfabesi oluşturulduğunda, farklı durumlarda kullanılmaması gerekir. Oluşturulan alfabe, belirli projeye ve yalnızca o projeye en uygun
-    > şekilde geliştirilmiş bir sonucudur. Çünkü harflerin ve kelimelerin oluşturduğu temel vuruşlar, kaligrafiden farklıdır. **Kaligrafinin aksine, sanatçı veya tasarımcı, elle yazılan harfler üzerinde daha fazla kontrole sahiptir.** Sonuçta, harflemede harfler çizilir ve geleneksel görünümlü harflerden, karmaşık, ayrıntılı ve çok açık olmayan görüntülere kadarbirçok şekil ve boyut alabilir. Herhangi bir tarzda, herhangi bir malzemede, herhangi bir medya ile yapılarak bitirilebilir. Bazen harfler, tasarıma uyacak şekilde bükülür, gerilir veya farklı şekillerde değiştirilir ancak tasarlama aşamasında dijital ortamda bir program kullanılarak yapılamaz" (s.206-207).
-    > Buna göre cevap b seçeneğidir.
+    > **Açıklama:** "Harfleme, temel olarak, bir klavye kullanarak yazmak yerine, gerektiği kadar araştırma eskizleri yaparak harfleri çizmektir. Her harfin benzersiz bir stili vardır. Tasarlanan veya çizilen bu çalışmalardan el yazısı alfabesi oluşturulduğunda, farklı durumlarda kullanılmaması gerekir. Oluşturulan alfabe, belirli projeye ve yalnızca o projeye en uygun<br />şekilde geliştirilmiş bir sonucudur. Çünkü harflerin ve kelimelerin oluşturduğu temel vuruşlar, kaligrafiden farklıdır. **Kaligrafinin aksine, sanatçı veya tasarımcı, elle yazılan harfler üzerinde daha fazla kontrole sahiptir.** Sonuçta, harflemede harfler çizilir ve geleneksel görünümlü harflerden, karmaşık, ayrıntılı ve çok açık olmayan görüntülere kadarbirçok şekil ve boyut alabilir. Herhangi bir tarzda, herhangi bir malzemede, herhangi bir medya ile yapılarak bitirilebilir. Bazen harfler, tasarıma uyacak şekilde bükülür, gerilir veya farklı şekillerde değiştirilir ancak tasarlama aşamasında dijital ortamda bir program kullanılarak yapılamaz" (s.206-207).<br />Buna göre cevap b seçeneğidir.
 
     <hr />
 1. " ................................ ise harfler arasında doğru boşluk bırakılması sayesinde, yüksek düzeyde okunabilirlik sağlanmasına yarar" cümlesindeki boşluğa aşağıdakilerden hangisinin gelmesi doğru olur?
@@ -3142,8 +2965,7 @@
     - D-) Bir topluluğun resmî dili olmayan sözlü bir lehçeye atıfta bulunur.
     - **Cevap E-) Sıradan konuşmadan ziyade resmî yazıda meydana gelen bir ifade şeklidir.**
 
-    > **Açıklama:** Vernaküler: Yerel bir dil, ifade veya ifade şekli; resmî yazıdan ziyade sıradan konuşmada meydana gelen bir ifade veya ifade şekli; bir dönemin, yerin veya grubun özelliği.
-    > Sıradan konuşmadan ziyade resmî yazıda meydana gelen bir ifade şeklidir.
+    > **Açıklama:** Vernaküler: Yerel bir dil, ifade veya ifade şekli; resmî yazıdan ziyade sıradan konuşmada meydana gelen bir ifade veya ifade şekli; bir dönemin, yerin veya grubun özelliği.<br />Sıradan konuşmadan ziyade resmî yazıda meydana gelen bir ifade şeklidir.
 
     <hr />
 1. Bir kaya, taş üzerine yapılan oyma veya yazıtlara ne ad verilir?
@@ -3233,9 +3055,7 @@
     - **Cevap D-) Bütün dönemleri kapsayan yaşantı**
     - E-) Yerel bir ifade şekli
 
-    > **Açıklama:** Vernaküler: Yerel bir dil, ifade veya ifade şekli; resmî yazıdan ziyade sıradan konuşmada meydana
-    > gelen bir ifade veya ifade şekli; bir dönemin, yerin veya grubun özelliği.
-    > Bütün dönemleri kapsayan yaşantı
+    > **Açıklama:** Vernaküler: Yerel bir dil, ifade veya ifade şekli; resmî yazıdan ziyade sıradan konuşmada meydana<br />gelen bir ifade veya ifade şekli; bir dönemin, yerin veya grubun özelliği.<br />Bütün dönemleri kapsayan yaşantı
 
     <hr />
 1. Vernaküler kavramı ilk başlarda hangi Güzel Sanatlar Alanında görülmeye başlamıştır?
@@ -3255,8 +3075,7 @@
     - D-) Cam yazısı
     - **Cevap E-) Rölyef (Kabartma)**
 
-    > **Açıklama:** Fırça tabela, apartman isimliği, uyarı levhası, duvar yazısı, cam yazısı, afiş ve efemera üzerindeki harflemeler, vernaküler tipografi kapsamında değerlendirilebilir.
-    > Rölyef (Kabartma)
+    > **Açıklama:** Fırça tabela, apartman isimliği, uyarı levhası, duvar yazısı, cam yazısı, afiş ve efemera üzerindeki harflemeler, vernaküler tipografi kapsamında değerlendirilebilir.<br />Rölyef (Kabartma)
 
     <hr />
 1. Postmodern kültürün ürünlerinde, farklı özelliklerle ayırt edilme eğilimindedir. Aşağıdakilerden hangisi bu eğilimlerden **değildir?**
@@ -3266,8 +3085,7 @@
     - D-) Çoğulculuk
     - E-) Biçim kirliliği
 
-    > **Açıklama:** “postmodern kültürün ürünleri, parçalanma, biçim kirliliği, derinliksizlik, belirsizlik, metinler arasılık, çoğulculuk, eklektizm ve vernakülere dönüş gibi özelliklerle ayırt edilme eğilimindedir”.
-    > Bütünlük
+    > **Açıklama:** “postmodern kültürün ürünleri, parçalanma, biçim kirliliği, derinliksizlik, belirsizlik, metinler arasılık, çoğulculuk, eklektizm ve vernakülere dönüş gibi özelliklerle ayırt edilme eğilimindedir”.<br />Bütünlük
 
     <hr />
 1. Görsel iletişim tasarımında Vernaküler tasarımda önemli rolü olup, günlük iletişimde kullanılan vernaküler harflerden bir tipografi türü tanımlar. Ona göre, “görsel iletişim tasarımının kendine özgü lehçeleri veya yerel biçimleri vardır” diyen bu tasarımcı aşağıdakilerden hangisidir?
@@ -3277,10 +3095,7 @@
     - D-) Michael Bierut
     - E-) Kerrie Jacobs
 
-    > **Açıklama:** Vernakülerin görsel iletişim tasarımındaki yerinin sağlamlaşmasında Tibor Kalman’ın rolü önemlidir.
-    > Kalman, yaptığı çalışmalarla günlük iletişimde kullanılan vernaküler harflerden bir tipografi türü
-    > tanımlar. Ona göre, görsel iletişim tasarımının herhangi bir dil veya iletişim aracı gibi resmî olmayan,
-    > kendine özgü lehçeleri veya yerel biçimleri vardır.
+    > **Açıklama:** Vernakülerin görsel iletişim tasarımındaki yerinin sağlamlaşmasında Tibor Kalman’ın rolü önemlidir.<br />Kalman, yaptığı çalışmalarla günlük iletişimde kullanılan vernaküler harflerden bir tipografi türü<br />tanımlar. Ona göre, görsel iletişim tasarımının herhangi bir dil veya iletişim aracı gibi resmî olmayan,<br />kendine özgü lehçeleri veya yerel biçimleri vardır.
 
     <hr />
 1. Tasarımcı tavrının ve grafik tasarım mesleğinin ticari boyuttaki ilişkiye başka bir pencereden bakarak küreselleşmenin kültürel özellikleri göstermek, Vernaküler tasarımın sorumluluğu olarak tanımlayan tasarımcı ağıdakilerden hangisidir?
@@ -3310,8 +3125,7 @@
     - D-) George Tscherny
     - **Cevap E-) Louise Fili**
 
-    > **Açıklama:** **Fili;** renk, imge ve yazı seçimleriyle modernizmin reddettiği tüm unsurları çalışmalarına yansıtır. Vernaküleri yalnız tasarımlarında kullanmakla kalmayıp aynı zamanda Torino, Barselona ve Paris gibi kentlerin tipografik mirasını gözler önüne seren kitaplar da hazırlamıştır.
-    > Louise Fili
+    > **Açıklama:** **Fili;** renk, imge ve yazı seçimleriyle modernizmin reddettiği tüm unsurları çalışmalarına yansıtır. Vernaküleri yalnız tasarımlarında kullanmakla kalmayıp aynı zamanda Torino, Barselona ve Paris gibi kentlerin tipografik mirasını gözler önüne seren kitaplar da hazırlamıştır.<br />Louise Fili
 
     <hr />
 1. Tarihte insan eliyle yapılan ürünleri ham madde olarak alıntılar ya da örnek alır. Onun için eski matbaa kataloglarında, yazı numunelerinde ve diğer endüstriyel efemeralardaki eserleri keşfetmek, bir firavunun mezarını ortaya çıkarmak gibidir. Bu tasarımcı aşağıdakilerden hangisidir?
@@ -3321,8 +3135,7 @@
     - D-) Karrie Jacobs
     - E-) Barry Deck
 
-    > **Açıklama:** **Anderson,** tarihte insan eliyle yapılan ürünleri ham madde olarak alıntılar ya da örnek alır (Heller ve Vienne, 2016, s. 16). Onun için eski matbaa kataloglarında, yazı numunelerinde ve diğer endüstriyel efemeralardaki eserleri keşfetmek, bir firavunun mezarını ortaya çıkarmak gibidir.
-    > Charles Spencer Anderson
+    > **Açıklama:** **Anderson,** tarihte insan eliyle yapılan ürünleri ham madde olarak alıntılar ya da örnek alır (Heller ve Vienne, 2016, s. 16). Onun için eski matbaa kataloglarında, yazı numunelerinde ve diğer endüstriyel efemeralardaki eserleri keşfetmek, bir firavunun mezarını ortaya çıkarmak gibidir.<br />Charles Spencer Anderson
 
     <hr />
 1. Tasarım yaklaşımı olarak Vernaküler ile nostalji birbirine karıştırılmamalıdır. Aşağıdakilerden hangisi Vernaküler yaklaşım **değildir?**
@@ -3332,8 +3145,7 @@
     - D-) Yerel ve sıradanlık
     - E-) Bir dönemin ifade şekli
 
-    > **Açıklama:** Tasarım yaklaşımı olarak vernaküler ile nostalji birbirine karıştırılmamalıdır. Vernaküler yaklaşım, yerel/sıradan insanlar/zanaatkârlar tarafından yapılan ve belirli bir bölgeye özgü üretilmiş ürünleri/eserleri yeni çalışmalar için esin kaynağı olarak kullanmayı kapsarken nostalji, belirli bir duyguyu ortaya çıkarmak amacıyla geçmiş akımların/üslupların sahip olduğu görsel ifade biçimlerinin doğrudan aktarılmasıdır.
-    > Geçmişi doğrudan aktarma
+    > **Açıklama:** Tasarım yaklaşımı olarak vernaküler ile nostalji birbirine karıştırılmamalıdır. Vernaküler yaklaşım, yerel/sıradan insanlar/zanaatkârlar tarafından yapılan ve belirli bir bölgeye özgü üretilmiş ürünleri/eserleri yeni çalışmalar için esin kaynağı olarak kullanmayı kapsarken nostalji, belirli bir duyguyu ortaya çıkarmak amacıyla geçmiş akımların/üslupların sahip olduğu görsel ifade biçimlerinin doğrudan aktarılmasıdır.<br />Geçmişi doğrudan aktarma
 
     <hr />
 1. Aşağıdaki isimlerden hangisi vernaküler kavramını ilk kullanandır?
@@ -3343,8 +3155,7 @@
     - D-) Lupton
     - E-) Dean
 
-    > **Açıklama:** GİRİŞ
-    > Doğru yanıt a seçeneğidir.
+    > **Açıklama:** GİRİŞ<br />Doğru yanıt a seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi başlangıçta kullanıldıktan sonra atılması amaçlanarak üretilen ancak koleksiyon hâline gelen afiş, broşür ve bilet gibi kâğıt ögeler için kullanılır?
@@ -3354,8 +3165,7 @@
     - D-) Pastiş
     - E-) Kitsch
 
-    > **Açıklama:** VERNAKÜLER TİPOGRAFİ VE GÖRSEL İLETİŞİM TASARIMINDA VERNAKÜLER KAVRAMI
-    > Doğru yanıt b seçeneğidir.
+    > **Açıklama:** VERNAKÜLER TİPOGRAFİ VE GÖRSEL İLETİŞİM TASARIMINDA VERNAKÜLER KAVRAMI<br />Doğru yanıt b seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi bir kaya, taş üzerine yapılan oyma veya yazıta verilen isimdir?
@@ -3365,8 +3175,7 @@
     - D-) Pastiş
     - E-) Retro
 
-    > **Açıklama:** GÖRSEL İLETİŞİM TASARIMINDA VERNAKÜLER
-    > Doğru yanıt c seçeneğidir.
+    > **Açıklama:** GÖRSEL İLETİŞİM TASARIMINDA VERNAKÜLER<br />Doğru yanıt c seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi yerel veya tarihî bir dönemin genel karakteristiği olan sanatsal ve teknik ifadeye atıfta bulunur ve retro tasarımla yakından ilgilidir?
@@ -3376,8 +3185,7 @@
     - **Cevap D-) Vernaküler**
     - E-) Efemera
 
-    > **Açıklama:** BİR TASARIM YAKLAŞIMI OLARAK VERNAKÜLER TİPOGRAFİ
-    > Doğru yanıt d seçeneğidir.
+    > **Açıklama:** BİR TASARIM YAKLAŞIMI OLARAK VERNAKÜLER TİPOGRAFİ<br />Doğru yanıt d seçeneğidir.
 
     <hr />
 1. Aşağıdaki tasarımcılardan hangisi eklektik retro yaklaşım içinde yer almaz?
@@ -3387,8 +3195,7 @@
     - D-) Paula Scher
     - **Cevap E-) George Gilbert Scott**
 
-    > **Açıklama:** BİR TASARIM YAKLAŞIMI OLARAK VERNAKÜLER TİPOGRAFİ
-    > Doğru yanıt e seçeneğidir.
+    > **Açıklama:** BİR TASARIM YAKLAŞIMI OLARAK VERNAKÜLER TİPOGRAFİ<br />Doğru yanıt e seçeneğidir.
 
     <hr />
 1. New York’un tarihselcilik geleneğini 1920’lere ve 1930’lara kadar geriye götüren, renk, imge ve yazı seçimleriyle modernizmin reddettiği tüm unsurları çalışmalarına yansıtan tasarımcı aşağıdakilerden hangisidir?
@@ -3398,8 +3205,7 @@
     - D-) Robert Brownjohn
     - E-) Tom Geismar
 
-    > **Açıklama:** BİR TASARIM YAKLAŞIMI OLARAK VERNAKÜLER TİPOGRAFİ
-    > Doğru yanıt a seçeneğidir.
+    > **Açıklama:** BİR TASARIM YAKLAŞIMI OLARAK VERNAKÜLER TİPOGRAFİ<br />Doğru yanıt a seçeneğidir.
 
     <hr />
 1. 1990’larda Dijital tipografinin sembolü hâline gelen "Template Gothic” aşağıdaki tasarımcılardan hangisine aittir?
@@ -3409,8 +3215,7 @@
     - D-) Charles Spencer Anderson
     - E-) Kalman
 
-    > **Açıklama:** BİR TASARIM YAKLAŞIMI OLARAK VERNAKÜLER TİPOGRAFİ
-    > Doğru yanıt b seçeneğidir.
+    > **Açıklama:** BİR TASARIM YAKLAŞIMI OLARAK VERNAKÜLER TİPOGRAFİ<br />Doğru yanıt b seçeneğidir.
 
     <hr />
 1. I. Yerel/sıradan insanlar/zanaatkârlar tarafından yapılması<br />II. Bölgeye özgü üretilmiş olması<br />III. Yerel iletişim dilini kullanması<br />IV. Postmodern tasarımcılar tarafından esin kaynağı olarak kullanılması<br />Yukarıdaki maddelerden hangileri Vernaküler yaklaşım için doğrudur?
@@ -3420,8 +3225,7 @@
     - D-) II, III, IV
     - **Cevap E-) I, II, III, IV**
 
-    > **Açıklama:** GÖRSEL İLETİŞİM TASARIMINDA VERNAKÜLER
-    > Doğru yanıt e seçeneğidir.
+    > **Açıklama:** GÖRSEL İLETİŞİM TASARIMINDA VERNAKÜLER<br />Doğru yanıt e seçeneğidir.
 
     <hr />
 1. Vernaküler anlayışın detaylarına değinilen “Kötü olmak için buradayız” yazısı aşağıdaki tasarımcılardan hangisine aittir?
@@ -3431,8 +3235,7 @@
     - **Cevap D-) Tibor Kalman**
     - E-) Paula Scher
 
-    > **Açıklama:** GÖRSEL İLETİŞİM TASARIMINDA VERNAKÜLER
-    > Doğru yanıt d seçeneğidir.
+    > **Açıklama:** GÖRSEL İLETİŞİM TASARIMINDA VERNAKÜLER<br />Doğru yanıt d seçeneğidir.
 
     <hr />
 1. İkinci Dünya Savaşı’nın ardından ortaya çıkan ve sağlam bir gerçeklik olgusunun varlığını sorgulayan yaratıcı akım aşağıdakilerden hangisidir?
@@ -3442,8 +3245,7 @@
     - D-) Art Deco
     - **Cevap E-) Postmodernizm**
 
-    > **Açıklama:** GÖRSEL İLETİŞİM TASARIMINDA VERNAKÜLER
-    > Doğru yanıt e seçeneğidir.
+    > **Açıklama:** GÖRSEL İLETİŞİM TASARIMINDA VERNAKÜLER<br />Doğru yanıt e seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi bir vernaküler tipografi örneğidir.
@@ -3453,9 +3255,7 @@
     - D-) Dergi
     - E-) Kitap
 
-    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.
-    > Görsel iletişim tasarımında vernaküler, genellik­le bilgisayar öncesi dönemde, tasarım okullarında öğrenim görmeyen yerel zanaatkârların, yaşadıkları bölgeye özgü ürettikleri ürünler ile ilişkilendirilir. Genel olarak bu ürünler, eskiden *ticari sanat* olarak adlandırılan, görsel bir dilin olduğu tabela, amba­laj reklam gibi günlük kitle iletişimi ürünleridir. Genellikle argo gibi alt kültüre ait iletişim biçimleri veya sokak lev­haları gibi *buluntu* nesneler için kullanılır. Fırça tabela, apartman isimliği, uyarı levhası, duvar yazısı, cam yazısı, afiş ve efemera üzerindeki harflemeler, vernaküler ti­pografi kapsamında değerlendirilebilir. Hedef kit­lenin sınırlı olması, bölgeye özgü yapılmaları ve genellikle isimleri kayda geçmeyen zanaatkârlar ta­rafından üretildiklerinden dolayı çoğunlukla *ano­nim* olarak kalmaktadırlar.
-    > Bu nedenle sorunun doğru cevabı A seçeneğidir.
+    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.<br />Görsel iletişim tasarımında vernaküler, genellik­le bilgisayar öncesi dönemde, tasarım okullarında öğrenim görmeyen yerel zanaatkârların, yaşadıkları bölgeye özgü ürettikleri ürünler ile ilişkilendirilir. Genel olarak bu ürünler, eskiden *ticari sanat* olarak adlandırılan, görsel bir dilin olduğu tabela, amba­laj reklam gibi günlük kitle iletişimi ürünleridir. Genellikle argo gibi alt kültüre ait iletişim biçimleri veya sokak lev­haları gibi *buluntu* nesneler için kullanılır. Fırça tabela, apartman isimliği, uyarı levhası, duvar yazısı, cam yazısı, afiş ve efemera üzerindeki harflemeler, vernaküler ti­pografi kapsamında değerlendirilebilir. Hedef kit­lenin sınırlı olması, bölgeye özgü yapılmaları ve genellikle isimleri kayda geçmeyen zanaatkârlar ta­rafından üretildiklerinden dolayı çoğunlukla *ano­nim* olarak kalmaktadırlar.<br />Bu nedenle sorunun doğru cevabı A seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi grafik sanatında Shaughnessy tarafından “tasarımcı olmadan tasarım” olarak adlandırılan alt türdür.
@@ -3465,9 +3265,7 @@
     - D-) Kaligrafi
     - **Cevap E-) Vernaküler Tipografi**
 
-    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.
-    > Görsel iletişim tasarımında vernaküler, genellik­le bilgisayar öncesi dönemde, tasarım okullarında öğrenim görmeyen yerel zanaatkârların, yaşadıkları bölgeye özgü ürettikleri ürünler ile ilişkilendirilir. Genel olarak bu ürünler, eskiden *ticari sanat* olarak adlandırılan, görsel bir dilin olduğu tabela, amba­laj reklam gibi günlük kitle iletişimi ürünleridir. Genellikle argo gibi alt kültüre ait iletişim biçimleri veya sokak lev­haları gibi *buluntu* nesneler için kullanılır. Fırça tabela, apartman isimliği, uyarı levhası, duvar yazısı, cam yazısı, afiş ve efemera üzerindeki harflemeler, vernaküler ti­pografi kapsamında değerlendirilebilir. Hedef kit­lenin sınırlı olması, bölgeye özgü yapılmaları ve genellikle isimleri kayda geçmeyen zanaatkârlar ta­rafından üretildiklerinden dolayı çoğunlukla *ano­nim* olarak kalmaktadırlar. Üretim pratiklerinin demokratikleşmesi ile eğitimsiz kişilerin de tasarım yapabildiklerinden bahseden Shaughnessy, “tasa­rımcılar olmadan tasarım” olarak nitelediği verna­küleri, bilinçli olmayan ve işlevselliğinin ötesinde herhangi hırs veya niyet duygusundan yoksun olan tasarım olarak tanımlar. Profesyonel tasarım disiplininin dışında kaldığı, çoğunlukla sa­nat veya tasarım eğitimi almayan kişiler tarafından yapıldıklarından dolayı “vernaküler bazen küçüm­senir, bazen de onurlandırılır, her iki durumda da mesleğin naif, bilgisiz ötekisi olarak görülür”.
-    > Bu nedenle sorunun doğru cevabı E seçeneğidir.
+    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.<br />Görsel iletişim tasarımında vernaküler, genellik­le bilgisayar öncesi dönemde, tasarım okullarında öğrenim görmeyen yerel zanaatkârların, yaşadıkları bölgeye özgü ürettikleri ürünler ile ilişkilendirilir. Genel olarak bu ürünler, eskiden *ticari sanat* olarak adlandırılan, görsel bir dilin olduğu tabela, amba­laj reklam gibi günlük kitle iletişimi ürünleridir. Genellikle argo gibi alt kültüre ait iletişim biçimleri veya sokak lev­haları gibi *buluntu* nesneler için kullanılır. Fırça tabela, apartman isimliği, uyarı levhası, duvar yazısı, cam yazısı, afiş ve efemera üzerindeki harflemeler, vernaküler ti­pografi kapsamında değerlendirilebilir. Hedef kit­lenin sınırlı olması, bölgeye özgü yapılmaları ve genellikle isimleri kayda geçmeyen zanaatkârlar ta­rafından üretildiklerinden dolayı çoğunlukla *ano­nim* olarak kalmaktadırlar. Üretim pratiklerinin demokratikleşmesi ile eğitimsiz kişilerin de tasarım yapabildiklerinden bahseden Shaughnessy, “tasa­rımcılar olmadan tasarım” olarak nitelediği verna­küleri, bilinçli olmayan ve işlevselliğinin ötesinde herhangi hırs veya niyet duygusundan yoksun olan tasarım olarak tanımlar. Profesyonel tasarım disiplininin dışında kaldığı, çoğunlukla sa­nat veya tasarım eğitimi almayan kişiler tarafından yapıldıklarından dolayı “vernaküler bazen küçüm­senir, bazen de onurlandırılır, her iki durumda da mesleğin naif, bilgisiz ötekisi olarak görülür”.<br />Bu nedenle sorunun doğru cevabı E seçeneğidir.
 
     <hr />
 1. Günlük yaşamda vernakülerin, yerelin imkansızlıklarının oluşturduğu bir gerçeğin sonucunda ortaya çıktığını ilk defa vurgulayan sanatçı aşağıdakilerden hangisidir.
@@ -3477,9 +3275,7 @@
     - D-) Milton Glaser
     - E-) Michael Bierut
 
-    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.
-    > Çevrede görülen her görsel iletişim ürününün vernaküler olup olmadığı meselesin­den hareketle Steven Heller, Tibor Kalman’a çöp ile vernaküleri nasıl ayırt ettiğini sorar. Kalman, “vernaküler çok zamanın, çok kötü araçların ve paranın olmamasının sonucudur. Çöp; kötü, ap­tal ama profesyonel grafikler…” diye cevap verir. Kalman’ın cevabın­dan, vernakülerin, yerelin imkânsızlıkların oluş­turduğu bir gerçekliğin sonucunda ortaya çıktığı, profesyonel tasarımın hedeflerinden ve donanı­mından yoksun olduğu anlaşılmaktadır.
-    > Bu nedenle sorunun doğru cevabı A seçeneğidir.
+    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.<br />Çevrede görülen her görsel iletişim ürününün vernaküler olup olmadığı meselesin­den hareketle Steven Heller, Tibor Kalman’a çöp ile vernaküleri nasıl ayırt ettiğini sorar. Kalman, “vernaküler çok zamanın, çok kötü araçların ve paranın olmamasının sonucudur. Çöp; kötü, ap­tal ama profesyonel grafikler…” diye cevap verir. Kalman’ın cevabın­dan, vernakülerin, yerelin imkânsızlıkların oluş­turduğu bir gerçekliğin sonucunda ortaya çıktığı, profesyonel tasarımın hedeflerinden ve donanı­mından yoksun olduğu anlaşılmaktadır.<br />Bu nedenle sorunun doğru cevabı A seçeneğidir.
 
     <hr />
 1. Grafik Tasarımda Vernaküleri “Kötü Olmak için buradayız” yazısı ile tasarım etiği içinde ele alan sanatçı aşağıdakilerden hangisidir.
@@ -3489,9 +3285,7 @@
     - D-) Milton Glaser
     - E-) Michael Bierut
 
-    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.
-    > Vernakülerin bir diğer özelliği de tasarım eti­ğine konu olmasıdır. Kalman, yalnızca yerelin di­linden ilham almak veya onu kaynak olarak kul­lanmakla kalmaz, onu bir tutuma, bir düşünme yöntemine dönüştürür. Kalman’ın vernaküler an­layışının detaylarına değindiği “Kötü olmak için buradayız.” yazısı, tasarım mesleği ile kurumsal ticari güçler arasındaki ilişkinin sert analizi, bir farkındalık ve direniş çağrısıdır. Bu çağrı, vernaküleri, tasarımcı tavrının ve etik tutumunun tam da merkezine yerleştirir.
-    > Bu nedenle sorunun doğru cevabı A seçeneğidir.
+    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.<br />Vernakülerin bir diğer özelliği de tasarım eti­ğine konu olmasıdır. Kalman, yalnızca yerelin di­linden ilham almak veya onu kaynak olarak kul­lanmakla kalmaz, onu bir tutuma, bir düşünme yöntemine dönüştürür. Kalman’ın vernaküler an­layışının detaylarına değindiği “Kötü olmak için buradayız.” yazısı, tasarım mesleği ile kurumsal ticari güçler arasındaki ilişkinin sert analizi, bir farkındalık ve direniş çağrısıdır. Bu çağrı, vernaküleri, tasarımcı tavrının ve etik tutumunun tam da merkezine yerleştirir.<br />Bu nedenle sorunun doğru cevabı A seçeneğidir.
 
     <hr />
 1. Aşağıdaki sanatçılardan hangisi Amerika’nın gerçek halk sanatının Ticari sanat olduğunu vurgulayan sanatçılardan birisidir.
@@ -3501,9 +3295,7 @@
     - D-) Milton Glaser
     - E-) Michael Bierut
 
-    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.
-    > Vernakülerin hevesli ve özenli arkeologlarından biri olan Art Chantry, atölyesinde biriktirdiği eski gazete reklamlarının, dergilerin, katalog parçalarının ve kullanılıp atılan küçük resimlerin görsel dilini kullanır. Ticari sanatın, Amerika’nın gerçek halk sanatı olduğuna inanan Chantry, 1945–1955 yılları arasındaki alet kataloglarında ve endüstriyel ticaret dergilerinde yaygın olan kaybol­muş endüstriyel grafik üsluba yönelik bir kanal keşfeder. Seattle’daki Çağdaş Sanat Merkezi için 1991 yılında hazırladığı *The Night Gallery* başlıklı afişte, araç kataloglarından ve endüstriyel reklamlardan aldığı somun anahtarlarının, tornavidaların, alet kutusunun ve matkabın görüntülerini kul­lanır. Chantry’nin, belirli bir sektör için üretilen ve koleksiyon değeri taşımayan bel­gelerden yola çıkarak “belirgin noktaların damıtıldığı ve ilginç tipografi, saçma yazılar ve absürt kolajlarla dolup taşan kes-yapıştır üslup geliştirir” ve bu yönüyle New York’taki tasarımcıların sokağı keşfe dayanan yaklaşımlarından ayrılır.
-    > Bu nedenle sorunun doğru cevabı A seçeneğidir.
+    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.<br />Vernakülerin hevesli ve özenli arkeologlarından biri olan Art Chantry, atölyesinde biriktirdiği eski gazete reklamlarının, dergilerin, katalog parçalarının ve kullanılıp atılan küçük resimlerin görsel dilini kullanır. Ticari sanatın, Amerika’nın gerçek halk sanatı olduğuna inanan Chantry, 1945–1955 yılları arasındaki alet kataloglarında ve endüstriyel ticaret dergilerinde yaygın olan kaybol­muş endüstriyel grafik üsluba yönelik bir kanal keşfeder. Seattle’daki Çağdaş Sanat Merkezi için 1991 yılında hazırladığı *The Night Gallery* başlıklı afişte, araç kataloglarından ve endüstriyel reklamlardan aldığı somun anahtarlarının, tornavidaların, alet kutusunun ve matkabın görüntülerini kul­lanır. Chantry’nin, belirli bir sektör için üretilen ve koleksiyon değeri taşımayan bel­gelerden yola çıkarak “belirgin noktaların damıtıldığı ve ilginç tipografi, saçma yazılar ve absürt kolajlarla dolup taşan kes-yapıştır üslup geliştirir” ve bu yönüyle New York’taki tasarımcıların sokağı keşfe dayanan yaklaşımlarından ayrılır.<br />Bu nedenle sorunun doğru cevabı A seçeneğidir.
 
     <hr />
 1. Aşağıdaki yazı fontlarından hangisi New Yprk’ta bulunan Liman İşletmeleri Otobüs terminalinin tabelasından esinlenerek yapılmış bir vernaküler tipografi örneğidir.
@@ -3513,9 +3305,7 @@
     - D-) Arial
     - E-) Decimal
 
-    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.
-    > Ünlü yazı tasarımcıları Jonathan Hoefler ve Tobias Frere-Jones tarafından 2000 yılında yayımlanan *Gotham* adlı yazı ailesinin esin kaynağı, New York’ta bulunan Liman İşletmeleri Otobüs Terminali’nin tabelasıdır. Frere-Jones, Gotham’ın tasarım sürecinde, kentteki savaş sonrası bina tabelalarından ve elle yazılmış harflemelerden ilham alır; New Yorklu tasarımcıların geleneğinde olduğu gibi Manhattan’ın sokaklarında dolaşarak kentin tipografik mirasını kaynak olarak kullanır ve ofislerin bulunduğu binaların fotoğraflarını çeker. Bu yürüyüşler sonucunda yaklaşık dört bin görüntüden oluşan bir koleksiyon yapar. Gotham’ın tasarım sürecindeki yerel tipografik miras, onun daha *yerli* göründüğü hissini uyandırır. Newsweek’ten Andrew Romano, bu hissi, “Diğer serifsiz fontların aksine; Alman, Fransız, İsviçreli değil, o çok Amerikan!” cümlesiyle ifade eder
-    > Bu nedenle sorunun doğru cevabı B seçeneğidir.
+    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.<br />Ünlü yazı tasarımcıları Jonathan Hoefler ve Tobias Frere-Jones tarafından 2000 yılında yayımlanan *Gotham* adlı yazı ailesinin esin kaynağı, New York’ta bulunan Liman İşletmeleri Otobüs Terminali’nin tabelasıdır. Frere-Jones, Gotham’ın tasarım sürecinde, kentteki savaş sonrası bina tabelalarından ve elle yazılmış harflemelerden ilham alır; New Yorklu tasarımcıların geleneğinde olduğu gibi Manhattan’ın sokaklarında dolaşarak kentin tipografik mirasını kaynak olarak kullanır ve ofislerin bulunduğu binaların fotoğraflarını çeker. Bu yürüyüşler sonucunda yaklaşık dört bin görüntüden oluşan bir koleksiyon yapar. Gotham’ın tasarım sürecindeki yerel tipografik miras, onun daha *yerli* göründüğü hissini uyandırır. Newsweek’ten Andrew Romano, bu hissi, “Diğer serifsiz fontların aksine; Alman, Fransız, İsviçreli değil, o çok Amerikan!” cümlesiyle ifade eder<br />Bu nedenle sorunun doğru cevabı B seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi postmodern estetiğin popüler bir bileşeni olan ve bir alt kümesini vernakülerin oluşturduğu bir stildir.
@@ -3525,9 +3315,7 @@
     - D-) Nostalji
     - **Cevap E-) Retro**
 
-    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.
-    > Tasarım tarihindeki farklı tutum ve anlayışlar, zamanın ruhuna bağlı olarak değişkenlik gösterir. Ver­nakülerin görsel iletişim tasarımında konu edilmesi ve zihin dünyasının oluşması, modernizmden post­modernizme geçiş sürecinde şekillenir. Postmodernizm, eklektizmden yararlanarak eski biçimleri geri alma ve onları yenileriyle birleştirme anlayışıyla modernist tasarımı tahakküm dışına iter. Böylece “tarihsel referanslar, dekorasyon ve vernaküler, modernistler tarafından küçümsenir­ken, postmodern tasarımcılar tarafından tasarım olanaklarını genişletmek amacıyla kullanılırlar. Yeni şeyler yapma anlamında özgünlük amaç olmaktan çıkar; parodi, pastiş ve önceki görsel biçimlerin ironik bir şekilde geri dönüşü çoğalır (Poynor, 2003, s. 12). Bu anlayışla üretilen “postmodern kültürün ürünleri, parçalanma, biçim kirliliği, derinliksizlik, belirsizlik, metinler arasılık, çoğulculuk, eklektizm ve vernakülere dönüş gibi özelliklerle ayırt edilme eğilimindedir”. Geçmişin ve modası geçmiş tasarım­ların tekrarını içeren *retro*, postmodern estetiğin popüler bileşeni hâline gelir, özellikle bu estetiğin alt kümesi olan *vernaküler* ise postmodern tasarım anlayışının bireyselliği içerisinde ivmesini yakalar.
-    > Bu nedenle sorunun doğru cevabı E seçeneğidir.
+    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.<br />Tasarım tarihindeki farklı tutum ve anlayışlar, zamanın ruhuna bağlı olarak değişkenlik gösterir. Ver­nakülerin görsel iletişim tasarımında konu edilmesi ve zihin dünyasının oluşması, modernizmden post­modernizme geçiş sürecinde şekillenir. Postmodernizm, eklektizmden yararlanarak eski biçimleri geri alma ve onları yenileriyle birleştirme anlayışıyla modernist tasarımı tahakküm dışına iter. Böylece “tarihsel referanslar, dekorasyon ve vernaküler, modernistler tarafından küçümsenir­ken, postmodern tasarımcılar tarafından tasarım olanaklarını genişletmek amacıyla kullanılırlar. Yeni şeyler yapma anlamında özgünlük amaç olmaktan çıkar; parodi, pastiş ve önceki görsel biçimlerin ironik bir şekilde geri dönüşü çoğalır (Poynor, 2003, s. 12). Bu anlayışla üretilen “postmodern kültürün ürünleri, parçalanma, biçim kirliliği, derinliksizlik, belirsizlik, metinler arasılık, çoğulculuk, eklektizm ve vernakülere dönüş gibi özelliklerle ayırt edilme eğilimindedir”. Geçmişin ve modası geçmiş tasarım­ların tekrarını içeren *retro*, postmodern estetiğin popüler bileşeni hâline gelir, özellikle bu estetiğin alt kümesi olan *vernaküler* ise postmodern tasarım anlayışının bireyselliği içerisinde ivmesini yakalar.<br />Bu nedenle sorunun doğru cevabı E seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi eklektik Retro yaklaşımının oluşumunda katkı sağlayan sanatçıları etkileyen sanat akımlarından birisidir.
@@ -3537,9 +3325,7 @@
     - D-) Modernism
     - E-) Gotik
 
-    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.
-    > New York’ta ortaya çıkan eklektik retro yaklaşım, Viktorya Dönemi, Art Nouveau ve Art Deco biçimle­rini ilham kaynağı olarak kullanan Milton Glaser, Seymour Chwast, Louise Fili, Paula Scher, Carin Gold­berg dâhil olmak üzere az sayıda tasarımcıyla başlar. 1954 yılında New York’ta Milton Glaser ve Seymour Chwast tarafından kurulan —1960’larda ve 1970’lerde görsel iletişim tasarımı alanında uluslararası bir güç hâline gelen — daha sonra birçok tasarımcı­nın katıldığı Push Pin Studio’nun tasarım stratejisi olan diğer üslupları referans alma, vernakülere ilgi ve bilinçli pastiş kullanımı, ilerleyen yıllarda postmodernizmin ortaya çıkışının belirtileridir.
-    > Bu nedenle sorunun doğru cevabı C seçeneğidir.
+    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.<br />New York’ta ortaya çıkan eklektik retro yaklaşım, Viktorya Dönemi, Art Nouveau ve Art Deco biçimle­rini ilham kaynağı olarak kullanan Milton Glaser, Seymour Chwast, Louise Fili, Paula Scher, Carin Gold­berg dâhil olmak üzere az sayıda tasarımcıyla başlar. 1954 yılında New York’ta Milton Glaser ve Seymour Chwast tarafından kurulan —1960’larda ve 1970’lerde görsel iletişim tasarımı alanında uluslararası bir güç hâline gelen — daha sonra birçok tasarımcı­nın katıldığı Push Pin Studio’nun tasarım stratejisi olan diğer üslupları referans alma, vernakülere ilgi ve bilinçli pastiş kullanımı, ilerleyen yıllarda postmodernizmin ortaya çıkışının belirtileridir.<br />Bu nedenle sorunun doğru cevabı C seçeneğidir.
 
     <hr />
 1. Aşağı şehirlerden hangisi eklektik rerto yaklaşımının ortaya çıktığı şehirdir.
@@ -3549,9 +3335,7 @@
     - **Cevap D-) New York**
     - E-) Phoenix
 
-    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.
-    > New York’ta ortaya çıkan eklektik retro yaklaşım, Viktorya Dönemi, Art Nouveau ve Art Deco biçimle­rini ilham kaynağı olarak kullanan Milton Glaser, Seymour Chwast, Louise Fili, Paula Scher, Carin Gold­berg dâhil olmak üzere az sayıda tasarımcıyla başlar. 1954 yılında New York’ta Milton Glaser ve Seymour Chwast tarafından kurulan —1960’larda ve 1970’lerde görsel iletişim tasarımı alanında uluslararası bir güç hâline gelen — daha sonra birçok tasarımcı­nın katıldığı Push Pin Studio’nun tasarım stratejisi olan diğer üslupları referans alma, vernakülere ilgi ve bilinçli pastiş kullanımı, ilerleyen yıllarda postmodernizmin ortaya çıkışının belirtileridir.
-    > Bu nedenle sorunun doğru cevabı D seçeneğidir.
+    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.<br />New York’ta ortaya çıkan eklektik retro yaklaşım, Viktorya Dönemi, Art Nouveau ve Art Deco biçimle­rini ilham kaynağı olarak kullanan Milton Glaser, Seymour Chwast, Louise Fili, Paula Scher, Carin Gold­berg dâhil olmak üzere az sayıda tasarımcıyla başlar. 1954 yılında New York’ta Milton Glaser ve Seymour Chwast tarafından kurulan —1960’larda ve 1970’lerde görsel iletişim tasarımı alanında uluslararası bir güç hâline gelen — daha sonra birçok tasarımcı­nın katıldığı Push Pin Studio’nun tasarım stratejisi olan diğer üslupları referans alma, vernakülere ilgi ve bilinçli pastiş kullanımı, ilerleyen yıllarda postmodernizmin ortaya çıkışının belirtileridir.<br />Bu nedenle sorunun doğru cevabı D seçeneğidir.
 
     <hr />
 1. Aşağıdakilerden hangisi Amerika’da ortaya çıkmış olan ve bir kusurluluk duygusu ile alt kültürün vernaküler dilini benimseyen fotomekanik yeniden üretimin neden olduğu çarpıklığı aktarmayı amaçlayarak ortaya çıkarılmış olan yazı tasarımının ismidir.
@@ -3561,8 +3345,6 @@
     - D-) Arial
     - **Cevap E-) Template Gothic**
 
-    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.
-    > Vernaküler yalnız görsel iletişim tasarımcıları değil, yazı tasarımcıları arasında da başvurulan kaynak­lardan biridir. 1990 yılında Barry Deck tarafından tasarlanan *Template Gothic*, New Yorklu tasarımcıların yaptığı gibi yerelin keşfiyle ortaya çıkan bir yazı tasarımıdır. California Institute of the Arts’da, “elle çizilmiş vernaküler harflemelere, illüstrasyonlara ve bunların yerleşik düzensizliklerine yönelik tutkusu” ile tanınan Edward Fella’nın öğrencisi olan Deck, mahallesindeki bir çamaşırhanenin şablonla yapılmış yazısından ilham alarak tasarladığı Template Gothic ile bir kusurluluk duygusunu ve alt kültürün vernaküler dilini benimseyen fotomekanik yeniden üretimin neden olduğu çarpıklığı aktarmayı amaçlar. Template Gothic, “Emigre Fonts tarafından ticari olarak piya­saya sürüldükten sonra kullanımı dünya çapında yayılır ve 1990’larda dijital tipografinin sembolü hâline gelir”.
-    > Bu nedenle sorunun doğru cevabı D seçeneğidir.
+    > **Açıklama:** GIT202U İleri Tipografi Ders Kitabının “Vernaküler Tipografi” Başlıklı 8. Bölümünde bu soruya ilişkin aşağıdaki bilgi verilmiştir.<br />Vernaküler yalnız görsel iletişim tasarımcıları değil, yazı tasarımcıları arasında da başvurulan kaynak­lardan biridir. 1990 yılında Barry Deck tarafından tasarlanan *Template Gothic*, New Yorklu tasarımcıların yaptığı gibi yerelin keşfiyle ortaya çıkan bir yazı tasarımıdır. California Institute of the Arts’da, “elle çizilmiş vernaküler harflemelere, illüstrasyonlara ve bunların yerleşik düzensizliklerine yönelik tutkusu” ile tanınan Edward Fella’nın öğrencisi olan Deck, mahallesindeki bir çamaşırhanenin şablonla yapılmış yazısından ilham alarak tasarladığı Template Gothic ile bir kusurluluk duygusunu ve alt kültürün vernaküler dilini benimseyen fotomekanik yeniden üretimin neden olduğu çarpıklığı aktarmayı amaçlar. Template Gothic, “Emigre Fonts tarafından ticari olarak piya­saya sürüldükten sonra kullanımı dünya çapında yayılır ve 1990’larda dijital tipografinin sembolü hâline gelir”.<br />Bu nedenle sorunun doğru cevabı D seçeneğidir.
 
     <hr />

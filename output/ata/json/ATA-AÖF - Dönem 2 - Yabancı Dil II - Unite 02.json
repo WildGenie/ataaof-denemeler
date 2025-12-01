@@ -321,7 +321,7 @@
     },
     {
         "SoruID": 214499,
-        "SoruMetni": "Bu ilacı almalı mıyım? (tavsiye, nasihat alma)<br/><strong>Yukarıdaki cümlenin İngilizce karşılığı aşağıdakilerden hangisidir?</strong><br/></br>",
+        "SoruMetni": "Bu ilacı almalı mıyım? (tavsiye, nasihat alma)<br/><strong>Yukarıdaki cümlenin İngilizce karşılığı aşağıdakilerden hangisidir?</strong>",
         "A": "Can I take this medicine?",
         "B": "May I take this medicine?",
         "C": "Must I take this medicine?",
@@ -441,7 +441,7 @@
     },
     {
         "SoruID": 343427,
-        "SoruMetni": "<strong>Shop assistant:</strong> Can help you?<br/><strong>Sarah: </strong>Yes, please. Have you got this skirt in blue?<br/><strong>Shop assistant: </strong>Yes. What size would you like?<br/><strong>Sarah:</strong> Medium, please. <br/><strong>Shop assistant</strong>: OK, here you are. Would you like to try it on?<br/><strong>Sarah:</strong> .................................................... . Where are the changing rooms?<br/><strong>Konuşma metninde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong></br></br></br></br></br>",
+        "SoruMetni": "<strong>Shop assistant:</strong> Can help you?<br/><strong>Sarah: </strong>Yes, please. Have you got this skirt in blue?<br/><strong>Shop assistant: </strong>Yes. What size would you like?<br/><strong>Sarah:</strong> Medium, please. <br/><strong>Shop assistant</strong>: OK, here you are. Would you like to try it on?<br/><strong>Sarah:</strong> .................................................... . Where are the changing rooms?<br/><strong>Konuşma metninde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>",
         "A": "Oh, no. Thank you.",
         "B": "Maybe later.",
         "C": "I don't need to do that.",

@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br>1906 yılında J. Stuart Blackton tarafından yapılan ve animasyonun ilk örneklerinden biri olarak görülen film <span style=\"font-weight: 400;\">The Humorous Phases of Funny Faces'dir</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/>1906 yılında J. Stuart Blackton tarafından yapılan ve animasyonun ilk örneklerinden biri olarak görülen film <span style=\"font-weight: 400;\">The Humorous Phases of Funny Faces'dir</span>"
     },
     {
         "SoruID": 3601490,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br><span style=\"font-weight: 400;\">1834 yılında İngiliz matematikçi William Horner tarafından icat edilen cihaz Zoetrope'dur</span>"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/><span style=\"font-weight: 400;\">1834 yılında İngiliz matematikçi William Horner tarafından icat edilen cihaz Zoetrope'dur</span>"
     },
     {
         "SoruID": 3601491,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br><span style=\"font-weight: 400;\">Dünyanın ilk uzun metraj 3B animasyon filmi Toy Story'dir. </span>"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/><span style=\"font-weight: 400;\">Dünyanın ilk uzun metraj 3B animasyon filmi Toy Story'dir. </span>"
     },
     {
         "SoruID": 3601492,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru şık D'dir.<br>Karakter ve nesnelerin üç boyutlu görünmesini sağlamak için hacim, ağırlık, denge ve anatomiyi dikkate alan çizimler oluşturmayı ifade eden prensip sağlam çizimdir."
+        "Aciklama": "Doğru şık D'dir.<br/>Karakter ve nesnelerin üç boyutlu görünmesini sağlamak için hacim, ağırlık, denge ve anatomiyi dikkate alan çizimler oluşturmayı ifade eden prensip sağlam çizimdir."
     },
     {
         "SoruID": 3601493,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">Hareketin yer aldığı kompozisyonun arka plan, ışık kullanımı ve kamera açılarıyla desteklenmesini ifade eden prensip sahnelemedir</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/><span style=\"font-weight: 400;\">Hareketin yer aldığı kompozisyonun arka plan, ışık kullanımı ve kamera açılarıyla desteklenmesini ifade eden prensip sahnelemedir</span>"
     },
     {
         "SoruID": 3601494,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt B şıkkıdır<br><span style=\"font-weight: 400;\">Animasyonlarda karaktere bir iskelet sistemi eklenerek doğal insan hareketleri simüle edilmesine rigging denir</span>"
+        "Aciklama": "Doğru yanıt B şıkkıdır<br/><span style=\"font-weight: 400;\">Animasyonlarda karaktere bir iskelet sistemi eklenerek doğal insan hareketleri simüle edilmesine rigging denir</span>"
     },
     {
         "SoruID": 3601495,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır.<br>Bahsedilen tekniğin adı tweening'dir."
+        "Aciklama": "Doğru yanıt A şıkkıdır.<br/>Bahsedilen tekniğin adı tweening'dir."
     },
     {
         "SoruID": 3601496,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">H.264 bir sıkıştırma türüdür.</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/><span style=\"font-weight: 400;\">H.264 bir sıkıştırma türüdür.</span>"
     },
     {
         "SoruID": 3601497,
@@ -177,6 +177,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt D şıkkıdır<br>Bir öğenin yavaşça kaybolup başka bir görüntü veya ögeyle değişmesi dissolve ile ifade edilir"
+        "Aciklama": "Doğru yanıt D şıkkıdır<br/>Bir öğenin yavaşça kaybolup başka bir görüntü veya ögeyle değişmesi dissolve ile ifade edilir"
     }
 ]

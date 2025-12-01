@@ -190,7 +190,7 @@
     },
     {
         "SoruID": 386506,
-        "SoruMetni": "I. Müdahaleci ve dikkat çekici olma avantajına sahiptir.<br/>II. Tıklanma oranlarını artırabilir.<br/>III. Zengin medya teknolojileriyle oluşturulur.<br/>IV. Müşteri ile diyalog başlatacak kadar dikkat süresini uzatabilir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri animasyonlu ve interaktif bannerların sunmuş olduğu özelliklerdendir? </strong></br></br></br>",
+        "SoruMetni": "I. Müdahaleci ve dikkat çekici olma avantajına sahiptir.<br/>II. Tıklanma oranlarını artırabilir.<br/>III. Zengin medya teknolojileriyle oluşturulur.<br/>IV. Müşteri ile diyalog başlatacak kadar dikkat süresini uzatabilir.<br/><strong>Yukarıdakilerden hangisi ya da hangileri animasyonlu ve interaktif bannerların sunmuş olduğu özelliklerdendir? </strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "II ve III",
@@ -253,12 +253,12 @@
     },
     {
         "SoruID": 389062,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi açılış sayfalarının temel ögelerinden biri <u>değildir</u>?</strong><br type=\"_moz\"/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi açılış sayfalarının temel ögelerinden biri <u>değildir</u>?</strong>",
         "A": "Ziyaretçilerle duygusal bir bağ kuran güçlü görseller",
         "B": "İlgi çekici başlıklar",
         "C": "Etkili CTA butonları",
         "D": "Marka güveni oluşturan müşteri yorumları",
-        "E": "Banner'lar<br type=\"_moz\"/>",
+        "E": "Banner'lar",
         "DogruCevap": "E",
         "DersAd": "Görsel Kimlik ve Marka Tasarımı",
         "Somestre": 1,

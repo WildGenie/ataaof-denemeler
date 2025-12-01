@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 111047,
-        "SoruMetni": "I. Uzunluk<br/>​II. Darlık<br/>​III. Derinlik<br/>IV. Genişlik<br/>​<strong>Yukarıdakilerden hangisi ya da hangileri rengin boyutları arasında <u>yer almaz</u>?</strong></br></br></br>",
+        "SoruMetni": "I. Uzunluk<br/>​II. Darlık<br/>​III. Derinlik<br/>IV. Genişlik<br/>​<strong>Yukarıdakilerden hangisi ya da hangileri rengin boyutları arasında <u>yer almaz</u>?</strong>",
         "A": "Yalnız II",
         "B": "Yalnız III",
         "C": "Yalnız IV",
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 111211,
-        "SoruMetni": "I. İzleyicinin psikolojik durumu<br/>​II. Tasarımın bütünselliği<br/>​III. İzleyicinin demografik özellikleri<br/>​<strong>Yukarıdakilerden hangisi ya da hangileri görsel tasarıma ilişkin anlamın değişiklik göstermesine etki eden etmenlerdendir?</strong></br></br>",
+        "SoruMetni": "I. İzleyicinin psikolojik durumu<br/>​II. Tasarımın bütünselliği<br/>​III. İzleyicinin demografik özellikleri<br/>​<strong>Yukarıdakilerden hangisi ya da hangileri görsel tasarıma ilişkin anlamın değişiklik göstermesine etki eden etmenlerdendir?</strong>",
         "A": "Yalnız II",
         "B": "I ve III",
         "C": "II ve III",
@@ -441,7 +441,7 @@
     },
     {
         "SoruID": 327826,
-        "SoruMetni": "I. Uzunluk<br/>II. Genişlik<br/>III. Derinlik<br/><strong>Yukarıdakilerden hangisi ya da hangileri rengin boyutunu oluşturmaktadır?</strong></br></br>",
+        "SoruMetni": "I. Uzunluk<br/>II. Genişlik<br/>III. Derinlik<br/><strong>Yukarıdakilerden hangisi ya da hangileri rengin boyutunu oluşturmaktadır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",

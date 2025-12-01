@@ -1,7 +1,7 @@
 [
     {
         "SoruID": 210200,
-        "SoruMetni": ".............. kavramı, en basit tanımıyla belirli bir mal veya hizmetin, belirli bir ücret karşılığında kitle iletişim araçları kullanılarak kitlelere tanıtılmasını ve kitlelerin ürün ve hizmeti satın alabilmesine yönelik ikna edilmesini amaçlayan iletişim sürecini ifade etmektedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": ".............. kavramı, en basit tanımıyla belirli bir mal veya hizmetin, belirli bir ücret karşılığında kitle iletişim araçları kullanılarak kitlelere tanıtılmasını ve kitlelerin ürün ve hizmeti satın alabilmesine yönelik ikna edilmesini amaçlayan iletişim sürecini ifade etmektedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Reklam",
         "B": "Halkla ilişkiler",
         "C": "Propaganda",
@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 210202,
-        "SoruMetni": "I. Benzer iletişim araçlarından yararlanmaları<br/>II. İkna odaklı iletişim türü olmaları<br/>III.Tek yönlü iletişim kullanmaları<br/><strong>Yukarıdakilerden hangisi ya da hangileri reklam ve propaganda kavramlarının birbirleri arasındaki en önemli benzerliklerdendir?</strong><br/></br></br></br>",
+        "SoruMetni": "I. Benzer iletişim araçlarından yararlanmaları<br/>II. İkna odaklı iletişim türü olmaları<br/>III.Tek yönlü iletişim kullanmaları<br/><strong>Yukarıdakilerden hangisi ya da hangileri reklam ve propaganda kavramlarının birbirleri arasındaki en önemli benzerliklerdendir?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I ve III",
@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 211290,
-        "SoruMetni": "I. Ucuz maliyeti<br/>II. Hızla güncellenebilme özelliği<br/>III. Tek yönlü iletişim imkanı sunması<br/>IV. Yaygın kullanıma sahip olması<br/><strong>Yukarıdakilerden hangileri günümüzde kurumların sosyal medya platformlarında reklam faaliyetine girişmesinin nedenlerindendir?</strong></br></br></br>",
+        "SoruMetni": "I. Ucuz maliyeti<br/>II. Hızla güncellenebilme özelliği<br/>III. Tek yönlü iletişim imkanı sunması<br/>IV. Yaygın kullanıma sahip olması<br/><strong>Yukarıdakilerden hangileri günümüzde kurumların sosyal medya platformlarında reklam faaliyetine girişmesinin nedenlerindendir?</strong>",
         "A": "I ve II",
         "B": "II ve IV",
         "C": "I, II ve III",
@@ -241,7 +241,7 @@
     },
     {
         "SoruID": 212447,
-        "SoruMetni": ".................... bir fikrin, düşüncenin veya ideolojinin ikna odaklı olarak kitle iletişim araçlarından yararlanılarak kitlelere aktarılması ve benimsetilmesini amaçlayan kaynaktan alıcıya tek yönlü bir iletişim türüdür.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": ".................... bir fikrin, düşüncenin veya ideolojinin ikna odaklı olarak kitle iletişim araçlarından yararlanılarak kitlelere aktarılması ve benimsetilmesini amaçlayan kaynaktan alıcıya tek yönlü bir iletişim türüdür.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Reklam",
         "B": "Propaganda",
         "C": "Slogan",
@@ -342,10 +342,10 @@
     {
         "SoruID": 408437,
         "SoruMetni": "<strong>Aşağıdakilerden hangisi iletişimin en temel tanımıdır?</strong>",
-        "A": "İnsanlar arasında bilgi ve duygu alışverişidir.<br type=\"_moz\"/>",
+        "A": "İnsanlar arasında bilgi ve duygu alışverişidir.",
         "B": "Sadece sözlü mesajların aktarılmasıdır.",
-        "C": "Salt yazılı metinler üzerinden gerçekleşir.<br type=\"_moz\"/>",
-        "D": "Teknolojik araçlar olmadan gercekleştirilemez.<br type=\"_moz\"/>",
+        "C": "Salt yazılı metinler üzerinden gerçekleşir.",
+        "D": "Teknolojik araçlar olmadan gercekleştirilemez.",
         "E": "Sadece resmî kurumlar tarafından yürütülen bir süreçtir.",
         "DogruCevap": "A",
         "DersAd": "Görsel İletişim Tasarımı",

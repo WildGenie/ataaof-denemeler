@@ -301,7 +301,7 @@
     },
     {
         "SoruID": 397654,
-        "SoruMetni": "I. Semantic – UI<br/>II. Foundation<br/>III. Materialize<br/>IV. UI Kit<br/><strong>Yukarıdakilerden hangisi ya da hangileri CSS Framework kütüphaneleri arasında yer alır?</strong></br></br></br>",
+        "SoruMetni": "I. Semantic – UI<br/>II. Foundation<br/>III. Materialize<br/>IV. UI Kit<br/><strong>Yukarıdakilerden hangisi ya da hangileri CSS Framework kütüphaneleri arasında yer alır?</strong>",
         "A": "I, II ve III",
         "B": "I, II ve IV",
         "C": "I, III ve IV",

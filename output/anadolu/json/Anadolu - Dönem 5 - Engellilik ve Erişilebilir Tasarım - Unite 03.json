@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gönderici: Mesajı gönderen, kişi, grup veya kurumdur. Tasarımcı hedef kitleye iletmek isteği mesajı önce zihninde oluşturur daha sonra bu oluşan fikri kodlayarak -sözcüklere, rakamlara, sembollere, işaretlere dönüştürerek- iletişim aracılığı ile alıcıya gönderir. Bu durum hedef kitlenin ihtiyaçları ve kapsayıcı tasarım yönünde kararlar ile desteklenmelidir.<br/>Mesaj: Gönderici tarafından kodlanarak alıcıya gönderilen, gönderici ve alıcı için aynı anlamı taşıyan, duygu ve düşünceleri ifade eder. Tasarımcı sözcükleri, rakamları, sembolleri, işaretlere dönüştürerek iletişim aracılığıyla alıcıya gönderir.</br><br/>Geri bildirim: Alıcının algıladığı ve yorumladığı iletilere, sözlü ve/veya sözsüz tepki verme sürecidir. Gönderici ve hedef arasındaki geriye bilgi akışı olarak tanımlanabilecek geri bildirim, mesajın alıcı tarafından anlaşılıp anlaşılmadığı, ne şekilde anlaşıldığı ve yorumlandığının kaynak tarafından bilinmesine olanak sağlar.<br/>İletişim aracı: İletişimde kullanılan yoldur. Alıcı ile verici arasındaki iletiler sözlü veya yazılı olabilir.<br/>Alıcı: Göndericinin gönderdiği iletiyi alan ve anlamlandıran kişi veya topluluktur.</br><br/>Doğru cevap C'dir."
+        "Aciklama": "Gönderici: Mesajı gönderen, kişi, grup veya kurumdur. Tasarımcı hedef kitleye iletmek isteği mesajı önce zihninde oluşturur daha sonra bu oluşan fikri kodlayarak -sözcüklere, rakamlara, sembollere, işaretlere dönüştürerek- iletişim aracılığı ile alıcıya gönderir. Bu durum hedef kitlenin ihtiyaçları ve kapsayıcı tasarım yönünde kararlar ile desteklenmelidir.<br/>Mesaj: Gönderici tarafından kodlanarak alıcıya gönderilen, gönderici ve alıcı için aynı anlamı taşıyan, duygu ve düşünceleri ifade eder. Tasarımcı sözcükleri, rakamları, sembolleri, işaretlere dönüştürerek iletişim aracılığıyla alıcıya gönderir.<br/>Geri bildirim: Alıcının algıladığı ve yorumladığı iletilere, sözlü ve/veya sözsüz tepki verme sürecidir. Gönderici ve hedef arasındaki geriye bilgi akışı olarak tanımlanabilecek geri bildirim, mesajın alıcı tarafından anlaşılıp anlaşılmadığı, ne şekilde anlaşıldığı ve yorumlandığının kaynak tarafından bilinmesine olanak sağlar.<br/>İletişim aracı: İletişimde kullanılan yoldur. Alıcı ile verici arasındaki iletiler sözlü veya yazılı olabilir.<br/>Alıcı: Göndericinin gönderdiği iletiyi alan ve anlamlandıran kişi veya topluluktur.<br/>Doğru cevap C'dir."
     },
     {
         "SoruID": 3863036,
@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“İletişim nedir?” diye sorulduğunda iletişim kavramı için çok şey söylenebilir. En yaygın tanımıyla iletişim “duygu, düşünce veya bilgilerin akla gelebilecek her türlü yolla başkalarına aktarılması, bildirişim, haberleşme, komünikasyon” olarak tanımlanabilir (Türk Dil Kurumu [TDK]).<br>Yanıt D'dir. İletişimdir."
+        "Aciklama": "“İletişim nedir?” diye sorulduğunda iletişim kavramı için çok şey söylenebilir. En yaygın tanımıyla iletişim “duygu, düşünce veya bilgilerin akla gelebilecek her türlü yolla başkalarına aktarılması, bildirişim, haberleşme, komünikasyon” olarak tanımlanabilir (Türk Dil Kurumu [TDK]).<br/>Yanıt D'dir. İletişimdir."
     },
     {
         "SoruID": 3863315,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gönderici: Mesajı gönderen, kişi, grup veya kurumdur. Tasarımcı hedef kitleye iletmek isteği mesajı önce zihninde oluşturur daha sonra bu oluşan fikri kodlayarak -sözcüklere, rakamlara, sembollere, işaretlere dönüştürerek- iletişim aracılığı ile alıcıya gönderir. Bu durum hedef kitlenin ihtiyaçları ve kapsayıcı tasarım yönünde kararlar ile desteklenmelidir.<br/>Mesaj: Gönderici tarafından kodlanarak alıcıya gönderilen, gönderici ve alıcı için aynı anlamı taşıyan, duygu ve düşünceleri ifade eder. Tasarımcı sözcükleri, rakamları, sembolleri, işaretlere dönüştürerek iletişim aracılığıyla alıcıya gönderir. <br/>Alıcı: Göndericinin gönderdiği iletiyi alan ve anlamlandıran kişi veya topluluktur.<br>Yanıt A'dır. Gönderici - mesaj - alıcıdır."
+        "Aciklama": "Gönderici: Mesajı gönderen, kişi, grup veya kurumdur. Tasarımcı hedef kitleye iletmek isteği mesajı önce zihninde oluşturur daha sonra bu oluşan fikri kodlayarak -sözcüklere, rakamlara, sembollere, işaretlere dönüştürerek- iletişim aracılığı ile alıcıya gönderir. Bu durum hedef kitlenin ihtiyaçları ve kapsayıcı tasarım yönünde kararlar ile desteklenmelidir.<br/>Mesaj: Gönderici tarafından kodlanarak alıcıya gönderilen, gönderici ve alıcı için aynı anlamı taşıyan, duygu ve düşünceleri ifade eder. Tasarımcı sözcükleri, rakamları, sembolleri, işaretlere dönüştürerek iletişim aracılığıyla alıcıya gönderir. <br/>Alıcı: Göndericinin gönderdiği iletiyi alan ve anlamlandıran kişi veya topluluktur.<br/>Yanıt A'dır. Gönderici - mesaj - alıcıdır."
     },
     {
         "SoruID": 3863316,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kavramların geliştirilmesi (çözüm oluşturma): Hangi fikir yada fikirlerle devam edileceğine karar verildikten sonra çeşitli ortamlar, malzemeler, yöntemler, tasarım öğeleri ve ilkeler uygulanarak görselleştirme oluşturulur. Tasarım müşteri geri bildirimine ve/veya özete göre görsel düzenleme, uyarlamalar yapılarak tamamlanır.<br>Yanıt C'dir. Kavramların geliştirilmesidir."
+        "Aciklama": "Kavramların geliştirilmesi (çözüm oluşturma): Hangi fikir yada fikirlerle devam edileceğine karar verildikten sonra çeşitli ortamlar, malzemeler, yöntemler, tasarım öğeleri ve ilkeler uygulanarak görselleştirme oluşturulur. Tasarım müşteri geri bildirimine ve/veya özete göre görsel düzenleme, uyarlamalar yapılarak tamamlanır.<br/>Yanıt C'dir. Kavramların geliştirilmesidir."
     },
     {
         "SoruID": 3863317,
@@ -477,7 +477,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fikir üretimi (yaratılıcılık ve buluş süreci): Öncelikle konu hakkındaki bilgiler bir araya getirilerek değerlendirilir. Araştırmalardan yararlanılarak olası fikirler bulunup görselleştirme taslakları ya da fikir eskizleri oluşturulur. Tasarımcı kağıda ilk eskizlerini karaladığında “dışavurumculu yaratıcılık” aşamasındadır. Eskiz biraz daha ayrıntılı bir hale getirildiğinde ise “üretken yaratıcılık” aşamasına geçilmiş olur.<br>Yanıt A'dır. Fikir üretimidir."
+        "Aciklama": "Fikir üretimi (yaratılıcılık ve buluş süreci): Öncelikle konu hakkındaki bilgiler bir araya getirilerek değerlendirilir. Araştırmalardan yararlanılarak olası fikirler bulunup görselleştirme taslakları ya da fikir eskizleri oluşturulur. Tasarımcı kağıda ilk eskizlerini karaladığında “dışavurumculu yaratıcılık” aşamasındadır. Eskiz biraz daha ayrıntılı bir hale getirildiğinde ise “üretken yaratıcılık” aşamasına geçilmiş olur.<br/>Yanıt A'dır. Fikir üretimidir."
     },
     {
         "SoruID": 3863318,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Empati kurun: Tasarım odaklı düşünmenin ilk aşaması, kullanıcılar ve onların ihtiyaçları hakkında gerçek bilgiler edinmektir. Çözmeye çalıştığınız problem hakkında empatik bir anlayış kazanmak istiyorsanız, daha fazla bilgi edinmek için uzmanlara danışmak ve kullanıcılarla etkileşim kurmak ve empati kurmak için gözlemler yapmak uygun olacaktır. Ayrıca ilgili sorunların yanı sıra deneyimleri ve motivasyonları hakkında daha derin, kişisel bir anlayış kazanmak için kendinizi kullanıcılarınızın fiziksel ortamına sokmak isteyebilirsiniz. Empati, tasarım düşünürlerinin dünyayla ilgili kendi varsayımlarını bir kenara bırakmalarına<br/>ve kullanıcılar ve onların ihtiyaçları hakkında gerçek bir iç görü kazanmalarına olanak tanıdığından, problem çözme ve insan merkezli bir tasarım sürecinin merkezinde yer alır. Özellikle engelliler söz konusu olduğunda genel kalıpları bir kenara bırakmak gerekir. Bir engellinin algısı söz konusu olduğunda ne kalıplar ne de bizim kendi algılama deneyimimiz<br/>bize yol göstermeyecekti<br>Yanıt E'dir. Empati kurmadır."
+        "Aciklama": "Empati kurun: Tasarım odaklı düşünmenin ilk aşaması, kullanıcılar ve onların ihtiyaçları hakkında gerçek bilgiler edinmektir. Çözmeye çalıştığınız problem hakkında empatik bir anlayış kazanmak istiyorsanız, daha fazla bilgi edinmek için uzmanlara danışmak ve kullanıcılarla etkileşim kurmak ve empati kurmak için gözlemler yapmak uygun olacaktır. Ayrıca ilgili sorunların yanı sıra deneyimleri ve motivasyonları hakkında daha derin, kişisel bir anlayış kazanmak için kendinizi kullanıcılarınızın fiziksel ortamına sokmak isteyebilirsiniz. Empati, tasarım düşünürlerinin dünyayla ilgili kendi varsayımlarını bir kenara bırakmalarına<br/>ve kullanıcılar ve onların ihtiyaçları hakkında gerçek bir iç görü kazanmalarına olanak tanıdığından, problem çözme ve insan merkezli bir tasarım sürecinin merkezinde yer alır. Özellikle engelliler söz konusu olduğunda genel kalıpları bir kenara bırakmak gerekir. Bir engellinin algısı söz konusu olduğunda ne kalıplar ne de bizim kendi algılama deneyimimiz<br/>bize yol göstermeyecekti<br/>Yanıt E'dir. Empati kurmadır."
     },
     {
         "SoruID": 3863319,
@@ -517,7 +517,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Punto satırların uzunluğunu ölçmek için kullanılır.\" ifadesi yanlıştır. Punto harf ölçüsünü ölçmek, pika ise satırların uzunluğunu ölçmek için kullanılır.<br>Yanıt D'dir. \"Punto satırların uzunluğunu ölçmek için kullanılır.\" ifadesi yanlıştır."
+        "Aciklama": "\"Punto satırların uzunluğunu ölçmek için kullanılır.\" ifadesi yanlıştır. Punto harf ölçüsünü ölçmek, pika ise satırların uzunluğunu ölçmek için kullanılır.<br/>Yanıt D'dir. \"Punto satırların uzunluğunu ölçmek için kullanılır.\" ifadesi yanlıştır."
     },
     {
         "SoruID": 3863320,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuturluk: Okuturluk okunurluktan farklıdır; bu kavram yalnız yazı karakterini içermez. Okuturluk yazı karakterlerinden kağıt seçimine, renk ilişkileri, kontrast ve bütün baskı nesneleriyle ilgilidir ve her düzenleme etkeninin nasıl olduğunu içerir. Bir başka deyişle her şeyin hoşnut edici bir okuma yaratmasıdır. Okunurluk yazı karakteri ve hart ölçüsüne bağlıyken okuturluk bütün tasarımda temellenir.<br>Yanıt D'dir. Okuturluktur."
+        "Aciklama": "Okuturluk: Okuturluk okunurluktan farklıdır; bu kavram yalnız yazı karakterini içermez. Okuturluk yazı karakterlerinden kağıt seçimine, renk ilişkileri, kontrast ve bütün baskı nesneleriyle ilgilidir ve her düzenleme etkeninin nasıl olduğunu içerir. Bir başka deyişle her şeyin hoşnut edici bir okuma yaratmasıdır. Okunurluk yazı karakteri ve hart ölçüsüne bağlıyken okuturluk bütün tasarımda temellenir.<br/>Yanıt D'dir. Okuturluktur."
     },
     {
         "SoruID": 3863321,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "CMYK (Cyan, Magenta, Yellow, Key) kağıda basılacak tasarımlarda kullanılan çıkarmalı renk<br/>modeldir CMYK modeli, beyaz bir yüzeyi maskeleme prensibi ile çalışır. Işık mürekkep tarafından emilir bu nedenle model çıkarmalı olarak adlandırılır, çünkü mürekkepler beyaz ışıktan kırmızı, yeşil ve mavi renkleri “çıkarır.” Cyan: camgöbeğinin, Magenta: macentanın, Yellow: sarının ve Key: anahtar(siyah)ın kısaltmasıdır. <br/>RGB (Red, Green, Blue) renk modeli dijital ortamlarda kullanılır. İnternette bulunan grafikler ve imajlarda ve bilgisayar veya LCD ekran teknolojisinde Red: kırmızı, Green: yeşil, Blue: mavi renklerin kısaltmasıdır. Bu sistemde renkler mürekkepten değil ışıktan oluşur.<br>Yanıt A'dır. CMYK renk modeli dijital ortamlarda kullanılır ifadesi yanlıştır."
+        "Aciklama": "CMYK (Cyan, Magenta, Yellow, Key) kağıda basılacak tasarımlarda kullanılan çıkarmalı renk<br/>modeldir CMYK modeli, beyaz bir yüzeyi maskeleme prensibi ile çalışır. Işık mürekkep tarafından emilir bu nedenle model çıkarmalı olarak adlandırılır, çünkü mürekkepler beyaz ışıktan kırmızı, yeşil ve mavi renkleri “çıkarır.” Cyan: camgöbeğinin, Magenta: macentanın, Yellow: sarının ve Key: anahtar(siyah)ın kısaltmasıdır. <br/>RGB (Red, Green, Blue) renk modeli dijital ortamlarda kullanılır. İnternette bulunan grafikler ve imajlarda ve bilgisayar veya LCD ekran teknolojisinde Red: kırmızı, Green: yeşil, Blue: mavi renklerin kısaltmasıdır. Bu sistemde renkler mürekkepten değil ışıktan oluşur.<br/>Yanıt A'dır. CMYK renk modeli dijital ortamlarda kullanılır ifadesi yanlıştır."
     },
     {
         "SoruID": 3863322,
@@ -597,6 +597,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Roland Barthes (1915-1980) göstergebilimde etkili bir figür olmuştur. Açıkladığı kavramlardan biri olan uylaşımın açıklaması:<br/>Uylaşım: Belli bir grup veya kültür için bir göstergenin belli bir şeyi, nesneyi veya kavramı temsil etmesi üzerine bir anlaşmadır. Bu, park yeri, dolar işareti, kahve fincanı kahve gibi dünya çapında anlaşılan bir gösterge veya bir futbol takımının sembolu olarak kara kartal yada kanarya gibi daha özel olabilir.<br>Yanıt A'dır. Uylaşımdır."
+        "Aciklama": "Roland Barthes (1915-1980) göstergebilimde etkili bir figür olmuştur. Açıkladığı kavramlardan biri olan uylaşımın açıklaması:<br/>Uylaşım: Belli bir grup veya kültür için bir göstergenin belli bir şeyi, nesneyi veya kavramı temsil etmesi üzerine bir anlaşmadır. Bu, park yeri, dolar işareti, kahve fincanı kahve gibi dünya çapında anlaşılan bir gösterge veya bir futbol takımının sembolu olarak kara kartal yada kanarya gibi daha özel olabilir.<br/>Yanıt A'dır. Uylaşımdır."
     }
 ]

@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mali haklar; eseri işleme, çoğaltma, yayma, temsil etme ve umuma iletme haklarıdır (FSEK m. 21 vd.).<br>Eseri umuma arz etme hakkı, adın belirtilmesi hakkı, eserin değiştirilmesini yasaklama hakkı ve zilyet ile malike karşı haklar gibi manevi haklar (FSEK m. 14-17) ise eser sahibinin kişiliği ile yakından ilişkili olmaları sebebiyle hukuki işlemlere konu olmamaktadır."
+        "Aciklama": "Mali haklar; eseri işleme, çoğaltma, yayma, temsil etme ve umuma iletme haklarıdır (FSEK m. 21 vd.).<br/>Eseri umuma arz etme hakkı, adın belirtilmesi hakkı, eserin değiştirilmesini yasaklama hakkı ve zilyet ile malike karşı haklar gibi manevi haklar (FSEK m. 14-17) ise eser sahibinin kişiliği ile yakından ilişkili olmaları sebebiyle hukuki işlemlere konu olmamaktadır."
     },
     {
         "SoruID": 3700862,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu sözleşme, eser üzerindeki telif haklarının ne ölçüde ve hangi koşullar altında devredileceğini belirler. Bununla birlikte, henüz meydana getirilmemiş/tamamlanmamış eserler ile ilgili olarak yapılan “mali hakkın devri sözleşmesi” hakkın doğrudan karşı tarafa geçmesini sağlamaz (FSEK m. 48/3).<br>Bir sanatsever, ünlü bir ressamın tablosunu satın aldığında, bu satış, tablonun fiziksel mülkiyetini sanatsevere devreder; ancak tablo üzerindeki mali nitelikteki fikrî haklar (telif hakları) doğrudan tabloyu satın alan kişiye geçmez. Dolayısıyla tabloyu satın alan kişi onu evinde sergileyebilir; ancak tablonun kopyalarını yapma, dağıtma veya tabloyu ticari amaçla yahut kendi özel alanı dışında kullanım haklarına sahip değildir. Bu haklar hâlâ eserin yaratıcısına aittir. Eğer tabloyu satın alan sanatsever bu hakları da elde etmek istiyorsa, eser sahibiyle ayrı bir “mali hakların devri sözleşmesi” yapmalıdır."
+        "Aciklama": "Bu sözleşme, eser üzerindeki telif haklarının ne ölçüde ve hangi koşullar altında devredileceğini belirler. Bununla birlikte, henüz meydana getirilmemiş/tamamlanmamış eserler ile ilgili olarak yapılan “mali hakkın devri sözleşmesi” hakkın doğrudan karşı tarafa geçmesini sağlamaz (FSEK m. 48/3).<br/>Bir sanatsever, ünlü bir ressamın tablosunu satın aldığında, bu satış, tablonun fiziksel mülkiyetini sanatsevere devreder; ancak tablo üzerindeki mali nitelikteki fikrî haklar (telif hakları) doğrudan tabloyu satın alan kişiye geçmez. Dolayısıyla tabloyu satın alan kişi onu evinde sergileyebilir; ancak tablonun kopyalarını yapma, dağıtma veya tabloyu ticari amaçla yahut kendi özel alanı dışında kullanım haklarına sahip değildir. Bu haklar hâlâ eserin yaratıcısına aittir. Eğer tabloyu satın alan sanatsever bu hakları da elde etmek istiyorsa, eser sahibiyle ayrı bir “mali hakların devri sözleşmesi” yapmalıdır."
     },
     {
         "SoruID": 3700863,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eğer ortaklardan biri eserin alenileşmesinden sonra vefat ederse, diğer ortaklar eserin sahipliğini ölen ortağın mirasçılarıyla devam ettirme konusunda serbesttirler. Eğer devam etme kararı alırlarsa, kalan eser sahipleri, birlik adına hareket etmek üzere mirasçılar arasından bir temsilci belirlenmesini talep edebilirler. Eğer devam etme kararı alınmazsa, eserin sahipliği ile ilgili bir önceki kural (yani ölüm öncesinde ortaklık hissesinin taksimi ve mirasçılara bedel ödenmesi) uygulanır.<br>FSEK m. 64’e göre; şayet eser birden fazla kişi tarafından ortaklaşa meydana getirilmişse, eserin tamamlanmasından ya da alenileşmesinden önce vefat eden ortağın hissesi diğer ortaklar arasında paylaştırılır. Diğer ortaklar, ölenin mirasçılarına uygun bir bedel ödemekle yükümlüdürler. Eğer mirasçılarla ödenecek miktar konusunda anlaşmazlık yaşanırsa miktar mahkeme tarafından tespit edilir."
+        "Aciklama": "Eğer ortaklardan biri eserin alenileşmesinden sonra vefat ederse, diğer ortaklar eserin sahipliğini ölen ortağın mirasçılarıyla devam ettirme konusunda serbesttirler. Eğer devam etme kararı alırlarsa, kalan eser sahipleri, birlik adına hareket etmek üzere mirasçılar arasından bir temsilci belirlenmesini talep edebilirler. Eğer devam etme kararı alınmazsa, eserin sahipliği ile ilgili bir önceki kural (yani ölüm öncesinde ortaklık hissesinin taksimi ve mirasçılara bedel ödenmesi) uygulanır.<br/>FSEK m. 64’e göre; şayet eser birden fazla kişi tarafından ortaklaşa meydana getirilmişse, eserin tamamlanmasından ya da alenileşmesinden önce vefat eden ortağın hissesi diğer ortaklar arasında paylaştırılır. Diğer ortaklar, ölenin mirasçılarına uygun bir bedel ödemekle yükümlüdürler. Eğer mirasçılarla ödenecek miktar konusunda anlaşmazlık yaşanırsa miktar mahkeme tarafından tespit edilir."
     },
     {
         "SoruID": 3700864,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "FSEK m. 56’ya göre ruhsat; mali hak sahibinin başkalarına da aynı ruhsatı vermesine mâni değilse “basit ruhsat”; yalnız bir kimseye mahsus olduğu takdirde “tam ruhsat” olarak adlandırılır. Kanun veya sözleşmeden aksi anlaşılmadıkça her ruhsat basit sayılır.<br>FSEK m. 48, eser sahibi veya mirasçılarının kendilerine kanunen tanınan mali hakları başkalarına devredebilecekleri gibi bu hakların yalnızca kullanma yetkisini de diğer bir kimseye bırakabileceklerini kabul etmiş ve söz konusu hukuki işlemi “ruhsat” olarak nitelendirmiştir. Ancak uygulamada ruhsat yerine “lisans” ifadesi de kullanır."
+        "Aciklama": "FSEK m. 56’ya göre ruhsat; mali hak sahibinin başkalarına da aynı ruhsatı vermesine mâni değilse “basit ruhsat”; yalnız bir kimseye mahsus olduğu takdirde “tam ruhsat” olarak adlandırılır. Kanun veya sözleşmeden aksi anlaşılmadıkça her ruhsat basit sayılır.<br/>FSEK m. 48, eser sahibi veya mirasçılarının kendilerine kanunen tanınan mali hakları başkalarına devredebilecekleri gibi bu hakların yalnızca kullanma yetkisini de diğer bir kimseye bırakabileceklerini kabul etmiş ve söz konusu hukuki işlemi “ruhsat” olarak nitelendirmiştir. Ancak uygulamada ruhsat yerine “lisans” ifadesi de kullanır."
     },
     {
         "SoruID": 3700865,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bu lisans eserin yalnızca ticari olmayan amaçlarla ve değiştirilmeden kullanılmasına izin verir ve eserin kaynağına atıf yapılmasını şart koşar.<br>CC BY-NC-ND (Attribution-NonCommercial-NoDerivs), en kısıtlayıcı lisans türüdür."
+        "Aciklama": "Bu lisans eserin yalnızca ticari olmayan amaçlarla ve değiştirilmeden kullanılmasına izin verir ve eserin kaynağına atıf yapılmasını şart koşar.<br/>CC BY-NC-ND (Attribution-NonCommercial-NoDerivs), en kısıtlayıcı lisans türüdür."
     },
     {
         "SoruID": 3700867,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mali hakkı devralan kişinin kullanmamakta kusuru yoksa veya eser sahibinin kusuru daha ağır ise cayma hakkını kullanan kişiden uygun bir tazminat istenebilir (FSEK m. 58/4).<br>Mehil verilmesine gerek duyulan durumlarda verilen mehil sonuçsuz kalmışsa, noter aracılığı ile yapılacak ihbar neticesinde cayma, hüküm ve sonuçlarını doğurur (FSEK m. 58/3). Cayma ihbarının tebliğinden itibaren 4 hafta geçtikten sonra caymaya karşı itiraz davası açılamaz."
+        "Aciklama": "Mali hakkı devralan kişinin kullanmamakta kusuru yoksa veya eser sahibinin kusuru daha ağır ise cayma hakkını kullanan kişiden uygun bir tazminat istenebilir (FSEK m. 58/4).<br/>Mehil verilmesine gerek duyulan durumlarda verilen mehil sonuçsuz kalmışsa, noter aracılığı ile yapılacak ihbar neticesinde cayma, hüküm ve sonuçlarını doğurur (FSEK m. 58/3). Cayma ihbarının tebliğinden itibaren 4 hafta geçtikten sonra caymaya karşı itiraz davası açılamaz."
     },
     {
         "SoruID": 3700871,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kanun’da yalnızca eser sahipliğinin tespitine yönelik bir talep hakkı öngörülmüştür (FSEK m. 15/3). Hükme göre, eğer eserin kim tarafından yaratıldığı konusunda bir anlaşmazlık varsa ya da bir kişi eserin sahibi olduğunu iddia ediyorsa, eserin gerçek sahibinin belirlenmesi için mahkemeye başvurulabilir.<br>Tespit davası, bir hukuki ilişkinin veya bir hakkın varlığının ya da yokluğunun mahkeme tarafından resmî olarak tespiti için açılan davadır. Davanın açılmasındaki temel amaç, belirsiz bir hukuki durumu netleştirmek ve ileride oluşabilecek uyuşmazlıkları önlemektir. Tespit davasının sonucu, gelecekteki hukuki işlemlere ve kararlara yön verir; taraflar arasındaki belirsizliği ortadan kaldırır. Bununla birlikte FSEK’te genel bir “tecavüzün tespiti” davası düzenlenmemiştir."
+        "Aciklama": "Kanun’da yalnızca eser sahipliğinin tespitine yönelik bir talep hakkı öngörülmüştür (FSEK m. 15/3). Hükme göre, eğer eserin kim tarafından yaratıldığı konusunda bir anlaşmazlık varsa ya da bir kişi eserin sahibi olduğunu iddia ediyorsa, eserin gerçek sahibinin belirlenmesi için mahkemeye başvurulabilir.<br/>Tespit davası, bir hukuki ilişkinin veya bir hakkın varlığının ya da yokluğunun mahkeme tarafından resmî olarak tespiti için açılan davadır. Davanın açılmasındaki temel amaç, belirsiz bir hukuki durumu netleştirmek ve ileride oluşabilecek uyuşmazlıkları önlemektir. Tespit davasının sonucu, gelecekteki hukuki işlemlere ve kararlara yön verir; taraflar arasındaki belirsizliği ortadan kaldırır. Bununla birlikte FSEK’te genel bir “tecavüzün tespiti” davası düzenlenmemiştir."
     },
     {
         "SoruID": 3700874,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Mahkeme, kusurun mevcudiyeti ve ağırlığını dikkate alarak, tecavüzün men’i için uygun tedbirlerin neler olduğunu belirler (FSEK m. 69/2, m. 66/4)<br>Bu davanın açılabilmesi için haksız eylemi gerçekleştiren ya da gerçekleştireceğinden şüphe duyulan kişinin kusurunun bulunması şart değildir."
+        "Aciklama": "Mahkeme, kusurun mevcudiyeti ve ağırlığını dikkate alarak, tecavüzün men’i için uygun tedbirlerin neler olduğunu belirler (FSEK m. 69/2, m. 66/4)<br/>Bu davanın açılabilmesi için haksız eylemi gerçekleştiren ya da gerçekleştireceğinden şüphe duyulan kişinin kusurunun bulunması şart değildir."
     },
     {
         "SoruID": 3700875,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dava, her hâlükarda izinsiz kullanımının gerçekleştiği tarihten itibaren on yıl içinde açılmalıdır. O hâlde örneğin, izinsiz kullanım 2012 yılında gerçekleşmişse ama tasarımcı bu durumu 2023 yılında öğrenmişse olayın gerçekleştiği tarihten itibaren on yıl geçtiği için artık tazminat talep edilemez.<br>Bir tasarımcı, FSEK veya SMK ile korunan tasarımının bir şirket tarafından izinsiz kullanıldığını fark ederse, zararı ve tazminat yükümlüsü şirketi öğrendiği tarihten itibaren iki yıl içinde tazminat davası açmalıdır. Aksi hâlde bir daha bu talebi ileri süremez."
+        "Aciklama": "Dava, her hâlükarda izinsiz kullanımının gerçekleştiği tarihten itibaren on yıl içinde açılmalıdır. O hâlde örneğin, izinsiz kullanım 2012 yılında gerçekleşmişse ama tasarımcı bu durumu 2023 yılında öğrenmişse olayın gerçekleştiği tarihten itibaren on yıl geçtiği için artık tazminat talep edilemez.<br/>Bir tasarımcı, FSEK veya SMK ile korunan tasarımının bir şirket tarafından izinsiz kullanıldığını fark ederse, zararı ve tazminat yükümlüsü şirketi öğrendiği tarihten itibaren iki yıl içinde tazminat davası açmalıdır. Aksi hâlde bir daha bu talebi ileri süremez."
     },
     {
         "SoruID": 3700878,
@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Başkasının hak sahibi olduğu marka taklit edilerek üretilmiş malı, satışa arz eden veya satan kişinin bu malı nereden temin ettiğini bildirmesi ve bu suretle üretenlerin ortaya çıkarılmasını ve üretilmiş mallara el konulmasını sağlaması hâlinde hakkında cezaya hükmolunmaz.<br>Marka koruması olduğunu belirten işareti mal veya ambalaj üzerinden yetkisi olmadan kaldıran kişi ise bir yıldan üç yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır. Yetkisi olmadığı hâlde başkasına ait marka hakkını devretmek, lisans veya rehin vermek suretiyle tasarrufta bulunan kişiye verilecek ceza ise iki yıldan dört yıla kadar hapis ve beş bin güne kadar adli para cezasıdır."
+        "Aciklama": "Başkasının hak sahibi olduğu marka taklit edilerek üretilmiş malı, satışa arz eden veya satan kişinin bu malı nereden temin ettiğini bildirmesi ve bu suretle üretenlerin ortaya çıkarılmasını ve üretilmiş mallara el konulmasını sağlaması hâlinde hakkında cezaya hükmolunmaz.<br/>Marka koruması olduğunu belirten işareti mal veya ambalaj üzerinden yetkisi olmadan kaldıran kişi ise bir yıldan üç yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır. Yetkisi olmadığı hâlde başkasına ait marka hakkını devretmek, lisans veya rehin vermek suretiyle tasarrufta bulunan kişiye verilecek ceza ise iki yıldan dört yıla kadar hapis ve beş bin güne kadar adli para cezasıdır."
     },
     {
         "SoruID": 3841978,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Sadece mülkiyet devri ile eseri kopyalayıp satamaz. Mali haklarının devri sözleşmesinin de yapılması gerekir.<br>Mülkiyet ve mali hak devri sözleşmesi birlikte yapılmış ise bu işlemi yapabilir."
+        "Aciklama": "Sadece mülkiyet devri ile eseri kopyalayıp satamaz. Mali haklarının devri sözleşmesinin de yapılması gerekir.<br/>Mülkiyet ve mali hak devri sözleşmesi birlikte yapılmış ise bu işlemi yapabilir."
     },
     {
         "SoruID": 3842151,
@@ -497,7 +497,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Günümüz dünyasında, sanat ve ilim eserlerinin dijital platformlarda yayılması, bu eserlerin daha geniş bir kitleye ulaşmasını sağlamış ve bunların başka çalışmalarda kullanılma isteği, her kullanıcı için ayrı ayrı ruhsat/lisans anlaşmaları yapmanın zorluğu nedeniyle “açık lisans” sistemlerinin gelişmesine neden olmuştur.<br>Günümüzdeki en yaygın açık lisans uygulamalarından biri Creative Commons<br/>(CC) olarak anılan, eser sahiplerinin eserlerini belirli şartlar altında kullanıma açmasını sağlayan lisans sistemidir."
+        "Aciklama": "Günümüz dünyasında, sanat ve ilim eserlerinin dijital platformlarda yayılması, bu eserlerin daha geniş bir kitleye ulaşmasını sağlamış ve bunların başka çalışmalarda kullanılma isteği, her kullanıcı için ayrı ayrı ruhsat/lisans anlaşmaları yapmanın zorluğu nedeniyle “açık lisans” sistemlerinin gelişmesine neden olmuştur.<br/>Günümüzdeki en yaygın açık lisans uygulamalarından biri Creative Commons<br/>(CC) olarak anılan, eser sahiplerinin eserlerini belirli şartlar altında kullanıma açmasını sağlayan lisans sistemidir."
     },
     {
         "SoruID": 3842165,
@@ -537,7 +537,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tekeffül, “sorumluluk” anlamına gelir.<br>FSEK’in 53 ve 54. maddeleri, mali hakların devri ve kullanım ruhsatlarının verilmesi süreçlerinde hem hak sahiplerini hem de alıcıları koruyan önlemler içerir. Kanun koyucu bu maddeleri “Tekeffül” başlığı altında düzenlemiştir."
+        "Aciklama": "Tekeffül, “sorumluluk” anlamına gelir.<br/>FSEK’in 53 ve 54. maddeleri, mali hakların devri ve kullanım ruhsatlarının verilmesi süreçlerinde hem hak sahiplerini hem de alıcıları koruyan önlemler içerir. Kanun koyucu bu maddeleri “Tekeffül” başlığı altında düzenlemiştir."
     },
     {
         "SoruID": 3842177,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tazminat, hakkına tecavüz edilen kişinin bu ihlal nedeniyle zarara uğraması hâlinde açılabilecek bir davadır. Ayrıca bu davanın açılabilmesi için hakkı ihlal edilen kişinin kusurlu olması ve ihlal fiili ile uğranılan zarar arasında nedensellik bağının bulunması gerekir.<br>Tazminat dışındaki taleplerde, ihlal eden kişinin bir kusurunun olması ve hakkı ihlal edilen kişinin zarara uğraması şart değildir."
+        "Aciklama": "Tazminat, hakkına tecavüz edilen kişinin bu ihlal nedeniyle zarara uğraması hâlinde açılabilecek bir davadır. Ayrıca bu davanın açılabilmesi için hakkı ihlal edilen kişinin kusurlu olması ve ihlal fiili ile uğranılan zarar arasında nedensellik bağının bulunması gerekir.<br/>Tazminat dışındaki taleplerde, ihlal eden kişinin bir kusurunun olması ve hakkı ihlal edilen kişinin zarara uğraması şart değildir."
     },
     {
         "SoruID": 3842182,
@@ -597,6 +597,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "SMK’de düzenlenen hakların ihlali hâlinde hak sahibinin çeşitli hukuk davaları açma imkânı mevcuttur. Ceza davalarını açma imkânı ise tüm sınai hak sahiplerine değil yalnızca marka sahiplerine tanınmıştır.<br>Sınai Mülkiyet Kanunundaki hakların tümünün ihlalinde ceza davası söz konusu değildir. Sadece marka sahipliğine yönelik ceza davaları söz konusudur."
+        "Aciklama": "SMK’de düzenlenen hakların ihlali hâlinde hak sahibinin çeşitli hukuk davaları açma imkânı mevcuttur. Ceza davalarını açma imkânı ise tüm sınai hak sahiplerine değil yalnızca marka sahiplerine tanınmıştır.<br/>Sınai Mülkiyet Kanunundaki hakların tümünün ihlalinde ceza davası söz konusu değildir. Sadece marka sahipliğine yönelik ceza davaları söz konusudur."
     }
 ]

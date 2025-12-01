@@ -18,9 +18,7 @@
     - D-) Kaybolan Kadın
     - E-) Büyük Tren Soygunu
 
-    > **Açıklama:** İlk kurgu örneklerini aradığımız yer doğal olarak ilk sinema filminin kendisidir. İlk sinema filminin
-    > gösterimini yapan Fransız Louis ve Auguste Lumière kardeşler çektikleri filmlerinde belki bir dakikayı
-    > bile bulmayan ürünler ortaya koydular ama ‘kurgu’ açısından tartışılması gereken çok önemli noktaları da bizlere sunmuş oldular. İlk akla gelen “Trenin Gara Girişi” (Arrival of Train at La Ciotat- 1895) ve “İşçilerin Fabrikadan Çıkışı” (Workers Leaving the Lumière Factory- 1895) filmlerinde ilk dikkati çeken konu filmlerin mekanik olarak bir kurguya sahip olmasa da içerik olarak önemli bir kurgu üretmesidir. Elbette, bu filmlerin o dönem açısından sessiz filmler olduğunu da hatırlamalıyız. Lumière kardeşlerin çektiği filmlerin önemli bir bölümü bir dakikadan kısa filmlerdir. Bu filmlerde en dikkati çeken şey kurgunun yer alış biçimidir. Tek çekimden oluşan filmler üretmişlerdir.
+    > **Açıklama:** İlk kurgu örneklerini aradığımız yer doğal olarak ilk sinema filminin kendisidir. İlk sinema filminin<br />gösterimini yapan Fransız Louis ve Auguste Lumière kardeşler çektikleri filmlerinde belki bir dakikayı<br />bile bulmayan ürünler ortaya koydular ama ‘kurgu’ açısından tartışılması gereken çok önemli noktaları da bizlere sunmuş oldular. İlk akla gelen “Trenin Gara Girişi” (Arrival of Train at La Ciotat- 1895) ve “İşçilerin Fabrikadan Çıkışı” (Workers Leaving the Lumière Factory- 1895) filmlerinde ilk dikkati çeken konu filmlerin mekanik olarak bir kurguya sahip olmasa da içerik olarak önemli bir kurgu üretmesidir. Elbette, bu filmlerin o dönem açısından sessiz filmler olduğunu da hatırlamalıyız. Lumière kardeşlerin çektiği filmlerin önemli bir bölümü bir dakikadan kısa filmlerdir. Bu filmlerde en dikkati çeken şey kurgunun yer alış biçimidir. Tek çekimden oluşan filmler üretmişlerdir.
 
     <hr />
 1. Kurgudan faydalanma ve bir biçim oluşturma çabası nedeniyle ‘biçimci’ ve biçimcilerin ilki olarak tanımlanan yönetmen aşağıdakilerden hangisidir?
@@ -30,8 +28,7 @@
     - D-) Lumière kardeşler
     - **Cevap E-) Georges Méliès**
 
-    > **Açıklama:** Georges Méliès’in kurgu aracılığı ile çok belirgin olmasa da belli bir biçim üretme çabasında olduğunu görüyoruz. Kurgu ile belli görsel birlikteliklerden oluşan bir yapı-biçim oluşturmaya çalıştığını görüyoruz. İşte bu noktada, Lumière kardeşlerin de kurguya ilişkin yaklaşımları nedeniyle ‘gerçekçi’ ve gerçekçilerin ilki (realist ve realism akımları); Georges Méliès’in ise kurgudan faydalanma ve bir biçim oluşturma çabası nedeniyle ‘biçimci’ ve biçimcilerin ilki (formalist ve formalism akımı) olarak tanımlandıklarını söyleyebiliriz. Kurgunun bir biçim üreten (kurmaca filmin öncüsü olarak da ifade bulabilir) yöntem ve araç olarak görülmesi beraberinde filmin belli türlerinin de ortaya çıkmasını söz konusu etmiştir. Örneğin, bilim kurgu, deneysel film ve korku filmleri gibi kurguya dayalı belli anlatı yapısındaki filmler bu biçimci yaklaşımın içerisinde ele alınırlar.
-    > Georges Méliès’in kurgu aracılığı ile çok belirgin olmasa da belli bir biçim üretme çabasında olduğunu görüyoruz. Kurgu ile belli görsel birlikteliklerden oluşan bir yapı-biçim oluşturmaya çalıştığını görüyoruz. Georges Méliès’in ise kurgudan faydalanma ve bir biçim oluşturma çabası nedeniyle ‘biçimci’ ve biçimcilerin ilki (formalist ve formalism akımı) olarak tanımlandığını söyleyebiliriz.
+    > **Açıklama:** Georges Méliès’in kurgu aracılığı ile çok belirgin olmasa da belli bir biçim üretme çabasında olduğunu görüyoruz. Kurgu ile belli görsel birlikteliklerden oluşan bir yapı-biçim oluşturmaya çalıştığını görüyoruz. İşte bu noktada, Lumière kardeşlerin de kurguya ilişkin yaklaşımları nedeniyle ‘gerçekçi’ ve gerçekçilerin ilki (realist ve realism akımları); Georges Méliès’in ise kurgudan faydalanma ve bir biçim oluşturma çabası nedeniyle ‘biçimci’ ve biçimcilerin ilki (formalist ve formalism akımı) olarak tanımlandıklarını söyleyebiliriz. Kurgunun bir biçim üreten (kurmaca filmin öncüsü olarak da ifade bulabilir) yöntem ve araç olarak görülmesi beraberinde filmin belli türlerinin de ortaya çıkmasını söz konusu etmiştir. Örneğin, bilim kurgu, deneysel film ve korku filmleri gibi kurguya dayalı belli anlatı yapısındaki filmler bu biçimci yaklaşımın içerisinde ele alınırlar.<br />Georges Méliès’in kurgu aracılığı ile çok belirgin olmasa da belli bir biçim üretme çabasında olduğunu görüyoruz. Kurgu ile belli görsel birlikteliklerden oluşan bir yapı-biçim oluşturmaya çalıştığını görüyoruz. Georges Méliès’in ise kurgudan faydalanma ve bir biçim oluşturma çabası nedeniyle ‘biçimci’ ve biçimcilerin ilki (formalist ve formalism akımı) olarak tanımlandığını söyleyebiliriz.
 
     <hr />
 1. Kurgu sayesinde izleyici açısından heyecanın yaratılması için ‘doruk noktaların’ üretilmesine çalışan yönetmen aşağıdakilerden hangisidir?
@@ -41,8 +38,7 @@
     - D-) Lev Kulsehov
     - E-) Orson Welles
 
-    > **Açıklama:** Edwin Porter’in kurgu sayesinde elde ettiği bir başka önemli nokta ise izleyici açısından heyecanın
-    > üretilebilmesi için ‘doruk noktaların’ üretilmesine çalışmasıdır. Doruk noktalarının üretilmesi heyecana dayalı bir sürecin farklı çekimlerin kurguda bir araya izleyenin heyecanla takip ettiği bir süreci daha geniş bir zamana yayma ve izleyiciyi de heyecan içerisinde tutma anlamına gelmektedir. Edwin Porter kurgudan belli oranda yararlanmış olsa da daha çok öykünün anlatı yapısı ve çekimler içerisindeki düzenlemeler bu doruk noktalarının ortaya çıkmasında belirleyici olmuştur.
+    > **Açıklama:** Edwin Porter’in kurgu sayesinde elde ettiği bir başka önemli nokta ise izleyici açısından heyecanın<br />üretilebilmesi için ‘doruk noktaların’ üretilmesine çalışmasıdır. Doruk noktalarının üretilmesi heyecana dayalı bir sürecin farklı çekimlerin kurguda bir araya izleyenin heyecanla takip ettiği bir süreci daha geniş bir zamana yayma ve izleyiciyi de heyecan içerisinde tutma anlamına gelmektedir. Edwin Porter kurgudan belli oranda yararlanmış olsa da daha çok öykünün anlatı yapısı ve çekimler içerisindeki düzenlemeler bu doruk noktalarının ortaya çıkmasında belirleyici olmuştur.
 
     <hr />
 1. "Temel olan sahne değil, planlardır." diyerek çekimlere vurgu yapan yönetmen aşağıdakilerden hangisidir?
@@ -52,8 +48,7 @@
     - D-) Quentin Tarantino
     - E-) Sergei Eisenstein
 
-    > **Açıklama:** David W. Griffith için temel olan sahne değil, planlardır. Bir başka deyişle çekimlerdir. Kafasındaki
-    > düşüncelerin bütünselliğini parçalara bölmüştür. Bu şekilde perdeye aktarılması gerektiğini düşünmüştür. Tüm süreçler içerisinde de en önemli aracı yine çekimler kadar kurgu olmuştur. Planladığı çekimleri kurgu aracılığı ile belli bir bütün haline getirmiştir. Kurgudan yararlanabileceğine karar verdiği andan itibaren çekimler ile yapabileceklerinin çok daha anlamlı ve güçlü olacağını düşünmüştür.
+    > **Açıklama:** David W. Griffith için temel olan sahne değil, planlardır. Bir başka deyişle çekimlerdir. Kafasındaki<br />düşüncelerin bütünselliğini parçalara bölmüştür. Bu şekilde perdeye aktarılması gerektiğini düşünmüştür. Tüm süreçler içerisinde de en önemli aracı yine çekimler kadar kurgu olmuştur. Planladığı çekimleri kurgu aracılığı ile belli bir bütün haline getirmiştir. Kurgudan yararlanabileceğine karar verdiği andan itibaren çekimler ile yapabileceklerinin çok daha anlamlı ve güçlü olacağını düşünmüştür.
 
     <hr />
 1. Aşağıdakilerden hangisi David W. Griffith’in ‘filmin dil bilgisini’ oluşturduğu çalışmaları içerisinde dikkati çeken farklı kavramlardan birisidir?
@@ -63,15 +58,7 @@
     - D-) Bağlantısal kurgu
     - E-) Filmik zaman
 
-    > **Açıklama:** Griffith, ‘Bir Ulusun Doğuşu’ filminde Abraham Lincoln’ün suikaste uğradığı sahneyi dört çekim parçasından oluşan bölümlere ayırmıştır.
-    > Bunlar:
-    > a. Abraham Lincoln ve ekibi.
-    > b. Temsili izlemeye gelen ve suikaste tanıklık eden Elsie Stoneman ve Ben Cameron çifti.
-    > c. Suikastçi.
-    > d. Temsilde yer alan sahnedeki oyuncular.
-    > Kurgu aracılığı ile bu dört temel çekim planı arasında paralel ve belli bir sürekliliğe dayanan yapı oluşturmuştur.
-    > Griffith’in ‘filmin dil bilgisini’ oluşturduğu çalışmaları içerisinde dikkati çeken farklı kavramlardan da
-    > bahsetmek gerekmektedir. Bunlardan birisi ‘kurguda süreklilik’, diğeri ise ‘aksiyonda sürekliliktir’.
+    > **Açıklama:** Griffith, ‘Bir Ulusun Doğuşu’ filminde Abraham Lincoln’ün suikaste uğradığı sahneyi dört çekim parçasından oluşan bölümlere ayırmıştır.<br />Bunlar:<br />a. Abraham Lincoln ve ekibi.<br />b. Temsili izlemeye gelen ve suikaste tanıklık eden Elsie Stoneman ve Ben Cameron çifti.<br />c. Suikastçi.<br />d. Temsilde yer alan sahnedeki oyuncular.<br />Kurgu aracılığı ile bu dört temel çekim planı arasında paralel ve belli bir sürekliliğe dayanan yapı oluşturmuştur.<br />Griffith’in ‘filmin dil bilgisini’ oluşturduğu çalışmaları içerisinde dikkati çeken farklı kavramlardan da<br />bahsetmek gerekmektedir. Bunlardan birisi ‘kurguda süreklilik’, diğeri ise ‘aksiyonda sürekliliktir’.
 
     <hr />
 1. "Temanın çağrışımlar ile aktarılması", Pudovkin’in bağlantısal kurgusunun beş ayrı temel yaklaşımından hangisinin açıklamasıdır?
@@ -81,20 +68,7 @@
     - **Cevap D-) Leit-motif**
     - E-) Zıtlıklar
 
-    > **Açıklama:** Pudovkin’in ‘bağlantısal kurgusu’ beş ayrı temel yaklaşımı içermektedir. Bunlar:
-    > 1\. Zıtlıklar: Kurgunun zıtlıklar içeren görüntüleri birleştirerek anlam üretme yoluna gitmesidir.
-    > 2\. Paralellikler: İki olay ya da unsur (canlı ya da cansız) arasında benzerlik kurmaktır.
-    > 3\. Sembolizm: Kurgu ile anlatıma yardımcı olacak sembollerin yerleştirilmesi.
-    > 4\. Eş zamanlılık: İki olayın aynı zamanda yer alacak şekilde kurgulanması ve bu ilişkili sekansların
-    > sonunda birleşmesidir.
-    > 5\. Leit-motif: Pudovkin’in ‘bağlantısal kurgusu’ beş ayrı temel yaklaşımı içermektedir. Bunlar:
-    > 1\. Zıtlıklar: Kurgunun zıtlıklar içeren görüntüleri birleştirerek anlam üretme yoluna gitmesidir.
-    > 2\. Paralellikler: İki olay ya da unsur (canlı ya da cansız) arasında benzerlik kurmaktır.
-    > 3\. Sembolizm: Kurgu ile anlatıma yardımcı olacak sembollerin yerleştirilmesi.
-    > 4\. Eş zamanlılık: İki olayın aynı zamanda yer alacak şekilde kurgulanması ve bu ilişkili sekansların
-    > sonunda birleşmesidir.
-    > 5\. L
-    > Leit-motif: Temanın çağrışımlar ile aktarılmasıdır.
+    > **Açıklama:** Pudovkin’in ‘bağlantısal kurgusu’ beş ayrı temel yaklaşımı içermektedir. Bunlar:<br />1\. Zıtlıklar: Kurgunun zıtlıklar içeren görüntüleri birleştirerek anlam üretme yoluna gitmesidir.<br />2\. Paralellikler: İki olay ya da unsur (canlı ya da cansız) arasında benzerlik kurmaktır.<br />3\. Sembolizm: Kurgu ile anlatıma yardımcı olacak sembollerin yerleştirilmesi.<br />4\. Eş zamanlılık: İki olayın aynı zamanda yer alacak şekilde kurgulanması ve bu ilişkili sekansların<br />sonunda birleşmesidir.<br />5\. Leit-motif: Pudovkin’in ‘bağlantısal kurgusu’ beş ayrı temel yaklaşımı içermektedir. Bunlar:<br />1\. Zıtlıklar: Kurgunun zıtlıklar içeren görüntüleri birleştirerek anlam üretme yoluna gitmesidir.<br />2\. Paralellikler: İki olay ya da unsur (canlı ya da cansız) arasında benzerlik kurmaktır.<br />3\. Sembolizm: Kurgu ile anlatıma yardımcı olacak sembollerin yerleştirilmesi.<br />4\. Eş zamanlılık: İki olayın aynı zamanda yer alacak şekilde kurgulanması ve bu ilişkili sekansların<br />sonunda birleşmesidir.<br />5\. L<br />Leit-motif: Temanın çağrışımlar ile aktarılmasıdır.
 
     <hr />
 1. Aşağıdakilerden hangisi görsel sürekliliği sağlayabilmek için kurgudan kurguya geçişleri içeren sürekliliği temel alan yaklaşımdır?
@@ -104,13 +78,7 @@
     - D-) Tonal üstü montaj
     - **Cevap E-) Ritmik montaj**
 
-    > **Açıklama:** Eisenstein farklı beş kurgu yaklaşımı sunmaktadır. Bunlar şu şekilde tanım bulmaktadır:
-    > -Uzunluk montajı
-    > -Ritmik montaj
-    > -Tonal montaj
-    > -Tonal üstü montaj
-    > -Zihinsel/Entellektüel kurgu
-    > Ritmik montaj: Görsel sürekliliği sağlayabilmek için kurgudan kurguya geçişleri içeren sürekliliği temel alan yaklaşımdır.
+    > **Açıklama:** Eisenstein farklı beş kurgu yaklaşımı sunmaktadır. Bunlar şu şekilde tanım bulmaktadır:<br />-Uzunluk montajı<br />-Ritmik montaj<br />-Tonal montaj<br />-Tonal üstü montaj<br />-Zihinsel/Entellektüel kurgu<br />Ritmik montaj: Görsel sürekliliği sağlayabilmek için kurgudan kurguya geçişleri içeren sürekliliği temel alan yaklaşımdır.
 
     <hr />
 1. "......... ile yapılan çekimlerde kameraya doğru olan hareketler daha hızlı, yatay hareketler ise<br />göreceli olarak daha yavaş algılanırlar." ifadesindeki boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -120,15 +88,7 @@
     - D-) Efektler
     - E-) Dar açılı mercekler
 
-    > **Açıklama:** Kurgunun oluşturmaya çalıştığı ritmi etkileyen temel etkenler şu şekilde sıralanabilir:
-    > a. Çekim ölçekleri. Yakın çekim ölçekleri genel çekim ölçeklerinden zaman olarak daha kısadır. Yakın
-    > çekimlerde verilen bilgi miktarı sınırlı, kavrama daha çabuktur. Genel çekimlerde verilen bilgi daha
-    > fazla, içindeki olası aksiyonlar daha çoktur. Oyuncu hareketlerinin, mekan tanıtımlarının ve diyalogların yer alması genel çekimleri daha uzun süreli olmaya zorlar.
-    > b. Mercekler. Merceğin niteliğine göre görüntü içindeki aksiyon hızı da değişmektedir. Dar açılı merceklerde kameraya doğru olan dikey aksiyonlar göreceli olarak daha yavaş görünürler. Geniş açılı
-    > merceklerle yapılan çekimlerde kameraya doğru olan hareketler daha hızlı, yatay hareketler ise
-    > göreceli olarak daha yavaş algılanırlar.
-    > c. Kamera hareketleri. Kamera hareketlerinin varlığı kurgu ile elde edilen ritmi düşürmeye neden olabilir.
-    > d. Geçişler. Kurgu içerisinde yer alan farklı geçiş türleri farklı etkilere sa
+    > **Açıklama:** Kurgunun oluşturmaya çalıştığı ritmi etkileyen temel etkenler şu şekilde sıralanabilir:<br />a. Çekim ölçekleri. Yakın çekim ölçekleri genel çekim ölçeklerinden zaman olarak daha kısadır. Yakın<br />çekimlerde verilen bilgi miktarı sınırlı, kavrama daha çabuktur. Genel çekimlerde verilen bilgi daha<br />fazla, içindeki olası aksiyonlar daha çoktur. Oyuncu hareketlerinin, mekan tanıtımlarının ve diyalogların yer alması genel çekimleri daha uzun süreli olmaya zorlar.<br />b. Mercekler. Merceğin niteliğine göre görüntü içindeki aksiyon hızı da değişmektedir. Dar açılı merceklerde kameraya doğru olan dikey aksiyonlar göreceli olarak daha yavaş görünürler. Geniş açılı<br />merceklerle yapılan çekimlerde kameraya doğru olan hareketler daha hızlı, yatay hareketler ise<br />göreceli olarak daha yavaş algılanırlar.<br />c. Kamera hareketleri. Kamera hareketlerinin varlığı kurgu ile elde edilen ritmi düşürmeye neden olabilir.<br />d. Geçişler. Kurgu içerisinde yer alan farklı geçiş türleri farklı etkilere sa
 
     <hr />
 1. Aşağıdakilerden hangisi tanıklık ettiğimiz kişilerin veya oyuncuların ağızlarını açıp konuşmaya başladıklarında duyduğumuz ses, konuşma olarak tarif edilir?
@@ -148,8 +108,7 @@
     - D-) İç hareket
     - E-) Çekim
 
-    > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Temel Kavramlar” konusunu yeniden gözden geçiriniz.
-    > **Kurgu:** Tutarlı bir anlatı oluşturmak için çekilen-kaydedilen görüntülerin ve seslerin belli bölümlerini kesme ve birleştirme sürecini ifade eder.
+    > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Temel Kavramlar” konusunu yeniden gözden geçiriniz.<br />**Kurgu:** Tutarlı bir anlatı oluşturmak için çekilen-kaydedilen görüntülerin ve seslerin belli bölümlerini kesme ve birleştirme sürecini ifade eder.
 
     <hr />
 1. Aşağıdakilerden hangisi Lumière kardeşlerin çektikleri filmlerde kullandıkları kurgudur?
@@ -159,8 +118,7 @@
     - D-) Bağlantısal Kurgu
     - E-) Paralel Kurgu
 
-    > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Temel Kavramlar” konusunu yeniden gözden geçiriniz.
-    > Lumière kardeşlerin çektikleri filmlerde en dikkati çeken içerik kurgusudur. Tek çekimden oluşan filmlerinde çerçeve içerisinde en dikkati çeken ‘iç harekettir.’ Çekimin içerisinde sergilenen hareket kurgunun sağladığı harekete benzer bir hareket üretmektedir. Filmlerde izlediğimiz olayların kendisi zaten hareketlerden oluşmaktadır.
+    > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Temel Kavramlar” konusunu yeniden gözden geçiriniz.<br />Lumière kardeşlerin çektikleri filmlerde en dikkati çeken içerik kurgusudur. Tek çekimden oluşan filmlerinde çerçeve içerisinde en dikkati çeken ‘iç harekettir.’ Çekimin içerisinde sergilenen hareket kurgunun sağladığı harekete benzer bir hareket üretmektedir. Filmlerde izlediğimiz olayların kendisi zaten hareketlerden oluşmaktadır.
 
     <hr />
 1. İlk başta sahne genel çekimde baştan sona çekilir. Daha sonrasında ise genel çekimdeki belli aksiyon parçalarının ve rollerin tekrar değişik açı ve ölçekler ile bir kere daha çekilmesi ve yönetmenin yeniden çektiği ara parçaları kurgu aracılığı ile ana çekim olan genel çekimin belirlenmiş ara noktalarına yerleştirilmesi yöntemine ne ad verilir?
@@ -170,13 +128,7 @@
     - D-) Yerleştirme Tekniği
     - E-) Bölme Tekniği
 
-    > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Anlatı Yapısı” konusunu yeniden gözden geçiriniz.
-    > **Master Scene Technique (Ana Sahne Tekniği)**
-    > Ana sahne tekniği yöntemiyle ilk başta sahne genel çekimde baştan sona çekilir. Daha sonrasında
-    > ise yönetmen belirlediği ilk çekilen genel çekimdeki belli aksiyon parçalarının ve rollerin tekrar
-    > değişik açı ve ölçekler ile bir kere daha çekilmesine karar verir. Bu yeniden çektiği ara parçaları
-    > kurgu aracılığı ile ana çekim olan genel çekimin belirlenmiş ara noktalarına yerleştirir. Bu yöntem
-    > içerisinde çekim sayısı belli oranda arttığından maliyetlerin de artacağını öngörmek gerekmektedir. Aynı şekilde, çekim sayısı arttığı için haliyle yer alacak kurgu düzenlemesi sayısı da artabilmektedir
+    > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Anlatı Yapısı” konusunu yeniden gözden geçiriniz.<br />**Master Scene Technique (Ana Sahne Tekniği)**<br />Ana sahne tekniği yöntemiyle ilk başta sahne genel çekimde baştan sona çekilir. Daha sonrasında<br />ise yönetmen belirlediği ilk çekilen genel çekimdeki belli aksiyon parçalarının ve rollerin tekrar<br />değişik açı ve ölçekler ile bir kere daha çekilmesine karar verir. Bu yeniden çektiği ara parçaları<br />kurgu aracılığı ile ana çekim olan genel çekimin belirlenmiş ara noktalarına yerleştirir. Bu yöntem<br />içerisinde çekim sayısı belli oranda arttığından maliyetlerin de artacağını öngörmek gerekmektedir. Aynı şekilde, çekim sayısı arttığı için haliyle yer alacak kurgu düzenlemesi sayısı da artabilmektedir
 
     <hr />
 1. Aşağıdakilerden hangisi "Kuleshov Deneyleri" olarak adlandırılan örneklerden **yanlış** olanıdır?
@@ -186,14 +138,7 @@
     - **Cevap D-) Sade bir yüz görüntüsüne ölmüş bir kadın görüntüsü eklendiğinde neşeli bir insan anlamı üretile- bilmektedir.**
     - E-) Korkan bir yüz görüntüsünden sonra tabanca görüntüsü eklersek ve ardından gülen bir yüz görüntüsü eklersek cesur bir insan anlamı üretilebilmektedir.
 
-    > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Kuramsal Yaklaşımlar” konusunu yeniden gözden geçiriniz.
-    > Lev Kuleshov’un deneylerinden birkaç örneğe bakacak olursak;
-    > • Sade bir yüz görüntüsüne yemek görüntüsü eklendiğinde aç bir insan anlamı üretilebilmektedir.
-    > • Sade bir yüz görüntüsüne ölmüş bir kadın görüntüsü eklendiğinde üzgün bir insan anlamı üretilebilmektedir.
-    > • Sade bir yüz görüntüsüne oynayan çocukların görüntüsü eklendiğinde neşeli bir insan anlamı üretilebilmektedir.
-    > Aynı şekilde, bir benzer bir örnek daha verecek olursak:
-    > • Gülen bir yüz görüntüsünden sonra tabanca görüntüsü eklersek ve ardından asık bir yüz görüntüsü eklersek korkan bir insan anlamı üretilebilmektedir.
-    > • Korkan bir yüz görüntüsünden sonra tabanca görüntüsü eklersek ve ardından gülen bir yüz görüntüsü eklersek cesur bir insan anlamı üretilebilmektedir.
+    > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Kuramsal Yaklaşımlar” konusunu yeniden gözden geçiriniz.<br />Lev Kuleshov’un deneylerinden birkaç örneğe bakacak olursak;<br />• Sade bir yüz görüntüsüne yemek görüntüsü eklendiğinde aç bir insan anlamı üretilebilmektedir.<br />• Sade bir yüz görüntüsüne ölmüş bir kadın görüntüsü eklendiğinde üzgün bir insan anlamı üretilebilmektedir.<br />• Sade bir yüz görüntüsüne oynayan çocukların görüntüsü eklendiğinde neşeli bir insan anlamı üretilebilmektedir.<br />Aynı şekilde, bir benzer bir örnek daha verecek olursak:<br />• Gülen bir yüz görüntüsünden sonra tabanca görüntüsü eklersek ve ardından asık bir yüz görüntüsü eklersek korkan bir insan anlamı üretilebilmektedir.<br />• Korkan bir yüz görüntüsünden sonra tabanca görüntüsü eklersek ve ardından gülen bir yüz görüntüsü eklersek cesur bir insan anlamı üretilebilmektedir.
 
     <hr />
 1. Aşağıdakilerden hangisi bağlantısal kurgunun sahip olduğu temel yaklaşımlardan birisidir?
@@ -203,13 +148,7 @@
     - D-) Zihinsel
     - **Cevap E-) Eş zamanlılık**
 
-    > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Kuramsal Yaklaşımlar” konusunu yeniden gözden geçiriniz.
-    > Pudovkin’in ‘bağlantısal kurgusu’ beş ayrı temel yaklaşımı içermektedir. Bunlar:
-    > 1\. Zıtlıklar: Kurgunun zıtlıklar içeren görüntüleri birleştirerek anlam üretme yoluna gitmesidir.
-    > 2\. Paralellikler: İki olay ya da unsur (canlı ya da cansız) arasında benzerlik kurmaktır.
-    > 3\. Sembolizm: Kurgu ile anlatıma yardımcı olacak sembollerin yerleştirilmesi.
-    > 4\. Eş zamanlılık: İki olayın aynı zamanda yer alacak şekilde kurgulanması ve bu ilişkili sekansların sonunda birleşmesidir.
-    > 5\. Leit-motif: Temanın çağrışımlar ile aktarılmasıdır.
+    > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Kuramsal Yaklaşımlar” konusunu yeniden gözden geçiriniz.<br />Pudovkin’in ‘bağlantısal kurgusu’ beş ayrı temel yaklaşımı içermektedir. Bunlar:<br />1\. Zıtlıklar: Kurgunun zıtlıklar içeren görüntüleri birleştirerek anlam üretme yoluna gitmesidir.<br />2\. Paralellikler: İki olay ya da unsur (canlı ya da cansız) arasında benzerlik kurmaktır.<br />3\. Sembolizm: Kurgu ile anlatıma yardımcı olacak sembollerin yerleştirilmesi.<br />4\. Eş zamanlılık: İki olayın aynı zamanda yer alacak şekilde kurgulanması ve bu ilişkili sekansların sonunda birleşmesidir.<br />5\. Leit-motif: Temanın çağrışımlar ile aktarılmasıdır.
 
     <hr />
 1. Kurgu hikayeyi anlatmaya yaramaz. Kurgunun amacı bir araya getirilmiş görüntüler aracılığı ile izleyici de şoklar yaratmaktır. Bu bir tür diyalektik anlayıştan yararlanmayı da beraberinde getirmektedir. Görüşünü benimseyen aşağıdakilerden hangisidir?
@@ -219,9 +158,7 @@
     - D-) Lumière kardeşler
     - E-) Alain Resnais
 
-    > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Kuramsal Yaklaşımlar” konusunu yeniden gözden geçiriniz.
-    > Isenstein’a göre kurgu hikayede geçen insanlar açısından bireyi arka plana almak için
-    > kullanılmalıdır. Kurgu kitleleri ön plana çıkartmak için kullanılmalıdır. Buradan da anlaşılacağı üzere en başından itibaren Eisenstein için kurgu bir tür tercih yapma aracıdır. Kendisine göre sanatın işlevi de burada başlamaktadır. Bir şeyin yerine başka bir şeyi tercih ettiğiniz anda sanatın işlevinden de bahsetmiş olursunuz. Sanatın işlevselliği de burada yatmaktadır. Kurgu hikayeyi anlatmaya yaramaz. Kurgunun amacı bir araya getirilmiş görüntüler aracılığı ile izleyici de şoklar yaratmaktır. Bu bir tür diyalektik anlayıştan yararlanmayı da beraberinde getirmektedir. Her şeyin kendi zıttı, tersi vardır. Bu zıtlar çarpışır ve üçüncü birşey ortaya çıkar. İşte o üçüncü şey de kendi zıttını yaratır. Kurgu ile sağlanan ve sonuçta elde edilmeye sağlanan şokların temeli ise bu zıtlıkların bütünlüğünde yatmaktadır. Tez, antitez ve sentez ilişkisinde olduğu gibi görüntüler kurgu ile dizilmemekte, çarpıştırılmaktadır. Eisenstein’ın kurgusu tamamen bu anlayışa dayanmaktadır.
+    > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Kuramsal Yaklaşımlar” konusunu yeniden gözden geçiriniz.<br />Isenstein’a göre kurgu hikayede geçen insanlar açısından bireyi arka plana almak için<br />kullanılmalıdır. Kurgu kitleleri ön plana çıkartmak için kullanılmalıdır. Buradan da anlaşılacağı üzere en başından itibaren Eisenstein için kurgu bir tür tercih yapma aracıdır. Kendisine göre sanatın işlevi de burada başlamaktadır. Bir şeyin yerine başka bir şeyi tercih ettiğiniz anda sanatın işlevinden de bahsetmiş olursunuz. Sanatın işlevselliği de burada yatmaktadır. Kurgu hikayeyi anlatmaya yaramaz. Kurgunun amacı bir araya getirilmiş görüntüler aracılığı ile izleyici de şoklar yaratmaktır. Bu bir tür diyalektik anlayıştan yararlanmayı da beraberinde getirmektedir. Her şeyin kendi zıttı, tersi vardır. Bu zıtlar çarpışır ve üçüncü birşey ortaya çıkar. İşte o üçüncü şey de kendi zıttını yaratır. Kurgu ile sağlanan ve sonuçta elde edilmeye sağlanan şokların temeli ise bu zıtlıkların bütünlüğünde yatmaktadır. Tez, antitez ve sentez ilişkisinde olduğu gibi görüntüler kurgu ile dizilmemekte, çarpıştırılmaktadır. Eisenstein’ın kurgusu tamamen bu anlayışa dayanmaktadır.
 
     <hr />
 1. Aşağıdakilerden hangisi Sergei Eisenstein’ın temel kurgu yaklaşımlarından birisidir?
@@ -231,13 +168,7 @@
     - D-) Zıtlıklar kurgusu
     - E-) Paralel Kurgu
 
-    > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Kuramsal Yaklaşımlar” konusunu yeniden gözden geçiriniz.
-    > Eisenstein farklı beş kurgu yaklaşımı sunmaktadır.
-    > Uzunluk montajı
-    > Ritmik montaj
-    > Tonal montaj
-    > Tonal üstü montaj
-    > Zihinsel/Entellektüel kurgu
+    > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Kuramsal Yaklaşımlar” konusunu yeniden gözden geçiriniz.<br />Eisenstein farklı beş kurgu yaklaşımı sunmaktadır.<br />Uzunluk montajı<br />Ritmik montaj<br />Tonal montaj<br />Tonal üstü montaj<br />Zihinsel/Entellektüel kurgu
 
     <hr />
 1. Aşağıdakilerden hangisi kurgunun oluşturmaya çalıştığı ritmi etkileyen temel etkenler arasında **yer almaz?**
@@ -247,12 +178,7 @@
     - D-) Kamera hareketleri
     - E-) Geçişler
 
-    > **Açıklama:** Yanıtınız yanlış ise “Kurgunun Temel İlkeleri” konusunu yeniden gözden geçiriniz.
-    > Kurgunun oluşturmaya çalıştığı ritmi etkileyen temel etkenler şu şekilde sıralanabilir:
-    > a. Çekim ölçekleri
-    > b. Mercekler
-    > c. Kamera hareketleri
-    > d. Geçişler
+    > **Açıklama:** Yanıtınız yanlış ise “Kurgunun Temel İlkeleri” konusunu yeniden gözden geçiriniz.<br />Kurgunun oluşturmaya çalıştığı ritmi etkileyen temel etkenler şu şekilde sıralanabilir:<br />a. Çekim ölçekleri<br />b. Mercekler<br />c. Kamera hareketleri<br />d. Geçişler
 
     <hr />
 1. Aşağıdakilerden hangisi ses kurgulanırken dikkat edilmesi gereken özelliklerdendir?
@@ -262,8 +188,7 @@
     - **Cevap D-) Sesin fade-in, fade-out olmasıdır.**
     - E-) Sesin üst üste binmesi.
 
-    > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Ses Boyutu” konusunu yeniden gözden geçiriniz.
-    > Projelerin tasarımında ses kurgulanırken dikkat edilmesi gereken ve yaygın bir şekilde dikkat edilen şey sesler arası geçişlerde kesmenin kullanılmaması, tercihen sesin fade-in, fade-out olmasıdır. Bir ses alçalırken diğer ses yükselmiş olur.
+    > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Ses Boyutu” konusunu yeniden gözden geçiriniz.<br />Projelerin tasarımında ses kurgulanırken dikkat edilmesi gereken ve yaygın bir şekilde dikkat edilen şey sesler arası geçişlerde kesmenin kullanılmaması, tercihen sesin fade-in, fade-out olmasıdır. Bir ses alçalırken diğer ses yükselmiş olur.
 
     <hr />
 1. ........................... tanıklık ettiğimiz kişilerin veya oyuncuların ağızlarını açıp konuşmaya başladıklarında duyduğumuz ses, konuşma olarak tarif edebiliriz.<br />İfadesi aşağıdakilerden hangisi ile tamamlanır?
@@ -273,8 +198,7 @@
     - D-) Senkronsuz sesler
     - **Cevap E-) Senkronlu sesler**
 
-    > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Ses Boyutu” konusunu yeniden gözden geçiriniz.
-    > Senkronlu seslerin tanıklık ettiğimiz kişilerin veya oyuncuların ağızlarını açıp konuşmaya başladıklarında duyduğumuz ses, konuşma olarak tarif edebiliriz.
+    > **Açıklama:** Yanıtınız yanlış ise “Kurgu ve Ses Boyutu” konusunu yeniden gözden geçiriniz.<br />Senkronlu seslerin tanıklık ettiğimiz kişilerin veya oyuncuların ağızlarını açıp konuşmaya başladıklarında duyduğumuz ses, konuşma olarak tarif edebiliriz.
 
     <hr />
 ## Unite 2
@@ -285,9 +209,7 @@
     - D-) Prodüksiyon
     - **Cevap E-) Post Prodüsiyon**
 
-    > **Açıklama:** Kurgunun Tanımı ve Kurgucunun Görevleri / Sinema Filmi Üretiminde Kurgucunun Görevleri
-    > Sinemada üretim, yapım öncesi (pre prodüksiyon), yapım (prodüksiyon) ve yapım sonrası (post prodüksiyon) olarak üçe ayrılmaktadır.
-    > Post prodüksiyon süreci, yani yapım sonrası aşaması çekimler bittikten sonra başlamaktadır. Kurguda kullanılacak görüntü ve sesler post prodüksiyon işlemlerinin yapılacağı yerde toparlanır. Bu aşama temelde üç kısımdan oluşmaktadır. Görüntülerin kurgulanıp renk düzenlemelerinin yapılması; eğer varsa görüntü efektlerinin ve bilgisayarla üretilen görüntülerin (CGI, Computer-generated imagery) eklenmesi ve son olarak ses düzenlemelerinin yapılması.
+    > **Açıklama:** Kurgunun Tanımı ve Kurgucunun Görevleri / Sinema Filmi Üretiminde Kurgucunun Görevleri<br />Sinemada üretim, yapım öncesi (pre prodüksiyon), yapım (prodüksiyon) ve yapım sonrası (post prodüksiyon) olarak üçe ayrılmaktadır.<br />Post prodüksiyon süreci, yani yapım sonrası aşaması çekimler bittikten sonra başlamaktadır. Kurguda kullanılacak görüntü ve sesler post prodüksiyon işlemlerinin yapılacağı yerde toparlanır. Bu aşama temelde üç kısımdan oluşmaktadır. Görüntülerin kurgulanıp renk düzenlemelerinin yapılması; eğer varsa görüntü efektlerinin ve bilgisayarla üretilen görüntülerin (CGI, Computer-generated imagery) eklenmesi ve son olarak ses düzenlemelerinin yapılması.
 
     <hr />
 1. Aşağıdaki tanımlardan hangisi kurgu kelimesinin anlamlarından biri **olamaz**?
@@ -297,8 +219,7 @@
     - D-) Bir çekimin, hemen ardından gelen diğer çekimle olan koordinasyonunun sağlanması işi.
     - E-) Bir filmi oluştur­mak için çekimlerin nasıl bir araya getirildiğini belirleyen süreç.
 
-    > **Açıklama:** Kurgunun Tanımı ve Kurgucunun Görevleri
-    > Kurgu kelimesi Türkçe sözlük anlamı ile “…Bir bütün oluşturmak için parçaları takıp birleştirme işi. Bir filmin değişik süre ve yerlerde çekilen bölümlerini, bir uyum ve anlam bütünlüğü sağlayarak birleş­tirme, montaj (TDK, 2023).” olarak tanımlanmaktadır. Alan yazında kurgunun “Bir filmin çekimlerinin bir araya getirilmesi işi…(Monaco, 2001: 207)”, “…bir çekimin, hemen ardından gelen diğer çekimle olan koordinasyonu…(Bordwell ve Thompson, 2011: 223)”, “…bir filmi oluştur­mak için çekimlerin nasıl bir araya getirildiğini…(Hayward, 2012: 269)” belirleyen süreç gibi tanımları bulunmaktadır. Kurgunun tanımlarını daha iyi anlayabilmek için bir filmin yapı taşlarını oluşturan temel kavramlardan haberdar olmak gerekmektedir. Bir filmi oluşturan en küçük birim ise çekimdir.
+    > **Açıklama:** Kurgunun Tanımı ve Kurgucunun Görevleri<br />Kurgu kelimesi Türkçe sözlük anlamı ile “…Bir bütün oluşturmak için parçaları takıp birleştirme işi. Bir filmin değişik süre ve yerlerde çekilen bölümlerini, bir uyum ve anlam bütünlüğü sağlayarak birleş­tirme, montaj (TDK, 2023).” olarak tanımlanmaktadır. Alan yazında kurgunun “Bir filmin çekimlerinin bir araya getirilmesi işi…(Monaco, 2001: 207)”, “…bir çekimin, hemen ardından gelen diğer çekimle olan koordinasyonu…(Bordwell ve Thompson, 2011: 223)”, “…bir filmi oluştur­mak için çekimlerin nasıl bir araya getirildiğini…(Hayward, 2012: 269)” belirleyen süreç gibi tanımları bulunmaktadır. Kurgunun tanımlarını daha iyi anlayabilmek için bir filmin yapı taşlarını oluşturan temel kavramlardan haberdar olmak gerekmektedir. Bir filmi oluşturan en küçük birim ise çekimdir.
 
     <hr />
 1. Aşağıdakilerden hangisi kurgunun temel amaçları arasında **yer almaz**?
@@ -308,8 +229,7 @@
     - D-) Alt metin oluşturmak.
     - E-) Estetik öğeler arasında istenilen dengeleri oluşturmak.
 
-    > **Açıklama:** Kurgunun Tanımı ve Kurgucunun Görevleri
-    > Kurgunun temelde dört amacı bulunmaktadır. Bunlar anlatı açıklığını (Narrative clarity) sağlamak, dramatik vurguyu (Dramatic emphasis) belirginleştirmek, alt metin (Subtext) oluşturmak ya da alt metni güçlendirmek ve estetik (Aesthetics) ögeler arasında istenilen dengeleri oluşturmaktır (Dancyger, 2011: 243-278)
+    > **Açıklama:** Kurgunun Tanımı ve Kurgucunun Görevleri<br />Kurgunun temelde dört amacı bulunmaktadır. Bunlar anlatı açıklığını (Narrative clarity) sağlamak, dramatik vurguyu (Dramatic emphasis) belirginleştirmek, alt metin (Subtext) oluşturmak ya da alt metni güçlendirmek ve estetik (Aesthetics) ögeler arasında istenilen dengeleri oluşturmaktır (Dancyger, 2011: 243-278)
 
     <hr />
 1. Kurgunun anlatı içindeki ögeler arasında diğerlerinden daha önemli olduğu düşü­nülen anları belirginleştirmek için kullanılması amacı aşağıdakilerden hangisi ile ifade edilmektedir?
@@ -319,8 +239,7 @@
     - D-) Alt metin oluşturmak.
     - E-) Estetik öğeler arasında istenilen dengeleri oluşturmak.
 
-    > **Açıklama:** Kurgunun Tanımı ve Kurgucunun Görevleri
-    > Dramatik vurgu, anlatı içindeki ögeler arasında diğerlerinden daha önemli olduğu düşü­nülen anları belirginleştirmek için kullanılmaktadır. Kurgunun amaçlarından biri bu vurgu­ları yaratmak ve düzenlemektir. Yönetmen ve kurgucu, anlatıdaki bir anın altını çeşitli çekim teknikleri ve ses efektleri ile çizerek o anın izleyicide yaratacağı duygulanımı arttırma yoluna gidebilmektedir.
+    > **Açıklama:** Kurgunun Tanımı ve Kurgucunun Görevleri<br />Dramatik vurgu, anlatı içindeki ögeler arasında diğerlerinden daha önemli olduğu düşü­nülen anları belirginleştirmek için kullanılmaktadır. Kurgunun amaçlarından biri bu vurgu­ları yaratmak ve düzenlemektir. Yönetmen ve kurgucu, anlatıdaki bir anın altını çeşitli çekim teknikleri ve ses efektleri ile çizerek o anın izleyicide yaratacağı duygulanımı arttırma yoluna gidebilmektedir.
 
     <hr />
 1. Film yapım aşamasının duygusal yüklerinden bağımsız bir şekilde, izleyiciye benzer bir biçimde sadece önündeki görüntü ve seslerin anlattığı hikâyeye odaklanabilen görevli kişi aşağıdakilerden hangisidir?
@@ -330,8 +249,7 @@
     - **Cevap D-) Kurgucu**
     - E-) Görüntü yönetmeni
 
-    > **Açıklama:** Kurgunun Tanımı ve Kurgucunun Görevleri/ Sinema Filmi Üretiminde Kurgucunun Görevleri
-    > Bu ifade film üretimine post prodüksiyon aşamasında katılan kurgucunun film ekibindeki diğer elemanların arasında, filmi ta­mamlandıktan sonra seyredecek olan izleyiciye en yakın kişilerden biri olduğunu anlatmaktadır. Senaryo yazarı kendi hayal ettiği ve belki de defalarca değişen hikayedeki dünyaları ve duyguları ekranda görmek isteyecektir; yönetmen çekmek için belki de günlerce uğraştığı birkaç çekimden vazgeçmek istemeyecektir; oyuncu en iyi oynadığını ya da en güzel göründüğünü düşündüğü çekimleri filmde görmek isteyecektir. Ancak film kurgucusu yapım aşamasının bu duygusal yüklerinden bağımsız bir şekilde, izleyiciye benzer bir biçimde sadece önündeki görüntü ve seslerin anlattığı hikâyeye odaklanabilecektir. Bu bağlamda kurgucunun bir film üzerindeki en önemli rolünün nesnellik olduğu ifade edilebilir (Nişancı, 2018: 32). Bu nesnellik kurgucunun bir filme yapacağı en önemli katkılardan biridir.
+    > **Açıklama:** Kurgunun Tanımı ve Kurgucunun Görevleri/ Sinema Filmi Üretiminde Kurgucunun Görevleri<br />Bu ifade film üretimine post prodüksiyon aşamasında katılan kurgucunun film ekibindeki diğer elemanların arasında, filmi ta­mamlandıktan sonra seyredecek olan izleyiciye en yakın kişilerden biri olduğunu anlatmaktadır. Senaryo yazarı kendi hayal ettiği ve belki de defalarca değişen hikayedeki dünyaları ve duyguları ekranda görmek isteyecektir; yönetmen çekmek için belki de günlerce uğraştığı birkaç çekimden vazgeçmek istemeyecektir; oyuncu en iyi oynadığını ya da en güzel göründüğünü düşündüğü çekimleri filmde görmek isteyecektir. Ancak film kurgucusu yapım aşamasının bu duygusal yüklerinden bağımsız bir şekilde, izleyiciye benzer bir biçimde sadece önündeki görüntü ve seslerin anlattığı hikâyeye odaklanabilecektir. Bu bağlamda kurgucunun bir film üzerindeki en önemli rolünün nesnellik olduğu ifade edilebilir (Nişancı, 2018: 32). Bu nesnellik kurgucunun bir filme yapacağı en önemli katkılardan biridir.
 
     <hr />
 1. Kurgucu tarafından günlük olarak çekilen ve bir hikâye oluşturmayacak şekilde bir­birinden bağımsız görünebilecek görüntülerin ilk kez izlendiği kurgu adımı aşağıdakilerden hangisidir?
@@ -341,8 +259,7 @@
     - D-) İlk kurgu
     - E-) İnce kurgu
 
-    > **Açıklama:** Kurgunun Tanımı ve Kurgucunun Görevleri/ Sinema Filmi Üretiminde Kurgucunun Görevleri
-    > Brown (2020: 142-143) kurgunun altı adımını şöyle sıralamaktadır: İlk karşılaşma (logging), İlk Birleş­tirme (first assembly), Kaba Kurgu (rough cut), İlk Kurgu (first cut), İnce Kurgu (fine cut) ve Son Kurgu (final cut). Bu çok ayrıntılı bir sınıflandırmadır ve her filmde bu şekilde olması gerekmez. Ancak ilk karşı­laşma ve izleme, hızlı bir şekilde ilk kaba kurguyu yapma ve kurguya son halini incelikli bir şekilde verme aşamaları neredeyse her film projesinde geçerli olan aşamalardır. Kurgucu ister sadece teknik bir eleman ol­sun, ister yapıma yaratıcı tercihleri ile katılsın, bu aşamaların hepsinde yer alan görevleri o yerine getirmek­tedir. İlk karşılaşma aşamasında kurgucu günlük olarak çekilen ve bir hikâye oluşturmayacak şekilde bir­birinden bağımsız görünebilecek görüntüleri ilk kez izlemektedir. Bu aşamada kullanılamayacak durumda olan çekimler ayıklanır ve görüntüler sahne ve sekans olarak düzenlenir. Hangi görüntülerin var olduğu, hangi sahne için hangi görüntülerin göz önünde bulundurulacağı gibi konular bu aşamada belirlenir.
+    > **Açıklama:** Kurgunun Tanımı ve Kurgucunun Görevleri/ Sinema Filmi Üretiminde Kurgucunun Görevleri<br />Brown (2020: 142-143) kurgunun altı adımını şöyle sıralamaktadır: İlk karşılaşma (logging), İlk Birleş­tirme (first assembly), Kaba Kurgu (rough cut), İlk Kurgu (first cut), İnce Kurgu (fine cut) ve Son Kurgu (final cut). Bu çok ayrıntılı bir sınıflandırmadır ve her filmde bu şekilde olması gerekmez. Ancak ilk karşı­laşma ve izleme, hızlı bir şekilde ilk kaba kurguyu yapma ve kurguya son halini incelikli bir şekilde verme aşamaları neredeyse her film projesinde geçerli olan aşamalardır. Kurgucu ister sadece teknik bir eleman ol­sun, ister yapıma yaratıcı tercihleri ile katılsın, bu aşamaların hepsinde yer alan görevleri o yerine getirmek­tedir. İlk karşılaşma aşamasında kurgucu günlük olarak çekilen ve bir hikâye oluşturmayacak şekilde bir­birinden bağımsız görünebilecek görüntüleri ilk kez izlemektedir. Bu aşamada kullanılamayacak durumda olan çekimler ayıklanır ve görüntüler sahne ve sekans olarak düzenlenir. Hangi görüntülerin var olduğu, hangi sahne için hangi görüntülerin göz önünde bulundurulacağı gibi konular bu aşamada belirlenir.
 
     <hr />
 1. 19\. yüzyılın sonlarına doğru görüntü kaydının yapıldığı ışığa duyarlı kimyasal yüzey aşağıdakilerden hangisidir?
@@ -352,8 +269,7 @@
     - D-) DVD
     - E-) Blu-ray
 
-    > **Açıklama:** Sinema Kurgusunun Teknolojik Gelişimi
-    > Pelikül, “Boş film, film şeridi (TDK); kullanılmamış, duyarkatı ışıkla etkilenmemiş sinema filmi (Oxford Languages)” olarak tanımlanabilir. Sinema filmleri, sinemanın icadından son­ra gelen yüz yıl boyunca bu ışığa duyarlı yüzeye sahip film şeritleri kullanılarak yapılmıştır.İlk hareketli görüntü kayıtları 19. yüzyılın sonlarına doğru pelikül olarak adlandırılan kimyasal yüzey­lerin kullanımı ile yapılmıştır. Bu dönemde sinemacılar ışığa duyarlı kimyasal yüzeylerden oluşan filmlerin yer aldığı makaraları kameralara yerleştirerek çevrelerindeki gerçek dünyada yaşanan olayları, mekânları ve insanları kaydetmişlerdir. Sinemanın bu ilk döneminde yapılan hareketli görüntü kayıtları, gündelik hayatın birkaç dakikalık parçalarını içeren ve tek parça halinde çekilip izletilen görüntülerdir.
+    > **Açıklama:** Sinema Kurgusunun Teknolojik Gelişimi<br />Pelikül, “Boş film, film şeridi (TDK); kullanılmamış, duyarkatı ışıkla etkilenmemiş sinema filmi (Oxford Languages)” olarak tanımlanabilir. Sinema filmleri, sinemanın icadından son­ra gelen yüz yıl boyunca bu ışığa duyarlı yüzeye sahip film şeritleri kullanılarak yapılmıştır.İlk hareketli görüntü kayıtları 19. yüzyılın sonlarına doğru pelikül olarak adlandırılan kimyasal yüzey­lerin kullanımı ile yapılmıştır. Bu dönemde sinemacılar ışığa duyarlı kimyasal yüzeylerden oluşan filmlerin yer aldığı makaraları kameralara yerleştirerek çevrelerindeki gerçek dünyada yaşanan olayları, mekânları ve insanları kaydetmişlerdir. Sinemanın bu ilk döneminde yapılan hareketli görüntü kayıtları, gündelik hayatın birkaç dakikalık parçalarını içeren ve tek parça halinde çekilip izletilen görüntülerdir.
 
     <hr />
 1. Kurgucuların oturarak çalıştıkları, ellerindeki materyali daha hızlı bir şekilde tarayabilmelerine imkân veren, aynı anda dört görüntü ve ses kuşağının izlenip karşılaştırılmasını mümkün hale getiren ve yatay olarak çalışan kurgu sistemi aşağıdakilerden hangisidir?
@@ -363,9 +279,7 @@
     - D-) Da Vinci Resolve
     - E-) AVID
 
-    > **Açıklama:** Sinema Kurgusunun Teknolojik Gelişimi
-    > 1930’lu yıllardan itibaren Moviola sistemine benzeyen ama yatay olarak çalışan (flatbed) kurgu sis­temleri üretilerek kullanılmaya başlanmıştır. Bunların en bilinenleri Steenbeck ve KEM (Keller-Elekt­ro-Mechanik) sistemleridir. Bu sistemlerde Moviola’dan farklı olarak oturularak çalışılmaktadır. Flatbed sistemler kurgucuların ellerindeki materyali daha hızlı bir şekilde tarayabilmesine imkân vermiştir. Ayrıca bu sistemlerde aynı anda dört görüntü ve ses kuşağının izlenip karşılaştırılması mümkün hale gelmiştir (Nişancı, 2018: 101). Böylece kurgu işleminde süreçler hızlanmış, bu teknolojik yenilikler kurgu alanında önemli değişimler yaratmıştır.
-    > Moviola, Steenbeck ve KEM gibi kurgu sistemleri, sinemanın ilk yıllarında basit şekilde yapılan kur­guyu hızlandırmış ve geliştirmiştir. Ancak film kurgusunda hiç değişmeyen şeyler, kurgucuların film par­çalarına dokunmaları, bu parçaları inceledikten sonra makas ya da benzeri aletlerle kesmeleri ve sonra istedikleri parçaları birbirlerine yapıştırmalarıdır (Nişancı, 2018: 102). Bu fiziksel süreç neredeyse yüz yıl boyunca devam etmiştir. Sinema kurgusunda filmin (pelikülün) kesilip kurgulanması 1990’lara kadar sinema endüstrisinde en yaygın kullanılan kurgu şekli olarak kalmıştır. Bu durum video kurgusunun ge­lişmeye başlaması ile değişmiştir.
+    > **Açıklama:** Sinema Kurgusunun Teknolojik Gelişimi<br />1930’lu yıllardan itibaren Moviola sistemine benzeyen ama yatay olarak çalışan (flatbed) kurgu sis­temleri üretilerek kullanılmaya başlanmıştır. Bunların en bilinenleri Steenbeck ve KEM (Keller-Elekt­ro-Mechanik) sistemleridir. Bu sistemlerde Moviola’dan farklı olarak oturularak çalışılmaktadır. Flatbed sistemler kurgucuların ellerindeki materyali daha hızlı bir şekilde tarayabilmesine imkân vermiştir. Ayrıca bu sistemlerde aynı anda dört görüntü ve ses kuşağının izlenip karşılaştırılması mümkün hale gelmiştir (Nişancı, 2018: 101). Böylece kurgu işleminde süreçler hızlanmış, bu teknolojik yenilikler kurgu alanında önemli değişimler yaratmıştır.<br />Moviola, Steenbeck ve KEM gibi kurgu sistemleri, sinemanın ilk yıllarında basit şekilde yapılan kur­guyu hızlandırmış ve geliştirmiştir. Ancak film kurgusunda hiç değişmeyen şeyler, kurgucuların film par­çalarına dokunmaları, bu parçaları inceledikten sonra makas ya da benzeri aletlerle kesmeleri ve sonra istedikleri parçaları birbirlerine yapıştırmalarıdır (Nişancı, 2018: 102). Bu fiziksel süreç neredeyse yüz yıl boyunca devam etmiştir. Sinema kurgusunda filmin (pelikülün) kesilip kurgulanması 1990’lara kadar sinema endüstrisinde en yaygın kullanılan kurgu şekli olarak kalmıştır. Bu durum video kurgusunun ge­lişmeye başlaması ile değişmiştir.
 
     <hr />
 1. Teknik açıdan uzamsal fazlalığı ortadan kaldıran, insanların orijinaliyle hemen hemen aynı görüntüyü algılanması için gereksiz olan tüm video bilgileri dijital kaydın dışında tutulduğu sıkıştırma türüne ne ad verilir?
@@ -375,9 +289,7 @@
     - **Cevap D-) Kare içi sıkıştırma**
     - E-) Kareler arası sıkıştırma
 
-    > **Açıklama:** Sinema Kurgusunun Teknolojik Gelişimi / Video Kurgusunun Gelişimi
-    > Kare İçi sıkıştırma öncelikle durağan görüntüler için tasarlanmıştır, ancak tek tek video karelerine de uygulanabilmektedir. Kare içi sıkıştırmada her kare değerlendirilmekte ve insanların orijinaliyle hemen hemen aynı görüntüyü algılanması için gereksiz olan tüm video bilgileri dijital kaydın dışında tutulmak­tadır. Başka bir ifade ile kare içi sıkıştırma, teknik açıdan uzamsal fazlalığı ortadan kaldırmaktadır. Valiz benzetmesi yaparsak, kare içi sıkıştırmada, aşırı doldurulmuş (insanların o görüntüyü algılaması
-    > için gerekenden fazla veri içeren) bir valizde, yer kazanmak için gereksiz olduğu düşünülen eşyaların valiz­den çıkarılması söz konusudur. Altı yerine iki gömlekle idare edilebilecekse dört gömleklik yer kazanılmış olur. Sıcak ve güneşli bir yere gidilecekse valizdeki kazakların sadece bir tanesi garanti olsun diye saklana­rak diğerleri çıkarılır. Böylece çok daha küçük bir valiz yeterli olacaktır, gereksiz giysilerden (yer kaplayan piksellerden, ayrıntılı görüntü verilerinden) kurtularak saklanması gereken veriler azalacaktır. Çoğunlukla durağan görüntüler için kullanılan bir video sıkıştırma yöntemi olan JPEG sistemi, bu kare içi sıkıştırma tekniğini kullanmaktadır (Zettl, 2006: 265).
+    > **Açıklama:** Sinema Kurgusunun Teknolojik Gelişimi / Video Kurgusunun Gelişimi<br />Kare İçi sıkıştırma öncelikle durağan görüntüler için tasarlanmıştır, ancak tek tek video karelerine de uygulanabilmektedir. Kare içi sıkıştırmada her kare değerlendirilmekte ve insanların orijinaliyle hemen hemen aynı görüntüyü algılanması için gereksiz olan tüm video bilgileri dijital kaydın dışında tutulmak­tadır. Başka bir ifade ile kare içi sıkıştırma, teknik açıdan uzamsal fazlalığı ortadan kaldırmaktadır. Valiz benzetmesi yaparsak, kare içi sıkıştırmada, aşırı doldurulmuş (insanların o görüntüyü algılaması<br />için gerekenden fazla veri içeren) bir valizde, yer kazanmak için gereksiz olduğu düşünülen eşyaların valiz­den çıkarılması söz konusudur. Altı yerine iki gömlekle idare edilebilecekse dört gömleklik yer kazanılmış olur. Sıcak ve güneşli bir yere gidilecekse valizdeki kazakların sadece bir tanesi garanti olsun diye saklana­rak diğerleri çıkarılır. Böylece çok daha küçük bir valiz yeterli olacaktır, gereksiz giysilerden (yer kaplayan piksellerden, ayrıntılı görüntü verilerinden) kurtularak saklanması gereken veriler azalacaktır. Çoğunlukla durağan görüntüler için kullanılan bir video sıkıştırma yöntemi olan JPEG sistemi, bu kare içi sıkıştırma tekniğini kullanmaktadır (Zettl, 2006: 265).
 
     <hr />
 1. Aşağıdakilerden hangisi görüntü verilerinin nasıl sıkıştırıldığını anlatan kodlardan biri **değildir**?
@@ -387,8 +299,7 @@
     - D-) WMV
     - E-) DNxHD
 
-    > **Açıklama:** Dijital Post Prodüksiyon İş Akışı
-    > Dijital görüntü verilerinin daha az yer kaplamasını sağlayan diğer bir uygulama sıkıştırmadır. Kare İçi ve Kareler Arası sıkıştırma yöntemleri önceki bölümde açıklanmıştır. Sıkıştırma ve görüntü formatları ile ilgili kavramlara aşina olmak, dijital post prodüksiyon sürecinde kurgu yapan kişilerin işini kolaylaştıracak­tır. Görüntüler ile ilgili en çok karşılaşılan karışıklıklardan biri görüntü dosya formatlarıyla ile sıkıştırma formatları arasında yaşanmaktadır. Bir görüntü dosyasının yanında görünen .mp4, .mov, .mkv, .avi ve .flv gibi uzantılar konteyner (container) da denilen ve görüntüleri aktarmaya yarayan formatları ifade etmek­tedir. Bu uzantılar o görüntünün hangi sıkıştırma formatı ile sıkıştırıldığını göstermemektedir. Görüntü verilerinin nasıl sıkıştırıldığını ise H.264, DivX, WMV, ProRes ve DNxHD gibi kodlayıcılar (codec) açık­lamaktadır.
+    > **Açıklama:** Dijital Post Prodüksiyon İş Akışı<br />Dijital görüntü verilerinin daha az yer kaplamasını sağlayan diğer bir uygulama sıkıştırmadır. Kare İçi ve Kareler Arası sıkıştırma yöntemleri önceki bölümde açıklanmıştır. Sıkıştırma ve görüntü formatları ile ilgili kavramlara aşina olmak, dijital post prodüksiyon sürecinde kurgu yapan kişilerin işini kolaylaştıracak­tır. Görüntüler ile ilgili en çok karşılaşılan karışıklıklardan biri görüntü dosya formatlarıyla ile sıkıştırma formatları arasında yaşanmaktadır. Bir görüntü dosyasının yanında görünen .mp4, .mov, .mkv, .avi ve .flv gibi uzantılar konteyner (container) da denilen ve görüntüleri aktarmaya yarayan formatları ifade etmek­tedir. Bu uzantılar o görüntünün hangi sıkıştırma formatı ile sıkıştırıldığını göstermemektedir. Görüntü verilerinin nasıl sıkıştırıldığını ise H.264, DivX, WMV, ProRes ve DNxHD gibi kodlayıcılar (codec) açık­lamaktadır.
 
     <hr />
 1. Filmi oluşturan en küçük birime verilen isim aşağıdaki seçeneklerden hangisinde yer almaktadır?
@@ -499,8 +410,7 @@
     - D-) Sahne
     - E-) Senaryo
 
-    > **Açıklama:** Sekans, genellikle birçok farklı mekânda ve farklı zamanda çekilmiş olan sahneler bütünüdür.
-    > Sorunun doğru yanıtı A seçeneğinde verilmiştir.
+    > **Açıklama:** Sekans, genellikle birçok farklı mekânda ve farklı zamanda çekilmiş olan sahneler bütünüdür.<br />Sorunun doğru yanıtı A seçeneğinde verilmiştir.
 
     <hr />
 1. Devamlılık kurgusu temelde bazı kurallara dayanmaktadır. Aşağıdakilerden hangisi bunlardan birisi değildir?
@@ -510,8 +420,7 @@
     - D-) Çekim ölçeği uyumu
     - E-) Bakış çizgisi uyumu
 
-    > **Açıklama:** Devamlılık kurgusu temelde şu kurallara dayanmaktadır: 180 derece kuralı, hareket yönü, hareket uyumu, 30 derece kuralı, çekim ölçeği uyumu, bakış çizgisi uyumu ve hareketi kesme.
-    > Sorunun doğru yanıtı B seçeneğinde verilmiştir.
+    > **Açıklama:** Devamlılık kurgusu temelde şu kurallara dayanmaktadır: 180 derece kuralı, hareket yönü, hareket uyumu, 30 derece kuralı, çekim ölçeği uyumu, bakış çizgisi uyumu ve hareketi kesme.<br />Sorunun doğru yanıtı B seçeneğinde verilmiştir.
 
     <hr />
 1. Sıçramalı kesmenin (Jump-cut) kullanımlarına sinema filmlerindeki en iyi örnek aşağıdakilerden hangisidir?
@@ -521,8 +430,7 @@
     - D-) 400 Darbe (400 Coups)
     - E-) Malta Şahini (Maltese Falcon)
 
-    > **Açıklama:** Sıçramalı kesmenin bu kullanımlarına sinema filmlerindeki en iyi örnek Jean-Luc Godard’ın Serseri Aşıklar (À Bout De Souffle, 1959) filminde karşımıza çıkar.
-    > Sorunun doğru yanıtı C seçeneğinde verilmiştir.
+    > **Açıklama:** Sıçramalı kesmenin bu kullanımlarına sinema filmlerindeki en iyi örnek Jean-Luc Godard’ın Serseri Aşıklar (À Bout De Souffle, 1959) filminde karşımıza çıkar.<br />Sorunun doğru yanıtı C seçeneğinde verilmiştir.
 
     <hr />
 1. Kendi içinde anlam bakımından bir bütünlüğü bulunan bir sürecin ya da sekansın, farklı zaman ve mekânlarda geçen kısımlarının kurgulanarak özet halinde gösterilmesine ne ad verilir?
@@ -532,8 +440,7 @@
     - **Cevap D-) Montaj-Sekans Tekniği**
     - E-) Kısa Kesme Tekniği
 
-    > **Açıklama:** Kendi içinde anlam bakımından bir bütünlüğü bulunan bir sürecin ya da sekansın, farklı zaman ve mekânlarda geçen kısımlarının kurgulanarak özet halinde gösterilmesine montaj-sekans adı verilir.
-    > Sorunun doğru yanıtı D seçeneğinde verilmiştir.
+    > **Açıklama:** Kendi içinde anlam bakımından bir bütünlüğü bulunan bir sürecin ya da sekansın, farklı zaman ve mekânlarda geçen kısımlarının kurgulanarak özet halinde gösterilmesine montaj-sekans adı verilir.<br />Sorunun doğru yanıtı D seçeneğinde verilmiştir.
 
     <hr />
 1. Devamlılığın ve kronolojik kurgunun en önemli unsuru olan, kurgunun ön plana çıkmadığı Hollywood film biçimine işaret eden özellik aşağıdakilerden hangisidir?
@@ -543,8 +450,7 @@
     - D-) Belirsizlik
     - **Cevap E-) Görünmezlik**
 
-    > **Açıklama:** Klasik kurgu anlayışına göre seyirci izlediği filmde kurguyu hissetmemelidir. Bunun için de kurgu görünmez olmalıdır. Görünmezlik devamlılığın ve kronolojik kurgunun en önemli unsurudur ve kurgunun ön plana çıkmadığı Hollywood film biçimine işaret etmektedir.
-    > Sorunun doğru cevabı E seçeneğinde verilmiştir.
+    > **Açıklama:** Klasik kurgu anlayışına göre seyirci izlediği filmde kurguyu hissetmemelidir. Bunun için de kurgu görünmez olmalıdır. Görünmezlik devamlılığın ve kronolojik kurgunun en önemli unsurudur ve kurgunun ön plana çıkmadığı Hollywood film biçimine işaret etmektedir.<br />Sorunun doğru cevabı E seçeneğinde verilmiştir.
 
     <hr />
 1. Blain Brown’a göre devamlılık, gerçekmiş görünümü sağlayabilmeleri için öyküde, konuşmalarda ve görüntüde tutarlılık demektir. Aşağıdakilerden hangisi Blain Brown’ın sıraladığı devamlılık türlerinden birisi değildir?
@@ -554,8 +460,7 @@
     - D-) Zaman devamlılığı
     - **Cevap E-) Karakter devamlılığı**
 
-    > **Açıklama:** Blain Brown, devamlılığın dikkat edilmesi gereken büyük bir sorun olduğunu ve devamlılık hatalarının saatler süren çekimlerin çöpe atılmasına ya da kurguda büyük sorunlar çıkmasına yol açabileceğini söyler. Devamlılık, gerçekmiş görünümü sağlayabilmeleri için öyküde, konuşmalarda ve görüntüde tutarlılık demektir. Brown, bazı devamlılık türleri olarak şunları sıralar; içerik devamlılığı, hareket devamlılığı, konum devamlılığı ve zaman devamlılığı.
-    > Sorunun doğru cevabı E seçeneğinde verilmiştir.
+    > **Açıklama:** Blain Brown, devamlılığın dikkat edilmesi gereken büyük bir sorun olduğunu ve devamlılık hatalarının saatler süren çekimlerin çöpe atılmasına ya da kurguda büyük sorunlar çıkmasına yol açabileceğini söyler. Devamlılık, gerçekmiş görünümü sağlayabilmeleri için öyküde, konuşmalarda ve görüntüde tutarlılık demektir. Brown, bazı devamlılık türleri olarak şunları sıralar; içerik devamlılığı, hareket devamlılığı, konum devamlılığı ve zaman devamlılığı.<br />Sorunun doğru cevabı E seçeneğinde verilmiştir.
 
     <hr />
 1. Bir filmde A ve B karakterlerinin tekli çekimleri ya da bu çekimlerin kurgusu yapılırken, şayet her iki karakter de ekranın aynı tarafına bakıyorsa ne olmuş demektir?
@@ -565,8 +470,7 @@
     - **Cevap D-) Aks kırılmıştır**
     - E-) Zaman kısalmıştır
 
-    > **Açıklama:** Dahası A ve B karakterlerinin tekli çekimleri ya da bu çekimlerin kurgusu yapılırken şayet her iki karakter ekranın aynı tarafına bakıyorsa yine 180 derece kuralının ihlal edildiği (yani aksın kırıldığı) ortaya çıkar.
-    > Sorunun doğru cevabı D seçeneğinde verilmiştir.
+    > **Açıklama:** Dahası A ve B karakterlerinin tekli çekimleri ya da bu çekimlerin kurgusu yapılırken şayet her iki karakter ekranın aynı tarafına bakıyorsa yine 180 derece kuralının ihlal edildiği (yani aksın kırıldığı) ortaya çıkar.<br />Sorunun doğru cevabı D seçeneğinde verilmiştir.
 
     <hr />
 1. Bir çekimden bir diğer çekime geçişte herhangi bir efekt kullanmadan, doğrudan geçmeyi ifade eden, bir çekimin son karesinin ardından, sonraki çekimin ilk karesinin peş peşe gelmesi sağlanan tekniğe ne ad verilir?
@@ -576,8 +480,7 @@
     - D-) Zincirleme
     - E-) Donma
 
-    > **Açıklama:** Kesme, bir çekimden bir diğer çekime geçişte herhangi bir efekt kullanmadan, doğrudan geçmeyi ifade eder. Kesme ile bir çekimin son karesinin ardından, sonraki çekimin ilk karesinin peş peşe gelmesi sağlanır. Sinema ve televizyon yapımlarında en çok kullanılan, en basit görüntü geçiş türü budur.
-    > Sorunun doğru yanıtı C seçeneğinde verilmiştir.
+    > **Açıklama:** Kesme, bir çekimden bir diğer çekime geçişte herhangi bir efekt kullanmadan, doğrudan geçmeyi ifade eder. Kesme ile bir çekimin son karesinin ardından, sonraki çekimin ilk karesinin peş peşe gelmesi sağlanır. Sinema ve televizyon yapımlarında en çok kullanılan, en basit görüntü geçiş türü budur.<br />Sorunun doğru yanıtı C seçeneğinde verilmiştir.
 
     <hr />
 1. Walter Murch, bir kesmeyi iyi yapan altı kural ortaya koymuştur. Ona göre en ideal kesme bu altı kuralın hepsini birden karşılayabilen kesmedir. Aşağıdakilerden hangisi bu kurallardan birisi değildir?
@@ -587,8 +490,7 @@
     - D-) Gözle takibi hesaba katan
     - E-) Düzlemselliğe uygun olan
 
-    > **Açıklama:** Walter Murch, bir kesmeyi iyi yapan altı kural ortaya koymuştur. Ona göre en ideal kesme bu altı kuralın hepsini birden karşılayabilen kesmedir. Bu kurallar şunlardır (Murch, 2005: 16): 1. O andaki duyguya uygun olan 2. Öyküyü ilerleten 3. Ritmik açıdan ilginç ve doğru zamanda gerçekleşen 4. Gözle takibi hesaba katan (seyircinin çerçeve içindeki ilgi odağının yeri ve hareketi ile ilgili) 5. Düzlemselliğe uygun olan (üç boyutlu dünyanın fotoğrafla iki boyutluya indirilmesiyle ilgili dilbilgisi -aks çizgisi sorunları vs.) 6. Üç boyutlu dünyanın devamlılık kurallarına uyan (örneğin, insanlar odada neredeler ve birbirleriyle ilişkileri nedir?)
-    > Sorunun doğru cevabı B seçeneğinde verilmiştir.
+    > **Açıklama:** Walter Murch, bir kesmeyi iyi yapan altı kural ortaya koymuştur. Ona göre en ideal kesme bu altı kuralın hepsini birden karşılayabilen kesmedir. Bu kurallar şunlardır (Murch, 2005: 16): 1. O andaki duyguya uygun olan 2. Öyküyü ilerleten 3. Ritmik açıdan ilginç ve doğru zamanda gerçekleşen 4. Gözle takibi hesaba katan (seyircinin çerçeve içindeki ilgi odağının yeri ve hareketi ile ilgili) 5. Düzlemselliğe uygun olan (üç boyutlu dünyanın fotoğrafla iki boyutluya indirilmesiyle ilgili dilbilgisi -aks çizgisi sorunları vs.) 6. Üç boyutlu dünyanın devamlılık kurallarına uyan (örneğin, insanlar odada neredeler ve birbirleriyle ilişkileri nedir?)<br />Sorunun doğru cevabı B seçeneğinde verilmiştir.
 
     <hr />
 1. İki görüntü arasında zincirleme bir geçiş yaparken bazı noktalara dikkat edilmesi gerekmektedir. Aşağıdakilerden hangisi bunlardan birisi değildir?
@@ -598,8 +500,7 @@
     - D-) Ses
     - E-) Süre
 
-    > **Açıklama:** İki görüntü arasında zincirleme bir geçiş yaparken şunlara dikkat edilmelidir: 1. Motivasyon: Zincirleme kullanılması için gerekli bir eylem veya anlatı ihtiyacı olmalıdır. 2. Bilgi: Yeni çekim, izleyicinin fark edebileceği yeni bilgiler içermelidir. 3. Kompozisyon: Art arda gelen iki çekimin her biri, görsel çelişkiyi önleyecek şekilde farklı kompozisyonlara sahip olmalıdır. 4. Kamera açısı: İki çekim arasındaki geçiş, her ikisi arasındaki kontrastı vurgulamak için farklı kamera açıları sunmalıdır. 5. Ses: İki çekimdeki sesler de birbirine karışmamalıdır. 6. Süre: Varsayılan süre bir saniyedir, ancak birkaç saniye boyunca ekranda uzun bir çözülme olabilir.
-    > Sorunun doğru yanıtı A seçeneğinde verilmiştir.
+    > **Açıklama:** İki görüntü arasında zincirleme bir geçiş yaparken şunlara dikkat edilmelidir: 1. Motivasyon: Zincirleme kullanılması için gerekli bir eylem veya anlatı ihtiyacı olmalıdır. 2. Bilgi: Yeni çekim, izleyicinin fark edebileceği yeni bilgiler içermelidir. 3. Kompozisyon: Art arda gelen iki çekimin her biri, görsel çelişkiyi önleyecek şekilde farklı kompozisyonlara sahip olmalıdır. 4. Kamera açısı: İki çekim arasındaki geçiş, her ikisi arasındaki kontrastı vurgulamak için farklı kamera açıları sunmalıdır. 5. Ses: İki çekimdeki sesler de birbirine karışmamalıdır. 6. Süre: Varsayılan süre bir saniyedir, ancak birkaç saniye boyunca ekranda uzun bir çözülme olabilir.<br />Sorunun doğru yanıtı A seçeneğinde verilmiştir.
 
     <hr />
 1. Bir kameranın kayda girip kayıttan çıkması süresince kaydettiği görüntüye verilen isim aşağıdakilerden hangisidir?
@@ -609,8 +510,7 @@
     - D-) Sıçrama
     - E-) Pan
 
-    > **Açıklama:** Doğru yanıt A şıkkıdır
-    > Bir kameranın kayda girip kayıttan çıkması süresince kaydettiği görüntüye verilen isim plandır
+    > **Açıklama:** Doğru yanıt A şıkkıdır<br />Bir kameranın kayda girip kayıttan çıkması süresince kaydettiği görüntüye verilen isim plandır
 
     <hr />
 1. Birçok farklı mekanda ve zamanda çekilmiş sahnelerin bütününe ne denir?
@@ -620,8 +520,7 @@
     - D-) Sıçrama
     - E-) Kesme
 
-    > **Açıklama:** Doğru yanıt C şıkkıdır
-    > Birçok farklı mekanda ve zamanda çekilmiş sahnelerin bütününe sekans denir
+    > **Açıklama:** Doğru yanıt C şıkkıdır<br />Birçok farklı mekanda ve zamanda çekilmiş sahnelerin bütününe sekans denir
 
     <hr />
 1. Genellikle aksiyon filmlerinde kullanılan; kişi, nesne ya da kamera üçlüsünden biri ya da ikisi yavaşken, diğerinin daha hızlı olduğu çekim ve kurgu tekniğine ne denir?
@@ -631,8 +530,7 @@
     - D-) Geriye oynatım
     - E-) Kısa kesme
 
-    > **Açıklama:** Doğru yanıt A şıkkıdır
-    > Genellikle aksiyon filmlerinde kullanılan; kişi, nesne ya da kamera üçlüsünden biri ya da ikisi yavaşken, diğerinin daha hızlı olduğu çekim ve kurgu tekniğine akan çekim denir
+    > **Açıklama:** Doğru yanıt A şıkkıdır<br />Genellikle aksiyon filmlerinde kullanılan; kişi, nesne ya da kamera üçlüsünden biri ya da ikisi yavaşken, diğerinin daha hızlı olduğu çekim ve kurgu tekniğine akan çekim denir
 
     <hr />
 1. Aşağıdakilerden hangisi karmaşık kurgu olarak da adlandırılan çapraz kesme tekniğinin amaçlarından biri değildir?
@@ -642,8 +540,7 @@
     - D-) İnsanlar, ülkeler, kültürler, ürünler, yöntemler veya olaylar arasında karşılaştırma yapmak
     - **Cevap E-) Duygusal bir kopukluk yaratarak, izleyicinin hikayeyle bağını zayıflatmak**
 
-    > **Açıklama:** Doğru yanıt E şıkkıdır
-    > Bu tekniğin "duygusal bir kopukluk yaratarak, izleyicinin hikayeyle bağını zayıflatmak" gibi bir amacı yoktur
+    > **Açıklama:** Doğru yanıt E şıkkıdır<br />Bu tekniğin "duygusal bir kopukluk yaratarak, izleyicinin hikayeyle bağını zayıflatmak" gibi bir amacı yoktur
 
     <hr />
 1. Bir anlatıda olayların sondan başa doğru anlatılmasıyla ifade edilen, öykünün kronolojik olarak ileriden gösterilmeye başlayıp geçmişe doğru aktığı teknik nedir?
@@ -653,8 +550,7 @@
     - D-) Flashback
     - E-) Kesme geciktirmesi
 
-    > **Açıklama:** Doğru yanıt A şıkkıdır
-    > Bir anlatıda olayların sondan başa doğru anlatılmasıyla ifade edilen, öykünün kronolojik olarak ileriden gösterilmeye başlayıp geçmişe doğru aktığı teknik geriye gidiştir
+    > **Açıklama:** Doğru yanıt A şıkkıdır<br />Bir anlatıda olayların sondan başa doğru anlatılmasıyla ifade edilen, öykünün kronolojik olarak ileriden gösterilmeye başlayıp geçmişe doğru aktığı teknik geriye gidiştir
 
     <hr />
 1. Sahnede kullanılan aksesuar her tekrarda yer değiştirir. Bunların ilk ve son yerlerinin her tekrarda aynı olması gerekir; yoksa bu planlar kurguda büyük sorunlar yaratabilir. Aşağıdakilerden hangisi yukarıdaki tanımın ifade ettiği ve klasik kurgu anlayışının temeli olan devamlılık türlerinden biridir?
@@ -664,8 +560,7 @@
     - D-) Aksiyon devamlılığı
     - E-) Zamanda devamlılık
 
-    > **Açıklama:** Doğru yanıt A şıkkıdır
-    > Bahsedilen devamlılık türü konumda devamlılıktır
+    > **Açıklama:** Doğru yanıt A şıkkıdır<br />Bahsedilen devamlılık türü konumda devamlılıktır
 
     <hr />
 1. Aşağıdakilerden hangisi bindirme tekniğinin avantajlarından biridir?
@@ -675,8 +570,7 @@
     - D-) Bir görüntüdeki kişilerin birden belirmesini engellemek
     - **Cevap E-) Bir görüntünün üzerine yazı ya da bir başka yazılı işaret bindirmek**
 
-    > **Açıklama:** Doğru yanıt E şıkkıdır
-    > "Bir görüntünün üzerine yazı ya da bir başka yazılı işaret bindirmek" bindirme tekniğinin amaçlarından biridir
+    > **Açıklama:** Doğru yanıt E şıkkıdır<br />"Bir görüntünün üzerine yazı ya da bir başka yazılı işaret bindirmek" bindirme tekniğinin amaçlarından biridir
 
     <hr />
 1. İki ya da daha fazla kamera açısından çekilmiş olan bir hareketin, bir birbirlerine bağlanması sonucu oluşturulan kurgu tekniğine ne isim verilir?
@@ -686,8 +580,7 @@
     - D-) Zincirleme
     - E-) Kararma
 
-    > **Açıklama:** Doğru yanıt A şıkkıdır
-    > İki ya da daha fazla kamera açısından çekilmiş olan bir hareketin, bir birbirlerine bağlanması sonucu oluşturulan kurgu tekniğin adı hareketi kesmedir
+    > **Açıklama:** Doğru yanıt A şıkkıdır<br />İki ya da daha fazla kamera açısından çekilmiş olan bir hareketin, bir birbirlerine bağlanması sonucu oluşturulan kurgu tekniğin adı hareketi kesmedir
 
     <hr />
 1. Yapılan çekimde çok geniş bir manzara içinde insanların küçücük göründüğü, mekanın ön planda olduğu çekim türü hangisidir?
@@ -697,8 +590,7 @@
     - D-) Çok yakın plan
     - E-) Ayrıntı plan
 
-    > **Açıklama:** Doğru yanıt B şıkkıdır.
-    > Yapılan çekimde çok geniş bir manzara içinde insanların küçücük göründüğü, mekanın ön planda olduğu çekim türüçok genel plandır
+    > **Açıklama:** Doğru yanıt B şıkkıdır.<br />Yapılan çekimde çok geniş bir manzara içinde insanların küçücük göründüğü, mekanın ön planda olduğu çekim türüçok genel plandır
 
     <hr />
 1. İlk sahnedeki görüntünün netliğini yavaş yavaş kaybedip belirsizleşmesini sağlamak ne ile ifade edilir?
@@ -708,8 +600,7 @@
     - **Cevap D-) Bulanıklaştırma**
     - E-) Bindirme
 
-    > **Açıklama:** Doğru yanıt D şıkkıdır
-    > İlk sahnedeki görüntünün netliğini yavaş yavaş kaybedip belirsizleşmesini sağlamak bulanıklaştırmadır.
+    > **Açıklama:** Doğru yanıt D şıkkıdır<br />İlk sahnedeki görüntünün netliğini yavaş yavaş kaybedip belirsizleşmesini sağlamak bulanıklaştırmadır.
 
     <hr />
 ## Unite 4
@@ -730,11 +621,7 @@
     - D-) Adobe Premiere Pro, video prodüksiyonunun her aşamasında profesyonellere eşsiz bir esneklik ve kontrol sunarak, sektördeki en kapsamlı video düzenleme yazılımlarından biri olarak kabul edilir
     - E-) Adobe Premiere Pro, video prodüksiyonunun her aşamasında profesyonellere eşsiz bir esneklik ve kontrol sunarak, sektördeki en kapsamlı video düzenleme yazılımlarından biri olarak kabul edilir
 
-    > **Açıklama:** Video kurgusu en
-    > basit tanımıyla hareketli video projelerindeki görüntülerin kesilmesi, kırpılması,
-    > üst üste bindirilmesi; özel efektler, müzik,
-    > ses kayıtları eklenmesi yoluyla düzenlenip,
-    > kaydedilmesi ve aktarılması işlemidir.
+    > **Açıklama:** Video kurgusu en<br />basit tanımıyla hareketli video projelerindeki görüntülerin kesilmesi, kırpılması,<br />üst üste bindirilmesi; özel efektler, müzik,<br />ses kayıtları eklenmesi yoluyla düzenlenip,<br />kaydedilmesi ve aktarılması işlemidir.
 
     <hr />
 1. Aşağıdakilerden hangisi Adobe Premiere Pro programı 2024 sürümü açıldığında yeni bir proje oluşturmak için gerekli temel adımlardan biridir?
@@ -744,8 +631,7 @@
     - D-) Liste Görünümü: Bu ikon, medya dosyalarınızı bir liste halinde gösterir. Liste görünümünde, dosya adı, türü, süresi ve diğer meta veriler gibi ek detayları görebilirsiniz. Bu görünüm, dosyalar arasında hızlı bir şekilde gezinmek ve özellikle çok sayıda dosyayı yönetirken detaylı bilgiye ulaşmak için kullanışlıdır.
     - E-) Herhangi bir dosyanın herhangi bir dijital video editing sistemine aktarılması işlemine içe aktarma (import) denilir
 
-    > **Açıklama:** Arayüzde kırmızı çerçeveyle gösterilen: Yeni proje oluşturmak için açılış ekranında
-    > önce ‘New Project’ (yeni proje) butonuna tıklayın.
+    > **Açıklama:** Arayüzde kırmızı çerçeveyle gösterilen: Yeni proje oluşturmak için açılış ekranında<br />önce ‘New Project’ (yeni proje) butonuna tıklayın.
 
     <hr />
 1. Aşağıdakilerden hangisi Adobe Premiere Pro’nun içe aktarma (import) penceresinde bulunan simge boyutu düğmelerinden biridir?
@@ -755,12 +641,7 @@
     - D-) Delete (sil)
     - E-) New Bin (Yeni klasör)
 
-    > **Açıklama:** Adobe Premiere Pro’nun içe aktarma (import) penceresinde bulunan simge boyutu düğmeleri şunlardır:
-    > 1\. Liste Görünümü
-    > 2\. İkon Görünümü
-    > 3\. Freeform
-    > 4\. Simge Boyutu
-    > Freeform (Serbest Görünüm) düğmesinin işlevi şudur: Freeform görünümü, dosyalarınızı serbestçe düzenleyebileceğiniz bir alanda gösterir. Bu görünüm, dosyalarınızı istediğiniz gibi sıralamanıza, gruplamanıza ve düzenlemenize olanak tanır. Özellikle yaratıcı düzenleme süreçlerinde veya hikâye anlatımı için belirli bir sırayla medya dosyalarını organize etmek istediğinizde yararlıdır.
+    > **Açıklama:** Adobe Premiere Pro’nun içe aktarma (import) penceresinde bulunan simge boyutu düğmeleri şunlardır:<br />1\. Liste Görünümü<br />2\. İkon Görünümü<br />3\. Freeform<br />4\. Simge Boyutu<br />Freeform (Serbest Görünüm) düğmesinin işlevi şudur: Freeform görünümü, dosyalarınızı serbestçe düzenleyebileceğiniz bir alanda gösterir. Bu görünüm, dosyalarınızı istediğiniz gibi sıralamanıza, gruplamanıza ve düzenlemenize olanak tanır. Özellikle yaratıcı düzenleme süreçlerinde veya hikâye anlatımı için belirli bir sırayla medya dosyalarını organize etmek istediğinizde yararlıdır.
 
     <hr />
 1. Aşağıdakilerden hangisi yeni bir sekans oluşturma şeklidir?
@@ -830,8 +711,7 @@
     - D-) John Knoll.
     - E-) Steven Soderbergh.
 
-    > **Açıklama:** 93 ve 95. sayfalar.
-    > Dijital kurgu devriminin öncüleri arasında yer alan Walter Murch, 1990’larda yaptığı yenilikçi çalışmalarla, bu alanın evriminde önemli bir uzmandır. Murch, sinema dünyasının analog köklerinden dijital kurgunun zirvesine ulaşmasına öncülük eden isimlerden biri olarak kabul edilir. Walter Murch (2005), bu teknolojik geçişin psikolojik etkilerini, kendisi ve kurgu profesyonelleri üzerindeki etkisi açısından anlatır. Murch, analog kurgu süreçlerinde karşılaşılan mekanik kesme masalarının ritmik sesleri, fiziksel olarak yıpranmış film şeritleri, kesme ve birleştirme araçları, kurgu masaları ve düzeltme işaretleyicileriyle dolu kurgu odalarının nostaljisini dile getirirken, dijital dönüşümün kaçınılmazlığına ve bu teknolojik yeniliklerin yaratıcı süreçler üzerindeki derin etkisine vurgu yapar.
+    > **Açıklama:** 93 ve 95. sayfalar.<br />Dijital kurgu devriminin öncüleri arasında yer alan Walter Murch, 1990’larda yaptığı yenilikçi çalışmalarla, bu alanın evriminde önemli bir uzmandır. Murch, sinema dünyasının analog köklerinden dijital kurgunun zirvesine ulaşmasına öncülük eden isimlerden biri olarak kabul edilir. Walter Murch (2005), bu teknolojik geçişin psikolojik etkilerini, kendisi ve kurgu profesyonelleri üzerindeki etkisi açısından anlatır. Murch, analog kurgu süreçlerinde karşılaşılan mekanik kesme masalarının ritmik sesleri, fiziksel olarak yıpranmış film şeritleri, kesme ve birleştirme araçları, kurgu masaları ve düzeltme işaretleyicileriyle dolu kurgu odalarının nostaljisini dile getirirken, dijital dönüşümün kaçınılmazlığına ve bu teknolojik yeniliklerin yaratıcı süreçler üzerindeki derin etkisine vurgu yapar.
 
     <hr />
 1. Adobe Premiere Pro kurgu yazılımının arayüzü Thomas ve John Knoll kardeşler tarafından geliştirilirken kullanıcı dostu olması nedeniyle hangi esin kaynağı kullanılmıştır?
@@ -1183,8 +1063,7 @@
     - D-) Yeşil
     - **Cevap E-) Pembe**
 
-    > **Açıklama:** Renk çarkında sekiz renk tonu vardır; Kırmızı, turuncu, sarı, yeşil, camgöbeği, mavi, menekşe (veya mor) ve macenta.
-    > Pembe bir ton değildir.
+    > **Açıklama:** Renk çarkında sekiz renk tonu vardır; Kırmızı, turuncu, sarı, yeşil, camgöbeği, mavi, menekşe (veya mor) ve macenta.<br />Pembe bir ton değildir.
 
     <hr />
 1. Bir rengin gri skalaya göre konumuna ne denir?
@@ -1244,8 +1123,7 @@
     - D-) Kroma
     - E-) Renk üstünlüğü
 
-    > **Açıklama:** Videoda Renk ile İlgili Temel Kavramlar ve Bileşenler
-    > Renk düzeltme, bir görüntünün genel rengini değiştirme (genellikle beyaz ve siyah seviyelerini den­geleme) işlemidir; böylece tüm film boyunca tutarlı bir renk sıcaklığı ve dolayısıyla hikaye için tutarlı bir görünüm elde edilir. Bu işlem herhangi bir renk düzenlemesinden önce yapılır, çünkü gerçek ham çekimin insan gözünün gördükleriyle eşleşmesi için “düzeltilmesi” gerekir.
+    > **Açıklama:** Videoda Renk ile İlgili Temel Kavramlar ve Bileşenler<br />Renk düzeltme, bir görüntünün genel rengini değiştirme (genellikle beyaz ve siyah seviyelerini den­geleme) işlemidir; böylece tüm film boyunca tutarlı bir renk sıcaklığı ve dolayısıyla hikaye için tutarlı bir görünüm elde edilir. Bu işlem herhangi bir renk düzenlemesinden önce yapılır, çünkü gerçek ham çekimin insan gözünün gördükleriyle eşleşmesi için “düzeltilmesi” gerekir.
 
     <hr />
 1. Videonun en karanlık kısmındaki parlaklık seviyesi tanımı aşağıdakilerden hangisine aittir?
@@ -1255,8 +1133,7 @@
     - D-) Dinamik aralık
     - E-) Lüminans
 
-    > **Açıklama:** Videoda Renk ile İlgili Temel Kavramlar ve Bileşenler
-    > Siyah seviyesi, videonun en karanlık kısmındaki parlaklık seviyesidir ve insan gözünün siyah olarak algıladığı şeydir.
+    > **Açıklama:** Videoda Renk ile İlgili Temel Kavramlar ve Bileşenler<br />Siyah seviyesi, videonun en karanlık kısmındaki parlaklık seviyesidir ve insan gözünün siyah olarak algıladığı şeydir.
 
     <hr />
 1. Renk tonunun saflığını gösteren renk bileşeni aşağıdakilerden hangisidir?
@@ -1266,8 +1143,7 @@
     - **Cevap D-) Doygunluk**
     - E-) Gama
 
-    > **Açıklama:** Videoda Renk ile İlgili Temel Kavramlar ve Bileşenler
-    > Bir rengi tanımlamak için kullanılan üçüncü terim doygunluktur (bazen kroma veya yoğunluk ola­rak da adlandırılır). Doygunluk, renk tonunun saflığını ifade eder. Örneğin, tam doygunluk, tonun son derece canlı olduğu anlamına gelir. Doygun bir kırmızı, başka hiçbir renk tonu tarafından kirletilmemiş bir kırmızıdır. %100 kırmızıdır. Doygunluğun azalması, doymuş bir tona o tonun tamamlayıcı renginin eklenmesiyle başlar. Tamamlayıcı renkler, renk çarkında birbirinin zıttı olarak konumlanır.
+    > **Açıklama:** Videoda Renk ile İlgili Temel Kavramlar ve Bileşenler<br />Bir rengi tanımlamak için kullanılan üçüncü terim doygunluktur (bazen kroma veya yoğunluk ola­rak da adlandırılır). Doygunluk, renk tonunun saflığını ifade eder. Örneğin, tam doygunluk, tonun son derece canlı olduğu anlamına gelir. Doygun bir kırmızı, başka hiçbir renk tonu tarafından kirletilmemiş bir kırmızıdır. %100 kırmızıdır. Doygunluğun azalması, doymuş bir tona o tonun tamamlayıcı renginin eklenmesiyle başlar. Tamamlayıcı renkler, renk çarkında birbirinin zıttı olarak konumlanır.
 
     <hr />
 1. Renk dengesi sorunlarının ele alınmasında yardımcı olan, kırmızı, yeşil ve mavi kanallara bölünmüş bir waveform olarak tanımlanan skop aşağıdakilerden hangisidir?
@@ -1277,8 +1153,7 @@
     - D-) Gama
     - E-) Luma
 
-    > **Açıklama:** Videoda Rengi Doğru Okuma Araçları
-    > RGB parade, kırmızı yeşil ve mavi kanallara bölünmüş bir waveform’dur. Renk dengesi sorunlarının ele alınmasında yardımcı olur. Görüntüde doğru şekilde beyaz dengelemesi yapılmışsa kırmızı, yeşil ve mavi kanallar gölgeler ve parlak noktalar arasında eşleşecek veya dengelenecektir. Aksi halde kırmızı, yeşil ve mavi kanallarda, görüntünün renk üstünlüğüne veya güçlü bir baskın renge sahip olmasına neden olan bir dengesizlik görülecektir. Bu örnekte olduğu gibi mavi kanal, kırmızı ve yeşil kanalların üzerine çıkarak görüntüye soğuk bir renk tonu verir. Bir sonraki örnekte kırmızı, yeşil ve mavi kanalların üzerine çıkarak görüntüye sıcak bir renk katmaktadır. RGB parade yalnızca bu sorunları kolayca tespit etmekle kalmaz, aynı zamanda bunları düzeltmede de son derece yardımcı olur.
+    > **Açıklama:** Videoda Rengi Doğru Okuma Araçları<br />RGB parade, kırmızı yeşil ve mavi kanallara bölünmüş bir waveform’dur. Renk dengesi sorunlarının ele alınmasında yardımcı olur. Görüntüde doğru şekilde beyaz dengelemesi yapılmışsa kırmızı, yeşil ve mavi kanallar gölgeler ve parlak noktalar arasında eşleşecek veya dengelenecektir. Aksi halde kırmızı, yeşil ve mavi kanallarda, görüntünün renk üstünlüğüne veya güçlü bir baskın renge sahip olmasına neden olan bir dengesizlik görülecektir. Bu örnekte olduğu gibi mavi kanal, kırmızı ve yeşil kanalların üzerine çıkarak görüntüye soğuk bir renk tonu verir. Bir sonraki örnekte kırmızı, yeşil ve mavi kanalların üzerine çıkarak görüntüye sıcak bir renk katmaktadır. RGB parade yalnızca bu sorunları kolayca tespit etmekle kalmaz, aynı zamanda bunları düzeltmede de son derece yardımcı olur.
 
     <hr />
 1. “……………. pozlamayı değerlendirmek için de kullanılabilir ancak en çok çekimleri dengelemede ve yasal luma değerlerini belirlemede yardımcı olur.” Boşluğu doğru olarak dolduracak olan ifade aşağıdakilerden hangisidir?
@@ -1288,8 +1163,7 @@
     - D-) RGB Parade
     - **Cevap E-) Histogram**
 
-    > **Açıklama:** Videoda Rengi Doğru Okuma Araçları
-    > Histogram pozlamayı değerlendirmek için de kullanılabilir ancak en çok çekimleri dengelemede ve yasal luma değerlerini belirlemede yardımcı olur. Histogram soldan sağa doğru okunur, gölgeler solda ve parlak noktalar sağdadır. Her pikselin luma değeri çubuk grafik biçi­minde gösterilir ve pikseller her luma seviyesinde üst üste yığılır. Az pozlanmış çekimden başlayarak, piksellerin histogramın sol tarafında gölgelerde toplandığını görebiliriz. Aşırı pozlanmış çekimde, tüm iz­lerin parlak noktalarda sağa doğru toplandığı görülüyor. Doğru poz­lanmış çekim histogram boyunca oldukça eşit bir dağılım gösterir. Renk dengesi sorunları olan görüntülerde kanallar arasında düzensiz­lik rahatça gözlemlenir.
+    > **Açıklama:** Videoda Rengi Doğru Okuma Araçları<br />Histogram pozlamayı değerlendirmek için de kullanılabilir ancak en çok çekimleri dengelemede ve yasal luma değerlerini belirlemede yardımcı olur. Histogram soldan sağa doğru okunur, gölgeler solda ve parlak noktalar sağdadır. Her pikselin luma değeri çubuk grafik biçi­minde gösterilir ve pikseller her luma seviyesinde üst üste yığılır. Az pozlanmış çekimden başlayarak, piksellerin histogramın sol tarafında gölgelerde toplandığını görebiliriz. Aşırı pozlanmış çekimde, tüm iz­lerin parlak noktalarda sağa doğru toplandığı görülüyor. Doğru poz­lanmış çekim histogram boyunca oldukça eşit bir dağılım gösterir. Renk dengesi sorunları olan görüntülerde kanallar arasında düzensiz­lik rahatça gözlemlenir.
 
     <hr />
 1. Her klibin Y,R,G ve B kanallarının düzgün bir şekilde ayarlanmasını sağlayan renk düzenleme aracı aşağıdakilerden hangisidir?
@@ -1299,8 +1173,7 @@
     - D-) İkincil geliştirme araçları
     - E-) Qualifier
 
-    > **Açıklama:** Renk Düzenlemenin İş Akışı Mimarisi Temel Araçları/ Renk Düzenleme Temel Araçları
-    > Renk eğrileri, her klibin Y, R, G ve B kanallarının düzgün bir şekilde ayarlanmasını sağlar. Eğriler, bir görüntüde Renk Dengesi kontrolleri kullanılarak gerçekleştirilebilecek olandan daha fazla tona özgü, kanal kanal ayarlamalar yapmak için kullanışlıdır. Renk kanallarının farklı kombinasyonlarında alışılmadık deği­şiklikler yaparak garip ve harika stilistik ayarlamalar yapmak için de kullanışlıdırlar. Eğrilerin varsayılan, nötr konumu, görüntünün sol alt siyah noktasından sağ üst beyaz noktasına kadar uzanan bir diyagonal çizgidir.
+    > **Açıklama:** Renk Düzenlemenin İş Akışı Mimarisi Temel Araçları/ Renk Düzenleme Temel Araçları<br />Renk eğrileri, her klibin Y, R, G ve B kanallarının düzgün bir şekilde ayarlanmasını sağlar. Eğriler, bir görüntüde Renk Dengesi kontrolleri kullanılarak gerçekleştirilebilecek olandan daha fazla tona özgü, kanal kanal ayarlamalar yapmak için kullanışlıdır. Renk kanallarının farklı kombinasyonlarında alışılmadık deği­şiklikler yaparak garip ve harika stilistik ayarlamalar yapmak için de kullanışlıdırlar. Eğrilerin varsayılan, nötr konumu, görüntünün sol alt siyah noktasından sağ üst beyaz noktasına kadar uzanan bir diyagonal çizgidir.
 
     <hr />
 1. Aşağıdakilerden hangisi renk düzenleme iş akışının görünüm inşası aşamasında yer almaz?
@@ -1310,23 +1183,7 @@
     - **Cevap D-) Çekimler arası uyum**
     - E-) Stilize görünümler
 
-    > **Açıklama:** Renk Düzenlemede İş Akışı
-    > Kurgusu bitmiş ve renk aşamasına gelmiş bir çalışmada iş akışının sıralaması aşağıdaki gibi olmalıdır. Bu sıralamaya bağlı kalmak profesyonel bir bakış açısına sahip olmanızı sağlayacaktır.
-    > 1\. Düzeltme Aşaması
-    > * Pozlama düzeltme
-    > * Renk dengesi
-    > * Çekimler arası uyum
-    > 2\. Görünüm İnşası
-    > * Ruh hali
-    > * Günün saati
-    > * Mekân
-    > * Popüler görünümler
-    > * Stilize görünümler
-    > 3\. İkincil operasyonlar
-    > * Temizlik
-    > * Netlik
-    > * Geliştirme
-    > Çekimler arası uyum, düzeltme aşamasında yer almaktadır.
+    > **Açıklama:** Renk Düzenlemede İş Akışı<br />Kurgusu bitmiş ve renk aşamasına gelmiş bir çalışmada iş akışının sıralaması aşağıdaki gibi olmalıdır. Bu sıralamaya bağlı kalmak profesyonel bir bakış açısına sahip olmanızı sağlayacaktır.<br />1\. Düzeltme Aşaması<br />* Pozlama düzeltme<br />* Renk dengesi<br />* Çekimler arası uyum<br />2\. Görünüm İnşası<br />* Ruh hali<br />* Günün saati<br />* Mekân<br />* Popüler görünümler<br />* Stilize görünümler<br />3\. İkincil operasyonlar<br />* Temizlik<br />* Netlik<br />* Geliştirme<br />Çekimler arası uyum, düzeltme aşamasında yer almaktadır.
 
     <hr />
 1. Waveform’da 1023 noktası hangi rengi temsil etmektedir?
@@ -1336,8 +1193,7 @@
     - D-) Doku olmayan hafif tonlar
     - **Cevap E-) Saf beyaz**
 
-    > **Açıklama:** Renk Düzenlemede İş Akışı
-    > Bölge sistemini referans olarak kullanarak amaçlarımız doğrultusunda waveform kapsamımıza kolayca uyarlayabiliriz. Saf siyahın sıfır, orta grinin 512 ve saf beyazın 1023 olarak temsil edildiğini görebiliriz. Ya­yın için güvenli sınırlar içinde çalışıyorsak bunu dikkate alırız. Ansel Adams bölge sistemi, renk tonlama­sına ilk başladığınızda değerli bir kaynak olabilir. Daha sonra kişi doğru pozlamayı değerlendirmeye daha aşina hale geldiğinde artık bölge sistemine başvurmasına gerek kalmayacaktır. Doğru pozlamayı ölçmek sadece biraz pratik gerektirir.
+    > **Açıklama:** Renk Düzenlemede İş Akışı<br />Bölge sistemini referans olarak kullanarak amaçlarımız doğrultusunda waveform kapsamımıza kolayca uyarlayabiliriz. Saf siyahın sıfır, orta grinin 512 ve saf beyazın 1023 olarak temsil edildiğini görebiliriz. Ya­yın için güvenli sınırlar içinde çalışıyorsak bunu dikkate alırız. Ansel Adams bölge sistemi, renk tonlama­sına ilk başladığınızda değerli bir kaynak olabilir. Daha sonra kişi doğru pozlamayı değerlendirmeye daha aşina hale geldiğinde artık bölge sistemine başvurmasına gerek kalmayacaktır. Doğru pozlamayı ölçmek sadece biraz pratik gerektirir.
 
     <hr />
 1. Renk düzenleme iş akışının 1. düzeltme aşamasında yer alan bir görüntüdeki renklerin genel karışımını değiştirmek ve renk dü­zeltmek için uygulanan işlem aşağıdakilerden hangisidir?
@@ -1347,8 +1203,7 @@
     - D-) Netlik
     - E-) Geliştirme
 
-    > **Açıklama:** Renk Düzenlemede İş Akışı
-    > Renk dengesi, renklerin (genellikle kırmızı, yeşil ve mavi ana renkler) yoğunluklarının global olarak ayarlanmasıdır. Bu ayarlamanın önemli bir amacı, belirli renkleri (özellikle beyaz veya gri gibi nötr renk­leri) doğru şekilde oluşturmaktır. Bu nedenle, genel yöntem bazen gri dengesi, nötr dengesi veya beyaz dengesi olarak adlandırılır. Renk dengesi bir görüntüdeki renklerin genel karışımını değiştirir ve renk dü­zeltme için kullanılır. Renk dengesinin genelleştirilmiş versiyonları nötr dışındaki renkleri düzeltmek veya efekt için kasıtlı olarak değiştirmek için kullanılır. Beyaz dengesi en yaygın dengeleme türlerinden biridir ve beyaz bir nesnenin (bir kağıt parçası veya duvar gibi) başka bir rengin tonu değil de beyaz görünmesi için renklerin ayarlanmasıdır.
+    > **Açıklama:** Renk Düzenlemede İş Akışı<br />Renk dengesi, renklerin (genellikle kırmızı, yeşil ve mavi ana renkler) yoğunluklarının global olarak ayarlanmasıdır. Bu ayarlamanın önemli bir amacı, belirli renkleri (özellikle beyaz veya gri gibi nötr renk­leri) doğru şekilde oluşturmaktır. Bu nedenle, genel yöntem bazen gri dengesi, nötr dengesi veya beyaz dengesi olarak adlandırılır. Renk dengesi bir görüntüdeki renklerin genel karışımını değiştirir ve renk dü­zeltme için kullanılır. Renk dengesinin genelleştirilmiş versiyonları nötr dışındaki renkleri düzeltmek veya efekt için kasıtlı olarak değiştirmek için kullanılır. Beyaz dengesi en yaygın dengeleme türlerinden biridir ve beyaz bir nesnenin (bir kağıt parçası veya duvar gibi) başka bir rengin tonu değil de beyaz görünmesi için renklerin ayarlanmasıdır.
 
     <hr />
 1. Hue vs Hue eğrisi aşağıdakilerden hangisini sağlar?
@@ -1358,8 +1213,7 @@
     - **Cevap D-) Herhangi bir renk tonunu başka bir renk tonuna değiştirmenizi sağlar.**
     - E-) Belirli renklerdeki öğrelerin parlaklığını arttırmanıza veya azaltmanıza olanak tanır.
 
-    > **Açıklama:** Renk Düzenlemede İş Akışı
-    > ***HUE vs HUE*** : Renk Tonu ve Renk Tonu eğrisi herhangi bir renk tonunu başka bir renk tonuna değiştirmenizi sağlar.
+    > **Açıklama:** Renk Düzenlemede İş Akışı<br />***HUE vs HUE*** : Renk Tonu ve Renk Tonu eğrisi herhangi bir renk tonunu başka bir renk tonuna değiştirmenizi sağlar.
 
     <hr />
 ## Unite 7
@@ -1370,8 +1224,7 @@
     - D-) S.M. Eisenstein
     - E-) Walt Disney
 
-    > **Açıklama:** Sinema tarihinin ilk özel efektlerini, kendi yaratıcı yöntemlerini geliştirerek uygulamasıyla bilinen Georges Melies, çekimi durdurup setteki unsurları ya da karakterleri değiştirip kaldığı yerden çekime devam etmek, birden fazla görüntüyü aynı karede pozlamak ya da siyah beyaz filmleri her bir karede elle boyamak gibi teknikler kullanmıştır.
-    > Sorunun doğru cevabı A seçeneğinde verilmiştir.
+    > **Açıklama:** Sinema tarihinin ilk özel efektlerini, kendi yaratıcı yöntemlerini geliştirerek uygulamasıyla bilinen Georges Melies, çekimi durdurup setteki unsurları ya da karakterleri değiştirip kaldığı yerden çekime devam etmek, birden fazla görüntüyü aynı karede pozlamak ya da siyah beyaz filmleri her bir karede elle boyamak gibi teknikler kullanmıştır.<br />Sorunun doğru cevabı A seçeneğinde verilmiştir.
 
     <hr />
 1. Görsel efektler uygulama süreçleri açısından altı ana başlıkta incelenebilir. Aşağıdakilerden hangisi bunlardan birisi değildir?
@@ -1381,8 +1234,7 @@
     - D-) Digital compositing
     - E-) Matchmove
 
-    > **Açıklama:** Görsel efektler uygulama süreçleri açısından altı ana başlıkta incelenebilir. Bunlar; • Chroma Key (Mavi-Yeşil Perde) • Rotoskop (Rotoscoping) • Matchmove (Hareket Eşleştirme) • Digital Matte Painting (Dijital Mat Boyama) • Digital Compositing (Dijital Kurgu) • Animation (Üç Boyutlu Animasyon)
-    > Sorunun doğru cevabı B seçeneğinde verilmiştir.
+    > **Açıklama:** Görsel efektler uygulama süreçleri açısından altı ana başlıkta incelenebilir. Bunlar; • Chroma Key (Mavi-Yeşil Perde) • Rotoskop (Rotoscoping) • Matchmove (Hareket Eşleştirme) • Digital Matte Painting (Dijital Mat Boyama) • Digital Compositing (Dijital Kurgu) • Animation (Üç Boyutlu Animasyon)<br />Sorunun doğru cevabı B seçeneğinde verilmiştir.
 
     <hr />
 1. 3B Post prodüksiyon, görsel bir ürün elde etmek için görüntüleri yönetmeye, taşımaya ve manipüle etmeye adanmış bir iş akışını tanımlar ve belirli bazı amaçlar için kullanılır. Aşağıdakilerden hangisi bu amaçlardan birisi değildir?
@@ -1392,8 +1244,7 @@
     - D-) Devamlılığı desteklemek
     - E-) Yaratıcılığı desteklemek.
 
-    > **Açıklama:** 3B Post prodüksiyon, görsel bir ürün elde etmek için görüntüleri yönetmeye, taşımaya ve manipüle etmeye adanmış bir iş akışını tanımlar ve aşağıdaki amaçlar için kullanılır. • Derinlik izlenimi yaratmak, • İzleyici beklentisini ve göz konforunu en üst düzeye çıkarmak, • Devamlılığı desteklemek • Yaratıcılığı desteklemek.
-    > Sorunun doğru cevabı A seçeneğinde verilmiştir.
+    > **Açıklama:** 3B Post prodüksiyon, görsel bir ürün elde etmek için görüntüleri yönetmeye, taşımaya ve manipüle etmeye adanmış bir iş akışını tanımlar ve aşağıdaki amaçlar için kullanılır. • Derinlik izlenimi yaratmak, • İzleyici beklentisini ve göz konforunu en üst düzeye çıkarmak, • Devamlılığı desteklemek • Yaratıcılığı desteklemek.<br />Sorunun doğru cevabı A seçeneğinde verilmiştir.
 
     <hr />
 1. Kısa adı hareket yakalama olan ve bir oyuncunun hareketlerini dijital olarak kaydetme ve ardından bu hareketleri bilgisayar tarafından oluşturulan bir 3 boyutlu modele aktarma işlemine ne ad verilir?
@@ -1403,8 +1254,7 @@
     - D-) Animation
     - E-) Set Extension
 
-    > **Açıklama:** Genellikle “Mocap” olarak kısaltılan hareket yakalama, bir oyuncunun hareketlerini dijital olarak kaydetme ve ardından bu hareketleri bilgisayar tarafından oluşturulan bir 3 boyutlu modele aktarma işlemidir.
-    > Sorunun doğru yanıtı C seçeneğinde verilmiştir.
+    > **Açıklama:** Genellikle “Mocap” olarak kısaltılan hareket yakalama, bir oyuncunun hareketlerini dijital olarak kaydetme ve ardından bu hareketleri bilgisayar tarafından oluşturulan bir 3 boyutlu modele aktarma işlemidir.<br />Sorunun doğru yanıtı C seçeneğinde verilmiştir.
 
     <hr />
 1. Önemli noktalardan biri de, canlı aksiyon kamerasında kullanılan objektif parametreleri, enstantane, diyafram ve ISO değerlerinin \_\_\_\_\_\_\_\_\_\_\_\_\_\_ ile eşleşmesidir.<br />Cümledeki boşluğa aşağıdakilerden hangisinin gelmesi uygun olur?
@@ -1414,8 +1264,7 @@
     - **Cevap D-) CGI kamera**
     - E-) Alan derinliği
 
-    > **Açıklama:** Önemli noktalardan biri de, canlı aksiyon kamerasında kullanılan objektif parametreleri, enstantane, diyafram ve ISO değerlerinin, CGI kamera ile eşleşmesidir.
-    > Sorunun doğru yanıtı D seçeneğinde verilmiştir.
+    > **Açıklama:** Önemli noktalardan biri de, canlı aksiyon kamerasında kullanılan objektif parametreleri, enstantane, diyafram ve ISO değerlerinin, CGI kamera ile eşleşmesidir.<br />Sorunun doğru yanıtı D seçeneğinde verilmiştir.
 
     <hr />
 1. Renk tonlarına göre iki görüntüyü ayrı katmanlara ayırabilmeye veya birleştirmeye ne ad verilir?
@@ -1425,8 +1274,7 @@
     - D-) CGI
     - **Cevap E-) Chroma Key**
 
-    > **Açıklama:** Chroma Key: Bu terim, yeşil ekranla özdeş olarak kullanılır. Renk tonlarına göre iki görüntüyü ayrı katmanlara ayırabilmek, veya birleştirmek anlamına gelir.
-    > Sorunun doğru yanıtı E seçeneğinde verilmiştir
+    > **Açıklama:** Chroma Key: Bu terim, yeşil ekranla özdeş olarak kullanılır. Renk tonlarına göre iki görüntüyü ayrı katmanlara ayırabilmek, veya birleştirmek anlamına gelir.<br />Sorunun doğru yanıtı E seçeneğinde verilmiştir
 
     <hr />
 1. Yeşil ekrandan özneye geri yansıyan renkli ışığa ne ad verilir?
@@ -1436,8 +1284,7 @@
     - D-) Matte
     - **Cevap E-) Spill**
 
-    > **Açıklama:** Spill: Bu terim yeşil ekrandan öznenize geri yansıyan renkli ışığı ifade eder. Yeşil bir ekran parlak bir şekilde aydınlatıldığında, ışık bu rengi öznenize geri yansıtarak istenmeyen yeşil alanlara neden olabilir. Bu durum da anahtarlama aşamasında bir soruna neden olabilir.
-    > Sorunun doğru yanıtı E seçeneğinde verilmiştir.
+    > **Açıklama:** Spill: Bu terim yeşil ekrandan öznenize geri yansıyan renkli ışığı ifade eder. Yeşil bir ekran parlak bir şekilde aydınlatıldığında, ışık bu rengi öznenize geri yansıtarak istenmeyen yeşil alanlara neden olabilir. Bu durum da anahtarlama aşamasında bir soruna neden olabilir.<br />Sorunun doğru yanıtı E seçeneğinde verilmiştir.
 
     <hr />
 1. Live action esnasında orada olmayan ve sonradan herhangi bir nesnenin geometrisine uygun şekilde çekime eklenmek istenen ögelere ihtiyaç duyulduğunda uygulanan; örneğin bir şişenin üzerindeki etiket, hareket halindeki bir aracın üzerindeki boya, ya da bir hareket halinde bir kameranın aldığı görüntüdeki boş bir ekrana, sonradan yerleştirilecek bir görüntüye ihtiyaç duyulduğunda başvurulabilen sürece ne ad verilir?
@@ -1447,8 +1294,7 @@
     - **Cevap D-) Warp**
     - E-) Null Object
 
-    > **Açıklama:** Warp, live action esnasında orada olmayan ve sonradan herhangi bir nesnenin geometrisine uygun şekilde çekime eklenmek istenen ögelere ihtiyaç duyulduğunda uygulanır. Örneğin bir şişenin üzerindeki etiket, hareket halindeki bir aracın üzerindeki boya, ya da bir hareket halinde bir kameranın aldığı görüntüdeki boş bir ekrana, sonradan yerleştirilecek bir görüntüye ihtiyaç duyulduğunda başvurulabilir.
-    > Sorunun doğru cevabı D seçeneğinde verilmiştir.
+    > **Açıklama:** Warp, live action esnasında orada olmayan ve sonradan herhangi bir nesnenin geometrisine uygun şekilde çekime eklenmek istenen ögelere ihtiyaç duyulduğunda uygulanır. Örneğin bir şişenin üzerindeki etiket, hareket halindeki bir aracın üzerindeki boya, ya da bir hareket halinde bir kameranın aldığı görüntüdeki boş bir ekrana, sonradan yerleştirilecek bir görüntüye ihtiyaç duyulduğunda başvurulabilir.<br />Sorunun doğru cevabı D seçeneğinde verilmiştir.
 
     <hr />
 1. Gerçekçi bir görüntü oluşturabilmek için her bir karenin canlı aksiyondaki karakterler ya da nesneler üzerinden çizilmesine ne ad verilir?
@@ -1458,8 +1304,7 @@
     - D-) Renk doğrulama
     - E-) Mat oluşturma
 
-    > **Açıklama:** Rotoskop, gerçekçi bir görüntü oluşturabilmek için her bir karenin canlı aksiyondaki karakterler ya da nesneler üzerinden çizilmesi anlamına gelir.
-    > Sorunun doğru cevabı C seçeneğinde verilmiştir.
+    > **Açıklama:** Rotoskop, gerçekçi bir görüntü oluşturabilmek için her bir karenin canlı aksiyondaki karakterler ya da nesneler üzerinden çizilmesi anlamına gelir.<br />Sorunun doğru cevabı C seçeneğinde verilmiştir.
 
     <hr />
 1. Üç boyutlu sahnelerde yaratılmış olan tüm unsurların farklı özelliklerini ayrı sekans dosyaları şeklinde çıktı alabilmek anlamına gelen terime ne ad verilir?
@@ -1469,8 +1314,7 @@
     - D-) Plane
     - E-) Cinema 4D
 
-    > **Açıklama:** Render Pass, üç boyutlu sahnelerde yaratılmış olan tüm unsurların farklı özelliklerini ayrı sekans dosyaları şeklinde çıktı alabilmek anlamına gelen terimdir.
-    > Sorunun doğru yanıtı B seçeneğinde verilmiştir.
+    > **Açıklama:** Render Pass, üç boyutlu sahnelerde yaratılmış olan tüm unsurların farklı özelliklerini ayrı sekans dosyaları şeklinde çıktı alabilmek anlamına gelen terimdir.<br />Sorunun doğru yanıtı B seçeneğinde verilmiştir.
 
     <hr />
 1. Seçeneklerden hangisi görsel efekt uygulama süreçlerinden biri değildir?
@@ -1480,13 +1324,7 @@
     - D-) Dijital kurgu
     - **Cevap E-) Kurgu**
 
-    > **Açıklama:** Görsel efektler uygulama süreçleri açısından altı ana başlıkta incelenebilir. Bunlar;
-    > • Chroma Key (Mavi-Yeşil Perde)
-    > • Rotoskop (Rotoscoping)
-    > • Matchmove (Hareket Eşleştirme)
-    > • Digital Matte Painting (Dijital Mat Boyama)
-    > • Digital Compositing (Dijital Kurgu)
-    > • Animation (Üç Boyutlu Animasyon)
+    > **Açıklama:** Görsel efektler uygulama süreçleri açısından altı ana başlıkta incelenebilir. Bunlar;<br />• Chroma Key (Mavi-Yeşil Perde)<br />• Rotoskop (Rotoscoping)<br />• Matchmove (Hareket Eşleştirme)<br />• Digital Matte Painting (Dijital Mat Boyama)<br />• Digital Compositing (Dijital Kurgu)<br />• Animation (Üç Boyutlu Animasyon)
 
     <hr />
 1. Bir oyuncunun hareketlerini dijital olarak kaydetme ve ardından bu hareketleri bilgisayar tarafından oluşturulan bir 3 boyutlu modele aktarma işlemine ne denir?
@@ -1506,11 +1344,7 @@
     - D-) Yaratıcılığı desteklemek
     - **Cevap E-) Maliyetleri düşürmek**
 
-    > **Açıklama:** 3B Post prodüksiyon, görsel bir ürün elde etmek için görüntüleri yönetmeye, taşımaya ve manipüle etmeye adanmış bir iş akışını tanımlar ve aşağıdaki amaçlar için kullanılır.
-    > • Derinlik izlenimi yaratmak,
-    > • İzleyici beklentisini ve göz konforunu en üst düzeye çıkarmak,
-    > • Devamlılığı desteklemek
-    > • Yaratıcılığı desteklemek.
+    > **Açıklama:** 3B Post prodüksiyon, görsel bir ürün elde etmek için görüntüleri yönetmeye, taşımaya ve manipüle etmeye adanmış bir iş akışını tanımlar ve aşağıdaki amaçlar için kullanılır.<br />• Derinlik izlenimi yaratmak,<br />• İzleyici beklentisini ve göz konforunu en üst düzeye çıkarmak,<br />• Devamlılığı desteklemek<br />• Yaratıcılığı desteklemek.
 
     <hr />
 1. Seçeneklerden hangisi şeffaf yapılması ve çekimden çıkarılması istenen renkli arka planı ifade eder?

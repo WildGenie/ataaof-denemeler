@@ -209,8 +209,7 @@
     - D-) Tipografi
     - E-) Şekil
 
-    > **Açıklama:** Doğru yanıt diyagramdır
-    > Karmaşık verileri daha anlaşılır ve hızlı bir şekilde iletmek amacıyla verileri görsel olarak temsil etmek için kullanılan grafik araçlarına diyagram denir
+    > **Açıklama:** Doğru yanıt diyagramdır<br />Karmaşık verileri daha anlaşılır ve hızlı bir şekilde iletmek amacıyla verileri görsel olarak temsil etmek için kullanılan grafik araçlarına diyagram denir
 
     <hr />
 1. Johannes Kepler’in diyagramla gezegenlerin güneşe olan mesafeleriyle hızlarındaki değişimi matematiksel olarak açıkladığı kitabının adı nedir?
@@ -220,8 +219,7 @@
     - D-) L'harmonie Du Monde
     - E-) Neue Stereometrie Der Fasser
 
-    > **Açıklama:** Doğru yanıt Yeni Astronomi
-    > Johannes Kepler’in diyagramla gezegenlerin güneşe olan mesafeleriyle hızlarındaki değişimi matematiksel olarak açıkladığı kitabı Yeni Astronomi'dir
+    > **Açıklama:** Doğru yanıt Yeni Astronomi<br />Johannes Kepler’in diyagramla gezegenlerin güneşe olan mesafeleriyle hızlarındaki değişimi matematiksel olarak açıkladığı kitabı Yeni Astronomi'dir
 
     <hr />
 1. Optik gözlemlerine dayanarak ayın ilk haritasını çizen bilim insanı kimdir?
@@ -231,8 +229,7 @@
     - D-) Moses Harris
     - E-) William Playfair
 
-    > **Açıklama:** Yanıt Galileo Galilei'dir
-    > Optik gözlemlerine dayanarak ayın ilk haritasını çizen Galileo Galilei'dir
+    > **Açıklama:** Yanıt Galileo Galilei'dir<br />Optik gözlemlerine dayanarak ayın ilk haritasını çizen Galileo Galilei'dir
 
     <hr />
 1. Mısır’ın Üçüncü Hanedanlığı Dönemi ve ardından üretilen mezar resimleri ve yazıtlarda kullanılan kavramlardan türetilen eser hangisidir?
@@ -242,8 +239,7 @@
     - D-) Biyografi Tablosu
     - E-) Kimya Prensipleri
 
-    > **Açıklama:** Doğru yanıt Ölüler Kitabı
-    > Mısır’ın Üçüncü Hanedanlığı Dönemi ve ardından üretilen mezar resimleri ve yazıtlarda kullanılan kavramlardan türetilen eser Ölüler Kitabı'dır
+    > **Açıklama:** Doğru yanıt Ölüler Kitabı<br />Mısır’ın Üçüncü Hanedanlığı Dönemi ve ardından üretilen mezar resimleri ve yazıtlarda kullanılan kavramlardan türetilen eser Ölüler Kitabı'dır
 
     <hr />
 1. “Itinerarium” kavramı neyi ifade etmektedir?
@@ -253,8 +249,7 @@
     - D-) Güney Doğu Asya’da su kanallarını
     - E-) Kuzey Amerika’da hayvan çizimlerini
 
-    > **Açıklama:** Yanıt Antik Roma’da yol haritalarıdır
-    > Itinerarium Antik Roma’da yol haritalarını ifade eder
+    > **Açıklama:** Yanıt Antik Roma’da yol haritalarıdır<br />Itinerarium Antik Roma’da yol haritalarını ifade eder
 
     <hr />
 1. Mesafe, açı ve yükseklik ölçümleri gibi coğrafi özelliklerin doğru ölçümlerini almak için kullanılan ölçüm aletine verilen isim nedir?
@@ -264,8 +259,7 @@
     - D-) diyagram
     - E-) selenografi
 
-    > **Açıklama:** Yanıt nirengidir
-    > Mesafe, açı ve yükseklik ölçümleri gibi coğrafi özelliklerin doğru ölçümlerini almak için kullanılan ölçüm aletine nirengi denir
+    > **Açıklama:** Yanıt nirengidir<br />Mesafe, açı ve yükseklik ölçümleri gibi coğrafi özelliklerin doğru ölçümlerini almak için kullanılan ölçüm aletine nirengi denir
 
     <hr />
 1. İskoç yazar ve bilim insanı William Playfair kartezyen koordinatları ve analitik geometriyi hangi amaç ile kullanmıştır?
@@ -275,8 +269,7 @@
     - D-) akılcılık ve eşitlik gibi konuları görselleştirmek için kullanmıştır
     - **Cevap E-) istatiksel verileri sembolik grafiklere dönüştürmek için kullanmıştır**
 
-    > **Açıklama:** Yanıt "istatiksel verileri sembolik grafiklere dönüştürmek için kullanmıştır"'tır.
-    > İskoç yazar ve bilim insanı William Playfair kartezyen koordinatları ve analitik geometriyi, istatiksel verileri sembolik grafiklere dönüştürmek için kullanmıştır
+    > **Açıklama:** Yanıt "istatiksel verileri sembolik grafiklere dönüştürmek için kullanmıştır"'tır.<br />İskoç yazar ve bilim insanı William Playfair kartezyen koordinatları ve analitik geometriyi, istatiksel verileri sembolik grafiklere dönüştürmek için kullanmıştır
 
     <hr />
 1. Kimya Prensipleri kitabını yayımlayan bilim insanı kimdir?
@@ -286,8 +279,7 @@
     - D-) Chatles Joseph Minard
     - E-) Florence Nightingale
 
-    > **Açıklama:** Yanıt Dmitri Mendeleev
-    > Kimya Prensipleri kitabını yayımlayan bilim insanı Dmitri Mendeleev'dir
+    > **Açıklama:** Yanıt Dmitri Mendeleev<br />Kimya Prensipleri kitabını yayımlayan bilim insanı Dmitri Mendeleev'dir
 
     <hr />
 1. Sosyal dokunun bilgigrafi tasarımcısı olarak tanımlanan isim aşağıdakilerden hangisidir?
@@ -297,8 +289,7 @@
     - D-) Charles Joseph Minard
     - E-) Florence Nightingale
 
-    > **Açıklama:** Yanıt Charles Booth
-    > Sosyal dokunun bilgigrafi tasarımcısı olarak tanımlanan isim Charles Booth'tur
+    > **Açıklama:** Yanıt Charles Booth<br />Sosyal dokunun bilgigrafi tasarımcısı olarak tanımlanan isim Charles Booth'tur
 
     <hr />
 1. Döngüsel zaman modeli kullanarak tıbbi veriler üreten, “Doğru Ordusunda Ölüm Nedenleri Diyagramı” çalışmasını gerçekleştiren ünlü İngiliz Hemşire kimdir?
@@ -308,8 +299,7 @@
     - D-) Charles Joseph Minard
     - **Cevap E-) Florence Nightingale**
 
-    > **Açıklama:** Yanıt Florence Nightingale
-    > Döngüsel zaman modeli kullanarak tıbbi veriler üreten, “Doğru Ordusunda Ölüm Nedenleri Diyagramı” çalışmasını gerçekleştiren ünlü İngiliz Hemşire Florence Nightingale'dir.
+    > **Açıklama:** Yanıt Florence Nightingale<br />Döngüsel zaman modeli kullanarak tıbbi veriler üreten, “Doğru Ordusunda Ölüm Nedenleri Diyagramı” çalışmasını gerçekleştiren ünlü İngiliz Hemşire Florence Nightingale'dir.
 
     <hr />
 1. "Isaac Newton’un biliminden etkilenen İngiliz entomolog (böcek bilimci) ve oymacı, ışık renkleri üzerine çalışan Newton’un aksine sadece somut dünyadaki renklerin ilişkileri üzerine çalışmıştır. 1769 ve 1776 yılları arasında yayımladığı “Prizmatik Renk Çemberi” (Prismatic color wheel) isimli çalışmasında, renklerin ve birbirleriyle olan ilişkilerinin farklılıklarının ortaya çıkarmaya çalışmıştır" ifadesinde bahsedilen kişi aşağıdakilerden hangisidir?
@@ -329,8 +319,7 @@
     - D-) Charles Joseph Minard
     - E-) Otto Neurath
 
-    > **Açıklama:** ![](https://ets.anadolu.edu.tr/storage/nfs/questions/c902fe294886e555d051224ba55513c6.png)
-    > İngiliz teolog, din adamı ve doğal filozofluğunun yanında şema tasarımında da önemli bir isim olan Joseph Priestley (1733-1804), 1765 yılında MÖ 1200 ile 1800 yılları arasında yaşamış tarihin önemli figürlerini gösteren bir “Biyografi Tablosu” yayımlamıştır. Yaklaşık olarak 60x90 cm boyutundaki bir diyagram içeren ve iki bin isimden oluşan kitapçıkla, öğrencileri için tarih ve genel politikadaki derslerini somutlaştırmıştır. 1769 yılına gelindiğinde ise daha yeni versiyonu olarak “Yeni Bir Tarih Grafiği”ni tekrar yayımlanmıştır
+    > **Açıklama:** ![](https://ets.anadolu.edu.tr/storage/nfs/questions/c902fe294886e555d051224ba55513c6.png)<br />İngiliz teolog, din adamı ve doğal filozofluğunun yanında şema tasarımında da önemli bir isim olan Joseph Priestley (1733-1804), 1765 yılında MÖ 1200 ile 1800 yılları arasında yaşamış tarihin önemli figürlerini gösteren bir “Biyografi Tablosu” yayımlamıştır. Yaklaşık olarak 60x90 cm boyutundaki bir diyagram içeren ve iki bin isimden oluşan kitapçıkla, öğrencileri için tarih ve genel politikadaki derslerini somutlaştırmıştır. 1769 yılına gelindiğinde ise daha yeni versiyonu olarak “Yeni Bir Tarih Grafiği”ni tekrar yayımlanmıştır
 
     <hr />
 1. İngiltere’nin 18. Yüzyıl Boyunca Ticari Gelişimi, Gelir, Gider ve Borçlarını Renkli Gravür Baskılarla Sunan Ticari ve Siyasi Atlası tasarımıyla ünlenen ve kartezyen koordinatları ve analitik geometriyi istatistiksel verileri sembolik grafiklere dönüştürmek için ustalıkla kullanan yazar ve bilim adamı aşağıdakilerden hangisidir?
@@ -350,8 +339,7 @@
     - D-) Charles Joseph Minard - Londra Metrosu
     - E-) Harry Beck - Londra metrosu
 
-    > **Açıklama:** ![](https://ets.anadolu.edu.tr/storage/nfs/questions/1f672a19ea19fc059359154422080cb9.png)
-    > ![](https://ets.anadolu.edu.tr/storage/nfs/questions/1f672a19ea19fc059359154422080cb9.png)
+    > **Açıklama:** ![](https://ets.anadolu.edu.tr/storage/nfs/questions/1f672a19ea19fc059359154422080cb9.png)<br />![](https://ets.anadolu.edu.tr/storage/nfs/questions/1f672a19ea19fc059359154422080cb9.png)
 
     <hr />
 1. İngiliz Hükümeti’ni daha iyi sağlık sistemlerine olan ihtiyaca ikna eden ve tıpta bir dönüm noktası olarak kabul gören “Doğu Ordusunda Ölüm Nedenleri Diyagramı (Diagram of the Causes of Mortality in the Army in the East)” grafiğini kim tasarlamıştır?
@@ -401,8 +389,7 @@
     - **Cevap D-) Otto Neurath**
     - E-) Paule Scher
 
-    > **Açıklama:** Avusturyalı ekonomist, ekonomi tarihçisi, filozof ve politikacı Otto Neurath (1882-1945), bu alanlardaki çalışmalarının yanında bilgi görselleştirmede de oldukça önemli çalışmalar gerçekleştirmiş ve bilgigrafi tarihine öncü isimlerden biri olarak geçmiştir. Neurath, “Görsel eğitimin, entelektüel demokrasinin toplumlardaki ve insanlık içindeki genişlemesiyle ilişkili olduğunu” savunmuştur (Oven ve Požar, 2016). Neurath, Viyana merkezli konut, şehircilik, toplum ve ekonomi başlıklarıyla ilgili iki müzenin kurulmasını sağlamış ve bu müzeleri yönetmiştir. Müzelerin sergilerini oluşturmak için çalışırken, aralarında grafik tasarımcı Gerd Arntz’ın da bulunduğu ekibiyle birlikte önceleri “Viyana Yöntemi” olarak isimlendirdikleri görsel bir dil yaratmışlardır. Daha sonra ismine 42 “Uluslararası Tipografik Resim Eğitimi SistemiISOTYPE” dedikleri bu ikonik görsel dil, “bazı değerli bilgileri sunmak, çarpıcı bir şekilde bir ilişki veya gelişme göstermek, ilgiyi uyandırmak, dikkati yönlendirmek ve seyirciyi aktif katı
-    > Otto Neurath’ın Görsel Dil Mirası: ISOTYPE Avusturyalı ekonomist, ekonomi tarihçisi, filozof ve politikacı Otto Neurath (1882-1945), bu alanlardaki çalışmalarının yanında bilgi görselleştirmede de oldukça önemli çalışmalar gerçekleştirmiş ve bilgigrafi tarihine öncü isimlerden biri olarak geçmiştir. Uluslararası bir dil yaratma arzusuyla ortaya çıkan ISOTYPE hareketi, özellikle katmanlı ve istatistiki bilgiyi vermek için görsel temsiller kullanılmasını öngörmektedir.
+    > **Açıklama:** Avusturyalı ekonomist, ekonomi tarihçisi, filozof ve politikacı Otto Neurath (1882-1945), bu alanlardaki çalışmalarının yanında bilgi görselleştirmede de oldukça önemli çalışmalar gerçekleştirmiş ve bilgigrafi tarihine öncü isimlerden biri olarak geçmiştir. Neurath, “Görsel eğitimin, entelektüel demokrasinin toplumlardaki ve insanlık içindeki genişlemesiyle ilişkili olduğunu” savunmuştur (Oven ve Požar, 2016). Neurath, Viyana merkezli konut, şehircilik, toplum ve ekonomi başlıklarıyla ilgili iki müzenin kurulmasını sağlamış ve bu müzeleri yönetmiştir. Müzelerin sergilerini oluşturmak için çalışırken, aralarında grafik tasarımcı Gerd Arntz’ın da bulunduğu ekibiyle birlikte önceleri “Viyana Yöntemi” olarak isimlendirdikleri görsel bir dil yaratmışlardır. Daha sonra ismine 42 “Uluslararası Tipografik Resim Eğitimi SistemiISOTYPE” dedikleri bu ikonik görsel dil, “bazı değerli bilgileri sunmak, çarpıcı bir şekilde bir ilişki veya gelişme göstermek, ilgiyi uyandırmak, dikkati yönlendirmek ve seyirciyi aktif katı<br />Otto Neurath’ın Görsel Dil Mirası: ISOTYPE Avusturyalı ekonomist, ekonomi tarihçisi, filozof ve politikacı Otto Neurath (1882-1945), bu alanlardaki çalışmalarının yanında bilgi görselleştirmede de oldukça önemli çalışmalar gerçekleştirmiş ve bilgigrafi tarihine öncü isimlerden biri olarak geçmiştir. Uluslararası bir dil yaratma arzusuyla ortaya çıkan ISOTYPE hareketi, özellikle katmanlı ve istatistiki bilgiyi vermek için görsel temsiller kullanılmasını öngörmektedir.
 
     <hr />
 1. Facebook, Instagram ve Apple gibi teknoloji devleri için tasarım ve kullanıcı deneyimi çalışmaları yapmış, özellikle facebook için geliştirdiği “paper” uygulamasıyla ses getirmiş olan tasarımcı aşağıdakilerden hangisidir?
@@ -423,9 +410,7 @@
     - **Cevap D-) Kullanılan araç gereçler**
     - E-) Zihinsel işleme farklılıkları
 
-    > **Açıklama:** Bilgigrafiler, kapsamları ve işlevleri dikkate alınarak sınıflandırılmaktadır. Bunun yanı sıra, bilgigrafilerin çeşitli sunum biçimleri, okuyucuların algısal kapasitesi, okuma alışkanlıkları
-    > ve zihinsel işleme farklılıklarına bağlı olarak okuma deneyimlerini etkileyebilmektedir.
-    > Kullanılan araç gereçler
+    > **Açıklama:** Bilgigrafiler, kapsamları ve işlevleri dikkate alınarak sınıflandırılmaktadır. Bunun yanı sıra, bilgigrafilerin çeşitli sunum biçimleri, okuyucuların algısal kapasitesi, okuma alışkanlıkları<br />ve zihinsel işleme farklılıklarına bağlı olarak okuma deneyimlerini etkileyebilmektedir.<br />Kullanılan araç gereçler
 
     <hr />
 1. Aşağıdakilerden hangisi bilgi görselleştirme türlerinden **değildir?**
@@ -435,8 +420,7 @@
     - D-) İstatistiksel Bilgigrafileri
     - E-) Öğretici Bilgigrafileri
 
-    > **Açıklama:** Bunlar İstatistiksel Bilgigrafiler, Öğretici Bilgigrafiler, Zaman Çizelgesi Bilgigrafileri, Süreç Bilgigrafileri, Anatomi Bilgigrafileri, Akış Şeması Bilgigrafileri, Coğrafi Bilgi ve Konum Bilgigrafileri, Karşılaştırma bilgigrafileri ve Hiyerarşi Bilgigrafileridir.
-    > Tasarım Bilgigrafileri
+    > **Açıklama:** Bunlar İstatistiksel Bilgigrafiler, Öğretici Bilgigrafiler, Zaman Çizelgesi Bilgigrafileri, Süreç Bilgigrafileri, Anatomi Bilgigrafileri, Akış Şeması Bilgigrafileri, Coğrafi Bilgi ve Konum Bilgigrafileri, Karşılaştırma bilgigrafileri ve Hiyerarşi Bilgigrafileridir.<br />Tasarım Bilgigrafileri
 
     <hr />
 1. İzleyicinin baştan sona takip etmesi kolay olan sezgisel bir düzen ile her adımda veya aşamada neler olduğunu göstererek, paylaşılan konsepti daha anlaşılır hâle getiren bilgi görselleştirme türü aşağıdakilerden hangisidir?
@@ -446,8 +430,7 @@
     - D-) Zaman Çizelgesi Bilgigrafileri
     - **Cevap E-) Süreç Bilgigrafileri**
 
-    > **Açıklama:** Bu bilgigrafiler, izleyicinin baştan sona takip etmesi kolay olan sezgisel bir düzen ile her adımda veya aşamada neler olduğunu gösterir. İyi tasarlanmış bir süreç bilgigrafisi, paylaşılan konsepti daha anlaşılır hâle getirmektedir.
-    > Süreç Bilgigrafileri
+    > **Açıklama:** Bu bilgigrafiler, izleyicinin baştan sona takip etmesi kolay olan sezgisel bir düzen ile her adımda veya aşamada neler olduğunu gösterir. İyi tasarlanmış bir süreç bilgigrafisi, paylaşılan konsepti daha anlaşılır hâle getirmektedir.<br />Süreç Bilgigrafileri
 
     <hr />
 1. Edward Tufte, bilgigrafinin sunumunda 5 farklı anlatım türünden bahsetmektedir. Aşağıdakilerden hangisi bu türlerden **değildir?**
@@ -457,10 +440,7 @@
     - D-) Mikro-makro okuma
     - E-) Zaman ve mekân kullanarak anlatım
 
-    > **Açıklama:** Edward Tufte, bilgigrafinin sunumunda 5 farklı anlatımdan bahsetmektedir. Bu anlatımları,
-    > doku ve renk kullanarak anlatım, parçalara ayırarak anlatım, mikro-makro okuma, zaman ve mekân
-    > kullanarak anlatım ve küçük çoğaltmalar olarak başlıklandırmaktadır.
-    > Özet kullanarak anlatım
+    > **Açıklama:** Edward Tufte, bilgigrafinin sunumunda 5 farklı anlatımdan bahsetmektedir. Bu anlatımları,<br />doku ve renk kullanarak anlatım, parçalara ayırarak anlatım, mikro-makro okuma, zaman ve mekân<br />kullanarak anlatım ve küçük çoğaltmalar olarak başlıklandırmaktadır.<br />Özet kullanarak anlatım
 
     <hr />
 1. Bir işletmenin aylık satış raporu aşağıdaki bilgigrafinin anlatım türlerinden hangisidir?
@@ -470,8 +450,7 @@
     - D-) Parçalara ayırarak anlatım
     - E-) Doku ve renk kullanarak anlatım
 
-    > **Açıklama:** “Mikro/Makro Okuma” kavramını daha iyi anlayabilmek adına, **örnek olarak bir işletmenin aylık satış** **raporu** ele alınabilir.
-    > Mikro-makro okuma anlatım
+    > **Açıklama:** “Mikro/Makro Okuma” kavramını daha iyi anlayabilmek adına, **örnek olarak bir işletmenin aylık satış** **raporu** ele alınabilir.<br />Mikro-makro okuma anlatım
 
     <hr />
 1. Temelde altı bilgigrafi medya formatı bulunmaktadır. Aşağıdakilerden hangisi bu formatlardan **değildir?**
@@ -481,8 +460,7 @@
     - **Cevap D-) Çizilebilir**
     - E-) Video
 
-    > **Açıklama:** Bilgigrafi tasarımcıları için t**emelde altı farklı bilgigrafi medya formatı** bulunmaktadır. *Sayfanın devamını 71.sayfadan sonra okuyunuz...*
-    > Çizilebilir.
+    > **Açıklama:** Bilgigrafi tasarımcıları için t**emelde altı farklı bilgigrafi medya formatı** bulunmaktadır. *Sayfanın devamını 71.sayfadan sonra okuyunuz...*<br />Çizilebilir.
 
     <hr />
 1. Aşağıdakilerden hangisi Statik Bilgigrafileri temel özelliğinden **değildir?**
@@ -492,8 +470,7 @@
     - D-) Tasarımın temel ve yaygın biçemlerinden birini oluşturur.
     - E-) Çevrimiçi paylaşması en kolay formattır.
 
-    > **Açıklama:** Bu tür bilgigrafiler, sabit bir yapıya sahiptir...bilgigrafi tasarımın temel ve yaygın biçemlerinden birini oluşturur. bilgigrafiler ayrıca çevrimiçi paylaşması en kolay formattır. Sayfa 71 bkz.
-    > Daha fazla içerikle etkileşime girmelerini sağlar.
+    > **Açıklama:** Bu tür bilgigrafiler, sabit bir yapıya sahiptir...bilgigrafi tasarımın temel ve yaygın biçemlerinden birini oluşturur. bilgigrafiler ayrıca çevrimiçi paylaşması en kolay formattır. Sayfa 71 bkz.<br />Daha fazla içerikle etkileşime girmelerini sağlar.
 
     <hr />
 1. Verilerin ve bilgilerin geçişler ve animasyonlarla iletilmesini sağlayan, verilerin dinamik bir şekilde sunulmasına olanak tanıyan bilgigrafi medya formatı aşağıdakilerden hangisidir?
@@ -503,10 +480,7 @@
     - D-) Yakınlaştırılabilir
     - **Cevap E-) Hareketlendirilmiş**
 
-    > **Açıklama:** Verilerin ve bilgilerin hareketli grafikler, geçişler ve animasyonlarla iletilmesini sağlayan bilgigrafi
-    > türleridir. Bu tür bilgigrafiler, verilerin dinamik bir şekilde sunulmasına olanak tanır ve izleyicilerin
-    > bilgilere görsel olarak daha etkili bir şekilde odaklanmalarına yardımcı olur.
-    > Hareketlendirilmiş.
+    > **Açıklama:** Verilerin ve bilgilerin hareketli grafikler, geçişler ve animasyonlarla iletilmesini sağlayan bilgigrafi<br />türleridir. Bu tür bilgigrafiler, verilerin dinamik bir şekilde sunulmasına olanak tanır ve izleyicilerin<br />bilgilere görsel olarak daha etkili bir şekilde odaklanmalarına yardımcı olur.<br />Hareketlendirilmiş.
 
     <hr />
 1. Aşağıdakilerden hangisi Yakınlaştırılabilir Bilgigrafileri temel özelliğinden **değildir?**
@@ -516,8 +490,7 @@
     - D-) Bilgileri daha fazla detayla keşfetmelerine olanak tanır.
     - E-) Temel bir görüntü veya ana hikâye sunar.
 
-    > **Açıklama:** Yakınlaştırılabilir bilgigrafiler, kullanıcılara daha fazla ayrıntıya inme veya belirli bir konuya derinlemesine bakma imkânı sunan etkileşimli bilgigrafilerdir...kullanıcıların bilgileri daha fazla detayla keşfetmelerine olanak tanıyan bir yakınlaştırma işlevine sahip olmalarıdır...kullanıcıların daha fazla içerikle etkileşime girmelerini sağlar. Kendi hızlarında, kendi ilgi alanlarına göre bilgiye dalma fırsatı sunar. Sayfa 72 bkz.
-    > Genellikle daha büyük ve karmaşık veri setleri kullanılır.
+    > **Açıklama:** Yakınlaştırılabilir bilgigrafiler, kullanıcılara daha fazla ayrıntıya inme veya belirli bir konuya derinlemesine bakma imkânı sunan etkileşimli bilgigrafilerdir...kullanıcıların bilgileri daha fazla detayla keşfetmelerine olanak tanıyan bir yakınlaştırma işlevine sahip olmalarıdır...kullanıcıların daha fazla içerikle etkileşime girmelerini sağlar. Kendi hızlarında, kendi ilgi alanlarına göre bilgiye dalma fırsatı sunar. Sayfa 72 bkz.<br />Genellikle daha büyük ve karmaşık veri setleri kullanılır.
 
     <hr />
 1. Popülerliği ve izleyicileri bilgiyle daha uzun süre meşgul etme yeteneği nedeniyle yüksek olan bilgigrafi medya formatı aşağıdakilerden hangisidir?
@@ -527,8 +500,7 @@
     - D-) Statik
     - E-) Video
 
-    > **Açıklama:** Bu tür tasarımların popülerliği, izleyicileri bilgiyle daha uzun süre meşgul etme yeteneği nedeniyle yüksektir, çünkü statik bilgigrafilere göre daha fazla etkileşime olanak tanırlar.
-    > Etkileşimli
+    > **Açıklama:** Bu tür tasarımların popülerliği, izleyicileri bilgiyle daha uzun süre meşgul etme yeteneği nedeniyle yüksektir, çünkü statik bilgigrafilere göre daha fazla etkileşime olanak tanırlar.<br />Etkileşimli
 
     <hr />
 1. Bilgigrafiler temel olarak, aşağıdaki faktörlerden hangisine/hangilerine bağlı olarak okuma deneyimlerinde etki yaratmaktadır?<br />I) Kapsamları ve işlevleri dikkate alınarak<br />II) Farklı sunum biçimlerine bağlı olarak<br />III) Okuyucuların algısal kapasiteleri dikkate alınarak<br />IV) Okuma alışkanlıkları ve zihinsel işleme farklılıklarına bağlı olarak
@@ -538,11 +510,7 @@
     - D-) II-III-IV
     - E-) I-II-III
 
-    > **Açıklama:** Bilgigrafiler, veri görselleştirme araçları olarak çeşitli kapsamların görsel olarak ifade edilmesi için farklı biçimlerde ve sunum ortamlarında kullanılabilmektedirler. Temel olarak, bilgigrafiler, kapsamları ve işlevleri dikkate alınarak sınıflandırılmaktadır.
-    > Bunun yanı sıra, bilgigrafilerin çeşitli sunum biçimleri, okuyucuların algısal kapasitesi, okuma alışkanlıkları ve zihinsel işleme farklılıklarına bağlı olarak
-    > okuma deneyimlerini etkileyebilmektedir. Teknolojik gelişmeler ve kullanım alışkanlıklarındaki değişimler, bilgigrafilerin sunulduğu ortamın, işlevi ve
-    > algılanabilirliği açısından önemli bir faktördür.
-    > I-II-III-IV
+    > **Açıklama:** Bilgigrafiler, veri görselleştirme araçları olarak çeşitli kapsamların görsel olarak ifade edilmesi için farklı biçimlerde ve sunum ortamlarında kullanılabilmektedirler. Temel olarak, bilgigrafiler, kapsamları ve işlevleri dikkate alınarak sınıflandırılmaktadır.<br />Bunun yanı sıra, bilgigrafilerin çeşitli sunum biçimleri, okuyucuların algısal kapasitesi, okuma alışkanlıkları ve zihinsel işleme farklılıklarına bağlı olarak<br />okuma deneyimlerini etkileyebilmektedir. Teknolojik gelişmeler ve kullanım alışkanlıklarındaki değişimler, bilgigrafilerin sunulduğu ortamın, işlevi ve<br />algılanabilirliği açısından önemli bir faktördür.<br />I-II-III-IV
 
     <hr />
 1. Verilerin analiz edilmesi sırasında ortaya çıkan yapıların anlaşılmasına ve daha kolay iletilmesine yardımcı olan yapı aşağıdakilerden hangisi ile ifade edilebilir?
@@ -552,9 +520,7 @@
     - D-) Hikayesel anlatımlar
     - E-) İstatistik bilgiler
 
-    > **Açıklama:** İstatistik, büyük miktarda sayısal verinin incelenmesi sonucu elde edilen bir olgu veya veri parçası olarak tanımlanmaktadır. Bu verilerin karmaşık
-    > bir yapıya sahip olması, görselleştirilmesi için istatistiksel bilgigrafi kullanımını gerektirebilmektedir.
-    > İstatistiksel bir bilgigrafi, verilere odaklanılmasına olanak sağlayarak verilerin arkasındaki hikayenin anlatılmasına yardımcı olabilir. Görsel düzenlemeler ise verilerin analiz edilmesi sırasında ortaya çıkan yapıların anlaşılmasına ve daha kolay iletilmesine yardımcı olmaktadır
+    > **Açıklama:** İstatistik, büyük miktarda sayısal verinin incelenmesi sonucu elde edilen bir olgu veya veri parçası olarak tanımlanmaktadır. Bu verilerin karmaşık<br />bir yapıya sahip olması, görselleştirilmesi için istatistiksel bilgigrafi kullanımını gerektirebilmektedir.<br />İstatistiksel bir bilgigrafi, verilere odaklanılmasına olanak sağlayarak verilerin arkasındaki hikayenin anlatılmasına yardımcı olabilir. Görsel düzenlemeler ise verilerin analiz edilmesi sırasında ortaya çıkan yapıların anlaşılmasına ve daha kolay iletilmesine yardımcı olmaktadır
 
     <hr />
 1. İstatistik, büyük miktarda sayısal verinin incelenmesi sonucu elde edilen bir olgu veya veri parçası olarak tanımlanmaktadır. Bu verilerin karmaşık bir yapıya sahip olması, görselleştirilmesi için .............. .................. kullanımını gerektirebilmektedir.<br />Boş bırakılan yere aşağıdakilerden hangisi gelmelidir?
@@ -564,9 +530,7 @@
     - D-) Süreç Bilgigrafiler
     - E-) Akış Şeması Bilgigrafiler
 
-    > **Açıklama:** Kapsam ve işlevine göre sınıflandırıldığında, bilgigrafiler 9 gruba ayrılabilmektedir. Bunlar İstatistiksel Bilgigrafiler, Öğretici Bilgigrafiler, Zaman Çizelgesi Bilgigrafileri, Süreç Bilgigrafileri, Anatomi Bilgigrafileri, Akış Şeması Bilgigrafileri, Coğrafi Bilgi ve Konum Bilgigrafileri, Karşılaştırma bilgigrafileri ve Hiyerarşi Bilgigrafileridir.
-    > İstatistik, büyük miktarda sayısal verinin incelenmesi sonucu elde edilen bir olgu veya veri parçası olarak tanımlanmaktadır. Bu verilerin karmaşık bir yapıya sahip olması, görselleştirilmesi için istatistiksel bilgigrafi kullanımını gerektirebilmektedir.
-    > İstatistiksel bir bilgigrafi, verilere odaklanılmasına olanak sağlayarak verilerin arkasındaki hikayenin anlatılmasına yardımcı olabilir. Görsel düzenlemeler ise verilerin analiz edilmesi sırasında ortaya çıkan yapıların anlaşılmasına ve daha kolay iletilmesine yardımcı olmaktadır.
+    > **Açıklama:** Kapsam ve işlevine göre sınıflandırıldığında, bilgigrafiler 9 gruba ayrılabilmektedir. Bunlar İstatistiksel Bilgigrafiler, Öğretici Bilgigrafiler, Zaman Çizelgesi Bilgigrafileri, Süreç Bilgigrafileri, Anatomi Bilgigrafileri, Akış Şeması Bilgigrafileri, Coğrafi Bilgi ve Konum Bilgigrafileri, Karşılaştırma bilgigrafileri ve Hiyerarşi Bilgigrafileridir.<br />İstatistik, büyük miktarda sayısal verinin incelenmesi sonucu elde edilen bir olgu veya veri parçası olarak tanımlanmaktadır. Bu verilerin karmaşık bir yapıya sahip olması, görselleştirilmesi için istatistiksel bilgigrafi kullanımını gerektirebilmektedir.<br />İstatistiksel bir bilgigrafi, verilere odaklanılmasına olanak sağlayarak verilerin arkasındaki hikayenin anlatılmasına yardımcı olabilir. Görsel düzenlemeler ise verilerin analiz edilmesi sırasında ortaya çıkan yapıların anlaşılmasına ve daha kolay iletilmesine yardımcı olmaktadır.
 
     <hr />
 1. Kapsam ve işlevine göre sınıflandırıldığında, görseller yerine esas olarak metinlerden veya kelimelerden yararlanılıyor ve özellikle SWOT analizi gibi konularda, konuya hızlı bir şekilde aşinalık kazanmak için kullanılabiliyorsa hangi bilgigrafiden bahsediliyordur?
@@ -576,9 +540,7 @@
     - D-) Anatomi bilgigrafi
     - E-) Akış şeması bilgigrafi
 
-    > **Açıklama:** Bilgilendirici bir bilgigrafi, görseller yerine esas olarak metinlerden veya kelimelerden oluşur ve özellikle SWOT analizi gibi konularda, konuya hızlı bir
-    > şekilde aşinalık kazanmak için kullanılabilir. Bu kategori, geniş bir yelpazede özetleyici metin tabanlı bilgi grafikleri, son derece görsel bilgi parçaları ve bunların arasındaki her şeyi kapsar. Kavramsal konuları basitleştirmek için sıklıkla kullanılırlar.
-    > Öğretici bilgigrafi
+    > **Açıklama:** Bilgilendirici bir bilgigrafi, görseller yerine esas olarak metinlerden veya kelimelerden oluşur ve özellikle SWOT analizi gibi konularda, konuya hızlı bir<br />şekilde aşinalık kazanmak için kullanılabilir. Bu kategori, geniş bir yelpazede özetleyici metin tabanlı bilgi grafikleri, son derece görsel bilgi parçaları ve bunların arasındaki her şeyi kapsar. Kavramsal konuları basitleştirmek için sıklıkla kullanılırlar.<br />Öğretici bilgigrafi
 
     <hr />
 1. Bir sürecin ne kadar devam edeceği konusunda izleyicilerin beklentilerini ortaya koymaya yardımcı olabiliyor, bir şirketin iş geçmişini özetlemek veya bir hikayeyi kronolojik sırayla anlatmak için kullanılıyorsa hangi tür bilgigrafisinden bahsediliyordur?
@@ -588,11 +550,7 @@
     - D-) Süreç Bilgigrafileri
     - E-) Bilgi ve konum bilgigrafileri
 
-    > **Açıklama:** Bir zaman çizelgesi, bir konunun kronolojik olay sırasını görsel olarak sunmak için kullanılan etkili bir bilgigrafi türüdür. Bu tür bir bilgigrafi, okuyucuların bir konunun tarihini kolayca takipnetmelerine olanak tanır. Zaman çizelgesi bilgigrafisi, birçok alanda kullanılmaktadır ve finansal raporlarda, stratejik raporlarda ve sunumlarda
-    > en yaygın formatlardan biridir. Ayrıca, bir fikrin, projenin veya hikayenin nasıl ortaya çıktığını göstermek için de kullanılabilir. Zaman çizelgesi bilgigrafisi, bir etkinlik için planlama yapmak için kullanılabilir. Etkinlik planlamacıları, bir etkinlik
-    > için bir zaman çizelgesi hazırlayarak, etkinlik takvimini görselleştirebilirler. Bu, katılımcıların etkinlik hakkında daha iyi bir anlayışa sahip olmalarına ve etkinlikle ilgili tarihsel bilgileri daha kolay hatırlamalarına yardımcı olabilir.
-    > Zaman çizelgesi bilgigrafisi, bir dizi olayı vurgulamak için de tercih edilebilir. Örneğin, bir spor takımının geçmişini göstermek için kullanılabilir. Bu, takım
-    > Zaman çizelgesi bilgigrafileri
+    > **Açıklama:** Bir zaman çizelgesi, bir konunun kronolojik olay sırasını görsel olarak sunmak için kullanılan etkili bir bilgigrafi türüdür. Bu tür bir bilgigrafi, okuyucuların bir konunun tarihini kolayca takipnetmelerine olanak tanır. Zaman çizelgesi bilgigrafisi, birçok alanda kullanılmaktadır ve finansal raporlarda, stratejik raporlarda ve sunumlarda<br />en yaygın formatlardan biridir. Ayrıca, bir fikrin, projenin veya hikayenin nasıl ortaya çıktığını göstermek için de kullanılabilir. Zaman çizelgesi bilgigrafisi, bir etkinlik için planlama yapmak için kullanılabilir. Etkinlik planlamacıları, bir etkinlik<br />için bir zaman çizelgesi hazırlayarak, etkinlik takvimini görselleştirebilirler. Bu, katılımcıların etkinlik hakkında daha iyi bir anlayışa sahip olmalarına ve etkinlikle ilgili tarihsel bilgileri daha kolay hatırlamalarına yardımcı olabilir.<br />Zaman çizelgesi bilgigrafisi, bir dizi olayı vurgulamak için de tercih edilebilir. Örneğin, bir spor takımının geçmişini göstermek için kullanılabilir. Bu, takım<br />Zaman çizelgesi bilgigrafileri
 
     <hr />
 1. Genellikle piramit veya akış şeması biçiminde düzenlenen ve önemli bilgilerin hızlı bir şekilde fark edilerek anlaşılmasını sağlayan bilgigrafi aşağıdakilerden hangi tür grafikle açıklanmaktadır?
@@ -602,11 +560,7 @@
     - D-) Akış şeması bilgigrafileri
     - E-) Anatomi bilgigrafileri
 
-    > **Açıklama:** Bir konuyu öncelik sırasına göre sunan bilgigrafiler, hiyerarşi bilgigrafileri kategorisine dâhil edilebilmektedir. Bu tür grafikler genellikle piramit veya akış şeması biçiminde düzenlenir ve önemli bilgilerin hızlı bir şekilde fark edilerek anlaşılmasını sağlarlar.
-    > Maslow’un İhtiyaçlar Hiyerarşisi, hiyerarşik bilgigrafi türüne örnek olarak verilebilir. Bu piramitte, insanların en temel ihtiyaçları piramidin alt kısmında bulunurken, en üstteki bölümde ise en üst düzey ihtiyaçlar yer almaktadır. Bu görsel, insan ihtiyaçlarının öncelik sırasını ve bu ihtiyaçların birbirleriyle nasıl ilişkilendiğini göstermektedir.
-    > Hiyerarşi bilgigrafileri, bilgileri önceden tanımlanmış seviyelerde düzenleyerek kullanılır. Bu bilgigrafi türünü kullanarak bilginin farklı seviyelerde nasıl düzenlendiği ve bu seviyelerin nasıl ilişkili olduğu açıklanabilir. Örneğin bir şirketin organizasyon yapısını göstermek için bu tür bilgigrafiler kullanılabilir. Bu
-    > görselleştirmede, CEO en üst düzeyde yer alırken, alt sev
-    > Hiyerarşi Bilgigrafileri
+    > **Açıklama:** Bir konuyu öncelik sırasına göre sunan bilgigrafiler, hiyerarşi bilgigrafileri kategorisine dâhil edilebilmektedir. Bu tür grafikler genellikle piramit veya akış şeması biçiminde düzenlenir ve önemli bilgilerin hızlı bir şekilde fark edilerek anlaşılmasını sağlarlar.<br />Maslow’un İhtiyaçlar Hiyerarşisi, hiyerarşik bilgigrafi türüne örnek olarak verilebilir. Bu piramitte, insanların en temel ihtiyaçları piramidin alt kısmında bulunurken, en üstteki bölümde ise en üst düzey ihtiyaçlar yer almaktadır. Bu görsel, insan ihtiyaçlarının öncelik sırasını ve bu ihtiyaçların birbirleriyle nasıl ilişkilendiğini göstermektedir.<br />Hiyerarşi bilgigrafileri, bilgileri önceden tanımlanmış seviyelerde düzenleyerek kullanılır. Bu bilgigrafi türünü kullanarak bilginin farklı seviyelerde nasıl düzenlendiği ve bu seviyelerin nasıl ilişkili olduğu açıklanabilir. Örneğin bir şirketin organizasyon yapısını göstermek için bu tür bilgigrafiler kullanılabilir. Bu<br />görselleştirmede, CEO en üst düzeyde yer alırken, alt sev<br />Hiyerarşi Bilgigrafileri
 
     <hr />
 1. ........... tasarım, izleyicilerin bilgiyi anlamalarını ve etkileşimde bulunmalarını sağlamak için kullanılan bir disiplindir. Bilginin ...........olarak tasvir edilmesi ve yaratıcı, etkileyici vizyonların ortaya çıkması, görüntü, kelime, sayı ve sanatın kesiştiği bir alanda çalışmayı gerektirir.<br />Boş bırakılan yere hangisi gelmelidir?
@@ -616,8 +570,7 @@
     - D-) Dijital
     - E-) Teknolojik
 
-    > **Açıklama:** Görsel tasarım, bilgiyi görsel bir dille iletmek ve izleyicilerin bilgiyi anlamalarını ve etkileşimde bulunmalarını sağlamak için kullanılan bir disiplindir. Bilginin görsel olarak tasvir edilmesi ve yaratıcı, etkileyici vizyonların ortaya çıkması, görüntü, kelime, sayı ve sanatın kesiştiği bir alanda çalışmayı gerektirir. Bu süreçte, yazı ve tipografi, çizgi, renk gibi görselleştirme elemanları ile büyük veri kümelerinin yönetimi ve istatistiksel analiz önemli araçlardır. Bu şekilde, görsel tasarımın kullanıldığı çeşitli alanlarda, bilginin etkili bir şekilde aktarılması ve hedef kitleyle etkileşim kurulması sağlanabilir.
-    > Veri görselleştirme ve bilgigrafi alanında tanınmış bir Amerikalı istatistikçi, bilgisayar bilimci, yazar ve profesörü olan Edward Tufte, bilgigrafinin sunumunda 5 farklı anlatımdan bahsetmektedir. Bu anlatımları, doku ve renk kullanarak anlatım, parçalara ayırarak anlatım, mikro-makro okuma, zaman ve mekân kullanarak anlatım ve küçük çoğaltmalar olarak başlıklandırmaktadır
+    > **Açıklama:** Görsel tasarım, bilgiyi görsel bir dille iletmek ve izleyicilerin bilgiyi anlamalarını ve etkileşimde bulunmalarını sağlamak için kullanılan bir disiplindir. Bilginin görsel olarak tasvir edilmesi ve yaratıcı, etkileyici vizyonların ortaya çıkması, görüntü, kelime, sayı ve sanatın kesiştiği bir alanda çalışmayı gerektirir. Bu süreçte, yazı ve tipografi, çizgi, renk gibi görselleştirme elemanları ile büyük veri kümelerinin yönetimi ve istatistiksel analiz önemli araçlardır. Bu şekilde, görsel tasarımın kullanıldığı çeşitli alanlarda, bilginin etkili bir şekilde aktarılması ve hedef kitleyle etkileşim kurulması sağlanabilir.<br />Veri görselleştirme ve bilgigrafi alanında tanınmış bir Amerikalı istatistikçi, bilgisayar bilimci, yazar ve profesörü olan Edward Tufte, bilgigrafinin sunumunda 5 farklı anlatımdan bahsetmektedir. Bu anlatımları, doku ve renk kullanarak anlatım, parçalara ayırarak anlatım, mikro-makro okuma, zaman ve mekân kullanarak anlatım ve küçük çoğaltmalar olarak başlıklandırmaktadır
 
     <hr />
 1. Aşağıdakilerden hangisi veri görselleştirme ve bilgigrafi alanındaki 5 farklı anlatımdan birisi değildir?
@@ -627,8 +580,7 @@
     - D-) Mikro-makro okuma
     - E-) Zaman ve mekân kullanarak anlatım
 
-    > **Açıklama:** Veri görselleştirme ve bilgigrafi alanında tanınmış bir Amerikalı istatistikçi, bilgisayar bilimci, yazar ve profesörü olan Edward Tufte, bilgigrafinin sunumunda 5 farklı anlatımdan bahsetmektedir. Bu anlatımları, doku ve renk kullanarak anlatım, parçalara ayırarak anlatım, mikro-makro okuma, zaman ve mekân kullanarak anlatım ve **küçük çoğaltmalar olarak** başlıklandırmaktadır
-    > Büyük çoğaltmalar olarak anlatım
+    > **Açıklama:** Veri görselleştirme ve bilgigrafi alanında tanınmış bir Amerikalı istatistikçi, bilgisayar bilimci, yazar ve profesörü olan Edward Tufte, bilgigrafinin sunumunda 5 farklı anlatımdan bahsetmektedir. Bu anlatımları, doku ve renk kullanarak anlatım, parçalara ayırarak anlatım, mikro-makro okuma, zaman ve mekân kullanarak anlatım ve **küçük çoğaltmalar olarak** başlıklandırmaktadır<br />Büyük çoğaltmalar olarak anlatım
 
     <hr />
 1. Aylık satış raporu satış verileri olan bir işletmenin Mikro okuma seviyesi aşağıdakilerden hangisini gerektirmez?
@@ -638,8 +590,7 @@
     - D-) Belirli ürünlerin günlük performansını değerlendirmeyi içerir
     - E-) Özel müşteri segmentlerinin satın alma davranışlarını analiz etmeyi gerektirir
 
-    > **Açıklama:** “Mikro/Makro Okuma” kavramını daha iyi anlayabilmek adına, örnek olarak bir işletmenin aylık satış raporu ele alınabilir. Bu rapor, işletmenin satış verilerini içermekte olup her iki okuma seviyesini de açıklamak için kullanılabilir. Mikro okuma seviyesi, raporun detaylarına odaklanmayı gerektirir. Bu, her günün satış rakamlarını incelemek, belirli ürünlerin günlük performansını değerlendirmek veya özel müşteri segmentlerinin satın alma davranışlarını analiz etmek gibi detaylı incelemeleri içerir. Örneğin, hangi ürünün hangi günlerde daha fazla talep gördüğünü veya belirli bir müşteri grubunun en yüksek satın alma potansiyeline sahip olduğunu belirlemek için mikro okuma seviyesi kullanılabilir. Bu tür analizler, işletmenin günlük operasyonlarını iyileştirmek ve **kısa vadeli stratejik kararlar almak için kritik öneme sahiptir.** Makro okuma seviyesi ise, raporun bütününü ve genel yapısını anlamayı içerir. Bu, aylık veya yıllık toplam satışları incelemeyi içerebilir. Bu düzeyde, işletmenin gene
-    > Uzun vadeli stratejik kararlar almayı gerektirir
+    > **Açıklama:** “Mikro/Makro Okuma” kavramını daha iyi anlayabilmek adına, örnek olarak bir işletmenin aylık satış raporu ele alınabilir. Bu rapor, işletmenin satış verilerini içermekte olup her iki okuma seviyesini de açıklamak için kullanılabilir. Mikro okuma seviyesi, raporun detaylarına odaklanmayı gerektirir. Bu, her günün satış rakamlarını incelemek, belirli ürünlerin günlük performansını değerlendirmek veya özel müşteri segmentlerinin satın alma davranışlarını analiz etmek gibi detaylı incelemeleri içerir. Örneğin, hangi ürünün hangi günlerde daha fazla talep gördüğünü veya belirli bir müşteri grubunun en yüksek satın alma potansiyeline sahip olduğunu belirlemek için mikro okuma seviyesi kullanılabilir. Bu tür analizler, işletmenin günlük operasyonlarını iyileştirmek ve **kısa vadeli stratejik kararlar almak için kritik öneme sahiptir.** Makro okuma seviyesi ise, raporun bütününü ve genel yapısını anlamayı içerir. Bu, aylık veya yıllık toplam satışları incelemeyi içerebilir. Bu düzeyde, işletmenin gene<br />Uzun vadeli stratejik kararlar almayı gerektirir
 
     <hr />
 1. Bir finans bilgigrafileri, hisse senedi fiyatlarının zaman içindeki değişimini, süreci bir çizgi grafiği üzerinde animasyonla gösteriyorsa ve bu izleyicilere fiyat hareketlerini daha iyi anlamalarına yardımcı olabiliyorsa internet üzerinden hikaye anlatımı veya veri görselleştirmede aşağıdakilerden hangisinden yararlanmış olabilir?
@@ -649,11 +600,7 @@
     - D-) Etkileşimli bilgigrafilerinden
     - E-) Tıklanabilir bilgigrafilerinden
 
-    > **Açıklama:** Verilerin ve bilgilerin hareketli grafikler, geçişler ve animasyonlarla iletilmesini sağlayan bilgigrafi türleri verilerin dinamik bir şekilde sunulmasına olanak tanır ve izleyicilerin bilgilere görsel olarak daha etkili bir şekilde odaklanmalarına yardımcı olur.
-    > Hareketlendirilmiş bilgigrafiler, bir hikâye anlatma veya belirli bir süreci görselleştirme amacı taşıyabilir. Örneğin, bir finans bilgigrafileri, hisse
-    > senedi fiyatlarının zaman içindeki değişimini bir çizgi grafiği üzerinde animasyonla gösterebilir. Bu, izleyicilere fiyat hareketlerini daha iyi anlamalarına yardımcı olabilir.
-    > Bu tür bilgigrafiler, bilgiyi daha çarpıcı ve etkileyici bir şekilde sunmanın yanı sıra izleyicilerin ilgisini daha iyi çekme potansiyeline sahiptir. Ancak bu tür bilgigrafilerin tasarımı ve oluşturulması daha fazla zaman, beceri ve teknik bilgi gerektirebilir. Ayrıca, animasyonlu bilgigrafilerin aşırı kullanılması, izleyicilerin bilgiye odaklanmasını zorlaştırabilir, bu nedenle dengeli bir şekilde kulla
-    > Hareketlendirilmiş bilgigrafilerinden
+    > **Açıklama:** Verilerin ve bilgilerin hareketli grafikler, geçişler ve animasyonlarla iletilmesini sağlayan bilgigrafi türleri verilerin dinamik bir şekilde sunulmasına olanak tanır ve izleyicilerin bilgilere görsel olarak daha etkili bir şekilde odaklanmalarına yardımcı olur.<br />Hareketlendirilmiş bilgigrafiler, bir hikâye anlatma veya belirli bir süreci görselleştirme amacı taşıyabilir. Örneğin, bir finans bilgigrafileri, hisse<br />senedi fiyatlarının zaman içindeki değişimini bir çizgi grafiği üzerinde animasyonla gösterebilir. Bu, izleyicilere fiyat hareketlerini daha iyi anlamalarına yardımcı olabilir.<br />Bu tür bilgigrafiler, bilgiyi daha çarpıcı ve etkileyici bir şekilde sunmanın yanı sıra izleyicilerin ilgisini daha iyi çekme potansiyeline sahiptir. Ancak bu tür bilgigrafilerin tasarımı ve oluşturulması daha fazla zaman, beceri ve teknik bilgi gerektirebilir. Ayrıca, animasyonlu bilgigrafilerin aşırı kullanılması, izleyicilerin bilgiye odaklanmasını zorlaştırabilir, bu nedenle dengeli bir şekilde kulla<br />Hareketlendirilmiş bilgigrafilerinden
 
     <hr />
 ## Unite 4
@@ -664,9 +611,7 @@
     - D-) Gerçek dünya koşullarından yola çıkarak teorik modeller kavramsallaştırmak
     - E-) Bilginin kullanım amacına ve bağlamına göre düzenlenmesi
 
-    > **Açıklama:** Giriş
-    > Dünyayı soyut akıl yürütmelerle anlamak.
-    > Fenomenolojist bakış açısına göre, dünyayı soyut akıl yürütmeler yolu ile değil, dünya ile fiili münasebetlerimiz üzerinden anlarız. Bilgi ve anlayış, eylem ve uygulama üzerinden şekillenir. Teorik modeller, gerçek dünya koşullarından yola çıkarak kavramsallaştırılırlar...
+    > **Açıklama:** Giriş<br />Dünyayı soyut akıl yürütmelerle anlamak.<br />Fenomenolojist bakış açısına göre, dünyayı soyut akıl yürütmeler yolu ile değil, dünya ile fiili münasebetlerimiz üzerinden anlarız. Bilgi ve anlayış, eylem ve uygulama üzerinden şekillenir. Teorik modeller, gerçek dünya koşullarından yola çıkarak kavramsallaştırılırlar...
 
     <hr />
 1. Aşağıdakilerden hangisi bilgi mimarisi tanımı kapsamında değildir?
@@ -676,8 +621,7 @@
     - **Cevap D-) Doğal bir sıra ile birbirlerini izleyen, birbirine göre alt ve üst olarak değerlendirilebilecek ölçüm kademeleri**
     - E-) Dijital ortam üzerinde tasarım ve mimarlık prensiplerini uygulamaya odaklanmış gelişmekte olan bir disiplin ve uygulama alanı
 
-    > **Açıklama:** BİLGİ MİMARİSİ
-    > Doğal bir sıra ile birbirlerini izleyen, birbirine göre alt ve üst olarak değerlendirilebilecek ölçüm kademeleri
+    > **Açıklama:** BİLGİ MİMARİSİ<br />Doğal bir sıra ile birbirlerini izleyen, birbirine göre alt ve üst olarak değerlendirilebilecek ölçüm kademeleri
 
     <hr />
 1. "Bilgi mimarisi dendiğinde, başta web siteleri olmak üzere, çeşitli medya uzamlarında sunulan bilginin............................"<br />Yukarıdaki cümleyi aşağıdakilerden hangisi tamamlar?
@@ -687,8 +631,7 @@
     - D-) ...fiziksel sistemlerde; bilgiyi organize etmek, etiketlemek ve içerisinde dolaşmak anlaşılır
     - E-) ... bir etiket ya da tanımlama aracılığı ile pek çok bilgi içeren bir belgenin tüm kapsamını işaret etmesinin mümkün olduğu anlaşılır
 
-    > **Açıklama:** BİLGİ MİMARİSİ
-    > Bilgi mimarisi dendiğinde, başta web siteleri olmak üzere, çeşitli medya uzamlarında sunulan bilginin organizasyonu, etiketlenmesi, dolaşımı ve aranması ile ilgili, çıkış noktasında kütüphane ve enformasyon bilimi alanı bulunan bir disiplin anlaşılır
+    > **Açıklama:** BİLGİ MİMARİSİ<br />Bilgi mimarisi dendiğinde, başta web siteleri olmak üzere, çeşitli medya uzamlarında sunulan bilginin organizasyonu, etiketlenmesi, dolaşımı ve aranması ile ilgili, çıkış noktasında kütüphane ve enformasyon bilimi alanı bulunan bir disiplin anlaşılır
 
     <hr />
 1. 1\. Kırmızı, beyaz, roze<br />2\. Bordeaux, Burgundy, Champagne, Alsace<br />3\. Köpüklü, düz<br />4\. Öğle, akşam yemeği<br />Yukarıda verilen şarap bilgi listesi için oluşturulan kavramsal içerik modeli aşağıdakilerden hangi taksonomileri kullanır?
@@ -698,8 +641,7 @@
     - **Cevap D-) renk-üretildikleri bölge-yapım şekilleri-yemek**
     - E-) üretildikleri bölge-yapım şekilleri-yaş-işlev
 
-    > **Açıklama:** Yapılandırma, Organize Etme ve Etiketleme
-    > renk-üretildikleri bölge-yapım şekilleri-yemek
+    > **Açıklama:** Yapılandırma, Organize Etme ve Etiketleme<br />renk-üretildikleri bölge-yapım şekilleri-yemek
 
     <hr />
 1. Wurman'ın (2000) bilgi hiyerarşi katmanlarında aşağıdakilerden hangisi küresel-yerel-kişisel bağlam kapsamındadır?
@@ -709,8 +651,7 @@
     - D-) bilgi birikimi-keşif-bilgelik
     - E-) bilgi-keşif-toplama
 
-    > **Açıklama:** BİLGİ HİYERARŞİSİ
-    > bilgi-bilgi birikimi-bilgelik
+    > **Açıklama:** BİLGİ HİYERARŞİSİ<br />bilgi-bilgi birikimi-bilgelik
 
     <hr />
 1. Wurman'ın (2000) bilgi hiyerarşisi katmanlarında aşağıdakilerden hangisi veri altında sınıflanmaz?
@@ -720,8 +661,7 @@
     - **Cevap D-) Düzenleme**
     - E-) Keşif
 
-    > **Açıklama:** BİLGİ HİYERARŞİSİ
-    > Düzenleme bilgi sınıfıdır.
+    > **Açıklama:** BİLGİ HİYERARŞİSİ<br />Düzenleme bilgi sınıfıdır.
 
     <hr />
 1. Bilgelik hiyerarşisinde (Wurman, 2000) deneyim hangi bilgi katmanlarında etkindir?
@@ -731,8 +671,7 @@
     - D-) veri-bilgi-bilgelik
     - E-) veri-bilgi-yaratım
 
-    > **Açıklama:** BİLGİ HİYERARŞİSİ
-    > bilgi-bilgi birikimi-bilgelik
+    > **Açıklama:** BİLGİ HİYERARŞİSİ<br />bilgi-bilgi birikimi-bilgelik
 
     <hr />
 1. "TÜİK'in adrese dayalı nüfus verilerine dayanan bir örnekte, illerin 2021 yılı toplam nüfusları ile o ile yerleşen yabancı sayısı arasında -0,11 düzeyinde bir korelasyon vardır."<br />Yukarıdaki ifadeyi hangisi açıklar?
@@ -742,8 +681,7 @@
     - D-) Nüfusu az olan illere görece daha fazla sayıda yabancı uyruklu yerleşimi olduğu söylenebilir.
     - **Cevap E-) Bir ile ne kadar yabancı uyruklu kişinin yerleştiğinin, o ilin mevcut nüfusu ile korelasyonu çok düşük düzeydedir.**
 
-    > **Açıklama:** Farklar, Oranlar ve Korelasyonlar (Bağıntılar)
-    > Bir ile ne kadar yabancı uyruklu kişinin yerleştiğinin, o ilin mevcut nüfusu ile korelasyonu çok düşük düzeydedir.
+    > **Açıklama:** Farklar, Oranlar ve Korelasyonlar (Bağıntılar)<br />Bir ile ne kadar yabancı uyruklu kişinin yerleştiğinin, o ilin mevcut nüfusu ile korelasyonu çok düşük düzeydedir.
 
     <hr />
 1. Aşağıdakilerden hangisi zamansal-nedensel veri değildir?
@@ -753,8 +691,7 @@
     - **Cevap D-) Eskişehirdeki Covit salgın verileri**
     - E-) 2021 yılında Eskişehir'deki tramway hattının kullanım miktarı ve yoğunluk değişim grafikleri
 
-    > **Açıklama:** Verinin İçeriği
-    > Eskişehirdeki Covit salgın verileri
+    > **Açıklama:** Verinin İçeriği<br />Eskişehirdeki Covit salgın verileri
 
     <hr />
 1. "Eğitimi ifade ederken okuryazar için 1, ilköğretim için 2, ortaöğretim için 3, lise için 4, yükseköğretim için 5, lisansüstü eğitim için 6 değerleri verilerek yapılan bir ölçümde ............ değerler söz konusudur."<br />Yukarıdaki cümleyi hangisi tamamlar?
@@ -764,8 +701,7 @@
     - D-) Interval
     - E-) Özel
 
-    > **Açıklama:** Ölçüm Düzeyleri
-    > Ordinal
+    > **Açıklama:** Ölçüm Düzeyleri<br />Ordinal
 
     <hr />
 1. Aşağıdaki seçeneklerden hangisi Rosenfeld, Morville ve Arango'nun bilgi mimarisini tanımlarken kullandıkları maddelerden birisidir?
@@ -775,15 +711,7 @@
     - D-) Sadece fiziksel sistemlerde; bilgiyi organize etmek, etiketlemek, aramak ve içerisinde dolaşmak işlerinin bir birleşimi
     - E-) Sadece bilgiyle ilgili deneyimleri; kullanılabilirlik, bulunabilirlik ve anlaşılırlığı destekleyecek şekillendirme sanatı ve bilimi
 
-    > **Açıklama:** Rosenfeld, Morville ve Arango (2015), enformasyon ve kütüphane biliminden yola çıkarak, bilgiye erişim bağlamında bilgi mimarisi terimini şu maddeler içerisinde tanımlamışlardır:
-    > 1\. Paylaşımlı bilgi ortamlarının yapısal tasarımı,
-    > 2\. Dijital, fiziksel ya da ikisi arasında geçişken
-    > sistemlerde; bilgiyi organize etmek, etiketlemek, aramak ve içerisinde dolaşmak işlerinin bir birleşimi,
-    > 3\. Bilgi ürünleri ve bilgiyle ilgili deneyimleri;
-    > kullanılabilirlik, bulunabilirlik ve anlaşılırlığı destekleyecek şekillendirme sanatı ve
-    > bilimi,
-    > 4\. Dijital ortam üzerinde tasarım ve mimarlık
-    > prensiplerini uygulamaya odaklanmış gelişmekte olan bir disiplin ve uygulama alanı.
+    > **Açıklama:** Rosenfeld, Morville ve Arango (2015), enformasyon ve kütüphane biliminden yola çıkarak, bilgiye erişim bağlamında bilgi mimarisi terimini şu maddeler içerisinde tanımlamışlardır:<br />1\. Paylaşımlı bilgi ortamlarının yapısal tasarımı,<br />2\. Dijital, fiziksel ya da ikisi arasında geçişken<br />sistemlerde; bilgiyi organize etmek, etiketlemek, aramak ve içerisinde dolaşmak işlerinin bir birleşimi,<br />3\. Bilgi ürünleri ve bilgiyle ilgili deneyimleri;<br />kullanılabilirlik, bulunabilirlik ve anlaşılırlığı destekleyecek şekillendirme sanatı ve<br />bilimi,<br />4\. Dijital ortam üzerinde tasarım ve mimarlık<br />prensiplerini uygulamaya odaklanmış gelişmekte olan bir disiplin ve uygulama alanı.
 
     <hr />
 1. Bilgiyi alt parçalara bölerek ve bu parçaları birbirleri ile ilişkilendirerek gerçekleştirilen sürece verilen isim aşağıdaki seçeneklerden hangisinde yer almaktadır?
@@ -884,8 +812,7 @@
     - **Cevap D-) Deneyim aktarımı**
     - E-) Görselleştirme teknikleri
 
-    > **Açıklama:** BİLGİNİN GELENEKSEL GÖSTERİMİ
-    > Deneyim aktarımı
+    > **Açıklama:** BİLGİNİN GELENEKSEL GÖSTERİMİ<br />Deneyim aktarımı
 
     <hr />
 1. Bilgi mimarisi aşağıdakilerden hangisi ile başlamıştır?
@@ -895,8 +822,7 @@
     - D-) Resimler, semboller ve diğer görsel işaretlerle
     - E-) Usta-çırak ilişkisinin başlamasıyla
 
-    > **Açıklama:** Bilginin Metin Olarak Gösterilmesi
-    > Yazının icadıyla
+    > **Açıklama:** Bilginin Metin Olarak Gösterilmesi<br />Yazının icadıyla
 
     <hr />
 1. Aşağıdakilerden hangisi bilginin metne dönüştürülmesinin olumlu özelliklerinden biri değildir?
@@ -906,8 +832,7 @@
     - D-) Maddeler hâlinde verilen bilgiler, okuyucunun konuyu daha kolay hazmetmesini sağlar.
     - E-) Grafikler bilgi ve içerik görselleştirme yöntemidir ve tercih edilen formların verilerle kurulan nesnel ilişkisinden yararlanılır.
 
-    > **Açıklama:** Bilginin Metin Olarak Gösterilmesi
-    > Deneyim aktarımı sözlü bilgiyi yaygınlaştıran bir faaliyet olarak önemli ölçüde bir birikimin oluşmasına katkı sağlamıştır.
+    > **Açıklama:** Bilginin Metin Olarak Gösterilmesi<br />Deneyim aktarımı sözlü bilgiyi yaygınlaştıran bir faaliyet olarak önemli ölçüde bir birikimin oluşmasına katkı sağlamıştır.
 
     <hr />
 1. Aşağıdakilerden hangisi bilginin tablo ile gösterimi için uygun değildir?
@@ -917,8 +842,7 @@
     - D-) Kategorilere göre büyükten küçüğe vb. sıralamalar
     - **Cevap E-) İndeks ya da fihrist**
 
-    > **Açıklama:** Bilginin Tablo ile Gösterilmesi
-    > İndeks ya da fihrist
+    > **Açıklama:** Bilginin Tablo ile Gösterilmesi<br />İndeks ya da fihrist
 
     <hr />
 1. Aşağıdakilerden hangisi bilginin tablo biçiminde görselleştirilmesinin avantajlarından biri değildir?
@@ -928,8 +852,7 @@
     - **Cevap D-) İlave bir görselleştirmenin tablo alanında yapılmasına imkan tanır**
     - E-) Sayfalar dolusu verinin bir göz atımı süresinde görülmesini, algılanmasını ve analiz edilmesini sağlar
 
-    > **Açıklama:** Bilginin Tablo ile Gösterilmesi
-    > İlave bir görselleştirmenin tablo alanında yapılmasına imkan tanır
+    > **Açıklama:** Bilginin Tablo ile Gösterilmesi<br />İlave bir görselleştirmenin tablo alanında yapılmasına imkan tanır
 
     <hr />
 1. Bilgi görselleştirme tasarımı, ortada düzgün bir içerik varsa amacına ulaşır. Aşağıdakilerden hangisi olursa görselleştirme amacına ulaşamaz?
@@ -939,8 +862,7 @@
     - D-) Fazla daraltılmamışsa
     - **Cevap E-) Özünde doğruluğu içermiyorsa**
 
-    > **Açıklama:** Bilginin Görselleştirilmesinde İçeriğin Önemi
-    > Özünde doğruluğu içermiyorsa
+    > **Açıklama:** Bilginin Görselleştirilmesinde İçeriğin Önemi<br />Özünde doğruluğu içermiyorsa
 
     <hr />
 1. Aşağıdakilerden hangisi bilgi görselleştirmenin en çok dikkat edilmesi gereken özelliği olan doğruluk ve dürüstlük konusunda dünya genelinde yaygın bir sorun haline gelmiştir?
@@ -950,8 +872,7 @@
     - D-) Sağlık verileri
     - E-) Sanat ve tasarım içerikleri
 
-    > **Açıklama:** Bilgi Görselleştirmede Nesnellik
-    > Sosyal medya gönderileri
+    > **Açıklama:** Bilgi Görselleştirmede Nesnellik<br />Sosyal medya gönderileri
 
     <hr />
 1. Aşağıdakilerden hangisi bilgi görselleştirmede görsel tasarım unsurlarından biri değildir?
@@ -961,8 +882,7 @@
     - **Cevap D-) Çarpıtma ve Manipülasyon**
     - E-) Grafik Gösterimlerin Kullanımı
 
-    > **Açıklama:** Görsel Tasarım Unsurları
-    > Çarpıtma ve Manipülasyon
+    > **Açıklama:** Görsel Tasarım Unsurları<br />Çarpıtma ve Manipülasyon
 
     <hr />
 1. Bilgi görselleştirmede renk hangi amaçla kullanılır?
@@ -972,8 +892,7 @@
     - D-) Konular arası akışın planlanmasında
     - E-) İzleyicinin gördüğü değerleri karşılaştırdığı içeriklerin algılamasında
 
-    > **Açıklama:** Görsel Tasarım Unsurları
-    > Verilerin vurgulanmasında ve dikkatin belirli bir noktaya odaklanmasında
+    > **Açıklama:** Görsel Tasarım Unsurları<br />Verilerin vurgulanmasında ve dikkatin belirli bir noktaya odaklanmasında
 
     <hr />
 1. Bilgi görselleştirmede içerik oluştuktan sonra bu içeriğin görselleştirilmesi aşamasında aşağıdakilerden hangisinden yararlanılmaz?
@@ -983,8 +902,7 @@
     - D-) Lay-out
     - **Cevap E-) Sabit bilgi**
 
-    > **Açıklama:** Görsel Tasarım Unsurları
-    > Sabit bilgi
+    > **Açıklama:** Görsel Tasarım Unsurları<br />Sabit bilgi
 
     <hr />
 1. Aşağıdakilerden hangisi bilgi görselleştirme ile ilgili doğru bir ifadedir?
@@ -1095,8 +1013,7 @@
     - **Cevap D-) Açıklık İlkesi**
     - E-) Figür-Zemin İlkesi
 
-    > **Açıklama:** Özellikle sanatçılar ve tasarımcılar tarafından sıklıkla odaklanılan bazı Gestalt ilkeleri şunlardır: • Yakınlık İlkesi • Benzerlik İlkesi • Devamlılık İlkesi • Kapalılık İlkesi • Figür-Zemin İlkesi
-    > Açıklık İlkesi
+    > **Açıklama:** Özellikle sanatçılar ve tasarımcılar tarafından sıklıkla odaklanılan bazı Gestalt ilkeleri şunlardır: • Yakınlık İlkesi • Benzerlik İlkesi • Devamlılık İlkesi • Kapalılık İlkesi • Figür-Zemin İlkesi<br />Açıklık İlkesi
 
     <hr />
 1. Algıda bütünü oluşturan görsel ögelerin, eksik veya tamamlanmamış formları tamamlama eğiliminde olduğunu açıklayan ilke aşağıdakilerden hangisidir?
@@ -1106,8 +1023,7 @@
     - D-) Benzerlik İlkesi
     - E-) Tamamlama İlkesi
 
-    > **Açıklama:** “Kapalılık ilkesi”, algıda bütünü oluşturan görsel ögelerin, eksik veya tamamlanmamış formları tamamlama eğiliminde olduğunu açıklar.
-    > Kapalılık İlkesi
+    > **Açıklama:** “Kapalılık ilkesi”, algıda bütünü oluşturan görsel ögelerin, eksik veya tamamlanmamış formları tamamlama eğiliminde olduğunu açıklar.<br />Kapalılık İlkesi
 
     <hr />
 1. Verilerin görsel olarak temsil edildiği yapı veya düzen biçimine ne ad verilir?
@@ -1157,8 +1073,7 @@
     - **Cevap D-) Tasarımcısının karakteristik özellikleri.**
     - E-) Vuruşlarının görsel etkisi.
 
-    > **Açıklama:** Yazı tipleri seçimi kimi zaman zorlu bir iştir. Bu seçimi yaparken, harflerin karakteristik biçimleri, oranları ve vuruşlarının yazının görsel etkisini nasıl etkilediğini anlamak önemlidir. Ayrıca, yazı tipinin tasarımının tipografi tarihindeki yerini ve temsil ettiği değerleri bilmek gereklidir.
-    > Tasarımcısının karakteristik özellikleri.
+    > **Açıklama:** Yazı tipleri seçimi kimi zaman zorlu bir iştir. Bu seçimi yaparken, harflerin karakteristik biçimleri, oranları ve vuruşlarının yazının görsel etkisini nasıl etkilediğini anlamak önemlidir. Ayrıca, yazı tipinin tasarımının tipografi tarihindeki yerini ve temsil ettiği değerleri bilmek gereklidir.<br />Tasarımcısının karakteristik özellikleri.
 
     <hr />
 1. Metin blokları ve grafiklerin düzenlenmesi sırasında, okunurluk ve akıcılığı artırmak için kullanılan ilke aşağıdakilerden hangisidir?
@@ -1168,8 +1083,7 @@
     - D-) Hiyerarşi
     - E-) Benzerlik İlkesi
 
-    > **Açıklama:** Okunurluk ve Akıcılık: Metin blokları ve grafiklerin düzenlenmesi sırasında, okunurluk ve akıcılığı artırmak için devamlılık ilkesi kullanılır. Metin blokları ve grafikler arasındaki boşluklar, hizalar ve aralıklar sistematik bir biçimde dikkatlice düzenlenir.
-    > Devamlılık İlkesi
+    > **Açıklama:** Okunurluk ve Akıcılık: Metin blokları ve grafiklerin düzenlenmesi sırasında, okunurluk ve akıcılığı artırmak için devamlılık ilkesi kullanılır. Metin blokları ve grafikler arasındaki boşluklar, hizalar ve aralıklar sistematik bir biçimde dikkatlice düzenlenir.<br />Devamlılık İlkesi
 
     <hr />
 1. Gestalt Psikolojisinin hangi ilkesine göre, tasarımda yer alan ögelerin birbiriyle sürekli bir ilişki içinde olması ve izleyicinin bu ilişkiyi kolayca görmesi gerekmektedir?
@@ -1179,8 +1093,7 @@
     - D-) Yakınlık İlkesi
     - E-) Hiyerarşi
 
-    > **Açıklama:** Bu ilkeye göre, tasarımda yer alan ögelerin birbiriyle sürekli bir ilişki içinde olması ve izleyicinin bu ilişkiyi kolayca görmesi gerekmektedir.
-    > Devamlılık İlkesi
+    > **Açıklama:** Bu ilkeye göre, tasarımda yer alan ögelerin birbiriyle sürekli bir ilişki içinde olması ve izleyicinin bu ilişkiyi kolayca görmesi gerekmektedir.<br />Devamlılık İlkesi
 
     <hr />
 1. Manuel Bortoletti isimli tasarımcının sağlık ve korunma konularında İtalyanca olarak yayınlanan aylık dergi Salute Magazine’deki “LA PAROLA” isimli bölüm için tasarladığı bilgigrafi serisi Gestalt'ın hangi ilkesi için iyi bir örnektir?
@@ -1190,8 +1103,7 @@
     - D-) Kapalılık İlkesi
     - **Cevap E-) Devamlılık İlkesi**
 
-    > **Açıklama:** Manuel Bortoletti isimli tasarımcının sağlık ve korunma konularında İtalyanca olarak yayınlanan aylık dergi Salute Magazine’deki “LA PAROLA” isimli bölüm için tasarladığı bilgigrafi serisi Gestalt devamlılık ilkesi için oldukça iyi bir örnektir.
-    > Devamlılık İlkesi
+    > **Açıklama:** Manuel Bortoletti isimli tasarımcının sağlık ve korunma konularında İtalyanca olarak yayınlanan aylık dergi Salute Magazine’deki “LA PAROLA” isimli bölüm için tasarladığı bilgigrafi serisi Gestalt devamlılık ilkesi için oldukça iyi bir örnektir.<br />Devamlılık İlkesi
 
     <hr />
 1. Aşağıdakilerden hangisi Gestalt ilkelerinden biri **değildir**?
@@ -1201,15 +1113,7 @@
     - D-) Yakınlık ilkesi
     - E-) Benzerlik ilkesi
 
-    > **Açıklama:** Özellikle sanatçılar ve tasarımcılar tarafından
-    > sıklıkla odaklanılan bazı Gestalt ilkeleri şunlardır:
-    > • Yakınlık İlkesi
-    > • Benzerlik İlkesi
-    > • Devamlılık İlkesi
-    > • Kapalılık İlkesi
-    > • Figür-Zemin İlkesi
-    > Buna göre açıklık ilkesi olarak bir Gestalt ilkesi yoktur.
-    > Yanıt C'dir. Açıklık ilkesi bir Gestalt ilkesi değidlir.
+    > **Açıklama:** Özellikle sanatçılar ve tasarımcılar tarafından<br />sıklıkla odaklanılan bazı Gestalt ilkeleri şunlardır:<br />• Yakınlık İlkesi<br />• Benzerlik İlkesi<br />• Devamlılık İlkesi<br />• Kapalılık İlkesi<br />• Figür-Zemin İlkesi<br />Buna göre açıklık ilkesi olarak bir Gestalt ilkesi yoktur.<br />Yanıt C'dir. Açıklık ilkesi bir Gestalt ilkesi değidlir.
 
     <hr />
 1. Aşağıda bahsedilen Gestalt ilkesi hangisidir?<br />"Bir sayfa üzerindeki bir grup harf arasındaki mesafe ile ilgilidir. düşünelim. Harfler kelimeleri, kelimeler anlamlı bir satırı, satırlar anlamlı bilgi öbeğiyle geliştirilmiş bir paragrafı oluşturur. Okur, mesafe ile ilişkilendirerek metni anlamlandırma eğilimindedir."
@@ -1219,8 +1123,7 @@
     - **Cevap D-) Yakınlık ilkesi**
     - E-) Kapalılık ilkesi
 
-    > **Açıklama:** Gestalt ilkelerinden biri olan “yakınlık ilkesi,” nesnelerin birbirlerine olan mesafeye dayalı olarak nasıl algılandığını açıklar. Bu ilkeye göre, nesneler bir arada bulunduklarında bir grup oluştururlar ve bu grup içinde daha yakın olan nesneler, birlikte algılanma eğilimindedir. Sorudaki açıklamada işaret edilen ilke yakınlık ilkesidir.
-    > Yanıt D'dir. Yakınlık ilkesidir.
+    > **Açıklama:** Gestalt ilkelerinden biri olan “yakınlık ilkesi,” nesnelerin birbirlerine olan mesafeye dayalı olarak nasıl algılandığını açıklar. Bu ilkeye göre, nesneler bir arada bulunduklarında bir grup oluştururlar ve bu grup içinde daha yakın olan nesneler, birlikte algılanma eğilimindedir. Sorudaki açıklamada işaret edilen ilke yakınlık ilkesidir.<br />Yanıt D'dir. Yakınlık ilkesidir.
 
     <hr />
 1. "Bilgigrafi tasarımında, bilgiyi düzenlemek ve iletmek için önemli bir tasarım ilkesidir. Bu ilke, görsel olarak bağlantılı ve sürekli bir akış oluşturarak izleyicinin bilgiyi daha kolay ve<br />anlaşılır bir şekilde takip etmelerini sağlamak amacıyla kullanılır."<br />İfadesinde sözü edilen Gestalt ilkesi aşağıdakilerden hangisidir?
@@ -1230,8 +1133,7 @@
     - D-) Kapalılık ilkesi
     - E-) Figür-zemin ilkesi
 
-    > **Açıklama:** Bilgigrafi tasarımında, bilgiyi düzenlemek ve iletmek için devamlılık ilkesi önemli bir tasarım ilkesidir. Bu ilke, görsel olarak bağlantılı ve sürekli bir akış oluşturarak izleyicinin bilgiyi daha kolay ve anlaşılır bir şekilde takip etmelerini sağlamak amacıyla kullanılır.
-    > Yanıt A'dır. Devamlılık ilkesidir.
+    > **Açıklama:** Bilgigrafi tasarımında, bilgiyi düzenlemek ve iletmek için devamlılık ilkesi önemli bir tasarım ilkesidir. Bu ilke, görsel olarak bağlantılı ve sürekli bir akış oluşturarak izleyicinin bilgiyi daha kolay ve anlaşılır bir şekilde takip etmelerini sağlamak amacıyla kullanılır.<br />Yanıt A'dır. Devamlılık ilkesidir.
 
     <hr />
 1. Bilgigrafi tasarımında kullanılan renkler, yazı karakterleri ve stil özelliklerinin (örneğin, başlık stilleri ya da görsel dilde kullanılan üslup), benzer renk paletleri veya yazı karakterleri kullanılmasıyla bilgi parçaları arasında görsel tutarlılık sağlanması hangi Gestalt ilkesinin uygulamasıdır?
@@ -1241,9 +1143,7 @@
     - D-) Benzerlik ilkesi
     - E-) Figür-zemin ilkesi
 
-    > **Açıklama:** Bilgigrafi tasarımında devamlılık ilkesi, bilgiyi düzenlemek ve iletmek için önemli bir tasarım ilkesidir. Bu ilke, görsel olarak bağlantılı ve sürekli bir akış oluşturarak izleyicinin bilgiyi daha kolay ve anlaşılır bir şekilde takip etmelerini sağlamak amacıyla kullanılır. Bilgigrafi tasarımında devamlılık ilkesinin nasıl kullanılabileceğine dair Renk ve Stil Sürekliliği sağlanması için, Bilgigrafi tasarımında kullanılan renkler, yazı karakterleri
-    > ve stil özellikleri (örneğin, başlık stilleri ya da görsel dilde kullanılan üslup) devamlılık ilkesine uygun olarak tasarlanır. Benzer renk paletleri veya yazı karakterleri kullanılarak bilgi parçaları arasında görsel tutarlılık sağlanır.
-    > Yanıt B'dir. Devamılık ilkesidir.
+    > **Açıklama:** Bilgigrafi tasarımında devamlılık ilkesi, bilgiyi düzenlemek ve iletmek için önemli bir tasarım ilkesidir. Bu ilke, görsel olarak bağlantılı ve sürekli bir akış oluşturarak izleyicinin bilgiyi daha kolay ve anlaşılır bir şekilde takip etmelerini sağlamak amacıyla kullanılır. Bilgigrafi tasarımında devamlılık ilkesinin nasıl kullanılabileceğine dair Renk ve Stil Sürekliliği sağlanması için, Bilgigrafi tasarımında kullanılan renkler, yazı karakterleri<br />ve stil özellikleri (örneğin, başlık stilleri ya da görsel dilde kullanılan üslup) devamlılık ilkesine uygun olarak tasarlanır. Benzer renk paletleri veya yazı karakterleri kullanılarak bilgi parçaları arasında görsel tutarlılık sağlanır.<br />Yanıt B'dir. Devamılık ilkesidir.
 
     <hr />
 1. "Bir coğrafi harita tasarımında farklı bölgeleri farklı renklerle kodlayarak izleyicinin her bölgeyi hızla ayırt etmesi" bibligrafi tasarımında renk kullanımının hangi rolünün örneğidir?
@@ -1253,10 +1153,7 @@
     - D-) Değişim betimlemesi
     - E-) Uyum ve zıtlık
 
-    > **Açıklama:** Bilgigrafi tasarımında renk kullanımı oldukça önemlidir çünkü renkler, bilgilerin iletilmesinde
-    > güçlü bir araç olarak hizmet edebilir. Birçok örnekle renk kullanımının bilgigrafi tasarımındaki rolünün açıklanması mümkündür. Renk kullanımının rollerinden biri de kategorizasyondur.
-    > Kategorizasyon: Bilgigrafilerde çok sayıda veriyi kategorilere ayırmak yaygındır. Renkler, her kategoriyi temsil etmek için kullanılabilir. Örneğin, bir coğrafi harita tasarımında farklı bölgeleri farklırenklerle kodlayarak izleyicinin her bölgeyi hızla ayırt etmesi sağlanabilir.
-    > Yanıt B'dir. Kategorizasyon rolüne işaret eder.
+    > **Açıklama:** Bilgigrafi tasarımında renk kullanımı oldukça önemlidir çünkü renkler, bilgilerin iletilmesinde<br />güçlü bir araç olarak hizmet edebilir. Birçok örnekle renk kullanımının bilgigrafi tasarımındaki rolünün açıklanması mümkündür. Renk kullanımının rollerinden biri de kategorizasyondur.<br />Kategorizasyon: Bilgigrafilerde çok sayıda veriyi kategorilere ayırmak yaygındır. Renkler, her kategoriyi temsil etmek için kullanılabilir. Örneğin, bir coğrafi harita tasarımında farklı bölgeleri farklırenklerle kodlayarak izleyicinin her bölgeyi hızla ayırt etmesi sağlanabilir.<br />Yanıt B'dir. Kategorizasyon rolüne işaret eder.
 
     <hr />
 1. Bibligrafi tasarımında okunurluk açısından aşağıdakilerden hangisi ya da hangileri doğrudur?<br />I. Parlak ve zıt renklerin bir arada kullanılması okunurluğu azaltabilir.<br />II. Siyah yazılar beyaz bir arka plan üzerinde negatif olarak algılanır.<br />III. Yakın tonlardaki renklerin bir arada kullanılması yazının görünmez hâle gelmesine yol açabilir.
@@ -1266,8 +1163,7 @@
     - **Cevap D-) I ve III**
     - E-) I, II ve III
 
-    > **Açıklama:** Okunurluk için yazının rengi ve zeminin rengi arasındaki ilişki önemlidir. Tipografi tasarımında genellikle vurgu ve hiyerarşi oluşturmak için renk kullanır. Ancak parlak ve zıt renklerin bir arada kullanılması, yazının titremesine neden olabilir ve okunurluğu azaltabilir. Aynı şekilde çok yakın tonlardaki açık ve koyu renklerin bir arada kullanılması, yazının görünmez hâle gelmesine yol açabilir. Yazının arka plan rengine dikkat etmek de önemlidir. Siyah yazılar beyaz bir arka plan üzerinde pozitif olarak algılanırken, beyaz yazılar siyah bir arka plan üzerinde negatif olarak algılanır.
-    > Yanıt D'dir. I ve III doğrudur.
+    > **Açıklama:** Okunurluk için yazının rengi ve zeminin rengi arasındaki ilişki önemlidir. Tipografi tasarımında genellikle vurgu ve hiyerarşi oluşturmak için renk kullanır. Ancak parlak ve zıt renklerin bir arada kullanılması, yazının titremesine neden olabilir ve okunurluğu azaltabilir. Aynı şekilde çok yakın tonlardaki açık ve koyu renklerin bir arada kullanılması, yazının görünmez hâle gelmesine yol açabilir. Yazının arka plan rengine dikkat etmek de önemlidir. Siyah yazılar beyaz bir arka plan üzerinde pozitif olarak algılanırken, beyaz yazılar siyah bir arka plan üzerinde negatif olarak algılanır.<br />Yanıt D'dir. I ve III doğrudur.
 
     <hr />
 1. Bir çizgi grafiği üzerinde zamanla değişen döviz kurlarını gösterirken, yükselen kurlar için kırmızı, düşen kurlar için mavi rengin kullanılması, renk kullanımının bilgigrafi tasarımındaki hangi rolünün örneğidir?
@@ -1277,12 +1173,7 @@
     - D-) Renk kodlaması
     - E-) Uyum ve zıtlık
 
-    > **Açıklama:** Bilgigrafi tasarımında renk kullanımı oldukça önemlidir çünkü renkler, bilgilerin iletilmesinde
-    > güçlü bir araç olarak hizmet edebilir. Altta verilen örneklerle renk kullanımının bilgigrafi tasarımındaki rolünün açıklanması mümkündür:
-    > Vurgu: Bilgigrafilerde, belirli verilerin vurgulanması önemlidir. Bu, bir metindeki anahtar istatistikler, grafikler veya diğer önemli bilgileri içerebilir. Renkler, bu tür vurgular için mükemmel bir araçtır. Örneğin, bir bilgigrafide en yüksek geliri gösteren bir sütun grafiği yeşil renkle vurgulanabilir, böylece izleyici hemen bu önemli bilgiyi yakalayabilir.
-    > Kategorizasyon: Bilgigrafilerde çok sayıda veriyi kategorilere ayırmak yaygındır. Renkler, her kategoriyi temsil etmek için kullanılabilir. Örneğin, bir coğrafi harita tasarımında farklı bölgeleri farklı renklerle kodlayarak izleyicinin her bölgeyi hızla ayırt etmesi sağlanabilir.
-    > Zaman ve Değişim Betimlemesi: Renkler aynı verinin zaman içindeki değişimini veya karşılaştırmalarını gösterm
-    > Yanıt C'dir. Zaman ve değişim betimlemesidir.
+    > **Açıklama:** Bilgigrafi tasarımında renk kullanımı oldukça önemlidir çünkü renkler, bilgilerin iletilmesinde<br />güçlü bir araç olarak hizmet edebilir. Altta verilen örneklerle renk kullanımının bilgigrafi tasarımındaki rolünün açıklanması mümkündür:<br />Vurgu: Bilgigrafilerde, belirli verilerin vurgulanması önemlidir. Bu, bir metindeki anahtar istatistikler, grafikler veya diğer önemli bilgileri içerebilir. Renkler, bu tür vurgular için mükemmel bir araçtır. Örneğin, bir bilgigrafide en yüksek geliri gösteren bir sütun grafiği yeşil renkle vurgulanabilir, böylece izleyici hemen bu önemli bilgiyi yakalayabilir.<br />Kategorizasyon: Bilgigrafilerde çok sayıda veriyi kategorilere ayırmak yaygındır. Renkler, her kategoriyi temsil etmek için kullanılabilir. Örneğin, bir coğrafi harita tasarımında farklı bölgeleri farklı renklerle kodlayarak izleyicinin her bölgeyi hızla ayırt etmesi sağlanabilir.<br />Zaman ve Değişim Betimlemesi: Renkler aynı verinin zaman içindeki değişimini veya karşılaştırmalarını gösterm<br />Yanıt C'dir. Zaman ve değişim betimlemesidir.
 
     <hr />
 1. Aşağıdakilerden hangisi bibligrafi tasarımında grafik sistemlerindeki parametrelerden biri **değildir?**
@@ -1292,8 +1183,7 @@
     - D-) Disiplin kökeni
     - **Cevap E-) Tasarımcı zevki**
 
-    > **Açıklama:** Bibligrafi tasarımında grafik sistemlerindeki parametrelerden biri tasarımcı zevki değildir. Grafik format, entelektüel amaç ya da işlev, içerik türü, anlamı yapılandırma yöntemleri, disiplin kökenleri gibi parametreler bulunmaktadır.
-    > Yanıt E'dir. Tasarımcı zevki parametrelerden biri değildir.
+    > **Açıklama:** Bibligrafi tasarımında grafik sistemlerindeki parametrelerden biri tasarımcı zevki değildir. Grafik format, entelektüel amaç ya da işlev, içerik türü, anlamı yapılandırma yöntemleri, disiplin kökenleri gibi parametreler bulunmaktadır.<br />Yanıt E'dir. Tasarımcı zevki parametrelerden biri değildir.
 
     <hr />
 1. Bilgigrafi tasarımında metin akışında başlıkların, alt başlıkların ve ana metin paragrafları<br />arasındaki görsel bağlantılar kurularak izleyicinin metni kolayca takip etmesinin sağlanması hangi Gestalt ilkesini açıklar?
@@ -1303,9 +1193,7 @@
     - D-) Kapalılık ilkesi
     - E-) Hiyerarşi
 
-    > **Açıklama:** Bilgigrafi tasarımında devamlılık ilkesi, bilgiyi düzenlemek ve iletmek için önemli bir tasarım ilkesidir. Bu ilke, görsel olarak bağlantılı ve sürekli bir akış oluşturarak izleyicinin bilgiyi daha kolay ve anlaşılır bir şekilde takip etmelerini sağlamak amacıyla kullanılır. Bilgigrafi tasarımında devamlılık ilkesinin nasıl kullanılabileceğine dair örneklerden biri de metin akışıdır.
-    > Metin Akışı: Bilgigrafi tasarımında metin akışı devamlılık ilkesiyle düzenlenir. Başlıklar, alt başlıklar ve ana metin paragrafları arasındaki görsel bağlantılar kurularak izleyicinin metni kolayca takip etmesi sağlanır. Aynı tip yazı karakterleri, noktalama işaretleri ve renk kullanılarak metinler arasında bir bütünlük ve süreklilik oluşturulur.
-    > Yanıt A'dır. Devamlılık ilkesidir.
+    > **Açıklama:** Bilgigrafi tasarımında devamlılık ilkesi, bilgiyi düzenlemek ve iletmek için önemli bir tasarım ilkesidir. Bu ilke, görsel olarak bağlantılı ve sürekli bir akış oluşturarak izleyicinin bilgiyi daha kolay ve anlaşılır bir şekilde takip etmelerini sağlamak amacıyla kullanılır. Bilgigrafi tasarımında devamlılık ilkesinin nasıl kullanılabileceğine dair örneklerden biri de metin akışıdır.<br />Metin Akışı: Bilgigrafi tasarımında metin akışı devamlılık ilkesiyle düzenlenir. Başlıklar, alt başlıklar ve ana metin paragrafları arasındaki görsel bağlantılar kurularak izleyicinin metni kolayca takip etmesi sağlanır. Aynı tip yazı karakterleri, noktalama işaretleri ve renk kullanılarak metinler arasında bir bütünlük ve süreklilik oluşturulur.<br />Yanıt A'dır. Devamlılık ilkesidir.
 
     <hr />
 1. "Bilgigrafi tasarımında bilginin öne çıkarılması, anlamın iletilmesi ve izleyicinin odak<br />noktasının belirlenmesi açısından temel ilkedir. Farklı ögelerin önem sıralamasını belirlemekte, izleyicinin bilgiyi anlama sürecini yönlendirmekte ve akışı tasarlamaya yaramaktadır."<br />Tanımı aşağıdakilerden hangi seçeneğin açıklamasıdır?
@@ -1315,9 +1203,7 @@
     - D-) Benzerlik
     - **Cevap E-) Hiyerarşi**
 
-    > **Açıklama:** Bilgigrafi tasarımında hiyerarşi, bilginin öne çıkarılması, anlamın iletilmesi ve izleyicinin odak
-    > noktasının belirlenmesi açısından temel ilkedir. Hiyerarşi, farklı ögelerin önem sıralamasını belirlemekte, izleyicinin bilgiyi anlama sürecini yönlendirmekte ve akışı tasarlamaya yaramaktadır.
-    > Yanıt E'dir. Hiyerarşi doğru seçenektir.
+    > **Açıklama:** Bilgigrafi tasarımında hiyerarşi, bilginin öne çıkarılması, anlamın iletilmesi ve izleyicinin odak<br />noktasının belirlenmesi açısından temel ilkedir. Hiyerarşi, farklı ögelerin önem sıralamasını belirlemekte, izleyicinin bilgiyi anlama sürecini yönlendirmekte ve akışı tasarlamaya yaramaktadır.<br />Yanıt E'dir. Hiyerarşi doğru seçenektir.
 
     <hr />
 ## Unite 7
@@ -1388,10 +1274,7 @@
     - **Cevap D-) I, II ve III**
     - E-) I, II, III ve IV
 
-    > **Açıklama:** Habercilikte kullanılan veri görselleştirmeleri, temelde üç amaca hizmet ederler.
-    > • Zaman içindeki değişimi göstermek,
-    > • Değerleri birbirleri ile kıyaslamak ve
-    > • İlişkileri ve akışları göstermek.
+    > **Açıklama:** Habercilikte kullanılan veri görselleştirmeleri, temelde üç amaca hizmet ederler.<br />• Zaman içindeki değişimi göstermek,<br />• Değerleri birbirleri ile kıyaslamak ve<br />• İlişkileri ve akışları göstermek.
 
     <hr />
 1. Okuyucularının çoğunun haberlere küçük ekranlı mobil telefonlardan erişmesi, detaylı ve etkileşimli görselleştirmelerin yerini sütun ve çizgi grafikler gibi daha temel formlara bırakmasıyla hyatımıza giren ve Türkçeye “kaydırarak anlatım” olarak çevrilebilecek terim aşağıdakilerden hangisidir?
@@ -1411,13 +1294,7 @@
     - D-) Okuyucunun özgüveni ve becerileri
     - **Cevap E-) Okuyucunun cinsiyeti ve medeni durumu**
 
-    > **Açıklama:** Kennedy vd. (2021) veriye dayalı haberlerdeki görselleştirmelerin okuyucu tarafından ilgi görmesinde etkili olan faktörleri şu başlıklar altında incelemiştir:
-    > • Haberin konusu,
-    > • Verinin kaynağı ve haberin yayımlandığı mecra,
-    > • Okuyucunun inanç ve görüşleri,
-    > • Zaman,
-    > • Okuyucunun özgüveni ve becerileri,
-    > • Duygular.
+    > **Açıklama:** Kennedy vd. (2021) veriye dayalı haberlerdeki görselleştirmelerin okuyucu tarafından ilgi görmesinde etkili olan faktörleri şu başlıklar altında incelemiştir:<br />• Haberin konusu,<br />• Verinin kaynağı ve haberin yayımlandığı mecra,<br />• Okuyucunun inanç ve görüşleri,<br />• Zaman,<br />• Okuyucunun özgüveni ve becerileri,<br />• Duygular.
 
     <hr />
 1. "Etkileşimli veri görselleştirmelerinin kullanımının oldukça azalmasının öncelikli nedeni, ................. yaklaşımı olmakla birlikte, tek neden bu değildir. Veri görselleştirmenin .................... haberlerinin de bir parçası hâline gelmesi, örneğin harita kullanımının sıklaşmasıyla beraber, hazırlanması için daha fazla zaman gereken etkileşimli görselleştirmeler terkedilmeye başlanmıştır." ifadesindeki boş yerlere sırasıyla hangi ifadeler gelmelidir?
@@ -1467,13 +1344,7 @@
     - D-) Zaman
     - E-) Duygular
 
-    > **Açıklama:** Kennedy vd. (2021) veriye dayalı haberlerdeki görselleştirmelerin okuyucu tarafından ilgi görmesinde etkili olan faktörleri şu başlıklar altında incelemiştir:
-    > • Haberin konusu,
-    > • Verinin kaynağı ve haberin yayımlandığı mecra,
-    > • Okuyucunun inanç ve görüşleri,
-    > • Zaman,
-    > • Okuyucunun özgüveni ve becerileri,
-    > • Duygular.
+    > **Açıklama:** Kennedy vd. (2021) veriye dayalı haberlerdeki görselleştirmelerin okuyucu tarafından ilgi görmesinde etkili olan faktörleri şu başlıklar altında incelemiştir:<br />• Haberin konusu,<br />• Verinin kaynağı ve haberin yayımlandığı mecra,<br />• Okuyucunun inanç ve görüşleri,<br />• Zaman,<br />• Okuyucunun özgüveni ve becerileri,<br />• Duygular.
 
     <hr />
 1. Aşağıdakilerden hangisi okuyucuların veriye dayalı haberlerden kaçınma sebeplerinden değildir?
@@ -1544,8 +1415,7 @@
     - D-) SoT (Streaming of Things)
     - E-) MoT (Media of Things)
 
-    > **Açıklama:** IoT (Internet of Things) Nesnelerin İnterneti, akıllı cihazların birbirleri ile veri alışverişinde bulunması anlamına gelmektedir. Günümüzde pek çok akıllı cihaz (Ev asistanları,
-    > Mobil cihazlar ya da otomobiller) nesnelerin internet prensibi ile bilgi alışverişinde bulunarak kullanıcısının hayatını daha verimli hâle getirmeyi amaçlamaktadır.
+    > **Açıklama:** IoT (Internet of Things) Nesnelerin İnterneti, akıllı cihazların birbirleri ile veri alışverişinde bulunması anlamına gelmektedir. Günümüzde pek çok akıllı cihaz (Ev asistanları,<br />Mobil cihazlar ya da otomobiller) nesnelerin internet prensibi ile bilgi alışverişinde bulunarak kullanıcısının hayatını daha verimli hâle getirmeyi amaçlamaktadır.
 
     <hr />
 1. Aşağıdakilerden hangisi kapsamlı görselleştirmeler ile büyük şehirlerde trafik sıkışıklığını önlemeye yarayan platformlara örnek bir sistem olarak verilebilir?
@@ -1585,8 +1455,7 @@
     - D-) Ödüllendirici
     - E-) Konsantrasyon
 
-    > **Açıklama:** Geri Bildirimin Sağlanması: Akışın bozulmaması için kullanıcılar eylemlerine anlık ve hızlı geribildirimler almalıdır.
-    > **Zaman** **Kavramının** **Yitimi;** Arayüz ya da deneyim kullanıcısına zaman kavramını unutturabilmelidir.
+    > **Açıklama:** Geri Bildirimin Sağlanması: Akışın bozulmaması için kullanıcılar eylemlerine anlık ve hızlı geribildirimler almalıdır.<br />**Zaman** **Kavramının** **Yitimi;** Arayüz ya da deneyim kullanıcısına zaman kavramını unutturabilmelidir.
 
     <hr />
 1. "Kullanıcı farkındalığı ile eylemlerini birleştirebilmelidir." tanımı, Csikszentmihalyi'nin başarılı bir etkileşimin temel özelliklerinden hangisidir?
@@ -1656,11 +1525,7 @@
     - D-) Karma gerçeklik
     - E-) Kullanıcı deneyim tasarımı
 
-    > **Açıklama:** Akış (Streaming) Verinin sürekli biçimde değiştiği, anlık olarak izlendiği ve sadece gerekli olduğu zamanlarda depolandığı bilgi deneyimleme biçimi.
-    > IoT (Internet of Things) Nesnelerin İnterneti, akıllı cihazların birbirleri ile veri alışverişinde bulunması anlamına gelmektedir.
-    > Arttırılmış Gerçeklik: Çeşitli teknolojik cihazlar aracılığıyla çevremizde gördüğümüz fiziksel unsurların veri ve grafikler aracılığıyla zenginleştirilerek yeniden sunulması an lamına gelmektedir.
-    > Karma Gerçeklik: Dijital ve fiziksel nesnelerin gerçek zamanlı bir arada olabildiği, özel görüntüleme cihazları yardımıyla yaratılan sanal ve gerçek dünya melezi olarak tanımlanabilir.
-    > Kullanıcı Deneyimi Tasarımı: Görsel iletişimin anlık etkileşimler olmaktan çıkıp, zamana yayılan, davranış değişikliği yaratabilen, alışkanlıklarımızı belirleyen ve duygular ortaya çıkaran ve en önemlisi tüm bunları süreklilik içinde yapabilen eylemler ve etkileşimler bütünü olarak algılanmasını öneren yenilikçi bir tasarım yaklaşımıdır.
+    > **Açıklama:** Akış (Streaming) Verinin sürekli biçimde değiştiği, anlık olarak izlendiği ve sadece gerekli olduğu zamanlarda depolandığı bilgi deneyimleme biçimi.<br />IoT (Internet of Things) Nesnelerin İnterneti, akıllı cihazların birbirleri ile veri alışverişinde bulunması anlamına gelmektedir.<br />Arttırılmış Gerçeklik: Çeşitli teknolojik cihazlar aracılığıyla çevremizde gördüğümüz fiziksel unsurların veri ve grafikler aracılığıyla zenginleştirilerek yeniden sunulması an lamına gelmektedir.<br />Karma Gerçeklik: Dijital ve fiziksel nesnelerin gerçek zamanlı bir arada olabildiği, özel görüntüleme cihazları yardımıyla yaratılan sanal ve gerçek dünya melezi olarak tanımlanabilir.<br />Kullanıcı Deneyimi Tasarımı: Görsel iletişimin anlık etkileşimler olmaktan çıkıp, zamana yayılan, davranış değişikliği yaratabilen, alışkanlıklarımızı belirleyen ve duygular ortaya çıkaran ve en önemlisi tüm bunları süreklilik içinde yapabilen eylemler ve etkileşimler bütünü olarak algılanmasını öneren yenilikçi bir tasarım yaklaşımıdır.
 
     <hr />
 1. Büyük verinin verimli biçimde görselleştirilmesinde teknolojik cihaz ve tasarım dilinin etkisine başarılı bir örnek olan ve Çin'de büyük başarıya ulaşmış ‘Didi Smart Transportation Brain’ sistemi aşağıdaki bilgilerden hangisini görselleştirmektedir?
@@ -1680,14 +1545,7 @@
     - D-) Geri bildirimin sağlanması
     - E-) Konsantrasyon
 
-    > **Açıklama:** Deneyimde akış kavramının yaratıcısı Csikszentmihalyi başarılı bir etkileşimin temel özelliklerini yedi ana başlık üzerinde özetlemiştir:
-    > 1\. Dengeli Bir Mücadele: Bir bilgiyi almak ya da işlemi yapmak için gerekli olan zorluğun derecesi hedeflenen kitlenin becerileri ile örtüşmelidir.
-    > 2\. Konsantrasyon: Tasarlanan aktivite ya da arayüz sınırlı bir alanda yüksek derecede konsantrasyona izin vermelidir.
-    > 3\. Öz Bilincin Terk Edilmesi: Kullanıcı farkındalığı ile eylemlerini birleştirebilmelidir.
-    > 4\. Zaman Kavramının Yitimi; Arayüz ya da deneyim kullanıcısına zaman kavramını unutturabilmelidir.
-    > 5\. Geri Bildirimin Sağlanması: Akışın bozulmaması için kullanıcılar eylemlerine anlık ve hızlı geribildirimler almalıdır.
-    > 6\. Kontrol Hissi: Kullanıcı ortam üzerinde mutlak kontrol hissini almalıdır.
-    > 7\. Ödüllendirici: Aktivite sonunda kullanıcısını ödüllendirmelidir.
+    > **Açıklama:** Deneyimde akış kavramının yaratıcısı Csikszentmihalyi başarılı bir etkileşimin temel özelliklerini yedi ana başlık üzerinde özetlemiştir:<br />1\. Dengeli Bir Mücadele: Bir bilgiyi almak ya da işlemi yapmak için gerekli olan zorluğun derecesi hedeflenen kitlenin becerileri ile örtüşmelidir.<br />2\. Konsantrasyon: Tasarlanan aktivite ya da arayüz sınırlı bir alanda yüksek derecede konsantrasyona izin vermelidir.<br />3\. Öz Bilincin Terk Edilmesi: Kullanıcı farkındalığı ile eylemlerini birleştirebilmelidir.<br />4\. Zaman Kavramının Yitimi; Arayüz ya da deneyim kullanıcısına zaman kavramını unutturabilmelidir.<br />5\. Geri Bildirimin Sağlanması: Akışın bozulmaması için kullanıcılar eylemlerine anlık ve hızlı geribildirimler almalıdır.<br />6\. Kontrol Hissi: Kullanıcı ortam üzerinde mutlak kontrol hissini almalıdır.<br />7\. Ödüllendirici: Aktivite sonunda kullanıcısını ödüllendirmelidir.
 
     <hr />
 1. Aşağıdaki kavramlardan hangisi bilgi görselleştirmede ‘izleyici’ kavramınını ‘kullanıcı’ ile değiştirmeye yardımcı olur?

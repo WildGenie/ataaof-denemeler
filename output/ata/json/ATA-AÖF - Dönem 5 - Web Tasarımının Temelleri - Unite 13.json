@@ -101,7 +101,7 @@
     },
     {
         "SoruID": 336588,
-        "SoruMetni": "<strong>Aşağıdakilerden hangisi W3C (World Wide Web) konsorsiyumunun temel amaçları arasında yer alır?</strong><br type=\"_moz\"/>",
+        "SoruMetni": "<strong>Aşağıdakilerden hangisi W3C (World Wide Web) konsorsiyumunun temel amaçları arasında yer alır?</strong>",
         "A": "Yeni yazılım dili oluşturmak",
         "B": "Teknoloji firmaları arasındaki rekabeti artırmak",
         "C": "Büyük teknolojik firmaları korumak",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 336592,
-        "SoruMetni": "I. DOCTYPE Kullanımı<br/>II. CSS Sıfırlama<br/>III. HTML kodlarının doğru şekilde kullanımı<br/>IV. Eski teknolojiler kullanmak<br/><strong>Yukardakilerden hangisi ya da hangileri çapraz tarayıcı uyumluluğu sorunlarının yaygın nedenleri arasında yer alır?</strong></br></br></br>",
+        "SoruMetni": "I. DOCTYPE Kullanımı<br/>II. CSS Sıfırlama<br/>III. HTML kodlarının doğru şekilde kullanımı<br/>IV. Eski teknolojiler kullanmak<br/><strong>Yukardakilerden hangisi ya da hangileri çapraz tarayıcı uyumluluğu sorunlarının yaygın nedenleri arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "I ve II",
         "C": "I, II ve III",

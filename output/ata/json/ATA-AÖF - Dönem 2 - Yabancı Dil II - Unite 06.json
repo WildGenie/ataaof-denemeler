@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 197142,
-        "SoruMetni": "I feel really bored. I wish I ………. a book to read.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "I feel really bored. I wish I ………. a book to read.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "had",
         "B": "have",
         "C": "has",
@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 197159,
-        "SoruMetni": "There was a concert yesterday. I wish I …………. known about the concert.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "There was a concert yesterday. I wish I …………. known about the concert.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "am",
         "B": "have",
         "C": "has",
@@ -241,7 +241,7 @@
     },
     {
         "SoruID": 197440,
-        "SoruMetni": "This room is very noisy. I wish I ……….. my own room.<br/><strong>Cümlede boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmedir?</strong><br/></br>",
+        "SoruMetni": "This room is very noisy. I wish I ……….. my own room.<br/><strong>Cümlede boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmedir?</strong>",
         "A": "has",
         "B": "have",
         "C": "am",
@@ -281,7 +281,7 @@
     },
     {
         "SoruID": 214643,
-        "SoruMetni": "I cannot go on holiday. I wish I .......... go.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "I cannot go on holiday. I wish I .......... go.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "can",
         "B": "will",
         "C": "am gong to",
@@ -301,7 +301,7 @@
     },
     {
         "SoruID": 214646,
-        "SoruMetni": "I can see that your assignment is quite difficult. I wish I .......... help you.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "I can see that your assignment is quite difficult. I wish I .......... help you.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "will",
         "B": "am going to",
         "C": "could",

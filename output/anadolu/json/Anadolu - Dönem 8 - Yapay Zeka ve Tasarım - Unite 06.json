@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">1988 yılında kullanıcı deneyimi terimini ilk kez kullanan isim Donald Norman'dır. </span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/><span style=\"font-weight: 400;\">1988 yılında kullanıcı deneyimi terimini ilk kez kullanan isim Donald Norman'dır. </span>"
     },
     {
         "SoruID": 3832794,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br><span style=\"font-weight: 400;\">OpenAI tarafından geliştirilen ve kullanıcı destek süreçlerinde yaygın olarak kullanılan araç ChatGpt'dir</span>"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/><span style=\"font-weight: 400;\">OpenAI tarafından geliştirilen ve kullanıcı destek süreçlerinde yaygın olarak kullanılan araç ChatGpt'dir</span>"
     },
     {
         "SoruID": 3832798,
@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır<br><span style=\"font-weight: 400;\">kullanıcı davranışlarını analiz ederek tasarım önerileri sunar, görsel düzenlemeleri optimize eder ve kullanılabilirlik sorunlarını tespit eden araç Adobe Sensei'dir</span>"
+        "Aciklama": "Doğru yanıt E şıkkıdır<br/><span style=\"font-weight: 400;\">kullanıcı davranışlarını analiz ederek tasarım önerileri sunar, görsel düzenlemeleri optimize eder ve kullanılabilirlik sorunlarını tespit eden araç Adobe Sensei'dir</span>"
     },
     {
         "SoruID": 3832801,
@@ -77,7 +77,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt D şıkkıdır<br><span style=\"font-weight: 400;\">Kullanıcı davranışlarını izlemek ve görselleştirmekte yararlanılan, sunduğu kayıtlar ve ısı haritalarıyla kullanıcıların hangi alanda daha çok etkileşimde bulunduğunu belirlemeye yarayan araç Hotjar'dır</span>"
+        "Aciklama": "Doğru yanıt D şıkkıdır<br/><span style=\"font-weight: 400;\">Kullanıcı davranışlarını izlemek ve görselleştirmekte yararlanılan, sunduğu kayıtlar ve ısı haritalarıyla kullanıcıların hangi alanda daha çok etkileşimde bulunduğunu belirlemeye yarayan araç Hotjar'dır</span>"
     },
     {
         "SoruID": 3832802,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "doğru yanıt D şıkkıdır<br>A/B testi <span style=\"font-weight: 400;\"> farklı tasarım varyasyonlarını karşılaştırarak hangisinin daha iyi performans gösterdiğini belirlemek için kullanılan temel bir yöntemdir.</span>"
+        "Aciklama": "doğru yanıt D şıkkıdır<br/>A/B testi <span style=\"font-weight: 400;\"> farklı tasarım varyasyonlarını karşılaştırarak hangisinin daha iyi performans gösterdiğini belirlemek için kullanılan temel bir yöntemdir.</span>"
     },
     {
         "SoruID": 3832806,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br><span style=\"font-weight: 400;\">Bireysel öğeler yerine bütünsel bir algıya yönelme eğilimimizi açıklayan tasarım ilkesi Gestalt'dır.</span>"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/><span style=\"font-weight: 400;\">Bireysel öğeler yerine bütünsel bir algıya yönelme eğilimimizi açıklayan tasarım ilkesi Gestalt'dır.</span>"
     },
     {
         "SoruID": 3832807,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır<br><span style=\"font-weight: 400;\">Kullanıcının sayfadaki göz hareketlerini yönlendirmek ve tasarım öğelerinin önem sırasına göre algılanmasını sağlamak amacıyla kullanılan ilke hiyerarşidir</span>"
+        "Aciklama": "Doğru yanıt E şıkkıdır<br/><span style=\"font-weight: 400;\">Kullanıcının sayfadaki göz hareketlerini yönlendirmek ve tasarım öğelerinin önem sırasına göre algılanmasını sağlamak amacıyla kullanılan ilke hiyerarşidir</span>"
     },
     {
         "SoruID": 3832810,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt C şıkkıdır<br><span style=\"font-weight: 400;\">Kullanıcıların tasarım sürecine manuel olarak daha fazla müdahale etmesini teşvik etmesi, sağladığı katkılardan biri değildir</span>"
+        "Aciklama": "Doğru yanıt C şıkkıdır<br/><span style=\"font-weight: 400;\">Kullanıcıların tasarım sürecine manuel olarak daha fazla müdahale etmesini teşvik etmesi, sağladığı katkılardan biri değildir</span>"
     },
     {
         "SoruID": 3832814,
@@ -177,7 +177,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt A şıkkıdır<br><span style=\"font-weight: 400;\">Gerçek zamanlı analizler yaparak hangi tasarımın daha etkili olduğunu hızlı bir şekilde belirleyen Google Optimiza'dır.</span>"
+        "Aciklama": "Doğru yanıt A şıkkıdır<br/><span style=\"font-weight: 400;\">Gerçek zamanlı analizler yaparak hangi tasarımın daha etkili olduğunu hızlı bir şekilde belirleyen Google Optimiza'dır.</span>"
     },
     {
         "SoruID": 3832818,
@@ -197,6 +197,6 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Doğru yanıt E şıkkıdır<br><span style=\"font-weight: 400;\">Hem görsel hem video içerik üretiminde kullanılan, nesne algılama, video düzenleme ve stil transferi gibi özellikler sunan platform Runway ML'dir.</span>"
+        "Aciklama": "Doğru yanıt E şıkkıdır<br/><span style=\"font-weight: 400;\">Hem görsel hem video içerik üretiminde kullanılan, nesne algılama, video düzenleme ve stil transferi gibi özellikler sunan platform Runway ML'dir.</span>"
     }
 ]

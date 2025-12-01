@@ -41,7 +41,7 @@
     },
     {
         "SoruID": 200848,
-        "SoruMetni": "Sanat ürünü bir kez yaratıldıktan sonra artık onun eşi ve benzeri yoktur.<br/><strong>Bu cümlede sanat ürününün hangi özelliği vurgulanmıştır?</strong><br/></br>",
+        "SoruMetni": "Sanat ürünü bir kez yaratıldıktan sonra artık onun eşi ve benzeri yoktur.<br/><strong>Bu cümlede sanat ürününün hangi özelliği vurgulanmıştır?</strong>",
         "A": "Orijinallik",
         "B": "Evrensellik",
         "C": "Yerellik",
@@ -461,12 +461,12 @@
     },
     {
         "SoruID": 384226,
-        "SoruMetni": "<strong>Sanat ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong><br type=\"_moz\"/>",
+        "SoruMetni": "<strong>Sanat ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>",
         "A": "Sanat, farklı biçim ve tekniklerle kişinin yaratıcılığını ve hayal gücünü yansıtır.",
         "B": "Sanat, son zamanlarda büyük ilgi görmekte ve giderek kamuoyunun dikkatini çekmektedir.",
-        "C": "Sanatın sosyolojinin inceleme konuları arasına girmesi 1990’lı yıllardan itibaren olmuştur.<br type=\"_moz\"/>",
-        "D": "Sanat, sosyal bir mikro kozmos olarak değerlendirebilir.<br type=\"_moz\"/>",
-        "E": "Bir toplumun yapısı bilinmeden, o toplumun sanatını kavramak pek mümkün değildir.<br type=\"_moz\"/>",
+        "C": "Sanatın sosyolojinin inceleme konuları arasına girmesi 1990’lı yıllardan itibaren olmuştur.",
+        "D": "Sanat, sosyal bir mikro kozmos olarak değerlendirebilir.",
+        "E": "Bir toplumun yapısı bilinmeden, o toplumun sanatını kavramak pek mümkün değildir.",
         "DogruCevap": "C",
         "DersAd": "Sanat Sosyolojisi",
         "Somestre": 2,
@@ -981,7 +981,7 @@
     },
     {
         "SoruID": 294269,
-        "SoruMetni": ".......................özne ile nesne arasındaki ya da izleyici ile yapıt arasındaki duyulur ilişkinin ürünüdür.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": ".......................özne ile nesne arasındaki ya da izleyici ile yapıt arasındaki duyulur ilişkinin ürünüdür.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Estetik özne",
         "B": "Estetik haz",
         "C": "Estetik nesne",
@@ -1121,7 +1121,7 @@
     },
     {
         "SoruID": 200992,
-        "SoruMetni": "Sanat toplumsal eğilimlerin dışavurumu ve yansımasıdır ancak sanat sadece bu yansıma ile ifade edilemez. Sanat aynı zamanda toplumu aşmalı, mevcut toplumdan çok daha iyi “yeni” bir topluma ulaşmak için rehberlik etmelidir.<br/><strong>Yukarıdaki düşünce aşağıdakilerden hangisine aittir?</strong><br/></br>",
+        "SoruMetni": "Sanat toplumsal eğilimlerin dışavurumu ve yansımasıdır ancak sanat sadece bu yansıma ile ifade edilemez. Sanat aynı zamanda toplumu aşmalı, mevcut toplumdan çok daha iyi “yeni” bir topluma ulaşmak için rehberlik etmelidir.<br/><strong>Yukarıdaki düşünce aşağıdakilerden hangisine aittir?</strong>",
         "A": "Adorno",
         "B": "Janet Wolff",
         "C": "Bourdieu",
@@ -1441,7 +1441,7 @@
     },
     {
         "SoruID": 201023,
-        "SoruMetni": "Güdüler, bir organizmanın hareketini başlatan, yönlendiren, sürekliliğini sağlayan güç; eylemin ya da etkinliğin gizli nedeni olarak tanımlanabilir. Bir güdünün bireyi belli bir davranışa yönlendirmesi için belli bir amaca yönelik olması gerekir. Bu güç, ya da neden, fizyolojik ya da toplumsal ihtiyaçlardan kaynaklanabilir. Sosyal ihtiyaçlara yönelik olanlara ................ ve bedensel ihtiyaçlara yönelik olanlara ise .............. denilir.<br/><strong>Yukarıdaki paragrafta boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Güdüler, bir organizmanın hareketini başlatan, yönlendiren, sürekliliğini sağlayan güç; eylemin ya da etkinliğin gizli nedeni olarak tanımlanabilir. Bir güdünün bireyi belli bir davranışa yönlendirmesi için belli bir amaca yönelik olması gerekir. Bu güç, ya da neden, fizyolojik ya da toplumsal ihtiyaçlardan kaynaklanabilir. Sosyal ihtiyaçlara yönelik olanlara ................ ve bedensel ihtiyaçlara yönelik olanlara ise .............. denilir.<br/><strong>Yukarıdaki paragrafta boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "düşünce – duygu",
         "B": "duygu - düşünce",
         "C": "güdü - dürtü",
@@ -1481,7 +1481,7 @@
     },
     {
         "SoruID": 201028,
-        "SoruMetni": "..................; halka açık bir şekilde kâr amacı gütmeden, topluma ve toplumun gelişimine hizmet eden, insanlık mirasını koruyan, araştıran, ileten ve sergileyen kurum olarak nitelendirilmektedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "..................; halka açık bir şekilde kâr amacı gütmeden, topluma ve toplumun gelişimine hizmet eden, insanlık mirasını koruyan, araştıran, ileten ve sergileyen kurum olarak nitelendirilmektedir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Üniversite",
         "B": "Sanat evi",
         "C": "Sanat okulu",
@@ -1521,7 +1521,7 @@
     },
     {
         "SoruID": 201031,
-        "SoruMetni": "..................., derin bilgi ve birikiminden hareketle sanat yapıtının teorik ve estetik bağlamını değerlendirir, bilinmeyen yanlarını ortaya koyar, sanatçının tanınmasını ve beğenilmesini sağlar, büyük kitleleri eğitir ve kültürel hayata katkıda bulunur.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "..................., derin bilgi ve birikiminden hareketle sanat yapıtının teorik ve estetik bağlamını değerlendirir, bilinmeyen yanlarını ortaya koyar, sanatçının tanınmasını ve beğenilmesini sağlar, büyük kitleleri eğitir ve kültürel hayata katkıda bulunur.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Eleştirmen",
         "B": "Sanatsever",
         "C": "Koleksiyoncu",
@@ -1541,7 +1541,7 @@
     },
     {
         "SoruID": 201033,
-        "SoruMetni": "..................., olayların, haberlerin ve başka bilgilerin kitlelere aynı anda aktarılmasını sağlayan tüm görsel ve işitsel araçlardır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "..................., olayların, haberlerin ve başka bilgilerin kitlelere aynı anda aktarılmasını sağlayan tüm görsel ve işitsel araçlardır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "İletişim",
         "B": "Bilişim",
         "C": "Medya",
@@ -1641,7 +1641,7 @@
     },
     {
         "SoruID": 242223,
-        "SoruMetni": "......................, sanatın oluşumunda ve gelişiminde toplumsal yapının, sosyokültürel çevrenin koşullarını ve rolünü araştırır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "......................, sanatın oluşumunda ve gelişiminde toplumsal yapının, sosyokültürel çevrenin koşullarını ve rolünü araştırır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Sanat felsefesi",
         "B": "Sanat sosyolojisi",
         "C": "Sanat tarihi",
@@ -1661,7 +1661,7 @@
     },
     {
         "SoruID": 242225,
-        "SoruMetni": ".....................; sanata ilgi duyan, onu seven kişilerin tamamıdır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": ".....................; sanata ilgi duyan, onu seven kişilerin tamamıdır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Sanatçı",
         "B": "Koleksiyoncu",
         "C": "Sanatsever",
@@ -1881,7 +1881,7 @@
     },
     {
         "SoruID": 201081,
-        "SoruMetni": "Sanat ve toplum arasında karşılıklı bir etkileşim vardır. Başka bir deyişle sanat bir …………….. ürünüdür.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Sanat ve toplum arasında karşılıklı bir etkileşim vardır. Başka bir deyişle sanat bir …………….. ürünüdür.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "estetik",
         "B": "kültür",
         "C": "güzellik",
@@ -2441,7 +2441,7 @@
     },
     {
         "SoruID": 242256,
-        "SoruMetni": "Sanatçı aşama aşama uzmana dönüşür. Toplumsal bir alt dizge olarak sanat kendisini bambaşka bir alan olarak tanımlar. Bu durum sanatın estetik bir deneyim olarak değer kazanması gibi olumlu bir işlev görürken sanatçının toplumsal işlevini kaybetmesi gibi olumsuz bir durumdur.<br/><strong>Paragrafta sanatla ilgili olarak anlatılan değişimin nedeni aşağıdakilerden hangisidir?</strong><br/></br>",
+        "SoruMetni": "Sanatçı aşama aşama uzmana dönüşür. Toplumsal bir alt dizge olarak sanat kendisini bambaşka bir alan olarak tanımlar. Bu durum sanatın estetik bir deneyim olarak değer kazanması gibi olumlu bir işlev görürken sanatçının toplumsal işlevini kaybetmesi gibi olumsuz bir durumdur.<br/><strong>Paragrafta sanatla ilgili olarak anlatılan değişimin nedeni aşağıdakilerden hangisidir?</strong>",
         "A": "Burjuva toplumu",
         "B": "Psikolojizm",
         "C": "Gelenek",
@@ -2701,7 +2701,7 @@
     },
     {
         "SoruID": 239459,
-        "SoruMetni": "Nathalie Heinich Rönesans’la XIX. yüzyıl ortasında birbirini izleyen bazen örtüşen üç eylem tipi tasarlayarak sanatçının statüsünün geçirdiği değişimleri sıralar.<br/><strong>Buna göre aşağıdakilerden hangisi Rönesans’a kadar baskın olan düzendir?</strong><br/></br>",
+        "SoruMetni": "Nathalie Heinich Rönesans’la XIX. yüzyıl ortasında birbirini izleyen bazen örtüşen üç eylem tipi tasarlayarak sanatçının statüsünün geçirdiği değişimleri sıralar.<br/><strong>Buna göre aşağıdakilerden hangisi Rönesans’a kadar baskın olan düzendir?</strong>",
         "A": "Akademik dönem",
         "B": "İlkel dönem",
         "C": "Sanatsal yetenek dönemi",
@@ -2781,7 +2781,7 @@
     },
     {
         "SoruID": 239476,
-        "SoruMetni": "<strong>Pierre Bourdieu Avrupa müzelerinin ziyaretçi kitlesi ve bu kitleye mensup olanların ayırt edici özelliklerini, müze konusundaki tutumlarını ve sanatsal seçimlerini ele alan sistematik bir çalışma yapmıştır.<br/>Bu çalışmanın amacı aşağıdakilerden hangisidir?</strong><br/></br>",
+        "SoruMetni": "<strong>Pierre Bourdieu Avrupa müzelerinin ziyaretçi kitlesi ve bu kitleye mensup olanların ayırt edici özelliklerini, müze konusundaki tutumlarını ve sanatsal seçimlerini ele alan sistematik bir çalışma yapmıştır.<br/>Bu çalışmanın amacı aşağıdakilerden hangisidir?</strong>",
         "A": "Sanat literatürüne katkı sağlamak.",
         "B": "Sanata ilgiyi artırmak.",
         "C": "Müzelerin ziyaretçi sayısını tespit etmek.",
@@ -2901,7 +2901,7 @@
     },
     {
         "SoruID": 253933,
-        "SoruMetni": "Bir eserde sanatçı konu aldığı kişilerle birlikte kendisini de resme dâhil etmekle resmin baskın figürlerinden birine dönüşmüştür.<br/><strong>Bu durum aşağıdakilerden hangisini açıklar?</strong><br/></br>",
+        "SoruMetni": "Bir eserde sanatçı konu aldığı kişilerle birlikte kendisini de resme dâhil etmekle resmin baskın figürlerinden birine dönüşmüştür.<br/><strong>Bu durum aşağıdakilerden hangisini açıklar?</strong>",
         "A": "Sanata ilginin arttığını",
         "B": "Sanatçının statüsünün yükseldiğini",
         "C": "Sanat eserinin statüsünün yükseldiğini",
@@ -2961,7 +2961,7 @@
     },
     {
         "SoruID": 355911,
-        "SoruMetni": "I. Halk Sanatı<br/>II. Popüler Sanatı<br/>III. Aydın Sanatı<br/><strong>Arnold Hauser'e göre burjuva tabakalarının karşılığı olarak estetik tabakalara ayrılmıştır. Yukardakilerden hangileri bu tabakalardır?</strong></br></br>",
+        "SoruMetni": "I. Halk Sanatı<br/>II. Popüler Sanatı<br/>III. Aydın Sanatı<br/><strong>Arnold Hauser'e göre burjuva tabakalarının karşılığı olarak estetik tabakalara ayrılmıştır. Yukardakilerden hangileri bu tabakalardır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -3041,7 +3041,7 @@
     },
     {
         "SoruID": 239485,
-        "SoruMetni": "……………………………….’e göre sanat, toplumsal yapının bir ürünüdür; dolayısıyla toplumsal yapıya bağlı olarak ortaya çıkar, gelişir ve değişir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi geltirilmelidir?</strong><br/></br>",
+        "SoruMetni": "……………………………….’e göre sanat, toplumsal yapının bir ürünüdür; dolayısıyla toplumsal yapıya bağlı olarak ortaya çıkar, gelişir ve değişir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi geltirilmelidir?</strong>",
         "A": "S. Güllülü",
         "B": "N. Nirun",
         "C": "Aristoteles",
@@ -3121,7 +3121,7 @@
     },
     {
         "SoruID": 239494,
-        "SoruMetni": "Bir sanatçı olmasının yanında aynı zamanda fizikçi ve eğitimci de olan ………………………………, yaratıcılığın kaynağının insan beyni olduğunu ve beynin sadece bir kısmının değil tümünün yaratıcılıkta aktif olduğunu savunmaktadır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Bir sanatçı olmasının yanında aynı zamanda fizikçi ve eğitimci de olan ………………………………, yaratıcılığın kaynağının insan beyni olduğunu ve beynin sadece bir kısmının değil tümünün yaratıcılıkta aktif olduğunu savunmaktadır.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Nunez",
         "B": "N. Hermann",
         "C": "G. Wallis",
@@ -3661,7 +3661,7 @@
     },
     {
         "SoruID": 253959,
-        "SoruMetni": "Tanzimat’tan sonra, bilhassa ................ edebiyatından yapılan çeviriler ile birlikte Yunan Mitolojisi'ne yönelen yazar ve şairler, mitolojik unsurları eserlerinde konu etmişlerdir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br/></br>",
+        "SoruMetni": "Tanzimat’tan sonra, bilhassa ................ edebiyatından yapılan çeviriler ile birlikte Yunan Mitolojisi'ne yönelen yazar ve şairler, mitolojik unsurları eserlerinde konu etmişlerdir.<br/><strong>Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>",
         "A": "Rus",
         "B": "İran",
         "C": "Alman",
@@ -3701,7 +3701,7 @@
     },
     {
         "SoruID": 356583,
-        "SoruMetni": "I. Gılgamış<br/>II. Akhilleus<br/>III. Oğuz Kağan<br/>IV. Herakles<br/><strong>Yukarıdaki destanlardan hangisi ya da hangileri kahramanlık destanlarından <u>değildir</u>?</strong></br></br></br>",
+        "SoruMetni": "I. Gılgamış<br/>II. Akhilleus<br/>III. Oğuz Kağan<br/>IV. Herakles<br/><strong>Yukarıdaki destanlardan hangisi ya da hangileri kahramanlık destanlarından <u>değildir</u>?</strong>",
         "A": "Yanlız I",
         "B": "Yanlız III",
         "C": "I ve II",
@@ -4021,7 +4021,7 @@
     },
     {
         "SoruID": 253969,
-        "SoruMetni": "<strong>Dijital sanatçıların görsel işlerinde sıkça kullandıkları Illustrator ve Photoshop programlarının sahibi olan firma hangisidir?</strong><br/></br>",
+        "SoruMetni": "<strong>Dijital sanatçıların görsel işlerinde sıkça kullandıkları Illustrator ve Photoshop programlarının sahibi olan firma hangisidir?</strong>",
         "A": "Xerox",
         "B": "Amiga",
         "C": "Commadore",
@@ -4401,12 +4401,12 @@
     },
     {
         "SoruID": 253982,
-        "SoruMetni": "<strong> “Akropolis” aşağıdaki şehirlerden hangisinde yer alır?</strong><br type=\"_moz\"/>",
-        "A": "Atina - Yunanistan<br type=\"_moz\"/>",
-        "B": "İzmir - Türkiye<br type=\"_moz\"/>",
-        "C": "Roma - İtalya<br type=\"_moz\"/>",
-        "D": "Bükreş - Romanya<br type=\"_moz\"/>",
-        "E": "Münih - Almanya<br type=\"_moz\"/>",
+        "SoruMetni": "<strong> “Akropolis” aşağıdaki şehirlerden hangisinde yer alır?</strong>",
+        "A": "Atina - Yunanistan",
+        "B": "İzmir - Türkiye",
+        "C": "Roma - İtalya",
+        "D": "Bükreş - Romanya",
+        "E": "Münih - Almanya",
         "DogruCevap": "A",
         "DersAd": "Sanat Sosyolojisi",
         "Somestre": 2,
@@ -4701,7 +4701,7 @@
     },
     {
         "SoruID": 253983,
-        "SoruMetni": "<strong>Üretim toplumunun ahlaki nitelik arz eden kavramı aşağıdakilerden hangisidir?</strong><br/></br>",
+        "SoruMetni": "<strong>Üretim toplumunun ahlaki nitelik arz eden kavramı aşağıdakilerden hangisidir?</strong>",
         "A": "Çalışma etiği",
         "B": "Tüketim ahlakı",
         "C": "Kadim değerler",
@@ -4741,7 +4741,7 @@
     },
     {
         "SoruID": 298009,
-        "SoruMetni": "I. İnanç<br/>II. Gelenekler<br/>III. Yazısız kurallar<br/><strong>Yukarıdakilerden hangisi ya da hangileri manevi kültür ögeleri arasında yer alır?</strong></br></br>",
+        "SoruMetni": "I. İnanç<br/>II. Gelenekler<br/>III. Yazısız kurallar<br/><strong>Yukarıdakilerden hangisi ya da hangileri manevi kültür ögeleri arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -4761,7 +4761,7 @@
     },
     {
         "SoruID": 298012,
-        "SoruMetni": "I. Kullan at kültürünü yaygınlaştırmaktadır.<br/>II. Üretimi desteklemektedir.<br/>III. Tasarruf duygusunu ortadan kaldırmaktadır.<br/><strong>Yukarıda popüler kültür ile ilgili verilen bilgilerden hangisi ya da hangileri doğrudur?</strong></br></br>",
+        "SoruMetni": "I. Kullan at kültürünü yaygınlaştırmaktadır.<br/>II. Üretimi desteklemektedir.<br/>III. Tasarruf duygusunu ortadan kaldırmaktadır.<br/><strong>Yukarıda popüler kültür ile ilgili verilen bilgilerden hangisi ya da hangileri doğrudur?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -4901,7 +4901,7 @@
     },
     {
         "SoruID": 239645,
-        "SoruMetni": "I. Müstakiller Grubu<br/>II. D Grubu<br/>III. Yeniler Grubu<br/>IV. Onlar Grubu<br/><strong>Aşağıdakilerden hangisi Türk ressamları tarafından kurulan örgütler arasındadır?</strong></br></br></br>",
+        "SoruMetni": "I. Müstakiller Grubu<br/>II. D Grubu<br/>III. Yeniler Grubu<br/>IV. Onlar Grubu<br/><strong>Aşağıdakilerden hangisi Türk ressamları tarafından kurulan örgütler arasındadır?</strong>",
         "A": "Yalnız II",
         "B": "Yalnız IV",
         "C": "I ve IV",
@@ -5121,7 +5121,7 @@
     },
     {
         "SoruID": 253996,
-        "SoruMetni": "<strong>Aşağıdaki ressamlardan hangisi Yeniler Grubu sanatçılarından biri <u>değildir</u>?</strong><br/></br>",
+        "SoruMetni": "<strong>Aşağıdaki ressamlardan hangisi Yeniler Grubu sanatçılarından biri <u>değildir</u>?</strong>",
         "A": "Nuri İyem",
         "B": "Avni Arbaş",
         "C": "Abidin Dino",

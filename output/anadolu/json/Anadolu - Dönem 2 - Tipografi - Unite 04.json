@@ -17,7 +17,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Giriş<br>Hareketli hurufat (movable type), 15. yy’da hurufat adı verilen birbirinden bağımsız karakterlerin satırlar, paragraflar ve sayfalar oluşturacak şekilde dizilip basıldıktan sonra sökülerek tekrar kullanılmasını sağlayan bir baskı sistemi"
+        "Aciklama": "Giriş<br/>Hareketli hurufat (movable type), 15. yy’da hurufat adı verilen birbirinden bağımsız karakterlerin satırlar, paragraflar ve sayfalar oluşturacak şekilde dizilip basıldıktan sonra sökülerek tekrar kullanılmasını sağlayan bir baskı sistemi"
     },
     {
         "SoruID": 3769715,
@@ -37,7 +37,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Geometrik Altyapılar<br>I. Old Style a. Palatino<br/>II. Sans Serif (Tırnaksız) b. Helvetica<br/>III. Serif (Tırnaklı) c. Clarendon"
+        "Aciklama": "Geometrik Altyapılar<br/>I. Old Style a. Palatino<br/>II. Sans Serif (Tırnaksız) b. Helvetica<br/>III. Serif (Tırnaklı) c. Clarendon"
     },
     {
         "SoruID": 3769716,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Geometrik Altyapılar<br>Serif (Tırnaklı) yazı karakterlerine ise Clarendon, Bookman örnek verilebilir"
+        "Aciklama": "Geometrik Altyapılar<br/>Serif (Tırnaklı) yazı karakterlerine ise Clarendon, Bookman örnek verilebilir"
     },
     {
         "SoruID": 3769719,
@@ -137,7 +137,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span>Yazı karakterleri, harfler (büyük ve küçük), rakamlar, noktalama işaretleri ve özel sembolleri içeren karakter setlerinden oluşur. </span><br>İmajlar"
+        "Aciklama": "<span>Yazı karakterleri, harfler (büyük ve küçük), rakamlar, noktalama işaretleri ve özel sembolleri içeren karakter setlerinden oluşur. </span><br/>İmajlar"
     },
     {
         "SoruID": 3769721,
@@ -157,7 +157,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Geometrik Altyapılar<br>Bu yapıda olan yazı karakterlerine Gill Sans, Garamond, Jenson, Trajan, Palatino, Minion Pro örnek verilebilir"
+        "Aciklama": "Geometrik Altyapılar<br/>Bu yapıda olan yazı karakterlerine Gill Sans, Garamond, Jenson, Trajan, Palatino, Minion Pro örnek verilebilir"
     },
     {
         "SoruID": 3769722,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span>Eşit-en sistemi temel geometrik formları deforme ettiğinden her zaman her yazı karakteri için farklılık gösterebilir. Bu durum elips, dikdörtgen ve yamuk temelli olması nedeniyle Eşit-en sistemini değişken kılar. Bu yapıda olan yazı karakterlerine Sans Serif (Tırnaksız) yazı grubundan <strong>Helvetica, Univers; Serif (Tırnaklı) yazı karakterlerine ise Clarendon, Bookman</strong> örnek verilebilir.</span><br>Garamond"
+        "Aciklama": "<span>Eşit-en sistemi temel geometrik formları deforme ettiğinden her zaman her yazı karakteri için farklılık gösterebilir. Bu durum elips, dikdörtgen ve yamuk temelli olması nedeniyle Eşit-en sistemini değişken kılar. Bu yapıda olan yazı karakterlerine Sans Serif (Tırnaksız) yazı grubundan <strong>Helvetica, Univers; Serif (Tırnaklı) yazı karakterlerine ise Clarendon, Bookman</strong> örnek verilebilir.</span><br/>Garamond"
     },
     {
         "SoruID": 3769725,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<span>Metin, satır çizgisi (baseline) sayesinde aynı hizada tutulabilir ancak bir metnin düzeni için daha birçok parametreye ihtiyaç vardır. <strong>Satır arası boşluk, punto ölçüsü, harf arası boşluk, kelime arası boşluk, satır uzunluğu gibi parametreler</strong> metnin görüntüsüyle ya da oluşumuyla direk olarak ilgilidir. </span><br>Kelime sayısı"
+        "Aciklama": "<span>Metin, satır çizgisi (baseline) sayesinde aynı hizada tutulabilir ancak bir metnin düzeni için daha birçok parametreye ihtiyaç vardır. <strong>Satır arası boşluk, punto ölçüsü, harf arası boşluk, kelime arası boşluk, satır uzunluğu gibi parametreler</strong> metnin görüntüsüyle ya da oluşumuyla direk olarak ilgilidir. </span><br/>Kelime sayısı"
     },
     {
         "SoruID": 3769726,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "HARF ANATOMİSİ VE TERİMLER<br>Leg (Bacak): Bir harfin gövde çizgisinden çıkan ve bir ucu açık olan K, R gibi harflerin taban çizgisine doğru uzanan eğik çizgilerine verilen ad."
+        "Aciklama": "HARF ANATOMİSİ VE TERİMLER<br/>Leg (Bacak): Bir harfin gövde çizgisinden çıkan ve bir ucu açık olan K, R gibi harflerin taban çizgisine doğru uzanan eğik çizgilerine verilen ad."
     },
     {
         "SoruID": 3769727,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "HARF ANATOMİSİ VE TERİMLER<br>Loop (İlmik): Sadece iki katlı (two storey) küçük “g” harfinin alt kısmına verilen özel isim."
+        "Aciklama": "HARF ANATOMİSİ VE TERİMLER<br/>Loop (İlmik): Sadece iki katlı (two storey) küçük “g” harfinin alt kısmına verilen özel isim."
     },
     {
         "SoruID": 3769730,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "HARF ANATOMİSİ VE TERİMLER<br>Sholder (Omuz): Küçük harf h, m ve n’nin harflerin omuz gibi görünen kavisli çizgisine verilen ad."
+        "Aciklama": "HARF ANATOMİSİ VE TERİMLER<br/>Sholder (Omuz): Küçük harf h, m ve n’nin harflerin omuz gibi görünen kavisli çizgisine verilen ad."
     },
     {
         "SoruID": 3769731,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Harf Anatomisi/Harfleri Oluşturan Yapılar<br>Kerning: Bir metindeki belli iki karakter arasındaki boşluk ayarı."
+        "Aciklama": "Harf Anatomisi/Harfleri Oluşturan Yapılar<br/>Kerning: Bir metindeki belli iki karakter arasındaki boşluk ayarı."
     },
     {
         "SoruID": 3769732,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAZI KARAKTERİ AİLESİ<br>Bir yazı karakterini oluşturan çizgilerin kalınlığı, yazı karakterinin sayfa üzerindeki ağırlığını belirler."
+        "Aciklama": "YAZI KARAKTERİ AİLESİ<br/>Bir yazı karakterini oluşturan çizgilerin kalınlığı, yazı karakterinin sayfa üzerindeki ağırlığını belirler."
     },
     {
         "SoruID": 3769733,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "YAZI KARAKTERLERİNİ SINIFLANDIRMA<br>Blackletter yazı karakterleri hurufat olarak hazırlanmış ilk kalıp (fount-font) yazı karakterleridir."
+        "Aciklama": "YAZI KARAKTERLERİNİ SINIFLANDIRMA<br/>Blackletter yazı karakterleri hurufat olarak hazırlanmış ilk kalıp (fount-font) yazı karakterleridir."
     },
     {
         "SoruID": 3769801,
@@ -1217,7 +1217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lütfen \"Eski Biçem (Old Style)\" başlıklı yazıyı gözden geçiriniz.<br>İlk Roma biçemi yazı karakterlerinin kaynağı M.S. 2.yy’da yapılan Trajan Sütunu’dur. Buna bağlı olarak Eski Biçem sisteminin kaynağı da mermere kazınmış Trajan büyük harfleridir."
+        "Aciklama": "Lütfen \"Eski Biçem (Old Style)\" başlıklı yazıyı gözden geçiriniz.<br/>İlk Roma biçemi yazı karakterlerinin kaynağı M.S. 2.yy’da yapılan Trajan Sütunu’dur. Buna bağlı olarak Eski Biçem sisteminin kaynağı da mermere kazınmış Trajan büyük harfleridir."
     },
     {
         "SoruID": 3770182,
@@ -1237,7 +1237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lütfen \"Temel Çizgiler\" başlıklı yazıyı gözden geçiriniz.<br>Satır çizgisine tüm harfleri ya da karakter setlerini aynı düzlem üzerinde, bir düzen içerisinde bir araya getiren temel çizgidir (baseline) denilebilir."
+        "Aciklama": "Lütfen \"Temel Çizgiler\" başlıklı yazıyı gözden geçiriniz.<br/>Satır çizgisine tüm harfleri ya da karakter setlerini aynı düzlem üzerinde, bir düzen içerisinde bir araya getiren temel çizgidir (baseline) denilebilir."
     },
     {
         "SoruID": 3770183,
@@ -1257,7 +1257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lütfen \"Temel Çizgiler\" başlıklı yazıyı gözden geçiriniz.<br>Uppercase (Büyük Harf): Yazı karakterlerindeki büyük harflere verilen addır."
+        "Aciklama": "Lütfen \"Temel Çizgiler\" başlıklı yazıyı gözden geçiriniz.<br/>Uppercase (Büyük Harf): Yazı karakterlerindeki büyük harflere verilen addır."
     },
     {
         "SoruID": 3770184,
@@ -1277,7 +1277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lütfen \"HARF ANATOMİSİ VE TERİMLER\" başlıklı yazıyı gözden geçiriniz.<br>Yazı karakterleri oluşturan karakter setleri; büyük harfler, küçük harfler, rakamlar, noktalama işaretleri ve özel işaretler içerir."
+        "Aciklama": "Lütfen \"HARF ANATOMİSİ VE TERİMLER\" başlıklı yazıyı gözden geçiriniz.<br/>Yazı karakterleri oluşturan karakter setleri; büyük harfler, küçük harfler, rakamlar, noktalama işaretleri ve özel işaretler içerir."
     },
     {
         "SoruID": 3770185,
@@ -1297,7 +1297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lütfen \"Harf Anatomisi/Harfleri Oluşturan Yapılar\" başlıklı yazıyı gözden geçiriniz.<br>Leg (Bacak): Bir harfin gövde çizgisinden çıkan ve bir ucu açık olan K, R gibi harflerin taban çizgisine doğru uzanan eğik çizgilerine verilen ad."
+        "Aciklama": "Lütfen \"Harf Anatomisi/Harfleri Oluşturan Yapılar\" başlıklı yazıyı gözden geçiriniz.<br/>Leg (Bacak): Bir harfin gövde çizgisinden çıkan ve bir ucu açık olan K, R gibi harflerin taban çizgisine doğru uzanan eğik çizgilerine verilen ad."
     },
     {
         "SoruID": 3770226,
@@ -1317,7 +1317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lütfen \"Ölçü/Boyut (Punto)\" başlıklı yazıyı gözden geçiriniz.<br>Leading (satır arası): Bir metni oluşturan satırların arasındaki mesafe."
+        "Aciklama": "Lütfen \"Ölçü/Boyut (Punto)\" başlıklı yazıyı gözden geçiriniz.<br/>Leading (satır arası): Bir metni oluşturan satırların arasındaki mesafe."
     },
     {
         "SoruID": 3770227,
@@ -1337,7 +1337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lütfen \"Old Style / Garalde (Eski Biçem/Stil) – 15. ve 16. Yy\" başlıklı yazıyı gözden geçiriniz.<br>Oldstyle (Eski Biçem) yazı karakterleri, Garalde (Eski Biçem) yazı karakterleri olarak da adlandırılır. Eski Biçem (Oldstyle/Garalde) yazı karakteri 15. yy’ın ilk yarısında Fransız Claude Garamond ve Venedikli Aldus Manutius gibi ustalar tarafından tasarlandı.15. yy ve 16. yy İtalya’sında yaratılan az çizgi kontrastı ve Humanist yazı karakterlerine göre daha az eğimli vurgusuyla tırnaklı (serif) yazı karakterlerinin dönemsel olarak üretilen ikinci versiyonudur."
+        "Aciklama": "Lütfen \"Old Style / Garalde (Eski Biçem/Stil) – 15. ve 16. Yy\" başlıklı yazıyı gözden geçiriniz.<br/>Oldstyle (Eski Biçem) yazı karakterleri, Garalde (Eski Biçem) yazı karakterleri olarak da adlandırılır. Eski Biçem (Oldstyle/Garalde) yazı karakteri 15. yy’ın ilk yarısında Fransız Claude Garamond ve Venedikli Aldus Manutius gibi ustalar tarafından tasarlandı.15. yy ve 16. yy İtalya’sında yaratılan az çizgi kontrastı ve Humanist yazı karakterlerine göre daha az eğimli vurgusuyla tırnaklı (serif) yazı karakterlerinin dönemsel olarak üretilen ikinci versiyonudur."
     },
     {
         "SoruID": 3770228,
@@ -1357,7 +1357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lütfen \"Slab Serif (Egyption-Mechanistic) – 19. Yy\" başlıklı yazıyı gözden geçiriniz.<br>Century yazı karakteri, Century Dergisi için 1894 yılında Linn Boyd Benton tarafından tasarlanan ilk büyük Amerikan yazı karakteridir."
+        "Aciklama": "Lütfen \"Slab Serif (Egyption-Mechanistic) – 19. Yy\" başlıklı yazıyı gözden geçiriniz.<br/>Century yazı karakteri, Century Dergisi için 1894 yılında Linn Boyd Benton tarafından tasarlanan ilk büyük Amerikan yazı karakteridir."
     },
     {
         "SoruID": 3770229,
@@ -1377,7 +1377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lütfen \"Transitional / Grotesk / Neo-Grotesk\" başlıklı yazıyı gözden geçiriniz.<br>Helvetica, 1957’de Max Miedinger tarafından tasarlanan dünyanın en yaygın olarak kullanılan Transitional sans serif yazı karakteridir."
+        "Aciklama": "Lütfen \"Transitional / Grotesk / Neo-Grotesk\" başlıklı yazıyı gözden geçiriniz.<br/>Helvetica, 1957’de Max Miedinger tarafından tasarlanan dünyanın en yaygın olarak kullanılan Transitional sans serif yazı karakteridir."
     },
     {
         "SoruID": 3770230,
@@ -1397,7 +1397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Lütfen \"Ağırlık\" başlıklı yazıyı gözden geçiriniz.<br>Bir yazı karakterini oluşturan çizgilerin kalınlığı, yazı karakterinin sayfa üzerindeki ağırlığını belirler."
+        "Aciklama": "Lütfen \"Ağırlık\" başlıklı yazıyı gözden geçiriniz.<br/>Bir yazı karakterini oluşturan çizgilerin kalınlığı, yazı karakterinin sayfa üzerindeki ağırlığını belirler."
     },
     {
         "SoruID": 3770241,

@@ -8,8 +8,7 @@
     - D-) Örüntü
     - E-) Hece
 
-    > **Açıklama:** Dünyada konuşulan yaklaşık 3000 dildeki ses dizgelerini oluşturan seslerin toplam sayısı ortalama kırk civarındadır
-    > ve bunların her birine **sesbirim** denir.
+    > **Açıklama:** Dünyada konuşulan yaklaşık 3000 dildeki ses dizgelerini oluşturan seslerin toplam sayısı ortalama kırk civarındadır<br />ve bunların her birine **sesbirim** denir.
 
     <hr />
 1. Aşağıdakilerden hangisi sözlü kültürün temelini oluşturan sözün asli unsurlarından biri değildir?
@@ -19,10 +18,7 @@
     - D-) Karşılıklı anlayış
     - E-) Dinleme
 
-    > **Açıklama:** Konuşma dilden ve düşünceden daha farklı bir eylemdir. Konuşma anlık gerçekleşir, zaman ve mekân birliği
-    > gerektirir. Aynı zamanda konuşma eylemi karşılıklılık gerektirir, yani aynı zamanda iki kişi olunmasını zorunlu kılar. Anlayış, yaratıcılık, esneklik ve empatiye dayalıdır, çağrışımlarla beslenir. Sözlü kültürde duygu
-    > ve düşünceler, söz üzerinden aktarılır ve söze bu kültürün dayanak noktası olarak işlev yüklenir. Dolayısıyla
-    > sözün asli unsurları; **konuşma, dinleme, empati, karşılıklı anlayış** bu kültürün de temelini oluşturmaktadır.
+    > **Açıklama:** Konuşma dilden ve düşünceden daha farklı bir eylemdir. Konuşma anlık gerçekleşir, zaman ve mekân birliği<br />gerektirir. Aynı zamanda konuşma eylemi karşılıklılık gerektirir, yani aynı zamanda iki kişi olunmasını zorunlu kılar. Anlayış, yaratıcılık, esneklik ve empatiye dayalıdır, çağrışımlarla beslenir. Sözlü kültürde duygu<br />ve düşünceler, söz üzerinden aktarılır ve söze bu kültürün dayanak noktası olarak işlev yüklenir. Dolayısıyla<br />sözün asli unsurları; **konuşma, dinleme, empati, karşılıklı anlayış** bu kültürün de temelini oluşturmaktadır.
 
     <hr />
 1. Aşağıdakilerden hangisi genel yapısı itibarıyla sözlü kültürde öne çıkan özelliklerden biri değildir?
@@ -42,9 +38,7 @@
     - D-) İlk sözlü kültür
     - E-) Sözlü tarih
 
-    > **Açıklama:** Birinci Sözlü Kültürde İletişim
-    > Konuya ilişkin en yetkin kitaplardan birini yazan Walter J. Ong da yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları dönemi **birinci sözlü kültür** olarak tanımlamaktadır. Ong, birinci sözlü kültürün bol tekrara, ezbere dayalı olduğunu, isimlerin çeşitli sıfatlarla nitelendirildiğini, son derece gelenekçi olduğunu, sözü koruma adına yeniliklere karşı
-    > dirençli olduğunu, insan doğasını yansıttığını, güç ve mücadeleci yaşam tarzını övdüğünü belirtmektedir.
+    > **Açıklama:** Birinci Sözlü Kültürde İletişim<br />Konuya ilişkin en yetkin kitaplardan birini yazan Walter J. Ong da yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları dönemi **birinci sözlü kültür** olarak tanımlamaktadır. Ong, birinci sözlü kültürün bol tekrara, ezbere dayalı olduğunu, isimlerin çeşitli sıfatlarla nitelendirildiğini, son derece gelenekçi olduğunu, sözü koruma adına yeniliklere karşı<br />dirençli olduğunu, insan doğasını yansıttığını, güç ve mücadeleci yaşam tarzını övdüğünü belirtmektedir.
 
     <hr />
 1. Okuryazar kültürün insanı, çözümleyici (analitik), ........... ve .............. düşünmektedir.<br />Yukarıdaki cümlede boşluk/boşluklara aşağıdakilerden hangisi getirilmelidir?
@@ -54,8 +48,7 @@
     - **Cevap D-) teleolojik / ilişkisel**
     - E-) etik / pratik
 
-    > **Açıklama:** Okuryazarlar her zaman yargılar ve çözümler; okuryazarlar hep eleştirir ve düzeltir. Okuryazar kültürün
-    > insanı, çözümleyici (analitik), **teleolojik ve ilişkisel** düşünmektedir.
+    > **Açıklama:** Okuryazarlar her zaman yargılar ve çözümler; okuryazarlar hep eleştirir ve düzeltir. Okuryazar kültürün<br />insanı, çözümleyici (analitik), **teleolojik ve ilişkisel** düşünmektedir.
 
     <hr />
 1. 1\. Yazılı iletişim daha geniş bir zamanda gerçekleşir.<br />2\. Yazı, yazılı iletişimde belge niteliği taşır.<br />3\. Kişisel sürtüşmeler yazılı iletişimde daha az olur.<br />4\. sözel iletişimde aktarılan mesaj geri alınamaz.<br />5\. sözel iletişimde yorumlama özgürlüğü daha çoktur.<br />Yazılı iletişim ve sözlü iletişim arasındaki doğru olan farklılıklar yukarıdakilerden hangileridir?
@@ -65,13 +58,7 @@
     - D-) I, III, IV ve V
     - E-) II,III, IV ve V
 
-    > **Açıklama:** Yazı, iletişimi sözel iletişimden farklılaştırmış ve kendi doğasına uygun yeni bir iletişim doğurmuştur. Bu bağlamda yazılı iletişimle sözlü iletişimi karşılaştırdığımızda şöyle **farklılıklar** görülmektedir:
-    > 1\. **Yazılı iletişim sözlü iletişime kıyasla daha geniş bir zamanda gerçekleşir**. Dolayısıyla yazılı iletişimde taraflar daha fazla zamana sahiptir. Bu da anlık iletişim kazalarının yapılma olasılığını düşürmektedir. İletişim eyleminde taraflar mesajın üzerine düşünme, çalışma şansına sahiptirler.
-    > 2\. **Yazı söze kıyasla bilinçleri özgürleştirmiş ve okura farklı bağlamalara ulaşabilme, onlara** **dokunabilme ve yorumlama özgürlüğü tanımıştır. Y****azı, yazılı iletişimde belge niteliği taşır** ve bu yüzden resmî iletişimler için vazgeçilmezdir. Yazı, taraflar için bağlayıcıdır ve tanık özelliğine sahiptir.
-    > 3\. **Kişisel sürtüşmeler yazılı iletişimde sözlü iletişime nazaran daha az olur.** Yazılı iletişimin sözlü iletişime kıyasla daha resmî ve mesafeli bir doğası vardır.
-    > 4\. Yazılı iletişim sözel iletişime kıyasla yanlış anlaşılmanın daha az olduğu bir iletişim türüdür.
-    > 5\. Bilimsel platformlarda yazı, sözden çok daha fazla değerli bulunur ve anlam ihtiva eder. Dolayısıyla akademik değerlendirmelerde genellikle yazılı iletişim sözel iletişime tercih edilir.
-    > 6\. Yazılı iletişimde mesaj alıcıya ulaşmadan önce kaynağın iletiyi düzenleme, değiştirme veya iptal etme şansı bulunmaktadır. Ancak **sözel iletişim anlıktır ve aktarılan mesaj geri alınamaz.**
+    > **Açıklama:** Yazı, iletişimi sözel iletişimden farklılaştırmış ve kendi doğasına uygun yeni bir iletişim doğurmuştur. Bu bağlamda yazılı iletişimle sözlü iletişimi karşılaştırdığımızda şöyle **farklılıklar** görülmektedir:<br />1\. **Yazılı iletişim sözlü iletişime kıyasla daha geniş bir zamanda gerçekleşir**. Dolayısıyla yazılı iletişimde taraflar daha fazla zamana sahiptir. Bu da anlık iletişim kazalarının yapılma olasılığını düşürmektedir. İletişim eyleminde taraflar mesajın üzerine düşünme, çalışma şansına sahiptirler.<br />2\. **Yazı söze kıyasla bilinçleri özgürleştirmiş ve okura farklı bağlamalara ulaşabilme, onlara** **dokunabilme ve yorumlama özgürlüğü tanımıştır. Y****azı, yazılı iletişimde belge niteliği taşır** ve bu yüzden resmî iletişimler için vazgeçilmezdir. Yazı, taraflar için bağlayıcıdır ve tanık özelliğine sahiptir.<br />3\. **Kişisel sürtüşmeler yazılı iletişimde sözlü iletişime nazaran daha az olur.** Yazılı iletişimin sözlü iletişime kıyasla daha resmî ve mesafeli bir doğası vardır.<br />4\. Yazılı iletişim sözel iletişime kıyasla yanlış anlaşılmanın daha az olduğu bir iletişim türüdür.<br />5\. Bilimsel platformlarda yazı, sözden çok daha fazla değerli bulunur ve anlam ihtiva eder. Dolayısıyla akademik değerlendirmelerde genellikle yazılı iletişim sözel iletişime tercih edilir.<br />6\. Yazılı iletişimde mesaj alıcıya ulaşmadan önce kaynağın iletiyi düzenleme, değiştirme veya iptal etme şansı bulunmaktadır. Ancak **sözel iletişim anlıktır ve aktarılan mesaj geri alınamaz.**
 
     <hr />
 1. “Kültürün ve iletişimin temelinde, önce söz vardır.” Bu cümleden yola çıkılarak aşağıdakilerden hangisine ulaşılabilir?<br />I. Söz ile birlikte bireysel duygular toplumsallaşmıştır.<br />II. Söz ile birlikte dilsel gelenek, cisme bürünmüş, kültürden kültüre aktarım sağlanmıştır.<br />III. Söz, var olan geleneği, gün yüzüne çıkarmış ve kuşaktan kuşağa bir paylaşım imkânı sağlamıştır.
@@ -101,8 +88,7 @@
     - D-) Yalnız III
     - E-) I ve III
 
-    > **Açıklama:** Sözün egemen olduğu toplumlarda, sözel gelenekler toplumu eşitleyen, değerin erdemde var olduğunu imleyen bir kollektif birlikteliği pekiştirmekte ve görece daha adil bir yurttaşlığı mümkün kılmaktadır. Sözlü kültürün baskın olduğu toplumlarda kabile şefleri, tebaasının karşılaştığı problemleri çözmek adına yazılı hukuk kuralları olmadığı için belleklerine başvurmuşlar ve buradan çeşitli geleneksel atasözü, masal ve deyiş gibi sözel kaynaklara başvurarak sorunlara çözüm aramışlardır. Adalet, bu toplumlarda bu sözel kaynaklara dayanılarak sağlanırdı. İlkel toplumlarda sözel gelenek toplumsal düzenin devamı adına önemli roller üstlenmektedir.
-    > İlkel toplumlarda yazılı hukuk kuralları olmadığı için belleklerine başvurmuşlardır.
+    > **Açıklama:** Sözün egemen olduğu toplumlarda, sözel gelenekler toplumu eşitleyen, değerin erdemde var olduğunu imleyen bir kollektif birlikteliği pekiştirmekte ve görece daha adil bir yurttaşlığı mümkün kılmaktadır. Sözlü kültürün baskın olduğu toplumlarda kabile şefleri, tebaasının karşılaştığı problemleri çözmek adına yazılı hukuk kuralları olmadığı için belleklerine başvurmuşlar ve buradan çeşitli geleneksel atasözü, masal ve deyiş gibi sözel kaynaklara başvurarak sorunlara çözüm aramışlardır. Adalet, bu toplumlarda bu sözel kaynaklara dayanılarak sağlanırdı. İlkel toplumlarda sözel gelenek toplumsal düzenin devamı adına önemli roller üstlenmektedir.<br />İlkel toplumlarda yazılı hukuk kuralları olmadığı için belleklerine başvurmuşlardır.
 
     <hr />
 1. Aşağıdakilerden hangisi sözlü kültürde öne çıkan özellikler arasında yer almaz?
@@ -112,14 +98,7 @@
     - **Cevap D-) Sözlü kültür moderndir.**
     - E-) Sözel iletişim yarışma biçimini tercih eder
 
-    > **Açıklama:** Genel yapısı itibarıyla sözlü kültürde öne çıkan özellikleri İletişim Tarihi kitabında Baldini şöyle özetlemektedir.
-    > * **Sözlü kültür tutucu ve gelenekseldir:** Sözlü kültür yinelenmediği sürece unutulma riskine karşı yinelenerek korunma duygusunu diri tutmak zorundadır.
-    > * Sözlü kültürde kulak en önemli organdır.
-    > * Sözel iletişim tümce yapısını üstün tutmaktadır: Sözün anlaşılırlığı ve akışı tümce yapılarının tamamlanmış bütüncül bir anlam sunmasıyla söz konusu olur.
-    > * Sözel iletişim aşırıya kaçar: Sözel iletişimde söylenenleri çeşitli amaçlar -bilgi yitimi ya da artık bilgiyi engellemek, sözün gücünü artırmak, anlatımı pekiştirmek gibi- doğrultusunda pek çok kez yinelemeyi gerektirir. Bu da anlatımda aşırıya kaçmak anlamına gelir.
-    > * Sözel iletişim yarışma biçimini tercih eder: Sözel iletişimin kimi zaman atışma, kimi zaman aşağılama, kimi zaman ululama, kimi zaman tartışma gibi deneyimlerden oluşan kültürü, yarışma biçimini betimleyicidir.
-    > * Sözlü kültür taşkın ve katılımlıdır: Sözlü kültür bireyleri, daha sonra kayıtlara erişme olanağından yoksun olduklarından ister istemez daha dikkatli dinleyici ve heyecanlı katılımcılar olmak zorundadırlar.
-    > * Sözlü kültür unutulmaya uygun yapıdadır.
+    > **Açıklama:** Genel yapısı itibarıyla sözlü kültürde öne çıkan özellikleri İletişim Tarihi kitabında Baldini şöyle özetlemektedir.<br />* **Sözlü kültür tutucu ve gelenekseldir:** Sözlü kültür yinelenmediği sürece unutulma riskine karşı yinelenerek korunma duygusunu diri tutmak zorundadır.<br />* Sözlü kültürde kulak en önemli organdır.<br />* Sözel iletişim tümce yapısını üstün tutmaktadır: Sözün anlaşılırlığı ve akışı tümce yapılarının tamamlanmış bütüncül bir anlam sunmasıyla söz konusu olur.<br />* Sözel iletişim aşırıya kaçar: Sözel iletişimde söylenenleri çeşitli amaçlar -bilgi yitimi ya da artık bilgiyi engellemek, sözün gücünü artırmak, anlatımı pekiştirmek gibi- doğrultusunda pek çok kez yinelemeyi gerektirir. Bu da anlatımda aşırıya kaçmak anlamına gelir.<br />* Sözel iletişim yarışma biçimini tercih eder: Sözel iletişimin kimi zaman atışma, kimi zaman aşağılama, kimi zaman ululama, kimi zaman tartışma gibi deneyimlerden oluşan kültürü, yarışma biçimini betimleyicidir.<br />* Sözlü kültür taşkın ve katılımlıdır: Sözlü kültür bireyleri, daha sonra kayıtlara erişme olanağından yoksun olduklarından ister istemez daha dikkatli dinleyici ve heyecanlı katılımcılar olmak zorundadırlar.<br />* Sözlü kültür unutulmaya uygun yapıdadır.
 
     <hr />
 1. “Sözlü ve Yazılı Kültür” kitabının yazarı kimdir?
@@ -179,13 +158,7 @@
     - D-) III ve IV
     - **Cevap E-) II, III ve IV**
 
-    > **Açıklama:** Yazılı iletişim sözlü iletişime kıyasla daha geniş bir zamanda gerçekleşir.
-    > * Yazı, yazılı iletişimde belge niteliği taşır ve bu yüzden resmî iletişimler için vazgeçilmezdir. Yazı, taraflar için bağlayıcıdır ve tanık özelliğine sahiptir.
-    > * Kişisel sürtüşmeler yazılı iletişimde sözlü iletişime nazaran daha az olur.
-    > * Yazılı iletişimin sözlü iletişime kıyasla daha resmî ve mesafeli bir doğası vardır.
-    > * Yazılı iletişim sözel iletişime kıyasla yanlış anlaşılmanın daha az olduğu bir iletişim türüdür.
-    > * Bilimsel platformlarda yazı, sözden çok daha fazla değerli bulunur ve anlam ihtiva eder. Dolayısıyla akademik değerlendirmelerde genellikle yazılı iletişim sözel iletişime tercih edilir.
-    > * Yazılı iletişimde mesaj alıcıya ulaşmadan önce kaynağın iletiyi düzenleme, değiştirme veya iptal etme şansı bulunmaktadır. Ancak sözel iletişim anlıktır ve aktarılan mesaj geri alınamaz.
+    > **Açıklama:** Yazılı iletişim sözlü iletişime kıyasla daha geniş bir zamanda gerçekleşir.<br />* Yazı, yazılı iletişimde belge niteliği taşır ve bu yüzden resmî iletişimler için vazgeçilmezdir. Yazı, taraflar için bağlayıcıdır ve tanık özelliğine sahiptir.<br />* Kişisel sürtüşmeler yazılı iletişimde sözlü iletişime nazaran daha az olur.<br />* Yazılı iletişimin sözlü iletişime kıyasla daha resmî ve mesafeli bir doğası vardır.<br />* Yazılı iletişim sözel iletişime kıyasla yanlış anlaşılmanın daha az olduğu bir iletişim türüdür.<br />* Bilimsel platformlarda yazı, sözden çok daha fazla değerli bulunur ve anlam ihtiva eder. Dolayısıyla akademik değerlendirmelerde genellikle yazılı iletişim sözel iletişime tercih edilir.<br />* Yazılı iletişimde mesaj alıcıya ulaşmadan önce kaynağın iletiyi düzenleme, değiştirme veya iptal etme şansı bulunmaktadır. Ancak sözel iletişim anlıktır ve aktarılan mesaj geri alınamaz.
 
     <hr />
 1. Aşağıdakilerden hangisi bugün anladığımız anlamdaki yazının temelini oluşturur?
@@ -225,8 +198,7 @@
     - D-) Walter Lipman
     - **Cevap E-) Massimo Baldini**
 
-    > **Açıklama:** Genel yapısı itibarıyla sözlü kültürde öne çıkan özellikleri **İletişim Tarihi** kitabında **Baldini** şöyle
-    > özetlemektedir.
+    > **Açıklama:** Genel yapısı itibarıyla sözlü kültürde öne çıkan özellikleri **İletişim Tarihi** kitabında **Baldini** şöyle<br />özetlemektedir.
 
     <hr />
 1. Dünyada konuşulan yaklaşık 3000 dildeki ses dizgelerini oluşturan seslerin toplam sayısı ortalama olarak kaç tanedir?
@@ -236,8 +208,7 @@
     - D-) 50
     - E-) 60
 
-    > **Açıklama:** Bir Kültür Aktarım Aracı Olarak Söz
-    > Dünyada konuşulan yaklaşık 3000 dildeki ses dizgelerini oluşturan seslerin toplam sayısı ortalama kırk civarındadır ve bunların her birine sesbirim denir.
+    > **Açıklama:** Bir Kültür Aktarım Aracı Olarak Söz<br />Dünyada konuşulan yaklaşık 3000 dildeki ses dizgelerini oluşturan seslerin toplam sayısı ortalama kırk civarındadır ve bunların her birine sesbirim denir.
 
     <hr />
 1. Her dilde belli ve sınırlı sayıda bulunan ve söz üretiminde bir dilsel birimi diğerinden farklılaştıran en küçük ayırıcı birimin adı aşağıdakilerden hangisidir?
@@ -247,8 +218,7 @@
     - **Cevap D-) Sesbirim**
     - E-) Kelime
 
-    > **Açıklama:** Bir Kültür Aktarım Aracı Olarak Söz
-    > Her dilde belli ve sınırlı sayıda bulunan sesbirimler söz üretiminde bir dilsel birimi diğerinden farklılaştıran en küçük ayırıcı birim olarak işlev görürler.
+    > **Açıklama:** Bir Kültür Aktarım Aracı Olarak Söz<br />Her dilde belli ve sınırlı sayıda bulunan sesbirimler söz üretiminde bir dilsel birimi diğerinden farklılaştıran en küçük ayırıcı birim olarak işlev görürler.
 
     <hr />
 1. Aşağıdakilerden hangisi “söz” oluşturan üç temel elemandan biridir?
@@ -258,8 +228,7 @@
     - D-) Hece
     - E-) Sesbirim
 
-    > **Açıklama:** Bir Kültür Aktarım Aracı Olarak Söz
-    > Söz, ses, kelimeler ve gramer yapısından oluşur.
+    > **Açıklama:** Bir Kültür Aktarım Aracı Olarak Söz<br />Söz, ses, kelimeler ve gramer yapısından oluşur.
 
     <hr />
 1. Aşağıdakilerden hangisi Baldini’nin (2000) tanımladığı “sözlü kültür” özelliklerinden biri **değildir**?
@@ -269,16 +238,7 @@
     - D-) Sözel iletişim yarışma biçimini tercih eder
     - E-) Sözlü kültür unutulmaya uygun yapıdadır
 
-    > **Açıklama:** Sözlü Kültür ve Sözlü İletişim
-    > Genel yapısı itibarıyla sözlü kültürde öne çıkan özellikleri *İletişim Tarihi* kitabında Baldini şöyle özetlemektedir (Baldini, 2000: 11-17):
-    > * Sözlü kültürde kulak en önemli organdır
-    > * Sözel iletişim tümce yapısını üstün tutmak­tadır
-    > * Sözel iletişim aşırıya kaçar
-    > * Sözel iletişim yarışma biçimini tercih eder
-    > * Sözlü kültür tutucu ve gelenekseldir
-    > * Sözlü kültür taşkın ve katılımlıdır
-    > * Sözlü kültür unutulmaya uygun yapıdadır
-    > * Sözlü kültürde bireyler duruma göre dav­ranırlar.
+    > **Açıklama:** Sözlü Kültür ve Sözlü İletişim<br />Genel yapısı itibarıyla sözlü kültürde öne çıkan özellikleri *İletişim Tarihi* kitabında Baldini şöyle özetlemektedir (Baldini, 2000: 11-17):<br />* Sözlü kültürde kulak en önemli organdır<br />* Sözel iletişim tümce yapısını üstün tutmak­tadır<br />* Sözel iletişim aşırıya kaçar<br />* Sözel iletişim yarışma biçimini tercih eder<br />* Sözlü kültür tutucu ve gelenekseldir<br />* Sözlü kültür taşkın ve katılımlıdır<br />* Sözlü kültür unutulmaya uygun yapıdadır<br />* Sözlü kültürde bireyler duruma göre dav­ranırlar.
 
     <hr />
 1. Yazının tarihî gelişimine bakıldığında, ilk defa hangi yıllarda kullanıldığı tahmin edilmektedir?
@@ -288,8 +248,7 @@
     - **Cevap D-) İ.Ö. 3500’lü yıllar**
     - E-) İ.Ö. 4000’li yıllar
 
-    > **Açıklama:** Bir Görsel İletişim Aracı Olarak Yazı
-    > Yazının tarihî gelişimine baktığımızda, ilk yazının İ Ö 3500’lerde Mezopotamya’da ve Sümerlerce kullanıldığına ilişkin kanıların daha güçlü olduğunu söylemek mümkündür.
+    > **Açıklama:** Bir Görsel İletişim Aracı Olarak Yazı<br />Yazının tarihî gelişimine baktığımızda, ilk yazının İ Ö 3500’lerde Mezopotamya’da ve Sümerlerce kullanıldığına ilişkin kanıların daha güçlü olduğunu söylemek mümkündür.
 
     <hr />
 1. Çinliler kendi yazı yöntemlerini hangi tarihte bulmuşlardır?
@@ -299,8 +258,7 @@
     - D-) İ.Ö. 1800
     - E-) İ.Ö. 1900
 
-    > **Açıklama:** Bir Görsel İletişim Aracı Olarak Yazı
-    > Mısırlılar (İ.Ö. 3000), Hintliler (İ.Ö.2400), Çinliler (İ.Ö. 1500), (Mayalar (İ.S. 50) ve Aztekler (İ.S. 1400) de kendi yazı yöntemlerini bulmuşlardır (Ong, 2003: 105).
+    > **Açıklama:** Bir Görsel İletişim Aracı Olarak Yazı<br />Mısırlılar (İ.Ö. 3000), Hintliler (İ.Ö.2400), Çinliler (İ.Ö. 1500), (Mayalar (İ.S. 50) ve Aztekler (İ.S. 1400) de kendi yazı yöntemlerini bulmuşlardır (Ong, 2003: 105).
 
     <hr />
 1. Mısırlılar kendi yazı yöntemlerini hangi tarihte bulmuşlardır?
@@ -310,8 +268,7 @@
     - D-) İ.Ö. 3100
     - E-) İ.Ö. 3200
 
-    > **Açıklama:** Bir Görsel İletişim Aracı Olarak Yazı
-    > Mısırlılar (İ.Ö. 3000), Hintliler (İ.Ö.2400), Çinliler (İ.Ö. 1500), (Mayalar (İ.S. 50) ve Aztekler (İ.S. 1400) de kendi yazı yöntemlerini bulmuşlardır (Ong, 2003: 105).
+    > **Açıklama:** Bir Görsel İletişim Aracı Olarak Yazı<br />Mısırlılar (İ.Ö. 3000), Hintliler (İ.Ö.2400), Çinliler (İ.Ö. 1500), (Mayalar (İ.S. 50) ve Aztekler (İ.S. 1400) de kendi yazı yöntemlerini bulmuşlardır (Ong, 2003: 105).
 
     <hr />
 1. Matbaa dizgisi­nin ilk haline verilen isim aşağıdakilerden hangisidir?
@@ -321,8 +278,7 @@
     - **Cevap D-) Hurufat**
     - E-) Alt kasa
 
-    > **Açıklama:** Bir Görsel İletişim Aracı Olarak Yazı
-    > Matbaa dizgisi­nin ilk hâli olan hurufat dizgisinde, hurufat kalıp­ları elle dizilip basıldıktan sonra dizilişleri bozulur ve ilerde tekrar kullanılmak üzere yerlerine yerleş­tirilirdi (büyük harfler ya da “üst kasa” harfleri üst bölüme, küçük harfler ya da “alt kasa” harfleri alt bölüme).
+    > **Açıklama:** Bir Görsel İletişim Aracı Olarak Yazı<br />Matbaa dizgisi­nin ilk hâli olan hurufat dizgisinde, hurufat kalıp­ları elle dizilip basıldıktan sonra dizilişleri bozulur ve ilerde tekrar kullanılmak üzere yerlerine yerleş­tirilirdi (büyük harfler ya da “üst kasa” harfleri üst bölüme, küçük harfler ya da “alt kasa” harfleri alt bölüme).
 
     <hr />
 1. Okuryazar bir topluma geçişin ilk örne­ğine işaret eden uygarlık aşağıdakilerden hangisidir?
@@ -332,8 +288,7 @@
     - D-) Pers Uygarlığı
     - E-) Sümer Uygarlığı
 
-    > **Açıklama:** Yazılı Kültür ve Yazılı İletişim
-    > Yunan uygarlığının doğuşu, kelimenin gerçek anlamıyla okuryazar bir topluma geçişin ilk örne­ğine işaret eder.
+    > **Açıklama:** Yazılı Kültür ve Yazılı İletişim<br />Yunan uygarlığının doğuşu, kelimenin gerçek anlamıyla okuryazar bir topluma geçişin ilk örne­ğine işaret eder.
 
     <hr />
 1. Aşağıdakilerden hangisi yazılı iletişimle sözlü iletişim karşılaştırıldığında ortaya çıkan farklılıklardan biri **değildir?**
@@ -343,15 +298,7 @@
     - D-) Yazılı iletişim sözel iletişime kıyasla yanlış anlaşılmanın daha az olduğu bir iletişim türüdür.
     - E-) Bilimsel platformlarda yazı, sözden çok daha fazla değerli bulunur ve anlam ihtiva eder.
 
-    > **Açıklama:** Yazılı Kültür ve Yazılı İletişim
-    > Yazılı iletişimle sözlü iletişimi karşılaştırdığımızda şöyle farklılıklar görülmektedir:
-    > 1\. Yazılı iletişim sözlü iletişime kıyasla daha geniş bir zamanda gerçekleşir.
-    > 2\. Yazı, yazılı iletişimde belge niteliği taşır
-    > 3\. Kişisel sürtüşmeler yazılı iletişimde sözlü iletişime nazaran daha az olur
-    > 4\. Yazılı iletişim sözel iletişime kıyasla yanlış anlaşılmanın daha az olduğu bir iletişim türüdür.
-    > 5\. Bilimsel platformlarda yazı, sözden çok daha fazla değerli bulunur ve anlam ihtiva eder.
-    > 6\. Yazılı iletişimde mesaj alıcıya ulaşmadan önce kaynağın iletiyi düzenleme, değiştirme veya iptal
-    > etme şansı bulunmaktadır.
+    > **Açıklama:** Yazılı Kültür ve Yazılı İletişim<br />Yazılı iletişimle sözlü iletişimi karşılaştırdığımızda şöyle farklılıklar görülmektedir:<br />1\. Yazılı iletişim sözlü iletişime kıyasla daha geniş bir zamanda gerçekleşir.<br />2\. Yazı, yazılı iletişimde belge niteliği taşır<br />3\. Kişisel sürtüşmeler yazılı iletişimde sözlü iletişime nazaran daha az olur<br />4\. Yazılı iletişim sözel iletişime kıyasla yanlış anlaşılmanın daha az olduğu bir iletişim türüdür.<br />5\. Bilimsel platformlarda yazı, sözden çok daha fazla değerli bulunur ve anlam ihtiva eder.<br />6\. Yazılı iletişimde mesaj alıcıya ulaşmadan önce kaynağın iletiyi düzenleme, değiştirme veya iptal<br />etme şansı bulunmaktadır.
 
     <hr />
 1. Kültürü en basit biçimiyle bir toplumun ortak değerleri olarak tanımlarsak eğer bu geleneğin aktarımı ve sonraki kuşaklara iletimi için birtakım araçlara ve aracılara ihtiyaç vardır. Bu araçların ilki aşağıdakilerden hangisidir?
@@ -361,8 +308,7 @@
     - D-) Yazı
     - E-) Alfabe
 
-    > **Açıklama:** Kültürü en basit biçimiyle bir toplumun ortak değerleri olarak tanımlarsak eğer bu geleneğin aktarımı
-    > ve sonraki kuşaklara iletimi için birtakım araçlara ve aracılara ihtiyaç vardır. Bu araçların ilki **söz**dür.
+    > **Açıklama:** Kültürü en basit biçimiyle bir toplumun ortak değerleri olarak tanımlarsak eğer bu geleneğin aktarımı<br />ve sonraki kuşaklara iletimi için birtakım araçlara ve aracılara ihtiyaç vardır. Bu araçların ilki **söz**dür.
 
     <hr />
 1. İnsanın doğaya egemenliğinin önemli ilk evresi olarak nitelendirilen kavram aşağıdakilerden hangisidir?
@@ -392,8 +338,7 @@
     - D-) Anlayış
     - **Cevap E-) Sempati**
 
-    > **Açıklama:** Sözlü kültürde duygu ve düşünceler, söz üzerinden aktarılır ve söze bu kültürün dayanak noktası olarak işlev yüklenir. Dolayısıyla **sözün asli unsurları; konuşma, dinleme, empati, karşılıklı anlayış** bu kültürün de temelini oluşturmaktadır.
-    > Sempati
+    > **Açıklama:** Sözlü kültürde duygu ve düşünceler, söz üzerinden aktarılır ve söze bu kültürün dayanak noktası olarak işlev yüklenir. Dolayısıyla **sözün asli unsurları; konuşma, dinleme, empati, karşılıklı anlayış** bu kültürün de temelini oluşturmaktadır.<br />Sempati
 
     <hr />
 1. Aşağıdakilerden hangisi sözlü kültürün ürünlerinden **değildir?**
@@ -403,8 +348,7 @@
     - D-) Atasözü
     - E-) Masal
 
-    > **Açıklama:** Halk edebiyatını oluşturan **bilmece, atasözleri, deyişler sözlü kültürün ürünüdür** ve toplumsal ilişkilerin çözümlenmesinde önemli roller yüklenmişlerdir. Sözlü kültürde **atasözü, masal ve deyişler** âdeta toplumların yazılı olmayan kanunları gibi işlev yüklenmekte, düşünceleri ve düzeni oluşturmaktadır.
-    > Makale
+    > **Açıklama:** Halk edebiyatını oluşturan **bilmece, atasözleri, deyişler sözlü kültürün ürünüdür** ve toplumsal ilişkilerin çözümlenmesinde önemli roller yüklenmişlerdir. Sözlü kültürde **atasözü, masal ve deyişler** âdeta toplumların yazılı olmayan kanunları gibi işlev yüklenmekte, düşünceleri ve düzeni oluşturmaktadır.<br />Makale
 
     <hr />
 1. Sözlü iletişimde sözün oluşabilmesi için, ses dalgasının seyahat edeceği havanın yanında, insanda bazı sistem organların olması gerekir. Aşağıdakilerden hangisi bu sistemlerden **değildir?**
@@ -414,9 +358,7 @@
     - D-) Akciğer
     - **Cevap E-) Göz**
 
-    > **Açıklama:** Sözlü iletişimde sözün oluşabilmesi için, ses dalgasının seyahat edeceği havanın yanında, insanda
-    > ses yapabilecek (**akciğerler, ses telleri, ağız ve dil** vb.) ve sesi duyabilecek (**kulak sistemi** ve altıncı sinirin) sistemin olması gerekir.
-    > Göz
+    > **Açıklama:** Sözlü iletişimde sözün oluşabilmesi için, ses dalgasının seyahat edeceği havanın yanında, insanda<br />ses yapabilecek (**akciğerler, ses telleri, ağız ve dil** vb.) ve sesi duyabilecek (**kulak sistemi** ve altıncı sinirin) sistemin olması gerekir.<br />Göz
 
     <hr />
 1. Walter J. Ong yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları dönemi ***Birinci Sözlü Kültür*** olarak tanımlamaktadır. Aşağıdakilerden hangisi ***Birinci Sözlü Kültür’ün*** özelliklerindendir?
@@ -426,8 +368,7 @@
     - D-) Bilge kişi ile halk arasında eşitlik yok
     - E-) İnsan doğasını yansıtmaz
 
-    > **Açıklama:** Walter J. Ong da yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları dönemi birinci sözlü kültür olarak tanımlamaktadır. Ong, birinci sözlü kültürün **bol tekrara, ezbere dayalı olduğunu,** isimlerin çeşitli sıfatlarla nitelendirildiğini, son derece **gelenekçi olduğunu**, sözü koruma adına yeniliklere karşı dirençli olduğunu, insan doğasını yansıttığını, güç ve mücadeleci yaşam tarzını övdüğünü belirtmektedir. Birinci sözlü kültürde **bilge kişi ile sıradan halk arasında bir duygudaşlık ve eşitlik söz konusu**dur, toplumsal hiyerarşiler henüz netleşmemiştir ve katılımcılar arasında mesafe yoktur.
-    > Ezbere dayalı olması
+    > **Açıklama:** Walter J. Ong da yazının henüz bulunmadığı, insanların sadece söz üzerinden iletişim kurdukları dönemi birinci sözlü kültür olarak tanımlamaktadır. Ong, birinci sözlü kültürün **bol tekrara, ezbere dayalı olduğunu,** isimlerin çeşitli sıfatlarla nitelendirildiğini, son derece **gelenekçi olduğunu**, sözü koruma adına yeniliklere karşı dirençli olduğunu, insan doğasını yansıttığını, güç ve mücadeleci yaşam tarzını övdüğünü belirtmektedir. Birinci sözlü kültürde **bilge kişi ile sıradan halk arasında bir duygudaşlık ve eşitlik söz konusu**dur, toplumsal hiyerarşiler henüz netleşmemiştir ve katılımcılar arasında mesafe yoktur.<br />Ezbere dayalı olması
 
     <hr />
 1. Aşağıdakilerden hangisiyle sözlü kültürün dogmatik doğası kırıma uğramıştır?
@@ -437,8 +378,7 @@
     - D-) Görsel kültürün gelişimi
     - E-) Resim yazıların gelişimi
 
-    > **Açıklama:** Yazılı kültürle birlikte, aydın kesim yazı üzerinden geçimini sağlamaya başlamış ve yazının imkânını keşfeden toplumda da **sözlü kültürün dogmatik doğası kırıma uğramıştı**r. Yeni fikirler, özgür düşünceler **matbaayla birlikte** popülerleşmiş ve yazı sözün ulaşamadığı noktalarda kendi gücünü topluma dayatmıştır.
-    > Matbaanın bulunması
+    > **Açıklama:** Yazılı kültürle birlikte, aydın kesim yazı üzerinden geçimini sağlamaya başlamış ve yazının imkânını keşfeden toplumda da **sözlü kültürün dogmatik doğası kırıma uğramıştı**r. Yeni fikirler, özgür düşünceler **matbaayla birlikte** popülerleşmiş ve yazı sözün ulaşamadığı noktalarda kendi gücünü topluma dayatmıştır.<br />Matbaanın bulunması
 
     <hr />
 1. Yazının matbaanın bulunmasıyla basılarak çoğaltılmasıyla toplumsal bazı gelişmeler gözlemlenmiştir. Aşağıdakilerden hangisi bu gelişmelerden **değildir?**
@@ -448,8 +388,7 @@
     - **Cevap D-) Bürokratik sistemler çökmüştür.**
     - E-) Bireysel özgürlükte güven artmıştır.
 
-    > **Açıklama:** Matbaa, zamanla düşünme ve anlatım biçimine hükmetmekten bir türlü vazgeçmeyen işitsel üstünlüğün yerine, yazının başlattığı ama tek başına yeterince destekleyemediği görsel üstünlüğü geçirmiştir. Baskı, yazının hiçbir zaman yapamayacağı kadar amansızca yerleştirir kelimeleri mekâna...sayfa 13 bkz. ve okuyunuz.
-    > Bürokratik sistemler çökmüştür.
+    > **Açıklama:** Matbaa, zamanla düşünme ve anlatım biçimine hükmetmekten bir türlü vazgeçmeyen işitsel üstünlüğün yerine, yazının başlattığı ama tek başına yeterince destekleyemediği görsel üstünlüğü geçirmiştir. Baskı, yazının hiçbir zaman yapamayacağı kadar amansızca yerleştirir kelimeleri mekâna...sayfa 13 bkz. ve okuyunuz.<br />Bürokratik sistemler çökmüştür.
 
     <hr />
 1. Aşağıdakilerden hangisi yazılı iletişimle sözlü iletişimi karşılaştırdığımızda, farklılıklardan **değildir?**
@@ -459,10 +398,7 @@
     - D-) Akademik değerlendirmelerde genellikle yazılı iletişim sözel iletişime tercih edilir.
     - E-) Kişisel sürtüşmeler yazılı iletişimde sözlü iletişime nazaran daha az olur.
 
-    > **Açıklama:** Yazı, iletişimi sözel iletişimden farklılaştırmış ve kendi doğasına uygun yeni bir iletişim doğurmuştur.
-    > Bu bağlamda yazılı iletişimle sözlü iletişimi karşılaştırdığımızda şöyle farklılıklar görülmektedir:
-    > 1\. Yazılı iletişim sözlü iletişime kıyasla daha **geniş bir zamanda** gerçekleşir... Sayfa 20 bkz. ve okuyunuz.
-    > Yazılı iletişim sözlü iletişime kıyasla daha dar bir zamanda gerçekleşir.
+    > **Açıklama:** Yazı, iletişimi sözel iletişimden farklılaştırmış ve kendi doğasına uygun yeni bir iletişim doğurmuştur.<br />Bu bağlamda yazılı iletişimle sözlü iletişimi karşılaştırdığımızda şöyle farklılıklar görülmektedir:<br />1\. Yazılı iletişim sözlü iletişime kıyasla daha **geniş bir zamanda** gerçekleşir... Sayfa 20 bkz. ve okuyunuz.<br />Yazılı iletişim sözlü iletişime kıyasla daha dar bir zamanda gerçekleşir.
 
     <hr />
 ## Unite 2
@@ -523,8 +459,7 @@
     - D-) Balver Mağarası
     - E-) Chauvet Mağarası
 
-    > **Açıklama:** nsanoğlunun Kendini İfade Etme Çabası İmgeler ile Hayat Buluyor
-    > Lascaux Mağarası
+    > **Açıklama:** nsanoğlunun Kendini İfade Etme Çabası İmgeler ile Hayat Buluyor<br />Lascaux Mağarası
 
     <hr />
 1. İnsanoğlunun imgeler ile yaşadıklarını anlamlandırma, temsil etme ve aktarma ihtiyacı yaklaşık olarak, kaç yıllara tarihlendirilmektedir?
@@ -534,8 +469,7 @@
     - **Cevap D-) MÖ 15 binli yıllar**
     - E-) MÖ 16 binli yıllar
 
-    > **Açıklama:** İnsanoğlunun Kendini İfade Etme Çabası İmgeler ile Hayat Buluyor
-    > MÖ 15 binli yıllar
+    > **Açıklama:** İnsanoğlunun Kendini İfade Etme Çabası İmgeler ile Hayat Buluyor<br />MÖ 15 binli yıllar
 
     <hr />
 1. UNESCO Dünya Mirası listesinde olan antik Göbekli Tepe yerleşkesi hangi ilimiz sınırları içindedir?
@@ -545,8 +479,7 @@
     - D-) Kahramanmaraş
     - E-) Gaziantep
 
-    > **Açıklama:** İnsanoğlunun Kendini İfade Etme Çabası İmgeler ile Hayat Buluyor
-    > Şanlıurfa
+    > **Açıklama:** İnsanoğlunun Kendini İfade Etme Çabası İmgeler ile Hayat Buluyor<br />Şanlıurfa
 
     <hr />
 1. Mezopotamya bölgesinde bulunan zengin uygarlık ve inanç çeşitliliği, imgesel anlatıların da aynı şekilde çeşitliliğine neden olmuştur. Bunun nedeni nedir?
@@ -556,8 +489,7 @@
     - D-) Hammurabi kanunları
     - **Cevap E-) Avcı-toplayıcılıktan yerleşik hayata geçiş aşamasında, coğrafi olarak merkez olmasıdır**
 
-    > **Açıklama:** Topraktan Doğan İmgeler
-    > Avcı-toplayıcılıktan yerleşik hayata geçiş aşamasında, coğrafi olarak merkez olmasıdır
+    > **Açıklama:** Topraktan Doğan İmgeler<br />Avcı-toplayıcılıktan yerleşik hayata geçiş aşamasında, coğrafi olarak merkez olmasıdır
 
     <hr />
 1. İlk kez 1830 yılında açılan, yüksek sanat eserlerinin sergilendiği ilk mekân olması özelliği taşıyan Altes Müzesi hangi şehirdedir?
@@ -567,8 +499,7 @@
     - D-) Viyana
     - **Cevap E-) Berlin**
 
-    > **Açıklama:** İşlev ve İncelmiş Zevkler Bağlamında Zanaatkârın Değişen Rolü
-    > Berlin
+    > **Açıklama:** İşlev ve İncelmiş Zevkler Bağlamında Zanaatkârın Değişen Rolü<br />Berlin
 
     <hr />
 1. Uygun teknoloji ve malzeme kullanarak problem teşkil eden süreçlere çözüm getiren ve süreçleri düzenleyen kişi olarak tanımlanan, tasarımcı sınıfının doğuşu kaç tarihidir?
@@ -578,8 +509,7 @@
     - D-) 1780
     - E-) 1790
 
-    > **Açıklama:** Endüstri Devrimi ve Tasarımcının Doğuşu
-    > 1760
+    > **Açıklama:** Endüstri Devrimi ve Tasarımcının Doğuşu<br />1760
 
     <hr />
 1. İmgeleri kayıt altına alıp saklayabilen ilk ticari ışığa duyarlı fotoğraf filmini icat eden kimdir?
@@ -589,8 +519,7 @@
     - D-) John Hersche
     - E-) William Fox Talbot
 
-    > **Açıklama:** Anı Donduran Teknoloji ve Sonrası
-    > George Eastman
+    > **Açıklama:** Anı Donduran Teknoloji ve Sonrası<br />George Eastman
 
     <hr />
 1. Sözcük anlamı, Yunanca uzak anlamındaki "tele" ve Latince görmek anlamındaki "visio" sözcüklerinden türetilmiş olan televizyon kim tarafından icat edilmiştir?
@@ -600,8 +529,7 @@
     - **Cevap D-) John Logie Baird**
     - E-) Vladimir Zworykin
 
-    > **Açıklama:** Büyülü Eğlence Kutusundaki İmgeler
-    > John Logie Baird
+    > **Açıklama:** Büyülü Eğlence Kutusundaki İmgeler<br />John Logie Baird
 
     <hr />
 1. Bir avatarla temsil edilen kullanıcıların alışveriş yapabileceği, sosyalleşebileceği, boş zaman etkinliklerine katılabileceği sanal bir dünyayı ifade eden seçenek hangisidir?
@@ -611,8 +539,7 @@
     - D-) Arttırılmış gerçeklik
     - E-) İnstagram
 
-    > **Açıklama:** Hiç Kapanma(yan)yacak Yayın
-    > Metaverse
+    > **Açıklama:** Hiç Kapanma(yan)yacak Yayın<br />Metaverse
 
     <hr />
 1. “VR” kısaltmasıyla ifade edilen bilgisayar teknolojisi aşağıdaki seçeneklerden hangisidir?
@@ -622,8 +549,7 @@
     - D-) Arttırılmış gerçeklik
     - E-) İnstagram
 
-    > **Açıklama:** Hiç Kapanma(yan)yacak Yayın
-    > Sanal gerçeklik
+    > **Açıklama:** Hiç Kapanma(yan)yacak Yayın<br />Sanal gerçeklik
 
     <hr />
 1. "... işini iyi yapmanın uygulama biçimi; yani icranın metodolojisidir".<br />**Yukarıdaki boş bırakılan bölüme aşağıdaki kavramlardan hangisi gelmelidir?**
@@ -683,8 +609,7 @@
     - **Cevap D-) İmge**
     - E-) Çizim
 
-    > **Açıklama:** TAŞLARDAN MAĞARA DUVARLARINA İMGE
-    > İmge: “Bir tasarımı canlandıran resimsel grafik öğeleri ifade eder. Bir sayfanın ana odağı veya bir yan öğe olarak olsun, imgeler bir mesajın iletilmesinde önemli bir rol oynar ve görsel hissinin oluşturulmasında işin önemli bir parçasıdır”.
+    > **Açıklama:** TAŞLARDAN MAĞARA DUVARLARINA İMGE<br />İmge: “Bir tasarımı canlandıran resimsel grafik öğeleri ifade eder. Bir sayfanın ana odağı veya bir yan öğe olarak olsun, imgeler bir mesajın iletilmesinde önemli bir rol oynar ve görsel hissinin oluşturulmasında işin önemli bir parçasıdır”.
 
     <hr />
 1. I. İmgeler duygusal, kültürel ve olgusal farklı anlamlar barındırırlar.<br />II. İmge bilişsel ve gösteren olmak üzere iki türlü işlev görür.<br />III. İmgeler yazılı metinler kadar kuvvetli bir anlatıma sahip değildir.<br />IV. İmgede bilişsel anlam görünenden öte temsil edilen ikinci anlatıyı içerir.<br />İmge ile ilgili yukarıda verilen bilgilerden hangileri doğrudur?
@@ -694,9 +619,7 @@
     - D-) I ve III
     - E-) II ve IV
 
-    > **Açıklama:** TAŞLARDAN MAĞARA DUVARLARINA İMGE
-    > İmgeler, temel olarak yaşanılanlara dair iletilmek istenilen anlatıyı taşıyan ve aktaran, fonksiyonel birer görsel unsur olmaktan, yazılı metinlerde sunulan argümanları desteklemeye ve/veya görsel tasarım veya metin dâhilinde görsel bir mola boşluk alanı yaratmaya kadar çoklu işlev görme özelliğine sahiptir. İmgeler çok kuvvetlidir çünkü yazılı anlatım ile yüzlerce, belki binlerce kelime ile ifade edebileceğiniz bir iddiayı, tek bir imge ile aktarmak ve yüksek etki, geri dönüş almak mümkündür.
-    > İmgeler yapısal olarak anlatıyı taşımanın yanı sıra, duygusal, kültürel ve olgusal farklı anlamları da barındırırlar. Ambrose ve Harris (2013, s. 94), imgelerin nasıl sunulduklarının, nasıl anlaşıldıklarına da etki ettiğini, bu bağlamda bir imgenin bilişsel ve gösteren olmak üzere iki türlü işlev görebildiğini ifade eder. İmge bilişsel anlam veya gösteren anlamdan birini veya ikisini birden kapsıyor olabilir. Bilişsel anlam imgenin ifade ettiği, bizim algıladığımız, öğrendiğimiz ve akıl yürüttüğümüz ilk içeriği temsil ederken, gösteren anlam ise yan anlam olarak çalışır. Yani imgede görünenden öte temsil edilen ikinci anlatıyı ve anlamı içermektedir.
+    > **Açıklama:** TAŞLARDAN MAĞARA DUVARLARINA İMGE<br />İmgeler, temel olarak yaşanılanlara dair iletilmek istenilen anlatıyı taşıyan ve aktaran, fonksiyonel birer görsel unsur olmaktan, yazılı metinlerde sunulan argümanları desteklemeye ve/veya görsel tasarım veya metin dâhilinde görsel bir mola boşluk alanı yaratmaya kadar çoklu işlev görme özelliğine sahiptir. İmgeler çok kuvvetlidir çünkü yazılı anlatım ile yüzlerce, belki binlerce kelime ile ifade edebileceğiniz bir iddiayı, tek bir imge ile aktarmak ve yüksek etki, geri dönüş almak mümkündür.<br />İmgeler yapısal olarak anlatıyı taşımanın yanı sıra, duygusal, kültürel ve olgusal farklı anlamları da barındırırlar. Ambrose ve Harris (2013, s. 94), imgelerin nasıl sunulduklarının, nasıl anlaşıldıklarına da etki ettiğini, bu bağlamda bir imgenin bilişsel ve gösteren olmak üzere iki türlü işlev görebildiğini ifade eder. İmge bilişsel anlam veya gösteren anlamdan birini veya ikisini birden kapsıyor olabilir. Bilişsel anlam imgenin ifade ettiği, bizim algıladığımız, öğrendiğimiz ve akıl yürüttüğümüz ilk içeriği temsil ederken, gösteren anlam ise yan anlam olarak çalışır. Yani imgede görünenden öte temsil edilen ikinci anlatıyı ve anlamı içermektedir.
 
     <hr />
 1. En eski görsel iletişim imgesi olarak kayda geçen tarihi bulgular hangi ülkede yer almaktadır?
@@ -706,8 +629,7 @@
     - D-) Mısır
     - **Cevap E-) Türkiye**
 
-    > **Açıklama:** TAŞLARDAN MAĞARA DUVARLARINA İMGE
-    > İnsanoğlunun imgeler ile yaşadıklarını anlamlandırma, temsil etme ve aktarma ihtiyacı şimdiye kadar bilinen tarih ile yaklaşık olarak MÖ 15 binli yıllara dayanır. Bu tarihsel referans ile bulgulanan en eski çizimler, Fransa’nın güneybatısındaki Dordogne ilindeki Montignac köyü yakınlarında bulunan Lascaux Mağarası’nda yer almaktadır. Şimdiye kadar, Lascoux Mağarası’nda yer alan bu çizimler, atalarımızdan bize miras kalan ilk görsel iletişim örnekleri olarak biliniyordu. **Ancak Türkiye Şanlıurfa’da keşfi gerçekleştirilen Göbeklitepe Antik Yerleşkesiyle birlikte, şimdiye kadar bilinen insanlık tarihi ve bilinen ilk görsel iletişim imgelerinin temsillerinin adresi de Lascoux Mağara’sından Göbeklitepe’nin antik sütunlarına kaymış oldu.**
+    > **Açıklama:** TAŞLARDAN MAĞARA DUVARLARINA İMGE<br />İnsanoğlunun imgeler ile yaşadıklarını anlamlandırma, temsil etme ve aktarma ihtiyacı şimdiye kadar bilinen tarih ile yaklaşık olarak MÖ 15 binli yıllara dayanır. Bu tarihsel referans ile bulgulanan en eski çizimler, Fransa’nın güneybatısındaki Dordogne ilindeki Montignac köyü yakınlarında bulunan Lascaux Mağarası’nda yer almaktadır. Şimdiye kadar, Lascoux Mağarası’nda yer alan bu çizimler, atalarımızdan bize miras kalan ilk görsel iletişim örnekleri olarak biliniyordu. **Ancak Türkiye Şanlıurfa’da keşfi gerçekleştirilen Göbeklitepe Antik Yerleşkesiyle birlikte, şimdiye kadar bilinen insanlık tarihi ve bilinen ilk görsel iletişim imgelerinin temsillerinin adresi de Lascoux Mağara’sından Göbeklitepe’nin antik sütunlarına kaymış oldu.**
 
     <hr />
 1. İnsanoğlunun imgeler ile yaşadıklarını anlamlandırma, temsil etme ve aktarma ihtiyacı hangi tarihe dayanmaktadır?
@@ -717,8 +639,7 @@
     - D-) MÖ 4 bin
     - E-) MÖ 8 bin
 
-    > **Açıklama:** TAŞLARDAN MAĞARA DUVARLARINA İMGE
-    > İnsanoğlunun imgeler ile yaşadıklarını anlamlandırma, temsil etme ve aktarma ihtiyacı şimdiye kadar bilinen tarih ile yaklaşık olarak MÖ 15 binli yıllara dayanır.
+    > **Açıklama:** TAŞLARDAN MAĞARA DUVARLARINA İMGE<br />İnsanoğlunun imgeler ile yaşadıklarını anlamlandırma, temsil etme ve aktarma ihtiyacı şimdiye kadar bilinen tarih ile yaklaşık olarak MÖ 15 binli yıllara dayanır.
 
     <hr />
 1. Mağara duvarlarından tuvallere geçiş dönemine ilişkin verilen bilgilerden hangisi **yanlıştır**?
@@ -728,8 +649,7 @@
     - **Cevap D-) Günümüz kâğıdının ilk formu olan papirüs Çin'de icat edilmiştir.**
     - E-) Papirüsün icadı ile imgesel ifadenin nasıl dönüştüğü ve mecranın teknik özelliklerinin avantajları anlatılmıştır.
 
-    > **Açıklama:** MAĞARA DUVARLARINDAN TUVALLERE GEÇİŞ
-    > Mısır’da icat edilen ve günümüz kâğıdının ilk formu olan papirüs, özellikle Mısır başta olmak üzere dönemin anlatısının temel mecrasını oluşturmaktadır. Daha sonra papirüs, Çin kültür ve bilgisinin marifeti ile bugün bildiğimiz kâğıda doğru dönüşecektir.
+    > **Açıklama:** MAĞARA DUVARLARINDAN TUVALLERE GEÇİŞ<br />Mısır’da icat edilen ve günümüz kâğıdının ilk formu olan papirüs, özellikle Mısır başta olmak üzere dönemin anlatısının temel mecrasını oluşturmaktadır. Daha sonra papirüs, Çin kültür ve bilgisinin marifeti ile bugün bildiğimiz kâğıda doğru dönüşecektir.
 
     <hr />
 1. Avrupa sanat tarihindeki türünün ilk örneği olan, 1830 yılında açılan şu an UNESCO Dünya Mirası listesinde yer alan müze aşağıdakilerden hangisidir?
@@ -739,8 +659,7 @@
     - D-) Ludwig Müzesi
     - E-) Neues *Müzesi*
 
-    > **Açıklama:** MAĞARA DUVARLARINDAN TUVALLERE GEÇİŞ
-    > İmgelerin bu tutsaklığı, ilk kez 1830 yılında açılan Berlin’deki Altes Müzesinin varlığı ile son bulur. Şu an UNESCO Dünya Mirası listesinde yer alan müze, niteliği yüksek sanat eserlerinin dileyen herkes tarafından açık şekilde görülebileceği, Avrupa sanat tarihindeki türünün ilk örneğidir.
+    > **Açıklama:** MAĞARA DUVARLARINDAN TUVALLERE GEÇİŞ<br />İmgelerin bu tutsaklığı, ilk kez 1830 yılında açılan Berlin’deki Altes Müzesinin varlığı ile son bulur. Şu an UNESCO Dünya Mirası listesinde yer alan müze, niteliği yüksek sanat eserlerinin dileyen herkes tarafından açık şekilde görülebileceği, Avrupa sanat tarihindeki türünün ilk örneğidir.
 
     <hr />
 1. Endüstriyel devrim sürecinin 2.basamağı aşağıdakilerden hangisidir?
@@ -750,8 +669,7 @@
     - D-) Siber Fiziksel Sistemler
     - E-) Dijital Evrim
 
-    > **Açıklama:** TUVALLERDEN DİJİTAL EKRANLARA VE ÖTESİNE
-    > Seri Üretim, Elektrik Gücü
+    > **Açıklama:** TUVALLERDEN DİJİTAL EKRANLARA VE ÖTESİNE<br />Seri Üretim, Elektrik Gücü
 
     <hr />
 1. İmgeleri kayıt altına alıp saklayabilen ilk ticari ışığa duyarlı fotoğraf filmini icat eden kimdir?
@@ -761,8 +679,7 @@
     - **Cevap D-) George Eastman**
     - E-) Refik Anadol
 
-    > **Açıklama:** TUVALLERDEN DİJİTAL EKRANLARA VE ÖTESİNE
-    > George Eastman imgeleri kayıt altına alıp saklayabilen ilk ticari ışığa duyarlı fotoğraf filmini icat eder. Bu filmi rulo hâline getirir ve adını “Kodak” koyduğu, bahsi geçen ilk basit fotoğraf makinesi mekanizmasına 1888 yılında yerleştirir.
+    > **Açıklama:** TUVALLERDEN DİJİTAL EKRANLARA VE ÖTESİNE<br />George Eastman imgeleri kayıt altına alıp saklayabilen ilk ticari ışığa duyarlı fotoğraf filmini icat eder. Bu filmi rulo hâline getirir ve adını “Kodak” koyduğu, bahsi geçen ilk basit fotoğraf makinesi mekanizmasına 1888 yılında yerleştirir.
 
     <hr />
 1. Işığa duyarlı fotoğraf filmini icat eden kişi kimdir?
@@ -772,8 +689,7 @@
     - **Cevap D-) George Eastman**
     - E-) Guglielmo Marconi
 
-    > **Açıklama:** TUVALLERDEN DİJİTAL EKRANLARA VE ÖTESİNE
-    > George Eastman imgeleri kayıt altına alıp saklayabilen ışığa duyarlı fotoğraf filmini icat eder. Bu filmi rulo hâline getirir ve adını “Kodak” koyduğu, bahsi geçen ilk basit fotoğraf makinesi mekanizmasına 1888 yılında yerleştirir.
+    > **Açıklama:** TUVALLERDEN DİJİTAL EKRANLARA VE ÖTESİNE<br />George Eastman imgeleri kayıt altına alıp saklayabilen ışığa duyarlı fotoğraf filmini icat eder. Bu filmi rulo hâline getirir ve adını “Kodak” koyduğu, bahsi geçen ilk basit fotoğraf makinesi mekanizmasına 1888 yılında yerleştirir.
 
     <hr />
 1. Televizyon 1923 yılında icat edilmesine rağmen 1950’li yıllarda yeni bir kitle iletişim aracı olarak ortaya çıkmasının nedeni aşağıdakilerden hangisidir?
@@ -783,8 +699,7 @@
     - D-) Üretim zorlukları
     - E-) Yeterli beğeniye kazanamaması
 
-    > **Açıklama:** TUVALLERDEN DİJİTAL EKRANLARA VE ÖTESİNE
-    > Nihayet 1923 yılına gelindiğindeyse, John Logie Baird tarafından İngiltere’de icat edilen televizyon, aygıt olarak ilk görüntüsünü yine Baird’in çabaları ile 1926 yılında gösterir hâle gelir (Stoyles & Pentland, 2019). Ancak televizyon, 1900’lü yılların başından 1950’lere gelene kadar insanoğlunun yaşadığı iki büyük dünya savaşı ve yıkım nedeniyle ancak 1950’li yıllarda yeni bir kitle iletişim aracı olarak ortaya çıkabilir.
+    > **Açıklama:** TUVALLERDEN DİJİTAL EKRANLARA VE ÖTESİNE<br />Nihayet 1923 yılına gelindiğindeyse, John Logie Baird tarafından İngiltere’de icat edilen televizyon, aygıt olarak ilk görüntüsünü yine Baird’in çabaları ile 1926 yılında gösterir hâle gelir (Stoyles & Pentland, 2019). Ancak televizyon, 1900’lü yılların başından 1950’lere gelene kadar insanoğlunun yaşadığı iki büyük dünya savaşı ve yıkım nedeniyle ancak 1950’li yıllarda yeni bir kitle iletişim aracı olarak ortaya çıkabilir.
 
     <hr />
 1. Aşağıdakilerden hangisi bir imgenin **"gösteren anlamı"** kapsamında değerlendirilebilecek bir özelliktir?
@@ -864,8 +779,7 @@
     - D-) İşitsel iletişim yöntemleri, görsel anlatılardan daha uzun ömürlüdür.
     - E-) Görsel imgeler, tarihsel belge niteliği taşıyamaz çünkü yoruma açıktır.
 
-    > **Açıklama:** Yeni A şıkkı, doğrudan senin verdiğin metindeki şu ifadeye dayanmaktadır:
-    > “İnsan oluşturduğu izler sayesinde akıp giden zamana kendince kayıtlar düşmeye çalışır... Görsel iletişim ve göstergeler bu izler için önemli bir araçtır...”
+    > **Açıklama:** Yeni A şıkkı, doğrudan senin verdiğin metindeki şu ifadeye dayanmaktadır:<br />“İnsan oluşturduğu izler sayesinde akıp giden zamana kendince kayıtlar düşmeye çalışır... Görsel iletişim ve göstergeler bu izler için önemli bir araçtır...”
 
     <hr />
 1. Dijital medya ve sosyal ağların gelişimiyle birlikte kullanıcı deneyimi nasıl bir değişim geçirmiştir?
@@ -896,8 +810,7 @@
     - D-) Anlamlandırma
     - E-) Yanıt
 
-    > **Açıklama:** Algı süreci; herhangi yeni tanımsız bir uyaranın, tanımlanan ve kişiselleştirilen bir bilgi ve deneyime dönüştürülmesi sırasında, tıpkı beş duyu organımızla otomatikleşmiş bir refleks olarak duyumsadığımız süreç gibi çok hızlı gelişen bir yapıdır. Her ne kadar refleksvari bir hız ve içselleştirme ile oluşsa da altı farklı aşama ile tanımlanabilecek, bir dizi seri işlemin neticesi olarak meydana gelmektedir. Bu aşamalar çok hızlı gelişmesine ve içselleştirilmesine rağmen, oldukça detaylı ve uyarana dair önemli kararların alındığı aşamalar olarak karşımızdadır.
-    > Algılamada İlk aşama Dışsal ve içsel uyaranın olmasıdır . Bu aşamayı Kişinin beş duyu organı olan, görme, duyma dokunma, tatma ve koku alma reeksleri ile uyaranı alması aşaması yani organizasyon (Uyaranın Alınması) izler. **Bu aşamadan sonra Seçici Dikkat (Uyaranın Seçimi) gelmektedir.** 4. aşama Algısal Organizasyon, 5.aşama Anlamlandırma ve 6. Aşama Yanıt aşamasıdır.
+    > **Açıklama:** Algı süreci; herhangi yeni tanımsız bir uyaranın, tanımlanan ve kişiselleştirilen bir bilgi ve deneyime dönüştürülmesi sırasında, tıpkı beş duyu organımızla otomatikleşmiş bir refleks olarak duyumsadığımız süreç gibi çok hızlı gelişen bir yapıdır. Her ne kadar refleksvari bir hız ve içselleştirme ile oluşsa da altı farklı aşama ile tanımlanabilecek, bir dizi seri işlemin neticesi olarak meydana gelmektedir. Bu aşamalar çok hızlı gelişmesine ve içselleştirilmesine rağmen, oldukça detaylı ve uyarana dair önemli kararların alındığı aşamalar olarak karşımızdadır.<br />Algılamada İlk aşama Dışsal ve içsel uyaranın olmasıdır . Bu aşamayı Kişinin beş duyu organı olan, görme, duyma dokunma, tatma ve koku alma reeksleri ile uyaranı alması aşaması yani organizasyon (Uyaranın Alınması) izler. **Bu aşamadan sonra Seçici Dikkat (Uyaranın Seçimi) gelmektedir.** 4. aşama Algısal Organizasyon, 5.aşama Anlamlandırma ve 6. Aşama Yanıt aşamasıdır.
 
     <hr />
 1. Her değişkenin kişi tarafından aynı özen ve dikkatle bir uyaran olarak algılanmaması durumuna denk gelen kavram nedir?
@@ -997,8 +910,7 @@
     - **Cevap D-) anlatı, görsel tasarım**
     - E-) düzen, mizanpaj
 
-    > **Açıklama:** Doğduğumuz andan itibaren görürüz ve duyarız. Ancak çevremizde henüz anlamlandıramadığımız ve bize farklı gelen birçok sembol görürüz. Bu semboller çoğunlukla henüz tanışmadığımız harfler ve sayılardır. Ortak kültürel iletişimin temeli olan sözsel iletişim elemanları olarak karşımıza çıkan bu semboller, temel duyu organlarımız ile algıladığımız ve anlamlandırdığımız kişisel dünyamızdan, tüm insanoğlunun paylaştığı ortak bilgi ve deneyime açılan kapının anahtarı olarak da yorumlanabilir. Bu noktayı daha iyi anlamak için, Cappetta’nın 2008 yılında, Schamber’in (1986) görsel okuryazarlığın anlaşılması için gerçekleştirdiği çalışmadan uyarlayarak oluşturduğu sayfa 56'da yer alan karşılaştırmalı tabloyu incelemek yararlı olacaktır.
-    > ![ Sözel ve Görsel Tasarım Benzerliklerine Yaklaşım](https://ets.anadolu.edu.tr/storage/nfs/questions/7fc77bd4ac4479c2956dfb62695d9605.jpeg)
+    > **Açıklama:** Doğduğumuz andan itibaren görürüz ve duyarız. Ancak çevremizde henüz anlamlandıramadığımız ve bize farklı gelen birçok sembol görürüz. Bu semboller çoğunlukla henüz tanışmadığımız harfler ve sayılardır. Ortak kültürel iletişimin temeli olan sözsel iletişim elemanları olarak karşımıza çıkan bu semboller, temel duyu organlarımız ile algıladığımız ve anlamlandırdığımız kişisel dünyamızdan, tüm insanoğlunun paylaştığı ortak bilgi ve deneyime açılan kapının anahtarı olarak da yorumlanabilir. Bu noktayı daha iyi anlamak için, Cappetta’nın 2008 yılında, Schamber’in (1986) görsel okuryazarlığın anlaşılması için gerçekleştirdiği çalışmadan uyarlayarak oluşturduğu sayfa 56'da yer alan karşılaştırmalı tabloyu incelemek yararlı olacaktır.<br />![ Sözel ve Görsel Tasarım Benzerliklerine Yaklaşım](https://ets.anadolu.edu.tr/storage/nfs/questions/7fc77bd4ac4479c2956dfb62695d9605.jpeg)
 
     <hr />
 1. Aşağıdakilerden hangisi özellikle fiziksel olarak varlığı hissedebileceğimiz, bedenimizden gelen değişken tepkiler olarak tanımlanabilir?
@@ -1018,8 +930,7 @@
     - D-) Yaş
     - E-) Duygusal karmaşa
 
-    > **Açıklama:** Seçici dikkat değişkenini birçok dışsal etki şekillendirebilmektedir. Bu dışsal etkilerin başında, uyaranın doğası, yer/konum, renk, ebat, kontrast, hareket, tekrar, değişkenler ve/veya benzerlik unsurları gelmektedir.
-    > ![ Algıyı Etkileyen Unsurlar](https://ets.anadolu.edu.tr/storage/nfs/questions/2f38814258483d463428876fb03e949f.jpeg)
+    > **Açıklama:** Seçici dikkat değişkenini birçok dışsal etki şekillendirebilmektedir. Bu dışsal etkilerin başında, uyaranın doğası, yer/konum, renk, ebat, kontrast, hareket, tekrar, değişkenler ve/veya benzerlik unsurları gelmektedir.<br />![ Algıyı Etkileyen Unsurlar](https://ets.anadolu.edu.tr/storage/nfs/questions/2f38814258483d463428876fb03e949f.jpeg)
 
     <hr />
 1. Aşağıdakilerden hangisi obje-zemin, arka plan-ön plan ilişkisi olarak da tanımlanabilen görsel bir organizasyon biçimidir?
@@ -1029,8 +940,7 @@
     - D-) Algısal Gruplama
     - **Cevap E-) Figür-Zemin İlişkisi**
 
-    > **Açıklama:** Figür zemin ilişkisi; obje-zemin, arka plan-ön plan ilişkisi olarak da tanımlanabilen görsel bir organizasyon biçimidir. Nesnelerin bulundukları çevresel alan ile olan mekân referansını tanımlar. Nesnenin arkasında bulunan alan, zemin veya arka plan olarak tanımlanır ve arka planın yapısı, nesnenin görsel olarak daha iyi tanımlanmasını, ön planda olmasını ve nesneye bakan kişi tarafından algısal olarak anlamlandırılmasını kolaylaştıran görsel referanslar sağlar.Kimi durumlarda bakılan çevresel alanda veya görselde,
-    > hangi unsurların nesne hangi unsurların arka planı oluşturduğu tanımsızdır veya nesne ile zemin arasında bir geçişlilik ilişkisi oluşur. Bu durum algısal organizasyonu zorlayan bir yapı arz eder ancak kimi görsel anlatımlar özellikle bu yaklaşımı benimser ve dramatik etki adına kullanır.
+    > **Açıklama:** Figür zemin ilişkisi; obje-zemin, arka plan-ön plan ilişkisi olarak da tanımlanabilen görsel bir organizasyon biçimidir. Nesnelerin bulundukları çevresel alan ile olan mekân referansını tanımlar. Nesnenin arkasında bulunan alan, zemin veya arka plan olarak tanımlanır ve arka planın yapısı, nesnenin görsel olarak daha iyi tanımlanmasını, ön planda olmasını ve nesneye bakan kişi tarafından algısal olarak anlamlandırılmasını kolaylaştıran görsel referanslar sağlar.Kimi durumlarda bakılan çevresel alanda veya görselde,<br />hangi unsurların nesne hangi unsurların arka planı oluşturduğu tanımsızdır veya nesne ile zemin arasında bir geçişlilik ilişkisi oluşur. Bu durum algısal organizasyonu zorlayan bir yapı arz eder ancak kimi görsel anlatımlar özellikle bu yaklaşımı benimser ve dramatik etki adına kullanır.
 
     <hr />
 1. Aşağıdakilerden hangisi algısal organizasyonun, basit ve birbirleri ile bağlantısı olmayan çizgi, nokta, eğri, leke değeri vb. görsel unsurların bir araya gelerek tanıdık ve bütüncül figürler ortaya koyma yaklaşımını ele alır?
@@ -1050,8 +960,7 @@
     - D-) Birlik
     - E-) Figür- Zemin İlişkisi
 
-    > **Açıklama:** Kapalılık ilkesine göre, nesneler görsel olarak tamamlanmasa bile, kişi gördüğü nesneyi bütünlük prensibi dâhilinde algısal olarak doldurur ve bütün bir şekil, harf veya görsel olarak anlamlandırır. Gestalt teorisinin temel argümanına uygun bir şekilde, zihin şekli temel duyusal özellikler ile göremese bile, algısal organizasyonun işleyiş şekli nedeniyle bütünlük ilkesi ve düzen algısal olarak korunur. Dünya Doğayı Koruma Vakfının (WWF) logosu, kapalılık ilkesinin ideal çalışma prensiplerine uygun olarak gösterilebilecek en bilindik örneklerden biridir.
-    > ![Kapalılık ilkesi ve WWF logosu örneği](https://ets.anadolu.edu.tr/storage/nfs/questions/5b87e588e933f20d8e23171bbe61ce3f.jpeg)
+    > **Açıklama:** Kapalılık ilkesine göre, nesneler görsel olarak tamamlanmasa bile, kişi gördüğü nesneyi bütünlük prensibi dâhilinde algısal olarak doldurur ve bütün bir şekil, harf veya görsel olarak anlamlandırır. Gestalt teorisinin temel argümanına uygun bir şekilde, zihin şekli temel duyusal özellikler ile göremese bile, algısal organizasyonun işleyiş şekli nedeniyle bütünlük ilkesi ve düzen algısal olarak korunur. Dünya Doğayı Koruma Vakfının (WWF) logosu, kapalılık ilkesinin ideal çalışma prensiplerine uygun olarak gösterilebilecek en bilindik örneklerden biridir.<br />![Kapalılık ilkesi ve WWF logosu örneği](https://ets.anadolu.edu.tr/storage/nfs/questions/5b87e588e933f20d8e23171bbe61ce3f.jpeg)
 
     <hr />
 1. Aşağıdakilerden hangisi "ön koşul, ön yargı" anlamında kullanılmaktadır?
@@ -1061,9 +970,7 @@
     - **Cevap D-) Algısal set**
     - E-) Nitelendirme
 
-    > **Açıklama:** Örneğin bir müdür, çalışanları hakkında yeterli eforu göstermedikleri ve tembel olduklarına dair bir ön yargı geliştirmiş olabilir. Müdürün sahip olduğu bu ön yargı, tüm çalışanların tembel olduğuna dair genel bir algı geliştirmesi için yeterli bir algısal set olarak çalışır.
-    > Set kavramı, ön koşul, ön yargı anlamında kullanılmaktadır. Kimi durumlarda önceki bilgi ve deneyimlerimizin toplam bir sonucu olarak kolay değiştirilemeyecek ön yargılara sahip oluruz. Sahip olduğumuz ön yargılar, uyaran her ne kadar yeni bir durum dâhilinde bile gelişse, algısal organizasyonumuzun başka türlü çalışmasına set koyar ve yeni durumu, eski bilgi ve deneyimlerimiz ile neticelendirmemize neden olur. Anlamlandırma sürecinde ön yargıların varlığı, algı
-    > organizasyonunun yeni durum ve uyaranlar karşısına çıkardığı en büyük zorluklardan biri olarak kabul edilebilir.
+    > **Açıklama:** Örneğin bir müdür, çalışanları hakkında yeterli eforu göstermedikleri ve tembel olduklarına dair bir ön yargı geliştirmiş olabilir. Müdürün sahip olduğu bu ön yargı, tüm çalışanların tembel olduğuna dair genel bir algı geliştirmesi için yeterli bir algısal set olarak çalışır.<br />Set kavramı, ön koşul, ön yargı anlamında kullanılmaktadır. Kimi durumlarda önceki bilgi ve deneyimlerimizin toplam bir sonucu olarak kolay değiştirilemeyecek ön yargılara sahip oluruz. Sahip olduğumuz ön yargılar, uyaran her ne kadar yeni bir durum dâhilinde bile gelişse, algısal organizasyonumuzun başka türlü çalışmasına set koyar ve yeni durumu, eski bilgi ve deneyimlerimiz ile neticelendirmemize neden olur. Anlamlandırma sürecinde ön yargıların varlığı, algı<br />organizasyonunun yeni durum ve uyaranlar karşısına çıkardığı en büyük zorluklardan biri olarak kabul edilebilir.
 
     <hr />
 1. Aşağıdakilerden hangisi bir durum veya kişi hakkında tek bir özelliğine dayanarak genel bir algı süreci organize etme sürecini tanımlamaktadır?
@@ -1073,12 +980,7 @@
     - D-) Seçici dikkat
     - E-) Kuşku
 
-    > **Açıklama:** Örneğin eğer bir kişi çok cana yakın davranıyor ise mutlaka aynı kişi , yumuşak huylu ve iyi bir
-    > eş, gerçek bir dost ve iyi bir evlat olmalı gibi birbirini destekler nitelikteki özellikler algısal deneyime dahil olur. Bilindiği gibi, herhangi bir kişi veya nesnenin tek başına iyi tarafları olabildiği gibi kötü
-    > tarafları da bir arada olabilir. Algısal organizasyon bağlamında bütüncül bir iyilik veya kötülük klişesi ile karar vermek, her zaman doğru bir yaklaşım olmayacaktır.
-    > Bir durum veya kişi hakkında tek bir özelliğine dayanarak genel bir algı süreci organize etme
-    > sürecidir. Hale/aura, uyaran etrafında oluşan etki çemberi, etki alanı olarak değerlendirilebilir. Bu
-    > etki alanı kimi metinlerde enerji alanı olarak da ifade edilir. Algısal organizasyon çerçevesinde incelendiğinde ise uyaran hakkındaki tek bir olumlu veya olumsuz nitelik üzerinden bütüncül bir bilgi ve deneyim oluşturma süreci olarak tarif edilebilir.
+    > **Açıklama:** Örneğin eğer bir kişi çok cana yakın davranıyor ise mutlaka aynı kişi , yumuşak huylu ve iyi bir<br />eş, gerçek bir dost ve iyi bir evlat olmalı gibi birbirini destekler nitelikteki özellikler algısal deneyime dahil olur. Bilindiği gibi, herhangi bir kişi veya nesnenin tek başına iyi tarafları olabildiği gibi kötü<br />tarafları da bir arada olabilir. Algısal organizasyon bağlamında bütüncül bir iyilik veya kötülük klişesi ile karar vermek, her zaman doğru bir yaklaşım olmayacaktır.<br />Bir durum veya kişi hakkında tek bir özelliğine dayanarak genel bir algı süreci organize etme<br />sürecidir. Hale/aura, uyaran etrafında oluşan etki çemberi, etki alanı olarak değerlendirilebilir. Bu<br />etki alanı kimi metinlerde enerji alanı olarak da ifade edilir. Algısal organizasyon çerçevesinde incelendiğinde ise uyaran hakkındaki tek bir olumlu veya olumsuz nitelik üzerinden bütüncül bir bilgi ve deneyim oluşturma süreci olarak tarif edilebilir.
 
     <hr />
 1. Aşağıdakilerden hangisi, anlamlandırma sürecini etkileyen unsurlardan biri **değildir**?
@@ -1088,16 +990,7 @@
     - D-) Yanıt verme
     - E-) Algısal setler
 
-    > **Açıklama:** Anlamlandırma süreci, uyaran bahsi geçen süreçlerden sonra bilgiye dönüşen uyarana anlam atfedilen ve bu öznel anlamın uyaranı enformasyonel bir bilgiye dönüştüren aşamasıdır. Elbette ancak anlamlandırma sonucu elde edilen bilgi ve deneyim oluştuktan sonra, uyaranın algılanmış
-    > olma durumundan bahsetmek uygun olur. Aşağıdaki unsurlar, anlamlandırma sürecini
-    > etkileyen genel başlıklardır:
-    > -Algısal setler
-    > -Nitelendirme
-    > -Klişe/stereotipi
-    > -Çıkarımda bulunma
-    > -Hale/aura etkisi
-    > -Yanıt verme
-    > Devamlılık ilkesi, Gestalt'ın temel ilkelerinden biridir.
+    > **Açıklama:** Anlamlandırma süreci, uyaran bahsi geçen süreçlerden sonra bilgiye dönüşen uyarana anlam atfedilen ve bu öznel anlamın uyaranı enformasyonel bir bilgiye dönüştüren aşamasıdır. Elbette ancak anlamlandırma sonucu elde edilen bilgi ve deneyim oluştuktan sonra, uyaranın algılanmış<br />olma durumundan bahsetmek uygun olur. Aşağıdaki unsurlar, anlamlandırma sürecini<br />etkileyen genel başlıklardır:<br />-Algısal setler<br />-Nitelendirme<br />-Klişe/stereotipi<br />-Çıkarımda bulunma<br />-Hale/aura etkisi<br />-Yanıt verme<br />Devamlılık ilkesi, Gestalt'ın temel ilkelerinden biridir.
 
     <hr />
 1. Aşağıdakilerden hangisi algı sürecinin son aşamasıdır?
@@ -1107,9 +1000,7 @@
     - D-) Çıkarımda bulunma
     - E-) Seçicilik
 
-    > **Açıklama:** Algı sürecinin son aşaması yanıt verme sürecidir. Tüm organizasyonel adımlardan geçen uyaran,
-    > anlamlandırma aşamasında kişisel bilgi ve deneyime, dolayısıyla bir yargı ve öngörüye dönüşür. Oluşan bu kişisel bilgi, bölümün başında da ifade edildiği gibi çoğunlukla gerçek olan değil, kişinin
-    > uyaranı nasıl algılamak istediği ile ilgili olan durumdur. Tüm bu algı organizasyonun neticesinde varılan yargıya göre, algılayan kişi bir yanıt yani geri bildirim oluşturur. Bu geri bildirim, içsel ve dışsal olmak üzere iki boyutta ele alınabilir.
+    > **Açıklama:** Algı sürecinin son aşaması yanıt verme sürecidir. Tüm organizasyonel adımlardan geçen uyaran,<br />anlamlandırma aşamasında kişisel bilgi ve deneyime, dolayısıyla bir yargı ve öngörüye dönüşür. Oluşan bu kişisel bilgi, bölümün başında da ifade edildiği gibi çoğunlukla gerçek olan değil, kişinin<br />uyaranı nasıl algılamak istediği ile ilgili olan durumdur. Tüm bu algı organizasyonun neticesinde varılan yargıya göre, algılayan kişi bir yanıt yani geri bildirim oluşturur. Bu geri bildirim, içsel ve dışsal olmak üzere iki boyutta ele alınabilir.
 
     <hr />
 1. Aşağıdakilerden hangisi algı sürecinin ilk aşamasında yer almaktadır?
@@ -1119,8 +1010,7 @@
     - D-) Organize etme
     - E-) Çıkarımda bulunma
 
-    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir
-    > Algı; kişinin duyu organları ile ulaştığı çevresel uyaranlar karşı anlamlandırma ve uyaranı kişisel bilgiye dönüştürerek organize etme sürecidir. Bununla birlikte Algı süreci, temel duyu organlarının uyaranları duyumsadıktan sonra, bilginin kişiselleştirilmesine kadar olan evre olarak da açıklanmıştır. Doğru cevap C’dir.
+    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir<br />Algı; kişinin duyu organları ile ulaştığı çevresel uyaranlar karşı anlamlandırma ve uyaranı kişisel bilgiye dönüştürerek organize etme sürecidir. Bununla birlikte Algı süreci, temel duyu organlarının uyaranları duyumsadıktan sonra, bilginin kişiselleştirilmesine kadar olan evre olarak da açıklanmıştır. Doğru cevap C’dir.
 
     <hr />
 1. Aşağıdakilerin hangisi görsel iletişimin bağlamı içerisinde yer alır?
@@ -1130,8 +1020,7 @@
     - **Cevap D-) Düzen ve mizanpaj**
     - E-) Cümleler ve paragraflar
 
-    > **Açıklama:** Detaylı bilgi için ünitenin ilgili bölümü incelenebilir
-    > Düzen ve mizanpaj. *Doğru cevap D’dir.*
+    > **Açıklama:** Detaylı bilgi için ünitenin ilgili bölümü incelenebilir<br />Düzen ve mizanpaj. *Doğru cevap D’dir.*
 
     <hr />
 1. Aşağıdaki algıyı etkileyen unsurlardan hangisi alıcı ile ilişkilidir?
@@ -1141,8 +1030,7 @@
     - D-) Zaman
     - E-) Konum
 
-    > **Açıklama:** İlgili bölüm detaylı bilgi için incelenebilir.
-    > Motivasyon alıcıdan kaynaklı, sosyal alan ve zaman durum/değişkenden kaynaklı, mesafe yakınlığı hedeften kaynaklanan unsurdur. Doğru cevap A’dir.
+    > **Açıklama:** İlgili bölüm detaylı bilgi için incelenebilir.<br />Motivasyon alıcıdan kaynaklı, sosyal alan ve zaman durum/değişkenden kaynaklı, mesafe yakınlığı hedeften kaynaklanan unsurdur. Doğru cevap A’dir.
 
     <hr />
 1. Her değişkenin kişi tarafından aynı özenle algılanmaması aşağıdaki kavramlardan hangisi ile açıklanmaktadır?
@@ -1152,8 +1040,7 @@
     - D-) Hale etkisi
     - E-) Dış uyaran
 
-    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.
-    > Literatürde sıklıkla “algıda seçicilik” olarak da konu edinen bu kavram, her değişkenin kişi tarafından aynı özen ve dikkatle bir uyaran olarak algılanmaması durumuna denk gelmektedir. Bir başka deyişle kimi uyaranlar daha seçici bir şekilde ve öncelikle fark edilirken kimi uyaranlar ise görmezden gelinebilmekte veya fark edilmeden geçilebilmektedir. Doğru cevap B’dir.
+    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.<br />Literatürde sıklıkla “algıda seçicilik” olarak da konu edinen bu kavram, her değişkenin kişi tarafından aynı özen ve dikkatle bir uyaran olarak algılanmaması durumuna denk gelmektedir. Bir başka deyişle kimi uyaranlar daha seçici bir şekilde ve öncelikle fark edilirken kimi uyaranlar ise görmezden gelinebilmekte veya fark edilmeden geçilebilmektedir. Doğru cevap B’dir.
 
     <hr />
 1. Aşağıdakilerden hangisi algıyı etkileyen içsel etkilerden biridir?
@@ -1163,8 +1050,7 @@
     - D-) Yer/konum
     - E-) Boyut
 
-    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.
-    > Renk, kontrast, yer /konum dışsal uyaran; kuşku içsel uyarandır Doğru cevap C’dir.
+    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.<br />Renk, kontrast, yer /konum dışsal uyaran; kuşku içsel uyarandır Doğru cevap C’dir.
 
     <hr />
 1. Aşağıdakilerden hangisi algısal organizasyon sürecinde belirsizlik içeren bir grubu temsil eder?
@@ -1184,8 +1070,7 @@
     - **Cevap D-) Zemin-figür ilişkisi**
     - E-) Bütünsellik
 
-    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.
-    > Gestalt ilkelerinin organizasyon bağlamında en kuvvetli çalışan ilkelerinden biri olan figür-zemin ilişkisi, temel olarak nesnelerin bulundukları çevresel alan ile olan mekân referansını tanımlar. Figür, zeminden algısal organizasyon olarak her zaman daha dikkat çekicidir. Ancak kimi durumlarda figür ve zeminin birbiriyle yer değiştirdiği, hangisinin figür hangisinin zemin olduğuna karar verilemeyen durumlar meydana gelir. Doğru cevap D’dir.
+    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.<br />Gestalt ilkelerinin organizasyon bağlamında en kuvvetli çalışan ilkelerinden biri olan figür-zemin ilişkisi, temel olarak nesnelerin bulundukları çevresel alan ile olan mekân referansını tanımlar. Figür, zeminden algısal organizasyon olarak her zaman daha dikkat çekicidir. Ancak kimi durumlarda figür ve zeminin birbiriyle yer değiştirdiği, hangisinin figür hangisinin zemin olduğuna karar verilemeyen durumlar meydana gelir. Doğru cevap D’dir.
 
     <hr />
 1. "....... ilkesi, aslında bir bakıma Gestalt teorisinin özü olan bütüncül yapı, gruplama, basitlik ve netlik ifadelerinin ortak paydada buluştuğu bir ifadeyi ortaya koymaktadır"<br />cümlesini anlamlı şekilde hangisi ile tamamalarız?
@@ -1195,8 +1080,7 @@
     - D-) Birlik
     - E-) Zemin-şekil ilişkisi
 
-    > **Açıklama:** Almanca orijinali üzerinden çevrilen adı nedeniyle, zor anlaşılan Gestalt ilkelerinden biri olarak karşımıza çıkan **İyi Gestalt** ilkesi, aslında bir bakıma Gestalt teorisinin özü olan bütüncül yapı, gruplama, basitlik ve netlik ifadelerinin ortak paydada buluştuğu bir ifadeyi ortaya koymaktadır (Chang vd., 2002). Bu nedenle de Türkçe ifadesi ile İyi Gestalt olarak çevirisi yapılmaktadır.
-    > Doğru cevap C’dir.
+    > **Açıklama:** Almanca orijinali üzerinden çevrilen adı nedeniyle, zor anlaşılan Gestalt ilkelerinden biri olarak karşımıza çıkan **İyi Gestalt** ilkesi, aslında bir bakıma Gestalt teorisinin özü olan bütüncül yapı, gruplama, basitlik ve netlik ifadelerinin ortak paydada buluştuğu bir ifadeyi ortaya koymaktadır (Chang vd., 2002). Bu nedenle de Türkçe ifadesi ile İyi Gestalt olarak çevirisi yapılmaktadır.<br />Doğru cevap C’dir.
 
     <hr />
 1. Anlamlandırma sürecinde, kişinin ön yargıları aşağıdakilerden hangisini oluşturur?
@@ -1206,8 +1090,7 @@
     - D-) Hale etkisi
     - E-) Klişe
 
-    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.
-    > Sahip olduğumuz ön yargılar, uyaran her ne kadar yeni bir durum dâhilinde bile gelişse, algısal organizasyonumuzun başka türlü ça­lışmasına set koyar ve yeni durumu, eski bilgi ve deneyimlerimiz ile neticelendirmemize neden olur. Anlamlandırma sürecinde ön yargıların varlığı, algı organizasyonunun yeni durum ve uyaranlar kar­şısına çıkardığı en büyük zorluklardan biri olarak kabul edilebilir. Doğru cevap B’dir.
+    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.<br />Sahip olduğumuz ön yargılar, uyaran her ne kadar yeni bir durum dâhilinde bile gelişse, algısal organizasyonumuzun başka türlü ça­lışmasına set koyar ve yeni durumu, eski bilgi ve deneyimlerimiz ile neticelendirmemize neden olur. Anlamlandırma sürecinde ön yargıların varlığı, algı organizasyonunun yeni durum ve uyaranlar kar­şısına çıkardığı en büyük zorluklardan biri olarak kabul edilebilir. Doğru cevap B’dir.
 
     <hr />
 1. Aşağıdakilerden hangisi, bir durum ve kişi hakkında tek bir özelliğe dayanarak genel bir algı organize etme sürecidir?
@@ -1217,8 +1100,7 @@
     - D-) Çıkarımda bulunma
     - E-) Nitelendirme
 
-    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.
-    > Bir durum veya kişi hakkında tek bir özelliği­ne dayanarak genel bir algı süreci organize etme sürecidir. Hale/aura, uyaran etrafında oluşan etki çemberi, etki alanı olarak değerlendirilebilir. Bu etki alanı kimi metinlerde enerji alanı olarak da ifade edilir. Doğru cevap B’dir.
+    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.<br />Bir durum veya kişi hakkında tek bir özelliği­ne dayanarak genel bir algı süreci organize etme sürecidir. Hale/aura, uyaran etrafında oluşan etki çemberi, etki alanı olarak değerlendirilebilir. Bu etki alanı kimi metinlerde enerji alanı olarak da ifade edilir. Doğru cevap B’dir.
 
     <hr />
 1. Aşağıdakilerden hangisi algı sürecinin aşamalarından biri değildir?
@@ -1339,9 +1221,7 @@
     - D-) nesne
     - E-) obje
 
-    > **Açıklama:** Göstergeler aynı zamanda görüntüsel
-    > gösterge (ikon), belirti ve sembol olmak
-    > üzere de üçe ayrılır.
+    > **Açıklama:** Göstergeler aynı zamanda görüntüsel<br />gösterge (ikon), belirti ve sembol olmak<br />üzere de üçe ayrılır.
 
     <hr />
 1. Nitelikleri bakımından bakımından göstergelerin kaça ayrıldığını doğru olarak veren seçenek hangisidir?
@@ -1351,10 +1231,7 @@
     - D-) Nesnel, nesnel olmayan göstergeler olarak ikiye ayrılır.
     - E-) Kuramsal, kavramsal ve nesnel olarak üçe ayrılır.
 
-    > **Açıklama:** Nitelikleri bakımından ise göstergeleri
-    > doğal göstergeler ve yapay göstergeler olarak
-    > ikiye ayırmak mümkündür.
-    > Doğal göstergeler ve yapay göstergeler olarak ikiye ayrılır.
+    > **Açıklama:** Nitelikleri bakımından ise göstergeleri<br />doğal göstergeler ve yapay göstergeler olarak<br />ikiye ayırmak mümkündür.<br />Doğal göstergeler ve yapay göstergeler olarak ikiye ayrılır.
 
     <hr />
 1. Doğrudan gözlemlenebilen, kendiliğinden olan ve toplumsal olmayan göstergelere ne ad verilir?
@@ -1364,11 +1241,7 @@
     - **Cevap D-) Doğal göstergeler.**
     - E-) Nesnel olmayan göstergeler.
 
-    > **Açıklama:** Doğal göstergeler
-    > kendiliğinden doğada bulunan ve belirli
-    > bir sebep sonuç ilişkisi kurmamıza yarayan
-    > göstergelerdir.
-    > Doğal göstergeler.
+    > **Açıklama:** Doğal göstergeler<br />kendiliğinden doğada bulunan ve belirli<br />bir sebep sonuç ilişkisi kurmamıza yarayan<br />göstergelerdir.<br />Doğal göstergeler.
 
     <hr />
 1. Barthes coğrafyanın yanında neyin göstergeler üzerinde büyük etkisi olduğunu ifade etmiştir?
@@ -1388,10 +1261,7 @@
     - D-) Biçimsellik
     - E-) Yapaylık
 
-    > **Açıklama:** Fiske’nin “anlamlandırma sistemi”
-    > olarak nitelendirdiği kodlar mesajların iletilmesine
-    > olanak sağlayan bir göstergeler
-    > sistemidir.
+    > **Açıklama:** Fiske’nin “anlamlandırma sistemi”<br />olarak nitelendirdiği kodlar mesajların iletilmesine<br />olanak sağlayan bir göstergeler<br />sistemidir.
 
     <hr />
 1. Sosyal kodların en başında aşağıdakilerden hangisi gelir?
@@ -1401,10 +1271,7 @@
     - D-) Anlatılar
     - E-) Ses
 
-    > **Açıklama:** Sosyal kodların en başında elbette dil gelir. Dilin
-    > dışında beden dili, jestler, mimikler,
-    > hâl ve tutumlar, ses tonu ve giyim kuşam
-    > da yine bu tür kodlara örnek olarak sayılabilir.
+    > **Açıklama:** Sosyal kodların en başında elbette dil gelir. Dilin<br />dışında beden dili, jestler, mimikler,<br />hâl ve tutumlar, ses tonu ve giyim kuşam<br />da yine bu tür kodlara örnek olarak sayılabilir.
 
     <hr />
 1. Bir kavramın, bir duygunun, bir düşüncenin ya da bir nesnenin zihindeki tasarımı, hayaline ne denir?
@@ -1424,8 +1291,7 @@
     - **Cevap D-) Resim**
     - E-) Retorik
 
-    > **Açıklama:** Resim sanatı insanoğlunun kendini dil dışında
-    > bir araçla ifade etme çabasının en eski yöntemlerindendir.
+    > **Açıklama:** Resim sanatı insanoğlunun kendini dil dışında<br />bir araçla ifade etme çabasının en eski yöntemlerindendir.
 
     <hr />
 1. Teknolojik gelişmelerden önce ve sonrasındaki süreçte, grafik tasarımında en yaratıcı alanlar olarak etkisi güçlü olan gösterme yöntemleri aşağıdakilerden hangisidir?
@@ -1435,9 +1301,7 @@
     - D-) Davetiye ve bilet tasarımları
     - **Cevap E-) Afiş ve kitap tasarımlarıdır.**
 
-    > **Açıklama:** Grafik tasarımında en yaratıcı alanlardan ikisi hiç şüphesiz afiş ve kitap tasarımlarıdır. Tasarımcılar
-    > özellikle resim sanatından ve sanat akımlarından etkilenmiş hatta bazı önemli ressamlar, sanat sanat içindir
-    > mottosuna karşı çıkarak afiş ya da kitap kapağı tasarımı da yapmışlardır.
+    > **Açıklama:** Grafik tasarımında en yaratıcı alanlardan ikisi hiç şüphesiz afiş ve kitap tasarımlarıdır. Tasarımcılar<br />özellikle resim sanatından ve sanat akımlarından etkilenmiş hatta bazı önemli ressamlar, sanat sanat içindir<br />mottosuna karşı çıkarak afiş ya da kitap kapağı tasarımı da yapmışlardır.
 
     <hr />
 1. Gösrergebilim alanıyla ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?
@@ -1658,8 +1522,7 @@
     - **Cevap D-) Horkheimer, Lowenthal ve Adorno**
     - E-) Horkheimer ve Lowenthal
 
-    > **Açıklama:** Almanya’dan getirdikleri kitle ve faşizm birikimlerini, Amerikan kitle kültürü ile harmanlayarak onu teorize etmeye çalışan isimler
-    > Horkheimer, Lowenthal ve Adorno dur
+    > **Açıklama:** Almanya’dan getirdikleri kitle ve faşizm birikimlerini, Amerikan kitle kültürü ile harmanlayarak onu teorize etmeye çalışan isimler<br />Horkheimer, Lowenthal ve Adorno dur
 
     <hr />
 1. Kültür endüstrisinin sanal bir demokrasi kültürünü övdüğünü, ancak bu demokratikleşme idealinin sadece bir propagandadan ibaret olduğunu söyleyen düşünür aşağıdakilerden hangisidir?
@@ -1669,8 +1532,7 @@
     - D-) Horheimer
     - **Cevap E-) Adorno**
 
-    > **Açıklama:** Kültür endüstrisinin sanal bir demokrasi kültürünü övdüğünü, ancak bu demokratikleşme idealinin sadece bir propagandadan ibaret olduğunu söyleyen bilim adamı Adorno'dur
-    > Kültür endüstrisinin sanal bir demokrasi kültürünü övdüğünü, ancak bu demokratikleşme idealinin sadece bir propagandadan ibaret olduğunu söyleyen düşünür Adorno'dur
+    > **Açıklama:** Kültür endüstrisinin sanal bir demokrasi kültürünü övdüğünü, ancak bu demokratikleşme idealinin sadece bir propagandadan ibaret olduğunu söyleyen bilim adamı Adorno'dur<br />Kültür endüstrisinin sanal bir demokrasi kültürünü övdüğünü, ancak bu demokratikleşme idealinin sadece bir propagandadan ibaret olduğunu söyleyen düşünür Adorno'dur
 
     <hr />
 1. Frankfurt Okulunun en önemli kavramı aşağıdakilerden hangisidir?
@@ -1690,8 +1552,7 @@
     - **Cevap D-) Herbert Marcuse**
     - E-) Walter Benjamin
 
-    > **Açıklama:** Frankfurt Okulunun teorisyenlerinden Herbert Marcuse “Tek Boyutlu İnsan” (1990) kitabında görsel kültürün kitleleri moronlaştırıcı ve tektipleştirici etkilerine dikkat çeker
-    > Frankfurt Okulunun teorisyenlerinden Herbert Marcuse “Tek Boyutlu İnsan” kitabında görsel kültürün kitleleri moronlaştırıcı ve tektipleştirici etkilerine dikkat çeker
+    > **Açıklama:** Frankfurt Okulunun teorisyenlerinden Herbert Marcuse “Tek Boyutlu İnsan” (1990) kitabında görsel kültürün kitleleri moronlaştırıcı ve tektipleştirici etkilerine dikkat çeker<br />Frankfurt Okulunun teorisyenlerinden Herbert Marcuse “Tek Boyutlu İnsan” kitabında görsel kültürün kitleleri moronlaştırıcı ve tektipleştirici etkilerine dikkat çeker
 
     <hr />
 1. Siyasal, sosyal ve kültürel araçlar kullanılarak bir sınıfın diğeri üzerinde kurduğu, kısmen rızaya dayalı egemenlik aşağıdakilerden hangisidir?
@@ -1841,8 +1702,7 @@
     - D-) II ve III
     - E-) I , II ve III
 
-    > **Açıklama:** Althusser ideolojiyi gerçeğin tersyüz edilmesi veya bir dayatma olarak görmez, aksine toplumsal yaşamda farkında olmadan bizi çağıran bir dizi sosyal dinamik olarak tanımlar
-    > Althusser’e göre ideoloji, bireyleri kendi toplumsal varlıkları üzerinden özne olarak kabul eder ve onların kimliklerine uygun bir şekilde onları “çağırır”. Dünyayla yaşanan ilişki esas olarak bireyin bir özne olarak kurulduğu süreçten ibarettir. Bu her bireye, toplumsal pratiklere girdiğinde bir toplumsal kimlik veren çeşitli terimlerle hitap edilmesi ya da çağrılması ile olur. Birey, çağırıldığı özne konumunu (toplumsal kimliği) kabul ederse (kurulursa) ideolojinin sürekli olarak olumlandığı, evetlendiği bir dünyayı deneyimler ”
+    > **Açıklama:** Althusser ideolojiyi gerçeğin tersyüz edilmesi veya bir dayatma olarak görmez, aksine toplumsal yaşamda farkında olmadan bizi çağıran bir dizi sosyal dinamik olarak tanımlar<br />Althusser’e göre ideoloji, bireyleri kendi toplumsal varlıkları üzerinden özne olarak kabul eder ve onların kimliklerine uygun bir şekilde onları “çağırır”. Dünyayla yaşanan ilişki esas olarak bireyin bir özne olarak kurulduğu süreçten ibarettir. Bu her bireye, toplumsal pratiklere girdiğinde bir toplumsal kimlik veren çeşitli terimlerle hitap edilmesi ya da çağrılması ile olur. Birey, çağırıldığı özne konumunu (toplumsal kimliği) kabul ederse (kurulursa) ideolojinin sürekli olarak olumlandığı, evetlendiği bir dünyayı deneyimler ”
 
     <hr />
 1. 1- Eleştirel kuram, kültürü toplumsal eşitsizlik ve iktidar ilişkileri bağlamında ele alır ve **aşağıdakilerden hangisini bu kültürü oluşturan bir iktidar aygıtı olarak** konumlandırır?
@@ -1862,8 +1722,7 @@
     - **Cevap D-) Ekonomi ve Siyasal Etki**
     - E-) Ekonomi ve Medya Etkisi
 
-    > **Açıklama:** **Eleştirel teori,** Marx’ın üretim ilişkileri olarak nitelendirdiği **ekonomik ve siyasal etkileri**n, kültürü nasıl biçimlendirdiğini ele alır.
-    > Ekonomi ve Siyasal Etki
+    > **Açıklama:** **Eleştirel teori,** Marx’ın üretim ilişkileri olarak nitelendirdiği **ekonomik ve siyasal etkileri**n, kültürü nasıl biçimlendirdiğini ele alır.<br />Ekonomi ve Siyasal Etki
 
     <hr />
 1. Marx, kitlelerin yaşadıkları toplumsal sömürünün farkına varmalarını engelleyen ve iktidarlar tarafından manipüle edilen bir yanlış bilinç şeklinde kavramsallaştırmaktadır. Bu **kavram** aşağıdakilerden hangisidir?
@@ -1873,8 +1732,7 @@
     - D-) Materyalizm
     - E-) Propaganda
 
-    > **Açıklama:** **Marx,** ***ideolojiyi,*** kitlelerin yaşadıkları toplumsal sömürünün farkına varmalarını engelleyen ve iktidarlar tarafından manipüle edilen bir yanlış bilinç şeklinde kavramsallaştırmaktadır.
-    > İdeoloji
+    > **Açıklama:** **Marx,** ***ideolojiyi,*** kitlelerin yaşadıkları toplumsal sömürünün farkına varmalarını engelleyen ve iktidarlar tarafından manipüle edilen bir yanlış bilinç şeklinde kavramsallaştırmaktadır.<br />İdeoloji
 
     <hr />
 1. Marx, insanların belli ihtiyaçlarını karşılayan, belli amaç doğrultusunda üretilen, alınıp satılan bir **“şey”** olarak tanımlamadığı **kavram** aşağıdakilerden hangisidir?
@@ -1884,8 +1742,7 @@
     - D-) Kültür
     - **Cevap E-) Meta**
 
-    > **Açıklama:** **Marx,** ***metayı*** insanların belli ihtiyaçlarını karşılayan, belli amaç doğrultusunda üretilen,
-    > alınıp satılan bir “şey” olarak tanımlamaktadır.
+    > **Açıklama:** **Marx,** ***metayı*** insanların belli ihtiyaçlarını karşılayan, belli amaç doğrultusunda üretilen,<br />alınıp satılan bir “şey” olarak tanımlamaktadır.
 
     <hr />
 1. Ekonomik düzenin tüketim alışkanlıklarına etkisini görsellikle tetikleyen, bu kültürün halkın siyasi yönelimlerini etkileyen, tüketimci ve apolitik kültürün totaliter iktidarları besleyen **ilk görsel kitle iletişim aracı** aşağıdakilerden hangisidir?
@@ -1895,8 +1752,7 @@
     - D-) Afişler
     - E-) Tiyatro
 
-    > **Açıklama:** Amerika’ya göçen Alman teorisyenler, Fordist bir ekonomik düzenin tüketim alışkanlıklarına etkisini
-    > ve görsellikle tetiklenen bu kültürün halkın siyasi yönelimlerini nasıl etkilediğine bizzat tanık olmuşlardır (Mattelart; 1998: 22). Özellikle ***ilk görsel kitle iletişim aracı olan sinemanın*** da toplumu nasıl etkilediğini etmişler ve oluşturulan bu tüketimci ve apolitik kültürün totaliter iktidarları beslediğini iddia etmişlerdir.
+    > **Açıklama:** Amerika’ya göçen Alman teorisyenler, Fordist bir ekonomik düzenin tüketim alışkanlıklarına etkisini<br />ve görsellikle tetiklenen bu kültürün halkın siyasi yönelimlerini nasıl etkilediğine bizzat tanık olmuşlardır (Mattelart; 1998: 22). Özellikle ***ilk görsel kitle iletişim aracı olan sinemanın*** da toplumu nasıl etkilediğini etmişler ve oluşturulan bu tüketimci ve apolitik kültürün totaliter iktidarları beslediğini iddia etmişlerdir.
 
     <hr />
 1. Kitle kültürü bir taraftan ürünleri standartlaştırırken, diğer taraftan bu metaların yeni ve biricik olduğunun ***hangi görsel teknik biçimle*** insanlara dayatmaktadır?
@@ -1916,8 +1772,7 @@
     - D-) Alt ve Üst yapı ilişkileri
     - E-) Toplum Aydınları
 
-    > **Açıklama:** **Antonio Gramsci** dünya düşün literatüründe *hegemonya, sivil toplum, rızanın üretimi, altyapı-üstyapı ilişkileri, ideoloji, tarihsel blok ve toplumda aydınların* işlevine dair yaklaşımları ve kavramsallaştırmaları ile anılmaktadır.
-    > Tüketim Çılgınlığı
+    > **Açıklama:** **Antonio Gramsci** dünya düşün literatüründe *hegemonya, sivil toplum, rızanın üretimi, altyapı-üstyapı ilişkileri, ideoloji, tarihsel blok ve toplumda aydınların* işlevine dair yaklaşımları ve kavramsallaştırmaları ile anılmaktadır.<br />Tüketim Çılgınlığı
 
     <hr />
 1. Kapitalist toplumlarda egemen değerleri haklılaştıran ve hegemonyayı pekiştiren iktidar aygıtı aşağıdakilerden hangisidir?
@@ -1937,8 +1792,7 @@
     - **Cevap D-) Louıs Pıerre Althusser**
     - E-) Theodor W. Adorno
 
-    > **Açıklama:** **Althusser’e** göre “ideoloji bireylerin gerçek varoluş koşullarıyla kurdukları hayali ilişkiyi gösterir... **Bu yaklaşıma göre**, modern toplumlarda kimliklerin inşası ve görselliğin sunumu da ideolojik bir yörüngenin içinde gerçekleşmektedir. Metalaşan göstergeler veya duygular aracılığıyla kimlikler inşa edilmekte, gerçekle imaj çoğu zaman birbirinin içine geçmektedir. Kendini özneleştiren birey, metalaşmış göstergeler aracılığıyla bir benlik inşa eder ve egemen değerlerin yörüngesinde kendini tanımlar.
-    > Louıs Pıerre Althusser
+    > **Açıklama:** **Althusser’e** göre “ideoloji bireylerin gerçek varoluş koşullarıyla kurdukları hayali ilişkiyi gösterir... **Bu yaklaşıma göre**, modern toplumlarda kimliklerin inşası ve görselliğin sunumu da ideolojik bir yörüngenin içinde gerçekleşmektedir. Metalaşan göstergeler veya duygular aracılığıyla kimlikler inşa edilmekte, gerçekle imaj çoğu zaman birbirinin içine geçmektedir. Kendini özneleştiren birey, metalaşmış göstergeler aracılığıyla bir benlik inşa eder ve egemen değerlerin yörüngesinde kendini tanımlar.<br />Louıs Pıerre Althusser
 
     <hr />
 1. Aşağıdakilerden hangisi Marksist kuramda, devlet kavramının kapsadığını aygıtlardan **değildir?**
@@ -1948,9 +1802,7 @@
     - D-) Hükümet
     - E-) İdare
 
-    > **Açıklama:** DİA’lar devletin (baskı) aygıtıyla aynı şey değildirler. Marksist kuramda, devlet aygıtının şunları
-    > kapsadığını anımsatalım: **Hükûmet, İdare, Ordu, Polis, Mahkemeler, Hapishaneler** vb., ki
-    > Sivil Toplum
+    > **Açıklama:** DİA’lar devletin (baskı) aygıtıyla aynı şey değildirler. Marksist kuramda, devlet aygıtının şunları<br />kapsadığını anımsatalım: **Hükûmet, İdare, Ordu, Polis, Mahkemeler, Hapishaneler** vb., ki<br />Sivil Toplum
 
     <hr />
 ## Unite 6
@@ -2161,8 +2013,7 @@
     - **Cevap D-) Stuart Hall**
     - E-) John Berger
 
-    > **Açıklama:** Kültürel çalışmalar ekolünün görsel kültüre yönelik yaklaşımlarını öğrenebilme
-    > İngiliz Kültürel Çalışmalar Ekolü, kültür üze­rine çalışan bu bağlamda yaşadıkları dönemde gücü ve etkisi artan görsel kültürü analiz eden eleştirel bir okuldur. Okulun önemli teorisyenle­rinden Stuart Hall ve Dick Hebdige görsel kültür literatürüne önemli katkılar sağlamışlardır.
+    > **Açıklama:** Kültürel çalışmalar ekolünün görsel kültüre yönelik yaklaşımlarını öğrenebilme<br />İngiliz Kültürel Çalışmalar Ekolü, kültür üze­rine çalışan bu bağlamda yaşadıkları dönemde gücü ve etkisi artan görsel kültürü analiz eden eleştirel bir okuldur. Okulun önemli teorisyenle­rinden Stuart Hall ve Dick Hebdige görsel kültür literatürüne önemli katkılar sağlamışlardır.
 
     <hr />
 1. Kültürel Çalışmalar Ekolü'nün ismini aldığı Birmingham Üniversitesi Çağdaş Kültürel Araştırmalar Merkezi ne zaman kurulmuştur?
@@ -2172,8 +2023,7 @@
     - D-) 1965
     - E-) 1966
 
-    > **Açıklama:** Kültürel çalışmalar ekolünün görsel kültüre yönelik yaklaşımlarını öğrenebilme
-    > Kültürel Çalışmalar okulu, modern toplumlar­da görsel kültür tartışmalarına önemli katkı sağla­mış bir ekoldür. Kültürel Çalışmalar ismini 1964’te Birmingham Üniversitesinde kurulan Çağdaş Kültürel Araştırmalar Merkezinden almıştır. Mer­kezin en önemli teorisyenleri, Edward P. Thomp­son, Richard Hoggart, Stuart Hall ve Raymond Williams’dır. Hoggart, aynı zamanda merkezin ilk müdürüdür.
+    > **Açıklama:** Kültürel çalışmalar ekolünün görsel kültüre yönelik yaklaşımlarını öğrenebilme<br />Kültürel Çalışmalar okulu, modern toplumlar­da görsel kültür tartışmalarına önemli katkı sağla­mış bir ekoldür. Kültürel Çalışmalar ismini 1964’te Birmingham Üniversitesinde kurulan Çağdaş Kültürel Araştırmalar Merkezinden almıştır. Mer­kezin en önemli teorisyenleri, Edward P. Thomp­son, Richard Hoggart, Stuart Hall ve Raymond Williams’dır. Hoggart, aynı zamanda merkezin ilk müdürüdür.
 
     <hr />
 1. Aşağıdakilerden hangisi Kültürel Çalışmalar ekolüne kaynaklık eden kitaplardan biridir?
@@ -2183,8 +2033,7 @@
     - D-) Altkültür: Tarzın Anlamı
     - E-) Gündelik Hayat Pratikleri
 
-    > **Açıklama:** Kültürel çalışmalar ekolünün görsel kültüre yönelik yaklaşımlarını öğrenebilme
-    > Kültürel Çalışmalar ekolüne kaynaklık eden kitaplar Edward P. Thompson’un “İngiliz İşçi Sı­nıfının Doğuşu”, Richard Hoggart’ın “Okuryazar­lığın Kullanım Alanları” ve Raymond Williams’ın “Kültür” kitaplarıdır.
+    > **Açıklama:** Kültürel çalışmalar ekolünün görsel kültüre yönelik yaklaşımlarını öğrenebilme<br />Kültürel Çalışmalar ekolüne kaynaklık eden kitaplar Edward P. Thompson’un “İngiliz İşçi Sı­nıfının Doğuşu”, Richard Hoggart’ın “Okuryazar­lığın Kullanım Alanları” ve Raymond Williams’ın “Kültür” kitaplarıdır.
 
     <hr />
 1. Kültürel Çalışmalar ekolünde “halkın kül­türel ortamdaki yaratıcı direnme biçimlerine” dik­kat çeken teorisyen aşağıdakilerden hangisidir?
@@ -2194,8 +2043,7 @@
     - D-) John Fiske
     - E-) David Morley
 
-    > **Açıklama:** Kültürel çalışmalar ekolünün görsel kültüre yönelik yaklaşımlarını öğrenebilme
-    > Kültürel Çalışmalar ekolünün bir diğer önem­li teorisyeni de Micheal De Carteu’dur. Özellikle “Gündelik Hayat Pratikleri” kitabıyla halkım kül­türel ortamdaki yaratıcı direnme biçimlerine dik­kat çeken De Carteu popüler kültürün, baskı altın­da dahi nasıl kendi direnme ve eğlenme biçimlerini üretebildiğini çeşitli örnekler üzerinden tartışır (De Carteu, 2009)
+    > **Açıklama:** Kültürel çalışmalar ekolünün görsel kültüre yönelik yaklaşımlarını öğrenebilme<br />Kültürel Çalışmalar ekolünün bir diğer önem­li teorisyeni de Micheal De Carteu’dur. Özellikle “Gündelik Hayat Pratikleri” kitabıyla halkım kül­türel ortamdaki yaratıcı direnme biçimlerine dik­kat çeken De Carteu popüler kültürün, baskı altın­da dahi nasıl kendi direnme ve eğlenme biçimlerini üretebildiğini çeşitli örnekler üzerinden tartışır (De Carteu, 2009)
 
     <hr />
 1. Dick Hebdige’nin “alt kültürlerin endüstrinin manipülatif ve tektipleştirici tahakkümüne karşı giyimde, gündelik alışkanlıklarda nasıl kendi anlamlarını üretebildiğini” ortaya serdiği kitabının adı aşağıdakilerden hangisidir?
@@ -2205,8 +2053,7 @@
     - D-) Gündelik Hayat Pratikleri
     - **Cevap E-) Altkültür: Tarzın Anlamı**
 
-    > **Açıklama:** Kültürel çalışmalar ekolünün görsel kültüre yönelik yaklaşımlarını öğrenebilme
-    > Dick Hebdige, “Altkültür: Tarzın Anlamı” ki­tabında alt kültürlerin endüstrinin manipülatif ve tektipleştirici tahakkümüne karşı giyimde, gündelik alışkanlıklarda nasıl kendi anlamlarını üretebildiğini ortaya sermiştir
+    > **Açıklama:** Kültürel çalışmalar ekolünün görsel kültüre yönelik yaklaşımlarını öğrenebilme<br />Dick Hebdige, “Altkültür: Tarzın Anlamı” ki­tabında alt kültürlerin endüstrinin manipülatif ve tektipleştirici tahakkümüne karşı giyimde, gündelik alışkanlıklarda nasıl kendi anlamlarını üretebildiğini ortaya sermiştir
 
     <hr />
 1. “Gösteri Toplumu” kitabıyla çağdaş kapitalist toplumlarda görselliğin gücünü işaret eden teorisyen aşağıdakilerden hangisidir?
@@ -2216,8 +2063,7 @@
     - D-) Stuart Hall
     - E-) John Berger
 
-    > **Açıklama:** Guy Debord’un Gösteri Toplumu kavramı bağlamında, görsel kültürün ideolojik boyutlarını analiz edebilme
-    > Guy Debord kuramları ve “Gösteri Toplumu” kitabıyla çağdaş kapitalist toplumlarda görselliğin gücünü işaret eden, kitleleri metinle­riyle etkilemiş bir kuramcıdır.
+    > **Açıklama:** Guy Debord’un Gösteri Toplumu kavramı bağlamında, görsel kültürün ideolojik boyutlarını analiz edebilme<br />Guy Debord kuramları ve “Gösteri Toplumu” kitabıyla çağdaş kapitalist toplumlarda görselliğin gücünü işaret eden, kitleleri metinle­riyle etkilemiş bir kuramcıdır.
 
     <hr />
 1. “Gösteri toplumunun imajlar üzerinden kurulduğunu ve metaların görsellikle pazarlandığının” altını çizen teorisyen aşağıdakilerden hangisidir?
@@ -2227,8 +2073,7 @@
     - D-) John Fiske
     - E-) David Morley
 
-    > **Açıklama:** Guy Debord’un Gösteri Toplumu kavramı bağlamında, görsel kültürün ideolojik boyutlarını analiz edebilme
-    > Guy Debord, gösteri toplumunun imajlar üzerinden kurulduğunu ve metaların görsellikle pazarlandığının altını çizmektedir.
+    > **Açıklama:** Guy Debord’un Gösteri Toplumu kavramı bağlamında, görsel kültürün ideolojik boyutlarını analiz edebilme<br />Guy Debord, gösteri toplumunun imajlar üzerinden kurulduğunu ve metaların görsellikle pazarlandığının altını çizmektedir.
 
     <hr />
 1. Aşağıdakilerden hangisi Pierre Bourdieu’nun görsel iletişim kuramları alanına kazandırdığı kavramlardan biri **değildir**?
@@ -2238,8 +2083,7 @@
     - D-) Kültürel sermaye
     - E-) Habitus
 
-    > **Açıklama:** Pierre Bourdieu’nun kuramlarını öğrenerek, günümüz görsel kültürünün temel dinamikleriyle ilişkilendirebilme
-    > “Gösteri Toplumu” kitabının yazarı Fransız aktivist ve teorisyen Guy Debord, kapitalist toplumlarda gösterinin hayatımızı nasıl kuşattığını anlatmış ve yaşamlarımızın nasıl bir gösteriye dönüştüğünü analiz etmiştir.”
+    > **Açıklama:** Pierre Bourdieu’nun kuramlarını öğrenerek, günümüz görsel kültürünün temel dinamikleriyle ilişkilendirebilme<br />“Gösteri Toplumu” kitabının yazarı Fransız aktivist ve teorisyen Guy Debord, kapitalist toplumlarda gösterinin hayatımızı nasıl kuşattığını anlatmış ve yaşamlarımızın nasıl bir gösteriye dönüştüğünü analiz etmiştir.”
 
     <hr />
 1. "Bireye içinde yaşadığı toplumda daha yüksek statü ve prestij sağlayan bilgi, tutum, eğitim ve becerilerin toplamı" olarak adlandırılan kavram aşağıdakilerden hangisidir?
@@ -2249,8 +2093,7 @@
     - D-) Gösteri toplumu
     - E-) Habitus
 
-    > **Açıklama:** PIERRE BOURDIEU VE GÖRSEL İLETİŞİM (KÜLTÜR) KURAMLARI
-    > **Kültürel Sermaye:** Bireye içinde yaşadığı toplumda daha yüksek statü ve prestij sağla­yan bilgi, tutum, eğitim ve becerilerin topla­mı (Sosyal Bilimler Sözlüğü)
+    > **Açıklama:** PIERRE BOURDIEU VE GÖRSEL İLETİŞİM (KÜLTÜR) KURAMLARI<br />**Kültürel Sermaye:** Bireye içinde yaşadığı toplumda daha yüksek statü ve prestij sağla­yan bilgi, tutum, eğitim ve becerilerin topla­mı (Sosyal Bilimler Sözlüğü)
 
     <hr />
 1. Görmek ile nesneler arasındaki ilişkiyi “bakılana değil bakana odaklanarak” tanımlayan, “duygu ve düşüncelerimizin nesneleri nasıl gördüğümüzü etkilediğini” ileri süren teorisyen aşağıdakilerden hangisidir?
@@ -2260,8 +2103,7 @@
     - D-) John Fiske
     - E-) David Morley
 
-    > **Açıklama:** John Berger’in görmeye yönelik yaklaşımlarını öğrenebilme
-    > Berger, görmek ile nesneler arasındaki ilişkiyi anla­tırken bakılana değil bakana odaklanmakta, duygu ve düşüncelerimizin nesneleri nasıl gördüğümüzü etkilediğini ileri sürmektedir
+    > **Açıklama:** John Berger’in görmeye yönelik yaklaşımlarını öğrenebilme<br />Berger, görmek ile nesneler arasındaki ilişkiyi anla­tırken bakılana değil bakana odaklanmakta, duygu ve düşüncelerimizin nesneleri nasıl gördüğümüzü etkilediğini ileri sürmektedir
 
     <hr />
 ## Unite 7
@@ -2272,8 +2114,7 @@
     - **Cevap D-) Estetik**
     - E-) Görsellik
 
-    > **Açıklama:** Doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal olarak tatmin edici olanın aranması; yaratı ile duyusal tatmin arasındaki ilişkinin öznesi olarak tanımlanabilecek kavram estetiktir.
-    > Doğru yanıt D'dir.
+    > **Açıklama:** Doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal olarak tatmin edici olanın aranması; yaratı ile duyusal tatmin arasındaki ilişkinin öznesi olarak tanımlanabilecek kavram estetiktir.<br />Doğru yanıt D'dir.
 
     <hr />
 1. Estetiği algı ve duyuların öncelediği bir oluşum olarak tanımlayıp sanat eserinin güzelliği ile ilgili değil, doğada var olanın genel güzelliği ile ilişkilendiren, güzellik duygusunu oluşturan öz’de/kök’te ne olduğunun anlamaya çalışma durumu olarak niteleyen filozof aşağıdakilerden hangisidir?
@@ -2283,8 +2124,7 @@
     - D-) Baumgarten
     - E-) Schiller
 
-    > **Açıklama:** Immanuel Kant, estetik kavramını etimolojik kökeninden alıp felsefe bağlamında ilk tartışan düşünürlerin başında gelir. Kant’ın kavram üzerindeki tanım ve görüşleri, estetik felsefesi alanında oldukça etkili olmuştur. Kant’a göre estetik, algı ve duyuların öncelediği bir oluşumdur ve sanat eserinin güzelliği ile ilgili değil, doğada var olanın genel güzelliği ile ilişkilidir. Bu çerçevede Kant’ın yaklaşımının güzellik duygusunu oluşturan öz’de/kök’te ne olduğunun anlamaya çalışma durumu olarak nitelemek mümkündür. Kant ayrıca, estetiği oluşturan unsurları kategorik olarak belirlemeye çalışmıştır. Estetik özne, estetik nesne, estetik yaşantı gibi başlıklar altında, estetik unsurunu algılayan, bu unsuru oluşturan ve unsurun içinde bulunduğu zaman-mekân uzamı gibi alanlarda kavramı detaylandırarak ele alır.
-    > Doğru cevap C'dir.
+    > **Açıklama:** Immanuel Kant, estetik kavramını etimolojik kökeninden alıp felsefe bağlamında ilk tartışan düşünürlerin başında gelir. Kant’ın kavram üzerindeki tanım ve görüşleri, estetik felsefesi alanında oldukça etkili olmuştur. Kant’a göre estetik, algı ve duyuların öncelediği bir oluşumdur ve sanat eserinin güzelliği ile ilgili değil, doğada var olanın genel güzelliği ile ilişkilidir. Bu çerçevede Kant’ın yaklaşımının güzellik duygusunu oluşturan öz’de/kök’te ne olduğunun anlamaya çalışma durumu olarak nitelemek mümkündür. Kant ayrıca, estetiği oluşturan unsurları kategorik olarak belirlemeye çalışmıştır. Estetik özne, estetik nesne, estetik yaşantı gibi başlıklar altında, estetik unsurunu algılayan, bu unsuru oluşturan ve unsurun içinde bulunduğu zaman-mekân uzamı gibi alanlarda kavramı detaylandırarak ele alır.<br />Doğru cevap C'dir.
 
     <hr />
 1. Felsefe tarihinde modern felsefi estetiğin kurucusu olarak kabul edilen 18. yüzyıl düşünürü aşağıdakilerden hangisidir?
@@ -2294,8 +2134,7 @@
     - D-) Hutcheson
     - E-) Rousseau
 
-    > **Açıklama:** Estetik kavramını, Kant'tan sonra yine 18. yüzyılda terim olarak ilk dile getiren ise 1735 yılında Alman filozof Alexander Gottlieb Baumgarten olmuştur. Baumgarten estetiği, duyusal bilgi ve deneyimin bilimi olarak niteler. Baumgarten, idrak etmenin deneyimi olarak sanatı ve bu bağlamda estetiği tanımlar. Baumgarten’in estetik üzerine yaptığı anlamlandırmalar, modern estetik kuramının ilk tanımları olarak kabul görür.
-    > Doğru cevap A'dır.
+    > **Açıklama:** Estetik kavramını, Kant'tan sonra yine 18. yüzyılda terim olarak ilk dile getiren ise 1735 yılında Alman filozof Alexander Gottlieb Baumgarten olmuştur. Baumgarten estetiği, duyusal bilgi ve deneyimin bilimi olarak niteler. Baumgarten, idrak etmenin deneyimi olarak sanatı ve bu bağlamda estetiği tanımlar. Baumgarten’in estetik üzerine yaptığı anlamlandırmalar, modern estetik kuramının ilk tanımları olarak kabul görür.<br />Doğru cevap A'dır.
 
     <hr />
 1. Sanat felsefesinde güzelliğin yanı sıra çirkinliğin de ele alındığına dair aşağıdakiler bilgilerden hangisi doğrudur?
@@ -2305,8 +2144,7 @@
     - **Cevap D-) Çirkinlikte de belirli bir estetik algısı vardır ve çirkinlik de eleştirel olarak ele alınabilir.**
     - E-) Güzellik ve çirkinlik, sadece kişisel tercihlere dayalıdır ve sanat felsefesiyle ilgisi yoktur.
 
-    > **Açıklama:** Sanat felsefesi, sanat eserini estetik unsurlarıyla birlikte incelese de estetik kavramını temsil etmek yerine, kavramı oluşturan unsurları kullanarak esere karşı eleştirisini sunar. Güzelliğin zıttı olan çirkinlikte de ve diğer zıt bileşenlerde de belirli bir estetik algısının olduğu ve/veya eleştirel olarak ele alınabileceği, güzellik unsuru kadar baskın olmasa da zaman zaman gündemde olmuştur.
-    > Doğru cevap D'dir.
+    > **Açıklama:** Sanat felsefesi, sanat eserini estetik unsurlarıyla birlikte incelese de estetik kavramını temsil etmek yerine, kavramı oluşturan unsurları kullanarak esere karşı eleştirisini sunar. Güzelliğin zıttı olan çirkinlikte de ve diğer zıt bileşenlerde de belirli bir estetik algısının olduğu ve/veya eleştirel olarak ele alınabileceği, güzellik unsuru kadar baskın olmasa da zaman zaman gündemde olmuştur.<br />Doğru cevap D'dir.
 
     <hr />
 1. Matematik ile güzellik kavramı arasında bağ olduğunu, nesnelerin altın orana yaklaştıkça daha çekici göründüklerini ifade etmiş düşünür aşağıdakilerden hangisidir?
@@ -2316,9 +2154,7 @@
     - D-) Descartes
     - E-) Locke
 
-    > **Açıklama:** Güzelliğin uyumla ilişkisi Pythagoras’ın (MÖ 570–MÖ 495) yaklaşımlarında önemli bir
-    > yer tutar. Pythagorascı okul, matematik ile güzellik kavramı arasında bağ olduğunu, nesnelerin altın orana yaklaştıkça daha çekici göründüklerini belirtir. Okula göre, güzel olanın estetik zevk unsuru olarak ilişkilendiği ve estetik bağlamında pozitif bir katma değer yarattığı ifade edilir.
-    > Doğru cevap C'dir.
+    > **Açıklama:** Güzelliğin uyumla ilişkisi Pythagoras’ın (MÖ 570–MÖ 495) yaklaşımlarında önemli bir<br />yer tutar. Pythagorascı okul, matematik ile güzellik kavramı arasında bağ olduğunu, nesnelerin altın orana yaklaştıkça daha çekici göründüklerini belirtir. Okula göre, güzel olanın estetik zevk unsuru olarak ilişkilendiği ve estetik bağlamında pozitif bir katma değer yarattığı ifade edilir.<br />Doğru cevap C'dir.
 
     <hr />
 1. Aşık Veysel Şatıroğlu'nun “Güzelliğin on para’ etmez, bu bendeki aşk olmasa” dizesinin temelinde yer alan görüş aşağıdakilerden hangisidir?
@@ -2328,8 +2164,7 @@
     - D-) Doğal olanda güzellik kendiliğinden belirmekte ve belli kurallara sadık kalacak şekilde, amaçsızdır.
     - E-) Bir şeyin kökeni, onun varlığının kaynağıdır.
 
-    > **Açıklama:** Güzellik kavramı böylelikle iki temel felsefi görüşte varlık bulur. Bir taraf, doğayı taklit eden veya idealara dayalı olan, genel ve objektif bir kavram olarak ele alırken, diğer taraf kavramı öznel ve gözlemcinin duygusal tepkisine göre değişken bir anlayış, görüş olarak kavrar. Öyle ki, Shakespeare’den (1588), Benjamin Franklin’e (1741), David Hume’dan (1742), Margaret Wolfe Hungerford’a (1878) kadar, zaman içinde çeşitli söyleyiş farkları ile karşımıza sıklıkla çıkan bir ifadeyle karşılık bulur “güzellik, bakan kişinin gözündedir”. Aynı ifade, bizim topraklarımızda ve kültürümüzde de dünyaca ünlü bir ozanın sazında, Aşık Veysel Şatıroğlu ile can bulur; “Güzelliğin on par’ etmez, bu bendeki aşk olmasa”.
-    > Doğru cevap A'dır.
+    > **Açıklama:** Güzellik kavramı böylelikle iki temel felsefi görüşte varlık bulur. Bir taraf, doğayı taklit eden veya idealara dayalı olan, genel ve objektif bir kavram olarak ele alırken, diğer taraf kavramı öznel ve gözlemcinin duygusal tepkisine göre değişken bir anlayış, görüş olarak kavrar. Öyle ki, Shakespeare’den (1588), Benjamin Franklin’e (1741), David Hume’dan (1742), Margaret Wolfe Hungerford’a (1878) kadar, zaman içinde çeşitli söyleyiş farkları ile karşımıza sıklıkla çıkan bir ifadeyle karşılık bulur “güzellik, bakan kişinin gözündedir”. Aynı ifade, bizim topraklarımızda ve kültürümüzde de dünyaca ünlü bir ozanın sazında, Aşık Veysel Şatıroğlu ile can bulur; “Güzelliğin on par’ etmez, bu bendeki aşk olmasa”.<br />Doğru cevap A'dır.
 
     <hr />
 1. Antik Yunan ve Roma uygarlıklarından 18. yüzyıldaki zanaat ve güzel sanatlar kırılımına kadar olan dönemde estetik ve güzellik kavramları nasıl algılanmıştır?
@@ -2339,8 +2174,7 @@
     - D-) Bu dönemde estetik ve güzellik, sadece sanat eserlerinin duygusal etkisini belirlemek için kullanılmıştır.
     - E-) Bu dönemde estetik ve güzellik, sadece sanat eserlerinin yaratımında dikkate alınmış ve işlevsel unsurlardan bağımsız olarak ele alınmıştır.
 
-    > **Açıklama:** Antik Yunan ve Roma uygarlıklarından 18. yüzyıldaki zanaat ve güzel sanatlar kırılımına kadar olan dönemde, estetik ve güzellik kavramları daha çok işlevsel bağlamlarla ilişkilendirilmiştir ve toplumsal işlevleri yerine getiren icra veya yapılar ön plandadır. Bu dönem boyunca, güzellik kavramı sadece fiziksel görünümle sınırlı kalmamış, ahlaki, zihinsel ve toplumsal değerleri ifade etmek için kullanılmıştır. Bu nedenle işlevsellik ve güzellik birlikte değerlendirilmiştir.
-    > Doğru cevap B'dir.
+    > **Açıklama:** Antik Yunan ve Roma uygarlıklarından 18. yüzyıldaki zanaat ve güzel sanatlar kırılımına kadar olan dönemde, estetik ve güzellik kavramları daha çok işlevsel bağlamlarla ilişkilendirilmiştir ve toplumsal işlevleri yerine getiren icra veya yapılar ön plandadır. Bu dönem boyunca, güzellik kavramı sadece fiziksel görünümle sınırlı kalmamış, ahlaki, zihinsel ve toplumsal değerleri ifade etmek için kullanılmıştır. Bu nedenle işlevsellik ve güzellik birlikte değerlendirilmiştir.<br />Doğru cevap B'dir.
 
     <hr />
 1. İyi bir mobilya tasarımcısından beklenen sandalye tasarımının hem oldukça rahat ve ergonomik bir yapı ile üzerine oturanı saatlerce rahat ettirecek şekilde taşıması hem de aynı zamanda ürünün satın alma adımında tercih edilebilir ve ayırt edilebilir bir estetiğe ve güzelliğe sahip olmasıdır.<br />Yukarıdaki tanıma göre tasarımın başarısıyla ilgili aşağıdakilerden hangisi doğrudur?
@@ -2350,8 +2184,7 @@
     - D-) Tasarımın başarısı yalnızca kullanıcı deneyimine bağlıdır.
     - E-) Tasarımın başarısı ergonomik ve rahat olmasına bağlıdır.
 
-    > **Açıklama:** Başarılı bir tasarımın sadece işlevselliği veya sadece estetiği değil, her ikisini de dengelemesi gerektiği vurgulanmaktadır. Örneğin, bir mobilya tasarımının sadece rahat olması yeterli değil, aynı zamanda estetik olarak tercih edilebilir olması gerekmektedir.
-    > Doğru cevap C'dir.
+    > **Açıklama:** Başarılı bir tasarımın sadece işlevselliği veya sadece estetiği değil, her ikisini de dengelemesi gerektiği vurgulanmaktadır. Örneğin, bir mobilya tasarımının sadece rahat olması yeterli değil, aynı zamanda estetik olarak tercih edilebilir olması gerekmektedir.<br />Doğru cevap C'dir.
 
     <hr />
 1. Sanat eseri, görsel kültür ve iletişim bağlamında nasıl bir işlev üstlenir?
@@ -2361,8 +2194,7 @@
     - D-) Sanat eseri, sanatçının öznel algılarının bir yansımasıdır ve iletişim işlevi üstlenmez.
     - E-) Sanat eseri, sadece görsel kültürü tanımlamak için kullanılır.
 
-    > **Açıklama:** Sanat eseri, işlevsellik üreterek iletişimsel bir yapı sağlar. Bu, anlamların ve algının görsel kültür ürününün taşıdığı işaretler ve kodlar aracılığıyla kişiler ve kitleler arasında iletilmesini sağlar. Bu nedenle sanat eseri, sadece galerilerde sergilenen bir seyirlik nesne olmaktan çıkar ve toplumsal işlev gören bir dolaşım nesnesine dönüşür.
-    > Doğru cevap B'dir.
+    > **Açıklama:** Sanat eseri, işlevsellik üreterek iletişimsel bir yapı sağlar. Bu, anlamların ve algının görsel kültür ürününün taşıdığı işaretler ve kodlar aracılığıyla kişiler ve kitleler arasında iletilmesini sağlar. Bu nedenle sanat eseri, sadece galerilerde sergilenen bir seyirlik nesne olmaktan çıkar ve toplumsal işlev gören bir dolaşım nesnesine dönüşür.<br />Doğru cevap B'dir.
 
     <hr />
 1. Banksy'nin "Girl With Balloon" adlı eseriyle ilgili olarak aşağıdaki bilgilerden hangisi doğrudur?
@@ -2372,8 +2204,7 @@
     - D-) Banksy'nin sanat anlayışı sadece galerilerde sergilenen eserlerle sınırlıdır ve toplumsal bir işlevi yoktur.
     - **Cevap E-) Eserin reprodüksiyon versiyonu, 1,4 milyon dolara alıcıya satıldığında yarıya kadar kendi kendini şeritler halinde kesmiştir.**
 
-    > **Açıklama:** Banksy'nin "Girl With Balloon" adlı eserinin reprodüksiyon versiyonu bir açık artırmada satışa sunulmuştur ve eser alıcı tarafından satın alındığında otomatik olarak kendi kendini yok etmeye başlayıp yarıya kadar kendiliğinden şeritler halinde kesilmiştir. Bu olay, Banksy'nin sanatının ve eleştirilerinin bir parçasıdır ve sanat eserlerinin satışı ve sanat endüstrisi üzerine bir eleştiri olarak kabul edilmektedir.
-    > Doğru cevap E'dir.
+    > **Açıklama:** Banksy'nin "Girl With Balloon" adlı eserinin reprodüksiyon versiyonu bir açık artırmada satışa sunulmuştur ve eser alıcı tarafından satın alındığında otomatik olarak kendi kendini yok etmeye başlayıp yarıya kadar kendiliğinden şeritler halinde kesilmiştir. Bu olay, Banksy'nin sanatının ve eleştirilerinin bir parçasıdır ve sanat eserlerinin satışı ve sanat endüstrisi üzerine bir eleştiri olarak kabul edilmektedir.<br />Doğru cevap E'dir.
 
     <hr />
 1. Doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal ola­rak tatmin edici olanın aranması, aşağıdaki kavramlardan hangisi ile açıklanabilir?
@@ -2383,8 +2214,7 @@
     - D-) Anlamlandırma
     - E-) Duyusal bilgi
 
-    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.
-    > **Estetik:** Doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal ola­rak tatmin edici olanın aranması; yaratı ile du­yusal tatmin arasındaki ilişkinin öznesi olarak tanımlanabilir. Doğru cevap C’dir.
+    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.<br />**Estetik:** Doğal ve/veya insan eliyle yaratılan her türlü imge, olgu ve anlatıda güzel ve duyusal ola­rak tatmin edici olanın aranması; yaratı ile du­yusal tatmin arasındaki ilişkinin öznesi olarak tanımlanabilir. Doğru cevap C’dir.
 
     <hr />
 1. Felsefi olarak güzellik kavramı, kaç temel görüşle açıklanır?
@@ -2394,8 +2224,7 @@
     - D-) Dört
     - E-) Beş
 
-    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.
-    > Güzellik kavramı iki temel felsefi görüşte varlık bulur. Bir taraf, doğayı taklit eden veya idealara dayalı olan, genel ve objektif bir kavram olarak ele alırken, diğer taraf kavramı gözlemcinin duygusal tepkisine göre değişken bir anlayış, görüş olarak kavrar. Doğru cevap B’dir.
+    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.<br />Güzellik kavramı iki temel felsefi görüşte varlık bulur. Bir taraf, doğayı taklit eden veya idealara dayalı olan, genel ve objektif bir kavram olarak ele alırken, diğer taraf kavramı gözlemcinin duygusal tepkisine göre değişken bir anlayış, görüş olarak kavrar. Doğru cevap B’dir.
 
     <hr />
 1. Shiner'e göre Antik Yunan ve Roma dönemde üretilen sanat eserleri, hangi özelliğiyle ön plana çıkmaktadır?
@@ -2405,8 +2234,7 @@
     - D-) Bütüncüllük
     - E-) Sanatsallık
 
-    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.
-    > Shiner (2004)Antik Yunan ve Roma uygarlıklarından bu yana, bugün sanat eseri olarak tanımlamaya meyilli olduğumuz estetik unsurların, daha ziyade toplumsal işlevleri yerine getiren ve iş­levsel varlıkları ile algılanan icra veya yapılar oldu­ğunu vurgular. Doğru cevap B’dir.
+    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.<br />Shiner (2004)Antik Yunan ve Roma uygarlıklarından bu yana, bugün sanat eseri olarak tanımlamaya meyilli olduğumuz estetik unsurların, daha ziyade toplumsal işlevleri yerine getiren ve iş­levsel varlıkları ile algılanan icra veya yapılar oldu­ğunu vurgular. Doğru cevap B’dir.
 
     <hr />
 1. Hem işlevselliğe önem veren hem de bu esnada üretilen icranın estetik ve güzellik unsurlarına da mükemmellik derecesinde özen gösterilen **ilk dönem,** aşağıdakilerden hangisidir?
@@ -2416,8 +2244,7 @@
     - D-) Yeni Çağ
     - E-) İmparatorluklar Dönemi
 
-    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.
-    > Bugün salt zanaat olarak algılanan birçok icra biçimi Orta Çağ Dönemi’nde, resim ve heykel kadar dikkat çek­mektedir. Rönesans Dönemi’ndeki nakkaşlar, mi­marlık, aşçılık, denizcilik, seyislik, ayakkabıcılık ve hokkabazlık gibi icracı meslekler hem yoğun işlev­sel görevleri yerine getiren yapıları maharetle kur­makta hem de bu esnada üretilen icranın estetik ve güzellik unsurlarına da mükemmellik derecesinde özen göstermektedir. Doğru cevap B’dir.
+    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.<br />Bugün salt zanaat olarak algılanan birçok icra biçimi Orta Çağ Dönemi’nde, resim ve heykel kadar dikkat çek­mektedir. Rönesans Dönemi’ndeki nakkaşlar, mi­marlık, aşçılık, denizcilik, seyislik, ayakkabıcılık ve hokkabazlık gibi icracı meslekler hem yoğun işlev­sel görevleri yerine getiren yapıları maharetle kur­makta hem de bu esnada üretilen icranın estetik ve güzellik unsurlarına da mükemmellik derecesinde özen göstermektedir. Doğru cevap B’dir.
 
     <hr />
 1. Pop-Art sanat akımının en önemli temsilcilerinden Andy Warhol’un eserlerinde aşağıdakilerden hangisi öne çıkmaktadır?
@@ -2427,8 +2254,7 @@
     - **Cevap D-) Bağlamlar arasılık**
     - E-) Temsiliyet
 
-    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.
-    > Pop-Art sanat akımının en önemli temsilcilerinden Andy Warhol’un, Duchamp’ın hazır-nesne ile sanat eseri üretme yaklaşımına benzer bir şe­kilde, günlük yaşam nesnelerinden ürettiği sanat eserle­rinden biri olan ve dönemin tüketim alışkanlıklarını ve aynılaşmayı eleştiren eseri, işlevsel anlamda sanat eseri­nin farklı mesaj ve bağlamlar taşımasına gösterilebilecek en güzel örneklerdendir. Günümüzde başta Banksy (www.banksy.co.uk) olmak üzere birçok sokak sanatçısı, dijital sanatçı vb. estetik, güzellik, fonksiyon ve felsefe bağlamlarında yeniden ve bağlamlar-arası düşünmemi­zi sağlayan sanatçı tavrı sergilemekte ve çok sayıda eser vermektedir. Doğru cevap D’dir.
+    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.<br />Pop-Art sanat akımının en önemli temsilcilerinden Andy Warhol’un, Duchamp’ın hazır-nesne ile sanat eseri üretme yaklaşımına benzer bir şe­kilde, günlük yaşam nesnelerinden ürettiği sanat eserle­rinden biri olan ve dönemin tüketim alışkanlıklarını ve aynılaşmayı eleştiren eseri, işlevsel anlamda sanat eseri­nin farklı mesaj ve bağlamlar taşımasına gösterilebilecek en güzel örneklerdendir. Günümüzde başta Banksy (www.banksy.co.uk) olmak üzere birçok sokak sanatçısı, dijital sanatçı vb. estetik, güzellik, fonksiyon ve felsefe bağlamlarında yeniden ve bağlamlar-arası düşünmemi­zi sağlayan sanatçı tavrı sergilemekte ve çok sayıda eser vermektedir. Doğru cevap D’dir.
 
     <hr />
 1. Kant’a göre “estetik” nasıl tanımlanır?
@@ -2438,8 +2264,7 @@
     - D-) Algılanan nesnenin konumunun uygunluğudur.
     - E-) Algılama biçiminin göze hoş gelen yapısıdır.
 
-    > **Açıklama:** Detaylı bilgi için ilgili ünite incelenebilir.
-    > ***Çözüm:*** Kant’a göre estetik, algı ve duyuların öncelediği bir oluşumdur ve sanat eserinin güzelliği ile ilgili değil, doğada var olanın genel güzelliği ile ilişkilidir. Doğru cevap B’dir.
+    > **Açıklama:** Detaylı bilgi için ilgili ünite incelenebilir.<br />***Çözüm:*** Kant’a göre estetik, algı ve duyuların öncelediği bir oluşumdur ve sanat eserinin güzelliği ile ilgili değil, doğada var olanın genel güzelliği ile ilişkilidir. Doğru cevap B’dir.
 
     <hr />
 1. Aşağıdakilerden hangisi estetik felsefesinin en temel motivasyonlarından biridir?
@@ -2449,8 +2274,7 @@
     - D-) İnsanın güzeli yaratma çabası.
     - **Cevap E-) İnsanın güzeli araması.**
 
-    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.
-    > Farklı düşünürlerin çalışmaları incelendiğinde insanın güzeli arayış ve anlatma çabası, estetik felsefesinin en temel motivasyonlarından biri olarak görünmektedir. Doğru cevap E’dir.
+    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.<br />Farklı düşünürlerin çalışmaları incelendiğinde insanın güzeli arayış ve anlatma çabası, estetik felsefesinin en temel motivasyonlarından biri olarak görünmektedir. Doğru cevap E’dir.
 
     <hr />
 1. “Picasso’nun La Guernica eserinde İspanya İç Savaşı’nın yıkımı resmedilmiştir.”<br />Yukarıda paylaşılan bilgide, sanat eserinin hangi özelliği vurgulanmıştır?
@@ -2460,8 +2284,7 @@
     - D-) Eserin kültürü
     - E-) Eserin sanatçısı
 
-    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.
-    > *İnsanoğlunun* kültürel ve teknolojik olarak özellikle üretim ve mecra bağlamında ilerlediği günümüze yakın olan dönemlerde, sanatı tanımlayan unsurlar aynı kalmakla birlikte; sanat eseri­nin ne olduğu ve eseri tanımlayan unsur olarak orijinalite meselesi çokça tartışılan bir yapı olarak karşımıza çıkmıştır. Örneğin, Şekil 3’te yer alan eserden yola çıkacak olursak; eseri, sanat eseri olarak tanımlamamızı sağlayan iki temel unsur yer almaktadır. Birincisi eserin, ünlü İspanyol ressam Picasso tarafından hayata geçirilmiş olmasıdır. İkincisi ise Picasso’nun bu eseri, İspanya iç savaşının yıkımını anlatmak için resmetmiş olmasıdır. Doğru cevap B’dir.
+    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.<br />*İnsanoğlunun* kültürel ve teknolojik olarak özellikle üretim ve mecra bağlamında ilerlediği günümüze yakın olan dönemlerde, sanatı tanımlayan unsurlar aynı kalmakla birlikte; sanat eseri­nin ne olduğu ve eseri tanımlayan unsur olarak orijinalite meselesi çokça tartışılan bir yapı olarak karşımıza çıkmıştır. Örneğin, Şekil 3’te yer alan eserden yola çıkacak olursak; eseri, sanat eseri olarak tanımlamamızı sağlayan iki temel unsur yer almaktadır. Birincisi eserin, ünlü İspanyol ressam Picasso tarafından hayata geçirilmiş olmasıdır. İkincisi ise Picasso’nun bu eseri, İspanya iç savaşının yıkımını anlatmak için resmetmiş olmasıdır. Doğru cevap B’dir.
 
     <hr />
 1. Sanatın güzellik olmadan da var olabileceğini savunan sanatçılar, aşağıdakilerden hangisidir?
@@ -2471,8 +2294,7 @@
     - D-) Kübistler
     - E-) Sürrealistler
 
-    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.
-    > Güzellik kavramını ve güzel sanatların yapısını ele alan sanat felsefesinde güzelliğin zıttı olan çirkinlikte de ve diğer zıt bileşenlerde de belirli bir estetik algısının olduğu ve/veya eleştirel olarak ele alınabileceği, güzellik unsuru kadar baskın olmasa da zaman zaman gündemde olmuştur. Danto’nun, (2013, s. 14) ünlü Dadaist sanatçı Marcel Duchamp’ın yaklaşımından bahsi, bu noktada güzel bir örnek oluşturur: Danto, Duchamp’ın “kaçınılması gereken tehlike estetik zevktir” dediğini ve 1913 ile 1917 yılları arasında meydana getirdiği ünlü hazır- nesne eserlerdeki amacı, bir anlamda estetik kaygılardan muaf eserler oluşturmak olarak aktarır.
+    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.<br />Güzellik kavramını ve güzel sanatların yapısını ele alan sanat felsefesinde güzelliğin zıttı olan çirkinlikte de ve diğer zıt bileşenlerde de belirli bir estetik algısının olduğu ve/veya eleştirel olarak ele alınabileceği, güzellik unsuru kadar baskın olmasa da zaman zaman gündemde olmuştur. Danto’nun, (2013, s. 14) ünlü Dadaist sanatçı Marcel Duchamp’ın yaklaşımından bahsi, bu noktada güzel bir örnek oluşturur: Danto, Duchamp’ın “kaçınılması gereken tehlike estetik zevktir” dediğini ve 1913 ile 1917 yılları arasında meydana getirdiği ünlü hazır- nesne eserlerdeki amacı, bir anlamda estetik kaygılardan muaf eserler oluşturmak olarak aktarır.
 
     <hr />
 1. Banksy müzayede evi satışı esnasında (2018) kendi kendini imha eden eseri ile hangi noktaya dikkat çekmek istemiştir?
@@ -2482,8 +2304,7 @@
     - **Cevap D-) Tekelleşmeye karşı duruşa**
     - E-) Sanatın yeni katmanlarına
 
-    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.
-    > Banksy’nin en ünlü eserleri arasında olan “Girl with the Baloon” adlı eseri 2018 tarihli yeniden üretilen reprodüksiyon versiyonu, müzayede evindeki satış esnasında, herkesin gözleri önünde kendi kendini yok eden otomatik bir mekanizmanın devreye girmesiyle, yarıya kadar kendi kendini şeritler hâlinde kesmiştir. Banksy’nin önceden planladığı ve kendisi dışında kimse tarafından bilinmeyen bu durum eserin icrasına yöne­lik yeni bir eylem katmandır. Banksy’nin bu eyle­mi, sanatın alım-satım yapılan bir endüstriye dö­nüşmesi ve sanatı yöneten tekel kurumlar sistemine yönelik, en büyük eleştirilerden biri olarak dünya sanat tarihinde yerini almıştır.
+    > **Açıklama:** Detaylı bilgi için ilgili bölüm incelenebilir.<br />Banksy’nin en ünlü eserleri arasında olan “Girl with the Baloon” adlı eseri 2018 tarihli yeniden üretilen reprodüksiyon versiyonu, müzayede evindeki satış esnasında, herkesin gözleri önünde kendi kendini yok eden otomatik bir mekanizmanın devreye girmesiyle, yarıya kadar kendi kendini şeritler hâlinde kesmiştir. Banksy’nin önceden planladığı ve kendisi dışında kimse tarafından bilinmeyen bu durum eserin icrasına yöne­lik yeni bir eylem katmandır. Banksy’nin bu eyle­mi, sanatın alım-satım yapılan bir endüstriye dö­nüşmesi ve sanatı yöneten tekel kurumlar sistemine yönelik, en büyük eleştirilerden biri olarak dünya sanat tarihinde yerini almıştır.
 
     <hr />
 1. Estetik kavramından ilk bahseden kaynak ve yazarı aşağıdakilerden hangisidir?
@@ -2493,8 +2314,7 @@
     - D-) The Ethics of Aristotle, Aristo
     - E-) Epinomis, Platon
 
-    > **Açıklama:** Etimolojik yaklaşımlar doğrultusunda, estetik kavramından ilk bahseden kaynak, 1712 yılında Joseph Addison tarafından, **“The Spectator”** dergisinde yazılan bir seri makale olan “Hayalgücünün Zevkleri” olmuştur.
-    > The Spectator, Joseph Addison
+    > **Açıklama:** Etimolojik yaklaşımlar doğrultusunda, estetik kavramından ilk bahseden kaynak, 1712 yılında Joseph Addison tarafından, **“The Spectator”** dergisinde yazılan bir seri makale olan “Hayalgücünün Zevkleri” olmuştur.<br />The Spectator, Joseph Addison
 
     <hr />
 1. Immanuel Kant’a göre güzellik duygusunu oluşturan öz’de/kök’te ne olduğunun anlamaya çalışma durumu olarak niteleyerek, estetiği oluşturan unsurları kategorik olarak belirlemeye çalışmıştır. Aşağıdakilerden hangisi ***bu kategorilerdendir?***
@@ -2524,8 +2344,7 @@
     - D-) Jackson Pollock
     - **Cevap E-) Marcel Duchamp**
 
-    > **Açıklama:** .... **Duchamp’ın** hazır nesneleri, estetik unsuru gözetilmeden de sanat eserinden ve sanat yapma kavramından bahsedilmesi demektir.
-    > Marcel Duchamp
+    > **Açıklama:** .... **Duchamp’ın** hazır nesneleri, estetik unsuru gözetilmeden de sanat eserinden ve sanat yapma kavramından bahsedilmesi demektir.<br />Marcel Duchamp
 
     <hr />
 1. “Güzelliğin on par’ etmez, bu bendeki aşk olmasa” sözü ile bizim topraklarımızda ve kültürümüzde güzelliği farklı bir üslupla dile getiren sanatçı aşağıdakilerden hangisidir?
@@ -2535,8 +2354,7 @@
     - D-) Neşet Ertaş
     - E-) Âşık Veysel
 
-    > **Açıklama:** Bizim topraklarımızda ve kültürümüzde de dünyaca ünlü bir ozanın sazında, **Aşık Veysel Şatıroğlu** ile can bulur; **“Güzelliğin on par’ etmez, bu bendeki aşk olmasa”**
-    > Âşık Veysel
+    > **Açıklama:** Bizim topraklarımızda ve kültürümüzde de dünyaca ünlü bir ozanın sazında, **Aşık Veysel Şatıroğlu** ile can bulur; **“Güzelliğin on par’ etmez, bu bendeki aşk olmasa”**<br />Âşık Veysel
 
     <hr />
 1. Estetiği “varlığın aydınlanması, doğruluk olarak tanımlar. Mantıksal olan değil, gerçek olan doğruluk yani varlıkların içinde olandır. Bu bağlamda gizli olanı, herkesin görebileceği şekilde açığa çıkarmak, güzelliği ortaya koymaktır.” Bu tanımlamayı yapan filozof/düşünür aşağıdakilerden hangisidir?
@@ -2546,9 +2364,7 @@
     - **Cevap D-) Martin Heidegger**
     - E-) Immanuel Kant
 
-    > **Açıklama:** Martin Heidegger ise, kavramı **“varlığın aydınlanması, doğruluk”** olarak tanımlar. Heidegger’in
-    > ele aldığı doğruluk, mantıksal olan değil, gerçek olan doğruluk yani varlıkların içinde olandır. **Bu**
-    > **bağlamda gizli olanı, herkesin görebileceği şekilde açığa çıkarmak, güzelliği ortaya koymaktır** (Heidegger, 2007; Kula, 2012).
+    > **Açıklama:** Martin Heidegger ise, kavramı **“varlığın aydınlanması, doğruluk”** olarak tanımlar. Heidegger’in<br />ele aldığı doğruluk, mantıksal olan değil, gerçek olan doğruluk yani varlıkların içinde olandır. **Bu**<br />**bağlamda gizli olanı, herkesin görebileceği şekilde açığa çıkarmak, güzelliği ortaya koymaktır** (Heidegger, 2007; Kula, 2012).
 
     <hr />
 1. Güzellik kavramını, “biçim ya da fiziksel görünüm için olduğu kadar zihin ve karakter, gelenekler ve siyasal sistemler için de kullanılması gerektiğini” tanımlayan düşünür aşağıdakilerden hangisidir?
@@ -2558,9 +2374,7 @@
     - D-) Danto
     - E-) Aristo
 
-    > **Açıklama:** **Shiner**’ın (2004, s. 53) aktardıklarıyla; kavram “biçim ya da fiziksel görünüm için olduğu kadar
-    > zihin ve karakter, gelenekler ve siyasal sistemler için de kullanılan genel bir övgü terimi olarak” çalışır.
-    > Larry Shiner
+    > **Açıklama:** **Shiner**’ın (2004, s. 53) aktardıklarıyla; kavram “biçim ya da fiziksel görünüm için olduğu kadar<br />zihin ve karakter, gelenekler ve siyasal sistemler için de kullanılan genel bir övgü terimi olarak” çalışır.<br />Larry Shiner
 
     <hr />
 1. Rönesans Döneminde birçok mesleklerin icrasında **“estetik ve güzellik”** unsurlarına da mükemmellik derecesinde özen gösterilmektedir. Aşağıdakilerden hangisi bu mesleklerden **değildir?**
@@ -2570,9 +2384,7 @@
     - D-) Hokkabazlık
     - E-) Mimarlık
 
-    > **Açıklama:** Rönesans Dönemi’ndeki **nakkaşlar, mimarlık, aşçılık, denizcilik, seyislik, ayakkabıcılık ve**
-    > **hokkabazlık gibi icracı meslekler** hem yoğun işlevsel görevleri yerine getiren yapıları maharetle kurmakta hem de bu esnada üretilen icranın estetik ve güzellik unsurlarına da mükemmellik derecesinde özen göstermektedir (Shiner, 2004).
-    > Tipograf
+    > **Açıklama:** Rönesans Dönemi’ndeki **nakkaşlar, mimarlık, aşçılık, denizcilik, seyislik, ayakkabıcılık ve**<br />**hokkabazlık gibi icracı meslekler** hem yoğun işlevsel görevleri yerine getiren yapıları maharetle kurmakta hem de bu esnada üretilen icranın estetik ve güzellik unsurlarına da mükemmellik derecesinde özen göstermektedir (Shiner, 2004).<br />Tipograf
 
     <hr />
 1. Sanat eserinin görsel kültür bağlamında fonksiyonundan bahsederken ele alınması gereken bir bakış açısı daha bulunmaktadır. İşlev sadece teknik olarak yerine gelen hazza dayalı çözüm değildir. Aynı zamanda icra edilen eserin bağlamsal ilişkileri vardır. Aşağıdakilerden hangisi bu bağlamlardan **değildir?**
@@ -2582,9 +2394,7 @@
     - **Cevap D-) Sanatçının çevresel gücü**
     - E-) Sanatçının tavrı
 
-    > **Açıklama:** Sanat eserinin görsel kültür bağlamında fonksiyonundan bahsederken ele alınması gereken bir bakış
-    > açısı daha bulunmaktadır. İşlev sadece teknik olarak yerine gelen hazza dayalı çözüm değildir. Aynı zamanda **icra edilen eserin, içinde bulunulan sosyoekonomik yapı, toplumsal hareketler, sanatçısının duruşu ve tavrı gibi bağlamlarda ilişkiye geçtiği ve esere has bir anlam yarattığı** alan olarak da değerlendirilmelidir.
-    > Sanatçının çevresel gücü
+    > **Açıklama:** Sanat eserinin görsel kültür bağlamında fonksiyonundan bahsederken ele alınması gereken bir bakış<br />açısı daha bulunmaktadır. İşlev sadece teknik olarak yerine gelen hazza dayalı çözüm değildir. Aynı zamanda **icra edilen eserin, içinde bulunulan sosyoekonomik yapı, toplumsal hareketler, sanatçısının duruşu ve tavrı gibi bağlamlarda ilişkiye geçtiği ve esere has bir anlam yarattığı** alan olarak da değerlendirilmelidir.<br />Sanatçının çevresel gücü
 
     <hr />
 1. İşlevsel anlamda sanat eserinin farklı mesaj ve bağlamlar taşıması ve icraları (uygulama) bağlamında iki temel özelliği vardır. Aşağıdakilerden hangisi bu özelliklerdir?
@@ -2594,8 +2404,7 @@
     - D-) Kodlar-İletişim
     - E-) Anlam-Bağlam
 
-    > **Açıklama:** Bu anlamda işlev gören eserler, icraları bağlamında, belirli **işaret ve kodlar** taşır. **İşaret ve kodlar,** kültürel temellerin ikiz yapıları gibi düşünülebilir ve mesaj ve anlam bağlamlarında karşılık bulur (Barnard, 2005, s. 26).
-    > İşaret-Kodlar
+    > **Açıklama:** Bu anlamda işlev gören eserler, icraları bağlamında, belirli **işaret ve kodlar** taşır. **İşaret ve kodlar,** kültürel temellerin ikiz yapıları gibi düşünülebilir ve mesaj ve anlam bağlamlarında karşılık bulur (Barnard, 2005, s. 26).<br />İşaret-Kodlar
 
     <hr />
 ## Unite 8
@@ -2606,17 +2415,7 @@
     - D-) Aragon
     - E-) Ferdinand de Saussure
 
-    > **Açıklama:** Fransız teorisyen Jean Baudrillard, köken olarak
-    > Marksizm’e yakın bir isim olmakla beraber, zamanla
-    > Marksizm’den uzaklaşmış ve postmodern yazının
-    > en önemli isimlerinden biri olmuştur. Ülkemizde
-    > de pek çok eseri çevrilen Baudrillard, simülasyon
-    > kuramı ve tüketim toplumu analizleriyle görsel
-    > iletişim kültürü araştırmaları için de son derece
-    > önemli bir kuramcıdır. Kendini postmodern olarak
-    > tanımlayan Baudrillard, kendine özgü bakış açısı
-    > ile günümüz modern toplumunun pek çok sorununu
-    > analiz etmiştir (
+    > **Açıklama:** Fransız teorisyen Jean Baudrillard, köken olarak<br />Marksizm’e yakın bir isim olmakla beraber, zamanla<br />Marksizm’den uzaklaşmış ve postmodern yazının<br />en önemli isimlerinden biri olmuştur. Ülkemizde<br />de pek çok eseri çevrilen Baudrillard, simülasyon<br />kuramı ve tüketim toplumu analizleriyle görsel<br />iletişim kültürü araştırmaları için de son derece<br />önemli bir kuramcıdır. Kendini postmodern olarak<br />tanımlayan Baudrillard, kendine özgü bakış açısı<br />ile günümüz modern toplumunun pek çok sorununu<br />analiz etmiştir (
 
     <hr />
 1. Baudrillard, modern toplumlarda artık gerçekliğin yerini neyin aldığını söylemektedir?
@@ -2626,14 +2425,7 @@
     - D-) toplumsallığın
     - E-) bireyciliğin
 
-    > **Açıklama:** Baudrillard, modern toplumlarda artık gerçekliğin
-    > yerini simülasyonların aldığını, kitlelerin de hızla
-    > sessiz yığınlara dönüştüğünü dile getirmektedir. Kitlelerin
-    > buharlaştığını, onların yerini de toplumsalın
-    > içinde kaybolduğu karadeliklerin aldığı bir evrende
-    > artık bilinen sınıflar da ortadan kalkmıştır. Klasik
-    > sınıfların yerini apolitik kitleler almış, anlamın yerini
-    > de görsel göstergeler almıştır
+    > **Açıklama:** Baudrillard, modern toplumlarda artık gerçekliğin<br />yerini simülasyonların aldığını, kitlelerin de hızla<br />sessiz yığınlara dönüştüğünü dile getirmektedir. Kitlelerin<br />buharlaştığını, onların yerini de toplumsalın<br />içinde kaybolduğu karadeliklerin aldığı bir evrende<br />artık bilinen sınıflar da ortadan kalkmıştır. Klasik<br />sınıfların yerini apolitik kitleler almış, anlamın yerini<br />de görsel göstergeler almıştır
 
     <hr />
 1. Baudrillard, yaşadığımız hipergerçekliği bir ..................... evrenine benzetmiştir. Cümlesinde boşluğa aşağıdakilerden hangisi gelmelidir?
@@ -2643,13 +2435,7 @@
     - D-) Primitiflik
     - E-) Uzay
 
-    > **Açıklama:** Baudrillard, yaşadığımız hipergerçekliği bir Disneyland
-    > evrenine benzetmiştir. Bu dünya imajlar
-    > üzerinden tüketimin ve ilişkilerin gerçekleştiği bir
-    > panayır alanıdır ve simülasyonlar ve simülakrlar
-    > gerçeği ikame etmektedir. Disneyland bütün simülakr
-    > düzenlerinin iç içe geçmiş olduğu kusursuz bir
-    > modeldir.
+    > **Açıklama:** Baudrillard, yaşadığımız hipergerçekliği bir Disneyland<br />evrenine benzetmiştir. Bu dünya imajlar<br />üzerinden tüketimin ve ilişkilerin gerçekleştiği bir<br />panayır alanıdır ve simülasyonlar ve simülakrlar<br />gerçeği ikame etmektedir. Disneyland bütün simülakr<br />düzenlerinin iç içe geçmiş olduğu kusursuz bir<br />modeldir.
 
     <hr />
 1. Baudrillard, Disneyland’ın hangi ülkenin bir minyatürü olduğunu iddia eder?
@@ -2659,11 +2445,7 @@
     - **Cevap D-) Amerika**
     - E-) Çin
 
-    > **Açıklama:** Disneyland’ın Amerika’nın bir minyatürü olduğunu iddia eden
-    > yazar, burada gösterinin gerçeğin yerini aldığını ve fantazyaların tatmininin kitleler tarafından öncelenerek
-    > gönüllü bir bilinç yitiminin deneyimlendiğini ileri sürmektedir. Amerika’yı da Disneyland gibi, devasa bir
-    > park, gösteri mekânı olarak tanımlayan Baudrillard, gerçeğin yitiminin ve simülasyonun hâkimiyetinin bu
-    > tematik park örneğinde kendini gösterdiğini vurgulamaktadır.
+    > **Açıklama:** Disneyland’ın Amerika’nın bir minyatürü olduğunu iddia eden<br />yazar, burada gösterinin gerçeğin yerini aldığını ve fantazyaların tatmininin kitleler tarafından öncelenerek<br />gönüllü bir bilinç yitiminin deneyimlendiğini ileri sürmektedir. Amerika’yı da Disneyland gibi, devasa bir<br />park, gösteri mekânı olarak tanımlayan Baudrillard, gerçeğin yitiminin ve simülasyonun hâkimiyetinin bu<br />tematik park örneğinde kendini gösterdiğini vurgulamaktadır.
 
     <hr />
 1. Baudrillard, simülatif toplumlarda neyin işlevine ağırlık vermekte ve neyin aracılığıyla insanların duygularının yeniden düzenlendiğinin altını çizmektedir?
@@ -2693,10 +2475,7 @@
     - D-) Kurgudan
     - E-) Biçimsellikten
 
-    > **Açıklama:** Mesajdan yoksun medyanın, kitle iletişim aracı olma özelliğini
-    > kaybettiğini öne süren Baudrillard, medyanın gerçeğin aracısı olduğu iddiasını da yitirdiğini söylemektedir.
-    > Baudrillard bu süreci için için kaynama olarak tanımlamakta ve iletişim araçlarının geçmişte sahip
-    > oldukları etki gücünü yitirdiklerini ileri sürmektedir.
+    > **Açıklama:** Mesajdan yoksun medyanın, kitle iletişim aracı olma özelliğini<br />kaybettiğini öne süren Baudrillard, medyanın gerçeğin aracısı olduğu iddiasını da yitirdiğini söylemektedir.<br />Baudrillard bu süreci için için kaynama olarak tanımlamakta ve iletişim araçlarının geçmişte sahip<br />oldukları etki gücünü yitirdiklerini ileri sürmektedir.
 
     <hr />
 1. Baudrillard'a göre aşağıdakilerden hangisi postmodern toplumların en önemli toplumsal aktörlerinin başında gelir ve kurguladığı mesajlarla hem bir tüketim toplumu yaratmayı amaçlar hem de kitlenin duygularını manipüle ederek onları sistemin uyumlu takipçilerine dönüştürür?
@@ -2706,9 +2485,7 @@
     - D-) Ülkeler
     - E-) Siyasetçiler
 
-    > **Açıklama:** Postmodern toplumların en önemli toplumsal aktörlerinin başında gelen medya, kurguladığı mesajlarla
-    > hem bir tüketim toplumu yaratmayı amaçlar hem de kitlenin duygularını manipüle ederek onları sistemin
-    > uyumlu takipçilerine dönüştürür.
+    > **Açıklama:** Postmodern toplumların en önemli toplumsal aktörlerinin başında gelen medya, kurguladığı mesajlarla<br />hem bir tüketim toplumu yaratmayı amaçlar hem de kitlenin duygularını manipüle ederek onları sistemin<br />uyumlu takipçilerine dönüştürür.
 
     <hr />
 1. Baudrillard’ın tüm yapıtlarında, göstergeler üzerinden yapılandırılan neyin eleştirisi geniş yer tutar?
@@ -2718,10 +2495,7 @@
     - **Cevap D-) tüketim toplumunun**
     - E-) yansıtmacılığın
 
-    > **Açıklama:** Baudrillard’ın tüm yapıtlarında, göstergeler
-    > üzerinden yapılandırılan tüketim toplumu eleştirisi
-    > geniş yer tutar.
-    > tüketim toplumunun
+    > **Açıklama:** Baudrillard’ın tüm yapıtlarında, göstergeler<br />üzerinden yapılandırılan tüketim toplumu eleştirisi<br />geniş yer tutar.<br />tüketim toplumunun
 
     <hr />
 1. Postmodern toplumda yeniden sahip çıkılan kapitalist bir yatırım aracına dönüşmüş, yapılan yatırımın piyasada karşılığı olmakta ve yapılan yatırımın karşılığını Baudrillard'a göre ne geri vermektedir?
@@ -2731,9 +2505,7 @@
     - D-) medya
     - **Cevap E-) beden**
 
-    > **Açıklama:** Postmodern toplumda yeniden sahip çıkılan beden, kapitalist bir yatırım aracına dönüşmüştür. Bedene
-    > yapılan yatırımın piyasada karşılığı olmakta ve yapılan yatırımın karşılığını geri vermektedir. Bu bağlamda
-    > beden, âdeta bir kültürel nesne gibi düzenlenmekte, tasarlanmakta ve daha kar edilebilir bir boyuta indirgenmektedir.
+    > **Açıklama:** Postmodern toplumda yeniden sahip çıkılan beden, kapitalist bir yatırım aracına dönüşmüştür. Bedene<br />yapılan yatırımın piyasada karşılığı olmakta ve yapılan yatırımın karşılığını geri vermektedir. Bu bağlamda<br />beden, âdeta bir kültürel nesne gibi düzenlenmekte, tasarlanmakta ve daha kar edilebilir bir boyuta indirgenmektedir.
 
     <hr />
 1. Baudrillard’a göre hangi akım ile birlikte birlikte simülakrlar toplumun tamamına nüfuz etmiş ve enformasyon teknolojilerinde yaşanan hızlı değişimin ardından gerçek ile hipergerçeklik âdeta yer değiştirmiştir?
@@ -2743,8 +2515,7 @@
     - D-) Expresyonizm
     - E-) Sürrealizm
 
-    > **Açıklama:** Postmodernizmle birlikte simülakrlar toplumun tamamına nüfuz etmiş ve enformasyon teknolojilerinde yaşanan hızlı değişimin ardından gerçek ile hipergerçeklik âdeta yer değiştirmiştir.
-    > Sorunun doğru cevabı A seçeneğinde verilmiştir.
+    > **Açıklama:** Postmodernizmle birlikte simülakrlar toplumun tamamına nüfuz etmiş ve enformasyon teknolojilerinde yaşanan hızlı değişimin ardından gerçek ile hipergerçeklik âdeta yer değiştirmiştir.<br />Sorunun doğru cevabı A seçeneğinde verilmiştir.
 
     <hr />
 1. Madan Sarup, “Postyapısalcılık ve Postmodernizm” kitabında Baudrillard’ın simülasyon evrenine geçişte üç tarihi aşama olduğunu belirtir. Bu aşamalardan hangisinde burjuvazinin palazlanmış ve simülakrlar da ilk kez ortaya çıkmıştır?
@@ -2754,8 +2525,7 @@
     - D-) Postmodern Dönem
     - E-) Klasik Dönem
 
-    > **Açıklama:** Madan Sarup, “Postyapısalcılık ve Postmodernizm” kitabında Baudrillard’ın simülasyon evrenine geçişte üç tarihi aşama olduğunu belirtir. Erken Modernlik Dönemi, Aydınlanma ile başlayıp, Sanayi Devrimi’nin başlangıcına kadar olan süreci kapsamaktadır. Bu dönemde sınıfsal hareketlilik başlamış ve toplumda baskın olan sınıfların statüleri değişmiştir. Burjuvazinin palazlandığı bu dönem aynı zamanda simülakrların da ilk ortaya çıktığı dönemdir.
-    > Sorunun doğru cevabı B seçeneğinde verilmiştir
+    > **Açıklama:** Madan Sarup, “Postyapısalcılık ve Postmodernizm” kitabında Baudrillard’ın simülasyon evrenine geçişte üç tarihi aşama olduğunu belirtir. Erken Modernlik Dönemi, Aydınlanma ile başlayıp, Sanayi Devrimi’nin başlangıcına kadar olan süreci kapsamaktadır. Bu dönemde sınıfsal hareketlilik başlamış ve toplumda baskın olan sınıfların statüleri değişmiştir. Burjuvazinin palazlandığı bu dönem aynı zamanda simülakrların da ilk ortaya çıktığı dönemdir.<br />Sorunun doğru cevabı B seçeneğinde verilmiştir
 
     <hr />
 1. Baudrillard’a göre modern toplumlarda gerçekliğin yerini ne almıştır?
@@ -2765,8 +2535,7 @@
     - D-) Simülasyon
     - E-) Postmodernizm
 
-    > **Açıklama:** Modern toplumlarda gerçekliğin yerini hipergerçekliğin aldığını vurgulayan Baudrillard, bunu da Disneyland örneği üzerinden tartışmaktadır.
-    > Sorunun doğru cevabı C seçeneğinde verilmiştir.
+    > **Açıklama:** Modern toplumlarda gerçekliğin yerini hipergerçekliğin aldığını vurgulayan Baudrillard, bunu da Disneyland örneği üzerinden tartışmaktadır.<br />Sorunun doğru cevabı C seçeneğinde verilmiştir.
 
     <hr />
 1. Baudrillard’a göre hangi öğe simülasyon dünyasının en belirleyici aktörlerinden biri ve bu evrenin gerçeklik aygıtı haline gelmiştir?
@@ -2776,8 +2545,7 @@
     - **Cevap D-) Televizyon**
     - E-) Radyo
 
-    > **Açıklama:** Gerçek, yerini medya gerçekliği ile değiştirmiş, televizyon simülasyon dünyasının en belirleyici aktörlerinden biri hâline gelmiştir. Televizyonun bu evrenin gerçeklik aygıtı hâline gelmiş, gerçek ile kurgu birbirine karışmış ve imgeler hakikatin kendisi hâline dönüşmüştür.
-    > Sorunun doğru cevabı D seçeneğinde verilmiştir.
+    > **Açıklama:** Gerçek, yerini medya gerçekliği ile değiştirmiş, televizyon simülasyon dünyasının en belirleyici aktörlerinden biri hâline gelmiştir. Televizyonun bu evrenin gerçeklik aygıtı hâline gelmiş, gerçek ile kurgu birbirine karışmış ve imgeler hakikatin kendisi hâline dönüşmüştür.<br />Sorunun doğru cevabı D seçeneğinde verilmiştir.
 
     <hr />
 1. Aşağıdakilerden hangisi temsil sürecinde özenle sınıfsal çatışmadan, sömürüden ve kendi gerçekliğinden koparılarak dramatik, eğlenceli ve egemen söylemin izleğinde birer göstergelere dönüştürülür?
@@ -2787,8 +2555,7 @@
     - D-) Reklamlar
     - **Cevap E-) Haberler**
 
-    > **Açıklama:** Özellikle haber aktarım süreci, kitlenin duyarsızlaştırılmasında son derece etkili bir iktidar stratejisidir. Haberler, temsil sürecinde özenle sınıfsal çatışmadan, sömürüden ve kendi gerçekliğinden koparılarak dramatik, eğlenceli ve egemen söylemin izleğinde birer göstergelere dönüştürülür.
-    > Sorunun doğru cevabı E seçeneğinde verilmiştir.
+    > **Açıklama:** Özellikle haber aktarım süreci, kitlenin duyarsızlaştırılmasında son derece etkili bir iktidar stratejisidir. Haberler, temsil sürecinde özenle sınıfsal çatışmadan, sömürüden ve kendi gerçekliğinden koparılarak dramatik, eğlenceli ve egemen söylemin izleğinde birer göstergelere dönüştürülür.<br />Sorunun doğru cevabı E seçeneğinde verilmiştir.
 
     <hr />
 1. Aşağıdakilerden hangisi bir tüketim toplumunda tüketimin işlevlerinden biri değildir?
@@ -2798,8 +2565,7 @@
     - D-) Bireylerin toplum içinde kendilerini konumlandırması
     - **Cevap E-) Normların sağlanması**
 
-    > **Açıklama:** Tüketim toplumunda, tüketmek sadece ihtiyaçların giderilmesine değil, aynı zamanda bireylerin sosyalleşmelerine, toplumsal statülerinin belirlenmesine ve toplum içinde kendilerini nasıl konumlandırdıklarına yönelik işlev görürler.
-    > Sorunun doğru cevabı E seçeneğinde verilmiştir.
+    > **Açıklama:** Tüketim toplumunda, tüketmek sadece ihtiyaçların giderilmesine değil, aynı zamanda bireylerin sosyalleşmelerine, toplumsal statülerinin belirlenmesine ve toplum içinde kendilerini nasıl konumlandırdıklarına yönelik işlev görürler.<br />Sorunun doğru cevabı E seçeneğinde verilmiştir.
 
     <hr />
 1. Aşağıdakilerden hangisi Baudrillard’ın tüketim analizinde, bünyesinde barındırdığı metalarıyla tüketicilere renk, ışık ve koku oyunları ile pazarlayan bir tüketim katedrali olarak geniş yer tutmaktadır?
@@ -2809,8 +2575,7 @@
     - **Cevap D-) Alışveriş merkezleri**
     - E-) Halk pazarları
 
-    > **Açıklama:** Baudrillard’ın tüketim analizinde alışveriş merkezleri onlardan yayılan büyülü görsel kültür geniş yer tutmaktadır. Bünyesinde barındırdığı metaları, tüketicilere renk, ışık ve koku oyunları ile pazarlayan bu tüketim katedralleri, bu yolla insanların dikkatini nesneye değil kendilerine yöneltmektedir.
-    > Sorunun doğru cevabı D seçenğinde verilmiştir.
+    > **Açıklama:** Baudrillard’ın tüketim analizinde alışveriş merkezleri onlardan yayılan büyülü görsel kültür geniş yer tutmaktadır. Bünyesinde barındırdığı metaları, tüketicilere renk, ışık ve koku oyunları ile pazarlayan bu tüketim katedralleri, bu yolla insanların dikkatini nesneye değil kendilerine yöneltmektedir.<br />Sorunun doğru cevabı D seçenğinde verilmiştir.
 
     <hr />
 1. Jean Baudrillard’a göre hangi sanat akımı ile birlikte, nesneler imgenin hakikati olmaktan çıkmış, göstergeler olarak eşit bir biçimde ‘rol aldıkları’ uzamda ve aynı mantıksal mekânda birlikte var olmuşlardır?
@@ -2820,8 +2585,7 @@
     - D-) Modernizm
     - E-) Postmodernizm
 
-    > **Açıklama:** Jean Baudrillard Pop Art’ı göstergelerin ve tüketim kültürün sanata yansıması olarak görmekte ve artık nesnenin imge üzerindeki ayrıcalığının sona erdiğini vurgulamaktadır. Pop Art’la birlikte, nesne imgenin hakikati olmaktan çıkmış, göstergeler olarak eşit bir biçimde ‘rol aldıkları’ uzamda ve aynı mantıksal mekânda birlikte var olmuşlardır.
-    > Sorunun doğru cevabı C seçeneğinde verilmiştir.
+    > **Açıklama:** Jean Baudrillard Pop Art’ı göstergelerin ve tüketim kültürün sanata yansıması olarak görmekte ve artık nesnenin imge üzerindeki ayrıcalığının sona erdiğini vurgulamaktadır. Pop Art’la birlikte, nesne imgenin hakikati olmaktan çıkmış, göstergeler olarak eşit bir biçimde ‘rol aldıkları’ uzamda ve aynı mantıksal mekânda birlikte var olmuşlardır.<br />Sorunun doğru cevabı C seçeneğinde verilmiştir.
 
     <hr />
 1. “Günümüz toplumlarında herkes 15 dakikalığına şöhreti tadacaktır” mottosuyla ünlenen, imgenin kültürel gücünü vurgulayan, popüler ve sansasyonel teorisyen aşağıdakilerden hangisidir?
@@ -2831,8 +2595,7 @@
     - D-) Walt Disney
     - E-) Marcel Duchamp
 
-    > **Açıklama:** “Günümüz toplumlarında herkes 15 dakikalığına şöhreti tadacaktır” mottosuyla ünlenen Andy Warhol, imgenin kültürel gücünü vurgulayan, popüler ve sansasyonel bir teorisyendir.
-    > Sorunun doğru cevabı B seçeneğinde verilmiştir.
+    > **Açıklama:** “Günümüz toplumlarında herkes 15 dakikalığına şöhreti tadacaktır” mottosuyla ünlenen Andy Warhol, imgenin kültürel gücünü vurgulayan, popüler ve sansasyonel bir teorisyendir.<br />Sorunun doğru cevabı B seçeneğinde verilmiştir.
 
     <hr />
 1. Andy Warhol Fabrika isimli yapım şirketiyle pek çok film üretmiş ve bu alandaki farklı tarzı ile dikkat çekmiştir. Aşağıdakilerden hangisi Warhol’un en önemli filmlerinden birisidir?
@@ -2842,8 +2605,7 @@
     - D-) Panic in the Streets
     - E-) Dreams
 
-    > **Açıklama:** Andy Warhol Fabrika isimli yapım şirketiyle pek çok film üretmiş ve bu alandaki farklı tarzı ile dikkat çekmiştir. Warhol’un en önemli filmleri “Sleep” ve “Empire”dır. “Empire” filminde 8 saat boyunca Empire State Binası’nı çeken Warhol, egemen sinema kalıplarına meydan okumuş, aynı şekilde Sleep filminde de 6 saat boyunca uyuyan bir kişiyi filme çekerek bu tarzını devam ettirmiştir.
-    > Sorunun doğru cevabı A seçeneğinde verilmiştir.
+    > **Açıklama:** Andy Warhol Fabrika isimli yapım şirketiyle pek çok film üretmiş ve bu alandaki farklı tarzı ile dikkat çekmiştir. Warhol’un en önemli filmleri “Sleep” ve “Empire”dır. “Empire” filminde 8 saat boyunca Empire State Binası’nı çeken Warhol, egemen sinema kalıplarına meydan okumuş, aynı şekilde Sleep filminde de 6 saat boyunca uyuyan bir kişiyi filme çekerek bu tarzını devam ettirmiştir.<br />Sorunun doğru cevabı A seçeneğinde verilmiştir.
 
     <hr />
 1. Baudrillard’a göre, "simülasyon" kavramı neyi ifade eder?
@@ -2853,8 +2615,7 @@
     - D-) Tüketim kültürünün dışlanmasını
     - E-) İmge yoluyla gerçekle bağ kurmayı
 
-    > **Açıklama:** Simülakr ve Simülasyon
-    > **Simülasyon:** “Bir köken ya da bir gerçek­likten yoksun gerçeğin modeller aracılığıyla türetilmesi”dir (Baudrillard, 2014: 14).
+    > **Açıklama:** Simülakr ve Simülasyon<br />**Simülasyon:** “Bir köken ya da bir gerçek­likten yoksun gerçeğin modeller aracılığıyla türetilmesi”dir (Baudrillard, 2014: 14).
 
     <hr />
 1. Madan Sarup, “Postyapısalcılık ve Postmodernizm” kitabında Baudrillard’ın simülasyon evrenine geçişte üç tarihi aşama olduğundan bahseder. Bu üç aşamadan biri olan "Erken Modernlik Dönemi" aşağıdakilerden hangisi ile başlar?
@@ -2864,8 +2625,7 @@
     - D-) İkinci Dünya Savaşı
     - E-) İkinci Dünya Savaşı’nın sonu
 
-    > **Açıklama:** Simülakr ve Simülasyon
-    > "Madan Sarup, “Postyapısalcılık ve Postmodernizm” kitabında Baudrillard’ın simülasyon evrenine geçişte üç tarihi aşama olduğunu belirtir. Erken Modernlik Dönemi, Aydınlanma ile başlayıp, Sanayi Devrimi’nin başlangıcına kadar olan süreci kapsamaktadır."
+    > **Açıklama:** Simülakr ve Simülasyon<br />"Madan Sarup, “Postyapısalcılık ve Postmodernizm” kitabında Baudrillard’ın simülasyon evrenine geçişte üç tarihi aşama olduğunu belirtir. Erken Modernlik Dönemi, Aydınlanma ile başlayıp, Sanayi Devrimi’nin başlangıcına kadar olan süreci kapsamaktadır."
 
     <hr />
 1. Baudrillard’a göre, televizyonun en temel etkisi aşağıdakilerden hangisidir?
@@ -2875,8 +2635,7 @@
     - D-) Bilgiye ulaşımı kolaylaştırması
     - E-) Kültürel çeşitliliği artırması
 
-    > **Açıklama:** KİTLE İLETİŞİM ARAÇLARI VE SİMÜLASYON EVRENİ
-    > “Gerçek, yerini medya gerçekliği ile değiştirmiş, televizyon simülasyon dünyasının en belirleyici aktörlerinden biri hâline gelmiştir. Televizyonun bu evre­nin gerçeklik aygıtı hâline gelmiş, gerçek ile kurgu birbirine karışmış ve imgeler hakikatin kendisi hâline dönüşmüştür. Bu medya evreninde artık gerçek diye bir şey kalmamış, görsel kültürün imgeleri gerçeklerin yerini almıştır. Kitle iletişim araçları aracılığıyla bir göstergeye dönüşen gerçeklerin, halkın yabancılaşma­sını hızlandırdığını iddia eden Baudrillard, medya aracılığıyla süregelen bu yabancılaştırmanın hakikatin sonunu getirdiğini vurgulamaktadır.”
+    > **Açıklama:** KİTLE İLETİŞİM ARAÇLARI VE SİMÜLASYON EVRENİ<br />“Gerçek, yerini medya gerçekliği ile değiştirmiş, televizyon simülasyon dünyasının en belirleyici aktörlerinden biri hâline gelmiştir. Televizyonun bu evre­nin gerçeklik aygıtı hâline gelmiş, gerçek ile kurgu birbirine karışmış ve imgeler hakikatin kendisi hâline dönüşmüştür. Bu medya evreninde artık gerçek diye bir şey kalmamış, görsel kültürün imgeleri gerçeklerin yerini almıştır. Kitle iletişim araçları aracılığıyla bir göstergeye dönüşen gerçeklerin, halkın yabancılaşma­sını hızlandırdığını iddia eden Baudrillard, medya aracılığıyla süregelen bu yabancılaştırmanın hakikatin sonunu getirdiğini vurgulamaktadır.”
 
     <hr />
 1. Baudrillard’a göre medya, aşağıdakilerden hangisini üretmektedir?
@@ -2886,8 +2645,7 @@
     - D-) Bilimsel bilgi
     - E-) Duygusal dayanışma
 
-    > **Açıklama:** KİTLE İLETİŞİM ARAÇLARI VE SİMÜLASYON EVRENİ
-    > “Baudrillard, postmodern toplumlarda medyanın egemenliğinde hipergerçek bir ortam yaratıldığı­nı ve bu ortamın olayların gerçeklerle ve tarihle olan ilişkisini kopararak âdeta tarihin sonunu ilan ettiğini vurgulamaktadır."
+    > **Açıklama:** KİTLE İLETİŞİM ARAÇLARI VE SİMÜLASYON EVRENİ<br />“Baudrillard, postmodern toplumlarda medyanın egemenliğinde hipergerçek bir ortam yaratıldığı­nı ve bu ortamın olayların gerçeklerle ve tarihle olan ilişkisini kopararak âdeta tarihin sonunu ilan ettiğini vurgulamaktadır."
 
     <hr />
 1. Baudrillard’a göre tüketim toplumunda insanlar neden tüketim yapar?
@@ -2897,8 +2655,7 @@
     - **Cevap D-) Tüketimi bir statü göstergesi olarak benimsedikleri için**
     - E-) Kamu politikalarına yön vermek için
 
-    > **Açıklama:** BAUDRILLARD VE TÜKETİM TOPLUMU
-    > "Tüketim toplumunda, tüket­mek sadece ihtiyaçların giderilmesine değil, aynı zamanda bireylerin sosyalleşmelerine, toplum­sal statülerinin belirlenmesine ve toplum içinde kendilerini nasıl konumlandırdıklarına yönelik işlev görürler.”
+    > **Açıklama:** BAUDRILLARD VE TÜKETİM TOPLUMU<br />"Tüketim toplumunda, tüket­mek sadece ihtiyaçların giderilmesine değil, aynı zamanda bireylerin sosyalleşmelerine, toplum­sal statülerinin belirlenmesine ve toplum içinde kendilerini nasıl konumlandırdıklarına yönelik işlev görürler.”
 
     <hr />
 1. Baudrillard’a göre tüketim toplumunda bireyler özgürlüklerini nasıl yitirirler?
@@ -2908,8 +2665,7 @@
     - D-) Eğitim eksikliğiyle
     - E-) Sanatın etkisiyle
 
-    > **Açıklama:** BAUDRILLARD VE TÜKETİM TOPLUMU
-    > “Baudrillard’a göre tüketim toplumunda bu göstergeler düzeninde imge tarafından kuşatılan bireyler, öz­gürlük sanrısı içinde daha da çok nesnelere bağımlı kalmakta ve kendi özgürlüklerini metalara teslim etmektedir. Tüketim toplumu simgesel bir tahak­kümü, yaşamın her alanında bireylere dayatmakta ve bu göstergeler içinde sıkışan bireyler kendi ben­liklerine yabancılaşmaktadır.”
+    > **Açıklama:** BAUDRILLARD VE TÜKETİM TOPLUMU<br />“Baudrillard’a göre tüketim toplumunda bu göstergeler düzeninde imge tarafından kuşatılan bireyler, öz­gürlük sanrısı içinde daha da çok nesnelere bağımlı kalmakta ve kendi özgürlüklerini metalara teslim etmektedir. Tüketim toplumu simgesel bir tahak­kümü, yaşamın her alanında bireylere dayatmakta ve bu göstergeler içinde sıkışan bireyler kendi ben­liklerine yabancılaşmaktadır.”
 
     <hr />
 1. Batı toplumları, kimi za­man postmodern, kimi zaman post fordist, kimi za­man da tüketim toplumu olarak adlandırılan, yeni döneme hangi yıllarda adım atmıştır?
@@ -2919,8 +2675,7 @@
     - D-) 80’li yıllar
     - E-) 90’lı yıllar
 
-    > **Açıklama:** BAUDRILLARD VE TÜKETİM TOPLUMU
-    > "70’li yıllarla birlikte Batı toplumları; kimi za­man postmodern, kimi zaman post fordist kimi za­man da tüketim toplumu olarak adlandırılan yeni bir döneme adım atmıştır."
+    > **Açıklama:** BAUDRILLARD VE TÜKETİM TOPLUMU<br />"70’li yıllarla birlikte Batı toplumları; kimi za­man postmodern, kimi zaman post fordist kimi za­man da tüketim toplumu olarak adlandırılan yeni bir döneme adım atmıştır."
 
     <hr />
 1. Baudrillard’a göre Andy Warhol’un sanatı aşağıdakilerden hangisini yansıtır?
@@ -2930,8 +2685,7 @@
     - D-) Politik radikalizmi
     - E-) Gerçeklikten tamamen uzaklaşmayı
 
-    > **Açıklama:** BAUDRILLARD VE POP ART
-    > "Jean Baud­rillard Pop Art’ı göstergelerin ve tüketim kültürün sanata yansıması olarak görmekte ve artık nesnenin imge üzerindeki ayrıcalığının sona erdiğini vur­gulamaktadır.”
+    > **Açıklama:** BAUDRILLARD VE POP ART<br />"Jean Baud­rillard Pop Art’ı göstergelerin ve tüketim kültürün sanata yansıması olarak görmekte ve artık nesnenin imge üzerindeki ayrıcalığının sona erdiğini vur­gulamaktadır.”
 
     <hr />
 1. Aşağıdakilerden hangisi hipergerçekliğin bir özelliği değildir?
@@ -2941,8 +2695,7 @@
     - D-) Gerçeğin yeniden simüle edilmesi
     - E-) İletişim araçlarının gerçekliğe hükmetmesi
 
-    > **Açıklama:** SİMÜLAKR VE SİMÜLASYON KURAMI
-    > "Yaşamın tamamını kapsayan gösteri, imajlar üzerinden toplumsallaş­makta ve hızla toplumsallığı kendi gerçekliğinde eritmektedir. Görsel kültürün ürünlerine âdeta ta­pan kitleler de geleneksel toplumsallığın tüm öge­lerini bu hipergerçekliğin içinde yitirmiştir. Bu çağ artık bir göstergeler çağıdır ve görsel kültürün tüm ögeleri toplumsal yabancılaşmayı pekiştirmektedir.”
+    > **Açıklama:** SİMÜLAKR VE SİMÜLASYON KURAMI<br />"Yaşamın tamamını kapsayan gösteri, imajlar üzerinden toplumsallaş­makta ve hızla toplumsallığı kendi gerçekliğinde eritmektedir. Görsel kültürün ürünlerine âdeta ta­pan kitleler de geleneksel toplumsallığın tüm öge­lerini bu hipergerçekliğin içinde yitirmiştir. Bu çağ artık bir göstergeler çağıdır ve görsel kültürün tüm ögeleri toplumsal yabancılaşmayı pekiştirmektedir.”
 
     <hr />
 1. Baudrillard’a göre Disneyland neden önemli bir simülasyon modelidir?
@@ -2952,7 +2705,6 @@
     - D-) Sanatsal üretimi desteklediği için
     - E-) Kültürel çeşitliliğe örnek olduğu için
 
-    > **Açıklama:** SİMÜLAKR VE SİMÜLASYON KURAMI
-    > "Baudrillard, yaşadığımız hipergerçekliği bir Dis­neyland evrenine benzetmiştir. Bu dünya imajlar üzerinden tüketimin ve ilişkilerin gerçekleştiği bir panayır alanıdır ve simülasyonlar ve simü­lakrlar gerçeği ikame etmektedir.”
+    > **Açıklama:** SİMÜLAKR VE SİMÜLASYON KURAMI<br />"Baudrillard, yaşadığımız hipergerçekliği bir Dis­neyland evrenine benzetmiştir. Bu dünya imajlar üzerinden tüketimin ve ilişkilerin gerçekleştiği bir panayır alanıdır ve simülasyonlar ve simü­lakrlar gerçeği ikame etmektedir.”
 
     <hr />

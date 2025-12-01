@@ -141,7 +141,7 @@
     },
     {
         "SoruID": 145094,
-        "SoruMetni": "Dostları onu kötü gününde yalnız bırakmadılar.<br/><strong>Yukarıdaki cümlenin ögelerinin sıralanışı hangisinde doğru verilmiştir?</strong><br/></br></br>",
+        "SoruMetni": "Dostları onu kötü gününde yalnız bırakmadılar.<br/><strong>Yukarıdaki cümlenin ögelerinin sıralanışı hangisinde doğru verilmiştir?</strong>",
         "A": "Özne - Dolaylı Tümleç - Yüklem",
         "B": "Özne - Nesne - Zarf Tümleci - Zarf Tümleci - Yüklem",
         "C": "Özne - Nesne - Zarf Tümleci - Yüklem",
@@ -161,7 +161,7 @@
     },
     {
         "SoruID": 145114,
-        "SoruMetni": "En zor anlarımda bile yanımda olan dostlarımın beni bugünümde yalnız bırakmayacaklarını sanmıştım.<br/><strong>Yukarıdaki cümlenin ögelerinin sıralanışı hangisinde doğru verilmiştir?</strong><br/></br></br>",
+        "SoruMetni": "En zor anlarımda bile yanımda olan dostlarımın beni bugünümde yalnız bırakmayacaklarını sanmıştım.<br/><strong>Yukarıdaki cümlenin ögelerinin sıralanışı hangisinde doğru verilmiştir?</strong>",
         "A": "Zarf Tümleci – Dolaylı Tümleç – Nesne – Yüklem",
         "B": "Özne – Nesne – Yüklem",
         "C": "Özne – Nesne – Zarf Tümleci – Yüklem",
@@ -181,7 +181,7 @@
     },
     {
         "SoruID": 145148,
-        "SoruMetni": "<strong>Aşağıdaki cümlelerde kullanılan ara sözlerden hangisi farklı bir ögenin açıklayıcısıdır?</strong><br/></br>",
+        "SoruMetni": "<strong>Aşağıdaki cümlelerde kullanılan ara sözlerden hangisi farklı bir ögenin açıklayıcısıdır?</strong>",
         "A": "Melis, canımın içi, bugün doğmuştu.",
         "B": "Oğlum, minik yaramaz, konuşmaya başladı.",
         "C": "Okulumda, ikinci evimde, çok mutluyum.",
@@ -201,7 +201,7 @@
     },
     {
         "SoruID": 145230,
-        "SoruMetni": "Sınıftaki sessizliğin devamı dün akşam evde de devam etti.<br/><strong>Bu cümlede aşağıdaki ögelerden hangisi <u>kullanılmamıştır</u>?</strong><br/></br>",
+        "SoruMetni": "Sınıftaki sessizliğin devamı dün akşam evde de devam etti.<br/><strong>Bu cümlede aşağıdaki ögelerden hangisi <u>kullanılmamıştır</u>?</strong>",
         "A": "Özne",
         "B": "Yüklem",
         "C": "Yer tamlayıcısı",
@@ -241,7 +241,7 @@
     },
     {
         "SoruID": 162428,
-        "SoruMetni": "Korkma, sönmez <u>bu şafaklarda yüzen al sancak</u>;<br/>Sönmeden yurdumun üstünde tüten, en son ocak.<br/><strong>Altı çizili öge aşağıdakilerden hangisidir?</strong><br/></br></br></br>",
+        "SoruMetni": "Korkma, sönmez <u>bu şafaklarda yüzen al sancak</u>;<br/>Sönmeden yurdumun üstünde tüten, en son ocak.<br/><strong>Altı çizili öge aşağıdakilerden hangisidir?</strong>",
         "A": "Yüklem",
         "B": "Özne",
         "C": "Nesne",
@@ -281,7 +281,7 @@
     },
     {
         "SoruID": 162435,
-        "SoruMetni": "<strong>Aşağıdaki cümlelerin hangisinde ögeleri ayırmada yanlışlık yapılmıştır?</strong><br/></br>",
+        "SoruMetni": "<strong>Aşağıdaki cümlelerin hangisinde ögeleri ayırmada yanlışlık yapılmıştır?</strong>",
         "A": "Buraya kadar geldiğiniz için / teşekkür ederim.",
         "B": "Sorulara şöyle bir göz atıp / kitabı / kapattı.",
         "C": "Biraz daha rahat yaşamak için / çabalıyordu",
@@ -341,7 +341,7 @@
     },
     {
         "SoruID": 305384,
-        "SoruMetni": "Savuruyordu dört yana umutlarımızı bir ömürden arta kalmanın hüznü.<br/><strong>Yukarıdaki cümlenin ögelerinin sıralanışı hangisinde doğru sırayla verilmiştir?</strong><br/></br></br>",
+        "SoruMetni": "Savuruyordu dört yana umutlarımızı bir ömürden arta kalmanın hüznü.<br/><strong>Yukarıdaki cümlenin ögelerinin sıralanışı hangisinde doğru sırayla verilmiştir?</strong>",
         "A": "Yüklem – zarf tümleci – nesne – özne",
         "B": "Yüklem – dolaylı tümleç – zarf tümleci – özne",
         "C": "Yüklem – dolaylı tümleç – nesne – özne",
@@ -361,7 +361,7 @@
     },
     {
         "SoruID": 306842,
-        "SoruMetni": "<strong>Aşağıdaki cümlelerin hangisinde zarf tümleci vurgulanmıştır?</strong><br/></br></br>",
+        "SoruMetni": "<strong>Aşağıdaki cümlelerin hangisinde zarf tümleci vurgulanmıştır?</strong>",
         "A": "Annemi okuldan çıkınca ararım.",
         "B": "Arkadaşına kalem hediye etti.",
         "C": "Dün beni Özge aramış.",

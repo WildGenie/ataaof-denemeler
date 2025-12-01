@@ -57,7 +57,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Piksel sayısı dijital görüntünün çözünürlüğünü belirler, sorunun yanıtı E şıkkıdır.<br>Çözünürlük"
+        "Aciklama": "Piksel sayısı dijital görüntünün çözünürlüğünü belirler, sorunun yanıtı E şıkkıdır.<br/>Çözünürlük"
     },
     {
         "SoruID": 3764334,
@@ -97,7 +97,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Çoğunlukla dijital çizimler, karmaşık grafikler, logolar için kullanılan Vektör dosyasıdır, sorunun yanıtı B şıkkıdır.<br>Vektör dosyaları"
+        "Aciklama": "Çoğunlukla dijital çizimler, karmaşık grafikler, logolar için kullanılan Vektör dosyasıdır, sorunun yanıtı B şıkkıdır.<br/>Vektör dosyaları"
     },
     {
         "SoruID": 3764336,
@@ -117,7 +117,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Saklanan verilerin sonraki kopyaları veya kod dönüştürmeleri arasındaki kalite kaybına ne denir.<br>Nesil kaybı"
+        "Aciklama": "Saklanan verilerin sonraki kopyaları veya kod dönüştürmeleri arasındaki kalite kaybına ne denir.<br/>Nesil kaybı"
     },
     {
         "SoruID": 3764337,
@@ -217,7 +217,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Raster Görüntüler<br>100 piksel yani 100 Ipi’dir."
+        "Aciklama": "Raster Görüntüler<br/>100 piksel yani 100 Ipi’dir."
     },
     {
         "SoruID": 3764366,
@@ -237,7 +237,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Vektör Görüntüler<br>1, 3 ve 4"
+        "Aciklama": "Vektör Görüntüler<br/>1, 3 ve 4"
     },
     {
         "SoruID": 3764367,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Vektör Görüntüler<br>Masaüstü yayıncılık programlarından değiştirilemedikleri için"
+        "Aciklama": "Vektör Görüntüler<br/>Masaüstü yayıncılık programlarından değiştirilemedikleri için"
     },
     {
         "SoruID": 3764368,
@@ -277,7 +277,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Raster ve Vektör Görüntülerin Arasındaki Farklar<br>Görüntü büyütüldüğünde bulanıklaşıyorsa vektör değil raster görüntü dosyasıdır"
+        "Aciklama": "Raster ve Vektör Görüntülerin Arasındaki Farklar<br/>Görüntü büyütüldüğünde bulanıklaşıyorsa vektör değil raster görüntü dosyasıdır"
     },
     {
         "SoruID": 3764379,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "DİJİTAL GÖRÜNTÜ DOSYA FORMATLARI<br>1, 2 ve 5<br/>Renk modeli ve derinliği, ikinci özellik ise görüntünün kayıplı ya da kayıpsız olduğudikkate alınmalıdır."
+        "Aciklama": "DİJİTAL GÖRÜNTÜ DOSYA FORMATLARI<br/>1, 2 ve 5<br/>Renk modeli ve derinliği, ikinci özellik ise görüntünün kayıplı ya da kayıpsız olduğudikkate alınmalıdır."
     },
     {
         "SoruID": 3764380,
@@ -337,7 +337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Raster Görüntü Formatları<br>HEIC"
+        "Aciklama": "Raster Görüntü Formatları<br/>HEIC"
     },
     {
         "SoruID": 3764382,
@@ -357,7 +357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Birleştirilmiş Görüntü Formatları<br>EPS"
+        "Aciklama": "Birleştirilmiş Görüntü Formatları<br/>EPS"
     },
     {
         "SoruID": 3764383,
@@ -377,7 +377,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Font Formatları<br>TrueType Fontlar"
+        "Aciklama": "Font Formatları<br/>TrueType Fontlar"
     },
     {
         "SoruID": 3764384,
@@ -397,7 +397,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Tasarım Ürünleri<br>Web tasarımı"
+        "Aciklama": "Tasarım Ürünleri<br/>Web tasarımı"
     },
     {
         "SoruID": 3764639,

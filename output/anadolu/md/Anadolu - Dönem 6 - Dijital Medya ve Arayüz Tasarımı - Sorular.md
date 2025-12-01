@@ -118,9 +118,7 @@
     - D-) Canva
     - E-) Paint
 
-    > **Açıklama:** Bir zamanlar tasarımcılar; fikirlerini kâğıda, tuvale veya kil gibi somut malzemelere aktarırdı.
-    > Uzun saatler süren el becerisi ve sabır gerektiren bu süreç, 1960’larda yerini bilgisayar destekli tasarıma (computer aided design) bırakmaya başladı. İlk öncüler arasında, Ivan Sutherland’ın Sketchpad programı (1963) ve Douglas Engelbart’ın oN-Line System (NLS) programı (1968) gibi basit çizimler ve grafikler oluşturmak için kullanılabilen yazılımsal arayüzler yer alıyordu. Yazılımlarla birlikte donanımlar da bilgisayar destekli tasarım fikrine ayak
-    > uydurdu: 1970’lerde, Apple II ve Xerox Alto gibi ilk grafiksel kullanıcı arayüzüne sahip bilgisayarlar piyasaya sürüldü. Fare gibi yeni giriş cihazlarıyla birlikte tasarımcılar, daha sezgisel bir tasarım deneyimine kavuştu. 1980’ler ise tasarım yazılımlarının altın çağıydı. Adobe Illustrator ve Photoshop gibi programlar; tasarımcılara sınırsız renk paleti, katmanlar ve özel efektler gibi yepyeni araçlar sundu.
+    > **Açıklama:** Bir zamanlar tasarımcılar; fikirlerini kâğıda, tuvale veya kil gibi somut malzemelere aktarırdı.<br />Uzun saatler süren el becerisi ve sabır gerektiren bu süreç, 1960’larda yerini bilgisayar destekli tasarıma (computer aided design) bırakmaya başladı. İlk öncüler arasında, Ivan Sutherland’ın Sketchpad programı (1963) ve Douglas Engelbart’ın oN-Line System (NLS) programı (1968) gibi basit çizimler ve grafikler oluşturmak için kullanılabilen yazılımsal arayüzler yer alıyordu. Yazılımlarla birlikte donanımlar da bilgisayar destekli tasarım fikrine ayak<br />uydurdu: 1970’lerde, Apple II ve Xerox Alto gibi ilk grafiksel kullanıcı arayüzüne sahip bilgisayarlar piyasaya sürüldü. Fare gibi yeni giriş cihazlarıyla birlikte tasarımcılar, daha sezgisel bir tasarım deneyimine kavuştu. 1980’ler ise tasarım yazılımlarının altın çağıydı. Adobe Illustrator ve Photoshop gibi programlar; tasarımcılara sınırsız renk paleti, katmanlar ve özel efektler gibi yepyeni araçlar sundu.
 
     <hr />
 1. Aşağıdakilerden hangisi bir görsel formatıdır?
@@ -150,20 +148,7 @@
     - D-) Prototip geliştirme
     - E-) Geribildirim
 
-    > **Açıklama:** Tetikleyicisi ne olursa tasarım süreci bir fikir ile başlar. Bazen bu fikir size patronunuz tarafından dikte
-    > edilir, bazen ilham sizi ummadığınız bir anda yakalar ve işe koyulursunuz bazen de bir ihtiyaç sizi tasarıma
-    > sürükler. Bu noktada izlemeniz gereken süreci şu şekilde adımlayabilirsiniz:
-    > • Problemi tanımlama
-    > • Önemli noktaları belirleme
-    > • Öneri geliştirme
-    > • Taslak oluşturma
-    > • Taslağı detaylandırma
-    > • Prototip geliştirme
-    > • Test ve Değerlendirme
-    > • Geribildirim
-    > Bir tasarım üzerinde çalışmaya başladığınızda ilk olarak, çözmeye çalıştığınız problemi çok iyi tanım-
-    > lamaya çalışın. Ardından problemin çözümü ile sizin fikrinizin kesişmesi gereken önemli noktaları belirle-
-    > yin.
+    > **Açıklama:** Tetikleyicisi ne olursa tasarım süreci bir fikir ile başlar. Bazen bu fikir size patronunuz tarafından dikte<br />edilir, bazen ilham sizi ummadığınız bir anda yakalar ve işe koyulursunuz bazen de bir ihtiyaç sizi tasarıma<br />sürükler. Bu noktada izlemeniz gereken süreci şu şekilde adımlayabilirsiniz:<br />• Problemi tanımlama<br />• Önemli noktaları belirleme<br />• Öneri geliştirme<br />• Taslak oluşturma<br />• Taslağı detaylandırma<br />• Prototip geliştirme<br />• Test ve Değerlendirme<br />• Geribildirim<br />Bir tasarım üzerinde çalışmaya başladığınızda ilk olarak, çözmeye çalıştığınız problemi çok iyi tanım-<br />lamaya çalışın. Ardından problemin çözümü ile sizin fikrinizin kesişmesi gereken önemli noktaları belirle-<br />yin.
 
     <hr />
 1. Aşağıdakilerden hangisi fikirlerin pratikte nasıl işleyeceğini görmek için bir ön değerlendirme sağlar?
@@ -214,9 +199,7 @@
     - **Cevap D-) Ekonomiye katkı**
     - E-) İnsan ihtiyaçlarına hizmet etme
 
-    > **Açıklama:** İBE, kullanıcı dostu, erişilebilir ve etkili arayüz tasarımları yoluyla teknolojiyi insan ihtiyaçlarına
-    > daha iyi hizmet eder hâle getirmeyi amaçlar. Sayfa 34 okuyup, bkz.
-    > Ekonomiye katkı
+    > **Açıklama:** İBE, kullanıcı dostu, erişilebilir ve etkili arayüz tasarımları yoluyla teknolojiyi insan ihtiyaçlarına<br />daha iyi hizmet eder hâle getirmeyi amaçlar. Sayfa 34 okuyup, bkz.<br />Ekonomiye katkı
 
     <hr />
 1. Kullanıcıların teknoloji ile etkileşime girdikleri fiziksel ve sosyal ortamı ifade eden ve insan-bilgisayar etkileşiminin (İBE) temel bileşenlerinden olan bu tanımlama aşağıdakilerden hangi kavramdır?
@@ -236,8 +219,7 @@
     - D-) Kodlama
     - **Cevap E-) Arayüz**
 
-    > **Açıklama:** Yazılım ve kullanıcı arasındaki iletişimi kolaylaştıran, komutları alıp işleyen ve bilgiyi kullanıcıya geri besleyen her türlü işlemi, aracı ve süresi kapsar.
-    > Arayüz
+    > **Açıklama:** Yazılım ve kullanıcı arasındaki iletişimi kolaylaştıran, komutları alıp işleyen ve bilgiyi kullanıcıya geri besleyen her türlü işlemi, aracı ve süresi kapsar.<br />Arayüz
 
     <hr />
 1. Aşağıdakilerden hangisi çeşitli arayüz formalarından **değildir?**
@@ -247,8 +229,7 @@
     - D-) Dokunmatik ekranlar
     - E-) Sesli komut arayüzleri
 
-    > **Açıklama:** Arayüzler; grafik kullanıcı arayüzleri (GUI), komut satırı arayüzleri (CLI), dokunmatik ekranlar, sesli komut arayüzleri gibi çeşitli formlarda olabilir. Arayüzler, insanların bilgisayar sistemleriyle ile etkileşim kurabilmelerinin en temel aracıdır.
-    > Çoklu ortamlar
+    > **Açıklama:** Arayüzler; grafik kullanıcı arayüzleri (GUI), komut satırı arayüzleri (CLI), dokunmatik ekranlar, sesli komut arayüzleri gibi çeşitli formlarda olabilir. Arayüzler, insanların bilgisayar sistemleriyle ile etkileşim kurabilmelerinin en temel aracıdır.<br />Çoklu ortamlar
 
     <hr />
 1. Arayüz tasarımının özü, bazı temel ilkelere dayanır. Bu ilkelerden; engelli kullanıcılar da dahil olmak üzere herkesin teknolojiyi kullanabilmesini sağlamayı hedefleyen ilke aşağıdakilerden hangisidir?
@@ -258,8 +239,7 @@
     - D-) Sezgisellik
     - E-) Tutarlılık
 
-    > **Açıklama:** Erişebilirlik: Engelli kullanıcılar da dahil olmak üzere herkesin teknolojiyi kullanabilmesini sağlamayı hedefler.
-    > Erişilebilirlik
+    > **Açıklama:** Erişebilirlik: Engelli kullanıcılar da dahil olmak üzere herkesin teknolojiyi kullanabilmesini sağlamayı hedefler.<br />Erişilebilirlik
 
     <hr />
 1. Kullanıcıların uygulama içinde kolayca navigasyon yapmalarını sağlayan görsel ipuçları olarak tanımlanan, tasarımın görsel ögelerinden olan kavram aşağıdakilerden hangisidir?
@@ -299,8 +279,7 @@
     - D-) Akışkan (Fluid) Izgara Sistemi
     - E-) Sabit (Fixed) Izgara Sistemi
 
-    > **Açıklama:** Modüler ızgaralar, farklı içerik türlerini (metin, resim, video vb.) bütünleştirmek için esnek bir yapı sunar. Tasarımcılar, içeriğin boyutuna ve türüne göre modülleri uygun şekilde boyutlandırabilirler.
-    > Modüler (Modular) Izgara Sistemi
+    > **Açıklama:** Modüler ızgaralar, farklı içerik türlerini (metin, resim, video vb.) bütünleştirmek için esnek bir yapı sunar. Tasarımcılar, içeriğin boyutuna ve türüne göre modülleri uygun şekilde boyutlandırabilirler.<br />Modüler (Modular) Izgara Sistemi
 
     <hr />
 1. Aşağıdakilerden hangisi popüler tasarım stillerinden **değildir?**
@@ -310,8 +289,7 @@
     - D-) İllustrative Design (İllüstratif Tasarım)
     - E-) Typography-Centric Design (Tipografi Odaklı Tasarım)
 
-    > **Açıklama:** Popüler Tasarım Stilleri Arayüz tasarımı, çeşitli stil türlerini kullanarak estetik çeşitlilik sunan dinamik bir disiplindir. Bu stiller;...Flat Design (Düz Tasarım), Product-Oriented Design (Ürün Odaklı Tasarım), Typography-Centric Design (Tipografi Odaklı Tasarım), Minimalist Design (Minimalist Tasarım) ve Illustrative Design (İllüstratif Tasarım) popüler tasarım stillerinin başlıcalarıdır.
-    > Grunge Design (Dağınık Tasarım)
+    > **Açıklama:** Popüler Tasarım Stilleri Arayüz tasarımı, çeşitli stil türlerini kullanarak estetik çeşitlilik sunan dinamik bir disiplindir. Bu stiller;...Flat Design (Düz Tasarım), Product-Oriented Design (Ürün Odaklı Tasarım), Typography-Centric Design (Tipografi Odaklı Tasarım), Minimalist Design (Minimalist Tasarım) ve Illustrative Design (İllüstratif Tasarım) popüler tasarım stillerinin başlıcalarıdır.<br />Grunge Design (Dağınık Tasarım)
 
     <hr />
 1. İnsan ihtiyaçlarından doğan bir talebin teknolojide karşılık bulması anlamında, bilgisayar - insan etkileşiminin ilk adımı olarak kabul edilen Memex (Memory Index) yapısı hangi yılda ortaya atılmıştır?
@@ -422,8 +400,7 @@
     - D-) hata toleransı
     - E-) erişilebilirlik
 
-    > **Açıklama:** Doğru yanıt verimlilik
-    > Kullanılabilirliğin beş temel prensiplerinden biri olan ve belirli bir görevi tamamlamak için gereken zaman ve kaynakların oranını verimlilik ile ifade ederiz
+    > **Açıklama:** Doğru yanıt verimlilik<br />Kullanılabilirliğin beş temel prensiplerinden biri olan ve belirli bir görevi tamamlamak için gereken zaman ve kaynakların oranını verimlilik ile ifade ederiz
 
     <hr />
 1. Aşağıdakilerden hangisi geri bildirim döngüsü adımlarındandır?
@@ -433,8 +410,7 @@
     - D-) hata toleransı
     - E-) kullanılabilirlik metrikleri
 
-    > **Açıklama:** Doğru yanıt A'dır
-    > Uygulama ve iyileştirme geribildirim döngüsü adımlarındandır
+    > **Açıklama:** Doğru yanıt A'dır<br />Uygulama ve iyileştirme geribildirim döngüsü adımlarındandır
 
     <hr />
 1. Hangisi Gestalt ilkeleri prensiplerinden değildir?
@@ -444,8 +420,7 @@
     - D-) devamlılık
     - **Cevap E-) okunulabilirlik**
 
-    > **Açıklama:** Doğru yanıt E şıkkıdır.
-    > Okunulabilirlik Gestalt ilkelerinden değildir.
+    > **Açıklama:** Doğru yanıt E şıkkıdır.<br />Okunulabilirlik Gestalt ilkelerinden değildir.
 
     <hr />
 1. Başlıklar, alt başlıklar ve metin blokları arasındaki uygun hiyerarşi, kullanıcıların içeriği tarayabilmesini ve önemli bilgileri bulmalarını sağlar. Bunu aşağıdaki kavramlardan hangisi ifade eder?
@@ -455,8 +430,7 @@
     - **Cevap D-) Görsel hiyerarşi**
     - E-) Tipografi
 
-    > **Açıklama:** Yanıt D şıkkıdır
-    > Başlıklar, alt başlıklar ve metin blokları arasındaki uygun hiyerarşi, kullanıcıların içeriği tarayabilmesini ve önemli bilgileri bulmalarını sağlayan görsel hiyerarşidir.
+    > **Açıklama:** Yanıt D şıkkıdır<br />Başlıklar, alt başlıklar ve metin blokları arasındaki uygun hiyerarşi, kullanıcıların içeriği tarayabilmesini ve önemli bilgileri bulmalarını sağlayan görsel hiyerarşidir.
 
     <hr />
 1. Ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaştığı ve her türlü düşünceye açık bir ortamda yapılan oturuma ne ad verilir?
@@ -466,8 +440,7 @@
     - D-) kullanıcı odaklı yapı oluşturma
     - **Cevap E-) beyin fırtınası**
 
-    > **Açıklama:** Yanıt E şıkkıdır
-    > Ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaştığı ve her türlü düşünceye açık bir ortamda yapılan oturuma beyin fırtınası adı verilir.
+    > **Açıklama:** Yanıt E şıkkıdır<br />Ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaştığı ve her türlü düşünceye açık bir ortamda yapılan oturuma beyin fırtınası adı verilir.
 
     <hr />
 1. Aşağıdakilerden hangisi UX ve UI tasarımı arasındaki temel farklardan biridir?
@@ -477,8 +450,7 @@
     - **Cevap D-) UX, kullanıcı araştırmaları, kullanıcı senaryoları ve kullanıcı hikayeleri gibi stratejik ve araştırma odaklı süreçleri içerirken UI, renk şemaları gibi daha görsel ve estetik özelliklere odaklanır**
     - E-) UX, tipografi ve düzen gibi daha görsel özelliklere odaklanırken UI, kullanıcıların etkileşimde bulunduğu grafik ve yazılı tasarım ögelerine odaklanır
 
-    > **Açıklama:** Doğru yanıt D şıkkıdır.
-    > UX, kullanıcı araştırmaları, kullanıcı senaryoları ve kullanıcı hikayeleri gibi stratejik ve araştırma odaklı süreçleri içerirken UI, renk şemaları gibi daha görsel ve estetik özelliklere odaklanır
+    > **Açıklama:** Doğru yanıt D şıkkıdır.<br />UX, kullanıcı araştırmaları, kullanıcı senaryoları ve kullanıcı hikayeleri gibi stratejik ve araştırma odaklı süreçleri içerirken UI, renk şemaları gibi daha görsel ve estetik özelliklere odaklanır
 
     <hr />
 1. Aşağıdakilerden hangisi kullanıcı deneyimi tasarım araçlarının takım içindeki iş birliğini arttırmak ve tutarlı tasarım sistemleri oluşturmak için sağladığı özelliklerden biri değildir?
@@ -488,8 +460,7 @@
     - D-) kullanıcılardan geri bildirim alma
     - **Cevap E-) görsel hiyerarşi**
 
-    > **Açıklama:** Doğru yanıt E şıkkıdır
-    > Kullanıcı deneyimi tasarım araçlarının takım içindeki iş birliğini arttırmak ve tutarlı tasarım sistemleri oluşturmak için sağladığı özelliklerden biri görsel hiyerarşi değildir.
+    > **Açıklama:** Doğru yanıt E şıkkıdır<br />Kullanıcı deneyimi tasarım araçlarının takım içindeki iş birliğini arttırmak ve tutarlı tasarım sistemleri oluşturmak için sağladığı özelliklerden biri görsel hiyerarşi değildir.
 
     <hr />
 1. Aşağıdaki uygulamalardan hangisi Adobe ekosisteminde yer almaktadır?
@@ -499,8 +470,7 @@
     - D-) Cloud
     - E-) DX
 
-    > **Açıklama:** Yanıt C şıkkıdır
-    > Adobe XD, Adobe bünyesinde bir yazılımdır
+    > **Açıklama:** Yanıt C şıkkıdır<br />Adobe XD, Adobe bünyesinde bir yazılımdır
 
     <hr />
 1. Ürünlerin sadece işlevsel olmaktan öteye geçerek kullanıcılar üzerinde olumlu bir duygusal etki bırakmayı hedeflemesini açıklayan kavram aşağıdakilerden hangisidir?
@@ -510,8 +480,7 @@
     - D-) Geri bildirim döngüsü
     - E-) Simetri
 
-    > **Açıklama:** Yanıt A şıkkıdır
-    > Ürünlerin sadece işlevsel olmaktan öteye geçerek kullanıcılar üzerinde olumlu bir duygusal etki bırakmayı hedeflemesini açıklayan kavram duygu tasarımıdır
+    > **Açıklama:** Yanıt A şıkkıdır<br />Ürünlerin sadece işlevsel olmaktan öteye geçerek kullanıcılar üzerinde olumlu bir duygusal etki bırakmayı hedeflemesini açıklayan kavram duygu tasarımıdır
 
     <hr />
 1. Aynı doğrultuda olan ve birbirine bağlı olan unsurların, insanlar tarafından aynı gruba ait olarak algılanmasını ifade eden Gestalt ilkesi aşağıdakilerden hangisidir?
@@ -521,8 +490,7 @@
     - **Cevap D-) devamlılık**
     - E-) okunulabilirlik
 
-    > **Açıklama:** Yanıt D şıkkıdır
-    > Aynı doğrultuda olan ve birbirine bağlı olan unsurların, insanlar tarafından aynı gruba ait olarak algılanmasını devamlılık kavramı ifade eder
+    > **Açıklama:** Yanıt D şıkkıdır<br />Aynı doğrultuda olan ve birbirine bağlı olan unsurların, insanlar tarafından aynı gruba ait olarak algılanmasını devamlılık kavramı ifade eder
 
     <hr />
 ## Unite 4
@@ -583,10 +551,7 @@
     - D-) Erişilebilirlik ve uyumluluk
     - E-) Etkileşim ve görsellik
 
-    > **Açıklama:** Duyarlı tasarımın temel bileşenleri şunlardır:
-    > • **Esnek Sayfa Düzenleri:** CSS kullanılarak, sayfa düzeninin (layout) genişlik ve yükseklik değerleri yüzdelik birimler gibi esnek birimlerle tanımlanır. Bu sayede, sayfa düzeni cihaz ekranının boyutuna göre genişleyebilir veya daralabilir.
-    > • **Esnek Görseller ve Medya:** Görseller, videolar ve diğer medya türleri, içerisinde bulundukları konteynerlerin (div, section, vb.) genişliğine ve/veya yüksekliğine göre boyutlandırılır.
-    > • **Medya Sorguları (Media Queries):** CSS medya sorguları; cihazın özelliklerine (ekran çözünürlüğü, cihaz tipi, yatay/dikey tutuş pozisyonu, vb.) göre farklı stil kurallarının uygulanmasını sağlar. Medya sorgularını kullanarak tasarımcılar, farklı ekran boyutları için özelleştirilmiş düzenler ve stiller oluşturabilir.
+    > **Açıklama:** Duyarlı tasarımın temel bileşenleri şunlardır:<br />• **Esnek Sayfa Düzenleri:** CSS kullanılarak, sayfa düzeninin (layout) genişlik ve yükseklik değerleri yüzdelik birimler gibi esnek birimlerle tanımlanır. Bu sayede, sayfa düzeni cihaz ekranının boyutuna göre genişleyebilir veya daralabilir.<br />• **Esnek Görseller ve Medya:** Görseller, videolar ve diğer medya türleri, içerisinde bulundukları konteynerlerin (div, section, vb.) genişliğine ve/veya yüksekliğine göre boyutlandırılır.<br />• **Medya Sorguları (Media Queries):** CSS medya sorguları; cihazın özelliklerine (ekran çözünürlüğü, cihaz tipi, yatay/dikey tutuş pozisyonu, vb.) göre farklı stil kurallarının uygulanmasını sağlar. Medya sorgularını kullanarak tasarımcılar, farklı ekran boyutları için özelleştirilmiş düzenler ve stiller oluşturabilir.
 
     <hr />
 1. Web sitelerinin farklı ekran boyutları ve cihazlara özel olarak tasarlanmış sabit düzenler kullanarak uyum sağlamasını sağlayan bir web tasarım yaklaşımı olarak tanımlanan tasarım yaklaşımı aşağıdaki seçeneklerden hangisidir?
@@ -606,8 +571,7 @@
     - D-) Android Auto
     - **Cevap E-) Wear OS**
 
-    > **Açıklama:** Android işletim sistemi, farklı cihaz türleri için özelleştirilmiş çeşitli sürümlere sahiptir. Bu sürümler, spesifik cihazların ihtiyaçlarına ve kullanım senaryolarına göre tasarlanmıştır.
-    > • Wear OS: Özellikle akıllı saatler ve giyilebilir cihazlar için tasarlanmıştır.
+    > **Açıklama:** Android işletim sistemi, farklı cihaz türleri için özelleştirilmiş çeşitli sürümlere sahiptir. Bu sürümler, spesifik cihazların ihtiyaçlarına ve kullanım senaryolarına göre tasarlanmıştır.<br />• Wear OS: Özellikle akıllı saatler ve giyilebilir cihazlar için tasarlanmıştır.
 
     <hr />
 1. Aşağıdaki seçeneklerden hangisi büyük teknoloji firmalarının tasarım vizyonunu yansıtan sistemlerin; kullanıcıları, sektörü ve tasarımcıları etkilediği unsurlar arasında yer almaz?
@@ -617,11 +581,7 @@
     - D-) Yaratıcılığın Sınırlanması
     - **Cevap E-) Teknolojinin Belirlenimciliği**
 
-    > **Açıklama:** Büyük teknoloji firmalarının tasarım vizyonunu yansıtan bu sistemler; pek çok farklı açıdan kullanıcıları, sektörü ve tasarımcıları etkilemektedir:
-    > Standartlaşma ve Tutumluluk
-    > İnovasyon ve Kullanıcı Deneyimi
-    > Kullanıcı Beklentilerinin Yönlendirilmesi
-    > Yaratıcılığın Sınırlanması
+    > **Açıklama:** Büyük teknoloji firmalarının tasarım vizyonunu yansıtan bu sistemler; pek çok farklı açıdan kullanıcıları, sektörü ve tasarımcıları etkilemektedir:<br />Standartlaşma ve Tutumluluk<br />İnovasyon ve Kullanıcı Deneyimi<br />Kullanıcı Beklentilerinin Yönlendirilmesi<br />Yaratıcılığın Sınırlanması
 
     <hr />
 1. Fluent Design’da derinlik, kullanıcı arayüzlerine katmanlar ve görsel hiyerarşi ekleyerek daha zengin bir deneyim oluşturmayı ve uygulamalar arası geçişleri, içerik organizasyonunu daha sezgisel hâle getirmeyi amaçlayan unsur aşağıdaki seçeneklerden hangisinde yer almaktadır?
@@ -631,8 +591,7 @@
     - D-) Işık
     - E-) Ölçek
 
-    > **Açıklama:** Fluent Design’ın temeli derinlik, hareket, malzeme, ışık ve ölçek olmak üzere beş ana unsur üzerine kuruludur:
-    > Derinlik: Fluent Design’da derinlik, kullanıcı arayüzlerine katmanlar ve görsel hiyerarşi ekleyerek daha zengin bir deneyim oluşturmayı ve uygulamalar arası geçişleri, içerik organizasyonunu daha sezgisel hâle getirmeyi amaçlar; kullanıcılara hangi elementlerin etkileşime açık olduğunu ve hangi içeriğin önemli olduğunu görsel olarak iletmeye yardımcı olur.
+    > **Açıklama:** Fluent Design’ın temeli derinlik, hareket, malzeme, ışık ve ölçek olmak üzere beş ana unsur üzerine kuruludur:<br />Derinlik: Fluent Design’da derinlik, kullanıcı arayüzlerine katmanlar ve görsel hiyerarşi ekleyerek daha zengin bir deneyim oluşturmayı ve uygulamalar arası geçişleri, içerik organizasyonunu daha sezgisel hâle getirmeyi amaçlar; kullanıcılara hangi elementlerin etkileşime açık olduğunu ve hangi içeriğin önemli olduğunu görsel olarak iletmeye yardımcı olur.
 
     <hr />
 1. Aşağıdakilerden hangisi Favori web tarayıcınızı kullanarak bir web adresine erişmek istediğinizde istemci ve sunucu arasında yürütülen işlem adımlarından birisi değildir?
@@ -743,8 +702,7 @@
     - D-) Walt Disney
     - E-) Snow White
 
-    > **Açıklama:** Doğru yanıt A şıkkıdır
-    > 1906 yılında J. Stuart Blackton tarafından yapılan ve animasyonun ilk örneklerinden biri olarak görülen film The Humorous Phases of Funny Faces'dir
+    > **Açıklama:** Doğru yanıt A şıkkıdır<br />1906 yılında J. Stuart Blackton tarafından yapılan ve animasyonun ilk örneklerinden biri olarak görülen film The Humorous Phases of Funny Faces'dir
 
     <hr />
 1. 1834 yılında İngiliz matematikçi William Horner tarafından icat edilen cihaz hangisidir?
@@ -754,8 +712,7 @@
     - D-) Squash
     - E-) Frames
 
-    > **Açıklama:** Doğru yanıt C şıkkıdır
-    > 1834 yılında İngiliz matematikçi William Horner tarafından icat edilen cihaz Zoetrope'dur
+    > **Açıklama:** Doğru yanıt C şıkkıdır<br />1834 yılında İngiliz matematikçi William Horner tarafından icat edilen cihaz Zoetrope'dur
 
     <hr />
 1. Dünyanın ilk uzun metraj 3B animasyon filmi aşağıdakilerden hangisidir?
@@ -765,8 +722,7 @@
     - D-) Madagaskar
     - E-) Ice Age
 
-    > **Açıklama:** Doğru yanıt C şıkkıdır
-    > Dünyanın ilk uzun metraj 3B animasyon filmi Toy Story'dir.
+    > **Açıklama:** Doğru yanıt C şıkkıdır<br />Dünyanın ilk uzun metraj 3B animasyon filmi Toy Story'dir.
 
     <hr />
 1. Karakter ve nesnelerin üç boyutlu görünmesini sağlamak için hacim, ağırlık, denge ve anatomiyi dikkate alan çizimler oluşturmayı ifade eden ve “The Illusion of Life” adlı kitapta yer alan prensip aşağıdakilerden hangisidir?
@@ -776,8 +732,7 @@
     - **Cevap D-) Sağlam Çizim**
     - E-) İkincil Hareket
 
-    > **Açıklama:** Doğru şık D'dir.
-    > Karakter ve nesnelerin üç boyutlu görünmesini sağlamak için hacim, ağırlık, denge ve anatomiyi dikkate alan çizimler oluşturmayı ifade eden prensip sağlam çizimdir.
+    > **Açıklama:** Doğru şık D'dir.<br />Karakter ve nesnelerin üç boyutlu görünmesini sağlamak için hacim, ağırlık, denge ve anatomiyi dikkate alan çizimler oluşturmayı ifade eden prensip sağlam çizimdir.
 
     <hr />
 1. Hareketin yer aldığı kompozisyonun arka plan, ışık kullanımı ve kamera açılarıyla desteklenmesini ifade eden prensip hangisidir?
@@ -787,8 +742,7 @@
     - D-) Sağlam Çizim
     - E-) İkincil Hareket
 
-    > **Açıklama:** Doğru yanıt A şıkkıdır
-    > Hareketin yer aldığı kompozisyonun arka plan, ışık kullanımı ve kamera açılarıyla desteklenmesini ifade eden prensip sahnelemedir
+    > **Açıklama:** Doğru yanıt A şıkkıdır<br />Hareketin yer aldığı kompozisyonun arka plan, ışık kullanımı ve kamera açılarıyla desteklenmesini ifade eden prensip sahnelemedir
 
     <hr />
 1. Animasyonlarda karaktere bir iskelet sistemi eklenerek doğal insan hareketleri simüle edilmesine ne isim verilmektedir?
@@ -798,8 +752,7 @@
     - D-) Exaggeration
     - E-) Timing
 
-    > **Açıklama:** Doğru yanıt B şıkkıdır
-    > Animasyonlarda karaktere bir iskelet sistemi eklenerek doğal insan hareketleri simüle edilmesine rigging denir
+    > **Açıklama:** Doğru yanıt B şıkkıdır<br />Animasyonlarda karaktere bir iskelet sistemi eklenerek doğal insan hareketleri simüle edilmesine rigging denir
 
     <hr />
 1. 2B animasyonlarda uygulanan bir teknikle, ana kareler (keyframe) animatör tarafından tasarlandıktan sonra hareketi meydana getirecek ara kareler (frame) animasyon yazılımı tarafından otomatik olarak oynatılır. Bu tekniğin adı nedir?
@@ -809,8 +762,7 @@
     - D-) Exaggeration
     - E-) Timing
 
-    > **Açıklama:** Doğru yanıt A şıkkıdır.
-    > Bahsedilen tekniğin adı tweening'dir.
+    > **Açıklama:** Doğru yanıt A şıkkıdır.<br />Bahsedilen tekniğin adı tweening'dir.
 
     <hr />
 1. Videolar genellikle çok büyük dosya boyutlarına sahip olduğundan veri depolama ve aktarımı kolaylaştırmak için bazı video kodlama standartlarını kullanılarak sıkıştırılır. Aşağıdakilerden hangisi bunlardan birisidir?
@@ -820,8 +772,7 @@
     - D-) HDMI
     - E-) FPS
 
-    > **Açıklama:** Doğru yanıt A şıkkıdır
-    > H.264 bir sıkıştırma türüdür.
+    > **Açıklama:** Doğru yanıt A şıkkıdır<br />H.264 bir sıkıştırma türüdür.
 
     <hr />
 1. Bir öğenin yavaşça kaybolup başka bir görüntü veya ögeyle değişmesini ifade eden kavram aşağıdakilerden hangisidir?
@@ -831,8 +782,7 @@
     - **Cevap D-) Dissolve**
     - E-) Fade in-out
 
-    > **Açıklama:** Doğru yanıt D şıkkıdır
-    > Bir öğenin yavaşça kaybolup başka bir görüntü veya ögeyle değişmesi dissolve ile ifade edilir
+    > **Açıklama:** Doğru yanıt D şıkkıdır<br />Bir öğenin yavaşça kaybolup başka bir görüntü veya ögeyle değişmesi dissolve ile ifade edilir
 
     <hr />
 ## Unite 6
@@ -944,10 +894,7 @@
     - D-) Sanal gerçeklik
     - E-) Gerçek ortam
 
-    > **Açıklama:** **Gerçek Ortam,** yalnızca fiziksel nesnelerden oluşur. **Sanal Ortam**, yalnızca dijital nesnelerden oluşur.
-    > **Arttırılmış Gerçeklik:** Gerçek dünyanın, sanal unsurlarla “arttırıldığı” bir ortama atıf yapar. Bir cep telefonu kamerası aracılığıyla gerçek dünya görüntülerine sanal nesnelerin veya bilgilerin eklenmesi arttırılmış gerçeklik uygulamalarına güzel bir örnektir.
-    > **Arttırılmış Sanallık:** Temelde sanal olan ancak gerçek dünya ögeleriyle zenginleştirilmiş ortamları ifade eder. Örneğin, bir video oyununda gerçek dünya fotoğraflarının veya videolarının kullanılması arttırılmış sanallık uygulaması olarak değerlendirilebilir.
-    > **Sanal Gerçeklik:** Kullanıcıları tamamen sanal bir ortamdaki gerçek üstü deneyimlere sürükleyen uygulamaları tanımlar. Genellikle başa takılan gözlükler aracılığıyla deneyimlenir ve kullanıcılara 360 derece, üç boyutlu bir deneyim sunmak üzere tasarlanır.
+    > **Açıklama:** **Gerçek Ortam,** yalnızca fiziksel nesnelerden oluşur. **Sanal Ortam**, yalnızca dijital nesnelerden oluşur.<br />**Arttırılmış Gerçeklik:** Gerçek dünyanın, sanal unsurlarla “arttırıldığı” bir ortama atıf yapar. Bir cep telefonu kamerası aracılığıyla gerçek dünya görüntülerine sanal nesnelerin veya bilgilerin eklenmesi arttırılmış gerçeklik uygulamalarına güzel bir örnektir.<br />**Arttırılmış Sanallık:** Temelde sanal olan ancak gerçek dünya ögeleriyle zenginleştirilmiş ortamları ifade eder. Örneğin, bir video oyununda gerçek dünya fotoğraflarının veya videolarının kullanılması arttırılmış sanallık uygulaması olarak değerlendirilebilir.<br />**Sanal Gerçeklik:** Kullanıcıları tamamen sanal bir ortamdaki gerçek üstü deneyimlere sürükleyen uygulamaları tanımlar. Genellikle başa takılan gözlükler aracılığıyla deneyimlenir ve kullanıcılara 360 derece, üç boyutlu bir deneyim sunmak üzere tasarlanır.
 
     <hr />
 1. Sanal gerçeklik teknolojisinin öncü fikirlerinden sayılan ve 1838'de Sir Charles Wheatstone tarafından icat edilen cihaz aşağıdakilerden hangisidir?
@@ -957,11 +904,7 @@
     - D-) Sensorama
     - E-) Demokles’in Kılıcı
 
-    > **Açıklama:** Sanal gerçeklik teknolojisinin kökeni, 19. yüzyılın önemli bilim insanlarından biri olan Sir Charles Wheatstone’ın 1838’de icat ettiği ve temelde üç boyutlu görüntü oluşturmaya yarayan **stereoskop** cihazına kadar dayanmaktadır. Bir görsel illüzyon oluşturma konsepti ile çalışan bu cihaz, 2B düzlemde beyni aldatarak üçüncü bir boyut eklemektedir. Stereoskop ile bir nesneye farklı açılardan odaklanıldığında insan beyni iki farklı görüntüyü birleştirmekte ve ortaya 3 boyutlu (3B) bir görüntü çıkmaktadır.
-    > 1929 yılında Edwin Albert Link tarafından icat edilen ve çoğunlukla **Blue Box (Mavi Kutu)** veya Link Trainer adıyla bilinen cihaz, dünyanın ilk ticari uçuş simülatörü olarak bilinmektedir. Link’in bu icadı, günümüzdeki sanal gerçeklik teknolojilerinin altında yatan pek çok yeniliğin ilham kaynağı olmuştur.
-    > Bugünkü anlamdaki sanal gerçeklik gözlüklerinin en ilkel versiyonlarından biri, 1960’ta Morton Heilig tarafından icat edilmiştir. **Telesfer Maskesi** adıyla bilinen bu cihaz, kullanıcının kafasına takabildiği, taşınabilir, bireysel kullanım amaçlı stereoskopik bir sisteme sahiptir.
-    > Morton Heilig tarafından çalışmalarına 1950’li yıllarda başlanan ve 1962 yılında alınan bir patent ile tescillenen **Sensorama**, yalnızca görüntü ve sesi değil tüm duyuları harekete geçiren bir tiyatro kabiniydi.
-    > Ivan E. Sutherland tarafından 1968 yılında hayata geçirilen **Demokles’in Kılıcı** isimli icat, o tarihe kadarki en gelişmiş başa takılan sanal gerçeklik cihazı (HMD) olarak dikkatleri üzerine toplamıştır.
+    > **Açıklama:** Sanal gerçeklik teknolojisinin kökeni, 19. yüzyılın önemli bilim insanlarından biri olan Sir Charles Wheatstone’ın 1838’de icat ettiği ve temelde üç boyutlu görüntü oluşturmaya yarayan **stereoskop** cihazına kadar dayanmaktadır. Bir görsel illüzyon oluşturma konsepti ile çalışan bu cihaz, 2B düzlemde beyni aldatarak üçüncü bir boyut eklemektedir. Stereoskop ile bir nesneye farklı açılardan odaklanıldığında insan beyni iki farklı görüntüyü birleştirmekte ve ortaya 3 boyutlu (3B) bir görüntü çıkmaktadır.<br />1929 yılında Edwin Albert Link tarafından icat edilen ve çoğunlukla **Blue Box (Mavi Kutu)** veya Link Trainer adıyla bilinen cihaz, dünyanın ilk ticari uçuş simülatörü olarak bilinmektedir. Link’in bu icadı, günümüzdeki sanal gerçeklik teknolojilerinin altında yatan pek çok yeniliğin ilham kaynağı olmuştur.<br />Bugünkü anlamdaki sanal gerçeklik gözlüklerinin en ilkel versiyonlarından biri, 1960’ta Morton Heilig tarafından icat edilmiştir. **Telesfer Maskesi** adıyla bilinen bu cihaz, kullanıcının kafasına takabildiği, taşınabilir, bireysel kullanım amaçlı stereoskopik bir sisteme sahiptir.<br />Morton Heilig tarafından çalışmalarına 1950’li yıllarda başlanan ve 1962 yılında alınan bir patent ile tescillenen **Sensorama**, yalnızca görüntü ve sesi değil tüm duyuları harekete geçiren bir tiyatro kabiniydi.<br />Ivan E. Sutherland tarafından 1968 yılında hayata geçirilen **Demokles’in Kılıcı** isimli icat, o tarihe kadarki en gelişmiş başa takılan sanal gerçeklik cihazı (HMD) olarak dikkatleri üzerine toplamıştır.
 
     <hr />
 1. 1992’de ilk defa “Arttırılmış Gerçeklik (Augmented Reality)” terimini ortaya koyan Thomas P. Caudell ve David W. Mizell, bu teknolojiyi hangi alanda kullanmışlardır?
@@ -991,11 +934,7 @@
     - D-) Sembolik/anlatısal sürükleyicilik
     - E-) Sosyal sürükleyicilik
 
-    > **Açıklama:** **Duyusal Sürükleyicilik:** Duyusal sürükleyicilik, bir kişinin bir ortama veya deneyime tamamen dalmış ve çevresel duyularıyla yoğun bir şekilde etkileşimde bulunduğu bir durumu ifade eder.
-    > **Meydan okumaya dayalı sürükleyicilik:** Sanal gerçeklikte öğrenme sürecini daha interaktif ve uygulamalı hâle getiren bir yaklaşımdır. Kullanıcılara sanal ortamda belirli zorluklar, sorunlar ve görevler sunarak motor ve zihinsel becerilerini geliştirmelerine olanak tanır.
-    > **Yaratıcı sürükleyicilik:** Kullanıcının gerçek dünyadan ayrılıp hayal gücünün rehberliğinde farklı bir dünyaya girdiği anları tanımlar. Bu tür bir sanal gerçeklik ortamı, özellikle deneyimlerin fiziksel tehlikesini azaltarak gerçek dünyada deneyimlenmesi mümkün olmayan senaryoların oluşturulmasına olanak tanımaktadır.
-    > **Sembolik/Anlatısal Sürükleyicilik:** Kullanıcının semboller, öyküler ve anlatılar aracılığıyla bir konsepte veya deneyime tamamen dalma durumunu ifade eder.
-    > **Sosyal Sürükleyicilik:** Sanal gerçeklik ortamları tek veya çok kullanıcılı olacak şekilde tasarlanabilmektedir. Çok kullanıcılı sanal gerçeklik uygulamaları genellikle internet bağlantısına sahiptir dolayısıyla katılımcılar sanal dünyalarda aynı anda benzer bir deneyimi paylaşabilirler.
+    > **Açıklama:** **Duyusal Sürükleyicilik:** Duyusal sürükleyicilik, bir kişinin bir ortama veya deneyime tamamen dalmış ve çevresel duyularıyla yoğun bir şekilde etkileşimde bulunduğu bir durumu ifade eder.<br />**Meydan okumaya dayalı sürükleyicilik:** Sanal gerçeklikte öğrenme sürecini daha interaktif ve uygulamalı hâle getiren bir yaklaşımdır. Kullanıcılara sanal ortamda belirli zorluklar, sorunlar ve görevler sunarak motor ve zihinsel becerilerini geliştirmelerine olanak tanır.<br />**Yaratıcı sürükleyicilik:** Kullanıcının gerçek dünyadan ayrılıp hayal gücünün rehberliğinde farklı bir dünyaya girdiği anları tanımlar. Bu tür bir sanal gerçeklik ortamı, özellikle deneyimlerin fiziksel tehlikesini azaltarak gerçek dünyada deneyimlenmesi mümkün olmayan senaryoların oluşturulmasına olanak tanımaktadır.<br />**Sembolik/Anlatısal Sürükleyicilik:** Kullanıcının semboller, öyküler ve anlatılar aracılığıyla bir konsepte veya deneyime tamamen dalma durumunu ifade eder.<br />**Sosyal Sürükleyicilik:** Sanal gerçeklik ortamları tek veya çok kullanıcılı olacak şekilde tasarlanabilmektedir. Çok kullanıcılı sanal gerçeklik uygulamaları genellikle internet bağlantısına sahiptir dolayısıyla katılımcılar sanal dünyalarda aynı anda benzer bir deneyimi paylaşabilirler.
 
     <hr />
 1. Aşağıdaki teknoloji şirketlerinden hangisi 2015 yılında "HoloLens" isimli karma gerçeklik gözlüğünü piyasaya sunmuştur?
@@ -1005,12 +944,7 @@
     - **Cevap D-) Microsoft**
     - E-) HTC
 
-    > **Açıklama:** Şıklardaki şirketler ve çıkardıkları ürünlerin ismi aşağıdaki gibidir:
-    > Google Glass
-    > Apple Vision Pro
-    > Sony PlayStation VR
-    > Microsof HoloLens
-    > HTC Vive
+    > **Açıklama:** Şıklardaki şirketler ve çıkardıkları ürünlerin ismi aşağıdaki gibidir:<br />Google Glass<br />Apple Vision Pro<br />Sony PlayStation VR<br />Microsof HoloLens<br />HTC Vive
 
     <hr />
 1. Dünya çapında bilinen ve oynanan PokemonGo oyunu aşağıdakilerden hangisine bir örnektir?
@@ -1040,8 +974,7 @@
     - **Cevap D-) Proje geliştirmenin aşamaları sırasıyla takip edilir.**
     - E-) Scrum, Agile’ın en popüler çerçevelerinden biri olarak öne çıkar.
 
-    > **Açıklama:** XR projeleri, yüksek teknik bilgi birikimi gerektirir ve multidisipliner bir yaklaşımı zorunlu kılar bu nedenle en uygun geliştirme metodolojisini belirlemek, projenin sonuçlarını doğrudan etkiler. **Çevik (Agile) metodolojisi,** süreci kısa geliştirme döngüleri şeklinde yöneterek hızlı ve esnek bir geliştirme süreci sağlar; sürekli geri bildirim ile hızlı adaptasyonu mümkün kılar böylece değişen ihtiyaçlara çabucak yanıt verilebilir. Agile, değişken projeler için idealdir ve projenin her aşamasında işlevsel ürünlerin ya da ürün parçalarının teslim edilmesini hedefler. Scrum, Agile’ın en popüler çerçevelerinden biri olarak öne çıkar.
-    > Agile’a oranla daha geleneksel bir yaklaşım sunan **Waterfall geliştirme modeli;** projeyi gerek- sinim analizi, tasarım, implementasyon, test ve dağıtım olmak üzere belirli aşamalara ayırır. *Her bir geliştirme aşaması sırayla takip edilir* ve projenin geliştirme süreci doğrusal olarak yönetilir. Waterfall, özellikle baştan itibaren net bir şekilde tanımlanmış gereksinimlere sahip ve değişikliğe pek açık olmayan projeler için uygun bir seçenektir.
+    > **Açıklama:** XR projeleri, yüksek teknik bilgi birikimi gerektirir ve multidisipliner bir yaklaşımı zorunlu kılar bu nedenle en uygun geliştirme metodolojisini belirlemek, projenin sonuçlarını doğrudan etkiler. **Çevik (Agile) metodolojisi,** süreci kısa geliştirme döngüleri şeklinde yöneterek hızlı ve esnek bir geliştirme süreci sağlar; sürekli geri bildirim ile hızlı adaptasyonu mümkün kılar böylece değişen ihtiyaçlara çabucak yanıt verilebilir. Agile, değişken projeler için idealdir ve projenin her aşamasında işlevsel ürünlerin ya da ürün parçalarının teslim edilmesini hedefler. Scrum, Agile’ın en popüler çerçevelerinden biri olarak öne çıkar.<br />Agile’a oranla daha geleneksel bir yaklaşım sunan **Waterfall geliştirme modeli;** projeyi gerek- sinim analizi, tasarım, implementasyon, test ve dağıtım olmak üzere belirli aşamalara ayırır. *Her bir geliştirme aşaması sırayla takip edilir* ve projenin geliştirme süreci doğrusal olarak yönetilir. Waterfall, özellikle baştan itibaren net bir şekilde tanımlanmış gereksinimlere sahip ve değişikliğe pek açık olmayan projeler için uygun bir seçenektir.
 
     <hr />
 1. Aşağıdakilerden hangisi genişletilmiş gerçeklik uygulamalarında ortam karmaşıklığı unsurlarından biri **değildir?**

@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cenevre Çocuk Hakları Beyannamesinin 1.maddesi;<br/>\"Çocuk bedensel ve ruhsal bakımdan doğal biçimde gelişmesine olanak sağlayacak koşullar içinde<br/>bulundurulmalıdır.\"</br>"
+        "Aciklama": "Cenevre Çocuk Hakları Beyannamesinin 1.maddesi;<br/>\"Çocuk bedensel ve ruhsal bakımdan doğal biçimde gelişmesine olanak sağlayacak koşullar içinde<br/>bulundurulmalıdır.\""
     },
     {
         "SoruID": 3863193,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yardımcı teknoloji araçları; tekerlekli sandalye, projez ve ortezler, mobil uygulamalar, özel olarak geliştirilmiş yazılımlar, akıll telefon, tablet bilgisayarı gibi teknolojik donanımlar, vücut organlarının kullanımını kolaylaştıran aparatlar, resimli kartlar, Braille ile özel olarak yazılmış kitaplar, sesli kitaplar gibi sıralanabilir.<br>Renkli ve fosforlu kalemler"
+        "Aciklama": "Yardımcı teknoloji araçları; tekerlekli sandalye, projez ve ortezler, mobil uygulamalar, özel olarak geliştirilmiş yazılımlar, akıll telefon, tablet bilgisayarı gibi teknolojik donanımlar, vücut organlarının kullanımını kolaylaştıran aparatlar, resimli kartlar, Braille ile özel olarak yazılmış kitaplar, sesli kitaplar gibi sıralanabilir.<br/>Renkli ve fosforlu kalemler"
     },
     {
         "SoruID": 3863196,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Zamanlayıcılar, hesap makineleri, tablet bilgisayarlar, konuşma üreten cihazlar, ses kayıt cihazları, etkileşimli kitaplar, pille çalışan oyuncaklar orta düzey teknolojilerden sayılır.<br>Kitap tasarımları"
+        "Aciklama": "Zamanlayıcılar, hesap makineleri, tablet bilgisayarlar, konuşma üreten cihazlar, ses kayıt cihazları, etkileşimli kitaplar, pille çalışan oyuncaklar orta düzey teknolojilerden sayılır.<br/>Kitap tasarımları"
     },
     {
         "SoruID": 3863198,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Örneğin, bilgisayarlar, tablet bilgisayarlar, akıllı telefonlar, akıllı saatler, konuşan saatler, işitme cihazları, akülü tekerlekli sandalyeler <strong>yüksek düzey teknolojilerdendir.</strong><br>Etkileşimli kitaplar"
+        "Aciklama": "Örneğin, bilgisayarlar, tablet bilgisayarlar, akıllı telefonlar, akıllı saatler, konuşan saatler, işitme cihazları, akülü tekerlekli sandalyeler <strong>yüksek düzey teknolojilerdendir.</strong><br/>Etkileşimli kitaplar"
     },
     {
         "SoruID": 3863199,
@@ -981,7 +981,7 @@
     },
     {
         "SoruID": 3863304,
-        "SoruMetni": "I. Erişilebilirlik, insan haklarının ayrımcılığı da kapsayan önemli bir alanıdır.<br data-end=\"200\" data-start=\"197\"/> II. Erişilebilirlik, gündelik yaşama tam katılımın ve bağımsız yaşamanın temel koşullarındandır.<br data-end=\"299\" data-start=\"296\"/> III. Erişilebilirlik yalnızca engellilerin değil, tüm bireylerin toplumsal yaşama katılımını destekler.<br data-end=\"405\" data-start=\"402\"/> IV. Erişilebilirlik, sadece fiziksel çevreye yönelik bir düzenleme alanıdır.<br data-end=\"484\" data-start=\"481\"/> V. 5378 sayılı Engelliler Hakkında Kanun’da erişilebilirlik tanımına yer verilmiştir.<br/>Yukarıdaki ifadelerden hangileri, “erişilebilirlik” kavramı ile ilgilidir?",
+        "SoruMetni": "I. Erişilebilirlik, insan haklarının ayrımcılığı da kapsayan önemli bir alanıdır.<br/>II. Erişilebilirlik, gündelik yaşama tam katılımın ve bağımsız yaşamanın temel koşullarındandır.<br/>III. Erişilebilirlik yalnızca engellilerin değil, tüm bireylerin toplumsal yaşama katılımını destekler.<br/>IV. Erişilebilirlik, sadece fiziksel çevreye yönelik bir düzenleme alanıdır.<br/>V. 5378 sayılı Engelliler Hakkında Kanun’da erişilebilirlik tanımına yer verilmiştir.<br/>Yukarıdaki ifadelerden hangileri, “erişilebilirlik” kavramı ile ilgilidir?",
         "A": "I, II ve III",
         "B": "I, II ve V",
         "C": "II, IV ve V",
@@ -1017,7 +1017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Soruda verilen durumda, bireye fiziksel, sosyal, zihinsel ve mesleki beceriler kazandırılarak günlük yaşamını bağımsız sürdürebilmesi hedeflenmektedir.<br data-end=\"177\" data-start=\"174\"/> Bu tanım, doğrudan habilitasyon kavramına karşılık gelir.<br data-end=\"241\" data-start=\"238\"/> Rehabilitasyondan farkı, habilitasyonun mevcut olmayan becerileri ilk kez kazandırmaya odaklanmasıdır; rehabilitasyon ise kaybedilmiş becerileri geri kazandırmaya yöneliktir."
+        "Aciklama": "Soruda verilen durumda, bireye fiziksel, sosyal, zihinsel ve mesleki beceriler kazandırılarak günlük yaşamını bağımsız sürdürebilmesi hedeflenmektedir.<br/>Bu tanım, doğrudan habilitasyon kavramına karşılık gelir.<br/>Rehabilitasyondan farkı, habilitasyonun mevcut olmayan becerileri ilk kez kazandırmaya odaklanmasıdır; rehabilitasyon ise kaybedilmiş becerileri geri kazandırmaya yöneliktir."
     },
     {
         "SoruID": 3863306,
@@ -1037,7 +1037,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "A) Habilitasyon hizmetleri- Engelli bireylere fiziksel, sosyal, zihinsel ve mesleki beceriler kazandırma sürecidir. Soruda beceri kazandırmadan çok çevresel düzenleme anlatılıyor.<br/>B) Engellilerin istihdamını artırma politikaları- İş bulma, iş ortamı uyarlama, mesleki eğitim gibi istihdama yönelik uygulamaları kapsar; burada genel yaşam alanları ve hizmetlerin erişilebilirliği söz konusu.<br/>D) Sosyal yardım programları -Maddi destek veya sosyal hizmet yardımlarıdır; erişilebilirlik düzenlemeleri ile doğrudan ilişkili değildir.<br/>E) Sağlık hizmetleri planlaması -Sağlık sisteminin organizasyonu ile ilgilidir; sorudaki düzenlemeler yalnızca sağlık alanını değil, tüm yaşam alanlarını kapsar.<br>Soruda anlatılan düzenlemeler, hem fiziki çevre (binalar, yollar, ulaşım araçları, okullar, sağlık tesisleri, işyerleri vb.) hem de bilgi ve iletişim olanakları (elektronik hizmetler, acil hizmetler vb.) için erişim imkânı sağlamaya yöneliktir.<br data-end=\"270\" data-start=\"267\"/> Bu durum, engelli bireylerin bağımsız yaşamasını ve topluma tam ve eşit katılımını mümkün kılan erişilebilirlik ilkesinin uygulanması anlamına gelir.<br data-end=\"434\" data-start=\"431\"/> Dolayısıyla doğru seçenek C) Erişilebilirlik ilkesinin hayata geçirilmesi’dir."
+        "Aciklama": "A) Habilitasyon hizmetleri- Engelli bireylere fiziksel, sosyal, zihinsel ve mesleki beceriler kazandırma sürecidir. Soruda beceri kazandırmadan çok çevresel düzenleme anlatılıyor.<br/>B) Engellilerin istihdamını artırma politikaları- İş bulma, iş ortamı uyarlama, mesleki eğitim gibi istihdama yönelik uygulamaları kapsar; burada genel yaşam alanları ve hizmetlerin erişilebilirliği söz konusu.<br/>D) Sosyal yardım programları -Maddi destek veya sosyal hizmet yardımlarıdır; erişilebilirlik düzenlemeleri ile doğrudan ilişkili değildir.<br/>E) Sağlık hizmetleri planlaması -Sağlık sisteminin organizasyonu ile ilgilidir; sorudaki düzenlemeler yalnızca sağlık alanını değil, tüm yaşam alanlarını kapsar.<br/>Soruda anlatılan düzenlemeler, hem fiziki çevre (binalar, yollar, ulaşım araçları, okullar, sağlık tesisleri, işyerleri vb.) hem de bilgi ve iletişim olanakları (elektronik hizmetler, acil hizmetler vb.) için erişim imkânı sağlamaya yöneliktir.<br/>Bu durum, engelli bireylerin bağımsız yaşamasını ve topluma tam ve eşit katılımını mümkün kılan erişilebilirlik ilkesinin uygulanması anlamına gelir.<br/>Dolayısıyla doğru seçenek C) Erişilebilirlik ilkesinin hayata geçirilmesi’dir."
     },
     {
         "SoruID": 3863307,
@@ -1057,7 +1057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "A) Erişilebilirliğin tasarım ve planlama sürecine baştan dahil edilmemesi ve bilgi–iletişim alanında yetersizlik: Doğru yanıt<br data-end=\"203\" data-start=\"200\"/>Nedeni: Sorudaki metinde hem sonradan yapılan düzenlemelerin yarattığı maliyet–estetik sorunları (tasarım sürecine dahil edilmeme) hem de yönlendirme tabelaları ve dijital bilgilendirme ekranlarının standartlara uygun olmaması (bilgi–iletişim eksikliği) anlatılıyor.<br/>B) ERDEM sistemine kayıt yapılmaması ve toplu taşım erişiminin olmaması: Hatalı yanıt<br data-end=\"553\" data-start=\"550\"> Sebebi: Olayda ERDEM sistemine başvurulup başvurulmadığı veya toplu taşıma erişimi hakkında bilgi yok.</br><br/>C) Ulusal mevzuattaki dayanaklara uyulmaması ve sosyal yardım eksikliği: Hatalı yanıt<br data-end=\"748\" data-start=\"745\"> Sebep: Ulusal mevzuata uyulmaması ima edilebilir ancak olayda sosyal yardım konusuna dair hiçbir bilgi yok.</br><br/>&lt;p data-start=\"859\"<br>Birinci eksik: Erişilebilirliğin baştan, tasarım ve planlama aşamasında dikkate alınmaması. Bu yüzden sonradan eklemeler hem maliyetli hem de uyumsuz olmuştur.<br/>İkinci eksik: Erişilebilirliğin yalnızca fiziksel düzenlemelerle sınırlı kalması ve bilgi–iletişim alanında (tabelalar, dijital ekranlar) yetersizliklerin bulunması."
+        "Aciklama": "A) Erişilebilirliğin tasarım ve planlama sürecine baştan dahil edilmemesi ve bilgi–iletişim alanında yetersizlik: Doğru yanıt<br/>Nedeni: Sorudaki metinde hem sonradan yapılan düzenlemelerin yarattığı maliyet–estetik sorunları (tasarım sürecine dahil edilmeme) hem de yönlendirme tabelaları ve dijital bilgilendirme ekranlarının standartlara uygun olmaması (bilgi–iletişim eksikliği) anlatılıyor.<br/>B) ERDEM sistemine kayıt yapılmaması ve toplu taşım erişiminin olmaması: Hatalı yanıt<br/>Sebebi: Olayda ERDEM sistemine başvurulup başvurulmadığı veya toplu taşıma erişimi hakkında bilgi yok.<br/>C) Ulusal mevzuattaki dayanaklara uyulmaması ve sosyal yardım eksikliği: Hatalı yanıt<br/>Sebep: Ulusal mevzuata uyulmaması ima edilebilir ancak olayda sosyal yardım konusuna dair hiçbir bilgi yok.<br/>&lt;p data-start=\"859\"<br/>Birinci eksik: Erişilebilirliğin baştan, tasarım ve planlama aşamasında dikkate alınmaması. Bu yüzden sonradan eklemeler hem maliyetli hem de uyumsuz olmuştur.<br/>İkinci eksik: Erişilebilirliğin yalnızca fiziksel düzenlemelerle sınırlı kalması ve bilgi–iletişim alanında (tabelalar, dijital ekranlar) yetersizliklerin bulunması."
     },
     {
         "SoruID": 3863308,
@@ -1101,7 +1101,7 @@
     },
     {
         "SoruID": 3863310,
-        "SoruMetni": "Deniz, görme engelli bir yüzücüdür. Günlük yaşamında zamanı öğrenmek için telefonunu kullanmak istememektedir. Kullandığı yeni cihaz: I. Üzerindeki minik bilyeler sayesinde zamanı dokunarak algılamasını sağlar.<br data-end=\"294\" data-start=\"291\"/> II. Sessiz bir şekilde saatini öğrenmesine imkân verir.<br data-end=\"352\" data-is-only-node=\"\" data-start=\"349\"/> III. Görme engelli paralimpik sporculardan ilham alınarak tasarlanmıştır.<br/>Bu özelliklere sahip yardımcı teknoloji aşağıdakilerden hangisidir?",
+        "SoruMetni": "Deniz, görme engelli bir yüzücüdür. Günlük yaşamında zamanı öğrenmek için telefonunu kullanmak istememektedir. Kullandığı yeni cihaz: I. Üzerindeki minik bilyeler sayesinde zamanı dokunarak algılamasını sağlar.<br/>II. Sessiz bir şekilde saatini öğrenmesine imkân verir.<br/>III. Görme engelli paralimpik sporculardan ilham alınarak tasarlanmıştır.<br/>Bu özelliklere sahip yardımcı teknoloji aşağıdakilerden hangisidir?",
         "A": "Dokunsal ekranlı akıllı saat",
         "B": "Braille alfabeli kol saati",
         "C": "Eone saati",
@@ -1121,7 +1121,7 @@
     },
     {
         "SoruID": 3863311,
-        "SoruMetni": "I. Ürünlerin, hizmetlerin ve mekânların mümkün olan en geniş ölçekte insanlar tarafından kullanılabilmesini hedefler.<br data-end=\"386\" data-start=\"383\"/> II. Sadece engelli bireyler için uyum sürecine odaklanır.<br data-end=\"446\" data-start=\"443\"/> III. İşlevsellik ile estetik değerleri birlikte gözetir.<br data-end=\"505\" data-start=\"502\"/> IV. Tek bir kullanıcının bile dışlanmamasını esas alır.<br data-end=\"563\" data-start=\"560\"/> V. Sadece belirli bir pazar için özel tasarımlar yapmayı amaçlar.<br/>Yukarıdakilerden hangileri evrensel tasarım yaklaşımının özellikleri arasında yer alır?",
+        "SoruMetni": "I. Ürünlerin, hizmetlerin ve mekânların mümkün olan en geniş ölçekte insanlar tarafından kullanılabilmesini hedefler.<br/>II. Sadece engelli bireyler için uyum sürecine odaklanır.<br/>III. İşlevsellik ile estetik değerleri birlikte gözetir.<br/>IV. Tek bir kullanıcının bile dışlanmamasını esas alır.<br/>V. Sadece belirli bir pazar için özel tasarımlar yapmayı amaçlar.<br/>Yukarıdakilerden hangileri evrensel tasarım yaklaşımının özellikleri arasında yer alır?",
         "A": "I, III ve IV",
         "B": "II ve V",
         "C": "I, II ve III",
@@ -1141,7 +1141,7 @@
     },
     {
         "SoruID": 3863312,
-        "SoruMetni": "I. Eşitlikçi Kullanım<br data-end=\"220\" data-start=\"217\"/> II. Estetik Öncelikli Tasarım<br data-end=\"252\" data-start=\"249\"/> III. Algılanabilir Bilgi<br data-end=\"279\" data-start=\"276\"/> IV. Düşük Fiziksel Efor<br/>Yukarıdakilerden hangileri Evrensel Tasarım Kılavuzu’nun yedi ilkesinden biridir?",
+        "SoruMetni": "I. Eşitlikçi Kullanım<br/>II. Estetik Öncelikli Tasarım<br/>III. Algılanabilir Bilgi<br/>IV. Düşük Fiziksel Efor<br/>Yukarıdakilerden hangileri Evrensel Tasarım Kılavuzu’nun yedi ilkesinden biridir?",
         "A": "I ve II",
         "B": "I ve III",
         "C": "II ve IV",
@@ -1417,7 +1417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gönderici: Mesajı gönderen, kişi, grup veya kurumdur. Tasarımcı hedef kitleye iletmek isteği mesajı önce zihninde oluşturur daha sonra bu oluşan fikri kodlayarak -sözcüklere, rakamlara, sembollere, işaretlere dönüştürerek- iletişim aracılığı ile alıcıya gönderir. Bu durum hedef kitlenin ihtiyaçları ve kapsayıcı tasarım yönünde kararlar ile desteklenmelidir.<br/>Mesaj: Gönderici tarafından kodlanarak alıcıya gönderilen, gönderici ve alıcı için aynı anlamı taşıyan, duygu ve düşünceleri ifade eder. Tasarımcı sözcükleri, rakamları, sembolleri, işaretlere dönüştürerek iletişim aracılığıyla alıcıya gönderir.</br><br/>Geri bildirim: Alıcının algıladığı ve yorumladığı iletilere, sözlü ve/veya sözsüz tepki verme sürecidir. Gönderici ve hedef arasındaki geriye bilgi akışı olarak tanımlanabilecek geri bildirim, mesajın alıcı tarafından anlaşılıp anlaşılmadığı, ne şekilde anlaşıldığı ve yorumlandığının kaynak tarafından bilinmesine olanak sağlar.<br/>İletişim aracı: İletişimde kullanılan yoldur. Alıcı ile verici arasındaki iletiler sözlü veya yazılı olabilir.<br/>Alıcı: Göndericinin gönderdiği iletiyi alan ve anlamlandıran kişi veya topluluktur.</br><br/>Doğru cevap C'dir."
+        "Aciklama": "Gönderici: Mesajı gönderen, kişi, grup veya kurumdur. Tasarımcı hedef kitleye iletmek isteği mesajı önce zihninde oluşturur daha sonra bu oluşan fikri kodlayarak -sözcüklere, rakamlara, sembollere, işaretlere dönüştürerek- iletişim aracılığı ile alıcıya gönderir. Bu durum hedef kitlenin ihtiyaçları ve kapsayıcı tasarım yönünde kararlar ile desteklenmelidir.<br/>Mesaj: Gönderici tarafından kodlanarak alıcıya gönderilen, gönderici ve alıcı için aynı anlamı taşıyan, duygu ve düşünceleri ifade eder. Tasarımcı sözcükleri, rakamları, sembolleri, işaretlere dönüştürerek iletişim aracılığıyla alıcıya gönderir.<br/>Geri bildirim: Alıcının algıladığı ve yorumladığı iletilere, sözlü ve/veya sözsüz tepki verme sürecidir. Gönderici ve hedef arasındaki geriye bilgi akışı olarak tanımlanabilecek geri bildirim, mesajın alıcı tarafından anlaşılıp anlaşılmadığı, ne şekilde anlaşıldığı ve yorumlandığının kaynak tarafından bilinmesine olanak sağlar.<br/>İletişim aracı: İletişimde kullanılan yoldur. Alıcı ile verici arasındaki iletiler sözlü veya yazılı olabilir.<br/>Alıcı: Göndericinin gönderdiği iletiyi alan ve anlamlandıran kişi veya topluluktur.<br/>Doğru cevap C'dir."
     },
     {
         "SoruID": 3863036,
@@ -1597,7 +1597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "“İletişim nedir?” diye sorulduğunda iletişim kavramı için çok şey söylenebilir. En yaygın tanımıyla iletişim “duygu, düşünce veya bilgilerin akla gelebilecek her türlü yolla başkalarına aktarılması, bildirişim, haberleşme, komünikasyon” olarak tanımlanabilir (Türk Dil Kurumu [TDK]).<br>Yanıt D'dir. İletişimdir."
+        "Aciklama": "“İletişim nedir?” diye sorulduğunda iletişim kavramı için çok şey söylenebilir. En yaygın tanımıyla iletişim “duygu, düşünce veya bilgilerin akla gelebilecek her türlü yolla başkalarına aktarılması, bildirişim, haberleşme, komünikasyon” olarak tanımlanabilir (Türk Dil Kurumu [TDK]).<br/>Yanıt D'dir. İletişimdir."
     },
     {
         "SoruID": 3863315,
@@ -1617,7 +1617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gönderici: Mesajı gönderen, kişi, grup veya kurumdur. Tasarımcı hedef kitleye iletmek isteği mesajı önce zihninde oluşturur daha sonra bu oluşan fikri kodlayarak -sözcüklere, rakamlara, sembollere, işaretlere dönüştürerek- iletişim aracılığı ile alıcıya gönderir. Bu durum hedef kitlenin ihtiyaçları ve kapsayıcı tasarım yönünde kararlar ile desteklenmelidir.<br/>Mesaj: Gönderici tarafından kodlanarak alıcıya gönderilen, gönderici ve alıcı için aynı anlamı taşıyan, duygu ve düşünceleri ifade eder. Tasarımcı sözcükleri, rakamları, sembolleri, işaretlere dönüştürerek iletişim aracılığıyla alıcıya gönderir. <br/>Alıcı: Göndericinin gönderdiği iletiyi alan ve anlamlandıran kişi veya topluluktur.<br>Yanıt A'dır. Gönderici - mesaj - alıcıdır."
+        "Aciklama": "Gönderici: Mesajı gönderen, kişi, grup veya kurumdur. Tasarımcı hedef kitleye iletmek isteği mesajı önce zihninde oluşturur daha sonra bu oluşan fikri kodlayarak -sözcüklere, rakamlara, sembollere, işaretlere dönüştürerek- iletişim aracılığı ile alıcıya gönderir. Bu durum hedef kitlenin ihtiyaçları ve kapsayıcı tasarım yönünde kararlar ile desteklenmelidir.<br/>Mesaj: Gönderici tarafından kodlanarak alıcıya gönderilen, gönderici ve alıcı için aynı anlamı taşıyan, duygu ve düşünceleri ifade eder. Tasarımcı sözcükleri, rakamları, sembolleri, işaretlere dönüştürerek iletişim aracılığıyla alıcıya gönderir. <br/>Alıcı: Göndericinin gönderdiği iletiyi alan ve anlamlandıran kişi veya topluluktur.<br/>Yanıt A'dır. Gönderici - mesaj - alıcıdır."
     },
     {
         "SoruID": 3863316,
@@ -1637,7 +1637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Kavramların geliştirilmesi (çözüm oluşturma): Hangi fikir yada fikirlerle devam edileceğine karar verildikten sonra çeşitli ortamlar, malzemeler, yöntemler, tasarım öğeleri ve ilkeler uygulanarak görselleştirme oluşturulur. Tasarım müşteri geri bildirimine ve/veya özete göre görsel düzenleme, uyarlamalar yapılarak tamamlanır.<br>Yanıt C'dir. Kavramların geliştirilmesidir."
+        "Aciklama": "Kavramların geliştirilmesi (çözüm oluşturma): Hangi fikir yada fikirlerle devam edileceğine karar verildikten sonra çeşitli ortamlar, malzemeler, yöntemler, tasarım öğeleri ve ilkeler uygulanarak görselleştirme oluşturulur. Tasarım müşteri geri bildirimine ve/veya özete göre görsel düzenleme, uyarlamalar yapılarak tamamlanır.<br/>Yanıt C'dir. Kavramların geliştirilmesidir."
     },
     {
         "SoruID": 3863317,
@@ -1657,7 +1657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fikir üretimi (yaratılıcılık ve buluş süreci): Öncelikle konu hakkındaki bilgiler bir araya getirilerek değerlendirilir. Araştırmalardan yararlanılarak olası fikirler bulunup görselleştirme taslakları ya da fikir eskizleri oluşturulur. Tasarımcı kağıda ilk eskizlerini karaladığında “dışavurumculu yaratıcılık” aşamasındadır. Eskiz biraz daha ayrıntılı bir hale getirildiğinde ise “üretken yaratıcılık” aşamasına geçilmiş olur.<br>Yanıt A'dır. Fikir üretimidir."
+        "Aciklama": "Fikir üretimi (yaratılıcılık ve buluş süreci): Öncelikle konu hakkındaki bilgiler bir araya getirilerek değerlendirilir. Araştırmalardan yararlanılarak olası fikirler bulunup görselleştirme taslakları ya da fikir eskizleri oluşturulur. Tasarımcı kağıda ilk eskizlerini karaladığında “dışavurumculu yaratıcılık” aşamasındadır. Eskiz biraz daha ayrıntılı bir hale getirildiğinde ise “üretken yaratıcılık” aşamasına geçilmiş olur.<br/>Yanıt A'dır. Fikir üretimidir."
     },
     {
         "SoruID": 3863318,
@@ -1677,7 +1677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Empati kurun: Tasarım odaklı düşünmenin ilk aşaması, kullanıcılar ve onların ihtiyaçları hakkında gerçek bilgiler edinmektir. Çözmeye çalıştığınız problem hakkında empatik bir anlayış kazanmak istiyorsanız, daha fazla bilgi edinmek için uzmanlara danışmak ve kullanıcılarla etkileşim kurmak ve empati kurmak için gözlemler yapmak uygun olacaktır. Ayrıca ilgili sorunların yanı sıra deneyimleri ve motivasyonları hakkında daha derin, kişisel bir anlayış kazanmak için kendinizi kullanıcılarınızın fiziksel ortamına sokmak isteyebilirsiniz. Empati, tasarım düşünürlerinin dünyayla ilgili kendi varsayımlarını bir kenara bırakmalarına<br/>ve kullanıcılar ve onların ihtiyaçları hakkında gerçek bir iç görü kazanmalarına olanak tanıdığından, problem çözme ve insan merkezli bir tasarım sürecinin merkezinde yer alır. Özellikle engelliler söz konusu olduğunda genel kalıpları bir kenara bırakmak gerekir. Bir engellinin algısı söz konusu olduğunda ne kalıplar ne de bizim kendi algılama deneyimimiz<br/>bize yol göstermeyecekti<br>Yanıt E'dir. Empati kurmadır."
+        "Aciklama": "Empati kurun: Tasarım odaklı düşünmenin ilk aşaması, kullanıcılar ve onların ihtiyaçları hakkında gerçek bilgiler edinmektir. Çözmeye çalıştığınız problem hakkında empatik bir anlayış kazanmak istiyorsanız, daha fazla bilgi edinmek için uzmanlara danışmak ve kullanıcılarla etkileşim kurmak ve empati kurmak için gözlemler yapmak uygun olacaktır. Ayrıca ilgili sorunların yanı sıra deneyimleri ve motivasyonları hakkında daha derin, kişisel bir anlayış kazanmak için kendinizi kullanıcılarınızın fiziksel ortamına sokmak isteyebilirsiniz. Empati, tasarım düşünürlerinin dünyayla ilgili kendi varsayımlarını bir kenara bırakmalarına<br/>ve kullanıcılar ve onların ihtiyaçları hakkında gerçek bir iç görü kazanmalarına olanak tanıdığından, problem çözme ve insan merkezli bir tasarım sürecinin merkezinde yer alır. Özellikle engelliler söz konusu olduğunda genel kalıpları bir kenara bırakmak gerekir. Bir engellinin algısı söz konusu olduğunda ne kalıplar ne de bizim kendi algılama deneyimimiz<br/>bize yol göstermeyecekti<br/>Yanıt E'dir. Empati kurmadır."
     },
     {
         "SoruID": 3863319,
@@ -1697,7 +1697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "\"Punto satırların uzunluğunu ölçmek için kullanılır.\" ifadesi yanlıştır. Punto harf ölçüsünü ölçmek, pika ise satırların uzunluğunu ölçmek için kullanılır.<br>Yanıt D'dir. \"Punto satırların uzunluğunu ölçmek için kullanılır.\" ifadesi yanlıştır."
+        "Aciklama": "\"Punto satırların uzunluğunu ölçmek için kullanılır.\" ifadesi yanlıştır. Punto harf ölçüsünü ölçmek, pika ise satırların uzunluğunu ölçmek için kullanılır.<br/>Yanıt D'dir. \"Punto satırların uzunluğunu ölçmek için kullanılır.\" ifadesi yanlıştır."
     },
     {
         "SoruID": 3863320,
@@ -1717,7 +1717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Okuturluk: Okuturluk okunurluktan farklıdır; bu kavram yalnız yazı karakterini içermez. Okuturluk yazı karakterlerinden kağıt seçimine, renk ilişkileri, kontrast ve bütün baskı nesneleriyle ilgilidir ve her düzenleme etkeninin nasıl olduğunu içerir. Bir başka deyişle her şeyin hoşnut edici bir okuma yaratmasıdır. Okunurluk yazı karakteri ve hart ölçüsüne bağlıyken okuturluk bütün tasarımda temellenir.<br>Yanıt D'dir. Okuturluktur."
+        "Aciklama": "Okuturluk: Okuturluk okunurluktan farklıdır; bu kavram yalnız yazı karakterini içermez. Okuturluk yazı karakterlerinden kağıt seçimine, renk ilişkileri, kontrast ve bütün baskı nesneleriyle ilgilidir ve her düzenleme etkeninin nasıl olduğunu içerir. Bir başka deyişle her şeyin hoşnut edici bir okuma yaratmasıdır. Okunurluk yazı karakteri ve hart ölçüsüne bağlıyken okuturluk bütün tasarımda temellenir.<br/>Yanıt D'dir. Okuturluktur."
     },
     {
         "SoruID": 3863321,
@@ -1737,7 +1737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "CMYK (Cyan, Magenta, Yellow, Key) kağıda basılacak tasarımlarda kullanılan çıkarmalı renk<br/>modeldir CMYK modeli, beyaz bir yüzeyi maskeleme prensibi ile çalışır. Işık mürekkep tarafından emilir bu nedenle model çıkarmalı olarak adlandırılır, çünkü mürekkepler beyaz ışıktan kırmızı, yeşil ve mavi renkleri “çıkarır.” Cyan: camgöbeğinin, Magenta: macentanın, Yellow: sarının ve Key: anahtar(siyah)ın kısaltmasıdır. <br/>RGB (Red, Green, Blue) renk modeli dijital ortamlarda kullanılır. İnternette bulunan grafikler ve imajlarda ve bilgisayar veya LCD ekran teknolojisinde Red: kırmızı, Green: yeşil, Blue: mavi renklerin kısaltmasıdır. Bu sistemde renkler mürekkepten değil ışıktan oluşur.<br>Yanıt A'dır. CMYK renk modeli dijital ortamlarda kullanılır ifadesi yanlıştır."
+        "Aciklama": "CMYK (Cyan, Magenta, Yellow, Key) kağıda basılacak tasarımlarda kullanılan çıkarmalı renk<br/>modeldir CMYK modeli, beyaz bir yüzeyi maskeleme prensibi ile çalışır. Işık mürekkep tarafından emilir bu nedenle model çıkarmalı olarak adlandırılır, çünkü mürekkepler beyaz ışıktan kırmızı, yeşil ve mavi renkleri “çıkarır.” Cyan: camgöbeğinin, Magenta: macentanın, Yellow: sarının ve Key: anahtar(siyah)ın kısaltmasıdır. <br/>RGB (Red, Green, Blue) renk modeli dijital ortamlarda kullanılır. İnternette bulunan grafikler ve imajlarda ve bilgisayar veya LCD ekran teknolojisinde Red: kırmızı, Green: yeşil, Blue: mavi renklerin kısaltmasıdır. Bu sistemde renkler mürekkepten değil ışıktan oluşur.<br/>Yanıt A'dır. CMYK renk modeli dijital ortamlarda kullanılır ifadesi yanlıştır."
     },
     {
         "SoruID": 3863322,
@@ -1777,7 +1777,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Roland Barthes (1915-1980) göstergebilimde etkili bir figür olmuştur. Açıkladığı kavramlardan biri olan uylaşımın açıklaması:<br/>Uylaşım: Belli bir grup veya kültür için bir göstergenin belli bir şeyi, nesneyi veya kavramı temsil etmesi üzerine bir anlaşmadır. Bu, park yeri, dolar işareti, kahve fincanı kahve gibi dünya çapında anlaşılan bir gösterge veya bir futbol takımının sembolu olarak kara kartal yada kanarya gibi daha özel olabilir.<br>Yanıt A'dır. Uylaşımdır."
+        "Aciklama": "Roland Barthes (1915-1980) göstergebilimde etkili bir figür olmuştur. Açıkladığı kavramlardan biri olan uylaşımın açıklaması:<br/>Uylaşım: Belli bir grup veya kültür için bir göstergenin belli bir şeyi, nesneyi veya kavramı temsil etmesi üzerine bir anlaşmadır. Bu, park yeri, dolar işareti, kahve fincanı kahve gibi dünya çapında anlaşılan bir gösterge veya bir futbol takımının sembolu olarak kara kartal yada kanarya gibi daha özel olabilir.<br/>Yanıt A'dır. Uylaşımdır."
     },
     {
         "SoruID": 3863024,
@@ -1817,7 +1817,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital ortamların akışkanlık özelliği, hem kalıcı hem de geçici bir yapıya sahip olmasını ifade etmektedir.<br>Ortamlardaki içeriğin hem geçici hem kalıcı olmasıdır."
+        "Aciklama": "Dijital ortamların akışkanlık özelliği, hem kalıcı hem de geçici bir yapıya sahip olmasını ifade etmektedir.<br/>Ortamlardaki içeriğin hem geçici hem kalıcı olmasıdır."
     },
     {
         "SoruID": 3863026,
@@ -1857,7 +1857,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital ortamların öğrencilere genel olarak yararları; (a) öğrenci özerkliğini teşvik etmek, (b) iletişim zorluklarını ve engellerini aşmaya yardımcı olmak, (c) öğrencilere çalışma başarılarını uygun bir şekilde gösterme fırsatı sağlamak, (d) öğrencilerin bireysel becerileri ve yetenekleri dikkate alınarak görevler geliştirmek, (e) tipik gelişen akranlarla bir arada bulunmak, motivasyon sağlamaktır.<br>II,III ve IV"
+        "Aciklama": "Dijital ortamların öğrencilere genel olarak yararları; (a) öğrenci özerkliğini teşvik etmek, (b) iletişim zorluklarını ve engellerini aşmaya yardımcı olmak, (c) öğrencilere çalışma başarılarını uygun bir şekilde gösterme fırsatı sağlamak, (d) öğrencilerin bireysel becerileri ve yetenekleri dikkate alınarak görevler geliştirmek, (e) tipik gelişen akranlarla bir arada bulunmak, motivasyon sağlamaktır.<br/>II,III ve IV"
     },
     {
         "SoruID": 3863028,
@@ -1877,7 +1877,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı engeller izleyen şekilde sıralanabilir:<br/>• Engelli bireylerin dijital teknolojiler kullanımı hakkında veri, veritabanı ve araştırmaların yetersizliği<br/>• Dijital teknolojilere erişilebilirlik hakkında yasalar, standartlar, politikalar ve iyi uygulama örnekleri hakkındaki bilginin yetersizliği<br/>• Engellilere yönelik dijital teknolojileri kullanım standartlarının yetersizliği ve/veya bulunmayışı<br/>• Sürekli gelişim halinde olan teknolojilerin, dijital teknolojilere erişilebilirlik ile kullanılabilirliğini azaltması ve maliyetleri artırması<br/>• Bazı durumlarda engelli bireylere yetersiz veya eksik destek verilmesi<br/>• Aile üyelerinin ya da bakıcılarının İnternet kullanımındaki ve eğitimindeki yetersizlikleri<br/>• Öğretmenlerin öğretim yapma ya da verilen teknoloji eğitimler için isteksiz olmaları<br/>• Sınıfta engelli öğrenci azlığı ya da çok farklı engelli öğrenci olması nedeniyle<br/>öğretmenin teknolojiyi<br>I, II, V"
+        "Aciklama": "Engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı engeller izleyen şekilde sıralanabilir:<br/>• Engelli bireylerin dijital teknolojiler kullanımı hakkında veri, veritabanı ve araştırmaların yetersizliği<br/>• Dijital teknolojilere erişilebilirlik hakkında yasalar, standartlar, politikalar ve iyi uygulama örnekleri hakkındaki bilginin yetersizliği<br/>• Engellilere yönelik dijital teknolojileri kullanım standartlarının yetersizliği ve/veya bulunmayışı<br/>• Sürekli gelişim halinde olan teknolojilerin, dijital teknolojilere erişilebilirlik ile kullanılabilirliğini azaltması ve maliyetleri artırması<br/>• Bazı durumlarda engelli bireylere yetersiz veya eksik destek verilmesi<br/>• Aile üyelerinin ya da bakıcılarının İnternet kullanımındaki ve eğitimindeki yetersizlikleri<br/>• Öğretmenlerin öğretim yapma ya da verilen teknoloji eğitimler için isteksiz olmaları<br/>• Sınıfta engelli öğrenci azlığı ya da çok farklı engelli öğrenci olması nedeniyle<br/>öğretmenin teknolojiyi<br/>I, II, V"
     },
     {
         "SoruID": 3863029,
@@ -1897,7 +1897,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Metinden konuşmaya, yorumlama ve konuşma/ses, çıkışı<br/>Dokunmatik ekranlı cihazlar<br/>• Arttırıcı ve Alternatif İletişim<br/>(AAİ) cihazlarını, iletişim için<br/>elektronik resim panolarını<br/>taklit eden mobil uygulamalar<br/>ve çevrim içi kaynaklar<br/>• Çevrim içi takvimler, not alma,<br/>uyarılar gibi düzenleme ve<br/>hafızaya yardımcı araçlar<br/>• GPS destekli navigasyon<br/>• Anlamaya yardımcı olmak<br/>için multimedya kullanımı,<br/>örneğin videolar, grafikler<br>Çevrim içi takvimler, not alma, uyarılar gibi hafızaya yardımcı araçlar"
+        "Aciklama": "Metinden konuşmaya, yorumlama ve konuşma/ses, çıkışı<br/>Dokunmatik ekranlı cihazlar<br/>• Arttırıcı ve Alternatif İletişim<br/>(AAİ) cihazlarını, iletişim için<br/>elektronik resim panolarını<br/>taklit eden mobil uygulamalar<br/>ve çevrim içi kaynaklar<br/>• Çevrim içi takvimler, not alma,<br/>uyarılar gibi düzenleme ve<br/>hafızaya yardımcı araçlar<br/>• GPS destekli navigasyon<br/>• Anlamaya yardımcı olmak<br/>için multimedya kullanımı,<br/>örneğin videolar, grafikler<br/>Çevrim içi takvimler, not alma, uyarılar gibi hafızaya yardımcı araçlar"
     },
     {
         "SoruID": 3863030,
@@ -1977,7 +1977,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital çağda engelli çocukların haklarına yönelik küresel konular izleyen biçimde sıralanabilir:<br/>• Engelli çocukların dijital medya kullanımları ve uygulamalarına ilişkin temel verilere daha fazla ihtiyaç duyulması, çocuklar arasında dijital medya kullanımına ilişkin araştırmalara ve veri toplamaya dahil edilmesi<br/>•Dijital medyanın hayatı daha kolay ve zevkli hâle getirebileceğinin yanı sıra engelli çocuklar için erişilemeyen yeni alanlar ortaya çıkarabileceğinin kabul edilmesi<br/>• Dijital alanda haklara odaklanmanın engelli çocuğu pekiştirmesine ilişkin potansiyel riskler ve engelli çocukların seslerinin duyulabileceği alanlar ve fırsatlar yaratmanın önemli olması<br/>• Koruma hakları ile engelli çocukların uygun düzeyde eylemlilik, özerklik ve kontrol kullanma hakları arasında denge kurulması ihtiyacının olması<br/>• Erişilebilirlik ve katılım için birden çok iletişim yöntemine izin verecek şekilde araştırma yöntemlerini (çevrim içi anketler ve yüz yüze görüşmeler gibi) çerçevelemek ve</br></br><br>Dijital medyanın hayatı daha zor hale getirmesi"
+        "Aciklama": "Dijital çağda engelli çocukların haklarına yönelik küresel konular izleyen biçimde sıralanabilir:<br/>• Engelli çocukların dijital medya kullanımları ve uygulamalarına ilişkin temel verilere daha fazla ihtiyaç duyulması, çocuklar arasında dijital medya kullanımına ilişkin araştırmalara ve veri toplamaya dahil edilmesi<br/>•Dijital medyanın hayatı daha kolay ve zevkli hâle getirebileceğinin yanı sıra engelli çocuklar için erişilemeyen yeni alanlar ortaya çıkarabileceğinin kabul edilmesi<br/>• Dijital alanda haklara odaklanmanın engelli çocuğu pekiştirmesine ilişkin potansiyel riskler ve engelli çocukların seslerinin duyulabileceği alanlar ve fırsatlar yaratmanın önemli olması<br/>• Koruma hakları ile engelli çocukların uygun düzeyde eylemlilik, özerklik ve kontrol kullanma hakları arasında denge kurulması ihtiyacının olması<br/>• Erişilebilirlik ve katılım için birden çok iletişim yöntemine izin verecek şekilde araştırma yöntemlerini (çevrim içi anketler ve yüz yüze görüşmeler gibi) çerçevelemek ve<br/>Dijital medyanın hayatı daha zor hale getirmesi"
     },
     {
         "SoruID": 3863044,
@@ -2017,7 +2017,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Dijital ortamların yaygınlık özelliğine sahip olması, dijital teknolojilerin kullanıcıların sürekli<br/>bağlantıda olmasını sağlaması ve hayatın her alanında nüfuz etmesidir.<br>Dijital ortamların yaygınlık özelliğine sahip olması, dijital teknolojilerin kullanıcıların sürekli bağlantıda olmasını sağlaması ve hayatın her alanında nüfuz etmesidir."
+        "Aciklama": "Dijital ortamların yaygınlık özelliğine sahip olması, dijital teknolojilerin kullanıcıların sürekli<br/>bağlantıda olmasını sağlaması ve hayatın her alanında nüfuz etmesidir.<br/>Dijital ortamların yaygınlık özelliğine sahip olması, dijital teknolojilerin kullanıcıların sürekli bağlantıda olmasını sağlaması ve hayatın her alanında nüfuz etmesidir."
     },
     {
         "SoruID": 3863046,
@@ -2057,7 +2057,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Zihin yetersizlikleri olan bireyler için dijital katılımın önündeki beş engeli izleyen şekilde sıralamışlardır: <br/>(a) Dijital cihazlara erişim, <br/>(b) cihazları kullanmak için duyumotor becerileri, <br/>(c) bilişsel yetenekler, <br/>(d) teknik gereklilikler ve (e) iletişim.<br>Entegrasyon yeterlikleri"
+        "Aciklama": "Zihin yetersizlikleri olan bireyler için dijital katılımın önündeki beş engeli izleyen şekilde sıralamışlardır: <br/>(a) Dijital cihazlara erişim, <br/>(b) cihazları kullanmak için duyumotor becerileri, <br/>(c) bilişsel yetenekler, <br/>(d) teknik gereklilikler ve (e) iletişim.<br/>Entegrasyon yeterlikleri"
     },
     {
         "SoruID": 3863072,
@@ -2077,7 +2077,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Eğitim alanında engelli öğrencileri desteklemek için dijital<br/>teknolojileri kullanma alanları; öğrencinin kişisel gelişiminin başlangıç seviyesini belirlemek, yeni becerilerin oluşumu yoluyla kişisel gelişimi desteklemek veya halihazırda edinilmiş olanları geliştirmek, eğitim kaynaklarına erişimi iyileştirmek, iletişim ve ağ desteği yoluyla coğrafi veya sosyal uzaklığın üstesinden gelmek ve engelli öğrencilerin öğrenimini destekleme aracı olarak dijital teknolojilerin yararlarının kullanımını teşvik etmek ve farkındalığı artırmak şeklinde özetlemektedir.<br>II-III-IV"
+        "Aciklama": "Eğitim alanında engelli öğrencileri desteklemek için dijital<br/>teknolojileri kullanma alanları; öğrencinin kişisel gelişiminin başlangıç seviyesini belirlemek, yeni becerilerin oluşumu yoluyla kişisel gelişimi desteklemek veya halihazırda edinilmiş olanları geliştirmek, eğitim kaynaklarına erişimi iyileştirmek, iletişim ve ağ desteği yoluyla coğrafi veya sosyal uzaklığın üstesinden gelmek ve engelli öğrencilerin öğrenimini destekleme aracı olarak dijital teknolojilerin yararlarının kullanımını teşvik etmek ve farkındalığı artırmak şeklinde özetlemektedir.<br/>II-III-IV"
     },
     {
         "SoruID": 3863073,
@@ -2097,7 +2097,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yetersiz veya eksik destek, öğretmenlerin eğitimler için isteksiz olmaları, dijital teknolojiler kullanımı hakkında veri, veritabanı ve araştırmaların yetersizliği engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı engellerdir.<br>I-II-III"
+        "Aciklama": "Yetersiz veya eksik destek, öğretmenlerin eğitimler için isteksiz olmaları, dijital teknolojiler kullanımı hakkında veri, veritabanı ve araştırmaların yetersizliği engelli bireylerin dijital teknolojilere erişilebilirlikle ilgili karşılaştığı engellerdir.<br/>I-II-III"
     },
     {
         "SoruID": 3863137,
@@ -2577,7 +2577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "OSB, sosyal etkileşim ve iletişim becerilerindeki yetersizlikler ile sınırlı, yineleyici davranış örüntüleri, ilgi ya da etkinliklerle kendinivgösteren, gelişimin erken dönemlerinde ortaya çıkan ve etkileri yaşam boyu devam edenvkarmaşık bir nöro-gelişimsel bozukluktur.<br>Yanıt C'dir. OSB'dir."
+        "Aciklama": "OSB, sosyal etkileşim ve iletişim becerilerindeki yetersizlikler ile sınırlı, yineleyici davranış örüntüleri, ilgi ya da etkinliklerle kendinivgösteren, gelişimin erken dönemlerinde ortaya çıkan ve etkileri yaşam boyu devam edenvkarmaşık bir nöro-gelişimsel bozukluktur.<br/>Yanıt C'dir. OSB'dir."
     },
     {
         "SoruID": 3863285,
@@ -2597,7 +2597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Zihin yetersizliği, çoğu günlük, sosyal ve pratik becerileri kapsayan hem zihinsel işlevlerde hem de uyumsal davranışlarda belirgin sınırlılıklarla karakterize edilen ve 18 yaşından önce ortaya çıkan bir yetersizliktir.<br>Yanıt B'dir. Zihin yetersizliğidir."
+        "Aciklama": "Zihin yetersizliği, çoğu günlük, sosyal ve pratik becerileri kapsayan hem zihinsel işlevlerde hem de uyumsal davranışlarda belirgin sınırlılıklarla karakterize edilen ve 18 yaşından önce ortaya çıkan bir yetersizliktir.<br/>Yanıt B'dir. Zihin yetersizliğidir."
     },
     {
         "SoruID": 3863286,
@@ -2617,7 +2617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Otizm spektrum bozukluğu yani OSB’nin temel tanı ölçütlerinden birisi sosyal iletişimde yaşanan sorunlardır. OSB olan bireylerin iletişimin bileşenleri olan sözel ve sözel olmayan iletişim, konuşma sırasındaki fiziksel yakınlık, konuşana dikkatini yöneltme, yüz ifadesi, ses tonu, dilin mecazi kullanımı, anlatılmak isteneni duygularla ifade etme açısından problemleri çeşitlilik göstermektedir.<br>Yanıt A'dır. OSB'dir."
+        "Aciklama": "Otizm spektrum bozukluğu yani OSB’nin temel tanı ölçütlerinden birisi sosyal iletişimde yaşanan sorunlardır. OSB olan bireylerin iletişimin bileşenleri olan sözel ve sözel olmayan iletişim, konuşma sırasındaki fiziksel yakınlık, konuşana dikkatini yöneltme, yüz ifadesi, ses tonu, dilin mecazi kullanımı, anlatılmak isteneni duygularla ifade etme açısından problemleri çeşitlilik göstermektedir.<br/>Yanıt A'dır. OSB'dir."
     },
     {
         "SoruID": 3863287,
@@ -2637,7 +2637,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "0-18 yaş aralığındaki bireylere gelişimsel yetersizlik (OSB ya da zihin yetersizliği) tanısı konduğunda “Çocuk Özel Gereksinim Raporu (ÇÖZGER)” çıkartılması gerekir. ÇÖZGER almak için çocuğun bakımını üstlenen kişinin başvuru dilekçesiyle ÇÖZGER düzenlemeye yetkili hastaneye başvuru yapması gerekir. ÇÖZGER raporuyla özel gereksinimli çocuk için evde bakım ücreti, özel tüketim vergisi istisnalı araç alımı, eğitim hakkı, özel eğitim ve rehabilitasyon merkezlerinde sunulan destek özel eğitim hizmetlerinden ücretsiz yararlanma,<br/>şehir içi ulaşımdan ücretsiz yararlanma, elektrik, su, doğalgaz faturalarında indirimden yararlanma, cep telefonu ve internet faturalarında indirimden yararlanma, vergi indirimi gibi haklardan yararlanabilir.<br>Yanıt C'dir. ÇÖZGER'dir."
+        "Aciklama": "0-18 yaş aralığındaki bireylere gelişimsel yetersizlik (OSB ya da zihin yetersizliği) tanısı konduğunda “Çocuk Özel Gereksinim Raporu (ÇÖZGER)” çıkartılması gerekir. ÇÖZGER almak için çocuğun bakımını üstlenen kişinin başvuru dilekçesiyle ÇÖZGER düzenlemeye yetkili hastaneye başvuru yapması gerekir. ÇÖZGER raporuyla özel gereksinimli çocuk için evde bakım ücreti, özel tüketim vergisi istisnalı araç alımı, eğitim hakkı, özel eğitim ve rehabilitasyon merkezlerinde sunulan destek özel eğitim hizmetlerinden ücretsiz yararlanma,<br/>şehir içi ulaşımdan ücretsiz yararlanma, elektrik, su, doğalgaz faturalarında indirimden yararlanma, cep telefonu ve internet faturalarında indirimden yararlanma, vergi indirimi gibi haklardan yararlanabilir.<br/>Yanıt C'dir. ÇÖZGER'dir."
     },
     {
         "SoruID": 3863288,
@@ -2657,7 +2657,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Bireyin özel eğitim hizmetlerinden yararlanabilmesi için tıbbi tanının yanı sıra Rehberlik Araştırma Merkezinde (RAM) eğitsel tanılamasının yapılması gerekir. Eğitsel tanılaması yapılarak yerleştirmesi yapılan özel gereksinimli öğrenciler için devam ettikleri okul ve kurumlarda bireyselleştirilmiş eğitim programı (BEP) hazırlanır. Ülkemizde özel gereksinimli bireyler için BEP hazırlanması yasal bir zorunluluktur.<br>Yanıt A'dır. Bireyselleştirilmiş eğitim programıdır."
+        "Aciklama": "Bireyin özel eğitim hizmetlerinden yararlanabilmesi için tıbbi tanının yanı sıra Rehberlik Araştırma Merkezinde (RAM) eğitsel tanılamasının yapılması gerekir. Eğitsel tanılaması yapılarak yerleştirmesi yapılan özel gereksinimli öğrenciler için devam ettikleri okul ve kurumlarda bireyselleştirilmiş eğitim programı (BEP) hazırlanır. Ülkemizde özel gereksinimli bireyler için BEP hazırlanması yasal bir zorunluluktur.<br/>Yanıt A'dır. Bireyselleştirilmiş eğitim programıdır."
     },
     {
         "SoruID": 3863289,
@@ -2677,7 +2677,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "BEP (bireyselleştirilmiş eğitim programı), özel eğitim hizmetlerine uygunluğuna karar verilen öğrenciler için sağlanacak özel eğitim hizmetlerinin “nerede, ne zaman, ne kadar süreyle, kimler” tarafından ve “hangi amaçları” gerçekleştirmek üzere uygulanacağını gösteren<br/>ve yazılı olarak hazırlanan bir belgedir.<br>Yanıt C'dir. BEP'dir."
+        "Aciklama": "BEP (bireyselleştirilmiş eğitim programı), özel eğitim hizmetlerine uygunluğuna karar verilen öğrenciler için sağlanacak özel eğitim hizmetlerinin “nerede, ne zaman, ne kadar süreyle, kimler” tarafından ve “hangi amaçları” gerçekleştirmek üzere uygulanacağını gösteren<br/>ve yazılı olarak hazırlanan bir belgedir.<br/>Yanıt C'dir. BEP'dir."
     },
     {
         "SoruID": 3863290,
@@ -2697,7 +2697,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Fiziksel çevrenin gelişimsel yetersizliği olan öğrencilere göre düzenlenmesinin yanı sıra bu bireyler için öğretim sürecinde görsel desteklerden yararlanılabilir. Görsel destekler; ortak dikkat, konuşmayı teşvik etme, iletişimi başlatmayı kolaylaştırma, hatırlamayı teşvik etme, dikkat geliştirme ve sosyal başlatmayı harekete geçirmek amacıyla kullanılır. Gelişimsel yetersizliği olan bireylerle yaygın olarak kullanılan görsel destekler; etkinlik çizelgeleri, takvimler, kontrol listeleri, renk kodları, görsel senaryolar, grafik düzenleyiciler/şemalar,<br/>kural hatırlatıcı kartlar, resim ve fotoğraflar, resim değiş tokuşuna dayalı materyaller (Picture Exchange Communication System [PECS]), güç kartları (power cards), resimli sosyal beceri kitapları, sosyal öyküler ve videoyla model olma olarak sıralanabilir.<br>Yanıt C'dir. Etkinlik çizelgeleridir."
+        "Aciklama": "Fiziksel çevrenin gelişimsel yetersizliği olan öğrencilere göre düzenlenmesinin yanı sıra bu bireyler için öğretim sürecinde görsel desteklerden yararlanılabilir. Görsel destekler; ortak dikkat, konuşmayı teşvik etme, iletişimi başlatmayı kolaylaştırma, hatırlamayı teşvik etme, dikkat geliştirme ve sosyal başlatmayı harekete geçirmek amacıyla kullanılır. Gelişimsel yetersizliği olan bireylerle yaygın olarak kullanılan görsel destekler; etkinlik çizelgeleri, takvimler, kontrol listeleri, renk kodları, görsel senaryolar, grafik düzenleyiciler/şemalar,<br/>kural hatırlatıcı kartlar, resim ve fotoğraflar, resim değiş tokuşuna dayalı materyaller (Picture Exchange Communication System [PECS]), güç kartları (power cards), resimli sosyal beceri kitapları, sosyal öyküler ve videoyla model olma olarak sıralanabilir.<br/>Yanıt C'dir. Etkinlik çizelgeleridir."
     },
     {
         "SoruID": 3863291,
@@ -2717,7 +2717,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Gelişimsel yetersizliği olan bireylerle kullanılan orta düzey yardımcı teknolojiler arasında bas konuş (üzerinde kayıt ve oynatma düğmesi olan, bireyin cihaza kaydedilen sesi dinleyip duyduğu sesi tekrar etmesini sağlayan teknoloji), dil kartları, hesap makineleri, ses kayıt cihazları, konuşan sözlükler, okuma kalemleri sayılabilir.<br>Yanıt C'dir. Orta düzey yardımcı teknolojilerdir."
+        "Aciklama": "Gelişimsel yetersizliği olan bireylerle kullanılan orta düzey yardımcı teknolojiler arasında bas konuş (üzerinde kayıt ve oynatma düğmesi olan, bireyin cihaza kaydedilen sesi dinleyip duyduğu sesi tekrar etmesini sağlayan teknoloji), dil kartları, hesap makineleri, ses kayıt cihazları, konuşan sözlükler, okuma kalemleri sayılabilir.<br/>Yanıt C'dir. Orta düzey yardımcı teknolojilerdir."
     },
     {
         "SoruID": 3863292,
@@ -2737,7 +2737,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Düşük düzey yardımcı teknolojiler, genellikle kullanılması için eğitim gerektirmeyen, düşük bütçeli ve karmaşık mekanik özellikleri olmayan, günlük yaşamda sıkça karşılaşılan, sınıf ortamında da kolaylıkla bulunabilecek teknolojilerdir. Gelişimsel yetersizliği olan bireylerle kullanılan düşük düzey yardımcı teknolojiler arasında PECS, etkinlik çizelgeleri, yazı şablonları, görsel zamanlayıcılar (ör. saat), kalem tutma destekleri, fosforlu kalemler, okuma kılavuzları (okunan satırın üstüne yerleştirilerek yalnızca ilgili satırı okumayı sağlar) sayılabilir.<br>Yanıt A'dır. Düşük düzey yardımcı teknolojilerdir."
+        "Aciklama": "Düşük düzey yardımcı teknolojiler, genellikle kullanılması için eğitim gerektirmeyen, düşük bütçeli ve karmaşık mekanik özellikleri olmayan, günlük yaşamda sıkça karşılaşılan, sınıf ortamında da kolaylıkla bulunabilecek teknolojilerdir. Gelişimsel yetersizliği olan bireylerle kullanılan düşük düzey yardımcı teknolojiler arasında PECS, etkinlik çizelgeleri, yazı şablonları, görsel zamanlayıcılar (ör. saat), kalem tutma destekleri, fosforlu kalemler, okuma kılavuzları (okunan satırın üstüne yerleştirilerek yalnızca ilgili satırı okumayı sağlar) sayılabilir.<br/>Yanıt A'dır. Düşük düzey yardımcı teknolojilerdir."
     },
     {
         "SoruID": 3863293,
@@ -2757,7 +2757,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Artırılmış gerçeklik, kullanıcının gerçek dünya ortamı üzerine yerleştirilen sanal nesnelerle etkileşime geçtiği uygulamadır. Bir başka deyişle artırılmış gerçeklik, gerçek dünya ile dijital dünyayı eş zamanlı olarak birleştirerek bir arada gösteren, gerçek ortamlar üzerinde sanal nesneleri görmeyi ve onlarla etkileşime girmeyi sağlayan bir üç boyut teknolojisidir. Artırılmış gerçeklik uygulamaları temel olarak sanal gerçeklik tekniklerine dayanmaktadır. Bu bağlamda sanal ve gerçek dünyayı birleştirerek kullanıcıların fiziki dünyaya ait duyusal algılarını geliştirmeyi hedefler. Daha açık bir ifadeyle artırılmış gerçeklik bilgisayar ortamında hazırlanmış sanal nesnelerin çeşitli aygıtlar yardımıyla gerçek dünya üzerine sanki oradaymış gibi yerleştirilmesi olarak tanımlanabilir.<br>Yanıt C'dir. Artırılmış gerçekliktir."
+        "Aciklama": "Artırılmış gerçeklik, kullanıcının gerçek dünya ortamı üzerine yerleştirilen sanal nesnelerle etkileşime geçtiği uygulamadır. Bir başka deyişle artırılmış gerçeklik, gerçek dünya ile dijital dünyayı eş zamanlı olarak birleştirerek bir arada gösteren, gerçek ortamlar üzerinde sanal nesneleri görmeyi ve onlarla etkileşime girmeyi sağlayan bir üç boyut teknolojisidir. Artırılmış gerçeklik uygulamaları temel olarak sanal gerçeklik tekniklerine dayanmaktadır. Bu bağlamda sanal ve gerçek dünyayı birleştirerek kullanıcıların fiziki dünyaya ait duyusal algılarını geliştirmeyi hedefler. Daha açık bir ifadeyle artırılmış gerçeklik bilgisayar ortamında hazırlanmış sanal nesnelerin çeşitli aygıtlar yardımıyla gerçek dünya üzerine sanki oradaymış gibi yerleştirilmesi olarak tanımlanabilir.<br/>Yanıt C'dir. Artırılmış gerçekliktir."
     },
     {
         "SoruID": 3862942,
@@ -3257,7 +3257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görme yetersizliği olan öğrencilere matematik derslerinde kullanabilmeleri için erişilebilir matematik araçları<br/>hazırlanmıştır. Küptaş, küptaş kasa ve abaküs kullanılarak işlemler yapılabilir, Braille cetvel, gönye, iletki ile öğrencilerin ölçüm yapmaları sağlanabilir, rulet ve özel hazırlanmış pergelle şekilleri çizmeleri sağlanabilir.<br>Hepsi"
+        "Aciklama": "Görme yetersizliği olan öğrencilere matematik derslerinde kullanabilmeleri için erişilebilir matematik araçları<br/>hazırlanmıştır. Küptaş, küptaş kasa ve abaküs kullanılarak işlemler yapılabilir, Braille cetvel, gönye, iletki ile öğrencilerin ölçüm yapmaları sağlanabilir, rulet ve özel hazırlanmış pergelle şekilleri çizmeleri sağlanabilir.<br/>Hepsi"
     },
     {
         "SoruID": 3863124,
@@ -3337,7 +3337,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yemek yaparken parmakların kesilmesini engelleyen bir aparat tasarlanması herkesin kullanabileceği,<br/>işlevsel bir tasarımdır. Sıvı seviye gösterge cihazı (Gösterge kupa ya da bardağın kenarına yerleştirilir, bip sesi<br/>çıkana kadar sıvı dökülür.) gibi tasarımlar erişilebilir tasarımlardandır. Ölçü kapları herkes için görselliği<br/>de (Saydam yüzey üzerinde şekiller ve yazıları görmek zordur.) artırılarak dokunsal, sesli olarak erişilebilir<br/>şekilde tasarlanabilir. Depolama alanlarının düzenlenmesi, baharat kapları gibi mutfak düzenlemelerinin<br/>üzerine yapıştırılacak bir barkod ile telefonunu yaklaştırdığında sesli olarak dinleyebileceği ve dokunsal<br/>olarak ayırt etmeyi kolaylaştıracak düzenlemeler tasarlanabilir. Alışveriş yaparken destekleyici teknolojilerde açıklanan Seeing AI gibi yazılım programları erişilebilirliği sağlayacaktır ve ev içi ortamlar için de kişilere kolaylık sağlayacak tasarımlar geliştirilebilir. Görünürlüğü kolaylaştıracak bir tarafı açık renkte diğer<br/>tarafı<br>Hepsi"
+        "Aciklama": "Yemek yaparken parmakların kesilmesini engelleyen bir aparat tasarlanması herkesin kullanabileceği,<br/>işlevsel bir tasarımdır. Sıvı seviye gösterge cihazı (Gösterge kupa ya da bardağın kenarına yerleştirilir, bip sesi<br/>çıkana kadar sıvı dökülür.) gibi tasarımlar erişilebilir tasarımlardandır. Ölçü kapları herkes için görselliği<br/>de (Saydam yüzey üzerinde şekiller ve yazıları görmek zordur.) artırılarak dokunsal, sesli olarak erişilebilir<br/>şekilde tasarlanabilir. Depolama alanlarının düzenlenmesi, baharat kapları gibi mutfak düzenlemelerinin<br/>üzerine yapıştırılacak bir barkod ile telefonunu yaklaştırdığında sesli olarak dinleyebileceği ve dokunsal<br/>olarak ayırt etmeyi kolaylaştıracak düzenlemeler tasarlanabilir. Alışveriş yaparken destekleyici teknolojilerde açıklanan Seeing AI gibi yazılım programları erişilebilirliği sağlayacaktır ve ev içi ortamlar için de kişilere kolaylık sağlayacak tasarımlar geliştirilebilir. Görünürlüğü kolaylaştıracak bir tarafı açık renkte diğer<br/>tarafı<br/>Hepsi"
     },
     {
         "SoruID": 3863131,
@@ -3357,7 +3357,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Görme yetersizliği olan çocukların duyularını geliştirmeye yönelik çeşitli çalışmalar yapılmaktadır.<br/>Görmesi sınırlı ya da göremeyen çocukların dokunsal, işitsel, kinestetik, koklama duyularını destekleyecek<br/>tasarımların üretilmesi büyük önem taşımaktadır. Az gören çocukların da görme becerilerini ve diğer duyularını destekleyecek tasarımların üretilmesi gerekmektedir. Bu tasarımlar, çocukların duyularının gelişimini<br/>desteklemenin yanı sıra bilişsel, sosyal, dil ve psiko-motor gelişimlerini de desteklemektedir.<br>Hepsi"
+        "Aciklama": "Görme yetersizliği olan çocukların duyularını geliştirmeye yönelik çeşitli çalışmalar yapılmaktadır.<br/>Görmesi sınırlı ya da göremeyen çocukların dokunsal, işitsel, kinestetik, koklama duyularını destekleyecek<br/>tasarımların üretilmesi büyük önem taşımaktadır. Az gören çocukların da görme becerilerini ve diğer duyularını destekleyecek tasarımların üretilmesi gerekmektedir. Bu tasarımlar, çocukların duyularının gelişimini<br/>desteklemenin yanı sıra bilişsel, sosyal, dil ve psiko-motor gelişimlerini de desteklemektedir.<br/>Hepsi"
     },
     {
         "SoruID": 3863206,
@@ -3617,7 +3617,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "<strong>Retinitis pigmentosa</strong>, periferik görme kaybı (tünel görüş) ve gece körlüğü ile karakterizedir.<br data-end=\"771\" data-start=\"768\"/> Glokom da periferik kayba yol açabilir ancak tipik olarak ilerleyici basınç hasarına bağlıdır ve gece körlüğü olmaz."
+        "Aciklama": "<strong>Retinitis pigmentosa</strong>, periferik görme kaybı (tünel görüş) ve gece körlüğü ile karakterizedir.<br/>Glokom da periferik kayba yol açabilir ancak tipik olarak ilerleyici basınç hasarına bağlıdır ve gece körlüğü olmaz."
     },
     {
         "SoruID": 3863298,
@@ -3702,7 +3702,7 @@
     {
         "SoruID": 3863302,
         "SoruMetni": "Herkesin gereksiz çaba, özel muamele ve ayrı çözümlere gerek kalmadan kolayca kullanabileceği, duygusal açıdan erişilebilir, seçim özgürlüğü sunan, eşit katılım sağlayan, farklılıkları kapsayan, anlaşılır, güvenli ve nitelikli çevreyi hedefleyen tasarım yaklaşımı aşağıdakilerden hangisidir?",
-        "A": "Bağımsız yaşam tasarımı<br data-end=\"502\" data-start=\"499\"/>",
+        "A": "Bağımsız yaşam tasarımı",
         "B": "Özel eğitim destek tasarımı",
         "C": "Erişilebilir tasarım",
         "D": "Uyarlanmış tasarım",

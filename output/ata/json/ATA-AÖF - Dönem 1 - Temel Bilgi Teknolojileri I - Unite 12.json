@@ -21,7 +21,7 @@
     },
     {
         "SoruID": 376763,
-        "SoruMetni": "I. Karşılıklı etkileşim<br/>II. Eş zamanlı olmayan iletişim<br/>III. Yeniden karıştırma<br/>IV. Kitlesizleştirme<br/><strong>Yukarıda verilenlerden hangisi ya da hangileri iletişim teknolojilerinin sunduğu özelliklerdendir?</strong><br/></br></br></br></br>",
+        "SoruMetni": "I. Karşılıklı etkileşim<br/>II. Eş zamanlı olmayan iletişim<br/>III. Yeniden karıştırma<br/>IV. Kitlesizleştirme<br/><strong>Yukarıda verilenlerden hangisi ya da hangileri iletişim teknolojilerinin sunduğu özelliklerdendir?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 376766,
-        "SoruMetni": "I. Bağlantı hızının yavaş olması<br/>II. Vücut dilini anlayabilme olanağı<br/>III. Konuşma ve görme olanağı<br/>IV. Öğrencilerin teknik eksikliklerinin olması (mikrofon, kamera)<br/><strong>Yukarıda verilenlerden hangisi ya da hangileri web konferans sistemlerinin sunduğu avantajlardandır?</strong><br/></br></br></br></br>",
+        "SoruMetni": "I. Bağlantı hızının yavaş olması<br/>II. Vücut dilini anlayabilme olanağı<br/>III. Konuşma ve görme olanağı<br/>IV. Öğrencilerin teknik eksikliklerinin olması (mikrofon, kamera)<br/><strong>Yukarıda verilenlerden hangisi ya da hangileri web konferans sistemlerinin sunduğu avantajlardandır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 376925,
-        "SoruMetni": "I. Dosya transfer etme<br/>II. Hiperlinkler gönderme<br/>III. Video chat yapma<br/>IV. Sesli/görüntülü dosya gönderme<br/><strong>Yukarıdakilerden hangisi ya da hangileri anlık mesajlaşma uygulamalarının sunduğu olanaklar arasında yer alır?</strong></br></br></br>",
+        "SoruMetni": "I. Dosya transfer etme<br/>II. Hiperlinkler gönderme<br/>III. Video chat yapma<br/>IV. Sesli/görüntülü dosya gönderme<br/><strong>Yukarıdakilerden hangisi ya da hangileri anlık mesajlaşma uygulamalarının sunduğu olanaklar arasında yer alır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "I ve III",

@@ -197,7 +197,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Cenevre Çocuk Hakları Beyannamesinin 1.maddesi;<br/>\"Çocuk bedensel ve ruhsal bakımdan doğal biçimde gelişmesine olanak sağlayacak koşullar içinde<br/>bulundurulmalıdır.\"</br>"
+        "Aciklama": "Cenevre Çocuk Hakları Beyannamesinin 1.maddesi;<br/>\"Çocuk bedensel ve ruhsal bakımdan doğal biçimde gelişmesine olanak sağlayacak koşullar içinde<br/>bulundurulmalıdır.\""
     },
     {
         "SoruID": 3863193,
@@ -257,7 +257,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Yardımcı teknoloji araçları; tekerlekli sandalye, projez ve ortezler, mobil uygulamalar, özel olarak geliştirilmiş yazılımlar, akıll telefon, tablet bilgisayarı gibi teknolojik donanımlar, vücut organlarının kullanımını kolaylaştıran aparatlar, resimli kartlar, Braille ile özel olarak yazılmış kitaplar, sesli kitaplar gibi sıralanabilir.<br>Renkli ve fosforlu kalemler"
+        "Aciklama": "Yardımcı teknoloji araçları; tekerlekli sandalye, projez ve ortezler, mobil uygulamalar, özel olarak geliştirilmiş yazılımlar, akıll telefon, tablet bilgisayarı gibi teknolojik donanımlar, vücut organlarının kullanımını kolaylaştıran aparatlar, resimli kartlar, Braille ile özel olarak yazılmış kitaplar, sesli kitaplar gibi sıralanabilir.<br/>Renkli ve fosforlu kalemler"
     },
     {
         "SoruID": 3863196,
@@ -297,7 +297,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Zamanlayıcılar, hesap makineleri, tablet bilgisayarlar, konuşma üreten cihazlar, ses kayıt cihazları, etkileşimli kitaplar, pille çalışan oyuncaklar orta düzey teknolojilerden sayılır.<br>Kitap tasarımları"
+        "Aciklama": "Zamanlayıcılar, hesap makineleri, tablet bilgisayarlar, konuşma üreten cihazlar, ses kayıt cihazları, etkileşimli kitaplar, pille çalışan oyuncaklar orta düzey teknolojilerden sayılır.<br/>Kitap tasarımları"
     },
     {
         "SoruID": 3863198,
@@ -317,7 +317,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Örneğin, bilgisayarlar, tablet bilgisayarlar, akıllı telefonlar, akıllı saatler, konuşan saatler, işitme cihazları, akülü tekerlekli sandalyeler <strong>yüksek düzey teknolojilerdendir.</strong><br>Etkileşimli kitaplar"
+        "Aciklama": "Örneğin, bilgisayarlar, tablet bilgisayarlar, akıllı telefonlar, akıllı saatler, konuşan saatler, işitme cihazları, akülü tekerlekli sandalyeler <strong>yüksek düzey teknolojilerdendir.</strong><br/>Etkileşimli kitaplar"
     },
     {
         "SoruID": 3863199,

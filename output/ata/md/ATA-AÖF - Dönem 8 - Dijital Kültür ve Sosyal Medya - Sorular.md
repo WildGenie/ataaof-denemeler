@@ -38,11 +38,7 @@
     - D-) Devletten çalışanlara yapılan işlemler
     - **Cevap E-) Devletten iş dünyasına yapılan işlemler**
 
-    > **Açıklama:** Dijital devlet (e-devlet) uygulamaları, devletin farklı birimlerle olan ilişkilerine göre sınıflandırılır. Metinde bu sınıflandırma şu şekilde verilmiştir:
-    > * **G2C:** Devletin vatandaşlarla çalıştığı uygulamalar
-    > * **G2B (Government to Business):** Devletin iş dünyasına yönelik olarak tedarik, bilgi toplama ve hizmetlerine karşılık gelen uygulamalar
-    > * **G2G:** Kamu kurumlarının birbirleriyle olan iletişim ve etkileşimi
-    > * **G2E:** Kamu kurumlarının kamu çalışanlarıyla olan etkileşimi
+    > **Açıklama:** Dijital devlet (e-devlet) uygulamaları, devletin farklı birimlerle olan ilişkilerine göre sınıflandırılır. Metinde bu sınıflandırma şu şekilde verilmiştir:<br />* **G2C:** Devletin vatandaşlarla çalıştığı uygulamalar<br />* **G2B (Government to Business):** Devletin iş dünyasına yönelik olarak tedarik, bilgi toplama ve hizmetlerine karşılık gelen uygulamalar<br />* **G2G:** Kamu kurumlarının birbirleriyle olan iletişim ve etkileşimi<br />* **G2E:** Kamu kurumlarının kamu çalışanlarıyla olan etkileşimi
 
     <hr />
 1. Aşağıdakilerden hangisi **Daniel Bell’in insanlık tarihine yönelik yapmış olduğu sınıflamalardan biri olan Sanayi Dönemi’nin özelliklerinden biri değildir?**
@@ -303,10 +299,7 @@
     - D-) Snapchat
     - E-) Youtube
 
-    > **Açıklama:** Farklı sosyal medya araçları, kimlik oluşumunda farklı işlevlere hizmet eder. Genel olarak **Twitter** hesabı, kullanıcıların **siyasi görüşlerini paylaşmak** ve gündem oluşturmak için kullandıkları bir platform olarak öne çıkar. Diğer platformlar ise genellikle şu amaçlarla kullanılır :
-    > * **Facebook:** Arkadaşlarla iletişim kurmak
-    > * **Instagram:** Özel yaşantıları ve öz çekimleri paylaşmak
-    > * **LinkedIn:** Mesleki özellikleri paylaşmak
+    > **Açıklama:** Farklı sosyal medya araçları, kimlik oluşumunda farklı işlevlere hizmet eder. Genel olarak **Twitter** hesabı, kullanıcıların **siyasi görüşlerini paylaşmak** ve gündem oluşturmak için kullandıkları bir platform olarak öne çıkar. Diğer platformlar ise genellikle şu amaçlarla kullanılır :<br />* **Facebook:** Arkadaşlarla iletişim kurmak<br />* **Instagram:** Özel yaşantıları ve öz çekimleri paylaşmak<br />* **LinkedIn:** Mesleki özellikleri paylaşmak
 
     <hr />
 1. **A**şağıdakilerden hangisi s**osyal medya ortamlarında kişinin kimliği ile ilgili sanal mekânlardan biri değildir?**
@@ -1442,11 +1435,7 @@
     - D-) Yumrukla vurmak
     - **Cevap E-) Balta ile vurmak**
 
-    > **Açıklama:** Dijital oyunlardaki şiddet türleri metinde üçe ayrılmıştır :
-    > * **Kodlu Şiddet:** Sözlü, sembolik, görsel veya pornografik şiddet.
-    > * **Araçsal Şiddet:** Silah, bıçak, kılıç, balta gibi araçların kullanımıyla gerçekleşen şiddet.
-    > * **Fiziksel Şiddet:** Karakterlerin el, kol, bacak gibi uzuvlarını kullanarak uyguladığı şiddet.
-    > Buna göre, balta ile vurmak **araçsal şiddet** kategorisine girer.
+    > **Açıklama:** Dijital oyunlardaki şiddet türleri metinde üçe ayrılmıştır :<br />* **Kodlu Şiddet:** Sözlü, sembolik, görsel veya pornografik şiddet.<br />* **Araçsal Şiddet:** Silah, bıçak, kılıç, balta gibi araçların kullanımıyla gerçekleşen şiddet.<br />* **Fiziksel Şiddet:** Karakterlerin el, kol, bacak gibi uzuvlarını kullanarak uyguladığı şiddet.<br />Buna göre, balta ile vurmak **araçsal şiddet** kategorisine girer.
 
     <hr />
 1. **Gerçek olmayıp gerçekmiş gibi oluşturulan ve neredeyse birçok olayın meydana geldiği alanlar aşağıdakilerden hangisidir?**

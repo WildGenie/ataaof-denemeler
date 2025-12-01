@@ -81,7 +81,7 @@
     },
     {
         "SoruID": 115868,
-        "SoruMetni": "I. Işık kaynağının kadrajın sadece bir bölümünü aydınlatması ve diğer kısımların karanlıkta bırakılması şeklinde gerçekleşen bir aydınlatmadır.<br/>II. Özellikle ışıkla fotoğrafa belirginlik katılmak istenen durumlarda veya konudaki herhangi bir noktanın vurgulanmasının istendiği durumlarda tercih edilir.<br/>III. Ünlü Hollandalı ressam Rembrandt resimlerinde bu tekniği kullandığı için bu tarz aydınlatma biçimi Rembrandt Aydınlatması olarak bilinmektedir.<br/><strong>Bölgesel aydınlatma ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong></br></br>",
+        "SoruMetni": "I. Işık kaynağının kadrajın sadece bir bölümünü aydınlatması ve diğer kısımların karanlıkta bırakılması şeklinde gerçekleşen bir aydınlatmadır.<br/>II. Özellikle ışıkla fotoğrafa belirginlik katılmak istenen durumlarda veya konudaki herhangi bir noktanın vurgulanmasının istendiği durumlarda tercih edilir.<br/>III. Ünlü Hollandalı ressam Rembrandt resimlerinde bu tekniği kullandığı için bu tarz aydınlatma biçimi Rembrandt Aydınlatması olarak bilinmektedir.<br/><strong>Bölgesel aydınlatma ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>",
         "A": "Yalnız ı",
         "B": "Yalnız II",
         "C": "I ve II",
@@ -162,11 +162,11 @@
     {
         "SoruID": 165495,
         "SoruMetni": "<strong>Işığın parlak ve hüzme halinde olduğu, koyu gölgeler ve parlak aydınlık alanlar oluşturduğu aydınlatma biçimi aşağıdakilerden hangisidir?</strong>",
-        "A": "Soğuk ışık<br type=\"_moz\"/>",
+        "A": "Soğuk ışık",
         "B": "Serin ışık",
         "C": "Sert ışık",
         "D": "Sıcak ışık",
-        "E": "Yumuşak ışık<br type=\"_moz\"/>",
+        "E": "Yumuşak ışık",
         "DogruCevap": "C",
         "DersAd": "Temel Fotoğrafçılık",
         "Somestre": 1,
@@ -221,7 +221,7 @@
     },
     {
         "SoruID": 165498,
-        "SoruMetni": "I. Su terazili tripod kullanmak<br/>II. Ekran ızgarası kullanmak<br/>III. Paralellik kuralını uygulamak<br/><strong>Yukarıdakilerden hangisi ya da hangileri perspektif hatasına düşmemek amacıyla kullanılabilecek uygulamalar arasında yer almaktadır?</strong> </br></br>",
+        "SoruMetni": "I. Su terazili tripod kullanmak<br/>II. Ekran ızgarası kullanmak<br/>III. Paralellik kuralını uygulamak<br/><strong>Yukarıdakilerden hangisi ya da hangileri perspektif hatasına düşmemek amacıyla kullanılabilecek uygulamalar arasında yer almaktadır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",
@@ -401,7 +401,7 @@
     },
     {
         "SoruID": 304488,
-        "SoruMetni": "I. Bakış açısı<br/>II. Objektifin odak uzaklığı<br/>III. Diyafram değerleri<br/><strong>Yukarıdakilerden hangisi ya da hangileri bir fotoğrafta üç boyut hissi oluşturmak amacıyla kullanılmaktadır?</strong> </br></br>",
+        "SoruMetni": "I. Bakış açısı<br/>II. Objektifin odak uzaklığı<br/>III. Diyafram değerleri<br/><strong>Yukarıdakilerden hangisi ya da hangileri bir fotoğrafta üç boyut hissi oluşturmak amacıyla kullanılmaktadır?</strong>",
         "A": "Yalnız I",
         "B": "Yalnız II",
         "C": "Yalnız III",

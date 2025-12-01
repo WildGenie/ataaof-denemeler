@@ -417,7 +417,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Akıl Yürütme Olarak Düşünme<br>Çıkarım: Akıl yürütmenin gözlemlenebildiği, öncül ve sonuçlardan oluşan bütün.<br/>Öncül: Doğru olduğu başlangıçta bilinen<br/>veya kabul edilen önermeler.<br/>Sonuç: Öncüllerden çıkarım yoluyla elde<br/>edilen yeni önerme."
+        "Aciklama": "Akıl Yürütme Olarak Düşünme<br/>Çıkarım: Akıl yürütmenin gözlemlenebildiği, öncül ve sonuçlardan oluşan bütün.<br/>Öncül: Doğru olduğu başlangıçta bilinen<br/>veya kabul edilen önermeler.<br/>Sonuç: Öncüllerden çıkarım yoluyla elde<br/>edilen yeni önerme."
     },
     {
         "SoruID": 3354284,
@@ -437,7 +437,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Akıl Yürütme Olarak Düşünme<br>“Cogito, ergo sum - Düşünüyorum, öyleyse varım” René Descartes'e aittir."
+        "Aciklama": "Akıl Yürütme Olarak Düşünme<br/>“Cogito, ergo sum - Düşünüyorum, öyleyse varım” René Descartes'e aittir."
     },
     {
         "SoruID": 3354285,
@@ -457,7 +457,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Akıl Yürütme Olarak Düşünme<br><br/>Bilindiği varsayılan öncüllerden veya olgulardan, çıkarım kurallarına göre temellendirilmiş yeni sonuçlar çıkarma sürecine <strong>akıl yürütme</strong> adı verilir."
+        "Aciklama": "Akıl Yürütme Olarak Düşünme<br/><br/>Bilindiği varsayılan öncüllerden veya olgulardan, çıkarım kurallarına göre temellendirilmiş yeni sonuçlar çıkarma sürecine <strong>akıl yürütme</strong> adı verilir."
     },
     {
         "SoruID": 3354286,
@@ -557,7 +557,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İnformel Safsatalar<br>Yanlış İkilem Safsatası (False Dilemma): Başka seçenekler<br/>de bulunduğu halde iki seçenekten birinin seçilmek zorunda olduğu izlenimi verilerek gerçekleştirilen safsatadır. Örnek verecek<br/>olursak;<br/>Örnek 1: Ya bizim ürettiğimiz güneş kremini kullanın ya da acı veren güneş yanıkları sizi bekliyor… (Burada belirli bir firmanın sattığı ürün dışında güneş yanığından korunamayacağı izlenimi yaratılmaya çalışılarak bir safsata ortaya konuyor).<br/>Örnek 2: Muhtarlık seçiminde ya bana oy verirsiniz ya da ikamet belgesi için yüksek ücretler ödersiniz (Burada diğer adayların da seçilmesi hâlinde ikamet belgesinden ücret<br/>almayabileceği hâlde yanlış bir ikilem sunularak seçmen ikna edilmeye çalışılıyor)."
+        "Aciklama": "İnformel Safsatalar<br/>Yanlış İkilem Safsatası (False Dilemma): Başka seçenekler<br/>de bulunduğu halde iki seçenekten birinin seçilmek zorunda olduğu izlenimi verilerek gerçekleştirilen safsatadır. Örnek verecek<br/>olursak;<br/>Örnek 1: Ya bizim ürettiğimiz güneş kremini kullanın ya da acı veren güneş yanıkları sizi bekliyor… (Burada belirli bir firmanın sattığı ürün dışında güneş yanığından korunamayacağı izlenimi yaratılmaya çalışılarak bir safsata ortaya konuyor).<br/>Örnek 2: Muhtarlık seçiminde ya bana oy verirsiniz ya da ikamet belgesi için yüksek ücretler ödersiniz (Burada diğer adayların da seçilmesi hâlinde ikamet belgesinden ücret<br/>almayabileceği hâlde yanlış bir ikilem sunularak seçmen ikna edilmeye çalışılıyor)."
     },
     {
         "SoruID": 3354291,
@@ -577,7 +577,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "İnformel Safsatalar<br>Kişi Karalama Safsatası (Argumentum ad Hominem): Bu safsata türü bir kişinin ortaya koyduğu çıkarıma değil, kişinin kendisine saldırılması üzerine ortaya çıkar. Latince “insana” anlamına gelir ve adından da anlaşılacağı gibi, çıkarıma değil, onu ortaya atan kişiye yönelik bir karalamadır. Örnek verecek olursak “Ayşe Hoca işinde çok başarılı birisi” diyen bir kişiye “ondan yüksek not almak için her yerde onu övüyorsun” şeklinde cevap verilmesi gösterilebilir. Burada dikkat edilirse Ayşe Hoca’nın işinde başarılı olduğu iddiası, başarılı olma özelliğine değil, bunu söyleyen kişi üzerinden reddedilmiş, ortaya atılan fikre bir karşı çıkış değil, fikri ortaya atan kişiye bir suçlama getirilmiştir. Argumentum Ad Hominem (Kişi Karalama Safsatası) bu şekilde tespit edebileceğimiz bir safsatadır."
+        "Aciklama": "İnformel Safsatalar<br/>Kişi Karalama Safsatası (Argumentum ad Hominem): Bu safsata türü bir kişinin ortaya koyduğu çıkarıma değil, kişinin kendisine saldırılması üzerine ortaya çıkar. Latince “insana” anlamına gelir ve adından da anlaşılacağı gibi, çıkarıma değil, onu ortaya atan kişiye yönelik bir karalamadır. Örnek verecek olursak “Ayşe Hoca işinde çok başarılı birisi” diyen bir kişiye “ondan yüksek not almak için her yerde onu övüyorsun” şeklinde cevap verilmesi gösterilebilir. Burada dikkat edilirse Ayşe Hoca’nın işinde başarılı olduğu iddiası, başarılı olma özelliğine değil, bunu söyleyen kişi üzerinden reddedilmiş, ortaya atılan fikre bir karşı çıkış değil, fikri ortaya atan kişiye bir suçlama getirilmiştir. Argumentum Ad Hominem (Kişi Karalama Safsatası) bu şekilde tespit edebileceğimiz bir safsatadır."
     },
     {
         "SoruID": 3354292,
@@ -597,7 +597,7 @@
         "DersId": 0,
         "OBSDersId": 0,
         "CevapSira": null,
-        "Aciklama": "Önemli Bazı İnformel İlkeler<br>Ilımlı Muhafazakârlık:<br/>Fikirlerini hemen değiştirmeye meyilli olmasa da düzgün temellendirilmiş karşıt görüşler karşısında fikir değiştirmekten kaçınmayan tavır"
+        "Aciklama": "Önemli Bazı İnformel İlkeler<br/>Ilımlı Muhafazakârlık:<br/>Fikirlerini hemen değiştirmeye meyilli olmasa da düzgün temellendirilmiş karşıt görüşler karşısında fikir değiştirmekten kaçınmayan tavır"
     },
     {
         "SoruID": 3842716,
